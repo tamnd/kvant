@@ -32,11 +32,15 @@ What a page costs depends on what its own text layer is worth.
 
 | Path | Applies to | Pages | Method |
 | --- | --- | --- | --- |
-| native | 2007 onward | about 13500 | the archive issue PDFs are born digital, so `pdftotext -layout` gives real text |
-| publisher | where the archive already carries text | about a quarter of TOC rows, unevenly | fetched, then checked against the scan |
-| vision | everything else, mostly 1970 to 2006 | about 21000 | page image through vision OCR |
+| native | the 145 issue PDFs measured as born digital | 9726 | `pdftotext` gives real text, so no model reads these pages |
+| publisher | where the archive already carries text | 23% of 1975, unevenly elsewhere | fetched, then checked against the scan |
+| vision | everything else | about 19000 | page image through vision OCR |
+
+The native row is measured and not assumed, which is the whole point of `kvant textguard`. The mirror carries a full issue PDF for 146 of the 516 issues, and 145 of those turn out to be born digital. They run 2005 to 2025 rather than 2007 onward: 2005 and 2006 are set type as well, and 2011 to 2013 have no PDF on the mirror at all. Four of the files hold their Russian in a font with no ToUnicode map, so `pdftotext` hands back the CP1251 bytes as Latin-1 letters and the text has to be read back through the right table. One file, April 2023, has its type converted to outlines and carries no text at all. The measurement per file is in `manifests/paths.yaml` and the summary is in `reports/paths.md`.
 
 Publisher text is never trusted blind. It is diffed against a vision transcription on a sample, because its provenance is unknown and this corpus is meant to be better than its sources rather than equal to them.
+
+Native text is not trusted blind either. It is faster and more accurate word for word, and it gets the reading order of a two column page wrong, which a later pass cannot repair from the text alone. The measurement behind that is in [reports/ocr-audit.md](reports/ocr-audit.md).
 
 ## Layout
 
