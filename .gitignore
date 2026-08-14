@@ -1,0 +1,25 @@
+# Nothing copyrighted and nothing large is committed.
+# A commit that adds one of these is a bug, and the audit fails on it.
+/work/
+/pdf/
+/images/
+/scans/
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.djvu
+*.pdf
+
+# figures/ is the one exception, small cropped diagrams are committed
+!figures/*.png
+!figures/*.svg
+
+# local indexes, rebuildable from the files
+*.duckdb
+*.duckdb.wal
+/site/
+
+.DS_Store
+.idea/
+.vscode/
