@@ -50,4 +50,5 @@ jobs:
       # field that is not in the schema, and an article that no longer matches
       # its pages.
       - name: validate
-        run: "$RUNNER_TEMP/kvant" corpus validate --corpus corpus --structure
+        run: |
+          "$RUNNER_TEMP/kvant" corpus validate --corpus corpus --structure
