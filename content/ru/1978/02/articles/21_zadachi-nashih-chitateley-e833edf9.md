@@ -1,0 +1,47 @@
+---
+id: 1978-2-zadachi-nashih-chitateley-e833edf9
+issue: kvant_1978_2
+year: 1978
+number: "2"
+title: Задачи наших читателей
+rubric: smes
+page_first: 55
+page_last: 55
+page_labels: "53"
+tag: 9CHZ
+lang: ru
+source: kvant_digital
+extraction: vision
+content_sha256: 83095cb1c18c665ed9ccf22e441abb5a7e801d544d447661160911e5a1145fc2
+---
+
+⟦folio 53⟧
+
+Задание наших читателей
+
+1. Докажите, что
+a) $\frac{2 \cdot 1 + 1}{1^2 \cdot 2^2} + \frac{2 \cdot 2 + 1}{2^2 \cdot 3^2} + \frac{2 \cdot 3 + 1}{3^2 \cdot 4^2} + \dots$
+$... + \frac{2 \cdot 1977 + 1}{1977^2 \cdot 1978^2} = \frac{1977 \cdot 1979}{1978^2}$;
+b) $\mathrm{arctg} \frac{\alpha}{\alpha^2 + 1 \cdot 2} + \mathrm{arctg} \frac{\alpha}{\alpha^2 + 2 \cdot 3} + \dots$
+$... + \mathrm{arctg} \frac{\alpha}{\alpha^2 + 1977 \cdot 1978} =$
+$= \mathrm{arctg} \frac{1977 \alpha}{\alpha^2 + 1978}$.
+H. Адцёйзалов
+
+2. Докажите, что если $k, l, p$ и $q$ — натуральные числа, то
+a) из $k + l \geq p + q$ следует, что
+$$\left( \frac{p}{k} \right)^k \cdot \left( \frac{q}{l} \right)^l \leq 1;$$
+
+6) из $k + l + n \geq p + q$ следует, что
+$$\left( \frac{p}{k} \right)^k \cdot \left( \frac{q}{l} \right)^l \leq e^n.$$
+Я. Суконик
+
+3. Найдите сумму
+a) $C_0^0 + \frac{1}{4} C_1^1 + \frac{1}{16} C_2^2 + \dots + \frac{1}{4^k} C_2^k$;
+b) $C_{2n+1}^0 + \frac{1}{3} C_{2n+1}^2 + \frac{1}{5} C_{2n+1}^4 + \dots$
+$... + \frac{1}{2n+1} C_{2n+1}^n$.
+A. Резников
+
+4. Докажите, что
+$$C_0^0 C_{2n}^n + C_1^1 C_{2n}^{n-1} + C_2^2 C_{2n}^{n-2} + \dots$$
+$... + C_{2n}^n C_0^0 = 4^n$.
+C. Конякин
