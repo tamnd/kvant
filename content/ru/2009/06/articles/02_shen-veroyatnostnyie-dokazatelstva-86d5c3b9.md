@@ -10,6 +10,7 @@ rubric: osnovnye-stati
 page_first: 13
 page_last: 27
 page_labels: 11, 13, 14, 25
+tag: NKA5
 lang: ru
 source: kvant_digital
 extraction: native

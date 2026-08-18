@@ -11,6 +11,7 @@ rubric_sub: Математический кружок
 page_first: 33
 page_last: 40
 page_labels: 34, 35, 36, 38
+tag: DEB3
 lang: ru
 source: kvant_digital
 extraction: native

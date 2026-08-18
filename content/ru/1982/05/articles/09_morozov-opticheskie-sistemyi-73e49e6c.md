@@ -11,6 +11,7 @@ rubric_sub: Практикум абитуриента
 page_first: 37
 page_last: 41
 page_labels: 35, 36, 37, 39
+tag: T0S5
 lang: ru
 source: kvant_digital
 extraction: vision

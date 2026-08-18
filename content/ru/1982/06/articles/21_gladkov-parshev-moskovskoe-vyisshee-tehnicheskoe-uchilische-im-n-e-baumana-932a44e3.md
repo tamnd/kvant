@@ -11,6 +11,7 @@ rubric: ekzamenatsionnye-materialy
 page_first: 50
 page_last: 50
 page_labels: "48"
+tag: ZASY
 lang: ru
 source: kvant_digital
 extraction: vision

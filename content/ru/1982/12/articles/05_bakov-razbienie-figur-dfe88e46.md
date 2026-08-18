@@ -10,6 +10,7 @@ rubric: osnovnye-stati
 page_first: 18
 page_last: 19
 page_labels: 16-17
+tag: SIXA
 lang: ru
 source: kvant_digital
 extraction: vision

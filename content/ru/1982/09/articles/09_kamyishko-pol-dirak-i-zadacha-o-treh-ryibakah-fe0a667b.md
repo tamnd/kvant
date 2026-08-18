@@ -11,6 +11,7 @@ rubric_sub: Математический кружок
 page_first: 33
 page_last: 33
 page_labels: "31"
+tag: 7SRE
 lang: ru
 source: kvant_digital
 extraction: vision

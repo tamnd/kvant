@@ -10,6 +10,7 @@ rubric: osnovnye-stati
 page_first: 12
 page_last: 20
 page_labels: 10, 11, 12, 13, 14, 15, 16, 18
+tag: 2DBL
 lang: ru
 source: kvant_digital
 extraction: vision

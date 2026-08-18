@@ -9,6 +9,7 @@ rubric_sub: Информация
 page_first: 50
 page_last: 52
 page_labels: 49-50
+tag: 3PN8
 lang: ru
 source: kvant_digital
 extraction: native

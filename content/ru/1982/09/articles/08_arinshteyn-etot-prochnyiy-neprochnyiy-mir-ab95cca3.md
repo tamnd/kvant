@@ -11,6 +11,7 @@ rubric_sub: Рецензии, библиография
 page_first: 31
 page_last: 31
 page_labels: "29"
+tag: OPN1
 lang: ru
 source: kvant_digital
 extraction: vision

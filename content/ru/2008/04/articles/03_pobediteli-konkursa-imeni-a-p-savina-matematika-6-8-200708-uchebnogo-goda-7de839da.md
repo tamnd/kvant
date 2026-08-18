@@ -9,6 +9,7 @@ rubric_sub: Конкурс имени А. П. Савина
 page_first: 29
 page_last: 29
 page_labels: "27"
+tag: HVJ2
 lang: ru
 source: kvant_digital
 extraction: native

@@ -10,6 +10,7 @@ rubric: matematicheskiy-kruzhok
 rubric_sub: Математический кружок
 page_first: 41
 page_last: 41
+tag: 7CV6
 lang: ru
 source: kvant_digital
 extraction: native

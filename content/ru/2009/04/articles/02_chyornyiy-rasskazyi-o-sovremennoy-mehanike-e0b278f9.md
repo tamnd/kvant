@@ -10,6 +10,7 @@ rubric: osnovnye-stati
 page_first: 16
 page_last: 19
 page_labels: 14-17
+tag: GK4X
 lang: ru
 source: kvant_digital
 extraction: native

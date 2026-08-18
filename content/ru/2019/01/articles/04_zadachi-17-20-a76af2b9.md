@@ -9,6 +9,7 @@ rubric_sub: Конкурс имени А. П. Савина
 page_first: 40
 page_last: 40
 page_labels: "38"
+tag: FEH0
 lang: ru
 source: kvant_digital
 extraction: native

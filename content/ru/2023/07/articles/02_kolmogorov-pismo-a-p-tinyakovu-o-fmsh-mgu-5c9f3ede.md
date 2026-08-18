@@ -10,6 +10,7 @@ rubric: raznoe
 page_first: 27
 page_last: 27
 page_labels: "25"
+tag: CKHL
 lang: ru
 source: kvant_digital
 extraction: native

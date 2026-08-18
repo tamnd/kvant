@@ -11,6 +11,7 @@ rubric_sub: Разное
 page_first: 12
 page_last: 12
 page_labels: "10"
+tag: JAE1
 lang: ru
 source: kvant_digital
 extraction: native

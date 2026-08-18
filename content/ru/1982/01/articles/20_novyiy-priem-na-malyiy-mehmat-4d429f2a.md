@@ -9,6 +9,7 @@ rubric_sub: Информация
 page_first: 56
 page_last: 57
 page_labels: 54-55
+tag: 90YX
 lang: ru
 source: kvant_digital
 extraction: vision

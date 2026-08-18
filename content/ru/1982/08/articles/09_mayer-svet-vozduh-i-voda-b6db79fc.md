@@ -11,6 +11,7 @@ rubric_sub: Лаборатория «Кванта»
 page_first: 30
 page_last: 31
 page_labels: 28-29
+tag: H8OK
 lang: ru
 source: kvant_digital
 extraction: vision

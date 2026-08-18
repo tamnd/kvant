@@ -11,6 +11,7 @@ rubric_sub: «Квант» улыбается
 page_first: 55
 page_last: 55
 page_labels: "53"
+tag: 6VKV
 lang: ru
 source: kvant_digital
 extraction: vision

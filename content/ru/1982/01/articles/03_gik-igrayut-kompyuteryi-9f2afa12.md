@@ -10,6 +10,7 @@ rubric: shahmatnaya-stranichka
 rubric_sub: Шахматы
 page_first: 67
 page_last: 67
+tag: 7ZC4
 lang: ru
 source: kvant_digital
 extraction: vision

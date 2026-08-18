@@ -8,6 +8,7 @@ rubric: kvant-dlya-mladshih-shkolnikov
 rubric_sub: «Квант» для младших школьников
 page_first: 24
 page_last: 24
+tag: U2TJ
 lang: ru
 source: kvant_digital
 extraction: native

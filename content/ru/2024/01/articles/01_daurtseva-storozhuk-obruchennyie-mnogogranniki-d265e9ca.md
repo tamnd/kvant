@@ -12,6 +12,7 @@ rubric_sub: Математический кружок
 page_first: 32
 page_last: 54
 page_labels: "52"
+tag: NMY6
 lang: ru
 source: kvant_digital
 extraction: native

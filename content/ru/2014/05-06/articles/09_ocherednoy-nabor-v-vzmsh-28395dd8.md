@@ -9,6 +9,7 @@ rubric_sub: Информация
 page_first: 74
 page_last: 80
 page_labels: 72, 73, 74, 76, 78
+tag: H072
 lang: ru
 source: kvant_digital
 extraction: native

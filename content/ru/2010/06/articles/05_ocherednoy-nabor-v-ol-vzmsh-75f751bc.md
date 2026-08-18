@@ -9,6 +9,7 @@ rubric_sub: Информация
 page_first: 51
 page_last: 56
 page_labels: 49, 53, 54
+tag: "9545"
 lang: ru
 source: kvant_digital
 extraction: native

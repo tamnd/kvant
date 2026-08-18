@@ -9,6 +9,7 @@ rubric_sub: Информация
 page_first: 64
 page_last: 68
 page_labels: 62, 63, 65, 66
+tag: 2B3V
 lang: ru
 source: kvant_digital
 extraction: native

@@ -8,6 +8,7 @@ rubric: o-lyudyah
 page_first: 12
 page_last: 12
 page_labels: "10"
+tag: M8HU
 lang: ru
 source: kvant_digital
 extraction: native

@@ -12,6 +12,7 @@ rubric_sub: Калейдоскоп
 page_first: 26
 page_last: 29
 page_labels: "27"
+tag: 9LZH
 lang: ru
 source: kvant_digital
 extraction: native

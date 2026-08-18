@@ -9,6 +9,7 @@ rubric_sub: Информация
 page_first: 58
 page_last: 58
 page_labels: "56"
+tag: VDZE
 lang: ru
 source: kvant_digital
 extraction: native

@@ -10,6 +10,7 @@ rubric: iz-istorii-nauki
 rubric_sub: Из истории науки
 page_first: 27
 page_last: 27
+tag: XWYX
 lang: ru
 source: kvant_digital
 extraction: native

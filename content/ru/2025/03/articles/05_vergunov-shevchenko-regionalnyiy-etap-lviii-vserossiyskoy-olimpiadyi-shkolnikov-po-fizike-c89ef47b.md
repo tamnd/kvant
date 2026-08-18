@@ -12,6 +12,7 @@ rubric_sub: Олимпиады
 page_first: 48
 page_last: 55
 page_labels: 46, 51, 53
+tag: Y82U
 lang: ru
 source: kvant_digital
 extraction: native

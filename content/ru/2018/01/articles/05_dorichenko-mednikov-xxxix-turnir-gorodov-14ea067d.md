@@ -12,6 +12,7 @@ rubric_sub: Олимпиады
 page_first: 53
 page_last: 54
 page_labels: "52"
+tag: X1UX
 lang: ru
 source: kvant_digital
 extraction: native

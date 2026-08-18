@@ -11,6 +11,7 @@ rubric_sub: Разное
 page_first: 23
 page_last: 23
 page_labels: "21"
+tag: G9M8
 lang: ru
 source: kvant_digital
 extraction: vision

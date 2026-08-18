@@ -12,6 +12,7 @@ rubric_sub: Олимпиады
 page_first: 58
 page_last: 58
 page_labels: "56"
+tag: W29M
 lang: ru
 source: kvant_digital
 extraction: native

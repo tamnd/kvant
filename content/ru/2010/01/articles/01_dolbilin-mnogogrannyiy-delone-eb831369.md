@@ -10,6 +10,7 @@ rubric: osnovnye-stati
 page_first: 4
 page_last: 20
 page_labels: 2, 3, 4, 5, 7, 10, 11, 14, 18
+tag: VFH0
 lang: ru
 source: kvant_digital
 extraction: native

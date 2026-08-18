@@ -8,6 +8,7 @@ rubric: zadachnik-kvanta
 page_first: 28
 page_last: 28
 page_labels: "26"
+tag: HGPF
 lang: ru
 source: kvant_digital
 extraction: vision

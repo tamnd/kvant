@@ -9,6 +9,7 @@ rubric_sub: Конкурс имени А. П. Савина
 page_first: 26
 page_last: 26
 page_labels: "24"
+tag: GS1Q
 lang: ru
 source: kvant_digital
 extraction: native

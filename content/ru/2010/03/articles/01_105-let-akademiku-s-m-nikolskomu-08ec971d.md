@@ -9,6 +9,7 @@ rubric_sub: Математический мир
 page_first: 17
 page_last: 17
 page_labels: "15"
+tag: MNHW
 lang: ru
 source: kvant_digital
 extraction: native

@@ -11,6 +11,7 @@ rubric_sub: Школа в «Кванте»
 page_first: 41
 page_last: 43
 page_labels: 40-41
+tag: Z6R3
 lang: ru
 source: kvant_digital
 extraction: native

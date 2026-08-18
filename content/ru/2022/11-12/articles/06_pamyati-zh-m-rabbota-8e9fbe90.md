@@ -7,6 +7,7 @@ title: Памяти Ж. М. Раббота
 rubric: raznoe
 page_first: 43
 page_last: 43
+tag: 6VLC
 lang: ru
 source: kvant_digital
 extraction: native

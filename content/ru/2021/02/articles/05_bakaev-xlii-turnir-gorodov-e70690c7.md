@@ -11,6 +11,7 @@ rubric_sub: Олимпиады
 page_first: 43
 page_last: 59
 page_labels: 41, 42, 44, 47, 50, 57
+tag: H4LX
 lang: ru
 source: kvant_digital
 extraction: native

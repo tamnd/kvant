@@ -10,6 +10,7 @@ rubric: fizicheskiy-fakultativ
 rubric_sub: Физический факультатив
 page_first: 45
 page_last: 45
+tag: GU0Z
 lang: ru
 source: kvant_digital
 extraction: native

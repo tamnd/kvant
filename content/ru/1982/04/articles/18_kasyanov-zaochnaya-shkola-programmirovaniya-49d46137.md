@@ -11,6 +11,7 @@ rubric_sub: Разное
 page_first: 52
 page_last: 53
 page_labels: 50-51
+tag: OPP9
 lang: ru
 source: kvant_digital
 extraction: vision

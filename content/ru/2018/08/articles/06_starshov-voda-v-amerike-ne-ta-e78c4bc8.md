@@ -10,6 +10,7 @@ rubric: raznoe
 rubric_sub: Разное
 page_first: 39
 page_last: 39
+tag: ZYDL
 lang: ru
 source: kvant_digital
 extraction: native

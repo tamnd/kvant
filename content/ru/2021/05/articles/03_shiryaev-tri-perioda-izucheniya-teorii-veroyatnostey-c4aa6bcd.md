@@ -11,6 +11,7 @@ rubric_sub: Из истории науки
 page_first: 28
 page_last: 28
 page_labels: "26"
+tag: 921C
 lang: ru
 source: kvant_digital
 extraction: native

@@ -11,6 +11,7 @@ rubric_sub: Разное
 page_first: 38
 page_last: 49
 page_labels: 36, 45, 46, 47
+tag: QXK4
 lang: ru
 source: kvant_digital
 extraction: native

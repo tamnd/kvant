@@ -10,6 +10,7 @@ rubric: smes
 page_first: 27
 page_last: 27
 page_labels: "25"
+tag: KAJN
 lang: ru
 source: kvant_digital
 extraction: vision

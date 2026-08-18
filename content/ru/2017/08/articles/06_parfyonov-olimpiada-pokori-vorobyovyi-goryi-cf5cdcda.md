@@ -11,6 +11,7 @@ rubric_sub: Экзаменационные материалы
 page_first: 48
 page_last: 59
 page_labels: 47, 57
+tag: LJ85
 lang: ru
 source: kvant_digital
 extraction: native

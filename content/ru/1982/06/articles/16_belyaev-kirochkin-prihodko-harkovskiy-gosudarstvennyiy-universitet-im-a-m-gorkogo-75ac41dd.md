@@ -12,6 +12,7 @@ rubric: ekzamenatsionnye-materialy
 page_first: 46
 page_last: 46
 page_labels: "44"
+tag: Z6JQ
 lang: ru
 source: kvant_digital
 extraction: vision

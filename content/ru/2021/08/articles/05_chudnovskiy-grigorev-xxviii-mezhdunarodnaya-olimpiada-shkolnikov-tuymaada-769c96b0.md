@@ -12,6 +12,7 @@ rubric_sub: Олимпиады
 page_first: 40
 page_last: 42
 page_labels: 38, 40
+tag: GD5O
 lang: ru
 source: kvant_digital
 extraction: native

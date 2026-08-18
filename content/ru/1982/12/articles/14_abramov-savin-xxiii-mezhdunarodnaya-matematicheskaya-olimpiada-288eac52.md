@@ -12,6 +12,7 @@ rubric_sub: Информация
 page_first: 48
 page_last: 50
 page_labels: 46-48
+tag: YNES
 lang: ru
 source: kvant_digital
 extraction: vision

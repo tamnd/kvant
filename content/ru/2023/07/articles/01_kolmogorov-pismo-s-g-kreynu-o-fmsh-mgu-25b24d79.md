@@ -10,6 +10,7 @@ rubric: raznoe
 page_first: 26
 page_last: 26
 page_labels: "24"
+tag: PHPD
 lang: ru
 source: kvant_digital
 extraction: native

@@ -11,6 +11,7 @@ rubric_sub: Физический факультатив
 page_first: 31
 page_last: 56
 page_labels: 29, 54
+tag: O9LN
 lang: ru
 source: kvant_digital
 extraction: native

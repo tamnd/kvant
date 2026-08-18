@@ -9,6 +9,7 @@ rubric_sub: Задачник «Кванта»
 page_first: 19
 page_last: 40
 page_labels: 17, 34, 38
+tag: LGKL
 lang: ru
 source: kvant_digital
 extraction: native

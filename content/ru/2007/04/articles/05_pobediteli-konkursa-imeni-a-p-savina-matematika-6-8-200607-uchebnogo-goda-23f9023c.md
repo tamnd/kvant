@@ -9,6 +9,7 @@ rubric_sub: Конкурс имени А. П. Савина
 page_first: 29
 page_last: 38
 page_labels: 27, 36
+tag: 5S6J
 lang: ru
 source: kvant_digital
 extraction: native

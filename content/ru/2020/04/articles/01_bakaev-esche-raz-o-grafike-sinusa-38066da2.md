@@ -9,6 +9,7 @@ authors:
 rubric: osnovnye-stati
 page_first: 13
 page_last: 13
+tag: N635
 lang: ru
 source: kvant_digital
 extraction: native

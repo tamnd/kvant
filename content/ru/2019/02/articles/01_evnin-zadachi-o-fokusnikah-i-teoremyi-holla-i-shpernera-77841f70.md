@@ -10,6 +10,7 @@ rubric: osnovnye-stati
 page_first: 16
 page_last: 25
 page_labels: 15, 17, 22, 23
+tag: CBDG
 lang: ru
 source: kvant_digital
 extraction: native

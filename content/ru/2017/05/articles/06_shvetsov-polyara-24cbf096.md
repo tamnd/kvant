@@ -11,6 +11,7 @@ rubric_sub: Математический кружок
 page_first: 38
 page_last: 41
 page_labels: 37, 39
+tag: 391J
 lang: ru
 source: kvant_digital
 extraction: native

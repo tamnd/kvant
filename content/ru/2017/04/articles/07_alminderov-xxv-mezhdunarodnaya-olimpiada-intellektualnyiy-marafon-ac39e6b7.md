@@ -11,6 +11,7 @@ rubric_sub: Разное
 page_first: 48
 page_last: 62
 page_labels: 46, 49, 50, 56, 60
+tag: BJKM
 lang: ru
 source: kvant_digital
 extraction: native

@@ -10,6 +10,7 @@ rubric: osnovnye-stati
 page_first: 15
 page_last: 15
 page_labels: "13"
+tag: CCY1
 lang: ru
 source: kvant_digital
 extraction: native

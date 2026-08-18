@@ -11,6 +11,7 @@ rubric_sub: Нам пишут
 page_first: 44
 page_last: 55
 page_labels: 42, 46, 51, 53
+tag: TJU7
 lang: ru
 source: kvant_digital
 extraction: native

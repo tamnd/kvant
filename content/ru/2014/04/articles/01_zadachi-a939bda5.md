@@ -8,6 +8,7 @@ rubric: kvant-dlya-mladshih-shkolnikov
 rubric_sub: «Квант» для младших школьников
 page_first: 28
 page_last: 28
+tag: AXK6
 lang: ru
 source: kvant_digital
 extraction: native

@@ -12,6 +12,7 @@ rubric_sub: Олимпиады
 page_first: 47
 page_last: 56
 page_labels: 45, 52, 54
+tag: TCIP
 lang: ru
 source: kvant_digital
 extraction: native

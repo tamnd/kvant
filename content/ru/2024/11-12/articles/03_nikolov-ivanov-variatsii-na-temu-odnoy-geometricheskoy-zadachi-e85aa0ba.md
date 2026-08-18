@@ -12,6 +12,7 @@ rubric_sub: Задачник «Кванта»
 page_first: 30
 page_last: 30
 page_labels: "28"
+tag: TPIO
 lang: ru
 source: kvant_digital
 extraction: native

@@ -10,6 +10,7 @@ rubric: osnovnye-stati
 page_first: 11
 page_last: 18
 page_labels: 13, 15, 16
+tag: S17S
 lang: ru
 source: kvant_digital
 extraction: native

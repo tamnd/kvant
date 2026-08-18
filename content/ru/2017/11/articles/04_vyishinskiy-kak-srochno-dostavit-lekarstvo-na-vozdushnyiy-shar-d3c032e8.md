@@ -11,6 +11,7 @@ rubric_sub: Школа в «Кванте»
 page_first: 28
 page_last: 38
 page_labels: 28, 29, 36
+tag: DOJ3
 lang: ru
 source: kvant_digital
 extraction: native

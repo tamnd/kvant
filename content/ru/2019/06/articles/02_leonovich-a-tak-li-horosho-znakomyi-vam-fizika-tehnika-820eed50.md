@@ -11,6 +11,7 @@ rubric_sub: Калейдоскоп
 page_first: 26
 page_last: 33
 page_labels: 27, 31
+tag: 2N19
 lang: ru
 source: kvant_digital
 extraction: native

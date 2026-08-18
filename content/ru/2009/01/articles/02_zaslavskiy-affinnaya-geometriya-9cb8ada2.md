@@ -10,6 +10,7 @@ rubric: osnovnye-stati
 page_first: 10
 page_last: 13
 page_labels: 8, 11
+tag: L126
 lang: ru
 source: kvant_digital
 extraction: native

@@ -11,6 +11,7 @@ rubric_sub: «Квант» для младших школьников
 page_first: 36
 page_last: 39
 page_labels: 34, 36, 37
+tag: RRDF
 lang: ru
 source: kvant_digital
 extraction: vision

@@ -11,6 +11,7 @@ rubric_sub: Математический кружок
 page_first: 48
 page_last: 53
 page_labels: 47, 51
+tag: 5KE5
 lang: ru
 source: kvant_digital
 extraction: native

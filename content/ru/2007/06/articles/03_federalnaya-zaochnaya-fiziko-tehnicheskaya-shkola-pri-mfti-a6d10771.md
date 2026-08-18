@@ -9,6 +9,7 @@ rubric_sub: Информация
 page_first: 52
 page_last: 52
 page_labels: "50"
+tag: BZOI
 lang: ru
 source: kvant_digital
 extraction: native

@@ -11,6 +11,7 @@ rubric_sub: Задачник «Кванта»
 page_first: 23
 page_last: 23
 page_labels: "21"
+tag: LVFY
 lang: ru
 source: kvant_digital
 extraction: native

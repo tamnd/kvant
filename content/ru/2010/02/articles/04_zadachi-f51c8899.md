@@ -9,6 +9,7 @@ rubric_sub: «Квант» для младших школьников
 page_first: 38
 page_last: 45
 page_labels: 36, 39, 41, 43
+tag: 1UKL
 lang: ru
 source: kvant_digital
 extraction: native

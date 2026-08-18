@@ -11,6 +11,7 @@ rubric: matematicheskiy-kruzhok
 rubric_sub: Математический кружок
 page_first: 46
 page_last: 46
+tag: UTFK
 lang: ru
 source: kvant_digital
 extraction: native

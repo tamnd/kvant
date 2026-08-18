@@ -10,6 +10,7 @@ rubric: shkola-v-kvante
 rubric_sub: Школа в «Кванте»
 page_first: 32
 page_last: 32
+tag: Q22L
 lang: ru
 source: kvant_digital
 extraction: native

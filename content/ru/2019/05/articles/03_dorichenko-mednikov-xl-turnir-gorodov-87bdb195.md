@@ -12,6 +12,7 @@ rubric_sub: Олимпиады
 page_first: 47
 page_last: 48
 page_labels: "46"
+tag: M8HF
 lang: ru
 source: kvant_digital
 extraction: native

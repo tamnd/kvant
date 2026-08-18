@@ -11,6 +11,7 @@ rubric_sub: Разное
 page_first: 59
 page_last: 63
 page_labels: 57-61
+tag: 8Z40
 lang: ru
 source: kvant_digital
 extraction: vision

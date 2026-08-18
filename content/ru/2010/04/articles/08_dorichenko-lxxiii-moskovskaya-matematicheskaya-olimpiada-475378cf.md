@@ -11,6 +11,7 @@ rubric_sub: Олимпиады
 page_first: 50
 page_last: 51
 page_labels: 48-49
+tag: OTX9
 lang: ru
 source: kvant_digital
 extraction: native

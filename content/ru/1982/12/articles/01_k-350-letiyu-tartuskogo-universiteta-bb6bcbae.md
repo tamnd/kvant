@@ -8,6 +8,7 @@ rubric: smes
 page_first: 2
 page_last: 8
 page_labels: 1, 4, 5, 6
+tag: T8XT
 lang: ru
 source: kvant_digital
 extraction: vision

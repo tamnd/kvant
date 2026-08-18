@@ -10,6 +10,7 @@ rubric: raznoe
 page_first: 45
 page_last: 45
 page_labels: "43"
+tag: Z3SV
 lang: ru
 source: kvant_digital
 extraction: vision

@@ -10,6 +10,7 @@ rubric: osnovnye-stati
 page_first: 7
 page_last: 9
 page_labels: 6-7
+tag: D2QW
 lang: ru
 source: kvant_digital
 extraction: native

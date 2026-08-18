@@ -10,6 +10,7 @@ rubric: olimpiady
 rubric_sub: Олимпиады
 page_first: 40
 page_last: 40
+tag: HX9D
 lang: ru
 source: kvant_digital
 extraction: native

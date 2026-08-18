@@ -11,6 +11,7 @@ rubric_sub: Олимпиады
 page_first: 68
 page_last: 68
 page_labels: "66"
+tag: O62Q
 lang: ru
 source: kvant_digital
 extraction: native

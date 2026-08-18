@@ -12,6 +12,7 @@ rubric_sub: Математический кружок
 page_first: 47
 page_last: 52
 page_labels: 48, 50
+tag: UGUG
 lang: ru
 source: kvant_digital
 extraction: native

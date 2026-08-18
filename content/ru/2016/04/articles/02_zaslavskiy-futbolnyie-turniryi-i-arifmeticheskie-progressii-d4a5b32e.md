@@ -11,6 +11,7 @@ rubric_sub: Задачник «Кванта»
 page_first: 22
 page_last: 23
 page_labels: 20-21
+tag: 5SZ3
 lang: ru
 source: kvant_digital
 extraction: native

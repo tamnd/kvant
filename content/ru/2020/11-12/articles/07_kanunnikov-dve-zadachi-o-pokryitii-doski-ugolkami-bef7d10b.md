@@ -11,6 +11,7 @@ rubric_sub: Математический кружок
 page_first: 40
 page_last: 49
 page_labels: 40, 47
+tag: TR62
 lang: ru
 source: kvant_digital
 extraction: native

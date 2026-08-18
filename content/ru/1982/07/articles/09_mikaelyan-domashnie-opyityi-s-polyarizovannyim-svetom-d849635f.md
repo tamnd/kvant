@@ -11,6 +11,7 @@ rubric_sub: Лаборатория «Кванта»
 page_first: 34
 page_last: 39
 page_labels: 32, 33, 35, 36, 37
+tag: SCHE
 lang: ru
 source: kvant_digital
 extraction: vision

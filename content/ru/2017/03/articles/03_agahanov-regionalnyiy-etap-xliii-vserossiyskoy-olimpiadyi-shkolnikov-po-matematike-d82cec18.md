@@ -11,6 +11,7 @@ rubric_sub: Олимпиады
 page_first: 52
 page_last: 57
 page_labels: 51, 55
+tag: JDWD
 lang: ru
 source: kvant_digital
 extraction: native

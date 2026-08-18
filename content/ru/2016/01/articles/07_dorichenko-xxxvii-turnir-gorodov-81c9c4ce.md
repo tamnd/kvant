@@ -11,6 +11,7 @@ rubric_sub: Олимпиады
 page_first: 58
 page_last: 63
 page_labels: 56, 61
+tag: SROY
 lang: ru
 source: kvant_digital
 extraction: native

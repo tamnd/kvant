@@ -10,6 +10,7 @@ rubric: novosti-nauki
 page_first: 40
 page_last: 40
 page_labels: "38"
+tag: ERZ2
 lang: ru
 source: kvant_digital
 extraction: vision

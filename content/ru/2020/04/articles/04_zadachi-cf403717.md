@@ -8,6 +8,7 @@ rubric: konkurs-imeni-a-p-savina
 rubric_sub: Конкурс имени А. П. Савина
 page_first: 29
 page_last: 29
+tag: 9H5V
 lang: ru
 source: kvant_digital
 extraction: native

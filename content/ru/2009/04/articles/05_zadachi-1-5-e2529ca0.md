@@ -8,6 +8,7 @@ rubric: konkurs-imeni-a-p-savina
 page_first: 36
 page_last: 43
 page_labels: 34, 41
+tag: ETJH
 lang: ru
 source: kvant_digital
 extraction: native

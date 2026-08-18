@@ -11,6 +11,7 @@ rubric_sub: Рецензии, библиография
 page_first: 60
 page_last: 66
 page_labels: 58, 60, 61, 62, 63, 64
+tag: N5QC
 lang: ru
 source: kvant_digital
 extraction: vision

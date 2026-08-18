@@ -11,6 +11,7 @@ rubric_sub: Калейдоскоп
 page_first: 34
 page_last: 35
 page_labels: 32-33
+tag: WKTK
 lang: ru
 source: kvant_digital
 extraction: native

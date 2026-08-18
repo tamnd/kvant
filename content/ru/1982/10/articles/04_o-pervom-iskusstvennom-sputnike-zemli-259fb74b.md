@@ -8,6 +8,7 @@ rubric: smes
 page_first: 6
 page_last: 6
 page_labels: "4"
+tag: CB9D
 lang: ru
 source: kvant_digital
 extraction: vision

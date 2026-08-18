@@ -9,6 +9,7 @@ rubric_sub: Разное
 page_first: 80
 page_last: 80
 page_labels: "78"
+tag: 6QC2
 lang: ru
 source: kvant_digital
 extraction: native

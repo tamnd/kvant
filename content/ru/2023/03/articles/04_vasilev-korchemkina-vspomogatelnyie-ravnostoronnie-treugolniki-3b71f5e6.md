@@ -12,6 +12,7 @@ rubric_sub: Школа в «Кванте»
 page_first: 40
 page_last: 60
 page_labels: 39, 40, 41, 48, 49, 51, 54, 55, 58
+tag: 6NFB
 lang: ru
 source: kvant_digital
 extraction: native

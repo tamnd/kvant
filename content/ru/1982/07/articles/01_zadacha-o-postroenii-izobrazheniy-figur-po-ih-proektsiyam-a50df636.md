@@ -7,6 +7,7 @@ title: '[Задача о построении изображений фигур 
 rubric: smes
 page_first: 68
 page_last: 68
+tag: GD8J
 lang: ru
 source: kvant_digital
 extraction: vision

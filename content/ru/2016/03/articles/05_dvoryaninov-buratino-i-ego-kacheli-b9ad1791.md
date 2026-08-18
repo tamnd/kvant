@@ -11,6 +11,7 @@ rubric_sub: «Квант» для младших школьников
 page_first: 29
 page_last: 30
 page_labels: 27-28
+tag: 2AIS
 lang: ru
 source: kvant_digital
 extraction: native

@@ -11,6 +11,7 @@ rubric_sub: Математический кружок
 page_first: 47
 page_last: 48
 page_labels: 45-46
+tag: XE3R
 lang: ru
 source: kvant_digital
 extraction: native

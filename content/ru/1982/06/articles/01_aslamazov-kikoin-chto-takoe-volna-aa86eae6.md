@@ -11,6 +11,7 @@ rubric: osnovnye-stati
 page_first: 4
 page_last: 9
 page_labels: 2, 3, 4, 6, 7
+tag: TQ25
 lang: ru
 source: kvant_digital
 extraction: vision

@@ -11,6 +11,7 @@ rubric_sub: Математический кружок
 page_first: 30
 page_last: 33
 page_labels: 28, 30, 31
+tag: MQ6D
 lang: ru
 source: kvant_digital
 extraction: vision

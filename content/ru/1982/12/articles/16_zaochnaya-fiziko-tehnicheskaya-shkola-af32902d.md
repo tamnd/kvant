@@ -9,6 +9,7 @@ rubric_sub: Информация
 page_first: 55
 page_last: 56
 page_labels: 53-54
+tag: TPZF
 lang: ru
 source: kvant_digital
 extraction: vision

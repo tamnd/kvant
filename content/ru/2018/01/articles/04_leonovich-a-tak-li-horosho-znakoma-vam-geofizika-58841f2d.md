@@ -11,6 +11,7 @@ rubric_sub: Калейдоскоп
 page_first: 34
 page_last: 48
 page_labels: 38, 39, 41, 43, 44, 45, 46
+tag: XNZ9
 lang: ru
 source: kvant_digital
 extraction: native

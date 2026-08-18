@@ -11,6 +11,7 @@ rubric_sub: Калейдоскоп
 page_first: 34
 page_last: 42
 page_labels: 34, 35, 40
+tag: B4XI
 lang: ru
 source: kvant_digital
 extraction: native

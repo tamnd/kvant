@@ -11,6 +11,7 @@ rubric_sub: Олимпиады
 page_first: 44
 page_last: 59
 page_labels: 42, 43, 44, 46, 50, 55, 57
+tag: YSWZ
 lang: ru
 source: kvant_digital
 extraction: native

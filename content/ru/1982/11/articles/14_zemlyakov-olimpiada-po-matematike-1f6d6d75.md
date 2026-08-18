@@ -11,6 +11,7 @@ rubric_sub: Разное
 page_first: 53
 page_last: 55
 page_labels: 51-53
+tag: ZE3W
 lang: ru
 source: kvant_digital
 extraction: vision

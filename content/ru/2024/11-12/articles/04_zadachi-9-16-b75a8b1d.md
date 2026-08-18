@@ -9,6 +9,7 @@ rubric_sub: Конкурс имени А. П. Савина
 page_first: 34
 page_last: 37
 page_labels: 32, 35
+tag: 7CJO
 lang: ru
 source: kvant_digital
 extraction: native

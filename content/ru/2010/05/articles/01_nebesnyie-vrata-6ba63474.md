@@ -9,6 +9,7 @@ rubric_sub: Разное
 page_first: 9
 page_last: 17
 page_labels: 7-15
+tag: 1GHQ
 lang: ru
 source: kvant_digital
 extraction: native

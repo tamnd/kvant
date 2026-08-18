@@ -12,6 +12,7 @@ rubric_sub: Лаборатория «Кванта»
 page_first: 19
 page_last: 20
 page_labels: 17-18
+tag: 5UDU
 lang: ru
 source: kvant_digital
 extraction: vision

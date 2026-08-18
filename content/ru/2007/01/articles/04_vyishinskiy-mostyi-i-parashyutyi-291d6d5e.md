@@ -10,6 +10,7 @@ rubric: shkola-v-kvante
 rubric_sub: Школа в «Кванте»
 page_first: 30
 page_last: 30
+tag: TE13
 lang: ru
 source: kvant_digital
 extraction: native

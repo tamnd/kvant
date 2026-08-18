@@ -11,6 +11,7 @@ rubric_sub: Олимпиады
 page_first: 60
 page_last: 62
 page_labels: "60"
+tag: YNM8
 lang: ru
 source: kvant_digital
 extraction: native

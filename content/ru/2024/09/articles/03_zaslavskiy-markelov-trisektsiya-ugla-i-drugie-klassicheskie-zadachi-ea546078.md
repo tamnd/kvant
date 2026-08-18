@@ -11,6 +11,7 @@ rubric: matematicheskiy-kruzhok
 rubric_sub: Математический кружок
 page_first: 37
 page_last: 37
+tag: PUDB
 lang: ru
 source: kvant_digital
 extraction: native

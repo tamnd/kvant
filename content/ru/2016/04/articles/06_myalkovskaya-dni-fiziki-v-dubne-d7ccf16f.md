@@ -11,6 +11,7 @@ rubric_sub: Информация
 page_first: 41
 page_last: 54
 page_labels: 46, 52
+tag: TC65
 lang: ru
 source: kvant_digital
 extraction: native

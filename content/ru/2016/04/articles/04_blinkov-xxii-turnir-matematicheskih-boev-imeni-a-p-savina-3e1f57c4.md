@@ -11,6 +11,7 @@ rubric_sub: Конкурс имени А. П. Савина
 page_first: 25
 page_last: 25
 page_labels: "23"
+tag: SNK3
 lang: ru
 source: kvant_digital
 extraction: native

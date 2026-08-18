@@ -10,6 +10,7 @@ rubric: raznoe
 rubric_sub: Разное
 page_first: 17
 page_last: 17
+tag: N37O
 lang: ru
 source: kvant_digital
 extraction: native

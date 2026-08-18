@@ -10,6 +10,7 @@ rubric: osnovnye-stati
 page_first: 13
 page_last: 48
 page_labels: 35, 41, 43, 45, 46
+tag: D87T
 lang: ru
 source: kvant_digital
 extraction: native

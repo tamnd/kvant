@@ -10,6 +10,7 @@ rubric: osnovnye-stati
 page_first: 23
 page_last: 24
 page_labels: "22"
+tag: IF20
 lang: ru
 source: kvant_digital
 extraction: native

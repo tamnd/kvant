@@ -11,6 +11,7 @@ rubric_sub: Калейдоскоп
 page_first: 34
 page_last: 39
 page_labels: "37"
+tag: KMZS
 lang: ru
 source: kvant_digital
 extraction: native

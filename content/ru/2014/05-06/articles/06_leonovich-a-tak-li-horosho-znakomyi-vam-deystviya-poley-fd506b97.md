@@ -11,6 +11,7 @@ rubric_sub: Калейдоскоп
 page_first: 50
 page_last: 64
 page_labels: "62"
+tag: U779
 lang: ru
 source: kvant_digital
 extraction: native

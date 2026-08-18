@@ -12,6 +12,7 @@ rubric_sub: Школа в «Кванте»
 page_first: 43
 page_last: 48
 page_labels: 41, 42, 45, 46
+tag: XIDR
 lang: ru
 source: kvant_digital
 extraction: native

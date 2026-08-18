@@ -11,6 +11,7 @@ rubric_sub: Школа в «Кванте»
 page_first: 37
 page_last: 57
 page_labels: 51, 55
+tag: ELIF
 lang: ru
 source: kvant_digital
 extraction: native

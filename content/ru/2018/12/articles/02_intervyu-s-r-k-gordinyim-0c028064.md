@@ -9,6 +9,7 @@ rubric_sub: Разное
 page_first: 18
 page_last: 24
 page_labels: 17-22
+tag: D2NV
 lang: ru
 source: kvant_digital
 extraction: native

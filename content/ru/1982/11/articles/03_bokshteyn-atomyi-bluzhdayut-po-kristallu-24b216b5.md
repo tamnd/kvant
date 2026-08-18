@@ -10,6 +10,7 @@ rubric: osnovnye-stati
 page_first: 7
 page_last: 12
 page_labels: 5, 6, 7, 9, 10
+tag: WX0F
 lang: ru
 source: kvant_digital
 extraction: vision

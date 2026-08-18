@@ -11,6 +11,7 @@ rubric: osnovnye-stati
 page_first: 10
 page_last: 10
 page_labels: "8"
+tag: 1D5S
 lang: ru
 source: kvant_digital
 extraction: native

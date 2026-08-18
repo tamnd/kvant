@@ -10,6 +10,7 @@ rubric: raznoe
 rubric_sub: Разное
 page_first: 58
 page_last: 58
+tag: JW5V
 lang: ru
 source: kvant_digital
 extraction: native

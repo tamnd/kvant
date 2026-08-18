@@ -9,6 +9,7 @@ rubric_sub: Задачник «Кванта»
 page_first: 20
 page_last: 35
 page_labels: 18, 32, 33
+tag: RL85
 lang: ru
 source: kvant_digital
 extraction: native

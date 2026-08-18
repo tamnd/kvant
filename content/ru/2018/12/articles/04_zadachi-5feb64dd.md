@@ -9,6 +9,7 @@ rubric_sub: «Квант» для младших школьников
 page_first: 33
 page_last: 42
 page_labels: 31, 40
+tag: 7VGD
 lang: ru
 source: kvant_digital
 extraction: native

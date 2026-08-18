@@ -11,6 +11,7 @@ rubric_sub: Олимпиады
 page_first: 63
 page_last: 63
 page_labels: "61"
+tag: ZFSK
 lang: ru
 source: kvant_digital
 extraction: native

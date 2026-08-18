@@ -12,6 +12,7 @@ rubric: osnovnye-stati
 page_first: 10
 page_last: 20
 page_labels: 9, 11, 17, 18
+tag: 7AHL
 lang: ru
 source: kvant_digital
 extraction: native

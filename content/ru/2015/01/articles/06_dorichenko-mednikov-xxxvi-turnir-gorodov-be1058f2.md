@@ -11,6 +11,7 @@ rubric: olimpiady
 rubric_sub: Олимпиады
 page_first: 53
 page_last: 53
+tag: TIEJ
 lang: ru
 source: kvant_digital
 extraction: native

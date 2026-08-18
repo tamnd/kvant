@@ -10,6 +10,7 @@ rubric: osnovnye-stati
 page_first: 11
 page_last: 17
 page_labels: 10-15
+tag: 7HPM
 lang: ru
 source: kvant_digital
 extraction: native

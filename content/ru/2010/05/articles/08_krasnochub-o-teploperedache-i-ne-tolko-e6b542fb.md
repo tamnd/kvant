@@ -11,6 +11,7 @@ rubric_sub: Физический факультатив
 page_first: 45
 page_last: 58
 page_labels: 43, 48, 52, 56
+tag: XPCL
 lang: ru
 source: kvant_digital
 extraction: native

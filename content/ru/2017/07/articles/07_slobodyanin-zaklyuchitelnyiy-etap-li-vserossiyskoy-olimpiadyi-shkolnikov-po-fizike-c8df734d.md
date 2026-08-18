@@ -11,6 +11,7 @@ rubric_sub: Олимпиады
 page_first: 42
 page_last: 61
 page_labels: 40, 41, 55, 59
+tag: MZ4J
 lang: ru
 source: kvant_digital
 extraction: native

@@ -11,6 +11,7 @@ rubric: ekzamenatsionnye-materialy
 page_first: 53
 page_last: 53
 page_labels: "51"
+tag: WQAY
 lang: ru
 source: kvant_digital
 extraction: vision

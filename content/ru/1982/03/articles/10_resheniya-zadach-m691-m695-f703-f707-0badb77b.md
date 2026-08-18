@@ -9,6 +9,7 @@ rubric_sub: Задачник «Кванта»
 page_first: 32
 page_last: 38
 page_labels: 30, 32, 33, 34, 35, 36
+tag: CICL
 lang: ru
 source: kvant_digital
 extraction: vision

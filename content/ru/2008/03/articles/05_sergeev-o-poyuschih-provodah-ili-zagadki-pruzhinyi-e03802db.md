@@ -10,6 +10,7 @@ rubric: laboratoriya-kvanta
 rubric_sub: Лаборатория «Кванта»
 page_first: 47
 page_last: 47
+tag: ZTGV
 lang: ru
 source: kvant_digital
 extraction: native

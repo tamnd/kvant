@@ -11,6 +11,7 @@ rubric_sub: Разное
 page_first: 52
 page_last: 52
 page_labels: "50"
+tag: WJ6U
 lang: ru
 source: kvant_digital
 extraction: native

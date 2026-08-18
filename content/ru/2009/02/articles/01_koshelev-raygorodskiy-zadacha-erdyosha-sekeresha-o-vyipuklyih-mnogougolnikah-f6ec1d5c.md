@@ -11,6 +11,7 @@ rubric: osnovnye-stati
 page_first: 8
 page_last: 11
 page_labels: 6, 9
+tag: CWGR
 lang: ru
 source: kvant_digital
 extraction: native

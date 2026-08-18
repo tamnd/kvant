@@ -12,6 +12,7 @@ rubric_sub: Олимпиады
 page_first: 56
 page_last: 59
 page_labels: 54, 57
+tag: P4WA
 lang: ru
 source: kvant_digital
 extraction: native

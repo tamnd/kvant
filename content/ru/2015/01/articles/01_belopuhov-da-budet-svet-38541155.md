@@ -11,6 +11,7 @@ rubric_sub: Новости науки
 page_first: 15
 page_last: 16
 page_labels: "14"
+tag: FS5T
 lang: ru
 source: kvant_digital
 extraction: native

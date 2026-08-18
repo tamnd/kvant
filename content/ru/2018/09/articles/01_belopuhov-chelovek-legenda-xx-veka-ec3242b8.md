@@ -11,6 +11,7 @@ rubric_sub: Из истории науки
 page_first: 16
 page_last: 20
 page_labels: 15-18
+tag: 55VG
 lang: ru
 source: kvant_digital
 extraction: native

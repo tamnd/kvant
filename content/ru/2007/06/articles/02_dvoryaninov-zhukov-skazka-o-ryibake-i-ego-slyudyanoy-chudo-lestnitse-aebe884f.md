@@ -12,6 +12,7 @@ rubric_sub: «Квант» для младших школьников
 page_first: 28
 page_last: 51
 page_labels: 26, 46, 48, 49
+tag: 8DMW
 lang: ru
 source: kvant_digital
 extraction: native

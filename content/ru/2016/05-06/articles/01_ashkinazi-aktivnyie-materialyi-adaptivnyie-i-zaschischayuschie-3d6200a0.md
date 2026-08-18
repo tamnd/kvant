@@ -10,6 +10,7 @@ rubric: osnovnye-stati
 page_first: 8
 page_last: 25
 page_labels: 7, 8, 9, 10, 11, 16, 23
+tag: X3Z0
 lang: ru
 source: kvant_digital
 extraction: native

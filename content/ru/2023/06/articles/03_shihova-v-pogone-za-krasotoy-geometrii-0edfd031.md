@@ -11,6 +11,7 @@ rubric_sub: Рецензии, библиография
 page_first: 51
 page_last: 57
 page_labels: 49, 50, 54, 55
+tag: EYSV
 lang: ru
 source: kvant_digital
 extraction: native

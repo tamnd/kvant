@@ -11,6 +11,7 @@ rubric: kaleydoskop-kvanta
 rubric_sub: Калейдоскоп
 page_first: 50
 page_last: 50
+tag: BK27
 lang: ru
 source: kvant_digital
 extraction: native

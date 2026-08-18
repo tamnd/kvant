@@ -12,6 +12,7 @@ rubric_sub: Лаборатория «Кванта»
 page_first: 52
 page_last: 61
 page_labels: 56, 59
+tag: YO3K
 lang: ru
 source: kvant_digital
 extraction: native

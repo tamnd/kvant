@@ -11,6 +11,7 @@ rubric_sub: Олимпиады
 page_first: 42
 page_last: 59
 page_labels: 50, 51, 52, 53, 54, 55, 57
+tag: AHQG
 lang: ru
 source: kvant_digital
 extraction: native

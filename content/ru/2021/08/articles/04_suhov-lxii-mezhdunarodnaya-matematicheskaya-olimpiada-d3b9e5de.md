@@ -10,6 +10,7 @@ rubric: olimpiady
 rubric_sub: Олимпиады
 page_first: 38
 page_last: 38
+tag: RLLB
 lang: ru
 source: kvant_digital
 extraction: native

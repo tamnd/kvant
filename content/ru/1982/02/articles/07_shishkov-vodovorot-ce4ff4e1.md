@@ -11,6 +11,7 @@ rubric_sub: Лаборатория «Кванта»
 page_first: 23
 page_last: 26
 page_labels: 21-24
+tag: CTKU
 lang: ru
 source: kvant_digital
 extraction: vision

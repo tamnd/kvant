@@ -10,6 +10,7 @@ rubric: osnovnye-stati
 page_first: 11
 page_last: 19
 page_labels: 10, 12, 13, 16, 17
+tag: YKC6
 lang: ru
 source: kvant_digital
 extraction: native

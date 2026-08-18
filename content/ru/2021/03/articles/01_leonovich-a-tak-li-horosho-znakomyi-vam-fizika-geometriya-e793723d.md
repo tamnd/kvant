@@ -11,6 +11,7 @@ rubric_sub: Калейдоскоп
 page_first: 34
 page_last: 53
 page_labels: 43, 45, 48, 49, 50
+tag: WO2Q
 lang: ru
 source: kvant_digital
 extraction: native

@@ -13,6 +13,7 @@ rubric_sub: Лаборатория «Кванта»
 page_first: 44
 page_last: 51
 page_labels: 42, 49
+tag: E01V
 lang: ru
 source: kvant_digital
 extraction: native

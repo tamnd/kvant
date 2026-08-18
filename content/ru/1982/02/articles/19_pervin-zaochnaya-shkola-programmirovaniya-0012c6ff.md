@@ -11,6 +11,7 @@ rubric_sub: Разное
 page_first: 50
 page_last: 55
 page_labels: 48-53
+tag: L620
 lang: ru
 source: kvant_digital
 extraction: vision

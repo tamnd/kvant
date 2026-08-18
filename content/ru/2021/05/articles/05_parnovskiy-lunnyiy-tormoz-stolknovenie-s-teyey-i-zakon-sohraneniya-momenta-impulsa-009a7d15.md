@@ -10,6 +10,7 @@ rubric: shkola-v-kvante
 rubric_sub: Школа в «Кванте»
 page_first: 41
 page_last: 41
+tag: CU78
 lang: ru
 source: kvant_digital
 extraction: native

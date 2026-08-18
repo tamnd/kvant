@@ -11,6 +11,7 @@ rubric_sub: Информация
 page_first: 54
 page_last: 54
 page_labels: "52"
+tag: VZUQ
 lang: ru
 source: kvant_digital
 extraction: vision

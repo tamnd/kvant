@@ -11,6 +11,7 @@ rubric_sub: Информация
 page_first: 57
 page_last: 59
 page_labels: 55, 57
+tag: Y7ZU
 lang: ru
 source: kvant_digital
 extraction: vision

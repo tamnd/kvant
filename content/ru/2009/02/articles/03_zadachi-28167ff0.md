@@ -9,6 +9,7 @@ rubric_sub: «Квант» для младших школьников
 page_first: 31
 page_last: 35
 page_labels: 29, 31, 33
+tag: LARU
 lang: ru
 source: kvant_digital
 extraction: native

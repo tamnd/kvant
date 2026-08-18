@@ -11,6 +11,7 @@ rubric_sub: Математический кружок
 page_first: 37
 page_last: 46
 page_labels: 35, 36, 38, 43, 44
+tag: UUZ7
 lang: ru
 source: kvant_digital
 extraction: native

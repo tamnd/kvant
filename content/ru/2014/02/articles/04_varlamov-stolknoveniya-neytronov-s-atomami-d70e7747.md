@@ -11,6 +11,7 @@ rubric_sub: Физический факультатив
 page_first: 33
 page_last: 33
 page_labels: "31"
+tag: PHG0
 lang: ru
 source: kvant_digital
 extraction: native

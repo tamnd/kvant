@@ -9,6 +9,7 @@ rubric_sub: «Квант» для младших школьников
 page_first: 33
 page_last: 33
 page_labels: "31"
+tag: WG4C
 lang: ru
 source: kvant_digital
 extraction: native

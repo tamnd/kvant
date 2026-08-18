@@ -11,6 +11,7 @@ rubric_sub: Лаборатория «Кванта»
 page_first: 39
 page_last: 42
 page_labels: 37, 38, 40
+tag: E74H
 lang: ru
 source: kvant_digital
 extraction: native

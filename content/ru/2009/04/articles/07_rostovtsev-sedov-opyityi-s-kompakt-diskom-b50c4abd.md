@@ -12,6 +12,7 @@ rubric_sub: Лаборатория «Кванта»
 page_first: 45
 page_last: 45
 page_labels: "43"
+tag: KIWH
 lang: ru
 source: kvant_digital
 extraction: native

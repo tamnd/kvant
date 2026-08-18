@@ -9,6 +9,7 @@ rubric_sub: Разное
 page_first: 44
 page_last: 45
 page_labels: 42-43
+tag: EX2K
 lang: ru
 source: kvant_digital
 extraction: vision

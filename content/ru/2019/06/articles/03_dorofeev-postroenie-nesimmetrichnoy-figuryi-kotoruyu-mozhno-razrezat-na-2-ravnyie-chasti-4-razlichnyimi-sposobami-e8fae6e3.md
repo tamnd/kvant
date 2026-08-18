@@ -10,6 +10,7 @@ rubric: nam-pishut
 rubric_sub: Нам пишут
 page_first: 34
 page_last: 34
+tag: UN0F
 lang: ru
 source: kvant_digital
 extraction: native

@@ -10,6 +10,7 @@ rubric: osnovnye-stati
 page_first: 6
 page_last: 10
 page_labels: 4-8
+tag: 6GOW
 lang: ru
 source: kvant_digital
 extraction: vision

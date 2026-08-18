@@ -11,6 +11,7 @@ rubric_sub: Практикум абитуриента
 page_first: 43
 page_last: 46
 page_labels: 41-44
+tag: V4HB
 lang: ru
 source: kvant_digital
 extraction: vision

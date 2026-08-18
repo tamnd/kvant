@@ -11,6 +11,7 @@ rubric_sub: Экзаменационные материалы
 page_first: 54
 page_last: 57
 page_labels: 52, 55
+tag: H6YT
 lang: ru
 source: kvant_digital
 extraction: native

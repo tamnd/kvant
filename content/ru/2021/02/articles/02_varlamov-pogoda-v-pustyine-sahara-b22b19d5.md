@@ -11,6 +11,7 @@ rubric_sub: Задачник «Кванта»
 page_first: 30
 page_last: 31
 page_labels: 28-29
+tag: DM8G
 lang: ru
 source: kvant_digital
 extraction: native

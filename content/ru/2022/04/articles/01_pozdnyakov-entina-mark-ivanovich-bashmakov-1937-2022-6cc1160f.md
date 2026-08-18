@@ -11,6 +11,7 @@ rubric: osnovnye-stati
 page_first: 13
 page_last: 14
 page_labels: "12"
+tag: B3OC
 lang: ru
 source: kvant_digital
 extraction: native

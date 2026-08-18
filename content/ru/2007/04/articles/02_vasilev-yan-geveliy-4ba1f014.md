@@ -10,6 +10,7 @@ rubric: iz-istorii-nauki
 rubric_sub: Из истории науки
 page_first: 17
 page_last: 17
+tag: 4PRG
 lang: ru
 source: kvant_digital
 extraction: native

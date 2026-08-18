@@ -11,6 +11,7 @@ rubric_sub: Экзаменационные материалы
 page_first: 44
 page_last: 44
 page_labels: "42"
+tag: FXWG
 lang: ru
 source: kvant_digital
 extraction: native

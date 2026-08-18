@@ -12,6 +12,7 @@ rubric_sub: Конкурс имени А. П. Савина
 page_first: 30
 page_last: 41
 page_labels: 28, 29, 30, 34, 39
+tag: N409
 lang: ru
 source: kvant_digital
 extraction: native

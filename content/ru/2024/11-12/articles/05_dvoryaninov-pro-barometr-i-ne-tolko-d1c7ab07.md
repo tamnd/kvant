@@ -11,6 +11,7 @@ rubric_sub: Разное
 page_first: 42
 page_last: 49
 page_labels: 41, 47
+tag: MDNR
 lang: ru
 source: kvant_digital
 extraction: native

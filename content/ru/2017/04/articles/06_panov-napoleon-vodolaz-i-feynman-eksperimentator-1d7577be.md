@@ -11,6 +11,7 @@ rubric_sub: Лаборатория «Кванта»
 page_first: 44
 page_last: 47
 page_labels: "45"
+tag: 5MG2
 lang: ru
 source: kvant_digital
 extraction: native

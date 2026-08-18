@@ -11,6 +11,7 @@ rubric_sub: Олимпиады
 page_first: 41
 page_last: 55
 page_labels: 39, 47, 48, 49, 53
+tag: RAIT
 lang: ru
 source: kvant_digital
 extraction: native

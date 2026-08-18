@@ -8,6 +8,7 @@ rubric: retsenzii-bibliografiya
 rubric_sub: Рецензии, библиография
 page_first: 58
 page_last: 58
+tag: Z18T
 lang: ru
 source: kvant_digital
 extraction: native

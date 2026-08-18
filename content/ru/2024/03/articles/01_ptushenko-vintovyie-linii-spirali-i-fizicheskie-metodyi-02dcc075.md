@@ -11,6 +11,7 @@ rubric_sub: Из истории науки
 page_first: 26
 page_last: 28
 page_labels: 24-26
+tag: 8UWD
 lang: ru
 source: kvant_digital
 extraction: native

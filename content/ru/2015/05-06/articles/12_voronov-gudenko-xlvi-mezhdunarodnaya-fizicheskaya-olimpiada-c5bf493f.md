@@ -12,6 +12,7 @@ rubric_sub: Олимпиады
 page_first: 67
 page_last: 67
 page_labels: "65"
+tag: HUFB
 lang: ru
 source: kvant_digital
 extraction: native

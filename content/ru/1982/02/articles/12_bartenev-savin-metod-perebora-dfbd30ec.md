@@ -12,6 +12,7 @@ rubric_sub: «Квант» для младших школьников
 page_first: 38
 page_last: 40
 page_labels: 36-38
+tag: UJ2R
 lang: ru
 source: kvant_digital
 extraction: vision

@@ -11,6 +11,7 @@ rubric_sub: Разное
 page_first: 4
 page_last: 15
 page_labels: 2, 3, 5, 6, 9, 13
+tag: ZZYV
 lang: ru
 source: kvant_digital
 extraction: native

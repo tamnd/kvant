@@ -11,6 +11,7 @@ rubric_sub: Разное
 page_first: 5
 page_last: 5
 page_labels: "3"
+tag: VWEV
 lang: ru
 source: kvant_digital
 extraction: native

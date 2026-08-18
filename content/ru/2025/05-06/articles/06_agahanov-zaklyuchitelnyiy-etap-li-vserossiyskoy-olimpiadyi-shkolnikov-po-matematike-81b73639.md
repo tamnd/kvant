@@ -11,6 +11,7 @@ rubric_sub: Олимпиады
 page_first: 47
 page_last: 50
 page_labels: 45-48
+tag: HSRB
 lang: ru
 source: kvant_digital
 extraction: native

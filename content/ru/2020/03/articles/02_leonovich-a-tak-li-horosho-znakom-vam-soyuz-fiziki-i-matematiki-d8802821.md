@@ -11,6 +11,7 @@ rubric_sub: Калейдоскоп
 page_first: 34
 page_last: 51
 page_labels: 42, 45, 46, 47, 49
+tag: QFSV
 lang: ru
 source: kvant_digital
 extraction: native

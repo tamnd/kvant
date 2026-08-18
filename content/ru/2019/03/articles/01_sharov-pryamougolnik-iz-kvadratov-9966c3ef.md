@@ -10,6 +10,7 @@ rubric: osnovnye-stati
 page_first: 12
 page_last: 16
 page_labels: "14"
+tag: IQCM
 lang: ru
 source: kvant_digital
 extraction: native

@@ -12,6 +12,7 @@ rubric_sub: Конкурс имени А. П. Савина
 page_first: 24
 page_last: 28
 page_labels: 22, 23, 26
+tag: ZXZP
 lang: ru
 source: kvant_digital
 extraction: native

@@ -10,6 +10,7 @@ rubric: osnovnye-stati
 page_first: 10
 page_last: 15
 page_labels: 8, 9, 10, 12, 13
+tag: O53W
 lang: ru
 source: kvant_digital
 extraction: vision

@@ -7,6 +7,7 @@ title: Юлий Менделеевич Брук
 rubric: osnovnye-stati
 page_first: 18
 page_last: 18
+tag: 39AQ
 lang: ru
 source: kvant_digital
 extraction: native

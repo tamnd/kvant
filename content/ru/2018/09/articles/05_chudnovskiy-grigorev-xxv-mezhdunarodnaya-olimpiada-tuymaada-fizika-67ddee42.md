@@ -11,6 +11,7 @@ rubric: olimpiady
 rubric_sub: Олимпиады
 page_first: 40
 page_last: 40
+tag: 8TQ6
 lang: ru
 source: kvant_digital
 extraction: native

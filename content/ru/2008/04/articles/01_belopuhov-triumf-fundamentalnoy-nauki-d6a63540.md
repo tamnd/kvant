@@ -11,6 +11,7 @@ rubric_sub: Новости науки
 page_first: 6
 page_last: 16
 page_labels: 4, 14
+tag: ST6M
 lang: ru
 source: kvant_digital
 extraction: native

@@ -11,6 +11,7 @@ rubric_sub: Калейдоскоп
 page_first: 34
 page_last: 60
 page_labels: 36, 51, 52, 58
+tag: PIQI
 lang: ru
 source: kvant_digital
 extraction: native

@@ -11,6 +11,7 @@ rubric_sub: Задачник «Кванта»
 page_first: 24
 page_last: 24
 page_labels: "22"
+tag: FMUR
 lang: ru
 source: kvant_digital
 extraction: native

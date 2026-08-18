@@ -11,6 +11,7 @@ rubric_sub: «Квант» для младших школьников
 page_first: 37
 page_last: 38
 page_labels: 35-36
+tag: LAGO
 lang: ru
 source: kvant_digital
 extraction: native

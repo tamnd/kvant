@@ -11,6 +11,7 @@ rubric_sub: Рецензии, библиография
 page_first: 60
 page_last: 65
 page_labels: 58, 59, 62, 63
+tag: G77W
 lang: ru
 source: kvant_digital
 extraction: vision

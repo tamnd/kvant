@@ -9,6 +9,7 @@ authors:
 rubric: osnovnye-stati
 page_first: 27
 page_last: 27
+tag: H0YE
 lang: ru
 source: kvant_digital
 extraction: native

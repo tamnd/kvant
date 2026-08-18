@@ -12,6 +12,7 @@ rubric_sub: Математический кружок
 page_first: 43
 page_last: 56
 page_labels: 42, 44, 54
+tag: 2RRI
 lang: ru
 source: kvant_digital
 extraction: native

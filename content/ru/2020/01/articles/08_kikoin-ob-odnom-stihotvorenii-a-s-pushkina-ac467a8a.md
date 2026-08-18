@@ -10,6 +10,7 @@ rubric: shkola-v-kvante
 rubric_sub: Школа в «Кванте»
 page_first: 56
 page_last: 56
+tag: VEYU
 lang: ru
 source: kvant_digital
 extraction: native

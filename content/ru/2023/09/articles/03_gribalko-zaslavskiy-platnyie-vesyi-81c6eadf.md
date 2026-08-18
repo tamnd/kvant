@@ -12,6 +12,7 @@ rubric_sub: Математический кружок
 page_first: 32
 page_last: 39
 page_labels: 36-37
+tag: VZZZ
 lang: ru
 source: kvant_digital
 extraction: native

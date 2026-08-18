@@ -11,6 +11,7 @@ rubric_sub: Экзаменационные материалы
 page_first: 50
 page_last: 57
 page_labels: 48, 50, 51, 55
+tag: 6PN7
 lang: ru
 source: kvant_digital
 extraction: native

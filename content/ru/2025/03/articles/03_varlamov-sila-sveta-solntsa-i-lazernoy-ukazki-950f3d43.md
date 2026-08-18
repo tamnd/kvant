@@ -11,6 +11,7 @@ rubric_sub: Физический факультатив
 page_first: 38
 page_last: 39
 page_labels: 36-37
+tag: 73GT
 lang: ru
 source: kvant_digital
 extraction: native

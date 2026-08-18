@@ -12,6 +12,7 @@ rubric_sub: «Квант» для младших школьников
 page_first: 41
 page_last: 42
 page_labels: 39-40
+tag: H2TW
 lang: ru
 source: kvant_digital
 extraction: native

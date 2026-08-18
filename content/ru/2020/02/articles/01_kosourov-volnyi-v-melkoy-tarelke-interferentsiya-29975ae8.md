@@ -11,6 +11,7 @@ rubric_sub: Лаборатория «Кванта»
 page_first: 36
 page_last: 46
 page_labels: 36, 37, 39, 44
+tag: 4QC8
 lang: ru
 source: kvant_digital
 extraction: native

@@ -11,6 +11,7 @@ rubric_sub: Рецензии, библиография
 page_first: 25
 page_last: 27
 page_labels: 23, 25
+tag: QEM7
 lang: ru
 source: kvant_digital
 extraction: native

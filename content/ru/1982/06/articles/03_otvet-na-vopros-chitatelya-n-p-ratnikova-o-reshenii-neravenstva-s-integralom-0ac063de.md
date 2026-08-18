@@ -8,6 +8,7 @@ rubric: raznoe
 page_first: 16
 page_last: 16
 page_labels: "14"
+tag: WAC8
 lang: ru
 source: kvant_digital
 extraction: vision

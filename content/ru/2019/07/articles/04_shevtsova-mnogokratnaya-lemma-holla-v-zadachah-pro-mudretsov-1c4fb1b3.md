@@ -11,6 +11,7 @@ rubric_sub: Математический кружок
 page_first: 29
 page_last: 33
 page_labels: 28, 30, 31
+tag: TJ4H
 lang: ru
 source: kvant_digital
 extraction: native

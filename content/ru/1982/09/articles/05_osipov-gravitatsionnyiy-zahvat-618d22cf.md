@@ -10,6 +10,7 @@ rubric: osnovnye-stati
 page_first: 6
 page_last: 13
 page_labels: 4, 6, 7, 9, 10, 11
+tag: MQZB
 lang: ru
 source: kvant_digital
 extraction: vision

@@ -10,6 +10,7 @@ rubric: osnovnye-stati
 page_first: 24
 page_last: 29
 page_labels: 22, 23, 24, 26, 27
+tag: O2V3
 lang: ru
 source: kvant_digital
 extraction: vision

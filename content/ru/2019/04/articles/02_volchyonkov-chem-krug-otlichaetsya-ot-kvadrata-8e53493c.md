@@ -11,6 +11,7 @@ rubric_sub: «Квант» для младших школьников
 page_first: 25
 page_last: 29
 page_labels: 23, 24, 25, 27
+tag: GQK1
 lang: ru
 source: kvant_digital
 extraction: native

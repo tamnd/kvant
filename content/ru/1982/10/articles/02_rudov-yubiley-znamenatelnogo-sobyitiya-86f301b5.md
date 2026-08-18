@@ -9,6 +9,7 @@ authors:
 rubric: raznoe
 page_first: 68
 page_last: 68
+tag: 868L
 lang: ru
 source: kvant_digital
 extraction: vision

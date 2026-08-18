@@ -11,6 +11,7 @@ rubric_sub: Экзаменационные материалы
 page_first: 43
 page_last: 51
 page_labels: 45, 49
+tag: LLA0
 lang: ru
 source: kvant_digital
 extraction: native

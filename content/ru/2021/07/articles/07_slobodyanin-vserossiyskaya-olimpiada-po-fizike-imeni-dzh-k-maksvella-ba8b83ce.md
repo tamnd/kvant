@@ -11,6 +11,7 @@ rubric_sub: Олимпиады
 page_first: 53
 page_last: 54
 page_labels: 51-52
+tag: WN2S
 lang: ru
 source: kvant_digital
 extraction: native

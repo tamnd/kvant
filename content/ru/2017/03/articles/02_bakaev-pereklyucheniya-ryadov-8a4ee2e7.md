@@ -11,6 +11,7 @@ rubric_sub: Математический кружок
 page_first: 41
 page_last: 47
 page_labels: 40-45
+tag: DI3H
 lang: ru
 source: kvant_digital
 extraction: native

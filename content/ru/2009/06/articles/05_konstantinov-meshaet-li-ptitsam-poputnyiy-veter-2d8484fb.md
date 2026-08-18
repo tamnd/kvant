@@ -11,6 +11,7 @@ rubric_sub: «Квант» для младших школьников
 page_first: 29
 page_last: 31
 page_labels: 27-29
+tag: KHOH
 lang: ru
 source: kvant_digital
 extraction: native

@@ -12,6 +12,7 @@ rubric_sub: Нам пишут
 page_first: 11
 page_last: 16
 page_labels: 9, 10, 14
+tag: D4IW
 lang: ru
 source: kvant_digital
 extraction: native

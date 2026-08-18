@@ -11,6 +11,7 @@ rubric_sub: Физический факультатив
 page_first: 30
 page_last: 31
 page_labels: "29"
+tag: 1KWQ
 lang: ru
 source: kvant_digital
 extraction: native

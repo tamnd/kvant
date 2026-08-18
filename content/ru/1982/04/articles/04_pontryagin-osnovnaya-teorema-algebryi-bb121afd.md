@@ -10,6 +10,7 @@ rubric: osnovnye-stati
 page_first: 6
 page_last: 11
 page_labels: 4-9
+tag: AG6B
 lang: ru
 source: kvant_digital
 extraction: vision

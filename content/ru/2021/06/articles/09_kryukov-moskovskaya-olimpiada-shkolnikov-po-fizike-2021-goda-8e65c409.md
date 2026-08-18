@@ -11,6 +11,7 @@ rubric_sub: Олимпиады
 page_first: 44
 page_last: 49
 page_labels: 42, 44, 45, 47
+tag: HHM1
 lang: ru
 source: kvant_digital
 extraction: native

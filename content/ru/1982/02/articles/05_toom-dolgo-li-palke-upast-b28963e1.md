@@ -10,6 +10,7 @@ rubric: osnovnye-stati
 page_first: 12
 page_last: 15
 page_labels: 10-13
+tag: IYSU
 lang: ru
 source: kvant_digital
 extraction: vision

@@ -13,6 +13,7 @@ rubric_sub: Информация
 page_first: 61
 page_last: 64
 page_labels: 59-62
+tag: 6MXX
 lang: ru
 source: kvant_digital
 extraction: vision

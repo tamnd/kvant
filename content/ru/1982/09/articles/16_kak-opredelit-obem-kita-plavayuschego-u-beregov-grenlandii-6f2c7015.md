@@ -9,6 +9,7 @@ rubric_sub: «Квант» улыбается
 page_first: 63
 page_last: 66
 page_labels: 62-64
+tag: 5FLW
 lang: ru
 source: kvant_digital
 extraction: vision

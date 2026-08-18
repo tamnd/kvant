@@ -12,6 +12,7 @@ rubric_sub: Экзаменационные материалы
 page_first: 47
 page_last: 53
 page_labels: "51"
+tag: 24YW
 lang: ru
 source: kvant_digital
 extraction: native
