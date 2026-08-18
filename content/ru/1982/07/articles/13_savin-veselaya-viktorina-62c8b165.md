@@ -10,6 +10,7 @@ rubric: kvant-dlya-mladshih-shkolnikov
 rubric_sub: «Квант» для младших школьников
 page_first: 58
 page_last: 59
+tag: QMDL
 lang: ru
 source: kvant_digital
 extraction: vision

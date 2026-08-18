@@ -8,6 +8,7 @@ rubric: raznoe
 page_first: 36
 page_last: 36
 page_labels: "34"
+tag: CEHC
 lang: ru
 source: kvant_digital
 extraction: vision

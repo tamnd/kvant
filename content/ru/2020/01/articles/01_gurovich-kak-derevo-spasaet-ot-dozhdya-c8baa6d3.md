@@ -11,6 +11,7 @@ rubric_sub: Разное
 page_first: 14
 page_last: 22
 page_labels: 12, 19, 20
+tag: YGJJ
 lang: ru
 source: kvant_digital
 extraction: native

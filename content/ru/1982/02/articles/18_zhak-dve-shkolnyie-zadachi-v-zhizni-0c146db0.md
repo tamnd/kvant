@@ -10,6 +10,7 @@ rubric: smes
 page_first: 49
 page_last: 49
 page_labels: "47"
+tag: T88B
 lang: ru
 source: kvant_digital
 extraction: vision

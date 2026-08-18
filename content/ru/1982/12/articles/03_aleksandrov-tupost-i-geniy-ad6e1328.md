@@ -10,6 +10,7 @@ rubric: osnovnye-stati
 page_first: 9
 page_last: 14
 page_labels: 7-12
+tag: X92L
 lang: ru
 source: kvant_digital
 extraction: vision

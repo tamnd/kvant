@@ -9,6 +9,7 @@ rubric_sub: Информация
 page_first: 44
 page_last: 51
 page_labels: 42, 43, 44, 48, 49
+tag: 1RP1
 lang: ru
 source: kvant_digital
 extraction: native

@@ -11,6 +11,7 @@ rubric_sub: Математический кружок
 page_first: 43
 page_last: 45
 page_labels: 42-43
+tag: LF8A
 lang: ru
 source: kvant_digital
 extraction: native

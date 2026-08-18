@@ -11,6 +11,7 @@ rubric: raznoe
 page_first: 15
 page_last: 15
 page_labels: "13"
+tag: MXFD
 lang: ru
 source: kvant_digital
 extraction: native

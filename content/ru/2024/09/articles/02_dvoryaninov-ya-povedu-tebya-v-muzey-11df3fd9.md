@@ -11,6 +11,7 @@ rubric_sub: Лаборатория «Кванта»
 page_first: 31
 page_last: 33
 page_labels: 30-31
+tag: 3LY8
 lang: ru
 source: kvant_digital
 extraction: native

@@ -11,6 +11,7 @@ rubric: ekzamenatsionnye-materialy
 page_first: 51
 page_last: 52
 page_labels: 49-50
+tag: UXAW
 lang: ru
 source: kvant_digital
 extraction: vision

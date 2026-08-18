@@ -13,6 +13,7 @@ rubric_sub: Олимпиады
 page_first: 49
 page_last: 49
 page_labels: "47"
+tag: Y9KY
 lang: ru
 source: kvant_digital
 extraction: native

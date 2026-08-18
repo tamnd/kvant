@@ -11,6 +11,7 @@ rubric_sub: Олимпиады
 page_first: 53
 page_last: 57
 page_labels: 51, 55
+tag: TREU
 lang: ru
 source: kvant_digital
 extraction: native

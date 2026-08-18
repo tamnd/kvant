@@ -9,6 +9,7 @@ rubric_sub: «Квант» улыбается
 page_first: 37
 page_last: 37
 page_labels: "35"
+tag: M5E4
 lang: ru
 source: kvant_digital
 extraction: native

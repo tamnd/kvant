@@ -12,6 +12,7 @@ rubric: osnovnye-stati
 page_first: 15
 page_last: 22
 page_labels: 13, 20
+tag: BQTO
 lang: ru
 source: kvant_digital
 extraction: native

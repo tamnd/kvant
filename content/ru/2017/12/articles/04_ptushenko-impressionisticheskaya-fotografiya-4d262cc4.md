@@ -10,6 +10,7 @@ rubric: raznoe
 rubric_sub: Разное
 page_first: 32
 page_last: 32
+tag: BNDC
 lang: ru
 source: kvant_digital
 extraction: native

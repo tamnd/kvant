@@ -10,6 +10,7 @@ rubric: olimpiady
 rubric_sub: Олимпиады
 page_first: 54
 page_last: 54
+tag: S4HE
 lang: ru
 source: kvant_digital
 extraction: native

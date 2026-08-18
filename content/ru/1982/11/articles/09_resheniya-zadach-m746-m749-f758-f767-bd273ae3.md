@@ -9,6 +9,7 @@ rubric_sub: Задачник «Кванта»
 page_first: 31
 page_last: 42
 page_labels: 29, 30, 32, 33, 34, 35, 36, 38, 39, 40
+tag: BAZA
 lang: ru
 source: kvant_digital
 extraction: vision

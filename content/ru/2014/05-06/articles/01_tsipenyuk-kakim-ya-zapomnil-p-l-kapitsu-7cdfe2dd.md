@@ -11,6 +11,7 @@ rubric_sub: Из истории науки
 page_first: 25
 page_last: 27
 page_labels: 24-25
+tag: XK3M
 lang: ru
 source: kvant_digital
 extraction: native

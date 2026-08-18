@@ -11,6 +11,7 @@ rubric: osnovnye-stati
 page_first: 12
 page_last: 16
 page_labels: 10, 11, 13, 14
+tag: K5HU
 lang: ru
 source: kvant_digital
 extraction: vision

@@ -11,6 +11,7 @@ rubric_sub: Математический кружок
 page_first: 39
 page_last: 39
 page_labels: "37"
+tag: QTAJ
 lang: ru
 source: kvant_digital
 extraction: native

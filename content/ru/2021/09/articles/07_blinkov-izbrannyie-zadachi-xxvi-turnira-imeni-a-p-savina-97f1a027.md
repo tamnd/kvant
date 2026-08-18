@@ -11,6 +11,7 @@ rubric_sub: Олимпиады
 page_first: 48
 page_last: 54
 page_labels: 49, 52
+tag: 6BOA
 lang: ru
 source: kvant_digital
 extraction: native

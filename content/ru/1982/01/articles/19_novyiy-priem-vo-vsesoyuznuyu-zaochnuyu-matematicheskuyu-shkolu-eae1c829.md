@@ -9,6 +9,7 @@ rubric_sub: Информация
 page_first: 55
 page_last: 55
 page_labels: "53"
+tag: L055
 lang: ru
 source: kvant_digital
 extraction: vision

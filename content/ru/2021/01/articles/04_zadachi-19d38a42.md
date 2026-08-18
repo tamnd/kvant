@@ -7,6 +7,7 @@ title: Задачи
 rubric: raznoe
 page_first: 40
 page_last: 40
+tag: R4V0
 lang: ru
 source: kvant_digital
 extraction: native

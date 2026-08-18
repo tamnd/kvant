@@ -11,6 +11,7 @@ rubric_sub: Математический кружок
 page_first: 39
 page_last: 55
 page_labels: 52-53
+tag: 4H1S
 lang: ru
 source: kvant_digital
 extraction: native

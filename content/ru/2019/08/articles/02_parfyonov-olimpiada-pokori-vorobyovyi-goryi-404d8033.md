@@ -11,6 +11,7 @@ rubric_sub: Экзаменационные материалы
 page_first: 50
 page_last: 56
 page_labels: "54"
+tag: AVW1
 lang: ru
 source: kvant_digital
 extraction: native

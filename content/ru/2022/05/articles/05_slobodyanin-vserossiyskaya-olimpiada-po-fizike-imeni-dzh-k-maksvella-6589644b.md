@@ -11,6 +11,7 @@ rubric_sub: Олимпиады
 page_first: 54
 page_last: 62
 page_labels: 52, 55, 59
+tag: UNMY
 lang: ru
 source: kvant_digital
 extraction: native

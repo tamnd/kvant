@@ -11,6 +11,7 @@ rubric_sub: Калейдоскоп
 page_first: 34
 page_last: 37
 page_labels: "35"
+tag: HG02
 lang: ru
 source: kvant_digital
 extraction: native

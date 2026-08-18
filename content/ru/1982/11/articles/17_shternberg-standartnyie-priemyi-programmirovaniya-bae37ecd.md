@@ -11,6 +11,7 @@ rubric_sub: Разное
 page_first: 64
 page_last: 66
 page_labels: 62, 64
+tag: B1OF
 lang: ru
 source: kvant_digital
 extraction: vision

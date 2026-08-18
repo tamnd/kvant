@@ -10,6 +10,7 @@ rubric: olimpiady
 rubric_sub: Олимпиады
 page_first: 56
 page_last: 56
+tag: U03B
 lang: ru
 source: kvant_digital
 extraction: native

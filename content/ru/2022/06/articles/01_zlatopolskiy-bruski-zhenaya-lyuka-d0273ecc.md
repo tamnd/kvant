@@ -11,6 +11,7 @@ rubric_sub: Из истории науки
 page_first: 20
 page_last: 22
 page_labels: 19-20
+tag: DO27
 lang: ru
 source: kvant_digital
 extraction: native

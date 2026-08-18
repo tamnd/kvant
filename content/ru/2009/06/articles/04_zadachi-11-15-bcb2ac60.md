@@ -8,6 +8,7 @@ rubric: konkurs-imeni-a-p-savina
 page_first: 29
 page_last: 31
 page_labels: 27-29
+tag: UODF
 lang: ru
 source: kvant_digital
 extraction: native

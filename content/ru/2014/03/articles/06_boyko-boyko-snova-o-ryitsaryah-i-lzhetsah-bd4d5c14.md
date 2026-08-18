@@ -12,6 +12,7 @@ rubric_sub: Математический кружок
 page_first: 44
 page_last: 45
 page_labels: 42-43
+tag: JHP4
 lang: ru
 source: kvant_digital
 extraction: native

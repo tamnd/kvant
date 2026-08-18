@@ -12,6 +12,7 @@ rubric_sub: Олимпиады
 page_first: 56
 page_last: 58
 page_labels: 54, 56
+tag: D6DT
 lang: ru
 source: kvant_digital
 extraction: native

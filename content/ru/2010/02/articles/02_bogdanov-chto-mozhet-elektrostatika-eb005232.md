@@ -10,6 +10,7 @@ rubric: osnovnye-stati
 page_first: 12
 page_last: 14
 page_labels: 10, 12
+tag: IA4O
 lang: ru
 source: kvant_digital
 extraction: native

@@ -8,6 +8,7 @@ rubric: o-lyudyah
 page_first: 18
 page_last: 25
 page_labels: 16, 17, 20, 22, 23
+tag: QOO0
 lang: ru
 source: kvant_digital
 extraction: native

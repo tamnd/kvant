@@ -9,6 +9,7 @@ rubric_sub: Информация
 page_first: 43
 page_last: 63
 page_labels: 42, 61
+tag: 8OLO
 lang: ru
 source: kvant_digital
 extraction: native

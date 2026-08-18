@@ -11,6 +11,7 @@ rubric_sub: Из истории науки
 page_first: 12
 page_last: 14
 page_labels: "12"
+tag: GDM9
 lang: ru
 source: kvant_digital
 extraction: native

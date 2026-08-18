@@ -11,6 +11,7 @@ rubric_sub: Задачник «Кванта»
 page_first: 32
 page_last: 35
 page_labels: 30, 31, 33
+tag: 4GXT
 lang: ru
 source: kvant_digital
 extraction: vision

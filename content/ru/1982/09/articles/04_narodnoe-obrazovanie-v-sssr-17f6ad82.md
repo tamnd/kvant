@@ -8,6 +8,7 @@ rubric: otkryvayushchie-stati
 page_first: 5
 page_last: 5
 page_labels: "3"
+tag: 6ZHR
 lang: ru
 source: kvant_digital
 extraction: vision

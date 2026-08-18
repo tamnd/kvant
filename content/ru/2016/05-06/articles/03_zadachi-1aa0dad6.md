@@ -9,6 +9,7 @@ rubric_sub: «Квант» для младших школьников
 page_first: 30
 page_last: 32
 page_labels: "30"
+tag: A5KS
 lang: ru
 source: kvant_digital
 extraction: native

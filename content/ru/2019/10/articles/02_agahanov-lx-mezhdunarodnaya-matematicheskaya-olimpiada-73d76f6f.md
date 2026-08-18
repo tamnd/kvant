@@ -11,6 +11,7 @@ rubric_sub: Олимпиады
 page_first: 33
 page_last: 51
 page_labels: 36, 39, 47, 49
+tag: EFO8
 lang: ru
 source: kvant_digital
 extraction: native

@@ -8,6 +8,7 @@ rubric: konkurs-imeni-a-p-savina
 rubric_sub: Конкурс имени А. П. Савина
 page_first: 7
 page_last: 7
+tag: 0JO8
 lang: ru
 source: kvant_digital
 extraction: native

@@ -9,6 +9,7 @@ rubric_sub: «Квант» для младших школьников
 page_first: 29
 page_last: 29
 page_labels: "27"
+tag: ZC15
 lang: ru
 source: kvant_digital
 extraction: native

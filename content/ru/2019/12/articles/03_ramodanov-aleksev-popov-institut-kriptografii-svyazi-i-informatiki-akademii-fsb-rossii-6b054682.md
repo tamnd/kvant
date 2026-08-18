@@ -12,6 +12,7 @@ rubric: ekzamenatsionnye-materialy
 rubric_sub: Экзаменационные материалы
 page_first: 38
 page_last: 38
+tag: 7Z8L
 lang: ru
 source: kvant_digital
 extraction: native

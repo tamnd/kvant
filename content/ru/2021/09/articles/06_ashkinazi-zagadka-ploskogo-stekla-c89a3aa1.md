@@ -11,6 +11,7 @@ rubric_sub: Лаборатория «Кванта»
 page_first: 45
 page_last: 47
 page_labels: 44-45
+tag: V6S4
 lang: ru
 source: kvant_digital
 extraction: native

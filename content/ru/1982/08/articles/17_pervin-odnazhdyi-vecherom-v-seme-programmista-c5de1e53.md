@@ -11,6 +11,7 @@ rubric_sub: Разное
 page_first: 62
 page_last: 64
 page_labels: 60, 62
+tag: C9YW
 lang: ru
 source: kvant_digital
 extraction: vision

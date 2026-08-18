@@ -11,6 +11,7 @@ rubric_sub: Экзаменационные материалы
 page_first: 43
 page_last: 53
 page_labels: 49, 51
+tag: CLLE
 lang: ru
 source: kvant_digital
 extraction: native

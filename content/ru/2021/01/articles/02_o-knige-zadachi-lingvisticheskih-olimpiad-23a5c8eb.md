@@ -8,6 +8,7 @@ rubric: retsenzii-bibliografiya
 page_first: 24
 page_last: 29
 page_labels: 22, 27
+tag: KZQN
 lang: ru
 source: kvant_digital
 extraction: native

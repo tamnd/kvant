@@ -9,6 +9,7 @@ rubric_sub: Информация
 page_first: 58
 page_last: 59
 page_labels: 56-57
+tag: NR3W
 lang: ru
 source: kvant_digital
 extraction: vision

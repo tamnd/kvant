@@ -13,6 +13,7 @@ rubric_sub: Олимпиады
 page_first: 45
 page_last: 58
 page_labels: 43, 44, 46, 49, 56
+tag: RCP8
 lang: ru
 source: kvant_digital
 extraction: native

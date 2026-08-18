@@ -11,6 +11,7 @@ rubric_sub: Физический факультатив
 page_first: 32
 page_last: 39
 page_labels: 33, 34, 37
+tag: WP2G
 lang: ru
 source: kvant_digital
 extraction: native

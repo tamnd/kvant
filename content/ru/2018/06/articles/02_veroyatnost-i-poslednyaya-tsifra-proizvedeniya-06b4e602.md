@@ -9,6 +9,7 @@ rubric_sub: Разное
 page_first: 19
 page_last: 22
 page_labels: 17, 20
+tag: P4IH
 lang: ru
 source: kvant_digital
 extraction: native

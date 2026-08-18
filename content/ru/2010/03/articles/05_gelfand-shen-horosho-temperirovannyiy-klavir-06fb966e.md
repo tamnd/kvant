@@ -12,6 +12,7 @@ rubric_sub: «Квант» для младших школьников
 page_first: 39
 page_last: 39
 page_labels: "37"
+tag: F29K
 lang: ru
 source: kvant_digital
 extraction: native

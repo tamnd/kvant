@@ -11,6 +11,7 @@ rubric_sub: Из истории науки
 page_first: 13
 page_last: 17
 page_labels: 14-15
+tag: A19D
 lang: ru
 source: kvant_digital
 extraction: native

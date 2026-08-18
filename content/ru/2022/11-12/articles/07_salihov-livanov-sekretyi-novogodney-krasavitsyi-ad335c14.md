@@ -12,6 +12,7 @@ rubric_sub: Разное
 page_first: 51
 page_last: 54
 page_labels: 50-52
+tag: INP5
 lang: ru
 source: kvant_digital
 extraction: native

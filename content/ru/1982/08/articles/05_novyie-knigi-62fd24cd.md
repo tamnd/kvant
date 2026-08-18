@@ -8,6 +8,7 @@ rubric: smes
 page_first: 17
 page_last: 17
 page_labels: "15"
+tag: T43Z
 lang: ru
 source: kvant_digital
 extraction: vision

@@ -11,6 +11,7 @@ rubric_sub: Из истории науки
 page_first: 24
 page_last: 24
 page_labels: "22"
+tag: ABGV
 lang: ru
 source: kvant_digital
 extraction: native

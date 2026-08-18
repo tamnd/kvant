@@ -11,6 +11,7 @@ rubric_sub: Разное
 page_first: 32
 page_last: 49
 page_labels: 30, 31, 47
+tag: UIXS
 lang: ru
 source: kvant_digital
 extraction: native

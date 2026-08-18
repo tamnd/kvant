@@ -11,6 +11,7 @@ rubric_sub: Школа в «Кванте»
 page_first: 37
 page_last: 38
 page_labels: "36"
+tag: 62XH
 lang: ru
 source: kvant_digital
 extraction: native

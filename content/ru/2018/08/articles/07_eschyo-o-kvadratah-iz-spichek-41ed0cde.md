@@ -9,6 +9,7 @@ rubric_sub: Разное
 page_first: 40
 page_last: 40
 page_labels: "38"
+tag: VNPK
 lang: ru
 source: kvant_digital
 extraction: native

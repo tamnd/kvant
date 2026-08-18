@@ -8,6 +8,7 @@ rubric: o-lyudyah
 page_first: 11
 page_last: 11
 page_labels: "9"
+tag: XE4Q
 lang: ru
 source: kvant_digital
 extraction: native

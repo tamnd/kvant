@@ -11,6 +11,7 @@ rubric_sub: Олимпиады
 page_first: 46
 page_last: 47
 page_labels: "45"
+tag: NWLT
 lang: ru
 source: kvant_digital
 extraction: native

@@ -10,6 +10,7 @@ rubric: osnovnye-stati
 page_first: 7
 page_last: 10
 page_labels: 5, 8
+tag: RV0S
 lang: ru
 source: kvant_digital
 extraction: native

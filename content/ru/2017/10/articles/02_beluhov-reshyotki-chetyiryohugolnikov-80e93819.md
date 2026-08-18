@@ -11,6 +11,7 @@ rubric_sub: Задачник «Кванта»
 page_first: 20
 page_last: 20
 page_labels: "18"
+tag: K48E
 lang: ru
 source: kvant_digital
 extraction: native

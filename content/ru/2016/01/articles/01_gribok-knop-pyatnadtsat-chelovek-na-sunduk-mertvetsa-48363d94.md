@@ -11,6 +11,7 @@ rubric: osnovnye-stati
 page_first: 11
 page_last: 22
 page_labels: 10, 11, 12, 13, 14, 15, 18, 20
+tag: 9GJZ
 lang: ru
 source: kvant_digital
 extraction: native

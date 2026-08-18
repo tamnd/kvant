@@ -11,6 +11,7 @@ rubric_sub: Конкурс имени А. П. Савина
 page_first: 31
 page_last: 33
 page_labels: 29-31
+tag: TWOU
 lang: ru
 source: kvant_digital
 extraction: native

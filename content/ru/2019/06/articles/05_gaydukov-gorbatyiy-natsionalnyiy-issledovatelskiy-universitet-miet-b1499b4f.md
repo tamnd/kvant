@@ -12,6 +12,7 @@ rubric_sub: Экзаменационные материалы
 page_first: 37
 page_last: 47
 page_labels: 35, 38, 45
+tag: 3JZY
 lang: ru
 source: kvant_digital
 extraction: native

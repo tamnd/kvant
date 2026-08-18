@@ -10,6 +10,7 @@ rubric: osnovnye-stati
 page_first: 7
 page_last: 11
 page_labels: 7, 9
+tag: 3I7Z
 lang: ru
 source: kvant_digital
 extraction: native

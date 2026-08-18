@@ -12,6 +12,7 @@ rubric_sub: Математический кружок
 page_first: 39
 page_last: 46
 page_labels: 42-44
+tag: SK02
 lang: ru
 source: kvant_digital
 extraction: native

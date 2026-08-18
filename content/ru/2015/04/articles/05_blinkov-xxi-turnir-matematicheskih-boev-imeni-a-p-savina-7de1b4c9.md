@@ -11,6 +11,7 @@ rubric_sub: Конкурс имени А. П. Савина
 page_first: 30
 page_last: 30
 page_labels: "28"
+tag: 8EQA
 lang: ru
 source: kvant_digital
 extraction: native

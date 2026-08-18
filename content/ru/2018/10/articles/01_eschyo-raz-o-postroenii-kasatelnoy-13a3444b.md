@@ -9,6 +9,7 @@ rubric_sub: Разное
 page_first: 16
 page_last: 16
 page_labels: "14"
+tag: P3DR
 lang: ru
 source: kvant_digital
 extraction: native

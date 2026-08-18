@@ -10,6 +10,7 @@ rubric: shkola-v-kvante
 rubric_sub: Школа в «Кванте»
 page_first: 33
 page_last: 33
+tag: 6YST
 lang: ru
 source: kvant_digital
 extraction: native

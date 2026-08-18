@@ -11,6 +11,7 @@ rubric_sub: Физический факультатив
 page_first: 44
 page_last: 49
 page_labels: 46-47
+tag: B5BT
 lang: ru
 source: kvant_digital
 extraction: native

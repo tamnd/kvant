@@ -9,6 +9,7 @@ rubric_sub: Информация
 page_first: 55
 page_last: 65
 page_labels: 54, 55, 57, 58, 59, 60, 61, 62, 63
+tag: XLYV
 lang: ru
 source: kvant_digital
 extraction: native

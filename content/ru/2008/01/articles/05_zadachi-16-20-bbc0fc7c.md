@@ -8,6 +8,7 @@ rubric: konkurs-imeni-a-p-savina
 page_first: 28
 page_last: 30
 page_labels: 26-28
+tag: CMCQ
 lang: ru
 source: kvant_digital
 extraction: native

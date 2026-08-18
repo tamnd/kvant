@@ -13,6 +13,7 @@ rubric_sub: Математический кружок
 page_first: 33
 page_last: 41
 page_labels: "39"
+tag: MOGO
 lang: ru
 source: kvant_digital
 extraction: native

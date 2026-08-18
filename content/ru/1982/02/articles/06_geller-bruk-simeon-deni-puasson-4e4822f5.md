@@ -11,6 +11,7 @@ rubric: osnovnye-stati
 page_first: 16
 page_last: 22
 page_labels: 14, 16, 18, 19, 20
+tag: XV15
 lang: ru
 source: kvant_digital
 extraction: vision

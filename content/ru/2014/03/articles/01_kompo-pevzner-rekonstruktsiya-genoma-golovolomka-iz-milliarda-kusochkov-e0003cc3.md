@@ -11,6 +11,7 @@ rubric: osnovnye-stati
 page_first: 4
 page_last: 25
 page_labels: 2, 3, 4, 6, 9, 14, 15, 16, 17, 18, 23
+tag: CRIB
 lang: ru
 source: kvant_digital
 extraction: native

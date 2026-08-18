@@ -12,6 +12,7 @@ rubric_sub: Олимпиады
 page_first: 49
 page_last: 54
 page_labels: 47, 50, 51
+tag: QDDO
 lang: ru
 source: kvant_digital
 extraction: native

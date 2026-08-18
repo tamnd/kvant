@@ -12,6 +12,7 @@ rubric_sub: Математический кружок
 page_first: 30
 page_last: 36
 page_labels: 30, 31, 34
+tag: 106P
 lang: ru
 source: kvant_digital
 extraction: native

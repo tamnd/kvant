@@ -9,6 +9,7 @@ authors:
 rubric: osnovnye-stati
 page_first: 7
 page_last: 7
+tag: S2GB
 lang: ru
 source: kvant_digital
 extraction: native

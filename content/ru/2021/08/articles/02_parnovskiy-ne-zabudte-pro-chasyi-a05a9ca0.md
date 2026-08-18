@@ -11,6 +11,7 @@ rubric_sub: Школа в «Кванте»
 page_first: 27
 page_last: 28
 page_labels: "26"
+tag: 4NYC
 lang: ru
 source: kvant_digital
 extraction: native

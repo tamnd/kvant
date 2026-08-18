@@ -11,6 +11,7 @@ rubric_sub: Калейдоскоп
 page_first: 34
 page_last: 35
 page_labels: "32"
+tag: 0AWI
 lang: ru
 source: kvant_digital
 extraction: native

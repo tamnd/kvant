@@ -12,6 +12,7 @@ rubric_sub: Практикум абитуриента
 page_first: 27
 page_last: 27
 page_labels: "25"
+tag: U69X
 lang: ru
 source: kvant_digital
 extraction: native

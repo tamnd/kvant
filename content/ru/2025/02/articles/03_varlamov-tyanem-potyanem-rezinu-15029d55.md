@@ -10,6 +10,7 @@ rubric: laboratoriya-kvanta
 rubric_sub: Лаборатория «Кванта»
 page_first: 53
 page_last: 53
+tag: V2EC
 lang: ru
 source: kvant_digital
 extraction: native

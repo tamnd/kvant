@@ -11,6 +11,7 @@ rubric_sub: Информация
 page_first: 51
 page_last: 64
 page_labels: 49, 50, 52, 54, 55, 56, 57, 58, 59, 60, 62
+tag: OCVH
 lang: ru
 source: kvant_digital
 extraction: vision

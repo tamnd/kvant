@@ -10,6 +10,7 @@ rubric: raznoe
 page_first: 6
 page_last: 14
 page_labels: 4, 5, 6, 7, 8, 12
+tag: RNK1
 lang: ru
 source: kvant_digital
 extraction: native

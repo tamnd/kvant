@@ -8,6 +8,7 @@ rubric: raznoe
 page_first: 60
 page_last: 60
 page_labels: "58"
+tag: NZJ5
 lang: ru
 source: kvant_digital
 extraction: vision

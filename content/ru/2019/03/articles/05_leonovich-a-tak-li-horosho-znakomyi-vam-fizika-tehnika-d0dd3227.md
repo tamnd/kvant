@@ -11,6 +11,7 @@ rubric_sub: Калейдоскоп
 page_first: 34
 page_last: 56
 page_labels: 43, 49, 51
+tag: UM8T
 lang: ru
 source: kvant_digital
 extraction: native

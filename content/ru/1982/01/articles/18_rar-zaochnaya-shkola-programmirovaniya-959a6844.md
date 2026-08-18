@@ -11,6 +11,7 @@ rubric_sub: Разное
 page_first: 51
 page_last: 54
 page_labels: 49, 51, 52
+tag: DAIR
 lang: ru
 source: kvant_digital
 extraction: vision

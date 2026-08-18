@@ -11,6 +11,7 @@ rubric_sub: Из истории науки
 page_first: 17
 page_last: 22
 page_labels: 17, 18, 20
+tag: RURA
 lang: ru
 source: kvant_digital
 extraction: native

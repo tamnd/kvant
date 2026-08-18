@@ -11,6 +11,7 @@ rubric_sub: Физический факультатив
 page_first: 31
 page_last: 39
 page_labels: 35-37
+tag: ENKR
 lang: ru
 source: kvant_digital
 extraction: native

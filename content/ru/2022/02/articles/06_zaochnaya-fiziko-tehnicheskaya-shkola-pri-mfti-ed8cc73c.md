@@ -9,6 +9,7 @@ rubric_sub: Информация
 page_first: 55
 page_last: 65
 page_labels: "63"
+tag: AKVW
 lang: ru
 source: kvant_digital
 extraction: native

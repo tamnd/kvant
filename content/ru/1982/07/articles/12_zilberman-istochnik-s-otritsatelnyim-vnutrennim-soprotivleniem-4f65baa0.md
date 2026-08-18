@@ -11,6 +11,7 @@ rubric_sub: Задачник «Кванта»
 page_first: 56
 page_last: 57
 page_labels: 54-55
+tag: Y5N3
 lang: ru
 source: kvant_digital
 extraction: vision

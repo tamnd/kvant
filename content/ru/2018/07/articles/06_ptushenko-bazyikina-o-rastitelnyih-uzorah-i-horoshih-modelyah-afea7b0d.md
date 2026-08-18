@@ -12,6 +12,7 @@ rubric_sub: Разное
 page_first: 37
 page_last: 57
 page_labels: 35, 36, 45, 46, 55
+tag: 7GSW
 lang: ru
 source: kvant_digital
 extraction: native

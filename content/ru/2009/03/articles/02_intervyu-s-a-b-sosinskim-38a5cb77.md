@@ -9,6 +9,7 @@ rubric_sub: Разное
 page_first: 20
 page_last: 26
 page_labels: 18-24
+tag: V1E0
 lang: ru
 source: kvant_digital
 extraction: native

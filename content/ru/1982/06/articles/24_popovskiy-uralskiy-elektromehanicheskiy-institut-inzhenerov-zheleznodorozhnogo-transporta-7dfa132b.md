@@ -10,6 +10,7 @@ rubric: ekzamenatsionnye-materialy
 page_first: 53
 page_last: 54
 page_labels: 51-52
+tag: SL03
 lang: ru
 source: kvant_digital
 extraction: vision

@@ -11,6 +11,7 @@ rubric_sub: «Квант» для младших школьников
 page_first: 30
 page_last: 31
 page_labels: 28-29
+tag: AQXM
 lang: ru
 source: kvant_digital
 extraction: native

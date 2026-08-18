@@ -11,6 +11,7 @@ rubric_sub: Разное
 page_first: 25
 page_last: 26
 page_labels: "24"
+tag: OYKE
 lang: ru
 source: kvant_digital
 extraction: native

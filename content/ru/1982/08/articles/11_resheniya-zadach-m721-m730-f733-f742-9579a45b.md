@@ -9,6 +9,7 @@ rubric_sub: Задачник «Кванта»
 page_first: 36
 page_last: 50
 page_labels: 34, 36, 37, 38, 41, 42, 43, 44, 45, 46, 47, 48
+tag: O92T
 lang: ru
 source: kvant_digital
 extraction: vision

@@ -11,6 +11,7 @@ rubric_sub: Рецензии, библиография
 page_first: 46
 page_last: 57
 page_labels: 45, 55
+tag: RSMR
 lang: ru
 source: kvant_digital
 extraction: native

@@ -10,6 +10,7 @@ rubric: shkola-v-kvante
 rubric_sub: Школа в «Кванте»
 page_first: 30
 page_last: 34
+tag: QA6M
 lang: ru
 source: kvant_digital
 extraction: native

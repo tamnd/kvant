@@ -9,6 +9,7 @@ rubric_sub: «Квант» для младших школьников
 page_first: 24
 page_last: 29
 page_labels: 25, 27
+tag: MKZV
 lang: ru
 source: kvant_digital
 extraction: native

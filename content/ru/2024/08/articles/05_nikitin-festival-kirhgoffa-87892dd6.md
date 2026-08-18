@@ -11,6 +11,7 @@ rubric_sub: Информация
 page_first: 44
 page_last: 48
 page_labels: 44-46
+tag: M81W
 lang: ru
 source: kvant_digital
 extraction: native

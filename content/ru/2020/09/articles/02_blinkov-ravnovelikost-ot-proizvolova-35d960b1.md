@@ -10,6 +10,7 @@ rubric: shkola-v-kvante
 rubric_sub: Школа в «Кванте»
 page_first: 31
 page_last: 31
+tag: KPRI
 lang: ru
 source: kvant_digital
 extraction: native

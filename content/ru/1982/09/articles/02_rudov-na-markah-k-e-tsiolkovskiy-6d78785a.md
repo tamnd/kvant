@@ -9,6 +9,7 @@ authors:
 rubric: ugolok-kollektsionera
 page_first: 68
 page_last: 68
+tag: GJ4E
 lang: ru
 source: kvant_digital
 extraction: vision

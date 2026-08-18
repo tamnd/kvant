@@ -12,6 +12,7 @@ rubric_sub: Калейдоскоп
 page_first: 34
 page_last: 38
 page_labels: "36"
+tag: R7XO
 lang: ru
 source: kvant_digital
 extraction: native

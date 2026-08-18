@@ -11,6 +11,7 @@ rubric_sub: Практикум абитуриента
 page_first: 39
 page_last: 46
 page_labels: 37, 38, 43, 44
+tag: 9KPR
 lang: ru
 source: kvant_digital
 extraction: native

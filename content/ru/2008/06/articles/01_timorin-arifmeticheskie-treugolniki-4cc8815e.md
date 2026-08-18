@@ -10,6 +10,7 @@ rubric: osnovnye-stati
 page_first: 10
 page_last: 14
 page_labels: 8, 12
+tag: WSUW
 lang: ru
 source: kvant_digital
 extraction: native

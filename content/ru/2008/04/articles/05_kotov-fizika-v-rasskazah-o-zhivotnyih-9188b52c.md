@@ -11,6 +11,7 @@ rubric_sub: Нам пишут
 page_first: 33
 page_last: 40
 page_labels: 31, 37, 38
+tag: EQ85
 lang: ru
 source: kvant_digital
 extraction: native

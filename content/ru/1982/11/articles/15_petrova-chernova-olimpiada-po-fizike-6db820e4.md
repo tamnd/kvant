@@ -12,6 +12,7 @@ rubric_sub: Разное
 page_first: 56
 page_last: 58
 page_labels: 54-56
+tag: 8JKG
 lang: ru
 source: kvant_digital
 extraction: vision

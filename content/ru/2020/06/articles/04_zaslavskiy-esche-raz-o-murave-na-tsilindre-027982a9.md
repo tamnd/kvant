@@ -11,6 +11,7 @@ rubric_sub: Нам пишут
 page_first: 36
 page_last: 36
 page_labels: "34"
+tag: E80J
 lang: ru
 source: kvant_digital
 extraction: native

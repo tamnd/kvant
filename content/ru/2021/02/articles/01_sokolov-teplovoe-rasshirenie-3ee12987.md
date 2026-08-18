@@ -10,6 +10,7 @@ rubric: osnovnye-stati
 page_first: 11
 page_last: 28
 page_labels: 11, 13, 15, 17, 25, 26
+tag: L5HQ
 lang: ru
 source: kvant_digital
 extraction: native

@@ -10,6 +10,7 @@ rubric: osnovnye-stati
 page_first: 4
 page_last: 11
 page_labels: 2, 3, 4, 5, 7, 8, 9
+tag: PIFQ
 lang: ru
 source: kvant_digital
 extraction: vision

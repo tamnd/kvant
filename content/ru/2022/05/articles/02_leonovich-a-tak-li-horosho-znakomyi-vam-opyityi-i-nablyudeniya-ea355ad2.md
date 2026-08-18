@@ -10,6 +10,7 @@ rubric: kaleydoskop-kvanta
 rubric_sub: Калейдоскоп
 page_first: 34
 page_last: 35
+tag: NL5Q
 lang: ru
 source: kvant_digital
 extraction: native

@@ -9,6 +9,7 @@ rubric_sub: Конкурс имени А. П. Савина
 page_first: 55
 page_last: 55
 page_labels: "53"
+tag: AFRY
 lang: ru
 source: kvant_digital
 extraction: native

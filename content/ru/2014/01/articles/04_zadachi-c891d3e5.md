@@ -9,6 +9,7 @@ rubric_sub: «Квант» для младших школьников
 page_first: 37
 page_last: 54
 page_labels: 35, 37, 45
+tag: MX5M
 lang: ru
 source: kvant_digital
 extraction: native

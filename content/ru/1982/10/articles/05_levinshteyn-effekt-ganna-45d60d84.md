@@ -10,6 +10,7 @@ rubric: osnovnye-stati
 page_first: 13
 page_last: 23
 page_labels: 11, 12, 13, 14, 15, 16, 17, 20, 21
+tag: RO8K
 lang: ru
 source: kvant_digital
 extraction: vision

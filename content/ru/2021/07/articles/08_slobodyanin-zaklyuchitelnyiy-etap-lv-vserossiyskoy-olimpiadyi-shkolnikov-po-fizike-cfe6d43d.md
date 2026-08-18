@@ -11,6 +11,7 @@ rubric_sub: Олимпиады
 page_first: 55
 page_last: 59
 page_labels: 53, 55, 57
+tag: MM70
 lang: ru
 source: kvant_digital
 extraction: native

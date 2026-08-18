@@ -11,6 +11,7 @@ rubric_sub: «Квант» улыбается
 page_first: 27
 page_last: 27
 page_labels: "25"
+tag: 5ASL
 lang: ru
 source: kvant_digital
 extraction: vision

@@ -13,6 +13,7 @@ rubric_sub: Олимпиады
 page_first: 61
 page_last: 61
 page_labels: "59"
+tag: ZC14
 lang: ru
 source: kvant_digital
 extraction: native

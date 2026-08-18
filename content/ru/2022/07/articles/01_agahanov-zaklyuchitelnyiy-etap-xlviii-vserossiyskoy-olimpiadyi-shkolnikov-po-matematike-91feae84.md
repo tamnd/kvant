@@ -11,6 +11,7 @@ rubric_sub: Олимпиады
 page_first: 47
 page_last: 49
 page_labels: 45, 47
+tag: UUCI
 lang: ru
 source: kvant_digital
 extraction: native

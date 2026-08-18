@@ -12,6 +12,7 @@ rubric: osnovnye-stati
 page_first: 4
 page_last: 18
 page_labels: 2, 3, 10, 13, 14, 15, 16
+tag: KYZR
 lang: ru
 source: kvant_digital
 extraction: native

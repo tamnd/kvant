@@ -9,6 +9,7 @@ rubric_sub: Задачник «Кванта»
 page_first: 19
 page_last: 20
 page_labels: 17-18
+tag: X63G
 lang: ru
 source: kvant_digital
 extraction: native

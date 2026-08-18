@@ -8,6 +8,7 @@ rubric: raznoe
 page_first: 5
 page_last: 6
 page_labels: 3-4
+tag: XXSA
 lang: ru
 source: kvant_digital
 extraction: native

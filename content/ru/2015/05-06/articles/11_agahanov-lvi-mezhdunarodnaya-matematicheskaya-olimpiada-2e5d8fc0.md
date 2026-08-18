@@ -11,6 +11,7 @@ rubric_sub: Олимпиады
 page_first: 66
 page_last: 66
 page_labels: "64"
+tag: RNQ2
 lang: ru
 source: kvant_digital
 extraction: native

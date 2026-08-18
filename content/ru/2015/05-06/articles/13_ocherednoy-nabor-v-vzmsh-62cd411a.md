@@ -9,6 +9,7 @@ rubric_sub: Информация
 page_first: 75
 page_last: 79
 page_labels: 74, 75, 77
+tag: XDK1
 lang: ru
 source: kvant_digital
 extraction: native

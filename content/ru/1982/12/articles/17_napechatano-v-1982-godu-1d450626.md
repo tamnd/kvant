@@ -9,6 +9,7 @@ rubric_sub: Информация
 page_first: 58
 page_last: 66
 page_labels: 56, 57, 58, 59, 60, 61, 63, 64
+tag: 0NWM
 lang: ru
 source: kvant_digital
 extraction: vision

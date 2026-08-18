@@ -11,6 +11,7 @@ rubric_sub: Новости науки
 page_first: 16
 page_last: 19
 page_labels: 15-17
+tag: HVX2
 lang: ru
 source: kvant_digital
 extraction: native

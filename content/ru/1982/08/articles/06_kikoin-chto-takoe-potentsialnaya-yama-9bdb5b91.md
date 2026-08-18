@@ -10,6 +10,7 @@ rubric: osnovnye-stati
 page_first: 18
 page_last: 22
 page_labels: 16, 17, 18, 20
+tag: A3IF
 lang: ru
 source: kvant_digital
 extraction: vision

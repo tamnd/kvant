@@ -13,6 +13,7 @@ rubric_sub: «Квант» для младших школьников
 page_first: 31
 page_last: 33
 page_labels: 29-31
+tag: LIJE
 lang: ru
 source: kvant_digital
 extraction: native

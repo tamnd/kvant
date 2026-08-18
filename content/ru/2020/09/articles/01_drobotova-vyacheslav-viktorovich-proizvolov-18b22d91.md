@@ -11,6 +11,7 @@ rubric_sub: Математический мир
 page_first: 20
 page_last: 29
 page_labels: 19, 23, 26, 27
+tag: 965R
 lang: ru
 source: kvant_digital
 extraction: native

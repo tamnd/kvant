@@ -11,6 +11,7 @@ rubric_sub: Олимпиады
 page_first: 53
 page_last: 60
 page_labels: 51, 54, 58
+tag: YTLY
 lang: ru
 source: kvant_digital
 extraction: native

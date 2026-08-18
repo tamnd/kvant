@@ -11,6 +11,7 @@ rubric_sub: Разное
 page_first: 9
 page_last: 9
 page_labels: "7"
+tag: 3SGP
 lang: ru
 source: kvant_digital
 extraction: native

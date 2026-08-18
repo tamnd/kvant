@@ -8,6 +8,7 @@ rubric: kvant-ulybaetsya
 rubric_sub: «Квант» улыбается
 page_first: 37
 page_last: 37
+tag: "0976"
 lang: ru
 source: kvant_digital
 extraction: native

@@ -10,6 +10,7 @@ rubric: osnovnye-stati
 page_first: 7
 page_last: 13
 page_labels: 5, 8, 10, 11
+tag: 8L89
 lang: ru
 source: kvant_digital
 extraction: vision

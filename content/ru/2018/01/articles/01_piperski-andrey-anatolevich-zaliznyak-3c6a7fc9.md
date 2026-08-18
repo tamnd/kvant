@@ -11,6 +11,7 @@ rubric_sub: Из истории науки
 page_first: 17
 page_last: 21
 page_labels: 16-19
+tag: IC6U
 lang: ru
 source: kvant_digital
 extraction: native

@@ -11,6 +11,7 @@ rubric_sub: Школа в «Кванте»
 page_first: 33
 page_last: 49
 page_labels: 31, 32, 47
+tag: BRFD
 lang: ru
 source: kvant_digital
 extraction: native

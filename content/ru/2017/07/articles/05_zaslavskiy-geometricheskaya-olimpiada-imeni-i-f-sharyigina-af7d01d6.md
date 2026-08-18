@@ -11,6 +11,7 @@ rubric_sub: Олимпиады
 page_first: 36
 page_last: 38
 page_labels: "36"
+tag: YQIU
 lang: ru
 source: kvant_digital
 extraction: native

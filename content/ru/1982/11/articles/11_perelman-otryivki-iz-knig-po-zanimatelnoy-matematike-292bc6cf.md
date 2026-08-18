@@ -10,6 +10,7 @@ rubric: kvant-dlya-mladshih-shkolnikov
 page_first: 44
 page_last: 47
 page_labels: 42-45
+tag: 584C
 lang: ru
 source: kvant_digital
 extraction: vision

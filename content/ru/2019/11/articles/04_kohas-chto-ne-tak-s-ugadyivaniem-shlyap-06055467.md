@@ -11,6 +11,7 @@ rubric_sub: Математический кружок
 page_first: 37
 page_last: 38
 page_labels: "36"
+tag: HZFG
 lang: ru
 source: kvant_digital
 extraction: native

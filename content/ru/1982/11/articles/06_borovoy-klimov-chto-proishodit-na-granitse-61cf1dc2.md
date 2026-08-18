@@ -12,6 +12,7 @@ rubric_sub: Лаборатория «Кванта»
 page_first: 24
 page_last: 26
 page_labels: 22-24
+tag: RWS6
 lang: ru
 source: kvant_digital
 extraction: vision

@@ -9,6 +9,7 @@ rubric_sub: Математический мир
 page_first: 26
 page_last: 26
 page_labels: "24"
+tag: UXN8
 lang: ru
 source: kvant_digital
 extraction: native

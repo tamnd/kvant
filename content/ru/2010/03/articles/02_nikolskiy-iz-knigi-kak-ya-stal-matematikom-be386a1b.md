@@ -11,6 +11,7 @@ rubric_sub: Разное
 page_first: 17
 page_last: 17
 page_labels: "15"
+tag: ON3A
 lang: ru
 source: kvant_digital
 extraction: native

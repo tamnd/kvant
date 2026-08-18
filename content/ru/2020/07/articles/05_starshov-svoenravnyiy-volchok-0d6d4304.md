@@ -10,6 +10,7 @@ rubric: raznoe
 rubric_sub: Разное
 page_first: 43
 page_last: 43
+tag: WZMO
 lang: ru
 source: kvant_digital
 extraction: native

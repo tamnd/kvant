@@ -10,6 +10,7 @@ rubric: smes
 page_first: 61
 page_last: 61
 page_labels: "59"
+tag: 08WK
 lang: ru
 source: kvant_digital
 extraction: vision

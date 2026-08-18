@@ -10,6 +10,7 @@ rubric: osnovnye-stati
 page_first: 11
 page_last: 12
 page_labels: "10"
+tag: FKJH
 lang: ru
 source: kvant_digital
 extraction: native

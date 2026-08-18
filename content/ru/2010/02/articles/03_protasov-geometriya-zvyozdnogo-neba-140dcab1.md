@@ -10,6 +10,7 @@ rubric: osnovnye-stati
 page_first: 16
 page_last: 16
 page_labels: "14"
+tag: 6STZ
 lang: ru
 source: kvant_digital
 extraction: native

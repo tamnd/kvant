@@ -11,6 +11,7 @@ rubric_sub: Нам пишут
 page_first: 33
 page_last: 37
 page_labels: 31, 35
+tag: XIW6
 lang: ru
 source: kvant_digital
 extraction: native

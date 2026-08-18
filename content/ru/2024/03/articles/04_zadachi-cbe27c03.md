@@ -9,6 +9,7 @@ rubric_sub: «Квант» для младших школьников
 page_first: 37
 page_last: 44
 page_labels: 37, 40, 42
+tag: DS90
 lang: ru
 source: kvant_digital
 extraction: native

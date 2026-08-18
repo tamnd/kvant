@@ -10,6 +10,7 @@ rubric: osnovnye-stati
 page_first: 5
 page_last: 29
 page_labels: 3, 5, 11, 13, 18, 21, 24, 27
+tag: TF3Y
 lang: ru
 source: kvant_digital
 extraction: native

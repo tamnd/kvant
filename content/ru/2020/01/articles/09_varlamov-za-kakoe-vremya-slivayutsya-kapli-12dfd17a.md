@@ -11,6 +11,7 @@ rubric_sub: Школа в «Кванте»
 page_first: 57
 page_last: 62
 page_labels: 55, 58, 60
+tag: IRDL
 lang: ru
 source: kvant_digital
 extraction: native

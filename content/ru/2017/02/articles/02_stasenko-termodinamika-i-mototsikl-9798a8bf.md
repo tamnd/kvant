@@ -10,6 +10,7 @@ rubric: shkola-v-kvante
 rubric_sub: Школа в «Кванте»
 page_first: 27
 page_last: 27
+tag: QEDJ
 lang: ru
 source: kvant_digital
 extraction: native

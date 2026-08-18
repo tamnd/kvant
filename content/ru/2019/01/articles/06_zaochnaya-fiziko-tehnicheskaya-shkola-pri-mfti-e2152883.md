@@ -9,6 +9,7 @@ rubric_sub: Информация
 page_first: 54
 page_last: 60
 page_labels: 53, 54, 55, 58
+tag: QVUH
 lang: ru
 source: kvant_digital
 extraction: native

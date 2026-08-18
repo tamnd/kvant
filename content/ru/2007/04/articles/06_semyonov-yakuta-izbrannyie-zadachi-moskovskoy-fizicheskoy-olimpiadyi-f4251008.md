@@ -12,6 +12,7 @@ rubric_sub: Олимпиады
 page_first: 51
 page_last: 51
 page_labels: "49"
+tag: DSNW
 lang: ru
 source: kvant_digital
 extraction: native

@@ -9,6 +9,7 @@ rubric_sub: Задачник «Кванта»
 page_first: 17
 page_last: 17
 page_labels: "15"
+tag: RCDB
 lang: ru
 source: kvant_digital
 extraction: native

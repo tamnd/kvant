@@ -12,6 +12,7 @@ rubric_sub: Экзаменационные материалы
 page_first: 38
 page_last: 46
 page_labels: "41"
+tag: CBJ7
 lang: ru
 source: kvant_digital
 extraction: native

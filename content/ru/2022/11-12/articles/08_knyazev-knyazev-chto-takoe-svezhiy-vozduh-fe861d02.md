@@ -12,6 +12,7 @@ rubric_sub: Лаборатория «Кванта»
 page_first: 55
 page_last: 61
 page_labels: 53, 56, 59
+tag: WZK7
 lang: ru
 source: kvant_digital
 extraction: native

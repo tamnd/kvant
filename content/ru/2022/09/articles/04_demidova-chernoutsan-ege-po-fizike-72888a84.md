@@ -12,6 +12,7 @@ rubric_sub: Экзаменационные материалы
 page_first: 47
 page_last: 65
 page_labels: 45, 63
+tag: 917R
 lang: ru
 source: kvant_digital
 extraction: native

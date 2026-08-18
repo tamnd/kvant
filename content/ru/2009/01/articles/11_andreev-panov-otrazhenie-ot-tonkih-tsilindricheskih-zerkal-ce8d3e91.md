@@ -12,6 +12,7 @@ rubric_sub: Лаборатория «Кванта»
 page_first: 49
 page_last: 66
 page_labels: 47, 48, 64
+tag: 8JHB
 lang: ru
 source: kvant_digital
 extraction: native

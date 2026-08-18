@@ -10,6 +10,7 @@ rubric: o-lyudyah
 page_first: 30
 page_last: 30
 page_labels: "28"
+tag: LECG
 lang: ru
 source: kvant_digital
 extraction: vision

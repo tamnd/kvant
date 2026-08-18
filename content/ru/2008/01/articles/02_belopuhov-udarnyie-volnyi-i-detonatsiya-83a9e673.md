@@ -11,6 +11,7 @@ rubric_sub: Основные статьи
 page_first: 6
 page_last: 10
 page_labels: 4, 8
+tag: CV4Z
 lang: ru
 source: kvant_digital
 extraction: native

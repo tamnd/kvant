@@ -11,6 +11,7 @@ rubric_sub: Математический кружок
 page_first: 40
 page_last: 44
 page_labels: 39-42
+tag: YMZW
 lang: ru
 source: kvant_digital
 extraction: native

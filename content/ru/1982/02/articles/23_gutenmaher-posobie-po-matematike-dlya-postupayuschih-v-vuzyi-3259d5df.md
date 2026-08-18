@@ -11,6 +11,7 @@ rubric_sub: Рецензии, библиография
 page_first: 60
 page_last: 65
 page_labels: 58, 59, 60, 61, 63
+tag: YW9F
 lang: ru
 source: kvant_digital
 extraction: vision

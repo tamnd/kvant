@@ -10,6 +10,7 @@ rubric: matematicheskiy-kruzhok
 rubric_sub: Математический кружок
 page_first: 36
 page_last: 36
+tag: YVLH
 lang: ru
 source: kvant_digital
 extraction: native

@@ -11,6 +11,7 @@ rubric_sub: Разное
 page_first: 25
 page_last: 29
 page_labels: 23-27
+tag: SU5G
 lang: ru
 source: kvant_digital
 extraction: native

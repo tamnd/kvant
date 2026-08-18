@@ -13,6 +13,7 @@ rubric_sub: Олимпиады
 page_first: 44
 page_last: 60
 page_labels: 42, 44, 58
+tag: MW0V
 lang: ru
 source: kvant_digital
 extraction: native

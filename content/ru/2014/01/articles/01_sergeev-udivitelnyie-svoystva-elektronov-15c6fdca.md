@@ -10,6 +10,7 @@ rubric: osnovnye-stati
 page_first: 9
 page_last: 25
 page_labels: 8, 11, 17, 18, 19, 23
+tag: "5E07"
 lang: ru
 source: kvant_digital
 extraction: native

@@ -12,6 +12,7 @@ rubric_sub: Конкурс имени А. П. Савина
 page_first: 31
 page_last: 58
 page_labels: 29, 30, 33, 40, 51, 56
+tag: H6K9
 lang: ru
 source: kvant_digital
 extraction: native

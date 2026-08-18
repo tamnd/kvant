@@ -11,6 +11,7 @@ rubric_sub: Разное
 page_first: 4
 page_last: 12
 page_labels: 2, 4, 5, 6, 8, 9, 10
+tag: RXOQ
 lang: ru
 source: kvant_digital
 extraction: native

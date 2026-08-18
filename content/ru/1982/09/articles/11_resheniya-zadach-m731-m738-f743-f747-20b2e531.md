@@ -9,6 +9,7 @@ rubric_sub: Задачник «Кванта»
 page_first: 38
 page_last: 47
 page_labels: 36, 39, 40, 43, 44, 45
+tag: 2NR8
 lang: ru
 source: kvant_digital
 extraction: vision

@@ -11,6 +11,7 @@ rubric_sub: Лаборатория «Кванта»
 page_first: 46
 page_last: 56
 page_labels: 44, 45, 46, 47, 51, 52, 53, 54
+tag: 33GY
 lang: ru
 source: kvant_digital
 extraction: native

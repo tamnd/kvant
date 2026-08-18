@@ -11,6 +11,7 @@ rubric_sub: «Квант» для младших школьников
 page_first: 28
 page_last: 30
 page_labels: 26-28
+tag: YECO
 lang: ru
 source: kvant_digital
 extraction: native

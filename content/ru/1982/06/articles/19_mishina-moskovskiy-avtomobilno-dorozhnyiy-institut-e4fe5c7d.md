@@ -10,6 +10,7 @@ rubric: ekzamenatsionnye-materialy
 page_first: 48
 page_last: 49
 page_labels: 46-47
+tag: 3UBV
 lang: ru
 source: kvant_digital
 extraction: vision

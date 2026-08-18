@@ -8,6 +8,7 @@ rubric: matematicheskiy-mir
 rubric_sub: Математический мир
 page_first: 17
 page_last: 17
+tag: 1O4S
 lang: ru
 source: kvant_digital
 extraction: native

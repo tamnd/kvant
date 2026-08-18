@@ -10,6 +10,7 @@ rubric: smes
 page_first: 18
 page_last: 20
 page_labels: 16, 18
+tag: IM9H
 lang: ru
 source: kvant_digital
 extraction: native

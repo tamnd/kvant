@@ -11,6 +11,7 @@ rubric_sub: Математический кружок
 page_first: 31
 page_last: 32
 page_labels: "30"
+tag: ZGMS
 lang: ru
 source: kvant_digital
 extraction: native

@@ -8,6 +8,7 @@ rubric: konkurs-imeni-a-p-savina
 page_first: 26
 page_last: 26
 page_labels: "24"
+tag: 9N6X
 lang: ru
 source: kvant_digital
 extraction: native

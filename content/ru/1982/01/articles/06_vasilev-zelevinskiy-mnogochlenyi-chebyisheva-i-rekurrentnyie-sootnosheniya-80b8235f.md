@@ -11,6 +11,7 @@ rubric: osnovnye-stati
 page_first: 14
 page_last: 21
 page_labels: 12-19
+tag: S5J3
 lang: ru
 source: kvant_digital
 extraction: vision

@@ -11,6 +11,7 @@ rubric_sub: Лаборатория «Кванта»
 page_first: 17
 page_last: 20
 page_labels: 15-18
+tag: HQKJ
 lang: ru
 source: kvant_digital
 extraction: vision

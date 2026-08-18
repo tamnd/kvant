@@ -11,6 +11,7 @@ rubric_sub: Экзаменационные материалы
 page_first: 48
 page_last: 50
 page_labels: 46, 48
+tag: PV87
 lang: ru
 source: kvant_digital
 extraction: native

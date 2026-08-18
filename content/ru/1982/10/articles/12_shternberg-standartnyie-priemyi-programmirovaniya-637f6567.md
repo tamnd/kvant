@@ -11,6 +11,7 @@ rubric_sub: Разное
 page_first: 54
 page_last: 54
 page_labels: "52"
+tag: BDF1
 lang: ru
 source: kvant_digital
 extraction: vision

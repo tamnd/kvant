@@ -10,6 +10,7 @@ rubric: osnovnye-stati
 page_first: 11
 page_last: 24
 page_labels: "18"
+tag: THDA
 lang: ru
 source: kvant_digital
 extraction: native

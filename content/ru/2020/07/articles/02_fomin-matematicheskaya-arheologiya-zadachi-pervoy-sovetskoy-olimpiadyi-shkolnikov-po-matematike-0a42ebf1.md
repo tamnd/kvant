@@ -11,6 +11,7 @@ rubric_sub: Математический мир
 page_first: 18
 page_last: 31
 page_labels: 17, 18, 19, 27, 29
+tag: OG7N
 lang: ru
 source: kvant_digital
 extraction: native

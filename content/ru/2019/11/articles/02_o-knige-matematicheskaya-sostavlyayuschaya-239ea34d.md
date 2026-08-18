@@ -8,6 +8,7 @@ rubric: raznoe
 page_first: 18
 page_last: 18
 page_labels: "16"
+tag: MVJ8
 lang: ru
 source: kvant_digital
 extraction: native

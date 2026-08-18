@@ -11,6 +11,7 @@ rubric_sub: Калейдоскоп
 page_first: 34
 page_last: 46
 page_labels: 39-44
+tag: 94LW
 lang: ru
 source: kvant_digital
 extraction: native

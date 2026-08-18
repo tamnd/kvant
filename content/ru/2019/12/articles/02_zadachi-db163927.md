@@ -9,6 +9,7 @@ rubric_sub: «Квант» для младших школьников
 page_first: 20
 page_last: 23
 page_labels: 20-21
+tag: MLML
 lang: ru
 source: kvant_digital
 extraction: native

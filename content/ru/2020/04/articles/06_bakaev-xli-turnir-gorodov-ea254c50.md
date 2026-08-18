@@ -11,6 +11,7 @@ rubric_sub: Олимпиады
 page_first: 45
 page_last: 46
 page_labels: "44"
+tag: E7YH
 lang: ru
 source: kvant_digital
 extraction: native

@@ -7,6 +7,7 @@ title: '[Фигуры Хладни]'
 rubric: smes
 page_first: 2
 page_last: 3
+tag: 3Q3D
 lang: ru
 source: kvant_digital
 extraction: vision

@@ -7,6 +7,7 @@ title: Николай Николаевич Константинов
 rubric: raznoe
 page_first: 31
 page_last: 31
+tag: 8FK5
 lang: ru
 source: kvant_digital
 extraction: native

@@ -8,6 +8,7 @@ rubric: raznoe
 page_first: 8
 page_last: 14
 page_labels: 6, 12
+tag: JMX0
 lang: ru
 source: kvant_digital
 extraction: native

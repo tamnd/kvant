@@ -9,6 +9,7 @@ rubric_sub: Разное
 page_first: 59
 page_last: 59
 page_labels: "57"
+tag: WWU9
 lang: ru
 source: kvant_digital
 extraction: vision

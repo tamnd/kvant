@@ -13,6 +13,7 @@ rubric_sub: Олимпиады
 page_first: 43
 page_last: 55
 page_labels: 41, 42, 43, 44, 45, 53
+tag: WSU8
 lang: ru
 source: kvant_digital
 extraction: native

@@ -11,6 +11,7 @@ rubric_sub: Лаборатория «Кванта»
 page_first: 49
 page_last: 58
 page_labels: 51, 54
+tag: 2NI8
 lang: ru
 source: kvant_digital
 extraction: native

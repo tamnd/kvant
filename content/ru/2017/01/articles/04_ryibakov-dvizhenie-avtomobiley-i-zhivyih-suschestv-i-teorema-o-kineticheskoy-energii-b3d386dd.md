@@ -11,6 +11,7 @@ rubric_sub: Физический факультатив
 page_first: 38
 page_last: 43
 page_labels: 37, 40, 41
+tag: VPTP
 lang: ru
 source: kvant_digital
 extraction: native

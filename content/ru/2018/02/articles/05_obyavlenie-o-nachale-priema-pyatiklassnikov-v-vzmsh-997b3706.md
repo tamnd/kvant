@@ -8,6 +8,7 @@ rubric: raznoe
 page_first: 36
 page_last: 49
 page_labels: 44, 45, 47
+tag: AMG6
 lang: ru
 source: kvant_digital
 extraction: native

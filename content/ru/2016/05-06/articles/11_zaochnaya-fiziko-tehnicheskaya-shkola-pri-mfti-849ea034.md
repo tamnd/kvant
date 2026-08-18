@@ -9,6 +9,7 @@ rubric_sub: Информация
 page_first: 69
 page_last: 69
 page_labels: "67"
+tag: N5VL
 lang: ru
 source: kvant_digital
 extraction: native

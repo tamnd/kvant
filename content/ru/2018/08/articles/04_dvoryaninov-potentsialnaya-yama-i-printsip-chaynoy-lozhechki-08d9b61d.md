@@ -11,6 +11,7 @@ rubric_sub: Школа в «Кванте»
 page_first: 29
 page_last: 31
 page_labels: "29"
+tag: P5DW
 lang: ru
 source: kvant_digital
 extraction: native

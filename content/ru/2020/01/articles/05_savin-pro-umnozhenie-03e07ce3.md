@@ -11,6 +11,7 @@ rubric_sub: «Квант» для младших школьников
 page_first: 49
 page_last: 51
 page_labels: 47, 49
+tag: BN9N
 lang: ru
 source: kvant_digital
 extraction: native

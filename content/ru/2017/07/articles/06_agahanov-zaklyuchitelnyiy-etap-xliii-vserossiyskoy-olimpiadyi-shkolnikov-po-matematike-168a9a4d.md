@@ -11,6 +11,7 @@ rubric_sub: Олимпиады
 page_first: 39
 page_last: 40
 page_labels: 37-38
+tag: LNJ7
 lang: ru
 source: kvant_digital
 extraction: native

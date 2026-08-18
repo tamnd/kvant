@@ -10,6 +10,7 @@ rubric: osnovnye-stati
 page_first: 6
 page_last: 7
 page_labels: 4-5
+tag: EDGX
 lang: ru
 source: kvant_digital
 extraction: vision

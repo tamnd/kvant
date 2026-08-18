@@ -11,6 +11,7 @@ rubric_sub: Школа в «Кванте»
 page_first: 38
 page_last: 50
 page_labels: 37, 46, 48
+tag: WGB3
 lang: ru
 source: kvant_digital
 extraction: native

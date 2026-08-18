@@ -11,6 +11,7 @@ rubric_sub: Олимпиады
 page_first: 42
 page_last: 43
 page_labels: "41"
+tag: AHI3
 lang: ru
 source: kvant_digital
 extraction: native

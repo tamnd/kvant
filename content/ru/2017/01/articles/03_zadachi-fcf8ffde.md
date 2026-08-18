@@ -8,6 +8,7 @@ rubric: kvant-dlya-mladshih-shkolnikov
 rubric_sub: «Квант» для младших школьников
 page_first: 34
 page_last: 34
+tag: 0G79
 lang: ru
 source: kvant_digital
 extraction: native

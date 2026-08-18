@@ -11,6 +11,7 @@ rubric_sub: Разное
 page_first: 37
 page_last: 54
 page_labels: 36, 38, 45, 47, 50, 52
+tag: 6ZCK
 lang: ru
 source: kvant_digital
 extraction: native

@@ -10,6 +10,7 @@ rubric: olimpiady
 rubric_sub: Олимпиады
 page_first: 33
 page_last: 35
+tag: F46R
 lang: ru
 source: kvant_digital
 extraction: native

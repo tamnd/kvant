@@ -12,6 +12,7 @@ rubric_sub: Калейдоскоп
 page_first: 34
 page_last: 36
 page_labels: "34"
+tag: TM4J
 lang: ru
 source: kvant_digital
 extraction: native

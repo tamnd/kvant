@@ -11,6 +11,7 @@ rubric_sub: Разное
 page_first: 45
 page_last: 50
 page_labels: 44, 45, 48
+tag: QY6D
 lang: ru
 source: kvant_digital
 extraction: native

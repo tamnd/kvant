@@ -10,6 +10,7 @@ rubric: osnovnye-stati
 page_first: 14
 page_last: 23
 page_labels: 13, 14, 16, 20, 21
+tag: Q1BZ
 lang: ru
 source: kvant_digital
 extraction: native

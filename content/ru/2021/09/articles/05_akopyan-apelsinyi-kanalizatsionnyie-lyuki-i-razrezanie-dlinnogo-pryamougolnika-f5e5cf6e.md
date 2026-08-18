@@ -10,6 +10,7 @@ rubric: matematicheskiy-kruzhok
 rubric_sub: Математический кружок
 page_first: 42
 page_last: 42
+tag: 99NC
 lang: ru
 source: kvant_digital
 extraction: native
