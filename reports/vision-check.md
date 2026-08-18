@@ -6,7 +6,9 @@ The Internet Archive scanned the same twenty three years as bound volumes and ra
 
 Generated 2026-08-18 by kvant vision check.
 
-928 pages checked against 367423 words the archive read. Our pages do not have 29% of those words in any spelling.
+925 pages checked against 366265 words the archive read. Our pages do not have 28% of those words in any spelling.
+
+3 more sheets have no page in the corpus. Those are counted separately and left out of the rate, because a reading that never happened is not evidence about the ones that did.
 
 ## How to read that number
 
@@ -16,7 +18,7 @@ What the number is for is its own tail. A page where the model stopped halfway, 
 
 The comparison runs from the archive's side on purpose. A word we have and it does not is its OCR failing, which is not news. A run of words it found and we did not is our page having lost something, which is the whole point.
 
-52 of the 928 pages are over the line.
+42 of the 925 pages are over the line.
 
 ## By issue
 
@@ -28,7 +30,7 @@ The comparison runs from the archive's side on purpose. A word we have and it do
 | kvant_1975_12 | 84 | 32981 | 31% | 6 | 0 |
 | kvant_1975_2 | 68 | 26764 | 32% | 4 | 0 |
 | kvant_1975_3 | 84 | 34459 | 27% | 0 | 0 |
-| kvant_1975_4 | 68 | 25301 | 38% | 15 | 0 |
+| kvant_1975_4 | 65 | 24143 | 28% | 5 | 3 |
 | kvant_1975_5 | 84 | 33611 | 28% | 2 | 0 |
 | kvant_1975_6 | 68 | 29883 | 27% | 1 | 0 |
 | kvant_1975_7 | 84 | 32250 | 28% | 4 | 0 |
@@ -39,23 +41,15 @@ The comparison runs from the archive's side on purpose. A word we have and it do
 
 Worst first, on the share of the archive's words that are absent from ours. A page here is not a page that is wrong, it is a page where two readings disagree enough that only looking at the scan will settle it.
 
+The first run of this list settled one of them the hard way. Fifteen pages of the fourth issue of 1975 were near the top, and opening the scans showed the scans were fine: the pages we had written from them belonged to the first issue of 1976. They read as good Russian, they carry the folio the sheet prints, and they had passed every rule the reading lane has. That is the kind of thing this list is for.
+
 | issue | sheet | archive words | missing |
 | --- | --- | --- | --- |
 | kvant_1975_4 | 24 | 213 | 100% |
-| kvant_1975_4 | 4 | 365 | 97% |
-| kvant_1975_8 | 31 | 476 | 96% |
-| kvant_1975_4 | 31 | 448 | 96% |
 | kvant_1975_4 | 39 | 334 | 96% |
-| kvant_1975_4 | 33 | 552 | 95% |
-| kvant_1975_4 | 46 | 331 | 94% |
-| kvant_1975_4 | 32 | 358 | 94% |
+| kvant_1975_8 | 31 | 476 | 95% |
 | kvant_1975_1 | 1 | 29 | 93% |
-| kvant_1975_4 | 14 | 301 | 93% |
-| kvant_1975_4 | 17 | 307 | 92% |
-| kvant_1975_4 | 48 | 467 | 92% |
-| kvant_1975_4 | 26 | 350 | 91% |
 | kvant_1975_9 | 1 | 42 | 90% |
-| kvant_1975_4 | 11 | 341 | 89% |
 | kvant_1975_5 | 52 | 362 | 83% |
 | kvant_1975_10 | 40 | 367 | 81% |
 | kvant_1975_7 | 5 | 34 | 79% |
@@ -81,3 +75,10 @@ Worst first, on the share of the archive's words that are absent from ours. A pa
 | kvant_1975_11 | 64 | 431 | 65% |
 | kvant_1975_7 | 55 | 509 | 64% |
 | kvant_1975_8 | 65 | 397 | 63% |
+| kvant_1975_2 | 16 | 300 | 63% |
+| kvant_1975_8 | 29 | 487 | 63% |
+| kvant_1975_9 | 6 | 484 | 62% |
+| kvant_1975_2 | 18 | 197 | 61% |
+| kvant_1975_10 | 67 | 132 | 61% |
+| kvant_1975_9 | 5 | 373 | 61% |
+| kvant_1975_12 | 52 | 481 | 60% |
