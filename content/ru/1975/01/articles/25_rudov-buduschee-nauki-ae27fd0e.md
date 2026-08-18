@@ -11,6 +11,7 @@ rubric_sub: Рецензии, библиография
 page_first: 73
 page_last: 74
 page_labels: 71-72
+tag: R4BR
 lang: ru
 source: kvant_digital
 extraction: vision

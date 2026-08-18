@@ -10,6 +10,7 @@ rubric: smes
 page_first: 65
 page_last: 65
 page_labels: "63"
+tag: TFTS
 lang: ru
 source: kvant_digital
 extraction: vision

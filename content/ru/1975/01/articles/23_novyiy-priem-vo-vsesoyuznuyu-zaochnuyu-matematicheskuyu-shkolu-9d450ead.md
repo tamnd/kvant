@@ -9,6 +9,7 @@ rubric_sub: Информация
 page_first: 70
 page_last: 71
 page_labels: 68-69
+tag: 4SHC
 lang: ru
 source: kvant_digital
 extraction: vision
