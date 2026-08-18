@@ -10,6 +10,7 @@ rubric: osnovnye-stati
 page_first: 14
 page_last: 17
 page_labels: 12-15
+tag: VOSP
 lang: ru
 source: kvant_digital
 extraction: vision

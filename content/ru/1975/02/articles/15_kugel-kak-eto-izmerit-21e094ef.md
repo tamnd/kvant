@@ -11,6 +11,7 @@ rubric_sub: Рецензии, библиография
 page_first: 54
 page_last: 56
 page_labels: 52-54
+tag: 6CLL
 lang: ru
 source: kvant_digital
 extraction: vision

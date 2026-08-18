@@ -11,6 +11,7 @@ rubric: raznoe
 page_first: 47
 page_last: 48
 page_labels: 45-46
+tag: 0DKA
 lang: ru
 source: kvant_digital
 extraction: vision

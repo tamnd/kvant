@@ -11,6 +11,7 @@ rubric: osnovnye-stati
 page_first: 12
 page_last: 19
 page_labels: 10-17
+tag: 8H76
 lang: ru
 source: kvant_digital
 extraction: vision

@@ -12,6 +12,7 @@ rubric_sub: Разное
 page_first: 59
 page_last: 60
 page_labels: 57-58
+tag: S2VE
 lang: ru
 source: kvant_digital
 extraction: vision

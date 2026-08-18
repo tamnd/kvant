@@ -11,6 +11,7 @@ rubric_sub: «Квант» для младших школьников
 page_first: 56
 page_last: 61
 page_labels: 54-59
+tag: 171V
 lang: ru
 source: kvant_digital
 extraction: vision

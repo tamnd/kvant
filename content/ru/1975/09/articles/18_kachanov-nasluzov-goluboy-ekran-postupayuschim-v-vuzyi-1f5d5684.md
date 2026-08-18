@@ -12,6 +12,7 @@ rubric_sub: Информация
 page_first: 67
 page_last: 68
 page_labels: 65-66
+tag: 1T7V
 lang: ru
 source: kvant_digital
 extraction: vision

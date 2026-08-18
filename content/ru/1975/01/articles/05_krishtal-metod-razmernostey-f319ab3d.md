@@ -10,6 +10,7 @@ rubric: osnovnye-stati
 page_first: 20
 page_last: 23
 page_labels: 18-21
+tag: D1JG
 lang: ru
 source: kvant_digital
 extraction: vision

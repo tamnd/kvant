@@ -10,6 +10,7 @@ rubric: raznoe
 page_first: 72
 page_last: 72
 page_labels: "70"
+tag: C31T
 lang: ru
 source: kvant_digital
 extraction: vision

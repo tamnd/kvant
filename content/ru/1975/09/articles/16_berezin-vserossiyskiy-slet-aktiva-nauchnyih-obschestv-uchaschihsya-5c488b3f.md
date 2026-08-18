@@ -11,6 +11,7 @@ rubric_sub: Информация
 page_first: 60
 page_last: 64
 page_labels: 58, 60, 61, 62
+tag: 4Q3O
 lang: ru
 source: kvant_digital
 extraction: vision

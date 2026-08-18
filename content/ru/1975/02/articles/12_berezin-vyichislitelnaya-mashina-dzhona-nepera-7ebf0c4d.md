@@ -10,6 +10,7 @@ rubric: smes
 page_first: 44
 page_last: 44
 page_labels: "42"
+tag: SHIE
 lang: ru
 source: kvant_digital
 extraction: vision

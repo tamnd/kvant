@@ -10,6 +10,7 @@ rubric: laboratoriya-kvanta
 page_first: 23
 page_last: 23
 page_labels: "21"
+tag: SCT7
 lang: ru
 source: kvant_digital
 extraction: vision

@@ -12,6 +12,7 @@ rubric_sub: Разное
 page_first: 61
 page_last: 65
 page_labels: 59-63
+tag: IA4K
 lang: ru
 source: kvant_digital
 extraction: vision

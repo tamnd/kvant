@@ -13,6 +13,7 @@ rubric_sub: Практикум абитуриента
 page_first: 55
 page_last: 56
 page_labels: 53-54
+tag: Q5EJ
 lang: ru
 source: kvant_digital
 extraction: vision

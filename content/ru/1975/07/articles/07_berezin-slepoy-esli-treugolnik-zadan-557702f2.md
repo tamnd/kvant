@@ -12,6 +12,7 @@ rubric_sub: Математический кружок
 page_first: 38
 page_last: 41
 page_labels: 36-39
+tag: RQ87
 lang: ru
 source: kvant_digital
 extraction: vision

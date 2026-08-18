@@ -12,6 +12,7 @@ rubric_sub: Практикум абитуриента
 page_first: 47
 page_last: 51
 page_labels: 45-49
+tag: PK74
 lang: ru
 source: kvant_digital
 extraction: vision

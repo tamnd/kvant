@@ -10,6 +10,7 @@ rubric: osnovnye-stati
 page_first: 31
 page_last: 36
 page_labels: 29-34
+tag: HARW
 lang: ru
 source: kvant_digital
 extraction: vision

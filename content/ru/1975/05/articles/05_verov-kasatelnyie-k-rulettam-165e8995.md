@@ -10,6 +10,7 @@ rubric: osnovnye-stati
 page_first: 24
 page_last: 32
 page_labels: 22-30
+tag: WZMA
 lang: ru
 source: kvant_digital
 extraction: vision

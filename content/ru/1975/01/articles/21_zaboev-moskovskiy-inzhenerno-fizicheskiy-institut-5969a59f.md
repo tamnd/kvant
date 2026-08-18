@@ -11,6 +11,7 @@ rubric_sub: Разное
 page_first: 66
 page_last: 67
 page_labels: 64-65
+tag: YNVD
 lang: ru
 source: kvant_digital
 extraction: vision

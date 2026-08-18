@@ -11,6 +11,7 @@ rubric_sub: Рецензии, библиография
 page_first: 55
 page_last: 55
 page_labels: "53"
+tag: 42KU
 lang: ru
 source: kvant_digital
 extraction: vision

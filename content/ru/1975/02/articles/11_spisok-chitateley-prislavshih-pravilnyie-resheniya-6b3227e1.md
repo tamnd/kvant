@@ -8,6 +8,7 @@ rubric: zadachnik-kvanta
 page_first: 43
 page_last: 43
 page_labels: "41"
+tag: RRMG
 lang: ru
 source: kvant_digital
 extraction: vision

@@ -12,6 +12,7 @@ rubric_sub: Практикум абитуриента
 page_first: 51
 page_last: 53
 page_labels: 49, 51
+tag: DBNU
 lang: ru
 source: kvant_digital
 extraction: vision

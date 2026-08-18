@@ -11,6 +11,7 @@ rubric_sub: Информация
 page_first: 73
 page_last: 73
 page_labels: "71"
+tag: Q9Z1
 lang: ru
 source: kvant_digital
 extraction: vision

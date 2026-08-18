@@ -12,6 +12,7 @@ rubric_sub: Разное
 page_first: 64
 page_last: 67
 page_labels: 62-65
+tag: TRIU
 lang: ru
 source: kvant_digital
 extraction: vision

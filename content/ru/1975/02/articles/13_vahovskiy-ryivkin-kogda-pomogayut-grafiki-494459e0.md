@@ -12,6 +12,7 @@ rubric_sub: Практикум абитуриента
 page_first: 45
 page_last: 50
 page_labels: 43-48
+tag: WIUH
 lang: ru
 source: kvant_digital
 extraction: vision

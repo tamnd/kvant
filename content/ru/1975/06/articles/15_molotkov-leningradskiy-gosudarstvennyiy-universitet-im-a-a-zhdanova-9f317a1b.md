@@ -11,6 +11,7 @@ rubric_sub: Разное
 page_first: 46
 page_last: 51
 page_labels: 44, 46, 47, 48, 49
+tag: SPUF
 lang: ru
 source: kvant_digital
 extraction: vision

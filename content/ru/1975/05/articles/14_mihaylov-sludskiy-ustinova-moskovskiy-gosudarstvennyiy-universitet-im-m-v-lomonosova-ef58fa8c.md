@@ -13,6 +13,7 @@ rubric_sub: Практикум абитуриента
 page_first: 66
 page_last: 69
 page_labels: 64-67
+tag: 42SB
 lang: ru
 source: kvant_digital
 extraction: vision

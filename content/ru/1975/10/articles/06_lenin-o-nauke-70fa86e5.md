@@ -8,6 +8,7 @@ rubric: raznoe
 page_first: 6
 page_last: 6
 page_labels: "4"
+tag: IDG9
 lang: ru
 source: kvant_digital
 extraction: vision

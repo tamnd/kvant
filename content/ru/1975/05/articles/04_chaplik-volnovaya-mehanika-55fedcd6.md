@@ -10,6 +10,7 @@ rubric: osnovnye-stati
 page_first: 16
 page_last: 23
 page_labels: 14-21
+tag: RV5O
 lang: ru
 source: kvant_digital
 extraction: vision

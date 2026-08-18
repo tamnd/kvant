@@ -12,6 +12,7 @@ rubric_sub: Рецензии, библиография
 page_first: 70
 page_last: 71
 page_labels: 68-69
+tag: TJSF
 lang: ru
 source: kvant_digital
 extraction: vision

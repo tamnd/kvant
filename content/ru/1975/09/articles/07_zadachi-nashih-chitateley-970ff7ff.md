@@ -8,6 +8,7 @@ rubric: smes
 page_first: 31
 page_last: 31
 page_labels: "29"
+tag: 0RTE
 lang: ru
 source: kvant_digital
 extraction: vision

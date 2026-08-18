@@ -10,6 +10,7 @@ rubric: osnovnye-stati
 page_first: 11
 page_last: 18
 page_labels: 9, 10, 11, 12, 13, 14, 16
+tag: KWOO
 lang: ru
 source: kvant_digital
 extraction: vision

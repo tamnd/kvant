@@ -10,6 +10,7 @@ rubric: osnovnye-stati
 page_first: 4
 page_last: 12
 page_labels: 2, 4, 5, 6, 7, 9, 10
+tag: RBLP
 lang: ru
 source: kvant_digital
 extraction: vision

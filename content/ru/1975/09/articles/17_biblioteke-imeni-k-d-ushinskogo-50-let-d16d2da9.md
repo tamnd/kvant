@@ -9,6 +9,7 @@ rubric_sub: Информация
 page_first: 66
 page_last: 66
 page_labels: "64"
+tag: TU1R
 lang: ru
 source: kvant_digital
 extraction: vision

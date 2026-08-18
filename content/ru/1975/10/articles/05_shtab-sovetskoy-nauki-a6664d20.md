@@ -8,6 +8,7 @@ rubric: raznoe
 page_first: 4
 page_last: 4
 page_labels: "2"
+tag: WKO1
 lang: ru
 source: kvant_digital
 extraction: vision

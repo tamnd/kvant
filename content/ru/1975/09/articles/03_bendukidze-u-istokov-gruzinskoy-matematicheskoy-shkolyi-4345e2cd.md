@@ -10,6 +10,7 @@ rubric: osnovnye-stati
 page_first: 14
 page_last: 18
 page_labels: 12-16
+tag: H0TG
 lang: ru
 source: kvant_digital
 extraction: vision

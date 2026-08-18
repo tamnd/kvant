@@ -8,6 +8,7 @@ rubric: osnovnye-stati
 page_first: 20
 page_last: 20
 page_labels: "18"
+tag: VADS
 lang: ru
 source: kvant_digital
 extraction: vision

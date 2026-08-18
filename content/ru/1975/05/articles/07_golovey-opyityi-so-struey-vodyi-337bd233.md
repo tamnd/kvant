@@ -11,6 +11,7 @@ rubric_sub: Лаборатория «Кванта»
 page_first: 43
 page_last: 46
 page_labels: 41-44
+tag: 1MTW
 lang: ru
 source: kvant_digital
 extraction: vision

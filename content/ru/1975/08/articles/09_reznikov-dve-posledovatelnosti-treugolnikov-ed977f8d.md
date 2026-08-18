@@ -11,6 +11,7 @@ rubric_sub: Математический кружок
 page_first: 48
 page_last: 49
 page_labels: 46-47
+tag: QXB0
 lang: ru
 source: kvant_digital
 extraction: vision

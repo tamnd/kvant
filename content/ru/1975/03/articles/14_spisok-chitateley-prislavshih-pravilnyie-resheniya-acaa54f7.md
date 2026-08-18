@@ -8,6 +8,7 @@ rubric: zadachnik-kvanta
 page_first: 61
 page_last: 62
 page_labels: 59-60
+tag: 62MV
 lang: ru
 source: kvant_digital
 extraction: vision

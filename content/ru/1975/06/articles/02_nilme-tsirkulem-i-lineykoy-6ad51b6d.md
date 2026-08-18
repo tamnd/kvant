@@ -10,6 +10,7 @@ rubric: osnovnye-stati
 page_first: 4
 page_last: 10
 page_labels: 2, 3, 4, 6, 7, 8
+tag: QDYN
 lang: ru
 source: kvant_digital
 extraction: vision

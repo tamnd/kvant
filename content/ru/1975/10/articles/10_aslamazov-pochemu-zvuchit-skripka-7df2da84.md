@@ -10,6 +10,7 @@ rubric: osnovnye-stati
 page_first: 11
 page_last: 17
 page_labels: 9-15
+tag: MMR1
 lang: ru
 source: kvant_digital
 extraction: vision

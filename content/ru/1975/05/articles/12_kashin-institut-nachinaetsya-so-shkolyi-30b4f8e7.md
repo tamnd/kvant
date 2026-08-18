@@ -11,6 +11,7 @@ rubric_sub: Практикум абитуриента
 page_first: 60
 page_last: 61
 page_labels: 58-59
+tag: CM3S
 lang: ru
 source: kvant_digital
 extraction: vision

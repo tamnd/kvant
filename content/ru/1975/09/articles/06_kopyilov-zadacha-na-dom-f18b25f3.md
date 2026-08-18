@@ -11,6 +11,7 @@ rubric_sub: Математический кружок
 page_first: 26
 page_last: 30
 page_labels: 24-28
+tag: D1OX
 lang: ru
 source: kvant_digital
 extraction: vision

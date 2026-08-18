@@ -7,6 +7,7 @@ title: «Кулинарная головоломка» Сэма Лойда
 rubric: smes
 page_first: 67
 page_last: 67
+tag: JIOS
 lang: ru
 source: kvant_digital
 extraction: vision

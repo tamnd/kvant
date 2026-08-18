@@ -7,6 +7,7 @@ title: На сборе в пятом-б
 rubric: smes
 page_first: 19
 page_last: 19
+tag: 4K15
 lang: ru
 source: kvant_digital
 extraction: vision

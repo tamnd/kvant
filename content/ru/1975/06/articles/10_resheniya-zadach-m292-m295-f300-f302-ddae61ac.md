@@ -9,6 +9,7 @@ rubric_sub: Задачник «Кванта»
 page_first: 26
 page_last: 32
 page_labels: 24-30
+tag: JEZ2
 lang: ru
 source: kvant_digital
 extraction: vision

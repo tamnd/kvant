@@ -11,6 +11,7 @@ rubric_sub: Лаборатория «Кванта»
 page_first: 20
 page_last: 21
 page_labels: 18-19
+tag: FETD
 lang: ru
 source: kvant_digital
 extraction: vision

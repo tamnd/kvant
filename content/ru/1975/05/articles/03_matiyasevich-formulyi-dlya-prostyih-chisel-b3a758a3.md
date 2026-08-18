@@ -10,6 +10,7 @@ rubric: osnovnye-stati
 page_first: 7
 page_last: 15
 page_labels: 5-13
+tag: TTX4
 lang: ru
 source: kvant_digital
 extraction: vision

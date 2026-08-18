@@ -10,6 +10,7 @@ rubric: praktikum-abiturienta
 page_first: 62
 page_last: 62
 page_labels: "60"
+tag: 3KXL
 lang: ru
 source: kvant_digital
 extraction: vision

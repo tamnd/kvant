@@ -10,6 +10,7 @@ rubric: osnovnye-stati
 page_first: 4
 page_last: 11
 page_labels: 2-9
+tag: KATK
 lang: ru
 source: kvant_digital
 extraction: vision

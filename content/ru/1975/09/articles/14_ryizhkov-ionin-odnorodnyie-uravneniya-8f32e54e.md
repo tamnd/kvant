@@ -12,6 +12,7 @@ rubric_sub: Практикум абитуриента
 page_first: 51
 page_last: 56
 page_labels: 49-54
+tag: TNVS
 lang: ru
 source: kvant_digital
 extraction: vision

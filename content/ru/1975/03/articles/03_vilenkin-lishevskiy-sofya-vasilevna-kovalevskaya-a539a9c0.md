@@ -11,6 +11,7 @@ rubric: osnovnye-stati
 page_first: 4
 page_last: 12
 page_labels: 2-10
+tag: ISVR
 lang: ru
 source: kvant_digital
 extraction: vision

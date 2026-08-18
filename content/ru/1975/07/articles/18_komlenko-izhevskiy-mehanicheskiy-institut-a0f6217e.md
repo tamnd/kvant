@@ -9,6 +9,7 @@ authors:
 rubric: praktikum-abiturienta
 page_first: 65
 page_last: 65
+tag: HZSB
 lang: ru
 source: kvant_digital
 extraction: vision

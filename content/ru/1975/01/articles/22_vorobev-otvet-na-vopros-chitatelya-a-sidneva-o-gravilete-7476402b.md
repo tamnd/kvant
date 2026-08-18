@@ -10,6 +10,7 @@ rubric: raznoe
 page_first: 69
 page_last: 69
 page_labels: "67"
+tag: 8PLQ
 lang: ru
 source: kvant_digital
 extraction: vision

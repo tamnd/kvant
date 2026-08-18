@@ -7,6 +7,7 @@ title: 524288 японских головоломок
 rubric: smes
 page_first: 83
 page_last: 84
+tag: 8IO5
 lang: ru
 source: kvant_digital
 extraction: vision

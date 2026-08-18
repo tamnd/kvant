@@ -10,6 +10,7 @@ rubric: osnovnye-stati
 page_first: 8
 page_last: 21
 page_labels: 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 18, 19
+tag: 4B0J
 lang: ru
 source: kvant_digital
 extraction: vision

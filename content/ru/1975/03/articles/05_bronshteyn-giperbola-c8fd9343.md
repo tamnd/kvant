@@ -10,6 +10,7 @@ rubric: osnovnye-stati
 page_first: 18
 page_last: 25
 page_labels: 16-23
+tag: PXRJ
 lang: ru
 source: kvant_digital
 extraction: vision

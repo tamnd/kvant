@@ -11,6 +11,7 @@ rubric_sub: Практикум абитуриента
 page_first: 50
 page_last: 53
 page_labels: 48-51
+tag: NEMY
 lang: ru
 source: kvant_digital
 extraction: vision

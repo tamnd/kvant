@@ -10,6 +10,7 @@ rubric: osnovnye-stati
 page_first: 18
 page_last: 21
 page_labels: 16-19
+tag: UBUL
 lang: ru
 source: kvant_digital
 extraction: vision

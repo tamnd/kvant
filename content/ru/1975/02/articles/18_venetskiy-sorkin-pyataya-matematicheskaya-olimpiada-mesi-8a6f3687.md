@@ -12,6 +12,7 @@ rubric_sub: Информация
 page_first: 59
 page_last: 59
 page_labels: "57"
+tag: VIHD
 lang: ru
 source: kvant_digital
 extraction: vision

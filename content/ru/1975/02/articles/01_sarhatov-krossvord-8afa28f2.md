@@ -9,6 +9,7 @@ authors:
 rubric: smes
 page_first: 67
 page_last: 67
+tag: 8Y1A
 lang: ru
 source: kvant_digital
 extraction: vision

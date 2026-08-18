@@ -8,6 +8,7 @@ rubric: raznoe
 page_first: 4
 page_last: 6
 page_labels: 2-4
+tag: RS2S
 lang: ru
 source: kvant_digital
 extraction: vision

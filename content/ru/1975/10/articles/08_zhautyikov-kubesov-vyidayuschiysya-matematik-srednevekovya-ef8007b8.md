@@ -11,6 +11,7 @@ rubric: osnovnye-stati
 page_first: 8
 page_last: 9
 page_labels: 6-7
+tag: NFVV
 lang: ru
 source: kvant_digital
 extraction: vision

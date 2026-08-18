@@ -11,6 +11,7 @@ rubric_sub: Практикум абитуриента
 page_first: 57
 page_last: 60
 page_labels: 55-58
+tag: 49O9
 lang: ru
 source: kvant_digital
 extraction: vision

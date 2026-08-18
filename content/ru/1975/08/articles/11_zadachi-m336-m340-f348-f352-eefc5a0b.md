@@ -9,6 +9,7 @@ rubric_sub: Задачник «Кванта»
 page_first: 51
 page_last: 52
 page_labels: 49-50
+tag: W12M
 lang: ru
 source: kvant_digital
 extraction: vision

@@ -12,6 +12,7 @@ rubric_sub: Рецензии, библиография
 page_first: 53
 page_last: 55
 page_labels: 51-53
+tag: D891
 lang: ru
 source: kvant_digital
 extraction: vision

@@ -12,6 +12,7 @@ rubric_sub: Разное
 page_first: 57
 page_last: 57
 page_labels: "55"
+tag: LUGP
 lang: ru
 source: kvant_digital
 extraction: vision

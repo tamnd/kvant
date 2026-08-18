@@ -10,6 +10,7 @@ rubric: osnovnye-stati
 page_first: 21
 page_last: 25
 page_labels: 19-23
+tag: CUF4
 lang: ru
 source: kvant_digital
 extraction: vision

@@ -10,6 +10,7 @@ rubric: smes
 page_first: 46
 page_last: 46
 page_labels: "44"
+tag: PJDU
 lang: ru
 source: kvant_digital
 extraction: vision

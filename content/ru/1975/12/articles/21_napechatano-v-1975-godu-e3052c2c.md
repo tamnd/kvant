@@ -8,6 +8,7 @@ rubric: raznoe
 page_first: 80
 page_last: 82
 page_labels: 78-80
+tag: 2KRT
 lang: ru
 source: kvant_digital
 extraction: vision

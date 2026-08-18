@@ -7,6 +7,7 @@ title: Элементарная исповедь
 rubric: smes
 page_first: 19
 page_last: 19
+tag: FNFN
 lang: ru
 source: kvant_digital
 extraction: vision

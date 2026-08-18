@@ -11,6 +11,7 @@ rubric: raznoe
 page_first: 26
 page_last: 31
 page_labels: 24-29
+tag: DYOM
 lang: ru
 source: kvant_digital
 extraction: vision

@@ -11,6 +11,7 @@ rubric_sub: Математический кружок
 page_first: 22
 page_last: 26
 page_labels: 20-24
+tag: MFX4
 lang: ru
 source: kvant_digital
 extraction: vision

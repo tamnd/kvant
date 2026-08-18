@@ -11,6 +11,7 @@ rubric: smes
 page_first: 56
 page_last: 56
 page_labels: "54"
+tag: WM19
 lang: ru
 source: kvant_digital
 extraction: vision

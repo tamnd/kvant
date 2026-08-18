@@ -8,6 +8,7 @@ rubric: smes
 page_first: 10
 page_last: 10
 page_labels: "8"
+tag: TGFZ
 lang: ru
 source: kvant_digital
 extraction: vision

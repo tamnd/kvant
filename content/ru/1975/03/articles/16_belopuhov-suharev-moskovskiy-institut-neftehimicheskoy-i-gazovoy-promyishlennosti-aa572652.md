@@ -12,6 +12,7 @@ rubric_sub: Практикум абитуриента
 page_first: 68
 page_last: 70
 page_labels: 66-68
+tag: VHPH
 lang: ru
 source: kvant_digital
 extraction: vision

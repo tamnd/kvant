@@ -10,6 +10,7 @@ rubric: osnovnye-stati
 page_first: 24
 page_last: 24
 page_labels: "22"
+tag: VM3Z
 lang: ru
 source: kvant_digital
 extraction: vision

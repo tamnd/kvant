@@ -11,6 +11,7 @@ rubric_sub: Практикум абитуриента
 page_first: 40
 page_last: 42
 page_labels: 38-40
+tag: WHVD
 lang: ru
 source: kvant_digital
 extraction: vision

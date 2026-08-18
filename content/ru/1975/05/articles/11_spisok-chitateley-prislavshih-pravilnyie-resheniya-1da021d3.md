@@ -8,6 +8,7 @@ rubric: zadachnik-kvanta
 page_first: 59
 page_last: 59
 page_labels: "57"
+tag: G5MS
 lang: ru
 source: kvant_digital
 extraction: vision

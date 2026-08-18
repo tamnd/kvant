@@ -9,6 +9,7 @@ rubric_sub: Задачник «Кванта»
 page_first: 42
 page_last: 49
 page_labels: 40-47
+tag: WJRI
 lang: ru
 source: kvant_digital
 extraction: vision

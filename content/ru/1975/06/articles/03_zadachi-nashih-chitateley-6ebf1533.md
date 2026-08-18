@@ -8,6 +8,7 @@ rubric: smes
 page_first: 11
 page_last: 11
 page_labels: "9"
+tag: G3RW
 lang: ru
 source: kvant_digital
 extraction: vision

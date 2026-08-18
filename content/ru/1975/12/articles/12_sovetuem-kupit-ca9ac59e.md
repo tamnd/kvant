@@ -8,6 +8,7 @@ rubric: smes
 page_first: 52
 page_last: 52
 page_labels: "50"
+tag: Z2AO
 lang: ru
 source: kvant_digital
 extraction: vision

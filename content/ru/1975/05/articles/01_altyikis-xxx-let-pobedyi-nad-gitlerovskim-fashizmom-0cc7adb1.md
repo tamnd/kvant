@@ -10,6 +10,7 @@ rubric: raznoe
 rubric_sub: Разное
 page_first: 83
 page_last: 84
+tag: WWGI
 lang: ru
 source: kvant_digital
 extraction: vision

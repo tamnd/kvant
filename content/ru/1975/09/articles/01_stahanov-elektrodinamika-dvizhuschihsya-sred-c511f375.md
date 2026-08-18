@@ -10,6 +10,7 @@ rubric: osnovnye-stati
 page_first: 4
 page_last: 8
 page_labels: 2-6
+tag: CPF8
 lang: ru
 source: kvant_digital
 extraction: vision

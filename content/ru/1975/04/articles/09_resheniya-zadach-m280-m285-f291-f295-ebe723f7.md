@@ -9,6 +9,7 @@ rubric_sub: Задачник «Кванта»
 page_first: 29
 page_last: 38
 page_labels: 27, 28, 30, 31, 32, 33, 34, 36
+tag: G9EZ
 lang: ru
 source: kvant_digital
 extraction: vision

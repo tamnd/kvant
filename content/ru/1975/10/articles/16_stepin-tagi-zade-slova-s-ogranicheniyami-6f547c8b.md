@@ -12,6 +12,7 @@ rubric_sub: Математический кружок
 page_first: 34
 page_last: 39
 page_labels: 32-37
+tag: 6MKT
 lang: ru
 source: kvant_digital
 extraction: vision

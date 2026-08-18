@@ -10,6 +10,7 @@ rubric: osnovnye-stati
 page_first: 38
 page_last: 40
 page_labels: 36-38
+tag: Y0OQ
 lang: ru
 source: kvant_digital
 extraction: vision

@@ -10,6 +10,7 @@ rubric: smes
 page_first: 25
 page_last: 25
 page_labels: "23"
+tag: ARWQ
 lang: ru
 source: kvant_digital
 extraction: vision

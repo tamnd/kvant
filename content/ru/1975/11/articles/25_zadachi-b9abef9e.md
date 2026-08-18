@@ -9,6 +9,7 @@ rubric_sub: «Квант» для младших школьников
 page_first: 74
 page_last: 74
 page_labels: "72"
+tag: JOTA
 lang: ru
 source: kvant_digital
 extraction: vision

@@ -10,6 +10,7 @@ rubric: raznoe
 page_first: 71
 page_last: 72
 page_labels: 69-70
+tag: HOLW
 lang: ru
 source: kvant_digital
 extraction: vision

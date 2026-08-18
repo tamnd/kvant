@@ -8,6 +8,7 @@ rubric: smes
 page_first: 63
 page_last: 63
 page_labels: "61"
+tag: N4IQ
 lang: ru
 source: kvant_digital
 extraction: vision

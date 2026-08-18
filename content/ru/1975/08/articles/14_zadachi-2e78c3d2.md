@@ -9,6 +9,7 @@ rubric_sub: «Квант» для младших школьников
 page_first: 60
 page_last: 60
 page_labels: "58"
+tag: LGV2
 lang: ru
 source: kvant_digital
 extraction: vision

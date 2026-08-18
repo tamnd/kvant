@@ -9,6 +9,7 @@ rubric_sub: «Квант» для младших школьников
 page_first: 68
 page_last: 68
 page_labels: "66"
+tag: QCZG
 lang: ru
 source: kvant_digital
 extraction: vision

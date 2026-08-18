@@ -8,6 +8,7 @@ rubric: raznoe
 page_first: 4
 page_last: 7
 page_labels: 2-5
+tag: YMV2
 lang: ru
 source: kvant_digital
 extraction: vision

@@ -10,6 +10,7 @@ rubric: osnovnye-stati
 page_first: 26
 page_last: 30
 page_labels: 24-28
+tag: JMD0
 lang: ru
 source: kvant_digital
 extraction: vision

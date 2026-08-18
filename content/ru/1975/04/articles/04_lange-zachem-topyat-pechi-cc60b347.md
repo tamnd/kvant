@@ -9,6 +9,7 @@ authors:
 rubric: osnovnye-stati
 page_first: 19
 page_last: 19
+tag: 5EYL
 lang: ru
 source: kvant_digital
 extraction: vision

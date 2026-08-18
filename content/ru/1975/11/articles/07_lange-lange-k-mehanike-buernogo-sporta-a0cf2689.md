@@ -11,6 +11,7 @@ rubric: osnovnye-stati
 page_first: 23
 page_last: 23
 page_labels: "21"
+tag: HKCU
 lang: ru
 source: kvant_digital
 extraction: vision

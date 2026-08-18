@@ -11,6 +11,7 @@ rubric_sub: Рецензии, библиография
 page_first: 54
 page_last: 54
 page_labels: "52"
+tag: NHCR
 lang: ru
 source: kvant_digital
 extraction: vision

@@ -10,6 +10,7 @@ rubric: osnovnye-stati
 page_first: 21
 page_last: 29
 page_labels: 19-27
+tag: V3GL
 lang: ru
 source: kvant_digital
 extraction: vision

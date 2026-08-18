@@ -10,6 +10,7 @@ rubric: raznoe
 rubric_sub: Разное
 page_first: 83
 page_last: 83
+tag: 9H0U
 lang: ru
 source: kvant_digital
 extraction: vision

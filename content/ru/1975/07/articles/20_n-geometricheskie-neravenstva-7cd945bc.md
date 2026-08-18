@@ -10,6 +10,7 @@ rubric: smes
 page_first: 67
 page_last: 67
 page_labels: "65"
+tag: EZMV
 lang: ru
 source: kvant_digital
 extraction: vision

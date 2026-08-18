@@ -11,6 +11,7 @@ rubric_sub: Математический кружок
 page_first: 47
 page_last: 51
 page_labels: 45-49
+tag: FY1Z
 lang: ru
 source: kvant_digital
 extraction: vision

@@ -11,6 +11,7 @@ rubric_sub: Разное
 page_first: 45
 page_last: 45
 page_labels: "43"
+tag: 1FDC
 lang: ru
 source: kvant_digital
 extraction: vision

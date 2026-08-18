@@ -12,6 +12,7 @@ rubric_sub: Рецензии, библиография
 page_first: 57
 page_last: 58
 page_labels: 55-56
+tag: QW7H
 lang: ru
 source: kvant_digital
 extraction: vision

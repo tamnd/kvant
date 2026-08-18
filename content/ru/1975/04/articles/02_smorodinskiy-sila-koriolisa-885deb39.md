@@ -10,6 +10,7 @@ rubric: osnovnye-stati
 page_first: 4
 page_last: 10
 page_labels: 2, 4, 5, 6, 7, 8
+tag: ZSAK
 lang: ru
 source: kvant_digital
 extraction: vision

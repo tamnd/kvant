@@ -9,6 +9,7 @@ rubric_sub: Задачник «Кванта»
 page_first: 36
 page_last: 44
 page_labels: 34-42
+tag: HBMD
 lang: ru
 source: kvant_digital
 extraction: vision

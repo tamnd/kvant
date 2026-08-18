@@ -10,6 +10,7 @@ rubric: praktikum-abiturienta
 page_first: 60
 page_last: 60
 page_labels: "58"
+tag: Q04G
 lang: ru
 source: kvant_digital
 extraction: vision

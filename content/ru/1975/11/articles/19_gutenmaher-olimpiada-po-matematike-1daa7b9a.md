@@ -11,6 +11,7 @@ rubric_sub: Разное
 page_first: 62
 page_last: 63
 page_labels: 60-61
+tag: XZAT
 lang: ru
 source: kvant_digital
 extraction: vision

@@ -11,6 +11,7 @@ rubric_sub: Рецензии, библиография
 page_first: 66
 page_last: 67
 page_labels: 64-65
+tag: 5MMO
 lang: ru
 source: kvant_digital
 extraction: vision

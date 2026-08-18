@@ -11,6 +11,7 @@ rubric_sub: Лаборатория «Кванта»
 page_first: 32
 page_last: 33
 page_labels: 30-31
+tag: XBD6
 lang: ru
 source: kvant_digital
 extraction: vision

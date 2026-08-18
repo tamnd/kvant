@@ -10,6 +10,7 @@ rubric: osnovnye-stati
 page_first: 35
 page_last: 41
 page_labels: 33-39
+tag: 5SIO
 lang: ru
 source: kvant_digital
 extraction: vision

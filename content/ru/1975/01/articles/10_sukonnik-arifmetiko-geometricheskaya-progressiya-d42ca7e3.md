@@ -11,6 +11,7 @@ rubric_sub: Математический кружок
 page_first: 38
 page_last: 40
 page_labels: 36-38
+tag: PPLZ
 lang: ru
 source: kvant_digital
 extraction: vision

@@ -10,6 +10,7 @@ rubric: osnovnye-stati
 page_first: 4
 page_last: 10
 page_labels: 2-8
+tag: RGEM
 lang: ru
 source: kvant_digital
 extraction: vision

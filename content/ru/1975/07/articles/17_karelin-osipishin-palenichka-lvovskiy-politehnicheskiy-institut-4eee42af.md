@@ -12,6 +12,7 @@ rubric: praktikum-abiturienta
 page_first: 63
 page_last: 64
 page_labels: 61-62
+tag: 7LJI
 lang: ru
 source: kvant_digital
 extraction: vision

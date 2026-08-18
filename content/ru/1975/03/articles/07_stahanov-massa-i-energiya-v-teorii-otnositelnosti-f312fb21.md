@@ -10,6 +10,7 @@ rubric: osnovnye-stati
 page_first: 27
 page_last: 31
 page_labels: 25-29
+tag: TNLX
 lang: ru
 source: kvant_digital
 extraction: vision

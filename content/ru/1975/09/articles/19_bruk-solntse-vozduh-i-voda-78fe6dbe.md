@@ -11,6 +11,7 @@ rubric_sub: Рецензии, библиография
 page_first: 69
 page_last: 69
 page_labels: "67"
+tag: 8XBK
 lang: ru
 source: kvant_digital
 extraction: vision

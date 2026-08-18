@@ -10,6 +10,7 @@ rubric: osnovnye-stati
 page_first: 30
 page_last: 34
 page_labels: 28, 31, 32
+tag: P944
 lang: ru
 source: kvant_digital
 extraction: vision

@@ -10,6 +10,7 @@ rubric: osnovnye-stati
 page_first: 19
 page_last: 24
 page_labels: 17-22
+tag: UAXD
 lang: ru
 source: kvant_digital
 extraction: vision

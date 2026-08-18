@@ -9,6 +9,7 @@ rubric_sub: Разное
 page_first: 68
 page_last: 69
 page_labels: 66-67
+tag: 0BX5
 lang: ru
 source: kvant_digital
 extraction: vision

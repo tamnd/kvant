@@ -11,6 +11,7 @@ rubric_sub: Лаборатория «Кванта»
 page_first: 21
 page_last: 22
 page_labels: 19-20
+tag: 118X
 lang: ru
 source: kvant_digital
 extraction: vision
