@@ -1,0 +1,53 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  validate:
+    name: validate
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          path: corpus
+
+      # The validator lives in the solver, because it is the same code that
+      # writes these files and a second implementation would only disagree with
+      # the first.
+      - uses: actions/checkout@v5
+        with:
+          repository: tamnd/kvant-solver
+          path: solver
+
+      - uses: actions/setup-go@v6
+        with:
+          go-version-file: solver/go.mod
+          cache-dependency-path: solver/go.sum
+
+      - name: build kvant
+        run: go build -o "$RUNNER_TEMP/kvant" ./cmd/kvant
+        working-directory: solver
+
+      # Structure only. Every page is checked against the hash in its own front
+      # matter, every front matter against the schema, and every article against
+      # the pages it claims to be a view of.
+      #
+      # Missing pages are not a failure here and must not become one. Thousands
+      # of sheets were refused by the reading rules and the gaps they leave are
+      # the honest state of the corpus, not a regression to gate a pull request
+      # on. What this catches is a page edited without its hash being updated, a
+      # field that is not in the schema, and an article that no longer matches
+      # its pages.
+      - name: validate
+        run: "$RUNNER_TEMP/kvant" corpus validate --corpus corpus --structure
