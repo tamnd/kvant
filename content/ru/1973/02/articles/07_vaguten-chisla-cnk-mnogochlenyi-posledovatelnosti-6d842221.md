@@ -3,9 +3,9 @@ id: 1973-2-vaguten-chisla-cnk-mnogochlenyi-posledovatelnosti-6d842221
 issue: kvant_1973_2
 year: 1973
 number: "2"
-title: Числа , многочлены, последовательности
+title: Числа C_n^k, многочлены, последовательности
 authors:
-  - Вагутен В. Н.Cnk
+  - Вагутен В. Н.
 rubric: osnovnye-stati
 page_first: 29
 page_last: 34
