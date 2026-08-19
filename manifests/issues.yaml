@@ -524,7 +524,7 @@ issues:
       kvant_digital:
         url: https://www.kvant.digital/issues/1972/7/
         toc_rows: 18
-        text_rows: 7
+        text_rows: 9
       kvant_mccme:
         url: https://kvant.mccme.ru/1972/07/index.htm
         url_by_title: https://kvant.mccme.ru/1972/07/index_n.htm
@@ -541,7 +541,7 @@ issues:
       kvant_digital:
         url: https://www.kvant.digital/issues/1972/8/
         toc_rows: 19
-        text_rows: 4
+        text_rows: 7
       kvant_mccme:
         url: https://kvant.mccme.ru/1972/08/index.htm
         url_by_title: https://kvant.mccme.ru/1972/08/index_n.htm
@@ -558,7 +558,7 @@ issues:
       kvant_digital:
         url: https://www.kvant.digital/issues/1972/9/
         toc_rows: 20
-        text_rows: 3
+        text_rows: 11
       kvant_mccme:
         url: https://kvant.mccme.ru/1972/09/index.htm
         url_by_title: https://kvant.mccme.ru/1972/09/index_n.htm
@@ -575,7 +575,7 @@ issues:
       kvant_digital:
         url: https://www.kvant.digital/issues/1972/10/
         toc_rows: 23
-        text_rows: 3
+        text_rows: 6
       kvant_mccme:
         url: https://kvant.mccme.ru/1972/10/index.htm
         url_by_title: https://kvant.mccme.ru/1972/10/index_n.htm
@@ -592,7 +592,7 @@ issues:
       kvant_digital:
         url: https://www.kvant.digital/issues/1972/11/
         toc_rows: 20
-        text_rows: 5
+        text_rows: 6
       kvant_mccme:
         url: https://kvant.mccme.ru/1972/11/index.htm
         url_by_title: https://kvant.mccme.ru/1972/11/index_n.htm

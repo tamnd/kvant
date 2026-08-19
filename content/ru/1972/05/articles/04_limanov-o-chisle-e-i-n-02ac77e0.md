@@ -3,9 +3,9 @@ id: 1972-5-limanov-o-chisle-e-i-n-02ac77e0
 issue: kvant_1972_5
 year: 1972
 number: "5"
-title: О числе и !
+title: О числе e и n!
 authors:
-  - Лиманов Л. Г.en
+  - Лиманов Л. Г.
 rubric: matematicheskiy-kruzhok
 rubric_sub: Математический кружок
 page_first: 16

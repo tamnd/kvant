@@ -3,68 +3,66 @@
 count: 27
 rubrics:
   - name: Основные статьи
-    slug: основные-статьи
-    count: 1643
+    slug: osnovnye-stati
+    count: 1493
+    known: true
+    group: true
     first_year: 1970
     last_year: 2026
     variants:
       - text: Основные статьи
-        count: 1643
-        first_year: 1970
-        last_year: 2026
-  - name: Задачник «Кванта»
-    slug: задачник-кванта
-    count: 1326
-    first_year: 1970
-    last_year: 2026
-    variants:
-      - text: Задачник «Кванта»
-        count: 1326
+        count: 1493
         first_year: 1970
         last_year: 2026
   - name: Разное
-    slug: разное
-    count: 1326
+    slug: raznoe
+    count: 1239
+    known: true
+    group: true
     first_year: 1970
     last_year: 2026
     variants:
       - text: Разное
-        count: 1326
+        count: 1239
+        first_year: 1970
+        last_year: 2026
+  - name: Задачник «Кванта»
+    slug: zadachnik-kvanta
+    count: 1227
+    known: true
+    first_year: 1970
+    last_year: 2026
+    variants:
+      - text: Задачник «Кванта»
+        count: 1227
         first_year: 1970
         last_year: 2026
   - name: Смесь
-    slug: смесь
-    count: 1199
+    slug: smes
+    count: 1040
+    known: true
     first_year: 1970
     last_year: 2026
     variants:
       - text: Смесь
-        count: 1199
+        count: 1040
         first_year: 1970
         last_year: 2026
   - name: «Квант» для младших школьников
-    slug: квант-для-младших-школьников
-    count: 979
+    slug: kvant-dlya-mladshih-shkolnikov
+    count: 910
+    known: true
     first_year: 1971
     last_year: 2026
     variants:
       - text: «Квант» для младших школьников
-        count: 979
+        count: 910
         first_year: 1971
         last_year: 2026
-  - name: Практикум абитуриента
-    slug: практикум-абитуриента
-    count: 654
-    first_year: 1970
-    last_year: 2025
-    variants:
-      - text: Практикум абитуриента
-        count: 654
-        first_year: 1970
-        last_year: 2025
   - name: Экзаменационные материалы
-    slug: экзаменационные-материалы
+    slug: ekzamenatsionnye-materialy
     count: 604
+    known: true
     first_year: 1970
     last_year: 2025
     variants:
@@ -72,19 +70,21 @@ rubrics:
         count: 604
         first_year: 1970
         last_year: 2025
-  - name: Информация
-    slug: информация
-    count: 579
+  - name: Практикум абитуриента
+    slug: praktikum-abiturienta
+    count: 573
+    known: true
     first_year: 1970
-    last_year: 2026
+    last_year: 2025
     variants:
-      - text: Информация
-        count: 579
+      - text: Практикум абитуриента
+        count: 573
         first_year: 1970
-        last_year: 2026
+        last_year: 2025
   - name: Школа в «Кванте»
-    slug: школа-в-кванте
+    slug: shkola-v-kvante
     count: 565
+    known: true
     first_year: 1983
     last_year: 2026
     variants:
@@ -93,8 +93,9 @@ rubrics:
         first_year: 1983
         last_year: 2026
   - name: Олимпиады
-    slug: олимпиады
+    slug: olimpiady
     count: 552
+    known: true
     first_year: 1983
     last_year: 2026
     variants:
@@ -102,9 +103,21 @@ rubrics:
         count: 552
         first_year: 1983
         last_year: 2026
+  - name: Информация
+    slug: informatsiya
+    count: 549
+    known: true
+    first_year: 1970
+    last_year: 2026
+    variants:
+      - text: Информация
+        count: 549
+        first_year: 1970
+        last_year: 2026
   - name: Шахматы
-    slug: шахматы
+    slug: shahmatnaya-stranichka
     count: 406
+    known: true
     first_year: 1970
     last_year: 2026
     variants:
@@ -113,18 +126,20 @@ rubrics:
         first_year: 1970
         last_year: 2026
   - name: Математический кружок
-    slug: математический-кружок
-    count: 403
+    slug: matematicheskiy-kruzhok
+    count: 373
+    known: true
     first_year: 1970
     last_year: 2026
     variants:
       - text: Математический кружок
-        count: 403
+        count: 373
         first_year: 1970
         last_year: 2026
   - name: Калейдоскоп
-    slug: калейдоскоп
+    slug: kaleydoskop-kvanta
     count: 311
+    known: true
     first_year: 1985
     last_year: 2026
     variants:
@@ -132,19 +147,10 @@ rubrics:
         count: 311
         first_year: 1985
         last_year: 2026
-  - name: Лаборатория «Кванта»
-    slug: лаборатория-кванта
-    count: 271
-    first_year: 1970
-    last_year: 2026
-    variants:
-      - text: Лаборатория «Кванта»
-        count: 271
-        first_year: 1970
-        last_year: 2026
   - name: Игры и головоломки
-    slug: игры-и-головоломки
+    slug: igry-i-golovolomki
     count: 257
+    known: true
     first_year: 1983
     last_year: 2026
     variants:
@@ -152,9 +158,21 @@ rubrics:
         count: 257
         first_year: 1983
         last_year: 2026
+  - name: Лаборатория «Кванта»
+    slug: laboratoriya-kvanta
+    count: 253
+    known: true
+    first_year: 1970
+    last_year: 2026
+    variants:
+      - text: Лаборатория «Кванта»
+        count: 253
+        first_year: 1970
+        last_year: 2026
   - name: Конкурс имени А. П. Савина
-    slug: конкурс-имени-а-п-савина
+    slug: konkurs-imeni-a-p-savina
     count: 224
+    known: true
     first_year: 1990
     last_year: 2026
     variants:
@@ -163,18 +181,20 @@ rubrics:
         first_year: 1990
         last_year: 2026
   - name: Рецензии, библиография
-    slug: рецензии-библиография
-    count: 203
+    slug: retsenzii-bibliografiya
+    count: 158
+    known: true
     first_year: 1970
     last_year: 2026
     variants:
       - text: Рецензии, библиография
-        count: 203
+        count: 158
         first_year: 1970
         last_year: 2026
   - name: Физический факультатив
-    slug: физический-факультатив
+    slug: fizicheskiy-fakultativ
     count: 152
+    known: true
     first_year: 1996
     last_year: 2026
     variants:
@@ -183,8 +203,9 @@ rubrics:
         first_year: 1996
         last_year: 2026
   - name: «Квант» улыбается
-    slug: квант-улыбается
+    slug: kvant-ulybaetsya
     count: 130
+    known: true
     first_year: 1982
     last_year: 2026
     variants:
@@ -193,8 +214,9 @@ rubrics:
         first_year: 1982
         last_year: 2026
   - name: Нам пишут
-    slug: нам-пишут
+    slug: nam-pishut
     count: 97
+    known: true
     first_year: 1980
     last_year: 2023
     variants:
@@ -203,8 +225,9 @@ rubrics:
         first_year: 1980
         last_year: 2023
   - name: Из истории науки
-    slug: из-истории-науки
+    slug: iz-istorii-nauki
     count: 90
+    known: true
     first_year: 1989
     last_year: 2025
     variants:
@@ -213,8 +236,9 @@ rubrics:
         first_year: 1989
         last_year: 2025
   - name: Новости науки
-    slug: новости-науки
+    slug: novosti-nauki
     count: 67
+    known: true
     first_year: 1972
     last_year: 2018
     variants:
@@ -223,8 +247,9 @@ rubrics:
         first_year: 1972
         last_year: 2018
   - name: По страницам школьных учебников
-    slug: по-страницам-школьных-учебников
+    slug: po-stranitsam-shkolnyh-uchebnikov
     count: 45
+    known: true
     first_year: 1976
     last_year: 1981
     variants:
@@ -233,8 +258,10 @@ rubrics:
         first_year: 1976
         last_year: 1981
   - name: Открывающие статьи
-    slug: открывающие-статьи
+    slug: otkryvayushchie-stati
     count: 37
+    known: true
+    group: true
     first_year: 1970
     last_year: 1995
     variants:
@@ -243,8 +270,9 @@ rubrics:
         first_year: 1970
         last_year: 1995
   - name: О людях
-    slug: о-людях
+    slug: o-lyudyah
     count: 31
+    known: true
     first_year: 1982
     last_year: 2014
     variants:
@@ -253,8 +281,9 @@ rubrics:
         first_year: 1982
         last_year: 2014
   - name: Математический мир
-    slug: математический-мир
+    slug: matematicheskiy-mir
     count: 25
+    known: true
     first_year: 1995
     last_year: 2024
     variants:
@@ -263,8 +292,9 @@ rubrics:
         first_year: 1995
         last_year: 2024
   - name: Уголок коллекционера
-    slug: уголок-коллекционера
+    slug: ugolok-kollektsionera
     count: 14
+    known: true
     first_year: 1970
     last_year: 2004
     variants:
