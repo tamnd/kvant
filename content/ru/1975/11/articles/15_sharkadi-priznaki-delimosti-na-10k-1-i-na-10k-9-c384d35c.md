@@ -3,9 +3,9 @@ id: 1975-11-sharkadi-priznaki-delimosti-na-10k-1-i-na-10k-9-c384d35c
 issue: kvant_1975_11
 year: 1975
 number: "11"
-title: '[Признаки делимости на 10 + 1 и на 10 + 9]'
+title: '[Признаки делимости на 10k + 1 и на 10k + 9]'
 authors:
-  - Шаркади В.kk
+  - Шаркади В.
 rubric: smes
 page_first: 46
 page_last: 46

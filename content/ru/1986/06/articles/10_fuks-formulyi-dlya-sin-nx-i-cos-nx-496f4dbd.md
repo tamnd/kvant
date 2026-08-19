@@ -3,9 +3,9 @@ id: 1986-6-fuks-formulyi-dlya-sin-nx-i-cos-nx-496f4dbd
 issue: kvant_1986_6
 year: 1986
 number: "6"
-title: Формулы для sin и cos
+title: Формулы для sin nx и cos nx
 authors:
-  - Фукс Д. Б.nxnx
+  - Фукс Д. Б.
 rubric: shkola-v-kvante
 page_first: 27
 page_last: 27

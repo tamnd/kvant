@@ -3,9 +3,7 @@ id: 1989-2-o-reshenii-v-naturalnyih-chislah-uravneniya-xn-yx-zk-i-odnoy-igre-s-c
 issue: kvant_1989_2
 year: 1989
 number: "2"
-title: '[О решении в натуральных числах уравнения + = и одной игре с числами]'
-authors:
-  - xnyxzk
+title: '[О решении в натуральных числах уравнения x^n + y^x = z^k и одной игре с числами]'
 rubric: nam-pishut
 page_first: 16
 page_last: 24

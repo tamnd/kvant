@@ -3,9 +3,9 @@ id: 1983-8-pecherskiy-kogda-a-b-a-b-155e78de
 issue: kvant_1983_8
 year: 1983
 number: "8"
-title: Когда | + | = || + ||?
+title: Когда |a + b| = |a| + |b|?
 authors:
-  - Печерский Л. Б.abab
+  - Печерский Л. Б.
 rubric: shkola-v-kvante
 rubric_sub: Школа в «Кванте»
 page_first: 40

@@ -3,9 +3,7 @@ id: 1987-8-zamechatelnyie-chisla-2-i-e-efeefbc8
 issue: kvant_1987_8
 year: 1987
 number: "8"
-title: Замечательные числа √2 и
-authors:
-  - e
+title: Замечательные числа √2 и e
 rubric: kaleydoskop-kvanta
 rubric_sub: Калейдоскоп
 page_first: 34

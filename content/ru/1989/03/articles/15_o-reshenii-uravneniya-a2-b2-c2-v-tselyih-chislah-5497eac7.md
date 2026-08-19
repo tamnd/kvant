@@ -3,9 +3,7 @@ id: 1989-3-o-reshenii-uravneniya-a2-b2-c2-v-tselyih-chislah-5497eac7
 issue: kvant_1989_3
 year: 1989
 number: "3"
-title: '[О решении уравнения 2 + 2 = 2 в целых числах]'
-authors:
-  - abc
+title: '[О решении уравнения a^2 + b^2 = c^2 в целых числах]'
 rubric: nam-pishut
 page_first: 57
 page_last: 57

@@ -3,9 +3,9 @@ id: 1983-7-manevich-o-tselochislennyih-tochkah-krivyih-vida-xn-yn-cn-f28bc77d
 issue: kvant_1983_7
 year: 1983
 number: "7"
-title: О целочисленных точках кривых вида + =
+title: О целочисленных точках кривых вида x^n + y^n = c^n
 authors:
-  - Маневич А. Г.xnyncn
+  - Маневич А. Г.
 rubric: raznoe
 page_first: 60
 page_last: 60

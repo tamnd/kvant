@@ -3,9 +3,9 @@ id: 1978-10-abramovich-priznaki-delimosti-na-l-f2e03b85
 issue: kvant_1978_10
 year: 1978
 number: "10"
-title: Признаки делимости на
+title: Признаки делимости на l
 authors:
-  - Абрамович В. С.l
+  - Абрамович В. С.
 rubric: osnovnye-stati
 page_first: 27
 page_last: 27
