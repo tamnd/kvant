@@ -3,13 +3,13 @@
 Every page of 1970 to 1989 that ran out of attempts, with the rule that killed it.
 Generated 2026-08-19 by kvant report failures.
 
-2572 pages over 229 issues.
+2525 pages over 229 issues.
 
 ## By class
 
 | class | pages | what it means |
 |---|---|---|
-| script | 1182 | two alphabets welded into one word, the lane was sampling |
+| script | 1135 | two alphabets welded into one word, the lane was sampling |
 | folio | 373 | no printed number, or one that contradicts the sheet |
 | math | 217 | unbalanced math delimiters, usually a formula run into the text |
 | latex | 139 | a math span does not parse |
@@ -28,11 +28,11 @@ Generated 2026-08-19 by kvant report failures.
 | folio+script+runaway | 4 | more than one rule, read the pages |
 | math+latex+runaway | 3 | more than one rule, read the pages |
 | folio+latex | 2 | more than one rule, read the pages |
-| language+script | 2 | more than one rule, read the pages |
+| language+script+runaway | 2 | more than one rule, read the pages |
 | math+language+latex | 2 | more than one rule, read the pages |
 | folio+latex+script | 1 | more than one rule, read the pages |
 | language+runaway | 1 | more than one rule, read the pages |
-| language+script+runaway | 1 | more than one rule, read the pages |
+| language+script | 1 | more than one rule, read the pages |
 | math+folio+latex | 1 | more than one rule, read the pages |
 | math+language | 1 | more than one rule, read the pages |
 | math+language+latex+runaway | 1 | more than one rule, read the pages |
@@ -61,11 +61,10 @@ Generated 2026-08-19 by kvant report failures.
 | 3 | 3 | folio | folio: the page prints 10, sheet 3 of kvant_1970_10 was expected to print 1 | yes |
 | 13 | 3 | folio | folio: the page prints 2, sheet 13 of kvant_1970_10 was expected to print 11 | yes |
 | 21 | 3 | folio | folio: the page prints 3, sheet 21 of kvant_1970_10 was expected to print 19 | yes |
-| 25 | 3 | script | script: 7 words mix two alphabets and are not Russian spelled in two of them, such as "ст… | yes |
+| 25 | 3 | script | script: 8 words mix two alphabets and are not Russian spelled in two of them, such as "ст… | yes |
 | 28 | 3 | folio | folio: the page prints 20, sheet 28 of kvant_1970_10 was expected to print 26 | yes |
 | 29 | 3 | folio | folio: the page prints 4, sheet 29 of kvant_1970_10 was expected to print 27 | yes |
-| 38 | 3 | script | script: 5 words mix two alphabets and are not Russian spelled in two of them, such as "Ду… | yes |
-| 52 | 3 | script | script: 11 words mix two alphabets and are not Russian spelled in two of them, such as "п… | yes |
+| 52 | 3 | script | script: 18 words mix two alphabets and are not Russian spelled in two of them, such as "а… | yes |
 | 65 | 3 | latex | latex: k\pi+\frac{1}{2}\arcsin\frac{2}{a}\leqslantx\leqslant\frac{1…: Undefined control s… | yes |
 
 ### kvant_1970_11
@@ -73,7 +72,7 @@ Generated 2026-08-19 by kvant report failures.
 | sheet | attempts | class | last reason | repair queued |
 |---|---|---|---|---|
 | 3 | 3 | folio | folio: the page prints 11, sheet 3 of kvant_1970_11 was expected to print 1 | yes |
-| 11 | 3 | folio+script | folio: the page prints 11, sheet 11 of kvant_1970_11 was expected to print 9; script: 8 w… | yes |
+| 11 | 3 | folio+script | folio: the page prints 11, sheet 11 of kvant_1970_11 was expected to print 9; script: 7 w… | yes |
 | 13 | 3 | folio | folio: the page prints 2, sheet 13 of kvant_1970_11 was expected to print 11 | yes |
 | 15 | 3 | math | math: an inline $ opened here is never closed (line 35) | yes |
 | 21 | 3 | folio | folio: the page prints 3, sheet 21 of kvant_1970_11 was expected to print 19 | yes |
@@ -89,10 +88,10 @@ Generated 2026-08-19 by kvant report failures.
 | 3 | 3 | folio | folio: the page prints 12, sheet 3 of kvant_1970_12 was expected to print 1 | yes |
 | 11 | 3 | folio | folio: the page prints 12, sheet 11 of kvant_1970_12 was expected to print 9 | yes |
 | 13 | 3 | folio | folio: the page prints 2, sheet 13 of kvant_1970_12 was expected to print 11 | yes |
-| 22 | 3 | script | script: 10 words mix two alphabets and are not Russian spelled in two of them, such as "с… | yes |
+| 22 | 3 | script | script: 9 words mix two alphabets and are not Russian spelled in two of them, such as "ст… | yes |
 | 23 | 3 | script | script: 8 words mix two alphabets and are not Russian spelled in two of them, such as "во… | yes |
 | 30 | 3 | script | script: 6 words mix two alphabets and are not Russian spelled in two of them, such as "НB… | yes |
-| 31 | 3 | script+runaway | script: 379 words mix two alphabets and are not Russian spelled in two of them, such as "… | yes |
+| 31 | 3 | script+runaway | runaway: a run of 679 letters, "раввввввввввввввввввввввввввввввввввввввввввввввввввввввв… | yes |
 | 32 | 3 | script | script: 5 words mix two alphabets and are not Russian spelled in two of them, such as "НB… | yes |
 | 41 | 3 | script | script: 9 words mix two alphabets and are not Russian spelled in two of them, such as "пе… | yes |
 | 42 | 3 | math+latex | math: a display $$ opened here is never closed (line 37); latex: Mg - действуошая на тело… | yes |
@@ -103,13 +102,12 @@ Generated 2026-08-19 by kvant report failures.
 | sheet | attempts | class | last reason | repair queued |
 |---|---|---|---|---|
 | 13 | 3 | folio | folio: the page prints 2, sheet 13 of kvant_1970_2 was expected to print 11 | yes |
-| 21 | 3 | script | script: 5 words mix two alphabets and are not Russian spelled in two of them, such as "зе… | yes |
-| 30 | 3 | script | script: 9 words mix two alphabets and are not Russian spelled in two of them, such as "пр… | yes |
+| 30 | 3 | script | script: 8 words mix two alphabets and are not Russian spelled in two of them, such as "бr… | yes |
 | 34 | 3 | math+latex | math: a display $$ opened here is never closed (line 89); latex: *) Если $k$ — это число … | yes |
 | 38 | 3 | short | short: 191 characters, want at least 200 | yes |
 | 48 | 3 | math+latex+runaway | math: a display $$ opened here is never closed (line 9); runaway: a run of 19620 letters,… | yes |
 | 59 | 3 | latex | latex: \exists x, x - \text{честный человек}} — «частное сужение». …: Expected 'EOF', got… | yes |
-| 60 | 3 | script | script: 7 words mix two alphabets and are not Russian spelled in two of them, such as "Ин… | yes |
+| 60 | 3 | script | script: 6 words mix two alphabets and are not Russian spelled in two of them, such as "Ин… | yes |
 
 ### kvant_1970_3
 
@@ -117,7 +115,7 @@ Generated 2026-08-19 by kvant report failures.
 |---|---|---|---|---|
 | 3 | 3 | folio | folio: the page prints 3, sheet 3 of kvant_1970_3 was expected to print 1 | yes |
 | 4 | 3 | short | short: 94 characters, want at least 200 | yes |
-| 10 | 3 | script | script: 11 words mix two alphabets and are not Russian spelled in two of them, such as "с… | yes |
+| 10 | 3 | script | script: 6 words mix two alphabets and are not Russian spelled in two of them, such as "се… | yes |
 | 18 | 3 | short | short: 86 characters, want at least 200 | yes |
 | 30 | 3 | short | short: 12 characters, want at least 200 | yes |
 | 35 | 3 | script | script: 8 words mix two alphabets and are not Russian spelled in two of them, such as "не… | yes |
@@ -130,15 +128,15 @@ Generated 2026-08-19 by kvant report failures.
 |---|---|---|---|---|
 | 3 | 9 | short | short: 149 characters, want at least 200 | yes |
 | 3 | 3 | short | short: 149 characters, want at least 200 | yes |
-| 8 | 3 | folio | folio: the page prints 84, sheet 8 of kvant_1970_4 was expected to print 6 | yes |
 | 8 | 6 | folio | folio: the page prints 84, sheet 8 of kvant_1970_4 was expected to print 6 | yes |
+| 8 | 3 | folio | folio: the page prints 84, sheet 8 of kvant_1970_4 was expected to print 6 | yes |
 | 9 | 3 | folio | folio: the page prints 33, sheet 9 of kvant_1970_4 was expected to print 7 | yes |
 | 11 | 3 | short | short: 30 characters, want at least 200 | yes |
 | 11 | 9 | short | short: 30 characters, want at least 200 | yes |
 | 15 | 3 | script | script: 11 words mix two alphabets and are not Russian spelled in two of them, such as "O… | yes |
-| 15 | 6 | script | script: 11 words mix two alphabets and are not Russian spelled in two of them, such as "a… | yes |
-| 16 | 6 | short | short: 175 characters, want at least 200 | yes |
+| 15 | 3 | script | script: 11 words mix two alphabets and are not Russian spelled in two of them, such as "O… | yes |
 | 16 | 3 | short | short: 175 characters, want at least 200 | yes |
+| 16 | 6 | short | short: 175 characters, want at least 200 | yes |
 | 22 | 3 | short | short: 21 characters, want at least 200 | yes |
 | 27 | 6 | folio | folio: the page prints 15, sheet 27 of kvant_1970_4 was expected to print 25 | yes |
 | 27 | 3 | folio | folio: the page prints 15, sheet 27 of kvant_1970_4 was expected to print 25 | yes |
@@ -146,10 +144,10 @@ Generated 2026-08-19 by kvant report failures.
 | 39 | 3 | math+latex | math: a display $$ opened here is never closed (line 44); latex: = 2 \left(2x + \frac{y}{… | yes |
 | 41 | 6 | math | math: a display $$ opened here is never closed (line 47) | yes |
 | 41 | 3 | math | math: a display $$ opened here is never closed (line 47) | yes |
-| 46 | 6 | latex | latex: \begin{cases} y-(x+1) \geq 0, \\ y-(x+2) < 0.}: Expected & or \\ or \cr or \end at… | yes |
 | 46 | 3 | latex | latex: \begin{cases} y-(x+1) \geq 0, \\ y-(x+2) < 0.}: Expected & or \\ or \cr or \end at… | yes |
-| 54 | 3 | short | short: 161 characters, want at least 200 | yes |
+| 46 | 6 | latex | latex: \begin{cases} y-(x+1) \geq 0, \\ y-(x+2) < 0.}: Expected & or \\ or \cr or \end at… | yes |
 | 54 | 6 | short | short: 161 characters, want at least 200 | yes |
+| 54 | 3 | short | short: 161 characters, want at least 200 | yes |
 | 66 | 3 | runaway | runaway: a run of 1284 letters, "гррррррррррррррррррррррррррррррррррррррррррррррррррррррр… | yes |
 | 66 | 3 | runaway | runaway: a run of 1284 letters, "гррррррррррррррррррррррррррррррррррррррррррррррррррррррр… | yes |
 
@@ -158,8 +156,7 @@ Generated 2026-08-19 by kvant report failures.
 | sheet | attempts | class | last reason | repair queued |
 |---|---|---|---|---|
 | 4 | 3 | short | short: 129 characters, want at least 200 | yes |
-| 13 | 3 | script | script: 7 words mix two alphabets and are not Russian spelled in two of them, such as "me… | yes |
-| 28 | 3 | script | script: 9 words mix two alphabets and are not Russian spelled in two of them, such as "Пр… | yes |
+| 28 | 3 | script | script: 5 words mix two alphabets and are not Russian spelled in two of them, such as "Пр… | yes |
 | 31 | 3 | script+runaway | runaway: a run of 2390 letters, "прсимыкумякрсимыкумякрсимыкумякрсимыкумякрсимыкумякрсимы… | yes |
 | 43 | 3 | math | math: an inline $ opened here is never closed (line 38) | yes |
 | 49 | 3 | latex | latex: \frac{\sqrt{2}}{2} \cos x - \cos^2 x}{4 \sin^2 x - 3} < 0.: Expected 'EOF', got '}… | yes |
@@ -187,12 +184,11 @@ Generated 2026-08-19 by kvant report failures.
 | sheet | attempts | class | last reason | repair queued |
 |---|---|---|---|---|
 | 3 | 3 | folio | folio: the page prints 3, sheet 3 of kvant_1970_7 was expected to print 1 | yes |
-| 7 | 3 | script | script: 300 words mix two alphabets and are not Russian spelled in two of them, such as "… | yes |
+| 7 | 3 | script+runaway | script: 300 words mix two alphabets and are not Russian spelled in two of them, such as "… | yes |
 | 18 | 3 | short | short: 22 characters, want at least 200 | yes |
 | 20 | 3 | short | short: 12 characters, want at least 200 | yes |
-| 22 | 3 | script | script: 7 words mix two alphabets and are not Russian spelled in two of them, such as "me… | yes |
+| 22 | 3 | script | script: 5 words mix two alphabets and are not Russian spelled in two of them, such as "me… | yes |
 | 28 | 3 | short | short: 30 characters, want at least 200 | yes |
-| 30 | 3 | script | script: 9 words mix two alphabets and are not Russian spelled in two of them, such as "зe… | yes |
 | 53 | 3 | latex | latex: B = 5^nP, \text{ если } d = 3n \text{ (N = 8^n p_1 \dots p_m…: Expected 'EOF', got… | yes |
 
 ### kvant_1970_8
@@ -212,16 +208,13 @@ Generated 2026-08-19 by kvant report failures.
 |---|---|---|---|---|
 | 3 | 3 | folio | folio: the page prints 9, sheet 3 of kvant_1970_9 was expected to print 1 | yes |
 | 4 | 3 | short | short: 109 characters, want at least 200 | yes |
-| 8 | 3 | script | script: 5 words mix two alphabets and are not Russian spelled in two of them, such as "pr… | yes |
-| 14 | 3 | script | script: 5 words mix two alphabets and are not Russian spelled in two of them, such as "at… | yes |
 | 21 | 3 | folio | folio: the page prints 3, sheet 21 of kvant_1970_9 was expected to print 19 | yes |
 | 24 | 3 | folio | folio: the page prints 2, sheet 24 of kvant_1970_9 was expected to print 22 | yes |
 | 28 | 3 | short | short: 39 characters, want at least 200 | yes |
 | 31 | 3 | folio | folio: the page prints 2, sheet 31 of kvant_1970_9 was expected to print 29 | yes |
 | 42 | 3 | math+latex | math: a display $$ opened here is never closed (line 29); latex: *)$ Этот примем называет… | yes |
 | 43 | 3 | short | short: 68 characters, want at least 200 | yes |
-| 46 | 3 | script | script: 6 words mix two alphabets and are not Russian spelled in two of them, such as "ди… | yes |
-| 56 | 3 | math+script+runaway | script: 5 words mix two alphabets and are not Russian spelled in two of them, such as "пе… | yes |
+| 56 | 3 | math+script+runaway | math: an inline $ opened here is never closed (line 19); script: 22 words mix two alphabe… | yes |
 | 65 | 3 | math+latex | math: a display $$ opened here is never closed (line 71); latex: \frac{1}{k(k+1)(k+2)} = … | yes |
 
 ### kvant_1971_1
@@ -239,7 +232,6 @@ Generated 2026-08-19 by kvant report failures.
 | 34 | 3 | short | short: 178 characters, want at least 200 | yes |
 | 44 | 3 | math+script | math: an inline $ opened here is never closed (line 65); script: 5 words mix two alphabet… | yes |
 | 48 | 3 | folio | folio: the page prints 6, sheet 48 of kvant_1971_1 was expected to print 46 | yes |
-| 52 | 3 | script | script: 5 words mix two alphabets and are not Russian spelled in two of them, such as "мо… | yes |
 | 64 | 3 | script | script: 5 words mix two alphabets and are not Russian spelled in two of them, such as "ас… | yes |
 | 65 | 3 | language | language: 2 percent of the 361 prose letters are Russian, want at least 20 percent | yes |
 
@@ -256,9 +248,8 @@ Generated 2026-08-19 by kvant report failures.
 | 24 | 3 | folio | folio: the page prints 4, sheet 24 of kvant_1971_10 was expected to print 22 | yes |
 | 25 | 3 | folio | folio: the page prints 4, sheet 25 of kvant_1971_10 was expected to print 23 | yes |
 | 32 | 3 | folio | folio: the page prints 4, sheet 32 of kvant_1971_10 was expected to print 30 | yes |
-| 34 | 3 | script | script: 49 words mix two alphabets and are not Russian spelled in two of them, such as "и… | yes |
 | 37 | 3 | folio | folio: the page prints 2, sheet 37 of kvant_1971_10 was expected to print 35 | yes |
-| 42 | 3 | script | script: 8 words mix two alphabets and are not Russian spelled in two of them, such as "чи… | yes |
+| 42 | 3 | script | script: 6 words mix two alphabets and are not Russian spelled in two of them, such as "чи… | yes |
 
 ### kvant_1971_11
 
@@ -271,13 +262,11 @@ Generated 2026-08-19 by kvant report failures.
 | 13 | 3 | folio | folio: the page prints 7, sheet 13 of kvant_1971_11 was expected to print 11 | yes |
 | 19 | 3 | folio | folio: the page prints 11, sheet 19 of kvant_1971_11 was expected to print 17 | yes |
 | 23 | 3 | folio | folio: the page prints 11, sheet 23 of kvant_1971_11 was expected to print 21 | yes |
-| 25 | 3 | folio+script | folio: the page prints 4, sheet 25 of kvant_1971_11 was expected to print 23; script: 9 w… | yes |
-| 36 | 3 | script | script: 6 words mix two alphabets and are not Russian spelled in two of them, such as "со… | yes |
+| 25 | 3 | folio+script | folio: the page prints 4, sheet 25 of kvant_1971_11 was expected to print 23; script: 8 w… | yes |
 | 39 | 3 | folio | folio: the page prints 3, sheet 39 of kvant_1971_11 was expected to print 37 | yes |
 | 46 | 3 | script | script: 6 words mix two alphabets and are not Russian spelled in two of them, such as "ск… | yes |
 | 47 | 3 | folio+latex | folio: the page prints 6, sheet 47 of kvant_1971_11 was expected to print 45; latex: V_1=… | yes |
-| 53 | 3 | script | script: 7 words mix two alphabets and are not Russian spelled in two of them, such as "ра… | yes |
-| 55 | 3 | script | script: 7 words mix two alphabets and are not Russian spelled in two of them, such as "бa… | yes |
+| 53 | 3 | script | script: 5 words mix two alphabets and are not Russian spelled in two of them, such as "ра… | yes |
 | 56 | 3 | folio | folio: the page prints 2, sheet 56 of kvant_1971_11 was expected to print 54 | yes |
 | 58 | 3 | folio | folio: the page prints 5, sheet 58 of kvant_1971_11 was expected to print 56 | yes |
 | 66 | 3 | folio | folio: the page prints 71, sheet 66 of kvant_1971_11 was expected to print 64 | yes |
@@ -289,16 +278,16 @@ Generated 2026-08-19 by kvant report failures.
 | 3 | 3 | folio | folio: the page prints 12, sheet 3 of kvant_1971_12 was expected to print 1 | yes |
 | 7 | 3 | folio | folio: the page prints 12, sheet 7 of kvant_1971_12 was expected to print 5 | yes |
 | 9 | 3 | folio | folio: the page prints 2, sheet 9 of kvant_1971_12 was expected to print 7 | yes |
-| 11 | 3 | language+script+runaway | script: 146 words mix two alphabets and are not Russian spelled in two of them, such as "… | yes |
+| 11 | 3 | language+script+runaway | runaway: 5708 words, and no page of this magazine holds more than 1200, so the model was … | yes |
 | 12 | 3 | folio | folio: the page prints 3, sheet 12 of kvant_1971_12 was expected to print 10 | yes |
-| 16 | 3 | script | script: 8 words mix two alphabets and are not Russian spelled in two of them, such as "li… | yes |
+| 16 | 3 | script | script: 6 words mix two alphabets and are not Russian spelled in two of them, such as "li… | yes |
 | 19 | 3 | folio | folio: the page prints 12, sheet 19 of kvant_1971_12 was expected to print 17 | yes |
 | 21 | 3 | folio | folio: the page prints 3, sheet 21 of kvant_1971_12 was expected to print 19 | yes |
 | 23 | 3 | folio | folio: the page prints 12, sheet 23 of kvant_1971_12 was expected to print 21 | yes |
 | 35 | 3 | math | math: a display $$ opened here is never closed (line 33) | yes |
 | 38 | 3 | folio | folio: the page prints 5, sheet 38 of kvant_1971_12 was expected to print 36 | yes |
 | 52 | 3 | folio | folio: the page prints 7, sheet 52 of kvant_1971_12 was expected to print 50 | yes |
-| 60 | 3 | language+script | language: 4 percent of the 36825 prose letters are Russian, want at least 20 percent | yes |
+| 60 | 3 | language+script+runaway | script: 18 words mix two alphabets and are not Russian spelled in two of them, such as "и… | yes |
 | 63 | 3 | folio | folio: the page prints 10, sheet 63 of kvant_1971_12 was expected to print 61 | yes |
 | 64 | 3 | latex | latex: \lambda = c T = 1,2 \cdot 10^8 m \left( T =: Expected '\right', got 'EOF' at end o… | yes |
 
@@ -306,7 +295,7 @@ Generated 2026-08-19 by kvant report failures.
 
 | sheet | attempts | class | last reason | repair queued |
 |---|---|---|---|---|
-| 8 | 3 | script | script: 48 words mix two alphabets and are not Russian spelled in two of them, such as "в… | yes |
+| 8 | 3 | script | script: 8 words mix two alphabets and are not Russian spelled in two of them, such as "вы… | yes |
 | 11 | 3 | folio | folio: the page prints 2, sheet 11 of kvant_1971_2 was expected to print 9 | yes |
 | 19 | 3 | folio | folio: the page prints 3, sheet 19 of kvant_1971_2 was expected to print 17 | yes |
 | 26 | 3 | math | math: an inline $ opened here is never closed (line 31) | yes |
@@ -324,7 +313,7 @@ Generated 2026-08-19 by kvant report failures.
 | 19 | 3 | folio | folio: the page prints 3, sheet 19 of kvant_1971_3 was expected to print 17 | yes |
 | 22 | 3 | math+latex | math: an inline $ opened here is never closed (line 51); latex: \ll a_m a_{m-1} \dots a_0… | yes |
 | 30 | 3 | latex | latex: +2ab\cos \frac{180^\circ}{n}\right)ctg\frac{180^\circ}{n}.: Expected 'EOF', got '\… | yes |
-| 31 | 3 | latex+script | script: 9 words mix two alphabets and are not Russian spelled in two of them, such as "па… | yes |
+| 31 | 3 | latex+script | script: 8 words mix two alphabets and are not Russian spelled in two of them, such as "па… | yes |
 | 38 | 3 | math+latex | math: an inline $ opened here is never closed (line 47); latex: T = 2\pi \sqrt{\frac{R}{g… | yes |
 | 43 | 3 | math | math: an inline $ opened here is never closed (line 55) | yes |
 | 45 | 3 | latex | latex: 5 \cdot 2^{\frac{1}{x+1}}^{x-2} = 1.: Double superscript at position 26: …{\frac{1… | yes |
@@ -345,8 +334,7 @@ Generated 2026-08-19 by kvant report failures.
 | 25 | 3 | folio | folio: the page prints 4, sheet 25 of kvant_1971_4 was expected to print 23 | yes |
 | 29 | 3 | folio | folio: the page prints 4, sheet 29 of kvant_1971_4 was expected to print 27 | yes |
 | 59 | 3 | script | script: 6 words mix two alphabets and are not Russian spelled in two of them, such as "па… | yes |
-| 60 | 3 | script | script: 7 words mix two alphabets and are not Russian spelled in two of them, such as "До… | yes |
-| 61 | 3 | script | script: 6 words mix two alphabets and are not Russian spelled in two of them, such as "gr… | yes |
+| 61 | 3 | script | script: 5 words mix two alphabets and are not Russian spelled in two of them, such as "зе… | yes |
 
 ### kvant_1971_5
 
@@ -357,7 +345,7 @@ Generated 2026-08-19 by kvant report failures.
 | 8 | 3 | math | math: an inline $ opened here is never closed (line 73) | yes |
 | 9 | 3 | folio | folio: the page prints 2, sheet 9 of kvant_1971_5 was expected to print 7 | yes |
 | 21 | 3 | folio | folio: the page prints 3, sheet 21 of kvant_1971_5 was expected to print 19 | yes |
-| 23 | 3 | script | script: 10 words mix two alphabets and are not Russian spelled in two of them, such as "п… | yes |
+| 23 | 3 | script | script: 9 words mix two alphabets and are not Russian spelled in two of them, such as "пр… | yes |
 | 27 | 3 | folio | folio: the page prints 5, sheet 27 of kvant_1971_5 was expected to print 25 | yes |
 | 29 | 3 | folio | folio: the page prints 4, sheet 29 of kvant_1971_5 was expected to print 27 | yes |
 
@@ -368,7 +356,7 @@ Generated 2026-08-19 by kvant report failures.
 | 3 | 3 | folio | folio: the page prints 6, sheet 3 of kvant_1971_6 was expected to print 1 | yes |
 | 4 | 3 | latex | latex: \left[\frac{p}{q}, \frac{p+1}{q}\right}: Expected group as argument to '\right' at… | yes |
 | 9 | 3 | folio+script | folio: the page prints 2, sheet 9 of kvant_1971_6 was expected to print 7; script: 5 word… | yes |
-| 17 | 3 | script | script: 8 words mix two alphabets and are not Russian spelled in two of them, such as "эм… | yes |
+| 17 | 3 | script | script: 7 words mix two alphabets and are not Russian spelled in two of them, such as "эм… | yes |
 | 18 | 3 | short | short: 191 characters, want at least 200 | yes |
 | 19 | 3 | folio | folio: the page prints 6, sheet 19 of kvant_1971_6 was expected to print 17 | yes |
 | 29 | 3 | folio | folio: the page prints 4, sheet 29 of kvant_1971_6 was expected to print 27 | yes |
@@ -383,16 +371,13 @@ Generated 2026-08-19 by kvant report failures.
 | 3 | 3 | folio | folio: the page prints 7, sheet 3 of kvant_1971_7 was expected to print 1 | yes |
 | 7 | 3 | folio | folio: the page prints 7, sheet 7 of kvant_1971_7 was expected to print 5 | yes |
 | 11 | 3 | folio | folio: the page prints 6, sheet 11 of kvant_1971_7 was expected to print 9 | yes |
-| 18 | 3 | script | script: 6 words mix two alphabets and are not Russian spelled in two of them, such as "уv… | yes |
 | 19 | 3 | folio | folio: the page prints 7, sheet 19 of kvant_1971_7 was expected to print 17 | yes |
 | 21 | 3 | folio | folio: the page prints 3, sheet 21 of kvant_1971_7 was expected to print 19 | yes |
 | 25 | 3 | folio | folio: the page prints 4, sheet 25 of kvant_1971_7 was expected to print 23 | yes |
 | 28 | 3 | math | math: an inline $ opened here is never closed (line 30) | yes |
 | 29 | 3 | math+language+runaway | math: a display $$ opened here is never closed (line 17); runaway: a run of 4230 letters,… | yes |
-| 42 | 3 | math+script+runaway | math: a display $$ opened here is never closed (line 25); script: 144 words mix two alpha… | yes |
+| 42 | 3 | math+script+runaway | math: a display $$ opened here is never closed (line 25); script: 202 words mix two alpha… | yes |
 | 46 | 3 | script | script: 5 words mix two alphabets and are not Russian spelled in two of them, such as "мо… | yes |
-| 54 | 3 | script | script: 10 words mix two alphabets and are not Russian spelled in two of them, such as "Б… | yes |
-| 63 | 3 | script | script: 5 words mix two alphabets and are not Russian spelled in two of them, such as "вы… | yes |
 
 ### kvant_1971_8
 
@@ -403,12 +388,10 @@ Generated 2026-08-19 by kvant report failures.
 | 7 | 3 | folio | folio: the page prints 8, sheet 7 of kvant_1971_8 was expected to print 5 | yes |
 | 9 | 3 | folio | folio: the page prints 2, sheet 9 of kvant_1971_8 was expected to print 7 | yes |
 | 10 | 3 | short | short: 40 characters, want at least 200 | yes |
-| 13 | 3 | script+runaway | script: 7 words mix two alphabets and are not Russian spelled in two of them, such as "to… | yes |
+| 13 | 3 | script+runaway | runaway: a run of 932 letters, "моерагоггггьггьгьгьгьгьгьгьгьгьгьгьгьгьгьгьгьгьгьгьгьгьгь… | yes |
 | 19 | 3 | folio | folio: the page prints 8, sheet 19 of kvant_1971_8 was expected to print 17 | yes |
-| 23 | 3 | script | script: 6 words mix two alphabets and are not Russian spelled in two of them, such as "za… | yes |
 | 27 | 3 | folio | folio: the page prints 8, sheet 27 of kvant_1971_8 was expected to print 25 | yes |
 | 29 | 3 | folio | folio: the page prints 4, sheet 29 of kvant_1971_8 was expected to print 27 | yes |
-| 34 | 3 | script | script: 5 words mix two alphabets and are not Russian spelled in two of them, such as "те… | yes |
 | 41 | 3 | math | math: an inline $ opened here is never closed (line 20) | yes |
 | 59 | 3 | script | script: 5 words mix two alphabets and are not Russian spelled in two of them, such as "Кp… | yes |
 
@@ -419,20 +402,18 @@ Generated 2026-08-19 by kvant report failures.
 | 3 | 3 | folio | folio: the page prints 9, sheet 3 of kvant_1971_9 was expected to print 1 | yes |
 | 7 | 3 | folio | folio: the page prints 8, sheet 7 of kvant_1971_9 was expected to print 5 | yes |
 | 13 | 3 | folio+script | folio: the page prints 2, sheet 13 of kvant_1971_9 was expected to print 11; script: 9 wo… | yes |
-| 14 | 3 | script | script: 12 words mix two alphabets and are not Russian spelled in two of them, such as "O… | yes |
-| 15 | 3 | script | script: 7 words mix two alphabets and are not Russian spelled in two of them, such as "Os… | yes |
 | 16 | 3 | script | script: 12 words mix two alphabets and are not Russian spelled in two of them, such as "О… | yes |
 | 17 | 3 | folio | folio: the page prints 3, sheet 17 of kvant_1971_9 was expected to print 15 | yes |
 | 19 | 3 | folio | folio: the page prints 9, sheet 19 of kvant_1971_9 was expected to print 17 | yes |
 | 20 | 3 | folio | folio: the page prints 2, sheet 20 of kvant_1971_9 was expected to print 18 | yes |
 | 23 | 3 | folio | folio: the page prints 2, sheet 23 of kvant_1971_9 was expected to print 21 | yes |
-| 25 | 3 | folio+script | folio: the page prints 6, sheet 25 of kvant_1971_9 was expected to print 23; script: 12 w… | yes |
+| 25 | 3 | folio+script | folio: the page prints 6, sheet 25 of kvant_1971_9 was expected to print 23 | yes |
 | 27 | 3 | folio | folio: the page prints 9, sheet 27 of kvant_1971_9 was expected to print 25 | yes |
 | 29 | 3 | folio | folio: the page prints 4, sheet 29 of kvant_1971_9 was expected to print 27 | yes |
 | 33 | 3 | folio | folio: the page prints 1, sheet 33 of kvant_1971_9 was expected to print 31 | yes |
 | 36 | 3 | folio | folio: the page prints 1, sheet 36 of kvant_1971_9 was expected to print 34 | yes |
 | 39 | 3 | folio | folio: the page prints 9, sheet 39 of kvant_1971_9 was expected to print 37 | yes |
-| 50 | 3 | folio+script | folio: the page prints 2, sheet 50 of kvant_1971_9 was expected to print 48; script: 5 wo… | yes |
+| 50 | 3 | folio+script | folio: the page prints 2, sheet 50 of kvant_1971_9 was expected to print 48 | yes |
 | 52 | 3 | folio | folio: the page prints 4, sheet 52 of kvant_1971_9 was expected to print 50 | yes |
 | 54 | 3 | folio | folio: the page prints 1, sheet 54 of kvant_1971_9 was expected to print 52 | yes |
 | 55 | 3 | folio | folio: the page prints 5, sheet 55 of kvant_1971_9 was expected to print 53 | yes |
@@ -452,12 +433,10 @@ Generated 2026-08-19 by kvant report failures.
 | 24 | 3 | folio | folio: the page prints 6, sheet 24 of kvant_1972_1 was expected to print 22 | yes |
 | 25 | 3 | folio | folio: the page prints 4, sheet 25 of kvant_1972_1 was expected to print 23 | yes |
 | 26 | 3 | folio | folio: the page prints 12, sheet 26 of kvant_1972_1 was expected to print 24 | yes |
-| 30 | 3 | script+runaway | runaway: a run of 370 letters, "нмедытериятериятерияterияterияterияterияterияterияterияte… | yes |
-| 44 | 3 | script | script: 5 words mix two alphabets and are not Russian spelled in two of them, such as "пе… | yes |
-| 48 | 3 | script | script: 9 words mix two alphabets and are not Russian spelled in two of them, such as "Иr… | yes |
+| 30 | 3 | script+runaway | runaway: a run of 520 letters, "nпрост动性试剂试剂ТВЕТВЕТВЕТВЕТВЕТВЕТВЕТВЕТВЕТВЕТВЕТВЕТВЕТВЕТВЕ… | yes |
+| 48 | 3 | script | script: 11 words mix two alphabets and are not Russian spelled in two of them, such as "И… | yes |
 | 55 | 3 | script+runaway | script: 496 words mix two alphabets and are not Russian spelled in two of them, such as "… | yes |
-| 60 | 3 | script | script: 6 words mix two alphabets and are not Russian spelled in two of them, such as "ге… | yes |
-| 61 | 3 | script | script: 6 words mix two alphabets and are not Russian spelled in two of them, such as "во… | yes |
+| 61 | 3 | script | script: 5 words mix two alphabets and are not Russian spelled in two of them, such as "уv… | yes |
 
 ### kvant_1972_10
 
@@ -467,19 +446,16 @@ Generated 2026-08-19 by kvant report failures.
 | 5 | 3 | math+folio | folio: the page prints 1, sheet 5 of kvant_1972_10 was expected to print 3 | yes |
 | 9 | 3 | folio | folio: the page prints 2, sheet 9 of kvant_1972_10 was expected to print 7 | yes |
 | 14 | 3 | math+latex | math: a display $$ opened here is never closed (line 64); latex: *) Доложено в Российской… | yes |
-| 16 | 3 | script | script: 9 words mix two alphabets and are not Russian spelled in two of them, such as "at… | yes |
 | 19 | 3 | folio | folio: the page prints 10, sheet 19 of kvant_1972_10 was expected to print 17 | yes |
 | 23 | 3 | folio | folio: the page prints 10, sheet 23 of kvant_1972_10 was expected to print 21 | yes |
 | 25 | 3 | folio | folio: the page prints 4, sheet 25 of kvant_1972_10 was expected to print 23 | yes |
 | 39 | 3 | folio | folio: the page prints 74, sheet 39 of kvant_1972_10 was expected to print 37 | yes |
 | 51 | 3 | math+latex | math: a display $$ opened here is never closed (line 52); latex: (bc + c^2)b = c[(bc + c^… | yes |
-| 62 | 3 | script | script: 5 words mix two alphabets and are not Russian spelled in two of them, such as "pt… | yes |
 | 66 | 3 | folio | folio: the page prints 43, sheet 66 of kvant_1972_10 was expected to print 64 | yes |
 | 68 | 3 | math | math: an inline $ opened here is never closed (line 19) | yes |
-| 70 | 3 | script | script: 9 words mix two alphabets and are not Russian spelled in two of them, such as "Ал… | yes |
-| 71 | 3 | script | script: 8 words mix two alphabets and are not Russian spelled in two of them, such as "во… | yes |
-| 77 | 3 | script | script: 6 words mix two alphabets and are not Russian spelled in two of them, such as "пр… | yes |
-| 78 | 3 | script | script: 6 words mix two alphabets and are not Russian spelled in two of them, such as "аk… | yes |
+| 70 | 3 | script | script: 10 words mix two alphabets and are not Russian spelled in two of them, such as "А… | yes |
+| 71 | 3 | script | script: 7 words mix two alphabets and are not Russian spelled in two of them, such as "во… | yes |
+| 77 | 3 | script | script: 5 words mix two alphabets and are not Russian spelled in two of them, such as "пр… | yes |
 | 80 | 3 | latex | latex: г) $\int_{0}^{1}/x-1/dx = \int_{0}^{1}/x-1/dx =: Can't use function '$' in math mo… | yes |
 
 ### kvant_1972_11
@@ -487,9 +463,7 @@ Generated 2026-08-19 by kvant report failures.
 | sheet | attempts | class | last reason | repair queued |
 |---|---|---|---|---|
 | 3 | 3 | folio | folio: the page prints 39, sheet 3 of kvant_1972_11 was expected to print 1 | yes |
-| 8 | 3 | script | script: 8 words mix two alphabets and are not Russian spelled in two of them, such as "mi… | yes |
 | 21 | 3 | folio | folio: the page prints 2, sheet 21 of kvant_1972_11 was expected to print 19 | yes |
-| 30 | 3 | script | script: 5 words mix two alphabets and are not Russian spelled in two of them, such as "ра… | yes |
 | 45 | 3 | latex | latex: m'_i'a + l'_i'b: Double superscript at position 5: m'_i'̲a + l'_i'b (line 13) | yes |
 | 56 | 3 | script | script: 7 words mix two alphabets and are not Russian spelled in two of them, such as "пе… | yes |
 
@@ -500,20 +474,18 @@ Generated 2026-08-19 by kvant report failures.
 | 4 | 3 | script | script: 7 words mix two alphabets and are not Russian spelled in two of them, such as "PR… | yes |
 | 5 | 3 | folio | folio: the page prints 1, sheet 5 of kvant_1972_12 was expected to print 3 | yes |
 | 8 | 3 | short | short: 45 characters, want at least 200 | yes |
-| 14 | 3 | script | script: 7 words mix two alphabets and are not Russian spelled in two of them, such as "or… | yes |
 | 19 | 3 | folio | folio: the page prints 12, sheet 19 of kvant_1972_12 was expected to print 17 | yes |
 | 21 | 3 | math | math: a display $$ opened here is never closed (line 16) | yes |
 | 35 | 3 | folio | folio: the page prints 12, sheet 35 of kvant_1972_12 was expected to print 33 | yes |
 | 37 | 3 | folio | folio: the page prints 3, sheet 37 of kvant_1972_12 was expected to print 35 | yes |
 | 42 | 3 | folio | folio: the page prints 4, sheet 42 of kvant_1972_12 was expected to print 40 | yes |
 | 44 | 3 | runaway | runaway: 3261 words, and no page of this magazine holds more than 1200, so the model was … | yes |
-| 45 | 3 | folio+script | folio: the page prints 49, sheet 45 of kvant_1972_12 was expected to print 43 | yes |
-| 60 | 3 | script | script: 5 words mix two alphabets and are not Russian spelled in two of them, such as "pt… | yes |
+| 45 | 3 | folio+script | folio: the page prints 49, sheet 45 of kvant_1972_12 was expected to print 43; script: 5 … | yes |
 | 62 | 3 | math+latex | math: a display $$ opened here is never closed (line 35); latex: \mu_\pi = \frac{e h}{2 M… | yes |
-| 66 | 3 | script+runaway | script: 455 words mix two alphabets and are not Russian spelled in two of them, such as "… | yes |
+| 66 | 3 | script+runaway | script: 78 words mix two alphabets and are not Russian spelled in two of them, such as "Ф… | yes |
 | 72 | 3 | folio | folio: the page prints 30, sheet 72 of kvant_1972_12 was expected to print 70 | yes |
 | 75 | 3 | math | math: an inline $ opened here is never closed (line 71) | yes |
-| 79 | 3 | script | script: 13 words mix two alphabets and are not Russian spelled in two of them, such as "к… | yes |
+| 79 | 3 | script | script: 12 words mix two alphabets and are not Russian spelled in two of them, such as "В… | yes |
 
 ### kvant_1972_2
 
@@ -526,12 +498,10 @@ Generated 2026-08-19 by kvant report failures.
 | 25 | 3 | folio | folio: the page prints 4, sheet 25 of kvant_1972_2 was expected to print 23 | yes |
 | 27 | 3 | folio | folio: the page prints 5, sheet 27 of kvant_1972_2 was expected to print 25 | yes |
 | 29 | 3 | folio | folio: the page prints 5, sheet 29 of kvant_1972_2 was expected to print 27 | yes |
-| 32 | 3 | script | script: 8 words mix two alphabets and are not Russian spelled in two of them, such as "me… | yes |
 | 35 | 3 | folio | folio: the page prints 2, sheet 35 of kvant_1972_2 was expected to print 33 | yes |
 | 39 | 3 | folio | folio: the page prints 3, sheet 39 of kvant_1972_2 was expected to print 37 | yes |
 | 42 | 3 | folio+script | folio: the page prints 13, sheet 42 of kvant_1972_2 was expected to print 40; script: 12 … | yes |
-| 43 | 3 | script | script: 7 words mix two alphabets and are not Russian spelled in two of them, such as "ди… | yes |
-| 46 | 3 | script+runaway | script: 5 words mix two alphabets and are not Russian spelled in two of them, such as "Иr… | yes |
+| 46 | 3 | script+runaway | runaway: 6822 words, and no page of this magazine holds more than 1200, so the model was … | yes |
 | 55 | 3 | runaway | runaway: 3056 words, and no page of this magazine holds more than 1200, so the model was … | yes |
 | 57 | 3 | folio | folio: the page prints 6, sheet 57 of kvant_1972_2 was expected to print 55 | yes |
 | 59 | 3 | folio | folio: the page prints 6, sheet 59 of kvant_1972_2 was expected to print 57 | yes |
@@ -549,7 +519,7 @@ Generated 2026-08-19 by kvant report failures.
 | 23 | 3 | folio | folio: the page prints 3, sheet 23 of kvant_1972_3 was expected to print 21 | yes |
 | 47 | 3 | math+language+latex+runaway | language: 15 percent of the 236 prose letters are Russian, want at least 20 percent | yes |
 | 50 | 3 | math | math: an inline $ opened here is never closed (line 35) | yes |
-| 59 | 3 | folio+script | folio: the page prints 5, sheet 59 of kvant_1972_3 was expected to print 57; script: 5 wo… | yes |
+| 59 | 3 | folio+script | folio: the page prints 5, sheet 59 of kvant_1972_3 was expected to print 57 | yes |
 | 63 | 3 | folio | folio: the page prints 8, sheet 63 of kvant_1972_3 was expected to print 61 | yes |
 
 ### kvant_1972_4
@@ -557,9 +527,7 @@ Generated 2026-08-19 by kvant report failures.
 | sheet | attempts | class | last reason | repair queued |
 |---|---|---|---|---|
 | 3 | 3 | folio | folio: the page prints 68, sheet 3 of kvant_1972_4 was expected to print 1 | yes |
-| 8 | 3 | script | script: 9 words mix two alphabets and are not Russian spelled in two of them, such as "do… | yes |
 | 9 | 3 | folio | folio: the page prints 2, sheet 9 of kvant_1972_4 was expected to print 7 | yes |
-| 13 | 3 | script | script: 5 words mix two alphabets and are not Russian spelled in two of them, such as "te… | yes |
 | 18 | 3 | script | script: 6 words mix two alphabets and are not Russian spelled in two of them, such as "Ди… | yes |
 | 19 | 3 | folio | folio: the page prints 4, sheet 19 of kvant_1972_4 was expected to print 17 | yes |
 | 21 | 3 | folio | folio: the page prints 3, sheet 21 of kvant_1972_4 was expected to print 19 | yes |
@@ -598,7 +566,6 @@ Generated 2026-08-19 by kvant report failures.
 | 3 | 3 | folio | folio: the page prints 69, sheet 3 of kvant_1972_6 was expected to print 1 | yes |
 | 5 | 3 | folio | folio: the page prints 1, sheet 5 of kvant_1972_6 was expected to print 3 | yes |
 | 9 | 3 | folio | folio: the page prints 2, sheet 9 of kvant_1972_6 was expected to print 7 | yes |
-| 11 | 3 | script | script: 5 words mix two alphabets and are not Russian spelled in two of them, such as "ma… | yes |
 | 14 | 3 | math | math: an inline $ opened here is never closed (line 21) | yes |
 | 15 | 3 | folio | folio: the page prints 8, sheet 15 of kvant_1972_6 was expected to print 13 | yes |
 | 19 | 3 | folio | folio: the page prints 6, sheet 19 of kvant_1972_6 was expected to print 17 | yes |
@@ -621,7 +588,6 @@ Generated 2026-08-19 by kvant report failures.
 | sheet | attempts | class | last reason | repair queued |
 |---|---|---|---|---|
 | 11 | 3 | script | script: 12 words mix two alphabets and are not Russian spelled in two of them, such as "В… | yes |
-| 12 | 3 | script | script: 6 words mix two alphabets and are not Russian spelled in two of them, such as "во… | yes |
 | 14 | 3 | math | math: an inline $ opened here is never closed (line 41) | yes |
 | 15 | 3 | folio | folio: the page prints 8, sheet 15 of kvant_1972_7 was expected to print 13 | yes |
 | 17 | 3 | folio | folio: the page prints 1, sheet 17 of kvant_1972_7 was expected to print 15 | yes |
@@ -636,10 +602,9 @@ Generated 2026-08-19 by kvant report failures.
 |---|---|---|---|---|
 | 5 | 3 | folio | folio: the page prints 1, sheet 5 of kvant_1972_8 was expected to print 3 | yes |
 | 19 | 3 | folio | folio: the page prints 8, sheet 19 of kvant_1972_8 was expected to print 17 | yes |
-| 21 | 3 | script | script: 6 words mix two alphabets and are not Russian spelled in two of them, such as "кв… | yes |
+| 21 | 3 | script | script: 5 words mix two alphabets and are not Russian spelled in two of them, such as "кв… | yes |
 | 25 | 3 | folio+script | folio: the page prints 2, sheet 25 of kvant_1972_8 was expected to print 23; script: 6 wo… | yes |
-| 31 | 3 | script | script: 9 words mix two alphabets and are not Russian spelled in two of them, such as "че… | yes |
-| 33 | 3 | script | script: 5 words mix two alphabets and are not Russian spelled in two of them, such as "te… | yes |
+| 31 | 3 | script | script: 5 words mix two alphabets and are not Russian spelled in two of them, such as "ди… | yes |
 | 35 | 3 | folio | folio: the page prints 8, sheet 35 of kvant_1972_8 was expected to print 33 | yes |
 | 37 | 3 | folio | folio: the page prints 5, sheet 37 of kvant_1972_8 was expected to print 35 | yes |
 | 62 | 3 | math | math: an inline $ opened here is never closed (line 31) | yes |
@@ -656,20 +621,16 @@ Generated 2026-08-19 by kvant report failures.
 | 9 | 3 | math+folio | math: an inline $ opened here is never closed (line 31); folio: the page prints 2, sheet … | yes |
 | 10 | 3 | math | math: an inline $ opened here is never closed (line 35) | yes |
 | 19 | 3 | folio | folio: the page prints 9, sheet 19 of kvant_1972_9 was expected to print 17 | yes |
-| 22 | 3 | script+runaway | script: 143 words mix two alphabets and are not Russian spelled in two of them, such as "… | yes |
+| 22 | 3 | script+runaway | script: 144 words mix two alphabets and are not Russian spelled in two of them, such as "… | yes |
 | 23 | 3 | folio | folio: the page prints 9, sheet 23 of kvant_1972_9 was expected to print 21 | yes |
 | 25 | 3 | folio | folio: the page prints 4, sheet 25 of kvant_1972_9 was expected to print 23 | yes |
 | 30 | 3 | runaway | runaway: a run of 7416 letters, "难过难过难过难过难过难过难过难过难过难过难过难过难过难过难过难过难过难过难过难过难过难过难过难过难过难过难过难过… | yes |
 | 31 | 3 | math+latex+runaway | runaway: 3633 words, and no page of this magazine holds more than 1200, so the model was … | yes |
-| 32 | 3 | script | script: 7 words mix two alphabets and are not Russian spelled in two of them, such as "at… | yes |
 | 51 | 3 | latex | latex: \sqrt[8]{x^6}, \sqrt[6]{x^4}, \sqrt{x^2y^4}, \sqrt[3]{x^3y^9…: Extra } at position… | yes |
 | 54 | 3 | script | script: 6 words mix two alphabets and are not Russian spelled in two of them, such as "Пр… | yes |
-| 55 | 3 | script | script: 5 words mix two alphabets and are not Russian spelled in two of them, such as "си… | yes |
 | 56 | 3 | script | script: 14 words mix two alphabets and are not Russian spelled in two of them, such as "т… | yes |
 | 57 | 3 | script | script: 11 words mix two alphabets and are not Russian spelled in two of them, such as "ц… | yes |
-| 58 | 3 | folio+script | folio: the page prints 36, sheet 58 of kvant_1972_9 was expected to print 56; script: 8 w… | yes |
-| 59 | 3 | script | script: 5 words mix two alphabets and are not Russian spelled in two of them, such as "mo… | yes |
-| 60 | 3 | script | script: 6 words mix two alphabets and are not Russian spelled in two of them, such as "Сt… | yes |
+| 58 | 3 | folio+script | folio: the page prints 36, sheet 58 of kvant_1972_9 was expected to print 56; script: 7 w… | yes |
 | 67 | 3 | math+latex | math: a display $$ opened here is never closed (line 20); latex: ** + *** = ****, если из… | yes |
 
 ### kvant_1973_1
@@ -680,7 +641,6 @@ Generated 2026-08-19 by kvant report failures.
 | 19 | 3 | folio | folio: the page prints 2, sheet 19 of kvant_1973_1 was expected to print 17 | yes |
 | 21 | 3 | folio | folio: the page prints 2, sheet 21 of kvant_1973_1 was expected to print 19 | yes |
 | 39 | 3 | math+latex | math: a display $$ opened here is never closed (line 19); latex: (x_2 + 2)^2 + x_2^2 + x_… | yes |
-| 56 | 3 | script | script: 5 words mix two alphabets and are not Russian spelled in two of them, such as "те… | yes |
 | 60 | 3 | latex | latex: = 180^\circ - \left( \frac{1}{2} \rightarrow MKL + \frac{1}{…: Expected '\right', … | yes |
 | 62 | 3 | math+latex | math: a display $$ opened here is never closed (line 59); latex: \frac{V_2}{V_1} = \eta +… | yes |
 | 63 | 3 | math | math: an inline $ opened here is never closed (line 57) | yes |
@@ -695,23 +655,19 @@ Generated 2026-08-19 by kvant report failures.
 | 21 | 3 | folio | folio: the page prints 2, sheet 21 of kvant_1973_10 was expected to print 19 | yes |
 | 35 | 3 | folio | folio: the page prints 10, sheet 35 of kvant_1973_10 was expected to print 33 | yes |
 | 37 | 3 | folio | folio: the page prints 3, sheet 37 of kvant_1973_10 was expected to print 35 | yes |
-| 55 | 3 | script | script: 13 words mix two alphabets and are not Russian spelled in two of them, such as "д… | yes |
-| 59 | 3 | script | script: 9 words mix two alphabets and are not Russian spelled in two of them, such as "bi… | yes |
+| 55 | 3 | script | script: 12 words mix two alphabets and are not Russian spelled in two of them, such as "д… | yes |
+| 59 | 3 | script | script: 8 words mix two alphabets and are not Russian spelled in two of them, such as "bi… | yes |
 | 60 | 3 | script | script: 8 words mix two alphabets and are not Russian spelled in two of them, such as "пе… | yes |
 | 67 | 3 | script+runaway | script: 548 words mix two alphabets and are not Russian spelled in two of them, such as "… | yes |
-| 69 | 3 | script+runaway | script: 2197 words mix two alphabets and are not Russian spelled in two of them, such as … | yes |
 | 80 | 3 | latex | latex: B_1B_2 = R = KB_1 \sin (\beta + \alpha) = (3\cos \alpha + \s…: Expected 'EOF', got… | yes |
-| 83 | 3 | script | script: 5 words mix two alphabets and are not Russian spelled in two of them, such as "Аl… | yes |
 
 ### kvant_1973_11
 
 | sheet | attempts | class | last reason | repair queued |
 |---|---|---|---|---|
-| 35 | 3 | script | script: 7 words mix two alphabets and are not Russian spelled in two of them, such as "пр… | yes |
-| 52 | 3 | script | script: 7 words mix two alphabets and are not Russian spelled in two of them, such as "Ко… | yes |
+| 35 | 3 | script | script: 5 words mix two alphabets and are not Russian spelled in two of them, such as "пр… | yes |
 | 65 | 3 | math+latex | math: a display $$ opened here is never closed (line 53); latex: \sum + n \sin nx =$ : Ca… | yes |
 | 67 | 3 | script | script: 8 words mix two alphabets and are not Russian spelled in two of them, such as "шк… | yes |
-| 75 | 3 | script | script: 7 words mix two alphabets and are not Russian spelled in two of them, such as "MМ… | yes |
 | 80 | 3 | latex | latex: (a+b)CC_1^2=J_C-J_C_1: Double subscript at position 20: …)CC_1^2=J_C-J_C_̲1 (line … | yes |
 
 ### kvant_1973_12
@@ -731,18 +687,15 @@ Generated 2026-08-19 by kvant report failures.
 |---|---|---|---|---|
 | 4 | 3 | short | short: 12 characters, want at least 200 | yes |
 | 5 | 3 | script | script: 8 words mix two alphabets and are not Russian spelled in two of them, such as "ас… | yes |
-| 8 | 3 | script | script: 7 words mix two alphabets and are not Russian spelled in two of them, such as "Пл… | yes |
-| 20 | 3 | script+runaway | script: 108 words mix two alphabets and are not Russian spelled in two of them, such as "… | yes |
+| 20 | 3 | script+runaway | script: 327 words mix two alphabets and are not Russian spelled in two of them, such as "… | yes |
 | 22 | 3 | script | script: 7 words mix two alphabets and are not Russian spelled in two of them, such as "gr… | yes |
-| 24 | 3 | script | script: 8 words mix two alphabets and are not Russian spelled in two of them, such as "пе… | yes |
 | 35 | 3 | math+folio | math: a display $$ opened here is never closed (line 18); folio: the page prints 3, sheet… | yes |
 | 36 | 3 | math | math: an inline $ opened here is never closed (line 29) | yes |
 | 38 | 3 | script | script: 5 words mix two alphabets and are not Russian spelled in two of them, such as "дв… | yes |
 | 40 | 3 | script | script: 5 words mix two alphabets and are not Russian spelled in two of them, such as "иг… | yes |
 | 46 | 3 | script | script: 5 words mix two alphabets and are not Russian spelled in two of them, such as "па… | yes |
-| 50 | 3 | script | script: 5 words mix two alphabets and are not Russian spelled in two of them, such as "ди… | yes |
 | 53 | 3 | math | math: a display $$ opened here is never closed (line 37) | yes |
-| 54 | 3 | script | script: 5 words mix two alphabets and are not Russian spelled in two of them, such as "Га… | yes |
+| 54 | 3 | script | script: 6 words mix two alphabets and are not Russian spelled in two of them, such as "Га… | yes |
 | 55 | 3 | script | script: 20 words mix two alphabets and are not Russian spelled in two of them, such as "п… | yes |
 | 59 | 3 | script | script: 6 words mix two alphabets and are not Russian spelled in two of them, such as "me… | yes |
 | 60 | 3 | math | math: an inline $ opened here is never closed (line 31) | yes |
@@ -996,8 +949,8 @@ Generated 2026-08-19 by kvant report failures.
 | 52 | 3 | math | math: an inline $ opened here is never closed (line 53) | yes |
 | 59 | 3 | short | short: 10 characters, want at least 200 | yes |
 | 59 | 3 | short | short: 10 characters, want at least 200 | yes |
-| 60 | 7 | runaway | runaway: 3830 words, and no page of this magazine holds more than 1200, so the model was … | yes |
 | 60 | 3 | runaway | runaway: 3830 words, and no page of this magazine holds more than 1200, so the model was … | yes |
+| 60 | 7 | runaway | runaway: 3830 words, and no page of this magazine holds more than 1200, so the model was … | yes |
 
 ### kvant_1974_9
 
@@ -1039,9 +992,9 @@ Generated 2026-08-19 by kvant report failures.
 | 39 | 3 | script | script: 9 words mix two alphabets and are not Russian spelled in two of them, such as "ло… | yes |
 | 39 | 3 | script | script: 10 words mix two alphabets, such as "ломинесcentный", want at most 4 | yes |
 | 55 | 3 | folio | folio: the page prints 3, sheet 55 of kvant_1976_1 was expected to print 53 | yes |
-| 77 | 3 | script | script: 49 words mix two alphabets, such as "radiусу", want at most 4 | yes |
-| 77 | 3 | script+runaway | script: 62 words mix two alphabets and are not Russian spelled in two of them, such as "p… | yes |
 | 77 | 3 | script+runaway | script: 33 words mix two alphabets, such as "radiусу", want at most 4 | yes |
+| 77 | 3 | script+runaway | script: 62 words mix two alphabets and are not Russian spelled in two of them, such as "p… | yes |
+| 77 | 3 | script | script: 49 words mix two alphabets, such as "radiусу", want at most 4 | yes |
 
 ### kvant_1976_10
 
@@ -3520,8 +3473,8 @@ Generated 2026-08-19 by kvant report failures.
 | 15 | 3 | short+language | short: 83 characters, want at least 200 | yes |
 | 26 | 3 | short | short: 14 characters, want at least 200 | yes |
 | 26 | 3 | short | short: 14 characters, want at least 200 | yes |
-| 31 | 6 | script | script: 5 words mix two alphabets and are not Russian spelled in two of them, such as "пр… | yes |
 | 31 | 3 | script | script: 5 words mix two alphabets and are not Russian spelled in two of them, such as "пр… | yes |
+| 31 | 6 | script | script: 5 words mix two alphabets and are not Russian spelled in two of them, such as "пр… | yes |
 | 34 | 3 | short | short: 14 characters, want at least 200 | yes |
 | 37 | 3 | language | language: 0 percent of the 2018 prose letters are Russian, want at least 20 percent | yes |
 | 42 | 8 | script+runaway | runaway: 3908 words, and no page of this magazine holds more than 1200, so the model was … | yes |
