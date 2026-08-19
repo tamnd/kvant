@@ -3,9 +3,9 @@ id: 1974-11-vasilev-semeystvo-parallelnyih-n-ugolnikov-3856d482
 issue: kvant_1974_11
 year: 1974
 number: "11"
-title: Семейство параллельных -угольников
+title: Семейство параллельных n-угольников
 authors:
-  - Васильев Н. Б.n
+  - Васильев Н. Б.
 rubric: matematicheskiy-kruzhok
 rubric_sub: Математический кружок
 page_first: 34

@@ -3,9 +3,9 @@ id: 1979-3-savin-geometricheskoe-dokazatelstvo-tozhdestva-a2-b2-a-ba-b-ab046199
 issue: kvant_1979_3
 year: 1979
 number: "3"
-title: Геометрическое доказательство тождества 2−2 = (−)(+)
+title: Геометрическое доказательство тождества a^2−b^2 = (a−b)(a+b)
 authors:
-  - Савин А. П.ababab
+  - Савин А. П.
 rubric: smes
 page_first: 57
 page_last: 57

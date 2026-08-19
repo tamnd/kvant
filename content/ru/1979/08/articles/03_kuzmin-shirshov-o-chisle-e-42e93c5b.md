@@ -3,10 +3,10 @@ id: 1979-8-kuzmin-shirshov-o-chisle-e-42e93c5b
 issue: kvant_1979_8
 year: 1979
 number: "8"
-title: О числе
+title: О числе e
 authors:
   - Кузьмин Е. Н.
-  - Ширшов А. И.e
+  - Ширшов А. И.
 rubric: osnovnye-stati
 page_first: 5
 page_last: 9

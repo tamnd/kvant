@@ -3,9 +3,9 @@ id: 1987-4-stolyar-priznak-delimosti-na-chisla-vida-10n-1-aefb4d9e
 issue: kvant_1987_4
 year: 1987
 number: "4"
-title: Признак делимости на числа вида 10 ± 1
+title: Признак делимости на числа вида 10n ± 1
 authors:
-  - Столяр В. Г.n
+  - Столяр В. Г.
 rubric: shkola-v-kvante
 page_first: 41
 page_last: 41

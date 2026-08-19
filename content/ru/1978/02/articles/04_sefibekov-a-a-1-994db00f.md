@@ -3,9 +3,9 @@ id: 1978-2-sefibekov-a-a-1-994db00f
 issue: kvant_1978_2
 year: 1978
 number: "2"
-title: = + 1?
+title: a = a + 1?
 authors:
-  - Сефибеков С. Р.aa
+  - Сефибеков С. Р.
 rubric: smes
 page_first: 11
 page_last: 11

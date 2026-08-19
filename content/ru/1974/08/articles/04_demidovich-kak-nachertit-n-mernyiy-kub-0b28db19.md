@@ -3,9 +3,9 @@ id: 1974-8-demidovich-kak-nachertit-n-mernyiy-kub-0b28db19
 issue: kvant_1974_8
 year: 1974
 number: "8"
-title: Как начертить -мерный куб?
+title: Как начертить n-мерный куб?
 authors:
-  - Демидович Н. Б.n
+  - Демидович Н. Б.
 rubric: osnovnye-stati
 page_first: 24
 page_last: 28

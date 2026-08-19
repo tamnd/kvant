@@ -3,9 +3,9 @@ id: 1979-8-sorokin-vyichislim-chislo-e-9b43a122
 issue: kvant_1979_8
 year: 1979
 number: "8"
-title: Вычислим число
+title: Вычислим число e
 authors:
-  - Сорокин Г. А.e
+  - Сорокин Г. А.
 rubric: smes
 page_first: 10
 page_last: 10

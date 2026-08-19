@@ -3,9 +3,9 @@ id: 1983-10-pecherskiy-nx-xn-0b008072
 issue: kvant_1983_10
 year: 1983
 number: "10"
-title: =
+title: n^x = x^n
 authors:
-  - Печерский Л. Б.nxxn
+  - Печерский Л. Б.
 rubric: shkola-v-kvante
 rubric_sub: Школа в «Кванте»
 page_first: 33

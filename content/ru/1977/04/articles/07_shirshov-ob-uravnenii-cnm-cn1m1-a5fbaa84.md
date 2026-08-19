@@ -3,9 +3,9 @@ id: 1977-4-shirshov-ob-uravnenii-cnm-cn1m1-a5fbaa84
 issue: kvant_1977_4
 year: 1977
 number: "4"
-title: Об уравнении = +1-1
+title: Об уравнении C_n^m = C_n+1^m-1
 authors:
-  - Ширшов А. И.CnmCnm
+  - Ширшов А. И.
 rubric: osnovnye-stati
 page_first: 23
 page_last: 24

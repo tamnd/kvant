@@ -2,45 +2,12 @@
 
 Generated 2026-08-19 by `kvant report authors`.
 
-5,443 articles carry 4,593 author mentions between them, 1,762 distinct spellings.
-51 of those spellings are listed below.
-
-## No Russian letter in it
-
-The byline is gone and something else is standing in it. Look at what: it is the notation out of the article's own title, so `abc` heads a piece about a2+b2=c2 and `xnyxzk` heads one about xn+yx=zk. This is rule 3 in a field too short to trip it. These want the page read again.
-
-| byline | seen | where |
-|---|---|---|
-| abc | 1 | content/ru/1989/03/articles/15_o-reshenii-uravneniya-a2-b2-c2-v-tselyih-chislah-5497eac7.md |
-| e | 1 | content/ru/1987/08/articles/07_zamechatelnyie-chisla-2-i-e-efeefbc8.md |
-| xnyxzk | 1 | content/ru/1989/02/articles/04_o-reshenii-v-naturalnyih-chislah-uravneniya-xn-yx-zk-i-odnoy-igre-s-chislami-5eeccbe0.md |
-
-## A name with noise stuck on the end
-
-The same leak, caught earlier. The surname and initials came out right and the notation from the title followed them into the field: Cnk, nxnx, 10n. The tail can be cut without reading the page again, but the page is still worth opening, because whatever leaked here leaked from somewhere.
-
-| byline | seen | where |
-|---|---|---|
-| Абрамович В. С.l | 1 | content/ru/1978/10/articles/08_abramovich-priznaki-delimosti-na-l-f2e03b85.md |
-| Вагутен В. Н.Cnk | 1 | content/ru/1973/02/articles/07_vaguten-chisla-cnk-mnogochlenyi-posledovatelnosti-6d842221.md |
-| Васильев Н. Б.n | 1 | content/ru/1974/11/articles/10_vasilev-semeystvo-parallelnyih-n-ugolnikov-3856d482.md |
-| Демидович Н. Б.n | 1 | content/ru/1974/08/articles/04_demidovich-kak-nachertit-n-mernyiy-kub-0b28db19.md |
-| Лиманов Л. Г.en | 1 | content/ru/1972/05/articles/04_limanov-o-chisle-e-i-n-02ac77e0.md |
-| Маневич А. Г.xnyncn | 1 | content/ru/1983/07/articles/14_manevich-o-tselochislennyih-tochkah-krivyih-vida-xn-yn-cn-f28bc77d.md |
-| Печерский Л. Б.abab | 1 | content/ru/1983/08/articles/11_pecherskiy-kogda-a-b-a-b-155e78de.md |
-| Печерский Л. Б.nxxn | 1 | content/ru/1983/10/articles/10_pecherskiy-nx-xn-0b008072.md |
-| Савин А. П.ababab | 1 | content/ru/1979/03/articles/19_savin-geometricheskoe-dokazatelstvo-tozhdestva-a2-b2-a-ba-b-ab046199.md |
-| Сефибеков С. Р.aa | 1 | content/ru/1978/02/articles/04_sefibekov-a-a-1-994db00f.md |
-| Сорокин Г. А.e | 1 | content/ru/1979/08/articles/04_sorokin-vyichislim-chislo-e-9b43a122.md |
-| Столяр В. Г.n | 1 | content/ru/1987/04/articles/14_stolyar-priznak-delimosti-na-chisla-vida-10n-1-aefb4d9e.md |
-| Фукс Д. Б.nxnx | 1 | content/ru/1986/06/articles/10_fuks-formulyi-dlya-sin-nx-i-cos-nx-496f4dbd.md |
-| Шаркади В.kk | 1 | content/ru/1975/11/articles/15_sharkadi-priznaki-delimosti-na-10k-1-i-na-10k-9-c384d35c.md |
-| Ширшов А. И.CnmCnm | 1 | content/ru/1977/04/articles/07_shirshov-ob-uravnenii-cnm-cn1m1-a5fbaa84.md |
-| Ширшов А. И.e | 1 | content/ru/1979/08/articles/03_kuzmin-shirshov-o-chisle-e-42e93c5b.md |
+5,443 articles carry 4,590 author mentions between them, 1,747 distinct spellings.
+32 of those spellings are listed below.
 
 ## Initials and no surname
 
-Not necessarily a misread, since the magazine signs some pieces this way. The surname, where there is one, has to come from `manifests/toc.yaml` rather than from the page.
+Not a misread. The magazine signs some pieces this way and the page has no surname on it to find. `manifests/toc.yaml` is not the way out either: it was checked against every one of these and it prints the same bare initials in almost all of them, so there is nothing there to recover. Leave them as they are unless somebody identifies the writer from outside the magazine.
 
 | byline | seen | where |
 |---|---|---|
