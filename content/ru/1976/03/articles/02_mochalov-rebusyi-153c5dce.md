@@ -13,7 +13,7 @@ tag: 263Y
 lang: ru
 source: kvant_digital
 extraction: publisher
-content_sha256: 4a95aea9fa193b5ece74c2e12891365d6cd86c53a2bcb1f5c9f48819bb8385a0
+content_sha256: c176beafd6a3c75a451a540116f676b56058c658f80d4bb9ea836f1a66b29ab4
 ---
 
 ## Ребусы
@@ -23,6 +23,7 @@ content_sha256: 4a95aea9fa193b5ece74c2e12891365d6cd86c53a2bcb1f5c9f48819bb8385a0
 Пятью пять
 $$
 \def\c#1{\raisebox{.2em}{\(\mathclap{\LARGE\bigcirc}\)}\mathclap{\text{#1}}}
+\def\colsep#1#2{#2}
 \colsep{.8em}{\begin{array}{ccccccc}
 &&&\c{П}&\c{Я}&\c{Т}&\c{Ь}\\
 &&\smash{\mathclap{\raisebox{.75em}{\(\smash{\LARGE\times}\)}}}&\c{П}&\c{Я}&\c{Т}&\c{Ь}\\[-.2em]
@@ -39,6 +40,7 @@ $$
 Муха и слон
 $$
 \def\c#1{\raisebox{.2em}{\(\mathclap{\LARGE\bigcirc}\)}\mathclap{\text{#1}}}
+\def\colsep#1#2{#2}
 \colsep{.8em}{\begin{array}{cccccccc}
 &&&&\c{М}&\c{У}&\c{Х}&\c{А}\\
 &&&\smash{\mathclap{\raisebox{.75em}{\(\smash{\LARGE\times}\)}}}&\c{С}&\c{Л}&\c{О}&\c{Н}\\[-.2em]
@@ -63,6 +65,7 @@ $$
 \def\c#1{\raisebox{.2em}{\(\mathclap{\LARGE\bigcirc}\)}\mathclap{\text{#1}}}
 \def\z#1{\raisebox{.2em}{\(\mathclap{\LARGE{#1}\vphantom{\bigcirc}}\)}}
 \def\m{\smash{\raisebox{.45em}{\(\mathllap{\LARGE{-}\hskip.2em}\)}}}
+\def\colsep#1#2{#2}
 \colsep{.8em}{\begin{array}{cccccc}
 \c{М}&\z{\times}&\c{О}&\z=&\c{З}&\c{А}\\[.2em]
 \m\c{И}&&&&\m\c{К}&\c{А}\\[-.2em]
@@ -74,6 +77,7 @@ $$
 Шесть на шесть
 $$
 \def\c#1{\raisebox{.2em}{\(\mathclap{\LARGE\bigcirc}\)}\mathclap{\text{#1}}}
+\def\colsep#1#2{#2}
 \colsep{.8em}{\begin{array}{cccccccccc}
 &&&&&\c{Ш}&\c{Е}&\c{С}&\c{Т}&\c{Ь}\\
 &&&&\smash{\mathclap{\raisebox{.75em}{\(\smash{\LARGE\times}\)}}}&\c{Ш}&\c{Е}&\c{С}&\c{Т}&\c{Ь}\\[-.2em]

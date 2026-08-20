@@ -14,7 +14,7 @@ tag: OA6W
 lang: ru
 source: kvant_digital
 extraction: publisher
-content_sha256: 60aae509861b7120e5d49933e4d6e207f241f94452e3f0cc7cc99fc1701d2740
+content_sha256: 7043e2607631f2d2c5b0d672b3fac3899b057728e3d5daa8387695d921d8b2d4
 ---
 
 ## Трансцендентные числа
@@ -145,6 +145,7 @@ $$
 Итак, теорема 2 позволяет нам строить трансцендентные числа. Именно, трансцендентное число можно получить из всякой бесконечной дроби, у которой не все цифры, начиная с некоторой, нули, по следующему способу: нужно $k$-ю цифру после запятой поставить на место с номером $k!$, а остальные места заполнить нулями. Например, из числа $0{,}314159\ldots$ получается такое трансцендентное число:
 $$
 \def\A#1{\mathclap{\footnotesize\begin{array}{c}\text{#1-е}\\\text{место}\end{array}}}
+\def\colsep#1#2{#2}
 \colsep{0pt}{\begin{array}{ccccccc}
 0{,}31000&4&0\ldots0&1&0\ldots0&5&0\ldots\\
 &\mathclap\downarrow&&\mathclap\downarrow&&\mathclap\downarrow&\\
