@@ -4,6 +4,12 @@
 
 The code that builds this lives in `tamnd/kvant-solver`. This repo is the corpus only.
 
+Read it at **[kvant.tamnd.com](https://kvant.tamnd.com)**, in Russian, English and Vietnamese, with a mirror at [tamnd.github.io/kvant](https://tamnd.github.io/kvant/) that leaves out the page by page sheets to stay inside GitHub's size limit. Both are rebuilt from this repo on every push to `main` by `.github/workflows/site.yml`. The Cloudflare half needs `CLOUDFLARE_API_TOKEN` and `CLOUDFLARE_ACCOUNT_ID` set as repository secrets and skips itself without them. To see a change before it is pushed, from a checkout of `kvant-solver` next to this one:
+
+```
+go run ./cmd/kvant publish --corpus ../kvant --out /tmp/site && go run ./cmd/kvant serve --dir /tmp/site
+```
+
 ## What is in scope
 
 *Квант* is the popular physics and mathematics monthly of the Soviet, later Russian, Academy of Sciences. It began in January 1970, ISSN 0130-2221, and is published by the Russian Academy of Sciences with the Steklov and Lebedev institutes.
