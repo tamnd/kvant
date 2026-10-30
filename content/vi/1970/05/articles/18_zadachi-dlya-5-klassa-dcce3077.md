@@ -1,0 +1,41 @@
+---
+id: 1970-5-zadachi-dlya-5-klassa-dcce3077
+issue: kvant_1970_5
+year: 1970
+number: "5"
+title: Bài toán dành cho lớp 5
+rubric: raznoe
+page_first: 66
+page_last: 66
+page_labels: "64"
+tag: DQ71
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: e77d12ab6b297b92478399ac19d55dd660ff64384e8e8ce5f488a2d3122254d3
+prompt_sha256: 3ec6b8aabd9b98576af76503cd8a2902b9f5d18e01ee867dfb1228f59c6d52d8
+translated_from: content/ru/1970/05/articles/18_zadachi-dlya-5-klassa-dcce3077.md
+source_content_sha256: 35a99d32590ad4c5316b087d8d3922c81f2df0c8737437a5df8e810bc0242e49
+translation_model: gpt-5.6-terra
+translation_run: vi-codex-2026-10-30
+---
+
+⟦folio 64⟧
+
+Trong sách giáo khoa thử nghiệm mới về toán dành cho lớp 5 *) (sau khi sửa chữa, nó sẽ trở thành sách chính thức, khi các lớp năm chuyển sang chương trình mới, tức là từ năm học 1970—1971) có mục “Các bài toán khó hơn”. Trong số này và các số tiếp theo của tạp chí, chúng tôi sẽ đăng một phần các bài toán ấy. Có lẽ chúng sẽ tỏ ra thú vị và không quá đơn giản cả đối với những độc giả của “Kvant” đã rời lớp năm từ lâu. Để vào “mục” này, chúng tôi đề nghị bạn trả lời câu hỏi sau: bài toán đầu tiên trong mục này mang số 1213, bài cuối cùng — 1294; vậy trong mục này có tất cả bao nhiêu bài toán? (Dĩ nhiên, đáp án “81 bài toán” là sai). Những ai quan tâm đến các bài toán này, xin hãy gửi cho chúng tôi nhận xét.
+
+1221. Một bình dung tích 10 l chứa đầy dầu hỏa. Cần rót từ bình này 5 l vào một bình bảy lít, dùng một bình phụ rỗng dung tích 3 l (trên các bình không có vạch chia). Làm thế nào?
+
+1223. Đồng hồ báo thức chậm 4 phút mỗi giờ. Ba tiếng rưỡi trước, đồng hồ báo thức đã được chỉnh đúng. Bây giờ trên chiếc đồng hồ chỉ thời gian chính xác là đúng 12 giờ. Sau bao nhiêu phút nữa đồng hồ báo thức cũng sẽ chỉ 12 giờ?
+
+* N. Ya. Vilenkin, K. I. Neshkov, S. I. Shvartsburg, A. D. Semushin, A. S. Chesnokov, T. F. Neaeva, dưới sự chủ biên của A. I. Markushevich, “Matematika”, lớp 5, “Prosveshchenie”, 1969.
+
+1225. Yura và Sasha phải gặp nhau lúc 8 giờ sáng. Yura nghĩ rằng đồng hồ của mình nhanh 25 phút, trong khi thực tế nó chậm 10 phút. Còn Sasha nghĩ rằng đồng hồ của mình chậm 10 phút, trong khi thực tế nó nhanh 5 phút. Mỗi người bạn sẽ đến chỗ hẹn vào lúc nào, nếu họ cố gắng đến trước giờ hẹn 5 phút?
+
+1226. Khôi phục các chữ số được thay bằng dấu sao:
+
+****** ****
+
+- ***** *8*
+
+1233. Trong 8 đồng xu có một đồng giả (nhẹ hơn). Làm thế nào xác định đồng xu giả bằng hai lần cân trên cân hai đĩa không có quả cân, xác định đồng xu giả và cho biết nó nhẹ hơn hay nặng hơn các đồng thật.
