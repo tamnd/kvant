@@ -1,0 +1,152 @@
+name: Site
+
+# The corpus published as a static site, twice:
+#
+#   https://kvant.tamnd.com/       Cloudflare Pages, everything, including the
+#                                  page by page sheets of every issue.
+#   https://tamnd.github.io/kvant/ GitHub Pages, a mirror without the sheets,
+#                                  because GitHub stops a site at a gigabyte
+#                                  and the sheets are half of it.
+#
+# Both builds put their canonical links on kvant.tamnd.com, so a search engine
+# that finds the mirror files it under the main site rather than as a copy.
+#
+# Each build checks its own budget before anything is uploaded, so a corpus
+# that has outgrown a host fails here with the number it is over by, instead
+# of leaving that host with half a deploy.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - content/**
+      - tags/**
+      - .github/workflows/site.yml
+  workflow_dispatch:
+    inputs:
+      solver-ref:
+        description: kvant-solver ref to build with
+        default: main
+
+permissions:
+  contents: read
+
+# One deploy per host at a time. A newer push makes the older build pointless,
+# but a deploy already uploading is left to finish.
+concurrency:
+  group: site-${{ github.ref }}
+  cancel-in-progress: true
+
+env:
+  SOLVER_REF: ${{ inputs.solver-ref || 'main' }}
+
+jobs:
+  cloudflare:
+    name: cloudflare pages
+    runs-on: ubuntu-latest
+    steps:
+      # Without the two secrets this job says so and stops green, so a fork or
+      # a repository that only wants the mirror is not a red build forever.
+      - name: check secrets
+        id: secrets
+        env:
+          TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          ACCOUNT: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        run: |
+          if [ -n "$TOKEN" ] && [ -n "$ACCOUNT" ]; then
+            echo "ok=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "::notice::CLOUDFLARE_API_TOKEN or CLOUDFLARE_ACCOUNT_ID is not set; skipping the Cloudflare deploy"
+          fi
+
+      - uses: actions/checkout@v5
+        if: steps.secrets.outputs.ok
+        with:
+          path: corpus
+
+      - uses: actions/checkout@v5
+        if: steps.secrets.outputs.ok
+        with:
+          repository: tamnd/kvant-solver
+          ref: ${{ env.SOLVER_REF }}
+          path: solver
+
+      - uses: actions/setup-go@v6
+        if: steps.secrets.outputs.ok
+        with:
+          go-version-file: solver/go.mod
+          cache-dependency-path: solver/go.sum
+
+      - name: build kvant
+        if: steps.secrets.outputs.ok
+        run: go build -o "$RUNNER_TEMP/kvant" ./cmd/kvant
+        working-directory: solver
+
+      # The free plan takes 20,000 files and 25 MiB a file. The budget leaves
+      # room under the first; nothing the site writes comes near the second.
+      - name: publish
+        if: steps.secrets.outputs.ok
+        run: |
+          "$RUNNER_TEMP/kvant" publish --corpus corpus --out site \
+            --site-url https://kvant.tamnd.com/ \
+            --canonical-url https://kvant.tamnd.com/ \
+            --max-files 19500 \
+            --report "$RUNNER_TEMP/refused.md"
+          cat "$RUNNER_TEMP/refused.md" >> "$GITHUB_STEP_SUMMARY"
+
+      - name: deploy
+        if: steps.secrets.outputs.ok
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy site --project-name=kvant --branch=main --commit-dirty=true
+
+  github:
+    name: github pages
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          path: corpus
+
+      - uses: actions/checkout@v5
+        with:
+          repository: tamnd/kvant-solver
+          ref: ${{ env.SOLVER_REF }}
+          path: solver
+
+      - uses: actions/setup-go@v6
+        with:
+          go-version-file: solver/go.mod
+          cache-dependency-path: solver/go.sum
+
+      - name: build kvant
+        run: go build -o "$RUNNER_TEMP/kvant" ./cmd/kvant
+        working-directory: solver
+
+      # GitHub Pages stops at 1 GB. The mirror leaves the sheets out, which is
+      # half the site, and the budget fails the build well before the limit.
+      - name: publish
+        run: |
+          "$RUNNER_TEMP/kvant" publish --corpus corpus --out site \
+            --no-sheets \
+            --site-url https://tamnd.github.io/kvant/ \
+            --canonical-url https://kvant.tamnd.com/ \
+            --max-mb 950
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: site
+
+      - id: deploy
+        uses: actions/deploy-pages@v4
