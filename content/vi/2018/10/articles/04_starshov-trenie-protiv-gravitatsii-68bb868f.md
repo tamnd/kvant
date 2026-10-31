@@ -40,7 +40,7 @@ NHIỀU NĂM TRƯỚC, một chai rượu mạnh nhập khẩu hoàn toàn vô t
 
 ⟦figure⟧
 
-Hình 1
+Cơm. 1
 
 Điều này có nghĩa là một quả cầu thủy tinh đặc hơn nổi lên trên cát trơn, vi phạm định luật vạn vật hấp dẫn! Không phải mọi trải nghiệm vật lý hoặc quan sát đơn giản đều có thể được giải thích ngay lập tức. Vì vậy, trong bong bóng có quả bóng này có thể ẩn chứa một bí mật nào đó và một vấn đề vật lý tương ứng. Đối với tôi, dường như quán tính là nguyên nhân cho mọi thứ. Một quả cầu thủy tinh đặc hơn cát khô và quán tính giúp duy trì vị trí của nó trong không gian khi bị đẩy mạnh. Và đây là lúc Lực ma sát lớn phát huy tác dụng. Bên dưới quả bóng, cát đặc hơn một chút so với bên trên nó, nơi lớp mỏng hơn và không có đáy bong bóng cứng. Tôi nghi ngờ chính vì điều này mà lực ma sát ở nơi này yếu hơn một chút. Với mỗi lần đẩy, cuộc thi “quán tính-ma sát-trọng lực” tạo ra một lợi thế quán tính nhỏ, cát chảy xung quanh quả bóng và bây giờ nó đã trượt khỏi đỉnh của quả bóng, khi đó chuyển động ngày càng trở nên dễ dàng hơn. Cuối cùng, toàn bộ quả bóng hiện ra trước mắt chúng ta đầy ngưỡng mộ. Tôi sẵn sàng thừa nhận rằng đây không phải là lời giải thích duy nhất cho sự tiến bộ bền bỉ của quá trình
 
@@ -54,7 +54,7 @@ bóng qua cát lún. Tuy nhiên, một quan sát nữa. Vì nút chai đóng cha
 
 ⟦figure⟧
 
-Hình 3
+Cơm. 3
 
 Bất cứ khi nào bạn nhấn nút chai, quả bóng sẽ bay lên. Bây giờ chúng ta xoay bong bóng nửa vòng quanh trục đối xứng và một lớp cát bao phủ quả bóng. Tóm lại, chúng ta có thể nói thêm rằng cát không nhất thiết chỉ là cát; nó có thể được thay thế hoàn hảo bằng một thứ khác có sẵn trong mỗi nhà bếp. Và bạn không cần phải tìm quả bóng trong chai nhập khẩu mà bạn có thể nhặt nó lên – theo đúng nghĩa đen! - người thay thế anh ấy trong công viên mùa thu ở khu trung tâm của chúng tôi. Hãy tự mình suy nghĩ, hãy tự mình tìm kiếm!
 
@@ -62,7 +62,7 @@ Ghi chú
 
 ⟦figure⟧
 
-Hình 2
+Cơm. 2
 
 Bạn có thể tăng tốc độ trình diễn một cách dễ dàng và đơn giản - chỉ cần giữ bong bóng nằm nghiêng khi trục đối xứng của nó nằm ở vị trí nằm ngang (Hình 3). Một hoặc hai chân
 
@@ -78,7 +78,7 @@ K V AN T 2018/№10
 
 ⟦figure⟧
 
-Hình 2
+Cơm. 2
 
 dưới một pít-tông mỏng không trọng lượng, được giữ cân bằng bằng một lò xo đặt giữa pít-tông và nắp bình. Trong trường hợp này, chiều dài của lò xo không biến dạng bằng chiều cao của bình. Một chân không được tạo ra trong không gian phía trên piston. Cả hai bình đều được làm nóng đến cùng nhiệt độ cuối cùng. Tìm tỉ số n của công do khí thực hiện ở bình bên trái và công do khí thực hiện ở bình bên phải. Có thể bỏ qua ma sát khi piston chuyển động. 2. Bạn biết những loại hóa hơi nào? Xác định nhiệt dung riêng của sự hóa hơi. Bài toán. Mật độ của không khí ẩm ở nhiệt độ $t_{0} 27 q C$ và áp suất $p_{0} 10^{5}$ Pa bằng U 1,15 kg $м^{3}$. Độ ẩm tương đối M của không khí này là bao nhiêu nếu mật độ hơi nước bão hòa ở nhiệt độ $t_{0}$ bằng $U_{0} 25,8$ kg $м^{3}$? Hằng số khí phổ quát là R 8,31 J mol K, khối lượng mol của không khí khô là $0_{1} 29$ g mol, khối lượng mol của nước là $0_{2} 18$ g mol. Đáp số đưa ra dưới dạng phần trăm, làm tròn thành số nguyên.
 
@@ -92,7 +92,7 @@ Bài toán. Hiệu điện thế giữa các bản của tụ điện có công 
 
 ⟦figure⟧
 
-Hình 3
+Cơm. 3
 
 Khi k tổng năng lượng của tụ điện thay đổi. Cho Đáp số dưới dạng phân số tối giản.
 
@@ -110,11 +110,11 @@ NGUYÊN VẬT LIỆU
 
 ⟦figure⟧
 
-Hình 5
+Cơm. 5
 
 ⟦figure⟧
 
-Hình 4
+Cơm. 4
 
 những quả bóng đã được đổi chỗ. Điểm tựa của cân đòn bẩy phải di chuyển một khoảng x bằng bao nhiêu để nó trở lại trạng thái cân bằng? 4. Hạ nhiệt kế vào bình thủy có nước, trên đó hiển thị nhiệt độ $T_{0}$. Một tảng băng có khối lượng ' m và có $температуру^{0} q C$ được ném xuống nước. Khi băng tan, nhiệt kế hiển thị nhiệt độ $T_{1}$. Sau đó, một mảnh băng giống hệt khác được ném xuống nước. Sau khi băng tan, nhiệt kế hiển thị nhiệt độ $T_{2}$. Xác định khối lượng m của nước lúc đầu có trong bình. Bỏ qua nhiệt lượng của phích nước và nhiệt kế.
 
@@ -126,7 +126,7 @@ lớp 9
 
 ⟦figure⟧
 
-Hình 6
+Cơm. 6
 
 một cơ thể nhỏ được dán vào đĩa. Đột nhiên cơ thể trở nên không bị dính và lực dính giữa đĩa và cơ thể biến mất. Sau bao lâu vật đến được bàn? Bỏ qua ma sát và ảnh hưởng của không khí. Gia tốc trọng trường là g.
 
@@ -134,7 +134,7 @@ lớp 10
 
 1. Thanh cứng hình chữ L không trọng lượng ABC (góc B thẳng) có thể quay tự do quanh điểm O (Hình 7). Độ dài các đoạn AO, OB, BC lần lượt là 1 cm, 4 cm và 3 cm. Tại điểm A vào thanh
 
-Hình 7
+Cơm. 7
 
 ⟦folio 47⟧
 
@@ -150,7 +150,7 @@ lớp 8
 
 ⟦figure⟧
 
-Hình 11
+Cơm. 11
 
 u = 40 km/giờ. Tại thời điểm ban đầu, một ô tô bắt đầu đi vào đường hầm thứ nhất, ô tô thứ hai di chuyển về phía sau L = 6 km. Khoảng cách giữa các xe tại thời điểm xe phía sau bắt đầu rời khỏi đường hầm đầu tiên là bao nhiêu?
 
@@ -166,7 +166,7 @@ lớp 9
 
 ⟦figure⟧
 
-Hình 13
+Cơm. 13
 
 sức chống cự. Để xác định điện trở của các điện trở, Petya lần lượt nối một đoạn ngắn mạch (dây có điện trở bằng 0) giữa các điểm AB, BC và CD rồi ghi lại số đọc của thiết bị. Kết quả đo lần lượt như sau: 12 mA, 12 mA và 15 mA. Milliampe kế và nguồn điện áp là lý tưởng. Tìm giá trị của tất cả các điện trở trong mạch $R_{AB}, R_{BC}, R_{CD}, R_{DA}. 3.$ Một hạt tích điện nhỏ có khối lượng m được đặt trên một kim đan cố định có chiều dài L (Hình 14). Sau khi bật nguồn điện trường ngang,
 
@@ -176,7 +176,7 @@ K V AN T 2018/№10
 
 ⟦figure⟧
 
-Hình 25
+Cơm. 25
 
 tường cao (Hình 25). Một quả bóng nhỏ được ném từ góc tạo bởi tường và mặt phẳng nghiêng, tạo cho nó vận tốc hợp với mặt phẳng nghiêng D E S 2 một góc E. Quả bóng sẽ chạm mặt phẳng nghiêng bao nhiêu lần trước khi chạm vào tường? Các tác động của quả bóng là hoàn toàn đàn hồi. (Phần nguyên của số được ký hiệu là [ ].) 5. Ước tính khoảng cách trung bình giữa một phân tử carbon dioxide và một phân tử oxy lân cận trong bầu khí quyển Trái đất trong điều kiện bình thường. Giả sử rằng bạn hiểu rõ về hiện tượng này, bạn có thể đặt các đại lượng cần thiết cho lời giải bài toán, chọn các giá trị số của chúng và thu được kết quả bằng số.
 
@@ -198,7 +198,7 @@ NHIỆM VỤ
 
 ⟦figure⟧
 
-Hình 1
+Cơm. 1
 
 O cách đều tất cả các đỉnh của tam giác nên tam giác AOC cũng cân với đáy AC. Từ các tam giác cân ta thu được QAC QCA và OAC OCA. Kể từ QAO QAC OAC và QCO QCA OCA, rồi đến QAO QCO. Từ lập luận tương tự cho các tam giác AOB và APB, ta thu được PAO PBO. Và vì PAO và QAO có cùng một góc nên QCO và PBO bằng nhau. 3. Họ có thể. Chúng ta hãy chỉ định một số đỉnh của ngôi sao, như trong Hình 2,a. Đường chéo của hình ngũ giác đều CE song song với cạnh AB; tương tự BE song song với CD. Khi đó tứ giác BCE có hai cặp cạnh song song, tức là hình bình hành. Ngoài ra BE =
 
@@ -210,7 +210,7 @@ KÍNH KÍNH KÍNH “QUANTA”
 
 Câu hỏi và bài toán
 
-Hình 2
+Cơm. 2
 
 1. Ánh sáng mặt trời bị tán xạ bởi bầu khí quyển sáng hơn nhiều so với ánh sáng của các ngôi sao. 2. Nó phụ thuộc vào nơi nào. Ví dụ, ở Nam Cực, chúng có thể nhìn thấy được. 3. Sao chổi và tiểu hành tinh. Các vật thể còn lại của Hệ Mặt trời chỉ có thể được quan sát ở gần đường hoàng đạo. 4. Ánh sáng từ một ngôi sao nhìn thấy gần đường chân trời truyền đi một chặng đường dài hơn trong khí quyển so với từ
 
@@ -234,14 +234,14 @@ Trong trường hợp có năm ống, 4 ống đầu tiên có thể được đ
 
 ⟦figure⟧
 
-Hình 3 tại các đỉnh của hình thoi thon dài và điểm giữa của hai cạnh đối diện của nó (Hình 4).
+Cơm. 3 tại các đỉnh của hình thoi thon dài và điểm giữa của hai cạnh đối diện của nó (Hình 4).
 
 ⟦figure⟧
 
-Hình 4
+Cơm. 4
 
 LẠI LẠI VỀ XÂY DỰNG ĐƯỜNG TANG
 
 Cho chúng ta một đường tròn k (vòng tròn màu đỏ trong Hình 5) và một điểm E trên đó. Chúng tôi thực hiện
 
-Hình 5
+Cơm. 5

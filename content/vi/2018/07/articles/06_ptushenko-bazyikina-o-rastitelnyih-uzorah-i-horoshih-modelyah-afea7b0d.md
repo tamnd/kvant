@@ -49,7 +49,7 @@ TRÊN TRANG 4 CỦA BÌA SỐ THỨ TÁM «Kvant» năm ngoái có một bức �
 
 ⟦figure⟧
 
-Hình 1. Sự phân bố rêu dưới ghế gỗ có thể được xác định bởi tác động của nhiều yếu tố khác nhau. Ảnh của V. Ptushenko
+Cơm. 1. Sự phân bố rêu dưới ghế gỗ có thể được xác định bởi tác động của nhiều yếu tố khác nhau. Ảnh của V. Ptushenko
 
 ⟦folio 36⟧
 
@@ -61,7 +61,7 @@ Có thể quan sát mảnh đất này trong mùa hè, đo một cách có hệ 
 
 ⟦figure⟧
 
-Hình 2. Những bậc thang đi xuống mặt nước và phủ đầy thảm tảo dày đặc không chỉ là một bức tranh đẹp mà còn là một hình mẫu đẹp. Ảnh của A. Bazykina
+Cơm. 2. Những bậc thang đi xuống mặt nước và phủ đầy thảm tảo dày đặc không chỉ là một bức tranh đẹp mà còn là một hình mẫu đẹp. Ảnh của A. Bazykina
 
 là như nhau, nhưng lượng hơi ẩm rơi vào nó thay đổi theo từng bước: những phần thấp hơn thường xuyên bị sóng cuốn trôi và chỉ những tia nước bắn tung tóe mới có thể chạm tới những phần cao hơn. Bức ảnh cho thấy rõ mật độ thực vật giảm dần khi bạn di chuyển lên các bậc thang. Nếu muốn, bạn thậm chí có thể xác định độ ẩm tối ưu cho sự phát triển. Đúng vậy, ở đây người ta cũng có thể nghi ngờ tác động của nhiều yếu tố khác nhau - ví dụ (cùng với độ ẩm), tác động của sóng cuốn trôi tảo khỏi các bậc thang. Do đó, bức tranh mà chúng ta quan sát vẫn có phần phức tạp hơn so với cái nhìn đầu tiên và được xác định không phải bởi một mà ít nhất là hai yếu tố. Tuy nhiên, mỗi yếu tố đều có “khu vực trách nhiệm” riêng: một trong số đó (độ ẩm) xác định giới hạn phân bố trên và yếu tố thứ hai (bất ổn) xác định giới hạn dưới. Giống như trong địa sinh học thực sự! Đúng là một mô hình tốt. Tuy nhiên, để diễn giải câu nói nổi tiếng về một lý thuyết đúng đắn và đẹp đẽ, chúng ta có thể nói rằng một người mẫu tốt thì luôn đẹp! Và nhìn vào các bậc thang của bờ kè Venice, thật khó để không đồng ý với điều này.
 
@@ -79,13 +79,13 @@ lớp 10
 
 ⟦figure⟧
 
-Hình 1
+Cơm. 1
 
 3. Có nước đựng trong một bình hình trụ. Khi thả một khối nhựa vào bình thì mực nước dâng lên h = 1 cm. Mức này sẽ thay đổi như thế nào nếu đổ dầu hỏa lên trên? Mật độ nước $U_{0}$, khối lập phương $U 0,9 U_{0}$, dầu hỏa $U_{1} 0,8 U_{0}$, lớp dầu hỏa phía trên khối. 4. Học sinh lắp ráp một mạch điện gồm ba điện trở, một ampe kế và một cục pin có hiệu điện thế 10 V (Hình 2), quên mất phần sơ bộ
 
 ⟦figure⟧
 
-Hình 2
+Cơm. 2
 
 Đo cẩn thận điện trở của điện trở. Người thứ hai không thực sự làm anh ta bối rối: đã ghi lại số chỉ của ampe kế $I_{1} = 12,5$ mA ở trạng thái ban đầu và nhận được số chỉ tương tự của ampe kế $I_{2} = 15$ mA với các điểm A và B hoặc B và C lần lượt đóng bằng dây (A và B đang mở), anh ta nhanh chóng giải quyết vấn đề. Xác định điện trở của các điện trở. Điện áp đầu cuối
 
@@ -99,7 +99,7 @@ trên bờ sông giả đối diện chính xác với điểm A, thời gian $t
 
 ⟦figure⟧
 
-Hình 5
+Cơm. 5
 
 sợi chỉ treo chiếc nhẫn đã được cố định. Khối lượng của vòng và ống bằng nhau và bằng m. Với một lực nào đó, ống được kéo sang phải sao cho vòng nằm chính xác dưới đầu bên trái của nó và góc của sợi chỉ ở đầu bên phải của nó là 30 q. Hãy tìm sức mạnh đó.
 
@@ -109,7 +109,7 @@ lớp 11
 
 ⟦figure⟧
 
-Hình 6
+Cơm. 6
 
 về bên phải với một lực F. Xác định gia tốc của đầu sợi dây. Không có ma sát, sợi chỉ không thể giãn ra được. 2. Cậu bé quyết định thực hiện cú nhảy bungee ngoạn mục trên mặt sông. Anh ta buộc một sợi dây bungee (một sợi dây buộc vào cành cây, đầu bằng một thanh ngang bằng gỗ mà bạn phải dùng tay giữ chặt) vào một cành cây treo lơ lửng giữa sông. Anh ta đã làm điều này theo cách mà có thể, giữ sợi dây theo chiều ngang, nhảy từ bờ sông dốc cao 6 m, bay, chạm nhẹ vào mặt nước và dừng lại ở bờ bên kia. Cậu bé đã rơi xuống nước từ độ cao bao nhiêu để cậu có thể dùng tay đỡ trọng lượng của mình? Chiều rộng của sông là 12 m.
 
@@ -117,7 +117,7 @@ về bên phải với một lực F. Xác định gia tốc của đầu sợi 
 
 bỏ qua vận tốc nhảy ban đầu và độ cao của cậu bé. 3. Một bình kín được chia bằng vách ngăn kín thành hai ngăn, mỗi ngăn có chiều cao H, ngăn trên chứa một phần nước, ngăn dưới trống (Hình 7). Các ngăn được nối với nhau bằng một ống mỏng với một van. Hỏi nếu mở van thì mực nước ở ngăn trên sẽ chảy hết xuống ngăn dưới là bao nhiêu? Bè- Hình 7 hàm lượng nước U, thể tích tự do chứa đầy không khí ở áp suất khí quyển $p_{0}. 4.$ Công suất giải phóng trong mạch ở Hình 8 thay đổi bao nhiêu lần nếu điốt Hình 8? Mạch được tạo thành từ sáu điện trở giống hệt nhau và một nguồn điện áp xoay chiều. Điốt là một thiết bị là chất dẫn lý tưởng cho dòng điện theo hướng mũi tên và là chất cách điện cho dòng điện theo hướng ngược lại. 5. Một khẩu pháo lò xo bắn những quả bóng theo một góc 45° so với phương ngang. Quả bóng rơi cách khẩu pháo một khoảng L. Nó sẽ bay được khoảng cách bao nhiêu nếu một quả bóng khác được bắn theo phương thẳng đứng từ cùng một khẩu pháo ngay phía dưới đỉnh quỹ đạo của nó và các quả bóng va chạm đàn hồi trên cùng một trục thẳng đứng (Hình 9)? Việc bắn được thực hiện từ một bề mặt nằm ngang, bỏ qua ma sát và lực cản của không khí.
 
-Hình 9
+Cơm. 9
 
 ⟦folio 55⟧
 
@@ -141,18 +141,18 @@ TỔ HỢP VUÔNG
 
 ⟦figure⟧
 
-Hình 5
+Cơm. 5
 
 12. Áp dụng câu lệnh bài toán 4 cho các ô vuông màu xanh lam (Hình 6).
 
 ⟦figure⟧
 
-Hình 6
+Cơm. 6
 
 13. Áp dụng câu lệnh bài toán 4 cho một cặp hình vuông và cho cặp hình vuông kia, chúng ta thu được hai tam giác vuông cân có cạnh huyền chung (Hình 7).
 
 ⟦figure⟧
 
-Hình 7
+Cơm. 7
 
 14. Hãy xem xét các hình vuông màu xanh lá cây có các đỉnh ở tâm của các hình vuông này (Hình 8).

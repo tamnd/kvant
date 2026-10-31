@@ -68,7 +68,7 @@ thời gian giữa các khung liền kề W = 16 ms. Tính vận tốc đầu n�
 
 ⟦figure⟧
 
-Hình 1
+Cơm. 1
 
 từ nhân viên cửa hàng, sau đó tính toán độ dày bằng cách sử dụng một bức ảnh. Người bạn nào của Nikolai Vasilyevich đã trả lời đúng câu hỏi? Chiều dài của băng và độ dày của màng là bao nhiêu? Lưu ý: µm là micron, tức là một phần triệu mét. P. Kryukov
 
@@ -80,7 +80,7 @@ từ nhân viên cửa hàng, sau đó tính toán độ dày bằng cách sử 
 
 lớp 8
 
-Hình 2
+Cơm. 2
 
 1. Trong phòng thí nghiệm của một nhà hóa học trẻ, hai chất lỏng có thể tích khác nhau được đựng trong hai ly: một màu xanh lam và một màu đỏ. Một ngày nọ, một nhà hóa học trộn nửa chất lỏng màu xanh lam và nửa chất lỏng màu đỏ vào bình, thu được hỗn hợp có mật độ $U_{1}$. Anh ta trộn phần chất lỏng còn lại từ cốc vào bình thứ hai và bình thứ ba, trong khi mật độ của hỗn hợp trong bình thứ hai hóa ra bằng $U_{2}$, và trong
 
@@ -94,13 +94,13 @@ thứ ba – $U_{3}$. Tìm tỉ số thể tích của ba hỗn hợp thu đư�
 
 ⟦figure⟧
 
-Hình 3
+Cơm. 3
 
 những cuộc triển lãm như vậy: nó được gọi là bánh răng sâu. Thiết bị này mang lại lực tăng bao nhiêu (không bao gồm ma sát)? Giả sử chiều dài của vòng đai (từ tay cầm đến trục nằm ngang) gấp đôi đường kính của tang trống nơi quấn dây. P. Kryukov
 
 3. Trong một cái khay rộng có thành thẳng đứng, chứa một phần nước, có một chiếc cốc chứa đầy nước ở trên cùng. Hai vật nặng hình trụ được giữ cân bằng nhờ hệ ròng rọc và dây như hình 4.
 
-Hình 4
+Cơm. 4
 
 ⟦column⟧
 
@@ -118,7 +118,7 @@ khoảnh khắc và vẽ đồ thị sự phụ thuộc của $v_{cp}$ vào th�
 
 ⟦figure⟧
 
-Hình 5
+Cơm. 5
 
 Thiết bị mới bị hỏng và ngừng truyền dữ liệu về máy tính nhưng điểm vật chất vẫn tiếp tục di chuyển. Xác định giá trị lớn nhất có thể có của thời gian t, cho đến khi phần giảm dần của đồ thị sau 8 s (đường đứt nét trong hình) có thể thẳng. M.Romashka
 
@@ -134,7 +134,7 @@ Không. Tìm số đọc của tất cả các ampe kế. A. Bychkov
 
 ⟦figure⟧
 
-Hình 7
+Cơm. 7
 
 đồ thị được thể hiện trong Hình 7. Sử dụng đồ thị này, hãy xác định chiều cao của các cột. M.Romashka lớp 10
 
@@ -150,13 +150,13 @@ Người ta phỏng đoán rằng những hạt này xuất hiện từ sự ph�
 
 ⟦figure⟧
 
-Hình 8
+Cơm. 8
 
 Quá trình quét" di chuyển với tốc độ không đổi. 1) Cánh quạt quay theo hướng nào so với góc nhìn của nhiếp ảnh gia? 2) Cánh quạt có bao nhiêu cánh? 3) Ước tính cánh quạt quay bao nhiêu vòng mỗi giây nếu quá trình thu được toàn bộ hình ảnh mất 1/8 giây. A. Bychkov
 
 2. Thiết bị ghi đã xác lập vị trí của các hạt cơ bản A, B, C và D tại một thời điểm nào đó, cũng như chuyển động của chúng trong thời gian W, tính từ thời điểm này (các chuyển động được thể hiện trên Hình 9 theo từng đoạn). Khối lượng của hạt C và D bằng nhau.
 
-Hình 9
+Cơm. 9
 
 3. Một cái nêm có khối lượng M = 250 g có góc D 30 q ở đáy đặt trên một mặt phẳng nằm ngang nhẵn. Một khối có khối lượng m = 100 g được đặt trên nêm và truyền cho nó một vận tốc nhất định bằng một va chạm hướng lên dọc theo bề mặt nghiêng của nêm. Tìm nhiệt lượng Q tỏa ra do ma sát của khối trên nêm, biết rằng độ cao tối đa mà khối nâng lên được từ vị trí ban đầu là h = 20 cm. Hệ số ma sát của vật trên mặt nghiêng của nêm là P = 0,6. Lấy gia tốc rơi tự do bằng g 10 m $с^{2}$. S. Chesnokov
 
@@ -182,7 +182,7 @@ CUỘC THI ĐẶT THEO A.P. SAVINA
 
 ⟦figure⟧
 
-Hình 3
+Cơm. 3
 
 ABA ¢ D ¢ CDC ¢ B ¢ (Hình 3). Khi đó ABCD và A ¢ B ¢ C ¢ D ¢ là những hình chữ nhật bằng nhau. Một hình bát giác đều đối xứng qua các đường chéo của nó, nối các đỉnh đối diện, có nghĩa là đỉnh A, đối xứng với BD, sẽ đi vào A¢, C - vào C¢, và các đỉnh B và D, đối xứng với AC, sẽ lần lượt đi vào $в^{B¢} и^{D¢}$. c) Họ không thể. Trong lời giải của phần a) chúng ta đã chứng minh rằng các đường chéo A ¢ B ¢ C ¢ D ¢ bằng các đường chéo ABCD. Và đối với các hình tương tự nhưng không bằng nhau, các đoạn tương ứng phải có độ dài khác nhau. 27. Câu chuyện của Petya không thể là sự thật. Hãy cho rằng Petya đúng. Hãy để anh ta chia số k cho m. Nếu khi chia cho m, số k cho số dư x thì theo điều kiện bài toán $k^{2}$ cho số dư 2x. Khi đó số $k^{2} - 2 k$ cho số dư 2x – 2x = 0, tức là chia hết cho m. Tương tự, $k^{3} - 3 k$ chia hết cho m:
 
@@ -202,7 +202,7 @@ Sau đó, hãy loại bỏ $k^{2}$ trong một trong các biểu thức.
 
 ⟦figure⟧
 
-Hình 2
+Cơm. 2
 
 Vậy AC = A ¢ C ¢. Điểm O là trung điểm của AC nên cũng là trung điểm của A ¢ C ¢. Lý luận tương tự có thể được thực hiện đối với đường chéo BD. Như vậy, trong tứ giác A ¢ B ¢ C ¢ D ¢ các đường chéo bằng nhau (chúng bằng các đường chéo của hình chữ nhật ABCD) và trung điểm của chúng trùng nhau (đây là điểm O). Suy ra A ¢ B ¢ C ¢ D ¢ là hình chữ nhật. b) Họ có thể. Hãy xem xét một hình bát giác đều
 

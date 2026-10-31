@@ -36,7 +36,7 @@ CƯ DÂN THÀNH PHỐ THƯỜNG XEM thiên nhiên mong manh và không có khả
 
 ⟦figure⟧
 
-Hình 1
+Cơm. 1
 
 DOI: https://doi.org/10.4213/kvant20180906
 
@@ -54,17 +54,17 @@ tami. Và sau đó, cây, axit hóa không gian xung quanh rễ và đẩy chún
 
 ⟦figure⟧
 
-Hình 3
+Cơm. 3
 
 ⟦figure⟧
 
-Hình 2
+Cơm. 2
 
 Thực vật thấp thường là rêu và dương xỉ, được lan truyền bằng các bào tử nhẹ hơn, cỏ lửa với hạt chần (có "dù") và các loại cây tiên phong khác (Hình 3). Như bạn có thể thấy, khả năng tuyệt vời của thực vật để tồn tại trong những điều kiện dường như không phù hợp là điều khá dễ hiểu. Tuy nhiên, ngay cả sau những lời giải thích này, bức ảnh được hiển thị ở Hình 4 và trên trang thứ tư của bìa tạp chí vẫn trông thật khó tin. Hơn nữa, một chiếc ô tô có chồi xanh nhỏ này mọc gần như trên kính chắn gió hoàn toàn không phải là
 
 ⟦figure⟧
 
-Hình 4
+Cơm. 4
 
 cũ và bị bỏ hoang, nhưng hiện đại, được bảo trì tốt và rõ ràng là được chủ nhân của nó sử dụng thường xuyên. Điều này có nghĩa là mầm chỉ có vài ngày để phát triển trên nền bụi bặm. Và lượng chất nền này có thể tích tụ ở một số kẽ hở của cơ thể là hoàn toàn rất nhỏ.
 
