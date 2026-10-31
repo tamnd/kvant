@@ -43,11 +43,11 @@ Hãy nhìn vào thiết kế đơn giản này. Đặt các điểm M và N lầ
 
 ⟦figure⟧
 
-Hình 3
+Cơm. 3
 
 ⟦figure⟧
 
-Hình 1
+Cơm. 1
 
 Hãy bắt đầu với bài toán tiếp theo, về nguyên tắc, dành cho học sinh lớp 7–8. Bài toán 1. Cho ACB 90 q, đồng thời cho biết AM = BC và CM = BN. Tìm một OM.
 
@@ -55,4 +55,4 @@ Bài tập 1. Tìm đáp số trong bài toán 1 trong trường hợp giới h�
 
 Lời giải. Hãy hoàn thiện tam giác AMB thành hình bình hành AMBP (Hình 2). Sau đó B.C.
 
-Hình 2
+Cơm. 2

@@ -42,15 +42,15 @@ Những dòng thơ của nhà thơ Nikolai Gumilyov như một lời đề từ 
 
 Hình 1. Phong vũ biểu trên Tòa nhà chính của Đại học quốc gia Moscow thể hiện vai trò của các con số và đại lượng tương ứng của chúng trong đời sống con người. Một ví dụ trong Hình 1. Chúng ta hãy xem xét kỹ hơn thiết bị đo áp suất khí quyển (Hình 2). Chúng tôi đọc tên của nó - phong vũ biểu -
 
-Hình 2. Phong vũ biểu bằng sắt
+Cơm. 2. Phong vũ biểu bằng sắt
 
 ⟦figure⟧
 
-Hình 3. Đồng hồ tốc độ có hai thang đo
+Cơm. 3. Đồng hồ tốc độ có hai thang đo
 
 Giá trị nhiệt độ trong Hình 4 được tính bằng độ C và độ F. Cân thép (Hình 5) đồng thời hiển thị khối lượng của tải trọng được cân bằng kilôgam và pound.
 
-Hình 4. Nhiệt kế có hai cân
+Cơm. 4. Nhiệt kế có hai cân
 
 ⟦folio 41⟧
 
@@ -60,11 +60,11 @@ CỦA CHÚNG TÔI
 
 ⟦figure⟧
 
-Hình 5. Cân thép hiển thị kilôgam và pound
+Cơm. 5. Cân thép hiển thị kilôgam và pound
 
 Nhưng đây là điều thú vị. Trên đồng hồ tốc độ và trên bãi thép chúng ta thấy con số 0. Ngoài ra còn có số 0 trên nhiệt kế ở Hình 4. Nhưng trên phong vũ biểu và trên nhiệt kế y tế (Hình 6) không có số 0. Tại sao? Hơn nữa, trên thang đo của khí áp kế ta thấy các chữ bão, mưa, gió, biến thiên, trong, khô, khô.
 
-Hình 6. Nhiệt kế y tế
+Cơm. 6. Nhiệt kế y tế
 
 ⟦column⟧
 
@@ -76,13 +76,13 @@ KIỂM TRA IONN S E
 
 ⟦figure⟧
 
-Hình 11
+Cơm. 11
 
 Đã biết sự phụ thuộc đồ họa của thế năng M của điện trường bên trong chất điện môi vào khoảng cách x tính từ tâm quả cầu rỗng trong phạm vi thay đổi của x từ R 3 đến 2 R 3 (Hình 11). Đây $M_{0}$ là điện thế tại một điểm nào đó bên ngoài quả bóng. Điện thế tại một điểm ở vô cực được coi là bằng không. 1) Giả sử r, R, Q, H đã biết, tìm biểu thức giải tích (dạng công thức) cho điện thế bên trong chất điện môi tại x R 4. 2) Dùng đồ thị tìm giá trị số của H. 4. Hai cuộn dây có độ tự cảm $L_{1} L$ và $L_{2} 4 L$ và số vòng $n_{1} n$ và $n_{2} 2 n$ được đặt trong từ trường đều bên ngoài với thời gian không đổi bằng cảm ứng (Hình 12). Diện tích mỗi lượt
 
 ⟦figure⟧
 
-Hình 12
+Cơm. 12
 
 cuộn dây S. Cảm ứng của từ trường ngoài có hướng vuông góc với mặt phẳng quay của cuộn dây. Các cuộn dây nằm khá xa nhau. Điện trở thuần của cuộn dây và dây nối không đáng kể. Lúc đầu không có dòng điện trong cuộn dây. 1) Dòng điện trong cuộn dây sẽ bắt đầu thay đổi ở tốc độ nào (modulo) nếu trong cuộn dây có độ tự cảm $L_{1}$ cảm ứng của trường ngoài bắt đầu tăng với tốc độ ' B ' t D ( D! 0), và ở cuộn dây thứ hai, trường ngoài không đổi? 2) Theo thời gian, cảm ứng của từ trường bên ngoài trong cuộn dây có độ tự cảm $L_{1}$ giảm đi
 
@@ -94,7 +94,7 @@ VẬT LIỆU
 
 ⟦figure⟧
 
-Hình 13
+Cơm. 13
 
 ở một khoảng cách h nhất định có một thấu kính hội tụ mỏng có tiêu cự F h 2. Trục quang chính của thấu kính nằm ngang và đi qua bóng đèn. Bán kính của thấu kính là r = 3 cm. Bên phải thấu kính cách một khoảng l 2 h 3 có một gương phẳng Z nằm song song với tường. Giả sử ánh sáng truyền qua thấu kính sẽ truyền qua mặt phẳng thấu kính mà không bị cản trở. Kích thước của tường và gương lớn hơn nhiều so với kích thước của thấu kính. 1) Tìm diện tích phần không sáng của gương. 2) Tìm diện tích phần không được chiếu sáng của bức tường. Cho Đáp số trong $см^{2}$ dưới dạng JS, trong đó J là số nguyên hoặc phân số đơn giản.
 
