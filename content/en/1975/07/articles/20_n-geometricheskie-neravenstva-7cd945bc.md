@@ -1,0 +1,64 @@
+---
+id: 1975-7-n-geometricheskie-neravenstva-7cd945bc
+issue: kvant_1975_7
+year: 1975
+number: "7"
+title: Geometric inequalities
+authors:
+  - Н. В.
+rubric: smes
+page_first: 67
+page_last: 67
+page_labels: "65"
+tag: EZMV
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 4db4a1ee2e65a6c262c77d434f4333cc60168f6ec1759fe98651ec9d8c3a345e
+prompt_sha256: draft-1
+translated_from: content/ru/1975/07/articles/20_n-geometricheskie-neravenstva-7cd945bc.md
+source_content_sha256: 1d5b78925326cdca1788175c1e1328897ab05684434e5c2be2a6f531abbe05ab
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 65⟧
+
+with an average speed of about 10 km/h. But does this mean that it instantly “jumps out” of the crystal? Nothing of the kind! The vacancy moves randomly from side to side, and therefore, although it changes its location 10¹⁰ times in one second, its movement is only 10 microns. “The fussiness, please, is unprecedented,” notes Ya. E. Geguzin about this. Atoms behave more capable than vacancies, but they also change their positions millions of times per second.
+
+A person can influence the movement of atoms and vacancies, can control diffusion in a crystal as he needs: introduce impurities into the crystal, change the strength of the metal, glue and weld metals and other solids, etc., etc.
+
+ Diffusion in a gas or liquid is easy to see: smoke disperses in the air, blueberries spread in water - all these are diffusion processes. In solids, diffusion processes occur more slowly and cannot be seen directly, like a wisp of smoke disappearing into the air. The good thing about Ya. E. Geguzin’s book is that it gives the reader the opportunity to see, feel, and, as if with his hands, touch the processes of diffusion in a solid with his invisible eyes. The author describes experiments in which the result of the movement of atoms or vacancies in solids becomes visible. These experiments are sometimes surprising: a bent crystal itself unbends only because it has been heated; the weight on the metal wire will fly up; atoms roll along the surface of the crystal like tumbleweeds (a sedate plant, torn from its roots and carried by the wind across the steppe); one substance spreads over the surface of another, as if a carpet is being unrolled; grains of gold on the surface of a rock salt crystal “feed” each other; in another experiment, grains of gold are thrown across the surface of a rock salt crystal; the crystal flows like a liquid, and the liquid breaks down brittlely, like glass; a uranium atom moving in a mica crystal, as it were, records its path, and from this record, research will determine the age of the mica crystal.
+
+As Ya. E. Geguzin writes, “these burned ones should definitely be seen. See, feel and be delighted.” The author is so passionate about his topic that the reader is infected with this delight, this joy of exploring, discovering something new.
+
+The author does not seek to give a legitimate picture of the phenomenon described. The first book was published four years ago. The author supplemented the second edition with new material, added a chapter on quantum diffusion (not the most successful in the book), but this time, the final one emphasizes how much there is still to learn, see, and explore.
+
+Each of the sequences is an independent story, but they are all connected by a unity of theme: the physical essence of the diffusion process, the ability to influence this process, the richness of diffusion phenomena in crystals. Many bright, visual analogies, filling images, and examples make the book interesting and fascinating. It’s just a pity that the figure in the book are not always as clear as their description.
+
+Although the author stipulates that he limits the topic of the book to diffusion, in fact its content is broader: from this book you can get a lot of information about the structure of crystals, new experimental facts, and methods of physical statistics and kinetics. The book is written brightly, vividly, captivatingly; undoubtedly, it will bring pleasure to the reader.
+
+M. P. Shaskolskaya
+
+Geometric inequalities
+
+1. Let us denote by $m_a$, $m_b$, $m_c$ the lengths of the medians drawn to the sides $a$, $b$, $c$ of the triangle. Prove that
+
+$$\frac{3}{8}(ab + bc + ca) \leq m_a m_b + m_c m_a \leq \frac{5}{4}(ab + bc + ca).$$
+
+There is an unproven assumption that the odds of 3/8 can be replaced by 9/20.
+
+2. Let us denote by $h_a$, $h_b$, $h_c$ the lengths of the altitudes drawn to the sides $a$, $b$, $c$ of triangle ABC. Prove that
+
+$$\left( a^2 + b^2 - h_c^2 \right)^{\frac{1}{2}} + \left( b^2 + c^2 - h_a^2 \right)^{\frac{1}{2}} + \left( c^2 + a^2 - h_b^2 \right)^{\frac{1}{2}} \leq 6R,$$
+
+ where $R$ is the radius of the circle circumscribed around the ABC crystal.
+
+3. Let us denote by $w_a$, $w_b$, $w_c$ the lengths of the bissertrices drawn to the sides $a$, $b$, $c$ of the triangle. Prove that
+
+$$\frac{a}{w_b + w_c} + \frac{b}{w_c + w_a} + \frac{c}{w_a + w_b} \geq \sqrt{3},$$
+
+$$\frac{w_a}{b + c} + \frac{w_b}{c + a} + \frac{w_c}{a + b} \leq \frac{3}{4} \sqrt{3}.$$
+
+H. B.

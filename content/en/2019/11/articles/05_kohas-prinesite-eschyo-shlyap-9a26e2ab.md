@@ -1,0 +1,47 @@
+---
+id: 2019-11-kohas-prinesite-eschyo-shlyap-9a26e2ab
+issue: kvant_2019_11
+year: 2019
+number: "11"
+title: Bring more hats!
+authors:
+  - Кохась К. П.
+rubric: matematicheskiy-kruzhok
+rubric_sub: Математический кружок
+page_first: 39
+page_last: 39
+page_labels: "37"
+tag: OE6P
+lang: en
+source: kvant_digital
+extraction: native
+content_sha256: b807a08cdbcbbb394641cb12bd8c1b1009175c6a4e6039cf614be68bb4c4f4a6
+prompt_sha256: draft-1
+translated_from: content/ru/2019/11/articles/05_kohas-prinesite-eschyo-shlyap-9a26e2ab.md
+source_content_sha256: bd24102ad2f95e059932e13b229d8234396d1e9b4bd6ff240cb1b804ef97afcf
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 37⟧
+
+MATHEMATICS
+
+KR U ZHOK
+
+We can’t do anything with this number, we even find it difficult to read it out loud. It seems that our viewer’s question remains unanswered again! Wait, did I say “our TV viewer”? Maestro, admit it, is this your machinations again? Again, hiding under a pseudonym, you sent a question
+
+⟦column⟧
+
+grew to disrupt the calm flow of our transmission? - No, no, I have nothing to do with what happened today. Although, you know... I recently told Busenka about how easy and pleasant it is to put you into a stupor with the help of a seemingly harmless question...
+
+Bring more hats!
+
+and the colors are also designated by numbers from 0 to n – 1. Every wise man sees all the hats except his own. This means that he knows the sum of all numbers except one (his own). Then let the kth wise man name his color, based on the assumption that the sum of all numbers gives a remainder k when divided by n. For example, let n = 8 and the third wise man saw that the sum of the numbers of the other wise men is 20. Then he must name the number 7, because only in the case when he has a hat of the 7th color, the sum of all numbers (it is 27 in this case) gives a remainder of 3 when divided by 8. Note that the described strategy is very “economical” in the sense that for each distribution of hats only one wise man guesses the color of the hat. The number of this sage coincides with the remainder of the sum of all colors when divided by n. Let's look at this economy from a different point of view. Have the judge make a list in advance of all the possible ways to give the wise men hats of different colors. We will call each such method a hat arrangement. The work is not small, because the number of all layouts is equal to $n^{n}$ (because each of the n wise men can be given a hat of any of the n colors). After this, let the judge overhear what the wise men agreed on at the meeting, and next to each layout of hats on his list, write down which wise men guessed the color of the hat for this layout. Lemma 1. For each k, the mark “the kth wise man guesses” will be exactly next to the $n^{n} 1$ layouts. In other words, each wise man wins by exactly $1^{n}$ of the total number of hands. Proof. Let us assume that the judge goes through all the options for distributing hats in the following way: first, he fixes the colors of all the hats except the hat of the k-th sage, and after that he thinks about which of the n hats to give to the k-th sage. Since the colors of everyone
+
+K.KOKHAS
+
+LET'S CONSIDER THE FOLLOWING WELL-KNOWN problem about the wise men. The next competition takes place. There are n wise men standing in a circle. The judge puts on each wise man a hat of one of n colors. Every sage sees the hats worn by other sages, but does not see his own. At the signal, the wise men (at the same time) must make a hypothesis about the color of their hat. If at least one wise man guesses the color of his hat, the wise men are considered to have won the competition. Before the competition, the sages had the opportunity to consult, and during the competition no transfer of information was allowed. Could they come up with a strategy in this meeting that would allow them to win either way? Strategy refers to a set of instructions (different for each sage) that sages should follow when putting forward their hypotheses. Each such instruction is a set of rules of the form “if I see such and such hat colors on such and such wise men, then I put forward such and such a hypothesis.” In particular, the strategy must be deterministic, that is, it must not contain actions performed with some probability. This means that if the competition is repeated with the same set of hats, the wise men will give the same answers. The solution to this problem is very beautiful. Sages number themselves with numbers from 0 to n – 1
+
+DOI: https://doi.org/10.4213/kvant20191106

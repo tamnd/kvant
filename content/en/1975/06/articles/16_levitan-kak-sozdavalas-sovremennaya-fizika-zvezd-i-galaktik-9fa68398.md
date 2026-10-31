@@ -1,0 +1,51 @@
+---
+id: 1975-6-levitan-kak-sozdavalas-sovremennaya-fizika-zvezd-i-galaktik-9fa68398
+issue: kvant_1975_6
+year: 1975
+number: "6"
+title: How modern physics of stars and galaxies was created
+authors:
+  - Левитан Е. П.
+rubric: retsenzii-bibliografiya
+rubric_sub: Рецензии, библиография
+page_first: 52
+page_last: 52
+page_labels: "50"
+tag: 87SL
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 2d279eb94bd789eb8d3d726504c466d7f9742999e201ae097eb88112d3857ace
+prompt_sha256: draft-1
+translated_from: content/ru/1975/06/articles/16_levitan-kak-sozdavalas-sovremennaya-fizika-zvezd-i-galaktik-9fa68398.md
+source_content_sha256: 2b396e35f08ff8cd5f666dd7f5d8aa3544fa8b42d8e143babba0b4d394ae97c9
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 50⟧
+
+How modern physics of stars and galaxies was created
+
+E. P. Levitan
+
+Basic information on astronomy can easily be obtained from popular science books, magazines, and school textbooks. However, as a rule, this information gives a somewhat one-dimensional idea of ​​astronomy: before the gaze of a not very inquisitive person there appears an image of a beautiful and ... very easy science, filled to overflowing with a lot of interesting data and all kinds of hypotheses. Hypotheses are often presented in such a way that it seems as if people simply came up with them “on the side” and that it would cost absolutely nothing to come up with ten other, even better ones. But not every fabrication on a scientific topic can be modified by a scientific hypothesis or, especially, a scientific theory. And this idea will become extremely clear when you read the book by Moscow astronomer V. A. Bronshten “Hypotheses about the Stars and the Universe” *).
+
+In his book, V. A. Bronshten seeks to show “how scientific hypotheses about the origin and nature of celestial bodies are created, tested and refuted.” But this is not just a collection of various hypotheses, but a brief and skillfully written history of the formation of stellar physics, extragalactic astronomy and cosmology. How did this “announcement” happen in less than 400 pages?
+
+First of all, the author decided to consider the question
+
+*) Bronshten V. A. Hypotheses about stars and the Universe. M., “Science”, 1974, 384 pp., price 77 kopecks.
+
+energy sources of the Sun and stars.
+
+For many years, astronomers have been diligently collecting a variety of information about the physical characteristics of stars and the relationships between them. The most important milestone on the path to establishing order in the large “economy” of stellar astronomy is the emergence of a scientifically based classification of stellar spectra. and establishing the relationship between the spectrum and luminosity of a star. The modern theory of star evolution has been able to explain the peculiarities of this dependence. The history of the creation of this theory is discussed in the first chapter.
+
+Then you will be presented with a counter with a pulsating and explosive zamami. Here you will encounter a unique case in the history of science: the very first hypothesis about the cause of the brilliance of Cephedos turned out to be correct, and all subsequent ones were incorrect!
+
+The topic of the third chapter is from what and how stars are born.
+
+Currently, there are two concepts of the origin of stars. Which? What is their fundamental difference? Many excellent directions in astronomical Olympiads are devoted to this issue. This is one of the best paths to big science. And on this path, good, smart books will play a big role. The book we talked about is undoubtedly one of them.
+
+*) Anyone who is interested in this theory in more detail can refer to publications in the popular science journal of the USSR Academy of Sciences “Earth and the Universe”.

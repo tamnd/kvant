@@ -1,0 +1,55 @@
+---
+id: 2019-7-agahanov-zaklyuchitelnyiy-etap-xlv-vserossiyskoy-olimpiadyi-shkolnikov-po-matematike-35f11b91
+issue: kvant_2019_7
+year: 2019
+number: "7"
+title: The final stage of the XLV All-Russian Olympiad for schoolchildren in mathematics
+authors:
+  - Агаханов Н. Х. и др.
+rubric: olimpiady
+rubric_sub: Олимпиады
+page_first: 42
+page_last: 42
+page_labels: "40"
+tag: P5M3
+lang: en
+source: kvant_digital
+extraction: native
+content_sha256: e8e53487c52115f4141988747626b1b5ed44c8aec490e62825bf55bf9ad8929a
+prompt_sha256: draft-1
+translated_from: content/ru/2019/07/articles/06_agahanov-zaklyuchitelnyiy-etap-xlv-vserossiyskoy-olimpiadyi-shkolnikov-po-matematike-35f11b91.md
+source_content_sha256: 8a2ccc79d9883a0da433b8e3f3e84d6b317bdbc40fc7b6f35b192130dfe90bb4
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 40⟧
+
+KV AN T 2019/№7
+
+⟦figure⟧
+
+Fig. 9
+
+piston retracted to the length of the syringe, if the atmospheric pressure is $p_{0}$, and the cross-sectional area is $поршня^{S.}$ Neglect the change in temperature.
+
+⟦column⟧
+
+5. A weight of mass m hangs on a spring. A second weight of the same mass m was attached to the weight in equilibrium using a thread and, without stretching the spring, it was released (Fig.10). What minimum tension force must the thread withstand so that it does not break?
+
+⟦figure⟧
+
+Fig. 10
+
+O L I M P I A DY
+
+The final stage of the XLV All-Russian Olympiad for schoolchildren in mathematics
+
+9th grade
+
+10th grade
+
+The final stage of the All-Russian Mathematical Olympiad for schoolchildren was held in the Perm region from April 21 to April 27, 2019. All Olympiad participants lived in the buildings of the Ust-Kachka resort located on the picturesque bank of the Kama River, and the Olympiad rounds took place in the nearby modern building of the Cadet Corps. The excursion program of the Olympics included trips to the Kungur Cave and sightseeing in Perm. The scientific and educational program of the Olympiad was interesting and rich: representatives of the country's leading universities gave lectures to the participants. 378 young mathematicians from 65 regions of Russia took part in the Olympiad. In addition, traditional participants of the Olympiad
+
+11th grade

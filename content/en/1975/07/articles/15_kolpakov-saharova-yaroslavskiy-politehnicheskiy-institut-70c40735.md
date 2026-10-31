@@ -1,0 +1,71 @@
+---
+id: 1975-7-kolpakov-saharova-yaroslavskiy-politehnicheskiy-institut-70c40735
+issue: kvant_1975_7
+year: 1975
+number: "7"
+title: Yaroslavl Polytechnic Institute
+authors:
+  - Колпаков В. С.
+  - Сахарова Р. Н.
+rubric: praktikum-abiturienta
+page_first: 61
+page_last: 61
+page_labels: "59"
+tag: KTEH
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 2a871c985a43dde0425133e163f3d1e891aca12acbaca882eb94b4f1a07e26a1
+prompt_sha256: draft-1
+translated_from: content/ru/1975/07/articles/15_kolpakov-saharova-yaroslavskiy-politehnicheskiy-institut-70c40735.md
+source_content_sha256: 2eb8e907c9027b8262620e9f76f730936f4ea36c0766a524aa6b6459407ccf96
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 59⟧
+
+4. For what values ​​of $m$ the equation
+$$\lg mx = 2 \lg (x+3)$$
+has two different real roots?
+5. The side of the base of a regular quadrangular straight line is equal to $a$, and the two angles at the base are equal to $\alpha$. Find the cross-sectional area of ​​the straight line by a plane dividing it in half by two angles at the base.
+B. A. Tonyan
+
+Yaroslavl Polytechnic Institute
+I talk about the Yaroslavl Polytechnic Institute in «Kvant», 1974, No. 7.
+In this issue we publish versions of written works in mathematics and problems for the oral exam in physics, offered at YAPI in 1974.
+
+Mathematics
+Option 1
+1. At the base of the straight line lies a right triangle whose acute angle is $\alpha$ and the radius of the inscribed circle is $r$. Each of the lateral boundaries forms an angle $\alpha$ with the base. Find the volume of the straight line.
+2. Solve the equation
+$$\frac{1}{\log_6(3+x)} + \frac{2 \log_0,25(4-x)}{\log_2(3+x)} = 1.$$
+3. Find the domain of a function
+$$y = \arcsin(4x^2 + 2x - 1) + \sqrt{\frac{(x-2)(x-3)}{x^2}}.$$
+4. Solve the equation
+$$\sin^3x - \cos^3x = \sin^2x - \cos^2x.$$
+Option 2
+1. In a regular quadrangular rectangle, a plane is drawn through the side of the base at an angle $\beta$ to it. Determine the area of ​​the resulting section if the apothem of straightness is equal to $a$, and the lateral boundary of the base plane is at an angle $\alpha$.
+2. Solve system of equations
+$$\begin{cases} \sqrt{x-y} + \frac{1}{2} \sqrt{x+y} = \frac{26-y}{\sqrt{x-y}}, \\ 10^3 - \lg(x-y) = 250. \end{cases}$$
+3. Solve inequality
+$$\frac{9}{1 - \log_1/2 \sqrt{x}} - \frac{1}{1 \log_2 x - 1} > 2.$$
+4. Solve the equation
+$$2 \sin^4 2x - \sin^2 2x \sin 4x = 2 \sin^2 2x - \sin 4x.$$
+Option 3
+1. Determine the volume and lateral surface of a straight prism, whose base is an equilateral triangle with an angle at the vertex $\alpha$ and the opposite side $b$, if the diagonal of one of the equal lateral faces is inclined to the plane of the base at an angle $\beta$.
+2. Solve system of equations
+$$\begin{cases} x - y + \sqrt{\frac{x-y}{x+y}} = \frac{20}{x+y}, \\ x^2 + y^2 = 34. \end{cases}$$
+3. Find the domain of a function
+$$y = \lg(\sqrt{x^2 - 5x + 6} - x - 2).$$
+4. Solve the equation
+$$\cos \frac{4}{3}x + \sin^2 \frac{3}{2}x + 2 \sin^2 \frac{5}{6}x = \cos^2 \frac{3}{2}x.$$
+Physics
+1. A piece of glass falls in the water with acceleration $a=5,8$ $m/c^2$. What is the density of glass $\rho$? The density of water is $\rho_1 = 10^3$ $\kappa e/m^3$.
+2. What power $N$ is possible for the stream running onto the Volga automatic rifle at a speed of $v=100$ km/h, if the LOB surface area of ​​the vehicle is $S=2,5$ $m^2$? Air density $\rho=1,29$ $\kappa e/m^3$.
+3. A tamping roller with a radius of $R=0,5$ $m$ rolls over a stone lying on the road with a height of $h=5$ cm. The mass of the roller is $m=2.10^3$ $\kappa e$. Determine the horizontal traction force $F$ required to move the roller through the stone.
+4. A stone is thrown at an angle $\alpha=60^\circ$ to the horizontal. The kinetic energy of the stone at the initial moment is $T_0=100$ j. What is the kinetic ($T$) and potential ($\Pi$) energy of the stone at the highest point of its trajectory? Air resistance is not taken into account.
+5. Air from the Magdeburg hemispheres is cooled to a pressure of $p_1=8$ mm ppm. cm. Radius of the hemispheres $R=50$ cm. What force $F$ must be applied to separate the hemispheres? Atmospheric pressure $p=758$ mm ppm. cm.
+6. What forces $F$ must be applied to the ends of a steel rod with a cross-sectional plane $S=10$ cm² in order to prevent it from extending when heated from $t_1=0^\circ C$ to $t_2=40^\circ C$? Young's modulus of steel $E=2,1 \times 10^{11}$ n/m². The coefficient of linear expansion of steel is $\alpha=12.10^{-6}$ erad$^{-1}$.
+7. Air, whose mass is $m=4$ $\kappa e$, is in the cylinder at a temperature of $t_1=20^\circ C$. How much work will be done during isobaric heating to a temperature of $t_2=100^\circ C$? Molecular mass of air

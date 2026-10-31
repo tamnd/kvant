@@ -1,0 +1,55 @@
+---
+id: 2019-9-chesnokov-moskovskiy-gosudarstvennyiy-universitet-imeni-m-v-lomonosova-3ff743b9
+issue: kvant_2019_9
+year: 2019
+number: "9"
+title: Moscow State University named after M.V. Lomonosov
+authors:
+  - Чесноков С. С.
+rubric: ekzamenatsionnye-materialy
+rubric_sub: Экзаменационные материалы
+page_first: 44
+page_last: 44
+page_labels: "42"
+tag: FXWG
+lang: en
+source: kvant_digital
+extraction: native
+content_sha256: 38cfe798a35e761b76479cb69e22fb2ce62e9c8af62e3a1a4fdb8cbfc64899c4
+prompt_sha256: draft-1
+translated_from: content/ru/2019/09/articles/01_chesnokov-moskovskiy-gosudarstvennyiy-universitet-imeni-m-v-lomonosova-3ff743b9.md
+source_content_sha256: 680930a65671c8a6d4b5f033daa0c4272345de6758573c1b82647e9d927ab8db
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 42⟧
+
+K V AN T 2019/№9
+
+remains in position 1 for a long time. Over a long period of time after moving the key to position 2, the change in charge on the right plate of the capacitor is q 0.55 µC. Find the emf of the source E. 32. Electromagnetic radiation with a wavelength of 0.3 μm is incident on a flat zinc plate ($( A_{вых} = = 3,75$ eV). What is the intensity of the retarding homogeneous electric field, the vector of the co-
+
+⟦column⟧
+
+which is perpendicular to the plate if the photoelectron can move away from the surface of the plate to a maximum distance d = 2.5 mm?
+
+Make sure that each answer is written next to the corresponding task number. The publication was prepared by M. Demidova, A. Chernoutsan
+
+Moscow State University named after M.V. Lomonosov
+
+PHYSICS
+
+Profile exam
+
+In 2019, the profile exam (additional entrance test) in physics at Moscow State University and its Sevastopol branch was conducted in written form. A typical assignment for an applicant covered all the main sections of the physics program for applicants to Moscow State University: 1) mechanics, 2) molecular physics and thermodynamics, 3) electrodynamics and 4) optics. For each section of the program, the applicant was asked a short theory question and a complementary task. Four astronomical hours were allotted to complete the entire task. Below are examples of tasks for the 2019 profile exam.
+
+MECHANICS
+
+1. Write down formulas for the time dependence of the coordinates and speed of a point performing rectilinear uniform motion. Task. Two identical loads of mass M = 1 kg each are connected to each other by a light inextensible thread thrown over a weightless block, with the right load being higher than the left one (Fig.1). An overload in the form of a disk with a slot protruding beyond the edges of the load was carefully placed on the right weight, after which the weight system began to move. Having moved down a certain distance, the right load met a limiter in the form of a horizontally fixed ring, through which the load passed unhindered, and the overload was held by the ring. By what value ' T will the tension force of the thread change after the right weight passes the limiter ring, if the overload mass m = 250 g? Take the acceleration of free fall equal to Fig. 1 g 10 m $с^{2}. 2.$ Formulate the law of conservation of mechanical energy of a system of material points. Explain the meaning of the quantities included in this law. Task. On the edge of the table lies washer 1 of radius R = 10 cm, the same washer 2 is located at a distance s = 15 cm from the first washer (Fig.2). What is the minimum speed
+
+⟦figure⟧
+
+Fig. 2
+
+height $v_{0}$ should the second puck be hit in the direction of the first so that it falls off the table? The friction coefficient of the washers on the table surface is P = 0.2. The collision of the washers is counted

@@ -1,0 +1,51 @@
+---
+id: 2020-1-izbrannyie-zadachi-d071c7ab
+issue: kvant_2020_1
+year: 2020
+number: "1"
+title: Selected tasks
+rubric: konkurs-imeni-a-p-savina
+rubric_sub: Конкурс имени А. П. Савина
+page_first: 55
+page_last: 55
+page_labels: "53"
+tag: AFRY
+lang: en
+source: kvant_digital
+extraction: native
+content_sha256: 90f3476ff2c7ef2495414b33a438192abe9ea0da2b419f8afbb1f527184c2650
+prompt_sha256: draft-1
+translated_from: content/ru/2020/01/articles/07_izbrannyie-zadachi-d071c7ab.md
+source_content_sha256: 40bf06c4b7ee69bcb405aa7e31e57126604d1a6464987f2633bd9bd7fa86b4b0
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 53⟧
+
+"QUANTUM"
+
+FOR
+
+YOUNGER
+
+In new open areas, not too polluted by human activity, a very beautiful mysterious blue haze appears. The blue mountains of the Caucasus are often mentioned in literature, and the Blue Mountains in Australia are famous for their blue haze. The blue color of the “haze” is due to the scattering of light by tiny particles, the size of which is much smaller than the wavelength of visible light. Such particles can be organic macromolecules emitted by vegetation, as well as tiny particles torn off sharp parts of plants by the earth's electric field. So, in places where tiny particles accumulate, an additional scattering effect of the blue part of the spectrum occurs. Concluding the article, we offer the reader plots for independent consideration.
+
+SCHOOLCHILDREN
+
+⟦column⟧
+
+1. Why does a New Year's tree from a distance (say, standing in the main square of your city) appear red in the evening, although it is illuminated with lights of different colors? 2. If you happen to sit by the fire on New Year’s Eve, don’t forget to experiment and maybe show off in front of others by asking them the following question. Why does the smoke from a fire appear blue below the trees, but above the treetops (against the light sky) it looks yellow? 3. Drop a few drops of milk into a glass of water and look through it at the glowing light bulb. The light bulb will appear reddish-yellowish. If you look at the light reflected from the glass, it will be blue. Explain the observed color difference.
+
+COMPETITION NAMED AFTER A.P. SAVINA
+
+Selected tasks
+
+1. The number 1995 can be represented as the sum of several consecutive natural numbers in many ways: for example, 997 + 998, 664 + 665 + 666, 330 + 331 +332 + 333 + 334 + 335. Which of these representations has the largest number of terms? S.Dvoryaninov
+
+2. There is an unlimited supply of coins of 1, 2, 5, 10, 20, 50 kopecks and 1 ruble. It is known that an amount of A kopecks can be paid to B in coins. Prove that an amount of B rubles can be paid in A coins. D. Fomin
+
+3. The cube is rolled over the table surface, turning it over the edges. Is it possible to turn it over 12 times so that it turns over once on each edge and ends up in the same place? S. Tokarev
+
+4. A square was placed on the strip, the side of which is equal to the width of the strip, and in such a way that its border intersected the border of the strip at four points (see figure). Prove that two lines passing crosswise through these points intersect at an angle $45\infty$. V.Proizvolov
