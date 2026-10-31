@@ -1,0 +1,72 @@
+---
+id: 1973-6-smolyanskiy-novyie-knigi-7951e133
+issue: kvant_1973_6
+year: 1973
+number: "6"
+title: Sách mới
+authors:
+  - Смолянский М. Л.
+rubric: raznoe
+rubric_sub: Разное
+page_first: 68
+page_last: 68
+page_labels: "66"
+tag: CAI7
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: ff5ca2e15ee92e010a7df57e51d5aaff749b4ed09e86d9d481152975e7189200
+prompt_sha256: draft-1
+translated_from: content/ru/1973/06/articles/20_smolyanskiy-novyie-knigi-7951e133.md
+source_content_sha256: eb3822b2ea910e01a19d147f1588b40461887f1b393e2966bb83ea8098eb171c
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 66⟧
+
+Sách mới
+
+Trong số này, chúng tôi tiếp tục xuất bản tiếng Anh trên các cuốn sách xuất bản năm 1973 và được độc giả quan tâm.
+
+Vào quý 111 năm 1973, những cuốn sách sau sẽ được xuất bản (đơn đặt hàng có thể được gửi qua các cửa hàng Kniga qua thư):
+
+**Toán học**
+
+**Nhà xuất bản Nuka**
+
+1. Giới hạn Kirillov A.A. (Quyển 5 l., phát hành 100.000 bản, giá 15 kopecks.)
+Cuốn sách xem xét một trong những phần khó nhất của chương trình giảng dạy ở trường - lý thuyết về giới hạn.
+
+Bằng cách sử dụng các ví dụ cụ thể, được chọn lọc kỹ lưỡng, tác giả giải thích rõ ràng và rất rõ ràng phần trụ cột này của chương trình.
+
+Cuốn sách nhằm mục đích tự học toán cho học sinh lớp 9-10. Nó cũng có thể được các giáo viên toán sử dụng cho công việc ngoài lớp học.
+
+2. Panov D. Yu. Dòng đếm. (Khối 11 l., phát hành 200.000 bản, giá 39 kopecks.)
+Ngày nay, mỗi học sinh cần sử dụng thước trượt một cách khôn ngoan trong nhiều trường hợp khác nhau.
+
+Phần đầu tiên của cuốn sách ở dạng đơn giản và cực kỳ trực quan dạy sản phẩm ban đầu của phép tính đơn giản nhất bằng cách sử dụng quy tắc trượt (tuy nhiên, quy tắc này khá phù hợp với mục đích học tập).
+
+Phần thứ hai của cuốn sách phục vụ một mục đích cụ thể hơn và dành cho những độc giả đã biết cách trông cậy vào một cây thước.
+
+Cuốn sách dành cho nhiều đối tượng độc giả.
+
+3. Solodovnikov A. S., Kantor I. L. Số siêu phức tạp. (Tập 7 l., phát hành 35.000 bản, giá 23 kopecks.)
+Các tác giả của cuốn sách dưới dạng phổ biến nói về một trong những số hoàn chỉnh tổng quát - số siêu đầy đủ.
+
+Sách dành cho học sinh phổ thông; nó cũng là mối quan tâm của các giáo viên toán dạy các lớp tự chọn.
+
+4. Veskin I. M. Phân chia một đoạn theo một tỷ lệ nhất định. (Tập 3 l., phát hành 50.000 bản, giá 10 kopecks.)
+Cuốn sách này phác thảo một số vấn đề liên quan đến vấn đề phân chia đoạn về mặt này. Trong quá trình trình bày vấn đề này, tác giả giới thiệu đến người đọc một số vấn đề về ái lực và hình học đơn giản.
+
+Sách dành cho học sinh lớp 8-10. Nó cũng có thể hữu ích cho giáo viên toán khi tiến hành các hoạt động ngoại khóa.
+
+**Nhà xuất bản "Prosveshcheniye"**
+
+5. Vilenkin N. Ya., Shvartsburg S. I. Phân tích toán học. Sách hướng dẫn học sinh giỏi toán. (Khối lượng 31,7 l., phát hành 100.000 bản, giá 1 chà. 10 k.)
+Cuốn sách này chủ yếu dành cho sinh viên các trường vật lý và toán học. Ở dạng khá dễ tiếp cận nhưng sử dụng các khái niệm lý thuyết đa trạng thái, các tác giả trình bày các khái niệm cơ bản về phân tích toán học được trình bày trong chương trình phổ thông. Khi trình bày tài liệu, tác giả sử dụng rộng rãi các hình thức trình bày trực quan.
+
+Cuốn sách này là sự bổ sung hữu ích cho các sách giáo khoa vật lý hiện có. Nó dành cho nhiều đối tượng độc giả: học sinh phổ thông, sinh viên tự học kỹ thuật và rất được quan tâm trong việc giảng dạy vật lý ở trường trung học.
+
+8. Giám mục R. Kolbanaya. (Khối 10 l., phát hành 15.000 bản, giá 70 kopecks.)

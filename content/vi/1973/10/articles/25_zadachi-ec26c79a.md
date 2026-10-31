@@ -1,0 +1,49 @@
+---
+id: 1973-10-zadachi-ec26c79a
+issue: kvant_1973_10
+year: 1973
+number: "10"
+title: Bài toán
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 72
+page_last: 72
+page_labels: "70"
+tag: XZ4Q
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 0671d7302587a9d139dd3052c1cafa37bf7286c04f0d6dfee0f563c6cdfc7d49
+prompt_sha256: draft-1
+translated_from: content/ru/1973/10/articles/25_zadachi-ec26c79a.md
+source_content_sha256: 54ea1450a0d74e05c66f493c9d8714c42a1233e80d5ba6061835074ea7bdc598
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 70⟧
+
+«Kvant» cho học sinh nhỏ
+
+Nhiệm vụ
+
+1. Giải mã phép nhân
+
+2. Xe đạp có phanh trước và phanh sau. Chúng nên được bật theo thứ tự nào khi dừng đột ngột?
+
+3. Tôi và bạn tôi đã mua 18 con tem trong 3 ngày. Hôm nay tôi mua nhiều tem như bạn tôi đã làm hôm qua và hôm nay, nhưng hôm kia anh ấy đã mua
+
+Tôi đã uống nhiều hơn 2 mác so với ngày hôm qua và ngày hôm trước. Mỗi người chúng ta đã mua bao nhiêu con tem?
+
+4. Điều gì xảy ra nếu lò sưởi điện được bật và lấy ra khỏi nước một lúc?
+
+5. Một khúc gỗ có chiếc đinh ở giữa bị bỏ lại phía sau xe tải. Khi xe đang di chuyển, khúc gỗ bị lỏng ở phía sau và trầy xước phần dưới. Một ngày của cơ thể có thể bị hủy hoại bao nhiêu?
+
+Kích thước thân: 3 m × 2 m; khúc gỗ dài 2m.
+
+6. Dòng điện nào chạy qua điện trở 3 R trong mạch điện như hình vẽ? Giá trị của tất cả các điện trở và điện áp U được coi là đã biết.
+
+Nghệ sĩ E. V. Nazarov
+
+70

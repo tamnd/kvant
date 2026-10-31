@@ -1,0 +1,67 @@
+---
+id: 1973-3-kuznetsova-dlya-postupayuschih-v-institutyi-i-tehnikumyi-0a84184a
+issue: kvant_1973_3
+year: 1973
+number: "3"
+title: Dành cho người vào học viện, trường kỹ thuật (Nhà xuất bản THPT)
+authors:
+  - Кузнецова Л. Г.
+rubric: retsenzii-bibliografiya
+rubric_sub: Рецензии, библиография
+page_first: 61
+page_last: 61
+page_labels: "59"
+tag: ZWJM
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: f550f7c0694adf4e6ffb5f466b7e53f507e769e49bf23550291b96378f43b1ff
+prompt_sha256: draft-1
+translated_from: content/ru/1973/03/articles/13_kuznetsova-dlya-postupayuschih-v-institutyi-i-tehnikumyi-0a84184a.md
+source_content_sha256: 1ff688f7fe0adad37f60f201a05c7753b1ef3bfc34a9d0f37938fedb27ed84d8
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 59⟧
+
+Đối với những người vào học viện và trường kỹ thuật, họ cố gắng tiếp tục học tập và vào một cơ sở giáo dục chuyên ngành cao hơn hoặc trung học. Nhưng để làm được điều này, để vượt qua kỳ thi tuyển sinh thành công, bạn cần phải chuẩn bị thật tốt cho chúng và chỉ còn rất ít thời gian cho việc này - chỉ một tháng, trong thời gian đó bạn cần nhớ lại trong trí nhớ tất cả tài liệu giáo dục đã học trong vài năm. Bạn nên chuẩn bị nhập học ngay từ đầu năm học của lớp tốt nghiệp của mình. Các lợi ích được thiết kế đặc biệt cho mục đích này có thể giúp người nộp đơn giải quyết vấn đề này.
+
+Năm 1973, nhà xuất bản “Vyshaya Shkola” đã xuất bản một số sách hướng dẫn như vậy để giúp đỡ những người dạy ở trường trung học. Chúng ta sẽ nói về họ bây giờ.
+
+Vì vậy, tác giả N. N. Golld-Farb đã biên soạn, phù hợp với chương trình vật lý dành cho sinh viên các khoa dự bị và đại học, một “Tuyển tập các câu hỏi và bài tập vật lý”. “Bộ sưu tập” bao gồm bài toán và các câu hỏi về tất cả các phần của chương trình khóa học vật lý; Người ta chú ý nhiều đến các tính chất vật lý và ứng dụng của chúng trong công nghệ.
+
+Nó dựa trên Hệ thống đơn vị quốc tế (SI) và cũng sử dụng các đơn vị (bên ngoài hệ thống), thường gặp trong thực tế.
+
+Sách được sử dụng tốt. Hầu hết tất cả bài toán trong bộ sưu tập đều được cung cấp giải pháp hoặc hướng dẫn chi tiết cho lời giải. Sách dày 20 tờ, phát hành 175.000 bản, giá 55 kopecks.
+
+“Bộ sưu tập các bài tập toán học cho các kỳ thi cạnh tranh trong thời gian”, do M. I. Skan biên tập, và không giống như các “Bộ sưu tập” tương tự khác, chỉ chứa những bài toán có thể được đưa ra trong các kỳ thi cạnh tranh. Mặc dù vậy, bộ sưu tập vẫn được bán miễn phí và người đăng ký có thể mua nó, nhưng người ta phải nhớ rằng không có gợi ý, chứ đừng nói đến lời giải bài toán, trong đó. “Bộ sưu tập” chứa khoảng 5.000 ví dụ mang tính cạnh tranh và bài toán, cùng bao gồm toàn bộ chương trình của kỳ thi tuyển sinh.
+
+Lời giải trong số này bài toán không yêu cầu kiến ​​thức ngoài phạm vi của chương trình này. Tuy nhiên, đối với những người không giỏi toán tiểu học sẽ khó sử dụng Bộ sưu tập. Do đó, bạn chỉ nên bắt đầu lời giải có ​​trong “Bộ sưu tập” bài toán sau khi đã nắm vững vững chắc tài liệu giáo dục.
+
+“Bộ sưu tập” được tạo ra theo gợi ý của Hội đồng Khoa học và Phương pháp Toán học của MB và Liên Xô.
+
+Tập của “Bộ sưu tập” là 30 tờ, phát hành 300.000 bản, giá 95 kopecks.
+
+Những cuốn sách này xuất hiện trong quý đầu tiên.
+
+V.V. Cuốn sách “Sổ tay Toán học dành cho Thí sinh Đại học” của Zorin làm sáng tỏ các khái niệm cơ bản của toán tiểu học.
+
+Các câu hỏi của chương trình được thảo luận với sự hiểu biết về toán tiểu học mà học sinh khó hiểu nhất và phân tích riêng các ví dụ liên quan và bài toán.
+
+Các nhiệm vụ và bài tập tương tự nhau theo thứ tự độ khó tăng dần để người đọc có thể dần dần đi sâu hơn vào bản chất của khái niệm đang được xem xét.
+
+Cuối sách có cung cấp đầy đủ chương trình thi đại học mới môn toán.
+
+Sách dày 12 tờ, phát hành 75.000 bản, giá 59 kopecks.
+
+“Tuyển tập câu hỏi và bài tập toán” của V. S. Solomonka dành cho học sinh vào các cơ sở giáo dục trung học chuyên nghiệp. Nó xem xét các câu hỏi cơ bản về lập luận, đại số và hình học mà những người tham gia vào lĩnh vực kỹ thuật yêu cầu. Trước một số phần có phần phê bình thông tin từ lý thuyết; những lỗi sai của học sinh được loại bỏ. “Bộ sưu tập” bao gồm các câu hỏi và bài toán được cung cấp trong các bài kiểm tra vấn đáp và viết về kỹ thuật. Hầu hết chúng đều được cung cấp chi tiết lời giải và gợi ý.
+
+Đối với những học sinh có sự chuẩn bị tốt, bài toán khó hơn sẽ được đưa vào, được đánh dấu bằng dấu hoa thị.
+
+Sách dày 15 tờ, phát hành 50.000 bản, giá 67 kopecks.
+
+Những cuốn sách này sẽ ra mắt vào quý hai.
+
+L. G. Kuznetsova

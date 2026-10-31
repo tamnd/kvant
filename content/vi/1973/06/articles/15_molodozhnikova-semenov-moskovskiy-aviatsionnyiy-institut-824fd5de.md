@@ -1,0 +1,86 @@
+---
+id: 1973-6-molodozhnikova-semenov-moskovskiy-aviatsionnyiy-institut-824fd5de
+issue: kvant_1973_6
+year: 1973
+number: "6"
+title: Viện Hàng không Moscow
+authors:
+  - Молодожникова Р. Н.
+  - Семёнов И. И.
+rubric: raznoe
+rubric_sub: Разное
+page_first: 61
+page_last: 61
+page_labels: "59"
+tag: BECP
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: cd75e3ce98af39c280dfb43b58aa82ddedbe3bf075fd84105d209e0f279ca904
+prompt_sha256: draft-1
+translated_from: content/ru/1973/06/articles/15_molodozhnikova-semenov-moskovskiy-aviatsionnyiy-institut-824fd5de.md
+source_content_sha256: 5185091874042be9a9ceca8b9d0dafe165353438692e93f7e79c1bd67dd1858c
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 59⟧
+
+Một chức năng điển hình của một kỹ sư toán học: trong một nhóm, anh ta cùng với các kỹ sư chung của các hồ sơ có liên quan, chẳng hạn như các nhà phát triển ACS, giải quyết các điều khiển kỹ thuật bài toán hoặc bài toán cụ thể. Đồng thời, đóng góp sáng tạo chính của kỹ sư toán học là phát triển các thuật toán phân tích tính toán có thể chấp nhận được.
+
+Một chức năng phức tạp và khó khăn hơn của kỹ sư toán học là xây dựng các mô hình toán học, chẳng hạn như các quy trình công nghệ. Bằng cách “chơi” các biến thể khác nhau của mô hình toán học trên máy tính, kỹ sư toán học có thể chọn mô hình tối ưu, tức là mô hình tốt nhất trong các điều kiện nhất định. Ở đây, chỉ kiến ​​thức về toán ứng dụng thôi là chưa đủ. Một số kiến ​​thức kỹ thuật là bắt buộc, vốn không được cung cấp bởi các trường đại học đào tạo ra các nhà toán học “thuần túy”.
+
+Và tất nhiên, một kỹ sư toán học phải có khả năng lập trình trên máy tính trong thời hiện đại.
+
+V. K. Saulev
+
+Viện Hàng không Moscow
+
+MAI có bảy khoa. Đó là Khoa Máy bay, Khoa Lắp đặt Máy bay, Khoa Kỹ thuật Máy bay và Trực thăng (các chuyên ngành: kỹ thuật máy bay, kỹ thuật trực thăng, động lực thủy động lực), khoa Động cơ máy bay (chuyên ngành: động cơ hàng không), khoa Hệ thống điều khiển tự động máy bay (chuyên ngành: chế tạo dụng cụ máy bay, động lực thủy động lực học), Khoa Thiết bị, Hệ thống điều khiển tự động, máy tính điện tử, toán ứng dụng), Khoa Kỹ thuật Vô tuyến (chuyên ngành: kỹ thuật vô tuyến, thiết kế và sản xuất thiết bị vô tuyến), Khoa Kinh tế và Tổ chức Sản xuất Máy bay. (chuyên ngành: hệ thống điều khiển tự động, kinh tế và tổ chức ngành cơ khí, tổ chức cơ giới hóa xử lý thông tin kinh tế).
+
+Có một bộ phận dự bị tại MAI.
+
+Dưới đây chúng tôi trình bày các lựa chọn điển hình cho kỳ thi tuyển sinh vào Học viện Hàng không Mátxcơva về toán và vật lý năm 1972.
+
+Mathematica
+
+Tùy chọn 1
+
+1. Giải phương trình $3^{x-1} \cdot x^2 + x (3^x - 2^x) = 2 (2^x - 3^{x-1})$.
+
+2. Chứng minh rằng trong tam giác bất kỳ $ABC$
+
+$$h_a = 2p \frac{\sin B/2 \cdot \sin C/2}{\cos A/2},$$
+
+trong đó $h_a$ là chiều cao bị bỏ qua khỏi đỉnh $A$, $2p$ là chu vi của tam giác.
+
+3. Giải phương trình
+
+$$\log_{\sin x} \frac{1}{4} (4\sin x - \cos x) = 3.$$
+
+4. Khoảng cách giữa các thành phố $A$ và $B$ là 60 km. Hai chuyến tàu khởi hành cùng lúc: một chuyến từ $A$ đến $B$, chuyến còn lại từ $B$ đến $A$. Một đoàn tàu đi từ $A$ đến $B$, đi được 20 km, dừng nửa giờ, rồi đi xa hơn và sau 4 phút gặp một đoàn tàu đi từ $B$ đến $A$. Cả hai chuyến tàu đều đến đích cùng một lúc. Xác định tốc độ tàu.
+
+5. Đỉnh của tứ giác đều paramid nằm ở tâm của mặt hình lập phương, đáy của nó nằm trong mặt phẳng của mặt đối diện và các cạnh của đáy paramid bằng $2\sqrt{2}$ cm, song song với các đường chéo của đáy hình lập phương. Tìm thể tích của phần paramid nằm trong hình lập phương nếu cạnh của hình lập phương là 1 cm.
+
+Tùy chọn 2
+
+1. Xây dựng phương trình bậc hai với các hệ số thực nếu một trong các nghiệm $z = a + bi (b \geq 0)$ thỏa mãn phương trình
+
+$$(z + 2i)^2 + 4z - 4i\bar{z} + 17 = 0,$$
+
+Ở đâu
+
+$$\bar{z} = a - bi.$$
+
+2. Tại giá trị thực $b$ của hệ thống
+
+$$\begin{cases} x^2 - 2x + y^2 = 0, \\ y - ax + ab = 0 \end{cases}$$
+
+có lời giải thực cho bất kỳ $a$ thực nào không?
+
+3. Chứng minh rằng $tg(\alpha + \beta) = 4tg\beta$ nếu $5\sin \alpha = 3\sin (\alpha + 2\beta)$.
+
+4. Trong tam giác $ABC$, cạnh $AB$ bằng $c$ và các bisserris bên trong tam giác có góc $A$ cắt các cạnh $BC$ tại điểm $D$ sao cho $DA = DB$. Tìm độ dài cạnh $BC$.
+
+5. Hình cầu tiếp xúc với tất cả các cạnh bên của lăng trụ tứ giác đều và đáy của nó. Tìm tỉ số giữa diện tích bề mặt của hình cầu nằm trong lăng kính và diện tích toàn phần.

@@ -1,0 +1,45 @@
+---
+id: 1973-3-zvukovaya-orientatsiya-u-delfinov-47707e6e
+issue: kvant_1973_3
+year: 1973
+number: "3"
+title: Định hướng âm thanh ở cá heo
+rubric: smes
+page_first: 23
+page_last: 23
+page_labels: "21"
+tag: A0UR
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 6afbb19abb725eb64ce290aa534ee33604c3cb35c3137bb5f8fcf049b7e799c5
+prompt_sha256: draft-1
+translated_from: content/ru/1973/03/articles/06_zvukovaya-orientatsiya-u-delfinov-47707e6e.md
+source_content_sha256: ff7817d393c240c97fc81b12d59b34a556f2c3278b6e6ce782d5c479fecd9546
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 21⟧
+
+Khuôn mặt. Chúng tôi cung cấp các phép tính (đơn giản hơn so với quả bóng) cho người đọc và chỉ trình bày kết quả: $t_1 \sim \frac{l}{u}, F_1 \sim ER^2 \frac{v}{u}$. Lực tương tác khi các hình trụ va chạm hóa ra lớn hơn khi các quả bóng va chạm: $\frac{F_1}{F} \sim \left(\frac{u}{v}\right)^{1/5}$, và thời gian tại $l \sim R$ nhỏ hơn: $\frac{t_1}{t} \sim \left(\frac{v}{u}\right)^{1/5}$. Đối với trụ bàn, tốc độ tiêu chuẩn là $5 \text{ cm/s}$, $\left(\frac{u}{v}\right)^{1/5} = 10$. Xin vui lòng, sự khác biệt thú vị nhất giữa những kết quả này và ước tính cho quả bóng là sự độc lập của thời gian $t_1$ với tốc độ chuyển động của hình trụ.
+
+Tuy nhiên, cần phải nhớ rằng hiện tượng xảy ra khi các thanh va chạm phức tạp hơn nhiều so với khi các quả bóng va chạm. Một vùng bị biến dạng có thể giãn nở trong một chất không phải ngay lập tức mà ở tốc độ âm thanh, có độ lớn bằng $u$. Do đó, nó bao phủ các thanh trong thời gian $\sim \frac{l}{u}$, tức là trong suốt thời gian va chạm, sóng nén truyền dọc theo các thanh.
+
+Khi các quả bóng va chạm, sự biến dạng lan đến các khu vực “lò xo” trong thời gian $\tau \sim \frac{r}{u} \sim \frac{R}{u}\left(\frac{v}{u}\right)^{2/5}$, nhỏ hơn nhiều so với thời gian va chạm $t: \frac{\tau}{t} \sim \left(\frac{v}{u}\right)^{3/5} \ll 1$. Do đó, giả sử rằng sự biến dạng lan truyền đến các vùng “lò xo” ngay lập tức (đó là những gì chúng ta đã làm).
+
+Lúc chia tay
+1. Đánh giá $t$ và $F$ cho quả bóng cao su có bán kính $R = 1 \text{ cm}$, tốc độ tiêu chuẩn $v = 10 \text{ cm/s}$. Đối với lốp xe $E \sim 10^6 \text{ h/m}^2, \rho = 10^3 \text{ kg/m}^3$.
+2. Hãy ước tính thời gian một quả bóng đá tốt chạm vào tường.
+3. Một quả bóng cao su có vận tốc $v_0$ đập vào hai quả bóng thép có cùng khối lượng đang chạm nhau. Tâm của tất cả các quả bóng nằm trên cùng một đường thẳng. Vận tốc của quả bóng sau va chạm là bao nhiêu?
+
+Định hướng âm thanh ở cá heo
+
+Cuộc chinh phục Đại dương Thế giới của cá heo được tạo điều kiện thuận lợi rất nhiều nhờ tốc độ và khả năng định hướng âm thanh của chúng cũng như sự xuất hiện của sóng siêu âm phát triển xuất sắc, cho phép chúng di chuyển hoàn hảo trong môi trường nước. Trong số các cơ quan cảm giác ở động vật giáp xác, thính giác phát triển tốt nhất. Âm thanh đối với động vật có vú sống dưới nước là nguồn thông tin quan trọng nhất, vì rung động âm thanh truyền trong nước nhanh hơn gần 5 lần so với trong không khí. Động vật giáp xác không chỉ cảm nhận được âm thanh mà còn cả sóng hạ âm và siêu âm (lên đến 170 kHz), nằm xa tai mục tiêu nhạy cảm.
+
+Các tín hiệu do cá heo phát ra được immi sử dụng để liên lạc với họ hàng của chúng và để định hướng dựa trên âm thanh phản xạ (định vị bằng tiếng vang).
+
+Sử dụng tín hiệu định vị bằng tiếng vang, cá heo có thể di chuyển trong không gian với độ chính xác cao, vui đùa trong các bãi mìn, xác định độ sâu của đáy và khoảng cách của bờ, tính chất khác nhau của đất, kích thước và chất lượng của các vật thể ngập nước. Hiệu quả của sóng siêu âm ở cá heo đã được nghiên cứu kỹ lưỡng trong bể cá. Nhà thủy âm học Liên Xô N.A. Dubrovsky đã chỉ ra rằng một con cá heo mũi chai “bị mù” (có hốc mắt đặc biệt) phân biệt một cách đáng tin cậy một quả bóng chì có đường kính 5 cm với một quả bóng thép có cùng kích thước từ khoảng cách 11 m và một quả bóng thép từ một quả bóng dioral ở khoảng cách 8 m. Các nghiên cứu ở Mỹ của Evans và Pauzl đã chứng minh khả năng của một con cá heo “mù” có thể phân biệt được hai tấm giống hệt nhau gồm các kim loại khác nhau hoặc cùng một kim loại nhưng có độ dày khác nhau. Cá heo “bị mù” trong bể cá có thể tự do bơi lội, máy siêu âm và máy định vị bằng tiếng vang cỡ nhỏ, các thiết bị nhỏ để định hướng cho người mù khi họ đi dọc các đường phố trong thành phố và sẽ dẫn đến việc thực hiện đánh giá về khả năng sử dụng cá heo trong tương lai của con người, trong nghiên cứu biển của mình.
+
+(Trích bài viết “Cá heo và khoa học” của A. G. Tomilin, đăng trong kỷ yếu quốc tế “Tương lai của khoa học” năm 1972)

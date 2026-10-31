@@ -1,0 +1,74 @@
+---
+id: 1973-2-smolyanskiy-novyie-knigi-7770120c
+issue: kvant_1973_2
+year: 1973
+number: "2"
+title: Sách mới
+authors:
+  - Смолянский М. Л.
+rubric: raznoe
+rubric_sub: Разное
+page_first: 76
+page_last: 76
+page_labels: "74"
+tag: WJS7
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: d1cb5124be5f5072befc964019c8deed7011e380bca5095098039a1827747adc
+prompt_sha256: draft-1
+translated_from: content/ru/1973/02/articles/20_smolyanskiy-novyie-knigi-7770120c.md
+source_content_sha256: 6c997ae3d0aa927e83986f3196c8e19d58e2a4efbee1447d4937997c73248319
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 74⟧
+
+Sách mới
+
+Bắt đầu từ số này, chúng tôi sẽ cung cấp những bản tóm tắt ngắn gọn về những cuốn sách xuất bản năm 1973 mà độc giả của chúng tôi quan tâm.
+
+Những cuốn sách sau đây sẽ được xuất bản vào quý 1 năm 1973 (có thể đặt hàng qua các cửa hàng Book by Mail).
+
+Toán học
+Nhà xuất bản "Khoa học"
+1. Gel fand I.M., Glagoleva E.G., Kirillov A.A., tọa độ Metsd. (Khối lượng 5 l., phát hành 200.000 bản, giá 13 kopecks.)
+Cuốn sách được dành để trình bày một trong những khái niệm cơ bản của toán học - phương pháp tọa độ. Sử dụng nhiều ví dụ được chọn lọc kỹ càng, các tác giả cho thấy khái niệm này “hoạt động” như thế nào trong toán học.
+
+Cuốn sách dành cho học sinh lớp 8–10 yêu thích môn toán.
+2. Gradshtein I.S., Định lý trực tiếp và nghịch đảo. (Tập 7 l., phát hành 50.000 bản, giá 23 kopecks.)
+Cuốn sách xem xét các vấn đề riêng lẻ của logic toán học liên quan đến môn toán ở trường (điều kiện cần và đủ, định lý dương và nghịch, chứng minh bằng phản chứng, v.v.).
+Bằng cách phân tích một số ví dụ cụ thể, tác giả cho thấy các khái niệm khá tinh tế về logic toán học và lý thuyết tập hợp có thể được sử dụng trong nghiên cứu toán học phổ thông.
+
+3. Wachman F., Schmidt E., công nhân đã nghỉ hưu. (Khối 10 l., phát hành 30.000 bản, giá 74 kopecks.)
+Cuốn sách rất nổi tiếng, dựa trên các tài liệu từ toán học cơ bản và đưa ra một lý thuyết thường thiết lập mối liên hệ hoàn toàn bất ngờ giữa hình học và đại số hiện đại.
+Một số lượng lớn bài toán được đặt trong sách giúp ích rất nhiều cho việc nắm vững tài liệu được trình bày.
+Cuốn sách dễ tiếp cận và được nhiều độc giả quan tâm, kể cả học sinh lớp 8-10.
+
+Vật lý
+Nhà xuất bản "Khoa học"
+4. Nhà vật lý đang nghĩ về điều gì? Số 9. (Khối 14 tờ, phát hành 50.000 bản, giá 70 kopecks)
+Bộ sưu tập các bài viết đã dịch này được dành cho các vấn đề của vật lý hạt cơ bản. Bộ sưu tập bao gồm các bài báo khoa học phổ biến, tác giả là những nhà khoa học nổi tiếng làm việc sáng tạo trong lĩnh vực vật lý lý thuyết và thực nghiệm.
+Bộ sưu tập dành cho nhiều đối tượng độc giả, bao gồm cả học sinh trung học.
+5. Grebennikov E. A., Nikolai Konernik. (Tập 6 l., phát hành 25.000 bản, giá 22 kopecks.)
+Cuốn sách trình bày dưới dạng phổ biến các sự kiện, sự kiện và ý tưởng chính gắn liền với sự xuất hiện của lý thuyết Konernik.
+Cuốn sách dành cho nhiều đối tượng độc giả.
+6. Shklovsky I. S., Vũ trụ, bản sao.
+
+trí thông minh. (Khối lượng 22 tờ, phát hành 50.000 bản, giá 1 rúp 20 kopecks)
+Cuốn sách đề cập đến một vấn đề hấp dẫn - sự tồn tại của các nền văn minh được du nhập. Nó cũng trình bày các vấn đề chính của thiên văn học hiện đại một cách toàn diện và phổ biến.
+Cuốn sách dành cho học sinh trung học.
+7. Gurevich V.Z., Năng lượng của ánh sáng vô hình. (Quyển 8 l., phát hành 25.000 bản, giá 50 kopecks.)
+Cuốn sách này là tia hồng ngoại Sib. Về cách chúng giúp điều khiển tên lửa và vệ tinh, tạo bản đồ hành tinh, cách chúng có thể được sử dụng để giải mã thành phần của một chất chưa biết và nhiều ví dụ khác về việc sử dụng các tia này.
+Cuốn sách dành cho học sinh và độc giả.
+8. Ostrovsky Yu. I., Holodraffy và ứng dụng của nó. (Quyển 8 l., phát hành 30.000 bản, giá 60 kopecks.)
+Holodraffy là một phương pháp mới đang phát triển nhanh chóng để ghi và khôi phục sóng ánh sáng và sóng âm. Cuốn sách phác thảo những điều cơ bản về lý thuyết và kỹ thuật thử nghiệm sử dụng giọng nói.
+Cuốn sách dành cho học sinh và độc giả.
+
+Nhà xuất bản "Atomizat"
+9. Kedrov V., Irene và Frederic Jollu-Curie. (Tập 9 l., phát hành 90.000 bản, giá 29 kopecks.)
+Cuốn sách dưới hình thức sinh động và phổ biến giới thiệu cuộc đời và công trình khoa học của hai nhà khoa học nổi tiếng người Pháp Irène và Frédéric Jollus-Curie.
+Cuốn sách dành cho hầu hết độc giả là học sinh.
+M. L. Smolyansky

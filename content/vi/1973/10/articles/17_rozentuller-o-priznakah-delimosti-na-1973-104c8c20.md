@@ -1,0 +1,69 @@
+---
+id: 1973-10-rozentuller-o-priznakah-delimosti-na-1973-104c8c20
+issue: kvant_1973_10
+year: 1973
+number: "10"
+title: Về dấu hiệu chia hết năm 1973
+authors:
+  - Розентуллер В. М.
+rubric: smes
+page_first: 62
+page_last: 62
+page_labels: "60"
+tag: MAC9
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: ec532026ded241772b1be046d4c087566ccdeaf5fee0b756e7cdece03f928e95
+prompt_sha256: draft-1
+translated_from: content/ru/1973/10/articles/17_rozentuller-o-priznakah-delimosti-na-1973-104c8c20.md
+source_content_sha256: 87596df2edf696c1b3bcf0b6c4ffd618fcc49f028341f4fca322eafc1936f7dd
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 60⟧
+
+nick từ cạnh bên a và góc đỉnh α. Các cạnh bên xuất phát từ đỉnh của góc α cũng tạo thành một góc α với mặt phẳng đáy. Xác định các tham số âm lượng nếu các cạnh giao nhau của nó vuông góc.
+
+Các tham số của đỉnh S được chiếu lên mặt phẳng đáy tại giao điểm các đường cao của tam giác ABC (xem câu 6). Dễ dàng tìm được diện tích tam giác ABC (Hình 9): $S = \frac{1}{2} a^2 \sin \alpha$. Tiếp theo, từ $\triangle ABK$ chúng ta tìm thấy: $AK = a \cos \alpha$, từ $\triangle AOK: AO = \frac{AK}{\cos \alpha} = \frac{a \cos \alpha}{\cos \alpha}$ và từ $\triangle AOS: OS = AO \cdot tg \alpha = 2a \sin \frac{\alpha}{2}$, từ đâu $V_{SABC} = \frac{1}{3} a^3 \sin \alpha \cdot \sin \frac{\alpha}{2}$.
+
+bạn đang làm việc
+1. Hình thành một phát biểu, phát biểu ngược lại 1-6. Những tuyên bố ngược lại này có đúng không?
+2. (MSU, cơ chế, 1961). Trong tham số hình tam giác, chiều cao được vẽ từ đỉnh rơi vào giao điểm của các đường cao của tam giác nằm ở đáy. Chứng tỏ rằng tất cả các tham số chiều cao được thả từ các đỉnh của đáy tới các mặt bên cũng có cùng tính chất.
+3. (MSU, cơ chế, 1962). Trong tham số tam giác SABC, đường cao hạ xuống từ đỉnh S đi qua giao điểm các đường cao của tam giác ABC. Ngoài ra, người ta biết SB = b, SC = c, $\angle BSC = 90^\circ$. Tìm tỉ số diện tích các mặt ASB và ASC.
+4. (MSU, nhà vật lý, 1966). Ở đáy của các tham số là một hình tam giác đều có cạnh a. Một trong các mặt của tham số vuông góc với mặt phẳng của đế. Khuôn mặt này là một tam giác cân có cạnh bên b và $b \neq a$. Tìm diện tích của tham số tiết diện là hình vuông.
+5. (MSU, cơ chế, 1971). Tất cả các mặt của các tham số hình tam giác đều là các tam giác cân bằng nhau và chiều cao của các tham số trùng với chiều cao của một trong các mặt bên của nó. Tìm các tham số âm lượng nếu khoảng cách giữa các cạnh đối diện lớn nhất bằng một.
+6. Đáy của hình tam giác có một tam giác cân có cạnh $\sqrt{11}$ cm. Xác định thể tích của hình nếu cạnh bên của nó là 6 cm và một trong các đỉnh của đáy trên cách các đỉnh đối diện của đáy dưới 5 cm.
+
+Về dấu hiệu chia hết năm 1973
+
+Tôi ký. Gạch bỏ chữ số cuối cùng của số và thêm vào số kết quả tích của chữ số bị gạch bỏ với 592. Nếu số kết quả chia hết cho 1973 thì số ban đầu chia hết cho 1973. Thực hiện liên tục thao tác này, chúng ta sẽ có số có bốn chữ số.
+
+Ví dụ. 2.430.736 có chia hết cho năm 1973 không?
+1) 243 073+592·6=
+=243 073+3552=246 625,
+2) 24 662+592·5=
+=24 662+2960=27 622,
+3) 2762+592·2=
+=2762+1184=3946.
+Số 3946 chia hết cho năm 1973. Do đó, 2.430.736 chia hết cho năm 1973.
+
+dấu hiệu II. Gạch bỏ số cuối cùng. Nhân số còn lại với 3 rồi trừ tích của chữ số bị gạch cho 197. Nếu số thu được chia hết cho 1973 thì số ban đầu chia hết cho 1973.
+
+Ví dụ. 2.430.736 có chia hết cho năm 1973 không?
+1) 243 073·3—197·6=
+=729 219—1182=728 037,
+2) 72 803·3—197·7=
+=218 409—1379=217 030,
+3) 21703·3—197·0=
+=65 109,
+4) 6510·3—197·9=
+19 530—1773=17 757,
+5) 1775·3—197·7=
+=5325—1379=3946,
+6) 394·3—197·6=
+0. Do đó, 2.430.736 được chia cho năm 1973.
+
+V. M. Rosenutler

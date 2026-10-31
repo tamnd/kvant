@@ -1,0 +1,65 @@
+---
+id: 1973-4-kogan-veroyatnostnyie-zadachi-9f84f6bc
+issue: kvant_1973_4
+year: 1973
+number: "4"
+title: Xác suất bài toán
+authors:
+  - Коган Б. Ю.
+rubric: raznoe
+page_first: 61
+page_last: 61
+page_labels: "59"
+tag: YCRV
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 1a75b09469b2a45029bafd9001f5f0ea4e83a5fd60deb382f81ab4efa55a4a48
+prompt_sha256: draft-1
+translated_from: content/ru/1973/04/articles/17_kogan-veroyatnostnyie-zadachi-9f84f6bc.md
+source_content_sha256: 9ee1959fc5c95e1de2722bb0d9c447862d8b5cfb40dba2e6a5191b7e20aed042
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 59⟧
+
+Bài 7. Các chữ số của số nguyên tố có ba chữ số hay bốn chữ số tạo thành một cấp số cộng có hiệu dương? Nếu modum mà tìm hết các số cũng được.
+
+Lời giải. Giả sử các chữ số của một số tạo thành một cấp số cộng.
+
+Đối với số có ba chữ số, tổng của chữ số $x, x+d, x+2d$ bằng $S = x + (x+d) + (x+2d) = 3x + 3d$ và chia hết cho 3, nghĩa là số tạo thành từ các chữ số này chia hết cho 3 và không thể là số nguyên tố.
+
+Đối với số có bốn chữ số, tổng của chữ số $x, x+d, x+2d, x+3d$ bằng
+$$x + x + d + x + 2d + x + 3d = 2(2x + 3d).$$
+
+$x$ không thể bằng 3 nên khi đó ta sẽ có một số chia hết cho 3. Vì $x + 3d$ là một chữ số của một số nên $x + 3d \leqslant 9$ và $d$ có thể bằng 2 hoặc 1.
+
+Hãy để $d = 2$. Sau đó $x \leqslant 3$; $x = 3$ không phù hợp; $x = 2$ cũng không phù hợp vì kết quả là số chẵn; với $x = 1$ ta được hợp số 1357.
+
+Hãy để $d = 1$. Xét các số 1234, 2345,..., 6789, ta tìm thấy trong số đó có một số nguyên tố 4567.
+
+Nhấn mạnh
+1. Tổng của ba số tạo thành một cấp số nhân là 26. Nếu cộng các số 1, 6 và 3 tương ứng vào các số này, chúng ta sẽ được ba số tạo thành một cấp số cộng. Tìm số ban đầu.
+2. Chứng minh rằng trong một cấp số cộng giữa hai số hạng liên tiếp, có thể đặt $k$ số sao cho toàn bộ dãy tạo thành một cấp số cộng.
+3. Các số $\sqrt{3}, 2$ và $\sqrt{8}$ có thể là thành viên của một cấp số cộng không?
+4. Tìm tổng các số hạng $n$ đầu tiên của dãy
+   7, 77, 777, ...
+5. Tính tổng
+   $$1^2 - 2^2 + 3^2 - 4^2 + \dots + (-1)^{m-1} m^2.$$
+6. Đối với $x$ thì các số $\lg 2, \lg (2^x - 1)$ và $\lg (2^x + 3)$, được lấy theo thứ tự đã cho, tạo thành một cấp số cộng?
+
+Xác suất bài toán
+
+1. Hộp thứ nhất chứa 50 quả bóng trắng, hộp thứ hai chứa 10 quả bóng trắng và 10 quả bóng đen. Ai đó lấy một quả bóng từ hộp bất kỳ. Xác suất để quả bóng anh ta lấy có màu trắng là bao nhiêu? Giải được bài toán, học sinh nói: “Vì có 60 quả bóng trắng và 10 quả bóng đen nên xác suất cần tìm là 6/7”. Điều này có đúng không?
+
+2. (Vấn đề của Pascal). Hai người chơi có kỹ năng ngang nhau chơi một trò chơi không có kết quả. Họ đặt cược bằng nhau và điều kiện là người có số ván thắng bằng nhau là 10 ván sẽ nhận được toàn bộ số tiền. Trận đấu bị lật lại lúc 9:8 và không thể tiếp tục. Họ nên chia tiền như thế nào?
+
+3. Được biết, gia đình Neokot có hai người con, một trong số đó là con trai. Điều gì có nhiều khả năng hơn: đứa con thứ hai là trai hay gái?
+
+4. Có số lượng bóng không giới hạn: một bóng có số 1, một bóng khác có số 2, bóng thứ ba có số 3, v.v. Người chơi $A$ và $B$ lấy từng quả bóng một và nhìn vào số của chúng. Người chiến thắng là người lấy được quả bóng có số thấp hơn.
+
+Cùng xem cơ hội chiến thắng của người chơi là bao nhiêu nhé $A$. Giả sử anh ta trừ số bóng $k$. Vì có hữu hạn số nhỏ hơn $k$ và vô số số lớn hơn $k$, nên khả năng thắng của người chơi $A$ cao hơn nhiều so với khả năng thua. Nhưng vì lý do tương tự này có thể được chứng minh đối với người chơi $B$, nên chúng tôi đi đến kết luận rằng mỗi người chơi đều có lợi thế đáng kể so với người kia. Tại sao điều này xảy ra?
+
+B. Yu. Kozan

@@ -1,0 +1,33 @@
+---
+id: 1973-7-krossvord-16eb8c30
+issue: kvant_1973_7
+year: 1973
+number: "7"
+title: trò chơi ô chữ
+rubric: smes
+page_first: 68
+page_last: 68
+tag: WBBO
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 694b765a1319af6c8471135d2ac3bc8434b83bfe4548c1e3086562d1989229f9
+prompt_sha256: draft-1
+translated_from: content/ru/1973/07/articles/01_krossvord-16eb8c30.md
+source_content_sha256: f2591467fa44275cc5a74a47ef2a484b6aa85f33d8f6613777a1bc0a4ede13e6
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 55⟧
+
+Ô chữ
+
+Nằm ngang
+
+3. Khối khoáng nóng chảy. 4. Nhà thám hiểm Bắc Cực. 6. Đo độ không đảm bảo. 8. Nguồn âm thanh. 13. Thất bại ngoài ý muốn. 15. Đơn vị đo áp suất. 17. Tinh thể nước. 19. Hiện tượng quang học khí quyển. 20. Lỗi. 21. Các khái niệm cơ bản dùng trong đo lường và kế toán. 22. Nhà toán học người Pháp thế kỷ 18, người viết công trình khoa học đầu tiên ở tuổi 12. 23. Tập hợp số thực. 25. Kết luận. 26. Chuyên môn về một trong những lĩnh vực toán học còn non trẻ. 27. Hạt khoáng chất. 31. Đo chiều dài. 32. Tác dụng của lực lên một bề mặt. 37. Nhà vật lý người Anh, một trong những người sáng lập cơ học lượng tử. 39. Loại năng lượng. 41. Nhà toán học người Drenegreek. 43. Loại mâu thuẫn. 45. Điều kiện hoạt động được chỉ định của thiết bị. 46. ​​​​Phác thảo. 47. Nhà toán học người Anh đã giới thiệu dấu bằng. 48. Chia hạt nhân thành các phần cấu thành của nó. 49. Phần thưởng của người chiến thắng. 50. Nhà vật lý người Đức. 51. Vật lý hình học. 56. Nhà vật lý người Ý thế kỷ 19. 57. Dải tế bào Galvanic. 58. Nhà vật lý kiệt xuất người Đức. 59. Một nhóm các nhà khoa học và kỹ sư Liên Xô học năm 1932-1934. lực đẩy phản lực.
+
+Thẳng đứng
+
+1. Khoáng chất. 2. Ký hiệu viết số. 3. Nhà vật lý người Nga nghiên cứu quá trình chuyển hóa điện năng thành nhiệt năng. 5. Kết quả. 7. Dự đoán. 9. Lộ trình đi theo. 10. Tính toán phụ trợ. 11. Phần phân số của logarit thập phân. 12. Sự tương đồng. 13. Đặc tính lượng tử của hạt cơ bản. 14. Sloop để quan sát khí tượng, xây dựng ở Nga thế kỷ 19. 16. Loại thay đổi. 18. Đơn vị đo tần số rung động. 23. Hằng số. 24. Thay đổi các thông số dao động điện vật lý cao trong thông tin vô tuyến. 27. Một bộ đầu máy và valon được đặt hàng. 28. Tần số giả thuyết với điện tích phân số. 29. Nhà khoa học người Anh, một trong những người sáng tạo ra lý thuyết sóng ánh sáng. 30. Nhà vật lý người Pháp thế kỷ 19, nhà nghiên cứu từ trường. 33. Phẩm chất cần thiết cho hoạt động sáng tạo. 34. Người phát minh ra cột thu lôi. 35. Tổ hợp cơ khí. 36. Máy bay. 38. Đơn vị đo góc. 40. Phong vũ biểu bằng kim loại. 41. Pin hoặc ắc quy điện. 42. Thương hiệu tivi. 44. Một vòng tròn được chia dọc theo chu vi của nó cho một độ. 52. Rung động do tai cảm nhận. 53. Tuy nhiên, ngay từ sự mở đầu đầu tiên của loài người. 54. Mực nước biển dâng. 55. Khinh khí tượng.

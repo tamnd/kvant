@@ -1,0 +1,107 @@
+---
+id: 1973-12-novikova-streltsov-poligon-logicheskih-struktur-002518ec
+issue: kvant_1973_12
+year: 1973
+number: "12"
+title: Đa giác của cấu trúc logic
+authors:
+  - Новикова Л.
+  - Стрельцов В.
+rubric: informatsiya
+rubric_sub: Информация
+page_first: 48
+page_last: 49
+page_labels: 46-47
+tag: ZPBN
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: c7a8918ed1553ee1ac91072972228c69712b1b8b675ba01b8abec936d99ba5c0
+prompt_sha256: draft-1
+translated_from: content/ru/1973/12/articles/14_novikova-streltsov-poligon-logicheskih-struktur-002518ec.md
+source_content_sha256: d762cf8206d4b550300b8277dbf3f361ce81206052e4b80ebe95d574439bd93c
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 46⟧
+
+ĐA GIÁC
+CẤU TRÚC LOGIC
+
+L. Novikova V. Streltsov
+
+Vào tháng 5 năm 1973, lễ kỷ niệm Học viện Khoa học Nhỏ Liên Xô dành cho học sinh Crimea (《Seeker》), năm nay tròn 10 tuổi, đã diễn ra.
+
+MAN là hiệp hội lớn đầu tiên ở nước ta dành cho sinh viên quan tâm đến khoa học và công nghệ, những sinh viên muốn đào sâu kiến ​​thức thu được ở trường. MAN không chỉ có các bộ phận toán học, vật lý, hóa học, thiên văn học và sinh học tương ứng với các môn học ở trường mà còn có bộ phận khảo cổ học, kỹ thuật và kỹ thuật, bộ phận báo chí, thư viện và các bộ phận khác. Các lớp học được giảng dạy ở đó bởi các nhân viên của các viện nghiên cứu của Viện Hàn lâm Khoa học Cộng hòa Xã hội chủ nghĩa Xô viết Ukraina và các trường đại học khác nhau bảo trợ MAN.
+
+Những người tham gia tích cực nhất trong các cuộc thám hiểm thiên văn và khảo cổ học, những người chiến thắng các Olympic về toán học, vật lý, hóa học, sinh học, địa lý và thư viện (MAN đã tổ chức bốn lĩnh vực của Olympic trong thư viện) là những ứng cử viên được bầu và là thành viên chính thức của MAN. Các danh hiệu danh dự phải được hỗ trợ một cách có hệ thống bằng những đóng góp sáng tạo - hoặc thường là kết quả của việc quan sát động vật, các bài tiểu luận về lịch sử, một thiết bị mới, được chế tạo độc lập hoặc thành công tại một Thế vận hội.
+
+Chúng tôi là dân làng, sự sáng tạo và công việc là dành cho bạn, quê hương yêu dấu; Những lời này là phương châm của MAN, theo phương châm này cô đã nhận được chứng chỉ trúng tuyển và tiếp tục cuộc sống của mình.
+
+Để làm quen hơn với MAN, tốt nhất bạn nên nghiên cứu Điều lệ（《Seeker》，mà mọi người đều có thể nhận được bằng cách viết thư đến địa chỉ: Simferopol, p/o box 52, MAN（《Seeker》).
+
+Những tác phẩm thú vị nhất về các cuộc thám hiểm thiên văn và khảo cổ trẻ tuổi（《Người tìm kiếm》 lần đầu tiên được xuất bản trên nhiều tạp chí khác nhau. Vì vậy, năm ngoái trên trang «Kvant» bài báo “Cỗ máy đăng bài” đã được xuất bản, được viết bởi các học sinh ở Bakhchisarai, thành viên của bộ phận thư viện MAN（《Kvant》, 1972, số 5).
+
+Người đọc được cung cấp mô tả về một thiết bị hỗ trợ giảng dạy nguyên bản khác được phát triển bởi các thành viên của IAS.
+
+Ở nhiều trường học của chúng tôi, học sinh được làm quen với các yếu tố logic toán học. Thông thường, ứng dụng logic toán học cho học sinh hoặc được xây dựng bằng cách sử dụng nó cho lời giải logic bài toán. Tôi thảo luận chi tiết về cách thực hiện điều này trong bài viết của L. L. Tsinman（《Logic bài toán và đại số mệnh đề》（«Kvant», 1971, Số 4).
+
+Tuy nhiên, việc sử dụng logic toán học trong thiết kế các thiết bị logic đơn giản cũng không kém phần thú vị.
+
+Trong trường dạy các cuộc thám hiểm thiên văn và khảo cổ trẻ của chúng tôi, chúng tôi đã sử dụng một cuốn sổ tay đặc biệt cho việc này trong nhiều năm - “Polyton of Logical Structures”. Bài viết này giải thích cách cấu trúc bãi rác này và những gì có thể được thu thập với sự trợ giúp của nó.
+
+Polytoon bao gồm các phần tử logic thuộc loại “AND”, “OR” và “HE”, được tạo trên cơ sở rơle điện từ.
+
+Ký hiệu của các phần tử này được hiển thị trong Hình 1. Phần tử “AND” được sử dụng để lấy các giá trị của một tích logic. Giá trị chân lý của từng yếu tố trong số hai yếu tố được cung cấp cho đầu vào của phần tử (chúng được ký hiệu bằng chữ cái A và B) và đầu ra là kết quả của phép nhân logic.
+
+Phần tử “OR” được sử dụng để tính tổng hợp lý các giá trị của A và B. Phần tử “HE” ở cuối của nó phủ nhận tính đúng đắn của giá trị A.
+
+Các đặc điểm hoàn chỉnh về hoạt động của các phần tử này được đưa ra bởi các bảng trùng với bảng chân lý của các phép toán logic “AND”, “OR” và “HE”.
+
+Sơ đồ điện của các phần tử được thể hiện trong Hình 2.
+
+Nhấn bất kỳ nút nào trong bất kỳ phần tử nào sẽ làm cho dòng điện chạy vào cuộn dây
+
+⟦folio 47⟧
+
+Cơm. 1.
+
+"VÀ"
+| A | B | X = AB |
+| :--- | :--- | :--- |
+| 1 | 1 | 1 |
+| 1 | 0 | 0 |
+| 0 | 1 | 0 |
+| 0 | 0 | 0 |
+
+"HOẶC"
+| A | B | X = A + B |
+| :--- | :--- | :--- |
+| 1 | 1 | 1 |
+| 1 | 0 | 1 |
+| 0 | 1 | 1 |
+| 0 | 0 | 0 |
+
+"KHÔNG"
+| A | X = \bar{A} |
+| :--- | :--- |
+| 1 | 0 |
+| 0 | 1 |
+
+Cơm. 2.
+
+rơle và các tiếp điểm tương ứng đóng lại (trong phần tử “KHÔNG”, các tiếp điểm trong trường hợp này mở).
+
+Nếu bạn nhấn một nút, tín hiệu “1” (điện thế dương) sẽ được cấp cho đầu vào và miễn là nút vẫn được nhấn thì tín hiệu này ở đầu vào của phần tử sẽ được giữ. Nếu nút không được nhấn, điều này có nghĩa là tín hiệu “0” được cấp cho đầu vào của phần tử. Sự xuất hiện của điện thế dương từ nguồn hiện tại ở đầu ra của bất kỳ phần tử nào có nghĩa là có tín hiệu “1” ở đầu ra; mặt khác, tín hiệu “0”.
+
+Quan trọng. Đầu ra của bất kỳ phần tử nào có thể được kết nối với đầu vào của bất kỳ phần tử nào khác, tạo thành chuỗi hoặc cấu trúc của các phần tử. Những cấu trúc như vậy thường được gọi là `комбинационными схемами`.
+
+Một ví dụ là mạch tổ hợp được hiển thị trong Hình 3.
+
+Người đọc có thể xác minh rằng các giá trị tín hiệu tìm được ở đầu ra của X có tương ứng với các giá trị của câu lệnh sau của X hay không:
+
+$$X = A (B + C).$$
+
+Trong đa giác của chúng ta, việc kết nối các phần tử với nhau rất dễ dàng, vì vậy

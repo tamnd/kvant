@@ -1,0 +1,67 @@
+---
+id: 1973-4-rozentuller-priznaki-delimosti-dab772ed
+issue: kvant_1973_4
+year: 1973
+number: "4"
+title: Dấu hiệu của sự phân chia
+authors:
+  - Розентуллер В. М.
+rubric: raznoe
+page_first: 13
+page_last: 13
+page_labels: "11"
+tag: 9JIK
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 7ec6933f349bd717eaca3d383c45877ca7ac3f8796cbf9453353bc75e82b8438
+prompt_sha256: draft-1
+translated_from: content/ru/1973/04/articles/03_rozentuller-priznaki-delimosti-dab772ed.md
+source_content_sha256: f9eba1d25cd603e45ad5ee15e30c7fb72d69b1b473c06da427cfd31cd43ef68c
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 11⟧
+
+Việc tái cơ cấu giáo dục phổ thông hiện đang được tiến hành dưới sự lãnh đạo trực tiếp của A. N. Kolmogorov. Ông hoặc dưới sự chủ trì của mình đã xuất bản một số sách giáo khoa ổn định và thử nghiệm cho các trường trung học.
+
+Trong hai thập kỷ qua, một vị trí nổi bật trong hoạt động của A. N. Kolmogorov là công việc quản lý khoa học của một trường nội trú tại Đại học Moscow và giảng dạy ở đó. Hiện các cựu sinh viên của trường này đã tốt nghiệp cao học, bảo vệ bằng Tiến sĩ. luận văn và xuất bản nhiều bài báo khoa học xuất sắc hơn.
+
+Chính phủ Liên Xô đánh giá cao công lao to lớn của A.N. Kolmogorov với tư cách là nhà khoa học và hoạt động quần chúng, trao cho ông Giải thưởng Lênin (cùng với học trò của ông là V. I. Arnold), Giải thưởng Nhà nước, trao cho ông 4 Huân chương Lênin, Huân chương Cờ đỏ Lao động và các huân chương. Năm 1963, Andrei Nikolaevich Kolmogorov được phong tặng danh hiệu Anh hùng Lao động xã hội chủ nghĩa.
+
+Từ năm 1970, kể từ khi thành lập tạp chí của chúng tôi, Andrei Nikolaevich đã là trưởng khoa thường trực của bộ môn toán học «Kvant». Ban biên tập xin nhiệt liệt chúc mừng ngày kỷ niệm của nhà khoa học tuyệt vời.
+
+M. L. Smolyansky
+
+Dấu hiệu của sự phân chia
+
+Ở 61. Gạch bỏ chữ số cuối cùng của số này và cộng chữ số có sáu chữ số bị gạch bỏ từ số kết quả. Hãy thực hiện thao tác này vài lần và chúng ta sẽ nhận được những con số ngày càng nhỏ hơn. Nếu ở một giai đoạn nào đó kết quả bằng 0 thì số ban đầu được chia cho 61, nếu không thành công thì số đó không được chia.
+
+Ví dụ. 752886 có chia hết cho 61 không?
+
+752886—6×4=752862
+75286—6×2=75274
+7527—6×4=7503
+750—6×3=732
+73—6×2=61
+6—6×1=0.
+
+Đáp số: lượt chia sẻ.
+
+Ở mức 59. Gạch bỏ chữ số cuối cùng của số này và cộng chữ số có sáu chữ số bị gạch bỏ vào số kết quả. Hãy thực hiện thao tác này nhiều lần, một lần nữa các con số sẽ giảm dần. Nhưng bây giờ, nếu ở một giai đoạn nào đó nó trở thành 59, thì số ban đầu được chia cho 59, và nếu không ra thì nó không được chia.
+
+Ví dụ. 728355 có chia hết cho 59 không?
+
+72835+6×5=72865
+7286+6×5=7316
+731+6×6=767
+76+6×7=118
+11+6×8=59.
+
+Đáp số: lượt chia sẻ.
+
+Cố gắng chứng minh những dấu hiệu chia hết này và khái quát chúng cho các quá trình khác của số có hai chữ số (và có thể có nhiều chữ số).
+
+V. M. Rosentuler

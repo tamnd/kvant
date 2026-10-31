@@ -1,0 +1,96 @@
+---
+id: 1973-4-klyushin-universitet-druzhbyi-narodov-imeni-patrisa-lumumbyi-8af2e3f9
+issue: kvant_1973_4
+year: 1973
+number: "4"
+title: Đại học Hữu nghị Nhân dân Patrice Lumumba
+authors:
+  - Клюшин В. Л.
+rubric: raznoe
+rubric_sub: Разное
+page_first: 66
+page_last: 66
+page_labels: "64"
+tag: XW2L
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: f242b38eab0b7b0bf6a31c60cb87453845580dbe1b91928c0dd545132f6cee24
+prompt_sha256: draft-1
+translated_from: content/ru/1973/04/articles/19_klyushin-universitet-druzhbyi-narodov-imeni-patrisa-lumumbyi-8af2e3f9.md
+source_content_sha256: 095fa874dc9041f94d3416c8a290bc12e02ccc5a2eb95b7dc0e63960004f92c5
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 64⟧
+
+Đại học các quốc gia khác được phân loại là cơ sở giáo dục đại học hạng nhất. Cả công dân nước ngoài và Liên Xô đều học ở đó.
+
+Trường là thành viên của Hiệp hội các trường đại học quốc tế. Ông cộng tác với nhiều tổ chức giáo dục đại học của Liên Xô và nước ngoài, tham gia các cuộc họp và hội nghị quốc tế về các vấn đề khoa học và giáo dục.
+
+Trường có các khoa sau:
+
+— kỹ sư có chuyên ngành: “cơ khí”, “kỹ ​​thuật điện”, “xây dựng”, “địa chất và thăm dò các mỏ khoáng sản”, “phát triển các mỏ khoáng sản”;
+
+- khoa học vật lý, toán học và tự nhiên với chuyên ngành: “toán học”, “vật lý”, “hóa học”;
+
+- y tế có chuyên ngành y học tổng hợp;
+
+— nông nghiệp với chuyên ngành nông học;
+
+— kinh tế và luật với chuyên ngành: “kinh tế và lập kế hoạch kinh tế quốc gia” và “luật quốc tế”;
+
+- lịch sử và ngữ văn với chuyên ngành: “lịch sử” và “ngôn ngữ và văn học Nga”.
+
+Thí sinh sẽ thi đầu vào các môn sau:
+
+trong toán học - những người đã chọn các chuyên ngành “cơ khí”, “kỹ ​​thuật điện”, “xây dựng”, “địa chất và thăm dò các mỏ khoáng sản”, “phát triển mỏ khoáng sản”, “toán học”, “vật lý”, “hóa học”;
+
+về lịch sử, địa lý, văn học - những người đã chọn các chuyên ngành “lịch sử”, “ngôn ngữ và văn học Nga”, “kinh tế và kế hoạch hóa kinh tế quốc gia”, “luật quốc tế”. Những em chọn chuyên ngành “Kinh tế và Kế hoạch hóa kinh tế quốc dân” sẽ thi môn toán cùng với môn văn.
+
+Dưới đây chúng tôi trình bày các phương án điển hình cho kỳ thi toán năm 1972.
+
+1. Khoa Vật lý, Toán học và Khoa học Tự nhiên
+
+1. Ba đội thi đấu. Đội thứ nhất và thứ hai sản xuất số phần nhiều gấp đôi so với đội thứ ba, còn đội thứ nhất và thứ ba - nhiều gấp ba lần đội thứ hai. Ai đã thắng cuộc thi?
+
+2. Giải phương trình
+$$\sin^3 x + \cos^3 x = \sin 2x + \sin x + \cos x.$$
+
+3. Ở đáy SABCD có hình thang ABCD đều.
+
+$$AB = CD = 1/2, \quad AD = \sqrt{2},$$
+$$BC = \sqrt{2}/2, \quad SA = \sqrt{2}.$$
+
+Xác định chiều cao của trụ nếu biết các mặt SAB và SCD vuông góc với đáy.
+
+4. Giải phương trình
+$$2^{2x} + 3^{2x} - 2 \cdot 6^x + \sqrt{\log_3(x+3)} = 0.$$
+
+2. Khoa Kỹ thuật
+
+1. Ba người công nhân cùng làm chung thì xong công việc trong 6 giờ. Người thứ nhất và người thứ hai làm chung công việc đó trong 9 giờ, người thứ nhất và người thứ ba cùng làm xong công việc đó trong 12 giờ. Năng suất của người thứ hai lớn hơn năng suất của người thứ ba bao nhiêu lần?
+
+2. Giải hệ phương trình:
+$$\begin{cases} x^2 + 2^x - 2y = 1, \\ \log(2^x - y) (x + y + 1) = 1. \end{cases}$$
+
+3. Cuối cùng có một quả bóng wissan. Bán kính của đường tròn mà mặt bên của hình nón tiếp xúc với bề mặt của quả bóng là r. Bán kính của đường tròn và bán kính của quả bóng được vẽ tại một điểm trên đường tròn này. Góc giữa các bán kính này là 30°. Tìm thể tích của hình nón.
+
+4. Giải phương trình:
+$$\frac{1 - \text{ctg} 3x}{1 - \text{tg} 3x} = 4 \cos^2 \frac{3x}{2} - 2.$$
+
+3. Khoa Kinh tế và Luật
+
+1. Hai công nhân thực hiện một số công việc. Người thứ hai có mặt tại nơi làm việc muộn hơn người thứ nhất 1 giờ. 3 giờ sau khi người đầu tiên bắt đầu làm việc, họ vẫn còn 45% khối lượng công việc phải làm. Khi kết thúc công việc, hóa ra mọi người đã hoàn thành được một nửa công việc. Hỏi riêng mỗi người sẽ làm xong công việc đó trong bao lâu?
+
+2. Giải bất đẳng thức
+$$\sqrt{x^2 - 4} (x^2 - 2x - 15) \geq 0.$$
+
+3. Chu vi của hình thang đều của đầu vào lớn hơn chiều dài của vòng tròn treo. Tìm góc ở đáy của hình thang.
+
+4. Giải phương trình:
+$$2 \cos^2 x + \cos 5x - 1 = 0.$$
+
+V. L. Klyushchin

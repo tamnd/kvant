@@ -1,0 +1,52 @@
+---
+id: 1973-10-dubinskiy-novoe-dokazatelstvo-ed05884e
+issue: kvant_1973_10
+year: 1973
+number: "10"
+title: Bằng chứng mới
+authors:
+  - Дубинский Л. М.
+rubric: smes
+page_first: 15
+page_last: 15
+page_labels: "13"
+tag: DMGP
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 3cd719c9c1beb0986752ac2e1c479868888b9a1c49cd6f2ff0e6a0231ed19541
+prompt_sha256: draft-1
+translated_from: content/ru/1973/10/articles/03_dubinskiy-novoe-dokazatelstvo-ed05884e.md
+source_content_sha256: 23ef457100c14ff9191fa897a202b5052a75e2efe38268989ae77560fb15b1f2
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 13⟧
+
+làm hòa cho số phận của anh như anh đã thấy lúc đó.
+
+Sáng ngày 30 tháng 5 năm 1832, một số nông dân ở gần một ao nước ở thị trấn Gentilly tình cờ gặp một thanh niên bị thương nặng ở bụng. Người đàn ông bị thương được chuyển đến bệnh viện và qua đời vào sáng hôm sau trong vòng tay của anh trai.
+
+“Đừng khóc,” Evariste nói với anh trai mình trước khi chết, “đừng khóc.” Tôi cần phải lấy hết can đảm để chết ở tuổi hai mươi.
+
+Trong một trong những lá thư cuối cùng của mình, anh ấy viết: “Tôi sắp chết như một nạn nhân của một kẻ làm tình dưới lớp và hai kẻ lừa đảo dành riêng cho cô ấy.” Nhưng Evariste không biết tất cả mọi thứ. Cảnh sát trưởng Gisquet đã được đề cập đã nhớ lại trong “Hồi ký” của mình: “Monsieur Galya, một Resurplcan điên cuồng, đã bị một trong những người bạn của mình giết chết trong một cơn say.” Chỉ riêng sự hiểu biết này của cảnh sát trưởng đã đáng nghi ngờ. Có những sự thật khác chỉ ra rằng cuộc ngủ trưa được thiết lập đặc biệt để loại bỏ "kẻ hồi sinh giận dữ" đe dọa tính mạng của nhà vua. Rốt cuộc, trong một bức thư khác gửi cho “tất cả những người hồi sinh”, Evariste đã viết: “Làm ơn! Tôi đã hy sinh mạng sống của mình vì lợi ích của nhân dân!”
+
+Chỉ 14 năm sau cái chết của Galya, các tác phẩm của ông mới được Liville dỡ bỏ và xuất bản. Sự công nhận thậm chí còn đến muộn hơn - nhiều thế kỷ trôi qua vào những năm 70.
+
+Bây giờ cái tên Galya là một trong những cái tên phổ biến nhất trong toán học. Nhóm Galya, chính là Galya, hát Galya - thật khó để liệt kê tất cả các cụm từ có họ của anh ấy xuất hiện. Và khi đang đọc một số tác phẩm khoa học, bạn bắt gặp chữ viết tắt Gal, bạn không cần phải suy nghĩ lâu về ý nghĩa của nó: các chữ cái Gal có nghĩa là Galois - tên của một trong những nhà toán học vĩ đại nhất mọi thời đại.
+
+Bằng chứng mới
+
+Có lẽ tất cả độc giả của chúng ta đều quen thuộc với định lý về trung bình số học và trung bình hình học. Nó được phát biểu như sau: nếu có hai số dương a
+
+và b thì $\frac{a+b}{2} \geq \sqrt{ab}$, và đẳng thức đạt được khi a = b.
+
+Chúng ta hãy đưa ra một bằng chứng rất đơn giản và rõ ràng về điều đó.
+
+Hãy dựng một CDEF vuông có cạnh CD = a + b (xem hình). Bây giờ hãy giả sử rằng a ≠ b. Trên các cạnh của hình vuông tính từ các điểm C, D, E, F, ta vẽ các đoạn thẳng bằng nhau: CK = DL = EM = FN = b. Qua các điểm L, N vẽ các đường thẳng, các cạnh song song CD, qua các điểm K và M - các cạnh song song CF. Chúng ta biểu thị giao điểm của các đường này bằng R, T, S, P. Kết quả của các cách xây dựng này, chúng ta thu được RTSP hình vuông và bốn hình chữ nhật bằng nhau, sao cho diện tích của hình vuông CDEF bằng tổng diện tích của hình vuông RTSP và gấp bốn lần diện tích của hình chữ nhật KDLP.
+
+Diện tích hình vuông CDEF bằng $(a+b)^2$, diện tích hình chữ nhật bằng tích ab, ta thu được đẳng thức sau: $(a+b)^2 = 4 ab + S_{\text{RTSP}}$. Nhưng vì S_{\text{RTSP}} \geq 0 (hiển nhiên), nên $(a+b)^2 \geq 4 ab$, do đó $\frac{a+b}{2} \geq \sqrt{ab}$.
+
+L. M. Dubinsky

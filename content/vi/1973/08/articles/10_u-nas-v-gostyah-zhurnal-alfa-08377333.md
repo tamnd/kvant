@@ -1,0 +1,33 @@
+---
+id: 1973-8-u-nas-v-gostyah-zhurnal-alfa-08377333
+issue: kvant_1973_8
+year: 1973
+number: "8"
+title: Khách mời của chúng tôi là tạp chí "Alpha"
+rubric: raznoe
+page_first: 56
+page_last: 56
+page_labels: "54"
+tag: QFW2
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 8478f0793b43b3b1a017b050feb7a4b59f41ea471b224e8d78e9e2dcc3143fd9
+prompt_sha256: draft-1
+translated_from: content/ru/1973/08/articles/10_u-nas-v-gostyah-zhurnal-alfa-08377333.md
+source_content_sha256: 6119c34364241f42220f0245fe8d23224cfbd933288059a1f4052a45c4560be3
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 54⟧
+
+"Alpha" là tạp chí toán học dành cho học sinh, được xuất bản tại Cộng hòa Dân chủ Đức năm thứ bảy.
+Tạp chí được xuất bản 6 số một năm. Trong đó, cũng như trong «Kvant», nó nói về các vấn đề mà toán học đặt ra và giải quyết, xuất bản các bài toán mang tính giải trí, sự tò mò, các báo cáo về Olympic toán học ở CHDC Đức và ở một số quốc gia khác, về Olympic toán học quốc tế.
+Hầu hết các tài liệu đều có thể truy cập được ngay cả đối với học sinh lớp 5-6.
+— Để nghiên cứu sâu hơn về tài liệu học tập, “Alpha” in hàng bài toán từ số này sang số khác. Tổng biên tập tạp chí, giáo viên tài nguyên danh dự Johannes Lehmann cho biết, những học sinh giải được ít nhất bảy bài toán trong số mười sáu bài dự định cho lớp tương ứng trong năm học sẽ nhận được bằng tốt nghiệp và huy hiệu. “Và những người giành được bằng tốt nghiệp ba năm liên tiếp sẽ được trao huy hiệu vàng.”
+Tạp chí này không chỉ được học sinh ở CHDC Đức đăng ký và đọc. Tạp chí này được đọc ở Ba Lan và Áo, ở Bulgaria và Liên Xô, và không chỉ đọc mà còn tích cực tham gia vào công việc của nó. Vì vậy, học sinh lớp 9 Cornelia Tanggausser đến từ Linz (Áo) đã viết trên tờ Alpha rằng một cuộc tranh cãi đã nổ ra ở trường của các em về các khái niệm khác nhau của lý thuyết tập hợp, và tạp chí số 5 năm 1972 đã đăng bài giải thích chi tiết về nhà khoa học.
+Và Vitya Khasansky đến từ Dzerzhinsk, vùng Gorky, không chỉ thường xuyên đọc tạp chí mà còn viết bài toán; ở vị trí số 1 năm 1973, một số bài toán của ông đã được xuất bản.
+Tạp chí có thể được phát hành tại bất kỳ bưu điện nào ở Liên Xô. Chỉ số của nó là 31059, giá đăng ký là 60 kopecks. mỗi năm.
+Trong số này «Kvant» chúng tôi xuất bản các bài báo và bài toán, được các biên tập viên của tạp chí Alpha vui lòng cung cấp cho chúng tôi.
