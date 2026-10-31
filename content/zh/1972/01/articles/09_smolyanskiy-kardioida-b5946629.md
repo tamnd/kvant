@@ -1,0 +1,50 @@
+---
+id: 1972-1-smolyanskiy-kardioida-b5946629
+issue: kvant_1972_1
+year: 1972
+number: "1"
+title: 心形
+authors:
+  - Смолянский М. Л.
+rubric: smes
+page_first: 34
+page_last: 34
+page_labels: "32"
+tag: DB1E
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: e4b6ec10a729b8eaaeb1805d15ebc5e56dbbdbd72b61bc7dff6cbf652eb9494a
+prompt_sha256: draft-1
+translated_from: content/ru/1972/01/articles/09_smolyanskiy-kardioida-b5946629.md
+source_content_sha256: 0f2c25d17344c180f3876f0e51bdfe0a34d8f198ed59172ecf9f7ed2dbd243de
+translation_model: draft
+translation_run: zh-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 32⟧
+
+心形
+
+封面第一页上描绘的图形代表一条替换曲线 - 心形曲线。 “cardioid”这个词在希腊语中的意思是“心形”。
+
+法国院士 Ole Roemer 于 1674 年首次研究了这条曲线的特性。
+
+Cardionda有很多“亲戚”。首先，这些是各种气旋、外旋风和内旋风。
+
+如果一个圆沿直线滚动，那么固定在这个圆上的点会在平面上留下痕迹——一条曲线称为旋风（图1）。
+
+如果一个可动圆沿着一个固定圆的内侧滚动，那么固定在其中第一个圆上的点在平面上画出一条曲线，称为外旋线（图2）。
+
+如果可动圆在固定圆的外侧滚动，则位于可动圆上的点所描绘的曲线称为外旋线（图3）。
+
+心形线是一种外旋风，其可动圆和静止圆具有相同的半径（参见 图 4）。
+
+您可以在 G. N. Berman 的书“Cycloid”（Gostekhidat，1954 年）中了解所有这些气旋的特征，包括 Cardionde。
+
+图 5 显示了cardionda 的一种可能的结构。固定圆被点划分为多个部分。从每个这样的点开始，就像从中心开始一样，绘制圆，这些圆也穿过同一圆上的一个固定点。尝试证明，通过这种结构，您确实得到了一个心形圆（围绕所有这些圆）。
+
+总之，这是对 Cardionda 的有趣解释。让我们考虑一个防滑、固定、横截面为圆形的腰部。旁边放置一个半径两倍的呼啦圈。然后在心形腰部附近描述箍的每个点。
+
+M·L·斯莫良斯基

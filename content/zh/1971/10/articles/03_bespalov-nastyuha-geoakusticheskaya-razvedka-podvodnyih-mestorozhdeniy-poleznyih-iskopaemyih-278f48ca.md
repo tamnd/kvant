@@ -1,0 +1,45 @@
+---
+id: 1971-10-bespalov-nastyuha-geoakusticheskaya-razvedka-podvodnyih-mestorozhdeniy-poleznyih-iskopaemyih-278f48ca
+issue: kvant_1971_10
+year: 1971
+number: "10"
+title: 水下矿藏地声勘探
+authors:
+  - Беспалов О. Г.
+  - Настюха А. И.
+rubric: osnovnye-stati
+page_first: 8
+page_last: 8
+page_labels: "6"
+tag: MNMI
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: b64fcc917dc8753efb594dad1e8b503bf88a755007d76d705de3c56bcb9ad463
+prompt_sha256: draft-1
+translated_from: content/ru/1971/10/articles/03_bespalov-nastyuha-geoakusticheskaya-razvedka-podvodnyih-mestorozhdeniy-poleznyih-iskopaemyih-278f48ca.md
+source_content_sha256: 76d8b849b770c8cc30da5eb79fd09e30e396ac0e54200fd7bf5ce33356ef0040
+translation_model: draft
+translation_run: zh-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 6⟧
+
+为了寻找新的原材料来源，人们越来越多地转向隐藏在海洋水源中的无数丰富的类矿物。据科学家测算，位于水体底部和水体之下的石油、金属矿石和其他矿物的储量是这些矿物在陆地上储量的几倍。
+
+但是你如何才能找到这些宝藏隐藏在水下的位置呢？为此，您需要了解被水域覆盖的地壳的地质结构。使用地质结构图，专家可以判断在哪里以及寻找什么矿物。
+
+与陆地地质研究一样，海底地质研究也采用地球物理勘探方法——地震勘探和钻井。但要获得该地区地质的详细信息，需要随机钻很多口井，即使在陆地上也很难钻到每一口井。而海底钻探则是一项更加繁琐且极其昂贵的工作。
+
+地震勘探利用爆炸来探索地壳的地质结构。在地面上钻一个小孔，并在其中引爆装药。爆炸过程中形成的膨胀气体导致土壤变形，消除了无限期包围爆炸地点的颗粒层。倾斜层中产生的弹力将压力传递到相邻层，并且从爆炸点开始，弹性冲击波（图1）通过岩石向各个方向传播。
+
+让我们假设在深度 S 处岩石 I 的第一个裂缝下方是由不同密度的岩石组成的层 II。第二层的深度不难确定（见图1）：
+
+$$S = \sqrt{S_1^2 - \frac{(S_2)^2}{2}},$$
+
+其中$S_1 = \frac{1}{2} ABC$是直达波到达II层的路径（反射波也经过相同的路径），$S_2$是爆炸点和播种接收器之间沿表面的距离，记录反射波的到达功率。
+
+弹性波穿过地球岩石时的能量被部分吸收。吸收能量的比例取决于波振荡的频率。爆炸会产生次声波（低于 16 赫兹）和声音波（从 16 赫兹到 20,000 赫兹）频率。这些频率的波相对较少被地球岩石吸收，这决定了它们在播种接收器中的使用。
+
+地震勘探已成功用于研究海洋结构

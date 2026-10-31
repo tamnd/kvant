@@ -1,0 +1,51 @@
+---
+id: 1971-12-karasev-tarasyuk-v-mezhdunarodnaya-fizicheskaya-olimpiada-shkolnikov-36552e74
+issue: kvant_1971_12
+year: 1971
+number: "12"
+title: 第五届国际中小学生物理奥林匹克竞赛
+authors:
+  - Карасев М. Д.
+  - Тарасюк Г. С.
+rubric: informatsiya
+rubric_sub: Информация
+page_first: 58
+page_last: 58
+page_labels: "56"
+tag: NJAZ
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: c60d5c6ef1b5ed107ea3e6a602175688c36c5a5f8c4ae69210bc70853827913b
+prompt_sha256: draft-1
+translated_from: content/ru/1971/12/articles/15_karasev-tarasyuk-v-mezhdunarodnaya-fizicheskaya-olimpiada-shkolnikov-36552e74.md
+source_content_sha256: 02689c842cdc840739090b27f8ad77d21f2eaeb356cb4198c797df66c3f4cff1
+translation_model: draft
+translation_run: zh-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 56⟧
+
+五、国际物理
+学校奥林匹克运动会
+
+1971年7月2日至11日，第五届社会主义国家中小学生国际物理奥林匹克竞赛在保加利亚举行。每个国家邀请了 5 名参与者。两名小学生（一名来自波兰，一名来自捷克斯洛伐克）因病无法前来。总共有来自保加利亚、匈牙利、东德、波兰、罗马尼亚、苏联和捷克斯洛伐克 7 个国家的 33 名小学生参加了奥运会。
+
+奥林匹克运动会的整个项目是由保加利亚组委会准备的。该计划包括解决 4 个理论问题（为其解决分配了 5 个小时）和执行 1 个实验问题（为其分配了 5 个小时）。
+
+成绩是根据参赛者的总分来评估的，国际评审团由来自参加奥运会的 7 个国家的每支代表队的领导人组成。每个理论任务的最高分是 10 分，实验任务的最高分是 20 分（完成理论部分 10 分，实验及其设计 10 分）。因此，最大点数为 60。
+
+没有一个参与者获得 60 分。人数最多的人（48 人）有两名学童：来自匈牙利的 Adam Tichy 和来自捷克斯洛伐克的 Karl Shafernik。他们两人都获得了一等奖。
+
+共评出一等奖5名。
+
+来自苏联的 5 名十年级学生参加了奥林匹克竞赛：Alexey Abrikosov（莫斯科）、Sergey Budnik（第聂伯罗彼得罗夫斯克）、Andrey Varlamov（基辅）、Vitas Saldzhukas（维尔纽斯）、Alexander Sitszerev（莫吉廖夫州奥西诺夫卡村）。他们都是1971年全联盟物理奥林匹克竞赛的获奖者。
+
+我校全体学生在第五届国际物理奥林匹克竞赛中取得了优异的成绩，并获得了相应的证书和奖品。一等奖由安德烈·瓦尔拉莫夫（Andrey Varlamov）（45分）获得，二等奖由阿列克谢·阿布里科索夫（Alexey Abrikosov）（44分）获得。 A. Abrikosov 还因完美完成任务数量最多而被授予特殊属性（6 项任务中有 4 项获得最高分和表扬）。今年和往届奥运会一样，按照既定赛制，只考虑个人冠军，不设团体比赛。
+
+以下是 1971 年第五届国际物理奥林匹克竞赛的任务。
+
+1. 质量为 M 的光滑楔块具有底角为 θ1 和 θ2 的三角形横截面。楔子上有两个光滑的质量 m₁ 和 m2，通过一根不可延伸的线相互连接，该线抛出在连接到楔子顶部的小块上。与配重和楔块的质量相比，忽略螺纹和块的质量。整个系统从头开始。如果楔块位于完全光滑的水平面上并且系统自行其事，那么楔块将以多大的加速度 a₀ 滑动？通过楔块的加速度表示重物相对于楔块a'的加速度。在质量 m₁ 和 m2 的比例为多少时，楔块将保持静止，而负载将沿楔块滑动？
+
+2. 将一根截面为S=1cm²的玻璃管一端密封，充入氢气，垂直放置，使上端密封，下端较低。

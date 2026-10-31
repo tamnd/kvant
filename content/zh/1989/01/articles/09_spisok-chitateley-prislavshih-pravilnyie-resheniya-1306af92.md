@@ -1,0 +1,34 @@
+---
+id: 1989-1-spisok-chitateley-prislavshih-pravilnyie-resheniya-1306af92
+issue: kvant_1989_1
+year: 1989
+number: "1"
+title: 发送正确答案的读者名单
+rubric: zadachnik-kvanta
+rubric_sub: Задачник «Кванта»
+page_first: 31
+page_last: 31
+page_labels: "29"
+tag: 8TSS
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: f77af0b15aa93bd2d686733ab276c5a57889de5b63443d2e85733db1040d6a9a
+prompt_sha256: draft-1
+translated_from: content/ru/1989/01/articles/09_spisok-chitateley-prislavshih-pravilnyie-resheniya-1306af92.md
+source_content_sha256: b95d1e1f9247bad102d48f2eaf000e8a53eebd2e2d23c2c85d3b80d57e03ae4b
+translation_model: draft
+translation_run: zh-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 29⟧
+
+发送正确答案的读者名单
+
+大多数提交问题 M1091—M1115、F1103—F1117 解决方案的读者都解决了问题 M1091、M1093、M1094、M1096、M1097、M1101、M1102、M1105、F1104、F1106、 F1109—F1111、F1114—F1116。下面我们公布写出剩余问题正确答案的人的名字（姓氏后面的数字是已解决问题编号的最后一个数字）。
+
+数学
+D. Aladzhanov（卡卢加地区埃尔莫利诺村）04； N.安德里亚诺夫（Electrostal）92、98、00、03、04； A. 阿基莫夫 (叶夫帕托里亚) 98, 04; A. Hakobyan（埃里温）04；什。阿列克萨扬（Lininakan）04； I.阿尔詹采夫（基辅）92, 98, 04； V.巴拉诺夫斯基（鄂木斯克）92、98、03、04； S. Bashmakov（塞瓦斯托波尔）04； N. Bulusak（伊万诺-弗兰科夫斯克地区 Menyava 村）98； A. 博尔达诺夫 (Stayy Oskol) 92, 03, 04； P.鲍罗丁（基洛夫）98； J.布雷纳（Sergevka）04； S.布特维纳（日托米尔）92、95、98、03、04；于。瓦武洛夫（萨福诺沃）04； V.万春（莫斯科）04； TS。瓦西里耶夫（索非亚，NRV）04；于。维利基纳（第聂伯罗彼得罗夫斯克）04； S.沃洛辛（Podgorodnoe）04； K.沃尔琴科（顿涅茨克）03； M.世界（列宁格勒）92； M.维博罗夫（基辅）92； E.加布里洛维奇（明斯克）98；于。黄金（奥德斯卡）04； P.格里戈里耶夫（里加）92；于。格林菲尔德（莫斯科）92、98、00、03、04； A.古尔曼（奥德斯卡）04； A. Davydov（高尔基地区Elfimovo村）04；赫。 Jafarov（图尔克巴 AzSSR 村）98； D.眼镜猴（Reytov）92； V. Drobovtsev（莫斯科）92； V. 杜布罗夫（明斯克）92, 98, 03, 04； E.杜达（哈尔科夫）92； A. Efimuk（明斯克）03、04； V. 日林斯卡亚 (维尔诺斯) 92, 98-00; I.泽连科（萨拉托夫）03、04； S. Zelik (克拉马托尔斯克) 92, 98, 04; I. Zuk（德国埃森）00, 04； V.伊夫列夫（Dzhezkazan）92； M.Iznagev（莫斯科）04； S.伊兹马尔科夫（哈尔科夫）04； A.Imashova（列宁格勒）98； I. Iopne（莫斯科）92, 98, 00； D.卡比什（莫斯科）98； E. Ghazaryan（蒂利斯）92； V. Kaloshin (哈尔科夫) 92, 95, 98, 00; L.卡明斯坦（基辅）92、03、04； D.Kamushadze（蒂利斯）04； N. Kaputkina（莫斯科）92, 98, 03； S. Kasamyan（亚美尼亚苏维埃社会主义共和国奥克滕贝格区）92； K.卡西莫夫（Tselinograd）04； I.基里洛夫（乌斯季卡缅诺戈尔斯克）04； S.科瓦岑科（文尼察）92、98、03、04； O. Kovrizhkin (Maikop) 92; D.Kozhevnikov（Onutin）92； A.科扎奇科（文尼察）92、98、03、04； I.科科耶夫（蒂利斯）04； G.Kolesnichkiy（蒂利斯）04； M. Kolede（鄂木斯克）92, 98, 04； V. Koloshin（哈尔科夫）03、04； P.Kononenko（伊万诺沃）92； D.科尔日涅夫（基辅）04； D. 科尔任 (伊万诺沃) 03, 04; A.科罗特基（第聂伯罗捷尔任斯克）04； A.科尔什科夫（莫济里）92、98、03、04； G. Kropin (列宁格勒) 98, 04; A.克留科夫（萨拉托夫）98, 04； T.库利科娃（兹韦尼哥罗德）92、95、98、03、04； N.拉普斯塔（特尔诺沃波尔）04； V. Levshin（莫斯科）98； S. Lesik（顿涅茨克）92、95、98、03、04；于。利特维诺娃（基辅）98； M.洛巴（利沃夫）04； E. Lomovtseva（别洛雷茨）92； G. Magleridze（鲁斯塔维）04； A·马利
+
+（续第 51 页）

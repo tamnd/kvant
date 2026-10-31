@@ -1,0 +1,44 @@
+---
+id: 1971-10-smorodinskiy-ekzoticheskie-atomyi-c557cd0e
+issue: kvant_1971_10
+year: 1971
+number: "10"
+title: 奇异原子
+authors:
+  - Смородинский Я. А.
+rubric: smes
+page_first: 30
+page_last: 30
+page_labels: "28"
+tag: W5N1
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 09914388d666479c932e19b8b31d6cf0a1daeeaa308c8e2ca440ae6ddb1bef35
+prompt_sha256: draft-1
+translated_from: content/ru/1971/10/articles/09_smorodinskiy-ekzoticheskie-atomyi-c557cd0e.md
+source_content_sha256: a7f4c87404d66883758157f9dd031834760974bffe486fbecff0aa8aa9ad693d
+translation_model: draft
+translation_run: zh-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 28⟧
+
+（球外）加速度$a = -a_0 \left( \frac{r}{r_0} \right)^2$。
+
+加速度的负号意味着它始终指向球的中心。
+
+当球没有加速运动时，其中心就是平衡点。对于小偏差，会产生恢复力。当船舶加速$w$时，我们改变$a_0$，总有一个舱室位置，其自由落体加速度等于$w$。要在图表上找到此位置，请在 $r$ 轴下方距离 $w$ 处画一条直线。将出现两个交点，它们的坐标给出了所需的距离。球内的点对应于源平衡。随着船舶加速度的微小变化，舱室将围绕平衡点振荡，舱室本身会监控加速度的一致性，并且舱室将一直保持惰性。
+
+当以相同的加速度制动时，平衡点将在球中心的另一侧。
+
+我们提出了一种根本性的方法来对抗过载。哪些“如果”阻碍了这个奇妙项目的实现？
+
+它并不违背自然规律。主要困难在于动力来源：这是任何城际船舶项目的共同困难。但这个巨大的身体是从哪里来的呢？您可以采用体积非常大的物体，也可以使用密度非常高的物质。为了更容易思考这个问题，请理解下面的练习。
+
+练习
+
+1. 如果一架喷气式飞机以 1.5 克的加速度俯冲，飞行员的重量是多少？重量的力指向哪里？
+2. 如果球表面的加速度为 1000 g，求与地球密度相同的球相对于地球半径和质量的相对半径和质量。
+3. 如果球的密度是地球的10^6倍怎么办？ （在某些物理条件下，例如，在称为白矮星的恒星上，物质的密度明显超过我们的值。）

@@ -1,0 +1,65 @@
+---
+id: 1971-8-rozentuller-esche-neskolko-zadach-vasi-smekalkina-10c5bd02
+issue: kvant_1971_8
+year: 1971
+number: "8"
+title: Vasya Smekalkin 的其他一些问题
+authors:
+  - Розентуллер В. М.
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 67
+page_last: 67
+tag: DP79
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: b570c242fad6f1b811ceac828ee743ec36653de93e43ee29f70dedf314cd04be
+prompt_sha256: draft-1
+translated_from: content/ru/1971/08/articles/01_rozentuller-esche-neskolko-zadach-vasi-smekalkina-10c5bd02.md
+source_content_sha256: b2850959525b5128e86178770efc705659d44f59343da0af024d0f4be005bc13
+translation_model: draft
+translation_run: zh-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+还有一些任务
+瓦夏·斯梅卡尔基纳
+
+V·M·罗森图勒
+
+1. 给定一系列整数，它们按照一定的数学定律组成：
+   4, 7, 12, 21, 38, ...
+
+继续该行，直到到达第八个数字。
+
+2. 被减数、减数和差值之和为 624。如果差值比被减数小 56，则求被减数、减数和差值。
+
+3. 求 1 到 18 之间所有自然数的乘积的最后三位。
+
+4. 有两个容量为3升和5升的容器。如何使用这些容器从水龙头中取出 4 升水？
+
+5. 在计算表中按照一定的规则。找出这条规则并减去缺失的数字。
+
+a) 2 3 5 9 33
+b) 1 5 6 11 28
+
+6. 商店有 16 k、17 k 和 21 k 盒装的乳香。一个组织如何在不开箱的情况下获得 185 ke 乳香？找出所有的解决方案。
+
+7. 在棋盘上进行了乘法运算。然后一些数字被删除并用星号代替。恢复已删除的数字：
+
+```
+***
+*8
+***
+****
+****0
+```
+
+8. 该学生买了 4 本书。所有没有第一本的书售价 42 戈比，没有第二本 - 40 戈比，没有第三本 - 38 戈比，没有第四本 - 36 戈比。每本书多少钱？
+
+9. 什么情况下他有5个助手？
+
+10. 桌子上有15支铅笔。两个人轮流拿一支、两支或三支铅笔。剩下最后一支铅笔的人就输了。初学者应该怎样玩这个游戏才能迫使对手拿走最后一支铅笔呢？
