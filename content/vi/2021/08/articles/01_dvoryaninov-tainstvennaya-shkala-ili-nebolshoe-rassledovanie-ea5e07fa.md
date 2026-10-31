@@ -1,0 +1,53 @@
+---
+id: 2021-8-dvoryaninov-tainstvennaya-shkala-ili-nebolshoe-rassledovanie-ea5e07fa
+issue: kvant_2021_8
+year: 2021
+number: "8"
+title: Quy mô bí ẩn, hoặc một cuộc điều tra nhỏ
+authors:
+  - Дворянинов С. В.
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 24
+page_last: 24
+page_labels: "22"
+tag: O0Y0
+lang: vi
+source: kvant_digital
+extraction: native
+content_sha256: 5d9eaa4006a8bfd5f160b9fe7a338596109285fb56eea36f08aa68f4553dc983
+prompt_sha256: draft-1
+translated_from: content/ru/2021/08/articles/01_dvoryaninov-tainstvennaya-shkala-ili-nebolshoe-rassledovanie-ea5e07fa.md
+source_content_sha256: a4637290e3fee636d8b286eb7691fc88c3670c0a72c8218cc7af9b34da238159
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 22⟧
+
+KVAN T 2021/Số 8
+
+Quy mô bí ẩn, hoặc một cuộc điều tra nhỏ
+
+S. DVORYANINOV
+
+NÓI CHO TÔI, BẠN ĐÃ NHÌN VÀO GÓC NHÀ CỦA BẠN ĐÃ LÂU KHÔNG? Nhưng căn gác mái lại là nơi bắt đầu cuộc phiêu lưu của nhiều anh hùng văn học. Chúng ta hãy nhớ lại những dòng trong câu chuyện "Timur và đội của anh ấy" của A. Gaidar: "Zhenya đi vòng quanh nhà kho... Cô ấy kéo một cái thang mục nát đến cửa sổ rồi trèo lên, nhảy lên sàn gác mái. Rất kỳ lạ! Căn gác mái này có người ở. Trên tường treo những cuộn dây, một chiếc đèn lồng, hai lá cờ hiệu chéo nhau và một bản đồ làng, tất cả đều phủ đầy những biển báo khó hiểu... Gần mái nhà rêu phong đục lỗ nhô ra một bánh xe lớn trông giống như vô lăng. Ở đó là một chiếc điện thoại tự chế treo phía trên bánh xe.” Cậu bé Leshka, nhân vật chính trong cuốn sách “Con trai của người khổng lồ” của S. Alekseev, sống trên gác mái ngay đầu câu chuyện: “Khi Leshka đẩy cánh cửa gác mái, nó không nhúc nhích. Cửa đã bị khóa.” Đôi khi bạn không muốn vứt bỏ một thứ cũ - nếu nó có ích trở lại thì sao? Và hóa ra nó ở trên gác mái hoặc ở góc xa của phòng đựng thức ăn hoặc nhà kho. Và ngay cả chủ sở hữu sau đó cũng quên mất nó ở đâu và nằm ở đâu. Và căn gác biến thành bảo tàng đồ cổ. Vì vậy, gần đây tác giả đã bắt gặp một điều cũ (Hình 1). Rõ ràng đây là một bãi thép - một chiếc cân lò xo. Theo Wikipedia, từ này được mượn từ các ngôn ngữ Turkic, trong đó vesne có nghĩa là “vảy”. Chiếc vesne của người Thổ Nhĩ Kỳ nhận được âm thanh “bezel” dưới ảnh hưởng của từ nguyên dân gian: trong ý thức phổ biến, nó được hiểu là bãi thép – “không thay đổi”
+
+DOI: https://doi.org/10.4213/kvant20210803
+
+⟦column⟧
+
+⟦figure⟧
+
+Cơm. 1
+
+". Trong cơ học, một thiết bị đo như vậy được gọi là lực kế. Chúng ta hãy chú ý đến hai cái cân của sân thép. Chúng ta hãy tìm hiểu xem đơn vị khối lượng tương ứng của chúng có liên quan như thế nào. Bên phải là khối lượng tính bằng kilôgam, đối với thang đo bên trái, chúng ta sẽ gọi đơn vị khối lượng là một pound. Lúc đầu, có vẻ như 2 pound 1 kg, 1 pound = 0,5 kg. Khi bạn di chuyển xuống thang đo, tỷ lệ này thay đổi: 6 lbs | 3,25 kg, 1 lb | 0,542kg,
+
+7 bảng Anh | 3,75 kg, 1 lb | 0,536kg,
+
+10 bảng | 5,5 kg, 1 lb | 0,550kg,
+
+12 bảng | 6,5 kg, 1 lb | 0,542kg,
+
+13 bảng | 7kg, 1lb | 0,538kg,

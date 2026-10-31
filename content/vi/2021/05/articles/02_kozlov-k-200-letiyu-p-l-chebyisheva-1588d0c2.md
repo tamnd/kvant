@@ -1,0 +1,40 @@
+---
+id: 2021-5-kozlov-k-200-letiyu-p-l-chebyisheva-1588d0c2
+issue: kvant_2021_5
+year: 2021
+number: "5"
+title: Nhân kỷ niệm 200 năm ngày sinh của P. L. Chebyshev
+authors:
+  - Козлов В. В.
+rubric: iz-istorii-nauki
+rubric_sub: Из истории науки
+page_first: 27
+page_last: 27
+tag: XWYX
+lang: vi
+source: kvant_digital
+extraction: native
+content_sha256: 8db6c71f5f02322c65d0febefa5e46012889e7dbb695d48f150a4306da57ecb7
+prompt_sha256: draft-1
+translated_from: content/ru/2021/05/articles/02_kozlov-k-200-letiyu-p-l-chebyisheva-1588d0c2.md
+source_content_sha256: aa079ef9ead3bc9c534eeaac66e7c71f7b454d302ca3b7556aae196fdb3a1645
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+TỪ LỊCH SỬ KHOA HỌC
+
+Nhân dịp kỷ niệm 200 năm P.L. Chebyshev
+
+V. KOZLOV
+
+Vào tháng 5 năm nay, cộng đồng toán học đã kỷ niệm 200 năm ngày sinh của nhà toán học vĩ đại người Nga Pafnutiy Lvovich Chebyshev. Bằng cách thành lập trường toán học nổi tiếng St. Petersburg, Pafnutiy Lvovich đã đặt nền móng cho sự phát triển tiến bộ của toàn bộ nền toán học Nga. Pafnutiy Lvovich đã làm phong phú toán học với những kết quả xuất sắc khiến ông nổi tiếng khắp thế giới. Ông có đóng góp mang tính quyết định cho lý thuyết phân bố số nguyên tố, chứng minh “định đề Bertrand” về sự có mặt của số nguyên tố trong khoảng từ n đến 2n – 2 (n! 3). P.L. Chebyshev thu được những kết quả tiên phong trong lý thuyết xác suất, xây dựng dưới dạng tổng quát định luật số lớn và định lý giới hạn trung tâm. Những kết quả này sau đó đã được bổ sung và mở rộng bởi các học trò của ông là A.M. Lyapunov và A.A. Markov. Pafnutiy Lvovich đã giải được bài toán khó bài toán về điều kiện tích phân của vi phân nhị thức trong các hàm cơ bản, bài toán này được đề cập trong tất cả các sách giáo khoa về giải tích toán học. Ông là người tạo ra lý thuyết xây dựng về chức năng; Mọi người đều biết đa thức Chebyshev, có độ lệch ít nhất so với 0. Dòng nghiên cứu này xuất phát từ mong muốn cải thiện cơ chế bản lề phẳng của Chebyshev. Ông đã tự tay mình chế tạo những cơ chế như vậy, bao gồm cả máy phân loại cây trồng nổi tiếng, được trưng bày tại
+
+⟦column⟧
+
+Triển lãm Thế giới tại Paris năm 1878 (xem “Kính vạn hoa «Kvant»”, hình 1). Cuối cùng, chúng ta hãy đề cập đến các mạng Chebyshev trong hình học vi phân, được ông giới thiệu liên quan đến việc thực hành vẽ bản đồ địa lý. Nói chung, P. L. Chebyshev nổi bật bởi sự kết nối hữu cơ giữa nghiên cứu của ông về toán học thuần túy và các ứng dụng khác nhau của nó. Phong cách sáng tạo tuyệt vời này của P.L. Chebyshev đưa anh đến gần hơn với một thiên tài vĩ đại khác - C.F. Gauss. Pafnuty Lvovich là một thành viên có ảnh hưởng và được kính trọng của Viện Hàn lâm Khoa học St. Petersburg. Viện Hàn lâm Khoa học Liên Xô đã thành lập một huy chương vàng mang tên. P.L. Chebyshev cho nghiên cứu xuất sắc nhất về toán học (tất nhiên là được trao giải ở thời đại chúng ta). Trong tòa nhà lịch sử của Đoàn chủ tịch Viện Hàn lâm Khoa học Nga, ở tiền sảnh của phòng họp, có bốn bức tượng bán thân của các thành viên nổi tiếng của viện. Đó là Mikhail Lomonosov, Leonard Euler, Aaron Lerberg (nhà sử học) và Pafnuty Chebyshev. Cuộc đời và sự nghiệp của P.L. Chebyshev đã đưa ra cho tất cả chúng ta (và đặc biệt là những người trẻ tuổi) những hướng dẫn đúng đắn trong việc học toán. Để diễn giải những lời của Laplace về Euler, chúng ta có thể nói: đọc Chebyshev, nghiên cứu Chebyshev. Ông là thầy và cố vấn của tất cả các nhà toán học Nga.
+
+Trong các số tiếp theo của tạp chí dự kiến ​​sẽ xuất bản một số bài báo tiết lộ nhiều khía cạnh khác nhau của P.L. Công việc của Chebyshev. (Ghi chú của biên tập viên)

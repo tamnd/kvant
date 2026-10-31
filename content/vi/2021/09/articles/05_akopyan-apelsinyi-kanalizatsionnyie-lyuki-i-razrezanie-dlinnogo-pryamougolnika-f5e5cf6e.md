@@ -1,0 +1,54 @@
+---
+id: 2021-9-akopyan-apelsinyi-kanalizatsionnyie-lyuki-i-razrezanie-dlinnogo-pryamougolnika-f5e5cf6e
+issue: kvant_2021_9
+year: 2021
+number: "9"
+title: Cam, hố ga và cắt hình chữ nhật dài
+authors:
+  - Акопян А. В.
+rubric: matematicheskiy-kruzhok
+rubric_sub: Математический кружок
+page_first: 42
+page_last: 42
+tag: 99NC
+lang: vi
+source: kvant_digital
+extraction: native
+content_sha256: 894520a23f180c7dea8aceb573e3f22e0a62e3774de1e615547ed82610986053
+prompt_sha256: draft-1
+translated_from: content/ru/2021/09/articles/05_akopyan-apelsinyi-kanalizatsionnyie-lyuki-i-razrezanie-dlinnogo-pryamougolnika-f5e5cf6e.md
+source_content_sha256: 106d1d831f79a8e78992fb547503e47a03f91838fc6dfe2d80c72edc51ba650d
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+Cam, hố ga và cắt hình chữ nhật dài
+
+VÒNG TRÒN TOÁN HỌC
+
+A. HAKOBYAN
+
+Đối với bàn ăn ngày lễ, cam thường được cắt thành từng lát tròn (Hình 1). Thông thường, tất cả các múi đều có độ dày như nhau, nhưng bạn đã bao giờ tự hỏi trong số những múi này, múi nào chứa nhiều vỏ hơn: những múi thuộc phần gần tâm quả cam hơn hay những múi gần mép hơn? Hóa ra nếu lát cắt không phải là “nắp”, thì lượng vỏ không phụ thuộc vào phần của quả cam (tất nhiên, chúng ta coi quả cam là một quả bóng). Trong Hình 2, hai lát cam có độ dày bằng nhau được cắt. Bạn nghĩ thùy nào có nhiều vỏ hơn? Hãy xem xét một vết cắt (phần) của quả cam bằng một mặt phẳng. Đặt bán kính của quả cam (có vỏ) $равен^{R,}$ và bán kính phần bên trong của quả cam (quả cam không có vỏ) $равен^{r}$ (Hình 3). $Пусть^{d}$ là khoảng cách từ tâm quả cam đến mặt phẳng cắt. Hãy tìm một điều xấu
+
+⟦figure⟧
+
+Cơm. 1
+
+DOI: https://doi.org/10.4213/kvant20210906
+
+⟦column⟧
+
+⟦figure⟧
+
+Cơm. 2
+
+d
+
+⟦figure⟧
+
+Cơm. 3
+
+chừa lại vòng màu vàng, tức là phần vết cắt thuộc về vỏ. Ta hãy biểu thị bán kính của các hình tròn trong tiết diện $апельсина_{1}^{r} и_{1}^{R}. Площадь^{S}$ của vòng màu vàng bằng hiệu diện tích của hình tròn lớn và nhỏ, tức là $S_{1}^{R} 2 S_{1}^{r} 2. C$ mặt khác theo định lý Pythagore $R_{1}^{2} R^{2} d^{2}$ và $r_{1}^{2} r^{2} d^{2}$. Thay thế các biểu thức này vào công thức $для^{S,}$, chúng ta thu được $что^{S} S^{R} 2^{r} 2$, tức là chỉ phụ thuộc vào bán kính của quả cam có và không có vỏ. Từ đó suy ra $если^{h}$ là độ dày của một lát cam, khi đó thể tích của vỏ trong đó sẽ bằng $S^{h} R^{2} r^{2}$. Ví dụ, điều này có thể được giải thích bằng cách sử dụng nguyên lý Cavalieri: thể tích của hai vật thể có diện tích mặt cắt ngang bằng nhau của tất cả các mặt phẳng cắt chung của chúng song song với một mặt phẳng nhất định đều bằng nhau (Hình 4). Thật vậy, theo nguyên lý Cavalieri, thể tích của vỏ trong một lát $толщины^{h}$ sẽ bằng thể tích của một hình bình hành (hoặc hình trụ) có diện tích đáy $S^{R} 2^{r} 2$ và chiều cao h, tức là $S h R^{2} r^{2}$.

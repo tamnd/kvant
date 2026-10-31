@@ -1,0 +1,39 @@
+---
+id: 2021-5-shiryaev-tri-perioda-izucheniya-teorii-veroyatnostey-c4aa6bcd
+issue: kvant_2021_5
+year: 2021
+number: "5"
+title: Ba tiết nghiên cứu lý thuyết xác suất
+authors:
+  - Ширяев А. Н.
+rubric: iz-istorii-nauki
+rubric_sub: Из истории науки
+page_first: 28
+page_last: 28
+page_labels: "26"
+tag: 921C
+lang: vi
+source: kvant_digital
+extraction: native
+content_sha256: d8996ea16cc820ca2166622520abe5939be180a233347046a7154902d909a7a3
+prompt_sha256: draft-1
+translated_from: content/ru/2021/05/articles/03_shiryaev-tri-perioda-izucheniya-teorii-veroyatnostey-c4aa6bcd.md
+source_content_sha256: 48d188d2d8a59508c4a0c0dc84629ccf6e3185882b74ea24cf53e56cabc93da3
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 26⟧
+
+K V AN T 2021/№5
+
+Ba tiết nghiên cứu lý thuyết xác suất
+
+A. SHIRYAEV
+
+J. Bernoulli. Vào thế kỷ 17 - đầu thế kỷ 18, nhân vật trung tâm (trước đó là Pascal, Fermat, Huygens) trong phép tính xác suất là Jacob Bernoulli, người đã đưa vào khoa học khái niệm cổ điển về xác suất là tỉ số giữa số kết quả có thể xảy ra thuận lợi cho sự kiện đang xét trên tổng số kết quả có thể tưởng tượng được. Kết quả chính của J. Bernoulli, cái tên gắn liền với tên tuổi của ông, là định luật số lớn. Đây là định lý đầu tiên trong phép tính xác suất (được xuất bản trên Ars Conjectandi năm 1713; ông mất năm 1705), và nó đã được chứng minh một cách tuyệt đối nghiêm ngặt bằng các phương pháp tổ hợp số học. (Vì vậy, J. Bernoulli còn được coi là người sáng lập ra tổ hợp học.) P.L. Chebyshev. Trong số các nhà khoa học nửa sau thế kỷ 19 đóng vai trò nổi bật trong phép tính xác suất có P.L. Chebyshev (lúc đó là Markov và Lyapunov). Nếu trước ông, họ hoạt động với các vật thể có số lượng giá trị hữu hạn (chủ yếu là hai), thì ông là người đầu tiên đưa ra khái niệm biến ngẫu nhiên (như một hàm của một sự kiện cơ bản) và kỳ vọng toán học của nó, từ đó mở rộng và đào sâu hơn toàn bộ phép tính xác suất. Ông chịu trách nhiệm về bất đẳng thức Chebyshev cổ điển hiện nay. Ông là người đầu tiên không chỉ nhận thức rõ ràng vai trò của các biến ngẫu nhiên và kỳ vọng toán học của chúng, mà còn là người đầu tiên bắt đầu nghiên cứu tốc độ hội tụ của các định luật xác suất tiền giới hạn để giới hạn chúng. Vì vậy, Chebyshev đã biến lý thuyết xác suất cổ điển rời rạc thành một phần của toán học tổng quát.
+
+⟦column⟧
+
+phân tích các hiện tượng ngẫu nhiên. (Nhân tiện, tổng số công trình của Chebyshev về lý thuyết xác suất là ít - chỉ $четыре.)^{А.Н.Колмогоров.}$ Bản thân khái niệm xác suất đã là chủ đề được quan tâm và tìm kiếm trong nhiều thế kỷ. Đỉnh cao ở đây là chuyên khảo của A.N. Kolmogorov (1933) “Các khái niệm cơ bản về lý thuyết xác suất”, trong đó đưa ra một sơ đồ chứng minh logic cho lý thuyết xác suất và biến nó thành một nhánh của lý thuyết toán học. Ngoài sự biện minh logic trong này chuyên khảo, những khái niệm sau đây đã được đưa ra rõ ràng (được sử dụng liên tục) như xác suất có điều kiện, kỳ vọng toán học có điều kiện, định luật một không, định lý về phân bố nhất quán (trong chuyên khảo này), là điểm trung tâm trong việc hình thành lý thuyết về các quá trình ngẫu nhiên. Chuyên khảo của Kolmogorov đã mở ra một kỷ nguyên mới trong sự phát triển của lý thuyết xác suất với tư cách là một khoa học toán học và trong việc mở rộng phạm vi ảnh hưởng và ứng dụng của nó.
