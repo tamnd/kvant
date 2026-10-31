@@ -52,7 +52,7 @@ Giai đoạn cuối cùng của Olympic toàn Nga LIII dành cho học sinh vậ
 
 ⟦figure⟧
 
-Hình 1
+Cơm. 1
 
 TOUR LÝ THUYẾT
 
@@ -76,24 +76,24 @@ Bài toán 4. Tấm tích điện Một tấm điện môi phẳng mỏng có h�
 
 ⟦figure⟧
 
-Hình 7
+Cơm. 7
 
 ⟦figure⟧
 
-Hình 5
+Cơm. 5
 
 mặt phẳng nằm ngang (Hình 5). Hóa ra là trong quá trình chuyển động xa hơn, khoảng cách R giữa các hạt vẫn không thay đổi. Tìm động năng tổng cộng của các phân tử. I.Vorobiev
 
 Bài toán 3. Kho lưu trữ của Lord Kelvin Trong kho lưu trữ của Lord Kelvin, họ đã tìm thấy biểu đồ của một quá trình tuần hoàn được thực hiện trên một lượng cố định của khí lý tưởng đơn nguyên tử (Hình 6). Theo thời gian, mực sẽ mờ đi và thông tin về hướng dẫn của một số quy trình cũng bị mất. Thông tin về những gì được vẽ trên trục x cũng bị mất. Người ta chỉ biết rằng một trong các đại lượng sau được vẽ trên trục hoành: thể tích, áp suất, nhiệt độ hoặc mật độ, và thang đo được thực hiện theo các đơn vị thông thường. Dọc theo trục tọa độ
 
-Hình 6
+Cơm. 6
 
 điện môi, cắt một tấm mỏng có hình tam giác đều ABC có cạnh 2a (Hình 8) và tích điện cho nó như vậy
 
 ⟦figure⟧
 
-Hình 8
+Cơm. 8
 
 cùng mật độ điện tích bề mặt. Xác định: 1) điện thế tại điểm C của tấm tam giác; 2) Điện thế tại điểm D, nằm ở giữa cạnh của tấm tam giác. Bây giờ một tam giác đều có cạnh a được lấy ra khỏi tấm tam giác ABC (Hình 9). Định nghĩa:
 
-Hình 9
+Cơm. 9

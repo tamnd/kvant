@@ -49,7 +49,7 @@ Rõ ràng, đối với bất kỳ bộ không gây chết người nào, chiế
 
 ⟦figure⟧
 
-Hình 1
+Cơm. 1
 
 lân cận), chúng nằm ở các đỉnh được nối với nhau bằng một cạnh. Bây giờ chúng ta hãy hoàn thành hai quả bóng, tâm của chúng nằm ở điểm chết 000 và 111, và bán kính bằng cạnh của khối lập phương. Mỗi quả bóng bao gồm bốn điểm của khối lập phương. Mỗi điểm của khối lập phương đều nằm trên bề mặt hoặc ở tâm của một trong các quả bóng. Trong những trường hợp như vậy, họ nói rằng một “lớp phủ hình lập phương bằng những quả bóng không giao nhau” đã được xây dựng. Nếu điểm nằm ở tâm quả bóng, các hiền nhân sẽ không đoán được màu mũ của mình, nhưng nếu điểm nằm trên bề mặt quả bóng thì hầu hết các hiền nhân sẽ gọi tên chính xác màu sắc của chúng.
 

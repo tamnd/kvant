@@ -81,7 +81,7 @@ Bài toán 3. Pít-tông Các bộ phận hình trụ của bình được cố 
 
 ⟦figure⟧
 
-Hình 2
+Cơm. 2
 
 S và 2S. Bình chứa hai pít-tông có độ dày l 4, mỗi pít-tông được nối với thành bình bằng các lò xo có độ cứng k giống nhau. Chiều dài của mỗi lò xo ở trạng thái không biến dạng là l. Một chất lỏng nhẹ có thể được bơm vào khe hở giữa các piston thông qua một ống nhỏ, áp suất của ống này được đo bằng đồng hồ đo áp suất. Không có ma sát giữa piston và thành bình. Lực áp suất khí trong hệ thống có thể được bỏ qua. Các bề mặt tiếp xúc của piston gồ ghề nên chất lỏng dễ dàng thấm vào giữa chúng. Đồng hồ đo áp suất sẽ hiển thị áp suất nào khi các piston tách ra khỏi nhau? Phải bơm thể tích chất lỏng nào qua ống vào bình để đồng hồ đo áp suất hiển thị áp suất: a) $p p_{0} 10$; b) $p p_{0} 3$? Đây $p_{0} kl S$. A. Apollonsky
 
@@ -91,7 +91,7 @@ Bài toán 4. Chu trình đàn hồi Một lực kéo F hướng dọc theo tr�
 
 ⟦figure⟧
 
-Hình 3
+Cơm. 3
 
 hóa ra dương và bằng A = = 0,5 J. Xác định độ dãn tuyệt đối nhỏ nhất ' $l_{min}$ của lò xo trong một chu kỳ. Tìm độ cứng k của lò xo và xây dựng đồ thị định tính về sự phụ thuộc của tọa độ $x_{ц}$ của tâm lò xo vào tọa độ x của đầu chịu lực F tác dụng. Độ dài của lò xo ở trạng thái không biến dạng $l_{0} 20$ xem M. Zamyatnin
 
@@ -99,7 +99,7 @@ lớp 8
 
 Bài toán 1. Nhà thí nghiệm UnCl Gluck quyết định nghiên cứu khả năng hòa tan của một chất mới - unobtanium chloride (UnCl). Để làm điều này, anh ta bắt đầu thêm bột UnCl với tốc độ dòng khối không đổi P vào bình đo có $V_{0} = 100$ ml nước, liên tục khuấy dung dịch. Hình 4 cho thấy biểu đồ về mật độ của dung dịch UnCl so với nồng độ (khối lượng chất hòa tan trong một lít nước), do các đồng nghiệp người Anh của Gluck thu được. Ở $концентрации_{0}^{n} 750$ g l, unobtanium clorua ngừng hòa tan trong nước. Mật độ chất mới kết tinh U 2,5 g $см^{3}$, mật độ nước $U_{0}$
 
-Hình 4
+Cơm. 4
 
 1,0g $см^{3}$.
 
@@ -113,13 +113,13 @@ Bài toán 2. Bước thứ hai Hình 5 thể hiện sơ đồ một cầu thang
 
 ⟦figure⟧
 
-Hình 5
+Cơm. 5
 
 hai bước đầu tiên bằng m, và ở các cặp bước tiếp theo, khối lượng của các bước giảm đi một nửa so với các bước trước (m 2, m 4, m 8, ...). Xác định lực căng của các dây cáp $T_{1}, T_{2}$ và $T_{3}$ tác dụng lên giai đoạn thứ hai, giả sử tất cả các giai đoạn đều đồng nhất và các dây cáp đều nhẹ. Trong Hình 5, mỗi giai đoạn được chia thành bốn phần bằng nhau. M. Zamyatnin
 
 Bài toán 3. Nước đá Trên bàn có một bình hình trụ cao đựng nước, trong đó một miếng băng chìm hoàn toàn trong nước được giữ cố định bằng một sợi dây gắn ở đáy và một chiếc bè nhỏ có tích hợp nhiệt kế nổi trên mặt nước (Hình 6, a). Hệ đang ở trạng thái cân bằng nhiệt. Bắt đầu thêm nước nóng vào bình ở nhiệt độ
 
-Hình 6
+Cơm. 6
 
 ⟦column⟧
 
@@ -129,7 +129,7 @@ Bài toán 4. Cầu Trong mạch điện chứa nguồn dòng điện một chi�
 
 ⟦figure⟧
 
-Hình 7
+Cơm. 7
 
 công suất P = 0,5 W, và trên hai công suất còn lại – công suất 2P và P x. Trong trường hợp này, dòng điện $I_{A} = = 25$ mA chạy qua một ampe kế lý tưởng. Xác định giá trị công suất P x, điện trở của các điện trở và điện áp trên chúng. Tìm giá trị của nguồn $I_{0}$. Ghi chú. Nguồn dòng điện một chiều là một phần tử hoạt động của mạch điện trong đó dòng điện $I_{0}$ chạy qua khi các điện trở có điện trở khác nhau trên phạm vi rộng được nối với nó. V. Slobodyanin
 
@@ -147,7 +147,7 @@ NHIỆM VỤ
 
 1. Chiếc vali đầu tiên phải chứa những sinh vật nặng 10, 4, 3 pound; trong lần thứ hai - 9,7,2 pound; ở phần thứ ba - 8, 6, 5 pound. Bình luận. Bạn có thể tìm thấy đáp số (và chứng minh rằng nó là duy nhất) như sau. Những sinh vật nặng 10, 9 và 8 pound phải được xếp vào vali riêng (nếu không một vali sẽ quá nặng). Tiếp theo, để không ai xảy ra đánh nhau, sinh vật nặng 2 pound phải được đặt vào chiếc vali thứ hai, sau đó sinh vật nặng 4 pound phải được đặt vào chiếc vali thứ nhất. Sau này, việc phân phát những sinh vật còn lại không khó. $2. 120 \infty, 45 \infty, 15 \infty$. Lưu ý tam giác MAD cũng bằng tam giác MAB - có ba cạnh: cạnh MA chúng có chung, AD = AB là hai cạnh của hình vuông, MD = MB theo điều kiện (chúng nằm đối diện với các góc tương ứng trong các tam giác bằng nhau). Điều này có nghĩa là – BAM = – MAD $= 90 \infty 2 = 45 \infty$. Tại điểm M ba góc tương ứng của các tam giác bằng nhau đều hội tụ nên – AMB $= 360 \infty 3 = 120 \infty$. Tổng các góc của một tam giác là $180\infty$ nên – ABM $= 180 \infty - 120 \infty - 45 \infty = 15 \infty. 3.$ Voi chỉ ăn dưa hấu hình tròn. Đầu tiên chúng ta hãy tìm hiểu xem mỗi con vật ăn bao nhiêu quả dưa hấu trong bữa sáng. Theo điều kiện, 5 con voi và 7 con hà mã ăn 31 quả dưa hấu, 8 con voi và 4 con hà mã ăn 28 quả dưa hấu. Chúng ta thấy rằng nếu thay ba con hà mã bằng ba con voi thì cần ít hơn ba quả dưa hấu. Điều này có nghĩa là 12 con voi sẽ ăn 31 – 7 = 24 quả dưa hấu (tức là mỗi con 2 quả) và 12 con hà mã sẽ ăn 31 + 5 = 36 quả dưa hấu (tức là mỗi con 3 quả). Ở nhóm đầu tiên, hà mã ăn 7 ◊ 3 = 21 quả dưa hấu. Chưa bao giờ có nhiều dưa hấu cùng một hình dạng đến vậy, điều đó có nghĩa là hà mã ăn dưa hấu với mọi hình dạng nhưng voi lại rất kén ăn. Ở nhóm thứ hai, những chú voi ăn 8 ◊ 2 = 16 quả dưa hấu. Không có nhiều dưa hấu hình khối, điều đó có nghĩa là voi thích dưa hấu tròn hơn. 4. Ví dụ được hiển thị trong Hình 1.
 
-Hình 1
+Cơm. 1
 
 ⟦column⟧
 
@@ -157,4 +157,4 @@ CUỘC THI ĐẶT THEO A.P. SAVINA
 
 (xem «Kvant» số 3) 25. Bạn có thể. Hãy sắp xếp các số như sau: 2, 4, 6,..., 100, 99, 97,......, 1 (đầu tiên là các số chẵn theo thứ tự tăng dần, sau đó là các số lẻ theo thứ tự giảm dần). Trong thực tế, sự sắp xếp như vậy là duy nhất (tùy theo góc quay và hướng của đường truyền). 26. Đúng vậy. Đánh dấu các điểm K và M trên các cạnh AC và BC sao cho KM P AB (Hình 2). Cho đường trung trực của KM cắt cạnh AB tại điểm P. Bây giờ chọn các điểm L và N trên cạnh AB, đối xứng với P. Khi đó các đoạn KM và LN sẽ là đáy của hình thang mong muốn. Một số điểm trong lời giải cần được chú ý thêm. Thứ nhất, để hình thang cân này không trở thành hình chữ nhật,
 
-Hình 2
+Cơm. 2

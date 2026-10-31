@@ -90,7 +90,7 @@ lớp 9
 
 1. Hai khu vực hẻo lánh của sân bay A và B được nối với nhau bằng vỉa hè di động. Hành khách đã đi trên tuyến đường này hai lần. Lần đầu tiên, chỉ có đường từ A đến B hoạt động và hành khách đã dành thời gian $t_{1} | 4$ phút 50 giây để đóng $маршрут^{A} o^{B} o^{A}$. Trong trường hợp thứ hai, cả hai đường ray đều không chuyển động và hành khách đã dành thời gian trên cùng một tuyến đường $t_{2} | 6$ phút 40 giây. Hành khách sẽ dành bao nhiêu thời gian cho $маршрут^{A} o^{B} o^{A}$ nếu cả hai đường ray đều chuyển động? Trong mọi trường hợp, hành khách đi bộ với tốc độ tương đối như nhau. 2. Có một số khối đồng giống hệt nhau và một cái bếp điện. Ban đầu, tất cả các khối đều ở nhiệt độ phòng. Đầu đốt bếp điện được làm nóng và giữ ở nhiệt độ không đổi. Khối đầu tiên được nung nóng trên đầu đốt trong một thời gian dài, và sau đó, sau khi lấy nó ra, nó được đặt lên khối thứ hai, lạnh và nhiệt độ ở trạng thái ổn định của khối thu được đã được đo - hóa ra là $T_{1}$. Trong thí nghiệm thứ hai, khối thứ ba, được làm nóng tương tự trên một viên gạch, được đặt trên một chồng khối lạnh 4 và 5 - nhiệt độ được thiết lập là $T_{2}$. Sẽ đạt được nhiệt độ bao nhiêu nếu đặt khối 1 ấm từ ngăn xếp đầu tiên lên khối 6 lạnh? Bỏ qua sự toả nhiệt từ khối đó ra môi trường bên ngoài. 3. Kính hình trụ ngược được đóng lại bằng một piston di chuyển nhẹ. Đến đáy
 
-Hình 2
+Cơm. 2
 
 ⟦column⟧
 
@@ -98,13 +98,13 @@ một ống dài $сечением^{S}$ được gắn vào kính (Hình 2). Pis
 
 ⟦figure⟧
 
-Hình 3
+Cơm. 3
 
 đồ thị và mật độ dữ liệu nhất định của chất lỏng. Không có ma sát. 4. Một cuvet cách điện có chiều dài L đến chiều cao H chứa đầy chất lỏng dẫn điện (Hình 4). Lực cản giữa trái và phải
 
 ⟦figure⟧
 
-Hình 4
+Cơm. 4
 
 mép ngoài của thể tích chất lỏng R. Điện trở này sẽ trở thành bao nhiêu nếu một khối làm bằng chất cách điện có chiều dài l và chiều rộng bằng chiều rộng của cuvet được đặt trong cuvet song song với đáy của nó? Khoảng cách giữa mép dưới của khối và đáy cuvet là h, h < H. Chất lỏng không tràn và khối không chìm hoàn toàn vào chất lỏng, l ≫ H. 5. Cần của một cần cẩu ô tô có chiều dài l tựa vào một bản lề và được giữ ở tư thế nghiêng bằng một sợi cáp gắn vào một cột thẳng đứng chính xác phía trên bản lề ở độ cao h so với nó (Hình 2).
 
@@ -120,7 +120,7 @@ lớp 11
 
 ⟦figure⟧
 
-Hình 5
+Cơm. 5
 
 5).Xác định trọng lượng tối đa của tải có thể được nâng bằng cách sử dụng cần cẩu như vậy ở độ cao của đầu trên của cần so với bản lề H, nếu cáp có thể chịu được mức tối đa $усилие^{T.}$
 
@@ -130,16 +130,16 @@ lớp 10
 
 1. Hai đoàn tàu chuyển động với vận tốc không đổi trên đường ray ngược chiều nhau. Một hành khách ở khoang đầu tiên của toa đầu tiên của chuyến tàu đầu tiên nhìn thấy một con gấu đứng trên kè đường sắt sớm hơn $t_{1} 4$ s so với một hành khách ở khoang đầu tiên của toa cuối cùng, toa thứ năm của cùng một đoàn tàu. Một hành khách ở khoang đầu tiên của toa đầu tiên của chuyến tàu thứ hai đã nhìn thấy con gấu tương tự $t_{2} 4$ s trước hành khách ở khoang đầu tiên của toa cuối cùng, toa thứ sáu của cùng một đoàn tàu. Sẽ mất bao lâu để chuyến tàu thứ hai đi qua trước mắt hành khách của chuyến tàu thứ nhất? 2. Giải bài toán3 cho lớp 9. 3. Trong thời gian $время^{t} = 200 c$ sau khi khởi hành, đầu đoàn tàu đã đến nơi giao nhau với đường sắt, và trong thời gian $W_{1} 23,6 c$ đoàn tàu đã đi qua toàn bộ đường giao nhau này. Nó đi qua ngã tư tiếp theo, nằm cách ngã tư đầu tiên một khoảng L = 2500 m, trong thời gian $W_{2} 16,23$ s. Đoàn tàu đang chuyển động với gia tốc không đổi bằng bao nhiêu? 4. Giải bài toán5 cho lớp 9. 5. Trên một mặt phẳng nghiêng một góc D so với phương ngang, có hai thanh giống hệt nhau nằm dưới tác dụng của một lực ma sát có hệ số
 
-Hình 6
+Cơm. 6
 
 ⟦figure⟧
 
-Hình 7
+Cơm. 7
 
 một tốc độ ban đầu nhất định và cả hai vật bắt đầu chuyển động. Ở tốc độ ban đầu của bảng thì khối sẽ đạt được tốc độ cao nhất? Hệ số ma sát giữa vật và ván là P, giữa ván và mặt ngang không có ma sát. 3. Trên một bàn nằm ngang nhẵn có một quả bóng và một bàn đạp di động, bề mặt của nó ban đầu nằm ngang và cuối cùng là thẳng đứng (Hình 8). Bàn đạp được đẩy chuyển động về phía quả bóng
 
 ⟦figure⟧
 
-Hình 8
+Cơm. 8
 
 với vận tốc v. Quả bóng sẽ bay được bao xa theo phương ngang sau khi nảy lên bàn đạp? Không có ma sát. Khối lượng của quả bóng và bàn đạp bằng nhau. Bỏ qua kích thước của bàn đạp. 4. Ống tiêm được đóng lại từ phía kim, một pít-tông được lắp vào đó; Tăng dần lực, chúng tôi đẩy pít-tông lên bằng 1/2 chiều dài của ống tiêm và dần dần giảm lực, thả nó ra - kết quả là nó dừng lại ở khoảng cách 3/4 chiều dài của ống tiêm tính từ đầu của nó (Hình 9). Xác định lực tại

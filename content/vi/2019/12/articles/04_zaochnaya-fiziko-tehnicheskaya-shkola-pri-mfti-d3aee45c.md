@@ -100,17 +100,17 @@ HOÁ HỌC
 
 ⟦figure⟧
 
-Hình 6
+Cơm. 6
 
 do công ty du lịch “All for Vacation” thực hiện trong 4 tháng (Hình 7). Trong mỗi tháng, tổng số phiếu bán được và giá trị trung bình
 
 ⟦figure⟧
 
-Hình 7
+Cơm. 7
 
 giá một vé thấp (Hình 8). Được biết, thu nhập của công ty từ việc bán từng voucher không phụ thuộc vào điểm đến trong kỳ nghỉ và bằng 10% giá trung bình của một voucher trong tháng hiện tại. Thu nhập tối đa của công ty du lịch là vào tháng nào?
 
-Hình 8
+Cơm. 8
 
 1 (2 điểm). Tính khối lượng riêng của dung dịch natri cacbonat 12% thu được bằng cách làm bay hơi dung dịch 10% nặng 150 g đến thể tích 112 ml. 2 (5 điểm). Muối Berthollet nặng 24,5 g được nung với sự có mặt của mangan dioxit. Khí thu được được trộn với khí được tạo thành do phản ứng của mangan dioxit nặng 26,1 g với lượng dư axit clohydric đậm đặc. Xác định mật độ tương đối của hỗn hợp khí thu được so với không khí. Các thành phần của hỗn hợp này có thể tương tác với nhau không? 3 (15 điểm). Bốn chất được cho: dung dịch natri hydroxit, axit clohydric, carbon dioxide và crom (III) oxit. Viết ít nhất mười lăm phương trình phản ứng liên quan đến các chất này, cũng như các sản phẩm tương tác của chúng. 4 (4 điểm). Trong dung dịch nước gồm axit clohydric và axit nitric nặng 170 g, tỉ số giữa khối lượng nước và khối lượng của cả hai axit là 3:2. Khi xử lý dung dịch này bằng natri bicarbonat dư thì có 33,6 lít khí thoát ra. Xác định thành phần khối lượng của mỗi axit trong dung dịch. 5 (4 điểm). Khối lượng nguyên tử của đồng vị ổn định của nguyên tố X là 4,98 $10^{24}$ g. Xác định đó là loại nguyên tố nào và tính thể tích flo (l, n.u.) có thể phản ứng với một chất đơn giản của nguyên tố X có khối lượng 6,0 g. Thể tích này sẽ là bao nhiêu ở áp suất 2 atm và nhiệt độ 40 q C? 6 (8 điểm). Đồng vị của nguyên tố X và Y có số khối lần lượt là 37 và 40. Hạt nhân của chúng chứa 20 neutron. 1) Xác định các nguyên tố hóa học tương ứng với các đồng vị, viết cấu hình electron nguyên tử của chúng. 2) Xác định trạng thái oxi hóa đặc trưng của các nguyên tố này và viết cấu hình electron
 
@@ -124,7 +124,7 @@ cho tất cả các hạt tích điện thu được. 3) Viết công thức tí
 
 GIẢI PHÁP
 
-Hình 10
+Cơm. 10
 
 ⟦column⟧
 
@@ -132,13 +132,13 @@ Hình 10
 
 ⟦figure⟧
 
-Hình 9
+Cơm. 9
 
 hiện tượng, viết phương trình phản ứng xảy ra ở dạng phân tử và dạng ion ngắn. 9 (5 điểm). Thực hiện chuỗi biến đổi (Hình 10).
 
 ⟦figure⟧
 
-Hình 11
+Cơm. 11
 
 TỪ TRẢ LỜI, QUYẾT ĐỊNH CỦA KAZAN
 
@@ -150,4 +150,4 @@ NHIỆM VỤ
 
 1. Đáp số được thể hiện ở Hình 1. 2. 8 phút 20 giây. Nếu khoảng cách từ cây cọ đến cây baobab là S mét thì tốc độ của dòng sông là S 25 m phút. Gọi vận tốc của một con cá sấu sống là V m min thì S = 25 (V - S 25), vì một con cá sấu sống bơi được quãng đường S trong 25 phút ngược dòng
 
-Hình 1
+Cơm. 1

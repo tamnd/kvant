@@ -45,7 +45,7 @@ DOI: https://doi.org/10.4213/kvant20190702
 
 ⟦figure⟧
 
-Hình 1
+Cơm. 1
 
 được tính bằng cách chuyển song song điểm n (Hình 1).
 
@@ -71,11 +71,11 @@ trường hợp đa chiều
 
 ⟦figure⟧
 
-Hình 2
+Cơm. 2
 
 chọn ba điểm bất kỳ trong số bảy điểm này thì có hai điểm được chọn nối với nhau bằng một đoạn thẳng. Định lý Moser ngay lập tức suy ra từ điều này. Với mỗi màu chúng ta sẽ có đầu dò 7 điểm riêng, trong đó thay vì 1 sẽ là khoảng cách còn thiếu ở màu này. Hãy chọn một điểm tùy ý trên mặt phẳng và xem xét tất cả các vectơ của chùm tia đi ra từ điểm này. Hãy đánh số màu tùy ý và xem xét đầu dò cho màu 1. Trong mỗi đầu dò trong số ba đầu dò 7 điểm, hãy chọn một trong 7 điểm, ví dụ $A_{4}$. Sau đó, mỗi đầu dò có 7 tia riêng. Theo Bổ đề 1, chúng ta xoay đầu dò 7 điểm cho màu 2 theo một góc sao cho tích của 7 tia 1 và 2 chứa $7^{2}$ vectơ khác nhau (đó là 49 tia) và xoay đầu dò 7 điểm cho màu 3 theo một góc sao cho tích của 49 tia và 7 tia này chứa $7^{3}$ vectơ khác nhau. Theo Bổ đề 2, các đầu của các vectơ $7^{3}$ này - $7^{3}$ các điểm khác nhau trên mặt phẳng - tạo thành 49 đầu dò cho màu 3, chúng cũng tạo thành 49 đầu dò cho màu 2 và 49 đầu dò cho màu 1. Để hoàn thiện chứng minh, chỉ cần lưu ý rằng trong
 
-Bài báo của Raisky đưa ra cách chứng minh định lý về không gian n chiều: Cho các tập hợp $A_{1}, A_{2},^{…}, A_{n} +_{1}$ tạo thành một lớp phủ của không gian Euclide n chiều $R^{n} (n >$ 1); thì trong số chúng có một tập hợp $A_{i}$ sao cho với mọi d > 0 tồn tại một cặp điểm từ tập hợp này, khoảng cách giữa chúng bằng d. Để chứng minh định lý ở dạng này, không cần có ý tưởng mới, ngoại trừ việc xây dựng thăm dò trong $R^{n}$ và chứng minh Bổ đề 1. Để không hy sinh khả năng trình bày, chúng ta xét trường hợp không gian ba chiều; đối với kích thước lớn, những khó khăn hoàn toàn là kỹ thuật. (Lưu ý rằng trong bài viết của Raisky, bằng chứng đã được chỉnh sửa đáng kể; ở đây tôi đã cố gắng tái tạo phiên bản gốc.) Hãy xây dựng một thăm dò cho $R^{3}$. Raisky gọi trục xoay là một đỉnh 5 điểm gồm 4 đỉnh của một tứ diện đều có cạnh d và một điểm b khác, đối xứng với một trong các đỉnh của nó - đỉnh a - so với mặt (Hình 3). Ông gọi đầu dò là đầu dò 9 điểm, thu được từ hai trục quay, kết hợp bởi các đỉnh a và quay sao cho khoảng cách giữa các điểm b của các trục quay này cũng bằng d (Hình 4). Hình 3
+Bài báo của Raisky đưa ra cách chứng minh định lý về không gian n chiều: Cho các tập hợp $A_{1}, A_{2},^{…}, A_{n} +_{1}$ tạo thành một lớp phủ của không gian Euclide n chiều $R^{n} (n >$ 1); thì trong số chúng có một tập hợp $A_{i}$ sao cho với mọi d > 0 tồn tại một cặp điểm từ tập hợp này, khoảng cách giữa chúng bằng d. Để chứng minh định lý ở dạng này, không cần có ý tưởng mới, ngoại trừ việc xây dựng thăm dò trong $R^{n}$ và chứng minh Bổ đề 1. Để không hy sinh khả năng trình bày, chúng ta xét trường hợp không gian ba chiều; đối với kích thước lớn, những khó khăn hoàn toàn là kỹ thuật. (Lưu ý rằng trong bài viết của Raisky, bằng chứng đã được chỉnh sửa đáng kể; ở đây tôi đã cố gắng tái tạo phiên bản gốc.) Hãy xây dựng một thăm dò cho $R^{3}$. Raisky gọi trục xoay là một đỉnh 5 điểm gồm 4 đỉnh của một tứ diện đều có cạnh d và một điểm b khác, đối xứng với một trong các đỉnh của nó - đỉnh a - so với mặt (Hình 3). Ông gọi đầu dò là đầu dò 9 điểm, thu được từ hai trục quay, kết hợp bởi các đỉnh a và quay sao cho khoảng cách giữa các điểm b của các trục quay này cũng bằng d (Hình 4). Cơm. 3
 
 ⟦folio 12⟧
 
@@ -89,7 +89,7 @@ Bổ đề 2 thay đổi một chút. Tích của tia n và tia k chứa n k vec
 
 ⟦figure⟧
 
-Hình 4
+Cơm. 4
 
 Rõ ràng là có sự quay trục chính như vậy. Chứng minh Bổ đề 1 cần sửa đổi một chút. Đối với một n con trỏ cho trước, hãy chọn một mặt phẳng trong $R^{3}$ sao cho hình chiếu của n con trỏ lên mặt phẳng này chứa n điểm khác nhau. Chúng ta hãy chọn vị trí ban đầu (xoay) của con trỏ k so với mặt phẳng này sao cho hình chiếu của nó chứa k điểm khác nhau. Trên mặt phẳng, chúng ta có chùm tia n và chùm tia k, trong đó Bổ đề 1 hợp lệ. Chúng ta hãy xét chuyển động quay của chùm tia k ban đầu quanh một đường thẳng vuông góc với mặt phẳng đã chọn. Hình chiếu lên mặt phẳng chứa $n_{◊} k$ các vectơ khác nhau, điều này chứng tỏ Bổ đề 1 cho $R^{3}$. Phần còn lại của bằng chứng không thay đổi.
 
@@ -101,7 +101,7 @@ Chứng minh được đề xuất không sử dụng những ý tưởng còn t
 
 ⟦figure⟧
 
-Hình 5
+Cơm. 5
 
 Hình 5. Tất cả các hình tam giác đều mở, các đỉnh dưới và bên phải của hình lục giác không thuộc các hình này. Nếu chúng ta lấy cạnh của tam giác là 1 thì khoảng cách $d_{1} = 2$ không được nhận ra như nhau trên các bộ $A_{1},^{…}, A_{4}$
 

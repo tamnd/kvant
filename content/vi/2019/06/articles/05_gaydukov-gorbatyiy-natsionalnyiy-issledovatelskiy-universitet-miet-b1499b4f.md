@@ -63,7 +63,7 @@ xe đẩy nhẹ? b) Nhiệt lượng tỏa ra sau va chạm là bao nhiêu? 3. T
 
 ⟦figure⟧
 
-Hình 9
+Cơm. 9
 
 năng lượng ròng của quả bóng ở điểm dưới cùng của quỹ đạo tăng ' $W_{1} = 0,1$ mJ, và ở điểm trên cùng của quỹ đạo giảm ' $W_{2} = 0,3$ mJ so với các giá trị động năng tại các điểm này trước khi trường được bật. Xác định góc D. Bỏ qua ma sát và sức cản của không khí. 5. Năng lượng của tụ điện có điện dung C = = 2 nF, nằm trong mạch dao động lý tưởng, trong quá trình dao động đạt giá trị cực đại W m ​​= 0,1 μJ trong các khoảng W = 1 μs. Xác định biên độ dao động của dòng điện trong mạch.
 
@@ -71,7 +71,7 @@ Cách 2 1. Một khối có khối lượng m = 200 g được ép vào một b�
 
 ⟦figure⟧
 
-Hình 10
+Cơm. 10
 
 Năng lượng ròng của quả bóng ở điểm dưới cùng của quỹ đạo giảm ' $W_{1} = = 0,6$ mJ, và ở điểm trên cùng của quỹ đạo tăng ' $W_{2} = 0,1$ mJ so với các giá trị động năng tại các điểm này trước khi trường được bật. Xác định góc D. Bỏ qua ma sát và sức cản của không khí. 5. Trong một mạch dao động lý tưởng gồm một tụ điện có điện dung C = = 0,01 μF và một cuộn dây sẽ xảy ra dao động điều hòa. Năng lượng của tụ điện thay đổi từ giá trị cực đại về 0 trong thời gian W = 1 μs. Xác định độ tự cảm của cuộn dây. Ấn phẩm được chuẩn bị bởi G. Gaidukov, I. Gorbaty
 
@@ -89,13 +89,13 @@ NHIỆM VỤ
 
 ⟦figure⟧
 
-Hình 1
+Cơm. 1
 
 2. 77. Hãy để các cô gái có x sổ ghi chép. Masha sử dụng nhãn dán 7 + 7 ( x - 7 ) và Sveta sử dụng 11 + 11 ( x - 11 ). Vì tất cả các nhãn dán đều được sử dụng nên 7 + 7 ( x - 7 ) = 11 + 11 ( x - 11 ). Giải phương trình này, ta được $x =^{17}$. Điều này có nghĩa là mỗi bộ chứa 7 + 7 ( 17 - 7 ) = 77 nhãn dán. 3. Xem ví dụ trong Hình 2.
 
 ⟦figure⟧
 
-Hình 2
+Cơm. 2
 
 4. Anton. Họ đã vượt qua một số camera X theo thứ tự B, A, B và camera Y theo thứ tự B, A, B. Giả sử rằng họ đã vượt qua camera X trước đó. Giả sử Anton không bị ngã. Vì anh ta là người nhanh nhất và đã dẫn trước Vova nên anh ta sẽ luôn dẫn trước Vova và tình huống “B, A, B” sẽ không xảy ra. Sự mâu thuẫn. Trường hợp họ vượt qua Y sớm hơn X cũng được coi là tương tự.
 
@@ -127,13 +127,13 @@ $= 100 400 200 399 199^{…} 201 1$
 
 ⟦figure⟧
 
-Hình 12
+Cơm. 12
 
 i ở cột đầu tiên cũng chứa một. Vì mũi tên đầu tiên không có cặp nên mũi tên thứ hai chỉ có thể dẫn đến cột thứ i thứ 2 (hai cột ở cột thứ i thứ nhất đã bị chiếm giữ). Ngoài ra còn có một đơn vị ở cột thứ 2 i và mũi tên từ nó chỉ có thể dẫn đến cột i thứ 3 (hai đơn vị ở cột i 1 và i 2 đã bị chiếm giữ). Tiếp tục, chúng ta đến một cột trong cột thứ n, từ đó mũi tên không còn nơi nào để đi. Sự mâu thuẫn. 6. 150q. Cho đường cao BM của tam giác ABC cắt đường thẳng AK tại điểm O (Hình 13). Thì COM AOM 60 q. Vậy AOC 120 q và COB 120 q. Do đó, tam giác BOC và KOC có cạnh và góc bằng nhau.
 
 ⟦figure⟧
 
-Hình 13 nằm đối diện với số lớn hơn (được gọi là dấu hiệu thứ tư của sự bằng nhau của các tam giác). Do đó OB = OK, tức là tam giác BOK là tam giác cân có góc 120q tại đỉnh O. Do đó OKB là 30 q và AKB là 150 q. 7. 3920000. Ước tính. Chúng ta sẽ giả định rằng những viên đá trong đống nằm chồng lên nhau và từ những đống đã chọn, Petya sẽ lấy những viên đá trên cùng (hiện tại). Hãy đánh số các viên đá trong mỗi cọc từ dưới lên trên với các số từ 1 đến 400. Khi đó số điểm Petya nhận được ở mỗi nước đi bằng hiệu số của số viên đá bị loại bỏ. Kết quả là anh ta sẽ nhận được tổng có dạng $a_{1} a_{2} a_{3} a_{4}^{…}$ ... $a_{39999} a_{40000}$, trong đó $a_{i}$ là số của các viên đá tương ứng.
+Cơm. 13 nằm đối diện với số lớn hơn (được gọi là dấu hiệu thứ tư của sự bằng nhau của các tam giác). Do đó OB = OK, tức là tam giác BOK là tam giác cân có góc 120q tại đỉnh O. Do đó OKB là 30 q và AKB là 150 q. 7. 3920000. Ước tính. Chúng ta sẽ giả định rằng những viên đá trong đống nằm chồng lên nhau và từ những đống đã chọn, Petya sẽ lấy những viên đá trên cùng (hiện tại). Hãy đánh số các viên đá trong mỗi cọc từ dưới lên trên với các số từ 1 đến 400. Khi đó số điểm Petya nhận được ở mỗi nước đi bằng hiệu số của số viên đá bị loại bỏ. Kết quả là anh ta sẽ nhận được tổng có dạng $a_{1} a_{2} a_{3} a_{4}^{…}$ ... $a_{39999} a_{40000}$, trong đó $a_{i}$ là số của các viên đá tương ứng.
 
 100 $200^{2}$. Tuy nhiên, lưu ý rằng mọi số lớn sẽ được tính vào tổng ít nhất một lần bằng dấu trừ: điều này sẽ xảy ra, chẳng hạn, tại thời điểm Petya lần đầu tiên lấy viên đá có số này ra. Tương tự, mỗi số trong số 200 số nhỏ sẽ được tính vào tổng ít nhất một lần bằng dấu cộng (tại thời điểm Petya loại bỏ viên đá cuối cùng có số này). Vì vậy, kết quả tối đa của Petit không vượt quá 99 $400 399^{…} 201 99$ $200 199^{…} 1$
 
