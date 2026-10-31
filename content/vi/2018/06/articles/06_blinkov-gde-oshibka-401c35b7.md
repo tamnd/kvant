@@ -1,0 +1,38 @@
+---
+id: 2018-6-blinkov-gde-oshibka-401c35b7
+issue: kvant_2018_6
+year: 2018
+number: "6"
+title: Sai lầm ở đâu?
+authors:
+  - Блинков А. Д.
+rubric: shkola-v-kvante
+rubric_sub: Школа в «Кванте»
+page_first: 33
+page_last: 33
+tag: 2TVW
+lang: vi
+source: kvant_digital
+extraction: native
+content_sha256: 1ea45b47b57df8289c08ccb7bdb550899b4cf0e961a9fa206fb2cbe771c6c4fe
+prompt_sha256: draft-1
+translated_from: content/ru/2018/06/articles/06_blinkov-gde-oshibka-401c35b7.md
+source_content_sha256: a05c5495bd0d22001b90195a4816fe3b34c327e76e92e7e9edba379193cfe6cf
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+TRƯỜNG KVANT
+
+Sai lầm ở đâu?
+
+(Logic, tổ hợp, xác suất)
+
+CÁC VĂN BẢN GỢI Ý CÓ THỂ CÓ LỖI (cả ở điều kiện bài toán lẫn ở đáp án, lời giải). Hãy cố gắng tìm thấy chúng ở đâu. Bài toán 1. Hiệp sĩ và nô lệ sống trên đảo. Một ngày nọ, 12 người dân đảo tụ tập quanh một chiếc bàn tròn. Mỗi người trong số họ đều nói: “Cả hai người hàng xóm của tôi đều là những kẻ nói dối”. Có bao nhiêu kẻ nói dối ở bàn ăn? Đáp số: 6. Lời giải. Mọi người ngồi cùng bàn không thể là kẻ nói dối, vì khi đó câu nói của mỗi người trong số họ đều đúng. Điều này có nghĩa là có ít nhất một hiệp sĩ trên bàn. Người hàng xóm bên phải của anh ta là kẻ nói dối, vì hiệp sĩ đã nói sự thật. Hàng xóm bên phải của kẻ nói dối là một hiệp sĩ, vì kẻ nói dối đã nói dối. Hàng xóm bên phải của hiệp sĩ này là một kẻ nói dối, v.v. Như vậy, hiệp sĩ và nô lệ ngồi chung một chỗ, do đó có 6 kỵ sĩ. Lý do có vẻ hợp lý. Có bất kỳ lỗi nào không? Bài toán 2. Vasya và Petya lần lượt tô màu các ô trên bảng có kích thước 4 x 4 sao cho $квадрат^{2} u^{2}$ không được hình thành từ các ô đã sơn. Người nào không thể thực hiện bước tiếp theo sẽ thua. Petya bắt đầu. Ai trong số họ có thể giành chiến thắng, bất kể đối thủ chơi thế nào? Đáp số: Vasya. Lời giải. Dù Vasya và Petya chơi thế nào, họ chắc chắn sẽ thực hiện tổng cộng 12 nước đi. Petya sẽ phải thực hiện nước đi thứ mười ba nên sẽ thua. Tại sao nhất thiết phải có 12 chiêu? Bài toán 3. Cho một bàn cờ có kích thước $^{4}$ $u^{4}$ với màu cờ vua. Trong một bước, bạn có thể chọn một hình vuông tùy ý có kích thước 2 u 2 trên bảng này và thay đổi màu của từng ô của nó thành ô đối diện. Có thể đảm bảo rằng tất cả các ô vuông trên bảng có cùng màu trong một vài bước không? Đáp số: không thể được. Lời giải. Lưu ý khi tô màu lại hình vuông 2 u 2 bất kỳ ở hàng nào
+
+⟦column⟧
+
+Bàn cờ còn lại hai ô trắng và hai ô đen. Vì vậy, tất cả các ô không thể có cùng màu. Có vẻ như bất biến cần thiết đã được tìm thấy. Nhưng không phải nó quá đơn giản sao? Bài toán 4. Xét các “từ” có độ dài 100, chỉ bao gồm các chữ cái A, B và C. Những từ nào lớn hơn: những từ trong đó mỗi đoạn AB và AC xuất hiện với số lần chẵn hoặc những từ trong đó mỗi đoạn như vậy xuất hiện với số lần lẻ? Đáp số: bằng nhau. Lời giải. Hãy xem xét một từ trong đó cả hai phân đoạn xuất hiện với số lần lẻ. Hãy thay thế đoạn đầu tiên bằng đoạn khác (AB bằng AC hoặc ngược lại). Hãy lấy một từ trong đó cả hai đoạn xuất hiện với số lần chẵn. Sự tương ứng này là một đối một, do đó có cùng số lượng từ của cả hai loại. Lý do điển hình cho bài toán tương tự. Tôi tự hỏi liệu có thể bắt đầu cuộc tranh luận bằng những từ trong đó cả hai đoạn xuất hiện với số lần chẵn không? Bài toán 5. Hai người bạn đến chợ. Anh chàng vui vẻ đã bán 20 con mèo với giá từ 12 đến 15 rúp và 20 chiếc túi với giá từ 30 kopecks đến 1 rúp. Chứng minh rằng mỗi người bạn của bạn có thể mua một con lợn trong một lần chọc để họ trả số tiền như nhau. Lời giải. Lưu ý rằng giá thấp nhất của một con lợn trong chuồng là 12 rúp 30 kopecks và cao nhất là 16 rúp. Do đó, số phương án chi phí có thể có cho một con lợn trong một cú chọc không vượt quá số số nguyên trong khoảng [1230; 1600], tức là không quá 371. Đồng thời, số cặp khác nhau thuộc loại “túi mèo” bằng 20 20 400. Do đó, theo nguyên lý Dirichlet, có hai cặp có cùng giá trị. Thật khó để tranh luận với nguyên tắc Dirichlet. Nếu bạn vẫn cố gắng thì sao? Bài toán 6. 8 kỳ thủ tham gia thi đấu vòng tròn một lượt (mỗi kỳ thủ gặp nhau một lần). Thắng được 1 điểm, hòa được 0,5 điểm và thua được 0 điểm. Kết quả là tất cả những người tham gia đều ghi được số điểm khác nhau. Sau đó một số kỳ thủ bị loại và kết quả trận đấu
