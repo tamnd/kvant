@@ -1,0 +1,43 @@
+---
+id: 1974-8-zadachi-2f9f10c2
+issue: kvant_1974_8
+year: 1974
+number: "8"
+title: Tasks
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 63
+page_last: 63
+page_labels: "61"
+tag: ZT7K
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: eb5fdab6758389b5916e55eef664fe5d762d08ad01fd93682d7b968b2fa6e876
+prompt_sha256: draft-1
+translated_from: content/ru/1974/08/articles/15_zadachi-2f9f10c2.md
+source_content_sha256: 4e1ef957e080b4c605fa66bf8bc146cb96e4f57be4c19d5c97b6eee452fa93e7
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 61⟧
+
+Quests
+
+1. Eight-class schools were built in Sheregga. In front of each of them stands a seventh-grader who is shorter. Prove that if the rows of seventh-graders and eighth-graders are arranged according to height, then each eighth-classic will still be taller than the seventh-grader standing in front of him.
+
+2. The boy caught a fish in the river. He immediately wanted to at least approximately determine the mass of this fish. How can he do this if he has a flat, strong fishing rod and in his supplies he found a loaf of bread weighing 1 kcal?
+
+3. Prove that $n^2 + n + 1$ is not divisible by 1974 for any integer $n$.
+
+4. The long corridor has electrical wiring. A man, entering from one end of the corridor, turned on the lamp, and after passing the corridor, he turned it off. What is the wiring diagram if the light bulb can be turned on and off from the common ends of the hallway?
+
+5. Given a chessboard of size $100 \times 100$ cells. We call two cells adjacent if they have a common side. The cells of this board contain integer numbers, and the numbers in adjacent cells differ by no more than 20. Prove that there are three identical numbers on the board.
+
+6. There is an aluminum ball with volume $20 \text{ cm}^3$ and mass $18 \text{ g}$. How to determine whether it is solid or whether there is an air cavity inside it?
+
+Is there any way to find out whether this cavity is located in the center of the ball or near its surface?
+
+Figure E. Nazarova
