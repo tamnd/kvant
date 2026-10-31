@@ -1,0 +1,44 @@
+---
+id: 1972-5-berezin-smolyanskiy-matematicheskie-golovolomki-i-razvlecheniya-43fdb199
+issue: kvant_1972_5
+year: 1972
+number: "5"
+title: Math Puzzles and Fun
+authors:
+  - Березин В. Н.
+  - Смолянский М. Л.
+rubric: raznoe
+page_first: 53
+page_last: 53
+page_labels: "51"
+tag: JRQL
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: d1ce72d583e5526a3e30d37fcd5c6845f086966ffb33646d8c5470d27309d6f9
+prompt_sha256: draft-1
+translated_from: content/ru/1972/05/articles/13_berezin-smolyanskiy-matematicheskie-golovolomki-i-razvlecheniya-43fdb199.md
+source_content_sha256: 6431837795d183fedbd77b0adcff29b3d16ea020e3c9286867aa327653a1d7f7
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 51⟧
+
+MATHEMATICAL
+PUZZLES AND ENTERTAINMENT
+
+M. Gardner's book *) was published under this title in 1971.
+
+This is not the first translation of M. Gardner's books. Previously published translations of his books “This Right, Left World,” “The Theory of the Relative Length of Millions,” and “Mathematical Miracles and Mysteries” won wide recognition among Soviet readers. The secret of the author's success is that he knows how to take care of the reader: where it is necessary to explain something, he does not neglect it; where the reader would happily carry out the reasoning or calculations himself, Gardner provides him with such an opportunity. In Mathematical Puzzles and Entertainment, the author's style - a combination of a fairly high level of scientific presentation for a popular text with a soft, tactical and, as a rule, appropriate youth - remains the same. He developed his own view of science, it is believed, back in the 50s, when he was researching what pseudoscience was. However, a little later he had the opportunity to present a book by the famous philosopher and physicist Carnap, who tried to explain to the general reader what the concepts, theories and methods of the physical sciences are. On the other hand, Martin Gardner acquired *) M. Gardner. Math puzzles and entertainment. M., "Mir", 1971.
+
+experience as a queue waiter, working before World War II in newspapers. After the war, he began writing short stories, and intended to become a professional writer, specializing in fiction, but the attraction to the exact sciences, in which he sought to study and paradoxically, prevailed.
+
+The book "Math Puzzles and Fun" is a collection of mathematical popular science essays and individual problems with solutions. These materials have withstood reader criticism since they were first published in Scientific American, where Martin Gardner has been running the “Mathematical Games” section since 1957. The author included the most interesting letters from the reader in the book.
+
+What makes it fun? Of course, it's not just about the gentle young man. Entire pages are devoted to the history of the emergence and development of substitute mathematical problems, games and theories, and the reader is given the opportunity to participate in the creation of this history. The reader (and he is not always a professional mathematician) finds solutions to problems that sometimes baffle even specialists, although they do not require any deep knowledge from the one who takes them. An important role for entertainment is played by the necessary conclusions to which Gardner leads the reader.
+
+And one more aspect of the entertaining nature of Gardner’s book deserves special mention. Referring to the famous puzzle inventor Henry Dudeney, Gardner writes: "... the literature on entertaining mathematics suffers from monstrous repetition." And then he adds: “...I want to hope that in my book the reader will find a larger than usual portion of fresh material that has not previously been found on the pages of entertaining mathematical literature.” Most readers will find something new and unexpected in almost any assessment or selection of problems included in Mathematical Puzzles and Entertainment.
+
+Establishing his credo, Martin Gardner writes: “Creative mathematicians usually remain interested in entertaining problems and puzzles. Topology takes its impudence from Euler's work on the seven Königsberg places. Leibniz spent a lot of time solving a puzzle that recently experienced a rebirth under the name “Check your level of development.”

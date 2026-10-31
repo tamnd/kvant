@@ -1,0 +1,57 @@
+---
+id: 1972-12-venetskiy-sorkin-iii-matematicheskaya-olimpiada-mesi-fa4c8ebd
+issue: kvant_1972_12
+year: 1972
+number: "12"
+title: III Mathematical Olympiad MESI
+authors:
+  - Венецкий И. Г.
+  - Соркин Ю. И.
+rubric: informatsiya
+rubric_sub: Информация
+page_first: 67
+page_last: 67
+page_labels: "65"
+tag: 41F6
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: cb417dbca1054d14e8825ddba6139fc9cb7bf6ac52fb93520bee15d70ef27f35
+prompt_sha256: draft-1
+translated_from: content/ru/1972/12/articles/15_venetskiy-sorkin-iii-matematicheskaya-olimpiada-mesi-fa4c8ebd.md
+source_content_sha256: 42b6af373b4cf09de4be4aa210e78f6618447e637d592da73583a5d06541766b
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 65⟧
+
+III Mathematical Olympiad MESI
+
+The Moscow Institute of Economics and Statistics, which celebrated its 40th anniversary this year, currently occupies a leading position in the country in training specialties in mathematical methods in economics. That is why mathematics plays a particularly important role for those entering MESI.
+
+This is the third year that MESI has been holding a Mathematical Olympiad for schoolchildren.
+
+The Olympiad is held in 2 rounds: I round - correspondence and II round - full-time.
+
+Schoolchildren who have successfully compared the problems of the first round and sent solutions no later than January 25, 1973 (by postmark) will be allowed to participate in the second full-time round, which will be held at MESI. Each participant of the Olympiad admitted to the 2nd labor will be notified at the address indicated by him. Success in the Olympiad will be taken into account when entering the institute.
+
+Solving problems (all or part of them) must be completed in Russian in the student's Terrade. Our address: Moscow 119435, B. Savvinsky lane, 14, “Olympiad”.
+
+1st round task
+
+1. Calculate
+$$\frac{100}{99} + \frac{100.98}{99.97} + \frac{100.98.96}{99.97.95} + \cdots + \frac{100.98\cdots4.2}{99.97\cdots3.1}.$$
+
+2. Find the smallest root of the equation
+$$2^{|x+2|} - |2^{x+1} - 1| = 2^{x+1} + 1.$$
+
+3. Calculate without tables
+$$tg 5^\circ tg 55^\circ tg 65^\circ tg 75^\circ.$$
+
+4. Points D, E and F are taken on three sides of triangle ABC. Through points A, B and C, lines are drawn parallel to the sides of triangle DEF and forming triangle D'E'F'. Find the area of ​​triangle ABC if the area of ​​triangles DEF and D'E'F' are equal to 20 and 45 square units, respectively.
+
+5. Find the volume of the common part of two regular triangular paramidas, if it is known that the top of each of them lies in the center of the base of the other paramid, each lateral edge of one paramid intersects with one edge of the other paramid, the total height of the paramids forms angles equal to π/3 with the lateral edges of one paramid, and angles equal to π/6 with the lateral edges of the other paramid, the lateral edge of the first paramid is equal to 4√3.
+
+I. G. Venetsky, Yu. I. Sorkin

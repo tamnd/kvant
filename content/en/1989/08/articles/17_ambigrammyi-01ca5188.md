@@ -1,0 +1,48 @@
+---
+id: 1989-8-ambigrammyi-01ca5188
+issue: kvant_1989_8
+year: 1989
+number: "8"
+title: Ambigrams
+rubric: igry-i-golovolomki
+rubric_sub: Игры и головоломки
+page_first: 67
+page_last: 67
+page_labels: "65"
+tag: A9P7
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 63de84b424db44b3d24365d879c11e722124e01773cf26644b3914eeec5cacfd
+prompt_sha256: draft-1
+translated_from: content/ru/1989/08/articles/17_ambigrammyi-01ca5188.md
+source_content_sha256: fcfe4bb0ae60d514f19fd4644bfd1ae13a58dcd55d7373e2a4415bba9e91665d
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 65⟧
+
+Ambigrams
+
+Our readers hardly need to introduce the remarkable popularizer of mathematics M. Gardner. For many years he contributed to the mathematics section of Scientific American. After M. Gardner retired, he was succeeded by Douglas Hofstadter, who called this section “Metamagical Themes.” D. Hofstadter is a person with a wide range of scientific interests, including mathematics, physics, theoretical programming, genetics and philosophy. His book “Gödel, Escher, Bach: the eternal golden goat”, dedicated to the mathematical ideas of the outstanding logician Kurt Gödel and the motif of the works of M. Escher and J.-S. Bach, was included in the best-seller list, and its author received an honorary Pultzer Prize for Literature. Another book of his contains a collection of articles published by Hofstader in Scientific American.
+D. Hofstadter is a professor of theoretical programming at India University in the USA. He is currently working on a book dedicated to “ambigrams” - that’s what D. Hofstadter calls inscriptions that are read differently depending on how they are arranged*). Professor Hofstadter kindly presented «Kvant» with several ambigrams. All of them, of course, are written in English. The author invites readers «Kvant» to try their hand at composing ambigrams in Russian. He is ready to publish the most interesting of them in his book about ambigrams.
+
+1. You, of course, easily read “USA”, i.e. USA. Rotate the page clockwise 90° and you will read "USSR". D. Hofstadter finds that this ambigram is consonant with the new style of mutual relations between our countries.
+Four ambigrams with "physical meaning".
+
+2. The name of one of the greatest physicists of the 20th century, Niels Bohr, is written here. Rotate figure 90° counterclockwise...
+
+3. What is light anyway: a wave or a particle? Both statements are written here: “light is a wave” (“light is a wave”) and “light is a particle” (“light is a particle”).
+
+4. Poitron is a particle dual to the electron. This figure says “positron”, but if you turn the page and read it against the light, you will see “electron”.
+
+5. The greatest advances in the discovery of quantum mechanics belong to two scientists: Schrödinger and Heisenberg. On this figure you see the surname of one of them, and if you rotate the picture 180°, you will read the surname of the other.
+The next four ambigrams are dedicated to the lines of activity of science and art.
+
+6. This is the German composer J.-S. Bach. Rotate figure 90° counterclockwise: Fugue is a musical form that Bach used extensively.
+
+7. “Newoton” - on this ambigram his name rotates 180°.
+
+8. "Salvador Dali", reproductions of whose painting appears in «Kvant». Turn the page and read the inscription to the light...

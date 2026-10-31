@@ -1,0 +1,61 @@
+---
+id: 2008-4-pobediteli-konkursa-imeni-a-p-savina-matematika-6-8-200708-uchebnogo-goda-7de839da
+issue: kvant_2008_4
+year: 2008
+number: "4"
+title: Winners of the competition named after A.P. Savin “Mathematics 6-8” 2007/08 academic year
+rubric: konkurs-imeni-a-p-savina
+rubric_sub: Конкурс имени А. П. Савина
+page_first: 29
+page_last: 29
+page_labels: "27"
+tag: HVJ2
+lang: en
+source: kvant_digital
+extraction: native
+content_sha256: 689a5cd65ff2079ac31064b0f72e21b2e8062f9581eadb3569094b7c66a39506
+prompt_sha256: draft-1
+translated_from: content/ru/2008/04/articles/03_pobediteli-konkursa-imeni-a-p-savina-matematika-6-8-200708-uchebnogo-goda-7de839da.md
+source_content_sha256: 4b41f520f9fcc0e23891652d4bc113a6be8d37944b6ce9c70bf1d1fdf4861288
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 27⟧
+
+TO
+
+M
+
+Sh
+
+Competition named after A.P. Savin
+
+"Math 6–8"
+
+We are starting another competition to solve mathematical problems for students in grades 6–8. Send solutions to problems within a month after receiving this issue of the journal to the address: 119296 Moscow, Leninsky Prospekt, 64-A, «Kvant» (marked “Competition “Mathematics 6–8”). Be sure to include your name, class, and home address. As before, we welcome participation in the competition not only by individual schoolchildren, but also by mathematical clubs. We ask circle leaders to provide an email address or contact phone number. According to tradition, the winning clubs of the correspondence competition are invited to the final in-person tournament.
+
+1. There are 40 externally identical coins, among which 3 are counterfeit. Fake coins are lighter than real coins and have the same masses (the masses of real coins are also the same). How to select 18 real coins using three weighings on a cup scale without weights? V.Petrashev
+
+2. Prove that for any n-element set (n > 0), the number of its subsets, each of which contains an even number of elements, is equal to the number of its subsets, each of which contains an odd number of elements. As an example, figure shows all the subsets of the 3-element set of chess pieces:
+
+⟦column⟧
+
+3. On a checkered strip that is endless in both directions, there are three chips as shown at figure. You are allowed to add a chip to any three cells if one of these cells is exactly in the middle between the other two. It is also allowed to remove one chip from three cells that meet the same requirements. Is it possible to remove all the chips from the strip using these actions? A. Gribalko
+
+4. For which natural $n \ge 2$ is there a natural m such that m is divisible by n, m + 1 is divisible by n – 1, m + 2 is divisible by n – 2, … m + n – 1 is divisible by 1?
+
+I. Akulich
+
+5. A certain point lying inside the parallelogram was reflected symmetrically relative to its sides. The four new points turned out to be the vertices of the square. Is it true that the original parallelogram is a square? S.Dvoryaninov
+
+V. Senderov
+
+Winners of the competition named after A.P. Savin “Mathematics 6–8” 2007/08 academic year
+
+The following schoolchildren achieved the best results in the competition:
+
+Tommer Argaman - Beer Sheva (Israel), Eshel Hanasi school, 8th grade, Nikita Sopenko - Tambov, FML 14, 6th grade, Alexey Tsybyshev - Samara, gymnasium 1, 8th grade.
+
+and clubs: Mathematical Club at the University. D. Ben-Gurion in the Negev (Israel), heads P. Samovol, J. Heifetz, Lyceum 130, Novosibirsk, head L.N. Chusovitin, gymnasium 59, Ulan-Ude, head E.V. Batueva, Center for Additional Mathematical Education, Kurgan, heads O.I. Yuzhakov, E.G. Pushkareva, "Signum" at gymnasium 5, Cheboksary, head S.A. Ivanov, “Erudite” at Physics School 32, Astrakhan, head T.M. Sergeeva, gymnasium 1, Samara, head A.A. Gusev.

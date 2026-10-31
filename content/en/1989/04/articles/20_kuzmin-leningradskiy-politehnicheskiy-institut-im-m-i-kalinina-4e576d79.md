@@ -1,0 +1,58 @@
+---
+id: 1989-4-kuzmin-leningradskiy-politehnicheskiy-institut-im-m-i-kalinina-4e576d79
+issue: kvant_1989_4
+year: 1989
+number: "4"
+title: Leningrad Polytechnic Institute named after. M. I. Kalinina
+authors:
+  - Кузьмин Ю. Н. и др.
+rubric: ekzamenatsionnye-materialy
+rubric_sub: Экзаменационные материалы
+page_first: 71
+page_last: 71
+page_labels: "69"
+tag: O9A2
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: f42b3948da607e4e1f4a790c6cc7a4dd877639547dcaf5f8480580ef9b524837
+prompt_sha256: draft-1
+translated_from: content/ru/1989/04/articles/20_kuzmin-leningradskiy-politehnicheskiy-institut-im-m-i-kalinina-4e576d79.md
+source_content_sha256: b83966d132b774b6f2e45eaacbde60916f5d9b0d5efae6f5d37bc68ef4d58909
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 69⟧
+
+Actually, the temperatures in states 2 and 4 are the same.
+
+3. On a resistor with resistance $R$, when included in a neoctor circuit, power $P$ is released. If the same resistor is connected in parallel, then the same power $P$ will be released in the common resistors together. Give an example of such a scheme and justify it with calculations.
+
+4. Point $S_1$ is an image of the exact source $S$ in a flat mirror $M_1$, point $S_2$ is an image of the same source in mirror $M_2$ (Fig. 10). Find the length of the segment $S_1S_2$ if $SS_1=SS_2=a$ and the angle between the mirrors $2\alpha$.
+
+The publication was prepared by S. V. Atseylov, A. P. Baraban, Yu. A. Davydov, A. E. Kuchma
+
+Leningrad Polytechnic Institute named after. M. I. Kalinina
+
+Mathematics
+Written exam
+Option 1
+1. Solve the equation
+$$\frac{9}{17(4\cdot 2^x-3)} - \frac{1}{4\cdot 2^x-1} + \frac{2}{17(2^x-5)} = 0.$$
+
+2. Solve the inequality
+$$15\log_{1/6}(y/36) - 4\log_{1/6}(y/36)\log_{1/6}y - 28 > 0.$$
+3. The sum of the first three terms of a decreasing geometric progression with a positive value is 13, and the sum of their reciprocals is 13/9. Find the first term of the progression.
+4. Solve the system of inequalities
+$$\begin{cases} \sin x - \sin 2x + \sin 3x > 0, \\ 0 < x < \pi. \end{cases}$$
+5. A cone is inscribed in a sphere. Prove that the ratio $\frac{RS}{V}$, where $R$ is the radius of the base of the cone, $S$ is the area of ​​the lateral surface of the cone, $V$ is the volume of the ball, can be equal to $\frac{36\sqrt{3}}{25\sqrt{5}}$. What is the ratio of the height of the cone to the radius of the ball in this case?
+
+Option 2
+1. Solve the equation
+$$10 + \frac{3}{4\log_{25}x-1} - \frac{13}{6\log_5x-5} = 0.$$
+2. Solve the equation
+$$26\sin^2x - \sin 2x = 2.$$
+3. Solve the inequality
+$$|24x^2 - 39x - 8| < |18x^2 - 25x + 32|.$$

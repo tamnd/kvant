@@ -1,0 +1,58 @@
+---
+id: 1972-5-vilenkin-petrova-slet-uchaschihsya-fiziko-matematicheskih-shkol-14ed64bd
+issue: kvant_1972_5
+year: 1972
+number: "5"
+title: Meeting of students from physics and mathematics schools
+authors:
+  - Виленкин А. Н.
+  - Петрова Т. С.
+rubric: informatsiya
+rubric_sub: Информация
+page_first: 57
+page_last: 58
+page_labels: 55-56
+tag: LVLS
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 72aa5fa74a00a94ba8cef4d00655c2ce1b139e1af05a50523c088e36fdc19fa5
+prompt_sha256: draft-1
+translated_from: content/ru/1972/05/articles/15_vilenkin-petrova-slet-uchaschihsya-fiziko-matematicheskih-shkol-14ed64bd.md
+source_content_sha256: 5fd7874321fb3381190810729585d82850bbebe69a1fac0a6a37388e97de72fe
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 55⟧
+
+From January 3 to January 8, 1972, a light training of physics and mathematics schools took place in Leningrad. This is already the third slegt - the first two, held in Gorky and Tbilisi in 1971, were reported in «Kvant» No. 2 for this year.
+
+This time the organizer of the rally was Leningrad School No. 239. 18 cities were represented at the rally: Alma-Ata, Brest, Volgograd, Gorky, Dushanbe, Kazan, Kiev, Kishnev, Kostroma, Minsk, Moscow, Murmansk, Odessa, Riga, Tashkent, Tbilisi, Cheboksary and Leningrad.
+
+The organizing committee of the rally, headed by the teacher of the 239th school G.P. Poseshelsky, prepared an extensive program. The organization of care looked at themselves more than school, they compared it perfectly.
+
+On January 3, the grand opening of the meeting took place. January 4 was mathematics day. First, at the plenary session, Professor V. A. Zalgaler gave a report “The role of mathematics in fulfilling the tasks of the 9th Five-Year Plan.” This report talked about modern applications of mathematics in technology and industry, in particular, the use of automated systems. Then, Candidate of Physical and Mathematical Sciences A. E. Evseev gave a report on “Problems of the development of modern algebra.”
+
+After the plenary session there was a micro-curriculum in mathematics. It was led by Leningrad State University student Valery Fedotov. The student was given 7 problems (in two versions), which were given one hour to solve. You will find the text of the task at the end of the stats. Those who solved these problems went to another classroom, where they were offered one more of two problems (to choose from). Based on the results of the micro-curricular competition, 8 first degree diplomas were awarded, 18 - second and 26 - third.
+
+After the micro-college, the work of the sections of arithmetic, algebra, geometry, trigonometry, logic and two sections of applied mathematics began. The work of the sections was supervised by employees of the Leningrad Department of the Mathematical Institute (LOMI) of the USSR Academy of Sciences. 57 reports were heard. Among them were short messages and more reports. There were also biographical reports about outstanding mathematicians.
+
+For example, reports were read “The Conqueror of Prime Numbers P. L. Chebyshev” by Ira Shimkhina (9th grade, 8th school, Volgograd), “Fibonacci Numbers” by Aleksandr Sazonov (10th grade, 131st school, Kazan), “Sum of cubes of members of the arithmetic program by Andrei Voshchenkov (9th grade, 239th school, Leningrad), “Center and radius of an exact set on a plane” by Lyubov Bubel (10th grade, 40 school, Gorky), “Aximatics” by Vadim Stromov (10th grade, 239 school, Leningrad), “Geometric constructions using compasses” by Tamara Chaika (9th grade, 42 school, Tbilisi), “From units to squares” by Vladimir Pobochim (9th grade 121 school, Leningrad), “Dynamic systems” by Nikolai Maltsev (10th grade 40 school, Gorky), “Linear programming” by Elena Kozlova (9th grade 110 school, Tashkent), “Graphs and coloring maps” by Andrey Kalyazin (10th grade 444 school, Moscow), “Avicena - Tajik mathematician” Rano Nameeva (Anglertna school No. 2, Dushanbe) and others.
+
+When evaluating reports, the jury, composed of section leaders, paid attention primarily to the independence of work.
+
+Six special diplomas were awarded “For server training and meaningful presentation in the mathematics section.” They were received by Alexaンドr Ivanov (9th grade, 239 school, Leningrad) for the report “Bernoulli’s Theorem and its Application to Solving the Maximum and Minimum Problem,” Ira Vinokurova (10th grade, 110 school, Tashkent) for the report “Calculating the Length of Curves,” Nino Gvaramadze (10th grade, 42 school, Tbilisi) for the report “On a Property periodic functions”, Vladimir Lemer (10th grade, 32 school, Kostroma) for the report “Proof of Fermat’s little theorem”, Vladimir Emelyanov and Serey Rodina (10th grade, 366 school, Leningrad) for the joint report “Mathematical proof of the “benefits of predators”. In the last report, using the means of modeling and differential calculus, the dynamic equilibrium between “wolves” and “hares”, the change in their numbers over time after the shooting of the “wolves” and, thereby, the consequences of the shooting of the “wolves” were considered.
+
+Diplomas “For interesting communication in the section” (with the name of the section) of the first, second and third degrees were also awarded. 19 more schoolchildren received these diplomas. The remaining speakers received diplomas “For active teaching in the work of mathematics sections.”
+
+⟦folio 56⟧
+
+Two prizes from the magazine «Kvant» for independent thinking and a server-based approach to mathematics and physics were awarded to Igor Nerovnov (9th grade, 1st school, Brest) and Andrey Belyaev (10th grade, boarding school No. 2, Cheboksary).
+
+On the evening of January 4, the village flag was raised.
+
+January 5 was Physics Day. The work of the physics sections took place in the new building of the Faculty of Physics of Leningrad State University in Peterhof (near Leningrad). Leningrad University staff took an active part in the preparation and organization of the work of the physics sections. The plenary institution was opened by the deputy dean of the Faculty of Physics of Leningrad State University V. I. Vallov. He wished the village participants fruitful, interesting work and great success in their future scientific activities. A prominent Soviet scientist, one of the leading specialists in the field of optics, Professor S.E. Frish, gave an interactive report to the audience. He spoke about the development of physics in our country, about the role that physics plays in the progress of science and technology, and dwelled in detail on the main problems of optics that scientists have been working on these days.
+
+After the student's report, an experimental quiz was offered. It was very interesting. A small experiment was conducted in front of the audience, demonstrating some physical phenomenon, and all participants were asked to talk about the existence of the physical processes underlying this phenomenon. The correct answer required good knowledge of physics within the school course. Here are some of the experiments that were demonstrated in the quiz.

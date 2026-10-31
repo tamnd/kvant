@@ -1,0 +1,31 @@
+---
+id: 1989-11-azamov-spirali-iz-zmeek-rubika-22abe7f1
+issue: kvant_1989_11
+year: 1989
+number: "11"
+title: '[Rubik''s snake spirals]'
+authors:
+  - Азамов А. А.
+rubric: smes
+page_first: 84
+page_last: 84
+tag: IYMY
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 682f4b305798bed45d14d281a3ae8efc1950610ffcb105332168b98bca0fbb52
+prompt_sha256: draft-1
+translated_from: content/ru/1989/11/articles/01_azamov-spirali-iz-zmeek-rubika-22abe7f1.md
+source_content_sha256: 2753ac2f93c9109b7e12c4765f6f5ca0548916701e6c8a5607557c9552716307
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+The most symmetrical figure formed from a Rubik's snake of 24 sections (prisms) is a truncated octahedron. For sale, they began to package it in this form. If you take a snake twice as long, consisting of 48 sections, then it is not difficult to form a “ribbed” octahedron (Fig. 1). Inside it there is free space just for an octahedron of one short snake. If we had an infinite number of snakes, then twisting each of them into a truncated octahedron would line them up into an infinite target. It turns out that such a goal can be built from two “endless” snakes. To do this, one of them (for example, yellow-green) should be counted into a spiral (Fig. 2). Then the spiral, counting from another (red-blue) snake, fills the gaps between the turns. A fragment of such a chain, formed from two standard snakes, is shown in figure 3, and in figure 4 a diagram is given of how this phrase is repeated periodically.
+
+Is it possible to fill the space with a) a finite number of infinite snakes? 6) “snake” truncated octahedra? We leave it to the reader to answer these questions, which require not only a whole “horde” of snakes, but also considerable geometric imagination.
+
+A. Azamov

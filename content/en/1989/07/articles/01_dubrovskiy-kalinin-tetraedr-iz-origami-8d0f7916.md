@@ -1,0 +1,32 @@
+---
+id: 1989-7-dubrovskiy-kalinin-tetraedr-iz-origami-8d0f7916
+issue: kvant_1989_7
+year: 1989
+number: "7"
+title: '[Origami tetrahedron]'
+authors:
+  - Дубровский В. Н.
+  - Калинин А. Т.
+rubric: smes
+page_first: 84
+page_last: 84
+tag: HWJJ
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 3de48beaa9e5397601b820ccb646f34f2a429b4d548e85295436e3d8e183e335
+prompt_sha256: draft-1
+translated_from: content/ru/1989/07/articles/01_dubrovskiy-kalinin-tetraedr-iz-origami-8d0f7916.md
+source_content_sha256: 1bbbbb09b5fd18daf405a79a56788907ec9891099483045b1229d391bd3d6d86
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+We continue in this issue with a story about origam - the art of folding figures from a paper square without position or glue. The classic rules of origam are also used in the use of compasses, rulers and the like. Therefore, even the simplest geometric construction can turn into an interesting and non-standard problem. The folding of a regular tetrahedron begins with this task: it is necessary to outline on a sheet of paper the ssybys that form a network of regular triangles (Fig. 1; the blue dotted line on figure is the “gorge” ssyby, the red one is the “ridge” syby, the arcs mark angles of 30°).
+
+Think about how to do this using only one “tool” - the sheet of paper itself; The solution is in the next issue. The order of folding using prepared staples is shown in Figures 2-7. The color on each figure indicates the line along which the sheet is folded on this page. At this point A₁ and A₂ are combined with A, and B₁ and B₂ are combined with B, so that the tetrahedron ABCD is obtained. Edge AB₁ should fit into the pocket formed by folding the shelf at the top of the square along lines A₁B (Fig. 3, 4), and AB₂ should fit into the pocket along lines A₂B (Fig. 4-6).
+
+D.K.

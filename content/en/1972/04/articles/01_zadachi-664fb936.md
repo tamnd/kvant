@@ -1,0 +1,44 @@
+---
+id: 1972-4-zadachi-664fb936
+issue: kvant_1972_4
+year: 1972
+number: "4"
+title: '[Tasks]'
+rubric: kvant-dlya-mladshih-shkolnikov
+page_first: 83
+page_last: 83
+tag: 358P
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 157ae6c9442e32a9880795e57a093f436793ad077ee5fd54aafb190686d7e9ab
+prompt_sha256: draft-1
+translated_from: content/ru/1972/04/articles/01_zadachi-664fb936.md
+source_content_sha256: 529743322e706a7a144b8b4dd2bd952aa978a76d8d7e3bc6282d048ed6adc78f
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+QUANTUM
+for younger students
+
+1. Solve a number puzzle if each letter is a number.
+   aaf - de = ks
+   : — —
+   ac x d = ha
+   c + ef = dm
+
+2. There are six buttons. As long as none of them is pressed, the light does not light up. When you press the first, second and fifth buttons simultaneously, the light comes on. No other combination of pressed buttons turns on the light bulb. Draw a diagram of the simplest electrical circuit that has these properties.
+
+3. Place the numbers 1, 2, 3, 4, 5, 6 one at a time near the vertices of the triangle and near the midpoints of its sides so that the sum of the three numbers located near any side is the same.
+
+4. When you enter a river on a hot day, the water seems colder than the surrounding air, and when you exit, it’s the opposite. Why?
+
+5. Fill in the missing numbers in the table at figure.
+
+6. How can you determine the density of a stone if its volume cannot be directly changed?
+
+10 8 11 9 12 10 13

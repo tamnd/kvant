@@ -1,0 +1,34 @@
+---
+id: 2009-6-pamyati-izrailya-moiseevicha-gelfanda-d1f0026b
+issue: kvant_2009_6
+year: 2009
+number: "6"
+title: In memory of Israel Moiseevich Gelfand
+rubric: o-lyudyah
+page_first: 12
+page_last: 12
+page_labels: "10"
+tag: M8HU
+lang: en
+source: kvant_digital
+extraction: native
+content_sha256: 6095068f5cc719ba5a05058d76df5d4358ca41b1f08de2b912a6767298e39d5a
+prompt_sha256: draft-1
+translated_from: content/ru/2009/06/articles/01_pamyati-izrailya-moiseevicha-gelfanda-d1f0026b.md
+source_content_sha256: cc0bd7af03fc86f36f4d7699fb470b347dd3747780519abf5a7c29c4917978a3
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 10⟧
+
+KVANT 2009/№6
+
+IN MEMORY OF ISRAEL MOISEEVICH GELFAND
+
+Israel Moiseevich Gelfand, one of the most outstanding mathematicians of the last century, has passed away. I.M. Gelfand is an amazingly versatile scientist. It is not easy to name any of the fundamental branches of mathematics in which Gelfand did not have fundamental results. He was an internationally recognized world leader in functional analysis, Lie group theory and representation theory, and it is impossible not to note his contributions to algebra, geometry, topology, algebraic geometry, the theory of differential equations, mathematical physics, numerical analysis, applications to the non-physical sciences. I.M. Gelfand was a graduate of the Moscow mathematical school, a student of A.N. Kolmogorov. He closes the list of Luzin’s students and the first generation of his outstanding “grandsons.” They were D.E. Menshov, M.Ya. Suslin, A.Ya. Khinchin, P.S. Aleksandrov, P.S. Uryson, L.A. Lyusternik, M.A. Lavrentyev, P.S. Novikov, N.K. Bari, A.N. Kolmogorov, L.V. Keldysh, L.G. Shnirelman, S.M. Nikolsky, A.N. Tikhonov, L.S. Pontryagin, A.I. Maltsev, A.A. Lyapunov, M.V. Keldysh, I.M. Gelfand. During the difficult twenties, he did not have the opportunity to finish school. He did not receive higher education. From the age of nineteen, Israel Moiseevich began attending seminars at Moscow University and entered graduate school with Andrei Nikolaevich Kolmogorov. I.M. Gelfand defended his Ph.D. thesis in 1935 and began working as an assistant professor at the Faculty of Mechanics and Mathematics of Moscow State University. Soon he laid the foundations of the theory of normed rings (now called Banach algebras). These studies, which served as the basis for his doctoral dissertation, defended in 1940, immediately put him among the leading mathematicians of his time. Gelfand taught many courses at the Faculty of Mechanics and Mathematics: linear algebra, theory of partial differential equations, calculus of variations, and integral equations. He was a brilliant lecturer - many call him the best lecturer they have ever heard. He authored many books from which mathematicians all over the world have studied and continue to study. This is a textbook on linear algebra and a textbook on the calculus of variations, written in collaboration with colleagues, and a series of monographs on the theory of generalized functions. For half a century, Gelfand’s famous seminar, dedicated to “all mathematics,” operated, which served as a school for many generations of mathematicians. For a long time, Gelfand worked in the Department of Applied Mathematics of the V.A. Steklov Mathematical Institute, where he performed work of great national importance: he headed a group of scientists who carried out calculations related to the creation of a hydrogen bomb. Since the sixties, Gelfand headed a laboratory at Moscow University, where the main attention was paid to problems of medicine and biology. Gelfand was the founder and for many years editor-in-chief of the journal Functional Analysis and Its Applications. In the years
+
+⟦column⟧
+
+Israel Moiseevich Gelfand (2.09.1913–5.10.2009) when I.M. Gelfand was president of the Moscow Mathematical Society, this society reached the highest degree of its development. The great merits of Israel Moiseevich in the field of mathematical education in our country. He was among the founders of school mathematical circles at Moscow University, took an active part in holding the first Moscow Mathematical Olympiads, founded a Correspondence Mathematical School, and was among the founders of the famous Moscow Second School. He was the initiator of the publication and the main co-author of many wonderful brochures addressed to schoolchildren. I.M. Gelfand was a friend of our magazine. The first issue of «Kvant» for 1989 published a wonderful interview with academician I.M. Gelfand. And one more thing cannot be ignored: Israel Moiseevich provided significant assistance to many in difficult moments of their lives. A striking feature of his life in science was his incredible creative longevity: his path in science at the level of the highest achievements lasted seventy-five years. There is simply no one to compare him with in the entire history of science. In 2003, the “Unity of Mathematics” conference was held in the USA, dedicated to the ninetieth birthday of I.M. Gelfand. The greatest mathematicians of our time gave presentations at the conference. At this conference on September 2, on the day of his ninetieth birthday, the hero of the day himself made a report. His report was entitled “Mathematics as an Adequate Language.” The report reflected cutting-edge problems in algebra, number theory, geometry, analysis and applied mathematics. At the beginning of the report, Israel Moiseevich said the following words: “I don’t feel like a prophet. I'm just a student. (I do not consider myself a prophet. I am simply a student.) All my life I have learned from great mathematicians such as Euler or Gauss, from my senior and junior colleagues, from my friends and collaborators, but most of all from my students.” Gelfand's name will forever remain in the history of science.
