@@ -1,0 +1,47 @@
+---
+id: 1985-8-vasilev-gutenmaher-ivlev-traditsionnyiy-prazdnik-yunyih-matematikov-68bef201
+issue: kvant_1985_8
+year: 1985
+number: "8"
+title: Ngày lễ truyền thống của các nhà toán học trẻ
+authors:
+  - Васильев Н. Б.
+  - Гутенмахер В. Л.
+  - Ивлев Б. М.
+rubric: informatsiya
+rubric_sub: Информация
+page_first: 30
+page_last: 30
+page_labels: "28"
+tag: QN26
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 94a7f20ebd877e8326d8e84ec17cbb5f5daa4aa9283437d0ff2104a54dbdd8df
+prompt_sha256: draft-1
+translated_from: content/ru/1985/08/articles/12_vasilev-gutenmaher-ivlev-traditsionnyiy-prazdnik-yunyih-matematikov-68bef201.md
+source_content_sha256: acfaec46ae18e2daafa6fb5c97fd0a544cd57e9885493f3bb7c687fd0c851b36
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 28⟧
+
+Ngày lễ truyền thống của các nhà toán học trẻ
+
+Kỳ nghỉ của các nhà toán học trẻ ở thủ đô hiếu khách của Adjara thuộc Liên Xô - Batumi - từ lâu đã trở thành truyền thống. Hàng năm, các nhà toán học trẻ từ các vùng khác nhau của nước ta đều đến đây trong kỳ nghỉ thu. Các nhà tổ chức kỳ nghỉ - Hội đồng Công đoàn Adjara, Bộ Giáo dục Cộng hòa xã hội chủ nghĩa Xô viết tự trị Adjara, chi nhánh Adjara của "Tri thức" Hiệp hội toàn liên minh, ủy ban giáo dục nghề nghiệp khu vực của các nhà giáo dục, sở giáo dục công cộng thành phố và thị trấn Komsomol, Cung điện tiên phong và học sinh cộng hòa Batumi, trường trung học số 7 và 22, trường nội trú số 2 - đã cố gắng làm cho chương trình kỳ nghỉ trở nên thú vị và đa dạng hơn trong năm trước.
+
+Địa điểm trung tâm của kỳ nghỉ là hội nghị, tại đó ban giám khảo có thẩm quyền bao gồm các nhà toán học và giáo viên, cũng như những vị khách trẻ tuổi của kỳ nghỉ sẽ nghe báo cáo và tham gia thảo luận của họ. Năm nay, ban giám khảo, do chuyên gia từ Đại học bang Tbilisi N. Kakhniashvili đứng đầu, có khối lượng công việc nặng nề - số lượng báo cáo kỷ lục đã được nghe trong phần thứ năm (khoảng 60). Các báo cáo thú vị đã được trình bày bởi các học sinh từ các trường Moscow số 444, 57 và 91. Báo cáo hay nhất của ban giám khảo bao gồm báo cáo của một học sinh lớp 10 trường Leningrad số 45 R. Alekseev “Về một số bất đẳng thức theo chu kỳ”, một học sinh trường dạy nghề Leningrad số 253 M. Mikheev “Đo bán kính của một quả bóng bằng la bàn nhỏ và thước kẻ”, F. Tolstov, học sinh lớp 10 Sverlov “Thông dịch viên ngôn ngữ RAPIRA cho ES COMPUTER”, học sinh lớp 10 trường Vật lý Yerevan số 1 V. Stepanov “Hội tụ trình tự”, học sinh trường 444 A. Ermkov về thuật toán của trò chơi “Bulls and Cows”. Một số báo cáo thú vị đã được các học sinh Batumi trình bày.
+
+Và, như mọi khi, điều thú vị nhất là KBH toán học truyền thống. KBH bắt đầu bằng lời chào, sau đó các đội trình bày ngắn về chủ đề “Toán học trên một hành trình” - đây là “bài tập về nhà”. Sau đó, 12 đội - những người tham gia KBH - được đưa ra nhiều cuộc thi khác nhau: bài thơ hay nhất có vần điệu nhất định, bài bìa hay nhất cho tạp chí «Kvant», bài bài toán hay nhất trên «Kvant» cho học sinh nhỏ, và tất nhiên, rất nhiều bài toán.
+
+Trong số đó có bài toán-đùa: Một người đàn ông sinh ngày 1 tháng 6 năm 40 trước Công nguyên. z., và qua đời vào ngày 1 tháng 6 năm 40 sau Công nguyên. h. Ông ấy đã sống được bao nhiêu năm? (đáp số: 79 năm - không có năm 0). Ngoài ra còn có các nhiệm vụ khó khăn hơn: Đặt 6 điểm trên một mặt phẳng sao cho ba điểm bất kỳ tạo thành một tam giác đều (đáp số: sáu điểm này là các đỉnh và tâm của một hình ngũ giác đều).
+
+KBH kết thúc bằng phần tranh tài dành cho đội trưởng, đội chiến thắng thuộc về đội của ông Riggi Y. Antimirov. Đội trưởng đội Batumi, A. Smirnov, cũng thi đấu xuất sắc: anh là người duy nhất đưa ra kết quả đúng đáp số đến một trong ba nhiệm vụ của cuộc thi thuyền trưởng: số phần lớn nhất mà bốn mặt phẳng đi qua một điểm có thể chia không gian thành bao nhiêu phần?đáp số: 14), và điều này đã đưa đội của anh ấy lên vị trí đầu tiên. Kết quả, vị trí đầu tiên tại KBH được chia cho đội Batumi và Baku, vị trí thứ hai - thuộc về đội trường số 57 của Moscow và Sverdlovsk, vị trí thứ ba - thuộc về đội Trường dạy nghề Leningrad và Rigga.
+
+Chương trình nghỉ lễ rất sôi động. Các em học sinh đã đến thăm trang trại bang Akhalshensky, thực hiện các chuyến du ngoạn đến Vườn Bách thảo, chia sẻ bảo tàng và Bảo tàng Bang Adjara. Chương trình của kỳ nghỉ bao gồm cuộc gặp gỡ với tạp chí «Kvant», tại đó những người chủ trì và khách mời của kỳ nghỉ đã chúc mừng tạp chí của chúng tôi nhân ngày kỷ niệm thành lập - kỷ niệm 15 năm xuất bản số đầu tiên «Kvant». Một lập trình viên thú vị được biểu diễn vào buổi tối do các nhà toán học của Vương cung thánh đường chiếm giữ. Trước thềm lễ bế mạc, chương trình “Tia lửa tình bạn” truyền thống đã diễn ra - một trong những điểm nhấn mang tính biểu tượng nhất của chương trình. Tất cả những người có mặt đều bày tỏ lòng biết ơn nồng nhiệt đến người khởi xướng và sáng lập cuộc tụ họp tuyệt vời này của các nhà toán học trẻ - giáo viên tài nguyên danh dự Medea Illarionovna Zhgenti.
+
+N.V. Vasiliev,
+V. L. Gutenacher,
+V. M. Ivlev

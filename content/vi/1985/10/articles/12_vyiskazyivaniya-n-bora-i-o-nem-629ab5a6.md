@@ -1,0 +1,40 @@
+---
+id: 1985-10-vyiskazyivaniya-n-bora-i-o-nem-629ab5a6
+issue: kvant_1985_10
+year: 1985
+number: "10"
+title: '[Những câu nói của và về N. Bohr]'
+rubric: smes
+page_first: 30
+page_last: 30
+page_labels: "28"
+tag: LE8U
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 13a6137000b7c07e4f701122018237d215f0ca1180a162f328caaf8ef9199118
+prompt_sha256: draft-1
+translated_from: content/ru/1985/10/articles/12_vyiskazyivaniya-n-bora-i-o-nem-629ab5a6.md
+source_content_sha256: 13842b34ebb5a285b6ef41c9f3234cbb56a940ff630cd5a1695b067970eead77
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 28⟧
+
+Khi một vật nằm trên một mặt phẳng nằm ngang thì lực ép nó lên mặt phẳng này bằng trọng lực. Nếu bề mặt không nằm ngang mà tạo một góc nào đó với trọng lực thì góc này càng lớn ($a_2 > a_1$ và $N_2 < N_1$) thì lực ép càng nhỏ. Và theo đó, mặt phẳng nghiêng càng lớn thì lực trượt ($F_{τp_2} < F_{τp_1}$) càng nhỏ.
+
+Tủ không chuyển động cho đến khi lực “chuyển động” tác dụng lên nó bằng μN. Cho đến thời điểm này, lực đứng yên luôn cân bằng với cảnh “chuyển động”, còn tủ vẫn đứng yên.
+
+Chúng ta có thể leo cầu thang sao cho chân không trượt trên bậc và tay không trượt trên lan can.
+
+Ở hình ở trang 26, họa sĩ cố gắng chứng tỏ điều gì sẽ xảy ra nếu lực ma sát đột ngột biến mất. Nhưng anh đã không thể lường trước được hết hậu quả của vụ mất tích thực sự thảm khốc này. Hãy tự mình suy nghĩ những gì người nghệ sĩ đã không lường trước được.
+
+Không còn nghi ngờ gì nữa, đây là một lý thuyết điên rồ, nhưng câu hỏi đặt ra là liệu nó có đủ điên rồ để trở thành sự thật hay không!
+
+N. Bor
+
+... Quá trình sản xuất phô mai phải đối mặt với khoảng cách dịch vụ lớn nhất, đòi hỏi phải đảm bảo sự gia tăng giá trị tương đối giữa các dân tộc, để các mối nguy hiểm được loại bỏ miễn phí và các quốc gia trên thế giới trở nên hùng mạnh, thông qua các điều kiện chung, để cải thiện phúc lợi của người dân trên cơ sở đạt được tiến bộ khoa học.
+
+N. Bor

@@ -1,0 +1,38 @@
+---
+id: 1985-10-rudov-atom-v-filatelii-19843723
+issue: kvant_1985_10
+year: 1985
+number: "10"
+title: Nguyên tử trong tem học
+authors:
+  - Рудов В. А.
+rubric: raznoe
+rubric_sub: Разное
+page_first: 68
+page_last: 68
+tag: HBNO
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 4002e254d01d46d333c006a790b4a257ebe16df36a29efa864059d1c620b89c6
+prompt_sha256: draft-1
+translated_from: content/ru/1985/10/articles/01_rudov-atom-v-filatelii-19843723.md
+source_content_sha256: 4b81ff611ded743e5885f3bc4c1023996789955ef96968a3498c9339e298f066
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+Giá 40 kopecks.
+
+Chỉ số 70465
+
+Góc sưu tầm
+
+NGUYÊN TẮC TRONG PHILATELIERS
+
+Thoạt nhìn, những con tem được sao chép ở đây được chọn hoàn toàn ngẫu nhiên; họ không có sự thống nhất về chủ đề. Có chân dung của các nhà vật lý nổi tiếng, những người đoạt giải Nobel Frederic Jollus-Curie và Shibitiro Tomonaga, và những con tem của Liên Xô dành riêng cho cuộc đấu tranh vì hòa bình, kế hoạch GOELRO của Lenin và Đại hội CPSU lần thứ 26, Triển lãm Thế giới năm 1967 ở Montreal và Triển lãm Thành tựu của Nền kinh tế Quốc dân. Ngoài ra còn có những con tem gắn liền với các hội nghị khoa học và Cơ quan Năng lượng Nguyên tử Quốc tế. Nhưng nhìn kỹ hơn, bạn sẽ thấy mỗi con tem mô tả mô hình nguyên tử hành tinh, lý thuyết về mô hình này được tạo ra bởi nhà vật lý vĩ đại người Đan Mạch Niels Bohr. Ở nơi này anh ấy đã có thể sử dụng trong nhiều năm nay. Mô hình nguyên tử của Bohr đã trở thành một loại biểu tượng cho thời đại nguyên tử của chúng ta.
+
+V. Rudov

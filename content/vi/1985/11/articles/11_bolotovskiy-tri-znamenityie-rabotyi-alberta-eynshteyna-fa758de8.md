@@ -1,0 +1,55 @@
+---
+id: 1985-11-bolotovskiy-tri-znamenityie-rabotyi-alberta-eynshteyna-fa758de8
+issue: kvant_1985_11
+year: 1985
+number: "11"
+title: Ba tác phẩm nổi tiếng của Albert Einstein
+authors:
+  - Болотовский Б. М.
+rubric: raznoe
+rubric_sub: Разное
+page_first: 28
+page_last: 28
+page_labels: "26"
+tag: 6GS3
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 699100bbfdfe9a0f35bc29ea36b758e8df246f3032172402310ecd469523efb0
+prompt_sha256: draft-1
+translated_from: content/ru/1985/11/articles/11_bolotovskiy-tri-znamenityie-rabotyi-alberta-eynshteyna-fa758de8.md
+source_content_sha256: c1bb3afe459fea9f420f94eef370e2c86b4f89becbcfe2bd4ca37125d13a60de
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 26⟧
+
+Ba tác phẩm quan trọng của Albert Einstein
+
+(nhân kỷ niệm 80 năm xuất bản)
+
+Năm 1905, ba bài báo được viết trên tạp chí vật lý Apnalen der Physik của Đức, không hề phóng đại, có thể nói rằng tạp chí này đã đóng một vai trò quyết định trong toàn bộ sự phát triển sau này của khoa học vật lý. Tác giả của những bài báo này là một Albert Einstein trẻ tuổi (lúc đó ông mới hai mươi tuổi) và ít được biết đến, người giữ chức vụ khiêm tốn là một chuyên gia tại Văn phòng Bằng sáng chế Thụy Sĩ ở thành phố Bern.
+
+Ở đây chúng ta sẽ nói rất ngắn gọn về những tác phẩm này theo thứ tự chúng được xuất bản.
+
+Người đầu tiên trong số họ đến tòa soạn tạp chí vào ngày 18 tháng 3 năm 1905 và được giới thiệu về “Theo quan điểm kinh nghiệm” liên quan đến nguồn gốc và sự biến đổi của ánh sáng. Lưu ý rằng từ “heuristic”, có nguồn gốc từ tiếng Hy Lạp cổ đại, có nghĩa gần đúng như sau: “tạo điều kiện thuận lợi cho người Nhật, giúp hiểu được sự thật” (hãy nhớ câu cảm thán “heuristic” - đã tìm thấy nó! - trong truyền thuyết về Archimedes). Công trình này đã phát triển một sự hiểu biết lượng tử mới về bản chất của ánh sáng.
+
+Vào nửa sau thế kỷ, nhà vật lý người Anh Jack. K. Maxwell đã tạo ra các lý thuyết về hiện tượng điện và từ, trong đó đặc biệt, ông chỉ ra rằng ánh sáng là sóng điện từ. Theo lý thuyết này, trường sóng điện từ với tần số nhất định tồn tại khắp không gian; năng lượng trường được phân bố liên tục trong không gian và có thể thay đổi theo cách liên tục như nhau.
+
+Lý thuyết con bò về ánh sáng đã nhận được nhiều xác nhận thực nghiệm và được coi là có cơ sở vững chắc. Tuy nhiên, cô không thể giải thích một số hiện tượng vật lý, và chủ yếu là sự cân bằng cho biết bức xạ. Năm 1900, nhà vật lý người Đức M. Planck đã đưa ra một công thức mô tả hoàn hảo quang phổ phát sáng của một vật thể bị nung nóng. Để chứng minh công thức, Planck cho rằng năng lượng bức xạ của các nguyên tử không thay đổi liên tục mà theo bước nhảy, mỗi lần giảm hoặc tăng một giá trị tỷ lệ thuận với tần số của sóng. Đây là cách những thay đổi rời rạc (nghĩa là giống như bước nhảy, không liên tục) trong năng lượng đi vào vật lý.
+
+A. Einstein trong công trình của mình đã lập luận rằng mô hình mà Planck tìm thấy là toàn diện, vượt xa phạm vi của vấn đề bức xạ. Ông chỉ ra một loại hiện tượng (ví dụ như bức xạ, hiện tượng quang phát quang, hiệu ứng quang điện) "được giải thích rõ hơn bằng giả thiết rằng năng lượng ánh sáng được phân bố rời rạc trong không gian. Theo giả định này được đưa ra ở đây, năng lượng của một chùm ánh sáng phát ra từ một điểm nhất định không được phân bố liên tục trong toàn bộ thể tích không gian, mà cộng lại từ một số lượng hữu hạn lượng tử năng lượng hàng tuần định vị trong không gian, chỉ được hấp thụ hoặc tạo ra dưới dạng tổng thể."
+
+Einstein sẽ trình bày khả năng của các thí nghiệm vật lý có thể dùng để kiểm tra tuyên bố về quan điểm của ông. Tuy nhiên, họ đã có kinh nghiệm đánh bật các electron khỏi bề mặt kim loại bằng ánh sáng (hiệu ứng ảnh). Einstein, dựa trên những ý tưởng mà ông trình bày, đã hình thành nên một định luật mà ngày nay gọi là định luật Einstein về hiệu ứng quang điện.
+
+Mười sáu năm sau, vào năm 1921, A. Einstein được trao giải Nobel “cho nghiên cứu vật lý và toán học quan trọng, đặc biệt là khám phá ra các định luật về hiệu ứng vật lý”. Nhưng tầm quan trọng của công trình năm 1905 vượt xa sự giải thích lý thuyết về hiệu ứng vật lý, đưa ra sự hiểu biết hoàn hảo về bản chất của ánh sáng và trường điện từ nói chung. Công trình này là một bước quan trọng trong sự phát triển của vật lý lượng tử.
+
+Bài báo tiếp theo của A. Einstein có tựa đề “Về chuyển động của các bộ phận lơ lửng trong cuộc sống nghỉ ngơi, được yêu cầu bởi lý thuyết hoài nghi phân tử của Tellote.” Cô gia nhập ban biên tập của tạp chí vào ngày 11 tháng 5 năm 1905, chưa đầy hai tháng sau khi làm việc về lượng tử ánh sáng. Về cơ bản, nó đã xây dựng một lý thuyết về chuyển động Brown (mặc dù chính Einstein đã lưu ý trong tác phẩm này rằng dữ liệu mà ông có được về hiện tượng này không chính xác đến mức đưa ra một quan điểm chắc chắn về nó).
+
+Năm 1827, nhà thực vật học người Anh R. Brown phát hiện ra rằng các hạt nhỏ lơ lửng trong chất lỏng chuyển động liên tục và hỗn loạn không ngừng. Nhiều nghiên cứu thực nghiệm sâu hơn đã chỉ ra rằng chuyển động này không liên quan đến bất kỳ ảnh hưởng bên ngoài nào và quá trình oxy hóa của nó tăng lên khi nhiệt độ ngày càng tăng và phụ thuộc vào kích thước hạt cũng như độ nhớt của chất lỏng.
+
+Einstein đã xem xét vấn đề này về mặt lý thuyết.
+
+Một phân tử chất lỏng đang chuyển động nhiệt, và do đó một hạt lơ lửng trong chất lỏng luôn va chạm với nó. Vì những lý do ngẫu nhiên, số lượng phân tử va vào một hạt từ một phía có thể lớn hơn con số đó (Cuối cùng, xem trang 30)

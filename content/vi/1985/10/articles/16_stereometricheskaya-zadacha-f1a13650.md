@@ -1,0 +1,47 @@
+---
+id: 1985-10-stereometricheskaya-zadacha-f1a13650
+issue: kvant_1985_10
+year: 1985
+number: "10"
+title: '[Lập thể bài toán]'
+rubric: raznoe
+rubric_sub: Разное
+page_first: 43
+page_last: 43
+page_labels: "41"
+tag: NC6J
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: bb83fc43aaf0a8ac2d5e334598fc259e32e361beea57fb0b569c8a01b32c0540
+prompt_sha256: draft-1
+translated_from: content/ru/1985/10/articles/16_stereometricheskaya-zadacha-f1a13650.md
+source_content_sha256: b85d1deb1d3bf87a73c8e88c6cf5503e46c833540f4ad521885f5878a5847d2e
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 41⟧
+
+Chúng tôi tiếp tục xuất bản ảnh lập thể bài toán kèm theo các hình vẽ, bắt đầu từ số thứ 2 «Kvant» của năm nay (xem thêm bìa số 3, 5 và 6). Dưới đây là điều kiện của hai bài toán; Cái đầu tiên trong số chúng được trình bày tại kỳ thi ứng dụng tại Viện Vật lý và Công nghệ Moscow năm 1984. Cái thứ hai bài toán rất thú vị vì nó xem xét một cấu hình không dễ hình dung lắm. Để người đọc có cơ hội tự suy nghĩ về nó, chúng tôi sẽ đặt hình vẽ về nó trên trang bìa của một trong những số báo sau.
+
+Bài toán 1. Ở đáy của SABCD nguyên thủy là hình chữ nhật ABCD, trong đó $|AC|=2|AB$. Chiều cao của đoạn thẳng đi qua điểm giao nhau của hình chữ nhật chéo. Hình cầu tiếp xúc với mặt phẳng ABCD và tất cả các cạnh bên của hình nguyên thủy. Thể tích của khối nguyên thủy bắt đầu nếu bán kính của hình cầu là $R$ và góc SDC là $\alpha$.
+
+Mặt phẳng đi qua điểm $S$, chạm vào hình cầu được chỉ định và cắt các đường thẳng
+
+BD và AC lần lượt tại các điểm $P$ và $Q$ ($|DP| > |BP|$, $|AQ| > |CQ|$). Tìm tỉ số $|BP|:|BD|$ nếu:
+a) $|BP| = |CQ|$,
+b) $|CQ| = 3|AC|$.
+
+Bài toán 2. Có sáu vật thể, hai quả bóng giống hệt nhau có bán kính $R_1$, hai quả bóng giống hệt nhau có bán kính $R_2$, một hình trụ rất dài có bán kính đáy $r$ và một mặt phẳng. Chúng được đặt trong không gian sao cho mỗi cái chạm vào năm cái còn lại (hình trụ chạm vào bề mặt bên của nó). Thể hiện $R_1$ và $R_2$ bằng cách sử dụng $r$.
+
+trò chơi ô chữ
+
+Chiều ngang: 7. Nhà vật lý Liên Xô, được trao giải Nobel. 8. Thiết bị đo áp suất khí quyển. 10. Chữ cái trong bảng chữ cái Hy Lạp. 11. Đại lượng vật lý. 13. Sản phẩm kết nối cơ học của bất kỳ chất nào. 17. Thiết bị đo hình cầu. 18. Ngôi sao, sao khổng lồ đỏ. 19. Thiết bị điều chỉnh dòng điện trong mạch điện. 21. Nhà du hành vũ trụ Liên Xô. 23. Phần năng lượng điện từ nhỏ nhất. 24. Quá trình lan truyền dao động trong không gian. 26. Tệp đính kèm để xử lý các đơn vị dài có tên. 28. Cho từ tọa độ Descartes của điểm. 29. Một tuyên bố được chấp nhận mà không có bằng chứng trong khuôn khổ bất kỳ lý thuyết khoa học nào.
+
+Dọc: 1. Ống điện tử ba điện cực. 2. Hàm lượng giác. 3. Chất lỏng thích hợp, không dây. 4. Một trong những phần tử bóng bán dẫn. 5. Chất bao gồm các đại phân tử. 6. Hợp kim sắt và cacbon. 9. Nhà vật lý người Anh gốc ngoại. 12. Viện sĩ Nga đầu tiên. 14. Đơn vị đo góc khối. 15. Kim loại gọi là hàm lượng kháng cự. 16. Thiết bị chuyển đổi
+
+sự hình thành dao động điện thành dao động âm. 20. Hành động và suy nghĩ không đúng đắn. 21. Hàm lượng giác. 22. Thiết bị đo dòng điện, điện áp và điện trở. 23. Khoáng chất, silic tự nhiên. 25. Khoáng chất cứng nhất. 26. Đơn vị đo chiều dài. 27. Là loại khí bảo vệ các sinh vật sống trên Trái đất khỏi tác hại của bức xạ mặt trời.
+
+Biên soạn bởi G. N. Plotnikov

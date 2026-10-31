@@ -1,0 +1,56 @@
+---
+id: 1985-10-gik-geksagonalnyie-shahmatyi-0df4def0
+issue: kvant_1985_10
+year: 1985
+number: "10"
+title: Cờ vua lục giác
+authors:
+  - Гик Е. Я.
+rubric: shahmatnaya-stranichka
+rubric_sub: Шахматы
+page_first: 67
+page_last: 67
+tag: 162M
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 8f1d8b42e57233330d714213f4b820cdbc7544d6f2bebc441d8f863352403f3d
+prompt_sha256: draft-1
+translated_from: content/ru/1985/10/articles/02_gik-geksagonalnyie-shahmatyi-0df4def0.md
+source_content_sha256: 76016dea89525127f983fd108b700244fdedb03af89b6e598ae4375abe094522
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+Cờ vua lục giác
+
+Có mười loại cờ vua được biết đến, sử dụng bàn cờ, quân cờ hoặc luật chơi không dạy. Chúng ta đã nói về cờ hình trụ và cờ vua trên các bàn cờ song song. Bảng không chuẩn hiếm khi được sử dụng cho các trò chơi trên máy chủ.
+
+Nhưng có một ngoại lệ - cờ lục giác, hay nói cách khác là cờ lục giác. Bàn cờ lục giác có dạng hình lục giác. Hai phiên bản của trò chơi đã được chọn, một do nhà địa chất Liên Xô I. Shafran, một do kỹ sư V. Glinsky thực hiện. Việc sử dụng cờ vua đã trở nên phổ biến trên thế giới, trước tiên hãy nói về chúng.
+
+Bảng lục giác gồm 91 ô ba màu (xem trang 1 bìa); nó có 11 ô dọc từ “a” đến “l” (trừ “j”), các trường của mỗi ô được đánh số từ dưới lên trên. Vai trò của chiều ngang được thực hiện bởi các đường chéo, ở bên trái của đường “f” song song a1 - f1 và ở bên phải song song f1 - l1. Ngoài tổng số quân cờ, mỗi bên nhận được một quân tượng và một con tốt. Sự sắp xếp ban đầu được thể hiện trên trang bìa, bước di chuyển của các quân cờ được thể hiện trên hình tiếp theo.
+
+Các quân tốt của ba quân trung tâm có thể đi nước đầu tiên ngay lập tức và tiến lên ba ô, số còn lại chỉ có hai ô. Có thể nhập thành - ngắn, nếu quân xe đến gần vua và vua bước qua nó, và dài hạn, nếu vua đến gần quân xe và nó lao qua anh ta.
+
+Trong cờ vua Ba Lan, bàn cờ là một hình lục giác đều, và có lẽ Glinsky “đánh bại” Saffron bốn chuỗi hình học như vậy là phổ biến.
+
+Lý thuyết về cờ lục giác chưa được phát triển; hơn nữa, sự đa dạng của các nước đi và lựa chọn lớn hơn đáng kể so với cờ vua thông thường và việc dự đoán đáp số của đối thủ cũng khó hơn.
+
+Hình dạng của bảng cân hình lục giác là duy nhất. Do đó, “f” dọc là trục đối xứng và trường f6 là trường trung tâm (trên một bảng chung, tâm bao gồm bốn trường - d4, d5, e4, e5). Mặc dù bàn cờ lớn hơn nhưng đường đi của một hiệp sĩ giữa các ô bất kỳ mất không quá bốn nước đi (trên bàn cờ chung từ a1 đến h8, một hiệp sĩ được thêm vào sau 6 nước đi). Điều tò mò là bất kỳ quân cờ nào cũng có thể di chuyển trong khi vẫn duy trì quyền kiểm soátROL đối với các ô trước đó. Tính chất này đặc biệt thú vị ở con ngựa. Ví dụ, với g9, anh ta tấn công e7 và tiếp tục điều khiển nó, chuyển sang d9 hoặc h6. Hiệp sĩ cũng có thể di chuyển dọc theo hình tam giác, lấy nhịp độ từ đồng đội của mình.
+
+Một chút biên niên sử. Năm 1953, việc sử dụng cờ vua đã được trình diễn tại Triển lãm Thế giới ở Paris. Năm 1980, Black Black đầu tiên diễn ra ở London. Đồng thời, câu lạc bộ chịu trọng lượng “6 Facets” được thành lập, được tổ chức ở Bắc Vanina từ năm 1982*. Năm 1984, giải Black Black lần thứ hai được tổ chức tại Hungary, có 26 kỳ thủ đến từ 7 quốc gia tham gia. Người chiến thắng kỳ thủ đầu tiên, M. Mackovk người Ba Lan và người thứ hai, L. Rudolf người Hungary, đã được trao danh hiệu đại kiện tướng quốc tế ở môn cờ lục giác. Chúng tôi sẽ quay lại chủ đề này trong số tiếp theo.
+
+Nhiệm vụ thi đấu
+
+Cả hai giai đoạn được đề xuất đều nằm trên một bảng chung, nhưng số 6 được chơi trong đó: ở các vị trí dọc theo cột của các hình.
+
+19. Trắng: Kf7, Qs1, Nb7. Đen: Npf7, Qf3, p.f5. Trắng bắt đầu và thắng.
+
+20. Màu trắng: Kg5, Qs1, Rc5. Đen: Ke7, Qb8, Rd8. Trắng bắt đầu và thắng.
+
+Hạn chót gửi lời giải là ngày 25/12/1985 (có ghi chú trên phong bì: “Thi cờ «Kvant», nhiệm vụ 19, 20”).
+
+*) Địa chỉ câu lạc bộ: 109004, Moscow, đường V. Kommunisticheskaya, 9, Nhà Công nhân Giáo dục Zhdanov, câu lạc bộ “6 khía cạnh”.

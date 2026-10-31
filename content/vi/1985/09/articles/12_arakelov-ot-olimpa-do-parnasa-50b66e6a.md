@@ -1,0 +1,58 @@
+---
+id: 1985-9-arakelov-ot-olimpa-do-parnasa-50b66e6a
+issue: kvant_1985_9
+year: 1985
+number: "9"
+title: Từ Olympus đến Parnassus
+authors:
+  - Аракелов Р. К.
+rubric: kaleydoskop-kvanta
+rubric_sub: Калейдоскоп
+page_first: 34
+page_last: 34
+tag: QPHN
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: b689c2b57dcce8788b849daf33b21e5ac8e3bb34a1c807f3552b4ec7b3c729e6
+prompt_sha256: draft-1
+translated_from: content/ru/1985/09/articles/12_arakelov-ot-olimpa-do-parnasa-50b66e6a.md
+source_content_sha256: 23ca3bb21da2ce3d0195e02955a21ff721407c086a19313e399c48af54e0ddc2
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+Chuỗi tự nhiên
+
+Truyền thuyết kể rằng chuỗi tự nhiên - dãy số nguyên dương: 1, 2, 3, ... - được Prometheus ban tặng cho con người. Nhưng trên thực tế, việc phát minh ra chuỗi tự nhiên là một trong những thành tựu đầu tiên và vĩ đại nhất của con người Muselli, ra đời từ thực tiễn. Lịch sử xuất hiện của chuỗi tự nhiên đã bắt đầu từ rất lâu trước khi phát minh ra chữ viết. Phải mất nhiều thế kỷ người ta mới hiểu rằng không có số nào nhiều nhất trong chuỗi này. Trong một thời gian dài, người ta cho rằng việc đếm chỉ nảy sinh trong những giới hạn nhất định, vượt quá giới hạn đó thì “chủ đề” bắt đầu. Chẳng hạn, người Babylon tin rằng có một con số tuyệt vời nhất định là Levinathan, vượt quá con số đó sẽ mở rộng đến mức không thể đếm được.
+
+Chỉ đến thế kỷ thứ 3 trước Công nguyên, nhà toán học Hy Lạp cổ đại Archimedes, trong cuốn sách “Psammit” (“Tính toán của cát”) đã chỉ ra rằng bất kỳ số lượng cát nào vẫn có thể đếm được, vì chuỗi tự nhiên có thể tiếp tục vô tận và mỗi số tiếp theo có thể được viết và đặt tên theo một cách nhất định. Vì vậy, chúng ta đã hiểu rằng có vô số số tự nhiên. Thực tế này là ý nghĩa của các nhà toán học khi họ nói rằng tập hợp các số tự nhiên là vô hạn.
+
+Chà, chúng ta có thể nói gì về số nguyên tố - tập hợp của chúng là hữu hạn hay vô hạn? Trong cuốn Cơ sở của Euclid (thế kỷ thứ 3 trước Công nguyên) cho thấy rằng không có hầu hết các công thức
+
+$$1 + 2 + 3 + \dots + n = \frac{1}{2} n (n + 1)$$
+
+$$1^2 + 2^2 + 3^2 + \dots + n^2 = \frac{1}{6} n (n + 1) (2n + 1)$$
+
+$$1^3 + 2^3 + 3^3 + \dots + n^3 = \frac{1}{4} n^2 (n + 1)^2$$
+
+Từ Olympus đến Parnassus
+Từ Olympus đến Parnassus,
+Gửi đến những suy nghĩ tốt đẹp từ các vị thần,
+Cưỡi ngựa của Pezas,
+Tôi đến đó trong năm giờ.
+
+Chậm lại mười dặm,
+Với nỗi buồn tôi cách xa bảy tiếng đồng hồ
+Trở lại Olympus, một tháng
+Zeus chiếu sáng nơi trú ẩn của tôi.
+
+«Kvant» người bạn và người ngưỡng mộ,
+Dành không gian cho trí tưởng tượng,
+Có thể bạn sẽ cân nhắc
+Có bao nhiêu dặm giữa những ngọn núi này?
+
+R. K. Arakelov

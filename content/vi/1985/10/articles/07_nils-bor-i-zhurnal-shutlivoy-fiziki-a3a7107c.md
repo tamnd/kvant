@@ -1,0 +1,43 @@
+---
+id: 1985-10-nils-bor-i-zhurnal-shutlivoy-fiziki-a3a7107c
+issue: kvant_1985_10
+year: 1985
+number: "10"
+title: Niels Bohr và Tạp chí Vật lý vui nhộn
+rubric: kvant-ulybaetsya
+rubric_sub: «Квант» улыбается
+page_first: 22
+page_last: 22
+page_labels: "20"
+tag: 4DJZ
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 6643fb61796392dad79b152b977c344770a4935f9d07de5e1a23e9df0b6fd259
+prompt_sha256: draft-1
+translated_from: content/ru/1985/10/articles/07_nils-bor-i-zhurnal-shutlivoy-fiziki-a3a7107c.md
+source_content_sha256: 3744bd4967641d1e37dc190ce400163b24012f8141fe3ac3e669eebe9b1129ab
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 20⟧
+
+NỤ CƯỜI SỐ LƯỢNG
+
+Niels Bohr và Tạp chí Vật lý vui nhộn
+
+Năm 1935, nhân dịp sinh nhật lần thứ 50 của Niels Bohr, nhân viên của viện trưởng Viện Vật lý Lý thuyết đã xuất bản tập đầu tiên của tuyển tập sách hướng dẫn “Tạp chí Vật lý Jcular”. Lời nói đầu của tuyển tập đã nêu:
+
+"Sự kiện trọng đại mà chúng ta đang chuẩn bị kỷ niệm là một dịp tuyệt vời để cuối cùng thực hiện bước đi đã được chuẩn bị sẵn bởi sự phát triển nhanh chóng của khoa học của chúng ta và trong đó nhu cầu tổ chức và hợp pháp hóa một lĩnh vực vật lý khá cũ - Vật lý Jocular - đã bị bỏ qua từ lâu. Vì những lý do vẫn chưa được làm rõ, nó vẫn tạo ra một sự tồn tại khốn khổ trong bối cảnh chung của sự phát triển nhanh chóng của khoa học. Như biện pháp đầu tiên, chúng tôi đã tiến hành xuất bản bộ sưu tập này, đánh dấu sự ra đời của một tạp chí định kỳ mới, và nó sẽ được dành tặng dành riêng cho khía cạnh hài hước của cuộc sống đa diện của thế giới vật lý.”
+
+Bộ sưu tập thực sự đã trở thành định kỳ và được xuất bản... 10 năm một lần (tập thứ hai được xuất bản nhân kỷ niệm 60 năm N. Bohr, tập thứ ba nhân kỷ niệm 70 năm). Một tuyển tập tương tự mang tên “Tạp chí Vật lý chưa rõ ràng” được phát hành nhân kỷ niệm 50 năm nhà vật lý người Anh P. Peierlas. Ở đây chúng tôi đặt hai tài liệu từ những bộ sưu tập này.
+
+N. Bohr và người phương Tây
+
+Niels Bohr thích đi xem phim, và trong tất cả các thể loại mà ông chỉ nhận ra một thể loại - cao bồi miền Tây. Thật khó để tưởng tượng điều gì đã thu hút Bohr đến với những bức tranh này. “Tôi có thể dễ dàng thừa nhận,” anh nói, “rằng nữ anh hùng xinh đẹp, đang chạy trốn để lấy mạng, có thể gặp nguy hiểm.”
+
+dọc theo một con đường núi đầy lá và nguy hiểm. Ít có khả năng xảy ra hơn nhưng vẫn có khả năng là nơi phía trên vực thẳm sẽ sụp đổ ngay lúc cô bước lên đó. Rất khó có khả năng vào giây phút cuối cùng cô ấy sẽ tóm được một ngọn cỏ và treo mình trên vực thẳm, nhưng tôi thậm chí có thể đồng ý với khả năng này. Nó đã rất khó khăn rồi
+
+nhưng bạn vẫn có thể tin rằng đúng lúc đó chàng trai đẹp trai sẽ đi ngang qua và giúp đỡ người phụ nữ bất hạnh. Nhưng đối với một người quay phim cầm máy ảnh xuất hiện vào lúc đó, sẵn sàng ghi lại tất cả những sự kiện thú vị này lên phim—xin lỗi, tôi không tin điều đó!”

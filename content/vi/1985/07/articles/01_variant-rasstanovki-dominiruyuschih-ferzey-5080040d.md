@@ -1,0 +1,25 @@
+---
+id: 1985-7-variant-rasstanovki-dominiruyuschih-ferzey-5080040d
+issue: kvant_1985_7
+year: 1985
+number: "7"
+title: '[Vị trí của nữ hoàng thống trị]'
+rubric: smes
+page_first: 68
+page_last: 68
+tag: HMHA
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: dade63ad5797a4259062805997ca32322950d6bc3c68076094a2f7c457885179
+prompt_sha256: draft-1
+translated_from: content/ru/1985/07/articles/01_variant-rasstanovki-dominiruyuschih-ferzey-5080040d.md
+source_content_sha256: 7628a00a8e9ad7cd92f2d5e3b361494787597267c487a88213892a5bdc4dd69b
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+Quân hậu đen thứ mười bảy đứng trên “bàn cờ 30x31” này thống trị nó, tức là họ vượt qua tất cả 930 ô của nó mà không có ngoại lệ. Bạn có thể kiểm tra! Cách sắp xếp các quân hậu dí dỏm này được phát minh bởi V.G. Chvanov, nó chỉ là một trong chuỗi vô tận lời giải “Bài toán về SỰ THỐNG TRỊ trên bảng n×n” - cụ thể là, đối với trường hợp n=(7m-1)/2, m=9, n=31. Cách sắp xếp phức tạp này bắt nguồn từ cách sắp xếp đơn giản hơn của quân hậu thứ mười bảy (13 quân đen, 4 quân trắng) dọc theo các dòng 1-1, 2-2, 3-3. Những quân hậu này không vượt qua tất cả các ô của bàn cờ (chính xác là những ô nào?), nhưng sau cdb của bốn quân hậu trắng (dọc theo các mũi tên màu đỏ), hệ thống kết quả gồm 17 quân hậu đen đã quyết định bài toán về SỰ THỐNG TRỊ trên bảng 30 × 31. Tuy nhiên, bạn có thể thêm 31 ô khác vào bảng này (ở vị trí nào?) và nhận được lời giải bài toán cho bảng 31×31. Bạn có thể đọc thêm về những công trình này trong bài viết của V. G. Chvanov trong số này.

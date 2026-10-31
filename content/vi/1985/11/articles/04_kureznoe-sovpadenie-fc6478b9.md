@@ -1,0 +1,40 @@
+---
+id: 1985-11-kureznoe-sovpadenie-fc6478b9
+issue: kvant_1985_11
+year: 1985
+number: "11"
+title: Sự trùng hợp tò mò
+rubric: smes
+page_first: 10
+page_last: 10
+page_labels: "8"
+tag: 6QL8
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 7a2c2c65ca531615727900c78fd0f25defde3dd42409e46f3bb5bd899f4d2372
+prompt_sha256: draft-1
+translated_from: content/ru/1985/11/articles/04_kureznoe-sovpadenie-fc6478b9.md
+source_content_sha256: 99f50f28cab36a61cf05753ec9410a318174458ef722d684210cd5445b606079
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 8⟧
+
+Khi công ty IBM của Mỹ bắt đầu sản xuất dòng máy tính IBM 360, gói phần mềm tiêu chuẩn của họ bao gồm chương trình RANDU, chương trình này tạo ra một chuỗi các số ngẫu nhiên được phân bố đều trên khoảng [0; 1]. Các kỹ sư của công ty đã kiểm tra chương trình và không tìm thấy mối tương quan giữa các cặp số nên cho rằng việc thử nghiệm thêm là không cần thiết. Chương trình này đã được sử dụng trong vài năm để thực hiện các phép tính Monte Carlo trước khi người ta phát hiện ra rằng dãy số được nhìn thấy có mối tương quan chặt chẽ giữa các bộ ba số. Hóa ra là nếu chúng ta chia các số thành bộ ba, kết quả là $x, y, z$ là tọa độ của một chuỗi các điểm, khi đó thay vì được phân bố đều trên khối đơn vị, các điểm sẽ nằm trong đó trên một bề mặt nào đó. (Tất nhiên, nếu trong quá trình làm mẫu bài toán Các nguyên tử đang phân tán nằm rải rác trong mạng ba chiều bằng cách sử dụng một cảm biến như vậy, khi đó sự phân bố của các nguyên tử sẽ rất khác so với ngẫu nhiên.) Do đó, những phép tính Monte-Carlo đã được thực hiện trong vài năm trên các máy dòng IBM 360 cần phải được làm lại.
+
+Sự trùng hợp tò mò
+
+Trong ấn bản thứ hai cuốn sách của nhà khoa học người Ý, Giáo sư Orazio Zvelto, một trong những người tiên phong về điện tử lượng tử, “Các nguyên lý của Laser”, tài liệu thú vị được đặt trước lời tựa của tác giả. Nó bắt đầu bằng một trích dẫn từ “Lịch sử tự nhiên” của Pliny Elder, một nhà khoa học và nhà văn La Mã sống ở thế kỷ thứ nhất sau Công nguyên (đây là tác phẩm duy nhất của Pliny Elder còn tồn tại cho đến ngày nay và là bộ bách khoa toàn thư về kiến ​​thức khoa học tự nhiên thời cổ đại; nó cũng chứa thông tin về lịch sử nghệ thuật, lịch sử và cuộc sống của Rome):
+
+“Laser là một trong những món quà được thiên nhiên ban tặng được nghiên cứu nhiều nhất với nhiều ứng dụng.”
+
+Sau đây là giải thích về trích dẫn (chúng tôi trình bày dưới dạng hơi viết tắt):
+
+"Trong thời kỳ nền văn minh Treco-La Mã (từ thế kỷ thứ 6 trước Công nguyên đến thế kỷ thứ 2 sau Công nguyên), tia laser đã được biết đến rộng rãi và được tôn vinh rất nhiều. Đây thực ra là tên của một loại cây mọc hoang ở một khu vực rộng lớn xung quanh Cyrene. [Đây là một thành phố cổ ở Bắc Phi, được thành lập vào khoảng năm 630 trước Công nguyên. e. Người Hy Lạp; một trong những trung tâm văn hóa và thương mại thời cổ đại; hiện thuộc về Libya. Lưu ý ped.] Chúng được sử dụng cho nhiều loại bệnh - từ cảm lạnh đến nhiều loại bệnh khác nhau dịch bệnh. Nó được sử dụng như một biện pháp đối phó trong việc rửa tội và rửa tội cho chúng. Hóa ra chỉ có một trong số chúng có lỗi.
+
+Các phép biến đổi phân tích trên máy tính được sử dụng thành công trong nhiều bài toán vật lý.
+
+Sự trùng hợp tò mò

@@ -1,0 +1,41 @@
+---
+id: 1985-11-konstantinov-shestoy-turnir-gorodov-311ba737
+issue: kvant_1985_11
+year: 1985
+number: "11"
+title: Giải đấu thành phố lần thứ sáu
+authors:
+  - Константинов Н. Н.
+rubric: informatsiya
+rubric_sub: Информация
+page_first: 52
+page_last: 52
+page_labels: "50"
+tag: W8KL
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 08aade19d801ebb96b40c1843b4a02199c701916e607c773630e404cc4a30a44
+prompt_sha256: draft-1
+translated_from: content/ru/1985/11/articles/22_konstantinov-shestoy-turnir-gorodov-311ba737.md
+source_content_sha256: eab936f1a6f2f238c37b52d2cbc250da2847669db6be85a52b2b020153f160da
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 50⟧
+
+thứ sáu
+du lịch thành phố
+
+“Tôi không đủ điều kiện tham gia Olympic Toán toàn Liên minh, nhưng tôi xin bạn cho phép tôi quyết định bài toán ngoài phần nhảy biểu diễn” - học sinh từ các thành phố đăng cai Olympic Toán toàn Liên minh, và đôi khi thậm chí từ các thành phố khác, thường quay sang ban giám khảo với những tuyên bố tương tự, bày tỏ sự sẵn sàng tham gia chuyên môn này. Điều gì sẽ xảy ra nếu Thế vận hội này miễn phí cho tất cả mọi người? Tất nhiên, chúng tôi biết rằng điều này là không thực tế - hạn chế về kinh phí, cơ sở vật chất, khả năng thành lập bồi thẩm đoàn, v.v. Và Vesaki...
+
+Ham muốn cống hiến sức lực của mình là đặc trưng của giới trẻ. Một người đi thi đấu sẽ không bỏ lỡ cơ hội đến từ các thành phố đăng cai tổ chức Olympic toàn Liên minh, và đôi khi còn từ các thành phố khác, bày tỏ sự sẵn sàng của chuyên môn để thực hiện việc này. Điều gì sẽ xảy ra nếu Thế vận hội này miễn phí cho tất cả mọi người? Tất nhiên, chúng tôi biết rằng điều này là không thực tế - hạn chế về kinh phí, cơ sở vật chất, khả năng thành lập bồi thẩm đoàn, v.v. Và Vesaki...
+
+Trong nhiều năm, hình thức này đã được phổ biến rộng rãi và bây giờ chúng ta có thể nói rằng nó đã được phát hiện ở một mức độ nào đó. Đây là khách du lịch của thành phố. Ban tổ chức trung ương của Turir được thành lập, do Viện sĩ V. S. Pugachev đứng đầu, và ở một số thành phố - các ban tổ chức địa phương. Nhiều khả năng, hình thức này sẽ tiếp tục thay đổi. Để đưa ra ý tưởng về cuộc thi này, chúng tôi đã nói về các đối thủ trong quá khứ.
+
+Sáng kiến ​​tổ chức giải đấu đầu tiên thuộc về Hội đồng các nhà khoa học và chuyên gia trẻ trực thuộc Ủy ban Trung ương Komsomol của Latvia. Học sinh đến từ Riga, Moscow và Kyiv đã tham gia giải đấu. Sau đó, vòng tròn các thành phố tham gia dần dần mở rộng. Năm học 1984/85, 28 thành phố với tổng dân số 31 triệu người tham gia giải đấu lần thứ sáu. Giải đấu được tổ chức về toán học và ở ba thành phố - cũng về thông tin. Trong tương lai, dự kiến ​​sẽ mở rộng theo chủ đề của chuyến tham quan. Một ủy ban đặc biệt đã chọn bài toán và gửi họ đến các thành phố. Truyền thống tốt đẹp của du khách là tốt bài toán. Đúng, một số trong số chúng rất khó, nhưng chúng có giá trị rất nhiều điểm (điểm cho lời giải đầy đủ của mỗi bài toán đã được báo cáo cùng với các điều kiện). Điều này khá tự nhiên đối với sự cạnh tranh ở cấp độ chung; học sinh ở nước ta tại các kỳ thi Olympic toán quốc tế đã đứng đầu với số lần gần bằng tất cả các nước khác cộng lại. Đồng thời, khó khăn trong việc triển khai bài toán là thực tế - mỗi bài toán được giải quyết bởi một trong những người tham gia chứ không phải những người tham gia «Kvant» (trong một số trường hợp - trong phiên bản thành công) - đó là M711—M715 («Kvant», 1981), M756, M757 (1982), M807, M808, M816, M818-M820 (1983), M851, M863, M864, M866-M870, M883-M886 (1984), M914, M923, M927, M936-M939 (1985).
+
+N. N. Konstantinov,
+phó chủ tịch ban tổ chức
