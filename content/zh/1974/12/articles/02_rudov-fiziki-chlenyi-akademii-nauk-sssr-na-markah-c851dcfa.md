@@ -1,0 +1,44 @@
+---
+id: 1974-12-rudov-fiziki-chlenyi-akademii-nauk-sssr-na-markah-c851dcfa
+issue: kvant_1974_12
+year: 1974
+number: "12"
+title: 物理学家 - 邮票上的苏联科学院院士
+authors:
+  - Рудов В. А.
+rubric: raznoe
+rubric_sub: Разное
+page_first: 83
+page_last: 83
+tag: G694
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 3defdc044ed131d779fcf712a341f973430cbfd106918cb96f466cad8e89c782
+prompt_sha256: draft-1
+translated_from: content/ru/1974/12/articles/02_rudov-fiziki-chlenyi-akademii-nauk-sssr-na-markah-c851dcfa.md
+source_content_sha256: 76259d178efd2a5b7c0ddf9380a635062177909854501499378a457c1933aa21
+translation_model: draft
+translation_run: zh-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+物理学家 - 邮票上的苏联科学院院士
+
+十月革命后，我国发行了近4500枚邮票，其中六枚邮票是献给物理学家——苏联科学院院士的。它们描绘的科学家是著名的物理学家和苏联科学的主要组织。
+
+第一张邮票于 1956 年发行。它描绘了院士阿列克谢·尼古拉耶维奇·克雷洛夫 (Alexei Nikolaevich Krylov) 的肖像。克雷洛夫院士是杰出的数学家、机械师和数学物理专家。他还是中国科学院物理与数学研究所的发起人和首任所长。该研究所随后转变为 P. N. Lebedev 物理研究所和 V. A. Steklov 数学研究所。 1963 年，A.N. 诞辰一百周年。克雷洛夫发行了第二枚印有他肖像的邮票。
+
+同年，发行了印有伊戈尔·瓦西里耶维奇·克鲁恰托夫院士肖像的邮票。它是在他诞辰六十周年之际发布的。 I.V.院士克鲁塔托夫创建并领导了一支由苏联科学家组成的大型团队，成功解决了原子能的利用问题。在他的倡议下，世界上第一座核电站建成，并创建了原子能研究所，该研究所以这位杰出科学家的名字命名。
+
+1961年，在谢尔盖·伊万诺维奇·瓦维洛夫院士诞辰七十周年之际，发行了印有他肖像的邮票。 S.I. 瓦维洛夫 (S.I. Vavilov) 是著名的物理光学专家。在研究活动的同时，他还开展了大量的科学和组织工作。 S.I. 瓦维洛夫 (S.I. Vavilov) 多年来一直担任 P.N. 的主任。苏联科学院列别捷夫物理研究所所长、《苏联大百科全书》主编。 1945年至1951年任苏联科学院院长。他也是全联盟协会“Znanie”的创始人之一及其第一位代表。
+
+1974年，又发行了两张邮票，上面印有物理学家——苏联科学院院士的肖像。其中一幅描绘的是苏联科学院副院长米哈尔·德米特里耶维奇·米隆什科夫院士，另一幅描绘的是列夫·安德烈耶维奇·阿尔西莫维奇院士。两人都是杂志«Kvant»的编辑集成员。
+
+M. D. Millonshikov 院士是 A. N. Kolmogorov 院士的学生，也是 I. V. Kruchatov 最亲密的合作者之一。他对现代流体动力学的许多领域，特别是热等离子体流体动力学特性的研究做出了重大贡献。米隆希科夫作为苏联科学院副院长的活动给苏联科学的发展留下了深刻的印记。
+
+L.A. Artsimovich 院士也是苏联科学院最亲密的员工之一。他的主要研究兴趣领域是物理学和物理电子学。 I.V. 去世后Kruchatov, L.A. Artsimovich 领导了热等离子体物理和受控热皮反应领域的报告研究。多年来，他监督了科学院最大的科学家群体的工作，分配到物理和数学科学系，后来又分配到普通物理和天文学系，并担任这些部门的院士兼秘书。
+
+V·A·鲁多夫

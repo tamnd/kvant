@@ -1,0 +1,57 @@
+---
+id: 1974-11-mochalov-labirint-alfavit-1fcab8b0
+issue: kvant_1974_11
+year: 1974
+number: "11"
+title: 迷宫字母表
+authors:
+  - Мочалов Л. П.
+rubric: smes
+page_first: 18
+page_last: 18
+page_labels: "16"
+tag: NCAJ
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 454f4e3b6a2a387658ed0053dab88e855e8e893bd53c619830ff6190ced65750
+prompt_sha256: draft-1
+translated_from: content/ru/1974/11/articles/06_mochalov-labirint-alfavit-1fcab8b0.md
+source_content_sha256: 0967ec7ea39fb1780a7f7bc301856b213d12bd83b3dd49b849b4efb83cfb7a72
+translation_model: draft
+translation_run: zh-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 16⟧
+
+以及第谷·布拉赫的观察。
+在开普勒的社交网络中搜索必要的数据？作者决定走一条更简单的道路。
+
+让我们以284年为一个周期。正如我们已经说过的，在这段时期之后，对抗会延迟三天。 1604年，火星的能见度条件应该接近1888年的条件，当时英国天文学ejegrodnik“航海年鉴”已经出版。据说1888年的火星冲日发生在4月9日。这意味着 1604 年应该是四月。冒名顶替者于 1604 年 8 月挺身而出。因此，在向克拉科夫（50°）、切尔尼戈夫（51°.5）和觊觎者军队途经的其他城市的希洛夫行进时，火星在傍晚时分在地平线低空处仍然可见（其赤纬约为 -20°），并可能引起扎布奇茨阵地的称号。
+
+这些都是火星冲日的表现和表现的特征，在天文学爱好者中的受欢迎程度不亚于日食和月食。
+
+迷宫字母表
+
+字母表中的字母写在 64 个方格中。从左上角的字母A开始，画一条不相交的折线，这条线正好穿过字母表中的33个字母，到右下角的字母Z结束。折线可以与小正方形的边相交，但不能穿过它们的顶点。
+
+阿布尼德伊
+FW M D K W FR
+欧洲工商管理硕士
+OY V F E U X
+CH YOSH SB G L N
+Ts F Z Sh STY K
+PETBPECH
+I V E G Z O I 我
+
+A H E B Y J K W
+NSP R 肖肖
+ZEUEEMEE
+V X VIP F CH N
+舒格利西德
+A 我们是 E C I Z
+T F CH B Y Y R
+JBKSGDFY
+
+L·P·莫恰洛夫

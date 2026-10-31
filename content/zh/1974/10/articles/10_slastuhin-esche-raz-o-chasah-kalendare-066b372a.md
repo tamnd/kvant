@@ -1,0 +1,61 @@
+---
+id: 1974-10-slastuhin-esche-raz-o-chasah-kalendare-066b372a
+issue: kvant_1974_10
+year: 1974
+number: "10"
+title: 再次关于时钟日历
+authors:
+  - Сластухин В. В.
+rubric: smes
+page_first: 50
+page_last: 50
+page_labels: "48"
+tag: 7VXS
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 8f23577310e10d3c9e38c8001ec8b32074b6da70a44203c89c25f497b78a711b
+prompt_sha256: draft-1
+translated_from: content/ru/1974/10/articles/10_slastuhin-esche-raz-o-chasah-kalendare-066b372a.md
+source_content_sha256: 0df548cfe9498c2dd07ae8956b979faf24a8f4cdc5c8e30117e201719a23f7e0
+translation_model: draft
+translation_run: zh-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 48⟧
+
+数学事实，如果它提供给 8、9 和 10 年级的学生，那么额外的知识在解决它时不应提供明显的优势。那么，每项任务本身都很好是不够的。重要的是，每个班级的整套问题都是相似的，并且是合理的。
+
+奥运会期间，评审团成员也将有很多工作要做。他们必须对奥数参赛者的一千件作品进行至少两到三遍的审查，有争议的作品则由10-12名评审团成员进行评审。如果再加上所有评委会成员都参与任务讨论（包括与组长和学生）、进行采访和申诉、给学生讲课，那么显然评委会成员的工作日已经被挤满了。不是每个人都能胜任这种工作——要在陪审团工作，你需要更加习惯。我们想重点介绍一些在评委会中工作的爱好者，从第一届全联盟奥林匹克运动会开始：
+
+物理和数学科学候选人 N.V. Vasiliev，从第一届全联盟奥林匹克竞赛开始担任评委会永久副主席；
+
+物理和数学科学候选人 D. B. Fuks 和 A. A. Egorov - 全联盟奥林匹克竞赛的发起人之一。
+
+评审团的常任成员还有：物理和数学科学博士 M. I. Bashmakov、物理和数学科学候选人 A. D. Bendukidze、物理和数学科学候选人 I. N. Bershtein、V. L. Gutenkhær、Yu。 I. Ionin，物理和数学科学候选人 N. N. Konstantinov, Yu。 P. Lysov，I. S. Petrakov，物理和数学科学候选人 A. P. Savin，物理和数学科学候选人 M. I. Serov，物理和数学科学候选人 V. A. Skovordov。
+
+再次关于时钟日历
+
+大约13年前，我从一位数学老师那里了解到一种日历时钟，类似于1973年第12期«Kvant»中描述的日历时钟。
+
+但事实证明，根本没有必要制作一个日历来标明每个月的修改。修改很容易通过下面句子中每个单词的字母数量来填写，其中需要考虑到数字7和0是相等的：
+
+说 (7) 一月
+我 (3) 二月
+三月 (3) 天
+四月 (6)
+(1) 5 月
+六月一 (4)
+每（6）七月
+从八月（2）开始
+九月号 (5)
+姓名 (7) 十月
+给你 (3) 十一月
+中小企业 (5) 十二月
+
+应该记住，每年都有自己的修订。例如，他们会自己找到一种模式。特别关注高位年份的调整。
+
+要查找星期几的序列号，您还应该在日期中添加月份和年份更正。如果收到的金额不超过7，则为星期几的序号。如果大于7，则除以7取余数，即为答案。
+
+V·V·斯拉斯图欣

@@ -1,0 +1,48 @@
+---
+id: 2020-7-zadachi-ae63a5ac
+issue: kvant_2020_7
+year: 2020
+number: "7"
+title: 任务
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 33
+page_last: 33
+tag: 06S0
+lang: zh
+source: kvant_digital
+extraction: native
+content_sha256: 2d484dfa48cabac89275e26179762a2629bde790387e2d52c06d356f5486bef0
+prompt_sha256: draft-1
+translated_from: content/ru/2020/07/articles/03_zadachi-ae63a5ac.md
+source_content_sha256: 5d43ec5d0998494dc01f50507fa538f6a792b628311d29c2e1f832893d9c33ca
+translation_model: draft
+translation_run: zh-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+适合小学生的“QUANT”
+
+任务
+
+。沃沃奇卡在笔记本上写下了从 1 到 13 的数字。他将其中 5 个乘以 3，其余乘以 7，然后将所有乘积相加。他最终能得到433吗？切尔尼亚季耶夫
+
+1
+
+⟦column⟧
+
+。在机会均等之地，所有盒子里的糖果数量都相同。这个国家的 18 名居民每人邀请客人参加自己的生日，都会购买其中一件
+
+2. 棋盘 5 和 5 的方块被涂成一个盒子，并将糖果平均分配给每个人，包括你自己。在一年的时间里，其中一名居民在生日时吃了 39 颗糖果，其中两颗为每人 25 颗糖果，四颗为每颗 84 颗糖果，另外四颗为每颗 95 颗糖果，七颗为每颗 65 颗糖果。万尼亚邀请的客人最多。万尼亚生日那天有多少客人？ I. Raskin 呈棋盘图案，角单元为黑色。米莎沿着正方形的边将这块木板切割成五个五方形的图形。难道一半以上的图形中，一半以上的细胞都是白色的？切尔尼亚季耶夫
+
+3
+
+4
+
+问题 1 和 2 是在科斯特罗马青年数学家锦标赛上提出的，问题 3 是在 A.P. Savin 数学战斗锦标赛上提出的，问题 4 是在数学节上提出的。
+
+插图：D. Grishukova
+
+。四边形的三条边相等，它们所成的角分别是90q和150q。求这个四边形的另外两个角。 M·沃尔奇克维奇
