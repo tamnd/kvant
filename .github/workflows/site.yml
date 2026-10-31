@@ -4,7 +4,8 @@ name: Site
 #
 #   https://kvant.tamnd.com/       Cloudflare Pages, everything, including the
 #                                  page by page sheets of every issue.
-#   https://tamnd.github.io/kvant/ GitHub Pages, a mirror without the sheets,
+#   https://tamnd.github.io/kvant/ GitHub Pages, a mirror without the sheets
+#                                  or the rough draft translations,
 #                                  because GitHub stops a site at a gigabyte
 #                                  and the sheets are half of it.
 #
@@ -133,11 +134,13 @@ jobs:
         working-directory: solver
 
       # GitHub Pages stops at 1 GB. The mirror leaves the sheets out, which is
-      # half the site, and the budget fails the build well before the limit.
+      # half the site, and the rough draft translations, which would be the
+      # other half; the budget fails the build well before the limit.
       - name: publish
         run: |
           "$RUNNER_TEMP/kvant" publish --corpus corpus --out site \
             --no-sheets \
+            --no-drafts \
             --site-url https://tamnd.github.io/kvant/ \
             --canonical-url https://kvant.tamnd.com/ \
             --max-mb 950
