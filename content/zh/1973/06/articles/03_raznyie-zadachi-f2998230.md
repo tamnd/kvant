@@ -1,0 +1,60 @@
+---
+id: 1973-6-raznyie-zadachi-f2998230
+issue: kvant_1973_6
+year: 1973
+number: "6"
+title: 杂项任务
+rubric: smes
+page_first: 15
+page_last: 15
+page_labels: "13"
+tag: X91Y
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 6934e7dfa89e010312afebca63fe148af7a19f7afe947dba28e8cdac53543df4
+prompt_sha256: draft-1
+translated_from: content/ru/1973/06/articles/03_raznyie-zadachi-f2998230.md
+source_content_sha256: fa75dfb120f6302fc235767435f38ef829e53e2257ddfc55cc836f458b0638dd
+translation_model: draft
+translation_run: zh-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 13⟧
+
+niah）“二维”和“一维”定理。
+
+最后，我们注意到（对于熟悉多维几何概念的读者），上述古尔登定理的一般表述适用于 $n$ 维 ενClidean 空间 - 仅与我们考虑的平面一起考虑 $(n-1)$ 维平面，而作为 $l$，我们必须采用 $(n-2)$ 维平面。该定理中的数字$k$可以（在$n$维空间的情况下）属于值1、2、…中的任意一个。 。 。 ，$n$。
+
+为了不让不熟悉多维几何概念的读者感到不安，我们为 $n=2$（即平面的情况）制定了最终定理。
+
+吉尔登飞机定理。设一个$(k-1)$维图形$F$（这里$k$是数字1、2中的任意一个）位于点$O$一侧的直线上。 $S$表示图形$F$的$(k-1)$维体积，$R$表示其中心到点$O$的质量距离。将图形绕点$O$旋转$F$，得到$k$维图形，其$k$维体积由公式计算
+
+$$V = S \cdot 2\pi R.$$
+
+特别是，$k=1$的$k$（即当图形$F$由多个线段组成时，图10），这个公式可以让您计算几个同心轮的面积之和。
+
+杂项任务
+
+1. 从方程中消除 $x, y, z$
+   $$xy (x+y)=c,$$
+   $$yz (y+z)=a,$$
+   $$zx (z+x)=b,$$
+   $$xyz=d.$$
+
+2. 给定角度 $A$ 以及边长 $AB+BC$ 和 $AB+AC$ 的长度之和，构造一个三角形 $ABC$ ($BC>AB>CA$)。
+
+3. 求解方程组
+   $(ax)^{1/2}a=(by)^{1/2}b,$
+   $b^{1/2}x=a^{1/2}y.$
+
+4. 求使用 $p-1$ 单位写在 $p$ 数系中的数字除以 $p-1$ 的商（即数字 111...1）。这个商在 $p$ 进制中如何写？
+
+5. 三个点 $A, B$ 和 $C$ 位于同一条直线上。构造一个以点 $A$ 为圆心的圆。找到连接点 $B$ 和 $C$ 的直线与圆的动态对点的交点的几何位置。
+
+6. 三个圆经过点 $M$ 和 $N$。找到点 $P$ 的轨迹，使得从点 $P$ 到这些圆的切线 $PA, PB$ 和 $PC$（$A, B, C$ 是切点）满足关系 $PA \cdot PB = k \cdot PC^2$。
+
+7. 证明如果$p$是素数，则$C_{p-1}^m$除以$p$的余数为$(-1)^m$。
+
+8. 证明如果$p$是大于三的质数，则$\frac{1}{2} C_{p/2}^p - 1$能被$p^3$整除。

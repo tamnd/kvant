@@ -1,0 +1,44 @@
+---
+id: 1989-8-vechernyaya-fizicheskaya-shkola-pri-mgu-2b6ea287
+issue: kvant_1989_8
+year: 1989
+number: "8"
+title: 莫斯科国立大学夜间体育学校
+rubric: raznoe
+page_first: 80
+page_last: 80
+page_labels: "78"
+tag: DCGJ
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 6e377720abae28ea2af8286c9a6a0bf584171aabb9ccbd1bb6c3363ac3919ab6
+prompt_sha256: draft-1
+translated_from: content/ru/1989/08/articles/22_vechernyaya-fizicheskaya-shkola-pri-mgu-2b6ea287.md
+source_content_sha256: 692711b4e5bf6be4c8f67f6564c95bc1ebceea20ebe398e7d44e95cc97da3e6d
+translation_model: draft
+translation_run: zh-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 78⟧
+
+17. “科学的劳动组织——不是”。您将看到 1989 个相同的钉子（长 = 50 毫米，直径 = 2.5 毫米），钉在木梁上。您会选择哪种锤子来快速高效地完成这项工作？ （更具体地说，锤子的质量和手柄的长度是多少？）
+a) 松木。
+b) 橡木。
+
+作业准备者：
+S. D. Varlamov、T. P. Korneeva、A. Yu。库辛科，M. Yu。尼古拉耶夫，A.V.拉赫曼诺夫，M.V.斯托利亚罗夫，M.M.Tsypin，E.N.尤诺索夫。
+
+旅行团的参与者和组织者
+当前，我国青少年旅游面临着充足的机遇。苏联国家公共教育委员会和共青团中央委员会于1988年12月9日通过了一项决议“关于发展与学童一起旅游的工作形式”。根据该决议
+
+莫斯科国立大学夜间体育学校
+
+莫斯科国立大学物理学院夜间物理学院 (VPS) 宣布下一学年 8、9 和 10 年级的学生招生。
+
+VFS 的主要目标是帮助学生在学校课程范围内更深入地学习物理。晚上的课程以讲座的形式进行，1989年已经举办过：第二届青年物理学家全联盟和国际巡回赛，为巡回赛参与者和组织者提供的全联盟冬季和夏季规模。 1989年8月，全联盟暑期学校会议在乌法举行，会上将首次举办年轻希姆基科学家、数学家、地质学家和年轻太空探险家的巡回演出。然而，对于旅游业的广泛传播和发展却缺乏指导。要调动我国各地旅游组织者的创意团队积极、具体地开展工作。这些团体可以是由学生、教师、教育工作者、大学教师、共青团学校委员会、大学科研机构、高中生组成的倡议团体。青年旅游的组织者可以依靠公共教育组织者的帮助。
+
+否则，培训完成后，他们将获得高等物理学院的结业证书。
+
+地址：119899，莫斯科，GSP，列宁高里，莫斯科国立大学物理系，高等物理学院。电话：939-26-56。

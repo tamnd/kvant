@@ -1,0 +1,37 @@
+---
+id: 1989-11-esche-raz-o-spletayuschihsya-pryamyih-38c44610
+issue: kvant_1989_11
+year: 1989
+number: "11"
+title: 再次关于交织线
+rubric: nam-pishut
+rubric_sub: Нам пишут
+page_first: 35
+page_last: 35
+page_labels: "33"
+tag: L0TW
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 1d9e84d53bd4b8a9508dd114c124067f4a36729c68e1d1666d9fcce579eb2a73
+prompt_sha256: draft-1
+translated_from: content/ru/1989/11/articles/08_esche-raz-o-spletayuschihsya-pryamyih-38c44610.md
+source_content_sha256: 09d5248283383cd1fc5bd050446a66ef484beaeeff9a6016e498d055e5e10682
+translation_model: draft
+translation_run: zh-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 33⟧
+
+再次关于交织的直线
+
+M1085问题（条件见«Kvant»No.1，解法见«Kvant»No.51988）引起了很多读者的兴趣。今年我们在«Kvant»第6期为她出版了一张明信片。让我们回想一下，这个问题涉及如何根据一组直线在平面上的投影来确定它们在空间中的对应排列是否可能。
+
+莫斯科第 18 号寄宿学校的 10 年级学生 A. Skopenkov 发现了一系列编织$L_n$，其具有以下有趣的特性：每种编织都无法在空间中实现，但是当从编织中移除一条直线时，它就变得可以实现。第$n$丛$L_n$（$n=2, 3, 4, \dots$）由$(2n+1)$线组成；从图 1-3可以清楚地看出其构造规律，它描述了$n=2, 3$和4对应的交错。请注意，交错$L_n$的每条线与其他设备的交点都是相同的：首先线在与其相交的线下方经过$(n-1)$次，然后在其上方，然后再次在其下方，然后在其上方$(n-1)$次（图4）。
+
+隔行扫描$L_n$必要性的证明可以从问题M1085 a)部分的两个解中得到。让我们看看如果我们从 $L_n$ 中删除一条直线，例如从 $l_i$ 到 图 4，会发生什么。
+
+让我们假设其余线形成的交错$L'_n$无法在空间中实现。移除$l_i$直线$l_{i-1}$和$l_{i+1}$后，可以在垂直平面内旋转而不改变其水平投影，使其垂直并从丛中“拉出”。那么剩下的交织将仍然无法实现。但现在我们可以用同样的方式在垂直平面内转动来去除直线$l_{i-2}$和$l_{i+2}$，保留剩余交织的不可实现性，等等。结果，剩下的交织仅由两条直线组成，这显然是在空间中实现的。这与 $L'_n$ 无法实现的假设相矛盾。
+
+去除任何博罗米安轮后，去除一条直线后，缠结$L_n$解体的过程 - 图5，摘自 A. T. Kalinin 的文章（参见 «Kvant»，1981 年，第 9 期）。

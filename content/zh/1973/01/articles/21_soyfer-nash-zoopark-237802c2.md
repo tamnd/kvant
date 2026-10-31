@@ -1,0 +1,41 @@
+---
+id: 1973-1-soyfer-nash-zoopark-237802c2
+issue: kvant_1973_1
+year: 1973
+number: "1"
+title: 我们的动物园
+authors:
+  - Сойфер А. Ю.
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 66
+page_last: 66
+page_labels: "64"
+tag: TWYT
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 2145f0b368b34616234aff7c06f3bcd05ced5a4dd925d7d02af7cfa7bbff04c1
+prompt_sha256: draft-1
+translated_from: content/ru/1973/01/articles/21_soyfer-nash-zoopark-237802c2.md
+source_content_sha256: 329319d7dc25054cb33168bce96bd430e43a5ccb219070a2442f3dc8aede3fdc
+translation_model: draft
+translation_run: zh-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 64⟧
+
+适合小学生的量子
+
+我们的动物园
+
+我们的动物园开张了！我们急于与您分享这个消息。最先出现的是两只欢快的大雁，然后是一只双峰驼。我们是如何得到它们的？为了回答这个问题，用纸板制作 12 个人物，如图 1 所示，并尝试先将它们制作成鹅 (图 2) - 白色和灰色 - 两只快乐的鹅，然后是骆驼 (图 3)。
+
+您可能已经注意到，我们将动物园的居民放在一起的每个图形都由六个相同的正三角形组成，并且所有六个三角形都可以被“三角形车”绕过，其移动方式如图4所示。我们将此类图形称为三角形六氨基。正好有 12 个不同的三角形六氨基，而骆驼只有 11 个。完成此任务后，尝试用相同的图形组成一个新的小动物。我们的动物园欢迎新居民！
+
+如果你对这个游戏感兴趣，那么你可以在 M. Gardner 的书《数学谜题和娱乐》（Mir Publishing House，M.，1971）中阅读更多关于此类游戏以及与之相关的数学问题的内容。
+
+*) 翻转时相互变换的两个图形被视为同一个图形。
+
+A、于。索伊弗。

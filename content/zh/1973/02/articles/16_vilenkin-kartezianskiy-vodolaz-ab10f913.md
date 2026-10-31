@@ -1,0 +1,41 @@
+---
+id: 1973-2-vilenkin-kartezianskiy-vodolaz-ab10f913
+issue: kvant_1973_2
+year: 1973
+number: "2"
+title: 卡尔特会潜水员
+authors:
+  - Виленкин А. Н.
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 71
+page_last: 71
+page_labels: "69"
+tag: XC0C
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 18c0b5bd2a1f8f0d837e796e9dc07f91680628e30d76ba2ffd8bd04ed4d0227e
+prompt_sha256: draft-1
+translated_from: content/ru/1973/02/articles/16_vilenkin-kartezianskiy-vodolaz-ab10f913.md
+source_content_sha256: 2598fcfd9d98be092e42b05b98b3f1c7bb7da990a9485e22c8b13c7f8eeda5ab
+translation_model: draft
+translation_run: zh-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 69⟧
+
+卡尔特会潜水员
+
+纸船很容易浮在水面上，但当纸湿了，船就会下沉。干船将空气保持在水面上，用圆顶停留一年。如果圆顶变湿并扩散，空气就会从其下方逸出，船就会下沉。是否有可能让空气从穹顶下方排出，然后进入，船要么沉没，要么受苦——按照我们的愿望？
+
+事实证明这是可能的。这样的玩具是法国伟大的科学家和哲学家笛卡尔首次制作的，现在它被称为“carte”。
+
+按下薄膜，“潜水员”就会被拉到底。松开手，“潜水员”就会浮到水面。这就是他溺水的原因。当您按压薄膜时，其下方的空气会被压缩，从而增加瓶子中的压力，并将更多的水压入瓶子中。气泡变重并下沉。一旦松开薄膜，瓶子内的压力就会降低，卷入气泡的空气会排出多余的水，“潜水员”就会浮起来。
+
+现在尝试解决以下问题（如果你做了“潜水员”，你可以检查实验）。
+
+任务。随着水面上的气压增加，“笛卡尔潜水员”就会被淹死。 “潜水员”是否会在压力略有增加的情况下下潜，还是可以在到达当天之前“中途”停下来（即可以去掉橡胶膜，将这个玩具用作气压计，在瓶子上标记“潜水员”与水面上不同压力对应的潜水深度）？
+
+A·N·维伦金

@@ -1,0 +1,44 @@
+---
+id: 1973-7-davyidov-televizionnyie-fiziko-matematicheskie-kursyi-dlya-postupayuschih-v-vuzyi-8c4493b5
+issue: kvant_1973_7
+year: 1973
+number: "7"
+title: 为大学申请者提供的电视物理和数学课程
+authors:
+  - Давыдов В. И. и др.
+rubric: praktikum-abiturienta
+rubric_sub: Практикум абитуриента
+page_first: 44
+page_last: 44
+page_labels: "42"
+tag: I2VI
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: ab0331541668f9ab831e31e17fc1c5d0fedef0d63dc4a8800b2e17baabcfd80f
+prompt_sha256: draft-1
+translated_from: content/ru/1973/07/articles/10_davyidov-televizionnyie-fiziko-matematicheskie-kursyi-dlya-postupayuschih-v-vuzyi-8c4493b5.md
+source_content_sha256: a0cb4f4287ad42df03a58609af765dd20690a99baddbcb561e46071135a47d7a
+translation_model: draft
+translation_run: zh-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 42⟧
+
+为大学申请者提供的电视物理和数学课程
+
+今年5月，对课程人员进行了物理和数学测试。
+
+本期我们公布了测试过程中提出的一些问题。
+
+物理
+1. 确定在 图 1 所示的电路中流经电源 $E_2$ 的电流，如果
+$$E_1 = 10 \text{ } \theta; r_1 = 2,5 \text{ } \omega;$$
+$$E_2 = 8,0 \text{ } \theta; r_2 = 10 \text{ } \omega; R = 10 \text{ } \omega.$$
+2. 长度为$L = 80 \text{ } \omega$、电阻为$R = 3,5 \text{ } \omega$的导体，以垂直于均匀磁场汇合线的恒定速度$V$运动，其感应强度为$B = 0,45 \text{ } \text{m} \text{ } \text{l}$（图2）。导体通过软线连接到电流源，软线的电阻可以改变。电路中流过电流$I = 4,0 \text{ } \text{a}$。定义$V$。
+3. 电子在电势差$U$的加速下飞入均匀磁场，其感应强度为$B = 0,80 \text{ } \text{m} \text{ } \text{l}$（感应线垂直于电子运动方向），并在其中画出一个半径为$R = 1,5 \text{ } \text{cm}$的圆。找到$U$。
+4. 计算点 $A$ 在两条本征均匀散射细线系统中的图像位置。线的主光轴重合。线的焦距分别相等：$F_1 = 10 \text{ } \text{cm}, F_2 = 15 \text{ } \text{cm}$和$F_3 = -10 \text{ } \text{cm}$，线之间的距离相等：$O_1O_2 = 20 \text{ } \text{cm}$和$O_2O_3 = 8 \text{ } \text{cm}$。点$A$位于主光轴上
+
+图 1.
+图 2.

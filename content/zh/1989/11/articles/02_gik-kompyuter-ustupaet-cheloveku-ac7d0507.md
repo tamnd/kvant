@@ -1,0 +1,61 @@
+---
+id: 1989-11-gik-kompyuter-ustupaet-cheloveku-ac7d0507
+issue: kvant_1989_11
+year: 1989
+number: "11"
+title: 电脑不如人
+authors:
+  - Гик Е. Я.
+rubric: shahmatnaya-stranichka
+rubric_sub: Шахматы
+page_first: 83
+page_last: 83
+tag: NOM3
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: e41f501c880e67480b2d6e163e2e80b75d65319ed668cc9f70769b755a1ab950
+prompt_sha256: draft-1
+translated_from: content/ru/1989/11/articles/02_gik-kompyuter-ustupaet-cheloveku-ac7d0507.md
+source_content_sha256: fcc7890c33070bc3f88e9b19dd4f230c4f29b1bb952d022f71a6b41e25c3c22f
+translation_model: draft
+translation_run: zh-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 37⟧
+
+计算机的地位低于人类
+
+第五届世界冠军 M. Euwe 在计算机象棋发展初期就积极参与了这一主题。确实，他似乎打错了算盘，在七十年代声称电子象棋在未来百年内不会达到大师的水平。在这场比赛中，赢得 1970 年纽约计算机冠军的机器出的是白棋。
+
+“CDC 6600” - M. Euwe 维也纳派对
+1. e4 e5 2. Cc4 Kf6 3. Kc3 K:e4 4. K:e4 d5 5. Cb5+ c6 6. Cd3 de 7. C:e4 Cd6 8. d4 ed 9. Q:d4 0—0 10. Kf3 Qe7 11. Cg5 f6 12. Ce3 Ka6 13. 0—0 0 Cc7 14.c4 Ce6 15.Cc2 Kb4 16.Bb1 Lad8 17.Qe4 f5。尝试将死（18. Q:h7+ 和 19. Cg6×）来解决问题失败了。 18.Qh4 Q:h4 19.K:h4 b6 20.b3 f4 21.Cd4 c5 22.Cc3 Kc6 23.Jl:d8 Jl:d8 24.a3 Jle8 25.Cc2 Kd4 26.f3？ g5 27. C:d4 cd 28. Kf5 C:f5 29. C:f5 Re2。最终，黑棋取得了明显的优势。尤威在评论这款游戏时写道，他玩这款游戏时肩负着巨大的责任，因为他不想最终载入“历史”（二十年前，一个人被机器击败，尤其是被一个著名的大师击败，会被每个人认为是一个巨大的耻辱）。
+
+30. Ch3 Re3 31. Kpb2 Ce5 32. Ce6+ Kpg7 33. Cd5 Re2+ 34. Kpb1 d3 35. Ce4。击退 35...Rb2+ 36. Kpc1 d2+ 等的大胆威胁 35...d2 36. Kpc2？机器的第一个服务器错误，在 36. Rd1 R:g2 37. Kpc2 R:h2 38. R:d2 白棋仍然可以抵抗。 36…Re1 37. Kp:d2 R:h1，游戏到此结束。
+
+拉伦（Laren）轰动一时的“深南”（参见 1989 年«Kvant»第 6 期）比赛中德塔尼（Detanni）失败，可能会引起人们对国际象棋未来的担忧。下一批是同场比赛的奶酪，在W·布朗的见证下，残酷地为他的同事报了仇！
+
+“迪恩·南”——W·布朗西西里防御
+1. e4 c5 2. c3 Kf6 3. e5 Kd5 4. d4 cd 5. Kf3 Kc6 6. Cc4 Kb6 7. Cb3 d5 8. ed Q:d6 9. 0—0 e6 10. cd Ce7 11. Kc3 0—0 12. Je1 Kd5 13. g3 Qd8 14. a3 K:c3 15.bc b6 16.Qd3 Cb7 17.Cc2 g6 18.Cf4 Rc8 19.Ch6 Re8 20.Cd2 Ka5 21.Ca4 Qd5！ 22. C:e8 R:e8 23. Kpg2 Kc4 24. Cc1 g5 25. h3 h5 26. g4 e5 27. Qd1 f5！ 28. gh g4 29. hg fg 30. Kpg1 Q:f3 31. Qf3 B:f3，经过几步白方发牌。
+
+在火地岛代理城市乌沙亚（1986年）的国际比赛场地中，这位第二位世界冠军与两位总米和两位国际大师一起演奏了中型微型选手“Mephisto-Amsterdam”。电子棋手在比赛中表现出色。比赛的冠军奥·潘诺（O. Panno）发挥了一点聪明才智击败了他。
+
+“墨菲斯托”——O.Panel 西西里防御
+1. e4 c5 2. c3 e6 3. d4 d5 4. ed ed 5. Kf3 Kc6 6. Cb5 Cd6 7. 0—0 Ke7 8. dc C:c5 9. b4 Cd6 10. Cd3 Cg4 11. h3 Ch5 12. Je1 Qs7 13. Cd2 Cg6 14. C:g6 hg 15.Ka3 a6 16.Qe2 0—0 17.Lab1 Rfe8 18.Kc2 Qd7 19.a3 Cc7 20.b5 Ka5 21.Ke3 Kf5 22.ba ba 23.Qd3 K:e3 24.C:e3 Kc4 25.Cc5 Qc6 26.Qd4 f6 27. R:e8+ R:e8 28. Jd1 Jd8 29. C77 Jd7 30. Qs5 Qs6 31. Re1。
+
+皇后不在后，白方的立场还算靠谱，但毛计却准备了俏皮的反驳。 31…Ke5！主教受到攻击，威胁 K:f3+，在 32. K:e5 上，解为 32...R:e7 33. Kf3 Q:e1+ 34. K:e1 R:e1×。也许电脑在计算选项时没有注意到前面的主教c7？ 32. R:e5 C:e5 33. N:e5 fe 34. Qc8+ Nph7 35. Bb4 Re7 36. Qd8 Re8 37.
+
+Qs7 Rc8 38。Qb7 d4，黑方获胜。
+
+1987年，《64-国际象棋评论》日报在莫斯科为报纸国际象棋部门编辑举办了一次有分量的研讨会。一天晚上，我在 Turbostar 微型机器和研讨会参与者之间召开了一次会议。
+
+“Turbostar” - 顾问
+目录 纳萨洛
+1. d4 d5 2. Kf3 Kf6 3. c4 e6 4. g3 dc 5. Qa4+ Cd7 6. Q:c4 Cc6 7. Cg2 Ce7 8. 0—0 0—0 9. Kc3 Kbd7。这个著名的理论位置是由 10. Lad1、Rfe1、Cg5 或 Qd3 扮演的，但计算机耗尽了开放知识并选择了新的延续。 10. Cf4 Kb6 11. Qd3 Kbd5 12. Ce5 K:c3 13. bc Ce4 14. Qe3 Qd5。更准确地说，14…Cd5，现在白棋可以实现服务器优势：在15.c4之后！ Qs6（否则主教 e4 输） 16. C:f6 gf (16…C:f6 17. Ke5! fe 18. C:e4 ed 19. Q:d4 记者们面临着平局的沉闷战斗。
+
+15. C:c7。事实证明，这颗棋子对于涡轮星来说太诱人了，可惜的是，这个宝贵的机会被错过了。 15…Las8 16. Ce5 Kg4 17. Qf4 K:e5 18. Q:e5 Q:e5 19. K:e5 C:g2 20. Kp:g2 R:c3 21. Lab1 b6 22. Jfc1 Jlfc8 23. J:c3 Jl:c3 24. Jlb2.因此，黑方的结局是更有希望的 ändsplühl。
+
+24…f6 25.Kd3 Kpf7 26.Kpf3 Cd6 27.h4 h5 28.Kpe4 g5 29.hg fg。一个单独的通过的棋子总是用于机器，但这里同时有两个棋子。 30.Ke5+Kpf6。在31.e3和进一步的f2-f4或31.Kf3之后，白方保持了强势地位。相反，他们提出交换车，这立即导致了灾难。 31. 铷3？ Rb3 32.ab C:e5。问题在于，不仅重物无法进入，轻物也无法进入。 33. de+ Kpg6 34. e3 a5 35. f3 h4 36. gh gh 37. Kpf4 b5 38. Kpg4 a4，这里我判电脑失败。记者们都松了口气。
+
+E.雅。吉克

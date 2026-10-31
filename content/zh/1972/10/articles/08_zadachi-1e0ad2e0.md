@@ -1,0 +1,56 @@
+---
+id: 1972-10-zadachi-1e0ad2e0
+issue: kvant_1972_10
+year: 1972
+number: "10"
+title: 任务
+rubric: smes
+page_first: 32
+page_last: 32
+page_labels: "30"
+tag: ZHGQ
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: fac532b58037a6b3f55dcf044ab9fba37f8e50fc667c523e85b8486ea85d6f31
+prompt_sha256: draft-1
+translated_from: content/ru/1972/10/articles/08_zadachi-1e0ad2e0.md
+source_content_sha256: 8ab9c9861c5fccb3eb3756711ce807c3a1bf713c2fcea1d6f47c6dc500efee91
+translation_model: draft
+translation_run: zh-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 30⟧
+
+图 17.
+
+问题 11：证明每个等边三角形都可以分割成任意数量的相似三角形，从两个开始。
+
+问题 12. 是否可以批准将其切割成与原始三角形相似的三角形？
+
+问题 13. 证明任何三角形都可以被分割成四个与原来相似的三角形。
+
+问题 14：证明任何三角形都可以分成任意数量的与原始三角形相似的三角形，从六个开始。
+
+问题 15. 证明如果一个三角形被分成三个相似的三角形，那么它要么是原三角形，要么是等边三角形。
+
+问题16. 可以批准将其切割成五个相似的三角形吗？
+
+问题17.证明如果每个图形都被分成n个相似三角形，那么你可以指示任何数字m它将被分成任意数量大于m的相似三角形。
+
+问题 18. 证明有一些非常细的三角形不能分成相似的三角形。
+
+最后，让我们提及一些已解决的问题。
+
+问题一：一个长方形可以分成奇数个三角形吗？
+
+问题 2. 对于任意平行四边形也是同样的问题。 （我们假设这两个问题的答案都是可预测的。）
+
+问题3.是否存在不能分成相似三角形的边界？
+
+（通过改进我们用来解决将边界切割成相等三角形的问题的方法，看到这个问题取得一些进展将会很有趣）
+
+问题4：探索其他“多边形区域”的插枝。让我们找出切口存在的充要条件。
+
+问题 5：研究将多边形切割成聚酰胺。

@@ -1,0 +1,73 @@
+---
+id: 2015-2-shteyngarts-rebusyi-pro-kvant-463e6d51
+issue: kvant_2015_2
+year: 2015
+number: "2"
+title: 关于«Kvant»的谜题
+authors:
+  - Штейнгарц Л. А.
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 27
+page_last: 27
+page_labels: "25"
+tag: 6SP4
+lang: zh
+source: kvant_digital
+extraction: native
+content_sha256: f458dc99b36123b23b9182c7f7d6ad6a4c41cd90bbd7e6c45b16ba269cbff007
+prompt_sha256: draft-1
+translated_from: content/ru/2015/02/articles/02_shteyngarts-rebusyi-pro-kvant-463e6d51.md
+source_content_sha256: c5fd4b2ac8038dfec7e95989d9fbd3ad20ba489aef51a6a515c3a8394807f147
+translation_model: draft
+translation_run: zh-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 25⟧
+
+“量子”
+
+为了
+
+雅戈尔
+
+小学生
+
+关于«Kvant»的谜题
+
+斯坦加茨
+
+我们为您提供不同寻常的拼图问题选择 - 所有问题都包含我们杂志的名称。与往常一样，在每个画谜中，您都需要将每个字母替换为特定的数字（不同的字母具有不同的数字），以便画谜变成真正的相等。如果任务包含附加条件，则单独讨论。有些谜题非常困难，需要付出很大的努力才能解决。这些谜题经过精心挑选，每个谜题都只有一个答案。尝试找到这些答案，如果你感兴趣，那就证明它们的独特性。祝您好运！
+
+1. 假设数字 QUANT 是质数，则解决该难题：
+
+⟦column⟧
+
+9. 解决这个难题，前提是数字 QUANT 能被 3 整除：
+
+10.
+
+11. 解决这个难题，前提是数字 WAVE 能被 4 整除：
+
+2.
+
+3.
+
+4. 解决这个难题，前提是数字 QUANT 可以被 4 整除：
+
+12.
+
+13.
+
+5. 解谜题，前提是数字 QUANT a) 是偶数； b) 奇数：
+
+6. 假设数字 QUANT 是质数，则解决该难题：
+
+7. 解决这个难题，前提是数字 QUANT 可以被 4 整除：
+
+14. 解谜题，前提是数量 QUANTITOR a) 是偶数； b) 奇数：
+
+15. 解决这个难题，前提是数字 QUANT 可以被 4 整除：
+
+8.

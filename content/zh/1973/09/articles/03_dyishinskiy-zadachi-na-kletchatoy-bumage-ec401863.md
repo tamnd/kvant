@@ -1,0 +1,54 @@
+---
+id: 1973-9-dyishinskiy-zadachi-na-kletchatoy-bumage-ec401863
+issue: kvant_1973_9
+year: 1973
+number: "9"
+title: 方格纸上的问题
+authors:
+  - Дышинский Е. А.
+rubric: smes
+page_first: 19
+page_last: 19
+page_labels: "17"
+tag: DZ5B
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: d5ec8752bea17140ab4fbefc315c80ee570e5330ca949498b7aac72a2b40d59a
+prompt_sha256: draft-1
+translated_from: content/ru/1973/09/articles/03_dyishinskiy-zadachi-na-kletchatoy-bumage-ec401863.md
+source_content_sha256: ffe47cb9624d9954196a4d50baf25e9d329864274ba080ae0996eba519b34c56
+translation_model: draft
+translation_run: zh-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 17⟧
+
+图 3. 反射光下的牛顿极。
+
+根据惠更斯的假设，它在各种环境中移动。
+
+直接从该理论得出并且与其他理论不相容的另一个结论是，如果光线倾斜地穿过较厚的薄膜，那么这相当于光线垂直穿过较薄的薄膜；不同光束所走路径的差异与观察到的现象完全一致......
+
+我们假设，干扰的一般法则对各种细节如此不同的事实的适用性的准确性，使我们可以认为其有效性已得到完全证明。对导出该定律的理论的完全接受或果断拒绝既可以通过时间定理也可以作为实验的结果发生。如果它被驳斥，那么我们对事物的看法将成为历史的财产，但如果它被证实，那么我们可以期望借助这种强大而普遍的研究介质（可以被认为是光的传播）的手段，更广泛地渗透到那个时代的秘密。
+
+任务
+在格子上
+纸
+
+你有方格纸和一把没有刻度的尺子。尝试解决以下问题。
+
+a) 构造线段 AB 的中点 (图 1)。
+
+b) 将线段 AB 分成五等份 (图 2)。
+
+b) 将三角形 ABC 分成三个面积相等的三角形 (图 3)。
+
+d) 通过 A 点，画一条与直线 CD (图 4) 平行的直线。
+
+e) 从 A 点开始，降低与线 CD (图 5) 的垂线。
+
+e) 从线段 AB 的末端开始，垂直于线段 AB (图 6)。
+
+E·A·戴辛斯基

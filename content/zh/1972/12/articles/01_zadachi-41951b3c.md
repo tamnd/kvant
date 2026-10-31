@@ -1,0 +1,38 @@
+---
+id: 1972-12-zadachi-41951b3c
+issue: kvant_1972_12
+year: 1972
+number: "12"
+title: '[任务]'
+rubric: kvant-dlya-mladshih-shkolnikov
+page_first: 83
+page_last: 83
+tag: L2FK
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: d7f11ee28e30ec31e9092dc90a22de98395d22c4ff81e8eb5a11799654e4ae6a
+prompt_sha256: draft-1
+translated_from: content/ru/1972/12/articles/01_zadachi-41951b3c.md
+source_content_sha256: d7d33952d1f51f2cd48e08628c675a6660d681851d587ef2ea711783b9f5b186
+translation_model: draft
+translation_run: zh-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+1. 影片结束后，部分观众乘坐六辆巴士离开，每辆巴士上的观众人数相同。其余观众（多出百分之十五）步行前往。如果已知放映厅内的人数不超过 400 人，而公交车上还剩下 150 多名观众，那么电影院里有多少观众？
+
+2. 找出所有可能的方法来组合 * 下面等式中的数字
+$$*00** = (\ast\ast)^2$$
+（任何数字都不应以零开头）。
+
+3. 共有 22 个、14 个和 12 个坚果，分为三堆。需要通过三次转移来平衡每堆中的坚果数量，同时遵守以下条件：从任何一堆中，只允许将第二堆中的坚果数量转移到另一堆中。
+
+4. 破译等式：
+$$a \cdot c \cdot \overline{ac} = \overline{ccc}.$$
+
+5. 如何用六根火柴拼出四个相同的等边三角形？
+
+6. 三角形的边长为整数，一条边的长度为 5，另一条边的长度为 1。三角形的长度是多少？

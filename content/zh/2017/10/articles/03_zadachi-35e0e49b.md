@@ -1,0 +1,46 @@
+---
+id: 2017-10-zadachi-35e0e49b
+issue: kvant_2017_10
+year: 2017
+number: "10"
+title: 任务
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 29
+page_last: 29
+tag: SG9X
+lang: zh
+source: kvant_digital
+extraction: native
+content_sha256: a64a40141f973b0f0808aef99421ea1476eb0421ef82768b6ce78c409de484dd
+prompt_sha256: draft-1
+translated_from: content/ru/2017/10/articles/03_zadachi-35e0e49b.md
+source_content_sha256: 4936c763e7895960092466598e7dd9f87dbb13c14e30ef36db47a0494de8289f
+translation_model: draft
+translation_run: zh-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+适合小学生的“QUANT”
+
+任务
+
+1. 将图所示的图形切成周长相同的四部分，使这些部分之间没有相等的部分。 T·卡齐齐纳
+
+3.
+
+在Besfamilny家庭中，习惯上计算家庭的年龄，即父亲、母亲和所有孩子的年龄（完整岁数）之和。每年 12 月 31 日，Besfamilnye 都会庆祝家人的生日。最小的孩子瓦夏出生那年，全家已经101岁了。几年后，无家可归者庆祝了他们的
+
+2.
+
+插图：D. Grishukova
+
+一场 10 对 10 的足球比赛在一群说谎者（总是说谎）和一群说真话的人（总是说真话）之间进行。赛后，每个球员都被问到：“你们进了多少球？”比赛参与者有的回答“一”，米莎说“二”，有的回答“三”，其余的回答“五”。如果说真话的人以20:17的比分获胜，米莎是否在撒谎？ M·叶夫多基莫夫
+
+这些问题主要针对 6-8 年级的学生。这些问题是在以 M.V. 命名的 XL 锦标赛中提出的。罗蒙诺索夫。
+
+150 周年纪念。 Besfamilny 家族有多少个孩子？斯诺尔
+
+4. Lesha 通过描画他的塑料直角三角形四次，在斜边上应用一条短边，并将锐角的顶点与直角的顶点对齐，画出了一幅几何图画。事实证明，“闭合”的第五个三角形是等腰的（参见图；标记的边相等）。求 Lesha 三角形的锐角。 T·卡齐齐纳

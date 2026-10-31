@@ -1,0 +1,54 @@
+---
+id: 2016-4-zadachi-c27d6200
+issue: kvant_2016_4
+year: 2016
+number: "4"
+title: 任务
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 24
+page_last: 24
+tag: JXU4
+lang: zh
+source: kvant_digital
+extraction: native
+content_sha256: 5eb1987c15b978337eb452a17d3f8079dba0df5210229e466713433b987568be
+prompt_sha256: draft-1
+translated_from: content/ru/2016/04/articles/03_zadachi-c27d6200.md
+source_content_sha256: 80b2d3b21c4a34a77817ce0037e7c167fc65c324b0d51553f7209cea440813a1
+translation_model: draft
+translation_run: zh-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+适合小学生的“QUANT”
+
+任务
+
+1.
+
+有 4 个部分，每个部分由四个立方体粘合在一起，并涂上自己的颜色。它们被用来制作一块 2 ¥ 2 ¥ 4 的无孔砖（如图所示）。白色部分是什么样子的？民俗学
+
+⟦column⟧
+
+4.
+
+2.
+
+七个女孩站成一排，如图图，手里拿着糖果。 Tanya 右边的女孩有 13 颗糖果，Ksyusha 右边有 33 颗糖果，Anya 右边有 23 颗糖果，Ira 右边有 8 颗糖果，Valya 右边有 27 颗糖果，Nadya 右边有 16 颗糖果。 Katya 有多少颗糖果？民俗学
+
+马尔维娜命令匹诺曹把正方形切成7个长方形（不一定不同），每个长方形的一边是另一边的两倍。这个任务可以完成吗？民俗学
+
+5.
+
+这些问题主要针对 6-8 年级的学生。问题1-3与杂志«Kvant»联合出版，问题4和问题5取自第十四届莫斯科6-7年级数学口语奥林匹克竞赛。
+
+插图：D. Grishukova
+
+3.
+
+两辆赛车——红色和绿色——沿着同一条路从A城市驶向B城市，同时出发和结束。与此同时，绿色汽车从未超越红色汽车。难道至少 90% 的时候绿色汽车比红色汽车跑得快吗？民俗学
+
+这家商店出售盒装铅笔。其中至少有五盒价格不同（没有两盒价格相同）。无论 Vasya 买两盒，Petya 总是可以花同样的钱买两盒。至少应出售多少盒铅笔？ N·马丁诺娃
