@@ -1,0 +1,89 @@
+---
+id: 1971-10-guter-yazyik-cheloveka-i-yazyik-mashinyi-b2281ef4
+issue: kvant_1971_10
+year: 1971
+number: "10"
+title: Ngôn ngữ của con người và ngôn ngữ của máy móc
+authors:
+  - Гутер Р. С.
+rubric: osnovnye-stati
+page_first: 4
+page_last: 6
+page_labels: 2, 4
+tag: LDO3
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: d60e9d5211dcafe82de841d4d0904f8041a63d4df494041d0f40d32812364355
+prompt_sha256: draft-1
+translated_from: content/ru/1971/10/articles/02_guter-yazyik-cheloveka-i-yazyik-mashinyi-b2281ef4.md
+source_content_sha256: dac18384c3a287fc9691be1f7ac8a1b2d4cdd061ca7d54f2fdf7aa6b9fc31515
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 2⟧
+
+các bit nhị phân, nghĩa là nó có thể chứa một tập hợp các số 0 và một, được gọi là từ máy.
+
+Thiết bị số học của máy móc có thể thực hiện một tập hợp các phần tử hoạt động nhất định. Thuật toán lời giải bất kỳ bài toán nào cũng phải được viết dưới dạng một chuỗi các thành phần hoạt động như vậy, được gọi là chương trình. Chương trình bao gồm các lệnh riêng biệt, mỗi lệnh chứa thông tin về một thao tác cơ bản.
+
+Lệnh (được biểu diễn dưới dạng từ máy) được chia thành hai phần: hoạt động và địa chỉ. Phần vận hành của lệnh chứa thông tin về bản chất của thao tác đang được thực hiện (cộng, nhân, v.v.): các thao tác cơ bản của máy được đánh số lại và số thao tác được yêu cầu được ghi bằng các bit của ô nhớ máy được phân bổ cho phần vận hành. Số này được gọi là mã hoạt động (chúng ta sẽ nói đơn giản là mã).
+
+Phần địa chỉ của lệnh chứa địa chỉ của các ô có nội dung liên quan đến thao tác. Số lượng địa chỉ trong một lệnh có thể khác nhau đối với các máy khác nhau. Chúng tôi sẽ giới hạn việc xem xét các máy ba địa chỉ, trong phần địa chỉ có địa chỉ của ba ô nhớ được chỉ định: địa chỉ thứ nhất, thứ hai và thứ ba của lệnh. Đối với một phép toán số học (ví dụ: phép cộng), số ô chứa số gốc (phần cộng) được ghi bằng địa chỉ thứ nhất và thứ hai. Địa chỉ thứ ba cho biết số ô nơi kết quả (nghĩa là số tiền) sẽ được ghi. Đối với các phần tử hoạt động khác, địa chỉ được sử dụng có thể khác nhau (một phần, một, hai hoặc thậm chí cả ba địa chỉ có thể không cần thiết đối với bất kỳ lệnh nào, khi đó các ô địa chỉ tương ứng sẽ chỉ được điền bằng số 0).
+
+Ví dụ: giả sử một lệnh hệ thống (một tập hợp các thành phần hoạt động) của máy chứa $64=2^6$ các hoạt động cơ bản.
+
+hoạt động mới. Khi đó sáu chữ số kép là đủ để đánh số chúng, nghĩa là mã hoạt động có thể được ghi vào bộ nhớ máy dưới dạng số kép có sáu chữ số. Thông thường sẽ thuận tiện hơn cho người lập trình khi chia số này thành hai “bộ ba”, mỗi bộ sau đó được viết bằng một chữ số trong hệ bát phân $(2^3=8)$, do đó thu được số bát phân có hai chữ số. Ví dụ: nếu $N=4096=2^{12}$, thì trong hệ thống “nhị phân-bát phân” như vậy, để viết bất kỳ địa chỉ nào, bạn sẽ không cần mười hai hàng mà chỉ cần một số bốn hàng, dễ viết và đọc hơn.
+
+Ví dụ: nếu mã 01 có nghĩa là cộng và 04 có nghĩa là chia thì từ máy
+
+01 1254 3172 6314
+
+nghĩa là lệnh: cộng các số ghi trong ô có địa chỉ 1254 và 3172 và ghi tổng vào ô có địa chỉ 6314. Tương tự, từ
+
+04 4365 2710 5024
+
+nó được hướng dẫn chia số ở ô 4365 cho số ở ô 2710 và đặt phần đó vào ô 5024.
+
+Địa chỉ của ô mà thiết bị điều khiển phải trích xuất lệnh tiếp theo để thực thi được ghi lại trong một bộ đếm lệnh đặc biệt là một phần của thiết bị điều khiển. Nếu một địa chỉ I nhất định được ghi trong bộ đếm, thì họ nói rằng “điều khiển nằm ở ô I”. Khi một lệnh tương ứng với một phép tính số học được thực thi, một lệnh sẽ tự động được thêm vào nội dung của bộ đếm chương trình, do đó điều khiển đó được chuyển đến ô có địa chỉ tiếp theo. Vì vậy, nếu chúng ta muốn máy thực hiện bất kỳ chuỗi phép tính số học nào thì cần phải đặt lệnh tương ứng vào các ô nhớ liên tiếp.
+
+Ví dụ, hãy viết một chương trình tính giá trị
+
+$$y = \frac{a+bx}{ax+b}.$$
+
+⟦folio 4⟧
+
+các số từ các ô $a$ và $R_1$ và viết tổng vào ô $R_1$), tất nhiên, không nên hiểu là “bằng” $a=0$. Nhân tiện, thường thay vì dấu =, họ viết những câu như →; nhưng chúng tôi sẽ sử dụng các mũi tên cho các mục đích khác.
+
+Như đã đề cập, việc thực hiện một lệnh số học sẽ tự động chuyển điều khiển sang ô tiếp theo, thêm một lệnh vào bộ đếm chương trình. Nhưng rất thường không thể sắp xếp tất cả các lệnh cần thiết “trong một cột”. Do đó, đối với lời giải của điều khiển bình phương $ax^2+bx+c=0$, tùy thuộc vào dấu của phân biệt $D=b^2-4ac$, cần phải tính căn thực hoặc căn tối thiểu, việc này được thực hiện, như đã biết, theo nhiều cách khác nhau.
+
+Để thay đổi thứ tự thực hiện lệnh, trong số các thành phần hoạt động của máy, các lệnh điều khiển đặc biệt được cung cấp (chính xác hơn là truyền điều khiển), không thực hiện các thao tác trên nội dung của ô nhớ mà thay đổi nội dung của bộ đếm chương trình.
+
+Lệnh đơn giản nhất thuộc loại này là lệnh truyền điều khiển vô điều kiện, lệnh này luôn chuyển điều khiển đến ô nhớ được chỉ định trong đó. Khi nó được thực thi, nội dung của bộ đếm chương trình sẽ bị xóa và địa chỉ được chỉ định trong lệnh được ghi vào nó, do đó lệnh tiếp theo sẽ được gọi bởi thiết bị điều khiển từ ô đã chỉ định.
+
+Vì đối với điều này, chỉ cần dấu phẩy một địa chỉ trong lệnh là đủ và hai địa chỉ còn lại sẽ vẫn trống, chúng có thể được sử dụng bằng cách buộc máy thực hiện một số hành động khác khi thực hiện cùng một lệnh. Thông thường, việc chuyển điều khiển được thực hiện bằng cách chuyển nội dung của ô nhớ này sang ô nhớ khác. Ví dụ, giả sử rằng địa chỉ thứ ba của lệnh truyền điều khiển được tính trong bộ đếm chương trình, bạn có thể viết nó vào ô ký hiệu có ý nghĩa như sau:
+
+$$a \rightarrow b, c$$
+
+(“gửi nội dung của ô $a$ đến ô $b$ và chuyển điều khiển sang ô $c$”).
+
+Các lệnh điều kiện chuyển giao điều khiển phức tạp hơn; chúng chỉ chuyển giao quyền điều khiển khi đáp ứng được các điều kiện tăng tốc nhất định. Đây cũng là những gì lệnh yêu cầu khi lập trình các tiến trình phân nhánh. Hãy xem xét một trong những lệnh sau:
+
+$$a < b, c.$$
+
+Khi nó được thực thi, các số được ghi trong các ô nhớ $a$ và $b$ sẽ được so sánh. Nếu bất đẳng thức ghi trong lệnh là đúng thì điều khiển sẽ được chuyển đến ô $c$, nghĩa là, thay vì nội dung của bộ đếm chương trình, địa chỉ thứ ba của lệnh sẽ được ghi vào ô đó (như với việc chuyển điều khiển vô điều kiện). Nếu $a \geq b$, thì một giá trị sẽ được thêm vào nội dung của bộ đếm, như trong các phép tính số học.
+
+Bằng cách sử dụng các lệnh được mô tả, bạn có thể truy vấn lời giải và một số tác vụ không tính toán. Ví dụ: giả sử các ô $x_1$ và $x_2$ chứa các số không phải toric, từ đó bạn cần chọn số lớn hơn và viết nó vào ô $x$. Điều này có thể được thực hiện bằng chương trình sau:
+
+1) $x_1 < x_2$, 3,
+2) $x_1 \rightarrow x$, 4,
+3) $0 + x_2 = x,$
+4) $cmon$
+
+Lệnh đầu tiên của nó là chuyển quyền điều khiển có điều kiện: nếu $x_2$ lớn hơn $x_1$ thì quyền điều khiển sẽ được chuyển sang lệnh 3). Đây là lệnh số học sẽ dẫn đến số $x_2$ được ghi vào ô $x$. (Thường gặp số 0; hóa ra việc “gán” cho ô được đánh số 0 rất thuận tiện, việc này được thực hiện ở hầu hết các máy.) Sau đó, điều khiển được chuyển sang ô 4 tiếp theo), chứa lệnh $cmon$.
+
+Nếu $x_1 \geq x_2$ thì lệnh 1) chuyển điều khiển sang ô 2 tiếp theo), nơi đặt lệnh chuyển điều khiển vô điều kiện, gửi nhiều hơn số $x_1$ đến ô $x$ và chuyển ngay điều khiển đến $cmon$.
+
+Thay vì gợi ý số lượng hoặc điều kiện của lệnh đang chuyển quyền điều khiển, nó thường chỉ là một mũi tên đến lệnh mong muốn. Ví dụ: đây là một chương trình tương tự trông như thế nào, từ đó

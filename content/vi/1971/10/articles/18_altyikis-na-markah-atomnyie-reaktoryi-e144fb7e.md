@@ -1,0 +1,40 @@
+---
+id: 1971-10-altyikis-na-markah-atomnyie-reaktoryi-e144fb7e
+issue: kvant_1971_10
+year: 1971
+number: "10"
+title: Những con tem thể hiện lò phản ứng hạt nhân
+authors:
+  - Алтыкис А. В.
+rubric: raznoe
+rubric_sub: Разное
+page_first: 65
+page_last: 65
+page_labels: "63"
+tag: UY12
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: ec9ffd033217993a6a54367d26a9314f04cf39e2959d64b6c494d251dfa42258
+prompt_sha256: draft-1
+translated_from: content/ru/1971/10/articles/18_altyikis-na-markah-atomnyie-reaktoryi-e144fb7e.md
+source_content_sha256: 51ee60bb02de18135975fa882ad137abb8944ebb80cdb87205a8c7728f4e003a
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 63⟧
+
+TRÊN TEM - ATOMIC
+lò phản ứng
+
+Việc sử dụng năng lượng nguyên tử cho mục đích hòa bình gắn bó chặt chẽ với việc tạo ra các lò phản ứng nguyên tử. Lò phản ứng là trái tim của bất kỳ nhà máy điện hạt nhân hoặc động cơ hạt nhân nào. Một phản ứng dây chuyền có kiểm soát của sự phân hạch hạt nhân nguyên tử xảy ra trong đó và năng lượng nguyên tử được giải phóng. Hiện nay có rất nhiều loại lò phản ứng hạt nhân khác nhau được chế tạo.
+
+Lò phản ứng hạt nhân đầu tiên vì mục đích hòa bình được xây dựng ở Liên Xô tại nhà máy điện hạt nhân ở Obninsk, đi vào hoạt động năm 1954. Một loạt ba con tem phát hành vào tháng 1 năm 1956 được dành riêng cho sự kiện này. Một trong số chúng cho thấy phần trên của lò phản ứng (xem ảnh).
+
+Các lò phản ứng nguyên tử vì mục đích hòa bình đã được xây dựng ở nhiều nước trên thế giới. Bức ảnh chụp các con tem mô tả các lò phản ứng nguyên tử đầu tiên của CHDC Đức, Tiệp Khắc và Romania, được xây dựng với sự giúp đỡ của Liên Xô, và một con tem mô tả lò phản ứng nguyên tử đầu tiên do Nam Tư xây dựng ở Belgrade.
+
+Việc sử dụng năng lượng nguyên tử cho mục đích hòa bình được tượng trưng bằng tem của Canada và Pháp thể hiện trong ảnh, cũng mô tả các lò phản ứng nguyên tử.
+
+A. V. Almyks

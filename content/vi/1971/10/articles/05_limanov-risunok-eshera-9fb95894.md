@@ -1,0 +1,50 @@
+---
+id: 1971-10-limanov-risunok-eshera-9fb95894
+issue: kvant_1971_10
+year: 1971
+number: "10"
+title: Bản vẽ Escher
+authors:
+  - Лиманов Л. Г.
+rubric: smes
+page_first: 17
+page_last: 17
+page_labels: "15"
+tag: 47JO
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 4c7e6e1759b1f44b51bfc4dd1f6bc6567ee9d4027febe54b7ac693e955299765
+prompt_sha256: draft-1
+translated_from: content/ru/1971/10/articles/05_limanov-risunok-eshera-9fb95894.md
+source_content_sha256: a27eb6318b7575e9be0c272b2edf85dceba98d7d4ae9dfeef0fe23c7e726e140
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 15⟧
+
+như một lỗi thử nghiệm. Để thuyết phục những người nghi ngờ, Kirkendile, cộng tác với A. Smigelax, đã tiến hành một loạt thí nghiệm mới. Họ chỉ phủ một lớp đồng lên các mặt đối diện của gốc đồng thau, và giữa đồng và đồng thau ở cả hai mặt của gốc đồng thau, họ đặt dây molypden để cố định ranh giới giữa đồng và đồng thau. Sau đó, mẫu được đun nóng đến nhiệt độ cao. Nếu các nguyên tử đồng đi vào thanh đồng nhanh như khi các nguyên tử kẽm thoát ra khỏi nó thì kích thước ban đầu của thanh đồng sẽ không thay đổi. Điều này sẽ được biểu thị bằng vị trí đứng yên của dây molypden. Nhưng trên thực tế, sợi dây molypden đã dịch chuyển, và sự lệch vị trí của nó cho thấy thanh đồng đã co lại; nghĩa là các nguyên tử kẽm thoát ra khỏi gốc cây nhanh hơn các nguyên tử đồng đi vào. Dưới kính hiển vi, có thể làm phẳng các lỗ chân lông khá lớn hình thành trên bề mặt do xuất hiện một số lượng lớn các chỗ trống phát sinh nơi các nguyên tử kẽm nhanh chóng thoát ra khỏi lỗ chân lông.
+
+Những kết quả này được công bố vào năm 1947, và cái mà ngày nay được gọi là “hiệu ứng Kirkendyle” đã tạo ra một chấn động thực sự đối với các nhà luyện kim và tất cả các nhà nghiên cứu nghiên cứu tính chất của chất rắn.
+
+Các thí nghiệm cũ đã được thử nghiệm và những thí nghiệm mới được thực hiện.
+
+Vì hiệu ứng Kirkendile được phát hiện ngay lập tức trong nhiều hợp kim nên không còn nghi ngờ gì nữa là nó thực sự tồn tại.
+
+Không còn nghi ngờ gì nữa, việc nghiên cứu hiện tượng khuếch tán sẽ giúp chúng ta hiểu sâu hơn về các tính chất của chất rắn và tất cả các quá trình kỹ thuật trong đó khuếch tán đóng vai trò chính.
+
+VẼ ASCHER
+
+Nếu một mặt phẳng được bao phủ bởi một đa giác sao cho hai đa giác có một cạnh chung, một đỉnh chung hoặc không có điểm chung nào cả, thì lớp phủ đó được gọi là sàn gỗ.
+
+Trong tạp chí của chúng tôi (xem «Kvant» số 3, 1970, trang 21), chúng tôi đã trích dẫn một số bài toán liên quan đến sàn gỗ.
+
+Đối với một số sàn gỗ, có thể chỉ định các phép biến đổi mặt phẳng biến đổi các hình tạo nên sàn gỗ thành nhau để bản thân sàn gỗ không thay đổi.
+
+Đối với sàn gỗ được hiển thị trong hình này, các phép biến đổi của nó cũng không thay đổi: quay quanh một điểm một góc 60° và đối xứng với đường thẳng l. Bạn có thể chỉ ra những biến đổi nào khác không làm thay đổi sàn gỗ này?
+
+Bạn thấy sàn gỗ thuộc một loại hoàn toàn khác trong bức vẽ của họa sĩ người Hà Lan Escher (xem trang bìa). Sàn gỗ này được thay thế bằng thực tế là một trong những phép biến đổi không làm thay đổi nó là nhân đôi tất cả các khoảng cách so với tâm (biến đổi tương tự). Vì vậy, nói đúng ra, bức tranh cho thấy vô số con thằn lằn đang thu nhỏ lại. Cố gắng tìm ra các loại sàn gỗ khác không thay đổi độ giống nhau của chúng trong quá trình biến đổi.
+
+L. Limanov
