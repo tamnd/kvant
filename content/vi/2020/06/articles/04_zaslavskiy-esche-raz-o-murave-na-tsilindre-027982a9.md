@@ -30,7 +30,7 @@ KVAN T 2020/Số 6
 
 ⟦figure⟧
 
-Hình 5
+Cơm. 5
 
 trên một vòng tròn (Hình 5). Bây giờ tất cả các đoạn đều chiếm một vòng tròn được giới hạn bởi bánh xe của chúng ta. Điều này có nghĩa là diện tích cánh hoa bằng diện tích hình tròn. “Một lời giải thích kỳ lạ nào đó,” Kuzka nghi ngờ. – Đây là bằng chứng à? Có thể lý luận như vậy được không? – Bạn đã được cảnh báo: phép thuật thời trung cổ! - chim gõ kiến ​​Spyatel nói. – Đừng cố gắng nếu không được đào tạo đặc biệt! “Nếu ý tưởng chia một cánh hoa thành từng đoạn có vẻ không thuyết phục với bạn, hãy chia nó thành các dải ngang,” Busenka gợi ý. – Các tấm ván đã dịch chuyển sẽ không còn trùng khớp chính xác với hình tròn nữa, nhưng chúng ta cắt càng mịn thì sự khác biệt giữa hình tròn và hình được tạo thành từ các tấm ván sẽ càng nhỏ (Hình 6). Vậy diện tích cánh hoa vẫn bằng diện tích hình tròn. “Tuyệt,” Kuzka nói. - Tôi nghĩ là tôi hiểu. Có phải con người đã thực sự thông minh đến vậy vào thế kỷ 17?
 
@@ -38,7 +38,7 @@ trên một vòng tròn (Hình 5). Bây giờ tất cả các đoạn đều chi
 
 ⟦figure⟧
 
-Hình 6
+Cơm. 6
 
 “Không,” chim gõ kiến ​​Spyatel nói. “Vâng,” Busenka nói. – Họ đã tìm ra khu vực vòm cycloid thậm chí còn khéo léo hơn. – Tuyệt vời, tuyệt vời, đừng thư giãn! – Ogryza đột nhiên đứng dậy. – Vậy là ta đã tìm được diện tích của vòm cycloid, nó bằng $3 S^{r} 2$. Đối với vòm của chúng ta, phương trình là $3 S^{r} 2 0,7. Отсюда^{r}$ bằng, ừ, $ммм...,^{r}$ bằng 27 cm! Hãy chiến đấu! Ba ngày sau, những người bạn phải nỗ lực hết sức để đặt một tấm nệm mới lên giường.
 

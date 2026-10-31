@@ -64,7 +64,7 @@ b) a)
 
 ⟦figure⟧
 
-Hình 12
+Cơm. 12
 
 MỘT)
 
@@ -74,7 +74,7 @@ b)
 
 ⟦figure⟧
 
-Hình 13. Đường cong này có được nếu bắt đầu từ đoạn đó, quá trình “nhân đôi” được lặp lại 12 lần, luân phiên các lượt theo chiều kim đồng hồ và ngược chiều kim đồng hồ. Để thể hiện rõ hơn đường cong này diễn ra như thế nào, mỗi lần chúng ta quay không phải 90q mà là 95q (đường màu đen); nếu bạn giảm các góc xuống 90q, bạn sẽ có được một đường cong rồng, được mô tả trong hình bằng một đường màu; nó lấp đầy một tam giác vuông cân bằng một mẫu đồng nhất
+Cơm. 13. Đường cong này có được nếu bắt đầu từ đoạn đó, quá trình “nhân đôi” được lặp lại 12 lần, luân phiên các lượt theo chiều kim đồng hồ và ngược chiều kim đồng hồ. Để thể hiện rõ hơn đường cong này diễn ra như thế nào, mỗi lần chúng ta quay không phải 90q mà là 95q (đường màu đen); nếu bạn giảm các góc xuống 90q, bạn sẽ có được một đường cong rồng, được mô tả trong hình bằng một đường màu; nó lấp đầy một tam giác vuông cân bằng một mẫu đồng nhất
 
 ⟦folio 20⟧
 
@@ -84,11 +84,11 @@ KVANT 2020/№1
 
 ⟦figure⟧
 
-Hình 14. Đường cong rồng hạng 12 này có tên đặc biệt là “Cha, Mẹ và Con”. Tìm phần giữa của nó. Bạn có thể tưởng tượng rằng đường cong được chia tại điểm này thành hai phần hoàn toàn giống hệt nhau, thu được từ nhau bằng cách quay 90° không? Bạn có thể phải vẽ đường cong từ đầu đến giữa bằng bút chì màu để tin vào điều đó.
+Cơm. 14. Đường cong rồng hạng 12 này có tên đặc biệt là “Cha, Mẹ và Con”. Tìm phần giữa của nó. Bạn có thể tưởng tượng rằng đường cong được chia tại điểm này thành hai phần hoàn toàn giống hệt nhau, thu được từ nhau bằng cách quay 90° không? Bạn có thể phải vẽ đường cong từ đầu đến giữa bằng bút chì màu để tin vào điều đó.
 
 ⟦figure⟧
 
-Hình 15. Ở đây, một trong hai nửa của đường cong (được gọi là “Đầu máy hơi nước”) được vẽ màu để cho thấy hai đường cong “liên kết” với nhau như thế nào. Một nửa sau khi xoay quanh điểm giữa một góc 90° sẽ trùng với nửa còn lại
+Cơm. 15. Ở đây, một trong hai nửa của đường cong (được gọi là “Đầu máy hơi nước”) được vẽ màu để cho thấy hai đường cong “liên kết” với nhau như thế nào. Một nửa sau khi xoay quanh điểm giữa một góc 90° sẽ trùng với nửa còn lại
 
 ⟦column⟧
 

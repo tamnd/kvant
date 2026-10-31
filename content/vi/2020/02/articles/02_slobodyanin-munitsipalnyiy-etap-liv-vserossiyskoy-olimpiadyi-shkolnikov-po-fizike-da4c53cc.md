@@ -40,13 +40,13 @@ lớp 9
 
 ⟦figure⟧
 
-Hình 2
+Cơm. 2
 
 1) Xác định số chỉ của ampe kế. 2) Xác định số chỉ của vôn kế lý tưởng nếu nó được mắc vào mạch điện thay vì ampe kế. V. Slobodyanin
 
 ⟦figure⟧
 
-Hình 1
+Cơm. 1
 
 1) Đối với mỗi vật thể (khối, đòn bẩy và tải trọng), tạo một bản vẽ riêng với sự sắp xếp của tất cả các lực tác dụng lên nó. 2) Xác định thể tích của khối và đòn bẩy. K. Kutelev
 
@@ -58,7 +58,7 @@ Hình 1
 
 ⟦figure⟧
 
-Hình 3
+Cơm. 3
 
 gương không còn nhìn thấy được nữa (Hình 3). Bằng cách xây dựng, khôi phục vị trí của gương và kích thước của nó. V. Slobodyanin
 
@@ -84,13 +84,13 @@ L. Koldunov
 
 ⟦figure⟧
 
-Hình 4
+Cơm. 4
 
 là 50 V, milliammeter $A_{1}$ là 20 mA, milliammeter $A_{2}$ là 40 mA, dòng điện chạy qua điện trở R là 20 mA. Tính điện trở R. Tất cả các vôn kế đều giống nhau. V. Slobodyanin
 
 ⟦figure⟧
 
-Hình 6
+Cơm. 6
 
 2. Trải rộng Hạt chuyển động trong mặt phẳng x, y. Tốc độ của nó dọc theo trục y tăng từ 0 với gia tốc không đổi $a_{y} 0,10$ m $с^{2}$,
 
@@ -102,13 +102,13 @@ K. Kutelev
 
 ⟦figure⟧
 
-Hình 5
+Cơm. 5
 
 và dọc theo trục x thay đổi như hình 5. Tìm giá trị cực đại của mô đun gia tốc và vận tốc của hạt.
 
 M. Zamyatnin
 
-Hình 7
+Cơm. 7
 
 ⟦folio 54⟧
 
@@ -126,7 +126,7 @@ lớp 11
 
 ⟦figure⟧
 
-Hình 9
+Cơm. 9
 
 giá trị nhỏ 1,6R thì vòng được thả ra. Xác định: 1) chiều dài l của lò xo không biến dạng; 2) tốc độ tối đa v của hạt khi di chuyển ra xa tường; 3) khoảng cách từ các hạt đến tường khi chúng đạt đến đường kính. Không có ma sát trong hệ thống.
 
@@ -134,7 +134,7 @@ K. Kutelev
 
 ⟦figure⟧
 
-Hình 8
+Cơm. 8
 
 quả bóng vuông góc với tường. Các quả bóng được đặt ở khoảng cách L ≫ l tính từ mép tường. Quả bóng 1 phải chịu một tiếng “click” (xung lực ngắn), do đó nó đạt được tốc độ $v_{0}$, hướng một góc D so với ren (tg D 2). Sự va chạm của quả bóng với tường là hoàn toàn đàn hồi. Không có ma sát trong hệ thống. Sợi chỉ nhẹ và không thể mở rộng. 1) Tìm tốc độ $v_{20}$ của quả bóng 2 ngay sau khi nhấp chuột. 2) Sau thời gian nào $t_{1}$ sợi chỉ sẽ căng trở lại? 2) Sau bao lâu các quả bóng $t_{2}$ sẽ chạm tới mép phải của bức tường?
 
@@ -146,7 +146,7 @@ A.Uymin
 
 ⟦figure⟧
 
-Hình 10
+Cơm. 10
 
 tăng dần lên 2 lần. Không có ma sát trong hệ thống. Bỏ qua áp suất khí quyển trên Mặt Trăng.
 

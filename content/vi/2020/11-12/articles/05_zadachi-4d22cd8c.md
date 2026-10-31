@@ -38,7 +38,7 @@ BB 1 NB 1
 
 ⟦figure⟧
 
-Hình 9
+Cơm. 9
 
 sau đó từ $треугольника^{ONB}$
 
