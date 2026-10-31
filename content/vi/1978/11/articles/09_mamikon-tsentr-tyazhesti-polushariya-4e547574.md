@@ -1,0 +1,68 @@
+---
+id: 1978-11-mamikon-tsentr-tyazhesti-polushariya-4e547574
+issue: kvant_1978_11
+year: 1978
+number: "11"
+title: Trọng tâm của bán cầu
+authors:
+  - Мамикон М.
+rubric: raznoe
+page_first: 19
+page_last: 19
+page_labels: "17"
+tag: 9DVR
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: f0eacfe0c577152055bed6deb27a89fb65668dd4c5b6693aca519b4625522bcc
+prompt_sha256: draft-1
+translated_from: content/ru/1978/11/articles/09_mamikon-tsentr-tyazhesti-polushariya-4e547574.md
+source_content_sha256: 53166af5b7caad188e7b2aedd53bc0a099850a3b69a5252c9d3a58289ce6390f
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 17⟧
+
+Trọng tâm của bán cầu
+
+22 thế kỷ trước, Archimedes đã phát minh ra một phương pháp cơ học mà lần đầu tiên người ta có thể tìm được thể tích của một hình cầu và trọng tâm của bán cầu. Thậm chí trước đó, Democritus và Eudoxus đã chứng minh rằng thể tích của hình nón nhỏ hơn thể tích của hình trụ được mô tả ba lần, và trọng tâm của hình nón chia chiều cao của nó theo tỷ lệ 3:1, tính từ trên xuống.
+
+Chúng ta hãy chứng minh rằng thể tích của hình cầu nhỏ hơn một lần rưỡi so với thể tích của hình trụ được mô tả và trọng tâm của bán cầu chia chiều cao của nó theo tỷ lệ 3:5, tính từ tâm hình cầu.
+
+Xét một hình cầu và một hình trụ ngoại tiếp nó. Mặt phẳng ở Hình 1 đi qua trục của hình trụ, hướng theo chiều ngang. Chúng ta cũng hãy xem xét một hình nón có đỉnh ở tâm quả cầu O và đáy của nó chung với đáy của bán cầu.
+
+Vẽ mặt phẳng MN đi qua một điểm A tùy ý trên trục của bán cầu, vuông góc với trục này. Tiết diện với quả bóng cho hình tròn bán kính AP, hình nón - hình tròn bán kính AB, hình trụ - hình tròn bán kính AM=R. Định lý Pythagore phát biểu rằng AP2+AO2=OP2=AM2, và vì góc ở đỉnh của hình nón là thẳng và AO=AB, AP2+AB2=AM2.
+
+Lấy tỉ số này n lần, ta thấy tiết diện của quả cầu và hình nón có diện tích bằng tiết diện của hình trụ:
+
+$$S_{\text{ш}} + S_{\text{к}} = S_{\text{ц}}.$$ (1)
+
+Vì (1) đúng với mọi điểm A trên trục của bán cầu, theo nguyên lý Cavalieri (“Đại số và sự khởi đầu của phân tích 10”, đoạn 107, hoặc «Kvant», 1977, Số 2, trang 7, 10) nên thể tích của bán cầu V_{\text{w}} và hình nón V_{\text{k}} tổng cộng bằng thể tích của bán cầu V_{\text{c}}:
+
+$$V_{\text{ш}} + V_{\text{к}} = V_{\text{ц}}.$$ (2)
+
+Bây giờ chúng ta coi trục của hình trụ là một đòn bẩy có tiết diện ở tâm O. Chúng ta hãy di chuyển tiết diện của hình trụ sang bên phải của hình tới điểm A', đối xứng với điểm A so với tâm O. Sử dụng (2), chúng ta chứng minh rằng tiết diện của quả cầu và hình nón, treo cùng nhau tại điểm A, cân bằng tiết diện của hình trụ treo tại điểm A'.
+
+Nếu bây giờ chúng ta lấp đầy bằng các vòng tròn tất cả các phần của quả bóng và hình nón ở bên trái, và các phần của bán cầu - đối xứng về phía bên phải của điểm O, thì từ trạng thái cân bằng của mỗi ba vòng tròn như vậy, bán cầu và hình nón cùng nhau cân bằng bán cầu so với tâm O (Hình 2).
+
+Nhưng trọng tâm của bán cầu nằm ở giữa C của trục của nó, và trọng tâm K của hình nón, như đã đề cập ở trên, nằm ở khoảng cách OK=(3/4)R tính từ đỉnh. Đặt trọng tâm của bán cầu ở điểm X. Khi đó, ở phía bên phải của đòn bẩy, điều kiện cân bằng của ba vật này có dạng:
+
+$$|OX| \cdot V_{\text{ш}} + |OK| \cdot V_{\text{к}} = |OC| \cdot V_{\text{ц}}.$$ (3)
+
+Nhưng V_{\text{k}} = (1/3)V_{\text{c}}, và từ mối quan hệ giữa các tập (2), chúng ta thấy V_{\text{c}}=V_{\text{c}}-V_{\text{c}}=(2/3)V_{\text{c}}, nghĩa là thể tích của bán cầu nhỏ hơn một lần rưỡi so với thể tích của hình trụ được mô tả. Do đó, cân bằng (3) có dạng:
+
+$$(2/3)V_{\text{ц}} + OX + (1/3)V_{\text{ц}} \times (3/4)R = V_{\text{ц}} \cdot (1/2)R.$$
+
+Từ đây chúng ta có được
+
+$$|OX| = (3/8)R,$$
+
+tức là trọng tâm của bán cầu chia chiều cao của bán cầu theo tỷ lệ 3:5 tính từ tâm quả cầu.
+
+Cách tìm trọng tâm của một đoạn hình cầu hoặc một đoạn hình elip bằng phương pháp này có thể dễ dàng được truyền đạt đến người đọc.
+
+M. Mamikon
+
+Bài xã luận: Ở số 5 của tạp chí «Kvant» năm 1977, hai lời giải bài toán về thể tích của một hình cầu đã được xuất bản - “cơ khí” lời giải của Archimedes và hình học lời giải của M. Mamikon. Ghi chú này là sự tiếp nối hợp lý của bài viết này.

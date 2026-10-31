@@ -1,0 +1,33 @@
+---
+id: 1978-12-krivosheev-magicheskiy-dodekaedr-2142cb0f
+issue: kvant_1978_12
+year: 1978
+number: "12"
+title: khối mười hai mặt ma thuật
+authors:
+  - Кривошеев Е.
+rubric: smes
+page_first: 68
+page_last: 68
+tag: 9MXP
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 42a794a8728f857d0523f06418914251534ee6b6085be812ed7c956f3460a655
+prompt_sha256: draft-1
+translated_from: content/ru/1978/12/articles/01_krivosheev-magicheskiy-dodekaedr-2142cb0f.md
+source_content_sha256: 6ff16f2c0d8e6c77abc9306181c378c471e6b75a59ecfaaa79a2187f9a901c3d
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+Khối mười hai mặt ma thuật
+
+Nếu trong tập hợp số 1, 2,...,25 ta loại bỏ các số 1, 7, 13, 19, 25 thì có thể đặt hai mươi số còn lại ở hai mươi đỉnh của khối mười hai mặt sao cho tổng các số ở các đỉnh của mỗi mặt đều bằng nhau. Tuy nhiên, từ sự sắp xếp như vậy bạn sẽ thấy trên trang bìa. Điều tò mò là với sự sắp xếp này vẫn có năm đỉnh cho cùng một tổng kỳ diệu là 65.
+
+Sự phát triển và mô hình cho thấy hai mươi đỉnh của cổ chân đi qua các cổ chân như vậy, với năm đỉnh tạo thành một hình ngũ giác đều, mặt phẳng của nó song song với một mặt nhất định của khối mười hai mặt. Nhưng đó không phải là tất cả. Sự sắp xếp các con số của chúng ta cũng có những kiểu mẫu khác. Hãy cố gắng tự mình tìm thấy chúng.
+
+E. Krivoshcheev

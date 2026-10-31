@@ -1,0 +1,30 @@
+---
+id: 1978-11-figuryi-iz-trilistnogo-uzla-338a7779
+issue: kvant_1978_11
+year: 1978
+number: "11"
+title: '[Hình dạng từ nút ba lá]'
+rubric: smes
+page_first: 68
+page_last: 68
+tag: UNB8
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: a5d2cc5f6f0d32bac784ca83fccb98ac0300708b13fadcbead04c086656ca865
+prompt_sha256: draft-1
+translated_from: content/ru/1978/11/articles/01_figuryi-iz-trilistnogo-uzla-338a7779.md
+source_content_sha256: 21e74657490e34b771bd6287425b3506bea9d420ca4f4a20f4445597a0fa26b2
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+Chỉ số 70465
+Giá 30 kopecks.
+
+Bản vẽ này thể hiện các hình vẽ được làm từ mô hình nút thắt hình cây ba lá bằng bìa cứng. Phía trên bên trái là một mô hình hình cây ba lá riêng biệt, được làm bằng bìa cứng dưới dạng các ống song song được dán phức tạp. Bên cạnh (trên cùng bên phải) là sơ đồ chung của nút ba lá.
+
+Phía dưới bên trái là một hình được tạo thành từ ba nút hình cây ba lá được nhóm lại xung quanh một khối trung tâm. Gần đó là hình tương tự, có thêm hình hình ba lá thứ tư; khối lập phương không còn nhìn thấy được phía sau nó nữa. Bạn có thể đọc về các nút trong bài viết. Nút thắt trên bàn “toán học” («Kvant» Số 7, 1975).

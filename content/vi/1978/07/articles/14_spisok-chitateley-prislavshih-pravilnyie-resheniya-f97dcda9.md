@@ -1,0 +1,51 @@
+---
+id: 1978-7-spisok-chitateley-prislavshih-pravilnyie-resheniya-f97dcda9
+issue: kvant_1978_7
+year: 1978
+number: "7"
+title: Danh sách độc giả gửi đúng lời giải
+rubric: zadachnik-kvanta
+page_first: 51
+page_last: 51
+page_labels: "49"
+tag: VUTA
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 954eb82053a09a764ca60dd313334268257de98ccda3de2f2e073aaf0c68b28f
+prompt_sha256: draft-1
+translated_from: content/ru/1978/07/articles/14_spisok-chitateley-prislavshih-pravilnyie-resheniya-f97dcda9.md
+source_content_sha256: a052bb395117d552948fc3225fb54aff9ed711e5d5ed07107eb877a0647a2040
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 49⟧
+
+Cơm. 19.
+
+Cơm. 20.
+
+a) Tại các điểm A và B có giá trị cực đại;
+b) Tại các điểm A và B có giá trị nhỏ nhất; c) Tại điểm A có cực đại, tại điểm B có cực tiểu;
+d) Tại điểm A có cực tiểu, tại điểm B có cực đại; e) không có đáp số nào đúng.
+
+18. Cuộn dây được nối với nguồn điện xoay chiều có tần số khác nhau. Đồ thị nào trong Hình 18 mô tả sự phụ thuộc của dòng điện vào tần số trong một mạch điện nhất định ở giá trị điện áp hiệu dụng không đổi? Bỏ qua điện trở chủ động của cuộn dây.
+
+19. Chiết suất của nước đối với màu đỏ có bước sóng trong chân không $7 \cdot 10^{-7}$ m là 1,33. Xác định độ dài $\lambda$ của sóng này trong nước và tốc độ truyền $c$ của nó trong nước.
+
+20. Công năng của các electron ở cực âm của tế bào quang điện chân không là 2 eV. Đồ thị nào trong Hình 19 tương ứng với sự phụ thuộc của năng lượng cực đại của quang điện tử vào năng lượng của photon tới cực âm?
+
+21. Hình 20 thể hiện họ thorium phóng xạ $^{232}_{90}$Th. Xác định điện tích và số khối của sản phẩm phân rã cuối cùng của thori - ThD.
+
+a) $^{208}_{82}$ThD; b) $^{208}_{74}$ThD; c) $^{204}_{96}$ThD;
+d) $^{212}_{82}$ThD; e) $^{212}_{86}$ThD.
+
+Danh sách độc giả đã gửi đúng lời giải bài toán từ “Bài toán Kvant”
+
+Trong số này, chúng tôi công bố họ của những người gửi đúng lời giải bài toán M461 - M475 và F463 - F477 (số in đậm sau họ là chữ số cuối cùng của các số đã giải bài toán).
+
+Matematika
+
+N. Abdibekov (Arkalsk) 66; K. Abdukhalikov (Alma-Ata) 62, 65a), d), 69a), 71, 73, 74, 75a); G. Abzaanidze (Tbilisi) 67; A. Adaev (làng Cộng hòa xã hội chủ nghĩa Xô viết tự trị Pokrovka) 67, 73a), 75a); F. Azaakishchev (Trạm Zarat của Cộng hòa xã hội chủ nghĩa Xô viết tự trị) 67; V. Hayryan (Hrazdan) 66, 67, 71, 72, 73a), 74, 75a); A. Alekseev (Perm) 66-68, 71-74, 75a); D. Alekseev (Leningrad) 71; U. Alla (Võru) (Phần kết xem trang 59).

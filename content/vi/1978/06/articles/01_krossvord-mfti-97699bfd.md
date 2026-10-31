@@ -1,0 +1,34 @@
+---
+id: 1978-6-krossvord-mfti-97699bfd
+issue: kvant_1978_6
+year: 1978
+number: "6"
+title: ô chữ MIPT
+rubric: smes
+page_first: 99
+page_last: 100
+tag: 51G4
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: f00e4465ae28b24a7b495d84682290832a4eba1550df9574002f5d8f26f33f62
+prompt_sha256: draft-1
+translated_from: content/ru/1978/06/articles/01_krossvord-mfti-97699bfd.md
+source_content_sha256: 37d227a7f48b5e07d53a0b4c5cc0941e703b7c07fd397811b9662c68fe651c58
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+ô chữ MIPT
+
+Theo chiều ngang: 1. Nơi ở. 6. Chỉ số năng suất của người viết. 7. Đánh giá. 8. Căn hộ không âm mưu. 11. Phong phú sử thi. 12. Quảng trường (quân đội) 16. Người chồng hiền Pinocchio. 19. Anh hùng trong truyện dân gian Nga. 20. Trợ lý Chủ tịch Phòng Cân đo. 21. Người đọc.
+
+Theo chiều dọc: 1. Artiodactyl hai chân. 2. Lừa đảo. 3. Nhà giao dịch có phạm vi rộng. 4. Vị ngải cứu. 5. Kẻ chỉ điểm nhỏ. 9. Bạn của Sao Thổ. 10. Bắp cải thay thế. 13. Hộp đựng bằng thủy tinh. 14. Đơn vị cơ bản của quá trình giáo dục. 15. Sự đối kháng của điểm trừ. 17. Sự bóp méo hệ thống quan điểm sống. 18. 5/6 bào tử.
+
+⟦folio none⟧
+
+Cúp vũ trụ của Kepler, mà bạn thấy ở đây, minh họa mô hình lấy gel làm trung tâm của hệ thống thế giới.
+Theo Kepler, các mặt cầu chứa quỹ đạo của các hành tinh lần lượt được ghi và mô tả bởi khoảng năm khối đa diện đều - khối bát diện, khối mực, khối mười hai mặt, khối tứ diện và khối lập phương.

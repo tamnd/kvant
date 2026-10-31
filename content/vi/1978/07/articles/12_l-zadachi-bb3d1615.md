@@ -1,0 +1,60 @@
+---
+id: 1978-7-l-zadachi-bb3d1615
+issue: kvant_1978_7
+year: 1978
+number: "7"
+title: Bài toán
+authors:
+  - Л. С.
+rubric: smes
+page_first: 45
+page_last: 45
+page_labels: "43"
+tag: JMS5
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 9c7bc933b7561dbf08e1d3033dba7b4bdb624eb450daf8e2447aab5c13f9d37e
+prompt_sha256: draft-1
+translated_from: content/ru/1978/07/articles/12_l-zadachi-bb3d1615.md
+source_content_sha256: bedcaf29db7330ce1fba0e45dde0b9d343771a32f26b5f0c26106ae32c503be7
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 43⟧
+
+Cơm. 3.
+
+các cạnh gần như chạm vào nhau. Dán keo hai nửa khung bằng lưỡi dao vào giữa - bây giờ bạn đã có một chiếc mũ đẹp.
+
+5. Điều thú vị là sự uốn cong xung quanh rìa của sóng ánh sáng có thể được quan sát mà không cần có vật gì trong tay. Nhìn ra ngoài cửa sổ vào buổi tối. Bạn nhìn thấy những điểm sáng của những chiếc đèn lồng rực sáng. Nheo mắt (mí mắt tạo thành một khe hở) - ánh sáng từ đèn lồng sẽ uốn cong lên xuống, cùng với điểm sáng bạn sẽ nhận được hai cột tia thẳng đứng (Hình 3, a). Tiếp tục xào xạc, hơi quay đầu sang một bên. Chiếc kệ được hình thành qua nhiều thế kỷ sẽ thay đổi hình dạng - các tia sáng từ đèn lồng giờ đây sẽ phân kỳ theo một góc (Hình 3, b).
+
+6. Dùng bút chì chọc câu trả lời vào tờ báo, dùng tờ báo che trên cột đèn và từ khoảng cách vài mét nhìn vào chùm ánh sáng phát ra từ câu trả lời qua sợi dây nylon. Các sợi dây tạo thành các khe theo hai hướng vuông góc với nhau, do đó ánh sáng cũng bị bẻ cong theo hai hướng.
+
+7. Trong trường hợp các điểm nhỏ được sắp xếp ngẫu nhiên, có thể quan sát được các mẫu tương tự.
+
+Vào một buổi tối lạnh giá, hãy cạo băng ra khỏi cửa sổ. Cẩn thận bôi lên vùng da sạch - vùng đó sẽ được bao phủ bởi các tinh thể băng nhỏ, được đặt ngẫu nhiên. Bây giờ hãy xem qua câu trả lời này cho đèn đường. Kolyzas đầy màu sắc sẽ xuất hiện xung quanh họ. Xin lưu ý rằng các loại đèn khác nhau sẽ tạo ra các vòng màu khác nhau.
+
+Nếu bên ngoài ấm áp, thí nghiệm này có thể được thực hiện với một chiếc cốc nhỏ được làm lạnh trong tủ lạnh.
+
+Bạn có thể thử nghiệm rất nhiều thí nghiệm tương tự: với giấy than, với một bản ghi máy hát, với các âm bản trên đó có tất cả các loại cấu trúc đồng nhất và không đồng nhất.
+
+Hãy cố gắng tự mình đưa ra trải nghiệm tương tự, bạn sẽ còn thuận tiện hơn nữa.
+
+Bài tập
+
+Ở trang 29 có bài “Bài toán về ba cái bình.” Nếu bạn đọc kỹ bài viết này thì hãy thử giải bài toán sau.
+
+1. Có một bình có dung tích 12 lít chứa đầy chất lỏng và hai bình rỗng có dung tích 9 lít và 5 lít.
+
+Làm thế nào để chia chất lỏng thành hai phần bằng nhau?
+
+2. Trong lúc thực hiện vụ cướp, chủ cửa hàng đã lấy trộm một lọ chứa 24 lọ dầu dưỡng. Trong khi chạy trốn, họ gặp một người bán đồ thủy tinh trên đường, người này đã mua ba chiếc bình. Đến nơi an toàn, họ muốn chia ra nhưng hóa ra số tàu mua cộng lại lần lượt là 13, 11 và 5 chiếc.
+
+Làm thế nào họ có thể đạt được sự phân chia bằng nhau?
+
+3. Cho hai điểm $P$ và $P'$ có tọa độ tam giác $(x, y, z)$ và $(x', y', z')$ đối với tam giác ABC. Chứng minh rằng nếu tọa độ thỏa mãn phương trình $xx' = yy' = zz'$ thì
+$$P'AC = BAP, P'BA = CBP, P'CB = ACP.$$
+L.S.

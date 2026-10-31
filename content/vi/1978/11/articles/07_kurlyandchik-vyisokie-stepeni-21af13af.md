@@ -1,0 +1,67 @@
+---
+id: 1978-11-kurlyandchik-vyisokie-stepeni-21af13af
+issue: kvant_1978_11
+year: 1978
+number: "11"
+title: Bằng cấp cao
+authors:
+  - Курляндчик Л. Д.
+rubric: matematicheskiy-kruzhok
+rubric_sub: Математический кружок
+page_first: 15
+page_last: 15
+page_labels: "13"
+tag: VWL9
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 802732e01dd4e8e911890dd4c82ecf3e63a75311547b7af9ec56569143220933
+prompt_sha256: draft-1
+translated_from: content/ru/1978/11/articles/07_kurlyandchik-vyisokie-stepeni-21af13af.md
+source_content_sha256: 2f294b9158e9d295baa598b769a1508ba553b2abbd723a3786231bc564a92a2e
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 13⟧
+
+Trong bài viết này chúng ta sẽ so sánh các con số với nhau. Câu hỏi thường trực sẽ là: số nào lớn hơn? Có thể một số bạn đang nghĩ: "Có việc gì phải đương đầu! Ai cũng rõ mười lớn hơn năm, một trăm nhỏ hơn một nghìn." Chà, sau khi đọc ghi chú này, bạn có thể sẽ đồng ý rằng đáp số câu hỏi này có thể rất, rất không thể tha thứ được.
+
+Hãy bắt đầu với điều này bài toán.
+
+Bài toán 1. Số nào lớn hơn: $2^{3100}$ hay $3^{2100}$?
+
+Lời giải. Hãy để chúng tôi chứng minh rằng $2^{3100} > 3^{2100}$. Thật vậy, $2^{3100} = 4^{\frac{3}{2}}$. Vì vậy, chỉ cần chứng minh rằng $\frac{3}{2} > 2^{100}$ hoặc $(\frac{3}{2})^{100} > 2$ là đủ. Nhưng đã $(\frac{3}{2})^2 > 2$, nên $(\frac{3}{2})^{100}$ thậm chí còn lớn hơn 2. Từ lời giải của chúng tôi rõ ràng là $2^{32} > 3^{22}$. Từ thực tế này (không khó để xác minh và trực tiếp) có thể dễ dàng suy ra một lời giải bài toán khác.
+
+bài toán tiếp theo khó hơn một chút.
+
+Bài toán 2. Số nào lớn hơn: $5^{10} + 6^{10}$ hay $7^{10}$?
+
+Đầu tiên là lời giải. Hãy để chúng tôi chứng minh rằng $5^{10} + 6^{10} < 7^{10}$. Vì $5^{10} + 6^{10} < 2 \cdot 6^{10}$, đủ để chứng minh rằng $(\frac{7}{6})^{10} > 2$. Sau đó, bất đẳng thức rút ra từ bất đẳng thức Bernulin (“Đại số và sự khởi đầu của phân tích 9”, đoạn 2):
+
+$$\left(\frac{7}{6}\right)^{10} = \left(1 + \frac{1}{6}\right)^{10} > 1 + 10 \cdot \frac{1}{6} > 2.$$
+
+Thứ hai lời giải. Lưu ý rằng $5^3 + 6^3 = 341 < 343 = 7^3$.
+
+Vì vậy $\left(\frac{5}{7}\right)^3 + \left(\frac{6}{7}\right)^3 < 1$. Vì $\left(\frac{5}{7}\right)^{10} < \left(\frac{5}{7}\right)^3$ và $\left(\frac{6}{7}\right)^{10} < \left(\frac{6}{7}\right)^3$; chúng tôi nhận được $\left(\frac{5}{7}\right)^{10} + \left(\frac{6}{7}\right)^{10} < 1$. Vì vậy, $5^{10} + 6^{10} < 7^{10}$.
+
+Bài toán 3. Trong mười số $1^{10}, 2^9, 3^8, 4^7, 5^6, 6^5, 7^4, 8^3, 9^2, 10^1$ số nào lớn nhất?
+
+Lời giải. Rõ ràng là $2^9 > 1^{10}$. Hãy chứng minh rằng $3^8$ lớn hơn $2^9$. Thật vậy, $3^8 = 9^4 > 8^4 = 2^{12} > 2^9$. Bây giờ hãy so sánh $4^7$ và $3^8$: $4^7 > 3^8 \Rightarrow \left(\frac{4}{3}\right)^7 > 3$. Vẫn cần lưu ý rằng $\left(\frac{4}{3}\right)^7 = \left(1 + \frac{1}{3}\right)^7 > 1. + 7 \cdot \frac{1}{3} > 3$.
+
+Vậy, trong bốn số đầu tiên, số lớn nhất là $4^7$.
+
+Bây giờ chúng ta hãy chứng minh rằng $4^7 > 5^6 > 6^5 > 7^4 > 8^3 > 9^2 > 10^1$. Từ $4^7 > 5^6 \Leftrightarrow \left(\frac{5}{4}\right)^6 < 4$ và $\left(\frac{5}{4}\right)^6 = \left(\frac{125}{64}\right)^2 < 2^2 = 4$ nó theo sau $4^7 > 5^6$.
+
+Bất đẳng thức $5^6 > 6^5$ và $6^5 > 7^4$ được chứng minh theo cách tương tự.
+
+Sự bất bình đẳng $7^4 > 8^3 > 9^2 > 10^1$ rất dễ thấy.
+
+Vì vậy, nhiều nhất trong số đó, chúng tôi sẽ một lần nữa quay trở lại bài toán này và đưa ra lời giải ít “tính toán” hơn.
+
+Bài toán 4. Số nào lớn hơn: $1^n + 2^n + 3^n + \dots + 9^n$ hay $10^n$?
+
+Lời giải. Dễ dàng nhận thấy rằng đối với $n$ $1^n + 2^n + \dots + 9^n$ nhỏ thì lớn hơn $10^n$. Thật vậy, $1 + 2 + \dots + 9 > 10$; $1^2 + 2^2 + 3^2 + \dots + 9^2 > 10^2$; $1^3 + 2^3 + \dots + 9^3 > 9^3 + 8^3 = 729 + 512 > 1000 = 10^3$.
+
+Trước khi xem xét các giá trị khác của $n$, chúng tôi lưu ý rằng nếu đối với một số $n$ $1^n + 2^n + \dots + 9^n < 10^n$, thì đối với tất cả $m > n$ thậm chí còn hơn thế nữa $1^m + 2^m + \dots + 9^m < 10^m$. Thật vậy, khi chuyển sang giá trị lớn hơn,

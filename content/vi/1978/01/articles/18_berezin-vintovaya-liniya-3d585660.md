@@ -1,0 +1,54 @@
+---
+id: 1978-1-berezin-vintovaya-liniya-3d585660
+issue: kvant_1978_1
+year: 1978
+number: "1"
+title: đường xoắn ốc
+authors:
+  - Березин В. Н.
+rubric: raznoe
+page_first: 57
+page_last: 57
+page_labels: "55"
+tag: "0713"
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: a0d7f67c3a0f43a09738e7a8d10032fa18edf63baa60ece3d845a1638b4487f8
+prompt_sha256: draft-1
+translated_from: content/ru/1978/01/articles/18_berezin-vintovaya-liniya-3d585660.md
+source_content_sha256: 29f6205c20016ffa668f4da589b9a984badf0c231cac27dbd563ffcba3bcb98c
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 55⟧
+
+đường xoắn ốc
+
+Ngày nay thật khó để tìm được một người ít nhất có mối liên hệ nào đó với công nghệ và không biết gì về chuỗi xoắn ốc. Và không có gì ngạc nhiên. Trong các thiết bị kỹ thuật, từ thông dụng nhất đến chuyên dụng nhất, người ta không thể thiếu ốc vít, bu lông, đai ốc, ốc vít,… Mép của ren là một đường xoắn ốc. Nó được sử dụng chủ yếu vì đặc tính hình học của nó - một đường xoắn ốc có thể trượt dọc theo chính nó. Tuy nhiên, trong kiến ​​trúc, nó được sử dụng để “giảm thiểu khoảng cách”: cầu thang xoắn ốc chiếm ít không gian hơn trong tòa nhà.
+
+Một đường xoắn ốc với mức độ chính xác khác nhau thường được tìm thấy trong tự nhiên. Thân cây cao “từng bước”, “lần lượt” leo lên thân cây theo đường xoắn ốc. Cơn lốc xoáy xoắn những thân cây dọc theo nó. Hãy nghĩ đến các phân tử DNA, vỏ động vật thân mềm, linh dương gió...
+
+Chúng ta hãy đưa ra định nghĩa: đường xoắn ốc l là một đường cong không gian được mô tả bởi một điểm M, quay với tốc độ không đổi v₁ quanh trục Oz và đồng thời trượt với tốc độ không đổi v₂ dọc theo trục Oz (Hình 1). Khi điểm M di chuyển dọc theo đường xoắn ốc một vòng, dọc theo trục Oz nó di chuyển với một giá trị không đổi d (bước vít); hình chiếu M' của nó mô tả một đường tròn.
+
+Hình 1 cho thấy một cách khác để có được một đường xoắn ốc: một hình tam giác chữ nhật bằng giấy ABC được dán bằng chân AC vào bề mặt của hình trụ và quấn quanh nó; kết quả là cạnh huyền BC nằm dọc theo đường xoắn ốc l. Thật vậy, từ định nghĩa của đường xoắn ốc, ta suy ra rằng tiếp tuyến MN với nó tại bất kỳ điểm nào M ∈ l tạo thành một góc không đổi với trục Oz. Do đó, góc của tiếp tuyến MN với mặt phẳng xOy cũng giữ nguyên giá trị α đối với mọi điểm M ∈ l.
+
+Để xác định đường có khoảng cách ngắn nhất giữa hai điểm M₁ và M₂ trên bề mặt hình trụ (gọi là trắc địa), bạn cần lật bề mặt hình trụ lên một mặt phẳng, vẽ [M₁M₂] và đưa bề mặt về chế độ định vị. Đường trắc địa hóa ra là một đoạn của đường xoắn ốc.
+
+Cơm. 1.
+
+Cơm. 2.
+
+Hình chiếu của đường xoắn ốc lên mặt phẳng xOz là hình sin (bằng chứng).
+
+Sự phát triển của đường tròn là một đường cong được mô tả bằng một điểm cố định của đường thẳng lăn không trượt dọc theo một đường tròn cố định. Trong Hình 1, điểm N mô tả một đường cong như vậy—sự phát triển của một đường tròn (O, |OM'|).
+
+Cyclopod là đường mô tả điểm P của đường tròn (Q, a) lăn không trượt trên một đường thẳng cố định Ox
+
+Nói một cách đại khái, một con tàu là một mảnh của bề mặt vít.
+
+Một bề mặt xoắn ốc được hình thành bởi một đoạn thẳng vuông góc với trục quay được gọi là helicode thẳng (“helikond” dịch từ tiếng Hy Lạp là “giống xoắn ốc”). Trang đầu tiên của bìa hiển thị mô hình helicode trực tiếp. Một mô hình khác của ông là màng xà phòng được căng trên một sợi dây xoắn.
+
+V. Berezin

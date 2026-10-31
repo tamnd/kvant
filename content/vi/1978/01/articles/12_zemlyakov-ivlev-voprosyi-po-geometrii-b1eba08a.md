@@ -1,0 +1,61 @@
+---
+id: 1978-1-zemlyakov-ivlev-voprosyi-po-geometrii-b1eba08a
+issue: kvant_1978_1
+year: 1978
+number: "1"
+title: Câu hỏi hình học
+authors:
+  - Земляков А. Н.
+  - Ивлев Б. М.
+rubric: po-stranitsam-shkolnyh-uchebnikov
+rubric_sub: По страницам школьных учебников
+page_first: 38
+page_last: 38
+page_labels: "36"
+tag: 3Z35
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 39c3f40440ae5d4cd5b966ea7b0cd40b4a84f9c84c7d64b0888161e09ec2c02a
+prompt_sha256: draft-1
+translated_from: content/ru/1978/01/articles/12_zemlyakov-ivlev-voprosyi-po-geometrii-b1eba08a.md
+source_content_sha256: 46d5eee98dd7dffb4ca61b11cc06a23cb0b3c660e3235b1589a8399cf49106f9
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 36⟧
+
+Câu hỏi hình học
+
+Đối với mỗi câu hỏi liệt kê dưới đây, có 5 phương án đáp số (a, b, c, d, e), trong đó có đúng một phương án đúng. Cố gắng tìm đáp số đúng cho tất cả các câu hỏi. Hãy kiểm tra đáp số của bạn với những thông tin ở cuối con số. Để hoàn thành nhiệm vụ này, không cần có kiến ​​​​thức đặc biệt ngoài phạm vi chương trình giảng dạy ở trường.
+
+A. Các phép biến đổi hình học và vectơ
+
+1 (VIII)*). Có bao nhiêu chuyển động của mặt phẳng ánh xạ đoạn đầu tiên trong số các đoạn được chỉ ra trong hình (các cạnh của hình chữ nhật) sang đoạn thứ hai (xem hình)?
+
+a) Một, 6) hai, c) ba, d) bốn, e) vô số.
+2 (IX). Có bao nhiêu sự dịch chuyển của không gian để ánh xạ một phân đoạn nhất định lên chính nó?
+a) Một, 6) hai, c) ba, d) bốn, e) vô số.
+3 (VIII). Các tam giác $T_1$ và $T_2$ trên mặt phẳng đồng dạng có hệ số đồng dạng là 2. Tồn tại bao nhiêu tam giác
+
+*) Sau số câu hỏi, các lớp dự kiến ​​sẽ được chỉ định.
+
+hình tam giác, làm sẵn $T_1$ với tâm chuẩn bị nhất định và hình tam giác đồng dạng $T_2$?
+a) Một, 6) hai, c) ba, d) vô số, e) không có.
+4 (IX). Trong không gian, có hai vectơ khác 0 $a$ và $b$. Có bao nhiêu vectơ $x$ có ​​độ dài 1 sao cho $x \cdot a = 0$ và $x \cdot b = 0$?
+a) Không, 6) một, c) hai, d) vô số, e) đáp số phụ thuộc vào $a$ và $b$.
+B. Sự sắp xếp lẫn nhau của đường thẳng và mặt phẳng
+5 (VIII). Trong mặt phẳng có ba điểm không thẳng hàng. Trong mặt phẳng này có bao nhiêu đường thẳng cách đều các điểm đó?
+a) Một, 6) hai, c) ba, d) vô số, e) không có.
+6 (IX, X). Có bao nhiêu mặt phẳng cách đều bốn điểm đã cho không thuộc cùng một mặt phẳng?
+a) Một, 6) hai, c) ba, d) bốn, e) vô số.
+7 (VIII, X). Có bao nhiêu đường thẳng chia một tam giác đã cho thành hai phần có diện tích bằng nhau?
+a) Một, 6) hai, c) ba, d) bốn, e) vô số.
+8 (IX, X). Có bao nhiêu đường thẳng cắt nhau trong ba đường thẳng xiên theo cặp đã cho?
+a) Nhiều vô hạn, 6) không có, c) một, d) hai, e) ba.
+9 (IX, X). Hình chiếu trực giao của góc vuông $AOB$ lên một mặt phẳng nào đó là góc $A_1O_1B_1$. Góc $A_1O_1B_1$ có ​​thể có những giá trị gì?
+a) Chỉ $90^\circ$, 6) bất kỳ từ $0^\circ$ đến $180^\circ$, c) bất kỳ từ $0^\circ$ đến $90^\circ$, d) bất kỳ từ $90^\circ$ đến $180^\circ$, e) bất kỳ từ $45^\circ$ đến $135^\circ$.
+10 (X). Mặt phẳng cắt khối lập phương nhưng không đi qua bất kỳ đỉnh nào của nó. Mặt phẳng này có thể cắt bao nhiêu cạnh hình lập phương?
+a) 3 hoặc 4, 6) từ 3 đến 5, c) từ 3 đến 6, d) từ 3 đến 7, e) từ 3 đến 10.

@@ -1,0 +1,65 @@
+---
+id: 1978-9-toom-resheniya-zadach-vzmsh-b55a72ce
+issue: kvant_1978_9
+year: 1978
+number: "9"
+title: Lời giải bài toán VZMSH
+authors:
+  - Тоом А. Л.
+rubric: matematicheskiy-kruzhok
+rubric_sub: Математический кружок
+page_first: 35
+page_last: 35
+page_labels: "33"
+tag: ZMAR
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: f2b008a936b4516cb3c7c8d4f413c388916489f9fbff43d9dd2f5b160e918f09
+prompt_sha256: draft-1
+translated_from: content/ru/1978/09/articles/11_toom-resheniya-zadach-vzmsh-b55a72ce.md
+source_content_sha256: 9c35821a62ede9b728c2a31c0874d8ee7cfc3229ede90c79f1f61a4ba2289db6
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 33⟧
+
+Lời giải bài toán VZMSH
+
+Bài viết này sẽ trình bày lời giải một số bài toán từ tác phẩm giới thiệu về VZMSH năm 1978 («Kvant», 1978, số 1).
+
+3. Những giá trị nào có thể nhận nếu
+$$|a + b| \leq 1 \quad \text{и} \quad |a - 3b| \leq 2$$
+Đáp số: $-\frac{5}{4} \leq a \leq \frac{5}{4}$.
+
+Cách dễ nhất để giải quyết bài toán này là bằng đồ họa. Chúng ta hãy lấy một hệ tọa độ trên mặt phẳng và tìm một vùng gồm các điểm $(a; b)$ thỏa mãn bất đẳng thức. Dễ dàng nhận thấy đây là hình bình hành có các đỉnh $(\frac{5}{4}; -\frac{1}{4}), (\frac{1}{4}; \frac{3}{4}), (-\frac{5}{4}; \frac{1}{4})$ và $(-1/4; -3/4)$.
+
+4. Trên một mặt phẳng cho trước có một hình vuông có tâm tại điểm O. Tại điểm này có một máy chiếu chiếu sáng một góc 90° của đỉnh. Tại thời điểm ban đầu, máy chiếu chiếu sáng một góc có các cạnh đi qua hai đỉnh của hình vuông. Sau đó, máy chiếu được quay quanh điểm O. Tại thời điểm nào diện tích phần được chiếu sáng của hình vuông sẽ lớn hơn: khi máy chiếu quay 45° hay 72°?
+
+Diện tích phần được chiếu sáng luôn bằng nhau và bằng 1/4 diện tích hình vuông. Thật vậy, các cạnh của một góc 90° có đỉnh ở giữa hình vuông, cùng với các phần tiếp theo của chúng, chia hình vuông thành 4 phần tắc nghẽn, biến thành nhau khi quay 90°, 180°, 270°.
+
+5. Ivan Aleksandrovich Khlestkov bị đặt dưới sự kiểm soát và 30.000 người đưa tin đã được cử đi trong vòng ba ngày. Đã biết điều sau đây: nếu số lượng người đưa thư được gửi đi trong ngày đầu tiên nhiều gấp đôi thì tổng số người đưa thư sẽ là lũy thừa thứ tư của số lượng người đưa thư được gửi vào ngày thứ ba nhiều hơn ngày thứ hai. Mỗi ngày có bao nhiêu người đưa thư đến Khlestkov? (Hãy cho đi tất cả những gì có thể đáp số.)
+
+Hãy để họ gửi x vào ngày đầu tiên, y vào ngày thứ hai và z chuyển phát vào ngày thứ ba. Nó xuất phát từ điều kiện
+$$2x + y + z = (z - y)^4.$$
+Mặt khác, rõ ràng là
+$$30 000 \leq 2x + y + z \leq 60 000,$$
+Ở đâu
+$$30 000 \leq (z - y)^4 \leq 60 000.$$
+Bằng cách đếm chúng ta tin chắc rằng trong khoảng này chỉ có
+$$14^4 = 38 616 \quad \text{и} \quad 15^4 = 50 625.$$
+Trong mỗi trường hợp này, thật dễ dàng để trả lời:
+$$\begin{cases} x = 8 616, \\ y = 10 685, \\ z = 10 699 \end{cases} \quad \begin{cases} x = 20 625, \\ y = 4 680, \\ z = 4 695. \end{cases}$$
+
+7. Tìm tất cả các cặp số nguyên (x; y) thỏa mãn phương trình
+$$x^2 - xy - 2y^2 = 18.$$
+Phía bên trái có thể được mở rộng:
+$$(x + y)(x - 2y) = 18.$$
+Lưu ý rằng hiệu giữa các thừa số ở vế bên trái là 3. Vì vậy, 18 phải được chia thành 2 thừa số, hiệu của chúng chia hết cho 3. Điều này có thể được thực hiện theo bốn cách, mỗi cách đều có đáp số riêng:
+$$18 = 3 \cdot 6, \quad 18 = (-3) \cdot (-6),$$
+$$18 = 6 \cdot 3, \quad 18 = (-6) \cdot (-3),$$
+$$\begin{cases} x = 4 \\ y = -1 \end{cases} \quad \begin{cases} x = -4 \\ y = 1 \end{cases} \quad \begin{cases} x = 5 \\ y = 1 \end{cases} \quad \begin{cases} x = -5 \\ y = -1. \end{cases}$$
+
+8. Cho hình chữ nhật ABCD. Lấy một điểm tùy ý bên trong nó và vẽ hai đường thẳng song song với các cạnh AB và BC đi qua nó. Những đường này chia hình chữ nhật thành 4 đường nhỏ hơn. Chứng minh rằng diện tích mặc dù
