@@ -1,0 +1,42 @@
+---
+id: 1981-1-k-nashim-chitatelyam-ae2bacc8
+issue: kvant_1981_1
+year: 1981
+number: "1"
+title: Gửi độc giả của chúng tôi
+rubric: otkryvayushchie-stati
+page_first: 4
+page_last: 4
+page_labels: "2"
+tag: MCT9
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 8c42024b23c2f733a96774ca4d5a448438e50a9b5e0d13d08199fddbe05db84e
+prompt_sha256: draft-1
+translated_from: content/ru/1981/01/articles/01_k-nashim-chitatelyam-ae2bacc8.md
+source_content_sha256: 873665167dc5925f72b609b7640798f156ca7a0b240045aeada2727ce16e088d
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 2⟧
+
+Gửi độc giả của chúng tôi
+
+Bằng cách đăng ký tạp chí của chúng tôi, bạn đã đưa ra lựa chọn của mình và chúng tôi không cần khuyến khích bạn theo học vật lý hoặc toán học. Chủ đề cuộc trò chuyện của chúng tôi với bạn là khác nhau.
+
+Năm 1981 là một năm đầy ý nghĩa. Đây là năm đầu tiên của kế hoạch 5 năm mới thứ 11. Đó cũng là năm diễn ra Đại hội XXVI của Đảng Cộng sản vĩ đại của chúng ta. Đại hội sẽ vạch ra những cột mốc mới trong sự nghiệp phát triển của Tổ quốc, đặt ra những mục tiêu mới cho toàn dân bài toán trên con đường xây dựng xã hội cộng sản.
+
+Đại hội XXV của ĐCSVN đã định hướng tất cả chúng ta hướng tới cuộc đấu tranh nâng cao hiệu quả và chất lượng của các hình thức lao động. Công việc của bạn là nghiên cứu của bạn. Việc xem xét có thể được thực hiện theo nhiều cách khác nhau. Việc học trở nên vui tươi khi học sinh thành thạo các kỹ năng lao động trí óc. Sau đó, mỗi ngày anh ấy bắt gặp những khám phá - toán học, vật lý, thiên văn... Và theo nghĩa này, anh ấy trở nên giống một nhà khoa học. Các nhà khoa học đang khám phá ra điều gì đó mà không ai biết. Học sinh khám phá ra điều gì đó mà mình chưa học được, mặc dù khoa học đã biết điều đó. Bằng cách giải quyết bài toán, nắm vững các khái niệm và định luật mới, bạn đang tham gia vào công việc khoa học thực sự. Suy cho cùng, các nhà khoa học trước hết đến để tìm hiểu những gì người khác đã làm trong lĩnh vực mà họ quan tâm, và chỉ khi đó họ mới có thể tiếp tục.
+
+Chào mừng những độc giả đầu tiên của tạp chí chúng tôi, Chủ tịch Viện Hàn lâm Khoa học Liên Xô, Viện sĩ M.V. Keldysh đã viết trong đó vào tháng 1 năm 1970: “... Tôi xin chúc các nhà toán học và vật lý trẻ, tất cả độc giả «Kvant» thành công hơn nữa trong lĩnh vực kế toán, trong công việc, trong việc tiếp thu và nâng cao kiến ​​thức của họ.” Thúc đẩy việc tiếp thu và nâng cao kiến ​​thức của bạn là bài toán chính của tạp chí. Chúng tôi muốn những ai đã thành thạo vật lý hoặc toán học tìm thấy trong «Kvant» tài liệu để suy ngẫm độc lập, nhằm phát triển trí tuệ và khả năng của bạn. Chúng tôi cũng muốn giúp các học sinh khác quan tâm đến khoa học của chúng tôi.
+
+Năm nay trên các trang «Kvant» bạn sẽ làm quen với các bài nói chuyện của các nhà vật lý và toán học lớn nhất của Liên Xô về trường học của chúng ta, về vai trò của thanh niên trong sự phát triển của khoa học. Cuối năm, nhân kỷ niệm 60 năm ngày V.I. Bài phát biểu của Lênin tại Đại hội III Komsomol, nhà xuất bản Nauka đã xuất bản một tuyển tập bài viết thú vị mang tên "Lênin. Khoa học. Tuổi trẻ". Thật không may, cuốn sách này rất khó chia sẻ và rất ít bạn có thể làm quen với nó. Vì vậy, chúng tôi quyết định xuất bản một số bài viết từ cuốn sách này trên các trang tạp chí của chúng tôi. Loạt bài này mở đầu bằng bài phát biểu của Chủ tịch Viện Hàn lâm Khoa học Liên Xô, Viện sĩ A.P. Aleksadrov, tại Đại hội XVIII của Komsomol.
+
+Chúng tôi sẽ không giấu bạn rằng bản thân chúng tôi không hài lòng với mọi thứ trên tạp chí của mình. Một số bài báo chúng tôi xuất bản quá khó và khô khan, chúng tôi hiếm khi nói về những vấn đề khoa học chưa được giải quyết và trên tạp chí cũng có rất ít sự hài hước. Chúng tôi cố gắng nâng cao hiệu quả và chất lượng của tạp chí, làm cho tạp chí trở nên thú vị, sống động và dễ tiếp cận hơn (tất nhiên là không làm giảm mức độ khoa học của chúng).
+
+Trong nỗ lực hoàn thiện tạp chí «Kvant», chúng tôi thực sự cần lời khuyên của độc giả. Do đó, chúng tôi hướng tới bạn - hãy viết thư cho biên tập viên của chúng tôi về những gì bạn thích và không thích trên tạp chí của chúng tôi, những gì bạn muốn đọc trong đó, những câu hỏi nào trong lĩnh vực toán học, vật lý, thiên văn học và du hành vũ trụ khiến bạn quan tâm. Chúng tôi hoan nghênh thư của bạn.
+
+Chúc các em thành công hơn nữa trong năm học hiện tại.

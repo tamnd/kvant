@@ -1,0 +1,37 @@
+---
+id: 1981-12-kanev-zadacha-o-raskraske-razrezannyih-kubov-4b282364
+issue: kvant_1981_12
+year: 1981
+number: "12"
+title: '[Bài toán về tô màu các khối cắt]'
+authors:
+  - Канев В. Ф.
+rubric: smes
+page_first: 68
+page_last: 68
+tag: 3EIA
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: fdaeaa08308b73b444bda701c7ac2997a420c0368c2beb94dd2527b47dc55108
+prompt_sha256: draft-1
+translated_from: content/ru/1981/12/articles/01_kanev-zadacha-o-raskraske-razrezannyih-kubov-4b282364.md
+source_content_sha256: 782d19cdefd41e3929c21d8e031a75c84d82a1054d5bfcfddcabef4111dd010a
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+Giá 30 kopecks.
+Chỉ số 70465
+
+Các mặt đối diện của khối lập phương làm bằng vật liệu màu vàng, dễ cắt, được sơn màu xanh lam, xanh lá cây và đỏ. Ở hàng trên cùng, khối lập phương được hiển thị từ bốn góc. Trong hình ảnh đầu tiên của hàng thứ hai, khối lập phương được hiển thị sau khi toàn bộ mảnh đã được cắt ra khỏi nó. Các hình ảnh khác ở hàng thứ hai cho thấy khối cắt này sẽ trông như thế nào từ các góc độ khác.
+Chúng tôi mời bạn kiểm tra trí tưởng tượng không gian của mình: trên giấy ca rô, vẽ và tô màu mười hai góc còn lại của bốn hình khối cắt A, B, C, D, hiển thị ở hàng dưới cùng.
+V. Kaneev
+
+MỘT ?
+B?
+TRONG ?
+G ?

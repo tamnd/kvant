@@ -1,0 +1,86 @@
+---
+id: 1981-3-pobediteli-konkursa-kvanta-fde7ec30
+issue: kvant_1981_3
+year: 1981
+number: "3"
+title: Người chiến thắng cuộc thi «Kvant»
+rubric: zadachnik-kvanta
+page_first: 25
+page_last: 25
+page_labels: "23"
+tag: MBEA
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: d080baab7b0340246fa440de46b7d05cb13afc7e61491ebab14ead72e726136f
+prompt_sha256: draft-1
+translated_from: content/ru/1981/03/articles/09_pobediteli-konkursa-kvanta-fde7ec30.md
+source_content_sha256: b7f667f0e88268119144e6bbf3155d20ad139e7fa0c10036f88ac0fd0e797279
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 23⟧
+
+Người chiến thắng trong cuộc thi Kvaenta
+
+Hàng năm tạp chí của chúng tôi tổ chức một cuộc thi dành cho học sinh về lời giải bài toán từ Sách Vấn đề “Quenta”. Theo quyết định của ban tổ chức All-Olympiad, những học sinh chiến thắng cuộc thi này sẽ được quyền tham gia vòng thứ tư (cộng hòa) của All-Olympiad.
+
+Dưới đây là danh sách những người chiến thắng trong cuộc thi Quaenta năm 1980 đã nhận được quyền tham gia Thế vận hội của Đảng Cộng hòa năm 1981.
+
+Toán học
+
+E. ABDULLAYEV - Masally, s.sh. Số 2, 10 ô.
+A. BARG - Kyiv, Trường Vật lý số 2 KSU, lớp 10.
+Y. BELOTSERKOVSKY - Minsk, s.sh. Số 64, 10 ô.
+V. BEREZHNOY - Kyiv, Trường Vật lý số 2 KSU, lớp 10.
+A. BRUDNY - Yaroslavl, s.sh. Số 33, 10 ô.
+M. GAISINSKY - Tashkent, s.sh. Số 103, 10 ô.
+D. GRIGORIEV - Moscow, s.sh. Số 57, 10 ô.
+O. EROSHKIN - Dnepropetrovsk, s.sh. Số 15, 8 ô.
+A. ZEGE - Minsk, s.sh. Số 50, 10 ô.
+A. ZOLOTYKH - Moscow, Trường Vật lý số 18, Đại học quốc gia Moscow, lớp 10.
+Z. IBRAGIMOV - Masally, s.sh. Số 2, 10 ô.
+A. KAGARMANOV - Moscow, Trường Vật lý số 18, Đại học quốc gia Moscow, lớp 10.
+S. KIM - Bektemir, s.sh. Số 2, 10 ô.
+I. KOLPAKOV - Moscow, Trường Vật lý số 18, Đại học quốc gia Moscow, lớp 10.
+D. KOROTKIN - Leningrad, Trường Vật lý số 45, Đại học bang Leningrad, lớp 9.
+S. LAMIKHOV - Tashkent, s.sh. Số 103, 10 ô.
+L. MERKEVICHIUS - Lentvaris, s.sh. Số 2, 11 ô.
+Y. NAZARENKO - Kyiv, Trường Vật lý số 2 KSU, lớp 10.
+P. OVCHINNIKOV - Vyazniki, s.sh. Số 11, 10 ô.
+M. OKROYAN - Yerevan, Trường Vật lý và Âm nhạc tại Đại học Bang Yerevan, lớp 10.
+V. ROMANYUK - tr. Kusishe, vùng Volinskaya, lớp 10.
+B. RUBLEV - Kyiv, Trường Vật lý số 2 KSU, lớp 10.
+A. SPIVAK - Moscow, Trường Vật lý số 18, Đại học quốc gia Moscow, lớp 9.
+S. SPICHAK - Kyiv, Trường Vật lý số 2 KSU, lớp 10.
+E. STEPANYAN - Baku, s.sh. Số 5, 10 ô.
+V. TITENKO - làng Bluzha, vùng Minsk, lớp 9.
+R. UGRINOVSKY - Khmilnik, s.sh. Số 3, 9 ô.
+O. FONAREV - Sumgant, s.sh. Số 11, 10 ô.
+A. KHARITONSKY - Kyiv, s.sh. Số 145, 10 ô.
+O. CHALKH - Moscow, Trường Vật lý số 18, Đại học quốc gia Moscow, lớp 9.
+L. ELKUN - Tashkent, s.sh. Số 189, 10 ô.
+
+Vật lý
+
+V. AVETISOV - Baku, s.sh. Số 145, 10 ô.
+V. BEREZHNOY - Kyiv, Trường Vật lý số 2 KSU, lớp 10.
+V. VASILIEV - Velikiye Luki, s.sh. Số 3, 10 ô.
+B. WEITZMAN - Odessa, s.sh. Số 53, 9 ô.
+I. GUBIN - Yerevan, Trường Vật lý và Âm nhạc tại Đại học bang Yerevan, lớp 10.
+I. ELISHEVICH - Chernigov, s.sh. Số 3, 10 ô.
+M. ZEIFMAN - Vologda, s.sh. Số 9, 10 ô.
+I. KOMPANEYTSEV - Alma-Ata, RFMSH, lớp 10.
+A. LYAPIN - Moscow, Trường Vật lý số 18, Đại học quốc gia Moscow, lớp 10.
+O. MANUYLENKO - Kyiv, Trường Vật lý số 2 tại KSU, lớp 10.
+A. OSIPOV - Sosnovy Bor, s.sh. Số 5, 10 ô.
+V. PENTEGOV - Kyiv, s.sh. Số 145, 9 ô.
+A. PONOMARENKO - Kyiv, Trường Vật lý số 2 KSU, lớp 10.
+A. SANZHUR - Kyiv, s.sh. Số 145, 10 ô.
+A. SMIRNOV - Kurgan, s.sh. Số 28, 10 ô.
+Y. TALDENKO - Sumy, s.sh. Số 10, 9 ô.
+V. FEDYUKOVICH - Kyiv, Trường Vật lý số 2 KSU, lớp 10.
+A. TSEKHANSKY - làng Zaprudnya, vùng Moscow, phía bắc sh. Số 1, lớp 10.
+I. SHKRADIUK - Noginsk, s.sh. Số 83, 10 ô.

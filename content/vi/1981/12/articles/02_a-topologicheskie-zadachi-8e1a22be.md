@@ -1,0 +1,185 @@
+---
+id: 1981-12-a-topologicheskie-zadachi-8e1a22be
+issue: kvant_1981_12
+year: 1981
+number: "12"
+title: '[Cấu trúc liên kết bài toán]'
+authors:
+  - А. П.
+rubric: smes
+page_first: 2
+page_last: 3
+page_labels: "1"
+tag: 5TPJ
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 2721bc53b5de01e1c8a49addb98448e69cfd73524099977ec0646bd617e0ec4e
+prompt_sha256: draft-1
+translated_from: content/ru/1981/12/articles/02_a-topologicheskie-zadachi-8e1a22be.md
+source_content_sha256: 296556b239275ed8df1d8795e805ee579899839b91c588de11e156599da3e4e4
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+Thật khó để tin rằng chiếc bánh quy xoắn cao su màu cam bọc vòng sắt có cả hai đặc tính “tai” (hình trên cùng bên trái) lại có thể biến dạng đến mức nếu không cắt hay dán thì nó sẽ chỉ che chiếc nhẫn bằng một tai (như hình trên cùng bên phải). Nhưng điều này thực sự có thể thực hiện được nếu “bánh quy cây” được cắt, hớt bọt, phồng lên và kéo căng. Làm sao? Nếu bạn không tự báo cáo, hãy xem phần “Đáp số, gợi ý, lời giải”.
+Đương nhiên, có mong muốn bóc chiếc tai thứ hai ra khỏi chiếc nhẫn - suy cho cùng, họ có quyền bình đẳng! Tuy nhiên, bạn không thể tháo chụp tai.
+Bây giờ hãy nghĩ xem liệu có thể gỡ một chiếc bánh quy xoắn bằng một cánh tay móc vào phía sau một cánh tay khác hay không (hình bên dưới).
+
+A.P.
+
+⟦folio 1⟧
+
+Tổng biên tập
+Viện sĩ Kikonn I.K.
+
+Phó thứ nhất
+tổng biên tập
+Viện sĩ Kolmogorov A. N.
+
+Đại biểu
+tổng biên tập:
+Danilycheva M. N
+Levkovtsev V. A.
+Soloviev Yu. P.
+
+Tuyển tập biên soạn:
+Aslamazov L. G.
+Bashmak M. I.
+Belonuchkin V. E.
+Boltyansky V. G.
+Borovoy A. A.
+Brook Yu. M.
+Vavilov V.V.
+Vasiliev N. B.
+Voronin S.I.
+Gnedenko B.V.
+Gutenkhmer V.L.
+N.P.
+Dubrovsky V. N.
+Zemlyakov A. N.
+Zilberman A. R.
+Klimanov A. I.
+Kozel S. M.
+Krotov S. S.
+Kudryavtsev L. D.
+Mikhailov A. A.
+Nikshin E. M.
+Novikov S. P.
+Potapov M.K.
+Razumovsky V. G.
+Rodina N.A.
+Rozov N. Kh.
+Savin A.P.
+Smorodinsky Ya. MỘT.
+Sosinsky A. B.
+Urovev V. M.
+Nhà chế tạo V.A.
+
+Ban biên tập:
+Belyaev S. T.
+Baldin A. M.
+Bukhovtsev B.B.
+Velikhov E. P.
+Verchenko I. Ya.
+Vozdvizhensky B.V.
+Glushkov V. M.
+Dorofeev G.V.
+Ermolaeva N. A.
+Ershov A. P.
+Zubov V. G.
+Ivanov Yu. B.
+Kantorovich L.V.
+Kapitsa P. L.
+Kirillin V. A.
+Kotkin G. L.
+Logunov A. A.
+Mozhaev V.V.
+Orlov V. A.
+Kuzmin R. N.
+Patrikeva N. A.
+Peryshkin A.V.
+Sagdeev R.Z.
+Sobolev S. L.
+Stasenko A. L.
+Surin I.K.
+Surkov E. L.
+Faddeev L. D.
+Firsov V.V.
+Ykovlev G. N.
+
+Đêm giao thừa
+trên trang bìa của chúng tôi
+chúng tôi đã biên soạn
+mười bốn bản sao
+khối Rubik -
+câu đố toán học,
+bí mật của ai
+«Kvant» sẽ tiết lộ
+trong năm mới 1982.
+
+12
+1981
+
+Bị ràng buộc vào năm 1970
+
+Tạp chí VẬT LÝ VÀ TOÁN HỌC PHỔ BIẾN
+HỌC VIỆN KHOA HỌC LIÊN XÔ và VIỆN KHOA HỌC SƯ VỤ LIÊN XÔ
+
+NHÀ XUẤT BẢN KHOA HỌC
+PHÒNG BIÊN TẬP CHÍNH VĂN HỌC VẬT LÝ VÀ TOÁN HỌC
+
+TRONG PHÒNG:
+
+Các nhà khoa học giáo dục giới trẻ
+
+2 Velikhov. Bài toán vẫn vậy - học đi!
+* * *
+
+4 A. Chernin. Động lực học sao
+
+11 Yu. Demkov. Xoay các hình khối
+
+17 S. Vavilov. “Ánh sáng ấm áp” và bức xạ nhiệt
+
+Bài toán Kvant
+24 Bài toán M716 — M720; F728 — F732
+
+26 GIẢI PHÁP CHO VẤN ĐỀ M676 - M680; F688 — F691
+
+34 G. Gurewitz. Hệ thống cân
+
+36 Danh sách độc giả gửi đúng lời giải
+
+«Kvant» cho học sinh nhỏ
+37 Bài toán
+
+38 S. Tavridov. Pentominoes trên mặt phẳng và trong không gian
+
+Qua những trang sách giáo khoa
+40 V. Ryzhik. Quà tặng hình học
+
+Xưởng của người nộp đơn
+42 V. Belonuchkin. Sơ đồ trạng thái
+
+Thông tin
+46 L. Aslamazov. Olympic Vật lý quốc tế lần thứ XII
+50 A. Abramov, V. Mishin. Olympic Toán quốc tế lần thứ XXII
+54 V. Serdeev, A. Krivoruchko, M. Nemtsentser. Olympic Toán ở các trường dạy nghề
+
+Đánh giá, thư mục
+55 I. Zorich. golovrfika có thể làm gì?
+
+57 trang cờ vua
+
+58 Đáp số, gợi ý, lời giải
+61 Xuất bản 1981
+
+Tin khoa học (23)
+Pha trộn (41, 53)
+Thi đấu cờ vua (trang bìa thứ 3)
+
+© Nhà xuất bản Nauka. Tòa soạn chính văn học vật lý và toán học, «Kvant», 1981

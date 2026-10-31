@@ -1,0 +1,25 @@
+---
+id: 1981-5-o-konstruktsii-v-n-gamayunova-iz-balok-i-mnogogrannika-0b68a4ae
+issue: kvant_1981_5
+year: 1981
+number: "5"
+title: '[Về thiết kế của V. N. Gamayunov từ dầm và khối đa diện]'
+rubric: smes
+page_first: 68
+page_last: 68
+tag: PIIR
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 020a6ed0eec08108defc848f3bba05c60875ba0125acf70fd0d1d919ed6303d5
+prompt_sha256: draft-1
+translated_from: content/ru/1981/05/articles/01_o-konstruktsii-v-n-gamayunova-iz-balok-i-mnogogrannika-0b68a4ae.md
+source_content_sha256: fb1fc198651580e37b9c10e9227a0eac8718519b6816f5584298481985838db1
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+Chúng tôi không thể tìm thấy bất kỳ ý nghĩa toán học sâu sắc nào trong thiết kế được làm bằng bìa cứng mỏng này của V. Gamayunov. Nhưng điều này không ngăn cản chúng ta chiêm ngưỡng đôi khi các hình dạng hình học hoàn toàn khác nhau tương tác với nhau một cách đáng ngạc nhiên như thế nào: sáu dầm dài có tiết diện vuông xuyên qua khung của một khối đa diện hình ngôi sao phức tạp, (sự kết hợp của gót các hình khối - xem bài viết “Khối đa diện phức tạp” trong «Kvant», 1979, Số 1, trang 27), chạm vào các cạnh của nó, nhưng không bao giờ phá hủy thiết kế của chúng. Không chỉ các nhà toán học bị thu hút bởi thiết kế này - kiến ​​trúc sư Liên Xô V. A. Somov đã lấy nó làm cơ sở cho việc thiết kế một tòa nhà hành chính ở một trong những thành phố của Ý.

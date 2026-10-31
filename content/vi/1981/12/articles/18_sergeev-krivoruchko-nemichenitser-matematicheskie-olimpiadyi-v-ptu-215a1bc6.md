@@ -1,0 +1,72 @@
+---
+id: 1981-12-sergeev-krivoruchko-nemichenitser-matematicheskie-olimpiadyi-v-ptu-215a1bc6
+issue: kvant_1981_12
+year: 1981
+number: "12"
+title: Olympic Toán ở các trường dạy nghề
+authors:
+  - Сергеев В. Н.
+  - Криворучко А. И.
+  - Немиченицер М.
+rubric: raznoe
+rubric_sub: Разное
+page_first: 56
+page_last: 56
+page_labels: "54"
+tag: QD9Y
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: fc38e776f279a697a675760a6c2b5711265382cf16ed4eeff7eaa86334cec04d
+prompt_sha256: draft-1
+translated_from: content/ru/1981/12/articles/18_sergeev-krivoruchko-nemichenitser-matematicheskie-olimpiadyi-v-ptu-215a1bc6.md
+source_content_sha256: 05c12fb96130e3f558bf3e06c33e5f4945fd24bd2a682f09a35283381eea928f
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 54⟧
+
+Olympic Toán ở các trường dạy nghề
+
+Bài toán, hiện đang đối mặt với hệ thống giáo dục nghề nghiệp, có thể được định dạng như sau: trong trường dạy nghề, mọi thứ phải giống như ở trường, nhưng tốt hơn. Đó là lý do tại sao trong những năm gần đây, ngày càng có nhiều nam và nữ sinh từ các trường kỹ thuật dạy nghề theo học tại các cơ sở giáo dục phi chính phủ, biểu diễn tại Olympic và các cuộc thi viết luận.
+
+Cục Giáo dục Nghề nghiệp Khu vực Omsk đã tổ chức các cuộc thi Olympic môn học trong nhiều năm. Olympic vật lý diễn ra tốt nhất; Các cuộc thi ở các môn học khác thu hút tương đối ít học sinh và chưa đặc biệt phổ biến.
+
+Mặt khác, các học sinh của Olympic VZV, các thành viên của phòng thí nghiệm về các hình thức và phương pháp làm việc của Komsomol tại Komsomol OK đã tích lũy được kinh nghiệm vững chắc trong việc tổ chức các kỳ Olympic toán học khác nhau cho học sinh (xem «Kvant», 1979, số 12 và 1980, số 8). Họ cũng có mong muốn mở rộng phạm vi hoạt động của mình. Pozmot hóa ra rất hợp lý khi vào năm 1980, văn phòng phương pháp luận của khoa giáo dục nghề nghiệp trong khu vực và các thành viên của phòng thí nghiệm đã quyết định tiến hành một cuộc thi Olympic toán học đồng đội thực nghiệm cho các trường dạy nghề trong khu vực.
+
+Tất nhiên, đã có những nghi ngờ. Những người tham gia sẽ đối phó với nhiệm vụ? Liệu các cuộc thi đồng đội có được học sinh trường nghề quan tâm? Điều này chỉ có thể được biết từ thí nghiệm.
+
+Vào tháng 3 năm 1980, Thế vận hội đã diễn ra và cả những người tham gia và nhà tổ chức đều thích kết quả của nó. Tất nhiên, những người được công nhận đầu tiên không thể hy vọng giành được cúp Olympic thành phố trường học truyền thống, nhưng họ đã lọt vào top 20. Và quan trọng nhất là 160 người đến từ 30 trường đã tham gia Olympic; Bản thân việc chuẩn bị cho Olympic ở trường dạy nghề diễn ra rất sôi nổi và tích cực. Cần phải tiếp tục thử nghiệm và biến nó thành một truyền thống. Năm tới, học sinh dưới sự hướng dẫn của các giáo viên từ các viện sư phạm và bách khoa đã tổ chức sáu kỳ thi Olympic đồng đội các môn - về toán, hóa học, vẽ, tiếng Anh và tiếng Đức, public.edu. Khoảng 800 nam và nữ từ các trường dạy nghề đã tham gia.
+
+Điều đặc biệt ở tất cả các kỳ thi Olympic này là tính chất ứng dụng rõ ràng của các nhiệm vụ được đưa ra. Trong Thế vận hội, học sinh và giáo viên đã có những bài giảng khoa học phổ biến và nói về những vấn đề thú vị. Việc phân tích nhiệm vụ cho mỗi kỳ Olympic được thực hiện hai lần - riêng cho những người tham gia Olympic và riêng cho giáo viên của họ.
+
+Thái độ đối với Olympic cũng có thể được nhìn thấy từ thực tế sau: một số trường tham gia Olympic với 3-5 đội và sự công nhận được chia thành 10 cổ phần của okan. Các đội tuyển trường dạy nghề số 23, 15, 69 thi đấu thành công hơn tại Olympic.
+
+Đối với nhiều chàng trai, việc học tại Olympic đã trở thành con đường dẫn đến NOU Krupnik trong các cuộc tập trận Omsk. Theo quy định, trong các lớp học của mình, họ được chọn làm việc trong đó họ phải áp dụng toán học vào chuyên ngành đã chọn: vẽ biểu đồ, tính toán tải tối ưu của máy, v.v. Do đó, mối quan tâm lớn nhất tại hội nghị NOU truyền thống đã được khơi dậy bởi báo cáo của V. Shem và V. Zhdan từ Trường dạy nghề số 46. Các chàng trai đã khái quát hóa bài toán về đội được đề xuất tại Olympic, và sau đó giải quyết nó bằng nhiều cách.
+
+Chúng tôi cũng đã thử bài toán phòng thí nghiệm mới. Cũng tại trường dạy nghề số 46, một cuộc thảo luận “Toán học và người lao động hiện đại” đã được tổ chức, do các thành viên trong phòng thí nghiệm chuẩn bị. Hai nhóm sinh viên trong cùng một nhóm bày tỏ quan điểm (trái ngược nhau) của họ, sử dụng cả những cuốn sách họ đã đọc và những ví dụ từ cuộc sống của chính họ cũng như đáp số những công nhân, thợ thủ công và kỹ sư mà họ đã phỏng vấn để làm bằng chứng.
+
+Người lao động tương lai cần toán học - đây là kết luận của cuộc thảo luận. Và đây là nền tảng của một truyền thống mới ở Omsk - hệ thống các cơ sở giáo dục ngoài công lập về giáo dục chuyên nghiệp.
+
+Bây giờ chúng tôi xin giới thiệu bài toán kỳ thi Olympic toán cá nhân của các trường dạy nghề.
+
+1. Tâm của các đường tròn nội tiếp tất cả các tam giác có cạnh chung AB nằm trên đường thẳng nào?
+2. Đối với bốn người phụ nữ sinh vào những năm khác nhau của thế kỷ 20, tổng số tuổi của họ bằng nhau và tổng của cả bốn độ tuổi là một lập phương chính xác. Người lớn tuổi nhất trong số những người phụ nữ này bao nhiêu tuổi?
+3. Tổng điện trở của hai dây dẫn mắc song song là Om, những dây dẫn mắc nối tiếp là b Om. Có thể tìm thấy điện trở của từng dây dẫn từ dữ liệu này không?
+4. Hệ thống kỹ thuật có ba loại thang đo nhiệt độ: độ C, độ F và độ Reaumur (°C,°F,°R). Nhiệt độ hình thành băng được giả định là 0°C, 32°F và 0°R. Khoảng thời gian từ điểm này đến điểm sôi của nước được chia thành các phần 100 (Celsius), 180 (Fahrenheit) và 80 (Reaumur), được gọi lần lượt là độ C, độ F và độ Reaumur.
+
+Giả sử nhiệt độ tương tự được đặc trưng bởi x°C, y°F, z°R. Suy ra các công thức: y=f(x), z=φ(y), z=ψ(x).
+
+5. Trong một số thí nghiệm, chúng ta tìm thấy giá trị của hàm y(x). Biết rằng nó phải tuyến tính: y=kx, nhưng do sai số thực nghiệm nên các điểm M1(x1; y1), M2(x2; y2), ..., Mn(xn; yn) trên mặt phẳng tọa độ xOy không cùng nằm trên một đường thẳng.
+
+a) Người ta thường chọn hệ số góc k sao cho
+
+$$S(k) = \sum_{i=1}^{n} (y_i - kx_i)^2$$
+
+đánh nhỏ nhất. Suy ra công thức tìm k.
+
+6) Đề xuất các cách khác để tìm k và rút ra công thức tương ứng.
+
+(Cuối cùng xem trang 56)

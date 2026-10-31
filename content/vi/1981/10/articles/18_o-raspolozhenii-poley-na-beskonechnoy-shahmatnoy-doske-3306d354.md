@@ -1,0 +1,66 @@
+---
+id: 1981-10-o-raspolozhenii-poley-na-beskonechnoy-shahmatnoy-doske-3306d354
+issue: kvant_1981_10
+year: 1981
+number: "10"
+title: '[Về việc sắp xếp các trường trên bàn cờ vô hạn]'
+rubric: raznoe
+page_first: 59
+page_last: 59
+page_labels: "57"
+tag: K4HB
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 97286148d7866643bc95fc92ec08b9e3a22bee3d4840aa188e42c527a4b6ebcb
+prompt_sha256: draft-1
+translated_from: content/ru/1981/10/articles/18_o-raspolozhenii-poley-na-beskonechnoy-shahmatnoy-doske-3306d354.md
+source_content_sha256: 1f3c8ce12c1ff573e7916c1650c079a3c71c84bc6902546168a6334d1771c593
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 57⟧
+
+Hãy bắt đầu với kết quả. Số n được nhập vào.
+
+phần dư của chương trình (đầu ra, đầu vào);
+var n, sum: số nguyên;
+begin
+read(n);
+summa:=n mod 2+n mod 3+
++n mod 5;
+writeln('SUM=', summa)
+nhiệm vụ 15.1. Các số tự nhiên thỏa mãn hệ thức truy hồi $\phi_{n+1}=\phi_n+\phi_{n-1}$ với $\phi_0=0$ và $\phi_1=1$ được gọi là số Fibonacci: 1, 1, 2, 3, 5, 8, 13, ...
+*) Để biết thêm chi tiết, hãy xem, ví dụ, N. N. Vorobyov “Số Fibonacci” (Loạt bài “Bài giảng phổ biến về toán học”, M., “Nauka”, 1978) hoặc «Kvant», 1979, Số 5, tr. 53.
+
+Viết chương trình dựa trên giá trị của hai số lân cận $\phi_1$ và $\phi_2$, thu được ba số sau - $\phi_3$, $\phi_4$, $\phi_5$. In tất cả năm số—hai số gốc và ba số kết quả. Các số $\phi_1$ và $\phi_2$ là đầu ra.
+
+Chương trình sẽ in ra kết quả gì nếu số ban đầu là 8 và 13?
+Nhiệm vụ 15.2. Hình 8 thể hiện mặt cắt ngang của một pít-tông - một hình trụ có ba rãnh hình khuyên và một phần lõm cuối cùng trên bề mặt cuối. Kích thước piston được thể hiện trong hình. Viết chương trình tính thể tích phần này. Thể tích của hình trụ có thể được tính theo công thức $v_u=\pi R^2 h$ và thể tích của hình nón - $v_k=\frac{1}{3}\pi R^2 h$, trong đó $R$ là bán kính đáy và $h$ là chiều cao của hình trụ và hình nón. Cung cấp các giá trị $R$ và $h$.
+
+Từ điển
+chương trình - chương trình
+bắt đầu - bắt đầu
+kết thúc - kết thúc
+const - hằng số
+var - biến
+loại - loại
+boolean - logic
+số nguyên - toàn bộ
+char - chữ cái (dấu hiệu)
+thực - thực
+sai - sai
+đúng - đúng
+VÀ - và
+HOẶC - hoặc
+KHÔNG - không
+
+N. Yunerman
+
+bìa của chúng tôi
+
+Làm thế nào các ô vuông nằm trên một bàn cờ vô hạn trong đó “quân mã 2-3” có thể đi từ một ô “trung tâm” nhất định $O$ trong $n$ nước đi ($n=1, 2, 3, \dots$)? (“Quân mã 2-3” thực hiện một nước đi có chữ cái $\Gamma$ trên 2 ô theo một hướng và 3 theo hướng vuông góc.) Hãy gọi số nước đi tối thiểu mà quân mã này có thể thực hiện từ $O$ đến ô vuông $X$, khoảng cách từ $O$ đến $X$. Trên trang đầu tiên của bìa, các trường nằm ở khoảng cách $n$ tính từ tâm $O$ được tô màu khác nhau (xem hình).
+
+Bạn có thể kiểm tra hình ảnh trên trang bìa bằng cách đánh dấu tuần tự trên một tờ giấy ca rô lớn các ô trong đó “hiệp sĩ 2-3” có thể đi từ ô trung tâm trong 1 nước đi, sau đó trong 2 nước đi, 3 nước đi, v.v. Bạn sẽ tin rằng đối với “hiệp sĩ 2-3”, bức tranh trở nên phức tạp hơn nhiều so với “hiệp sĩ 1-2” thông thường (“khoảng cách” đối với một hiệp sĩ như vậy được mô tả trong bài báo của D. Cohen, xuất bản trong số này): chỉ Trong quá trình di chuyển làng, các “lỗ hổng bên trong” sẽ được lấp đầy và có thể theo dõi mô hình chung sẽ được duy trì trong các lần di chuyển tiếp theo. Hãy cố gắng trả lời những câu hỏi này. Có bao nhiêu ô ở khoảng cách $n$ từ $O$ đối với $n \geq 8$ (đối với $n \leq 7$ bạn có thể tạo bảng, sử dụng bìa và đối với $n \geq 8$ bạn có thể viết công thức tổng quát)? Khoảng cách (trong chỉ số “cond 2-3”) giữa các ô (0;0) và (x;y) (đối với $x \leq 12$ và $y \leq 12$ điều này có thể được tìm thấy từ trang bìa) là bao nhiêu?

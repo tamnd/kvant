@@ -1,0 +1,49 @@
+---
+id: 1981-9-malov-zadacha-diraka-d163bb7e
+issue: kvant_1981_9
+year: 1981
+number: "9"
+title: Bài toán Dirac
+authors:
+  - Малов Н. Н.
+rubric: smes
+rubric_sub: Смесь
+page_first: 42
+page_last: 42
+page_labels: "40"
+tag: DLCA
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 80f265cabb310afce0275eec7a713aa15e0b8e669dc162b7ebcdee50ed1d985a
+prompt_sha256: draft-1
+translated_from: content/ru/1981/09/articles/14_malov-zadacha-diraka-d163bb7e.md
+source_content_sha256: 0a70e369d8e06e7daf5daa1ba680392feb5b98293037a1a8c2416abdab3bc782
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 40⟧
+
+Vấn đề của Dirac
+
+Là sinh viên của Đại học Tổng hợp Moscow, chúng tôi hầu như luôn tham dự các cuộc họp của Hiệp hội Vật lý P. N. Lebedev, nơi các công trình mới về vật lý được thảo luận. Đây là những năm đáng nhớ về sự phát triển nhanh chóng của cơ học lượng tử; hết tác phẩm này đến tác phẩm cơ bản khác của Dirac, Heisenberg, de Broglie và những người khác xuất hiện, nhanh chóng trở thành kinh điển. Tại các cuộc họp, Igor Evgenievich Tamm, sau này là một học giả, người đoạt giải Nhà nước và giải Nobel, gần đây đã có một bài phát biểu sôi nổi ở Moscow.
+
+Được nêu tên tại các cuộc họp này, các nhà vật lý Moscow đã giới thiệu đơn vị tốc độ lời giải “1 Tump”, bằng 1/5 đơn vị bình thường. Tuy nhiên, chẳng bao lâu sau, một đơn vị thậm chí còn lớn hơn đã xuất hiện: “1 Glagolev-Arkadyev”, ngang bằng với gót chân của “Tampa”.
+
+tin tức khoa học
+
+Neutron → phản neutron?
+
+Số thứ sáu của «Kvant» nói về cách các nhà vật lý đang cố gắng phát hiện sự phân rã của một proton, tức là sự biến đổi của nó thành các hạt ánh sáng (ví dụ, thành mo-meson dương và neutrino). Và mặc dù sự phân rã như vậy (nếu nó thực sự tồn tại) là một hiện tượng cực kỳ hiếm gặp, vẫn có hy vọng thực sự phát hiện ra nó nếu ít nhất một trong số 10$^{31}$ proton phân rã trong vòng một năm.
+
+Nhưng nếu proton thực sự biến thành hạt nhẹ thì neutron gần như chắc chắn sẽ trải qua một quá trình biến đổi tương tự. Tuy nhiên, việc tích lũy hàng tấn neutron và phát hiện sự phân rã neutron là bài toán, ít nhất là ở thời điểm hiện tại, là vô vọng.
+
+Cách đây vài năm, V.A. Kuzmin, một nhân viên của Viện Nghiên cứu Hạt nhân thuộc Viện Hàn lâm Khoa học Liên Xô, nhận thấy rằng về cơ bản ông đang thực hiện một quá trình khác - sự biến đổi neutron thành phản neutron. Một proton tự nó không thể biến thành phản proton: để điều này xảy ra, dấu điện tích của nó phải thay đổi; điện tích trong tự nhiên vẫn còn. Neutron không có điện tích, cũng như phản neutron không có điện tích, nên sự biến đổi $n \rightarrow n$ thành nguyên lý có thể xảy ra. Một neutron bay có thể định kỳ biến thành phản neutron và được xử lý mà không vi phạm các định luật cơ bản của tự nhiên.
+
+Các tính toán đã chỉ ra rằng nếu chúng ta làm việc với các neutron bay với tốc độ 100 m/s (được gọi là neutron lạnh): các phân tử khí lý tưởng sẽ có tốc độ trung bình như vậy ở nhiệt độ ~ 0,8 K), thì ở khoảng cách 5 m tính từ lò phản ứng, các phản neutron có thể được phát hiện nếu sự biến đổi neutron→phản neutron xảy ra ít nhất 10$^7$ s một lần, tức là một ví dụ là 4 tháng một lần.
+
+Đây là một trong những thí nghiệm thú vị và bất ngờ nhất mà các nhà vật lý hiện đang chuẩn bị.
+
+TÔI Ở VỚI.

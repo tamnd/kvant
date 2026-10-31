@@ -1,0 +1,81 @@
+---
+id: 1981-6-savin-mezhdunarodnyie-matematicheskie-sorevnovaniya-shkolnikov-6ff9a035
+issue: kvant_1981_6
+year: 1981
+number: "6"
+title: Cuộc thi toán học quốc tế dành cho học sinh
+authors:
+  - Савин А. П.
+rubric: informatsiya
+rubric_sub: Информация
+page_first: 61
+page_last: 61
+page_labels: "59"
+tag: WCXX
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 7dab3fe4556bfadd6a58b4e30fb45d396e4d87e8647517d5d61c7deb9f891f33
+prompt_sha256: draft-1
+translated_from: content/ru/1981/06/articles/24_savin-mezhdunarodnyie-matematicheskie-sorevnovaniya-shkolnikov-6ff9a035.md
+source_content_sha256: e071775b1fb5a1f816f431e64455153cb1e46ac0283e058e64386bf6709dc07c
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 59⟧
+
+Không có học sinh hiện đại về toán học quốc tế nào được tổ chức. Tuy nhiên, hai cuộc thi quốc tế hiện đại đã được tổ chức. Tuy nhiên, chặng đi của họ là ở thành phố Marinhamina (Phần Lan), còn chặng kia là ở thành phố Mersch (Luxembourg). Các cuộc thi diễn ra gần như đồng thời: ngày 1 và 2/7 tại Phần Lan và ngày 10 và 11/7 tại Luxembourg. Quy định mô tả toán học hiện đại: người tham gia làm việc trong hai ngày, mỗi ngày 4 giờ, mỗi ngày làm 3 nhiệm vụ, đội mỗi nước gồm 8 người. Trong truyền thống hiện đại, giáo viên: ở Phần Lan - Anh, Hungary, Phần Lan, Thụy Điển; ở Luxembourg - Bỉ, Anh (đội thứ hai), Luxembourg, Hà Lan, Nam Tư. Đội Beolgia và Nam Tư lần lượt có 3 và 7 người.
+
+Kết quả hiện đại thấp. Ở Phần Lan, điểm cao nhất là 28 cửa sổ trên 40 và chỉ có 15 người tham gia đạt được hơn 10 cửa sổ (trong số 32 người tham gia). Ở Luxembourg, kết quả cao hơn (mặc dù nhiệm vụ ở đó dễ dàng hơn). Kết quả tốt nhất thuộc về cậu học sinh người Hà Lan Karelian Schouten (37 cửa sổ), 19 thí sinh (trong tổng số 34) ghi được hơn 20 cửa sổ.
+
+Dưới đây là bài toán trong số những cái hiện đại này:
+
+Phần Lan
+
+Ngày đầu tiên
+
+1. Cho tam giác ABC, đường trung trực vuông góc với các cạnh AB và AC cắt đường thẳng BC tại các điểm tương ứng X và Y.
+
+Chứng minh rằng để $|BC|=|XY|$ thì $tg\hat{B} \cdot tg\hat{C}=3$ là đủ. Chứng minh rằng điều kiện này là không cần thiết và tìm điều kiện cần và đủ cho $|BC|=|XY|$. (6 cửa sổ)
+
+2. Trình tự $a_1, a_2, ..., a_n$ xác định các kết quả trùng khớp $a_0=1/2, a_{k+1}=a_k+1/n, a_k^2$. Chứng minh rằng $1-\frac{1}{n}<a_n<1$. (7 cửa sổ)
+
+3. Khoảng cách của phương trình $x^n+1=y^{n+1}$, trong đó $n$ là số tự nhiên, lớn hơn 1. Chứng minh rằng không có lời giải tự nhiên nào của phương trình $x$ và $y$ mà $x$ và $n+1$ không có ước chung. (7 cửa sổ)
+
+Ngày thứ hai
+
+4. Một $2n$-giác lồi được nội tiếp trong một đường tròn. Được biết, $n-1$ một cặp cạnh đối diện của đa giác là song song. Với giá trị nào của $n$ thì hai cạnh còn lại cũng song song? (6 cửa sổ)
+
+5. Một đường ngang được gọi là hình tam giác đối với một đường cong được cho bởi phương trình $y=x^4+px^3+qx^2+rx+s$ nếu nó cắt nó tại bốn điểm khác nhau $A, B, C$ và $D$ (theo thứ tự đó) và một hình tam giác có thể được hình thành từ các đoạn $AB, AC$ và $AD$.
+
+Chứng minh rằng tất cả các đường nằm ngang cắt đường cong này tại bốn điểm khác nhau đều là tam giác hoặc không có đường nào là tam giác. (7 cửa sổ)
+
+6. Tìm chữ số thập phân đầu tiên trước dấu thập phân và chữ số thập phân đầu tiên sau dấu thập phân trong ký hiệu thập phân của $(\sqrt{2}+\sqrt{3})^{1980}$. (7 cửa sổ)
+
+Luxembourg
+
+Ngày đầu tiên
+
+1. Tìm hàm $f:Q \rightarrow Q$ thỏa mãn các điều kiện sau: $f(1)=2, f(xy)=f(x)+f(y)-f(x+y)+1$ cho tất cả $x, y \in Q$ (6 cửa sổ)
+
+2. Điểm $B$ được chọn trên đoạn $AC$. Trên các đoạn $AB, BC$ và $AC$, cũng như trên đường kính, hình bán nguyệt được dựng theo một hướng so với đường thẳng $AC$. Qua điểm $B$ vẽ tiếp tuyến chung của hai hình bán nguyệt đầu tiên, cắt hình bán nguyệt thứ ba tại điểm $E$, và các điểm $K$ và $P$ là các điểm tiếp tuyến của tiếp tuyến thứ hai với hai hình bán nguyệt này. Biểu thị tỷ lệ diện tích của các hình tam giác $EPK$ và $EAC$ theo bán kính của các hình bán nguyệt này. (7 cửa sổ)
+
+3. Đặt $p$ là số nguyên tố và $n$ là số nguyên dương. Chứng minh rằng hai mệnh đề sau là tương đương:
+
+a) Không có hệ số sinh học $C_n^k=\frac{n!}{k!(n-k)!}$ nào chia hết cho $p$.
+
+b) Số $n$ có thể được biểu diễn dưới dạng $n=p^s q^{-1}$, trong đó $s$ và $q$ là số nguyên, $s \geq 0, 0<q<p$. (7 cửa sổ)
+
+Ngày thứ hai
+
+4. Hai đường tròn tiếp xúc nhau tại điểm $P$ (bên ngoài hoặc bên trong). Một đường thẳng tiếp tuyến với một trong các đường tròn tại điểm $A$ cắt đường tròn kia tại các điểm $B$ và $C$. Chứng minh rằng đường thẳng $PA$ chia đôi đường thẳng $PB$ và $PC$ một góc. (6 cửa sổ)
+
+5. Mười người chơi, bắt đầu từ trên xuống, có xúc xắc, mỗi người có số tiền như nhau. Mọi người lần lượt ném năm viên xúc xắc, sau đó đưa cho mỗi người $\frac{1}{n}$ từ số tiền mình có lúc này, trong đó $n$ là tổng số điểm tung được trên cả năm viên xúc xắc. Khi người chơi thập phân ném xúc xắc, họ có 12 điểm và sau khi chia tiền, mỗi người đều có số điểm bằng với số điểm mà anh ta bắt đầu trò chơi.
+
+Xác định, nếu có thể, số điểm cho mỗi lần ném. (7 cửa sổ)
+
+6. Tìm tất cả các cặp số nguyên $(x; y)$ thỏa mãn phương trình $x^3+x^2y+xy^2+y^3=8(x^2+xy+y^2+1)$. (7 cửa sổ)
+
+A. Savin

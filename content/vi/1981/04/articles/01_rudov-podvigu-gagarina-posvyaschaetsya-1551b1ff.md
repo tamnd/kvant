@@ -1,0 +1,47 @@
+---
+id: 1981-4-rudov-podvigu-gagarina-posvyaschaetsya-1551b1ff
+issue: kvant_1981_4
+year: 1981
+number: "4"
+title: Dành riêng cho chiến công của Gagarin
+authors:
+  - Рудов В. А.
+rubric: raznoe
+page_first: 68
+page_last: 68
+tag: 5WCG
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: a266bbb76daa51a4533d3cdc23f1263612829e585e8359c58928e85fabae3b8b
+prompt_sha256: draft-1
+translated_from: content/ru/1981/04/articles/01_rudov-podvigu-gagarina-posvyaschaetsya-1551b1ff.md
+source_content_sha256: c5be577394ddc42e9e83f50a1d79c829ca443ed792abc13941595e20aa46fea1
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 32⟧
+
+DÀNH CHO FEAT CỦA GAGARIN
+
+Đúng hai mươi năm đã trôi qua kể từ khi phóng con tàu vũ trụ đầu tiên có người trên tàu. Nhà du hành vũ trụ Liên Xô Yury Gagarin đã mở đường vào không gian cho con người. Mười anh hùng khác đã đi theo con đường này, nhưng thành tích mà Gagarin lập được không hề phai nhạt theo năm tháng.
+Chuyến bay của Gagarin đã nhận được sự hưởng ứng rất lớn từ giới triết học quốc tế. Nhiều quốc gia đã phát hành tem bưu chính và các khối có chân dung của Yuri Gagarin và hình ảnh tàu vũ trụ Vostok-1 mà ông đã thực hiện chuyến bay của mình. Một số lượng lớn tem và tem dành riêng cho chủ đề này đã được bưu điện nhiều nước phát hành nhân dịp kỷ niệm 10 và 15 năm chuyến bay (năm 1971 và 1976). Họ tiếp tục ra mắt trong những năm tiếp theo. Xin vui lòng, chưa có một năm nào mà các biển hiệu bưu chính mới dành riêng cho chiến công của Gagarin lại không xuất hiện.
+Lựa chọn của chúng tôi tái tạo các khối bưu chính và tem được phát hành ở Liên Xô, Ba Lan, Tiệp Khắc, Cuba, Cộng hòa Guinea Xích đạo và Cộng hòa Dân chủ Sao Tome và Prisilip sau năm 1975 và dành riêng cho Yuri Gagarin.
+
+V. Rudov
+
+KỶ NIỆM 15 NĂM CHUYẾN BAY ĐẦU TIÊN CỦA THẾ GIỚI
+NGƯỜI TRONG KHÔNG GIAN
+YURI ALEXEVICH GAGARIN
+№ 212382
+
+20 ANUS PROGRAMA ESPACIAL SQVIETICO
+REP DE GUINER ECUATORIAL
+polska 450
+wostok 1 j gagarin
+50
+CUBA correos 1976
+POTTA Liên Xô
+10°

@@ -1,0 +1,44 @@
+---
+id: 1981-2-zadachi-dbf28f6b
+issue: kvant_1981_2
+year: 1981
+number: "2"
+title: Bài toán
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 35
+page_last: 35
+page_labels: "33"
+tag: JXZJ
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 9f88501314376fbb75c9ee249c0916db4793085aa5ecae13238cf6e50fb1bd53
+prompt_sha256: draft-1
+translated_from: content/ru/1981/02/articles/12_zadachi-dbf28f6b.md
+source_content_sha256: 01ac7907ceea58e2fec7c81962c90648a9536d02f73271c5e6e3b4a6985529ec
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 33⟧
+
+Nhiệm vụ
+
+1. Vào một ngày hè nóng nực, đại diện một số công ty đã tụ tập để đàm phán.
+Lúc đầu, khi thảo luận về các hiệp ước song phương, mỗi bàn có hai người ngồi - và các bộ trưởng đặt một chai nước khoáng trên mỗi bàn.
+Sau đó, các đại diện chia thành nhóm ba người - và các bộ trưởng mang cho mỗi nhóm một chai nước chanh.
+Cuối cùng, mỗi bàn có bốn người ngồi - và một chai nước trái cây được đặt trên mỗi bàn. Ngoài ra, mỗi đại diện còn uống một chai Pepsi-Cola.
+Sau cuộc họp, 50 chai rỗng đã được thu thập từ tất cả các bàn.
+(Được biết rằng tất cả đồ uống được phục vụ đều là say và anh ấy chưa bao giờ mang theo một chai nào.)
+Có bao nhiêu người tham dự cuộc họp?
+
+2. Có một cái nồi sáu lít và một cái bình bốn lít (xem hình). Bạn cần tìm một lít nước từ một thùng.
+
+3. Ông nội tặng Petya một tờ năm rúp nhân dịp sinh nhật cậu. Petya đến Đồ thể thao để mua một chiếc la bàn với giá 3 rúp. Tôi đến gần quầy thu ngân, người thu ngân nói: "Tôi cho cô tiền lẻ thế nào? Tôi chỉ có đồng, sợ không đủ!" Cô ấy bắt đầu thu thập 2 rúp: đầu tiên là bằng đồng xu - đồng xu sắp hết, sau đó là đồng xu ba xu - và những đồng xu này đã hết, sau đó là "mảnh kopeck". Khi hết “đồng kopeck”, 1 rúp 99 kopecks đã được tích lũy và chỉ còn lại một kopeck trong máy tính tiền. Cô ấy cầm lấy nhân viên thu ngân và nói: "Chà, bạn thật may mắn! Tích lũy được chính xác là 2 rúp!"
+Petya cầm tiền lẻ, nhận la bàn, chuẩn bị rời đi thì chợt nhìn thấy
+
+Những nhiệm vụ này đã được cung cấp cho chúng tôi
+A. Kushin, G. Kushinirenko,
+A. Chất tạo khói

@@ -1,0 +1,63 @@
+---
+id: 1981-5-moskovskaya-gorodskaya-olimpiada-po-fizike-16783461
+issue: kvant_1981_5
+year: 1981
+number: "5"
+title: Olympic Vật lý thành phố Moscow
+rubric: informatsiya
+rubric_sub: Информация
+page_first: 59
+page_last: 59
+page_labels: "57"
+tag: 5N1I
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 10b24df7e33f3553d1f7aced0577db80627a970c82a2949196dd288dfe4ba12e
+prompt_sha256: draft-1
+translated_from: content/ru/1981/05/articles/22_moskovskaya-gorodskaya-olimpiada-po-fizike-16783461.md
+source_content_sha256: 745019e6044f6ff6809b79b05aa26c863f10ffd02f5257a87f6c460d7b776cfe
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 57⟧
+
+Cơm. 4.
+
+ness. Hệ số ma sát của nước sốt trên bề mặt là μ, khối lượng nitơ trong nước sốt là m. Bên ngoài nước sốt có không khí có hàm lượng nitơ tổng số ở áp suất khí quyển $p_0$ và nhiệt độ $T_0$. Tại một thời điểm nào đó, mặt trên và một trong các cạnh của nước sốt trở nên thấm nitơ. Ở giá trị nào của $m$ và $T$ tàu bắt đầu chuyển động?
+
+7. Trong từ trường đều có chỉ thị $\vec{B}$ ($|\vec{B}|=0,1$ T), có một khung hình vuông ở cạnh $l=5$ cm (Hình 4). Điện trở khung $R=1$ Ohm. Phải tác dụng lực nào vào khung để di chuyển nó ra khỏi từ trường với tốc độ không đổi $\vec{v}$ ($|\vec{v}|=4$ cm/s)? Mặt phẳng của khung vẫn vuông góc với hướng của đường sức từ; trường có đường viền được xác định rõ ràng, hai cạnh của khung vuông góc với đường viền này.
+
+Olympic Vật lý thành phố Moscow
+
+Tháng 3 năm 1980, Olympic Vật lý truyền thống lần thứ 41 do Khoa Vật lý Đại học quốc gia Moscow tổ chức đã diễn ra. Từ năm 1978, đối với học sinh lớp 8-10, Olympic này còn là Olympic Thành phố Moscow.
+
+Vòng sơ loại đầu tiên được tổ chức tại các quận trong thành phố và ba vòng tiếp theo được tổ chức tại Khoa Vật lý của Đại học quốc gia Moscow. Trong các vòng đầu tiên, thứ hai và thứ ba, mỗi người tham gia Olympic được cung cấp năm bài toán lý thuyết. Vòng cuối cùng là thử nghiệm; Những người chiến thắng trong các vòng trước được mời tham dự.
+
+Tại hai cánh cửa rộng mở của Khoa Vật lý của Đại học Quốc gia Moscow, những người chiến thắng sẽ được trao bằng và sách về vật lý. Dựa trên sự công nhận của Olympic thành phố, một đội Moscow được thành lập để tham gia Olympic Vật lý toàn Liên minh.
+
+Chúng tôi mang đến cho bạn sự chú ý về lý thuyết thú vị nhất bài toán của Olympic Thành phố Moscow năm 1980. Sau mỗi bài toán lớp mà bài toán được cung cấp và tác giả của nó được chỉ định.
+
+1. Có một hình lập phương nằm trên một mặt phẳng nằm ngang. Một thanh được đặt lên trên nó, đầu dưới của thanh này được gắn bản lề vào bề mặt (Hình 1). Ở góc α nào giữa thanh và bề mặt thì hệ sẽ cân bằng nếu hệ số ma sát $\mu_1$ giữa thanh và khối lập phương và $\mu_2$ giữa khối lập phương và bề mặt thỏa mãn hệ thức $\mu_1\mu_2=1$? (8 lớp)
+
+V. Ilyin
+
+2. Một vật trượt không vận tốc ban đầu từ đỉnh của một mặt phẳng nghiêng với góc nghiêng α. Hệ số ma sát μ giữa vật và mặt phẳng thay đổi khi khoảng cách x tính từ đỉnh của nó tăng dần theo định luật $\mu=bx$. Vật dừng lại trước khi chạm tới chân mặt phẳng nghiêng. Tìm thời gian t trôi qua kể từ khi vật bắt đầu chuyển động cho đến khi dừng lại. (10 lớp)
+
+G. Pustovalov
+
+3. Người điều hành thang máy của một tòa nhà cao tầng, là một người đúng giờ, đã treo nitơ lên ​​tường ở áp suất khí quyển $p_0$ và nhiệt độ $T_0$. Tại một thời điểm nào đó, mặt trên và một trong các cạnh của nước sốt trở nên thấm nitơ. Tại giá trị nào của m và T thì tàu bắt đầu chuyển động?
+
+7. Trong từ trường đều có chỉ thị $\vec{B}$ ($|\vec{B}|=0,1$ T), có một khung hình vuông ở cạnh $l=5$ cm (Hình 4). Điện trở khung $R=1$ Ohm. Phải tác dụng lực nào vào khung để di chuyển nó ra khỏi từ trường với tốc độ không đổi $\vec{v}$ ($|\vec{v}|=4$ cm/s)? Mặt phẳng của khung vẫn vuông góc với hướng của đường sức từ; trường có đường viền được xác định rõ ràng, hai cạnh của khung vuông góc với đường viền này.
+
+M. Semenov
+
+4. Độ dài của ma trận toán học chậm thay đổi theo thời gian như sau: $l=l_0(1+\alpha t)$, trong đó $\alpha$ là hằng số và $\alpha t \ll 1$. Viết công thức tính sự phụ thuộc của nam châm của thời gian trộn vào vị trí cân bằng. Chất làm mềm chỉ được loại bỏ khỏi vị trí cân bằng và tại thời điểm trộn ban đầu, nền bằng 0. Biên độ dao động $s_0$ được coi là không đổi. (10 lớp)
+
+G. Myakishche
+
+Cơm. 1.
+
+Cơm. 2.

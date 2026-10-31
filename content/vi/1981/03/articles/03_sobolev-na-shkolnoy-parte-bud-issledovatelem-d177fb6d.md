@@ -1,0 +1,48 @@
+---
+id: 1981-3-sobolev-na-shkolnoy-parte-bud-issledovatelem-d177fb6d
+issue: kvant_1981_3
+year: 1981
+number: "3"
+title: Trở thành nhà nghiên cứu ở trường
+authors:
+  - Соболев С. Л.
+rubric: raznoe
+rubric_sub: Разное
+page_first: 4
+page_last: 4
+page_labels: "2"
+tag: FUR6
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 0fbde71d69349fccff7f9171cf008f5dc224777ae1bcc1973b3bab7183a8b9e5
+prompt_sha256: draft-1
+translated_from: content/ru/1981/03/articles/03_sobolev-na-shkolnoy-parte-bud-issledovatelem-d177fb6d.md
+source_content_sha256: 3ba1246ddbe84ccd1012735b2c954ba3d2402466951b1a69845998c3a984ec86
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 2⟧
+
+S. Sobolev
+
+Ở trường
+bàn làm việc
+là
+nhà nghiên cứu
+
+Gần đây, người ta chú ý nhiều đến việc chọn con đường sống, làm thế nào để tìm ra con đường đúng đắn cho mình. Nếu không thì khó có thể thực hiện được! Suy cho cùng, có nhiều điều trong cuộc sống có vẻ thú vị và hấp dẫn phải không? Chuyện xảy ra là một chàng trai trẻ yêu thích thơ ca và âm nhạc nhất, nhưng lại giải quyết những bài toán khó một cách nhiệt tình. bài toán, có thể ngồi bên chiếc mỏ hàn đến tận khuya để chế tạo chiếc máy thu radio của riêng mình.
+
+Nhưng những sinh viên tốt nghiệp trường khác không quan tâm sẽ đi đâu, họ không quan tâm đến bất cứ điều gì. Họ cho rằng môn toán thật nhàm chán. Lịch sử thậm chí còn tệ hơn, chỉ cần nhìn vào bảng niên đại và vô số tên tuổi lịch sử...
+
+Con đường đời của một nhà khoa học bắt đầu sớm. Ngay cả trong những năm đi học, một vài năm sau, niềm khao khát kiến ​​thức của anh vẫn trỗi dậy. Một chàng trai trẻ bị mê hoặc bởi những công trình toán học phức tạp, vẻ đẹp và sự hài hòa của các lý thuyết toán học. Một người khác bị cuốn hút vào thế giới của các hiện tượng hóa học hoặc vật lý, người thứ ba đam mê nghiên cứu các bức tranh khắc cổ của Ai Cập.
+
+Chính trong những năm đi học, nhà nghiên cứu tương lai đã tích lũy được kho kiến ​​\u200b\u200bthức đầu tiên, ý chí, nghị lực, sự kiên trì và cuối cùng là niềm yêu thích công việc được củng cố.
+
+Ở bàn học, trong một chuyến đi bộ đường dài, trên cánh đồng nông trại tập thể, trong chiếc áo nỉ, bạn, người bạn trẻ, phải thường xuyên lo lắng về những câu hỏi: làm thế nào, tại sao, báo cáo? Chẳng hạn, thật thú vị khi tìm ra trong toán học tương lai điều gì đã tác động lên một chiếc máy bay phản lực từ không khí mà nó cắt ngang? Tại sao máy bay tốc độ cao lại có đường cong
+
+Viện sĩ Sergei Lvovich Sobolev - Anh hùng Lao động xã hội chủ nghĩa, Viện trưởng Viện Toán học chi nhánh Siberia của Viện Hàn lâm Khoa học Liên Xô.
+
+Bài viết được in lại từ tuyển tập “Lênin. Khoa học. Tuổi trẻ”, do nhà xuất bản Nauka xuất bản năm 1980.

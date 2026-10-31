@@ -1,0 +1,55 @@
+---
+id: 1981-10-zadachi-nashih-chitateley-9ed701ba
+issue: kvant_1981_10
+year: 1981
+number: "10"
+title: Bài toán độc giả của chúng tôi
+rubric: smes
+page_first: 52
+page_last: 52
+page_labels: "50"
+tag: K41N
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 7fff6980b6adfe1e1003352a093e722ef840d9568edb390196926effd9941814
+prompt_sha256: draft-1
+translated_from: content/ru/1981/10/articles/17_zadachi-nashih-chitateley-9ed701ba.md
+source_content_sha256: d3cbdf4c72230d14ce86077d750ab53a651e83a1c738105ab2597e7e1128c99b
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 50⟧
+
+$$\varphi = \arcsin \frac{mg}{N} \sin \alpha.$$
+
+Bây giờ chúng ta hãy tìm bán kính cong của quỹ đạo của điểm. Như chúng ta đã nói, trong một hệ tọa độ cố định, tốc độ của điểm $\vec{v}$ là tổng vận tốc của chuyển động tịnh tiến và chuyển động quay của nó (xem Hình 4). Theo định lý cosin, bình phương của mô hình vận tốc bằng
+$$v^2 = v_0^2 + v_0^2 - 2v_0^2 \cos(180^\circ - \alpha) = 2v_0^2(1 + \cos \alpha).$$
+Hình chiếu của gia tốc của một điểm lên phương vuông góc với vận tốc bằng
+
+Bài toán
+cho nghiên cứu
+
+Hãy xem xét những điều sau đây bài toán: Mặt phẳng được bao phủ bởi các hình chữ nhật tắc nghẽn không có điểm chung bên trong và bất kỳ hình chữ nhật nào trong số chúng có thể được kết hợp với bất kỳ hình chữ nhật nào khác bằng cách di chuyển mặt phẳng sao cho tất cả các hình chữ nhật khác được kết hợp. Số k lân cận của mỗi hình chữ nhật là bao nhiêu (nghĩa là số hình chữ nhật có ít nhất một điểm chung với hình chữ nhật đã cho)? Có bao nhiêu loại tranh khảm khác nhau cho mỗi k?
+
+Hãy suy nghĩ về giải pháp và... cách diễn đạt của nó (câu hỏi thứ hai được xây dựng hơi mơ hồ; trước khi trả lời, bạn cần làm rõ ý nghĩa của cụm từ “các loại khác nhau”) và viết thư cho chúng tôi. đáp số thú vị nhất sẽ được xuất bản.
+
+V. Sapich,
+V. Chvanov
+
+Bài toán
+độc giả của chúng tôi
+
+1. Từ điểm A và B trên đường moline, hai xe số tự động đồng thời chuyển động và chuyển động với cùng gia tốc không đổi $\vec{a}$. Tại điểm C của con đường bắt đầu một đoạn được bao phủ bởi lớp băng (nơi không có cây). Khoảng cách từ điểm B đến điểm C là bao nhiêu nếu biết xe số tự động thứ nhất xuất phát từ điểm A đuổi kịp xe số tự động thứ hai sau khoảng thời gian t kể từ khi đi qua điểm C đầu tiên?
+
+G. Levin
+
+2. Trong trường hợp nào bạn nghĩ nước sẽ sôi nhanh hơn: nếu một chiếc cốc có nồi hơi điện được hạ xuống được đặt trên bộ tản nhiệt hoặc trên bậu cửa sổ? Có vẻ như - trong trường hợp đầu tiên, vì không khí phía trên bộ tản nhiệt ấm hơn phía trên bậu cửa sổ. Tuy nhiên, nó cung cấp chi tiết. Hiệu quả không giết chết (khoảng 10%), nhưng đáng tin cậy. Điều gì có thể gây ra nó?
+
+L. Ashkinzi
+
+3. Nhà vật lý nổi tiếng người Nga P. N. Lebedev đã chứng minh rằng ánh sáng, khi tương tác với vật chất, sẽ gây áp lực lên nó. Khối lượng nào có thể được điều khiển bởi một máy phát tia laser có công suất N?
+
+A. Hoàng gia

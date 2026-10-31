@@ -1,0 +1,56 @@
+---
+id: 1981-10-filonovich-kommentariy-k-rabote-g-kavendisha-23a56214
+issue: kvant_1981_10
+year: 1981
+number: "10"
+title: Bình luận về tác phẩm của G. Cavendish
+authors:
+  - Филонович С. Р.
+rubric: raznoe
+page_first: 28
+page_last: 28
+page_labels: "26"
+tag: JFHL
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: b43b751b8a2cd6fad11efb74a1afef71b6dbc1d1d55681b4207d2c129ba683cb
+prompt_sha256: draft-1
+translated_from: content/ru/1981/10/articles/08_filonovich-kommentariy-k-rabote-g-kavendisha-23a56214.md
+source_content_sha256: 382f2a10c606709da23d1eca28987770c79d6d5ab64f939972e79df83b49aa44
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 26⟧
+
+2+1/50, và không có giả định cơ bản nào rằng luật khác với luật bình phương nghịch đảo.
+
+Ghi chú của người dịch
+Năm 1878, theo sáng kiến ​​của Maxwell, thí nghiệm của Cavendish được lặp lại theo dạng sau tại Phòng thí nghiệm Cavendish. Kết quả của thí nghiệm là hiệu chỉnh α trong định luật tương tác $F \sim r^{-(2+\alpha)}$, trong đó $F$ là lực tương tác và $r$ là khoảng cách, không thể vượt quá 1/21600.
+
+Bình luận về tác phẩm
+G. Cavendish
+
+Phương pháp được Cavendish sử dụng để xác định sự phụ thuộc của lực tương tác giữa các điện tích vào khoảng cách dựa trên thực tế là nếu điện trường bên trong một quả cầu tích điện đều bằng 0 thì lực tương tác tỷ lệ nghịch với bình phương khoảng cách giữa các điện tích. Hãy chứng minh điều đó.
+
+Chúng ta hãy xem xét một điểm tùy ý $A$ bên trong một quả cầu tích điện đều $S$ (xem hình). Hãy tạo một hình nón tinh thần có đỉnh tại điểm $A$. Hình nón sẽ cắt ra một vùng nhỏ có diện tích $\Delta S_1$ trên bề mặt hình cầu. Một hình nón khác, đối xứng với hình nón đầu tiên qua điểm $A$, sẽ cắt một mặt phẳng $\Delta S_2$ trên bề mặt của hình cầu. Đặt khoảng cách từ $A$ đến các mặt phẳng tương ứng là $r_1$ và $r_2$. Vì các góc giữa trục của hình nón và pháp tuyến của các mặt phẳng bằng nhau nên
+
+$$\frac{\Delta S_1}{\Delta S_2} = \frac{r_1^2}{r_2^2}.$$
+
+Bây giờ chúng ta giả sử rằng lực tương tác giữa các điện tích là trung tâm và trường định hướng được tạo ra bởi điện tích $q$ tại một điểm nào đó trong không gian tỷ lệ nghịch với lũy thừa thứ $n$ của khoảng cách từ điểm đến điện tích, nghĩa là
+
+$$E = k \frac{q}{r^n},$$ trong đó $k$ = const.
+
+Vì quả cầu được tích điện đồng đều nên điện tích trung tâm trên diện tích $\Delta S$ tỉ lệ với diện tích này. Do đó, tỷ lệ của các mô hình cường độ trường được tạo tại điểm $A$ bởi điện tích, nằm ở các vị trí $\Delta S_1$ và $\Delta S_2$, là bằng nhau
+
+$$\frac{\Delta E_1}{\Delta E_2} = \frac{\Delta S_1 r_2^n}{\Delta S_2 r_1^n}.$$
+
+Các vectơ $\vec{\Delta E}_1$ và $\vec{\Delta E}_2$ có hướng ngược nhau và có thể triệt tiêu lẫn nhau hoàn toàn hoặc một phần. Để xác định điện áp tại điểm $A$ được tạo ra bởi tất cả các điện tích trên quả cầu, cần phải xem xét tất cả các hướng có thể có của hình nón. Rõ ràng là điện áp thu được chỉ có thể bằng 0 trong điều kiện $\vec{\Delta E}_1 = -\vec{\Delta E}_2$. Điều thứ hai chỉ có thể xảy ra trong trường hợp khi $n=2$, đó là điều cần được chứng minh.
+
+Cần lưu ý rằng ý tưởng về thí nghiệm do Cavendish thực hiện không phải được ông chấp nhận mà bởi một nhà khoa học người Anh khác của thế kỷ 18, Joseph Priestley, tuy nhiên, người đã không tự mình thực hiện thí nghiệm.
+
+Bất chấp nghệ thuật thực nghiệm nhanh chóng của Cavendish, các thí nghiệm của ông vẫn có một nhược điểm đáng kể: từ chúng không thể thu được tương tác từ độ lớn của điện tích hay, theo ngôn ngữ của Cavendish, “từ lượng chất lỏng điện”. Ở dạng pháp lý, định luật tương tác của các điện tích tĩnh được thiết lập vào năm 1785 bởi nhà vật lý người Pháp Charles Augustin Coulomb, người đã sử dụng thang đo tròn và một phương pháp tương tự như phương pháp được Cavendish sử dụng để xác định mật độ trung bình của Trái đất. Do đó, định luật cơ bản của điện được gọi đúng là định luật Coulomb.
+
+S. Filonovich
