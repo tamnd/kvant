@@ -1,0 +1,33 @@
+---
+id: 2022-11-12-pamyati-zh-m-rabbota-8e9fbe90
+issue: kvant_2022_11-12
+year: 2022
+number: 11-12
+title: Để tưởng nhớ J.M.Rabbot
+rubric: raznoe
+page_first: 43
+page_last: 43
+tag: 6VLC
+lang: vi
+source: kvant_digital
+extraction: native
+content_sha256: 6a240bd5ac9813b4cf5f36d97a952d7b1cb2f0a6f3b5498d668253ce5fc5a44e
+prompt_sha256: draft-1
+translated_from: content/ru/2022/11-12/articles/06_pamyati-zh-m-rabbota-8e9fbe90.md
+source_content_sha256: 35b55afde5f8a0015f3473879e9d0cba437712c384f3c809fa8dc0bd2785ee4c
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+TRONG KÍ ức J.M.RA BB OTA
+
+Thỏ Joseph Mikhailovich (07/03/1943 $–^{22.11.2022)}$
+
+Ngày 22 tháng 11 năm 2022, Joseph Mikhailovich Rabbot, một trong những chuyên gia sáng giá nhất trong lĩnh vực giáo dục toán học ở nước ta, đã qua đời. Các hoạt động của Joseph Mikhailovich cực kỳ linh hoạt: ông dạy ở trường phổ thông và đại học, lãnh đạo các nhóm toán học tại Đại học quốc gia Moscow, giảng bài trên khắp đất nước cho học sinh và giáo viên, viết sách, nhiều bài báo và sách giáo khoa về toán học, tích cực làm việc trên tạp chí «Kvant» kể từ thời điểm thành lập, tổ chức nhiều Olympic toán học khác nhau và làm ban giám khảo Olympic Toán học toàn Liên minh trong mười hai năm. Năm 1966, người tổ chức và giám đốc Trường Toán học Tương ứng Toàn Liên minh (VZMSh, sau này là Trường Đa môn Tương ứng Toàn Nga), một trong những nhà toán học vĩ đại nhất thế kỷ 20, I.M. Gelfand, đã mời một sinh viên tốt nghiệp tài năng Khoa Cơ học và Toán học của Đại học Tổng hợp Moscow, một nhà lãnh đạo giàu kinh nghiệm của sinh viên đại học.
+
+⟦column⟧
+
+Cốc của Zhenya Rabbot để dạy ở trường của anh ấy. Trong nửa thế kỷ, Joseph Mikhailovich làm phó giám đốc của VZMSH và đứng đầu bộ phận toán học của nó trong nhiều năm. VZMSH là một tổ chức độc đáo; những giáo viên tuyệt vời của nó đã làm việc qua thư từ qua thư với những đứa trẻ đam mê toán học và vật lý từ những nơi xa xôi nhất của đất nước chúng ta. Công việc này được dẫn dắt bởi J.M. Rabbot. Sự tiếp xúc cá nhân với các nhà toán học đô thị, sự quan tâm và hỗ trợ của họ có tầm quan trọng to lớn đối với một sinh viên đến từ vùng hẻo lánh xa xôi và ảnh hưởng đến việc lựa chọn nghề nghiệp trong tương lai. Hàng nghìn, hàng nghìn chuyên gia trong các lĩnh vực khoa học khác nhau và các ứng dụng của nó rất biết ơn Joseph Mikhailovich Rabbot vì thực tế là nhiều năm trước họ đã nhận được từ ông qua thư, những bài tập và sách hướng dẫn đầu tiên, sau đó là những đánh giá về công việc của họ, những lời hỗ trợ và lời mời đến Moscow. Kỷ niệm vui vẻ!

@@ -1,0 +1,40 @@
+---
+id: 2022-4-bashmakov-diofantovyi-uravneniya-i-ratsionalnyie-tochki-a18dd365
+issue: kvant_2022_4
+year: 2022
+number: "4"
+title: Phương trình Diophantine và điểm hữu tỷ
+authors:
+  - Башмаков М. И.
+rubric: osnovnye-stati
+page_first: 15
+page_last: 15
+page_labels: "13"
+tag: 1XGQ
+lang: vi
+source: kvant_digital
+extraction: native
+content_sha256: 5d398ae87af7b4a82f91b5ab75f6b6726c47d0788d182022a9dad1d0ccb00bf9
+prompt_sha256: draft-1
+translated_from: content/ru/2022/04/articles/02_bashmakov-diofantovyi-uravneniya-i-ratsionalnyie-tochki-a18dd365.md
+source_content_sha256: fcff65eb8527d751ca8117f2c56bc716724542b68d10f51ad387674e43a6f20d
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 13⟧
+
+PHƯƠNG TIỆN DIAPHANTINE VÀ CÁC ĐIỂM HỢP LÝ
+
+Phương trình Diophantine và điểm hữu tỷ
+
+M.BASHMAKOV
+
+LĨNH VỰC LÝ THUYẾT SỐ TRONG NÀO Số nguyên được nghiên cứu lời giải các phương trình có dạng P x, y,... 0, trong đó P x, y,... là đa thức nhiều biến có hệ số nguyên, được gọi là phân tích Diophantine, và bản thân các phương trình này được gọi là Diophantine. Chúng được đặt theo tên của nhà toán học nổi tiếng người Hy Lạp Diophantus, người sống ở thế kỷ thứ 3 và đã viết chuyên luận đầu tiên về các phương trình như vậy. Mặc dù thực tế là các phương trình Diophantine là một trong những lĩnh vực toán học lâu đời nhất, nhưng các phương pháp chung của chúng lời giải bắt đầu được tạo ra khá gần đây. Các tác phẩm cổ điển chủ yếu xem xét các phương trình Diophantine tuyến tính và bậc hai. Lời giải Sự phát triển của các phương trình phức tạp hơn đã đạt được tiến bộ đáng kể trong 20-25 năm qua nhờ sự tham gia rộng rãi của các ý tưởng từ các lĩnh vực toán học khác, chủ yếu từ hình học và cấu trúc liên kết, vào lý thuyết số. Theo lời của N. Bourbaki, “...hình học cổ điển...đã trở thành ngôn ngữ phổ quát của toàn bộ toán học, sở hữu tính linh hoạt và tiện lợi đặc biệt.” Hình học không chỉ cung cấp ngôn ngữ mà còn cung cấp cả cấu trúc và trực giác của nó. Hãy nhìn xem ngôn ngữ hình học rõ ràng biết bao. Lấy ví dụ, phương trình Fermat $х^{n} у^{n} z^{n}$, chia cả hai phần cho $z^{п}$ và ký hiệu x z là u, y z là v. Ta được phương trình $u^{п} v^{п} 1$. Gửi tới mọi người lời giải X; y; z của phương trình Fermat theo số nguyên tương ứng (tại z z 0 ) lời giải phương trình $u^{п} v^{п} 1$ ở số hữu tỉ.
+
+Đăng trên tạp chí «Kvant» số 8 năm 1978.
+
+⟦column⟧
+
+Nếu bây giờ chúng ta xét đồ thị của phương trình này trên mặt phẳng u; v , khi đó chúng ta thu được một đường cong và các nghiệm nguyên của phương trình Fermat tương ứng với các điểm của đường cong này có tọa độ hữu tỷ. Điều ngược lại cũng hiển nhiên: mỗi điểm của đường cong được chỉ định với tọa độ hữu tỉ sẽ cho (sau khi thoát khỏi mẫu số) một số nguyên lời giải Phương trình Fermat. Như vậy, câu hỏi lời giải của phương trình Fermat, dịch sang ngôn ngữ hình học, chuyển thành câu hỏi tìm các điểm có tọa độ hữu tỉ (chúng ta sẽ gọi chúng là hữu tỉ) trên đường cong $u^{п} v^{п} 1$. (Lưu ý rằng khi chia phương trình Fermat cho $z^{п}$ chúng ta "mất" nghiệm của nó ở z 0, nhưng chúng rất dễ nghiên cứu riêng biệt.) Trong bài viết này, chúng tôi sẽ giới thiệu cho bạn hai kỹ thuật hình học để tìm điểm hữu tỉ trên đường cong. Để đơn giản, hãy bắt đầu với phương trình $х^{2} у^{2} z^{2}$, lời giải mà trong số tự nhiên được gọi là bộ ba Pythagore. Đường cong tương ứng với phương trình $х^{2} у^{2} z^{2}$ là đường tròn $u^{2} v^{2} 1$. Bộ ba Pythagore (3; 4; 5), (5; 12; 13) tương ứng với các điểm hữu tỉ 3 5; 4 5, 5 13; 12 13 của vòng tròn này (Hình 1). Một số đường cong phẳng được xác định một cách thuận tiện ở dạng tham số; chỉ ra hai hàm f và g sao cho, với tất cả các giá trị có thể có của tham số t, điểm Hình 1

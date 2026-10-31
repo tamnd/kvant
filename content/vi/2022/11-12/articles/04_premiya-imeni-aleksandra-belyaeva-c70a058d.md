@@ -1,0 +1,37 @@
+---
+id: 2022-11-12-premiya-imeni-aleksandra-belyaeva-c70a058d
+issue: kvant_2022_11-12
+year: 2022
+number: 11-12
+title: Giải thưởng Alexander Belyaev
+rubric: informatsiya
+rubric_sub: Информация
+page_first: 36
+page_last: 36
+page_labels: "34"
+tag: FX3A
+lang: vi
+source: kvant_digital
+extraction: native
+content_sha256: dd1b5aa334cdf6bd2d29e0e0a7c52604f44c22b985689178e4ca845ee895f2cb
+prompt_sha256: draft-1
+translated_from: content/ru/2022/11-12/articles/04_premiya-imeni-aleksandra-belyaeva-c70a058d.md
+source_content_sha256: 3ad35b399c8cae2d9a6d582a3923924fa3fb97722c264bd15f29da3822cd634d
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 34⟧
+
+KVANT 2022/№11-12
+
+Giải thưởng Alexander Belyaev
+
+Giải văn học Alexander Belyaev (“Giải thưởng Belyaev”) là giải thưởng văn học hàng năm của Nga được trao cho các tác phẩm khoa học, nghệ thuật và khoa học đại chúng. Được đặt tên để vinh danh nhà văn khoa học viễn tưởng Liên Xô Alexander Romanovich Belyaev (1884–1942, tác giả các tiểu thuyết “Người đứng đầu giáo sư Dowell”, “Người lưỡng cư” và các tác phẩm khác).
+
+Giải Belyaev được trao lần đầu tiên vào năm 1990, trong số những người đoạt giải năm đó có Arkady và Boris Strugatsky cho cuốn tiểu thuyết khoa học viễn tưởng “Thành phố diệt vong”. Vào năm 2022, Giải thưởng Alexander Belyaev ở hạng mục “tạp chí dành cho hoạt động thú vị nhất trong năm” đã được trao cho bạn bè và đồng nghiệp của chúng tôi - tạp chí «Kvant». «Kvant» – tạp chí dành cho những người tò mò. Độc giả chính là học sinh nhưng người lớn cũng có thể tìm thấy điều gì đó thú vị cho mình trong đó. Tạp chí không chỉ
+
+⟦column⟧
+
+nói về toán học và vật lý, nhưng cũng xuất bản các bài báo giàu thông tin nhưng dễ tiếp cận và hấp dẫn về ngôn ngữ học, sinh học và lịch sử khoa học. «Kvant» đã duy trì truyền thống tổ chức các cuộc thi hàng tháng bài toán, đáp số mà độc giả gửi cho biên tập viên và biên tập viên trao đổi thư từ với học sinh. Những em nhỏ có tên xuất hiện trên tạp chí yêu thích dịp cuối năm, khi danh sách người chiến thắng cuộc thi được công bố sẽ nhận được động lực mạnh mẽ cho việc học tập. Nhân viên thư viện trường học ở các vùng khác nhau của Nga lưu ý rằng «Kvant» đã trở thành một trong những mục phổ biến nhất đối với cả học sinh và giáo viên. Thiết kế của tạp chí được thực hiện bởi một nhóm nghệ sĩ đông đảo. Nó luôn dí dỏm và đa dạng, tạp chí là một niềm vui để chọn. Trang cuối cùng của bìa tạp chí được minh họa đầy màu sắc và mang tính giải trí bài toán. Đối với mỗi Năm mới, lịch được hình thành từ chúng và từ các bức ảnh bài toán khác của năm vừa qua, những lịch này đã được xuất bản không chỉ ở Nga. Tài liệu từ tất cả các số trong tất cả các năm cũng có thể được tìm thấy trong Niên lịch «Kvant». Tạp chí cũng xuất bản Thư viện riêng của mình, ba cuốn sách đã được xuất bản trong đó. Tạp chí «Kvant», số đầu tiên được xuất bản vào tháng 1 năm 2012, đã trở thành một trong những hiện tượng sáng giá nhất của nền giáo dục Nga trong thế kỷ 21. Chúng tôi chúc mừng người sáng lập và tổng biên tập thường trực của «Kvant» Sergei Dorichenko và nhóm của ông về giải thưởng xứng đáng, đồng thời chúc tạp chí thành công hơn nữa và mở rộng lượng độc giả của tạp chí!
