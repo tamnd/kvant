@@ -1,0 +1,61 @@
+---
+id: 1973-12-berezin-chto-vidit-vnimatelnyiy-glaz-7b4c0650
+issue: kvant_1973_12
+year: 1973
+number: "12"
+title: What does an attentive eye see?
+authors:
+  - Березин В. Н.
+rubric: osnovnye-stati
+page_first: 26
+page_last: 27
+page_labels: 24-25
+tag: C7I6
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: c017196c907261cd59bb4e53726d2f36d9a631c5c19677af0a812bbce51baf3b
+prompt_sha256: draft-1
+translated_from: content/ru/1973/12/articles/08_berezin-chto-vidit-vnimatelnyiy-glaz-7b4c0650.md
+source_content_sha256: 86c71193f03911c08ac83b7a550c541fa97963b7d1a9c057c3c04c6c0faae564
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 24⟧
+
+WHAT SEEES
+THE ATTENTIVE EYE
+
+A regular 24-gon is drawn on the cover. By carefully examining it, you can find several regular polygons resulting from the intersection of diagonals, segments of diagonals and sides.
+
+Types, for example, equilateral triangles and squares, and their centers may be different from the center of a given 24-gon. Did you notice them, eyes on figure? If not, no problem. Some of the squares are highlighted on figure 1, some regular triangles are highlighted on figure 2.
+
+However, you still need to make sure that these polygons are really regular; The drawing itself, no matter how carefully it was executed, does not provide such guarantees.
+
+To prove it, let’s imagine mentally that a 24-gon is inscribed in a circle, and consider the angles formed by its moves, and also note which segments in the drawing are equal and why (conduct the proof yourself). Figure 1 and 2, respectively illustrating the characteristics of the case of the formation of squares and regular triangles, help to compare with a more complex task: finding out how many regular triangles and squares are drawn on the cover.
+
+Let's look again at the cover. It is clearly visible how, intersecting, the diagonals of a 24-gon, close to its center, form a figure that the eye decisively refuses to circle (in reality, this is, of course, a regular 24-gon). At some distance from the center of this 24-gon we see the concentric second and third and not only clearly expressed four and fifth “circles”. Other “circles” with a similar diameter are not visible, not noticeable. How many are there? figure 3 can tell you the answer to this question.
+
+figure 4 shows a regular stellated 24-gon. You can check directly, by looking along each of the links of the broken line, whether it is really a polygon, that is, whether the drawn broken line is closed, whether the figure breaks up into several closed broken lines.
+
+However, the question remains unclear: are other regular stellated 24-gons possible? If you look only at figure, it is difficult to verify this. Using visual observers, check that if the vertices of a 24-gon are connected through one, then the broken line will close into a 12-gon, if through two, then into an octagon... Why did this happen? Is this due to the fact that dividing the side of a given 24-gon by two leads to the number 12, and by 3 gives 8? Teller, you can probably establish the number of regular stellated 24-gons, and without resorting to figure (how?
+
+The following problem has a beautiful solution: “At how many points do the diagonals of a $n$-gon ($n \geq 4$) intersect? If it is known that no three of its diagonals intersect at one point, we obtain that there are exactly as many diagonal intersection points as there are ways in which 4 can be chosen from $n$, that is, $C_n^4$.
+
+In the case of a 24-gon in which no three diagonals intersect at a single point, the intersection points of the diagonals would be $C_{24}^4$. But since a given 24-gon -
+
+⟦folio 25⟧
+
+is correct, then there are fewer such points $C_{24}^4$ gives an upper bound. On figure (see cover) you can see that at some points three or more diagonals intersect. But maybe our vision is deceiving us and in reality the drawing shows not one point of intersection of three straight lines, but two very close, and then indistinguishable to the eye, points of intersection of pairs of diagonals?
+
+In some cases, simple reasoning confirms the correctness of what was seen. For example, it is almost obvious that the points of intersection of diagonals belonging to the diagonals of a regular 24-gon, which are its axes of symmetry, are more than double. Establish the presence (or absence) of more than double intersection points of the diagonals in Figures 5, 6.
+
+It can be shown that in the upper 6 regular triangles seen on figure more than two diagonals of a given regular 24-gon intersect. Try this.
+
+Try to clarify the estimate of the number of intersections of the diagonals of a regular 24-gon.
+
+Try to get a regular 24-gon, using only folding a sheet of paper.
+
+V. N. Berezin

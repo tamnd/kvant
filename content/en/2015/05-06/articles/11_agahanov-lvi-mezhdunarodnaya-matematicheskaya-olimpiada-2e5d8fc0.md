@@ -1,0 +1,61 @@
+---
+id: 2015-5-6-agahanov-lvi-mezhdunarodnaya-matematicheskaya-olimpiada-2e5d8fc0
+issue: kvant_2015_5-6
+year: 2015
+number: 5-6
+title: LVI International Mathematical Olympiad
+authors:
+  - Агаханов Н. Х. и др.
+rubric: olimpiady
+rubric_sub: Олимпиады
+page_first: 66
+page_last: 66
+page_labels: "64"
+tag: RNQ2
+lang: en
+source: kvant_digital
+extraction: native
+content_sha256: b0f3a4c326faabd1b2db0eba855a052a46780a7f7205430ea1723157f30e74f1
+prompt_sha256: draft-1
+translated_from: content/ru/2015/05-06/articles/11_agahanov-lvi-mezhdunarodnaya-matematicheskaya-olimpiada-2e5d8fc0.md
+source_content_sha256: 09641ca240555f9ebc77df3c8f7f45c57d1debd011cb210e505ab2ded4c0859b
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 64⟧
+
+KVANT 2015/№5-6
+
+Determine the resistance $R_{AC}$ between points A and C. How will the resistances $R_{AB}$ and $R_{AC}$ change if, without changing the thickness of the plates, their dimensions and the size of the holes are increased by 2 times? E. Savinov
+
+Problem 3. Reactive tube In the middle of a long tube, open at both ends, a heater in the form of a thin tungsten mesh is fixed perpendicular to its axis. The system is in air at a temperature of $t = 20 ^\circ C$, its total mass is m = 17 g. At the initial moment, the tube is given a speed of $v_{0} = = 1$ cm/s along its axis, power q = 20 W begins to be supplied to the heater, and the tube begins to accelerate. What speed will the tube reach along the acceleration path s = = 20 m? Neglect air resistance. Assume the pressure inside the tube is the same; do not take into account the force of gravity and heat transfer through the tube wall. Consider that the change in the kinetic energy of the air flow when crossing the mesh is small compared to the change in its internal energy. Consider air as a diatomic gas with molar mass M = 29 g/mol. A. Gudenko
+
+⟦column⟧
+
+Problem 4. Space object A space object moving along a certain straight line at a constant speed emits periodic radio pulses. The astronomer found that during the observation time $\Delta t$ the apparent direction to this object changed by a small angle $\Delta \phi$, and the period between the moments of arrival of radio pulses changed from T to $T + \Delta T$, where $\Delta T$ ≪ T. Find the distance from the observer to the object. The speed of radio pulses is equal to the speed of light c. I.Vorobiev
+
+Problem 5. “Millicar” A very small, ant-sized car drives on a flat horizontal surface along the main optical axis of a collecting lens with a focal length F. A point light source S, located on the main optical axis of the lens, is fixed on its roof. The speed of the car changes so that the image speed $S_{1}$ of the point source S remains constant and equal to $v_{0}$. Determine at what distances from the lens such movement of the “millicar” is possible. The coefficient of friction between its wheels and the road is $\mu$. S.Varlamov
+
+Winners of the final stage of the Olympiad
+
+9th grade
+
+Nikolay Chikin - Moscow, Zakhar Yakovlev - St. Petersburg, Dmitry Sadykov - Kazan, Vladimir Malinovsky - St. Petersburg, Yakov Andreev - St. Petersburg, Artem Sheremet - Moscow, Boris Bilic - Zhukovsky Moscow region, Vladimir Golod - Moscow, Artem Petrov - St. Petersburg, Vsevolod Pukhov - Moscow;
+
+10th grade
+
+Maxim Eliseev – Republic of Mordovia, Ilya Zykov – Republic of Mordovia,
+
+Dmitry Norkin - Moscow, Anton Malinsky - Ufa, Nikita Semenin - Yugra, Alexander Artemyev - Kirov, Vasily Yugov - Perm;
+
+11th grade
+
+Maxim Sokolov - Samara, Kirill Kazarnovsky - Dolgoprudny, Moscow region, Artem Stoyan - Astrakhan, Ivan Uteshev - Republic of Mordovia, Kirill Voronin - Magnitogorsk, Nikita Gladkov - Tomsk, Kirill Dubovitsky - Moscow, Alexey Krasnikov - Bugulma. The publication was prepared by V. Slobodyanin
+
+LVI International Mathematical Olympiad
+
+From July 4 to July 16, 2015, the LVI International Mathematical Olympiad (IMO) was held in Chiang Mai (Thailand). 577 young mathematicians from 104 countries took part in it. Our team included four graduates: Ivan Bochkov (Izhevsk), Nikita Gladkov (Tomsk), Alexander Zimin (Ulyanovsk) and Alexander Kuznetsov (St. Petersburg), as well as two tenth-graders from Moscow - Ruslan Salimov and Ivan Frolov. This year's version of the Olympiad turned out to be very difficult - only a few participants in the Olympiad managed to overcome the milestone of 4 solved problems. The results of the Russian team members turned out to be quite good and fairly even, but on average less successful than in recent years - all the guys received silver medals. One of the reasons for the not very bright performance was the structure of this year’s version: beautiful and ideologically complex tasks
+
+3 and 6 in each of the two rounds of the Olympiad were preceded by a technically difficult task, which required a lot of time and effort. Here is a table with the results of our team’s performance (each task was scored out of 7 points):

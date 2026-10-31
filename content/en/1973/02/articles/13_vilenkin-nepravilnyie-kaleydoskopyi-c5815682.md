@@ -1,0 +1,50 @@
+---
+id: 1973-2-vilenkin-nepravilnyie-kaleydoskopyi-c5815682
+issue: kvant_1973_2
+year: 1973
+number: "2"
+title: Irregular kaleidoscopes
+authors:
+  - Виленкин А. Н.
+rubric: smes
+page_first: 68
+page_last: 68
+page_labels: "66"
+tag: XZ1U
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: cc24fcaa226a760465b0e2dd18b569fdd6902ed4f2679eeeca1f5e5a12e0dfd9
+prompt_sha256: draft-1
+translated_from: content/ru/1973/02/articles/13_vilenkin-nepravilnyie-kaleydoskopyi-c5815682.md
+source_content_sha256: d4b454cfb913ee66e28d3b8e9073146de6d5ae217e0072c789e1e3590458b78f
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 66⟧
+
+4. Solve the equation
+$$\frac{1}{2} + 3 \sin^2 x - 3 \sin x = \frac{1}{2} \cos 2x.$$
+
+Faculty of Industrial Economics (26)
+1. Two trains leave simultaneously from points $A$ and $B$ towards each other and meet at a distance of 60 km from the middle $AB$. If the first one left 2 hours later than the second one, then they would meet a quarter of the way from $B$. Find the distance $AB$ and the speed of the train.
+2. Given a regular hexagonal rectangular height $H$, all seven faces of which are equal in size.
+Find the volume and total surface.
+3. Solve the equation
+$$\log_3 x^3 + \log_2 x^2 = \frac{2 \lg 6}{\lg 2} + 1.$$
+4. Solve the equation
+$$\cos 2x + 4 \sin^2 x = \sqrt{3} \sin 2x.$$
+
+Faculty of Trade and Economics (26)
+1. Solve the equation
+$$9 \cdot 3^{\log_2 x^4} = \left(\frac{1}{9}\right)^{\log_2 x^0,125}$$
+2. The basis of the parameters is an equilibrium trapezoid, whose lateral sides are equal to the upper base and are equal to $a$, and the acute angle is equal to $\alpha$. The lateral edges form an angle $\varphi$ with the base plane. Determine volume parameters.
+3. Two machine gunners left at the same time from point $A$ to point $B$. The speed of the second machine gunner is 10 km/h greater than the speed of the first. Half an hour later, the third one left automatically from $A$ to $B$ at a speed of 60 km/h, which caught up with the first one and an hour and a half after that, it caught up with the second one. Find the speed of the machine gunner.
+4. Solve the equation
+$$2 \sin^2 3x + \sin^2 6x = 2.$$
+
+In this case, the lens should be placed as close as possible to the top of this angle. But if the lens is stopped down, the overlap will disappear. In the article, the difference between the sigmas was insignificant. Here we place more convincing systems.
+
+A. Vilenkin

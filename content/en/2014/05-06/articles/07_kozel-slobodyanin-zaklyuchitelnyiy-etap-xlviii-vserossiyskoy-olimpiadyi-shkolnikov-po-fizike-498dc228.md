@@ -1,0 +1,54 @@
+---
+id: 2014-5-6-kozel-slobodyanin-zaklyuchitelnyiy-etap-xlviii-vserossiyskoy-olimpiadyi-shkolnikov-po-fizike-498dc228
+issue: kvant_2014_5-6
+year: 2014
+number: 5-6
+title: The final stage of the XLVIII All-Russian Olympiad for schoolchildren in physics
+authors:
+  - Козел С. М.
+  - Слободянин В. П.
+rubric: olimpiady
+rubric_sub: Олимпиады
+page_first: 65
+page_last: 65
+page_labels: "63"
+tag: AT8C
+lang: en
+source: kvant_digital
+extraction: native
+content_sha256: e45b2a355f9404d25de7e491d8e7524442e8c9b7afcc00d264899a8cc84a57a8
+prompt_sha256: draft-1
+translated_from: content/ru/2014/05-06/articles/07_kozel-slobodyanin-zaklyuchitelnyiy-etap-xlviii-vserossiyskoy-olimpiadyi-shkolnikov-po-fizike-498dc228.md
+source_content_sha256: 06f03cd885bbb6bc0e6c12786dac8a5c2ac964f6f0d79147f474f6531732fb8d
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 63⟧
+
+OLYMPICS
+
+in 11 grades - Gvozdevsky Pavel - Apatity, school 6 with in-depth study of the English language, Danilyuk Alexey - Ekaterinburg, SUSC USU, Klyuev Daniil - St. Petersburg, FML 239, Krekov Dmitry - Moscow, Education Center "Fifty-seventh School", Chernega Nikita - Kazan, gymnasium 122 named Zh.A. Zaitseva, Yarovikov Yuri - Kazan, Lyceum named after N.I. Lobachevsky at KFU, Zaikov Alexander - Krasnodar, Lyceum "ISTEK", Korotkikh Sergey - Moscow, Education Center "Fifty-seventh School", Anikeev Dmitry - Omsk, gymnasium 117, Zaitseva Yulia - Moscow, school 179, Naryshkin Petr - St. Petersburg, FML 239, Kochkin Ivan - Kirov, FML, Zimin Alexander - Ulyanovsk, school 52, Garkavyi Andrey - Moscow, school 218, Dmitriev Illarion - Moscow, school 179,
+
+⟦column⟧
+
+Ershov Stanislav - Voronezh, school 1 with in-depth study of individual subjects, Malysheva Svetlana - Izhevsk, EML 29, Yakubov Alen - Krasnodar, Lyceum "ISTEK", Yakutov Dmitry - Perm, school 9 named after A.S. Pushkin with in-depth study of subjects of the physics and mathematics cycle, Pechatnov Yuri - Barnaul, gymnasium 42, Dmitry Shchelchkov - Moscow, SUSC MSU, Maria Ageeva - Izhevsk, lyceum 41, Andrey Zertsalov - Moscow, school 218, Tatyana Tikhonovskaya - St. Petersburg, FML 239, Nadezhda Vlasova - Yaroslavl, school 36, Ivan Gushchenko-Cheverda - Moscow, Center Education "Fifty-seventh School", Nikita Zakharov - Magnitogorsk, school 5 with in-depth study of mathematics, Sergey Kiselev - Omsk, lyceum 64, Vyacheslav Nazarenko - Ufa, gymnasium 93, Nikita Pletnev - Omsk, gymnasium 117, Elizaveta Streltsova - Moscow, lyceum 8.
+
+The publication was prepared by N. Agakhanov, I. Bogdanov, A. Garber, P. Kozhevnikov, O. Podlipsky
+
+The final stage of the XLVIII All-Russian Olympiad for schoolchildren in physics
+
+THEORETICAL TOUR
+
+9th grade
+
+Problem 1. Extreme race A racing car (car) overcomes a control straight section of the track with an average speed $v_{cp}$, and throughout this section it moves in the same direction with uniform acceleration. Calculate the maximum and minimum possible speeds of the car $( v_{max}$ and $v_{min}$, respectively) in the middle of the control section of the track. V. Slobodyanin
+
+Problem 2. On the balcony, Experimenter Gluck throws a ping-pong ball of mass m from the balcony of the 17th floor vertically upward with a speed of $v_{0}$. During flight, the ball is subject to a drag force directly proportional to its speed. Before falling to the ground, the ball was moving at a constant speed $v_{2}$. Find the speed of the ball $v_{max}$ at which its kinetic energy changes most rapidly during its motion. M. Zamyatnin
+
+Fig. 1
+
+Problem 3. Underwater work A diving bell in the shape of a cylinder without a bottom, partially filled with air, is under water (Fig.1). To prevent the bell from floating, it was attached with a cable to the bottom of the reservoir. A weight in the water is tied to the bell on a rope. The horizontal cross-sectional area of ​​the bell is $S = 4 м^{2}$, the volume of air in it is V =
+
+$= 8 м^{3}$ at a pressure $p = 1,5 \cdot 10^{5}$ Pa. When the weight in the bell is raised above the water level, the pressure increases by $\Delta p = = 250$ Pa, while the cable remains taut. Find the change in tension in the cable and rope. Density of water $\rho = 10^{3}$ kg $м^{3}$, acceleration of free fall g = 10 m $c^{2}$. The air in the bell obeys the Boyle–Marriott law: pV = const, where p is the pressure, V is the volume of air in the bell. I. Vorobyov Problem 4. Icicle on a thread Through a thin hole passing along the vertical axis of a cylindrical icicle, a thread is threaded, at the end of which a ball made of a material with a very high thermal conductivity is attached. At the beginning of the experiment, the ball is heated to a certain temperature $t_{1}$, and the temperature of the icicle is equal to the ambient air temperature $t_{0} = 0 ^\circ C$. Due to the melting of the ice, the icicle falls down (Fig.2), and the melt water flows out in the form of drops at a temperature of $t_{0}$. In this case, a cylindrical channel with an area of ​​$S = = 2 см^{2}$ remains behind the ball. 1) Find the initial temperature Fig. $2 t_{1}$ of the ball, if during the experiment the icicle stopped descending when the ball melted a channel with a depth of H = 10 cm. 2) Determine the speed $v_{0}$ of the icicle at the initial stage of the experiment, if at the moment when it dropped by two-thirds H, its speed was $v_{2} = 0,1$ mm/s.

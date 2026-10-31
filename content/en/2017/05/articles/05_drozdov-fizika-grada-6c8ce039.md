@@ -1,0 +1,51 @@
+---
+id: 2017-5-drozdov-fizika-grada-6c8ce039
+issue: kvant_2017_5
+year: 2017
+number: "5"
+title: Physics of hail
+authors:
+  - Дроздов В. Б.
+rubric: shkola-v-kvante
+rubric_sub: Школа в «Кванте»
+page_first: 36
+page_last: 36
+page_labels: "34"
+tag: 2XTU
+lang: en
+source: kvant_digital
+extraction: native
+content_sha256: b4b2911ba0142d047d054439f8602e388d8f3fe8cf2d55365c94172ac81f4f30
+prompt_sha256: draft-1
+translated_from: content/ru/2017/05/articles/05_drozdov-fizika-grada-6c8ce039.md
+source_content_sha256: 93c1a7648557a21a18a81e4dc907ffb5027d68a9fe68f7164adb5bd6395f86db
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 34⟧
+
+KVANT 2017/№5
+
+(For the beginning, see p. 28)
+
+The thread is that it was the solution of cubic equations that led to the discovery of complex numbers (see p. 9). What now? Is it really “time to discover” the Cardano formula? In any case, it is not clear what to do with the roots of any powers... So we have come to the point where purely algebraic means are no longer enough. We need fundamentally new ideas, a new vision of complex numbers.
+
+Physics of hail
+
+V. DROZDOV
+
+JULY 2008 WAS severe in the Ryazan region: showers, thunderstorms and even $град^{1}$. So, on July 18, at about 6 o’clock in the evening, I barely had time to shelter from the hail at the “208 km” railway station close to Ryazan. The shape of the hail was close to spherical with a diameter of approximately 1 centimeter, and it lasted for three minutes. Arriving home, I re-read an article about hail in K.D. Kraevich’s well-known physics textbook at the beginning of the 20th century. This text is worth quoting:
+
+1 Beautiful photographs of the July hail can be found in «Kvant» No. 3 for 2017 (see page 4 of the cover and page 25 inside the magazine).
+
+References
+
+⟦column⟧
+
+1. V.I.Arnold. Geometry of complex numbers, quaternions and spins. – M.: MTsNMO, 2002. 2. S. Dorichenko. Complex numbers. – «Kvant», 2008, No. 5. 3. Ya.P. Ponarin. Algebra of complex numbers in geometric problems. – M.: MTsNMO, 2004. 4. V.V. Prasolov, V.M. Tikhomirov. Geometry. – M.: MTsNMO, 2007. 5. Yu. Solovyov. Complex numbers. – «Kvant», 1991, No. 7.
+
+(To be continued)
+
+“If, in the powerful upward movement of a column of air, the liquefaction of water vapor occurs already at a temperature above zero, then the resulting droplets are carried higher into those layers where negative temperatures prevail; there they, remaining liquid, cool below zero, i.e. are hypothermic. If in this state droplets of supercooled water encounter ice crystals floating in the air, then freezing immediately occurs and the resulting ice ball, when falling down among the supercooled drops, quickly becomes covered with ice, increases in volume and reaches the surface of the earth in the form of a piece of ice, often of irregular shape. Precipitation of this type is called hail. Hailstones are usually the size of a pine nut, and sometimes the size of a pigeon or even a chicken egg; they have an irregular shape. The middle of a hailstone often consists of a snow core covered with a durable icy shell. Hail is often preceded by heavy rain and is usually accompanied by severe thunderstorms. It usually occurs in the middle of summer and more often during the day than at night. Hail continues for several minutes, rarely for a quarter of an hour. This type of precipitation causes severe devastation, destroys grain crops, and if large, it can be fatal even for people and animals.”

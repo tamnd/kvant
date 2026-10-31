@@ -1,0 +1,60 @@
+---
+id: 2014-5-6-zadachi-58692a4f
+issue: kvant_2014_5-6
+year: 2014
+number: 5-6
+title: Tasks
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 40
+page_last: 40
+tag: IRK7
+lang: en
+source: kvant_digital
+extraction: native
+content_sha256: 3894276d7ef7eb570fc24c5c3fd3d41bbc454dfa52c5465f75abb2ad0becc9ee
+prompt_sha256: draft-1
+translated_from: content/ru/2014/05-06/articles/03_zadachi-58692a4f.md
+source_content_sha256: dacaa2ab60f61015e8711b029e32eb40938bed18e38915e53fab5255c9b56055
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+"QUANT" FOR JUNIOR SCHOOLCHILDREN
+
+Tasks
+
+1.
+
+When it’s noon in Bratsk, it’s 6 a.m. in Gusev, and 2 p.m. in Komsomolsk-on-Amur. And when it’s noon in Zlatoust, it’s 18 o’clock in Elizovo, and 9 o’clock in the morning in Gusev. What time is it in Komsomolsk-on-Amur when it is noon in Yelizovo?
+
+⟦column⟧
+
+Daniel looked at figure and said: “Why doesn’t it happen.” I think that can sometimes be the case. What star did grandma mean? Who is right - grandma or Daniel?
+
+4.
+
+Is there a number that is divisible by exactly 50 numbers from the set 1, 2, 3,..., 100?
+
+2.
+
+Cut the figure at figure into three equal parts.
+
+5.
+
+On a bright sunny day, light enters the apartment windows, and all rooms with windows facing the sun are bright. However, to passers-by from the street, the windows appear dark against the background of the building walls. Why? (It is assumed that the glass in the windows is ordinary, without darkening.)
+
+3.
+
+– Look, our Misha made a wonderful figure fragment of the starry sky with a partial Moon on the computer. But he placed one star fundamentally incorrectly. In reality, this doesn’t happen,” said the grandmother.
+
+6.
+
+These problems are primarily intended for students in grades 6–8. Problems 1, 2, 4, 5, 6 were proposed this year at the XXXVII M.V. Lomonosov Tournament. The authors of problem 3 are Mikhail Korshkov, a 4th grade student, and Daniil Korshkov, a 6th grade student.
+
+Illustrations by D. Grishukova
+
+The forester was counting the pine trees in the forest. He walked around the 5 circles shown in figure and counted exactly 3 pine trees inside each circle. Could it be that the forester never made a mistake?

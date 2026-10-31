@@ -1,0 +1,53 @@
+---
+id: 1974-2-zorich-besedyi-starogo-uchitelya-fb58bbbb
+issue: kvant_1974_2
+year: 1974
+number: "2"
+title: Conversations of an old teacher
+authors:
+  - Зорич И. М.
+rubric: retsenzii-bibliografiya
+rubric_sub: Рецензии, библиография
+page_first: 58
+page_last: 58
+page_labels: "56"
+tag: GXHK
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 417e9c16bf865234d32c4e752e65809b7b9e7dd3608b933b90466dd3c3f5bf1d
+prompt_sha256: draft-1
+translated_from: content/ru/1974/02/articles/14_zorich-besedyi-starogo-uchitelya-fb58bbbb.md
+source_content_sha256: 43105d0a22890d3d3cbaa4ec6234ed06785a995fdb1210dbdb2dd2233da2c1a2
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 56⟧
+
+Conversations of an old teacher
+
+"Conversations on Physics". It would be difficult to come up with a better title for this book *). Mikhalil Ivanovich Bludov, an experienced teacher and methodologist, decided to share his knowledge with young readers and talk with them about physics. What exactly? After all, modern physics is fundamental and multifaceted, so that one could talk about it in a book of length. True, the first part of the “Conversations” that lies before us covers only two sections - mechanics and tellota, but this is also a lot. If you try to list the issues that are covered here, it will become completely incomprehensible how the book did not grow into a thick folio.
+
+And it's all about the skill of the author. He does not present what the reader knows (or should know) from the school course, and if he does talk, for example, about the law of conservation of energy, he approaches it from positions that are completely new to the student. The book does not surprise, but complements and illustrates the school course
+
+*) Bludov M.I. Conversations on physics. Part I, ed. 2nd, reworked M., “Enlightenment”, 1972, 176 pp., 68 k.
+
+physics. Moreover, all this additional information is presented, as a rule, in the form of a lively, relaxed conversation. The author often directly addresses the reader or resorts to the form of dialogue. Thus, in the chapter “What is Work” there is a conversation between Igor and his father, an engineer, and as a result, the dry definition takes on a different sound, as if it brings alive facts from the surrounding reality.
+
+Kinematika is considered perhaps the most boring branch of physics. However, M.I. Bludov managed to talk interestingly not only about the basic concepts of kinematics (speed, acceleration, etc.), but also its mathematical apparatus - vectors and operations with them. Following this comes a chapter (or it would be more correct to say, a conversation) about safety signals in transport, about measuring the speed of automation, a locomotive, a ship, an airplane, wind, a bullet.
+
+Examples for using the basic principles of mechanics are taken either from everyday life or from the latest scientific and technical problems that are most interesting to the student. The author is very interested in Castro, astronautics and other sciences related to physics.
+
+The narrative is made more interesting by historical absences, and sometimes by entire sections that are historically educational in nature. These are, for example, the conversation “Four Difficulties” about the meaning of Zeno’s algorithm *) or “Conversation in the Veneshchan Arsenal”, introducing Galileo’s mechanics.
+
+In the chapter “The Impossible Dream,” the reader is invited to prove the impossibility of implementing various projects of perpetual motion machines. This chapter is an excellent test of students' knowledge and communication, and will help develop their ability to reason logically.
+
+The chapters on molecular physics and thermal phenomena also cover general material, from Brownian motion to elements of meteorology. Speaking about the aggregate states of matter, the author also mentions plasma, devotes a lot of space to crystallification, surface phenomena in liquids, etc.
+
+The book by M.I. Bludov was published in its second edition. The previous ones, which appeared in 1964, quickly gained popularity among readers - schoolchildren and teachers. The book was awarded a diploma at the All-Union Competition of Popular Science Books, held annually by the Knowledge Society. Its content has undergone significant changes, in particular, a number of new sections have been added, reflecting the latest achievements in the liberation of space.
+
+We are confident that the first part of the book “Conversations on Physics” will bring undoubted benefit to all readers.
+
+I. Zorich

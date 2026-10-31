@@ -1,0 +1,51 @@
+---
+id: 2007-1-stasenko-lyudmila-chernomor-i-shapka-nevidimka-0c67a1d9
+issue: kvant_2007_1
+year: 2007
+number: "1"
+title: Lyudmila, Chernomor and the Invisibility Cap
+authors:
+  - Стасенко А. Л.
+rubric: shkola-v-kvante
+rubric_sub: Школа в «Кванте»
+page_first: 33
+page_last: 33
+page_labels: "31"
+tag: DZHY
+lang: en
+source: kvant_digital
+extraction: native
+content_sha256: 45267e11d292de1d574d5e09f83280363d596ffb694ad3446baa817012b27289
+prompt_sha256: draft-1
+translated_from: content/ru/2007/01/articles/05_stasenko-lyudmila-chernomor-i-shapka-nevidimka-0c67a1d9.md
+source_content_sha256: be0455c8a2c4b58d3b805b89d2ebbed0c08a36e170208d568f7647b813e3d6af
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 31⟧
+
+SCHOOL
+
+influences there is always weak noise, the behavior of the system under critical conditions turns out to be chaotic. For a ball, critical conditions are associated only with changes in equilibrium. More interesting are systems that are prevented from reaching equilibrium by external influences. Thus, the Earth does not come into equilibrium with the interplanetary medium due to the light flux from the Sun, and in order for the temperature in the refrigerator chamber to be maintained below room temperature, it must be plugged into the network. The forgetting time of such (active) systems is, of course, also limited. Therefore, sooner or later their behavior ceases to depend on the initial conditions. The system is said to reach a steady state. There are different types of steady state conditions. The transition to stationary mode can be observed without leaving the ball. You need to throw it into a vessel with a viscous liquid (for example, glycerin). The speed with which the ball descends quickly reaches a constant value, determined by the equality of the gravity of the ball and the sum of two forces: the buoyant (Archimedean) force and the force of viscous friction. Due to friction, heat is generated as the ball moves, so that the fluid surrounding the ball heats up and its viscosity drops. As a result, the steady-state speed increases, more heat is released, the viscosity becomes even lower, and so on. There is, as they say, an inverse relationship between speed and viscosity. This connection causes instability of the described regime under certain conditions (parameter values). For a steel ball in glycerol, for example, the critical radius is approximately 1 cm and the critical speed is approximately 1 m/s. However, observing this phenomenon in laboratory conditions is unrealistic. Thermal processes proceed slowly, instability develops over a period of about tens of minutes, so the vessel would have to be made too deep. Another thing, for example, is the movement of layers of the earth's crust. It is possible that some earthquakes are caused by thermal instability
+
+Lyudmila, Chernomor and the invisible hat
+
+A.STASENKO
+
+Her minute traces were constantly noticed everywhere: Either the gilded fruits disappeared on the noisy branches, or drops of spring water fell onto the crumpled meadow... I myself saw the dwarf himself in the morning from the chambers,
+
+IN
+
+"QUANTE"
+
+⟦column⟧
+
+the tide of this movement. Another suspicious object in this regard is a glacier creeping down the mountainside. The stationary regime, like the equilibrium state, can also be characterized by susceptibility, which should increase in the critical range of parameters. The hope is that studying the low-frequency noise of complex industrial and natural systems will reveal early warning signs of a brewing crisis. It's hard to believe that complex chemical or biological systems have anything in common with a ball, pits and humps. Nevertheless, high susceptibility and the resulting chaotization under critical conditions have been found in all systems studied so far. The opposite statement, that high susceptibility can only be obtained under conditions close to critical, has not been proven, but is apparently true. Unsteady steady-state modes are called self-oscillations. Many refrigerators operate in a periodic mode: the motor turns on when the temperature in the chamber exceeds the permissible value, and turns off after it has dropped sufficiently, followed by a stage of slow heating due to the thermal conductivity of the walls, and everything repeats. Another example of a periodic regime is the running of a clock. In them, the source of “external” influence that prevents balance is a battery or a compressed spring. So far we have been talking about chaos, which does not go beyond a relatively narrow critical range of parameters. But there are regimes that remain chaotic after their birth, even when the parameter values ​​leave the critical region. The study of such chaos has shown that here, too, the proximity of stable and unstable states plays an important role. It is chaos that prevents us from making reliable predictions, such as accurate weather forecasts. Chaos has many faces, and the differences between its manifestations in different cases are especially interesting. We have already learned something about this, but the main work lies ahead.
+
+As if under an invisible hand the waterfall splashed and splashed. A.S. Pushkin
+
+Do you remember? Well, of course, we are talking about Lyudmila, Ruslan’s legal wife, kidnapped by the evil Chernomor. It was she who privatized the invisibility cap from the Black Sea wardrobe. However, could Lyudmila really feel so comfortable, and Chernomor was so powerless to see the “invisible” captive? In fact, the invisibility of the body means that it does not reflect, absorb or refract anything (see on this matter, for example, the recent article by V. Belonuchkin “How to see the invisible” in «Kvant» No. 4, 2006). Consequently, the lens of the eye, which should focus rays on the retina, stops “working”, and the retina, which should convert the focused energy into a useful signal, stops absorbing anything. So, the absolutely invisible Lyudmila would be able to move only by touch, guided only by sounds or smells (which may also be doubtful - but this is beyond the topic of this article). What about Chernomor? Of course, during the time of Prince Vladimir (Red Sun) and his warrior Ruslan, i.e. in the 10th century, the laws of thermal energy had not yet been formulated
+
+(Continued on p.34)

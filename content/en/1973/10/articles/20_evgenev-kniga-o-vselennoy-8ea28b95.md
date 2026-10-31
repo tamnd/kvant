@@ -1,0 +1,39 @@
+---
+id: 1973-10-evgenev-kniga-o-vselennoy-8ea28b95
+issue: kvant_1973_10
+year: 1973
+number: "10"
+title: Book about the Universe
+authors:
+  - Евгеньев И. Е.
+rubric: retsenzii-bibliografiya
+rubric_sub: Рецензии, библиография
+page_first: 66
+page_last: 66
+page_labels: "64"
+tag: JMJZ
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 264a4a7084600e23682d6815c2a4f61d4971e0c0420362dc1d852dd7634cedca
+prompt_sha256: draft-1
+translated_from: content/ru/1973/10/articles/20_evgenev-kniga-o-vselennoy-8ea28b95.md
+source_content_sha256: 8576c4f26a27f35a72633e5687345d7e20c9ba968d6e3758acf500d5b3a1437a
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 64⟧
+
+By the end of the 50s of our capital, the development of astronomy, physics, biology and a number of other sciences made it possible to approach on a scientific basis the solution of the problem that has been intertwined with humanity about the existence of life outside the Earth and, in particular, about the existence of intelligent life. If, in the previous period, scientists inevitably limited themselves to individual agreements, and the problem as a whole was left open to science fiction writers, now there have appeared specific scientific studies of the conditions for the emergence of life, the prevalence of life, including intelligent life, in the Universe, and the emergence of connections with external civilizations. Experimental work was also carried out. In 1959, American scientists D. Cocconi and F. Morrison considered the emergence of communication between civilizations using electromagnetic waves and proposals to look for signals to external civilization at a natural standard wavelength - near a radio line with a wavelength of 21 cm, emitted between stellar neutral hydrogen. Already in 1960, this idea found practical implementation: using a radio telescope, the mirror of which had a diameter of 27 m, F. Drake in the USA for several months tried to catch signals of artificial origin from two stars close to us, similar to the Sun: ε Eridani and M. Ceti. Signals failed to appear, but the first attempts were unlikely to yield a positive result.
+
+We have mentioned only two works, but quite a lot of such studies have appeared. There was a need to generalize all these new results on the problem, to be at the intersection of many sciences. Please, the first such generalized work is an experimental monograph by the famous corresponding astronomer, now a corresponding member of the USSR Academy of Sciences and a member of the US National Academy of Sciences I. S. Shklovsky, “The Universe, Life, Mind,” published by the Publishing House of the USSR Academy of Sciences in 1962. It is lively and fascinating; at the same time, it is distinguished by sufficient scientific rigor, although it necessarily contains many hypotheses.
+
+In keeping with its title, the book is divided into three parts. The first part is devoted to the problems of astronomy. This is a systematic story about celestial bodies and their systems, about the physical conditions on them, about their evolution. This section has independent value, as it gives a good idea of ​​the current state of astronomy. In the second part, the author examines the working conditions of “Intelligent Life in the Universe”. Here there is a discussion of the emergence of international communication using optical and radio methods, as well as with the help of automatic vehicles, reports on the pace of human development, the possibilities of direct contacts between different civilizations, and much more.
+
+The book by I. S. Shklovsky became widely known both in our country and abroad. In 1965, its second edition was published, and in 1973 - the third (revised and expanded) *). Over the 11 years that have passed since the release of the first edition of the book, many new articles and a number of monographs have appeared devoted to the problem under consideration; Several international meetings were also held.
+
+With the help of ground-based installations and spacecraft, the study of physical conditions on the planets and satellites of Sol continued.
+
+*) Shklovsky I. S. Universe, life, mind. Ed. third, expanded and revised. M., “Nuka”, 1973.

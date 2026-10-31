@@ -1,0 +1,89 @@
+---
+id: 2017-5-fridrihson-geomolotok-i-tayna-poleznogo-udara-a20f0f60
+issue: kvant_2017_5
+year: 2017
+number: "5"
+title: Geohammer and the secret of a useful blow
+authors:
+  - Фридрихсон А. И.
+rubric: raznoe
+rubric_sub: Разное
+page_first: 25
+page_last: 29
+page_labels: 23-27
+tag: SU5G
+lang: en
+source: kvant_digital
+extraction: native
+content_sha256: f1afdb8f325a2596660677667b08c84863a40affee6b4d63f9aadb2fe893db2a
+prompt_sha256: draft-1
+translated_from: content/ru/2017/05/articles/03_fridrihson-geomolotok-i-tayna-poleznogo-udara-a20f0f60.md
+source_content_sha256: 1c927136d1a326aae326cad4e1d16dd0ba630fb8e600312b4ee28d1b827ff8f6
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 23⟧
+
+PHYSICS
+
+–
+
+"Columbus and the Egg". Johann Geier, 1847 could it be easier than discovering a new land? In response, Columbus offered him a simple task: place a chicken egg vertically. When no one could do this, Columbus took the egg, broke it at one end and put it on the table. It's really simple. Frustrated observers said they could have done the same. “You could, but I actually did it,” Columbus concluded. Nowadays, the catchphrase Columbus egg means a simple but unexpected
+
+ENGINEERS
+
+This is a paradoxical way out of a difficult situation. For example, let's take a strip of paper. Can it be placed vertically on a table? Does this seem impossible? No, it's possible! It is enough just to bend it along its entire length in the shape of a gutter. The fold line becomes the so-called stiffener rib. School geometry textbooks note that a triangle is a rigid figure, but a square, rectangle, and parallelogram are not. If you add a diagonal to a square, you get a rigid figure. In engineering, structural elements that impart rigidity to a structure are called stiffeners. If a sheet of paper is rolled into a tube, then this tube will be strong enough and can withstand considerable load. A strip of paper folded into a groove also becomes stiff. It can be waved in the air, like a conductor's baton. Likewise, in roulette, an elongated piece of tape, shaped like a groove, turns out to be rigid and does not roll up. This allows the tape to be directed even vertically upward.
+
+PHYSICS FOR ENGINEERS
+
+Geohammer and the secret of a useful blow
+
+A.FRIDRICHSON
+
+OFTEN HIGH SCHOOL STUDENTS, WITH KNOWN abilities for physics, refuse a scientific career, saying: “What is the point of going into science, where everything important has already been discovered? The times of Newton, Hooke and even Einstein are over, and rewriting other people’s dissertations for a meager salary is not interesting.” Oh, how wrong you are, young and talented. It’s not the salary – it’s the openness of everything that’s important. I assure you that there are enough unsolved mysteries, misunderstood phenomena, uninterpreted paradoxes even in classical physics for your lifetime. Moreover, physics is a science whose knowledge can influence all areas of our lives - from small business to big politics, from moral laws within us to the stars above us. But since unproven statements are not accepted in this science, we will try to substantiate the above with the following. It turns out that such an emotional concept as a blow has a completely rational description in physics. If you don’t use abstruse formulas, then a blow is a quick (high-speed – scientifically speaking) application of force to a body or system of bodies. However, high
+
+⟦folio 24⟧
+
+KVANT 2017/№5
+
+speed is a relative concept. Therefore, more strictly speaking, an impact can be called such an application of force in which the time of impact is commensurate with or less than the period of natural oscillations of a body or system of bodies. It is curious that proportionality is the cause of some little-studied and sometimes paradoxical “shock” phenomena. You can start the excursion from a bridge that was destroyed by a company of soldiers, rhythmically typing a step with the frequency of the natural vibrations of the bridge structure. However, resonance, i.e. the coincidence of the frequency of an external influence with the natural frequency of oscillations of a body or system of bodies is a fairly studied phenomenon. But the example of the coincidence of the time of impact with the period of natural oscillations, which we will conventionally call the blow of a geological hammer on a rock sample, is not as simple as it seems, and is an example of a very useful (not only for geology) impact on a solid body. An experienced geologist splits the sample into two parts, as if softening the blow. Not even kind of, but rather softening - which will seem strange to an inexperienced observer. And in vain. Even without understanding the intricacies of the theory of elasticity, or the physics of solids, an experienced geologist knows that in order to split a sample neatly in half, the hammer must be given a sufficiently high but constant speed so that the acceleration at the moment of impact is minimal. Ideally, equal to zero. Paradox? Apparent. Because
+
+⟦column⟧
+
+that quasi-zero acceleration at the moment of contact of the geohammer with the rock gives a useful fulfillment of the law of conservation of energy, when all the kinetic energy of the hammer is converted into the internal energy of the sample. And not in thermal energy, but in elastic energy. Because in free (without acceleration) contact with the rock, the hammer interacts with the sample exactly the time that is determined by its own elastic properties. This means that the time of interaction of the hammer with the rock is determined not by the external effort of the geologist, but by the own period of vibration of the sample he is studying. With such interaction parameters, the energy of the geohammer, due to the so-called impact strength, will be transferred as completely as possible into the energy of elastic deformation of the sample. But the shock wave in the rock, which will only crumble the sample (due to minimal acceleration), will be minimal. How does the process of splitting in half take place? As a rule, it's easy. As a result of compressive deformation in the direction of impact, the sample simultaneously expands in a perpendicular plane. And when this transverse deformation exceeds the critical tensile deformation of a given rock (it would be better to say tensile), the sample will split along the weakest of the vertical planes of the sample, i.e. in half to show its texture, composition and many other geological details of the sample. Just what a skilled geologist needed. Moreover, due to the long handle of his hammer, a geologist can not only reach the desired piece of rock in the field, but also adjust the “analytical blow” in such a way as to split a variety of samples into two parts, both in shape and composition. Moreover, knowing the approximate hammer speed at which a sample of the rock under study will split in half, it is possible to preliminarily determine the so-called critical tensile stresses, and this is a very important characteristic of the rock. By the way, this characteristic is used by fellow geologists - miners. In quarries that
+
+⟦folio 25⟧
+
+PHYSICS
+
+–
+
+are developed by explosion, the charge in blast holes, as well as the distance between blast holes are calculated based on the strength characteristics of the rock. An attentive reader, looking at the table given here, will certainly pay attention to two details: 1) the temporary resistance to rupture (tension) is an order of magnitude less than that of compression and even bending; 2) the study of rocks in terms of this parameter (tensile resistance) is noticeably lagging behind, which is obviously due to a more labor-intensive research process. Unlike geologists, miners need to explode the rock as finely as possible to make it easier to load onto vehicles and later process it, for example, into crushed stone. A shock wave generated precisely by the high acceleration of the rock during an explosion, in contrast to the delicate geological
+
+ENGINEERS
+
+gical impact, crushes the rock in zones commensurate with the diameter of the blast hole. But due to a sharp drop in the energy of the shock wave with a distance of several meters from the well, the rock splits “according to the principle of a geohammer” - on planes weakened by microcracks, when the rock is destroyed by the tensile deformations described above. In this context, little knowledge (as we see from the table) of rocks for critical tensile deformations does not allow mining engineers to more accurately calculate the explosion energy. Indeed, for the needs of the mining industry, rock broken into dust by a shock wave is needed much less than optimally split into fragments. However, what is known for sure is the inverse dependence of fragmentation on explosion energy (as well as on mechanical shock): than
+
+⟦folio 26⟧
+
+KVANT 2017/№5
+
+The greater the energy, the finer the fragmentation of the destroyed rock. However, it should be noted that in some cases the opposite is also true: the finer the fragmentation before destruction, the greater the energy required for further fragmentation. After all, the more cracks in the rock before the explosion, the more natural obstacles there are for the crushing shock wave. And the greater part of the explosion energy will be spent not on crushing, but on moving free pieces of rock within the cracks. Experienced mining engineers also take into account this, generally little studied, subtlety of blasting. In any case, to accurately calculate the explosion energy, in addition to the strength properties of the rock, they also take into account its “blockiness” - the average size of a piece of rock between cracks in a given section of the quarry. Geophysicists call the same characteristic “fracturing” and take it into account to calculate the energy of an experimental impact (usually an impact of a load dropped from a certain height on the surface of the earth). If a seismic wave is excited by an explosion, the fracturing of the rock mass is also taken into account. However, to a greater extent the effectiveness of the experimental explosion, and most importantly - the less damage to the environment, is influenced by such an indicator as brisance, close to the geohammer, i.e. speed of explosive. Just as an experienced geologist strives to lower his hammer onto the rock with minimal acceleration, experienced geophysicists choose an explosive with minimal brisance to excite seismic vibrations - so that most of the explosion energy goes not into the shock wave (the period of which is less than the period of the natural vibrations of the rock), but into the elastic one, i.e. the seismic wave itself (the period of which is the period of natural oscillations of the geomassif). In other words, the smaller the impact destruction, the more scientific information can be obtained from its results - for example, about a rock mass. The reverse problem, as geophysicists say, can also be solved: if the strength characteristics of the rock are known, then by the number of parts split during the impact, the initial energy of this very impact can be determined. Similarly, according to the size of an average piece of rock
+
+⟦column⟧
+
+after an explosion (for example, in quarries of limestone, sandstone or granite for the production of the most important component of road construction - crushed stone), the energy of the explosion itself can be determined. The law of conservation of energy is universal and symmetrical in time and space. Therefore, the degree of destruction (and therefore fragmentation) of any material depends on the initial energy of destruction and vice versa. And even in the most important investigation of the disaster near Donetsk, this dependence could be applied. In this case, the dependence of the explosion energy on the average size of fragments of the destroyed hull. Many experts drew attention to the very small fragmentation of debris at the crash site of the Malaysian Boeing, from which it is possible, albeit approximately, to calculate the energy of the initial explosion. The simplest calculation shows that with such fragmentation the energy of the initial explosion will be within $10^{12}$ joules. This is colossal energy, commensurate with the energy of a massive explosion in a large quarry or with the energy of a small earthquake with a magnitude of 1. The explosion energy of the notorious BUK-M rocket (even if it exploded not outside the aircraft, but inside) is at least a hundred times less. The only energy source equivalent to the figures given is the explosion (instantaneous detonation) of all Boeing fuel tanks, provided they are full. It should also be noted that the simultaneous detonation of fuel could be caused not so much by an external, but rather by an internal, specially prepared impact - in other words, an initiating explosion-detonator near the fuel tanks themselves. What caused such a powerful destruction, a thousand times greater than the capabilities of missiles of any class, is no longer a scientific question. But it was set by a reliable expert - the law of conservation of energy. The author experienced the effective assistance of this law in his field practice. It happened at the Svetlogorsk granite quarry in Karelia (the quarry was blasting out the strongest rock in order to turn it into the strongest crushed stone for filling road surfaces throughout the country). Calculate the so-called explosive grid, i.e.
+
+⟦folio 27⟧
+
+PHYSICS
+
+–
+
+the distance between blast holes is possible, as our readers already know, only by knowing such a characteristic of the rock mass as fracturing. To solve this problem, we had at our disposal a seismometric logging complex (for borehole and cross-borehole studies): a seismic receiver and a source of elastic vibrations. If the first element was a body weighing several hundred grams, then the source of vibrations weighed fifty kilograms. But the main problem was not even the weight: after lowering this unit into the well and securing it to the walls of the well, it was hit from above with a special seismometric sledgehammer weighing noticeably more than a geological hammer. This impact was transmitted through mechanical adapters to the walls of the well and thus created the very elastic vibrations that we were supposed to capture with a seismic receiver in a neighboring well. By the speed of their passage, one could judge the degree of fracturing - the lower the speed, the greater the fracturing and vice versa. It seems like a simple task. However, after three or four impacts, our well source jammed so much that lifting this heavy metal structure to the surface was already a big problem. As a result, the productivity of our logging studies fell sharply, and the question arose of what to do (and we already knew who was to blame, because we ourselves had not thought through all the technical details). As a result of brainstorming, it was proposed to use... ordinary balloons, lowered on a hose from the air receiver of our GAZ-66 expedition vehicle into the well - for subsequent “burst” in its cavity. Of course, there were doubts: the air energy, even under a pressure of 1-2 atmospheres, might not be enough to “pierce”, or, more precisely, “sound” the rock mass 10-20 meters to the neighboring well, where our compact seismic receiver was “cooling” in vain waiting for effective operation. Imagine the surprise of those who did not believe in success when on the seismogram we received not just a signal, but one that was many times greater than what we had previously received by proxy.
+
+ENGINEERS
+
+using a “sledgehammer”. It was all about the energy intensity of our invented pneumatic source. When the automobile atmospheres expanded the rubber ball compressed by the walls of the borehole, the surrounding granite massif perceived this energy “slowly but surely,” essentially without loss - deforming micron by micron for several seconds. When the wonderful rubber product burst, a “reverse” dynamic shock occurred. Which occurs, for example, when discarding spent rocket stages or when unloading the source of an earthquake. We deliberately provide such macro-examples because our 1984 granite experiment showed that this principle works on all scales, from the source of an earthquake to a hot air balloon. So, the problem was successfully solved and further work went and flew like clockwork, or rather, like air. The pressure release shock, as it turns out, has been used many times in the history of science and technology, but for the first time to excite elastic vibrations in a well. And upon returning from the expedition, we filed a “patent for the method,” which we successfully used in our subsequent expeditions more than once - and not only on granites, but also on sandstones, limestones, and dolomites. However, there is nothing incredible in the fact that a balloon replaced a multi-kilogram “sledgehammer”. Everything is obvious: one atmosphere multiplied by one tenth of a cubic meter (this is how the energy that the inflated balloon transmitted through the walls of the well into the geomass is calculated) is 10,000 joules. Taking into account the high efficiency, it is possible to compare such a pneumatic source of reverse dynamic impact with the direct impact of a load weighing 100 kilograms falling from a height of 10 meters (this is without taking into account significant energy losses during such a direct impact - on fine crushing of rock, an inelastic shock wave and thermal energy, which, of course, was released into the surrounding space). The source of the described type does not have these losses. Thus, the global law of conservation of energy helped solve a technical puzzle and a particular geophysical problem.

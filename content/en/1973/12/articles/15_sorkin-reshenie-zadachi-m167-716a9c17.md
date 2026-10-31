@@ -1,0 +1,75 @@
+---
+id: 1973-12-sorkin-reshenie-zadachi-m167-716a9c17
+issue: kvant_1973_12
+year: 1973
+number: "12"
+title: '[Solution problem M167]'
+authors:
+  - Соркин Ю. И.
+rubric: smes
+page_first: 50
+page_last: 50
+page_labels: "48"
+tag: RUAT
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: ee811f9498572de6a1f66f58bf44df0526f6338ba93669f8fec11bf79f84e94e
+prompt_sha256: draft-1
+translated_from: content/ru/1973/12/articles/15_sorkin-reshenie-zadachi-m167-716a9c17.md
+source_content_sha256: 578a39ba0d29516add9a34bff65197bd70cb95b5a834311fd0e0b6536942496c
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 48⟧
+
+how the inputs and outputs of each element are displayed on the front panel in the form of sockets.
+
+They are connected to each other using cords with caps.
+
+Here is an example of a large problem that can be solved using a polygon.
+
+Task. To carry out the weight lifting system, it was planned to make a banner with the text “WEIGHT IS TAKEN CORRECTLY.” This inscription must be hung if the judges A (he is the senior judge), B and C come to the conclusion that the weight is taken correctly. They communicate their decision by pressing a button (by doing so, they send scene “1” to the machine that controls the lighting of the transrapant). The transrapant must be completed in two more cases, namely, if two judges (one of them is necessarily the senior) agree that the weight is taken correctly. Any other distribution of judges' opinions should not cause suspension of the transrapant.
+
+It is clear that the machine must have three inputs, which will receive signals from the judges, and one output, which will generate a signal to turn on the transponder.
+
+It is easy to obtain the structure of the formula automaton:
+
+$$X = ABC + \bar{ABC} + AB\bar{C}$$
+
+(1)
+
+Indeed, the transponder must be turned on if all three judges or two of them (and necessarily one of the double ones - the senior one) send the signal “1”.
+
+Let’s use information from the article by L.L. Tsinman that we have already mentioned and transform formula (1):
+
+$$X = ABC + \bar{ABC} + AB\bar{C} = AB + AC = A(B + C).$$
+
+Using this formula, you should build a functional diagram of the machine. The result will be the diagram shown in figure 3.
+
+Make sure of this by considering all options for the judges' decision. However, of the options shown at figure 4.
+
+Let us present several problems for designing circuits at the “Logical Structures Test Site”.
+
+1. How will the scheme of the “Sports Judge” machine, designed above, change if the “weight is taken correctly” banner must be hung with the consent of any two of the three working judges?
+
+2. Draw a functional diagram from the described logical elements “AND”, “OR”, “NOT” of an automaton that can add any two single-digit double numbers (such an automaton is called a get-matter).
+
+3. Draw a functional diagram of a multiplier of two two-digit double numbers.
+
+4. Draw a functional diagram with which you can monitor the validity of the values ​​in the mathematical logic of A. de Moggan’s formulas:
+
+$$\overline{A} + B = \bar{A}\bar{B},$$
+$$\bar{AB} = \bar{A} + \bar{B}.$$
+
+Our reader, eighth grade student Yura Sorkin, sent us an elegant solution to the problem (see «Kvant» No. 6, 1973)
+
+It is easy to see that an infinite number of numbers
+
+$$a(1+d)^m$$
+
+(*)
+
+at $m = 1, 2, 3, ...$ has the same prime factors in the expansion of each of them, and it is also clear (use Newton's biometer) that all numbers (*) are terms of a given arithmetic progression with the first term $a$ and the difference $d$.

@@ -1,0 +1,61 @@
+---
+id: 2014-2-zadachi-caa3d8e6
+issue: kvant_2014_2
+year: 2014
+number: "2"
+title: Tasks
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 29
+page_last: 29
+page_labels: "27"
+tag: 6SPZ
+lang: en
+source: kvant_digital
+extraction: native
+content_sha256: 57543cdf224f246599c29fd1ac4b706e293317f1783408b86c021c344d02cdb7
+prompt_sha256: draft-1
+translated_from: content/ru/2014/02/articles/01_zadachi-caa3d8e6.md
+source_content_sha256: 98476e930db06ea8eb5580f7647776c6413ae1774dfe8dbc1800080af37afa2e
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 27⟧
+
+"QUANTUM"
+
+FOR
+
+YOUNGER
+
+SCHOOLCHILDREN
+
+Tasks
+
+1.
+
+The children went to the forest to pick mushrooms. If Anya gives half of her mushrooms to Vita, all the children will have the same amount of mushrooms, and if Anya instead gives all her mushrooms to Sasha, then Sasha will have the same number of mushrooms as all the others combined. How many children went mushroom picking? I. Raskin
+
+⟦column⟧
+
+They expect the same numbers, different ones are different, and a dash is a minus! Moriarty is traveling on train No...." Write the train number and the carriage number. Explain how Holmes might have reasoned. I. Raskin
+
+2. Draw a figure that can be cut into four figures, shown on the left, or into five figures, shown on the right. (The figures can be rotated.) A. Shapovalov
+
+Illustrations by D. Grishukova
+
+3.
+
+The famous criminal Professor Moriarty hid from Sherlock Holmes and the London police for a long time. And then one day the police managed to intercept a telegram that Moriarty sent to an accomplice: Meet tomorrow the train HUNDRED car O Inspector Lestrade had already ordered to send a police squad to look for the zero car of the hundredth train, but then they brought two more intercepted telegrams to the same address: SECRET - OPEN = ANSWER - YOUR SECRET - OPEN = 20010 Lestrade thought about it. And Holmes exclaimed: “Now it’s clear which train we need to meet!” The inspector was surprised. “Elementary, Lestrade! - the detective explained. - It's a code. In these examples, the same letters indicate
+
+These problems are primarily intended for students in grades 6–8. These problems were proposed at the XXV Mathematical Festival.
+
+4. The dandelion blooms in the morning, blooms yellow for two days, turns white on the third day in the morning, and flies around in the evening. Yesterday afternoon there were 20 yellow and 14 white dandelions in the clearing, and today there are 15 yellow and 11 white.
+
+a) How many yellow dandelions were in the clearing the day before yesterday? b) How many white dandelions will be in the clearing tomorrow? D. Shnol
+
+5.
+
+We managed to place two identical right-angled triangles made of paper on top of each other as shown in figure (in this case, the vertex of the right angle of one fell on the side of the other). Prove that the shaded triangle is equilateral. E. Bakaev

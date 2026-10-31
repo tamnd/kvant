@@ -1,0 +1,57 @@
+---
+id: 1973-5-bendukidze-o-raspredelenii-prostyih-chisel-2772fb4f
+issue: kvant_1973_5
+year: 1973
+number: "5"
+title: On the distribution of prime numbers
+authors:
+  - Бендукидзе А. Д.
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 58
+page_last: 58
+page_labels: "56"
+tag: AH3X
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: d66f6dbb3449cdef68e46af89b52733f7e884edc3b427bca4ef7fb491b708dbc
+prompt_sha256: draft-1
+translated_from: content/ru/1973/05/articles/16_bendukidze-o-raspredelenii-prostyih-chisel-2772fb4f.md
+source_content_sha256: 89b296b0f71c5d20ad70f54b509873068d56842590aa97971042fe7b1f20fd32
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 56⟧
+
+On the distribution of prime numbers
+
+If you read the article “On Prime Numbers” published in «Kvant» No. 4, then you probably had a question: how are these numbers distributed? How often do they occur in the series of natural numbers? What is the number of prime numbers not exceeding the given n? This is what we will talk about now.
+
+1. As we already know, the set of prime numbers, which is part of the infinite set of natural numbers, is itself infinite. The question naturally arises: how is this part located as a whole? Unfortunately, no simple law has been discovered in the distribution of prime numbers, although some patterns are easy to prove.
+
+Take, for example, the set of prime numbers not exceeding 100: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97.
+
+At the beginning of this row there are 2 and 3. They are also next door in the row of natural numbers. It is easy to say that this is the only case when two neighboring natural numbers are both prime - after all, all prime numbers, except the number 2, are odd.
+
+Let's move on. After 3 there is 5; the “distance” between them is two. The same is the “distance” between the members of the next pair - 5 and 7. But between 7 and 11 there are already three composite numbers. Next, again, a pair of composite numbers: 11 and 13. The most “remote” ones in our list are 89 and 97 - there are seven composite numbers between them. But continuing this series of prime numbers, we will also discover numbers with the greatest “distance” between them. These will be, for example, 113 and 127, 139 and 149. In this case, again there will be numbers with the smallest possible “distance”, for example, 149 and 151, 179 and 181, 191 and 193. Let us now try to find out how much greater the “distance” between two neighboring prime numbers can be.
+
+Take, for example, the number 100 and prove that you can find 100 consecutive natural numbers, among which there is not a single prime. To do this, let's search through all the natural numbers from two to 101 inclusive. The resulting number is denoted by A:
+
+$$A = 2 \cdot 3 \cdot 4 \cdot 5 \dots 98 \cdot 99 \cdot 100 \cdot 101.$$
+
+It is clear that it is divisible by 2, 3, 4, ..., 100, 101 without a remainder. The distance now follows 100 consecutive natural numbers:
+
+$$A + 2, A + 3, A + 4, \dots, A + 99, A + 100, A + 101.$$
+
+All these numbers are composite. In fact, the first of them is divisible by 2 (since both terms are divisible by 2), the second by 3 (both terms are divisible by 3), the third by 4, and so on. The last $A + 101$ is divisible by 101.
+
+So, we have found 100 consecutive numbers and they are all composite. Similarly, you can find 1000, 10,000 or more consecutive composite numbers. Thus, the “distance” between two adjacent prime numbers can be much larger.
+
+2. If we do not take into account the only thing - the numbers 2 and 3, then the smallest "distance" between adjacent prime numbers is two. There are 8 such pairs in the first hundred:
+
+$$(3, 5), (5, 7), (11, 13), (17, 19), (29, 31), (41, 43), (59, 61), (71, 73)$$
+
+Such pairs of prime numbers are called twins. But it is not even known whether finitely or infinitely many

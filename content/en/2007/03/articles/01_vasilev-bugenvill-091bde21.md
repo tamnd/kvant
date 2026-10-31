@@ -1,0 +1,49 @@
+---
+id: 2007-3-vasilev-bugenvill-091bde21
+issue: kvant_2007_3
+year: 2007
+number: "3"
+title: Bougainville
+authors:
+  - Васильев А. Н.
+rubric: iz-istorii-nauki
+rubric_sub: Из истории науки
+page_first: 20
+page_last: 20
+page_labels: "18"
+tag: L9TD
+lang: en
+source: kvant_digital
+extraction: native
+content_sha256: c5303225889b3eb1025ad904c6c08240555934c8c65e299fa95278bb704695e3
+prompt_sha256: draft-1
+translated_from: content/ru/2007/03/articles/01_vasilev-bugenvill-091bde21.md
+source_content_sha256: dfe654a5afb3a969450092c8034c2158f30016862e6fbc3443efe67161bb2554
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 18⟧
+
+KVANT 2007/№3
+
+⟦figure⟧
+
+Fig. 14. Ultrasound laser diagram
+
+deviation angle, you can select the dispersion value needed to compensate. As a result, the laser generating femtosecond pulses due to mode locking takes the form shown in figure 14. The green light beam of the pump laser operating in continuous mode is focused by a lens (1) through a mirror (2) into a sapphire crystal (3) to achieve the desired level
+
+⟦column⟧
+
+population inversion and gain. The resonator is formed by four mirrors - two flat (5 and 6) at the ends of the resonator and two concave (2 and 4), focusing laser light into the sapphire crystal. To ensure the self-focusing effect, a diaphragm (7) is introduced into the sapphire crystal itself, and a pair of prisms (8) is introduced to compensate for dispersion. With careful selection of laser elements and optimal settings, it is possible to obtain pulses with a duration of up to 5 fs. The pulse repetition rate is determined by the optical length between the cavity mirrors and is usually about 80 MHz. The maximum wavelength of the spectrum is at 750 nm (red light). It must be said that the effect required for laser operation is obtained only with a limited average output power, which is usually less than 1 W. This means that the energy in a single pulse does not exceed 10 nJ.
+
+(To be continued)
+
+FROM THE HISTORY OF SCIENCE
+
+Bougainville
+
+A.VASILIEV
+
+LOUIS ANTOINE DE BOUGANVILLE (1729 – 1811) was not famous for mathematics, although under the influence of D’Alembert he wrote a treatise on integral calculus in 1752, unsurpassed in clarity and depth of presentation. This work developed the ideas of L'Hopital, formulated half a century earlier. The newest concepts of differential calculus were also presented here, which led to the recognition of Bougainville not only by the National Academy of Sciences of France, but also by the Royal Society of England. In 1756, Bougainville published the second volume of his mathematical research, but this was the end of his career as a mathematician. Bougainville lived an unusually colorful life. In 1754, he enlisted in the army and fought for the independence of the French colonies in Canada. Seven years later he transferred to naval service and in 1764 founded a French colony in the Maldives. In 1766, the French government commissioned Bougainville to organize the first French trip around the world. The purpose of the trip was to search for new lands, but Bougainville himself did not have any definite opinion about the existence of an unknown continent. On the one hand, as he wrote, it is difficult to imagine such an abundance of small islands in the South Pacific without the presence of a southern continent. On the other hand, he believed that if such a land existed, it would already have been discovered. In November 1766, Bougainville set off and after some time met in Rio de Janeiro with his auxiliary ship, on which was the botanist Commerson. This botanist discovered a plant with bright red dense leaves. In honor of his meeting with the head of the expedition, he named this plant bougainvillea. In the South Pacific, Bougainville discovered a number of geographical features, including a strait and an island later named after him. Bougainville's trip around the world made him famous; he became the first Frenchman to circumnavigate the globe. Upon his return to his homeland, he was appointed personal secretary to Louis XV. From 1779 to 1782, Bougainville took part in French naval operations against the British in North America. During the French Revolution, he fled Paris and settled on his estate in Normandy. Despite his well-known commitment to royalism, Bougainville escaped repression, and with Napoleon's rise to power was awarded a senatorship and membership in the Legion of Honor.

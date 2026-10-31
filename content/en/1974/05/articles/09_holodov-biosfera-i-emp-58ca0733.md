@@ -1,0 +1,42 @@
+---
+id: 1974-5-holodov-biosfera-i-emp-58ca0733
+issue: kvant_1974_5
+year: 1974
+number: "5"
+title: Biosphere and EMF
+authors:
+  - Холодов Ю. А.
+rubric: smes
+page_first: 44
+page_last: 44
+page_labels: "42"
+tag: X2TT
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 58823e0e8b71bbcc93b21fe60e4b5d14f095c27475fd372b7013406c69219bfc
+prompt_sha256: draft-1
+translated_from: content/ru/1974/05/articles/09_holodov-biosfera-i-emp-58ca0733.md
+source_content_sha256: 1185ac423ab22223a48f237ab353ba9cc20884b335cedcf5211ab538932d4173
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 42⟧
+
+Faculty at LFTI, where the basis was the boundless enthusiasm of the employees. We all felt responsible to Joffe, whose authority was extremely high. Kurchatov understood this and wanted to ensure the same intensive work at his institute. He has repeatedly expressed the view that we will have to rely not on the personal charm of leaders, but on the importance and magnitude of the problem being solved. In fact, his personal authority was great. As for charm, he also had plenty of it. He himself was not convinced of this, but when this was pointed out to him, he grinned and said: “We’ll see.” Experience has shown that both Kurchatov’s personal charm and his great scientific authority, despite the gravity of the problem that was entrusted to the institute, indeed ensured high intensity and productivity of scientific work. The IAE employees also worked without regard for time, not for fear, but for advice.
+
+Thermonuclear fusion is Kurchatov’s death song. He spent the last days directly in the laboratory, at the console, at the work table, at the thermonuclear installations of our institute and was full of hopes that in the very near future thermonuclear fusion would be practically realized.
+
+It can be argued that Kurchatov projected a happy life. Igor Vasilyevich dealt with the most pressing, most pressing, and most promising scientific issues. He believed in the limitless power of science and infected his employees with this belief. The success of atomic science in our country is still based on this.
+
+Biosphere and EMF
+
+The inventor A.S. Popov once said that the human body does not yet have such a sensory organ that could replace electromagnetic waves. This statement was deciphered as a conclusion about the absence of biological effects of radio waves. Today such a conclusion has only historical interest.
+
+The biosphere, the area of ​​distribution of life on the globe, is subject to the influence of various EMFs (electromagnetic fields), the sources of which are the Earth, the Sun and outer space. All life on Earth grows and develops in a geomagnetic field, the average value of which is about 0.5·10⁻⁴ ml.
+
+Until recently, this fact was considered unimportant. However, the emerging era of space research has put on the agenda the question of a detailed assessment of living conditions on Earth. They found that a decrease in the geomagnetic field to the level of the magnetic field of the Moon,
+
+(end see, p. 63)

@@ -1,0 +1,83 @@
+---
+id: 2015-2-slobodyanin-regionalnyiy-etap-olimpiadyi-imeni-maksvella-d843c73f
+issue: kvant_2015_2
+year: 2015
+number: "2"
+title: Regional stage of the Maxwell Olympics
+authors:
+  - Слободянин В. П.
+rubric: olimpiady
+rubric_sub: Олимпиады
+page_first: 52
+page_last: 52
+page_labels: "50"
+tag: 7XHT
+lang: en
+source: kvant_digital
+extraction: native
+content_sha256: e3e7f687b49cf764d477596cc4d6291224e591db1fb2d27ed432f18afe25a529
+prompt_sha256: draft-1
+translated_from: content/ru/2015/02/articles/05_slobodyanin-regionalnyiy-etap-olimpiadyi-imeni-maksvella-d843c73f.md
+source_content_sha256: f6cc5011c76a60ca190629f7abaccd449903c0a4ef61c204cca6b0658ad9f10b
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 50⟧
+
+KVANT 2015/№2
+
+I chose one child, one mother and one father from three different families and took them for a ride in a sleigh. It turned out that he had exactly 3630 ways to choose the right three people. How many children could there be at this evening? S.Volchenkov
+
+3. The extensions of the medians $AA_{1}, BB_{1}$ and $CC_{1}$ of triangle ABC intersect its circumcircle at points $A_{0}, B_{0}$ and $C_{0}$ respectively. It turned out that the areas of triangles $ABC_{0}, AB_{0} C$ and $A_{0} BC$ are equal. Prove that triangle ABC is equilateral. A. Yakubov 4. See task 4 for grade 10.
+
+Second day
+
+5. The square trinomial f(x) has two different roots. It turned out that for any numbers a and b the inequality is true
+
+(
+
+)
+
+$f a^{2} + b^{2} \ge f ( 2 ab )$. Prove that at least one of the roots of this trinomial is negative. A. Khrabrov
+
+⟦column⟧
+
+6. There is a hemispherical vase covered with a flat lid. There are four identical oranges in a vase, touching the vase, and one grapefruit, touching all four oranges. Is it true that all four points of contact between grapefruit and oranges necessarily lie in the same plane? (All fruits are balls.) L. Emelyanov
+
+7. There are 300 positive numbers placed in a circle. Could it be that each of these numbers, except one, is equal to the difference of its neighbors? S. Berlov
+
+8. Petya wants to write down all possible sequences of 100 natural numbers, each of which contains the number 4 or the number 5 at least once, and any two adjacent terms differ by no more than 2. How many sequences will he have to write down? I. Bogdanov
+
+The publication was prepared by N. Agakhanov, I. Bogdanov, P. Kozhevnikov, O. Podlipsky
+
+Regional stage of the Maxwell Olympics
+
+Theoretical tour
+
+Reference data (may be needed for any of the tasks) Gravity acceleration g = 9.8 m $с^{2}$
+
+Density of wood (pine) $\rho_{д} = 400$ kg $м^{3}$
+
+Air density $\rho_{0} = 1,3$ kg $м^{3}$
+
+Density of water $\rho_{в} = 1000$ kg $м^{3}$
+
+Ice density $\rho_{л} = 917$ kg $м^{3}$
+
+7th grade
+
+Problem 1. The speed of light Experimenter Gluck studied the movement of a sunbeam, which was initially at rest, then moved along a straight line at a constant speed, and at the end of the path froze again. Gluck recorded the bunny's coordinates in the table once a minute:
+
+True, he was distracted several times and missed several measurements (there are dashes in the table). Help the experimenter determine at what moment the bunny began to move. How fast was the bunny moving? How long did he travel? In addition, fill in the blanks in the table. M. Zamyatnin
+
+Problem 2. Which path is longer? For the first third of the journey the car was traveling at a speed of $v_{1}$, and for the last third of the time at a speed of $v_{3}$. On the second section of the path, his speed was equal to the average speed of movement along the entire path. It is known that $v_{1} > v_{3}$. Which section is the shortest and which is the longest? In which area did the car stay the longest and in which area the least? V. Slobodyanin
+
+Problem 3. Box of sugar (1) Cubes of refined sugar are tightly packed in a box on which it is written: “Net weight (m) 500 g, 168 pieces.” The length of the longest edge of the box = 98 mm. Exactly 4 pieces of sugar are placed along the shortest edge of the box. What is the density of refined sugar? Note. “Net” is the mass of the product without taking into account the mass of the packaging (container). S. Karmazin
+
+Problem 4. With one bicycle, a group of tourists of three people went from point A to point B, the distance between them L = 22 km. There are no passing cars. The group has one bicycle at its disposal, which can be ridden by no more than two people at a time. The speed of walking is $v_{0} = 5$ km/h, when riding a bicycle with one person its speed is $v_{1} = 20$ km/h, and when riding with two people it is $v_{2} = 15$ km/h. How should tourists act to get to point B in the minimum time? Find this time. S. Varlamov 8th grade
+
+Problem 1. Equilibrium A plank of mass m and two identical weights of mass 2m each are attached to two blocks (Fig.1) using light threads. The system is in equilibrium. Determine the tension forces of the threads and the forces with which the bar acts on the loads. There is no friction in the axes of the blocks. M. Zamyatin
+
+Problem 2. The unknown in the unknown Experimenter Gluck conducted an interesting experiment on immersing a cube made of an unknown material into a liquid of unknown density (Fig.2). In the tab-

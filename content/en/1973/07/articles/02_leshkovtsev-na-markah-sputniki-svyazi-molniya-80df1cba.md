@@ -1,0 +1,35 @@
+---
+id: 1973-7-leshkovtsev-na-markah-sputniki-svyazi-molniya-80df1cba
+issue: kvant_1973_7
+year: 1973
+number: "7"
+title: The stamps feature Molniya communication satellites.
+authors:
+  - Лешковцев В. А.
+rubric: raznoe
+page_first: 67
+page_last: 67
+tag: 71Q5
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 4065f218ee7b75e16b2ff3a306416dd317ac82f9259405d5dd6b9839cff1af27
+prompt_sha256: draft-1
+translated_from: content/ru/1973/07/articles/02_leshkovtsev-na-markah-sputniki-svyazi-molniya-80df1cba.md
+source_content_sha256: 8b8e9f8676418f02694f3630f098ac88b08746b7ca8436a3636b77620fc9b571
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+ON STAMPS - COMMUNICATION SATELLITES “MOLNIYA”
+
+The successful development of space technology allows artificial earth satellites to serve as communications services. Eight years ago, on April 23, 1965, the first communications satellite, Molniya-1, was launched in the Soviet Union. The satellite was launched into orbit, from which it was “visible” once a day simultaneously from Moscow and Vladivostok during communication sessions lasting more than 9 hours each. At this time, he relayed television broadcasts (black and white and color), telephone conversations, telegraphic and phototelegraphic messages. The launch of this satellite is dedicated to the stamps of the USSR, Bulgaria, Hungary and Mongolia depicted here.
+
+Since then, launches of artificial Molniya satellites have been carried out regularly according to a special program. The Soviet stamp shown here shows Sputnik IV of the series, launched on October 20, 1966.
+
+By the fiftieth anniversary of the Great October Socialist Republic, a network of special “Orbita” stations began operating in our country, receiving Central Television broadcasts in more than 20 separate regions of the Soviet Union. The creation of the Orbita system increased the number of eritels of Central Television by 20 million people.
+
+We present here a postal block of three stamps dedicated to the creation of this system.

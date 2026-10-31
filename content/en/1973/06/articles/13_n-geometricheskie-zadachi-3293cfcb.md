@@ -1,0 +1,64 @@
+---
+id: 1973-6-n-geometricheskie-zadachi-3293cfcb
+issue: kvant_1973_6
+year: 1973
+number: "6"
+title: Geometric problems
+authors:
+  - Н. В.
+rubric: smes
+page_first: 59
+page_last: 59
+page_labels: "57"
+tag: ZZVW
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: e7a6c1d27cb4d9846cd9a91a66894bf8e6592601b32660bbd23d091c26982cb2
+prompt_sha256: draft-1
+translated_from: content/ru/1973/06/articles/13_n-geometricheskie-zadachi-3293cfcb.md
+source_content_sha256: 4e00c9d2252091c874a36721efecab0c69dd0a1dbd6bd58fcfaaf63666015477
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 57⟧
+
+Task 10. Where are the complex numbers z also that the inequality
+$$|z+2|a^2-2|z+2|a+1>0$$
+(7) is true for all real values ​​of a?
+
+Solution. If $z=-2$, then inequality (7) takes the form $1>0$ and, obviously, is valid for all real values ​​of a. If $z\neq-2$, then (7) is an inequality of the second degree relative to a. Since in this case $|z+2|>0$, then this inequality will be valid for all a in those and only in those cases when the discriminant of the quadratic trinomial is negative, that is, if
+$$|z+2|^2-|z+2|<0.$$
+From here we immediately obtain the double inequality
+$$0<|z+2|<1.$$
+Taking into account that even for $|z+2|=0$ inequality (7) is satisfied for all a, we conclude that the required complex numbers will fill the interior of a circle of radius 1 with center at the point $(-2, 0)$.
+
+Exercises
+1. (MSU, Geological Faculty, 1961). For what real values ​​of x and y are the numbers $-3+ix^2y$ and $x^2+y+4i$ represented by points symmetrical about the abscissa axis?
+2. (MSU, Faculty of Economics, 1970). Where are the complex numbers z that satisfy the condition $|z|-z=1+2i$?
+Indicate where complex numbers z are located that satisfy the following relation:
+3. $|i-1-2z| \geq 9$;
+4. $|z-i|=|z+i|=|z-1+i|$;
+5. $|z-2|^2+|z+2|^2=26$;
+6. $|z+3\pi-\pi\sqrt{3}i|=\pi$, arg $z=\frac{5}{6}\pi$.
+7. (MSU, Faculty of Psychology, 1966). Where are the complex numbers z for which
+$$\log_{1/2}|z-2|>\log_{1/2}|z|$$
+8. (MSU, Faculty of Physiology, 1971). Where are the complex numbers z for which
+$$\log_2(1+|z^2-i|)+\log_{16}\frac{1}{(1+|z^2+i|)^4}=0$$
+
+Geometric problems
+
+1. Find the number of triangles whose sides are natural numbers not exceeding 2.
+2. Find the number of triangles whose sides are natural numbers not exceeding 20 and whose area is an integer.
+3. Prove that the number
+$$\frac{4p^3+9p^2+5p}{6}$$
+integer for natural p.
+4*. Find the number of triangles whose sides are natural numbers not exceeding 20 and whose area is an integer.
+5**. Find the number of triangles whose sides are natural numbers not exceeding 20 and whose area is an integer.
+6. Prove that any polygon has at least two sides whose relatives are greater than or equal to 1 and less than 2.
+7. The points P, Q, R, S divide the sides of the quadrilateral ABCD such that $AP:PB=DQ:QC=m$ and $AR:RD=BS:SC=n$.
+8. Prove that the segments PQ and RS divide each other in the same ratio.
+
+N.V.

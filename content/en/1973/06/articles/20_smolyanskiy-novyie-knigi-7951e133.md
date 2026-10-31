@@ -1,0 +1,72 @@
+---
+id: 1973-6-smolyanskiy-novyie-knigi-7951e133
+issue: kvant_1973_6
+year: 1973
+number: "6"
+title: New books
+authors:
+  - Смолянский М. Л.
+rubric: raznoe
+rubric_sub: Разное
+page_first: 68
+page_last: 68
+page_labels: "66"
+tag: CAI7
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 5ffc3a135468a9a90bd1f7626197517d2f0b80cc48883ebbc89f9149ecee5b5e
+prompt_sha256: draft-1
+translated_from: content/ru/1973/06/articles/20_smolyanskiy-novyie-knigi-7951e133.md
+source_content_sha256: eb3822b2ea910e01a19d147f1588b40461887f1b393e2966bb83ea8098eb171c
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 66⟧
+
+New books
+
+In this issue we continue to publish English on books published in 1973 and of interest to our readers.
+
+In the 111th quarter of 1973, the following books will be published (orders can be sent through Book by Mail stores):
+
+**Mathematics**
+
+**Nuka Publishing House**
+
+1. Kirillov A. A. Limits. (Volume 5 l., circulation 100,000 copies, price 15 kopecks.)
+The book examines one of the most difficult sections of the school curriculum - the theory of limits.
+
+Using specific, well-chosen examples, the author clearly and very clearly explains this pillar section of the program.
+
+The book is intended for self-study in mathematics for schoolchildren in grades 9-10. It can also be used by mathematics teachers for out-of-class work.
+
+2. Panov D. Yu. Counting line. (Volume 11 l., circulation 200,000 copies, price 39 kopecks.)
+Nowadays, every student needs to use a slide rule wisely in a wide variety of cases.
+
+The first part of the book in a simple and extremely visual form teaches the initial product of the simplest calculation using a slide rule (which, however, is quite suitable for school purposes).
+
+The second part of the book serves a more specific purpose and is intended for readers who already know how to count on a ruler.
+
+The book is intended for a wide range of readers.
+
+3. Solodovnikov A. S., Kantor I. L. Hypercomplex numbers. (Volume 7 l., circulation 35,000 copies, price 23 kopecks.)
+The authors of the book in a popular form talk about one of the generalized complete numbers - hypercomplete numbers.
+
+The book is intended for high school students; it is also of interest to mathematics teachers teaching elective classes.
+
+4. Veskin I. M. Division of a segment in this relation. (Volume 3 l., circulation 50,000 copies, price 10 kopecks.)
+This book outlines some of the issues related to the segment division problem in this regard. In the process of presenting this issue, the author introduces the reader to some issues of affinity and simple geometry.
+
+The book is intended for students in grades 8-10. It can also be useful for mathematics teachers when conducting extracurricular activities.
+
+**Publishing house "Prosveshcheniye"**
+
+5. Vilenkin N. Ya., Shvartsburg S. I. Mathematical analysis. A manual for mathematics school students. (Volume 31.7 l., circulation 100,000 copies, price 1 rub. 10 k.)
+The book is intended primarily for students of physics and mathematics schools. In a fairly accessible form, but using theoretical multi-state concepts, the authors present the basic concepts of mathematical analysis presented in the high school curriculum. When presenting materials, the authors make extensive use of visual representations.
+
+The book is a useful addition to existing physics textbooks. It is intended for a wide range of readers: school students, students of technical self-education, and is of great interest for teaching physics in high school.
+
+8. Bishop R. Kolbanaya. (Volume 10 l., circulation 15,000 copies, price 70 kopecks.)

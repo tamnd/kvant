@@ -1,0 +1,59 @@
+---
+id: 2014-3-zadachi-374e53f9
+issue: kvant_2014_3
+year: 2014
+number: "3"
+title: Tasks
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 29
+page_last: 29
+page_labels: "27"
+tag: ZC15
+lang: en
+source: kvant_digital
+extraction: native
+content_sha256: e90b93fabfb027ba06a7759a3c82925c736b0085bba2510a6134b9599640c33d
+prompt_sha256: draft-1
+translated_from: content/ru/2014/03/articles/02_zadachi-374e53f9.md
+source_content_sha256: ab0755d5ec53cf0e4bd4150a12ebbdd3e01587d554022fba7a01dc6cb8fac481
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 27⟧
+
+"QUANTUM"
+
+FOR
+
+YOUNGER
+
+SCHOOLCHILDREN
+
+Tasks
+
+1.
+
+Masha wanted to buy a bun that cost a whole number of rubles. She couldn’t pay exactly and prepared as little money as possible, but enough for a bun. As a result, she gave the saleswoman 9 rubles and received change. How much did the bun cost? S. Ivanov, B. Druzhinin
+
+⟦column⟧
+
+4. Petya wants to come up with an analogue of the game “stone -
+
+2.
+
+Cyclists Alyosha, Borya and Vasya start simultaneously from the same point on the circular track (the speed of each is constant). Alyosha and Borya were the first to drive past each other after the start (in one direction or in different directions - unknown). It is known that scissors are paper” for 10 objects. It must fulfill two conditions: about any two objects it can be said which one hits whom; any two objects are equal (i.e. each object beats the same number of objects). Will Petya be able to come up with such a game? G. Zhukov
+
+5.
+
+Illustrations by D. Grishukova
+
+Alyosha drives clockwise, and Vasya drives counterclockwise. In what direction is Borya going? B.Frenkin
+
+3. There were several pillars in a row from left to right, with a wire stretched between each two adjacent ones. The wind blew, all the poles fell to the left, but the wires did not break and were stretched again. Prove that initially all the wires were parallel to the ground. S. Dorichenko
+
+These problems are primarily intended for students in grades 6–8.
+
+On Dunno's old typewriter, the same amount of ink is always consumed to print each specific number. Dunno says that on this typewriter it is impossible to print two natural numbers, one 9 times larger than the other, using the same amount of ink for each number. Can we say that he is probably wrong? E. Bakaev

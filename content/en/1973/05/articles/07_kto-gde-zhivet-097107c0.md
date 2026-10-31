@@ -1,0 +1,58 @@
+---
+id: 1973-5-kto-gde-zhivet-097107c0
+issue: kvant_1973_5
+year: 1973
+number: "5"
+title: Who lives where?
+rubric: smes
+page_first: 39
+page_last: 39
+page_labels: "37"
+tag: 9ZXJ
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 1c99dc3b831a72de8fa8d983219cfd0e898d8e982487acd7146240dac2cafdfc
+prompt_sha256: draft-1
+translated_from: content/ru/1973/05/articles/07_kto-gde-zhivet-097107c0.md
+source_content_sha256: 43d81ab102adf4e15f91c49d8b4adb97de0edae1a940ed5dfdbca06defa522d4
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 37⟧
+
+Dividing both sides of the equality by $\Delta t$, we get
+
+$$a \left( \frac{M}{R} \right)^{\frac{\alpha+1}{2}} = \frac{1}{2} \gamma \frac{Mm}{R^2} \frac{\Delta R}{\Delta t},$$
+
+where $\frac{\Delta R}{\Delta t}$ is the speed of approach of the satellite to the Earth - a constant value. Let us analyze the resulting equality. It must execute for any values ​​of the variable $R$. To do this, it is necessary that the exponents of $R$ in both sides of the equality are the same, that is
+
+$$-\left( \frac{\alpha+1}{2} \right) = -2,$$
+
+whence $\alpha = 3$.
+
+F182. Estimate how high you could jump on the Moon.
+
+This problem is difficult to solve strictly.
+
+Most of the readers who sent us a solution to this problem reasoned this way. When jumping on Earth, a person’s center of gravity rises to a height of $h_3$. This means that the person does work $A = mgh_3$. The same work can be done by a person jumping on the Moon. But on the Moon, the acceleration due to gravity is $1/6$ part of the earth's: $g_{\text{л}} = \frac{1}{6} g_3$.
+
+Pose from equality of work
+
+$$mg_{\text{л}}h_{\text{л}} = mg_3h_3$$
+
+it follows that on the Moon a person can jump to a height 6 times greater than on Earth ($h_{\text{л}} = h_3g_3/g_{\text{л}}$). If on Earth, when jumping, a person’s center of gravity rises to a height of $h' = 60$ cm, then on the Moon you can jump to a height of 3.6 m.
+
+This decision, however, does not take into account an essential detail. Let's remember how we jump on Earth: we squat down, then sharply straighten our legs. Let a person lower his center of gravity by $h'' = 50$ cm, and, jumping, raise it by $h' = 60$ cm (compared to the position of the center of gravity when a person simply stands) on Earth and to a height of $h$ on the Moon. Let us assume that during a jump a person does the same work on the Earth and on the Moon*), that is
+
+$$mg_3(h' + h'') = mg_{\text{л}}(h'' + h).$$
+
+From here
+
+$$h = 6h' + 5h'' = 6,1 \text{ м.}$$
+
+I. Sh. Slobodetsky
+
+*) This is equivalent to the assumption that the same force acts on the body from the legs.

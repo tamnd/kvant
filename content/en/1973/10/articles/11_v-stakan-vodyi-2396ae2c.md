@@ -1,0 +1,50 @@
+---
+id: 1973-10-v-stakan-vodyi-2396ae2c
+issue: kvant_1973_10
+year: 1973
+number: "10"
+title: Glass of water
+authors:
+  - В. Б.
+rubric: smes
+page_first: 43
+page_last: 43
+page_labels: "41"
+tag: RO6H
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: c54315c7ddf20762f3a943bfa499295ee4c4254bb4c32845fdb630bcb68e6c98
+prompt_sha256: draft-1
+translated_from: content/ru/1973/10/articles/11_v-stakan-vodyi-2396ae2c.md
+source_content_sha256: ba1d90c586338149585c371e364d3578ff5f0cc404a17472fa578dc53b48d951
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 41⟧
+
+Surface tension
+
+$$\alpha = \frac{W}{S_1} = \frac{W' S_{CB}}{2S} = \frac{W' N_{CB}}{2} = \frac{3 \cdot 10^{-19} \cdot 10^{19}}{2} = 1,5 \left( \frac{\partial \chi}{\partial m^2} \right).$$
+
+The NaCl crystal has $\alpha \approx 0,35 \frac{\partial \chi}{\partial m^2}$.
+
+By considering the interaction between ions, we were able to estimate the order of magnitude of the tensile strength, elasticity model, binding energy, and surface tension coefficient. Thus, we are convinced that the interaction forces between the ions of the crystal lattice, that is, the forces acting in the “microworld,” determine the macroscopic properties of solids.
+
+You can also do the opposite - using the found experimental characteristics of the mechanical properties of crystals, determine the magnitude of the force of mechanical interaction. Estimate, for example, the magnitude of the mechanical interaction force from the known value of the elasticity model $E = 10^{11} \pi / m^2$.
+
+The estimates we made were made under the assumption that the crystal in question has an ideal lattice structure. In solution crystals, the regularity of the lattice is disrupted. Taking this fact into account is an important condition for theoretical calculations of the characteristics of the physical properties of crystals. Some of the estimates we made for ideal crystals significantly diverge from the data obtained from experiments.
+
+Glass of water
+
+Which glass is stable - full to the brim of water or half empty?
+
+If you have two objects that are exactly the same in shape, then the one with the lower center of gravity will be more stable. You probably know this. Therefore, to make a glass filled with water stable, it is enough to take a few sips from it. In this case, the center of gravity, which is equal to being in the center of the glass, will lower. How much water should be left in a glass so that its position is most stable?
+
+After all, if you drink all the water, then the center of gravity will be in the same place (we will consider the bottom weightless). This means that at some point the center of gravity occupies the lowest position. How, knowing all the empty and full glasses, determine what the water level should be in the most stable glass?
+
+Those who are familiar with higher mathematics have already reported that to solve it, it is enough to express the height of the center of gravity of the glass through the position of the water level in it, and then, continuing this function, equate the derivative to zero and thus find the minimum. However, there is a simpler solution to this problem without any higher mathematics. Try to find it.
+
+V.B.

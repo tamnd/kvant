@@ -1,0 +1,42 @@
+---
+id: 1974-2-sofizm-bc04837b
+issue: kvant_1974_2
+year: 1974
+number: "2"
+title: Sophism
+rubric: smes
+page_first: 62
+page_last: 62
+page_labels: "60"
+tag: KRVI
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 38ee26a24b84aa81646d4dcb3555e27d11a13f0a3346f61fb535818118e08127
+prompt_sha256: draft-1
+translated_from: content/ru/1974/02/articles/17_sofizm-bc04837b.md
+source_content_sha256: e4094e79a9a89f2f30cb8537a928a5c724fe8508c8af166153b694a6f6c39189
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 60⟧
+
+Fig. 3.
+
+Fig. 4.
+
+ryaks, climbers and magicians on the stage.
+
+So, for example, a topological analysis of the situation created for two mischievous people (Fig. 3) shows that they can distribute without cutting the cords or untying the knots on their wrists.
+
+But how can this be done practically? It is impossible to remove the cord through your hands.
+
+Task 4. Let’s assume that the mischief makers have gotten away with it. The cords remained tied to each of their hands. Let them now tie an ordinary knot on their cords, without untying them from their hands. It's possible.
+
+Sophism
+
+A 7th grade student announces to his classmate a documentary “theorem”: “The square root of any natural number is an irrational number.” He reasons like this. “Let given natural numbers $N$, and $\sqrt{N} = \frac{p}{q}$, where $p$ and $q$ are natural numbers. Let the fraction $\frac{p}{q}$ be an irreducible fraction (after all, any fraction can be reduced until all common divisors of the numerator and the value are canceled). Then $\frac{p^2}{q^2} = N$. On the left side of the feet there is an irreducible fraction (after all, $p$ and $q$ do not have common divisors), and on the right side of the equation there is an integer. But a fractional number cannot be equal to a whole number. This means that for any natural number $N$ the number $\sqrt{N}$ is not rational, which means that it is irrational, which is what we needed to prove.”
+
+Where was the mistake made?

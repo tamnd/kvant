@@ -1,0 +1,72 @@
+---
+id: 1974-3-petrova-novyie-knigi-po-fizike-a9123567
+issue: kvant_1974_3
+year: 1974
+number: "3"
+title: '[New books on physics]'
+authors:
+  - Петрова Т. С.
+rubric: raznoe
+page_first: 68
+page_last: 68
+page_labels: "66"
+tag: 8A20
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: b0ef042497a7abbb4bf130c42489907f3c120509a6629d70a5fdf583dba8ec70
+prompt_sha256: draft-1
+translated_from: content/ru/1974/03/articles/25_petrova-novyie-knigi-po-fizike-a9123567.md
+source_content_sha256: cf68395fd4840bbae92b4818ba16b5f713e52fadc2320a575f5775b9324bb187
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 66⟧
+
+New books
+
+In 1974, we continued publishing the “New Books” section. In this section we will publish short annotations on books that have already been published and on books that were published in 1974, and present them of interest to our readers. Due to numerous requests from readers, we will also publish annotations on some books published by the publishing houses “Young Vardia”, “Children’s Literature”, “World” and “Knowledge”, and not directly related to mathematics and physics.
+
+Orders for books must be placed simultaneously through specialized sections or the Book by Mail store.
+In this issue we publish summaries of books published in the 1st quarter of 1974.
+
+Mathematics
+
+Publishing house "Science"
+1. Boltyansky V. G., Sidorov Yu. V., Shabunn M. I., Lectures and problems in elementary mathematics. Volume 28 l., circulation 200,000 copies, price 87 kopecks. Edition 2nd.
+The book is intended primarily for self-study at universities. The theoretical material presented in the book is devoted to the most difficult issues of the school algebra curriculum and elementary functions. A large number of problems (often of increased difficulty) with detailed solutions.
+
+The book is intended for schoolchildren in grades 9-10. It will also be useful to mathematics teachers and students of pedagogical schools.
+
+2. Vasilyev N.V., Molchanov S.A., Rosengal A.L., Savin A.P., Mathematics perfect (geometry). Volume 6 l., circulation 200,000 copies, price 16 kopecks.
+
+This book is a logical continuation of the previously published one - “Mathematical Improvers” (arithmetic and algebra). It presents both problems in traditional sections of geometry and problems of the “Olympic type”. Detailed solutions or instructions are given for problems of increased difficulty.
+
+The book is intended for schoolchildren in grades 7–10, as well as teachers leading math classes.
+
+3. Perelman Ya. I. Living mathematics. Volume 8 l., circulation 200,000 copies, price 28 kopecks. Edition 10th.
+The author of the book is Yakov Isidorovich Perelman, one of the outstanding popularizers of science. Both schoolchildren in grades 6-10 and older readers will enjoy reading it.
+
+Publishing house "Zannye"
+4. Schrader Yu. A., Conversations about semiotics. Volume 3 l., circulation 50,000 copies, price 10 kopecks.
+The author talks interestingly and popularly about a new branch of knowledge - semiotics, which is closely related to mathematical linguistics and mathematical logic.
+
+The book is intended for the widest range of students and those preparing for university entrance exams on their own.
+
+M. L. Smolyansky
+
+Physics
+
+Publishing house "Science"
+1. Novozhilov Yu. V., Elementary clocks. Volume 15 l., circulation 300,000 copies, price 50 kopecks. Edition 3rd.
+The author sets out the basic ideas of one of the most interesting branches of modern physics—particle physics. The popular presentation and the absence of complex mathematical derivations make it accessible to schoolchildren in grades 9-10.
+
+Publishing house "Mir"
+2. Kok U., Visible sound. Volume 5 l., circulation 50,000 copies, price 26 kopecks.
+The book talks about methods of recording sound, the sound structure of speech and music. Much attention is paid to sound holography - obtaining an image using illumination of a sound wave.
+
+The book is available for schoolchildren in grades 8-10.
+3. Ward R.R., Living Clock. Volume 15 l., circulation 50,000 copies, price 76 kopecks.
+The book is related to a new field of modern geophysics - biorhythmology. After reading it, you learned what an “internal clock” is.

@@ -1,0 +1,49 @@
+---
+id: 1973-11-znachki-posvyaschennyie-mezhdunarodnyim-matematicheskim-olimpiadam-95e8d62d
+issue: kvant_1973_11
+year: 1973
+number: "11"
+title: Badges dedicated to international mathematical olympiads
+rubric: raznoe
+page_first: 84
+page_last: 84
+tag: XWH1
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 47892a8bda558af22a6b8fe5075ccfd07e3dfd96bd76d4b198835f54379b47f6
+prompt_sha256: draft-1
+translated_from: content/ru/1973/11/articles/01_znachki-posvyaschennyie-mezhdunarodnyim-matematicheskim-olimpiadam-95e8d62d.md
+source_content_sha256: 45dc3f02e31c56516911adcbe165e6369710b9c954d48addf8ea3e667e553e9e
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+ICONS,
+DEDICATED
+INTERNATIONAL
+MATHEMATICAL
+OLYMPIDS
+
+In honor of the International Mathematical Olympiad, special badges are issued that are awarded to all Olympiad participants.
+
+figure 1 shows the badge of the Romanian National Olympiad, awarded by a participant in the 1st and 2nd International Mathematical Olympiads.
+
+On figure 2 there is a sign dedicated to the IV Olympiad. (No special badge was issued for the III Olympiad).
+
+At figure 3 there is a sign dedicated to the VI Olympiad. (The special sign of the V Olympiad has not been issued).
+
+The badge issued for the VII Olympiad is shown on figure 4.
+
+figure 5 shows a badge issued for the VIII Olympiad.
+
+figure 6 shows a badge issued for the IX Olympiad.
+
+The X Olympiad sign is shown on figure 7.
+
+On figure 8, 9, 10 the corresponding icons of XI, XII and XIII MMOs are shown.
+
+Special signs for the XIV and XV Olympiads were not issued.

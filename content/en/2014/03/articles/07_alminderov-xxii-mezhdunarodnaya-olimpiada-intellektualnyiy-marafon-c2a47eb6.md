@@ -1,0 +1,46 @@
+---
+id: 2014-3-alminderov-xxii-mezhdunarodnaya-olimpiada-intellektualnyiy-marafon-c2a47eb6
+issue: kvant_2014_3
+year: 2014
+number: "3"
+title: XXII International Olympiad “Intellectual Marathon”
+authors:
+  - Альминдеров В. В. и др.
+rubric: olimpiady
+rubric_sub: Олимпиады
+page_first: 54
+page_last: 54
+tag: S4HE
+lang: en
+source: kvant_digital
+extraction: native
+content_sha256: 836d68d5aabd60c0c6466ca317549cb3cb01ca102d6e2518cb18ee38bcefbff4
+prompt_sha256: draft-1
+translated_from: content/ru/2014/03/articles/07_alminderov-xxii-mezhdunarodnaya-olimpiada-intellektualnyiy-marafon-c2a47eb6.md
+source_content_sha256: 66ad17223ecc6ab7bc2e7b49d94c5a54cbb6ba0759c15eec95029b7e8ce45b45
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+OLYMPICS
+
+XXII International Olympiad “Intellectual Marathon”
+
+International Intelligence Club (IIC) “Gluon” within the framework of the international program “Children. Intelligence. Creativity" with the participation of M.V. Lomonosov Moscow State University, the Institute of Pedagogical Research of Giftedness of the Russian Academy of Education (Novosibirsk) and with the support of the Dynasty Non-profit Program Fund, the companies Cyril and Methodius, Physikon, 1C, the Publishing House "First of September" and magazines «Kvant», "Potential" held the XXII International Test Rating Olympiad "Intellectual Marathon". The Olympics took place from October 12 to October 19, 2013 in Barcelona (Spain) on the territory of the cozy Golden Palace hotel, which is located on the shores of the Mediterranean Sea. Schoolchildren from different regions of Russia and Kazakhstan came to the Olympiad. Representatives of Spain, Great Britain and Poland were observers. Gifted schoolchildren who showed interest in fundamental sciences competed in team and individual rounds in mathematics, physics, and the history of scientific ideas and discoveries. For the eleventh time, schoolchildren interested in ecology and biology participated in the Olympiad, competing in a team tour in the history of scientific ideas and discoveries and in individual tours in biology and ecology. Teachers and psychologists gathered for their scientific session for the fifth time. As part of the Olympiad, the II International Mathematical Tournament named after M.V. Lomonosov for students in grades 5–8 (Olympic reserve of the Intellectual Marathon Olympiad) was also held. The number of participants has increased compared to last year, which intensified the intensity of intellectual competition among junior schoolchildren. The absolute winner of the Intellectual Marathon 2013 Olympiad in fundamental sciences in the team competition was the team from Lyceum 4 from Taganrog (Russia). She was awarded the main prize of the competition - the Super Cup. The team was also the best in the tour on the history of scientific ideas and discoveries and the winner in the tours in mathematics and physics. Second place in the overall standings was taken by the team of the Regional Center for Additional Education of Gifted Children from Rostov-on-Don (Russia). She also took first place in mathematics, second place in history
+
+⟦column⟧
+
+scientific ideas and discoveries and the third in physics. The team was awarded a large cup for second place in the overall standings and corresponding diplomas for success in team competitions. The team from Lyceum 2 from Almetyevsk (Russia) took third place. She also took first place in physics. She was presented with a cup and a diploma. In individual competitions, the absolute winner of the Olympiad was Bulat Ibragimov, a student of Lyceum 2 from Almetyevsk. He was awarded a large gold medal and a small silver medal in physics. The second prize-winner in the overall standings was Kirill Zaruba (Lyceum 4, Taganrog). He received a large silver medal and a small gold medal for first place in physics. Yulia Shenshchina (Lyceum 4, Taganrog) won the big bronze medal in the overall standings. Oleg Klimenko (Lyceum 13, Rostov-on-Don) was awarded a small gold medal in mathematics, Kamil Lotfullin (Lyceum 2, Almetyevsk) received a small silver medal in mathematics and Ruslan Suprunov (school 9, Gukovo) received a small bronze medal in mathematics. Dmitry Kisel (Lyceum 4, Taganrog) was awarded a small bronze medal in physics. At the II International Mathematical Tournament named after M.V. Lomonosov among students of grades 7–8, the winner was Roman Tynyanko (Regional Center for Additional Education of Gifted Children, Rostov-on-Don). The winners were Vladislav Akavets (Lyceum “Classical”, Rostov-on-Don), Mikhail Borisov (Lyceum 24, Volgodonsk), Dinasyl Koilybay (NIS, Aktobe, Kazakhstan). Among students in grades 5–6, the winner of the tournament was Evgeniy Primak (Lyceum “Classical”, Rostov-on-Don). The winners were Stepan Shelepov, Arsen Dzhukusov, Timur Sarsenbaev, Aisha Shen (team Keleshek, Almaty, Kazakhstan). All winners and runners-up received various gifts and prizes from the organizers and sponsors of the Olympiad. The International Intellectual Club "Gluon" invites regional centers, schools, lyceums and gymnasiums working with gifted children to take part in the XXIII International Olympiad "Intellectual Marathon", which will be held in October 2014 in Morocco. Send applications for participation to the address: 115522 Russia, Moscow, Proletarsky Prospekt, 15/6, building 2, MIC "Gluon" Phone: (495)517-8014, fax: (495)396-8227 E-mail: gluon@yandex.ru Website: http:www.gluon.ru
+
+OBJECTIVES OF THE OLYMPIADS IN BASIC SCIENCES
+
+Oral team round
+
+Mathematics
+
+Team tour of the Physics Olympiad
+
+1. Over 2 years, the plant reduced production output by 51%. Every year he reduced it by the same percentage. Which one? 2. Cut the square into 3 parts, from which you can form an acute unequal triangle.

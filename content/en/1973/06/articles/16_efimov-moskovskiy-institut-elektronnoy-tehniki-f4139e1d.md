@@ -1,0 +1,85 @@
+---
+id: 1973-6-efimov-moskovskiy-institut-elektronnoy-tehniki-f4139e1d
+issue: kvant_1973_6
+year: 1973
+number: "6"
+title: Moscow Institute of Electronic Technology
+authors:
+  - Ефимов А. В.
+rubric: raznoe
+rubric_sub: Разное
+page_first: 62
+page_last: 62
+page_labels: "60"
+tag: 5LQI
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 91c9fd04569b54f15a8d08485a0b70b93a17b073246ef7b9553ccbc06b38a46c
+prompt_sha256: draft-1
+translated_from: content/ru/1973/06/articles/16_efimov-moskovskiy-institut-elektronnoy-tehniki-f4139e1d.md
+source_content_sha256: 5816eb5c92793d8b0b01e92ab0b4cb7909609bed12fa48e45b65cfb669a35e8a
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 60⟧
+
+Physics
+
+Option 1
+
+1. What are the phenomena of differentiation and interference?
+
+2. A conductor 10 cm long is moved in a uniform magnetic field with an induction of 0.1 m² so that it makes an angle of 60° with the direction of the field. With what acceleration must the conductor be moved so that the potential at the ends of the conductor increases uniformly by 1 V in 1 s?
+
+3. What energy must a proton have in order to approach the nucleus of a nitrogen atom at a distance of 10⁻¹⁵ m? The charge of the electron is 1.6 · 10⁻¹⁹ k, the serial number of nitrogen in the periodic table is 7, ε₀ = 8.85 · 10⁻¹² φ/m.
+
+4. At 0° C, a glass flask contains 680 e of mercury, and at 100° C - 670 e of mercury. Determine the coefficient of linear expansion of glass. The coefficient of volumetric expansion of mercury is 0.00018 εrad⁻¹.
+
+5. In the last second of free fall, the body traveled twice as far as in the previous second. From what height did the body fall? Draw a graph of speed versus time and indicate the paths being considered on it.
+
+R. N. Molodezhnikova, I. I. Semenov
+
+Moscow Institute of Electronic Technology
+
+The Moscow Institute of Electronic Technology (MIET) is a university with advanced physics and mathematics training. At the main faculties of the institute, the course of higher mathematics is close to the mathematics course at the Faculty of Physics of Moscow State University and is almost twice the volume of the mathematics course taught in technical schools. At entrance exams, mathematics is a major subject, and LIST applicants who receive a grade of “five” in mathematics exams (written and oral) are admitted to the institute without further examinations.
+
+The written exam in mathematics will take four hours to answer, the options for the written exam consists of five problems, with two of them in algebra, two in trionometry and one geometric problem. Each option must have an example for solving an inequality. These problems are selected so that they can be solved only with the help of methods and techniques that are taught to students in high school. However, it is required that in the solution process all actions are justified and the necessary studies are carried out on the quantities included both in the initial data of the problems and in their solutions.
+
+The ticket for the oral exam includes two theoretical questions (algebra and geometry); Each applicant is offered a number of examples (usually at least three) on constructing graphs, solving algebraic and trionometric equations and inequalities, on the properties of elementary functions, on complex numbers or on other sections of the program.
+
+Currently, most universities in the country, including MIET, offer correspondence and evening preparatory courses and organize lecture series on university preparation. About 2,300 people study in correspondence and evening preparatory courses at our institute. Students of correspondence courses can receive services or written consultations, and in evening courses they can attend lectures and practical classes. They receive methodological literature and complete test assignments.
+
+In conclusion, we present two options for the entrance exams to MIET in 1972.
+
+Option 1
+
+1. Solve inequality
+$$\log_2 x \leq \sqrt{\log_x (2x^3)}$$
+
+2. It is known that the sum of the first n terms of a certain number sequence for any n is expressed by the formula
+$$S_n = 5 n^2 - 2 n$$
+
+Prove that this sequence is an arithmetic progression and find its 20th term.
+
+3. Solve the equation
+$$2 \lg 2 x + \lg 3 x = \lg 5 x$$
+
+4. Check equation
+$$\cos (2\arctg 2) - \sin (4\arctg 3) = \frac{9}{25}$$
+
+5. Given an equilateral triangle with base 2a and height h. A circle is inscribed in it and a tangent is drawn to it, parallel to the base. Find the radius of the circle and the length of the tangent segment between the sides of the triangle.
+
+Option 2
+
+1. Solve system of equations
+$$|z + 1 - i| = |3 + 2 i - z| = |z + i|,$$
+where z = x + iy is a complex number.
+
+2. For what x and do the numbers log 2, log (3^x - 1) and log (3^x + 3), taken in the indicated order, form an arithmetic progression?
+
+3. Solve the equation
+$$4 \log_16 \cos 2 x + 2 \log_4 \sin x + \log_2 \cos x + 3 < 0,$$
+if 0 < x < π/4.
