@@ -1,0 +1,35 @@
+---
+id: 1978-3-zadachi-368e8a07
+issue: kvant_1978_3
+year: 1978
+number: "3"
+title: Bài toán
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 43
+page_last: 43
+page_labels: "41"
+tag: USV6
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 44d7407d6848de3b899e18b8c328102e4b39fcd5345609c783fde42b23898aab
+prompt_sha256: draft-1
+translated_from: content/ru/1978/03/articles/13_zadachi-368e8a07.md
+source_content_sha256: 371039eed20eb8a3d2005c0985a2e3e2ec3012282b90f262914d97be649729d1
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 41⟧
+
+Nhiệm vụ
+
+1. Người làm bánh có bao nhiêu cái bánh? Đáp số đóng vai trò là số "nhiều" nhất có thể có trong ví dụ hiển thị trong hình.
+
+2. Độ tuổi trung bình của 11 cầu thủ trong đội bóng là 22 tuổi. Trong trận đấu, một cầu thủ đã bị thương và phải rời sân. Độ tuổi trung bình của các cầu thủ còn lại trên sân là 21 tuổi. Cầu thủ bóng đá bị chấn thương bao nhiêu tuổi?
+
+3. Từ tám đầu hình chữ nhật có kích thước 2×4 và sáu đầu hình chữ nhật có kích thước 2×3, Lenya đã gấp một hình vuông có kích thước 10×10 (xem hình). Sau khi quan sát hình vuông này một cách cẩn thận, ông phát hiện ra rằng trong hai trường hợp, các cạnh của các đầu hình chữ nhật này tạo thành các đoạn nối các cạnh đối diện của hình vuông. Điều này có vẻ xấu đối với Lena, và anh quyết định thử ghép cùng một hình vuông từ mười bốn đầu hình chữ nhật này lại với nhau, nhưng sao cho không có những đoạn như vậy. Tuy nhiên, anh không thể làm điều này. Giúp Lena đi các bạn!
+
+4. Tập trung vào vấn đề. Lấy một số có nhiều chữ số trong đó tất cả các chữ số đều khác nhau. Lấy số thứ hai, được viết bằng cùng các chữ số (theo bất kỳ thứ tự nào khác). Trừ số nhỏ hơn từ số lớn hơn. Kết hợp bất kỳ chữ số nào khác 0 của hiệu vào một vòng tròn và đưa ra dự đoán về tổng của các chữ số còn lại (nếu hiệu là số có hai chữ số hoặc một chữ số thì nêu chữ số còn lại hoặc số 0 nếu thích hợp). Người đoán “đoán” số được khoanh tròn. Anh ấy làm điều đó bằng cách nào?

@@ -1,0 +1,77 @@
+---
+id: 1978-6-ovchinnikov-shadrin-moskovskiy-gosudarstvennyiy-pedagogicheskiy-institut-im-v-i-lenina-fizicheskiy-fakultet-efde4da9
+issue: kvant_1978_6
+year: 1978
+number: "6"
+title: Học viện sư phạm quốc gia Moscow được đặt theo tên. V. I. Lênin (Khoa Vật lý)
+authors:
+  - Овчинников О. Ю.
+  - Шадрин Г. А.
+rubric: ekzamenatsionnye-materialy
+page_first: 78
+page_last: 78
+page_labels: "76"
+tag: KN1J
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 70fd78bb7048320bead6813b762baabd62bb70f32614f65b469a6cb45391eb54
+prompt_sha256: draft-1
+translated_from: content/ru/1978/06/articles/20_ovchinnikov-shadrin-moskovskiy-gosudarstvennyiy-pedagogicheskiy-institut-im-v-i-lenina-fizicheskiy-fakultet-efde4da9.md
+source_content_sha256: bbdf3740c399fe53ab419b540b4c9e929152afd918a9137bc92f4dd7c489d575
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 76⟧
+
+4. Tìm bán kính đáy của hình trụ có tổng diện tích bề mặt nhỏ nhất với một thể tích cho trước $V$.
+5. Tìm hàm $F(x)$ nếu $F'(x) = 3x^2 + 1$ và $F(1) = 3$ rồi vẽ đồ thị. Tùy chọn 2
+1. Giải phương trình
+$$2^{2x+1} + 4 = 9 \cdot 2^x.$$
+2. Giải phương trình
+$$6\sin^2 x - 3\sin x \cdot \cos^2 x = 1.$$
+3. Giải bất đẳng thức
+$$\log \frac{2x}{2} < 1.$$
+4. Tìm chiều cao của hình nón có thể tích lớn nhất nội tiếp trong một quả cầu có bán kính $R$.
+5. Tính diện tích hình được giới hạn bởi đường thẳng
+$$y = x + 1$$ và $$y = 5 + 3x - 2x^2.$$
+A. Ryazanovsky
+
+Học viện sư phạm quốc gia Moscow được đặt theo tên. V. I. Lênin
+(Khoa Vật lý)
+
+Toán học
+Tùy chọn 1
+1. Tìm cosin của các góc tạo thành vectơ $\vec{a} = 6i - 2j - 3k$ với các vectơ cơ sở.
+2. Giải phương trình
+$$7 \cdot 10^{2x+3} - 5 \cdot 4^{2x+3} = 2 \cdot 25^{2x+3}$$
+3. Giải phương trình
+$$\frac{\sin x}{1 + \cos x} = \sin \frac{x}{2}.$$
+4. Tìm diện tích của hình được giới hạn bởi các đường cong $y = x^2$ và $y = \sqrt{3}x$.
+5. Xây dựng biểu đồ
+$$y = x^4 - 2x^2 + 5.$$
+Tùy chọn 2
+1. Các vectơ $\vec{a}$ và $\vec{b}$ là đơn vị và vuông góc với nhau. Tìm góc giữa tổng và hiệu của vectơ $\vec{p}$ và $\vec{q}$, trong đó $\vec{p} = 8a + 4b$ và $\vec{q} = 4a + b$.
+2. Giải phương trình
+$$7 \cdot 2^x - 4^x = 10.$$
+3. Giải phương trình
+$$8 \sin^2 \frac{x}{2} + 3 \sin x - 4 = 0.$$
+4. Tìm diện tích hình được giới hạn bởi các đường cong
+$$y = e^x, y = e^{-x}, x = 1.$$
+
+5. Xây dựng biểu đồ
+$$y = x^3 - 3x^2 + 2.$$
+Vật lý
+1. Nhỏ gọn hai giọt từ mái nhà với khoảng thời gian $\Delta t$. Khoảng cách giữa các giọt $t_1 = 1$ s sau khi giọt thứ hai rơi là $l = 50$ cm. Xác định $\Delta t$.
+2. Một tải trọng có khối lượng $m = 10$ kg được chuyển động đều theo đường thẳng trong mặt phẳng nằm ngang, tác dụng một lực vuông góc $\alpha = 30^\circ$ so với phương ngang. Xác định độ lớn của lực này nếu hệ số ma sát là $\mu = 0,2$.
+3. Hai vật nặng có khối lượng $m_1 = 3$ kg và $m_2 = 6,8$ kg ở hai đầu sợi dây được ném qua khối. Tải nhỏ hơn tải lớn hơn $h = 2$ m. Tải bắt đầu di chuyển mà không có tốc độ ban đầu. Mất bao lâu để họ đạt được cùng một độ cao?
+4. Khi bắn theo hướng nằm ngang, nòng của ordium, có khối lượng $M = 500$ kg, lăn đi một khoảng $l = 80$ cm. Xác định giá trị trung bình của lực phanh trong thiết bị nằm ngang của bánh đà. Khối lượng của đạn là $m = 4$ kg, tốc độ ban đầu của nó là $|\vec{v}| = 600$ m/s.
+5. Một tảng băng có độ dày không đổi nổi trong nước, nhô lên trên bề mặt tới độ cao $h = 2$ cm. Khối lượng của tảng băng là bao nhiêu nếu diện tích của nó là 150 cm2? Mật độ băng $\rho = 0,92$ g/cm³.
+6. Các mặt cắt $S_1$ và $S_2$ giao tiếp với khu vực chứa đầy chất lỏng của mặt phẳng $p$. Sau đó, khuỷu tay của tàu có mặt cắt ngang $S_1$ được đóng lại và tiếp xúc với nhiệt độ $T_0$ với nhiệt độ $T$. Xác định nhiệt độ $T$ nếu mức chất lỏng ở phần khuỷu tay $S_2$ đã tăng giá trị $\Delta H_2$. Thể tích ban đầu của nước trong một khuỷu kín là $V_0$, áp suất khí quyển là $p_0$ const, và sự phân bố nhiệt của bình và chất lỏng thay đổi.
+7. Phải mất $\tau_1 = 15$ phút để nóng lên từ $0^\circ C$ đến nhiệt độ dính trên lò sưởi điện. Sau đó, phải mất $\tau_2 = 1$ và 20 phút để xử lý toàn bộ lượng nước này thành hơi nước trong cùng điều kiện. Sử dụng những dữ liệu này, xác định nhiệt dung riêng bay hơi của nước.
+8. Hai bóng đèn mắc song song thành một lưới điện. Điện trở của bóng đèn thứ nhất là $R_1 = 360$ Ohm, điện trở của bóng đèn thứ hai là $R_2 = 240$ Ohm. Bóng đèn nào hấp thụ nhiều năng lượng hơn và bao nhiêu?
+9. Tìm điện trở trong của máy phát điện nếu biết công suất tỏa ra ở mạch ngoài bằng nhau đối với hai giá trị điện trở ngoài $R_1 = 5$ Ohm và $R_2 = 0,2$ Ohm.
+10. Cần đặt một vật cách vật thu thập có tiêu cự $F = 12$ cm một khoảng bằng bao nhiêu để ảnh thật của nó lớn hơn vật $n = 3$?
+O. Ovchinnikov, G. Shadrin

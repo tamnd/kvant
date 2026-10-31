@@ -1,0 +1,54 @@
+---
+id: 1978-11-savin-novyiy-kaleydoskop-1448d64c
+issue: kvant_1978_11
+year: 1978
+number: "11"
+title: kính vạn hoa mới
+authors:
+  - Савин А. П.
+rubric: smes
+page_first: 18
+page_last: 18
+page_labels: "16"
+tag: 0UQA
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 0bd7bd1d8bf99e730feb9898a8d77f8d56282e23d9b33701b7d6c276f7c87862
+prompt_sha256: draft-1
+translated_from: content/ru/1978/11/articles/08_savin-novyiy-kaleydoskop-1448d64c.md
+source_content_sha256: 151c138fed133282123c728eddee0a1b8efe8b33b31427a066ffd2acd05dcd0d
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 16⟧
+
+Chức năng $g(x) = \frac{11}{x} - \ln x - 1$
+giảm $]0; +\infty[$ và $g(4) = 1,75 - \ln 4 > 0$, $g(5) = 1,2 - \ln 5 < 0$.
+(Chứng minh các bất đẳng thức này bằng cách sử dụng $3 > e > 2,5$.)
+Có thể tồn tại $x_0 \in ]4; 5[$ sao cho trong khoảng $]0; x_0]$ hàm $f$ trả về và trên $[x_0; \infty[$ nó giảm.
+Điều này có nghĩa là trong số các số của chúng tôi, số lớn nhất là $f(4)$ hoặc $f(5)$. Nó vẫn còn để chọn lớn nhất trong số họ.
+Bài toán và
+9. Số nào lớn hơn:
+a) $15^{30}$ hoặc $30^{15}$?
+b) $2^{40}$ hoặc $3^{33}$?
+c) $10^{1000}$ hoặc $9^{1111}$?
+10. Số nào lớn hơn:
+a) $5^{15} + 6^{20} + 7^{25}$ hoặc $8^{24}$?
+b) $7^{15} + 15^7$ hoặc $6^{16} + 16^6$?
+c) $5^{5555}$ hoặc $6^{6666}$?
+
+Mới
+kính vạn hoa
+
+Độc giả B. Ivakin của chúng tôi đã thêm bài toán sau vào trình chỉnh sửa: cắt một hình lục giác đều thành 9 phần giống nhau.
+
+Được đính kèm với bài toán là đáp số, nó được mô tả ở giữa trang đầu tiên của bìa tạp chí của chúng tôi: bằng các đoạn nối tâm với các đỉnh, hình lục giác được chia thành ba hình thoi, mỗi hình được chia thành ba hình bình hành.
+
+Khi đã quen với vấn đề này, tôi tự nhiên bắt đầu tìm kiếm những người khác lời giải. Trong một thời gian khá dài, tôi không thể phá vỡ hình lục giác một cách đúng đắn, nhưng cuối cùng tôi cũng tìm được cách chia như vậy (nhưng được hiển thị ở phần trên của hình ảnh trên trang bìa). Sau đó, tôi muốn “di chuyển” các hình ngũ giác thu được. Kết quả rất bất ngờ - các phần cần thiết của hình lục giác rơi xuống như thể từ một chiếc sừng. Năm trong số đó được giới thiệu trên trang bìa của tạp chí.
+
+Hãy thử tự mình trải nghiệm phép chia này. Nếu bạn nghĩ ra những bức ảnh thú vị, hãy gửi chúng cho chúng tôi. Chúng tôi sẽ công bố những bức ảnh đẹp nhất.
+
+A. Savin

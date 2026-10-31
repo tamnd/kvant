@@ -1,0 +1,72 @@
+---
+id: 1978-6-seregina-smirnov-moskovskiy-institut-inzhenerov-geodezii-aerofotosemki-i-kartografii-61e57cfb
+issue: kvant_1978_6
+year: 1978
+number: "6"
+title: Viện kỹ sư trắc địa, chụp ảnh trên không và bản đồ Moscow
+authors:
+  - Серегина В.
+  - Смирнов С.
+rubric: ekzamenatsionnye-materialy
+page_first: 79
+page_last: 79
+page_labels: "77"
+tag: GVF0
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 7bee223628034099511ae5266d068e8bea9d0870a9e080f3f632bd5b662284b5
+prompt_sha256: draft-1
+translated_from: content/ru/1978/06/articles/21_seregina-smirnov-moskovskiy-institut-inzhenerov-geodezii-aerofotosemki-i-kartografii-61e57cfb.md
+source_content_sha256: 0a0f25e6710fa1079d96e5d33733868969f25456d985ed77ce35961e945989f6
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 77⟧
+
+Viện kỹ sư trắc địa, chụp ảnh trên không và bản đồ Moscow
+
+Chúng tôi đã viết chi tiết về MIIGAIK trong «Kvant» (1977, số 6).
+
+Hiện nay, Viện có các khoa: trắc địa với các chuyên ngành thiên văn học và trắc địa (chuyên ngành: trắc địa biển), trắc địa ứng dụng, trắc địa không gian; quang trắc học trên không; với chuyên ngành chụp ảnh trên không; bản đồ học với chuyên ngành bản đồ học (chuyên ngành: thiết kế và biên soạn bản đồ, xuất bản bản đồ); quang-cơ khí, đào tạo các chuyên ngành chuyên sâu về thiết bị quang học và quang điện tử. Viện có một khoa thư tín chuyên về trắc địa ứng dụng, chụp ảnh trên không, bản đồ và một khoa cơ khí quang học buổi tối.
+
+Từ năm học 1977/78, Viện bắt đầu đào tạo các chuyên ngành thuộc lĩnh vực nghiên cứu tài nguyên thiên nhiên (tại khoa ảnh trắc địa). Sinh viên chuyên ngành này học toán và vật lý cao hơn theo một chương trình mở rộng. Nhiệm vụ của chuyên ngành nghiên cứu tài nguyên thiên nhiên bao gồm phát triển các phương pháp hiệu quả nhất để tìm kiếm khoáng sản, bảo vệ môi trường... Thời gian đào tạo chuyên ngành này là 5 năm 6 tháng.
+
+Toán học
+
+Tùy chọn 1
+
+1. Giải phương trình
+$$\log_{4x+1}7 + \log_{9x}7 = 0.$$
+2. Tính toán không có bảng
+$$\sin^2 7^\circ 30' \cdot \sin 45^\circ - \cos 45^\circ \cdot \cos^2 52^\circ 30'.$$
+3. Giải bất đẳng thức
+$$|x^2 - 5x| < 6.$$
+4. Giải bất đẳng thức $f'(x) > g'(x)$ nếu $f(x) = x - \frac{4}{x}$, $g(x) = 2x^3 - x$.
+5. Vectơ $b$ thẳng hàng với vectơ $\vec{a} = (6; 8; -7,5)$ và tạo thành một góc nhọn với trục $Oz$. Cho $|\vec{b}| = 50$ đó, tìm tọa độ của nó.
+
+Tùy chọn 2
+
+1. Giải phương trình
+$$\log_x 9x^2 \cdot \log_3^2 x = 4.$$
+2. Giải phương trình
+$$(1 + \sin 2x)(\cos x - \sin x) = 1 - 2\sin^2 x.$$
+
+3. Giải bất đẳng thức $\sqrt{9x - 20} < x.$
+4. Tìm giá trị lớn nhất và lớn nhất của hàm $y = \frac{4}{3}x^3 - 4x$ trên khoảng [0; 2].
+5. Tính diện tích hình được giới hạn bởi các đường $y = \sin x$, $y = 0$ và $0 \leq x \leq \pi$.
+
+Vật lý
+
+1. Một đầu của sợi chỉ được cố định vào đáy, đầu còn lại được gắn vào phao nút chai. Trong trường hợp này, 0,75 thể tích phao được ngâm trong nước. Xác định độ căng của sợi dây nếu khối lượng của phao là $m = 2$ kg và mật độ của nút là $\rho_\pi = 0,25 \text{ г/cm}^3$. Bỏ qua khối lượng của sợi dây.
+2. Cabin, trên trần có treo một tấm thảm toán học có chiều dài $l = 1$ m, được hạ xuống với gia tốc $|\vec{a}| = 2,4 \text{ m/c}^2$. Xác định chu kì dao động của tấm thảm.
+3. Một đoàn tàu có khối lượng $m = 2000$ t khi phanh với gia tốc $|\vec{a}| = 0,3 \text{ m/c}^2$ thì dừng lại trong thời gian $t = 50$ s sau khi bắt đầu phanh. Hỏi nhiệt lượng tỏa ra trong quá trình phanh là bao nhiêu?
+4. Một quả cầu thép có khối lượng $m = 20$ g, rơi từ độ cao $h_1 = 1$ m xuống khung thép, nảy lên từ độ cao $h_2 = 81$ cm. Tìm sự thay đổi động lượng của quả bóng do va chạm và lượng nhiệt tỏa ra trong quá trình va chạm.
+5. Buồng cao su chứa không khí ở nhiệt độ $t_1 = 27^\circ\text{C}$ và áp suất bình thường. Phải hạ thùng xuống nước đến độ sâu bao nhiêu để thể tích của nó giảm ở trạng thái cân bằng?
+6. Độ ẩm không khí tương đối ở $t_1 = 30^\circ\text{C}$ bằng $r_1 = 0,80$. Độ ẩm tương đối $r_2$ sẽ là bao nhiêu nếu không khí này được làm nóng ở mức âm lượng không đổi đến $t_2 = 50^\circ\text{C}$? Áp suất hơi bão hòa của nước ở $30^\circ\text{C}$ là $p_{01} = 31,8$ mmHg. Nghệ thuật., ở mức $50^\circ\text{C} - p_{02} = 92,5$ mm Hg. Nghệ thuật.
+7. Hai điện tích giống nhau $q_1 = 7 \times 10^{-9}$ Kl và $q_2 = 28 \cdot 10^{-9}$ Kl cách nhau $l = 0,24$ m. Hỏi điện tích thứ nhất cách điện tích thứ nhất một khoảng bao nhiêu trên đường nối hai điện tích thì phải đặt điện tích thứ ba sao cho nó cân bằng?
+8. Lò hơi có hai hình xoắn ốc. Khi vòng xoắn ốc đầu tiên được bật, một lượng nước sôi trong $t_1 = 10$ phút, khi vòng xoắn thứ hai được bật - trong $t_2 = 20$ phút. Sẽ mất bao lâu để cùng một lượng nước sôi khi cả hai vòng xoắn ốc lần lượt được bật?
+9. Một tia sáng chiếu vào mặt phân cách giữa hai môi trường một góc $\alpha = 30^\circ$ và được coi là nghiêng một góc $\beta = 45^\circ$. Góc giới hạn của phản xạ toàn phần đối với các môi trường này là bao nhiêu?
+10. Khi nhôm bị bắn phá bởi các hạt $^{27}_{13}\text{Al}$, phốt pho $^{30}_{15}\text{P}$ được hình thành. Ghi lại phản ứng này và kiểm đếm bạn-

@@ -1,0 +1,86 @@
+---
+id: 1978-2-galperin-zadachi-xl-moskovskoy-matematicheskoy-olimpiadyi-shkolnikov-aa1601cd
+issue: kvant_1978_2
+year: 1978
+number: "2"
+title: Bài toán Olympic Toán học XL Moscow dành cho học sinh
+authors:
+  - Гальперин Г. А.
+rubric: informatsiya
+rubric_sub: Информация
+page_first: 57
+page_last: 57
+page_labels: "55"
+tag: EBBX
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 8bf76fe7078e1127fb2d926d0c6b60a89992672d55b4a5ac0785f3ace2cd23cc
+prompt_sha256: draft-1
+translated_from: content/ru/1978/02/articles/23_galperin-zadachi-xl-moskovskoy-matematicheskoy-olimpiadyi-shkolnikov-aa1601cd.md
+source_content_sha256: df56162d02ff31d4a1da1f0fe05ede52f22cacd84bd4cc44ff3709a8e53a6ad0
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 55⟧
+
+Nhiệm vụ
+Olympic Toán XL Moscow dành cho HỌC SINH
+
+Từ ngày 27 tháng 2 đến ngày 27 tháng 3 năm 1977, Olympic Toán học truyền thống Moscow được tổ chức. Vòng đầu tiên chỉ dành cho học sinh lớp 10; các lớp còn lại (7-9-e) ngay lập tức tham gia vào vòng hai, vòng chung kết, cùng với các học sinh lớp 10 đã xuất sắc vượt qua vòng một. Dưới đây chúng tôi công bố các đề xuất bài toán tại Olympic.
+
+Vòng đầu tiên (lớp 10)
+
+1. Dãy số tự nhiên $\{x_n\}$ được xây dựng theo quy tắc sau: $x_1=2, x_{n+1}=[1,5 x_n]$ ([ ] là phần nguyên của số).
+a) Chứng minh rằng dãy $\{x_n\}$ có vô số số lẻ.
+b) Chứng minh rằng dãy $\{x_n\}$ có vô số số chẵn.
+(S. Konyaets)
+
+2. Có $n$ hình vuông bằng bìa cứng và $n$ hình vuông bằng nhựa trên bàn. Không có hai hình vuông bằng bìa cứng nào có điểm chung, kể cả điểm viền. Điều tương tự cũng áp dụng cho hình vuông bằng nhựa. Hóa ra tập hợp các đỉnh của các hình vuông bằng bìa cứng trùng với tập hợp các đỉnh của các hình vuông bằng nhựa. Có phải mỗi hình vuông bằng bìa cứng nhất thiết phải phù hợp với một số hình vuông bằng nhựa không?
+(B. Prasolov)
+
+3. a) Mười hai thanh đặc mỏng có chiều dài bằng 1 được buộc chặt với nhau để tạo thành khung hình lập phương. Có thể tạo một lỗ trên mặt phẳng có diện tích nhỏ hơn 1/100 mà không làm vỡ mặt phẳng thành nhiều mảnh để khung này có thể được kéo qua nó?
+b) Câu hỏi tương tự cho khung tứ diện có cạnh dài 1.
+(B. Prasolov)
+
+4. Mỗi điểm trên trục số có tọa độ là số nguyên được hiển thị bằng màu đỏ hoặc xanh lam. Chứng minh rằng tồn tại một màu có tính chất sau: với mọi số tự nhiên $k$ có vô số điểm màu này có tọa độ chia hết cho $k$. (S. Konyaets)
+
+Vòng chung kết
+
+5. (7-8 ô) Tại mỗi đỉnh của lồi $k$-gon có một thợ săn được trang bị súng laze. Tất cả các thợ săn đồng loạt bắn vào con thỏ đang ngồi ở điểm $O$ bên trong $k$-gon này. Tại thời điểm bắn, con thỏ biến mất và tất cả những người thợ săn đều chết. Chứng minh rằng không có điểm nào khác ngoài $O$ có thuộc tính đã cho.
+(S. Eliseev)
+
+6. (lớp 7-8). Khối lập phương $3\times 3\times 3$ được tạo thành từ 14 cốc trắng và 13 cốc đen ở cạnh 1. Một cột là ba khối đứng cạnh nhau theo cùng một hướng: chiều rộng, chiều dài hoặc chiều cao. Có thể nào có số lẻ cốc trắng ở mỗi cột a)? 6) số cốc đen là số lẻ?
+(B. Avilov)
+
+7. (lớp 7-8). Chứng minh rằng có thể tìm thấy bất kỳ số bộ ba số tự nhiên $a, b, c$ thỏa mãn đẳng thức $a^{15} + b^{15} = c^{16}$.
+(D. Bernishtein)
+
+8. (lớp 7) Có 1977 chiếc đinh thò ra ngoài bến tàu. Hai người chơi và thay phiên nhau. Nước đi bao gồm việc người chơi nối hai chiếc đinh bằng một sợi dây. Nếu nước đi này dẫn đến mục tiêu bị đóng thì người thực hiện nước đi này được coi là đã thắng. Ai thắng trong trò chơi cầm quyền: thứ nhất hay thứ hai? (Không được nối hai đinh của những đinh đã nối sẵn bằng dây.)
+(N. Aeakhanov)
+
+9. (7-8 ô) Tìm $n$ nhỏ nhất sao cho bất kỳ 100-giác lồi nào cũng có thể thu được là giao điểm của các tam giác $n$. Chứng minh rằng đối với $n$ nhỏ hơn, điều này không thể thực hiện được với bất kỳ 100-giác lồi nào.
+(C. Lando)
+
+10. (9 ô) Có $n$ đoạn thẳng trong không gian, không có đoạn nào song song với cùng một mặt phẳng. Với hai đoạn thẳng bất kỳ, đường thẳng nối trung điểm của chúng vuông góc với hai đoạn thẳng đó. Điều này có thể đạt được ở mức tối đa $n$ là bao nhiêu?
+(G. Galperin)
+
+11. (lớp 9-10) Xem bài toán M479.*
+12. (lớp 8-10) Xem bài toán M478.
+
+13. (9 ô) Có một đa giác lồi trong không gian, tất cả các đỉnh của nó đều là các điểm nguyên. Không có điểm nguyên nào khác bên trong, trên các mặt hoặc trên các cạnh. (Một số nguyên là một điểm có ba tọa độ đều là số nguyên.) Chứng minh rằng số đỉnh của một đa giác không vượt quá 8.
+(S. Mironov)
+
+14. (lớp 9-10) Xem bài toán M477.
+
+15. (10 ô) Có thể sắp xếp vô số đường tròn trên một mặt phẳng sao cho mỗi đường thẳng cắt nhau không quá hai đường tròn?
+(N. Konstantinov)
+
+16. (lớp 10) Dãy số tự nhiên $\{x_n\}$ được xây dựng theo quy tắc sau: $x_1=2, \dots, x_n=[1,5 x_n-1]$ ([.] là phần nguyên của số). Chứng minh rằng dãy $y_n=(-1)^{x_n}$ không tuần hoàn.
+(S. Konyaets)
+
+G. Galperin
+
+*) «Bài toán Kvant, «Kvant», 1977, № 12.

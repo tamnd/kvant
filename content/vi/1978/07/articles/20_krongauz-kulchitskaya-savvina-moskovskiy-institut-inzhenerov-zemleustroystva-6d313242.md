@@ -1,0 +1,98 @@
+---
+id: 1978-7-krongauz-kulchitskaya-savvina-moskovskiy-institut-inzhenerov-zemleustroystva-6d313242
+issue: kvant_1978_7
+year: 1978
+number: "7"
+title: Viện kỹ sư quản lý đất đai Moscow
+authors:
+  - Кронгауз Л.
+  - Кульчицкая Л.
+  - Саввина Б. К.
+rubric: ekzamenatsionnye-materialy
+page_first: 57
+page_last: 57
+page_labels: "55"
+tag: E37V
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 3798797c3be84af0ab0a88ce60879b6e8d9491b2b70193fda54d2934f0324707
+prompt_sha256: draft-1
+translated_from: content/ru/1978/07/articles/20_krongauz-kulchitskaya-savvina-moskovskiy-institut-inzhenerov-zemleustroystva-6d313242.md
+source_content_sha256: f3e774515326f0d65f2dd1335a25a67113fcefdd5d5d35669cbb8cb0ca402a7d
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 55⟧
+
+3. Theo kế hoạch, một đội thợ rừng phải khai thác 216 m³ gỗ trong vài ngày. Ba ngày đầu tiên, nhóm hoàn thành định mức hàng ngày theo kế hoạch đề ra, sau đó mỗi ngày chuẩn bị vượt kế hoạch 8 m³ nên trước thời hạn một ngày đã khai thác được 232 m³ gỗ. Định mức hàng ngày của thuyền viên theo kế hoạch là bao nhiêu?
+
+4. Với α và β thì vectơ $a = (3; -1; \alpha)$ trực giao với vectơ $b = (2; \beta; 1)$ nếu $|b| = 3$?
+
+5. Một hình trụ có thể tích lớn nhất nội tiếp trong một hình cầu có bán kính $R = 3$ cm. Tìm thể tích của hình trụ này.
+
+Tùy chọn 2
+
+1. Chứng minh tính chính xác
+
+$$\frac{1 - 2\sin^2\alpha}{2\mathrm{ctg}\left(\frac{\pi}{4} + \alpha\right)\cdot\cos^2\left(\frac{\pi}{4} - \alpha\right)} = 1.$$
+
+2. Giải hệ phương trình
+
+$$\begin{cases} 3^x \cdot 2^y = 144, \\ \log_{\sqrt{2}}(y - x) = 2. \end{cases}$$
+
+3. Tàu rời thành phố $A$ và sau 10 giờ. 40 phút. đến thị trấn $B$. Nếu tàu đi ít hơn 10 km mỗi giờ thì nó sẽ đến lúc $B$ lúc 2 giờ. 8 phút. Sau đó. Xác định khoảng cách giữa các thành phố và tốc độ của tàu.
+
+4. Tìm giới hạn của một biểu thức
+
+$$\lim_{x \to 2} \frac{x - \sqrt{3x - 2}}{x^2 - 4}.$$
+
+5. Tổng độ dài các đường chéo của hình bình hành là 8 cm. Tìm giá trị nhỏ nhất của tổng bình phương độ dài tất cả các cạnh của hình bình hành.
+
+Vật lý
+
+1. Trong giây thứ năm của chuyển động có gia tốc đều, vật đi được quãng đường 45 m. Tính vận tốc của vật ở cuối giây thứ năm và quãng đường đi được trong 5 giây nếu vận tốc ban đầu của vật bằng 0.
+
+2. Ở tốc độ tàu nào thì một con lắc dài $l = 11$ cm, treo trong một toa xe, lắc lư đặc biệt mạnh nếu chiều dài của đường ray là $L = 12,5$ m?
+
+3. Bao nhiêu nước có thể bay hơi trong một căn phòng có kích thước $10 \times 8 \times 4,5$ m nếu nhiệt độ không khí là 22°C và độ ẩm tương đối là 70%? Mật độ hơi nước bão hòa ở 22°C $\rho_H = 1,94 \times 10^{-2}$ kg/m³.
+
+4. Hạt alpha chuyển động trong cyclotren theo đường tròn có bán kính $r = 1$ m với tốc độ $|\vec{v}| = 20,000$ km/s. Cảm ứng từ trường phải bằng bao nhiêu để giữ hạt trên vòng tròn? Khối lượng hạt alpha $m = 6,5 \cdot 10^{-27}$ kg, điện tích $q = 3,2 \times 10^{-19}$ Cl.
+
+L. Milovanava
+
+Viện Kỹ sư Kỹ thuật Đất đai Moscow
+
+Chi tiết về các khoa, chuyên ngành của kỹ sư công trình đất đai năm «Kvant» năm 1977, số 7.
+
+Matematika
+
+1. Khám phá các hàm tối đa và tối thiểu
+
+$$y = x^3 + 3x^2 - 9x + 1.$$
+
+2. Giải bất đẳng thức
+
+$$\frac{x - 2}{x^2 + 1} < -\frac{1}{2}.$$
+
+3. Giải phương trình
+
+$$\lg \sqrt[3]{3^{x^2 - 8x}} = 0.$$
+
+4. Tìm tội lỗi ($\alpha + \beta$) nếu tội lỗi $\alpha = -\frac{5}{13}$, $\alpha \in ]\frac{3\pi}{2}$; $2\pi [$, vì $\beta = -\frac{3}{5}$, $\beta \in ]\pi; \frac{3\pi}{2}[$.
+
+5. Biết đáy lớn của hình thang cân $a$, chiều cao $h$ và góc $\alpha$ ở đáy, hãy tính diện tích hình thang.
+
+Vật lý
+
+1. Một ô tô có khối lượng $m = 2,0$t leo lên một ngọn đồi có độ dốc 0,20. Trên đoạn đường $s = 32$ m, tốc độ tự động tăng từ $|\vec{v}_1| = 21,6$ km/h lên $|\vec{v}_2| = 36$ km/h. Xét chuyển động tự động cân bằng, hãy xác định lực kéo của động cơ. Hệ số cản chuyển động lấy bằng $k = 0,020$.
+
+2. Một viên đạn có khối lượng $m = 40$ kg, bay theo phương ngang với tốc độ $|\vec{v}| = 600$ m/s, vỡ thành hai phần có khối lượng $m_1 = 30$ kg và $m_2 = 10$ kg. Hầu hết chúng bắt đầu di chuyển cùng hướng với tốc độ $|\vec{v}_1| = 900$ m/s. Xác định độ lớn và hướng vận tốc của phần nhỏ hơn ở bên ngoài.
+
+3. Tiết diện $S = 6$ mm² có chiều dài bằng bao nhiêu độ khi chịu tác dụng của lực kéo $|\vec{F}| = 508$ N? (Có bảng tham khảo kèm theo.)
+
+4. Một electron có tốc độ $|\vec{v}| = 1,8 \cdot 10^4$ m/s đi vào một điện trường đều có độ biến dạng $|\vec{E}| = 0,0030$ N/Kl và chuyển động ngược với các đường sức. Electron sẽ chuyển động với gia tốc bằng bao nhiêu và tốc độ của nó sẽ là bao nhiêu khi nó di chuyển quãng đường $s = 7,1$ cm? Sẽ mất bao lâu để đạt được tốc độ này? Năng lượng của electron sẽ thay đổi bao nhiêu trong trường hợp này (khối lượng của electron là $m = 9,1 \cdot 10^{-31}$ kg, điện tích của nó là $e = 1,6 \cdot 10^{-19}$ C)?
+
+5. Hai quả cầu có khối lượng $m = 1,5$ g mỗi quả, treo lơ lửng trong chân không tại một điểm trên

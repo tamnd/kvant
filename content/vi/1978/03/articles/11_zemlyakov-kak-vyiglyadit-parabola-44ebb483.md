@@ -1,0 +1,67 @@
+---
+id: 1978-3-zemlyakov-kak-vyiglyadit-parabola-44ebb483
+issue: kvant_1978_3
+year: 1978
+number: "3"
+title: Một parabol trông như thế nào?
+authors:
+  - Земляков А. Н.
+rubric: po-stranitsam-shkolnyh-uchebnikov
+rubric_sub: По страницам школьных учебников
+page_first: 40
+page_last: 40
+page_labels: "38"
+tag: S7E3
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 64565bfad9d4f6af2adac862c29e71cf672e61f1bd884594692d7929208c2953
+prompt_sha256: draft-1
+translated_from: content/ru/1978/03/articles/11_zemlyakov-kak-vyiglyadit-parabola-44ebb483.md
+source_content_sha256: f0ce7cb970bfc85e6913c38142d078e4f6be2eafde8d28e6d92ace136f7a25e4
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 38⟧
+
+Một parabol trông như thế nào?
+
+Cố gắng áp dụng các dấu hiệu khác nhau.
+
+A. Zemlyakov
+
+Một parabol trông như thế nào?
+
+Cố gắng áp dụng các dấu hiệu khác nhau.
+
+A. Pushkin
+
+Bạn có bao giờ thắc mắc tại sao đồ thị parabol của hàm bậc hai $y=x^2$ lại được vẽ trên mặt phẳng tọa độ như hình 1,a không? Tại sao nó không được vẽ như trong Hình 1b hoặc 1c?
+
+Bạn có thể trả lời rằng nếu bạn vẽ đồ thị $y=x^2$ từng điểm (Hình 2), bạn sẽ nhận được “như trong Hình 1,a.” Tuy nhiên, không thể lấy vô số điểm thử và không rõ làm thế nào để tiếp tục biểu đồ cho các giá trị lớn $x$. Chúng tôi sẽ trình bày hai lập luận khác nhau chứng tỏ rằng các đồ thị trong Hình 1, b và 1, tiếp theo là không chính xác.
+
+suy luận đại số
+
+Nguyên tố $y=kx$ có thể giao nhau với paraboly $y=x^2$ tại không quá hai điểm (Hình 3,a; giải thích). Các đồ thị trong Hình 1, b và 1, trong một số đường thẳng này giao nhau tại ba điểm hoặc thậm chí nhiều hơn (Hình 3, b, c).
+
+Lý luận phân tích
+
+Hệ số góc của tiếp tuyến với đồ thị của hàm khả vi $y=f(x)$ tại các điểm có hoành độ $x$ bằng $k(x)=f'(x)$ (“Đại số và trên-
+
+đầu phân tích 9", đoạn 52). Nếu, khi $x$ tăng, hệ số $k(x)$ tăng thì tiếp tuyến tạo thành một góc ngày càng lớn hơn với trục $Ox$ và đồ thị trở nên dốc hơn (trong trường hợp $k(x)>0$; xem Hình 4). Đối với hàm bình phương $f(x)=x^2$, hệ số góc của tiếp tuyến $k(x)=2x$ có chính xác đặc tính này và đồ thị $y=x^2$ trở nên dốc hơn tại $x>0$ (Hình 5,a). Ngược lại, hệ số góc của các tiếp tuyến của đồ thị 1,b và 1,c giảm trong các khoảng từ $a$ đến $b$; xem hình 5b, c (Trong lập luận này, ý nghĩa hình học của tiếp tuyến được sử dụng đáng kể - xem thay thế 3 từ đoạn 52 đã đề cập của sách giáo khoa và bài viết. “Ý nghĩa hình học của một cái tùy ý,” «Kvant», 1977, số 2).
+
+Bình luận
+
+Lý luận đại số cũng như giải tích không chỉ có thể áp dụng cho parabol mà còn cho các đồ thị khác của hàm số, như có thể thấy bằng cách giải bài toán được đề xuất dưới đây. Lý do thứ hai, phân tích bản chất hành vi của một tiếp tuyến với đồ thị, cũng dẫn đến khái niệm quan trọng về độ lồi của hàm số (đồ thị của chúng) (xem “Đại số và khoa học 10,” đoạn 79). Lưu ý rằng có thể đặt mức tăng hoặc giảm độ dốc $k(x)=f'(x)$ bằng hàm tùy ý: $k'(x)=f''(x)$ và $k(x)$ tăng hoặc giảm tùy thuộc vào dấu của hàm tùy ý thứ hai $f$.
+
+Nhiệm vụ 1
+
+1. Đồ thị nào trong Hình 6 có thể trả lời hàm $y=x^5$?
+
+2. Hình 7, a, b thể hiện hai đồ thị bậc của hàm số $y=x^\alpha$, trong đó $\alpha>0$. Đối với mỗi biểu đồ $\alpha>1$ và đối với mỗi biểu đồ $\alpha<1$?
+
+( Đưa ra cả lý luận giải tích và đại số trong 1, 2.)
+
+3. (lớp 10). Theo quy định, vẽ đồ thị $y=a^x$ và $y=\log_a x$ tại $a>1$ - như Hình 8, a, 9, a, hay như Hình 8, b, 9, b? (Đáp số biện minh.)

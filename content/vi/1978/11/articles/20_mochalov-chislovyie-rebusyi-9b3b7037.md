@@ -1,0 +1,64 @@
+---
+id: 1978-11-mochalov-chislovyie-rebusyi-9b3b7037
+issue: kvant_1978_11
+year: 1978
+number: "11"
+title: Câu đố số
+authors:
+  - Мочалов Л. П.
+rubric: smes
+page_first: 49
+page_last: 49
+page_labels: "47"
+tag: FA7O
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 7239862f0cc74cf07e3a2c97746924420b042e94234233efc17f5967cc865282
+prompt_sha256: draft-1
+translated_from: content/ru/1978/11/articles/20_mochalov-chislovyie-rebusyi-9b3b7037.md
+source_content_sha256: b91e55f83a8d74a71b9b040e798da7033f108af5d0ae708db569d1c1aac30a9c
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 47⟧
+
+Vì ứng dụng này là chính xác,
+
+$$|AK| = \frac{2\sqrt{6} \cdot \sqrt{3}}{6} = \sqrt{2}.$$
+
+Từ $\triangle SAK$:
+
+$$|SK| = \sqrt{11},$$
+$$|AL| = \frac{|SA| \cdot |AK|}{|SK|} = \frac{3\sqrt{2}}{\sqrt{11}}.$$
+
+Đánh đồng biểu thức trên của p(A; (SMP)) thu được trong (8) với giá trị tìm được $|AL|$, ta thu được phương trình
+
+$$\frac{m\sqrt{3}}{\sqrt{m^2} - 2m\sqrt{3} + 6} = \frac{3\sqrt{2}}{\sqrt{11}},$$
+
+từ đó $m$ được tìm thấy:
+
+$$m = \frac{6}{5} (2\sqrt{2} - \sqrt{3})$$ xem
+
+Bài toán và
+
+1. (MSU, nhà vật lý, 1977). Độ dài cạnh khối lập phương $ABCD$ $A_1B_1C_1D_1$ ($AA_1$) || $(BB_1)$ || $(CC_1)$ || $(DD_1)$) bằng 1. Trên cạnh $AA_1$ lấy một điểm $E$ sao cho độ dài của đoạn $AE$ bằng $\frac{1}{3}$. Trên cạnh $BC$ điểm $F$ được lấy sao cho độ dài $[BF]$ bằng $\frac{1}{4}$. Một mặt phẳng $\alpha$ được vẽ qua tâm của khối lập phương và các điểm $E$ và $F$. Tìm khoảng cách từ đỉnh $B_1$ đến mặt phẳng $\alpha$.
+
+2. (MSU, cơ khí, 1977). Đáy đáy $SABC$ là tam giác vuông đều $ABC$, độ dài cạnh huyền $AB$ bằng $4\sqrt{2}$. Cạnh bên của mố $SC$ vuông góc với mặt phẳng đế và có chiều dài bằng 2. Tìm các giá trị của góc và khoảng cách giữa các đường thẳng cắt nhau, một trong hai đường thẳng đi qua điểm $S$ và giữa cạnh $AC$, đường còn lại đi qua điểm $C$ và giữa cạnh $AB$.
+
+Các cạnh số
+
+1. Đặt các số lại với nhau bằng dấu hoa thị để bạn có được ví dụ chia chính xác.
+
+2. Tìm TỐC ĐỘ thấp nhất và cao nhất ở các cạnh sau:
+
+a) SCO·P = IST;
+b) S·COR = CỘT SỐNG;
+c) TỐC ĐỘ: O = ST;
+d) C=COR : ST.
+
+3. Tìm MẪU SỐ lớn nhất nếu SIGN+MENA=TEL.
+
+(Trong ví dụ 2 và 3, các chữ cái giống nhau tương ứng với các số giống nhau.)

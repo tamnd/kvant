@@ -1,0 +1,50 @@
+---
+id: 1978-2-limanov-kto-menshe-28ddb0c8
+issue: kvant_1978_2
+year: 1978
+number: "2"
+title: Ai nhỏ hơn?
+authors:
+  - Лиманов Л. Г.
+rubric: smes
+page_first: 37
+page_last: 37
+page_labels: "35"
+tag: UP9V
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 610935f869cb0479e75935f7b60fd8e77eb9a1194023a637eb7f5adc78379c98
+prompt_sha256: draft-1
+translated_from: content/ru/1978/02/articles/14_limanov-kto-menshe-28ddb0c8.md
+source_content_sha256: acabaf1f6c91799b3f2b4991491594c1174a0cb624ec0833c9e1afdcae676594
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 35⟧
+
+Ai nhỏ hơn?
+
+Trang thứ ba của trang bìa nói về một số trò chơi. Tất nhiên, các quy tắc được đặt ra ở đó giúp bạn có thể kết nối mạng và bắt đầu chơi. Tuy nhiên, theo kinh nghiệm cho thấy, việc phát hành game “nhanh chóng” là điều khá khó khăn. Để giúp độc giả dễ dàng hơn trong giai đoạn chuẩn bị này, chúng tôi phân tích lô được hiển thị trên trang bìa. Nếu bạn cẩn thận làm theo phân tích thì tất nhiên bạn sẽ hoàn toàn hiểu rõ luật chơi.
+
+Vì vậy, hành động đầu tiên. Ba chân màu trắng có ý nghĩa gì? Đầu tiên, người đánh đố có một con chip thuộc một trong những màu không được hiển thị trong câu hỏi - trắng hoặc đỏ. Thật vậy, nếu toàn bộ tập hợp các màu đố được đưa ra trong câu hỏi của chúng ta, thì người đố sẽ phải nghĩ ra những chiếc ghim rõ ràng. (Lưu ý rằng trong cuộc thảo luận này, chúng ta không có màu sắc của các chân cắm được chèn vào.) Chỉ nên có một con chip lớn, màu đỏ và trắng, nếu không sẽ có ít chân nhô ra hơn. Vì vậy, người đánh đố có một chip màu đỏ-trắng và ba chip màu vàng-đen-xanh lục. Thứ hai, tất cả các chip màu vàng-đen-xanh-xanh đều ở những nơi “xa lạ”: đối diện màu vàng - không phải màu vàng, đối diện màu đen - không phải đen, v.v.
+
+9 (IX). Công thức nào được sử dụng để tính hàm tùy ý $h(x) = f(x^2)$?
+
+a) $h'(x) = f(2x)$; b) $h'(x) = 2f(x)$; c) $h'(x) = f'(2x)$; d) $h'(x) = 2x \times f(x^2)$; e) $h'(x) = 2x \cdot f'(x^2)$.
+
+10 (IX). Có bao nhiêu cách chia một nhóm 12 người thành ba nhóm nhỏ - 3, 4 và 5 người?
+
+a) $C_{12}^3 + C_{9}^4$; b). $C_{12}^3 \cdot C_{9}^4$; c) $C_{12}^3 + C_{12}^4$; d) $C_{12}^3 \cdot C_{12}^4$; e) $C_{12}^3 \cdot C_{12}^4 \cdot C_{12}^5$.
+
+Ai nhỏ hơn?
+
+Ở cột thứ hai có một con chip màu đen và đỏ.
+
+Giả sử cô ấy là người da đen. Khi đó quân đỏ phải ở cột đầu tiên - vì cả quân xanh lẫn quân xanh đều không thể có ở đó (nếu có quân xanh ở cột đầu tiên thì sẽ có ít nhất hai chốt đen trong đáp số). Tương tự như vậy, quân xanh lam chỉ có thể ở cột thứ ba và chỉ có thể có thêm một quân đen ở cột thứ tư.
+
+Vì vậy, nếu có một quân đen ở cột thứ hai thì có một quân cờ màu đỏ ở cột đầu tiên, một quân cờ xanh lam ở cột thứ ba và một quân cờ đen ở cột thứ tư. Nếu có một con chip màu đỏ ở cột thứ hai thì có một con chip màu xanh lam ở cột đầu tiên, một con chip màu đen ở cột thứ tư và một con chip màu xanh lam ở cột thứ ba. Vì vậy, chỉ có bốn lựa chọn có thể. Dù đặt tùy chọn nào trong số này, câu hỏi thứ tư của chúng tôi sẽ “phân biệt” tất cả: đáp số trong bốn trường hợp này sẽ khác nhau, và ở bước thứ năm chắc chắn chúng tôi sẽ đặt ra một bộ câu đố. Tuy nhiên, chúng tôi đã may mắn và cứu được một nước đi.
+
+L. Limanov

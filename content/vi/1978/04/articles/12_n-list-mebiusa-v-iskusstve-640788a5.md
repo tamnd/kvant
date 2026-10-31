@@ -1,0 +1,38 @@
+---
+id: 1978-4-n-list-mebiusa-v-iskusstve-640788a5
+issue: kvant_1978_4
+year: 1978
+number: "4"
+title: Dải Mobius trong nghệ thuật
+authors:
+  - Н. Х.
+rubric: raznoe
+page_first: 37
+page_last: 37
+page_labels: "35"
+tag: 3EZR
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: cfee78b1c25a2df3873cfeb852590fb24f9da8cd7b214410eaaf85f69ea7a0c1
+prompt_sha256: draft-1
+translated_from: content/ru/1978/04/articles/12_n-list-mebiusa-v-iskusstve-640788a5.md
+source_content_sha256: f67562a28f92d2c3d3ce4dea11fd94a9be937129620a30fce311d2796e71aed7
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 35⟧
+
+Dải Moebius trong nghệ thuật
+
+Dải Mobius là đại diện phổ biến nhất của bề mặt một mặt *). Điều này được giải thích không chỉ trong tài liệu toán học mà ngay cả trong tiểu thuyết. Ví dụ, trong cuốn tiểu thuyết của nhà văn Costa Rica Joaquin Gutierrez “Vào buổi sáng, Federico?…” (“Văn học nước ngoài”, 1976, số 2) có nói:
+
+*) Dải Mobius sẽ được thảo luận chi tiết trong một trong những số sắp tới; Ngoài ra, xem «Kvant», 1974, không. 3 và 1975, không. 7.
+
+"Hôm nay cô giáo cho chúng em xem một dải giấy Mobius. Cái này hay đấy. Lấy một dải giấy - từ một tờ báo thì tốt hơn, nó dài hơn - và các em sẽ thấy dải giấy đó có hai mặt; xác nhận điều này là nếu một con kiến muốn bò dọc một bên thì nó có thể làm thế này bao nhiêu tùy thích, nhưng để bò sang bên kia thì nó phải trèo qua mép. Đó là lý do tại sao người ta nói rằng sọc có hai mặt. Nhưng dải Mobius lại thành ra như thế này. Bạn cần phải lật lại. một đầu của dải giấy, như thể bạn định đóng nó lại, nhưng chúng ta chỉ quay một lượt và dán các đầu lại với nhau, khi đó tờ giấy sẽ chỉ có một mặt, ai muốn kiểm tra nếu nghi ngờ thì dẫn đầu ngón tay như đuổi theo một con kiến dọc theo toàn bộ dải băng, anh ta chợt tin rằng cả hai mặt đã hội tụ thành một và không cần phải vượt qua mép ”.
+Cả nghệ sĩ và nhà điêu khắc đã nhiều lần sử dụng dải Mobius. Khá nhiều bức vẽ khác nhau mô tả dải Mobius được để lại bởi họa sĩ nổi tiếng người Hà Lan M. Escher (1898-1971). Một trong số đó được giới thiệu trên trang bìa tạp chí của chúng tôi.
+Một loạt các biến thể của dải Mobius được tạo ra bởi nhà điêu khắc Max Bill (sinh năm 1908). Trong gần hai mươi năm, ông liên tục tìm đến dải Mobius, cố gắng thể hiện trong tác phẩm điêu khắc ý tưởng về chuyển động không ngừng và một hình thức mở ra trong không gian. Tuy nhiên, một trong những tác phẩm của ông - tác phẩm điêu khắc "Nút thắt không có hồi kết", đặt tại Bảo tàng Nghệ thuật Hiện đại Quốc gia ở Paris - được miêu tả trong bức tranh.
+
+N. X

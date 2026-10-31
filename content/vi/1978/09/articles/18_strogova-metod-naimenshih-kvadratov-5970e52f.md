@@ -1,0 +1,76 @@
+---
+id: 1978-9-strogova-metod-naimenshih-kvadratov-5970e52f
+issue: kvant_1978_9
+year: 1978
+number: "9"
+title: Phương pháp bình phương tối thiểu
+authors:
+  - Строгова А.
+rubric: raznoe
+page_first: 53
+page_last: 53
+page_labels: "51"
+tag: 3IBN
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 492edb0558f73b0e7fb8ba28e412fce958464e0d106744c21288b350de46aa91
+prompt_sha256: draft-1
+translated_from: content/ru/1978/09/articles/18_strogova-metod-naimenshih-kvadratov-5970e52f.md
+source_content_sha256: 904ad1796188bb454acc77149967eac6cf623f090b2365ff397f9aacea95d10c
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 51⟧
+
+Phương pháp bình phương tối thiểu được sử dụng khi xử lý các phép đo để làm giảm “nhiễu” của thí nghiệm: phương pháp này cho phép bạn sửa các lỗi ngẫu nhiên chắc chắn phát sinh trong quá trình đo trong trường hợp bản chất phụ thuộc của phép đo của một giá trị vào biến độc lập được chỉ định.
+
+Chúng ta hãy xem xét tình huống đơn giản nhất, khi đại lượng đo được $y$ phụ thuộc vào một biến $x$. Giả sử $n$ phép đo đã được thực hiện và đối với các giá trị $x_1, x_2, \dots, x_n$ của biến $x$ phép đo $y_1, y_2, \dots, y_n$ đã thu được. Nhiệm vụ là vẽ một đường thẳng $y=ax+b$ áp dụng cho các điểm $P(x_1; y_1), P(x_2; y_2), \dots, P(x_n; y_n)$.
+
+Lời giải bài toán, tất nhiên, phụ thuộc vào thực tế là khái niệm bên dưới từ “liền kề tốt nhất” là “tốt nhất” được coi là đường thẳng mà tổng độ lệch bình phương có giá trị nhỏ nhất, tức là biểu thức
+
+$$A_n = \sum_{i=1}^{n} (y_i - (ax_i + b))^2. \tag{1}$$
+
+Hình vẽ hiển thị đường thẳng mong muốn $y=ax+b$ và các điểm $P_1, \dots, P_n$. Hiệu $y_i - (ax_i + b)$ thể hiện độ lệch (dọc theo trục tọa độ) của điểm thực nghiệm $P_i (x_i, y_i)$ so với đường thẳng ban đầu.
+
+Làm cách nào để tìm giá trị của $a$ và $b$ để giảm thiểu biểu thức (1)? Giả sử rằng các giá trị đó tồn tại và tham số $a$ đã được tìm thấy cho chúng ta. Để tìm $b$, chúng ta viết lại $A_n$ dưới dạng
+
+$$A_n = \sum_{i=1}^{n} (y_i - ax_i)^2 - \sum_{i=1}^{n} 2b (y_i - ax_i) + \sum_{i=1}^{n} b^2 - 2b \sum_{i=1}^{n} (y_i - ax_i) + \sum_{i=1}^{n} (y_i - ax_i)^2.$$
+
+![Graph of $A_n$](image)
+
+Hãy coi $A_n$ là hàm (bậc hai) của $b$. Nó đạt mức tối thiểu tại
+
+$$b = \frac{1}{n} \sum_{i=1}^{n} (y_i - ax_i) = \frac{1}{n} \sum_{i=1}^{n} y_i - \frac{a}{n} \sum_{i=1}^{n} x_i.$$
+
+Đặt
+
+$$\bar{x} = \frac{1}{n} \sum_{i=1}^{n} x_i; \bar{y} = \frac{1}{n} \sum_{i=1}^{n} y_i$$
+
+chúng ta có thể viết $b = \bar{y} - a\bar{x}$, từ đâu cho $A_n$ chúng ta nhận được
+
+$$A_n = \sum_{i=1}^{n} ((y_i - \bar{y}) - a (x_i - \bar{x}))^2 = a^2 \sum_{i=1}^{n} (x_i - \bar{x})^2 - 2a \sum_{i=1}^{n} (y_i - \bar{y}) (x_i - \bar{x}) + \sum_{i=1}^{n} (y_i - \bar{y})^2.$$
+
+Bây giờ chúng ta hãy xem $A_n$ là hàm bình phương của $a$. Cô ấy có rất/không có quyền truy cập tối thiểu tại
+
+$$a = \sum_{i=1}^{n} (y_i - \bar{y}) (x_i - \bar{x}) / \sum_{i=1}^{n} (x_i - \bar{x})^2.$$
+
+Đường tốt nhất hóa ra là đường thẳng $y=ax+b$, trong đó
+
+$$\frac{\sum_{i=1}^{n} (y_i - \bar{y}) (x_i - \bar{x})}{\sum_{i=1}^{n} (x_i - \bar{x})^2}, \frac{\bar{x} \sum_{i=1}^{n} (y_i - \bar{y}) (x_i - \bar{x})}{\sum_{i=1}^{n} (x_i - \bar{x})^2}, b = \bar{y} - \frac{\sum_{i=1}^{n} (y_i - \bar{y}) (x_i - \bar{x})}{\sum_{i=1}^{n} (x_i - \bar{x})^2}.$$
+
+Bài tập
+
+1. Giải bài toán về làm mịn nhiễu Gaussian cho các hàm phi tuyến tính sau của một biến
+a) $y=ax^2+bx+c$;
+b) $y=a \cdot \cos x+b \cdot \sin x$.
+2. Phương pháp Gaussian “hoạt động” như thế nào trong không gian (đối với hai biến độc lập)? Xét bài toán cho mặt phẳng $z=ax+by+c^*$.
+3. Tìm điểm mà
+a) tổng khoảng cách từ ba điểm cho trước (không nằm trên cùng một đường thẳng) là nhỏ nhất;
+b) tổng khoảng cách từ ba đường tròn cho trước là nhỏ nhất.
+
+A. Strojuva
+
+*) Hình minh họa hình học của bài toán này được đưa ra trên trang bìa «Kvant» số 8.

@@ -1,0 +1,76 @@
+---
+id: 1978-12-gorev-moskovskiy-gosudarstvennyiy-universitet-im-m-v-lomonosova-769ff126
+issue: kvant_1978_12
+year: 1978
+number: "12"
+title: Đại học quốc gia Moscow được đặt theo tên. M. V. Lomonosova
+authors:
+  - Горев И.
+rubric: praktikum-abiturienta
+rubric_sub: Практикум абитуриента
+page_first: 42
+page_last: 42
+page_labels: "40"
+tag: K7S7
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 1a409812bb153961c8e12544597cb7c9af86efff9281f925e70ad44676c0bfd6
+prompt_sha256: draft-1
+translated_from: content/ru/1978/12/articles/12_gorev-moskovskiy-gosudarstvennyiy-universitet-im-m-v-lomonosova-769ff126.md
+source_content_sha256: 753398334f82755941d78c353de54649b546566d1668cdf2f2d05d12c5c0e251
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 40⟧
+
+Đại học quốc gia Moscow được đặt theo tên. M. V. Lomonosova
+
+Dưới đây chúng tôi công bố các lựa chọn cho kỳ thi viết đầu vào môn toán tại các khoa nhân văn của Đại học quốc gia Moscow năm 1978.
+
+Toán học
+
+Khoa Kinh tế Chính trị, Khoa Kinh tế
+
+1. Giải phương trình
+$$\log_{(2-2x^2)}(2-x^2-x^4) =
+= 2 - \frac{1}{\log_4(2-2x^2)}.$$
+
+2. Trong mặt phẳng cho trước là hình vuông $ABCD$ (với các đỉnh được chỉ định tuần tự) và một điểm $O$. Người ta biết rằng
+$$|OA| = |OC| = 10, \quad |OD| = 6\sqrt{2}$$
+độ dài cạnh hình vuông không vượt quá 3. Tìm diện tích hình vuông. Điểm $O$ nằm ở đâu - bên ngoài hay bên trong hình vuông?
+3. Tìm tất cả các giá trị của tham số $c$ mà hệ thống
+$$\begin{cases} -4x + cy = 1 + c, \\ (6 + c)x + 2y = 3 + c \end{cases}$$
+không có bất kỳ lời giải nào.
+4. Một số lượng dây nhất định đã được thực hiện. Nếu bạn quấn nó trên những cuộn dây có thể chứa được 800 m dây thì một cuộn dây sẽ không được quấn hoàn toàn. Nếu bạn chỉ sử dụng các cuộn dây có thể chứa 900 m dây, thì bạn sẽ gặp ít hơn 3 cuộn dây như vậy và một cuộn dây sẽ lại không được quấn hoàn toàn. Nếu bạn chỉ quấn dây trên các cuộn dây có thể chịu được 1100 m, thì bạn sẽ tìm thấy ít hơn 6 cuộn dây như vậy, nhưng tất cả các cuộn dây sẽ được quấn hoàn toàn. Có bao nhiêu mét dây được thực hiện?
+5. Tìm tất cả các giá trị của tham số $a$, với mỗi giá trị đó hàm
+$$y = 5ax - \sin 8x - a \cdot \sin 3x - 3x$$
+tăng và không có điểm tới hạn trên toàn bộ đường dây.
+
+Khoa Kế hoạch và Điều khiển kinh tế, Khoa Kinh tế
+1. Tìm tất cả các nghiệm của phương trình
+$$|x^2 + 2x - 4| + 2x + 6 = 0,$$
+thỏa mãn bất đẳng thức $x + \sqrt{18} < 1$.
+2. Trong tứ giác $ABCD$, góc tại đỉnh $B$ có độ lớn $90^\circ$ và đường chéo $BD$ là phân giác của góc này. Người ta biết rằng
+$$\frac{|AB|}{2} = \frac{|BD|}{4\sqrt{2}}.$$
+Tìm cosin của góc giữa các vectơ $BC$ và $AD$.
+3. Giải phương trình
+$$\log_3(x - \frac{3}{x}) = \frac{1}{\log_4(3x)} + 3.$$
+4. Có ba hợp kim. Tầng thứ nhất chứa 45% thiếc và 55% chì, tầng thứ hai chứa 10% độ cao, 40% thiếc và 50% chì, tầng thứ ba chứa 30% độ cao và 70% chì. Từ chúng cần phải tạo ra một hợp kim mới có chiều cao 15%. Tỷ lệ chì cao nhất và cao nhất mà hợp kim mới này có thể chứa là bao nhiêu?
+5. Tìm tập hợp tất cả các số thực $b$, với mỗi số đó hàm số
+$$f(x) = 16(b+1)\sin x - \sin 2x - (16b^2 + 32b - 10)x$$
+là trục số giảm dần trên toàn bộ trục số và không có điểm tới hạn.
+
+Khoa Tâm lý học
+1. Giải phương trình
+$$\log_3 \frac{3}{x} \cdot (\log_2 x) - \log_3 \frac{x^3}{\sqrt{3}} =
+\frac{1}{2} + \log_2 \sqrt{x}.$$
+2. Đường chéo $BD$ của tứ giác $ABCD$ là đường kính của đường tròn ngoại tiếp tứ giác này. Tính độ dài đường chéo $AC$ nếu $|BD| = 2$, $|AB| = 1$, $ABD : DBC = 4 : 3$.
+3. Người đi bộ, Velichispedikt và Mosiklist di chuyển dọc theo đường cao tốc theo một hướng với tốc độ không đổi. Tại thời điểm mã dành cho người đi bộ và máy đo tốc độ đang ở cùng một điểm, nhà hóa học đã đi sau họ 6 km. Vào thời điểm chiếc lá hùng mạnh đạt đến kích thước của nó, người đi bộ đã ở phía sau họ 3 km. Velichispedic đã vượt qua mã dành cho người đi bộ bao nhiêu km vào thời điểm mã dành cho người đi bộ của mosiklist thực sự?
+4. Tìm tập hợp tất cả các cặp số thực $(a, b)$ sao cho với mỗi cặp số đó, với mọi $x \in \mathbb{R}$,
+$$a(\cos x - 1) + b^2 = \cos (ax + b^2) - 1.$$
+5. Người ta biết rằng đối với một số hàm bậc hai
+$$f(x) = ax^2 + bx + c, \quad a \neq 0$$
+thỏa mãn bất đẳng thức

@@ -1,0 +1,84 @@
+---
+id: 1978-6-ryazanovskiy-moskovskiy-avtomehanicheskiy-institut-55e0bf0b
+issue: kvant_1978_6
+year: 1978
+number: "6"
+title: Viện cơ khí ô tô Moscow
+authors:
+  - Рязановский А. Р.
+rubric: ekzamenatsionnye-materialy
+page_first: 77
+page_last: 77
+page_labels: "75"
+tag: OCW5
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 7993e49ba50c67c454ca7308f156f4c77a94dbc169b5362f96caff71daf33209
+prompt_sha256: draft-1
+translated_from: content/ru/1978/06/articles/19_ryazanovskiy-moskovskiy-avtomehanicheskiy-institut-55e0bf0b.md
+source_content_sha256: 63c545565dddeb39b448f95b6a11d1f8b756b28e67108131e1a22627da91798d
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 75⟧
+
+Tùy chọn 4
+(kinh tế lao động, kinh tế hậu cần và lập kế hoạch, kinh tế ăn uống)
+
+1. Giải bất đẳng thức
+$$\frac{2x+3}{x^2+x-12} \leq \frac{1}{2}.$$
+
+2. Tìm giá trị lớn nhất và lớn nhất của hàm
+$$f(x) = 2 \cdot 3^x - 3^2x \cdot 4 + 2 \cdot 3^x$$
+trên đoạn [-1; 1].
+
+3. Tìm diện tích của hàm số được giới hạn bởi đồ thị của hàm số
+$$y = x^2 - 4, y = 4 - x^2.$$
+
+4. Bán kính của hình cầu nội tiếp trong hình nón là $R$. Tìm thể tích của hình nón nếu tâm của hình cầu ngoại tiếp hình nón trùng với tâm của hình cầu nội tiếp.
+
+5. Tại xưởng sản xuất đồ nội thất, ghế cũng được sản xuất. Để làm một chiếc bàn, người ta tiêu tốn 5 m ván và 1 m ván ép. Để làm một chiếc bàn, người ta tiêu tốn 1 m ván và 2 m ván ép. Hỏi có bao nhiêu bàn ghế được sản xuất nếu biết rằng 900 m ván và ván ép đã được sản xuất?
+
+Tùy chọn 5
+(bán hàng và tổ chức thương mại các sản phẩm thực phẩm, kế toán trong vận chuyển và công nghiệp, máy móc và thiết bị chế biến thực phẩm)
+
+1. Giải phương trình
+$$2\cos^2x - 4\sin x \cdot \cos x + 1 = 0.$$
+
+2. Giải bất đẳng thức
+$$\lg(x-1) + \lg(x+1) < \lg(x+5).$$
+
+3. Trong một cấp số biến phân, số hạng thứ tư bằng 4. Tại giá trị nào của hiệu của cấp số này thì tổng các tích từng cặp của ba số hạng đầu tiên của cấp số cộng sẽ là nhỏ nhất?
+
+4. Trong hình bình hành $ABCD$, điểm $K$ là trung điểm của cạnh $BC$ và điểm $M$ là trung điểm của cạnh $CD$. Tìm $|AD|$ nếu $|AK| = 6$ cm, $|AM| = 3$ cm và $K\hat{AM} = 60^\circ$.
+
+5. Viết phương trình tiếp tuyến của đồ thị hàm số
+$$y = \frac{1}{2}\sin^2\left(4x - \frac{\pi}{3}\right)$$
+tại điểm hoành độ $x = \frac{\pi}{6}$.
+
+V. Barbaumov, V. Yermakov, G. Savchenko, P. Saevtov
+
+Viện Ô tô Mátxcơva (MAMI) được thành lập vào năm 1939. Một trong những nhà khoa học lớn nhất trong lĩnh vực công nghiệp máy tự động, Viện sĩ E. A. Chudkov, đã tham gia vào việc tạo ra nó.
+
+MAMI là học viện giáo dục hàng đầu ở nước ta, đào tạo các chuyên gia thiết kế thiết bị tự động và máy kéo, kỹ sư cơ khí, kỹ sư kiểm tra và kỹ thuật viên công nghệ sản xuất cơ khí.
+
+Viện gồm 4 khoa: tự động và máy kéo, tự động và động cơ máy kéo, kỹ thuật và tự động hóa cơ khí, sản xuất chữ và rèn dập.
+
+Sinh viên tốt nghiệp của viện có nền tảng lý thuyết tốt sẽ tham gia giải quyết các vấn đề kỹ thuật phức tạp và thú vị bài toán. Hiện nay, một số sinh viên tốt nghiệp MAMI được gửi đến các tổ chức nghiên cứu, các văn phòng thiết kế chuyên nghiệp tham gia thiết kế các thương hiệu mới một cách tự động. Sinh viên tốt nghiệp của viện giải quyết các vấn đề đòi hỏi kiến ​​thức nâng cao về toán học và vật lý: tốc độ tới hạn của lốp tự động, rung động tự động trên hệ thống treo (lý thuyết về các quá trình ngẫu nhiên), cường độ và độ rung của động cơ và hộp số tự động (phương pháp vật lý toán học), các loại thiết bị tự động (lý thuyết về điều chỉnh tự động), độ ổn định của chuyển động tự động và nhiều hơn nữa.
+
+Đối với những sinh viên quan tâm đến toán học và vật lý, các khoa toán cao cấp, toán ứng dụng, vật lý, cơ học lý thuyết, lý thuyết về cơ chế và máy móc, các tổ chức điện tử và tự động cung cấp các hội thảo chuyên ngành và giới khoa học.
+
+Matematika
+Tùy chọn 1
+
+1. Giải phương trình
+$$4x^2 + 2x + 1 = 80.$$
+
+2. Giải phương trình
+$$2\mathrm{ctg}\frac{x}{2} + 3\mathrm{tg}\frac{x}{2} = 5.$$
+
+3. Giải bất đẳng thức
+$$\lg 2^{\frac{x-1}{2x-3}} > -\lg 2.$$
