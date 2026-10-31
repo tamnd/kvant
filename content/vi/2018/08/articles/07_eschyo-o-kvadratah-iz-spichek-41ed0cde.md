@@ -1,0 +1,69 @@
+---
+id: 2018-8-eschyo-o-kvadratah-iz-spichek-41ed0cde
+issue: kvant_2018_8
+year: 2018
+number: "8"
+title: Tìm hiểu thêm về hình vuông que diêm
+rubric: raznoe
+rubric_sub: Разное
+page_first: 40
+page_last: 40
+page_labels: "38"
+tag: VNPK
+lang: vi
+source: kvant_digital
+extraction: native
+content_sha256: e2165254b6679b93a7f76737495561e4a2e9e646a0d696af12303f7f94c365a3
+prompt_sha256: draft-1
+translated_from: content/ru/2018/08/articles/07_eschyo-o-kvadratah-iz-spichek-41ed0cde.md
+source_content_sha256: 6668e9be90ce5ca282f4b35b58369925e8c28e46c66e1e008217095ca1d01469
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 38⟧
+
+KVAN T 2018/Số 8
+
+⟦figure⟧
+
+Cơm. 3
+
+zika." Bản dịch từ tiếng Anh do A.S. Akhmatov biên tập. Phần II. – M.: Nauka, 1973, trang 9 và 10), bạn có thể tìm thấy một bản vẽ chính xác, rất giống với bức ảnh (Hình 3). Dòng chữ ở trang 9 cho biết: “Hình vẽ một thước đo có một đầu ngâm trong nước sạch. Sự đứt gãy rõ ràng ở thước kẻ giao với mặt nước chỉ có thể được giải thích bởi thực tế là có điều gì đó đang xảy ra ở đây với ánh sáng chiếu từ thước vào máy ảnh.” Nhưng ở Mỹ, nước còn có một điều kỳ lạ khác: đáng chú ý là nó phóng to đồng xu nằm ở phía dưới lên 20% (Hình 4). Dòng chữ tương ứng ở trang 10 cũng gây ngạc nhiên: “Bên phải là bức ảnh chụp một đồng xu nằm dưới đáy một chiếc cốc rỗng. Ở bên trái, chúng ta thấy bức ảnh chụp cùng một đồng xu nằm dưới đáy bình, chứa đầy
+
+⟦column⟧
+
+được bao phủ bởi nước. Cả hai đồng xu được chụp ảnh đồng thời trên một tấm trong máy ảnh. Một đồng xu được phủ nước sẽ có vẻ lớn hơn và gần máy ảnh hơn một đồng xu khác. Sự “nổi” rõ ràng này của đồng xu, cũng như ảo giác về sự “gãy” của thước, được giải thích bằng sự thay đổi hướng truyền ánh sáng từ môi trường này sang môi trường khác”. Thủ thuật dùng tiền xu không thể hiểu nổi, nhất là nhìn kỹ vào con số 30, 40 trên chiếc thước bị nước làm vỡ. Đúng, mốc 40 gần với máy ảnh hơn một chút -
+
+⟦figure⟧
+
+Cơm. 4
+
+lại và do đó nó có vẻ cao hơn mốc 30 một chút. Giữa chúng ta, tác dụng của một cây gậy gãy đã khiến con người bối rối từ xa xưa, và việc xây dựng đường đi chính xác của tia vẫn còn gây khó khăn.
+
+Mỹ P ISH U T
+
+Tìm hiểu thêm về hình vuông que diêm
+
+Chúng ta hãy nhớ lại bài toán từ «Kvant» Số 12 cho năm 2017. Trong Hình 1 - số 73, được trình bày
+
+⟦figure⟧
+
+Cơm. 3
+
+⟦figure⟧
+
+Cơm. 1
+
+⟦figure⟧
+
+Cơm. 2
+
+với các trận đấu. Người ta đề xuất sắp xếp lại hai que diêm để tạo thành một hình vuông.
+
+⟦figure⟧
+
+Cơm. 4
+
+Hình 2 và 3 cho thấy hai phương pháp mà chúng tôi đã trình bày trước đó. Tác giả bài toán Sergey Kostin đã nói với chúng tôi một phương pháp khác mà ông đã nghĩ ra với các học sinh của mình (Hình 4). Đó là cách các hình vuông khác nhau!
