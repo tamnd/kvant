@@ -1,0 +1,58 @@
+---
+id: 1985-11-zadachi-m951-m955-f963-f967-9b2bfbeb
+issue: kvant_1985_11
+year: 1985
+number: "11"
+title: Bài toán M951—M955; F963—F967
+rubric: zadachnik-kvanta
+rubric_sub: Задачник «Кванта»
+page_first: 33
+page_last: 33
+page_labels: "31"
+tag: 47A1
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: a3d015459a975c01e623187284addcde29a48a00de28707f3ab904e5f69d33cf
+prompt_sha256: draft-1
+translated_from: content/ru/1985/11/articles/14_zadachi-m951-m955-f963-f967-9b2bfbeb.md
+source_content_sha256: 60d83f3b6bf95dbcdbae069c6706e466a8f1764958eea2c10c1e3d6bfef02ebc
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 31⟧
+
+Nhiệm vụ
+
+M951—M955; F963—F967
+
+M951. Tất cả các cạnh của lục giác lồi ABCDEF đều bằng 1. Chứng minh rằng bán kính ngoại tiếp của một trong các tam giác ACE và BDF ít nhất là 1.
+
+E. Horvath (Hungary)
+
+M952. Hãy ký hiệu bằng {x} phần phân số của số x; {x} = x - [x], trong đó [x] là số nguyên lớn nhất không vượt quá nó.
+
+a) Cho ví dụ về số a sao cho
+{a} + {1/a} = 1.
+
+6) Chứng minh rằng số a như vậy không thể hữu tỉ.
+
+I. Varga (Romania)
+
+M953. Trên mặt phẳng có 6 điểm trong đó không có 3 điểm nào thẳng hàng. Tất cả 15 đường thẳng nối các điểm này theo cặp đều được vẽ. Số điểm lớn nhất (ngoài dữ liệu) mà tại đó ba trong số 15 đường này giao nhau là bao nhiêu?
+
+V. V. Prasolov
+
+M954. a) Một hình chữ nhật có cạnh a và b nội tiếp một tam giác sao cho tất cả các đỉnh của nó nằm trên các cạnh của tam giác. Gọi a₁ và b₁ là độ dài hình chiếu của tam giác lên các đường thẳng song song với các cạnh a và b của hình chữ nhật. Chứng minh đẳng thức
+$$\frac{a}{a_1} + \frac{b}{b_1} = 1.$$
+
+6) Một tứ diện tùy ý được nội tiếp các cạnh a, b và c hình chữ nhật song song sao cho tất cả các đỉnh của nó đều nằm trên bề mặt của tứ diện. Gọi a₁, b₁ và c₁ là độ dài các hình chiếu của tứ diện lên các đường thẳng song song với các cạnh a, b và c. Chứng minh đẳng thức
+$$\frac{a}{a_1} + \frac{b}{b_1} + \frac{c}{c_1} = 1.$$
+
+V. N. Dubrovsky
+
+M955.* N người tham gia “bữa tiệc điên rồ”* đang ngồi ở một chiếc bàn tròn. Mỗi phút có một cặp hàng xóm đổi chỗ cho nhau. Sau tên gì - (Phần kết xem trang 34)
+
+*) Từ truyện cổ tích "Alice ở xứ sở thần tiên" của Lewis Carroll.

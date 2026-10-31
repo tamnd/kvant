@@ -1,0 +1,48 @@
+---
+id: 1985-7-zadachi-c3e84285
+issue: kvant_1985_7
+year: 1985
+number: "7"
+title: Bài toán
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 39
+page_last: 39
+tag: EKV8
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: c7b1b91e8e5586cea7b719908abf0c665135e4752d2118eb20a80c9832cf9908
+prompt_sha256: draft-1
+translated_from: content/ru/1985/07/articles/11_zadachi-c3e84285.md
+source_content_sha256: b82e369e755a28a4e6d8ba965b1a3490f7d8bb629cc193f130de45d6751476a1
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+Nhiệm vụ
+
+1. Tôi có một số điện thoại rất tuyệt: ba chữ số đầu giống nhau, bốn chữ số còn lại cũng giống nhau. Hơn nữa, tổng của tất cả các chữ số của số này bằng hai số, chữ số đầu tiên trùng với chữ số đầu tiên trong số điện thoại của tôi và chữ số cuối cùng trùng với chữ số cuối cùng. Tìm số có bảy chữ số này.
+
+2. Giải bài toán số sau:
+
+$$\times \frac{CEMB}{CEMB}$$
+
+****
+
+****
+
+******
+
+3. Có 11 quân cờ trên một bàn tròn: 5 quân đen và 6 quân trắng. Năm chàng trai ngồi cùng bàn đang chơi trò chơi sau. Đầu tiên, mọi người lấy hai quân cờ, sau đó người mới bắt đầu lấy quân cờ còn lại. Nếu anh ta có cả ba quân cờ cùng màu thì anh ta thắng và trò chơi kết thúc, nếu không thì anh ta giữ lại hai quân cờ cùng màu cho mình và chuyển quân thứ ba cho đồng đội ở bên phải. Nếu anh ta có tất cả các quân cờ cùng màu thì anh ta thắng, nếu không thì anh ta hành động như trước, v.v. Có thể thực hiện sao cho mỗi người thực hiện ít nhất hai nước đi không?
+
+4. Yêu cầu một người bạn đứng quay lưng vào tường, gót chân dựa vào tường, sau đó cố gắng dùng ngón tay chạm tới ngón chân mà không cong đầu gối. Có lẽ anh ấy sẽ không nhận được nó. Tại sao?
+
+5. Một hình bát giác đều được chia thành các phần có màu như trong hình. Chứng minh rằng tổng diện tích được tô bởi mỗi màu là như nhau.
+
+Những nhiệm vụ này đã được cung cấp cho chúng tôi:
+N. K. Antonovich, L. P. Mochalov, A. P. Savin,
+S. S. Krotov, V. V. Tùy ý

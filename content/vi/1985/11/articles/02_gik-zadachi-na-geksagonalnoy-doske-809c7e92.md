@@ -1,0 +1,66 @@
+---
+id: 1985-11-gik-zadachi-na-geksagonalnoy-doske-809c7e92
+issue: kvant_1985_11
+year: 1985
+number: "11"
+title: Bài toán trên bảng lục giác
+authors:
+  - Гик Е. Я.
+rubric: shahmatnaya-stranichka
+rubric_sub: Шахматы
+page_first: 67
+page_last: 67
+tag: 47HH
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 86b55dc4d7537f33ce028bc5a07545fb03e2bcce886173ebf6974d7418a4eed6
+prompt_sha256: draft-1
+translated_from: content/ru/1985/11/articles/02_gik-zadachi-na-geksagonalnoy-doske-809c7e92.md
+source_content_sha256: 54711ed63b6f3596c122dbc237e17e3ce09d2d6104c4ff2634cd18b27826f1a6
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+NHIỆM VỤ
+TRÊN BẢNG LỤC GIÁC
+
+Lần trước chúng tôi đã cho bạn biết cách chơi cờ lục giác và lưu ý các đặc điểm hình học của nó. Chúng ta hãy chú ý đến một số sắc thái khác để phân biệt việc sử dụng cờ vua với những trò chơi thông thường. Một vua trên bàn cờ hình lục giác có khả năng bẫy vua địch nếu nó ở trong góc. Ví dụ vua trắng f3 che giấu hoàn toàn vua đen f1. Từ đó, vua và bất kỳ quân nào cũng có thể chiếu bí mà không cần sự trợ giúp của các quân khác. Mặt khác, không dễ để dồn quân vua vào góc, do đó, dù có hai quân nhỏ cũng không gây chú ý; một phần ba là cần thiết. Nhưng quân hậu, không có bất kỳ sự hỗ trợ nào, có thể chiếu tướng, chẳng hạn như từ cùng ô f3 đến vua f1.
+
+Một số bài toán được đề xuất được lấy từ bộ sưu tập của S. Sokolov và S. Tsygankov, những người rất hâm mộ cờ lục giác.
+
+A. Grishin.
+Trắng bắt đầu và chiếu hết sau 4 nước đi.
+Trong cờ vua thông thường, quân mã thực hiện một nước đi sẽ mất quyền kiểm soát tất cả các ô mà mình có. Đó là một vấn đề khác với những hình lục giác. Ở vị trí này, vua đen bị khóa: các ô e6, g6, d7 và h7 do quân trắng nắm giữ, e7 và g7 do quân tốt nắm giữ, e8, e9, f9, g8, g9 do vua nắm giữ, bản thân quân tốt f7 được hiệp sĩ bảo vệ.
+
+1. Ke4—c5! Hiệp sĩ di chuyển, nhưng không di chuyển ra khỏi tầm kiểm soát của con tốt f7. 1...i4—i3 2. Kc5—d8! Một lần nữa con tốt lại được hiệp sĩ bảo vệ. 2. Ke4 không tốt à? vì 2...i4! và không có bạn đời, nhưng không có 2...i2 3. Kh4 và 4. Ki6×. 2...i3—i2 3. Kd8—g9 i2—i1Ф 4. Kg9—i6×! Hiệp sĩ thực hiện bốn nước đi liên tiếp, nhưng mỗi lần đều tiếp tục bảo vệ con tốt của mình. Một mô típ hình học không thể có trong trò chơi cổ điển.
+
+L. Ietsu. Trắng: Kpd6, Cb3, Cc3, các điểm a1, a2, a4, c4; đen: Kpa3, điểm a5, c5, d7. Trắng bắt đầu và chiếu hết sau 5 nước đi.
+
+Bây giờ vua trắng đang đi du hành nhưng sẽ không mệt mỏi canh chừng điểm quan trọng c4. 1. Kpd6—d5 d7—d6. Sau 1...d5, một trận đấu nhanh được thực hiện. 2. Kpe5—d3! d6—d5 3. Kpd3—d4! d5:c4+ 4. Kpd4:c5 c4:b3 5. a2:b3×! Một kẻ chiếu tướng bất ngờ, buộc phải đứng về phía một con tốt, dẫn đến cái chết.
+
+L. Ietsu. Trắng: Kpb6, Qg1, Cf11, Kd4, Kf8, tr. e5, i3; đen: Kpe6, p.p. e7, i4. Trắng bắt đầu và chiếu hết sau 2 nước đi.
+
+Thoạt nhìn, vua đen đã đạt được tự do, hai chiêu không thể bắt được hắn. 1. Cf11—l1! Một chuyển động dài của từ từ góc này sang góc khác của bảng lục giác sẽ giải quyết được vấn đề. Màu đen ở Tsushang. Bất kỳ nước đi nào của vua của họ đều dẫn đến một cuộc chiếu tướng đẹp mắt với quân hậu ở giữa bàn cờ. 1...Kpe6: d4 2. Qg1—c2×. Vị giám mục đã vay tiền và nhắm vào ô vuông c2. 1...Kpe6:f8 2. Qg1—g9×. Còn quảng trường g9 do giám mục kiểm soát, ẩn mình khỏi nơi diễn ra các sự kiện chính. 1...Kpe6—f5 2. Qg1—g3×. Hình vuông g3 nằm trong phạm vi của quân tượng. 1...Kpe6—d6 2. Qg1—c6×. Ở biến thể cuối cùng, quân hậu trắng được vua ủng hộ.
+
+D. Boyer, Trắng: Kpb1, Cg2, Kh3, Kh6, điểm b3, g4; màu đen: Kpd3, Rg9, Cl4, d4. Trắng bắt đầu và chiếu hết sau 2 nước đi.
+
+bài toán này minh họa mô-típ hình học về việc “bỏ quân” ​​(chủ đề của Novotny), phổ biến trong bố cục cờ vua nói chung. Sự khác biệt duy nhất là ở đường hành động của các nhân vật.
+
+1. g4—g6! Con tốt giữ vị trí ban đầu và do đó di chuyển hai ô về phía trước cùng một lúc. Trên đường đi, một yếu tố nhiệm vụ khác phát sinh - giải phóng trường cho một nhân vật khác. Bây giờ quân Tốt thấy mình đang ở điểm giao nhau của các đường g1-g10 và a4-l4, tương ứng là do quân xe và quân tượng tùy ý sử dụng. 1...Ch4:g6. Quỹ đạo của quân xe bị chặn và 2. Kh6—g4×. 1...Jg9:g6. Quỹ đạo của quân bị chặn (đường a4-l4 không thuộc thẩm quyền của quân xe) và 2. Kh6-e6×.
+
+Bảng lục giác mang đến khả năng không giới hạn cho những người yêu thích môn toán bài toán và câu đố. Cờ vua-toán học nổi tiếng bài toán về vị trí các quân cờ, sức mạnh, lộ trình của chúng, v.v. có thể được đặt cho một bàn cờ hình lục giác. Ví dụ, hãy thử giải câu bài toán này: những quân hậu thuần khiết nhất có thể được đặt trên bàn cờ lục giác để chúng không nằm cạnh nhau là gì? Chúng ta hãy nhớ rằng trên một bàn cờ chung, có thể đặt 8 quân hậu (và không nhiều hơn) theo cách đã chỉ định và có 92 cách sắp xếp.
+
+Số quân hậu tối thiểu có thể bao phủ tất cả các ô trống trên bàn cờ là 5 và người ta đã chứng minh rằng số lượng thiết lập là 4860, đây là một trong số đó: c6, d3, e5, f7, g4. Bàn cờ lục giác chứa thêm gần 30 ô vuông, nhưng nó chỉ có thể được canh giữ bởi năm quân hậu! Chỉ cần đặt chúng trên các ô c5, d3, g5, h8, k7 là đủ.
+
+Cạnh tranh bài toán
+Kết thúc câu chuyện về cờ vua sáu mặt, chúng tôi lại đưa ra cho các bạn hai ván cờ với cờ vua sáu mặt trên một bàn cờ chung.
+
+21. Màu trắng: Kpb4, Ca2, mục c4. Đen: Kpd4, trang. d7, h5, Trắng bắt đầu và thắng.
+
+22. Trắng: Kpd5, trang. d4, f4. Đen: Kpg4, điểm a5, f5. Trắng bắt đầu và thắng.
+
+Hạn chót gửi lời giải là ngày 25/01/1986 (có ghi chú trên phong bì: “Thi cờ «Kvant», nhiệm vụ 21, 22”).

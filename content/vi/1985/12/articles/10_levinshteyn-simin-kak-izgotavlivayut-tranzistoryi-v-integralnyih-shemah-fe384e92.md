@@ -1,0 +1,55 @@
+---
+id: 1985-12-levinshteyn-simin-kak-izgotavlivayut-tranzistoryi-v-integralnyih-shemah-fe384e92
+issue: kvant_1985_12
+year: 1985
+number: "12"
+title: Cách tạo ra bóng bán dẫn trong mạch tích hợp
+authors:
+  - Левинштейн М. Е.
+  - Симин Г. С.
+rubric: raznoe
+rubric_sub: Разное
+page_first: 40
+page_last: 40
+page_labels: "38"
+tag: DKD2
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: f7485a9f40f161483597a050a9f6ba947bd2b5a21ced4a85723682210a9c5374
+prompt_sha256: draft-1
+translated_from: content/ru/1985/12/articles/10_levinshteyn-simin-kak-izgotavlivayut-tranzistoryi-v-integralnyih-shemah-fe384e92.md
+source_content_sha256: f3ba644cb60315c4eeda5a51d20aee423e5876c7b99b071f9e488f3502e8c0ca
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 38⟧
+
+IV. Cách chế tạo Transistor trong mạch tích hợp
+
+Tiến sĩ Khoa học Vật lý và Toán học M. E. LEVINSHTEIN, Ứng viên Khoa học Vật lý và Toán học G. S. SIMIN
+
+Trong các số trước của tạp chí, chúng tôi đã nói về nguyên lý hoạt động của bóng bán dẫn. Hôm nay anh ấy nói về cách chế tạo bóng bán dẫn hiện đại.
+
+Có rất nhiều hứa hẹn trong việc sản xuất công nghệ các bóng bán dẫn lưỡng cực và hữu ích đến mức chỉ cần xem xét nó bằng ví dụ về một bóng bán dẫn lưỡng cực, các thiết bị của chúng phức tạp hơn một chút.
+
+hình 1 thể hiện thiết kế của bóng bán dẫn lưỡng cực, một phần tử mạch tích hợp (IC) được sử dụng trong máy tính. Thiết kế này quá khác so với cách biểu diễn sơ đồ của bóng bán dẫn được hiển thị trong hình 2, đã được thảo luận trong bài viết trước, đến nỗi thoạt nhìn khó có thể tin rằng đây là cùng một thiết bị. Tuy nhiên, nếu để ý kỹ, không khó để nhận thấy trên hình 1 các vùng $n—p—n$ giống như trên hình 2.
+
+Thiết kế được hiển thị trong hình 1 được gọi là phẳng, nghĩa là phẳng (từ tiếng Anh mặt phẳng - phẳng): tất cả các hoạt động để sản xuất một bóng bán dẫn như vậy được thực hiện trên một mặt của tấm phẳng silicon (hoặc gali arsenide). Công nghệ phẳng trong sản xuất mạch tích hợp là công nghệ duy nhất có thể thực hiện được. Đầu tiên, vì việc sản xuất vi mạch liên quan đến việc đặt hàng chục hoặc hàng trăm nghìn bóng bán dẫn có kích thước vài micron trên một tấm bán dẫn, nên không thể căn chỉnh chính xác các phần tử riêng lẻ của từng bóng bán dẫn trên cả hai mặt của tấm bán dẫn. Thứ hai, công nghệ phẳng chỉ cho phép sử dụng các tấm bán dẫn như vậy (dày một trăm micron trở lên). Những tấm như vậy có đủ độ bền cơ học và thuận tiện sử dụng. Với công nghệ hai mặt, sẽ có những tấm dày một phần micron. Thực tế không thể làm việc với các tấm có độ dày như vậy.
+
+Có khá nhiều cách để tạo ra IC. Tuy nhiên, trong số các công nghệ phổ biến mà BT được tạo ra, nó được thể hiện dưới dạng đơn giản hóa trong hình 3.
+
+1. Bề mặt của tấm wafer đá lửa được mô tả. Một lớp silicon dioxide SiO$_2$ được hình thành trên đó. Sau đó, một lớp mỏng polymer nhạy sáng - chất phát quang - được phủ lên trên. Một nhà phát âm có khả năng thay đổi tính chất hóa học của nó dưới tác động của ánh sáng.
+
+Một tấm kính có hình được dán trên đó, bao gồm các phần tùy ý và mờ đục - phoresillon, được ép vào một tấm bán dẫn được phủ chất điện quang. Sau đó, chất phát quang được chiếu sáng qua phoresillon và những khu vực của chất phát quang được ánh sáng chiếu sáng sẽ có khả năng hòa tan trong một số bẫy nhất định. Hoạt động này được gọi là chụp ảnh. Đây là một trong những điều quan trọng nhất trong quá trình sản xuất tất cả các IC.
+
+Khi tấm bán dẫn có chất bán dẫn được đánh dấu được nhúng vào bẫy, các khu vực của chất bán dẫn tiếp xúc với ánh sáng cũng như các khu vực chứa silicon dioxide bên dưới sẽ bị hòa tan. Trên tấm bán dẫn ở những nơi này, các khu vực có bề mặt silicon sạch - “cửa sổ” - được mở ra. Sau đó, trong một bẫy khác có chức năng hòa tan chất điện phân chưa tiếp xúc nhưng không hòa tan SiO$_2$, chất điện quang còn lại sẽ bị loại bỏ. Kết quả là, bề mặt của tấm wafer là sự kết hợp của các “cửa sổ” với các khu vực được bảo vệ bởi một lớp silicon dioxide bền bỉ, chịu được nhiệt độ cao - một “mặt nạ”.
+
+Hình 1. Transistor lưỡng cực phẳng - một phần tử IC trên BT.
+a) Tiết diện của Transistor.
+b) Nhìn từ trên xuống của cấu trúc bóng bán dẫn.
+Kích thước điển hình của bóng bán dẫn tính bằng micron được đưa ra; độ dày đế $W=0,5$ µm.
+
+Hình 2. Sơ đồ biểu diễn của một bóng bán dẫn lưỡng cực.
