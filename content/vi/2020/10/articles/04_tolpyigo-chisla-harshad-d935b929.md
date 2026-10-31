@@ -1,0 +1,44 @@
+---
+id: 2020-10-tolpyigo-chisla-harshad-d935b929
+issue: kvant_2020_10
+year: 2020
+number: "10"
+title: Số Harshad
+authors:
+  - Толпыго А. К.
+rubric: matematicheskiy-kruzhok
+rubric_sub: Математический кружок
+page_first: 36
+page_last: 36
+tag: YVLH
+lang: vi
+source: kvant_digital
+extraction: native
+content_sha256: 8ee83c6b2b51826bfcb830046a5146335c73d701636248e0d743fed5527fc59e
+prompt_sha256: draft-1
+translated_from: content/ru/2020/10/articles/04_tolpyigo-chisla-harshad-d935b929.md
+source_content_sha256: 91d8c663b0c04b6e6c7cb1aead2abc1b5cfe512d7fd2af297c6eb135eaaa7359
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+VÒNG TRÒN TOÁN HỌC
+
+Số Harshad
+
+A. TOLPYGO
+
+PHẠM VI NHIỆM VỤ ĐƯỢC XEM XÉT trong bài viết này có thể được mô tả bằng một cụm từ: Tần suất một số được chia cho tổng các chữ số của nó là bao nhiêu? Hóa ra câu hỏi đơn giản này dẫn đến cả một chu kỳ khá đa dạng bài toán. Các số có đặc tính này được gọi là số Niven, hoặc số Harshad (từ tiếng Phạn “harsha” - niềm vui lớn); cái tên này được đặt cho họ bởi nhà toán học Ấn Độ D.C. Kaprekar; Để cho ngắn gọn, chúng ta sẽ gọi chúng là số X. Vì các số có một chữ số rõ ràng là như vậy nên chúng ta sẽ đồng ý ngay rằng chúng ta chỉ xem xét những số X có ít nhất hai (hoặc thậm chí tốt hơn, ít nhất là ba) chữ số. Hãy bắt đầu với một thực tế hiển nhiên là tất cả các số có tổng chữ số là 3 hoặc 9 đều là số Harshad. Cũng dễ dàng đưa ra ví dụ về số X với các tổng nhỏ khác của các chữ số; ví dụ, đây đều là những số chẵn có tổng các chữ số là 2 hoặc 6. Không khó để đưa ra các ví dụ khác: đây là những số 224, 605 hoặc 999999999. Nhưng nếu tổng các chữ số lớn thì sao? Có phải lúc nào cũng có thể xây dựng được số lượng Harshad như vậy không? Đáp số – tích cực. Phát biểu 1. Với mọi số tự nhiên m đều tồn tại một số X có tổng các chữ số m. Bằng chứng. Xét các số 1, 10, 100, …, $10^{k}$, … Theo nguyên lý Dirichlet, tồn tại số dư r sao cho một số lớn tùy ý các số này khi chia cho m sẽ có số dư r. Bây giờ chỉ cần lấy tổng của m số tương ứng $10^{k}$ cho các k khác nhau như vậy là đủ (cũng có thể trùng khớp với nhau, nhưng với số lượng không quá 9). Ví dụ 1. Cho m 37. Vì 999 chia hết cho 37 nên mọi số $1, 10^{4}, 10^{7}$, ... $..., 10^{3k1}$ khi chia cho 37 đều có số dư như nhau. Như vậy, ta có thể lấy
+
+DOI: https://doi.org/10.4213/kvant20201004
+
+⟦column⟧
+
+số 100100100...1 (và cứ thế 37 lần); nhưng nó dễ lấy hơn, ví dụ: số 9009009009001. Lưu ý. Dưới đây chúng tôi sẽ chứng minh một phát biểu mạnh hơn đáng kể, đó là: dù m là bao nhiêu thì tỷ lệ các số X trong số tất cả các số có tổng các chữ số m đều lớn hơn 0 (có xu hướng đạt đến giới hạn lớn hơn 0; một công thức chính xác hơn sẽ được đưa ra dưới đây).
+
+Hàng dài
+
+Chúng ta hãy gọi một chuỗi có độ dài k là một chuỗi các số n, n 1, n 2, …, $n k_{–} 1,$ đều là Harshad. Vì một chuỗi luôn được xác định hoàn toàn bởi số hạng đầu tiên của nó nên trong phần tiếp theo, theo quy luật, chúng ta sẽ chỉ viết ra chuỗi này. Không khó để đưa ra một ví dụ về một chuỗi có độ dài 3: chẳng hạn, nó có thể bắt đầu bằng số 110, vì 111 và 112 cũng là số X. (Các số 1010, 10010, v.v. cũng phù hợp.) Có thể xây dựng một chuỗi dài hơn không? Phát biểu 2. Có một chuỗi có độ dài 10. Để chứng minh điều đó, tất nhiên, chỉ cần đưa ra một ví dụ (mà chúng ta sẽ làm bây giờ) là đủ, nhưng thật thú vị khi biết cách xây dựng nó. Tất nhiên, bạn có thể giao nhiệm vụ cho máy tính (và phương pháp này dẫn đến mục tiêu), nhưng sau đó - toán học ở đâu? Sẽ rất dễ dàng để xây dựng một ví dụ nếu chúng ta được phép xem xét các số có một chữ số (tất cả các số từ 1 đến 10 đều chia hết cho tổng các chữ số của chúng), nhưng điều này là không được phép. Tuy nhiên, nó gợi ý một ý tưởng: đặt số đầu tiên kết thúc bằng 0 và tổng các chữ số của nó bằng r. Khi đó các số sau sẽ có tận cùng là 1, 2, ..., 9 và tổng các chữ số của chúng sẽ là r 1, ..., r 9. Sẽ không khó để tìm một số (ngay cả với tổng các chữ số cho trước, nếu nó đủ lớn) chia hết cho tất cả các số này, nhưng chúng ta không cần một số chia hết mà là các số liên tiếp. Nhưng điều này cũng có thể thực hiện được nếu bạn sử dụng thủ thuật này. Hãy bắt đầu với một số "tiện lợi" (chính xác thì "sự tiện lợi" của nó bao gồm những gì sẽ được xem sau), chúng ta sẽ lấy số này là r, tức là đối với tổng các chữ số của số đầu tiên trong chuỗi của chúng ta. Chúng tôi sẽ gọi số này là số tham chiếu. Để bắt đầu, hãy lấy số 30 làm tham chiếu. Giả sử rằng số đầu tiên của chúng ta kết thúc bằng số ...30 hoặc,

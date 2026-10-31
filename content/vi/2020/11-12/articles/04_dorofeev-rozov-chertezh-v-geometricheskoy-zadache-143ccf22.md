@@ -1,0 +1,46 @@
+---
+id: 2020-11-12-dorofeev-rozov-chertezh-v-geometricheskoy-zadache-143ccf22
+issue: kvant_2020_11-12
+year: 2020
+number: 11-12
+title: Vẽ hình học bài toán
+authors:
+  - Дорофеев Г. В.
+  - Розов Н. Х.
+rubric: praktikum-abiturienta
+rubric_sub: Практикум абитуриента
+page_first: 27
+page_last: 27
+page_labels: "25"
+tag: U69X
+lang: vi
+source: kvant_digital
+extraction: native
+content_sha256: 1deb585bb0fdde9a67aea31d4413fb6ab93cce8e5ba1df65909fe7ec7fbd1877
+prompt_sha256: draft-1
+translated_from: content/ru/2020/11-12/articles/04_dorofeev-rozov-chertezh-v-geometricheskoy-zadache-143ccf22.md
+source_content_sha256: 93b1454ecfb9cb590bc1f2e8077b68c17a546fb3449cd709024fcaa198a68bc7
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 25⟧
+
+PR HÀNH ĐỘNG U M
+
+Vẽ hình học bài toán
+
+G.DOROFEEV, N.ROZOV
+
+Các ứng viên nhìn nhận VAI TRÒ CỦA BẢN VẼ TRONG GIẢI QUYẾT hình học bài toán một cách khác nhau. Một số người cho rằng việc vẽ là không cần thiết chút nào và họ thực hiện nó một cách cố tình bất cẩn. Ngược lại, những người khác coi bản thân bức vẽ đã là một lý lẽ đầy đủ trong lý luận và thậm chí không thấy cần thiết phải chứng minh bằng bất kỳ cách nào những gì “có thể nhìn thấy được từ bức vẽ”. Cả hai quan điểm cực đoan này đều sai. Tất nhiên, không có hình vẽ nào, dù là hình vẽ chính xác nhất, có thể thay thế được một chứng minh logic mà chỉ mang tính minh họa cho lý luận. Bất kỳ thực tế hình học nào mà chúng ta “nhìn thấy” trong bản vẽ phải được chứng minh một cách nghiêm ngặt - chỉ khi đó chúng ta mới có thể khẳng định rằng thực tế này thực sự diễn ra và không có được từ một bản vẽ đúng (hoặc nguy hiểm hơn nhiều, không chính xác). Đồng thời, hình vẽ trực quan là trợ thủ đắc lực cho lời giải bài toán: nó có thể gợi ý ý tưởng về lý luận và tính toán cần thiết, nảy sinh ý tưởng sử dụng một định lý nhất định hoặc đưa ra một cách xây dựng bổ sung thành công. Không phải vô cớ mà các nhà toán học thường sử dụng đến các hình minh họa hình học để làm cho ý tưởng chứng minh trở nên dễ hiểu hơn. Tuy nhiên, chỉ có bản vẽ phản ánh chính xác các đặc điểm hình học thiết yếu của cấu hình được thảo luận trong điều kiện mới có thể giúp giải quyết bài toán. Đó là lý do tại sao bản vẽ nên được xử lý rất cẩn thận. Người nộp đơn thường giới hạn bản thân ở bản vẽ đã hoàn thành ít nhiều thành công đầu tiên mà không quan tâm đến việc bản vẽ đã hoàn thành đáp ứng điều kiện bài toán chính xác đến mức nào.
+
+Xuất bản năm «Kvant» số 6, 1976.
+
+A B IT UR I E NTA
+
+⟦column⟧
+
+Trong khi đó, trong nhiều bài toán, về nguyên tắc không thể thực hiện một lời giải hoàn chỉnh từ một bản vẽ, vì điều kiện bài toán cho phép tồn tại các cấu hình hình học khác nhau. Ngoài ra, việc đính kèm một bản vẽ “ngẫu nhiên” như vậy sẽ dẫn đến một vấn đề khác: trong quá trình lời giải bài toán, có thể phát hiện ra sự mâu thuẫn giữa kết quả thu được và bản vẽ ban đầu, điều này thường khiến người nộp đơn nhầm lẫn. Tuy nhiên, với sự hiểu biết chính xác về vai trò của hình vẽ, điều này không có gì sai - bạn chỉ cần từ bỏ hình ảnh gốc và tạo một bản vẽ mới tương ứng với thông tin hình học đã xuất hiện (tất nhiên, với điều kiện là lý luận và tính toán được thực hiện là chính xác). Khi xây dựng một bản vẽ, có thể hữu ích không nếu bạn không tạo một bản phác thảo gần đúng, bản phác thảo này chỉ đưa ra ý tưởng chung về cấu hình hình học, mà hãy cố gắng xây dựng bản vẽ một cách nhất quán, dựa trên dữ liệu bài toán và các sự kiện hình học chung. Với cách tiếp cận này, bạn sẽ dễ dàng “nhìn thấy” những ý tưởng có thể áp dụng trong lời giải. Bài toán 1 (MSU, Khoa Khoa học Đất, 1974). Trong tam giác ABC, góc B bằng 90°, AB 4. Lấy điểm D trên cạnh BC sao cho BD 1. Một đường tròn bán kính 5 2 đi qua các điểm B và D và tiếp xúc tại điểm B với đường tròn ngoại tiếp tam giác ABC. Tìm diện tích tam giác ABC. Trước hết, hãy dựng tam giác ABC có góc vuông B (Hình 1). Để xây dựng một đường tròn ngoại tiếp tam giác này, trước tiên chúng ta tìm ra tâm O của nó ở đâu và bán kính của nó là bao nhiêu. Như đã biết, tâm của đường tròn ngoại tiếp một tam giác vuông nằm ở
+
+Cơm. 1
