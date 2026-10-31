@@ -1,0 +1,52 @@
+---
+id: 1976-7-karmazina-meller-algol-60-0c94f6ec
+issue: kvant_1976_7
+year: 1976
+number: "7"
+title: '"ALGOL 60"'
+authors:
+  - Кармазина Л. Н.
+  - Меллер Н. А.
+rubric: retsenzii-bibliografiya
+rubric_sub: Рецензии, библиография
+page_first: 53
+page_last: 53
+page_labels: "51"
+tag: OU8R
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 6d7e11ee6f8302c3a70775b359b731879a87e32d59a34bf4845a74b62d7cb80c
+prompt_sha256: draft-1
+translated_from: content/ru/1976/07/articles/22_karmazina-meller-algol-60-0c94f6ec.md
+source_content_sha256: 6c39e216b954fde3f6d92f636de0afc21323a145af0c3eb59bfb602403347bce
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 51⟧
+
+"ALGOL 60"
+
+One of the modern and widely known means of communicating with a computer is the algorithmic language ALGOL 60, created to describe algorithms for solving problems. In this language you can “talk” to many computers: the programmer writes a description of the algorithm in ALGOL and transfers it to the machine, it understands the text, solves the problem and reports the result.
+
+For high school students who are interested in mathematics and want to learn programming in ALGOL, we recommend that you read the book “Algorithmic Language ALGOL 60” *), published in 1975. The advantage of the book is that the reader, having read only the first four paragraphs, can already compose the simplest programs in ALGOL.
+
+The book contains more examples, exercises and tasks. When preparing a problem for solution on a computer, great attention is paid to the mathematical side of the matter. The issues of algorithms for solving problems, the possibility of improving these algorithms and building good programs are discussed in detail. This is especially clearly shown in the examples of processing the table of a hockey champion, ordering an array, decomposing a number into prime factors, etc. Sometimes the proofs of certain provisions are given in the text, sometimes you are supposed to do this yourself - in exercises.
+
+So, for example, after explaining the method of searching for an array element by dividing in half, the following exercise is given.
+
+*) S. A. Abramov, I. N. Antin pov. Algorithmic language ALGOL 60. M., “Enlightenment”, 1975.
+
+Pravaniza 135. Prove that if for some integer S the number n of array elements satisfies the inequality $2^s-1 < n \leq 2^s$, then when performing the method of searching for an element by dividing in half, no more than s - 1 comparisons will be made and, at most, we can say that the number of comparisons carried out does not exceed $\log_2 n$.
+
+An inquisitive student will be able to find many difficult but interesting problems (exercises), the solution of which requires communication. Some tasks not only in terms of content, but also in terms of their original software implementation. Here are some more examples of tasks for students.
+
+Pravanice has 148. Goldbach proposed that every term greater than or equal to 4 can be represented as the sum of two primes. This proposal has not yet been proven or disproved. Write a program to test this hypothesis for a given valuable number.
+
+Task 19. Prove that any integer sum of money takes more time and memory; write a program for generating, for a given integer n>7, a pair of non-negative integers a and b maxims that n = 3a + 5b.
+
+In some cases, the rules (or this advertisement) of a game are formatted, for example, the card game “Quartets”, “Battleship”, “Tower of Hanoi”, and it is proposed to write a program for playing a game of the corresponding game.
+
+By carefully reading the book and doing a large number of exercises, the student can achieve a high level of the program.

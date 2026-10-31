@@ -1,0 +1,44 @@
+---
+id: 2023-7-kolmogorov-pismo-a-p-tinyakovu-o-fmsh-mgu-5c9f3ede
+issue: kvant_2023_7
+year: 2023
+number: "7"
+title: '[Letter to A.P. Tinyakov about the Physics and Mathematics School of Moscow State University]'
+authors:
+  - Колмогоров А. Н.
+rubric: raznoe
+page_first: 27
+page_last: 27
+page_labels: "25"
+tag: CKHL
+lang: en
+source: kvant_digital
+extraction: native
+content_sha256: b4e212cd3683821d1ade0cc5f3127cab695a428f1b65bd705d079914247bb326
+prompt_sha256: draft-1
+translated_from: content/ru/2023/07/articles/02_kolmogorov-pismo-a-p-tinyakovu-o-fmsh-mgu-5c9f3ede.md
+source_content_sha256: 50990a8bd5289dc303be9924968ffe28996002279ac8a1b836804d7892038ab4
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 25⟧
+
+$М_{АТЕ} М_{АТИЧЕСКИ}$ $М_{ИР}$
+
+in cases where this computing specialization in them is fictitious. But at some point this should be abandoned. D. The gradual expansion of the network of physics and mathematics schools with openly competitive enrollment is slowed down due to a number of side circumstances and statements against them by some very authoritative people, and partly due to their unhealthy advertising (especially the Novosibirsk school). So far, Georgia, Armenia, and Lithuania are broader in this regard (they each have boarding schools). Unfortunately, in Moscow the question of the final legalization of schools similar to physical education is still being delayed. mat. boarding schools, for Muscovites. But in fact, a good 2nd and a more dubious 7th school exist. We don’t need too many such schools, maybe. 20-30 for the entire USSR. I have already repeatedly said that I am ready at any time to support the opening of such a school in Voronezh (in the case of Voronezh, a mixed boarding school for several regions and classes for city residents). With the support of local organizations m.b. this could have been done before the general issue was resolved. The question of which class to begin such a selection is being debated. I would object to starting earlier than eighth grade. We at the Moscow boarding school are quite satisfied with starting from the ninth grade, we only want to open a correspondence preparatory school for eighth-graders and we want to expand enrollment through summer $лагери.^{4}$ This year I myself taught a summer school for those who had completed the eighth grade in the Ivanovo and Yaroslavl regions. We took a whole class (27 people) from her to the boarding school. Now one counter question: we have prepared an introductory task for a correspondence school for eighth-graders. The Ivanovo Pedagogical Institute undertook to conduct correspondence about this school with students from the Ivanovo and Yaroslavl regions (not from the regional cities themselves, where there are full-time evening youth schools). Will Voronezh take on a similar case in the coming year regarding Voronezh and M.B. any other area? I am writing to
+
+this year, because next, you may not want to be only our branch. Yours Kolmogorov
+
+⟦column⟧
+
+Comments
+
+1. Selim Grigorievich Crane (1917–1999) – student of N.N. Bogolyubova, a famous mathematician and teacher, leader of the Voronezh mathematical school. 2. Andre Lichnerovich (1915–1998) – French mathematician and physicist. Member of the Paris Academy. The plot with Briard's textbooks is due to the interest of A.N. Kolmogorov to foreign experience in connection with the reform of mathematical education being carried out at that time in the USSR. 3. Boris Pavlovich Pugachev (1923–2010) – associate professor at Voronezh University.
+
+4. This attempt was implemented in 1968-70, but then for one reason or another was not developed.
+
+Letter 1 A.P. Tinyakov (1968)
+
+Dear Alexander Pavlovich! I answer some of your requests only with great delay. I could come to Simferopol around the student holidays (January 24 – February 6). The trip is planned comprehensively. Since I love the sea, even if it is not very friendly, I am interested, for example, in the winter schedule of ships that would take me from Yalta to Sukhumi. But it is also possible to adapt to your convenience so that you can meet with teachers in the region and, perhaps, get to the “session” of your MAN. It is possible that, as an old resident of Crimea, you can assist us in one more respect. Our mathematical schoolchildren (from boarding school No. 18 at Moscow State University) in 1966 worked in the summer for about 20 days on a steppe state farm near Yevpatoriya and with the money they earned they lived for another 16 days in their own tents in Laspi Bay, receiving 90 kopecks. per person per day food in the pioneer camp. A similar labor initiative was carried out in 1967 near Anapa on a state farm where MSU students work. Now we have

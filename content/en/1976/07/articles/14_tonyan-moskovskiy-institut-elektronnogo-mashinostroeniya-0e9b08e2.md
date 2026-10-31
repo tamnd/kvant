@@ -1,0 +1,85 @@
+---
+id: 1976-7-tonyan-moskovskiy-institut-elektronnogo-mashinostroeniya-0e9b08e2
+issue: kvant_1976_7
+year: 1976
+number: "7"
+title: Moscow Institute of Electronic Engineering
+authors:
+  - Тонян В. А.
+rubric: ekzamenatsionnye-materialy
+page_first: 41
+page_last: 41
+page_labels: "39"
+tag: RZT4
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 66d664c88af3a2e4affc6a7a185c7c578b874727c7c9d072ee89b2037b78a075
+prompt_sha256: draft-1
+translated_from: content/ru/1976/07/articles/14_tonyan-moskovskiy-institut-elektronnogo-mashinostroeniya-0e9b08e2.md
+source_content_sha256: 36240967d28e67cf775663d0260ab6638a6e26955aa0f04dfbcc2994a2ecb28a
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 39⟧
+
+farms, develop mathematical models of production, consumption and savings. Student scientific conferences are held regularly.
+
+Below are the options for the entrance written exam in mathematics at MIU in 1975.
+
+Option 1
+1. In a right triangle ABC, the hypotenuse is $AB = a, A = \alpha$. Find the radius of the circle tangent to the leg AC, the hypotenuse AB and the circumcircle of triangle ABC.
+2. Solve the equation
+$$4x + \sqrt{x^2 - 2} - 5 \cdot 2x - 1 + \sqrt{x^2 - 2} = 6.$$
+3. Solve inequality ($a > 1$)
+$$\log_a^2 (x^{\sqrt{x}}) > \log_a (a^{4x} \cdot x^{3x}).$$
+4. Solve the equation
+$$(\sin 2x + 3)\sin^4 x - (\sin 2x + 3)\sin^2 x + 1 = 0.$$
+5. Find the ratio of two numbers if the ratio of their geometric mean to their arithmetic mean is $3/5$.
+
+Option 2
+1. A point M is taken inside the angle $\alpha$. Its projections P and Q on the sides of the angle are removed from the vertex at distances $OP = p$ and $OQ = q$. Find MP and MQ.
+2. Solve the equation
+$$\log_x (125x) \cdot \log_{25}^2 x = 1.$$
+3. Solve inequality
+$$|x^2 - |x| + 3| < 5.$$
+4. Solve the equation
+$$\sec x = 4 \sin x + 6 \cos x.$$
+5. Prove that if $a > 0, b > 0$, then
+$$\frac{2\sqrt{ab}}{\sqrt{a} + \sqrt{b}} \leq \frac{4\sqrt{ab}}{3}.$$
+V. Mashurtsev, I. Sharyzin
+
+Moscow Institute of Electronic Engineering
+We talked in detail about the Moscow Institute of Electronic Engineering in «Kvant» No. 7 for 1973. In this issue we present options for the entrance written exam in mathematics at MISM in 1975.
+
+Option 1
+1. Solve the equation
+$$3x \log_5 1 - \frac{2}{3} = |5x \log_3 1 - 24|.$$
+
+2. The product of the third and sixth terms of an arithmetic progression with positive terms is 13.5, and the sum of the fourth and fifth terms is 7.5. Find this progression. Also determine the smallest possible value of the indicated sum for all arithmetic progressions with positive terms, in which the product of the third and sixth terms is equal to 13.5.
+
+3. In a regular quadrangular paramid, whose height $H$ makes an angle $\alpha$ with the side edge, a plane is drawn through the diagonal of the base at an angle $\beta$ to the plane of the base. Determine the area of ​​the section.
+
+4. Solve the equation
+$$\frac{a \sin x - 2}{a - 2 \cos x} = \frac{a \cos x - 2}{a - 2 \sin x}$$
+
+and determine the number of its roots on the segment [20π, 29π].
+
+5. Solve the system
+$$\begin{cases} x - y = 10a, \\ \frac{1}{x} + \frac{1}{y} = \frac{2}{a^2 - 25} \end{cases}$$
+
+and prove that for any integer $a \neq \pm 5$, $a \neq 0$ the system has two solutions $(x_1, y_1)$ and $(x_2, y_2)$ such that the product $x_1x_2y_1y_2$ is an integer multiple of 900.
+
+Option 2
+1. Solve inequality
+$$\log_3 (1 - x) < \log \frac{1}{3} (x + 2).$$
+2. The angle at the apex of the cone's axis section is 2α. In what relative region of the cone is the plane drawn through the tangency circle of the ball inscribed in this cone from the lateral surface of the cone?
+3. The number 150 is divided with a remainder into several positive integers. Then we added 2 to the divisor and divided 151 with a remainder by the new divisor. It turned out that the second quotient is 5 less than the first. What is the original divisor?
+4. Solve the equation
+$$\sqrt{\frac{2 \sin x + 1}{-\cos x - 2}} = \sqrt{\frac{2 \cos x + 1}{-\sin x - 2}}.$$
+5. Solve the system
+$$\begin{cases} \frac{x}{a + 3} - \frac{y}{a + 2} + 1 = 0, \\ \frac{y}{x} - \frac{2}{y - 2} = 1 \end{cases}$$
+
+($a > 0$) and prove that if $a$ is an integer, then for each of the solutions $(x, y)$ of a given number system, $1 + xy$ is the square of the number. Is the opposite statement true?

@@ -1,0 +1,60 @@
+---
+id: 1976-10-zadachi-nashih-chitateley-312d1894
+issue: kvant_1976_10
+year: 1976
+number: "10"
+title: Tasks for our readers
+rubric: smes
+page_first: 22
+page_last: 22
+page_labels: "20"
+tag: 599L
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 9b9c590f9f2133636f0683638f48e8ab8315a664875056270468c439a230cb41
+prompt_sha256: draft-1
+translated_from: content/ru/1976/10/articles/06_zadachi-nashih-chitateley-312d1894.md
+source_content_sha256: 4e90cc5548f72d246eeeefc29e203108f786c1a8e38b1726a033c67d99ed6975
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 20⟧
+
+Now it is clear when formula (4) is applicable and when (8). If the angular size of the source is large compared to the diffraction size ($\theta_0 \gg \theta_d$), diffraction can be ignored. This is the condition for the applicability of (4). If, on the contrary, the angular dimensions of the source are small ($\theta_0 \ll \theta_d$), diffraction must be taken into account, and the source can be considered “precise”. Under these conditions, formula (8) is valid.
+
+So, the whole point is in what correspondence the angles $\theta_0$ and $\theta_d$ are. Let's test this with our old Sun example. We already know the angular size of the source ($\theta_0 \approx 4,7 \cdot 10^{-3}$ rad), and the diffraction angle is $\theta_d \approx \frac{\lambda}{a} = 2,25 \cdot 10^{-5}$ rad. Inequality $\theta_0 \gg \theta_d$ is satisfied, that is, the condition for the applicability of formula (4) is satisfied. If the Sun “removes” to a nearby star ($R \approx 4 \cdot 10^{13}$ km), its angular size is reduced to $1,75 \cdot 10^{-8}$ rad. The diffraction angle retains its old value, and the inverse inequality $\theta_0 \ll \theta_d$ is valid. Consequently, the condition for the applicability of formula (4) is satisfied for the star.
+
+1. Let's return again to the thought experiment with the Sun moving away to stellar distances ($R = 4 \cdot 10^{13}$ km). What will be the intensity of focused sunlight in this case? The lens parameters remain the same ($a = 2$ cm, $f = 10$ cm).
+
+2. Derive a formula to calculate the lens gain for any correspondence between angles $\theta_0$ and $\theta_d$.
+
+3. We found that the intensity of solar radiation at the focus of a lens of radius $a = 2$ cm with a focal length $f = 10$ cm is 250 W/cm².
+
+What should be the radius of the lens so that after focusing the radiation intensity of a star located at a distance of $R = 4 \cdot 10^{13}$ km is of the same order, for example, 100 W/cm²? Assume that the correspondence between the focal length of the lens and its radius remains unchanged, and the star has the same parameters as the Sun.
+
+Tasks
+our
+readers
+
+1. Prove the following correspondences between the elements of the triangle ($A, B$ and $C$ - the vertices of the triangle; $O$ - the center of the inscribed circle; $\alpha, \beta, \gamma$ - the angles with the vertices $A, B$ and $C$, respectively; $a, b, c$ - the lengths of the sides opposite the corresponding angles $\alpha, \beta, \gamma$; $R$ - radius of the circumscribed circle; $h_a, h_b, h_c$ - lengths of the heights lowered to the sides $a, b$ and $c$, respectively, or on their extension; $S$ - area of the triangle $ABC$):
+
+$$\frac{|AO|^2}{bc} + \frac{|BO|^2}{ca} + \frac{|CO|^2}{ab} = 1;$$
+
+$$\frac{|AO|^2}{h_a} + \frac{|BO|^2}{h_b} + \frac{|CO|^2}{h_c} = 2R;$$
+
+$$S = \frac{1}{2} \times \left( |AO|^2 \sin \alpha + |BO|^2 \sin \beta + |CO|^2 \sin \gamma \right);$$
+
+$$S = \frac{1}{2} \left( |AO|^2 h_b h_c + |BO|^2 h_a h_b \right)^{1/2}.$$
+
+U. Alla
+
+(Võru, Estonian SSR)
+
+2. Let us denote by $O$ the center of the circle circumscribed around the triangle $ABC$, by $H$ the point of intersection of the heights, by $O_1$ the center of the inscribed circle and by $O_2$ the center of the circle tangent to the side $BC$ and the extended sides $AB$ and $AC$. Prove that if $|O_1O| = |O_1H|$, then one of the angles of the triangle is equal to $60^\circ$, and if $|O_2O| = |O_2H|$, then either $A = 60^\circ$, or the value of one of the angles $B, C$ is equal to 120°.
+
+3. Construct a right triangle with the given hypotenuse, the sides of which form a geometric progression.
+
+H. B.

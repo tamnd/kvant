@@ -1,0 +1,57 @@
+---
+id: 1976-6-begovatov-galiullin-laptev-kazanskiy-gosudarstvennyiy-universitet-im-v-i-ulyanova-lenina-62b414b7
+issue: kvant_1976_6
+year: 1976
+number: "6"
+title: Kazan State University named after. V. I. Ulyanova (Lenin)
+authors:
+  - Беговатов Е. А.
+  - Галиулин Р. В.
+  - Лаптев Б. Л.
+rubric: ekzamenatsionnye-materialy
+page_first: 61
+page_last: 61
+page_labels: "59"
+tag: ICXA
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 21bfbd8d866717622001692d0aadf5c02689ee29d6a005892c78146ec88823f9
+prompt_sha256: draft-1
+translated_from: content/ru/1976/06/articles/15_begovatov-galiullin-laptev-kazanskiy-gosudarstvennyiy-universitet-im-v-i-ulyanova-lenina-62b414b7.md
+source_content_sha256: 00873d2ecb654924e0fcb704dcf918c839ee16454e2f915c85cbe02dedbc2db6
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 59⟧
+
+Has the fluid speed in the pump changed if the pump power remains unchanged?
+
+4. Find the capacitance of the system of capacitors connected between points A and B (Fig. 1), determine the potential difference and charges on each capacitor if $C_1 = 1$ µF, $C_2 = 3$ µF, and the voltage between points A and B is 10 V.
+
+5. Between the plates of a flat capacitor connected to a battery, a charged ball is at rest in a vacuum. Determine the acceleration of the ball after increasing the distance between the plates by 10%.
+
+6. A point light source of 10 light intensity is placed in the optical center of a concave spherical mirror with a radius of curvature of 50 cm. At a distance equal to the diameter of the mirror (from the mirror strip), a screen is placed perpendicular to the main optical axis of the mirror. Determine the illumination of the mirror at the point of intersection of the main optical axis with the screen.
+
+7. The distance between two point light sources is 24 cm. Where between them should a converging lens with a focal length of 9 cm be placed so that the images of the hunters are obtained at the same point?
+
+Faculty of Mechanics, Mathematics, Chemistry and Applied Mathematics
+
+1. The cube-shaped box is moved a certain distance: once by dragging, and another by turning (that is, tipping over an edge). At what value of the coefficient of sliding friction and work are the movements of the ball by dragging and tilting equal?
+
+2. There is a cylinder on the board, the height of which is twice the diameter. One of the ends of the board begins to be slowly lifted. What will happen instead: will the cylinder tip over or fall off the board if the friction coefficient of the cylinder on the board is 0.4?
+
+3. A ball of mass $m$ on a string moves in a circle in a vertical plane so that its total energy remains constant.
+
+Fig. 1.
+
+Kazan State University
+them. V. I. Ulyanova (Lenin)
+
+Kazan State University named after V. I. Ulyanov (Lenin) is one of the oldest universities in the USSR - it was founded in 1804. The great Russian scientist N.I. Lobachevsky taught there, taught there, and served as rector for almost 20 years. The revolutionary activities of V.I. Lenin began here (at that time he was a law student).
+
+After the Great October Socialist Revolution, the university grew into a large scientific and pedagogical educational institution and now has 8 faculties: mechanics and mathematics, physics, chemistry, biology, geology, geography, law and history and philology (with a department of Tatar language and literature).
+
+The full-time department of the Faculty of Mechanics and Mathematics has 10 departments, a research institute of mathematics and mechanics, computing

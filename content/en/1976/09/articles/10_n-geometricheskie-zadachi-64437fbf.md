@@ -1,0 +1,51 @@
+---
+id: 1976-9-n-geometricheskie-zadachi-64437fbf
+issue: kvant_1976_9
+year: 1976
+number: "9"
+title: Geometric problems
+authors:
+  - Н. В.
+rubric: smes
+page_first: 37
+page_last: 37
+tag: GKMI
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: c5cf17f989e6a9913510b101ae46cf6a08c15ba140397a129629b88aca767640
+prompt_sha256: draft-1
+translated_from: content/ru/1976/09/articles/10_n-geometricheskie-zadachi-64437fbf.md
+source_content_sha256: 36b02ee97bd45630a8e0294a43816e38d998220cfc8f130bc26fa8a4b8dd44aa
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+It can only be approximate. But then, to exclude an arbitrary one, it is important to first map with certain landmarks. In this sense, Shpilevsky's message that the memory barer must correspond to the definition of a circle on the celestial sphere - the equator or ecliptic - seems certainly logical. Although the configuration of the points is quite reminiscent of the constellation Cetus (the coincidence with Volpas, please, is somewhat better), this identification, due to its connection to the equator, seems more confident.
+
+Messages about the planetary system of the probe seem poignant, although the requirement for maximum information is not always necessary. The main task of the probe is to make a convincing step towards contact, and when contact is established, it can transmit additional information about its planetary system.
+
+So, Cetus's t or Volpas's ε? From the point of view of our current ideas about the conditions for the existence of life in space, China is, of course, preferable. Let us remember that in all international communications projects this star is the first candidate. But there is also an insidious danger here: one can always suspect a subconscious, involuntary element of adjustment. In this sense, Lunen's position is stronger, or it is difficult to suspect in advance such an unsuitable star as ε Volpas. It is curious that when viewed from Ceti, our Sun, as Luenen notes, will be visible in the constellation Volpas. maybe the post probe simultaneously provides information about what our area of ​​sky looks like when viewed from them, and what their area of ​​sky looks like when viewed from us? Bulgarian amateurs, led by Ilya Iliev, used a different method of deciphering the message (“Tekhnika Molodezhka”, No. 4, 1974, p. 54) and came to the conclusion that the probe was approaching the star ζ Leo. Their way of reasoning is not much more arbitrary and may seem just as “justified.” Such multiple meanings in the interpretation of this message should be built on some other logical principles that exclude any inconsistency.
+
+The attempts made to reveal the secret of the world echo are a respectable and clear example of the difficulties that have arisen in the problem of interstellar communication.
+
+Geometric problems
+
+1. Let D be the midpoint of side BC of triangle ABC and O be the center of the circle inscribed in this triangle. Let us denote by Q the point of intersection of the perpendicular dropped from point D to AO with the perpendicular dropped from point A to BC. Prove that a perpendicular dropped from point Q to DO passes through the tangency point of the incircle and side BC.
+
+2. a) The altitudes AD, BE, CH of triangle ABC intersect its sides at points D, E, H. Prove that the lines connecting the vertices A, B, C with the midpoints of the segments EH, HD and DE, respectively, intersect at one point.
+
+6) Prove the same theorem, replacing the heights with bissergics or medians.
+
+3. The lengths of the medians AM, BN, CQ of triangle ABC form a geometric cut. Prove that $2\cos \hat{B} = 2h \pm \sqrt{3(h^2 - 1)}$
+
+where $h = \frac{a^2 + c^2}{ac}$.
+
+4. The chord HEK is drawn through point E lying inside the circle. Let EM and EP be perpendiculars dropped from point E onto tangents to the circle drawn at points H and K. Prove that $\frac{1}{|EM|} + \frac{1}{|EP|}$ does not depend on the choice of chord.
+
+5. Find all right triangles whose side lengths are natural numbers, and the sum and difference of the lengths of the hypotenuse and one of the legs are exact squares.
+
+H. B.

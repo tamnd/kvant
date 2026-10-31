@@ -1,0 +1,37 @@
+---
+id: 1976-8-ploskiy-pravilnyiy-graf-stepeni-5-s-18-vershinami-1136b1a6
+issue: kvant_1976_8
+year: 1976
+number: "8"
+title: Plane regular graph of degree 5 with 18 vertices
+rubric: smes
+page_first: 29
+page_last: 29
+page_labels: "27"
+tag: U2M6
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 62e6e5b28e10740dcc27230d2a2a37ff95b70283b62d81c246d9cdb942c8cea8
+prompt_sha256: draft-1
+translated_from: content/ru/1976/08/articles/08_ploskiy-pravilnyiy-graf-stepeni-5-s-18-vershinami-1136b1a6.md
+source_content_sha256: 95ba3b47242e08a8200a855982cba6b1518b84c05bc2f3e4fef0481b2c5aa07b
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 27⟧
+
+Each volume had more than 900 pages. By this time, Avogadro was already 65 years old, but his mind was still clear, and his love for science and hard work were inexhaustible. This work turned out to be the first molecular physics textbook in history.
+
+Avogadro's enormous contribution to the development of molecular theory must have been recognized by practically independent contemporaries. Moreover, the law of most scientists connected his discoveries with the name of Ampere. (And even much later, this law in the literature was often called the Avogadro-Ampere law, although Avogadro formed it three years earlier than Ampere.) Until the early 60s of the 19th century, arbitrariness reigned in chemistry both in the assessment of molecular masses and in the description of chemical reactions; There were still many new ideas about the atomic composition of polychlorine substances. It even came to attempts to abandon molecular concepts altogether. Only in 1858, the Italian chemist Cannizzar, having read Ampère’s letter to Ber-
+Tole, which contains a reference to the work of Avogadro, rediscovered these works and was surprised to see that they would bring complete clarity to the confusing picture of the state of chemistry of that time. In 1860, Cannizzar spoke in detail about Avogadro's work at the First International Chemical Congress in Karlsruhe, and his report made a huge impression on the scientists present there. As one of them said, he felt a veil fall from his eyes, doubts disappeared, and along with them a powerful feeling of confidence appeared. The great Russian chemist D.I. Mendeleev, also a precinct in the work of the congress, wrote later: “I consider the decisive moment in the development of my thought about the periodic law to be 1860 - the congress of chemical scientists in Karlsruhe, in which I was a precinct, and at this congress - the ideas expressed by the Itogan chemist Cannizzar” (that is, essentially, the ideas of Avogadro). Avogadro's merits as one of the founders of molecular theory have since received universal recognition.
+
+Plane regular graph of degree 5 with 18 vertices
+
+In «Kvant» No. 11 for 1975, an article by M. Katz “O. flat regular graphs." Recall that a planar graph is called regular if each of its vertices has the same number of edges; this number is called the degree of the graph.
+
+In this article, in particular, the question of the number of vertices of a regular graph of degree 5 was discussed; it was proven that the number of vertices of a regular graph of degree 5 can be any number, not less than 12, except 14 and perhaps 18 (see pp. 14, 15). Recently, the editor received a letter from Czechoslovakia from the senior assistant of the Department of Mathematical Information, Jan Ninczak, with an example of a regular graph of degree 5 with eighteen vertices *) (see Fig.). The found graph has 3 four-edges and 26 three-edges (at figure the edges of the four-edges are the head color).
+
+*) Later, one example of an addition by V. Linis from Riga.

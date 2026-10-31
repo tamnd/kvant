@@ -1,0 +1,40 @@
+---
+id: 1976-9-berezin-kovantsova-matematicheskaya-olimpiada-na-ukraine-d9c3517f
+issue: kvant_1976_9
+year: 1976
+number: "9"
+title: Mathematical Olympiad in Ukraine
+authors:
+  - Березин В. Н.
+  - Кованцова Л. В.
+rubric: raznoe
+rubric_sub: Разное
+page_first: 68
+page_last: 68
+page_labels: "66"
+tag: 2TBS
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: b5acecc016c3a3bf5b9f09cbb769e67c8775c66d17289ddb047d4e4ad6418e97
+prompt_sha256: draft-1
+translated_from: content/ru/1976/09/articles/21_berezin-kovantsova-matematicheskaya-olimpiada-na-ukraine-d9c3517f.md
+source_content_sha256: a66c2072e9a9d1a82353b112877bd364eb85a136a54fde995ccfcb56a611e59c
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 66⟧
+
+Mathematical Olympiad in Ukraine
+
+In Ukraine, the fourth stage of the All-Union Mathematics Olympid for Schoolchildren is at the same time the XVIth Republican Olympid. Here the Olympids have their own history, their own traditions.
+
+...This time the Olympics were held in the city of Ivano-Frankivsk from March 25 to 30. In its organization of activities, students took part in the Ministry of Education and the Ministry of Higher and Secondary Special Education of the Ukrainian SSR, as well as the Regional Department of Public Education, the Ivano-Frankivsk State Pedagogical Institute named after V. S. Stefanika and the Institute of Oil and Gas.
+
+Ivano-Frankivsk is a red city with interesting architecture, museums and a theater. The organizers of the Olympiad made sure that its participants - 157 boys and 34 girls - students in grades 7-10, were able to fully demonstrate their abilities. The guys had the opportunity to work well and have a good rest.
+
+The clear organization of the Olympiad turned out to be useful, because the schoolchildren worked in a directed manner - the Olympiad took place in two rounds, and those who performed most comfortably were given the opportunity to try their hand at even more difficult problems in the “third” round. But for some enthusiasts from among the Olympic winners, even this was not enough. They coped with it, immediately after they coped with the next portion of tasks, are there any other tasks that are just as difficult and interesting. After each round, participants in the appeal could “protect” their written work.
+
+The work of the Olympida was also very intense. This is understandable - Zhorny (chairman - projector of the Ivano-Frankivsk Pedagogical Associate Professor V. S. Sikora) conducted all rounds of the Olympiad, checked the work,

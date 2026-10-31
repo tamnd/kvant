@@ -1,0 +1,78 @@
+---
+id: 1976-6-gorev-moskovskiy-gosudarstvennyiy-universitet-im-m-v-lomonosova-83146f15
+issue: kvant_1976_6
+year: 1976
+number: "6"
+title: Moscow State University named after. M. V. Lomonosova
+authors:
+  - Горев И.
+rubric: ekzamenatsionnye-materialy
+page_first: 59
+page_last: 59
+page_labels: "57"
+tag: ATST
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 2aaac385eb0197ba397ad4498dfb6cd6d3ca726025faa13bc4358d58f4300be7
+prompt_sha256: draft-1
+translated_from: content/ru/1976/06/articles/13_gorev-moskovskiy-gosudarstvennyiy-universitet-im-m-v-lomonosova-83146f15.md
+source_content_sha256: 8eac7c7cc38a9fbd3a383c1dcd8ab3db4a4f01f5f6f92ffe8132da267b2e61ba
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 57⟧
+
+Options
+introductory
+university exams
+
+Moscow
+state
+university
+them. M. V. Lomonosova
+
+Today, mathematical research methods are becoming increasingly widespread not only in natural sciences and technology, but also in the humanities. That is why at a number of university humanities faculties, applicants take a written exam in mathematics. In this issue, we introduce readers to the options offered to those entering the humanities departments of Moscow State University in 1975.
+
+Department of Political Economy
+Faculty of Economics
+
+1. Turners of the 1st, 2nd and 3rd categories work at the plant. Some jobs can be completed by two turners of the 3rd category and one turner of the 1st category, working together, 15 minutes faster than three turners of the 2nd category. During the time in which one turner of the 1st category and one turner of the 2nd category can do the same work, one turner of the 3rd category will do only 5/7 of this work. One turner of the 2nd category and one turner of the 3rd category together can complete this work in the same time as three turners of the 1st category. How long will it take a team, including one turner of each category, to complete the work?
+
+2. Solve the equation
+$(\sin x + 2\cos x + 2)(1 - 2\cos x) = 4\sin^2 x - 3$.
+
+3. Solve system of equations
+$$\begin{cases} \sqrt{3 + \log_{2x} y^2} = -\log_{2x} y, \\ x + y = \frac{3}{2}. \end{cases}$$
+
+4. A triangle with an acute angle α is located inside a circle of radius r so that the hypotenuse is a chord of the circle, and the vertex of the right angle lies on a diameter parallel to the hypotenuse. Find the area of ​​the triangle.
+
+5. At what value of x is the expression
+$$\sqrt{x} + \frac{1}{\sqrt{x} + 3}$$
+
+takes the smallest value?
+
+Department of Planning and Economic Cybernetics, Faculty of Economics
+
+1. Find all solutions to the equation
+$(\sqrt{7 + 4\sqrt{3}})^{\cos x} + (\sqrt{7 - 4\sqrt{3}})^{\cos x} = \frac{5}{2}$.
+
+2. Given a triangle ABC, AB = AC and A = 110°. Inside triangle ABC, a point M is taken such that MBC = 30° and MCB = 25°. Find AMC.
+
+3. Solve inequality
+$$\sqrt{x - 1} + x - 3 \geq \sqrt{2(x - 3)^2 + 2x - 2}$$.
+
+4. Three types of travel packages are now on sale. One voucher of the 1st type costs 4 rubles, one voucher of the 2nd type costs 6 rubles, one voucher of the 3rd type costs 9 rubles. With a voucher of the 1st type you can rest for 8 days, with a voucher of the 2nd type for 14 days, with a voucher of the 3rd type for 20 days. How many vouchers of each type must be purchased so that the total number of vacation days is the most noisy, and the amount spent on purchasing all vouchers is 100 rubles?
+
+Department of Structural and Applied Linguistics, Faculty of Philology
+
+1. A car carrier went from point A to point B, and at the same time a truck and a cyclist left point B to meet this car carrier. After meeting the truck at point C, the car driver traveled a distance equal to the distance AC before meeting the cyclist. If the truck, after meeting the car carrier, drove from point C in the opposite direction, then it would meet the cyclist halfway between points B and C. How many times is the speed of the car carrier greater than the speed of the cyclist?
+
+2. Find all x values ​​satisfying the equation
+$$\log_2 (a^2x^3 - 5a^2x^2 + \sqrt{6 - x}) = \log_2 + a^2(3 - \sqrt{x - 1})$$
+for any value of a.
+
+3. Solve the equation
+$$\text{tg} \left(2x - \frac{\pi}{3}\right) = \text{ctg} \frac{4\pi}{3} + 3 \text{ctg} 2x.$$

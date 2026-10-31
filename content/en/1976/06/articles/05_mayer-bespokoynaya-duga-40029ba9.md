@@ -1,0 +1,51 @@
+---
+id: 1976-6-mayer-bespokoynaya-duga-40029ba9
+issue: kvant_1976_6
+year: 1976
+number: "6"
+title: Restless Arc
+authors:
+  - Майер В. В.
+rubric: laboratoriya-kvanta
+rubric_sub: Лаборатория «Кванта»
+page_first: 25
+page_last: 25
+page_labels: "23"
+tag: FOTV
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 86b78bdba9d57955ed3b3728ce7b75b0b47c48f6d43869f80557923c9555f691
+prompt_sha256: draft-1
+translated_from: content/ru/1976/06/articles/05_mayer-bespokoynaya-duga-40029ba9.md
+source_content_sha256: a15a38f7ac5fd1b9565c5688eab93aaa0d7fceef6151517a75b10c662bde1076
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 23⟧
+
+V. Mayer
+
+Restless Arc
+
+This remarkable and simple experiment belongs to our outstanding compatriot, radio inventor A. S. Popov.
+
+From a brass or tin sheet about 1 mm thick, cut a strip measuring approximately 30x100 mm. Carefully shape the strip with a file and sandpaper, remove burrs from its edges, and bend it so that you get an arc with a radius of 3-4 cm. Place a mica sheet no more than 0.2 mm thick on a plate of aluminum or diorium. It is not difficult to obtain the required thickness of sheet by splitting mica with a razor blade, which can be found at a hardware store. Heat the prepared arc using a flame of dry fuel or a gas burner and quickly place it on a sheet of mica. At the same time, even if you leave the arc completely motionless, it begins to sway, and this oscillatory movement can continue for several minutes.
+
+This is how A.S. Popov himself explained the result of this interesting experiment.
+
+“The reason for the movement is simple: mica, heated only on one side, swells towards the heated body and lifts it slightly, as a result of this new points on the surface of the mica come into contact with the heated body, and previously heated ones cool down from the proximity to the cold body. The arc bends in one direction until it overcomes the driving force thus generated, then it begins to move in the opposite direction, etc.”
+
+Thus, in the described experiment, the thermal energy of the arc heating is transformed into the mechanical energy of the oscillations of this arc. This is a typical auto-cleaning process, the features of which we leave to you to understand in more detail.
+
+And now some experimental tasks for independent research.
+
+1. Find out whether the presence of an aluminum plate with good thermal conductivity in the sample is essential.
+2. Which arch - wide or narrow, thick or thin - is better to use in experiment?
+3. Will an experiment be obtained if both the brass arc and the aluminum plate are heated to the same temperature? (In order to answer this question, it is not at all necessary to set up an appropriate experiment.)
+4. How can you significantly increase the duration of the arc swing? Design and test an appropriate experiment.
+5. Think over and set up an experiment similar to the one described, in which the heated body would not have an oscillatory, but a rotational movement.
+
+1 - aluminum plate, 2 - mica sheet, 3 - tin arc.

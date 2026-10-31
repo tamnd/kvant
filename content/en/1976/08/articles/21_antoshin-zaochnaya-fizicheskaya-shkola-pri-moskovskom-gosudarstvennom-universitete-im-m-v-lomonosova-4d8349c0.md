@@ -1,0 +1,68 @@
+---
+id: 1976-8-antoshin-zaochnaya-fizicheskaya-shkola-pri-moskovskom-gosudarstvennom-universitete-im-m-v-lomonosova-4d8349c0
+issue: kvant_1976_8
+year: 1976
+number: "8"
+title: Correspondence physical school at Moscow State University. M. V. Lomonosova
+authors:
+  - Антошин А.
+rubric: informatsiya
+rubric_sub: Информация
+page_first: 55
+page_last: 55
+page_labels: "53"
+tag: ZMYO
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: ce613984f6c1e8ffa6fc06de34e525620495e6094669e764b2515960eecab831
+prompt_sha256: draft-1
+translated_from: content/ru/1976/08/articles/21_antoshin-zaochnaya-fizicheskaya-shkola-pri-moskovskom-gosudarstvennom-universitete-im-m-v-lomonosova-4d8349c0.md
+source_content_sha256: bb5e1388defdcc7f3b8eea5983c4fdc5797a4873e228bb94e593812d7fdb020e
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 53⟧
+
+Correspondence physical school
+at Moscow State University
+them. M. V. Lomonosova
+
+Dear guys! The correspondence physics school at the physics department of the Moscow Order of Lenin and the Order of the Red Banner of Labor State University announces enrollment of students for the 1976-77 academic year.
+
+ZFS accepts students in grades 9 and 10. Enrollment in the school is based on the results of the entrance task published below.
+
+To enter the ZPS, you must send the solution to the entrance assignment before October 15 to the address: Moscow, 117234, Leninskie Gory, Moscow State University, Physics Faculty, Correspondence Physics School. The work must be written carefully in Russian in a school notebook. Along with the solutions to the problems in the envelope, you need to complete a questionnaire filled out according to the following sample:
+
+Last name, first name, patronymic Petrov Nikolay Ivanovich
+Class 10
+Number and address school school No. 6, st. Perova, 23
+The profession of the parent and their occupation should be turner, site foreman, mother accountant
+Detailed home address 246045, BSSR, Gomel, st. Sadovaya, 31, apt. 24 Member of the CPSU, Komsomol
+
+During the year, those enrolled in the ZPS receive assignments from the Correspondence Physics School in the sections of physics studied in the corresponding high school classes. Completed assignments are solved and sent to students along with the subsequent assignment.
+
+At the end of the year, 9th grade ZFS students are transferred to 10th grade based on the grades received for solving test problems. Successful graduates of the ZPS receive a certificate of completion from the Correspondence School of Physics at the Physics School at the Physics School of Moscow State University.
+
+Introductory task
+9th grade
+
+1. A body of mass $M$ lies on a horizontal plane. The friction coefficient between the body and the plane is $\mu$. What minimum force must be applied to the body to move it from its place?
+
+2. Two plate balls of the same mass fly towards each other with speeds $v_1$ and $v_2$, respectively. The number of tellots released during the collision is $Q$. Find the mass of the balls (as a result of collision, the balls stick together).
+
+Fig. 1. Fig. 2. Fig. 3.
+
+3. A ball of radius $R$ and mass $m$ slowly descends in a liquid at a constant speed. What mass must a ball of the same radius have in order for it to rise at the same speed as the first ball descends? Liquid density $\rho$; the drag force is proportional to the speed.
+
+10th grade
+
+1. A thread of length $l$ is attached to a thin, vertical rod rotating around its axis. A ball (Fig. 1) is suspended at the other end of the thread. Construct a graph of the dependence of the distance $r$ between the ball and the axis of the rod on the angular velocity of rotation of the rod $\omega$. Assume that for any value $\omega$ the motion of the ball has time to become established. Explain the resulting dependence.
+
+2. Two elements with e. d.s. $\varepsilon_1$ and $\varepsilon_2$ and internal resistances $r_1$ and $r_2$ corresponding to closed positions through resistance $R$ (Fig. 2). Determine the direction shown by the voltmeter (the resistance of the voltmeter is high).
+
+3. A test tube with oil of density $\rho_{м}$ (Fig. 3) ​​is immersed in a liquid of density $\rho_{ж}$. Find the pressure at point A inside the test tube. Geometric dimensions are specified in the drawing. Capillary phenomena claim.
+
+A. Antoshin

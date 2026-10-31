@@ -1,0 +1,49 @@
+---
+id: 1976-7-belaga-matematicheskie-mashinyi-c4a822d7
+issue: kvant_1976_7
+year: 1976
+number: "7"
+title: '"Mathematical machines"'
+authors:
+  - Белага Э. Г.
+rubric: retsenzii-bibliografiya
+rubric_sub: Рецензии, библиография
+page_first: 52
+page_last: 52
+page_labels: "50"
+tag: OCY6
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 85f90bd0c905a80398bd7f4d9611cd3e690d43535ea45085e1b8249573a27f74
+prompt_sha256: draft-1
+translated_from: content/ru/1976/07/articles/21_belaga-matematicheskie-mashinyi-c4a822d7.md
+source_content_sha256: a42d8429d44f7dc82e50d70862284ba39eedd19ec9d22f4a64a10d6596da3ecf
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 50⟧
+
+In this issue we post a solution to two books published by the Prosveshcheniye publishing house in 1975, dedicated to computer programming.
+
+"Mathematical machines"
+
+How many of us know the history of technical images well: the steam engine was invented by Watt, the first steam locomotive was built by Polzunov, the idea of ​​the telephone belonged to Bell, the first phonograph (the prototype of the modern electrophone) was built by Edison, etc., etc. But the words of the artists of all times are not inferior to the fantastic image of our century - the electronic computer (computer). But we sometimes know sadly little about her.
+
+Any machine is recognized to expand the boundaries of the capabilities of an individual, a team, sometimes a country or even a group of countries (if we are talking about a large power plant or relay satellite).
+
+Computers expanded the most delicate and important sphere of human activity - the intellectual. Now computers are able to solve equations and systems of equations, carry out accounting and economic calculations on the scale of a family (there are also such mini-computers), factories, countries and communities of countries, process the results of enumeration, expand the chemical formula and spatial structure of the model of a new chemical compound, from millions of factors of processes taking place in a bubble chamber, select the chim on which the trace of a neutrino is imprinted, decipher the writings of long-vanished peoples based on texts “Illades” and “Odyssen” established the authenticity of Homer’s authorship, decipher the trajectories of artificial space objects for many months in advance, help the astronaut perform maneuvers near the surface of the Moon before landing, play chess and checkers, beat professional gamblers in US gambling houses, help futurologists build models of the future for individual countries and the whole person, draw drawings and develop project estimates based on the outlines of architects, draw up a schedule classes in instruments and universities, conduct individual practical classes with each university student in several subjects, finding errors in solving a problem, asking leading questions and, depending on the results, choosing an individual training program, compiling a set for printing books in printing houses according to their own layout, supervising the melting of steel in modern electric furnaces.
+
+This list, of course, is far from complete, but even this cursory and superficial list shows how universal and “understandable” a computer is.
+
+It is a pity that our schoolchildren, students (who do not directly specialize in this area) and teachers still know so little about how a computer works, how it is structured, how a person works with it.
+
+This gap in knowledge is caused, of course, by the almost complete absence of widely popular literature on such topics, not to mention teaching aids or (and why not?) stable textbooks. Therefore, we should cite the initiative of the Prosveshcheniye publishing house, which published the book “Mathematical Machines” in 1975. What will the reader find in this intersecting book*?
+
+After a brief description of discrete computers (digital computers) and continuous computers (analog computers), the reader will read, unfortunately, the most successful (and already one of the most interesting) chapter of the book dedicated to the history of computing tools and computer technology - from the abacus, soroban and abacus through the logarithmic tables of John Napier, the computers of Leonardo da Vinci, Blaise Pascal and Gottfried Leibniz to William S. Burroughs' adding machine, Charles Babage's Analytical Engine, and finally the modern computer.
+
+There are eight chapters in total in the book, three of which are devoted to the structure of a computer - its “architecture”, the fundamental physical implementation of memory (internal and external), input and output devices and, finally, electronic technology of modern and future “generations” of computers (“first, second, third generation machines” - this is how the main stages of the development of electronic computing technology are usually called; they are now being designed and
+
+*) R. S. Guter, Yu. L. Polunov. Mathematical machines. M., “Enlightenment”, 1975.

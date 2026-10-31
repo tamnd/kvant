@@ -1,0 +1,84 @@
+---
+id: 1976-9-zadachi-nashih-chitateley-7258d5ef
+issue: kvant_1976_9
+year: 1976
+number: "9"
+title: Tasks for our readers
+rubric: smes
+page_first: 67
+page_last: 67
+page_labels: "65"
+tag: I5GY
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 05741a830cea4dd39161d9db772b1aa9f1b65edf4e0144c8c1acdbb3ae5c14a6
+prompt_sha256: draft-1
+translated_from: content/ru/1976/09/articles/20_zadachi-nashih-chitateley-7258d5ef.md
+source_content_sha256: c636f6f1a7c90c49051567c76556170eda0209420278f9db0ad40fed958fb585
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 65⟧
+
+How many revolutions will the cylinder make before stopping?
+
+3. Two capacitors with a capacity $C$, filled with a liquid dielectric with a dielectric constant $\varepsilon$, are connected to each other through a resistance $R$ as shown in figure 5. The dielectric quickly flowed out of one capacitor. Determine the maximum current in resistance $R$ and the amount of heat that will be released on it if at first the charges on the capacitors were equal to $q$.
+
+4. How many times will the gas pressure change at the first moment if the $\alpha$-th part of the gas molecules hitting the wall suddenly begins to be absorbed by it?
+
+5. A lightly volatile liquid was poured into a vessel, the volume of which can be changed, and closed. Then the liquid-free volume at a constant temperature was reduced by 2 times. The pressure inside the volume increased 1.5 times. Determine the saturated vapor pressure of the filled liquid.
+
+10th grade
+
+1. See problem 2 for 8th grade.
+2. A thin-walled cylinder rolls down from an inclined plane with an angle of inclination $\alpha$ towards the horizon. What should be the minimum coefficient of friction between the cylinder and the plane so that the cylinder rolls without slipping?
+3. Two balls with charges $q$ were attached to the ends of a spring of length $l_0$ and released. How much energy was converted into heat during the damping of the oscillations, if the distance between the balls after the cessation of the oscillations turned out to be equal to $l$?
+4. After setting the current in the circuit, the key $K$ is instantly opened (Fig. 6). Determine the maximum voltage across resistance $R$ and the energy released across it. E.m.f. batteries $B$, internal resistance $r$, coil inductance $L$.
+5. See problem 3 for 9th grade.
+6. See problem 5 for 9th grade.
+
+Experimental tour
+
+8th grade
+
+Determine the mass of the ruler. Equipment: student's ruler, heel-stove coin.
+
+9th grade
+
+Determine the specific heat of fusion of naphthalene. Equipment: beaker, thermometer, electric water bottle (or alcohol lamp), stopwatch (or watch with a second hand), naphthalene tablets.
+
+10th grade
+
+Determine the capacitance of the capacitor. Equipment: AC voltage source (BC-24), capacitor, resistor with known resistance, AC voltmeter, conductors.
+
+A. Savin, M. Smolyansky, V. Tikhomirova
+
+Tasks
+our
+readers
+
+1. Given a trapezoid whose area is $S$, the ratio of the bases is $a : b$ ($b > a$). Find the distance from the vertex with a smaller base to the line segment connecting the bases, if the length of this segment is $d$. G. Turaumbaev (Almaty)
+
+2. What's more:
+$A = 1,000001^{0,999999} \times 0,999999^{1,000001}$
+or 1?
+
+S. Berkovayko
+(Velgorod region)
+
+3. Prove that a closed broken line of 64 links, which is formed when a knight moves around a chessboard entering each square, a) cannot have 4th order asymmetry;
+6) cannot have symmetry passing through the midpoints of opposite sides.
+
+O. Baranov (Moscow)
+
+4. In a right-angled triangle $ABC$, the base of the perpendicular, dropped from the point of intersection of the medians to leg $BC$, is connected to the vertex of the angle $A$. Find the angle $B$ if it is known that the resulting segment is the bisector of the angle $A$.
+
+V. Strrelev
+(Irkutsk region)
+
+5. A circle is inscribed in a right triangle with an acute angle $30^\circ$. The tangent points divide the circle into three arcs. Prove that the ratio of their lengths can be represented as $p : (p + 1) : (p + 2)$, where $p$ is some natural number. For what other triangles is this true?
+
+G. Makarova (Kirov)

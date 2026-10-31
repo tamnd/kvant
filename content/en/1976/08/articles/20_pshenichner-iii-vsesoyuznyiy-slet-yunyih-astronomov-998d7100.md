@@ -1,0 +1,64 @@
+---
+id: 1976-8-pshenichner-iii-vsesoyuznyiy-slet-yunyih-astronomov-998d7100
+issue: kvant_1976_8
+year: 1976
+number: "8"
+title: III All-Union Meeting of Young Astronomers
+authors:
+  - Пшеничнер Б. Г.
+rubric: informatsiya
+rubric_sub: Информация
+page_first: 54
+page_last: 54
+page_labels: "52"
+tag: J97F
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 5f08be4eb82e747ae5322711a7e70285c66e8ae8f09afebebbcb6347c9962c15
+prompt_sha256: draft-1
+translated_from: content/ru/1976/08/articles/20_pshenichner-iii-vsesoyuznyiy-slet-yunyih-astronomov-998d7100.md
+source_content_sha256: d8ccfc9cc1124fe58e36ab3548e9fb08ef11aa3e0f22e95316fbcb7dce5bdc04
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 52⟧
+
+III All-round gathering of young astronomers
+
+Fishing published in the magazine «Kvant». Schoolchildren solve problems placed in the magazine, study published articles, get acquainted with a new presentation of traditional school material, and correspond with the editors of the magazine on all these issues.
+
+Correspondence subject school courses (mathematics, physics, physico-mathematical, physico-technical, biological, etc.) that have recently become widespread are a promising and effective formula for college teachers, scientists, researchers and students. Correspondence schools make a significant contribution to the solution of the task set by the partners and the government to increase the scientific and methodological level of teaching in schools in rural areas, workers' villages, small towns, and to implement permanent and qualified supervision of non-classroom students living away from scientific and pedagogical centers.
+
+At the conference, it was emphasized that when studying by correspondence, it is very important for students to meet with their teachers from time to time - nothing can replace live contact - and therefore ZMS should participate in organizing summer mathematics camps for schoolchildren, and conduct their own. Organizers can make a lot out of children's technology stations.
+
+Further, from this brief review, it is clear how many useful things a student can gain from studying at the ZMS. We encourage all schoolchildren, especially rural ones, to try their hand at participating in correspondence physics and mathematics schools. Here are the addresses where you can contact some ZMS:
+
+Moscow - Moscow State University, Mechanics and Mathematics, VZMSH.
+Dolgoprudny, Moscow region, ZFTSH at MIPT.
+Leningrad - North-Western ZMSH at Leningrad State University.
+Kyiv - ZMSH under the state.
+Minsk - ZMSH under the state.
+Tselinograd - pedagogical school, ZMSH.
+Vilnius - ZSHYML under the state.
+
+Tartu - ZMSH under the state.
+Perm - ZMSH under the state.
+Ufa - Polytechnic Institute, ZMSH.
+Bryansk - ZYUMSH, newspaper "Bryansk Komsomolets":
+
+V. Berezin
+
+The composition observed by the Shemakha Astronomical Observatory of the Academy of Sciences of the Azerbaijani USSR will be unusually young on August days and nights.
+
+Here, in a picturesque mountain valley, on the territory of the Observatory, from August 16 to 26, the tent city “Zvedenny” of the III Weighty Meeting of Young Astronomers is spreading. Of the many thousands of young fans of the science of the Universe, only 200 schoolchildren were invited to the gathering - the best representatives of the allied resource workers.
+
+The rally is organized and conducted by the Central Committee of the Komsomol, the Ministry of Education of the USSR, the Weighty Astronomical and Geodetic Society of the USSR Academy of Sciences, and the Weighty Society "Knowledge". Scientists from Moscow, Leningrad, Odessa, Dushanbe, and Irkutsk were invited to participate in the meeting.
+
+The program of the gathering is wide-ranging and varied: conferences of young astronomers and a showcase of their creative achievements, lectures by scientists on current problems of Cosmos research and a debate on introduced civilizations, an Olympid and an evening of questions and answers, acquaintance with the work of the Shemakha Observatory and, of course, daily astronomical observations. The most experienced astronomy lobbyists will be able to improve their qualifications in electives in astronomics, astro-instrumentation, observation of the Sun, Moon, planets, comets, meteors and variable stars. Schoolchildren today can take part in the study of precisely these astronomical objects.
+
+The choice of the meeting place is not random. Long-time friends connect the young astronomers of the Baku Pinoye Palace named after. Yu. Gagarin with scientists from the Shemakha Observatory. Everyone easily comes here to observe the Krupkovites from Baku. A frequent guest in the astronomical laboratories of the Pinoye Palace is the director of the Observatory, Academician of the Academy of Sciences of the Azerbaijan USSR G. F. Sultanov. This summer, two new astronomical towers will come into operation at the Shemakha Observatory. Both the towers themselves and the telescope installed in them are the work of the skillful hands of young astronomers from the Baku Palace of Pinoyers and their leader S.I. Sorin.
+
+The gathering is not only a school for young astronomers. The organizers of the rally see one of its tasks in organizing the slimming of the guys of the Weighty Sky Service. This service makes it possible to involve schoolchildren in systematic patrol observations of comets, bright bolders, novae...
