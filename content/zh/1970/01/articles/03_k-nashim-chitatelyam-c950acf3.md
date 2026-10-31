@@ -1,0 +1,34 @@
+---
+id: 1970-1-k-nashim-chitatelyam-c950acf3
+issue: kvant_1970_1
+year: 1970
+number: "1"
+title: 致我们的读者
+rubric: otkryvayushchie-stati
+page_first: 6
+page_last: 6
+page_labels: "4"
+tag: KN47
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: fd312eb6e0fb17a92554a5118d3502e2604c1ebb381c66f3cc4aca4521651596
+prompt_sha256: draft-1
+translated_from: content/ru/1970/01/articles/03_k-nashim-chitatelyam-c950acf3.md
+source_content_sha256: ed719b289252780f8ceb85cbc73bc9f0523583754363220a1fa769f0118e1c92
+translation_model: draft
+translation_run: zh-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 4⟧
+
+致我们的
+
+我国出版了许多科学期刊。数学家和物理学家、生物学家和医生、地理学家和地质学家、各专业的工程师、教师，当然还有……小学生都需要它们。但小学生还没有自己的科学期刊。现在是填补这一空白的时候了。对于对数学和物理感兴趣的小学生，我们希望«Kvant»成为他们的第一本科学杂志。
+
+为学童创办一本新杂志是该党在莫洛代基方面不断努力和发展的证明。值得注意的是，该杂志是在大禧年——V.I. 诞辰 100 周年之际发行的。列宁为我国各族人民开启了通往人类知识高峰的大门。
+
+当然，我们指望学生在数学和物理方面只是“变得更好”或者可以变得更好。但现在国家非常需要对科学充满热情、超越学校强制性要求的年轻人。 1968年底，苏联有超过80万名科学工作者，其中物理和数学科学专家超过8万名。必须凭借主动性和创造力掌握数学方法和物理实验艺术的科学家、工程师、经济学家等的总数很快将达到数百万。因此，我国有兴趣确保那些认为有能力解决数学和物理问题的学童能够及时思考选择未来的人生道路，使他们的能力和兴趣不会白费。
+
+波兹尼将为成功学习​​数学和物理创造所有机会。组织了特殊的物理和数学学校，为年龄较大的学生开设了额外的选修课，并举办了物理和数学奥林匹克竞赛。这是一个完整的案例，«Kvant»。该杂志将包含许多适合学校圈子工作的材料。但脱离杂志社独立工作是可能的。

@@ -1,0 +1,75 @@
+---
+id: 1970-3-dva-aforizma-b9ccaf27
+issue: kvant_1970_3
+year: 1970
+number: "3"
+title: 【两句格言】
+rubric: smes
+page_first: 54
+page_last: 54
+page_labels: "52"
+tag: 6TUW
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 2560746914c48cecc0c757522b5f5e7ef9a5a9afd56cd8983c66700159fd0ea1
+prompt_sha256: draft-1
+translated_from: content/ru/1970/03/articles/18_dva-aforizma-b9ccaf27.md
+source_content_sha256: d7ed04b3b589b19fd0e8bf98b2c686d2e713996e908ab7dfe3e649c69acea734
+translation_model: draft
+translation_run: zh-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 52⟧
+
+尽管最近在针对学童的文献中已经考虑了相当多的此类问题，但“这种问题的特殊性”却以这种不寻常的形式出现。
+
+这是这个问题的解决方案：如果 $x$ 满足第一个不等式，则$5 < x < \frac{16}{3}$，因此$\frac{2}{3} < 6 - x < 1$，因此，$3 < \frac{3}{6 - x} < \frac{9}{2}$。由于$\frac{\pi}{2} < 3 < \frac{9}{2} < \frac{3\pi}{2}$，角度$\frac{3}{6 - x}$位于第二或第三象限，因此其余弦为负。
+
+因此，我们提出了解决问题的方案，有些困难，有些简单。您可以通过解决以下两个选项中的问题来评估他们的难度，进而评估您的优势。
+
+选项
+
+1. 解方程
+$$\log_{x+3}(3 - \sqrt{1 - 2x + x^2}) = \frac{1}{2}.$$
+
+2. 解决不平等问题
+$$6\sin^2\frac{x}{2}\mathrm{ctg}^2x \leqslant 2\cos^2x + 3\mathrm{ctg}^2x.$$
+
+3. $SABC$ 的底部有 $\Delta ABC$，有角度 $C=90^\circ$ 和锐角 $30^\circ$。棱边的侧边与底座平面倾斜$45^\circ$角，棱边的高度为$H$。通过平行于 $AB$ 的点 $C$ 并将面 $ASB$ 分成相等面积的部分，求出棱柱的横截面积。
+
+4. 证明如果连接内接四边形的相对顶点的直线经过在另外两个顶点绘制的切线的交点，则对边的乘积相等。
+
+5. 证明如果$\frac{x^2 - 5x + 6}{x^2 - 11x + 30} < 0$，则sin$x$和cos$x$有不同的符号。
+（MGPI以V.N.列宁命名）
+
+1. 在正三角形中，取底边等于$a$，其顶点处的边之间的角度等于$\alpha$（$\alpha \leqslant 90^\circ$）。确定通过垂直于相对侧边缘的底座侧面绘制的截面面积。
+
+2. 解方程
+$$\lg^2 x + \lg^2 (x + 10) = 2\lg 11.$$
+
+3. 解方程
+$$\sin 3x \cdot \sin x + 1 = 0.$$
+
+（伊万诺沃教育学）
+
+团结就是力量
+
+“虽然代数和几何各自以自己的方式发展，但其进展缓慢且应用有限。
+
+但当这些科学结合在一起时，它们就相互大力支持，并迅速走向完美。”
+
+拉格朗日
+不是敌人，而是朋友
+
+“认为证明的严格性是简单性的敌人是错误的。例如，你可以应用这样一个事实，即严格的方法同时更简单、更容易且更容易获得。在严格性方面的一切努力都旨在寻找最简单的证明方法。”
+
+吉尔伯特
+4、5 和 6
+
+可以放置 4 个相同的球，使每个球都接触其他三个。
+
+可以放置 5 个相同的球，使每个球都接触其他四个球。
+
+是否可以排列 6 支相同的未削尖的铅笔，使每一支都接触另外 5 支？

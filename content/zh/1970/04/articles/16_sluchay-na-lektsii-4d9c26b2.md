@@ -1,0 +1,57 @@
+---
+id: 1970-4-sluchay-na-lektsii-4d9c26b2
+issue: kvant_1970_4
+year: 1970
+number: "4"
+title: 讲座中发生的事件
+rubric: smes
+page_first: 50
+page_last: 50
+page_labels: "48"
+tag: IVTF
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 01723ccd47f0fa102603f64c3768a850aee05951531791104916ff553d3ec36a
+prompt_sha256: draft-1
+translated_from: content/ru/1970/04/articles/16_sluchay-na-lektsii-4d9c26b2.md
+source_content_sha256: b2bb20cf8a5d7e575d120b4558b4d7e23be31943e2c3b21ad5b6d653bca5f161
+translation_model: draft
+translation_run: zh-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 48⟧
+
+解决方案。让我们使用不等式系统的图形解来找到
+
+$$x + 2y \leq 3, \quad 2x - y \leq 1, \quad x \geq 0, \quad y \geq 0$$
+
+坐标满足指定条件的点的集合。从 图 15 可以看出，这将是一个四边形 OABC。 （其顶点的坐标很容易从边界线的方程确定，并在相同的图上表示。）
+
+现在我们的任务制定如下。在四边形 AOBC 的点中，找到表达式 $x^2 + y^2$ 最正确的点。但我们知道，表达式$x^2 + y^2$决定了坐标为$(x, y)$的点到原点的距离的平方。因此，任务归结为找到 OABC 四边形中距离原点最方便的点。显然，这样的点就是点$C\left(0; \frac{3}{2}\right)$。证明一下！
+
+自己解决两道此类问题（这些问题在 1968 年数学笔试中出现）。
+
+实施例12（列宁格勒大学物理学家）。在所有满足不等式 $\log_{x^2 + y^2}(x + y) \geq 1$ 的数对中，找到 $y$ 最多的数对。
+
+实施例13（新西伯利亚大学力学和数学）。对于坐标$(x, y)$满足不等式系的平面上所有点中的每个$a$
+
+$$\begin{align*}
+y - 2x &\geq 0, \\
+-x^2 + 2ax - a^2 + a + 1 - y &\geq 0,
+\end{align*}$$
+
+找到$y$最多的点。
+
+讲座一开始，讲师提出了著名的柯西定理，根据该定理，不等正数的算术平均值大于其几何平均值。
+
+这时，学生被叫到了院长办公室。当他回到课堂时，门外的情况仍然存在，讲师已经完成了问题的阐述：
+
+“线索是方程的所有根不仅是实数，而且是正数。”
+
+当学生走进教室时，黑板上除了$x^{20} - 20x^{19} \dots +1 = 0$之外的所有内容都已被擦除。
+
+“一切都清楚了，”学生说，并说出了讲师在他缺席时写下的方程的所有根。
+
+你能说出他们的名字吗？

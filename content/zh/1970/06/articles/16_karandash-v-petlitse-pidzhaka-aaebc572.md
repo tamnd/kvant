@@ -1,0 +1,39 @@
+---
+id: 1970-6-karandash-v-petlitse-pidzhaka-aaebc572
+issue: kvant_1970_6
+year: 1970
+number: "6"
+title: 铅笔插在夹克扣眼上
+rubric: smes
+page_first: 55
+page_last: 55
+page_labels: "53"
+tag: 5J5H
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 7f35daa2a05de17b5e9c1d78adb77fc7dcaf4a3a5b251dec1615283097333136
+prompt_sha256: draft-1
+translated_from: content/ru/1970/06/articles/16_karandash-v-petlitse-pidzhaka-aaebc572.md
+source_content_sha256: 08b614c43ef58f34d047cfa70ec4fb386a3ceec80b8aa8e885f1cd01ca0a8d1f
+translation_model: draft
+translation_run: zh-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 53⟧
+
+铅笔插在夹克扣眼上
+
+拿一支铅笔，在靠近一端的地方开一个凹槽，然后在绳子上系一个环，使环上绳子的长度小于凹槽到铅笔另一端距离的两倍（见图1）。现在用绳子的剩余端在铅笔上系一个环，沿着凹槽环绕铅笔，首先将环穿入夹克的扣眼，然后将铅笔穿入环，如图2所示。需要凹槽，以便环牢固地固定在铅笔上。
+
+现在，尝试在不解开绳子、不撕裂绳子、不折断铅笔的情况下，将铅笔从夹克上取下。
+
+有一个与此任务相关的小故事。 1951年，杰出的苏联数学家、现任苏联科学院通讯院士I.R.沙法罗维奇在莫斯科国立大学开设了他的第一门课程。课间休息时，同学们向他展示了这个问题。伊戈尔·罗斯季斯拉沃维奇尝试了一种选择，然后又尝试了另一种选择，但是……在讲座的接下来一个小时和讲座结束后，铅笔仍然留在他的夹克上。
+
+几天后，当伊戈尔·罗斯季斯拉沃维奇出现在他的下一场演讲中时，铅笔继续装饰着他的夹克。然而，讲座开始时，沙法罗维奇庄严地摆脱了这种装饰。
+
+对你来说效果如何？
+
+图 1.
+图 2.
