@@ -1,0 +1,93 @@
+---
+id: 1985-4-volgin-leningradskiy-politehnicheskiy-institut-im-m-i-kalinina-a8a40404
+issue: kvant_1985_4
+year: 1985
+number: "4"
+title: Viện Bách khoa Leningrad được đặt theo tên. M. I. Kalinina
+authors:
+  - Волгин Ю. Н. и др.
+rubric: ekzamenatsionnye-materialy
+rubric_sub: Экзаменационные материалы
+page_first: 58
+page_last: 58
+page_labels: "56"
+tag: SHCZ
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: bad7df70875f7d8f471f6202ff4d5d9298d3740d0ed77290ef15d2471c8e83de
+prompt_sha256: draft-1
+translated_from: content/ru/1985/04/articles/22_volgin-leningradskiy-politehnicheskiy-institut-im-m-i-kalinina-a8a40404.md
+source_content_sha256: 8c387b6fbd9af11bd19f2c372445159fa2e7c656894f57a344621573c1fb6b16
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 56⟧
+
+chúng tôi đã phải thay đổi nhiệt độ. Nhiệt độ của khí ở xi lanh thứ hai thay đổi như thế nào nếu nó thay đổi $m$ lần ở xi lanh thứ nhất? Piston có thể được coi là không trọng lượng.
+
+3. Những điều kiện nào phải được thỏa mãn bởi EMF và điện trở trong $r$ của hai nguồn dòng điện giống hệt nhau để có thể xác định chúng bằng cách sử dụng một vôn kế có giới hạn đo $U$ và điện trở trong $R$?
+
+4. Một chùm ánh sáng hẹp song song từ tia laser truyền trong nước được tập trung vào một màn hình nằm ở khoảng cách $F$ tính từ đường thu. Trên đường đi của chùm tia đến đường thẳng cách nó một khoảng $a$ xuất hiện một bong bóng không khí có dạng hình cầu có bán kính $r$, nhỏ hơn nhiều so với khoảng cách $a$, nhưng lớn hơn nhiều so với bán kính của chùm tia. Bạn nên di chuyển màn hình đến đâu để nhìn thấy lại dấu chấm trên đó?
+
+5. Câu hỏi lý thuyết: hiệu ứng hình ảnh.
+
+Bài thi vấn đáp
+
+Khoa Toán và Cơ học, Khoa Toán ứng dụng - Quy trình điều khiển, Khoa Hóa học và Địa chất
+
+1. Một vật nổi trong nước sao cho 1/3 thể tích của nó chìm trong nước. Bộ phận nào của cơ thể được ngâm trong nước nếu bình chứa nước mà cơ thể nổi trong đó di chuyển lên trên bằng rễ $a$?
+
+2. Quả bóng thủy tinh được nâng lên ba lần: a) chân không, b) chứa đầy không khí ở áp suất khí quyển bình thường, c) chứa đầy một loại khí chưa xác định ở áp suất $p=1,5$ atm. Các số đọc trên thang đo tương ứng bằng $m_1=200$g, $m_2=204$g, $m_3=210$g. Lý thuyết vẫn không đổi. Xác định khối lượng mol của khí.
+
+3. Trong xi lanh đặt dưới pít-tông có một khối khí lý tưởng nhất định ở nhiệt độ $t=30^\circ\text{C}$, có thể tích $V=8$ lít ở áp suất $p=2$ atm. Nhiệt độ của khí tăng lên bao nhiêu khi thể tích của nó giảm ở áp suất không đổi đến mức $A=50$ J công đã được thực hiện?
+
+4. Một electron bay vào một tụ điện phẳng với vận tốc $\vec{v} (v=2 \cdot 10^7 \text{ m/c})$, hướng song song với các bản của tụ điện. Electron sẽ dịch chuyển bao xa so với hướng ban đầu của nó trong quá trình bay bên trong tụ điện nếu khoảng cách giữa các bản là $d=2$ cm, chiều dài của tụ điện là $L=5$ cm và hiệu điện thế giữa các bản là $U=200$ V? Tỷ số điện tích của electron trên khối lượng của nó là $e/m=1,76 \cdot 10^{11}$ C/kg.
+
+5. Từ một nguồn có điện áp $U=750$ V cần truyền công suất $P=5$ kW trên một khoảng cách nhất định. Điện trở tối đa mà đường dây truyền tải có thể có là bao nhiêu để tổn thất điện năng trên đường dây không vượt quá 10%
+
+từ sức mạnh được truyền đi, tức là sức mạnh đến tay người tiêu dùng?
+
+6. Hai đường thẳng có tiêu cự $F=30$ cm nằm cách nhau $l=15$ cm. Trong những điều kiện nào hệ thống này tạo ra một hình ảnh hợp lệ của một vật thể?
+
+7. Đường viền màu đỏ của hiệu ứng quang học đối với vật liệu nhân tố là $\lambda_{\max}=700$ nm. Tỉ số vận tốc của các electron phát ra khi được chiếu sáng bởi ánh sáng có bước sóng $\lambda_1$ và $\lambda_2$ bằng $k=3/4$. Xác định $\lambda_2$ nếu $\lambda_1=600$ nm.
+
+Ấn phẩm được biên soạn bởi A. E. Kuchma, V. F. Osipov, V. N. Skrebov
+
+Viện Bách khoa Leningrad được đặt theo tên. M. I. Kalinina
+
+Toán học
+
+Bài thi viết
+
+Tùy chọn 1
+(khoa vật lý cơ học và vật lý phóng xạ)
+
+1. Rút gọn biểu thức:
+
+$$\frac{(\sqrt{5}a^{4/3})^{3/2}}{(\sqrt{5}a^{4})^{3}}: \frac{(\sqrt{a^3a^2b})^{-4}}{(\sqrt{3}a\sqrt{b})^{-6}}.$$
+
+2. Tìm miền hàm $f(x)=\sqrt{(x^2-3x-10)}\lg^2(x-3).$
+
+3. Ở đáy của ví dụ ba đầu $SABC$ là một hình tam giác đều $ABC$ có độ dài cạnh $\sqrt{3}$, cạnh $SA$ có độ dài 6. Tìm thể tích của ví dụ nếu biết rằng các mặt bên của nó có diện tích bằng nhau.
+
+4. Chứng minh rằng đối với các góc $A, B, C$ của một tam giác đều thì bất đẳng thức sau đúng:
+
+$$1 < \sqrt{\cos A} + \sqrt{\cos B} + \sqrt{\cos C} < \frac{11}{5}.$$
+
+Tùy chọn 2
+(Khoa kỹ thuật tủ mạng)
+
+1. Giải phương trình
+
+$$2\log_2x-2\log_2\frac{1}{\sqrt{2}}=3\sqrt{\log_2x}.$$
+
+2. Giải phương trình
+
+$$\cos x+\cos 2x+\cos 3x=0.$$
+
+3. Tìm miền định nghĩa, phạm vi giá trị và khoảng đơn điệu của hàm
+
+$$f(x)=\left(\frac{1-\sqrt{x^3}}{1-\sqrt{x}}-3\sqrt{x}\right)^{0.5}.$$

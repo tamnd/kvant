@@ -1,0 +1,107 @@
+---
+id: 1985-3-pobediteli-konkursa-zadachnik-kvanta-c3154914
+issue: kvant_1985_3
+year: 1985
+number: "3"
+title: Người chiến thắng cuộc thi “Bài toán Kvant
+rubric: zadachnik-kvanta
+page_first: 26
+page_last: 26
+page_labels: "24"
+tag: 9NIA
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 743631ca84314a003bdd5c74649cb8e824a430e2cb4658e7d47d603728882940
+prompt_sha256: draft-1
+translated_from: content/ru/1985/03/articles/12_pobediteli-konkursa-zadachnik-kvanta-c3154914.md
+source_content_sha256: d647e793974ddba7e75bbda1330416ae6348d9d66f30ccad48df6157701b02b4
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 24⟧
+
+Người chiến thắng cuộc thi
+"Vấn đề"Quenta"
+
+Hàng năm tạp chí của chúng tôi tổ chức một cuộc thi dành cho học sinh để giành lời giải bài toán từ Sách Vấn đề “Kvaenta”.
+Danh sách người chiến thắng cuộc thi “Quaenta problem” được công bố dưới đây
+1984.
+Được trao Bằng tốt nghiệp và huy hiệu của tạp chí “Quant”
+và nhận quyền tham gia ngay vào vòng thứ tư (cộng hòa) của All-Olympiad 1985:
+
+Trong toán học
+M. ALEXANDROV - Moscow, s.sh. Số 542, 9 ô.
+A. ASRYAN - Yerevan, Trường Vật lý số 1 tại Đại học Bang Yerevan, lớp 10.
+R. VABAEV - Baku, s.sh. Số 145, 10 ô.
+S. VELESKO - Minsk, s.sh. Số 103, 9 ô.
+E. VELIMETOV - Baku, Trường Vật lý số 1, lớp 10.
+L. VERTGEIM - Novosibirsk, s.sh. Số 25, 10 ô.
+D. GAMARNIK - Tbilisi, Trường Vật lý được đặt theo tên. V. M. Komarova, lớp 9.
+R. GENDLER - Tashkent, s.sh. Số 110, 8 ô.
+A. GRIGORYAN - Yerevan, Trường Vật lý số 1 tại Đại học Bang Yerevan, lớp 9.
+A. DAVTYAN - Yerevan, Trường Vật lý số 1 tại Đại học Bang Yerevan, lớp 9.
+S. DEMyanCHENKO - Moscow, s.sh. Số 315, 10 ô.
+V. DZYUVA - Odessa, s.sh. Số 100, 10 ô.
+A. DYNNIKOV - Zhukovsky, s.sh. Số 1, 9 ô.
+I. DYNNIKOV - Zhukovsky, s.sh. Số 10, 8 ô.
+V. ELISTRATOV - Donetsk, s.sh. Số 17, 10 ô.
+V. ZHURAVLEV - Gayvoron, s.sh. Số 2, 8 ô.
+S. ZEINALOV - Baku, Trường Vật lý số 1, lớp 10.
+L. ZOSIN - Kyiv, s.sh. Số 145, 10 ô.
+V. KAPOVICH - Khabarovsk, s.sh. Số 2, 9 ô.
+I. KAPOVICH - Khabarovsk, s.sh. Số 2, 9 ô.
+T. KOVDIKOV - Pavlodar, s.sh. Số 3, 10 ô.
+M. KURINNOY - Kharkov, s.sh. Số 27, 9 ô.
+S. LAUSMAA - Koktla-Jarve, vĩ độ Bắc số 15, 6 ô.
+M. MAKAROV - Sevastopol, phía bắc sh. Số 3, 9 ô.
+T. MISIRPASHAYEV - Moscow, s.sh. Số 57, 9 ô.
+A. MOLOTKOV - Leningrad, s.sh. Số 366, 10 ô.
+V. POGREBNYAK - Vinnitsa, s.sh. Số 6, 10 ô.
+I. SAMOVOL - Gayvoron, s.sh. Số 5, 8 ô.
+R. SIBILEV - Leningrad, s.sh. Số 30, 9 ô.
+A. TRUCHAN - Minsk, s.sh. Số 116, 10 ô.
+E. FINK - Leningrad, s.sh. Số 239, 9 ô.
+Y. SHAMRUK - làng Novy Dvor, vùng Grodno, lớp 7.
+
+Trong vật lý
+O. AVRAMENKO - Kherson, s.sh. Số 30, 10 ô.
+V. APALKOV - Kharkov, s.sh. Số 16, 10 ô.
+G. ARVELADZE - Tbilisi, s.sh. Số 37, 9 ô.
+A. BAIRAMOV - Baku, Trường Vật lý số 1, lớp 10.
+A. BEGLAROV - Tbilisi, s.sh. Số 42, 9 ô.
+E. BONDARENKO - Poltava, s.sh. Số 6, 10 ô.
+R. BOTASHEV - Frunze, s.sh. Số 61, 10 ô.
+E. WEINSTEIN - Tashkent, s.sh. Số 71, 10 ô.
+M. GOTMAN - Kyiv, s.sh. Số 145, 10 ô.
+A. DODA - Korsun-Shevchenkovsky, s.sh. Số 4, 9 ô.
+S. DUBOVIK - Brest, s.sh. Số 1, lớp 10.
+S. ZHILINSKAS - Vilnius, s.sh. Số 9, 11 ô.
+G. KLIMOVICH - Bolshevo, s.sh. Số 3, 10 ô.
+D. KUCHULORYAYA - Tbilisi, Trường Vật lý và Âm nhạc được đặt theo tên.
+V. M. Komarova, lớp 9.
+A. LICHTSINDER - Tashkent, v.sh. Số 49, 10 ô.
+K. LOPIN - Frunze, s.sh. Số 61, 9 ô.
+D. LUNTZ - Saratov, s.sh. Số 13, 10 ô.
+Y. MAKHLIN - Moscow, s.sh. Số 57, 9 ô.
+V. MENKOV - Moncherorsk, s.sh. Số 3, 10 ô.
+A. MIKALYKEVICHS - Panavezys, s.sh. họ. Y. Balchikonis, lớp 11.
+O. MOROZ - Alma-Ata, ROFMSH, lớp 10.
+A. ONUFRIEV - Moscow, s.sh. Số 91, 10 ô.
+Y. PUGAI - Alma-Ata, ROFMSH, lớp 10.
+S. RAKHAMOV - Kazan, s.sh. Số 131, 9 ô.
+A. RZHEVSKY - Novosibirsk, s.sh. Số 149, 10 ô.
+R. RIVKIN - Minsk, s.sh. Số 16, 10 ô.
+M. RUDIK - Vinnitsa, s.sh. Số 33, 10 ô.
+M. SAVCHENKO - Belgorod, s.sh. Số 3, 10 ô.
+V. SAKBEV - Alma-Ata, ROFMSH, lớp 9.
+M. SKOROVOGATOV - Kyiv, s.sh. Số 208, 10 ô.
+S. STEPANYANTS - Yerevan, Trường Vật lý số 1 tại Đại học Bang Yerevan, lớp 10.
+V. SULEIMANOV - Baku, Trường Vật lý số 1, lớp 10.
+S. TUZHANSKY - Vinnitsa, s.sh. Số 33, 9 ô.
+L. FEDICHKIN - Moscow, s.sh. Số 91, 10 ô.
+S. FERANCHUK - Minsk, s.sh. Số 1, lớp 10.
+S. CHERNYSHEV - Tashkent, s.sh. Số 50, 10 ô.
+A. SHEGOLEV - Làng Chernogolovka, vùng Moscow, phía bắc sh. Số 82, 10 ô.

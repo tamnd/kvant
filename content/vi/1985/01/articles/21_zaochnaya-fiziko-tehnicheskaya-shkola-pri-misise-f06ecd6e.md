@@ -1,0 +1,52 @@
+---
+id: 1985-1-zaochnaya-fiziko-tehnicheskaya-shkola-pri-misise-f06ecd6e
+issue: kvant_1985_1
+year: 1985
+number: "1"
+title: Trường Vật lý và Công nghệ Tương ứng tại MISiS
+rubric: informatsiya
+rubric_sub: Информация
+page_first: 56
+page_last: 56
+page_labels: "54"
+tag: AZOU
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 184ed68a08f270574a82ce391d3f6c45f91c0f51d951b65408e8e965e0dbc3a0
+prompt_sha256: draft-1
+translated_from: content/ru/1985/01/articles/21_zaochnaya-fiziko-tehnicheskaya-shkola-pri-misise-f06ecd6e.md
+source_content_sha256: db29d533f36dc4f348ae3dfada02c667d630df1b9224e15babd53da50b9a8593
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 54⟧
+
+Ghi chú:
+1. Đối với học sinh lớp 7–10 ở Mátxcơva và vùng lân cận Mátxcơva, có khoa buổi tối của MMMF. Thắc mắc qua điện thoại: 139-39-43.
+2. Đối với học sinh ở Kazakhstan và Moldova, có các học sinh của Đại học Bang Moscow: tại Khoa Toán của Đại học Bang Kazakhstan và tại Khoa Toán và Điều khiển học của Đại học bang Chisinau. Địa chỉ của họ:
+480012 Almaty, st. Kirova-Masanchi, 47/39, Kaz. GSU, Khoa Toán, MMMF filpal MSU.
+277003 Chisinau, st. Sadovaya, 60, KSGU, Khoa Toán và Điều khiển học, MMMF MSU.
+
+Bài kiểm tra đầu vào của Khoa Cơ học và Toán học Malta năm 1985
+1. Khai triển đa thức $x^4+2x^2+9$ thành tích của hai tam thức chính phương.
+2. Điểm $D$ nằm bên trong tam giác ABC. Chứng minh rằng $AD+BD$ nhỏ hơn $AC+BC$.
+3. Từ đỉnh của một góc vuông của một tam giác, vẽ đường trung tuyến, bissertis và đường cao. Chứng minh rằng góc giữa đường trung tuyến và đường Bisserti bằng góc giữa đường trung tuyến Bisserti và đường cao.
+4. 6 học sinh gặp nhau. Chứng minh rằng trong số họ có ba người, mỗi người quen với hai người còn lại, hoặc ba người, mỗi người không quen với hai người còn lại (người ta tin rằng đối với hai học sinh chỉ có hai khả năng: quen hoặc không quen nhau).
+5. Tìm tất cả các cặp số $x, y$ thỏa mãn đẳng thức
+$$x^2+y^2+1=xy+x+y.$$
+6. Trong số một triệu số tự nhiên đầu tiên có bao nhiêu số không chia hết cho 3 hoặc 7?
+
+Trường Đại học Vật lý và Công nghệ tại MISiS
+
+Trường Toán học Thư tín Toàn Liên minh Filpal - Trường Vật lý và Công nghệ Tương ứng tại Viện Thép và Hợp kim Mátxcơva của Huân chương Cách mạng Tháng Mười và Huân chương Lao động Đỏ - thông báo tuyển sinh học sinh vào Vosmysh và lớp chín cho năm học 1985/86.
+
+Mục tiêu của trường là hỗ trợ học sinh nghiên cứu chuyên sâu chương trình trung học cơ sở về vật lý và toán học.
+
+Chương trình giảng dạy môn toán hoàn toàn phù hợp với khóa học VZMS. Khóa học vật lý được biên soạn bởi các giáo viên của Bộ môn Vật lý đại cương và Bộ môn Vật lý lý thuyết của Viện Thép và Hợp kim Moscow và đáp ứng yêu cầu thi tuyển sinh của các trường đại học, chủ yếu tại MISiS.
+
+Công việc của trường học được tổ chức như sau. Bốn đến năm lần một năm, học sinh được ôn tập các bài kiểm tra vật lý và toán học, cùng với thông tin ngắn gọn về lý thuyết và ví dụ lời giải bài toán. Bài kiểm tra gửi cho học sinh được kiểm tra và gửi cho học sinh cùng với điểm và nhận xét. Là bài tập hàng năm, học sinh lớp 10 được gửi tài liệu các kỳ thi tuyển sinh vào MISiS những năm trước.
+
+Các lớp học tại 3FTSH (MISIS) sẽ bắt đầu vào ngày 1 tháng 10 năm 1985. Để đăng ký vào trường, bạn phải gửi đơn đăng ký nêu rõ họ, tên, họ bảo trợ, địa chỉ nhà đầy đủ, nghề nghiệp và chức vụ của phụ huynh, đồng thời đính kèm chứng chỉ của trường cho biết lớp và điểm hàng năm về vật lý và toán học. Đơn đăng ký và chứng chỉ cùng với đáp án bài tập toán đầu tiên được đề cập trong bài báo “Tuyển sinh mới vào Trường Toán học Liên minh” trong số này của khóa học, phải được gửi chậm nhất là ngày 5 tháng 5 tới địa chỉ: 117049 Moscow, Leninsky Ave. 4, MISiS, 3FTSH.

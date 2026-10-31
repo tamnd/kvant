@@ -1,0 +1,45 @@
+---
+id: 1985-1-k-nashim-chitatelyam-1a7f39f2
+issue: kvant_1985_1
+year: 1985
+number: "1"
+title: Gửi độc giả của chúng tôi
+rubric: osnovnye-stati
+page_first: 5
+page_last: 5
+page_labels: "3"
+tag: KSHR
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: b1cd573cf0862d985ca1dc5be056e39b7e0b98b8531f438bf821e16201a0fff0
+prompt_sha256: draft-1
+translated_from: content/ru/1985/01/articles/02_k-nashim-chitatelyam-1a7f39f2.md
+source_content_sha256: d8f1a59853171061a11e65d4fab0e232e2dc90021b4fd91a06ea5b396dc424cc
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 3⟧
+
+Gửi độc giả của chúng tôi
+
+Nhiều tạp chí được xuất bản ở nước ta: Chúng cần thiết cho các nhà toán học và vật lý, nhà sinh học và bác sĩ, nhà địa lý và địa chất, kỹ sư thuộc nhiều chuyên ngành khác nhau, giáo viên và tất nhiên, ... học sinh. Nhưng học sinh vẫn chưa có tạp chí khoa học của riêng mình. Đã đến lúc lấp đầy khoảng trống này. Đối với những học sinh quan tâm đến toán học và vật lý, chúng tôi muốn «Kvant» trở thành tạp chí khoa học đầu tiên của các em.
+
+Tất nhiên, chúng tôi đang trông cậy vào những học sinh chỉ đơn giản là “trở nên giỏi hơn” về toán và vật lý hoặc có thể tiến bộ hơn. Nhưng hiện nay, nhu cầu của đất nước là rất lớn đối với những người trẻ tuổi tham gia vào khoa học với niềm đam mê và vượt ra ngoài những yêu cầu bắt buộc của trường học. Ở Liên Xô vào cuối năm 1968 có hơn 800.000 nhân viên khoa học, trong đó có hơn 80.000 chuyên gia về khoa học vật lý và toán học. Tổng số nhà khoa học, kỹ sư, nhà kinh tế, v.v., những người phải nắm vững các phương pháp toán học và nghệ thuật thí nghiệm vật lý bằng vết mổ và phát minh của chính họ, sẽ sớm lên tới hàng triệu người. Đất nước chúng ta cam kết đảm bảo rằng học sinh được học
+
+Thiếu khả năng giải quyết các vấn đề toán học và vật lý, họ đã kịp thời suy nghĩ về việc lựa chọn một con đường nghiên cứu sâu hơn mà khả năng và sở thích của họ sẽ không bị uổng phí. Vì vậy, mọi cơ hội sẽ được tạo ra để học tập thành công về toán học và vật lý. Các trường vật lý và toán học đặc biệt được tổ chức, các lớp tự chọn bổ sung được tổ chức cho học sinh lớn hơn và các kỳ thi Olympic vật lý và toán học được thành lập. Đây là toàn bộ trường hợp và «Kvant». Tạp chí sẽ chứa rất nhiều tài liệu phù hợp cho công việc trong giới học đường. Nhưng bạn có thể tự mình làm việc với tạp chí.
+
+Chúng ta phải ủng hộ ngay từ này - làm việc. Trong tạp chí, bạn sẽ tìm thấy cả các trang mùa xuân và tài liệu dành cho so sánh_LEGACIOUS_MATHEMATICS_WORKS. Nhưng tài liệu chính của tạp chí đã được mở rộng để bao gồm cả học sinh sẽ làm việc trên tạp chí đó. Bạn cần phải giải các bài toán, đọc các bài báo bằng giấy và bút chì trên tay và cố gắng tự mình thực hiện lại các thí nghiệm được mô tả.
+
+Hầu hết các tài liệu của tạp chí đều hướng đến đối tượng học sinh trung học, nhưng chúng tôi hy vọng rằng các em học sinh từ lớp 6-7 cũng sẽ tìm thấy những điều thú vị trên tạp chí.
+
+Đừng lo lắng nếu bạn thấy mình khó tiếp cận và khó khăn. Chọn một tài liệu tạp chí khác, nói lời tạm biệt, nhưng sau một thời gian hãy cố gắng quay lại với những tài liệu mà ban đầu bạn đã bỏ qua.
+
+Tóm lại, tại sao tạp chí được gọi là «Kvant». Có một thời, sự xuất hiện của ý tưởng lượng tử đã gây ra những thay đổi sâu sắc trong khoa học vật lý. Chúng tôi muốn rằng sự xuất hiện của tạp chí mới cũng sẽ mang lại những tiến bộ lớn hơn và thậm chí là một bước nhảy vọt đáng chú ý trong việc tiếp thu khoa học hiện đại của học sinh. Hãy để chúng tôi nhắc lại một lần nữa: để hy vọng của chúng tôi trở thành hiện thực, chúng tôi cần độc giả ngay lập tức tham gia tích cực cùng chúng tôi.
+
+Chúng tôi chúc bạn thành công!
+
+tuyển tập biên tập
+(«Kvant», Số 1, 1970)

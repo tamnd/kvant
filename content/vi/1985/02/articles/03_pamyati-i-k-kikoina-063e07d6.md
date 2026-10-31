@@ -1,0 +1,38 @@
+---
+id: 1985-2-pamyati-i-k-kikoina-063e07d6
+issue: kvant_1985_2
+year: 1985
+number: "2"
+title: '[Để tưởng nhớ I.K. Kikoin]'
+rubric: osnovnye-stati
+page_first: 4
+page_last: 4
+page_labels: "2"
+tag: K2XB
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 026c94abfd4d9bbcf68f28526fecb843a64b1a139a361506a4906378ae748e96
+prompt_sha256: draft-1
+translated_from: content/ru/1985/02/articles/03_pamyati-i-k-kikoina-063e07d6.md
+source_content_sha256: a5a72a2df758bff94ea679d84a09be35680ecafdcac71395b8efb71ef33a0ee0
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 2⟧
+
+Ngày 28 tháng 12 năm 1984, ở tuổi 77, nhà vật lý kiệt xuất Liên Xô, hai lần Anh hùng Lao động xã hội chủ nghĩa, đoạt giải thưởng Lênin và Giải thưởng Nhà nước Liên Xô, viện sĩ hàn lâm Isaac Kushelevich Kikoin, qua đời.
+
+I.K. Kikoin rất quan tâm đến việc giáo dục thế hệ trẻ. Theo sáng kiến ​​của ông, tạp chí «Kvant» đã được thành lập và ông là tổng biên tập trong 15 năm. Ông đứng đầu ban tổ chức Olympic toàn trường và là tác giả của một số sách giáo khoa cấp trường.
+
+I.K. Kikoin thường gặp học sinh. Lần cuối cùng ông nói chuyện với ông là trong buổi thuyết trình của Trường Khoa học Tự nhiên tại Viện Năng lượng Nguyên tử. Giải thưởng I. V. Kurchatov Lenin Komsomol. Màn trình diễn của anh ấy là một kiểu hoàn thiện tuổi trẻ.
+
+“Tôi muốn nói với các bạn những gì tôi đã nghĩ khi nhận giải thưởng này,” I. K. Kikoin nói với khán giả. - Tôi cứ tưởng rằng tôi đây, một học giả, trưởng nhóm, tôi có rất nhiều thành tích, nhưng không còn nghi ngờ gì nữa, tất cả những điều này - chức vụ, bằng cấp, danh hiệu - tôi sẽ đổi lấy tuổi trẻ của bạn, lấy 15, có thể là 17 năm của bạn.
+
+Và tôi cần phải thay đổi bởi vì trong suốt cuộc đời dài đằng đẵng của mình, tôi đã không có thời gian để tận hưởng nền vật lý yêu quý của mình, tôi không có đủ thời gian, bây giờ tôi đã thấy rõ - tôi không có đủ. Nhưng không có một ngày nào trong đời tôi, không một ngày nghỉ, không một ngày lễ, không một kỳ nghỉ nào mà tôi không làm điều đó. Tôi thường có những giấc mơ về vật lý. Và vẫn không có đủ thời gian. Chính bạn đã tìm ra nó như thế nào khi bạn sống cuộc sống của mình.
+
+Vì vậy, đừng lãng phí thời gian bây giờ. Nó vẫn chưa đủ, nhưng ít nhất nó sẽ không quá phản cảm. Bạn biết đấy, nhà khoa học không phải là chức danh hay nơi làm việc. Bot, anh bước vào phòng thí nghiệm - và bắt đầu suy nghĩ về khoa học, và trở thành một nhà khoa học. Điều này là sai. Trở thành một nhà khoa học là một trạng thái thường xuyên và thường đau đớn, đôi khi tuyệt vời. Bot, đó chính là điều tôi đã nghĩ đến khi họ đưa cho tôi chiếc rương này.”
+
+Hãy để lời chia tay này của I.K. Kikoin sẽ mãi ở bên các bạn cũng như ký ức tươi sáng về nhà khoa học lỗi lạc.

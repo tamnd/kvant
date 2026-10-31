@@ -1,0 +1,50 @@
+---
+id: 1985-4-semenov-pulsiruyuschee-solntse-d329e6b1
+issue: kvant_1985_4
+year: 1985
+number: "4"
+title: Mặt trời rung động
+authors:
+  - Семёнов А. В.
+rubric: novosti-nauki
+rubric_sub: Новости науки
+page_first: 14
+page_last: 14
+page_labels: "12"
+tag: GIQX
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 7fd66d6469eac91573222e2e89650d07b4d8c8c925214a97c34de8123fd40f75
+prompt_sha256: draft-1
+translated_from: content/ru/1985/04/articles/06_semenov-pulsiruyuschee-solntse-d329e6b1.md
+source_content_sha256: de9896c624b6d0244391b6a0f729f58957a73a39c5bf10bd1140fedbfb4c938f
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 12⟧
+
+Mặt trời rung động
+
+“Một vòng tròn mặt trời, một vòng tròn nhỏ,” mọi người đều biết Mặt trời là gì và có thể miêu tả nó. Mặt trời hoạt động như thế nào?
+
+“Tôi làm một cục bông gòn, ngâm trong cồn rồi kẹp lại. Nó cháy không tốt nhỉ?” - đây là cách phù thủy Goodwin “vĩ đại và khủng khiếp” mô phỏng Mặt trời từ cuốn sách “The Wizard of the Emerald City” của A. Volkov.
+Ý tưởng này không tệ, nhưng tất nhiên, mặt trời như vậy sẽ tắt sau vài phút nữa.
+
+Ngày nay các nhà vật lý biết rằng Mặt trời thực sự “cháy” bằng nhiên liệu nhiệt hạch. Hạt nhân hydro (proTON) kết hợp với neutron tạo thành hạt nhân gel và giải phóng năng lượng khổng lồ. Nhưng đây là nguyên tắc chung và nhiều chi tiết của quy trình vẫn chưa thể xác định được. Hơn nữa, có rất nhiều mâu thuẫn trong khoa học về lightILE của chúng tôi.
+
+Chẳng hạn, người ta đã biết rằng các phản ứng nhiệt hạch tạo ra neutrino - những hạt nhẹ nhất và khó nắm bắt nhất trong họ hạt cơ bản. Bất chấp sự khó nắm bắt đáng kinh ngạc của neutrino, các nhà vật lý đã học cách đăng ký chúng và sau khi học được, họ quyết định tìm hiểu xem có bao nhiêu trong số chúng bay từ Mặt trời. Hóa ra dòng neutrino ghi được từ Mặt trời nhỏ hơn ba lần so với mức cần thiết nếu tính theo giả thuyết về các phản ứng nhiệt hạch. Có chuyện gì vậy?
+
+Có những câu hỏi khác. Tuy nhiên, một trong số chúng có liên quan đến sự thay đổi luồng ánh sáng do Mặt trời gửi tới Trái đất; các nhà vật lý tin rằng trong quá trình tồn tại của hành tinh chúng ta, năng lượng bức xạ của Mặt trời lẽ ra phải tăng ít nhất 20-30%, nhưng nhà địa chất và cổ khí hậu học (các chuyên gia về khí hậu của các thời đại trước) tin rằng điều này đã không xảy ra.
+
+Mọi người đều đồng ý về một điều: cần phải chú ý đến Mặt trời và nghiên cứu cẩn thận về nó.
+
+Họ bắt đầu tra cứu và, như những gì xảy ra trong khoa học, cùng nhau đáp số phát hiện ra những mâu thuẫn mới bất ngờ trước những câu hỏi được đặt ra. Mọi chuyện bắt đầu từ việc các nhà vật lý người Mỹ R. Dicke và G. Goldenberg quyết định kiểm tra xem Mặt trời có thực sự là một quả bóng hay không. Từ kết quả đo của họ cho thấy Mặt trời bị dẹt. “Phát hiện” này hoàn toàn không phù hợp với bất kỳ lý thuyết nào và họ bắt đầu kiểm tra lại nó ở các quốc gia khác nhau.
+
+Nghiên cứu kỹ lưỡng theo hướng này đã bắt đầu khoảng mười năm trước tại Đài quan sát vật lý thiên văn Crimean của Viện Hàn lâm Khoa học Liên Xô. Các nhà vật lý thiên văn Liên Xô dưới sự lãnh đạo của Viện sĩ A. B. Severny cũng đã phát hiện ra một hiện tượng chưa từng được biết đến trước đây - sự dao động trong đường kính của Mặt trời. Hóa ra Mặt trời nở ra và co lại theo định kỳ, tức là nó dao động. Tần số của “xung mặt trời” là 160 phút một lần và biên độ của xung hướng về trung tâm của các lớp bên ngoài. Một “subtok” như vậy có thể dẫn đến sự xuất hiện của một sóng hình cầu từ tâm đến bề mặt Mặt trời. Đúng, số lượng tính toán dựa trên mô hình như vậy cho chu kỳ xung là 120 phút, nhưng theo đánh giá đầu tiên thì sóng này là thỏa đáng.
+
+Đây là lý do tại sao sự chú ý chặt chẽ đến Mặt trời không trả lời được những câu hỏi mà các nhà khoa học đang phải đối mặt mà lại dẫn đến việc phát hiện ra một khu vực hoàn toàn mới về “thời kỳ mang thai mặt trời” - helioseistolgin. Giờ đây, bằng cách nghiên cứu các xung động của bề mặt Mặt trời, chúng ta có thể hy vọng có được thông tin mới về cấu trúc của các lớp bên trong của nó.
+
+A. V. Semenov

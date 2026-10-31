@@ -1,0 +1,105 @@
+---
+id: 1985-2-ivlev-izbrannyie-shkolnyie-zadachi-11ee7bc4
+issue: kvant_1985_2
+year: 1985
+number: "2"
+title: Trường học yêu thích bài toán
+authors:
+  - Ивлев Б. М.
+rubric: shkola-v-kvante
+rubric_sub: Школа в «Кванте»
+page_first: 38
+page_last: 38
+page_labels: "36"
+tag: JU47
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 1f39fd77954b2972bd43cc6141f5bed443bde9641376a2957cc5324c24ac61e1
+prompt_sha256: draft-1
+translated_from: content/ru/1985/02/articles/17_ivlev-izbrannyie-shkolnyie-zadachi-11ee7bc4.md
+source_content_sha256: 1ca3a047f40be263080ae39c37eb7a1bc706eff001743929ee67bdf1d3ad9e0e
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 36⟧
+
+Về định lý Lagrange
+
+(Để bắt đầu, xem trang 30)
+
+đẳng thức (1) ở dạng $(f(b) - f(a))/(b-a) = f'(c)$, ta thu được cách giải thích hình học của định lý Lagrange: tồn tại một điểm $c$ của khoảng $]a; b[$ sao cho tiếp tuyến của đồ thị hàm số $f$ tại điểm hoành độ $x=c$ song song với đường thẳng $AB$.
+
+Có thể có nhiều hơn một điểm $x=c$ thỏa mãn đẳng thức (1). Bạn có thể xác minh điều này bằng cách làm bài tập sau.
+
+1. Tìm tất cả các giá trị của $x=c$ mà hàm $f(x)=(x-1)^3$, $a=0$, $b=2$ thỏa mãn đẳng thức (1). (Đáp số: $c=1-1/\sqrt{3}$ và $c=1+1/\sqrt{3}$.)
+
+Chúng tôi xin giới thiệu với các bạn cách giải thích cơ học của định lý Lagrange. Để một điểm vật chất di chuyển theo đường thẳng và tại thời điểm $t$ có tọa độ $s(t)$. thì tốc độ trung bình của nó trong khoảng thời gian từ $t_1$ đến $t_2$ sẽ bằng $(s(t_2)-s(t_1))/(t_2-t_1)$. Người ta biết rằng tốc độ tức thời tại thời điểm $t$ bằng $s'(t)$. Rõ ràng là tại một số thời điểm, tốc độ tức thời sẽ lớn hơn tốc độ trung bình, ở những thời điểm khác - ít hơn. Tuy nhiên, cần phải tìm một thời điểm (và có thể có nhiều thời điểm!) sao cho tốc độ trung bình bằng tốc độ tức thời. Vì vậy, đối với một số $t_0 \in ]t_1; t_2[$
+
+$(s(t_2)-s(t_1))/(t_2-t_1)=s'(t_0)$, tức là $s(t_2)-s(t_1)=s'(t_0)(t_2-t_1)$. (So ​​sánh công thức này với công thức (1).)
+
+Cũng lưu ý rằng trong trường hợp $f$ không tùy ý tại bất kỳ điểm nào nằm giữa $a$ và $b$ thì không thể áp dụng định lý Lagrange: hãy xem các hàm $f(x)=|x^2-1|$, $a=1/2$, $b=\sqrt{7}/2$ làm ví dụ.
+
+Bài tập
+
+2. Định lý Lagrange có thể áp dụng cho hàm $f$ trong những khoảng nào nếu: a) $f(x)=x$; 6) $f(x)=[x]$; b) $f(x)=|x|$?
+
+3. Một điểm vật chất chuyển động theo đường thẳng tuân theo định luật $s(t)=t^3$, trong đó $s$ là đường đi tính bằng mét, $t$ là thời gian tính bằng giây. Tại thời điểm nào tốc độ tức thời của nó bằng tốc độ trung bình trong khoảng thời gian từ $t_1=13$ s đến $t_2=46$ s?
+
+4. Tại điểm nào đối với hàm $f(x)=x^2$ và $g(x)=px^2+qx+r$ đối với khoảng [a; b] đẳng thức (1) có được thỏa mãn không?
+
+Làm thế nào để giải thích sự trùng hợp hình học của kết quả cho cả hai hàm số?
+
+L.N.Smolykov
+
+Trường học yêu thích bài toán
+
+lớp tám
+
+1. Trong nhóm kịch, số nam bằng 80% số nữ. Số bé gái trong vòng tròn này là bao nhiêu phần trăm số bé gái?
+
+2. Số nào lớn hơn: $\sqrt{1986}+\sqrt{1984}$ hoặc $2\sqrt{1985}$?
+
+3. Hệ số $x^5+x+1$.
+
+4. Độ dài cạnh bên của hình thang là $a$ và khoảng cách đến nó từ giữa cạnh đối diện là $b$. Tìm diện tích của hình thang.
+
+5. Chứng minh rằng trong tam giác $R \geq 2r$ bất kỳ, trong đó $R$ và $r$ là bán kính của đường tròn ngoại tiếp và đường tròn nội tiếp tương ứng.
+
+lớp chín
+
+6. Số nào lớn hơn: $\sqrt{1986}+\sqrt{1984}$ hoặc $2\sqrt{1985}$?
+
+7. Đó là loại tam giác gì (cấp, hình chữ nhật hoặc tù) nếu: a) chiều cao của nó là 3, 4 và 5; b) các trung vị của nó là 3, 4 và 5?
+
+8. Tìm tập hợp giá trị hàm (không sử dụng giải tích toán học):
+
+a) $f(x)=2x+\frac{3}{x}$; 6) $f(x)=\frac{x^2+2x-2}{x^2-x+1}$.
+
+9. Tìm $f'(2)$ nếu
+
+a) $f(x)=(x-2)^2g(x)$, trong đó $g(x)$ là hàm tùy ý khả vi như $x=2$;
+
+6) $f(x)=(x-2)^2g(x)$, trong đó $g(x)$ là hàm tùy ý liên tục tại $x=2$;
+
+b) $f(x)=(x-2)\left(\sqrt[3]{x+\sqrt[4]{x-2}}+(x-2)^2\times \sqrt[7]{x^5+\sqrt[3]{x}}\right)$.
+
+10. Chứng minh rằng mọi tam giác đều có thể chiếu thành tam giác đều bằng cách sử dụng: a) phép chiếu song song; 6)* phép chiếu trực giao.
+
+lớp mười
+
+11. Diện tích đáy của các đường thẳng bằng 1. Một mặt phẳng được vẽ song song với đáy của các đường thẳng và chia nó thành hai phần có thể tích bằng nhau. Tìm khu vực.
+
+12. So sánh các số: $2\sqrt{\log_2x}$ và $x\sqrt{\log_2x}$ (>1).
+
+13. Chứng minh rằng mọi mặt phẳng đi qua trung điểm của hai cạnh cắt nhau của một tứ diện đều chia thể tích của nó làm đôi.
+
+14. Chứng minh rằng với mọi số thực $a$, $b$, $c$ thì bất đẳng thức $a^4+b^4+c^4\geq abc$ (a+b+c) đúng.
+
+15. a) Có 4 đoạn trên terrada, mỗi đoạn nối một đỉnh với giao điểm của các đường trung tuyến của các cạnh đối diện của mặt. Chứng minh rằng cả 4 đoạn thẳng cắt nhau tại một điểm và được chia ở đó theo tỷ lệ 3:1, tính từ đỉnh.
+
+6) Chứng minh rằng trong mọi tứ diện $R \geq 3r$, trong đó $R$ và $r$ là bán kính của hình cầu ngoại tiếp và nội tiếp tương ứng.
+
+Ấn phẩm được chuẩn bị bởi V. M. Ivlev

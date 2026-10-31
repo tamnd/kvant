@@ -1,0 +1,42 @@
+---
+id: 1985-1-belkin-pravila-kirhgofa-770c087d
+issue: kvant_1985_1
+year: 1985
+number: "1"
+title: Quy tắc Kirchhoff
+authors:
+  - Белкин И. К.
+rubric: shkola-v-kvante
+page_first: 28
+page_last: 28
+page_labels: "26"
+tag: P1IN
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: fcc32217ec0d762626063d6613ce2369240d194831a42d2619b0170baa1c5981
+prompt_sha256: draft-1
+translated_from: content/ru/1985/01/articles/08_belkin-pravila-kirhgofa-770c087d.md
+source_content_sha256: 9773925df27d4f97c17269688031d42a05a68c7ec3eb12e5162953c17b1ff7c0
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 26⟧
+
+Hoá ra Newton đã đưa ra một biểu thức trực tiếp cho lực hấp dẫn giữa hai vật.
+
+Với tư cách là định luật thứ ba, Newton đã xây dựng một tính chất chung cho mọi loại tương tác: một tác dụng luôn có phản lực bằng nhau và ngược chiều. Vì vậy, nếu một vật tác dụng lên vật thứ hai, chỉ về phía bắc, thì vật thứ hai có cùng độ lớn chỉ tác dụng lên vật thứ nhất ở phía nam, và cả hai lực này đều tác dụng hoàn toàn theo cùng một đường.
+
+Vì vậy, chúng ta đi đến kết luận rằng không thể nói định luật nào trong ba định luật của Newton quan trọng hơn. Tất cả chúng đều cần thiết để mô tả chuyển động của một vật thể và cùng nhau chúng cung cấp khả năng cơ bản để mô tả đầy đủ bất kỳ chuyển động cơ học nào. Từ “có nguyên tắc” được thêm vào đây là có lý do. Chỉ trong trường hợp các loại lực hấp dẫn đơn giản nhất mới có thể giải chính xác được. Việc nhận ra bài toán phát sinh trong thực tế do độ phức tạp về mặt toán học của lực hấp dẫn được giải quyết bằng các phương pháp phức tạp hơn bằng máy tính. Như vậy, bài toán chuyển động của hai vật dưới tác dụng của lực hấp dẫn lẫn nhau được giải tương đối đơn giản. bài toán giống nhau, nhưng đối với ba vật thể, không có lời giải chính xác nào cả, nhưng có thể giải được với bất kỳ mức độ chính xác nào. Với sự ra đời của máy tính, việc đạt được độ chính xác nhất định lời giải đòi hỏi ít thời gian hơn đáng kể.
+
+Quy tắc Kirchhoff
+
+Từ sách giáo khoa “Vật lý 9” (§ 65), chúng ta đã học về định luật Ohm đối với mạch kín, định luật này cho phép chúng ta tìm dòng điện chạy trong mạch điện không phân nhánh đơn giản nhất, gồm nguồn dòng và một điện trở. Tuy nhiên, trong thực tế, bạn thường phải xử lý các chuỗi phân nhánh, phức tạp như trong hình. Chúng có thể chứa một số nguồn hiện tại và một số điện trở. Ngược lại, những chuỗi này có thể đóng vai trò là thành phần của một chuỗi thậm chí còn phức tạp hơn. Để tìm dòng điện trong các phần khác nhau của mạch như vậy, các quy tắc Kirchhoff được sử dụng mà chúng ta sẽ xem xét.
+
+Các điểm trong mạch có ba dây trở lên hội tụ (điểm A, B, C, D, F) được gọi là điểm phân nhánh hoặc nút. Để đơn giản, điện trở trong của từng nguồn dòng được tính vào điện trở của điện trở theo từng hạt.
+
+Trước hết, hãy sắp xếp và đo dòng điện chạy trong từng đoạn mạch, chỉ ra chiều của chúng một cách tùy ý. Chúng ta sẽ coi dòng điện là dương nếu nó “chảy” vào điểm nhánh và ngược lại là âm (tính hợp lệ của việc lựa chọn các dấu hiệu này sẽ được thảo luận dưới đây). Rõ ràng là điện tích không thể tích tụ trong nút cũng như không biến mất khỏi nó ngoại trừ thông qua dây nguồn. Do đó, bất kỳ điện tích nào “chảy” vào một nút trong một đơn vị thời gian thì điện tích tương tự cũng phải “chảy ra”. Do đó, chúng ta đi đến quy tắc đầu tiên của Kirchhoff: tổng đại số của dòng điện hội tụ tại bất kỳ điểm nào trong nhánh mạch (tại một nút) bằng 0.
+
+Bây giờ, hãy chọn trong mạch phức tạp của chúng ta một số mạch kín đơn giản, ví dụ ABCDA, và chọn tùy ý hướng truyền của nó - giả sử theo chiều kim đồng hồ, bắt đầu từ điểm A. Hãy xem xét phần AB của mạch này. Đặt hướng trên nó bằng U_AB. Trong trường hợp không có nguồn dòng điện, giá trị này bằng với độ giảm theo hướng I_1R_1 của điện trở (công di chuyển một điện tích từ điểm A đến điểm B bằng lượng nhiệt tỏa ra trong điện trở). Nếu có một nguồn dòng điện trong khu vực, thì tùy thuộc vào cực tính của nó, sẽ cần có sự hoàn hảo để di chuyển điện tích từ điểm A đến điểm B.

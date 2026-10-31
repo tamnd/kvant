@@ -1,0 +1,59 @@
+---
+id: 1985-3-kalinichenko-rudenko-chizhov-moskovskiy-inzhenerno-fizicheskiy-institut-385e3c55
+issue: kvant_1985_3
+year: 1985
+number: "3"
+title: Viện Vật lý Kỹ thuật Moscow
+authors:
+  - Калиниченко Д. Ф.
+  - Руденко А. И.
+  - Чижов В. Е.
+rubric: ekzamenatsionnye-materialy
+rubric_sub: Экзаменационные материалы
+page_first: 52
+page_last: 52
+page_labels: "50"
+tag: 3V6Y
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 2d0ffa9160c2742b773cee8d37a3d84fdbfded52ee3f79e090c86cf3770d5732
+prompt_sha256: draft-1
+translated_from: content/ru/1985/03/articles/22_kalinichenko-rudenko-chizhov-moskovskiy-inzhenerno-fizicheskiy-institut-385e3c55.md
+source_content_sha256: 9870547188283e640589f394bcf6975710e979bee6f3e0d97b81e620addf79a6
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 50⟧
+
+Viện Vật lý Kỹ thuật Moscow
+
+Toán học
+Bài thi viết
+Tùy chọn 1
+1. Giải phương trình
+$$1 + \log_6 (4 \cos^2 x - \cos x - 1) = \log_6 (4 - 7 \cos x).$$
+2. Mỗi bình chứa một dung dịch axit axetic. Bình thứ nhất chứa 15% axit và bình thứ hai chứa 75% nước (theo thể tích). Cần phải lấy bao nhiêu lít mỗi dung dịch để trộn chúng để thu được 2 lít dung dịch mới chứa không quá q% axit?
+3. Giải phương trình
+$$\sqrt{\frac{x}{4}} + 2 = c + \sqrt{\frac{x}{4}} - 3.$$
+4. Chiều cao SO của hình vuông đều SPQR có chiều dài h và tạo một góc có độ lớn β với cạnh SP. Tìm mặt phẳng cắt ngang kề với mặt phẳng đi qua cạnh PR, biết mặt phẳng này có giá trị nhỏ nhất có thể.
+Tùy chọn 2
+1. Giải bất đẳng thức
+$$(x^2 + 13,3x + 44,1) \cdot \sqrt{\log_{0,3} |x + 6|} \ge 0.$$
+2. Điểm R và F nằm trên sông chảy vào hồ, còn điểm E và Q nằm trên hồ. Tàu hơi nước bao gồm các tuyến đường từ điểm E và Q đến Ustyaraki (dọc theo hồ) lần lượt là p giờ và p+5 giờ, và các tuyến đường từ Ustyaraki đến các điểm F và R lần lượt là 11 giờ và 13 giờ. Hỏi tàu chạy qua hồ với tốc độ bao nhiêu, nếu tốc độ của tàu chạy khi nước yên lặng và tốc độ của sông không đổi và quãng đường từ E đến F và từ Q đến R lần lượt bằng 105 km và 131 km.
+3. Tìm tất cả các giá trị của c mà hệ thống
+$$\begin{cases} \left(ctg x - \frac{1}{\sqrt{3}}\right)(x + c) = 0, \\ -4 \leq x - 2 \end{cases}$$
+chỉ có một lời giải.
+
+4. Đối với một hình tứ giác nguyên sơ cụt bên phải $PQRTP_1Q_1R_1T_1$, bán kính của hình tròn được mô tả xung quanh đáy dưới $PQRT$ của nó bằng r và mặt bên tạo một góc có độ lớn γ với mặt phẳng $PQRT$. Một hình tròn được nội tiếp vào hình vuông được hình thành bởi giao điểm của hình gốc này với một mặt phẳng song song với mặt phẳng $PQRT$, là đáy của một hình nón vuông với đỉnh tại giao điểm của các đường chéo của hình vuông $PQRT$, và mặt phẳng cát tuyến được vẽ sao cho hình nón có thể tích lớn nhất có thể. Xác định chiều cao của hình nón này nếu $|P_1Q_1| = a$.
+
+Vật lý
+Bài toán thi vấn đáp
+1. Hai vật A và B có khối lượng lần lượt là $m_1=1,5$ kg và $m_2=0,45$ kg, được treo bằng những sợi dây từ một chùm ánh sáng có hai cánh tay có chiều dài $l_1=0,6$ m và $l_2=1$ m, với vật A nằm trên sàn (hình 1). Hỏi vật B phải lệch một góc nhỏ nhất bằng bao nhiêu khi treo lơ lửng để sau khi thả nó ra, vật A rời khỏi sàn?
+2. Một viên đạn có khối lượng $m_1=9$ g, tốc độ $\vec{v}_0 (v_0=160 \text{ m/c})$, hướng một góc α=30° so với đường chân trời (hình 2), xuyên qua một ụ có khối lượng $m_2=0,3$ kg nằm trên các giá đỡ, sau đó nó bay lên độ cao tối đa $H=45$ m so với mức các giá đỡ. Bến tàu sẽ nhảy cao bao nhiêu? Tuân thủ không khí được yêu cầu.
+3. Một quả bóng treo trên một sợi dây có vận tốc ban đầu theo phương nằm ngang. Khi sợi dây lệch một góc α=30° so với phương thẳng đứng thì gia tốc của quả bóng hướng theo phương ngang. Tìm góc lệch ren lớn nhất.
+4. Một quả bóng trượt dọc theo sàn nhẵn với tốc độ $v_0=12 \text{ m/c}$ nảy lên trên một bàn đạp, phần trên của bàn đạp nằm ngang và bắn ra khỏi bàn đạp (hình 3). Ở độ cao nào h thì tầm bay của quả cầu sẽ đạt cực đại? Phạm vi này là gì?
+5. Một vật có khối lượng $m_1=1$ kg nằm trên một tấm ván dài nằm ngang có khối lượng $m_2=2$ kg có vận tốc ban đầu là $v_0=2 \text{ m/c}$ (hình 4). Vật sẽ chuyển động theo đường nào so với tấm ván nếu hệ số ma sát giữa chúng là μ=0,2 và không có ma sát giữa tấm ván và mặt phẳng?
+6. Trong một hình trụ kín, chân không, một piston trượt không ma sát AB được treo ở bên ngoài, vị trí cân bằng của nó là ở đáy hình trụ (hình 5). Một lượng không khí nhất định được đưa vào bên dưới pít-tông để pít-tông nâng lên độ cao $h_1=10$ cm ở nhiệt độ không khí $t_1=27^\circ\text{C}$. Nhiệt độ không khí ở độ cao bao nhiêu $t_1=27^\circ\text{C}$. Nhiệt độ không khí ở độ cao bao nhiêu $t_1=27^\circ\text{C}$.
