@@ -1,0 +1,57 @@
+---
+id: 1986-2-smorodinskiy-novyiy-metr-b0a0e15f
+issue: kvant_1986_2
+year: 1986
+number: "2"
+title: Đồng hồ mới
+authors:
+  - Смородинский Я. А.
+rubric: novosti-nauki
+rubric_sub: Новости науки
+page_first: 30
+page_last: 30
+page_labels: "28"
+tag: PYUF
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 8b4e11d7da0cd76d3e50289f2848a6421bd9e7b05521c3ff57132101735d15e6
+prompt_sha256: draft-1
+translated_from: content/ru/1986/02/articles/10_smorodinskiy-novyiy-metr-b0a0e15f.md
+source_content_sha256: 5b07b47375d0684c82628aa772a13fa3eebe1f4e1c07d909a63b2fd1c148fe6c
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 28⟧
+
+Đồng hồ mới
+
+Những gì sẽ được thảo luận ở đây không phải là một khám phá mới trong bất kỳ lĩnh vực khoa học cụ thể nào. Tuy nhiên, chúng ta sẽ nói về một sự kiện, tất nhiên, sẽ được viết trong tất cả các sách giáo khoa và sẽ được phản ánh trong toàn bộ cuộc sống và hoạt động của một người.
+
+Hơn hai năm trước, vào tháng 10 năm 1983, Ủy ban Cân đo Quốc tế (tên chính thức là CIPM - la Comité Internationale des Poids et Mesures) đã công bố khuyến nghị giới thiệu một loại máy đo mới. Đây là phần mở đầu của tài liệu này:
+
+“Ủy ban Trọng lượng và Đo lường Quốc tế khuyến nghị rằng đồng hồ nên được xác định bằng một trong hai phương pháp -
+
+a) độ dài quãng đường l mà sóng điện từ phẳng truyền trong chân không trong thời gian t; độ dài đường đi được tính bằng cách đo thời gian t, sử dụng sự tương ứng l=ct và giá trị tốc độ ánh sáng trong chân không c=299,792,458 m/s;
+
+b) bước sóng trong chân không λ của sóng điện từ phẳng có tần số v; bước sóng được tính bằng cách đo tần số v, sử dụng công thức λ=c/v và giá trị tốc độ ánh sáng c=299,792,458 m/s…”
+
+Bây giờ chúng ta hãy nhớ cách xác định đồng hồ. Ngoài ra, tài liệu chính thức được thông qua vào năm 1960 bởi Đại hội đồng lần thứ 11 về Metas và Libras nêu rõ: “Một mét là độ dài bằng 1.650.763,73 bước sóng trong chân không của bức xạ tương ứng với sự chuyển đổi giữa mức 2p10 và 5d5 của nguyên tử krypton-86.”
+
+Đồng hồ sẽ như thế nào trước năm 1960?
+
+Theo định nghĩa đầu tiên được áp dụng ở Pháp trong Cách mạng Pháp, mét bằng một phần mười dặm của chiều dài bốn giây của kinh tuyến tóc giả. Năm 1799, nguyên mẫu đầu tiên của máy đo dưới dạng thước bạch kim đã được sản xuất và phê duyệt - cái gọi là máy đo lưu trữ. Sau đó vào năm 1872, Ủy ban Đo lường Quốc tế đã thông qua lời giải từ bỏ tiêu chuẩn chiều dài “tự nhiên” và sử dụng máy đo lưu trữ làm thước đo chiều dài tiêu chuẩn. Nguyên mẫu của đồng hồ này ở dạng một thanh làm bằng hợp kim bạch kim và một con chim bồ câu với các nét được áp dụng trên một trong các mặt phẳng của nó được lưu giữ tại Sèvres (gần Paris) trong Phòng đo trọng lượng và sinh học quốc tế. Sai số tương đối khi tái tạo một đồng hồ đo như vậy là khoảng 10⁻⁷.
+
+Định nghĩa này của đồng hồ tiếp tục trong gần 80 năm. Chỉ đến năm 1960, các phương pháp đo quang học mới đạt đến độ hoàn hảo đến mức chúng có thể cạnh tranh với việc áp mẫu được đo vào một bộ tóc giả.
+
+Lon. Chúng cho phép bạn tái tạo đồng hồ với độ chính xác khoảng 10⁻⁸.
+
+Tại sao bây giờ là lúc đưa ra một định nghĩa mới về đồng hồ đo? Một lý do là cơ bản. Phương pháp mới dựa trên tốc độ ánh sáng trong chân không - một giá trị hằng số cơ bản không phụ thuộc vào chuyển động của vật thể quan sát được. Trong định nghĩa mới về mét, tốc độ ánh sáng được coi là đã cho, nó chính xác bằng 299.792.458 m/s (cũng giống như trước năm 1960, một mét chính xác bằng chiều cao của mét tương ứng).
+
+Một lý do khác, về mặt kỹ thuật, có liên quan đến việc mở rộng các phương pháp đo tần số chính xác lên đến tần số khả kiến ​​của quang phổ, trong đó quang học có thể đo bước sóng với độ chính xác cao hơn (sử dụng phương pháp giao thoa). Kể từ năm 1982, người ta đã có thể đo tần số và bước sóng của cùng một vạch quang phổ với sai số không quá 1-2 đơn vị ở chữ số thứ mười (!). Người ta có thể nói đùa rằng chỉ trong những năm gần đây sự tương ứng của c=λv đối với ánh sáng khả kiến ​​mới được xác minh.
+
+Vì vậy, khi khuyến nghị của Ủy ban Cân nặng và Đo lường Quốc tế được thông qua, các bảng vật lý sẽ chứa giá trị chính xác của tốc độ ánh sáng và độ dài có thể được đo với sai số không quá hai đơn vị ở chữ số thứ mười.
+
+TÔI Ở VỚI.

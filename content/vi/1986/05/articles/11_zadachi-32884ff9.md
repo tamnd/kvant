@@ -1,0 +1,41 @@
+---
+id: 1986-5-zadachi-32884ff9
+issue: kvant_1986_5
+year: 1986
+number: "5"
+title: Bài toán
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 27
+page_last: 27
+page_labels: "25"
+tag: R55Z
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 0ed5ac0c5ee9fc5635aca90f13541d5316d7feddc5ae9d8008da0d32a0d9e673
+prompt_sha256: draft-1
+translated_from: content/ru/1986/05/articles/11_zadachi-32884ff9.md
+source_content_sha256: 0a51dbd723d179d663692f118db306c7a09080f8856aa993d6639ee995f68dde
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 25⟧
+
+Nhiệm vụ
+
+1. Petya có ba cái để lấy. Người thứ nhất hơn anh ba tuổi, người thứ hai kém anh ba tuổi, người thứ ba còn trẻ, người thứ hai là Petya. Nhưng người cha thứ hai lớn tuổi hơn Petya. Cùng nhau họ đã 95 tuổi. Mọi người bao nhiêu tuổi?
+
+2. Giải một câu đố về số
+$$\text{USA} + \text{USSR} = \text{PEACE}.$$
+Cùng một chữ cái tương ứng với cùng một số, các chữ cái khác nhau tương ứng với các số khác nhau.
+
+3. Dòng sông của chúng tôi nhỏ. Thường thì tôi băng qua nó, chỉ lao qua cánh đồng. Phần dưới được LIỆT KÊ và bàn chân của bạn sẽ dài đến mắt cá chân hoặc cao tới mắt cá chân. Một ngày nọ, sau Jedi mạnh mẽ, nước sông dâng cao rất nhiều. Bây giờ, khi qua sông, tôi bị nước ngập tới má. Điều thú vị là cùng lúc đó, đôi chân ngừng kêu trong không trung. Tại sao?
+
+4. Hình ngũ giác được cắt thành 11 phần (xem hình). Sắp xếp các số 1, 2, ..., 11 trong các số đó sao cho tổng các số trong mọi tam giác có các đỉnh đều là đỉnh của một hình ngũ giác.
+
+5. Trên bàn có ba que màu đỏ có độ dài khác nhau, tổng chiều dài là 30 cm và năm que màu xanh, tổng chiều dài cũng là 30 cm. Có thể cưa cả hai que để sau đó xếp chúng thành từng cặp và ở mỗi que có chiều dài của các que bằng nhau nhưng màu sắc thì khác nhau?
+
+Những nhiệm vụ này được đề xuất cho chúng tôi bởi V.D. Vyun, học sinh lớp 9. 149 trường học ở Kharkov Boris Kruglnikov, A.P. Savin, V.P. Chuchin, V.V. Proizvolov.

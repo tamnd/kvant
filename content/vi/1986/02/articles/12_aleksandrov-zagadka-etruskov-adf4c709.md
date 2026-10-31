@@ -1,0 +1,38 @@
+---
+id: 1986-2-aleksandrov-zagadka-etruskov-adf4c709
+issue: kvant_1986_2
+year: 1986
+number: "2"
+title: Bí ẩn của người Etruscan
+authors:
+  - Александров А. С.
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 32
+page_last: 32
+page_labels: "30"
+tag: D77C
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 538a86d72fe06c82dcf407b00f46711d2d7b39afae41cf6cb7e5cb0e1a462bcb
+prompt_sha256: draft-1
+translated_from: content/ru/1986/02/articles/12_aleksandrov-zagadka-etruskov-adf4c709.md
+source_content_sha256: 05bfd8959c1da66922cb18dc093ceb22c82bc357f135f4d114c8c5d1c4c8db0a
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 30⟧
+
+Bí ẩn của người Etruscan
+
+Ứng viên Khoa học Vật lý và Toán học
+A. S. ALEXANDROV
+
+Các nhà khảo cổ và sử học đang dần thu thập thông tin về người Etruscans, một dân tộc cổ xưa bí ẩn từng định cư ở phần lớn nước Ý hiện đại. Khoảng giữa thiên niên kỷ thứ 1 trước Công nguyên. đ. chứng tá của họ đã đạt đến sự nở hoa về văn hóa và kinh tế. Các thành phố Etruscan cũng là một lực lượng quân sự đáng gờm. Nhưng sau khi bị trục xuất vào năm 510 trước Công nguyên. đ. Các vị vua Etruscan đến từ Rome, người Etruscans ở Ý đều có những đối thủ nguy hiểm trong con người của người La Mã. Các cuộc chiến tranh kéo dài kết thúc vài thế kỷ sau đó với cuộc chinh phục của người Etruscan, và vào đầu kỷ nguyên của chúng ta, họ đã hoàn toàn bị phân tán giữa khối dân tộc hỗn tạp của Đế chế La Mã. Tất cả những gì còn sót lại từ chúng là một số dòng chữ khắc bằng một ngôn ngữ vẫn chưa được giải mã đầy đủ, những tượng đài biệt lập về sự phát triển vượt bậc của nghề thủ công và nghệ thuật, và những thông điệp ít ỏi từ các tác giả La Mã...
+
+Trong quá trình khai quật các thành phố Eturia, các nhà khảo cổ học đã có thể tìm thấy rất nhiều bằng chứng về mức độ phát triển cao của nền văn minh đã tuyệt chủng. Đồ trang sức của người Etruscans và thời trung cổ đã khơi dậy sự ngưỡng mộ của mọi người, chủ yếu là cái gọi là đồ trang sức dạng hạt - những kiệt tác đích thực của những bậc thầy vô danh. Chúng là những tấm đồng có hoa văn phức tạp, được lót bằng hàng ngàn quả bóng vàng nhỏ (đường kính khoảng 0,2 mm). Không có sản phẩm dạng hạt nào của quốc gia khác đạt được mức độ hoàn thiện cao như vậy.
+
+Vào cuối thiên niên kỷ thứ 1 sau Công nguyên. đ. nghệ thuật làm đồ trang sức như vậy đã bị phá hủy hoàn toàn. Chỉ đến thế kỷ 19, các nhà nghiên cứu mới nỗ lực khôi phục các kỹ thuật bí mật nhưng không có kết quả. Trong một thời gian dài, không ai có thể giải thích được cách gắn một miếng vàng vào đế đồng mà không làm nóng chảy nó. Nếu hạt tan chảy, một giọt vàng lỏng sẽ lan ra trên đồng. Khi làm mát

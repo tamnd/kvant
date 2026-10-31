@@ -1,0 +1,54 @@
+---
+id: 1986-1-rozov-izbrannyie-shkolnyie-zadachi-d9fa4a82
+issue: kvant_1986_1
+year: 1986
+number: "1"
+title: Trường học yêu thích bài toán
+authors:
+  - Розов Н. Х.
+rubric: shkola-v-kvante
+rubric_sub: Школа в «Кванте»
+page_first: 30
+page_last: 30
+page_labels: "28"
+tag: A3SF
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 70c6d11c3ca424fca678023ded17a39ce54b0465b19f72ec71ecd664c8a5022a
+prompt_sha256: draft-1
+translated_from: content/ru/1986/01/articles/11_rozov-izbrannyie-shkolnyie-zadachi-d9fa4a82.md
+source_content_sha256: e9f742715f2b9fbf9f043eeefa305918f79e74c01e21ae1fbe41235164467e59
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 28⟧
+
+Có, trong một nửa bước sóng (ở pha đối cực), khi thêm vào chúng sẽ triệt tiêu lẫn nhau. Đối với mỗi điểm trong một vùng sẽ có một điểm tương ứng trong vùng lân cận, từ đó sóng sẽ đến điểm $D$ ngược pha và diện tích của tất cả các vùng gần như giống nhau. Do đó, hành động của các vùng lân cận tại điểm $D$ (ví dụ: vùng thứ nhất và thứ hai, thứ hai và thứ ba, v.v.) trên thực tế sẽ tiêu diệt lẫn nhau.
+
+Bây giờ thật dễ hiểu trong những điều kiện nào thì “nghịch lý Poisson” có thể được quan sát. Nếu có số vùng chính xác thì chúng ta sẽ thấy một điểm tối ở giữa màn hình. Đằng sau nó sẽ có một vòng sáng, sau đó là một vòng tối, v.v. (hình 2, a). Trên màn hình chúng ta sẽ quan sát thấy một hệ thống các vòng sáng tối xuyên qua tai (nhưng điểm trung tâm sẽ tối!). Nếu câu trả lời chỉ ra số vùng lẻ, thì kết quả sẽ ngược lại - một điểm sáng sẽ được quan sát ở trung tâm, được bao quanh bởi các vòng sáng và tối qua tai. Hãy thử tự mình giải thích mô hình nhiễu xạ từ một quả bóng nhỏ (hình 2, b).
+
+Trường học yêu thích bài toán
+
+lớp tám
+1. Số có bốn chữ số được viết tuần tự từ trái qua phải bằng chữ số
+   $x, y, u, v$ sẽ được biểu thị bằng ký hiệu $xyuv$. Chứng minh; nếu $A$ và $B$ là các chữ số tùy ý khác 0 thì sao
+   $ABBA - BABA = ABAB - BAAB$.
+2. Tại giá trị nào của $a$ hệ phương trình
+   $$\begin{align*}
+   2x + ay &= a + 2,
+   (a + 1)x + 2ay &= 2a + 4
+   \end{align*}$$
+không có lời giải?
+
+3. Tìm tất cả các điểm của số $x, y, z$ thỏa mãn hệ bất phương trình
+   $x^2 \leqslant y, y^2 \leqslant z, z^2 \leqslant x$.
+4. Chứng minh rằng một tam giác tùy ý được chia bởi các phương tiện của nó thành 6 tam giác bằng nhau.
+5. Chứng minh rằng một đường tròn có thể viết được thành một tứ giác lồi khi và chỉ khi tổng độ dài các cạnh đối diện bằng nhau.
+6. Tìm tất cả các số nguyên $n$ mà mô hình tam thức $n^2 - 7n + 10$ là số nguyên tố.
+7. Chứng minh rằng phương trình $\sin x = x^2 + x + 1$ không có lời giải.
+8. $\sin 10\,000$ là tích cực hay tiêu cực?
+
+(Cuối cùng xem trang 55)

@@ -1,0 +1,40 @@
+---
+id: 1986-7-zadachi-812cb202
+issue: kvant_1986_7
+year: 1986
+number: "7"
+title: Bài toán
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 29
+page_last: 29
+page_labels: "27"
+tag: Z2WD
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 0a0b9fb8cec5e61b93aa0d35d622ea552318faf3e1487be52a0360be691f5815
+prompt_sha256: draft-1
+translated_from: content/ru/1986/07/articles/09_zadachi-812cb202.md
+source_content_sha256: b33a835df57e3cf3e6c3a652ff2f9a5d4602a38fcb9861a67d0e83bd298bc379
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 27⟧
+
+Nhiệm vụ
+
+1. Giải phương trình cho mục đích số học
+$$xy + 3x - 5y = -3.$$
+
+2. Tất cả các điểm của một vòng tròn nhất định được tô màu ngẫu nhiên bằng hai màu. Chứng minh rằng tồn tại một tam giác đều có hai đỉnh nội tiếp trong đường tròn này.
+
+3. Bình phương của tổng này được cộng với tổng các chữ số của số có hai chữ số $A$ và thu được số $A$. Tìm những gì $A$ bằng.
+
+4. Gọi $CM$ là đường trung bình của tam giác $ABC$. Được biết, $\angle CAB + \angle MCB = 90^\circ$. Chứng minh tam giác $ABC$ là hình chữ nhật hoặc đều.
+
+5. Trên một đường tròn bán kính 10 có một số cung không cắt nhau với tổng chiều dài là 32. Chứng minh rằng với một đường thẳng bất kỳ đều có một dây cung của đường tròn song song với đường thẳng này, hai đầu của đường tròn đó thuộc hai cung đó.
+
+Những nhiệm vụ này được cung cấp cho chúng tôi bởi $A$. P. Savin và các tác giả người Bulgaria $K$. Kolarov, I. Tonov, S. Savchev, I. Prodanov.

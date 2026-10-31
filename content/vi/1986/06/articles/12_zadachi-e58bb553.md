@@ -1,0 +1,40 @@
+---
+id: 1986-6-zadachi-e58bb553
+issue: kvant_1986_6
+year: 1986
+number: "6"
+title: Bài toán
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 29
+page_last: 29
+tag: ANVQ
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: e4408a9de80cd02af8c5aeca69f53fa28fc0dc7b13960c1e7e660b1d1efb99d3
+prompt_sha256: draft-1
+translated_from: content/ru/1986/06/articles/12_zadachi-e58bb553.md
+source_content_sha256: 703ef0f021487f77fea7eddf870cfa0255c68d3728bec3b7fc016f211531867a
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+Nhiệm vụ
+
+1. Xác định góc mà kim đồng hồ tạo được lúc 9 giờ 20 phút.
+
+2. Giải mã kết quả số:
+
+$$\frac{+ \text{КТО}}{\text{КОТ}}$$
+
+3. Vào thời cách đây không lâu, khi phụ kiện không thể thiếu của một người là một chiếc ấm samovar đầy màu sắc với một ấm trà đặt trên đó, phủ một chiếc khăn ăn bằng vải lanh thêu, những ấm trà được làm với một lỗ trên nắp (những ấm trà như vậy vẫn được làm cho đến ngày nay). Tại sao lại cần một cái lỗ như vậy?
+
+4. Tìm số nhỏ nhất có tổng các chữ số chia hết cho 17 và tổng các chữ số của số tiếp theo cũng chia hết cho 17.
+
+5. Alik, Borya, Vitya và Gena đi săn nấm. Alik và Borya cùng nhau thu thập nhiều nấm như Vitya và Gena đã làm cùng nhau, nhưng Alik và Gena có ít nấm hơn Bori và Vitya. Gena tìm thấy nhiều nấm hơn Vitya. Sắp xếp tên của các cậu bé theo thứ tự giảm dần về số lượng nấm mà mỗi cậu bé tìm thấy.
+
+Những nhiệm vụ này được đề xuất cho chúng tôi bởi A.P. Savin, học sinh lớp bảy trường Kashkadara thuộc vùng Masalli của AzSSR Nazim Sadygov, A.G. Samosvat, G.A. Galperin, N.H. Rozov.

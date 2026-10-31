@@ -1,0 +1,77 @@
+---
+id: 1986-9-izbrannyie-shkolnyie-zadachi-01879e8d
+issue: kvant_1986_9
+year: 1986
+number: "9"
+title: Trường học yêu thích bài toán
+rubric: shkola-v-kvante
+rubric_sub: Школа в «Кванте»
+page_first: 37
+page_last: 37
+page_labels: "35"
+tag: U7XG
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 4ad65be0b797e58fb535594dff59ad7843b782e02057cf17ca4279483d022baa
+prompt_sha256: draft-1
+translated_from: content/ru/1986/09/articles/15_izbrannyie-shkolnyie-zadachi-01879e8d.md
+source_content_sha256: ded28d73a54dae5f55f09ec1017381abf460ddfadc171fd1f9f224e75229df5d
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 35⟧
+
+Trường học yêu thích bài toán
+
+lớp tám
+1. a) Đặt $a > 0, b > 0, c > 0$. Chứng minh bất đẳng thức
+$$abc \geq (a+b-c)(a+c-b)(b+c-a).$$
+6) Gọi $r$ và $R$ lần lượt là bán kính của đường tròn ngoại tiếp tam giác và đường tròn ngoại tiếp nó. Chứng minh rằng $R \geq 2r$. Tìm xem trong trường hợp nào thì bất đẳng thức này chuyển thành đẳng thức.
+2. Tìm giá trị nhỏ nhất của đa thức
+$$x^6+2x^4+2x^3+x^2+2x-1.$$
+3. Chứng minh rằng số $n^4+64$ là hợp số.
+4. Chứng minh rằng phương trình
+$$x^2+y^3+z^5=t^7$$
+có vô số lời giải trong số tự nhiên.
+5. Trên các cạnh $AB$ và $BC$ của tam giác $ABC$ có ​​các điểm $M$ và $N$ sao cho $AM:MB=BN:NC$. Gọi $Q$ là giao điểm của đường $AN$ và $CM$. Chứng minh rằng diện tích tứ giác $MBNQ$ bằng diện tích tam giác $ACQ$.
+
+lớp chín
+6. Giải hệ phương trình
+$$\begin{cases}
+x^2-yz=y-x, \\
+y^2-xz=z-y, \\
+z^2-xy=x-z.
+\end{cases}$$
+7. Các góc $A, B, C$ của tam giác $ABC$ bằng $\alpha, \beta, \gamma$ tương ứng; các cạnh đối diện với các góc tương ứng bằng $a, b, c$.
+a) Chứng minh bất đẳng thức
+$$a \cos \alpha+b \cos \beta \leq c.$$
+6) Đặt giá trị nhỏ nhất của sản phẩm
+$$\sin \frac{\alpha}{2} \sin \frac{\beta}{2} \sin \frac{\gamma}{2}.$$
+
+Đối với mỗi tam giác, đây có phải là giá trị đạt được nhiều nhất không?
+8. Tìm tất cả các số nguyên $k$ sao cho $k^5+3$ chia hết cho $k^2+1$.
+9. Tam giác $ABC$ được ngoại tiếp bởi tam giác $MNP$ ($M \in AB, N \in BC, P \in AC$) sao cho cạnh $MN$ vuông góc với cạnh $BC$ và cạnh $MP$ vuông góc với cạnh $AC$. Tìm vị trí của điểm $M$ (ở cạnh $AB$) sao cho cạnh $PN$ nhỏ nhất.
+10. Chứng minh rằng phương trình
+$$x^{10}-x^7+x^2-x+1=0$$
+không có lời giải.
+
+lớp mười
+11. Giải phương trình
+$$x^2+2x \sin xy+1=0.$$
+12. Tính số tiền
+$$\frac{1}{1 \cdot 2 \cdot 3 \cdot 4}+\frac{1}{2 \cdot 3 \cdot 4 \cdot 5}+\dots+\frac{1}{n(n+1)(n+2)(n+3)}$$
+13. Chứng minh đẳng thức ($n \geq 2$)
+$$tg x \cdot tg 2x+tg 2x \cdot tg 3x+\dots+tg(n-1)xtg nx=\frac{tg nx}{tg x}-n.$$
+14. Giải phương trình
+$$\sqrt[3]{2-x}+\sqrt{x-1}-1=0.$$
+15. Trên các cạnh của một tam giác nhọn, cũng như trên đường kính, có các hình bán nguyệt ở mặt ngoài của tòa nhà. Chiều cao của tam giác được tiếp tục cho đến khi chúng giao nhau với các hình bán nguyệt đã dựng, sau đó các điểm giao nhau này được nối với các đỉnh gần nhất của tam giác. Chứng minh rằng bạn có thể dán một hình tứ diện từ một hình lục giác cho trước.
+
+Khi chuẩn bị xuất bản, chúng tôi đã sử dụng bài toán do S.R. Sefibekov, cũng như A. A. Egorov, V. N. Dubrovsky và E. A. Yasinov.
+
+Bài học của một bài toán
+(Để bắt đầu, xem trang 23)
+biến đổi giá trị trung bình điều hòa của các số $a$ và $b$ (ở đây chúng là các đáy của hình thang). Đoạn $MN$ nhỏ hơn đoạn $L_1L_2$ - trung bình hình học của hai số, và cuối cùng, đoạn $MN$ nhỏ hơn đoạn $L_5L_6$ - trung bình bậc hai của hai số $a$ và $b$ - đoạn chia hình thang thành hai phần bằng nhau và một đáy song song, đó là
+$$\frac{2ab}{a+b} < \sqrt{ab} < \frac{a+b}{2} < \sqrt{\frac{a^2+b^2}{2}}.$$

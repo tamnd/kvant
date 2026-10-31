@@ -1,0 +1,84 @@
+---
+id: 1986-5-mescheryakov-morozov-smirnov-moskovskiy-arhitekturnyiy-institut-a1332c76
+issue: kvant_1986_5
+year: 1986
+number: "5"
+title: Viện kiến ​​trúc Moscow
+authors:
+  - Мещеряков Ю. М.
+  - Морозов Ю. А.
+  - Смирнов В. А.
+rubric: ekzamenatsionnye-materialy
+rubric_sub: Экзаменационные материалы
+page_first: 58
+page_last: 58
+page_labels: "56"
+tag: 83CY
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 534ddc22ef49ee8c04e8f76b9e014d50232e4ccbaf4a974e144ded6d6d773240
+prompt_sha256: draft-1
+translated_from: content/ru/1986/05/articles/20_mescheryakov-morozov-smirnov-moskovskiy-arhitekturnyiy-institut-a1332c76.md
+source_content_sha256: 9b3f0a46ba6b56e86d10ff311a568def3a9ad41a52e071479b6d649e9213c1be
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 56⟧
+
+10. Trong thí nghiệm của Rutherford, các hạt α chạm vào lá vàng mỏng với tốc độ $v = 2 \cdot 10^7$ m/s. Bằng cách đặt vectơ hạt α trùng với đường thẳng nối hạt và hạt nhân nguyên tử vàng (va chạm sơ cấp), hãy ước tính bán kính của hạt nhân. Số Avogadro $N_A = 6 \cdot 10^{23}$ mol$^{-1}$, điện tích cơ bản $e = 1,6 \cdot 10^{-19}$ C, hằng số điện $\varepsilon_0 = 8,8 \cdot 10^{-12}$ f/m, điện tích của hạt nhân vàng $q = 79$е.
+Ấn phẩm đã được chuẩn bị
+N. A. Gladkov, L. P. Parshev
+
+Viện kiến ​​trúc Moscow
+
+Toán học
+Bài toán thi vấn đáp
+1. Rút gọn các biểu thức:
+a) $A = \frac{\sqrt{a+x}+\sqrt{a-x}}{\sqrt{a+x}-\sqrt{a-x}},$ nếu $x = \frac{2ab}{b^2+1}, a > 0, 0 < b < 1$;
+b) $A = \cos \frac{2\pi}{7} + \cos \frac{4\pi}{7} + \cos \frac{6\pi}{7}$;
+b) $A = \frac{\lg^2(x^3)}{\lg^3(x^2)} \cdot \lg \sqrt{x}$.
+2. Tính toán không có bảng:
+a) $A = 2 \cos 20^\circ \cdot \cos 40^\circ \cdot \cos 80^\circ$;
+b) $A = \tg 1^\circ \cdot \tg 2^\circ \cdot \tg 3^\circ \cdot \dots \cdot \tg 88^\circ \times \tg 89^\circ$;
+b) $A = \frac{2 \cos 40^\circ - \cos 20^\circ}{\sin 20^\circ}$.
+3. Tìm thấy:
+a) $\sin^3 x + \cos^3 x,$ nếu $\sin x + \cos x = a$;
+b) $\tg \alpha - \ctg \alpha,$ nếu $\tg \alpha + \ctg \alpha = a$.
+4. Chứng minh độ chính xác:
+a) $\tg^2\left(\frac{\pi}{4} - \alpha\right) = \frac{1 - \sin 2\alpha}{1 + \sin 2\alpha}$;
+b) $32 \sin^2\alpha \cos^4\alpha = 2 + \cos 2\alpha - 2 \cos 4\alpha - \cos 6\alpha$;
+b) $\sin^2(45^\circ + \alpha) - \sin^2(30^\circ - \alpha) - \sin 15^\circ \times \cos(15^\circ + 2\alpha) = \sin 2\alpha$.
+5. Giải các phương trình:
+a) $\sqrt{2x+3} - \sqrt{x+1} = 1$;
+b) $7 \cdot 3^{x+1} - 5^{x+2} = 3^{x+1} - 5^{x+3}$;
+b) $2 \lg \lg x = \lg (3 - 2 \lg x)$;
+r) $\sin^4 x + \cos^4 x = \frac{5}{8}$.
+6. Giải các bất đẳng thức:
+a) $\frac{1}{2^x-1} > \frac{1}{1-2^{x-1}}$;
+b) $0,1^{\log_2 x+1}/x-3 < 10$; b) $\sqrt{24-10x} > 3-4x$.
+7. Vẽ đồ thị:
+a) $y = |x^2-4|$;
+b) $|y-2| = |x-1|$;
+b) $y = \sin |x|$.
+8. Giải các hệ phương trình:
+a) $\begin{cases} \log_5 x + 3^{\log_3 y} = 7, \\ x^y = 625^3; \end{cases}$
+b) $\begin{cases} (x+y)3^{y-x} = \frac{5}{27}, \\ 3 \log_5(x+y) = x-y. \end{cases}$
+
+Vật lý
+Bài toán thi vấn đáp
+1. Một cái thang có khối lượng $m$ đang tựa vào tường. Trọng tâm của lá nằm ở khoảng cách bằng 1/3 chiều dài tính từ đầu trên của nó. Phải tác dụng lực ngang nào vào giữa thang để đầu trên của thang tác dụng lực lên tường? Góc giữa cầu thang và tường là $a$.
+2. Một quả cầu nặng có khối lượng $m$ được treo trên một sợi dây. Sợi chỉ có thể chịu được lực căng $T = 2mg$. Sợi dây và quả cầu phải lệch một góc bao nhiêu so với vị trí cân bằng để nó đứt sợi dây và đi qua vị trí cân bằng?
+3. Một vật nhỏ trượt dọc theo một mặt phẳng nghiêng, dần dần biến thành một “vòng chết”, từ độ cao $H = 2R$, trong đó $R$ là bán kính của vòng dây (xem hình). Ở độ cao nào thì vật sẽ tách ra khỏi bề mặt của vòng dây? Vật phải trượt từ độ cao nào để không xảy ra sự tách biệt?
+4. Sẽ xảy ra va chạm giữa hai quả cầu đàn hồi tuyệt đối có khối lượng $m_1$ và $m_2$. Tốc độ ban đầu của chúng là $v_1$ và $v_2$. Tìm vận tốc của quả bóng sau va chạm. Coi tác động là trung tâm: tốc độ của các quả bóng hướng dọc theo đường nối tâm của chúng.
+5. Một khối có khối lượng $m$ được kéo đều bởi phần trên gắn vào nó ở độ cao $h$ dọc theo tấm ván, góc nghiêng của nó so với đường chân trời là $a$. Sợi dây song song với tấm ván. Hệ số ma sát giữa khối và tấm ván $μ$. Tìm năng lượng dùng để làm nóng tấm ván và khối.
+6. Tìm công phải thực hiện để nén một lò xo có độ cứng $k = 30$ N/cm lên $x = 10$ cm.
+7. Một quả cầu đồng treo thành một vòng tròn sẽ dao động theo phương thẳng đứng. Chu kỳ của bình sẽ thay đổi như thế nào nếu một quả cầu nhôm có cùng bán kính được treo vào vòng tròn? Mật độ của đồng và nhôm lần lượt là $\rho_1 = 8,9 \cdot 10^3$ kg/m$^3$ và $\rho_2 = 2,7 \cdot 10^3$ kg/m$^3$.
+8. Cách cao nhất có thể để bố trí một chữ S khổng lồ khó hiểu sao cho biến dạng của cột vẫn nằm trong giới hạn đàn hồi chỉ chịu tác dụng của lực hấp dẫn? Độ sâu tương đối nhất của khối xây khó hiểu là bao nhiêu? Mô đun Young $E = 3000$ MPa, mật độ $\rho = 1,8 \cdot 10^3$ kg/m$^3$, giới hạn đàn hồi $\sigma_{\text{np}} = 3$ MPa.
+9. Để thay đổi nhiệt độ của nước có trọng lượng $m = 66$ g, người ta nhúng một nhiệt kế vào đó, kết quả cho thấy $t_1 = 32,4$ °C. Nhiệt độ thực tế của nước là bao nhiêu nếu nhiệt kế có nhiệt dung riêng là $C = 1,9$ J/K và trước khi nhúng vào nước, nó hiển thị nhiệt độ phòng là $t_2 = 17,8$ °C?
+
+Ấn phẩm đã được chuẩn bị
+Yu. M. Meshcherykov, Yu. A. Morozov,
+V. A. Smirnov

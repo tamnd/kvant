@@ -1,0 +1,44 @@
+---
+id: 1986-12-vozvraschayas-k-napechatannomu-a79a9471
+issue: kvant_1986_12
+year: 1986
+number: "12"
+title: Quay lại in
+rubric: smes
+page_first: 52
+page_last: 52
+page_labels: "50"
+tag: 06GS
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: ec66bb1593a97916c2b889a2f4621c0acac88a0eaeedb4f2137cfad64d6a6edf
+prompt_sha256: draft-1
+translated_from: content/ru/1986/12/articles/16_vozvraschayas-k-napechatannomu-a79a9471.md
+source_content_sha256: 5d4fb64adb941f29f817c147b7fa7c40d314691230080bc75f4c89110e8b136d
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 50⟧
+
+Quay lại in
+
+Các biên tập viên đã nhận được một số lá thư chỉ ra “lỗi trong thuật toán” mà độc giả đã thấy trong bài viết của V. A. Kaimin («Kvant», số 10, trang 47). Điều này cho chúng ta lý do để tập trung vào một câu hỏi quan trọng: thuật toán nào được coi là đúng?
+
+Chúng tôi gọi thuật toán là *chính xác* nếu nó tạo ra kết quả tuân thủ nghiêm ngặt các yêu cầu (câu lệnh bài toán hoặc mô tả kịch bản) đối với mọi dữ liệu ban đầu có thể chấp nhận được. Theo đó, một thuật toán có lỗi nếu có thể chỉ định dữ liệu ban đầu có thể chấp nhận được nhưng lại tạo ra kết quả không đáp ứng các yêu cầu đã chỉ định; hoặc sẽ không thu được kết quả nào cả. Trong trường hợp không có tuyên bố rõ ràng bài toán, việc chuẩn bị cho việc xuất hiện lỗi trong thuật toán hoặc chương trình là vô nghĩa.
+
+Bạn có thể tìm thấy một ví dụ về thuật toán thực không chính xác trong bài viết đã đề cập: thật không may, trong thuật toán tính diện tích của một vòng (tr. 48), sau dòng $S_2 := \pi \cdot r^2$, dòng $S := S_1 - S_2$ bị thiếu. Về vấn đề này, ban biên tập xin gửi lời xin lỗi tới độc giả.
+
+Một điều nữa là thuật toán gần đúng lời giải
+
+phương trình $f(x) = 0$ (phương pháp chia một nửa, trang 50). Bài viết (do giới hạn về không gian) không trình bày công thức của bài toán, vì vậy việc chính thức đặt ra câu hỏi về tính đúng đắn của thuật toán này là không hợp pháp. Tuy nhiên, chúng tôi lưu ý rằng trong tác phẩm của tác giả có:
+
+Yêu cầu: $x_0$ - xấp xỉ lời giải;
+
+Giao tiếp: $x_1 \leq x_0 \leq x_2$,
+$|x_1 - x_2| < e$,
+$f(x_1) \cdot f(x_2) \leq 0$.
+
+Đối với cài đặt này, thuật toán đã cho là chính xác. Tất nhiên, bạn có thể đặt bài toán theo cách khác, chẳng hạn như yêu cầu $|f(x_0)| < e$ và sau đó cần một thuật toán khác. Công thức nào tốt hơn lại là một câu hỏi toán học thuần túy khác.

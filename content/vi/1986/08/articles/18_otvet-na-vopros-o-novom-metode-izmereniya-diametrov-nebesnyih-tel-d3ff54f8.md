@@ -1,0 +1,66 @@
+---
+id: 1986-8-otvet-na-vopros-o-novom-metode-izmereniya-diametrov-nebesnyih-tel-d3ff54f8
+issue: kvant_1986_8
+year: 1986
+number: "8"
+title: '[Đáp số cho câu hỏi về phương pháp mới để đo đường kính của các thiên thể]'
+rubric: raznoe
+rubric_sub: Разное
+page_first: 53
+page_last: 53
+page_labels: "51"
+tag: DJS1
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: cff65dcedf971e3173189461dcb5009a984dd8f090d87a11fef6cb88a5f1221d
+prompt_sha256: draft-1
+translated_from: content/ru/1986/08/articles/18_otvet-na-vopros-o-novom-metode-izmereniya-diametrov-nebesnyih-tel-d3ff54f8.md
+source_content_sha256: b16a7be7c6b642cee470edda83e9d52bd47af43787238ad5990f28cfe2b0854f
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 51⟧
+
+Vậy với cách chụp bình thường (không kết hợp) $d_1 \approx d_2 \approx d_0$ thì từ (2) sẽ như sau:
+
+$$\left( \frac{r}{R} \right)_{\text{o6}} = \frac{\Delta d}{2d_0^2} F_{\text{o6}},$$
+
+trong đó $d_0$ là khoảng cách đến vật thể, $\Delta d$ là độ sâu trường ảnh, $F_{\text{o6}}$ là tiêu cự của vật thể được sử dụng trong ảnh này. Với cách chụp kết hợp $d_1 \gg d_2$, và từ (2) nó như sau:
+
+$$\left( \frac{r}{R} \right)_{\text{komб}} = \frac{1}{2d_2} F.$$
+
+Để chất lượng hình ảnh (độ mờ của chúng) giống nhau đối với hai kiểu chụp này, cần yêu cầu khi chụp với cùng một khẩu độ, bán kính điểm $r_{\text{o6}}$ và $r_{\text{komб}}$ phải giống nhau. Sau đó
+
+$$F = F_{\text{o6}} \frac{\Delta d \cdot d_2}{d_0^2}.$$
+
+Thay thế các giá trị số $F_{\text{o6}}=50$ cm, $\Delta d=0,5$ m, $d_0=5$ m và $d_2=4$ m, chúng ta thu được $F=4$ cm.
+
+Điều này có nghĩa là để có được hình ảnh SIM chất lượng cao với độ sâu trường ảnh lớn, bạn nên sử dụng ống kính tiêu cự ngắn.
+
+E. N. Yunosov, I. V. Yaminsky
+
+Hỏi - chúng tôi sẽ trả lời
+
+Các biên tập viên thân mến!
+Trong bài báo “Plutoon khó hiểu”, đăng trên các trang tạp chí của bạn («Kvant», 1983, số 3), việc phát minh ra một phương pháp mới để đo đường kính của các thiên thể đã được đề cập. Bạn có thể cho tôi biết phương pháp này dựa trên cơ sở nào không?
+
+Độc giả của bạn O. Andreev
+
+Các biên tập viên đã yêu cầu tác giả bài viết này, V. A. Bronshten, trả lời bức thư này.
+
+Một phương pháp mới để đo đường kính của các thiên thể ở xa được gọi là phép đo giao thoa đốm. Từ "đốm" là tiếng Anh và có nghĩa là "đốm". Phương pháp này sử dụng khả năng của thiết bị điện tử hiện đại.
+
+Cho đến thời điểm đó, trở ngại trong việc thu được hình ảnh rõ ràng của các thiên thể trên bề mặt Trái đất là việc đốt cháy dụng cụ quang học và sự rung động của không khí. Do đó, hình ảnh của vật sáng trên nhựa chụp ảnh bị nhòe trong quá trình phơi sáng (đôi khi rất dài) và không thể thay đổi đường kính của nó hoặc đánh giá hình dạng của vật thể.
+
+Trong các thiết bị mới, khối quang điện được lắp đặt cùng với nhựa quang. Vì bộ so sánh điện tử nhanh hơn sự rung động của khí quyển và thiết bị nên nó dường như giữ hình ảnh tại chỗ, ngăn không cho nó bị mờ. Từ khối quang học, hình ảnh được truyền tới màn hình loại tivi, từ đó hình ảnh có thể được hình thành. Việc đo đường kính lại được thực hiện bằng thiết bị điện tử. Bot cơ bản của phương pháp mới.
+
+Gửi độc giả của chúng tôi
+
+Việc đăng ký tạp chí «Kvant» cho năm 1987 vẫn tiếp tục.
+
+Tạp chí dành cho học sinh từ lớp 6–10. Nó rất hữu ích cho giáo viên, đặc biệt là những người dạy câu lạc bộ hoặc hoạt động ngoại khóa và cho tất cả những người yêu thích toán học và vật lý.
+
+Chỉ số tạp chí trong danh mục Soyuzechati là 70465. Giá đăng ký trong năm là 4 rúp 80 kopecks. Đăng ký được chấp nhận mà không bị hạn chế trong suốt cả năm tại các cơ quan Soyuzechati, bưu điện và bưu điện.
