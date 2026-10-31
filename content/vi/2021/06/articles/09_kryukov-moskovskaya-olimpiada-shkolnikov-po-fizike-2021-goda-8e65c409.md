@@ -42,11 +42,11 @@ lớp 7
 
 ⟦figure⟧
 
-Hình 2
+Cơm. 2
 
 ⟦figure⟧
 
-Hình 1
+Cơm. 1
 
 là 45 km, từ W đến R là 15 km. Bắt đầu từ 17:00 đến 21:00 từ M theo hướng T, tàu điện tốc độ cao “Lastochka” khởi hành cứ sau mười lăm phút, dừng ở phía W, nhưng không dừng ở P, và tàu điện thông thường khởi hành ít nhất mỗi giờ một lần, dừng cả ở W và P. Lastochkas di chuyển với tốc độ trung bình 120 km h và tàu điện thông thường - với tốc độ trung bình 45 km h. Trên đường từ M đến W, Chim én và tàu điện thông thường di chuyển dọc theo những đường đi khác nhau mà không gây cản trở lẫn nhau. Tàu không khởi hành từ W nếu trên đường tới P có thể bị Én vượt qua, đợi ở W một thời điểm thuận tiện để khởi hành (để có thể đến P mà không cản trở Chim Én). Chúng ta có thể giả định rằng việc lên, xuống và chuyển hành khách từ tàu điện này sang tàu điện khác tại các điểm dừng diễn ra trong thời gian ngắn không đáng kể. A. Trong thời gian tối thiểu bạn có thể đến làng P bằng đường sắt, khởi hành từ M trong khoảng thời gian từ 18:00 đến 19:00, trong trường hợp có lịch trình tàu thuận tiện nhất? (3 điểm) B. Vào lúc mấy giờ (giờ, phút) trong khoảng thời gian từ 18 giờ đến 18 giờ 30 thì phải sắp xếp lịch xuất phát của tàu điện từ M để đến P mà không dừng ở W? Vui lòng cung cấp tất cả các giá trị. (4 điểm) P. Kryukov, A. Bychkov mô tả những lần lặp lại đầu tiên của việc xây dựng một fractal có tên là “Menger Sponge”. Ở lần lặp đầu tiên, ba lỗ xuyên qua có tiết diện hình vuông được tạo thành hình lập phương. Trục của các lỗ vuông góc với nhau, vuông góc với các mặt của hình lập phương và đi qua điểm giữa của các mặt. Độ dài cạnh hình vuông nằm trong tiết diện của lỗ bằng 1 3 chiều dài cạnh mặt hình lập phương. Trong lần lặp thứ hai, các lỗ tương tự được tạo thành các khối nhỏ hình thành trên các mặt của khối lớn, v.v. Giả sử có một phôi ở dạng khối lập phương có chiều dài cạnh 1 m, được làm bằng nhựa có mật độ 1000 kg $м^{3}$, cũng như một thiết bị mà bạn có thể tạo các lỗ vuông có kích thước nhỏ tùy ý trong phôi này. Họ quyết định thực hiện lần lặp thứ n của Miếng bọt biển Menger từ khối lập phương. A. Mật độ trung bình của khối ở lần lặp thứ tư (khối cuối cùng trong hình) là bao nhiêu? (4 điểm) B. Hãy tưởng tượng rằng các khoang hình thành ở lần lặp thứ n được lấp đầy bằng nhựa với mật độ 2000 kg $м^{3}$. Mật độ trung bình của khối ở lần lặp thứ n ( n t 0 ) có thể là bao nhiêu? Trong đáp số chỉ ra ranh giới của phạm vi giá trị mật độ có thể có. (2 điểm) C. Chúng tôi không thích miếng bọt biển có màu trắng. Chúng tôi quyết định sơn tất cả các mặt của miếng bọt biển trong lần lặp thứ hai (bao gồm tất cả các mặt bên trong) bằng sơn màu xanh lam, lượng tiêu thụ là 100 g $м^{2}$. Một can chứa 1 kg sơn có đủ cho việc này không? Còn hai lon thì sao? (4 điểm) P. Kryukov, A. Bychkov
 
@@ -68,7 +68,7 @@ lớp 9
 
 ⟦figure⟧
 
-Hình 7
+Cơm. 7
 
 trở nên phổ biến trong thời kỳ hoàng kim của phong cách âm nhạc disco vào cuối những năm 70 của thế kỷ 20, khi chúng bắt đầu được lắp đặt trong hội trường của các vũ trường và hộp đêm. Cho một quả cầu có bán kính R quay quanh một trục thẳng đứng đi qua tâm của nó (điểm A trong Hình 8, nhìn từ trên xuống), với n vòng mỗi giây. Khoảng cách từ tâm quả bóng đến bức tường thẳng đứng trùng với trục hoành x bằng H, với H ≫ R. Quả bóng được chiếu sáng bởi một chùm tia song song được tạo thành bởi một đèn chiếu đặt trên tường ở độ cao bằng tâm quả bóng. Tia sáng từ đèn chiếu vuông góc với tường, phương ngang của chùm tia là 2d.
 
@@ -76,7 +76,7 @@ Giải thích. Khi chúng ta nói “công thực hiện chống lại lực c�
 
 M. Romashka, P. Kryukov
 
-Hình 8
+Cơm. 8
 
 ⟦folio 45⟧
 
@@ -94,7 +94,7 @@ P. Kryukov
 
 ⟦figure⟧
 
-Hình 9
+Cơm. 9
 
 mật độ có thay đổi tại điểm dừng của biểu đồ áp suất không? A. Bychkov, P. Kryukov
 
@@ -102,11 +102,11 @@ mật độ có thay đổi tại điểm dừng của biểu đồ áp suất k
 
 ⟦figure⟧
 
-Hình 10
+Cơm. 10
 
 L v được gọi là chất lượng khí động học. Trong bài toán này, K v được coi là chuyến bay của tàu lượn (máy bay không có động cơ), trong đó chất lượng khí động học có thể được coi là không đổi, không phụ thuộc vào hướng và độ lớn của tốc độ v. Người ta biết rằng trong không khí đứng yên (so với mặt đất), tàu lượn có thể bay, hạ độ cao, với tốc độ không đổi, do đó độ cao giảm đi sẽ là 20 mét cho mỗi km chuyển động ngang (Hình 11).
 
-Hình 11
+Cơm. 11
 
 ⟦folio 47⟧
 
@@ -124,21 +124,21 @@ công suất 3C không được tích điện, dòng điện trong mạch bằng
 
 ⟦figure⟧
 
-Hình 16
+Cơm. 16
 
 ⟦figure⟧
 
-Hình 14
+Cơm. 14
 
 lý tưởng (mở ở điện áp gần bằng 0), giá trị emf và điện trở trong lần lượt bằng E 1,5 V và r 1,0 Ohm. Mô tả bằng đồ thị sự phụ thuộc i U (đặc tính điện áp của nguồn), trong đó i là dòng điện phát sinh khi nối với nguồn tải và U là hiệu điện thế giữa cực A và $B: U M_{A} M_{B}$. Dựa trên bài toán A. Zilberman F753
 
 3. Dòng điện trên giây (8 điểm) Trong mạch như hình 15, công tắc K ban đầu mở, tụ C 100 µF được tích điện, và tụ điện
 
-Hình 15
+Cơm. 15
 
 ⟦figure⟧
 
-Hình 17
+Cơm. 17
 
 đồng xu S. Người quan sát nhìn thấy ảnh của đồng xu $S_{1}$ tại một điểm có tọa độ (x, y). Tập hợp các giá trị (x, y) cho các góc nhìn khác nhau được hiển thị trên biểu đồ (Hình 17). Sử dụng đồ thị, hãy tìm chiết suất của chất lỏng n và độ sâu của thùng chứa h. P. Kryukov
 

@@ -43,7 +43,7 @@ DOI: https://doi.org/10.4213/kvant20210702
 
 Thông qua các thí nghiệm số, Galvani tin chắc rằng mỗi khi ông chạm vào dây thần kinh của một con ếch bằng dây dẫn nối với máy điện và tạo ra tia lửa từ nó, con ếch sẽ bị co giật. Sau đó Galvani tiếp tục thí nghiệm của mình và phát hiện ra những cơn co thắt tương tự khi nối các cơ và dây thần kinh của một con ếch mới được chuẩn bị bằng một vòng cung kim loại (Hình 1). Đồng thời, sự chú ý đặc biệt của Galvani bị thu hút bởi thực tế là sự co cơ của ếch hóa ra mạnh hơn nhiều nếu hồ quang kim loại được tạo thành từ hai kim loại khác nhau: ví dụ như sắt và đồng (hoặc bạc tốt hơn nhiều). Những thí nghiệm này đã khiến nhà nghiên cứu người Ý nổi tiếng kết luận rằng điện vốn có trong bản thân động vật: một chất lỏng chảy từ dây thần kinh đến cơ bắp và một mạch điện được hình thành (như khi một chiếc lọ Leyden được xả ra).
 
-Hình 1. Luigi Galvani phát hiện ra sự co cơ của một con ếch bị mổ xẻ khi chúng được nối với nhau bằng một vòng cung kim loại
+Cơm. 1. Luigi Galvani phát hiện ra sự co cơ của một con ếch bị mổ xẻ khi chúng được nối với nhau bằng một vòng cung kim loại
 
 ⟦folio 9⟧
 
@@ -53,7 +53,7 @@ TỪ
 
 ⟦figure⟧
 
-Hình 2. Bản phác thảo các dụng cụ được Alessandro Volta sử dụng trong thí nghiệm với ếch. Hồi ký về điện động vật, ngày 14 tháng 5 năm 1792 (Lưu trữ của A. Volta, tờ K13, Viện Hàn lâm Khoa học và Thư tín Lombard)
+Cơm. 2. Bản phác thảo các dụng cụ được Alessandro Volta sử dụng trong thí nghiệm với ếch. Hồi ký về điện động vật, ngày 14 tháng 5 năm 1792 (Lưu trữ của A. Volta, tờ K13, Viện Hàn lâm Khoa học và Thư tín Lombard)
 
 Giáo sư tại Đại học Pavia, nhà vật lý và hóa học Alessandro Volta, không tin tưởng vào cái gọi là điện động vật. Chưa hết, trước sự nài nỉ của các đồng nghiệp, anh lặp lại các thí nghiệm được mô tả trong tác phẩm của Galvani (Hình 2). Kết quả là, sự hoài nghi của anh ấy bắt đầu tan biến, và vào năm $3 апреля^{1792}$, anh ấy viết cho Galvani: "Vì vậy, ở đây cuối cùng tôi đã cải đạo. Vì bản thân tôi đã trở thành nhân chứng và quan sát thấy những phép lạ này, nên có lẽ tôi đã chuyển từ nghi ngờ sang cuồng tín." Trong một bài giảng trước công chúng $5 мая^{1792}$, Volta nói về các thí nghiệm của Galvani, ca ngợi chúng, nhưng đồng thời bày tỏ quan điểm rằng con ếch chỉ có thể là một thiết bị đo lường, một điện kế, nhạy hơn hàng chục lần so với điện kế có lá vàng lâu đời. Volta liên tục thu hút sự chú ý đến một đặc điểm vật lý trong các thí nghiệm của Galvani: để gây ra sự co cơ, các kim loại tạo thành hồ quang phải khác nhau. Ông hỏi: Có phải các dây dẫn kim loại thực sự chỉ có tác dụng, bằng cách chạm vào nhau, thiết lập một kết nối, cung cấp cho chất lỏng điện một đường đi mà nó có xu hướng truyền từ nơi này sang nơi khác một cách tự nhiên? Vai trò của chúng hoàn toàn thụ động hay chúng là tác nhân tích cực làm cho điện tích chuyển động? Vào khoảng cách
 
@@ -67,7 +67,7 @@ VOLTA...
 
 ⟦figure⟧
 
-Hình 3. Alessandro Volta sử dụng một dây dẫn kim loại duy nhất làm vòng cung, nhưng đặt các đầu của cơ ếch và các đầu của dây dẫn vào các bình chứa nước nóng và lạnh. Trong hình bên phải, thay vì cơ ếch là một chiếc vôn kế
+Cơm. 3. Alessandro Volta sử dụng một dây dẫn kim loại duy nhất làm vòng cung, nhưng đặt các đầu của cơ ếch và các đầu của dây dẫn vào các bình chứa nước nóng và lạnh. Trong hình bên phải, thay vì cơ ếch là một chiếc vôn kế
 
 Trong những thí nghiệm đầu tiên của mình, Volta cho thấy rằng về bản chất, cơ không tham gia vào việc tạo ra hiện tượng; sự co lại của nó là tác động của dòng điện tích được tạo ra khi tiếp xúc với hai kim loại khác nhau. Vì vậy, trên thực tế, anh ta phát hiện ra một hiện tượng có liên quan đến sự chênh lệch điện thế tiếp xúc. Volta còn nghi ngờ hơn nữa. Anh ta cố gắng sử dụng một dây dẫn kim loại duy nhất làm vòng cung, nhưng đặt các đầu của cơ ếch và các đầu của vòng cung vào các bình chứa nước lạnh và nóng (Hình 3). Cơ cũng co lại trong thí nghiệm này, điều này cho phép nhà khoa học giải thích dòng chất lỏng điện (điện tích) bằng cách làm nóng không đều dây dẫn kim loại. Mối liên hệ giữa dòng điện và chênh lệch nhiệt độ đã được phát hiện! Trong quá trình thí nghiệm với hồ quang kim loại, Volta nhận ra rằng dòng điện chạy qua cơ ếch không gì khác hơn là dòng điện của nó trong môi trường axit. Kết quả là ông đã tạo ra loại pin nổi tiếng của mình, cái gọi là cột volta - một chuỗi các tấm xen kẽ gồm hai kim loại (ví dụ như chì và đồng), được ngăn cách bằng một miếng vải ngâm trong axit (giấm). Pin vẫn hoạt động theo nguyên tắc tương tự ngày nay.
 
@@ -113,7 +113,7 @@ Bảng 3. Thành tích nhiệt điện của các vật liệu nhiệt điện h
 
 và việc sử dụng các hệ thống có chiều thấp. Cấu trúc nano của vật liệu nhiệt điện dựa trên chất bán dẫn, làm giảm độ dẫn nhiệt của mạng khi hệ số Seebeck tăng, đã dẫn đến những cải tiến đáng chú ý trong việc chuyển đổi năng lượng nhiệt thành năng lượng điện. Tuy nhiên, ngay cả những vật liệu hứa hẹn nhất vẫn chưa thể vượt qua mức tối thiểu $требование^{ZT} 4$ (xem Bảng 3). Ngoài ra, các vật liệu cấu trúc nano được tạo ra cho đến nay còn có một số nhược điểm về công nghệ, môi trường và kinh tế, chẳng hạn như kích thước hạn chế, chi phí sản xuất đáng kể và việc duy trì các vật liệu quý hiếm và độc hại. Nhiệt điện trong chất điện phân và chất lỏng sắt từ. Các nhà khoa học tiếp tục tìm kiếm các loại vật liệu nhiệt điện mới thân thiện với môi trường và tiết kiệm, chẳng hạn như polyme, chất dẫn ion, v.v. Chất điện phân lỏng gần đây đã trở thành một trong những vật liệu như vậy. Hóa ra các giá trị hệ số Seebeck của chúng thường lớn hơn một bậc ($(^{S} | 0,5$ mV K) so với giá trị của chất bán dẫn, thậm chí cả vật liệu có cấu trúc nano. Ngoài ra, chúng bao gồm các yếu tố có thể tiếp cận và không độc hại. Thật không may, độ dẫn điện của chất lỏng như vậy thấp hơn nhiều bậc so với độ dẫn điện của chất bán dẫn pha tạp, vì vậy chất điện phân lỏng được coi là chất điện phân lỏng.
 
-Hình 7. Giá trị hệ số Seebeck đối với các loại vật liệu nhiệt điện
+Cơm. 7. Giá trị hệ số Seebeck đối với các loại vật liệu nhiệt điện
 
 ⟦folio 18⟧
 

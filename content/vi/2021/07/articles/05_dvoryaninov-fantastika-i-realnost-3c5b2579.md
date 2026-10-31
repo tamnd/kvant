@@ -50,21 +50,21 @@ KR UZH OK
 
 ⟦figure⟧
 
-Hình 15
+Cơm. 15
 
 ⟦figure⟧
 
-Hình 13
+Cơm. 13
 
 I
 
 ⟦figure⟧
 
-Hình 16
+Cơm. 16
 
 ⟦figure⟧
 
-Hình 14
+Cơm. 14
 
 5. Các tiếp tuyến tại đỉnh A và C với đường tròn ngoại tiếp tam giác ABC cắt nhau tại điểm P. Khi đó đường thẳng BP đối xứng với đường trung tuyến BM so với phân giác của góc ABC (Hình 14). Đường thẳng BP gọi là đường trung tuyến của tam giác. Bạn có thể đọc về nhiều tính chất thú vị của phương trình đối xứng trong các bài viết xuất sắc [1], [2].
 
@@ -82,27 +82,27 @@ KVA NT 2021/Số 7
 
 ⟦figure⟧
 
-Hình 17
+Cơm. 17
 
 nằm tại điểm E, các đoạn thẳng BD và MQ tại điểm F. Chứng minh EM = MF. Một cách chứng minh theo tinh thần của người Hy Lạp cổ đại được đưa ra trong Hình 18–20. Chiều sâu thẩm mỹ của bài toán này khiến bạn ngày càng tìm kiếm nhiều hơn
 
 ⟦figure⟧
 
-Hình 18
+Cơm. 18
 
 ⟦figure⟧
 
-Hình 20
+Cơm. 20
 
 ⟦column⟧
 
 ⟦figure⟧
 
-Hình 21
+Cơm. 21
 
 ⟦figure⟧
 
-Hình 19
+Cơm. 19
 
 lời giải. Một bộ sưu tập lớn các cách chứng minh khác nhau, các biến thể và khái quát hóa hấp dẫn được chứa trong bài viết tuyệt vời [4], bài viết được khuyến khích đọc cho tất cả những người yêu thích hình học!
 
@@ -110,17 +110,17 @@ lời giải. Một bộ sưu tập lớn các cách chứng minh khác nhau, c�
 
 ⟦figure⟧
 
-Hình 22
+Cơm. 22
 
 ⟦figure⟧
 
-Hình 23
+Cơm. 23
 
-Hình 25
+Cơm. 25
 
 ⟦figure⟧
 
-Hình 24
+Cơm. 24
 
 ⟦folio 47⟧
 
@@ -128,11 +128,11 @@ TOÁN HỌC
 
 ⟦figure⟧
 
-Hình 26
+Cơm. 26
 
 ⟦figure⟧
 
-Hình 27
+Cơm. 27
 
 KR UZH OK
 
@@ -144,10 +144,10 @@ Kết luận Trong bài viết, chúng tôi đã thảo luận về độ khó b
 
 ⟦figure⟧
 
-Hình 28
+Cơm. 28
 
 Văn học
 
 1. Yu. Blinkov. Symedia. – «Kvant», 2015, số 2. 2. A. Karlyuchenko, G. Filippovsky. Về tiếp tuyến tại hai đỉnh của một tam giác. – https: bài viết hình học.ru symmedian_f_k.pdf 3. A. Polyansky. Từ một khẩu đại bác ở chim sẻ. – «Kvant», 2012, số 2. 4. V. Protasov. Về hai người đi xe đạp và một hố anh đào. – «Kvant», 2008, số 8. 5. A. Spivak. Mười con bướm. – https: bài viết hình học.ru spivak_butterfly.pdf 6. I. Yaglom. Các phép biến đổi hình học. Tập 1. – https: math.ru lib bib-mat-kr 7
 
-Hình 29
+Cơm. 29

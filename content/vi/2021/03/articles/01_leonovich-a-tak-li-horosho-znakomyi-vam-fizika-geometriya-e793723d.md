@@ -94,7 +94,7 @@ M. Zamyatnin
 
 Lớp 8 Bài toán 1. Lực căng (10 điểm) Hai đòn bẩy đồng nhất giống hệt nhau có khối lượng m 7 kg và chiều dài 80 cm, mỗi đòn bẩy được nối bản lề bằng một thanh nhẹ và các sợi dây, giữa đó treo một vật có cùng khối lượng m (Hình 2). Xác định khoảng cách x tính từ mép trái của thanh trên là điểm gắn của sợi dây giữ hệ ở trạng thái cân bằng, lực căng của cả ba sợi dây và lực tác dụng từ bản lề lên thanh trên là bao nhiêu. Để thuận tiện, trong hình các thanh được đánh dấu thành 8 phần bằng nhau. Điểm gắn sợi trên cùng vào đòn bẩy được thể hiện theo quy ước. Gia tốc g 10 N kg. M. Zamyatnin
 
-Hình 2
+Cơm. 2
 
 ⟦column⟧
 
@@ -118,7 +118,7 @@ Kinh nghiệm số 1. Dùng một dải giấy kẻ ô vuông để đo kích th
 
 ⟦figure⟧
 
-Hình 11
+Cơm. 11
 
 các bức tường của hộp (các bức tường bên là những bức tường được vẽ trên đó). Các phân vùng có thể bắt đầu và kết thúc tại các bức tường của hộp màu xám hoặc tại các điểm giao nhau của các đường chấm. Các vách ngăn bao phủ hoàn toàn khoảng cách giữa các bức tường bên và không thể xuyên qua cả nước và không khí. Sử dụng thiết bị có sẵn, xác định vị trí của các phân vùng và kích thước của chúng. Độ dày của các vách ngăn và tường của “hộp xám” có thể bỏ qua. Không cần phải ước tính lỗi.
 
@@ -146,7 +146,7 @@ Chúng ta sẽ nhập dữ liệu thu được $h V_{6}$ vào bảng.
 
 Kinh nghiệm số 7. Một lần nữa, lấy hết chất lỏng ra khỏi hộp và lặp lại thí nghiệm số 5, nhưng
 
-Hình 13
+Cơm. 13
 
 ⟦folio 50⟧
 
@@ -164,7 +164,7 @@ Bài toán 4. Xác định nhiệt dung bay hơi riêng của nitơ lỏng (14 �
 
 ⟦figure⟧
 
-Hình 14
+Cơm. 14
 
 Nhiệt dung riêng của nhôm phụ thuộc vào nhiệt độ. Đồ thị của sự phụ thuộc này được trình bày trên Hình 14. Khối lượng của hình trụ là $m_{Al} 69$ g, khối lượng ban đầu của bình chứa nitơ là M250 g, nhiệt độ phòng là 23 q C. Nhiệt độ sôi của nitơ lỏng là 196 q C. Sử dụng kết quả đo sự phụ thuộc của khối lượng nitơ vào thời gian và đồ thị nhiệt dung riêng của nhôm vào nhiệt độ, xác định nhiệt dung bay hơi riêng của nitơ O. Do thời gian hoàn thành có hạn nhiệm vụ Không cần ước tính sai số khi xác định O, nhưng độ chính xác của kết quả trung gian và kết quả cuối cùng của bạn sẽ được tính đến khi ấn định điểm. A. Apollonsky
 
@@ -182,7 +182,7 @@ Nhiệt dung riêng của nhôm phụ thuộc vào nhiệt độ. Đồ thị c�
 
 ⟦figure⟧
 
-Hình 1
+Cơm. 1
 
 Vì vậy, mỗi ngày bạn nên mua số lượng chuối bằng số mũi tên chỉ vào giá dưới ngày đó. Chúng tôi nhận được đáp số:
 
@@ -192,7 +192,7 @@ Vì vậy, mỗi ngày bạn nên mua số lượng chuối bằng số mũi tê
 
 ⟦figure⟧
 
-Hình 2
+Cơm. 2
 
 3 ' a 2 và tâm của hình chữ nhật O 2 nằm trên ' a 2 (vì độ dài của đoạn $OO_{1}$ là 3 a 2 và độ dài của đoạn $OO_{2}$ là a 2). Khi nguội đi, hình vuông và hình chữ nhật co lại thành những hình riêng biệt so với tâm của chúng. Điểm $O_{1}$ và $O_{2}$ giữ nguyên cố định và khoảng cách giữa chúng không thay đổi. Tổng cộng, là kết quả của hai quá trình, khoảng cách giữa tâm của các hình tăng thêm 2 'a. Đây là kích thước của khe hở, vì vậy ' a = 0,5 mm. Bây giờ chúng ta có thể xây dựng công thức cuối cùng đáp số: khi đun nóng, các cạnh của hình vuông tăng 0,5 mm và các cạnh của hình chữ nhật tăng 0,5 mm và 1,5 mm.
 

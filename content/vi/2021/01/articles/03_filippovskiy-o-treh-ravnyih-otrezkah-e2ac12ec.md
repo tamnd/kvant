@@ -32,35 +32,35 @@ Trong hình học, có dãy bài toán, trong đó cần chứng minh sự đẳ
 
 ⟦figure⟧
 
-Hình 1
+Cơm. 1
 
 ⟦column⟧
 
 ⟦figure⟧
 
-Hình 4
+Cơm. 4
 
 chia hợp âm FN thành ba phần bằng nhau: x y z. Bài toán 5. Điểm O là tâm của đường tròn Z, ngoại tiếp tam giác nhọn ABC (Hình 5). Tia AO cắt cạnh BC và cắt đường tròn Z lần lượt tại K và T. Các đường vuông góc KD và KE
 
 ⟦figure⟧
 
-Hình 2
+Cơm. 2
 
 điểm F cắt đường thẳng AC, cắt cạnh BC tại điểm N. Chứng minh rằng x y z. Bài toán 2. Cho góc nhọn A và điểm F bên trong góc (Hình 2). Vẽ các điểm B và C trên các cạnh của góc sao cho x y z. Bài toán 3. Lấy điểm K và T trên cạnh BC của tam giác ABC sao cho đoạn AK và AT chia góc BAC thành ba phần bằng nhau
 
 ⟦figure⟧
 
-Hình 5
+Cơm. 5
 
 các cạnh AC và AB cắt bán kính OC và OB lần lượt tại các điểm F và N. Chứng minh rằng x y z (TK CF BN). Bài toán 6. Các đường phân giác của tam giác ABC cắt nhau tại điểm I. Tia AI cắt đường tròn Z ngoại tiếp tam giác
 
 ⟦figure⟧
 
-Hình 3
+Cơm. 3
 
 các bộ phận: 1 2 3 D (Hình 3). Với cái gì D thì có thể x y z được? Bài toán 4. Tam giác đều ABC nội tiếp trong đường tròn Z (Hình 4). F, N lần lượt là trung điểm của các cung AC và AB. Chứng minh rằng các đoạn AC và AB
 
-Hình 6
+Cơm. 6
 
 ⟦folio none⟧
 
@@ -70,17 +70,17 @@ biệt danh ABC, tại điểm W (Hình 6). Chứng minh rằng IW BW CW, hoặc
 
 ⟦figure⟧
 
-Hình 10
+Cơm. 10
 
 ⟦figure⟧
 
-Hình 7
+Cơm. 7
 
 một điểm và các đoạn của các tiếp tuyến này bằng nhau: xy z. Bài toán 8. Cho đường thẳng l và đoạn AB song song với nó (Hình 8). Chỉ sử dụng
 
 ⟦figure⟧
 
-Hình 8
+Cơm. 8
 
 dùng thước kẻ chia AB thành ba phần bằng nhau ( x y z ). Bài toán 9. Điểm O là tâm chung của đường tròn Z và s (Hình 9). Vẽ cát tuyến A B C D sao cho AB BC CD, hoặc x y z.
 
@@ -88,17 +88,17 @@ Bài toán 10. Đường tròn Z và s có tâm $O_{1}$ và $O_{2}$ cắt nhau t
 
 ⟦figure⟧
 
-Hình 11
+Cơm. 11
 
 Bài toán 12. Trên các cạnh AC và AB của tam giác ABC dựng các điểm F và N
 
 ⟦figure⟧
 
-Hình 12
+Cơm. 12
 
 sao cho độ dài của các đoạn CF, FN và NB bằng nhau: x y z (Hình 12). Tài liệu do G. Filippovsky chuẩn bị
 
-Hình 9
+Cơm. 9
 
 ⟦folio 37⟧
 
@@ -108,7 +108,7 @@ Z ADACHNIK
 
 ⟦figure⟧
 
-Hình 5
+Cơm. 5
 
 thì hình $Z_{1}$ chứa chính xác một trong các ô màu đen của hình $O_{1}$. Điều này có nghĩa là từ ô tương ứng trong phân vùng màu đen, các phân đoạn sẽ đi đến các ô khác nhau. Chúng tạo ra một chu trình có độ dài lớn hơn 2. Tiếp theo chúng ta sẽ chứng minh rằng bên trong bất kỳ chu trình nào có độ dài lớn hơn 2 chắc chắn sẽ có một lỗ trống. Không mất tính tổng quát, chúng ta sẽ giả sử rằng tồn tại một chu trình có độ dài lớn hơn 2 trong phân vùng màu đen. Chúng ta hãy gọi một hình bên trong loại O từ một phân vùng nằm hoàn toàn bên trong chu trình của chúng ta. Chúng ta hãy gọi một hình biên loại O từ các ô có hai ô màu đen thuộc về chu trình mà chúng ta đã chọn. Các đoạn trong chu trình xen kẽ nhau: sau đoạn nối các ô đen của hình loại O, có một đoạn nối các ô đen của hình loại Z, nghĩa là độ dài chu kỳ của chúng ta là 2k, trong đó k N. Chúng ta hãy biểu thị số lượng ô đen và trắng nằm đúng trong chu kỳ của chúng ta lần lượt là b và w. Bất kỳ ô đen nào bên trong một chu trình đều thuộc về hình bên trong loại O, bất kỳ ô trắng nào bên trong chu trình đều thuộc về hình biên loại O hoặc hình bên trong. Tổng cộng có k hình ranh giới và mỗi hình thuộc về chính xác một ô màu trắng bên trong. Mặt khác, tất cả các hình bên trong loại O đều chứa chính xác b ô đen, và do đó có chính xác b ô trắng. Vì thế, w b k. Bây giờ hãy tính mối quan hệ giữa b và w theo một cách khác. Hãy nhìn vào lưới mới. Các nút của lưới mới sẽ là tâm của các ô đen trước đây. Trung tâm của các tế bào mới sẽ là trung tâm của các tế bào trắng trước đây.
 

@@ -49,7 +49,7 @@ VÀ
 
 ⟦figure⟧
 
-Hình 8. Đường trắc địa không phẳng trên hình elip - đường màu đỏ và xanh
+Cơm. 8. Đường trắc địa không phẳng trên hình elip - đường màu đỏ và xanh
 
 phần chính) (nhấn mạnh thêm – V.P.).” Và một lần nữa "chính xác là ba"! Nhưng việc đề xuất ý tưởng về một ví dụ sẽ nằm trong khả năng của một học sinh nhỏ tuổi hơn. Hóa ra là ngay cả ở cấp trường học, việc coi một khám phá là quan trọng đối với khoa học hiện đại là hoàn toàn có thể. Tất nhiên, trường hợp này là một ngoại lệ. Tuy nhiên, hình học cơ bản đôi khi cũng đủ để nghiên cứu trắc địa. Ví dụ, đối với trắc địa trên bề mặt khối đa diện.
 
@@ -71,11 +71,11 @@ KVANT 2021/№1
 
 ⟦figure⟧
 
-Hình 9. Tính chất quang học của trắc địa
+Cơm. 9. Tính chất quang học của trắc địa
 
 trên đoạn $A_{1} C_{1}$ (Hình 9, b), sau đó đặt sự phát triển trở lại bề mặt của khối đa diện. Do đó, trong quá trình phát triển, các liên kết liền kề của một đường trắc địa kết thúc trên cùng một đường thẳng, hoặc giống nhau, hai liên kết liền kề của một đường trắc địa tạo thành các góc bằng nhau với cạnh mà chúng giao nhau. Góc mà đường trắc địa đi vào cạnh bằng góc mà đường trắc địa đi ra. Người ta gọi tính chất này là quang học là điều tự nhiên - "góc tới bằng góc phản xạ". Cuối cùng, đường trắc địa không thể đi qua các đỉnh của khối đa diện. Tại sao lại thế này? Tất cả đều vì cùng một lý do. Giả sử rằng nút B ở trên cùng. Tổng các góc phẳng tại đỉnh của một khối đa diện lồi nhỏ hơn 360q. Đường đa giác ABC cắt các góc phẳng tại đỉnh B thành hai phần. Ở ít nhất một trong số chúng, tổng các góc sẽ nhỏ hơn 180q. Hãy phát triển các góc này trên một mặt phẳng. Sau khi mở gói, góc ABC sẽ nhỏ hơn 180°. Sau đó, chúng ta lại thu được rằng đường dẫn $A_{1} BC_{1}$ không phải là đường dẫn ngắn nhất - nó có thể được thay thế bằng đoạn $A_{1} C_{1}$, sau đó đưa sự phát triển trở lại bề mặt của khối đa diện (Hình 10). Vì vậy, đường trắc địa là một đường đứt đoạn không đi qua các đỉnh của khối đa diện tại mỗi nút
 
-Hình 10. Đường trắc địa không đi qua một đỉnh
+Cơm. 10. Đường trắc địa không đi qua một đỉnh
 
 ⟦column⟧
 
@@ -83,7 +83,7 @@ Hình 10. Đường trắc địa không đi qua một đỉnh
 
 ⟦figure⟧
 
-Hình 11. Đường trắc địa thẳng tiến trên sự phát triển
+Cơm. 11. Đường trắc địa thẳng tiến trên sự phát triển
 
 zical chuyển thành đoạn AA c. Trong trường hợp này, các góc được đánh dấu trong hình, bằng nhau do tính chất quang học, trở thành các góc tương ứng tại cát tuyến AA c. Điều này có nghĩa là các đoạn MN và M c N c, biểu diễn cùng một cạnh, song song. Chúng ta đã chứng minh thêm một tính chất có thể được coi là một định nghĩa khác (đã là thứ ba!) của đường trắc địa trên khối đa diện: Mệnh đề 2. Một đường khép kín trên bề mặt của khối đa diện là đường trắc địa khi và chỉ khi
 
@@ -97,17 +97,17 @@ Một số trong số chúng đạt đến hai đỉnh. Vì hình chóp có bố
 
 ⟦figure⟧
 
-Hình 12. Hai trắc địa trên một khối lập phương
+Cơm. 12. Hai trắc địa trên một khối lập phương
 
 đi qua giữa xương sườn (Hình 12, b). Tính chất quang học cũng được thỏa mãn, mọi góc đều là 45q. Đường trắc địa này (giống như đường trắc địa trước) bằng phẳng, nó nằm hoàn toàn trong một mặt phẳng. Nếu chúng ta di chuyển mặt phẳng này song song, chúng ta sẽ có được một đường đẳng cấu trắc địa với nó (Hình 12, c). Đây cũng là một hình lục giác, nhưng không còn đều đặn nữa. Nó có cùng chu vi. Chúng ta đã đồng ý xác định trắc địa đẳng cấu, vì vậy trường hợp này không cung cấp điều gì mới. Nhưng không dễ để tìm được đường trắc địa thứ ba trên một khối lập phương! Cô ấy đây, trong Hình 13. Cô ấy
 
 ⟦figure⟧
 
-Hình 13. Đường trắc địa thứ ba trên hình lập phương
+Cơm. 13. Đường trắc địa thứ ba trên hình lập phương
 
 ⟦figure⟧
 
-Hình 14. Phát triển đường trắc địa thứ ba trên khối lập phương
+Cơm. 14. Phát triển đường trắc địa thứ ba trên khối lập phương
 
 hình lục giác và không phẳng! Cắt tất cả các cạnh ở góc D và 90q D, trong đó D là một góc có tiếp tuyến bằng 2. Để thuận tiện, chúng ta đã biểu thị độ dài của các đoạn trong hình, coi cạnh của hình lập phương bằng 1. Hai đỉnh bằng nhau
 
@@ -119,7 +119,7 @@ KVANT 2021/№1
 
 ⟦figure⟧
 
-Hình 18. Đường trắc địa loại (2;1) được liên kết với đỉnh D bằng nút L
+Cơm. 18. Đường trắc địa loại (2;1) được liên kết với đỉnh D bằng nút L
 
 giếng tứ diện; đối với đỉnh B và C, các nút liên kết lần lượt là $K_{3}$ và $K_{1}$. Định lý 5. Bất kỳ đường trắc địa $типа^{n;} m$ nào, trong đó $n t^{m} t 1$, có đúng 4 nút liên kết. Chúng tạo thành hai cặp nút đối diện của đường trắc địa, mỗi cặp chia nó thành hai phần có cùng số nút. Mỗi đỉnh của tứ diện là một đỉnh liên kết của một trong các nút. Cho $a_{1}$ và $b_{1}$ là các liên kết của trắc địa rời khỏi nút liên kết, $a_{2}$ và $b_{2}$ các liên kết sau, v.v. Khi đó các liên kết $a_{i}$ và $b_{i}$ nằm trên cùng một mặt và không có điểm nào khác của trắc địa giữa chúng. Bằng chứng. Chúng ta hãy biểu diễn đường trắc địa g như một đường thẳng trên sự phát triển và chứng tỏ rằng g được liên kết với đỉnh K từ chứng minh Định lý 4; lý luận tương tự cho các đỉnh khác. Chúng ta vẽ một đường thẳng g c đối xứng với g đối với điểm K. Rõ ràng là dải giữa g và g c không chứa các nút khác ngoại trừ các nút nằm trên $g_{1}$. (Hãy nhớ rằng $g_{1}$ là đường thẳng song song gần g nhất trên vùng phát triển có chứa một nút.) Do đó, các đường g và g c cắt nhau cả 6 đoạn mạng phát ra từ K, và
 
@@ -141,7 +141,7 @@ và $P_{2}$, mô tả nó trên bản quét. Rõ ràng là $P_{1} z P_{2}$, vì 
 
 ⟦figure⟧
 
-Hình 19. Bó 3 trắc địa loại (1;1)
+Cơm. 19. Bó 3 trắc địa loại (1;1)
 
 Phải chăng chỉ trên một tứ diện đều mới có vô số đường trắc địa? Không, không chỉ vậy. Bất kỳ tứ diện đẳng diện nào cũng có tính chất này. Một tứ diện được gọi là đẳng diện nếu tất cả các mặt của nó bằng nhau. Để có được một khối tứ diện như vậy rất đơn giản: bạn cần lấy một hình tam giác có góc nhọn tùy ý và gấp nó dọc theo các đường ở giữa (Hình 20). Có nhiều tài sản
 
@@ -153,6 +153,6 @@ POINCARE
 
 ⟦figure⟧
 
-Hình 20. Tứ diện đều
+Cơm. 20. Tứ diện đều
 
 và dấu của tứ diện đẳng diện. Chúng tôi đã thu thập một số trong số chúng trong Bài tập 14. Trong tất cả các cuộc thảo luận của chúng ta về trắc địa, một tứ diện đều có thể được thay thế bằng một tứ diện đẳng diện - sẽ không có gì thay đổi. Chỉ có mạng bây giờ sẽ không bao gồm các hình tam giác đều mà là các hình tam giác giống hệt nhau bằng mặt. Hoá ra một tứ diện đẳng diện cũng có vô số trắc địa, được đánh số bằng các cặp số nguyên tố cùng nhau n; m. Chúng được xây dựng theo cùng một cách - quét vô hạn. Có những bề mặt khác có nhiều đường trắc địa như vậy không? Một tứ diện đẳng diện có đường trắc địa có độ dài tùy ý. Còn các khối tứ diện khác thì sao? Hóa ra là không. Trong số tất cả các tứ diện, chỉ có tứ diện có tính chất này. Bất kỳ khối tứ diện nào khác chỉ có thể có một số lượng hữu hạn các đường trắc địa không đẳng hình - và chúng thậm chí có thể không tồn tại, giống như một kim tự tháp thông thường. Có thể có vô số đường trắc địa không đẳng cấu cho một khối đa diện không phải là tứ diện không? Như chúng ta đã thấy, cả khối lập phương lẫn khối tám mặt đều không phù hợp với vai trò này. Năm 2008, người ta đã chứng minh rằng không có khối đa diện nào khác phù hợp [9]. Trong số tất cả các khối đa diện, chỉ có tứ diện đẳng diện có đường trắc địa dài tùy ý. Bài báo tương tự đã đưa ra giả thuyết rằng tứ diện đẳng diện là duy nhất không chỉ trong số các khối đa diện, mà còn trong số tất cả các bề mặt lồi. Trong mười năm, giả thuyết này vẫn còn bỏ ngỏ, chỉ gần đây nó mới được A.V. Akopyan và A.M. Petrunin [1]: Nếu một mặt lồi có các đường trắc địa khép kín dài tùy ý thì đây là mặt của một tứ diện đẳng diện.
