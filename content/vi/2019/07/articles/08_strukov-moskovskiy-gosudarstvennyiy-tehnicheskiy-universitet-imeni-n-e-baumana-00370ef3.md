@@ -74,7 +74,7 @@ cáp vào một đầu của cọc, nó được nâng từ từ lên vị trí 
 
 ⟦figure⟧
 
-Hình 5
+Cơm. 5
 
 mỗi tấm bằng S. Tấm 1 được nối với tấm 3 bằng một dây dẫn. Xác định lượng điện tích sẽ truyền qua nguồn dòng điện nếu khoảng trống giữa tấm 2 và tấm 3 chứa đầy chất điện môi có hằng số điện môi H 4. Khoảng cách d giữa các tấm nhỏ so với kích thước của chúng. 9. Một quả cầu kim loại có bán kính $R_{1} = = 4$ cm được bao quanh bởi một vỏ dẫn điện đồng tâm có bán kính $R_{2} = 10$ cm. Khoảng không gian giữa quả bóng và vỏ được lấp đầy bằng chất điện môi đồng nhất. Xác định điện áp cực đại có thể đặt vào một tụ điện hình cầu như vậy nếu sự đánh thủng chất điện môi xảy ra ở cường độ điện trường E 100 kV cm.
 
@@ -92,13 +92,13 @@ EX AM E QUỐC GIA
 
 ⟦figure⟧
 
-Hình 6
+Cơm. 6
 
 được thả ra không có vận tốc ban đầu và nó bắt đầu rơi. Xác định giá trị hệ số ma sát giữa quả tạ và mặt phẳng nếu quả cầu dưới bắt đầu trượt dọc mặt phẳng khi góc nghiêng của thanh với mặt phẳng đạt D 75 q ( sin 75 q 0,97 ). 3. Một mol khí lý tưởng đơn nguyên tử từ trạng thái ban đầu 1 giãn nở trong quá trình 1–2 (Hình 7) với nhiệt dung không đổi
 
 ⟦figure⟧
 
-Hình 7
+Cơm. 7
 
 sau đó, thực hiện công việc $A_{12} = 200$ J trong đó. Sau đó, một lượng nhiệt $Q_{23} = 200$ J được cung cấp cho khí trong quá trình 2–3, trong đó áp suất của khí tỷ lệ thuận với thể tích của nó. Nhiệt độ ở trạng thái 1 và 3 là như nhau. Tìm lượng nhiệt cung cấp cho khí trong quá trình 1–2. 4. Trong mạch điện như hình 8, khi công tắc K mở thì tụ điện
 
@@ -108,13 +108,13 @@ MÃ TẾ RỊA LÝ
 
 ⟦figure⟧
 
-Hình 8
+Cơm. 8
 
 xương C = 10 μF tích vào điện áp $U_{0} = 2 B.$ Độ tự cảm cuộn dây L = = 0,1 H, emf pin E = 5 V, diode D là lý tưởng. Xác định cường độ dòng điện cực đại trong mạch sau khi đóng công tắc. Tìm điện áp sẽ được thiết lập trên tụ điện sau khi đóng công tắc. 5. Trên một mặt phẳng nằm ngang nhẵn có một hình lăng trụ tam giác có khối lượng 2m với góc D bằng 30 q, được nối với nhau bằng một lò xo không trọng lượng không biến dạng có độ cứng k với một khối khối lượng m (Hình 9). Quả bóng có khối lượng m
 
 ⟦figure⟧
 
-Hình 9
+Cơm. 9
 
 rơi thẳng đứng xuống và chạm vào lăng trụ với vận tốc v. Xác định độ biến dạng cực đại của lò xo trong quá trình chuyển động tiếp theo của vật. Bỏ qua lực ma sát. 6. Số cặp electron-positron tối đa có thể được hình thành khi hai lượng tử gamma giống hệt nhau tương tác với vật chất, trong đó một hạt tương đối trung tính chuyển động có khối lượng nghỉ $m_{0}$ bị phân rã, nếu góc giữa các hướng tán xạ của lượng tử gamma là T 60 q? Giả sử rằng toàn bộ năng lượng của lượng tử gamma dùng để hình thành các cặp electron-positron.
 
@@ -142,6 +142,6 @@ Mặt khác, không khó để tìm tổng V của tất cả các số vij và 
 
 ⟦figure⟧
 
-Hình 3
+Cơm. 3
 
 sống trên vòng tròn Z, đó là điều ta cần chứng minh. 7. Chúng ta ký hiệu đồng xu kỷ niệm là Y. Đặt hai đồng xu không kỷ niệm A và B sang một bên và sắp xếp 14 đồng xu còn lại, mỗi bát 7 đồng sao cho Y rơi vào đồng xu bên trái. Chúng ta gọi một đồng xu là trái hoặc phải nếu khi cân nó lần lượt rơi vào bên trái hoặc bên phải của bát. Trường hợp (=). Hãy để bát được cân bằng. Trong trường hợp này, hoặc có 3 đồng xu nặng trên mỗi bát (trong trường hợp A và B đều nặng) hoặc 4 đồng xu trong mỗi bát (trong trường hợp A và B đều nhẹ). Trong mọi trường hợp, cả hai đồng tiền đặt sang một bên đều giống nhau. Trong trường hợp này, lấy Yu và một đồng xu C khác từ bát bên trái và so sánh cặp này với cặp A và B. Trường hợp con (=,=). Hãy lấy lại sự cân bằng. Khi đó cả 4 đồng tiền A, B, C, Yu đều nặng như nhau. Hãy so sánh chúng với bốn đồng tiền còn lại bất kỳ. Nếu cân thăng bằng thì cả 8 đồng xu được cân đều có cùng trọng lượng. Vậy trong số những đồng còn lại có 6 đồng có trọng lượng như thế này; điều này là không thể. Có nghĩa. một cái bát nặng hơn và chúng ta sẽ biết A, B, C và Yu nặng hay nhẹ. Chữ hoa con (=,<). Bát đựng Yu ở lần cân thứ hai nhẹ hơn. Thế thì không thể có hai đồng xu nặng trên cái bát này. Bằng cách so sánh hai đồng tiền này với nhau, trong trường hợp không bằng nhau, chúng ta sẽ biết ngay trọng lượng của Yu, còn trong trường hợp bằng nhau, chúng ta có thể kết luận rằng cả hai đồng xu trên chiếc bát này đều nhẹ. Trường hợp con (=,>) khi bát có Y nặng hơn cũng tương tự. Trường hợp (<). Để bát bên trái nhẹ hơn trong lần cân đầu tiên. Vậy trong số những đồng xu còn lại có không quá ba đồng nặng. Bằng cách so sánh Yu với một số đồng xu C còn lại, chúng ta tìm ra trọng lượng của Yu (trong trường hợp bất đẳng thức), hoặc

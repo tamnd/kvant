@@ -90,11 +90,11 @@ Bài toán 3. Tính trung bình Hình 2 thể hiện đồ thị tọa độ c�
 
 ⟦figure⟧
 
-Hình 3
+Cơm. 3
 
 ⟦figure⟧
 
-Hình 2
+Cơm. 2
 
 đi dọc theo một con đường thẳng. Xác định tốc độ mặt đất trung bình $v_{10}$ của ô tô thứ hai trong 10 phút chuyển động theo quan điểm của người quan sát ô tô thứ nhất. Tại thời điểm chuyển động nào, ngoài ô tô cuối cùng, tốc độ trung bình của ô tô thứ hai so với ô tô thứ nhất cũng bằng $v_{10}$? Tốc độ trung bình trên mặt đất của ô tô thứ hai khi chuyển động đạt giá trị lớn nhất là bao nhiêu? M. Zamyatnin
 
@@ -102,7 +102,7 @@ Bài toán 4. Cocktail khối Nếu một khối được ngâm trong một cố
 
 Bài toán 3. Độ dẻo Một cột hình trụ bằng nhựa có chiều cao H và diện tích đáy s được dính chặt vào đáy nhẵn của một bình chứa chất lỏng có mật độ $U_{0}$ được đổ lên đỉnh cột (Hình 4, a). Nước dưới cột
 
-Hình 4
+Cơm. 4
 
 ⟦folio 49⟧
 
@@ -128,17 +128,17 @@ Vòng đầu tiên
 
 ⟦figure⟧
 
-Hình 4
+Cơm. 4
 
 ⟦figure⟧
 
-Hình 2
+Cơm. 2
 
 mỗi điện trở R và một điện trở có điện trở $R_{1}$. Điện áp U không đổi được duy trì ở các cực AB. Bằng giá trị nào ' dòng điện chạy qua điện trở có điện trở $R_{1}$ sẽ thay đổi sau khi đóng phím K? Có thể bỏ qua điện trở của dây và chìa khóa. 4. Trong va chạm ở tâm của một quả bóng chuyển động với tốc độ v với cùng một quả bóng đứng yên, quả bóng sau đạt được tốc độ v 2. Tìm sự thay đổi nhiệt độ của các quả bóng nếu nhiệt dung riêng
 
 Các điểm ném của các quả bóng nằm trên bề mặt trái đất và cách nhau một khoảng l. Sau va chạm, các quả bóng dính vào nhau và chuyển động xa hơn như một vật thể. Tìm thời gian W bay của vật này kể từ lúc va chạm đến lúc rơi xuống đất. Sức cản của không khí có thể bỏ qua. 2. Một cái nêm có góc D ở đỉnh nằm trên một bàn nằm ngang (Hình 5). Trên bề mặt của nêm có một khối khối lượng m được gắn một sợi dây không dãn không trọng lượng vào đó. Đầu thứ hai của sợi dây được ném qua một khối trên một cái nêm và gắn vào một vật không đỡ.
 
-Hình 5
+Cơm. 5
 
 ⟦folio 51⟧
 
@@ -146,7 +146,7 @@ EX AM E N A C I O N N S E
 
 ⟦figure⟧
 
-Hình 8
+Cơm. 8
 
 đứng l từ nó có một quả cầu gương, tâm của nó nằm trên trục quang chính của thấu kính. Xác định bán kính của quả cầu R nếu các tia phản xạ từ nó hội tụ tại tiêu điểm của thấu kính gần nguồn nhất. Xin lưu ý rằng đối với các giá trị nhỏ của đối số x, được tính bằng radian, công thức gần đúng sau đây là hợp lệ: tan x | x.
 
@@ -190,7 +190,7 @@ CUỘC THI ĐẶT THEO A.P. SAVINA
 
 ⟦figure⟧
 
-Hình 1
+Cơm. 1
 
 19. a, b) Có, có. Ví dụ, số 1 100 là phù hợp! 1, 2 100! 1, 3 100! 1,…, 100 100! 1. Tổng của k bất kỳ trong số chúng (trong đó k từ 1 đến 100) sẽ được chia cho k, vì nó có dạng N 100! k, nhưng 100! chia hết cho k, vì nó chia hết cho tất cả các số từ 1 đến 100. Điều này có nghĩa là trung bình số học của nhiều số bất kỳ trong ví dụ của chúng ta là một số nguyên. Chúng ta cũng hãy chỉ ra rằng trong ví dụ đã cho không có số nào có ước chung lớn hơn 1. Giả sử điều ngược lại: một số hai số trong ví dụ - chẳng hạn như 100! 1 và b 100! 1 – chia hết cho số nguyên tố p. Khi đó $p !^{100}$ (nếu không thì số 100 sẽ chia hết cho p! và do đó, số 1, điều này là không thể). Hiệu của hai số $a b ^{100!}$ của chúng ta cũng chia hết cho p, nhưng hiệu này rõ ràng không có thừa số nguyên tố nào lớn hơn 100. Một mâu thuẫn. 20. a) 4998; b) 4802. Giám định. Hãy chia bàn cờ thành các quân domino dọc, tô màu theo kiểu bàn cờ (mỗi quân domino toàn màu trắng hoặc toàn màu đen). a) $На^{50} 2$ Quân domino trắng phải có ít nhất $50^{2} 1$ ô lấp đầy, do đó không thể chọn được 2 quân domino trắng không có ô kín. Tương tự với người da đen. Điều này có nghĩa là tổng cộng ít nhất $2 50^{2} 1 4998$ ô được tô bóng. b) Ước tính cho điểm này được chứng minh bằng phép loại suy.
 

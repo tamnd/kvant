@@ -42,7 +42,7 @@ tương đương với một đống trống. Trò chơi kết thúc khi tất c
 
 ⟦figure⟧
 
-Hình 2. Tính tổng Nim để xác định nước đi ở ván 1
+Cơm. 2. Tính tổng Nim để xác định nước đi ở ván 1
 
 Vì thế,
 
@@ -54,7 +54,7 @@ Số tiền nim khác 0. Người chơi thực hiện nước đi phải đặt 
 
 ⟦figure⟧
 
-Hình 1. Đánh số các ô dải và vị trí của chip trong ví dụ
+Cơm. 1. Đánh số các ô dải và vị trí của chip trong ví dụ
 
 DOI: https://doi.org/10.4213/kvant20190405
 
@@ -70,7 +70,7 @@ KVANT 2019/№4
 
 ⟦figure⟧
 
-Hình 4. Tính tổng Nim để xác định nước đi ở ván 2
+Cơm. 4. Tính tổng Nim để xác định nước đi ở ván 2
 
 với 7 cọc có số đá 2, 5, 6, 9, 14, 16 và 19. Vì Nim-sum tương ứng bằng (Hình 4)
 
@@ -86,7 +86,7 @@ $10000_{2}$  $10011_{2}$ 
 
 ⟦figure⟧
 
-Hình 3. Đánh số các liên kết sâu bướm
+Cơm. 3. Đánh số các liên kết sâu bướm
 
 chúng ta thay những con sâu bướm có số k bằng một đống đá k. Trong quá trình di chuyển của mình, người chơi tô màu lại một liên kết màu xanh lá cây với một số k và có thể đổi màu một liên kết khác có số nhỏ hơn k. Nếu người chơi chỉ tô màu lại một liên kết, thì chúng tôi coi như anh ta đã làm trống một đống k viên đá. Nếu mắt xích thứ hai được tô màu lại có số m (m < k) và có màu trắng trước khi người chơi di chuyển, thì chúng ta giả sử rằng người chơi đã lấy k – m quân từ đống k quân và để lại m quân trong đó. Và trong trường hợp khi liên kết được đổi màu thứ hai với số m có màu xanh lá cây và trở thành màu trắng, thì chúng ta sẽ giả định rằng người chơi đã bỏ m viên đá vào đống có k viên đá. Vì trước đó đã có một đống đá nên bây giờ có hai viên. Và hai cọc giống hệt nhau đóng góp bằng 0 vào tổng Nim. Vì vậy, sau này trong trò chơi Nim không thể xem xét và loại trừ chúng khỏi trò chơi. Như vậy, trò chơi này về tay Nim với số cọc bằng số mắt xích sâu xanh. Số lượng đá trong đống trùng với số lượng liên kết màu xanh lá cây tương ứng. Ví dụ, trong Hình 3, trò chơi vẽ lại các mắt xích sâu bướm tương đương với nước đi Nim; chỉ cần đặt lại một đống 5 viên đá là đủ, và Nim-sum của các cọc còn lại sẽ bằng 0. Do đó, nước đi thắng từ trạng thái trong Hình 3 là sơn lại mắt xích xanh 5 màu trắng. $Игра^{3.}$ Hai người chơi lần lượt bẻ một thanh sô cô la được chia rãnh thành 8 và 12 miếng. Một trong những hạt gạch được đánh dấu bằng một cây thánh giá. Với mỗi bước di chuyển của mình, người chơi sẽ phá vỡ một ô dọc theo một trong các rãnh và ăn phần ô đó không chứa mảnh có hình chữ thập. Người chiến thắng là người chơi có nước đi chỉ để lại một miếng sô cô la có hình chữ thập. Trò chơi này cũng là một Ngài che mặt. Người chơi có 4 lựa chọn để di chuyển: phá ô dọc theo rãnh phía trên quân cờ có hình chữ thập, ở bên phải quân cờ có hình chữ thập, ở dưới hoặc ở bên trái của quân cờ đó. Nếu khi bắt đầu trò chơi, một hạt có hình chữ thập được đặt, chẳng hạn như trong Hình 5, thì có 4 hàng phía trên hạt có hình chữ thập, 5 hàng ở bên phải, 3 hàng bên dưới, 6 hàng ở bên trái. Việc di chuyển một trong bốn tùy chọn sẽ làm giảm số lượng hàng theo hướng tương ứng.
 
@@ -96,7 +96,7 @@ MATEM ATI CHES KY
 
 ⟦figure⟧
 
-Hình 5. Hình ảnh thanh sô cô la có phần được đánh dấu bằng hình chữ thập
+Cơm. 5. Hình ảnh thanh sô cô la có phần được đánh dấu bằng hình chữ thập
 
 Vì thế trò chơi tương đương với Nim với 4 đống đá. Ở chồng đầu tiên, số lượng viên đá trùng với số hàng phía trên mảnh có hình chữ thập, ở chồng thứ hai - với số hàng ở bên phải của mảnh có hình chữ thập, ở chồng thứ ba - bên dưới và ở hàng thứ tư - ở bên trái của nó. Trong ví dụ ở Hình 5, khi bắt đầu trò chơi có 4, 5, 3 và 6 viên đá xếp thành chồng. Trong lượt của mình, người chơi chọn một cọc và giảm số lượng đá trong đó. Để xác định nước đi, chúng tôi biên soạn Nimsumma. Trong ví dụ đang xem xét, việc tính tổng Nim được thực hiện trong Hình 6. Chúng ta thu được 4 5 3 $6 100_{2}$ $101_{2}$ $11_{2}$ $110_{2}$
 
@@ -104,7 +104,7 @@ $100_{2} 4$. Như có thể thấy trong Hình 6, tổng Nim khác 0. Để đ�
 
 ⟦figure⟧
 
-Hình 6. Tổng hợp Nim-sum để xác định nước đi ở ván 3
+Cơm. 6. Tổng hợp Nim-sum để xác định nước đi ở ván 3
 
 một đơn vị ở chữ số nhị phân có ý nghĩa nhất, tức là loại bỏ 4 viên đá khỏi một trong các cọc 1, 2 hoặc 4. Trong trò chơi được đề cập, người chơi phải loại bỏ 4 hàng ở trên, bên phải hoặc bên trái của hình vuông có hình chữ thập. Trò chơi 4. Có một con chip trên năm ô của một dải ngang gồm 25 ô. Đối với mỗi lần di chuyển, bạn được phép di chuyển bất kỳ con chip nào sang trái sang một ô trống mà không cần nhảy qua các con chip khác. Người chơi không thể di chuyển sẽ thua. Hãy đánh số các ô của dải từ trái qua phải với các số từ 1 đến 25. Các chip trên dải cũng sẽ được đánh số từ trái sang phải. Người chơi không phải
 
@@ -146,7 +146,7 @@ Và cuối cùng, đối với 5 chip trên một dải, chúng tôi sẽ lại 
 
 ⟦figure⟧
 
-Hình 7. Ví dụ xác định số quân trong ván 4
+Cơm. 7. Ví dụ xác định số quân trong ván 4
 
 sẽ dẫn đến vi phạm và người chơi phải khôi phục lại sự đáp ứng của mối quan hệ (3) bằng nước đi phản ứng của mình. Có sự tương ứng giữa Nim và hai đống đá. Số lượng đá trong đống đầu tiên trùng với số lượng ô tự do giữa chip 0 và chip thứ nhất, và ở đống thứ hai - giữa chip thứ hai và chip thứ ba. Ở Nimes có hai cọc, người chơi phải cân bằng số lượng đá trong cọc với mỗi lần di chuyển. Không giống như Nim, trong trò chơi này, đối thủ có thể, bằng cách di chuyển chip 2, tăng số ô trống giữa chip 2 và 3, điều này trong trò chơi Nim tương ứng với việc tăng số lượng đá ở cọc thứ hai. Trong trường hợp này, người chơi phải phản ứng bằng cách di chuyển chip 3 sang trái, trả lại số ô trống trước đó giữa chip thứ hai và thứ ba. Trường hợp 3 chip trên một dải đã được xử lý. Hãy để trò chơi bây giờ được chơi với 4 chip trên một dải. Sau đó, chip có điều kiện được giới thiệu khi xem xét trường hợp trước sẽ nhận được phương án. Chúng ta hãy biểu thị bằng $a_{i}$ số ô chứa chip thứ i (i = 1, 2, 3, 4). Bằng cách tương tự với trường hợp trước, số lượng ô có chip ở trạng thái trừ được thỏa mãn
 
@@ -154,7 +154,7 @@ Trong ví dụ, số quân trong cọc là 4, 1 và 5. Để giành chiến th�
 
 ⟦figure⟧
 
-Hình 8. Tính Nim-sum cho 3 cọc ở ván 4
+Cơm. 8. Tính Nim-sum cho 3 cọc ở ván 4
 
 Trò chơi 5. Các ô của dải 10 ô được đánh số từ 1 đến 10. Trên mỗi ô
 
@@ -164,13 +164,13 @@ KVANT 2019/№4
 
 ⟦figure⟧
 
-Hình 10. Tính tổng Nim cho các số trong ván 5
+Cơm. 10. Tính tổng Nim cho các số trong ván 5
 
 Bạn nên di chuyển một chip từ ô 9, để lại ba chip trên đó. Số tiền nim sau một động thái như vậy sẽ trở thành số không. Ván 6. Trò chơi diễn ra với 4 đường đứt nét. Số lượng mắt xích trong một đường gãy không vượt quá 20. Ba đường gãy được gắn vào một đế cố định ở một đầu và đường thứ tư - ở cả hai đầu (Hình 11). Vì
 
 ⟦figure⟧
 
-Hình 11. Ví dụ về trạng thái ban đầu của trò chơi
+Cơm. 11. Ví dụ về trạng thái ban đầu của trò chơi
 
 Mỗi lần di chuyển bạn được phép loại bỏ một liên kết khỏi bất kỳ dòng bị hỏng nào. Nếu sau khi di chuyển có các liên kết bị rách khỏi đế thì tất cả chúng cũng bị loại bỏ. Người chơi thắng, sau khi di chuyển, các liên kết của tất cả các đường gãy sẽ bị loại bỏ. Hãy rút gọn trò chơi về Nim với 4 đống đá. Để các đường gãy A, B và C được gắn vào đế bằng một đầu và đường đứt D bằng hai đầu. Chúng ta hãy đánh số các liên kết của từng dòng bị hỏng một cách tuần tự. Đối với các đường gãy A, B và C, số 1 sẽ nhận được một mắt xích gắn vào đế (Hình 11). Hãy chứng minh rằng mỗi đường gãy A, B và C có thể được thay thế bằng một cọc, số viên đá trong đó bằng số mắt xích trong đường gãy tương ứng. Ví dụ, cho dòng đứt gãy A chứa k liên kết. Khi loại bỏ liên kết thứ i của đường đứt A, 1 d i d k, nó còn lại liên kết i –1 với các số từ 1 đến i –1. Như vậy, việc loại bỏ liên kết thứ i tương đương với việc bỏ lại i –1 viên đá trong đống. Chúng ta cũng thay thế đường D gãy bằng một số đống đá tổng quát. Hãy để nó bị phá vỡ
 

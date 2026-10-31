@@ -40,11 +40,11 @@ Dưới đây, để ngắn gọn, chúng ta sẽ gọi hai hình vuông góc v�
 
 ⟦figure⟧
 
-Hình 2
+Cơm. 2
 
 ⟦figure⟧
 
-Hình 1
+Cơm. 1
 
 rơi từ điểm C (Hình 1). Phân giác của góc AHC cắt đường thẳng A 1 C 1 tại điểm P, phân giác của góc BHC cắt đường thẳng B 1 C 1 tại điểm Q. Chứng minh Q là trực tâm của tam giác KLP. Điều kiện bài toán rõ ràng có nghĩa là mỗi điểm K, L, P, Q là trực tâm của tam giác tạo bởi ba điểm còn lại. Bộ bốn điểm như vậy được gọi là trực tâm.
 
@@ -72,7 +72,7 @@ Cuối cùng, chúng ta hãy lưu ý thêm một thực tế nữa về các đi
 
 ⟦figure⟧
 
-Hình 5
+Cơm. 5
 
 Bài 4. Chứng minh E cũng nằm trên đường tròn (PHQ).
 
@@ -80,7 +80,7 @@ Như chúng ta đã biết, tam giác PDQ là tam giác vuông cân, D là trung
 
 ⟦figure⟧
 
-Hình 6
+Cơm. 6
 
 sử dụng định lý Ceva cho tam giác C 1 UV), các đường thẳng UP, VQ và C 1 H cắt nhau tại một điểm, do đó U, V, H và điểm $PQ \cap CH$ tạo thành một bộ tứ điều hòa. Nhưng các đường thẳng C 1 B 1, C 1 A 1, C 1 H và C 1 C cũng tạo thành một tứ giác điều hòa, nghĩa là giao điểm $PQ \cap CH$ trùng với C.
 

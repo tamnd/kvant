@@ -43,7 +43,7 @@ LỰA CHỌN 1
 
 ⟦figure⟧
 
-Hình 1
+Cơm. 1
 
 tuyệt đối đàn hồi. Bỏ qua ma sát giữa bàn và cái nêm. 7. Các cực cùng tên của hai nguồn có EMF $E_{1}$ và $E_{2}$ và điện trở trong $r_{1}$ và $r_{2}$ lần lượt được kết nối để hình thành một mạch kín. Sau đó, một vôn kế lý tưởng được nối với các cực của một trong các nguồn. Tìm số đọc của nó nếu $E_{1} = 5$ V, $E_{2} = 2$ V, $r_{1} = 10$ Ohm, $r_{2} = 5$ Ohm. 8. Thanh chuyển động với tốc độ không đổi so với hệ quy chiếu phòng thí nghiệm (LFR) theo phương dọc qua hai điểm A và B nằm cách nhau một khoảng 'x (tính bằng LFR). Đầu tiên, tại thời điểm $t_{1}$, đầu trước của thanh lần lượt xuất hiện đối diện với dấu A. Sau đó, đầu trước và đầu sau của thanh lần lượt xuất hiện đối diện với dấu B tại thời điểm $t_{2}$ và $t_{3}$. Tìm độ dài thích hợp của thanh $L_{0}$.
 
