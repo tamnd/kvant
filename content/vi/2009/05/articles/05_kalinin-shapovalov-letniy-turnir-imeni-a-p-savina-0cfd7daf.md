@@ -1,0 +1,196 @@
+---
+id: 2009-5-kalinin-shapovalov-letniy-turnir-imeni-a-p-savina-0cfd7daf
+issue: kvant_2009_5
+year: 2009
+number: "5"
+title: Giải đấu mùa hè mang tên A.P. Savin
+authors:
+  - Калинин Д. А.
+  - Шаповалов А. В.
+rubric: konkurs-imeni-a-p-savina
+rubric_sub: Конкурс имени А. П. Савина
+page_first: 31
+page_last: 58
+page_labels: 29, 30, 33, 40, 51, 56
+tag: H6K9
+lang: vi
+source: kvant_digital
+extraction: native
+content_sha256: 49f95240df385eb922f45bf9cea1790213652642ce1134bcb403451f0d9ca407
+prompt_sha256: draft-1
+translated_from: content/ru/2009/05/articles/05_kalinin-shapovalov-letniy-turnir-imeni-a-p-savina-0cfd7daf.md
+source_content_sha256: f0b4cbe744d85250bfba14b04b2bc86af5dbedaef0ffb924cdf2dfb7491965c1
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 29⟧
+
+ĐẾN
+
+M
+
+Sh
+
+Cuộc thi mang tên A.P. Savin
+
+"Toán 6–8"
+
+Chúng tôi tiếp tục cuộc thi tiếp theo ở môn lời giải toán bài toán dành cho học sinh lớp 6–8. Lời giải bài toán phải được gửi trong vòng một tháng sau khi nhận được số tạp chí này tới địa chỉ: 119296 Moscow, Leninsky Prospekt, 64-A, «Kvant» hoặc qua email: math@kvant.info (được đánh dấu là “Cuộc thi “Toán học 6–8”). Hãy nhớ điền tên, lớp và địa chỉ nhà của bạn. Như trước đây, chúng tôi hoan nghênh việc tham gia cuộc thi không chỉ theo cá nhân học sinh, mà còn bởi các câu lạc bộ toán học. Chúng tôi yêu cầu những người đứng đầu vòng tròn cung cấp địa chỉ email hoặc số điện thoại liên hệ. Theo truyền thống, các câu lạc bộ chiến thắng trong cuộc thi thư từ sẽ được mời tham dự giải đấu trực tiếp cuối cùng.
+
+6. 2.000 người đã đăng ký trên trang web mới “Razgovori.ru”. Mỗi người trong số họ đã mời 1000 người làm bạn của mình. Hai người được tuyên bố là bạn bè khi và chỉ khi mỗi người trong số họ mời người kia làm bạn. Số lượng cặp bạn bè nhỏ nhất có thể được hình thành là bao nhiêu? A. Evnin
+
+7. Có thể cắt một hình vuông thành 9 hình vuông và tô màu sao cho có 1 hình vuông màu trắng, 3 hình vuông màu xám và 5 hình vuông màu đen, các hình vuông cùng màu sẽ bằng nhau, còn các hình vuông nhiều màu sẽ không bằng nhau? N. Avilov
+
+8. Hai trăm quả cân có khối lượng 1 g, 2 g, ..., 200 g được đặt trên hai cái cân sao cho hai quả cân bất kỳ có độ chênh lệch nhau là bao nhiêu.
+
+⟦column⟧
+
+khối lượng 100 g rơi vào các bát khác nhau và hai vật nặng bất kỳ có tổng khối lượng 201 g cũng rơi vào các bát khác nhau. Đồng thời, cân đã ở trạng thái cân bằng. Sau đó, tất cả các vật nặng có khối lượng đều được lấy ra khỏi mỗi bát. Chứng minh rằng cân sẽ cân bằng trở lại. V.Proizvolov
+
+9. Có số tự nhiên a, b, c, d thỏa mãn $a^{3} + b^{3} + c^{3} + d^{3} = 100 100$ không? M. Murashkin
+
+10. Trên các cạnh BC và CD của hình thoi ABCD ta lần lượt lấy các điểm P và Q sao cho BP = CQ. Chứng minh rằng trọng tâm (giao điểm của các đường trung tuyến) của tam giác APQ nằm trên đường chéo BD của hình thoi. V.Proizvolov
+
+Giải đấu mùa hè mang tên A.P. Savin
+
+Hàng năm vào cuối tháng 6, các học sinh đam mê toán học sẽ tập trung tại một địa điểm tuyệt đẹp ở vùng Kostroma để tranh tài trong lời giải bài toán. Giải đấu được đặt theo tên của Anatoly Pavlovich Savin, người sáng lập cuộc thi “Toán học 6–8” của tạp chí «Kvant». Nhờ cuộc thi năm 1993, giải đấu này đã nảy sinh các trận chiến toán học. Đơn vị tổ chức giải đấu là tạp chí «Kvant» và chương trình giáo dục “Big Change” (do G.V. Kondkov đứng đầu). Mùa hè này, các đội đã tập trung trong 7 ngày (từ 26 tháng 6 đến 2 tháng 7 năm 2009) gần thành phố Sudislavl tại trung tâm giải trí đẹp như tranh vẽ “Berendeyevy Polyany”. Nhiều chàng trai đến đây sớm hơn nhiều - họ học tại trường toán mùa hè, bắt đầu vào ngày 11 tháng 6, sau đó họ quyết định ở lại tham dự giải đấu. Năm nay, các đội từ lớp 6–8 thi đấu với nhau: 8 đội từ lớp 6, 12 đội từ lớp 7 và 8 đội từ lớp 8. Học sinh đến từ Moscow, St. Petersburg, Ivanovo, Kostroma, Tambov và Chernogolovka. Đội Tambov được mời tham dự giải đấu với tư cách là đội chiến thắng trong cuộc thi “Toán học 6–8” của tạp chí «Kvant». Vào ngày đến (25/6), ngay lập tức trò chơi toán học sinh động “Magic Square” được diễn ra. Đội chiến thắng là các đội “Fractal” (lớp 6, St. Petersburg), “Trí tuệ” (lớp 7, Moscow) và “218-B” (lớp 8, Moscow). Ngày hôm sau, cuộc thi Olympic đồng đội miệng được tổ chức, theo kết quả, các đội được chia thành các giải theo lớp, trong đó lớp 7 được chia thành hai giải. Tiếp theo, các trận chiến toán học diễn ra ở mỗi giải đấu. Ngày cuối cùng của giải đấu là những trận chiến cuối cùng quyết định đội thắng ở mỗi giải đấu. Ở giải hạng 8, đội Matxcova-Nam đứng nhất. Nó được sưu tầm bởi T.P. Zorina tại trường toán hè tháng 6 năm 2008. Chỉ trong hơn một năm, các chàng trai đã vô địch nhiều giải đấu khác nhau, bao gồm cả giải đấu này năm ngoái. Trong giải đấu lớn lớp 7, đội xuất sắc nhất là đội câu lạc bộ MCSME do A.V. Spivak. Những học sinh lớp sáu giỏi nhất là các em đến từ câu lạc bộ Fractal ở St. Petersburg; Lợi thế của họ hóa ra là đáng chú ý cả trong các trận đấu và trong Thế vận hội đồng đội. Đội đứng đầu giải nhì gồm 7 lớp là đội của trường 82 đến từ Chernogolovka, vùng Moscow. Bảng dưới đây hiển thị danh sách tất cả các đội chiến thắng giải đấu. Vào một trong những ngày diễn ra giải đấu, những người tham gia đã tạm nghỉ chiến đấu - một cuộc thi Olympic cá nhân đã diễn ra. Mỗi song song đều có sự cạnh tranh riêng với những nhiệm vụ riêng. Ở lớp 6, với lời giải trong tổng số bài toán, Andrey Volgin (đội MTsNMO) đã nhận được “Grand Prix”, và Ivan Petrenko, cư dân Kostroma, đã giành được bằng tốt nghiệp cấp 1. Học sinh lớp 7 giỏi nhất là Nikita Sopenko (đội Tambov), học sinh lớp 8 giỏi nhất là Mikhail Artemyev (nhà thi đấu 1543, Moscow). Những người có bằng cấp II là: Semyon Verchenko (lớp 8, nhà thi đấu 1543), Maria Sandrikova (lớp 8, TsO 218),
+
+⟦folio 30⟧
+
+KVANT 2009/№5
+
+Liên minh
+
+Bằng cấp
+
+Đội
+
+Đội trưởng
+
+Người giám sát
+
+Cao nhất 8 Cao nhất 8 Cao nhất 8 Cao nhất 8 Cao nhất 8 Cao nhất 7 Cao nhất 7 Cao nhất 7 Cao nhất 7 Cao nhất 7 Cao nhất 6 Cao nhất 6 Cao nhất 6 Cao nhất 6 Cao nhất 6 Đầu tiên 7 Đầu tiên 7
+
+Tôi độ II độ II độ III độ III độ I độ II độ II độ III độ III độ I độ II độ II độ III độ III độ I độ II độ
+
+Nhà thi đấu Moscow-South 1514, Moscow Lyceum 14, Quận trung tâm Tambov 218, Nhà thi đấu Moscow 1543, Moscow MTsNMO, Đội tuyển Moscow Kostroma Trí tuệ, Nhà thi đấu Moscow 1543, Nhà thi đấu Moscow 1514, Moscow Fractal, St. Petersburg Vorobyovs Mountains, Moscow TsO 218, Moscow Quantik, Moscow Mountain Sparrows, Moscow School 82, Trường Chernogolovka 179, Moscow
+
+⟦column⟧
+
+F. Lyashchenko A. Ponfilenko N. Sopenko M. Sandrikova M. Artemiev T. Levinson R. Tsvetnikov Yu. Grebennikova Y. Kotelnikova T. Stepanov E. Tseytina I. Gushchenko-Cheverda A. Zertsalov V. Volkov A. Melnik A. Potapov I. Panteleeva
+
+T.P.Zorina O.R.Gorskaya A.V.Burmistrova A.D.Blinkov A.V.Khachaturyan A.V.Spivak D.A.Kalinin N.M.Netrusova I.V.Raskina T.V.Zhitnikova A.P.Pogoda T.P.Zorina Yu.A.Blinkov I.A.Nikolaeva T.P.Zorina L.N.Golovko A.Yu.Yurkov
+
+Yulia Grebennikova (lớp 7, “Trí thức”), Maxim Khabarov (lớp 7, trường 30, St. Petersburg), Alexey Bystrov (lớp 6, Kostroma), Stepan Kargaltsev (lớp 6, CO 218), Nikita Uvarov (lớp 6, nhà thi đấu 1543) và Mikhail Yagudin (lớp 6, đội MMMF). Bằng cấp ba được trao cho Alexey Vinogradov (lớp 8, thể dục 1514), Anna Dobrovolskaya (lớp 8, thể dục 1514), Lev Sinykov (lớp 8, “Moscow-South”), Pyotr Melnichenko (lớp 7, TsO 218), Bogdan Slavov (lớp 7, trường 179), Marina Khachaturyan (lớp 7, thể dục thể hình) 1543), Ivan Burenev (lớp 6, “Fractal”), Andrey Zertsalov (lớp 6, CO 218), Daria Lebedeva (lớp 6, “Fractal”), Sergey Polevoy (lớp 6, “Moscow-South”) và Pavel Shevchuk (lớp 6, “Chim sẻ núi”). Ngoài ra, nhiều em còn được khen thưởng bằng tốt nghiệp khi tham gia thành công và được khen thưởng. Trong những giờ không tham gia các cuộc thi chính, những người tham gia Olympic đã được nghe các bài giảng về toán học của A.V. Spivak, S.I. Tokarev, A.B. Skopenkov, A.V. Shapovalov, A.A. Zaslavsky, S.G. Volchenkov. Nhưng trò giải trí không chỉ có tính toán. Sân bóng đá và sân bóng chuyền không bao giờ vắng người. Vào buổi tối, các trò chơi trí tuệ được tổ chức do N.M. Netrusova và A.V. Khachaturyan. Những chuyến du lịch dã ngoại vô cùng thú vị được tổ chức bởi T.P. Zorina, người từ lâu đã quan tâm đến lịch sử của Sudislavl và các vùng đất xung quanh và giờ đây có lẽ đã trở thành người hướng dẫn giỏi nhất ở thành phố cổ này. Thông tin chi tiết hơn về kết quả của giải đấu và các bức ảnh có thể được xem trên trang web http://kostroma-open.info/20090626.html Việc lựa chọn bài toán và tổng hợp các phương án được thực hiện bởi một ủy ban phương pháp dưới sự lãnh đạo của Alexander Vasilyevich Shapovalov. Nó bao gồm A.D. Blinkov, Yu.A. Blinkov, N.T. Grebenik, E.S. Gorskaya, S.A. Dorichenko, A.A. Zaslavsky, D.A. Kalinin, T.V. Karavaeva, P.V. Martynov, K.A. Matveev, D.V. Prokopenko, I.V. Raskina, A.B. Skopenkov, K.A. Skoptsov, S.I. Tokarev, A.V. Shapovalov. Các trưởng nhóm đã có đóng góp đáng kể cho công việc của ủy ban. Sách và các giải thưởng khác dành cho người chiến thắng được cung cấp bởi tạp chí «Kvant», công ty Yandex và Quỹ Giáo dục và Khai sáng Toán học (giám đốc S.I. Komarov). Theo truyền thống kể từ những giải đấu đầu tiên, nhiều bản quyền mới bài toán đã được công bố trong giải đấu. Trong số này, chúng tôi đã cố gắng chọn những nơi có điều kiện đòi hỏi nhiều hơn những gì người ta có thể mong đợi hoặc nơi lời giải có sự thay đổi và ngắn gọn bất ngờ. Sau số lượng bài toán, nó sẽ chỉ ra lớp nào phù hợp nhất.
+
+Yêu thích bài toán của giải đấu
+
+1 (7–8). Ba anh em Anton, Bori và Vasya có cùng ngày sinh nhật. Hóa ra khi Anton tròn 12 tuổi, tổng số tuổi của hai anh em còn lại sẽ chia cho 12 không có dư. Điều tương tự sẽ xảy ra khi Bora tròn 12 tuổi. Chứng minh rằng điều tương tự cũng sẽ xảy ra khi Vasya bước sang tuổi 12. A. Shapovalov
+
+2 (7). Cho tam giác cân ABC (AB=AC) vẽ đường phân giác BD. Một đường thẳng đi qua điểm D vuông góc với BD cắt cạnh BC tại điểm K. Chứng minh rằng BK = 2CD. Văn hóa dân gian
+
+3 (7–8). Ba kẻ rình rập đã đến được Stone Anomaly. Từ đó có một con đường dài 100 m dẫn tới kho báu. Những kẻ theo dõi biết rằng người đầu tiên đi theo con đường sẽ bị hóa đá ở một nơi ngẫu nhiên và số phận tương tự đang chờ đợi người thứ hai. Cả hai sẽ trở nên sống động vào thời điểm người thứ ba đi dọc theo con đường và tổng khoảng cách từ anh ta đến hai người bạn đồng hành hóa đá sẽ chính xác là 100 m. Liệu những kẻ rình rập có thể đến được kho báu mà không có nguy cơ bị hóa đá mãi mãi? A. Blinkov, I. Raskina
+
+4 (8). Ba đường tròn đi qua điểm P và cắt nhau thành từng cặp tại các điểm A, B, C. Biết tâm của một đường tròn nằm trên đường thẳng AP, còn tâm của đường tròn kia nằm trên đường thẳng BP. Chứng minh tâm đường tròn thứ ba nằm trên đường thẳng CP. B.Frenkin
+
+5 (8). Có thể chia tất cả các số tự nhiên từ 1 đến 2009 thành hai nhóm sao cho tổng các số trong nhóm này bằng tích các số trong nhóm kia? A. Shapovalov
+
+6 (8). Một hình 222 có các cạnh dọc theo ranh giới của các ô được vẽ trên giấy ca-rô. Số lượng ô nhỏ nhất mà đa giác này có thể bao gồm là bao nhiêu? A. Shapovalov
+
+⟦folio 33⟧
+
+12. Một con lắc toán học được gắn trên một chiếc xe đẩy có thể lăn xuống mặt phẳng nghiêng không ma sát. Tìm vị trí cân bằng của con lắc. 13. Nêm bên trái được đẩy từ từ xuống dưới nêm bên phải, tỷ lệ các chân trong đó được biểu thị bằng hình. Góc $\alpha$ phải bằng bao nhiêu để nêm bên phải lật được? 14. Trong những điều kiện nào có thể sử dụng vít để siết chặt các bộ phận? 15. Hai ô tô được lăn luân phiên nhau từ đỉnh bướu: một ô tô trống, một ô tô có hàng. Xe nào sẽ đi xa hơn trên đoạn đường thẳng sau khi lăn bánh xuống dốc? 16. Nếu một ô tô lên núi với cùng công suất động cơ thì tốc độ của ô tô đó sẽ giảm đi. Tại sao? 17. Một hình trụ có đường kính bằng chiều cao của nó trượt một lần từ mặt phẳng nghiêng dọc theo trục sinh của nó, và một lần nữa trượt xuống từ cùng một điểm trên mặt phẳng. So sánh vận tốc tịnh tiến của hình trụ tại chân mặt phẳng nghiêng, coi hệ số ma sát trượt giữa hình trụ và mặt phẳng nghiêng là rất nhỏ. 18. Có ba khúc gỗ nhẵn giống hệt nhau ở phía sau một chiếc xe tải, được sắp xếp như hình hình. Ở góc nào $\alpha$ vật có thể nghiêng để khúc gỗ phía trên không lăn sang một bên?
+
+Kinh nghiệm vi mô
+
+Dán một hình trụ bằng giấy dày (bạn có thể lấy một ống bìa cứng từ cuộn giấy vệ sinh) và gắn một miếng nhựa vào bên trong nó. Một hình trụ như vậy có thể cuộn lên một mặt phẳng nghiêng. Làm thế nào để đạt được điều này?
+
+Thật thú vị rằng...
+
+...phát minh tài tình nhất của Archimedes là chiếc vít nâng nước. Theo Galileo, thiết bị này “không chỉ tráng lệ mà còn tuyệt vời, vì chúng ta thấy nước dâng lên trong trục vít, liên tục hạ xuống”. Ví dụ, trục vít Archimedes đã được sử dụng ở Ai Cập để nâng nước lên những nơi cao (đến độ cao lên tới 4 mét), nơi mà lũ sông Nile thường không tới được, vừa để thoát nước cho những vùng trũng thấp. ...kể từ thời những người theo Archimedes - Heron và Pappus - cơ học bắt đầu được coi là khoa học về những cỗ máy đơn giản: cánh cổng, đòn bẩy, khối hộp, cái nêm và con vít. Hai cái cuối cùng dựa trên các tính chất của mặt phẳng nghiêng, tuy nhiên, định luật tác dụng của nó mà bản thân Archimedes cũng không biết đến. ...bằng cách nghiên cứu trạng thái cân bằng của một sợi xích kín ném trên hai mặt phẳng nghiêng, nhà khoa học người Hà Lan Simon Stevin trong tác phẩm “Các nguyên lý tĩnh học” đã chứng minh rằng lực lăn một tải nhỏ hơn trọng lượng của nó nhiều lần cũng như chiều cao của mặt phẳng nhỏ hơn chiều dài của nó. ...trong một chuyên luận được biên soạn trong thời gian giảng dạy trước công chúng vào năm 1597-1598, Galileo, khi chưa biết định luật phân bố lực, đầu tiên coi một đòn bẩy, sau đó biến một cái nêm thành một đòn bẩy, một mặt phẳng nghiêng thành một cái nêm, và một cái vít thành một mặt phẳng nghiêng. ...Galileo thiết lập định luật rơi tự do của các vật bằng cách sử dụng một mặt phẳng nghiêng - một rãnh được lót bằng giấy da bóng ở bên trong, dùng nó để "giảm" gia tốc rơi tự do đi một số lần cho trước... ...bằng cách phân tích chuyển động trên một mặt phẳng "không đi xuống cũng không đi lên", Galileo đã tiết lộ đặc tính của các vật thể là duy trì tốc độ của chúng, mặc dù ông vẫn chưa tìm ra một công thức đầy đủ và chính xác về định luật quán tính mà Newton phải làm. ... trong khi nghiên cứu quá trình lăn một quả bóng “từ ngọn đồi này sang ngọn đồi khác”, Galileo cho rằng, theo thuật ngữ hiện đại, tốc độ đạt được khi đi xuống không phụ thuộc vào hình dạng của đường mà cơ thể di chuyển. Galileo tất nhiên không biết rằng tình huống này tuân theo định luật bảo toàn năng lượng, nhưng ông đã đoán trước định luật này và áp dụng nó trong những trường hợp đơn giản nhất là một vật rơi hoặc chuyển động trên mặt phẳng nghiêng và trong các thí nghiệm với con lắc. ... Galileo, sử dụng phương pháp hình học, đã xây dựng một lý thuyết về chuyển động dọc theo một mặt phẳng nghiêng và chuyển động dọc theo các dây của một đường tròn, cho thấy rằng dọc theo một cung của một đường tròn, nhỏ hơn hoặc bằng một phần tư đường tròn, một vật trượt nhanh hơn dọc theo một dây cung đang co lại. Bằng cách này, ông đã đoán trước được phát biểu bài toán về việc tìm kiếm đường đi xuống nhanh nhất - brachistochrone, bài toán, được giải quyết vào năm 1697 bởi Johann Bernoulli. Nhân tiện, phương trình của đường cong này, hóa ra là đường cycloid, được sử dụng trong thiết kế đường chạy xe trượt băng và tàu lượn siêu tốc. ... khi vặn một bu lông có bước ren 1 mm bằng cờ lê dài 30 cm, chúng ta đạt được sức mạnh gấp hai nghìn lần, điều này cho phép chúng ta buộc chặt các bộ phận một cách an toàn hoặc di chuyển các vật nặng lớn mà không cần nỗ lực nhiều. ...để tránh ô tô bay ra ngoài khi rẽ, đường ở những nơi này được làm nghiêng. Góc nghiêng chính xác tương ứng với bán kính quay vòng và tốc độ lái xe cụ thể mà giới hạn phải được đặt. Nhưng đường đua dành cho xe đạp có độ dốc thay đổi ở các ngã rẽ - có tính đến tốc độ khác nhau mà các vận động viên đạt được.
+
+⟦column⟧
+
+Đọc gì trong «Kvant» về mặt phẳng nghiêng
+
+(xuất bản những năm gần đây)
+
+1. “Tổ hợp bài toán trong cơ học” - 2003, Phụ lục số 6, tr. 92; 2. “Về động lực học của chuyển động cong” – 2005, số 2, tr. 30; 3. “Trọng tâm của một hệ cơ học” – 2006, số 2, tr. 25; 4. “Trang trình bày nào nhanh nhất?” – 2006, Phụ lục số 6, tr. 68; 5. “Và chiếc xe đi lên đồi…” – 2008, số 5, tr. 35; 6. “Cạm bẫy” của sức mạnh Archimedes” – 2009, số 2, tr.46.
+
+Tài liệu do A. Leonovich chuẩn bị
+
+⟦folio 40⟧
+
+KVANT 2009/№5
+
+Mặt Trăng đang nhìn về đâu?
+
+Các quan sát chỉ ra rằng quả bóng mặt trăng luôn hướng về Trái đất với một mặt chủ yếu. Nhưng tại sao, làm thế nào lại có đặc điểm nổi bật như vậy trong chuyển động của Mặt trăng? Nhà cơ khí và toán học nổi tiếng Lagrange là người đầu tiên đạt gần đáp số cho câu hỏi khó này. Trở lại năm 1764, ông đã xác định rằng "hình dạng của Mặt trăng phải là một hình elip với trục lớn nhất hướng về Trái đất < chúng tôi làm rõ rằng, nói đúng ra, trục này không hướng về Trái đất mà tạo ra những dao động nhẹ so với điểm của tiêu điểm thứ hai >. Và ngay cả khi ban đầu chu kỳ quay của Mặt trăng không trùng với chu kỳ quay quanh Trái đất, thì sau một thời gian, hai chu kỳ này lẽ ra phải bằng nhau do ảnh hưởng của lực hấp dẫn Trái đất và sự tiêu tán thủy triều liên quan về năng lượng quay của vệ tinh của chúng ta.” Trong cuốn Principia của mình, Newton viết: "...Kết quả của việc này... xảy ra là cùng một phía của Mặt trăng được quan sát từ Trái đất; ở một vị trí khác, vật thể của Mặt trăng không thể đứng yên mà sẽ liên tục quay trở lại vị trí này, dao động. Nhưng những dao động này, do lực tác dụng quá nhỏ, sẽ xảy ra rất chậm, do đó phía đáng lẽ phải liên tục hướng về Trái đất cũng có thể hướng về tiêu điểm khác của quỹ đạo Mặt Trăng...mà không bị kéo lại và quay về phía Mặt trăng ngay lập tức." Trái đất.” Chắc chắn, Newton đang nói ở đây về một hiệu ứng rất tinh tế: do sự hiệu chỉnh quang học, hình hơi dài của Mặt trăng cũng sẽ thực hiện những dao động xoắn rất nhỏ, nhưng không còn rõ ràng nữa mà thực sự xảy ra so với tâm khối lượng của nó. Đây là dự đoán đầu tiên về sự cân bằng vật lý của Mặt trăng. Nhưng đồng thời, Newton lại mô tả bản thân hiện tượng hiệu chỉnh quang học một cách quá mơ hồ, thậm chí mơ hồ. Thật vậy, từ câu nói của ông, được in nghiêng ở trên, không thể hiểu được làm thế nào mà mặt của Mặt trăng, vốn luôn hướng về Trái đất, lại có thể hướng về một tiêu điểm khác của quỹ đạo Mặt trăng. Rốt cuộc, khoảng cách giữa cả hai tiêu điểm của quỹ đạo Mặt trăng đạt giá trị 42207 km, gấp 3,3 lần đường kính Trái đất - không quá nhỏ. Vì vậy, lời nói của Newton còn khó hiểu hơn là làm sáng tỏ bản chất của vấn đề. Ở chỗ khác trong “Các nguyên tắc”, chúng ta đọc: “Vì đối với Mặt trăng, với chuyển động quay đều quanh trục của nó, một ngày bằng tháng của chúng ta, nên hầu như luôn luôn cùng một phía sẽ luôn hướng về tiêu điểm thấp hơn của quỹ đạo của nó…” “Hướng về phía dưới” có nghĩa là tiêu điểm thứ hai của quỹ đạo. Hình elip, như đã biết, có hai tiêu điểm: một tiêu điểm là tâm Trái đất (chính xác hơn là hệ Trái đất-Mặt trăng), và mặt khác, theo ý kiến ​​​​của Newton trình bày ở đây (in nghiêng), hầu như luôn luôn hướng về cùng một phía của Mặt trăng. Tuy nhiên, cụm từ này của Newton không tạo thêm bất kỳ sự chắc chắn nào cho tuyên bố đầu tiên. Làm thế nào bán kính đã chọn của Mặt trăng có thể gần như liên tục hướng về cùng một điểm trong không gian vũ trụ? Rốt cuộc, quá trình hiệu chỉnh quang học diễn ra liên tục. Và như bây giờ chúng ta sẽ thấy, trên thực tế, mọi thứ lại diễn ra theo chiều ngược lại: bán kính đã chọn của Mặt trăng hầu như luôn không hướng (!) Về điểm của tiêu điểm thứ hai, mà dao động tương ứng với hướng về phía nó. Tất nhiên, dựa trên những gì đã nói thì khó có thể nói
+
+⟦column⟧
+
+Tuy nhiên, khi nói về sai sót của Newton, sự hiểu lầm về bản chất của vấn đề liên quan đến hướng thực tế của bán kính đã chọn của Mặt trăng trong quá trình hiệu chuẩn quang học dọc theo kinh độ được thể hiện khá rõ ràng ở Newton. Không có cảm giác nào về đặc điểm rõ ràng chính xác của nhà khoa học vĩ đại này, người mà quyền lực vẫn cao bất thường. Không có gì đáng ngạc nhiên khi một số sự mơ hồ trong cách mô tả hiện tượng này cũng được tìm thấy trong các tài liệu khoa học phổ thông. Người phổ biến khoa học đáng chú ý Ya.I. Perelman trong cuốn sách “Thiên văn học giải trí” lần đầu viết: “... khi Mặt trăng ở vị trí E, bán kính của Mặt trăng hướng về Trái đất tại điểm A sẽ mô tả một cung tại $90^\circ$ và sẽ hướng ... đến một điểm ... không xa tiêu điểm khác của quỹ đạo mặt trăng." Và bên dưới chúng ta đọc: “...Mặt trăng luôn hướng về cùng một phía không phải với Trái đất mà là về một tiêu điểm khác trong quỹ đạo của nó…”. Ở đây cụm từ đầu tiên (đúng!) mâu thuẫn với cụm từ thứ hai. Nhà thiên văn học nổi tiếng người Nga V.I. Bronshten, trong cuốn sách đầy thông tin của mình “Mặt trăng chuyển động như thế nào”, đã trích dẫn mà không đưa ra bất kỳ bình luận nào về quan điểm nêu trên của Newton về bản chất chuyển động của Mặt trăng. Và ngay cả một nhà khoa học lỗi lạc, một chuyên gia về sự quay của Mặt trăng, Moutsoulas, trong chuyên khảo tập thể nổi tiếng “Vật lý và Thiên văn học của Mặt trăng” (dịch từ tiếng Anh), nói về dự đoán của Newton về sự cân bằng vật lý, cũng trích dẫn lời của ông, thật không may, mà không có bất kỳ bình luận phê phán nào.
+
+Vai trò bí mật của trọng tâm thứ hai
+
+Bất kỳ hình elip nào không suy biến thành đường tròn đều có hai tiêu điểm. Trong thiên văn học, định luật thứ nhất của Kepler phát biểu: tại một trong các tiêu điểm có một trung tâm thu hút - đối với các hành tinh thì đó là Mặt trời, đối với Mặt trăng là Trái đất, v.v. Điểm của tiêu điểm thứ hai đối với các hành tinh không đóng bất kỳ vai trò vật lý nào và chỉ đơn giản là một điểm hình học. Một tình huống khác nảy sinh khi mô tả chuyển động đồng bộ của Mặt trăng. Ở đây tiêu điểm thứ hai được phân biệt chính xác về mặt động học bởi thực tế là trục chính của Mặt trăng tạo ra những dao động nhẹ xung quanh hướng về phía nó. Vai trò của tâm điểm thứ hai cũng giống như các vệ tinh khác có chuyển động quay đồng bộ trong Hệ Mặt Trời. Tuy nhiên, trọng tâm thứ hai này không có bất kỳ ý nghĩa vật lý đặc biệt nào đối với bốn vệ tinh Galileo của Sao Mộc, vì nó nằm sâu bên trong Sao Mộc. Nhưng hệ thống Trái đất-Mặt trăng độc đáo ở chỗ chỉ ở đây điểm tiêu điểm thứ hai nằm xa Trái đất (hơn ba lần đường kính của nó), và không thể bỏ qua thực tế này trong cơ học thiên thể hiện đại nữa.
+
+⟦figure⟧
+
+Hình3. Hình elip lớn là quỹ đạo của Mặt trăng M (để rõ ràng, lực nén được phóng đại), P và A là các điểm cận điểm và viễn điểm, $f_{1}$ và $f_{2}$ là tiêu điểm của hình elip, tâm khối lượng của Trái đất-Mặt trăng nằm ở tiêu điểm đầu tiên. Hình elip nhỏ mô tả hình Mặt trăng
+
+⟦folio 51⟧
+
+Thế Vận Hội
+
+Người đạt được bằng tốt nghiệp Olympic
+
+Bằng tốt nghiệp của người chiến thắng ở 9 hạng đã được nhận bởi Alexey Pakharev - Ulyanovsk, nhà thi đấu 79, Victoria Malyasova - Rostov-on-Don, Lyceum kinh tế 14, Dmitry Egorov - St. Petersburg, FML 239, Dmitry Krachun - St. Petersburg, FML 239, Ekaterina Mukoseeva - St. Petersburg, FML 30;
+
+ở 10 lớp - Bondarenko Mikhail - St. Petersburg, FML 239, Erokhin Stanislav - St. Petersburg, FML 239, Kushnir Andrey - Irkutsk, Lyceum 2, Klimovitsky Joseph - St. Petersburg, FML 239, Popov Maxim - Nizhnekamsk, nội trú lyceum 24;
+
+ở 11 lớp - Nenashev Gleb - St. Petersburg, FML 239, Omelyanenko Victor - Belgorod, Lyceum 38, Gusev Daniil - Dzerzhinsk, trường 2 với nghiên cứu chuyên sâu về các môn học của chu trình vật lý và toán học, Ivanova Alina - Kazan, Lyceum được đặt theo tên. N.I. Lobachevsky tại KSU, Bragin Vladimir - Snezhinsk, nhà thi đấu 127.
+
+Bằng tốt nghiệp của người chiến thắng ở 9 lớp đã được nhận bởi Olga Burova - Moscow, Trường cấp hai Lyceum, Yaroslav Sergienko - Krasnodar, Viện Công nghệ và Kinh tế hiện đại, Aleksey Zavodov - Dolgoprudny, FML 5, Vladimir Yanushkovsky - Moscow, Trường cấp hai Lyceum, Nikita Kosinov - Ulyanovsk, Lyceum đa ngành 20, Titov Dmitry - Ust-Labinsk, trường 2, Kunyavsky Pavel - Saratov, FTL 1, Tsybyshev Alexey - Samara, nhà thi đấu 1;
+
+cho lớp 10 - Anton Bernstein - Novosibirsk, nhà thi đấu 1, Irina Gorbacheva - Krasnodar, lyceum 64, Vasily Mokin - Saratov, FTL 1, Isaac Evgeniy - Kurgan, trường 38, Alexey Balitsky - Zheleznogorsk, trường 11 với nghiên cứu chuyên sâu về từng môn học, Stepan Gorban - Moscow, SSC MSU, Kozachinsky Alexander - Moscow, Lyceum "Trường thứ hai", Berdnikov Alexander - Novosibirsk, nhà thi đấu 1, Boyarov Igor - Togliatti, Lyceum 51, Reshetnikov Ivan - Dolgoprudny, FML 5, Menshchikov Andrey - Kurgan, trường 38, Pologova Anna - Izhevsk, IEGL "Trường-30", Stepanov Boris - Ekaterinburg, nhà thi đấu 9, Votykov Alexander - Izhevsk, EML 29, Miftakhov Azat - Nizhnekamsk, nội trú lyceum 24, Struchkova Anna - Yakutsk, nội trú lyceum "Cộng hòa Lyceum", Ivlev Fedor - Moscow, SUSC MSU, Kupriyanov Alexander - Yaroslavl, trường 33 được đặt theo tên. K. Marx với nghiên cứu chuyên sâu về toán học, Nikita Bear - Moscow, Lyceum "Second School", Serbina Daria - Kurgan, gymnasium 47, Baglay Mikhail - St. Petersburg, Lyceum "FTSH", Glukhov Evgeniy - Kostroma, Lyceum 17,
+
+⟦column⟧
+
+Golova Anna - Moscow, SUSC MSU, Nikolaev Semyon - Moscow, Trung tâm Giáo dục "Trường thứ năm mươi bảy", Pechina Anna - Dolgoprudny, FML 5, Samolyuk Sergey - Tomsk, trường 41, Lamtyugin Alexey - Ulyanovsk, trường 21, Lysenko Nikolay - Moscow, Trung tâm Giáo dục "Trường thứ năm mươi bảy";
+
+ở 11 lớp - Sokolov Vyacheslav - St. Petersburg, nhà thi đấu 261, Savenkov Kirill - St. Petersburg, FML 239, Matdinov Marcel - Moscow, SUSC MSU, Pogorelov Dmitry - Nizhny Novgorod, Lyceum 165 được đặt tên theo lễ kỷ niệm 65 năm thành lập GAZ, Tyshchuk Konstantin - St. Petersburg, FML 239, Tsarkov Oleg - Moscow, Lyceum "Trường thứ hai", Nechaev Stanislav - Irkutsk, Nhà thi đấu 25, Shabalin Philip - Kirov, KFML, Bershadsky Efim - Moscow, SUSC MSU, Aksenov Vitaly - St. Petersburg, FML 239, Yanushevich Leonid – Moscow, trung tâm giáo dục “Công nghệ giảng dạy”, Alexander Antropov – Perm, trường 146 với nghiên cứu chuyên sâu về toán học, vật lý, khoa học máy tính, Anton Gusev – Omsk, lyceum 64, Alexey Kuvshinov – Izhevsk, EML 29, Vitaly Sivolobov – Tomsk, lyceum tại Đại học Bách khoa Tomsk, Ivan Yaroslavtsev – Moscow, SESC MSU, Glyuz Boris - Maikop, phòng tập thể dục 22, Kalashnik Anna - Moscow, SESC MSU, Krul Yaroslav - Ufa, trường 42 với nghiên cứu chuyên sâu về từng môn học, Nizhibitsky Evgeniy - Krasnodar, trường 73, Ustinov Nikita - St. Petersburg, FML 239, Kondkova Elizaveta - Moscow, Lyceum "Sparrow Hills", Cherkashin Danila - St. Petersburg, Lyceum 533, Aduenko Alexander - Bryansk, nhà thi đấu 1, Krasnov Dmitry - Vùng Kurgan, làng Zaozerny, nhà thi đấu 19, Lobastov Stepan - Kirov, FML, Lukyanets Evgeniy - St. Petersburg, FML 239, Orlov Oleg - Perm, trường 146 với nghiên cứu chuyên sâu về toán, vật lý, khoa học máy tính, Popov Leonid - Perm, trường 146 với nghiên cứu chuyên sâu về toán, vật lý, khoa học máy tính, Sungorkin Maxim - Cheboksary, lyceum 3, Gilman Mikhail - St. Petersburg, lyceum 533, Dukhov Kirill - Zhukovsky, nhà thi đấu 1, Kirill Mayantsev - Volgorechensk, trường 3, Nikiforov Dyulustan - Yakutsk, nội trú lyceum "Republican Lyceum", Andrey Ploskonosov - Kaluga, trường 6 được đặt theo tên. BẰNG. Pushkina, Rogulenko Sergey - Saratov, FTL 1, Sochnev Sergey - Maikop, nhà thi đấu 22, Shershnev Alexey - Gatchina, lyceum 3, Kokurin Mikhail - Yoshkar-Ola, trường 20, Koltsov Ivan - Yaroslavl, trường 33 được đặt theo tên. K. Marx với sự nghiên cứu chuyên sâu về toán học.
+
+Ấn phẩm được biên soạn bởi N. Agakhanov, I. Bogdanov, P. Kozhevnikov, O. Podlipsky, D. Tereshin
+
+⟦folio 56⟧
+
+KVANT 2009/№5
+
+Danil Grigoriev - Izhevsk, Kinh tế và Toán học Lyceum 29, Aleksey Alyushin - Moscow, SUNG MSU, Lev Tolmachev - Moscow, trường 192, Nina Kudryashova - Biysk, Biysk Lyceum của Lãnh thổ Altai, Anton Sobolev - St. Petersburg, FTS Lyceum, Vladislav Zemlyanov - Urai, phòng tập thể dục.
+
+Chúng tôi đã nhận được bằng tốt nghiệp của người chiến thắng trong 9 lớp
+
+Shuranov Dmitry - Ufa, nhà thi đấu 3 được đặt theo tên. LÀ. Gorky, Anton Churilov - Efremov, Efremov Vật lý và Toán học Lyceum, Andrey Zanochkin - Sarov, Lyceum 15, Alexey Akinschikov - Veliky Novgorod, trường 23, Pavel Nikitenkov - Smolensk, Nhà thi đấu. N.M. Przhevalsky, Bubis Anton - Tatarstan, FML 131, Shel Egor - Tyumen, trường 29, Goloveshkin Alexander - Moscow, lyceum 1303, Prokofiev Vadim - Ryazan, trường 3, Dekhtyarenko Yaroslav - Bryansk, trường 41, Luchnikov Ilya - Kirov, trường 21, Gamov Artemy – Sarov, lyceum 15, Bogdanov Svyatoslav – St. Petersburg, FML 239, Shumkov Anton – Omsk, nhà thi đấu 117, Tsybrov Fedor – Cộng hòa Komi, nhà thi đấu, Andrey Ionov – Moscow, Trung tâm Giáo dục “Trường học thứ năm mươi bảy”;
+
+cho lớp 10 - Nikolaev Egor - Cộng hòa Mari El, trường Bách khoa nội trú lyceum, Alekseyev Aleksey - Biysk, Biysk Lyceum của Lãnh thổ Altai, Stroynov Evgeniy - Moscow, SUSC MSU, Baynev Vitaly - Saransk, lyceum 43, Kachalov Vyacheslav - Moscow, trường nội trú "Trí tuệ", Konovalov Alexander - Dolgoprudny, Lyceum 5 "Fizmat", Lavrov Petr - Perm, trường 146, Anaskin Victor - Biysk, Biysk Lyceum của Lãnh thổ Altai, Kazeev Nikita - St. Petersburg, Lyceum "FTSh", Davydov Ivan - St. Petersburg, Lyceum "FTSh", Starichkov Nikita - Kaluga, trường 46, Artamonov Dmitry - Sarov, Lyceum 15, Sadkov Victor - Saratov, FTL 1, Svetogorov Alexander - Kaluga, nhà thi đấu,
+
+⟦column⟧
+
+Razumov Dmitry - Nizhny Novgorod, Lyceum 40, Kostin Petr - Belgorod, Lyceum 38, Ofenheim Dmitry - St. Petersburg, Lyceum "FTSH", Kurochkin Nikita - Cheboksary, Lyceum 3, Popov Fedor - Perm, trường 146, Kim Alexander - Cộng hòa Sakha (Yakutia), Lyceum của Đảng Cộng hòa, Rykov Andrey - Snezhinsk, phòng tập thể dục 127, Shustikova Anna - Zarechny, lyceum 230, Margaritov Artemy - Yaroslavl, trường 33 được đặt theo tên. K. Marx, Bebekh Ilya - Cộng hòa Komi, Trường nội trú Vật lý và Toán học Cộng hòa Lyceum, Perevoshchikov Denis - Kirov, trường 21, Thomas Pavel - Novosibirsk, Lyceum 130 được đặt theo tên. M.A. Lavrentieva, Mikhail Belyanchikov - Mezhdurechensk, nhà thi đấu 20, Nikolay Smirnov - Novosibirsk, nhà thi đấu 3, Andrey Komendatyan - Samara, Trường Vật lý và Âm nhạc;
+
+cho lớp 11 –
+
+Kravchuk Petr - St. Petersburg, Lyceum "FTSH", Usmanova Dinara - Miass, Lyceum 6, Svetkin Mikhail - Moscow, SUSC MSU, Kostarev Ilya - St. Petersburg, Lyceum 533, Tsymbalov Ivan - Tver, Lyceum 35 CTCP "Đường sắt Nga", Fadeev Alexey - Novocheboksarsk, Lyceum 18, Starkov Grigory - Noyabrsk, trường học 7, Obidina Yana - Orenburg, nhà thi đấu 3, Kazeev Alexander - Petropavlovsk-Kamchatsky, trường 33, Bersenev Nikita - Moscow, Trung tâm Giáo dục 1925, Tregubov Dmitry - Kirov, FML, Safoshkin Alexey - Ryazan, nhà thi đấu 2 được đặt theo tên. I.P. Pavlova, Andrey Bychin - Biysk, Biysk Lyceum của Lãnh thổ Altai, Mikhailova Anastasia - Orenburg, nhà thi đấu 3, Vlasyuk Alexander - Novosibirsk, SUSC NSU, Levdik Pavel - Chelyabinsk, lyceum 39, Liberzon Daniil - Kirov, FML, Doroshenko Andrey - Omsk, lyceum 92, Dubov Alexander - Vologda, Lyceum đa ngành Vologda, Kiyan Sergey - Tambov, Lyceum 14, Kuznetsov Ivan - Moscow, SUSC MSU, Lisitsky Dmitry - Beloretsk, Trường Máy tính, Thủy thủ Mikhail - Novovoronezh, trường 2.
+
+Ấn phẩm được biên soạn bởi S. Kozel, V. Slobodyanin
+
+ĐI BỘ VỚI VẬT LÝ
+
+Cơ thể nặng hơn hay ít hơn trên núi?
+
+(Xem phần mở đầu trang 4 của bìa)
+
+... Ở vùng núi, mật độ không khí và cùng với đó là lực của Archimedes có thể giảm đáng kể. Những phép tính khá đơn giản (bạn tự thực hiện) cho thấy trọng lượng của các vật có khối lượng riêng, ví dụ bằng 1/3 khối lượng riêng của nước, không giảm mà tăng khi chiều cao tăng lên. Vì vậy, trọng lượng của bọt polystyrene, có mật độ khoảng $50 кг/м^{3}$, sẽ tăng lên khi bạn leo núi. Tất nhiên, đối với một viên gạch, một quả nặng và một con người, kết luận rút ra trong hầu hết các sách giáo khoa vẫn đúng. K. Bogdanov
