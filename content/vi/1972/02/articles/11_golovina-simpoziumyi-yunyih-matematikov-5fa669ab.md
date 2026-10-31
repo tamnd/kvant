@@ -14,34 +14,16 @@ tag: 0R1U
 lang: vi
 source: kvant_digital
 extraction: vision
-content_sha256: f37a89f48394d353d78305b2229840dcf00da86b1a3eab016f7a485640b85049
+content_sha256: 71b838b80a5c10c957c9edfb8efe636723ef1f02e20bdb5ed06f472a49a8dc5e
 prompt_sha256: draft-1
 translated_from: content/ru/1972/02/articles/11_golovina-simpoziumyi-yunyih-matematikov-5fa669ab.md
-source_content_sha256: 91e9a82a3e2b8a5340a48bb495e7c0638818c93d952602406eb670459b704ed6
+source_content_sha256: eb3311e86af9a4a57a36ec2aa67fd1e15e2e4040a38363a4583c2f42c5f2c1ed
 translation_model: draft
 translation_run: vi-draft-2026-10-31
 translation_quality: draft
 ---
 
 ⟦folio 41⟧
-
-SVM vuông. Nhưng $S_{\triangle ABN} = S_{\triangle CBN}$, vì điểm $N$ nằm trên đường trung tuyến. Vì vậy, $S_{\triangle ABM} < S_{\triangle CBM}$. Và chúng tôi giả định rằng $S_{\triangle ABM} = S_{\triangle CBM}$. Chúng tôi có một sự mâu thuẫn. Vấn đề được giải quyết hoàn toàn.
-
-Hãy suy nghĩ về cách sử dụng nó để giải bài toán tiếp theo, chuyển sang bài toán 20.
-
-24.* Chứng minh rằng nếu phần bên trong của tứ giác ABCD có cực đại O thì các đoạn OA, OB, OC, OD chia tứ giác đó thành bốn
-
-Cơm. 14.
-
-các phần có kích thước bằng nhau thì ít nhất một đường chéo của nó chia đôi đường chéo kia. Viết và chứng minh định lý ngược lại.
-
-25. Trên các cạnh của góc A có các điểm B và C. Kẻ một đường thẳng đi qua trung điểm K của đoạn BC, cắt các cạnh của góc tại các điểm D và E. Chứng minh diện tích tam giác ADE lớn hơn diện tích tam giác ABC.
-
-Lời giải trong số này bài toán cho phép thông qua một điểm nhất định bên trong một góc nhất định để vẽ một đường thẳng từ góc của tam giác có diện tích nhỏ nhất có thể. Hãy suy nghĩ về cách thực hiện việc này.
-
-26. Trong trang này ABCD (BC || AD) vẽ đường chéo AC (Hình 14). Đường thẳng song song với hai đáy phải cắt nhau ở độ cao nào để tổng diện tích của các tam giác AKL và LMC nhỏ nhất (K, L và M là giao điểm của đường thẳng với các đoạn AB, AC và CD tương ứng)?
-
-27*. Các cạnh công nghiệp của lục giác lồi ABCDEF song song với nhau. Chứng minh rằng diện tích tam giác ACE ít nhất bằng nửa diện tích lục giác.
 
 HỘI NGHỊ
 TOÁN HỌC TRẺ

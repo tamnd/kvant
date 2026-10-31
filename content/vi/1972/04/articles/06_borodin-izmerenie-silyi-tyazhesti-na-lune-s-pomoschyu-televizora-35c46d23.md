@@ -14,30 +14,16 @@ tag: ZWNT
 lang: vi
 source: kvant_digital
 extraction: vision
-content_sha256: 9e9243d09a0b085f42a6fb10806754458096c0832a49c3c394ed2b3c7f7676ff
+content_sha256: bd5d681cad11d0093fa43341320337037f9c41eaa408814400370d96465c4764
 prompt_sha256: draft-1
 translated_from: content/ru/1972/04/articles/06_borodin-izmerenie-silyi-tyazhesti-na-lune-s-pomoschyu-televizora-35c46d23.md
-source_content_sha256: 2d877095a10b2bb6f326c4b2da0da4f40e148b73ac86d58cda9ce4154b70fb4f
+source_content_sha256: 302e875dbc970e9eccf47caf1281faa8c75a9853637befb5c68c20150e658edf
 translation_model: draft
 translation_run: vi-draft-2026-10-31
 translation_quality: draft
 ---
 
 ⟦folio 18⟧
-
-để chùm tia sáng truyền qua thấu kính phù hợp với mắt.
-
-Nếu chúng ta so sánh hai điện thoại có đường kính thấu kính $D_1$ và $D_2$ ($D_1 > D_2$), thì điện thoại lớn hơn sẽ tăng quang thông bằng tỷ lệ $\frac{D_1^2}{D_2^2}$; đồng thời, nó mang lại độ phân giải tăng $\frac{D_1}{D_2}$ lần. Tất nhiên, mức tăng như vậy có thể đạt được trong trường hợp ống kính chất lượng cao và trong điều kiện khí quyển khá tốt.
-
-Chúng ta thường nghĩ điện thoại là sự kết hợp của các thành phần quang học chất lượng cao mà quên rằng điện thoại thiên văn là một phần kỹ thuật cực kỳ phức tạp, kết hợp độ chính xác quang học cao với thiết kế cơ học hoàn hảo. Chưa hết, thiết bị điện thoại còn dựa trên những nguyên lý vật lý đơn giản. Cuộc thảo luận về những nguyên tắc này là trọng tâm của bài viết này.
-
-Bài tập
-
-1. Có thể nhìn thấy Lunar Rover của Liên Xô ($H \approx 1\text{ m}$) trên bề mặt Mặt trăng bằng điện thoại lớn nhất thế giới ($D=5\text{ m}$) không? Kích thước của các chi tiết bề mặt chùm tia có thể được nghiên cứu bằng điện thoại như vậy là bao nhiêu?
-
-2. Trong vòng tròn vật lý của trường, một kính thiên văn Kepler đã được chế tạo, vật kính của nó là một thấu kính có tiêu cự $F=50\text{ cm}$ và đường kính $D=75\text{ mm}$. Tiêu cự của thị kính là bao nhiêu nếu khi quan sát bằng ống kính Kepler, Mặt trăng sáng kém hơn 8 lần so với khi quan sát bằng mắt thường? Độ mất ánh sáng trong ống là 50%. Đường kính của lỗ được lấy là 3 mm. Trường hợp này nên sử dụng thị kính nào?
-
-3. Một người quan sát quan sát một vật ở xa bằng ống Kepler. Một thấu kính có tiêu cự $F_1=30\text{ cm}$ và $F_2=5\text{ cm}$ được dùng làm vật và thị kính của ống. Người quan sát nhìn thấy ảnh rõ của vật nếu khoảng cách giữa thấu kính và thị kính không nhỏ hơn $L_1=33\text{ cm}$ và không lớn hơn $L_2=34,5\text{ cm}$. Ở những khoảng cách khác nhau, thấu kính quan sát được này có nhìn thấy vật thể bằng mắt thường không?
 
 ĐO LƯỜNG
 TRỌNG LỰC

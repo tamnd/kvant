@@ -13,34 +13,16 @@ tag: 4X43
 lang: vi
 source: kvant_digital
 extraction: vision
-content_sha256: e988b6c189aae46152a7c3964ed529c34be0439e951097b0dfe47590fffb9ff7
+content_sha256: 5ebe2c0f49b60bf02eb1aa824e8bdbd3c71c498f2023ff069136fb86f70fcaac
 prompt_sha256: draft-1
 translated_from: content/ru/1972/04/articles/11_rozov-istoriya-sovershennyih-chisel-prodolzhaetsya-e0b01d60.md
-source_content_sha256: dde9a7c0bafbab200b0dd7b7c18a90aaf63aad37c9d1f00f878908d9981267f7
+source_content_sha256: aaa133e5a62df212c1bdbc68801439bae0a45edd2a685e0b5e8fbbc34acd9185
 translation_model: draft
 translation_run: vi-draft-2026-10-31
 translation_quality: draft
 ---
 
 ⟦folio none⟧
-
-đẳng thức $OH \leq \frac{R^2}{2r}$, trong đó $O$ là tâm của đường tròn ngoại tiếp tam giác, $R$ là bán kính của đường tròn này, $H$ là trực tâm của tam giác, $r$ là bán kính của đường tròn nội tiếp. (Trực tâm của một tam giác là giao điểm của các đường cao hoặc phần kéo dài của chúng.)
-
-Bài tập 3. Chứng minh rằng $AB \cdot CD + BC \cdot DA \geq CA \cdot BD$, trong đó $A, B, C, D$ là các điểm tùy ý của mặt phẳng.
-
-Bài 4. Chứng minh rằng $AB \cdot AM \cdot BM + BC \cdot BM \cdot CM + CA \cdot CM \cdot MA \geq AB \cdot BC \cdot CA$.
-
-Bài tập 5. Từ điểm destvo $\frac{a}{(a-b)(a-c)(a-d)} + \frac{b}{(b-c)(b-d)(b-a)} + \frac{c}{(c-d)(c-a)(c-b)} + \frac{d}{(d-a)(d-b)(d-c)} = 0$ suy ra bất đẳng thức $OA \cdot BC \cdot BD \cdot CD + OB \cdot CA \cdot CD \cdot AD + OC \cdot AB \cdot AD \cdot BD \geq OD \cdot AB \cdot BC \cdot CA$, trong đó $O, A, B, C, D$ là các điểm tùy ý (khác nhau) của mặt phẳng.
-
-Gợi ý
-
-1) Đẳng thức đúng cho các điểm $O, A, B$ nằm trên cùng một đường thẳng.
-
-2) Lợi dụng thực tế là nếu $H$ là trực tâm của tam giác $ABC$ và tâm của đường tròn ngoại tiếp tam giác trùng với gốc tọa độ, thì $h = a + b + c$ ($a, b, c, h$ là số phức tương ứng với các điểm $A, B, C, H$). Lưu ý rằng $h - a = k_1(b + c)$, $h - b = k_2(c + a)$, $h - a = k_3(a + b)$, trong đó $k_1, k_2, k_3$ là số thực. Từ hệ thống này, nó tuân theo $k_1 = k_2 = k_3 = 1$.
-
-3) Hãy xem xét danh tính $(m - a)(b - c) + (m - b)(c - a) + (m - c)(a - b) = 0$.
-
-4) Hãy xem xét danh tính $(m - a)(m - b)(a - b) + (m - b)(m - c) \times (b - c) + (m - c)(m - a)(c - a) = (a - b)(b - c)(c - a)$.
 
 LỊCH SỬ CỦA CÁC CON SỐ HOÀN HẢO TIẾP TỤC
 

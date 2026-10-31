@@ -9,16 +9,16 @@ authors:
 rubric: matematicheskiy-kruzhok
 rubric_sub: Математический кружок
 page_first: 38
-page_last: 40
+page_last: 41
 page_labels: 36-38
 tag: 52NA
 lang: vi
 source: kvant_digital
 extraction: vision
-content_sha256: 881fa0f3f27810f2d9b4e9e08d883aa5f2425cac706880a691cd0418c763a975
+content_sha256: d6454759192a07598126865f449a675fd1c9062e0135ba7caa052eb586c8a784
 prompt_sha256: draft-1
 translated_from: content/ru/1972/04/articles/10_skopets-primenenie-algebraicheskih-tozhdestv-k-polucheniyu-geometricheskih-neravenstv-95fd673a.md
-source_content_sha256: af048f2f7ad4ebbbdb519272de45d4065618dbc264fa13ee8fe7a3c195644c3a
+source_content_sha256: c85c9baf41a8064edec57255887c04a8335818eb3188fb478db6c536ecd98ad4
 translation_model: draft
 translation_run: vi-draft-2026-10-31
 translation_quality: draft
@@ -113,3 +113,23 @@ Vì vậy, với mọi tam giác không tù bất đẳng thức (9) đều đú
 IV. Bài toán dành cho độc lập lời giải.
 Bài tập 1. Rút ra từ điểm $a^2 - b^2 = (a+b)(a-b)$ bất đẳng thức $2OM \cdot AB \geqslant OA^2 - OB^2,$ trong đó $M$ là trung điểm, $AB, O$ là gốc tọa độ, $a, b$ là các số tương ứng với các điểm $A, B$. Tìm hiểu khi nào nó biến thành sự bình đẳng.
 Bài 2. Suy ra từ điểm $a^3(b-c) + b^3(c-a) + c^3(a-b) = -(a+b)(a-b)(b-c)(c-a)$ không đều
+
+⟦folio none⟧
+
+đẳng thức $OH \leq \frac{R^2}{2r}$, trong đó $O$ là tâm của đường tròn ngoại tiếp tam giác, $R$ là bán kính của đường tròn này, $H$ là trực tâm của tam giác, $r$ là bán kính của đường tròn nội tiếp. (Trực tâm của một tam giác là giao điểm của các đường cao hoặc phần kéo dài của chúng.)
+
+Bài tập 3. Chứng minh rằng $AB \cdot CD + BC \cdot DA \geq CA \cdot BD$, trong đó $A, B, C, D$ là các điểm tùy ý của mặt phẳng.
+
+Bài 4. Chứng minh rằng $AB \cdot AM \cdot BM + BC \cdot BM \cdot CM + CA \cdot CM \cdot MA \geq AB \cdot BC \cdot CA$.
+
+Bài tập 5. Từ điểm destvo $\frac{a}{(a-b)(a-c)(a-d)} + \frac{b}{(b-c)(b-d)(b-a)} + \frac{c}{(c-d)(c-a)(c-b)} + \frac{d}{(d-a)(d-b)(d-c)} = 0$ suy ra bất đẳng thức $OA \cdot BC \cdot BD \cdot CD + OB \cdot CA \cdot CD \cdot AD + OC \cdot AB \cdot AD \cdot BD \geq OD \cdot AB \cdot BC \cdot CA$, trong đó $O, A, B, C, D$ là các điểm tùy ý (khác nhau) của mặt phẳng.
+
+Gợi ý
+
+1) Đẳng thức đúng cho các điểm $O, A, B$ nằm trên cùng một đường thẳng.
+
+2) Lợi dụng thực tế là nếu $H$ là trực tâm của tam giác $ABC$ và tâm của đường tròn ngoại tiếp tam giác trùng với gốc tọa độ, thì $h = a + b + c$ ($a, b, c, h$ là số phức tương ứng với các điểm $A, B, C, H$). Lưu ý rằng $h - a = k_1(b + c)$, $h - b = k_2(c + a)$, $h - a = k_3(a + b)$, trong đó $k_1, k_2, k_3$ là số thực. Từ hệ thống này, nó tuân theo $k_1 = k_2 = k_3 = 1$.
+
+3) Hãy xem xét danh tính $(m - a)(b - c) + (m - b)(c - a) + (m - c)(a - b) = 0$.
+
+4) Hãy xem xét danh tính $(m - a)(m - b)(a - b) + (m - b)(m - c) \times (b - c) + (m - c)(m - a)(c - a) = (a - b)(b - c)(c - a)$.
