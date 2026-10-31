@@ -1,0 +1,63 @@
+---
+id: 1976-11-andrade-kak-ustroeno-atomnoe-yadro-34a6b0f2
+issue: kvant_1976_11
+year: 1976
+number: "11"
+title: How does the atomic nucleus work?
+authors:
+  - Андраде Э. Н.
+rubric: raznoe
+page_first: 32
+page_last: 32
+page_labels: "30"
+tag: LH5S
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 1dbe0ea5b56ef0d528d39063b69f3287b4eec7ce232d2900d330799fdc452953
+prompt_sha256: draft-1
+translated_from: content/ru/1976/11/articles/10_andrade-kak-ustroeno-atomnoe-yadro-34a6b0f2.md
+source_content_sha256: 779e41ae8d0703d429e9a7cf2d4bf0c16754ee1dffa9a273b5ea8bfb149777b9
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 30⟧
+
+On which opposite sides lie, at three points located on the same straight line; 6) tangents to the circle circumscribed about the triangle, drawn at the vertices of the triangle, intersect the lines on which the opposite sides of the triangle lie at three points belonging to the same line.
+
+2. On sides AB, BC and CA of triangle ABC, points C1, A1 and B1 are taken so that lines AA1, BB1 and CC1 intersect at one point. Prove that if $\overrightarrow{A1B1} = 90^\circ$, then $A1B1$ is a bissertis of the angle AA1C.
+
+3. Prove that the perpendiculars raised to the bissertics of a triangle at their midpoints intersect the sides of the triangle (or extensions of the sides) on which the bissertics corresponding to these perpendiculars are dropped, at three points lying on the same straight line.
+
+4. The circle intersects side AB of triangle ABC at points C1 and C2, side BC at points A1 and A2, side CA at points B1 and B2. Prove that if lines AA1, BB1 and CC1 intersect at one point, then lines AA2, BB2, CC2 also intersect at one point.
+
+5. Given three disjoint circles. For each pair of circles, the intersection point of common external tangents and the intersection point of common internal tangents are determined. Prove that the resulting six points are located on three lines, three points on each.
+
+6. Points C1, A1 and B1 are taken on sides AB, BC and CA of triangle ABC. Let C2 be the point of intersection of lines AB and A1B1, A2 be the point of intersection of lines BC and B1C, B2 be the point of intersection of lines AC and A1C. Prove that if lines AA1, BB1, CC1 intersect at one point, then points A2, B2, C2 lie on the same line.
+
+7. The line intersects sides AB, BC and the extension of side AC of triangle ABC at points D, E and F. Prove that the midpoints of the segments DC, AE and BF lie on the same line.
+
+8. In convex quadrilateral ABCD: $\overrightarrow{ADB} = 26^\circ$, $\overrightarrow{BCD} = 51^\circ$, $\overrightarrow{BCA} = 13^\circ$, $\overrightarrow{ACD} = 73^\circ$. Find $\overrightarrow{ABD}$.
+
+9. Point K is taken on side AC of triangle ABC, and point P is taken on median BD so that the area of ​​triangle BPC is equal to the area of ​​triangle APK.
+
+Determine the geometric location of the intersection points of lines AP and BK.
+
+10. Given triangle ABC. Let's define points A1, B1 and C1 as follows. Point A1 is the midpoint of the chord cut out on side BC by the circle tangent to sides BA and CA of triangle ABC. Similarly, B1 is the midpoint of the chord cut out on side AC by a circle tangent to sides AC and BC. The arcs of all three circles located inside the triangle correspond to equal central angles. Prove that lines AA1, BB1, CC1 intersect at one point.
+
+11. The corresponding points K, L, M, N are taken on the edges AB, BC, CD and DA of the quadrilateral ABCD. Prove that for the figure KLMN to be a flat quadrilateral, it is necessary and sufficient for the following condition to be satisfied:
+$$|AK| \cdot |BL| \cdot |CM| \cdot |DM| = |KB| \cdot |LC| \cdot |MD| \cdot |NA|.$$
+
+12. A circle is drawn through vertices A and B of quadrilateral ABCD. Lines AD and BC have a secondary intersection of the circle at points K and L, and lines AC and BD - at points M and N. Prove that lines KL, MN and CD intersect at the same point or are parallel.
+
+How does the atomic nucleus work?
+
+In 1937, an employee of the British Foreign Office, Colonel J. Moore-Brabazon, contacted the editors of the English magazine “Nature” with an attempt to talk about some unknown features of the structure of the atomic nucleus. The Colonel was answered by Professor Andrade, a famous physicist and author of many popular books and articles. We decided to bring this interesting correspondence to the attention of our readers. Translation and preparation of the publication by V. Berezny.
+
+This is what Moore-Brabazon wrote in his letter:
+
+“At least one of the popular scientists could explain how to overcome the difficulties that physics lovers have in understanding the modern picture of the structure of the atom. We know that it is very approximate. We know that the laard ball is not suitable as a model of an atom. Recent experiments on atom bombardment have made it possible to construct a general rough scheme. Heisenberg, with his uncertainty principle, raises doubts about its correctness. But we would not like explanations to rely on quantum mechanics; we would also consider explanations as an “unfriendly action.”
+
+(Continued on page 42)

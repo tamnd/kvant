@@ -1,0 +1,32 @@
+---
+id: 1976-8-berezin-pauk-geometr-1a807b91
+issue: kvant_1976_8
+year: 1976
+number: "8"
+title: Geometric spider
+authors:
+  - Березин В. Н.
+rubric: smes
+page_first: 68
+page_last: 68
+tag: YFAT
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: a17b104a446329b8811f29bc7cc9caffe62bc23157a0a98c4c0e95c39c1615b3
+prompt_sha256: draft-1
+translated_from: content/ru/1976/08/articles/01_berezin-pauk-geometr-1a807b91.md
+source_content_sha256: e1b2019a308977ea7235d6e012237c77f84ffbc05fcf186477a339848f2ccf08
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+SPIDER-GEOMETER
+
+The lace, woven with a cross stitch, clearly has the shape of a spiral. (More precisely, this is a set of chords of a certain spiral.) What kind of spiral is this? If you believe the famous French naturalist J. A. Fabre (1823-1915), crosses weave an equiangular (also known as logarithmic) spiral. This is a continuous curve that intersects at the same angle α all radii vectors emanating from a common origin O. Chords belonging to the same angle are parallels. This is a sign by which an equiangular spiral can be recognized (however, it is not sufficient). A web can also be obtained this way: we build concentric circles, draw rays and chords from their common center, connecting the points of intersection of the rays closest to each other with the circles. Chords belonging to the same angle will be parallels. In order to get a spiral, all that remains is not to close the broken line into a polygon at one corner, but to make a transition to the neighboring “polygon”.
+Which interpretation do you consider more suitable for the creativity of paykov geometers?
+
+V. Berezin

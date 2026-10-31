@@ -1,0 +1,44 @@
+---
+id: 1976-6-mochalov-piramida-iz-domino-ac2beb0c
+issue: kvant_1976_6
+year: 1976
+number: "6"
+title: Domino pyramid
+authors:
+  - Мочалов Л. П.
+rubric: smes
+page_first: 29
+page_last: 29
+page_labels: "27"
+tag: 0IB3
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: e571d1aeef4ff10be6762f4276d6886223eb9bce0e3ba7e00e82e1bc9dd4f3e2
+prompt_sha256: draft-1
+translated_from: content/ru/1976/06/articles/07_mochalov-piramida-iz-domino-ac2beb0c.md
+source_content_sha256: 0ab03158b449786e4985bfb22dbc3ba868d53c8a12a8d665fded9ab0d24b5556
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 27⟧
+
+SHGRAMSHDA FROM DEMISHD
+
+Arrange the domino set
+(28 bones) in the form of a pyramid
+(see figure), observing the following conditions.
+1. In each line the amount
+glasses on the bone should
+
+be an exact square.
+2. In the lines the bones are placed
+given according to the rule
+domino games: 0 to 0, 1 to 1
+etc.
+
+L. Mochalov
+
+27

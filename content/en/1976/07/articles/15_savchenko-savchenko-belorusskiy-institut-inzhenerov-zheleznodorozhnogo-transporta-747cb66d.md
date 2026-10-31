@@ -1,0 +1,135 @@
+---
+id: 1976-7-savchenko-savchenko-belorusskiy-institut-inzhenerov-zheleznodorozhnogo-transporta-747cb66d
+issue: kvant_1976_7
+year: 1976
+number: "7"
+title: Belarusian Institute of Railway Transport Engineers
+authors:
+  - Савченко Н.
+  - Савченко Л.
+rubric: ekzamenatsionnye-materialy
+page_first: 42
+page_last: 44
+page_labels: 40, 42
+tag: SLNU
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: ed7f21590177b36a7f4999364435b18544f1979ea8b1523357e7b050d15f00c6
+prompt_sha256: draft-1
+translated_from: content/ru/1976/07/articles/15_savchenko-savchenko-belorusskiy-institut-inzhenerov-zheleznodorozhnogo-transporta-747cb66d.md
+source_content_sha256: 32e065d7c0ced94d6b326dac3c4f5d1558ce2d39f77560ab3a1fee355cd42622
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 40⟧
+
+Belarusian Institute of Railway Transport Engineers
+
+The Belarusian Institute of Railway Transport Engineers provides all conditions for the training of highly qualified railway and construction engineers. The institute has 97 laboratories and classrooms equipped with modern equipment, a computer center with modern electronic computers, an educational and scientific-technical library with a fund of about 500 thousand books. The institute is located in Gomel - one of the most beautiful cities in Belarus.
+
+The institute has five faculties of ancient education: the mechanical faculty with the specialty “talk locomotives and locomotive facilities” (design, operation and repair of freight locomotives and locomotive facilities), “carriage building and carriage facilities” (design, construction and operation of carriages and carriage facilities); Faculty of Electrical Engineering with the specialty “automation, telemechanics and communications in railway transport” (design, construction and operation of automation and telemechanics devices), “information transmission systems” (design, construction and operation of communication devices and information transmission systems in railway transport); Faculty of Electrical Engineering with a specialty in “construction of railways, track and track facilities” (research, design, construction and maintenance of railway tracks and structures); Faculty of Industrial and Civil Engineering with a specialty in “design and construction of industrial and civil buildings and structures.”
+
+The evening faculty trains engineers in the following specialties: “locomotive and locomotive facilities”, “car building and carriage facilities”, “automation and telemechanics in railway transport”, “industrial and civil construction”.
+
+The correspondence faculty trains engineers in the following specialties: “talk locomotives and locomotive facilities”, “automation, telemechanics and communications in railway transport”, “car building and carriage facilities”, “operation of railways, track and track facilities”,
+
+“Economics and organization of railway transport”, “Industrial and civil construction”.
+
+Duration of study at the institute: at two faculties - 5 years, at evening and part-time courses - 6 years.
+
+Those who graduate from the institute become qualified specialists and work at railway transport, construction enterprises, in projects and research organizations.
+
+At the institute of work, confirm the prepared department. Since July 1, 4-week preparatory courses have been operating.
+
+Below are the options for the written exam in mathematics and the tasks for the oral exam in physics at BelINZhT in 1975.
+
+Matematika
+
+Option 1
+
+1. The base of the example is a rectangle. Two adjacent side faces redistribute angles to the base, and the other two form angles α and β. Height examples h. Determine the lateral surface area.
+
+2. Solve the equation
+
+$$tg \left( \frac{\pi}{4} + x \right) = 3 \, tg \left( \frac{\pi}{4} - x \right).$$
+
+3. Solve system of equations
+
+$$\begin{cases} 4^{x+y} = 2^{y-x}, \\ 4^{\log \sqrt{2}x} = y^4 - 5. \end{cases}$$
+
+4. Simplify an expression
+
+$$\frac{4x \left( x + \sqrt{x^2 - 1} \right)^2}{(x + \sqrt{x^2 - 1})^4 - 1}.$$
+
+Option 2
+
+1. In a rectangular parallelip, the dagonal of the base is d, the angle between the dagonals of the base is α, and the angle formed by the dagonal plane drawn through the larger side of the base with the plane of the base is β. Determine the volume of the parallelipe.
+
+2. Solve the equation
+
+$$\log_2 \left( 9^{x-1} + 7 \right) = 2 + \log_2 \left( 3^{x-1} + 1 \right).$$
+
+3. Solve the equation
+
+$$\sin 2x \sin 3x + \cos 5x = 0.$$
+
+4. Simplify expression (a > 0)
+
+$$a^3 - a - 2b - \frac{b^2}{a}$$
+
+$$\left( 1 - \sqrt{\frac{1}{a} + \frac{b}{a^2}} \right) \cdot \left( a + \sqrt{a+b} \right)$$
+
+$$: \left( \frac{a^3 + a^2 + ab + a^2b}{a^2 - b^2} + \frac{b}{a-b} \right).$$
+
+⟦folio 42⟧
+
+skilful, metallurgical, mechanical, chemical-technological, economic, energy, computer engineering and automated control systems. The Gorlovka branch houses automation and automation faculties.
+
+The Institute has evening and correspondence faculties, as well as branches in Gorlovka, Krasnoarmeyskoye and Torez.
+
+At all faculties, students receive physics and mathematics training in the scope of the program of engineering, technical and engineering and economic schools.
+
+The Faculty of Computer Science and Automated Control Systems also trains specialists in applied mathematics with the qualification of “engineer-mathematician”. Most of the disciplines studied by students of this specialization are mathematical and “near-machine”: mathematical analysis, general and linear algebra, numerical methods, computer programming and algorithmic languages, differential equations and mathematical physics, graph theory and combinatorics, functional analysis, probability theory and mathematical statistics, theory of random processes, etc.
+
+Graduates of this specialization are sent to work in computer centers, research institutes, and design bureaus.
+
+Below are examples of options for a written exam in mathematics, tickets for an oral exam in mathematics and tasks for an oral exam in physics at the Donetsk Polytechnic Institute in 1975. Star excellent more difficult options.
+
+Matematika
+
+Written exam
+
+Option 1*
+
+1. Two pedestrians simultaneously crossed towards each other and met after 2½ hours. How long will it take each of them to cover the entire distance if the first of them arrives at the place from which the second left, 1 hour later than the second arrives at the place from which the first left?
+
+2. The angle at the vertex of the main section of the cone is equal to φ, and the sum of the length of its height and the generatrix is ​​equal to α. Find the volume of the cone.
+
+3. Solve the equation
+
+$$\frac{1}{5 - \lg x} + \frac{2}{1 + \lg x} = 1.$$
+
+4. Solve the equation
+
+$$\sin^2 x + \sin^2 2x = 1.$$
+
+5. Solve system of equations
+
+$$\begin{cases} \sqrt{\frac{2x-1}{y+2}} + \sqrt{\frac{y+2}{2x-1}} = 2, \\ x+y=12. \end{cases}$$
+
+Oral examination
+
+Ticket 1
+
+1. Prove the three perpendicular theorem.
+
+2. Derive the formula for the general term of a geometric progression and the sum of its terms.
+
+3. Prove that $\frac{a}{b} + \frac{b}{a} \geq 2$ if $a$ and $b$ have the same values.
+
+4. Graph the Function
+
+$$y = |\text{ctg} x|.$$

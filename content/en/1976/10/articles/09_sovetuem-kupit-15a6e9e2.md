@@ -1,0 +1,93 @@
+---
+id: 1976-10-sovetuem-kupit-15a6e9e2
+issue: kvant_1976_10
+year: 1976
+number: "10"
+title: We advise you to buy!
+rubric: smes
+page_first: 33
+page_last: 33
+page_labels: "31"
+tag: W7YZ
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 5a4ad39599affaff46b8a8693e3718aaad3ad6117a54519946a79e8aa5767806
+prompt_sha256: draft-1
+translated_from: content/ru/1976/10/articles/09_sovetuem-kupit-15a6e9e2.md
+source_content_sha256: 491309c3de0a67590a336dc5fb0653465c08f8be99e62727ef484288da9a3197
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 31⟧
+
+Let us agree that after the formation of a word over the alphabet A, all neighboring pairs “symbol - antisymbol” are “annihilated” (deleted) in it (for example: `<ab cc ba>` → `<ab ba>` → `<aa>`).
+
+Problem 14. Prove that the result of complete “annihilation” does not depend on the order of “annihilation” of individual “symbol-antisymbol” pairs.
+
+Let us agree that the composition “” of two words (in which there are no longer symbol-antisymbol pairs) over the alphabet A is considered the result of the complete “annihilation” of the declarative composition of these words.
+
+Problem 15 *. Prove that the set of words of the alphabet A with the operation "" is a group.
+
+About self-references and substitutions.
+
+Problem 16. Given a triangle. Construct a tetrahedron over which all faces are congruent to this triangle.
+
+a) For which triangles is this possible?
+b) Find the group of self-alignments of such a tetrahedron.
+
+Problem 17. Above we proved that the number of self-alignments of the cube, that is, the order of the symmetry group of the cube Γ(K), is equal to 48. Try to calculate the order of the group Γ(D) of self-alignments of the dodecahedron in a similar way.
+
+Problem 18. Construct a multiplication table for a group of self-alignments of a regular pentagon.
+
+Self-alignment of the cube is divided into two classes: those that can be performed by continuous movement of the cube in space (rotations), we will call them movements, and those that cannot be performed by movement in space (reflections). The set of movements of the cube with the operation of composition of movements forms a group with 24 elements.
+
+Task 19. Describe all the elements of this group, that is, indicate the axes and angles of all rotations included in this group.
+
+The reader may have noticed that the group S₄ contains the same number of elements (24) as the group of motions of the cube. Moreover, it turns out that these two groups are isomorphic (this concept is discussed in the article “Groups”): each movement of the cube can be associated with a substitution from S₄ so that the composition of movements corresponds to the product of the substitutions corresponding to these movements.
+
+Problem 20 *. Establish an isomorphism between the group of motions of the cube and the group S₄ by indicating 4 geometric objects in the cube such that their derivative substitution specifies a single motion of the cube (and, conversely, each motion of the cube corresponds to the substitution of these objects).
+
+Let a be a substitution of the sequence (1, 2, 3, ..., n). Let us define by the orbit of a number p of a relative substitution a the set of numbers in whose place p may appear under the action of the substitution a or its power (a², a³, ...).
+
+Problem 21. Prove that the set {1, 2, 3, ..., n} is divided into orbits, within each of which any number is transferred to the place of any other under the action of substitution a or its degree.
+
+Problem 22. Prove that the order of the substitution (as an element of the group Sₙ) is equal to the least common multiple of the lengths of its orbits.
+
+It is obvious that any substitution is completely determined by the properties of the orbits and the order of transition from element to element within the orbit. For example, substitution
+
+$$a = \begin{pmatrix} 1 & 4 & 3 & 2 & 6 & 5 & 7 \\ 4 & 3 & 1 & 6 & 5 & 2 & 7 \end{pmatrix}$$
+
+completely restored using this entry:
+
+$$a = \begin{pmatrix} 1 & 4 & 3 & 2 & 6 & 5 & 7 \end{pmatrix}$$
+
+if the conditions that one of two adjacent elements of the same orbit lies is translated by substituting a into the right one.
+
+Problem 23. How, knowing the “orbital” notation of the substitution a, can we construct its inverse substitution a⁻¹?
+
+Problem 24 *. Describe all pairs of permutations a and b that satisfy the equality a⋅b = b⋅a.
+
+We advise you to buy!
+
+Baraboy V. A., Kirichinsky V. R. Nuclear radiation and life. Series “Problems of modern science and technical progress.” C. 77 k.
+
+Berman M.A. et al. Mathematical models and processing planning. C. 34 k.
+
+Goldansky V.I., Polikanov S.M. Heavier than uranium. C. 70 k.
+
+Gurevich V.Z. Energy of invisible light. Ts. 50 k.
+
+Dadyan V. S. Mathematics in economics. Ts. 8 k.
+
+Posted by V. I. Mathematics of Elemia and outer space. C. 24 k.
+
+Sominsky M. S. Solar electric power plant. Semiconductors and solar power. C. 35 k.
+
+Physics today and tomorrow. Proenoses of science. Ts. 1 r. 73 k.
+
+Creators of physical optics. Collection of articles. Series “From the history of world culture.” Ts. 1 r. 11 k.
+
+To receive the key by mail, orders are sent to the address: 117464, Moscow, Mitsurinsky Prospekt, 12, store No. 3 “Book by mail” “Akademika”.

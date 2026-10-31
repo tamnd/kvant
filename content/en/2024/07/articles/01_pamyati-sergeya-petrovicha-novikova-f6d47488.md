@@ -1,0 +1,30 @@
+---
+id: 2024-7-pamyati-sergeya-petrovicha-novikova-f6d47488
+issue: kvant_2024_7
+year: 2024
+number: "7"
+title: In memory of Sergei Petrovich Novikov
+rubric: matematicheskiy-mir
+rubric_sub: Математический мир
+page_first: 17
+page_last: 17
+tag: 1O4S
+lang: en
+source: kvant_digital
+extraction: native
+content_sha256: eef451905ff8ba646617307c0c7d11b2050dc3ba0f89d38b925f07e1fe42449f
+prompt_sha256: draft-1
+translated_from: content/ru/2024/07/articles/01_pamyati-sergeya-petrovicha-novikova-f6d47488.md
+source_content_sha256: 96969d8ee8499a83c06a31388f4796b09a49db7dd488314381e2f6fff104a1f8
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+Sergey Petrovich Novikov
+
+(20.03.1938 – 06.06.2024)
+
+On June 6, 2024, an outstanding mathematician, academician of the Russian Academy of Sciences, a long-term member of the editorial board and editorial council of the journal «Kvant», first deputy editor-in-chief of the journal «Kvant» (1990 – 2007) passed away. Sergei Petrovich was born into a family of famous mathematicians: his father, Academician Pyotr Sergeevich Novikov, was a major specialist in the field of set theory, mathematical logic, the theory of algorithms and group theory, his work on the uniqueness of the inverse potential problem opened an important direction in applied mathematics, and his mother, Professor Lyudmila Vsevolodovna Keldysh, is known in the mathematical world for her work on geometric topology and set theory, in which she provided solutions to a number of the most difficult problems in these areas. Sergei Petrovich's maternal grandfather, Vsevolod Mikhailovich Keldysh, is noted by all domestic encyclopedias as the creator of Russian reinforced concrete, and his uncle, his mother's brother, Mstislav Vsevolodovich Keldysh, was a major specialist in the field of applied mathematics and for many years headed the USSR Academy of Sciences. S.P. Novikov’s elder brother, Leonid Veniaminovich Keldysh, was an outstanding theoretical physicist, a specialist in the field of solid state physics, semiconductor physics, and quantum radiophysics. Sergei Petrovich Novikov is a world-famous scientist, the founder of a number of modern fields of geometry, topology, theory of dynamic systems, quantum field theory, and solid state physics. One of the highest achievements of S.P. Novikov is the proof of the topological invariance of Pontryagin’s rational classes (1965) - a fundamental result that largely determined the further development of topology. Breakthrough results that created new directions in algebraic and differential topology were obtained by Sergei Petrovich in the theory of cobordism and the theory of smooth structures on manifolds. These works were awarded the Lenin Prize (1967) and the Fields Medal, the highest award of the International Mathematical Union (1970).

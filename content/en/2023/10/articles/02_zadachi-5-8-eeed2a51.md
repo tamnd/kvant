@@ -1,0 +1,58 @@
+---
+id: 2023-10-zadachi-5-8-eeed2a51
+issue: kvant_2023_10
+year: 2023
+number: "10"
+title: Problems 5-8
+rubric: konkurs-imeni-a-p-savina
+rubric_sub: Конкурс имени А. П. Савина
+page_first: 28
+page_last: 28
+tag: 5X4U
+lang: en
+source: kvant_digital
+extraction: native
+content_sha256: f789dbf677486bed4514302fb5cd5dbeda95787e2621d327ac6267b7590bfc49
+prompt_sha256: draft-1
+translated_from: content/ru/2023/10/articles/02_zadachi-5-8-eeed2a51.md
+source_content_sha256: 38f65da9f0655ed78eb0a1c07d34f1c193330dbdf79463861611deac75ea9601
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+COMPETITION NAMED AFTER A.P. SAVINA
+
+We continue our next competition to solve mathematical problems. The tasks are designed mainly for students starting from grades 8–9, and we advise younger students to try their hand at the magazine competition «Kvant» (see website kvantik.com). Send solutions to problems you can solve to: savin.contest@gmail.com. In addition to your first and last name, indicate the city, school and class in which you study. We welcome participation in the competition not only by individual schoolchildren, but also by teams (in this case, one work is sent with a list of participants). You can participate starting from any tour. The winners will receive diplomas from the magazine «Kvant» and prizes. Assignments, solutions and results are published on sites.google.com/view/savin-contest We wish you success!
+
+5. Fifteen barrels were placed in the form of a triangle (Fig. 1) and covered with a ring hoop. Sixteen barrels were supplied
+
+⟦column⟧
+
+⟦figure⟧
+
+Fig. 4
+
+⟦figure⟧
+
+Fig. 2
+
+⟦figure⟧
+
+Fig. 1
+
+or in the form of a square 4 u 4 (Fig. 2) and also covered with a ring hoop. Compare the lengths of these hoops. P. Kozhevnikov
+
+6. There is a glass of coffee filled with $на^{2} 3,$ and the same glass of milk filled with $на^{2} 3$. It is allowed to pour any amount of liquid back and forth, mixing it thoroughly, but you cannot pour anything out. Is it possible to get a drink made from milk and coffee in a 1:1 ratio in one of the glasses? E. Smirnov
+
+7. Vasya drew a figure in the form of a square 15 u 15, in which four holes were cut out in the form of squares $3 u 3 (рис.^{3).}$
+
+⟦figure⟧
+
+Fig. 3
+
+Vasya cut this figure into figures, each of which is one of three types $(рис.^{4).}$ It is known that there are equal numbers of figures of types $2 и^{3}$ in the cut. How many figures of each type are there in the cut? S. Kostin
+
+8. a) Petya and Vasya play such a game. Petya writes any integer on the board. Vasya does not see the board, and his goal is to guess what number is currently on the board. In one move, Vasya names his guess, and if it is incorrect (that is, it does not coincide with the number on the board at the time of the guess), then Petya increases the number on the board by 1, after which Vasya tries to guess again. Can Vasya always act in such a way as to be guaranteed to guess the number in a finite number of moves? b) The same game and the same question, but now Petya, after each move, can change the number by 1 at his discretion (increase or decrease by 1; the number cannot be left unchanged). c) The same game and the same question, but now Petya increases the number by 1 when Vasya’s guess is less than the number that is now on the board, and decreases the number by 1 if Vasya’s guess is greater. A. Gaek (11th grade student)
