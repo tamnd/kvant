@@ -1,0 +1,44 @@
+---
+id: 1983-9-kondakov-s-novyim-uchebnyim-godom-75057ccb
+issue: kvant_1983_9
+year: 1983
+number: "9"
+title: Chúc mừng năm học mới!
+authors:
+  - Кондаков М. И.
+rubric: osnovnye-stati
+page_first: 4
+page_last: 4
+page_labels: "2"
+tag: LAVZ
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 1daf8de32b6e5c4662c7b9c1fa87d85a0464ba803225a0dd615a8794ff730054
+prompt_sha256: draft-1
+translated_from: content/ru/1983/09/articles/04_kondakov-s-novyim-uchebnyim-godom-75057ccb.md
+source_content_sha256: 96be94cb09257f9b8a576e1c4e6d208fa48190034dd37e6447813a5bc7633392
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 2⟧
+
+Chúc mừng năm học mới!
+
+Các bạn thân mến!
+Ngày xưa ở Rus', năm mới được tổ chức vào ngày 1 tháng 9. Đối với tất cả chúng ta, những người gắn bó với ngôi trường, ngày này vẫn đánh dấu một năm mới - năm học mới. Hãy thử nghĩ xem tại sao chúng ta lại bước qua ngưỡng cửa trường học với niềm hân hoan và khao khát như vậy trong ngày này? Không chỉ vì mỗi học sinh ở đó sẽ được gặp gỡ bạn bè, chơi thể thao và nghe bạn bè kể chuyện về mùa hè. Điều quan trọng là hàng năm vào ngày 1 tháng 9, hàng triệu trẻ em sẽ tham gia một hành trình thú vị và khó khăn đến Vùng đất Tri thức. Tri thức là cần thiết đối với mỗi chúng ta vì chúng ta đang sống trong thời đại cách mạng khoa học công nghệ, khi các thành tựu khoa học được ứng dụng trực tiếp vào thực tiễn, khi khoa học trở thành lực lượng sản xuất.
+
+Trong bài phát biểu tại Hội nghị Trung ương CPSU tháng 6 (1983), đồng chí Tổng Bí thư Ban Chấp hành Trung ương CPSU. Yu. V. Andropov nhấn mạnh: "Trong lĩnh vực kinh tế, mấu chốt bài toán là sự gia tăng cơ bản về năng suất lao động. Chúng ta phải cố gắng đạt được mức cao nhất thế giới về mặt này... Con đường chính dẫn đến năng suất chất lượng cao trong lực lượng sản xuất tất nhiên là chuyển sang phát triển chiều sâu, kết hợp những lợi thế của hệ thống xã hội của chúng ta với những thành tựu của cuộc cách mạng khoa học và công nghệ. Hơn nữa, giai đoạn cuối cùng của nó là dẫn đến một cuộc cách mạng kỹ thuật trong nhiều lĩnh vực sản xuất."
+Quá trình tự động hóa và cơ giới hóa hoàn toàn sản xuất, làm thay đổi bản chất lao động đòi hỏi phải có cơ sở khoa học vững chắc và trình độ hiểu biết sâu rộng của người thực hiện. Vì vậy, việc đào tạo khoa học cho các chuyên gia sản xuất tương lai ở thời đại chúng ta ngày càng phát triển.
+
+Trong suốt những năm học, bạn được đồng hành cùng “nữ hoàng khoa học” - toán học. Quá trình toán học hóa kiến ​​thức nhanh chóng và sản xuất hiện đại dựa trên khoa học đặt ra yêu cầu cao về việc đào tạo toán học cho học sinh tốt nghiệp phổ thông. Điều tương tự cũng áp dụng cho vật lý - nền tảng của khoa học tự nhiên, cơ sở lý thuyết của kỹ thuật và công nghệ hiện đại. Rèn luyện thể chất cao cho học sinh là chìa khóa để đạt được thành công trong các lĩnh vực công nghệ, kinh tế và quốc phòng, là điều kiện không thể thiếu cho công việc hiệu quả của xã hội chúng ta trong việc xây dựng truyền thông.
+
+Xã hội của chúng ta quan tâm đến những người có sở thích, khuynh hướng và khả năng rõ ràng về toán học và vật lý. Nhà trường giúp những học sinh này thể hiện tài năng của mình thông qua hệ thống câu lạc bộ, các cuộc thi, các lớp tự chọn và tạo ra các lớp học chuyên sâu về vật lý và toán học. Tạp chí khoa học phổ biến «Kvant» được gửi đến một học sinh như vậy.
+Rèn luyện thể chất kỹ lưỡng cho học sinh luôn là thành tựu quan trọng của kỹ năng hoàn thiện. Không phải ngẫu nhiên mà thành tích dạy toán, vật lý của trường chúng ta lại thu hút được sự quan tâm sâu sắc của các chuyên gia nước ngoài. Phân tích cuối cùng, chính ở trường học, người ta nhận thức được thái độ có ý thức đối với công việc và đặt nền móng cho việc kết hợp những lợi thế của hệ thống xã hội với những thành tựu của cuộc cách mạng khoa học và công nghệ.
+
+Vậy là, một năm học mới lại bắt đầu - một năm của những kiến ​​thức và kỹ năng mới, những trải nghiệm mới và bài toán, một năm thâm nhập sâu hơn vào môn khoa học yêu thích của bạn. Tôi hết lòng chúc mừng bạn trong lễ tốt nghiệp này và chúc bạn thành công rực rỡ trong học tập và công việc, trong sự chuẩn bị phát triển, có ý thức và có mục đích cho cuộc sống làm việc trưởng thành!
+
+Chủ tịch Viện Hàn lâm Khoa học Sư phạm Liên Xô
+Viện sĩ Viện Hàn lâm Khoa học Sư phạm Liên Xô M. I. Kondkov

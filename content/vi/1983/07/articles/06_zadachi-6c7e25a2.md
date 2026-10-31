@@ -1,0 +1,42 @@
+---
+id: 1983-7-zadachi-6c7e25a2
+issue: kvant_1983_7
+year: 1983
+number: "7"
+title: Bài toán
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 41
+page_last: 41
+page_labels: "39"
+tag: F4WY
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 8e5a4ce104884f06d97a51c4c34cc94f098704d9cae1260ee9f5448cdec47549
+prompt_sha256: draft-1
+translated_from: content/ru/1983/07/articles/06_zadachi-6c7e25a2.md
+source_content_sha256: 691c7eb5f77a71d75afe1b9fc04091d1573fe5a2850a52139530d4a698e9bf4d
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 39⟧
+
+Nhiệm vụ
+
+1. Có 5 bóng đèn trong bôi trơn. Công tắc có 6 vị trí, trong đó mỗi lần thắp sáng một số lượng bóng đèn khác nhau - từ 0 đến 5. Một ngày nọ, một số bóng đèn bị cháy. Hỏi bạn phải lật công tắc ít nhất bao nhiêu lần để tìm ra cái nào?
+
+2. Tìm tất cả các số có ba chữ số bằng tích của số có hai chữ số cuối và số có chữ số cuối của nó.
+
+3. Các số 1,2,...,9 được đặt vào các ô của hình vuông 3x3. Sau đó, trong mỗi vòng tròn, giá trị trung bình số học của bốn số xung quanh nó được viết ra. Sau đó, giá trị trung bình số học của bốn số thu được đã được tính toán. Số lớn nhất có thể đạt được là bao nhiêu?
+
+4. Có 18 lít xăng trong một thùng. Có hai thùng có thể tích 7 lít, trong đó bạn cần đổ đầy 6 lít xăng. Ngoài ra còn có muỗng 4 lít. Làm thế nào một sự cố tràn có thể được thực hiện?
+
+5. Tại sao vào ban ngày, từ một căn phòng có cửa sổ được che bằng rèm tuyn, có thể nhìn thấy rõ đồ vật trên đường nhưng nhìn từ ngoài đường lại không nhìn thấy đồ vật trong phòng?
+
+Những nhiệm vụ này đã được cung cấp cho chúng tôi
+A. I. Azamov, G. A. Galperin,
+V. V. Proizvolov, S. V. Dvoryaninov,
+A. P. Savin.

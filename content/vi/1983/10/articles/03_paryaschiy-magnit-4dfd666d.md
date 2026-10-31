@@ -1,0 +1,97 @@
+---
+id: 1983-10-paryaschiy-magnit-4dfd666d
+issue: kvant_1983_10
+year: 1983
+number: "10"
+title: Nam châm nổi
+rubric: raznoe
+rubric_sub: Разное
+page_first: 10
+page_last: 10
+page_labels: "8"
+tag: 4LA3
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: b50098d1e4cf68460ca565221ac4807deff0a17e4da4f1e003fd426cd55b77c9
+prompt_sha256: draft-1
+translated_from: content/ru/1983/10/articles/03_paryaschiy-magnit-4dfd666d.md
+source_content_sha256: 71ceabe4d18e5057f85b48824d42142384dbe7ced1429dd4b909cf85bb592cc8
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 8⟧
+
+trong đó $n$ là nồng độ electron. Thay thế ở đây $u$, ta thu được định luật Ohm: $I = U/R$, trong đó điện trở $R$ tỷ lệ thuận với chiều dài $l$ và tỷ lệ nghịch với tiết diện $S$ - $R = \varrho_0 L/S$, và điện trở suất $\varrho_0$ không phụ thuộc vào $L$ và $S$:
+
+$$\varrho_0 = \frac{m}{ne^2\tau}.$$
+
+(MỘT)
+
+Cho đến thời điểm đó, chúng tôi đã bị phân tâm khỏi thực tế là người soát vé có ranh giới. Bây giờ chúng ta hãy dạy nó.
+
+Chúng ta thấy rằng điện trở suất của một vật dẫn lớn được xác định bằng nghịch đảo thời gian giữa hai lần va chạm liên tiếp của một electron với các nguyên tử hoặc khi có khuyết tật trên vật dẫn. Khi có ranh giới, vai trò của m được thể hiện theo thời gian giữa hai electron Stolnov liên tiếp có ranh giới. Thời gian này có độ lớn bằng $d/v$, trong đó $v$ là đặc tính chuyển động của các electron trong kim loại, $d$ là độ dày của mẫu. Sự đóng góp của dòng điện không đáng kể (đứng yên). Chúng phát sinh khi một nam châm tiếp cận bề mặt chất siêu dẫn do hiện tượng cảm ứng điện từ. Ví dụ, dòng điện cảm ứng trong chất siêu dẫn được xác định theo định luật Lenz, và từ trường được tạo ra sẽ đẩy vòng nam châm, cân bằng tác dụng của trọng lực. Chuyển động nhỏ nhất của nam châm gây ra sự thay đổi từ trường của dòng điện siêu dẫn - trường “đi theo” nam châm; Trong trường hợp này, bề mặt lõm của chất siêu dẫn dẫn đến vị trí cân bằng của nam châm trở nên ổn định.
+
+Việc lắp đặt một nam châm nổi được gọi đùa là “quan tài của Mohammed” (theo truyền thuyết, quan tài của phó tướng Mohammed được treo trong không gian mà không có bất kỳ sự hỗ trợ nào). Thiết bị được hiển thị trên trang đầu tiên của trang bìa là cần thiết để có khả năng chống va chạm thuận tiện với các ranh giới, chúng ta có thể ước tính nó bằng cách thay thế các giá trị 1/τ $v/d$ vào (a) với nhau:
+
+$$\varrho_s = q \frac{mv}{ne^2d},$$
+
+(b)
+
+trong đó hệ số $q$ được đưa vào để tính đến hiệu quả của tương tác bề mặt: đối với bề mặt gương lý tưởng $q = 0$, trong trường hợp phản xạ khuếch tán hoàn toàn của các electron từ bề mặt $q = 1$.
+
+Về nguyên tắc, mỗi electron có thể chịu rất nhiều năng lượng cả trên bề mặt và bên trong dây dẫn. Do đó, tổng điện trở của mẫu bằng tổng các số hạng (a) và (b):
+
+$$\varrho = \varrho_0 + \varrho_s = \varrho_0 \left( 1 + q \frac{v\tau}{d} \right) = \varrho_0 \left( 1 + q \frac{l}{d} \right),$$
+
+trong đó $l = v\tau$ là độ dài trung bình của quãng đường chạy tự do của electron, tức là khoảng cách trung bình mà electron đi được giữa hai lần va chạm liên tiếp.
+
+Bìa trước minh họa thí nghiệm nam châm nổi. Bên trong một chiếc bình kim loại sáng bóng, một nam châm vòng vĩnh cửu treo phía trên thân mà không có bất kỳ vật đỡ nào, bên trong có chứa heli lỏng và chất siêu dẫn. Chất siêu dẫn là một đĩa chì mỏng có đường kính 16 cm, bề mặt của nó hơi lõm. (Thành ngoài của bình có hình dạng của chất siêu dẫn; độ lõm của bề mặt đảm bảo sự ổn định của trạng thái cân bằng của nam châm.) ​​Thí nghiệm này xác nhận sự tồn tại của chất siêu dẫn bên trong chất siêu dẫn. Chúng phát sinh khi một nam châm tiếp cận bề mặt chất siêu dẫn do hiện tượng cảm ứng điện từ. Ví dụ, dòng điện cảm ứng trong chất siêu dẫn được xác định theo định luật Lenz, và từ trường được tạo ra sẽ đẩy vòng nam châm, cân bằng tác dụng của trọng lực. Chuyển động nhỏ nhất của nam châm gây ra sự thay đổi từ trường của dòng điện siêu dẫn - trường “đi theo” nam châm; Trong trường hợp này, bề mặt lõm của chất siêu dẫn dẫn đến vị trí cân bằng của nam châm trở nên ổn định.
+
+Việc lắp đặt một nam châm nổi được gọi đùa là “quan tài của Mohammed” (theo truyền thuyết, quan tài của phó tướng Mohammed được treo trong không gian mà không có bất kỳ sự hỗ trợ nào). Thiết bị, được hiển thị trên trang đầu tiên của trang bìa, cần có điện trở thuận tiện có ranh giới, chúng ta có thể ước tính nó bằng cách thay thế 1/τ của giá trị $v/d$ vào (a) với nhau:
+
+$$\varrho_s = q \frac{mv}{ne^2d},$$
+
+(b)
+
+trong đó hệ số $q$ được đưa vào để tính đến hiệu quả của tương tác bề mặt: đối với bề mặt gương lý tưởng $q = 0$, trong trường hợp phản xạ khuếch tán hoàn toàn của các electron từ bề mặt $q = 1$.
+
+Về nguyên tắc, mỗi electron có thể chịu rất nhiều năng lượng cả trên bề mặt và bên trong dây dẫn. Do đó, tổng điện trở của mẫu bằng tổng các số hạng (a) và (b):
+
+$$\varrho = \varrho_0 + \varrho_s = \varrho_0 \left( 1 + q \frac{v\tau}{d} \right) = \varrho_0 \left( 1 + q \frac{l}{d} \right),$$
+
+trong đó $l = v\tau$ là độ dài trung bình của quãng đường chạy tự do của electron, tức là khoảng cách trung bình mà electron đi được giữa hai lần va chạm liên tiếp.
+
+Bìa trước minh họa thí nghiệm nam châm nổi. Bên trong một chiếc bình kim loại sáng bóng, một nam châm vòng vĩnh cửu treo phía trên thân mà không có bất kỳ vật đỡ nào, bên trong có chứa heli lỏng và chất siêu dẫn. Chất siêu dẫn là một đĩa chì mỏng có đường kính 16 cm, bề mặt bề mặt chất siêu dẫn ổn định.
+
+Việc lắp đặt một nam châm nổi được gọi đùa là “quan tài của Mohammed” (theo truyền thuyết, quan tài của phó tướng Mohammed được treo trong không gian mà không có bất kỳ sự hỗ trợ nào). Thiết bị, được hiển thị trên trang đầu tiên của trang bìa, cần có điện trở thuận tiện có ranh giới, chúng ta có thể ước tính nó bằng cách thay thế 1/τ của giá trị $v/d$ vào (a) với nhau:
+
+$$\varrho_s = q \frac{mv}{ne^2d},$$
+
+(b)
+
+trong đó hệ số nhân $q$ được đưa vào để tính đến hiệu quả của tương tác bề mặt: đối với bề mặt gương lý tưởng $q = 0$, như sự phản xạ khuếch tán hoàn toàn của các electron từ bề mặt $q = 1$.
+
+Về nguyên tắc, mỗi electron có thể chịu rất nhiều năng lượng cả trên bề mặt và bên trong dây dẫn. Do đó, tổng điện trở của mẫu bằng tổng các số hạng (a) và (b):
+
+$$\varrho = \varrho_0 + \varrho_s = \varrho_0 \left( 1 + q \frac{v\tau}{d} \right) = \varrho_0 \left( 1 + q \frac{l}{d} \right),$$
+
+trong đó $l = v\tau$ là độ dài trung bình của quãng đường chạy tự do của electron, tức là khoảng cách trung bình mà electron đi được giữa hai lần va chạm liên tiếp.
+
+Bìa trước minh họa thí nghiệm nam châm nổi. Bên trong một chiếc bình kim loại sáng bóng, một nam châm vòng vĩnh cửu treo phía trên thân mà không có bất kỳ vật đỡ nào, bên trong có chứa heli lỏng và chất siêu dẫn. Chất siêu dẫn là một đĩa chì mỏng có đường kính 16 cm, bề mặt bề mặt chất siêu dẫn ổn định.
+
+Việc lắp đặt một nam châm nổi được gọi đùa là “quan tài của Mohammed” (theo truyền thuyết, quan tài của phó tướng Mohammed được treo trong không gian mà không có bất kỳ sự hỗ trợ nào). Thiết bị, được hiển thị trên trang đầu tiên của trang bìa, cần có điện trở thuận tiện có ranh giới, chúng ta có thể ước tính nó bằng cách thay thế 1/τ của giá trị $v/d$ vào (a) với nhau:
+
+$$\varrho_s = q \frac{mv}{ne^2d},$$
+
+(b)
+
+trong đó hệ số nhân $q$ được đưa vào để tính đến hiệu quả của tương tác bề mặt: đối với bề mặt gương lý tưởng $q = 0$, như sự phản xạ khuếch tán hoàn toàn của các electron từ bề mặt $q = 1$.
+
+Về nguyên tắc, mỗi electron có thể chịu rất nhiều năng lượng cả trên bề mặt và bên trong dây dẫn. Do đó, tổng điện trở của mẫu bằng tổng các số hạng (a) và (b):
+
+$$\varrho = \varrho_0 + \varrho_s = \varrho_0 \left( 1 + q \frac{v\tau}{d} \right) = \varrho_0 \left( 1 + q \frac{l}{d} \right),$$
+
+trong đó $l = v\tau$ là độ dài trung bình của quãng đường chạy tự do của electron, tức là khoảng cách trung bình mà electron đi được giữa hai lần va chạm liên tiếp.

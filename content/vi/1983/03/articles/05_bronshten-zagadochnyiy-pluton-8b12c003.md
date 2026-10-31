@@ -1,0 +1,50 @@
+---
+id: 1983-3-bronshten-zagadochnyiy-pluton-8b12c003
+issue: kvant_1983_3
+year: 1983
+number: "3"
+title: Sao Diêm Vương bí ẩn
+authors:
+  - Бронштэн В. А.
+rubric: novosti-nauki
+rubric_sub: Новости науки
+page_first: 17
+page_last: 17
+page_labels: "15"
+tag: GKC3
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 292519ad7298e7ed66988279df4473433f82b4c23e26eb384709d4709a490fde
+prompt_sha256: draft-1
+translated_from: content/ru/1983/03/articles/05_bronshten-zagadochnyiy-pluton-8b12c003.md
+source_content_sha256: b9f01b02ad0ce9b59753583d7a4e4617509f6a1827311993a6697960564e425c
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 15⟧
+
+Sao Diêm Vương bí ẩn
+
+Ứng viên Khoa học Vật lý và Toán học
+V. A. BRONSHT.EN
+
+Vào năm 1930, tức là cách đây hơn 50 năm, hành tinh thứ chín trong hệ mặt trời, hành tinh xa Mặt trời nhất, Sao Diêm Vương, đã được phát hiện. Tương đối nhanh chóng, các định nghĩa thiên văn xác định các yếu tố quỹ đạo của một hành tinh mới - khoảng cách trung bình đến Mặt trời, mức độ giãn dài (độ lệch tâm) của quỹ đạo và độ nghiêng so với mặt phẳng quỹ đạo Trái đất.
+
+Hóa ra việc xác định các đặc điểm vật lý của Sao Diêm Vương - kích thước, khối lượng, mật độ của nó trở nên khó khăn hơn nhiều. Trong một thời gian dài, vì lý do nào đó, người ta tin rằng Sao Diêm Vương thực tế không khác gì Trái đất về kích thước và khối lượng. Những ước tính như vậy thậm chí còn được đưa vào sách tham khảo thiên văn. Tuy nhiên, vào năm 1950, các phép đo thiên văn đã đo đường kính của đĩa Sao Diêm Vương và nhận thấy nó xấp xỉ 5000 km (hãy nhớ rằng đường kính của Trái Đất là ≈ 12.750 km). Mười lăm năm sau, các quan sát về sự che khuất của một ngôi sao mờ của Sao Diêm Vương cho thấy đường kính của hành tinh này thậm chí còn nhỏ hơn, trong mọi trường hợp không vượt quá 4400 km.
+
+Vào đầu những năm 70, các nhà khoa học đã cố gắng làm rõ khối lượng của Sao Diêm Vương bằng hình dáng mà nó tạo ra trong chuyển động của hành tinh lân cận, Sao Hải Vương. Họ đi đến ước tính khối lượng bằng 0,11 khối lượng Trái đất. Nhưng rõ ràng ngay rằng ước tính này là phụ thuộc, vì với đường kính thậm chí 4400 km, nó đã dẫn đến giá trị lớn phi thực tế cho mật độ trung bình của Sao Diêm Vương - khoảng 15 g/cm³ *) (trong số các hành tinh của Hệ Mặt trời, Trái đất có mật độ cao nhất - 5,5 g/cm³).
+
+Việc phát hiện ra mặt trăng của Sao Diêm Vương, tên là Charon, vào năm 1978 đã giúp xác định khối lượng của hành tinh này dựa trên chu kỳ quỹ đạo và bán kính quỹ đạo của vệ tinh. Hóa ra nó chỉ nặng bằng 0,002 lần khối lượng Trái đất (nghĩa là nhỏ hơn sáu lần so với khối lượng Mặt trăng). Đó là lý do tại sao mọi nỗ lực xác định khối lượng của Sao Diêm Vương bằng cách xuất hiện trong chuyển động của Sao Hải Vương đều thất bại trước đó - với khối lượng không đáng kể như vậy, Sao Diêm Vương không thể ảnh hưởng đến chuyển động của cơ thể nặng hơn 7500 lần của nó.
+
+Gần đây một phương pháp mới để đo đường kính của các thiên thể đã được phát minh. Điều này giúp có thể xác định kích thước của Sao Diêm Vương với độ chính xác cao hơn trước. Hóa ra đường kính của nó dao động từ 3000 đến 3600 km (con số này nhỏ hơn khoảng một lần rưỡi so với đường kính của Sao Thủy, vốn được coi là hành tinh nhỏ nhất trong hệ mặt trời).
+
+Từ ước tính về khối lượng và đường kính, mật độ của Sao Diêm Vương là từ 0,5 đến 0,8 g/cm³. Cho đến lúc đó, Sao Thổ được coi là hành tinh dày đặc nhất: mật độ trung bình của nó là 0,7 g/cm³. Làm rõ kích thước của Sao Diêm Vương sẽ cho thấy liệu nó có được ưu tiên hơn Sao Thổ về mật độ thấp nhất hay không.
+
+Và một kỷ lục độc đáo khác được “lập” bởi Pluto. Vệ tinh Charon của nó là hành tinh duy nhất chuyển động xét về khối lượng. Trước đây, người ta tin rằng tỷ lệ cao nhất giữa khối lượng của hành tinh so với khối lượng của vệ tinh là trong hệ Trái đất-Mặt trăng, trong đó nó bằng 81.
+
+Gần đây hơn, người ta phát hiện ra rằng độ sáng của Sao Diêm Vương đang dao động và cũng sẽ yếu đi mạnh mẽ, bất chấp hành tinh này đang tiến gần đến Mặt trời (nó sẽ vượt qua cận điểm vào năm 1990). Cho đến nay không có lời giải thích cho điều này. Có thể nghiên cứu trong tương lai về vấn đề vẫn chưa có.
+
+*) Trong thiên văn học, người ta thường biểu thị mật độ của các thiên thể bằng g/cm³ chứ không phải bằng đơn vị SI. (Ghi chú của biên tập viên)

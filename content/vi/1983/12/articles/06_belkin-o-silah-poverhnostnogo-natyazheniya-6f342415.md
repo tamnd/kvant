@@ -1,0 +1,40 @@
+---
+id: 1983-12-belkin-o-silah-poverhnostnogo-natyazheniya-6f342415
+issue: kvant_1983_12
+year: 1983
+number: "12"
+title: Về lực căng bề mặt
+authors:
+  - Белкин И. К.
+rubric: shkola-v-kvante
+page_first: 29
+page_last: 29
+page_labels: "27"
+tag: 8ZAQ
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: d15f3b31d1327fd17de0a98bad35e2f7a067d74c26bf835291da2c9dae2338e7
+prompt_sha256: draft-1
+translated_from: content/ru/1983/12/articles/06_belkin-o-silah-poverhnostnogo-natyazheniya-6f342415.md
+source_content_sha256: 015b3862b8e1749686036941d4dafc1a0bbad17a289ba55b3f574921a455a67b
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 27⟧
+
+Biến dạng không có gia tốc. Khoảng cách bây giờ là một trường hợp như vậy. Một vật có khối lượng $m$ được treo từ một cánh tay không đối diện, đầu trên của cánh tay này được gắn vào một giá đỡ cố định (Hình 2). Dưới tác dụng của trọng lực, cơ thể tất nhiên bắt đầu rơi xuống. Cùng với nó, đầu dưới của lò xo cũng bắt đầu chuyển động. Vì vậy, nguyên nhân gây biến dạng là do lực đàn hồi tác dụng lên đầu trên của vật. Vì lực hấp dẫn tác dụng lên tất cả các bộ phận của cơ thể và lực đàn hồi chỉ ở đầu trên của nó, nên các bộ phận khác nhau của cơ thể sẽ chuyển động khác nhau và cuối cùng chỉ bị biến dạng. Lực đàn hồi sinh ra từ việc này sẽ tác dụng lên đầu dưới của lò xo, v.v.
+
+Dễ hiểu là cuối cùng vũ khí và cơ thể sẽ dừng lại. Điều này có nghĩa là tổng các lực tác dụng cả bên ngoài và tác dụng lên vật sẽ bằng 0. Lực đàn hồi bên ngoài tác dụng từ phía của giá đỡ bị biến dạng và lực đàn hồi của vật thể bị biến dạng (lực $\vec{f}_1$ và $\vec{f}_2$ trên Hình 2). Cơ thể chịu tác dụng của lực hấp dẫn $m\vec{g}$ và lực đàn hồi của lò xo biến dạng $f$. Tất cả các vật thể trong hệ thống của chúng ta đều bị biến dạng, nhưng không vật nào trong số chúng có gia tốc.
+
+Rõ ràng, đây chính xác là tình huống muốn nói khi họ nói về tác dụng tĩnh của một lực, tức là tác dụng của một lực dẫn đến biến dạng chứ không phải dẫn đến gia tốc (thực sự, trong ví dụ của chúng ta, chúng ta có thể nói về điều này). Tuy nhiên, chúng ta phải nhớ rằng trong những trường hợp như trường hợp đang xét, không có gia tốc vì hai lực tác dụng lên cả vật và lực ngoài và tổng của chúng bằng 0. Tất nhiên, trong mọi trường hợp, một lực (hoặc nhiều lực, nếu tổng của chúng không bằng 0) không thể làm biến dạng một vật mà không truyền gia tốc cho nó. Một lực (riêng lẻ!) không thể có tác dụng tĩnh. Lực có độ lớn đường kính.
+
+Về lực căng bề mặt
+
+Các tính chất đặc biệt của bề mặt chất lỏng là do các phân tử trên bề mặt có nhiều phân tử lân cận ở một phía, nằm sâu trong chất lỏng và một số ít ở phía bên kia, phía trên bề mặt của nó. Do đó, các phân tử nằm trên bề mặt chịu tác dụng của lực hướng sâu vào chất lỏng, vuông góc với bề mặt của nó. Các lực này cộng lại và gây áp lực lên chất lỏng, áp suất này được cân bằng bởi áp suất do lực đàn hồi của chính chất lỏng gây ra.
+
+Trong khi đó, nhiều thí nghiệm, chẳng hạn như những thí nghiệm được mô tả trong sách giáo khoa “Vật lý 9”, chỉ ra rằng các lực tác dụng lên bề mặt chất lỏng, không hướng theo phương vuông góc mà theo phương tiếp tuyến với bề mặt (chia nó thành một màng đàn hồi). Điều này còn được phản ánh bởi navani - lực căng bề mặt. Hóa ra các lực thực tác dụng lên các phân tử của bề mặt có hướng vuông góc với nó, và trên thực tế không có lực căng bề mặt?
+
+Hóa ra các lực hướng tiếp tuyến với bề mặt là có thật; chúng không chỉ phát sinh khi bề mặt chất lỏng bị xé rách bởi một số vật thể lạ, rắn hoặc lỏng. Nếu không có vật nào khác tiếp xúc với chất lỏng (ngoại trừ hơi của chính nó) thì không có lực căng bề mặt. Nó không khó hiểu. Trên thực tế, bất kỳ phân tử nào bên trong một thể tích chất lỏng đều được bao quanh ở mọi phía bởi các phân tử khác tác động lên nó với các lực phân bố đều theo mọi hướng, do đó các lực này cân bằng. Điều này áp dụng cho tất cả các phân tử của chất lỏng ngoại trừ những phân tử nằm trên bề mặt của nó. Như đã chỉ ra, chúng chịu tác dụng của các lực hướng bên trong chất lỏng, vuông góc với nó.

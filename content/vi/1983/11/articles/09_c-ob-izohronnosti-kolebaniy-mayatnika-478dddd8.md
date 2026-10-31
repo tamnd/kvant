@@ -1,0 +1,49 @@
+---
+id: 1983-11-c-ob-izohronnosti-kolebaniy-mayatnika-478dddd8
+issue: kvant_1983_11
+year: 1983
+number: "11"
+title: Về tính đẳng thời của dao động con lắc
+authors:
+  - С. Г.
+rubric: raznoe
+rubric_sub: Разное
+page_first: 32
+page_last: 32
+page_labels: "30"
+tag: N8FX
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: de1c434afac83b2db2b03be5c72e8d4b998376c6e0e9438f9837c5b661bfaa09
+prompt_sha256: draft-1
+translated_from: content/ru/1983/11/articles/09_c-ob-izohronnosti-kolebaniy-mayatnika-478dddd8.md
+source_content_sha256: fea170037e27b8a28e0ce4f2f99c51c151e464c2c6c63568bd90aad2b600566d
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 30⟧
+
+Để kết luận, chúng ta hãy xem xét câu hỏi thú vị về dòng điện trong mạch dao động. Mặc dù thực tế là mạch hở (không có dây dẫn giữa các bản của tụ điện), dòng điện vẫn chạy qua một “mạch hở” như vậy. Hơn nữa, nếu điện trở của cuộn dây và dây dẫn bằng 0 (độ siêu dẫn), dòng điện do tụ điện phóng điện sẽ không bao giờ dừng lại.
+
+Thật kỳ lạ, dòng điện trong mạch dao động có thể được coi là đóng. Để hiểu điều này, chúng ta cần quay lại hiện tượng cảm ứng điện từ. Như Maxwell lần đầu tiên chỉ ra, hiện tượng này không phải ở chỗ sự thay đổi trong từ thông tạo ra dòng điện cảm ứng, mà ở chỗ sự thay đổi trong từ trường tạo ra một điện trường có các đường sức khép kín (trường xoáy). Dòng điện cảm ứng là sự chuyển động của các bộ phận tích điện trong trường này. Liên quan đến công thức của hiện tượng cảm ứng điện từ, Maxwell đã nảy ra một ý tưởng tuyệt vời rằng hiện tượng ngược lại cũng tồn tại: một điện trường biến đổi sẽ tạo ra một từ trường.
+
+Trong mạch dao động của chúng ta, khi xảy ra dao động trong đó, có một nơi không có gì ngoài một điện trường thay đổi. Đây là một tụ điện. Điều này có nghĩa là có một từ trường xung quanh tụ điện (Hình 4). Mặt khác, người ta biết rằng có một từ trường bao quanh bất kỳ dòng điện nào. Hóa ra, do đặc tính được bao quanh bởi từ trường nên một điện trường biến đổi (xoay chiều) không khác gì một dòng điện. Kể từ thời Maxwell, tốc độ thay đổi của điện trường xoay chiều do đó được gọi là dòng điện, hay chính xác hơn là dòng điện dịch chuyển.
+
+Do đó, chúng ta có thể giả sử rằng dòng điện “tổng quát” (còn gọi là dòng điện dẫn) trong phần dẫn điện của mạch dao động, vẫn tiếp tục trong tụ điện với dòng điện không tích điện - dòng điện dịch chuyển.
+
+Lịch của chúng tôi
+
+Về tính đẳng thời của dao động nam châm
+
+Trong những năm tháng suy tàn của mình, Galileo Galilei (1564–1642) đã kể cho cậu học trò trẻ Vincengo Vincini của mình về cuộc đời khoa học của ông đã bắt đầu như thế nào. Tuy nhiên, vào năm 1583, Galileo 19 tuổi, khi đang ở Nhà thờ Pisa, đã chứng kiến ​​cảnh một chiếc thang lớn đung đưa. Đối với ông, dường như chu kỳ dao động của nó không thay đổi theo thời gian. Mặc dù có sự suy giảm, tức là biên độ dao động giảm, nhưng thời gian của mỗi dao động vẫn giữ nguyên. Trở về nhà, anh tiếp tục thí nghiệm với những quả bóng treo trên sợi dây và đi đến kết luận rằng chu kỳ dao động của nam châm thực tế không phụ thuộc vào độ lệch cực đại. Như chúng ta sẽ nói sau, dao động của nam châm là đẳng thời, nghĩa là không đổi theo thời gian. (Sau này Galileo phát hiện ra rằng chu kỳ dao động có liên hệ với căn bậc hai của chiều dài nam châm.) ​​Với khám phá này của chàng trai trẻ Galileo, chuỗi khám phá cơ học vĩ đại của ông bắt đầu.
+
+Trong nhà thờ, như Vincini viết, Galileo đã điều khiển chu kỳ dao động của lystra dựa trên xung của chính mình, thực hiện các thí nghiệm và sử dụng đồng hồ nước.
+
+Đồng hồ cơ vào thời điểm đó còn rất nhiều điều đáng mong đợi. Chúng ta không biết khi nào Galileo quyết định sử dụng dao động nam châm để tạo ra thuyết đẳng thời: dù là vào buổi bình minh của hoạt động khoa học của ông, trong thời kỳ tạo ra cơ học mới, hay vào cuối đời, sau phiên tòa xét xử, ông quay trở lại làm việc về cơ học. Tuy nhiên, không còn nghi ngờ gì nữa, Galileo bắt đầu nghiên cứu chặt chẽ việc thiết kế đồng hồ từ khi ông đã già và quá lười biếng, và do đó không thể biến ý tưởng tuyệt vời của mình thành một cơ chế hoạt động thực sự.
+
+Đồng hồ từ tính đầu tiên được tạo ra bởi Christ IAN Guilens (1629-1695). Trong suốt cuộc đời của mình, Guilens đã làm việc theo điều kiện của họ và nhận được nhiều kết quả đáng chú ý trong quá trình hoạt động này. Đặc biệt, ông làm rõ rằng phát biểu của Galileo về tính đẳng thời của dao động từ chỉ đúng đối với những sai lệch nhỏ của nam châm so với trạng thái cân bằng.
+
+SG

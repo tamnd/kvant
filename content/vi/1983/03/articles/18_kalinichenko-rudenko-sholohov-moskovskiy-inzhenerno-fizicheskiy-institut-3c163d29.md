@@ -1,0 +1,66 @@
+---
+id: 1983-3-kalinichenko-rudenko-sholohov-moskovskiy-inzhenerno-fizicheskiy-institut-3c163d29
+issue: kvant_1983_3
+year: 1983
+number: "3"
+title: Viện Vật lý Kỹ thuật Moscow
+authors:
+  - Калиниченко Д. Ф.
+  - Руденко А. И.
+  - Шолохов Н. В.
+rubric: praktikum-abiturienta
+rubric_sub: Практикум абитуриента
+page_first: 59
+page_last: 59
+page_labels: "57"
+tag: Q6OX
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 0c5b871e70acf821ba466595ed79e2f5e89620643a1d1ba6a8bcd12d4ebd0fc1
+prompt_sha256: draft-1
+translated_from: content/ru/1983/03/articles/18_kalinichenko-rudenko-sholohov-moskovskiy-inzhenerno-fizicheskiy-institut-3c163d29.md
+source_content_sha256: b5a17c6a0c6bacf06cef19e2a7d6725624e25d3b9e5a7191d3e7a48117c531fe
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 57⟧
+
+Viện Vật lý Kỹ thuật Moscow
+
+Toán học
+Bài thi viết
+Tùy chọn 1
+
+1. Giải bất đẳng thức
+$$\frac{1}{\frac{x}{4^2}+5} \leq \frac{1}{2x+1-1}.$$
+
+2. Thị trấn $A$ và $B$ nằm trên đường cao tốc thẳng tắp. Hai mã dành cho người đi bộ được thêu đồng thời từ thành phố $A$ đến thành phố $B$ và số lượng được gửi từ thành phố $B$ đến thành phố $A$ vào cùng một thời điểm. Sau khi đi hết phần $k$ của con đường từ $B$ đến $A$, tôi gặp người đi bộ đầu tiên. Sau đó, đang đi hết chặng đường $\frac{2}{3}$, anh gặp người đi bộ thứ hai. Người đi bộ đầu tiên cách họ bao nhiêu vào lúc gặp nhau? Tốc độ và cường độ của người đi bộ không đổi, $|AB|=S$.
+
+3. Cơ sở của tham số $SABCD$ là hình chữ nhật $ABCD$, chiều dài đường chéo $AC$ bằng $d$ và $CAD=\varphi$. Các mặt phẳng của các mặt đối diện $ASB$ và $CSD$ lần lượt tạo các góc có độ lớn $a$ và $2a$ với mặt phẳng của đế. Xác định các thông số âm lượng nếu biết rằng $|AS|=|BS|$.
+
+4. Tìm điểm tới hạn của hàm $f(x)=3\sin x+4\cos x+4+(1-a)x+\sqrt{a^2-7a+6}$.
+
+Tùy chọn 2
+
+1. Tìm $f'(x)$ và các điểm tới hạn của hàm số
+$$f(x)=\cos \sqrt{x}+\sqrt{3}(\sin \sqrt{x}+\sqrt{2}).$$
+
+2. Tổng các chữ số của số tự nhiên có hai chữ số $A$ là 14. Nếu cộng 46 vào số này, bạn sẽ được một số có tích các chữ số là 6. Tìm số $A$.
+
+3. Giải bất đẳng thức
+$$2\log_4(x-a+1)+\log_2(x-3-2a) \ge 2.$$
+
+4. Trong tam giác nguyên thủy bên phải $ABCA_1B_1C_1(AA_1)\parallel(BB_1)\parallel(CC_1),|AB_1|=d$ và $AB_1B=a$. Trên đường thẳng là giao điểm của mặt phẳng $ABC$ và mặt phẳng đối xứng chứa đường thẳng $BB_1$, lấy một điểm $O$, nằm cách các điểm $A$, $B$ và $C$ một khoảng bằng nhau. Qua điểm $O$ song song với đường thẳng $A_1C_1$ vẽ một mặt phẳng cắt đoạn $BB_1$ tại điểm $D$ và $|B_1D|:|DB|=1:2$. Xác định diện tích mặt cắt ngang của các đường thẳng bằng mặt phẳng này nếu biết rằng $ABC=\beta$.
+
+Vật lý
+
+Bài thi vấn đáp
+
+1. Ở hai đầu của một thanh không trọng lượng có chiều dài $2l$, có thể quay tự do quanh một trục nằm ngang đi qua phần giữa của nó, hai vật nặng có khối lượng $m_1=0,6$ kg và $m_2=2m_1$ được cố định. Ở vị trí ban đầu, thanh được đặt nằm ngang, sau đó được thả ra với tốc độ ban đầu. Tìm lực do tải trọng thứ nhất tác dụng lên thanh tại thời điểm thanh ở vị trí thẳng đứng.
+
+2. Một vật trượt nhẵn có khối lượng $M$ đặt trên sàn nằm ngang nhẵn. Một quả bóng có khối lượng $m$ được đặt trên một slide và thả ra. Tỷ lệ khối lượng $n=m/M=0,6$. Các kích thước được chỉ ra trong Hình 1 là: $H=1,3$ m và $h=0,5$ m. Khoảng cách từ quả bóng đến đường trượt tại thời điểm quả bóng chạm sàn là bao nhiêu?
+
+3. Hai vật được gắn vào hai đầu của một sợi chỉ không hòa tan, ném qua một khối nhẹ (Hình 2). Cái đầu tiên nằm trên một bề mặt gồ ghề, cái thứ hai treo trên một sợi chỉ. Nếu các vật thể được cho một tốc độ nhất định thì chỉ có vật thể thứ hai
