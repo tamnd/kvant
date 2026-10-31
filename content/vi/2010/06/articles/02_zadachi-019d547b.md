@@ -1,0 +1,55 @@
+---
+id: 2010-6-zadachi-019d547b
+issue: kvant_2010_6
+year: 2010
+number: "6"
+title: Bài toán
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 29
+page_last: 29
+page_labels: "27"
+tag: 3NZL
+lang: vi
+source: kvant_digital
+extraction: native
+content_sha256: 194a2a8e67d264a7fa18faecae32b3a489e3d92813d2268aed2336dd0469262e
+prompt_sha256: draft-1
+translated_from: content/ru/2010/06/articles/02_zadachi-019d547b.md
+source_content_sha256: 9a82eb572518f8facee41e848054f1abc4a1602cdb2754ddb9462289ec2997e8
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 27⟧
+
+KMS
+
+Bài toán
+
+1.
+
+Có một quy tắc trong studio ảnh: nếu có ít hơn một trăm bức ảnh thì in một bức ảnh có giá 3 rúp. 50 kopecks, và nếu có 100 bức ảnh trở lên thì in một bức ảnh có giá 3 rúp. Hóa ra là in 100 bức ảnh với giá 3 rúp sẽ có lợi hơn 99 bức ảnh với giá 3,5 rúp. Hỏi số ảnh nhỏ nhất có thể thêm vài ảnh nữa để sau đó phí in sẽ giảm? A. Kovaldzhi
+
+⟦column⟧
+
+4.
+
+Sasha, Dima và Fedya thu thập các mảnh ghép của chú gấu trúc nhỏ. Câu đố là một bức tranh được cắt thành nhiều mảnh có hình dạng phức tạp, không mảnh nào giống mảnh nào. Nếu Fedya có một mảnh màu vàng với mũi Raccoon, Sasha có một mảnh màu xanh lá cây có đuôi, và Dima có một mảnh màu xanh lam với một bàn chân, thì hóa ra hai cậu bé bất kỳ, khi tập hợp lại với nhau, đều có thể tạo nên một bức tranh hoàn chỉnh từ các mảnh của họ. Chứng minh rằng bây giờ ba cậu bé có thể giải được toàn bộ câu đố. F. Bakharev
+
+2.
+
+Minh họa của D. Grishukova
+
+Các que diêm mô tả một hình tượng trưng cho sự kết hợp của bốn khối giống hệt nhau. Trong hình ảnh, khối thứ tư không hiển thị, nó ẩn đằng sau ba khối hiển thị. Sắp xếp lại chín que diêm sao cho có thể nhìn thấy được cả bốn khối của hình này. N. Avilov
+
+5.
+
+Cắt một hình vuông có kích thước $10 \times 10$ hình vuông thành 5 phần hình chữ nhật theo mẫu ở hình sao cho diện tích hình chữ nhật A lớn hơn diện tích các phần còn lại và chu vi hình chữ nhật B lớn hơn chu vi từng phần còn lại. K.Kokhas
+
+3.
+
+Nghĩ ra một số có bốn chữ số không chia hết cho năm 2010, nhưng nếu ký hiệu của nó được lặp lại 15 lần thì số có nhiều chữ số thu được sẽ chia hết cho năm 2010. N. Kushpel
+
+Những bài toán này chủ yếu dành cho học sinh lớp 6–8. Bài toán 3, 4, 5 đã được đưa ra tại vòng khu vực của Olympic St. Petersburg lần thứ 77 dành cho học sinh môn toán.

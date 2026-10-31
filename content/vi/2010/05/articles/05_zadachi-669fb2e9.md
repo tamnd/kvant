@@ -1,0 +1,57 @@
+---
+id: 2010-5-zadachi-669fb2e9
+issue: kvant_2010_5
+year: 2010
+number: "5"
+title: Bài toán
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 36
+page_last: 36
+page_labels: "34"
+tag: 9B6F
+lang: vi
+source: kvant_digital
+extraction: native
+content_sha256: 6a2f6f1f8ea14d782ee92788dd09a0684ce44ed5fd92ebdb215c96e7357ef681
+prompt_sha256: draft-1
+translated_from: content/ru/2010/05/articles/05_zadachi-669fb2e9.md
+source_content_sha256: 4fd31d1ae55b7f206e5f79168e0c0877b6066b495cfe8ce72f8c22068d6ad4aa
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 34⟧
+
+KMS
+
+KVANT 2010/№5
+
+Bài toán
+
+1.
+
+SOMETHING = 857. SOMETHING lớn hơn SOMETHING bao nhiêu? (Như thường lệ, các chữ cái giống nhau biểu thị các số giống nhau và các số khác nhau biểu thị các số khác nhau.) A. Khachaturian
+
+⟦column⟧
+
+4.
+
+Tại sao người lái một chuyến tàu chở hàng dài lại lùi lại một chút trước khi khởi hành? Văn hóa dân gian
+
+2.
+
+Trong một năm nào đó, số ngày thứ Năm bằng số ngày thứ Bảy. Có cần thiết phải có cùng số ngày thứ Sáu trong năm nay không? Nếu đó là năm nhuận thì sao? A. Kanel-Belov
+
+5.
+
+– Tôi vẽ một đa giác và vẽ tất cả các đường chéo trong đó. Hóa ra là có một số đường chéo khác đi qua giữa mỗi đường chéo,” Petya nói. “Đây là một hình bình hành,” Vasya nói. - Không. – Vậy thì nó là một đa giác đều. - Cũng không phải. Bạn có thể vẽ một đa giác như vậy không? A. Shapovalov
+
+Minh họa của D. Grishukova
+
+3.
+
+Trên đảo có những kẻ nói dối (luôn nói dối), những người nói thật (luôn nói sự thật) và những người xảo quyệt (thỉnh thoảng họ nói dối). Một ngày nọ, ba người dân đảo thông thái, những người xa lạ với nhau, gặp nhau và cuộc trò chuyện sau đây đã diễn ra giữa họ. Đáp: Tôi không biết trong chúng ta có kẻ nói dối hay không. B: Tôi không biết trong chúng ta có người nói thật hay không. H: Tôi không biết giữa chúng ta có những người xảo quyệt hay không. A: Tôi thậm chí còn không biết trong số các bạn có những người nói dối hay không. B: Tôi thậm chí còn không biết trong số các bạn có người nói thật hay không. Hỏi: Tôi thậm chí còn không biết trong số các bạn có những người xảo quyệt hay không. Cái nào là cái nào? A. Khachaturian
+
+Những bài toán này chủ yếu dành cho học sinh lớp 6 – 8.

@@ -1,0 +1,51 @@
+---
+id: 2010-5-golubev-pyirlin-yakovlev-moskovskaya-studencheskaya-olimpiada-po-fizike-2010-goda-bbd5198e
+issue: kvant_2010_5
+year: 2010
+number: "5"
+title: Olympic Vật lý sinh viên Moscow 2010
+authors:
+  - Голубев В. Г.
+  - Пырлин С.
+  - Яковлев М. А.
+rubric: olimpiady
+rubric_sub: Олимпиады
+page_first: 61
+page_last: 61
+page_labels: "59"
+tag: ZC14
+lang: vi
+source: kvant_digital
+extraction: native
+content_sha256: 53ff7118cfaa9bf78d7851ab88f91fe5a89b196434c34688cb951ebacf94b6d1
+prompt_sha256: draft-1
+translated_from: content/ru/2010/05/articles/10_golubev-pyirlin-yakovlev-moskovskaya-studencheskaya-olimpiada-po-fizike-2010-goda-bbd5198e.md
+source_content_sha256: d2f5ba3ceacc4254ad161679062343ef363b6364b7e3ac0f185b6d239785e87c
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 59⟧
+
+Thế Vận Hội
+
+diện tích của tất cả các hình thang cơ bản. Đối với tích phân thứ hai, việc tính toán tương tự.
+
+⟦column⟧
+
+Văn học bằng $\Delta t ( f_{i} + f_{i} +_{1} ) 2$. Giá trị của tích phân sẽ là diện tích của toàn bộ hình dưới đồ thị của tích phân trên khoảng tích phân. Diện tích này là tổng
+
+1. A.I. Ngư ông. Quang phổ tán xạ ánh sáng phản Stokes kết hợp (Tạp chí Giáo dục Soros, tập 7, số 4, 2001) 2. V.S. Gorelik. Tán xạ ánh sáng Raman (Tạp chí giáo dục Soros, tập 3, số 6, 1997) 3. N.N. Kalitkin. Phương pháp số 4. L.V.Turchak. Phương pháp số
+
+Ấn phẩm được biên soạn bởi V. Alminderov, A. Kravtsov
+
+Olympic Vật lý sinh viên Moscow 2010
+
+Ngày 22 tháng 5 tại Đại học Kỹ thuật Nhà nước Moscow (MSTU) mang tên. N.E. Bauman đã vượt qua vòng thành phố (II) của Olympic Vật lý toàn Nga dành cho sinh viên các trường đại học kỹ thuật. Căn cứ vào kết quả cuộc thi, năm đội đầu tiên được mời tham dự vòng chung kết (III) Olympic. Đây là đội đến từ MSTU. N.E. Bauman, người đạt 189 điểm, nhóm của Viện nghiên cứu quốc gia "MISIS" (127 điểm), nhóm của Đại học Dầu khí Quốc gia Nga được đặt theo tên. I.M. Gubkina (92 điểm), đội Viện Năng lượng Moscow (66 điểm) và đội của Đại học Giao thông Vận tải Quốc gia Moscow (57 điểm). Người chiến thắng trong cuộc thi cá nhân (tất cả từ MSTU được đặt theo tên của N.E. Bauman): R. Đăng nhập - hạng nhất, A. Panfilov - hạng nhì, K. Shiriazdanov - hạng ba.
+
+MỤC TIÊU CỦA Olympic
+
+1. Một điện tích q có khối lượng m chuyển động trong môi trường nhớt có hệ số kéo k trong từ trường ngang đều B với tốc độ ban đầu v. Xác định đường đi mà vectơ vận tốc của nó quay $360^\circ. 2.$ Một khối lập phương đặc có cạnh c và khối lượng m trượt một mặt dọc theo mặt phẳng nằm ngang với hệ số ma sát bằng 1. Tại thời điểm ban đầu, tốc độ của khối lập phương là $v_{0}$ và nó chạy trên một dải ngang hẹp có chiều rộng a ≪ c có hệ số ma sát bằng 5/3. Khối lập phương sẽ di chuyển với tốc độ bao nhiêu sau khi băng qua dải nếu biết rằng nó chưa bị lật? 3. Ba hình trụ bán kính R nằm chồng lên nhau trên một mặt phẳng nằm ngang nhẵn. Trục của chúng song song với bề mặt và với nhau. Khối lượng của hình trụ dưới và hình trụ trên bằng m, khối lượng của hình trụ ở giữa có thể bỏ qua. Tại thời điểm ban đầu, hệ thống mất ổn định và bắt đầu chuyển động khiến xi lanh ở giữa bắt đầu bị ép sang một bên. Xác định tốc độ của xi lanh trên tại thời điểm tiếp xúc với xi lanh dưới, nếu không có hiện tượng trượt giữa các xi lanh. 4. Xác định nhiệt độ tối đa mà một vật có thể nóng lên nếu có một nguồn nhiệt có công suất nhiệt vô hạn với nhiệt độ T và một động cơ nhiệt lý tưởng có độ nén cực đại, tức là tỉ số giữa thể tích cực đại của khí lý tưởng trong động cơ nhiệt và cực tiểu, bằng $\varepsilon$. Hệ số đoạn nhiệt của khí $\gamma. 5.$ Một quả cầu kim loại có bán kính R được chia dọc theo mặt phẳng đường kính và hai nửa cách ly với nhau. Một bán cầu được tích điện q và lực tương tác giữa hai nửa bằng f. Xác định lực tương tác sẽ bằng bao nhiêu nếu bán cầu thứ hai mang điện tích Q. 6. Xác định cường độ điện trường tại mọi điểm của mặt phẳng đi qua ranh giới của hai nửa mặt phẳng song song hướng khác nhau, nếu khoảng cách giữa các nửa mặt phẳng là a và chúng đều tích điện với mật độ điện tích bề mặt $\sigma$. Góc giữa mặt phẳng và nửa mặt phẳng bằng $\alpha. 7.$ Nếu một thân kim loại có điện dung C được tích điện đến điện thế $\phi$, sau đó đưa nó sang một thân kim loại khác có điện dung $C_{1}$ và chạm vào nó thì điện thế của vật thứ hai sau khi loại bỏ vật thứ nhất sẽ trở thành $\phi_{1}$. Xác định xem vật thứ hai có thể được sạc đến mức nào bằng cách lặp lại thao tác này nhiều lần. 8. Xác định lực tương tác trên một đơn vị chiều dài giữa hai phần của một dây dẫn hình trụ bán kính R có dòng điện phân bố đều trên mặt cắt ngang của nó với mật độ j, thu được bằng cách cắt dây dẫn hình trụ có mặt phẳng đi qua trục của hình trụ. 9. Cường độ cực đại chính đầu tiên của mẫu nhiễu xạ của cách tử là $I_{0}$. Mỗi khe thứ ba của mạng này đã được đóng lại. Cường độ của cực đại chính thứ nhất, thứ hai và thứ ba của cách tử nhiễu xạ mới là bao nhiêu?
+
+Ấn phẩm được biên soạn bởi V. Golubev, S. Pyrlin, M. Ykovlev
