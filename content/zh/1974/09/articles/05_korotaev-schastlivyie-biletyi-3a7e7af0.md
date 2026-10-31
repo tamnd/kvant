@@ -1,0 +1,58 @@
+---
+id: 1974-9-korotaev-schastlivyie-biletyi-3a7e7af0
+issue: kvant_1974_9
+year: 1974
+number: "9"
+title: 幸运券
+authors:
+  - Коротаев Г. К.
+rubric: smes
+page_first: 15
+page_last: 15
+page_labels: "13"
+tag: NPMF
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 00a580fcc358611bb4131ba6d85406c0394ba8182c79418a18a77f9870e588f5
+prompt_sha256: draft-1
+translated_from: content/ru/1974/09/articles/05_korotaev-schastlivyie-biletyi-3a7e7af0.md
+source_content_sha256: dc269d76540513363ccfcf86ec11c08e94f9fb4994b69e60ace378d30de7e409
+translation_model: draft
+translation_run: zh-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 13⟧
+
+幸运券
+
+1. 如果一张公共汽车票的六位数字的数字之和写在最后两位数字上，并且顺序相同，那么我们称这张公共汽车票为“幸运”。例如，号码为728124、032419的幸运彩票。在第一百万，即数字000,000到999,999中，有多少幸运彩票？
+
+B·I·阿列尼科夫
+
+摆钟在莫斯科理工博物馆展出。
+
+这里我们总是指它们的中心力与速度的平方相关。
+
+IV
+
+如果两个相同的物体在不同的圆周上运动并表现出相同的中心力，则它们的旋转时间与直径的平方根相关。
+
+V
+
+如果一个物体以与其行进相同的速度沿着圆周运动，从圆直径的 1/4 高度自由落体，那么我们会感受到一个等于其重量的中心力，也就是说，它会以相同的力拉动连接到中心的线，就好像它悬挂在线上一样。
+
+[如果高度为 $H = R/2$，则对于自由落体期间的最终速度，我们有： $v = \sqrt{2gH} = \sqrt{Rg}$，对于指示的中心力，我们有：
+
+$$F = \frac{mv^2}{R} = \frac{mRg}{R} = mg.$$]
+
+VI
+
+如果一个物体穿过多个水平圆，这些圆都位于一个垂直轴的抛物线端（抛物线）的曲面上，那么无论圆更大或更小，旋转时间总是相同的，并且这个旋转时间是摆的振荡持续时间的两倍，摆的长度等于抛物线旋转参数的一半。
+
+2. 我们将六位公交车票号$N$写成$N = 1000A + B$的形式，其中$A$和$B$是三位数。
+
+如果数字$A$的数字之和等于数字$B$的数字之和，并且数字$A$的数字乘积等于数字$B$的数字乘积，我们称数字$N$为“双倍幸运”。是否存在不可忽视的双倍幸运券？我们将$A$中数字$N$中的数字$B$重新排列数字而成的双幸运彩票，以及号码中出现零的彩票称为三幸运彩票。
+
+G·K·科罗马耶夫

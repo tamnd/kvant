@@ -1,0 +1,65 @@
+---
+id: 1974-8-zadachi-622953bc
+issue: kvant_1974_8
+year: 1974
+number: "8"
+title: 任务
+rubric: smes
+page_first: 37
+page_last: 37
+page_labels: "35"
+tag: LHD3
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 12f9a279b669213d0607a9277dca564f8ae3ebe15bf699f747ac1011b5b4c6f6
+prompt_sha256: draft-1
+translated_from: content/ru/1974/08/articles/07_zadachi-622953bc.md
+source_content_sha256: 2fa6a21126dd880a7993b7e843ec283a4fc4d1229d0f29ffef13ba5e1858f1aa
+translation_model: draft
+translation_run: zh-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 35⟧
+
+科纳。在牛顿这个系统中，仅仅知道总能量的表达式是不够的。但这将在另一篇文章中讨论。
+
+总之，我们提出了几个问题，并邀请读者输入解决这些问题所需的所有初始数据。
+
+练习
+
+1. 马车的架子上放着一个重物，用弹簧固定在墙上。当火车开始加速时，弹簧上的重量开始振荡。求其振荡周期。
+
+2. 这次重物落在了绳子上。随着火车加速，他开始犹豫。求该数学矩阵的振荡周期和平衡位置。
+
+3. 连接到推车并弯曲成直角的管子装有水，并水平弯曲。当小车开始加速移动时，垂直弯曲处的水会上升到多高？
+
+4. 架子上放着的手提箱被绳子拴着。火车的加速度是多​​少时绳子会断裂？在架子上摩擦行李箱有何影响？
+
+5. 弹簧和重物以角速度$\omega$旋转。重量会如何振荡？
+
+6. 圆柱形容器中有氧气。容器绕其轴旋转。气体压力沿容器半径如何变化？
+
+任务
+
+1. 在零的右侧和左侧，写下自然级数的数字：
+...6 5 4 3 2 1 0 1 2 3 4 5 6 7...
+
+然后，从右边数起，每隔三个数（向左和向右）划掉，从左边数起，每五个数，从右边数起，每七个数，从左边数数，每第九个数，以此类推。证明，所有使得 $4k+1$ 为素数的数字 $k$ 都将在左边保持未交叉，并且所有使得 $4m-1$ 的数字 $m$ 将在右边保持未交叉。
+
+2. 在三角形$ABC$的边$AB$、$BC$、$AC$上分别选取点$L_1$、$M_1$、$N_1$、$L_2$、$M_2$、$N_2$，使得
+$$\frac{AL_1}{L_1B} = \frac{BL_2}{L_2A},$$
+$$\frac{BM_1}{M_1C} = \frac{CM_2}{M_2B},$$
+$$\frac{CN_1}{N_1A} = \frac{AN_2}{N_2C}.$$
+
+证明三角形$L_1M_1N_1$和$L_2M_2N_2$的面积相等。
+
+3. 三角形 $ABC$ 的边省略了高度 $AD$、$BE$ 和 $CF$。证明
+a) 顶点为所画高的中点$H$、$K$、$L$的三角形的面积adb等于$1/4$三角形面积$DEF$；
+
+6) 让我们用$\theta$，$\varphi$表示形成直线$HK$和$AB$，$KL$和$BC$，$LM$和$CA$的角度（逆时针计算）的对应关系；那么相等性为真
+$(\cos^2 A + \cos^2 B) \ tg \theta +$
+$+ (\cos^2 B + \cos^2 C) \ tg \varphi +$
+$+ (\cos^2 C + \cos^2 A) \times$
+$\times \ tg \psi = 0.$

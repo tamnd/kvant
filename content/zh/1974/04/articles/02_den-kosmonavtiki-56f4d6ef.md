@@ -1,0 +1,33 @@
+---
+id: 1974-4-den-kosmonavtiki-56f4d6ef
+issue: kvant_1974_4
+year: 1974
+number: "4"
+title: 航天日
+rubric: smes
+page_first: 68
+page_last: 68
+tag: RAWC
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: f10d57301c14d03233578490e76f820e7f3bea34cd11c11d02a0da50bc74082a
+prompt_sha256: draft-1
+translated_from: content/ru/1974/04/articles/02_den-kosmonavtiki-56f4d6ef.md
+source_content_sha256: 8e8d29dadd3f6a1e3e0431166c331d6469ec711ae291774fb1e573d6400b2402
+translation_model: draft
+translation_run: zh-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+宇宙航行日
+
+1961年4月12日，作为科学技术的一次伟大胜利的日子，将永远留在所有人的记忆中。这一天，人类首次绕地球轨道太空飞行。第一位宇航员是苏联人、共产主义者尤里·阿列克谢耶维奇·加加林。
+
+我们距这一事件已经过去十三年了。外空探索和利用领域每年都取得新成果。 1973年，根据太空研究计划，苏联发射了两艘航天器：由宇航员瓦西里·格里戈里耶维奇·拉扎列夫和奥列格·格里戈里耶维奇·马卡洛夫组成的联盟12号飞船，以及由宇航员彼得·伊里奇·克里姆科和瓦伦丁·维塔利耶维奇·列别杰夫组成的联盟13号航天器。在这些飞行期间，对联盟号航天器的机载系统状况进行了全面检查和测试，并对地球表面各个部分进行了光谱分析，以获得解决国家问题的数据。宇航员 Klimkom 和 Lebedev 使用安装在 Soyuz-13 上的 Orion-2 望远镜系统记录了恒星的紫外线研究。这项研究无法用地面望远镜进行，因为它被大气吸收。
+
+成功完成了计划于1975年进行的苏美联合太空飞行的准备工作。
+
+美国宇航员在轨道空间站天空实验室进行了一系列实验。先锋号太空探测器经过土星附近，传输了有关这颗神秘行星的宝贵信息。

@@ -1,0 +1,41 @@
+---
+id: 1974-7-mochalov-golovolomka-a5b4c547
+issue: kvant_1974_7
+year: 1974
+number: "7"
+title: 谜
+authors:
+  - Мочалов Л. П.
+rubric: smes
+page_first: 50
+page_last: 50
+page_labels: "48"
+tag: ZKTH
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: dc5ebeaf7a2562dbea513346bf0dfdafdc4fa129c73b2a9954f8326234d39ca0
+prompt_sha256: draft-1
+translated_from: content/ru/1974/07/articles/13_mochalov-golovolomka-a5b4c547.md
+source_content_sha256: 2757a1b32fbed05a1836dbdedf8d28e6b63259f4ac06da18c1899078fc2b9210
+translation_model: draft
+translation_run: zh-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 48⟧
+
+阿穆尔州）36、37； R.西罗马（哈尔科夫）24、28、29、34； V. 斯莫林科夫 (列宁格勒) 24, 38;于。斯莫连采夫（叶森图基）24、25、28-30、32、34-38、40； A.斯捷潘诺维奇（莫斯科）24； V. Storchak（基洛沃格勒）24； M. Stribut (利达) 28, 32; V. Suslenarov (昆古尔) 38, 40; V. Sytsev（格罗兹尼）35； A. Tevanyan（亚美尼亚苏联 Sisan 村）35、36、38； T.托卡列夫（图拉）24；特雷布列瓦（塔什干）38、40； M. Tulchinsky（基辅）28； D. Uzenko (马格尼托哥尔斯克) 24, 25, 28, 31, 32, 34, 36, 40; I. 乌斯维亚特（塔什干）25-29、31、32、34、36、39、40； N.Fedin（鄂木斯克）25-28、32、34、36、38、40-42； E.费多罗夫（马格尼托哥尔斯克）24、25、34、36、41； D. Fushman（切尔诺夫策）26、27； V.哈齐莫夫斯基（克拉斯诺伊斯克）24-27； A. Kholmatov（安扬地区 Yarbashi 村）28-30, 32； I. Tsifra（外喀尔巴阡地区 Veligino 村）28；于。 Tsydanov（莫斯科地区 Verbilki 村）38、40； A.切尔尼科夫（沃罗涅日）36； A. Chenulin (乌法) 39; A. Shabalin（马格尼托哥尔斯克）24、25； M. Shaimukhambetov（阿拉木图）38、39、41；唷。沙穆拉多夫（阿什哈巴德）40； V.沙普金（Oktyabrsky）24； V.沙波平科夫（伏龙芝）40； K. Shvartsman（基希讷乌）24、39、40； V. Shendrik（阿拉木图）34-36、38、39； A. Shen（莫斯科）40； A.谢斯塔克（马卡洛夫）34、36； E. Shestakov（D. Rovkovich，戈梅利地区）34, 36； E. Shestakov (莫斯科) 38, 40; S. Shitskin (Medvezhberger) 24—29, 30, 32； V.施奈德曼（哈尔科夫）25、26、28-32、34、36、38-42； S. Shulya（基辅）38； A.尤丁（塞兹兰）38。
+
+S.G.谢苗钦斯基
+
+填字游戏的答案
+（见«Kvant»，1974年，第6期）
+
+水平线
+
+2. 光束。 5.脉冲星。 8.介子。 9.锇。 13.流明。 14. 钩子。 15. 腿。 20. 线。 21.镜子。 22. 氩气。 27.减号。 28.赫兹。 29. 光。 30. 转变。 35. 回答。 36. 部门。 37. 私人。 38.二项式。 42.沃利特。 43. 溴。 45.阳极。 46.云母。 49.阴极。 50. 细分。 51. 波浪。 54. 点。 55. 三。 56. 锥体。 59.普朗克。 60.苍鹭。 62.毕达哥拉斯。 63. 硼。
+
+垂直行业
+
+1. 傅立叶。 3.吊坠。 4. 弥撒。 6. 韦伯。 7.狄拉克。 10.锔。 11. 功能。 12.亨利. 16. 正弦。 17.伦茨。 18.加上。 19. 和弦。 23.海伯子。 24. 银。 25. 中子。 26. 气缸。 31.一百。 32.世纪。 33.离子。 34.当前。 39.杜瓦瓶。 40.代数。 41. 长度。 44.米。 45. 氮气。 47.四十。 48. 专注。 52. 规模。 53. 光子。 57. 铟。 58. 方法。 61. 法律。

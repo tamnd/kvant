@@ -1,0 +1,48 @@
+---
+id: 1974-8-berezin-vstrecha-s-nashimi-chitatelyami-ea89534b
+issue: kvant_1974_8
+year: 1974
+number: "8"
+title: 与我们的读者见面
+authors:
+  - Березин В. Н.
+rubric: smes
+page_first: 29
+page_last: 29
+page_labels: "27"
+tag: VK81
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: c9bf50aaa407da5d3afccb3b39bae6d5b651af89b780f796baf06858253a1a61
+prompt_sha256: draft-1
+translated_from: content/ru/1974/08/articles/05_berezin-vstrecha-s-nashimi-chitatelyami-ea89534b.md
+source_content_sha256: 9d8ce78206625b8c757ac80d2dcbf85992f3619030e8858edd6393514a12bbe0
+translation_model: draft
+translation_run: zh-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 27⟧
+
+昵称$\tilde{a}^2 a_*^2 (\tilde{b}^2 b_*^2)$等于顶点$\tilde{a}^1$和$\tilde{a}^2$（分别为顶点$\tilde{b}^1$、$\tilde{b}^2$）的第二斜坐标之差的模并且等于1；真的吗：
+
+$$\left| \sum_{j=1}^{n} a_j^1 - \sum_{j=1}^{n} a_j^2 \right| = \left| \sum_{j=1}^{n} \left( a_j^1 - a_j^2 \right) \right| = a_i^2 - a_i^1 = 1 - 0 = 1.$$
+
+因此，三角形$\tilde{a}^1 a_*^2$和$\tilde{b}^1 b_*^2$的两条边和它们之间的角度相等。这意味着边$\tilde{a}^1 a_*^2$和$\tilde{b}^1 b_*^2$（立方体同向边的图像）也相等且平行——这是需要证明的。
+
+为了证明性质2）——立方体垂直边的图像不平行——只要验证底边的图像不平行就足够了。后者是显而易见的，因为图像的基本边缘。
+
+结论
+
+我们已经证明了 $n$ 维立方体斜平行投影到平面上的可能性。请注意，图 4 a、b 中所示的立方体图还有一个属性：顶点 *odinakovoeo beca* 位于同一条直线上，平行于第一坐标方向。绘图的这个属性对于平行投影来说不是必需的 - 例如，它不满足 图 1。但通常正是这个属性有助于更好地理解像 $n$ 维立方体这样的代数对象的内部结构。
+
+与我们的读者见面
+
+该杂志的编辑们拜访了莫斯科附近扎戈尔斯克镇扎戈尔斯克光机厂专业教授图书馆内的学童。该图书馆是该市最大的图书馆之一；其读者中有许多订阅我们杂志的小学生。
+
+会议由杂志副主编V.A.列什科夫采夫主持。他谈到了«Kvant»给自己设定的任务，谈到了近期将出现在杂志上的文章。学生们则向编辑表达了一些愿望，指出了他们特别感兴趣的数学和物理部分，并为文章提出了一些主题。随后编辑人员对读者提出的问题进行了解答。
+
+最后，举办了一场解决问题的小型竞赛，获胜者都获得了令人难忘的书籍。
+
+V·N·贝雷津
