@@ -1,0 +1,58 @@
+---
+id: 1972-6-armyanskie-narodnyie-zadachi-7bb458b4
+issue: kvant_1972_6
+year: 1972
+number: "6"
+title: 亚美尼亚国家任务
+rubric: smes
+page_first: 30
+page_last: 30
+page_labels: "28"
+tag: XCO1
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: ee4207a4d2c317e6fd7c07b8c1d317806d88c17d060847a1467c10a6c48f9e72
+prompt_sha256: draft-1
+translated_from: content/ru/1972/06/articles/11_armyanskie-narodnyie-zadachi-7bb458b4.md
+source_content_sha256: d5043f56524e4f888b9a4249b80e9cfd77fd14d4dfa48e5f778d5bc56e1adc96
+translation_model: draft
+translation_run: zh-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 28⟧
+
+亚美尼亚的国家任务
+
+（读者来信）
+
+亲爱的编辑们！
+
+在我们学校，我们已经是数学课“XYZ”（X - 工作，Y - 知识，Z - 民间传说）的二年级学生。主要俱乐部收集民间任务，这些任务在亚美尼亚被称为“khrakhchanaks”。而且有很多...
+
+亚美尼亚数学家 Anania Shirakatsii（七世纪）、Mkhitar Yerznikatsii（十四世纪）、Zakaria Sarkavarg（十七世纪）等人在他们的著作中提出了不同的“khrahchanaks”。
+
+...“XYZ”班的成员收集并编辑了超过 15 个问题 - 来自我们 cela 的 khrahchanaks。我们向您介绍其中一些。
+
+石头被拉到院子里
+
+在建造 Vaanavaank *) 期间，从采石场取出了一块 200 磅重的石头。半路上，四头公牛把他追了三天。石头很重，必须把它打碎，还剩下150磅，而他们带走的牛只有一半。这块石头花了多长时间才被拖进瓦纳瓦安卡的庭院？
+
+一百马赞小麦
+
+磨坊主将 100 马赞小麦分成三份，分别装在马、驴和驴身上。如果你从马的负载中去掉驴的负载，那么驴可以通过六步转移剩余的负载，如果你去掉两个驴的负载，那么驴可以通过四步转移剩余的负载，而在第五步中，剩下的负载将比前四步中的每一步少一半。
+
+*) Vaanavak 是著名的亚美尼亚赫韦克修道院。
+
+找出 MelBnik 在马、驴和毛驴上装载了多少货物？
+
+纳瓦萨德的女儿们
+
+纳瓦萨德的女儿们是地毯编织工。如果纳瓦萨德给每个女儿七个绞纱减去一绞，那么他仍然会剩下相同份额的绞纱。如果他给每个人七根，再多一缕，那么他的女儿就根本没有扎列尼特基了。纳瓦萨德有多少个绞纱，有多少个女儿？
+
+狐狸和幼崽
+
+七座山上有七棵树，每棵树下有七个洞，每个洞里住着七只狐狸，每只狐狸有七个崽。总共有多少只狐狸？
+
+罗伯特·埃亚南斯基俱乐部“XYZ”勒纳佐尔学校对亚美尼亚苏联卡凡地区的回忆

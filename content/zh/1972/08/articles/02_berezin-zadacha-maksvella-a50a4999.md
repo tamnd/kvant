@@ -1,0 +1,39 @@
+---
+id: 1972-8-berezin-zadacha-maksvella-a50a4999
+issue: kvant_1972_8
+year: 1972
+number: "8"
+title: 麦克斯韦问题
+authors:
+  - Березин В. Н.
+rubric: smes
+page_first: 84
+page_last: 84
+tag: J8IM
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 78ddf163dcb826ec99bad1440fdc200d80c5aea1eb6dedfee333d065a8d224d9
+prompt_sha256: draft-1
+translated_from: content/ru/1972/08/articles/02_berezin-zadacha-maksvella-a50a4999.md
+source_content_sha256: caec7575f3a4bb3eefd47174cce11932b52485f99f312d71d43db4da6c63f629
+translation_model: draft
+translation_run: zh-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+麦克斯韦问题
+
+杰出的英国理论物理学家詹姆斯·克拉克·麦克斯韦（James Clerk Maxwell，1831-1879）对初等几何很感兴趣。这是他在一篇关于结构力学的文章中提出的问题之一，该文章发表在《伦敦、爱丁堡和都柏林哲学杂志》和《科学杂志》（1864 年）上。
+
+在三角形内部，任意取一个点（图1）并将其连接到顶点。证明，如果您构建一个边平行于这些线段的三角形，并通过其顶点绘制与给定三角形 (图 2) 的边平行的线，那么它们将在一点相交，如 图 所示。
+
+我们来证明一下。在 图 3 处，围绕构成数据的每个三角形描述了一个圆。顶点位于这些圆的中心的三角形的边平行于相同的线段。新三角形与 图 2 上的三角形类似，通过其顶点绘制的线段也向其边倾斜，与 图 2 上相同颜色的线段相同。由于这些线段相交于该三角形的外接圆的中心，因此 图 2 上的线段也必须相交于一点。证明完毕。
+
+现在不难找到杰出的德国几何学家雅各布·施泰纳（Jacob Steiner，1796-1863）的以下问题的解决方案：如果从三角形$A_1B_1C_1$的顶点$A_1, B_1$和$C_1$出发，省略三角形$A_2B_2C_2$的相应naimm线段$B_2C_2, C_2A_2$和$A_2B_2$的重分配器，则这些重分布相交于一点，则分别从顶点 $A_2, B_2$ 和 $C_2$ 到边 $B_1C_1, C_1A_1$ 和 $A_1B_1$ 的重分布相交于一点（证明这一点）。
+
+还有一个问题：麦克斯韦可以从他所证明的陈述中推出什么机械结果？
+
+V.N.贝雷津。

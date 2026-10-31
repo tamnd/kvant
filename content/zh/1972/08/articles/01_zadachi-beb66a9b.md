@@ -1,0 +1,53 @@
+---
+id: 1972-8-zadachi-beb66a9b
+issue: kvant_1972_8
+year: 1972
+number: "8"
+title: '[任务]'
+rubric: kvant-dlya-mladshih-shkolnikov
+page_first: 83
+page_last: 83
+tag: SUV0
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: fa8b9601b9a3b0e4940677496fd72d978955769f9d596dc2c556e5ccee423d0c
+prompt_sha256: draft-1
+translated_from: content/ru/1972/08/articles/01_zadachi-beb66a9b.md
+source_content_sha256: 7b980afba3e8e81632c051ac6bc9e8b65f4516dbe248e3e155742d77cb3d0cb2
+translation_model: draft
+translation_run: zh-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+量子
+对于年轻的学生
+
+1. 足球锦标赛的获胜者是四支球队：迪纳摩队、斯巴达克队、劳动队和矿工队，他们的积分相同。获胜队之间还组织了一场额外的锦标赛，每队之间进行一场比赛。胜一场得2分，平一场得1分。迪纳摩队得5分，特鲁德队得3分，矿工队得1分。在附加赛中，共打进11球，其中5球是由特鲁德球员打进的。
+顺便说一句，这支球队以2:1的比分击败了矿工队。恢复剩余比赛的结果。
+
+2. 左侧图，城市用点标记，将其道路与路段连接起来（除了图所示的道路外，没有其他道路）。奈斯蒂
+
+从A城市到B城市的最短路径，前提是中间城市的数量是偶数（因此，从A到B的直接路径不合适，否则会经过奇数个城市）。
+
+3. 当老师走进教室时，Dejkurny 正在擦除老师要使用的上一课的录音。停止吸烟者后，老师要求他用剩余的数字进行重建。
+
+删除了。可以这样做吗？
+
+4. 两个朋友站在地铁自动扶梯的底部。他们想要计算入口和出口之间自动扶梯的台阶数。然而，追踪移动的脚步却并不那么容易，很快朋友们就变得困惑了。然后他们决定使用一种更可靠的方法
+
+9 053
+9 56
+4 4
+18
+7 18
+3 2
+8 3 3
+4 2 4
+4 4 2 5
+
+托德。两人同时踏上自动扶梯，一人迈出两步，一人迈出一步（没有人跳过台阶）。为了到达自动扶梯的顶部，走得更快的朋友需要走28步，而另一个只走了21步。自动扶梯有多少级台阶（从下到上）？
+
+Y.卡兹克。

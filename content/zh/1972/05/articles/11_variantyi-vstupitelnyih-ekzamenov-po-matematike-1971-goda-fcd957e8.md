@@ -1,0 +1,71 @@
+---
+id: 1972-5-variantyi-vstupitelnyih-ekzamenov-po-matematike-1971-goda-fcd957e8
+issue: kvant_1972_5
+year: 1972
+number: "5"
+title: 1971年数学入学考试选项
+rubric: praktikum-abiturienta
+rubric_sub: Практикум абитуриента
+page_first: 45
+page_last: 45
+page_labels: "43"
+tag: RVL0
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: db5061ff79d0c612c07416046d015ce843c653882c3d52600f5dc473f4e8d90d
+prompt_sha256: draft-1
+translated_from: content/ru/1972/05/articles/11_variantyi-vstupitelnyih-ekzamenov-po-matematike-1971-goda-fcd957e8.md
+source_content_sha256: d4f6859e31c900d888b9e0c8112f404b52d3a9f61962d3a254d1ff19d621f2ef
+translation_model: draft
+translation_run: zh-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 43⟧
+
+选项1
+
+1. 剩下的三个数量点$A$，第一个是其他人的一小时工作，同时开始。每个速度的速度是恒定的。过了一段时间，第三只追上了第一只，第二只比第三只晚了两个小时才追上第一只。如果第二辆车的速度与第三辆车的速度之比为2/3，则求第一辆车和第三辆车的速度之比。
+
+2. 解方程：
+$$tg x + tg 2x + tg 3x + tg 4x = 0.$$
+
+3. 三角形$ABC$的内切圆将中线$BM$分成三等份。求出比率 $BC:CA:AB$。
+
+4. 求方程组的所有解：
+$$\begin{cases} y^2 - xy + x^2 = z^2, \\ x^2 - xz + z^2 = y^2, \\ z^3 - y^3 = x^2 + y^2 + z^2. \end{cases}$$
+
+5. 给定一个正三角形paramid $SABC$（$S$是顶点）。该paramid的边$SC$与直角三角形特征$A_1B_1CA_2B_2S$的侧边重合（$A_1A_2, B_1B_2$和$CS$是侧边；$A_1B_1C$是底边之一）。顶点 $A_1$ 和 $B_1$ 位于 paramid 的面 $SAB$ 的平面内。如果帕拉玛达侧边的长度与帕拉玛达底边的长度之比等于$2/\sqrt{3}$，则整个帕玛达的体积中位于帕拉玛达内部的部分的体积应该是多少？
+
+选项2
+
+1. 一个两位数除以各位数字上的乘积，其部分为3，余数为9。用该数各位数字之和的平方减去各位数字上的乘积，即可得到给定的数。找到这个号码。
+
+2. 解方程：
+$$\sin x + \sqrt{1 + \sin 2x} - \cos x = \frac{1}{2}.$$
+
+3. 在三角形 $ABC$ 中，在边 $AC$ 上取点 $M$，在边 $BC$ 上取点 $N$。线段 $AN$ 和 $BM$ 相交于点 $O$。如果三角形$OMA, OAB$和$OBN$的面积分别等于$S_1, S_2, S_3$，求三角形$CMN$的面积。
+
+4. 求方程组的所有解：
+$$\begin{cases} y + z = 2x, \\ y^2 + 3z^2 = 28x^2, \\ y^3 + 8z^3 = (y - 4x)(1 - 4z + 7xy). \end{cases}$$
+
+5. 在 paramid $SABC$ 的底部有一个正三角形 $ABC$，所有侧面面积相等。边$SA$等于2厘米，边$SB$等于$\sqrt{2}$厘米。 paramid 的一部分是通过垂直于边 $SC$ 的顶点 $B$ 绘制的。求该部分的面积。
+
+莫斯科无线电工程、电子与自动化学院
+
+选项1
+
+1. 求解方程组：
+$$\begin{cases} \sqrt{3}x + \sqrt{3}y = 3, \\ x + y = 9. \end{cases}$$
+
+2. 解方程：
+$$\frac{\log_2 x - 1}{\log_2 \frac{x}{2}} - 2 \log_2 \sqrt{x} + \log_2^2 x = 3.$$
+
+3. 求方程的解：
+$$tg\left(\frac{5\pi}{2} + x\right) - 3 tg^2 x = (\cos 2x - 1) \sec^2 x,$$
+满足条件$x > 3$。
+
+4. 关于三角形$ABC$的角度，已知$tg A : tg B : tg C = 1 : 2 : 3$。求这些角度的正弦比。
+
+5. 证明多项式 $x^8 - x^5 + x^2 - x + 1$ 对于所有实数 $x$ 均为正。

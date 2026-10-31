@@ -1,0 +1,48 @@
+---
+id: 1989-2-vnimaniyu-podpischikov-4324a101
+issue: kvant_1989_2
+year: 1989
+number: "2"
+title: 订阅者请注意！
+rubric: raznoe
+page_first: 51
+page_last: 51
+page_labels: "49"
+tag: 9WO5
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 1aa4c1c2f37991e4d41608a22e3b994449eef9a2de833aefa1a393133b5347b3
+prompt_sha256: draft-1
+translated_from: content/ru/1989/02/articles/12_vnimaniyu-podpischikov-4324a101.md
+source_content_sha256: 7cde078f511cd170846d27977b993c4ec5407df853965485c91f6a070d9f01ea
+translation_model: draft
+translation_run: zh-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 49⟧
+
+时间间隔为1至17分钟。
+为什么我们有信心做到这一点？事实是以下定理成立：
+如果k和m是互质数，那么对于任何整数n，我们也可以选择整数x和y，使得xk+ym=n。这个定理和沙漏有什么关系呢？最直接的。由此可见，如果您有 k 分钟和 m 分钟时钟，并且数字 k 和 m 互质，则可以测量任何整数分钟。事实上，如果我们想测量n分钟，我们就会找到满足这个方程的数字x和y。现在，在这两个数字均为正数的情况下，我们首先使用 k 分钟时钟测量 xk 分钟，然后使用 m 分钟时钟测量另一个 ym 分钟。如果其中之一（例如 y）为负，则我们同时启动两个时钟，反转倒出沙子的时钟的时间，并在 m 分钟时钟计算其 (-ym) 分钟时（y<0！），我们停止 k 分钟时钟。现在，要计算 n 分钟，您应该启动一个 k 分钟时钟并保持运行，直到完成 xk 分钟的计算。
+
+因此，停止后启动的k分钟时钟将计算xk-(−y)m=xk+ym=n分钟。
+
+不知道如何求方程xk+ym=n的解？事实证明，学习如何求解方程 xk+ym=1 就足够了：如果 x=a, y=b 是该方程的解，则 x=na, y=nb 是方程 xk+ym=n 的解。
+
+是的，但是如何找到方程 xk+ym=1 的解呢？有很多方法，我们将描述最简单的，但可能不是最短的。
+
+让我们把这个方程写成 y=(1−xk):m 的形式，并给数字 x 赋值 0, 1, 2, ..., m−1。让我们证明，如果 k 和 m 互质，那么对于这些​​值之一，数字 (1−xk):m 将是一个整数。让我们找到 m 个数 1−0·k, 1−1·k, ..., 1−(m−1)·k 的划分。它们是成对不同的，否则数字 (1−x1k)−(1−x2k)=(x2−x1)k 将被 m 整除，这意味着 x2−x1 将被 m 整除（k 和 m 互质！），这是不可能的，因为 x2−x1<m。因此，对于 x 的某些值，余数为零；因此，数字 y=(1−kx):m 是一个整数。这些 x 和 y 构成了方程 xk+ym=1 的所需解。
+
+订阅者请注意！
+
+目前，我们杂志的页数增加了 25%，这使我们能够开设许多新版块。
+
+补偿通知期刊卷的费用
+
+每间客房的价格上涨5戈比。该杂志的新价格是 45 戈比。不幸的是，通知期刊数量和费用的决定是在 Soyuzpechat 目录发布并开始 1989 年订阅之后才获得批准的。如果您已经订阅，我们请您根据 Soyuzpechat 分支机构的规定，
+
+每间客房加收5戈比的费用。
+
+对于那些从年初以来还没有时间订阅«Kvant»的人，我们提醒您，Soyuzpechat 代理机构、邮局和邮局都可以不受限制地接受订阅。 Soyuzpechat 目录中的期刊索引 «Kvant» 70465。

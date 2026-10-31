@@ -1,0 +1,86 @@
+---
+id: 1989-2-kurlyandchik-izbrannyie-shkolnyie-zadachi-b5c912d9
+issue: kvant_1989_2
+year: 1989
+number: "2"
+title: 选定的学校问题
+authors:
+  - Курляндчик Л. Д.
+rubric: shkola-v-kvante
+rubric_sub: Школа в «Кванте»
+page_first: 56
+page_last: 56
+page_labels: "54"
+tag: V97W
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 0d70f1fd8bff199526258a252a8ec9fff7d73eed0f2d15e0324d070a9a2cb495
+prompt_sha256: draft-1
+translated_from: content/ru/1989/02/articles/14_kurlyandchik-izbrannyie-shkolnyie-zadachi-b5c912d9.md
+source_content_sha256: 76a23dda6e2145d2f314c62d9383a5ccf56e45ee1aa70a3f992dd3f79d7fed76
+translation_model: draft
+translation_run: zh-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 54⟧
+
+推论2. 三个旋转的组合是恒等变换当且仅当它具有至少一个固定点并且旋转角度之和等于360°或720°。
+
+让我们展示如何将旋转组合的属性应用于问题解决。
+
+任务。在三角形 ABC 的边 BC 和 CA 上构造其所有等边三角形 BCN 和 CAP。求三角形 MON 的角度，其中 M 是边 AB 的中点，O 是三角形 CAP 的中心。
+
+解决方案。为了定义该系统，假设三角形 ABC 的方向为正。让我们以 O、N、M 为中心连续旋转 3 次
+
+选定的学校问题
+
+八年级
+
+1. 出于数字目的求解方程
+$$1+x+x^2+x^3=2^y.$$
+
+2. 求解方程组
+$$x_1x_2x_3=1,$$
+$$x_2x_3x_4=-1,$$
+$$x_3x_4x_5=1,$$
+$$x_{10}x_1x_2=-1.$$
+
+3. 一个圆圈周围写有 30 个数字，每个数字都等于它顺时针方向跟随的两个数字的模差。所有数字的总和是 20。找出这些数字。
+
+4. 证明在半径为 1 的圆中不可能选择超过 5 个两两距离大于 1 的点。
+
+5. 在会议上，收集两次徒步旅行的所有部分。他们中的一些人参加了两项活动，一些人只参加了其中一项活动。在第一次竞选中，男性比例为 60%，在第二次竞选中，男性比例为 75%。证明参加会议的男性人数至少与女性人数相同。
+
+九年级
+
+6. 给定函数$p(x)=\frac{x^2}{1+x^2}$。查找金额
+$$p\left(\frac{1}{1}\right)+p\left(\frac{2}{1}\right)+...+p\left(\frac{100}{1}\right)+$$
+$$+p\left(\frac{1}{2}\right)+p\left(\frac{2}{2}\right)+...+p\left(\frac{100}{2}\right)+$$
+$$+p\left(\frac{1}{100}\right)+p\left(\frac{2}{100}\right)+...+p\left(\frac{100}{100}\right).$$
+
+7. 证明在 $\frac{k(k+1)}{2}$ 形式的数中存在无限多个完全平方数。
+
+8. 求三角形边长的比率，其中一个中线被周长分成三等份。
+
+9. 设 MA 和 MB 与圆相切，C 为以此圆为界的圆上的一点，位于以 M 为圆心的圆弧 AB 上。证明直线 AC 和 BC 与给定圆的交点与 A 和 B 不同，是直径相对的。
+
+10. 给定一个等边三角形ABC。求点 M 的轨迹，使得三角形 AMB 和 BMC 等边。
+
+十年级
+
+11. 设a、b、c为正数。证明
+$$(a^a b^b c^c)^2 \geq a^b+c^b+c^a+b^a.$$
+
+12. 设a、b、c、d为任意数，且其和为1。证明
+$$a^2+b^2+c^2+d^2-2ab-2bc-2cd-2da \geq -\frac{1}{4}.$$
+
+13. 证明如果地形的其中一个高度与另外两个高度相交，则所有四个高度都相交于一点。
+
+14. terraera 能否在每条边上放置一个箭头，使得六个正向量之和等于 0？
+
+15. 证明：
+a) 数字$tg^2 20^\circ, tg^2 40^\circ, tg^2 80^\circ$是方程$x^3-33x^2+27x-3=0$的根；
+b) $\frac{1}{\cos^2 20^\circ}+\frac{1}{\cos^2 40^\circ}+\frac{1}{\cos^2 60^\circ}+\frac{1}{\cos^2 80^\circ}=40$.
+该出版物由 L. D. Kurlyandchik 编写

@@ -1,0 +1,57 @@
+---
+id: 2009-6-zadachi-bebd8705
+issue: kvant_2009_6
+year: 2009
+number: "6"
+title: 任务
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 28
+page_last: 28
+page_labels: "26"
+tag: 08GP
+lang: zh
+source: kvant_digital
+extraction: native
+content_sha256: 2bcfb4ca9eb78709c94bd0c7364502bc288e2fc97b621ec65e67026ac5aa6cd1
+prompt_sha256: draft-1
+translated_from: content/ru/2009/06/articles/03_zadachi-bebd8705.md
+source_content_sha256: 0b97d09d536c35c1b8cd80afb4aa0e44c63156859535ad0810c906dc14f58a3a
+translation_model: draft
+translation_run: zh-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 26⟧
+
+知识管理系统
+
+科万特 2009/No.6
+
+任务
+
+1.
+
+特威斯特先生继承了几家工厂。他一生中，有7家工厂破产，他把剩下的平分给七个儿子。小儿子一生将6座工厂置于风中，其余的分给了他的七个儿子。他的小儿子拍卖了5家工厂，但按照家族传统，他把剩下的分给了七个儿子。在他小儿子的一生中，有4家工厂破产，但到了遗产的时候，却没有什么可以分割的——这位失败的商人只剩下了一家工厂。 Twister 先生最初拥有多少家工厂？ A·哈恰图良
+
+⟦column⟧
+
+4.
+
+彼佳离开平原A点，向南走了1m，向西2m，向北3m，向东4m，向南5m，向西6m，向北7m，向东8m等。总共走了5公里，彼佳累了，坐下来休息。这发生在距 A 点多远的地方？ S. Dorichenko、T. Golenishcheva-Kutuzova
+
+2.
+
+该行星具有球的形状。是否可以在上面画出 2009 年的经线和 2010 年的平行线，以便将地球划分为面积相等的部分？ G·加尔佩林
+
+5.
+
+插图：D. Grishukova
+
+一共有 9 枚外观相同的硬币。其中一件是假的，比真品轻。其中一枚硬币粘在没有砝码的秤盘上。没有时间把它撕下来。如何通过两次称重找出假币？ （也可能被卡住。） A. Shapovalov
+
+3.
+
+两个泵一起在两个小时内注满水池，但它们单独注满整个池子需要不同的小时数。每个泵需要多少小时才能注满水池？科尼舍夫
+
+这些任务主要针对 6-8 年级的学生。

@@ -1,0 +1,61 @@
+---
+id: 2008-4-zadachi-8a9ac6a1
+issue: kvant_2008_4
+year: 2008
+number: "4"
+title: 任务
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 28
+page_last: 28
+page_labels: "26"
+tag: I7ON
+lang: zh
+source: kvant_digital
+extraction: native
+content_sha256: 6347b5caf80b3d9644e2910c393ddb306f9a31a0fc47746ed514bc19421ee2ee
+prompt_sha256: draft-1
+translated_from: content/ru/2008/04/articles/02_zadachi-8a9ac6a1.md
+source_content_sha256: db32a18b2a252972a93d3815923e59bdafb1f505fec4604a38ecee9817ab7e6e
+translation_model: draft
+translation_run: zh-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 26⟧
+
+知识管理系统
+
+科万特 2008/No.4
+
+任务
+
+1.
+
+将 1 到 9 的所有数字排列在左三角形的圆圈中，使得等式 c 2 = a 2 + b 2 成立，其中 c 是位于斜边上的数字之和，a、b 是位于腿上的数字之和。
+
+⟦column⟧
+
+4.
+
+以正方形对角线为中心的圆穿过其一个顶点并与其边相交，如 图 所示。红色弧线标记的角是多少度？普罗兹沃洛夫
+
+对于直角三角形的圆可以这样做吗？ M·艾哈迈德扎诺娃
+
+2.
+
+在999,999张六位数的车票中，前三位数字之和与后三位数字之和相匹配的车票被认为是幸运的。我们将号码恰好包含三个连续的号码称为倒霉票
+
+5.
+
+六。幸运票和倒霉票分别有多少张？ A·里亚霍夫斯基
+
+3.
+
+证明如果 a、b、c 是奇数，则数字 ab – 1、bc – 1、ca – 1 中至少有一个能被 4 整除。 V. Senderov
+
+这些任务主要针对 6-8 年级的学生。
+
+插图：D. Grishukova
+
+如果古代钟表发明者不是生活在地球的北半球，而是生活在地球的南半球，你认为钟表与现有的钟表有何不同？ E·索科洛夫

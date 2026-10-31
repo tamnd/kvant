@@ -1,0 +1,61 @@
+---
+id: 1972-6-skopets-sootnoshenie-leybnitsa-i-raspredelitelnoe-svoystvo-skalyarnogo-proizvedeniya-vektorov-d98a246f
+issue: kvant_1972_6
+year: 1972
+number: "6"
+title: 莱布尼兹关系与向量标量积的分布性质
+authors:
+  - Скопец З. А.
+rubric: osnovnye-stati
+page_first: 24
+page_last: 24
+page_labels: "22"
+tag: 6TLP
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: d2ca73371ba3d8e1bcb2dcb1dd81e1826d6052f704082b4fdaf275f2811bc36a
+prompt_sha256: draft-1
+translated_from: content/ru/1972/06/articles/09_skopets-sootnoshenie-leybnitsa-i-raspredelitelnoe-svoystvo-skalyarnogo-proizvedeniya-vektorov-d98a246f.md
+source_content_sha256: 105f778019701568f73fe699c772a204c12745a2f373f77fb3d940d853e32de7
+translation_model: draft
+translation_run: zh-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 22⟧
+
+莱布尼兹对应与向量标量积的分布性质
+
+Z·A·斯科佩茨
+
+回想一下，两个向量的标量积是一个数字，等于这些向量的长度（模）与它们之间的角度的余弦的乘积：
+
+$$a \cdot b = |a| \cdot |b| \cdot \cos(a, b).$$
+
+(1)
+
+这个定义适用于平面和空间上的向量。标量乘法与分布向量（distributive）定律的加法有关：
+
+$$a(b + c) = ab + ac.$$
+
+(2)
+
+该属性在许多情况下都很方便使用，特别是在证明有关垂直线和平面的立体定理*）时。但问题是，属性 (2) 本身通常是使用其中一些定理来证明的**）。在这篇文章中，我们将证明有一种方法可以避免这个缺点：我们将从三角形帕酰胺元素的莱布尼茨对应关系中推导出性质（2），然后在不使用立体几何定理的情况下证明这种对应关系。
+
+莱布尼茨的信件本身就很有趣。表示从四面体的顶点到四面体面与该顶点相对的中线交点的距离
+
+图 1.
+
+除所有六个肋骨的长度。
+
+1. 莱布尼茨的书信。给定正四面体 OABC (图 1)，G 为三角形 ABC 中线的交点。假设：OG = d、OA = a、AB = c₁、OB = b、OC = c、BC = a₁、CA = b₁。
+然后
+$$d^2 = \frac{1}{3} (a^2 + b^2 + c^2) - \frac{1}{9} (a_1^2 + b_1^2 + c_1^2).$$
+
+(3)
+
+稍后我们将得出这个对应关系。现在让我们展示一下
+
+*) 根据新计划，空间向量的运算将在九年级的立体测量课程中学习。
+**) 在文章末尾的附录中，相应的短语以斜体显示。

@@ -1,0 +1,76 @@
+---
+id: 1989-3-vishnevskiy-novosibirskiy-gosudarstvennyiy-universitet-im-leninskogo-komsomola-7e8d4c76
+issue: kvant_1989_3
+year: 1989
+number: "3"
+title: 新西伯利亚国立大学以该大学的名字命名。列宁共青团
+authors:
+  - Вишневский М. Л. и др.
+rubric: ekzamenatsionnye-materialy
+rubric_sub: Экзаменационные материалы
+page_first: 67
+page_last: 67
+page_labels: "65"
+tag: 179Z
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 7ef8575942f7847d51106f0cbe529df42eb2b7c887103bd2a4042e20cb65da33
+prompt_sha256: draft-1
+translated_from: content/ru/1989/03/articles/19_vishnevskiy-novosibirskiy-gosudarstvennyiy-universitet-im-leninskogo-komsomola-7e8d4c76.md
+source_content_sha256: 105475ab20624487e001299c2bc2408c1c817b0eab6518281beb7d36e834f50b
+translation_model: draft
+translation_run: zh-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 65⟧
+
+新西伯利亚国立大学以该大学的名字命名。列宁共青团
+
+Matematika
+笔试
+选项1（力学、数学和经济学院）
+1. 在平面上，找到一个与坐标 (2; 4) 相对于方程 $2x+y=3$ 给出的直线对称的点。
+2. 解方程
+$$\log_{x+2}\log_2\log_{x+3}(11x^2+46x+48)=0$$
+3. 半径为$3r$的圆$O_1$与角$ABC$的边$AB$的延长线相切，其圆心位于边$BC$上。半径为 $r$ 的圆 $O_2$ 与角 $ABC$ 和圆 $O_1$ 的边相切。求角度 $ABC$。
+4. 解方程
+$$\arcsin\left(\frac{1}{2}+\frac{\pi}{2}\cos x\right)+\arccos\left(\frac{1}{2}+\frac{\pi}{2}\sin x\right)=\frac{\pi}{2}$$
+5. 在四边形帕拉米$SABCD$的底边有直角$ABCD$、$AB=5$、$BC=2$。已知$SB=4$、$SA=3$、$SC=x$、$SD=y$。 $x$和$y$取什么值时，paramid的体积最大，这个体积等于多少？
+选项2（自然科学和地质地球物理学院）
+1. 顶点在轴 $Ox$ 上的抛物线与通过点 $A(-1, -1)$ 和 $B(4, 4)$ 的线在点 $A$ 相切。求抛物线的方程。
+2. 解方程
+$$4\sqrt{2}\sin\left(x+\frac{\pi}{4}\right)\cos 2x-2\sin^2 x=\sin 2x$$
+3. 用指节铜套 $AC=5$、$BC=12$ 围绕直角三角形 $ABC$ 外接一个圆。点$E$、$G$是该圆的较小圆弧$AC$、$BC$的中点，点$F$是圆弧$AB$的中点，其中不包含点$C$。求四边形$AEFG$的面积。
+4. 解方程
+$$\log_{x+2}\log_2\log_{x+3}(11x^2+46x+48)=0$$
+5. 底边为$ABC$的正三棱柱$ABCA_1B_1C_1$的所有边都等于1。侧边为$AA_2$、$KK_2$、$LL_2$的棱柱$AKLA_2K_2L_2$相对于点$A$与棱柱$ABCA_1B_1C_1$对称。点$E$属于线段$AK$、$AE:EK=1:3$，点$F$属于线段$K_2L_2$、$K_2F:FL_2=3:5$。求直线 $EF$ 与棱镜 $ABCA_1B_1C_1$ 相交的线段的长度。
+
+选项3（力学、数学和经济学系）
+1. 求解方程组
+$$\begin{cases} 7^{2x}+4^{2y+1}=85, \\ 7^x-4^y=5. \end{cases}$$
+2. 找出方程的所有根
+$$\frac{\sin 2x-0,8\cos x+1}{\sin \frac{x}{2}}=5\cos \frac{x}{2},$$
+位于线段 $\left[\frac{5\pi}{6}; 2\pi\right]$ 上。
+3. 在面积为 $24\sqrt{5}$ 的钝角三角形 $ABC$ 中，中线 $AN$、$CM$ 相交角 arccos $\frac{2}{3}$。如果$AN-CM=3$，求三角形的边。
+4. 对于参数$a$的取值，方程
+$$ax^2+3x+2a^2-3=0$$
+只有整数解吗？
+5. 在正三棱柱$ABCA_1B_1C_1$的底边有一个边长为2的等边三角形$ABC$，边$AA_1$、$BB_1$、$CC_1$都等于1。点$K$为边$AB$的中点，点$L$为边的中点$B_1C_1$，点$M$是边$A_1B_1$的中间，点$N$是边$AC$的中间。通过直线 $KL$、$MN$ 绘制平行平面。求包含在这些平面之间的棱柱部分的体积。
+
+选项 4（物理系）
+1. 解方程
+$$\text{ctg}x+\frac{\text{ctg}^2x}{3}+\frac{\text{ctg}^3x}{9}+\frac{\text{ctg}^4x}{27}=0.$$
+2. 解决不等式
+$$\left(2^{x+1}-3^{x+1}\right)\sqrt{2^{2x}-2^{x+3}\cdot3^x+11\cdot3^{2x}} \geq 0.$$
+3. 在平行三角形$ABCD$中，点$M$是边$AB$的中点。已知角$C$的平分线将三角形$AMD$的面积分成两半。如果$CD=4$，求边长$AD$。
+4. 找到不等式系统的所有解
+$$\begin{cases} x^2-6x+6y \leq 0, \\ y^2-2xy+9 \leq 0. \end{cases}$$
+5. 在四棱柱$ABCDA_1B_1C_1D_1$的底部有一个菱形$ABCD$，边长为5，对角线为$AC=8$。边 $AA_1$、$BB_1$、$DD_1$ 被打乱并在点 $C$ 处接触平面 $ABCD$。求球的半径。
+
+选项5（物理自然科学和地质地球物理）
+1. 解方程
+$$\lg \frac{4x^2+1}{2-x}+\lg \frac{2-x}{11x+4}=0.$$
+2. 找出方程的所有根
+$$\frac{\sin 2x-0,8\cos x+1}{\sin \frac{x}{2}}=5\cos \frac{x}{2},$$

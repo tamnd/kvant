@@ -1,0 +1,54 @@
+---
+id: 2008-2-zadachi-bed3fbd2
+issue: kvant_2008_2
+year: 2008
+number: "2"
+title: 任务
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 25
+page_last: 25
+tag: V5PW
+lang: zh
+source: kvant_digital
+extraction: native
+content_sha256: 2ff5b8c552deea61d7d5cae24bb909b52675ddc44f467594c40e1481be7e4ff8
+prompt_sha256: draft-1
+translated_from: content/ru/2008/02/articles/02_zadachi-bed3fbd2.md
+source_content_sha256: 70692424a1b6c414bf9eace5b842e79ca98e72a933dbe92e80ea866002624d70
+translation_model: draft
+translation_run: zh-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+知识管理系统
+
+任务
+
+1.
+
+口头决定：第一个奇数的乘积中必须写出多少因数才能使等式 1 H 3 H 5 H K = 135135 成立？是啊。卡梅什
+
+⟦column⟧
+
+4.
+
+是否存在满足 $x Ч^{2} x + y Ч^{2} y = z Ч^{2} z$ 的自然数 x、y、z？ V·森德罗夫
+
+2.
+
+十位数字 2100010006 的非凡之处在于它“描述了自己”，即它的第一位数字等于其中 1 的数量，第二位等于 2 的数量，……，第九位等于 9 的数量，第十位等于 0 的数量。是否有两个十位数字，每个数字都以相同的方式描述另一个数字？ I·阿库利奇
+
+5.
+
+在乌迪拉耶夫斯克市，道路网的设计方式是从每个十字路口都可以到达任何其他十字路口，并且城市中没有死胡同。一开始，神出鬼没的乔和两名警察在不同的路口，然后开始沿着道路移动。在一个回合中，乔移动到相邻的十字路口或保持在原地；下一步，警察同时向邻近的路口移动。画出一张乌迪拉耶夫斯克市的可能路线图，在这张地图上，神出鬼没的乔知道警察的位置，总能避免被捕。 K·凯巴诺夫
+
+这些任务主要针对 6-8 年级的学生。
+
+插图：D. Grishukova
+
+3.
+
+a) 三棱锥由六段不同长度的段组成。是否真的可以从相同的线段中创建两个独立的（不接触的）三角形？ b) 两个独立的（不接触的）三角形由六段不同长度的线段组成。您是否总是可以用这些相同的片段制作三角金字塔？ G·加尔佩林
