@@ -1,0 +1,59 @@
+---
+id: 2014-1-resheniya-zadach-m2309-m2315-f2315-f2322-efc6b021
+issue: kvant_2014_1
+year: 2014
+number: "1"
+title: Lời giải bài toán M2309—M2315; F2315—F2322
+rubric: zadachnik-kvanta
+rubric_sub: Задачник «Кванта»
+page_first: 29
+page_last: 29
+page_labels: "27"
+tag: S700
+lang: vi
+source: kvant_digital
+extraction: native
+content_sha256: e7a0baf9424cd1d210da1e33af321b9ef9aa82d7fdc2b98aada593de7e753b9a
+prompt_sha256: draft-1
+translated_from: content/ru/2014/01/articles/02_resheniya-zadach-m2309-m2315-f2315-f2322-efc6b021.md
+source_content_sha256: 0c8d1e496270e9b201f7f88beb28f16f6ab138bd341121d761dda21bb947ebc3
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 27⟧
+
+NHÂN VIÊN VẤN ĐỀ
+
+"QUANTA"
+
+F2339. m = 1,1 g nước nặng dạng lỏng $T_{2} O$ ở nhiệt độ $0 \infty C$ được bơm vào bình chân không có dung tích V = 1,5 lít có thành cứng, không dẫn nhiệt và bình được đậy kín. Chu kỳ bán rã của hạt nhân tritium là $\tau = 12,33$ năm. Sự phân rã của một mol hạt nhân triti giải phóng năng lượng E = 1,79 GJ. Nhiệt dung mol của nước nặng giống như nhiệt dung mol của nước thông thường, tức là 75,6 J (mol◊K). Nhiệt bay hơi cũng giống như nhiệt bay hơi của nước thông thường, tức là L = 40 kJ/mol. Nhiệt độ và áp suất bên trong bình sẽ là bao nhiêu sau thời gian t = 2 giờ kể từ khi bắt đầu thí nghiệm? N.Uklonov
+
+⟦column⟧
+
+Đáp số: luôn luôn. Hãy sắp xếp các viên đá theo thứ tự trọng lượng tăng dần. Sau đó, chúng tôi dán lại các nhãn “theo hình tròn”: trên viên đá thứ 1 - nhãn từ viên thứ 2, trên viên thứ 2 - từ viên thứ 3, ..., trên viên đá thứ 100 - từ viên thứ 1. Bây giờ, mỗi viên đá ngoại trừ viên đầu tiên đều có trọng lượng cao hơn. Nếu viên đá thứ nhất không có trong bộ A gồm các viên đá, thì tổng trọng lượng ghi trên nhãn của nó lớn hơn trọng lượng của bộ A. Nếu viên đá thứ nhất được bao gồm trong bộ A, thì tổng trọng lượng trên nhãn của nó nhỏ hơn trọng lượng của bộ A, vì trọng lượng của bộ B bổ sung (bao gồm tất cả các viên đá không có trong A) lớn hơn tổng trọng lượng trên nhãn của B. L. Mednikov, A. Semenov, I. Rubanov, A. Shapovalov
+
+Lời giải bài toán M2309–M2315, F2315–F2322
+
+M2311. Một con ruồi bay bên trong một khối lập phương đơn vị. Khoảng cách ngắn nhất cô ấy phải bay để thăm tất cả các mặt của khối lập phương và quay trở lại điểm xuất phát là bao nhiêu?
+
+M2309. Trên bàn cờ 8 ¥ 8 có 8 quân xe không tấn công lẫn nhau. Tất cả các ô trên bàn cờ được phân chia cho các quân xe này theo quy tắc sau. Ô vuông mà quân Xe đứng được trao cho quân Xe đó. Một ô được chiếm bởi hai quân sẽ được chiếm bởi quân gần ô đó nhất; nếu hai quân này cách đều hình vuông thì mỗi quân sẽ nhận được một nửa hình vuông. Chứng minh rằng diện tích chiếm hữu của tất cả các quân xe là như nhau.
+
+Xe A chỉ chiếm được 15 ô (trên hình - màu hồng) - theo chiều dọc và chiều ngang. Hãy xem xét một ô C khác có cùng hạng với ô A. Nó bị đánh bại bởi đúng một quân B nữa, cùng hạng với nó. Cùng một quân xe chiếm được một ô vuông D, nằm cùng chiều dọc với A. Khi đó A, B, C, D là các ô góc của hình chữ nhật ca rô. Nếu hình chữ nhật này là hình vuông thì quân A và B mỗi quân sẽ được một nửa số hình vuông C và D. Nếu không phải là hình vuông thì một trong các ô C và D sẽ về quân A, quân còn lại thuộc về quân B. Từ đây rõ ràng rằng trong 15 ô màu hồng, quân A sẽ có tổng cộng 8 ô: ô mà nó đứng và một nửa trong số 14 ô còn lại (các ô còn lại sẽ “lấy” một trong 7 ô màu hồng còn lại). Tương tự như vậy, mỗi quân sẽ có 8 ô vuông. L. Mednikov, A. Semenov, I. Rubanov, A. Shapovalov
+
+M2310. Có 100 viên đá có trọng lượng khác nhau (không có viên nào giống nhau), mỗi viên có một nhãn cho biết trọng lượng của nó. Kẻ bắt nạt Grisha muốn dán lại các nhãn sao cho tổng trọng lượng của bất kỳ bộ nào có số viên đá từ 1 đến 99 khác với tổng trọng lượng ghi trên nhãn của bộ này. Liệu anh ấy có thể luôn làm được điều này không?
+
+Đáp số: 2 3. Đặt gốc tọa độ tại một trong các đỉnh của hình lập phương và hướng các trục dọc theo các cạnh của nó. Rõ ràng chỉ cần xét trường hợp quỹ đạo của con ruồi là một đường đứt gãy liên kết n khép kín. Gọi $( x_{i}, y_{i}, z_{i} ), i = 1, 2,$ …, n là tọa độ của các vectơ xác định các cạnh của đường đứt nét, khi đó $d_{i} = x_{i}^{2} + y_{i}^{2} + z_{i}^{2}$ là độ dài của cạnh thứ i và $D = d_{1} + d_{2} +^{…} + d_{n}$ là độ dài của đường đứt nét. Chúng ta đặt $X = x_{1} +^{…} + x_{n}$ (đây là đường chiếu của con ruồi lên trục Ox), tương tự, $Y = y_{1} +^{…} + y_{n}, Z = z_{1} +^{…} + z_{n}$. Chúng ta có thể giả sử rằng con ruồi ban đầu ở trong mặt phẳng x = 0 (mặt phẳng của một trong các mặt), đã ghé thăm mặt phẳng x = 1 của mặt đối diện và quay trở lại. Điều này có nghĩa là $X \ge 2$. Tương tự như vậy, $Y \ge 2$ và $Z \ge 2$. Tổng các vectơ có tọa độ $( x_{i}, y_{i}, z_{i} )$ bằng vectơ (X, Y, Z). Vì tổng độ dài của các vectơ này không nhỏ hơn độ dài tổng của chúng nên ta có
+
+$d_{1} + d_{2} +^{…} + d_{n} \ge$
+
+$X^{2} + Y^{2} + Z^{2} \ge 2 3. 1$
+
+Một ví dụ về quỹ đạo có chiều dài 2 3 là đường chéo chính của hình lập phương, đi qua hai lần. Sẽ thu được một quỹ đạo khép kín có cùng độ dài nếu con ruồi bắt đầu di chuyển từ bất kỳ điểm nào bên trong khối lập phương với vectơ vận tốc song song với đường chéo chính của khối lập phương, và sau đó “phản xạ đàn hồi” từ mỗi mặt của khối lập phương (chứng minh điều đó!). Để kết luận, chúng tôi lưu ý rằng đáp số một câu hỏi tương tự (khó hơn nhiều!) về một tứ diện đều đã được xem xét trong bài toán M1400 (lời giải xem trong «Kvant» số 2 cho năm 1994). A. Kanel-Belov
+
+M2312. Bảng hình vuông 10 ¥ 10 chứa một trăm số dương. Tổng các số trên mỗi dòng là 100. Kolya được phép sắp xếp lại các số trong mỗi dòng (nhưng không được phép giữa các dòng).
+
+1 Người đọc có thể suy nghĩ về cách tính toán trong các biểu thức đã cho
+
+nom lời giải được thay thế bằng một lý luận hình học hơn bằng cách sử dụng sự phản chiếu của quỹ đạo so với các mặt phẳng của các mặt.
