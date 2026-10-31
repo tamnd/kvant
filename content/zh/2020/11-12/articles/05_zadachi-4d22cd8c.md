@@ -1,0 +1,69 @@
+---
+id: 2020-11-12-zadachi-4d22cd8c
+issue: kvant_2020_11-12
+year: 2020
+number: 11-12
+title: 任务
+rubric: konkurs-imeni-a-p-savina
+rubric_sub: Конкурс имени А. П. Савина
+page_first: 32
+page_last: 32
+page_labels: "30"
+tag: C918
+lang: zh
+source: kvant_digital
+extraction: native
+content_sha256: 7e51f133ab1859808479064b4ccd1532700cc3eb142a5f51e6e9614702e9e71f
+prompt_sha256: draft-1
+translated_from: content/ru/2020/11-12/articles/05_zadachi-4d22cd8c.md
+source_content_sha256: 57bc92c725ca576dbd259a1b5a306a9d7aee27bac6175f9360a0ae7fafc8ce77
+translation_model: draft
+translation_run: zh-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 30⟧
+
+KVAN T 2020/No.11–12
+
+所需线段 AB 是矩形 $треугольника_{1}^{BB} A, катет_{1}^{BB}$ 的斜边，由直角三角形 $CB_{1}^{B} :_{1}^{BB} 2 r$ sin M 确定。剩下的就是找到边 $AB_{1}$。垂直于平面 P 的直线 OA $и_{1}^{BB}$ 位于同一平面内。我们画一条直线$ON_{P} AB_{1}$；那么$AONB_{1}$是一个矩形，因此$AB_{1} ON, NB_{1} OA r$。因为
+
+NB
+
+BB 1 NB 1
+
+2 r sin M r,
+
+⟦column⟧
+
+⟦figure⟧
+
+图 9
+
+然后从 $треугольника^{ONB}$
+
+$ON^{2}$
+
+$OB^{2} NB^{2}$
+
+$4 r^{2}$ sin M 1 sin M，并从 $треугольника_{1}^{BB} A$
+
+AB
+
+$AB_{1}^{2} BB_{1}^{2}$
+
+$ON^{2} BB_{1}^{2}$
+
+2 r sin M.
+
+然而，人们不应该认为问题已经解决了。事实上，在计算线段 $^{NB}$ 时，我们本质上利用了点 $В,^{N} и_{1}^{B}$ 的位置与图 8 中所示的位置完全相同。但从问题的条件来看，根本不能得出$точка^{N}$ 位于 B $и_{1}^{B}$ 之间； B 点可能位于 $точками^{N} и_{1}^{B}, точки^{N}$ 之间，并且 B 甚至可能重合。只有在考虑了所有这些情况之后，我们才能声称我们已经对问题进行了彻底的解决。
+
+如果B点位于$между^{N} и_{1}^{B}$(图9)，则$NB NB_{1}^{BB} 1 r 2 r$sin M，进一步计算$отрезков^{ON}$和AB的方法与上述完全相同；结果，我们得出了线段 AB 的相同公式。如果最后$точки^{N}$和B重合，那么显然$что_{1}^{BB} ON r$和AB r 2。在这种情况下，在三角形中$CB_{1}^{B} катет_{1}^{BB} r$构成了斜边CB 2r的一半，因此M 30 q，即AB 2 r sin M。因此，等式AB 2 r sin M对于M的任何可能值都是有效的。这个问题的解决也可以使用以下推理来进行：不依赖于点$В,_{1}^{B} и^{N}$的具体位置——尝试自己做。
+
+康克·乌尔斯·伊姆·埃尼·阿普斯·阿维纳
+
+我们继续下一场竞赛来解决数学问题。这些任务主要是为 8-9 年级的学生设计的，我们建议年龄较小的学生尝试参加杂志竞赛«Kvant»（参见网站 kvantik.com）。通过电子邮件将您可以解决的问题的解决方案发送至：savin.contest@gmail.com 或通过普通邮件发送至：119296 Russia, Leninsky Prospekt, 64-A, «Kvant»（标有“A.P. Savin Comparison”）。除了您的名字和姓氏之外，还请注明您就读的城市、学校和班级，以及您的回邮地址。我们不仅欢迎学生个人参加比赛，也欢迎团队参加比赛（在这种情况下，将发送一份作品并附上参赛者名单）。您可以从任何旅游团开始参加。获奖者将获得«Kvant»杂志颁发的证书和奖品。作业、解决方案和结果发布在sites.google.com 查看savin-contest 我们祝您成功！
+
+9. 是否可以在立方体的每个顶点写一个自然数，使得所有8个数字都不同，但每个面的顶点的数字的乘积相同？ M·叶夫多基莫夫
+
+10. a) 在方格纸上，绘制一个四边形，其顶点位于网格节点 (图1)。证明它的一个角是另一个角的两倍。 b) 在格子纸上画一个凸四边形，其顶点呈结状

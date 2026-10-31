@@ -1,0 +1,44 @@
+---
+id: 2021-4-zadachi-29-32-96afcf22
+issue: kvant_2021_4
+year: 2021
+number: "4"
+title: 问题 29-32
+rubric: konkurs-imeni-a-p-savina
+rubric_sub: Конкурс имени А. П. Савина
+page_first: 7
+page_last: 7
+tag: 0JO8
+lang: zh
+source: kvant_digital
+extraction: native
+content_sha256: a4c593877f4970396a93539d2e32dda591a50381216d3582075ad133f86a24c2
+prompt_sha256: draft-1
+translated_from: content/ru/2021/04/articles/01_zadachi-29-32-96afcf22.md
+source_content_sha256: b5356ae50f3807d457e4b2433a841b6ab6d2e4bb985de40f0dc18c2d8fe32c89
+translation_model: draft
+translation_run: zh-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+以 A.P. SAVINA 命名的竞赛
+
+宇宙存在并且位于狮子座方向的某个地方。因此，关于宇宙中心的问题再次变得相关。但我真的希望我们宇宙的绝对民主成为其不可分割的财产。因此，我们现在先不要急于下结论，等待宇宙微波背景辐射分布的细节得到“更精细的分析”。然而，我无法理解两件事：我们看到的是明显的“不民主”图 3,b，以及我们收到推理的事实
+
+⟦column⟧
+
+niyami – 我们宇宙的完全民主！不过，这个矛盾很容易解决。让我们想象我们的宇宙是一个在春天的蓝色天空中飞行的气球（图4,c）。随着球升得越来越高，其尺寸也随之增大，其表面绘制的所有恒星和星系以绝对民主的方式彼此远离。我们的宇宙也是如此——它是绝对民主的，但只有位于其之外的观察者才能亲眼看到它！
+
+以 A.P. SAVINA 命名的竞赛
+
+我们正在完成一项解决数学问题的竞赛。这些任务主要是为 8-9 年级的学生设计的，我们建议年龄较小的学生尝试参加杂志竞赛«Kvant»（参见网站 kvantik.com）。通过电子邮件将您可以解决的问题的解决方案发送至：savin.contest@gmail.com 或通过普通邮件发送至：119296 Russia, Leninsky Prospekt, 64-A, «Kvant»（标有“A.P. Savin Comparison”）。除了您的名字和姓氏之外，还请注明您就读的城市、学校和班级，以及您的回邮地址。我们不仅欢迎学生个人参加比赛，也欢迎团队参加比赛（在这种情况下，将发送一份作品并附上参赛者名单）。您可以从任何旅游团开始参加。获奖者将获得«Kvant»杂志颁发的证书和奖品。作业、解决方案和结果发布在sites.google.com 查看savin-contest 我们祝您成功！
+
+29. 方桌的每个单元格都包含 1 或 1。表中所有数字的总和为 1。是否可以确定它们的乘积等于多少？弗伦金
+
+30. 点 K、L、M 和 N 位于四边形 ABCD 的边 AB、BC、CD 和 DA 上。每个点以 1 2 的比例划分相应的边（对于 AB 边，可以是 AK KB 1 2，或 BK KA 1 2，等等）。难道四边形KLMN的面积比四边形ABCD的面积还大？德沃里亚尼诺夫
+
+31. 圆圈上标有 50 个点。考虑所有带有顶点的三角形。其中钝角三角形的数量是否是锐角三角形的两倍？ E.巴卡耶夫、S.德沃里亚尼诺夫
+
+32. 考虑数字 1、2、3、...、n 的序列。您只需一步即可交换任意两个数字。求从最初的序列可以在n 1 步中得到，但不能在更少的步中得到的序列数。 V·拉斯托格耶夫

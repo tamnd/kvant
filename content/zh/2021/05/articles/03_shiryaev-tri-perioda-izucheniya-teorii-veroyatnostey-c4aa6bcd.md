@@ -1,0 +1,39 @@
+---
+id: 2021-5-shiryaev-tri-perioda-izucheniya-teorii-veroyatnostey-c4aa6bcd
+issue: kvant_2021_5
+year: 2021
+number: "5"
+title: 学习概率论的三个时期
+authors:
+  - Ширяев А. Н.
+rubric: iz-istorii-nauki
+rubric_sub: Из истории науки
+page_first: 28
+page_last: 28
+page_labels: "26"
+tag: 921C
+lang: zh
+source: kvant_digital
+extraction: native
+content_sha256: d2a8570a372d0f9235b5767d6172367daf63f2ee0695d7c97434087d3ec65b90
+prompt_sha256: draft-1
+translated_from: content/ru/2021/05/articles/03_shiryaev-tri-perioda-izucheniya-teorii-veroyatnostey-c4aa6bcd.md
+source_content_sha256: 48d188d2d8a59508c4a0c0dc84629ccf6e3185882b74ea24cf53e56cabc93da3
+translation_model: draft
+translation_run: zh-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 26⟧
+
+K VANT 2021/第 5 期
+
+学习概率论的三个时期
+
+A·希里亚耶夫
+
+J·伯努利。在 17 世纪至 18 世纪初，概率计算的核心人物（甚至更早的是帕斯卡、费马、惠更斯）是雅各布·伯努利，他将概率的经典概念引入科学，即对所考虑的事件有利的可能结果数量与可想象结果总数的比率。 J·伯努利的主要成果是大数定律，他的名字也与此有关。这是概率论中的第一个定理（1713 年发表于 Ars Conjectandi；他于 1705 年去世），并且是通过算术组合方法绝对严格地证明的。 （因此，J. Bernoulli 也被认为是组合学的创始人。）切比雪夫。在 19 世纪下半叶的科学家中，P.L. 在概率计算方面发挥了杰出的作用。切比雪夫（然后是马尔可夫和李亚普诺夫）。如果在他之前他们对取有限数量值（大多数是两个）的对象进行操作，那么他是第一个引入随机变量（作为基本事件的函数）及其数学期望的概念，从而扩展和深化整个概率计算的人。他对现在经典的切比雪夫不等式负有责任。他不仅是第一个完全清楚地认识到随机变量的作用及其数学期望的人，而且是第一个开始研究预极限概率定律向极限概率定律收敛速度的人。因此，切比雪夫使离散经典概率论成为普通数学的一部分。
+
+⟦column⟧
+
+随机现象的分析。 （顺便说一句，切比雪夫在概率论方面的著作总数很少——只有$четыре.)^{А.Н.Колмогоров.}$。几个世纪以来，概率的概念本身一直是人们感兴趣和研究的主题。这里的顶峰是A.N.Kolmogorov（1933）的专着《概率论的基本概念》，它给出了概率论的逻辑论证图，并使概率论成为数学理论的一个分支。除了逻辑论证之外在该专着中，明确给出了（不断使用的）条件概率、条件数学期望、零一定律、一致分布定理（在该专着中）等概念，这是柯尔莫哥洛夫专着中创建随机过程理论的中心点，开启了概率论作为数学科学的发展和扩大其影响和应用范围的新纪元。
