@@ -1,0 +1,61 @@
+---
+id: 2008-4-pobediteli-konkursa-imeni-a-p-savina-matematika-6-8-200708-uchebnogo-goda-7de839da
+issue: kvant_2008_4
+year: 2008
+number: "4"
+title: Người chiến thắng cuộc thi mang tên A.P. Savin “Toán học 6-8” năm học 2007/08
+rubric: konkurs-imeni-a-p-savina
+rubric_sub: Конкурс имени А. П. Савина
+page_first: 29
+page_last: 29
+page_labels: "27"
+tag: HVJ2
+lang: vi
+source: kvant_digital
+extraction: native
+content_sha256: 98c55d613f41009d1cbb08cb24f06f05afb102a3737b9744222ecdc4b31fa831
+prompt_sha256: draft-1
+translated_from: content/ru/2008/04/articles/03_pobediteli-konkursa-imeni-a-p-savina-matematika-6-8-200708-uchebnogo-goda-7de839da.md
+source_content_sha256: 4b41f520f9fcc0e23891652d4bc113a6be8d37944b6ce9c70bf1d1fdf4861288
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 27⟧
+
+ĐẾN
+
+M
+
+Sh
+
+Cuộc thi mang tên A.P. Savin
+
+"Toán 6–8"
+
+Chúng tôi đang bắt đầu một cuộc thi khác về lời giải toán bài toán dành cho học sinh lớp 6–8. Gửi Lời giải bài toán trong vòng một tháng sau khi nhận được số tạp chí này đến địa chỉ: 119296 Moscow, Leninsky Prospekt, 64-A, «Kvant» (được đánh dấu là “Cuộc thi “Toán học 6–8”). Hãy nhớ điền tên, lớp và địa chỉ nhà của bạn. Như trước đây, chúng tôi hoan nghênh sự tham gia vào cuộc thi không chỉ của từng học sinh mà còn của các câu lạc bộ toán học. Chúng tôi yêu cầu vòng tròn lãnh đạo cung cấp địa chỉ email hoặc số điện thoại liên hệ Theo truyền thống, các câu lạc bộ chiến thắng trong cuộc thi thư từ sẽ được mời tham dự giải đấu trực tiếp cuối cùng.
+
+1. Có 40 đồng xu giống hệt nhau ở bên ngoài, trong đó có 3 đồng tiền giả. Tiền giả nhẹ hơn tiền thật và có khối lượng như nhau (khối lượng của tiền thật cũng bằng nhau). Làm thế nào để chọn được 18 đồng xu thật bằng ba lần cân trên cân cốc mà không cần quả cân? V.Petrashev
+
+2. Chứng minh rằng với bất kỳ tập hợp n phần tử nào (n > 0), số tập con của nó, mỗi tập chứa một số phần tử chẵn, bằng số các tập con của nó, mỗi tập con chứa một số phần tử lẻ. Ví dụ: hình hiển thị tất cả các tập hợp con của bộ quân cờ 3 phần tử:
+
+⟦column⟧
+
+3. Trên một dải ca rô dài vô tận theo cả hai hướng, có ba con chip như được hiển thị ở hình. Bạn được phép thêm một chip vào ba ô bất kỳ nếu một trong những ô này nằm chính xác ở giữa hai ô còn lại. Nó cũng được phép loại bỏ một chip khỏi ba ô đáp ứng các yêu cầu tương tự. Có thể loại bỏ tất cả các chip khỏi dải bằng các hành động này không? A. Gribalko
+
+4. Với $n \ge 2$ tự nhiên nào tồn tại m tự nhiên sao cho m chia hết cho n, m + 1 chia hết cho n – 1, m + 2 chia hết cho n – 2, … m + n – 1 chia hết cho 1?
+
+I. Akulich
+
+5. Một điểm nào đó nằm bên trong hình bình hành được phản xạ đối xứng với các cạnh của nó. Bốn điểm mới hóa ra là các đỉnh của hình vuông. Hình bình hành ban đầu có phải là hình vuông không? S. Dvoryaninov
+
+V. Người gửi
+
+Người chiến thắng cuộc thi mang tên A.P. Savin “Toán học 6–8” năm học 2007/08
+
+Các học sinh sau đây đã đạt được kết quả cao nhất trong cuộc thi:
+
+Tommer Argaman - Beer Sheva (Israel), trường Eshel Hanasi, lớp 8, Nikita Sopenko - Tambov, FML 14, lớp 6, Alexey Tsybyshev - Samara, thể dục 1, lớp 8.
+
+và câu lạc bộ: Câu lạc bộ Toán học của trường. D. Ben-Gurion ở Negev (Israel), người đứng đầu P. Samovol, J. Heifetz, Lyceum 130, Novosibirsk, người đứng đầu L.N. Chusovitin, nhà thi đấu 59, Ulan-Ude, trưởng E.V. Batueva, Trung tâm Giáo dục Toán học Bổ sung, Kurgan, người đứng đầu O.I. Yuzhkov, E.G. Pushkareva, "Signum" tại nhà thi đấu 5, Cheboksary, hiệu trưởng S.A. Ivanov, “Erudite” tại Trường Vật lý 32, Astrakhan, hiệu trưởng T.M. Sergeeva, nhà thi đấu 1, Samara, người đứng đầu A.A. Gusev.
