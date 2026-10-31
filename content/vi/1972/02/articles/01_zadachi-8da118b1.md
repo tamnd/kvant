@@ -1,0 +1,52 @@
+---
+id: 1972-2-zadachi-8da118b1
+issue: kvant_1972_2
+year: 1972
+number: "2"
+title: '[Bài toán]'
+rubric: kvant-dlya-mladshih-shkolnikov
+page_first: 75
+page_last: 75
+tag: QL9L
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 2ba3780ed7ee1083e9b345767ee91b485a550b08146ab1bba22d635d576753ba
+prompt_sha256: draft-1
+translated_from: content/ru/1972/02/articles/01_zadachi-8da118b1.md
+source_content_sha256: 50e0fafb3e76275d2ab7aed698667e009b797e24d83f64c093d7c23f9e34d7f7
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+QUANTUM
+dành cho học sinh nhỏ tuổi
+
+1. Chai, ly, bình và lọ chứa sữa, nước chanh, kvass và nước. Người ta biết rằng nước và sữa không có trong chai, một bình đựng nước chanh đứng giữa một bình và một bình chứa kvass, không có nước chanh cũng như nước trong bình. Chiếc ly đặt cạnh lọ và bình chứa sữa. Mỗi chất lỏng được đổ vào đâu?
+2. Hình ảnh cho thấy một mục tiêu. Bạn cần đi đâu và cần thực hiện bao nhiêu cú đánh để đạt 100 điểm?
+3. Tìm các chữ số x và y của số có năm chữ số 42x4y nếu biết số này chia hết cho 72.
+4. Những số nào nhiều hơn trong số một triệu đầu tiên: số có ký hiệu là một đơn vị, hay số có ký hiệu là một đơn vị?
+5. Cho một hình vuông có kích thước 5x5, trong đó viết 25 số (xem hình). Hãy chọn một trong các số (tùy ý), khoanh tròn và gạch bỏ các số còn lại trong cùng một cột và trong cùng một dòng. Sau đó, chúng ta chọn một trong các số còn lại, khoanh tròn và gạch bỏ các số còn lại trên cùng một dòng và cột. Hãy làm điều này năm lần.
+Hãy lấy tổng của các số được khoanh tròn. Hóa ra là dù chúng ta chọn các số như thế nào thì tổng này vẫn luôn bằng 56. Hãy cố gắng làm sáng tỏ tính chất hinn-steven này của bình phương rút gọn.
+
+A. P. Savin
+V. M. Rosentuller
+
+42x4y
+72
+
+16
+17
+23
+24
+39
+40
+
+4 0 8 12 2
+7 3 11 15 5
+10 6 14 18 3
+13 9 17 21 14
+16 12 20 24 14

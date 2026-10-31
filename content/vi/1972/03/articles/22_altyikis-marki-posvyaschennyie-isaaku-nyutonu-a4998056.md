@@ -1,0 +1,41 @@
+---
+id: 1972-3-altyikis-marki-posvyaschennyie-isaaku-nyutonu-a4998056
+issue: kvant_1972_3
+year: 1972
+number: "3"
+title: Tem dành riêng cho Isaac Newton
+authors:
+  - Алтыкис А. В.
+rubric: raznoe
+rubric_sub: Разное
+page_first: 74
+page_last: 74
+tag: CUJ1
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 9a41efa01a60ff68d9a8bce46d77f41ceeca5521927cebe1f2aa96aa251bd3ac
+prompt_sha256: draft-1
+translated_from: content/ru/1972/03/articles/22_altyikis-marki-posvyaschennyie-isaaku-nyutonu-a4998056.md
+source_content_sha256: 8fd484e341ae05b439d69770e876a59b8dae662edbfd752f2f04a04bb281841a
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+GÓC SƯU TẬP
+
+THƯƠNG HIỆU DÀNH CHO
+ISAAC NEWTON
+
+Năm nay đánh dấu kỷ niệm 245 năm ngày mất của nhà vật lý và toán học vĩ đại người Anh Isaac Newton. Ông sinh ra vào cùng năm Galileo qua đời. Khi còn đi học, Newton đã phát hiện ra những khả năng phi thường về toán học. Năm 19 tuổi, anh vào Đại học Cambridge và khi vẫn còn là sinh viên, anh đã chứng minh một định lý mà sau này được gọi là “Lý thuyết quần xã sinh vật của Newton”. Đến năm 24 tuổi, Newton đã đặt nền móng cho những khám phá vĩ đại sau này của mình: phép tính vi phân và tích phân, lực hấp dẫn phổ quát, lý thuyết về ánh sáng và màu sắc.
+
+Ở tuổi 26, Newton trở thành trưởng khoa vật lý và toán học tại Đại học Cambridge. Năm 1672, ông được bầu làm thành viên của Hiệp hội Hoàng gia (Viện Hàn lâm Khoa học Anh), và ông trở thành chủ tịch vào năm 1703.
+
+Con tem đầu tiên có chân dung của Newton được phát hành ở Pháp vào năm 1957. Sau đó, những con tem có chân dung của ông được phát hành ở một số quốc gia khác. Trong ảnh, bạn thấy một con tem của Ủy ban Tài nguyên Quốc gia Ba Lan, hai con tem Yemen và một con tem Paragay dành riêng cho Newton. Trên một trong những con tem của Yemen, bên cạnh bức chân dung của Newton, có khắc một chiếc kính viễn vọng phản chiếu mà ông chế tạo. Điều thú vị cần lưu ý là trên con tem này, ngày sinh của Newton (1643) không trùng với ngày tương tự được ghi trên những con tem khác (1642). Sự thật là Newton sinh ngày 25 tháng 12 năm 1642 theo cái gọi là phong cách cũ. Theo phong cách mới mà chúng tôi sử dụng, ngày sinh của Newton rơi vào ngày 4 tháng 1 năm 1643.
+
+Cần lưu ý rằng ở Anh, quê hương của Newton, cho đến nay, chưa có con tem nào dành riêng cho nhà khoa học vĩ đại được phát hành.
+
+A. V. Altykis

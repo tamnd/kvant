@@ -1,0 +1,38 @@
+---
+id: 1972-12-zadachi-41951b3c
+issue: kvant_1972_12
+year: 1972
+number: "12"
+title: '[Bài toán]'
+rubric: kvant-dlya-mladshih-shkolnikov
+page_first: 83
+page_last: 83
+tag: L2FK
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: d1a4c93e84ab244c9afb44674eccc54010b03634c20062de6a8dc99b59dcdf55
+prompt_sha256: draft-1
+translated_from: content/ru/1972/12/articles/01_zadachi-41951b3c.md
+source_content_sha256: d7d33952d1f51f2cd48e08628c675a6660d681851d587ef2ea711783b9f5b186
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+1. Ở cuối phim, một số khán giả đã rời đi trên sáu chiếc xe buýt và mỗi chiếc xe buýt đều có số lượng khán giả như nhau. Số khán giả còn lại (nhiều hơn 15%) đã đi bộ. Có bao nhiêu khán giả trong rạp nếu biết rằng trong khán phòng không quá 400 người và hơn 150 khán giả còn lại trên xe buýt?
+
+2. Tìm mọi cách có thể để ghép các số trong phương trình sau lại với nhau
+$$*00** = (\ast\ast)^2$$
+(không có số nào bắt đầu bằng số 0).
+
+3. Có 22, 14 và 12 hạt xếp thành ba cọc. Cần phải thực hiện ba lần chuyển để cân bằng số lượng hạt trong mỗi đống, đồng thời tuân thủ các điều kiện: từ bất kỳ đống nào chỉ được phép chuyển số hạt có trong đống thứ hai này sang đống khác.
+
+4. Giải mã đẳng thức:
+$$a \cdot c \cdot \overline{ac} = \overline{ccc}.$$
+
+5. Làm thế nào để tạo ra bốn hình tam giác đều giống hệt nhau từ sáu que diêm?
+
+6. Một tam giác có độ dài các cạnh là số nguyên, độ dài một cạnh là 5 và cạnh kia là 1. Độ dài của tam giác đó là bao nhiêu?

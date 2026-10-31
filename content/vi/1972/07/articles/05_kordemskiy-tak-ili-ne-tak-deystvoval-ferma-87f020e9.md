@@ -1,0 +1,61 @@
+---
+id: 1972-7-kordemskiy-tak-ili-ne-tak-deystvoval-ferma-87f020e9
+issue: kvant_1972_7
+year: 1972
+number: "7"
+title: Fermat có hành động như vậy hay không?
+authors:
+  - Кордемский Б. А.
+rubric: osnovnye-stati
+page_first: 13
+page_last: 13
+page_labels: "11"
+tag: 8BRT
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 690282136509d43622fb7d424f9a0a46885da73936fc2d8e74e6ed9d18d32ac6
+prompt_sha256: draft-1
+translated_from: content/ru/1972/07/articles/05_kordemskiy-tak-ili-ne-tak-deystvoval-ferma-87f020e9.md
+source_content_sha256: d7aeb4d713e20bb86f455f0f246642fbcd3d1bc67885cc2cdc201e0383f357dd
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 11⟧
+
+Fermat có hành động như vậy hay không?
+(về phân tích các số)
+
+B. A. Kordemsky
+
+Có rất nhiều bí mật gắn liền với tên tuổi của Pierre Fermat nổi tiếng. Tuy nhiên, anh nhận được một lá thư hỏi: “100895598169 có phải là số nguyên tố không?” Fermat ngay lập tức trả lời rằng số có mười hai chữ số này là tích của hai số nguyên tố: 898423 và 112303.
+
+Ông không tiết lộ phương pháp nghiên cứu con số.
+
+Để cho ngắn gọn, việc tìm các thừa số nguyên tố của một số tự nhiên được gọi là “nhân tử hóa” (“hệ số” có nghĩa là một tập hợp các tham chiếu đến một từ thường được sử dụng). Hơn nữa, với các thiết bị hỗ trợ như máy tính điện tử, việc phân tích các số lớn cực kỳ tốn công sức bài toán, thực hiện “thủ công” lại càng khó hơn. Một số số nguyên tố đầu tiên (2, 3, 5, 7, 11, ...) có thể dễ dàng kiểm tra tính tự nhiên của chúng như là các thừa số có thể có của số kiểm tra - theo các dấu hiệu chia hết cho các số này đã biết. Đơn giản hóa các phép tính và ý nghĩa của dấu chia hết cho bất kỳ số nguyên tố tiếp theo nào *).
+
+Cũng rõ ràng rằng đối với bất kỳ số nào cho trước $N$, việc kiểm tra các số nguyên tố nhỏ hơn $V\overline{N}$ là các thừa số có thể là đủ. Thật vậy, nếu số $N$ có ​​thừa số $m > V\overline{N}$, thì nó tương ứng, do chia $N$ cho $m$ và một số thừa số nhỏ hơn $V\overline{N}$.
+
+Là một kỹ thuật nhân tố hóa, bạn có thể sử dụng thuật toán Euclide nổi tiếng.
+
+*) Ví dụ, xem ghi chú về tiêu chí chia hết cho 19 và 7 trong «Kvant» Số 6, 1970, tr. 10.
+
+clid để tìm ước chung nhất (GCD) của hai số. Như bạn có thể nhớ, nó bao gồm những phần sau *): chúng ta tìm số dư $r_1$ từ phép chia một số lớn cho một số nhỏ hơn, sau đó chúng ta tìm số dư $r_2$ từ phép chia của số chia trước cho $r_1$, sau đó là số dư $r_3$ từ phép chia $r_1$ cho $r_2$, v.v. Phần dư khác 0 tiếp theo (nó chắc chắn tồn tại, vì các số $r_i$ đang giảm dần) và là gcd của các số đã cho (nếu nó bằng 1 thì chúng nguyên tố lẫn nhau).
+
+Ví dụ: áp dụng thuật toán này cho số 104 và 39:
+
+104 : 39 = 2 (dư lượng 26);
+39 : 26 (còn lại 13);
+26 : 13 = 2 (dư 0).
+
+Đáp số: GCD (104,39) = 13.
+
+Làm thế nào để áp dụng thuật toán Euclid để nhân tử hóa các số?
+
+Để xác định các thừa số nguyên tố của số $N$, một số khác $P$ được hình thành - tích của tất cả các số nguyên tố từ thừa số nhỏ nhất trong số các thừa số “nghi ngờ” của số $N$ đến nhỏ nhất trong số tất cả các số nguyên tố, nhỏ hơn $\sqrt{N}$. Chúng ta sẽ áp dụng thuật toán Euclide cho các số $N$ và $P$ này.
+
+Ví dụ: đặt $N = 851$. Chúng tôi nhận thấy rằng $\sqrt{N} < 31$. Bằng tiêu chí chia hết, chúng tôi thiết lập rằng $N$ không chia hết cho 3, 7, 11, 13. Ngoài ra, có thể thấy ngay rằng 851 khi chia cho 17 thì dư 1. Vẫn còn phải kiểm tra khả năng chia hết của $N$ cho 19, 23 và 29. Đối với một số nhỏ như 851, điều này có thể dễ dàng thực hiện bằng phép chia đơn giản
+
+*) Sự biện minh và ví dụ về việc sử dụng thuật toán Euclid được đưa ra trong bài viết của A. N. Vilenkin “Giảm phân số đại số” («Kvant» Số 11, 1970) và Vaguten “Thuật toán Euclide và Định lý cơ bản của chữ cái” («Kvant» Số 6, 1972).

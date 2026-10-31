@@ -1,0 +1,85 @@
+---
+id: 1972-6-yumor-fizteha-9a425851
+issue: kvant_1972_6
+year: 1972
+number: "6"
+title: sự hài hước của Phystech
+rubric: smes
+page_first: 63
+page_last: 63
+page_labels: "61"
+tag: Q2T6
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 4d56a3a2626ad9ccadad13d5686822174a1b3ba5005b1bc3c07da8e02b87d69c
+prompt_sha256: draft-1
+translated_from: content/ru/1972/06/articles/20_yumor-fizteha-9a425851.md
+source_content_sha256: 0f989077b3e9c43f8bfd91a1304b3319ba64fb74faf3ee5414d915e3a6f23345
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 61⟧
+
+liên quan đến sự khác biệt tiềm năng
+$$\varphi_A - \varphi_B = -\frac{E_1 r_2 + E_2 r_1}{r_1 + r_2} = -1,56 \ (\varepsilon).$$
+
+Dấu trừ thể hiện thế năng của điểm $A$ nhỏ hơn thế năng của điểm $B$.
+
+Urazhennya
+
+1. Sáu phần tử kết nối giống hệt nhau như trong Hình 4. Xác định hiệu điện thế giữa hai phần tử
+
+Cơm. 4.
+
+điểm tùy ý của chuỗi. Khoảng cách là trường hợp khi các phần tử $N$ được kết nối theo cách tương tự.
+
+2. Một cành kim loại đồng nhất được đặt trong một từ trường biến thiên đều theo thời gian. Mặt phẳng của vòng vuông góc với đường thẳng của vectơ cảm ứng (tuy nhiên, việc bảo lưu này là không cần thiết). Hiệu điện thế giữa hai điểm tùy ý của vòng là bao nhiêu?
+
+3. Một nửa chiếc nhẫn được đề cập ở bài toán trước có điện trở $R$, nửa sau có điện trở $r (R > r)$. Vẽ đồ thị phân bố điện thế dọc theo chu vi của vòng.
+
+sự hài hước của Phystech
+
+Mới về sự vĩnh cửu
+
+Cỗ máy chuyển động vĩnh viễn, được đưa vào hoạt động ngẫu nhiên nối tiếp, đã không chịu được thử thách của thời gian.
+
+Từ Thế vận hội
+
+"Hãy nghĩ về một số, cộng 18 vào đó, sau đó chia cho 0 và bạn sẽ không nhận được gì. Bạn nghĩ tại sao?"
+
+Ngày xửa ngày xưa trong một bài giảng
+
+Một ví dụ tuyệt vời về phương pháp xấp xỉ liên tiếp với chân lý đã từng được chứng minh bởi Phó Giáo sư B. O. Solonouts. Sau khi viết công thức lên bảng, ông hỏi khán giả:
+
+- Nói cho tôi biết, bạn có biết điều này không? Im lặng.
+
+— Chính xác hơn là trong các kỳ thi bạn đã biết điều này?
+
+Im lặng.
+
+- Chính xác hơn nữa, trong các kỳ thi, lẽ ra bạn phải biết điều này?
+
+Một tiếng đồng thanh “Có!” reo vang khắp hàng.
+
+***
+
+Kỳ thi đang đến gần. Tại một trong những bài giảng về giải tích toán học, học sinh đã chỉ ra nội dung của bài thi viết sắp tới. Giảng viên trả lời:
+
+— Bài toán sẽ rất thú vị. Một trong số đó hiện đang được toàn bộ bộ phận quyết định. Nếu anh ấy quyết định, chúng tôi sẽ đưa bài toán này vào bài thi.
+
+***
+
+— Tôi sẽ vẽ trên bảng hai chiều, vì vẽ trong không gian $n$ chiều khá bất tiện.
+
+***
+
+— Xung lực không biết nhìn vào đâu nên biến thành số không.
+
+***
+
+“Giáo sư A. M. Molchanov tiếp tục giảng dạy khóa học “Lý thuyết dao động vào các ngày thứ Hai.”
+
+(Trích quảng cáo).

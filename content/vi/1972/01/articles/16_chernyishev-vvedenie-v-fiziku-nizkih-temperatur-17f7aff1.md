@@ -1,0 +1,47 @@
+---
+id: 1972-1-chernyishev-vvedenie-v-fiziku-nizkih-temperatur-17f7aff1
+issue: kvant_1972_1
+year: 1972
+number: "1"
+title: Giới thiệu về Vật lý nhiệt độ thấp
+authors:
+  - Чернышёв Ю. М.
+rubric: raznoe
+rubric_sub: Разное
+page_first: 60
+page_last: 60
+page_labels: "58"
+tag: PXJ8
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: c5f70db37b31bbf08d43f3086183354a8d65068fcf2479c446cbf4423722c0f2
+prompt_sha256: draft-1
+translated_from: content/ru/1972/01/articles/16_chernyishev-vvedenie-v-fiziku-nizkih-temperatur-17f7aff1.md
+source_content_sha256: fc9d6c699391e6037368b0adf5ecf258c511a1a4ab8efefe6b468361cfbf0355
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 58⟧
+
+Giới thiệu
+đến vật lý
+nhiệt độ thấp
+
+Điển hình là câu chuyện về vật lý của nhiệt độ thấp bắt đầu vào năm 1911, khi nhà khoa học người Hà Lan Kamerlingh Onnes phát hiện ra một hiện tượng mới về cơ bản - sự biến mất điện trở của thủy ngân ở nhiệt độ rất thấp. Để làm được điều này, trước hết, cần phải tạo ra những nhiệt độ thấp, hay như người ta thường nói, nhiệt độ “helium”. Cuốn sách sẽ được thảo luận dưới đây, bắt đầu bằng câu chuyện về tài sản, bắt đầu từ thế kỷ thứ ba trước đó. Nó có tên là “Trên đường tới độ không tuyệt đối” *), tác giả của nó là Giáo sư Kurt Mendelson, nhà vật lý thực nghiệm hàng đầu người Anh, thành viên của Hiệp hội Hoàng gia Luân Đôn. Cuốn sách này dành cho người đọc phổ thông và đề cập đến rất nhiều vấn đề trong vật lý nhiệt độ thấp.
+
+Vật lý của nhiệt độ thấp ngày nay đang phát triển cực kỳ mạnh mẽ. Sẽ không quá lời khi nói rằng phần lớn lợi ích vật lý của vật rắn nói chung chủ yếu là do chúng ta đã học được cách mong đợi các chất khí và tác dụng với chúng ở nhiệt độ rất thấp.
+
+Các chương đầu tiên của cuốn sách nói về các giai đoạn chính của nghiên cứu đông lạnh (nhiệt độ thấp) trước đó.
+
+*) K. Mendelson, Trên đường tới độ không tuyệt đối, Atomizdat, M., 1971.
+
+tính siêu dẫn mở.
+
+Những báo cáo đầu tiên về những nỗ lực thành công nhằm chờ oxy trong các bức tường của Viện Hàn lâm Khoa học Paris vào cuối năm 1877. Hai nhà khoa học đã thực hiện được điều này trên thực tế cùng một lúc. Một trong số họ là kỹ sư khai thác mỏ, thành viên tương ứng của Học viện Caltet Paris, người thứ hai là nhà vật lý Raoul Pictet đến từ Geneva. Vài tuần sau tin nhắn đầu tiên, Kalte thông báo rằng anh đang chờ đợi. Tầm quan trọng của những người bán buôn này chủ yếu là vấn đề thu được không khí lỏng đã được giải quyết. Điều quan trọng không kém là nhờ có chúng, công việc chuyên sâu bắt đầu nghiên cứu tính chất vật lý của quá trình chờ đợi khí và tạo ra những kỳ vọng tiên tiến hơn. K. Mendelssohn đã nói chi tiết về những người đi trước và theo sau Kalte và Pictet.
+
+Sau khi đọc chương thứ hai của cuốn sách, người đọc sẽ nhận được thông tin toàn diện về bức tranh vật lý của sự ngưng tụ và có thể hiểu rõ về nguyên lý hoạt động của máy hút. Mendelssohn vẫn trình bày chi tiết về nghiên cứu thực nghiệm của Andrews, nói về sự điều khiển Van Deer Waals và sơ đồ trạng thái của vật chất.
+
+Một bước quan trọng trong sự phát triển của vật lý nhiệt độ thấp là việc nghiên cứu lĩnh vực khoa học mới này. Nhiều nghiên cứu trong nhiều năm vẫn không mất đi ý nghĩa của chúng. Mendelssohn đã trình bày chi tiết về những nghiên cứu đầu tiên về tính siêu dẫn, vết poncks và những nghi ngờ

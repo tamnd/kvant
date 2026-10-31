@@ -1,0 +1,55 @@
+---
+id: 1972-10-ob-elektrichestve-046b6f99
+issue: kvant_1972_10
+year: 1972
+number: "10"
+title: Về điện
+rubric: smes
+page_first: 26
+page_last: 26
+page_labels: "24"
+tag: 1XAN
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 74416731802cae9785ef7187aa844e178858319808517d4c3b400a11b7c59a5d
+prompt_sha256: draft-1
+translated_from: content/ru/1972/10/articles/06_ob-elektrichestve-046b6f99.md
+source_content_sha256: f77368e13611b31fdd690e4ddcd09688f2174178bd7419fa33268d8332f56c74
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 24⟧
+
+khối lượng theo giờ $m$ trên bề mặt Trái đất và khối lượng Trái đất $M_3$ bằng
+$$mg = \gamma \frac{M_3 m}{R_3^2},$$
+trong đó $R_3$ là bán kính Trái đất, $\gamma$ là ranh giới không đổi. Từ đây
+$$g = \gamma \frac{M_3}{R_3^2}.$$
+Nếu không yêu cầu độ chính xác cao thì các giá trị $M_3$ và $R_3$ có thể được biểu thị thông qua số lượng nucleon $N_3$ trong thành phần của Trái đất. Lớp vỏ Trái đất được cấu tạo chủ yếu từ SiO$_2$ ($A = 60$) và lõi của nó được cấu tạo chủ yếu từ sắt ($A = 57$). Hai chất này có trọng lượng nguyên tử xấp xỉ nhau nên có cùng kích thước nguyên tử. Nếu coi bán kính nguyên tử bằng $a$ thì thể tích Trái Đất sẽ bằng
+$$\frac{4}{3} \pi R_3^3 = \frac{4}{3} \pi \frac{N_3}{A} a^3,$$
+Ở đâu
+$$R_3 = a \left(\frac{N_3}{A}\right)^{1/3}.$$
+Thay thế điều này vào biểu thức (5), chúng ta nhận được
+$$g = \gamma \frac{M_3}{R_3^2} = \gamma \frac{N_3 m_p}{R_3^2} = \gamma N_3 \left(\frac{A}{N_3}\right)^{2/3} \frac{m_p}{a^2}.$$
+Bán kính nguyên tử của chất rắn gần đúng bằng $a = f a_0$, trong đó $a_0$ là bán kính của nguyên tử hydro và giá trị của hệ số $f$ nằm trong khoảng 1–4. Như vậy,
+$$g = \gamma N_3 \left(\frac{A}{N_3}\right)^{2/3} \frac{m_7}{(f a_0)^2}.$$
+Trong biểu thức này, hằng số không phổ quát là số nucleon $N_3$ trong thành phần của Trái đất *).
+
+*) Khi đánh giá chiều cao của các ngọn núi trên các hành tinh khác, các giá trị $A$ và $N_3$ không thể được coi là phổ quát, vì thành phần của các nguyên tố trong đá hình thành nên các hành tinh này có thể khác với thành phần của Trái đất. (Lời khuyên của người dịch.)
+
+BÀI TOÁN HÌNH HỌC
+
+Chứng minh rằng tổng các khoảng cách (trong hình CE + CF) từ một đỉnh (C) bất kỳ của tam giác đến các điểm tiếp xúc của các đường tròn ngoại hình tính từ cạnh bên,
+
+đi qua đỉnh này bằng tam giác ($AB=c$).
+
+S. N. Fedin
+
+VỀ ĐIỆN
+
+Ở Glasgow (Scotland) và Moscow có một giai thoại mà người Anh cho là của nhà vật lý nổi tiếng người Anh Lord Kelvin, còn người Moscow thì cho là của giáo sư Nikolai Alekseevich Umov của Đại học Moscow.
+
+Trong kỳ thi, Umov, Jacob hỏi học sinh: “Điện là gì?” Suy nghĩ hồi lâu, cậu sinh viên trả lời: "Xin lỗi giáo sư, em quên mất. Sáng nay em làm rồi, bây giờ em quên mất."
+“Đây, các quý ông,” Umov nói với các sinh viên khác, “là bi kịch lớn nhất của vật lý thế kỷ 19: người duy nhất trên thế giới biết điện là gì, và thậm chí anh ta còn quên mất!”
