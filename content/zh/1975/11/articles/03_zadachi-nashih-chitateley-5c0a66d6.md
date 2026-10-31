@@ -1,0 +1,52 @@
+---
+id: 1975-11-zadachi-nashih-chitateley-5c0a66d6
+issue: kvant_1975_11
+year: 1975
+number: "11"
+title: 读者的任务
+rubric: smes
+page_first: 13
+page_last: 13
+page_labels: "11"
+tag: 9FV7
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: c560c55a658cfbcc6e5137b66d386503b8c9e737b41038810484346f9606df86
+prompt_sha256: draft-1
+translated_from: content/ru/1975/11/articles/03_zadachi-nashih-chitateley-5c0a66d6.md
+source_content_sha256: 32fe9d8e081064d45b701c9dcf75ac97e26f3f0de1d695a56f8b204f4806d054
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 11⟧
+
+锻炼
+我们的读者
+
+1. 证明这个数
+$$1 + \frac{111 \ldots 111}{n} \times \frac{222 \ldots 222}{n} \times \frac{333 \ldots 333}{n - 1} \times \frac{333 \ldots 333}{n - 1}$$
+是自然数的平方。
+
+A·古尔采夫
+
+2. 证明如果$a$是奇数，$a^{2n} - 1$可被$2^{n+2}$整除。
+
+H·切列宾斯基
+
+3. 证明
+$$7^{7777} - 7^{777}$$
+除以 1,000,000。
+
+M·斯特雷伯
+
+4. 找到形成几何级数的四个自然数，其项是总和的约数
+$$25^{1975} + 79^{1975}$$
+
+于。克尔洛夫
+
+安培的另一个爱好是科学分类。这个问题在方法论和一般意义上都很重要，自安培在布雷地区布尔格工作以来，他长期以来一直对这个问题感兴趣。他发展了自己的科学分类系统，并打算在两卷本的社会学中提出该系统。 1834年，《科学哲学论文或所有人类知识的自然分类的分析阐述》第一卷出版。第二卷由安培的儿子在他死后出版。
+
+1836 年 7 月 10 日，安培在马赛视察期间因肺炎去世。他被埋葬在那里。 1869年，他的权利被转移到巴黎蒙马特公墓。他的墓碑上刻着这样一句话：“他既善良又简单，就像他伟大一样。”

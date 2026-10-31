@@ -1,0 +1,39 @@
+---
+id: 1975-11-alyaev-neskolko-postroeniy-dvustoronney-lineykoy-571f8e79
+issue: kvant_1975_11
+year: 1975
+number: "11"
+title: 双面尺的几种结构
+authors:
+  - Аляев А. В.
+rubric: smes
+page_first: 22
+page_last: 22
+page_labels: "20"
+tag: APMK
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 32c12bed0c36d6b6e29e85d0dce3483915a462d4138988c4462a858eca26a8ff
+prompt_sha256: draft-1
+translated_from: content/ru/1975/11/articles/06_alyaev-neskolko-postroeniy-dvustoronney-lineykoy-571f8e79.md
+source_content_sha256: ef1a5c3031980d07978569074473491a74d8782b882e5b120563102be9299bed
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 20⟧
+
+家用电器商店出售以下瓦数的灯：15瓦、25瓦、40瓦、60瓦、100瓦、150瓦和200瓦。读者看到，除了最后一个值之外，这是一个稍微修正的R5系列。
+
+如果我们放弃对计算精度太高的要求，那么我们可以假设首选数的乘积也是首选数（为什么？）。
+
+因此，如果仅以首选数字表示其线性尺寸，则将首选矩形（平行六面体）的平面（体积）。圆的面积和圆柱体的体积也是如此，因为首选数字 3.15 接近升数。这是在编译标准尺寸集时使用首选数字的另一个论点。
+
+锻炼
+1. 哪个数字最常出现在指定数字的第二个有效数字中？
+2. 证明具有“对数”分布的 i 数数量的“守恒定律”（第 18 页）。
+3. 证明数量
+$$\max \left[ \min \left( \frac{x_0}{x} + \frac{x}{x_0}, \frac{x_1}{x} + \frac{x}{x_1}, \dots, \frac{x_n}{x} + \frac{x}{x_n} \right) \right],$$
+其中，当数字$x_k$形成等比级数时，$1 = x_0 \leqslant x_1 \leqslant \dots \leqslant x_{n-1} \leqslant x_n = 10$取尽可能小的值。

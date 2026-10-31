@@ -1,0 +1,89 @@
+---
+id: 1975-8-zadachi-nashih-chitateley-3497258b
+issue: kvant_1975_8
+year: 1975
+number: "8"
+title: 读者的任务
+rubric: smes
+page_first: 50
+page_last: 50
+page_labels: "48"
+tag: 5HSE
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: bc2573361ced36684e41d86a856bbcb8bc9c4ab4256b5a8e32dbb4f9aeea7181
+prompt_sha256: draft-1
+translated_from: content/ru/1975/08/articles/10_zadachi-nashih-chitateley-3497258b.md
+source_content_sha256: e085c99cfcc058817c4663a86de2faae163c8d81f95d555be3e530d1ad76f26a
+translation_model: draft
+translation_run: zh-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 48⟧
+
+证明不等式（7'）的可能方法之一如下：首先你需要证明
+
+$$p_1 \leqslant \frac{3}{2} r_0 \sqrt{3},$$
+
+(8)
+
+即，在给定圆中描述的所有三角形中，最大周长具有规则的三角形。
+
+那么——不平等
+
+$$p_0 \geqslant 3 r_0 \sqrt{3}.$$
+
+(9)
+
+这意味着在给定圆外接的所有三角形中，最远的周长是规则的。
+
+不等式 (7') 由 (8) 和 (9) 得出。尝试自己证明它们。
+
+在实践中
+
+1. 对于哪些三角形$ABC$对于某些$n$：
+   a) $\triangle A_nB_nC_n \sim \triangle ABC$?
+   b) $\triangle A_nB_nC_n$ 相等吗？
+2. 证明 $\triangle A_1B_1C_1$ 和 $\triangle A^{(1)}B^{(1)}C^{(1)}$ 已准备就绪。
+3. 证明
+
+$$|A_1B_1| \cdot |B_1C_1| \cdot |C_1A_1| \leqslant \frac{1}{8} |AB| \cdot |BC| \cdot |CA|.$$
+
+4. 如前所述，$p_1/p_0 \leqslant \frac{1}{2}$。评估$p_1/p_0$蓝色：找到一个数字$c$使得$p_1/p_0 \geqslant c$。
+5. 证明
+
+$$\frac{|A_1B_1|^2 + |B_1C_1|^2 + |C_1A_1|^2}{|AB|^2 + |BC|^2 + |CA|^2} \leqslant \frac{1}{4}.$$
+
+6. 证明三角形$A_1B_1C_1$的最长边不超过三角形$ABC$最长边的一半。这些三角形的最小边也可以这样说吗？这些三角形的平均边长是多少？
+
+读者的任务
+
+1. 给定一个三角形$ABC$。在三角形内部，取点 $M$ 并将其连接到顶点 $A$ 和 $C$； $K$和$L$是对应的MC与AB、AM与BC的交点。
+
+找到满足 $S_{\Delta AKM} = S_{\Delta CML}$ 的点集 $M$。
+
+R·L·姆克尔奇扬
+
+2. 求解方程$n! = n(n+1)(n+2)(n+3)$。
+
+P·V·帕拉莫诺夫
+
+3. 六个连续自然数的乘积可以等于三个连续自然数的乘积。例如，$1 \cdot 2 \cdot 3 \cdot 4 \cdot 5 \cdot 6 = 8 \cdot 9 \cdot 10 = 720$。有这样的数字吗？
+
+V·A·帕纳林
+
+4. 找出所有 10 个自然数组成的组，其总和等于它们的乘积。
+
+E·马祖尔
+
+5. 在等边三角形$ABC$（$|AB| = |BC|$）中，通过点$A$和高$BH$的中点$M$，画一条直线与$BC$相交于点$N$。线段$MN$比线段$AM$小多少倍？
+
+V. F. 阿库利 (V. F. Akulii)、I. F. 阿库利 (I. F. Akulii)
+
+6. “战舰”游戏通常在尺寸为 $10 \times 10$ 的棋盘上进行。本游戏中的“战舰”是指占据$1 \times 4$部分比赛场地的“船”。
+
+求出在整个比赛场地上必须发射的最少子弹数，以便随机位于比赛场地上的一艘“战舰”至少发射一发子弹。
+
+V·G·查瓦诺夫

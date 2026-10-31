@@ -1,0 +1,57 @@
+---
+id: 1975-11-lange-lange-k-mehanike-buernogo-sporta-a0cf2689
+issue: kvant_1975_11
+year: 1975
+number: "11"
+title: 浅谈冰上划船的原理
+authors:
+  - Ланге В. Н.
+  - Ланге Т. И.
+rubric: osnovnye-stati
+page_first: 23
+page_last: 23
+page_labels: "21"
+tag: HKCU
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: b7a4509c6be0b40129164c49702f18ec44ef22cbf43a6b8ee35a012fc79c3390
+prompt_sha256: draft-1
+translated_from: content/ru/1975/11/articles/07_lange-lange-k-mehanike-buernogo-sporta-a0cf2689.md
+source_content_sha256: 13876d4b23e0a27307cb0447f6f19d0b4edfcbe4824e69b52b18a5adf4c06d4c
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 21⟧
+
+浅谈冰上划船的原理
+
+V.N. 朗格、T.I. 朗格
+
+布尔是一个安装在溜冰鞋上的平台，上面装有带帆的桅杆。
+
+俄罗斯第一届冰船上体育比赛于 1890 年在圣彼得堡举行。自20世纪初以来，冰船变得非常流行，尤其是在波罗的海地区。自1947年以来，苏联冰船锦标赛定期举行。
+
+冰船比赛是一个非常美丽的景象。轻盈的白色翅膀平台在光滑的冰面上的金属滑道上快速滑行。控制熟练的冰船速度可达100公里/小时。令人惊奇的是：如果此时改变风速，风速可以减少两倍甚至三倍！
+
+原来，本身没有动静的冰船，竟然追上了风！如何？毕竟，加速是由于空气对帆施加的压力而发生的。大家，能达到的最高速度就是风速。但我们不能忘记，船的风帆是可以控制的。正是“航行机动”才能实现“超风”速度。
+
+要了解加速船的机制，请考虑以下示例。
+
+让一个块ABCD（其面AB和AD形成角度α）能够沿着直线导轨MN和PQ滑动（参见图）。块体和导轨之间的摩擦力非常小，以至于微不足道的睡眠量都会导致块体的移动。让在箭头 图 方向上的 O 点，一些恒定的力作用在木块上。例如，一根杆压在 AD 面上。由于阻力很小，即使受到轻微的冲击，块也会移动，并且在杆末端经过路径 OOO' 之前的时间内，块将沿着导轨移动等于 AA' 的距离，占据位置 A'B'C'D'。不难看出
+
+$$AA' = \frac{OO'}{tg\alpha}.$$
+
+为简单起见，我们假设杆和块的运动是均匀的。将等式两边除以运动时间t，得到木块与杆的速度之间的关系：
+
+$$v_{бр} = \frac{v_{с}}{tg\alpha}.$$
+
+由此可见，在 0 < α < 45° 时，木块的速度将超过杆的速度，因为 tg α < 1。
+
+现在让我们回到船上。如果我们假设冰船的位置位于MN和PQ线上，船帆方向为AD，风向为OOO'，那么，实际上，对于冰船的速度与风的对应关系，我们可以得到类似的表达式：
+
+$$v_{\sigma} = \frac{v_{в}}{tg\alpha}.$$
+
+我们只考虑了风垂直于冰船航向的情况；剩下的就留给读者自己分析吧。

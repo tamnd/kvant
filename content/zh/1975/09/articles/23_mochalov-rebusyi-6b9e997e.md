@@ -1,0 +1,49 @@
+---
+id: 1975-9-mochalov-rebusyi-6b9e997e
+issue: kvant_1975_9
+year: 1975
+number: "9"
+title: 画谜
+authors:
+  - Мочалов Л. П.
+rubric: smes
+page_first: 74
+page_last: 74
+page_labels: "72"
+tag: 96NL
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 269e5f9bfd74a92ea86957ba8982521f13a7a2e9a9feee607d19788c85c1240a
+prompt_sha256: draft-1
+translated_from: content/ru/1975/09/articles/23_mochalov-rebusyi-6b9e997e.md
+source_content_sha256: 6db14f41635d699df3205b00434be986612c0f5d3221e545dcb7ea50af892dea
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 72⟧
+
+一场争执爆发了，为了解决这个问题，他们在其中一块瓷砖上放了双螺旋，在另一块瓷砖上放了半螺旋。然后，他们将等量的水倒入相同的锅中，并开始等待哪块瓷砖上的水先沸腾。
+
+事实证明，科利亚是对的。煮好了鸡蛋，充饥了，大家又继续干活了。
+
+黄昏到来时，彼佳打开了灯泡。
+“灯光有点弱，”科利亚抱怨道。可能是低瓦数灯泡。
+“127 b，60 bt，”佩蒂亚读着灯泡上的铭文。现在我去食品储藏室看看有没有更好的东西。所以，这个40瓦的灯泡对我们来说没有什么用处，但是这个虽然是60瓦，却是220瓦。让我们打开它：至少她有更多的方向。
+
+当佩蒂亚将灯泡拧入插座时，房间变得明显明亮，孩子们坐在书本上大约一个小时。
+
+回到家后，他们觉得自己已经为“电”的考试做好了充分的准备。
+您在这个故事中注意到哪些与物理定律的矛盾？
+
+画谜
+
+1. 将数字放在空圆圈中，以便您正确执行乘法和除法运算。
+
+2. 在以下示例中，除七之外的所有数字都替换为空圆圈
+
+众所周知，两个组件的所有数字都是不同的。还知道产品中所有的数字都是不同的。该示例需要恢复。
+
+E·雷克斯坦

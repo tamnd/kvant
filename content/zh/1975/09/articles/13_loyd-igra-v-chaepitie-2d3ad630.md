@@ -1,0 +1,36 @@
+---
+id: 1975-9-loyd-igra-v-chaepitie-2d3ad630
+issue: kvant_1975_9
+year: 1975
+number: "9"
+title: 茶会游戏
+authors:
+  - Лойд С.
+rubric: smes
+page_first: 49
+page_last: 49
+page_labels: "47"
+tag: NI9B
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 05853b797be791f93ec09c4be834ef59f18c3692416c05b34212c58145f2040e
+prompt_sha256: draft-1
+translated_from: content/ru/1975/09/articles/13_loyd-igra-v-chaepitie-2d3ad630.md
+source_content_sha256: dd02851cccf7bc28d689a43d7b7c5a7e15a93f7faca85d05fdef381ffbeac436
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 47⟧
+
+塞缪尔·劳埃德的谜题
+
+茶会游戏
+
+这个游戏可以由两个或更多伙伴玩。每一个都被物理学家储存为“自己的”颜色。玩家一轮到他，就把物理放在自由的斧头上。所有物理题结束后，评分开始。每个玩家的点数等于其物理图形覆盖的 tsashkas 顶点的方格数。他的合伙人任命的物理学家并没有被他考虑在内。例如，如果您的物理学家位于 A、B、C、D、E、F、G、H、I 场，那么您就构建了 3 个方格：ABCD、BEFD 和 GFHI。
+
+游戏包括阻止对手建造方块的尝试和建造自己的方块。获胜者是得分最多的人。 图处的字母只是为了解释游戏规则。
+
+任务。如果棋盘上的 33 个区域都被你的物理学家占据，尝试确定方格的数量。

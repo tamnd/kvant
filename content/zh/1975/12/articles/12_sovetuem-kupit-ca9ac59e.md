@@ -1,0 +1,44 @@
+---
+id: 1975-12-sovetuem-kupit-ca9ac59e
+issue: kvant_1975_12
+year: 1975
+number: "12"
+title: 我们建议您购买
+rubric: smes
+page_first: 52
+page_last: 52
+page_labels: "50"
+tag: Z2AO
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 9846057fc6cf0b4c404ec7965dd6472f79fec6371fe815c5eeac3d1747965dc1
+prompt_sha256: draft-1
+translated_from: content/ru/1975/12/articles/12_sovetuem-kupit-ca9ac59e.md
+source_content_sha256: bb20a7c659572d02f42b48ef0c3cc6605166b301c9fbf0650406e5701d827d54
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 50⟧
+
+第二个解决方案。让我们围绕四边形 $ABCD$ 描述一个平行四边形 $E_1F_1K_1L_1$，使其各边与四边形 $ABCD$ (图 7) 的对角线平行。让对角线 $AC$ 和 $BD$ 相交于点 $O$。然后$\overrightarrow{OE}_1 = 2\overrightarrow{OE}$、$\overrightarrow{OF}_1 = 2\overrightarrow{OF}$等。因此，准备平行四边形$E_1F_1K_1L_1$和$EFKL$，准备系数为2。因此，平行四边形$E_1F_1K_1L_1$的面积是平行四边形$EFKL$面积的4倍。接下来我们将使用问题13。
+
+问题19.证明如果凸四边形的对角线震荡，则该四边形的面积等于其中线长度的乘积。
+
+问题20.证明凸四边形的面积等于其中线长度与中线夹角正弦的乘积。
+
+现在我们邀请您解决计算面积的几个问题。
+
+问题 21. 从三角形$ABC$的顶点$C$绘制中线$CM$。如果$|AC|=13$、$|BC|=11$、$|CM|=10$，求三角形$ABC$的面积。
+
+问题 22（密歇根州立大学，力学和数学，1973 年）。连接梯形底中点的线段为5，梯形对角线的长度为10和12。计算梯形的面积。
+
+问题23.如果对角线长度为$d$，中线长度为$m$，它们之间的角度为$\varphi$，求凸四边形的面积。
+
+总之，我们提出了一个更复杂的问题。
+
+问题 24. 给定一个凸四边形 $ABCD$。点$M$和$N$是边$AB$和$CD$的中点。线 $AN$ 和 $DM$ 相交于点 $P$，线 $BN$ 和 $CM$ - 相交于点 $Q$。据了解，$|AP| = |PN|$。证明四边形$MQNP$的面积等于四边形$ABCD$面积的四分之一。
+
+下一份应发送至以下地址：103773，莫斯科，彼得罗夫卡，15，第 8 号商店“技术书”。

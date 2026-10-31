@@ -1,0 +1,63 @@
+---
+id: 2021-9-filippovskiy-v-poiskah-optimalnyih-postroeniy-14dce693
+issue: kvant_2021_9
+year: 2021
+number: "9"
+title: 寻找最佳结构
+authors:
+  - Филипповский Г. Б.
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 27
+page_last: 27
+page_labels: "25"
+tag: Q8EB
+lang: zh
+source: kvant_digital
+extraction: native
+content_sha256: 3e5fb4d43e2556ee228ac4810f9f1e883e46b33d8b990b27d8f8b7c9a9b11991
+prompt_sha256: draft-1
+translated_from: content/ru/2021/09/articles/03_filippovskiy-v-poiskah-optimalnyih-postroeniy-14dce693.md
+source_content_sha256: 617328cdc84043a695a9d2061620cc567c0a84206d69d316ad72c4ec6fa6e79a
+translation_model: draft
+translation_run: zh-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 25⟧
+
+“量子”
+
+为了
+
+雅戈尔
+
+⟦figure⟧
+
+图 3
+
+⟦figure⟧
+
+图 4
+
+一个球，但是在他们建造的火箭上。 Gak 这个名字与 Gaidar 的 Chuk 和 Gek 谐音，但是 Burtik 从哪里来呢？我们建议您自己解决这个问题。
+
+寻找最佳结构
+
+（摘自孟乔森男爵回忆录）
+
+我的朋友们，你们无条件地听说了我对几何的热爱！在几何中 - 到构造问题。在施工任务中 - 以最少的线路数进行施工。这样的建筑
+
+DOI: https://doi.org/10.4213/kvant20210904
+
+小学生
+
+⟦column⟧
+
+⟦figure⟧
+
+图 5
+
+不要以为舌头只蔓延到了儿童玩具上。自1910年起，拉森榫舌（图3）就开始应用于建筑中。这里的所有舌头都是一样的，一个用锁连接到另一个，就像开口环连接成任意长度的链条一样。如果链条很紧，那么一个环都无法取下。拉森板桩用于加固水库岸、堤坝、坑；它形成了坚固的垂直墙（图4）。在这种情况下，各个舌头的连接类似于拼图块的连接，即一个舌头撞到另一个舌头上（图5）。此类谜题出现于 1909 年。
+
+系统蒸发散通常被称为最佳的。我的另一个爱好是去月球旅行！在这样的旅行中，我乐意向当地居民讲述美丽的几何问题和几何定理，并教他们最优构造。因此，在第一次月球旅行期间，我们使用一根线进行施工。让我提醒您，施工任务是用圆规和直尺进行的，没有划分，一条线被称为直线、射线、线段、圆或其衬线形式的一部分。在一条线的构造中，月球上的居民特别喜欢这个问题：在一条直线l上有一个等于D(图1)的角，他们需要用一条线构造一个等于这个角的角。我们在一起
