@@ -1,0 +1,41 @@
+---
+id: 1971-12-eynshteyn-iogann-kepler-581b1488
+issue: kvant_1971_12
+year: 1971
+number: "12"
+title: 约翰内斯·开普勒
+authors:
+  - Эйнштейн А.
+rubric: osnovnye-stati
+page_first: 10
+page_last: 10
+tag: D6TT
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 52f7e0a6e74ba7ec05ced58e32b5b9d8e049b6f03d5fa6e1925ea9c6fe8469c2
+prompt_sha256: draft-1
+translated_from: content/ru/1971/12/articles/02_eynshteyn-iogann-kepler-581b1488.md
+source_content_sha256: febfc3d10b5ab1431c2bf7e5f57951e488b09525676aa630993e49a7d41a9131
+translation_model: draft
+translation_run: zh-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+A·爱因斯坦
+
+12 月 27 日是约翰内斯·开普勒（Johannes Kepler，1571-1630）诞辰 400 周年纪念日。开普勒的名字在物理学和天文学史上根深蒂固。首先，它将构成天体力学基础的众所周知的定律与头顶联系起来。
+
+根据著名天文学家第谷·布拉赫的观察，开普勒能够找到行星运动的一般模式。
+
+在哥白尼之前，科学以世界地心体系为主，根据该体系，行星和太阳围绕地球旋转。 17世纪上半叶，伟大的波兰科学家尼古拉斯·哥白尼提出了地心说世界观，认为太阳位于宇宙的中心，行星围绕太阳做圆周运动。
+
+从一开始，开普勒就认为世界结构的地心体系是正确的。他确信太阳是行星运动的原因。他是第一个认为进一步（正如我们现在所说的）不仅是可能的，而且是必要的。但行星轨道的同心圆与观测结果并不相符。开普勒提出行星的运行轨迹是椭圆形，进而得出椭圆轨道的结论。
+
+为天体力学奠定基础的定律是开普勒最重要的著作，但远非唯一的著作。他关于光线预纯化的著作广为人知。开普勒的初步研究导致了全内反射的发现。开普勒描述了视网膜上图像的产生，研究了镜子的反射、光和颜色的本质，并解释了望远镜的操作。
+
+在他的研究中，开普勒坚信自然法则应该是简单而美丽的。寻找这些规律的任务始终摆在他的面前。尽管不断需要、缺乏任何帮助、宗教斗争、家庭不幸，他还是成功完成了这项任务。他可以说：“我一生中投入最多、最好的部分的东西现在已经找到了。”
+
+下面我们放A. Einstein关于开普勒的文章，摘自爱因斯坦的《科学文集》，

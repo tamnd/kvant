@@ -1,0 +1,47 @@
+---
+id: 1971-12-altyikis-marki-posvyaschennyie-iogannu-kepleru-i-tiho-brage-6b5a7543
+issue: kvant_1971_12
+year: 1971
+number: "12"
+title: 纪念约翰内斯·开普勒和第谷·布拉赫的邮票
+authors:
+  - Алтыкис А. В.
+rubric: raznoe
+rubric_sub: Разное
+page_first: 61
+page_last: 61
+page_labels: "59"
+tag: YVXR
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: d14db9f1ada378306ef9c98dacec63a41fbc92279c547ba20ff078b0f62753f5
+prompt_sha256: draft-1
+translated_from: content/ru/1971/12/articles/16_altyikis-marki-posvyaschennyie-iogannu-kepleru-i-tiho-brage-6b5a7543.md
+source_content_sha256: df7665db348e0cee4b4ded6a687545e92708cad643ab15945fe5a7a0452cc869
+translation_model: draft
+translation_run: zh-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 59⟧
+
+收藏家的角落
+
+品牌专用
+约翰·开普勒
+安静地布拉赫
+
+约翰内斯·开普勒（Johannes Kepler，1571-1630）是一位杰出的天文学家和伟大的数学家，今年迎来了他的 400 岁生日。
+
+他发现了行星天文学将永远深入研究的三个行星运动定律。
+
+开普勒是哥白尼理论的支持者，并在大学讨论中让他闭嘴。他写道：“我爱哥白尼，不仅因为他的卓越才能，还因为他坚定而冷静的头脑。”
+
+这张照片展示了阿拉伯也门共和国的邮票，其中一张是约翰内斯·开普勒的肖像，旁边是尼古拉斯·哥白尼的肖像，第二张是专门为太空发现者拍摄的系列邮票，其中包含开普勒的肖像和前往月球的苏联三角旗。您还可以在 1971 年发行的德国民主复兴邮票上看到开普勒的肖像。
+
+照片中还有另外两张邮票（丹麦和也门阿拉伯 Resurplica），上面有 16 世纪著名天文学家第谷·布拉赫 (Tycho Brahe) 的肖像，约翰内斯·开普勒 (Johannes Kepler) 曾担任他的助手多年。
+
+第谷·布拉赫是一位杰出的观察家，也是精密天文仪器的杰出发明家。他建造了欧洲第一个大型天文台，并编制了极其精确的行星运动表。
+
+V·A·阿尔特基斯

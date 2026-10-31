@@ -1,0 +1,56 @@
+---
+id: 1971-12-petrakov-skvortsov-xiii-mezhdunarodnaya-matematicheskaya-olimpiada-shkolnikov-4d6c5791
+issue: kvant_1971_12
+year: 1971
+number: "12"
+title: 第十三届国际中小学生数学奥林匹克竞赛
+authors:
+  - Петраков И. С.
+  - Скворцов В. А.
+rubric: informatsiya
+rubric_sub: Информация
+page_first: 55
+page_last: 55
+page_labels: "53"
+tag: 41VO
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 725e484275ce863934f6d5ef4b5e5439ffe327bcd2c7a0250505cbab26f991b3
+prompt_sha256: draft-1
+translated_from: content/ru/1971/12/articles/13_petrakov-skvortsov-xiii-mezhdunarodnaya-matematicheskaya-olimpiada-shkolnikov-4d6c5791.md
+source_content_sha256: 05d2556469200e7e51d027f79ac1b2c4c526ef03a38b37891d159d7aaa3670a5
+translation_model: draft
+translation_run: zh-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 53⟧
+
+国际学校奥林匹克竞赛
+
+第十三届国际小学生数学奥林匹克竞赛
+
+1971年7月7日至20日，第十​​三届国际中学生数学奥林匹克竞赛在捷克斯洛伐克举行。奥林匹克竞赛的直接组织者是斯洛伐克社会主义共和国学校部。
+
+由斯洛伐克科学院院士史蒂芬·施瓦茨 (Stefan Schwartz) 代表的评审团初步工作于 7 月 8 日至 11 日在斯洛伐克中部度假小镇塔莱进行。评委会选出了6个问题，北行每天3个问题。大多数评委会成员认为，第十三届奥林匹克竞赛的题目平均比往届国际奥林匹克竞赛的题目更难。不幸的是，我们后来发现Bolsharnya（问题5）和Shvetsa（问题6）提出的问题之前已经发表过。不过，我们可以同意对往届奥运会任务难度的总体评估，特别是大多数参赛国家队的得分明显低于往届奥运会。
+
+奥运会参赛者的比赛于 7 月 13 日至 14 日在日利纳市举行，为期两天。评审团对作品进行检查并颁奖的进一步工作也在那里进行。奥运会显然是由当地组委会组织的。非常合格
+
+捷克和斯洛伐克的数学家分配的估计坐标工作效率很高。
+
+第十三届数学奥林匹克竞赛共有 15 个国家参加，这是国际奥林匹克竞赛历史上参赛国家数量最多的一次。北方化的始作俑者是古巴。奥地利第二次参加奥林匹克运动会。其他国家：保加利亚、匈牙利、英国、东德、荷兰、蒙古、波兰、罗马尼亚、苏联、法国、捷克斯洛伐克、瑞典、南斯拉夫已经是这个数学俱乐部的传统参与者。每个国家都由 8 名学生代表队（古巴只有 4 名参赛者）。每个国家的队伍都是根据各种北方比赛的成绩组建的。
+
+对于我国来说，国际奥林匹克竞赛是今年四月在皮拉举行的维塞尤兹奥林匹克竞赛的自然延续。
+
+苏联代表参加第十三届数学奥林匹克竞赛的有：Alexey Aleksadrov（列宁格勒国立大学第 45 号寄宿学校）、Sergei Gashkov（莫斯科国立大学第 18 号寄宿学校）、Vasily Erokhin（列宁格勒第 30 号学校）、Dmitry Loachev（莫斯科第 2 号学校）、Olee Lyashko（哈尔科夫第 10 号学校）。 27）、Evgeniy Sallin（列宁格勒国立大学第 45 号寄宿学校）、Mikhail Tsfasman（莫斯科，第 2 号学校）和 Alexander Chismov（列宁格勒第 239 号学校）。
+
+苏联队全部队员都是维塞尤兹奥林匹克运动会的冠军，并且在第十三届国际奥林匹克运动会上也取得了成功。塞雷·加什科夫获得一等奖。二等奖由 Dmitry Loachev、Olee Lyashko、Vasily Erokhin、Alexey Aleksadrov 和 Mikhail Tsfasman 获得。三等奖授予 Aleksandr Chismov 和 Evgeniy Sallin。
+
+我们所有的“奥运选手”都表现出色，没有通过莫斯科大学或列宁格勒大学力学和数学系的入学考试就被录取了。
+
+根据奥林匹克竞赛的成绩，总共颁发了 48 个奖项：7 个一等奖、12 个二等奖、29 个三等奖。除了谢尔盖·加什科夫（Sergei Gashkov）之外，一等奖还授予了Ruže Imre（匈牙利）、Gondos Ferenc（匈牙利）、Burmeister Wolfane（东德）、Szarek Smanislav（波兰）、Komyat Peter（匈牙利）和Franko Peter（匈牙利）。
+
+匈牙利男学生鲁泽·伊姆雷(Ruze Imre)尤其缺乏成功，他获得了尽可能多的分数。这是他第三次参加这项数学汇编。另一位奥林匹克运动会的老将是已经家喻户晓的关读者、来自东德的学生沃尔方·伯迈斯特(Wolfang Burmeister)，他第五次成为落后队的一员。
+
+传统上，在国际数学奥林匹克竞赛中，只有个人成绩

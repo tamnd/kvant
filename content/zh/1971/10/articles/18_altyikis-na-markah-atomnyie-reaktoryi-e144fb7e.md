@@ -1,0 +1,40 @@
+---
+id: 1971-10-altyikis-na-markah-atomnyie-reaktoryi-e144fb7e
+issue: kvant_1971_10
+year: 1971
+number: "10"
+title: 邮票显示核反应堆
+authors:
+  - Алтыкис А. В.
+rubric: raznoe
+rubric_sub: Разное
+page_first: 65
+page_last: 65
+page_labels: "63"
+tag: UY12
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 9c302b34c9e8aec6bc4e492b251222d105f988206b40940deef7770909850f7f
+prompt_sha256: draft-1
+translated_from: content/ru/1971/10/articles/18_altyikis-na-markah-atomnyie-reaktoryi-e144fb7e.md
+source_content_sha256: 51ee60bb02de18135975fa882ad137abb8944ebb80cdb87205a8c7728f4e003a
+translation_model: draft
+translation_run: zh-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 63⟧
+
+邮票上的原子
+反应堆
+
+将原子能用于和平目的与原子反应堆的创建有着千丝万缕的联系。反应堆是任何核电站或核发动机的核心。其中发生原子核裂变的受控链式反应并释放原子能。目前建造了许多不同类型的核反应堆。
+
+第一个用于和平目的的核反应堆建于苏联奥布宁斯克核电站，于 1954 年投入运行。1956 年 1 月发行了一系列三枚邮票，专门纪念这一事件。其中一张展示了反应堆的上部（见图）。
+
+世界上许多国家都建造了用于和平目的的原子反应堆。照片中的邮票描绘了东德、捷克斯洛伐克和罗马尼亚在苏联帮助下建造的第一座原子反应堆，以及一张描绘南斯拉夫在贝尔格莱德建造的第一座原子反应堆的邮票。
+
+照片中加拿大和法国的邮票象征着将原子能用于和平目的，其中还描绘了原子反应堆。
+
+A.V.阿尔米克斯
