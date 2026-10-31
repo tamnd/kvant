@@ -1,0 +1,102 @@
+---
+id: 1979-4-aleksandrova-shlyik-yudina-dalnevostochnyiy-gosudarstvennyiy-universitet-fizicheskiy-fakultet-bf396e9b
+issue: kvant_1979_4
+year: 1979
+number: "4"
+title: Đại học bang Viễn Đông (Khoa Vật lý)
+authors:
+  - Александрова Н.
+  - Шлык В. А.
+  - Юдина Л. А.
+rubric: ekzamenatsionnye-materialy
+page_first: 56
+page_last: 56
+page_labels: "54"
+tag: BBG5
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: f90b85f09661e50c03b2d44af3f0f04129e155bffe9fa97b654a4c86593b8ef0
+prompt_sha256: draft-1
+translated_from: content/ru/1979/04/articles/20_aleksandrova-shlyik-yudina-dalnevostochnyiy-gosudarstvennyiy-universitet-fizicheskiy-fakultet-bf396e9b.md
+source_content_sha256: de6db28b8236aed6792085922fd76ddf52ec96af678138bd8dbd3ba0e4a0cf80
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 54⟧
+
+Tùy chọn 2
+
+1. Phần nào của mặt phẳng thu được khi một parabol đi qua hai đầu đường kính của hình bán nguyệt và chạm vào đường tròn biên tại một điểm bằng chiều dài tính từ hai đầu đường kính?
+
+2. Giải bất đẳng thức
+$$C_n^{n-2} + C_n^{n+1} \leq 100,$$
+trong đó $C_n^k$ là số lần kết hợp của các phần tử $n$ với $k$.
+
+3. Giải phương trình
+$$4^{x+1,5} + 9^x = 6^{x+1}.$$
+
+4. Giải phương trình
+$$4 \cos^2 x + \sin x \cdot \cos x + 3 \sin^2 x = 3.$$
+
+Vật lý
+(Bài kiểm tra miệng)
+
+Khoa Vật lý
+
+1. Một vật trượt từ trạng thái đứng yên dọc theo một mặt phẳng nghiêng tạo một góc $\alpha = 30^\circ$ với đường chân trời từ độ cao $h = 1,25$ m. Hệ số ma sát của vật trên mặt phẳng là $k = 0,2$. Hỏi vật sẽ đạt được vận tốc bao nhiêu sau khi trượt?
+
+2. Danh sách xe máy di chuyển về phía bắc bên phải với tốc độ tuyến tính $v = 72$ km/h dọc theo một vòng tròn bán kính $R = 71$ m. Xác định góc lệch $\alpha$ của xe môtôLIST so với phương thẳng đứng.
+
+3. Một ống thủy tinh có chiều dài $l = 1$ m được nhúng một nửa vào đáy. Ống sau đó được đóng lại ở phía trên và loại bỏ. $h$ Thanh thủy ngân sẽ tồn tại trong ống bao lâu? Áp suất khí quyển là $h_0 = 760$ mm pt. Nghệ thuật.
+
+4. Hai bình đựng cùng một loại khí. Thể tích của bình $V_1$ và $V_2$, áp suất và nhiệt độ của khí trong bình lần lượt là $p_1$, $T_1$ và $p_2$, $T_2$. Sau khi kết nối các bình, nhiệt độ $T$ được thiết lập trong đó. Tìm áp suất trong các mối nối của bình.
+
+5. Hai điện tích dương $q_1 = 4 \cdot 10^{-6}$ C và $q_2 = 9 \cdot 10^{-6}$ C cách nhau $l = 30$ cm. Cần đặt điện tích nào và ở đâu để tất cả các hệ ở trạng thái cân bằng? Liệu trạng thái cân bằng có ổn định không?
+
+6. $N$ các giọt thủy ngân hình cầu giống hệt nhau được tích điện cùng điện thế $\varphi$. Tiềm năng của giọt lớn $\varphi_1$ do sự hợp nhất của các giọt $N$ ($N = 15$, $\varphi = 220$ B) sẽ là bao nhiêu?
+
+7. Một tụ điện nối với pin có điện áp $U = 400$ V bằng dây dẫn có điện trở $R = 15$ Ohm có công suất ban đầu là $C_1 = 3$ µF. Sau đó, điện dung của nó tăng đều trong khoảng thời gian $t = 0,15$ s đến $C_2 = 33$ µF. Năng lượng nào sẽ được giải phóng dưới dạng nhiệt trong dây cung cấp?
+
+8. Một hội trường có sàn tròn bán kính $R = 15$ m được chiếu sáng bằng một ngọn đèn cố định ở tâm dòng chảy. Tìm chiều cao của hành lang nếu biết độ khô ít nhất của tường hành lang lớn hơn $n$ lần độ khô ít nhất của sàn ($n = 3$).
+
+9. Một gương cầu lõm cho hình ảnh ngọn lửa nến trên tường, được phóng đại $n$ lần ($n = 3$). Khoảng cách từ ngọn nến đến gương là $d = 40$ cm. Tìm công thức tính khoảng cách $F$ của gương.
+
+10. Động năng và tốc độ của các quang điện tử phát ra từ natri khi nó được chiếu tia cực tím ($\lambda = 2,1.10^{-5}$ cm), nếu công năng của các electron từ natri là $A_B = 2,52$ eV? Động năng của electron được biểu thị bằng volt electron.
+
+M. Dobrokhotova, N. Mikheev, V. Chapytsin
+
+Đại học bang Viễn Đông
+
+(Khoa Vật lý)
+
+Khoa Vật lý Trường Đại học Viễn Đông đào tạo các nhà vật lý cho các viện nghiên cứu, cơ sở giáo dục đại học, trung học và doanh nghiệp ở Viễn Đông.
+
+Sáu khoa của khoa đào tạo các chuyên gia về vật lý chất rắn, vật lý phân tử, địa vật lý, điện tử, tự động hóa nghiên cứu khoa học và vật lý hạt nhân.
+
+Sinh viên thường được đào tạo thực tế tại nơi làm việc. Đây là các viện của Trung tâm Khoa học Viễn Đông thuộc Viện Hàn lâm Khoa học Liên Xô (khoa học đại dương, quy trình tự động hóa và điều khiển, núi lửa, sinh học biển), phòng thí nghiệm của các bộ phận khảo sát địa chất, tàu nghiên cứu làm việc trong các chương trình quốc tế, phòng thiết kế, nhà máy và trường học ở Viễn Đông.
+
+Toán học
+(kiểm tra miệng)
+
+1. Giải phương trình
+$$\left( \sqrt{3} x \right)^{11} - 2 = 11.$$
+
+2. Giải bất đẳng thức
+$$\log_2 x - 3 (x - 1) < 2.$$
+
+3. Có bao nhiêu thứ Sáu lẻ khác nhau từ các số 0,1,3,4,5?
+
+4. Có bao nhiêu số điện thoại chứa tổ hợp 12 nếu số đó có 5 chữ số?
+
+5. Tìm giá trị lớn nhất và lớn nhất của hàm
+$$y = \cos^2 x + \cos x + 3.$$
+
+6. Xác định kích thước của một bể bơi mở có thể tích 32 m³ với một ngôi nhà hình vuông, lớp lót đáy và tường đòi hỏi ít vật liệu nhất.
+
+7. Tính diện tích hình được giới hạn bởi đường thẳng
+$$y = - 3x^2 - |x| + 3, y = 0.$$
+
+8. Hai công nhân cùng làm chung một công việc thì xong trong 4 giờ. Đầu tiên

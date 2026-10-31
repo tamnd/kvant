@@ -1,0 +1,47 @@
+---
+id: 1979-5-dozorov-sharik-kotoryiy-ne-sduvaetsya-1d795683
+issue: kvant_1979_5
+year: 1979
+number: "5"
+title: Một quả bóng không xẹp xuống
+authors:
+  - Дозоров А. А.
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 35
+page_last: 35
+page_labels: "33"
+tag: C63D
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 08c1c2bb12ee624b870d2791ab376ad0335d870dd328f1a178aea3c2adce13e7
+prompt_sha256: draft-1
+translated_from: content/ru/1979/05/articles/12_dozorov-sharik-kotoryiy-ne-sduvaetsya-1d795683.md
+source_content_sha256: 1983efcb9bb48ed70f99c1efbae65ede5619c61dd62f588401dbcaf9d82d8adc
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 33⟧
+
+Áp suất bên trong bình nhỏ hơn bên ngoài nên áp suất của không khí bên ngoài sẽ ép quả bóng vào bình. Ngoài ra, lực ma sát còn giúp quả bóng không bị trượt khỏi hộp.
+
+5. Đặt vỏ cao su của một quả bóng bay vào một chiếc lọ rỗng, gắn một con trỏ vào vỏ và đặt một thước đo bên cạnh nó (Hình 5). Bạn sẽ nhận được một số loại thiết bị đo lường. Theo dõi vị trí của mũi tên trên nhà gỗ khi thiết bị ở trong phòng, trong bồn tắm hoặc bên ngoài.
+
+Chính xác thì bạn nghĩ điều gì đã thay đổi thiết bị này?
+
+Tất nhiên, bạn đã đồng ý rằng thiết bị bạn chế tạo là phong vũ biểu. Với sự trợ giúp của phong vũ biểu như vậy, bạn có thể dễ dàng theo dõi những thay đổi của áp suất không khí. Nếu áp suất không khí bên ngoài tăng lên (áp suất bên trong lon trở nên lớn hơn), vỏ sẽ được bơm vào bên trong lon và kim sẽ nhô lên trên vỏ hộp. Nếu áp suất bên ngoài giảm (và nhỏ hơn áp suất bên trong), vỏ sẽ cong ra ngoài và mũi tên rơi xuống.
+
+A. Dozorov
+
+Một quả bóng không xẹp xuống
+
+Lấy một lọ thủy tinh lớn và đậy chặt bằng nút có cắm hai ống thủy tinh vào (Hình 6). Đầu tiên đặt ống cao su vào đầu trên của ống và đốt vỏ cao su của quả bóng bay vào đầu dưới của một trong các ống. (Có thể phát vai trò của ống $T_1$ bằng cách nhấn $K$, được hiển thị bằng đường chấm trong Hình 6.)
+
+Để ống ống $T_1$ tự do và bơm bóng bay qua ống $T_2$. Sau đó, nếu bạn thả $T_2$, quả bóng sẽ xẹp xuống một cách tự nhiên.
+
+Bây giờ hãy làm như sau. Khi mở ống $T_1$, hãy thổi phồng quả bóng và kẹp ngay ống của cả hai ống. Sau đó, nếu bạn mở ống $T_2$, quả bóng thực tế sẽ không xẹp xuống. Tại sao?
+
+Nó khá dễ dàng để giải thích. Ngay khi chúng ta thả ống $T_2$ ra, quả bóng bắt đầu xẹp xuống dưới tác động của lớp vỏ cao su bị kéo căng. Đồng thời, thể tích của nó sẽ giảm và thể tích không khí trong bình (khi đóng ống $T_1$) sẽ tăng lên. Kết quả là áp suất không khí trong bình sẽ giảm. Tại một thời điểm nào đó nó trở nên nhỏ hơn áp suất không khí bên trong quả bóng. Sự truyền áp suất này làm cho lớp vỏ bị kéo căng lành lại và quả bóng sẽ ngừng xẹp xuống. Rõ ràng, quả bóng càng được bơm căng thì càng ít xẹp.

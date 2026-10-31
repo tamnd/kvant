@@ -1,0 +1,32 @@
+---
+id: 1979-4-sefibekov-geometricheskiy-sofizm-2cb75dc7
+issue: kvant_1979_4
+year: 1979
+number: "4"
+title: '[Ngụy biện hình học]'
+authors:
+  - Сефибеков С. Р.
+rubric: smes
+page_first: 18
+page_last: 18
+page_labels: "16"
+tag: 1S20
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 40bef8a5086acf4f0c94da0e259264bfc12aa580905386a8f3bc2ae8e2e07bf6
+prompt_sha256: draft-1
+translated_from: content/ru/1979/04/articles/08_sefibekov-geometricheskiy-sofizm-2cb75dc7.md
+source_content_sha256: c9b3ff0b48fe76c4a9ef4f4a4595ca3d8e334debe2e0e408242f7a4980e42fa4
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 16⟧
+
+SỰ SỐNG CHO MỌI CHUYỂN ĐỘNG CỦA MỌI CƠ THỂ KHÔNG CÓ NGOẠI LỆ. CHO CHUYỂN ĐỘNG NHANH VÀ CHẬM, CHO CƠ THỂ LỚN VÀ NHỎ.
+
+VÀ CHỈ VÀO ĐẦU THẾ KỶ XX NÓ PHÁT HIỆN RẰNG ĐIỀU NÀY KHÔNG PHẢI LÀ NHƯ VẬY. Cơ học Newton hóa ra rất có thể không chính xác khi các vật thể chuyển động với tốc độ gần bằng tốc độ ánh sáng. Điều này được xác lập bởi thuyết tương đối của A. Einstein vào năm 1905. Điều này là do sự tương tác giữa các vật thể không được truyền đi ngay lập tức như người ta nghĩ trước đây mà ở một tốc độ hữu hạn nhất định. Tốc độ này chính xác bằng tốc độ ánh sáng. Rõ ràng là khi tốc độ chuyển động của một vật gần với tốc độ truyền tương tác thì các định luật cơ học trở nên khác nhau. Nhưng ngay cả trong cơ học của thuyết tương đối (trong cơ học tương đối tính), chúng ta cũng đang xử lý các khái niệm và đại lượng quen thuộc - khoảng cách và thời gian, tốc độ và gia tốc, khối lượng và lực. Nhưng sự tương ứng giữa chúng là hoàn toàn khác nhau. Những công thức mới này luôn bao gồm tỷ lệ $\frac{v}{c}$ của tốc độ cơ thể $v$ với tốc độ ánh sáng $c$. Khi tỷ số này nhỏ và có thể coi là bằng 0 thì các công thức ngay lập tức chuyển thành công thức của cơ học Newton. Do đó, sự xuất hiện của thuyết tương đối không dẫn đến việc từ bỏ cơ chế này hay sửa đổi nó.
+
+Thứ hai, cơ học Newton hoàn toàn không thể áp dụng được cho chuyển động của các hạt rất nhỏ mà từ đó các nguyên tử và phân tử được hình thành. Điều này mô tả một lý thuyết mới xuất hiện trong vật lý cách đây 50 năm. Trong lý thuyết này, ngay cả những khái niệm cơ học đặc quyền, chẳng hạn như quỹ đạo, tốc độ, gia tốc, lực, cũng mất đi ý nghĩa “cơ học” chung của chúng. Khái niệm chuyển động ở đây khác với khái niệm ghép cây. Nhưng sự xuất hiện của lý thuyết mới này (nó được gọi là cơ học lượng tử) sẽ không ảnh hưởng đến cơ học Newton, cơ học vẫn không thể lay chuyển đối với những chuyển động mà nó được tạo ra.

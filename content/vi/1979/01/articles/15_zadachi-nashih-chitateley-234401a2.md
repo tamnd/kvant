@@ -1,0 +1,54 @@
+---
+id: 1979-1-zadachi-nashih-chitateley-234401a2
+issue: kvant_1979_1
+year: 1979
+number: "1"
+title: Bài toán độc giả của chúng tôi
+rubric: smes
+page_first: 46
+page_last: 46
+page_labels: "44"
+tag: 1Q99
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 7533c33c45e69285faadd6bde3bdeabc23f1253fc3b90da0e9ed18350b3434ad
+prompt_sha256: draft-1
+translated_from: content/ru/1979/01/articles/15_zadachi-nashih-chitateley-234401a2.md
+source_content_sha256: e00045133baaef844a40a487a7363833f946ff2a753f0d21c89a8bf723a43e69
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 44⟧
+
+Tôi nghĩ rằng sự hiện diện của các đường hỗ trợ trong các hình lồi phẳng (tương tự như các mặt phẳng hỗ trợ trong các vật thể lồi), mặc dù nó là một tính chất rất quan trọng nhưng liệu nó có làm ai ngạc nhiên không: nó khá rất. Sự thật tiếp theo về thành phố còn đáng ngạc nhiên hơn.
+
+Định lý. Nếu cho nhiều hình lồi trên một mặt phẳng, mỗi hình có một điểm chung thì có một điểm đồng thời thuộc tất cả các điểm đó.
+
+Yêu cầu đối với các số liệu là lồi tồn tại. Thật vậy, hãy nhìn vào Hình 5: trong số bốn hình vẽ trên đó, chỉ có một hình không lồi; tuy nhiên, mặc dù ba hình bất kỳ đều có một điểm chung nhưng không có điểm nào đồng thời thuộc cả bốn hình REM.
+
+Điều gì sẽ xảy ra nếu có một số hình lồi trên mặt phẳng sao cho bất kỳ hai hình nào trong số chúng đều có một điểm chung? Có nhất thiết phải có một điểm chung cho tất cả những con số này? Hãy chứng tỏ bản thân rằng điểm như vậy có thể không tồn tại.
+
+Bạn có để ý rằng chúng tôi luôn nhấn mạnh rằng các số liệu được đề cập là bằng phẳng không? Và điều này không phải là không có lý, vì có bốn vật thể lồi trong không gian, mỗi vật thể có một điểm chung, nhưng không có điểm chung cho cả bốn vật thể REM, ví dụ như bốn mặt của paramid tam giác như trong Hình 6. Điều này có nghĩa là một định lý tương tự không còn đúng trong không gian nữa? Hóa ra để nó vẫn đúng trong không gian thì chỉ cần “tinh chỉnh” một chút. Cụ thể là:
+
+Định lý'. Nếu có nhiều vật lồi trong không gian, mỗi vật có một điểm chung thì có một điểm đồng thời thuộc tất cả các điểm đó.
+
+Định lý mà chúng ta vừa nói đến đã được phát hiện cách đây không lâu - vào đầu những năm 20 của thế kỷ chúng ta bởi nhà toán học gốc E. Halley và mang tên ông (Helly đã xây dựng nó cho các vật thể lồi nằm trong không gian n chiều). Định lý Helly cũng có thể được xem xét cho các tập lồi nằm trên một đường thẳng (các tập lồi trên một đường thẳng là các đoạn, tia riêng lẻ, cũng như toàn bộ đường thẳng và tập rỗng). Trên một đường thẳng, định lý Helly có dạng như sau:
+
+Định lý'. Nếu cho một số tập lồi trên một đường thẳng, mỗi tập đó có một điểm chung thì sẽ có một điểm đồng thời thuộc tất cả các điểm đó.
+
+Hãy thử tự mình chứng minh định lý này.
+
+Nếu bạn quan tâm đến các số lồi, hãy đọc cuốn sách của I. M. Yaglom và V. G. Boltyansky, có tựa đề: “Các số lồi”.
+
+Bài toán độc giả của chúng tôi
+
+1. Pin và bóng đèn pin cùng với các dây nối tạo thành một mạch điện. Chiều dài của dây trong mạch (từ pin “+” đến “-”) là $l=10$ m. Dây là đồng, tiết diện là $S=1$ mm2. Mạch điện mang dòng điện $I=0,15$ A, theo đó bóng đèn được thiết kế. Sẽ mất bao lâu để một electron được thêm từ pin “-” sang pin “+” dưới tác dụng của điện trường? (Giả sử số electron tự do trong dây đồng bằng số nguyên tử đồng.)
+A. Dozorov (Yaroslavl)
+
+2. Cắt một tờ giấy có hình lá cờ thành bốn mảnh sao cho
+
+để chúng có thể được sử dụng để dán các mẫu hình khối lại với nhau.
+Y. Temratsev (vùng Astrakhan)

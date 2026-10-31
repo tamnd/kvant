@@ -1,0 +1,54 @@
+---
+id: 1979-8-dagaev-polnoe-lunnoe-zatmenie-6-sentyabrya-1979-goda-54ae219f
+issue: kvant_1979_8
+year: 1979
+number: "8"
+title: Nguyệt thực toàn phần ngày 6 tháng 9 năm 1979
+authors:
+  - Дагаев М. М.
+rubric: smes
+page_first: 37
+page_last: 37
+page_labels: "35"
+tag: YZ0Q
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: afc5fb63a433931fee6bf4a06891b504a89e8a7a45cc41dde913d865bc81ad35
+prompt_sha256: draft-1
+translated_from: content/ru/1979/08/articles/11_dagaev-polnoe-lunnoe-zatmenie-6-sentyabrya-1979-goda-54ae219f.md
+source_content_sha256: f9b8ac170cb75ec82cf48a4ad1411e72ebd81e2da202a02d0294e0dbf34866da
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 35⟧
+
+hình xuyến $CM$ thành số thực tùy ý $\lambda$? Làm thế nào chúng ta có thể chứng minh bằng định nghĩa “affine” (tức là một định nghĩa không sử dụng độ dài và góc rõ ràng mà chỉ dựa trên khái niệm về sự song song) các quy tắc của đại số vectơ mà chúng ta đã sử dụng rộng rãi trong suốt bài trình bày của mình? Chúng tôi sẽ không trả lời những câu hỏi này mà sẽ giới hạn ở việc yêu cầu người đọc quyết định xem có nên chỉ sử dụng các phép toán “afficine” đơn giản nhất (cộng vectơ và nhân vectơ với một số), một số “afficine” bài toán.
+
+Bài toán và
+1. Chứng minh rằng, dù các điểm $A, B, C$ và $D$ được đặt như thế nào thì ba đoạn thẳng nối trung điểm của các đoạn $AB$ và $CD$, $AC$ và $BD$, $AD$ và $BC$ đều có điểm chung.
+2. Trên các đường thẳng $AB$ và $CD$, nằm tùy ý trong không gian, lần lượt có các điểm $A'$ và $C'$, lần lượt cắt bỏ cùng một phần của các đoạn $AB$ và $CD$. Trên các đường $BC$ và $DA$ có các điểm $B'$ và $D'$, cắt cùng một phân số khỏi các đoạn $BC$ và $DA$. Chứng minh rằng đường thẳng $A'C'$ và $B'D'$ cắt nhau.
+
+3. Bảy điểm $A_i$ ($i=1, 2, \dots, 7$) nằm tùy ý trong không gian, $P$ là điểm tùy ý. Gọi $B_{ijk}$ là trọng tâm của hệ điểm $A_i, A_j, A_k, B_{lmnp}$ là trọng tâm của hệ các điểm còn lại (các chỉ số $i, j, k, l, m, n, p$ đều khác nhau), $\phi_{ijk}$ là đường thẳng đi qua điểm $B_{ijk}$ song song với đường thẳng $PB_{lmnp}$, $\psi_{lmnp}$ là đường thẳng đi qua điểm $B_{lmnp}$ song song với đường thẳng $PB_{ijk}$. Chứng minh rằng 1) mọi đường thẳng $\phi_{ijk}$ cắt nhau tại một điểm; 2) tất cả các đường $\psi_{lmnp}$ cắt nhau tại một điểm.
+
+4. Trên các cạnh $AB, BC, CA$ của tam giác $ABC$, lần lượt đặt các điểm $C', A', B'$ sao cho trọng tâm của tam giác $A'B'C'$ và $ABC$ trùng nhau.
+
+5. Chứng minh rằng trong tất cả các tam giác $A'B'C'$ nội tiếp tam giác $ABC$ sao cho trọng tâm của tam giác $ABC$ và $A'B'C'$ trùng nhau thì tam giác nào có đỉnh cắt hai cạnh của tam giác $ABC$ sẽ có diện tích nhỏ nhất.
+
+6. Mỗi cạnh của tứ giác $ABCD$ được chia thành ba phần bằng nhau. Một đường thẳng được vẽ đi qua hai điểm phân chia đó, các cạnh $AB$ và $AD$, gần với các điểm khác nằm ở đỉnh $A$. Tương tự, vẽ thêm ba đường thẳng đi qua các điểm chia gần với các đỉnh $B, C, D$. Chứng minh rằng trọng tâm của tứ giác tạo bởi bốn đường thẳng này trùng với trọng tâm của tứ giác $ABCD$.
+
+Nhật thực toàn phần ngày 6 tháng 9 năm 1979
+
+Tất cả các giai đoạn của nhật thực này sẽ được nhìn thấy ở các khu vực cực đông và đông bắc của Liên Xô, nằm ở phía đông của đường chạy gần từ Khabarovsk và Nikolaevsk-on-Amur đến Okhotsk và Biển Đông Siberia. Ở phía tây của đường này, Mặt trăng sẽ mọc trong tình trạng nhật thực một phần và ở phía tây của đường chạy từ Erfei Pavlovich qua Aldan, Yakutsk, Sangar và Verkhoyansk đến Quần đảo Siberia mới - đã ở giai đoạn nhật thực toàn phần. Ở phía tây Ulan-Ude, Barguzin, Vitim và Sukhana, không thể nhìn thấy nhật thực toàn phần vì Mặt trăng sẽ mọc ở đó sau khi nó kết thúc.
+
+Trong thời gian nhật thực, Mặt trăng sẽ nằm trong chòm sao Bảo Bình và sẽ đi qua vùng phía nam của bóng trái đất (xem hình; chữ $N$ biểu thị hướng đến cực bắc của thế giới, tức là gần với ngôi sao Pslar). Giai đoạn chính của nhật thực toàn phần $\Phi_m=1,10$.
+
+Dưới đây là khoảnh khắc nhật thực theo giờ Moscow ($T_M$):
+
+thời điểm bắt đầu nhật thực một phần $12^m$ và bắt đầu nhật thực toàn phần $13^m$ và pha lớn nhất $13^m$ và kết thúc nhật thực toàn phần $14^m$ và kết thúc nhật thực một phần $15^m$
+
+Để có được những khoảnh khắc giống nhau theo giờ địa phương, bạn cần thêm chênh lệch số nguyên giữa giờ địa phương và giờ Moscow vào các giá trị được chỉ định $T_M$.
+
+M. Dadaev

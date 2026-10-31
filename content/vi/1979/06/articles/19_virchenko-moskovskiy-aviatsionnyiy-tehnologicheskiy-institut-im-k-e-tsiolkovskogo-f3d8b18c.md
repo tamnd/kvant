@@ -1,0 +1,93 @@
+---
+id: 1979-6-virchenko-moskovskiy-aviatsionnyiy-tehnologicheskiy-institut-im-k-e-tsiolkovskogo-f3d8b18c
+issue: kvant_1979_6
+year: 1979
+number: "6"
+title: Viện Công nghệ Hàng không Mátxcơva được đặt theo tên. K. E. Tsiolkovsky
+authors:
+  - Вирченко Ю. и др.
+rubric: ekzamenatsionnye-materialy
+page_first: 48
+page_last: 48
+page_labels: "46"
+tag: 7SC1
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 047acfeead3e14f293d0003944aa9828c934719a3ea95e9550ca81a4eb67664c
+prompt_sha256: draft-1
+translated_from: content/ru/1979/06/articles/19_virchenko-moskovskiy-aviatsionnyiy-tehnologicheskiy-institut-im-k-e-tsiolkovskogo-f3d8b18c.md
+source_content_sha256: 2668fd688076bf33d364fdc04c02368bb577017a2ce23dbf73e7cbfc38f9d8ea
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 46⟧
+
+Đúng? Trọng lượng phân tử tương đối của oxy lớn hơn 16 lần so với trọng lượng phân tử tương đối của hydro.
+
+3. Một quả bóng nhỏ được treo trên một sợi dây mảnh trong khoảng trống giữa các bản của một tụ điện phẳng, các bản của nó nằm ngang. Phí bóng $q=10^{-9}$ Cl. Khi tụ điện được tích điện $Q=2 \cdot 10^{-5}$ C, sức căng của dây tóc tăng gấp đôi. Xác định khối lượng của quả bóng. Diện tích của các tấm tụ điện là $S=200 \text{ cm}^2$.
+
+4. Truyền lực tuyến tính có điện trở $R=250$ Ohm. Máy phát điện phải có điện áp bao nhiêu để khi truyền công suất $P=25$ kW qua đường dây này đến hộ tiêu dùng thì tổn thất trên đường dây không vượt quá 4% điện năng truyền đến hộ tiêu thụ?
+
+5. Một cuộn dây điện cảm $L=3 \cdot 10^{-5}$ Г được nối với một tụ điện bản song song có diện tích bản $S=100 \text{ cm}^2$. Khoảng cách giữa các bản tụ là $d=0,1$ mm. Hằng số điện môi của môi trường lấp đầy khoảng trống giữa các bản của tụ điện là bao nhiêu nếu mạch cộng hưởng ở bước sóng $\lambda=750$ m?
+
+B. Adafonov,
+V. Prozhorenko,
+V. Chudov
+
+Viện kỹ thuật hàng không Moscow được đặt theo tên. K. E. Tsiolkovsky
+
+Tại Viện Kỹ thuật Hàng không Mátxcơva mang tên. K. E. Tsiolkovsky (MATI) đào tạo 10 nghìn sinh viên ở 12 chuyên ngành và 15 chuyên ngành liên quan đến ngành hàng không. Các kỹ sư đã tốt nghiệp của viện làm việc trong các xưởng, phòng thí nghiệm, phòng kỹ thuật và thiết kế của các nhà máy thí điểm và nhà máy nối tiếp, cũng như trong các viện nghiên cứu công nghiệp. MATI có các khoa sau:
+
+Khoa Đổi mới và Công nghệ đào tạo các kỹ sư luyện kim về luyện kim, thiết bị và công nghệ gia công kim loại, sản xuất kim loại màu và kim loại màu, tạo hình kim loại, luyện kim và sản xuất hàn công nghệ.
+
+Khoa Kỹ thuật và Công nghệ đào tạo các kỹ sư luyện kim để lắp đặt độc lập thiết bị và công nghệ xử lý kim loại, sản xuất kim loại từ kim loại đen và kim loại màu, tạo hình kim loại, luyện kim và sản xuất hàn công nghệ.
+
+Việc tuyển sinh cạnh tranh vào khoa này được thực hiện riêng cho những người sống ở Moscow và khu vực Moscow (trong bán kính 50-60 km) và cho những người sống ngoài khu vực quy định. (Tại Khoa Đổi mới và Công nghệ, cuộc thi mang tính chung chung.)
+
+Khoa Thiết bị vô tuyến điện tử đào tạo các kỹ sư luyện kim về kỹ sư thiết bị và công nghệ vô tuyến tiên tiến trong thiết kế và sản xuất thiết bị vô tuyến, cũng như các kỹ sư luyện kim trong khoa học luyện kim, thiết bị và công nghệ xử lý kim loại, luyện kim và công nghệ sản xuất hàn, tạo hình kim loại, luyện kim sản xuất kim loại màu và kim loại màu.
+
+Chỉ những người sống ở Moscow và khu vực Moscow (trong bán kính 50-60 km) mới được nhận vào hai khoa cuối cùng.
+
+Toán học
+Bài thi viết
+
+Tùy chọn 1
+
+1. Chứng minh sự thật
+
+$$\text{tg} 4\alpha + \sec 4\alpha = \frac{\cos 2\alpha + \sin 2\alpha}{\cos 2\alpha - \sin 2\alpha}.$$
+
+2. Giải phương trình
+
+$$2x^2 + 3x - 5\sqrt{2x^2 + 3x + 9} + 3 = 0.$$
+
+3. Một tam giác có cạnh $a$ và các góc kề nhau $\beta$ và $\gamma$. Xác định thể tích của vật thu được khi xoay tam giác quanh cạnh bên kia.
+
+4. Giải phương trình
+
+$$\sin 5x \cdot \cos 3x = \sin 6x \cdot \cos 2x.$$
+
+5. Tìm hình nón có thể tích nhỏ nhất ngoại tiếp một quả cầu có bán kính $R$.
+
+Tùy chọn 2
+
+1. Chứng minh sự thật
+
+$$\frac{\cos 4\alpha + 1}{\text{ctg} \alpha - \text{tg} \alpha} = \frac{1}{2} \sin 4\alpha.$$
+
+2. Giải phương trình
+
+$$\log_2 (x - 1)^2 - \log_{0,5} (x - 1) = 9.$$
+
+3. Cơ sở của các tham số là một hình chữ nhật có diện tích là $S$. Hai mặt đối diện nghiêng với mặt phẳng đáy một góc $\alpha$ và hai mặt nghiêng một góc $\beta$. Tìm diện tích bề mặt bên.
+
+4. Giải phương trình
+
+$$\cos 2x + \sin 2x = \cos x + \sin x.$$
+
+5. Hàm trả về ở đâu
+
+$$f(x) = -x^3 - x^2 - 7x - \sqrt{3}?$$

@@ -1,0 +1,32 @@
+---
+id: 1979-3-krivosheev-magicheskiy-stereokvadrat-414af23c
+issue: kvant_1979_3
+year: 1979
+number: "3"
+title: Hình vuông âm thanh nổi ma thuật
+authors:
+  - Кривошеев Е.
+rubric: smes
+page_first: 67
+page_last: 67
+tag: UDPK
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 28098c50ee5536607d61aecdd25d83a9ff0c381fe2fcde6d2306921956321369
+prompt_sha256: draft-1
+translated_from: content/ru/1979/03/articles/02_krivosheev-magicheskiy-stereokvadrat-414af23c.md
+source_content_sha256: cfe14a0dd7080685d92499b31da0a23f46a3bb361fd23b124ebac301b42631fa
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+huyền diệu
+ÂM THANH ÂM THANH VUÔNG
+
+Khối lập phương được chia thành 125 khối nhỏ, 25 trong số đó được đặt với các số từ 1 đến 25. Dưới đây là cách các khối được đánh dấu sẽ được đặt ở mỗi lớp trong số năm lớp ngang của khối lập phương. Nếu bây giờ chúng ta nhìn khối lập phương từ trên cao, sau đó từ phía trước, rồi từ bên cạnh, thì chúng ta sẽ thấy các hình vuông 5x5 được lấp đầy hoàn toàn (xem hình trên), điều này thật kỳ diệu, tức là tổng các số trong mỗi hàng ngang, mỗi hàng dọc và dọc theo đường chéo của mỗi hình vuông như vậy là như nhau.
+
+E. Krivoshcheev

@@ -1,0 +1,64 @@
+---
+id: 1979-2-priglashaem-na-malyiy-meh-mat-079def9f
+issue: kvant_1979_2
+year: 1979
+number: "2"
+title: Chúng tôi mời bạn đến một tấm thảm lông nhỏ
+rubric: informatsiya
+rubric_sub: Информация
+page_first: 60
+page_last: 60
+page_labels: "58"
+tag: 2Q5N
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: ec6e6cbffa03ed300e7051ab5bfd506e97e01079dd5e10907991d9ffc279641a
+prompt_sha256: draft-1
+translated_from: content/ru/1979/02/articles/19_priglashaem-na-malyiy-meh-mat-079def9f.md
+source_content_sha256: 92a7a8fb750b2c76beffee78eec5cf52d699f03fd03779b15c3c0b13bd3e32f1
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 58⟧
+
+tôi được hiển thị trong Hình 5? Emf của pin là 8, điện dung của tụ điện là C.
+
+4. Vật và ảnh chính của nó, được tạo bởi một thấu kính mỏng, nằm đối xứng với tiêu điểm của thấu kính. Khoảng cách từ vật đến tiêu điểm của thấu kính là 4cm. Tìm tiêu cự của thấu kính.
+
+Tùy chọn 4
+
+1. Một vật không có vận tốc ban đầu trượt vào một lỗ có thành nhẵn và trơn biến thành một đáy nằm ngang
+
+Cơm. 5.
+
+Cơm. 6.
+
+(Hình 6). Chiều dài đáy hố là $l=2$ m, hệ số ma sát của vật với đáy hố là $k=0,3$. Độ sâu của hố là $H=5$ m. Ở khoảng cách nào từ giữa hố, vật sẽ dừng lại?
+
+2. Trong buồng rút của động cơ phản lực có thể tích $V=0,1$ m$^3$ ở nhiệt độ $T=2000$ K, áp suất là $p=2 \cdot 10^6$ N/m$^2$. Tiêu thụ nhiên liệu $M=30$ kg/s, khối lượng chất thải trung bình mạnh mẽ $\mu=21$ kg/kmol. Xác định thời gian lưu của phần trong buồng bảo quản. Hằng số khí $R=8,3 \times 10^3$ J/(kmol·K).
+
+3. Câu đố tối đa có thể được đưa ra cho một quả bóng làm bằng vải kim loại có bán kính $R=2$ m và độ dày thành $\Delta R=0,02$ cm là bao nhiêu? Giới hạn độ bền kéo của vật liệu làm tường $\sigma_{np}=50$ N/m$^2$. Bỏ qua độ lớn thay đổi thể tích của quả bóng.
+
+4. Sử dụng một thấu kính mỏng sẽ thu được ảnh thật phóng đại của một vật. Sau đó, thấu kính được dịch chuyển 12 cm và thu được một ảnh nhỏ có cùng kích thước. Xác định tiêu cự của thấu kính.
+
+S. Kozel, B. Fedosov,
+V. Chekhlov, A. Sheladin
+
+Thông tin
+
+Chúng tôi mời bạn đến một tấm thảm lông nhỏ
+
+Cơ học và Toán học Nhỏ (MMMF) là một trường toán học tương ứng tại Khoa Cơ học và Toán học của Đại học Tổng hợp Moscow, là một khoa của Trường Toán học Tương ứng Trọng số (VZMSH) *). Bằng cách học tại khoa cơ và toán nhỏ, học sinh lớp 8-10 sẽ có thể đào sâu kiến ​​thức về những phần quan trọng nhất của chương trình học ở trường và chuẩn bị vào khoa cơ và toán của Đại học quốc gia Moscow hoặc một trường đại học khác. Nhiều bài tập gửi cho học sinh MMMF dựa trên các bài tập được giao cho kỳ thi toán môn Cơ học và Toán học. Việc phát triển các bài tập cũng như phương pháp gợi ý được thực hiện bởi hội đồng phương pháp MMMF, do các giáo sư trong khoa đứng đầu.
+
+Học sinh từ các vùng sau đang theo học tại khoa cơ khí nhỏ: Astrakhan, Bryansk, Belgorod, Vladimir, Volgograd, Boronezh, Gorky, Ivanovo, Kalinin, Kaluga, Kostroma, Kuibyshev, Kursk, Lipetsk, Moscow, Orenburg, Oryol, Penza, Perm, Rostov, Ryazan, Saratov, Sverdlovsk, Smolensk, Tambov, Tula, Ulyanovsk, Chelyabinsk, Yaroslavl, Minsk, Brest, Vitebsk, Gomel, Grodno, Mogilev, cũng như: Cộng hòa xã hội chủ nghĩa Xô viết tự trị Bashkir, Cộng hòa xã hội chủ nghĩa Xô viết tự trị Dagestan, Cộng hòa xã hội chủ nghĩa Xô viết tự trị Kabardino-Balkian, Cộng hòa xã hội chủ nghĩa Xô viết tự trị Kaltsy, Cộng hòa xã hội chủ nghĩa Xô viết tự trị Mordovia, Cộng hòa xã hội chủ nghĩa Xô viết tự trị Bắc Ossetia, Cộng hòa xã hội chủ nghĩa Xô viết tự trị Tatar, Xô viết tự trị Udmurt Cộng hòa xã hội chủ nghĩa, Cộng hòa xã hội chủ nghĩa Xô viết tự trị Chechen-Ingush, Cộng hòa xã hội chủ nghĩa Xô viết tự trị Chuvash, Lãnh thổ Krasnodar, Lãnh thổ Stavropol.
+
+Việc tuyển sinh vào thảm lông nhỏ được thực hiện thông qua hệ thống của khu vực. Người mẫu có thể nộp đơn lên ban tổ chức của 极限 với yêu cầu được tham gia vào tấm thảm lông nhỏ.
+
+Nếu bạn đang học lớp 7, sống tại một trong các khu vực được chỉ định và muốn học tại Khoa Cơ và Toán nhỏ, bạn có thể quyết định đăng ký làm bài giới thiệu của Trường Trung học Cơ khí và Toán và gửi đến Khoa Cơ và Toán nhỏ, vì học sinh sống trong các khu vực được chỉ định có thể đăng ký theo mẫu đơn đã điền của Trường Trung học Cơ khí và Toán và vào Khoa Cơ và Toán nhỏ.
+
+Đối với học sinh Moscow có các lớp Toán buổi tối (lớp 7-9) và Dự bị Chủ nhật (lớp 10). Trường buổi tối mở cửa vào tất cả các ngày trong tuần. Để kiểm tra giờ học, hãy gọi 139-35-29.
+
+*) Xem «Kvant», 1979, số 1 và tr. 59 của con số này.

@@ -1,0 +1,35 @@
+---
+id: 1979-3-postroyte-mnogogrannik-4f5ab8c5
+issue: kvant_1979_3
+year: 1979
+number: "3"
+title: Xây dựng một khối đa diện!
+rubric: raznoe
+rubric_sub: Разное
+page_first: 52
+page_last: 52
+page_labels: "50"
+tag: WU83
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: e6c5f5ee939369143a68e690040aa282270bad66a27a927d559dfb91190eef03
+prompt_sha256: draft-1
+translated_from: content/ru/1979/03/articles/17_postroyte-mnogogrannik-4f5ab8c5.md
+source_content_sha256: 0f0b75e99a8be30dd19e996870ba494dd9316c498795ffd204722e356e7f8ecb
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 50⟧
+
+Xây dựng một khối đa diện!
+
+Sử dụng hình này, bạn có thể xây dựng bất kỳ số lượng bề mặt đa diện nào. (Bức ảnh của một trong số chúng được hiển thị trên trang thứ hai của trang bìa.) Chúng được xây dựng như thế này.
+
+Chúng ta hãy lấy một tờ giấy can lớn và dán nó vào bản vẽ. Hãy giao nhau một đa giác tùy ý được hình thành bởi các đường vẽ của chúng ta trên đó. Hãy đánh dấu một số đỉnh của đa giác trên giấy can và tìm một điểm có một cung trên bất kỳ đường thẳng nào chứa nó. Hãy xoay giấy can quanh điểm này theo góc đã đánh dấu. Trong trường hợp này, cạnh của đa giác của chúng ta nhất thiết phải trùng với cạnh của một số đa giác khác. Chúng tôi cũng sẽ cắt nó trên giấy can - nó sẽ “dính” vào đa giác đầu tiên từ bên ngoài. Sau đó, trên bất kỳ đường thẳng nào chứa hai cạnh “tự do” của bản vẽ của chúng ta, liền kề với đỉnh được đánh dấu, chúng ta sẽ tìm một điểm có hình cung, lật giấy can một lần nữa và sao chép đa giác tiếp theo. Chúng ta sẽ tiếp tục làm điều này cho đến khi ở lượt tiếp theo, chúng ta có được một đa giác đã được vẽ sẵn. Ngay sau khi điều này xảy ra, chúng ta sẽ có sự phát triển của tất cả các mặt của bề mặt đang được xây dựng liền kề với một đỉnh nhất định.
+
+Lưu ý rằng không phải lúc nào chúng ta cũng xoay sở được với một tờ giấy can. Nếu các cạnh ở đỉnh gặp nhau như một chiếc đàn xếp, thì quá trình quét sẽ tự "đổ tràn" và bạn sẽ phải chuyển sang một tờ giấy can khác. Làm tương tự với đỉnh tiếp theo, v.v. Kết quả là, chúng ta có được sự phát triển của một số bề mặt đa giác. Sau một thời gian đào tạo, bạn sẽ học cách trích xuất nhiều loại bề mặt khác nhau từ epiure (đó là tên gọi của một bản vẽ).
+
+(Cuối cùng xem trang 53)

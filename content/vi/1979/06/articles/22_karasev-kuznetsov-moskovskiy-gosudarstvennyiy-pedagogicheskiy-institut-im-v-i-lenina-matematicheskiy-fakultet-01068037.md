@@ -1,0 +1,102 @@
+---
+id: 1979-6-karasev-kuznetsov-moskovskiy-gosudarstvennyiy-pedagogicheskiy-institut-im-v-i-lenina-matematicheskiy-fakultet-01068037
+issue: kvant_1979_6
+year: 1979
+number: "6"
+title: Học viện sư phạm quốc gia Moscow được đặt theo tên. V. I. Lenina (khoa toán)
+authors:
+  - Карасев Г.
+  - Кузнецов Э.
+rubric: ekzamenatsionnye-materialy
+page_first: 51
+page_last: 51
+page_labels: "49"
+tag: 6EYE
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 044b77e95c5104c4211980f7ef7c4ca0393a06b03b308640d73f0dee36938d78
+prompt_sha256: draft-1
+translated_from: content/ru/1979/06/articles/22_karasev-kuznetsov-moskovskiy-gosudarstvennyiy-pedagogicheskiy-institut-im-v-i-lenina-matematicheskiy-fakultet-01068037.md
+source_content_sha256: 8ce9c4351f4a4e9c2c516fad6266b6e5876122beb500cba2ac2f36a8ffd7938d
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 49⟧
+
+Toán học
+Bài thi viết
+Tùy chọn 1
+
+1. Giải phương trình
+$$3^2 - x = 3^x - 8.$$
+
+2. Tính toán không cần bảng
+$$\cos^4 \frac{\pi}{8} + 13 \cos^2 \frac{\pi}{4} + \cos^4 \frac{3\pi}{8} + \cos^4 \frac{5\pi}{8} + \cos^4 \frac{7\pi}{8}.$$
+
+3. Giải bất đẳng thức
+$$\frac{(x - 1)(x - 2)(x - 3)}{(x + 1)(x + 2)(x + 3)} > 1.$$
+
+4. Giải bất đẳng thức
+$$f'(x) \leq g'(x)$$
+nếu $f(x) = \frac{2}{x}$; $g(x) = x - x^3$.
+
+5. Các điểm chẵn đã cho là $A(-2; -3; 8)$, $B(2; 1; 7)$, $C(1; 4; 5)$ và $D(-7; -4; 7)$.
+Kiểm tra xem các vectơ $\overrightarrow{AB}$ và $\overrightarrow{CD}$ có thẳng hàng không.
+
+Tùy chọn 2
+
+1. Giải phương trình
+$$4^x + \sqrt{x^2 - 2} - 5 \cdot 2^x - 1 + \sqrt{x^2 - 2} = 6.$$
+
+2. Giải phương trình
+$$\sin^2 x = \sin 3x + \cos x (\cos x - 1).$$
+
+3. Giải bất đẳng thức
+$$\left| \frac{3x}{x^2 - 4} \right| \leq 1.$$
+
+4. Tại giá trị nào của $z$ các vectơ $\overrightarrow{a} = (6; 0; 12)$ và $\overrightarrow{b} = (-8; 13; 7)$ vuông góc với nhau.
+
+5. Tính diện tích hình được giới hạn bởi đường thẳng
+$$y = \frac{1}{\cos^2 x}, y = 0, x = 0 \text{ и } x = \frac{\pi}{4}.$$
+
+Tùy chọn 3
+
+1. Giải phương trình
+$$7^1 gx = 98 - x^1 g^7.$$
+
+2. Giải phương trình
+$$2 + \cos 4x = 2 \sin^2 x.$$
+
+3. Giải bất đẳng thức
+$$\left| \frac{x^2 - 5x + 4}{x^2 - 4} \right| < 1.$$
+
+4. Tại giá trị nào của $z$ các vectơ $\overrightarrow{a} = (2; -3; 4)$ và $\overrightarrow{b} = (-3; 2; z)$ vuông góc với nhau.
+
+5. Tính tích phân
+$$\int_3^{-18} \sqrt[3]{2 - \frac{x}{3}} dx.$$
+
+Vật lý
+Bài toán thi vấn đáp
+1. Tìm công cần thực hiện để tăng vận tốc của vật từ $\overrightarrow{v}_1$ lên $\overrightarrow{v}_2$ = 6 m/s dọc theo đường đi $l = 10$ m. Một lực ma sát không đổi $\overrightarrow{F}_{\text{Tp}} = 2\text{H}$ tác dụng dọc theo toàn bộ đường đi. Trọng lượng cơ thể $m = 1$ kg.
+
+2. Một xi lanh thép chứa đầy nitơ ở nhiệt độ $t = 12^\circ\text{C}$. Áp suất nitơ $p = 15\text{MPa}$. Tìm mật độ của nitơ trong những điều kiện này. Ở nhiệt độ nào thì áp suất sẽ tăng lên $p_1 = 18\text{MPa}$? Bỏ qua sự giãn nở của thành trụ.
+
+3. Trong nhiệt lượng kế có độ đặc hiệu nhiệt $C = 63\text{Дж/K}$ $m_1 = 250$ g dầu được đổ ở nhiệt độ $t_1 = 12^\circ\text{C}$. Sau khi hạ thân đồng nặng $m_2 = 500$ g vào dầu ở nhiệt độ $t_2 = 100^\circ\text{C}$, nhiệt độ cuối cùng $\theta = 33^\circ\text{C}$ được thiết lập. Nhiệt dung riêng $c_1$ của dầu theo thí nghiệm là bao nhiêu? Nhiệt dung riêng của đồng là $c_2 = 0,38\text{кДж/(кг·К)}$.
+
+4. Các điện tích $q_1$ và $q_2$ cách nhau một khoảng $r$. Khoảng cách giữa chúng phải thay đổi bao nhiêu lần để lực tương tác không đổi nếu giá trị tuyệt đối của điện tích $q_1$ tăng lên 4 lần?
+
+5. Bốn bóng đèn, có điện áp định mức $U = 3\text{В}$ và dòng điện $I = 0,3\text{A}$, phải được mắc song song và được cấp nguồn từ nguồn điện áp $U_0 = 5,4\text{В}$. Cần mắc thêm điện trở nào nối tiếp với dây đèn?
+
+6. Tốc độ tối đa của các electron bắn ra khỏi natri bởi ánh sáng có bước sóng $\lambda = 0,5\text{мкм}$ là bao nhiêu? Ranh giới quang hợp màu đỏ của natri là $\lambda_{\text{кр}} = 0,68\text{мкм}$. Hằng số Planck $h = 6,62 \cdot 10^{-34}\text{Дж·с}$, khối lượng electron $m = 9,1 \cdot 10^{-31}\text{кг}$.
+
+A. Motseliin,
+V. Dremina
+
+Học viện sư phạm quốc gia Moscow được đặt theo tên. V. I. Lênin
+(Khoa TOÁN)
+Khoa Toán là một trong những khoa có nhiều khoa nhất của Học viện Sư phạm Quốc gia Mátxcơva. V.I. Lênin: có hơn 900 sinh viên học chính quy, và hơn 200 sinh viên khoa buổi tối.
+
+Khoa đào tạo một giáo viên toán trung học. Chương trình giảng dạy bao gồm: phân tích toán học, đại số và lý thuyết số, hình học, logic toán học, lý thuyết thuật toán, hệ thống số, toán tính toán, lập trình, lý thuyết hàm phân tích, phương trình toán vật lý, lý thuyết xác suất,
