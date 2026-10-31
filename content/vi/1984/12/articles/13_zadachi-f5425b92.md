@@ -1,0 +1,42 @@
+---
+id: 1984-12-zadachi-f5425b92
+issue: kvant_1984_12
+year: 1984
+number: "12"
+title: Bài toán
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 29
+page_last: 29
+page_labels: "27"
+tag: QQHL
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 39ec26af934a13f37966a89e0ddd00ef1592fda0625dbe9bfa3f27a1272f29d3
+prompt_sha256: draft-1
+translated_from: content/ru/1984/12/articles/13_zadachi-f5425b92.md
+source_content_sha256: e4fac8f417dd2c6412ad7244ee8b3b9fdccc6f5832a9dadcc7a11c9b10ce3dfa
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 27⟧
+
+Bài tập
+
+1. Phải đặt bao nhiêu chiếc cốc màu xanh lá cây vào bên trái của cân để các cân như trong hình được cân bằng?
+
+2. Trên mặt phẳng ca rô vẽ ba tia AB, AC và AD từ điểm A (xem hình). Chứng minh rằng góc BAC bằng góc CAD bằng cách sử dụng tính chất của lưới vuông.
+
+3. Gần đây tôi đã tìm thấy bảng giải đấu khúc côn cầu năm ngoái giữa các lớp b-min của trường chúng tôi. Chỉ một phần nhỏ hồ sơ được lưu giữ trên đó. Hãy thử khôi phục bảng.
+
+4. Hình vẽ trong hình phải được chia thành 6 phần bằng nhau, chỉ thực hiện các vết cắt dọc theo các đường lưới. Bạn có thể làm được bao nhiêu cách?
+
+5. Hình vẽ cho thấy một mạch điện có chuông, nút bấm giờ và thời gian của bóng đèn, mỗi nút khi rảnh sẽ kết nối một cặp tiếp điểm và khi nhấn sẽ kết nối một cặp tiếp điểm khác. Mạch được bao gồm. Nó sẽ hoạt động như thế nào khi bạn nhấn một trong các nút?
+
+Những nhiệm vụ này đã được cung cấp:
+M. Koman (Tiệp Khắc) và B. N. Gordeychik.
+
+27

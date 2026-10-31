@@ -1,0 +1,62 @@
+---
+id: 1984-11-rabbot-izbrannyie-shkolnyie-zadachi-39d3c788
+issue: kvant_1984_11
+year: 1984
+number: "11"
+title: Trường học yêu thích bài toán
+authors:
+  - Раббот Ж. М.
+rubric: shkola-v-kvante
+rubric_sub: Школа в «Кванте»
+page_first: 34
+page_last: 34
+page_labels: "32"
+tag: 5XC9
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 99d555f73507a0bccd43f02c39db93e3efd2e1b7e06f68473c250d37b194a47e
+prompt_sha256: draft-1
+translated_from: content/ru/1984/11/articles/11_rabbot-izbrannyie-shkolnyie-zadachi-39d3c788.md
+source_content_sha256: 3494a0ae878d2e6c29ba94cd1c4e43168164debf8cadde1dbe96eb9b185786e6
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 32⟧
+
+Trường học yêu thích bài toán
+
+lớp tám
+1. Gọi K, M, N lần lượt là các đáy tương ứng của các đường cao AK, BM, CN của tam giác nhọn ABC. Chứng minh rằng:
+a) các tam giác AMN, BNK và CKM đồng dạng với tam giác ABC (và với nhau), hệ số đồng dạng của mỗi tam giác bằng cosin của góc chung với tam giác ABC;
+6) AK, BM, CN là các đường phân giác của các góc của tam giác KMN.
+2. a) Số hạng thứ tám của một cấp số nhân bằng 10. Tìm tích của tất cả các số hạng của nó từ số thứ nhất đến số thứ mười lăm.
+6) Tìm số tiền
+$$x + 2x^2 + 3x^3 + 4x^4 + \dots + nx^n$$
+3. Trong tam giác ABC, cho điểm M chia cạnh AB theo tỷ lệ m:n tính từ đỉnh B, điểm N chia cạnh BC theo tỷ lệ p:q tính từ đỉnh B. Chứng minh rằng tỉ số diện tích của tam giác BMN và BAC bằng $\frac{m}{m+n} \cdot \frac{p}{p+q}$.
+4. Trong tiến trình khớp học
+$$S_m = S_n$$
+Tìm $S_{m+n}$ ($S_k$ biểu thị tổng của k số hạng đầu tiên của cấp số nhân).
+5. a) Cho dây AB và CD của một đường tròn cắt nhau tại điểm E. Chứng minh rằng $AE \cdot EB = CE \cdot ED$.
+6) Vẽ tiếp tuyến EA (A là điểm tiếp tuyến) và cát tuyến EBC (B và C là các điểm của đường tròn) từ điểm E nằm bên ngoài đường tròn đến nó. Chứng minh rằng $EA^2 = EB \cdot EC$.
+7. Hai mặt đối diện của một cặp tứ giác có thể vuông góc với đáy không?
+8. a) Có đúng tổng hai số hữu tỉ bằng nhau không?
+$$\cos \frac{2\pi}{5} + \cos \frac{4\pi}{5} + \cos \frac{6\pi}{5} = -\frac{1}{2}$$
+Chuyển các tổng sau thành tích:
+6) $\sin \alpha + \sin 2\alpha + \sin 3\alpha + \dots + \sin (n\alpha)$;
+8) $\sin^2 \alpha + \sin^2 2\alpha + \sin^2 3\alpha + \dots + \sin^2 (n\alpha)$.
+
+lớp mười
+11. Để quả bóng chạm vào tất cả các cạnh của tứ diện. Chứng minh rằng tổng độ dài các cặp cạnh cắt của nó bằng nhau.
+12. Cho mặt phẳng cắt các cạnh bên của tứ diện sao cho tỉ số độ dài các cạnh tương ứng bằng a/b, c/d, e/f tương ứng. Chứng minh rằng thể tích của phần bị cắt và tứ diện ban đầu tỉ lệ với $\frac{a}{b} \cdot \frac{c}{d} \cdot \frac{e}{f}$ (so sánh với Bài 3).
+13. Gọi $\alpha, \beta, \gamma$ là các góc của tam giác. Chứng minh rằng:
+a) $\cos \alpha + \cos \beta + \cos \gamma \leq \frac{3}{2}$;
+6) $\sin \frac{\alpha}{2} \cdot \sin \frac{\beta}{2} \cdot \sin \frac{\gamma}{2} \leq \frac{1}{8}$.
+14. Vẽ đồ thị hàm số:
+a) $y = \cos(\arccos x)$;
+6) $y = \cos(3\arccos x)$;
+b) $y = \arcsin(\sin x)$.
+15. Hãy loại bỏ tất cả các góc phẳng tại một trong các đỉnh của tứ diện. Chứng minh rằng đỉnh này, giao điểm của các đường trung tuyến của quả trứng đối diện và tâm của quả cầu ngoại tiếp tứ diện cùng nằm trên một đường thẳng.
+Ấn phẩm được chuẩn bị bởi J. M. Rabot

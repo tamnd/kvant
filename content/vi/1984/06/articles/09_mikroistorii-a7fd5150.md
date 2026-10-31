@@ -1,0 +1,49 @@
+---
+id: 1984-6-mikroistorii-a7fd5150
+issue: kvant_1984_6
+year: 1984
+number: "6"
+title: Tiểu Truyện
+rubric: kvant-ulybaetsya
+rubric_sub: «Квант» улыбается
+page_first: 47
+page_last: 47
+tag: 7HLH
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 32c1fff4572c872f13258b1c80e3b921ba4b03c68ea9e3bfb07b3e002b8115e7
+prompt_sha256: draft-1
+translated_from: content/ru/1984/06/articles/09_mikroistorii-a7fd5150.md
+source_content_sha256: f73428b9f135c6fc9eb20cac2182381d16f07447db395c81c6f0db1c1ca48991
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+LƯỢT TỐI BỊ GIẾT
+Tiểu Truyện
+
+Câu chuyện do W. Weiskopf kể về N. Bor
+
+Một ngày nọ, một nhà vật lý đồng nghiệp bước vào văn phòng của Niels Bohr và ngạc nhiên khi thấy một chiếc móng ngựa được đóng đinh trên cửa.
+- Giáo sư, ông có thực sự tin điều này không?
+“Không, tất nhiên,” Bohr bình tĩnh trả lời, “nhưng người ta nói rằng móng ngựa giúp ích cho những ai không tin vào nó…”
+(Shelest V.P. New Kruts. M.: Atomizdat, 1978.)
+
+Hậu lịch sử khoa học
+
+Great Laplace có mặt tại cuộc họp của Viện Hàn lâm Khoa học Paris vào ngày 18 tháng 9 năm 1820, khi Amler lần đầu tiên chứng minh sự tương tác điện động của dòng điện - khi dòng điện chạy qua hai dây dẫn, chúng bị dịch chuyển lẫn nhau. Họ kể rằng sau khi kết thúc bài giảng, khi khán giả đầy ấn tượng và đã rời đi, Laplace dừng lại ở cửa đợi Daniel Colladon, người đang hỗ trợ Ampère. Khi anh ta đến gần, Laplace, nổi bật bởi tính cách nhỏ bé và hay nghi ngờ, vỗ vai Colladon và nhìn chăm chú vào mắt anh ta, nói: "Bây giờ, chàng trai trẻ, hãy thừa nhận điều đó! Rốt cuộc, chính anh là người đã giật dây."
+(Dựa trên tài liệu từ Liushchia M. Lịch sử Vật lý. M.: Mir, 1970.)
+
+Câu chuyện do I. K. Kikon kể
+
+Điều này xảy ra vào cuối những năm 20 ở Leningrad. Hãng phim cùng với một nhóm các nhà vật lý được giao nhiệm vụ làm một bộ phim khoa học nổi tiếng về vật lý. Trong nhóm các nhà vật lý có Isaac Konstantinovich Kikoin, khi đó vẫn còn là nhân viên trẻ của Viện Vật lý và Công nghệ RENT.
+
+Theo kịch bản, cần phải rút kinh nghiệm về lực đẩy của các điện tích tương tự. Tại buổi tập, tôi lấy một quả bóng celluloid, đưa một cây gậy ebonite nhiễm điện vào đó và quả bóng bật ra đúng cách. Sau đó chúng tôi bắt đầu quay phim. Motor, camera... đưa gậy vào bóng - không có tác dụng.
+
+Sau đó kịch bản đã được thay đổi một chút. Trợ lý phòng thí nghiệm giữ quả bóng trên một sợi dây, đưa một cây gậy vào đó và I.K. Kikoin đứng gần đó và đẩy bóng một cách dễ dàng. Buổi chụp hình diễn ra rực rỡ.
+
+Tại sao một trải nghiệm “thực tế” đơn giản như vậy lại không xảy ra? Thực tế là trong những năm đó, các loại đèn mạnh đã được sử dụng để chiếu sáng trong quá trình chụp ảnh, phát ra tia cực tím, nhờ hiệu ứng ion hóa, làm cho nó dẫn điện. Rõ ràng là ngay khi đèn được bật lên, điện tích từ quả bóng và cây gậy nhanh chóng tiêu hao qua hiệu ứng dẫn điện.

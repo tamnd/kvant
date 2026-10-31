@@ -1,0 +1,44 @@
+---
+id: 1984-10-k-nashim-chitatelyam-f0eb7445
+issue: kvant_1984_10
+year: 1984
+number: "10"
+title: Gửi độc giả của chúng tôi
+rubric: smes
+page_first: 8
+page_last: 8
+page_labels: "6"
+tag: D9QE
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 9954f841770f61148d9c56693baafe85ef1ef8f0ee769ab432852a75e6ec1670
+prompt_sha256: draft-1
+translated_from: content/ru/1984/10/articles/04_k-nashim-chitatelyam-f0eb7445.md
+source_content_sha256: 4c65b43a669e76462987803c4f4523453318cd0deba5006028138a4b38166f83
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 6⟧
+
+Nhẫn mặt trời
+
+Khi Galileo lần đầu tiên hướng kính viễn vọng lên bầu trời vào năm 1610, ông đã đặc biệt phát hiện ra hình dạng có phần kỳ lạ của hành tinh Mặt trời. Nó dường như bao gồm ba ngôi sao, như thể chạm vào nhau, và ngôi sao ở giữa trông lớn hơn khoảng ba lần so với các ngôi sao bên cạnh (“hành tinh cao nhất* trong ba lần quan sát”). Hơn năm mươi năm sau, Heugens, với sự trợ giúp của một kính thiên văn mạnh hơn, đã giải thích sự xuất hiện ít học của Mặt trời bằng thực tế rằng nó, mặt trời duy nhất trên bầu trời, đeo một vật trang trí đẹp mắt - những chiếc nhẫn (ở độ phóng đại thấp hơn, những chiếc nhẫn xuất hiện dưới dạng các ngôi sao phụ). Nghiên cứu lý thuyết đầu tiên về các vành Mặt trời thuộc về Maxwell. Năm 1859, ông hoàn thành bài báo về tính ổn định của các vòng, trong đó ông chứng minh rằng các vòng không liên tục mà gồm nhiều hạt riêng lẻ. Đây là tác phẩm đầu tiên của Maxwell nhận được giải thưởng từ Hiệp hội Hoàng gia Luân Đôn.
+
+Chỉ gần đây Sao Thổ mới mất đi sự độc quyền về các vành đai. Năm 1977, các vành đai của Sao Thiên Vương được phát hiện (được phát hiện nhờ nhật thực về độ sáng của các ngôi sao xuất hiện phía sau các vành đai đối với người quan sát trên trái đất), và vào năm 1979, các vành đai của Sao Mộc (không thể nhìn thấy từ Trái đất.*) được chụp ảnh từ không gian. Giờ đây, các vành đai của các hành tinh trong Hệ Mặt trời đã không còn là đồ hiếm để sưu tầm và sự tồn tại của chúng gần như trở nên phổ biến. Đúng vậy, chúng ta phải thừa nhận rằng quy luật chuyển động của các hạt nhỏ và các mảnh lớn tạo nên các vòng chứa nhiều điều bí ẩn.
+
+*) Vào thời Galileo, Sao Thổ được coi là hành tinh xa Mặt trời nhất (Sao Thiên Vương, Sao Hải Vương và Sao Diêm Vương được phát hiện muộn hơn).
+
+GỬI ĐỌC GIẢI CỦA CHÚNG TÔI
+
+Việc đăng ký tạp chí «Kvant» cho năm 1985 vẫn tiếp tục.
+
+Tạp chí dành cho học sinh từ lớp 6–10. Nó rất hữu ích cho giáo viên, đặc biệt là những người dạy ngũ cốc hoặc các lớp ngoại khóa và cho tất cả những người yêu thích toán học và vật lý.
+
+Nội dung chính của tạp chí là những tài liệu giúp hiểu rõ hơn về vật lý và toán học, học cách áp dụng các ngành khoa học này để dạy các hiện tượng và quá trình khác nhau mà chúng ta gặp trong thực tế và học cách giải bài toán.
+
+Tạp chí đăng trên các trang của mình những bài báo có tính chất phê bình, kể về những thành tựu của khoa học và những vấn đề vẫn đang chờ đợi lời giải của họ, những câu chuyện về các nhà khoa học và những câu chuyện của hầu hết các nhà khoa học về cách “khoa học được thực hiện”.
+
+Giá phòng 40 kopecks. Chi phí đăng ký một năm là 4 rúp. 80 kop. Chỉ mục của tạp chí trong danh mục Soyuzpechat là 70465.

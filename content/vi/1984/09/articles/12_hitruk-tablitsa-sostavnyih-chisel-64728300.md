@@ -1,0 +1,63 @@
+---
+id: 1984-9-hitruk-tablitsa-sostavnyih-chisel-64728300
+issue: kvant_1984_9
+year: 1984
+number: "9"
+title: Bảng tổng hợp số
+authors:
+  - Хитрук В. С.
+rubric: shkola-v-kvante
+page_first: 26
+page_last: 26
+page_labels: "24"
+tag: VEIY
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: d744cf9a44e98bf15bfbe607f699f0c09d0a6fcdaa98ac0d91f25bbab454e230
+prompt_sha256: draft-1
+translated_from: content/ru/1984/09/articles/12_hitruk-tablitsa-sostavnyih-chisel-64728300.md
+source_content_sha256: 480cc22cd356bc4be5aacd346a9f2a146697cc913563f3877f7d67aaa48538e9
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 24⟧
+
+Toán 8,9,10
+
+Ghi chú “Bảng số hỗn hợp” được xuất bản dưới đây nhằm mục đích sử dụng chủ yếu các số, nghĩa là để làm rõ câu hỏi chúng là đơn giản hay phức hợp. Đối với các số nguyên tố không quá 6000 có bảng so sánh toán tiểu học. Nhưng nếu chúng ta đang xử lý một số tổng hợp hoặc với một số nằm ngoài bảng số nguyên tố mà các dấu hiệu chia hết cho 2, 3 và 5 đã biết không áp dụng, thì việc phân tích nó có thể trở nên khá tốn công sức. Ví dụ: việc xác định xem số 10607 là số nguyên tố hay hợp số chỉ có thể được thực hiện bằng cách thử hơn hai chục thừa số nguyên tố, bắt đầu bằng 7 và kết thúc bằng 101.
+
+Để làm cho điều này bài toán dễ dàng hơn và giúp chúng ta không cần phải phân tích các số bằng cách liệt kê tuần tự các ước nguyên tố, chúng ta có thể sử dụng bảng phân tách các hợp số không phải là bội số của 2, 3 và 5 thành các thừa số nguyên tố từ 7 đến 101. Với sự trợ giúp của nó, bạn có thể phân tích tất cả các số tổng hợp khác có thừa số vượt quá 101, miễn là không có nhiều hơn một thừa số như vậy và các thừa số còn lại được bao gồm trong chuỗi đã chỉ định. Sử dụng bảng này, bạn cũng có thể xác định các số nguyên tố nếu chúng nhỏ hơn 103². Về nguyên tắc, bao gồm một tập hợp vô hạn các số, nó cho phép phân tích các số có tối đa năm chữ số mà không cần dùng đến ghi chú.
+
+Hàng trên cùng của bảng chứa các thừa số nguyên tố từ 7 đến 101. Cột ngoài cùng bên phải là dãy số có hai chữ số tăng dần, không có số tận cùng bằng 0, 2, 4, 5, 6, 8. Sau này, chúng ta sẽ biểu thị các số có hai chữ số này bằng ký hiệu $R$. Chúng ta biểu thị các số còn lại trong bảng bằng ký hiệu $Q_T$.
+
+Quy tắc sử dụng bảng ký hiệu bằng cách sử dụng ví dụ về các số 3827, 5251 và 51620. Hãy phân tích số 3827. Để làm điều này, hãy chia nó với phần dư cho 100. Chúng ta lấy phần còn lại của số 27. Đây là giá trị $R$ của số đã cho mà chúng ta nhập vào bảng. Thương số là 38. Đây là độ lớn $Q$ của số đã cho. Để tìm các thừa số nguyên tố của một số cho trước cần tìm ở hàng $R=27$ của bảng
+
+Bảng tổng hợp số
+
+| 7 | 11 | 13 | 17 | 19 | 23 | 29 | 31 | 37 | 41 | 43 | 47 | 53 | 59 | 61 | 67 | 71 | 73 | 79 | 83 | 89 | 97 | 101 | $R$ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+
+| 3 | 10 | 10 | 9 | 15 | 20 | 20 | 22 | 27 | 25 | 3 | 39 | 9 | 23 | 25 | 2 | 22 | 27 | 15 | 39 | 8 | 32 | 1 | 01 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2 | 8 | 4 | 10 | 7 | 14 | 2 | 4 | 7 | 34 | 9 | 23 | 27 | 10 | 14 | 6 | 66 | 8 | 45 | 34 | 24 | 96 | 3 | 03 |
+| 0 | 4 | 5 | 12 | 10 | 2 | 24 | 30 | 4 | 11 | 21 | 38 | 10 | 43 | 53 | 14 | 12 | 43 | 26 | 24 | 56 | 30 | 7 | 07 |
+| 6 | 2 | 12 | 13 | 2 | 19 | 6 | 12 | 21 | 20 | 27 | 22 | 28 | 30 | 42 | 18 | 56 | 24 | 56 | 19 | 72 | 94 | 9 | 09 |
+| 5 | 0 | 6 | 14 | 13 | 13 | 17 | 25 | 1 | 29 | 33 | 6 | 46 | 17 | 31 | 22 | 29 | 5 | 7 | 14 | 88 | 61 | 11 | 11 |
+| 4 | 9 | 0 | 15 | 5 | 7 | 28 | 7 | 18 | 38 | 39 | 37 | 11 | 4 | 20 | 26 | 2 | 59 | 37 | 9 | 15 | 28 | 13 | 13 |
+| 2 | 5 | 1 | 0 | 8 | 18 | 21 | 2 | 15 | 15 | 8 | 5 | 47 | 37 | 59 | 34 | 19 | 21 | 18 | 82 | 47 | 59 | 17 | 17 |
+| 1 | 3 | 8 | 1 | 0 | 12 | 3 | 15 | 32 | 24 | 14 | 36 | 12 | 24 | 48 | 38 | 63 | 2 | 48 | 77 | 63 | 26 | 19 | 19 |
+| 0 | 1 | 2 | 2 | 11 | 6 | 14 | 28 | 12 | 33 | 20 | 20 | 30 | 11 | 37 | 42 | 36 | 56 | 78 | 72 | 79 | 90 | 21 | 21 |
+| 6 | 10 | 9 | 3 | 3 | 0 | 25 | 10 | 29 | 1 | 26 | 4 | 48 | 57 | 26 | 46 | 9 | 37 | 29 | 67 | 6 | 57 | 23 | 23 |
+| 4 | 6 | 10 | 5 | 6 | 11 | 18 | 5 | 26 | 19 | 38 | 19 | 31 | 31 | 4 | 54 | 26 | 72 | 10 | 57 | 38 | 88 | 27 | 27 |
+| 3 | 4 | 4 | 6 | 17 | 5 | 0 | 18 | 6 | 28 | 1 | 3 | 49 | 18 | 54 | 58 | 70 | 53 | 40 | 52 | 54 | 55 | 29 | 29 |
+| 2 | 2 | 11 | 7 | 9 | 22 | 11 | 0 | 23 | 37 | 7 | 34 | 14 | 5 | 43 | 62 | 43 | 34 | 70 | 47 | 70 | 22 | 31 | 31 |
+| 1 | 0 | 5 | 8 | 1 | 16 | 22 | 13 | 3 | 5 | 13 | 18 | 32 | 51 | 32 | 66 | 16 | 15 | 21 | 42 | 86 | 86 | 33 | 33 |
+| 6 | 7 | 6 | 10 | 4 | 4 | 15 | 8 | 0 | 23 | 25 | 33 | 15 | 25 | 10 | 7 | 33 | 50 | 2 | 32 | 29 | 20 | 37 | 37 |
+| 5 | 5 | 0 | 11 | 15 | 21 | 26 | 21 | 17 | 32 | 31 | 17 | 33 | 12 | 60 | 11 | 6 | 31 | 32 | 27 | 45 | 84 | 39 | 39 |
+| 4 | 3 | 7 | 12 | 7 | 15 | 8 | 3 | 34 | 0 | 37 | 1 | 51 | 58 | 49 | 15 | 50 | 12 | 62 | 22 | 61 | 51 | 41 | 41 |
+| 3 | 1 | 1 | 13 | 18 | 9 | 19 | 16 | 14 | 9 | 0 | 32 | 16 | 45 | 38 | 19 | 23 | 66 | 13 | 17 | 77 | 18 | 43 | 43 |
+| 1 | 8 | 2 | 15 | 2 | 20 | 12 | 11 | 11 | 27 | 12 | 0 | 52 | 19 | 16 | 27 | 40 | 28 | 73 | 7 | 20 | 49 | 47 | 47 |
+| 0 | 6 | 9 | 16 | 13 | 14 | 23 | 24 | 28 | 36 | 18 | 31 | 17 | 6 | 5 | 31 | 13 | 9 | 24 | 2 | 36 | 16 | 49 | 49 |

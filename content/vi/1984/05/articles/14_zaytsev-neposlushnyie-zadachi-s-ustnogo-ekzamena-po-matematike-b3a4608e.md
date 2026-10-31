@@ -1,0 +1,77 @@
+---
+id: 1984-5-zaytsev-neposlushnyie-zadachi-s-ustnogo-ekzamena-po-matematike-b3a4608e
+issue: kvant_1984_5
+year: 1984
+number: "5"
+title: Nghịch ngợm bài toán từ bài thi toán miệng
+authors:
+  - Зайцев Г. Ю.
+rubric: shkola-v-kvante
+rubric_sub: Школа в «Кванте»
+page_first: 38
+page_last: 38
+page_labels: "36"
+tag: XJ1U
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: f43f500064fc13c2e2e2b86f2ef0506f224f4faa3212b9a1a17fc0fda763462f
+prompt_sha256: draft-1
+translated_from: content/ru/1984/05/articles/14_zaytsev-neposlushnyie-zadachi-s-ustnogo-ekzamena-po-matematike-b3a4608e.md
+source_content_sha256: 86f016acb617f1d2504bca6535ee55909c593aedc1f4b530bdeb9ccc7ba556c9
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 36⟧
+
+Nghịch ngợm bài toán
+
+từ bài thi vấn đáp môn toán
+
+Ghi chú này sẽ trình bày một số bài toán đơn giản được lấy từ việc thực hành các bài thi vấn đáp trong môn toán. Nhưng người đầu óc trống rỗng không coi thường họ và sẽ không quét sạch những người đã giải quyết sai lầm cho họ. Quyết định thi vấn đáp không dễ như ngồi tại bàn tại nhà: ý chí, giám khảo không quen, áp lực đối với thí sinh và trách nhiệm thường dẫn đến sự nóng vội, mất đi sự thận trọng cần thiết và đôi khi mắc phải những sai lầm “bất ngờ” không thể sửa chữa được. Để tránh chúng, bạn cần tiếp cận một câu hỏi dễ trong bài thi vấn đáp không kém phần nghiêm túc so với một câu hỏi khó. Đừng từ bỏ việc tính toán - bằng cách suy nghĩ trước một chút, bạn có thể tránh được thất bại hoặc đơn giản hóa nước đi lời giải, từ đó nâng cao bản thân trong các chương của giám khảo.
+
+Trong bài kiểm tra miệng đầu vào, tôi thích đưa ra câu hỏi này bài toán: Giải phương trình sin x = π/3.
+
+Rất thường người nộp đơn viết ngay
+
+$$x = (-1)^k \arcsin \frac{\pi}{3} + k\pi, \quad k \in \mathbb{Z},$$
+
+và trong đáp số cho câu hỏi: “Vậy anh ấy sẽ có bao nhiêu lời giải?” - anh ấy trả lời, "Vô số nhiều." Và đôi khi nó tiếp tục sự bình đẳng trước đó như thế này:
+
+$$x = (-1)^k \frac{\sqrt{3}}{2} + k\pi, \quad k = 0, \pm 1, \pm 2, \dots,$$
+
+(!)
+
+Ngồi vào bàn, chắc bạn đọc đã nói từ lâu rằng π/3 > 1 nên phương trình này không có lời giải. Điều quan trọng là phải thể hiện được mức độ giao tiếp và sự điềm tĩnh này trong môi trường thi cử. Tôi hy vọng rằng bài toán đơn giản khác (với một chút nắm bắt) từ kho bài kiểm tra của tôi sẽ giúp bạn điều này. Tôi khuyên bạn nên tự giải quyết, sau đó xem qua phần bình luận về chúng và chỉ nếu cần, hãy xem phần cuối của tạp chí ở phần “Đáp số, gợi ý, lời giải”. Nếu có nhiều lỗi, hãy thực hành - có thêm bài toán cho phần này ở cuối bài viết.
+
+Bài toán
+1. Giải phương trình sin √x = -1.
+2. Giải x bất đẳng thức ax + b ≥ 0.
+3. Giải quyết hệ thống
+
+$$\begin{cases} |x - y| = x + y, \\ |x + y| = x - y. \end{cases}$$
+
+4. Giải bất đẳng thức x sin 3x > 3x.
+5. Giải bất đẳng thức √4 + 3x - x² > -2.
+6. Giải x bất đẳng thức
+
+$$\frac{x^2 - 2x + 2^{|x|}}{x^2 - 1} < 0.$$
+
+7. Cái nào lớn hơn: log₂ 3 hay log₅ 8?
+8. Vẽ đồ thị hàm số
+
+$$y = \lim_{n \to \infty} \frac{x^n}{1+x^n}, \quad x \in [0; +\infty].$$
+
+9. Trên đoạn AB, cũng như trên đường kính, một nửa mạch được dựng lên. Điểm C và D chia nửa khung thành ba phần tắc nghẽn. Chứng minh rằng diện tích adb của hình F giới hạn bởi các dây AC, AD và bộ đôi CD bằng 1/3 diện tích nửa khung.
+10. Một bốn thùng được đưa ra, ba trong số đó là cùn. Chứng minh rằng đường chéo của một tam giác không chứa đỉnh của đường thẳng nhọn của nó lớn hơn các đường chéo khác của nó.
+11. Tính tổng của tất cả các vectơ, phần đầu của mỗi vectơ nằm ở tâm của nếp gấp n thông thường và các điểm cuối nằm ở các đỉnh của nếp gấp n này.
+12. Có một đa tạp có 25 cạnh không?
+13. Ở đáy của paramda ba nan SABC có tam giác đều ABC tính từ cạnh d, độ dài các cạnh SA, SB, SC bằng a, b, tương ứng. Trên các cạnh SA, SB và SC lần lượt chọn các điểm P, Q và R sao cho |SP|:|SA| = |SQ|:|SB| = |RC|:|SC| = 1:2. Mặt phẳng PQR tạo nên thể tích của paramda SABC theo mối quan hệ nào?
+
+Nhận xét về nhiệm vụ
+1. Vì lý do nào đó, nhiều người nộp đơn nói rằng phương trình này không có lời giải, vì hàm y = √x không nhận giá trị âm. Lời giải rất dễ tìm.
+2. “Đáp số” x ≥ b/a – không đầy đủ!
+3. Nhiều người nộp đơn mất nhiều thời gian để vẽ các vùng trên mặt phẳng Oxy và tìm kiếm giao điểm của chúng nhưng họ thường mắc lỗi. Tận dụng tính đối xứng của hệ thống.
+4. Ở đây lại có tính chất |sin x| làm cho cuộc sống dễ dàng hơn. 1.

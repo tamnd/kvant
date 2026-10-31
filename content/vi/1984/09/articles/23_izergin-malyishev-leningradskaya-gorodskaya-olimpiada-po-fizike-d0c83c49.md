@@ -1,0 +1,59 @@
+---
+id: 1984-9-izergin-malyishev-leningradskaya-gorodskaya-olimpiada-po-fizike-d0c83c49
+issue: kvant_1984_9
+year: 1984
+number: "9"
+title: Olympic Vật lý thành phố Leningrad
+authors:
+  - Изергин А. Г.
+  - Малышев Ю. П.
+rubric: olimpiady
+rubric_sub: Олимпиады
+page_first: 57
+page_last: 57
+page_labels: "55"
+tag: 0OJM
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: d6a83f54eb2ccb261251b34daefad394de4c35aa3849a8deb6bb68c9675d9f6c
+prompt_sha256: draft-1
+translated_from: content/ru/1984/09/articles/23_izergin-malyishev-leningradskaya-gorodskaya-olimpiada-po-fizike-d0c83c49.md
+source_content_sha256: 95f33dd36adb595b4312a3c72384156bfbec68e479e71d94c1e5b44975a481c5
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 55⟧
+
+Olympic Vật lý thành phố Leningrad
+
+Kỳ thi Olympic Vật lý Thành phố dành cho học sinh lớp 8-10 do Khoa Vật lý Đại học bang Leningrad tổ chức. A. A. Zhdanova và Cung điện của những người tiên phong và học sinh được đặt theo tên. A. A. Zhdanova. Olympic được tổ chức thành ba vòng - cấp trường (khoảng 30 nghìn học sinh), cấp quận (khoảng 5 nghìn học sinh) và thành phố (600 học sinh). Nhiệm vụ của các chuyến tham quan khu vực và thành phố là như nhau đối với tất cả những người tham gia (chuyến tham quan thành phố được thực hiện theo hai giai đoạn - lý thuyết và thử nghiệm). Jorri bao gồm các nhà khoa học và sinh viên vật lý giỏi nhất của Đại học bang Leningrad.
+
+Kết quả Olympic được tổng hợp ở các nội dung thi đồng đội và cá nhân. Từ những người chiến thắng trong cuộc thi cá nhân, một đội Leningrad được thành lập để tham gia Olympic toàn trường.
+
+Dưới đây là một số bài toán được đưa ra vào năm 1983 và 1984 tại Olympic Vật lý Leningrad.
+
+Tham quan quận
+lớp 8
+1. Một ống có tiết diện là hình lục giác đều cạnh l, được cuộn sao cho vận tốc góc so với trục quay không đổi và bằng $\omega$. Vẽ quỹ đạo của tâm tuabin và tìm tốc độ trung bình của chuyển động tịnh tiến của nó. Không có sự trượt.
+2. Hai hình trụ thẳng đứng được đặt ở đáy một bình rỗng có chiều cao H (Hình 1). Mật độ của vật liệu xung quanh hình trụ là $e = 0,5 \text{ г/cm}^3$, diện tích đáy của chúng là $S_1 = 10 \text{ cm}^2$ và $S_2 = 5 \text{ cm}^2$, và chiều cao của chúng là $h_1 = h_2 = 1 \text{ cm}$. Điều gì xảy ra với các bình nếu bình chứa đầy nước? Áp suất khí quyển $p_a = 1 \text{ atm}$.
+
+3. Ước tính tốc độ mà các đối tác quần vợt có thể truyền tới quả bóng khi chơi quần vợt thực sự, nếu mỗi người chơi thực hiện ba cú đánh và tốc độ tối đa của quả bóng là $v_0$. Việc này sẽ mất bao lâu nếu chiều dài của bàn là $L$?
+
+lớp 9
+1. Bạn đứng trên một chiếc xích đu đang đứng yên mà không chạm đất (Hình 2). Có thể đá chúng? Nếu có, hãy giải thích cách thực hiện điều này và lực nào sẽ mang lại cho bạn, cùng với cú xoay, một xung theo hướng nằm ngang.
+2. Hai máy báo hoạt động theo chu trình tương ứng ABCDA và ABC'D'A (Hình 3). Máy nào hiệu quả hơn? Trong cả hai trường hợp, chất lỏng hoạt động là một mol khí đơn nguyên tử lý tưởng.
+3. Một dây dẫn có kích thước giới hạn có điện tích $q > 0$. Chứng minh rằng mật độ điện tích trên nó không âm.
+
+lớp 10
+1. Một gương phẳng đặt cách một khoảng 2F so với đường thu có tiêu cự F (Hình 4). Vẽ hình ảnh của đoạn AB, tìm khoảng cách L=F của nó tính từ đường thẳng.
+2. Quả bóng cố định hướng ra ngoài thực hiện dao động điều hòa trong mặt phẳng nằm ngang với biên độ $x_m$. Tường của quả cầu phản xạ đàn hồi phải đặt cách vị trí cân bằng một khoảng bằng bao nhiêu để chu kỳ dao động giảm đi một phần ba?
+3. Dao động điều hòa có biên độ $U_m$ được kích thích trong mạch LC. Khi tụ điện được sạc đầy, bản tụ của nó nhanh chóng bị uốn cong, điện dung tăng gấp đôi. Điều này có ảnh hưởng đến dao động không và ảnh hưởng như thế nào?
+
+Tham quan thành phố
+lớp 8
+1. Các bánh dẫn động của rãnh bên phải và bên trái của xe tăng quay cùng chiều với tốc độ góc $\omega_1$ và $\omega_2$ tương ứng ($\omega_2 > \omega_1$). Tìm bán kính của đường tròn mà thùng đang chuyển động và vận tốc góc của nó. Chiều rộng thùng l, bán kính bánh lái r. Phần giữa của đường ray không bị trượt so với mặt đất.
+2. Hai hạt chuyển động dọc theo một đường thẳng. Đồ thị vận tốc của những hạt này được biểu diễn trên Hình 5. Tại thời điểm t=0, cả hai hạt đều ở cùng một điểm. Tìm khoảng cách nhỏ nhất giữa các hạt tại thời điểm t ≥T.
+3. Trên một mặt phẳng nghiêng có góc α, hai hình lập phương một mặt giống hệt nhau đứng chồng lên nhau. Hệ số ma sát giữa chúng là μ, và giữa khối dưới và mặt phẳng ma sát là rất lớn. Góc α tăng dần. Mô tả điều gì sẽ xảy ra với những chiếc cốc (về mặt định lượng nếu có thể).

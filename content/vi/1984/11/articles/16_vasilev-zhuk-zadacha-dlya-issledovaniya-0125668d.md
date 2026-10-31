@@ -1,0 +1,84 @@
+---
+id: 1984-11-vasilev-zhuk-zadacha-dlya-issledovaniya-0125668d
+issue: kvant_1984_11
+year: 1984
+number: "11"
+title: Bài toán cho nghiên cứu
+authors:
+  - Васильев Н. Б.
+  - Жук И. К.
+rubric: smes
+page_first: 45
+page_last: 45
+page_labels: "43"
+tag: XAU9
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: cdbaf091e65cc056542c8173fcd05220edcb9461f05da959552f5fe3ce0c438e
+prompt_sha256: draft-1
+translated_from: content/ru/1984/11/articles/16_vasilev-zhuk-zadacha-dlya-issledovaniya-0125668d.md
+source_content_sha256: 4995b347d2fe04ed00c271d86579e9aeb1e93d4c4ce40d4e43c95ada8a654940
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 43⟧
+
+$$y_{AM}(x_A) = 0 \Rightarrow x_A = -\frac{1}{2g \text{tg} \varphi} (\text{tg} \alpha - \text{tg} \varphi)^2 v_0^2 \cos^2 \alpha.$$
+
+Do đó, nếu một vật được ném theo một góc $\alpha > \varphi$, thì bóng sẽ di chuyển theo đường đi (xem (2))
+
+$$S_2 = \frac{1}{g} v_0^2 \sin 2\alpha + \frac{1}{g \text{tg} \varphi} (\text{tg} \alpha - \text{tg} \varphi)^2 v_0^2 \cos^2 \alpha.$$
+
+Hãy xem giá trị nào của $\alpha$ biểu thức này là tối đa. Để làm điều này, chúng ta tìm đạo hàm $S'(\alpha)$ và đánh đồng nó bằng 0:
+
+$$S'(\alpha) = \frac{2}{g} v_0^2 \cos 2\alpha + \frac{1}{g \text{tg} \varphi} v_0^2 (\sin 2\alpha + 2 \text{tg} \varphi \cos 2\alpha - \text{tg}^2 \varphi \sin 2\alpha) = 0,$$
+
+hoặc
+
+$$(1 - \text{tg}^2 \varphi) \sin 2\alpha = 0 \Rightarrow \sin 2\alpha = 0 \Rightarrow \alpha = 90^\circ$$
+
+(trường hợp $\alpha = 0$ không phù hợp với chúng tôi, vì $\alpha > \varphi$).
+
+Do đó, $S_2$ đạt giá trị lớn nhất ở $\alpha = 90^\circ$, tức là khi vật được ném thẳng đứng lên trên và (xem Hình 4)
+
+$$S_{2\max} = 2h_{\max} \text{ctg} \varphi = \frac{1}{g} v_0^2 \text{ctg} \varphi.$$
+
+Bây giờ chúng ta tìm hiểu xem điều kiện nào $S_{2\max} > S_{1\max}$ và điều kiện nào $S_{2\max} < S_{1\max}$. Để làm điều này, chúng ta tìm mối quan hệ $S_{1\max}: S_{2\max}$ (xem (1)):
+
+$$\frac{S_{1\max}}{S_{2\max}} = \frac{v_0^2 g \sin 2\varphi}{v_0^2 g \text{ctg} \varphi} = 2 \sin^2 \varphi.$$
+
+Tại $\varphi = 45^\circ$ biểu thức này bằng 1 ($S_{1\max} = S_{2\max}$) - bóng di chuyển theo cùng một đường tại $\alpha = 45^\circ$ và tại $\alpha = 90^\circ$. Nếu $\varphi < 45^\circ$ thì $2 \sin^2 \varphi < 1$ ($S_{1\max} < S_{2\max}$) - bóng di chuyển theo đường tối đa tại $\alpha = 90^\circ$. Tại $\varphi > 45^\circ$, như chúng tôi đã nói, $S_{1\max} = \frac{1}{g} v_0^2$ và $S_{1\max}: S_{2\max} = \text{tg} \varphi > 1$ - bóng di chuyển đường đi tối đa tại $\alpha = 45^\circ$.
+
+Hãy viết ra đáp số cuối cùng:
+
+nếu $\varphi < 45^\circ$ - cơ thể phải được ném thẳng đứng;
+nếu $\varphi = 45^\circ$ - cơ thể phải được ném theo phương thẳng đứng hoặc nghiêng một góc $45^\circ$ so với đường chân trời;
+nếu $\varphi > 45^\circ$ - vật phải được ném một góc $45^\circ$ so với đường chân trời.
+
+V. A. Nakhshin
+
+Vấn đề
+cho nghiên cứu
+"tích của các số lân cận"
+trong bảng ±1
+
+Liên quan đến hai bài toán của Olympic toàn Liên đoàn năm nay (số 5 đối với lớp 10 và số 8 đối với lớp 9; xem trang 47-48), các câu hỏi tổng quát hơn sau đây đương nhiên nảy sinh.
+
+Đối với mỗi bảng $T$ có kích thước $m \times n$, các ô trong đó chứa các số 1 và -1, xác định một bảng mới $P(T)$; trong mỗi ô của nó, một số được viết bằng tích của các số ở các ô lân cận (có chung cạnh với nó) trong bảng $T$. Đối với mỗi $m$ và $n$:
+
+1) Các bảng khác nhau $T$ có nhất thiết phải tương ứng với các bảng khác nhau $P(T)$ không?
+
+2) đối với bất kỳ bảng $T$ nào trong dãy các bảng $T_1 = P(T)$, $T_2 = P(T_1)$, ... liệu có một bảng không?
+
+Hãy cố gắng trả lời những câu hỏi này (dường như
+
+Tôi nghĩ đơn giản hơn) như sau:
+
+bàn “hình trụ” $m \times n$, trong đó hai cạnh đối diện có chiều dài $m$ được coi là được dán và đối với “hình xuyến”, trong đó hai cặp cạnh đối diện được coi là được dán (mỗi cạnh có bốn cạnh kề nhau).
+
+Lưu ý rằng câu hỏi 2) dành cho hình trụ. độ cao $m = 1$, tức là đối với $n$ ô dọc theo chu vi, hiểu “Bài toán lượng tử”; dương đáp số trên đó thu được bằng $n = 2^k$ ($k = 2,3,...$).
+
+N. V. Vasiliev, I. K. Zhuk

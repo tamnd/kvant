@@ -1,0 +1,53 @@
+---
+id: 1984-10-huhro-izbrannyie-shkolnyie-zadachi-d1935ac7
+issue: kvant_1984_10
+year: 1984
+number: "10"
+title: Trường học yêu thích bài toán
+authors:
+  - Хухро Е. И.
+rubric: shkola-v-kvante
+rubric_sub: Школа в «Кванте»
+page_first: 35
+page_last: 35
+page_labels: "33"
+tag: SK4C
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: a8df518e235788086418e2ddd80e5fb08d52fc21f42db3910d7d860a7603097d
+prompt_sha256: draft-1
+translated_from: content/ru/1984/10/articles/15_huhro-izbrannyie-shkolnyie-zadachi-d1935ac7.md
+source_content_sha256: ca3bc7943fbb15f877023153dc0e3074a258858476b0a6498a01e93394a297c1
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 33⟧
+
+Bằng cách bình phương cả hai vế của phương trình này và chuyển tất cả các số hạng của phương trình thu được sang vế trái, chúng ta thu được phương trình
+$$x^2 - 7x + 10 = 0,$$
+có gốc $x_1 = 2$ và $x_2 = 5$. Khi bình phương, các nghiệm có thể xuất hiện, một cấu trúc của phương trình ban đầu, do đó các nghiệm tìm được phải được kiểm tra. Thay căn bậc nhất $x_1 = 2$ vào phương trình (9), chúng ta thu được đẳng thức số không chính xác $-1 = 1$, có nghĩa là $x_1 = 2$ là gốc được xây dựng cho phương trình ban đầu (9). Thay căn bậc hai $x_2 = 5$ vào phương trình (9), chúng ta thu được đẳng thức số đúng. Và do đó, $x_2 = 5$ là nghiệm của phương trình ban đầu.
+Vì vậy, phương trình (9) có một nghiệm duy nhất $x = 5$.
+Đây là một ví dụ khác. Hãy giải phương trình
+$$\log_7(x^2 - 4) = \log_7(4x - 7).$$
+Bằng cách tăng điện thế, chúng ta đi đến phương trình
+$$x^2 - 4 = 4x - 7,$$
+có gốc là $x_1 = 1$ và $x_2 = 3$. Trong quá trình điện thế, các nghiệm có thể xuất hiện, một cách xây dựng cho phương trình ban đầu, do đó các nghiệm tìm được phải được kiểm tra. Số $x_1 = 1$ không thỏa mãn phương trình (10), vì nó không có ý nghĩa như logarit của các số âm, do đó $x_1 = 1$ không phải là nghiệm của phương trình này. Số $x_2 = 3$ biến phương trình ban đầu thành một đẳng thức số chính xác.
+Vì vậy, phương trình (10) có một nghiệm duy nhất $x = 3$.
+
+Trường học yêu thích bài toán
+
+Ở đây chúng tôi trình bày một số bài toán được cung cấp cho các khu vực Olympic ở vùng Novosibirsk. Một số bài ở mức độ trung bình khá đơn giản, có những bài đòi hỏi khắt khe hơn nhưng đều bám sát chương trình học ở trường. Trong dấu ngoặc đơn sau số bài tập, nó cho biết nó được cung cấp ở lớp nào.
+
+lớp tám
+1 (7-8). Hai nhân vật Vasya và Petya đồng thời rời điểm A đến điểm B. Vasya đi cả quãng đường với vận tốc không đổi, Petya lúc đầu đi trong 1 giờ với vận tốc 12 km/h, đi hết quãng đường còn lại với vận tốc 14 km/h và đến B sớm hơn Vasya 5 phút. Nếu Petya luôn lái xe với tốc độ 12 km/h thì anh ấy sẽ đến B muộn hơn Vasya 6 phút. Tìm khoảng cách từ A đến B.
+2 (7-8). Tuổi của một người vào năm 1959 hóa ra bằng tổng các chữ số của năm sinh của người đó. Tìm năm sinh của người này nếu biết người đó sinh ở thế kỷ 20.
+3 (7-8). Đường tròn tâm tại điểm O nội tiếp tam giác ABC. Tại điểm T nó tiếp xúc với BC. Được biết, $\angle BOT: \angle COT = 3:4$. Tìm độ dài cạnh BC nếu bán kính đường tròn ngoại tiếp là 3 và góc A là 30°.
+4 (7-8). Chứng minh rằng nếu các số dương x và y thỏa mãn các bất đẳng thức x+y>2,6 và x^2+y^2<4 thì xy>1.
+5 (7-9). Có thể cắt một hình vuông thành hình vuông có kích thước nhỏ hơn 1980 không? Và cho năm 1981? (Các hình vuông thu được có thể không giống nhau.)
+lớp chín
+6 (7-9). Bạn và tôi đã ở bên nhau 35 năm. Bây giờ tuổi tôi gấp đôi tuổi bạn khi tôi bằng tuổi bạn bây giờ. Tôi bao nhiêu tuổi và bạn bao nhiêu tuổi?
+7 (8-10). Trong một hình thang, tổng các góc ở đáy là 90°. Chứng minh rằng độ dài đoạn
+(Về phần kết xem trang 55)

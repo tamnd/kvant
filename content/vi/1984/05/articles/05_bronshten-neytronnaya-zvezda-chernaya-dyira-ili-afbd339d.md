@@ -1,0 +1,54 @@
+---
+id: 1984-5-bronshten-neytronnaya-zvezda-chernaya-dyira-ili-afbd339d
+issue: kvant_1984_5
+year: 1984
+number: "5"
+title: Sao neutron, lỗ đen hay...?
+authors:
+  - Бронштэн В. А.
+rubric: novosti-nauki
+rubric_sub: Новости науки
+page_first: 12
+page_last: 12
+page_labels: "10"
+tag: AAGL
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 49655395c52368bf24a15b4644d4f906a7a4567e464a0dedb54c4de38bdf59c6
+prompt_sha256: draft-1
+translated_from: content/ru/1984/05/articles/05_bronshten-neytronnaya-zvezda-chernaya-dyira-ili-afbd339d.md
+source_content_sha256: f7940ee6f5816b0b040ab373d8dae716d434b1c646f2b07c0d5ee5208d218a90
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 10⟧
+
+Sao neutron, lỗ đen hay...?
+
+Ứng viên Khoa học Vật lý và Toán học
+V. A. BRONSHTEN
+
+Mọi chuyện bắt đầu khá tích cực. Năm 1977, các nhà thiên văn học người Mỹ B. Stephenson và N. Sandulak, sau nhiều năm nghiên cứu, đã xuất bản một danh mục mới về các ngôi sao trong Dải Ngân hà với các vạch hydro sáng trong quang phổ.
+
+Ngay năm sau, một trong những ngôi sao trong danh mục mới, được chỉ định là SS 433, đã thu hút sự chú ý của mọi người. Đây là một ngôi sao mờ (cường độ 14) trong chòm sao Aquila; nó chỉ có thể được quan sát bằng kính thiên văn lớn. Tuy nhiên, nếu quan sát thấy các vạch sáng trong quang phổ của một ngôi sao thì ngôi sao đó đang thể hiện hoạt động không tự học. Họ quyết định “kiểm tra” cô ấy. Hóa ra ở vùng lân cận của ngôi sao này có một nguồn phóng xạ xanh, gợi nhớ đến tàn tích của một vụ nổ siêu tân tinh. Một nguồn tia X cũng được phát hiện ở gần như điểm tương tự trên bầu trời. Nhưng điều đáng ngạc nhiên nhất vẫn liên quan đến quang phổ của chính ngôi sao.
+
+Bắt đầu từ tháng 7 năm 1978, các nhà thiên văn học từ Đại học California (Mỹ) bắt đầu chụp ảnh một cách có hệ thống quang phổ của vật thể mới. Hóa ra chúng có vẻ kỳ lạ. Thay vì mỗi hydro, gel và các loại khí khác tuyến tính, người ta quan sát thấy ba đường: một ở vị trí cần có và hai vạch nữa ở hai bên. Người ta sớm phát hiện ra rằng các đường bên sẽ trộn lẫn: chúng dường như hội tụ, tiến lại gần nhau. Tháng 9 cùng năm, các đường cực hội tụ nhưng không trùng với đường giữa! Sau đó họ lại bắt đầu giải tán. Các quan sát được thực hiện trong khoảng thời gian một năm rưỡi cho thấy các đường hội tụ và phân kỳ trong khoảng thời gian 165 ngày.
+
+Làm thế nào chúng ta có thể giải thích sự phân chia mỗi vạch quang phổ thành ba?
+
+Về nguyên tắc, có ba nguyên nhân có thể xảy ra: sự dịch chuyển của các đường trong trường hấp dẫn, sự tách các đường bởi một từ trường mạnh và hiệu ứng liên quan đến chuyển động của nguồn bức xạ (hiệu ứng Doppler). Hai cơ chế đầu tiên đã được trả lời vì không có bằng chứng tương ứng cho chúng. Hiệu ứng Doppler vẫn còn - sự dịch chuyển của các đường khi nguồn di chuyển tương đối được quan sát thấy. Nhưng điều này có nghĩa là vật thể đang nghiên cứu phải chứa ít nhất ba nguồn bức xạ: một nguồn đứng yên và hai nguồn chuyển động ngược chiều nhau. Theo tính toán, tốc độ sau này đạt tới 80.000 km/s - nhanh hơn tốc độ ánh sáng!
+
+Hệ thống nguồn này là gì? Có lẽ đây là một ngôi sao trung tâm có hai vệ tinh quay quanh nó với chu kỳ 165 ngày? Nhưng khoảng thời gian như vậy và tốc độ khổng lồ được chỉ định của chuyển động của vệ tinh tương ứng với bán kính quỹ đạo lớn hơn 1000 lần khoảng cách trung bình từ Trái đất đến Mặt trời và khối lượng của hệ thống vào khoảng 10^10 khối lượng mặt trời. Những ngôi sao như vậy không thể đơn giản hơn!
+
+Vật thể này không thể là chuẩn tinh (một nguồn phát xạ vô tuyến gần như sao ở xa): vật thể này nằm trong Thiên hà của chúng ta.
+
+Việc phát triển một mô hình khả thi của ngôi sao SS 433 đã bắt đầu. Một trong những ý tưởng đầu tiên được đề xuất bởi các nhà thiên văn học người Anh E. Fabian và M. Riess. Theo giả thuyết của họ, một vật thể trung tâm nào đó, là kết quả của một quá trình chưa được biết đến, phóng ra hai dòng khí theo hai hướng ngược nhau với tốc độ khoảng 80.000 km/s. Đồng thời, tất cả các hệ thống đều trải qua sự tiến động - chuyển động nổi tiếng của trục hệ thống dọc theo một hình nón, giống như con sói của trẻ em hoặc hành tinh của chúng ta. Theo dữ liệu cập nhật, khoảng thời gian của tuế sai này bằng 164 ngày. Nhưng ở trung tâm là gì?
+
+Theo Fabian và Riess, vật thể trung tâm có thể là một lỗ đen chẳng hạn. Nhà thiên văn học Liên Xô I. S. Shklovsky đưa ra một giả thuyết khác. Ông đề xuất rằng ở trung tâm có một ngôi sao neutron có từ trường mạnh và cách đó không xa có một ngôi sao bình thường. Vật chất của một ngôi sao bình thường, dưới tác dụng của lực hút, chảy về phía sao neutron, tạo thành một đĩa khí bao quanh nó. Từ trường làm quay nhanh ngôi sao neutron, giống như một đài phun nước khổng lồ, ném ra hai vảy khí: một hướng về Trái đất, một hướng ngược lại.
+
+Phát triển mô hình này, nhà khoa học Liên Xô I. D. Novkov và các cộng tác viên của ông đã đề xuất rằng một ngôi sao neutron phát ra các dòng hạt nhanh, tương tác với vật chất của đĩa, tăng tốc vật chất này lên tốc độ cực cao.
+
+Tuy nhiên, hiện tại chúng tôi không thể đưa ra kết quả cuối cùng đáp số cho câu hỏi cái gì ở trung tâm của vật thể SS 433. Nghiên cứu vẫn tiếp tục!

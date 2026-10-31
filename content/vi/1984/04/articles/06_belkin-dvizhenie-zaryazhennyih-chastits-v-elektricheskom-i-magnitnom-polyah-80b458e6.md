@@ -1,0 +1,50 @@
+---
+id: 1984-4-belkin-dvizhenie-zaryazhennyih-chastits-v-elektricheskom-i-magnitnom-polyah-80b458e6
+issue: kvant_1984_4
+year: 1984
+number: "4"
+title: Chuyển động của các hạt mang điện trong điện trường và từ trường
+authors:
+  - Белкин И. К.
+rubric: shkola-v-kvante
+page_first: 26
+page_last: 26
+page_labels: "24"
+tag: 3T2C
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 202200b4613056133101a352b7ae35b254e2c8df935a8323c8f1133e9e030a7b
+prompt_sha256: draft-1
+translated_from: content/ru/1984/04/articles/06_belkin-dvizhenie-zaryazhennyih-chastits-v-elektricheskom-i-magnitnom-polyah-80b458e6.md
+source_content_sha256: b0dffabc52d435197e1660fe5d46690eca5df50b84579a3ce60335a709c3996d
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 24⟧
+
+và hình chiếu của quả bóng thứ hai
+
+$$u_{2x} = \frac{m_2 - m_1}{m_1 + m_2} v_2.$$
+
+Dễ dàng nhận thấy hình chiếu vận tốc của quả bóng thứ nhất luôn dương, còn hình chiếu vận tốc của quả bóng thứ hai có thể dương hoặc âm. Nếu khối lượng của quả bóng tới nhỏ hơn khối lượng của quả bóng nằm yên ($m_2 < m_1$) thì $u_{2x}$ là âm. Điều này có nghĩa là sau một va chạm, quả bóng sẽ thay đổi hướng vận tốc của nó (nảy ra khỏi quả bóng rèn, như trong Hình 3). Với tỷ lệ khối lượng nghịch đảo ($m_2 > m_1$), hình chiếu là $u_{2x} > 0$ và hướng chuyển động của quả bóng tới sau va chạm không thay đổi (quả bóng rèn bật ra). Nếu khối lượng của cả hai quả bóng bằng nhau ($m_1 = m_2$), thì $u_{1x} = v_2$ và $u_{2x} = 0$. Điều này có nghĩa là quả bóng thứ hai sau khi va chạm với quả bóng thứ nhất đã truyền động lượng cho nó và nó dừng lại.
+
+Do đó, từ các định luật bảo toàn năng lượng và động lượng, chúng ta thu được rằng, khi biết vận tốc của các vật trước va chạm, chúng ta có thể xác định vận tốc của chúng sau va chạm. Tình huống như thế nào trong sự kiện thủ đô, khi các quả bóng đã chạm vào nhau nhưng chưa tách ra?
+
+Khi va chạm, các quả bóng bị biến dạng. Lúc đầu biến dạng của chúng tăng lên, sau đó giảm đi. Tại thời điểm biến dạng lớn nhất, các quả bóng chuyển động cùng nhau với tốc độ như nhau. Khoảng cách thời điểm này chi tiết hơn. Chúng ta hãy biểu thị tốc độ chuyển động khớp của chúng bằng $\vec{u}$ và giả sử, để đơn giản, khối lượng của các quả bóng là như nhau ($m_1 = m_2 = m$). Theo định luật bảo toàn động lượng
+
+$$mv_2 = 2mu_x.$$
+
+Theo sau đó là $u_x = u = v_2/2$. Như vậy, vận tốc của cả hai quả bóng khi chúng chuyển động cùng nhau bằng một nửa vận tốc của một quả bóng trước khi va chạm.
+
+Đối với động năng của các quả bóng, tại thời điểm chúng chuyển động với cùng tốc độ thì nó bằng $2mu^2/2 = mu^2 = mv_2^2/4$. Và trước sự kiện, obikhshariya của các quả bóng bằng $mv_2^2/2$. Kết quả là động năng giảm đi một nửa. Cô ấy đã biến mất đi đâu? Có sự vi phạm định luật bảo toàn năng lượng ở đây như thoạt nhìn có vẻ như vậy?
+
+Tất nhiên, năng lượng vẫn như cũ. Vấn đề là trong quá trình va chạm, cả hai quả bóng đều bị biến dạng nên chúng có thế năng tương tác đàn hồi. Chính do độ lớn của thế năng này mà động năng của các quả bóng giảm đi. Lúc đầu, khi độ biến dạng tăng lên, thế năng tăng lên và tại thời điểm chuyển động chung của các quả bóng, nó đạt giá trị cực đại (trong trường hợp của chúng ta, bằng một nửa năng lượng của vật). Sau đó độ biến dạng giảm đi và thế năng tích trữ lại chuyển thành động năng。
+
+Chuyển động của các hạt mang điện trong điện trường và từ trường
+
+Trước tiên chúng ta hãy xem xét chuyển động của một hạt có điện tích $q$ và khối lượng $m$ trong một điện trường không đổi đều có hướng $\vec{E}$. Ví dụ, trường trong trường hợp này không phụ thuộc vào tọa độ hoặc thời gian (ví dụ, trường như vậy sẽ phát sinh trong một tụ điện phẳng tích điện, so với nguồn). Do đó, một lực không đổi $\vec{F} = q\vec{E}$ tác dụng lên một hạt tích điện từ trường, truyền cho hạt một gia tốc không đổi $\vec{a} = \vec{F}/m = q\vec{E}/m$. Nếu hạt có tốc độ ban đầu là $\vec{v}_0$, như trong Hình 1, thì chuyển động của nó trong một trường như vậy tương tự như chuyển động của một vật được ném nghiêng một góc so với đường chân trời trong một trường trọng lực đều, trong đó gia tốc của vật cũng không đổi và bằng $\vec{g}$. Sách giáo khoa "Vật lý 8" cho thấy quỹ đạo chuyển động trong một trường như vậy là tương tự nhau - một hình parabol.
+
+Khi một hạt tích điện chuyển động trong từ trường đều không đổi thì nó chịu tác dụng của lực Lorentz

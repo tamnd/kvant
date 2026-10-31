@@ -1,0 +1,41 @@
+---
+id: 1984-3-zadachi-9f06836c
+issue: kvant_1984_3
+year: 1984
+number: "3"
+title: Bài toán
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 36
+page_last: 36
+page_labels: "34"
+tag: 5EH5
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: d7f1eaaa317d2ee01279a9aa865be95a2ba8ce8cca28f654f12a1514e3ca99fd
+prompt_sha256: draft-1
+translated_from: content/ru/1984/03/articles/10_zadachi-9f06836c.md
+source_content_sha256: 01f99a6ae5e340e8fabfcc7a8fe5d1016f0c5ff0c3f647a3d8ac89dac507ab39
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 34⟧
+
+Nhiệm vụ
+
+1. Khi chia số 2 • 3=6 cho 4 thì dư 2, khi chia số 3 • 4=12 cho 5 thì dư 2. Có đúng là phần dư của phép chia, tích của hai số liên tiếp với số liền sau chúng, luôn bằng 2?
+
+2. Hai đứa trẻ đạp xe vào đêm khuya. Một người có xe đạp bánh lớn, người kia có xe đạp nhỏ nhưng họ ăn với tốc độ như nhau. Cái nào trong số chúng có đèn sáng hơn, được cung cấp bởi một máy phát điện trên vành bánh xe?
+
+3. Có số nào có ba chữ số bằng tích các chữ số của nó không?
+
+4. Nửa vòng tròn được xây dựng trên bán kính của một phần tư vòng tròn, cũng như trên đường kính (xem hình). Cái nào có diện tích lớn hơn: toàn bộ phần (màu đỏ) của các nửa hình tròn này hay phần (màu xanh) của một phần tư hình tròn không bị nó che phủ?
+
+5. Số 9, bắt đầu là số có ba chữ số, được chuyển xuống cuối số. Kết quả là số đó ít hơn 216. Số ban đầu là bao nhiêu?
+
+Những nhiệm vụ này đã được cung cấp cho chúng tôi:
+H. K. Antonovich, S. B. Dvoryaninov,
+S. H. OLEXNIK, A. P. Savin, A. G. Samosvat.
