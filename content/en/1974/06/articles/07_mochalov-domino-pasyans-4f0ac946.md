@@ -1,0 +1,71 @@
+---
+id: 1974-6-mochalov-domino-pasyans-4f0ac946
+issue: kvant_1974_6
+year: 1974
+number: "6"
+title: Domino - solitaire
+authors:
+  - Мочалов Л. П.
+rubric: smes
+page_first: 19
+page_last: 19
+page_labels: "17"
+tag: P2HL
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: f162be732705dba3bafdb30f7e064af6a37f09169c1904109e8fe4cbe8588b16
+prompt_sha256: draft-1
+translated_from: content/ru/1974/06/articles/07_mochalov-domino-pasyans-4f0ac946.md
+source_content_sha256: 714039fbc046b11f04ef83b3ec873add865e47afacb5b6b3d4995bab3b66fe7b
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 17⟧
+
+blackboard In a similar way, you can study the strength of pieces on cylindrical, spherical, spatial and other chess “boards”.
+
+Another generalization is to change the rules for the movement of figures. Chess composers who specialized in “fantastic chess” depicted the so-called “fairytale” figures: candler, centaur, night cricket, horseman, beetle, leppard, hippopotamus, lion, zebra, imitator, giraffe and others. The chancellor can move like a rook and a knight, a centaur can move like a knight and a bishop, a horseman can be a long-range piece that makes continuous jumps along the route of a common end in one direction (for example, a1 - b3 - c5 - d7 or a1 - c2 - e3 - g4), a lion can move across the field in any direction, etc. Our method allows you to easily find the strength of fairy-tale pieces.
+
+In practice
+
+1. Find the mobility $P_x(n)$ of which chess piece $x$ on a board of size $n \times n$, use the formula (*).
+
+2. How does the mobility of the pieces change with an unlimited increase in the size of the board?
+
+3. On the general board, the rook is equal in strength to the bishop and knight (14 = 8.75 + 5.25). On what other board is this possible? On what size board do the king and bishop have equal strength?
+
+4. How many ways can two queens be placed on a board of size $n \times n$ without them threatening each other?
+
+5. How many ways can three queens be placed on the board $n \times n$ without them threatening each other?
+
+6. Who is stronger on an infinite chessboard - a queen or two rooks?
+
+7. Determine the mobility and strength of the chancellor, chancellor, horseman and lion.
+
+8. On an infinite board, what kind of mobility does a knight of type $(a, b)$ have, moving $a$ fields in one direction and $b$ fields in a perpendicular direction (an obacc knight is obtained at $a = 2, b = 1$)?
+
+Domino - solitaire
+
+28 dominoes are laid in a straight column $7 \times 8$. The boundaries of the bones are not shown. They need to be restored.
+
+$$\begin{array}{c}
+2 \ 2 \ 3 \ 0 \ 0 \ 4 \ 4 \\
+2 \ 5 \ 4 \ 4 \ 0 \ 1 \ 1 \\
+6 \ 1 \ 5 \ 4 \ 4 \ 0 \ 0 \\
+3 \ 2 \ 6 \ 6 \ 3 \ 3 \ 5 \\
+1 \ 5 \ 5 \ 6 \ 4 \ 3 \ 0 \\
+1 \ 1 \ 5 \ 2 \ 6 \ 0 \ 0 \\
+3 \ 2 \ 5 \ 1 \ 2 \ 2 \ 6 \\
+6 \ 4 \ 3 \ 6 \ 3 \ 5 \ 1 \\
+6 \ 6 \ 0 \ 6 \ 6 \ 0 \\
+4 \ 5 \ 2 \ 6 \ 6 \ 5 \ 1 \\
+4 \ 4 \ 5 \ 5 \ 4 \ 3 \ 3 \\
+0 \ 5 \ 1 \ 4 \ 1 \ 3 \ 2 \\
+2 \ 5 \ 2 \ 6 \ 1 \ 1 \ 1 \\
+3 \ 1 \ 5 \ 3 \ 4 \ 2 \ 2 \\
+3 \ 2 \ 6 \ 0 \ 0 \ 2 \ 2 \\
+5 \ 3 \ 3 \ 4 \ 0 \ 1 \ 4 \\
+\end{array}$$
