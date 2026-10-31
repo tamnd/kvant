@@ -1,0 +1,90 @@
+---
+id: 1987-4-kalinina-laptev-leningradskiy-gosudarstvennyiy-pedagogicheskiy-institut-im-a-i-gertsena-92f352dc
+issue: kvant_1987_4
+year: 1987
+number: "4"
+title: Học viện sư phạm bang Leningrad được đặt theo tên. A. I. Herzen
+authors:
+  - Калинина М. И.
+  - Лаптев В. В.
+rubric: ekzamenatsionnye-materialy
+rubric_sub: Экзаменационные материалы
+page_first: 57
+page_last: 57
+page_labels: "55"
+tag: ISSC
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 766ee5ec858e0d8c0a6e060899f02291d63f065b6e0b8acfe956ec87ab3fac6c
+prompt_sha256: draft-1
+translated_from: content/ru/1987/04/articles/23_kalinina-laptev-leningradskiy-gosudarstvennyiy-pedagogicheskiy-institut-im-a-i-gertsena-92f352dc.md
+source_content_sha256: 805492c039a3c376c72fa92d9de68a2512988c7537103c2bdf9d6424df86d6c3
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 55⟧
+
+10. Trục quang học của thấu kính $OO'$, điểm sáng $S$ và ảnh của nó trong thấu kính $S'$ (hình 2) đã cho. Tìm vị trí tiêu điểm của thấu kính bằng thước và bút chì.
+
+Ấn phẩm đã được chuẩn bị
+V. A. Oparin, S. P. Preobrazhensky,
+I. V. Rusanov, Yu. A. Khvatov
+
+Học viện sư phạm bang Leningrad được đặt theo tên. A. I. Herzen
+
+Toán học
+Bài thi viết
+
+Tùy chọn 1
+(khoa toán)
+1. Giải phương trình
+$$\log_{x+1}(x-0,5)=\log_{x-0,5}(x+1).$$
+2. Tìm $\cos 2\alpha$ nếu biết $2\mathrm{ctg}^2\alpha+7\mathrm{ctg}\alpha+3=0$ và góc $\alpha$ thỏa mãn bất đẳng thức:
+a) $\frac{3\pi}{2} < \alpha < \frac{7\pi}{4}$; b) $\frac{7\pi}{4} < \alpha < 2\pi.$
+3. Giải hệ bất phương trình
+$$\sqrt{x^2-9x+20} \leq \sqrt{x-1} \leq \sqrt{x^2-13}.$$
+4. Tam giác Wissan có đường tròn bán kính 3. Tính độ dài các cạnh của tam giác nếu một trong chúng được chia bởi một điểm tiếp tuyến thành các đoạn có độ dài 4 và 3.
+5. Trong một paramid tứ giác đều, có một khối lập phương sao cho bốn đỉnh của nó nằm trên các đường trung bình của paramid và bốn đỉnh nằm trong mặt phẳng đáy. Tất cả các cạnh của paramid đều bằng $a$. Tính tổng diện tích và thể tích của hình lập phương đó.
+
+Tùy chọn 2
+(Khoa Vật lý)
+1. Đơn giản hóa biểu thức
+$$\frac{1}{\sqrt{a-1}} - \sqrt{a+1} : \frac{1}{\sqrt{a+1}} - \sqrt{a-1} : \frac{1}{(a-1)\cdot\sqrt{a+1}} - \frac{1}{(a+1)\cdot\sqrt{a-1}}.$$
+2. Hai cơ thể bắt đầu chuyển động đồng thời và chuyển động thẳng về phía nhau. Tuy nhiên, một trong số họ đi được 7 m trong mỗi phút, người kia đi được 24 m trong phút đầu tiên và trong mỗi phút tiếp theo nó đi được ít hơn 4 m so với phút trước. Hỏi sau bao nhiêu phút hai vật gặp nhau nếu khoảng cách ban đầu giữa chúng là 100 m?
+3. Giải phương trình
+$$1 + \sin 2x = \sin x + \cos x.$$
+4. Giải bất đẳng thức
+$$3^{\lg x} + 2 < 3^{\lg x^2} + 5 - 2.$$
+5. Đáy của lăng trụ đứng là một tam giác có cạnh 5 và 3 và góc giữa chúng là $120^\circ$. Mặt bên phẳng lớn nhất là 35. Tìm thể tích của lăng kính.
+
+Tùy chọn 3
+(khoa hóa học)
+1. Kiểm tra sự bình đẳng
+$$\sin 20^\circ \cdot \cos 10^\circ + \cos 160^\circ \cdot \cos 100^\circ = 1.$$
+2. Giải phương trình
+$$3 \cdot 16^x + 2 \cdot 81^x = 5 \cdot 36^x.$$
+3. Với những giá trị nào của $p$ đều là nghiệm của phương trình $x^2+2(p+1)x+9p-5=0$ âm?
+4. Trộn axit clohydric 30% với 10% thu được 600 g dung dịch 15%. Mỗi dung dịch đã lấy bao nhiêu gam?
+5. Có một hình lăng trụ thẳng nằm trong hình trụ, đáy của nó là một tam giác đều có góc tù bằng $a$. Tìm thể tích của hình trụ nếu biết cạnh bên của đáy lăng trụ bằng $b$ và đường chéo lớn hơn cạnh bên bằng $l$.
+
+Tùy chọn 4
+(Khoa sư phạm cá nhân)
+1. Chứng minh tính chính xác
+$$\cos \alpha \cdot \cos \beta - \cos(\alpha + \beta) = \mathrm{tg} \alpha \cdot \mathrm{tg} \beta.$$
+2. Giải phương trình
+$$\log_2(2x-1) + \log_2(x+5) = \log_213.$$
+3. Giải bất đẳng thức
+$$\left(\frac{1}{5}\right)^{x^2+5x} > 25^{-3}.$$
+4. Rút gọn và tính giá trị của biểu thức
+$$\sqrt[6]{4x \cdot (11+4\sqrt{6})} \cdot \sqrt[3]{4\sqrt{2x}-2\sqrt{3x}}$$ tại $x=50.$
+5. Cơ sở của một đường thẳng, sử dụng các đẳng thức có cạnh là 10 và 18, diện tích là 90. Chiều cao của đường thẳng đi qua giao điểm của các đường chéo của đáy và bằng 6. Xác định bề mặt bên của đường thẳng này.
+
+Vật lý
+Bài thi vấn đáp
+1. Để rời khỏi Trái đất, gói hàng phải đạt tốc độ $v=11,2$ km/s. Ở độ cao nào và sau khoảng thời gian nào trong quá trình tăng thẳng đứng, điều này sẽ xảy ra nếu gói hàng chuyển động với tỷ lệ không đổi $a=30g$? Mức độ rơi tự do ở độ cao này là bao nhiêu? Bán kính Trái đất là $R=6,37 \cdot 10^6$ m. Giả sử lực hấp dẫn tác dụng lên hòn đá thay đổi theo định luật $F=mgr/R$, trong đó $r$ là khoảng cách từ hòn đá có khối lượng $m$ đến tâm Trái Đất.
+2. Nếu một con kênh xuyên qua có thể được đào xuyên qua tâm Trái đất thì một hòn đá rơi tự do sẽ mất bao lâu để đến được đầu đối diện của con kênh? Bán kính Trái đất là $R=6,37 \cdot 10^6$ m. Giả sử lực hấp dẫn tác dụng lên hòn đá thay đổi theo định luật $F=mgr/R$, trong đó $r$ là khoảng cách từ hòn đá có khối lượng $m$ đến tâm Trái Đất.
+3. Tìm sự phụ thuộc của mô hình lực ma sát trượt của một vật có khối lượng $m$ vào mặt nghiêng của mặt phẳng $a$ trong khoảng $0 \leq a \leq \pi/2$. Hệ số ma sát trượt là $\mu$.
+4. Có thể tiếp cận cơ thể từ một cái giếng sâu $h=12$ m bằng cách sử dụng một máy bơm đặt trên bề mặt Trái đất và có khả năng tạo ra bất kỳ áp suất không khí thấp nào trong đường ống hạ xuống giếng không?

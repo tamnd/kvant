@@ -1,0 +1,75 @@
+---
+id: 1987-7-gik-figuryi-vozvraschayutsya-domoy-f2d45146
+issue: kvant_1987_7
+year: 1987
+number: "7"
+title: Những con số trở về nhà
+authors:
+  - Гик Е. Я.
+rubric: shahmatnaya-stranichka
+rubric_sub: Шахматы
+page_first: 67
+page_last: 67
+tag: RS5O
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 1e178241d307a051457787ce5eaace05a62a428e412c72b2c45485f3ec6858b6
+prompt_sha256: draft-1
+translated_from: content/ru/1987/07/articles/02_gik-figuryi-vozvraschayutsya-domoy-f2d45146.md
+source_content_sha256: 082be7007ce3c56c2338251dc625479901f117ebd6ab86c256d9b448fe480874
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 14⟧
+
+HÌNH ẢNH
+TRỞ VỀ NHÀ
+
+Khi chúng ta đã nói về các câu đố trong đó tất cả các quân trắng xuất hiện trên bảng đều chiếm vị trí ban đầu ở vị trí ban đầu («Kvant», 1985, Số 4). Xin vui lòng quay lại chủ đề hấp dẫn này một lần nữa.
+
+G. Ibulyaev, 1986
+a) Màu trắng: Kre1, Cf1, Kg1; màu đen: Kph2.
+b) Màu trắng: Kre1, Cf1, Kg1; màu đen: Kph1.
+Chiếu tướng trong 3 nước đi.
+a) 1. Kpf2 Kph1 2. Cg2+ Kph2 3. Kf3×.
+b) 1. Kpf2 Kph2 2. Kf3+ Kph1 3. Cg2×.
+Những quan điểm tinh tế hơn với hai mảnh ghép nhỏ thuộc về bài toán nổi tiếng của Liên Xô.
+R. Tavarnina, 1986
+a) Màu trắng: Kre1, Kb1, Cf1; màu đen: Kpg1.
+b) Màu trắng: Kre1, Cc1, Cf1; màu đen: Kpg1.
+Chiếu tướng trong 4 nước đi.
+a) 1. Kd2 Kph1 2. Kpf2 Kph2 3. Kf3+ Kph1 4. Cg2×, 1...Kph2 2. Kpf2 Kph1 3. Cg2+ Kph2 4. Kf3×.
+b) 1. Kpe2 Kph1 2. Kpf2 Kph2 3. Cf4+ Kph1 4. Cg2×, 1...Kph2 2. Kpf2 Kph1 3. Cg2+ Kph2 4. Cf4×. Thật không may, nước mở màn ở bài toán thứ hai không phải là nước duy nhất.
+
+Chúng ta hãy nhớ lại câu đố nổi tiếng của S. Lloyd. Tất cả các quân của Trắng đều ở đúng vị trí của chúng, Đen có một vua ở h4. Trắng đặt thảm trong 3 nước đi. 1. d4 Kph5 2. Qd3 và 3. Qh3×, 1...Kpg4 2. e4+ Kph4 3. g3×. Điều gây tò mò là ô vuông h4 là ô duy nhất mà vua đen đơn độc giao phối nhanh đến vậy. Nơi “an toàn nhất” là ở e8, khi đó quân vua không thể bị bắt trước nước đi thứ sáu. Nếu chính nhà vua giúp đỡ thì tấm thảm sẽ được đặt nhanh gấp đôi - tốc độ tương đương với kỷ lục của Loyd.
+
+A. Korotaev, 1986. Trắng có tất cả quân và túi như lúc bắt đầu ván cờ, Đen có một vua ở ô e8. Thảm hợp tác trong 3 động tác.
+1. Kpf7! (trong “hợp tác xã” bắt đầu đen) d3 (d4)
+2. Kpg6! Qd2! 3. Kph5 Фg5×.
+Và bây giờ là những nhiệm vụ khác thường hơn. Một lần nữa trước mặt bạn là hai cặp song sinh bài toán trên hai tấm ván nửa ván.
+
+R. Tavarnina, 1986
+a) Vua trắng có thể đi được bao nhiêu nước đi từ b5 đến d8?
+6) Vua trắng được di chuyển từ b5 đến h5 và bàn cờ được xoay 180°. Vua trắng có thể đi được bao nhiêu nước đi từ a4 đến e1?
+a) Tám nước đi là đủ: 1. Kpc5 h5 2. Kpd5 c5! 3. Kpe5 Qa5 4. Kpf5 f6! 5. Kpg6 Kpd8 6. Kpf7 Kpc7 7. Kpe8 Kpb6 8. Kpd8!
+6) Cuộc hành trình này dài hơn bốn bước: 1. Kpb3 Kf3 2. Kpc4 g1K! 3. Kpb4 Ka3! 4. Kpc3 Cg2 5. Kpd3 b1Ф 6. Kpe3 Cb2 7. Kpe4 Kpc1 8. Kpf4 d1C! 9. Kpg4 Qc3 10. Kpg3 f1C! 11. Kpf2 Kd2 12. Kpe1!
+Để nhanh chóng đưa vua trắng về đích, Đen đã tiến hành thăng hạng yếu ba lần!
+L. Sokolov, 1986 Trắng: Kre1, Cf1, tr. h2; màu đen: Kpb8, Rh1, Kg1. Thảm hợp tác trong 6 động tác.
+Ở đây, quân và mã của Đen cũng chiếm giữ những vị trí thông thường của họ, mặc dù ở trại đối phương. 1. Kpc7! h4 2. Kpd6 h5 3. Kpe5 h6 4. Kpf4 h7 5. Kpg3 h8C!! Để nhà vua đi qua điểm lộ trình đã định. 6. Kph2 Ce5×.
+
+"Ôi con tốt! Bạn biết đấy, cô ấy rất mạnh mẽ vì cô ấy đã biến thành một con voi!" - đây là cách tác giả bài toán ee này nhận xét.
+Cho đến nay, quân trắng đã chiếm giữ vạch xuất phát ngay cả trước khi hoàn thành nhiệm vụ chiến đấu, nhưng đây là một ví dụ độc đáo về loại ngược lại - tất cả quân trắng (không tính quân tốt) trong quá trình lời giải trở về nhà.
+
+T. Cabo, 1963. Đảo ngược thảm trong 7 động tác.
+Không giống như hợp tác xã bài toán, nơi Đen được đặt ở bài toán trên tấm thảm ngược, quân Trắng giao phối theo ý muốn. 1. Kb1 ab 2. Ra1 b5 3. f5 gf 4. Kg1 f4 5. Cf1 f3 6. Qd1+ Rc2 7. Rh1!
+Tất cả các chiều ngang đầu tiên đã có hình dáng quen thuộc, và Đen buộc phải đặt chiếu - 7...f2×.
+
+Nhiệm vụ thi đấu
+
+13. Trắng bắt đầu và đến thảm trong 2 nước đi.
+
+14. Trắng bắt đầu và thắng.
+Hạn chót gửi lời giải là ngày 20 tháng 9 năm 1987 với ghi chú trên phong bì: “Thi đấu cờ vua «Kvant», nhiệm vụ 13, 14.”

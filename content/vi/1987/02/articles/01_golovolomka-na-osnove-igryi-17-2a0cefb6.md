@@ -1,0 +1,25 @@
+---
+id: 1987-2-golovolomka-na-osnove-igryi-17-2a0cefb6
+issue: kvant_1987_2
+year: 1987
+number: "2"
+title: '[Câu đố dựa trên trò chơi "17"]'
+rubric: smes
+page_first: 68
+page_last: 68
+tag: 3TP1
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 8d09e5af88b4d35cd433721563a0988e7d73c7f73333728bbc90e2a377e5f53f
+prompt_sha256: draft-1
+translated_from: content/ru/1987/02/articles/01_golovolomka-na-osnove-igryi-17-2a0cefb6.md
+source_content_sha256: 958ab59f8cca67bf40db7925256b8da0a6f1e4ca71e0d25e8f5262f24591eb77
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+Có vẻ như dấu phẩy là độc lập - lăn khối lập phương trên một mặt phẳng. Nhưng nếu bạn kết hợp nó với Cera “15” nổi tiếng, bạn sẽ có được một chiếc Cera đột phá năm mới thú vị về chất lượng. Để làm được điều này, các fic hình vuông trong cerra “15” phải được thay thế bằng các hình khối bằng nhau, vẫn chừa một khoảng trống; “Động tác” là một khối lập phương được lăn qua một cạnh lên một khối tự do để thu được các loại “doanh thu” khác nhau - đây là cái mà A. Dremov và G. Shevchova gọi là phiên bản của họ về loại cerra này. Chúng "có thể đảo ngược" và được hiển thị ở hình. Mỗi khối ở đây được sơn 6 màu tương tự như khối Rubik; Có những phần nhô ra hình vuông được làm ở các cạnh, cùng với các bệ cửa được dán vào đáy hộp, hỗ trợ việc lăn và cũng cho phép bạn nhìn thấy màu sắc không chỉ ở mặt trên mà còn ở vị trí. Tất nhiên, các hình khối cần được đánh dấu bằng cách này hay cách khác; Giờ đây, bạn có thể giải bài toán, điển hình của tất cả các câu đố thuộc loại này (cùng một câu đố “15”, khối Rubik, “Tháp Vashilon”)... - rất nhiều trong số chúng đã xuất hiện trong những năm gần đây): tìm một chuỗi các động tác biến đổi cách sắp xếp các cốc đã cho thành một cách sắp xếp khác. Bằng cách thay đổi kích thước của các hình khối, kích thước và hình dạng của trường, bạn có thể thay đổi các mặt bên của mỗi hình khối. Chúng ta sẽ coi việc sắp xếp các chiếc cốc là “phù hợp” khi tất cả các hình khối đều có các mặt cùng màu quay về cùng một hướng và góc dưới cùng trống; có 24 địa điểm như vậy (bao nhiêu?). Bạn phải di chuyển bao nhiêu lần để đi từ vị trí đúng này sang vị trí đúng khác? (Chúng tôi biết lời giải sau 100 nước đi.)

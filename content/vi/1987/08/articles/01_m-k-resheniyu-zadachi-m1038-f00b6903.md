@@ -1,0 +1,31 @@
+---
+id: 1987-8-m-k-resheniyu-zadachi-m1038-f00b6903
+issue: kvant_1987_8
+year: 1987
+number: "8"
+title: '[K lời giải bài toán M1038]'
+authors:
+  - М. Х.
+rubric: smes
+page_first: 68
+page_last: 68
+tag: RJSX
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 9fb6951a0dce7d3ed3756ffa93881fa20ddd48818603980cd5c52d8a574a9f96
+prompt_sha256: draft-1
+translated_from: content/ru/1987/08/articles/01_m-k-resheniyu-zadachi-m1038-f00b6903.md
+source_content_sha256: e4420fcf59797a56059329c1624f06443709a63f7266c43e1de7d312fc4b111e
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+lời giải bài toán M1038, được xuất bản trong số tạp chí này, tuyên bố rằng bất kỳ hình chữ nhật nào $6k \times 2n$, trong đó $k \geq 1$, $n \geq 3$, đều có thể được chia thành các “nút thắt” gồm ba ô sao cho các “nút thắt” không tạo thành một hình chữ nhật nhỏ hơn kích thước.
+Trong lời giải người ta nói rằng trong trường hợp này nhất thiết phải có các phân vùng đối xứng ở giữa - một trong số chúng được hiển thị trong hình 1. Phân vùng này của hình vuông $12 \times 12$ cũng rất thú vị vì khi lặp lại trên $90^\circ$ các giá trị tuần hoàn của các màu của “nút thắt”: xanh lá cây chuyển thành đỏ, đỏ thành vàng, vàng thành xanh lam, xanh lam - đỏ.
+hình 2 cho thấy sự tiến hóa của “nút thắt”, sau đó hình 1 biến thành chiếc nhẫn mozan như trong hình 3.
+
+M.X.

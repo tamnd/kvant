@@ -1,0 +1,87 @@
+---
+id: 1987-8-golovolomki-dba2b091
+issue: kvant_1987_8
+year: 1987
+number: "8"
+title: Câu đố
+rubric: kaleydoskop-kvanta
+rubric_sub: Калейдоскоп
+page_first: 35
+page_last: 37
+page_labels: 33, 35
+tag: 5UCM
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 3fe9ff47d7a12248adcefed03e7395c3012273987bccd9b1e87d9ba4fc008717
+prompt_sha256: draft-1
+translated_from: content/ru/1987/08/articles/08_golovolomki-dba2b091.md
+source_content_sha256: 60d48006094241fc88e5079b19b29cf353c0b1e47810833b4f06c429e48d7179
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 33⟧
+
+CÂU ĐỐ
+1. Các từ “số” và “sima” bao gồm các chữ cái giống nhau. Xét các chữ cái này trong các ô trống của hình vuông sao cho trong mỗi cột, mỗi dòng và trên mỗi đường chéo của hình vuông có đủ năm chữ cái này.
+N. K. Antonovich
+
+Ký hiệu $e$ lần đầu tiên được đưa ra bởi Leonhard Euler (1707–1783). Ông cũng tính số $e$ có 23 chữ số, sử dụng cách biểu diễn chuỗi số vô hạn của $e$: $e=1+\frac{1}{1!}+\frac{1}{2!}+\dots+\frac{1}{n!}+\dots$, do Daniel Vernoulli (1700–1782) suy ra.
+
+$e^{i\pi}+1=0$
+
+2. Thay các chữ cái bằng số sao cho mỗi dòng đều có số. Một chữ cái phải tương ứng với cùng một số, các số khác nhau sẽ tương ứng với các số khác nhau.
+
+L. Euler đã thu được một kết quả đáng chú ý gắn liền với việc định nghĩa hàm $w=e^2$ cho các giá trị phức $z$, đặt nền móng cho lĩnh vực toán học trong miền phức - lý thuyết về hàm biến phức.
+
+⟦folio 35⟧
+
+đo, nếu $X_0 = Y_0 = A$, thì cộng các định luật chuyển động của ma trận phẳng, chúng ta thu được lời giải, mô tả một ma trận hữu hạn quay ngược chiều kim đồng hồ khi nhìn từ trên xuống:
+
+$$x = x_1 + x_4 = A \cos \omega_0 t,$$
+$$y = y_1 + y_4 = A \sin \omega_0 t.$$
+
+Chúng ta cũng có thể mô tả một ma trận hữu hạn quay theo chiều kim đồng hồ:
+
+$$x = x_1 - x_4 = A \cos \omega_0 t,$$
+$$y = y_1 - y_4 = -A \sin \omega_0 t.$$
+
+Và ngược lại, cộng hai lời giải này cho các ma trận quay theo các hướng khác nhau, ta lại thu được các dao động nằm trong cùng một mặt phẳng.
+
+Bây giờ rõ ràng là ma trận cuối cùng không phục vụ cùng chu kỳ với ma trận dao động trong mặt phẳng. Đây là hệ quả của tính tuyến tính của phương trình chuyển động!
+
+Tất cả những điều trên về cơ bản là sự biểu hiện trong cơ học của một nguyên lý vật lý tổng quát: nếu một hệ vật lý được mô tả bằng các phương trình tuyến tính, thì nguyên lý chồng chất hoạt động trong đó - tổng lời giải cũng là một nghiệm.
+
+Bây giờ chúng ta hãy xem xét trường hợp $B_0 \neq 0$. Lời giải (3), mô tả dao động của ma trận trong một mặt phẳng, không còn thỏa mãn phương trình (1). Tuy nhiên, họ hài lòng với những cú xoay dốc! Thật vậy, định luật chuyển động $x = A \cos \omega t, y = A \sin \omega t$ thỏa mãn các phương trình với điều kiện là $\omega^2 = \omega_0^2 - \omega_B^2$ (kiểm tra!). Giải phương trình bậc hai này, ta tìm được:
+
+$$\omega_{1,2} = -\frac{\omega_B}{2} \pm \sqrt{\omega_0^2 + \omega_B^2} \approx -\frac{\omega_B}{2} \pm \omega_0$$
+
+(kể từ $\omega_B \ll \omega_0$). Do đó, thu được hai lời giải: một ma trận quay ngược chiều kim đồng hồ với tần số $\omega_1 = \omega_0 - \omega_B/2$ và một ma trận quay theo chiều kim đồng hồ với tần số $|\omega_2| = \omega_0 + \omega_B/2$.
+
+Sửa đổi
+Trong bài toán Ion «Kvant» ở phần “Bài toán «Kvant» trên hình đến bài toán F1062 thì điểm $C$ đã biến mất. Việc không có từ trường dẫn đến ma trận cuối cùng quay theo các hướng khác nhau, chúng ta lại nhận được các dao động nằm trong cùng một mặt phẳng.
+
+Tại $B_0 = 0$, việc cộng hai lời giải để ma trận quay theo các hướng khác nhau sẽ tạo ra dao động trong cùng một mặt phẳng. Với $B_0 \neq 0$, kết quả là tổng các dao động dốc có tần số hơi khác nhau, một loại “nhịp dốc”:
+
+$$x = A \cos \omega_1 t + A \cos \omega_2 t = 2A \cos \omega_0 t \cdot \cos \frac{\omega_B}{2} t,$$
+$$y = A \sin \omega_1 t - A \sin \omega_2 t = -2A \cos \omega_0 t \cdot \sin \frac{\omega_B}{2} t.$$
+
+Đây không gì khác hơn là các dao động của ma trận có tần số $\omega_0$ trong một mặt phẳng, ma trận này quay chậm với tần số $\omega_B/2$, tức là chính xác những gì chúng ta cần. Từ đây ta có ngay đáp số: mặt phẳng của ma trận cao su quay với vận tốc góc $\omega_B/2 = qB_0/2m$ và quay một góc $2\pi$ trong thời gian:
+
+$$\tau = \frac{4\pi}{|\omega_B|} = \frac{4\pi m}{|qB_0|}.$$
+
+Chuyển động quay của mặt phẳng của cao su ma trận rất giống với hoạt động của ma trận Foucault. Như chúng ta vừa phát hiện ra, chuyển động này là tổng của một chuyển động quay theo chiều kim đồng hồ và ngược chiều kim đồng hồ ở các tần số hơi khác nhau. Ý tưởng này có thể áp dụng được cho ma trận Foucault không?
+
+Chúng ta hãy tưởng tượng để đơn giản rằng ma trận nằm ở cực bắc. Khi đó, một người quan sát không quay cùng Trái đất mà duy trì một hướng không đổi so với bầu trời đầy sao, sẽ phát hiện ra điều sau. Nếu anh ta làm lệch ma trận và thả nó ra mà không có bất kỳ tốc độ thực nào thì ma trận sẽ dao động trong một mặt phẳng cố định với chu kỳ $T = 2\pi \sqrt{l/g}$. Nếu anh ta chạy ma trận theo một vòng tròn, nó quay với tần số, có thể mang lại hình chính xác, chúng ta làm rõ trong điều kiện bài toán: thiết bị được đặt tại điểm $C$ sao cho $|AC|:|AB|:|BC| = 3:2:4,5$.
+
+Có cơ hội đưa ra kết quả đúng hình, chúng tôi làm rõ điều kiện bài toán: thiết bị được đặt tại điểm $C$ sao cho $|AC|:|AB|:|BC| = 3:2:4,5$.
+
+toya $\omega_0 = \sqrt{g/l}$ bất kể hướng quay. Một người quan sát đứng trên Trái đất và quay với nó sẽ thấy rằng mặt phẳng của ma trận Foucault cao su quay theo chiều kim đồng hồ (khi nhìn từ trên xuống) với tốc độ 1 vòng mỗi ngày (đồng bộ với bầu trời đầy sao, so với mặt phẳng này không nhìn thấy được). Theo quan điểm của người quan sát này, các ma trận hữu hạn vẫn thực hiện chuyển động tròn, nhưng vận tốc góc của chúng đã thay đổi: khi quay ngược chiều kim đồng hồ $\omega_1 = \omega_0 - \omega_3$, và theo chiều kim đồng hồ $\omega_2 = \omega_0 + \omega_3$, trong đó $\omega_3 = 2\pi/cутки = 7,27 \cdot 10^{-5} c^{-1}$ là vận tốc góc quay của Trái đất. Cộng các chuyển động này theo công thức (4), chúng ta thu được các dao động trong một mặt phẳng quay theo chiều kim đồng hồ với vận tốc góc $\omega_3$, đúng như vậy.
+
+Do đó, chúng ta thấy rằng chuyển động của ma trận tích điện trong từ trường và ma trận Foucault là cực kỳ giống nhau. Trong cả hai trường hợp, mặt phẳng cao su quay và chuyển động quay theo chiều kim đồng hồ và ngược chiều kim đồng hồ xảy ra ở các tốc độ góc khác nhau. Các lý do vật lý cho hành vi này hoàn toàn khác nhau: đối với ma trận trong từ trường, đó là lực Lorentz, và đối với ma trận Foucault, đó là lực mà chúng ta mô tả chuyển động của nó theo quan điểm của một người quan sát đặt trên Trái đất và quay cùng với nó. Đối với ông, ma trận Foucault chuyển động như thể quả bóng, ngoài lực hấp dẫn và lực căng của sợi dây, còn chịu tác dụng của một lực bổ sung, tương tự như Lorentz, lực này tỷ lệ thuận với tốc độ và tuần hoàn với nó. Lực này kết hợp với lực Corollas và đại diện cho một trường hợp đặc biệt - các lực bổ sung phải được tính đến khi sử dụng hệ thống báo cáo không quán tính (bao gồm cả quay).
+
+D. A. Kuptsov, M. M. Tsypin
+
+Chúng tôi thông báo cho những người tham gia cuộc thi “Zadachik” rằng thời hạn gửi lời giải bài toán này được kéo dài đến ngày 1 tháng 10.

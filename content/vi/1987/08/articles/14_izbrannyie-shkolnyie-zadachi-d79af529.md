@@ -1,0 +1,91 @@
+---
+id: 1987-8-izbrannyie-shkolnyie-zadachi-d79af529
+issue: kvant_1987_8
+year: 1987
+number: "8"
+title: Trường học yêu thích bài toán
+rubric: shkola-v-kvante
+rubric_sub: Школа в «Кванте»
+page_first: 46
+page_last: 46
+page_labels: "44"
+tag: 4QZ6
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: d96e495375cfa6b8b49a43c9ccb6abac323556e84250c3685a2936420932a713
+prompt_sha256: draft-1
+translated_from: content/ru/1987/08/articles/14_izbrannyie-shkolnyie-zadachi-d79af529.md
+source_content_sha256: a22aa9ad446b4fd97c5d4efe8f187adb1690945342bf483db6b388d4a9ec0251
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 44⟧
+
+Chúng ta hãy nâng cả hai vế của đẳng thức vectơ $\vec{a} + \vec{b} + \vec{c} = 0$ thành một hình vuông vô hướng. chúng tôi nhận được
+
+$$\vec{a}^2 + \vec{b}^2 + \vec{c}^2 + 2\vec{a}\vec{b} + 2\vec{b}\vec{c} + 2\vec{a}\vec{c} = 0,$$
+
+trong đó $\vec{a}\vec{b} = ab$ cos $\alpha$, $\vec{b}\vec{c} = bc$ cos $\beta$, $\vec{a}\vec{c} = ac$ cos $\gamma$, $\alpha$, $\beta$, $\gamma$ là các góc giữa các vectơ tương ứng.
+
+Từ đây
+
+$$a^2 + b^2 + c^2 = -2(\vec{a}\vec{b} + \vec{b}\vec{c} + \vec{a}\vec{c}) \leqslant 2(|\vec{a}\vec{b}| + |\vec{b}\vec{c}| + |\vec{a}\vec{c}|) < 2(ab + bc + ac) = (a + b + c)^2 - (a^2 + b^2 + c^2) = 1 - (a^2 + b^2 + c^2)$$
+
+(hãy nghĩ xem tại sao sự bất bình đẳng nghiêm ngặt lại xuất hiện trong lý luận của chúng ta).
+
+Vì vậy, $2(a^2 + b^2 + c^2) < 1$, $a^2 + b^2 + c^2 < 1/2$, đó là những gì được yêu cầu.
+
+Bất đẳng thức này cũng chính xác, tức là không thể lấy hằng số $k < 1/2$ sao cho bất đẳng thức $a^2 + b^2 + c^2 < k$ đúng cho tất cả các vectơ thỏa mãn điều kiện bài toán. Trên thực tế, hãy để $k = 1/2 - \varepsilon$. Chúng ta hãy lấy ba vectơ thẳng hàng có độ dài $\varepsilon$, $1/2 - \varepsilon$, $1/2$ tương ứng với các vectơ có độ dài $\varepsilon$ và $1/2 - \varepsilon$ theo một hướng và một vectơ có độ dài $1/2$ theo hướng ngược lại. Chúng thỏa mãn điều kiện bài toán, nhưng đồng thời
+
+$$\varepsilon^2 + \left(\frac{1}{2} - \varepsilon\right)^2 + \left(\frac{1}{2}\right)^2 = \frac{1}{2} + 2\varepsilon^2 - \varepsilon > \frac{1}{2} - \varepsilon = k.$$
+
+Vấn đề chúng ta đã thảo luận cho phép có những khái quát hóa tự nhiên sau:
+
+Chứng minh rằng tổng bình phương các cạnh của $n$-giác có chu vi 1:
+
+a) không nhỏ hơn $1/n$;
+b) nhỏ hơn $1/2$;
+b) câu nói ở điểm 6) có thể được sử dụng không?
+
+A. A. Konishkov
+
+Trường học yêu thích bài toán
+
+lớp tám
+
+1. Tìm tất cả các giá trị nguyên của $x$ mà biểu thức $\frac{7x+1}{3x+4}$ lấy giá trị nguyên.
+2. Chứng minh rằng số $2^{10} + 5^{12}$ là hợp số.
+3. Chứng minh rằng trong bất kỳ hình ngũ giác lồi nào, bạn có thể chọn ba đường chéo để từ chúng tạo thành một hình tam giác.
+4. Cho một hình ngũ giác đều $P_1$ nội tiếp trong một hình tròn và một hình ngũ giác đều $P_2$ ngoại tiếp hình tròn này và chạm vào nó tại các đỉnh của hình ngũ giác $P_1$. Chúng ta hãy vẽ qua các đỉnh của hình ngũ giác $P_1$ và vẽ lại các đường thẳng về các cạnh của nó. Chúng sẽ tạo thành một hình ngũ giác đều $P_3$. Chứng minh rằng nếu $a_1, a_2, a_3$ là các cạnh của ngũ giác $P_1, P_2, P_3$ thì $a_3^2 = a_2^2 - a_1^2$.
+5. Hai đáy của hình thang có chiều dài là 3 và 15. Có thể bán kính của một hình tròn nội tiếp hình thang có chiều dài là 4 không?
+
+lớp chín
+
+6. Chứng minh rằng phương trình $xy + yz + zx = 1$ có vô số lời giải là số nguyên.
+7. Giải hệ phương trình bằng số dương
+
+$$\begin{cases} x_1 + x_2 + \dots + x_n = 3, \\ \frac{1}{x_1} + \frac{1}{x_2} + \dots + \frac{1}{x_n} = 3. \end{cases}$$
+
+8. Trong tam giác nhọn $ABC$ vẽ các đường cao $AA_1, BB_1, CC_1$, cắt nhau tại điểm $H$. Chứng minh công thức bán kính $R$ của đường tròn ngoại tiếp:
+
+$$R = \frac{1}{2}AH^2 \cdot \frac{A_1H}{B_1H \cdot C_1H}.$$
+
+9. Các điểm $C$ và $D$ nằm trên một đường thẳng, nhưng các điểm $A$ và $B$ không nằm trên đường thẳng đó. Dùng compa và thước kẻ, tìm điểm $M$ trên đường thẳng này sao cho $\angle BMD = 2\angle AMC$.
+10. Được biết, $tg a_1 \cdot tg a_2 \dots tg a_n = 1$. Tìm giá trị lớn nhất có thể có của sản phẩm $sin a_1 \cdot sin a_2 \dots sin a_n$.
+
+lớp mười
+
+11. Giải hệ phương trình
+
+$$x_1^2 = x_3, x_2^2 = x_4, \dots, x_n^2 = x_n - 1 = x_n, x_n^2 = x_n - 1 = x_n, x_n^2 = x_n - 1 = x_n, x_n^2 = x_n - 1 = x_n, x_n^2 = x_n - 1 = x_n, x_n^2 = x_n - 1 = x_n, x_n^2 = x_n - 1 = x_n, x_n^2 = x_n - 1$$
+
+12. Từ hình vuông $ABCD$ từ cạnh $a$ họ cắt ra bốn hình tròn phẳng nhất, sao cho đường thẳng và hình vuông có một góc chung $A$. Kích thước phẳng nhất của hình chữ nhật là gì?
+
+13. Có thể sử dụng một mặt phẳng để thu được một hình tam giác đều không?
+14. Bốn tia ló ra từ điểm $O$ trong không gian sao cho góc giữa hai tia bất kỳ bằng nhau. Tìm góc này.
+15. Tại số tự nhiên nào $n$ thì số $\frac{n^2}{(1,1)^n}$ sẽ phẳng nhất?
+
+Zadchit 2, 3, 6, 9-11, 13, 15 được L. D. Kurlyandchik gợi ý cho chúng tôi, bài toán 1, 5 - P. P. Gornusha, bài toán 4 - T. N. Demina, bài toán 8 - Yu. N. Khokhlenko, bài toán 7, 14 - V. A. Yasinsky, bài toán 12 - E. G. Gotman.

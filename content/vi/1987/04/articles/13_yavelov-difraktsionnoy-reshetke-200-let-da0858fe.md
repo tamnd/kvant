@@ -1,0 +1,48 @@
+---
+id: 1987-4-yavelov-difraktsionnoy-reshetke-200-let-da0858fe
+issue: kvant_1987_4
+year: 1987
+number: "4"
+title: Cách tử nhiễu xạ - 200 năm
+authors:
+  - Явелов Б. Е.
+rubric: raznoe
+rubric_sub: Разное
+page_first: 39
+page_last: 39
+page_labels: "37"
+tag: PQ3S
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 1a1c7312617121cefc20e6340a4d149e46a85d213b9c97fd0f06feb63462e25d
+prompt_sha256: draft-1
+translated_from: content/ru/1987/04/articles/13_yavelov-difraktsionnoy-reshetke-200-let-da0858fe.md
+source_content_sha256: 475f195a79202340c52bc3157f04c62bcbb113d143e6f0a1616842c36bd6da0c
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 37⟧
+
+Nguyên tắc này có lẽ không làm Dalton hài lòng lắm. Nghĩa đen chỉ vài dòng sau khi xác định thành phần của nước, ông viết: "Cuối cùng, chúng ta phải thừa nhận khả năng nước có thể là một hợp chất bậc ba. Trong trường hợp này, nếu hai nguyên tử hydro kết hợp với một nguyên tử oxy thì nguyên tử oxy phải nặng gấp 14 lần nguyên tử hydro...
+
+Dalton đã không đi xa hơn thế này. Hơn nữa, ông cực kỳ thù địch với mọi nỗ lực của các nhà nghiên cứu khác nhằm thay đổi hoặc làm rõ kết quả của ông. Nhưng ông không để lại bí mật khoa học cho đến cuối đời. Vào ngày 27 tháng 7 năm 1844, vài giờ trước khi qua đời và đã đến gần, John Dalton leo lên tháp hội nghị lần cuối cùng và với bàn tay run rẩy đã ghi lại 200.000 mục cuối cùng trong nhật ký của mình...
+
+Những sai lầm của Dalton đã được sửa chữa trong suốt cuộc đời của ông bởi nhà hóa học nổi tiếng người Thụy Điển Jacob Berzelius. Là người ủng hộ thuyết phục lý thuyết nguyên tử của Dalton, Berzelius đồng thời viết: “Các con số của Dalton thiếu độ chính xác cần thiết cho việc áp dụng lý thuyết của ông vào thực tế”. Năm 1826, theo ý tưởng của nhà khoa học người Anh, Berzelius đã biên soạn một bảng trọng lượng nguyên tử, về cơ bản không khác gì bảng hiện đại.
+
+Cách tử nhiễu xạ - 200 năm
+
+Hầu như không có thiết bị nào trong vật lý hiện đại có khả năng như cách tử nhiễu xạ, cho phép người ta xác định chính xác và đáng tin cậy các bước sóng ánh sáng.
+
+Các thiết bị quang phổ sử dụng cách tử nhiễu xạ lần đầu tiên được chế tạo bởi nhà quang học nổi tiếng người Đức I. Fraunhofer (1787-1826) vào những năm 20. Và trong hơn một trăm năm, người ta tin rằng chính ông là người đã phát minh ra cách tử nhiễu xạ. Nhưng vào năm 1932, khi Hoa Kỳ đang chuẩn bị tưởng niệm một trong những người sáng lập ngành vật lý và thiên văn học ở Tân Thế giới, D. Rittenhouse (1732-1796), người ta bất ngờ phát hiện ra rằng nhà khoa học này đã chế tạo và nghiên cứu cách tử nhiễu xạ vào năm 1786.
+
+Tiểu sử của Davida Rittenhouse khá nổi tiếng. Từ khi còn nhỏ, anh đã quan tâm đến các cơ chế và thiết bị mang tính xây dựng khác nhau. Sau đó, “vật lý tự nhiên” đã được thêm vào những sở thích này, thứ mà ông đã xây dựng bằng cách nghiên cứu công trình của Newton vĩ đại. Việc chế tạo các dụng cụ vật lý và thiên văn, nghiên cứu và quan sát với sự trợ giúp của chúng đã trở thành công việc để đời của ông. Nguyên bản về thiết kế và sử dụng kỹ thuật xuất sắc, đồng hồ bấm giờ, nhiệt kế, cung thiên văn, hệ thống quang học và các dụng cụ khác của Rittenhouse thuộc về những công cụ nghiên cứu tiên tiến nhất trong thời đại của ông. Rittenhouse đã nghiên cứu khả năng lướt qua nước và sự giãn nở nhiệt của gỗ, nghiên cứu sự đồng hóa của cột thu lôi và thử nghiệm với nam châm. Như đã nói, hóa ra trong sự hiểu biết của ông về bản chất của từ tính trong chất rắn, ông đã đi trước những người cùng thời gần một trăm năm.
+
+Những thành tựu khoa học của Rittenhouse không hề được chú ý.
+kiến thức - ông từng là giáo sư và hiệu trưởng của Đại học Pennsylvania, là thành viên danh dự của Hiệp hội Hoàng gia Luân Đôn, sau cái chết của B. Franklin nổi tiếng (1706-1790), ông được bầu làm chủ tịch Hiệp hội Triết học Hoa Kỳ, và cuối đời, ông được bổ nhiệm làm giám đốc của Mint.
+
+Một ngày tháng 3 năm 1785, Rittenhouse nhận được một lá thư từ một luật sư mà ông biết có nội dung xúc phạm ông một cách bất thường. "Thưa ông! - lá thư viết. - Tôi xin phép ông chú ý đến câu hỏi tiếp theo về quang học. Tôi tin rằng câu hỏi này hoàn toàn mới, và đáp số về nó sẽ làm ông hài lòng và sẽ là một vinh dự đối với tôi. Một buổi tối mùa hè năm ngoái, khi ngồi trước cửa nhà, tôi lấy từ trong túi ra một chiếc khăn tay lụa, giữ chặt trong tay và bắt đầu nhìn xuyên qua chiếc đèn đường cách nhà khoảng 90 m. Tôi tưởng sẽ thấy một cái cận cảnh vải của chiếc khăn.
+
+Mẫu nhiễu xạ thu được trong ánh sáng đơn sắc sử dụng cách tử nhiễu xạ.

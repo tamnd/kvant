@@ -1,0 +1,34 @@
+---
+id: 1987-1-s-novyim-godom-d4345e71
+issue: kvant_1987_1
+year: 1987
+number: "1"
+title: CHÚC MỪNG NĂM MỚI!
+rubric: osnovnye-stati
+page_first: 4
+page_last: 4
+page_labels: "2"
+tag: IWC4
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 8e4e17d12718bc5d3254ddcbfa094feb86b87418088b30fe3bcbed42fcad322d
+prompt_sha256: draft-1
+translated_from: content/ru/1987/01/articles/02_s-novyim-godom-d4345e71.md
+source_content_sha256: 7c314f52a9e7fd183a6b23c86b7f4c702c59dd966b153e141a959e791f789f40
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 2⟧
+
+CHÚC MỪNG NĂM MỚI!
+
+Năm 1987 đã đến - năm thứ hai của Kế hoạch 5 năm lần thứ XII, năm kỷ niệm 70 năm Cách mạng Tháng Mười vĩ đại. Đây sẽ là một năm làm việc căng thẳng trong điều kiện perestroika không ngừng đi sâu, bắt nguồn từ sự phát triển kinh tế xã hội của nước ta. Cần củng cố những thắng lợi đạt được sau Hội nghị Trung ương Đảng tháng 4 (1985) và Đại hội Đảng XXVII, tự tin tiến lên trên con đường tăng cường tăng cường nền kinh tế đất nước. Những chuyển biến mang tính cách mạng của lực lượng sản xuất, sự hoàn thiện quan hệ sản xuất và toàn bộ đời sống xã hội của xã hội đang diễn ra. Hệ thống giáo dục và đào tạo hiện đại sẽ phải thay đổi nhiều. Chủ nghĩa xã hội có lượng dự trữ khổng lồ trong mọi lĩnh vực của xã hội, và những khoản dự trữ này cần được đưa vào hoạt động càng nhanh càng tốt.
+
+Đại hội XX của Komsomol đang ở phía trước. Ông sẽ thảo luận về những vấn đề mà cuộc sống đặt ra cho Komsomol và tuổi trẻ ở giai đoạn tái cơ cấu căn bản nền kinh tế của chúng ta. Trong chương trình nghị sự là việc mở rộng quyền của Komsomol (bao gồm cả pháo binh trị giá hàng triệu đô la), phát triển sáng kiến, tính độc lập và tăng cường trách nhiệm đối với đất nước. Điều này giúp có thể thu hút thanh niên một cách tích cực hơn nữa - bộ phận năng động nhất, dẫn đầu trong xã hội - đến với lời giải quốc gia bài toán.
+
+Độc giả thân mến của chúng tôi! Bạn sẽ được trải nghiệm một cuộc sống thú vị nhất trong điều kiện cuộc cách mạng khoa học công nghệ không ngừng phát triển. Với tư cách là Tổng Bí thư Ban Chấp hành Trung ương CPSU M.S. Gorbachev cho rằng, kế hoạch 5 năm hiện nay là kế hoạch 5 năm khó khăn, phức tạp nhất nhưng cũng thú vị nhất. Hãy nghĩ về những lời này - xét cho cùng, chúng là tương lai trước mắt của bạn. Nó sẽ đòi hỏi kiến ​​​​thức và kỹ năng đáng kể từ bạn. Một trong những yêu cầu quan trọng nhất của cuộc sống là khả năng học tập độc lập. Đất nước cần những người lao động có trình độ học vấn cao tận tâm với quá trình tiếp thu kiến ​​thức mới và kiến ​​thức kỹ thuật tốt về quá trình này. Và tạp chí của chúng tôi sẽ cố gắng giúp bạn phát triển những kỹ năng quan trọng này.
+
+Chúng tôi chúc bạn thành công trong năm mới!

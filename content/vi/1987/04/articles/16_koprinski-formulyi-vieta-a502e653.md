@@ -1,0 +1,80 @@
+---
+id: 1987-4-koprinski-formulyi-vieta-a502e653
+issue: kvant_1987_4
+year: 1987
+number: "4"
+title: Công thức Vieta
+authors:
+  - Копрински С. Ц.
+rubric: shkola-v-kvante
+page_first: 43
+page_last: 43
+tag: "2753"
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 52e46cd9473d04cbf7a04fa49532d54e434928f246482b6366983cff12017a48
+prompt_sha256: draft-1
+translated_from: content/ru/1987/04/articles/16_koprinski-formulyi-vieta-a502e653.md
+source_content_sha256: 562a2714e4187c3fcb23c90f2648f9d688ed5a171760be9acd4e4b7ef4394971
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+Vì đoạn AFC nằm bên trong hình chữ nhật nên ta có các bất đẳng thức nguyên:
+$$0 < S_{AFC} < S_{ABCD},$$
+$$0 < \frac{1}{2} x - \frac{1}{2} \sin x < \frac{x^3}{2},$$
+$$0 < 1 - \frac{\sin x}{x} < x^2$$
+(trong khoảng 0 < x < $\frac{\pi}{2}$).
+
+Bây giờ chúng ta lưu ý rằng hàm $\frac{\sin x}{x}$ là số chẵn, do đó bất đẳng thức (*) cũng đúng trong khoảng $-\frac{\pi}{2} < x < 0$, tức là nó đúng với mọi $x$ thỏa mãn điều kiện $0 < |x| < \frac{\pi}{2}$.
+
+Vì $x^2 \rightarrow 0$ cho $x \rightarrow 0$, nên với bất kỳ $\varepsilon > 0$ nào, người ta có thể chỉ định một vùng lân cận sao cho với tất cả $x$ từ vùng lân cận này, $x \neq 0$ sẽ thỏa mãn bất đẳng thức $x^2 < \varepsilon$. Có tính đến (*), chúng tôi có được điều đó cho tất cả $x$ từ vùng lân cận này, $x \neq 0$, chúng tôi có
+$$1 - \frac{\sin x}{x} = \left| 1 - \frac{\sin x}{x} \right| < \varepsilon.$$
+
+Điều này có nghĩa là $\lim_{x \rightarrow 0} \frac{\sin x}{x} = 1$ – định lý của chúng ta đã được chứng minh.
+
+G. A. Sorokin
+
+Công thức Vieta
+
+Trong môn đại số phổ thông (xem “Đại số 7”, đoạn 23), định lý Vieta được chứng minh cho các phương trình bậc hai đã cho. Tuy nhiên, một định lý tương tự cũng đúng cho các phương trình bậc ba, và cho các phương trình bốn bậc, và nói chung cho các phương trình đại số tùy ý có bậc $n$, và hệ số dẫn đầu (tại $x^n$) không nhất thiết phải bằng một.
+
+Với $n=1$, chúng ta thu được phương trình tuyến tính $ax+b=0$ và nếu $x_1$ là nghiệm của nó, thì $ax_1+b=0$, từ đó
+$$x_1 = -\frac{b}{a}.$$
+
+Giả sử có một phương trình bậc hai $ax^2+bx+c=0$ ($a \neq 0$) và lấy $x_1$ là nghiệm của nó. Sau đó
+$$ax_1^2+bx_1+c=0.$$
+
+Trừ đẳng thức $ax_1^2+bx_1+c=0$ khỏi phương trình $ax^2+bx+c=0$, ta thu được
+$$a(x-x_1)^2+b(x-x_1)=0,$$
+Ở đâu
+$$(x-x_1)(ax+ax_1+b)=0.$$
+
+Vì $x_1$ là nghiệm của phương trình $x-x_1=0$ nên nghiệm thứ hai của phương trình bậc hai $x_2$ thỏa mãn phương trình
+$$ax_2+ax_1+b=0.$$
+
+Có nghĩa,
+$$x_1+x_2 = -\frac{b}{a}.$$
+
+Đây là công thức đầu tiên của Vieta cho phương trình bậc hai. Kế tiếp,
+$$x_1^2 + \frac{b}{a}x_1 + \frac{c}{a} = 0,$$
+hoặc
+$$x_1^2 - (x_1+x_2)x_1 + \frac{c}{a} = 0,$$
+nơi chúng tôi có được công thức Vieta thứ hai
+$$x_1x_2 = \frac{c}{a}.$$
+
+Lưu ý rằng khi rút ra cả hai công thức Vieta, chúng tôi không gặp bất kỳ công thức nào về nghiệm của phương trình bậc hai. (Nhân tiện, bạn có thể dễ dàng tìm thấy chúng từ công thức của Vieta.)
+
+Bằng cách sử dụng các công thức của Vieta, chúng ta có thể chứng minh một định lý hữu ích: nếu $x_1$ và $x_2$ là nghiệm của tam thức bậc hai $f(x)=ax^2+bx+c$, thì $f(x) = a(x-x_1)(x-x_2)$. Trong thực tế,
+$$f(x) = ax^2+bx+c = a(x^2 - \left(-\frac{b}{a}\right)x + +\frac{c}{a}) = a(x^2 - (x_1+x_2)x + x_1x_2) = a((x^2-x_1x) - (x_2x-x_1x_2)) = a(x-x_1)(x-x_2).$$
+
+Đối với nghiệm của phương trình bậc ba, các công thức của Vieta đều được rút ra theo cách tương tự nhưng để người đọc hiểu rõ hơn về các kỹ thuật kỹ thuật, chúng ta sẽ thực hiện lại toàn bộ trình tự các bước.
+
+Đối với trường hợp tổng quát của phương trình đại số bậc $n$, bạn đọc quen với phương pháp quy nạp toán học hoàn chỉnh sẽ có thể tự rút ra được công thức của Vieta. Ở đây chúng tôi sẽ chỉ viết ra những công thức này.
+
+Hãy để phương trình này
+$$a_0x^n + a_1x^{n-1} + a_2x^{n-2} + \dots + a_nx^n = 0.$$

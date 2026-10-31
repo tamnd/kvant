@@ -1,0 +1,56 @@
+---
+id: 1987-1-gik-kompyuter-analiziruet-endshpil-728ec1e1
+issue: kvant_1987_1
+year: 1987
+number: "1"
+title: Máy tính phân tích tàn cuộc
+authors:
+  - Гик Е. Я.
+rubric: shahmatnaya-stranichka
+rubric_sub: Шахматы
+page_first: 67
+page_last: 67
+tag: 8X80
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 86fbe30fa0ee5bbfa671a3c123e2011fb1af2a877bcb736cb17de87bc96ef047
+prompt_sha256: draft-1
+translated_from: content/ru/1987/01/articles/01_gik-kompyuter-analiziruet-endshpil-728ec1e1.md
+source_content_sha256: 94ecc1b049032eaea73fc9bd072494a3a99f4f5bf458e07224ee6d07b86b8b00
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 43⟧
+
+MÁY TÍNH
+PHÂN TÍCH
+KẾT THÚC
+
+Năm ngoái chúng ta đã nói về những thành tựu mới của máy tính trong nghiên cứu về kết thúc cờ vua. Ở số 2, có thông tin cho rằng máy tính đã phân tích kỹ lưỡng cái kết rất phức tạp “một vị vua và hai vị giám mục có màu da đối lập chống lại một vị vua và một hiệp sĩ”. Cho đến gần đây, vẫn được coi là hòa nhưng máy tính đã chứng minh rằng bên mạnh hơn đã giành chiến thắng và ở thế kỷ lục, khi cả hai bên đều chơi theo cách tốt nhất, hai quân cờ đã xử lý hiệp sĩ chỉ trong 67 nước đi. Một máy chủ khác ra đòn theo quy tắc 50 nước đi!
+
+Hãy để chúng tôi trình bày tùy chọn chính được chỉ ra bởi chương trình do O. Komziy viết. 1. Ca4+ Kp1 2. Cb2 Kpd2 3. Kpa1 Kc3 4. Cc6 Kpc2 5. Ca3 Kpb3 6. Cf8 Kpc2 7. Cg7 Kpb3 8. Ce8 Kpc2 9. Cg6+ Kpb3 10. Ch7 Kpc4 11. Kpb2 Ke2 12. Kpc2 Kd4+ 13. Kpd2 Kpd5 14. Kpe3 Ke6 15. Cf6 Kc5 16. Cg8+ Kpd6 17. Ca2 Kd7 18. Cg7 Kc5 19. Cf8+ Kpc6 20. Kpd4 Kb7 21. Ce7 Kpb6 22. Cf6 Kpc6 23. Cd5+ Kpb6 24. Ce4 Kpa7 25. Kpc3 Kpa6 26. Kpb4 Kpb6 27. Cg5 Kpc7 28. Cf4+ Kpb6 29. Cg3 Kd8 30. Cf2+ Kpc7 31. Kpb5 Kpd6 32. Cg3+ Kpe6 33. Cc2 Kf7 34. Cb3+ Kpf6 35. Ch4+ Kpg6 36. Kpc5 Kg5 37. Cc2+ Kph5 38. Cg3 Kpg4 39. Cd6 Kpf3 40. Kpd4 Kpf2 41. Kpd3 Kf3 42. Cc5+ Kpg3 43.
+
+Ke3 Kh4 44. Cd6+ Kpg4 45. Kre4 Kf5 46. Cc5 Kh4 47. Cf2 Kg6 48. Cb3 Kpg5 49. Cb6 Kf8 50. Cd8+ Kpg6 51. Kpd5 Kpf7 52. Kpd6+ Kpg7 53. Kpe7 Kg6+ 54. Kpe6 Kf8+ 55. Kpf5 Kd7 56. Ce7 Kf8 57. Cf6+ Kph6 58. Ch8 Kph7 59. Cd4 Kph6 60. Cf7 Kh7 61. Ce8 Kf8 62. Kpf6 Kh7+ 63. Kpf7 Kg5+ 64. Kpg8 Kf3 65. Ce3+ Kpg5 66. Kpf8 Kph7 67. C:g5 và congitb đen.
+
+K. Thompson, tác giả của chương trình Bell, công ty đứng thứ ba về máy tính trên thế giới, trong những năm gần đây đã phát triển nhiều chương trình máy tính để phân tích một số phần cuối nhất định. Đối với một ván cờ kết thúc với hai quân tượng khi kết thúc chương trình của anh ta, hơi phi hợp đồng (66 nước đi), nó đã thực hiện công việc phân tích phía máy chủ và xác định các vị trí chiến thắng đặc trưng, ​​​​cũng như chín loại vị trí trong đó (trái với quy tắc chung) bên mạnh hơn không thể tránh việc đổi một trong các quân tượng lấy một quân mã hoặc vấn đề kết thúc bằng séc vĩnh viễn (tất nhiên, các vị trí mà Đen chiếm quân tượng ở nước đi đầu tiên sẽ không được tính).
+
+Vì vậy, ở đây chúng ta có ví dụ đầu tiên về một chương trình máy tính không chỉ có khả năng đánh giá các phần cuối thuộc loại khá phức tạp mà còn tạo ra một phân loại nhất định các phần cuối hữu ích cho lý thuyết.
+
+Vì vậy, trong cuộc chiến giữa hai từ chống lại mục đích cuối cùng, trong những trường hợp hiếm hoi, không đạt được kết quả gì. Sử dụng máy tính, Thompson đã biên soạn các bảng với bốn quân cố định và quân thứ năm - vua trắng - có thể chiếm bất kỳ ô nào.
+
+Khi vua được đặt trên một ô tùy ý có sẵn cho mình, Trắng bắt đầu sẽ thắng. Và số lần di chuyển này yêu cầu được chỉ định vô thời hạn trên mỗi trường. Có thể thấy, việc giành chiến thắng ở đây với chưa đầy 50 nước đi không phải là ngoại lệ mà là quy luật.
+
+Trước đây, luật cờ trong luật 50 nước quy định đối với các thế cờ mà số lượng như vậy không đủ thì phải báo trước. Tuy nhiên, tôi chưa bao giờ sử dụng điều khoản này và sau đó nó đã bị hủy bỏ. Thay vào đó, mã đã tạo ra ngoại lệ cho ba loại kết thúc. Giờ đây, máy tính đã đạt được tiến bộ nội bộ như vậy trong việc nghiên cứu tàn cuộc, rõ ràng là điều này đã đạt được và việc quay trở lại vị trí cũ là có ý nghĩa trực tiếp. Chính xác hơn, mã phải chứa danh sách tất cả các loại vị trí “đặc biệt” và cung cấp khả năng cập nhật nó.
+
+Nhiệm vụ thi đấu
+
+Trong số này, chúng tôi đang bắt đầu một cuộc thi cờ vua mới. Người chiến thắng sẽ được chỉ định các hạng mục thể thao, họ cũng sẽ có đầy đủ các tài liệu về cờ vua của tác giả A. Karpov, các bằng cấp và huy hiệu tạp chí «Kvant».
+
+1. Trắng bắt đầu và chiếu hết sau 2 nước đi.
+
+2. Trắng bắt đầu và chiếu hết sau 3 nước đi.
+
+Hạn chót gửi lời giải là ngày 20 tháng 3 năm 1987 với ghi chú trên phong bì: “Thi đấu cờ vua «Kvant», nhiệm vụ 1, 2.”

@@ -1,0 +1,38 @@
+---
+id: 1987-6-smorodinskiy-antiproton-v-lovushke-0d84dbfa
+issue: kvant_1987_6
+year: 1987
+number: "6"
+title: Phản proton bị bẫy
+authors:
+  - Смородинский Я. А.
+rubric: novosti-nauki
+rubric_sub: Новости науки
+page_first: 9
+page_last: 9
+tag: 3ZNQ
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 1a72b90d0667483f8d026ea7f6c00502fdff99584cd98dd6f7167a68c17b8bdf
+prompt_sha256: draft-1
+translated_from: content/ru/1987/06/articles/02_smorodinskiy-antiproton-v-lovushke-0d84dbfa.md
+source_content_sha256: 3b3eeeec2bf1ea70a7de535eb92b0bd9206686529a7da138a25d7795cf6ed87d
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+Phản proton bị bẫy
+
+Chỉ một trăm năm trước, nhiều người không tin vào sự tồn tại thực tế của các nguyên tử. “Những gì không thể nhìn thấy thì không thể tồn tại” - lập luận này được coi là không thể phủ nhận. Bây giờ điều đó đơn giản là vô lý, vì không chỉ các nguyên tử, mà ngay cả các hạt cơ bản riêng lẻ giờ đây đã trở thành đối tượng nghiên cứu thực sự.
+
+Máy đếm trong phòng thí nghiệm để ghi lại neutron, photon, electron, v.v. Các cơ sở được tạo thành từ một số lượng lớn máy dò đặc biệt được giấu ở trên cao ở Edison - nhưng chất lỏng thay thế của bạn sẽ được lưu trữ trong cái gì? Đối với electron cũng vậy. Rõ ràng là nó sẽ không thể sống trong một bình chứa, ngay cả khi chân không tối đa có thể được tạo ra ở đó - electron sẽ chỉ "dính" vào tường.
+
+Chưa hết, một electron cũng như một phản electron - positron - đều có thể được lưu trữ, lưu giữ trong thời gian dài. Bẫy electron hoặc positron có thể được tạo ra bằng cách sử dụng điện trường và từ trường. Trong từ trường, electron chuyển động theo hình tròn hoặc xoắn ốc. Điện trường được tạo ra trong các tụ điện có hình dạng đặc biệt ngăn không cho hạt tích điện thoát ra theo hình xoắn ốc. Bằng cách kết hợp cả hai trường, người ta có thể “bắt” được phần tích điện của hạt: sự thay đổi chính xác về khối lượng, mômen từ của nó, v.v. Cuối cùng, có thể “đặt” một positron vào bẫy và tạo ra phản nguyên tử - phản hydro.
+
+Bạn có thể nghĩ ra nhiều trải nghiệm thú vị khác, chỉ cần vượt qua những khó khăn còn sót lại một chút là được. Các nhà khoa học hy vọng rằng “phản proton bị bẫy” sẽ sớm trở thành vật trưng bày hấp dẫn trong phòng thí nghiệm vật lý.
+
+TÔI Ở VỚI.

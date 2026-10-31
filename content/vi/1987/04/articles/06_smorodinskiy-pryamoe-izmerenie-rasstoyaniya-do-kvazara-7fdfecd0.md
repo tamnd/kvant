@@ -1,0 +1,65 @@
+---
+id: 1987-4-smorodinskiy-pryamoe-izmerenie-rasstoyaniya-do-kvazara-7fdfecd0
+issue: kvant_1987_4
+year: 1987
+number: "4"
+title: Đo trực tiếp khoảng cách tới một chuẩn tinh
+authors:
+  - Смородинский Я. А.
+rubric: novosti-nauki
+rubric_sub: Новости науки
+page_first: 21
+page_last: 21
+page_labels: "19"
+tag: TL3H
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 79ab721bf1fcaf5e9cf4d949b8000f20b2aed89350b06b5f83946ed20679d68b
+prompt_sha256: draft-1
+translated_from: content/ru/1987/04/articles/06_smorodinskiy-pryamoe-izmerenie-rasstoyaniya-do-kvazara-7fdfecd0.md
+source_content_sha256: a23b0bc5393efef85469e8afb3398a406be7fdfa112f02f6afcf2a2fb0a926e0
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 19⟧
+
+Đo trực tiếp khoảng cách tới một chuẩn tinh
+
+Một trong những thiên văn học bài toán khó nhất là xác định khoảng cách đến các thiên thể, đặc biệt là những thiên thể ở xa, chẳng hạn như chuẩn tinh và cụm thiên hà. Để hiểu rõ hơn cách thực hiện điều này, trước tiên chúng ta hãy thảo luận về một số vấn đề cụ thể.
+
+Sự rút lui của các thiên hà. Vũ trụ đang giãn nở - các thiên hà, chuẩn tinh, cụm thiên hà đang di chuyển ra xa chúng ta và xa nhau. Tốc độ loại bỏ v tỷ lệ thuận với khoảng cách R và được liên hệ với nó bằng một công thức đơn giản
+
+$$v = HR,$$
+
+trong đó H được gọi là số nguyên tố Hubbell.
+
+Vận tốc có thể được xác định bằng Doppler hiệu dụng: sự thay đổi bước sóng của bức xạ quan sát được khi nguồn chuyển động so với người quan sát. Do đó, khi nguồn di chuyển ra xa người quan sát, phổ bức xạ sẽ dịch chuyển sang phía đỏ, do đó sự tăng tương đối của bước sóng $\Delta \lambda / \lambda_0$ có liên hệ với vận tốc lùi v theo công thức
+
+$$\frac{\Delta \lambda}{\lambda_0} = \left(1 + \frac{v}{c}\right)\gamma = \left(1 + \frac{v}{c}\right)\frac{1}{\sqrt{1-v^2/c^2}}.$$
+
+Hệ số γ là do lý thuyết tương đối đặc biệt và do sự thay đổi tốc độ xung nhịp trong hệ thống báo cáo chuyển động.
+
+Hằng số Hubbell. Giá trị của H cho biết tốc độ tăng tốc tăng bao nhiêu km/giây khi khoảng cách tăng thêm một merapsec (1 parekk = 3,6 năm ánh sáng = 3 × 10$^{13}$ km). Hằng số này rất khó thay đổi. Để làm điều này, một lần nữa, bạn cần biết khoảng cách đến nguồn.
+
+Có nhiều phương pháp khác nhau để ước tính khoảng cách. Ví dụ, biết độ lớn tuyệt đối và độ lớn nhìn thấy của một vật thể (bạn có thể đọc về điều này trong § 23 của sách giáo khoa thiên văn học). Độ lớn tuyệt đối thường được gọi là độ lớn biểu kiến ​​mà một vật thể phát sáng sẽ có nếu nó ở cách chúng ta một khoảng tiêu chuẩn là 10 parekka. Để tính giá trị này, bạn cần biết cấu trúc của nguồn và về điều này, bạn chỉ có thể đưa ra các giả định không thể xác minh được.
+
+Hai nhóm nhà vật lý thiên văn khác nhau (dựa rất rõ ràng vào những điều khác nhau về vật thể phát sáng) đưa ra hai giá trị cho H: 50 và 100 km/s trên mỗi giây kim loại. Các ước tính khác, trung gian cũng có thể thực hiện được.
+
+Thấu kính hấp dẫn. Nếu trên đường đi của tia sáng từ một vật thể ở xa tới chúng ta có một vật thể có khối lượng rất lớn đến mức trường đá granit của nó có khả năng làm chệch hướng ánh sáng giống như một thấu kính, thì cùng với một vật thể phát sáng, hai hình ảnh của nó xuất hiện trên bầu trời.
+
+Ngôi sao được đánh dấu bằng mũi tên trong bức ảnh vào đầu thế kỷ này đối với chúng ta là chuẩn tinh ở xa nhất cũng như sáng nhất.
+
+Ví dụ, một vật thể to lớn như vậy có thể là một thiên hà. Nếu nó nằm chính xác trên đường nối Trái đất và nguồn sáng thì bạn sẽ thấy một vòng phát sáng. Nếu thiên hà bị đẩy nhẹ sang hai bên thì vòng tròn sẽ biến thành hai điểm sáng nằm trong mặt phẳng trong đó nguồn, thiên hà và người quan sát phát sáng.
+
+Hiện tượng tách ảnh bằng thấu kính granit hóa được phát hiện vào năm 1979. Kể từ đó, một số thấu kính như vậy đã được tìm thấy. “Mạnh mẽ” nhất trong số chúng, được phát hiện vào mùa xuân năm ngoái, cung cấp hai hình ảnh về một chuẩn tinh ở xa. Chúng nằm cách nhau một khoảng cách góc khoảng hai giây mỗi phút và cho quang phổ hình ảnh giống hệt nhau.
+
+Khoảng cách. Khám phá tuyệt vời về việc nhân đôi chuẩn tinh (và có thể gấp ba!) hóa ra lại rất hữu ích cho các nhà thiên văn học. Người ta thấy rằng độ lớn của một quasar như vậy không phải là hằng số và thay đổi theo thời gian. Các hình ảnh “nhấp nháy” nhưng không đồng loạt - cái này chậm hơn cái kia khoảng 1,5 năm. Điều này có thể hiểu là do ánh sáng truyền trong không gian vũ trụ tuân theo một hằng số từ nguồn, rồi đến hằng số Hubbell. Các tính toán cho giá trị H=84 km/s trên mỗi giây kim loại - giá trị nằm giữa giới hạn được chấp nhận hiện tại (50 và 100).
+
+Đây là cách giải bài toán đầu tiên của cái gọi là lượng giác vũ trụ và thang đo khoảng cách tuyệt đối bắt đầu được xây dựng trong không gian. Nếu chúng ta cũng nhớ sự cần thiết của một chiếc đồng hồ chính xác - pulsarch (ví dụ, xem «Kvant», 1983, Số 12, trang 12 và «Kvant», 1985, Số 2, trang 12), thì những từ về hình học của vũ trụ - về không gian và thời gian - sẽ mang một ý nghĩa rõ ràng.
+
+Tất nhiên, mọi điều được nói ở đây đều cần được xác minh. Thời gian sẽ trả lời liệu thấu kính granitium có giúp đo chính xác hằng số H hay không. Hiện tại, ngay cả những điều thiết yếu nhất cũng đang bị đặt dấu hỏi. Rõ ràng là sẽ cần thêm một chút ý tưởng và kỹ năng quan sát để giải bài toán “về việc tìm khoảng cách từ điểm A đến điểm B” nếu các điểm này cách nhau một khoảng cách hàng triệu parekka.
+
+TÔI Ở VỚI.
