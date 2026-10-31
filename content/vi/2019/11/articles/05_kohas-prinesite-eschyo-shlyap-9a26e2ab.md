@@ -1,0 +1,47 @@
+---
+id: 2019-11-kohas-prinesite-eschyo-shlyap-9a26e2ab
+issue: kvant_2019_11
+year: 2019
+number: "11"
+title: Mang thêm mũ nữa!
+authors:
+  - Кохась К. П.
+rubric: matematicheskiy-kruzhok
+rubric_sub: Математический кружок
+page_first: 39
+page_last: 39
+page_labels: "37"
+tag: OE6P
+lang: vi
+source: kvant_digital
+extraction: native
+content_sha256: 893b03a5c0f9858166b618b447b7e0752637f818670aa516cc26fb9eca9d644e
+prompt_sha256: draft-1
+translated_from: content/ru/2019/11/articles/05_kohas-prinesite-eschyo-shlyap-9a26e2ab.md
+source_content_sha256: bd24102ad2f95e059932e13b229d8234396d1e9b4bd6ff240cb1b804ef97afcf
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 37⟧
+
+TOÁN HỌC
+
+KR U ZHOK
+
+Chúng tôi không thể làm gì với con số này, thậm chí chúng tôi còn cảm thấy khó đọc thành tiếng. Có vẻ như câu hỏi của người xem lại không có đáp số! Đợi đã, tôi vừa nói “người xem TV của chúng ta” phải không? Maestro, thừa nhận đi, đây lại là âm mưu của anh à? Một lần nữa, ẩn dưới một bút danh, bạn đã gửi một câu hỏi
+
+⟦column⟧
+
+lớn lên để phá vỡ dòng truyền tải yên tĩnh của chúng ta? - Không, không, tôi không liên quan gì đến chuyện xảy ra hôm nay. Mặc dù, bạn biết đấy... Gần đây tôi đã nói với Busenka về việc khiến bạn rơi vào trạng thái sững sờ dễ dàng và dễ chịu như thế nào chỉ với sự trợ giúp của một câu hỏi tưởng chừng như vô hại...
+
+Mang thêm mũ nữa!
+
+và màu sắc cũng được đánh số từ 0 đến n – 1. Người khôn ngoan nào cũng nhìn thấy tất cả những chiếc mũ ngoại trừ chiếc mũ của mình. Điều này có nghĩa là anh ta biết tổng của tất cả các số ngoại trừ một số (của chính anh ta). Sau đó, hãy để nhà thông thái thứ k đặt tên cho màu sắc của mình, dựa trên giả định rằng tổng của tất cả các số cho số dư k khi chia cho n. Ví dụ: cho n = 8 và nhà thông thái thứ ba thấy tổng các số của các nhà thông thái khác là 20. Khi đó anh ta phải đặt tên cho số 7, vì chỉ trong trường hợp anh ta có chiếc mũ có màu thứ 7, tổng tất cả các số (trong trường hợp này là 27) sẽ dư 3 khi chia cho 8. Lưu ý rằng chiến lược được mô tả là rất “kinh tế” theo nghĩa là đối với mỗi lần phân phối mũ, chỉ có một nhà thông thái đoán màu của chiếc mũ. Số của hiền nhân này trùng với phần còn lại của tổng các màu khi chia cho n. Chúng ta hãy nhìn nền kinh tế này từ một quan điểm khác. Yêu cầu thẩm phán lập danh sách trước tất cả các cách có thể để trao cho những nhà thông thái những chiếc mũ có màu sắc khác nhau. Chúng ta sẽ gọi mỗi phương pháp như vậy là sự sắp xếp mũ. Công việc không hề nhỏ, vì số lượng các bố cục đều bằng $n^{n}$ (vì mỗi người trong n nhà thông thái có thể được tặng một chiếc mũ có màu bất kỳ trong n màu). Sau đó, hãy để thẩm phán nghe lỏm được những gì các nhà thông thái đã đồng ý tại cuộc họp, và bên cạnh mỗi cách bố trí những chiếc mũ trong danh sách của mình, hãy viết ra những nhà thông thái nào đoán được màu sắc của chiếc mũ cho cách bố trí này. Bổ đề 1. Đối với mỗi k, dấu “nhà thông thái thứ k đoán” sẽ nằm chính xác bên cạnh bố cục $n^{n} 1$. Nói cách khác, mỗi nhà thông thái thắng chính xác $1^{n}$ tổng số ván bài. Bằng chứng. Giả sử rằng thẩm phán xem xét tất cả các lựa chọn để phân phát mũ theo cách sau: đầu tiên, ông ta ấn định màu sắc của tất cả các chiếc mũ ngoại trừ chiếc mũ của hiền nhân thứ k, và sau đó ông ta nghĩ về chiếc mũ nào trong số n chiếc mũ để trao cho hiền nhân thứ k. Vì màu sắc của mọi người
+
+K.KOKHAS
+
+HÃY XEM XÉT bài toán NỔI TIẾNG SAU ĐÂY về những nhà thông thái. Cuộc thi tiếp theo diễn ra. Có n nhà thông thái đứng thành một vòng tròn. Thẩm phán đội cho mỗi nhà thông thái một chiếc mũ có n màu. Bậc hiền nhân nào cũng nhìn thấy chiếc mũ của bậc hiền triết khác mà không nhìn thấy chiếc mũ của mình. Theo hiệu lệnh, các nhà thông thái (đồng thời) phải đưa ra giả thuyết về màu mũ của mình. Nếu ít nhất một nhà thông thái đoán được màu mũ của mình thì những nhà thông thái đó được coi là đã thắng cuộc thi. Trước cuộc thi, các hiền nhân có cơ hội tham khảo ý kiến, trong suốt cuộc thi không được phép chuyển giao thông tin. Liệu họ có thể đưa ra một chiến lược trong cuộc họp này để có thể giành chiến thắng theo cách nào đó không? Chiến lược đề cập đến một bộ hướng dẫn (khác nhau đối với mỗi nhà hiền triết) mà các nhà hiền triết nên tuân theo khi đưa ra giả thuyết của mình. Mỗi hướng dẫn như vậy là một tập hợp các quy tắc có dạng “nếu tôi nhìn thấy màu mũ như vậy và màu mũ như vậy trên những nhà thông thái như vậy, thì tôi sẽ đưa ra một giả thuyết như vậy”. Đặc biệt, chiến lược phải mang tính quyết định, nghĩa là nó không được chứa các hành động được thực hiện với một xác suất nào đó. Điều này có nghĩa là nếu cuộc thi lặp lại với cùng một bộ mũ thì các nhà thông thái sẽ cho đáp số như nhau. Lời giải cái bài toán này khá đẹp. Các bậc hiền nhân tự đánh số từ 0 đến n – 1
+
+DOI: https://doi.org/10.4213/kvant20191106

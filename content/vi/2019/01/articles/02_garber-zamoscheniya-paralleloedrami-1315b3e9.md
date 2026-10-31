@@ -1,0 +1,42 @@
+---
+id: 2019-1-garber-zamoscheniya-paralleloedrami-1315b3e9
+issue: kvant_2019_1
+year: 2019
+number: "1"
+title: Tessellations bởi hình bình hành
+authors:
+  - Гарбер А. И.
+rubric: kaleydoskop-kvanta
+rubric_sub: Калейдоскоп
+page_first: 34
+page_last: 34
+tag: 73AU
+lang: vi
+source: kvant_digital
+extraction: native
+content_sha256: 128116d45d0770097b5589e1c31607b8b69b5606e640c1a0ecb2892a84ac1a32
+prompt_sha256: draft-1
+translated_from: content/ru/2019/01/articles/02_garber-zamoscheniya-paralleloedrami-1315b3e9.md
+source_content_sha256: 6e464f45c40ae2201e4bff1c5c055c40cad0de80c9bd62f4e4afe5e1fec83c33
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+KÍNH KÍNH KÍNH “QUANTA”
+
+Dễ dàng chứng minh rằng bản sao của bất kỳ tam giác và tứ giác nào (thậm chí không lồi) đều có thể được sử dụng để xếp một mặt phẳng (xem hàng trên cùng của hình). Khó hơn để chứng minh rằng không có đa giác lồi nào có bảy cạnh trở lên có thể xếp thành một mặt phẳng và chỉ có ba họ lục giác lồi mới cho phép xếp chồng như vậy. Trường hợp khó khăn nhất là hình ngũ giác. Đến cuối thế kỷ 20, người ta đã tìm thấy 14 họ ngũ giác lồi xếp một mặt phẳng, một họ khác, thứ 15 được phát hiện vào năm 2015 (xem “Kính vạn hoa «Kvant» số 5 năm 2017), nhưng vẫn chưa có bằng chứng nào cho thấy đây đều là các họ.
+
+⟦column⟧
+
+Chỉ có hai họ hình bình hành hai chiều - hình bình hành và hình lục giác đối xứng ở giữa. Trong không gian ba chiều, các mặt song song được phân loại bởi E. Fedorov vào năm 1885. Có năm họ hình song song ba chiều với các kiểu tổ hợp khác nhau. Các đại diện “thường xuyên” nhất của các họ là khối lập phương, lăng trụ lục giác đều có các cạnh bằng nhau, khối mười hai mặt hình thoi, khối mười hai mặt hình thoi thon dài, khối tám mặt cắt cụt (xem hình bên phải). Tất cả những thứ còn lại thu được từ chúng bằng các phép biến đổi affine, cũng như bằng các phép toán “kéo dài” các cạnh song song.
+
+Nhiều đa giác lồi có thể được sử dụng để xếp một mặt phẳng đòi hỏi một số bản sao của chúng phải được xoay hoặc phản chiếu quanh một đường thẳng nào đó. Ngoại lệ là hình bình hành và hình lục giác đối xứng ở giữa; chúng có thể được sử dụng để lát một mặt phẳng chỉ bằng cách truyền song song (xem hàng dưới cùng của hình ảnh). Trong một chiều tùy ý, một khối đa diện lồi, các bản sao của nó có thể lấp đầy toàn bộ không gian chỉ bằng cách dịch song song, được gọi là khối đa diện lồi. Như vậy, su-
+
+Khi quy mô tăng lên, số lượng gia đình tăng lên rất nhanh. Nếu trong không gian bốn chiều có chính xác 52 họ hình bình hành, thì ở các chiều cao hơn, ngay cả số lượng chính xác của chúng cũng không được biết. Người ta chỉ biết rằng trong không gian năm chiều có ít nhất 110.244 họ hình song song khác nhau và trong không gian sáu chiều có ít nhất nửa tỷ. Sự phát triển của tất cả năm hình bình hành ba chiều cũng được thể hiện ở bên phải. Bạn có thể ghép các ô xếp thích hợp cho từng ô không? Tài liệu do A. Garber chuẩn bị
+
+Bản vẽ của M. Panov
+
+Tessellations bởi hình bình hành
