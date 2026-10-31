@@ -1,0 +1,65 @@
+---
+id: 2015-4-dvoryaninov-derevyannaya-loshadka-i-sila-treniya-569e036a
+issue: kvant_2015_4
+year: 2015
+number: "4"
+title: Ngựa gỗ và lực ma sát
+authors:
+  - Дворянинов С. В.
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 26
+page_last: 26
+page_labels: "24"
+tag: OI2P
+lang: vi
+source: kvant_digital
+extraction: native
+content_sha256: bba59e35cf99eaa622930117f9310a881b89ba7d7690104ec327d9e4acc743f8
+prompt_sha256: draft-1
+translated_from: content/ru/2015/04/articles/02_dvoryaninov-derevyannaya-loshadka-i-sila-treniya-569e036a.md
+source_content_sha256: 22c1a0f2a4694b67f268a00bd830bcc081bfa4a43788181207fc88670b333128
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 24⟧
+
+KVANT 2015/№4
+
+Cuộc thi mang tên A.P. Savin
+
+"Toán 6–8"
+
+Chúng tôi đang bắt đầu một cuộc thi khác về lời giải toán bài toán dành cho học sinh lớp 6–8. Lời giải bài toán gửi trong vòng một tháng sau khi nhận được số tạp chí này đến địa chỉ: 119296 Moscow, Leninsky Prospekt, 64-A, «Kvant» hoặc qua email: savin.contest@gmail.com (được đánh dấu là “Cuộc thi “Toán học 6–8”). Hãy nhớ ghi rõ tên, lớp và địa chỉ nhà của bạn. Như trước đây, chúng tôi hoan nghênh việc tham gia cuộc thi không chỉ theo cá nhân học sinh, mà còn bởi các câu lạc bộ toán học. Chúng tôi yêu cầu những người đứng đầu vòng tròn cung cấp địa chỉ email hoặc số điện thoại liên hệ. Theo truyền thống, các câu lạc bộ chiến thắng trong cuộc thi thư từ sẽ được mời tham dự giải đấu trực tiếp cuối cùng.
+
+1. Một lần trong một bài học toán, Tolik Vtulkin viết từ trái sang phải theo thứ tự tăng dần tất cả các số tự nhiên từ 1 đến 11. Ông nhận thấy rằng từ số 2 đến cuối dòng chỉ có 10 số - nhiều hơn chính xác số 2 gấp 5 lần. Và từ số 3 đến cuối dòng chỉ có 9 số - gấp 3 lần chính số 3. Cuối cùng, từ số 4 đến cuối dòng chỉ có 8 số - lớn gấp 2 lần chính số 4. Tolik gọi các số nhân 5, 3, 2 và viết chúng ở dòng thứ hai dưới các số 2, 3, 4:
+
+1
+
+2 3 4 5 6 5 3 2
+
+7 8 9
+
+10 11
+
+Phát triển lý thuyết về số nhân, Tolik đã viết theo thứ tự tăng dần tất cả các số tự nhiên từ 1 đến n, và dưới một số số đó - số nhân của chúng. Ở dòng thứ hai anh ta có các số 11, 9, 7, 5, 4, 3, 2. Tìm giá trị nhỏ nhất có thể có của n. S. Dvoryaninov
+
+2. Có một bảng ca rô hình vuông có kích thước $2n \times 2n$ ô (n – tự nhiên), trong đó ban đầu tất cả các ô đều có màu trắng. Hãy sơn một số trong số chúng màu đen. Gọi là tô màu tao nhã nếu có chính xác n ô vuông được tô màu theo chiều ngang và chiều dọc (ví dụ, cách tô màu thông thường của một bàn cờ là tô màu tao nhã).
+
+⟦column⟧
+
+Hãy lấy hai màu sắc trang nhã tùy ý. Petya chắc chắn rằng nếu bạn cho phép hoán đổi bất kỳ hai chiều ngang hoặc bất kỳ hai chiều dọc nào, thì với một số thao tác như vậy, bạn có thể có được chiều thứ hai từ màu đầu tiên. Kolya tin rằng không phải vậy. Với n nào thì Petya đúng, và n nào thì Kolya đúng? I. Akulich
+
+3. Trên mặt phẳng có hai tam giác bằng nhau không có điểm chung (không ở trong cũng như ở các cạnh). Đường thẳng $П_{1}$ chia diện tích của mỗi hình thành một nửa và đường thẳng $П_{2}$ chia chu vi của chúng làm đôi. Các đường $П_{1}$ và $П_{2}$ có thể vuông góc với nhau không? I. Akulich
+
+4. Các em làm 45 thẻ hai mặt, mỗi thẻ có hai số khác nhau được viết trên các mặt khác nhau, mỗi cặp số xuất hiện trên đúng một thẻ. Giáo viên đặt các thẻ này lên bàn. Liệu anh ta có thể làm điều này theo cách mà bọn trẻ có thể xác định được ít nhất một tấm thẻ có số nào được viết ở mặt sau của nó không? I. Bogdanov
+
+5. Chiều cao của hình thang có hai đường chéo vuông góc với nhau là h. Độ dài nhỏ nhất có thể có của đường trung bình của một hình thang như vậy là bao nhiêu? S. Dvoryaninov
+
+Ngựa gỗ và lực ma sát
+
+S. DVORYANINOV
+
+Khi còn nhỏ, BURATINO CÓ RẤT NHIỀU ĐỒ CHƠI và hầu hết đều là đồ tự làm - do Papa Carlo làm. Nhưng anh ấy là một bậc thầy thực sự và tất cả đồ chơi đều đẹp. Pinocchio biết rằng vào sinh nhật sắp tới cậu sẽ nhận được một món đồ chơi mới khác từ Papa Carlo. Và rồi một ngày, bố Carlo nói: “Bố không giấu đâu, bố muốn tặng con một con ngựa!” Với những lời này, anh ta bắt đầu làm việc, và Pinocchio ngồi xuống bên cạnh anh ta và bắt đầu quan sát làm thế nào, từ dưới cái đục, đầu tiên con ngựa xuất hiện, sau đó là một cơ thể duyên dáng và cuối cùng là bốn chân, từ đó có thể thấy ngay đó là một con ngựa vui tươi. “Được rồi,” Papa Carlo nói, “bây giờ chúng ta sẽ đặt con ngựa lên bệ.” "Anh ấy lấy một tấm ván hình chữ nhật phù hợp và gắn tác phẩm của mình lên đó. - Hoan hô! - Buratino kêu lên. - Tôi có một cái mới

@@ -1,0 +1,61 @@
+---
+id: 2015-5-6-andreev-shiryaev-chertim-krivyie-vtorogo-poryadka-f6aca3cd
+issue: kvant_2015_5-6
+year: 2015
+number: 5-6
+title: Hãy vẽ các đường cong bậc hai!
+authors:
+  - Андреев Н. Н.
+  - Ширяев Е. А.
+rubric: kaleydoskop-kvanta
+rubric_sub: Калейдоскоп
+page_first: 50
+page_last: 50
+tag: BK27
+lang: vi
+source: kvant_digital
+extraction: native
+content_sha256: 3de32b8ebe1756e5bd213038fbeb428dac754adb25ab616b268d8f108a69fcab
+prompt_sha256: draft-1
+translated_from: content/ru/2015/05-06/articles/06_andreev-shiryaev-chertim-krivyie-vtorogo-poryadka-f6aca3cd.md
+source_content_sha256: ba5bfda67473993101719fd6b302ac5b316df08ad444d0ac5f65ca44ea810160
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+Hãy vẽ các đường cong bậc hai!
+
+Trong “Kính vạn hoa” này, chúng ta sẽ nói về một số thiết bị cho phép bạn vẽ chính xác các đường cong bậc hai: parabol, elip, hyperbol.
+
+Parabolograph Cavalieri
+
+Cách vẽ parabol đẹp mắt này được phát minh bởi nhà toán học người Ý Bonaventura Cavalieri (người Ý Bonaventura Francesco Cavalieri, Latin Cavalerius, 1598 - 1647) vào thế kỷ 17. Mô tả của thiết kế. Một góc vuông trượt dọc theo thước không chuyển động so với tờ giấy sao cho một trong các cạnh của nó (ngang) luôn tiếp xúc với thước (hình1). Ở góc vuông thứ hai, đỉnh có dây dẫn trượt dọc theo cạnh thẳng đứng của góc thứ nhất và các cạnh trượt sao cho luôn đi qua các chốt, một trong số đó được cố định chắc chắn vào thước và mặt còn lại theo chiều ngang của góc di chuyển được.
+
+⟦column⟧
+
+⟦figure⟧
+
+Hình 2
+
+⟦figure⟧
+
+Hình 3
+
+chia một parabol (thước - đạo diễn, nút đỏ - tiêu điểm).
+
+Ellipsograph
+
+⟦figure⟧
+
+Hình 1
+
+Lý do. Xét một tam giác được tạo bởi các cạnh của góc thứ hai và thước kẻ. Trong đó, bình phương chiều dài hạ xuống cạnh huyền bằng tích của hình chiếu của chân lên cạnh huyền. Một trong những phép chiếu không đổi theo thiết kế (đường màu đỏ ở hình 1) và là tham số xác định parabol (suy ra phương trình của nó từ đây).
+
+Vẽ parabol bằng sợi chỉ
+
+Mô tả của thiết kế. Một hình vuông trượt dọc theo thước, đứng yên so với tờ giấy sao cho một chân (theo chiều ngang) luôn tiếp xúc với thước. Một đầu của sợi chỉ được cố định ở đầu hình vuông, không nằm trên thước, đầu kia của sợi chỉ được cố định bằng một chiếc nút trên một tờ giấy. Bút chì ép sợi chỉ vào chân hình vuông sao cho luôn căng (hình 2, 3). Lý do. Giả sử chiều dài của sợi dây bằng chiều dài của chân thẳng đứng (như một bài tập, chúng tôi khuyên bạn nên rút gọn trường hợp tổng quát thành trường hợp đặc biệt này). Khi đó bút stylus luôn cách đều thước và nút trên tờ giấy. Điều này phù hợp với định nghĩa hình học
+
+Mô tả của thiết kế. Hai chiếc ghim và một chiếc dây dẫn được gắn vào thước; các chốt trượt dọc theo hai hướng vuông góc với các rãnh. Trên hình 4 bút M chia đoạn giữa các chốt thành các đoạn có chiều dài a và b (trong trường hợp đặc biệt a = b thu được một vòng tròn - xem bài toán “mèo con trên cầu thang” nổi tiếng trong cuốn sách Hình 4 N.B. Vasiliev, V.L. Gutenmacher “Thẳng và Cong”), trên hình 5 bút K nằm bên ngoài đoạn giữa ghim. $тре-^{Рис.} 5$ có thể gắn vào thước

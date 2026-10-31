@@ -1,0 +1,55 @@
+---
+id: 2015-3-resheniya-zadach-m2366-m2373-f2373-f2379-d5a24fe0
+issue: kvant_2015_3
+year: 2015
+number: "3"
+title: Lời giải bài toán M2366—M2373; F2373—F2379
+rubric: zadachnik-kvanta
+rubric_sub: Задачник «Кванта»
+page_first: 17
+page_last: 17
+page_labels: "15"
+tag: RCDB
+lang: vi
+source: kvant_digital
+extraction: native
+content_sha256: 09cdc460780ece8f4a29604b53c2cd43e5002222ce264f45f8caf4a9ff37a5ea
+prompt_sha256: draft-1
+translated_from: content/ru/2015/03/articles/02_resheniya-zadach-m2366-m2373-f2373-f2379-d5a24fe0.md
+source_content_sha256: c1ca7a0d3875afb1632a20a98a92376c789744f54d148b2452732c6752efeddd
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 15⟧
+
+NHÂN VIÊN VẤN ĐỀ
+
+F2389. Hai đầu của một sợi dây đồng nhất có chiều dài L và khối lượng M được cố định và sợi dây gồm nhiều mắt xích được treo tự do trong không khí. Các tiếp tuyến của chuỗi tại các điểm gắn các đầu tạo thành các góc $\alpha$ và $\beta ( \alpha > \beta ).$ với đường chân trời. Lực căng của dây ở điểm thấp nhất là bao nhiêu? Sự khác biệt về cấp độ (theo chiều dọc) của các điểm mà tại đó có các mắt xích cao nhất và thấp nhất trong chuỗi là gì? Ts.Pochkin
+
+F2390. Một mặt phẳng nằm ngang được chia thành hai phần bằng một đường thẳng. Một mặt của đường thẳng có bề mặt tuyệt đối nhẵn, mặt kia gồ ghề và hệ số ma sát $\mu$ tại mỗi điểm tỷ lệ thuận với khoảng cách từ điểm này đến đường thẳng phân chia. Hai vòng đệm nhỏ giống hệt nhau chuyển động tịnh tiến dọc theo phần nhẵn của bề mặt vuông góc với đường phân chia và đồng thời cắt nhau. Quả bóng nào sẽ dừng lại trước nếu tốc độ của quả bóng thứ nhất lớn hơn tốc độ của quả bóng thứ hai 10 lần? I. Akulich
+
+F2391. Hai đĩa dẫn điện tích điện q và –q có thể chuyển động không ma sát trong một hình trụ dài không dẫn điện đặt nằm ngang (xem hình). Có một lượng khí heli nhất định giữa các đĩa, nhưng không có khí đằng sau các đĩa. Điện tích trên các đĩa ngay lập tức giảm đi một nửa, sau đó hệ thống được mong đợi sẽ trở lại trạng thái cân bằng. Bỏ qua sự truyền nhiệt, tìm xem nhiệt độ của khí và khoảng cách giữa các đĩa sẽ thay đổi bao nhiêu lần. A. Chernoutsan
+
+F2392. Một quả cầu nhỏ mang điện tích Q được đặt cố định trên bàn trên một giá cao không dẫn điện. Một bản lề được cố định trên một giá đỡ khác có cùng độ cao, đặt ở khoảng cách L so với giá đỡ đầu tiên. Một thanh không trọng lượng, có chiều dài nhỏ hơn L nhiều, được lắp vào bản lề và có thể quay tự do. Hai quả cầu nhỏ có khối lượng m, mỗi quả có điện tích +q và –q được gắn vào hai đầu của thanh này. Khoảng cách từ các quả bóng đến trục quay là như nhau. Lưỡng cực - hai quả bóng có điện tích khác dấu trên thanh - không bị xoắn và nó bắt đầu quay nhanh. Chu kỳ quay của lưỡng cực là T. Điện tích Q và các điện tích +q và –q luôn nằm trong cùng một mặt phẳng nằm ngang. Trong thời gian bao nhiêu lực trung bình mà điện tích điểm và lưỡng cực tương tác? S. Varlamov
+
+F2393. Vasya được giao nhiệm vụ sau: quấn một sợi dây mỏng có chiều dài cố định vào một hình trụ điện môi dài có bán kính ngoài R sao cho tại một trong các điểm trên trục đối xứng của hình trụ có thể tạo ra cảm ứng từ trường cực đại khi truyền một dòng điện một chiều cố định qua dây. Khi nhiệm vụ đã hoàn thành,
+
+"QUANTA"
+
+⟦column⟧
+
+Hóa ra độ dày tối đa h của tất cả các lớp dây trên hình trụ đều bằng R. Khoảng cách tối đa giữa các vòng dây quấn dọc theo trục của hình trụ là bao nhiêu? V. Maksimov
+
+F2394. Một thấu kính hội tụ mỏng đối xứng có công suất quang D = 1 diop được làm bằng thủy tinh có chiết suất n = 3/2. Thấu kính đặt trên một giá đỡ ở giữa một băng ghế quang học có chiều dài L = 4 m. Một nguồn sáng rất nhỏ đặt trên bàn cách thấu kính một khoảng tối đa bằng bao nhiêu để một trong những ảnh thật của nó rơi vào một trong các tiêu điểm của thấu kính? Manh mối. Sự phản xạ một phần của ánh sáng xảy ra ở mặt phân cách thủy tinh-không khí. V. Sergeev
+
+Lời giải bài toán M2366–M2373, F2373–F2379
+
+M2366. Kể từ đầu năm học, Andrei đã ghi điểm môn toán. Khi anh ấy nhận được một xếp hạng khác (2, 3, 4 hoặc 5), anh ấy gọi đó là điều bất ngờ nếu cho đến thời điểm đó nó xảy ra ít thường xuyên hơn mỗi xếp hạng có thể có khác. (Ví dụ: nếu ngay từ đầu năm anh ấy đã nhận được các điểm liên tiếp là 3,4,2,5,5,5,2,3,4,3, thì năm điểm đầu tiên và bốn điểm thứ hai sẽ là điều bất ngờ.) Trong cả năm học, Andrei nhận được 40 điểm - 10 điểm cho mỗi năm, bốn, ba và hai (không biết theo thứ tự nào). Có thể nói chính xác có bao nhiêu xếp hạng bất ngờ đối với anh ấy?
+
+Lời giải xem bài viết của E. Bakaev “Con trai, con gái, bảng, đồ thị …” trên tạp chí số này. M2367. Chứng minh rằng trong mọi đa giác ngoại tiếp một đường tròn đều có ba cạnh để tạo thành một tam giác.
+
+Cho cạnh AB dài nhất của đa giác tiếp xúc với đường tròn nội tiếp tại điểm K và đặt BC và AD là các cạnh kề nhau (xem hình), để chúng tiếp xúc với đường tròn tại các điểm L và M tương ứng. Khi đó BC > > BL = BK, AD > > AM = AK, tức là BC + AD > BK + + AK = AB. Hóa ra phần lớn nhất của các đoạn AB, AC và BC nhỏ hơn tổng của hai đoạn còn lại, và do đó, một tam giác có thể được hình thành từ các đoạn AB, AC và BC. T. Kazitsyna, B. Frenkin
+
+M2368. Bên trong một tam giác vuông, hai đường tròn bằng nhau được dựng sao cho đường tròn đầu tiên chạm vào một trong hai chân và cạnh huyền, đường tròn thứ hai chạm vào

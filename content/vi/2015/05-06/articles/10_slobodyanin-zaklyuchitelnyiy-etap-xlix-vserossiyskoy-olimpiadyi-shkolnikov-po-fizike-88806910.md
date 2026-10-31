@@ -1,0 +1,65 @@
+---
+id: 2015-5-6-slobodyanin-zaklyuchitelnyiy-etap-xlix-vserossiyskoy-olimpiadyi-shkolnikov-po-fizike-88806910
+issue: kvant_2015_5-6
+year: 2015
+number: 5-6
+title: Giai đoạn cuối cùng của Olympic toàn Nga XLIX dành cho học sinh vật lý
+authors:
+  - Слободянин В. П.
+rubric: olimpiady
+rubric_sub: Олимпиады
+page_first: 63
+page_last: 63
+page_labels: "61"
+tag: ZFSK
+lang: vi
+source: kvant_digital
+extraction: native
+content_sha256: 5faee4730be1441b4b9636042077f364876fa6068ac12adb3953732f070a9eaa
+prompt_sha256: draft-1
+translated_from: content/ru/2015/05-06/articles/10_slobodyanin-zaklyuchitelnyiy-etap-xlix-vserossiyskoy-olimpiadyi-shkolnikov-po-fizike-88806910.md
+source_content_sha256: ba21498e26d7647b65d10777315d2691732c0ba52e9c902b02d612eb088f03de
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 61⟧
+
+Thế Vận Hội
+
+Sofya Yakusheva – Voronezh, lyceum “Khu liên hợp giáo dục phổ thông đa cấp 2”, Alexey Bobrov – Kostroma, lyceum 34, Tatyana Zaitseva – Moscow, trường 179, Daniil Demidov – Nizhny Novgorod, nhà thi đấu 17, Mikhail Ipatov – Moscow, SUSC MSU.
+
+Giải đặc biệt cho kết quả tuyệt đối tại Olympic đã thuộc về Mikhail Ivanov - St. Petersburg, FML 239, lớp 9, Ruslan Salimov - Moscow, trường 1329, lớp 11;
+
+Yurgin Grigory – Moscow, Lyceum “Trường cấp hai”, lớp 10;
+
+⟦column⟧
+
+dành cho lời giải người đẹp khó nhất trong cuộc thi Olympic bài toán - Semyon Petrov - Yaroslavl, trường 12, lớp 10;
+
+dành cho tổ hợp phức hợp lời giải đẹp mắt bài toán 8 dành cho lớp 11 – Ivan Frolov – Moscow, trường 1329.
+
+Ấn phẩm được chuẩn bị bởi N. Agakhanov, I. Bogdanov, P. Kozhevnikov, O. Podlipsky cho lời giải tất cả bài toán Olympic - Yagudin Amir - Kazan, Lyceum 131, lớp 9,
+
+Giai đoạn cuối cùng của Olympic toàn Nga XLIX dành cho học sinh vật lý
+
+Năm nay, chặng cuối cùng của Olympic Vật lý toàn Nga dành cho học sinh được tổ chức tại Yekaterinburg. 266 học sinh từ 52 đơn vị cấu thành của Liên bang Nga và 2 học sinh từ Cộng hòa Belarus đã tham gia Olympic. Nhiều đội nhất được đại diện bởi thành phố Moscow, Cộng hòa Mordovia và thành phố St. Petersburg. Các thí sinh của 34 môn không vượt qua được rào cản trình độ ở vòng khu vực (lớp 11 - 58 điểm, lớp 10 - 56,5 điểm, lớp 9 - 51 điểm) và cử một thí sinh đạt số điểm cao nhất khu vực của mình vào vòng chung kết. Như những năm trước, mỗi người tham gia giai đoạn cuối của Olympic được yêu cầu giải năm câu hỏi lý thuyết. bài toán và hoàn thành hai nhiệm vụ thí nghiệm. Phân tích công việc của những người tham gia cho thấy hệ số tương quan giữa lý thuyết và thực nghiệm là nhỏ nhất đối với học sinh lớp chín và cao gần gấp ba lần đối với học sinh lớp mười một. Điều này cho thấy nếu ở lớp 9 khả năng giải lý thuyết bài toán liên quan yếu đến khả năng thực hiện nhiệm vụ TN, khi đó đến lớp 11 trình độ của người tham gia tăng lên nhiều đến mức số điểm cả lý thuyết và thực nghiệm phụ thuộc nhiều vào mức độ chuẩn bị của người tham gia hơn là yếu tố ngẫu nhiên. Dưới đây là bài toán vòng lý thuyết và danh sách người chiến thắng chặng cuối của Olympic Vật lý toàn Nga XLIX dành cho học sinh.
+
+TOUR LÝ THUYẾT
+
+lớp 9
+
+Bài toán 1. Gia tốc của tàu Người lái tàu đã cấu hình máy tính trên tàu để nó hiển thị tốc độ trung bình v trên đoạn đi qua giữa các giá đỡ liền kề đỡ dây tiếp xúc (hình1). Khoảng cách giữa hai bất kỳ
+
+⟦figure⟧
+
+Hình 1
+
+các hỗ trợ liền kề là giống hệt nhau. Tàu khởi hành từ sân ga Novodachnaya và tăng tốc với gia tốc không đổi. Một lúc sau, người lái xe thấy máy tính hiển thị tốc độ $v_{1} = 20$ km/h. Ở đoạn tiếp theo, tốc độ hóa ra là $v_{2} = 30$ km/h. Vận tốc tức thời u của đoàn tàu ở ranh giới giữa đoạn thứ nhất và đoạn thứ hai là bao nhiêu? V. Slobodyanin
+
+Vận động viên Olympic tạo dáng
+
+Bài toán 2. Nhấn và thả Xe đẩy được kết nối với tường bằng một thanh cứng (hình2). Một lò xo được gắn vào điểm dừng của nó, đầu kia
+
+Hình 2

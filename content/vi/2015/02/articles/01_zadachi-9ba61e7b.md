@@ -1,0 +1,58 @@
+---
+id: 2015-2-zadachi-9ba61e7b
+issue: kvant_2015_2
+year: 2015
+number: "2"
+title: Bài toán
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 26
+page_last: 26
+tag: IH35
+lang: vi
+source: kvant_digital
+extraction: native
+content_sha256: 216a002249e347181b7f8b18b030a85419a5a7bb06f700f626fa74020bd1240c
+prompt_sha256: draft-1
+translated_from: content/ru/2015/02/articles/01_zadachi-9ba61e7b.md
+source_content_sha256: 800a63f722ada0fab134c37665a66f29c0e27e7b5289ea2ecb065fa0d7718908
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+“SỐ LƯỢNG” CHO HỌC SINH THI
+
+Bài toán
+
+1.
+
+Trên một máy tính đơn giản, các con số thường được hiển thị như sau:
+
+⟦column⟧
+
+3.
+
+Số lớn nhất là a) tám chữ số; b) một số có bảy chữ số có thể được gõ trên máy tính này mà trông giống hệt như vậy nếu máy tính được chuyển sang $180 ^\circ$ (tức là “lộn ngược”) không? L. Shteingarts
+
+2.
+
+Một nhà toán học và năm đứa trẻ đi vào một tiệm bánh pizza. Masha: Tôi thích nó với cà chua và không có xúc xích. Vanya: Và đối với tôi là nấm.
+
+a) Viết vào mỗi vòng tròn tại hình một số khác 0 sao cho tổng các chữ số ở hai vòng tròn trên nhỏ hơn 7 lần tổng các chữ số còn lại và tổng các chữ số ở hai vòng tròn bên trái nhỏ hơn 5 lần tổng các chữ số còn lại. b) Chứng minh rằng bài toán có duy nhất lời giải. A. Shapovalov
+
+4.
+
+Cắt hình lục giác ở hình thành bốn hình giống hệt nhau. Bạn chỉ có thể cắt dọc theo các đường lưới. E. Bakaev
+
+5.
+
+Những bài toán này chủ yếu dành cho học sinh lớp 6–8. Bài toán 2 – 5 đã được đưa ra năm nay tại Lễ hội Toán học XXVI.
+
+Minh họa của D. Grishukova
+
+Dasha: Tôi sẽ không có cà chua. Nikita: Và tôi ủng hộ cà chua. Nhưng không có nấm! Igor: Và tôi không có nấm. Nhưng với xúc xích! Bố: Vâng, với những người kén chọn như vậy, rõ ràng là bạn không thể sống được chỉ với một chiếc bánh pizza... Liệu một nhà toán học có thể đặt hai chiếc bánh pizza và đãi mỗi đứa trẻ món mà anh ta yêu cầu hay anh ta vẫn phải gọi ba chiếc bánh pizza? E. Bakaev
+
+Một con khỉ trở nên vui vẻ khi ăn được ba loại trái cây khác nhau. Hỏi có bao nhiêu con khỉ có thể hài lòng với 20 quả lê, 30 quả chuối, 40 quả đào và 50 quả quýt? Biện minh cho đáp số của bạn. A. Shapovalov
