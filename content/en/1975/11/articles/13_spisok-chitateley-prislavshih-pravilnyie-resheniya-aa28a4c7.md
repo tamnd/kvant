@@ -1,0 +1,38 @@
+---
+id: 1975-11-spisok-chitateley-prislavshih-pravilnyie-resheniya-aa28a4c7
+issue: kvant_1975_11
+year: 1975
+number: "11"
+title: List of readers who sent correct solutions
+rubric: zadachnik-kvanta
+page_first: 45
+page_last: 45
+page_labels: "43"
+tag: 4UTX
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 643b68cf915a7bb0ced093731edb08551ece235ad466f48649657056a74aa2bb
+prompt_sha256: draft-1
+translated_from: content/ru/1975/11/articles/13_spisok-chitateley-prislavshih-pravilnyie-resheniya-aa28a4c7.md
+source_content_sha256: 105841bb7b8b7efe0bce685c273c36eca95b2e7030153c6fc9f2c9ab0ecaead1
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+**In this issue we publish the names of those who sent correct solutions to problems M306—M315 and F318—F327 (bold numbers after the last name are the last digits of the numbers of solved problems).**
+
+**Mathematics**
+
+Most of the letters contained the correct solution to the problem **M306**. The remaining problems were solved by: *L. Abashidze* (Tbilisi) **1**; *R. Abramov* (Mytishchi) **1**; *IN. Averbukh* (Chisinau) **1**; *WITH. Agazaryan* (Surenavan village, Ararat region) **4**; *D. Azov* (Chelyabinsk) **1—5**; *G. Aleksanyan* (Stepanakert) **9, 1**; *ABOUT. Apolonsky* (Zhukovsky) **7, 1, 2, 5**; *E. Asarin* (Moscow) **9, 1**; *IN. Basmanov* (Voronezh) **7, 9, 1—4**; *A. Belikov* (Moscow) **3**; *A. Ber* (Tashkent) **5**; *Z. Berkaliev* (Karaganda) **2, 3**; *ABOUT. Boltenkov* (Dnepropetrovsk) **4**; *Yu. Bulavsky* (Novosibirsk) **1**; *AND. Vandakurov* (Leningrad) **7**; *A. Varpakhovsky* (Leningrad) **9, 1, 4**; *WITH. Verbin* (Leningrad) **4**; *Yu. Vinitsky* (Tashkent) **1, 2**; *A. Vlasov* (Kamyshin) **1**; *A. Vorovich* (Moscow) **1**; *A. Voronkov* (Kemerovo) **7, 9**; *R. Gagnidze* (Rustavi) **9**; *M. Gedalin* (Tbilisi) **1, 3, 4**; *A. Gibadullin* (Bugulma) **9**; *IN. Gishlarkaev* (village Urus-Martan Chechen Autonomous Soviet Socialist Republic) **4**; *E. Glezin* (Leningrad) **9**; *ABOUT. Glushko* (Moscow) **9**; *IN. Grossman* (Odessa) **3**; *IN. Huseynov* (Nakhichevan) **1, 4, 5**; *Yu. Davydov* (village Kizner Udm. Autonomous Soviet Socialist Republic) **1**; *A. Danilov* (village of Gumbati, GSSR) **9**; *A. Danilov* (Shumerlya) **9**; *IN. Erpylev* (Ashgabat) **9**; *A. Yesilevsky* (Tbilisi) **9**; *A. Zavrazhnov* (Balabanovo) **9**; *D. Zelevinsky* (Moscow) **7—9**; *A. Ivanov* (Moscow) **1, 4, 5**; *D. Ivanov* (Moscow) **2**; *R. Izmailov* (Baku) **1**; *M. Imerlishvili* (Tbilisi) **2—4**; *A. Kamalyan* (Ijevan) **7, 0, 1, 5**; *IN. Kamenetsky* (Moscow) **9**; *B. Kaplan* (Kyiv) **5**; *P. Kirsanov* (Moscow) **1**; *A. Knyazyuk* (Kyiv) **1, 3**; *WITH. Kozyavkin* (Kyiv) **5**; *A. Kurchishvili* (Tbilisi) **9**; *Sh. Kukhaleishvili* (Tbilisi) **9, 1—4**; *E. Landman* (Leningrad) **1**; *IN. Lipkin* (Moscow) **1**; *D. Litvinenko* (Sevastopol) **7**; *A. Malyshev* (Kurashko settlement, Krasnoyarsk Territory) **2, 4**; *G. Mats* (Novosibirsk) **9**; *A. Moiseev* (Moscow) **9**; *M. Moraine* (Poland) **7, 9, 1—4**; *AND. Morozov* (Gorky) **9**; *F. Mursaguliev* (Siazan) **4**; *TO. Mkhitaryan* (Yerevan) **7**; *IN. Neumann* (Leningrad) **7, 9, 1**; *M. Ostrovsky* (Kharkov) **9**; *B. Ochirov* (Novosibirsk) **0**; *AND. Panin* (Apatity) **9, 1**; *IN. Parazyan* (Cherentsavan) **9**; *M. Baker* (Odessa) **9**; *M. Pitatelev* (Moscow) **1, 2**; *AND. Pobylitsa* (Leningrad) **1**; *A. Polubinsky* (Novovolynsk) **2**; *WITH. Popov* (Moscow) **1**; *WITH. Poslavsky* (Kharkov) **7, 1, 2, 4, 5**; *Yu. Poshekhonov* (Engels) **1, 3**; *WITH. Putintsev* (Nevinnomyssk) **9, 1—3, 5**; *A. Radulu* (Chisinau) **9**; *A. Razborov* (Lyubertsy) **1, 4**; *A. Rachnikov* (village of Polyarnye Zori, Murmansk region) **9**; *A. Reibold* (Sokolovka village, North Kazakhstan region) **9, 4**; *IN. Reshetov* (Troitsk) **1, 2, 4**; *IN. Romanov* (Dimitrovgrad) **1—3, 5**; *T. Rostovshchikova* (Sludka village, Perm region) **1**; *AND. Rudakov*
+
+⟦column⟧
+
+(Bryansk) **1**; *IN. Savchak* (Rudki village, Ternopil region) **3**; *A. Semenov* (Moscow) **1, 5**; *IN. Simeonov* (Bulgaria) **2, 3**; *IN. Blind* (Tomsk) **1, 3, 4**; *IN. Smirnov* (Ufa) **3**; *F. Maltovnik* (Kaliningrad) **1**; *B. Solomyak* (Leningrad) **7—0**; *Yu. Sorkin* (Moscow) **9**; *M. Sukhar* (Moscow) **9**; *WITH. Tregub* (Tashkent) **9, 1, 2, 4, 5**; *TO. Trutnev* (Kazan) **7**; *WITH. Filatova* (Moscow) **1, 3**; *Yu. Philosophers* (Saratov) **7, 9, 1—5**; *WITH. Finashin* (Leningrad) **7—5**; *L. Fintzkler* (Andijan) **9**; *IN. Fisenko* (Kyiv) **1, 3, 4**; *WITH. Florya* (village Satu-Nou MSSR) **1, 3**; *L. Fudali* (Poland) **7, 1, 2, 5**; *IN. Charatonic* (Poland) **7–9, 1–5**; *D. Khukhunaishvili* (Tbilisi) **9**; *Z. Sharifullin* (village Ryatamak Bashkortostan Autonomous Soviet Socialist Republic) **9**; *WITH. Shatashvili* (Tbilisi) **9**; *IN. Shtenin* (Chelyabinsk) **7**; *P. Eminov* (village of Dzhinisi, GSSR) **9**; *WITH. Eminov* (Tbilisi) **9, 3**; *WITH. Yakovenko* (Moscow) **1, 3, 3**; *IN. Yasinsky* (village Mazurovka, Vinnytsia region) **3**; *B. Yatsalo* (village Morochno, Rivne region) **9, 1—3, 5**.
+
+**Physics**
+
+Almost all readers who submitted solutions to problems **F318—F327** coped with problems **F320** and **F322**. The remaining problems were solved correctly: *X. Abdullin* (Alma-Ata) **9, 5, 6**; *N. Abrosimova* (village Pyata, Penza region) **4**; *WITH. Avanesyan* (Stepanakert) **5**; *M. Ageev* (Tula) **7, 8, 1**; *D. Azov* (Chelyabinsk) **1, 5**; *G. Aizin* (Brest) **1**; *A. Alexandrin* (Valuyki) **1**; *A. Albertinsky* (Leningrad) **1**; *TO. Andronik* (Chisinau) **8, 9, 1**; *L. Antuganov* (Chelyabinsk) **6**; *A. Apaev* (Karachaevsk) **4**; *AND. Arkhipov* (Minsk) **8, 9, 1**; *A. Atabiev* (Karachaevsk) **4**; *R. Akhmedzyamov* (Nikolaev), **6**; *AND. Babakulov* (Kattakurgan) **1**; *A. Baklay* (Pinsk) **1**; *ABOUT. Balaban* (Sosnovoe settlement, Rivne region) **6**; *WITH. Balashov* (Moscow) **8**; *G. Barvanyan* (Ochamchira) **8**; *T. Beiko* (Kyiv) **4—6**; *IN. Belikov* (Tbilisi) **4**; *IN. Benkhan* (Kalinin) **1, 3**; *M. Birman* (Saratov) **1**; *Yu. Bogomolov* (Kazan) **8, 9, 1**; *AND. Bondartsev* (Lyubertsy) **6**; *AND. Borisov* (Odessa) **9**; *IN. Boryu* (Zaporozhye) **8, 9, 1**; *WITH. Vyatkin* (Shegarka village, Tomsk region) **6**; *A. Gabrielyan* (Yerevan) **5**; *WITH. Gavrilin* (Buzuluk) **1**; *IN. Gavrilov* (Kamen-Kashirsky, Volyn region) **5**; *AND. Galishnikov* (Volgograd) **9, 1, 3**; *M. Hasanov* (Kegnekhudat village, AzSSR) **6**; *M. Gedalin* (Tbilisi) **8, 1, 4—7**; *ABOUT. Godin* (Simferopol) **8, 6**; *A. Golubentsev* (Saratov) **1**; *G. Golubtsova* (Moscow) **1**; *A. Gorshkov* (Ivanovo) **8, 9, 1, 4—6**; *A. Grigoriev* (Volokolamsk) **9, 1**; *A. Grigoriev* (Essentuki) **9, 4**; *A. Grinyuk* (Tula) **9**; *IN. Gubeni* (Ugnev) **1**; *M. Gumashyan* (Yerevan) **9, 4**; *WITH. Danilov* (Drogichin) **6**; *E. Demikhov* (Usman) **9, 1**; *WITH. Demishev* (Zaporozhye) **8, 4**; *Yu. Dokuchaev* (Leningrad) **1, 4—6**; *AND. Druzhinin* (Olenegorsk) **1**; *ABOUT. Zharkov* (Moscow) **1**; *D. Zhukhovitsky* (Magadan) **3, 4**; *A. Zabolotsky* (village of Borisovo, Belgorod region) **9, 1**; *Yu. Zagorodniy* (Slavyansk) **6**; *IN. Zadachev* (Chelyabinsk) **4, 6**; *T. Hare* (T. Paseka village, Transcarpathian region) **5**; *IN. Kaymanovich* (Lenin-
+
+⟦folio 43⟧

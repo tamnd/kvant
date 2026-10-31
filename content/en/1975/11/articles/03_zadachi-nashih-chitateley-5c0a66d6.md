@@ -1,0 +1,52 @@
+---
+id: 1975-11-zadachi-nashih-chitateley-5c0a66d6
+issue: kvant_1975_11
+year: 1975
+number: "11"
+title: Tasks for our readers
+rubric: smes
+page_first: 13
+page_last: 13
+page_labels: "11"
+tag: 9FV7
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 200fa299c89cea70082b5a4f2cbb842df271c5b70bc3a72b8fe89a3055945d7d
+prompt_sha256: draft-1
+translated_from: content/ru/1975/11/articles/03_zadachi-nashih-chitateley-5c0a66d6.md
+source_content_sha256: 32fe9d8e081064d45b701c9dcf75ac97e26f3f0de1d695a56f8b204f4806d054
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 11⟧
+
+Exercise
+our readers
+
+1. Prove that the number
+$$1 + \frac{111 \ldots 111}{n} \times \frac{222 \ldots 222}{n} \times \frac{333 \ldots 333}{n - 1} \times \frac{333 \ldots 333}{n - 1}$$
+is the square of a natural number.
+
+A. Gultsev
+
+2. Prove that $a^{2n} - 1$ is divisible by $2^{n+2}$ if $a$ is odd.
+
+H. Cherepinsky
+
+3. Prove that
+$$7^{7777} - 7^{777}$$
+divided by 1,000,000.
+
+M. Stereber
+
+4. Find four natural numbers forming a geometric progression whose terms are divisors of the sum
+$$25^{1975} + 79^{1975}$$
+
+Yu. Krlov
+
+Ampere's other hobby was the classification of sciences. This problem, important in methodological and general terms, interested Ampere for a long time, since the days of his work in Bourg-en-Brés. He developed his own system of classification of sciences, which he intended to present in a two-volume sociology. In 1834, the first volume of “Essay on the Philosophy of Sciences or Analytical Exposition of the Natural Classification of All Human Knowledge” was published. The second volume was published by Ampere's son after his death.
+
+Ampere died of pneumonia on July 10, 1836 in Marseilles, during an inspection trip. He was buried there. In 1869, his rights were transferred to Paris to the Montmartre cemetery. The following words are carved on his tombstone: “He was as kind and as simple as he was great.”

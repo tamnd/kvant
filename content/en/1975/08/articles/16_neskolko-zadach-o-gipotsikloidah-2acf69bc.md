@@ -1,0 +1,66 @@
+---
+id: 1975-8-neskolko-zadach-o-gipotsikloidah-2acf69bc
+issue: kvant_1975_8
+year: 1975
+number: "8"
+title: Several problems about hypocycloids
+rubric: smes
+page_first: 63
+page_last: 63
+page_labels: "61"
+tag: N4IQ
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 39d880ed0380b43b15960127a5ec18840cf54baf0776b4148cb1233483e99d2b
+prompt_sha256: draft-1
+translated_from: content/ru/1975/08/articles/16_neskolko-zadach-o-gipotsikloidah-2acf69bc.md
+source_content_sha256: e2d88baf780b6718d8b7d97b6afcba3becc8f078b3df4fa551fd109c4b42dfe2
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 61⟧
+
+These equalities are read as follows: “seven tenths is equal to ten sevenfolds,” etc.
+
+As an exercise, I suggest you prove the truth of the following equalities: $2_7 + 6_7 = 11_7$, $4_7 + 5_7 = 12_7$, $11_7 + 16_7 = 30_7$, $3_7^2 = 12_7$, $4_7 \times 6_7 = 33_7$, $101_7 : 34_7 = 2_7$.
+
+Also try to create tables for adding and multiplying single-digit numbers in the septenary number system.
+
+Now let’s try to find out in what system the equality can be true
+
+$$7 + 8 = 16.$$
+
+I think you yourself have already said that the base of this system should be the number $a$, which, added to six ones, gives a total of fifteen. Indeed, $16_a$ means the sum of $1 \times a^1 + 6 \times a^0$, i.e. $16_a = a_{10} + 6_{10}$. On the other hand, $7_a + 8_a = 7_{10} + 8_{10} = 15_{10}$, and therefore there must be $a_{10} + 6_{10} = 15_{10}$. From here it is not difficult to find $a$ - it is equal to nine.
+
+So, the equality $7 + 8 = 16$ is true in the nine-number system, $7_9 + 8_9 = 16_9$. This is the answer to the question posed in the title.
+
+Let me put an end to this, dear Seryozha. True, I was going to tell you more about the double number system, apply the new many-man relations, but I think it will be better if we talk about it next time, but for now I advise you to look at the book by S. V. Fomin “Number Systems” (series “Popular Lectures on Mathematics”, M., “Science”, 1975).
+
+I wish you success! See you again on pages «Kvant».
+
+R.S. If anything seems unclear to you, write, I will answer with satisfaction.
+
+A. D. Bendukidze
+
+Several problems about hypocyclopedias
+
+Problem 1. Prove that for $k=2$ the unicloids *) are the diameters of a fixed circle (Nasreddin-Konernik-Ferrari meorem).
+
+The beautiful geometric fact from this problem is not very easy to visualize. It is the source of many popular geometry problems.
+
+For example, let the ends of the segment $AB$ slide along straight lines intersecting at the point $O$. If we involve all the planes in this motion of the point (considering it a solid plate), then (by virtue of Problem 1) we obtain the same motion as when a circle is rolling, limited by a circle circumscribed around the triangle $AOB$, along the inner side of the circle with the center at the point $O$ of twice the radius.
+
+Task 2. Find the trajectories along which during the described movement there will be movements:
+
+a) chain of a circle circumscribed around the circle $AOB$;
+
+b) point $C$, indicating that $O$ and $C$ are on opposite sides of the segment $AB$ and $ACB + AOB = \pi$.
+
+A hypocyclopede at $k=4$ is called an astrude.
+
+Problem 3. Let us draw the diameters of a fixed circle (radius $R$) through the vertices of the astrude. Let's take an arbitrary point with astrude $B$ and draw a tangent to it at this point until it intersects with the diameters at points $E$ and $F$. Prove that the diameter $EF$ does not depend on the choice of point $B$ and is equal to $R$.
+
+*) For the definition of hypocyclopeda, see the article by S. G. Verov “Tangents to roulettes”, «Kvant», 1975, No. 5, p. 30.

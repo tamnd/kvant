@@ -1,0 +1,68 @@
+---
+id: 1975-11-chernavskiy-olimpiada-v-miite-14a13a90
+issue: kvant_1975_11
+year: 1975
+number: "11"
+title: Olympiad at MIIT
+authors:
+  - Чернавский А. В.
+rubric: informatsiya
+rubric_sub: Информация
+page_first: 73
+page_last: 73
+page_labels: "71"
+tag: Q9Z1
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 8687018e797af15c6bc497509a89851194da5bc4494a9bdff8431133fbf9dcfe
+prompt_sha256: draft-1
+translated_from: content/ru/1975/11/articles/24_chernavskiy-olimpiada-v-miite-14a13a90.md
+source_content_sha256: 339d17879c20cc51f1bd057d4bfe053a96d2fe118e6cc4d211a6d2e137767687
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 71⟧
+
+Olympida at MIIT
+
+On April 6, 1975, a traditional mathematical Olympiad was held at the Moscow Institute of Railway Transport Engineers.
+
+The traditions of the MIIT Olympiad are similar to the traditions of the city mathematical Olympiad, in which, by the way, MIIT took a direct part this year. However, one or two tasks for each class correspond to the level of university entrance exams.
+
+One of the problems proposed to schoolchildren of all classes (No. 2 for 8th grade), which had a simple but non-trivial solution, was never solved by the schoolchildren.
+
+370 students from grades 8-10 took part in the Olympiad (No. 2 for grade 8), which had a simple but non-trivial solution, but was never solved by the schoolchildren.
+
+Here is a list of tasks:
+
+8th grade
+
+1. Triangle ABC is inscribed in a circle; the center lies inside the triangle. Is there a triangle inscribed in the same circle whose sides are larger than the corresponding sides of triangle ABC? (We do not know an elementary solution to a similar problem for a three-dimensional example.)
+2. Two people play tic-tac-toe on an endless piece of paper. The winner is the one who is the first to place 5 crosses (toes) horizontally or vertically in a row. Prove that both players, when playing correctly, do not play arbitrarily.
+
+3. A regular triangle and a point in it are given on the plane. Is it always possible to have a sequence of mirror reflections relative to the sides of a triangle or their products to translate a point inside the triangle?
+
+4. FROM 1975³ identical hollow cubes on the 1 mm side, a cube is folded on the 1975 mm side. The Sukhofedka beast is in the corner cube. He can move the cube on any face, but not on the vertex or on the edge, and go into the adjacent cube. Can Sukhofedka go around all the cubes once and end up in the central cube?
+
+5. Each side of the triangle is divided into 1 equal parts. Straight lines parallel to the two sides of the triangle are drawn through the division points. In each of the formed triangles lying inside the given one, the numbers 1 or -1 are written in such a way that the number written in the triangle is equal to the product of the numbers found in the triangles that have a common side with the given one. Prove that triangles that have a common vertex with the original triangle contain numbers.
+
+9th grade
+
+Nos. 1, 2 and 3 are the same tasks as Nos. 2, 4, 5 for 8th grade.
+
+4. Given an alphabet of letters a, b, c, a−1, b−1, c−1. In a word composed of letters of this alphabet, adjacent letters xx−1 or x−1x can be shortened (i.e., thrown out). Is it possible to write a word from the letters of this alphabet in which it is impossible to shorten a single pair of letters, but by crossing out all the occurrences of any letter x and its “inverse” x−1, it is possible to shorten all the words completely?
+
+5. There is a number consisting of zero and 1975 decimal places. Consecutive rounding will be performed, starting from the least significant digit (to the nearest even digit). The result is one. What is the smallest number that could be given first?
+
+10th grade
+
+1. Given a square triangle (p−1) x²—(pk−2)x−1, 0 < k < 1; p > 0. Prove that there is a unique root of the polynomial lying between k and 1.
+2. Given a parallelogram ABCD. CAB + DBC = 90°. Prove that ABCD is either a rhombus or a rectangle.
+3. The same problem as No. 4 for grade 9, but for an arbitrary number of letters.
+4. The same task as No. 2 for 8th grade.
+5. Given a sequence a₀, a₁, a₂, ..., aₙ, aₙ+1, .... Let a₀ = 0, a₁ = 1, aₙ+1, aₙ+2, .... Is there a positive term in the sequence divisible by: a) 4; b) 6; c) 154?
+
+A. V. Chernavsky

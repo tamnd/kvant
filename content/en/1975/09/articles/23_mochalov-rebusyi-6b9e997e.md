@@ -1,0 +1,49 @@
+---
+id: 1975-9-mochalov-rebusyi-6b9e997e
+issue: kvant_1975_9
+year: 1975
+number: "9"
+title: Rebuses
+authors:
+  - Мочалов Л. П.
+rubric: smes
+page_first: 74
+page_last: 74
+page_labels: "72"
+tag: 96NL
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: cdb3e84928ab9e5ebf86389066a76c878ae969de693a71f8b22f93e97f59bc96
+prompt_sha256: draft-1
+translated_from: content/ru/1975/09/articles/23_mochalov-rebusyi-6b9e997e.md
+source_content_sha256: 6db14f41635d699df3205b00434be986612c0f5d3221e545dcb7ea50af892dea
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 72⟧
+
+A dispute broke out, and to resolve it, the guys put a double spiral on one of the tiles, and a half-spiral on the other. Then they poured the same amount of water into identical pans and began to wait on which tile the water would boil first.
+
+Kolya turned out to be right. Having boiled the eggs and satisfied their hunger, the guys resumed their work.
+
+When dusk came, Petya turned on the light bulb.
+“The lighting is kind of weak,” Kolya complained. Probably a low wattage light bulb.
+“127 b, 60 bt,” Petya read the inscription on the light bulb. Now I'll look in the pantry to see if there's anything better. So, this 40-watt light bulb is of no use to us, but this one, although 60-watt, is 220-watt. Let's turn it on: at least she has more direction.
+
+When Petya screwed the light bulb into the socket, the room became significantly brighter, and the guys sat over their books for about an hour.
+
+Returning home, they felt well prepared for the test on the topic “Electricity”.
+What contradictions with physical laws did you notice in this story?
+
+Rebuses
+
+1. Place numbers in the empty circles so that you have correctly performed multiplication and division operations.
+
+2. In the following example, all numbers except sevens are replaced with empty circles
+
+It is known that all numbers of both components are different. It is also known that in the product all the numbers are different. The example needs to be restored.
+
+E. Rekstin
