@@ -1,0 +1,54 @@
+---
+id: 2023-9-gribalko-izbrannyie-zadachi-xxviii-turnira-imeni-a-p-savina-4fa18c60
+issue: kvant_2023_9
+year: 2023
+number: "9"
+title: Đã chọn Giải đấu bài toán XXVIII được đặt theo tên của A.P. Savin
+authors:
+  - Грибалко А. В.
+rubric: olimpiady
+rubric_sub: Олимпиады
+page_first: 40
+page_last: 40
+tag: HX9D
+lang: vi
+source: kvant_digital
+extraction: native
+content_sha256: 7eb7457f4cddeaa0d7cc452ecbb9e4be9fc896263c8b1a5ca7ee11cadbf43f2d
+prompt_sha256: draft-1
+translated_from: content/ru/2023/09/articles/04_gribalko-izbrannyie-zadachi-xxviii-turnira-imeni-a-p-savina-4fa18c60.md
+source_content_sha256: 493e7954bf5e77feed3b8c3d32970f1f84c220e12f2538702d4f75c0731344ab
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+Thế Vận Hội
+
+Đã chọn Giải đấu bài toán XXVIII được đặt theo tên của A.P. Savin
+
+1 (lớp 7–8). 28 học sinh xếp thành vòng tròn và đưa ra các số ngẫu nhiên từ 1 đến 28. Mỗi em trả lời “Có” hoặc “Không” cho câu hỏi “Số của bạn có chia hết cho số của người hàng xóm ở bên trái không?” Có nhiều đáp số trung thành hơn những người không chính xác. Số lượng học sinh lớn nhất có thể trả lời “Có” là bao nhiêu? A. Shapovalov
+
+2 (lớp 5–8). Số quân mã nhỏ nhất có thể đặt trên bàn cờ là bao nhiêu để một trong số họ có thể được di chuyển đến bất kỳ ô trống nào trong không quá hai nước đi? M. Evdokimov
+
+3 (lớp 7–8). Kid có 100 trục trên giá đỡ, mỗi trục có 20 vòng. Đồng thời, trên 50 trục chỉ có các vòng màu trắng và trên 50 trục khác chỉ có các vòng màu đen. Carlson đến và trộn mọi thứ theo thứ tự ngẫu nhiên. Chứng minh rằng Kid có thể lập lại trật tự bằng cách sử dụng một trục bổ sung nếu bạn chỉ có thể di chuyển từng vòng một giữa các trục và bạn có thể đặt tối đa 20 vòng trên mỗi trục. V. Novikov
+
+⟦column⟧
+
+Hãy gọi con nhím là một hình gồm bảy khối (hình trung tâm và sáu hình khối liền kề). Hóa ra mỗi con nhím chứa nhiều khối màu trắng hơn khối màu đen. Chứng minh rằng trong một số khối 2 u 2 u 2 có nhiều khối trắng hơn khối đen. M. Evdokimov
+
+7 (lớp 6–8). Có một số lẻ ngôi nhà trong rừng, một số được nối với nhau bằng những con đường. Có một gnome trong mỗi ngôi nhà. Người lùn được coi là hàng xóm nếu nhà của họ được nối với nhau bằng một con đường. Một ngày nọ, những người lùn trao đổi và chuyển đến những ngôi nhà khác. Đồng thời, hóa ra lại có một chú lùn sống trong mỗi ngôi nhà, và bây giờ những chú lùn là hàng xóm khi và chỉ nếu trước đây họ không phải là hàng xóm. Chứng minh rằng có đúng một người lùn không thay đổi nơi ở. A. Gribalko
+
+8 (lớp 7–8). Một hình lục giác đều được cắt thành hơn 100 hình lục giác đều, mỗi hình có màu trắng hoặc đen. Có đúng là có hai hình lục giác giáp nhau về một cạnh hoặc một phần của cạnh được tô cùng màu? M. Evdokimov
+
+4 (lớp 7–8). Cho tam giác vuông ABC. Cho Z là đường tròn đi qua đỉnh C và tiếp xúc cạnh huyền AB tại điểm B. Chứng minh rằng khoảng cách từ điểm A đến đường tròn Z lớn hơn khoảng cách từ điểm C đến đường thẳng AB. I. Kukharchuk, A. Ershov
+
+9 (lớp 6). Trong năm học sinh của lớp đã tham dự N cuộc thi. Mỗi người đều tham gia vào một số kỳ thi Olympic khác nhau, trong khi mỗi người trong số họ đều có mặt tại Olympic, còn người kia thì không. Số học sinh lớn nhất của lớp này là bao nhiêu? V. Bufeev, O. Mangina
+
+5 (lớp 5–6). Trong hai căn phòng có nhiều người, mỗi người trong số họ là hiệp sĩ hoặc kẻ hèn nhát. Thỉnh thoảng, một người trong số họ di chuyển từ phòng này sang phòng khác và đã ở trong phòng và nói: “Bây giờ trong phòng này có nhiều kẻ nói dối hơn là hiệp sĩ.” Phải chăng mỗi người chỉ thực hiện đúng một lần chuyển từ phòng này sang phòng khác? N. Chernyatyev
+
+10 (lớp 7–8). Các số từ 0 đến 9 được mã hóa theo thứ tự nào đó với các chữ cái từ A đến J. Trong một câu hỏi, bạn được phép đặt tên cho một số chữ cái khác nhau và tìm ra bản ghi được mã hóa về tổng của chúng. Ví dụ: nếu A 5, B 6, C 1 thì bằng cách gọi A và B, bạn có thể biết rằng tổng của chúng bằng CC. Sasha giả định rằng các số được mã hóa theo thứ tự, tức là A 0, B 1, v.v. Liệu anh ta, bằng cách hỏi ba câu hỏi, có thể xác nhận hay bác bỏ giả thuyết của mình không? A. Gribalko, A. Zaslavsky
+
+6 (lớp 5–7). Một khối lập phương 4 u 4 u 4 được làm từ 64 khối đơn vị màu trắng và đen.
