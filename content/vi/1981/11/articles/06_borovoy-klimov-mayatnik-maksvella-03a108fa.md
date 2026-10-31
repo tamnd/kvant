@@ -38,8 +38,8 @@ Chúng tôi muốn cảnh báo ngay với độc giả rằng ma trận sẽ dao
 
 Để nghiên cứu các mô hình chuyển động của ma trận, chúng ta cần
 
-Cơm. 1.
-Cơm. 2.
+Hình 1.
+Hình 2.
 
 ⟦folio 19⟧
 
@@ -77,7 +77,7 @@ trong đó $a$ là mô đun gia tốc của chuyển động tịnh tiến của
 
 ⟦folio 20⟧
 
-Cơm. 4.
+Hình 4.
 
 Do đó, từ phương trình (1) - (3) chúng ta tìm thấy:
 
@@ -111,7 +111,7 @@ $$\Delta E_k = \left( \varrho 2\pi xb \Delta x \right) \frac{\omega^2 x^2}{2},$$
 
 trong đó $\varrho$ là mật độ của vật liệu đĩa, $b$ là độ dày của nó, $\omega$ là tốc độ góc quay và biểu thức trong ngoặc đơn là khối lượng của vòng đã chọn.
 
-Cơm. 5.
+Hình 5.
 
 Động năng của toàn bộ đĩa xấp xỉ bằng tổng động năng của từng bánh xe:
 

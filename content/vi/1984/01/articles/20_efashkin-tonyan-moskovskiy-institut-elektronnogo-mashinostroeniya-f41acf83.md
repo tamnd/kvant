@@ -86,14 +86,14 @@ Vật lý
 Bài thi vấn đáp
 1. Hai tải trọng có khối lượng $m_1 = 0,3$ kg và $m_2 = 0,5$ kg, được nối với nhau bằng một sợi dây không trọng lượng và không thể phá hủy và được ném qua một khối có khối lượng $m = 0,2$ kg (Hình 1). Giả sử khối lượng của khối tập trung ở vành của nó và bỏ qua lực cản chuyển động, hãy xác định lực căng của sợi dây ở cả hai phía của khối. Không có sự trượt giữa khối và sợi.
 
-Cơm. 1.
-Cơm. 2.
+Hình 1.
+Hình 2.
 
 2. Một tải trọng có khối lượng $m = 0,25$ kg được gắn vào hai lò xo không trọng lượng có độ cứng $k_1 = 150$ N/m và $k_2 = 250$ N/m (Hình 2). Ban đầu lò xo ở trạng thái nghỉ. Sau đó, tại một thời điểm nhất định, đầu bên phải của lò xo có độ cứng $k_2$ bị dịch chuyển rất nhanh sang trái một khoảng $a = 0,04$ m và được giữ ở vị trí này. Xác định tốc độ tải đi qua vị trí cân bằng và biên độ của bình chứa tải.
 
 3. Khí trải qua một quá trình tuần hoàn, như trong Hình 3. Có thể thực hiện bao nhiêu công trong một chu trình trong quá trình đó nếu nhiệt độ thấp nhất của khí
 
-Cơm. 3.
+Hình 3.
 
 $$t_1 = 0^\circ C, \text{ а наибольшая } t_3 = 127^\circ C?$$ Thể tích của khí ở nhiệt độ $t_1$ bằng $V_1 = 5$ l, ở $t_3 - V_3 = 6$ l, và trong điều kiện bình thường lượng khí này chiếm thể tích $V_0 = 10$ l.
 
@@ -103,7 +103,7 @@ $$t_1 = 0^\circ C, \text{ а наибольшая } t_3 = 127^\circ C?$$ Thể t
 
 6. Tìm điện áp trên các tụ điện có điện dung là $C_1 = 2$ µF và $C_2 = 3$ µF, nếu emf của các nguồn là $δ_1 = 3$ V và $δ_2 = 8$ V (Hình 4).
 
-Cơm. 4.
+Hình 4.
 
 7. Hai quả cầu dẫn điện có bán kính $r_1 = 1$ cm và $r_2 = 0,5$ cm, được nối với nhau thông qua các miếng đệm cách điện bằng một lò xo có độ cứng $k = 100$ N/m và chiều dài $l_0 = 9,9$ cm. Tuy nhiên, điện tích $q$ được nối từ quả cầu và sau đó các quả cầu được nối bằng một sợi dây mỏng, dẻo. Trong trường hợp này, khoảng cách giữa các quả cầu trở thành $l = 10,5$ cm. Tìm điện tích $q$ nếu trước thông báo của nó lực căng của lò xo bằng 0.
 

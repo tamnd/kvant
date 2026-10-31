@@ -41,4 +41,4 @@ dây dẫn và độ chênh lệch nhiệt độ giữa dây dẫn và không gi
 4. Tìm tất cả các đa giác lồi có tính chất sau:
 đáy của đường vuông góc vẽ từ một điểm bất kỳ bên trong đa giác tới một cạnh bất kỳ nằm bên trong cạnh đó.
 
-Cơm. E. Nazarova
+Hình E. Nazarova

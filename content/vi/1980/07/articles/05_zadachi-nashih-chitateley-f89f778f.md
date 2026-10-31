@@ -23,7 +23,7 @@ translation_quality: draft
 
 ⟦folio 9⟧
 
-Cơm. 8.
+Hình 8.
 
 nhưng, khi biết các giá trị của góc duhran (bài toán 19), bạn có thể thử dán khối đa diện đều cần thiết: dán một $n$-gon đều ở góc cần thiết với một góc khác, dán cái thứ ba vào chúng, v.v. Nhưng đâu là niềm tin rằng khối đa diện được dán sẽ “đóng lại” và không kết thúc bằng thứ gì đó giống như hình trong Hình 8?
 

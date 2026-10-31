@@ -163,9 +163,9 @@ Cách thứ hai là chấp nhận thực tế là chu kỳ chuyển động củ
 
 Có một cách thứ ba. Có thể đảm bảo rằng chu kì chuyển động không phụ thuộc vào năng lượng của hạt, với điều kiện
 
-Cơm. 5.
+Hình 5.
 
-Cơm. 6.
+Hình 6.
 
 niv hình dạng quỹ đạo của nó. Đây là những gì được thực hiện trong cyclotron đẳng thời. Như chúng ta đã tìm ra, với quỹ đạo có dạng hình tròn (hay chính xác hơn là xoắn ốc), chu kỳ chuyển động của các hạt tăng theo bán kính. Để tránh điều này, chúng tôi tăng thời gian chuyển động của hạt ở mức năng lượng thấp một cách giả tạo. Điều này có thể được thực hiện bằng cách loại bỏ đường dẫn, chẳng hạn như ghép hình tròn lại với nhau thành hình đa giác với các góc tròn. Những quỹ đạo thuộc loại này được thể hiện trong Hình 5. Khi năng lượng của hạt tăng lên, các góc của đa giác ngày càng tròn hơn và quỹ đạo của hạt tiến đến hình tròn.
 

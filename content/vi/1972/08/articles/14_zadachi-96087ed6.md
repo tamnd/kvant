@@ -61,7 +61,7 @@ G. A. Kasparov
 
 F168. Một cây bút chì sáu cực được đẩy dọc theo mặt phẳng ngang như hình 1. Tại giá trị nào của hệ số
 
-Cơm. 1. Hình 2.
+Hình 1. Hình 2.
 
 ma sát α giữa bút chì và mặt phẳng, liệu bút chì có trượt dọc theo mặt phẳng mà không quay không? (lớp 8, lớp 9)
 

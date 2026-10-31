@@ -61,7 +61,7 @@ L. G. Limanov
 **M289.** *N quả cân, mỗi quả nặng một số nguyên gam, được xếp thành K đống có trọng lượng bằng nhau. Chứng minh rằng có thể loại bỏ một trong các quả cân bằng ít nhất K cách khác nhau sao cho (N - 1) quả cân còn lại không thể chia thành K đống có trọng lượng bằng nhau.*
 
 ⟦figure⟧
-Cơm. 3.
+Hình 3.
 
 **M290.** *Vì cái gì n tồn tại một đường đứt rời khép kín gồm n liên kết sao cho bất kỳ đường thẳng nào chứa một trong các liên kết của đường gãy này đều chứa ít nhất một liên kết nữa?*
 
@@ -134,9 +134,9 @@ $$U'_i = \frac{q'_i}{C_i} = \left( 1 - k \frac{C_0}{C_i} \right) U.$$
 
 F297. Chúng tôi đóng hai lỗ cùng một lúc bằng phích cắm hình nón trong một bình phẳng chứa đầy p. Bán kính lỗ R và r. Xác định tổng lực tác dụng lên nút của chất lỏng. Chúng tôi không tính đến lĩnh vực mềm mại.
 
-Cơm. 6.
+Hình 6.
 
-Cơm. 7.
+Hình 7.
 
 Mỗi phần tử nhỏ của bề mặt bên của phích cắm có diện tích $\Delta s_i$ chịu tác dụng của một lực áp suất chất lỏng $\Delta F_i = p \Delta s_i$, hướng vuông góc với bề mặt bên của phích cắm (Hình 7). Từ tính đối xứng, có thể thấy rõ các thành phần nằm ngang của các lực như vậy tác dụng lên các phần tử nhỏ khác nhau của bề mặt nút chai cộng lại sẽ tiêu diệt lẫn nhau. Do đó, hợp lực của các lực ép có phương thẳng đứng và bằng tổng các thành phần thẳng đứng của các lực này. Đó là
 $$F = \Sigma F_i \sin \alpha = \Sigma p \Delta s_i \sin \alpha = p \Sigma \Delta s_i \sin \alpha.$$
@@ -146,7 +146,7 @@ Hãy cho thêm một lời giải trong số bài toán này. Chúng ta hãy xem
 
 ⟦folio 56⟧
 
-Cơm. 8.
+Hình 8.
 
 F298. Bên trong máy ảnh, vuông góc với tấm đồng nhất, có một gương phẳng, chiều dài của DB bằng một nửa tiêu cự của vật (Hình 9). Ảnh A của sao Vega nằm tính từ tâm của tấm đồng nhất ở khoảng cách bằng một nửa bán kính của vật thể. Độ sáng của “ảnh phản chiếu” C của sao Vega nhỏ hơn độ sáng của ảnh A của nó khi có gương bao nhiêu lần?
 
@@ -162,7 +162,7 @@ Xét thấu kính của một vật trong mặt phẳng vuông góc với chùm 
 
 Tấm ảnh nằm trong mặt phẳng tiêu điểm của vật, chiều dài của gương bằng một nửa tiêu cự của vật nên $DB = OD$ (xem Hình 9) và $\Delta GDO = \Delta ADB$. Do đó, $GO = AB = R/2$, trong đó $R$ là bán kính của vật thể.
 
-Cơm. 10.
+Hình 10.
 
 sự vật. Sau đó (xem Hình 10) $\angle GKO = 30^\circ$, $\angle KOG = 60^\circ$ và $\angle EOK = 120^\circ$. Bây giờ chúng ta biểu thị diện tích của các đoạn $S_1$ và $S_2$ thông qua diện tích của các cung tương ứng và tam giác EOK:
 

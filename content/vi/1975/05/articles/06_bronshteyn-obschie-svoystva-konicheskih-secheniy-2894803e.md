@@ -61,19 +61,19 @@ Parabol. Trường hợp này được thảo luận trong bài “Parabola” *
 
 *) «Kvant», № 4, c. 16.
 
-Cơm. 1.
+Hình 1.
 
 niya P từ các phía khác nhau (Hình 3, a, 6). Chúng ta hãy biểu thị bằng $F_1$ và $F_2$ các điểm tiếp tuyến của mặt phẳng này với các hình cầu. Lấy một điểm tùy ý $M$ trên đường thẳng của tiết diện hình nón theo mặt phẳng P. Đánh dấu trên tọa độ của hình nón đi qua $M$ các điểm $P_1$ và $P_2$ nằm trên đường tròn $k_1$ và $k_2$ mà các quả cầu tiếp xúc với hình nón. Rõ ràng $MF_1 = MP_1$ là các đoạn của hai tiếp tuyến với hình cầu thứ nhất,
 
 ⟦folio 33⟧
 
 ⟦figure⟧
-Cơm. 3.
+Hình 3.
 
 ⟦column⟧
 
 ⟦figure⟧
-Cơm. 4.
+Hình 4.
 
 3 «Kvant» № 5
 
@@ -104,7 +104,7 @@ Nhưng cạnh trái, theo tính chất tiêu cự của hình elip, không đổ
 Lý do tương tự đối với hyperbol.
 
 ⟦figure⟧
-Cơm. 5.
+Hình 5.
 
 ⟦folio 35⟧
 
@@ -130,7 +130,7 @@ Tuy nhiên, nếu chúng ta hợp nhất hình elip sang bên phải một đơn
 
 ⟦folio 36⟧
 
-Cơm. 7.
+Hình 7.
 
 tiếp theo từ trước nếu $x$ được thay thế bằng $x - a$:
 
@@ -142,7 +142,7 @@ $$y^2 = \frac{2b^2}{a} x - \frac{b^2}{a^2} x^2.$$
 
 Nhận thấy rằng $p = \frac{b^2}{a}$ (chúng ta có thể tính trực tiếp giá trị này; xem Hình 7.6)
 
-Cơm. 8.
+Hình 8.
 
 và $\frac{b^2}{a^2} = \frac{a^2 - c^2}{a^2} = 1 - \varepsilon^2$, chúng ta có thể viết phương trình này như sau:
 
@@ -168,9 +168,9 @@ Chúng ta hãy xem xét một mặt phẳng P cắt một hình nón dọc theo 
 
 *) Đúng, với công thức này, chúng ta không chỉ phải coi một đường cong là một phần hữu hạn mà còn phải coi một cặp đường thẳng giao nhau (phương trình $x^2-y^2=0$). Tuy nhiên, điều này là hoàn toàn tự nhiên, vì mặt phẳng đi qua đỉnh của hình nón có thể cắt nó dọc theo hai đường thẳng, tức là dọc theo một tiết diện hữu hạn “suy biến”.
 
-Cơm. 9.
+Hình 9.
 
-Cơm. 10.
+Hình 10.
 
 ⟦folio 38⟧
 
@@ -186,7 +186,7 @@ Hình 12 thể hiện một mạng lưới dày đặc gồm hai chuỗi đườ
 
 *) Các phép tính đơn giản (chúng tôi không trình bày) cho thấy rằng độ lệch tâm của hyperbol, có thể thu được bằng cách cắt một hình nón tròn cho trước bằng một mặt phẳng, không thể chuyển đổi thành 1/cos α, trong đó α là góc giữa trục và ma trận của hình nón. (Điều này xuất phát từ thực tế là góc giữa các tiệm cận của hyperbol thu được trong phần này không chuyển thành 2α.)
 
-Cơm. 11.
+Hình 11.
 
 ⟦folio 39⟧
 

@@ -111,9 +111,9 @@ $= (a^2+b^2+ab\sqrt{2})(a^2+b^2-ab\sqrt{2})$.
 5. Đáp số: 2,5 lần. Gợi ý. Tìm xem máy đào sẽ đào được bao nhiêu hình thang nếu trong suốt thời gian cho biết, chúng không làm việc cùng một lúc mà tất cả cùng nhau.
 6. Đáp số: 1/4. Gợi ý. Dễ dàng thấy (chứng minh bằng phản chứng) rằng các số a và b khác dấu hoặc dương. Trong trường hợp đầu tiên, tích của chúng là âm và trong trường hợp thứ hai là dương, vì vậy sẽ hợp lý khi chỉ xem xét các giá trị dương của a và b. Theo bất đẳng thức giữa trung bình số học và trung bình hình học,
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
 ⟦folio 59⟧
 
@@ -151,9 +151,9 @@ Giải pháp duy nhất cho hệ thống này là $a=b=1$.
 
 ⟦folio 60⟧
 
-Cơm. 5.
+Hình 5.
 
-Cơm. 6.
+Hình 6.
 
 lời giải của bất đẳng thức này tạo thành hợp của các tích phân $\frac{\pi}{3} + 2\pi k < y < \frac{\pi}{2} + 2\pi k, \frac{\pi}{2} + 2\pi k < y < \pi + 2\pi k, \pi + 2\pi k < y < \frac{3\pi}{2} + 2\pi k; \frac{3\pi}{2} + 2\pi k < y < \frac{5\pi}{3} + 2\pi k$ tích phân đầu tiên và cuối cùng trong số các tích phân được liệt kê có độ dài $\frac{\pi}{6}$ và do đó đoạn $I$ không thể chứa trong bất kỳ tích phân nào trong số chúng. Điều này có nghĩa là $I$ chỉ có thể được chứa trong một trong các tích phân có độ dài $\frac{\pi}{2}$. Do đó $1 + \frac{a}{8} < \frac{\pi}{2}$. Phần còn lại là rõ ràng.
 
@@ -217,7 +217,7 @@ $\beta = \frac{mv^2/2 - m(v/2)^2/2 - MV^2/2}{mv^2/2} = \frac{3}{4}\left(1 - 3 \f
 
 ⟦folio 63⟧
 
-Cơm. 12.
+Hình 12.
 
 đoạn MK có độ dài $|MC|$ rồi chứng minh rằng $\triangle AKC \cong \triangle BMC$.
 
@@ -237,17 +237,17 @@ Khoa Toán
 1. $v' = v / \sqrt{2} \approx 10 \text{ m/c}$.
 2. $T = \frac{\Delta T}{(1 - \alpha)(1 + \beta)} - 1 = 200 \text{ K}$ (ở đây $\Delta T = 16 \text{ K}$).
 
-Cơm. 13.
+Hình 13.
 A' $\rightarrow \infty$
 
-Cơm. 14.
+Hình 14.
 $\nu, \text{M}\Gamma$
 
-Cơm. 15.
+Hình 15.
 $L, \text{мкГн}$
 
-Cơm. 16.
-Cơm. 17.
+Hình 16.
+Hình 17.
 
 $\alpha = 0,1$ và $\beta = 0,2$.
 3. Xem hình. 15.

@@ -104,7 +104,7 @@ Tùy chọn 3
 
 ⟦folio 50⟧
 
-Cơm. 7.
+Hình 7.
 
 phân vùng? Nội năng của một mol khí là $U=CT$. Thành bình và piston không dẫn nhiệt, không có ma sát.
 

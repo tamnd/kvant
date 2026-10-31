@@ -72,7 +72,7 @@ I. A. Zaitsev
 
 F145. Khí lý tưởng lần đầu tiên chuyển từ trạng thái 1 ($P_1, V_1, T_1$) sang trạng thái 2 ($P_2, V_1, T_2$). Sau đó, từ trạng thái 2, khí chuyển từ từ và ngẫu nhiên (không có nguồn cung cấp từ cơ thể) sang trạng thái 3 ($P_3, V_3, T_3$). Được biết, trong quá trình chuyển tiếp 2→3, khí thực hiện công bằng với lượng vật truyền cho khí trong quá trình chuyển đổi 1→2.
 
-Cơm. 3.
+Hình 3.
 
 Hãy chứng minh rằng $T_3 = T_1$. Vẽ các tiến trình 1→2 và 2→3 trên mặt phẳng VT.
 

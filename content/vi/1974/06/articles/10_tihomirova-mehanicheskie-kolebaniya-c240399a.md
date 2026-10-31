@@ -97,7 +97,7 @@ Telery về biên độ dao động. Tất nhiên, nó phụ thuộc vào năng 
 
 ⟦folio 33⟧
 
-Cơm. 3.
+Hình 3.
 
 Nhiệm vụ 1. Chúng ta thực hiện một dao động điều hòa của một nam châm lò xo có tần số tuần hoàn $\omega$ và biên độ $x_0$. Tìm các giá trị lớn nhất của gia tốc và tốc độ của nam châm cũng như độ lớn cơ năng của nó.
 
@@ -115,7 +115,7 @@ Vì độ dịch chuyển của nam châm và gia tốc của nó thay đổi th
 
 Cơ năng của nam châm $E$ bao gồm động năng của quả bóng $E_K = mv^2/2$ và thế năng biến dạng đàn hồi của cánh tay $E_\pi = kx^2/2$.
 
-Cơm. 4.
+Hình 4.
 
 Khi đi qua vị trí cân bằng, khi cánh tay không trọng lượng không bị biến dạng và tốc độ bóng $v_0$ là cực đại thì tổng năng lượng
 
@@ -183,7 +183,7 @@ Chúng ta sẽ tìm biên độ của dao động dựa trên định luật b�
 
 ⟦folio 35⟧
 
-Cơm. 6.
+Hình 6.
 
 Tại thời điểm ban đầu tải trọng có thế năng hấp dẫn. Khi lò xo bị kéo căng đến mức tối đa thì thế năng biến dạng của lò xo được tích trữ trong lò xo (ta lấy vị trí thấp nhất của chốt với tải trọng làm điểm bắt đầu đếm chiều cao nên trong trường hợp thứ hai tải trọng không có năng lượng). Hãy đánh đồng những năng lượng này *):
 
@@ -203,7 +203,7 @@ Bài tập 3. Kể tên dao động của nam châm ở hình b. Hệ số lò x
 
 *) Điều này có thể thực hiện được vì chiếc cốc không có trọng lượng và năng lượng ban đầu của chiếc cốc chịu tải bằng năng lượng của vật rơi.
 
-Cơm. 7.
+Hình 7.
 
 cân bằng nên ta có thể viết:
 
@@ -267,7 +267,7 @@ Từ Hình 8, rõ ràng điều này chỉ có thể thực hiện được nế
 
 Vì vậy, thành phần trọng lực dọc theo mặt phẳng, bằng $mg \sin \alpha$, sẽ tạo cho nam châm chuyển động có gia tốc dọc theo mặt phẳng nghiêng. Lực căng luôn vuông góc với quỹ đạo của quả bóng so với xe cũng không thể đóng vai trò là lực phục hồi. Do đó, vẫn còn một lớp - thành phần trọng lực, vuông góc với mặt phẳng và bằng $mg \cos \alpha$. Có thể nói rằng nam châm dao động như thể trong một trường hấp dẫn khác với gia tốc rơi tự do $g' = g \cos \alpha$.
 
-Cơm. 8.
+Hình 8.
 
 ⟦folio 37⟧
 

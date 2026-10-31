@@ -51,7 +51,7 @@ $$P = aT,$$
 
 Bài toán 2. Khối lượng của khí trong bình có xương $V$ thay đổi như thế nào nếu khi đun nóng khí từ nhiệt độ $T_1$ đến nhiệt độ $T_2$, áp suất trong bình thay đổi từ $P_1$ thành $P_2$? Khối lượng phân tử của khí là $\mu$.
 
-Cơm. 1.
+Hình 1.
 
 Lời giải. bài toán này có thể được giải không phải bằng phương trình trạng thái khí mà bằng các định luật Boyle - Mariotte, Gay-Lussac và Charles. Tuy nhiên, lời giải này khá cồng kềnh và đòi hỏi sự khéo léo. Sử dụng phương trình trạng thái khí bài toán có thể được giải khá đơn giản.
 
@@ -210,7 +210,7 @@ Cái đó
 
 $$A = \frac{P_2 - P_1}{2} \left( \frac{T_2}{P_2} - \frac{T_1}{P_1} \right) R.$$
 
-Cơm. 3.
+Hình 3.
 
 Nhiệt dung của khí lý tưởng (trái ngược với chất lỏng và chất rắn) phụ thuộc vào quá trình xảy ra với chất khí. Ví dụ, nhiệt dung riêng đó là lượng nhiệt cần phải thêm vào một chất khí để tăng nhiệt độ của nó lên $1^\circ$. Khi khối lượng của chất khí bằng một đơn vị khối lượng thì nhiệt lượng được gọi là nhiệt dung riêng, và khi quá trình đó bao gồm một mol khí thì nó được gọi là mol.
 
@@ -238,7 +238,7 @@ $$cm \Delta T = c_V m \Delta T + A.$$
 
 Điều này có nghĩa là để tìm nhiệt lượng của một chất khí trong mỗi quá trình nhất định, bạn cần tìm biểu thức tính công mà chất khí thực hiện. Và chúng tôi đã biết cách thực hiện việc này.
 
-Cơm. 5.
+Hình 5.
 
 Hãy giải quyết bài toán sau đây.
 
@@ -260,7 +260,7 @@ $$V_1 = \frac{1}{P} \frac{m}{\mu} RT_1$$ và $$V_2 = \frac{1}{P} \frac{m}{\mu} R
 
 $$A = P \frac{1}{P} \frac{m}{\mu} R (T_2 - T_1) = \frac{m}{\mu} R \Delta T.$$
 
-Cơm. 6.
+Hình 6.
 
 Điều này có nghĩa là
 

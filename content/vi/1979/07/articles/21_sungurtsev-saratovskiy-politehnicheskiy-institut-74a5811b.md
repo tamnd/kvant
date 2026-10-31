@@ -96,7 +96,7 @@ Có thể kiểm tra đáp số?
 $$x = \frac{m}{M + m} L$$
 2. Xem hình. 1.
 
-Cơm. 1.
+Hình 1.
 
 Những lựa chọn cho kỳ thi tuyển sinh đại học năm 1978
 
@@ -123,7 +123,7 @@ $$\vec{v} = \frac{m_1 m_2 (1 + \mu)}{m_1 + m_2} g = 8,8 \text{ H}.$$
 $$\mathcal{E} = I_1 r + P_1 / I_1 = 2,2 \text{ В}.$$
 5. Xem hình. 2.
 
-Cơm. 2.
+Hình 2.
 
 Tùy chọn 2
 2. $$\vec{v}_1 = |\vec{v}| \sqrt{1 - m/M};$$
@@ -273,7 +273,7 @@ Vật lý
 1. Chiều cao $H$ của thang máy về số lượng bằng diện tích hình thang $OABC$ (Hình 3):
 $H = |\vec{v}| (t_1 + 2t_2 + t_3)/2 = 26$ m.
 
-Cơm. 3.
+Hình 3.
 2. $H = \frac{(h + gt^2/2)^2}{2gt^2} \approx 534$ m.
 3. $|\vec{F}_{\pi}| = m (g + |\vec{a}|) = 756$ N.
 4. $p = \rho gh + 4\sigma/d = 1,02 \cdot 10^5$ N/m$^2$.

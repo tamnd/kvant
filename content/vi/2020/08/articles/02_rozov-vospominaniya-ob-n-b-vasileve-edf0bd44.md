@@ -45,7 +45,7 @@ trong số các đa giác này có hai đa giác bằng nhau. (Olympic toàn Li�
 
 ⟦figure⟧
 
-Cơm. 1
+Hình 1
 
 hình lục giác có cạnh 1 (Hình 1). Một con bọ, di chuyển dọc theo các đường của mạng, bò từ nút A nào đó đến nút B nào đó dọc theo con đường ngắn nhất bằng 100. Chứng minh rằng một nửa toàn bộ con đường nó bò theo một hướng (Olympic toàn Nga lần thứ tư, 1964, Moscow)
 
@@ -59,7 +59,7 @@ hình lục giác có cạnh 1 (Hình 1). Một con bọ, di chuyển dọc theo
 
 ⟦figure⟧
 
-Cơm. 2
+Hình 2
 
 Giả sử chỉ có một ô được kích thích tại thời điểm ban đầu t 0. Có bao nhiêu ô sẽ ở trạng thái kích thích sau 15 ms? trong 65 mili giây? trong 1000 mili giây? trong thời gian ngắn? Điều gì sẽ xảy ra nếu chuỗi không phải là vô hạn mà chỉ chứa N ô được kết nối thành một vòng tròn (Hình 3) - liệu sự kích thích sẽ được duy trì vô thời hạn hay nó sẽ biến mất? (“Bài toán Kvant, Hình 3 bài toán M19)
 

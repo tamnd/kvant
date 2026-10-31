@@ -72,7 +72,7 @@ Trên cơ sở này, cuối cùng chúng tôi thực hiện một số tính to�
 
 TÍNH TOÁN. Vì theo điều kiện có $AB = \frac{a}{2}\sqrt{5}$ và $AB' = a$ nên $B'B'' = BB' = \sqrt{\left(\frac{a}{2}\sqrt{5}\right)^2 - a^2} = \frac{a}{2}$. Do đó, trong một tam giác vuông, $AB'$ sẽ không thay đổi nếu mặt phẳng là $P' \parallel P$ (Hình 5).
 
-Cơm. 5.
+Hình 5.
 
 hình vuông $AB'B'''$ được thực thi tương ứng với: $B'B''' = \frac{1}{2}AB'$ và $\Rightarrow B'AB''' = 30^\circ$. Nhưng $\Rightarrow B'AD' = 90^\circ$ có nghĩa là $\Rightarrow D'AD''' = 60^\circ$. Điều này có nghĩa là $AD' = a$, chúng tôi tìm thấy
 
@@ -106,7 +106,7 @@ Chiều cao của paramid không thể nằm ở mặt $ADC$ hoặc ở mặt $A
 
 ⟦folio 59⟧
 
-Cơm. 9.
+Hình 9.
 
 Nhưng theo điều kiện $DK=AK=h$, do đó $AD=BC=h\sqrt{2}$, $KC=\frac{h}{2}\sqrt{2}$ và $DC=\sqrt{h^2+\left(\frac{h}{2}\sqrt{2}\right)^2}=h\sqrt{\frac{3}{2}}$.
 

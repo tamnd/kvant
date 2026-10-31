@@ -70,7 +70,7 @@ Bài tập
 
 11. Viết một chương trình cho Người soạn thảo, theo đó anh ta, trên bất kỳ tờ giấy nào: a) sẽ đến góc của tờ giấy, bất cứ nơi nào chúng ta đặt nó; b) sơn tất cả các ô của tờ giấy; c) sẽ di chuyển ra khỏi mép của tờ giấy nếu nó được đặt ở mép; d) xác định xem anh ta có ở trong góc hay không, sơn hình vuông ở góc nếu anh ta ở trong góc và giữ nguyên vị trí ban đầu nếu không. 12. Viết chương trình cho Người soạn thảo, theo đó anh ta, trên một tờ giấy vuông bất kỳ: a) bắt đầu từ vị trí trong Hình 2, vẽ một dải k 2 ô nếu k chẵn và trở về vị trí ban đầu không vẽ gì nếu k lẻ; b*) sẽ tô màu tất cả các ô của hình vuông, ngoại trừ các ô chứa tâm của nó (tuỳ theo độ dài ngang bằng của cạnh trang tính mà tâm là một ô hoặc bốn ô).
 
-Cơm. 2
+Hình 2
 
 ⟦folio 40⟧
 
@@ -86,13 +86,13 @@ Bài tập
 
 ⟦figure⟧
 
-Cơm. 4
+Hình 4
 
 nhưng mô hình sử dụng số mũ cho số nguyên tố - có một chỉ số thì có nhiều. Từ thực tế này, người ta có thể rút ra tính không thể quyết định được về mặt thuật toán của một số phát biểu - ví dụ, định lý Matiyasevich đã được đề cập ở trên. Bạn đã thấy ý tưởng đi xe đạp hoạt động như thế nào. Mặc dù trông khá đơn giản, nhưng bài toán, lấy ý tưởng này làm ý chính, không phải lúc nào cũng dễ dàng. Có chuyện gì thế này? Hóa ra là ngay cả những ý tưởng chính rất đơn giản cũng nên biết trước, nếu không chúng sẽ khó được khám phá giữa những ý tưởng và sự phức tạp về mặt kỹ thuật khác. Nếu chưa xác định được ý chính và có khó khăn về mặt kỹ thuật thì ý tưởng đó phải được “trích xuất”, nhưng không phải trực tiếp mà có sự giúp đỡ của người khác bài toán. Xét cho cùng, bài toán không tồn tại một mình mà được bao quanh bởi những người thân của nó (ngay cả đối với lời giải “một ô” bài toán 1, cần phải xem xét các chữ số cuối cùng của tất cả các lũy thừa của hai). Vì vậy, họ nghiên cứu bài toán, có liên quan về mặt tư tưởng với cái này (đây là cách lời giải bài toán 13 về tâm hình vuông được đặt ra). Thông thường, vì mục đích này, các trường hợp đặc biệt quan trọng nhất hoặc mô hình khác bài toán sẽ được xem xét, trong đó các khó khăn hiện diện ở “dạng yếu hơn” và có ít khó khăn kỹ thuật hơn.
 
 ⟦figure⟧
 
-Cơm. 5
+Hình 5
 
 17. Viết thông dịch viên cho ngôn ngữ Minotaur và Draftsman.
 

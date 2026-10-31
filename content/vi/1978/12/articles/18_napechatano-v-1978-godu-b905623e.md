@@ -23,7 +23,7 @@ translation_quality: draft
 
 ⟦folio 61⟧
 
-Cơm. 2.
+Hình 2.
 
 Excadron hoạt động
 

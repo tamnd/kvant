@@ -292,7 +292,7 @@ Các bài tập của trường đã chọn
 
 2. a) Phương pháp I. Các hình tam giác $ABO$ và $BCO$ có chung một chiều cao được vẽ từ đỉnh $B$, do đó diện tích của chúng liên hệ với độ dài của các đáy: $\frac{S_1}{S_2} = \frac{|AO|}{|CO|}$ (Hình 1); tương tự như $\frac{S_4}{S_3} = \frac{|AO|}{|CO|}$. Do đó, $\frac{S_1}{S_2} = \frac{S_4}{S_3}$ và do đó $S_1S_3 = S_2S_4$. phương pháp II. Cả hai tích đều bằng $\frac{1}{4}|AO||BO||CO||DO|\sin^2\varphi$, trong đó $\varphi$ là góc giữa các đường thẳng $AC$ và $BD$.
 
-Cơm. 1.
+Hình 1.
 
 6) Đáp số: $\sqrt{S_1S_2}$. Gợi ý. (Hình 2) $S_{ABD} = S_{ACD}$ (chúng có đáy chung $AD$ và chiều cao bằng nhau được vẽ thành $AD$), do đó $S_{CDO} = S_{ABO} = S$; sau đó nhận ngay câu sau câu a): $S^2 = S_1S_3$. Một cách khác: từ sự giống nhau của các tam giác $BOC$ và $AOD$ suy ra $\frac{|AO|}{|OC|} = \sqrt{\frac{S_2}{S_1}}$. Mặt khác, $\frac{S}{S_1} = \frac{|AO|}{|OC|}$ (xem mục a)), từ đó $\frac{S}{S_1} = \frac{\sqrt{S_2}}{\sqrt{S_1}}$ và $S = \sqrt{S_1S_2}$.
 

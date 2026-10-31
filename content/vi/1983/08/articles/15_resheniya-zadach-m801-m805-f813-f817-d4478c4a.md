@@ -89,11 +89,11 @@ M805*. a) Trên các cạnh BC, CA, AB của tam giác ABC lần lượt chọn 
 
 6) Trên các mặt BCD, CDA, BDA, ABC của tam giác ABC, lần lượt chọn các điểm A₁, B₁, C₁, D₁ sao cho các đoạn AA₁, BB₁, CC₁, DD₁ cắt nhau tại một điểm. Chứng minh rằng V₁A₁B₁C₁ ₁ABCD/27.
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
-Cơm. 3.
+Hình 3.
 
 Trước hết, chúng ta sẽ chứng minh một số bổ đề đơn giản nhưng rất hữu ích về mối quan hệ giữa diện tích hình tam giác và thể tích của tứ diện.
 

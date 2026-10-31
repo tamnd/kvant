@@ -48,11 +48,11 @@ Chương thứ tư, “Bổ sung ảnh ba chiều”, là chương chính và c�
 
 ⟦folio 59⟧
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
-Cơm. 3.
+Hình 3.
 
 2. Sử dụng sơ đồ hiển thị trong Hình 1, chúng ta tạo ra phương trình:
 
@@ -136,7 +136,7 @@ Thử nghiệm bài toán
 
 ⟦folio 60⟧
 
-Cơm. 4.
+Hình 4.
 
 3. Số đường chéo của một hình bảy giác lồi là 14 (chứng minh đi!). Nếu hai đường chéo bất kỳ song song thì góc giữa chúng là ()°, nhỏ hơn 13°. Để bây giờ đừng như thế nữa.
 Chúng ta hãy chọn một điểm O nhất định trên mặt phẳng và kẻ qua 14 đường thẳng song song với các đường chéo của hình bảy giác. Những đường thẳng này sẽ chia mặt phẳng thành 28 góc, tổng cộng là 360°. Giả sử mỗi góc này không nhỏ hơn 13° thì tổng của chúng ít nhất sẽ bằng 28 • 13° = 364°, nhưng thực tế nó bằng 360°. Mâu thuẫn!
@@ -148,4 +148,4 @@ Chúng ta hãy chọn một điểm O nhất định trên mặt phẳng và k�
 Trang bìa thứ hai
 Có thể tháo một mắt ra như trong Hình 5. Hình “thắt nút” đặt trên trang bìa ở phía dưới bên phải cũng có thể được đưa ra hình 8; điều này được giải thích trong «Kvant», 1981, số 3 trên trang. 14.
 
-Cơm. 5.
+Hình 5.

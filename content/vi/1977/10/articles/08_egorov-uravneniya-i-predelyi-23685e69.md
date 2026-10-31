@@ -70,7 +70,7 @@ Bài tập 3. Biểu thị $a_n$ theo $n$ nếu $a_0 = 1$ và a) $a_n = a \cdot 
 
 Chúng ta cần giải phương trình (1), trong đó $\varphi$ là một hàm nào đó. Hãy lấy một số tùy ý $a_0 \in D(\varphi)$ và xác định chuỗi $\{a_n\}: a_n = \varphi(a_{n-1})$ một cách lặp lại. Giả sử $a_n \in D(\varphi)$ cho tất cả $n \in \mathbb{N}$.
 
-Cơm. 1.
+Hình 1.
 
 ⟦folio 35⟧
 
@@ -164,7 +164,7 @@ Hệ quả 2. Nếu phương trình (4) có nhiều hơn một nghiệm thì dã
 
 ⟦folio 37⟧
 
-Cơm. 4.
+Hình 4.
 
 dãy này là nghiệm của phương trình (3).
 
@@ -184,7 +184,7 @@ Bài tập 9. Tiến hành nghiên cứu tương tự về hàm $y = \frac{\ln x
 
 Do đó, đối với $\ln a > 1/e$, tức là $a > e^{1/e}$, phương trình (5) không có nghiệm.
 
-Cơm. 5.
+Hình 5.
 
 Đối với $0 < \ln a < 1/e$, tức là $1 < a < e^{1/e}$, phương trình (5) có hai nghiệm.
 

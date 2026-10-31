@@ -42,13 +42,13 @@ M403. Chứng minh rằng nếu trong một đa tạp lồi có một số cạn
 
 Thật dễ dàng để xác minh rằng đa biên của chúng ta có thể được tô bằng hai màu—ví dụ: trắng và đỏ—để hai mặt liền kề (dựa trên cạnh) bất kỳ có màu khác nhau. Trong thực tế, hãy sắp xếp đa biên sao cho tất cả các đỉnh của nó có độ cao khác nhau (nghĩa là sao cho không có cạnh và không có đường chéo nào song song với đường ngang - xem Hình 1. Hãy vẽ một mặt phẳng đi qua đỉnh của mặt phẳng ngang. Hạ dần mặt phẳng này xuống, chúng ta tô màu đa biên theo cách yêu cầu: vì một số mặt chẵn hội tụ tại mỗi đỉnh nên gần đỉnh chúng ta có thể chọn màu của các mặt
 
-Cơm. 1.
+Hình 1.
 
 ⟦folio 49⟧
 
 M408. Một hình chữ nhật tương tự như hình ban đầu được tạo từ 30 hình chữ nhật có thể tải được. Tỷ lệ chiều dài đường thẳng của hình chữ nhật này có thể là bao nhiêu?
 
-Cơm. 7
+Hình 7
 
 Lấy chiều dài nhỏ hơn cạnh của hình chữ nhật (nhỏ) ban đầu làm một và đặt chiều dài của nó lớn hơn cạnh $a$ ($a > 1$). Gọi $A$ là chiều dài cạnh lớn hơn của hình chữ nhật “tổng hợp” và $B$ chiều dài cạnh ngắn hơn của nó. Vì hình chữ nhật lớn hơn bao gồm các hình nhỏ có cạnh dài là 1 và $a$, nên anh ta sẽ tìm các số $x, y, z$ và $t$ sao cho $A = x + ay, B = z + at$. Hơn nữa, diện tích hình chữ nhật lớn gấp 30 lần diện tích hình chữ nhật nhỏ. Điều này có nghĩa là hình chữ nhật lớn $A \times B$ tương tự như hình chữ nhật nhỏ $a \times 1$ với hệ số $\sqrt{30}$. Đó là lý do tại sao
 
@@ -128,7 +128,7 @@ $$|\varphi_A| = \frac{\rho_0}{2\varepsilon_0} x^2 - \frac{\rho_0 d}{2\varepsilon
 
 F414. Hệ số độ cứng của sắt cao su có chiều dài $l$ và khối lượng $m$ bằng $k$. Chiếc nhẫn làm bằng sắt biểu tượng cảm xúc được hàn lại với vận tốc góc $\omega$ trong mặt phẳng nằm ngang xung quanh chiếc nhẫn. Xác định bán kính $R$ của vòng chữa bệnh.
 
-Cơm. 13.
+Hình 13.
 
 Chúng ta hãy biểu thị bằng $L$ chiều dài của vòng chữa lành ($L=2\pi R$). Hãy xem xét một phần nhỏ của chiếc nhẫn có chiều dài $\Delta L$. Khối lượng của nó
 
@@ -252,7 +252,7 @@ I. Tiếng Slovodechkiy
 
 F418. Các ô cửa sổ liền kề được xếp chồng lên nhau hầu như không thể tách rời nhau nếu không cố gắng xé tấm này khỏi tấm kia. Tại sao?
 
-Cơm. 14.
+Hình 14.
 
 *) Lời giải bài toán F416 sẽ được đăng trên một trong những số sắp tới của tạp chí.
 
@@ -268,11 +268,11 @@ trong đó $p$ là áp suất bên ngoài, $a$ $p'$ là áp suất của chất 
 
 F420. Trên giá đỡ ACBOE làm bằng 6 thanh cứng không thẳng đứng có cùng chiều dài, nối bằng bản lề (Hình 16), một vật có khối lượng m được treo tại điểm C. Thanh AB bị kéo căng hay nghiêng? Lực đàn hồi nhỏ nhất tập trung vào thanh này.
 
-Cơm. 16.
+Hình 16.
 
-Cơm. 17.
+Hình 17.
 
-Cơm. 18.
+Hình 18.
 
 F421. Một hình trụ có thành mỏng bán kính R được quay đến tốc độ mục tiêu w và giữ ở một góc không đổi (Hình 19). Hệ số ma sát trượt giữa thành bánh xe và mặt trụ bằng μ. Xác định xem xi lanh sẽ quay được bao nhiêu vòng trước khi dừng lại.
 

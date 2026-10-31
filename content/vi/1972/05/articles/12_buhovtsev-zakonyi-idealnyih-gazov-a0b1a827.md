@@ -48,11 +48,11 @@ Hãy xem xét một ví dụ về bài toán điển hình sử dụng định l
 
 Bài tập. Ở giữa một ống hẹp nằm ngang bịt kín hai đầu (Hình 2) có một cột thủy ngân dài $h=25$ cm. Thủy ngân ngăn cách hai cột không khí trong ống, mỗi cột dài $l_0=1$ m. Áp suất không khí $P_0=76$ cm·cm., nhiệt độ không đổi. Hỏi thanh thủy ngân sẽ dịch chuyển được một quãng đường $x$ bao nhiêu nếu đặt ống thẳng đứng?
 
-Cơm. 1.
+Hình 1.
 
 ⟦folio 46⟧
 
-Cơm. 2.
+Hình 2.
 
 Lời giải và e. Khoảng cách giữa hai cột ảnh hưởng riêng đến một ống đứng thẳng đứng và chúng tôi áp dụng định luật Boyle-Mariotte cho từng cột (diện tích mặt cắt ngang của ống S):
 
@@ -121,9 +121,9 @@ $$V_2 = \frac{1 + \beta t_2}{1 + \beta t_1} V_1 = \frac{\frac{1}{\beta} + t_2}{\
 
 Lời giải obiha bài toán cho thấy việc chuyển sang thang nhiệt độ khác (thang Kelvin) là thuận tiện, số 0 của nhiệt độ này (độ 0 tuyệt đối) nằm dưới thang đo độ C khoảng $273^\circ$. Vì tại thời điểm này phần mở rộng của tất cả các đường đẳng lượng giao nhau
 
-Cơm. 3.
+Hình 3.
 
-Cơm. 4.
+Hình 4.
 
 ⟦folio 48⟧
 
@@ -135,9 +135,9 @@ Dễ dàng có được sự phụ thuộc này từ định luật Boyle-Marrio
 
 Bất kỳ loại khí thực nào cũng chỉ tuân theo định luật khí đã đề cập. Tin rằng đây là luật
 
-Cơm. 5.
+Hình 5.
 
-Cơm. 6.
+Hình 6.
 
 Chúng tôi được thực hiện một cách chính xác, chúng tôi coi khí lý tưởng. Ở đất nước này chỉ có những loại khí như vậy được thảo luận.
 
@@ -171,7 +171,7 @@ $$\frac{PV}{T} = B = \text{const.}$$
 
 Phương trình (IV) thiết lập mối quan hệ đơn giản giữa áp suất, thể tích và nhiệt độ của một khối lượng khí nhất định. Nó mô tả đầy đủ trạng thái của khí.
 
-Cơm. 7.
+Hình 7.
 
 phía của khí lý tưởng. Phương trình này lần đầu tiên được Clapeyron suy ra, xoay quanh các định luật Boyle - Mariotte và Gay-Lussac. Phương trình Clapeyron giúp giải được bài toán, trong đó mối quan hệ giữa các tính chất của trạng thái khí ở khối lượng không đổi.
 
@@ -225,13 +225,13 @@ Bài tập
 
 2. Áp suất khí thay đổi như thế nào trong quá trình như ở Hình 8?
 
-Cơm. 8.
+Hình 8.
 
 3. Trạng thái báo cáo như trong Hình 9 là ngâm trong nước ấm. Mô tả hoạt động của rutini trong đồng hồ đo áp suất.
 
 4. Một piston trượt tự do, kín khí giữ vật liệu
 
-Cơm. 9.
+Hình 9.
 
 bơm nước sốt bằng hai lò xo hoàn hảo. Khi khí được đưa vào một trong các phần của nước sốt ở nhiệt độ $T_1 = 300^\circ$ K, chiều dài của phần nước sốt này là $x_1 = 0,2$ mm, và sau khi đun nóng khí đến $T_2 = 750^\circ$ Phần nêm của cùng một phần trở thành $x_2 = 0,25$ mm. Độ dài của $x_3$ tại $T_3 = 1200^\circ$ K sẽ là bao nhiêu?
 

@@ -49,9 +49,9 @@ Hãy tưởng tượng rằng vì một lý do ngẫu nhiên nào đó trong ngu
 
 *) Điêu khắc “nematic” có nguồn gốc từ tiếng Hy Lạp γημα - thread. Trong tinh thể lỏng, các sợi chuyển động mỏng có thể nhìn thấy được dưới microsome, biểu hiện các khiếm khuyết về cấu trúc. Không có những sợi như vậy trong một tinh thể lỏng lý tưởng.
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
 hạt nhân. Một nguyên tử như vậy có thể được coi là tập hợp của hai điện tích chính xác trái dấu, giống hệt nhau về giá trị tuyệt đối, nằm ở một khoảng cách nhất định với nhau (Hình 3, a). Một hệ thống điện tích như vậy được gọi là lưỡng cực điện. Một điện trường xuất hiện ở vùng lân cận của lưỡng cực nguyên tử. Tính hữu ích của trường này nhanh chóng bị loại bỏ khi di chuyển khỏi .atoma, nhưng gần với .atoma thì nó rất hữu ích. Nếu một nguyên tử trung hòa II rơi vào vùng lân cận của nguyên tử I (Hình 3, b) thì điện trường của nguyên tử I sẽ làm dịch chuyển điện tích của các electron và hạt nhân của nguyên tử II như trên Hình 3, b. Sự trộn lẫn tương đối các điện tích trong nguyên tử II sẽ tạo ra một điện trường duy trì sự phân tách điện tích trong nguyên tử I.
 
@@ -61,7 +61,7 @@ Chúng ta có thể kiểm tra chính xác lý luận tương tự đối với 
 
 ⟦folio 8⟧
 
-Cơm. 4.
+Hình 4.
 
 chùm ánh sáng. Các tinh thể đặc biệt - bộ phân cực - chuyển đổi ánh sáng không phân cực thành ánh sáng phân cực tuyến tính, vì chúng chỉ có thể truyền ánh sáng thành các sóng trong đó vectơ $\vec{E}$ được định hướng khá cụ thể so với trục quang của bộ phân cực. Ví dụ, một tinh thể tourmaline chỉ truyền ánh sáng phân cực dọc theo trục quang của tinh thể này, trong khi các sóng có phân cực vuông góc bị nó hấp thụ mạnh. Nếu hai bản phân cực được đặt trên đường đi của chùm sáng, các trục của chúng song song, thì ánh sáng (phân cực) sẽ đi qua một hệ thống quang học như vậy (Hình 4, a) và nếu trục của các bản phân cực giao nhau thì ánh sáng sẽ không thể đi qua hệ thống này (Hình 4, b).
 
@@ -83,7 +83,7 @@ Hình ảnh các con số
 Điện cực rắn
 Gương
 
-Cơm. 5.
+Hình 5.
 
 ⟦folio 9⟧
 

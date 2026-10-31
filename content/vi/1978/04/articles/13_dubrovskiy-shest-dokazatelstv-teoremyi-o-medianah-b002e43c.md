@@ -56,9 +56,9 @@ Do đó, các hình tam giác $MAB$, $MBC$ và $MCA$ có ​​kích thước b�
 từ đây chúng ta có được
 $$\frac{|AB'|}{|B'C|} = \frac{S_{AB'B} - S_{AB'M}}{S_{CB'B} - S_{CB'M}} = \frac{S_{ABM}}{S_{CBM}} = 1.$$
 
-Cơm. 3.
+Hình 3.
 
-Cơm. 4.
+Hình 4.
 
 Vì vậy, $|AB'| = |B'C|$.
 Chứng minh thứ tư (lớp 7). Từ hình 4
@@ -82,7 +82,7 @@ Chứng minh thứ sáu (lớp 9). Chúng ta hãy vẽ một mặt phẳng $\alp
 
 ⟦folio 38⟧
 
-Cơm. 5.
+Hình 5.
 
 $\Delta ABC'$ và các đường trung tuyến của tam giác $ABC$ chiếu vào các đường trung tuyến của tam giác $ABC'$. Nhưng trong một tam giác đều, các đường trung tuyến cũng là đường phân giác và do đó cắt nhau tại một điểm. Cũng dễ dàng chứng minh (chứng minh!) rằng đối với tam giác $ABC'$ đẳng thức (1) là đúng.
 

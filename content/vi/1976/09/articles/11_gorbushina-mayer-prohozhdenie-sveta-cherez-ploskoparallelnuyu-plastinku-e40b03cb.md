@@ -37,7 +37,7 @@ Hãy tính đường kính trong D của vòng sáng (hoặc đường kính ngo
 
 $$\frac{n_1}{n_2} = \frac{\sqrt{D^2 + 16 h^2}}{D} = \sqrt{1 + 16 \frac{h^2}{D^2}}.$$
 
-Cơm. 1.
+Hình 1.
 
 ⟦folio 37⟧
 
@@ -49,9 +49,9 @@ Sử dụng công thức thu được, bạn có thể xác định một trong 
 
 Bây giờ hãy kiểm chứng bằng thực nghiệm sự tồn tại của hiện tượng dự đoán và kiểm tra công thức (*). Để bán buôn, bạn có thể sử dụng các tấm phẳng song song làm bằng thủy tinh hoặc tấm mica có độ dày ít nhất 2 mm. Một bề mặt của tấm cần được làm mờ, tạo thành
 
-Cơm. 2. Chi tiết bố trí thí nghiệm: 1 - một cái đĩa có bề mặt mờ, 2 - một bóng đèn gắn trong hộp diêm, 3 - một nắp hộp (để ánh sáng chiếu qua khe của hộp diêm không cản trở việc quan sát, người ta dán một mảnh giấy đen vào nắp).
+Hình 2. Chi tiết bố trí thí nghiệm: 1 - một cái đĩa có bề mặt mờ, 2 - một bóng đèn gắn trong hộp diêm, 3 - một nắp hộp (để ánh sáng chiếu qua khe của hộp diêm không cản trở việc quan sát, người ta dán một mảnh giấy đen vào nắp).
 
-Cơm. 3.
+Hình 3.
 
 chà nhám bằng giấy hoặc sơn một lớp sơn trắng mỏng. Tất cả những gì còn lại là bằng cách nào đó “đưa” nguồn sáng chính xác vào bên trong tấm. Nó không khó để làm điều đó. Thật vậy, nếu một chùm ánh sáng hẹp được chiếu vào bề mặt mờ của tấm hoặc từ phía trên, thì một vùng được chiếu sáng nhỏ của bề mặt này sẽ khuếch tán ánh sáng bên trong tấm theo mọi hướng, tức là hoạt động như một nguồn sáng chính xác.
 

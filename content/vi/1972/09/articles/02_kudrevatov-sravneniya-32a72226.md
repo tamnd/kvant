@@ -39,7 +39,7 @@ Thường thì phần còn lại $r$ được quan tâm nhiều hơn thương $q
 
 $$mq \cdot a \cdot m(q+1)$$
 
-Cơm. 1.
+Hình 1.
 
 (*) Điều này được mô tả chi tiết trong bài viết của V. N. Vaguten “Thuật toán Euclide và Định lý cơ bản của số học”, «Kvant» Số 6, 1972.
 

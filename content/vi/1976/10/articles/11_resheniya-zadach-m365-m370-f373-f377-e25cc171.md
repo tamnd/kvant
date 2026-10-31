@@ -31,7 +31,7 @@ b) Câu hỏi tương tự đối với các số, mỗi số nhỏ hơn một.
 c) Có thể chuỗi $a_1 + a_2 + a_3 + \dots$ được mã hóa còn chuỗi $a_1^3 + a_2^3 + a_3^3 + \dots$ thì không?
 (Hãy nhớ lại rằng chuỗi $x_1 + x_2 + x_3 + \dots$ được cho là có thể thu gọn nếu dãy số $S_n = x_1 + x_2 + \dots + x_n$ có giới hạn.)
 
-Cơm. 1.
+Hình 1.
 
 M366. Có thể sắp xếp một số hình tam giác trên một mặt phẳng sao cho hai đỉnh của mỗi hình nằm trên các cạnh (nhưng không nằm ở các đỉnh) của các hình tam giác khác không?
 
@@ -99,7 +99,7 @@ $$(x^2 + y^2 + z^2) + (a^2 + b^2 + c^2) \leq 3/2,$$
 
 tức là $x^2 + y^2 + z^2 \leq 3/2$, là điều cần chứng minh.
 
-Cơm. 2.
+Hình 2.
 
 N. Vasiliev
 
@@ -107,9 +107,9 @@ N. Vasiliev
 
 M369. Cho tam giác ABC nhọn. O là giao điểm các đường cao của nó, $\omega$ là đường tròn có tâm O nằm bên trong tam giác này. Dựng tam giác $A_1B_1C_1$ ngoại tiếp đường tròn $\omega$ và nội tiếp tam giác ABC (sao cho $A_1 \in [BC]$, $B_1 \in [AC]$, $C_1 \in [AB]$).
 
-Cơm. 3.
+Hình 3.
 
-Cơm. 4.
+Hình 4.
 
 M370. Cho $a, b, c$ là bộ ba của các số dương. Hãy tạo một bản nhạc mới từ họ:
 $$|a - b|, |b - c|, |c - a|,$$
@@ -137,7 +137,7 @@ rồi từ bộ ba này, theo các quy tắc tương tự, bộ ba tiếp theo, 
 
 F373. Hai quả bóng lớn, trong đó một quả lúc đầu sẽ đứng yên, chịu va chạm “xiên” đàn hồi hơn. Đường đi qua tâm của các quả bóng khi va chạm tạo thành một góc 60° so với hướng chuyển động ban đầu của quả bóng va chạm. Trong quá trình va chạm, quả bóng bị biến dạng, một phần động năng của quả bóng va chạm biến thành thế năng biến dạng đàn hồi của các quả bóng, khi các quả bóng tách ra sẽ lại chuyển thành động năng. Xác định phần năng lượng cực đại của quả cầu chuyển thành năng lượng biến dạng đàn hồi khi va chạm. Những quả bóng được coi là những cái đầu tuyệt đối.
 
-Cơm. 5.
+Hình 5.
 
 1 nhỏ hơn số trước, vì vậy số tối đa trong bộ ba thứ hai không quá m-1, trong bộ ba thứ ba - không quá m-2, v.v. Điều này không thể tiếp tục lâu: không muộn hơn trong bộ ba thứ m số lớn nhất bằng không.
 
@@ -215,7 +215,7 @@ $$F_{yпр.max} = \mu m_2 g,$$
 
  khối thứ hai sẽ bắt đầu di chuyển. Hãy tìm $F_{yпр.max}$.
 
-Cơm. 6.
+Hình 6.
 
 ⟦folio 39⟧
 
@@ -289,7 +289,7 @@ F377. Nếu bạn nheo mắt nhìn những ngọn đèn sáng ở xa, bạn thư
 
 Manh mối. Bề mặt hoa hồng không bị khô. Nó luôn được bao phủ bởi một lớp nước mắt.
 
-Cơm. 8.
+Hình 8.
 
 "Dọc theo mép mí mắt, nước mắt tạo thành một sụn nhỏ trong đó các tia sáng bị khúc xạ. Như trong Hình 8, $a$, các tia khúc xạ từ mí mắt trên khiến mỗi tia trở nên hơi xanh và nguồn sáng nhận được một "đuôi" hình thành hướng xuống dưới. Tương tự như vậy, một "đuôi" sáng xuất hiện ở mí mắt dưới, hướng lên trên. Có thể quan sát rõ sự xuất hiện của những "đuôi" này nếu khi nhắm một mắt, từ từ nhắm mắt kia lại, hoặc nâng và hạ đầu, giữ cả hai mắt nhắm một nửa. Các tia sáng xuất hiện vào đúng thời điểm mí mắt bắt đầu nhắm lại, người cận thị rất dễ nhận thấy điều này, vì nguồn sáng đối với anh ta như một vòng tròn mờ, lúc này bị che khuất một phần.
 
@@ -315,9 +315,9 @@ Vì vậy, cùng với các khái niệm trường học về mức tối đa v�
 
 Nếu hàm $f$ được xác định và không liên tục trên đoạn $[a, b]$ và chúng ta lấy các giá trị giống nhau ở các đầu của nó, tức là $f(a) = f(b)$, thì tồn tại một điểm $x_1 \in ]a, b[$,
 
-Cơm. 5.
+Hình 5.
 
-Cơm. 6.
+Hình 6.
 
 trong đó hàm $f$ có giá trị tối đa hoặc tối thiểu (mặc dù có thể).
 
@@ -337,9 +337,9 @@ hình sin - đồ thị $y = \sin x$ (Hình 7, 6).
 
 6) Hóa ra những chức năng như vậy cũng tồn tại. Các điểm cực trị có thể được “cô đọng” sao cho có vô số điểm trên đoạn $|0, 1|$. Ví dụ: trong Hình 8, $a$ tại các điểm $x_n = 1/n$ đối với $n$ chẵn là cực tiểu, đối với lẻ - cực đại. Tuy nhiên, đồ thị 8, $a$ không xác định giá trị của hàm tại $x = 0$. Người ta có thể lấy $f(0) = 0$ hoặc $f(0) = c$, nhưng hàm số như vậy sẽ không liên tục tại điểm $x = 0$: giá trị của $f(x)$ không có xu hướng tiến tới $f(0)$ tại $x \rightarrow 0$. Để thu được hàm liên tục, bạn có thể làm cho các giá trị hàm tại các điểm cực trị $x_n$ có ​​xu hướng tiến tới 0 tại $n \rightarrow \infty$, như trong Hình 8, 6. Nếu sau đó bạn tiếp tục
 
-Cơm. 7.
+Hình 7.
 
-Cơm. 8.
+Hình 8.
 
 Nếu chúng ta vẽ biểu đồ như trong hình này thì chúng ta sẽ nhận được một hàm liên tục và xác định ở mọi nơi có vô số cực trị trên khoảng $|0, 1|$ - đáp số (câu hỏi 2, B).
 

@@ -112,7 +112,7 @@ Bây giờ trên mặt phẳng tọa độ, chúng ta lấy một số tập h�
 
 ⟦folio 49⟧
 
-Cơm. 1.
+Hình 1.
 
 Chúng ta hãy biểu thị bằng $X = \{x\}$, tập hợp tất cả tọa độ $y$ của các điểm này bằng $Y = \{y\}$. Chúng ta sẽ giả sử rằng tập $M$ gán cho số $x \in X$ tất cả các số $y \in Y$ đó là tọa độ của các điểm $(x; y) \in M$ (tức là các điểm có cùng trục hoành bằng $x$). Sau đó, chúng ta nói rằng tập hợp $M$ xác định sự tương ứng $f$ giữa các tập hợp $X$ và $Y$. Bản thân tập hợp $M$ được gọi là đồ thị tương ứng $f$.
 
@@ -132,7 +132,7 @@ Nhưng sự tương ứng $f$ giữa tập hợp $X = [1; 5]$ trên trục $Ox$ 
 
 ⟦folio 50⟧
 
-Cơm. 4.
+Hình 4.
 
 Lưu ý rằng đối với tập hợp $X \subset (Ox)$, $Y \subset (Oy)$ đã cho, người ta có thể xây dựng vô số hàm với miền $X$ nhận các giá trị trong $Y$. Do đó, trong Hình 3, mỗi đường trong số ba đường cong là đồ thị của một hàm nào đó có miền định nghĩa $|a; b| \subset (Ox)$, lấy các giá trị trong $|c; d| \subset (Oy)$, tức là mỗi đường cong xác định một hàm đồ thị.
 
@@ -151,7 +151,7 @@ Giả sử hàm $y = f(x)$ được cho bởi đồ thị của nó. Nó cần �
 5. Tên của các khoảng mà hàm số dương là âm; tìm ra nơi hàm số tiến về 0.
 6. Tên các khoảng trả về, giảm, hằng số của hàm.
 
-Cơm. 5.
+Hình 5.
 
 ⟦folio 51⟧
 

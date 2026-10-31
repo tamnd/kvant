@@ -29,7 +29,7 @@ M336, M337, M339; F348—F352
 
 M336. Trong mặt phẳng đã cho có một tập hữu hạn các đa giác, mỗi đa giác có một điểm chung. Hãy chứng minh rằng có một đường thẳng có điểm chung với mỗi đa giác này.
 
-Cơm. 1.
+Hình 1.
 
 M337. Cho tam giác đều ABC có cạnh dài 1. Bước đầu tiên là chọn điểm X trên cạnh AB, điểm thứ hai Y trên cạnh BC, sau đó chọn điểm thứ nhất Z trên cạnh AC.
 a) Mục tiêu của lần kiểm tra đầu tiên là thu được hình tam giác XYZ có diện tích lớn nhất, hình thứ hai có diện tích lớn nhất. Diện tích lớn nhất cần cung cấp đầu tiên là gì?
@@ -39,9 +39,9 @@ Hãy chiếu tất cả các đa giác lên một đường thẳng m nào đó.
 
 S. Fomin
 
-Cơm. 2.
+Hình 2.
 
-Cơm. 3.
+Hình 3.
 
 a) Trước tiên chúng ta chứng minh rằng chiến lược của người chơi thứ hai là đặt điểm Y trên cạnh BC sao cho đường thẳng XY song song với cạnh AC. Thật vậy, nếu (XY') || (AC) và Y∈[BY'] (xem Hình 2), sau đó người chơi đầu tiên, với nước đi thứ hai, đặt điểm Z tại đỉnh C; thì SXYC > SXY'C, vì các tam giác này có cùng chiều cao, nhưng đáy của tam giác thứ nhất lớn hơn. Nếu Y∈[Y'C], thì người chơi đầu tiên sẽ đặt điểm Z ở đỉnh A, và một lần nữa sẽ có SXYA > SXY'A, vì các tam giác này có cùng đáy và chiều cao y của tam giác XYA lớn hơn (Hình 3).
 
@@ -53,7 +53,7 @@ $$S_{XYZ} = S_{XYA} = \frac{1}{2} \cdot |XY| \cdot (H - h),$$
 
 ⟦folio 34⟧
 
-Cơm. 7.
+Hình 7.
 
 M339*). Cho một dải nằm ngang trên một mặt phẳng, các cạnh của dải là những đường thẳng song song và n đường thẳng cắt dải này. Hai trong số n đường thẳng này cắt nhau bên trong dải và không có đường thẳng nào đi qua cùng một điểm. Khoảng cách là tất cả các đường đi bắt đầu từ mép dưới của dải, đi theo dữ liệu của đường thẳng và kết thúc ở cạnh trên, có thuộc tính tối đa: một dọc theo mức tối đa của đường đi, chúng ta luôn đi lên; đường kia đi thẳng đến giao điểm thì ta phải đi đến một đường thẳng khác. Hãy chứng minh rằng trong số các cực đại
 
@@ -61,7 +61,7 @@ a) có các đường dẫn gồm ít nhất n đoạn;
 b) có nhiều nhất $\frac{n}{2} + 1$ đường đi thẳng;
 c) có những đường đi qua tất cả n thẳng hàng.
 
-Cơm. 8.
+Hình 8.
 
 Bình phương cả hai vế của phương trình (*), ta có:
 
@@ -203,7 +203,7 @@ $$\frac{Q_1}{Q_{II}} = \frac{13}{11}.$$
 
 F350. Tên của hướng trên điện trở $R$ trong mạch như hình 13 phụ thuộc vào giá trị của điện trở này. E. d. c. tất cả các nguồn đều bằng $\mathcal{E}$, điện trở trong của chúng là $r$. Điốt của sàng là lý tưởng (điện trở của nó theo hướng thuận bằng 0 và theo hướng ngược lại là vô cùng lớn).
 
-Cơm. 15.
+Hình 15.
 
 Nếu điện trở $R$ lớn thì dòng điện và dòng chảy qua nó sẽ rất nhỏ và hiệu điện thế giữa các điểm $B$ và $A$ (xem Hình 13) gần bằng $2\mathcal{E}$. Trong trường hợp này, điện thế l của điểm $B$ cao hơn điện thế của điểm $C$ (bằng $\mathcal{E}$, nếu chúng ta coi điện thế của điểm $A$ bằng 0), diode đóng và không có dòng điện chạy qua đoạn mạch $ACB$. Sau đó, mạch này có thể được thay thế bằng một mạch đơn giản với hai nguồn mắc nối tiếp có điện trở $R$ (Hình 14). Trong mạch này có dòng điện $I = \frac{2\mathcal{E}}{2r + R}$ và hướng rơi trên điện trở $R$ bằng
 

@@ -40,13 +40,13 @@ $$\left(x+y\mathrm{ctg}\frac{\pi n}{32}\right)\sqrt{\frac{x^2}{25}+\frac{y^2}{49
 
 (1)
 
-Cơm. MỘT.
-Cơm. B.
-Cơm. TRONG.
+Hình A.
+Hình B.
+Hình B.
 
 ⟦folio 16⟧
 
-cơm. 1). Phương trình đường tròn $F_1$ trong cùng hệ tọa độ được viết dưới dạng
+hình 1). Phương trình đường tròn $F_1$ trong cùng hệ tọa độ được viết dưới dạng
 
 $$ (x - 2)^2 + y^2 = 1. $$
 
@@ -70,7 +70,7 @@ Bây giờ, hãy chuyển hàm chính $F_0$ được xác định trong dải $(
 
 $$ * ) \text{ Функция } [x], \text{ называемая «целой часть } x», \text{ определяется равенством } [x] = k, \text{ если } k \leqslant x < k + 1, \text{ где } k - \text{ целое число (наибольшее целое число, не превысходящое } x). $$
 
-Cơm. 2.
+Hình 2.
 
 vật trang trí này sẽ
 
@@ -96,7 +96,7 @@ $$ \left( x - \left[ \frac{x + 1}{2} \right] \right)^2 + \left( y - \left[ \frac
 
 ⟦folio 18⟧
 
-Cơm. 7. Hình 8. Hình 9.
+Hình 7. Hình 8. Hình 9.
 
 $F_0$ là tập hợp tất cả các điểm bên trong của hình lục giác có tâm ở gốc tọa độ, nội tiếp trong một đường tròn bán kính $R = \frac{2}{\sqrt{3}}$ (Hình 7).
 

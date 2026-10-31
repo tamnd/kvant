@@ -52,7 +52,7 @@ Hãy biểu thị $A\hat{CM} = \alpha$, $B\hat{CM} = \beta$ (Hình 1).
 
 a) $|CM| > |AM|$ và $|CM| > |BM|$. Xét các tam giác $ACM$ và $BCM$. Vì trong một tam giác có một góc lớn hơn đối diện với cạnh lớn hơn nên $\hat{A} > \alpha$, $\hat{B} > \beta$. Cộng các đẳng thức này theo từng số hạng, chúng ta thu được $\hat{A} + \hat{B} > \hat{C}$. Theo sau đó là $\hat{A} + \hat{B} + \hat{C} > \hat{C} + \hat{C} = 2\hat{C}$ và, kể từ $\hat{A} + \hat{B} + \hat{C} = 180^\circ$, $\hat{C} < 90^\circ$.
 
-Cơm. 1.
+Hình 1.
 
 ⟦folio 47⟧
 
@@ -72,9 +72,9 @@ Cách đầu tiên. Hãy dựng điểm D đối xứng với điểm C so với
 
 Cách thứ hai. Hãy nối E giữa của cạnh AC với điểm M (Hình 2).
 
-Cơm. 2.
+Hình 2.
 
-Cơm. 3.
+Hình 3.
 
 ⟦folio 48⟧
 

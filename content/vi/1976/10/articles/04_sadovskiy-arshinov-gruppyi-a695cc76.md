@@ -108,7 +108,7 @@ Vì vậy, một tập hợp sẽ trở thành một nhóm ngay khi một phép 
 
 Bây giờ đã đưa ra định nghĩa về nhóm, mọi người sẽ thấy rằng mình đã quen thuộc với nhóm từ lâu. Trong thực tế, nhiều tập hợp số liên quan đến các phép tính tổng quát của phép cộng và phép nhân tạo thành một nhóm. Như vậy, một nhóm là một tập hợp các số nguyên có phép cộng; nó được gọi là nhóm cộng các số nguyên. Đây là một nhóm Abelian, phần tử “đơn vị” của nó là số: $0 + c = c + 0 = c$, nghịch đảo của một số tùy ý là số đối của nó: $c + (-c) = 0$.
 
-Cơm. 1.
+Hình 1.
 
 Nhóm cũng được hình thành bởi tập hợp $G$ của tất cả các thay đổi ánh xạ lên chính chúng một số hàm (tel) $F$. Nhóm này đóng vai trò là đặc điểm của tính đối xứng của các hàm $F$ và được gọi là nhóm của hàm đối xứng $F$.
 

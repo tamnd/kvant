@@ -43,7 +43,7 @@ Seidel mạnh mẽ nói: “Tôi e rằng sẽ quá muộn đối với một s�
 
 - Bóng bay? - Rastrigin khàn giọng kêu lên. —Dự án-
 
-Cơm. 1.
+Hình 1.
 
 ⟦folio 29⟧
 
@@ -95,9 +95,9 @@ Và, chọn những chiếc đèn lồng dễ nhìn hơn, cả hai đều đi th
 
 - Còn bạn, tôi hiểu rồi, bạn không vội lấy ẩm phải không? – Viner hỏi Rastrigin. “Nếu không, tại sao bạn không tận dụng một trong những lợi thế quan trọng
 
-Cơm. 3.
+Hình 3.
 
-Cơm. 4.
+Hình 4.
 
 ⟦folio 31⟧
 
@@ -139,7 +139,7 @@ Vì vậy, tất cả mọi người đều tản ra dưới nước, ngoại tr
 
 - Rất đơn giản. Với sự trợ giúp của đèn pin, chúng ta chỉ có thể đảm bảo rằng Wizz dẫn đầu từ một điểm nhất định trên đường đi. Tiếp theo là gì? Đây là của chúng tôi
 
-Cơm. 5.
+Hình 5.
 
 ⟦folio 33⟧
 

@@ -23,7 +23,7 @@ translation_quality: draft
 
 ⟦folio 30⟧
 
-Cơm. 4.
+Hình 4.
 
 Trong mỗi trường hợp riêng lẻ nó lệch đi một góc nhất định. Sau đó đưa cả hai màng vào điện kế, nhưng từ hai phía đối diện - góc lệch của kim dụng cụ sẽ tăng lên. Thí nghiệm này chứng minh rõ ràng một trong những tính chất quan trọng của điện trường - sự chồng chất (hoặc, như các nhà vật lý nói, chồng chất) của điện trường.
 

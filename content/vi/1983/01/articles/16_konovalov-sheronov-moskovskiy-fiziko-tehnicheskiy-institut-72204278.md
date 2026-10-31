@@ -181,11 +181,11 @@ Bằng cách nhân vế trái và vế phải của phương trình tương ứn
 
 5. $2\arctg \frac{1}{3}$. Lời giải. Để đường thẳng đầu tiên chạm vào các hình cầu tại các điểm $A$ và $B$, và đường thẳng thứ hai - tại các điểm $C$ và $D$, $O_1'$ và $O_2'$—tâm của các phần của hình cầu theo mặt phẳng $AMC$ (Hình 3).
 
-Cơm. 3.
+Hình 3.
 
 Vì $(O_2D) \perp (MD), \quad |DM| = \sqrt{|O_2M|^2 - |DO_2|^2} = 2\sqrt{2}$. Bằng cách nhân vô hướng cả hai vế của đẳng thức $\overrightarrow{CD} = \overrightarrow{CO_1} + \overrightarrow{O_1O_2} + \overrightarrow{O_2D}$ với vectơ $\overrightarrow{CD}$, chúng ta thu được $|CD|^2 = |CD| \cdot |O_1O_2| \cdot \frac{1}{\sqrt{2}}$, vì $\overrightarrow{CD} \cdot \overrightarrow{CO_1} = \overrightarrow{CD} \cdot \overrightarrow{O_2D} = 0$. Do đó $|CD| = 2\sqrt{2}$. Hãy đặt $A\hat{M}O_1' = a$. Chúng tôi có $|DO_2'| = 2\sqrt{2} \text{tg} \alpha$. $|CO_1'| = 4\sqrt{2} \text{tg} \alpha$, $|O_1'O_2'| = \frac{2\sqrt{2}}{\cos \alpha}$. Tiếp theo, $|O_1'O_1'| = \sqrt{|O_1C|^2 - |CO_1'|^2} = \sqrt{9 - 32 \text{tg}^2 \alpha}$, $|O_2'O_2'| = \sqrt{|O_2D|^2 - |DO_2'|^2} = \sqrt{1 - 8 \text{tg}^2 \alpha}$. Các đoạn $O_1O_2$ và $O_1'O_2'$ không được giao nhau (Hình 4, 6). Chưa biết vị trí của chúng trong trường hợp này là gì, chúng ta có thể lập phương trình $16 = |O_1O_2|^2 = (|O_1O_1'| \pm |O_2O_2'|)^2 + |O_1'O_2'|^2 =$
 
-Cơm. 4.
+Hình 4.
 
 $= (\sqrt{9 - 32} \text{tg}^2 \alpha \pm \sqrt{1 - 8} \text{tg}^2 \alpha)^2 + \frac{8}{\cos^2 \alpha}$, từ đó $\text{tg}^2 \alpha = \frac{1}{9}$ tọa lạc. Kiểm tra cho thấy phải có dấu + bên trong dấu ngoặc.
 
@@ -197,7 +197,7 @@ Tùy chọn 1
 
 Chúng ta hãy giới thiệu một hệ tọa độ xiên bằng cách hướng trục $X$ và $Y$, như trong Hình 5. Tại bất kỳ thời điểm nào, khoảng cách giữa
 
-Cơm. 5.
+Hình 5.
 
 chiếc nhẫn và con chó bằng chiều dài của sợi cáp $l$, còn tọa độ $x$ của chiếc nhẫn và $y$ của con chó có liên hệ với $l$ theo định lý cosine:
 

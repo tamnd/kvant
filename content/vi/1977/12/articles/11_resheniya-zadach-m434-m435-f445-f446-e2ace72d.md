@@ -73,7 +73,7 @@ M435. Trong bảng kích thước $m \times n$ ghi số thực, trong mỗi ô c
 
 $$k = 1; \quad l = 2.$$
 
-Cơm. 1.
+Hình 1.
 
 F445. Một tụ điện có điện dung $C = 0,04$ uF sử dụng phím $K$ được sạc định kỳ với tần số $v = 50$ lần mỗi giây từ một nguồn có e. d.s. % = 100 V và điện trở trong $r = 5$ Ohm và phóng điện qua điện trở $R = 1$ kOhm (Hình 2). Xác định công suất tỏa ra ở khu vực ngoài trời $R$ và k. N. bất kỳ thiết bị nào. Giả sử thời gian đóng của tụ điện đủ để tụ được sạc đầy (vị trí $I$) và phóng điện hoàn toàn (vị trí $II$).
 

@@ -47,7 +47,7 @@ Anh ấy sẽ thấy gì? Nếu mặt phẳng quan sát song song với đườn
 
 ⟦folio 46⟧
 
-Cơm. 2.
+Hình 2.
 
 Họa tiết giao thoa là một hệ thống các sọc sáng và sọc tối xoáy tròn. Bằng cách đặt mặt phẳng quan sát vuông góc với đường $S_1S_2$, người ta có thể thấy vân giao thoa dưới dạng bánh xe đồng tâm.
 
@@ -87,9 +87,9 @@ Chúng ta hãy xây dựng hình ảnh của nguồn $S$ ở nửa trên của �
 
 Giao điểm của các tia mở rộng $AM$ và $OF_1$ cho vị trí ảnh $S_1$ của nguồn ở khoảng cách $f$ tính từ thấu kính.
 
-Cơm. 4.
+Hình 4.
 
-Cơm. 5.
+Hình 5.
 
 ⟦folio 48⟧
 
@@ -119,7 +119,7 @@ Khi mặt phẳng quan sát di chuyển ra khỏi thấu kính, các sọc trở
 
 Bài toán 3 (1980). Nguồn đơn sắc chính xác $B$ được di chuyển ra khỏi nguồn đơn sắc chính xác $A$ (các nguồn cưỡng bức và cùng pha) cho đến khi xảy ra hiện tượng tối dần tại điểm $O$, nơi quan sát thấy hiện tượng giao thoa (Hình 6). (Khoảng cách giữa $A$ và $B$ bằng $d = 2\pi m$.) Khoảng cách giữa các nguồn
 
-**Cơm. 6.**
+**Hình 6.**
 
 com $A$ và màn hình $L = 9$ m. Bạn cần di chuyển màn hình sang nguồn $A$ bao nhiêu để màn hình bị tối ở điểm $O_1$?
 
@@ -177,9 +177,9 @@ Bài tập
 
 3. Trong sơ đồ với bazer Fresnel (xem Hình 3, 8), hai gương phẳng giống hệt nhau tạo thành một góc $2\alpha=0,1$ rad. Nguồn chính xác $S$ nằm trên phân giác của góc cách đường giao nhau của gương $d=20$ cm. Ở kích thước tối thiểu của gương $a$ có thể quan sát được các vân giao thoa trên màn hình từ xa $P$? Các tia từ nguồn không tới được màn hình.
 
-Cơm. 7.
+Hình 7.
 
-Cơm. 8
+Hình 8
 
 ở khoảng cách $b=20$ cm theo chiều ngang so với gương phẳng, ở độ cao $a=10$ cm so với mặt phẳng của gương (Hình 7, a). Chiều dài của gương là $d=10$ cm. Cách nguồn $L=1$ m có màn chắn $P$. Xác định kích thước dọc của vân giao thoa trên màn.
 

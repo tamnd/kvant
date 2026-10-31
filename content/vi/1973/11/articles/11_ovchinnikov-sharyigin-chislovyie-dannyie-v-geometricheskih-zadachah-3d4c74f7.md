@@ -46,7 +46,7 @@ Bài toán 2 (geofakt của Đại học quốc gia Moscow, 1968). Cho tam giác
 
 ⟦folio 53⟧
 
-Cơm. 2.
+Hình 2.
 
 Bộ đệm ABC và AFD, nếu biết AB = 21, AC = 28, CB = 20.
 
@@ -110,9 +110,9 @@ $$BC^2 - AC^2 = BD^2 - DA^2 = 8.$$
 
 Làm thế nào người ta đồng ý rằng CD là chiều cao? Xét cho cùng, từ lời giải rõ ràng thỏa thuận này là điểm chính trong lời giải - tất cả những cân nhắc khác đều tầm thường. Chúng tôi không đồng
 
-Cơm. 4.
+Hình 4.
 
-Cơm. 5.
+Hình 5.
 
 ⟦folio 55⟧
 
@@ -124,9 +124,9 @@ Hãy dựng hình thang thành tam giác AED (Hình 6). Từ sự đồng dạng
 
 Trong các nhiệm vụ sau, dữ liệu số cho thấy trọng lượng của ánh sáng...
 
-Cơm. 6.
+Hình 6.
 
-Cơm. 7.
+Hình 7.
 
 khác biệt. Với nghiên cứu sơ bộ về bài toán như vậy, rất khó để dự đoán chính xác những dữ liệu này sẽ ảnh hưởng như thế nào đến lời giải, nhưng một khi bạn bắt đầu giải bài toán, và tại một số thời điểm, bạn chỉ có thể nhận được đáp số với những dữ liệu này. Theo quy luật, trong những vấn đề như vậy, hãy để lời giải rất IDEN, mặc dù ngay từ đầu vẫn chưa rõ liệu nó có dẫn đến đáp số hay không.
 

@@ -42,8 +42,8 @@ DOI: https://doi.org/10.4213/kvant20201103
 
 ⟦figure⟧
 
-Cơm. 1
+Hình 1
 
 $Q KD \cap B 1 C 1$. Khi đó đường thẳng PQ đi qua C và bốn điểm K, L, P, Q trực tâm. Vì các đường thẳng DKQ và DLP là các đường phân giác của các góc kề nhau nên chúng vuông góc, tức là một trong các đường vuông góc bắt buộc được lắp đặt: QK A PL. Dưới đây ta sẽ chứng minh CP A KL. Vì, tương tự, CQ A KL, điều này sẽ hoàn thành việc chứng minh định lý, vì từ đó các điểm C, P, Q nằm trên cùng một đường thẳng và các điểm vuông góc khác PQ A KL. Hãy giới thiệu giao điểm M của CK với B 1 C 1. Mệnh đề phụ sẽ là bài toán M2615. M2615. Trong tam giác ABC, đường tròn nội tiếp tiếp xúc với các cạnh CA và AB lần lượt tại các điểm B 1 và C 1 (Hình 2). Về phía AB chọn một cái tùy ý
 
-Cơm. 2
+Hình 2

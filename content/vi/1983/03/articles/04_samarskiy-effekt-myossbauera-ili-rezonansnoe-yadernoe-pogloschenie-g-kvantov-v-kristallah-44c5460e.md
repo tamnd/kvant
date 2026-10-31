@@ -49,7 +49,7 @@ Hệ cộng hưởng điển hình còn là nguyên tử, phân tử và hạt n
 
 Nayka về các định luật chuyển động của các vi phần - cơ học lượng tử - đã có thể giải thích nhiều hiện tượng xảy ra trong nguyên tử, và đặc biệt là khả năng các nguyên tử hấp thụ và phát ra các photon chỉ với một năng lượng nhất định.
 
-Cơm. 1. Hình ảnh điển hình của đường cong cộng hưởng. Trong trường hợp của chúng tôi, nó mô tả sự phụ thuộc của biên độ dao động A của mạch thu vào tần số v của trạm phát. Dao động mạnh nhất trong mạch sẽ xảy ra ở tần số v = vₚ. Giá trị Δv được lấy ở nửa độ cao của đường cong được gọi là độ rộng của đường cong cộng hưởng.
+Hình 1. Hình ảnh điển hình của đường cong cộng hưởng. Trong trường hợp của chúng tôi, nó mô tả sự phụ thuộc của biên độ dao động A của mạch thu vào tần số v của trạm phát. Dao động mạnh nhất trong mạch sẽ xảy ra ở tần số v = vₚ. Giá trị Δv được lấy ở nửa độ cao của đường cong được gọi là độ rộng của đường cong cộng hưởng.
 
 ⟦folio 10⟧
 
@@ -83,7 +83,7 @@ Và điều kiện này hầu như không bao giờ được thỏa mãn đối 
 
 ⟦folio 11⟧
 
-Cơm. 4.
+Hình 4.
 
 hạt nhân, nghĩa là trong trường hợp năng lượng liên kết của hạt nhân trong một chất có thể bị bỏ qua. Do đó, đối với hạt nhân tự do đang xét $^{119}$Sn, chiều rộng Γ là năm bậc độ lớn, tức là nhỏ hơn R theo hàng nghìn lần. Rõ ràng là trong trường hợp này không thể quan sát được sự hấp thụ cộng hưởng của lượng tử γ.
 

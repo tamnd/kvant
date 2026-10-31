@@ -32,9 +32,9 @@ Tùy chọn 4
 
 1. Một vật không có vận tốc ban đầu trượt vào một lỗ có thành nhẵn và trơn biến thành một đáy nằm ngang
 
-Cơm. 5.
+Hình 5.
 
-Cơm. 6.
+Hình 6.
 
 (Hình 6). Chiều dài đáy hố là $l=2$ m, hệ số ma sát của vật với đáy hố là $k=0,3$. Độ sâu của hố là $H=5$ m. Ở khoảng cách nào từ giữa hố, vật sẽ dừng lại?
 

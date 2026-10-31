@@ -41,7 +41,7 @@ Làm thế nào bạn có thể thay đổi chiều cao của nó khi ở trên 
 
 Lời giải. Cần thả phong vũ biểu từ mái nhà xuống, phát hiện thời điểm rơi t và tính chiều cao của ngôi nhà h bằng công thức $h = \frac{gt^2}{2}$, trong đó g là gia tốc trọng trường.
 
-Cơm. 1.
+Hình 1.
 
 ⟦folio 3⟧
 
@@ -154,7 +154,7 @@ Hãy chuyển sang phần bài toán về phép chia một góc. Trên thực t�
 Góc này có thể được dựng bằng compa và thước (xem Hình 3), dựa trên
 
 ⟦figure⟧
-Cơm. 3.
+Hình 3.
 
 5
 

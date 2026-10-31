@@ -35,7 +35,7 @@ Xung quanh định lý Poncelet
 
 ⟦figure⟧
 
-Cơm. 1
+Hình 1
 
 Giả sử có một đường đứt liên kết n khép kín, tất cả các đỉnh của nó nằm trên đường tròn đầu tiên và tất cả các liên kết của nó đều chạm vào đường tròn thứ hai. Khi đó có vô số đường đứt đoạn liên kết n khép kín như vậy và bất kỳ điểm nào trên đường tròn đầu tiên đều có thể là đỉnh của đường đứt đoạn đó. Thus, the construction of a polyline can be started from any point of the first circle, drawing a tangent to the second circle and obtaining a new intersection point on the first circle. The step-by-step construction of such a broken line is called the Poncelet process for a pair of given circles, and the broken line itself (inscribed in the first circle and circumscribed around the second) is called the Poncelet broken line or Poncelet trajectory. Về cơ bản, định lý Poncelet
 
@@ -91,7 +91,7 @@ Bài tập
 
 ⟦figure⟧
 
-Cơm. 8
+Hình 8
 
 Văn học
 
@@ -119,7 +119,7 @@ Sự nhận biết tín hiệu âm thanh có những đặc điểm nhất đị
 
 1 Nhân tiện, hiệu ứng lượng tử xảy ra đối với sóng âm trong chất rắn. Chính những hiệu ứng này quyết định sự phụ thuộc nhiệt độ của nhiệt dung của chất rắn ở nhiệt độ thấp.
 
-Cơm. 1. Sự phụ thuộc của mức âm lượng vào tần số
+Hình 1. Sự phụ thuộc của mức âm lượng vào tần số
 
 ⟦folio 45⟧
 

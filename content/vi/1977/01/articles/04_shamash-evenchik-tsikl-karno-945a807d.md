@@ -103,9 +103,9 @@ Vì vậy, khi chất khí đoạn nhiệt, nó nóng lên và khi nở ra, nó 
 
 **) Chúng ta hãy nhớ lại rằng $Q$ là lượng nhiệt mà hệ nhận được, $\Delta U$ là độ biến thiên nội năng, $A$ là công do hệ thực hiện lên các vật thể bên ngoài.
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
 ⟦folio 14⟧
 
@@ -147,7 +147,7 @@ Tuy nhiên, quá trình giãn nở chế tạo không được hoàn thành cho 
 
 Hiện nay, khí đã nguội có thể được tạo ra bằng cách tạo ra scatium ở nhiệt độ $T_2$. Để làm được điều này, nó phải được tiếp xúc với một vật thể có cùng nhiệt độ $T_2$ (tủ lạnh), và khí phải được cuộn lại bởi ngoại lực. Tuy nhiên, trong quá trình này, khí sẽ không trở lại trạng thái ban đầu - nhiệt độ của nó $T_2$ sẽ luôn nhỏ hơn $T_1$.
 
-Cơm. 3.
+Hình 3.
 
 Kết quả là độ dốc sản xuất được đưa về một thể tích trung gian nhất định $V_2'$ (đường đẳng nhiệt $cd$ trong Hình 3, e). Trong trường hợp này, khí truyền vào tủ lạnh một lượng nhiệt nhất định $Q_2$, bằng công thực hiện trên nó theo thang đo. Sau đó, khí được quét
 
@@ -208,4 +208,4 @@ Sử dụng biểu đồ này, hãy xác định công của khí khi thể tíc
 
 5. Dòng không khí bốc lên từ bề mặt Trái đất là một loại động cơ nhiệt. Hãy chỉ ra trong đó những bộ phận chính vốn có của bất kỳ động cơ nhiệt nào.
 
-Cơm. 4.
+Hình 4.

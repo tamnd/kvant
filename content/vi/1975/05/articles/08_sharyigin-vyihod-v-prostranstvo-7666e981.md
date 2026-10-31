@@ -35,9 +35,9 @@ Hãy thử giải câu đố sau: ghép bốn hình tam giác đều trong số 
 
 Việc đi vào không gian cũng hữu ích cho lời giải một số phép đo phẳng bài toán. Một ví dụ kinh điển là định lý Desagrag. Nếu hai tam giác $A_1B_1C_1$ và $A_2B_2C_2$ nằm trên một mặt phẳng sao cho các đường thẳng $A_1A_2$, $B_1B_2$, $C_1C_2$ cắt nhau tại một điểm thì tại giao điểm của các đường $A_1B_1$ và $A_2B_2$, $B_1C_1$ và $B_2C_2$, $C_1A_1$ và $C_2A_2$ nằm trên cùng một đường thẳng (Hình 1).
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
 (Hình 2). Phát biểu của định lý trở nên rõ ràng nếu bạn nhìn thấy một hình không gian trong Hình 2, cụ thể là một góc tam diện cắt nhau bởi hai mặt phẳng: một mặt phẳng cắt các cạnh của góc tam diện tại các điểm $A_1$, $B_1$ và $C_1$, và mặt phẳng kia tại các điểm $A_2$, $B_2$ và $C_2$. Tại giao điểm của các cạnh tương ứng của các tam giác $A_1B_1C_1$ và $A_2B_2C_2$ thuộc giao tuyến của các mặt phẳng này và do đó nằm trên cùng một đường thẳng.
 

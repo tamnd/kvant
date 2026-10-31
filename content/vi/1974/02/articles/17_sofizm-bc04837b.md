@@ -23,9 +23,9 @@ translation_quality: draft
 
 ⟦folio 60⟧
 
-Cơm. 3.
+Hình 3.
 
-Cơm. 4.
+Hình 4.
 
 ryaks, nhà leo núi và ảo thuật gia trên sân khấu.
 

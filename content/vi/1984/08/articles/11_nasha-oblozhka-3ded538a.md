@@ -35,9 +35,9 @@ F877. Tại vị trí nào của nguồn chính xác so với một đường th
 
 Có thể nhìn thấy ảnh và nguồn từ một điểm nếu vùng II (xem Hình 1) không nằm hoàn toàn bên trong vùng I. Trường hợp cực đoan là vị trí của điểm $A$ khi tia $AB$ và $DC$ song song. Dễ dàng nhận thấy nó sẽ ở trong đó (và chỉ thế thôi)
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2
+Hình 2
 
 trường hợp khi điểm $A$ nằm ở khoảng cách gấp đôi tiêu cự so với đường thẳng.
 

@@ -37,9 +37,9 @@ Một hình elip phẳng chỉ biến thành hình tròn khi các tiêu điểm 
 
 Xét một hình cầu $\Delta$ và một mặt phẳng $\alpha$ tiếp tuyến tại tiêu điểm với một hình elip hình cầu $l$ nào đó trên đó. Chúng ta hãy vẽ tất cả các đường thẳng có thể có đi qua tâm hình cầu $O$ và các điểm của hình elip hình cầu $l$. Hóa ra bề mặt hữu hạn $\Gamma$ thu được theo cách này sẽ cắt mặt phẳng $\alpha$ dọc theo một số hình elip $\lambda$. Bề mặt $\Gamma$ sẽ giao với hình cầu ban đầu dọc theo một hình elip hình cầu khác $l'$, đối xứng với $l$ so với $O$ (Hình 2).
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
 Điều thú vị là, xét về tiêu điểm của hình elip $l$, hình elip $l'$ sẽ là một hyperbol hình cầu.
 

@@ -23,7 +23,7 @@ translation_quality: draft
 
 ⟦folio 16⟧
 
-Cơm. 7.
+Hình 7.
 
 cũng như các thiết bị bán dẫn khác nhau có đặc tính dòng điện-điện áp giảm dần. Đây là cách nhiều máy tạo dao động điện từ hiện đại hoạt động.
 

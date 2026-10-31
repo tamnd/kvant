@@ -46,11 +46,11 @@ Nếu chúng ta xét tập hợp tâm M của các đường tròn tiếp xúc v
 
 *) Chúng được hiển thị bằng màu vàng trên trang bìa thứ hai.
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
-Cơm. 3.
+Hình 3.
 
 Như vậy), thì tập này trở thành một hyperbol. Hãy tiến hành chứng minh điểm M1 (Hình 2):
 

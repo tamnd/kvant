@@ -39,11 +39,11 @@ Một trong những hiện tượng thiên văn ấn tượng nhất là mô hì
 
 *) Có nghĩa là “sữa” trong tiếng Hy Lạp hiện đại.
 
-Cơm. 1. Mặt cắt ngang của thiên hà. Đĩa, thành phần hình cầu và lõi là ba thành phần chính trong cấu trúc của nó. Vị trí của Mặt trời được biểu thị bằng ký hiệu E; Đây là cách nó được chỉ định ngay cả trong các bản khắc của người Ai Cập cổ đại. Thành phần hình cầu cho thấy một số cụm sao hình cầu, các thành viên tập thể của nó.
+Hình 1. Mặt cắt ngang của thiên hà. Đĩa, thành phần hình cầu và lõi là ba thành phần chính trong cấu trúc của nó. Vị trí của Mặt trời được biểu thị bằng ký hiệu E; Đây là cách nó được chỉ định ngay cả trong các bản khắc của người Ai Cập cổ đại. Thành phần hình cầu cho thấy một số cụm sao hình cầu, các thành viên tập thể của nó.
 
 những cái lactic được trang trí theo hoa văn này được gọi là xoắn ốc. Một tỷ lệ rất nhỏ các ngôi sao nằm trong các vòng xoắn ốc, nhưng vành sáng nhất là sáng nhất, và do đó ở các thiên hà xa xôi, chỉ có mô hình xoắn ốc của chúng là thường được nhìn thấy nhất. Thiên hà xoắn ốc gần chúng ta nhất là thiên hà xoắn ốc Hypanthus.
 
-Cơm. 2. Sơ đồ các nhánh xoắn ốc trong đĩa của Thiên hà “toàn mặt”. Đĩa chứa khí quay cùng với các ngôi sao; Đây là một cơn lốc gypantic, và trong quá trình nén chặt mà nó tạo ra, các ngôi sao trẻ xuất hiện, tạo thành một mô hình xoắn ốc.
+Hình 2. Sơ đồ các nhánh xoắn ốc trong đĩa của Thiên hà “toàn mặt”. Đĩa chứa khí quay cùng với các ngôi sao; Đây là một cơn lốc gypantic, và trong quá trình nén chặt mà nó tạo ra, các ngôi sao trẻ xuất hiện, tạo thành một mô hình xoắn ốc.
 
 ⟦folio 6⟧
 
@@ -59,7 +59,7 @@ Một ngôi sao chuyển động theo quỹ đạo tròn bán kính $r$ bị ả
 
 *) Điều này luôn đúng khi hệ có đối xứng cầu hoặc đối xứng trụ. Chứng minh được đưa ra ở Phụ lục I trang 1. 10.
 
-Cơm. 3. Đường cong quay là sự phụ thuộc điển hình của tốc độ quay của các ngôi sao trong đĩa thiên hà xoắn ốc vào khoảng cách đến tâm. Chúng ta sẽ quay lại đường chấm chấm kéo dài ra ngoài thiên hà sau này.
+Hình 3. Đường cong quay là sự phụ thuộc điển hình của tốc độ quay của các ngôi sao trong đĩa thiên hà xoắn ốc vào khoảng cách đến tâm. Chúng ta sẽ quay lại đường chấm chấm kéo dài ra ngoài thiên hà sau này.
 
 Theo định luật vạn vật hấp dẫn, lực hút của một ngôi sao vào tâm được tính theo công thức
 
@@ -196,4 +196,4 @@ Chúng ta hãy chọn một lớp hình cầu mỏng có độ dày $l$ với b�
 $$\rho_{cp} = \frac{\Delta M}{\Delta V} = \frac{3Kl}{4\pi(3r^2 l - 3rl^2 + l^3)} = \frac{K}{4\pi r^2} \sim r^{-2},$$
 Q.E.D.
 
-Cơm. 4.
+Hình 4.

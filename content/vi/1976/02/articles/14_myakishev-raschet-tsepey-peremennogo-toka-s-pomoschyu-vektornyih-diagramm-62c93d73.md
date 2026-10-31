@@ -135,9 +135,9 @@ trong đó $\varphi_0$ là giá trị của góc $\varphi$ tại thời điểm 
 
 $$x = x_0 \cos \left( \omega t + \varphi_0 \right). \tag{15}$$
 
-Cơm. 2.
+Hình 2.
 
-Cơm. 3.
+Hình 3.
 
 ⟦folio 54⟧
 
@@ -159,7 +159,7 @@ $$tg \varphi_0 = \frac{x_{0_1} \sin \varphi_{0_1} + x_{0_2} \sin \varphi_{0_2}}{
 
 Vì vậy, mỗi dao động điều hòa có thể được biểu diễn bằng một vectơ quay với vận tốc góc không đổi và tổng của sóng hài
 
-Cơm. 4.
+Hình 4.
 
 dao động ical - sử dụng vectơ (tổng) kết quả quay với cùng tốc độ. Biểu diễn đồ họa sử dụng các giá trị của các đại lượng thay đổi hài hòa và sự tương ứng giữa chúng được gọi là sơ đồ vectơ.
 

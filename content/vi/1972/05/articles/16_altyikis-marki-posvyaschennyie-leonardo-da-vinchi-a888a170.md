@@ -164,7 +164,7 @@ nghĩa là, $\theta = 60^\circ$. Suy ra các điểm $A_1$ và $B_1$ nằm trên
 
 Bây giờ việc vẽ một bản vẽ không khó (Hình 3). Mặt cơ sở $AB$ được chấp nhận
 
-Cơm. 3.
+Hình 3.
 
 giao với các mặt được nhận dạng $A_1A_2SC$ và $B_1B_2SC$ tại các điểm $M$ và $N$.
 
@@ -183,7 +183,7 @@ $$\frac{x}{b} = \frac{SQ}{SP}.$$
 
 Xét tam giác $SPC$ (Hình 4). Hãy vẽ một đường thẳng $QL \parallel PC$. Từ sự giống nhau của ba
 
-Cơm. 4.
+Hình 4.
 
 tam giác $SQL$ và $SPC$ ta có
 $$\frac{SQ}{SP} = \frac{QL}{PC}.$$

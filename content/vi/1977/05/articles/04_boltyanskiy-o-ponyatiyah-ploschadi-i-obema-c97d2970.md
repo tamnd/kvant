@@ -47,7 +47,7 @@ Với định nghĩa tiên đề về diện tích, các bảng màu trở nên 
 
 Cuối cùng chúng ta hãy chuyển sang câu hỏi về tính diện tích. Phương pháp đơn giản nhất để tính diện tích, được biết đến từ thời cổ đại, là phương pháp phân rã. Để hiểu phương pháp này, hãy xem xét các hình $F$ và $H$ được hiển thị trong Hình 3. Các đường chấm chấm chia các hình này thành các phần bằng nhau tương ứng, tức là các hình $F$ và $H$ có bố cục bằng nhau. Nói chung, hai hình được gọi là tương đương nếu cắt một trong chúng thành hữu hạn
 
-**Cơm. 3.**
+**Hình 3.**
 
 số phần, có thể (bằng cách sắp xếp các phần này theo cách khác nhau, nghĩa là bằng cách xem xét các số bằng nhau với các phần này) để tạo ra hình thứ hai từ chúng.
 
@@ -89,9 +89,9 @@ Kết thúc câu chuyện về khái niệm diện tích, chúng ta hãy xem xé
 
 Ngoài $F$, còn có một hình khác $H$ (Hình 13), hình chiếu của nó, dựa trên sự hợp nhất, là cùng một đoạn $[a, b]$. Ngoài ra, giả sử rằng mỗi đường thẳng song song với trục tọa độ cắt các hình $F$ và $H$ dọc theo các đoạn bằng nhau. Khi đó diện tích của hình $H$ được biểu thị bằng tích phân giống như diện tích của hình $F$, tức là $S(H) = \int_{a}^{b} f(x) dx$, và do đó $S(F) = S(H)$. Vì vậy, nếu bất kỳ đường thẳng nào song song với một đường thẳng cố định cho trước (ví dụ: trục tọa độ) cắt các hình $F$ và $H$ dọc theo các đoạn thẳng bằng nhau thì các hình $F$ và $H$ có ​​kích thước bằng nhau: $S(F) = S(H)$. Đây là những nguyên tắc Cavalieri (đối với hình vuông). Chúng tôi rút ra nó bằng cách sử dụng công thức biểu thị diện tích của một hình thông qua tích phân. Cavalieri đã bày tỏ nguyên lý của mình (và áp dụng nó để tính diện tích và thể tích) ngay cả trước đó, trong các công trình của Newton, Leibniz và các nhà khoa học khác.
 
-Cơm. 13.
+Hình 13.
 
-Cơm. 14.
+Hình 14.
 
 các khái niệm về thứ nhất và tích phân đã được giới thiệu.
 

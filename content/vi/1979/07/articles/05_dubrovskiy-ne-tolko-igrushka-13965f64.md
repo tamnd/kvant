@@ -38,13 +38,13 @@ Một ví dụ về kết nối như vậy với p=6, q=3 được hiển thị 
 
 **) Những mod này là sàn gỗ chính xác («Kvant», 1979, Số 2, trang 9).
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
-Cơm. 3.
+Hình 3.
 
-Cơm. 4.
+Hình 4.
 
 các modic p và q khác đi vào không gian. Nếu chúng tôi thu thập các mod loại <5, 3>, <3, 4>, <3, 5>, <4, 3> và <3, 3>, chúng tôi sẽ nhận được các mô hình khung “thổi phồng” của các khối đa diện đều: khối tám mặt dodecadron, khối icosadron (Hình 5), khối lập phương và tứ diện (thông thường), (§ 54 “Hình học 10”). Những mod này được gọi là hình cầu.
 

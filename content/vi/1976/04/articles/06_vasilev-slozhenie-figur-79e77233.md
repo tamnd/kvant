@@ -50,9 +50,9 @@ Bài toán 1. Cho hai đoạn: [AB] và [CD]. Tìm tập hợp các điểm mà 
 
 Giải pháp. Đầu tiên chúng ta xét trường hợp tổng quát khi các đoạn [AB] và [CD] không song song. (Chúng ta sẽ thảo luận về trường hợp đặc biệt [AB] || [CD] bên dưới.) Chúng ta hãy biểu thị trung điểm của đoạn [PQ] bằng M. Trước tiên, cố định vị trí của điểm Q. Nếu P chạy qua toàn bộ đoạn thẳng [AB] thì M chạy qua đường trung bình của tam giác QAB (Hình 1a)—một đoạn có hai đầu là trung điểm của các đoạn [QA] và
 
-Cơm. 1a.
+Hình 1a.
 
-Cơm. 16.
+Hình 16.
 
 ⟦folio 23⟧
 
@@ -64,13 +64,13 @@ Hãy cùng tìm hiểu xem hình bình hành này sẽ như thế nào khi các 
 
 đáp số tương tự cũng thu được trong trường hợp [AB] và [CD] thuộc cùng một đường thẳng. Ở đây, để không phải phân tích các vị trí khác nhau của các điểm A, B, C, D trên một đường thẳng, thuận tiện dịch bài toán sang ngôn ngữ đại số. Chúng ta sẽ giả sử rằng đường thẳng của chúng ta là trục số, tọa độ của các điểm này là $k_A, k_B, k_C, k_D$ ($k_A < k_B, k_C < k_D$) và chúng ta sẽ sử dụng thực tế này: tập hợp các số ($x_P + x_Q)/2$, trong đó $x_P \in [k_A, k_B]$, $x_Q \in [k_C, k_D]$ là đoạn $[(k_A + k_B)/2, (k_C + k_D)/2]$
 
-Cơm. thế kỷ 1
+Hình thế kỷ 1
 
-Cơm. 1 năm
+Hình 1 năm
 
 ⟦folio 24⟧
 
-Cơm. 2.
+Hình 2.
 
 Ví dụ 2. Tổng nửa hình chữ nhật F và G có kích thước $a \times b$ và $c \times d$, có các cạnh $a$ và $c$ song song, là hình chữ nhật có kích thước $(a+c)/2 \times (b+d)/2$ (Hình 2).
 
@@ -142,7 +142,7 @@ Cần xem xét hướng σ nào mà ít nhất một trong các tập hỗ trợ
 
 Việc áp dụng quy tắc này được minh họa trong Hình 6, trong đó mỗi hướng σ có màu riêng. Rõ ràng là các tập hỗ trợ Fσ, Gσ, và do đó (F * G)σ = Fσ * Gσ cho các hướng “trung gian” còn lại bao gồm các điểm riêng lẻ (đỉnh của các đa giác tương ứng). Chúng ta đã chứng minh rằng hình F * G là lồi. Bây giờ, khi đã tìm được ranh giới của nó, chúng ta thấy F * G là một đa giác lồi.
 
-Cơm. 6.
+Hình 6.
 
 ống chân có k và hướng của các cạnh của nó giống với hướng của F và G.
 
@@ -208,9 +208,9 @@ Năm bài toán sau đây minh họa khái niệm “tổng Minkowski” từ c�
 
 Bài toán 7. Từ điểm $O$ nằm trên ranh giới của nửa mặt phẳng, các vectơ $n$ có ​​độ dài 1 hướng vào trong nửa mặt phẳng. Bằng chứng
 
-Cơm. 7.
+Hình 7.
 
-Cơm. 8.
+Hình 8.
 
 ⟦folio 28⟧
 

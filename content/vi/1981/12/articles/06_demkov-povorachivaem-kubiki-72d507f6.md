@@ -49,7 +49,7 @@ Chúng ta sẽ gọi thành phần (thực hiện tuần tự) của các nướ
 
 ⟦folio 12⟧
 
-Cơm. 1.
+Hình 1.
 
 cũng bằng phép nhân; Chúng ta sẽ viết tích của các bước di chuyển từ trái sang phải. Ví dụ: $YZX$ là việc thực hiện tuần tự các nước đi $Y, Z, X$; $X^3 = XXX$ là việc thực hiện ba nước đi $X$. Chúng ta sẽ coi hai tích của các bước đi là bằng nhau nếu chúng có tác dụng như nhau đối với từng trạng thái của khối.
 
@@ -73,7 +73,7 @@ Vì vậy, chúng ta đã thu được ba nhóm đẳng thức, theo đó cả b
 
 ⟦folio 13⟧
 
-Cơm. 2.
+Hình 2.
 là “căn bậc hai của đơn vị” (***).
 
 Đồ thị trạng thái
@@ -89,7 +89,7 @@ $$XZYZXZYZ = 1,$$
 
 tức là một trong các tỷ số (***).
 
-Cơm. 3. Đồ thị trạng thái của hình lập phương. Các cạnh của hình lục giác biểu thị các phần tử của thao tác (chúng được đặt bằng các chữ cái X, Y, Z), các đỉnh của hình lục giác biểu thị trạng thái và các dấu chấm đậm tương ứng với trạng thái 0. Các đường màu xanh lam, đỏ và xanh lục làm nổi bật các khu vực cơ bản.
+Hình 3. Đồ thị trạng thái của hình lập phương. Các cạnh của hình lục giác biểu thị các phần tử của thao tác (chúng được đặt bằng các chữ cái X, Y, Z), các đỉnh của hình lục giác biểu thị trạng thái và các dấu chấm đậm tương ứng với trạng thái 0. Các đường màu xanh lam, đỏ và xanh lục làm nổi bật các khu vực cơ bản.
 
 ⟦folio 14⟧
 
@@ -109,13 +109,13 @@ Không sợ điều mới nhất “cái tốt nhất là kẻ thù của cái t
 
 Trước tiên chúng ta hãy chọn vùng cơ bản, được mô tả bằng các đường màu xanh lá cây trong Hình 3 và các đường thẳng gãy ngang. Khi đó vùng biến đổi cơ bản
 
-Cơm. 4.
+Hình 4.
 
 biến thành một cấu trúc hình chữ nhật và bó đường dẫn sẽ được trình bày dưới dạng một lớp gạch thông thường gồm mười “viên gạch” và bốn “nửa tinh thể” (Hình 4). Bằng cách uốn cong các cạnh trên và dưới của hình chữ nhật, chúng ta sẽ có được một cái ống. Tiếp theo, xoắn ống này nửa vòng và uốn cong, dán các đầu lại với nhau. Chúng ta có được bề mặt như trong Hình 5, được gọi là một ngọn núi. Nó được bao phủ bởi một tấm lưới gồm 12 hình lục giác với 24 đỉnh và 36 cạnh. Nếu đối với mỗi đỉnh chúng ta viết ra số của nó (kết quả là được đánh số trong Hình 3), thì về mặt lý thuyết, đồ thị kết quả sẽ đưa ra một mô tả đầy đủ về trò chơi địa lý của chúng ta. Thật vậy, mỗi đỉnh trong số 24 đỉnh trên lý thuyết tương ứng với một trong 24 trạng thái của khối lập phương của chúng ta, và người ta có thể chuyển từ trạng thái này sang trạng thái khác trong một lần di chuyển khi và chỉ khi các đỉnh tương ứng trên lý thuyết được nối với nhau bằng một cạnh (đen) (xem Hình 5).
 
 Hình học bài toán. Chứng minh rằng tỷ lệ ranh giới của các vùng cơ bản khác (xem Hình 3; hình lục giác màu đỏ và hình thoi màu xanh) theo các quy tắc trên sẽ tạo ra một hình xuyến có đồ thị thuận tay phải trên đó. So sánh biểu đồ này với biểu đồ trước.
 
-Cơm. 5.
+Hình 5.
 
 ⟦folio 15⟧
 

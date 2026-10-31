@@ -42,12 +42,12 @@ J. - “Khoảng cách từ một điểm đến một sợi dây” là bao nhi
 
 Nhà toán học. — Khoảng cách từ điểm M đến đoạn thẳng được gọi là
 
-Cơm. 1.
-Cơm. 2.
+Hình 1.
+Hình 2.
 
 ⟦folio 76⟧
 
-Cơm. 5.
+Hình 5.
 
 Vâng. — Giải quyết xong những bài toán này, tôi có thể buộc hệ số “ăn” ngành đó.
 
@@ -69,7 +69,7 @@ Sự định nghĩa. Khoảng cách từ một điểm đến một đoạn th�
 
 Sự định nghĩa. Vùng lân cận bán kính R của hình Φ được gọi là đường đa tuyến của tất cả các điểm đó; khoảng cách từ các điểm thành phần của Φ không bị biến đổi bởi R (ở đây R là số không âm).
 
-Cơm. 6.
+Hình 6.
 
 ⟦folio 77⟧
 
@@ -91,7 +91,7 @@ Nhà toán học. — Hãy xây một hàng rào thấp dọc theo đường vi�
 
 Bạn có thể biết rằng hiệu $\Phi_1/\Phi_2$ của hai hình $\Phi_1$ và $\Phi_2$ là hình bao gồm tất cả các điểm $\Phi_1$ không nằm trong $\Phi_2$. Ví dụ: sự khác biệt giữa một hình chữ nhật có cạnh 30 m và 40 m và vùng lân cận của đường viền có bán kính 5 m sẽ là hình chữ nhật có cạnh 20 m và 30 m (Hình 7).
 
-Cơm. 7.
+Hình 7.
 
 TÔI – Trong “The Head Goat Theory” nó có thể được sử dụng như thế này. Chúng ta sẽ gắn con chó vào đường viền dây hình chữ nhật $30\text{м} \times 40\text{м}$ bằng một sợi dây dài năm mét. Cô ấy sẽ chạy quanh khu vực có bán kính 5 m của đường viền của hình chữ nhật này và sẽ không để koeda vượt ra ngoài hình chữ nhật $20\text{м} \times 30\text{м}$.
 

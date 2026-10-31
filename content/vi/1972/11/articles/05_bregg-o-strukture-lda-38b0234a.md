@@ -41,7 +41,7 @@ Chủ đề được chú ý trước đây là sự đều đặn đáng kinh n
 
 Gần đây, sự sắp xếp của các nguyên tử và phân tử trong tinh thể băng
 
-Cơm. 1.
+Hình 1.
 
 ⟦folio 12⟧
 
@@ -51,9 +51,9 @@ Các đặc điểm chính của cấu trúc tinh thể của băng thông thư�
 
 Nỗ lực đầu tiên nhằm giải thích vật lý cho cái gọi là tính chất tầng của băng được Tyndall và Huxley đề xuất vào năm 1857. Cơ sở của lời giải thích
 
-Cơm. 2.
+Hình 2.
 
-Cơm. 3.
+Hình 3.
 Nó dựa trên hiện tượng đáng chú ý là sự đóng băng của các mảnh băng tiếp xúc, được quan sát bởi Faraday. Sự đóng băng như vậy xảy ra với điểm tiếp xúc yếu nhất khi các mảnh ở trong nước (Hình 3). Faraday cho biết các phân tử nước chuyển từ chất lỏng sang chất rắn dễ dàng hơn nhiều khi chúng được bao quanh bởi một khối lượng đáng kể đã đông cứng lại. Một lớp nước mỏng gần nơi cả hai mảnh tiếp xúc sẽ cứng lại và giữ chúng lại với nhau, ngay cả khi nó không thể tự đóng băng do tránh xa khối băng. Theo quan điểm này, sự đóng băng không chỉ phụ thuộc vào nhiệt độ mà còn phụ thuộc vào điều kiện môi trường. Tương tự như vậy, hơi nước bên trong vết nứt, tức là giữa hai bề mặt, sẽ ngưng tụ và biến thành băng dễ dàng hơn nhiều so với ở một nơi thoáng đãng, nơi chỉ tiếp xúc với một bề mặt băng.
 
 Băng dưới vết nứt căng thẳng. Tyndall và Huxley đề xuất rằng các vết nứt được "chữa lành" bằng sự lắng đọng hơi hoặc chất lỏng phát ra từ các phần xung quanh của băng. Do đó, khối băng có thể thích ứng với hình dạng của lòng nó và toàn bộ sông băng, giống như một dòng chảy.
@@ -62,7 +62,7 @@ James Thomson vào năm 1860 đã đề xuất một cách giải thích khác c
 
 ⟦folio 13⟧
 
-Cơm. 4.
+Hình 4.
 
 chồng lên nhau. Thật vậy, nếu nước nở ra khi nó đóng băng, thì bất kỳ áp suất nào, trong chừng mực nó bị ảnh hưởng bởi sự giãn nở này, cũng phải dẫn đến sự đóng băng, và điều này tương đương với việc di chuyển ra ngoài điểm đóng băng. Do đó, ở 0° băng dưới áp suất sẽ tan chảy. Điều này thực sự được quan sát bằng thực nghiệm. Nếu bất kỳ vật sắc nhọn nào, chẳng hạn như đầu dao, được đặt trên một tảng băng, thì độ sắc bén sẽ thấm sâu hơn không phải vì tảng băng bị cắt hay vỡ vụn mà vì tảng băng tan chảy dưới áp suất. Theo Thomson, khi hai khối băng ép lại với nhau, sự tan chảy sẽ xảy ra tại điểm tiếp xúc; kết quả là nước chảy ra ngoài và đóng băng ở một nơi khác vì nó không còn chịu áp lực nữa.
 
@@ -80,7 +80,7 @@ Nhiều năm sau, những vấn đề này lại được nêu ra bởi McConnel
 
 ⟦folio 14⟧
 
-Cơm. 5.
+Hình 5.
 
 khiến ông đi đến kết luận rằng bí mật về tính chất tầng của băng chỉ có thể được giải thích bằng cách nghiên cứu tính chất của các tinh thể băng đơn lẻ. Hầu hết các loại băng, đặc biệt là băng nhân tạo và khối băng, là một tập hợp các tinh thể nhỏ riêng lẻ (Hình 5). Các tinh thể đơn lẻ có kích thước đủ lớn được McConnell phát triển từ băng hình thành trên mặt hồ hoặc trong một bình hở. Các thí nghiệm của McConnell đã nghiên cứu các biến dạng đàn hồi và dẻo trong các điều kiện sau:
 
@@ -92,7 +92,7 @@ khiến ông đi đến kết luận rằng bí mật về tính chất tầng c
 
 Trong trường hợp đầu tiên, mẫu bị uốn cong giống như một thanh thông thường (Hình 6). Trong trường hợp thứ hai, biến dạng có đặc điểm giống như trường hợp đầu tiên, nhưng độ lớn nhỏ hơn đáng kể. Trong trường hợp thứ ba, biến dạng có một đặc tính hoàn toàn độc đáo (Hình 7), cho thấy lần này có chuyển động dọc theo một số mặt phẳng trượt.
 
-Cơm. 6, 7, 8.
+Hình 6, 7, 8.
 
 ⟦folio 15⟧
 

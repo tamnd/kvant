@@ -160,9 +160,9 @@ Gợi ý e: xét ba cung $M_1, M_2$ và $M_3$ của hình tròn $M$, các trục
 Trường hợp miếng dán gót chân
 Bây giờ chúng ta chuyển sang trường hợp ban đầu gồm 5 bản vá $M_1, M_2, M_3, M_4$
 
-Cơm. 3.
+Hình 3.
 
-Cơm. 4.
+Hình 4.
 
 2 «Kvant» № 2
 
@@ -194,7 +194,7 @@ $$\sum M_{ijh} - 4\sum M_{ijkl} + 10M_{12345} \geq 0.$$
 
 ⟦folio 19⟧
 
-Cơm. 8.
+Hình 8.
 
 Bây giờ chúng ta có bốn bất đẳng thức (3′), (5), (11) và (12) liên quan đến các đại lượng giống nhau $M$, $\sum M_i$, $\sum M_{ij}$, $\sum M_{ijk}$, $\sum M_{ijkl}$ và $M_{12345}$.
 

@@ -42,11 +42,11 @@ Có thể chứng minh rằng $d(A, B)$ là độ dài của đường tròn nh�
 
 Hãy xem xét tập hợp $C$ các điểm $M$ của một hình cầu mà “khoảng cách hình cầu” $d(M, P)$ từ một điểm cố định nào đó $P$ bằng một số cố định $R>0$. Rõ ràng, nếu điểm $M_1$ thu được từ điểm $M$ bằng cách lặp lại đường kính của hình cầu đi qua $P$, thì $d(M_1,P)=d(M,P)$. Từ đây dễ dàng suy ra (rút ra!) rằng tập $C$ là một đường tròn. Tâm của nó $O$ trùng với đáy của đường vuông góc, hướng xuống dưới
 
-Cơm. 1. Không thể mở được một quả cầu.
+Hình 1. Không thể mở được một quả cầu.
 
 ⟦folio 32⟧
 
-Cơm. 2. Dãy các đường đứt nét $l_n$ hội tụ thành một đoạn có độ dài đơn vị (nhưng không ghi trong đó), độ dài mỗi đoạn bằng $\sqrt{2}$.
+Hình 2. Dãy các đường đứt nét $l_n$ hội tụ thành một đoạn có độ dài đơn vị (nhưng không ghi trong đó), độ dài mỗi đoạn bằng $\sqrt{2}$.
 
 kéo dài từ điểm bất kỳ $M \in C$ đến bán kính của hình cầu đi qua điểm $P$ (Hình 1); do đó bán kính của hình tròn này là $r = |OM| < |MP|$. Mặt khác, $d(M,P)$ là độ dài của một số đường cong nối $M$ và $P$, và đoạn $MP$ là đoạn ngắn nhất trong số các đường cong đó; do đó $|MP| \leq d(M,P) = R$. Vì vậy, $r < R$. Khi mở hình tròn, $C$ sẽ đi vào tập hợp gồm $C' = f(C)$ điểm cách xa điểm $f(P)$ ở khoảng cách $R$, tức là đi vào một hình tròn có bán kính $R$. Độ dài của hình tròn $C$ là $2\pi r$ và chu vi $C' = 2\pi R > 2\pi r$. Điều này mâu thuẫn với tính chất bảo toàn chiều dài được phát biểu ở trên, và do đó việc hình thành một hình cầu là không thể.
 
@@ -60,4 +60,4 @@ Tiếp tục cách xây dựng này, chúng ta thu được $(k+1) \cdot n$ đi�
 
 *) Cách tiếp cận này đã được A.P. Kiselev sử dụng trong sách giáo khoa hình học cũ khi xác định diện tích bề mặt của hình trụ và hình nón.
 
-Cơm. 3. “Sanor Schwartz” (P (6, 4)).
+Hình 3. “Sanor Schwartz” (P (6, 4)).

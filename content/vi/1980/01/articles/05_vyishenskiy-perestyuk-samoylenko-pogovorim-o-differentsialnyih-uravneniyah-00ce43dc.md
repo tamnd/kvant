@@ -102,7 +102,7 @@ Thực tế là chúng tôi thường xuyên nhận được
 công thức như sau:
 phương trình vi phân $y' = ky$ có duy nhất lời giải thỏa mãn y ban đầu
 
-Cơm. 1.
+Hình 1.
 
 điều kiện $y(x_0) = y_0$; đây là lời giải
 được cho bởi công thức (4).
@@ -181,8 +181,8 @@ Khi rơi tự do không ma sát ($v' = g$), giá trị tốc độ quay trở l�
 
 Chúng ta hãy nhớ lại rằng các giá trị áp suất khí quyển được coi là trọng lượng của một cột không khí thẳng đứng có bề mặt phẳng.
 
-Cơm. 2.
-Cơm. 3.
+Hình 2.
+Hình 3.
 
 ⟦folio 13⟧
 

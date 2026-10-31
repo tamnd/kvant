@@ -89,7 +89,7 @@ $$x_{n+1}^2 = x_n^2 + \delta^2 \pm 2x_n\delta.$$
 
 $$\sqrt{x_n^2} = \sqrt{\delta^2} \sqrt{t} = \sqrt{\delta^2\Gamma} \sqrt{t}.$$
 
-Cơm. 1.
+Hình 1.
 
 hạt):
 
@@ -139,7 +139,7 @@ Trong hồi ký dành tặng Frenkel, nhà vật lý người Anh Neville Mott, 
 
 ⟦folio 10⟧
 
-Cơm. 3.
+Hình 3.
 
 Đây là cách chính Frenkel mô tả nó trong bài báo “Về chuyển động nhiệt trong chất rắn và chất lỏng” xuất bản năm 1926 trên tạp chí Đức “Zeitschrift fur Physik” (Tôi sẽ đưa ra độ dài của đoạn trích dẫn kèm theo những nhận xét ngắn gọn (trong ngoặc vuông)). "Giả sử rằng một nguyên tử nào đó, vô tình thu được năng lượng dư thừa, thoát ra khỏi tế bào được hình thành bởi các tế bào lân cận, như thể mở rộng các "thanh" của tế bào này và bay vào một khoang bên trong nào đó. [Các nguyên tử trong mạng tinh thể không chiếm toàn bộ thể tích của vật thể, vẫn còn khoảng trống giữa chúng (các vị trí xen kẽ); nhờ điều này, các nguyên tử có thể dao động.] Do đó, chúng ta thấy rằng một trong các nút trở nên trống, sau đó một trong các nút chuyển thành bị chiếm giữ. Khi chuyển từ nút này sang nút khác, nguyên tử có thể chảy khắp toàn bộ không gian bên trong của tinh thể.
 
@@ -147,7 +147,7 @@ Vì những bất thường này là do chuyển động nhiệt gây ra nên s�
 
 Không nhất thiết số lượng chỗ trống trống phải bằng chính xác số nguyên tử nút nội tuyến. Một chỗ trống có thể xuất hiện và xâm nhập vào bên trong tinh thể bằng cách di chuyển một trong các nguyên tử lên bề mặt.
 
-Cơm. 4.
+Hình 4.
 
 [các giai đoạn kế tiếp của một quá trình như vậy được mô tả trong Hình 3]. Cơ chế này có thể được coi là sự hòa tan khoảng trống xung quanh trong tinh thể. Sự hiện diện của các chỗ trống trong tinh thể đảm bảo rằng các nguyên tử của nó có tính linh động và có thể trộn lẫn trong toàn bộ thể tích của nó.>
 

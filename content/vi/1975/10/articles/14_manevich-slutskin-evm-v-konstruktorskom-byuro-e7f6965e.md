@@ -49,7 +49,7 @@ Từ quan điểm của các phép toán đồ họa, xây dựng các đường
 
 *) Gaspard Monge (1746-1818) - nhà hình học người Pháp.
 
-Cơm. 2.
+Hình 2.
 
 Các bề mặt dữ liệu $\Phi_1$ và $\Phi_2$ (Hình 2) phân tích bề mặt phụ thứ ba T (nếu các bề mặt giằng giao nhau thì hình cầu và mặt phẳng thường được sử dụng làm bề mặt phụ), sau đó xác định các đường giao nhau $m$ và $n$ của bề mặt phụ T với hai dữ liệu $\Phi_1$ và $\Phi_2$ và điểm giao nhau K của các đường đã dựng. Kỹ thuật này được lặp lại nhiều lần để các điểm thu được có thể được nối bằng một đường thẳng.
 
@@ -85,7 +85,7 @@ Sự đẳng thức này được thỏa mãn bởi tọa độ của bất kỳ
 
 ⟦folio 27⟧
 
-Cơm. 5.
+Hình 5.
 
 Phương trình của một hình cầu có bán kính 50, tâm của nó cao hơn 30 đơn vị dọc theo trục $Ox$ (đây là hình cầu cho trong ví dụ 2), sẽ là
 
@@ -134,7 +134,7 @@ Hầu hết các máy vẽ hiện có đều được chế tạo bằng đườ
 
 ⟦folio 28⟧
 
-Cơm. 6.
+Hình 6.
 
 nội suy tuyến tính và tròn. Điều này có nghĩa là nếu bạn chỉ định tọa độ của hai điểm $A$ và $B$ thì bút của máy vẽ có thể vẽ đoạn thẳng $AB$ hoặc cung tròn đi qua các điểm $A$ và $B$ (trong trường hợp này, tâm của nó được chỉ định thêm). Do máy tính tính toán tọa độ của một số điểm đủ lớn nên đường đứt nét được vẽ bằng bút của máy (sau đây gọi là dạng đoạn) hóa ra khá trơn tru.
 
@@ -166,7 +166,7 @@ Chúng ta hãy tưởng tượng các bề mặt như một màng cong linh ho�
 
 ⟦folio 29⟧
 
-Cơm. 8.
+Hình 8.
 
 Ý tưởng xây dựng đồ họa của sự phát triển bề mặt như sau: một bề mặt F đa dạng vừa khít với bề mặt, các mặt phẳng thường là hình tam giác. Sau đó, tất cả các khuôn mặt có kích thước thật sẽ được tạo trên mặt phẳng theo một trình tự nhất định.
 

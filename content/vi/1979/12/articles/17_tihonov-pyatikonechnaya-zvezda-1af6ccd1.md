@@ -56,13 +56,13 @@ Hình hình học “Ngôi sao năm cánh” rất dễ vẽ nếu hình ngũ gi
 
 $$A_1D_1B_1, B_1E_1C_1, \dots$$
 
-Cơm. 1.
+Hình 1.
 
 Ngũ giác ban đầu ABCDE là giao điểm của các góc này. Tất nhiên, có thể thu được một ngôi sao năm cánh từ hình ngũ giác ABCDE bằng cách nối các đỉnh của nó với các đoạn thẳng.
 
 Chúng tôi đã xây dựng một ngôi sao năm cánh dựa trên một hình ngũ giác đều. Có thể làm mà không có nó? Trong hình 2
 
-Cơm. 2.
+Hình 2.
 
 Công trình này được đưa ra bằng cách sử dụng la bàn và thước kẻ.
 

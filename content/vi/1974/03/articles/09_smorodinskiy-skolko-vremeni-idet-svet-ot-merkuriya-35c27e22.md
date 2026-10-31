@@ -42,7 +42,7 @@ nó bằng $r_{\text{max}} = 1,38$ đơn vị thiên văn (1 AU là khoảng cá
 
 *) Chúng ta hãy nhớ rằng các hành tinh chuyển động gần như trong cùng một mặt phẳng—mặt phẳng hoàng đạo. Chúng tôi không dạy rằng quỹ đạo của các hành tinh là hình elip; tính đến điều này sẽ dẫn đến những thay đổi nhỏ $r_{\text{max}}$ và $r_{\text{min}}$.
 
-Cơm. 1.
+Hình 1.
 
 ⟦folio 21⟧
 
@@ -89,7 +89,7 @@ $$\Delta t \approx \frac{10R_{\odot}}{c} \cdot \frac{\Delta v}{c} = \frac{10R_{\
 
 ⟦folio 22⟧
 
-Cơm. 2.
+Hình 2.
 
 ka rất hữu ích cho việc tìm đường xung quanh bài toán. Công thức chính xác hơn của lý thuyết tương đối là
 

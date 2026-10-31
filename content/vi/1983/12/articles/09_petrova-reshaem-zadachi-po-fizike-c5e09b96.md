@@ -42,7 +42,7 @@ Bài toán 1. Hai đường cắt nhau vuông góc. Các đoạn đường hình
 
 Nhiều giải pháp cũng mắc sai lầm tương tự - họ không tính đến việc tại các giao lộ (Hình 1) chỉ có một trong số đó được trải nhựa. Một số độc giả đưa ra một câu hỏi khác cho vấn đề này bài toán: độ dày của lớp phủ là bao nhiêu? Vâng, chính thức thì câu hỏi này là chính đáng. Nhưng kinh nghiệm sống là
 
-Cơm. 1.
+Hình 1.
 
 ⟦folio 33⟧
 

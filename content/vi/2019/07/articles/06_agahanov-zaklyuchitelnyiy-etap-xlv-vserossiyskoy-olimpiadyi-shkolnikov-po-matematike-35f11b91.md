@@ -30,7 +30,7 @@ KV AN T 2019/№7
 
 ⟦figure⟧
 
-Cơm. 9
+Hình 9
 
 piston rút lại theo chiều dài của ống tiêm, nếu áp suất khí quyển là $p_{0}$ và diện tích mặt cắt ngang là $поршня^{S.}$ Bỏ qua sự thay đổi nhiệt độ.
 
@@ -40,7 +40,7 @@ piston rút lại theo chiều dài của ống tiêm, nếu áp suất khí quy
 
 ⟦figure⟧
 
-Cơm. 10
+Hình 10
 
 Ô L I M P I A DY
 

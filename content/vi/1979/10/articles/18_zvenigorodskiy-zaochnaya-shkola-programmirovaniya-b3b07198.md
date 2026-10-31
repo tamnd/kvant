@@ -52,7 +52,7 @@ Bạn có thể đọc ý nghĩa của một cái tên bao nhiêu lần tùy th�
 Hãy xem xét một số ví dụ về bài tập:
 GIÁ TRỊ 5 TÊN CHUYỂN A;
 
-Cơm. 1
+Hình 1
 
 ⟦folio 55⟧
 

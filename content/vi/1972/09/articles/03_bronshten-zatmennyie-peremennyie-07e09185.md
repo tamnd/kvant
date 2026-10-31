@@ -53,7 +53,7 @@ Giả thuyết của Goodreik đã được xác nhận một trăm năm sau.
 
 ⟦folio 24⟧
 
-Cơm. 2.
+Hình 2.
 
 = 1,27) Algol trải qua mức tối thiểu thứ cấp thông qua Polarioda, khi độ sáng của nó chỉ giảm $\Delta m_2 = 0,06$ độ lớn (Hình 2, a). Điều này có nghĩa là vệ tinh trong hệ Algol không tối hoàn toàn mà phát ra một ít ánh sáng và khi bị ngôi sao chính che khuất một phần, độ sáng của hệ sẽ yếu đi phần nào. Do mô hình hình học của bieclipses hoàn toàn đối xứng so với tâm của ngôi sao chính, bất kể góc nghiêng của quỹ đạo so với đường ngắm, nên rõ ràng là vùng bị che khuất của đĩa vệ tinh hoàn toàn bằng diện tích của đĩa của ngôi sao chính bị che khuất ở mức tối thiểu chính (xem Hình 2, b). Nhưng sau đó, từ sự tương ứng giữa biên độ mất độ sáng ở cực tiểu chính và cực tiểu phụ ($\Delta m_1$ và $\Delta m_2$) và các giá trị độ sáng tương ứng ($l_1$ và $l_2$), người ta có thể tìm thấy mối liên hệ giữa bề mặt độ sáng của cả hai ngôi sao ($B_1$, $B_2$). Để đơn giản, chúng ta hãy lấy độ sáng của hệ thống bên ngoài nhật thực là sự thống nhất ($L_0=1$); thì từ (1) ta sẽ có:
 $$\Delta m_1 = -2,5 \log l_1; \Delta m_2 = -2,5 \log l_2; \log l_1 = -0,4 \Delta m_1; \log l_2 = -0,4 \Delta m_2;$$
@@ -148,7 +148,7 @@ Nếu mặt phẳng quỹ đạo đi qua đường ngắm ($i=90^\circ$), thì n
 
 *) Mặt phẳng ảnh là mặt phẳng vuông góc với tia nhìn.
 
-Cơm. 5.
+Hình 5.
 
 $i$ và $\theta$, trong đó chúng ta chỉ biết phần thứ hai ($\theta$). Mặc dù công thức biểu thị mối liên hệ của $d$ với $i$ và $\theta$ rất đơn giản nhưng chúng tôi sẽ không rút ra nó ở đây để tránh tính toán rườm rà mà sẽ viết nó ở dạng đơn giản:
 

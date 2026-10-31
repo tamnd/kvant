@@ -50,6 +50,6 @@ CƠ KHÍ
 
 ⟦figure⟧
 
-Cơm. 2
+Hình 2
 
 chiều cao $v_{0}$ quả bóng thứ hai có nên đánh theo hướng của quả bóng thứ nhất để nó rơi khỏi bàn không? Hệ số ma sát của vòng đệm trên mặt bàn là P = 0,2. Sự va chạm của vòng đệm được tính

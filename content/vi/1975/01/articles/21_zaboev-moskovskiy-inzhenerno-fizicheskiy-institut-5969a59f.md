@@ -78,7 +78,7 @@ $$\log_{\frac{1}{\sqrt{1+x}}} 10\cdot\log_{10}(x^2-3x+2) = \\ = -2 + \log_{\frac
 ⟦folio 64⟧
 
 ⟦figure⟧
-Cơm. 1.
+Hình 1.
 
 **Vật lý**
 
@@ -89,12 +89,12 @@ Cơm. 1.
 **3.** Một quả bóng nhỏ có điện tích $q = 1$ *μk*, được treo trên một vật cách điện không trọng lượng
 
 ⟦figure⟧
-Cơm. 2
+Hình 2
 
 ⟦column⟧
 
 ⟦figure⟧
-Cơm. 3.
+Hình 3.
 
 lò xo có độ cứng $k = 9$ *n/m*. Từ vô cực, một quả bóng nhỏ khác có cùng điện tích được từ từ đưa đến gần hơn và đặt vào vị trí ban đầu của quả bóng trên lò xo. Lực tĩnh điện đã thực hiện bao nhiêu công?
 

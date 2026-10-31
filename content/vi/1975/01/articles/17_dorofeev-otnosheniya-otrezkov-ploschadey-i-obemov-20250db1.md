@@ -46,7 +46,7 @@ Dễ dàng nhận thấy rằng các tam giác $BAE$ và $BEC$ (Hình 1) có m�
 Có vẻ khá rõ ràng rằng đường dẫn tính toán trực tiếp (ví dụ như giới thiệu đường dẫn tính toán phụ trợ)
 
 ⟦figure⟧
-Cơm. 1.
+Hình 1.
 
 ⟦folio 55⟧
 
@@ -59,7 +59,7 @@ Nếu chúng ta suy nghĩ sâu hơn về lời giải được đề xuất, th�
 Hãy tự giải quyết vấn đề này tổng quát hơn bài toán.
 
 ⟦figure⟧
-Cơm. 2.
+Hình 2.
 
 ⟦folio 56⟧
 
@@ -86,10 +86,10 @@ Câu (1) được chứng minh đơn giản nhất bằng cách sử dụng côn
 Vấn đề 3 (MSU, khoa địa chất, 1968). *Trong tam giác $ABC$ vẽ các đường phân giác $AD$ và $CF$ của các góc $BAC$*
 
 ⟦figure⟧
-Cơm. 3.
+Hình 3.
 
 ⟦figure⟧
-Cơm. 4.
+Hình 4.
 
 và $ACB$. *Tìm tỉ số diện tích của các hình tam giác $ABC$ và $AFD$, nếu $AB = 21$, $AC = 28$, $CB = 20$.*
 
@@ -167,10 +167,10 @@ Mặt khác, các đoạn thẳng $SA$, $SB$, $SC$, $SD$ là các cát tuyến c
 $$= SC_1\cdot SC = SD_1\cdot SD = \frac{9}{4}\cdot\frac{128}{36} = 8.$$
 
 ⟦figure⟧
-Cơm. 5.
+Hình 5.
 
 ⟦figure⟧
-Cơm. 6.
+Hình 6.
 
 ⟦folio 58⟧
 

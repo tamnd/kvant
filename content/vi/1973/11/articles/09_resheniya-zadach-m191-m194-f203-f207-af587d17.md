@@ -79,9 +79,9 @@ $$S_{ABE} + S_{AED} + S_{EDC} + S_{BCD} \geq S_{ABCDE}.$$
 
 Ví dụ trong Hình 7 cho thấy tỷ lệ diện tích gót chân của hình tam giác với diện tích của hình ngũ giác có thể rất gần với 1.
 
-Cơm. 8.
+Hình 8.
 
-Cơm. 9.
+Hình 9.
 
 Dễ dàng nhận thấy tỷ lệ này không lớn hơn 2. Hình 8 cho thấy nó có thể được làm càng gần 2 càng tốt.
 
@@ -189,7 +189,7 @@ $$\Delta v = v_{\text{max}} - v_1 = g_\pi R_\pi (\sqrt{2} - 1) \approx 700 \text
 
 S. M. Kozel
 
-Cơm. 11.
+Hình 11.
 
 F205. Sử dụng một mảnh của chồng A có hình dạng không đều trên một bức tường thẳng đứng, tia nắng được giải phóng một lần trong nước tiểu B, lần khác trong nước tiểu C (Hình 11). Con thỏ trong nước tiểu B có hình tròn và độ chiếu sáng ở trung tâm của nó lớn hơn những khu vực được chiếu sáng bằng ánh sáng khuếch tán nhẹ. Sự chiếu sáng ở trung tâm của chú thỏ trong nước tiểu C là gì?
 
@@ -241,7 +241,7 @@ Khi các phân tử nitơ va chạm với bề mặt máy bay, nó không thể 
 
 ⟦folio 49⟧
 
-Cơm. 15.
+Hình 15.
 
 Vì các phân tử nitơ sau khi va chạm với máy bay phải có năng lượng $\frac{5}{2} kT_2$ tương ứng với nhiệt độ $T_2$ của bề mặt máy bay, nên
 

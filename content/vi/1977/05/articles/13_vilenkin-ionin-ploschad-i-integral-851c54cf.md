@@ -61,9 +61,9 @@ tính thích ứng
 
 Thuộc tính diện tích `addumивности` giúp giải các bài toán phức tạp hơn bài toán trong việc tính diện tích. Nó “cho phép” chia một hình đã cho thành nhiều phần và tính diện tích của toàn bộ hình đó bằng tổng diện tích của các phần này.
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
 ⟦folio 31⟧
 
@@ -167,7 +167,7 @@ $$\int_{0}^{1} \sqrt{1 - x^2} \, dx.$$
 
 ⟦folio 34⟧
 
-Cơm. 11.
+Hình 11.
 
 trung tâm tại điểm gốc (Hình 11),
 Do đó $\int_0^1 \sqrt{1-x^2} \, dx$ là một phần tư đường tròn phẳng có bán kính 1 nên khoảng này bằng $\pi/4$.

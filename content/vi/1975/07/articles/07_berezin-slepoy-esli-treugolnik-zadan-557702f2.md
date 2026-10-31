@@ -47,12 +47,12 @@ Bây giờ hãy giải quyết bài toán này.
 
 Bài tập 2. Cho tam giác đều ABC ($|BC|=|CA|$, xem Hình 2) có góc BAC nhỏ hơn 60° và một điểm D. chứng tỏ đoạn AD tạo thành một góc với cạnh AC của tam giác bằng hiệu giữa góc 60° và góc BAC (có thể
 
-Cơm. 1.
-Cơm. 2.
+Hình 1.
+Hình 2.
 
 ⟦folio 37⟧
 
-Cơm. 3.
+Hình 3.
 
 đường thẳng AC là đường phân giác của góc DAE), với $|AD| = |AB|$. Tìm $\widehat{ADC}$ (hóa ra lại bằng 30°).
 
@@ -66,14 +66,14 @@ Nhân tiện, lưu ý rằng góc ECD cũng bằng 30° và tam giác AEC là đ
 
 ⟦folio 38⟧
 
-Cơm. 6.
+Hình 6.
 
 Bây giờ chúng ta khái quát hóa các điều kiện bài toán 3.
 Bài toán 4. Trên các cạnh AB và BC của tam giác ABC lấy điểm E và D tương ứng với $\widehat{ADE} = \widehat{ECD} = 30^\circ$. Biết rằng tam giác AEC là tam giác đều ($|AE| = |AC|$; Hình 5). Giả sử $\widehat{ABC} = \alpha$ hãy tìm các góc còn lại của tam giác ABC. Góc $\alpha$ có thể là bao nhiêu?
 
 Lời giải. Hình 5 gợi ý cách dựng các điểm trên mặt phẳng A, E và D và $\widehat{ADE} = 30^\circ$, phù hợp với các điều kiện bài toán, để dựng tam giác ABC. Chúng ta hãy tiếp tục vẽ các đoạn AC và EC cho đến khi chúng cắt đường tròn ngoại tiếp tam giác AED tại các điểm
 
-Cơm. 7.
+Hình 7.
 
 G và F tương ứng (trong Hình 5, đây là một đường tròn có tâm tại điểm $O_1$).
 

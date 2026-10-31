@@ -68,11 +68,11 @@ Hình bầu dục, hình số tám, hai hình bầu dục...
 
 5. Phương trình $P(x,y)=\frac{x^2}{10^2}+y^2-1=0$ chỉ định một hình elip “nằm”, có bán trục ngang bằng 10 và nửa trục dọc là 1. Hơn nữa, như dễ thấy, đối với các điểm $(x; y)$ bên trong hình elip $P(x,y)<0$,
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
-Cơm. 3.
+Hình 3.
 
 và cho các điểm nằm ngoài hình elip $P(x,y)>0$. Tương tự, phương trình $Q(x,y)=x^2+\frac{y^2}{10^2}-1=0$ xác định một hình elip “thẳng đứng” với $Q(x,y)>0$ bên trong và $Q(x,y)>0$ bên ngoài. Rõ ràng là phương trình $P(x,y)\cdot Q(x,y)=0$ chỉ ra sự kết hợp của hai hình elip này và dấu của hàm $F(x,y)=P(x,y)\times Q(x,y)$ sẽ như trong Hình 2. Do đó, nếu chúng ta lấy một số rất nhỏ $\varepsilon>0$, thì đường cong là đồ thị của phương trình $F(x,y)=-\varepsilon$ sẽ hoàn toàn đi qua “vùng âm” (trong Hình 2 nó giới hạn độ sâu của đám mây).
 
@@ -122,7 +122,7 @@ Do đó, đẳng thức số $d = 0$ chỉ đạt được với điều kiện 
 
 4. Xét sự đối xứng trục với trục $OE$, trong đó $O$ là tâm của hình bán nguyệt (xem Hình 4) và chứng minh rằng cạnh của hình vuông lớn hơn dài gấp đôi cạnh của hình vuông nhỏ.
 
-Cơm. 4.
+Hình 4.
 
 5. Hãy để một cuốn sách có giá $x$ kopecks. Sau đó $9x < 1000$, tức là $x \leq 111$. Đồng thời $10x > 1100$, tức là $x > 110$. Do đó, $x = 111$ - một cuốn sách có giá 1 rúp. 11 kopecks
 

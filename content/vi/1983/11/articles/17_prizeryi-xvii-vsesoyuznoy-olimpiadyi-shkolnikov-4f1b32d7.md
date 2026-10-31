@@ -254,11 +254,11 @@ $$\vec{AB}, \vec{AC}, \vec{AD} \text{ и докажите, что } \frac{3}{4}\
 
 26. Bằng chứng. Hãy chiếu các hình tròn lên một cạnh của hình vuông. Hình chiếu của mỗi đường tròn là một đoạn có chiều dài bằng đường kính của nó và tổng chiều dài của tất cả các đoạn là $10/\pi > 3$. Có nghĩa,
 
-Cơm. 13. Hình 14.
+Hình 13. Hình 14.
 
-Cơm. 15.
+Hình 15.
 
-Cơm. 16. Hình 17.
+Hình 16. Hình 17.
 
 một số điểm trên cạnh hình vuông sẽ được bao phủ bởi ít nhất bốn hình chiếu; một đường vuông góc vẽ về phía tại điểm này sẽ cắt ít nhất 4 đường tròn.
 

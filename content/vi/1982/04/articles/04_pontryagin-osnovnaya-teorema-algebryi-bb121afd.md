@@ -67,11 +67,11 @@ Hãy để chúng tôi giới thiệu khái niệm về biến dạng đường 
 
 $$r( \cos \alpha + i \sin \alpha ); 0 \leqslant \alpha \leqslant 2\pi.$$
 
-Cơm. 4.
+Hình 4.
 
 Biến dạng đường đi 1+r(cosα+i sinα) khi thay đổi $r$
 
-Cơm. 5.
+Hình 5.
 
 ⟦folio 6⟧
 
@@ -131,7 +131,7 @@ $$|z^n| \leqslant |f(z, s)| + |-sg(z)| \leqslant |f(z, s)| + nC|z^{n-1}| \leqsla
 
 ⟦folio 7⟧
 
-Cơm. 7.
+Hình 7.
 
 (xem (8)). Nó theo sau
 $$|f(z, s)| \geq |z^n| - nC |z^{n-1}|.$$

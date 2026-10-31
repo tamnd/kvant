@@ -42,7 +42,7 @@ TẦM NHÌN CÂU HỎI CÓ vẻ lạ lùng. Mọi người đều biết hình t
 
 ⟦figure⟧
 
-Cơm. 1
+Hình 1
 
 Bổ đề. Nếu có hai cặp đường tròn giao nhau (một cặp $O_{1}, O_{2}$ và một cặp $O_{3}, O_{4} ),$ và các đoạn nối chúng
 
@@ -54,7 +54,7 @@ tâm $( O_{1} O_{2}$ và $O_{3} O_{4} ),$ có một điểm chung (X), thì ba t
 
 ⟦figure⟧
 
-Cơm. 2
+Hình 2
 
 Đáp số: không đúng. Một phản ví dụ được hiển thị trong Hình 2. Bài toán 2 về hình tròn. Trên mặt phẳng có 3 hình tròn đỏ và 3 hình tròn xanh, hai hình tròn khác màu đều có một điểm chung. Có đúng là sẽ luôn có hai đường tròn cùng màu có một điểm chung? Đáp số: đúng. Lời giải. Hãy kết nối tâm của các vòng tròn nhiều màu với nhau bằng các đoạn thẳng. Một số hai đoạn được vẽ phải
 
@@ -70,11 +70,11 @@ nó có thể luôn được cắt thành N đa giác lồi, mỗi đa giác s�
 
 ⟦figure⟧
 
-Cơm. 4
+Hình 4
 
 ⟦figure⟧
 
-Cơm. 3
+Hình 3
 
 Bình luận. Trong bài toán 1 và 2, các hình vuông có thể được thay thế bằng các đa giác khác, đặc biệt là bằng N-giác đều, trong đó N có kích thước lớn tùy ý. Trong trường hợp này, đa giác gần như không thể phân biệt được với hình tròn. Đúng, Hình 2 và Hình 3 sẽ phải được xem xét dưới kính hiển vi để thấy được tất cả các điểm giao nhau trong đó. Bài toán 3 về vòng tròn. Một đa giác lồi chứa N đường tròn rời nhau. Có đúng là một đa giác luôn có thể được cắt thành N đa giác lồi, mỗi đa giác sẽ chứa chính xác một trong các hình tròn? Trước khi chuyển sang lời giải bài toán này, chúng ta hãy xem xét bài toán đơn giản hơn. Bài toán 3 về điểm. Trong một đa giác lồi, N điểm (được đánh số từ 1 đến N) được đánh dấu. Có đúng là một đa giác
 
@@ -98,11 +98,11 @@ một cầu sẽ ở bên trong, cầu kia sẽ ở bên ngoài (Hình 6). Kết
 
 ⟦figure⟧
 
-Cơm. 6
+Hình 6
 
 ⟦figure⟧
 
-Cơm. 5
+Hình 5
 
 Giải thích. Có ba hình vuông trong một hình ngũ giác. Không thể cắt một hình ngũ giác thành ba phần lồi, mỗi phần chứa một hình vuông. Điểm ở giữa hình ảnh không thể thuộc về bất kỳ phần nào, vì mỗi phần trong số ba đoạn đi từ nó đến một trong các điểm của hình vuông sẽ giao nhau với đường viền của một hình vuông khác, tức là không có đoạn nào trong số này thuộc về một hình lồi.
 
@@ -110,7 +110,7 @@ Giải thích. Có ba hình vuông trong một hình ngũ giác. Không thể c�
 
 Năm ngôi nhà. Hãy chứng minh rằng trên một mặt phẳng không thể nối năm ngôi nhà với nhau bằng những con đường không giao nhau sao cho mỗi ngôi nhà được nối với nhau bằng một con đường riêng. Giả sử cuối cùng chúng ta đã làm được điều này. Hãy xóa tất cả các bản nhạc và trả lại chúng một cách tuần tự. Đầu tiên, chúng ta thêm bốn con đường nối bốn ngôi nhà theo một chu trình, chúng ta sẽ có được một “tứ giác” gồm các con đường. Bây giờ chúng ta nối các cặp đỉnh đối diện của tứ giác này (vẽ các đường chéo). Một phần đường kính, ranh giới của nó cũng sẽ là một hình tam giác (hãy gọi phần này là tam giác “vô hạn”). Ngôi nhà thứ năm sẽ nằm trong một trong những hình tam giác này và chỉ có thể nối với ba đỉnh của tam giác đó. Một điều mâu thuẫn - sẽ có thêm một ngôi nhà nữa không thể kết nối với ngôi nhà thứ năm. Ba ngôi nhà và ba cái giếng. Hãy chứng minh rằng trên một mặt phẳng không thể nối ba ngôi nhà với ba cái giếng bằng những con đường không giao nhau sao cho mỗi ngôi nhà được nối với mỗi cái giếng bằng một con đường riêng. Giả sử cuối cùng chúng ta đã làm được điều này. Hãy xóa tất cả các bản nhạc và trả lại chúng một cách tuần tự. Đầu tiên, chúng ta sẽ đi vòng quanh tất cả các ngôi nhà và giếng nước theo một vòng khép kín. Vì các con đường không giao nhau nên nó sẽ là một “hình lục giác” gồm các con đường, với những ngôi nhà và giếng nước xen kẽ trong đó (Hình 7). Vẫn còn phải vẽ thêm ba đường nối các đỉnh đối diện của hình lục giác. Ít nhất hai trong số
 
-Cơm. 8
+Hình 8
 
 ⟦folio 27⟧
 

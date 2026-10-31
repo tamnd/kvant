@@ -45,7 +45,7 @@ $$R_0 = \varrho \frac{l}{S} = \frac{l}{\sigma S} = \frac{l}{\sigma hd},$$
 
 trong đó $\sigma = 1/\varrho$ là độ dẫn điện riêng của chất bán dẫn và $l, h, d$ là kích thước hình học của mẫu (Hình 1). Tuy nhiên, giá trị điện trở mà thiết bị phát hiện hóa ra lại lớn hơn hàng triệu lần so với giá trị dự đoán theo công thức này. Thực tế là ở những nơi có điện trở của các đầu kim loại của máy thử bằng chất bán dẫn, một lớp tích điện mỏng gần bề mặt sẽ xuất hiện - cái gọi là
 
-Cơm. 1. Mẫu có liên hệ.
+Hình 1. Mẫu có liên hệ.
 
 ⟦folio 12⟧
 
@@ -83,7 +83,7 @@ Thí nghiệm dây với các mẫu có độ dài khác nhau $l$, người ta c
 
 ⟦folio 14⟧
 
-Cơm. 3. Sự phụ thuộc của vận tốc trôi electron $v_d$ vào cường độ điện trường $E$ đối với Ge (đường cong 1) và Si (đường cong 2).
+Hình 3. Sự phụ thuộc của vận tốc trôi electron $v_d$ vào cường độ điện trường $E$ đối với Ge (đường cong 1) và Si (đường cong 2).
 
 bằng $I = env_d hd$, độ bão hòa dòng điện ở nồng độ electron không đổi có nghĩa là trong Ge và Si tốc độ trôi của electron trong điện trường mạnh không phụ thuộc vào cường độ trường.
 
@@ -91,7 +91,7 @@ Thoạt nhìn, tình huống này có vẻ rất kỳ lạ. Điện trường gi
 
 Sự bão hòa vận tốc trôi của electron trong Ge và Si trong điện trường mạnh được phát hiện trước khi Gann bắt đầu nghiên cứu của mình. Trở ngại là tính chất của electron trong điện trường mạnh có thể khác biệt rất đáng kể so với tính chất của electron trong điện trường yếu cũng đã được biết rõ. Nhưng hiệu ứng mà Gann quan sát thấy trong các mẫu
 
-Cơm. Hình 4. Sự phụ thuộc thời gian của điện áp vào mẫu (a) và dòng điện qua mẫu (b) trong thí nghiệm của Gunn. Đường chấm chấm hiển thị trường hợp khi $U < U_n$, với sự trợ giúp của các đường cong - khi $U > U_n$.
+Hình 4. Sự phụ thuộc thời gian của điện áp vào mẫu (a) và dòng điện qua mẫu (b) trong thí nghiệm của Gunn. Đường chấm chấm hiển thị trường hợp khi $U < U_n$, với sự trợ giúp của các đường cong - khi $U > U_n$.
 
 ⟦folio 15⟧
 
@@ -99,7 +99,7 @@ mẫu: $U_n = E_n l$, trong đó $E_n$ là giá trị cường độ trường g
 
 Cố gắng hiểu điều gì xảy ra trong mẫu khi xảy ra dao động, Gang đã thực hiện một nghiên cứu về hiệu quả mà ông đã phát hiện ra, tương đương với mức độ kỹ năng thực nghiệm. Ông nhận thấy rằng khi điện áp trên mẫu vượt quá giá trị ngưỡng $U_n$ thì bản chất của dòng điện và sự phân bố điện áp điện trường trong mẫu hoàn toàn thay đổi. Tại $U < U_n$, dòng điện trong mẫu là dòng điện chạy từ tiếp điểm của mẫu nơi đặt nguồn điện áp “âm” (từ cực âm) đến tiếp điểm mà “ống” được đặt vào (đến cực dương); điện trường được phân bố đều dọc theo mẫu (đường cong nét đứt trong Hình 5). Trong những điều kiện này, đặc tính dòng điện-điện áp của mẫu tương ứng với định luật Ohm. Nhưng ngay khi điện áp đặt vào mẫu đạt đến ngưỡng
 
-Cơm. 5. Phân bố điện trường trong mẫu tại $U < U_n$ (đường cong nét đứt) và tại $U \geq U_n$ (đường cong liền nét). Mũi tên chỉ hướng truyền của ngôi nhà từ cực âm đến cực dương. Phần trên của hình thể hiện sơ đồ chuyển động của ngôi nhà dọc theo mô hình.
+Hình 5. Phân bố điện trường trong mẫu tại $U < U_n$ (đường cong nét đứt) và tại $U \geq U_n$ (đường cong liền nét). Mũi tên chỉ hướng truyền của ngôi nhà từ cực âm đến cực dương. Phần trên của hình thể hiện sơ đồ chuyển động của ngôi nhà dọc theo mô hình.
 
 Khi đạt đến giá trị $U_n$, bản chất của phân bố trường dọc theo mẫu sẽ thay đổi mạnh. Một vùng hẹp của trường rất mạnh—một “miền”*—sẽ xuất hiện trong mẫu gần cực âm. Mặc dù chiều rộng của vùng này không lớn nhưng ưu điểm thực sự của nó là một phần đáng kể điện áp đặt vào mẫu rơi vào miền (Hình 5). Miền di chuyển từ cực âm sang cực dương với tốc độ xấp xỉ bằng $v_n/2$. Đạt được tiếp điểm anốt, miền bị phá hủy. Ngay sau đó, một miền mới được sinh ra ở cực âm và mọi thứ lại lặp lại.
 
@@ -124,7 +124,7 @@ Các hệ số mà Gunn quan sát được có liên quan như thế nào đến
 
 Đặt điện áp $U_1 < U_n$ vào mẫu. Trong trường hợp này, trường dọc theo mẫu được phân bố đồng đều
 
-Cơm. 6. Sự phụ thuộc của vận tốc trôi electron $v_d$ của GaAs vào cường độ điện trường $E$. Sự phụ thuộc tương tự là đặc trưng của nhiều chất bán dẫn khác (InP, GaInSb, InGaAsP, v.v.).
+Hình 6. Sự phụ thuộc của vận tốc trôi electron $v_d$ của GaAs vào cường độ điện trường $E$. Sự phụ thuộc tương tự là đặc trưng của nhiều chất bán dẫn khác (InP, GaInSb, InGaAsP, v.v.).
 
 có nguồn gốc và bằng $E_1 = U_1/l$. Tốc độ trôi của các electron $v_1$ bằng $v_1 = \mu E_1$ (xem Hình 6), và dòng điện là dòng electron chạy với tốc độ $v_1$ từ κατάda đến cực dương. Bây giờ chúng ta giả sử rằng ở đâu đó trong mẫu, một vùng nhỏ đã vô tình được hình thành trong đó hướng của trường lớn hơn giá trị $E_1$ một chút. Do tính chất hỗn loạn của chuyển động của các electron trong tinh thể, những sai lệch nhỏ của trường so với giá trị trung bình $E_1$ (dao động trường) phát sinh liên tục và nhiệm vụ của chúng ta bài toán là theo dõi điều gì xảy ra với sự dao động đó khi nó xảy ra.
 

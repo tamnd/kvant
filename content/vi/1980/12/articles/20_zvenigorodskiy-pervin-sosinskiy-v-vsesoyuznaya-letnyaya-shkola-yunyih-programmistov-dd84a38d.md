@@ -81,7 +81,7 @@ Học sinh lớp 9 Vitaly Tsikoza (Novosibirsk, bằng cấp một) nói về ph
 HỆ THỐNG HÌNH ẢNH <<SPAGA-5>>
 phiên bản thử nghiệm RASSAL-Montir
 
-Cơm. 1.
+Hình 1.
 
 ⟦folio 53⟧
 
@@ -96,7 +96,7 @@ OBC tuyến tính
 OBC trung tâm
 OBC hình ngôi sao
 
-Cơm. 2.
+Hình 2.
 
 Các máy số được xây dựng trên các mạch điện lớn bên trong đã trở nên phổ biến ở nhiều lĩnh vực khác nhau trong những năm gần đây. Bộ vi xử lý điều khiển bộ máy nghiên cứu của tàu vũ trụ và các nhà máy cán lớn nhất, xác định độ phơi sáng trong quá trình chụp ảnh, điều chỉnh hoạt động của động cơ tự động và máy tính bỏ túi. Tất nhiên, chất lượng công việc của họ phụ thuộc vào việc quản lý chương trình immi. Thông thường cần phải hiểu một chương trình như vậy, hiểu thuật toán cơ bản và có thể thực hiện những thay đổi cần thiết. Nhưng việc hiểu một chương trình lạ được viết bằng lệnh máy không hề dễ dàng chút nào: để làm được điều này, bạn cần thay thế các lệnh bằng các ký hiệu không phải monic của chúng, vận hành bằng các nhận xét, tách lệnh khỏi dữ liệu, chia chương trình thành các khối riêng biệt và phát triển kết nối giữa chúng, v.v. Tất cả công việc này được thực hiện bởi bộ công cụ do Sergey tạo ra.
 

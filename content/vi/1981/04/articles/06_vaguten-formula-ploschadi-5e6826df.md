@@ -60,11 +60,11 @@ $$\frac{1}{2} \left[ (x_1y_2-x_2y_1) + (x_2y_3-x_3y_2) + ... + (x_ny_1-x_1y_n) \
 
 Biểu thức $ad-bc$ phổ biến trong toán học đến mức một ký hiệu đặc biệt $|a|^2 b|^2$ và tên “định thức” đã được sử dụng cho nó.
 
-Cơm. 1.
+Hình 1.
 
 ⟦folio 18⟧
 
-Cơm. 2. Tích của các số nối với nó bằng một đoạn được lấy bằng dấu + và màu đỏ - bằng dấu -.
+Hình 2. Tích của các số nối với nó bằng một đoạn được lấy bằng dấu + và màu đỏ - bằng dấu -.
 
 bậc hai"; Sử dụng các định thức như vậy, công thức diện tích có thể được viết gọn hơn:
 
@@ -110,7 +110,7 @@ Bây giờ rõ ràng là tổng của các số hạng $n$ $(x_k y_{k+1} - x_{k+
 
 ⟦folio 19⟧
 
-Cơm. 3.
+Hình 3.
 
 diện tích định hướng của hình bình hànhOBDC, được xây dựng trên các vectơ $\vec{OB}$ và $\vec{OC}$*): diện tích của OBDC được lấy bằng dấu “cộng” nếu hướng $\vec{OC}$ được lấy từ hướng $\vec{OB}$ bằng cách quay ngược chiều kim đồng hồ (ở một góc không quá 180°) và “trừ” nếu theo chiều kim đồng hồ.
 

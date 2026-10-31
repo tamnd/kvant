@@ -52,13 +52,13 @@ Hình 1 cho thấy bốn bốn vòng tròn $k, l, m$ và $e$ và bốn giao đi�
 
 Bây giờ chúng ta đang xử lý các vòng tròn. Một vòng tròn là gì? Bất kỳ vòng tròn nào được xác định bởi vị trí tâm của nó và kích thước bán kính của nó:
 
-Cơm. 1.
+Hình 1.
 
 Vui lòng kết nối posmota của mỗi trung tâm trong số ba trung tâm với cả ba điểm giao nhau thuộc vòng tròn tương ứng: $K$ với $B$, $C$ và $O$, v.v.
 
 Con số nhận (Hình 2) hóa ra lại bị quá tải một cách đáng lo ngại. Có rất nhiều đường nét trên đó - thẳng và cong - đến mức nó phải được “mắt nhìn nhận” một cách thích hợp; nó “không muốn đứng yên.” Hình vẽ này có thể lấp đầy một số hình vẽ quen thuộc với chúng ta từ các tạp chí cũ - một hình vẽ như vậy chứa đầy những điều không xác định: nếu bạn nhìn nó như bình thường, thì sẽ thấy một hình vẽ trên đó; nếu bạn xoay tạp chí, đặt nó ở một vị trí được chọn đặc biệt và xem xét những điều sau: tất cả các điểm của vòng tròn đều có cùng khoảng cách (và bằng bán kính) tính từ tâm. Nhưng chúng tôi đã xem xét bán kính $r$ này chung cho cả bốn đường tròn; do đó, chúng tôi đã không tính đến điều kiện hiện tại. Do đó, trước hết chúng ta hãy biểu thị tâm của các vòng tròn của chúng ta: $K$ cho vòng tròn $k$, $L$ cho vòng tròn $l$ và $M$ cho vòng tròn $m$. Đâu là nơi tốt nhất để vẽ bán kính $r$? Rõ ràng, không có ích gì khi ưu tiên cho bất kỳ một trong ba vòng tròn nhất định $k$, $l$ và $m$ hoặc bất kỳ một trong ba điểm giao nhau của chúng $A$, $B$ và $C$.
 
-Cơm. 2.
+Hình 2.
 
 chìm ở một góc nào đó, rồi đột nhiên một nhân vật khác xuất hiện, ra lệnh cho bạn như một lời bình luận ít nhiều dí dỏm về người đầu tiên. Bạn có thể nhận ra trong hình vẽ lộn xộn của chúng ta, quá tải với các đường thẳng và hình tròn, một số hình khác có thể hữu ích cho các hình vẽ của chúng ta không?
 
@@ -80,7 +80,7 @@ EA, EB, EC
 cũng sẽ bằng r.
 Tuyên bố cuối cùng này khiến chúng ta chú ý đến Hình 3. Con số này có phần đáng chú ý; nó nhắc nhở chúng ta về một cái gì đó quen thuộc. (Chính xác thì sao?)
 
-Cơm. 3.
+Hình 3.
 
 Tất nhiên, đối với bất kỳ tứ giác nào được hiển thị trong Hình 3, ví dụ như tứ giác OLAM, cả bốn cạnh đều bằng nhau, nghĩa là các tứ giác này là hình thoi.
 
@@ -94,7 +94,7 @@ Chúng ta không được quên mục tiêu mà mình đang phấn đấu. Giả
 
 Tất nhiên, Hình 4 là hình chiếu
 
-Cơm. 4.
+Hình 4.
 
 12 cạnh của một hình song song được sắp xếp sao cho tất cả các hình chiếu này có cùng chiều dài.
 

@@ -26,7 +26,7 @@ translation_quality: draft
 
 ⟦folio 9⟧
 
-Cơm. 9.
+Hình 9.
 
 Hình vẽ cho thấy các thành phần phổ của tần số thấp có sự tích hợp lớn nhất. Chúng ta thường phát hiện tác động của những xung động như vậy khi ngồi trước đài, khi xe điện, xe điện chạy qua gần đó, khi hàn điện đang hoạt động, v.v.
 

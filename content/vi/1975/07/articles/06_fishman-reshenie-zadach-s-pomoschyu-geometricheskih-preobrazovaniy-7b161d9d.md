@@ -94,10 +94,10 @@ Nếu với bất kỳ điểm $A \widehat{AOB} = 180^\circ$ nào thì $F$ là m
 ⟦folio 32⟧
 
 ⟦figure⟧
-Cơm. 1.
+Hình 1.
 
 ⟦figure⟧
-Cơm. 2.
+Hình 2.
 
 $F\circ F$). Vì chuyển động $F$ bảo toàn khoảng cách nên điểm $F(B)$ lại nằm trên đường tròn $(O;r)$ và khoảng cách giữa các điểm $F(B)$ và $B$ bằng khoảng cách giữa các điểm $B$ và $A$. Các điều kiện này được thỏa mãn bởi hai điểm: điểm $A$ và điểm $C$ của đường tròn $(O;r)$ sao cho $B\hat{O}C=\alpha$ (Hình 1). Nhưng nếu $F(B)=A$ thì trung điểm của đoạn $AB$ - điểm $D$ - là điểm cố định của phép biến đổi $F$: $F(D)=D$ (chứng minh!), và điều này mâu thuẫn với thực tế rằng điểm $O$ là điểm cố định duy nhất $F$. Điều này có nghĩa là $F(B)=C$ và chúng tôi đã chứng minh rằng độ dịch chuyển $F$, giống như $R_O^\alpha$, lấy các điểm $O$, $A$ và $B$, không nằm trên cùng một đường thẳng, lần lượt là các điểm $O$, $B$ và $C$. Từ Định lý 1 suy ra $F=R_O^\alpha$. Định lý đã được chứng minh.
 
@@ -137,7 +137,7 @@ Nhiệm vụ 3. Bố cục $R_{02}^{\alpha_2}$. $\circ R_{01}^{\alpha_1}$ của 
 
 Lưu ý rằng nếu điều kiện 3 được đáp ứng thì thành phần $R_{01}^{\alpha_1}$.
 
-Cơm. 3.
+Hình 3.
 
 $\circ R_{02}^{\alpha_2}$ là phép quay theo góc $\alpha_1 + \alpha_2$ xung quanh $B$, đối xứng với điểm $A$ so với đường thẳng $O_1O_2$. Điều này chứng tỏ rằng thành phần của các vòng có tâm khác nhau không có tính chất giao hoán.
 
@@ -172,7 +172,7 @@ M291. Trên các cạnh $A_2A_3$, $A_3A_1$, $A_1A_2$ của tam giác $A_1A_2A_3$
 a) các đoạn $O_1O_2$ và $A_3O_3$ có chiều dài bằng nhau và vuông góc với nhau;
 b) trung điểm của các đoạn $A_3A_1$, $O_1O_2$, $A_3A_2$ và $A_3O_3$ là các đỉnh của hình vuông;
 
-Cơm. 4.
+Hình 4.
 
 c) diện tích hình vuông này nhỏ hơn 8 lần diện tích hình vuông có tâm $O_3$.
 
@@ -192,7 +192,7 @@ Do đó, phép quay một góc $90^\circ$ quanh điểm $D_1$ sẽ biến tứ g
 
 Chẳng hạn, vẫn còn phải chứng minh rằng tứ giác $B_1B_2B_3B_4$ là hình bình hành. Để làm điều này, hãy lưu ý rằng tất cả các hình tam giác $C_2D_2B_3$, $C_4D_2B_1$, $C_3D_2B_2$, $C_1D_2B_4$ đều đều có một góc vuông ở đỉnh
 
-Cơm. 5.
+Hình 5.
 
 xe buýt $D_2$. Điều này có nghĩa là phép quay một góc $90^\circ$ quanh điểm $D_2$ sẽ biến tứ giác $C_2C_3C_4C_1$ thành tứ giác $B_3B_2B_1B_4$. Thành phần của hai phép quay quanh điểm $D_1$ và $D_2$ theo các góc $90^\circ$ là một đối xứng trung tâm đối với một số $O_1$ và ánh xạ tứ giác $B_1B_4B_3B_2$ lên chính nó sao cho các đỉnh $B_1$ và $B_3$, $B_2$ và $B_4$ thay đổi ở một số điểm những nơi. Từ đó suy ra rằng tứ giác $B_1B_2B_3B_4$ đối xứng tâm, tức là hình bình hành, và đây là điều cần phải chứng minh.
 

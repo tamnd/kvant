@@ -70,15 +70,15 @@ Tuy nhiên, để biết có bao nhiêu ngày Petya (a) bơi và đến cửa h�
 
 Bổ đề. Trong số các số tự nhiên nhỏ hơn N, số dư q khi chia cho n cho $$\frac{N-1-q}{n} + 1$$ số (q≠0). (Hãy nhớ rằng [x] biểu thị một số nguyên
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
-Cơm. 3.
+Hình 3.
 
-Cơm. 4.
+Hình 4.
 
-Cơm. 5.
+Hình 5.
 
 phần của số x: số nguyên lớn nhất không vượt quá x.)
 
@@ -102,11 +102,11 @@ Bây giờ thật dễ dàng để nhận được đáp số cho các câu hỏ
 3 ngày Peta bơi, đến cửa hàng và quyết định bài toán.
 Bây giờ chúng ta đã có thể tính được có bao nhiêu ngày “nhàm chán” và bao nhiêu ngày “vui vẻ”. Tổng cộng, Peta đã ở trong làng 90 ngày. Trong 3 ngày anh ấy đã làm ba việc, 15+9+
 
-Cơm. 6.
+Hình 6.
 
-Cơm. 7.
+Hình 7.
 
-Cơm. 8.
+Hình 8.
 
 42
 
@@ -158,14 +158,14 @@ Học. Chúng ta hãy xem xét các trường hợp khác nhau về vị trí c�
 
 ⟦folio none⟧
 
-Cơm. 11 giờ sáng
+Hình 11 giờ sáng
 
 Một hình thang chỉ thu được nếu đoạn OM ngắn hơn đoạn MN (Hình 9, a, b). Nếu các đoạn OM và MN bằng nhau thì bạn sẽ có một hình tam giác (Hình 10). Nếu OM lớn hơn MN thì thu được “hình thang tự giao nhau” (Hình 11, a, b).
 
 Đúng lời giải bài toán đã gửi:
 N. Bashkina (Kurgan-Tube) M92; S. Buu-bamrin (Glodyany MSSR) M92; A. Alyaev (Pachelmy, vùng Penza) M92, M95; A. Bueay (Izyaslav) M93, M95; V. Gamolin (Odessa) M93—M95; V. Goncharenko (Maykop) M95; V. Afanasyev (Kolomna) M95; O. Volkov (Sverdlovsk) M95; O. Viner (làng Gorodovka, vùng Vinnytsia) M92, M95; A. Dovzhkov (Leningrad) M95; V. Zubarev (Arkhangelsk) M95; I. Bramovskaya (Usolye-Sibirskoye) M92; A. Zaslavsky (Kalinin) M95; G. Zlatkus (Sovetsk, vùng Kaliningrad) M92; V. Zaporozhskaya (làng Sosnitsy, vùng Chernigov) M92, M95; A. Golbere (Moscow) M92—M95; V. Korenyako (Voronezh) M92, M94, M95; A. Nikolaev (Moscow) M92—M94; V. Gritsetsich (Chortkiv, vùng Ternovol) M93, M94; T. Kislitsa (làng Sharanga, vùng Gorky) M95; S. Belchko (Dokuaevsk, vùng Donetsk) M95; Yu. Kisin (Staraya Russa) M95; R. Kosoy (Odessa) M92, M95; L. Knizhnerman (Moscow) M92; L. Lazareva (Leningrad) M92; V. Lozinov (Moscow) M93; T. Casanov (Tbilisi)
 
-Cơm. 11b.
+Hình 11b.
 
 M95; A. Gritsoryan (Baku) M93, M94; M. Illarinov (Voronezh) M92, M93, M95; A. Sboev (pss. Medvedok, vùng Kirov) M92, M93, M95; A. Kolchtsov (Gorky) M92, M95; A. Kutsukov (Baku) M92, M93, M95; A. Slinin (Lazovaya, vùng Kharkov) M94; Yu. Polonsky (Zelenodolsk) M95; V. Nadezhko (Leningrad) M95; L. Rudtser (Kharkov) M95; V. Terentyev (Pavlov, vùng Gorky) M92; G. Makarov (Zlatoust, vùng Chelyabinsk) M93, M95; V. Slepchenko (Chelyabinsk) M92, M93, M95; S. Muklytsin (Novosibirsk) M92; I. Porumchikova (Sokolniki, vùng Tula) M92; M. Rozov (Minsk) M92—M95; M. Preeer (Tomsk) M94—M95; E. Turkevich (Chernivtsi) M92—M95; P. Sereev (Grozny) M95; A. Slikin (Moscow) M92; A. Shmaev (Moscow) M92, M93, M95; A. Udaltsov (Kalinerrad, vùng Moscow) M92, M93, M95; O. Khudaverdyan (Yerevan) M93, M95; R. Shtsanov (Lyubertsy, vùng Moscow) M92, M93; G. Fi lkovsky (Baku) M92, M95; Yu. Yakushiin (Lomonosov) M92; E. Chasovnikov (làng Parygino, quận Zyryanovsky) M92; I. Yuurgel (Glubokoe BSSR) M92; S. Chekmarev (Moscow) M93; N. Famkulin (Kazan) M93, M95; A. Chernyak (Minsk) M92, M93, M95; V. Malchenko (Slavyansk-on-Kuban) M92; R. Soltsas (Vilnius) M95; P. Sukhov (Saratov) M95; A. Sherstyuk (Nikolaev) M93, M95; L. Reznik (Leningrad) M92, M95.
 
@@ -205,7 +205,7 @@ trong đó $v_{\text{O}_2}$ và $v_{\text{He}}$ là tốc độ chuyển động
 
 46
 
-Cơm. 12.
+Hình 12.
 
 công thức này tuân theo công thức đó
 

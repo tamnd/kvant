@@ -38,17 +38,17 @@ BÀI NÀY SẼ XEM XÉT một phát biểu quan trọng có thể được xây 
 
 ⟦figure⟧
 
-Cơm. 2
+Hình 2
 
 giao lộ (đường a). Mặt khác, điểm này thuộc mặt phẳng D và J vì nó nằm trên đường thẳng b. Do đó, điểm C thuộc cả ba mặt phẳng, cụ thể là giao điểm của D và E, tức là đường thẳng s. Vậy các đường thẳng a, b, c song song hoặc cắt nhau tại một điểm, đây là điều cần chứng minh. Xin lưu ý rằng bằng chứng chỉ sử dụng thực tế là hai mặt phẳng cắt nhau trên một đường thẳng. Chúng ta hãy xem xét việc áp dụng định lý đã được chứng minh. Hãy bắt đầu bằng cách xây dựng các phần. Hãy giải quyết vấn đề tiếp theo bài toán. Bài toán 1. a) Cách dựng hình tứ diện ở Hình 3 có đúng không? b) Vẽ đoạn tứ diện PABC đi qua trung điểm của các cạnh PA, PC và AB. Lời giải. a) Xét ba mặt phẳng: PAC, ABC và mặt phẳng cắt. Theo định lý ba mặt phẳng, các đường thẳng giao nhau theo cặp của chúng song song hoặc cắt nhau tại một điểm. Cần lưu ý rằng cả bản vẽ này lẫn bản vẽ khác đều không được thực hiện trong bản vẽ này. Vì vậy, việc xây dựng đã được thực hiện không chính xác. b) Gọi M, K và N là điểm giữa của các cạnh (Hình 4). Hãy xem xét ba mặt phẳng:
 
-Cơm. 1
+Hình 1
 
 DOI: https://doi.org/10.4213/kvant20231003
 
-Cơm. 3
+Hình 3
 
-Cơm. 4
+Hình 4
 
 ⟦folio 29⟧
 
@@ -58,7 +58,7 @@ Bài tập 5. Chứng minh điều này.
 
 Tuyên bố đã nêu cũng có thể được coi là một trong những trường hợp của định lý ba mặt phẳng, nếu chúng ta giả sử rằng hai mặt phẳng song song cắt nhau dọc theo một đường thẳng ở vô cực. Bây giờ chúng ta nhớ lại dấu hiệu thứ hai về tính song song của các mặt phẳng. Bài toán 5. Nếu hai đường thẳng cắt nhau của một mặt phẳng lần lượt song song với hai đường thẳng của mặt phẳng kia thì các mặt phẳng này song song. Lời giải. Chúng ta hãy ký hiệu các mặt phẳng D và E, và các đường thẳng nằm trong chúng lần lượt là a, b và a c, b c, sau đó là a P a c, b P b c. Giả sử a cắt b tại điểm O. Hãy chứng minh rằng D P E. Xét một mặt phẳng chứa a và a c, cũng như các mặt phẳng D và E. Nếu hai mặt phẳng D và E cắt nhau thì dọc theo đường thẳng c song song với a và a c (xem bài toán 2). Xét mặt phẳng đi qua các đường thẳng b và b c, ta thấy đường thẳng c cũng song song với đường thẳng b và b c, tức là hai đường thẳng đi qua điểm O song song với đường thẳng c. Sự mâu thuẫn. Bây giờ hãy xem xét phát biểu liên quan đến sự song song của một đường thẳng và một mặt phẳng. Lưu ý rằng định lý ba mặt phẳng cho phép chúng ta nghiên cứu sự song song của các mặt phẳng và sự song song của đường thẳng và mặt phẳng độc lập với nhau, tức là thứ tự học các chủ đề có thể thay đổi tùy theo mục tiêu và thị hiếu của giáo viên. Bài toán 6. Nếu một đường thẳng song song với hai mặt phẳng cắt nhau thì nó song song với đường giao nhau của chúng. Lời giải. Chúng ta hãy biểu thị các mặt phẳng bằng D và E (Hình 7), đường giao nhau của chúng là c và đường này là x. Xét một mặt phẳng J tùy ý đi qua
 
-Cơm. 7
+Hình 7
 
 TRONG
 
@@ -70,7 +70,7 @@ cắt đường thẳng x và cắt D và E. Để nó cắt các mặt phẳng 
 
 ⟦figure⟧
 
-Cơm. 8
+Hình 8
 
 nhưng các đường thẳng AB và $A_{1} B_{1}$, BC và $B_{1} C_{1}$, AC và $A_{1} C_{1}$ cắt nhau theo cặp. Chứng minh rằng đường thẳng $AA_{1}, BB_{1}$ và $CC_{1}$ cắt nhau tại một điểm hoặc song song. Lời giải. Hãy lợi dụng thực tế là hai đường thẳng giao nhau xác định một mặt phẳng. Xét ba mặt phẳng được xác định bởi các cặp đường thẳng: AB và $A_{1} B_{1}$, BC và $B_{1} C_{1}$, AC và $A_{1} C_{1}$. Sau đó, theo định lý ba mặt phẳng, các đường thẳng $AA_{1}, BB_{1}$ và $CC_{1}$ của các cặp giao điểm của chúng cắt nhau tại một điểm hoặc song song, theo yêu cầu. Lưu ý rằng chúng ta chỉ sử dụng giao điểm của các đường tại lời giải bài toán 7 để chúng tạo thành một mặt phẳng, tức là điều kiện bài toán vẫn đúng nếu bất kỳ cặp đường thẳng nào trong số này song song. Hơn nữa, những đường này giao nhau ở ba
 
@@ -88,7 +88,7 @@ Lưu ý rằng, như trong bài toán 7, chúng tôi đã sử dụng vị trí 
 
 ⟦figure⟧
 
-Cơm. 9
+Hình 9
 
 điểm: A, B, C, D, E và F (Hình 9). Được biết, các đoạn AB và DE, BC và EF, CD và FA song song thành từng cặp. Chứng minh rằng các đoạn giống nhau này là từng cặp bằng nhau. Lời giải. Xét ba mặt phẳng được xác định bởi các cặp đường thẳng song song: (ABDE), (BCEF), (CDFA). Chúng cắt nhau dọc theo các đường thẳng (BE), (CF) và (AD). Khi đó ba đường thẳng này song song hoặc cắt nhau tại một điểm. Trong trường hợp thứ nhất (nếu có thể), từ sự song song của (BE) và (AD) và sự song song của (AB) và (DE) suy ra ABED là hình bình hành, tức là AB = DE, và tương tự cho các cặp đoạn thẳng khác. Trong trường hợp thứ hai, chúng ta có một hình lục giác không gian với các cặp cạnh đối diện song song và các đường chéo chính cắt nhau tại một điểm. Khi đó, từ sự giống nhau của một số cặp tam giác, suy ra các cạnh đối diện cũng bằng nhau, tức là hệ số giống nhau không thể khác 1 (chứng minh đi!).
 
@@ -104,6 +104,6 @@ Bài toán dành cho độc lập lời giải
 
 ⟦figure⟧
 
-Cơm. 10
+Hình 10
 
 1. Mặt cắt hình chóp PABCD đi qua hai điểm A và D là hình thang có đáy AD. Xác định loại tứ giác ABCD nằm ở đáy hình chóp. 2. Ba đường thẳng vẽ trong không gian không nằm trong cùng một mặt phẳng nhưng không có hai đường thẳng nào cắt nhau. Chứng minh rằng tất cả các đường thẳng này đều đi qua một điểm

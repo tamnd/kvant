@@ -45,7 +45,7 @@ Matniki liên quan
 
 a) Hai tấm thảm giống hệt nhau (ví dụ: đai ốc trên một sợi) sẽ được treo trên một sợi chỉ căng không chặt lắm $AB$ (Hình 2). Từ chối một trong những matniks và thả ra.
 
-Cơm. 1. Hình 2.
+Hình 1. Hình 2.
 
 ⟦folio 27⟧
 
@@ -97,7 +97,7 @@ $$\begin{cases} x = a \cos \omega_1 t, \\ y = a \cos (\omega_1 t - \phi), \end{c
 
 ở đâu $\phi = (\omega_1 - \omega_2) t$. Trong hai hoặc ba thời kỳ, $\phi$ hầu như không thay đổi, nhưng qua nhiều thời kỳ nó tăng đều đặn. Đối với $\phi = 0, \frac{\pi}{2}, \pi, \frac{3\pi}{2}$, công thức (6) trùng theo thứ tự với công thức (3), (1), (4), (2).
 
-Cơm. 9.
+Hình 9.
 
 Tại $\phi = 2\pi$ vật nặng trở lại chuyển động theo đường thẳng $ED$.
 

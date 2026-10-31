@@ -26,7 +26,7 @@ translation_quality: draft
 
 M446. Một hình tròn có chiều dài 1 lăn từ bên ngoài dọc theo một hình tròn có chiều dài $\sqrt{2}$. Tại thời điểm ban đầu, điểm tiếp xúc của vòng tròn được đánh dấu bằng một vạch sơn. Khi lăn, các điểm sơn của tôi và vòng tròn bên ngoài khác được sơn bởi nước tiểu mà chúng tiếp xúc. Có bao nhiêu điểm khác nhau của vòng tròn cố định sẽ bị bẩn khi vòng tròn chuyển động quay được 100 vòng quanh vòng tròn cố định?
 
-Cơm. 1.
+Hình 1.
 
 Trước tiên chúng ta hãy tìm hiểu xem sẽ để lại bao nhiêu vết đỏ trên vòng tròn cố định $a$ (chiều dài $\sqrt{2}$) nhân với điểm màu đỏ đầu tiên $B$ của vòng tròn di động $b$ (chiều dài 1) trong $n$ vòng quay.
 
@@ -125,9 +125,9 @@ Gọi vectơ $\vec{OA}$ trong Hình 9 là tốc độ của tảng băng; vectơ
 
 Rõ ràng là với tất cả các hướng có thể có của vectơ $\vec{AB}$ ($\vec{AB'}$, $\vec{AB''}$, ...), quỹ tích hình học của các điểm $B$ ($B'$, $B''$, ...) là một hình cầu (có vị trí nằm ngang của đồng hồ - hình tròn) với tâm là điểm $A$. Các vận tốc có thể có $v$ trong một “không gian vận tốc” như vậy được mô tả tương ứng tại điểm $O$ và kết thúc tại điểm $B$ trên hình cầu (hoặc hình tròn). Cấu trúc của tảng băng thứ hai khác nhau bằng cách xoay vectơ tốc độ của tảng băng thêm $90^\circ$.
 
-Cơm. 9.
+Hình 9.
 
-Cơm. 10.
+Hình 10.
 
 ⟦folio 32⟧
 

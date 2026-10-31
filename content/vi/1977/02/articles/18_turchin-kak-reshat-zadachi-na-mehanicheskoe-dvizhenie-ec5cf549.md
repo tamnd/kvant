@@ -52,7 +52,7 @@ Hãy phân tích sự tương tác của quả bóng với Trái đất và băn
 
 ⟦folio 51⟧
 
-Cơm. 1.
+Hình 1.
 
 cùng một lúc, ba lực tác dụng lên quả bóng, tức là có nhiều lực tương tác với nó. Không thể nói về bất kỳ lực nào khác - lực đẩy, lực ném, chuyển động, quán tính, v.v., thật không may, những lực này thường được người nộp đơn chỉ ra.
 

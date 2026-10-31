@@ -41,9 +41,9 @@ $$\alpha_1 = \pi - 2\alpha, \quad \beta_1 = \pi - 2\beta, \quad \gamma_1 = \pi -
 
 (11)
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
 ⟦folio 28⟧
 
@@ -145,7 +145,7 @@ $$2^{2k-1} \leq n < 2^{2k}.$$
 
 Hãy để chúng tôi mô tả chiến lược $T^4$ cho giai đoạn thứ hai của trò chơi. Chúng ta hãy gán $n$ cho mỗi phần trong khoảng (2)
 
-Cơm. 7.
+Hình 7.
 
 ⟦folio 31⟧
 
@@ -187,7 +187,7 @@ Theo khung nút chai có chiều dài như vậy, được thể hiện như th�
 
 (Chúng ta hãy giả sử trong giây lát rằng chúng ta chỉ được phép uốn nút chai ở các đỉnh của khối lập phương và chúng ta đã tạo ra một loại khung nào đó, và nút chai bắt đầu và kết thúc
 
-Cơm. 8.
+Hình 8.
 
 tại các đỉnh của hình lập phương. Hãy đếm số cạnh trong khung này. Tất nhiên, chúng ta sẽ không tính các cạnh của hình lập phương - có 12 cạnh - mà là các cạnh được tạo thành từ các lỗ. Trong khung có đúng một đỉnh mà lỗ bắt đầu và một đỉnh mà lỗ kết thúc (các đỉnh này có thể trùng nhau). Chúng ta sẽ gọi những đỉnh này là đỉnh cuối và tất cả các đỉnh còn lại là đỉnh đi qua. Mỗi đỉnh đi qua liền kề với một số cạnh chẵn. Thật vậy, một con bọ đã đi vào đỉnh này nhất thiết phải thoát ra khỏi nó. Do đó, có ít nhất bốn xương sườn liền kề với nó. Ít nhất ba gân liền kề với đỉnh cuối. Do đó, tổng số cạnh không nhỏ hơn $\frac{6 \cdot 4 + 2 \cdot 3}{2} = 15$. Thật vậy, mỗi cạnh liền kề với hai đỉnh, vì vậy nếu một đỉnh có số $i$ liền kề với $c_i$ cạnh ($i = 1, 2, \ldots, 8$), thì $c_1 + c_2 + \ldots + c_8$ bằng hai lần số cạnh. Do đó, có ít nhất 15 gân trong khung và vì chiều dài của một gân là 10 cm nên cần có ít nhất 150 cm lỗ.
 
@@ -195,7 +195,7 @@ Bây giờ chúng ta cần chứng minh rằng nếu chúng ta uốn cong các p
 
 ⟦folio 32⟧
 
-Cơm. 9.
+Hình 9.
 
 $$\frac{a}{b+c+d} + \frac{b}{a+c+d} + \frac{c}{a+b+d} + \frac{d}{a+b+c} \geq \frac{4}{3};$$
 
@@ -255,7 +255,7 @@ Khi đề xuất những thay thế này, chúng ta phải thực hiện tập h
 
 ⟦folio 33⟧
 
-Cơm. 10.
+Hình 10.
 
 trung bình số học và hình học của hai số.
 Chúng ta phải chứng minh rằng
@@ -273,7 +273,7 @@ $$ (n-1) \left( \frac{s-b_1}{b_1} + \dots + \frac{s-b_n}{b_n} \right) \geq C_n^2
 Từ cả thứ nhất và thứ hai lời giải, có thể thấy ngay rằng các bất đẳng thức chỉ chuyển thành đẳng thức tại $b_1 = \dots = b_n$, tức là tại $a_1 = \dots = a_n$
 L. G. Limanov
 
-Cơm. 11.
+Hình 11.
 
 M183. Tìm chiều cao của một hình thang có đáy là $a$ và $b$ ($a < b$), góc giữa hai đường chéo là $90^\circ$ và góc giữa phần kéo dài của các đường bên là $-45^\circ$.
 
@@ -380,7 +380,7 @@ Coi vật là một điểm vật chất, khoảng cách của lực tác dụng
 
 *) Vì tốc độ của proton vẫn nhỏ hơn nhiều so với tốc độ ánh sáng nên khối lượng proton có thể coi là một giá trị không đổi.
 
-Cơm. 15.
+Hình 15.
 
 ⟦folio 37⟧
 
@@ -414,7 +414,7 @@ $$A (t_1 + t') \cos \alpha + kA (t_1 + t') \sin \alpha - kmg - ma,$$
 
 trong đó $a$ là gia tốc của vật.
 
-Cơm. 17.
+Hình 17.
 
 Thay thế biểu thức cho $t_1$, chúng tôi tìm thấy
 

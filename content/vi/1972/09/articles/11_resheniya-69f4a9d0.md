@@ -267,7 +267,7 @@ Từ biểu đồ thứ ba, suy ra rằng bên trong hộp có một nguồn bao
 
 ⟦folio 44⟧
 
-Cơm. 5.
+Hình 5.
 
 Mạch điện của “hộp đen” bên trong có thể như trong Hình 5. Chúng ta hãy xác định các thông số của mạch này.
 

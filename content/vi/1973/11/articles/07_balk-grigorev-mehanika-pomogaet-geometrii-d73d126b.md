@@ -64,7 +64,7 @@ $$m_1 \cdot AC = m_2 \cdot CB.$$
 
 Nếu tại điểm C chúng ta đặt khối lượng của cả hai điểm vật chất $m_1$ và $m_2$ thì điểm vật chất $(C, m_1 + m_2)$ phát sinh sẽ được gọi là trung tâm vật chất của các điểm $(A, m_1)$ và $(B, m_2)$. Trung tâm vật chất của ba điểm vật chất $(A_1, m_1), (A_2, m_2), (A_3, m_3)$ (Hình 2) được xác định như sau: đầu tiên bạn nên tìm trung tâm vật chất $(C, m_1 + m_2)$ của các điểm $(A_1, m_1)$ và $(A_2, m_2)$, sau đó - trung tâm vật chất $(Z, m_1 + m_2 + m_3)$ của các điểm $(C, m_1 + m_2)$ và $(A_3, m_3)$. Điểm Z sẽ là trọng tâm của hệ ba điểm vật chất $(A_1, m_1), (A_2, m_2), (A_3, m_3)$.
 
-Cơm. 1.
+Hình 1.
 
 ⟦folio 35⟧
 
@@ -86,9 +86,9 @@ Chúng ta hãy lưu ý ở đây một tính chất hữu ích của trọng tâ
 
 *) Có thể chứng minh rằng vị trí trọng tâm không phụ thuộc vào số điểm, nghĩa là định nghĩa của chúng ta là “đúng”.
 
-Cơm. 2.
+Hình 2.
 
-Cơm. 3.
+Hình 3.
 
 Gọi Z là trọng tâm của n điểm vật chất (A₁, m₁), (A₂, m₂), ..., (Aₙ, mₙ), nằm trên mặt phẳng cùng phía với một số đường thẳng α (Hình 4). Gọi y₁, y₂, ..., yₙ và z là khoảng cách từ điểm A₁, A₂, ..., Aₙ, Z đến đường thẳng α. Sau đó
 $$z = \frac{m_1y_1 + m_2y_2 + \cdots + m_ny_n}{m_1 + m_2 + \cdots + m_n}.$$ (1)
@@ -99,11 +99,11 @@ Momen quán tính
 
 Khái niệm “momen quán tính” được đưa ra bởi Leonhard Euler (1707–
 
-Cơm. 4.
+Hình 4.
 
 ⟦folio 36⟧
 
-Cơm. 5.
+Hình 5.
 
 1783) cách đây hơn 200 năm. Giả sử có một hệ thống gồm $n$ điểm vật chất $(A_1, m_1), (A_2, m_2), \dots, (A_n, m_n)$ và chọn một điểm khác $S$. Momen quán tính của một hệ điểm cho trước đối với điểm $S$ gọi là đại lượng
 
@@ -187,7 +187,7 @@ $$3HZ^2 = J_H - J_Z = HA^2 + HB^2 + HC^2 - \frac{1}{3}(a^2 + b^2 + c^2).$$
 
 ⟦folio 38⟧
 
-Cơm. 8.
+Hình 8.
 
 và do đó $HA' = HB' = HC' = R'$, trong đó $R'$ là bán kính của đường tròn ngoại tiếp khoảng $\triangle A'B'C'$. Bởi vì
 $$\frac{A'B'}{AB} = \frac{B'C'}{BC} = \frac{C'A'}{CA} = 2,$$
@@ -224,7 +224,7 @@ Nhiệm vụ 6. Trong một vòng tròn có bán kính $R$, đặt một bức t
 
 ⟦folio 39⟧
 
-Cơm. 9.
+Hình 9.
 
 Chúng ta đặt 1 gam khối lượng ở mỗi đỉnh của đa giác. Trọng tâm của hệ điểm vật chất đang nổi trùng với tâm O của đường tròn. Theo công thức (6) ta có
 $$\sigma = \sum_{1 \leq i < k \leq 100} A_i A_k^2 = M J_0 = (100R)^2.$$

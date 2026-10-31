@@ -72,7 +72,7 @@ Lời giải. a) Nối tâm $O$ của đường tròn ngoại tiếp với các 
 
 $$S_{ABC} = S_{AOB} + S_{BOC} + S_{COA}.$$
 
-Cơm. 1.
+Hình 1.
 
 ⟦folio 53⟧
 

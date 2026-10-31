@@ -77,7 +77,7 @@ Nếu không tính đến sự mất mát ánh sáng trong quang học và một
 
 ⟦folio 28⟧
 
-Cơm. 1.
+Hình 1.
 
 diện tích của vật lớn hơn diện tích màn hình của mắt người bao nhiêu lần và biểu thị kết quả bằng độ lớn. Do đó, một chiếc điện thoại trường học có đường kính vật thể là 60 mm so với mắt (đường kính màn hình 6 mm) sẽ chặn luồng ánh sáng nhiều hơn 100 lần, tương ứng với chênh lệch độ chiếu sáng do các ngôi sao mang lại, một sự chênh lệch tuyệt vời là 5 độ lớn. Do đó, nếu mắt thường nhìn thấy, chẳng hạn như các ngôi sao có cường độ thứ 6, thì các ngôi sao có cường độ lên tới 6 + 5 = 11 sẽ trở nên đáng chú ý trên điện thoại.
 
@@ -89,7 +89,7 @@ Tuy nhiên, cường độ 21 không phải là giới hạn cho khả năng xuy
 
 ⟦folio 30⟧
 
-Cơm. 5. Mizar và Alcor khi quan sát chúng bằng mắt thường, qua ống nhòm và kính thiên văn. Mũi tên chỉ hướng của các sọc phía bắc của thế giới ($P_N$).
+Hình 5. Mizar và Alcor khi quan sát chúng bằng mắt thường, qua ống nhòm và kính thiên văn. Mũi tên chỉ hướng của các sọc phía bắc của thế giới ($P_N$).
 
 giá trị $R = \frac{1}{\psi}$, trong đó $\psi$ là khoảng cách góc tối thiểu giữa hai đối tượng được quan sát mà tại đó chúng vẫn khác biệt riêng biệt với sự trợ giúp của một đối tượng nhất định, nghĩa là được giải quyết. Mắt như một thiết bị quang học cũng được đặc trưng bởi độ phân giải của nó. Nhiều thí nghiệm đã chứng minh rằng khoảng cách góc tối thiểu giữa hai vật mà mắt vẫn có thể phân biệt được chúng là 1-2 phút cung. Khi quan sát những ngôi sao mờ, giá trị của góc giới hạn tăng lên nhiều lần. Vì vậy, có thời gian bình thường, bạn có thể nhận thấy rằng gần Mizar - ngôi sao ở giữa trong tay của chiếc xô Ursa Major - có một ngôi sao mờ nhạt Al-
 
@@ -111,7 +111,7 @@ Khi độ phân giải sao nhị phân thực tế của kính thiên văn khôn
 
 ⟦folio 31⟧
 
-Cơm. 6. $\varepsilon_1$ và $\varepsilon_2$ Lyra khi quan sát bằng mắt thường, ống nhòm và kính thiên văn.
+Hình 6. $\varepsilon_1$ và $\varepsilon_2$ Lyra khi quan sát bằng mắt thường, ống nhòm và kính thiên văn.
 
 vì hai lý do: khiếm khuyết về quang học và bầu không khí bất ổn.
 

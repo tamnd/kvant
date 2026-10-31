@@ -56,11 +56,11 @@ Mối quan hệ giữa điện thế và hướng trong trường hợp điện 
 
 *) Vì $x$ ngẫu nhiên là đẳng thế nên khi một đơn vị điện tích chuyển động trong mặt phẳng này thì điện trường không tác dụng.
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
-Cơm. 3.
+Hình 3.
 
 $= \varphi(x_B) - \varphi(x_D)$. Hình chiếu của vectơ $\vec{BD}$ lên trục $OX$ bằng hiệu giữa tọa độ của điểm $D$ và $B$: $l = x_D - x_B$. Do đó, đối với các điểm đóng $B$ và $D$, chúng ta thu được:
 
@@ -114,7 +114,7 @@ Một quả bóng như vậy có thể được hình dung như bao gồm một 
 
 $$E = \frac{1}{4\pi\varepsilon_0} \frac{Q}{r^2}.$$
 
-Cơm. 4.
+Hình 4.
 
 ⟦folio 41⟧
 

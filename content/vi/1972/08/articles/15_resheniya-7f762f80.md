@@ -45,7 +45,7 @@ Chúng ta hãy biểu thị hình của chúng ta bằng F và S là diện tíc
 
 ⟦folio 59⟧
 
-Cơm. 2.
+Hình 2.
 
 trái với điều kiện bài toán. Tương tự, $F$ không giao nhau với $F_2$ và $F_1$ không giao nhau với $F_2$. Cả ba hình đang được xem xét đều có cùng diện tích $S$ và nằm trong hình vuông có cạnh 1,001. Do đó, bất đẳng thức $3S < 1,001^2$ đúng, do đó $S < 0,335$.
 
@@ -83,7 +83,7 @@ Bây giờ chúng ta hãy quay lại bài toán của chúng ta. Giả sử còn
 
 ⟦folio 61⟧
 
-Cơm. 4.
+Hình 4.
 
 thì sau khi sắp xếp lại tổng (1) sẽ tăng lên. Thật vậy, nếu $x_i$ và $x_{i+1}$ có thể được sắp xếp lại thì $(x_{i-1}-x_{i+2})(x_i-x_{i+1})<0$, và bất đẳng thức này có thể được viết như sau: $x_{i-1}x_i+x_{i+1}x_{i+2}<x_{i-1}x_{i+1}+x_{i+1}x_i+x_{i+2}$.
 
@@ -138,7 +138,7 @@ Do đó, người ta đã chứng minh rằng tỷ lệ $P'/P$ và $S'/S$ (tươ
 
 ⟦folio 64⟧
 
-Cơm. 9.
+Hình 9.
 
 số quan sát lẻ nhỏ hơn một thì số lượng quan sát lẻ phải lớn hơn $\left(\frac{t}{2}\right)$. Điều này có nghĩa là con ốc sên không thể bò theo con đường đang thay đổi $\left(\frac{t}{2}\right) + 1$. Đây là đáp số cho câu hỏi thứ hai bài toán. Biểu đồ (xem Hình 9) cho thấy con ốc phải di chuyển như thế nào để đạt được mức tối thiểu này.
 
@@ -154,9 +154,9 @@ Chứng minh rằng quân cờ có thể vượt qua ranh giới này bằng cá
 
 Đối với lời giải bài toán, chỉ cần chứng minh rằng đường viền bốn cạnh có chiều rộng 2 có thể bị hiệp sĩ vượt qua đối với $n=4t+1$, nhưng không thể vượt qua đối với $n \neq 4t+1$.
 
-Cơm. 10. Trường nào ở đây được kết nối bằng các đoạn màu đen với các trường mà bạn có thể lấy được từ đó bằng một nước đi của hiệp sĩ. Đường màu đỏ là đường có đầu A và B, đi qua tất cả các trường một lần. [Lưu ý rằng nếu cùng với đoạn $A_1B_1$ chúng ta bao gồm các đoạn $AA_1$ và $BB_1$ trong đường dẫn thì nó sẽ chia thành hai đường dẫn khép kín].
+Hình 10. Trường nào ở đây được kết nối bằng các đoạn màu đen với các trường mà bạn có thể lấy được từ đó bằng một nước đi của hiệp sĩ. Đường màu đỏ là đường có đầu A và B, đi qua tất cả các trường một lần. [Lưu ý rằng nếu cùng với đoạn $A_1B_1$ chúng ta bao gồm các đoạn $AA_1$ và $BB_1$ trong đường dẫn thì nó sẽ chia thành hai đường dẫn khép kín].
 
-Cơm. 12. Các khối được chèn sẽ được đánh dấu bằng màu sắc của nó.
+Hình 12. Các khối được chèn sẽ được đánh dấu bằng màu sắc của nó.
 
 cứng $A_1, A_2, \dots, A_k$, chứa m trường và
 
@@ -168,7 +168,7 @@ Bằng chứng của bổ đề được đánh giá đầy đủ. Thật vậy,
 
 ⟦folio none⟧
 
-Cơm. 13. Các ô màu là tập hợp con của $A_1$. Tất cả các ô khác là $A_2$.
+Hình 13. Các ô màu là tập hợp con của $A_1$. Tất cả các ô khác là $A_2$.
 
 3) Bổ đề không có số trường như vậy. Bổ đề đã được chứng minh.
 
@@ -206,7 +206,7 @@ Chúng ta sẽ cần bổ đề sau (chúng tôi đưa ra bằng chứng ở cu�
 
 Chúng ta lấy một trục tùy ý (đường thẳng có hướng) $l$ và một mặt phẳng $π$ vuông góc với nó. Chiếu tất cả các mặt của đa giác của chúng ta lên mặt phẳng $π$ và các vectơ tương ứng của chúng lên trục $l$. Nếu diện tích của một trong các mặt là $S$ và góc tạo bởi “bình thường ngoài” của nó với trục là $l$,
 
-Cơm. 18. a) mặt trên: $0 \leqslant α \leqslant 90°$; b) các cạnh dưới: $90° < α \leqslant 180°$.
+Hình 18. a) mặt trên: $0 \leqslant α \leqslant 90°$; b) các cạnh dưới: $90° < α \leqslant 180°$.
 
 bằng $α$ thì hình chiếu của vectơ lên ​​trục $l$ bằng (có tính đến dấu) $S \cos α$ và diện tích hình chiếu của mặt lên mặt phẳng $π$ bằng $|S \cos α|$. Chúng tôi viết ký hiệu mô hình vì góc $α$ có thể không chỉ nhọn (Hình 18a; các mặt mà chúng tôi gọi là $α \geqslant 0$ phía trên) mà còn có thể là góc tù (Hình 18b; các mặt mà chúng tôi gọi là $α < 0$ thấp hơn).
 
@@ -274,9 +274,9 @@ Lực này tỉ lệ với $x$.
 
 ⟦folio none⟧
 
-Cơm. 20.
+Hình 20.
 
-Cơm. 21.
+Hình 21.
 
 Tuy nhiên, điều này chỉ đúng cho đến khi $P$ trở thành 0, tức là ở $x \leq \frac{P_0}{\rho g} = 0,76$ m.
 
@@ -338,7 +338,7 @@ Một dây xích kim loại kín được nối bằng một sợi ren với tr�
 
 Các lực tác dụng lên sợi xích được thể hiện như hình vẽ; $T$ là lực căng chỉ, $mg$ là lực căng chỉ. Vì tâm của chồng nặng của sợi dây chuyển động dọc theo một đường tròn có bán kính $x$ nên theo định luật thứ hai của Newton, tổng hình chiếu của tất cả các lực tác dụng lên sợi dây theo phương nằm ngang phải bằng tích
 
-Cơm. 23.
+Hình 23.
 
 khối lượng của dây vào gia tốc hướng tâm của khối tâm. Đó là
 
@@ -372,7 +372,7 @@ Tốc độ này được xác định theo hướng
 
 ⟦folio 71⟧
 
-Cơm. 25.
+Hình 25.
 
 chuyển động của góc tấm γ sao cho
 

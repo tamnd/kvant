@@ -47,7 +47,7 @@ $$f \circ g) \circ h = f \circ (g \circ h).$$
 
 (Điều này đúng không chỉ với việc tự sắp xếp của một tam giác mà còn đúng với việc ánh xạ tùy ý bất kỳ tập M nào vào chính nó!) Do đó, trong “dài-
 
-Cơm. 1.
+Hình 1.
 
 Trong các tác phẩm tự kết hợp cơ bản mới, các dấu ngoặc có thể được đặt theo bất kỳ thứ tự nào, điều đó có nghĩa là chúng hoàn toàn không thể được đặt. Ví dụ,
 
@@ -57,7 +57,7 @@ Khác với phép cộng và phép nhân các số, phép tính thành phần t�
 
 ⟦folio 3⟧
 
-Cơm. 2.
+Hình 2.
 vorya, tính chất giao hoán, hay giao hoán. Vì vậy, trong trường hợp này $R \circ S \neq S \circ R$ (xem Hình 4 và 5).
 
 Hãy viết ngẫu nhiên một số thành phần “dài” của các tổ hợp tự cơ bản:
@@ -68,7 +68,7 @@ Dễ dàng chứng minh rằng có sáu sự thẳng hàng của tam giác ban �
 
 Bài toán. Hãy tưởng tượng một phép quay $120^\circ$ theo chiều kim đồng hồ như một thành phần của các thao tác tự sắp xếp cơ bản.
 
-Cơm. 3.
+Hình 3.
 Vì vậy, thành phần được viết ngẫu nhiên của chúng tôi (1) là một trong sáu thành phần tự kết hợp được liệt kê. Chính xác thì cái nào?
 
 Tất nhiên, câu hỏi này rất dễ giải quyết thuần túy về mặt hình học: tiếp tục với tam giác ban đầu lần lượt tất cả các cách tự sắp xếp đã chỉ định (đừng quên rằng ký hiệu $f \circ g$ có nghĩa là: đầu tiên $g$ khớp, sau đó là $f!$) và nhìn vào vị trí cuối cùng của tam giác.
@@ -82,8 +82,8 @@ Hơn nữa, trong bất kỳ thành phần tự kết hợp nào, bản đồ nh
 
 Vì chúng ta phải so sánh toàn bộ phép tính, vâng-
 
-Cơm. 4.
-Cơm. 5.
+Hình 4.
+Hình 5.
 
 ⟦folio 4⟧
 
@@ -129,9 +129,9 @@ $$\alpha \leftrightarrow \beta,$$
 
 (5)
 
-Cơm. 6.
+Hình 6.
 
-Cơm. 7.
+Hình 7.
 
 trong đó $\alpha$ và $\beta$ là một số từ. Quy tắc (5) có nghĩa là trong bất kỳ từ nào bạn có thể thay thế từ $\beta$ cùng với $\alpha$ và từ $\alpha$ bằng $\beta$. Các quy tắc có dạng (5) được gọi là quy tắc thay thế.
 
@@ -197,7 +197,7 @@ Phương pháp mà chúng tôi muốn đề xuất để thiết lập sự tư�
 
 $$\begin{cases} T_{ba} = T_{aab}, \\ T_{aaa} = T_\Lambda, \\ T_{bb} = T_\Lambda. \end{cases}$$
 
-Cơm. 8.
+Hình 8.
 
 ⟦folio 6⟧
 

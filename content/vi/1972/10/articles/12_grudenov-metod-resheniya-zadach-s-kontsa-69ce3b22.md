@@ -78,7 +78,7 @@ $$\frac{\frac{1}{2} + \frac{1}{3}}{1 - \frac{1}{2} \cdot \frac{1}{3}} = 1.$$
 
 Học sinh thường kết thúc với lời giải bài toán, tức là
 
-**Cơm. 1.**
+**Hình 1.**
 
 một sai lầm. Bắt đầu đảo ngược các phép biến đổi, chúng ta nhận thấy rằng từ tính hợp lệ của đẳng thức (2), nó không dẫn đến đẳng thức (1a), mà là sự phụ thuộc
 $$\beta + \gamma = 45^\circ + 180^\circ \cdot n,$$
@@ -186,7 +186,7 @@ Ví dụ 9. Trong một hạt có góc 120°, một hình vuông được nội 
 
 Lời giải. Đặt $ABCK$ là hình vuông, $\cup EF = 120^\circ$, $O$ là tâm của hình tròn (Hình 3). Hãy biểu thị
 
-Cơm. 3.
+Hình 3.
 
 $BC$ đến $2x$ và vẽ $OP \perp EF$. Sau đó $ON = \sqrt{R^2 - x^2}$, $OM = \frac{1}{2}R$, $MN = 2x$, $OM = ON - MN$.
 

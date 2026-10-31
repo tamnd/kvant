@@ -56,7 +56,7 @@ nghĩa là, nếu có 4 bước trong chiếc lá và chúng ta thay thế chún
 $$f_2(5) = \min\{(0+7,8+1,2\times(4+1+5)), (4,5+1\times1+1,2\times(1+5)), (9,4+1,2\times5), (17,4)\} = \min\{(19,8), (12,7), (15,4), (17,4)\} = 12,7.$$
 Họ nói: “Vấn đề là những người khôn ngoan sẽ trông coi kho bạc nhà nước”.
 
-Cơm. 2.
+Hình 2.
 8
 
 linh mục. - Và sau đó
@@ -122,7 +122,7 @@ Những âm thanh của sự sống hoặc trở nên đe dọa hoặc xa dần,
 
 ⟦folio 12⟧
 
-Cơm. 7. Tên của các điểm được thay thế bằng các số trong vòng tròn và các số giữa chúng hiển thị độ dài của quá trình chuyển đổi tính bằng ngày.
+Hình 7. Tên của các điểm được thay thế bằng các số trong vòng tròn và các số giữa chúng hiển thị độ dài của quá trình chuyển đổi tính bằng ngày.
 
 Đột nhiên anh chợt nhận ra: “Nhưng suy nghĩ của linh mục cũng có thể được sử dụng ở đây!”
 

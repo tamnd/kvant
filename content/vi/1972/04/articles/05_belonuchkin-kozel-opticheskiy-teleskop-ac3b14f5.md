@@ -57,11 +57,11 @@ Chúng tôi sẽ không thảo luận về ưu điểm và nhược điểm củ
 
 Vật kính của ống Kepler là một thấu kính thu tiêu cự tuyến tính ($L_1$). Thấu kính này cho trong mặt phẳng tiêu cự của nó ($F_1F_1$) ảnh thật đầu tiên của một vật ở xa, được mắt nhìn qua thị kính ($L_2$, cũng là một thấu kính hội tụ). Thị kính, đóng vai trò là tia sáng, cho hình ảnh thứ hai (tối thiểu) mà mắt nhìn được. Dễ hiểu là với đường đi của chùm tia bằng kính thiên văn, tiêu điểm phía trước của thị kính trùng với tiêu điểm phía sau của vật và do đó, chiều dài của ống $l=f_1+f_2$, trong đó
 
-Cơm. 1. a) Ống thiên văn Kepler. b) Chiếc kèn của Galileo. c) Hệ thống kính thiên văn phản xạ (gương phản xạ). Casserin, thấu kính viễn vọng là một hệ gương lõm và gương lồi.
+Hình 1. a) Ống thiên văn Kepler. b) Chiếc kèn của Galileo. c) Hệ thống kính thiên văn phản xạ (gương phản xạ). Casserin, thấu kính viễn vọng là một hệ gương lõm và gương lồi.
 
 ⟦folio 12⟧
 
-Cơm. 2.
+Hình 2.
 
 $f_1, f_2$ - tiêu cự của vật và thị kính.
 
@@ -113,11 +113,11 @@ $$E' \sim d_{3p}^2.$$
 
 Nên đặt độ phóng đại nào của kính thiên văn? Đáp số Câu hỏi này liên quan đến việc lựa chọn đúng thị kính cho một thấu kính nhất định.
 
-Cơm. 3.
+Hình 3.
 
 ⟦folio 14⟧
 
-Cơm. 4. Một chùm tia sáng trong kính thiên văn. Được mô tả ngẫu nhiên $d > d_{3p}$. Có thể thấy phần ngoại vi của đối tượng không hoạt động.
+Hình 4. Một chùm tia sáng trong kính thiên văn. Được mô tả ngẫu nhiên $d > d_{3p}$. Có thể thấy phần ngoại vi của đối tượng không hoạt động.
 
 Lưu ý rằng ống kính là bộ phận quan trọng và đắt tiền nhất của bất kỳ nhạc cụ nào; Phải mất nhiều năm làm việc cật lực để tạo ra một vật thể lớn và một kính viễn vọng thiên văn. Trên toàn thế giới, hiện chỉ có hai chục kính thiên văn tái cấu trúc có đường kính vật thể từ 25 inch trở lên (1 inch = 2,54 cm) và xấp xỉ số lượng kính viễn vọng tái cấu trúc có đường kính gương trên 40 inch. Công cụ tái cấu trúc lớn nhất thế giới, Đài thiên văn Yerkess ở Hoa Kỳ, có đường kính vật thể là 40 inch; công cụ tái cấu trúc lớn nhất hiện có có đường kính gương 200 inch (Mount Palomar, Hoa Kỳ). Liên Xô đang xây dựng một máy tái cấu trúc có đường kính gương 6 mét (khoảng 250 inch).
 
@@ -129,7 +129,7 @@ $$\gamma_{\text{норм}} = \frac{f_1}{f_2} = \frac{D}{d_{3p}}.$$
 
 Khi chọn độ phóng đại của thấu kính thiên văn, hãy lưu ý rằng đường kính của đồng tử phụ thuộc vào điều kiện quan sát: khi quan sát ban ngày, rất nhiều ánh sáng đi vào mắt và ngay lập tức thu hẹp lại ($d_{3p} \approx 3$ mm), khi quan sát ban đêm, đồng tử mở rộng ($d_{3p} \approx 6$ mm). Giá trị $\gamma_{\text{норм}}$ phải được chọn tương ứng. Thông thường, các nhà thiên văn học đặt độ phóng đại cao hơn một chút $\gamma_{\text{норм}}$. Trong trường hợp này, hình ảnh trên võng mạc có chất lượng cao hơn vì phần lớn có thể phát hiện được các biến dạng.
 
-Cơm. 5. Nhiễu xạ sóng bởi chùm tia nhỏ $\varphi \approx \frac{2\lambda}{D}$.
+Hình 5. Nhiễu xạ sóng bởi chùm tia nhỏ $\varphi \approx \frac{2\lambda}{D}$.
 
 ⟦folio 15⟧
 

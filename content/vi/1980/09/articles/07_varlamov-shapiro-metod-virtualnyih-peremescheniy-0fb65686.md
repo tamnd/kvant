@@ -92,7 +92,7 @@ $$= (fr - mg \frac{h}{2\pi}) \delta \varphi = 0,$$
 
 ⟦folio 12⟧
 
-Cơm. 3.
+Hình 3.
 
 chúng ta tìm thấy $f$ ở đâu:
 

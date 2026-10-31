@@ -138,7 +138,7 @@ nghĩa là quả bóng bắt đầu chuyển động với tốc độ 1 m/s.
 
 ⟦folio 49⟧
 
-Cơm. 3.
+Hình 3.
 
 Thay thế ở đây giá trị tương ứng cho $v_1$ và $v_2$:
 

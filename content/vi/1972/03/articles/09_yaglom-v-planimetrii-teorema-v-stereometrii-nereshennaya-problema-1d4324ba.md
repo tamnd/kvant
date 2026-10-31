@@ -41,7 +41,7 @@ Hình 3 thể hiện hình bình hành ABCD và bốn hình bình hành nhỏ h�
 
 ⟦folio 29⟧
 
-Cơm. 2.
+Hình 2.
 
 Các hình bình hành tương ứng với hình bình hành ABCD đã cho có thể bao được bởi hình bình hành ABCD. Trong thực tế, nếu cạnh AB của hình bình hành ABCD bằng c thì mọi đoạn thẳng thuộc ABCD song song với AB sẽ không vượt quá c; Do đó, khi lập hình bình hành ABCD và nhỏ hơn ABCD thì mọi đoạn thẳng song song AB sẽ nhỏ hơn c. Từ đó suy ra rằng cả hai đỉnh A và B của hình bình hành ABCD đều không thể bị bao phủ bởi (bất kỳ!) hình bình hành nào được tạo bởi ABCD hoặc nhỏ hơn nó. Vì vậy, người ta xác định rằng chúng ta sẽ phải phủ mỗi đỉnh của hình bình hành ABCD bằng một hình bình hành khác, nhỏ hơn ABCD và ABCD sẵn sàng; do đó, tổng số phần bao phủ ABCD nhỏ hơn ABCD nhỏ hơn sẽ ít nhất là 4 (theo số đỉnh ABCD). Tương tự, người ta xác định rằng tổng số tam giác bao phủ tam giác ABC, chuẩn bị cho ABC và nhỏ hơn nó, không thể nhỏ hơn 3 (vì mỗi đỉnh của ABC sẽ phải được bao phủ bởi tam giác của nó).
 
@@ -60,7 +60,7 @@ Nếu đa giác cuối cùng mà chúng ta đạt được trong quá trình bi�
 
 *) Nếu đa giác M có năm cạnh trở lên, thì điều này suy ra từ thực tế là không có đa giác lồi nào có ba cạnh song song trở lên; đối với một tứ giác không phải là hình bình hành, điều này tuân theo định nghĩa về hình bình hành.
 
-Cơm. 4.
+Hình 4.
 
 ⟦folio 31⟧
 

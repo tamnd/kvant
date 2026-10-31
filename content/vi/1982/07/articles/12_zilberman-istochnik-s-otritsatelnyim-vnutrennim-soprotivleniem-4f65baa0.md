@@ -39,11 +39,11 @@ F727. Sự phụ thuộc của điện áp vào dòng điện đối với một
 
 Hãy nối một điện trở có điện trở $R$ với nguồn. Điện áp trên nó liên hệ với dòng điện bằng một mối quan hệ đơn giản - $U_H = RI$. Trong cùng một hình minh họa sự phụ thuộc $U(I)$ của điện áp nguồn vào dòng điện chạy qua nó, ví dụ như đường thẳng $U_H = RI$. Điểm giao nhau của đồ thị $U(I)$ và đường thẳng $U_H = RI$ không bao gồm dòng điện và điện áp. Đối với nguồn thông thường, trong đó điện áp áp suất thấp hơn, dòng điện càng cao thì không có vấn đề gì phát sinh nữa - chỉ có một điểm giao nhau và kết quả xác định là rõ ràng.
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
-Cơm. 3.
+Hình 3.
 
 ⟦folio 55⟧
 
@@ -67,7 +67,7 @@ Chúng ta hãy giảm giải phóng bài toán xuống mức chuẩn hóa bài t
 
 Xác định vị trí, xây dựng một hình chữ nhật mở rộng $P$ và thực hiện các bước di chuyển cần thiết (theo bất kỳ thứ tự nào - chẳng hạn như theo chiều ngang, ở ô đầu tiên, sau đó ở ô thứ 2, v.v.).
 
-Cơm. 8.
+Hình 8.
 
 Nếu bạn cần đặt mã thông báo ngoài $P$ thì bài toán là không thể giải quyết được. Ngược lại, nếu chúng ta hoàn thành tất cả các bước di chuyển cần thiết, chúng ta sẽ nhận được lời giải (trong giới hạn $P$!).
 

@@ -69,7 +69,7 @@ Nếu điểm quan sát không nằm trên đường nối các điện tích th
 
 $$\text{Рис. 2.}$$
 
-Cơm. 3.
+Hình 3.
 
 vectơ thể tích và bán kính vẽ từ điện tích dương *) đến điểm được quan sát.
 
@@ -85,7 +85,7 @@ Nếu các điện tích là nhiều cực trên cùng một trục thì đa c�
 
 ⟦folio 5⟧
 
-Cơm. 4.
+Hình 4.
 
 theo công thức (4) phải tỉ lệ với $1/r^3$. Do đó, trong khai triển (1), chỉ cần tính đến các số hạng của tổng tối đa $x^2$ là đủ.
 
@@ -109,7 +109,7 @@ Bỏ qua những chi tiết toán học, chúng ta hãy xem xét hình ảnh cá
 
 ⟦folio 6⟧
 
-Cơm. 5.
+Hình 5.
 
 Trong hình, các vectơ này được hiển thị tại một trong các điểm trong không gian. Một hình ảnh tương tự được thể hiện trong Hình 5, b đối với bộ tứ trục. Tại mỗi điểm trong không gian, trường tổng E là kết quả của tổng của ba vectơ: hai vectơ định hướng $E_+$ của trường được tạo bởi các điện tích dương và một vectơ định hướng $E_-$ của trường được tạo bởi một điện tích âm, có độ lớn bằng tổng các điện tích dương. Sẽ thu được một bức tranh hoàn chỉnh về sự phân bố các đường sức điện trong không gian đối với một lưỡng cực và một bộ tứ nếu Hình 5 được biểu diễn xung quanh các trục đối xứng tương ứng.
 
@@ -123,7 +123,7 @@ Ví dụ về đa mol điện là các nguyên tử và phân tử. Nếu, trong
 
 ⟦folio 7⟧
 
-Cơm. 6.
+Hình 6.
 
 làm thay đổi momen lưỡng cực của phân tử. Các phân tử như vậy được gọi là không phân cực. Hình 7 cho thấy một phân tử carbon dioxide tuyến tính, CO₂, không phân cực. Hơn nữa, “sự xuất hiện” của phân tử này được gọi trên vật thể và sự phân bố lại các electron giữa các nguyên tử sẽ tạo thành một trục tứ cực từ nó (so sánh với Hình 3, 6), và điện trường do phân tử carbon dioxide tạo ra phải có dạng như trong Hình 5, 6.
 

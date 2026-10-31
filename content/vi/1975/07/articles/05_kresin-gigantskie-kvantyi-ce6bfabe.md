@@ -90,7 +90,7 @@ $$\Phi = N\Phi_0,$$
 $N$ là số nguyên ($N = 1, 2, 3, \ldots$) và $\Phi_0$ là lượng tử từ thông.
 
 ⟦figure⟧
-Cơm. 1.
+Hình 1.
 
 ⟦folio 24⟧
 
@@ -169,10 +169,10 @@ Khi xác định độ siêu lỏng, không cần lưu ý đến khả năng gel
 ⟦folio 26⟧
 
 ⟦figure⟧
-Cơm. 3.
+Hình 3.
 
 ⟦figure⟧
-Cơm. 4.
+Hình 4.
 
 ngôi nhà, một chiếc đĩa được hạ xuống chất lỏng, thực hiện các dao động xoắn (Hình 3). Độ nhớt càng cao thì độ rung của đĩa càng tắt nhanh. Đối với tất cả các chất lỏng, cả hai phương pháp đo đều cho kết quả như nhau. Tuy nhiên, có một ngoại lệ cho quy tắc này và ngoại lệ đó là HeII. Khi HeII chảy qua các mao mạch hẹp, độ nhớt bằng 0, nghĩa là phát hiện thấy hiện tượng siêu chảy. Người ta có thể mong đợi rằng các dao động của một đĩa hạ thấp xuống mức HeII sẽ không bị suy giảm. Tuy nhiên, với phương pháp xác định độ nhớt thứ hai, HeII hoạt động giống như một chất lỏng thông thường—sự dao động của đĩa bị tắt dần.
 
@@ -253,7 +253,7 @@ Tuy nhiên, sau đó người ta phát hiện ra rằng có những chất siêu
 Nếu chất siêu dẫn loại II mà dòng điện chạy qua nằm trong từ trường, thì ở một giá trị cảm ứng nhất định $B_{\mathrm{к}1}$ (giá trị này được gọi là trường tới hạn dưới), trường bắt đầu thâm nhập một phần vào độ dày của mẫu siêu dẫn. Các electron trong chất siêu dẫn, dưới tác dụng của lực Lorentz, bắt đầu chuyển động theo vòng tròn (nếu tốc độ của chúng vuông góc với đường sức). Hình ảnh hiện ra giống với hình ảnh He II đang quay: xuất hiện các xoáy trong chất siêu dẫn. Các electron siêu dẫn quay quanh trục xoáy; tốc độ quay tăng lên khi nó đến gần trục và ở một khoảng cách nào đó nó xảy ra
 
 ⟦figure⟧
-Cơm. 5.
+Hình 5.
 
 ⟦folio 29⟧
 

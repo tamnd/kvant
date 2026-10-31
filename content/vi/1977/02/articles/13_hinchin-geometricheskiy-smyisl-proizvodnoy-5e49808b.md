@@ -54,11 +54,11 @@ $$tg\alpha=\lim_{\Delta x\to 0}tg\varphi=\lim_{\Delta x\to 0}\frac{\Delta y}{\De
 
 Primula $MT$, có thể được định nghĩa thuần túy về mặt hình học là vị trí giới hạn của cát tuyến $MN$ nối điểm $M$ với một điểm khác $N$ gần vô cùng với nó, được gọi là điểm phân của đường cong đã cho tại điểm $M$. Đẳng thức (1) chứng tỏ hàm số đạo hàm $f(x)$ tại điểm $x$ bằng hệ số góc
 
-Cơm. 1.
+Hình 1.
 
 ⟦folio 36⟧
 
-Cơm. 2.
+Hình 2.
 
 nông theo đường cong tương ứng tại điểm có hoành độ $x$. Nếu, như thường lệ, chúng ta giả sử (phù hợp với cách biểu diễn trực quan của chúng ta) rằng hướng của tiếp tuyến đặc trưng cho chúng ta hướng của đường cong tại một điểm nhất định, thì chúng ta sẽ thấy ngay rằng nếu đường cong (với mức tăng $x$, tức là từ trái sang phải) tăng lên, thì đạo hàm của nó không âm, và độ dốc càng dốc thì giá trị của đạo hàm càng lớn; Có hướng, nơi đường cong (từ trái sang phải) đi xuống, đạo hàm không dương, và ở đây, giá trị hoành độ của đạo hàm càng lớn thì độ dốc càng dốc.
 
@@ -66,7 +66,7 @@ Hình ảnh hình học của đạo hàm mà chúng ta tìm được cho phép 
 
 Cuối cùng, từ quan điểm giải thích hình học của đạo hàm, thật dễ hiểu tại sao điều này lại chiếm ưu thế ở chỗ mọi hàm liên tục phải
 
-Cơm. 3.
+Hình 3.
 
 nó có đạo hàm (có lẽ ngoại trừ ở một số điểm đặc biệt): thực sự, rất khó để tưởng tượng một đường cong liên tục không có tiếp tuyến tại bất kỳ điểm nào; và ngay cả bây giờ, khi sự tồn tại của những đường cong như vậy đã được xác lập rõ ràng, chúng ta chỉ có thể tưởng tượng rất gần đúng đường đi của chúng; một đường cong như vậy ở vùng lân cận mỗi điểm của nó có vị trí gần giống với đường cong trong Hình 3 ở vùng lân cận điểm $O$. Dù vậy, những đường cong như vậy rất có ý nghĩa, và khám phá của chúng là một trong những ví dụ nổi bật nhất trong lịch sử toán học về việc trực giác đã thống trị trong nhiều thế kỷ lại có thể trở thành sai lầm như thế nào.
 

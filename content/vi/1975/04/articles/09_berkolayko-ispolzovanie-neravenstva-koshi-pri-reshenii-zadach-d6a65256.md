@@ -118,7 +118,7 @@ $$S_{наиб}=\frac{1}{2}(a+b)^2.$$
 
 ⟦folio 39⟧
 
-Cơm. 1.
+Hình 1.
 
 Nhiệm vụ 5 (NSU, 1968). Khoảng cách giữa hai đường thẳng song song là h. Đường thứ ba, song song với các dinya, nằm bên ngoài các sọc giữa chúng và cách đường xa một khoảng H. Đoạn thẳng AB được phân bố lại thành các đường thẳng và hai đầu của nó nằm trên hai đường thẳng đầu tiên.
 

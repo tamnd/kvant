@@ -45,9 +45,9 @@ Các số lẻ được mô tả ở Hy Lạp cổ đại bằng cách sử dụ
 3×(2+2)=3×2+3×2
 (1+3)×(2+4)=1×2+1×4+3×2+3×4
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
 ⟦folio 39⟧
 
@@ -67,9 +67,9 @@ Nhưng vì có số “tốt” thì cũng phải có số “xấu”. Thật "
 
 ⟦folio 40⟧
 
-Cơm. 7.
+Hình 7.
 
-Cơm. 8. Văn bản clipart của người Babylon cổ đại.
+Hình 8. Văn bản clipart của người Babylon cổ đại.
 
 Người ta nói rằng nếu tích của hai số (tất nhiên là số tự nhiên) bằng tổng kép của chúng thì đó là cặp 3 và 6 hoặc cặp 4 và 4 (tại sao?).
 
@@ -99,7 +99,7 @@ $$c^2 = \left( \frac{m+n}{2} \right)^2 \quad \text{и} \quad a^2 = \left( \frac{
 
 ⟦folio 41⟧
 
-Cơm. 9.
+Hình 9.
 
 Vì vậy, chúng tôi đã rút gọn bài toán về việc tìm đường đi Pythagore cho câu hỏi làm thế nào hình vuông $b^2$ có thể biến thành hình chữ nhật có các cạnh dài $m, n$ có ​​cùng độ chẵn lẻ ($m \neq n$). bài toán này rất dễ giải quyết. Giả sử $r \neq b$ là ước của $b^2$ (nhưng không nhất thiết phải là ước của $b$) mà $\frac{b^2}{r}$ có cùng tính chẵn lẻ với $r$. Trong trường hợp này, $r$ phải có cùng tính chẵn lẻ với $b$, mặc dù điều kiện này không đủ (tại sao?). Sau đó, một hình chữ nhật có các cạnh có độ dài $m = r$ và $n = \frac{b^2}{r}$ có thể được biến đổi thành một “gnomon dày”, đó là sự khác biệt của hình vuông
 
@@ -117,13 +117,13 @@ Trong bảng có các bộ ba $a, b, c$, chỉ khác nhau ở hoán vị của c
 
 ⟦folio 42⟧
 
-Cơm. 13.
+Hình 13.
 (điều kiện $r < 2$ chỉ được thỏa mãn bởi số tự nhiên $r=1$, một là số lẻ). Đối với tất cả $b$ khác tồn tại ít nhất một bộ ba Pythagore. Nếu $b$ là số lẻ thì chúng ta có thể lấy $r=1$; trong trường hợp này, hóa ra là $a$ và $c$, bị cạn kiệt hoàn toàn bởi một (chúng tôi đã xem xét trường hợp này ngay từ đầu). Nếu $b \neq 2$ chẵn thì chúng ta có thể lấy $r=2$; điều này tạo ra bộ ba với $c-a=2$ (tại sao?).
 
 Số tam giác
 Trong bảng clipart, tổng của $n$ số tự nhiên đầu tiên được tính: $1+2+3+\dots+n$. Những tổng như vậy bắt đầu được gọi là số tam giác, vì một tam giác có thể được hình thành từ các điểm tương ứng với các số hạng (Hình 12). Sẽ thuận tiện hơn nếu vẽ một hình trên giấy ca-rô, ví dụ như một cái thang (Hình 13): ở mỗi hàng tiếp theo của thang có nhiều hình vuông hơn hàng trước. Để tạo thành số ô trong thang (bằng số lượng yêu cầu), hãy vẽ một chiếc thang khác tương tự nhưng lật ngược nó lại; sau đó chúng tôi “xoắn” cả hai thang (Hình 14). Các răng của cầu thang được nối với nhau và bạn được một hình chữ nhật, chiều dài một cạnh là $n$, và cạnh kia là $n+1$. Trong hình chữ nhật như vậy có $n(n+1)$ ô; trên cầu thang -
 
-Cơm. 14.
+Hình 14.
 một nửa, tức là $\frac{n(n+1)}{2}$
 Như vậy,
 $$1+2+3+\dots+n=\frac{n(n+1)}{2}.$$

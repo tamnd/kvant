@@ -48,18 +48,18 @@ Nếu bạn muốn làm tròn khối lập phương một chút, bạn nhận ra
 
 Chúng ta sẽ giải khối lập phương cuối cùng - đầu tiên là lớp dưới cùng (bước đầu tiên), sau đó là lớp giữa (bước thứ ba) và cuối cùng là lớp trên cùng (bốn bước cuối cùng).
 
-Cơm. 0. Ký hiệu “Mũi tên” và “Chữ cái” cho các góc quay của gót chân (chúng ta không cần mặt sau). Ví dụ: chữ cái Ф biểu thị góc quay của mặt trước (Mặt tiền) 90° theo chiều kim đồng hồ, Ф' - góc quay 90° ngược chiều kim đồng hồ, Ф² - góc quay 180°. Trong bức ảnh này và những bức ảnh tiếp theo, các mặt không sơn của các hình khối là những mặt có màu mà chúng ta không muốn sửa trong bức tranh này.
+Hình 0. Ký hiệu “Mũi tên” và “Chữ cái” cho các góc quay của gót chân (chúng ta không cần mặt sau). Ví dụ: chữ cái Ф biểu thị góc quay của mặt trước (Mặt tiền) 90° theo chiều kim đồng hồ, Ф' - góc quay 90° ngược chiều kim đồng hồ, Ф² - góc quay 180°. Trong bức ảnh này và những bức ảnh tiếp theo, các mặt không sơn của các hình khối là những mặt có màu mà chúng ta không muốn sửa trong bức tranh này.
 
 ⟦folio 34⟧
 
-Cơm. 1. Bước đầu tiên: lắp đặt khối lập phương có chi phí thấp hơn.
+Hình 1. Bước đầu tiên: lắp đặt khối lập phương có chi phí thấp hơn.
 
 Vì vậy, hãy bắt đầu!
 Bước đầu tiên. Chữ thập dưới:
 cài đặt các khối có chi phí thấp hơn (Hình 1). Chọn một số khối cạnh có cạnh màu xanh lá cây không ở vị trí cuối cùng và bằng cách xoay mặt bên chứa nó, di chuyển nó lên mặt trên. Đặt mặt thứ hai của khối đã chọn có màu vàng; bằng cách xoay khối lập phương, tạo một mặt có hình vuông trung tâm màu vàng ở mặt trước và bằng cách xoay mặt trên, đưa khối về một trong hai vị trí ban đầu của Hình 1. Tiến hành theo hình ảnh - khối đã chọn ở vị trí mong muốn. Bằng cách lắp từng khối sườn tiếp theo, bạn không thể làm hỏng khối đã có sẵn (hãy nghĩ cách thực hiện việc này!).
 Trong tương lai, trong tất cả các bản vẽ, chúng tôi cũng sẽ mô tả cạnh trước có màu vàng (nghĩa là có viền màu vàng).
 
-Cơm. 2. Bước thứ hai: lắp đặt khối góc dưới.
+Hình 2. Bước thứ hai: lắp đặt khối góc dưới.
 
 ⟦folio 35⟧
 
@@ -71,11 +71,11 @@ NI. Nếu không còn khối góc nào có cạnh màu xanh lá cây ở lớp t
 
 Bước thứ ba. Lớp giữa: lắp các khối sườn ở giữa (Hình 3). Chọn một số khối sườn không có cạnh màu xanh nằm ở lớp trên cùng. Bằng cách xoay mặt trên, đưa khối lập phương về một trong hai vị trí ban đầu của Hình 3. Tiến hành theo hình - khối được chọn sẽ ở vị trí dưới cùng -
 
-Cơm. 4. Bước thứ tư: định hướng hai khối sườn trên cùng. (Mũi tên màu đỏ cho biết chúng được sắp xếp lại như thế nào, điều này không quan trọng đối với chúng tôi ở bước này.)
+Hình 4. Bước thứ tư: định hướng hai khối sườn trên cùng. (Mũi tên màu đỏ cho biết chúng được sắp xếp lại như thế nào, điều này không quan trọng đối với chúng tôi ở bước này.)
 
 ⟦folio 37⟧
 
-Cơm. 6. Bước thứ sáu: định hướng ba khối góc trên cùng. (Khi chọn vị trí bắt đầu của khối lập phương, các mũi tên màu đỏ sẽ được xác định.)
+Hình 6. Bước thứ sáu: định hướng ba khối góc trên cùng. (Khi chọn vị trí bắt đầu của khối lập phương, các mũi tên màu đỏ sẽ được xác định.)
 (Hình 7). Sau bước thứ sáu, tất cả các khối ở góc trên sẽ đứng đúng hoặc một trong số chúng sẽ đứng đúng và ba khối còn lại phải được sắp xếp lại theo chu kỳ, hoặc tất cả chúng sẽ đứng sai. Trong trường hợp đầu tiên, mọi thứ đều theo thứ tự - khối lập phương đã được giải. Trong trường hợp thứ hai, tùy thuộc vào việc bạn cần sắp xếp lại các hình khối “nhầm” theo chiều kim đồng hồ hay ngược chiều kim đồng hồ, hãy thực hiện một trong hai thao tác trong Hình 7 - các hình khối sẽ được đặt vào đúng vị trí của chúng. Trong trường hợp thứ ba, thực hiện thao tác tương tự như Hình 7, lấy bất kỳ mặt bên nào của hình lập phương làm mặt trước - một khối góc sẽ đứng ở bên phải
 đúng và chúng ta nhận được quy tắc trước đó*).
 Tất cả. Bạn có thể thở phào nhẹ nhõm - khối lập phương đã được giải quyết!
@@ -83,7 +83,7 @@ Tất cả. Bạn có thể thở phào nhẹ nhõm - khối lập phương đã
 Người đọc tạp chí của chúng tôi sẽ hài lòng với việc học cách giải khối lập phương bằng quả bóng. Làm thế nào chúng ta có thể quản lý mà không có nó? Tất nhiên, bạn có thể chỉ cần nhớ tất cả các thao tác cần thiết. Và chúng được chọn sao cho không quá khó khăn.
 *) Cố gắng chứng minh rằng trong mọi trường hợp bạn có thể đạt được bằng cách sử dụng thao tác Z không quá hai lần.
 
-Cơm. 7. Bước thứ bảy: sắp xếp lại ba hình khối ở góc trên cùng.
+Hình 7. Bước thứ bảy: sắp xếp lại ba hình khối ở góc trên cùng.
 Z = Ф
 Z' = Ф²
 L² F'

@@ -42,15 +42,15 @@ Các kiến ​​trúc sư Tây Âu cũng tiếp tục quan tâm đến đài p
 
 ⟦folio 26⟧
 
-Cơm. 4.
+Hình 4.
 
-Cơm. 5.
+Hình 5.
 
 Anh ấy sử dụng chai dược phẩm có hai lỗ cùng với quả bóng và chai cao su có ống thủy tinh (Hình 2). Bồn tắm phía trên được làm đặc biệt cũng không cần thiết. Nó có thể dễ dàng được thay thế bằng một chiếc bát thông thường có gắn ống cao su đúng cách. Thiết kế này cũng thú vị vì bằng cách thay đổi vị trí tương đối của các chai, bạn có thể thay đổi chiều cao của vòi phun.
 
 Điều tương tự cũng có thể đạt được nếu đặt một loại “bộ tăng áp thủy lực” vào phần cắt của ống truyền áp suất không khí từ bình B sang bình B.
 
-Cơm. 6.
+Hình 6.
 
 nia》—bình chứa chất lỏng mật độ cao (Hình 3). Hiệu ứng ở cấp độ nano có thể đạt được bằng cách sử dụng rutulium, chất này cũng gấp 13,6 lần nước. Nhưng làm việc với nó rất nguy hiểm, vì vậy tốt hơn là sử dụng dung dịch cols hoặc đường trong nước. Đường có phần được ưu tiên hơn, vì, không giống như muối, nó không tạo ra dung dịch bão hòa và cho phép bạn thu được một loại “xi-rô” có mật độ cao hơn mật độ của nước 1,5 lần.
 

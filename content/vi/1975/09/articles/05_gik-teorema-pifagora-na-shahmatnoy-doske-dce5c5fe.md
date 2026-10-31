@@ -37,7 +37,7 @@ trên bàn cờ
 Trên bàn cờ, chúng ta chia một hình vuông như Hình 1. Bàn cờ được chia thành hình vuông này và bốn hình tam giác vuông bằng nhau. Bây giờ chúng ta hãy nhìn vào Hình 2
 Trên đó chúng ta thấy bốn hình tam giác giống như trong Hình 1. Điều này có nghĩa là các hình tam giác trong các hình chung chiếm cùng một diện tích. Do đó, trong các trường hợp chung, diện tích tương tự bị chiếm bởi các phần còn lại của bàn cờ không có hình tam giác. Vì vậy, diện tích hình vuông được xây dựng trên cạnh huyền của một tam giác vuông bằng diện tích của hai hình vuông được xây dựng trên hình vuông -
 
-Cơm. 1.
+Hình 1.
 
 “Quần Pythagore đều bình đẳng ở mọi hướng”!
 

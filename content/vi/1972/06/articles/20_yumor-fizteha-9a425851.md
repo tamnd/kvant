@@ -32,7 +32,7 @@ Urazhennya
 
 1. Sáu phần tử kết nối giống hệt nhau như trong Hình 4. Xác định hiệu điện thế giữa hai phần tử
 
-Cơm. 4.
+Hình 4.
 
 điểm tùy ý của chuỗi. Khoảng cách là trường hợp khi các phần tử $N$ được kết nối theo cách tương tự.
 

@@ -34,13 +34,13 @@ Ghi chú này được viết bởi các sinh viên, cho thấy tại sao và l�
 
 Đặt $\vec{a}$ và $\vec{b}$ là các vectơ khác 0 và phi tuyến tính, $O$ là một điểm nào đó; thì tập $\Pi$ của tất cả các điểm như vậy
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
-Cơm. 3.
+Hình 3.
 
-Cơm. 4.
+Hình 4.
 
 ⟦folio 39⟧
 
@@ -56,13 +56,13 @@ Hơn nữa, chúng ta sẽ nói rằng đa giác bị xóa trong
 
 *) «Kvant», 1974, № 12, c. 30.
 
-Cơm. 5.
+Hình 5.
 
-Cơm. 6.
+Hình 6.
 
 ⟦folio 40⟧
 
-Cơm. 7.
+Hình 7.
 
 và $\{n\sqrt{3}\}$, trong đó $m > n$ là số tự nhiên. Khi đó $(m-n)\sqrt{3}$ khác với tổng thể ít hơn $\frac{1}{N}$ và do đó nhỏ hơn $\varepsilon$. Đặt $k$ bằng $m-n$, chúng tôi đạt được những gì được yêu cầu.
 
@@ -84,7 +84,7 @@ $$\text{можно, например, взять } c = \frac{1}{2\max(|\overrigh
 
 Thật vậy, hãy để $\overrightarrow{OF} = \overrightarrow{ma} + \overrightarrow{nb}$.
 
-Cơm. 8.
+Hình 8.
 
 Sau đó nếu
 

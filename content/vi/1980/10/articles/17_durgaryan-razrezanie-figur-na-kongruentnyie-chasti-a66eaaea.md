@@ -43,10 +43,10 @@ Cũng không thể cắt hình tròn và hình vuông thành hai phần bằng n
 
 (Người nói nói rằng anh ta không biết cách tìm ra bằng hình vẽ,
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
-Cơm. 3.
+Hình 3.
 
-Cơm. 4.
+Hình 4.

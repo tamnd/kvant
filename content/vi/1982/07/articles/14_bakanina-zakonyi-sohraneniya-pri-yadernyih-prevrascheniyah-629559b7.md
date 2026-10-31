@@ -44,7 +44,7 @@ Hãy cùng xem xét một vài bài toán cụ thể.
 
 Bài toán 1. Radon là khí phóng xạ alpha có khối lượng nguyên tử $A = 222$. Phần nào trong tổng năng lượng được giải phóng trong quá trình phân rã của radon được hạt α mang đi (Hình 1)?
 
-Cơm. 1.
+Hình 1.
 
 Năng lượng $\Delta E$ giải phóng trong quá trình phân rã (do khuyết tật khối lượng) được giải phóng dưới dạng động năng của sản phẩm phản ứng: hạt α ($A_a = 4$) và hạt nhân dư ($A_a = 218$). Vì độ hụt khối lượng tồn tại nhỏ hơn khối lượng của hạt nhân ban đầu nên năng lượng giải phóng nhỏ so với năng lượng nghỉ của hạt nhân và có thể sử dụng công thức phi tương đối tính (cổ điển) cho động năng. Kể từ đây,
 
@@ -66,7 +66,7 @@ Bài toán 2. Khi neutron bị hạt nhân $^6$Li bắt giữ, phản ứng hạ
 
 ⟦folio 59⟧
 
-Cơm. 2
+Hình 2
 trong đó năng lượng $\Delta E = 4,8$ MeV được giải phóng. Tìm sự phân bố năng lượng giữa các sản phẩm phản ứng (hạt nhân triti và hạt α), coi năng lượng cuối cùng của các hạt ban đầu là không đáng kể.
 
 Nhiệm vụ về cơ bản là tương tự như nhiệm vụ trước. Hãy viết các định luật bảo toàn năng lượng và động lượng:
@@ -81,7 +81,7 @@ $$E_a = \Delta E - E_T = \frac{3}{7} \Delta E \approx 2,06 \text{ МэВ}.$$
 
 Bài 3. Phản ứng tổng hợp deuterium và tritium $^2\text{D} + ^3\text{T} \rightarrow^1\text{n} + ^4\text{He}$ (Hình 3) được nghiên cứu bằng cách hướng các ion deuterium được gia tốc đến năng lượng $E_D = 2$ MeV tại bia tritium. De-
 
-Cơm. 3.
+Hình 3.
 lực kéo chống lại các neutron phát ra vuông góc với hướng của chùm deuteron. Xác định năng lượng của neutron điện trở nếu phản ứng giải phóng năng lượng $\Delta E = 17,6$ MeV.
 
 Trong trường hợp này, động lượng ban đầu của hệ khác 0, và ngoài ra, neutron và hạt α bay theo các hướng khác nhau.
@@ -91,7 +91,7 @@ Trong trường hợp này, động lượng ban đầu của hệ khác 0, và 
 $$\vec{P}_D = \vec{P}_n + \vec{P}_a.$$
 Vì $\vec{P}_n \perp \vec{P}_D$ (Hình 4), theo định lý
 
-Cơm. 4.
+Hình 4.
 Pythagoras
 $$P_a^2 = P_D^2 + P_n^2.$$
 Theo định luật bảo toàn năng lượng
@@ -103,5 +103,5 @@ Từ các phương trình này người ta tìm thấy
 $$E_n = \frac{P_n^2}{2m_n} =$$
 $$= \frac{m_a}{m_n + m_a} \left( \Delta E + \frac{m_a - m_D}{m_a} E_D \right) \approx 14,9 \text{ МэВ}.$$
 
-Cơm. 5.
+Hình 5.
 Bài 4. Phản ứng hạt nhân $^{14}\text{N} +^{4}\text{He} \rightarrow^{17}\text{O} +^{1}\text{p}$ (Hình 5) có thể xảy ra nếu hạt alpha tới hạt nhân nitơ đứng yên có năng lượng vượt quá năng lượng ngưỡng $E_n = 14,5$ MeV. Năng lượng của hạt α phải lớn hơn ngưỡng bao nhiêu để động năng hình thành trong phản ứng của proton bằng 0?

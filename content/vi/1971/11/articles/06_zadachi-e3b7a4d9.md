@@ -40,7 +40,7 @@ V. B. Alekseev
 
 M115. Có tổng số lít nước được đổ vào ba bình. Được phép đổ một cột nước vào bất kỳ bình nào, lượng nước mà nó đã chứa, từ bất kỳ bình nào khác. Chứng minh,
 
-Cơm. 1.
+Hình 1.
 một vôn kế, một nguồn dòng điện và các dây nối, liệu có thể thay đổi giá trị của một trong các điện trở mà không làm đứt một tiếp điểm nào trong mạch điện không?
 
 A. R. Zilberman

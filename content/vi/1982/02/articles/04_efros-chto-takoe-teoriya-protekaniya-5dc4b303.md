@@ -73,7 +73,7 @@ Chúng ta hãy giả sử rằng sự tương tác giữa các mô men từ củ
 
 Hãy để chúng tôi giới thiệu một số định nghĩa. Chúng ta sẽ gọi hai nguyên tử từ tính được kết nối với nhau nếu chúng đứng cạnh nhau hoặc nếu chúng được kết nối với nhau bằng một chuỗi nguyên tử từ tính nằm cạnh nhau (Hình 2, a). Một tập hợp các nguyên tử có liên quan thường được gọi là lớp
 
-Cơm. 2. Nguyên tử có từ tính được biểu thị bằng vòng tròn màu đỏ, nguyên tử không có từ tính được biểu thị bằng vòng tròn màu xanh. Các đường đứt nét là ranh giới cụm.
+Hình 2. Nguyên tử có từ tính được biểu thị bằng vòng tròn màu đỏ, nguyên tử không có từ tính được biểu thị bằng vòng tròn màu xanh. Các đường đứt nét là ranh giới cụm.
 
 (● từ tiếng Anh “cụm”, có nghĩa là “cụm”, “bàn chải”).
 
@@ -103,7 +103,7 @@ Bài toán ràng buộc trên một mạng vuông đơn giản được giải q
 
 ⟦folio 8⟧
 
-Cơm. 5.
+Hình 5.
 
 chiều bài toán được giải bằng các phương pháp gần đúng (như các phương pháp được mô tả ở phần đầu tiên) và mô phỏng trên máy tính.
 

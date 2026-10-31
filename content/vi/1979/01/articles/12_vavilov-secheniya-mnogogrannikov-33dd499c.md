@@ -47,7 +47,7 @@ Hình ảnh các đường song song 3° bằng các đường song song;
 
 *) Tham chiếu “IX, § 13” đề cập đến § 13, “Hình học 9”; “X, 73, 84” giới thiệu Bài tập 73, 84 SGK Hình học 10.
 
-Cơm. 1.
+Hình 1.
 
 ⟦folio 37⟧
 
@@ -97,9 +97,9 @@ Ngoài các nguyên lý đã học trước đây, hai định lý về mặt ph
 
 ⟦folio 40⟧
 
-Cơm. 12.
+Hình 12.
 
-Cơm. 13.
+Hình 13.
 
 $\Rightarrow (X_1X_2) \parallel (AB_1) \text{ и } \alpha \parallel (ACD) \Rightarrow (X_3X_4) \parallel (CD)$.
 

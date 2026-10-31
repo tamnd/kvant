@@ -74,7 +74,7 @@ $$E = -\frac{\mu m}{2a}.$$
 
 *) Xem bài viết của N. M. Speransky “Thế năng của các vật thể trong trường hấp dẫn” trang 20.
 
-Cơm. 1. Hình elip Keplerian. $F$—lực nhiễu loạn.
+Hình 1. Hình elip Keplerian. $F$—lực nhiễu loạn.
 
 Từ đó, rõ ràng là các đại lượng này có liên quan bởi mối quan hệ
 

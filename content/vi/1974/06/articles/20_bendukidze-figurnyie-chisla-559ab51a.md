@@ -85,7 +85,7 @@ $$K_n = n^2, \quad \Pi_n = \frac{1}{2}n(3n - 1).$$
 
 ⟦folio 55⟧
 
-Cơm. 7.
+Hình 7.
 
 trình bày nó dưới dạng tổng tương ứng (xem Hình 6 và 7) và áp dụng phương pháp “ghép nối” các số hạng mà chúng ta đã biết. Hãy tự mình thực hiện các phép tính.
 
@@ -101,6 +101,6 @@ nhưng khi nối $A$ với hai đỉnh liền kề, chúng ta không nhận đư
 
 Bằng cách vẽ các đường chéo từ đỉnh $A$, chúng ta chia $k$-giác thành các hình tam giác $k-2$ (xem Hình 9). Mỗi hình tam giác này được liên kết với số tam giác thứ $n$ $T_n$. Biết $T_n$, chúng ta có thể đếm số điểm trong một $k$-giác cho sẵn, tức là tìm công thức cho $F^{(k)}_n$. Trên thực tế, có $T_n$ điểm trong mỗi tam giác và $k-2$ tam giác. Tổng cộng - $(k-2)T_n$ điểm. Trong trường hợp này, chúng tôi đếm các điểm nằm trên các đường chéo hai lần - xét cho cùng, đường chéo là một cạnh của hai hình tam giác liền kề.
 
-Cơm. 8.
+Hình 8.
 
-Cơm. 9.
+Hình 9.

@@ -33,7 +33,7 @@ Hãy nhìn xem,” học sinh lớp sáu Styopa Moshkin thuyết phục bạn b�
 
 Piya trong màn hình được phát minh có tác dụng rất nhiều! Ví dụ: $|A_1B_1| = 2 |AB|$, $|A_1C_1| = 2 |AC|$, $|OD_1| = 2 |OD|$, v.v. Do đó, dòng $p$ được ánh xạ tới dòng $p_1$ để tất cả các khoảng cách đều được thông báo hai lần! Từ bài học hình học lớp 6, chúng ta nhớ rằng các hình đồng dạng còn được gọi là những hình ánh xạ lên nhau mà vẫn bảo toàn khoảng cách. Khi hiển thị
 
-Cơm. 1.
+Hình 1.
 
 ⟦folio 75⟧
 

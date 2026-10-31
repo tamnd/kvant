@@ -59,7 +59,7 @@ Hình 2 cho thấy các ví dụ về các ô cơ bản (để định nghĩa, k
 
 ⟦folio 6⟧
 
-Cơm. 1. Minh họa sự phụ thuộc của phạm vi của nan vào hướng ban đầu của vận tốc của nó so với trục kênh bằng ví dụ về mô hình hai chiều của mạng tinh thể. Gần quỹ đạo của bộ phận, giá trị của góc được tạo bởi tốc độ ban đầu của bộ phận với trục của kênh được biểu thị.
+Hình 1. Minh họa sự phụ thuộc của phạm vi của nan vào hướng ban đầu của vận tốc của nó so với trục kênh bằng ví dụ về mô hình hai chiều của mạng tinh thể. Gần quỹ đạo của bộ phận, giá trị của góc được tạo bởi tốc độ ban đầu của bộ phận với trục của kênh được biểu thị.
 
 Như đã đề cập, không phải tất cả các hướng trong tinh thể đều bằng nhau. Để xác minh điều này, thật thuận tiện (như thông lệ trong vật lý tinh thể) khi liên kết hệ tọa độ với ô đơn vị. Nói chung, gốc tọa độ được chọn tại một trong các đỉnh của ô và trục tọa độ hướng dọc theo các cạnh của nó, trong khi độ dài của các cạnh thường được coi là đơn vị. hướng dọc theo trục $X$ được ký hiệu là [100], dọc theo trục $Y$ là [010] và dọc theo trục $Z$ là [001]. Các mặt phẳng trùng với các cạnh của hình lập phương và vuông góc với các trục $X$, $Y$ và $Z$ được ký hiệu bằng các trục tương ứng (100), (010), (001). các hướng dọc theo đường chéo của các mặt được ký hiệu là [110], [101], [011] và các mặt phẳng tinh thể vuông góc với các hướng này được ký hiệu là (110), (101), (011). Cuối cùng, hướng của đường chéo không gian được chỉ định [111] và các mặt phẳng tinh thể vuông góc với nó được chỉ định (111).
 
@@ -85,9 +85,9 @@ Trong một thí nghiệm trong đó tinh thể silicon được sử dụng là
 
 Kết quả tương tự cũng thu được đối với một số phản ứng hạt nhân khác.
 
-Cơm. 4. Sự phụ thuộc hướng của hiệu suất phản ứng hạt nhân $^{28}Si + p \rightarrow 2^{29}P + \gamma$ khi hướng của chùm proton thay đổi gần trục [110].
+Hình 4. Sự phụ thuộc hướng của hiệu suất phản ứng hạt nhân $^{28}Si + p \rightarrow 2^{29}P + \gamma$ khi hướng của chùm proton thay đổi gần trục [110].
 
-Cơm. 5.
+Hình 5.
 
 Một hiện tượng liên quan chặt chẽ đến việc truyền kênh được gọi là hiệu ứng chặn. Thực tế là sự phát ra của các hạt tích điện từ tinh thể, do sự phân rã phóng xạ của hạt nhân trong một tinh thể, phụ thuộc rất nhiều vào góc giữa hướng vận tốc của chúng và trục của kênh tinh thể. Hơn nữa, theo hướng của trục kênh, số lượng hạt thoát ra khỏi tinh thể là tối thiểu. Điều này là do sự phân rã phóng xạ của hạt nhân xảy ra tại một nút của mạng tinh thể và chuyển động của một hạt phát ra theo hướng song song với trục kênh sẽ làm biến đổi các nguyên tử tạo thành thành của kênh.
 
@@ -123,4 +123,4 @@ Thời gian trôi qua từ thời điểm bắt giữ hạt cho đến khi hạt
 
 Nếu trong suốt thời gian tồn tại của nó, lõi quản lý để báo cáo từ nút của nó, thì hiệu ứng chặn sẽ bị suy yếu, vì trong trường hợp này, chuyển động của sản phẩm phân rã dọc theo trục tinh thể không được tự động ngăn chặn. Hình thành các bức tường của kênh. Mức độ suy yếu của sự tắc nghẽn quyết định khoảng cách mà lõi phức hợp sẽ trộn lẫn, và, khi biết sự tích tụ của nó, hiện tại vẫn chưa có sự hiểu biết đầy đủ về đặc điểm chuyển động của các hạt này trong các tinh thể đơn lẻ. Tuy nhiên, rõ ràng là một phương pháp mới, tinh tế đến kinh ngạc để nghiên cứu tinh thể đang xuất hiện trong tay các nhà vật lý. Người ta hy vọng rằng trong tương lai gần, việc phân kênh sẽ trở thành phương pháp tương tự để nghiên cứu các tinh thể như phân tích cấu trúc RENT hiện nay.
 
-Cơm. 7. Quỹ đạo của quả bóng trong máng ở các giá trị khác nhau của tốc độ ngang của nó. Các quỹ đạo 1, 2 và 3 lần lượt đề cập đến vận tốc ngang thấp nhất, gần cực đại nhất và lớn nhất của quả bóng.
+Hình 7. Quỹ đạo của quả bóng trong máng ở các giá trị khác nhau của tốc độ ngang của nó. Các quỹ đạo 1, 2 và 3 lần lượt đề cập đến vận tốc ngang thấp nhất, gần cực đại nhất và lớn nhất của quả bóng.

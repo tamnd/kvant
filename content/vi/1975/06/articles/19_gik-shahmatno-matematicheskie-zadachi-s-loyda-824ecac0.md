@@ -91,16 +91,16 @@ Bài toán 10. Nhóm có thể đến vị trí trong Hình 8 nhanh như thế n
 Bài toán 11. Cách nhanh nhất để một nhóm kết thúc pamot là gì?
 
 ⟦figure⟧
-Cơm. 8.
+Hình 8.
 
 ⟦figure⟧
-Cơm. 9.
+Hình 9.
 
 ⟦figure⟧
-Cơm. 10.
+Hình 10.
 
 ⟦figure⟧
-Cơm. 11.
+Hình 11.
 
 ⟦folio 58⟧
 
@@ -282,15 +282,15 @@ Bài toán 1. Đặt $A = A_t = (x(t), y(t))$ là một điểm trên quỹ đ�
 
 ⟦folio 63⟧
 
-Cơm. 5.
+Hình 5.
 
 chứng tỏ điểm $E, A$ và $B$ nằm trên cùng một đường thẳng. Hãy xem xét $\triangle EFA$ và $\triangle ACB$. Các cạnh $EF$ và $CB$ song song nhau, $|EF| = gt^2$, $|CB| = gt$, tức là $\frac{|EF|}{|CB|} = t$. Hơn nữa, từ cách xây dựng điểm $F$, rõ ràng là vectơ $\overrightarrow{FA}$ bằng $\overrightarrow{OA'}$, trong đó $A' = (ut, vt)$, nghĩa là các điểm $F, A$ và $C$ nằm trên cùng một đường thẳng và $\frac{|FA|}{|AC|} = t$. Kết quả là chúng ta thu được sự giống nhau của các tam giác đang xét và $\triangle EAF = \triangle CAB$, đây là điều cần phải chứng minh.
 
 Nhiệm vụ 3. Rõ ràng là chúng ta có thể chọn độ dài của vectơ $\vec{r}_1$ tùy ý; $\vec{r}_1| = |\vec{r}_2|$. Đặt $\vec{r}_2 = \vec{KE}$ (vectơ ngang), $\vec{r}_1 = \vec{KF}$ (vectơ tiếp tuyến) (Hình 5); chúng ta hãy chọn độ dài $\vec{r}_1| = |\vec{r}_2|$ sao cho đỉnh $D$ của hình thoi $EKFD$ nằm trên đường tròn bao quanh một đường tròn tùy ý (khi đó $KD$ là tiếp tuyến của xoáy thuận). Ta cần chứng minh $D$ là điểm “trên” của đường tròn, tức là đường thẳng $OD$ thẳng đứng ($OD \perp KE$). Ta có $EF \perp KD$ (là các đường chéo của hình thoi), nghĩa là $EF$ đi qua tâm $O$ (là đường vuông góc với dây cung đi qua nó
 
-cơm. 6.
+hình 6.
 
-Cơm. 7.
+Hình 7.
 
 ở giữa). Chúng ta nhận được $\triangle FDO = \triangle FKO$ (ở các cạnh đó), có nghĩa là $\overrightarrow{FDO} = \overrightarrow{FKO}$; nhưng $\overrightarrow{FKO} = 90^\circ$ (FK là tiếp tuyến của đường tròn), có nghĩa là $\overrightarrow{FDO} = 90^\circ$, và đây là điều cần phải chứng minh, vì $FD \parallel KE$.
 
@@ -302,7 +302,7 @@ Chúng ta có $u_1 = \frac{v_1}{r_1}$, $u_2 = \frac{v_2}{r_2}$—vận tốc gó
 ⟦folio 64⟧
 
 ⟦figure⟧
-Cơm. 8.
+Hình 8.
 
 liên lạc bằng không!). Đã chỉ định
 

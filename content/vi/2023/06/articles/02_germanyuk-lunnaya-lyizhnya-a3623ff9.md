@@ -36,11 +36,11 @@ CÓ THỂ NHIỀU NGƯỜI TRONG CHÚNG TÔI đã trượt tuyết, đi xe trư�
 
 ⟦figure⟧
 
-Cơm. 1
+Hình 1
 
 ⟦figure⟧
 
-Cơm. 2
+Hình 2
 
 DOI: https://doi.org/10.4213/kvant20230604
 
@@ -50,9 +50,9 @@ không trượt – điều này có thể được không? Hãy suy nghĩ về 
 
 ⟦figure⟧
 
-Cơm. 3
+Hình 3
 
-Cơm. 4
+Hình 4
 
 ⟦folio 37⟧
 
@@ -60,11 +60,11 @@ TRƯỜNG HỌC
 
 ⟦figure⟧
 
-Cơm. 5
+Hình 5
 
 ⟦figure⟧
 
-Cơm. 6
+Hình 6
 
 (Hình 5, 6) và độ cứng của các khoáng chất tạo nên nó. Các nhà khoa học Liên Xô dưới sự lãnh đạo của Viện sĩ A. Vinogradov đã phát hiện ra rằng đất mặt trăng bao gồm chủ yếu là silicon dioxide, oxit titan, nhôm, sắt, magiê và canxi. Độ cứng của đất mặt trăng gần giống với độ cứng trên mặt đất - cát bazan andesit. Tuy nhiên, phải nói rằng sự hao mòn (xóa mòn) vật liệu của các cấu trúc (xe trượt tuyết) khi trượt dọc theo lớp đất mặt trăng trên Mặt trăng sẽ diễn ra chậm hơn so với khi chúng ta trượt dọc theo lớp đất mặt trăng đó nhưng trên Trái đất. Điều này là do áp suất trên mặt đất sẽ nhỏ hơn trên Trái đất, một lần nữa do trọng lực thấp hơn. (Cái này
 
@@ -76,7 +76,7 @@ TRONG
 
 ⟦figure⟧
 
-Cơm. 7
+Hình 7
 
 có thể dễ dàng chứng minh bằng ví dụ thực tế. Nếu chúng ta mài cán rìu trên máy mài và đồng thời ấn nhẹ vào đĩa mài thì chúng ta sẽ mài cán rìu lâu hơn so với khi ấn cán rìu chặt hơn.) Thứ hai, một điểm bất tiện khác là con người trên Mặt Trăng mặc những bộ đồ vũ trụ đồ sộ, vụng về. (Hình 7). Như vậy, tổng khối lượng của bộ đồ vũ trụ dành cho các phi hành gia Apollo là hơn 90 kg. Trọng lượng của một người mặc bộ đồ du hành trên Mặt trăng nhỏ hơn 6 lần so với trên Trái đất, tuy nhiên, chưa ai hủy bỏ khối lượng và quán tính. Nếu bạn ngã, sẽ không dễ dàng để đứng dậy. Ngoài ra, trọng tâm của người mặc bộ đồ phi hành gia bị dịch chuyển so với trọng tâm của người không mặc bộ đồ phi hành gia. Kết quả là phi hành gia phải đứng hơi nghiêng so với bề mặt Mặt trăng. Tất cả những điều này khiến việc di chuyển một phi hành gia trên ván trượt gần như không thể và thậm chí còn nguy hiểm. Mặc dù nó sẽ rất thú vị để thử. Nhưng có vẻ như hoàn toàn có thể trượt xuống một số con dốc được trang bị đặc biệt trên một chiếc xe trượt được thiết kế đặc biệt, mặc dù nó cũng không an toàn. Ví dụ, thiết kế của xe trượt tuyết có thể giống như trong Hình 8. Để trượt xuống đường trượt mặt trăng (độ dốc) trên xe trượt, phi hành gia đứng đằng sau cần, giống như trên Trái đất, đẩy xe trượt khỏi vị trí của nó (cung cấp cho xe trượt tốc độ ban đầu). Đồng thời, xe trượt sẽ tăng tốc chậm hơn nhiều so với trên Trái đất, một lần nữa do khoảng cách nhỏ hơn.
 
@@ -88,13 +88,13 @@ Từ điểm C vẽ các tiếp tuyến CA và CB thành một đường tròn t
 
 ⟦figure⟧
 
-Cơm. 1
+Hình 1
 
 Sasha: Có lẽ nó không cần thiết. Hãy chứng minh rằng CH... Dima: Vuông góc với đường tâm của các đường tròn màu xanh. Hoặc tâm của các vòng tròn màu xanh cách đều đường màu xanh lá cây và nằm về một phía của nó. Sasha: Ơ, đánh dấu vào giữa... Trước tiên hãy xóa những thứ không cần thiết khỏi bức tranh. Dima: Ngoài điểm Q, ở đây còn gì không cần thiết? Sasha: Ví dụ, tại sao lại có một vòng tròn màu đỏ trong bức tranh? Dima: Để chứng tỏ rằng AO VO và các góc SAO, SVO đều đúng. Sasha: Điều này có thể được ghi nhận mà không cần có vòng tròn. Nhân tiện, ở đây không có nhiều góc vuông lắm đâu: SAO, SVO, SNO. Điều này khiến tôi nghĩ... Dima: Để xây dựng một hình tròn có đường kính bằng CO thì tốn bao nhiêu tiền? Sasha: Đồng thời xóa điểm C và tất cả các đường thẳng xuất phát từ đó (Hình 2).
 
 ⟦figure⟧
 
-Cơm. 2
+Hình 2
 
 Dima: Hãy nhớ những gì chúng ta cần trong bài toán. Cần đánh dấu tâm của các vòng tròn màu xanh $T и^{T} c$. Để xây dựng T, chúng ta cần các đường phân giác vuông góc. Sasha: Hai trong ba đường vuông góc chia đôi là đủ. Cái nào trong ba cái đó là cái kỳ quặc?
 
@@ -104,13 +104,13 @@ Dima: Đường phân giác vuông góc với DH rất hữu ích để tính kh
 
 ⟦figure⟧
 
-Cơm. 3
+Hình 3
 
 Dima: Nếu chúng ta xóa A và B, chúng ta sẽ bỏ các đường vuông góc với I ở đâu? Sasha: A và B là các điểm tùy ý trên vòng tròn màu đỏ sao cho AO OB. Dima: Điều này có nghĩa là các đường màu cam đối xứng với $OD.^{1}$ Hóa ra các đường vuông góc với chúng tạo thành các góc bằng OD. Sasha: Bây giờ hãy bình tĩnh xóa A và B cùng với các đường thẳng màu cam. Đồng thời, hãy xóa vòng tròn màu đỏ; tất cả những gì cần thiết từ nó là đẳng thức IO IH (Hình 4).
 
 ⟦figure⟧
 
-Cơm. 4
+Hình 4
 
 Dima: Bây giờ có thể nhìn thấy sự đối xứng trục. Các đường màu tím đối xứng qua đường phân giác vuông góc với OH. Chỉ cần chứng minh rằng trung điểm $P,^{P} c$ của các đoạn $HD,^{HD} c$ đối xứng với trung điểm M của đoạn OH là đủ. Sasha: Vì vậy, chúng ta xóa các đường thẳng màu tím và xanh lam, cũng như các điểm I, T, T c (Hình 5).
 
@@ -126,7 +126,7 @@ Ghi chú
 
 ⟦figure⟧
 
-Cơm. 8
+Hình 8
 
 Dima: Để xây dựng J nhanh hơn, bạn có thể thay thế tam giác $медианы^{8}$ ENF bằng tam giác $симедиану^{9}$ EBF. Khi đó điểm I, N và đường thẳng màu cam là không cần thiết (Hình 8)! Sasha: Làm thế nào để nhanh chóng xây dựng một simedian? Dima: Symedian kết hợp tốt với $окружностью^{10}$ được mô tả:
 
@@ -146,16 +146,16 @@ $JF. I_{A} F$
 
 Hay là có điều kiện gì khác? Dima: Vòng tròn màu xanh giao nhau trên màu đỏ. Bằng cách xóa chúng, chúng ta sẽ mất đi tình trạng này. Sasha: Có lẽ điều kiện này là không cần thiết? Hãy nhìn xem, từ (2) và sự bằng nhau của các góc $JEI_{C}$ và $JFI_{A}$, sự giống nhau của các tam giác $JEI_{C}$ và $JFI_{A}$ theo sau (Hình 9)!
 
-Cơm. 9
+Hình 9
 
 1. Chúng ta sẽ chứng minh sự thật đơn giản này như một bài tập. 2. Chúng tôi sẽ coi việc hoàn thành lời giải như một bài tập dành cho độc giả. 3. Bổ đề về cây đinh ba. Gọi I là tâm đường tròn nội tiếp tam giác ABC (Hình 10).
 
 ⟦figure⟧
 
-Cơm. 10 Tia CI cắt đường tròn ngoại tiếp tại điểm E. Khi đó E là tâm đường tròn ngoại tiếp tam giác ABI. 4. Nửa đường tròn nội tiếp màu xanh lá cây (Hình 11) tiếp xúc với các đoạn AB và BC và được mô tả
+Hình 10 Tia CI cắt đường tròn ngoại tiếp tại điểm E. Khi đó E là tâm đường tròn ngoại tiếp tam giác ABI. 4. Nửa đường tròn nội tiếp màu xanh lá cây (Hình 11) tiếp xúc với các đoạn AB và BC và được mô tả
 
 ⟦figure⟧
 
-Cơm. 11
+Hình 11
 
 không có vòng tròn. Một nửa đường tròn nội tiếp nằm bên trong một đường tròn ngoại tiếp. 5. Điểm N ở giữa của cung ABC, tâm của đường tròn nội tiếp I và điểm tiếp tuyến J của nửa nội tiếp và đường tròn ngoại tiếp nằm trên cùng một đường thẳng (xem Hình 11). Chứng minh sự thật này, Dima biết nhưng Sasha chưa biết, sẽ là một bài tập khó đối với độc giả. Lời giải, cũng như một số lượng lớn các sự kiện liên quan, có thể được tìm thấy trong bộ sưu tập “Toán học trong các bài toán” (Moscow, MTsNMO, 2009, do A.A. Zaslavsky và những người khác biên tập).

@@ -56,7 +56,7 @@ Các thiết bị điện Macnitoelectric chỉ được thiết kế cho dòng 
 
 Thiết bị nhạy cảm nhất của hệ thống điện từ là điện kế gương. Trong đó, dựa vào sự can thiệp của mũi tên, một chiếc gương phẳng nhỏ được cố định. Một chùm ánh sáng hẹp phát ra từ bóng đèn
 
-Cơm. 1.
+Hình 1.
 
 ⟦folio 40⟧
 
@@ -80,7 +80,7 @@ Chúng ta hãy tìm xem dòng điện $I$ tương ứng với độ lệch của
 
 $$I = \frac{k\alpha}{|\vec{B}|NS} = \frac{M_0\alpha}{\alpha_0} \frac{l}{2L} \frac{1}{|\vec{B}|NS} \approx 2,4 \cdot 10^{-7} \text{ A}.$$
 
-Cơm. 2.
+Hình 2.
 
 Điện trở của cuộn dây khung là
 
@@ -176,9 +176,9 @@ $$U_{\text{пр}} = I_{\text{пр}} R_\Gamma = 250 \text{ мВ}.$$
 Để sử dụng điện kế này để đo điện áp đến giá trị $U$, một điện trở bổ sung $R_\Delta$ phải được mắc nối tiếp với điện kế. Điện áp $U_\Delta$ chạy qua nó bằng hiệu điện áp trong mạch và trên điện kế, dòng điện chạy qua điện kế và điện trở bổ sung là như nhau. Đó là lý do tại sao
 $$\frac{U_\Delta}{U_\Gamma} = \frac{R_\Delta}{R_\Gamma},$$
 
-Cơm. 5. Hình 6.
+Hình 5. Hình 6.
 
-Cơm. 7.
+Hình 7.
 
 Ở đâu
 $$R_\Delta = R_\Gamma \frac{U_\Delta}{U_\Gamma} = R_\Gamma \left( \frac{U}{U_\Gamma} - 1 \right) \approx 40 \text{ кОм}.$$

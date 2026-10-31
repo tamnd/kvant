@@ -39,11 +39,11 @@ Bài toán 1. Từ một điểm P nằm bên trong một đa giác lồi, các 
 
 Lời giải. Đầu tiên chúng ta lấy tam giác ABC làm đa giác lồi ban đầu. Nếu nó là cấp tính thì tất cả các hình chiếu của bất kỳ điểm bên trong nào của nó đều là cay. Cho ΔABC là kiểu chữ. Trong trường hợp này, thật dễ dàng chọn một điểm P bên trong nó sẽ có hai hình chiếu cay (Hình 1). Bây giờ không khó để dựng một tứ giác lồi và một điểm nằm trên đường viền của nó sao cho điểm này chỉ có một điểm ẩn
 
-Cơm. 1.
+Hình 1.
 
 ⟦folio 6⟧
 
-Cơm. 4.
+Hình 4.
 
 Nhiệm vụ 4a. Có thể sắp xếp hai khối trung diện đều chấn động trong không gian, sao cho khi chúng được chiếu ngược lên một mặt phẳng nào đó - một và giống nhau - thì hình chiếu của một khối trung diện đều nằm hoàn toàn (bao gồm cả ranh giới của nó) bên trong hình chiếu của khối trung diện kia?
 
@@ -51,7 +51,7 @@ Lời giải e. Chúng ta hãy định vị khối trung diện $T'$ sao cho m�
 
 Bây giờ chúng ta hãy di chuyển khối trung diện $T$ sao cho hình chiếu của cạnh $AB$ ngắn hơn đoạn $A'B'$. Để thực hiện việc này, hãy đánh dấu điểm giữa $F$ và $K$ của các cạnh $AB$ và $CD$ và thước đo bề mặt $T$ ở một góc nhỏ xung quanh đường thẳng $FK$. Sau chuyển động như vậy, hình chiếu của khối đa diện $T$ lên mặt phẳng $\alpha$ sẽ trở thành hình thang
 
-Cơm. 5.
+Hình 5.
 
 $A_2B_2C_2D_2$ (Hình 6). Nếu góc quay đủ nhỏ thì hình thang này sẽ nằm trong tam giác $A'B'C'$, có cạnh $A_2B_2$ nằm trên đường biên của tam giác này.
 
@@ -65,7 +65,7 @@ Chúng ta thấy rằng các khối trung diện $T$ và $T'$ có thể được
 
 ⟦folio 7⟧
 
-Cơm. 6.
+Hình 6.
 Khó khăn thực sự là trước tiên phải đoán đúng đáp số; Đây là lý do tại sao phương pháp chuyển động nhỏ có thể hữu ích: trước tiên hãy lấy một số hình từ một tập hợp nhất định và cố gắng tinh chỉnh nó bằng một chuyển động nhỏ. Nếu điều này không thành công thì có thể hợp lý rằng hình đã chọn là hình mong muốn (tất nhiên điều này phải kèm theo một chứng minh chặt chẽ).
 
 Bài 5. Bên trong điểm P nhỏ hơn điểm khai triển cho trước điểm P. Hãy chỉ ra cách dựng đường thẳng đi qua điểm P và cắt một tam giác có chu vi nhỏ nhất từ ​​điểm C ra khỏi điểm C.
@@ -77,7 +77,7 @@ Ponsk lời giải. Chúng ta hãy vẽ một đường thẳng A'B' tùy ý đi
 + |B'N| = |CM| + |CN|.
 Chúng ta sẽ đưa đường tròn tiếp tuyến Γ đến gần đỉnh C hơn, giảm bán kính của nó. Trong trường hợp này, các đoạn CM, CN sẽ giảm và do đó chu vi 2p = |CM| + |CN| tam giác A'CB'. Nếu điểm P nằm trong đường tròn Γ không thì chúng ta có thể di chuyển điểm này
 
-Cơm. 7.
+Hình 7.
 một đường tròn sao cho tâm của nó hơi gần đỉnh C hơn một chút, nhưng sao cho điểm P vẫn nằm trong không phải đường tròn Γ; trong trường hợp này chu vi tam giác A'CB' sẽ giảm đi.
 
 Khả năng như vậy - có được cùng với tam giác này bởi một tam giác khác có chu vi nhỏ hơn - sẽ biến mất ngay khi điểm P không nằm trong đường tròn Γ mà nằm trên đường tròn này. Do đó, sẽ có tam giác có chu vi nhỏ nhất khi đường thẳng A'B' tiếp xúc với đường tròn đi qua điểm P và tiếp xúc với các cạnh của góc C.
@@ -88,7 +88,7 @@ Hãy chứng minh tam giác ABC là tam giác cần tìm. Trên thực tế, n�
 
 ⟦folio 8⟧
 
-Cơm. 8.
+Hình 8.
 
 [A*B*] là bất kỳ đoạn thẳng nào (khác với [AB]) có hai đầu ở hai cạnh của góc, đi qua điểm P (Hình 9), khi đó đường thẳng A*B* không tiếp xúc với đường tròn γ, tức là cắt đường tròn này tại hai điểm P và Q. Do đó, đường tròn ngoài Γ* của tam giác A*B*C thu được từ γ sẵn sàng với hệ số lớn hơn và nhỏ hơn. Nhưng sau đó rõ ràng là |CM*| + |CN*| > |CM| + |CN| (Hình 9), tức là chu vi của tam giác A*B*C lớn hơn và nhỏ hơn chu vi của tam giác ABC.
 
@@ -100,7 +100,7 @@ Lời giải e. Hãy thử xây dựng một tourer thỏa mãn điều kiện �
 
 I. Alik hẳn là người thua cuộc hoàn toàn.
 
-Cơm. 9.
+Hình 9.
 
 II. Borya nên có nhiều tiền thắng nhất.
 

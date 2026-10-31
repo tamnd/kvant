@@ -70,7 +70,7 @@ Vì vậy, qua mỗi điểm của parabol phân biệt đi qua
 
 ⟦folio 23⟧
 
-Cơm. 1.
+Hình 1.
 
 chính xác một đường gốc (tiếp tuyến với parabol). Không một đường gốc nào đi qua các điểm của vùng màu xanh lam. Điều này phù hợp với thực tế là từ “bên trong” của một parabol, không thể kiểm tra được một tiếp tuyến duy nhất của nó. Cuối cùng, vì mỗi điểm trong vùng màu hồng tương ứng với một phương trình có hai nghiệm thực khác nhau nên có thể kiểm tra hai nghiệm nghiệm khác nhau thông qua mỗi điểm. Điều này cũng phù hợp với thực tế là thông qua một điểm nằm ở “mặt ngoài” của parabol, người ta có thể kiểm tra hai tiếp tuyến thần kinh.
 
@@ -104,7 +104,7 @@ bài toán tiếp theo dành cho nghiên cứu độc lập.
 
 ⟦folio 24⟧
 
-Cơm. 2.
+Hình 2.
 
 của họ này, chúng tôi đặt điểm $(p; q) \in \pi$ tương ứng.
 
@@ -159,7 +159,7 @@ Bây giờ chúng ta hãy xem xét họ các tam thức bậc ba x $\{x^3+px+q\}
 
 Chúng ta hãy tìm ra những điểm nào của mặt phẳng pha tương ứng với các tam thức bậc ba có nghiệm trùng nhau.
 
-Cơm. 3.
+Hình 3.
 
 ⟦folio 26⟧
 
@@ -183,9 +183,9 @@ Vị trí tương đối của đường cong (4) và đường thẳng (5) trê
 
 Để trả lời những câu hỏi này, hãy lưu ý rằng vì không có số hạng nào có $x^2$ trong các phương trình $x^3+px+q=0$, nên tổng các nghiệm của nó $x_1, x_2$ và $x_3$ bằng 0: $x_1+x_2+x_3=0$ (chứng minh điều này). Điểm giao nhau $(p; q)$ của đường cong (4) với đường thẳng (5) tương ứng với tam thức bậc ba $x^3+px+q$, mà $a$ có nghiệm bội hoặc không có nghiệm. Trong trường hợp đầu tiên, $x_1=x_2=a$ và $x_3=-2a$. Trong trường hợp thứ hai, $x_1=a$ và $x_2=x_3=-\frac{a}{2}$. Điều này có nghĩa là đường cong (4) và đường thẳng (5) có hai điểm chung $(p_1; q_1)$ và $(p_2; q_2)$: một trong số chúng tương ứng với tam thức $x^3+p_1x+q_1=(x-a)^2 \times (x+2a)$, điểm còn lại tương ứng với tam thức $x^3+p_2x+q_2=\left(x+\frac{a}{2}\right)^2(x-a)$. Hai điểm này trùng nhau khi và chỉ khi $a=0$.
 
-Cơm. 4.
+Hình 4.
 
-Cơm. 5.
+Hình 5.
 
 Bây giờ chúng ta hãy tìm giao điểm của đường thẳng (5) và đường cong (4) hoàn toàn bằng đại số. Để làm điều này, từ (5) chúng ta biểu thị $q$ theo $p$ và thay thế nó thành (4). Ta đã thu được phương trình bậc ba để xác định $p$
 $$\left(\frac{p}{3}\right)^3+\left(\frac{a^3+pa}{2}\right)^2=0.$$
@@ -200,7 +200,7 @@ Nghiệm bội của phương trình (6) tương ứng với sự “trùng hợ
 
 ⟦folio 27⟧
 
-Cơm. 6.
+Hình 6.
 
 Thực hiện tất cả các lập luận theo thứ tự ngược lại, chúng ta thu được rằng mọi tiếp tuyến của phân biệt của đường cong là một đường gốc.
 

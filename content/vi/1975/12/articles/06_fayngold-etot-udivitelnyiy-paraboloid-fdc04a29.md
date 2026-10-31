@@ -35,10 +35,10 @@ Gương parabol là một parabol có bề mặt bên trong phản chiếu rõ r
 
 *) Trên thực tế, định nghĩa “chính xác” đối với nguồn như vậy chỉ phù hợp một phần - theo nghĩa kích thước nhỏ. Chúng ta sẽ nói thêm về nguồn này khác với nguồn chính xác như thế nào.
 
-Cơm. 1.
+Hình 1.
 
 ⟦figure⟧
-Cơm. 2. a) Hình ảnh phân bố cường độ trong mặt cắt ngang của chùm tia ló ra. b) Đồ thị thay đổi cường độ theo khoảng cách tới trục chùm tia.
+Hình 2. a) Hình ảnh phân bố cường độ trong mặt cắt ngang của chùm tia ló ra. b) Đồ thị thay đổi cường độ theo khoảng cách tới trục chùm tia.
 
 những điều trong Hình 2. Nó minh họa kết quả của thí nghiệm đơn giản sau đây. Một tấm ảnh được lắp đặt trên trục đối xứng của gương vuông góc với nó. Bề mặt nhạy cảm với ánh sáng của nó hướng vào “bên trong” hình paraboloid. Gương được chiếu sáng bởi một chùm ánh sáng song song với trục đối xứng và sự phân bố năng lượng trong tiết diện của chùm tia tới là đồng đều, nghĩa là thông qua một đơn vị diện tích vuông góc với chùm tia truyền, cùng một lượng năng lượng truyền đến bất kỳ nơi nào trong cùng một thời điểm. Điều này có nghĩa là ánh sáng tới sẽ chiếu sáng tấm ảnh một cách đồng đều. Nhưng đối với cảm quang
 
@@ -53,13 +53,13 @@ Vì vậy, chúng ta đi đến kết luận: một paraboloid có thể tập t
 Không khó để định lượng hiệu ứng này. Chúng ta hãy xem xét một hình parabol, sự quay của nó quanh trục $OZ$ tạo ra bề mặt của một hình parabol. Nếu gốc tọa độ là tiêu điểm thì phương trình
 
 ⟦figure⟧
-Cơm. 3.
+Hình 3.
 
 ⟦folio 25⟧
 
 ⟦folio 26⟧
 
-Cơm. 4.
+Hình 4.
 
 Parabol có dạng
 $$z = \frac{r^2}{4f} - f,$$

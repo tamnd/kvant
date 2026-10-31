@@ -57,13 +57,13 @@ lớp 8
 
 3. Ở cuối một đế có chiều dài $L$ và khối lượng $M$ có một khối khối lượng ngắn $m$ (Hình 1). Tấm ván có thể trượt không ma sát trên mặt phẳng nằm ngang. Hệ số ma sát trượt của khối trên bề mặt đế là $\mu$. Phải đẩy tốc độ $v_0$ vào đế bằng bao nhiêu để nó trượt ra khỏi dưới khối? (5 điểm.)
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
 4. Một vòng đệm mỏng đồng nhất nằm trên một bề mặt gồ ghề nằm ngang chịu chuyển động quay với vận tốc góc $\omega_0$ và chuyển động tịnh tiến với vận tốc $v_0$ (Hình 2). Tâm của quả bóng đi theo quỹ đạo nào? Trong trường hợp nào quả bóng sẽ di chuyển một quãng đường dài hơn để dừng lại: ở $\omega_0 = 0$ hoặc ở $\omega_0 \neq 0$ ($v_0$ giống nhau trong cả hai trường hợp)? (8 điểm.)
 
-Cơm. 3.
+Hình 3.
 
 5. Để kết nối đèn với mạng có hướng lớn hơn hướng mà đèn được thiết kế, bạn có thể sử dụng một trong các sơ đồ a) hoặc b) (Hình 3). Mạch điện nào sau đây có hiệu suất cao hơn nếu mỗi đèn được thắp sáng ở chế độ bình thường? (4 điểm.)
 
@@ -103,7 +103,7 @@ Học sinh lớp 9 làm tốt nhất nhiệm vụ 1. Đây là lời giải
 
 *) Chúng tôi trình bày ở đây lời giải những bài toán không có trong “Bài toán Kvant”.
 
-Cơm. 6.
+Hình 6.
 
 5. Hai cuộn dây được quấn trên lõi ferit hình xuyến có tính thấm từ $\mu = 2000$: một cuộn sơ cấp có $n_1 = 2000$ vòng và một cuộn thứ cấp có $n_2 = 4000$ vòng. Khi tác dụng hướng $U_1 = 100,0\sigma$ vào cuộn sơ cấp, cuộn thứ cấp đã mở, nếu lõi được thay bằng lõi có cùng kích thước nhưng làm bằng ferrite với $\mu' = 20$. Bỏ qua sự rò rỉ từ thông và tổn hao lõi. (8 điểm.)
 
@@ -151,9 +151,9 @@ Cấm lấy súng ra khỏi bàn và thay đổi mặt phẳng của mũi tên. 
 
 ⟦folio 56⟧
 
-Cơm. 11.
+Hình 11.
 
-Cơm. 12.
+Hình 12.
 
 nhưng hãy bắn và độ cao của mục tiêu so với mặt sàn. Bạn phải tính toán vị trí nằm ngang của mục tiêu và đặt mục tiêu vào đúng vị trí. Sau đó, trước sự chứng kiến ​​​​của thành viên ban giám khảo, một phát súng duy nhất sẽ được bắn vào mục tiêu.
 

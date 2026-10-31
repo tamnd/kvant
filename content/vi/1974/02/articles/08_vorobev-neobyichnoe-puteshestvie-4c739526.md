@@ -29,7 +29,7 @@ Vì lý do nào đó mà mọi người đều cho rằng lực hấp dẫn khô
 
 Tất nhiên, nó không tạo ra bất kỳ sự suy yếu nào của lực hấp dẫn. Vấn đề là giá trị tương đương của lực hấp dẫn tác dụng lên các hạt cấu tạo nên vật thể không bằng tổng số học của các lực này. Một vật có khối lượng $m$ trong trường hấp dẫn chỉ có thể được coi là một điểm vật chất có cùng khối lượng nếu nó đồng nhất và hình cầu. Khi đó lực tác dụng lên một điểm vật chất đặt ở tâm của quả bóng đó bằng lực tác dụng lên vật. Tuy nhiên, khi nghiên cứu chuyển động của một vật trong trường hấp dẫn, người ta thường xét các lực tác dụng lên một điểm vật chất. Điều này có thể được thực hiện
 
-Cơm. 1.
+Hình 1.
 
 ⟦folio 23⟧
 
@@ -46,9 +46,9 @@ Hãy để con tàu của chúng ta di chuyển theo quỹ đạo với những 
 
 *) Perigee là một điểm trên quỹ đạo gần Trái đất. Apogee là điểm xa nhất trên quỹ đạo so với Trái đất.
 
-Cơm. 2.
+Hình 2.
 
-Cơm. 3.
+Hình 3.
 
 ⟦folio 25⟧
 

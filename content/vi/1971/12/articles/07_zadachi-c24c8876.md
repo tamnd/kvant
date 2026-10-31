@@ -31,7 +31,7 @@ a) chu vi không nhỏ hơn một nửa chu vi $M$ ($n \geqslant 3$);
 6) diện tích ít nhất bằng một nửa diện tích $M$ ($n \geqslant 4$).
 G. A. Galperin
 
-Cơm. 1.
+Hình 1.
 
 M117. Một số người quan sát con ốc trong $t$ phút. Mỗi con được quan sát trong khoảng 1 phút và sau đó, trong phút này, con ốc sên bò được khoảng 1 mét. Không có lúc nào con ốc không được quan sát. Cô ấy có thể bò theo con đường nào trong $t$ phút này?
 
@@ -64,7 +64,7 @@ S. A. Yanovskaya
 
 ⟦folio 32⟧
 
-Cơm. 2.
+Hình 2.
 
 F128. Một thanh mỏng đồng nhất được phân loại sao cho nó nằm trên hai mặt phẳng nghiêng với đường chân trời một góc α và β; góc giữa các mặt phẳng là 90° (Hình 2). Điều gì sẽ xảy ra với cây đũa phép? Vị trí cuối cùng của nó sẽ là bao nhiêu nếu ma sát giữa thanh và các mặt phẳng là rất nhỏ?
 
@@ -84,7 +84,7 @@ F131. Một ống thủy tinh nhẹ có chiều dài l và mặt cắt ngang s, 
 
 F132. Một hình trụ có khối lượng m được thả lỏng và đặt giữa hai mặt phẳng kín đặt hợp với nhau một góc 2α (Hình 3). Biết rằng hệ số ma sát giữa hình trụ và các mặt phẳng bằng k, hãy xác định các lực mà hình trụ tác dụng lên tường.
 
-Cơm. 3.
+Hình 3.
 
 ⟦folio 34⟧
 
@@ -132,7 +132,7 @@ Với mỗi người, $X$ sẽ được ký hiệu là $m_X$ số người quen 
 
 Hãy làm quen với $A$ và $B$ (Hình 1). Chúng ta hãy biểu thị bằng $M_A$ tập hợp những người quen $A, M_B$ - tập hợp.
 
-Cơm. 1.
+Hình 1.
 
 Sự tàn ác của người quen $B$. Hãy chứng minh điều đó
 
@@ -156,7 +156,7 @@ Thật thú vị khi tìm hiểu xem $n$ những công ty như vậy thực sự
 
 ⟦folio 37⟧
 
-Cơm. 6.
+Hình 6.
 
 Sự bổ sung như vậy đáp số của O. Zaumyslov (Zelenograd, vùng Moscow), A. Zeleny (Izmanl, vùng Odessa), V. Rozhkin (Perm), N. Fedin (Omsk), A. Demidov (Moscow), A. Zhukov (Kirovsk, quận Khariz, vùng Donetsk), V. Kovtun (Kyiv), A. Vorobyov (Torzhok, vùng Kalinin).
 
@@ -172,7 +172,7 @@ $$pV = \frac{m}{\mu}RT_1 \quad \text{and} \quad pV = \frac{m}{\mu}RT_2$$
 
 Tất cả các điểm khác trong chu kỳ có thể được xác định.
 
-Cơm. 7.
+Hình 7.
 
 Chỉ xem khi chúng tôi chỉ định một trong các điểm - B hoặc A.
 
@@ -204,7 +204,7 @@ Sóng phát sinh trên mặt nước bởi một nguồn đứng yên; trông gi
 
 ⟦folio 38⟧
 
-Cơm. 8.
+Hình 8.
 
 có thể vượt qua nguồn và sóng sẽ truyền đi trong góc tạo bởi hai tia phát ra từ nguồn (Hình 8, c). Góc có thể dễ dàng tìm thấy từ hình. Trong thời gian nguồn truyền đi quãng đường AO, mặt trước của sóng phát ra tại điểm A truyền đi quãng đường AB và $\frac{AB}{AO} = \frac{v}{u}$. Đó là lý do tại sao
 
@@ -222,7 +222,7 @@ Hãy xem xét một phần tử chất lỏng có khối lượng Δm (Hình 9).
 
 Những cân nhắc này không phụ thuộc vào vị trí chính xác của phần tử chất lỏng được chọn. Hãy chọn
 
-Cơm. 9.
+Hình 9.
 
  nó trên bề mặt. Khi đó, rõ ràng là nó ở trạng thái cân bằng so với bình và nước chỉ nếu bề mặt chất lỏng vuông góc với lực N: nếu không thì thành phần lực N, song song với bề mặt chất lỏng, sẽ làm cho phần tử chất lỏng mà chúng ta đã xác định chuyển động dọc theo bề mặt. Vì vậy, bề mặt chất lỏng trong một bình chuyển động nghiêng so với đường chân trời một góc α = arctan $\frac{a}{g}$.
 

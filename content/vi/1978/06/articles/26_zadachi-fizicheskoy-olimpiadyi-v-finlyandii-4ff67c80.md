@@ -41,17 +41,17 @@ d) $(880 \pm 90)$ J/(kg K)?
 
 3. Các tụ điện $C_1$ và $C_2$ được mắc nối tiếp (Hình 3). Tụ điện $C_3$ được nối giữa các điểm $B$ và $D$, trong khi hướng giữa các điểm $A$ và $D$ không thay đổi. Tất cả các tụ điện đều có điện dung như nhau. Khi nối tụ $C_3$: a) điện tích trên tụ $C_1$ tăng; b) lực căng giữa các điểm $A$ và $B$ tăng; b) điện tích trên tụ $C_2$ tăng; d) năng lượng của tụ $C_2$ giảm.
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
-Cơm. 3.
+Hình 3.
 
-Cơm. 4.
+Hình 4.
 
-Cơm. 5.
+Hình 5.
 
-Cơm. 6.
+Hình 6.
 
 ⟦folio 85⟧
 
@@ -131,4 +131,4 @@ $a = e$
 $a > e$
 1
 
-Cơm. 1.
+Hình 1.

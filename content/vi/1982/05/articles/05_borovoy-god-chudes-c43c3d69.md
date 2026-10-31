@@ -93,9 +93,9 @@ Và thế là cả hai người thí nghiệm đều nhìn qua kính hiển vi. 
 
 *) Năng lượng của proton nhỏ hơn nhiều so với năng lượng được giải phóng trong quá trình này và chuyển thành động năng của hạt α.
 
-Cơm. 4.
+Hình 4.
 
-Cơm. 5.
+Hình 5.
 
 Tìm hiểu thêm một chút về máy gia tốc
 

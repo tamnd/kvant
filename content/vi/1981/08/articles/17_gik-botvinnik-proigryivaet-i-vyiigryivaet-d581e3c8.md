@@ -94,7 +94,7 @@ và số bảy phải được đặt trước số chín tối đa có thể. �
 
 15. Đối với lời giải chúng tôi sử dụng danh tính $n^4 + 4 = ((n-1)^2 + 1) \cdot ((n+1)^2 + 1)$
 
-Cơm. 4.
+Hình 4.
 
 chúng tôi nhận được
 
@@ -128,13 +128,13 @@ Chiều cao - đa dạng - kim tước (thân) - cáp.
 Cleaver - hề - dốc - mặt dây chuyền.
 Tác giả - thứ hai (giọng thứ hai trong phần âm nhạc) - thuốc sắc - nôn - sản phẩm - tavro.
 
-Cơm. 5.
+Hình 5.
 
-Cơm. 6.
+Hình 6.
 
-Cơm. 7
+Hình 7
 
-Cơm. 8.
+Hình 8.
 
 «Kvant» cho học sinh nhỏ
 (xem «Kvant» số 6)
@@ -142,7 +142,7 @@ Cơm. 8.
 1. 7 sáng tác. Cách dễ nhất để xác minh điều này là vẽ sơ đồ chuyển động của đoàn tàu bằng hệ tọa độ thời gian-khoảng cách. Điều thú vị là sự chênh lệch múi giờ giữa Moscow và Frunze không quan trọng.
 2. Xem Hình 9.
 
-Cơm. 9.
+Hình 9.
 
 3. Gọi $a_1, a_2, \dots, a_{21}$ là các số được ghi trên đĩa đầu tiên. Hãy quay đĩa thứ hai 21 lần với các góc 2π/21, 4π/21, ..., 40π/21, 2π. Vì tổng các số nhìn thấy qua cửa sổ gót chân ở mỗi lượt bằng 0 nên tổng của tất cả các tổng như vậy (tổng cộng có 21 - một từ mỗi lượt) cũng bằng 0. Nhưng trong “tổng” này, mỗi số được ghi trên đĩa đầu tiên xuất hiện đúng 5 lần, và do đó $5(a_1 + a_2 + \dots + a_{21}) = 0$, từ đó $a_1 + a_2 + \dots + a_{21} = 0$.
 4. 1) 625 = 25²; 2) 7⁴ = 2401; 3) 39² = 1521; 4) 128 = 2⁷; 5) 2¹² = 4096; 6) 96 × 7 = 672.
@@ -157,9 +157,9 @@ Chiều cao - đa dạng - kim tước (thân) - cáp.
 Cleaver - hề - dốc - mặt dây chuyền.
 Tác giả - thứ hai (giọng thứ hai trong phần âm nhạc) - thuốc sắc - nôn - sản phẩm - tavro.
 
-Cơm. 10.
+Hình 10.
 
-Cơm. 11.
+Hình 11.
 
 2. Hai lời giải - xem Hình 10.
 3. Xem Hình 11: ngũ giác đều, tam giác là cân.

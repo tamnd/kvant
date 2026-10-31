@@ -55,7 +55,7 @@ Chúng ta lần đầu tiên nhận thấy hiện tượng này khi nhìn ảnh 
 
 Hiểu rằng độ sáng của hình ảnh được xác định bởi lượng ánh sáng phản chiếu từ kính thứ nhất và kính thứ hai, chúng tôi đặt câu hỏi: tại thời điểm nào trong hai phản xạ - phản xạ thứ nhất hay kính thứ hai - độ phản xạ ánh sáng giảm? Bằng cách kiểm tra các vật thể được phản chiếu một lần trong thủy tinh, chúng tôi tin chắc rằng ở bất kỳ góc tới nào của tia tới, sự phản xạ của chúng không thể hiện mức tối thiểu. Ví dụ, khi tăng góc tới
 
-Cơm. 1. Hình học số 1. Mặt phẳng của phản xạ thứ nhất và thứ hai vuông góc với nhau. Thực tế không có ánh sáng phản chiếu từ tấm kính thứ hai.
+Hình 1. Hình học số 1. Mặt phẳng của phản xạ thứ nhất và thứ hai vuông góc với nhau. Thực tế không có ánh sáng phản chiếu từ tấm kính thứ hai.
 
 Khi độ sáng hình ảnh giảm, nó liên tục tăng. Vì vậy, chúng tôi xác định rằng tỷ lệ ánh sáng phản xạ trong kính thứ hai giảm nếu các tia phản xạ bởi kính thứ nhất trong hình học số 1 chiếu vào nó. Đây là bí quyết “chuẩn bị” ánh sáng đặc biệt của chúng tôi.
 
@@ -79,7 +79,7 @@ Hình ảnh phản chiếu kép trình bày với chúng ta như sau. Ánh sáng
 
 Nếu các báo cáo là từ góc tới tối ưu trên gương phản xạ đầu tiên, thì cả hai hướng dao động sẽ được biểu thị trong ánh sáng phản xạ, nhưng ở các mức độ khác nhau và ánh sáng sẽ bị phân cực không hoàn toàn mà một phần. Đó là lý do tại sao, khi đi chệch khỏi hình học số 1 của Hình 3 hoàn chỉnh. Trong ánh sáng tự nhiên, các hướng dao động bằng nhau.
 
-Cơm. 4. Thủy tinh chỉ phản xạ một thành phần dao động - vuông góc với mặt phẳng tới. Ánh sáng phản xạ bị phân cực.
+Hình 4. Thủy tinh chỉ phản xạ một thành phần dao động - vuông góc với mặt phẳng tới. Ánh sáng phản xạ bị phân cực.
 
 Sự biến mất của ánh sáng phản xạ không xảy ra.
 
@@ -91,7 +91,7 @@ Về cơ bản, cùng một thí nghiệm này có thể được tổ chức h�
 
 ⟦folio 36⟧
 
-Cơm. 5. Ánh sáng không phân cực chiếu vào một chồng đĩa thủy tinh. Ánh sáng truyền qua bị chi phối bởi các dao động nằm trong mặt phẳng tới. Ánh sáng này phản chiếu kém từ kính thứ hai.
+Hình 5. Ánh sáng không phân cực chiếu vào một chồng đĩa thủy tinh. Ánh sáng truyền qua bị chi phối bởi các dao động nằm trong mặt phẳng tới. Ánh sáng này phản chiếu kém từ kính thứ hai.
 
 Trong trường hợp hiển thị trong Hình 6, a, mười chiếc kính hầu như không làm giảm độ sáng của ánh sáng và trong trường hợp, như trong Hình 6, b, chúng giảm độ sáng khoảng một nửa.
 
@@ -99,7 +99,7 @@ Sự xuất hiện và biến mất của mica nhiều màu
 
 Chúng tôi bắt đầu thí nghiệm với mica bằng cách lặp lại chúng trong hình học số 1, với một chiếc đèn làm nguồn sáng. Sau khi điều chỉnh hệ thống đến mức tối thiểu phản xạ sâu hơn có thể, chúng tôi đã giới thiệu tấm mica
 
-Cơm. 6. Ánh sáng phân cực chiếu vào một chồng tấm kính. Trong trường hợp a) - phản xạ yếu và phát âm cao; trong trường hợp b) - phản xạ mạnh, họ phát âm không tốt.
+Hình 6. Ánh sáng phân cực chiếu vào một chồng tấm kính. Trong trường hợp a) - phản xạ yếu và phát âm cao; trong trường hợp b) - phản xạ mạnh, họ phát âm không tốt.
 
 thành các tia đi từ gương phản xạ này sang gương phản xạ khác, do đó ánh sáng phân cực tiếp xúc quá mức với bề mặt của nó. Điều này dẫn đến việc tạo màu cho mica theo nhiều màu khác nhau, mặc dù dải màu kém hơn so với thí nghiệm với ánh sáng ban ngày. Chúng tôi đã quan sát thấy khi mica quay quanh một trục trùng với các tia sáng, các màu sắc thay thế nhau theo chu kỳ.
 
@@ -123,7 +123,7 @@ Bằng cách sử dụng những đặc tính này của mica, chúng tôi có t
 
 Ví dụ, bằng cách sử dụng “cải tiến” này, chúng tôi đã xác định được rằng các đám mây chiếu sáng một bên sẽ gửi các tia phân cực một phần (Hình 7). Chúng tôi cũng quan sát thấy sự phân cực của bầu trời không mây. Hiệu ứng trong trường hợp này không đặc biệt lớn và được thể hiện rõ nhất nếu bạn đứng nghiêng về phía Mặt trời, sao cho
 
-Cơm. 7. Một miếng mica hoặc giấy bóng kính làm tăng màu sắc phát hiện phân cực.
+Hình 7. Một miếng mica hoặc giấy bóng kính làm tăng màu sắc phát hiện phân cực.
 
 các tia tán xạ bởi khí quyển sẽ tới gần như vuông góc với đường nối Mặt trời và thủy tinh.
 

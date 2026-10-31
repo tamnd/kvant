@@ -32,7 +32,7 @@ OLI M P I A DY
 
 ⟦figure⟧
 
-Cơm. 4
+Hình 4
 
 Ghi chú. Nhiệt lượng tỏa ra và nhiệt dung của chảo không đáng kể, nhiệt dung riêng của nước c 4200 J kg q C.
 
@@ -40,7 +40,7 @@ A. Evseev
 
 ⟦figure⟧
 
-Cơm. 3
+Hình 3
 
 gạch thứ hai và thứ ba tương ứng. Thông tin cũng được lưu giữ rằng viên gạch thứ ba mạnh gấp đôi viên gạch thứ nhất và trong toàn bộ thời gian đun nóng, nước nhận được nhiệt lượng 1100 kJ. 1) Xác định nhiệt độ nước cuối cùng. 2) Tìm khối lượng của nước. 3) Viên gạch thứ hai có thể có sức mạnh gì? 4) Mất bao lâu để làm nóng chảo trên bếp thứ hai?
 
@@ -68,7 +68,7 @@ Lớp 10 Bài toán 1. Dải leo Sử dụng công nghệ đặc biệt để x�
 
 ⟦figure⟧
 
-Cơm. 5
+Hình 5
 
 chiều dài dải l làm nóng và làm mát theo chu kỳ, sau đó bạn có thể thấy dải này di chuyển dọc theo bề mặt của bàn. 1) Dải sẽ di chuyển theo hướng nào (AB hoặc BA) với số chu kỳ lớn? 2) Dải sẽ di chuyển bao xa trong N chu kỳ làm nóng-làm mát nếu chênh lệch giữa nhiệt độ tối đa và tối thiểu trong chu kỳ là ' T? Viết Đáp số dưới dạng công thức. 3) Tính khoảng cách một dải có chiều dài l 20 cm sẽ di chuyển trong N 100 chu kỳ làm nóng-làm mát khi nhiệt độ của nó thay đổi một lượng ' T 80 q C. Giá trị hệ số ma sát: $P_{1} 0,15, P_{2} 0,05.$ Xét rằng khi nhiệt độ của polyetylen thay đổi một lượng ' T thì chiều dài của nó thay đổi một lượng ' l D l ' T, trong đó l là chiều dài của dải ở nhiệt độ phòng, D 2 $10^{4} q C^{1}$ – hệ số giãn nở nhiệt của polyetylen. Dải có độ dày không đổi, không bị uốn cong và được ép đều lên bàn bằng toàn bộ bề mặt của nó. Quá trình sưởi ấm và làm mát xảy ra chậm. A. Apollonsky
 
@@ -82,11 +82,11 @@ Bài toán 3. Ôm kế được đo bằng gì? Theo một trong các mô hình 
 
 ⟦figure⟧
 
-Cơm. 6
+Hình 6
 
 ⟦figure⟧
 
-Cơm. 7
+Hình 7
 
 cường độ dòng điện, sau đó được chuyển đổi thành giá trị của điện trở đo được và hiển thị trên chỉ báo ohmmeter. Nếu bạn kết nối một diode với các cực của một ôm kế như vậy, đặc tính dòng điện-điện áp của nó được thể hiện trong Hình 7, thì nó sẽ hiển thị điện trở $R_{д} 6$ kOhm. Nếu bạn thêm một điện trở có điện trở R 20 kOhm nối tiếp vào diode này và đo điện trở của cặp kết quả bằng một ohm kế, nó sẽ hiển thị $R_{1} 30$ kOhm. Nếu, thay vì điện trở và đi-ốt, bạn kết nối một cục pin lý tưởng có điện áp $U_{б} 3$ V với ôm kế (không xác định được cực tính của kết nối!), thì nó sẽ hiển thị điện trở âm $R_{б} 7,5$ kOhm $( R_{б} 0 ).$ Sử dụng những dữ liệu này, hãy xác định: 1) giá trị điện áp E của nguồn bên trong của ôm kế;
 
@@ -108,6 +108,6 @@ Bài toán 4. Quay một vòng Độ tự cảm của một vòng dây bán kín
 
 ⟦figure⟧
 
-Cơm. 13
+Hình 13
 
 Bài toán 5. Lớp trong suốt Một quả bóng có bán kính 2R được làm bằng vật liệu trong suốt về mặt quang học có khoang hình cầu có bán kính R (Hình 14). Tâm của quả bóng và khoang trùng nhau. Có không khí bên trong khoang. Một tia sáng từ không khí bên ngoài rơi xuống bề mặt quả bóng. Ở những giá trị nào của góc tới của chùm tia trên bề mặt Hình 14

@@ -45,7 +45,7 @@ $$x : a = (a - x) : x$$ (2)
 
 Từ tỷ lệ này, rõ ràng là với tỷ lệ vàng, chiều dài lớn hơn đoạn thẳng là trung bình hình học, hay như người ta thường nói, trung bình của
 
-Cơm. 1.
+Hình 1.
 
 tỷ lệ thuận với độ dài của toàn bộ đoạn và phần nhỏ hơn của nó:
 
@@ -89,9 +89,9 @@ Vào đầu thời kỳ Phục hưng, sự quan tâm đến tỷ lệ vàng đã
 
 *) B. L. van der Waerden. "Khoa học đánh thức". M., Fizmatiz, 1959, tr. 139.
 
-Cơm. 2.
+Hình 2.
 
-Cơm. 3.
+Hình 3.
 
 ⟦folio 24⟧
 

@@ -72,9 +72,9 @@ a) Vì $NMP=\frac{1}{4}(BC+CD)=\frac{1}{2}\hat{A}, MNQ=\frac{1}{4}(AB+AD)=\frac{
 
 Các tam giác BMN và MO$_1N$ bằng nhau nên $|BN|=|NO_1|$. Tương tự như vậy, $|CN|=|NO_2|$. Nhưng $|BN|=|CN|$; do đó, tam giác $O_1NO_2$ là tam giác đều, trong đó $[NQ]$ là bissertrix. Vì vậy $[NQ] \perp [O_1O_2]$; có nghĩa là $[O_1O_2] \parallel [MP]$.
 
-**Cơm. 1.**
+**Hình 1.**
 
-**Cơm. 2.**
+**Hình 2.**
 
 Tương tự, người ta chứng minh được $[O_3O_4] \parallel [MP]$ và $[O_1O_4] \parallel [NQ] \parallel [O_2O_3]$. Vậy tứ giác $O_1O_2O_3O_4$ là hình chữ nhật.
 
@@ -86,13 +86,13 @@ I. Tiếng Đức, K. Malkhasyan
 
 M670. a) Cho một số điểm, một số cặp điểm được nối bằng đường thẳng (điểm của các cặp điểm đó được gọi là được nối bởi chúng). Số lượng kết nối tại mỗi điểm là số lẻ. Tại thời điểm ban đầu, tất cả các điểm được tô bằng hai màu - đỏ và xanh. Sau đó, cứ sau mỗi phút, các điểm được tô màu lại theo quy tắc sau: mỗi điểm trong đó phần lớn các kết nối có một màu khác với nó sẽ thay đổi màu của nó; nếu không thì màu sắc của nó sẽ được giữ nguyên. Chứng minh rằng sẽ đến một thời điểm mà tại đó một số điểm không đổi màu nhưng có một số điểm sẽ thay đổi theo từng phút. b) Liệu câu phát biểu này có còn đúng nếu không giả định rằng mỗi điểm có số lẻ kết nối?
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
 Chúng ta hãy gọi đoạn $X'_i X''_j$ nối các điểm của hệ thống kép là một cạnh đa dạng nếu các đầu $X'_i$ và $X''_j$ của nó có màu khác nhau. Hãy chứng minh rằng nếu tại thời điểm tiếp theo có ít nhất một điểm có cạnh đa dạng, thì số cạnh đa dạng của hệ thống quân sự sẽ có dạng ... $P_{t-1}, P_t, P_{t-1}, P_t, \dots$, (Hình 3), và đây chính xác là điều cần được chứng minh trong nhiệm vụ.
 
-Cơm. 3.
+Hình 3.
 
 Chúng ta hãy gọi đoạn $X'_i X''_j$ nối các điểm của hệ thống kép là một cạnh đa dạng nếu các đầu $X'_i$ và $X''_j$ của nó có màu khác nhau. Hãy chứng minh rằng nếu tại thời điểm tiếp theo, có ít nhất một điểm có cạnh đa dạng, thì số cạnh đa dạng của hệ sẽ có dạng ... $P_{t-1}, P_t, P_{t-1}, P_t, \dots$, (Hình 3), và đây chính xác là điều cần được chứng minh trong nhiệm vụ.
 
@@ -101,13 +101,13 @@ Chúng ta hãy gọi đoạn $X'_i X''_j$ nối các điểm của hệ thống 
 F678. Một khẩu pháo bắn từ dưới chỗ nấp nghiêng một góc α so với phương ngang (Hình 1). Súng đặt ở điểm A cách chân hầm trú ẩn (điểm B) một khoảng l. Vận tốc ban đầu của đạn là $|\vec{v}_0|$.
 Giả sử quỹ đạo của viên đạn nằm trong mặt phẳng hình vẽ, hãy xác định tầm bay tối đa.
 
-Cơm. 1.
+Hình 1.
 
 Trong tất cả các quỹ đạo có thể có của đạn, chúng tôi chọn quỹ đạo chạm vào nơi trú ẩn. Chúng ta hãy xem xét chuyển động của một viên đạn trong một hệ tọa độ có các trục hướng như trong Hình 2. Trong hệ thống này, hình chiếu “ngang” (dọc theo trục OX) của vận tốc ban đầu của viên đạn bằng $v_{0x} = v_0$ cos ($\varphi - \alpha$) và phép chiếu “thẳng đứng” (dọc theo trục OY) bằng $v_{0y} = v_0 \sin (\varphi - \alpha)$, Ở đâu $\varphi$ - góc tạo bởi vectơ vận tốc ban đầu của viên đạn với đường chân trời.
 
 Điểm C, tại đó quỹ đạo của đạn chạm vào nơi trú ẩn, xác định độ cao tối đa $h'$ của việc nâng đạn lên trên “đường chân trời”, bằng nhau, như có thể thấy trong Hình 2, $l \sin \alpha$. Tại thời điểm này, hình chiếu toàn bộ tốc độ $\vec{v}$ của viên đạn lên trục
 
-Cơm. 2.
+Hình 2.
 
 $OY$ bằng 0 và
 $$h' = v_{0y}^2 / 2g'$$,

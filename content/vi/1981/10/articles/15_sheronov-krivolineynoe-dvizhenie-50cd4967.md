@@ -112,7 +112,7 @@ Chúng ta hãy giới thiệu hệ tọa độ $XOY$, như trong Hình 3. Đầu
 
 ⟦folio 49⟧
 
-Cơm. 3.
+Hình 3.
 
 ý chia tay. Chuyển động của vật dọc theo chất bán sắt xảy ra dưới tác dụng của hai lực - lực hấp dẫn $m\vec{g}$ và lực của phản lực pháp tuyến (vì không có ma sát) $\vec{N}$. Tại thời điểm tách ra, phản lực trở thành 0, do đó gia tốc bình thường $a_H = v_0^2/R$ chỉ được truyền tới cơ thể bằng hình chiếu tương ứng của trọng lực:
 
@@ -156,4 +156,4 @@ Hướng của lực $\vec{N}$, được xác định bởi góc $\alpha$, có t
 
 $$N/\sin \alpha = mg/\sin \varphi,$$
 
-cơm. 4.
+hình 4.

@@ -58,7 +58,7 @@ Mỗi chiếc boomerang được đặc trưng bởi khả năng ném dễ dàng
 
 ⟦folio 33⟧
 
-Cơm. 3.
+Hình 3.
 
 1,5 mét. Những chiếc boomerang hiện đại của Úc có thể di chuyển quãng đường hơn 100 mét và quay trở lại tốt. Thật không may, bản thân tôi không thể tạo ra một chiếc boomerang có thể di chuyển xa hơn 50 mét.
 
@@ -74,7 +74,7 @@ Tốc độ của cánh tay boomerang so với tác động không phải là h�
 
 Khi trò chơi ở nửa trên của vòng tròn ngoại tiếp, tốc độ tịnh tiến của boomerang v được cộng vào tốc độ quay u, và khi ở nửa dưới, các tốc độ được hướng theo hướng ngược lại, do đó tốc độ thu được giảm đi hoặc thậm chí biến mất hoàn toàn tại một thời điểm nào đó (Hình 5). Do đó, boomerang không chỉ chịu lực hướng từ phải sang trái mà còn chịu cả mô men của các lực F₁ và F₂ làm quay nó quanh trục ngang và có xu hướng di chuyển phần trên của boomerang.
 
-Cơm. 5.
+Hình 5.
 
 sang trái. Nhưng chuyển động này hầu như không bao giờ xảy ra trong thực tế, vì boomerang quay nhanh đến mức nó hoạt động giống như một con quay hồi chuyển *).
 
@@ -90,19 +90,19 @@ Trước tiên chúng ta hãy xem xét trường hợp ổn định: lưỡi dao
 
 ⟦folio 35⟧
 
-Cơm. 6.
+Hình 6.
 
 (vuông góc với V) và lực cản Q (hướng vào V). Cả hai đều tỷ lệ thuận với V2. Nếu cánh không vuông góc với hướng truyền tốc thì V có thành phần song song với cánh, thành phần này không ảnh hưởng đến chuyển động theo bất kỳ cách nào. Do đó, chúng ta có thể thay thế tốc độ V bằng thành phần của nó vuông góc với cánh hoặc bằng tốc độ hiệu dụng V₃φφ. Trong trường hợp này, các lực tỉ lệ với (V₃φφ)².
 
 Mỗi điểm trên vai boomerang đều tham gia vào chuyển động về phía trước. Tốc độ tương đối với không khí thay đổi từ điểm này sang điểm khác,
 
-Cơm. 7.
+Hình 7.
 
 vì boomerang đang quay. Ở tốc độ quay ω và khoảng cách đến trục quay r (trục đi qua khối tâm của boomerang) thì tốc độ của điểm là u=ωr. Đối với mỗi điểm của cánh tay, bằng cách cộng v và u, bạn có thể tìm được vận tốc V. Thành phần của nó, vuông góc với cánh tay boomerang, là V₃φφ (Hình 7). Tất nhiên, các giá trị V₃φφ cho mỗi điểm của vai sẽ liên tục thay đổi trong quá trình quay. Rõ ràng là sự đóng góp của từng điểm trên cánh tay boomerang vào lực nâng và lực kéo tại mỗi thời điểm quay tỷ lệ với (V₃φφ)².
 
 Vì vậy, trên mỗi cánh tay của boomerang có một lực nâng trung bình F (lực F₁ và F₂ trên mỗi cánh tay của cánh tay tương ứng), một mômen trung bình
 
-Cơm. 8.
+Hình 8.
 
 đây là các lực M₁ so với trục ngang song song với tốc độ của boomerang, làm cho boomerang lệch sang trái và mô men M₂ so với trục vuông góc với tốc độ V, khiến boomerang “nằm xuống” (Hình 8). Ngoài ra, boomerang còn chịu tác dụng của lực kéo trung bình Q, làm giảm tốc độ chuyển tiếp của boomerang và mô men trung bình của lực M₄ này, làm chậm tốc độ quayω. Hóa ra không có đại lượng nào trong số này, ngoại trừ M₂, phụ thuộc vào độ lệch tâm và M₂
 

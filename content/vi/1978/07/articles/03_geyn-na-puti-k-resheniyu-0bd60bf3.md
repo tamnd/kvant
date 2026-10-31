@@ -66,7 +66,7 @@ Bổ đề 1 ở đây cho phép chúng ta không xét đến lời giải chứ
 
 ⟦folio 11⟧
 
-Cơm. 1.
+Hình 1.
 
 Bằng cách phân tích đáp số bài toán cho $n = 2, 3$ và 4, chúng ta chỉ có thể tạo ra các giả thuyết về cấu trúc của những đáp số này chứ không phải về cách giải quyết bài toán. Bây giờ chúng ta hãy xem làm thế nào để có được những đáp số này cho $n = 3$.
 

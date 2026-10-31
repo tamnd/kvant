@@ -94,7 +94,7 @@ Như vậy, khi vận động viên ngủ, anh ta sẽ vượt qua quãng đư�
 
 Nếu hệ không đóng thì sự thay đổi động lượng của nó luôn là do tác dụng của ngoại lực.
 
-Cơm. 2.
+Hình 2.
 
 Bài tập 3. Một chùm hạt có vận tốc $v$ và khối lượng $m$ rơi vào một tấm có diện tích $S$; đồng thời nó đỏ một phần và phản xạ một phần (Hình 3). Lực nào tác dụng lên tấm nếu nồng độ các hạt trong bể là $n$ và tỷ lệ các hạt lắng đọng là $\alpha$? Khoảng cách cũng có tác dụng khi bản thân tấm di chuyển với tốc độ $\vec{u}$: a) về phía chùm tia, b) cùng hướng với các hạt tới.
 
@@ -136,7 +136,7 @@ $$F = F_1 + F_2 = (2 - \alpha) nSmv^2.$$ (3)
 Để tìm lực tác dụng lên chuyển động, chúng ta chuyển sang hệ tọa độ chuyển động với tốc độ $u$. Trong hệ thống này, tốc độ của bộ phận tăng lên khi tấm di chuyển về phía bó: $v_1 = v + u$ và giảm khi tấm di chuyển theo hướng ngược lại: $v_2 = v - u$ (ở đây $v, u, v_1$ và $v_2$ là mô hình có tốc độ tương ứng). Nếu không thì mọi thứ vẫn giống như trong trường hợp tấm cố định. Do đó, lực tác dụng lên tấm được tính theo công thức (3), trong đó $v$ nên được thay thế bằng $v_1$ hoặc $v_2$:
 $$F_a = (2 - \alpha) nSm (v + u)^2$$
 $$F_6 = (2 - \alpha) nSm (v - u)^2.$$
-Cơm. 4.
+Hình 4.
 
 Trong trường hợp đầu tiên, vinh quang trả lại sự xuất hiện của cái gọi là lực phản kháng $\vec{F}_p$, khi một phần $\Delta m$ khối lượng của nó bị đẩy ra khỏi hệ thống với một tốc độ nhất định $\vec{u}$. Theo công thức (2)
 $$\vec{F}_p = - \frac{\Delta m}{\Delta t} \vec{u}.$$
@@ -152,7 +152,7 @@ $$N = \frac{E_{\text{киин}}}{\eta t} = \frac{\rho v^3 S}{2\eta}.$$
 
 ⟦folio 52⟧
 
-Cơm. 5.
+Hình 5.
 
 Từ đây bạn có thể tìm thấy tốc độ luồng không khí:
 
@@ -166,7 +166,7 @@ Nếu một hệ cơ học chuyển động với tốc độ không đổi, do 
 
 Bài toán 6. Trên một mặt phẳng nằm ngang, một bình chứa nước, được đóng bằng khung di động lekitim, trên đó đặt một tải trọng mềm có khối lượng M (Hình 6). Ở đáy bình có độ lệch với tiết diện s, qua đó nước chảy ra ngoài. Vận tốc ở trạng thái ổn định của bình là bao nhiêu nếu lực ma sát giữa bình và bề mặt tỉ lệ với vận tốc của bình và hệ số tỷ lệ bằng k. Diện tích mặt cắt của tàu S.
 
-Cơm. 6.
+Hình 6.
 
 Tốc độ yêu cầu (chính xác hơn là mô hình v của nó) được xác định từ điều kiện bằng nhau của mô hình lực ma sát và phản lực tác dụng lên tàu:
 

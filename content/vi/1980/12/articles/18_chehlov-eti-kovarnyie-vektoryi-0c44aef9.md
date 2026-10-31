@@ -34,7 +34,7 @@ Việc sử dụng vectơ dựa trên thực tế là các phát biểu khác nh
 
 Bài toán 1. Đáy của hình bình hành ABCD. Mặt phẳng cắt các cạnh SA, SB, SC và SD của đường song song tương ứng tại các điểm M, N, P và Q sao cho |SM|:|SA|=a, |SN|:|SB|=b, |SP|:|SC|=c,
 
-Cơm. 1.
+Hình 1.
 
 |SQ|:|SD|=d. Chứng minh rằng $\frac{1}{a} + \frac{1}{c} = \frac{1}{b} + \frac{1}{d}$.
 
@@ -117,7 +117,7 @@ $$\begin{cases}
 
 Đây là một hệ thống có bốn vectơ chưa biết $\vec{AB}, \vec{BC}, \vec{CD}$ và $\vec{AD}$, và công thức hình học bài toán 5 hiện có thể được thay thế bằng công thức đại số (vectơ): chiều dài là bao nhiêu
 
-Cơm. 5.
+Hình 5.
 
 ⟦folio 44⟧
 

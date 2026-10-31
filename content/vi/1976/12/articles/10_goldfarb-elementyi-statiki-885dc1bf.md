@@ -91,7 +91,7 @@ Chúng ta hãy xem xét một vật rắn có khả năng quay trong mặt phẳ
 
 Momen của lực đối với trục gọi là đại lượng đại số
 
-Cơm. 3.
+Hình 3.
 
 trên, bằng tích của độ lớn absciliton của các lực và khoảng cách từ trục quay đến đường tác dụng của lực.
 
@@ -129,7 +129,7 @@ Nếu các lực tác dụng lên vật nằm trong mặt phẳng song song vớ
 
 *) Mômen của lực trong trường hợp chuyển động quay tương tự như lực trong trường hợp chuyển động tịnh tiến. Trong quá trình chuyển động tịnh tiến, gia tốc của khối tâm tỉ lệ với lực tác dụng; trong quá trình chuyển động quay, sự thay đổi vận tốc góc trên một đơn vị thời gian - gia tốc góc - tỷ lệ thuận với mô men của lực.
 
-Cơm. 4.
+Hình 4.
 
 cân bằng nếu
 
@@ -221,9 +221,9 @@ Hãy coi tải trọng là một điểm vật chất.
 
 Lời giải. a) Trên tải trọng tác dụng, lực hấp dẫn là $mg$, lực $N$ của phản lực pháp tuyến của mặt phẳng, lực căng của cáp $T$, lực lớn nhất của cáp $F_{tp,max}$ (kể từ khi xảy ra hiện tượng trượt). Chúng ta hãy viết ra các điều kiện để tải cân bằng (xem Hình 7):
 
-Cơm. 6.
+Hình 6.
 
-Cơm. 7.
+Hình 7.
 
 ⟦folio 46⟧
 
@@ -260,7 +260,7 @@ bài toán tương tự có thể được giải theo cách khác - bằng đ�
 
 ⟦folio 47⟧
 
-Cơm. 9.
+Hình 9.
 Chúng ta hãy xây dựng đường tác dụng của các phản lực tổng hợp $R_A$ và $R_B$ tại các điểm $A$ và $B$ (Hình 9). Để làm điều này, chúng ta hãy dành góc $\varphi_1 = \arctg \frac{F_A}{N_A} = \arctg \mu_1$ (góc ma sát) từ pháp tuyến đến sàn tại điểm $A$
 theo hướng ngược chiều kim đồng hồ (hướng có thể quay dưới tác dụng của lực $R_A$).
 Góc này vuông góc với sàn tại điểm $A$ dọc theo đường tác dụng của lực $R_A$. Theo cách tương tự, chúng ta thu được đường tác dụng của lực $R_B$.

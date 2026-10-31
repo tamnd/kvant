@@ -77,7 +77,7 @@ G. A. Galperin.
 
 F163. Theo một trong những mô hình đầu tiên của nguyên tử hydro (mô hình của Thomson), nó là một quả bóng điện tích điện đều với một electron ở trung tâm. Nói chung, nguyên tử là trung tính. Tìm bán kính của một nguyên tử như vậy nếu biết rằng năng lượng tối thiểu phải truyền cho một electron để tách nó ra khỏi nguyên tử trên một khoảng cách lớn bằng W. Điện tích của electron là e. (10 lớp)
 
-Cơm. 1. Hình 2.
+Hình 1. Hình 2.
 
 F164. Một khối xốp có khối lượng $M=100$ e nằm trên một giá đỡ nằm ngang. Chiều cao của hình lập phương là $a=10$ cm. Từ bên dưới khối lập phương bị xuyên thủng bởi một viên đạn bay thẳng đứng có khối lượng $m=10$ e (xem Hình 1). Vận tốc của viên đạn khi đi vào khối lập phương là $v_1=100$ m/s, khi ra khỏi khối là $v_2=95$ m/s. Khối lập phương sẽ nảy lên? (lớp 8, lớp 9)
 

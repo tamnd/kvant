@@ -86,7 +86,7 @@ Bây giờ chúng ta hãy tưởng tượng rằng trong phần $ab$ cũng có m
 
 ⟦folio 45⟧
 
-Cơm. 3.
+Hình 3.
 
 Nếu, khi di chuyển một đơn vị điện tích sang một bên, các lực thực hiện công $\mathcal{E}$, thì công thực hiện trên điện tích $q$ khi di chuyển nó dọc theo diện tích $ab$
 
@@ -134,7 +134,7 @@ Một ví dụ khác là nguyên tố galvanic dài và được chiết xuất 
 
 Pin Volta bao gồm một tấm đồng và kẽm được ngâm trong dung dịch axit sulfuric (Hình 5). Để thu được các quá trình phức tạp xảy ra trong nguyên tố này, chúng ta lưu ý rằng đồng và kẽm rắn được cấu tạo không phải từ các nguyên tử đồng và kẽm mà từ các ion và electron đồng và kẽm tương ứng: mỗi nguyên tử đồng và kẽm trong kim loại mất đi hai electron, các electron này vẫn còn trong kim loại dưới dạng các electron rất tự do đã đề cập trước đó. Và các nguyên tử trở thành các ion mang điện tích dương.
 
-Cơm. 5.
+Hình 5.
 
 ⟦folio 47⟧
 

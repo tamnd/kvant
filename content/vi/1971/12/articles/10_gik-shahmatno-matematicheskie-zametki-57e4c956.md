@@ -35,7 +35,7 @@ Bây giờ hãy xem xét hai trường nằm trên cùng một đường thẳng
 
 trường e1 và e8 theo chiều dọc e. Di chuyển theo nó, vua e1 có thể đến ô e8 sau 7 nước đi. Rõ ràng là quá trình trưởng thành của nhà vua có thể đã khác. Có chính xác 393 (!) cách để đến ô e8 trong 7 nước đi giống nhau. Vua có thể di chuyển đến ô e8 với các ma trận ngoằn ngoèo kỳ quái nhất, miễn là chúng nằm trong khuôn khổ của hình tiếp theo trong Hình 1 và miễn là vua di chuyển từ cấp này sang cấp khác trong mỗi nước đi. Để chứng minh
 
-Cơm. 1.
+Hình 1.
 
 bạn có thể đếm số đường mẫu chứa 0, 2, 4 hoặc 6 bước di chuyển theo đường chéo. Sử dụng một số thông tin từ tổ hợp (xem “Quant” số 1, 1971), dễ dàng tìm được:
 
@@ -47,7 +47,7 @@ Trong Hình 2, quân tốt a7 không có khả năng tự vệ và cơ hội duy
 
 ⟦folio 48⟧
 
-Cơm. 2. I. Maizelis, 1921. Trắng xuất phát và thắng.
+Hình 2. I. Maizelis, 1921. Trắng xuất phát và thắng.
 
 khả năng xảy ra 2... Kd4 là tai hại cho Đen. (Không hoạt động, ví dụ: 1. Kb Krs3 2. Kd6 Kd4 3. Ks6 Krs5! 4. Kpb7 Kd6 5. Kd: a7 Ks7).
 
@@ -57,11 +57,11 @@ Các nhà toán học từ lâu đã thất vọng trong việc tạo ra cấu t
 
 Ở thế cờ trong Hình 3, vua trắng không tham gia ván cờ.
 
-Cơm. 3.
+Hình 3.
 
 lại, và tất cả phụ thuộc vào việc vua đen có đuổi kịp con tốt h3 hay không. Những người chơi cờ thiếu kinh nghiệm thường lý luận như thế này: Tốt đi đây, vua ở kia, tốt ở đây, vua ở kia... tức là cái gọi là “trên ngón tay”. Đồng thời, họ thường bối rối (đặc biệt khi vẫn còn một số con tốt trên bàn cờ) và tính toán sai. Hóa ra là rất dễ dàng đánh giá kết quả của trò chơi bằng cách sử dụng “quy tắc bình phương”: chỉ cần tìm hiểu xem quân vua, trong quá trình di chuyển của mình, có thể vào “ô” của quân tốt hay không là đủ, trong trường hợp này được hiển thị trong Hình 3: c3-c8-h8-h3. Hơn
 
-Cơm. 4.
+Hình 4.
 
 Sẽ dễ dàng hơn khi chỉ vẽ một đường thẳng - đường chéo của hình vuông (h3-c8). Từ đó, ở vị trí trong Hình 3, Đen hòa ở nước đi của mình (đi vào ô vuông) và thua ở nước đi của đối thủ.
 

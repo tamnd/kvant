@@ -120,11 +120,11 @@ Trong sợi 2. Đạt bài toán $M275$ a) điểm $\frac{\sqrt{5}}{2}$. Chứng
 
 ⟦folio 51⟧
 
-Cơm. 3.
+Hình 3.
 
 **M276.** Cho hình vuông ABCD. Điểm P và Q lần lượt nằm trên cạnh AB và BC với $|BP| = |BQ|$. Điểm H là đáy của đường vuông góc thả từ điểm B lên đoạn PC. Chứng minh rằng Huelol DHQ là trực tiếp.
 
-Cơm. 4.
+Hình 4.
 
 **M277.** Một số đèn đỏ và một số đèn đồng bộ được chỉ định. Một số trong số chúng được kết nối bởi các phân đoạn. Đất thùy là “đặc biệt” nếu phần được tưới nước nhiều nhất trong các thùy nối với nó có màu khác với màu của nó. Nếu có ít nhất một mocka đặc biệt thì bất kỳ mocka đặc biệt nào cũng sẽ được chọn và sơn lại bằng một màu khác. Chứng minh rằng sau hữu hạn các bóng sẽ không còn một thùy đặc biệt nào.
 
@@ -157,13 +157,13 @@ a) Lấy một hình tam giác đều có cạnh 2 (trong Hình 5 là hình ch�
 Độ dài đường chéo có lớn hơn 2 không?
 6) Trong hình lục giác lồi ABCDEF, độ dài các đường chéo AD, BE và CF lớn hơn 2. Có phải nó luôn có cạnh dài hơn 1 không?
 
-Cơm. 5.
+Hình 5.
 
 M279. Các số được viết trên n thẻ xếp thành một vòng tròn, mỗi số bằng +1 hoặc -1. Trong số câu hỏi nhỏ nhất bạn có thể xác định chắc chắn tích của tất cả n số, nếu trong một câu hỏi bạn có thể tìm ra:
 a) tích của các số trên ba tấm thẻ bất kỳ?
 b) tích của các số trên ba tấm thẻ bất kỳ nằm trên một hàng? (n là số tự nhiên lớn hơn 3.)
 
-Cơm. 6.
+Hình 6.
 
 Chúng ta hãy biểu thị các số được ghi trên thẻ bằng $a_1, a_2, \dots, a_n$ và loại bỏ số câu hỏi bằng $p$.
 
@@ -206,7 +206,7 @@ Bây giờ chúng ta thấy điều đó ở bài toán a) tại $n=4$ $p=4$.
 Yu. I. Ionin
 
 ⟦figure⟧
-Cơm. 7.
+Hình 7.
 
 ⟦column⟧
 
@@ -253,7 +253,7 @@ V)
 ⟦figure⟧
 G)
 
-Cơm. 10.
+Hình 10.
 
 F287. *Kênh đi qua một cây cầu bắc qua đường cao tốc. Liệu áp lực lên cầu có thay đổi nếu một sà lan rỗng di chuyển dọc theo kênh một lần và một sà lan chở hàng di chuyển vào lần khác không?*
 
@@ -288,7 +288,7 @@ Vì vậy, để tìm áp suất trong bình, việc xác định tỷ lệ nồ
 ⟦folio 56⟧
 
 ⟦figure⟧
-Cơm. 11.
+Hình 11.
 
 bình bằng số phân tử khí bay vào bình trong cùng thời gian. Để đơn giản cho lý luận, chúng ta sẽ giả sử rằng tốc độ của tất cả các phân tử khí ở nhiệt độ ổn định là như nhau và bằng căn bậc hai tốc độ bình phương tương ứng với nhiệt độ này. Ngoài ra, chúng ta sẽ giả sử rằng các phân tử chuyển động dọc theo ba hướng vuông góc với nhau, một trong số đó vuông góc với mặt phẳng cắt ngang của lỗ, và tất cả các hướng đều có khả năng xảy ra như nhau. Sau đó $1/6$ một phần của tất cả các phân tử có trong bình sẽ di chuyển về phía lỗ. Trong thời gian $\Delta t$, những phân tử nằm cách lỗ một khoảng bằng $v_1\Delta t$ bay ra khỏi bình, trong đó $v_1$ là tốc độ của các phân tử trong bình. Vì nồng độ của các phân tử trong bình là $n_1$ nên theo thời gian $\Delta t$ $1/6\, n_1 v_1 \Delta t \Delta S$ các phân tử bay ra khỏi bình ($\Delta S$ là diện tích của lỗ). Tương tự, chúng ta thấy rằng các phân tử $1/6\, n_2 v_2 \Delta t \Delta S$ bay vào trong bình từ bên ngoài, trong đó $v_2$ là tốc độ của các phân tử khí trong không gian xung quanh. Trong điều kiện cân bằng $n_1 v_1 = n_2 v_2$. Từ đó chúng ta thấy rằng tỷ lệ nồng độ của các phân tử bằng
 
@@ -306,12 +306,12 @@ $$p_1 = 2p.$$
 ◆
 
 ⟦figure⟧
-Cơm. 12, A.
+Hình 12, A.
 
 **F289.** Một thanh cứng có chiều dài $2l$ trượt dọc theo các cạnh của góc vuông, ở giữa có một hạt có khối lượng $m$ được cố định. Tốc độ của điểm $B$ không đổi và bằng $v$ (Hình 12, a). Xác định lực mà hạt tác dụng lên thanh tại thời điểm $\alpha=45°$.
 
 ⟦figure⟧
-Cơm. 12, b.
+Hình 12, b.
 
 ⟦column⟧
 
@@ -334,7 +334,7 @@ Tại thời điểm $\alpha=45°$, tốc độ $v_c$ của hạt hướng dọc
 ⟦folio 57⟧
 
 ⟦figure⟧
-Cơm. thế kỷ 12
+Hình thế kỷ 12
 
 các thành phần có độ lớn giống hệt nhau và bằng $\dfrac{v}{2}$ (Hình 12, c).
 
@@ -359,10 +359,10 @@ F290. Ống chứa một lò xo có gắn một quả cầu, có thể quay quan
 Vẽ đồ thị gần đúng về sự phụ thuộc của độ dịch chuyển của quả bóng dọc theo ống vào vận tốc góc khi nó tăng từ 0 đến một giá trị sao cho $F=5\text{н}$. Mối quan hệ này sẽ thay đổi như thế nào khi vận tốc góc giảm? $l_0 = 2$ xem
 
 ⟦figure⟧
-Cơm. 13.
+Hình 13.
 
 ⟦figure⟧
-Cơm. 14.
+Hình 14.
 
 ⟦column⟧
 
@@ -384,9 +384,9 @@ có thể ở khoảng cách tương ứng với điểm $B_2$ của đồ thị
 
 Posny tại $tg\alpha_1 < m\omega^2 < tg\alpha_2$ quả bóng có thể ở các vị trí tương ứng với các phần của đồ thị $A_1C_1$ và $A_2C_2$.
 
-Cơm. 15
+Hình 15
 
-Cơm. 16.
+Hình 16.
 
 Quả bóng sẽ ở vị trí ổn định nào? Đáp số cho câu hỏi này phụ thuộc vào tốc độ góc quay của ống thay đổi như thế nào. Nếu $\omega$ tăng thì quả bóng không thể đến các vị trí tương ứng với phần $A_2C_2$ của đồ thị mà không đến các vị trí tương ứng với phần $A_1C_1$, phần nào ổn định. Do đó, khi vận tốc góc tăng dần $l$ sẽ ít hơn theo đồ thị trên Hình 16 đường màu đỏ (tại điểm $m\omega^2 = tg\alpha_2$ giá trị $l$ thay đổi đột ngột từ giá trị tương ứng với điểm $C_1$ thành giá trị tương ứng với điểm $C_2$). Khi vận tốc góc tăng, đồ thị của $l$ so với $m\omega^2$ sẽ có dạng đường màu xanh lam. Cần lưu ý rằng nếu ống quay với vận tốc góc sao cho $tg\alpha_1 < m\omega^2 < tg\alpha_2$, thì nếu chỉ có quả bóng bằng 0, nó có thể được di chuyển đến vị trí tương ứng với phần “ngoài hành tinh” của đồ thị, theo đó $l$ sẽ tiếp tục thay đổi khi $\omega$ thay đổi.
 

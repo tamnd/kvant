@@ -53,7 +53,7 @@ Sự cần thiết của điều kiện thứ hai là hiển nhiên. Hãy chứn
 
 1. Các số α và β bao gồm chúng ta. Khi đó, không mất tính tổng quát, chúng ta có thể coi các số α, β, a và b là các số nguyên, vì điều này luôn có thể đạt được
 
-Cơm. 1.
+Hình 1.
 
 lựa chọn các đơn vị quy mô thích hợp. Bây giờ chúng ta giả sử rằng phát biểu của chúng ta không đúng và để xác định sa mạc a, b không chia hết cho α. Sau khi chia hình chữ nhật R thành các ô vuông đơn vị, chúng ta thực hiện tô màu đúng sau đây cho lưới kết quả bằng các màu khác nhau (một màu được gọi là đúng nếu có bất kỳ ô vuông α liền kề nào ở đỉnh
 
@@ -61,13 +61,13 @@ lựa chọn các đơn vị quy mô thích hợp. Bây giờ chúng ta giả s�
 
 dấu tích hoặc đường ngang đại diện cho tất cả các màu α). Cụ thể, chúng ta sẽ tô màu các ô nằm trên đường chéo và các ô từ trên xuống dưới và từ trái sang phải bằng cùng một màu và chúng ta sẽ chọn màu sao cho bất kỳ hai đường chéo nào như vậy, giữa đó có các đường chéo α-1 khác, có cùng màu. Dễ dàng thấy rằng nếu chúng ta quyết định thực hiện phân vùng cần thiết của hình chữ nhật R, thì mỗi màu α đã cho sẽ được biểu thị bằng cùng một số ô vuông đơn vị trong bất kỳ hình chữ nhật thu được nào, và do đó, số ô vuông trong toàn bộ hình chữ nhật R, được sơn bằng một màu nhất định, không phụ thuộc vào việc chọn màu này. (Hình 3 thể hiện đúng màu 4 màu).
 
-Cơm. 3.
+Hình 3.
 
 Gọi $r_a$ và $r_b$ là số dư thu được khi chia a và b cho α. Chia hình chữ nhật R thành ba hình chữ nhật A, B và C có kích thước lần lượt là $r_a \times r_b$, $(a - r_a) \times r_b$ và $a \times (b - r_b)$ sao cho A chiếm góc trên bên trái của hình chữ nhật ban đầu R, B liền kề với A và C nằm ở bên phải của A và B (Hình 4).
 
-Cơm. 4.
+Hình 4.
 
-Cơm. 5.
+Hình 5.
 
 Trong hình chữ nhật B, mỗi màu được biểu thị bằng cùng một số ô vuông, vì α—r_a được chia cho α. Tuyên bố tương tự cũng đúng với hình chữ nhật C. Do đó, theo nhận xét trước, nó cũng phải đúng cho A.
 
@@ -83,13 +83,13 @@ Hãy chứng minh rằng trường hợp hình chữ nhật p có hướng khác
 
 Có thể giả định không mất tính tổng quát rằng các hình chữ nhật $\rho$ có nhiều hướng khác nhau đã được áp dụng cho đáy của hình chữ nhật $R$. Chia lớp hình chữ nhật $\rho$, hệ số trực tiếp $R$, thành các mảnh hình chữ nhật có hướng giống hệt nhau sao cho hình chữ nhật của hai mảnh liền kề có hướng khác nhau.
 
-Cơm. 6.
+Hình 6.
 
 Vì hai mảnh liền kề bất kỳ có chiều cao khác nhau, nên hình chữ nhật của bất kỳ mảnh “thấp” nào đều nằm ở đáy “giếng” (Hình 7), các bức tường của chúng được hình thành bởi các cạnh của các mảnh liền kề (tuy nhiên, một trong các bức tường cũng có thể là cạnh của hình chữ nhật $R$).
 
 Do tính không thể so sánh được của $\alpha$ và $\beta$ mỗi cái, một cái giếng như vậy phải được lấp đầy bằng các hình chữ nhật có cùng hướng với hình chữ nhật của mảnh nằm ở đáy của nó. Ngay sau khi việc lấp đầy này xảy ra, thì ngay lập tức mỗi mảnh “cao” sẽ nằm ở đáy “giếng”, các bức tường của nó sẽ được hình thành bởi các cạnh bên của các khu phức hợp lân cận, bao gồm các hình chữ nhật có hướng khác nhau, được lấp đầy bằng các “đồng” trước đó.
 
-Cơm. 7.
+Hình 7.
 
 thuyền." Sau khi lấp đầy các giếng mới hình thành, chúng ta sẽ có ngay giếng mới (Hình 8), v.v.
 
@@ -99,7 +99,7 @@ Như vậy định lý đã được chứng minh hoàn toàn.
 
 Bây giờ hãy xem hình chữ nhật nào được liệt kê trong các điều kiện có thể chia thành hình chữ nhật $50 \times 60$.
 
-Cơm. 8.
+Hình 8.
 
 a) $20 \times 15$ có thể chia thành các mặt phẳng hình chữ nhật (theo định lý).
 

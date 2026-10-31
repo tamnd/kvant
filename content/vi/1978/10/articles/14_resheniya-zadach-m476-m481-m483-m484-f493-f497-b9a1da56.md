@@ -30,7 +30,7 @@ M476—M481, M483, M484; F493—F497
 M476. a) Chứng minh rằng nếu các đỉnh của n-уzelbnika lồi nằm trong các nút của tờ giấy dán và không có nút nào khác bên trong hoặc trên các cạnh của nó thì n 4.
 b) Giả sử không gian được chia chủ yếu bởi các họ mặt phẳng song song thành các hình lập phương giống hệt nhau. Phần trên của cốc được gọi là nút. Chứng minh rằng nếu tất cả n đỉnh của một khối đa diện lồi đều nằm trong các nút và không có nút nào khác trên các cạnh, biên hoặc bên trong khối đa diện đó thì n<8.
 
-Cơm. 1.
+Hình 1.
 
 M477. Cho một đa thức P(x) có hệ số nguyên sao cho với mỗi tên x thì bất đẳng thức P(x)>x đúng. Hãy xác định dãy {b_n} như sau: b_1=1, b_{k+1}=P(b_k) với k ≥1. Được biết, với bất kỳ tên d nào, một thành viên của dãy {b_n} chia cho d đã được đặt tên. Chứng minh rằng P(x)=x+1.
 
@@ -46,7 +46,7 @@ b) Chứng minh rằng nếu trong ba đội bất kỳ có một tam giác th�
 6) Xây dựng một ví dụ về một giải đấu bảy đội.
 b) Chứng minh rằng nếu trong ba đội bất kỳ có một tam giác thắng ba đội này thì số đội ít nhất là bảy.
 
-Cơm. 2.
+Hình 2.
 
 M479. Có a) sáu, 6) 1000 số văn phòng tối đa sao cho với hai số a và b bất kỳ trong số chúng, tổng a + b chia hết cho hiệu a - b?
 
@@ -119,7 +119,7 @@ gặp một số không vượt quá 99. Đối với số có hai chữ số v�
 
 Cách cấu trúc ánh xạ $f$ tới tập hợp $X$ được thể hiện trong Hình 3: từ mỗi số $x$ có ​​một mũi tên đến số $f(x)$. Từ
 
-Cơm. 3.
+Hình 3.
 
 ⟦folio 44⟧
 
@@ -165,7 +165,7 @@ N. Vasiliev
 
 M484. Với kikh p sucestium vipukly p-uezdnik, cái nào có thể được cắt thành nhiều đa giác đều (không nhất thiết phải giống hệt nhau)?
 
-Cơm. 4.
+Hình 4.
 
 Bây giờ chúng ta sẽ chứng minh rằng đối với $3 \leq n \leq 12$ thì n-quận cũng là sucestium, nhưng đối với $n > 12$ thì không phải vậy.
 
@@ -221,13 +221,13 @@ $5^\circ$ Dễ hiểu là đa giác không thể áp dụng phép chia cho các 
 
 ⟦folio 47⟧
 
-Cơm. 9.
+Hình 9.
 
-Cơm. 10.
+Hình 10.
 
-Cơm. 11.
+Hình 11.
 
-Cơm. 12.
+Hình 12.
 
 sẽ không nhỏ hơn 108° + 2·60° > 180°). Do đó, các đa giác ốp lát chỉ có thể được áp dụng cho các cạnh không liền kề của một hình chữ nhật tốt. Đặt $[AB]$ là cạnh của hình ngũ giác $I$, áp dụng một số đa giác ốp lát khác (Hình 8). Đặt $A_1$ và $B_1$ là hai đầu thứ hai của cạnh đa giác $M$, lần lượt nổi lên từ các đỉnh $A$ và $B$ ($A_1$ và $B_1$ không phải là các đỉnh của hình ngũ giác $I$; có thể là $A_1 = B_1$). Chúng ta hãy biểu thị bằng $C$ điểm giao nhau của $(AA_1)$ với $(BB_1)$. Khi đó $\triangle ACB$ là một hình tam giác đều, bên trong chứa tất cả các đa giác phân vùng nằm phía trên $[AB]$ (nếu $\Pi$ nằm dưới $[AB]$, như trong Hình 8).
 
@@ -243,16 +243,16 @@ $$360^\circ - 180^\circ \left(1 - \frac{2}{k}\right) = 60^\circ n$$
 
 ⟦folio 48⟧
 
-Cơm. 13.
-Cơm. 14,
-Cơm. 15.
-Cơm. 16.
-Cơm. 17.
-Cơm. 18.
-Cơm. 19.
-Cơm. 20.
-Cơm. 21.
-Cơm. 22.
+Hình 13.
+Hình 14,
+Hình 15.
+Hình 16.
+Hình 17.
+Hình 18.
+Hình 19.
+Hình 20.
+Hình 21.
+Hình 22.
 
 $n = 5, k = 3; n = 6, k = 2; n = 9, k = 1$. Không có cái nào phù hợp với chúng tôi (chúng tôi có $k > 4$ và $k \neq 6$). Kết quả mâu thuẫn chứng minh khẳng định $6^\circ$: tất cả các đa giác của phân vùng nằm bên trong $\Delta ABC$ đều là hình tam giác.
 
@@ -274,7 +274,7 @@ S. Mironov
 
 F493. Mặt Trăng có ảnh hưởng gì đến quỹ đạo Trái Đất quay quanh Mặt Trời?
 
-Cơm. 23.
+Hình 23.
 
 Như đã biết, dưới tác dụng của lực hấp dẫn, Mặt Trăng và Trái Đất quay quanh kính thiên văn và điểm $P$ (Hình 23). Tâm Mặt Trăng chuyển động dọc theo đường tròn bán kính $r_\perp \approx 380\ 000$ km, còn tâm Trái Đất chuyển động dọc theo đường tròn bán kính $r_3 \approx 4700$ km. Dưới tác dụng của lực hấp dẫn của Mặt trời, hệ Trái đất-Mặt trăng quay quanh điểm $P$, rồi quay quanh điểm kia. Khi di chuyển xung quanh điểm otectori $P$, Tâm Trái đất có khoảng cách $S = 2\pi r_3 \approx 29\ 500$ km và tốc độ tuyến tính của nó $v = S/T_\perp \approx 12.5$ m/s hơi vượt quá tốc độ kỷ lục của một người ($\approx 10$ m/s). Tốc độ tuyến tính của chuyển động quỹ đạo của điểm $P$ bằng $V \approx 30$ km/s.
 
@@ -282,11 +282,11 @@ Phần quỹ đạo đi qua điểm $P$ trong thời gian tương đối ngắn 
 
 ⟦folio 50⟧
 
-cơm. 25.
+hình 25.
 
 F494. Trong mạch hiển thị ở Hình 26, $R_2=90$ Ohm, $R_3=300$ Ohm, $R_4=60$ Ohm, $L_2=90$ G. Các giá trị của $R_1$ và $L_1$ là bao nhiêu nếu không có dòng điện chạy qua điện kế $G$, bất kể nguồn được kết nối với cực a và b dốc hay moka xen kẽ?
 
-Cơm. 26.
+Hình 26.
 
 F495. Ba chất lỏng không thể thay thế có mật độ $\rho_1$, $\rho_2$ và $\rho_3$ lấp đầy một ống đơn hình kín, tạo thành một vòng, mặt phẳng thẳng đứng.
 
@@ -332,13 +332,13 @@ Nhưng $h_3 = h_1 - h_2$. Sử dụng mối quan hệ này, chúng ta thu đư�
 
 (Hình 27). Một chất lỏng có mật độ $\rho_1$ lấp đầy cung tròn với góc $\alpha_1$, chất lỏng có mật độ $\rho_2$ lấp đầy cung tròn $\alpha_2$. Góc $\alpha$ cần bằng bao nhiêu để bán kính thẳng đứng của vòng vẽ tới ranh giới của các chất lỏng này? Hiệu ứng bề ngoài không thể bỏ qua.
 
-Cơm. 27.
+Hình 27.
 
 F496. Một tia phân kỳ của dây dẫn dương có góc lệch nhỏ $\alpha$ được đưa vào tụ điện hình trụ tại điểm A (Hình 28). Tất cả chúng trong chùm tia đều có năng lượng như nhau. Những vật có vectơ vận tốc tại điểm A hướng vuông góc với AO chuyển động dọc theo một đường tròn bán kính $AO=r_0$, đồng tâm với các bản tụ. Chứng minh rằng chùm tia yun sẽ tập trung tại điểm B bởi makoi, tức là $\widehat{AOB} = \pi/\sqrt{2}$. Xác định chiều dài chùm tia tối đa.
 
-Cơm. 28.
+Hình 28.
 
-Cơm. 29.
+Hình 29.
 
 Từ hình bạn có thể thấy: $h_1 = R \cos \alpha + R \cos (\pi - \alpha - \alpha_1) = R [\cos \alpha - \cos (\alpha + \alpha_1)]$ và $h_2 = R \cos \alpha - R \cos (\alpha_2 - \alpha)$, trong đó $R$ là bán kính của chiếc nhẫn. Thay thế các biểu thức này cho $h_1$ và $h_2$ thành đẳng thức (1), chúng ta tìm thấy $(\rho_1 - \rho_3) [\cos \alpha - \cos \alpha \cos \alpha_1 + \sin \alpha \sin \alpha_1] = (\rho_2 - \rho_3) [\cos \alpha - \cos \alpha_2 \cos \alpha - \sin \alpha_2 \sin \alpha]$ hoặc $(\rho_1 - \rho_3) (1 - \cos \alpha_1 + \sin \alpha_1 \tg \alpha) = (\rho_2 - \rho_3) (1 - \cos \alpha_2 - \sin \alpha_2 \tg \alpha)$. Giải phương trình này, ta tìm được $\tg \alpha = \frac{(\rho_1 - \rho_3) (1 - \cos \alpha_1) - (\rho_2 - \rho_3) (1 - \cos \alpha_2)}{(\rho_1 - \rho_3) \sin \alpha_1 + (\rho_2 - \rho_3) \sin \alpha_2}$.
 

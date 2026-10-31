@@ -46,7 +46,7 @@ Bây giờ hãy xác định độ lớn của góc α. Nhận thấy hoành đ�
 
 *) Số 11 cho năm 1977
 
-Cơm. 1.
+Hình 1.
 
 ⟦folio 43⟧
 

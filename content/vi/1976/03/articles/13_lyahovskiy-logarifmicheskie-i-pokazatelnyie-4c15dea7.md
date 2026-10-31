@@ -68,9 +68,9 @@ $$9\sqrt{x^2-2x}-x=3^2(\sqrt{x^2-2x}-x),
 $$
 đặt $3\sqrt{x^2-2x}-x=t$, chúng ta thu được phương trình $3t^2-7t-6=0$, có nghiệm $t_1=3$ và $t_2=-\frac{2}{3}$. Căn bậc hai không cho lời giải của phương trình ban đầu, vì phạm vi của hàm số mũ là tập hợp tất cả các số dương. Do đó, phương trình ban đầu nằm trong phạm vi các giá trị được chấp nhận của phương trình tương đương chưa biết $3\sqrt{x^2-2x}-x=3^1$, và phương trình sau, dựa trên Định lý 1, cho phương trình vô tỷ
 
-Cơm. 1.
-Cơm. 2.
-Cơm. 3.
+Hình 1.
+Hình 2.
+Hình 3.
 
 $$\sqrt{x^2-2x}=x+1.$$
 
@@ -271,7 +271,7 @@ $$\left\{ \begin{array}{l l} x^2 - x + 2 < 1, \\ \log_0.6 \frac{2x-3}{x+1} < 0, 
 Trong tập hợp các số thực, bất đẳng thức $x^2 - x + 2 < 1$ không có lời giải và bất đẳng thức $x^2 - x + 2 > 1$ thỏa mãn mọi $x$ (chứng minh đi!). Do đó, hệ lời giải không có và bất đẳng thức thứ hai không có
 $$\log_0.6 \frac{2x-3}{x+1} > 0, \text{ т. е. } 0 < \frac{2x-3}{x+1} < 1.$$
 
-Cơm. 5.
+Hình 5.
 
 ⟦folio 57⟧
 

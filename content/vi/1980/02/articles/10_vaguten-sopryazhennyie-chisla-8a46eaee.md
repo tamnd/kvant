@@ -75,7 +75,7 @@ $$|x^2-2y^2| = 1.$$
 
 Bạn có thể dễ dàng tìm thấy một số cặp có $(x; y)$ nhỏ bằng cách chọn lọc: đó là $(1; 2)$, $(3; 2)$, $(7; 5)$, $(17; 12)$, ... (Hình 1). Làm thế nào để tiếp tục bộ này? Có thể viết ra công thức tổng quát cho lời giải này không?
 
-Cơm. 1. Liệu những hyperbol này có thể được mã hóa thông qua vô số nút thắt của tờ giấy ca-rô không?
+Hình 1. Liệu những hyperbol này có thể được mã hóa thông qua vô số nút thắt của tờ giấy ca-rô không?
 
 Số $1+\sqrt{2}$ sẽ giúp chúng ta tìm được đáp số cho những câu hỏi này. Một mẫu cho phép bạn nhận được lời giải $(x; y)$ hoàn toàn mới, biểu thị trong bảng:
 
@@ -144,7 +144,7 @@ $$a_{n+1} - c_{n+1}\sqrt{2} = (a_n - c_n\sqrt{2}) (2 + \sqrt{2}).$$ (9)
 
 Từ đây, bằng quy nạp, thu được (7),
 
-Cơm. 2. a) Chỉ có một cách để đi từ $A$ đến $C$ trong hai lần nhảy: $c_1 = 1$.
+Hình 2. a) Chỉ có một cách để đi từ $A$ đến $C$ trong hai lần nhảy: $c_1 = 1$.
 
 b) Có hai cách để đi từ $A$ đến $A$ trong hai lần nhảy: $a_1 = 2$.
 

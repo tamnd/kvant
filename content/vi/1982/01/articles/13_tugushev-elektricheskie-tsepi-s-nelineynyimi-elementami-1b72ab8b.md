@@ -98,9 +98,9 @@ Ngoài ra (xem hình 3),
 
 $$I_0 = I_1 + I_2,$$
 
-cơm. 3.
+hình 3.
 
-Cơm. 4.
+Hình 4.
 
 trong đó $I_1$ và $I_2$ lần lượt là dòng điện trong đèn thứ nhất và đèn thứ hai.
 

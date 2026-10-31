@@ -46,17 +46,17 @@ BÀI VIẾT NÀY NÓI CÁCH SỬ DỤNG ống hút và vòng cao su nhỏ để 
 
 ⟦figure⟧
 
-Cơm. 2. Hình vuông nghịch ngợm
+Hình 2. Hình vuông nghịch ngợm
 
 hình vuông hay tứ giác này là hình vuông nghịch. Các nhà toán học gọi những hình dạng dễ dàng thay đổi hình dạng là có thể uốn cong được. Vì vậy, một hình tam giác gồm ba đoạn là cứng - không linh hoạt, nhưng hình vuông và bất kỳ hình tứ giác nào khác, hình ngũ giác và hình lục giác, v.v. - có thể uốn cong. Đây là một thực tế được nhiều người biết đến và chúng tôi có thể xác minh nó với sự trợ giúp của ống và dây cao su. Tại sao không thu thập một cái gì đó không gian bây giờ? Và chúng tôi dễ dàng lắp ráp khối đa diện đơn giản nhất từ ​​​​các ống - một hình chóp tam giác (Hình 3).
 
 ⟦figure⟧
 
-Cơm. 1. Tam giác đều
+Hình 1. Tam giác đều
 
 Bài viết này (với những thay đổi nhỏ) được in lại từ tạp chí «Kvant» số 3, 2018. Ở đó nó có tên là “Splashers and Polyhedrons”.
 
-Cơm. 3. Khung kim tự tháp
+Hình 3. Khung kim tự tháp
 
 ⟦folio 30⟧
 
@@ -64,17 +64,17 @@ KVAN T 2018/№2
 
 ⟦figure⟧
 
-Cơm. 4. Một kim tự tháp thực sự
+Hình 4. Một kim tự tháp thực sự
 
 Đúng, trong toán học, khối đa diện là một vật thể khác - một khung cùng với các mặt đa giác (Hình 4). Trong trường hợp này, các đoạn chung của các mặt liền kề được gọi là các cạnh - chúng tương ứng với các ống của chúng ta. Và những điểm mà một số cạnh hội tụ được gọi là các đỉnh - chúng ta có thể nói rằng đây là những sợi dây cao su của chúng ta. Đây là hai khối đa diện đáng chú ý hơn: một khối bát diện được ghép từ 12 ống, nó có 8 mặt, và một khối đa diện được ghép từ 30 ống, nó có 20 mặt (Hình 5). Cả ba khối đa diện lắp ráp đều có các mặt hình tam giác và các khối đa diện này không linh hoạt. Bây giờ chúng ta hãy thử lắp ráp một khối lập phương từ các ống. Hãy nhìn vào Hình 6: khối lập phương này hoàn toàn không giữ được hình dạng của nó - nó uốn cong, uốn cong một cách cực kỳ quái dị. Chúng tôi gọi nó là khối lập phương "lỏng lẻo". Và những trò đùa sang một bên, nó phát sinh ở đây
 
-Cơm. 5. Hình bát diện và hình hai mươi mặt đều
+Hình 5. Hình bát diện và hình hai mươi mặt đều
 
 ⟦column⟧
 
 ⟦figure⟧
 
-Cơm. 6. Khối lập phương “lỏng lẻo”
+Hình 6. Khối lập phương “lỏng lẻo”
 
 một câu hỏi toán học nghiêm túc: khối đa diện nào làm từ ống có thể uốn cong được và khối nào không? Tất nhiên, các ống và dây cao su có thể gợi ý điều gì đó, nhưng có quá nhiều khối đa diện khác nhau để có thể tin tưởng vào những manh mối này nếu không có bằng chứng xác thực. Chúng tôi đã có một số ý tưởng nhưng chúng tôi không chắc chắn về chúng. May mắn thay, hiện nay có nhiều nơi trên Internet nơi bạn có thể đạt điểm đáp số cho một câu hỏi toán khó. Nổi tiếng nhất trong số đó là blog của nhà toán học chuyên nghiệp MathOverflow. Nhiều vấn đề liên quan đến nghiên cứu toán học hiện đại, cũng như các vấn đề toán học chưa được giải quyết, sẽ được thảo luận ở đó, nhưng những câu hỏi không chuyên môn hoặc dạng bài tập về nhà hoàn toàn không được hoan nghênh. Vì vậy, chúng tôi đã đến đó một cách thận trọng. Chúng tôi đã hỏi: nếu chúng ta lấy một khối đa diện lồi, tức là một khối đa diện không có chỗ lõm (Hình 7), và loại bỏ tất cả các mặt khỏi nó và chỉ để lại các cạnh (khi đó bạn sẽ nhận được một cái gì đó giống như khối đa diện của chúng ta từ
 
@@ -90,13 +90,13 @@ SHK O LNIK O V
 
 ⟦figure⟧
 
-Cơm. 7. Khối đa diện lồi không có hốc, nhưng khối đa diện không lồi có hốc
+Hình 7. Khối đa diện lồi không có hốc, nhưng khối đa diện không lồi có hốc
 
 ống), thì trong trường hợp nào nó sẽ uốn cong được và trong trường hợp nào thì không? Chúng tôi rất vui vì đáp số đã được nhận và khá nhanh chóng. Như chúng ta mong đợi, nếu một khối đa diện có ít nhất một mặt không phải hình tam giác thì nó sẽ linh hoạt và nếu tất cả các mặt đều là hình tam giác thì nó sẽ cứng. Cuộc thảo luận về câu hỏi của chúng tôi trên MathOverflow rất $интересным.^{1}$ Lúc đầu người ta nói rằng định lý Cauchy ngụ ý tính không linh hoạt của một khối đa diện lồi hình ống. Sau đó, $Дж.О’Рурк^{2}$ đưa ra một ví dụ về một khối đa diện có mặt hình vuông, theo ông, là không linh hoạt (Hình 8). Chúng tôi lắp ráp khối đa diện này từ các ống (Hình 9),
 
 ⟦figure⟧
 
-Cơm. 8. Khối đa diện O'Rourke
+Hình 8. Khối đa diện O'Rourke
 
 1 Nếu bạn biết tiếng Anh, bạn có thể xem cuộc thảo luận này bằng cách nhập vào Google: “Độ cứng của khối đa diện lồi trong R3 có các mặt $removed».^{2}$ Trong MathOverflow, mỗi người tham gia nhận được điểm cho các câu hỏi phổ biến và phổ biến đáp số. Trong số 64.000 người tham gia, O'Rourke đứng ở vị trí thứ ba về mức độ phổ biến, với 80.000 điểm.
 
@@ -104,6 +104,6 @@ Cơm. 8. Khối đa diện O'Rourke
 
 ⟦figure⟧
 
-Cơm. 9. Chúng tôi bẻ cong khối đa diện O'Rourke
+Hình 9. Chúng tôi bẻ cong khối đa diện O'Rourke
 
 và hóa ra O’Rourke đã sai - khối đa diện cong một cách hoàn hảo. Và sau đó A. Petrunin đã đưa ra một bằng chứng đơn giản về khả năng uốn cong của một khối đa diện hình ống có ít nhất một mặt không phải hình tam giác. Trong chứng minh của mình, ông đã sử dụng định lý của A.D. Aleksandrov. Đây là cách chúng tôi nhận được đáp số cho câu hỏi của mình. Các định lý của Cauchy và Aleksandrov được đề cập ở đây là những định lý nổi tiếng nhất trong lý thuyết khối đa diện. Công thức của họ khá đơn giản và bằng chứng có thể tiếp cận được với các học sinh lớn tuổi hơn. Chúng tôi khuyên bạn nên đọc cuốn sách của N.P. Dolbilin “Những viên ngọc trai của lý thuyết khối đa diện” (Moscow: MTsNMO, 2012), dành riêng cho việc chứng minh các định lý này và dành cho học sinh. Một vài lời kết luận. Một câu hỏi cổ điển quan trọng là câu hỏi về độ cứng và khả năng uốn cong của khối đa diện thực - khối đa diện có mặt. Có một lý thuyết hay với lịch sử lâu dài và những khám phá bất ngờ, một phần học sinh có thể tiếp cận được. Trước hết, chúng tôi khuyên bạn nên tìm trên Internet bài giảng nổi tiếng “Các khối đa diện linh hoạt và ống thổi”, do A. Gaifullin trình bày cách đây một năm tại Lễ hội Toán học XXVIII ở Moscow.

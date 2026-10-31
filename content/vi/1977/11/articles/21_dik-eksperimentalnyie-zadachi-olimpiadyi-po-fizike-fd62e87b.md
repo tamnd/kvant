@@ -110,9 +110,9 @@ Bài toán 1. Xác định chỉ số tiền khử chất lỏng càng ít càng
 
 Thiết bị: 1) bình đựng chất lỏng, 2) bình thủy tinh,
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
 ⟦folio 71⟧
 

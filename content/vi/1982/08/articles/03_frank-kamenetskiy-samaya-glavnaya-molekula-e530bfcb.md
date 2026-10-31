@@ -124,8 +124,8 @@ Rốt cuộc, nếu chúng ta tách hai chuỗi, và sau đó trên mỗi chuỗ
 
 Người ta có thể tưởng tượng Delbrück đã vui mừng thế nào khi nhận được một lá thư từ Watson có chứa lời giải bí ẩn về sự nhân đôi của gen. Ông tin tưởng ngay lập tức và vô điều kiện vào mô hình Watson-Crick. Dưới ảnh hưởng của lá thư của Watson, anh ấy đã viết những lời mà chúng tôi đã đưa ra như một lời đề tặng. Tất nhiên, sau đó ông cảm thấy biết ơn đặc biệt đối với Bohr vì đã có lúc ông đã truyền cảm hứng cho ông nghiên cứu sinh học. Không, không có định luật vật lý mới nào được phát hiện trong sinh học. Nhưng vấn đề trọng tâm, vấn đề về cấu trúc vật lý của gen, đã được giải quyết.
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
-Cơm. 3.
+Hình 3.

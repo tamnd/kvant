@@ -84,7 +84,7 @@ $$x = |x-y|^2 + y.$$
 
 ⟦folio 48⟧
 
-Cơm. 1.
+Hình 1.
 
 5. Hai đường thẳng tứ giác đều bằng nhau được đặt trong không gian sao cho các đáy của chúng trùng nhau và các đỉnh của chúng nằm ở các cạnh đối diện của mặt phẳng chung của đáy. Biết cạnh đáy bằng $a$, góc phẳng ở đỉnh bằng $\alpha$. Tìm bán kính của quả cầu nội tiếp trong hình lục giác được tạo bởi những đường thẳng này.
 

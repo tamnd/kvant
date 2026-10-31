@@ -49,7 +49,7 @@ S. Sefibekov
 
 4. Các đường chéo của hình thang ABCD cắt nhau tại điểm O. Qua trung điểm M
 
-Cơm. 1
+Hình 1
 
 Trên cạnh CD có đường thẳng MO cắt cạnh AB tại điểm N. Gọi K là giao điểm của đường thẳng AM với đường chéo BD. Được biết, (BM) || (NK). Tìm mối quan hệ |AD|:|BC| (AD và BC là hai đáy của hình thang).
 

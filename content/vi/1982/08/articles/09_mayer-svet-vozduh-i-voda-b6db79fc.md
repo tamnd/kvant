@@ -48,7 +48,7 @@ Sau khi thiết bị được tạo ra, hãy tiến hành thử nghiệm. Hạ t
 
 Nếu bạn đã chế tạo thiết bị và quan sát thấy hiện tượng này thì hãy thực hiện những thay đổi đơn giản nhất. Dùng bút chì đánh dấu lên bề mặt
 
-Cơm. 1.
+Hình 1.
 
 ⟦folio 29⟧
 
@@ -70,7 +70,7 @@ Có lẽ ánh sáng đang bị phản xạ từ một lớp không khí trên b�
 
 Có chuyện gì vậy? Lặp lại lần nữa. Bây giờ, trước khi lũ lụt
 
-Cơm. 2.
+Hình 2.
 
 đổ nước sôi vào lọ, nhúng ngón tay vào nước lạnh gần thành bình lớn. Sau khi đổ nước sôi vào lọ, hãy di chuyển ngón tay của bạn lại gần lọ - bạn sẽ cảm thấy nhiệt độ của nước tăng dần. Tiếp tục quan sát, và bạn sẽ tin rằng sự phản xạ toàn phần của ánh sáng sẽ biến mất khi mọi thứ chỉ theo hướng xuyên tâm của bình rộng nóng lên gần bằng nhiệt độ.
 

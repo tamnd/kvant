@@ -43,6 +43,6 @@ DOI: https://doi.org/10.4213/kvant20200904
 
 ⟦figure⟧
 
-Cơm. 2
+Hình 2
 
 Theo đó, cần phải dựng một đường đứt nét $B_{1} KC_{1} MA_{1} N$, các liên kết kế tiếp của chúng lần lượt song song với AB, AC, BC, AB và AC. Khi đó diện tích của hình bình hành $AC_{1} KB_{1}$ bằng diện tích của hình bình hành $CKC_{1} M$ (chúng có một cạnh chung CK và các đường cao của nó bằng nhau), và diện tích $CKC_{1} M$ lần lượt bằng diện tích của hình bình hành $BC_{1} MA_{1}$ (chúng có một cạnh chung $C_{1} M$ và các đường cao của nó bằng nhau). Từ thực tế là $AC_{1} KB_{1}$ và $BC_{1} MA_{1}$ có kích thước bằng nhau, suy ra diện tích của các hình tam giác $AB_{1} C_{1}$ và $BC_{1} A_{1}$ bằng nhau. Để chứng minh rằng tam giác $CA_{1} B_{1}$ có cùng diện tích, chỉ cần thực hiện một lập luận tương tự là đủ. Nhưng trước tiên chúng ta cần chứng minh rằng $CB_{1} NA_{1}$ là hình bình hành. Điều này không khó, vì $NA_{1} B_{1} C$ theo cách xây dựng, và sự bình đẳng của các bên này suy ra từ thực tế là $AB_{1} C_{1} K MC$. Trong bài toán tiếp theo, có một trường hợp khác có kích thước tiêu chuẩn bằng nhau (và bạn cần xem nó trước!). Nhưng trên hết, nó minh họa một ý tưởng khác đã thu hút Proizvolov - việc sử dụng sự thống nhất và giao nhau của các hình.

@@ -67,15 +67,15 @@ Hình 4 cho thấy mô hình hình học của bài toán sau đây (văn bản 
 
 Bài toán 1. Lò hấp bắt đầu được chất tải bởi 4 cần cẩu có công suất bằng nhau. (Hãy để đoạn OA tạo ra--
 
-Cơm. 2. Bảng giá vé taxi.
+Hình 2. Bảng giá vé taxi.
 
-Cơm. 3. Đồ thị chiều dài của cuống nến.
+Hình 3. Đồ thị chiều dài của cuống nến.
 
 chiều dài sóng - khối lượng toàn bộ công việc, OA' - lịch làm việc ước tính của 4 cần cẩu này.) Sau khi làm việc được 2 giờ (OB = AB' = 2 giờ), chúng được nối thêm 2 cần cẩu có công suất thấp hơn (đường gãy AB'C - đồ thị công “ngược” của hai cần trục này so với hệ trục AA' và AO; tỷ lệ trên các trục này giống như trên trục Ox và Oy) và sau đó quá trình cắt kết thúc. trong 3 giờ (BE=3 giờ; DE và DE' - khối lượng công do hai cần cẩu tương ứng thực hiện khi chúng cùng làm việc).
 
 Nếu tất cả các cần cẩu bắt đầu làm việc cùng một lúc (lịch trình mới cho hai cần cẩu là AF trực tiếp, với AF || B'C) thì việc cắt sẽ hoàn thành trong 4,5 giờ (đoạn ON = 4,5 giờ).
 
-Cơm. 4. Lịch vận hành cầu trục.
+Hình 4. Lịch vận hành cầu trục.
 
 ⟦folio 50⟧
 
@@ -101,7 +101,7 @@ Lời giải. Chúng ta sẽ giải bài toán bằng phần vàng trong hợp k
 
 *) Xem N. P. Antonov, M. Ya. Vygodsky, V. V. Nikitin, A. I. Sanik, “Bộ sưu tập bài toán về toán tiểu học”, M., “Nauka”, 1960, bài toán Số 462.
 
-Cơm. 5. Đồ thị khối lượng vàng trong hợp kim số 3.
+Hình 5. Đồ thị khối lượng vàng trong hợp kim số 3.
 
 mẫu số, ta được phân số $$\frac{32}{80}, \frac{24}{80}, \frac{25}{80}.$$
 
@@ -141,11 +141,11 @@ Giải nó, chúng ta tìm thấy $x=20$ (phút). Trong thời gian này, ngư�
 
 *) Xem bài viết của N. N. Kolesikov “Bài thi viết môn toán tại MSU mexmate năm 1970”, «Kvant» Số 3, 1971, trang 45-50.
 
-Cơm. 7. Lịch trình di chuyển của người đưa tin bắt đầu cùng lúc.
+Hình 7. Lịch trình di chuyển của người đưa tin bắt đầu cùng lúc.
 
 ⟦folio 53⟧
 
-Cơm. 8. Đồ thị chuyển động của các tay đua xuất phát từ một điểm.
+Hình 8. Đồ thị chuyển động của các tay đua xuất phát từ một điểm.
 
 đường II và điểm 3 x trên trục Ox. Đường thẳng 1 B - đồ thị chuyển động của tay đua B (mỗi lần vượt khi di chuyển vòng tròn và khi vượt vượt người bị vượt một vòng).
 

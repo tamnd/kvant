@@ -89,11 +89,11 @@ a) bảng các hành tinh trong Hệ Mặt trời (tên, khoảng cách trung b�
 + b) bảng tuần hoàn (ký hiệu, tên, số hiệu nguyên tử, khối lượng nguyên tử của từng nguyên tố).
 Sử dụng các bảng này
 
-Cơm. 4.
+Hình 4.
 
-Cơm. 5.
+Hình 5.
 
-Cơm. 6.
+Hình 6.
 
 cài đặt chương trình cho lời giải sau bài toán:
 

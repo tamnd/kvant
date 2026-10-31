@@ -222,7 +222,7 @@ Lý luận trên đưa ra một cách cụ thể để xây dựng cách sắp x
 
 **M272. Cho hai đường tròn bán kính $R$ và $r$, tiếp tuyến ngoài. Xây dựng các ranh giới ABCD khác nhau sao cho mỗi vòng tròn tiếp xúc với các cạnh bên chung và cùng một vùng tính từ đáy của các ranh giới. Tìm độ dài cạnh AB ngắn nhất có thể.**
 
-Cơm. 4.
+Hình 4.
 
 Không mất tính tổng quát, chúng ta có thể giả sử rằng $R>r$ (nếu $R=r$ thì hình thang ABCD trở thành hình chữ nhật có cạnh AB bằng $2(R+r)=4r$). Tâm của hình tròn có bán kính $R$ được ký hiệu là $O_1$ và tâm của hình tròn có bán kính $r$ được ký hiệu là $O_2$. Ngoài ra, chúng ta giả sử đường tròn $O_1$ tiếp xúc với đáy AD và đường tròn $O_2$ tiếp xúc với đáy BC. Đặt $PQ$ là tiếp tuyến chung ngoài của các đường tròn này (điểm $P$ nằm trên đường tròn $O_1$ và điểm $Q$ nằm trên đường tròn $O_2$, xem Hình 1). Dễ dàng tính được độ dài của đoạn $PQ$ bằng $2\sqrt{Rr}$.
 
@@ -384,7 +384,7 @@ F282. Tên là tần số dao động “đối xứng” của hệ như trên 
 
 Trước hết, hãy tìm lực tác dụng lên mỗi quả bóng khi nó được trộn từ vị trí cân bằng (Hình 12, 6). Chúng ta hãy biểu thị khoảng cách ban đầu của quả bóng đến tâm của hệ (điểm O) là $x_0$, khoảng cách mới là $x$, độ dịch chuyển của quả bóng so với vị trí cân bằng là $\Delta x$, chiều dài ban đầu của lò xo là $l_0$, chiều dài của nó ở trạng thái giãn là $l$ và sự thay đổi độ dài của lò xo là $\Delta l$.
 
-Cơm. 12.
+Hình 12.
 
 Như có thể thấy trong Hình 12, 6,
 $$l_0 = 2x_0 \cos 30^\circ \text{ и } l = 2x \cos 30^\circ.$$

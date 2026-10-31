@@ -56,7 +56,7 @@ Bài tập
 
 ⟦folio 37⟧
 
-Cơm. 1.
+Hình 1.
 Các mục đang được đọc có thể được chia thành nhiều phần theo cách có thể áp dụng quy tắc tích để đếm số phần tử trong mỗi phần này. Cộng các số kết quả, chúng ta tìm thấy lời giải trong số này bài toán.
 
 Bài toán 3. Có bao nhiêu hoán vị của các số 0, 1, 2,..., 9, trong đó số 0 chiếm một trong sáu vị trí đầu tiên và số 1 chiếm một trong sáu vị trí cuối cùng (Hình 1)?
@@ -103,7 +103,7 @@ Bài toán 5. Một số cạnh [AB], [BC], [CD], [DA] và đường chéo [AC] 
 
 Lời giải. Nếu bạn không chú ý đến chuyển động thì hãy quyết định phân bổ năm màu trên năm đoạn. Có 5 cách phân phối như vậy, rất tiện lợi! Điều kiện bài toán phá vỡ 5 điều này! phân phối thành các nhóm, mỗi nhóm bao gồm tất cả các cách sắp xếp màu sắc, màu sắc nhất định, màu sắc trung tính. Số lượng các nhóm này đóng vai trò là đáp số bài toán. Chúng ta sẽ tìm thấy, như trước đây,
 
-**Cơm. 2.**
+**Hình 2.**
 
 ⟦folio 39⟧
 

@@ -59,9 +59,9 @@ Bây giờ chúng ta hãy áp dụng nguyên lý Cavalieri để rút ra công t
 
 **) Đây là điều kiện đầu tiên trong số các điều kiện bổ sung được đề cập ở trên, có thể được hiểu như một tiên đề về thể tích của một khối đơn vị, hoặc như một định nghĩa về thể tích này.
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
 a) Dấu và hình trụ tùy ý. Đầu tiên hãy xem xét một hình chữ nhật song song với các biến thể bằng 1, 1 và $h$ (h có thể là số hữu tỷ hoặc số vô tỷ). Đặt (Hình 2) song song với $AC_1$ $AB = AA_1 = 1$, $AD = h$. Hãy xem xét một khối lập phương $MP_1$, đáy của nó nằm trên cùng một mặt phẳng $\alpha$ mà trên đó có đáy song song $ABCD$. Dễ dàng nhận thấy diện tích mặt cắt ngang $S_1$ và $S$ của hình lập phương song song và hình lập phương với mặt phẳng bất kỳ song song với mặt phẳng $\alpha$ đều có tỉ số không đổi $h$, tức là $S_1 = h \cdot S$. Vì vậy, theo nguyên lý Cavalieri
 $$V(AC_1) = h \cdot V(MP_1) = h \cdot 1 = h^*$$.
@@ -92,7 +92,7 @@ Bây giờ giả sử một tham số tùy ý $F$ (hoặc hình nón) có diện
 
 **) Ở đây chúng tôi sử dụng định nghĩa cuối cùng trong số các định nghĩa bổ sung (tiên đề): thể tích của một tập hợp nhiều viên phấn (trong trường hợp này là một khối lập phương) bằng tổng thể tích của những viên phấn này (paramid). Sự bằng nhau về thể tích của các vật bằng nhau (paramid) dễ dàng tuân theo nguyên lý Cavalieri.
 
-Cơm. 3.
+Hình 3.
 
 đáy $S$ và chiều cao $h$. Chúng ta hãy định vị tham số này sao cho đáy của nó nằm trong cùng một mặt phẳng $\alpha$ trong đó đáy của tham số tứ giác $A_1ABCD$ vừa xét nằm (chúng ta sẽ ký hiệu là $F_1$ cho ngắn gọn). Chúng ta có thể giả sử rằng các đỉnh của các tham số này nằm trên một cạnh của mặt phẳng $\alpha$. Khi đó, sử dụng định lý về tiết diện các tham số bởi một mặt phẳng song song với đáy, dễ dàng suy ra rằng diện tích các phần của cả hai vật thể bởi một mặt phẳng song song với mặt phẳng $\alpha$ sẽ liên hệ với diện tích các đáy của chúng. Vì vậy có thể áp dụng nguyên lý Cavalieri:
 

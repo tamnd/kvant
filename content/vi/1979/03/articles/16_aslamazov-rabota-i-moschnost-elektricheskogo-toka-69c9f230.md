@@ -188,7 +188,7 @@ $$U = \frac{E_{\text{инд}}}{I R} + I R,$$
 
 trong đó $E_{\text{инд}}$ là sức điện động cảm ứng, xảy ra do toàn bộ tác dụng quay của cuộn dây trong từ trường (dấu “ploss” trong công thức được chọn theo quy tắc Lenz). Theo định luật cảm ứng điện từ, $E_{\text{инд}}$ tỷ lệ thuận với tốc độ quay. Do đó, các giá trị dòng điện khác nhau tương ứng với các giá trị EMF khác nhau và theo đó, tốc độ quay của động cơ khác nhau: động cơ có thể phát triển cùng một công suất cơ học bằng cách nâng từ từ một tải nặng hoặc nhanh chóng nâng một tải nhẹ.
 
-Cơm. 3.
+Hình 3.
 
 Bài toán 6. Một động cơ nối với số bảy có điện áp $U = 220$ V, với mức tiêu thụ dòng điện là $I_1 = 10$ A sẽ tạo ra công suất hữu ích nào? Được biết, khi phần ứng bị đóng băng hoàn toàn qua cuộn dây có dòng điện cao $I_2 = 40$ A.
 

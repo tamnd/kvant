@@ -53,11 +53,11 @@ Tập chuyển tiếp trên mặt phẳng
 
 Tập $H$ được gọi là bắc cầu nếu bất kỳ điểm nào của tập này có thể được dịch sang bất kỳ điểm nào khác bằng cách tự kết hợp tập $H$. Hình 1 thể hiện một hình vuông từ đó các hình tứ giác là các tam giác vuông cân đã được cắt. Tập hợp tất cả các đỉnh của tập kết quả nằm trên mặt phẳng thì có tập bị chặn; theo định nghĩa, nó chứa chính xác một số vòng tròn. Khi đó cũng tồn tại một đường tròn có bán kính nhỏ nhất,
 
-Cơm. 1.
+Hình 1.
 
 ⟦folio 5⟧
 
-Cơm. 2.
+Hình 2.
 chứa $H$. Đặt $K$ là một đường tròn nhỏ nhất, $O$ là tâm của nó.
 
 Chúng ta lấy hai điểm tùy ý $A, B$ đặt $H$. Hãy để chúng tôi chứng minh điều đó $|AO| = |BO|$. Từ đây suy ra $H$ nằm trên một đường tròn nào đó (dễ dàng nhận thấy đường tròn này bao quanh đường tròn $K$).
@@ -81,7 +81,7 @@ Chứng minh rằng nếu một tập bắc cầu chứa $2k + 1$ điểm ($k > 
 
 Có bộ chuyển tiếp không giới hạn?
 
-Cơm. 3.
+Hình 3.
 Tất nhiên, có: ví dụ, toàn bộ mặt phẳng và bất kỳ đường thẳng nào trên đó. Hãy thử đưa ra ít nhất một ví dụ nữa.
 
 Chúng ta hãy đồng ý gọi một đa giác, tập hợp tất cả các đỉnh của nó là đa giác bắc cầu, là đa giác bắc cầu. Rõ ràng, mọi đa giác đều đều có tính bắc cầu. Tuy nhiên, đa giác đều $P$ có tính chất sâu hơn, có thể gọi là tính bắc cầu mạnh: nếu $A_1, A_2$ là hai đỉnh tùy ý và $l_1, l_2$ là các cạnh thẳng với các đỉnh này (Hình 2), thì có sự tự căn chỉnh $f \in \Gamma(P)$ thỏa mãn các điều kiện: $f(A_1) = A_2, f(l_1) = l_2$.
@@ -173,7 +173,7 @@ Gợi ý. Tìm độ dài các cạnh của các hình tam giác trong Hình 6 v
 
 16. Tính chiều cao $h$ của một paramid đều, đáy của nó là mặt của một khối đa diện đều và đỉnh trùng với tâm $O$ của một hình cầu ngoại tiếp khối đa diện. Chứng minh rằng hình cầu có bán kính $h$
 
-Cơm. 6.
+Hình 6.
 với tâm $O$ được chứa trong một khối đa diện đều và chạm vào tất cả các mặt của nó (hình cầu nội tiếp).
 
 17. Tính thể tích của mỗi khối đa diện đều khi biết $a$ các cạnh của nó.
@@ -188,4 +188,4 @@ Hình 7 thể hiện một khối lập phương - một khối đa diện có c
 
 Trong cuộc thảo luận của chúng ta về các khối đa diện đều, câu hỏi về sự tồn tại của chúng vẫn chưa được giải quyết. Rốt cuộc, tất cả các phép tính đều được thực hiện với giả định rằng tồn tại một khối đa diện đều có các mặt là $n$-giác đều và mỗi đỉnh có các mặt $k$ liền kề với nó. Kết thúc-
 
-Cơm. 7.
+Hình 7.

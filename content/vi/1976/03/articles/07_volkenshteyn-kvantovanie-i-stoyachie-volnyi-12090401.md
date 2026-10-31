@@ -158,7 +158,7 @@ tỷ lệ giữa giá trị năng lượng với số lượng tử $n$. Các m�
 
 Trong lời giải $E_0=0$ không nghiêm ngặt (Hình 46). Từ điều kiện lượng tử hóa (6), suy ra khả năng xảy ra sai lệch cực đại so với vị trí
 
-Cơm. 4a.
+Hình 4a.
 
 cân bằng là rời rạc:
 
@@ -185,7 +185,7 @@ Thế năng của electron do nó tương tác với hạt nhân bằng
 
 $$\Pi = -\frac{e^2}{r},$$
 
-cơm. 5a.
+hình 5a.
 
 trong đó $e$ là giá trị điện tích của electron và $r$ là bán kính của hình cầu có khả năng xuất hiện nhiều nhất của một electron trong nguyên tử (tức là bán kính của hình cầu có mật độ cao nhất của đám mây điện tử).
 
@@ -256,7 +256,7 @@ Những chất này hấp thụ ánh sáng ở vùng cực tím của quang ph�
 
 Chúng ta hãy tính bước sóng λ bằng mô hình hộp thế năng.
 
-Cơm. 6.
+Hình 6.
 
 Chiều rộng của hộp $L$ bằng chiều dài của chuỗi liên kết liên hợp, tức là $L = Nl$, trong đó $N$ là số lượng liên kết liên hợp, $l$ là độ dài của một liên kết chuỗi (liên kết $C - C = C$) (Hình 6). Thềm hấp thụ bước sóng dài nhất tương ứng với sự chuyển đổi của một electron từ mức năng lượng bị chiếm giữ cuối cùng sang mức năng lượng tự do đầu tiên. Số lượng electron pi trong phân tử có liên kết đôi $N$ là $2N$. Theo các quy luật của cơ học lượng tử (nguyên lý Pauli), hai electron (có spin phản song song, tức là động lượng vốn có trong một electron) có thể nằm ở mỗi mức năng lượng. Do đó, $2N$ electron chiếm mức $N$ và ngưỡng hấp thụ bước sóng dài nhất tương ứng với sự chuyển đổi của electron từ mức $N$ chiếm giữ sang mức $N + 1$, tức là mức tự do. Theo công thức (1), sự chuyển tiếp này tương ứng với tần số của sóng ánh sáng
 

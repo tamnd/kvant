@@ -65,7 +65,7 @@ Sự quan tâm của Lebesgue đến các bề mặt có thể phát triển đ�
 Tất nhiên, cùng với các mặt phẳng tiếp tuyến, bạn có thể thử
 
 ⟦figure⟧
-Cơm. 3.
+Hình 3.
 
 tính diện tích bề mặt theo một cách khác, bằng cách ghi các khối đa diện vào đó và di chuyển đến giới hạn khi tất cả kích thước của các mặt đều giảm. Nhưng nhà toán học người Đức G. Schwartz đã chứng minh rằng bằng cách này không thể tìm ra diện tích của hình trụ thông thường nhất - một khối đa diện có các mặt nhỏ tùy ý và có diện tích lớn tùy ý có thể được ghi vào đó. Một khối đa diện như vậy bao gồm toàn bộ các nếp gấp nhỏ.
 

@@ -69,7 +69,7 @@ Do đó, “bản ghi” cường độ của sóng thu được chứa thông t
 
 ⟦folio 11⟧
 
-Cơm. 1.
+Hình 1.
 về nguyên tắc, các dao động có thể xác định pha của sóng (tín hiệu) thứ hai bị vật thể tán xạ. Như giáo sư V.A. Fabrikant nói một cách hình tượng, “sự giao thoa chuyển sự tương ứng pha của sóng ánh sáng sang ngôn ngữ cường độ, khiến người ta có thể ghi lại chúng trên một tấm ảnh”.
 Phân tích giao thoa cho phép Gabor chứng minh rằng biên độ và pha của sóng đơn sắc bị tán xạ bởi một vật thể có thể được phát hiện bằng hình ảnh nếu sóng này tích hợp với sóng đơn sắc tham chiếu của cùng một hạt. Một tấm ảnh có mẫu giao thoa được ghi trên đó được gọi là ảnh ba chiều. Dịch theo nghĩa đen từ tiếng Hy Lạp, điều này có nghĩa là "bản ghi đầy đủ" - bản ghi cấu trúc không gian của sóng được phản ánh bởi một vật thể.
 Sóng ánh sáng bị tán xạ bởi bất kỳ vật thể nào có thể được coi là một tập hợp các sóng thứ cấp, nguồn của chúng là các điểm riêng lẻ của vật thể đó. Do đó, để tạo thành hình ba chiều của một vật thể phức tạp, cần phải hiểu chi tiết cách thu được hình ba chiều quá trình - hình ba chiều của một điểm.
@@ -77,7 +77,7 @@ Sóng ánh sáng bị tán xạ bởi bất kỳ vật thể nào có thể đư
 Hình ba chiều đơn giản nhất là cách tử vùng Fresnel
 Hình 3 cho thấy hình ảnh về sự chồng chất của hai sóng đơn sắc của cùng một hạt: sóng cầu phát ra từ điểm S và sóng tham chiếu phẳng. Các vòng tròn và đường thẳng màu đen biểu diễn vị trí các mặt sóng của sóng cầu và sóng phẳng sau thời gian T bằng chu kỳ
 
-Cơm. 2.
+Hình 2.
 do dự. Các đường tròn và đường thẳng nét đứt biểu thị vị trí của các mặt sóng sau một thời gian bằng T/2. (Chính xác hơn, những đường này cố định phần mặt trước sóng bằng mặt phẳng vẽ.)
 
 Tại các điểm giao nhau của đường tròn liền và đường liền, cũng như đường tròn nét đứt và đường đứt nét, điều kiện để có cực đại giao thoa thỏa mãn:
@@ -102,7 +102,7 @@ trong đó $a$ là khoảng cách từ điểm $S$ đến tấm ảnh, $\lambda$
 
 ⟦folio 12⟧
 
-Cơm. 3.
+Hình 3.
 
 $k$ — số sê-ri của kolyz; chúng tôi đã bỏ qua độ lớn của $k^2\lambda^2$ so với $2ka\lambda$ kể từ $a \gg k\lambda$.
 
@@ -122,7 +122,7 @@ Bất kỳ phần nhỏ nào của tấm vùng có thể được coi là cách 
 
 ⟦folio 13⟧
 
-Cơm. 5.
+Hình 5.
 
 Mỗi điểm trong khe cách tử nơi sóng ánh sáng rơi vào là nguồn phát sóng ánh sáng thứ cấp lan truyền theo mọi hướng. Ví dụ, truyền dọc theo các sóng ánh sáng thứ cấp từ phần cách tử mà chúng ta đã chọn tăng cường lẫn nhau, các điều kiện $d \sin \alpha_k = \pm n \lambda$ ($n = 0, 1, 2, \dots$) (**) được xác định
 
@@ -154,7 +154,7 @@ Khả năng tập trung sóng của các tấm phân vùng, tạo ra hình ảnh
 
 ⟦folio 14⟧
 
-cơm. 6.
+hình 6.
 
 Hình 6, trong ảnh tối thiểu của vật thể, chúng ta thấy điểm $B''$ xa hơn điểm $A''$. Đây chính xác là cách các điểm $A$ và $B$ được định vị lẫn nhau khi lấy được biểu đồ. Trong ảnh thực tế, điểm $B''$ nằm gần chúng ta hơn điểm $A'$. Do đó, hình ảnh thực tế của một vật thể thu được bằng cách sử dụng khung đầu bị biến dạng: các chỗ phình ra ở nơi đó được coi là lượn sóng và ngược lại. Sự biến dạng này được gọi là giả hành.
 
@@ -162,7 +162,7 @@ Kế hoạch lấy được biểu đồ mà chúng tôi xem xét đã được 
 
 Để tách biệt hình ảnh thực và hình ảnh tối thiểu, các nhà khoa học Mỹ E. Leith và J. Yu. Upatnikes đề xuất vào năm 1961 và triển khai vào năm 1963 sơ đồ đèn pha hai chùm tia. Theo sơ đồ này, chùm tia laser được chia thành hai chùm - chùm tham chiếu và tín hiệu (Hình 7, a). Chùm tia tín hiệu hướng vào một vật thể, phản xạ từ nó và chạm vào nhựa chụp ảnh, nơi nó tương tác với chùm tia tham chiếu. Như có thể thấy trên Hình 7, 6, ảnh thật của vật đó không ngăn cản người quan sát xem ảnh tối thiểu của vật đó.
 
-Cơm. 7. P - vật thể, L - laser, Z - gương, S.P. - chùm tín hiệu, O.P. - chùm tham chiếu; G - khung đầu, D.I. - Ảnh thật nhé M.I. - hình ảnh tối thiểu.
+Hình 7. P - vật thể, L - laser, Z - gương, S.P. - chùm tín hiệu, O.P. - chùm tham chiếu; G - khung đầu, D.I. - Ảnh thật nhé M.I. - hình ảnh tối thiểu.
 
 ⟦folio 15⟧
 
@@ -174,7 +174,7 @@ Trong Hình 3, PQRT đường thẳng là một phần của nhũ tương lớp 
 
 Hình ba chiều thu được trên một tấm có lớp nhũ tương dày được gọi là thể tích. Để thu được hình ảnh của điểm S bằng cách sử dụng hình ba chiều thể tích, cần phải chiếu sáng hình ba chiều bằng sóng ánh sáng phẳng, mặt trước của sóng này song song với mặt phẳng của bạch kim. Trong trường hợp này, độ dài của sóng phẳng không nhất thiết phải bằng độ dài của sóng tham chiếu. Trạng thái này là ưu điểm chính của hình ba chiều thể tích và nó dẫn đến những hậu quả đáng chú ý. Để hiểu điều gì *) Chúng ta hãy nhớ lại rằng parabol là một tập hợp các điểm trên một mặt phẳng cách đều một điểm nhất định—tiêu điểm—và đường thẳng—đường chuẩn. Điểm S trong Hình 3 là tiêu điểm của toàn bộ họ parabol (cả đồng bộ và đỏ); các đường thẳng mô tả mặt trước của sóng phẳng là đường chuẩn của các parabol khác nhau.
 
-Cơm. 8.
+Hình 8.
 
 trong câu hỏi, chúng ta hãy tìm hiểu cách khôi phục hình ảnh bằng hình ba chiều.
 
@@ -208,7 +208,7 @@ Các đặc tính thay thế của biểu đồ mà chúng tôi đã liệt kê 
 
 ⟦folio 17⟧
 
-Cơm. 9.
+Hình 9.
 
 sóng, mà còn trong bất kỳ quá trình sóng nào (trong âm học, trong phạm vi vô tuyến, trong các quá trình địa chấn, v.v.). Phương pháp ba chiều cho phép giải bài toán mà các phương pháp khác không thể giải được.
 
@@ -216,7 +216,7 @@ Phần kết luận
 
 Để kết luận bài viết, tôi muốn trả lời câu hỏi sau: tại sao ảnh ba chiều - về nguyên tắc là một phương pháp đơn giản của Fotoeplicity của một mẫu giao thoa được hình thành bởi hai điểm kết hợp - chỉ được tạo ra rất gần đây? Thật vậy, sự giao thoa và nhiễu xạ đã được nghiên cứu kỹ lưỡng vào thế kỷ 19; nhiếp ảnh được phát minh vào giữa thế kỷ 19; vì vậy Gabor không cần kiến ​​thức về bất kỳ thành tựu khoa học mới nào để mở được ảnh ba chiều. Tuy nhiên, cần phải có sự hiểu biết sâu sắc về các hiện tượng giao thoa và nhiễu xạ, và tất nhiên, một bộ óc sáng tạo để kết hợp tất cả các yếu tố đã biết của ảnh ba chiều thành một ý tưởng sáng giá. Ví dụ về việc tạo ra hình ảnh ba chiều đã được sử dụng rất tốt, rằng trong hình thái học của chúng ta, những ý tưởng và khám phá mới và có giá trị được sinh ra trên cơ sở những khái niệm cũ, nổi tiếng.
 
-Cơm. 10.
+Hình 10.
 
 Ngoài ra, phải nhấn mạnh rằng cùng với những nguyên tắc khó khăn trong việc phát triển kỹ thuật chụp ảnh ba chiều, còn có những nguyên tắc thuần túy kỹ thuật. Hơn nữa, vào năm 1947, ý tưởng của Gabor vẫn còn quá sớm, vì cần có nguồn ánh sáng đơn sắc được hiệu chỉnh để tạo ra ảnh ba chiều chất lượng cao. Những nguồn như vậy—laser—chỉ xuất hiện vào năm 1960. Để tạo ra ảnh ba chiều chất lượng cao, cần có vật liệu ảnh có độ phân giải cao. Như chúng ta đã thấy, khi thu được hình ba chiều thể tích, khoảng cách giữa các gương parabol bên trong lớp nhũ tương hóa ra theo thứ tự bước sóng. Chính giá trị này sẽ quyết định độ phân giải của nhũ tương. Đối với ánh sáng khả kiến ​​$\lambda \sim 10^{-6}$ m; điều này có nghĩa là trên một milimet vật liệu nhựa quang $\sim 10^3$ phải được phân giải (“nhìn” tách biệt). Những vật liệu như vậy chỉ được tạo ra trong những năm gần đây. Một số lượng lớn các khó khăn kỹ thuật hiện đang phải đối mặt với những người tạo ra điện ảnh và truyền hình ba chiều. Nhưng rất nhiều điều đã được thực hiện để vượt qua những khó khăn này.
 

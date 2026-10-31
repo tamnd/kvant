@@ -45,7 +45,7 @@ Chúng ta biết tuổi của đá trên Mặt trăng nhờ hàm lượng tươn
 
 Giả thuyết về lớp băng vĩnh cửu và lớp nước sâu trên Mặt Trăng được nhà vật lý thiên văn người Mỹ Gold hình dung vào năm 1961. Tuy nhiên, kết luận của ông về sự tồn tại của băng và nước sâu trong lớp vỏ mặt trăng dựa trên một số giả định.
 
-Cơm. 1.
+Hình 1.
 
 Thứ nhất, người ta cho rằng tổng lượng nước non trong 1 kg vật chất của Trái đất và Mặt trăng là như nhau, và tổng lượng nước non này được ước tính bằng độ sâu trung bình của các đại dương trên thế giới (các lớp nước thu được bằng cách chia thể tích nước của các đại dương, biển, băng ở Bắc Cực và Nam Cực, băng của các vùng núi trên bề mặt Trái đất). Trên Trái đất độ sâu này là ~ 1 km.
 
@@ -63,7 +63,7 @@ Bây giờ chúng ta hãy bay từ độ sâu lên bề mặt của Mặt trăng
 
 ⟦folio 12⟧
 
-Cơm. 2.
+Hình 2.
 
 và đêm ($t = -160^\circ\text{C}$) trên bề mặt mà không có lớp vỏ mặt trăng được bảo vệ? Đáp số những câu hỏi này được trả lời bằng cái gọi là sơ đồ trạng thái của nước (Hình 2), mà bây giờ chúng ta sẽ thảo luận.
 

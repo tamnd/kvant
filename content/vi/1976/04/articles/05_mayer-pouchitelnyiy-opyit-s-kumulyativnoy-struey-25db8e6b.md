@@ -60,4 +60,4 @@ Hàn một ống cứng vào ống đồng có thành mỏng theo bất kỳ hì
 
 3. Những thí nghiệm nào có thể được thực hiện để thu được một tia tích lũy trong một ống nghiệm quan sát được tương đối đứng yên?
 
-Cơm. 2.
+Hình 2.

@@ -82,7 +82,7 @@ Vì vậy hãy biểu thị bằng t sự phát triển hàng ngày của cỏ, 
 
 **) Tôi đã làm được 1/2 năm một lần, ngay cả khi Christina cho con bò của mình ăn ở một nơi khác suốt thời gian này - để trời không có tuyết vào cuối mùa vọng! Tuy nhiên, kiểu mâu thuẫn này sẽ không khiến Loyd bối rối, người có vợ Smith mới 15 tuổi (bài toán số 99) và những học sinh chưa biết chữ chưa được hai tuổi (vấn đề số 32).
 
-Cơm. 2.
+Hình 2.
 
 Người bán hàng sẽ tức giận: "Điều này không khoa học - cả bài toán của chính cô ấy và sự hiểu biết của bạn! Cần phải đơn giản tạo 4 phương trình với 3 ẩn số: x=y+z, 1=45(x+y), 1=60(x+z), 1=90(y+z), ký hiệu là x, y, z đồng cỏ bị động vật ăn hàng ngày. Bài toán được định nghĩa quá mức và do đó mâu thuẫn. Và nếu nó cần phải tính đến sự phát triển của cỏ thì việc này phải được thỏa thuận trước!”
 
@@ -94,11 +94,11 @@ Số 65. Bài toán Columbus
 Vào thế kỷ 15, mọi người đam mê trò chơi cờ bạc. Trong số đó có trò chơi với những quả trứng gà, dường như có thể tìm ra nguồn gốc của câu chuyện nổi tiếng về quả trứng của Columbus, cùng với việc phát hiện ra châu Mỹ, đã làm nên tên tuổi của Nhà hàng hải vĩ đại.
 Hai người chơi lần lượt đẻ trứng theo cách giống nhau -
 
-Cơm. 3.
+Hình 3.
 
 ⟦folio 59⟧
 
-Cơm. 4
+Hình 4
 
 thay đổi: 3 yêu cầu của cô vẫn được đáp ứng, mặc dù chín nữ tu đã mất tích.
 
@@ -163,7 +163,7 @@ Số 215. Đang chạy trốn
 
 Một ngày nọ, tại cuộc đua với nữ hoàng đường đua Lou Dillon, một bài toán khá kỳ lạ xuất hiện, hóa ra lại quá khó đối với những giám khảo không giỏi toán. Giám khảo đầu tiên tính thời gian (81 3/8 giây) mà Lou chỉ chạy 3/4 dặm đầu tiên, và giám khảo thứ hai tính thời gian (81 1/4 giây) Lou chỉ chạy 3/4 dặm cuối cùng. Giả sử Lou chạy nửa dặm đầu tiên cùng thời gian với nửa dặm thứ hai. Bạn có thể dự đoán Lou mất bao nhiêu giây để chạy được một dặm?
 
-Cơm. 5.
+Hình 5.
 
 Vì chúng ta đang nói về bài toán Số 215, hãy giải (chỉ nhanh thôi!) câu tiếp theo (gần như cũng lạ không kém) bài toán:
 
@@ -181,7 +181,7 @@ Có 3 từ “vô tình” được viết bằng slino. Chèn 2 dấu cách và
 
 *) Không còn nghi ngờ gì nữa, nó sẽ bán hết nhanh chóng như chiếc đầu tiên. Bản sao của Loyd có giá bao nhiêu? Anh ấy đã quen với hàng triệu người!
 
-Cơm. 6.
+Hình 6.
 
 nằm ngang (không tháo khỏi rãnh và di chuyển lần lượt) sao cho chữ có thể đọc từ trái sang phải.
 

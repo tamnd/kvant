@@ -44,11 +44,11 @@ Sợi chỉ được tháo ra và thân xe trượt xuống, đạt đến vị 
 
 ⟦folio 68⟧
 
-Cơm. 3.
+Hình 3.
 
-Cơm. 4.
+Hình 4.
 
-Cơm. 5.
+Hình 5.
 
 sự phụ thuộc của lực $F$ tác dụng lên điện tích dương thử nghiệm vào vị trí của nó trên trục $OX$. a) Giải thích tại sao lực tại gốc tọa độ bằng 0. b) Đưa ra lý do khẳng định đường cong $F(x)$ phù hợp với thực tế. Đánh giá giá trị tối đa và tối thiểu của $F(x)$ (cả dương và âm).
 

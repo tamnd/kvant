@@ -58,7 +58,7 @@ lớp 10–11
 
 ⟦figure⟧
 
-Cơm. 1
+Hình 1
 
 sao cho tạo thành hai tam giác đều ADE và GFC có cạnh 1 và 100 (điểm E và G nằm trên cạnh AC). Các đoạn thẳng EF và DG cắt nhau tại điểm O và góc EOG bằng 120°. Cạnh của tam giác ABC là gì? M. Evdokimov
 
@@ -90,7 +90,7 @@ lớp 10–11
 
 ⟦figure⟧
 
-Cơm. 2
+Hình 2
 
 Vẽ đường tròn ngoại tiếp tam giác ABC tại các điểm N và M. Các đoạn thẳng MN và BO cắt nhau tại điểm X. Chứng minh hai đường thẳng XI và AC vuông góc nhau. F.Ivlev
 

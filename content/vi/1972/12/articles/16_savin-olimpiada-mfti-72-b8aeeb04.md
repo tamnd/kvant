@@ -68,7 +68,7 @@ $$(x_1 - x_2)^2 + (x_1 - x_3)^2 + \ldots + (x_1 - x_n)^2 + (x_2 - x_3)^2 + \ldot
 
 ⟦folio 67⟧
 
-Cơm. 1.
+Hình 1.
 
 sự mong muốn. Sau khi Ali Baba bỏ tay ra khỏi lỗ, thùng nhanh chóng được quay và rời đi, Ali Baba không thể xác định được vị trí mới so với vị trí cũ. Nếu đuôi cá trích hướng về một hướng thì cửa sẽ mở; nếu không thì Ali Baba có thể thử lần nữa. Có phương pháp hành động nào cho phép Ali Baba mở cửa không?
 

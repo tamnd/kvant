@@ -97,7 +97,7 @@ Bốn con tàu $A, B, B$ và $\Gamma$ đang di chuyển trong sương mù với 
 
 ⟦folio 23⟧
 
-Cơm. 4.
+Hình 4.
 Tốc độ của tàu B và D khác nhau về độ lớn nhưng cũng chậm lại.
 
 Chúng ta hãy xem xét các sự kiện được liệt kê dưới góc nhìn của người quan sát trên tàu A. Trong hệ thống báo cáo này, quỹ đạo của tàu B là một đường thẳng đi qua điểm A (bản thân tàu A bất động trong hệ thống báo cáo này). Quỹ đạo của tàu B cũng là một đường thẳng đi qua điểm A. Giả sử quỹ đạo của tàu B và tàu B không trùng nhau (chúng ta sẽ vẽ quỹ đạo của tàu B bằng một đường chấm; xem Hình 4).
@@ -109,7 +109,7 @@ Con cáo chạy với tốc độ không đổi theo đường thẳng l. Ngư�
 
 *) Để biết một phương pháp khác lời giải, xem cuốn sách “Hỗn hợp toán học” của J. Litt Wood (M., “Hayka”, 1965), tr. 10.
 
-Cơm. 5.
+Hình 5.
 thuê người truy đuổi, nổi bật với tốc độ ngang ngửa với con cáo. Vì người thợ săn không biết chiến thuật của cáo nên liên tục săn ngay phía sau cáo. Người thợ săn có thể chạy đến gần con cáo đến mức nào *)?
 
 Hãy xem xét các sự kiện trong hệ Oxy, trong đó con cáo đứng yên và nằm ở gốc tọa độ O (trục Oxy hướng dọc theo đường đi của con cáo theo hướng chuyển động của con cáo). Tốc độ của người đi săn trong hệ thống này là $\vec{V}_{BA} = \vec{V}_B - \vec{V}_A$, trong đó $\vec{V}_A$ và $\vec{V}_B$ là tốc độ của con cáo và người đi săn trong hệ thống báo cáo cố định. Giả sử tại một số thời điểm, người thợ săn ở điểm $B_1$ (Hình 5 b). Hãy biểu thị các hình chiếu của

@@ -26,7 +26,7 @@ translation_quality: draft
 
 ⟦folio 24⟧
 
-Cơm. 8.
+Hình 8.
 
 3°. Nếu đường cong đã xây dựng cần được “xoay” 90° thì tại mỗi điểm $O_1$ và $O_2$ của mặt phẳng chúng ta phải sửa cơ chế?
 

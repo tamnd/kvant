@@ -146,7 +146,7 @@ Giao thoa sóng
 1. $d_{\min} = \frac{c}{4\sqrt{n-1}} = 2$ xem
 2. $l \sim \cos^2 \left( \frac{2\pi}{l} \Delta L \right)$, trong đó $l = \frac{cL^2}{2\sqrt{h_2-h_1}} \times \frac{1}{(2h_0+h_1+h_2)} = 180$ m là khoảng cách mà pha dao động thay đổi $2\pi$ (có thể tìm khoảng cách $h_0$ từ Hình 1:
 $$h_0 = R_3(1-\cos \alpha) \approx \frac{R_3\alpha^2}{2} \approx \frac{R_3}{2}\left(\frac{L}{2R_3}\right)^2 \approx 80 \text{ км}.$$
-Cơm. 1.
+Hình 1.
 3. $U \sim \cos \frac{\pi L \sin \omega t}{\lambda} \sim \cos \frac{\pi L \omega t}{\lambda} \sim \cos \frac{2\pi}{T} t$, trong đó $T = \frac{2\lambda}{L\omega} \approx 2,3$ phút ($\omega$ là vận tốc góc quay của Trái đất).
 
 Đại học bang Leningrad được đặt theo tên. A. A. Zhdanova
@@ -159,7 +159,7 @@ Vì $\cos \pi x \leq 0$ cho $x \in \left[ 1; \frac{3}{2} \right]$, hệ thống 
 
 Khi $x$ tăng từ 1 lên $\frac{3}{2}$, hàm ở vế trái của phương trình này sẽ giảm từ $\sin a + 4 \sin^3 a$ lên $\sin a$ và hàm ở vế phải tăng từ 1 lên $1 \frac{2}{27}$. Do đó, phương trình đang nghiên cứu có lời giải duy nhất trên $[1; \frac{3}{2}]$ khi và chỉ khi $4 \sin^3 a + \sin a \geqslant 1$ (Hình 2). Chức năng $4z^3 + z - 1$
 
-Cơm. 2.
+Hình 2.
 tăng thêm $R$ và trở thành 0 tại $z = \frac{1}{2}$. Vì vậy, $4 \sin^3 a + \sin a \geqslant 1 \Leftrightarrow \sin a \geqslant \frac{1}{2}$.
 2. $x_1 = 2\pi k, x_2 = \frac{\pi}{6} + \frac{2}{3} \pi l (k, l \in \mathbb{Z})$.
 3. $x = \pi + 2\pi k (k \in \mathbb{Z})$. Gợi ý. Phương trình tương đương với hệ
@@ -274,7 +274,7 @@ $$\alpha = \frac{F^2}{(L-F)^2},$$
 
 bất kể giá trị nào trong số $F$ và $L$ lớn hơn. Đồ thị phụ thuộc $\alpha = \alpha(L)$ và $\alpha = \alpha(F)$ có dạng như Hình 5.
 
-Cơm. 5.
+Hình 5.
 
 Trong thực tế, thấu kính không hội tụ các tia song song vào một điểm mà tạo ra cái gọi là điểm nhiễu xạ. Do đó, nếu kích thước của chỉ báo nhỏ hơn kích thước của điểm nhiễu xạ trên màn hình ở $L \rightarrow F$ thì sẽ không có điểm ngắt trên biểu đồ. Nếu kích thước của chỉ báo lớn hơn kích thước của điểm nhiễu xạ, thì đối với câu hỏi đáp số bạn cần biết chỉ báo hoạt động như thế nào trong trường hợp chỉ một phần bề mặt của nó được chiếu sáng.
 
@@ -318,12 +318,12 @@ Lời giải bài toán dựa trên thực tế là ánh sáng từ một nguồ
 
 ⟦folio 62⟧
 
-Cơm. 6.
+Hình 6.
 
 và đưa ra hình ảnh của lỗ nếu màn hình đóng lại. Hãy xem xét cả hai trường hợp một cách chi tiết.
 a) Để màn ở gần lỗ. Theo phép tính gần đúng đầu tiên, Mặt trời có thể được coi là nguồn chính xác của S (Hình 6). Điểm hoàn hảo trên màn hình là hình chiếu trung tâm của lỗ lên mặt phẳng của màn hình. Tâm của hình chiếu S nằm rất xa nên hầu như tất cả các tia đều song song, hình dạng và kích thước của vùng được chiếu sáng trùng với hình dạng và kích thước của lỗ. Khi pháp tuyến của mặt phẳng màn hình nghiêng một góc β (so với hướng với Mặt trời), kích thước của điểm theo hướng tương ứng tăng: $d' = d/\cos \beta$. Khi pháp tuyến của mặt phẳng lỗ nghiêng một góc γ thì kích thước điểm giảm: $d' = d \cos \gamma$. Trong trường hợp tổng quát $d' = d \cos \gamma/\cos \beta$. Do đường kính góc hữu hạn của Mặt trời ($\alpha \approx 0,01$), ranh giới của bóng từ các cạnh của lỗ sẽ bị mờ. Chiều rộng vùng tranh chấp một phần (Hình 7) $d'' = \alpha L$. Do đó, những gì đã nói ở trên là đúng với điều kiện $aL \ll d$.
 
-Cơm. 7.
+Hình 7.
 
 Thay $\alpha = 0,01$, ta được $L \ll 100d$. Nếu kích thước của gương là $d \sim 10$ cm thì $L \ll 10$ m. Vì vậy, trường hợp này xảy ra nếu khoảng cách từ gương đến màn là $L \ll 10$ m.
 6) Để màn hình cách xa lỗ hơn. Khi đó lỗ có thể được coi là chính xác theo phép tính gần đúng đầu tiên; hình dạng trường của nó không đóng một vai trò nào. Điểm tối trên màn hình là hình ảnh của Mặt trời trong cái gọi là camera obskrura. Nó biểu thị dòng chảy của một hình nón tròn của các tia mặt trời có đỉnh nằm trong lỗ và góc $\alpha$ ở đỉnh bằng đường kính góc của Mặt trời. Nếu màn vuông góc với trục của hình nón các tia thì điểm đó là một đường tròn có đường kính $d' = \alpha L$. Khi màn hình nghiêng một góc $\beta$, hình tròn này sẽ biến thành hình elip có trục chính là $d'' = d'/\cos \beta = \alpha L/\cos \beta$. Khi kích thước của cái lỗ tăng lên, sự thật được chiếu sáng, nhưng đồng thời các cạnh của nó cũng trở nên mờ nhạt hơn. Đây là vị trí đặt đường kính lỗ $d$. Do đó, trường hợp này được thực hiện khi $d \ll \alpha L$, tức là $L \gg 100d$. Dành cho màn hình $c d \sim 10$ cm $L \gg 10$ m.
@@ -358,7 +358,7 @@ Tùy chọn 1
 4. ] — 2; — 1] $\cup [0; + \infty[$.
 5. $\frac{4}{27} R^3$. Gợi ý. Biểu thị thể tích của lăng kính theo $x = |SN|$ (đối với các ký hiệu, xem Hình 8).
 
-Cơm. 8.
+Hình 8.
 
 Tùy chọn 2
 1. 10 km/giờ, 30 km/giờ.

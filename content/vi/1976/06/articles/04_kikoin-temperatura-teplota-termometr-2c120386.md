@@ -169,7 +169,7 @@ và chúng tôi ngay lập tức nhận được
 
 $$T_0 = \frac{100}{0,3661} \approx 273,15.$$
 
-Cơm. 4.
+Hình 4.
 
 Đây là điểm khác biệt giữa thang đo mới với thang đo độ C cũ: nhiệt độ tan của băng trên thang đo này không phải bằng 0 mà là 273,15 độ. Và nhiệt độ bằng 0 là 273,15 (gọi tắt là 273) độ dưới nhiệt độ tan của băng. Đây là nhiệt độ mà tại đó áp suất của khí lý tưởng sẽ bằng 0 nếu đạt đến nhiệt độ đó và nếu khí đó vẫn là khí ở nhiệt độ này. Vì áp suất khí không thể nhỏ hơn 0 nên nhiệt độ trên thang đo như vậy không thể âm (các số 0 thay đổi).
 

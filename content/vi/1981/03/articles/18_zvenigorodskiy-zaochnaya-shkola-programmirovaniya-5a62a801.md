@@ -53,11 +53,11 @@ Với. Big Shpadi
 nước ép làng mát
 r. Luồng thông tin
 
-Cơm. 1.
+Hình 1.
 
 ⟦folio 58⟧
 
-Cơm. 2.
+Hình 2.
 
 Ratsini, thì bằng ngôn ngữ Rapier, bạn sẽ có thể thực hiện việc này mà không gặp khó khăn gì. Nhưng không có công cụ đặc biệt nào để làm việc với biểu đồ trong Rapier, vì vậy bạn cần phải tự mình nghĩ ra cách mô tả biểu đồ bằng ngôn ngữ lập trình này.
 

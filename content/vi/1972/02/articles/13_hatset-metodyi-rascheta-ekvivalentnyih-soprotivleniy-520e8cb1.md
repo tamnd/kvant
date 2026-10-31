@@ -46,7 +46,7 @@ Sau khi thực hiện điều này, chúng ta thu được một mạch tương 
 
 ⟦folio 56⟧
 
-Cơm. 3.
+Hình 3.
 
 Trên thực tế không có dòng điện chạy qua phần $FF'$. Pozny có thể loại bỏ phần $FF'$ và ta có được mạch tương đương như Hình 4, b. Sau khi biến đổi đơn giản mạch điện (Hình 4, θ), có thể dễ dàng tính được điện trở của nó là $R = \frac{7}{6} r$.
 
@@ -64,7 +64,7 @@ Tương tự, từ các báo cáo đối xứng về sự bao gồm điện tr�
 
 ⟦folio 58⟧
 
-Cơm. 7.
+Hình 7.
 
 Bài 7. Tìm điện trở $R$ của mạch điện như hình 7, a.
 

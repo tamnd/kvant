@@ -55,4 +55,4 @@ $$U = \frac{q}{C} \text{ и } F = k\lambda$$
 
 Theo đó, nghịch đảo của điện dung của tụ điện ($1/C$) tương ứng với độ cứng của lò xo $k$. Một bảng tóm tắt tóm tắt sự tương tự này được cung cấp trong Vật lý 10.
 
-Cơm. 1. Hình 2. Hình 3. Hình 4.
+Hình 1. Hình 2. Hình 3. Hình 4.

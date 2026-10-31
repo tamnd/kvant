@@ -64,7 +64,7 @@ Hãy xây dựng nó ở dạng tổng quát: có $k$ thành phố, khoảng cá
 
 *) Có lẽ người đầu tiên hình thành nhân viên bán hàng du lịch bài toán là nhà toán học nổi tiếng Carl Menger. Điều này xảy ra vào ngày 5 tháng 2 năm 1930 tại hội thảo toán học ở Vienna. Menger đã sử dụng câu nói nổi tiếng “Bài toán về người đưa tin”.
 
-Cơm. 1.
+Hình 1.
 
 thành phố nguồn; làm thế nào để tìm được con đường ngắn nhất?
 
@@ -128,7 +128,7 @@ Chúng ta hãy mô tả trình tự các giai đoạn của một phương thứ
 
 ⟦folio 16⟧
 
-Cơm. 3.
+Hình 3.
 
 4. Nếu đạt được một đỉnh tương ứng với thành phố I thì chúng ta tìm thấy
 Dim chiều dài G ngắn nhất thu được
@@ -180,7 +180,7 @@ Vì vậy, mỗi vòng có thể coi là một cuộc hẹn (nhưng việc hẹn
 
 *) Khoảng bài toán cuộc hẹn đã được M. I. Reitman mô tả trong bài viết “Giao thông vận tải bài toán” («Kvant», 1974, số 7).
 
-Cơm. 4.
+Hình 4.
 
 ⟦folio 18⟧
 

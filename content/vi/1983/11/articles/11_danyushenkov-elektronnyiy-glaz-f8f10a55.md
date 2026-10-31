@@ -46,7 +46,7 @@ Súng điện tử
 Nước mắt huyết tương
 Màn hình
 
-Cơm. 1.
+Hình 1.
 
 ⟦folio 33⟧
 
@@ -56,7 +56,7 @@ Bạn có thể thấy tác dụng của từ trường lên dòng điện tử 
 
 Năm 1897, nhà vật lý người Đức K. Braun đã tạo ra một ống tia được điều khiển từ tính có hình dạng
 
-Cơm. 2.
+Hình 2.
 
 tương tự như ống điện tử hiện đại.
 

@@ -40,7 +40,7 @@ che một góc theo hai cách (Hình 1) - trong cả hai trường hợp, một 
 
 ⟦figure⟧
 
-Cơm. 2
+Hình 2
 
 Thật vậy, với n chẵn, một tấm ván như vậy được cắt thành 6 u 2, và với n lẻ - thành một $доску^{6} u^{3} и^{n} 3^{2} досок^{6} u^{2}$. Việc còn lại là khám phá các bảng có m, n lẻ! 3, trong đó m là bội số của 3. Giá trị nhỏ nhất: m 9 và $n^{5.}$ Việc cắt $доски^{9} u 5$ có ​​thể phải thực hiện nhiều lần thất bại. Trong lời giải, màu bảng như trong Hình 3 sẽ hữu ích. Rõ ràng là mỗi góc bao phủ nhiều nhất một ô màu xanh lá cây. Mặt khác, có 15 ô màu xanh lá cây - con số tương đương với số góc. Điều này có nghĩa là ở mọi ngóc ngách cần có
 
@@ -50,13 +50,13 @@ Chúng ta sẽ giả sử rằng m là bội số của 3. Hãy bắt đầu v�
 
 ⟦figure⟧
 
-Cơm. 3
+Hình 3
 
-Cơm. 1
+Hình 1
 
 DOI: https://doi.org/10.4213/kvant20201105
 
-Cơm. 4
+Hình 4
 
 ⟦folio 40⟧
 
@@ -68,11 +68,11 @@ kami, không sắp xếp số. Ví dụ, hãy xem xét một tấm bảng 5 x 7.
 
 ⟦figure⟧
 
-Cơm. 8
+Hình 8
 
 ⟦figure⟧
 
-Cơm. 7
+Hình 7
 
 một ô khác được chuyển đến một trong những ô được đánh dấu bằng cách xoay hoặc phản chiếu của bảng. Mỗi ô trong số 10 ô được đánh dấu trong hình $^{7,}$ rơi vào một trong các ô vuông 2 u 2 được đánh dấu màu đỏ. Sau khi cắt hình vuông ra, bản thân hình vuông đó sẽ trở thành một góc, và cách cắt phần còn lại của bảng được thể hiện ở hình 8, a-c tương ứng. Tổng hợp các phát biểu (4)–(8), ta thu được định lý sau. Định lý 2. Bảng m u n được phủ các góc đều trong các trường hợp sau và chỉ trong các trường hợp đó: $1)^{mn}$ chẵn $и^{m,n}$! 1; $2)^{m,} n$ là số lẻ và lớn hơn 3, ngoại trừ bảng 5 u 5 và 5 u 7.
 
@@ -86,13 +86,13 @@ NGUYÊN VẬT LIỆU
 
 ⟦figure⟧
 
-Cơm. 14
+Hình 14
 
 3. Trong mạch điện (Hình 14) tất cả các phần tử đều lý tưởng, tụ điện không tích điện. Biết các giá trị E, R, C, r R. Công tắc K đóng một lúc rồi mở khi tốc độ tăng năng lượng của tụ điện là cực đại. 1) Tìm dòng điện chạy qua tụ điện ngay sau khi đóng công tắc. 2) Tìm dòng điện chạy qua tụ điện ngay sau khi mở công tắc. 3) Sau khi mở chìa khóa, mạch điện sẽ toả bao nhiêu nhiệt lượng? 4. Mạch sử dụng mạch cầu (Hình 15a). EMF của một nguồn lý tưởng
 
 ⟦figure⟧
 
-Cơm. 15
+Hình 15
 
 E 10 V, $R_{2} 12$ Ôm, $R_{3} 8$ Ôm, $R_{4} 2$ Ôm. Đặc tính dòng điện của diode được thể hiện trên hình 15, b, điện áp ngưỡng của diode là $U_{0} 1$ V. 1) Tìm dòng điện qua điện trở có điện trở $R_{3}$ khi công tắc K mở. 2) Dòng điện chạy qua diode sẽ ở giá trị nào $R_{1}$ khi công tắc K đóng? 3) Tại giá trị nào của $R_{1}$ thì công suất tổn thất nhiệt trên diode sẽ bằng $P_{D} 1,25$ W?
 
@@ -100,7 +100,7 @@ E 10 V, $R_{2} 12$ Ôm, $R_{3} 8$ Ôm, $R_{4} 2$ Ôm. Đặc tính dòng điện
 
 ⟦figure⟧
 
-Cơm. 16
+Hình 16
 
 5. Hệ thống quang học bao gồm một thấu kính phân kỳ mỏng có tiêu cự F (F! 0), một gương phẳng và một màn chắn nhỏ E, được đặt sao cho ánh sáng từ nguồn S chỉ có thể tới thấu kính sau khi phản xạ từ gương (Hình 16). Gương nằm vuông góc với trục quang chính của thấu kính $OO_{1}$. Nguồn S nằm cách trục $OO_{1}$ một khoảng 3 F 4 và cách mặt phẳng của thấu kính một khoảng F 2. Thấu kính và nguồn đứng yên, gương chuyển động với tốc độ v dọc theo trục $OO_{1}$. Tại một thời điểm gương cách thấu kính một khoảng F. 1) Tại thời điểm này người quan sát A có thể nhìn thấy ảnh của nguồn trong hệ ở khoảng cách bao nhiêu so với mặt phẳng thấu kính? 2) Lúc này ảnh đang chuyển động ở góc D nào so với trục $OO_{1}$? (Tìm giá trị của bất kỳ hàm lượng giác nào của góc.) 3) Tìm tốc độ của ảnh tại thời điểm này. Ấn phẩm về toán học được biên soạn bởi N. Agakhanov, I. Bogdanov, I. Glukhov, A. Golovko, S. Gorodetsky, V. Dubinskaya, Y. Kuzmenko, E. Molchanov, O. Podlipsky, D. Tereshin; trong vật lý - L. Koldunov, V. Plis, V. Uskov, V. Chivilev, A. Sheronov, Yu. Yuryev
 

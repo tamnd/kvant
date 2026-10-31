@@ -41,9 +41,9 @@ Trong trường nhìn của đường ống, một số sợi mỏng thẳng đ�
 
 ⟦folio 11⟧
 
-Cơm. 1. Dụng cụ thông hành lớn của Đài thiên văn Pulkovo.
+Hình 1. Dụng cụ thông hành lớn của Đài thiên văn Pulkovo.
 
-Cơm. 2. Dụng cụ đi qua có đường ống bị hỏng.
+Hình 2. Dụng cụ đi qua có đường ống bị hỏng.
 
 Vật thể đợi cho đến khi vật thể được quan sát, trong trường hợp này là Mặt trời, đi vào trường nhìn và đi qua sợi giữa. Lúc này, anh ta nhấn một nút để đóng tiếp điểm và bút của máy ghi âm, được gọi là đồng hồ bấm giờ, đánh dấu trên băng giấy đang chạy song song với điểm đánh dấu thứ hai của đồng hồ. Bằng cách này, khoảnh khắc ánh sáng đi qua kinh tuyến có thể được ghi lại với độ chính xác đến phần trăm giây. (Trung tâm Mặt trời không được đánh dấu bởi bất cứ thứ gì, do đó, sự di chuyển của hai cạnh của nó được quan sát và sau đó kết quả thu được là thành công.)
 
@@ -69,7 +69,7 @@ Trên thực tế, nguyên nhân không phải là đồng hồ mà là sự kh�
 
 ⟦folio 12⟧
 
-Cơm. 3. Các đoạn hoàng đạo có kích thước bằng nhau khi chiếu lên xích đạo cho ra những phần không bằng nhau.
+Hình 3. Các đoạn hoàng đạo có kích thước bằng nhau khi chiếu lên xích đạo cho ra những phần không bằng nhau.
 
 các đoạn bằng nhau là đoạn ngắn nhất gần các phương trình (Hình 3).
 
@@ -83,7 +83,7 @@ Ngày xưa, mỗi thành phố sống theo giờ địa phương riêng, vì v�
 
 ⟦folio 13⟧
 
-Cơm. 5. Đồng hồ mặt trời nằm ngang.
+Hình 5. Đồng hồ mặt trời nằm ngang.
 
 Giờ tiêu chuẩn ở đó dài hơn chính xác hai giờ so với giờ phổ quát.
 
@@ -98,4 +98,4 @@ Trong công thức này, chỉ có phương trình η là thay đổi, tùy theo
 
 Ví dụ, chúng ta hãy tìm thời điểm buổi trưa thực sự ở Mátxcơva vào ngày 1 tháng 1 năm 1979. Sử dụng bản đồ địa lý, chúng ta sẽ tìm được kinh độ của Mátxcơva: λ=37,5°. Số Posyak cho Moscow n=2, phương trình thời gian η=3 phút (xem Hình 4). Sau đó, thời điểm mong muốn
 
-Cơm. 6. Sự khác biệt giữa đường đi của Mặt trời qua kinh tuyến và độ cao lớn nhất của Mặt trời so với đường chân trời. Đường cong liền nét mô tả vòng cung hàng ngày của Mặt trời với độ xích vĩ không đổi. Đường đứt nét mô tả vòng cung ban ngày của ngôi sao với độ xích vĩ tăng dần vào mùa xuân và độ xích vĩ giảm dần vào mùa thu. M là điểm kinh tuyến, H là điểm có độ cao lớn nhất.
+Hình 6. Sự khác biệt giữa đường đi của Mặt trời qua kinh tuyến và độ cao lớn nhất của Mặt trời so với đường chân trời. Đường cong liền nét mô tả vòng cung hàng ngày của Mặt trời với độ xích vĩ không đổi. Đường đứt nét mô tả vòng cung ban ngày của ngôi sao với độ xích vĩ tăng dần vào mùa xuân và độ xích vĩ giảm dần vào mùa thu. M là điểm kinh tuyến, H là điểm có độ cao lớn nhất.

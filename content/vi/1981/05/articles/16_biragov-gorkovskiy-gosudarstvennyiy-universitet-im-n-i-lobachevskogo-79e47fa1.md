@@ -69,5 +69,5 @@ Bài toán thi vấn đáp
 1. Một giá đỡ thẳng đứng không trọng lượng được lắp đặt trên một khối có khối lượng $2m$, trong đó một quả bóng có khối lượng $m$ được treo trên các thanh không trọng lượng có chiều dài $l$ (Hình 1). Một vật có thể trượt trên một mặt bàn nằm ngang không ma sát. Tốc độ của khối tại thời điểm quả bóng đi qua điểm dưới cùng sẽ là bao nhiêu, nếu khối tích lũy ban đầu và quả bóng được thả ra khỏi điểm $A$ mà không có tốc độ ban đầu?
 2. Hai vật có khối lượng $m_1 = 4$ kg và $m_2 = 8$ kg, được nối với nhau bằng một sợi dây, đang chuyển động dọc theo một mặt phẳng nghiêng tạo thành một góc $\alpha = 30^\circ$ với đường chân trời. Hệ số ma sát giữa mặt phẳng nghiêng và vật là khác nhau: đối với vật thứ nhất nó bằng $\mu_1 = 0,1$, và đối với vật thứ hai là $\mu_2 = 0,2$. Lực của dây là bao nhiêu nếu một vật có khối lượng $m_1$ chuyển động với gia tốc ngang $|\vec{a}| = g/2$.
 
-Cơm. 1.
-Cơm. 2.
+Hình 1.
+Hình 2.

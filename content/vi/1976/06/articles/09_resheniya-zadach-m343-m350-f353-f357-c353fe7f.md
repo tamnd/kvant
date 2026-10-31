@@ -46,11 +46,11 @@ Chúng ta sẽ biểu thị các thành phố bằng các chữ cái $A, B, C, D
 
 dưới 500 km. Khi một con đường bị đóng cửa để sửa chữa, họ phát hiện ra rằng bạn có thể lái xe từ bất kỳ thành phố nào đến bất kỳ thành phố nào khác dọc theo những con đường còn lại. Hãy để chúng tôi chứng minh rằng điều này có thể được thực hiện bằng cách lái xe không quá 1500 km.
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
-Cơm. 3.
+Hình 3.
 
 M344. Chuỗi của tất cả 64 ô vuông được bày trên bàn cờ. Có thể kiểm tra 13 đường trên bảng sao cho ở mỗi phần mà các đường này phân chia bảng không có nhiều hơn một điểm lệch? (Các đường thẳng không được đi qua chuỗi trường.)
 
@@ -91,11 +91,11 @@ làm ngược lại: sử dụng bốn số liền kề $a b c d$, xác định 
 
 Ví dụ, để xác định số đứng trước bốn 1 9 7 5, bạn cần lấy 5 trừ 1, 9, 7 và chia số kết quả (-12) với số dư cho 10. Số dư là 8; Điều này có nghĩa là số 8 đứng trước số 4 1 9 7 5.
 
-Cơm. 4.
+Hình 4.
 
 1 9 7 5 2 3 ... x a b c d ... y a b c d ... (*)
 
-Cơm. 5.
+Hình 5.
 
 Bởi vì dưới dãy (*) lại là dãy tương tự, nhưng bị “dịch chuyển”, nên dưới bộ tứ thứ nhất $a b c d$ có dãy thứ hai (xem Hình 5). Theo khẳng định đã được chứng minh ở trên, các số ở cột đầu tiên nằm bên trái đường màu đỏ trùng nhau, tức là $x = y$. Tương tự, các số ở cột $x$ và $y$ trước đó trùng khớp, v.v. Như vậy, ở mỗi cột nằm bên trái đường màu đỏ đều có các số trùng khớp. Do đó, dưới bốn số 1 9 7 5 ở dãy “trên” có bốn số 1 9 7 5 ở dãy “dưới”. Và điều này có nghĩa là bốn số 1 9 7 5 gặp nhau theo trình tự 1 9 7 5 2 3... phụ.
 
@@ -120,7 +120,7 @@ M347. Hai chiếc gốm trong một chiếc gốm nhúng. Người đầu tiên 
 | 0,1 | 2i-1,24 |
 | 0,0 | 2i-1,25 |
 
-Cơm. 7.
+Hình 7.
 
 M348. Bảng 10x10 chứa các số theo thứ tự từ 1 đến 100. Sau đó, ở mỗi hàng và mỗi cột, có đúng một nửa số được ghi dấu trừ. Chứng minh rằng trong bảng kết quả tổng của tất cả các số bằng 0.
 
@@ -194,11 +194,11 @@ a) Để làm gì $n$ và $m$ quân tượng sẽ đi vòng quanh tất cả cá
 b) Anh ấy sẽ điền bao nhiêu trường trên bảng $n \times m$?
 Chúng ta hãy xem xét các bảng có kích thước $10 \times 15, 10 \times 25, 15 \times 25$ làm ví dụ.
 
-Cơm. 13.
+Hình 13.
 
-Cơm. 14.
+Hình 14.
 
-Cơm. 15.
+Hình 15.
 
 a) Xét góc vuông tới $A_{00}A_{01}A_{11}A_{10}$ với các đỉnh ở tâm của trường góc (Hình 13) $|A_{00}A_{10}| = n - 1, |A_{00}A_{01}| = m - 1$. Hãy lấy một mạng và tạo nó bằng một đường thẳng (Hình 14). Ta hãy biểu thị các nút của mạng như vậy bằng $A_{ij}$, $i,j = 0,1,2,...$ (Nút $A_{ij}$ là giao điểm của đường thẳng đi qua $A_{i0}$ song song ($A_{00}A_{01}$) với đường thẳng đi qua $A_{0j}$ song song ($A_{00}A_{10}$); điểm $A_{i0}(i = 1,2,...)$ nằm trên đường thẳng $A_{00}A_{10}$, điểm $A_{0j}(j = 1,2,...)$ - trên dòng $A_{00}A_{01}$ và $|A_{(i-1)}A_{i0}| = |A_{i0}A_{(i+1)}| = |A_{00}A_{10}|$, $|A_{(j-1)}A_{0j}| = |A_{0j}A_{(j+1)}| = |A_{00}A_{01}|$.
 
@@ -222,9 +222,9 @@ Chúng ta hãy biểu thị bằng $b$ ước chung lớn nhất của các số
 
 F355. Biểu đồ pV (Hình 17) cho thấy một quy trình khép kín được thực hiện với một mol saza. Các phần 1→2 và 3→4 của đồ thị là các đường thẳng đi qua gốc tọa độ và các phần 2→3 và 4→1 là các đường đẳng nhiệt. Vẽ đồ thị của quá trình này trên sơ đồ TV. Tìm âm lượng $V_3$ nếu biết âm lượng $V_1$ và $V_2 = V_4 = V$.
 
-Cơm. 17.
+Hình 17.
 
-Cơm. 18.
+Hình 18.
 
 Ở đây $U = 220$v là điện áp mạng, $I$ là dòng điện trong mạch.
 
@@ -275,7 +275,7 @@ $$v_1 = \frac{2\pi R_1}{T_1} \approx 995\ m/sec,$$
 
 Ánh sáng từ mặt trời
 
-Cơm. 19.
+Hình 19.
 
 và tốc độ tuyến tính của các điểm trên bề mặt trái đất
 
@@ -295,4 +295,4 @@ Chúng ta biểu thị bằng $F_1$ hình chiếu của lực tác dụng lên k
 
 $$F_1 = k_1(l_1 - x).$$
 
-Cơm. 20.
+Hình 20.

@@ -28,11 +28,11 @@ M568. Thiết kế tứ giác lồi ABCD cắt nhau tại điểm O. Chứng min
 a) Nếu bán kính đường tròn nội tiếp các tam giác AOB, BOC, COD và DOA bằng nhau thì ABCD là hình thoi;
 b) Nếu bán kính đường tròn nội tiếp các tam giác ABC, BCD, CDA và DAB bằng nhau thì ABCD là hình chữ nhật.
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
-Cơm. 3.
+Hình 3.
 
 Gọi $r$ là bán kính, $O_1$ và $O_2$ là tâm của các đường tròn nội tiếp tam giác AOB và COD; $P, Q, R, S$ là điểm tiếp tuyến của các đường tròn này với các cạnh AO, BO, CO, DO của các tam giác này (Hình 1).
 

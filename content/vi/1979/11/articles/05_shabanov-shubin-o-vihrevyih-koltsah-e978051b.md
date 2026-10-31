@@ -51,7 +51,7 @@ Các xoáy trong nước có thể thu được bằng pipet và mực thông th
 
 Bạn có thể làm hơi khác một chút: thả một dòng mực từ pipet trực tiếp vào nước (Hình 4). Trong trường hợp này, các vòng xoáy có kích thước lớn hơn một chút.
 
-Cơm. 1. Hình 2
+Hình 1. Hình 2
 
 2 «Kvant» № 11
 
@@ -67,11 +67,11 @@ Chuyển động của môi trường xung quanh vòng xoáy
 
 Họ di chuyển bằng cách nào? Chúng ta hãy lấy hai giá ba chân, làm ẩm một cái bằng axit clohydric, cái còn lại bằng amoniac và treo chúng ở khoảng cách xa
 
-Cơm. 3.
+Hình 3.
 
-Cơm. 4.
+Hình 4.
 
-Cơm. 5.
+Hình 5.
 
 18
 
@@ -91,4 +91,4 @@ Hóa ra có ba trường hợp có thể xảy ra. Trường hợp thứ nhất 
 
 Trường hợp thứ 2 là khi vòng 2 cháy, chạm vào vòng 1 (Hình 9, b). Kết quả là dòng chảy mạnh hơn của vòng thứ hai sẽ phá hủy vòng thứ nhất. Theo quy định, các vết mực nhỏ mới được hình thành từ cục mực còn sót lại từ vòng đầu tiên.
 
-Cơm. 9.
+Hình 9.

@@ -46,11 +46,11 @@ Dưới đây chúng tôi trình bày một số bài toán môn vật lý đư�
 
 5. Một vật có khối lượng $m=20$ $kg$ bị kéo dọc theo một mặt phẳng nằm ngang với một lực $F=120$ $N$. Nếu lực này tác dụng vào vật một góc $\alpha_1=60^\circ$ so với phương ngang thì vật sẽ chuyển động đều. Vật này sẽ chuyển động với gia tốc bằng bao nhiêu $a$ nếu cùng một lực tác dụng một góc $\alpha_2=30^\circ$ so với đường chân trời? Chấp nhận $g=10$ $m/sec^2$; độ chính xác tính toán 10%.
 
-Cơm. 1.
+Hình 1.
 
 ⟦folio 68⟧
 
-Cơm. 2.
+Hình 2.
 
 áp suất, truyền khí từ xi lanh này sang xi lanh khác có chênh lệch áp suất $\Delta p \geq 80$ cm·pm·cm. Một xi lanh chứa đầy khí, ở nhiệt độ $t_1 = 17^\circ$ C có áp suất $P = 760$ mm·pm·cm., trong xi lanh kia có chân không. Áp suất nào sẽ được thiết lập trong các bình nếu chúng được nung nóng đến nhiệt độ $t_2 = 109^\circ$ C?
 

@@ -26,19 +26,19 @@ translation_quality: draft
 
 Lời giải bao gồm hai phần. Đầu tiên chúng ta sẽ chứng minh diện tích phần chung không nhỏ hơn một nửa diện tích của tam giác $A_1B_1C_1$ và $KLM$, nếu các điểm $K$, $L$ và $M$ lần lượt nằm trên các đoạn $AB_1$, $CA_1$ và $BC_1$?
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
-Cơm. 3.
+Hình 3.
 
 M280. Cho một tam giác $ABC$ có diện tích 1. Đặt $A_1, B_1$ và $C_1$ lần lượt là trung điểm của các cạnh $BC$, $AC$ và $AB$. Diện tích tối thiểu mà phần chung của tam giác $A_1B_1C_1$ và $KLM$ có thể có là bao nhiêu nếu các điểm $K$, $L$ và $M$ lần lượt nằm trên các đoạn $AB_1$, $CA_1$ và $BC_1$?
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
-Cơm. 3.
+Hình 3.
 
 M281. Một đa giác lồi có thể có bao nhiêu cạnh, tất cả các đường chéo của nó đều dài?
 
@@ -65,7 +65,7 @@ Trong một tứ giác lồi $A_1A_2A_{n-2}A_{n-1}$, tổng các đường chéo
 ⟦folio 28⟧
 
 ⟦figure⟧
-Cơm. 4.
+Hình 4.
 
 Rõ ràng là $n>3$ (tam giác không có đường chéo). Đối với các trường hợp $n=4$ và $n=5$, rất dễ xây dựng các đa giác có thuộc tính được chỉ định: chúng là hình vuông và hình ngũ giác đều.
 
@@ -78,7 +78,7 @@ G. A. Galperin
 **M283.** *Một đa giác lồi có tính chất sau: nếu dịch chuyển tất cả các cạnh của nó ra bên ngoài một khoảng bằng 1 thì các đường thẳng thu được sẽ tạo thành một đa giác giống với đa giác ban đầu. Chứng minh rằng một đường tròn có thể nội tiếp trong đa giác này.*
 
 ⟦figure⟧
-Cơm. 5.
+Hình 5.
 
 ⟦column⟧
 
@@ -238,7 +238,7 @@ trong đó $\gamma$ là hằng số hấp dẫn, $M$ là khối lượng của S
 
 Bán kính của Sao Hỏa có thể được xác định trực tiếp từ điều kiện bài toán (xem Hình 12): $R_{M} = l \ tg \frac{\alpha}{2} = l \frac{\alpha}{2}$ (vì $\alpha$ nhỏ nên $tg \frac{\alpha}{2} = \frac{\alpha}{2}$).
 
-Cơm. 12.
+Hình 12.
 
 Để tìm khối lượng của Sao Hỏa, hãy xem xét chuyển động của vệ tinh Phobos của nó. Để đơn giản cho việc tính toán, chúng ta sẽ giả sử rằng vệ tinh quay theo quỹ đạo tròn, bán kính $R$ bằng nhau (xem Hình 12) $R = l \ tg \beta = l \beta$. Chu kỳ quỹ đạo của vệ tinh là $T$. Gia tốc hướng tâm $a = \omega^{2} R = \left(\frac{2\pi}{T}\right)^{2} R$ được truyền tới vệ tinh bởi lực hấp dẫn $F = \gamma \frac{mM}{R^{2}}$ (m là khối lượng của vệ tinh). Do đó $a = \frac{F}{m}$ hoặc $\left(\frac{2\pi}{T}\right)^{2} R = \gamma \frac{M}{R^{2}}$, từ đó
 
@@ -265,10 +265,10 @@ trong đó $I_{3}$ là dòng điện và $U_{3}$ là điện áp trên điện t
 ki dùng làm lò sưởi. Hình 13 cho thấy sơ đồ được sử dụng trong trường hợp cần thiết lượng nhiệt cung cấp cùng lúc phụ thuộc rất ít vào áp suất. Điện trở $R_3$ là cuộn dây của bộ sưởi, $R_1$ và $R_2$ là một số điện trở không đổi nằm bên ngoài buồng áp suất cao. Ở tỷ lệ nào giữa $R_1$, $R_2$ và $R_3$ thì công suất tiêu tán trên điện trở $R_3$ thay đổi ít nhất khi giá trị của điện trở $R_3$ thay đổi?
 
 ⟦figure⟧
-Cơm. 13.
+Hình 13.
 
 ⟦figure⟧
-Cơm. 14.
+Hình 14.
 
 ⟦column⟧
 
@@ -303,7 +303,7 @@ Với tỷ lệ này giữa $R_1$, $R_2$ và $R_3$, công suất giải phóng �
 F295. Độ chính xác của việc đo gia tốc trọng trường trên bề mặt Trái đất là bao nhiêu để phát hiện sự thay đổi giá trị này trong ngày do lực hấp dẫn của Mặt trăng? Giả sử phép đo được thực hiện tại một điểm nằm trong mặt phẳng quỹ đạo của Mặt trăng; bỏ qua chuyển động quay của Trái Đất.
 
 ⟦figure⟧
-Cơm. 15.
+Hình 15.
 
 ⟦column⟧
 

@@ -65,7 +65,7 @@ Giải thích "hình học" của F (k, N) là gì? Để đơn giản, cho k = 
 
 ⟦folio 45⟧
 
-Cơm. 2.
+Hình 2.
 
 $x_2 \geq 0, x_3 \geq 0$ (Hình 3), lũy thừa $M$ với tọa độ nguyên, khoảng cách ít nhất so với gốc tọa độ $O$ (tổng các bình phương mà chúng ta quan tâm không gì khác hơn bình phương khoảng cách từ điểm $O$ đến $M$). Đương nhiên, chúng ta cần đưa điểm này về đáy của phân phối lại hạ từ $O$ xuống mặt phẳng của tam giác $ABC$, tức là đến điểm $\left(\frac{N}{3}; \frac{N}{3}; \frac{N}{3}\right)$.
 
@@ -97,4 +97,4 @@ chúng tôi đã áp dụng hệ thống số $N$-ary).
 
 Như trước đây, chúng ta sẽ giả sử rằng ở hàng 0 có các ô được điền $n_0$ và ở bất kỳ hàng nào khác không có ít hơn $n_0$. Chúng ta hãy xây dựng hình vuông $Q_1$ theo cách tương tự. Hãy thực hiện với $Q_1$ giống như cách chúng ta đã làm với $Q_0$ - chúng ta chọn hàng trong đó có số ô được tô bóng ít nhất (đặt đây là hàng đầu tiên, tức là hàng có số $n_0$ trong ô vuông ban đầu), biểu thị số ô được tô bóng trong đó bằng $n_1$ và loại bỏ những ô đầu tiên từ $Q_1$ $n_1$ hàng và cột, chúng ta có được một hình vuông $Q_2$. Chúng ta sẽ xây dựng với nó theo cách tương tự, v.v., cho đến hình vuông $Q_{k-2}$ (Hình 8). Primogolniki tương tự như $\Pi_0$ sẽ được ký hiệu là
 
-Cơm. 7.
+Hình 7.

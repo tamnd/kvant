@@ -28,7 +28,7 @@ NHÂN VIÊN VẤN ĐỀ
 
 ⟦figure⟧
 
-Cơm. 2
+Hình 2
 
 Hệ số ma sát của đai ốc trên mặt phẳng là P tg D, trong đó D là góc ma sát (tức là góc nghiêng tại đó bắt đầu trượt). Đai ốc phẳng P bị lệch khỏi đường OB, được gọi là đường có độ dốc lớn nhất hoặc đường có độ dốc lớn nhất và được thả ra mà không có tốc độ ban đầu. Với góc tối đa bằng bao nhiêu $M_{max}$ đai ốc có thể bị lệch khỏi đường có độ dốc lớn nhất mà nó không bắt đầu chuyển động sau khi được thả ra? A. Burov
 
@@ -80,7 +80,7 @@ bò lên trên với tốc độ không đổi theo quy tắc của chúng tôi 
 
 M2793*. Trong tam giác nhọn ABC (AB AC), điểm O là tâm của đường tròn ngoại tiếp: (Hình 1). Giả sử đường tiếp tuyến của: vẽ tại điểm A, cắt đường thẳng BC tại điểm D. Đường thẳng DO cắt các đoạn AB và AC lần lượt tại các điểm E và F. Điểm G được dựng sao cho AEGF là hình bình hành. Gọi K và H lần lượt là giao điểm của đoạn BC với các đoạn EG và FG. Chứng minh đường tròn (GKH) tiếp xúc với đường tròn:.
 
-Cơm. 1
+Hình 1
 
 "QUANTA"
 
@@ -88,7 +88,7 @@ Cơm. 1
 
 ⟦figure⟧
 
-Cơm. 2
+Hình 2
 
 Cho điểm T đối xứng với điểm A so với DO (Hình 2). Khi đó DT là tiếp tuyến của đường tròn: đối xứng với tiếp tuyến DA đối với DO. Chúng tôi có ETF FAE EGF. Suy ra các điểm E, F, T và G cùng nằm trên một đường tròn. Tiếp theo ETD DAE ACB EKD. Suy ra các điểm D, E, K, T cùng nằm trên một đường tròn. Suy ra T là điểm Mikel của bốn đường thẳng DBC, DEF, EKG, FHG. Điều này có nghĩa là các điểm T, K, H và G cũng nằm trên cùng một đường tròn. Để hoàn thành lời giải cần chứng minh DT tiếp tuyến với đường tròn (TKHG). Sử dụng sự bằng nhau của các góc nội tiếp, tính song song và tính đối xứng đối với DO, ta có DTK FEK EFA TFE TGK. Đẳng thức thu được DTK TGK có nghĩa là DT tiếp tuyến với đường tròn (TKHG). Đồng Lưu
 

@@ -33,9 +33,9 @@ Hình học được học ở trường được gọi là Euclidian để vinh
 
 Hình học Euclide không phải là khả năng logic duy nhất
 
-Cơm. 1. Trong các hình học của Euclid, Lobachevsky và Riemann có các hình học song song khác nhau.
+Hình 1. Trong các hình học của Euclid, Lobachevsky và Riemann có các hình học song song khác nhau.
 
-Cơm. 2. Trong một phần hạn chế của không gian, không thể nhìn thấy được cơ chế nào diễn ra.
+Hình 2. Trong một phần hạn chế của không gian, không thể nhìn thấy được cơ chế nào diễn ra.
 
 ⟦folio 15⟧
 
@@ -73,7 +73,7 @@ Tất nhiên, ví dụ đơn giản nhất về mặt phẳng vsclide cục bộ
 
 Nhưng chúng ta chưa có bất kỳ "hình học" nào trên hình trụ. Chúng ta cần xác định khoảng cách giữa các điểm, tìm ra những gì cần đặt dưới “đường thẳng” trên hình trụ, v.v. Để làm điều này, chúng ta cắt hình trụ $U$ dọc theo một trong các bộ tạo và chuyển nó lên mặt phẳng tọa độ $Oxy$ dưới dạng một mặt phẳng vô hạn $P$, các điểm $(x; y)$ trong đó thỏa mãn bất đẳng thức $0 \leq y \leq 2\pi$ (Hình 4). Chúng ta sẽ giả sử rằng một dải phẳng $P$ có “các cạnh được dán” (nghĩa là một dải trong đó tất cả các cặp điểm $(b; 0)$,
 
-Cơm. 3. Xi lanh vô hạn.
+Hình 3. Xi lanh vô hạn.
 
 (b; 2π) được coi là giống nhau) và xác định “hình học” trên hình trụ. Như các nhà toán học nói, chúng tôi xác định các cặp điểm có dạng $(b; 0)$ và $(b; 2\pi)$ cho tất cả $b$ và xem xét hình học trên dải $P$, có tính đến mối quan hệ này.
 
@@ -85,7 +85,7 @@ Hình học trên một hình trụ
 
 Chúng ta đã chứng minh được rằng hình học cục bộ (nhỏ) của hình trụ là
 
-Cơm. 4. Hình trụ (dải có các mặt được dán) - địa phương-Euclide.
+Hình 4. Hình trụ (dải có các mặt được dán) - địa phương-Euclide.
 
 ⟦folio 17⟧
 
@@ -107,9 +107,9 @@ Bài toán 2. Tìm (đồng nhất) các “đường thẳng”, các “đư�
 
 Không còn trường hợp các tiên đề khác bị vi phạm nữa. Tiếp theo là: Chỉ có một đường thẳng đi qua hai điểm. Ví dụ như màu đỏ
 
-Cơm. 5. Khoảng cách ngắn nhất giữa điểm A và C là $|AK'| + |KC|$.
+Hình 5. Khoảng cách ngắn nhất giữa điểm A và C là $|AK'| + |KC|$.
 
-Cơm. 6. Trên hình trụ có ba đường thẳng: đường xoắn ST, đường thẳng KL, đường tròn MN.
+Hình 6. Trên hình trụ có ba đường thẳng: đường xoắn ST, đường thẳng KL, đường tròn MN.
 
 ⟦folio 18⟧
 
@@ -131,9 +131,9 @@ Ví dụ: hãy tính “khoảng cách” giữa các điểm $M\left(-\frac{3}{
 
 Bài toán 5. a) Cho ví dụ về các cặp điểm của hình chữ nhật $T$, “khoảng cách” giữa là $\sqrt{a^2+b^2}$; b) chứng minh rằng “khoảng cách” giữa hai điểm bất kỳ không lớn hơn $\sqrt{a^2+b^2}$; c) chứng minh rằng với bất kỳ điểm nào cũng có một điểm duy nhất nằm cách điểm đã cho một khoảng $\sqrt{a^2+b^2}$.
 
-Cơm. 7. Hình xuyến phẳng là một hình chữ nhật được dán bằng keo. Khoảng cách ngắn nhất giữa các điểm $M$ và $N$ là $|MM_1|+|M'_1N'|$.
+Hình 7. Hình xuyến phẳng là một hình chữ nhật được dán bằng keo. Khoảng cách ngắn nhất giữa các điểm $M$ và $N$ là $|MM_1|+|M'_1N'|$.
 
-Cơm. 8. Hai “đường thẳng” (đỏ và xanh) trên hình xuyến.
+Hình 8. Hai “đường thẳng” (đỏ và xanh) trên hình xuyến.
 
 ⟦folio 19⟧
 
@@ -155,7 +155,7 @@ Dải Mobius vô hạn
 
 Chúng ta hãy xem xét lại dải vô hạn $Π : a \leqslant y \leqslant b, -\infty < x < +\infty$, nhưng lần này chúng ta sẽ xác định các cạnh của dải $Π$ theo định luật sau: điểm $(x; a)$ được xác định bằng điểm $(-x; b)$ (nghĩa là đường thẳng $y = b$ đầu tiên được phản chiếu trong gương so với trục $Oy$ và chỉ sau đó mới được xác định bằng đường thẳng $y = a$). Các định nghĩa về "khoảng cách" và "thẳng" tương tự như trường hợp hình trụ và hình xuyến phẳng. Mặt phẳng Wuclide địa phương thu được được gọi là “dải Möbius vô hạn”.
 
-Cơm. 10. Các đường thẳng trên dải Mobius vô tận: đen (dọc), xanh lam (MN), đỏ (A'B).
+Hình 10. Các đường thẳng trên dải Mobius vô tận: đen (dọc), xanh lam (MN), đỏ (A'B).
 
 2*
 
@@ -169,7 +169,7 @@ Chai Klein phẳng
 
 Chúng ta hãy quay lại hình chữ nhật trong Hình 7. Hãy giới thiệu các quy tắc nhận dạng sau: cạnh AD được xác định bằng BC trong khi vẫn giữ nguyên thứ tự các điểm, nghĩa là điểm (-a, y) ∈ AD được xác định bằng điểm (a; y) ∈ BC, và cạnh AB được xác định bằng cạnh CD có sự thay đổi về thứ tự các điểm, tức là điểm (x: -b) ∈ AB được xác định bằng điểm (-x: b) ∈CD; một phần, tất cả các đỉnh sẽ được tính là một điểm. Chúng ta sẽ giới thiệu “đường thẳng” và quy tắc đo “khoảng cách” như trên. Bạn có thể kiểm tra lại xem vùng lân cận của mỗi điểm có hình học là Euclide hay không (thực hiện việc kiểm tra này đối với vùng lân cận của đỉnh của một hình chữ nhật). Mô hình hình học Euclide địa phương này được gọi là gorom phẳng một mặt hoặc chai Klein phẳng.
 
-Cơm. 11. Mô hình chai Klein (có khả năng tự cắt).
+Hình 11. Mô hình chai Klein (có khả năng tự cắt).
 
 Bài 9. Khám phá hình học trên chai Klein phẳng.
 

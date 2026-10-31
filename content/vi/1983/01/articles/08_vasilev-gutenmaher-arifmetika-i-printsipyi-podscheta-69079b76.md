@@ -122,11 +122,11 @@ Trước hết, hãy lưu ý rằng đối với số nguyên tố $p$ thì luô
 
 Thật vậy, theo định nghĩa, số nguyên tố $p$ chỉ có hai de-
 
-Cơm. 1. Ước số và phần bù của chúng
+Hình 1. Ước số và phần bù của chúng
 
 ⟦folio 33⟧
 
-Cơm. 2. Quy tắc tích: các ước số $2^{\beta_1} \cdot 3^{\beta_2}$ của số $144 = 2^4 \cdot 3^2 (0 \leq \beta_1 \leq 4, 0 \leq \beta_2 \leq 2)$ được đặt trong bảng $5 \times 3$.
+Hình 2. Quy tắc tích: các ước số $2^{\beta_1} \cdot 3^{\beta_2}$ của số $144 = 2^4 \cdot 3^2 (0 \leq \beta_1 \leq 4, 0 \leq \beta_2 \leq 2)$ được đặt trong bảng $5 \times 3$.
 
 chọn: 1 và $p$, và theo hệ quả tất yếu của định lý cơ bản của số học, số $p^a$ có $(a+1)$ ước số: 1, $p$, $p^2$, ..., $p^a$ (được coi là $p^0 = 1$).
 
@@ -194,9 +194,9 @@ Chúng ta phải đếm có bao nhiêu số có trong hình vuông nhưng không
 
 Bây giờ với hiệu $N - (N_1 + N_2 + N_3)$ chúng ta cộng tổng $(N_{12} + N_{13} + N_{23})$. Sau đó, chúng tôi sẽ tính toán chính xác tất cả các số chỉ thuộc một trong hai vòng tròn và chỉ các số
 
-Cơm. 4.
+Hình 4.
 
-Cơm. 5. Nếu tất cả những thứ này nằm trong hình vuông gồm $N$ phần tử, thì bên ngoài các hình tròn có $N - N_1 - N_2 - N_3 + N_{12} + N_{23} + N_{31} - N_{123}$ trong số chúng.
+Hình 5. Nếu tất cả những thứ này nằm trong hình vuông gồm $N$ phần tử, thì bên ngoài các hình tròn có $N - N_1 - N_2 - N_3 + N_{12} + N_{23} + N_{31} - N_{123}$ trong số chúng.
 
 ⟦folio 35⟧
 

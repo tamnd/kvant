@@ -38,7 +38,7 @@ $$F_{\text{ck}} = kN.$$
 
 Kinh nghiệm cho thấy tổng $F_{\text{ck}}$ có phần nhỏ hơn $F_{\text{max}}$. Tuy nhiên, sự khác biệt không lớn và đối với lời giải hầu hết tất cả bài toán đều được coi là $F_{\text{ck}} = F_{\text{max}}$. Cách tiếp cận này đã trở nên quen thuộc đến mức tính tổng quát của nó thậm chí không bị giới hạn. Sự phụ thuộc của lực ma sát vào tốc độ cũng được áp dụng theo cách tương tự. Trong Hình 1, đường chấm chấm thể hiện (hơi phóng đại) sự phụ thuộc quan sát được bằng thực nghiệm của lực ma sát vào tốc độ, và đường liền nét màu đỏ thể hiện sự biểu diễn đơn giản tổng quát của sự phụ thuộc này.
 
-Cơm. 1.
+Hình 1.
 
 ⟦folio 69⟧
 
@@ -89,6 +89,6 @@ Nếu $F_p \geq F_{TP}$, khối lập phương bắt đầu trượt vì lực m
 
 $$F^2 + (mg\sin\alpha)^2 = (kmg\cos\alpha)^2.$$
 
-Cơm. 3.
+Hình 3.
 
-Cơm. 4.
+Hình 4.

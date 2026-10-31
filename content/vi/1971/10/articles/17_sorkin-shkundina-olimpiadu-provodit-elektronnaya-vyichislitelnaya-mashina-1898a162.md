@@ -51,7 +51,7 @@ Phân tích bài toán của vòng đầu tiên
 
 1. Rõ ràng là mỗi vật trong số tám vật bao quanh khối lập phương ở các góc của cơ thể là một hình tam giác đều có các góc vuông giữa các gân bên (Hình 1). Nếu như
 
-Cơm. 1.
+Hình 1.
 
 biểu thị cạnh của đáy của hình gốc bằng $b$, sau đó là $AD = \frac{b\sqrt{3}}{2}, OD = \frac{b\sqrt{3}}{6}, CD = \frac{b}{2}$, và sau đó, theo định lý Pythagore, chiều cao của hình gốc là $EO = \frac{b\sqrt{6}}{6}$. Diện tích của đáy là $\frac{b^2\sqrt{3}}{4}$. Do đó, thể tích của một khối nguyên thủy như vậy bằng $\frac{b^3\sqrt{2}}{24}$ và thể tích của một vật thu được từ một khối lập phương trong số tám khối nguyên thủy đó bằng
 
@@ -67,9 +67,9 @@ Lưu ý rằng chỉ có 20% học sinh tìm thấy cả hai lời giải bài t
 
 2. Hãy chứng minh rằng phân biệt $D$ của phương trình bậc hai này
 
-Cơm. 2a.
+Hình 2a.
 
-Cơm. 26.
+Hình 26.
 
 ⟦folio 60⟧
 
@@ -101,7 +101,7 @@ Q.E.D.
 
 5. Số lượng người tham gia cuộc thi áp đảo đã giải quyết được điều này bài toán
 
-Cơm. 3.
+Hình 3.
 Giới thiệu việc xét đường tròn phụ (xem «Kvant» Số 1, 1971). Tuy nhiên, bài toán này cho phép học lời giải ngắn hơn (Galina Averbukh, $10^6$ lớp học số 200, Alexey Vodovozov, $10^a$ lớp học số 569).
 
 Đặt trong tam giác $ABC$ (Hình 3), đường trung tuyến $BD$, bisserris $BE$ và đường cao $BF$ chia góc $B$ thành bốn phần bằng nhau, mỗi phần được ký hiệu là $\alpha$. Sau đó
@@ -190,8 +190,8 @@ Về bài viết “Ghi chú cờ vua và toán học” (xem «Kvant» số 9)
 
 1. Đánh dấu tất cả các ô vuông của bàn cờ (ngoại trừ ô trung tâm mà quân mã không thể lấy được) theo thứ tự mà quân mã đi qua chúng (Hình 1 a) và nhìn vào hình phụ 1 b.
 
-Cơm. 1 một.
-Cơm. 1 b.
+Hình 1 một.
+Hình 1 b.
 
 2. Lấy một sân rộng 2 tầng chạy dọc theo mép bảng. Đảm bảo rằng con ngựa có thể đi qua tất cả các ô vuông của sọc này, dẫm lên từng ô một lần (bạn có thể bắt đầu từ bất kỳ ô vuông nào của sọc này). Chia toàn bộ bảng thành các sọc như vậy và bắt đầu con đường của bạn từ trường trung tâm.
 

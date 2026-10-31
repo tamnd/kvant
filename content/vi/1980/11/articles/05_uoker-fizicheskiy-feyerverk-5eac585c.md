@@ -50,7 +50,7 @@ Nếu bạn muốn thủ thuật này thú vị hơn, hãy gắn bốn cánh qu�
 
 Nếu bạn cố gắng đổ nước vào một cái vòi như trong Hình 2, sẽ không có một giọt nước nào chảy ra từ đầu kia. Và chúng tôi sẽ không cung cấp đủ cho bạn để rót vào. Tại sao?
 
-Cơm. 1.
+Hình 1.
 
 ⟦folio 14⟧
 

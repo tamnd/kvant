@@ -40,9 +40,9 @@ thiết bị kính vạn hoa
 
 Để làm kính vạn hoa, bạn sẽ cần một ít kính (tốt hơn là nên lấy
 
-Cơm. 1. Mở kính vạn hoa.
+Hình 1. Mở kính vạn hoa.
 
-Cơm. 2. Kính vạn hoa tự chế.
+Hình 2. Kính vạn hoa tự chế.
 
 dải kính, không phải gương, sau này chúng tôi sẽ giải thích lý do tại sao), một tờ giấy dày, một ít keo dán và hai tấm bìa cứng nhỏ. Kính vạn hoa được bán trong các cửa hàng được chế tạo theo cách mà không thể thay đổi góc giữa các gương. Chúng tôi sẽ làm một chiếc kính vạn hoa tự chế, cái này được điều chỉnh cho các thí nghiệm.
 
@@ -62,7 +62,7 @@ Nhân tiện, Hình 3 giải thích dải gương là gì. Nó có hai bề mặ
 
 Nếu bạn đặt một tấm gương vào kính vạn hoa, chùm tia phản xạ thứ hai sẽ xuất hiện, điều này cũng sẽ gây ra sự biến dạng đến mức không thể tạo ra được gì, đặc biệt là với nhiều phản xạ trong gương. Rốt cuộc, tia thứ nhất và tia thứ hai trộn lẫn với nhau và tạo ra sự thay đổi trong ảnh. Khi phản ánh
 
-Cơm. 3. Khi phản chiếu trong gương thường, có thể nhìn thấy ba cây bút chì.
+Hình 3. Khi phản chiếu trong gương thường, có thể nhìn thấy ba cây bút chì.
 
 tia thứ hai không xuất hiện trong kính - nó bị bề mặt phía sau hấp thụ. Một chiếc gương lớn với bề mặt phản chiếu phía trước sẽ phù hợp với chúng ta - cũng có những chiếc gương trong kính thiên văn phản xạ.
 
@@ -70,7 +70,7 @@ Chúng ta hãy nhớ lại rằng sự phản xạ của tia sáng từ gương 
 
 Chúng ta hãy thử tìm cách tạo ra những hình ảnh cần thu được trong kính vạn hoa. Giả sử rằng có một hình ảnh phẳng phía trước kính vạn hoa (chúng tôi sẽ loại trừ hình ảnh ba chiều để đơn giản),
 
-Cơm. 4. “Góc tới bằng góc phản xạ.”
+Hình 4. “Góc tới bằng góc phản xạ.”
 
 ⟦folio 43⟧
 
@@ -86,7 +86,7 @@ Tuyên bố bài toán 1 có giá trị đối với bất kỳ điểm nào c�
 
 ⟦folio 44⟧
 
-Cơm. 6. Hình học phản xạ kép trong gương (chiếu lên ảnh phẳng).
+Hình 6. Hình học phản xạ kép trong gương (chiếu lên ảnh phẳng).
 
 đa giác cơ bản), sau đó được phản chiếu trong gương $R_2$ và chỉ sau đó nó chạm vào điểm $T$ - trong mắt chúng ta. Đối với chúng ta, dường như tia sáng đến từ điểm $A_2$ - ảnh của điểm $A$. Điểm $A_2$ hóa ra như thế này. Vì tia đầu tiên được phản xạ ở cạnh $R_1$ nên chúng ta phản xạ điểm $A$ ở cạnh $R_1$, nên chúng ta nhận được điểm $A_1$ (Hình 6). Sau đó, tia sáng, bây giờ đến như thể từ điểm $A_1$, được phản xạ ở cạnh $R_2$ - chúng ta cũng hãy phản chiếu điểm $A_1$ ở cạnh $R_2$, chúng ta có điểm $A_2$ - hình ảnh của điểm $A$ với sự phản chiếu ở các cạnh $R_1$ và $R_2$.
 
@@ -112,9 +112,9 @@ Trước tiên, chúng ta hãy xem câu hỏi sau: từ những điểm nào tro
 
 Ví dụ, hãy lấy hai chiếc gương được đặt ở một góc $150^\circ$. Chúng ta hãy xem hình chiếu của chúng lên mặt phẳng hình ảnh (Hình 9). Từ vị trí $T_1$ tại điểm $X$ ta thấy ảnh của điểm $A$ (phản chiếu ở cạnh $R_1$). Nhưng từ vị trí $T_2$ tại cùng một điểm $X$
 
-Cơm. 8. Vùng hiển thị hình ảnh $A_1$.
+Hình 8. Vùng hiển thị hình ảnh $A_1$.
 
-Cơm. 9. Từ các vị trí khác nhau tại điểm $X$ nhìn thấy được hình ảnh của các điểm khác nhau: từ vị trí $T_1$ - ảnh của điểm $A$, từ vị trí $T_2$ - ảnh của điểm $B$.
+Hình 9. Từ các vị trí khác nhau tại điểm $X$ nhìn thấy được hình ảnh của các điểm khác nhau: từ vị trí $T_1$ - ảnh của điểm $A$, từ vị trí $T_2$ - ảnh của điểm $B$.
 
 Chúng ta thấy ảnh của điểm $B$ (phản chiếu ở cạnh $R_2$), vì đường thẳng nối các điểm $T_2$ và $X$ cắt cạnh $R_2$.
 
@@ -130,9 +130,9 @@ Vì vậy, chúng ta đã khám phá cách thu được một hình ảnh trong 
 
 Chúng ta gọi kính vạn hoa là “quy tắc vật lý” nếu hình ảnh trong mặt phẳng hình ảnh của nó không phụ thuộc vào điểm quan sát và “quy tắc toán học” nếu đối với bất kỳ điểm X nào, mặt phẳng hình ảnh có các chuỗi phản xạ hình học khác nhau dẫn đến điểm X cho trong đó hình ảnh của cùng một điểm của đa giác hàm.
 
-Cơm. 10a. Các đối tượng hoàn toàn mở. Ở một số nơi, hình ảnh chồng lên nhau.
+Hình 10a. Các đối tượng hoàn toàn mở. Ở một số nơi, hình ảnh chồng lên nhau.
 
-Cơm. 106. Đối tượng có khẩu độ, chồng lên nhau.
+Hình 106. Đối tượng có khẩu độ, chồng lên nhau.
 
 Chúng ta hãy lưu ý sự khác biệt giữa các khái niệm toán học và vật lý về tính đúng đắn của kính vạn hoa. Về mặt hình học, chúng ta có thể đưa hình ảnh tới điểm X bằng bất kỳ chuỗi phản xạ nào. Nhưng không phải mọi hình ảnh đều có thể được nhìn thấy từ ít nhất một điểm bên trong kính vạn hoa. Tuy nhiên, từ các ví dụ chúng tôi đã đưa ra trong Hình 7, hình ảnh được phân phối dọc theo đường dẫn màu xanh lam được hiển thị tại điểm X, nhưng không nhìn thấy được dọc theo đường dẫn màu đỏ. Đây là một ví dụ khác.
 
@@ -196,10 +196,10 @@ Chuyển tiếp 3. Điều đó gần như hiển nhiên. Bạn chỉ cần lưu
 
 Chuyển đổi 4. Anh ta cũng chứng minh bằng phản chứng, đây sẽ là một bài toán khác.
 
-Cơm. 11.
+Hình 11.
 48
 
-Cơm. 12.
+Hình 12.
 
 Bài 8. Chứng minh rằng nếu một kính vạn hoa làm bằng hai gương là không đều về mặt toán học thì nó sẽ tìm được các điểm $T_1$, $T_2$ và $X$ và từ điểm $T_1$ và $T_2$ tại điểm $X$ nhìn thấy được ảnh của các điểm khác nhau của đa giác cơ bản.
 
@@ -209,7 +209,7 @@ Hãy thử xác định xem những chiếc kính vạn hoa này có đúng khô
 
 ⟦folio none⟧
 
-Cơm. 14.
+Hình 14.
 
 thì tất cả chúng sẽ giao nhau tại một điểm, trên đó có một khảo sát. Trong kính vạn hoa thông thường, các hình ảnh hợp nhất dọc theo những đường này; trong kính vạn hoa không chính xác, một “đường gấp khúc” xuất hiện dọc theo những đường này.
 

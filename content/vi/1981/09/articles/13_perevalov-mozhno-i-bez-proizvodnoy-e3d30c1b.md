@@ -64,7 +64,7 @@ tính đối xứng của “nửa bên phải” của đồ thị hàm $y=f(x)
 
 ⟦folio 38⟧
 
-Cơm. 10.
+Hình 10.
 
 Có một phương pháp để chuyển đổi biểu đồ vì
 $$\frac{2x-3}{3x+5} = \left(-\frac{19}{9}\right) \cdot \frac{1}{x+\frac{5}{3}} + \frac{2}{3}.$$
@@ -79,7 +79,7 @@ $$y_5 = \left(-\frac{19}{9}\right) \cdot \frac{1}{x+\frac{5}{3}} + \frac{2}{3}$$
 
 Như vậy, đồ thị mong muốn thu được từ đồ thị của hàm $y = \frac{1}{x}$ bằng bốn phép biến đổi liên tiếp: truyền song song
 
-Cơm. 11.
+Hình 11.
 
 Tuyến tính với trục abscissa blevо $\frac{5}{3}$, kéo dài từ trục abscissa $\frac{19}{9}$ lần, đối xứng so với trục abscissa và truyền song song với trục tọa độ $\frac{2}{3}$ (Hình 10).
 

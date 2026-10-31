@@ -39,9 +39,9 @@ Nếu bạn muốn vui vẻ một chút khi tắm, hãy lấy một cây bút ch
 2. Hình ảnh đồng xu trong nước
 Đặt một đồng xu dưới đáy một chiếc bình rộng chứa đầy nước,
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
 và nhìn đồng xu qua nước từ nhiều góc độ khác nhau. Ở một số góc độ, bạn sẽ thấy hình ảnh một đồng xu trên mặt nước (Hình 2). Bây giờ đặt tay của bạn lên mặt sau của lọ. Điều này rất có thể sẽ không ảnh hưởng đến hình ảnh của đồng xu, tuy nhiên, nếu tay bạn bị ướt thì hình ảnh sẽ biến mất. Tại sao?
 
@@ -59,11 +59,11 @@ Nếu bạn từng phải ngồi sau tay lái của một chiếc xe số tự �
 
 ⟦folio 16⟧
 
-Cơm. 3.
+Hình 3.
 
-Cơm. 4.
+Hình 4.
 
-Cơm. 5.
+Hình 5.
 
 Bạn có thể nghĩ rằng tốc độ của xe số tự động đi về phía bên trái của bạn khác biệt đáng kể so với tốc độ của xe số tự động đi về phía bên phải của bạn, mặc dù trên thực tế chúng đang di chuyển với cùng tốc độ. Bạn ước tính tốc độ tự động không chính xác.
 

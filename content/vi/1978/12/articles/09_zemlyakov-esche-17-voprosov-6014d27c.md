@@ -59,7 +59,7 @@ a) không, 6) một, c) hai, d) bốn, e) vô số.
 a) $\sqrt{3}/2,$ 6) $-\sqrt{3}/2,$ c) $1/2,$
 d) $-1/2,$ e) giá trị này không được xác định.
 
-Cơm. 1.
+Hình 1.
 
 ⟦folio 35⟧
 
@@ -81,7 +81,7 @@ a) $P_{10}, 6) P_{100}, b) A_{100}^1, r) C_{100}^1, d) 10^{10}.$
 12. Giới hạn của hàm $f(x)=\frac{x^3-1}{x^2-1}$ tại $x\rightarrow 1$ là bao nhiêu?
 Pic. 2.
 
-Cơm. 3.
+Hình 3.
 
 a) 0, 6) 1, b) 3/2, d) 1/2, e) giới hạn này không tồn tại.
 13. Hình 3 ở trên thể hiện đồ thị của hàm $y=f(x)$. Đồ thị nào $(a, \delta, \theta, \epsilon)$ nằm bên dưới nó có thể là đồ thị của hàm tùy ý $f$, tức là hàm $y=f'(x)$?
@@ -96,9 +96,9 @@ a) cả ba, b) chỉ 1, b) chỉ 3, d) 2 và 3, e) 1 và 3.
 
 a) $a + b + c$, b) $a + b - c$, c) $a - b - c$, d) $-a - b - c$, e) phần mở rộng yêu cầu không được chỉ định.
 
-Cơm. 4.
+Hình 4.
 
-Cơm. 5.
+Hình 5.
 
 17. Độ dài của vectơ $a$ và $b$ bằng $a=1, b=2$. Tích số chấm $(a - b) \cdot (a + b)$ là gì?
 

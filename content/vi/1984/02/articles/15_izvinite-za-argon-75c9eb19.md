@@ -425,9 +425,9 @@ $$\lambda = \frac{R}{kh}.$$
 
 Vì vậy, để tìm $\lambda$, bạn cần tìm $k$. Chúng ta hãy chiếu toàn bộ cấu hình lên mặt phẳng $ABC$ song song với mặt phẳng $NM$ ($M$ là giao điểm của các đường trung tuyến của tam giác $ABC$). Trong trường hợp này, phần trên $D$ sẽ chuyển sang phần giữa $D_1$
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
 các cạnh $AC$ (vì $\frac{|DN|}{|NB|} = \frac{1}{2} = \frac{|D_1M|}{|MB|}$ theo sau $(DD_1) \parallel (NM)$; Hình 2); điều này có nghĩa là mặt $ADC$ sẽ đi vào cạnh $AC$; mặt khác, mặt phẳng $FNM$ sẽ biến đổi thành đường thẳng $HM$ (kể từ $(FNM) \parallel (NM)$); do đó, điểm $F$ sẽ chuyển sang $F_1 = (HM) \cap (AC)$. Vì vậy, $(FF_1) \parallel (NM) \parallel (DD_1)$. Chúng ta hãy vẽ qua điểm $B$ một đường thẳng song song với $(HF_1)$ (xem Hình 2). Hãy đặt $|F_1D_1| = a$ và $\frac{|AF|}{|FD|} = m$. Sau đó $|AF_1| = \frac{|AF|}{|FD|} \cdot |F_1D_1| = ma$, $|B_1F_1| = \frac{|BM|}{|MD_1|} \times |F_1D_1| = 2a$, $|CD_1| = |AD_1| = |AF_1| + |F_1D_1| = (m + 1)a$, $m^2 = \left(\frac{|AF|}{|FD|}\right)^2 = \frac{|CH|}{|HB|} = \frac{|CF_1|}{|F_1B_1|} = \frac{|CD_1| + |D_1F_1|}{|F_1B_1|} = \frac{m + 2}{2}$. Do đó $2m^2 - m - 2 = 0$, $m = \frac{1 + \sqrt{17}}{4}$. Vì vậy, $k = \frac{|CH|}{|CB|} = \frac{|CH|}{|CH| + |HB|} = \frac{1}{1 + \frac{1}{m^2}} = \frac{17 + \sqrt{17}}{34}$.
 
@@ -541,9 +541,9 @@ Tùy chọn 12
 4. $|AD|=2\sqrt{21},|CD|=\sqrt{21},|AB|=|BC|=7\sqrt{3}$. Quét. Sử dụng “tăng cường định lý sin”: $\frac{a}{\sin A}=2R$, trong đó $R$ là bán kính của đường tròn ngoại tiếp (ví dụ, xem trang 42 trong sách “Hình học 8” (M.: Prosveshcheniye, 1977)).
 5. $x=\pm\arccos\frac{1-2a}{2-3a}+2\pi k$, $y=(-1)^l\times a$
 
-Cơm. 5.
+Hình 5.
 
-Cơm. 6.
+Hình 6.
 
 $\times\arcsin\frac{1}{2-3a}+\pi l$, $z=\frac{2a}{1-2a}$ ($k,l\in\mathbb{Z}$) tại $a\in]0;\frac{1}{4}[\cup]\frac{1}{4};\frac{1}{3}$.
 

@@ -65,13 +65,13 @@ e) Thể tích của đa giác này là bao nhiêu?
 
 d) Tìm thể tích của đa giác lồi nhỏ nhất chứa các tập hợp $K_n$ ($n=2,3,\dots$).
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
-Cơm. 3.
+Hình 3.
 
-Cơm. 4.
+Hình 4.
 
 Trước khi đọc thêm lời giải, hãy vẽ các hình $W(\Phi)$ và $W^2(\Phi)$ nếu $\Phi$ là một cặp điểm; phân đoạn; hình chữ nhật; bốn đỉnh thẳng/lib; ba đỉnh của một tam giác. $W(\Phi)$ là gì nếu $\Phi$ là hình lập phương? tám đỉnh của một hình lập phương?
 
@@ -109,7 +109,7 @@ Hãy xem xét các ví dụ cụ thể.
 
 F527. Trong mạch như hình 8, suất điện động của pin là $G=100$ V, điện trở trong của nó là $r=100$ Ohm, điện dung của tụ điện là $C=200$ uF và điện trở của máy cắt là $R=10$ Ohm. Phím K chuyển đổi giữa các điểm ngưng tụ a và b với tần suất $f=10$ lần mỗi giây. Khi nối nó với cực a thì tụ điện được tích điện đầy, khi nối với cực b thì tụ điện được tích điện đầy. Hiệu suất của mạch là bao nhiêu? Cao hơn bao nhiêu lần so với khi máy cắt nối trực tiếp với pin? Sức mạnh nào được giải phóng ở mức kháng cự $R$?
 
-Cơm. 8.
+Hình 8.
 
 Khi một tụ điện được nối với pin, nó sẽ sạc tới điện áp $U=\mathcal{E}$, nhận điện tích $q=CU=\mathcal{C}\mathcal{E}$. Năng lượng của tụ điện trở thành $W=\frac{1}{2}C\mathcal{E}^2$.
 
@@ -155,7 +155,7 @@ một chiều không đổi nick $U=10B$ nối tiếp với một điện trở 
 
 ![Graph](image)
 
-Cơm. 9.
+Hình 9.
 
 F529. Sử dụng công thức dành cho áp phích quảng cáo (Hình 10), xác định: 1) tiêu cự của vật thể camera; 2) ống kính nằm ở khoảng cách bao nhiêu so với lòng bàn tay khi lập công thức; 0) kích cỡ của con cá mà ngư dân đánh bắt được; 4) đường kính của vật thể (giả sử kích thước chi tiết hình ảnh trên công thức không vượt quá 0,2 mm). Thấu kính công thức được coi như thấu kính một mắt.
 

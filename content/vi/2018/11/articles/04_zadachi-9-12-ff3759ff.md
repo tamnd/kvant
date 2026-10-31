@@ -40,7 +40,7 @@ Bài toán dành cho độc lập lời giải
 
 ⟦figure⟧
 
-Cơm. 8
+Hình 8
 
 8. a) Dựa vào cách dựng bài toán trước, dựng đường phân giác vuông góc với đoạn này. b) Làm thế nào để dựng tâm của đường tròn ngoại tiếp một tam giác đã cho? 9. Vẽ hình vuông có các đỉnh tại các nút lưới có diện tích: a) 10; b) 17; c) 26 ô.
 

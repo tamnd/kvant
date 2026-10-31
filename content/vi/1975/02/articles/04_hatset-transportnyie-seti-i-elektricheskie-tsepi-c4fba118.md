@@ -91,7 +91,7 @@ Khi đó bài toán của chúng ta có thể được phát biểu lại như s
 
 ⟦folio 13⟧
 
-Cơm. 2.
+Hình 2.
 
 chúng tôi truy cập giá trị tối đa $X$ (bảy hỗ trợ) theo các hạn chế (2) và các điều kiện (3) và (4) về tính liên tục của luồng ở tất cả các nút:
 
@@ -113,7 +113,7 @@ Quét nó lên. Chúng ta sẽ sử dụng ký hiệu sau: $\sigma$ - nguồn d�
 
 ⟦folio 14⟧
 
-Cơm. 4.
+Hình 4.
 
 Đồng thời, các nút $\alpha$ và $\beta$ xuất hiện trong sơ đồ nhánh, không được vận chuyển. Hướng và độ lớn của dòng điện trong nhánh $\alpha - M - \beta$ chứa nguồn dòng được thực hiện bởi nguồn này; chiều dòng điện trong nhánh $\alpha - N - \beta$ được xác định bởi diode; Chúng ta biểu thị cường độ dòng điện trong đó bằng $I_{ij}$. Chúng ta biểu thị dòng điện trong nhánh $i - \alpha$ và $\beta - j$ lần lượt là $\tilde{x}_{ij}$ và $\tilde{y}_{ij}$; chiều của các dòng điện này được chỉ ra trên sơ đồ.
 
@@ -165,7 +165,7 @@ $$\sum_{i,j} a_{ij}u_{ij} = a_{12}u_{12} + a_{13}u_{13} + a_{23}u_{23} + a_{24}u
 
 ⟦folio 16⟧
 
-Cơm. 5.
+Hình 5.
 
 Điều này có nghĩa là $\tilde{X}$ là giá trị cao nhất có thể có của $X$.
 
@@ -187,7 +187,7 @@ Từ các phần tử giống nhau (được lý tưởng hóa!)—nguồn dòng
 
 Bài toán về việc giảm thiểu chi phí vận chuyển. Giả sử có một mạng lưới giao thông và người ta biết rằng chi phí vận chuyển một đơn vị hàng hóa dọc theo đường $i - j$ bằng $c_{ij}$ (xem Hình 5). Cần xác định khối lượng vận chuyển $x_{ij}$ bằng đường hàng không
 
-Cơm. 6.
+Hình 6.
 
 ⟦folio none⟧
 

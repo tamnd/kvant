@@ -34,7 +34,7 @@ Ví dụ: hãy xem xét bài toán sau đây.
 
 Bài toán 1. Khi xem xét một ngôi nhà có mặt phẳng liền khối đồng nhất nằm ngang, tốc độ của electron phẳng tích điện bằng $v_0$ và vectơ $v_0$ tạo một góc a với phương thẳng đứng (Hình 1). Mật độ điện tích của mặt phẳng là $\sigma$. Quỹ đạo của electron là gì nếu chúng ta đi qua mặt phẳng của nó? Vận tốc của electron khi nó ở cách mặt phẳng một khoảng b là bao nhiêu?
 
-Cơm. 1.
+Hình 1.
 
 Khi lời giải bài toán preregregreb do lực hấp dẫn và ảnh hưởng của electron lên sự phân bố điện tích dọc theo lassine.
 
@@ -178,7 +178,7 @@ Bài toán 3. Trong mô hình Bohr-Rutherfor của nguyên tử hydro, electron 
 
 ⟦folio 39⟧
 
-Cơm. 5.
+Hình 5.
 
 hạt nhân mang điện tích dương. Điện tích hạt nhân $|e|$. Xác định tốc độ và gia tốc của electron trong nguyên tử nếu bán kính của nguyên tử hydro là $r = 0,5 \cdot 10^{-10}$ m.
 
@@ -264,7 +264,7 @@ trong đó $\varphi_1$, $\varphi_2$ là thế của các điểm $x = l$ và $x 
 
 $$\varphi_1 - \varphi_2 = -E(x_1 - l) +$$
 
-Cơm. 7.
+Hình 7.
 
 $$+\left(\frac{Q}{4\pi\varepsilon_0}l - \frac{Q}{4\pi\varepsilon_0 x_1}\right) =$$
 

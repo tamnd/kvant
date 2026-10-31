@@ -42,20 +42,20 @@ Hình 1, 2, 3 được chụp bằng kính hiển vi có độ phóng đại g�
 Các bức ảnh cho thấy rõ sự lặp lại của các yếu tố cấu trúc.
 
 ⟦figure⟧
-Cơm. 1
+Hình 1
 
 ⟦figure⟧
-Cơm. 2
+Hình 2
 
 ⟦figure⟧
-Cơm. 3. Cấu tạo của mắt trung tâm lông đuôi công.
+Hình 3. Cấu tạo của mắt trung tâm lông đuôi công.
 Màu sắc của mắt thay đổi tùy thuộc vào cách ánh sáng chiếu vào chúng và chúng ta nhìn chúng ở góc độ nào.
 (Trong bức ảnh ở bìa trước, đôi mắt này có màu xanh lam.)
 
 Màu sắc của lớp phủ bề mặt có thể thay đổi tùy thuộc vào góc mà ánh sáng chiếu vào bề mặt cách tử, cách định hướng của các tia sáng so với các phần tử của cấu trúc và góc nhìn của bề mặt.
 
 ⟦figure⟧
-Cơm. 4
+Hình 4
 
 Rõ ràng, màu sắc của bề mặt có liên quan đến sự phản xạ của tia.
 Chúng ta hãy xem xét nhiễu xạ định lượng trong ánh sáng phản xạ.
@@ -94,7 +94,7 @@ trong đó $l$ là khoảng cách giữa các lớp mạng liền kề.
 Phương trình này thu được bằng cách xác định độ chênh lệch đường đi $\Delta=\Delta_1+\Delta_2$, giữa các chùm *1* và *2* (Hình 5) và thay thế $\Delta$ cho cực đại nhiễu xạ qua $k\lambda$.
 
 ⟦figure⟧
-Cơm. 5
+Hình 5
 
 Giả sử $k=1$, từ biểu thức (5) ta thu được
 $$

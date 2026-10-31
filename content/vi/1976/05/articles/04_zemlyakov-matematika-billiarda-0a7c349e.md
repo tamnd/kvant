@@ -46,7 +46,7 @@ Về nguyên tắc, các cạnh của bàn bida cũng có thể cong - khi đó 
 
 ⟦folio 22⟧
 
-Cơm. 9.
+Hình 9.
 
 và sự dao động của nó có liên quan chặt chẽ với cái gọi là dao động tự nhiên của màng đàn hồi, có hình dạng vùng Q. Nói một cách đại khái, nếu bạn làm một chiếc trống có hình dạng vùng Q (với khung có dạng đường cong Γ), thì âm thanh âm nhạc do chiếc trống này phát ra có liên quan chính xác đến bàn bida tương ứng! Thật không may, để giải thích sự thật thú vị này, chúng ta sẽ phải đi sâu vào các nhánh toán học quá quen thuộc đối với «Kvant». Người đọc quan tâm chỉ có thể được khuyên nên nghiên cứu đủ toán học để giải thích mối liên hệ giữa bida và trống.
 
@@ -80,7 +80,7 @@ Thu hút độc giả ưu tiên. Nếu lý luận của chúng tôi có vẻ qu�
 
 ⟦folio 24⟧
 
-Cơm. 11.
+Hình 11.
 
 tiếp tuyến tuyến tính của các đường cong, cực trị cục bộ, v.v. - thì chúng tôi khuyên bạn nên xem lại bài viết nêu trên của V. G. Boltyansky và I. M. Yaglom trong tập “Bách khoa toàn thư về toán học cơ bản” (trang 270-346).
 Để bảo vệ, chúng tôi lưu ý rằng một cuộc thảo luận có cấu trúc về tất cả những điều dễ hiểu này sẽ đưa chúng ta đi quá xa khỏi trò chơi bi-a.
@@ -93,7 +93,7 @@ Bây giờ chúng ta hãy áp dụng các nguyên lý đường đi cực trị 
 
 nếu Q là một vùng lồi được giới hạn bởi một đường cong Γ không có điểm dừng thì với n ≥3 tùy ý sẽ có ít nhất một quỹ đạo bi-a tuần hoàn trong vùng Q, gồm đúng n liên kết.
 
-Cơm. 12.
+Hình 12.
 
 Bằng chứng. Chúng ta hãy xem xét tất cả các đường đứt gãy liên kết n đóng không tự giao nhau P_1P_2...P_nP_1 nội tiếp trong miền Q (nghĩa là với các đỉnh P_i trên đường cong Γ). Hãy chọn đường đứt nét dài nhất trong số chúng (nghĩ xem tại sao lại tồn tại một đường đứt gãy như vậy?).
 

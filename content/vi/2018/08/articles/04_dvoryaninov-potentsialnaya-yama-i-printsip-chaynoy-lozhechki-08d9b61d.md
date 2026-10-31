@@ -40,7 +40,7 @@ Hầu như mỗi ngày chúng ta đều quan sát thấy một lỗ hổng tiề
 
 ⟦figure⟧
 
-Cơm. 1
+Hình 1
 
 năng lượng chính của quả bóng. Điểm tối thiểu tương ứng với giếng tiềm năng và điểm tối đa tương ứng với rào cản tiềm năng. Vì vậy, giếng thế trong vật lý là trạng thái của hệ đang được xem xét với thế năng tối thiểu của nó. Bóng không thể tự lăn từ lỗ này sang lỗ khác. Để di chuyển nó, cần phải tác dụng một ngoại lực và thực hiện đủ công để vượt qua rào cản tiềm năng. (Đúng, có những tình huống khi một hạt, không phải một quả bóng vĩ mô, với một xác suất nào đó có thể vượt qua một rào cản như vậy mà không cần bất kỳ sự trợ giúp “từ bên ngoài” nào. Điều này giải thích, chẳng hạn, hiện tượng phân rã alpha của hạt nhân nặng.)
 
@@ -48,7 +48,7 @@ DOI: https://doi.org/10.4213/kvant20180803
 
 ⟦figure⟧
 
-Cơm. 2
+Hình 2
 
 chuyển mạch khi mạch điện mở. Khi đòn bẩy nhựa AB quay quanh điểm O ngược chiều kim đồng hồ, lò xo di chuyển từ vị trí KA đến vị trí KA c và đóng mạch. Dọc theo đường đi này, đầu tiên lò xo bị nén lại (thế năng của nó tăng lên), sau đó giãn ra. Tại sao? Có, vì trong tam giác AOK tổng độ dài hai cạnh AO và AK lớn hơn độ dài cạnh KO. Khi lò xo và đoạn AO nằm trên đoạn KO thì lò xo chắc chắn bị nén. Các vị trí cực trị của lò xo là các lỗ thế. Cả hai vị trí này của lò xo (và đòn bẩy AB) đều ổn định. Hãy làm một thí nghiệm đơn giản. Nếu bạn nhấn nhẹ vào phím công tắc trên tường rồi thả ra, phím sẽ nhấp nháy.
 
@@ -58,7 +58,7 @@ TRƯỜNG HỌC
 
 hòa bình trong trường hợp này là không ổn định. Một ví dụ khác là ngôi nhà bằng thẻ. Nếu khi hệ lệch khỏi vị trí cân bằng, xuất hiện một lực làm hệ trở về trạng thái ban đầu thì vị trí cân bằng này gọi là ổn định. Một ví dụ là một quả bóng nằm trong một cái lỗ (hoặc rỗng). Để nén hoặc kéo dãn một lò xo cần phải thực hiện một số công. Công việc này dẫn đến sự gia tăng thế năng được lưu trữ trong mùa xuân. Một lò xo bị biến dạng có xu hướng trở về trạng thái không biến dạng ban đầu, tương ứng với thế năng cực tiểu. Trạng thái không biến dạng của lò xo là ổn định vì sự kéo giãn hoặc nén của nó gây ra sự xuất hiện của một lực đàn hồi, lực này có xu hướng đưa lò xo (và hệ liên kết với nó) về trạng thái ban đầu. Những lò xo như vậy được sử dụng ở đâu khác? Có nhiều cách triển khai cơ học của sơ đồ mạch được xem xét và các sửa đổi của chúng. Ngay cả trên máy ảnh đã chụp các bức ảnh hiển thị bên dưới trong Hình 5 – 7, nắp che các điểm tiếp xúc ở vị trí mở/đóng cũng được cố định bằng một thiết bị khóa tương tự. Do đó, trong xe điện, nắp hầm khẩn cấp ở trạng thái đứng yên ổn định (xem Hình 5). Để mở cửa sập khi gặp nguy hiểm, lò xo phải bị nén và đưa qua trạng thái cân bằng không ổn định. Chú ý rằng khi bị kéo căng, lò xo luôn thẳng, nhưng lò xo dài bị nén đôi khi gây ra
 
-Cơm. 5
+Hình 5
 
 TRONG
 
@@ -70,10 +70,10 @@ góp phần tạo nên sự “phình to” của nó. Để tránh điều này
 
 ⟦figure⟧
 
-Cơm. 6
+Hình 6
 
 ⟦figure⟧
 
-Cơm. 7
+Hình 7
 
 Và bây giờ – thiết kế bài toán. Hình 7 cho thấy hai lon trà. Ổ khóa của họ hoạt động theo nguyên tắc đã nêu trong bài viết của chúng tôi. Mùa xuân ở đây là ở đâu? Hóa ra vai trò của lò xo được thực hiện bởi một miếng đệm cao su đàn hồi được gia cố xung quanh chu vi của nắp (đồng thời, miếng đệm này đảm bảo độ kín của hộp). Khi đóng lọ, đầu tiên, nắp được ấn vào lọ, sau đó hơi nâng lên (khoảng một milimet). Cả hai đòn bẩy đều cứng đến mức chúng thực tế không bị biến dạng. Miếng đệm bị biến dạng và sau đó được giải phóng khỏi tác động bên ngoài sẽ dễ dàng nâng nắp lên. Nếu tháo miếng đệm ra, hệ thống sẽ ngừng hoạt động.

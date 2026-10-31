@@ -55,7 +55,7 @@ A. A. Bolibrukh, V. M. Uroev, M. I. Shabunin
 
 ⟦folio 30⟧
 
-Cơm. 2. Nhóm số liệu đầu tiên.
+Hình 2. Nhóm số liệu đầu tiên.
 
 1) kim tự tháp và quả bóng có ghi;
 2) đế của kim tự tháp và hai quả bóng (gạch chân: chỉ phần đế, không phải toàn bộ kim tự tháp);
@@ -88,11 +88,11 @@ bó số thứ 4. Lại
 
 ⟦folio 31⟧
 
-Cơm. 3. Chùm số liệu thứ hai.
+Hình 3. Chùm số liệu thứ hai.
 
-Cơm. 4. Chùm số liệu thứ ba.
+Hình 4. Chùm số liệu thứ ba.
 
-Cơm. 5. Chùm số liệu thứ tư.
+Hình 5. Chùm số liệu thứ tư.
 
 thủ tục tương tự; Hình 5, a thể hiện hình vẽ một bó có đánh dấu; Hình 5, b hiển thị bản vẽ mặt cắt “thuận tiện” sử dụng mặt phẳng ACS, trên đó tất cả các góc cần thiết (chúng được đặt bởi các vòm) đều có thể nhìn thấy ở kích thước đầy đủ. Một số góc này, như có thể dễ dàng nhìn thấy từ hình, bằng nhau. Điều này hàm ý sự giống nhau của các tam giác PAC và AHS và phương trình
 

@@ -53,9 +53,9 @@ Do sự phân rã duy nhất của vectơ thành hai vectơ không đối đỉn
 $$\begin{cases} \frac{x}{5} = \frac{n}{4(m+n)} \\ \frac{4x}{5} = \frac{m}{m+n}, \end{cases}$$ hoặc
 $$\begin{cases} \frac{4x}{5} = \frac{n}{m+n} \\ \frac{4x}{5} = \frac{m}{m+n}. \end{cases}$$
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
 ⟦folio 47⟧
 
@@ -99,7 +99,7 @@ Lời giải. Giả sử điểm M nằm bên trong tam giác ABC (Hình 5). V�
 
 $$*)\text{ В несколько ином виде это соотношение имеется в цитированной статье C. Овчинникова.}$$
 
-Cơm. 5.
+Hình 5.
 
 $m:n$, tức là $|BE|:|EC| = m:n$. Khi đó theo công thức (1)
 
@@ -129,7 +129,7 @@ Lời giải. Hãy để chúng tôi giới thiệu các vectơ $\overrightarrow
 
 ⟦folio 48⟧
 
-Cơm. 6.
+Hình 6.
 
 $\overrightarrow{b}, \overrightarrow{c} = \overrightarrow{c}, \overrightarrow{d} = \overrightarrow{d}, \overrightarrow{b} = \frac{\pi}{3}$. Vì $E$ là trung điểm của cạnh $DC$ nên $\overrightarrow{AE} = \frac{1}{2}(\overrightarrow{c} + \overrightarrow{d})$.
 

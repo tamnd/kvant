@@ -35,7 +35,7 @@ Chúng ta hãy nhớ lại rằng trạng thái của khí lý tưởng được
 
 Một hệ được gọi là ở trạng thái cân bằng nhiệt động nếu
 
-Cơm. 1. Hệ nhiệt động đơn giản nhất.
+Hình 1. Hệ nhiệt động đơn giản nhất.
 
 liệu mỗi tham số có cùng giá trị tại bất kỳ điểm nào trong khối của hệ thống hay không. Ví dụ, một chất khí còn lại luôn được phân bố đều trong thể tích, do đó áp suất luôn như nhau. Trạng thái này tương ứng với trạng thái cân bằng. Nếu ít nhất một trong các tham số thay đổi từ điểm này sang điểm khác thì trạng thái của hệ là không cân bằng; nhiều quá trình khác nhau có thể xảy ra trong hệ thống: khuếch tán, truyền nhiệt, v.v. Trạng thái cân bằng khác với trạng thái không cân bằng ở chỗ hệ thống có thể duy trì ở trạng thái cân bằng bao lâu tùy thích, tất nhiên, trừ khi các điều kiện bên ngoài thay đổi.
 
@@ -47,7 +47,7 @@ Việc thay đổi một trong các tham số là cơ chế giữa các tham s�
 
 ⟦folio 59⟧
 
-Cơm. 2. Điểm 1 - trạng thái ban đầu của khí; 1 - đồ thị của một quá trình đẳng nhiệt; II - đồ thị của quá trình đẳng áp; III - đồ thị của quá trình đẳng tích.
+Hình 2. Điểm 1 - trạng thái ban đầu của khí; 1 - đồ thị của một quá trình đẳng nhiệt; II - đồ thị của quá trình đẳng áp; III - đồ thị của quá trình đẳng tích.
 
 phương trình trạng thái khí (phương trình Clapeyron-Mendeleev) có dạng
 
@@ -81,17 +81,17 @@ Quá trình $3 \rightarrow 4$ đẳng áp ($p = p_3$). Nhiệt độ và do đó
 
 Khả năng xây dựng đồ thị của các quá trình dốc đôi khi tạo điều kiện thuận lợi đáng kể cho việc đánh giá một số đặc điểm của các quá trình này. Hãy để chúng tôi giải thích điều này bằng cách sử dụng hai vấn đề cụ thể.
 
-Cơm. 4.
+Hình 4.
 
 Bài toán 2. Hai quá trình dốc được thực hiện trên khí: xử lý $1 \rightarrow 2 \rightarrow 3 \rightarrow 1$ và xử lý $3 \rightarrow 4 \rightarrow 2 \rightarrow 3$. Đồ thị của các quá trình này, được trình bày dưới dạng tọa độ $(V, T)$, được thể hiện trong Hình 6. Trong trường hợp nào khí sẽ thực hiện công nhiều hơn?
 
-Cơm. 5.
+Hình 5.
 
 Lời giải của bài toán này có thể tương đối đơn giản nếu chúng ta sử dụng tính chất nổi tiếng của sơ đồ $(p, V)$: công mà khí thực hiện trong mỗi chu kỳ tỷ lệ thuận với diện tích của hình được giới hạn bởi đồ thị của quá trình này. Vì vậy chúng tôi không
 
 ⟦folio 61⟧
 
-Cơm. 7.
+Hình 7.
 
 cần xây dựng đồ thị của các quá trình tuần hoàn đã cho trên sơ đồ $(p, V)$.
 

@@ -67,7 +67,7 @@ Tổng Posny của các góc của một tam giác $ABC$ bằng $5\alpha$, Ở �
 
 Với tất cả n, người mới bắt đầu sẽ thắng. Hãy mô tả một chiến lược mà anh ta sử dụng chiến lược đó chắc chắn sẽ thắng. Nước đi đầu tiên phải được thực hiện ở giữa sao cho các điểm trừ còn lại tạo thành hai “quân” ​​riêng biệt có chiều dài bằng nhau (Hình 2 thể hiện vị trí sau nước đi đầu tiên với n=7)
 
-Cơm. 2.
+Hình 2.
 
 và n=8). Sau đó, người mới bắt đầu, với mỗi bước di chuyển của mình, phải chuyển tiếp những điểm trừ đối xứng với những điểm mà người thứ hai đã chuyển tiếp trước đó. Vì vậy, nếu cái thứ hai chuyển tiếp điểm trừ thứ k (hoặc thứ k và k+1) ở bên phải, thì cần phải chuyển tiếp điểm trừ thứ k (hoặc thứ k và k+1) ở bên trái. Sau mỗi lần di chuyển đầu tiên sẽ có được vị trí đối xứng.
 
@@ -79,7 +79,7 @@ Nghị định và e. Ở đây cần xem xét sáu trường hợp tương ứn
 
 đáp số được viết trong các ô.
 
-Cơm. 3.
+Hình 3.
 
 4. Có ít nhất một số a sao cho cả hai số $\frac{1}{a} - \sqrt{15}$ và $a + \sqrt{15}$ đều là số nguyên không?
 
@@ -111,7 +111,7 @@ Hãy biểu diễn các câu lệnh grambel dưới dạng bảng 5 hàng và 5 
 
 ⟦folio 34⟧
 
-Cơm. 4.
+Hình 4.
 
 (Hình 4). Các hàng và cột được đặt tên theo chữ cái đầu tiên của tên anh em. Lời tâm sự của mỗi anh em được ghi vào một cột dưới chữ cái đầu tiên của tên mình. Trong cột này, chúng tôi sẽ sắp xếp dấu cộng và số phút theo quy tắc sau: cộng nếu câu lệnh giả định rằng người anh em mà dòng được đặt tên đã phá vỡ cửa sổ và phút nếu câu lệnh không cho phép điều này.
 

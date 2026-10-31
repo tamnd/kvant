@@ -29,20 +29,20 @@ translation_quality: draft
 
 ## Lấp đầy không gian
 
-Cơm. 1
+Hình 1
 
 Trong số các khối đa diện đều và bán đều (các khối Platonic và Archimedean) và các khối đa diện bán đều đều, có những khối đa diện có thể lấp đầy không gian một cách chặt chẽ, “không có lỗ”. Hình 1 thể hiện các khối đa diện lấp đầy, và Hình 2-4 thể hiện một số lớp không gian thu được từ chúng. Một trong những cách lấp đầy không gian là hiển nhiên - lấp đầy bằng các hình khối. Không gian có thể được lấp đầy bằng các khối đa diện khác cùng loại: khối tám mặt cắt cụt hoặc khối mười hai mặt hình thoi, cũng như bằng cách kết hợp các khối đa diện khác nhau, ví dụ, tứ diện và bát diện (Hình 2); bát diện cắt ngắn, hình khối và hình thoi (Hình 3); hình thoi, hình lập phương cụt và tứ diện cụt (Hình 4, *a*, *b*).
 
 ⟦figure⟧
-Cơm. 2
+Hình 2
 
 ⟦figure⟧
-Cơm. 3
+Hình 3
 
 ⟦figure⟧
-Cơm. 4
+Hình 4
 
 Trang đầu tiên của trang bìa mô tả một “lớp” không gian gồm các khối mười hai mặt hình thoi. Lặp lại các lớp như vậy một cách nhất quán, bạn sẽ có được một không gian "đóng gói". Hình 5 giải thích cách xây dựng khối đa diện đáng chú ý này. Các hình lập phương có một tâm chung và đồng dạng với nhau theo hệ số 2. Các đỉnh của hình bát diện là tâm của các mặt của một hình lập phương lớn. Chứng minh rằng tứ giác được tô màu là hình thoi.
 
 ⟦figure⟧
-Cơm. 5
+Hình 5

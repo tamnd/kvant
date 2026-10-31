@@ -29,7 +29,7 @@ M441 — M443; F453 — F457
 
 M441. Lấy điểm P bên trong không gian 2n lồi. Một đường thẳng được vẽ qua mỗi đỉnh và điểm P. Hãy chứng minh rằng có một cạnh của đa giác mà không có đường thẳng nào có điểm chung (có lẽ ngoại trừ hai đầu của cạnh đó).
 
-Cơm. 1.
+Hình 1.
 
 Trong nội bộ, chúng ta nói rằng một đường thẳng cắt một cạnh của đa giác M nếu giao điểm của chúng không trùng với đỉnh của đa giác.
 
@@ -73,7 +73,7 @@ b) Có thể lập được một bảng có các số phân biệt theo từng 
 
 b) Có thể thu được loại bảng nào sau $T$ bước?
 
-Cơm. 2.
+Hình 2.
 
 | 1 | 2 | 3 | • • • | $n$ |
 | :--- | :--- | :--- | :--- | :--- |
@@ -83,7 +83,7 @@ Cơm. 2.
 | • • | • • | • • | • • | • |
 | $n$ | 1 | 2 | • • • | $n-1$ |
 
-Cơm. 3.
+Hình 3.
 
 | 1 | 2 | 3 | • • • | $n$ |
 | :--- | :--- | :--- | :--- | :--- |
@@ -93,7 +93,7 @@ Cơm. 3.
 | • • | • • | • • | • • | • |
 | $n$ | $n+1$ | $n+2$ | • • • | $2n-1$ |
 
-Cơm. 4.
+Hình 4.
 
 Dễ dàng có được bảng trong Hình 2 bằng cách cộng các bảng trong đó các đơn vị được xây dựng song song với đường chéo (Hình 4).
 
@@ -118,7 +118,7 @@ $$l_0 = \frac{m_1}{m_1 + m_2} l.$$
 
 I. Slobodetsky
 
-Cơm. 7.
+Hình 7.
 
 F454. Nếu đặt hướng $U_0 = 220$ V vào cuộn sơ cấp của máy biến áp không tiếp xúc thì hướng trên cuộn thứ cấp sẽ là $U_1 = 127$ V. Hướng $U$ sẽ là $U_0 = 220$ V theo hướng $R = 10$ Ohm nối với cuộn thứ cấp của máy biến áp này như thế nào? Điện trở hoạt động của cuộn sơ cấp của máy biến áp là $r_1 = 2$ Ohm, và cuộn thứ cấp là $r_2 = 1$ Ohm. Điện trở trong của máy tạo moka bằng 0.
 

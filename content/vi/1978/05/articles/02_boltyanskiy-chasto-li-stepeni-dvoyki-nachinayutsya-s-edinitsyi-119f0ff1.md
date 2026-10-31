@@ -58,7 +58,7 @@ $$m-1 \leq n \lg 2 < m.$$
 
 Nhớ rằng $a_n = m-1$, chúng ta nhận được
 
-Cơm. 1.
+Hình 1.
 
 $$\lg 2 - \frac{1}{n} < \frac{a_n}{n} \leq \lg 2,$$
 
@@ -78,7 +78,7 @@ $$p_2 + p_3 = p_1, \quad p_4 + p_5 = p_2, \quad p_6 + p_7 = p_3, \quad p_8 + p_9
 
 Như bạn có thể thấy, lũy thừa của hai bắt đầu bằng số 4 ít hơn ba lần so với số 1 (Hình 2).
 
-Cơm. 2.
+Hình 2.
 
 Chung bài toán
 
@@ -122,7 +122,7 @@ Lưu ý rằng xác suất này không phụ thuộc vào $l!$. Ví dụ, lũy t
 
 8. Xác suất để một lũy thừa tùy ý của hai bắt đầu bằng số 1000 (Hình 3) là bao nhiêu?
 
-Cơm. 3.
+Hình 3.
 
 9. Xác suất để một lũy thừa tùy ý của $l$ (không phải là lũy thừa của mười) bắt đầu bằng tổ hợp chữ số $q_1 q_2 \dots q_r$ (trong đó $q_1 \neq 0$) là bao nhiêu? Từ đó suy ra rằng lũy ​​thừa của số $l$ có thể bắt đầu bằng tổ hợp các chữ số $q_1 q_2 \dots q_r$ ($q_1 \neq 0$).
 
@@ -160,7 +160,7 @@ $$\gamma + p \alpha, \gamma + 2p \alpha, \dots, \gamma + sp \alpha,$$
 
 *) Thuật ngữ này liên quan đến nguyên lý Dirichlet («Kvant», 1977, số 2, trang 17). Định lý phần phân số có thể được gọi là “nguyên lý Dirichlet cho số lượng thỏ rừng vô hạn”.
 
-Cơm. 6.
+Hình 6.
 
 và $x_s$ trong Hình 6, 6 nhỏ hơn $\varepsilon$. Từ điều trên, suy ra rằng số điểm $x_1, x_2, \dots, x_s$ rơi trên đoạn $l$ có độ dài $h$ nằm giữa số $\frac{h}{\varepsilon} - 1$ và $\frac{h}{\varepsilon} + 2$, tức là giữa $sh-2$ và $sh+2$ (lưu ý rằng $h < 1$).
 

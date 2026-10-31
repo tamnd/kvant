@@ -52,7 +52,7 @@ Năm 1899, nhà sử học người Thụy Sĩ Heinrich Süther đã phát hiệ
 
 ⟦folio 53⟧
 
-Cơm. 5.
+Hình 5.
 
 Hầu hết các bộ phận trên một đường thẳng hoặc độ lệch so với đường thẳng đều nhỏ đến mức mắt thường không nhận thấy được. Những câu hỏi này đòi hỏi bằng chứng cẩn thận, và nếu độ lệch so với đường thẳng là nhỏ và do đó mắt thường không nhận thấy được thì loại kết nối không hoàn chỉnh này sẽ được coi là có thể chấp nhận được.
 

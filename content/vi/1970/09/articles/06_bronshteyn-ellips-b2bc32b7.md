@@ -52,7 +52,7 @@ Chẳng hạn, có đủ để nói rằng hình elip là một đường cong h
 
 ⟦folio 28⟧
 
-Cơm. 1. Chỉ có hình bầu dục màu đỏ là hình elip.
+Hình 1. Chỉ có hình bầu dục màu đỏ là hình elip.
 
 hình thức mới? Những từ này thường có nghĩa là một đường thẳng có hai trục đối xứng CD và EH, được vẽ thành hình chữ nhật PQRS và đặt trên một đường tròn (Hình 1). Ý nghĩa tương tự cũng được bao gồm trong các từ "nén" hoặc "vòng tròn mở rộng". Nhưng bạn có thể viết nhiều đường cong loại này trong một hình chữ nhật - một số trong số chúng được hiển thị trong Hình 1. Chỉ một trong số chúng - màu đỏ - có quyền được gọi là hình elip. Nó nổi bật như thế nào so với các đường cong khác?
 
@@ -72,7 +72,7 @@ Nếu $k > 1$, thì tất cả các điểm của mặt phẳng (ngoại trừ �
 
 *) Từ này (từ tiếng Latin “biến dạng” - thay đổi hình dạng) được sử dụng ở đây cùng với thành ngữ “kéo dài hoặc lăn”.
 
-Cơm. 2. Biến dạng có hệ số a) $k = \frac{2}{3}$ b) $k = \frac{2}{3}$.
+Hình 2. Biến dạng có hệ số a) $k = \frac{2}{3}$ b) $k = \frac{2}{3}$.
 
 ⟦folio 29⟧
 
@@ -81,7 +81,7 @@ running_head:
 folio:
 ---
 
-Cơm. 3. Biến dạng với $k=2$ và $k=\frac{1}{2}$. Chú ý sự thay đổi độ dốc của mái nhà.
+Hình 3. Biến dạng với $k=2$ và $k=\frac{1}{2}$. Chú ý sự thay đổi độ dốc của mái nhà.
 
 máy bay sụp đổ. Khi $k=1$ tất cả các điểm của mặt phẳng vẫn giữ nguyên; trường hợp sau được gọi là phép biến đổi phương thức-vận mệnh.
 
@@ -91,7 +91,7 @@ Elipis là gì? Các yếu tố của Elipis
 
 Hình elipis là một hình được gọi là
 
-Cơm. 4. Biến dạng ảnh quả bóng đá với hệ số $k=\frac{1}{2}$ (dưới cùng bên trái) và $k=2$ (phải).
+Hình 4. Biến dạng ảnh quả bóng đá với hệ số $k=\frac{1}{2}$ (dưới cùng bên trái) và $k=2$ (phải).
 
 thu được bằng sự biến dạng của vòng tròn so với đường kính của nó (Hình 5).
 
@@ -99,11 +99,11 @@ Gọi $a$ là bán kính của hình tròn; khi đó đường kính $cd$ của 
 
 Các đoạn $CD$ và $EH$ được gọi là các trục của hình elip; các số $a$ và $b$ sẽ được gọi là bán trục của elipis. Nếu $k>1$ (kéo dài), thì $b>a$ (Hình 5).
 
-Cơm. 5. Elipis - biến dạng chu vi
+Hình 5. Elipis - biến dạng chu vi
 
 ⟦folio 30⟧
 
-Cơm. 6. Bằng cách này bạn có thể vẽ một hình elip.
+Hình 6. Bằng cách này bạn có thể vẽ một hình elip.
 
 Nếu $k < 1$ (nén), thì $b < a$ (Hình 6). Với $k = 1$ (chuyển đổi nhận dạng), vòng tròn biến thành vòng tròn. Để không vi phạm tính tổng quát của định nghĩa hình elip, chúng ta đồng ý coi đường tròn là trường hợp đặc biệt của hình elip ($b = a$). Các đoạn lớn hơn $CD$, $EH$ được gọi là trục chính của hình elip, đoạn nhỏ hơn - trục nhỏ. Vì vậy, nếu $k > 1$ thì $a$ là bán trục phụ và $b$ là trục chính và nếu $k < 1$ thì ngược lại.
 
@@ -133,7 +133,7 @@ Phương trình của một đường nhất định là phương trình như v�
 
 ⟦folio 31⟧
 
-Cơm. 7. $m(x_{окр}, y_{окр})$ là một điểm trên đường tròn, $M(x_0, y_0)$ là một điểm trên hình elip.
+Hình 7. $m(x_{окр}, y_{окр})$ là một điểm trên đường tròn, $M(x_0, y_0)$ là một điểm trên hình elip.
 
 trường hợp điểm có tọa độ $(x_0, y_0)$ nằm trên đường thẳng này.
 
@@ -153,7 +153,7 @@ $$x_0=x_{окр}, y_0=k \cdot y_{окр},$$
 
 (*)
 
-Cơm. 8. Điểm $M$ mô tả một hình elip.
+Hình 8. Điểm $M$ mô tả một hình elip.
 
 Ở đâu
 
@@ -191,7 +191,7 @@ Hãy chứng minh rằng đường cong này là một hình elip. Chúng ta hã
 
 Phương trình (1) chưa thể được gọi là phương trình của quỹ đạo mong muốn: nó được biên soạn dựa trên Hình 9, trong đó đoạn nằm trong một phần tư và cả hai tọa độ của điểm $M$ đều dương. Chỉ với điều kiện này, chúng ta mới có thể giả sử rằng $ON=x$ và $NM=y$; nếu đoạn nằm trong quý II, III hoặc IV trong Hình 8 thì bạn cần đếm $ON=\pm x$, $NM=\pm y$, mỗi lần chọn các dấu hiệu cần thiết.
 
-Cơm. 10. Máy đo elip.
+Hình 10. Máy đo elip.
 
 Tuy nhiên, phương trình (1) cũng phù hợp với quý thứ hai, vì $x$ là bình phương và việc thay đổi dấu của $x$ sẽ không làm thay đổi phương trình này. Đối với quý III và IV, phương trình (1) nên được thay thế bằng:
 
@@ -237,13 +237,13 @@ Một tính chất thú vị của hình elip ngay lập tức được rút ra 
 
 ⟦folio 34⟧
 
-Cơm. 13. Chứng minh tính chất đường kính liên hợp.
+Hình 13. Chứng minh tính chất đường kính liên hợp.
 
 đối với đường tròn: trung điểm của các dây song song của nó nằm trên đường kính vuông góc với các dây đó. Bây giờ đặt hình elip vào vị trí của phần hình trụ tròn và vẽ một loạt mặt phẳng song song với trục của hình trụ thông qua các dây cung song song của hình elip (Hình 13). Trong mặt phẳng có tiết diện vuông góc của hình trụ, thu được các dây cung song song của hình tròn, các mặt cắt ngang của chúng nằm trên đường kính của nó. Trung điểm của các dây cung của hình elip nằm ở giao điểm của mặt phẳng hình elip và mặt phẳng đi qua đường kính tạo thành và qua trục của hình trụ. Đây là một đoạn thẳng, rõ ràng là đi qua tâm của hình elip và chia nó làm đôi.
 
 Dây cung của hình elip đi qua tâm của nó được gọi là *đường kính của hình elip*. Nói chung, một hình elip có đường kính không bằng nhau. Trục lớn nhất trong số chúng là trục chính và trục nhỏ nhất là trục phụ. Nếu chuỗi dây thứ hai được vẽ theo hình elip, song song với đường kính thu được, thì điểm giữa của chúng nằm trên đường kính thuộc chuỗi dây thứ nhất (Hình 12). Hai đường kính thu được được gọi là *liên hợp lẫn nhau*. Đối với mỗi đường kính của một hình elip có một liên hợp với nó. Lưu ý rằng đường tròn của mỗi cặp có một số liên hợp
 
-Cơm. 14. Hình chiếu của đường tròn cũng là hình elip.
+Hình 14. Hình chiếu của đường tròn cũng là hình elip.
 
 Các đường kính vuông góc với nhau, nhưng hình elip thì không, ngoại trừ các trục của hình elip.
 
@@ -257,7 +257,7 @@ Cách chứng minh cũng giống như cách chứng minh định lý trên tiế
 
 ⟦folio 35⟧
 
-Cơm. 15. $F_1$ và $F_2$ là tiêu điểm của hình elip.
+Hình 15. $F_1$ và $F_2$ là tiêu điểm của hình elip.
 
 hệ số $k = \cos \alpha = \frac{b}{a}$.
 
@@ -271,7 +271,7 @@ Chúng ta sẽ coi hình elip là một phần của hình trụ tròn - chúng 
 
 *) Từ “phosis” trong tiếng Latin có nghĩa là rất. Nguồn gốc của thuật ngữ này như sau: nếu bạn đặt một nguồn sáng tại một tiêu điểm của một hình elip, thì tất cả các tia phản xạ từ hình elip theo định luật “góc tới bằng góc phản xạ” sẽ đi qua tiêu điểm thứ hai. Điều này sẽ được thảo luận chi tiết hơn ở một trong những vấn đề «Kvant».
 
-Cơm. 16. Chứng minh tính chất tiêu điểm của elip.
+Hình 16. Chứng minh tính chất tiêu điểm của elip.
 
 (Hình 16) (theo ngôn ngữ hình học: hãy nội tiếp các quả bóng vào hình trụ sao cho chúng chạm vào mặt phẳng tiết diện).
 
@@ -289,7 +289,7 @@ Nhưng $PQ$ giống nhau đối với tất cả các bộ tạo hình trụ c�
 
 ⟦folio 36⟧
 
-Cơm. 17. Đây là cách thu được hình elip trong thực tế.
+Hình 17. Đây là cách thu được hình elip trong thực tế.
 
 bình đẳng $MF_1 + MF_2 = const$.
 

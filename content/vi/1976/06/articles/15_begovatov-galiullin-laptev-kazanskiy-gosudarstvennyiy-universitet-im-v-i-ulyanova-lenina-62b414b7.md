@@ -45,7 +45,7 @@ Khoa Cơ học, Toán học, Hóa học và Toán ứng dụng
 
 3. Một quả cầu có khối lượng $m$ trên một sợi dây chuyển động theo đường tròn trong mặt phẳng thẳng đứng sao cho tổng năng lượng của nó không đổi.
 
-Cơm. 1.
+Hình 1.
 
 Đại học bang Kazan
 họ. V. I. Ulyanova (Lênin)

@@ -60,7 +60,7 @@ Nếu các electron chuyển động theo các định luật cơ học cổ đi
 
 ⟦folio 4⟧
 
-Cơm. 2. Chuyển động của các electron và sự lan truyền của sóng electron trong tinh thể (lý tưởng) đều.
+Hình 2. Chuyển động của các electron và sự lan truyền của sóng electron trong tinh thể (lý tưởng) đều.
 
 thép được gọi là một tinh thể đơn (từ tiếng Hy Lạp "mono" - một), và sự kết hợp của nhiều tinh thể được gọi là tổng hợp đa tinh thể (từ tiếng Hy Lạp "poly" - nhiều). Vì vậy, các phép đo chính xác đã chỉ ra rằng điện trở của cốt liệu đa tinh thể giảm đáng kể khi nhiệt độ giảm. Điều này không thể giải thích được bằng cách nào đó bằng sự chuyển động của một electron dọc theo các hành lang nguyên tử theo các định luật cơ học cổ điển. Khi di chuyển từ tinh thể này sang tinh thể khác, hành lang nguyên tử đột ngột thay đổi hướng (Hình 3). Các electron sẽ va vào “bức tường” để bay đi. Và anh ta có khả năng đi bộ sáu trăm lần qua mê cung nguyên tử, giống như Theseus, người được chỉ hướng bởi sợi chỉ của Aridna. Cái quái gì thế này và làm sao tôi có thể giải thích nó?
 

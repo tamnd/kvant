@@ -24,9 +24,9 @@ translation_quality: draft
 
 ⟦folio none⟧
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
 a) Tối thiểu là bao nhiêu $K$ có thể được thực hiện $K$ những xiên không giao nhau đến mức không thể thêm một xiên không giao nhau khác vào chúng?
 
@@ -96,7 +96,7 @@ Chúng ta gọi hai cách sắp xếp là tương đương nếu chúng có th�
 
 ⟦folio 36⟧
 
-Cơm. 7.
+Hình 7.
 
 F405. Một quả cầu monoxtomic đồng nhất có bán kính $R$ được cắt thành hai phần và gắn chặt với nhau, như trong Hình 7. Trọng tâm của tấm kính thu được bằng bao nhiêu nếu chiều cao của thân nó là $h$?
 

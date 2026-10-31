@@ -88,7 +88,7 @@ Do đó, các số của các số 1 mới được chứa trong khoảng
 $$\frac{10-a}{9a}\,n \leqslant k < \frac{20-a}{9a}\,n,$$
 
 ⟦figure⟧
-Cơm. 1.
+Hình 1.
 
 2 «Kvant» № 11
 

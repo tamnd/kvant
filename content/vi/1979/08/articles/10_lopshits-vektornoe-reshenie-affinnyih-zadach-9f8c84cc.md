@@ -34,7 +34,7 @@ Trong bài học vòng tròn toán học này, chúng ta sẽ học cách giải
 
 Trong «Kvant» Số 8 năm 1978 (trang 28), định lý đáng chú ý sau đây đã được xem xét: nếu trong tam giác ABC vẽ các đường ba góc A, B và C, thì giao điểm của chúng, gần các cạnh, là các đỉnh của một tam giác đều. Điều gì xảy ra nếu trisecgris được thay thế bằng tris, nghĩa là các đường thẳng đi qua các đỉnh của tam giác và chia các cạnh đối diện của nó thành ba phần bằng nhau? Hóa ra... Tuy nhiên, người đọc thực sự sẽ tự mình xây dựng xong định lý, tìm ra tính chất của tam giác $P_{14}P_{36}P_{25}$ (ký hiệu dễ truyền đạt, nói
 
-Cơm. 1
+Hình 1
 
 Tham khảo Hình 1), hãy chắc chắn rằng các cạnh của lục giác $P_{13}P_{46}P_{15}P_{24}P_{35}P_{26}$ song song với các cạnh của tam giác ban đầu ABC, và cuối cùng chứng minh rằng trung điểm của cạnh lục giác này và các điểm $P_{36}, P_{23}, P_{25}, P_{45}, P_{14}, P_{61}$ nằm trên ba đường thẳng. Nếu bạn chưa hiểu cách giải quyết vấn đề này bài toán, đừng lo lắng. Sau khi đọc bài viết, bạn chắc chắn sẽ có thể làm được điều này. Hãy bắt đầu với bài toán đơn giản hơn.
 
@@ -128,7 +128,7 @@ Cần ghi nhớ công thức này - nó có ứng dụng tuyệt vời cho ngư�
 
 *) Xem bài viết của V. Boltyansky “Ba điểm trên một đường thẳng” («Kvant», 1978, số 10) và bài viết của I. Gabovich “Vector giúp làm bài thi” («Kvant», 1979, số 1).
 
-Cơm. 4.
+Hình 4.
 Số $\lambda$ được gọi là tọa độ affine của điểm $M$ (so với hệ tọa độ được chỉ định bởi $A$ ban đầu và vectơ tỷ lệ $\vec{AB}$). Tên này được xác định: xét cho cùng, nếu cho trước một hệ tọa độ và một số tùy ý $\lambda$, thì điểm $M$ trên đường thẳng $AB$ được xác định duy nhất:
 $$\vec{AM} = \lambda\vec{AB}.$$
 Hãy quay trở lại công thức

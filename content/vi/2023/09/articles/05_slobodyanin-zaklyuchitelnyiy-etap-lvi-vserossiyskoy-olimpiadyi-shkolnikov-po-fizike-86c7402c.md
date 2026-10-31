@@ -60,7 +60,7 @@ KVA NT 2023/Số 9
 
 ⟦figure⟧
 
-Cơm. 5
+Hình 5
 
 điện tích dương có mật độ bề mặt không đổi V. Tâm của một quả cầu không dẫn điện có bán kính $R = r_{1}, r_{2}$ trùng với tâm của vòng (Hình 5). Quả bóng được tích điện đều trong toàn bộ thể tích của nó với điện tích dương. Câu 1) Mô đun điện trường trên bề mặt quả bóng thay đổi trong giới hạn nào? 2) Tại những giá trị nào của V, vectơ cường độ trường thu được tại các điểm trên bề mặt quả bóng nằm ở khoảng cách lớn hơn 0,1R so với mặt phẳng của vòng có thể được coi là hướng dọc theo trục quay của hệ? Xét điện tích Q đã biết. Ghi chú. Đáp số cho mỗi câu hỏi bài toán nên được đơn giản hóa có tính đến giá trị gần đúng $R = r_{1}, r_{2}$. G. Rastorguev
 
@@ -76,7 +76,7 @@ lớp 9
 
 ⟦figure⟧
 
-Cơm. 6
+Hình 6
 
 quả cầu và ván P tg D. Ở gần chân ván, quả bóng được cho tốc độ $v_{0} 8,00$ ms, và nó di chuyển dọc theo ván cho đến khi chạm lại chân ván. Đế của bảng nằm ngang. Được biết, tại thời điểm bắt đầu và chạm lại chân ván, vectơ tốc độ của quả cầu lần lượt tạo thành các góc $M_{0} 60,0 q$ và $M_{1} 159,3 q$ với chiều dương của trục y hướng lên dọc theo tấm ván. Gia tốc trọng trường g 9,80 m $с^{2}$. Máy giặt không quay. 1) Xác định gia tốc của quả bóng $a_{0}$ và $a_{1}$ tại thời điểm bắt đầu và ngay trước khi bắt đầu lại
 

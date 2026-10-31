@@ -44,7 +44,7 @@ Sử dụng ví dụ về chuyển động của các điểm dao động, chún
 
 Bạn có thể thử thêm các rung động hài hòa bằng đồ họa. Hình 2 biểu diễn đồ thị của hai hàm số có cùng chu kỳ: y = 2cos(2t + π/3) và y = cos(2t + π/6). Từ hai đồ thị này, không hề rõ ràng rằng tổng y = 2cos(2t + π/3) + cos(2t + π/6) của chúng sẽ là một dao động điều hòa. Vì vậy, như chúng ta có thể thấy, điều này không thuận tiện lắm.
 
-Cơm. 1.
+Hình 1.
 
 ⟦folio 45⟧
 
@@ -60,7 +60,7 @@ Với sự trợ giúp của sơ đồ vectơ, người ta có thể dễ dàng 
 
 ⟦folio 46⟧
 
-Cơm. 3.
+Hình 3.
 
 hình chiếu của vectơ $\vec{OP}_1(t)$ và $\vec{OP}_2(t)$ lên trục $OX$ được viết như sau:
 $$x_1 = A_1 \cos(\omega t + \varphi_1),$$

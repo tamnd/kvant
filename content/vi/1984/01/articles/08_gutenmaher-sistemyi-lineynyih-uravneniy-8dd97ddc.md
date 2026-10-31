@@ -234,7 +234,7 @@ Khác nhau bài toán
 
 ⟦folio 28⟧
 
-Cơm. 1. Hình 2. Hình 3.
+Hình 1. Hình 2. Hình 3.
 
 Đắt. Anh ta biết rằng anh ta đã đi bộ được 5 giờ, tốc độ của anh ta trên đường bằng là 4 km/h, lên dốc - 3 km/h và khi xuống dốc - 6 km/h. Ngồi xuống bàn và soạn một phương trình với hai biến: $x$ - quãng đường di chuyển ở hai đầu và $y$ - độ dài của phần nghiêng, nhà toán học rất ngạc nhiên khi phát hiện ra rằng mình có thể tìm thấy $x$. Tìm $x$.
 
@@ -254,7 +254,7 @@ $\cdot$ Vì bài viết này chủ yếu dành cho học sinh lớp bảy nên s
 
 ⟦folio 29⟧
 
-Cơm. 4. Hình 5.
+Hình 4. Hình 5.
 
 $$x + y = c, y + z = a, z + x = b.$$
 

@@ -44,17 +44,17 @@ Anh ấy phê bình thế nào?
 
 “Hình khối” hoàn toàn không phải là hình khối. Chúng có ba loại khác nhau tùy thuộc vào vị trí của chúng trên các mặt của khối lập phương lớn: khối trung tâm (có 6 khối, chúng nằm ở trung tâm của mỗi cạnh), khối ở giữa (có 12 khối, chúng nằm ở giữa mỗi cạnh) và khối góc (có 8 khối, chúng nằm ở các đỉnh của khối lập phương lớn).
 
-Cơm. 1. Vượt qua.
-Cơm. 2. Khối lập phương.
-Cơm. 3. Khối lập phương góc.
+Hình 1. Vượt qua.
+Hình 2. Khối lập phương.
+Hình 3. Khối lập phương góc.
 
 ⟦folio 21⟧
 
-Cơm. 4. Khối trung tâm trên chữ thập (1 - nắp; 2 - khối trung tâm; 3 - đai ốc; 4 - lò xo; 5 - vòng đệm; 6 - trục mỏng của chữ thập; 7 - cánh tay dày của chữ thập).
+Hình 4. Khối trung tâm trên chữ thập (1 - nắp; 2 - khối trung tâm; 3 - đai ốc; 4 - lò xo; 5 - vòng đệm; 6 - trục mỏng của chữ thập; 7 - cánh tay dày của chữ thập).
 
-Cơm. 5. Mặt trong của mặt khối lập phương, tính từ đường chéo (cũng loại bỏ một góc khối lập phương).
+Hình 5. Mặt trong của mặt khối lập phương, tính từ đường chéo (cũng loại bỏ một góc khối lập phương).
 
-Cơm. 6. Hình vẽ của một khối lập phương đã bị loại bỏ một cạnh và một khối ở giữa.
+Hình 6. Hình vẽ của một khối lập phương đã bị loại bỏ một cạnh và một khối ở giữa.
 
 Hình 1, 2 và 3 thể hiện sự tương ứng giữa hình chữ thập bên trong, khối giữa và khối góc. Hình 4 cho thấy việc gắn khối trung tâm vào hình chữ thập bên trong.
 
@@ -88,4 +88,4 @@ Sự phù hợp cuối cùng của cây thánh giá sẽ được kiểm tra khi
 
 Trên máy tiện, bạn có thể tạo ra một cây thánh giá rất tốt từ kim loại (vật liệu - duralumin cứng hoặc đồng thau). Tuy nhiên, công việc này đòi hỏi kỹ năng xoay người tương đối cao. Xử lý khử
 
-cơm. 13. a, b - đai ốc; θ - tuốc nơ vít.
+hình 13. a, b - đai ốc; θ - tuốc nơ vít.

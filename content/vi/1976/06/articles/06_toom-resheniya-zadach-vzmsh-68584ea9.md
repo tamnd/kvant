@@ -42,7 +42,7 @@ Rõ ràng là H<2, vì nếu không thì số NALM × 4 sẽ là số có sáu c
 
 ⟦folio 25⟧
 
-Cơm. 2.
+Hình 2.
 
 kov hoặc trỗi dậy trên đường đi - nếu người đầu tiên quay trở lại
 a) cháu trai,
@@ -56,11 +56,11 @@ b) Sự kết hợp của một tam giác và một tứ giác lồi? (Chỉ ra 
 a) Hình 2 cho thấy khi cắt nhau ta có thể thu được các đa giác có 3, 4, 5, 6, 7 cạnh. Nó không thể là một cạnh lớn, vì tất cả các cạnh của giao điểm đều nằm trên các cạnh của các hình giao nhau và trên các hình khác nhau, và chỉ có bảy trong số chúng.
 b) Hình 3 cho thấy cách, khi kết hợp lại, có thể thu được đa giác có số cạnh bằng 3
 
-Cơm. 3.
+Hình 3.
 
 ⟦folio 26⟧
 
-Cơm. 4.
+Hình 4.
 
 lên đến mười ba. Hợp không thể có nhiều hơn 13 đỉnh, bởi vì mỗi đỉnh của hợp đó là
 
@@ -79,4 +79,4 @@ Hãy để tập hợp của chúng tôi bao gồm ba phân đoạn không trùn
 
 Vẫn còn phải chứng minh rằng không thể có gót của các trục đối xứng. Để làm điều này, chúng tôi sẽ sử dụng thực tế sau đây. Nếu đường thẳng I và II là trục đối xứng của hình Ф thì đường thẳng III đối xứng với đường thẳng II so với đường thẳng I cũng là trục đối xứng của hình Ф. (Xem Hình 5, minh họa cách lấy điểm $A_4$, đối xứng $A_1$ so với III.) Đặt các trục đối xứng là gót chân. Khi đó, tập hợp các trục bao gồm đường thẳng I chứa một đoạn nhất định và đường phân giác vuông góc với nó - nếu không sẽ có ít hơn bốn trục. Nhưng các trục là số chẵn; có thể kết hợp thành các cặp trục đối xứng với I, nhưng không có trục nào vuông góc với I, ngoại trừ trục II - nếu không thì sẽ có vô số trục (xem Hình 6).
 
-Cơm. 5. Hình 6.
+Hình 5. Hình 6.

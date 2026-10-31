@@ -36,7 +36,7 @@ Dễ dàng kiểm tra xem hệ thống được chỉ định
 
 *) Vì chúng ta chỉ quan tâm đến độ dài cung tương đối nên chúng ta sẽ đo nó bằng độ.
 
-Cơm. 1.
+Hình 1.
 
 bạn ma thỏa mãn điều kiện bài toán. Với sự lựa chọn thích hợp là $a^\circ$, tổng độ dài của các cung sẽ gần bằng góc với $\frac{180^\circ}{n}$.
 
@@ -44,7 +44,7 @@ Nếu chúng ta coi một điểm trên đường tròn là một cung có độ
 
 Hãy chứng minh rằng tổng S của độ dài cung không thể nhỏ hơn số này. Hãy tưởng tượng rằng chúng ta có hai bản sao của vòng tròn, trên đó có n cung giống nhau. Hãy quay một trong các hình tròn một góc φ, 0 < φ < 360°. Chúng ta hãy xem xét tập hợp $U_{ij}$ của tất cả các giá trị như vậy của φ mà với phép quay i−j như vậy, cung của đường tròn quay cắt với cung thứ j của đường tròn cố định. Hãy vẽ một vòng tròn “điều khiển” riêng biệt (với điểm bắt đầu φ = 0 được chọn trên đó (Hình 2)) và đánh dấu trên đó các bộ $U_{ij}$ cho tất cả i, j từ 1 đến n. Rõ ràng $U_{ij}$ là một cung có độ dài bằng tổng độ dài của cung thứ i−j và j−th.
 
-Cơm. 2:
+Hình 2:
 
 Các bộ được đánh dấu $U_{ij}$ phải lấp đầy toàn bộ vòng tròn “điều khiển”, vì với bất kỳ phép quay nào, hai cung trong bộ của chúng ta phải giao nhau, do đó tổng độ dài của tất cả $U_{ij}$ không nhỏ hơn 360°. Mặt khác, tổng này bằng 2n. S, vì mỗi cung của tập hợp xuất hiện tổng 2n lần.
 
@@ -58,7 +58,7 @@ M166. a) Học sinh lớp một đã đi bộ đường dài Murista hai lần t
 
 ⟦folio 45⟧
 
-Cơm. 3.
+Hình 3.
 
 Mỗi học sinh đều đã đi ít nhất một chuyến.
 
@@ -110,7 +110,7 @@ chia hết cho $d$, tức là $a^{km} - a = nd$, trong đó $n$ là số nguyên
 
 Chứng minh bổ đề. Xét dãy số $a, a^2,$
 
-Cơm. 4.
+Hình 4.
 
 $a^3, \dots$. Có hai số trong đó có cùng số dư khi chia cho $d$. Đặt nó là $a^s$ và $a^t$ ($s < t$). Khi đó hiệu $a^t - a^s = a^s (a^{t-s} - 1)$ của họ được chia cho $d$. Vì $a$ và $d$ là số nguyên tố nên $a^{t-s} - 1$ chia hết cho $d$, do đó $a^{t-s+1} - a$ chia hết cho $d$, nghĩa là, $k$ có thể được lấy bằng $t - s + 1$.
 
@@ -144,7 +144,7 @@ $$\pi p_{A' B'} K' L = \pi p_{A' B'} K L = \pi p_{AB} K L =$$
 $$= \pi p_k s,$$
 (5)
 
-Cơm. 7.
+Hình 7.
 
 trong đó $A', B'$ và $K'$ là hình chiếu của các điểm $A, B$ và $K$ lên mặt phẳng CDQ (Hình 7). Vì vậy, chúng ta đã rút gọn bài toán về trường hợp cả hai tam giác đều nằm trong cùng một mặt phẳng (và có một đỉnh chung).
 
@@ -250,7 +250,7 @@ $$M_x = \frac{M}{L} x,$$
 
 trong đó $M$ là khối lượng và $L$ là chiều dài của lò xo.
 
-Cơm. 8.
+Hình 8.
 
 Nếu gia tốc của lực kế bằng $a$ thì theo định luật thứ hai Newton, lực lò xo trong tiết diện $x$ có thể viết như sau:
 
@@ -312,9 +312,9 @@ F184. Khi truyền hình ảnh truyền hình trên Trái đất, 25 khung hình
 
 Giả sử chúng ta muốn truyền tải hình ảnh như trong Hình 9. Độ sáng ngang của hình ảnh thay đổi theo quy luật hình sin. Đặt số lượng tối đa độ sáng là $m$; số dòng mà hình ảnh được chia là $n$ và tốc độ khung hình là $-f_k$. Tín hiệu điện mang thông tin về thẻ có dạng như hình 10.
 
-Cơm. 9.
+Hình 9.
 
-Cơm. 10.
+Hình 10.
 
 Trong quá trình truyền một đường, tín hiệu có mức tối đa $m$, trong khi truyền một khung - mức tối đa $nm$ và trong 1 giây - mức tối đa $nmf_k$. Điều này có nghĩa là tần số tuần hoàn của tín hiệu $\Omega$ bằng
 $$\Omega = 2\pi f = 2\pi mnf_k.$$
@@ -327,7 +327,7 @@ $$u_{\Omega} = U_0 + U_1 \sin \Omega t = U_0 (1 + k \sin \Omega t),$$
 $$u = U'_0 \sin \omega t.$$
 Do điều chế biên độ, tín hiệu tần số cao không còn cố định mà thay đổi theo thời gian giống như tín hiệu điều chế tần số thấp (Hình 11).
 
-Cơm. 11.
+Hình 11.
 
 Như vậy,
 $$u_M = U'_0 (1 + k \sin \Omega t) \sin \omega t$$

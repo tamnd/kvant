@@ -80,7 +80,7 @@ N. Shikhova
 
 ⟦figure⟧
 
-Cơm. 1
+Hình 1
 
 2. 580753. Hãy lập bảng tương ứng giữa các số trong mẫu và số dòng:
 
@@ -116,7 +116,7 @@ $n^{2}$.
 
 Ta thấy rằng $n^{2}$ chia hết cho $на^{63} 3^{2} ^{7}$, do đó n chia hết cho $на^{3} ^{7} 21$. Trường hợp n = 21 là không thể. Hãy chứng minh điều đó. Giả sử n = 21 và do đó, $x = 7. Отметим^{11} 2^{121}$ ô $квадрата^{21} u^{21}$, như trong Hình 3. Góc lớn chứa 12 ô được đánh dấu, ô ở giữa - 3, ô nhỏ - 0 hoặc 1. Do đó, không còn ô được đánh dấu nào nữa
 
-Cơm. 3
+Hình 3
 
 GIẢI PHÁP
 
@@ -124,4 +124,4 @@ GIẢI PHÁP
 
 7 12 3 1 112 121. Mâu thuẫn. Số n là bội số của 21 nên $n t^{42}$. Ví dụ. Hãy cho một ví dụ về cách cắt một hình vuông có cạnh n = 42. Đầu tiên, chia hình vuông thành ba hình chữ nhật $2 u 42,^{40} u^{6},^{40} u^{36}$. Chúng tôi sẽ chỉ ra cách chúng tôi chia chúng thành các góc. 1) Chia hình chữ nhật 2 u 42 thành $42 : 3 14 прямоугольников^{2} u^{3}$, mỗi hình chữ nhật được chia thành hai góc nhỏ. $Получим^{14} ^{2} 28$ góc nhỏ. 2) Chia hình chữ nhật 40 u 6 thành $40 : 4 10 прямоугольников^{4} u^{6}$, mỗi hình chữ nhật được chia thành hai góc ở giữa. Chúng ta có 10 2 20 góc ở giữa. 3) $Прямоугольник^{40} u^{36}$ chia cho 40: 8 36: 12 15 hình chữ nhật 8 u 12; Chúng ta sẽ chia 14 góc thành hai góc lớn và một góc thành 8 góc vừa. $Получим^{14} ^{2} 28$ góc lớn và 8 góc vừa. Tổng số góc của mỗi loại là 28. 24. 3. Như đã biết, bất kỳ đa giác nào cũng có thể được cắt thành hình tam giác bằng các đường chéo không giao nhau (ví dụ, xem cuốn sách của V.V. Prasolov “Bài toán về phép đo mặt phẳng”, chương “Đa giác lồi và không lồi”). Chia bảo tàng thành các hình tam giác theo cách này, chúng ta thấy rằng bất kỳ điểm nào trong bảo tàng đều nằm bên trong hoặc trên đường viền của một hình tam giác như vậy, có nghĩa là có thể nhìn thấy ít nhất ba đỉnh của hình thập giác tạo thành bảo tàng từ đó. Vì vậy, có thể nhìn thấy ít nhất 3 tác phẩm điêu khắc từ mỗi điểm. Hãy đưa ra một ví dụ khi có một điểm bên trong bảo tàng mà từ đó chỉ có thể nhìn thấy ba tác phẩm điêu khắc. Hãy xem xét một “căn phòng” hình tam giác, từ đó có ba “hành lang” hẹp phân nhánh (Hình 4). Các hành lang có thể được làm đủ dài để không nhìn thấy quá ba tác phẩm điêu khắc từ chấm đỏ.
 
-Cơm. 4
+Hình 4

@@ -244,10 +244,10 @@ $$\Phi(x) < M - \Phi(p)$$
 với mọi giá trị $x$ nằm trong khoảng $(0,\ s)$.
 
 ⟦figure⟧
-Cơm. 1.
+Hình 1.
 
 ⟦figure⟧
-Cơm. 2.
+Hình 2.
 
 3 Lượng tử số 1
 

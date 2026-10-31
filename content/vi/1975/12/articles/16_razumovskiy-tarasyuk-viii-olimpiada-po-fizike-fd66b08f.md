@@ -92,11 +92,11 @@ Dưới đây là bài toán vòng thi lý thuyết và thử nghiệm.
 Vấn đề 1. Thanh được cố định ở một góc $\dfrac{\pi}{2} - \alpha$ so với trục thẳng đứng *A* (Hình 1). Cấu trúc có thể quay quanh trục này với vận tốc góc $\omega$. Trên thanh có một vật chuyển động có khối lượng $G = mg$. Chuyển động của vật dọc theo thanh xảy ra do ma sát. Hệ số ma sát tĩnh $\mu$ ($\mu = \mathrm{tg}\,\beta$).
 
 ⟦figure⟧
-Cơm. 1.
+Hình 1.
 
 ⟦folio 61⟧
 
-Cơm. 2.
+Hình 2.
 
 a) Với giá trị nào của góc α thì vật đứng yên và với giá trị nào của α thì vật chuyển động ở ω = 0?
 
@@ -143,7 +143,7 @@ Sử dụng những thiết bị này, giải quyết bài toán sau.
 
 a) Lắp ráp mạch điện và thực hiện những thay đổi cần thiết để mô tả đặc tính của chất bán dẫn
 
-Cơm. 3.
+Hình 3.
 
 ⟦folio 62⟧
 
@@ -170,13 +170,13 @@ Chỉ định và e. Dụng cụ đo điện thuộc cấp chính xác 2,5 và c
 | 3 $\theta$ | 60 $\text{кОм}$ |
 | 10 $\theta$ | 200 $\text{кОм}$ |
 
-Cơm. 4.
+Hình 4.
 
-Cơm. 5.
+Hình 5.
 
 ⟦folio 63⟧
 
-Cơm. 6.
+Hình 6.
 
 Như thường lệ, lời giải bài toán đã ghi điểm. Số điểm tối đa cho lời giải của mỗi bài toán thuộc loại lý thuyết là 10, và cho lời giải của loại thực nghiệm bài toán - 20. Như vậy, mỗi phần nói về điện trở trong của ampe kế và vôn kế. Thứ hai, sai số hệ thống phát sinh do nhiệt độ của thiết bị bán dẫn tăng không đồng bộ trong khi độ dẫn điện của nó tăng. (1 điểm)
 

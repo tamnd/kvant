@@ -83,7 +83,7 @@ Tại thời điểm $t_1 = 1$ s pha dao động bằng $\varphi_1 = \pi/2$, t�
 
 ⟦folio 6⟧
 
-Cơm. 6.
+Hình 6.
 
 khoảng trống trong chuỗi, có chiều dài $\lambda_1 = L$. Sóng tiếp theo, ngắn hơn, $\lambda_2 = L/2$, $\lambda_3 = L/3$ tiếp theo, v.v. Sóng ngắn nhất có thể truyền trong chuỗi là gì?
 

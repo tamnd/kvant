@@ -38,7 +38,7 @@ lớp 7
 
 ⟦figure⟧
 
-Cơm. 1
+Hình 1
 
 (Hình 1, nhìn từ trên xuống). Việc chuyển số xảy ra ngay lập tức khi xe moóc ở ngay trên mép của bệ. Tại ga, vận tốc của hai toa xe luôn thay đổi đồng thời và lúc này giữa chúng có thêm 5 toa xe. Khoảng cách bằng nhau l = 6 m được duy trì giữa các rơ-moóc liền kề tại ga. Thời gian chuyển động chậm của rơ moóc dọc theo ga từ mép sân ga này sang mép kia là W = 2 phút. Khoảng cách giữa các xe trên tuyến là s = ​​40 m; bạn có thể bỏ qua kích thước của xe kéo. 1) Tìm chiều dài L của cái sàn. 2) Tốc độ $v_{cт}$ chuyển động của xe moóc tại ga là bao nhiêu? 3) Tốc độ $v_{тр}$ chuyển động của xe moóc trên đường cao tốc là bao nhiêu? S. Karmazin
 
@@ -48,7 +48,7 @@ Cơm. 1
 
 ⟦figure⟧
 
-Cơm. 2
+Hình 2
 
 Ở Ustyug, nhiệt độ không khí là 37 q C. Hãy giúp Artem thực hiện các phép tính cần thiết khi biết rằng nhiệt kế của Artem và bạn của anh ấy là như nhau. V. Babintsev
 
@@ -76,11 +76,11 @@ Cuộc thi mang tên A.P. Savin
 
 ⟦figure⟧
 
-Cơm. 5
+Hình 5
 
 ⟦figure⟧
 
-Cơm. 4
+Hình 4
 
 Và vùng màu trắng, bằng 10, được tạo thành từ các hình chữ nhật 1 u a, 1 u b, 1 u c và 1 u d, được lấy hai lần và bốn ô 1 u 1, tức là bằng 2 a 2 b 2 c 2 d 4. Điều này có nghĩa là chu vi lớn hơn 8 và bằng 10 + 8. 10. Hãy xem xét cách biểu diễn của số này 202420242024202420242024 dưới dạng số tiền cần thiết. Chia cho 4, ta thấy câu hỏi bài toán tương đương với câu hỏi sau: số 50605060506050605060506 có thể biểu diễn dưới dạng tổng của sáu số tự nhiên, mỗi số được viết a) chỉ bằng các số 0 và 1; b) chỉ có số 1? a) Có, bạn có thể, vì trong số 5060...6 chữ số lớn nhất là 6. Ví dụ:
 
@@ -88,7 +88,7 @@ Và vùng màu trắng, bằng 10, được tạo thành từ các hình chữ n
 
 ⟦figure⟧
 
-Cơm. 6
+Hình 6
 
 Hãy xem xét việc chia tam giác này thành 16 hình tam giác bằng nhau với các đường thẳng song song với các cạnh (Hình 7). Hãy xem xét các điểm giao nhau được chỉ ra trong hình. Từ lý lẽ
 
@@ -106,7 +106,7 @@ không cần thiết, hãy xóa nó đi. Khi đó hai cạnh vẫn ở đỉnh 1
 
 ⟦figure⟧
 
-Cơm. 11
+Hình 11
 
 1. 1. s f8+!!, và Đen hoặc không có xe hoặc bị ghép đôi sau 1... 7 f8 2. q d8+. 2. 39… / f1+ 40. u f1 e3, và Trắng sẽ cần độ chính xác để ngăn chặn con tốt đã vượt qua.
 
@@ -114,7 +114,7 @@ QUANTUM
 
 ⟦figure⟧
 
-Cơm. 12
+Hình 12
 
 SỐ ĐÃ ĐƯỢC CHUẨN BỊ
 
@@ -134,7 +134,7 @@ E.A. Mitchenko, N.V. Stanzo
 
 ⟦figure⟧
 
-Cơm. 13
+Hình 13
 
 những đỉnh mà hai cạnh xanh hội tụ thì những đỉnh còn lại phải loại bỏ; chúng sẽ không được sử dụng trong lộ trình. Đây là đỉnh 9, có nghĩa là chúng ta loại bỏ cạnh 9–7, điều này sẽ kéo theo việc loại bỏ cạnh 7–2 (Hình 11). Sau đó sẽ còn lại 2 cạnh ở đỉnh 2, nghĩa là chúng sẽ nằm trên đường đi, chọn cạnh 2–14 và 2–23. Ngoài ra còn có đỉnh 20 với hai cạnh được chọn, nghĩa là chúng ta xóa cạnh 20–5. Đỉnh 23 có hai cạnh màu xanh, tức là cạnh 23–13
 

@@ -32,7 +32,7 @@ Vận tốc góc $\omega$ có liên quan đến vận tốc tuyến tính $v$ th
 
 Vấn đề. Đĩa có bán kính $r$ lăn không trượt trên mặt phẳng nằm ngang. Tốc độ của chuỗi đĩa không đổi và bằng $v_{\pi}$.
 
-Cơm. 1. Hình 2.
+Hình 1. Hình 2.
 
 Đĩa đang được chữa lành với vận tốc góc bằng bao nhiêu?
 
@@ -55,7 +55,7 @@ Nhiệm vụ a. Một ô tô đang chuyển động dọc theo đường tròn b
 
 Tại thời điểm ô tô lăn bánh, tác dụng cả phản lực của mặt đường $N$ và lực ma sát $F_{\text{тр}}$
 
-Cơm. 4.
+Hình 4.
 
 đến bánh xe "bên ngoài". Khi một ô tô chuyển động theo vòng tròn với tốc độ $v$, sẽ có một lực ma sát $F_{\text{тр}} = \frac{mv^2}{R}$ tác dụng lên nó. Lực này tạo ra mô men về trọng tâm của ô tô $M_{\text{тр}} = \frac{mv^2}{k}h$. Momen phản lực cực đại của mặt đường $N = mg$ so với trọng tâm bằng $mg\frac{l}{2}$ (tại thời điểm lật xe, phản lực truyền qua bánh xe ngoài). Đánh đồng những khoảnh khắc này, chúng ta tìm được phương trình tốc độ tối đa mà máy LIB không bị lật:
 

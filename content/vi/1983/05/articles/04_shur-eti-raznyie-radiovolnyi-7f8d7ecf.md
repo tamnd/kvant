@@ -47,7 +47,7 @@ Khi những hiện tượng này được phát hiện, những ý tưởng ban 
 
 ⟦folio 11⟧
 
-Cơm. 1.
+Hình 1.
 
 Chúng ta hãy nhớ lại rằng tầng điện ly là một lớp khí bị ion hóa ở phần trên của khí quyển - ở độ cao từ 60 km đến 450 km. Quá trình ion hóa khí xảy ra dưới tác động của tia cực tím và dòng hạt tích điện phát ra từ Mặt trời.
 
@@ -61,7 +61,7 @@ Phạm vi sóng ngắn rộng hơn chín lần so với phạm vi sóng dài và
 
 ⟦folio 12⟧
 
-Cơm. 2.
+Hình 2.
 
 đài phát thanh của Đại học Rostov. Trạm Andreeva có công suất chỉ vài watt. Đương nhiên, những sự thật như vậy buộc các chuyên gia phải đánh giá quá cao khả năng xảy ra sóng ngắn và tham gia vào nghiên cứu có hệ thống của họ. Ở Liên Xô, từ năm 1923, việc nghiên cứu sóng ngắn đã được thực hiện, đặc biệt là bởi Phòng thí nghiệm vô tuyến Nizhny Novgorod nổi tiếng được đặt theo tên. V. I. Lênin. Đúng như dự đoán, sự lan truyền của sóng ngắn trên khoảng cách xa là do sự phản xạ từ tầng nội quyển.
 
@@ -86,7 +86,7 @@ việc sử dụng rộng rãi chúng chỉ bắt đầu sau Chiến tranh Vệ 
 
 Rõ ràng, khoảng cách tầm nhìn phụ thuộc vào độ cao của ăng-ten (Hình 3). Do hiện tượng khúc xạ (khúc xạ) trong không khí, sóng truyền theo một đường hơi cong. (Điều này cho phép bạn tăng khoảng cách tầm nhìn lên 15 20%). Để sử dụng những gì đã nói, chúng tôi sẽ đưa ra một ví dụ từ thực tế. Trong hầu hết các dịch vụ, việc điều tra tín hiệu trên khoảng cách rất xa trong dải sóng siêu ngắn được thực hiện bằng cách sử dụng đường dây chuyển tiếp vô tuyến. Đường dây chuyển tiếp vô tuyến bao gồm các đài vô tuyến tích hợp được đặt sao cho có thể nhìn thấy trực tiếp giữa ăng-ten của các đài lân cận (Hình 5). Tín hiệu được truyền từ trạm đầu cuối được nhận bởi trạm đầu tiên
 
-Cơm. 4.
+Hình 4.
 
 Ăng-ten của đài truyền hình được nâng lên 250 m, độ cao của ăng-ten thu khoảng 10 m. Việc tính toán đường ngắm khoảng cách phù hợp với kết quả thử nghiệm thực nghiệm trên địa hình bằng phẳng và đồi núi. Hóa ra là 75 80 km.
 

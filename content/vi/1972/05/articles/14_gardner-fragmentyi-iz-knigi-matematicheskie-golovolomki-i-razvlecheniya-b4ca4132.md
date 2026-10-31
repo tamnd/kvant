@@ -36,14 +36,14 @@ Trong ngôn ngữ của lý thuyết trò chơi, trò chơi chéo và polnik có
 
 52
 
-Cơm. 1.
+Hình 1.
 sau lượt của mình, hai hàng gần như đã hoàn thành (kẻ địch chỉ có thể đặt một hàng để hoàn thành).
 
 Trong số ba bước di chuyển ban đầu có thể xảy ra - đến góc, đến trung tâm và ô bên - mạnh nhất là di chuyển vào góc, vì trong trường hợp này, kẻ thù, để không rơi vào bẫy ngay từ đầu, chỉ có thể chọn một bước trung tâm trong số tám ô còn lại. Ngược lại, nếu nước đi đầu tiên được thực hiện vào trung tâm thì bạn chỉ có thể chặn nó bằng cách chiếm góc. Trò chơi thú vị nhất chỉ đạt được khi người chơi đầu tiên mở trò chơi chiếm một trong các ô vuông bên: điều này mở ra cơ hội tuyệt vời cho cả hai bên để đặt bẫy. Nước đi đầu tiên và đáp số của người chơi thứ hai, hành động thận trọng, được thể hiện trong Hình 1.
 
 Nhiều thế kỷ trước thời đại của chúng ta, các biến thể thú vị về mặt toán học của thánh giá và polniki đã được biết đến hơn so với biến thể mà người ta thường chơi ở thời đại chúng ta. Trong tất cả các biến thể này, bạn cần lấy sáu chip để chơi, ba chip từ mỗi người chơi (ví dụ: một có ba đồng xu ba mặt và ba đồng xu còn lại),
 
-Cơm. 2.
+Hình 2.
 
 và bảng như hình 2.
 
@@ -57,7 +57,7 @@ Nếu bạn bắt đầu bằng nước đi ×8 và đối thủ của bạn đ�
 
 ⟦folio 53⟧
 
-Cơm. 3.
+Hình 3.
 
 Nếu đối thủ thực hiện nước đi đầu tiên ×8, thì nước đi ngược lại ⊙5 có thể dẫn đến một diễn biến thú vị của trò chơi: nếu đối thủ chiếm ô 2 (×2) ở nước đi thứ hai, thì bạn thậm chí có thể để anh ta chọn cho bạn ô vuông mà bạn sẽ chiếm ở nước đi tiếp theo. Dù bạn di chuyển thế nào, bạn đều được đảm bảo sẽ giành chiến thắng.
 

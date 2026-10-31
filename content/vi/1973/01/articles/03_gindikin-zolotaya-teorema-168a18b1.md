@@ -133,7 +133,7 @@ Chứng minh giả thuyết Euler. Lưu ý rằng lập luận bên dưới khô
 
 ⟦folio 7⟧
 
-Cơm. 2.
+Hình 2.
 
 với các vùng xanh và tất cả các vùng xanh của điểm sẽ rơi vào một số khoảng được xây dựng $\left(|a| \frac{p}{2} \geq |a| k\right)$. Dễ dàng nhận thấy số $v$ xuất hiện trong bổ đề chính là số điểm xanh nằm trong các khoảng có số lẻ (chứng minh!).
 
@@ -155,7 +155,7 @@ nghĩa là, $p = 8q \pm 1$.
 
 Trường hợp $a = \pm 3$ cũng được xử lý tương tự. Dưới đây là kết quả tính toán (bảng cho $v$):
 
-Cơm. 3. $r = 1, a = 2, v = 0; r = 3, a = 2, v = 1; r = 5, a = 2, v = 1; r = 7, a = 2, v = 2$.
+Hình 3. $r = 1, a = 2, v = 0; r = 3, a = 2, v = 1; r = 5, a = 2, v = 1; r = 7, a = 2, v = 2$.
 
 ⟦folio 9⟧
 

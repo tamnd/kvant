@@ -129,7 +129,7 @@ k) $x_1 = 9,844947; x_2 = 2,293349.$
 Sai lầm ở đâu?
 Lỗi khi xây dựng ảnh của điểm $C$. Trên đường tròn $S_2$ có hai điểm cách $A_1$ một khoảng $|AC|$ - các điểm $C_1$ và $C_2$ (Hình 1), vì các đường tròn $S_2$ và $\beta$ cắt nhau tại hai điểm. Từ hai điểm này chúng ta cần lấy điểm $C_2$, vì góc là $\angle COC_2 = \alpha$. Lưu ý rằng nếu chúng ta cũng xây dựng không chính xác ảnh của điểm $B$, lấy điểm $B_2$, thì tam giác thu được $A_1C_1B_2$ sẽ bằng tam giác $ABC$, nhưng sẽ không phải là ảnh của tam giác đó khi xoay một góc $a$ quanh điểm $O$.
 
-Cơm. 1.
+Hình 1.
 
 Chúng ta cũng hãy rèn luyện tính tự chủ
 
@@ -149,7 +149,7 @@ Các bài tập của trường đã chọn
 5. Đáp số. Có (trong cả hai trường hợp). Phân vùng được hiển thị trong Hình 2 cho $n$ chẵn và Hình 3 cho lẻ $n$, trong đó $n$ là số ô vuông trong phân vùng ($n \geqslant 4$).
 6. Đáp số. 15 và 20 năm. Gợi ý. Vấn đề
 
-Cơm. 2.
+Hình 2.
 
 giảm xuống phương trình hệ thống lời giải
 

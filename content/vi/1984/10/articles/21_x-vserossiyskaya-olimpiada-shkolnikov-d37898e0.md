@@ -62,7 +62,7 @@ lớp 9
 
 2. Trong các ô của bảng vuông $3\times 3$ có các dấu “+” và “-”, như trên Hình 1. Được phép đổi tất cả các dấu ngược lại ở bất kỳ cột nào hoặc ở bất kỳ dòng nào cùng một lúc. Có thể lặp lại quy trình này nhiều lần từ bảng này để có được bảng như trong Hình 2 không?
 
-Cơm. 1.
+Hình 1.
 
 3. Giá trị lớn nhất của hiệu giữa một số có ba chữ số và tổng lập phương các chữ số của nó là bao nhiêu? Mức tối đa này có đạt được cho mỗi số có ba chữ số không? Giá trị tối thiểu của sự khác biệt này là gì?
 
@@ -96,11 +96,11 @@ Chuyến tham quan lý thuyết
 lớp 8
 1. Một cái nêm lớn có góc đáy α di chuyển dọc theo một bề mặt nằm ngang nhẵn (Hình 1). Một thanh nặng có khối lượng m đặt trên đầu nêm, được giữ ở vị trí thẳng đứng nhờ các giá đỡ nhẵn trong đó nó có thể chịu được chuyển động thẳng đứng mà không có ma sát. Dưới tác dụng của thanh, nêm chuyển động đều. Tìm hệ số ma sát giữa nêm và thanh và lực mà thanh ép lên nêm khi nêm chuyển động theo phương ngang với tốc độ không đổi. Có thể bỏ qua ma sát của nêm trên mặt ngang và ma sát của thanh trên các gối đỡ.
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
-Cơm. 3.
+Hình 3.
 
 ⟦folio 58⟧
 

@@ -47,7 +47,7 @@ từ trường hoặc từ trường trong trường hợp sóng điện từ) �
 
 Khoảng cách giữa hai bướu liền kề (hoặc thung lũng hoặc các điểm khác ở trạng thái giống hệt nhau) được gọi là bước sóng và được ký hiệu là λ (Hình 1). Bước sóng là một đặc tính rất quan trọng.
 
-Cơm. 1.
+Hình 1.
 
 Nếu chúng ta tập trung sự chú ý vào một điểm nào đó trong không gian nơi sóng tồn tại, chúng ta sẽ phát hiện ra sự thay đổi tuần hoàn của đại lượng vật lý tương ứng chỉ theo thời gian, gọi là dao động. Có một mối liên hệ giữa dao động và sóng. Hóa ra là một sóng, là một tập hợp các dao động tại tất cả các điểm của nó, sẽ không tự xuất hiện. Có một số điểm đặc biệt mà tại đó dao động là nguồn gốc của sóng. Về vấn đề này, đáng để đưa ra một định nghĩa khác về sóng.
 
@@ -102,7 +102,7 @@ Thật khó để nghĩ ra một đáp số đơn giản hơn thế này: điề
 
 Đây là cách phát sinh tính năng chính của phần lớn các máy định vị: hoạt động ở chế độ xung. Điều này có nghĩa là bộ phát định kỳ sơ cấp phát ra một nhóm sóng (xung có thời lượng τ, độ dài cτ (Hình 4)), và sau đó không hoạt động trong một thời gian dài (so với thời lượng của xung). Chính trong khoảng thời gian “im lặng” này, họ đến
 
-Cơm. 4.
+Hình 4.
 
 phản ánh xung từ các mục tiêu khác nhau.
 
@@ -114,7 +114,7 @@ Ngoài ra, việc quan sát lâu dài một số mục tiêu có hướng khác 
 
 Ở đây chúng ta đang nói về độ phân giải góc. Thật vậy, nếu các hướng trên mục tiêu khác nhau một góc lớn hơn chiều rộng của sơ đồ hướng (góc α), thì chúng, ngay cả ở cùng một phạm vi, sẽ không được nhìn thấy dưới dạng một mục tiêu. Các xung phản xạ từ chúng sẽ không đến đồng thời mà chỉ
 
-Cơm. 6. Mục tiêu 1 hiển thị nhưng mục tiêu 2 không hiển thị.
+Hình 6. Mục tiêu 1 hiển thị nhưng mục tiêu 2 không hiển thị.
 
 ⟦folio 11⟧
 
@@ -136,7 +136,7 @@ Nguyên lý thay đổi phạm vi và tọa độ góc
 
 Việc xác định đầy đủ vị trí của mục tiêu trong không gian đòi hỏi phải có kiến ​​thức
 
-Cơm. 7.
+Hình 7.
 
 ba tọa độ trong một số hệ tọa độ. Đối với máy định vị, hệ tọa độ “tự nhiên” như vậy, tức là hệ tọa độ tương ứng nhất với các đặc điểm của hiện tượng vật lý được sử dụng trong chúng, sẽ có dạng hình cầu (Hình 7). Trong đó, vị trí của điểm được xác định bởi tọa độ sau: vectơ bán kính $D$ (trong radar gọi là phạm vi trên cao); góc phương vị $\varphi$ (góc trong mặt phẳng ngang); góc nâng $\varepsilon$ (góc trong mặt phẳng thẳng đứng).
 
@@ -152,7 +152,7 @@ Công thức đã cho càng chính xác thì độ dịch chuyển mục tiêu c
 
 ⟦folio 12⟧
 
-Cơm. 8. Trepetitions - thời gian sau đó máy phát định kỳ gửi các xung thăm dò; $U_{\text{пер}}$ — điện áp đầu ra (xung) của máy phát; $U_{\text{пр}}$ — điện áp ở đầu vào máy thu (xung phản xạ); Mục tiêu 2 xa hơn mục tiêu 1.
+Hình 8. Trepetitions - thời gian sau đó máy phát định kỳ gửi các xung thăm dò; $U_{\text{пер}}$ — điện áp đầu ra (xung) của máy phát; $U_{\text{пр}}$ — điện áp ở đầu vào máy thu (xung phản xạ); Mục tiêu 2 xa hơn mục tiêu 1.
 
 Nguyên tắc đo phạm vi thời gian được giải thích bằng sơ đồ trong Hình 8.
 
@@ -160,7 +160,7 @@ Khoảng thời gian nào và với độ chính xác nào radar đo được?
 
 Thông thường, khoảng cách hàng chục km nên được đo với sai số không quá hàng chục mét. Điều này có nghĩa là, như có thể được tính bằng công thức (1) (tốc độ ánh sáng $c = 300\ 000\ \text{km/c}$), người ta phải có khả năng đo các khoảng thời gian cỡ hàng trăm micro giây ($1\ \text{mkc} = 10^{-6}\ \text{c}$) với độ chính xác đến một phần mười micro giây. Không có chiếc đồng hồ cơ nào có khả năng thực hiện các phép đo như vậy: khối lượng (quán tính) của các bộ phận trong cơ cấu của nó quá lớn; Chỉ các thiết bị điện tử, do quán tính thấp của electron, mới có thể thực hiện được điều này bài toán. Ví dụ, một thiết bị rất tiện lợi là ống tia điện tử
 
-Cơm. 9.
+Hình 9.
 
 (tương tự như những gì được sử dụng trong máy hiện sóng và tivi). Ứng dụng của nó trong radar thường dựa trên một sự thật nổi tiếng rằng “thà nhìn một lần còn hơn nghe một lần”. Mọi thứ chạm tới radar đều được các chỉ báo chùm tia điện tử chuyển đổi thành hình ảnh có thể nhìn thấy được của vùng không gian tương ứng.
 

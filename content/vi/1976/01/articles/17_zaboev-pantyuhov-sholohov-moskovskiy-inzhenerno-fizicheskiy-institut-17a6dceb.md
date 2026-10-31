@@ -57,12 +57,12 @@ Vật lý
 Bi yo 1
 1. Sự chuyển động của điện tích trong điện trường. Khái niệm về tiềm năng. Điện thế trường điện tích chính xác (không có đầu ra). Đơn vị của điện trường tiềm năng.
 
-Cơm. 1.
-Cơm. 2.
+Hình 1.
+Hình 2.
 
 ⟦folio 66⟧
 
-Cơm. 3.
+Hình 3.
 
 2. Thang nhiệt độ tuyệt đối. Luật kết hợp Boyle-Mariotte-Gay-Llussk.
 3. Một khối nhỏ có khối lượng $m = 1,6$ kg được đặt trên mép của một tấm ván có khối lượng $M = 3,2$ kg nằm trên một mặt phẳng nằm ngang nhẵn (Hình 1). Hệ số ma sát giữa dầm và tấm ván là $k = 0,25$. Công $A$ nào sẽ được thực hiện trên bảng trong khoảng thời gian sau đó khối sẽ chuyển động tương đối so với Trái đất từ ​​vị trí ban đầu đến một khoảng cách bằng chiều dài của tấm ván $l = 1$ m, nếu một lực nằm ngang $F = 2$ n tác dụng lên khối dọc theo tấm ván?
@@ -85,4 +85,4 @@ VÉ 4
 2. Sự phân tán ánh sáng. Quang phổ. Phổ phát xạ và hấp thụ. Quang phổ. Khái niệm phân tích quang phổ Các phần hồng ngoại và tử ngoại của quang phổ.
 3. Thanh dẫn $OA$ quay trong mặt phẳng vuông góc với cảm ứng từ trường $B = 1$ ml, với vận tốc góc $\omega = 300$ pad/giây quanh một trục đi qua đầu thanh. $O$ (Hình 2). Trong một hình trụ có diện tích hình cung $S = 100$ cm2, có không khí đồng nhất được ngăn cách bởi một pít-tông có khối lượng $m = 490$ k. Trong quá trình quay, khoảng cách từ tâm piston đến điểm là $O r = 1,36$ m. Đối với các tỷ lệ thể tích $V_1/V_2$ sinh ra trong hình trụ trong quá trình quay, nếu biết rằng khi không quay thì các thể tích bằng nhau và áp suất không khí trong chúng là $p = 1,1 \cdot 10^5$ n/m2.
 
-Cơm. 4.
+Hình 4.

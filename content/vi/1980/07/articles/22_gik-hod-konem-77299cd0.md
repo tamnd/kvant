@@ -68,11 +68,11 @@ Trong “Trang cờ vua” ngày nay, chúng tôi cố tình không cung cấp v
 
 ⟦folio 56⟧
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
-Cơm. 3.
+Hình 3.
 
 cụ thể là $a$ và $b$. Tính các hệ số của hệ này rồi giải hệ ta được $\alpha = \frac{3}{4}$, $\beta = 1$. Để tìm $|\vec{MN}|$, thuận tiện nhất là sử dụng thư từ $|\vec{MN}|^2 = MN \cdot CP = |CP|^2 - a(CP \cdot CA) - \beta(CP \cdot QP)$.
 
@@ -128,7 +128,7 @@ Tùy chọn 2
 
 ⟦folio 57⟧
 
-Cơm. 6.
+Hình 6.
 
 Viện Hàng không Moscow
 họ. Sergo Ordzhonikidze

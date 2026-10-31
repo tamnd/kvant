@@ -42,7 +42,7 @@ Một mô hình khác được phát minh bởi Henri Poincaré, giải quyết 
 Các khái niệm hình học của chúng ta có tiền đề vật lý. Ví dụ, chúng ta cảm nhận các tia sáng là những đường thẳng. Một tia sáng đi về phía chúng ta tiếp tục xuất hiện thẳng, ngay cả khi nó bị khúc xạ trên đường đi (ví dụ, đi vào nước từ không khí). Để xua tan ảo tưởng này, bạn cần tiến hành một thí nghiệm hoặc quan sát những gì đang xảy ra từ bên ngoài.
 
 ⟦figure⟧
-Cơm. 1
+Hình 1
 
 Chúng ta có một môi trường không đồng nhất về mặt quang học ở nửa mặt phẳng trên ($y\gt0$), trong đó tốc độ ánh sáng thay đổi theo định luật $c(x,y)=y$ (bất kể hướng của tia sáng). Theo nguyên lý Fermat, đường đi của ánh sáng giữa hai điểm là đường đi mà ánh sáng cần thời gian truyền đi ngắn nhất có thể. Trong môi trường của chúng ta (nơi $c(x,y)=y$) ánh sáng giữa hai điểm sẽ truyền dọc theo những đường cong như vậy $L$ (Hình 1), do đó
 $$
@@ -57,19 +57,19 @@ Các đường tròn vuông góc với trục $x$ và các đường thẳng đ�
 Thế giới Poincaré (hãy gọi nó để vinh danh người tạo ra nó *Poincaria*) là nửa mặt phẳng trên $\{(x,y){,}~y\gt0\}$ không có ranh giới $y=0$ (điều này rất quan trọng!). Các sinh vật sinh sống ở Poincaria (*Poincarian*) được coi là hình bán nguyệt phía trên “thẳng” với tâm nằm trên trục $x$ (không có đầu!) và các tia thẳng đứng (Hình 2). Chúng ta sẽ gọi những dòng này là n-dòng. Các đường thẳng P đối với Poincarian dường như là vô hạn (ánh sáng truyền dọc theo chúng trong thời gian không giới hạn) và các điểm cuối của các đường thẳng p, giống như toàn bộ trục của $x$-s, là vô hình. Vì vậy, người Poincaria tin rằng Poincaria của họ là không giới hạn ở mọi hướng. Hãy gọi các điểm vô hình của đường n là *điểm ở vô cực*; đối với một tia, chúng ta sẽ coi điểm $\infty$ (vô cực) là một trong những điểm ở xa vô cùng của nó. Đường P được xác định duy nhất bởi một cặp điểm cách nhau vô hạn (tại sao?); vì vậy chúng ta sẽ phân biệt chúng và ký hiệu chúng bằng $L(\alpha,\beta)$, trong đó $\alpha$, $\beta$ là số thực (một trong số chúng có thể là $\infty$) - tọa độ của các điểm xa vô tận trên trục $x$.
 
 ⟦figure⟧
-Cơm. 2
+Hình 2
 
 Chúng ta hãy thử cùng với các Poincarian xây dựng hình học cho không gian của họ. Giống như chúng ta, khi sống trong không gian Euclide, một số phát biểu có vẻ hiển nhiên đối với những người theo thuyết Poincarian; họ chấp nhận chúng mà không cần bằng chứng (tiên đề) và từ đó suy ra những phát biểu phức tạp hơn (định lý). Đối với chúng tôi, nhìn từ bên ngoài vào Poincaria, tất cả các phát biểu này sẽ khác với Poincaria (ví dụ, hình bán nguyệt hoặc tia sáng đối với chúng tôi là thẳng!), vì vậy chúng tôi sẽ “dịch” các công thức của Poincaria sang ngôn ngữ Euclide “thô tục” của chúng tôi và chứng minh điều đó theo cách riêng của chúng tôi.
 
 Ví dụ, người Poincarian biết rằng một đường thẳng n đi qua hai điểm khác nhau và hơn nữa, nó là điểm duy nhất. Đối với chúng ta, điều này có nghĩa là qua hai điểm khác nhau của nửa mặt phẳng có một hình bán nguyệt đi qua vuông góc với trục $x$ hoặc một tia thẳng đứng (chứng minh điều đó!); xem Hình 2. Lưu ý rằng cách giải thích vật lý của phát biểu này, bao gồm thực tế là ánh sáng giữa hai điểm truyền dọc theo một đường duy nhất, là giống nhau đối với các nhà Poincarian và đối với chúng ta (tuy nhiên, đối với hình học, cách giải thích này không có sức thuyết phục rõ ràng). Không khó để xác minh rằng trong Poincaria tất cả các tiên đề của hình học Euclide đều đúng về vị trí tương đối của các điểm và đường thẳng cũng như thứ tự của các điểm trên một đường thẳng. (Để làm quen với Poincaria, hãy hiểu n đoạn, n nửa mặt phẳng trong đó đường n chia Poincaria sao cho n đoạn thẳng nối các điểm trong một n nửa mặt phẳng không cắt đường biên mà n đoạn nối các điểm ở các n nửa mặt phẳng khác nhau cắt nhau; vẽ n tam giác, n đa giác; nghĩ về n-lồi, nếu biết về "thông thường" độ lồi, Hình 3, *a* và *b* sẽ giúp bạn.
 
 ⟦figure⟧
-Cơm. 3
+Hình 3
 
 Sự khác biệt giữa hình học Poincaria và hình học Euclide được bộc lộ khi xét vị trí tương đối của một cặp n đường thẳng. Chúng ta đã biết rằng hai đường thẳng n khác nhau có thể cắt nhau nhiều nhất tại một điểm. Nếu chúng không giao nhau thì chúng có điểm chung ở vô cực (vô hình!) hoặc không có điểm chung kể cả ở viền vô hình. Trong trường hợp đầu tiên, chúng ta sẽ gọi n-dòng như vậy là *đường song song*, và trong trường hợp thứ hai - *siêu song song*. Nếu có một đường thẳng $L(\alpha,\beta$), thì qua một điểm bên ngoài nó chỉ đi qua hai đường thẳng $L(\alpha,\beta)$ n song song (tương ứng với các điểm ở xa vô cùng $\alpha$ và $\beta$, tương ứng; Hình 4) và vô số các đường siêu song song nằm giữa các đường vĩ tuyến. Do đó, ở Poincaria, tiên đề về sự tương đương là không công bằng (tuy nhiên, đối với chúng tôi, những người quan sát, điều này không có gì đáng ngạc nhiên - suy cho cùng, những người theo Poincaria không biết rằng những tiên đề “thẳng” của họ là “không có thật”!); điều này cho phép chúng ta hy vọng rằng hình học Poincaria sẽ trở thành hình học Lobachevsky.
 
 ⟦figure⟧
-Cơm. 4
+Hình 4
 
 Điều chính chúng ta cần làm bây giờ là xác định *khoảng cách* và *độ dịch chuyển* trong Poincaria.
 
@@ -115,10 +115,10 @@ do đó, với giả định rằng hàm $\psi$ đủ “tốt” (xem bài vi�
 Độ dịch chuyển n có thể thu được bằng cách kết hợp n dịch chuyển với n đối xứng đã đủ để biến đổi bất kỳ đường n nào thành đường n bất kỳ; Hơn nữa, bất kỳ điểm nào của n tia đầu tiên đều có thể kết hợp với một điểm đã cho của tia thứ hai, và bất kỳ tia n nào với một tia n khác (hãy chứng minh điều đó!). Điều này có nghĩa là n chuyển động này có thể kết hợp bất kỳ n đoạn nào có độ dài n bằng nhau và chúng ta nhận được rằng các đoạn đó là đồng dạng n. Có thể chứng minh rằng tất cả các chuyển vị n đều giảm xuống mức được mô tả.
 
 ⟦figure⟧
-Cơm. 5
+Hình 5
 
 ⟦figure⟧
-Cơm. 6. $\pi-(\alpha+(\beta+\delta)+\gamma)=$$=[\pi-(\alpha+\beta+\nu)]+{}$${}+[\pi-(\mu+\delta+\gamma)]$
+Hình 6. $\pi-(\alpha+(\beta+\delta)+\gamma)=$$=[\pi-(\alpha+\beta+\nu)]+{}$${}+[\pi-(\mu+\delta+\gamma)]$
 
 Với các phép dịch n, góc biến đổi thành một góc bằng với nó theo nghĩa Euclide (vì điều này đúng với các phép dịch song song, phép đồng âm, đối xứng trục và phép đảo ngược). Vì vậy, khái niệm sự đồng đẳng của các góc trong Poincaria không khác với Euclide. Khi tính đến trường hợp này, các nhà Poincarian, giống như chúng ta, sẽ chứng minh hai dấu hiệu bằng nhau của các tam giác: theo hai cạnh và góc xen giữa chúng, và theo một cạnh và hai góc kề với nó. Tình hình phức tạp hơn với việc chứng minh tiêu chí thứ ba về sự bằng nhau của các tam giác - về ba cạnh: xét cho cùng, chứng minh của chúng ta về tiêu chí này sử dụng thực tế là các đường tròn cắt nhau ở nhiều nhất hai điểm. May mắn thay, hóa ra n đường tròn trùng với các đường tròn Euclide (hoàn toàn nằm ở nửa mặt phẳng trên), chỉ có tâm n của chúng không trùng với tâm thông thường (đây là một thực tế khá khó khăn), và do đó mọi thứ đều đúng với dấu đồng đẳng ba cạnh trong Poincaria. Tuy nhiên, ở Poincaria còn có một dấu hiệu khác về sự đồng dạng của các tam giác: *các tam giác có các cặp góc bằng nhau thì bằng nhau*! (Dịch câu này sang ngôn ngữ hình học Euclide và cố gắng chứng minh nó; xem Hình 5 và bài toán 4.) Điều này có nghĩa là diện tích của một tam giác ở Poincaria (giống như chính tam giác) được xác định bởi các giá trị của các góc $\alpha$, $\beta$ và $\gamma$. Trong hình học lobachevsky, tổng các góc của một tam giác nhỏ hơn $\pi$. Giá trị $\pi-(\alpha+\beta+\gamma)$ được gọi là *khuyết tam giác*. Có thể thấy rằng khuyết tam giác hoạt động giống như một diện tích; chính xác hơn: nếu một tam giác nhất định bị cắt bởi một đường thẳng đi qua đỉnh của nó thì diện tích của nó sẽ bằng tổng diện tích của các tam giác thu được; điều tương tự cũng đúng đối với khuyết tật của bất kỳ tam giác nào: nó bằng tổng các khuyết tật của các tam giác thu được (Hình 6). Từ đó chúng ta có thể kết luận rằng diện tích của tam giác trong hình học lobachevsky tỷ lệ với khuyết tật $\pi-\alpha-\beta-\gamma$.
 
@@ -128,18 +128,18 @@ Với các phép dịch n, góc biến đổi thành một góc bằng với nó
 Chứng minh rằng đối với một cặp siêu song song có một đường thẳng n vuông góc chung duy nhất (Hình 8, *a* và *b*).
 
 ⟦figure⟧
-Cơm. 7
+Hình 7
 
 ⟦figure⟧
-Cơm. 8
+Hình 8
 
 1. Kiểm tra xem các đường phân giác n của tam giác n có cắt nhau tại một điểm - tâm của đường tròn n nội tiếp hay không. Hãy nghĩ về những gì có thể nói về n-đường tròn ngoại tiếp - nó có luôn tồn tại không (xem Hình 9: trong hình này, n-tam giác $A_iBC_i$ là cân, với trục đối xứng $L(0,\infty)$; $i=1$, 2, 3; n-vuông góc với các cạnh của n-tam giác này vẽ tại tâm n của chúng được hiển thị bằng màu xanh lam)?
 
 ⟦figure⟧
-Cơm. 9
+Hình 9
 
 ⟦figure⟧
-Cơm. 10
+Hình 10
 
 1. Đảm bảo rằng tam giác n tù (nhưng không nhọn) có thể có các đường cao siêu song song (trong Hình 10; các cạnh của tam giác được tô màu xanh lam và các đường cao của nó được tô màu đỏ). Bạn có thể nói gì về số trung vị?
 2. Chứng minh rằng tam giác cân n có các góc đáy bằng nhau và đường phân giác của góc ở đỉnh là đường trung tuyến và đường cao. Chứng minh trong trường hợp này tiêu chuẩn thứ tư về sự đồng dạng p của các tam giác.
@@ -148,10 +148,10 @@ Cơm. 10
 Theo đó, trong hình học của lobachevsky không thể xác định được khoảng cách giữa các điểm song song.
 
 ⟦figure⟧
-Cơm. 11
+Hình 11
 
 ⟦figure⟧
-Cơm. 12
+Hình 12
 
 1. Nếu n-line $L_1$ cắt n-line $L_0$ hoặc siêu song song với nó, thì nó chiếu lên $L_0$ dưới dạng một khoảng n hữu hạn; nếu $L_1$ song song với $L_0$ thì hình chiếu là tia n.
 2. Đặt đường thẳng n $L_0$ vuông góc với $L_1$ và đặt $A$ là một điểm trên $L_0$, cách $L_1$ một khoảng $x$ (Hình 12). Chúng ta hãy vẽ qua điểm $A$ một đường thẳng n $M_x$, song song với $L_1$ và biểu thị bằng $\phi(x)$ giá trị của góc mà đường thẳng n $M_x$ tạo thành với $L_0$. Tìm $\phi(x)$ và chỉ ra rằng $\phi(x)\to\dfrac\pi2$ ở $x\to0$ và $\phi(x)\to0$ ở $x\to\infty$.

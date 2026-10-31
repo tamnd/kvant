@@ -38,15 +38,15 @@ Hãy để chúng tôi làm rõ tuyên bố bài toán. Một điểm sẽ đư�
 
 Rõ ràng là nếu dữ liệu là hai hoặc ba điểm thì không thể xây dựng được điểm mới nào (Hình 1); nếu bốn điểm đã cho, trong đó có ba (hoặc cả bốn điểm) nằm trên cùng một đường thẳng, thì rất thuận tiện, không thể dựng được điểm mới (Hình 2); nếu có bốn điểm trên một, một số trong đó ba (hoặc cả bốn) nằm trên cùng một đường thẳng, thì rất thuận tiện, không thể xây dựng điểm mới (Hình 3).
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
-Cơm. 3.
+Hình 3.
 
 ⟦folio 27⟧
 
-Cơm. 4.
+Hình 4.
 
 Lời giải được thể hiện trên Hình 5; Nó hiển thị màu đen điểm đã được xây dựng $F$ - giữa $[PQ]$. Đẳng thức $|P'Q'| = |Q'R'|$ xuất phát từ sự đồng dạng của các tam giác $\Delta PMF \sim \Delta R'MQ', \Delta FMQ \sim \Delta Q'MP'$ và đẳng thức $|PF| = |FQ|$.
 
@@ -62,11 +62,11 @@ Lời giải. Đầu tiên, trên dòng đầu tiên $PQ$ chúng tôi xây dựn
 
 (Lưu ý rằng việc xây dựng sẽ thất bại nếu $(PP') \parallel (Q_mQ')$. Nhưng khó khăn này rất dễ vượt qua: bạn có thể ngủ
 
-Cơm. 5.
+Hình 5.
 
-Cơm. 6.
+Hình 6.
 
-Cơm. 7.
+Hình 7.
 
 Bắt đầu nhân đôi $[PQ]$, sau đó xây dựng các đoạn $m$ bằng với đoạn nhân đôi, sau đó lặp lại cấu trúc được chỉ ra trong đoạn trước.)
 

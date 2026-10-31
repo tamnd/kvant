@@ -52,7 +52,7 @@ Chúng ta hãy nhớ lại câu chuyện cổ về vị vua Ba Tư và tác gi�
 
 ⟦folio 72⟧
 
-Cơm. 1.
+Hình 1.
 
 số hạt trong công thức Euclid được xác định bởi biểu thức $2^n - 1$. Nếu số này là số nguyên tố thì nhân nó với số hạt ở ô trước đó, tức là với $2^{n-1}$, chúng ta sẽ thu được một số hoàn hảo. (xem hình 1).
 

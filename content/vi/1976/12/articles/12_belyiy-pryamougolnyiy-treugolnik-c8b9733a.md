@@ -72,7 +72,7 @@ Ví dụ 4 (MIPT, 1962). Trong tam giác vuông ABC, đường cao CD được v
 
 ⟦folio 52⟧
 
-Cơm. 6.
+Hình 6.
 
 Theo Phát biểu 2, các tam giác ADC, CDB và ACB đồng dạng (xem Hình 6). Và trong các tam giác đồng dạng, bán kính của các đường tròn nội tiếp (cũng như bất kỳ phần tử tuyến tính tương ứng nào khác) có liên hệ như các cạnh tương ứng. Sau đó
 

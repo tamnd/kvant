@@ -215,7 +215,7 @@ Có bao nhiêu phân chia?
 
 bài toán “sự khéo léo” sau đây cũng xuất hiện trong nhiều cuốn sách dành cho học sinh.
 
-Cơm. 6.
+Hình 6.
 
 Chiều dài của thước không có vạch chia là 13 cm. Cách đặt 4 vạch chia bên trong thước để với sự trợ giúp của nó, bạn có thể đặt bất kỳ độ dài nào đã cho sang một bên. Ở đây bạn cũng cần chỉ ra độ dài tương ứng trực tiếp trên thước, từ vạch chia này đến vạch chia khác (hoặc đến hết thước).
 
@@ -225,7 +225,7 @@ Như mọi khi, chúng tôi bắt đầu với các mẫu. Đối với một c�
 
 ⟦folio 8⟧
 
-Cơm. 7.
+Hình 7.
 
 3 cm là đủ cho một lần chia. Với chiều dài 4, 5, 6 cm, hai vạch chia là đủ, nhưng một vạch là chưa đủ; có chiều dài 7, 8, 9 cm thì cần ba vạch chia (hai vạch là không đủ), với chiều dài 10, 11, 12, 13 cm - bốn vạch chia (ba vạch là không đủ). Những kết quả này có được bằng cách tìm kiếm thông qua các tùy chọn; sự sắp xếp tương ứng được thể hiện trong Hình 7, nhưng khi chiều dài của dòng tăng lên, việc thực hiện tìm kiếm hoàn chỉnh ngày càng trở nên khó khăn hơn. Chúng ta cần một số phương pháp chung. Trước tiên chúng ta hãy thử ước tính số lượng các phần (trên và dưới).
 

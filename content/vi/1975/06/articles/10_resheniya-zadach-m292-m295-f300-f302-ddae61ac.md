@@ -71,9 +71,9 @@ b) Trong trường hợp nào thì bất đẳng thức trở thành đẳng th�
 e) Tìm diện tích $S_t$ của một phần của đa tạp theo mặt phẳng song song với $p_0$ và nằm cách $th$ một khoảng từ $p_0$ và $(2-t)$ từ $p_2$ ($0 < t < 2$).
 e) Tìm thể tích của đa tạp chứa giữa các mặt phẳng $p_0$ và $p_2$.
 
-Cơm. 2.
-Cơm. 3.
-Cơm. 4.
+Hình 2.
+Hình 3.
+Hình 4.
 
 Nếu bạn mở tất cả các dấu ngoặc, thì trong mỗi phần của bất đẳng thức, bạn nhận được 16 số hạng, trong đó có 12 số hạng giống nhau và bị hủy. Các số hạng còn lại sau khi đưa các số hạng tương tự tạo thành bất đẳng thức hiển nhiên sau, tương đương với số hạng ban đầu:
 $$abcd (xy - uv)^2 \geq 0.$$
@@ -165,16 +165,16 @@ N. B. Vasiliev
 ◆
 
 ⟦figure⟧
-Cơm. 8, c.
+Hình 8, c.
 
 ⟦figure⟧
-Cơm. 8, thành phố
+Hình 8, thành phố
 
 ⟦figure⟧
-Cơm. 8, d.
+Hình 8, d.
 
 ⟦figure⟧
-Cơm. 9.
+Hình 9.
 
 F300*). *Tìm độ cao của chất lỏng khi mao mạch hình nón giãn nở và co lại. Quá trình làm ướt đã hoàn tất. Góc ở đỉnh của hình nón tạo thành mao quản là $2\alpha$. Góc này được coi là nhỏ. Hệ số căng bề mặt chất lỏng $\sigma$.*
 
@@ -227,7 +227,7 @@ F301. Một thấu kính Kruezda có đường kính D gồm hai nửa có đư�
 
 Hai nửa thấu kính tạo thành một hệ quang học gồm hai thấu kính có tiêu cự F (lin cho L1) và 2F (lin cho L2). Trục quang của các thấu kính này trùng nhau. Theo định nghĩa, độ chiếu sáng phụ thuộc vào quang thông tới trên màn hình và diện tích của điểm trên màn hình. Trong trường hợp của chúng tôi, khi xác định vị trí của nguồn, mỗi ống kính sẽ tạo ra điểm sáng riêng trên màn hình, vì khoảng cách ống kính là khác nhau. Độ lớn của các luồng ánh sáng truyền qua thấu kính là như nhau, vì diện tích của thấu kính là như nhau, và do đó chứa các góc đặc trong đó các luồng ánh sáng rơi trên màn hình. Do đó, độ sáng của màn hình được xác định bởi kích thước của vùng hình ảnh. Rõ ràng, khi vị trí của nguồn thay đổi thì vị trí ảnh của nó cũng thay đổi, do đó diện tích của điểm trên màn hình và độ sáng của ảnh trên màn hình cũng thay đổi.
 
-Cơm. 13.
+Hình 13.
 
 Sử dụng công thức thấu kính, ta thấy ảnh nguồn cách thấu kính một khoảng f1 = Fa/a - F và f2 = 2Fa/a - 2F. Hãy khoảng cách một số vị trí của nguồn.
 
@@ -237,7 +237,7 @@ Với F < a < 2F f1 > 0 và f2 < 0. Ảnh của nguồn ở thấu kính thứ n
 
 ⟦folio 30⟧
 
-Cơm. 15.
+Hình 15.
 
 Các chùm tia và đồ thị chiếu sáng cho những trường hợp này được thể hiện trong Hình 14 và 15.
 

@@ -37,7 +37,7 @@ trong đó $x$ là độ lớn biến dạng, $k$ là hệ số đàn hồi. Đ�
 $$F = \frac{ES}{l}\,\Delta l. \qquad (2)$$
 
 ⟦figure⟧
-Cơm. 1
+Hình 1
 
 ⟦folio 18⟧
 
@@ -195,7 +195,7 @@ $$x = A_3 F^n R^{1-2n} E^{-n} = A_3 R \left(\frac{F}{ER^2}\right)^n,$$
 ⟦folio 20⟧
 
 ⟦figure⟧
-Cơm. 2.
+Hình 2.
 
 hoặc
 $$\frac{x}{R} = A_3 \left(\frac{F}{ER^2}\right)^n. \qquad (11)$$

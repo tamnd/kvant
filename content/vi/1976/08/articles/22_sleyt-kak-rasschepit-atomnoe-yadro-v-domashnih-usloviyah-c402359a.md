@@ -38,11 +38,11 @@ Nhìn xung quanh - ở nhà hoặc trên đường - thu thập một vài nguy�
 
 Các nguyên tử tự nhiên có chất lượng tốt hơn, nhưng các nguyên tử được bảo đảm cũng tốt. Bạn chỉ cần thêm nước cho chúng. Nguyên tử cây rất tốt cho việc tính toán. Hãy lấy gỗ sợi dài, nhưng không phải gỗ thắt nút, bởi vì những nút thắt này đơn giản là không thể cởi ra nếu chúng được kẹp trong hệ thống đồng bộ.
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
-Cơm. 3.
+Hình 3.
 
 Phân tích nguyên tử
 Hình 2 thể hiện sơ đồ biểu diễn của một nguyên tử. Cốt lõi nằm ở trung tâm. Các hạt bên trong hạt nhân là hạt nhân. Mọi thứ khác chỉ là điện tử, và trước khi bắt tay vào công việc, chắc chắn chúng cần phải được đặt sang một bên.

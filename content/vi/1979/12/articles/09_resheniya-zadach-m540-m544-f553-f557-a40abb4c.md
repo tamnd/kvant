@@ -41,7 +41,7 @@ M540. Hiệp hội quốc tế bao gồm các đại diện từ sáu quốc gia
 
 Chứng minh rằng có ít nhất một thành viên của xã hội có số lượng bằng tổng số của hai thành viên từ quốc gia của anh ta hoặc trùng với số thành viên nào đó từ quốc gia của anh ta.
 
-Cơm. 1.
+Hình 1.
 
 Giả sử rằng kết luận bài toán không đúng. Lưu ý rằng một trong các quốc gia có ít nhất 330 thành viên trong xã hội. Thật vậy, nếu mỗi phái đoàn tiểu bang có không quá 329 thành viên thì tổng cộng sẽ không có nhiều hơn $329 \times 6 = 1974$ thành viên trong xã hội. Chúng ta sẽ sử dụng một lập luận tương tự (được gọi là lý do Dirichlet) nhiều lần nữa mà không vi phạm cụ thể nó. Hãy sắp xếp số lượng nhà khoa học của đất nước này theo thứ tự tăng dần: $a_1, a_2, \dots, a_{330}$. Theo giả định của chúng tôi, các nhà khoa học có số $a_2-a_1, a_3-a_1, \dots, a_{330}-a_1$ đại diện cho năm quốc gia còn lại. Ít nhất 66 điểm trung bình đại diện cho một quốc gia; hãy để đây là những nhà khoa học có số $b_1, b_2, \dots, b_{66}$. Sau đó, các nhà khoa học được đánh số $b_2-b_1, \dots, b_{66}-b_1$ đại diện cho bốn quốc gia còn lại. Trung bình có ít nhất 17 nhà khoa học đại diện cho một quốc gia; hãy để số của họ là $c_1, c_2, \dots, c_{17}$. Sau đó các nhà khoa học có số $c_2-c_1, \dots, c_{17}-c_1$ sống ở ba quốc gia còn lại. Tương tự, từ đó ta sẽ tìm được 5 nhà khoa học đại diện cho hai quốc gia và sau đó là hai đại diện của một quốc gia, sự khác biệt về số lượng không thể bằng số lượng nhà khoa học ở cả hai quốc gia. Mâu thuẫn!
 
@@ -57,7 +57,7 @@ M541. Trong một nhóm N., mỗi người có đúng ba người bạn.
 a) Chứng minh rằng N bằng nhau.
 b) Có thể chia một nhóm người thành N/2 cặp để những người trong mỗi cặp là bạn bè không?
 
-Cơm. 2.
+Hình 2.
 
 M542. Cho một tam giác vuông $A_0A_1A_2$ có sao chổi $|A_0A_2| = a$ và $|A_1A_2| = b$. Cánh đồng kiến ​​dọc theo giòn vô tận $A_2A_3A_4A_5\dots$, thức ăn $A_nA_{n+1}$ - chiều cao của hình tam giác $A_{n-2}A_{n-1}A_n$.
 a) Tìm độ dài đường đi của nó (từ vô số đoạn thẳng).
@@ -111,7 +111,7 @@ Chứng minh rằng với mọi số thực $a, b$, có bất đẳng thức
 
 $$\rho(a, c) \leq \rho(a, b) + \rho(b, c).$$
 
-**Cơm. 4.**
+**Hình 4.**
 
 Công thức cho "khoảng cách" $\rho$ về cơ bản có thể được chiếu bằng cách thiết lập sự tương ứng một-một $y = tg\alpha$ giữa các số $y \in \mathbb{R}$ và các số $\alpha \in \left[-\frac{\pi}{2}; \frac{\pi}{2}\right]$. Nếu $y_1 = tg\alpha_1$, $y_2 = tg\alpha_2$, thì thay $tg\alpha$ bằng $\sin\alpha/\cos\alpha$, ta được
 
@@ -143,9 +143,9 @@ N. Vasiliev
 
 M544. Số đỉnh tối đa không thể kiểm tra được một đường chéo (nằm hoàn toàn bên trong đa giác) mà một n-уzelbnik lồi có thể có là bao nhiêu? Giải quyết bài toán này trước để được $n=4,5,6,7$.
 
-Cơm. 5.
+Hình 5.
 
-Cơm. 6.
+Hình 6.
 
 Hãy chứng minh rằng số đỉnh như vậy không vượt quá $\left[ \frac{n}{2} \right]$.
 
@@ -185,7 +185,7 @@ Ta biểu thị bằng $\vec{s}$ chuyển động của khối tâm của tấm 
 
 $$2 \frac{m |\vec{v}|^2}{2} + \frac{M |\vec{u}|^2}{2} = \frac{|\vec{u}|^2}{4} (m \cos^2 \alpha + 2 M).$$
 
-Cơm. 8.
+Hình 8.
 
 ⟦folio 28⟧
 
@@ -205,7 +205,7 @@ Do đó, tải trọng tối đa mà một nan hoa có thể chịu được x�
 
 $$m \approx \frac{|\vec{F}| l}{ag}.$$
 
-Cơm. 11. Hình 12.
+Hình 11. Hình 12.
 
 có thể bị bỏ qua. Khi đó bài toán trở nên tương tự như bài toán a), trong đó giá trị $2k$, đặc trưng cho độ cứng của lò xo khi căng (nén), phải được thay thế bằng độ cứng $k'$ của các nan hoa khi uốn, bằng tỷ số mô đun của lực đàn hồi cân bằng lực $\vec{F}$ với độ dịch chuyển của đầu thanh, nghĩa là, $\frac{|\vec{F}|}{a}$.
 
@@ -217,11 +217,11 @@ $$m \approx \frac{|\vec{F}| l}{ag}.$$
 
 F556. Nếu bạn đặt một đoạn dây lên khối băng, từ đó nút thắt được treo (Hình 13), thì dây sẽ bắt đầu cắt băng. Điều này được giải thích là do khi áp suất tăng lên, điểm nóng chảy của băng bị vi phạm, lớp băng dưới dây bắt đầu mềm ra và phía trên dây bắt đầu đóng băng trở lại. Tuy nhiên, nếu một thứ gì đó không được làm từ dây mà từ một sợi nylon có cùng đường kính hoặc thậm chí nhỏ hơn, thì thực tế băng không bị cắt. Tại sao? Hãy thử kiểm tra trải nghiệm được mô tả.
 
-Cơm. 13.
+Hình 13.
 
 F557. Trong mạch như hình 14, phím K được đóng. Cường độ dòng điện cực đại trong mạch và hiệu điện thế cực đại trên tụ điện.
 
-Cơm. 14.
+Hình 14.
 
 Khi áp suất tăng lên, điểm nóng chảy của băng thực sự bị vi phạm. Tuy nhiên, khi băng tan, nhiệt của phản ứng tổng hợp bị hấp thụ và nhiệt độ của băng dưới dây bắt đầu giảm. Điều này xảy ra cho đến khi nhiệt độ của băng ở vùng áp suất cao giảm xuống nhiệt độ nóng chảy khi nó bắt đầu. Sự tan chảy tiếp theo của băng sẽ được xác định bởi nhiệt lượng, do tính dẫn nhiệt, sẽ truyền đến vùng có nhiệt độ cao.
 

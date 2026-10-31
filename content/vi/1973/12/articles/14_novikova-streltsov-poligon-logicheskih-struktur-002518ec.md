@@ -66,7 +66,7 @@ Nhấn bất kỳ nút nào trong bất kỳ phần tử nào sẽ làm cho dòn
 
 ⟦folio 47⟧
 
-Cơm. 1.
+Hình 1.
 
 "VÀ"
 | A | B | X = AB |
@@ -90,7 +90,7 @@ Cơm. 1.
 | 1 | 0 |
 | 0 | 1 |
 
-Cơm. 2.
+Hình 2.
 
 rơle và các tiếp điểm tương ứng đóng lại (trong phần tử “KHÔNG”, các tiếp điểm trong trường hợp này mở).
 

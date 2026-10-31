@@ -36,7 +36,7 @@ Các định lý của Ceva và Menelaus có thể được gọi là định l�
 
 ⟦folio 24⟧
 
-Cơm. 2.
+Hình 2.
 
 Bằng chứng. Trước tiên, hãy kiểm tra xem $R$ và $R^*$ có cùng dấu hay không. Có thể dễ dàng xác minh rằng việc thay đổi hướng của một trong các vectơ $a, b, c, a_1, b_1, c_1$ sẽ không làm thay đổi giá trị $R^*$ ($\omega, \omega_1$), vì vậy bạn có thể chọn hướng của từng vectơ theo một cách nhất định; ví dụ: chúng ta có thể coi vectơ $a, b, c, a_1, b_1, c_1$ trùng hướng với vectơ $\overrightarrow{BC}, \overrightarrow{CA}, \overrightarrow{AB}, \overrightarrow{AA_1}, \overrightarrow{BB_1}$ và $\overrightarrow{CC_1}$ (Hình 2). Trong trường hợp này, mỗi phân số trong số ba phân số có trong biểu thức $R(\Delta, \Delta_1)$ đều có cùng dấu với phân số tương ứng có trong biểu thức $R^*$ ($\omega, \omega_1$). Ví dụ, phân số
 
@@ -52,7 +52,7 @@ $$\left\{ \frac{\overrightarrow{BA_1}}{\overrightarrow{A_1C}} \right\} = \frac{|
 
 $$\left\{ \frac{\overrightarrow{CB_1}}{\overrightarrow{B_1A}} \right\} = \frac{|BC|}{|AB|} \cdot \frac{\sin \theta (\overrightarrow{a}, \overrightarrow{b_1})|}{|\sin \theta (\overrightarrow{c}, \overrightarrow{b_1})|}.$$
 
-Cơm. 3.
+Hình 3.
 
 Biến đổi ba đẳng thức này, ta được $|R(\Delta, \Delta_1)| = |R^*(\omega, \omega_1)|$. Bổ đề đã được chứng minh.
 
@@ -86,7 +86,7 @@ Sự cần thiết. Để các đường $AA_1, BB_1, CC_1$ cắt nhau tại m�
 
 ⟦folio 25⟧
 
-Cơm. 4a.
+Hình 4a.
 
 Lưu ý rằng nếu các đường $AA_1$, $BB_1$ và $CC_1$ cắt nhau tại một điểm thì cả ba điểm $A_1$, $B_1$ và $C_1$ đều nằm trên các cạnh của tam giác $ABC$ hoặc một trong các điểm nằm trên cạnh của tam giác và hai điểm còn lại nằm trên phần kéo dài của các cạnh tương ứng. Trong trường hợp đầu tiên, tất cả các phân số khác có trong biểu thức $R(\Delta, \Delta_1)$ đều dương và trong trường hợp thứ hai, một trong ba phân số có trong $R(\Delta, \Delta_1)$ là dương và hai phân số còn lại là âm, do đó, một lần nữa biểu thức $R(\Delta, \Delta_1)$ (và do đó $R^*(\omega, \omega_1)$ - xem bổ đề) lớn hơn 0. Bây giờ chúng ta hãy chứng minh rằng $|R^*(\omega, \omega_1)| = 1$ (vì $R^*(\omega, \omega_1) > 0$ nên $R^*(\omega, \omega_1)$ bằng một). Chúng ta hãy biểu thị điểm giao nhau của các đường $AA_1$, $BB_1$ và $CC_1$ bằng $D$ (Hình 4a). Áp dụng định lý sin, ta có
 
@@ -100,7 +100,7 @@ Thay đổi các đẳng thức này, ta thấy rằng $|R^*(\omega, \omega_1)| 
 
 Tính đầy đủ Chứng minh được kiểm chứng đầy đủ bằng phương pháp
 
-Cơm. 46.
+Hình 46.
 
 "bằng sự mâu thuẫn." Giả sử rằng $R(\Delta, \Delta_1) (= R(\omega, \omega_1)) = 1$, nhưng các đường $AA_1$, $BB_1$ và $CC_1$ không đi qua một điểm (Hình 46). Chúng ta hãy biểu thị điểm giao nhau của đường $AA_1$ và $BB_1$ bằng $D_1$ và bằng $C'_1$ điểm giao nhau của đường $AB$ và $CD_1$. Vì các đường $AA_1$, $BB_1$ và $CC_1$ cắt nhau tại một điểm,
 
@@ -124,7 +124,7 @@ Một lần nữa lưu ý rằng nếu các điểm $A_1$, $B_1$ và $C_1$ nằm
 
 ⟦folio 26⟧
 
-Cơm. 5.
+Hình 5.
 
 biệt danh $ABC$ hoặc hai trong số các điểm $A_1, B_1, C_1$ nằm ở các cạnh tương ứng và điểm thứ ba nằm tiếp tục. Trong cả hai trường hợp, biểu thức $R(\Delta, \Delta_1)$ sẽ âm (hãy đảm bảo điều này). Bây giờ chúng ta hãy chứng minh rằng nếu các điểm $A_1, B_1, C_1$ nằm trên cùng một đường thẳng thì $|R(\Delta, \Delta_1)| = 1$ (vì $R(\Delta, \Delta_1) < 0$ nên sẽ tuân theo $R(\Delta, \Delta_1) = -1$).
 
@@ -231,12 +231,12 @@ Lưu ý: Từ Câu 5, với sự trợ giúp của thước kẻ, một tiếp t
 Bài tập
 1. Chứng minh rằng: a) Các đường phân giác của các góc ngoài của một tam giác cắt các đường thẳng,
 
-Cơm. 10.
+Hình 10.
 
-Cơm. 11.
+Hình 11.
 
-Cơm. 12.
+Hình 12.
 
-Cơm. 13.
+Hình 13.
 
-Cơm. 14.
+Hình 14.

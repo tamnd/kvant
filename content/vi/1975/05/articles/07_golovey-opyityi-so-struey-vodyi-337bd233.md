@@ -41,7 +41,7 @@ Hình dạng mặt cắt ngang của tia liên tục thay đổi khi nó di chuy
 
 Chắc hẳn các bạn đã từng thấy dòng nước chảy ra từ vòi phun nước như thế nào. Ở đầu ống, đầu cuối cùng thường được làm từ một đoạn ống, hơi dẹt một bên. Trong trường hợp này, máy bay phản lực bay xa hơn. Có mô hình nào cho hiện tượng này không? Hóa ra là có. Đầu phun chính xác hơn với góc bổ sung $\beta \approx 13^\circ$ (Hình 2) cho độ phân giải lớn hơn 1,3–1,4 lần
 
-Cơm. 1.
+Hình 1.
 
 ⟦folio 42⟧
 
@@ -109,7 +109,7 @@ Hoạt động của vật dẫn ánh sáng dựa trên hiện tượng phản x
 
 Hãy xem xét một thí nghiệm khác với một dòng nước. Để thí nghiệm, bạn cần một số loại bình có thành truyền ánh sáng có đường kính 10-20 cm và cao 20-40 cm. Tốt nhất nên dùng thiếc
 
-Cơm. 4.
+Hình 4.
 
 bằng lọ hoặc xô hình trụ. Ở khoảng cách 30-40 mm, nên khoan hai lỗ, lỗ này hướng vào lỗ kia (Hình 4). Đường kính của một lỗ là 2 mm, đường kính của lỗ kia là 5-10 mm. Các lỗ ở các cạnh được khía hình chữ V; Hãy nhớ làm phẳng chúng bằng giấy nhám hoặc cắt chúng bằng mũi khoan có đường kính lớn hơn, nếu không dòng chảy sẽ trở nên rẻ tiền.
 

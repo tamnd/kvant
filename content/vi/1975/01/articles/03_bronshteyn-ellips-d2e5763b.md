@@ -48,20 +48,20 @@ mỗi điểm $m$ của nó sẽ tiến tới điểm $M$ theo quy luật sau:
 Nếu $k > 1$, thì tất cả các điểm của mặt phẳng (ngoại trừ các điểm của chính trục) sẽ di chuyển ra khỏi trục - mặt phẳng bị kéo giãn và nếu $k < 1$, thì chúng tiến gần đến trục - mặt phẳng bị nén. Với $k = 1$ tất cả các điểm của mặt phẳng vẫn giữ nguyên; trong trường hợp này chúng tôi
 
 ⟦figure⟧
-Cơm. 1 một.
+Hình 1 một.
 
 ⟦figure⟧
-Cơm. 1 b.
+Hình 1 b.
 
 ⟦folio 2⟧
 
 ⟦folio 3⟧
 
 ⟦figure⟧
-Cơm. 2 a. $k=^1/_2$.
+Hình 2 a. $k=^1/_2$.
 
 ⟦figure⟧
-Cơm. 2b. $k=2$.
+Hình 2b. $k=2$.
 
 chúng ta thu được *sự biến đổi giống hệt của mặt phẳng*.
 
@@ -88,7 +88,7 @@ Các đoạn $CD$ và $EH$ được gọi là *trục* của hình elip và các
 *) Để không vi phạm tính tổng quát của định nghĩa, hình tròn được coi là trường hợp đặc biệt của hình elip ($b=a$).
 
 ⟦figure⟧
-Cơm. 3.
+Hình 3.
 
 ⟦folio 4⟧
 
@@ -100,7 +100,7 @@ Cách đo một hình elip
 
 Nếu đã cho các trục của hình elip, thì cách dễ nhất là đo hình elip bằng tay bằng cách trước tiên dựng một hình chữ nhật cơ bản và sau đó vẽ một đường cong hình bầu dục vào đó. Nhưng phương pháp này không chính xác, có nhiều đường cong hình bầu dục có cùng trục đối xứng (một số đường cong như vậy được hiển thị trong Hình 4), nhưng chỉ một trong số chúng (màu đỏ trong Hình 4) là hình elip. Bạn có thể xây dựng chính xác bao nhiêu điểm của hình elip tùy thích. Được sử dụng phổ biến nhất
 
-Cơm. 5.
+Hình 5.
 
 và một phương pháp đơn giản để xây dựng như vậy được thể hiện trong Hình 5.
 
@@ -110,9 +110,9 @@ Sau khi thực hiện cách xây dựng như vậy cho một số điểm $m_1, 
 
 Bạn có thể vẽ một hình elip bằng chuyển động liên tục mà không cần nhấc bút chì ra khỏi giấy, giống như cách chúng ta vẽ một hình tròn bằng compa, sử dụng một thiết bị đặc biệt - hình elip.
 
-Cơm. 4.
+Hình 4.
 
-Cơm. 6.
+Hình 6.
 
 đồ thị \*). Ở cuối bài viết, chúng tôi sẽ chỉ ra một cách đơn giản để vẽ liên tục một hình elip bằng một sợi chỉ.
 
@@ -135,7 +135,7 @@ Một trong những khám phá đáng chú ý nhất của thế kỷ 17 là *ph
 ⟦column⟧
 
 ⟦figure⟧
-Cơm. 7.
+Hình 7.
 
 cho phép dịch các khái niệm hình học sang ngôn ngữ đại số. Phương pháp này cho phép thiết lập sự tương ứng giữa các đường thẳng nằm trên mặt phẳng chứa hệ tọa độ và các phương trình chứa hai chữ cái $x$ và $y$.
 
@@ -154,7 +154,7 @@ $$x_\text{э}^2 + \frac{y_\text{э}^2}{k^2} = a^2.$$
 ⟦folio 5⟧
 
 ⟦figure⟧
-Cơm. 8.
+Hình 8.
 
 Nếu điểm $M'(X', Y')$ không nằm trên hình elip thì điểm $m'(x', y')$, được chuyển sang $M'$ do PC, không nằm trên đường tròn và đẳng thức $(x')^2 + (y')^2 = a^2$ là sai, nghĩa là đẳng thức
 
@@ -206,7 +206,7 @@ Các điểm tiếp xúc $F_1$ và $F_2$ sẽ là tiêu điểm của hình elip
 
 Mỗi quả bóng chạm vào hình trụ theo một vòng tròn (màu đỏ). Chúng ta hãy lấy bất kỳ điểm $M$ nào của hình elip và đánh dấu bộ tạo $PQ$ của hình trụ mà điểm $M$ nằm trên đó ($P$ và $Q$ là các điểm của bộ tạo này nằm trên các vòng tròn màu đỏ). Rõ ràng là $MF_1 = MQ$, vì đây là độ dài của hai tiếp tuyến của quả bóng bên phải được vẽ từ $M$ đến các điểm tiếp xúc
 
-Cơm. 9.
+Hình 9.
 
 $F_1$ và $Q$ (các đoạn này bằng nhau như phần tử tạo của một hình nón có đỉnh $M$, ngoại tiếp về quả bóng bên phải). Lập luận tương tự cho quả bóng bên trái, ta được: $MF_2 = MP$. Cộng cả hai đẳng thức, ta có
 
@@ -229,7 +229,7 @@ Trong công thức này, $a$ là bán trục lớn, $b$ là trục nhỏ *) $c$ 
 ⟦folio 8⟧
 
 ⟦figure⟧
-Cơm. 10.
+Hình 10.
 
 khoảng cách giữa các tiêu điểm. Để chứng minh công thức này, hãy xét điểm cuối của trục chính của hình elip (điểm $C$ trong Hình 10). Theo thuộc tính tiêu điểm $CF_1 + CF_2 = \mathrm{const}$; do tính đối xứng $CF_1 = DF_2$; Điều này có nghĩa là hằng số hằng số bằng $CF_2 + F_2D$, tức là trục chính $2a$. Mặt khác, đối với điểm cuối của trục nhỏ, chẳng hạn như $E$, $EF_1 + EF_2 = 2a$, và do tính đối xứng, $EF_1 = EF_2$, nên mỗi đoạn này bằng $a$. Điều này cung cấp một cách để xây dựng các tiêu điểm của một hình elip dọc theo trục của nó (Hình 10).
 
@@ -242,7 +242,7 @@ Phương pháp vẽ hình elip này được những người làm vườn sử 
 ⟦column⟧
 
 ⟦figure⟧
-Cơm. 11.
+Hình 11.
 
 Có hai cái chốt, chiếc nhẫn được làm bằng sợi dây dày và hình elip được vẽ trên mặt đất không phải bằng bút chì mà bằng một cây gậy.
 

@@ -112,7 +112,7 @@ Tuy nhiên, vẫn cần phải tìm hiểu xem liệu có thể các chú lùn �
 
 Lưu ý rằng từ các định lý tổng quát của đại số tuyến tính, nền tảng của lý thuyết về chuỗi Markov, nó không chỉ tuân theo đáp số duy nhất trong bài toán này, mà còn tuân theo một thực tế tò mò sau: cho dù ban đầu 3 lít sữa được đổ như thế nào, thì sự phân bố của nó sẽ có xu hướng (với số lần truyền ngày càng tăng) theo phân bố được chỉ ra trong đáp số (0, 1/7, 2/7, ..., 5/7, đối với người đổ - 6/7 lít). Chúng tôi sẽ cố gắng nói về những định lý này trong một trong những số tiếp theo của Quat.
 
-Cơm. 3.
+Hình 3.
 
 N. Vasiliev
 
@@ -120,7 +120,7 @@ N. Vasiliev
 
 F467. Mặt Trăng được hình thành đồng thời từ cùng một phía so với Trái Đất và từ vệ tinh của Mặt Trăng. Quỹ đạo của vệ tinh rất dốc. Đường kính của hình ảnh Mặt trăng trên hệ tầng thu được trên Trái đất là 4 mm và trên vệ tinh của Mặt trăng là 250 mm. Tìm chu kỳ quay của vệ tinh Mặt Trăng dọc theo quỹ đạo của nó nếu bức ảnh được chụp bằng các vật thể giống hệt nhau có tiêu cự 500 mm. Chấp nhận rằng gia tốc trọng trường trên Mặt trăng nhỏ hơn trên Trái đất 6 lần và khoảng cách từ Trái đất đến Mặt trăng là 380.000 km.
 
-Cơm. 4. Hình 5.
+Hình 4. Hình 5.
 
 Vệ tinh Mặt Trăng chuyển động theo quỹ đạo tròn bán kính $R$ chịu tác dụng lực dính từ Mặt Trăng bằng $F = \gamma \frac{M_{\perp} m}{R^2}$ (m là khối lượng của vệ tinh, $M_{\perp}$ là khối lượng của Mặt Trăng). Xét gia tốc trọng trường trên Mặt Trăng là $g_{\perp} = \gamma \frac{M_{\perp}}{r_{\perp}^2}$ ($r_{\perp}$ là bán kính của Mặt Trăng), ta có thể viết
 
@@ -200,7 +200,7 @@ S. Kromov
 
 F469. Hình 6 được tạo ra với sự hình thành khối strombocoptic chuyển động dọc theo một mặt phẳng nghiêng. Khoảng thời gian giữa các lần tháo đèn liên tiếp là 0,1 s. Xác định hệ số ma sát của khối lập phương trên mặt phẳng.
 
-Cơm. 6.
+Hình 6.
 
 Trước hết, chúng tôi xác định giá trị gia tốc mà khối lập phương di chuyển. Như đã biết, hiệu giữa khoảng cách $l_1$ và $l_2$ mà một vật đi qua trong những khoảng thời gian bằng nhau liên tiếp $\tau$ bằng $l_2 - l_1 = |\vec{a}| \tau^2$, trong đó $\vec{a}$ là gia tốc mà vật chuyển động. Sau khi xác định từ hình vẽ bằng thước và tỷ lệ cho trước $l_2 - l_1$, ta thấy
 

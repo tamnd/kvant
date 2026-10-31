@@ -63,7 +63,7 @@ Lời giải bài toán M380 sẽ được đăng trong số tiếp theo của t
 
 M381. 6 nhà hoạt động giai cấp giáo dục và 30 ủy ban khác nhau. Mỗi hai khoản hoa hồng khác nhau về thành phần, nhưng nhất thiết phải “chồng lên nhau”, tức là chúng có một tên chung. Hãy để chúng tôi chứng minh rằng có thể hình thành một ủy ban khác giao với mỗi ủy ban trong số 30 ủy ban này.
 
-Cơm. 1.
+Hình 1.
 
 M382. Cho một đa thức $f(x) = x^n + a_1x^{n-1} + a_2x^{n-2} + \dots + a_n$ với các hệ số đích và số tự nhiên $k$ và $p$. Hãy chứng minh rằng nếu không có số $f(k), f(k+1), \dots, f(k+p)$ nào chia hết cho $p+1$ thì phương trình $f(x) = 0$ không có nghiệm hữu tỷ.
 
@@ -99,11 +99,11 @@ T. Raikov
 
 M383. Cho $a$ và $b$ là hai số tự nhiên. Hãy chứng minh rằng nếu $ab$ là số nguyên thì chúng ta cũng có thể tìm được các số tự nhiên $c$ và $d$, $a^2 + b^2 + c^2 = d^2$ đó, và nếu $ab$ không phải là số nguyên thì không thể tìm được các cực đại $c$ và $d$.
 
-Cơm. 3.
+Hình 3.
 
 M384. Hai hình vuông có hướng giống hệt nhau $OABC$ và $OA_1B_1C_1$ có ​​một đỉnh chung $O$. Hãy chứng minh rằng các đường thẳng $AA_1$, $BB_1$ và $CC_1$ đi qua một điểm.
 
-Cơm. 4.
+Hình 4.
 
 F387. Hai con bellosipedis trong rạp xiếc có vận tốc tuyến tính giống hệt nhau $v$ dọc theo các đường tròn có bán kính $R_1$ và $R_2$, tâm của chúng cách nhau một khoảng $l$ ($l < R_1 + R_2$). Một trong những cơ thể hình chuông di chuyển theo chiều kim đồng hồ, cái còn lại ngược chiều kim đồng hồ. Được mô tả cụ thể bằng tốc độ của các đường tròn (trong hệ tọa độ liên kết với một trong số chúng) tại thời điểm cả hai đều nằm trên đường thẳng đi qua tâm của đường tròn, tại các điểm: a) $A_1$ và $A_2$; b) $A_1$ và $B_2$; c) $B_1$ và $B_2$; e) $B_1$ và $A_2$ (Hình 5).
 
@@ -182,12 +182,12 @@ F388. Trong một hình trụ thẳng đứng có tiết diện thay đổi (Hì
 
 ⟦folio 32⟧
 
-Cơm. 11.
+Hình 11.
 
 trong Hình 10, có thể được thay thế bằng các mạch tương đương như trên Hình 12. Trong trường hợp này (Hình 12, a)
 $$R_{AB} = R_{BC} = R + R_1 \text{ и } R_{AC} = 2R.$$
 
-Cơm. 12.
+Hình 12.
 
 Chúng ta sẽ tìm các điện trở $R_{A'B'}$ và $R_{A'C'}$ bằng cách thay thế liên tiếp một số điện trở mắc song song hoặc nối tiếp bằng một điện trở. Dành cho người tham gia $A'B'$ (Hình 13)
 $$R_{A'B'} = 2r + R^{***} = 2r + \frac{rR^{**}}{r + R^{**}} =$$
@@ -200,15 +200,15 @@ $$2R = 2r + \frac{2rR}{r + R},$$
 Ở đâu
 $$R = \frac{1}{2}r(1 + \sqrt{5}).$$
 
-Cơm. 13.
+Hình 13.
 
 ⟦folio 35⟧
 
 tôi. Hệ số tranh chấp giữa đế và các trụ là k. Chứng minh rằng nếu con tàu ở vị trí cân bằng đứng yên theo phương nằm ngang thì nó sẽ thực hiện một dao động điều hòa và tìm chu kỳ của các dao động này. Chuyển động của bến tàu sẽ như thế nào nếu hướng của các hình trụ bị đảo ngược?
 
-Cơm. 17.
+Hình 17.
 
-Cơm. 18.
+Hình 18.
 
 Khi các hình trụ quay theo hướng đã chỉ ra trong các điều kiện, lực tác dụng từ hình trụ bên trái sẽ hướng sang phải và từ hình trụ bên phải - sang trái (xem Hình 17). Nếu bến tàu ở trạng thái cân bằng thì lực ma sát có mô đun bằng nhau. Do đó, phản lực pháp tuyến của mỗi xi lanh cũng bằng nhau. Điều này có nghĩa là trọng tâm của các bến ở trạng thái cân bằng có cùng khoảng cách với mỗi bến.
 

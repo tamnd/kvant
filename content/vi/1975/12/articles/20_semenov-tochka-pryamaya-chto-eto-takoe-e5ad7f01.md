@@ -68,20 +68,20 @@ giữa các trạng thái $A$ và $B$, $B$ và $C$, $A$ và $C$, $A$ và $D$? Nh
 2. Các đường tròn ở Hình 2 có thể được coi là điểm (II$_1$) không?
 
 ⟦figure⟧
-Cơm. 1
+Hình 1
 
 ⟦figure⟧
-Cơm. 2
+Hình 2
 
 Bài toán 2. Khoảng cách giữa hai khu dân cư
 những điểm nằm trên bờ sông, chúng ta sẽ gọi thời gian di chuyển từ điểm này sang điểm khác bằng thuyền. Có thể đếm các khu định cư $A$, $B$ và $C$
 (Hình 3) theo điểm (II$_{1,2}$)?
 
 ⟦figure⟧
-Cơm. 3
+Hình 3
 
 ⟦figure⟧
-Cơm. 4
+Hình 4
 
 Bài toán 3. Xe điện chạy dọc theo tuyến vành đai theo hướng mũi tên ở Hình 4. Khoảng cách giữa
 điểm dừng được đo bằng chiều dài của con đường mà xe điện đi qua. Có thể dừng lại được không
@@ -96,7 +96,7 @@ $A$, $B$, $C$ đếm
 $|AB|=|BA|$?
 
 ⟦figure⟧
-Cơm. 5
+Hình 5
 
 Bài toán 4. Hình 5 thể hiện các con đường
 kết nối các khu định cư $A$, $B$, $C$. Khoảng cách giữa chỉ định
@@ -148,7 +148,7 @@ $p$;*
 2. *hai điểm bất kỳ thuộc cùng một tập hợp không cách nhau bởi một đường thẳng $p$.*
 
 ⟦figure⟧
-Cơm. 6
+Hình 6
 
 Bài toán 8. Lấy trục số $Ox$, mở
 đoạn $]AB[$ giao nhau với trục này (Hình 6) và các điểm $C$ và $D$ như vậy
@@ -166,7 +166,7 @@ từ $O$ trên 1000 đơn vị.
 đo khoảng cách?
 
 ⟦figure⟧
-Cơm. 7
+Hình 7
 
 Bài toán 9. Hình 7 thể hiện một số
 dòng. Khoảng cách giữa hai điểm của đường thẳng có nghĩa là độ dài

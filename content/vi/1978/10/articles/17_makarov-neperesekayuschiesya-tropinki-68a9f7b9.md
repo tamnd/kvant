@@ -31,9 +31,9 @@ Hãy tưởng tượng rằng bạn cần tiếp tục các đường dẫn kế
 
 Đây là một cái tương tự khác bài toán - về nhà và giếng:
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
 Bạn cần nối ba ngôi nhà và ba cái giếng sao cho mỗi ngôi nhà đều thông với nhau và các lối đi không giao nhau. Hóa ra điều này cũng không thể thực hiện được (Hình 1, 2).
 
@@ -47,15 +47,15 @@ Nhưng những gì không thể thực hiện được trên một mặt phẳng
 
 Tuy nhiên, hình xuyến có liên quan gì đến nó? Hãy giải thích điều này. Trước hết, chúng tôi lưu ý rằng từ quan điểm của các đường đi, việc hình xuyến có “gọn gàng” hay không không quan trọng (Hình 4,5). Hiện nay
 
-Cơm. 4.
+Hình 4.
 
-Cơm. 5.
+Hình 5.
 
 hãy tưởng tượng rằng hình vẽ trên trang đầu tiên của trang bìa không được thực hiện trên mặt phẳng màu xanh lam mà trên một quả cầu màu xanh lam (xem hình ở trang 60; một đường khác được vẽ trên đó, dọc theo vùng màu xanh lam; nó không được hiển thị trên trang bìa). Sau đó, một "hình vuông" màu xám được cắt ra khỏi hình cầu và các cạnh đối diện của lỗ tạo thành được dán lại với nhau. Điều này thực sự sẽ tạo ra một hình xuyến (Hình 6). Và trên hình xuyến này bảy điểm được kết nối rời rạc
 
-Cơm. 6.
+Hình 6.
 
-Cơm. 7. đường dẫn.
+Hình 7. đường dẫn.
 
 Hãy giải bài toán về bốn ngôi nhà và bốn cái giếng trên một hình xuyến.
 

@@ -63,11 +63,11 @@ Bài toán 3 (MIIVT, 1980). Tìm phương trình mặt phẳng đi qua các đi�
 
 ⟦folio 39⟧
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
-Cơm. 3.
+Hình 3.
 
 chưa biết:
 

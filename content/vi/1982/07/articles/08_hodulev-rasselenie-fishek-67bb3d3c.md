@@ -42,7 +42,7 @@ Lời giải bài toán M715. bất biến
 
 Để xác định trình tự di chuyển mong muốn, thuận tiện nhất là sử dụng cờ đam và bàn cờ thông thường. Bằng cách đặt quân cờ ở góc dưới bên trái và thử nghiệm một chút, bạn có thể dễ dàng tìm thấy lời giải bài toán a). Trong bài toán này, bạn có thể giải phóng vùng màu hồng, chẳng hạn như trong Hình 2 - trong 4 nước đi (1,1), (2,1), (2,2), (1,2). (Bản ghi nước đi cho biết tọa độ của ô mà chip bị loại bỏ khi thực hiện một nước đi. Ví dụ: nước đi (2,1) có nghĩa là một chip được loại bỏ khỏi trường (2,1) và các chip mới được đặt trên các trường (2,2) và (3,1).
 
-Cơm. 1.
+Hình 1.
 
 ⟦folio 30⟧
 
@@ -82,4 +82,4 @@ Thuật toán chung
 
 Bằng cách sử dụng các bước di chuyển và chuẩn hóa tổng quát, chúng tôi có thể phân chia
 
-Cơm. 7. (Về phần kết, xem trang 55.)
+Hình 7. (Về phần kết, xem trang 55.)

@@ -111,7 +111,7 @@ b) 7.777.777.777 và 777.777.
 
 Bài 14. Từ một đường thẳng 324 $cm \times 141$ $cm$ một số hình vuông bị cắt khỏi cạnh 141 $cm$ cho đến khi còn lại một đường thẳng với một trong các cạnh
 
-Cơm. 3.
+Hình 3.
 
 nhỏ hơn 141 $cm$. Từ đường thẳng thu được, các hình vuông lại được cắt bỏ, các cạnh của chúng bằng cạnh nhỏ hơn của nó, miễn là điều này có thể, v.v. (Hình 3).
 

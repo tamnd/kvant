@@ -29,9 +29,9 @@ rằng kết quả sẽ là một đường thẳng đi qua gốc tọa độ. H
 
 Một tính năng thú vị khác của parabol là nó giúp dễ dàng xác định tốc độ chuyển động của vật thể. Biết rằng nếu đồ thị chuyển động được biểu diễn bằng một đường thẳng (chuyển động thẳng đều) thì tốc độ được xác định bằng góc nghiêng của đường thẳng đó với trục $t$. Đồ thị chuyển động thẳng không đều luôn là một đường cong. Nếu chúng ta chọn một phần trên đường cong này tương ứng với khoảng thời gian $\Delta t$ và sự thay đổi tọa độ $\Delta x$ (Hình 4), thì tỷ lệ $\Delta x/\Delta t$ sẽ bằng tốc độ trung bình trong thời gian $\Delta t$. Như có thể thấy trong Hình 4, nó được xác định bởi góc nghiêng của dây cung,
 
-Cơm. 3.
+Hình 3.
 
-Cơm. 4.
+Hình 4.
 
 uốn cong phần nhìn thấy của đường cong (nó bằng tiếp tuyến của góc này). Nếu chúng ta giảm vô hạn khoảng thời gian $\Delta t$, hướng nó về 0, thì dây cung sẽ tiếp tuyến với đường cong tại điểm tương ứng với thời điểm $t$ và góc nghiêng của nó ngay lập tức xác định tốc độ tại thời điểm này. Vì vậy, để tìm tốc độ tức thời của đồ thị chuyển động tại một thời điểm nào đó, bạn cần kiểm tra tiếp tuyến của đồ thị tại điểm tương ứng với thời điểm đó; tiếp tuyến có thể được vẽ hoặc không. Đặc điểm này của parabol (tam thức bình phương) có liên quan đến sự cản trở rằng trong chuyển động thẳng cân bằng, tốc độ trong bất kỳ khoảng thời gian nào đều bằng tốc độ ban đầu và tốc độ cuối cùng thu được. Do đó, để sử dụng parabol để tìm ngay tốc độ tại một thời điểm nào đó, bạn cần thực hiện một khoảng thời gian mà thời điểm mà chúng ta quan tâm đóng vai trò ở giữa. Khi đó tốc độ trung bình trong khoảng thời gian này sẽ bằng tốc độ tức thời ở giữa khoảng thời gian đó. Và để tìm tốc độ trung bình, bạn cần kiểm tra hợp âm chứ không phải tiếp tuyến, điều này không khó lắm.
 

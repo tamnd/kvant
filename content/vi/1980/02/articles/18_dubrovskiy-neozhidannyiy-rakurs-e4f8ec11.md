@@ -95,7 +95,7 @@ Bài toán 4. (MIPT, 1977) Mặt đáy ABCD được nhận dạng chính xác
 
 *) Bằng $\frac{a}{b}$, chúng ta biểu thị một số $k$ sao cho $\vec{a} = k\vec{b}$, nếu nó tồn tại, nghĩa là, nếu các vectơ $\vec{a}$ và $\vec{b}$ thẳng hàng và $|\vec{b}| \neq 0$.
 
-Cơm. 6.
+Hình 6.
 
 ABCDA$_1$B$_1$C$_1$D$_1$ có chiều dài 2a, cạnh bên có chiều dài a. Xét các đoạn có các đầu nằm trên đường chéo AD$_1$ của mặt và đường chéo DB$_1$ của lăng kính, song song với mặt phẳng AA$_1$B$_1$B.
 

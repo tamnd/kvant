@@ -58,7 +58,7 @@ THUỘC VẬT CHẤT
 
 ⟦figure⟧
 
-Cơm. 1. Phổ bức xạ mặt trời
+Hình 1. Phổ bức xạ mặt trời
 
 KHÔNG BẮT BUỘC
 

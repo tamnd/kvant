@@ -67,15 +67,15 @@ Công việc của tôi với chúng tôi. Biểu đồ trong Hình 1 dựa trê
 
 Ngay từ thời thơ ấu, Poisson đã gắn liền với vật lý dao động. Được kết nối, nghe có vẻ đáng ngạc nhiên, theo nghĩa đen của từ này. Thực tế là có vẻ như bảo mẫu Denis của cậu bé Simeon không có gì đặc biệt nổi bật. Để giải quyết vấn đề với những căn phòng nhỏ, cô quấn em bé trong một chiếc khăn tròn và treo em lên một chiếc xà ngang lớn.
 
-Cơm. 1.
+Hình 1.
 
 ⟦folio 19⟧
 
-Cơm. 2.
+Hình 2.
 
-Cơm. 3.
+Hình 3.
 
-Cơm. 4.
+Hình 4.
 
 dầm thép. Vì vậy, đu đưa dưới dạng một loại mặt dây chuyền, cậu bé đã dành nhiều giờ đồng hồ. Khi trưởng thành, Poisson nói đùa rằng chính Chúa đã bảo ông nghiên cứu các lý thuyết về dao động.
 

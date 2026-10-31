@@ -36,7 +36,7 @@ Ba đường tròn lớn không đi qua một điểm được chia thành tám 
 
 8) Bốn vùng đất lớn có thể chia thành những khu vực nào mà không có ba vùng nào đi qua cùng một điểm?
 
-Cơm. 1.
+Hình 1.
 
 Chúng ta sẽ nói rằng một số đường thẳng trên một mặt phẳng (hoặc các đường dốc lớn trên hình cầu) ở vị trí tổng quát nếu chúng cắt nhau theo cặp và tại các điểm khác nhau. Để cho ngắn gọn, chúng ta sẽ gọi hình lồi trên mặt phẳng giới hạn bởi hai tia và n-1 đoạn là góc n (và n góc của n đỉnh thì góc 1 là góc theo nghĩa tổng quát). Hãy chuyển sang lời giải bài toán.
 
@@ -91,13 +91,13 @@ N. Vasiliev
 
 ke 7. Cho $M$ là một đa giác có các đỉnh nằm trong chuỗi đường tròn. Hãy tô màu đỏ cho các vòng tròn hoặc đồng hồ (duen) nằm bên trong $M$ của chúng. Hãy chứng minh rằng tổng cường độ mưa đá của các trận mưa đá màu đỏ bằng $C \cdot 180^\circ$, trong đó $C = C(M)$ là một số nguyên và chúng tôi đưa ra một cách giải thích hình học khác cho một số khác.
 
-Cơm. 7.
+Hình 7.
 
-Cơm. 8.
+Hình 8.
 
-Cơm. 9.
+Hình 9.
 
-Cơm. 10.
+Hình 10.
 
 đa giác $A_1, \dots, A_k$ (có đỉnh tại các nút): $M = \bigcup_{i=1}^{k} A_i$,
 
@@ -139,15 +139,15 @@ Hãy lấy ba đỉnh liên tiếp của đa giác $M$: $A_1, A_2, A_3$. Nếu �
 
 ⟦folio 36⟧
 
-Cơm. 11.
+Hình 11.
 
 F458. Cậu bé bơi với tốc độ bằng một nửa tốc độ đuổi theo dòng sông. Anh ta nên bơi sang bờ bên kia theo hướng nào để anh ta bị cuốn theo ít nhất có thể?
 
-Cơm. 12.
+Hình 12.
 
 F459. Điện cực chứa ba vòng xoắn ốc có điện trở $R=120$ Ohm, mỗi vòng xoắn ốc được kết nối song song với nhau. Máy sưởi được nối thành bảy dãy có điện trở $r=50$ Ohm. Thời gian cần thiết để cắt hình xoắn ốc này bằng nước để đun sôi sẽ thay đổi như thế nào nếu một trong các hình xoắn ốc bị cháy?
 
-Cơm. 13.
+Hình 13.
 
 Gọi $v_0$ là tốc độ của dòng sông, $v_1$ là tốc độ của cậu bé so với dòng nước. Khi đó vận tốc của cậu bé so với bờ là
 
@@ -181,11 +181,11 @@ Do đó $t_2 = \frac{242}{243} t_1$.
 
 F460. Trong mạch như hình 14, công tắc liên tục chuyển từ vị trí trên xuống vị trí dưới và quay lại. Ở vị trí trên nó bị trễ một thời gian $\tau_1 = 2 \cdot 10^{-3} \text{ c}$, ở vị trí thấp hơn một thời gian $\tau_2 = 10^{-3} \text{ c}$. Tên của người được thôi thúc từ nguồn sau một thời gian rất dài kể từ khi công tắc bắt đầu hoạt động. Điện dung cực đại của tụ điện là trong thời gian $\tau_2$ nó không có thời gian để phóng điện hoàn toàn.
 
-Cơm. 14.
+Hình 14.
 
 F461. Mỗi mét vuông bề mặt của một vật thể, được cắt đến nhiệt độ $T$, sẽ phát ra năng lượng $W = 5,67 \times 10^{-8} T^4$ W trên một đơn vị thời gian. Ở khoảng cách nào $R$ tính từ Mặt trời thì mạt sắt biến thành giọt nếu mật độ dòng bức xạ mặt trời (năng lượng truyền qua một đơn vị diện tích trên một đơn vị thời gian) trên thể tích Trái đất là $E_0 = 1400 \text{ Bm}/\text{m}^2$? Điểm nóng chảy của sắt xấp xỉ $T_0 = 1535 \text{ K}$, khoảng cách từ Trái đất đến Mặt trời là $R_0 = 1,5 \cdot 10^{11} \text{ m}$.
 
-Cơm. 15.
+Hình 15.
 
 Gọi $U_C$ là điện áp trên tụ điện. Vì, theo các điều kiện, sự thay đổi điện tích của tụ điện trong thời gian $\tau_1$ (và do đó trong thời gian $\tau_2$) là nhỏ, nên chúng ta có thể giả sử rằng sau một khoảng thời gian lớn hơn sau khi bắt đầu chuyển mạch, điện tích $U_C$ không thay đổi theo thời gian. Sau đó, khi tụ điện được tích điện, dòng điện $I_1 = \frac{U - U_C}{R}$ chạy qua mạch và trong thời gian $\tau_1$ điện tích $q_1 = I_1 \tau_1 = \frac{U - U_C}{R} \tau_1$ đi qua. Khi tụ điện được tích điện, dòng điện $I_2 = \frac{U_C}{r}$ chạy qua mạch, sao cho điện tích $\tau_2$ theo thời gian $q_2 = I_2 \tau_2 = \frac{U_C}{r} \tau_2$ đi qua. $q_1$ và $q_2$ là sự thay đổi điện tích của tụ điện trong quá trình sạc và phóng điện. Ở chế độ cài đặt $q_1 = q_2$, tức là
 

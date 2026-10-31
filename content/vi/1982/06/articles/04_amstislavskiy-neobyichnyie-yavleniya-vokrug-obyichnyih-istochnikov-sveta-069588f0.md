@@ -50,7 +50,7 @@ Màn hình được mô tả để lấy mão răng không dễ thực hiện v�
 
 ⟦folio 16⟧
 
-Cơm. 4.
+Hình 4.
 
 Có một tấm kính thông thường được phủ một lớp lycopodem, một loại bột màu vàng từ bào tử rêu hình cầu mờ đục (Hình 4; đây là ảnh vi mô của cách tử nhiễu xạ với chu kỳ 0,02 mm, được phủ bằng lycopodem).
 
@@ -74,15 +74,15 @@ Nguồn có thể là đĩa Mặt trăng trên bầu trời đêm quang đãng, 
 
 Các vòng nhiễu xạ được quan sát xung quanh các nguồn sáng ở xa khác nhau.
 
-Cơm. 6. Đĩa Mặt Trăng và ảnh nhiễu xạ của nó.
+Hình 6. Đĩa Mặt Trăng và ảnh nhiễu xạ của nó.
 
-Cơm. 7. Vương miện quanh đèn đường.
+Hình 7. Vương miện quanh đèn đường.
 
-Cơm. 8. Một ngọn đèn sợi đốt và hình ảnh cuộn dây nóng đỏ của nó.
+Hình 8. Một ngọn đèn sợi đốt và hình ảnh cuộn dây nóng đỏ của nó.
 
-Cơm. 9. Ảnh nhiễu xạ của ngọn lửa nhẹ.
+Hình 9. Ảnh nhiễu xạ của ngọn lửa nhẹ.
 
-Cơm. 10. Vương miện quanh Mặt trời.
+Hình 10. Vương miện quanh Mặt trời.
 
 2 «Kvant» № 6
 

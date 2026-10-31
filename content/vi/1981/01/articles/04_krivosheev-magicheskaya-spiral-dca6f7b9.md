@@ -32,15 +32,15 @@ trần nhà
 
 Trần của các tòa nhà đa hiện đại (nhà ga, quán cà phê) được làm dưới dạng hệ thống thanh, cơ sở hình học của nó là “sự đóng gói dày đặc” của các khối tứ diện và nửa khung (xem «Kvant», 1976, số 9, trang 25). Mặt phẳng trên của một trong các tùy chọn là như thế này
 
-Cơm. 1.
+Hình 1.
 hệ thống thanh (Hình 1) - lưới vuông; bốn cạnh được gắn vào mỗi hình vuông, cùng với hình vuông này tạo thành một hình bán nguyệt. Bề mặt trên của hệ thống thường được phủ bằng vật liệu tấm đóng vai trò là mái hoặc sàn giữa các tầng. Phần dưới của lưới được để trống, hiển thị người xem đang ngồi ở phía sau
 le, mẫu thanh gọn gàng.
 
 Tuy nhiên, mạng như vậy có thể dễ dàng được làm giàu bằng cách phủ nó bằng các mặt hình tam giác. Một ví dụ về cách trang trí như vậy là trần nhà ở sảnh chính của nhà ga Leningradsky ở Moscow. Trần nhà này được bao phủ bởi những tấm vật liệu cứng. Nhưng trần nhà cũng có thể được phủ toàn bộ vật liệu.
 
-Cơm. 2.
+Hình 2.
 
-Cơm. 3.
+Hình 3.
 Làm thế nào điều này có thể được thực hiện?
 Đối với nửa mảnh vải chưa cắt (vải, màng mỏng, v.v.). Ở những vị trí tương ứng với các đỉnh của mẫu như trong Hình 26, khâu (keo) móc. Bằng cách kéo dài từ các móc này đến phần trên cùng tương ứng của lưới trần (Hình 2a), bạn có thể “ngay lập tức” nâng toàn bộ rèm lên trần nhà (Hình 3). Nó tạo thành vật trang trí được hiển thị trên trang thứ hai của trang bìa.
 

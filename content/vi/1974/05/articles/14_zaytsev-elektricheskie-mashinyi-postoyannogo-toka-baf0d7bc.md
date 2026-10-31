@@ -77,7 +77,7 @@ nghĩa là, động cơ quay với tốc độ như vậy. d.s. cảm ứng có 
 
 *) Điều này cũng xuất phát từ thực tế là ở $I = 0$ các lực tác dụng trong từ trường của cuộn cảm lên cuộn dây phần ứng cũng bằng 0.
 
-Cơm. 1.
+Hình 1.
 
 Câu hỏi. Trở lại công thức (II). Từ đó suy ra công suất hữu ích của động cơ bằng
 $$P = UI - I^2 R.$$
@@ -94,7 +94,7 @@ Câu hỏi. Thật thú vị khi lưu ý rằng với cùng một giá trị cô
 
 ⟦folio 66⟧
 
-Cơm. 2.
+Hình 2.
 
 Hãy đặt hai ý nghĩa lại với nhau. Do đó, công suất bằng $P_0$ ở dòng điện $I_1$ và $I_2$ (Hình 1).
 Hãy xem điều này được kết nối với cái gì.
@@ -113,7 +113,7 @@ trong đó $k$ là hệ số tỷ lệ.
 Bây giờ chúng ta hãy xem dòng điện trong mạch phần ứng và công suất chuyển động thuận phụ thuộc như thế nào vào $\omega$. Từ định luật Ohm
 $$I = \frac{U - E_n}{R} = \frac{U - k \omega}{R},$$
 
-Cơm. 3.
+Hình 3.
 và từ định luật bảo toàn năng lượng
 $$P = UI - I^2 R = E_n I = \frac{kU \omega - (k \omega)^2}{R}.$$
 Đồ thị biểu diễn sự phụ thuộc của $I$ và $P$ vào $\omega$ được thể hiện trên Hình 3 và Hình 4.

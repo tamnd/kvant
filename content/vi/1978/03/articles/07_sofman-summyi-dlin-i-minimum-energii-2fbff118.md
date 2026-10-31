@@ -72,7 +72,7 @@ Bài toán 4. Trên các bờ sông khác nhau có con đường định cư $A_
 
 ⟦folio 28⟧
 
-Cơm. 6.
+Hình 6.
 
 chiếu lên một đường thẳng song song với đường ray, từ điều kiện này ta thu được
 $$\cos \alpha_1 + \cos \alpha_2 + \cos \alpha_3 + \cos \beta_1 + \cos \beta_2 = 0$$
@@ -82,7 +82,7 @@ Mối quan hệ (*), mặc dù nó không cho phép xây dựng đoạn $CD$ b�
 
 Vì vậy, chúng ta đã thấy rằng phương pháp cơ học hóa ra lại rất hữu ích cho lời giải hình học bài toán loại được xem xét. Tóm lại, chúng tôi cung cấp cho độc giả một số bài toán cho sự độc lập lời giải. Một số trong chúng có thể được giải hoàn toàn bằng hình học, lời giải trong khi những điều khác chỉ có thể thực hiện được với sự trợ giúp của diễn giải máy móc. Hãy thử so sánh kết quả hình học và cơ học lời giải.
 
-Cơm. 7.
+Hình 7.
 
 Bài toán
 
@@ -96,11 +96,11 @@ Bài toán
 
 9. Giữa các đường cao tốc vuông góc mùa đông có một hồ nước tròn. Trên bờ hồ cần xây dựng khu điều dưỡng $A$ và nối với đường nhựa ra đường cao tốc $l_1$ và đường bê tông ra đường cao tốc $l_2$ (Hình 8). Xây dựng một km
 
-Cơm. 8.
+Hình 8.
 
 đường nhựa có giá $p$ rúp, và một km đường bê tông có giá $q$ rúp. Nên xây nhà điều dưỡng ở đâu để tổng chi phí làm đường là nhỏ nhất?
 
-Cơm. 9.
+Hình 9.
 
 10. Có hai thành phố trên một đoạn hình tròn - $A$ và $B$. Tại điểm nào trên bờ của đoạn đường nên xây dựng bến tàu $C$ sao cho tổng chiều dài của con đường $AC$ và $BC$ từ thành phố đến bến tàu là nhỏ nhất?
 

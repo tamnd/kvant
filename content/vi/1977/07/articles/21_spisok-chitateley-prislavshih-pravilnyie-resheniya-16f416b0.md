@@ -151,7 +151,7 @@ Vật lý
 
 ⟦folio 64⟧
 
-Cơm. 2.
+Hình 2.
 
 4. $q = \pi r^2 NC \frac{|\Delta B|}{\Delta t} \approx 1,26 \cdot 10^{-7} \kappa$.
 5. $d = 1,2 m$ (xem Hình 2).

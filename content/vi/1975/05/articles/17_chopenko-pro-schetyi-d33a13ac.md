@@ -47,7 +47,7 @@ Bút suan Trung Quốc (Hình 2) có cấu tạo trượt gần như không ma s
 
 算
 
-Cơm. 3.
+Hình 3.
 
 glyph "suan" - "đếm". Nó mô tả một bàn tính được giữ bởi hai nhân vật "bàn tay" phía trên nhân vật "tre".
 Nguồn gốc của suan pen không rõ. Mô tả chính xác của nó có từ thế kỷ 16, nhưng chắc chắn nó đã xuất hiện sớm hơn nhiều thế kỷ.
@@ -68,7 +68,7 @@ $$456\ 789 - 9213 =
 
 Vì vậy, chúng ta đã giảm phép trừ thành phép cộng và phép trừ lũy thừa mười. (Sắp xếp nó ra)
 
-Cơm. 4. Soroban. Con số 4620 được đặt sang một bên.
+Hình 4. Soroban. Con số 4620 được đặt sang một bên.
 
 ⟦folio 75⟧
 

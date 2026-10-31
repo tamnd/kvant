@@ -59,12 +59,12 @@ Mười bài toán để áp dụng tùy ý
 Danh sách 2. Tọa độ của điểm (0; 3) và (3; $7\frac{1}{2}$) thỏa mãn phương trình $x(t) = pt^2 + qt + r$. Vì vậy, $3 = p \cdot 0^2 + q \times 0 + r$, $7\frac{1}{2} = p \cdot 3^2 + q \cdot 3 + r$. Ngoài ra, $3 = -\frac{q}{2p}$. Giải hệ ta tìm được $p = -\frac{1}{2}$, $q = 3$, $r = 3$. Vì vậy, $x(t) = -\frac{1}{2}t^2 + 3t + 3$. Vì vậy $v = x'(t) = -t + 3$. $v(2) = 1$ m/s.
 7. Tiếp tuyến của góc $\alpha$ tạo bởi tiếp tuyến của đường cong $\varphi = \varphi(t)$ tại điểm $t = 3$ có ​​thể là
 
-Cơm. 1
-Cơm. 2.
-Cơm. 3.
-Cơm. 4.
-Cơm. 5.
-Cơm. 6.
+Hình 1
+Hình 2.
+Hình 3.
+Hình 4.
+Hình 5.
+Hình 6.
 
 ⟦folio 63⟧
 

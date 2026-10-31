@@ -40,9 +40,9 @@ Kính Kepler đương thời của Galileo đã thay thế thị kính phân k�
 
 ⟦folio 12⟧
 
-Cơm. 1. Đường đi của tia sáng trong kính thiên văn Galileo.
+Hình 1. Đường đi của tia sáng trong kính thiên văn Galileo.
 
-Cơm. 2. Đường đi của tia sáng trong kính thiên văn Kepler.
+Hình 2. Đường đi của tia sáng trong kính thiên văn Kepler.
 
 Cả điện thoại của Galileo và điện thoại của Kepler sau đó đều được gọi là vật khúc xạ (từ tiếng Latin frango - tôi phá vỡ). Mong muốn đạt được độ phóng đại cao nhất có thể đã dẫn đến việc chế tạo các kính thiên văn rất dài, điều này ảnh hưởng đến chất lượng hình ảnh: độ sáng của nó giảm. Điều này có thể tránh được bằng cách tăng đường kính của vật thể, tức là tăng lượng ánh sáng truyền qua điện thoại *). Tuy nhiên, việc tăng kích thước của vật thể sẽ dẫn đến độ rõ nét của hình ảnh bị suy giảm rõ rệt - chúng trở nên mờ và có nhiều đá màu. Điều này là do những nhược điểm của thấu kính - chủ yếu là quang sai hình cầu và sắc độ.
 
@@ -68,9 +68,9 @@ Kể từ đó, một cuộc tranh luận đã bắt đầu giữa hai thiết k
 
 *) Bạn có thể đọc thêm thông tin chi tiết về việc sửa chữa những khiếm khuyết của thấu kính, chẳng hạn như trong “Sách giáo khoa Vật lý Tiểu học” do Viện sĩ G. S. Landsberg biên tập.
 
-Cơm. 3. Sự xuất hiện của quang sai hình cầu.
+Hình 3. Sự xuất hiện của quang sai hình cầu.
 
-Cơm. 4. Quang sai màu.
+Hình 4. Quang sai màu.
 
 ở Estonia) một kính khúc xạ có đường kính vật kính 9 inch (24 cm), và người kế nhiệm ông là Merz vào năm 1839 đã chế tạo một thấu kính 15 inch cho Đài thiên văn Pulkovo. Thấu kính lớn nhất 40 inch (104 cm) được A. Clark ở Mỹ chế tạo vào năm 1896, và kể từ đó người ta chưa bao giờ có thể tăng kích thước của kính khúc xạ.
 
@@ -84,9 +84,9 @@ Nếu vật phản xạ vượt trội hơn nhiều so với vật liệu khúc 
 
 Đối với các tấm phản xạ, do kích thước và trọng lượng khổng lồ nên chúng được lắp đơn giản hơn nhiều và chỉ có thể được sử dụng để quan sát gần kinh tuyến, quay theo cách thực tế nhất với sự trợ giúp của các khối và dây thừng; cái được quan sát phải chất thành đống ở những nơi cực kỳ bất tiện. Ngoài ra, nhược điểm của gương phản xạ là gương kim loại sẽ bị mòn do thời tiết, đòi hỏi phải đánh bóng nhiều lần.
 
-Cơm. 5. Phản xạ Hermel lớn.
+Hình 5. Phản xạ Hermel lớn.
 
-Cơm. 6. Tấm phản xạ 2,5 mét tại Muhnt Wilson Ossevatorium.
+Hình 6. Tấm phản xạ 2,5 mét tại Muhnt Wilson Ossevatorium.
 
 Do đó, các gương phản xạ không từ bỏ vị trí của chúng và được sử dụng khi cần thực hiện các phép đo góc chính xác - trong các thiết bị kinh tuyến để xác định tọa độ hình cầu của các ngôi sao, trong các phép đo vi mô, chẳng hạn như của các sao đôi, và sau đó - để chụp ảnh bầu trời đầy sao.
 
@@ -96,7 +96,7 @@ Kết quả là sự phát triển nhanh chóng của gương phản xạ bắt 
 
 ⟦folio 15⟧
 
-Cơm. 7. Gương phản chiếu dài 5 mét được lắp đặt trên Núi Palomar.
+Hình 7. Gương phản chiếu dài 5 mét được lắp đặt trên Núi Palomar.
 
 ny cụm và Dải Ngân hà. Tiếp theo là vào năm 1908 một gương phản xạ 60 inch (152 cm) trên Núi Wilson ở California. Những chiếc gương lớn như vậy, mặc dù có độ dày đáng kể (đạt $1/8$ phần đường kính), truyền tín hiệu đáng chú ý dưới tác động của trọng lượng của chính chúng ở các độ nghiêng khác nhau so với đường chân trời. Để tạo ra hiện tượng có hại này, người ta đã phát minh ra cái gọi là dỡ tải, bao gồm nhiều đòn bẩy có đối trọng đỡ phần sau của gương với một lực phụ thuộc vào độ nghiêng của gương.
 

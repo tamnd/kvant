@@ -87,11 +87,11 @@ Về bài viết “Thủy tĩnh học”
 
 ⟦folio 74⟧
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
-Cơm. 3.
+Hình 3.
 
 Tốc độ khối đầy đủ:
 $$u = \sqrt{u_1^2 + u_2^2} = v \sqrt{\frac{M}{M+m} + \frac{m^2}{(M+m)^2}}.$$

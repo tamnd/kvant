@@ -38,7 +38,7 @@ lớp 7
 
 2. Cát “lỏng” (vòng 1) Nếu một bình chứa cát bị rung (hay nói cách khác là bị rung chuyển), thì có thể quan sát thấy một hiện tượng thú vị - cát trở nên giống như chất lỏng. Các vật nặng (có mật độ cao) chìm trong cát “lỏng” này, và ngược lại, các vật nhẹ (ví dụ như gỗ), nổi lên bề mặt, ngay cả khi ban đầu chúng ở dưới đáy tàu. Điều này xảy ra vì rung lắc làm giảm lực ma sát giữa các hạt cát. Hãy xem xét kinh nghiệm. Có cát ở đáy bình hình trụ. Sỏi được đổ trên cát. Tàu bị rung và cát trở thành “lỏng”. Những viên sỏi dần chìm xuống
 
-Cơm. 1
+Hình 1
 
 ⟦column⟧
 
@@ -54,23 +54,23 @@ K VĂN T 2019/№4
 
 ⟦figure⟧
 
-Cơm. 8
+Hình 8
 
 ⟦column⟧
 
 ⟦figure⟧
 
-Cơm. 10
+Hình 10
 
 ⟦figure⟧
 
-Cơm. 9
+Hình 9
 
 một thiết bị gọi là ổn áp đã được lắp ráp, cung cấp điện áp không đổi $U_{0}$ trên tải (điện trở có điện trở R = 300 Ohms) ở các giá trị điện áp đầu vào khác nhau (giữa điểm A và B). Trong trường hợp này, điện áp $U_{AB}$ phải nằm trong một khoảng điện áp nhất định $U_{1}$ ' $U d U_{AB} d U_{1}$ ' U, nếu không thiết bị sẽ ngừng thực hiện chức năng ổn định điện áp. 1) Điện áp $U_{0}$ và điện trở của điện trở r trong mạch này là bao nhiêu? 2) Tìm điện trở của điện trở $R_{1}$ tại đó nửa chiều rộng của dải điện áp đầu vào ' U sẽ là giá trị lớn nhất có thể ở điện áp ở giữa dải $U_{1} = 6$ V. Z. Reznikov
 
 5. Động cơ Stirling (vòng 2) Trong bài toán mô hình nhiệt động lực học của động cơ Stirling, được mô tả bằng sơ đồ trong Hình 10, được xem xét. Piston 3 thực hiện chuyển động tịnh tiến chuyển động tịnh tiến thành chuyển động quay nhờ sử dụng bánh răng quay. Xi lanh làm việc 1 được làm nóng bằng đầu đốt. Trong khuôn khổ của mô hình, giả sử rằng nhiệt độ của nó được duy trì không đổi, chúng ta hãy ký hiệu là T. Bộ tản nhiệt 6 được gắn vào xi lanh dịch chuyển 2 để cải thiện khả năng truyền nhiệt; nhiệt độ trong xi lanh được coi là bằng nhiệt độ phòng $T_{0}$. Chất lỏng làm việc 4 - không khí - được bơm từ xi lanh làm việc đến xi lanh thể tích và ngược lại qua ống 5. Ta ký hiệu thể tích không khí tối đa trong xi lanh làm việc là $V_{01}$, và trong xi lanh thể tích là $V_{02}$. Thể tích của ống có thể bỏ qua. Kết quả tính toán của máy tính, người ta thu được sơ đồ về sự phụ thuộc của áp suất tương đối vào thể tích tương đối: đối với xi lanh làm việc - đường màu đỏ trong Hình 11, đối với xi lanh thể tích - đường màu xanh lam. Trong trường hợp này, chu trình của xi lanh làm việc theo chiều kim đồng hồ và đối với xi lanh dịch chuyển - ngược chiều kim đồng hồ; $V_{02} 1,25 V_{01}$. 1) Xác định trị số của tỷ số nhiệt độ T và $T_{0}$. 2) Phần tổng khối lượng không khí chứa trong xi lanh làm việc ở áp suất $3p_{0}$? 3) Xác định tỷ số công mà toàn bộ khí thực hiện trong một chu trình với công mà khí thực hiện trong xi lanh làm việc, nếu diện tích của hình được giới hạn bởi đường màu đỏ là $S_{1} = 1,5$ (đơn vị tương đối), và
 
-Cơm. 11
+Hình 11
 
 ⟦folio none⟧
 
@@ -86,21 +86,21 @@ NHIỆM VỤ
 
 ⟦figure⟧
 
-Cơm. 1
+Hình 1
 
 ⟦figure⟧
 
-Cơm. 2
+Hình 2
 
 Bình luận. Lời giải bài toán có thể trở nên rõ ràng hơn nếu thay vì lưới thông thường với các đường ngang và dọc, chúng ta xem xét đường chéo như trong Hình 3
 
 ⟦figure⟧
 
-Cơm. 3
+Hình 3
 
 ⟦figure⟧
 
-Cơm. 4
+Hình 4
 
 đường chấm chấm. Trên lưới chéo, hình của chúng ta có diện tích là 4 ô và phải cắt thành 4 hình có diện tích 1. Một hình tương tự trên lưới thông thường được thể hiện trong Hình 4, đường cắt của nó dễ nhìn hơn ở đó và sau đó có thể chuyển nó về hình ban đầu. 3. 5. Nếu Senya viết D có lỗi, thì trong số các chữ cái O, E, K, A, E, R, cũng có trong DODECA-EDR, anh ấy đã nhầm ba chữ và viết đúng ba chữ. Nhưng tất cả những chữ cái này, ngoại trừ E, cũng được bao gồm trong ICOSA-EDR, tức là ở đó anh ta sẽ viết đúng ít nhất hai chữ cái và sẽ không thể mắc lỗi $сделать^{7}$. Điều này có nghĩa là Senya viết đúng chữ D. Sau đó, anh ta chắc chắn viết sai tất cả các chữ cái khác của các từ DODECAEDR và ​​ICOSAEDR, và trong từ TETRAHEDRON, do đó, ngoài D, anh ta cũng viết đúng chữ T, nhưng lại sai ở tất cả.
 
@@ -110,7 +110,7 @@ phần còn lại. Bây giờ rõ ràng là Senya sẽ mắc năm lỗi trong t�
 
 ⟦figure⟧
 
-Cơm. 5
+Hình 5
 
 CUỘC THI ĐẶT THEO A.P. SAVINA
 

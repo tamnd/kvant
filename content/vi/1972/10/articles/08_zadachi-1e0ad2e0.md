@@ -23,7 +23,7 @@ translation_quality: draft
 
 ⟦folio 30⟧
 
-Cơm. 17.
+Hình 17.
 
 Bài toán 11. Chứng minh rằng mọi tam giác đều có thể cắt thành nhiều tam giác đồng dạng bất kỳ, bắt đầu từ hai.
 

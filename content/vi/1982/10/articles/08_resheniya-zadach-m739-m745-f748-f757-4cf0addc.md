@@ -127,7 +127,7 @@ M742. Trên a) một đường tròn, b) một hình cầu có bán kính 1 có 
 
 M743. Có N thành phố trong cả nước. a) Có sự liên lạc trực tiếp giữa hai thành phố bất kỳ bằng máy bay hoặc tàu thủy. Chứng minh rằng bằng cách chỉ sử dụng một loại phương tiện giao thông, bạn có thể đi từ bất kỳ thành phố nào đến bất kỳ thành phố nào khác (có thể bằng chuyển tuyến). b) Có sự liên lạc trực tiếp giữa hai thành phố bất kỳ bằng máy bay, tàu hỏa hoặc tàu thủy. Chứng minh rằng bạn có thể chọn ít nhất N/2 thành phố và một trong ba phương thức vận tải để khi sử dụng một trong số chúng, bạn có thể đi từ bất kỳ thành phố nào đã chọn đến bất kỳ thành phố nào đã chọn khác. c) Cho ví dụ chứng minh trong câu b) không thể thay số N/2 bằng số có tính tổng quát hơn.
 
-Cơm. 1.
+Hình 1.
 
 a), b) Gọi $O$ là tâm của một đường tròn (hình cầu) nhất định, $X_1, X_2, \dots, X_n$ là các điểm đã cho, $\vec{x}_i = \vec{O}X_i$ ($i=1, 2, \dots, n$), $s$ là tổng bình phương của khoảng cách theo cặp giữa các điểm. Sau đó, kể từ $|X_iX_j|^2 = (\vec{x}_j - \vec{x}_i)^2$,
 
@@ -175,9 +175,9 @@ L. Kurlyandchik
 
 **M744***. Một tam giác đồng dạng $A_1B_1C_1$ nội tiếp thành tam giác $ABC$ (các đỉnh $\hat{A}_1, \hat{B}_1, \hat{C}_1$ của các phần có kích thước bằng $\hat{A}, \hat{B}, \hat{C}$ lần lượt nằm trên các đoạn BC, CA và AB). Gọi $A_0, B_0, C_0$ là giao điểm của các đường $BB_1$ và $CC_1, AA_1$ và $CC_1, BB_1$ và $AA_1$. Chứng minh rằng sáu đường tròn ngoại tiếp tam giác $ABC_0, BCA_0, ACB_0, A_1B_1C_0, A_1C_1B_0, B_1C_1A_0$ cắt nhau tại một điểm.
 
-**Cơm. 1.**
+**Hình 1.**
 
-**Cơm. 2.**
+**Hình 2.**
 
 lời giải bài toán tự nhiên lớn nhất dựa trên thực tế là tất cả 6 vòng tròn đang được xem xét đều đi qua điểm cố định của phép biến đổi độ tương tự biến $\Delta ABC$ thành $\Delta A_1B_1C_1$ tương tự của nó. Điều quan trọng đối với chúng tôi là chỉ có một sự chuyển đổi như vậy. (Thật vậy, giả sử có hai phép biến đổi tương tự, $\Pi$ và $\Pi_1$, lấy $\Delta ABC$ thành $\Delta A_1B_1C_1$. Sau đó, phép biến đổi tương tự $F=\Pi^{-1}\circ \Pi$ giữ nguyên các điểm $A$, $B$ và $C$ (ví dụ: $F(A)=\Pi^{-1}(\Pi(A))=\Pi^{-1}(A_1)=A$). Do đó, nó suy ra rằng $F$ là giao điểm và hơn nữa là một phép biến đổi đồng nhất. Do đó, phép biến đổi $\Pi^{-1}$ là nghịch đảo của $\Pi$, tức là $\Pi=\Pi_1$.
 
@@ -194,7 +194,7 @@ $$|d_1s_1 + d_2s_2 + \dots + d_ns_n| \leq 1.$$
 6) Cho một chuỗi gồm ba số ($a_n, b_n, c_n$) sao cho $|a_n| \leq 1, |b_n| \leq 1, |c_n| \leq 1$ và $a_n + b_n + c_n = 0$ ($n=1, 2, \dots$). Dựa vào đó, một chuỗi mới gồm ba ($x_n, y_n, z_n$) được xây dựng, trong đó $x_0 = y_0 = z_0 = 0$ và mỗi bộ ba ($x_n, y_n, z_n$) tại $n \geq 1$ được lấy từ bộ ba ($x_{n-1}, y_{n-1}, z_{n-1}$) trước đó bằng cách thêm vào $x_{n-1}$ một trong các số $a_n, b_n, c_n$ mà chúng tôi chọn, cho $y_{n-1}$ - một số khác, cho $z_{n-1}$ - một phần ba. Có phải luôn luôn có thể đảm bảo rằng tất cả các số $x_n, y_n, z_n$ không lớn hơn 1 về giá trị tuyệt đối hoặc ít nhất bị giới hạn bởi một số nội dung?
 c) Tìm các câu hỏi tương tự về dãy bốn số.
 
-Cơm. 1.
+Hình 1.
 
 Một bằng chứng tương tự được đưa ra là $B_1 = \Pi(B)$. Cuối cùng, hãy để $C' = \Pi(C)$. Như trên, từ sự giống nhau của các tam giác $A_1B_1C' = \Pi(\triangle ABC)$, $ABC$ và $A_1B_1C_1$ suy ra các điểm $C_1$ và $C'$ trùng nhau hoặc đối xứng với ($A_1B_1$). Nhưng các điểm $C$ và $O$ nằm cùng một phía của $(AB)$, nên ảnh $C'$ và $O$ của chúng phải nằm cùng một phía của $(A_1B_1)$, và do đó, $\Pi(C) = C_1^*$).
 
@@ -241,7 +241,7 @@ N. Vasiliev
 
 F748. Một khối lập phương nhỏ trượt dọc theo một thanh sắt xoắn ốc có hình chữ nhật, được cắt trên bề mặt bên trong của một hình trụ rỗng dài vô tận (Hình 1). Bán kính đáy của hình trụ là R, trục vít là h và hệ số ma sát trượt là μ. Tìm tốc độ ổn định của khối lập phương. (Kích thước của khối lập phương và độ sâu của bàn ủi nhỏ hơn R rất nhiều.)
 
-Cơm. 1.
+Hình 1.
 
 Đối với lời giải bài toán, việc “mở” hình trụ là thuận tiện. Quỹ đạo của khối khi quét là thẳng, nghiêng một góc α so với đường chân trời (Hình 2).
 
@@ -311,9 +311,9 @@ Hãy kết nối một điện trở song song với phần tử. Để điện 
 
 F751. Một vòng mỏng có bán kính $R$ được đặt trên một hình trụ rất thô có bán kính $r$, nằm ngang (Hình 1). Tìm chu kỳ dao động của vòng trong mặt phẳng thẳng đứng.
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
 Để cái vòng lệch khỏi vị trí cân bằng sao cho vectơ bán kính của điểm $A$—điểm mà cái vòng chạm vào hình trụ ở vị trí cân bằng (Hình 2)—tạo một góc nhỏ $\varphi_0$ với phương thẳng đứng. Năng lượng mà vòng có được tại thời điểm lệch tối đa bằng
 $$E_0 = Mg(R - r)(1 - \cos \varphi_0)$$
@@ -372,9 +372,9 @@ F753. Hình 1 thể hiện sự phụ thuộc của điện áp nguồn vào dò
 
 erzik. Tìm công suất cực đại có thể thu được từ hiệu điện thế. Điện áp ở điện trở nào? Tại sao một nguồn năng lượng như vậy lại có thể xuất hiện và làm thế nào sự phụ thuộc đó $U(I)$ có thể được triển khai trên thực tế?
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2
+Hình 2
 
 EMF và điện trở trong, chỉ “hoạt động” trong phạm vi giá trị nhất định $U$ và $I$. Từ đồ thị ta xác định:
 

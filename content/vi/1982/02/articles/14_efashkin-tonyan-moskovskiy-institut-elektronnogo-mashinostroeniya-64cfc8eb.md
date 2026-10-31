@@ -79,4 +79,4 @@ Bài toán thi vấn đáp
 
 5. Các tụ điện ba điểm có công suất $C_0=1$ µF, mỗi tụ được mắc nối tiếp. Các tụ điện được sạc và ngắt kết nối khỏi nguồn. Điện tích của pin này là $Q_0=10^{-4}$ Cl. Sau đó, không gian giữa các bản của một trong các tụ điện được phân cực hoàn toàn bởi di-
 
-Cơm. 1. Hình 2.
+Hình 1. Hình 2.

@@ -123,7 +123,7 @@ Chúng ta hãy quay trở lại với bất đẳng thức ban đầu được g
 Ví dụ 3. Giải bất đẳng thức
 $|x-1| + |x-2| > 3+x$.
 
-Cơm. 1.
+Hình 1.
 
 ⟦folio 50⟧
 

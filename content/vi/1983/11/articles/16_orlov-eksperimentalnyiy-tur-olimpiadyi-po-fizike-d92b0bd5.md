@@ -41,9 +41,9 @@ Nhiệm vụ 1
 2) Tính hệ số ma sát giữa vật và thành ống với nước.
 3) Giả sử lực cản khi vật chuyển động trong chất lỏng tỉ lệ thuận với
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
 tốc độ: $F_c = \alpha v$, xác định hệ số tỉ lệ $\alpha$.
 
@@ -133,7 +133,7 @@ $$\frac{V}{V_0} = \frac{T}{T_0} \Rightarrow \Delta T = \frac{\Delta V}{V_0} T_0.
 
 Không thể sử dụng công thức nhiệt độ hiện tại xung quanh $W = U^2 t/R$ vì không biết giá trị điện trở.
 
-Cơm. 4.
+Hình 4.
 
 ⟦folio 54⟧
 

@@ -193,7 +193,7 @@ Trước hết, Huygens nhận thấy rằng khi toàn bộ sợi của ma trậ
 
 ⟦folio 27⟧
 
-Cơm. 11.
+Hình 11.
 
 Tính độ dài các đường cong Các nhà toán học cũng không kém phần quan tâm đến việc tính diện tích. Lúc đầu, bằng cách tương tự với hình vuông (xem trang 21), họ quan tâm đến phép chỉnh lưu - cấu tạo của một la bàn và một đoạn tuyến tính có chiều dài tương ứng; sau đó họ bắt đầu quan tâm đến phép chỉnh lưu đại số - biểu thức độ dài của đường cong bằng cách sử dụng bất kỳ phép toán đại số nào. Chúng ta đã nói rằng các hình vuông không phải hình tròn kết thúc ở điểm dưới cùng của hình tròn sẽ mất cùng thời gian (tương tự đối với các hợp âm bắt đầu ở điểm trên cùng của hình tròn).
 

@@ -28,19 +28,19 @@ Lời giải bài toán
 
 M881. Chứng minh rằng tổng khoảng cách từ một điểm tùy ý trong mặt phẳng đến ba đỉnh của một hình thang cân lớn hơn khoảng cách từ điểm này đến bốn đỉnh.
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
 M882. Tổng của ba số nguyên a, b và c bằng 0. Chứng minh rằng số $2a^4 + 2b^4 + 2c^4$ là bình phương của một số nguyên.
 
 M883. Số màu nhỏ nhất phải được sử dụng để tô màu các ô của một tờ giấy ca rô vô hạn là bao nhiêu để a) hai ô bất kỳ ở khoảng cách b được tô bằng các màu khác nhau? (Khoảng cách giữa các ô vuông là số lượng nhỏ nhất các đường lưới, ngang và dọc, mà một quân xe phải đi qua trên đường từ ô này sang ô khác.) b) Có bốn ô vuông bất kỳ tạo thành hình chữ Γ (Hình 1) được phủ bốn màu khác nhau không?
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
-Cơm. 3.
+Hình 3.
 
 Với mục đích định nghĩa, giả sử $MA$ là khoảng cách lớn nhất từ ​​điểm $M$ đến các đỉnh của hình thang cân $ABCD$ (Hình 1). Theo bất đẳng thức tam giác $MA \leq AC + MC$ và $BD \leq MB + MD$, và với bất kỳ điểm $M$ nào của mặt phẳng thì ít nhất một trong các bất đẳng thức này đúng. Cộng các bất đẳng thức và biết rằng $AC = BD$, chúng ta nhận được $MA \leq MB + MC + MD$.
 
@@ -78,7 +78,7 @@ Thể tích $V_a=(2,87 \cdot 10^{-10})^3 \text{ m}^3 \approx 23,64 \cdot 10^{-30
 
 Khối lượng của một nguyên tử sắt
 
-Cơm. 1. Hình 2.
+Hình 1. Hình 2.
 
 ⟦folio 38⟧
 
@@ -96,9 +96,9 @@ I. M. Nizamov
 
 F892. Một tia sáng truyền dọc theo bán kính rơi vào một quả cầu thủy tinh có bán kính R. Ở khoảng cách r tính từ tâm quả bóng, ánh sáng bị phân tán đều theo mọi hướng trên một bong bóng khí nhỏ hình thành trong quá trình chế tạo quả bóng. Xác định sự phụ thuộc của phần ánh sáng phát ra từ quả bóng vào r. Xếp chồng chỉ số khúc xạ n. Bỏ qua sự mất mát ánh sáng trong thủy tinh.
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
 Do sự tán xạ của bong bóng, chùm tia lệch một góc β so với hướng ban đầu và rơi trên bề mặt phân cách thủy tinh-không khí một góc α (Hình 1). Nếu nó thành $\sin \alpha > \frac{1}{n}$, thì phản xạ nội toàn phần sẽ xảy ra ở biên. Lần thứ hai chùm tia lại rơi vào ranh giới thủy tinh-không khí một góc α, sự phản xạ toàn phần sẽ lại xảy ra, v.v. Như vậy, chùm tia đã phản xạ toàn phần tại ranh giới thủy tinh-không khí sau khi tán xạ sẽ không rời khỏi quả bóng. Chúng ta hãy tìm giá trị nào của góc lệch β điều này xảy ra.
 

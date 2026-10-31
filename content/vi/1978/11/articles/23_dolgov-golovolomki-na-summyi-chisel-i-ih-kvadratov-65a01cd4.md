@@ -25,7 +25,7 @@ translation_quality: draft
 
 ⟦folio 51⟧
 
-Cơm. 9.
+Hình 9.
 thối chúng tôi nhận được:
 $$|\vec{v}| = \sqrt{2|\vec{g}|H \left(1 - \frac{\mu_2 \text{ctg} \alpha}{2}\right)} \approx 14 \text{ m/c.}$$
 

@@ -48,15 +48,15 @@ KVA NT 2021/№1
 
 ⟦figure⟧
 
-Cơm. 3
+Hình 3
 
 và BD hoặc trên AD và BC thì tổng độ dài các đoạn sẽ tăng lên, điều này không thể xảy ra. Do đó, trong cấu hình có tổng lớn nhất, hai đoạn bất kỳ sẽ giao nhau. Hãy để chúng tôi chỉ ra rằng sau đó tất cả các phân đoạn giao nhau. Để làm điều này, chúng ta chứng minh bổ đề sau. Bổ đề 3. Một đường thẳng có nhiều đoạn, hai đoạn bất kỳ cắt nhau. Khi đó tất cả các phân đoạn đều có một điểm chung. Tuyên bố này không hiển nhiên như vẻ ngoài của nó - trong những tình huống khác tương tự như thế này, một tuyên bố tương tự có thể không đúng. Một ví dụ về tình huống như vậy được đưa ra trong Bài tập 2. Chứng minh Bổ đề 3. Xét phần giữa - khoảng cách giữa các điểm có số n và n 1 (các điểm vẫn được đánh số theo thứ tự từ 1 đến 2n). Hãy để chúng tôi chỉ ra rằng nó được chứa trong tất cả các phân khúc. Chúng ta hãy xem đầu bên trái và bên phải của các đoạn được đặt như thế nào. Nếu ở bên trái của phần giữa không phải tất cả các đầu đều ở bên trái (Hình 4), thì ở bên trái có đầu bên phải của một số đoạn và ở bên phải có đầu bên trái của một số đoạn. Khi đó hai đoạn này không giao nhau. Điều này có nghĩa là ở bên trái tất cả các đầu đều ở bên trái và ở bên phải tất cả các đầu đều ở bên phải (Hình 5). Do đó, tất cả các đoạn đều chứa điểm giữa và Bổ đề 3 được chứng minh và do đó Bổ đề 2 được chứng minh.
 
 ⟦figure⟧
 
-Cơm. 4
+Hình 4
 
-Cơm. 5
+Hình 5
 
 Bài tập
 
@@ -68,11 +68,11 @@ Tiếp tục chứng minh Bổ đề 2. Phương pháp thứ hai. Hãy xem xét 
 
 ⟦figure⟧
 
-Cơm. 6
+Hình 6
 
 ⟦figure⟧
 
-Cơm. 7
+Hình 7
 
 Tương tự, xem xét các đầu bên phải, chúng ta có thể nói rằng khoảng này được bao gồm không quá n k đoạn. (Ví dụ: trong Hình 7, số lượng phân đoạn lớn nhất mà mỗi khoảng có thể bao gồm cho n 5 là bao nhiêu.) Tổng hợp các ước tính về số lần mỗi phân đoạn đơn lẻ này có thể được đếm, chúng ta nhận được 1 2 ... n 1 n n n 1 ... $2 1 n^{2}$.
 
@@ -108,14 +108,14 @@ liệu cô ấy có thể đi trên con đường đó không? (Chúng tôi tin 
 
 ⟦figure⟧
 
-Cơm. 8
+Hình 8
 
 Ki của hàng này được chia thành các cặp để thực hiện bước nhảy. Theo Bổ đề 2, tổng độ dài của các bước nhảy như vậy không phải là $превышает^{4} 2 16$. Tổng cộng có 16 hàng (8 hàng và 8 cột), độ dài của các bước nhảy trong mỗi hàng không quá 16, nghĩa là tổng chiều dài của các bước nhảy không quá 16 16 256. Vẫn còn phải đưa ra một ví dụ. Trong ví dụ này, tổng độ dài tối đa phải đạt được trong mỗi hàng và để làm được điều này, mỗi lần nhảy phải đi qua giữa hàng tương ứng, tức là qua một trong các đường giữa của bảng (Hình 9). Đây là một sự cân nhắc
 
 ⟦figure⟧
 
-Cơm. 9
+Hình 9
 
 Suy nghĩ giúp bạn tìm ra cách đưa ra một ví dụ. Trong mỗi ô, chúng ta viết số của nó theo thứ tự quân xe di chuyển quanh bảng. Trước tiên, bạn có thể điền vào các dòng $1 и^{5}$ (Hình 10), sau đó bạn điền theo cách tương tự.
 
-Cơm. 10
+Hình 10

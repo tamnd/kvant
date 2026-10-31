@@ -141,9 +141,9 @@ Câu hỏi cấp độ đầu tiên
 
 2. Rõ ràng những câu hỏi này được hỏi liên tiếp - đầu tiên là a), sau đó là b). Hãy nhớ định lý Vieta: $x_1 x_2 = q$, người nộp đơn thường trả lời câu hỏi a) ở dạng khẳng định mà không cần suy nghĩ. Đáp số sai, điều này được chứng minh bằng nguyên lý đơn giản
 
-Cơm. 1.
-Cơm. 2.
-Cơm. 3.
+Hình 1.
+Hình 2.
+Hình 3.
 
 ⟦folio 48⟧
 
@@ -167,9 +167,9 @@ $$0,999 < \sqrt{7}0,999 < 1.$$
 
 11*. Let $O$ be the point of intersection of the diagonals, and $E$ and $F$ be the points of intersection of $BD$ with $AM$ and $AN$, respectively (Fig. 8). Dễ dàng nhận thấy $E$ là giao điểm các đường trung tuyến của tam giác $ABC$ nên $BE = \frac{2}{3}BO$ và $EO = \frac{1}{3}BO$. Tương tự như $FD = \frac{2}{3}OD$ và $OF = \frac{1}{3}OD$. Nhưng vì $BO = OD$, rồi $BE = FD$ và $EF = EO + OF = \frac{2}{3}BO$, $EF = BE = FD$.
 
-Cơm. 7.
-Cơm. 8.
-Cơm. 9.
+Hình 7.
+Hình 8.
+Hình 9.
 
 ⟦folio 49⟧
 
@@ -185,7 +185,7 @@ Nhưng sau đó từ đẳng thức hiển nhiên $AA_1^2 = BB_1^2$ nó dẫn đ
 
 ![Рис. 10. Рис. 11.](image)
 
-Cơm. 10. Hình 11.
+Hình 10. Hình 11.
 
 tồn tại một đường thẳng cắt cả ba cạnh của tam giác $A_1B_1C_1$. Một ví dụ đơn giản về tam giác vuông cho thấy trung điểm của các đường cao nằm trên cùng một đường thẳng.
 

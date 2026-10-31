@@ -40,8 +40,8 @@ Trên bản đồ địa lý, địa hình thường được thể hiện bằn
 
 **) Harold Marston Morse (1892-1977) là một nhà toán học xuất sắc người Mỹ, người đã tạo ra một lý thuyết mà sau này được gọi là lý thuyết và đại diện cho một trong những phần quan trọng của cấu trúc liên kết hiện đại.
 
-Cơm. 1.
-Cơm. 2. Ví dụ về bề mặt.
+Hình 1.
+Hình 2. Ví dụ về bề mặt.
 
 ⟦folio 11⟧
 
@@ -96,9 +96,9 @@ Cách dễ nhất là thỏa mãn các điều kiện a) - đối với điều 
 
 Hãy đào tất cả các lưu vực xuống độ sâu của Marshan Vladina - chúng ta sẽ cần điều này để đảm bảo điều kiện 6 sau này). Thật không dễ dàng để thực hiện những điều kiện này - nếu người ta cố gắng "đổ đầy" nồi hơi
 
-Cơm. 8.
+Hình 8.
 
-Cơm. 9. Nâng điểm yên lên: phần màu xanh của bề mặt (chúng tôi coi là cứng) hơi uốn cong lên trên và phần màu hồng (bạn có thể tưởng tượng nó được làm bằng một màng cao su mỏng) hơi kéo dài ra khỏi ranh giới cố định bên ngoài.
+Hình 9. Nâng điểm yên lên: phần màu xanh của bề mặt (chúng tôi coi là cứng) hơi uốn cong lên trên và phần màu hồng (bạn có thể tưởng tượng nó được làm bằng một màng cao su mỏng) hơi kéo dài ra khỏi ranh giới cố định bên ngoài.
 
 Bây giờ, bạn có thể vấp phải một tấm vé. Tuy nhiên, có một lối thoát đơn giản: “làm cạn biển”. Cụ thể, chúng ta có thể giả định rằng dưới nước, bờ đảo chìm theo hình tròn đến độ sâu vượt quá độ sâu của Marshan Vladina. Sau đó bạn chỉ cần “khô” đều đến độ sâu này.
 

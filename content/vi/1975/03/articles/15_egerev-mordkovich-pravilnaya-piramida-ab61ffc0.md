@@ -185,7 +185,7 @@ $$= \frac{\sqrt{2}\,a\sin\dfrac{\pi}{n}}{4\sin\dfrac{\gamma}{2}\sqrt{\cos\gamma 
 
 ⟦folio 65⟧
 
-Cơm. 2. Hình 3.
+Hình 2. Hình 3.
 
 Công thức
 

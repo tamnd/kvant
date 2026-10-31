@@ -34,7 +34,7 @@ Hãy dựng một tam giác ABC tùy ý và vẽ các đường cao và đườn
 
 Để chứng minh tất cả điều này, hãy xem xét một tứ giác tùy ý có các đường chéo vuông góc. Trong Hình 2, bạn thấy tứ giác ABCD trong cống, nhưng nói chung, nó có thể không lồi và thậm chí tự giao nhau. Hãy xem xét phần giữa
 
-Cơm. 1.
+Hình 1.
 
 Các độ cao (điểm D, E, F) và đáy của các đường trung tuyến (điểm K, P, G) được tô màu đỏ. Hóa ra tất cả những điểm này đều nằm trên cùng một đường tròn. Nó thường được gọi là vòng tròn Euler. Ngoài sáu điểm đã nêu, các cạnh giữa X, Y, Z, U nằm trên cùng một đường tròn. Dễ dàng nhận thấy chúng là các đỉnh của hình chữ nhật (chứng minh điều này). Do đó, chúng nằm trên cùng một đường tròn và XX và YU là đường kính của chúng. Từ những điểm này chúng ta thả các đường vuông góc XV, YW, ZT và US tới các cạnh đối diện của tứ giác hoặc phần kéo dài của chúng. Rõ ràng các điểm V, T, W và S nằm trên cùng một đường tròn: số thực, ví dụ các góc XVZ và XTZ là các góc vuông.
 
@@ -44,6 +44,6 @@ Dễ dàng nhận thấy rằng bán kính của đường tròn Euler bằng m�
 
 V. Berezin
 
-Cơm. 2.
+Hình 2.
 
 Các độ cao (điểm D, E, F) và đáy của các đường trung tuyến (điểm K, P, G) được tô màu đỏ. Hóa ra tất cả những điểm này đều nằm trên cùng một đường tròn. Nó thường được gọi là vòng tròn Euler. Ngoài sáu điểm đã nêu, các cạnh giữa X, Y, Z, U nằm trên cùng một đường tròn. Dễ dàng nhận thấy chúng là các đỉnh của hình chữ nhật (chứng minh điều này). Do đó, chúng nằm trên cùng một đường tròn và XX và YU là đường kính của chúng. Chúng ta thả từ các điểm này vuông góc XV, YW, ZT và US xuống các cạnh đối diện của tứ giác hoặc các cạnh của chúng.

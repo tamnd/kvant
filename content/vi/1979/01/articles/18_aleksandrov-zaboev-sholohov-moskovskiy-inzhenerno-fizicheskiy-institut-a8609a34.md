@@ -48,9 +48,9 @@ $$|AB|=|AC|=a, \quad ABC=\varphi.$$ Đường thẳng (AS) tạo một góc có 
 3. Giải hệ phương trình
 $$\begin{cases} \log \frac{1}{3}(x+y) + \log_3(x-y) = 2, \\ 2^{y^2} = 512^{x+1}. \end{cases}$$
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
 ⟦folio 54⟧
 
@@ -74,7 +74,7 @@ Hiệu suất của máy nhiệt và làm lạnh
 
 (Kết thúc. Xem phần đầu ở trang 50)
 
-Cơm. 4.
+Hình 4.
 
 Bài tập
 
@@ -82,6 +82,6 @@ Bài tập
 
 2. Giải bài toán trước đó cho chu trình như trong Hình 4.
 
-Cơm. 5.
+Hình 5.
 
 3. Chi phí để làm 1 kg đá trong tủ lạnh gia đình là bao nhiêu, giả sử nó hoạt động theo chu trình lý tưởng? Nhiệt độ phòng là $23^{\circ}C$, nhiệt độ freon là $-10^{\circ}C$, 1 kWh điện tốn 4 kopecks.

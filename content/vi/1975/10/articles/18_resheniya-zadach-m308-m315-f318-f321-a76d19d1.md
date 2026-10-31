@@ -119,7 +119,7 @@ F. G. Shleifer
 
 **M311.** *) Từ một vi khuẩn, 1000 vi khuẩn thu được theo cách sau: đầu tiên vi khuẩn được chia thành hai, sau đó một trong hai vi khuẩn thu được được chia thành hai, sau đó một trong ba vi khuẩn thu được được chia thành hai, v.v. Chúng ta hãy chứng minh rằng tại một số thời điểm đã tồn tại một loại vi khuẩn như vậy, số lượng con của chúng trong môi trường của 1000 vi khuẩn, kết quả cuối cùng là từ 334 đến 667.
 
-Cơm. 1.
+Hình 1.
 
 **M312.** Trong hình bình hành $P_1$ có hình bình hành $P_2$, trong đó lần lượt có hình bình hành $P_3$, các cạnh $P_3$ song song với các cạnh $P_1$. Hãy chứng minh rằng ít nhất một cạnh của hình bình hành $P_3$ không nhỏ hơn một nửa độ dài cạnh $P_1$ song song với nó.
 
@@ -219,9 +219,9 @@ $$r_1 = (x + y) + a, \quad r_2 = (x + y) - a.$$
 
 M315. *) Trên mỗi cạnh của một đa giác lồi, một mũi tên được đặt sao cho có ít nhất một mũi tên đi vào và rời khỏi mỗi đỉnh của đa hữu cơ. Chúng ta hãy chứng minh rằng có ít nhất hai mặt của một khối đa hữu cơ, mỗi mặt có thể đi vòng quanh chu vi, di chuyển theo hướng mũi tên trên các cạnh của nó.
 
-Cơm. 4.
+Hình 4.
 
-Cơm. 5.
+Hình 5.
 
 F318. Tại mức $C_1$ thì điện dung của hệ tụ điện trên Hình 6 bằng: a) $C$; b) $kC$ ($k \neq 1$); c) $C_1$?
 
@@ -287,7 +287,7 @@ $$\Gamma = \frac{H}{h} = \frac{3F-x}{2F-x} = 2.$$
 **F321.** *Cát mịn được đổ lên màng ngang. Màng dao động với tần số $\nu = 500$ Hz trong mặt phẳng thẳng đứng. Biên độ dao động của màng là bao nhiêu nếu các hạt cát nhảy lên độ cao $h = 3$ mm so với vị trí cân bằng của màng?*
 
 ⟦figure⟧
-Cơm. 8.
+Hình 8.
 
 ⟦column⟧
 

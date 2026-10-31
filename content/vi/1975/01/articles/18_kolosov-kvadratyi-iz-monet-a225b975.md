@@ -30,10 +30,10 @@ translation_quality: draft
 Cần phải loại bỏ số lượng đồng xu tối thiểu là bao nhiêu để không còn lại một hình vuông nào có đỉnh ở tâm các đồng xu?
 
 ⟦figure⟧
-Cơm. 1.
+Hình 1.
 
 ⟦figure⟧
-Cơm. 2.
+Hình 2.
 
 **2.** Tương tự bài toán, nếu có 16 đồng xu và chúng nằm ở vị trí như trong Hình 2.
 

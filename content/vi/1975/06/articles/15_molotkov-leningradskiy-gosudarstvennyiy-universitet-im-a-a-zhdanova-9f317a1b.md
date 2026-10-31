@@ -261,7 +261,7 @@ Mặc dù bài toán này có độ khó trung bình nhưng rất ít thí sinh 
 ⟦folio 48⟧
 
 ⟦figure⟧
-Cơm. 1.
+Hình 1.
 
 ⟦folio 49⟧
 

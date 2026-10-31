@@ -44,11 +44,11 @@ Bây giờ hãy thử làm thẳng các đường viền a - e như trong Hình 
 
 Tôi sẽ thấy rằng người đọc có thể làm thẳng các đường nét b, d, f. Sự vô ích của những nỗ lực làm thẳng các đường viền a, c, f thuyết phục chúng ta về sự tồn tại của các đường viền không thẳng. Nhưng như bằng chứng
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
-Cơm. 3
+Hình 3
 
 ⟦folio 23⟧
 
@@ -80,7 +80,7 @@ Khi đó V bất biến bằng tổng modulo của các số đã cho.
 
 ⟦folio 25⟧
 
-Cơm. 7.
+Hình 7.
 
 Ví dụ gần điểm 1 và 2 trong Hình 6 bạn nên đặt +1, gần điểm 3, 4, 5 bạn nên đặt (-1). Do đó, đối với đường viền trong Hình 6, V bất biến bằng 1. Hãy tự chứng minh rằng phương pháp được chỉ định thực sự cho phép bạn tính V cho bất kỳ đường viền nào.
 

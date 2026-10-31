@@ -85,7 +85,7 @@ Năm 1636, bài tiểu luận “Giới thiệu về nghiên cứu mặt phẳng
 *) «Kvant», 1975, số 12, tr. 30 và trong số này - c. 17.
 **) Dưới “những nơi bằng phẳng” Fermat, theo người xưa, hiểu đường thẳng và đường tròn, dưới “những nơi không gian” - một phần hữu hạn.
 
-Cơm. 1.
+Hình 1.
 
 một tập hợp các điểm trong không gian (bề mặt). Fermat bắt đầu phần “Giới thiệu” của mình bằng cách chọn hai đường thẳng làm trục tọa độ, chúng cắt nhau ở một góc cụ thể nào đó (không nhất thiết phải là góc vuông).
 
@@ -111,11 +111,11 @@ Tìm cực đoan. Xác định tiếp tuyến
 
 Ông thừa nhận rằng năm 1629 Ferma đã khám phá ra các phương pháp tìm cực trị và tiếp tuyến, mà theo quan điểm hiện đại là tìm ra một phương pháp tùy ý. Vào cuối năm 1636, bản trình bày hoàn chỉnh về phương pháp này đã được chuyển giao cho Mersenne và họ có thể học hỏi từ ông.
 
-Cơm. 2.
+Hình 2.
 
-Cơm. 3.
+Hình 3.
 
-Cơm. 4.
+Hình 4.
 
 ⟦folio 7⟧
 

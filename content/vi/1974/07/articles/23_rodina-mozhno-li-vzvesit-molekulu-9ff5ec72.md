@@ -50,7 +50,7 @@ Các giọt nhựa có hình dạng quả bóng, đường kính của chúng đ
 
 ⟦folio 70⟧
 
-Cơm. 1.
+Hình 1.
 
 các phân tử có độ lớn cỡ $10^{-8}$ cm).
 

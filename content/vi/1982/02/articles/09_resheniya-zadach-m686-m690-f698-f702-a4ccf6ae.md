@@ -80,7 +80,7 @@ M690. a) Bên trong một đa giác lồi có diện tích $S_1$ và chu vi $P_1
 $$2\frac{S_1}{P_1} > \frac{S_2}{P_2}.$$
 6) Lập và chứng minh mệnh đề tương tự cho đa giác lồi.
 
-Cơm. 1.
+Hình 1.
 
 a) Trước tiên chúng ta hãy lưu ý rằng đối với các hình tam giác, một phát biểu mạnh hơn là đúng: $\frac{S_1}{P_1} > \frac{S_2}{P_2}$. Điều này gần như hiển nhiên, vì $\frac{2S_1}{P_1}$ và $\frac{2S_2}{P_2}$ là bán kính của các đường tròn nội tiếp trong các hình tam giác này.
 
@@ -122,9 +122,9 @@ Quá trình phân phối lại nhiệt độ kết thúc bằng việc cân bằ
 
 $$t_y \cdot 90 = 2(200 \cdot 30) + 100 \cdot 30.$$
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
 Từ đây là
 

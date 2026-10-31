@@ -50,7 +50,7 @@ Câu hỏi 2: tại sao xác suất cháy dây tóc lại quay trở lại vào 
 
 Đôi khi dây tóc bị cháy khi bật và kèm theo đèn flash trong chu trình. Trong trường hợp này, một trong những đầu vào của bộ phận bị hư hỏng sẽ cháy và kim loại bay hơi đọng lại trên kính của bình. Bình có thể bị ngắt khỏi chu trình và bị treo.
 
-Cơm. 1. Mặt cắt của đèn sợi đốt.
+Hình 1. Mặt cắt của đèn sợi đốt.
 
 ⟦folio 27⟧
 
@@ -80,7 +80,7 @@ Như vậy, sự phụ thuộc của điện trở ren vào nhiệt độ dẫn 
 
 Ví dụ, đèn trong rạp hát, có thể phát sáng êm ái, không bị đe dọa bởi sự phá hủy như vậy. Và đèn nhấp nháy, bật một phần phải có dây tóc đặc biệt đồng đều hoặc hoạt động khi quá nhiệt. Điều tương tự cũng áp dụng, ví dụ, đối với đèn tín hiệu giao thông.
 
-Cơm. 5. Các giai đoạn liên tiếp của việc phá hủy và chèn chỉ.
+Hình 5. Các giai đoạn liên tiếp của việc phá hủy và chèn chỉ.
 
 Đáp số cho câu hỏi 3. Chúng ta đã tìm ra nguyên nhân dây tóc cháy khi bật đèn. Tại sao đầu vào có thể bị phá hủy? Rõ ràng là dòng điện phá hủy đầu vào không chạy qua dây tóc, vì phần chính của dây tóc (có dòng điện nóng chảy tương đối nhỏ) đã được bảo toàn. Cũng rõ ràng rằng dòng điện này chạy bên trong đèn, vì sự phá hủy đầu vào là sự ràng buộc của dây tóc.
 
@@ -92,7 +92,7 @@ Hóa ra nguyên nhân của mọi chuyện là do sự phóng điện hồ quang
 
 ⟦folio 30⟧
 
-Cơm. 6. Các giai đoạn liên tiếp của việc tuốt một đoạn chỉ lớn.
+Hình 6. Các giai đoạn liên tiếp của việc tuốt một đoạn chỉ lớn.
 
 khuyên không nên đứng dưới đèn khi đèn đang bật.
 
@@ -106,4 +106,4 @@ Bây giờ chúng ta hãy nói về trường hợp hai mươi ngọn đèn mắ
 
 Tại sao tất cả các đèn đều cháy cùng một lúc? Lý do cho điều này là như sau. Việc phá hủy một phần dây tóc yếu ở một trong các đèn dẫn đến đánh lửa hồ quang điện giữa các đầu vào (Hình 7, b). Điện trở của khe hở nhỏ hơn đáng kể so với điện trở của dây tóc ở chế độ hoạt động, do đó điện áp trên các đèn còn lại đã tăng lên. Điều này làm tăng tốc độ chết của đèn tiếp theo: đánh lửa hồ quang trong đó (Hình 7, c). Điện áp trên các đèn tăng cao hơn nữa, và dùi cui hủy diệt được truyền từ đèn này sang đèn khác cho đến khi không còn điểm yếu nào trong mạch điện. Vì vậy, sự cháy của một ngọn đèn yếu đã gây ra sự phá hủy những ngọn đèn khác. Tất nhiên, những trường hợp như vậy rất hiếm, nhưng hoàn toàn có thể xảy ra.
 
-Cơm. 7. Dây không thể bị đứt ở nhiều nơi cùng một lúc và các đèn mắc nối tiếp có thể bị cháy cùng một lúc.
+Hình 7. Dây không thể bị đứt ở nhiều nơi cùng một lúc và các đèn mắc nối tiếp có thể bị cháy cùng một lúc.

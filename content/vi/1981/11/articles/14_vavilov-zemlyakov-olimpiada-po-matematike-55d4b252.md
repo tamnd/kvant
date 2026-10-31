@@ -169,13 +169,13 @@ lớp 8
 
 Chúng ta biểu thị bằng $S_{чч}$ diện tích giao điểm của các ô k đen của bảng trên cùng với các ô đen và các ô của bảng dưới cùng, và bằng $S_{чб}$ diện tích giao nhau của các ô k đen của bảng trên cùng với các ô trắng và các ô của bảng dưới cùng. Chúng ta hãy giới thiệu tương tự các ký hiệu $S_{чч}$ và $S_{чб}$. Khi đó $S_{чч} + S_{чб} + S_{чб} = S$, trong đó $S$ là diện tích của động vật thân mềm trong Hình 4.
 
-Cơm. 4.
+Hình 4.
 
 Nếu từ vị trí ban đầu, chúng ta di chuyển tấm bảng trên cùng quanh tâm 90° thì các ô màu đen của nó sẽ chuyển thành màu trắng và các ô màu trắng của nó sẽ chuyển thành màu đen. Vì vậy, $S_{чч} = S_{чб}$ và $S_{чб} = S_{чб}$. Nếu từ vị trí ban đầu, chúng ta chồng cả hai bảng lên 90° thì các ô màu đen sẽ chuyển sang màu trắng trên cả hai bảng, vì vậy $S_{чб} = S_{чб}$ và $S_{чб} = S_{чб}$. Vì vậy $S_{чч} = S_{чб} = S_{чб}$, tức là $S_{чч} = \frac{1}{4} S$. Tất cả những gì còn lại là tìm $S$.
 
 2. Cho các điểm cố định $A, B$ và $N$, việc chỉ định điểm $A_1$ xác định vị trí của điểm $M$ và do đó xác định vị trí của điểm $B_1$. Do đó, đối với $A, B, N$ cố định, chúng ta thu được một số ánh xạ $A_1 \rightarrow B_1$ của các điểm vòng tròn vào chính nó (Hình 5).
 
-Cơm. 5.
+Hình 5.
 
 Dễ dàng nhận thấy ánh xạ φ là sự kết hợp của hai quan hệ đối xứng trục gồm các đường $l_1 \parallel (BN)$ và $l_2 \parallel (AN)$ đi qua tâm của đường tròn (xem Hình 5), do đó trên thực tế φ là một phép quay quanh tâm (xem «Kvant», 1980, Số 3, trang 5).
 
@@ -235,11 +235,11 @@ Những bất đẳng thức này không thể giữ đủ lớn $n$. Do đó $x
 
 điều này là không thể đối với $k$ đủ lớn, và do đó $x_k = k$ đối với $k \geq K_0$. Khi đã sửa, không thể thực hiện được với $k$ đủ lớn và do đó $x_k = k$ cho $k \geq K_0$. Khi đã sửa, không thể thực hiện được với $k$ đủ lớn và do đó $x_k = k$ cho $k \geq K_0$.
 
-Cơm. 9.
+Hình 9.
 
-Cơm. 10.
+Hình 10.
 
-Cơm. 11.
+Hình 11.
 
 7. a) Giá trị nhỏ nhất của đa thức là 3. Hãy chứng minh điều đó. Chúng tôi có $4 + x^2y^4 + x^4y^2 - 3x^2y^2 = 4 + x^2y^2(x^2 + y^2) - 3x^2y^2 \geq 4 + x^2y^2 \cdot 2|xy| - 3x^2y^2$ (chúng tôi đã sử dụng bất đẳng thức giữa trung bình số học và trung bình hình học cho các số $x^2, y^2$).
 

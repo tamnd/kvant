@@ -31,7 +31,7 @@ Trong vật lý, cũng như trong các ngành khoa học khác, giá trị của
 Lấy ví dụ về phép tính ước tính, không chính xác, chúng ta sẽ tìm chu kỳ dao động $T$ của một con lắc toán học theo một cách hơi khác thường. Qua môn vật lý ở trường, người ta đã biết rằng đối với các góc lệch nhỏ của sợi dây con lắc so với phương thẳng đứng, giá trị $T$ được tìm thấy với độ chính xác cao từ công thức $T = 2\pi \sqrt{\dfrac{l}{g}}$, trong đó $l$ là chiều dài của sợi dây con lắc và $g$ là gia tốc rơi tự do. Do đó, ví dụ của chúng tôi hoàn toàn là
 
 ⟦figure⟧
-Cơm. 1.
+Hình 1.
 
 ⟦folio 22⟧
 
@@ -68,10 +68,10 @@ Chúng ta hãy thay thế các giá trị của $\smile AB$ và $v_{\mathrm{ср
 $$T = 8 \sqrt{\frac{l}{g}}.$$
 
 ⟦figure⟧
-Cơm. 2.
+Hình 2.
 
 ⟦figure⟧
-Cơm. 3.
+Hình 3.
 
 Giá trị chu kỳ dao động thu được bằng ước tính lớn hơn khoảng 27% so với giá trị thực. Điều gì gây ra sự khác biệt này? Về cơ bản, với giá trị vận tốc trung bình mà chúng ta đã chọn thì việc thay thế cung bằng dây cung không mấy quan trọng. Hình 2 hiển thị đồ thị của lực và độ dịch chuyển trong hai trường hợp: dao động điều hòa, khi lực $F_2$ giảm tuyến tính khi nó tiến đến vị trí cân bằng và được sử dụng để ước tính chuyển động có gia tốc đều, khi lực $F_1$ không đổi. Các diện tích bên dưới đồ thị, bằng năng lượng của chuyển động, đương nhiên phải bằng nhau. Bây giờ chúng ta hãy thử so sánh
 

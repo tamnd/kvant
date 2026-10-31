@@ -67,11 +67,11 @@ Có thể đo những khoảng thời gian ngắn bằng cách sử dụng các 
 
 ⟦folio 33⟧
 
-Cơm. 3. Hình ảnh bên ngoài của quá trình lắp đặt cho các thí nghiệm với hình dạng bột. Việc lắp đặt bao gồm một ổ cắm điện, một bộ chia điện áp có tụ điện và một tờ giấy dẫn điện có bột.
+Hình 3. Hình ảnh bên ngoài của quá trình lắp đặt cho các thí nghiệm với hình dạng bột. Việc lắp đặt bao gồm một ổ cắm điện, một bộ chia điện áp có tụ điện và một tờ giấy dẫn điện có bột.
 
-Cơm. 4. Ion hóa không khí bằng ngọn lửa. Trước khi ngọn lửa được đưa vào khe hở giữa các điện cực chuyển động, ngón tay sẽ để lại dấu liên tục trên giấy dẫn điện; Ngay sau khi ngọn lửa được đưa vào, dấu vết sẽ trở nên ngắt quãng.
+Hình 4. Ion hóa không khí bằng ngọn lửa. Trước khi ngọn lửa được đưa vào khe hở giữa các điện cực chuyển động, ngón tay sẽ để lại dấu liên tục trên giấy dẫn điện; Ngay sau khi ngọn lửa được đưa vào, dấu vết sẽ trở nên ngắt quãng.
 
-Cơm. 5. Sơ đồ lắp đặt xác định gia tốc rơi tự do. 1 - tiếp điểm mở bình thường, 2 - thân rơi, 3 - tiếp điểm mở bình thường, 4 - tờ giấy dẫn điện có bột.
+Hình 5. Sơ đồ lắp đặt xác định gia tốc rơi tự do. 1 - tiếp điểm mở bình thường, 2 - thân rơi, 3 - tiếp điểm mở bình thường, 4 - tờ giấy dẫn điện có bột.
 
 Nếu một vật được nâng lên trên mặt đất bắt đầu rơi, thì, như cơ học đã biết, hãy để nó vượt qua $h$ trong thời gian $t = \sqrt{\frac{2h}{g}}$. Do đó, gia tốc rơi tự do có thể tìm được theo công thức
 
@@ -89,7 +89,7 @@ Thí nghiệm được thực hiện theo trình tự sau. Cơ thể được bu
 
 ⟦folio 34⟧
 
-Cơm. 6. Bố trí thí nghiệm xác định gia tốc trọng trường. Một máy giặt lớn được sử dụng làm vật thể rơi xuống. a) - cái nhìn chung về quá trình cài đặt. b) - thiết bị của các tiếp điểm trên và dưới của mệnh giá.
+Hình 6. Bố trí thí nghiệm xác định gia tốc trọng trường. Một máy giặt lớn được sử dụng làm vật thể rơi xuống. a) - cái nhìn chung về quá trình cài đặt. b) - thiết bị của các tiếp điểm trên và dưới của mệnh giá.
 
 tới điểm tiếp xúc phía dưới của cặp phía trên. Sử dụng thước kẻ để thay đổi khoảng cách giữa thân và cặp tiếp điểm phía dưới. Họ bắt đầu di chuyển ngón tay của mình trên bột đánh răng trên giấy dẫn điện, và sau đó, không ngừng chuyển động của ngón tay, họ đốt sợi chỉ bằng que diêm. Dọc theo quỹ đạo chuyển động của ngón tay, một khu vực có dấu thời gian rõ ràng được hình thành. Bằng cách đếm số điểm nhận được, thời gian rơi của vật được xác định và gia tốc rơi tự do được tính theo công thức (*).
 

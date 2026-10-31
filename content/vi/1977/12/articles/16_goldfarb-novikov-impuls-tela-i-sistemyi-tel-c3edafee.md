@@ -71,7 +71,7 @@ Chúng ta thấy rằng $m|\vec{g}| \Delta t \ll |\vec{F}| \Delta t$, và xung h
 
 Động lượng đáng chú ý ở chỗ dưới tác dụng của cùng một lực, nó thay đổi như nhau ở mọi vật, bất kể khối lượng của chúng, trừ khi
 
-**Cơm. 2.**
+**Hình 2.**
 
 thời gian của lực là như nhau. Hãy cùng xem bài toán sau đây.
 
@@ -125,7 +125,7 @@ Giá trị trung bình $\vec{R}_{cp}$ của phản lực tác dụng lên phía 
 
 ⟦folio 55⟧
 
-Cơm. 5.
+Hình 5.
 
 Xung lực ban đầu của hệ thống đạn súng cơ thể bằng $mv$, xung cuối cùng bằng $p$. Hệ đang được xem xét không đóng: trong thời gian $\tau$, nó nhận được động lượng tăng thêm $p-mv$. Sự thay đổi động lượng của hệ là do tác dụng của hai ngoại lực: phản lực $\vec{R}_{cp}$ (vuông góc với mặt phẳng nghiêng) và lực hấp dẫn $mg$, viết
 
@@ -196,7 +196,7 @@ $$\Delta x_c = \frac{\sum m_i \Delta x_i}{m} \frac{\Delta x_c}{\Delta t} = \frac
 
 ⟦folio 57⟧
 
-Cơm. 7.
+Hình 7.
 
 bởi vì
 
@@ -220,7 +220,7 @@ $$\vec{m}_c = \sum F_{\text{внеш}}$$
 
 - Gia tốc của tâm quán tính bằng cách xác định
 
-Cơm. 8.
+Hình 8.
 
 chúng ta là kết quả của tất cả các lực bên ngoài tác dụng lên hệ thống.
 
@@ -266,7 +266,7 @@ $$\vec{a}_c = \frac{m_1a_1 + m_2a_2}{m_1 + m_2}$$
 
 (ở đây $\vec{a}_c$ là gia tốc của khối tâm, $a_1$ và $a_2$ lần lượt là gia tốc của tải trọng $m_1$ và $m_2$), hoặc trong phép chiếu.
 
-Cơm. 9.
+Hình 9.
 
 trục trên trục $Y$:
 

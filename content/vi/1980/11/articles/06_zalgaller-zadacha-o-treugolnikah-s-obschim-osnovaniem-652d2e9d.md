@@ -68,7 +68,7 @@ Theo những gì đã được chứng minh (xem Hình 2)
 
 $\vec{d}_0 = \vec{\varrho}_2 - \vec{\varrho}_1 = \frac{b_2\vec{c} - c\vec{b}}{p_2} + \frac{c\vec{b}_1 - b_1\vec{c}}{p_1}$,
 
-Cơm. 1.
+Hình 1.
 
 ⟦folio 16⟧
 
@@ -115,7 +115,7 @@ $$+ (a_1 b_2 - b_1 a_2)(a_2 - a_1 + b_1 - b_2)]c.$$
 
 Để chứng minh rằng $d > d_0$, chỉ cần chứng minh vế phải của đẳng thức (3) là dương là đủ. Sau này bao gồm hai điều khoản. Vì $a_1 + b_1 > c$ và $a_2 + b_2 > c$, số hạng đầu tiên lớn hơn $3c^2 d^2$. Vẫn còn phải kiểm tra xem số hạng thứ hai có nhỏ hơn $3c^2 d^2$ về giá trị tuyệt đối hay không. Sự tương ứng $|a_2 - a_1| < d$, $|b_2 - b_1| < d$ là hiển nhiên.
 
-Cơm. 3
+Hình 3
 
 Bởi vì
 $$p_1 p_2(d^2 - d_0^2) > (c^2 + 2c^2)d^2 -$$
@@ -150,7 +150,7 @@ Bất đẳng thức tam giác ngụ ý $|PT| - |QT| \leq |PQ|$; Đó là lý do
 
 ⟦folio 17⟧
 
-Cơm. 4
+Hình 4
 
 mu sau khi thay thế các biểu thức cho $|QT|$, $|PT|$, $|PQ|$ và đơn giản hóa chúng ta nhận được
 
@@ -168,7 +168,7 @@ Trước khi chứng minh bổ đề, chúng ta hãy xem xét bổ đề sau. N�
 
 Tốc độ $\vec{v}$ và $\omega_1$, $\omega_2$ có ​​liên quan với nhau. Nếu chúng ta loại bỏ vectơ $\vec{v} = \vec{CT}$ khỏi điểm $C$ (Hình 4), thì độ dài $|CP|$ hình chiếu của nó lên hướng vuông góc với tia $BC$ sẽ bằng $|\omega_1| \cdot |BC|$. (Đó là vì
 
-Cơm. 5
+Hình 5
 
 tổng tốc độ chuyển động của điểm $C$ bao gồm tốc độ chuyển động của nó cùng với tia quay $BC$ và tốc độ chuyển động của nó dọc theo tia này.) Tương tự, độ dài $|CQ|$ của hình chiếu $\vec{v}$ theo hướng vuông góc với tia $AC$ bằng $|\omega_2| \cdot |AC|$. Có thể vẽ một đường tròn xung quanh tứ giác $CPTQ$. Hơn nữa, $\vec{v}$ bằng đường kính của hình tròn này.
 
@@ -182,9 +182,9 @@ Từ $\vec{v}$ - đường kính của hình tròn vẽ quanh một hình tam gi
 
 ⟦folio 18⟧
 
-Cơm. 6
+Hình 6
 
-Cơm. 7.
+Hình 7.
 
 trượt quanh $OP'_0Q'_0$, chúng tôi có
 $$|\vec{v}| = \frac{|P'_0Q'|}{\sin \gamma} = \frac{|P''Q''|}{\sin \frac{\gamma}{2} \cos \frac{\gamma}{2}},

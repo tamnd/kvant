@@ -54,7 +54,7 @@ Bây giờ không khó để chúng ta miêu tả bức tranh về sự lan truy
 
 Tuy nhiên, chúng ta hãy nhớ rằng chúng ta đã phát hiện ra sự mâu thuẫn trong cách giải thích đầu tiên về hiện tượng này khi cố gắng định lượng nó. Hãy thử kiểm tra đánh giá định lượng để tìm ra lời giải thích thứ hai. Hãy ước tính khoảng cách đến “vùng chết”. Khoảng cách “tia” $SLM$ (xem Hình 2), chúng ta sẽ coi hướng của nó gần với phương ngang. Chúng ta hãy chọn phần nhỏ nhất $AB$ của bề mặt sóng và coi nó là phẳng và thẳng đứng (Hình 3). Sau thời gian $\Delta t$ phần này
 
-Cơm. 2.
+Hình 2.
 
 sẽ đảm nhận vị trí $A'B'$, và
 

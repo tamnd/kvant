@@ -41,7 +41,7 @@ I \\
 R
 \end{array}$$
 
-Cơm. 1.
+Hình 1.
 
 dòng điện có suất điện động $E$ và điện trở trong $r$ và điện trở $R$ (Hình 1). Chia chuỗi này thành hai phần $ARB$ và $BEA$. Khi áp dụng cho phần $ARB$, công thức (1) cho:
 
@@ -105,7 +105,7 @@ Bây giờ chúng ta hãy xem xét một số bài toán, có thể giải dễ 
 
 Bài 1. Xác định dòng điện chạy qua hình ở Hình 2, phần $AB$. E.m.f. nguồn
 
-Cơm. 2.
+Hình 2.
 
 biệt danh $E = 20 \text{ } \theta$, nội kháng $r = 1 \text{ } \omega$; thế năng của các điểm $A$ và $B$ lần lượt là $\varphi_A = 15 \text{ } \theta$, $\varphi_B = 5 \text{ } \theta$; điện trở dây $R = 3 \text{ } \omega$.
 
@@ -117,7 +117,7 @@ Dấu âm cho biết dòng điện chạy theo hướng $B \rightarrow A$, nghĩ
 
 Nhiệm vụ 2. Hai phần tử được kết nối “hướng” vào nhau (Hình 3). Xác định sự chênh lệch giữa dòng điện tiềm năng $A$ và $B$
 
-Cơm. 3.
+Hình 3.
 
 (tại các cực của pin) nếu $E_1 = 1,4 \text{ } \theta$, $r_1 = 0,4 \text{ } \omega$; $E_2 = 1,8 \text{ } \theta$, $r_2 = 0,6 \text{ } \omega$.
 

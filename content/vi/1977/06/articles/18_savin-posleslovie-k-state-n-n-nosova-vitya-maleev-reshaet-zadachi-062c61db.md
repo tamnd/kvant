@@ -64,7 +64,7 @@ Thật khó để tính giá trị của $z_0$, nếu chỉ vì chúng ta không
 
 Chúng ta hãy hướng trục $X$ vuông góc với bề mặt tự do của chất lỏng trong bình (Hình 1). Chúng ta sẽ giả sử rằng hình chiếu vận tốc của tất cả các phân tử hơi lên trục $X$ là giống hệt nhau về giá trị tuyệt đối. Khi đó một nửa số phân tử có hình chiếu vận tốc trên trục $X$
 
-Cơm. 1.
+Hình 1.
 
 là dương và bằng $|v_x|$, một nửa là âm và bằng $|v_y|$.
 
@@ -104,7 +104,7 @@ Trong thực tế, không có mâu thuẫn nào và phương trình (2) không �
 
 Từ phương trình (2), suy ra rằng áp suất $p$ của một chất khí tỷ lệ nghịch với thể tích của nó, với điều kiện $N$ không đổi, nghĩa là khi khối lượng của chất khí không thay đổi. Nhưng đối với hơi nước bão hòa thì điều kiện này không được đáp ứng. Khi thể tích hơi bão hòa thay đổi thì khối lượng của nó cũng thay đổi. Thật vậy, nếu bạn thay đổi hơi nước bão hòa theo cách làm cho thể tích của nó giảm từ giá trị $V$ xuống giá trị nào đó $V_1$, thì tỷ lệ $N/V_1$ sẽ giảm ngay lập tức. Khi đó, như có thể thấy từ công thức (1), số lượng $z$ phân tử chuyển từ hơi sang lỏng sẽ giảm và sẽ vượt quá số $z_0$
 
-Cơm. 2.
+Hình 2.
 
 các phân tử “bốc hơi”. Kết quả là số lượng $N$ phân tử hơi bắt đầu giảm. Khi nó giảm đến giá trị $N_1$ tại đó
 

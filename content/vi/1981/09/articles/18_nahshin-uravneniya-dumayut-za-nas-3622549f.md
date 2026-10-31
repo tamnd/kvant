@@ -95,7 +95,7 @@ Bài 3. Tìm dòng điện trong tất cả các nhánh của mạch như hình 
 
 ⟦folio 45⟧
 
-Cơm. 4.
+Hình 4.
 
 $$r_1 = r_2 = r = 1 \text{ Ом} \text{ и } R_1 = R_2 = R_3 = R = 10 \text{ Ом}.$$
 

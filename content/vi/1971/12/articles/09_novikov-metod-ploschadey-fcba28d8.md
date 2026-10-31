@@ -32,7 +32,7 @@ Thật không may, không có phương pháp phổ quát như vậy. Nhưng có 
 
 Hãy bắt đầu với một bài toán rất đơn giản, chúng ta sẽ giải theo hai cách.
 
-Cơm. 1. AC = 2, BC = 3, ⇒ ACD = ⇒ DCB = = 45°.
+Hình 1. AC = 2, BC = 3, ⇒ ACD = ⇒ DCB = = 45°.
 
 Bài toán 1. Tìm CD bicsectrix của tam giác vuông ACB có hai chân AC = = 2 và BC = 3 (Hình 1).
 
@@ -78,7 +78,7 @@ $p$ - nửa chu vi;
 
 $S$ là các tam giác phẳng $ABC$.
 
-Cơm. 2. Về tâm của đường tròn nội tiếp.
+Hình 2. Về tâm của đường tròn nội tiếp.
 
 Các công thức mà chúng tôi sẽ sử dụng được viết bằng ký hiệu này như sau:
 
@@ -134,7 +134,7 @@ $$\frac{AC \cdot DC \sin \frac{\alpha}{3}}{2} + \frac{DC \cdot BC \sin \frac{2\a
 
 ⟦folio 44⟧
 
-Cơm. 5.
+Hình 5.
 
 Từ đây ta có ngay
 
@@ -170,7 +170,7 @@ Nhiệm vụ 7. (MSU, nhà vật lý, 1966) Chứng minh rằng nếu độ dài
 
 ⟦folio 45⟧
 
-Cơm. 6a.
+Hình 6a.
 
 đường cắt metische, tâm của đường tròn nội tiếp trong tam giác này và giao điểm của đường trung tuyến của nó nằm trên một đường thẳng song song với cạnh giữa của tam giác.
 
@@ -178,7 +178,7 @@ Lời giải. Giả sử các cạnh của tam giác ABC có dạng sao cho $a \
 
 Đầu tiên, chúng ta rút ra một tính chất hữu ích của điểm $M$ giao điểm của đường trung tuyến của tam giác $ABC$. Trong hình 6b, tam giác ABC được chia bởi các đường trung tuyến thành 6 tam giác nhỏ hơn. Diện tích của mỗi hình bằng $\frac{1}{6}$ diện tích của toàn bộ tam giác $ABC$. Điều này rất dễ chứng minh: sử dụng
 
-Cơm. 66.
+Hình 66.
 
 công thức (1), viết đẳng thức
 $$S_{\triangle BB_1C} = \frac{1}{2} S_{\triangle ABC}, B_1M = \frac{1}{3} BB_1,$$

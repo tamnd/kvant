@@ -57,12 +57,12 @@ Kể từ đó, vấn đề (hoặc giả thuyết*) này đã trở nên phổ 
 2. $\Delta U = cm \Delta T = 10^{21} \text{ джс}$.
 3. Trên biểu đồ (Hình 1), phần bóng mờ của giá trị số bằng công thực hiện khi thể tích khí thay đổi từ 20 đến 40 lít. Ở tỷ lệ đã chọn, diện tích của mỗi ô là 100 ($\lambda \cdot amm$). Vì $1 \lambda \cdot amm = 10^{-3} m^3 \cdot 101 \cdot 325 \text{ h/m}^2 \approx 100 \text{ джс}$ nên diện tích của một ô tương ứng với công việc $\approx 10^4 \text{ джс}$. Diện tích của hình được tô bóng là khoảng 4,25 ô vuông. Do đó, khi thể tích khí thay đổi từ 20 đến 40 lít thì công $A \approx 4,25 \cdot 10^4 \text{ джс}$ được thực hiện.
 
-Cơm. 1.
+Hình 1.
 4. Nói một cách đơn giản $AB_1$ không có công nào được thực hiện thì nội năng của khí tăng lên.
 Nói một cách đơn giản, $AB_2$ công được thực hiện và nội năng của khí tăng lên.
 
-Cơm. 2.
-Cơm. 3.
+Hình 2.
+Hình 3.
 
 ⟦folio 62⟧
 
@@ -95,4 +95,4 @@ $ж)$ Đối với số nguyên $n$ tại các điểm $x = 2n$ - tối đa, t�
 6): 1) không, 2) có;
 c) có.
 
-Cơm. 4.
+Hình 4.

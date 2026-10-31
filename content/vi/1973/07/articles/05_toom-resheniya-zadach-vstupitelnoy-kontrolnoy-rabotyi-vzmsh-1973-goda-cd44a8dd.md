@@ -94,7 +94,7 @@ Bây giờ chúng ta hãy ước tính số lượng bộ phận tối đa có t
 
 ⟦folio 23⟧
 
-Cơm. 3.
+Hình 3.
 
 $n$ các đường thẳng đã được thực hiện và chúng tôi đang tiến hành lần thứ $n + 1$. Rõ ràng, không có nhiều hơn $n$ điểm giao nhau trên đó, chia nó thành không quá $n + 1$ phần. Mỗi phần chia một số phần thành hai. Do đó, số lượng bộ phận tăng không quá $n + 1$. Đối với một phần thẳng luôn có hai phần, vì vậy đối với bốn phần thì không còn phần thẳng nữa
 

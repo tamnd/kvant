@@ -70,7 +70,7 @@ Theo quy định, người nộp đơn đã giải quyết bài toán này một
 
 2. Chiều cao $SO$ của nguyên thủy SABC (Hình 1)
 
-Cơm. 1.
+Hình 1.
 
 ⟦folio 48⟧
 

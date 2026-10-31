@@ -52,7 +52,7 @@ Bài tập
 
 ⟦folio 83⟧
 
-Cơm. 1.
+Hình 1.
 
 $$\overrightarrow{BD}_1 = \overrightarrow{BA} + \overrightarrow{AD} + \overrightarrow{DD}_1 = (a; -b, c),$$
 $$\overrightarrow{A}_1D = \overrightarrow{A}_1A + \overrightarrow{AD} = (a; 0; -c).$$
@@ -80,7 +80,7 @@ $$\left( \overrightarrow{BD}_1, \overrightarrow{A}_1D \right) =$$
 
 ⟦folio 84⟧
 
-Cơm. 3.
+Hình 3.
 
 (vì điểm $M$ nằm trên đường thẳng $AD_1$ khi và chỉ khi các vectơ $\overrightarrow{AM}$ và $\overrightarrow{AD_1}$ thẳng hàng và tương tự đối với điểm $N$). Bây giờ chúng ta hãy tìm $\overrightarrow{MN} = \overrightarrow{MA} + \overrightarrow{AD} + \overrightarrow{DN}$ và viết ra các điều kiện về độ vuông góc của vectơ $\overrightarrow{MN}, \overrightarrow{AD_1}$ và $\overrightarrow{MN}, \overrightarrow{DC_1}$; điều này mang lại cho chúng ta hai phương trình mà từ đó chúng ta tìm thấy $\alpha$ và $\beta$, sau đó là độ dài của vectơ $\overrightarrow{MN}$.
 
@@ -158,7 +158,7 @@ $$S_{\text{cф}} = 4\pi R^2 = \frac{\pi a^2 (16 + 9 \mathrm{tg}^2 \varphi)}{12}.
 
 Bài 8. Dựa vào tham số của các hình dịch vụ có cạnh $a$.
 
-Cơm. 7.
+Hình 7.
 
 Hai góc hai fer ở các cạnh của đáy là góc vuông, hai góc còn lại bằng $\varphi$. Tìm bán kính của hình cầu được ghi trong tham số.
 
@@ -180,4 +180,4 @@ $$h = (a \mathrm{tg} \varphi - r - r \mathrm{tg} \varphi) \cos^2 \varphi,$$
 
 $$|O_1Q| = |h| \cdot |\vec{n}| = (a \mathrm{tg} \varphi - r - r \mathrm{tg} \varphi) \cos^2 \varphi \cdot \frac{1}{\cos \varphi} = (a \mathrm{tg} \varphi - r - r \mathrm{tg} \varphi) \cos \varphi$$
 
-Cơm. 8.
+Hình 8.

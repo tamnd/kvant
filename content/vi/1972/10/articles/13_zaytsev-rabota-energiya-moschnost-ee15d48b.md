@@ -74,7 +74,7 @@ $$A = F \cdot \text{пр.} s.$$
 
 Bây giờ chúng ta có thể kết luận: nếu vật chuyển động sao cho tổng độ dịch chuyển của nó bằng 0 (vật thể quay trở lại điểm mà nó bắt đầu chuyển động) và trong quá trình chuyển động, một lực không đổi $F$ tác dụng lên vật, thì công do lực thực hiện bằng không.
 
-Cơm. 2.
+Hình 2.
 
 Bài tập 1. Chứng minh công của một lực không đổi không phụ thuộc vào quỹ đạo của vật.
 
@@ -176,7 +176,7 @@ Bây giờ chúng ta hãy giải một số bài toán.
 
 Bài 4. Ném một sợi dây qua một khối sao cho hai đầu sợi dây có cùng độ cao om
 
-Cơm. 8.
+Hình 8.
 
 Sau đó khối tiếp theo và sợi dây bắt đầu rút ngắn khỏi khối dưới tác dụng của lực giữa chúng. Lúc này sợi dây sẽ có tốc độ bao nhiêu khi nó hòa hoàn toàn vào vật? Chiều dài dây $l$, khối lượng $m$.
 

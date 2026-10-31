@@ -63,7 +63,7 @@ Cuộc trò chuyện của chúng ta tự nhiên bắt đầu bằng việc xem 
 
 Tất nhiên, ai trong số các bạn cũng đã từng nghe truyền thuyết nổi tiếng về nguồn gốc của cờ vua. Nhà hiền triết đã phát minh ra chúng đã yêu cầu Shah Ba Tư, người thực sự thích trò chơi này, lượng hạt lúa mì cần thiết để che phủ tất cả các ô của bàn cờ, nếu một hạt được đặt trên ô đầu tiên của nó và trên mỗi ô tiếp theo nhiều gấp đôi so với ô trước đó (Hình 1).
 
-Cơm. 1.
+Hình 1.
 
 Hóa ra là không có đủ lúa mì cho việc này, chỉ được dự trữ trong các kho thóc của Shah Ba Tư, mà còn ở tất cả các kho thóc trên thế giới. Nhà hiền triết khiêm tốn yêu cầu
 
@@ -77,7 +77,7 @@ Thuộc tính chỉ thị đặc biệt hiệu quả theo nghĩa của Reti này
 
 Có vẻ hoàn toàn khó tin rằng ở vị trí này vua trắng lại có thể đuổi kịp lúa mì đen.
 
-Cơm. 2. R. Reti, 1921
+Hình 2. R. Reti, 1921
 Vẽ tranh.
 
 Tuy nhiên, điều này có thể thực hiện được nếu anh ta
@@ -105,7 +105,7 @@ các bề mặt có thể được dán lại với nhau từ bàn cờ. Bàn c�
 
 Thật dễ dàng để đưa ra ví dụ về cờ vua bài toán đã được giải quyết
 
-Cơm. 6. Chiếu tướng trong một nước đi.
+Hình 6. Chiếu tướng trong một nước đi.
 
 trên một trong những bảng được đề cập và không dám trên những bảng khác. Ví dụ: nhiệm vụ “chiếu tướng trong một nước đi” trong Hình 6 trông thật buồn cười. Tuy nhiên, trên một bảng hình trụ bị uốn cong bởi phương thẳng đứng a và h, có thể thực hiện được: 1. chiếu hết h3-h4! Các ô b4 và b6 do quân mã giữ ở đây, a6 và b5 do quân tượng giữ, và vua đen không được đối thủ da trắng cho phép lên đường h. Lưu ý rằng với quân trắng trên h2 thì không còn quân giao phối nữa, vì sau 1. h2-h4 Đen chiếm quyền *): 1...a4:h3.
 
@@ -119,7 +119,7 @@ Không phải mọi thứ có thể làm được ở chế độ thông thườ
 
 Đây là một ví dụ hài hước khác (Hình 7). Ở đây, tấm thảm trong hai bước di chuyển được thực hiện cả trên bảng thông thường và trên bảng hình trụ, nhưng trên mỗi bảng theo cách riêng của nó.
 
-Cơm. 7. Chiếu hết trong hai nước đi.
+Hình 7. Chiếu hết trong hai nước đi.
 
 Trên một bảng thông thường, mọi thứ rất đơn giản:
 1. La5 : a6 Npb1 - c1
@@ -133,7 +133,7 @@ Chúng tôi mời bạn tự mình đưa ra các ví dụ tương tự trên b�
 
 Trong số các vấn đề về phân bố của cờ vua Nam Tư có cái gọi là dự án cờ vua trên một bàn cờ vô hạn.
 
-Cơm. 8. Bàn cờ hình cầu. Từ trường bên ngoài bổ sung (màu đỏ) bao quanh toàn bộ bảng, bạn có thể vào bảng ở bất kỳ đâu và theo bất kỳ hướng nào (theo chiều dọc, chiều ngang hoặc đường chéo). Ví dụ, một quân xe trên một bàn cờ trống có thể di chuyển kẻ địch qua tất cả các ô trong một nước đi (đi qua ô bên ngoài 7 lần).
+Hình 8. Bàn cờ hình cầu. Từ trường bên ngoài bổ sung (màu đỏ) bao quanh toàn bộ bảng, bạn có thể vào bảng ở bất kỳ đâu và theo bất kỳ hướng nào (theo chiều dọc, chiều ngang hoặc đường chéo). Ví dụ, một quân xe trên một bàn cờ trống có thể di chuyển kẻ địch qua tất cả các ô trong một nước đi (đi qua ô bên ngoài 7 lần).
 
 Bảng có bốn trường bổ sung. Trên một bàn cờ gấp có thêm một ô, ta thu được một bàn cờ hình cầu (Hình 8). Tuy nhiên, việc nghiên cứu chi tiết về ván cờ trên các bàn cờ kết quả không nằm trong kế hoạch của chúng tôi.
 
@@ -141,13 +141,13 @@ Bảng có bốn trường bổ sung. Trên một bàn cờ gấp có thêm mộ
 
 1. Chứng minh rằng một bảng 100 ô vuông 10x10 không thể được che phủ hoàn toàn mà không có các hình chồng lên nhau, ví dụ được minh họa trên Hình 9.
 
-Cơm. 9. Hình 10.
+Hình 9. Hình 10.
 
 2. Một domino điển hình bao gồm hai hình vuông. Tạo một hình “trimino” được tạo thành từ ba hình vuông (Hình 10). Nếu một bàn cờ được bao phủ bởi 21 quân cờ, thì còn lại một ô trống. Nó có thể là gì?
 
 3. 12 trường được cắt từ bảng 8x9 (Hình 11). Chứng minh rằng phần còn lại không thể che được bằng các mảnh vụn.
 
-Cơm. 11.
+Hình 11.
 
 4. Đặt bảng có số trường lẻ (ví dụ: kích thước của nó là 7x9). Các thửa ruộng ở phía chung hoàn toàn liền kề nhau. Chúng ta hãy đặt một con tốt trên mỗi ô vuông của bàn cờ, sau đó thu thập những con tốt này và đặt chúng lên bảng một lần nữa.
 

@@ -153,7 +153,7 @@ b) $\frac{\cos 2x}{\sqrt{\sin 2x}}$.
 14. $\frac{\sqrt{14}}{2}$.
 15. 1. Lời giải. Hãy vẽ đường kính $AO$ (Hình 1). Vì $|AO|^2 + |CO|^2 = |AC|^2$, $(AO) \perp (CD)$. Chúng ta hãy giới thiệu một hệ tọa độ có gốc tọa độ ở tâm hình cầu $O$, trục x $[OD]$, trục tọa độ $[OA]$ và vuông góc với
 
-Cơm. 1.
+Hình 1.
 
 Tôi sẽ xem qua đơn đăng ký. Vì $\overrightarrow{OD} = (1; 0; 0)$, $\overrightarrow{AB} \cdot \overrightarrow{OD} = \overrightarrow{OB} \cdot \overrightarrow{OD} = \cos \frac{\pi}{3} = \frac{1}{2}$. Vì vậy, $\overrightarrow{OB} \cdot \overrightarrow{OD} = \cos \widehat{BOD} = \frac{1}{2}$. Do đó, $\widehat{BOD} = \frac{\pi}{3}$ và $\triangle BOD$ là bằng nhau.
 
@@ -298,7 +298,7 @@ $$+ a_1a_2...a_p 0 \ldots 00 a_1...a_p 0 \ldots 00 a_1...a_p$$
 
 $$b_1...b_q 0 \ldots 0b_1...b_q$$
 
-Cơm. 2.
+Hình 2.
 
 ở đâu $i=l$ hoặc $l+1$. Do đó $S(3N)=2S(3k)$. Ngoài ra, $S(4N)=2S(4k)$. Vì vậy $N \in A$.
 
@@ -322,11 +322,11 @@ Nhưng $r_{il_1}^2 = r_{il_2}^2 + r_{il_3}^2$. Vì thế
 
 $$K_{l_1} = \frac{\omega^2}{2} \sum_i m_i r_{il_2}^2 + \frac{\omega^2}{2} \sum_i m_i r_{il_3}^2,$$
 
-cơm. 3.
+hình 3.
 
 ⟦folio 64⟧
 
-Cơm. 4.
+Hình 4.
 
 đó là
 $$K_{l_1} = K_{l_2} + K_{l_3},$$

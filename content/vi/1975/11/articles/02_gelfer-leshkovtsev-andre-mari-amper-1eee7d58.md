@@ -122,11 +122,11 @@ Ampere ngay lập tức báo cáo kết quả cho Học viện. Trong thời gia
 
 ⟦folio 8⟧
 
-Cơm. 1. Thiết bị nghiên cứu sự tương tác của dây dẫn với dòng điện. AB là dây dẫn cố định, EDF là dây dẫn di động được gắn trên trục thủy tinh EF. Để bảo vệ chống rung, thiết bị được phủ một lớp kính. (Vẽ bởi Ampe)
+Hình 1. Thiết bị nghiên cứu sự tương tác của dây dẫn với dòng điện. AB là dây dẫn cố định, EDF là dây dẫn di động được gắn trên trục thủy tinh EF. Để bảo vệ chống rung, thiết bị được phủ một lớp kính. (Vẽ bởi Ampe)
 
-Cơm. 2. Thiết bị đầu tiên nghiên cứu ảnh hưởng của từ trường Trái đất lên một cuộn dây điện từ. AB là một cuộn dây điện từ trên một ống thủy tinh mỏng và treo lơ lửng như một chiếc kim la bàn. Thiết bị này không đủ tính di động và hiệu quả mong đợi không được ghi lại. (Vẽ bởi Ampe)
+Hình 2. Thiết bị đầu tiên nghiên cứu ảnh hưởng của từ trường Trái đất lên một cuộn dây điện từ. AB là một cuộn dây điện từ trên một ống thủy tinh mỏng và treo lơ lửng như một chiếc kim la bàn. Thiết bị này không đủ tính di động và hiệu quả mong đợi không được ghi lại. (Vẽ bởi Ampe)
 
-Cơm. 3. Thiết bị nghiên cứu ảnh hưởng của từ trường Trái đất lên một cuộn dây có dòng điện. ABCD - cuộn dây chuyển động có dòng điện. Cuộn dây thứ hai (cố định), lớn hơn bán kính, cố định một mặt phẳng thẳng đứng vuông góc với Merdian từ tính tại một điểm cho trước. Khi cho dòng điện chạy vào, vòng ABCD quay cho đến khi trùng với vòng dây đứng yên. (Vẽ bởi Ampe)
+Hình 3. Thiết bị nghiên cứu ảnh hưởng của từ trường Trái đất lên một cuộn dây có dòng điện. ABCD - cuộn dây chuyển động có dòng điện. Cuộn dây thứ hai (cố định), lớn hơn bán kính, cố định một mặt phẳng thẳng đứng vuông góc với Merdian từ tính tại một điểm cho trước. Khi cho dòng điện chạy vào, vòng ABCD quay cho đến khi trùng với vòng dây đứng yên. (Vẽ bởi Ampe)
 
 ⟦folio 9⟧
 

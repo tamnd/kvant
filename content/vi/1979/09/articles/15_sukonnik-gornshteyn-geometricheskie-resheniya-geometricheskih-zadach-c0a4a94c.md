@@ -103,9 +103,9 @@ $$\begin{cases} \frac{a}{R+r} = \frac{r}{R}, \\ \frac{R+r}{b} = \frac{r}{R} \end
 
 (trong các tam giác đồng dạng, cả bán kính nội tiếp và bán kính các hình tròn ngoài đều được coi là các cạnh tương ứng), trong đó $R = \frac{bV_a}{V_a + V_b}$, $r = \frac{aV_b}{V_a + V_b}$.
 
-Cơm. 9.
+Hình 9.
 
-Cơm. 10.
+Hình 10.
 
 Bài toán 8 (MSU, khoa vật lý, 1975). Cho hình chữ nhật ABCD (|BC|>|CD|), các đường chéo AC và BD cắt nhau tại điểm O. Phân giác của góc CAD cắt [BD] tại điểm E. Gọi F là đáy của đường vuông góc hạ từ điểm E xuống cạnh AD; điểm K là điểm giữa [AD]. Qua điểm E, đường vuông góc cũng được vẽ tới [AE] cho đến khi nó cắt đường chéo AC tại điểm H. Tìm diện tích ABCD nếu |OH|=b, |KF|=\frac{4}{3}b.
 
@@ -115,7 +115,7 @@ Tiếp tục vuông góc HE cho đến khi cắt [AD] tại điểm G. Tam giác
 
 ⟦folio 42⟧
 
-Cơm. 11.
+Hình 11.
 
 tam giác LHE cũng là tam giác đều. Pozny
 

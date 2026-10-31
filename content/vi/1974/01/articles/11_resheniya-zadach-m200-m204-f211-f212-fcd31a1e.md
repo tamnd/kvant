@@ -54,7 +54,7 @@ Chúng ta sẽ giải bài toán bằng cách sử dụng vectơ. Đường dẫ
 
 ⟦folio 46⟧
 
-Cơm. 7.
+Hình 7.
 
 của tôi là $AB$ (Hình 7). Chúng ta phải tìm một điều kiện mà theo đó $B'_1$ trùng với $C_1$, nghĩa là, $\overrightarrow{AB'_1} = \overrightarrow{AC'_1}$ hoặc tương đương,
 
@@ -106,7 +106,7 @@ Do đó quan hệ $\frac{a}{d} = \frac{km-l^2}{2l-k-m}$ là hữu tỉ.
 
 ⟦folio 47⟧
 
-Cơm. 9.
+Hình 9.
 
 Nối AB, BC, CD và DA nối tiếp bốn đường thẳng (Hình 8), khi đó các đường thẳng này sẽ tiếp xúc với cùng một đường tròn.
 

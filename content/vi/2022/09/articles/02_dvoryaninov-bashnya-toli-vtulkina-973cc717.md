@@ -38,7 +38,7 @@ BÂY GIỜ BẠN SẼ TÌM HIỂU ĐIỀU GÌ ĐÃ XẢY RA trong cuộc họp c
 
 ⟦figure⟧
 
-Cơm. 1
+Hình 1
 
 - Chú ý! Bây giờ Tolik sẽ chứng minh cho chúng ta thấy sức mạnh của tư duy! Bạn có thể nói telekinesis, di chuyển đồ vật bằng sức mạnh ý chí! - Ivan Pet trịnh trọng nói -
 
@@ -64,11 +64,11 @@ Chúng tôi rúc vào bàn và phát hiện ra rằng tất cả các bộ phậ
 
 ⟦figure⟧
 
-Cơm. 3
+Hình 3
 
 ⟦figure⟧
 
-Cơm. 2
+Hình 2
 
 Một người trong chúng tôi thay phiên nhau thay thế Tolino và lặp lại mọi hành động của anh ấy. Sau đó, hóa ra Tolik đã dàn dựng buổi biểu diễn này không chỉ để giải trí và tòa tháp của anh ấy giống... với Ostankino nổi tiếng (Hình 3). Khi mọi người đã bình tĩnh lại một chút, Ivan Petrovich nhắc chúng tôi rằng một tháng trước, vào ngày 4 tháng 11 (như đã nói, các sự kiện được mô tả bắt đầu từ năm 1967), tín hiệu truyền hình lần đầu tiên được phát sóng từ Tháp Ostankino. Vào thời điểm hoàn thành, tòa tháp của chúng tôi là công trình kiến ​​trúc cao nhất thế giới. Chúng tôi cũng được biết ý tưởng xây dựng một tòa tháp bê tông được đề xuất bởi kỹ sư, kiến ​​trúc sư và nhà khoa học trong lĩnh vực kết cấu công trình Nikolai Vasilyevich Nikitin (1907–1973). Trước đó, tất cả các cấu trúc như vậy đều được làm bằng kim loại. Sức mạnh và sự ổn định của tháp truyền hình được đảm bảo bởi các dây cáp căng chạy bên trong nó. Những dây cáp này - có 149 chiếc - ép các vòng bê tông của tòa tháp với nhau, giống như dây câu của Tolina. Điều này giúp cho nền móng của tháp có thể tương đối nông - chỉ khoảng năm mét. Phần đế hình nón của tháp giống như một bông hoa huệ ngược với những cánh hoa chắc khỏe và thân dày. Thiết kế do Nikitin đề xuất dựa trên tác phẩm của Yuri Vasilyevich Kondratyuk (1897–1942), tác giả của một dự án cối xay gió chưa thực hiện được trên Núi Ai-Petri. Yu.V.Kondratyuk là một trong những người sáng lập ngành du hành vũ trụ. Năm 1919, độc lập và đồng thời với K.E. Tsiolkovsky, ông đã thu được phương trình chuyển động của tên lửa và đề xuất thiết kế nhiều tầng của nó, đưa ra sơ đồ buồng đốt của động cơ tên lửa và tính toán đường bay tối ưu tới Mặt trăng. Sau đó nó được gọi là “tuyến đường Kondratyuk”. Đây là cách một thủ thuật nhỏ của Tolya Vtulkin đã giúp chúng tôi tìm hiểu những bí mật lớn của tháp truyền hình Ostankino và nhiều mối liên hệ hơn với nó.
 
@@ -80,7 +80,7 @@ KHÔNG BẮT BUỘC
 
 ⟦figure⟧
 
-Cơm. 2. Miệng núi lửa ở Arizona, hình thành do va chạm với tiểu hành tinh cách đây 50.000 năm
+Hình 2. Miệng núi lửa ở Arizona, hình thành do va chạm với tiểu hành tinh cách đây 50.000 năm
 
 Có một miệng núi lửa có đường kính 1,2 km và sâu 230 m (Hình 2). Theo các chuyên gia, trước vụ nổ, tiểu hành tinh Arizona di chuyển với tốc độ 45–60 nghìn km/h, có khối lượng 300.000 tấn và kích thước 50 m. Bằng chứng ấn tượng hơn nhiều về vụ va chạm thảm khốc của các tiểu hành tinh với Trái đất đã được tìm thấy ở Yucatan (Mexico) và Wrederford (Nam Phi). Đường kính của miệng núi lửa ở Yucatan là 180 km, ở Wrederford - 300 km. Miệng núi lửa Yucatan được hình thành bởi một tiểu hành tinh có kích thước khoảng 10 km đâm vào Trái đất cách đây 65 triệu năm, miệng núi lửa Wrederford được hình thành bởi một tiểu hành tinh có đường kính 10-15 km phát nổ cách đây 2 tỷ năm. Sự sụp đổ của tiểu hành tinh đầu tiên có liên quan đến cái chết của loài khủng long trong kỷ Phấn trắng, và sự sụp đổ của tiểu hành tinh thứ hai có liên quan đến những thay đổi địa vật lý và sinh học toàn cầu xảy ra trong kỷ nguyên Proterozoi. Bảng này hiển thị dữ liệu đưa ra ước tính về tần suất giảm theo
 

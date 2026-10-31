@@ -37,7 +37,7 @@ Khi chúng ta cố gắng áp dụng các nguyên lý cơ học vào một vật
 
 Xem xét kỹ các hiện tượng nhiệt, chúng ta thấy rằng quan điểm mô tả ở trên về lý thuyết vật thể với tư cách là cơ học của một hệ gồm một số lượng lớn các hạt cũng gặp phải một khó khăn khác, không còn mang tính thực tiễn nữa mà có tính chất sâu sắc và cơ bản hơn. Để thử độ khó này, hãy xem xét ví dụ sau. Giả sử rằng chúng ta có một bình kín, được chia thành hai phần bằng nhau bằng một van (Hình 1).
 
-Cơm. 1.
+Hình 1.
 
 Giả sử có một lượng khí nhất định ở phần I và tính trống rỗng ở phần II. Chúng ta hãy kéo cửa chớp vào một thời điểm nào đó và xem điều gì sẽ xảy ra bên trong con tàu, bắt đầu từ thời điểm này. Kinh nghiệm cho thấy rằng khí ban đầu được đặt ở phần I sẽ nở ra vào khoảng trống liền kề và được phân bố khắp bình với mật độ đồng đều. Hiện tượng này xảy ra như thể “tự nó”: điều này có nghĩa là kể từ thời điểm màn trập được kéo ra, khí là một hệ thống khép kín, mà chúng ta giám sát từ bên ngoài, không hề giống nhau
 

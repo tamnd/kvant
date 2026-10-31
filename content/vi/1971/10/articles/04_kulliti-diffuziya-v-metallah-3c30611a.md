@@ -49,11 +49,11 @@ Một nguyên tử lân cận có thể di chuyển vào chỗ trống này; ngu
 
 Trong thí nghiệm Roberts-Austin, các nguyên tử vàng ở 200°C bị tách năng lượng ra khỏi xúc xích để bắt đầu nhảy vào các chỗ trống trong mạng (trường hợp tương tự xảy ra với các nguyên tử chì). Suy cho cùng, nếu thí nghiệm được tiến hành trong thời gian dài thì các nguyên tử vàng sẽ được phân bố đều khắp trụ chì. Một phân tích đơn giản có thể được thực hiện. Nếu bạn đặt nhiều quả bóng đen vào một hộp bóng trắng và lắc hộp lâu, thì các quả bóng đen sẽ được phân bổ đều cho các quả bóng trắng.
 
-Cơm. 1. Con số lấn chiếm các thí nghiệm khuếch tán đầu tiên của Roberts-Austin. Vàng được đặt trên chì nguyên chất (hình trụ màu xám ở bên trái) và mẫu được nung nóng. Bên phải là hình trụ tương tự sau khi xảy ra hiện tượng khuếch tán vàng thành chì và chì thành vàng. Hình trụ này được cắt thành các đĩa mỏng để đo lượng vàng tạo thành sản phẩm mà chúng chứa. Đường cong thể hiện trong biểu đồ bên phải cho thấy sự thay đổi nồng độ vàng tùy thuộc vào khoảng cách từ mép trên của hình trụ bên phải.
+Hình 1. Con số lấn chiếm các thí nghiệm khuếch tán đầu tiên của Roberts-Austin. Vàng được đặt trên chì nguyên chất (hình trụ màu xám ở bên trái) và mẫu được nung nóng. Bên phải là hình trụ tương tự sau khi xảy ra hiện tượng khuếch tán vàng thành chì và chì thành vàng. Hình trụ này được cắt thành các đĩa mỏng để đo lượng vàng tạo thành sản phẩm mà chúng chứa. Đường cong thể hiện trong biểu đồ bên phải cho thấy sự thay đổi nồng độ vàng tùy thuộc vào khoảng cách từ mép trên của hình trụ bên phải.
 
 ⟦folio 12⟧
 
-Cơm. 2. Có thể có những chỗ trống trong các bình diện nguyên tử của tinh thể. Hình vẽ này cho thấy vàng (vòng tròn màu vàng) có thể khuếch tán như thế nào trong tinh thể chì. Sự chuyển đổi của nguyên tử vàng sang vị trí thể hiện ở hình dưới bên phải là có thể nếu chỉ có một chỗ trống trong mạng chì.
+Hình 2. Có thể có những chỗ trống trong các bình diện nguyên tử của tinh thể. Hình vẽ này cho thấy vàng (vòng tròn màu vàng) có thể khuếch tán như thế nào trong tinh thể chì. Sự chuyển đổi của nguyên tử vàng sang vị trí thể hiện ở hình dưới bên phải là có thể nếu chỉ có một chỗ trống trong mạng chì.
 
 Sự khuếch tán của các nguyên tử trong kim loại nguyên chất (gọi là "sự tự khuếch tán") có thể được thay đổi bằng cách sử dụng một phần nhỏ số nguyên tử phóng xạ của nguyên tố đó. Giả sử, để thay đổi tốc độ tự khuếch tán của đồng, cần phải đặt một lượng nhỏ đồng vị phóng xạ của đồng vào đầu ống trụ bằng đồng thông thường và nung ống trụ này đến một nhiệt độ nhất định. Sau khi đủ thời gian để quá trình khuếch tán xảy ra, mẫu được cắt thành những lát mỏng và máy đếm Geiger được sử dụng để thay đổi độ phóng xạ của từng môi trường kế tiếp. Những dữ liệu này cho phép tính toán tốc độ khuếch tán.
 
@@ -73,13 +73,13 @@ các nguyên tử trong đó dường như là sự tiếp nối sự sắp xế
 
 M. Akhter và R. Smoluchowski đã tiến hành một thí nghiệm để xác định ảnh hưởng của góc phân kỳ giữa các hạt đến tốc độ khuếch tán. Họ chuẩn bị một hình trụ bằng đồng, bao gồm các tinh thể dạng sợi lớn được sắp xếp sao cho các mặt phẳng của mạng tạo thành các góc dây tóc với nhau. Một hợp kim của đồng và bạc được hàn vào đầu mẫu đồng và toàn bộ vật được nung nóng đến nhiệt độ 675 ° C. Sau 10 ngày, họ đã chuẩn bị
 
-Cơm. 3. Sự khuếch tán cacbon trong sắt không phụ thuộc vào sự có mặt của lỗ trống. Các nguyên tử carbon (vòng tròn màu đen) đủ nhỏ để lọt vào giữa các nguyên tử sắt (vòng tròn màu xanh).
+Hình 3. Sự khuếch tán cacbon trong sắt không phụ thuộc vào sự có mặt của lỗ trống. Các nguyên tử carbon (vòng tròn màu đen) đủ nhỏ để lọt vào giữa các nguyên tử sắt (vòng tròn màu xanh).
 
 ⟦folio 14⟧
 
-Cơm. 4. Sự cứng lại bề mặt của thép xảy ra do sự khuếch tán cụ thể của các nguyên tử carbon vào nó. Phần giữa của hình vẽ là một bức ảnh vi mô hoặc cấu trúc về sự phân bố cacbon trong một miếng thép có bề mặt tiếp xúc với hydrocarbon. Đường cong trên cùng biểu thị phần trăm cacbon theo khoảng cách đến bề mặt của miếng thép. Đường cong phía dưới đặc trưng cho cường độ của thép ở các phần khác nhau của chi tiết.
+Hình 4. Sự cứng lại bề mặt của thép xảy ra do sự khuếch tán cụ thể của các nguyên tử carbon vào nó. Phần giữa của hình vẽ là một bức ảnh vi mô hoặc cấu trúc về sự phân bố cacbon trong một miếng thép có bề mặt tiếp xúc với hydrocarbon. Đường cong trên cùng biểu thị phần trăm cacbon theo khoảng cách đến bề mặt của miếng thép. Đường cong phía dưới đặc trưng cho cường độ của thép ở các phần khác nhau của chi tiết.
 
-Cơm. 4. Sự cứng lại bề mặt của thép xảy ra do sự khuếch tán cụ thể của các nguyên tử carbon vào nó. Phần giữa của hình vẽ là một bức ảnh vi mô hoặc cấu trúc về sự phân bố cacbon trong một miếng thép có bề mặt tiếp xúc với hydrocarbon. Đường cong trên cùng biểu thị phần trăm cacbon theo khoảng cách đến bề mặt của miếng thép. Đường cong phía dưới đặc trưng cho cường độ của thép ở các phần khác nhau của chi tiết.
+Hình 4. Sự cứng lại bề mặt của thép xảy ra do sự khuếch tán cụ thể của các nguyên tử carbon vào nó. Phần giữa của hình vẽ là một bức ảnh vi mô hoặc cấu trúc về sự phân bố cacbon trong một miếng thép có bề mặt tiếp xúc với hydrocarbon. Đường cong trên cùng biểu thị phần trăm cacbon theo khoảng cách đến bề mặt của miếng thép. Đường cong phía dưới đặc trưng cho cường độ của thép ở các phần khác nhau của chi tiết.
 
 ⟦folio 15⟧
 

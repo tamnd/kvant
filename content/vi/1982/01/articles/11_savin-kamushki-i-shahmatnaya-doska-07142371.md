@@ -47,7 +47,7 @@ Làm thế nào tôi có thể tránh phải đứng trước bốn viên đá m
 
 ⟦folio 38⟧
 
-Cơm. 3.
+Hình 3.
 
 hãy suy nghĩ cẩn thận về vị trí của bạn. Tuy nhiên, những người hàng xóm của chúng tôi đã quay trở lại, và chúng tôi phải xoay người trả lại bến tàu và cầm đồ cho họ. “Đừng buồn,” Kolya nói với tôi, “bạn có thể chơi trò chơi này với sự trợ giúp của những viên sỏi.”
 

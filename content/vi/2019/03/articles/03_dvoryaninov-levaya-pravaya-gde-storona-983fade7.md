@@ -36,7 +36,7 @@ NHÀ THƠ NGA VASILY Ivanovich Sirotin SỐNG Ở THẾ KỲ 19. Hầu hết cô
 
 ⟦figure⟧
 
-Cơm. 1
+Hình 1
 
 Ngày hôm sau điều tương tự cũng xảy ra. Buổi tối, tàu điện ngầm, đến gần Lubyanka. Tôi đứng ở cửa chuẩn bị đi ra ngoài. Phía trên cửa có những cái tên thông thường, nhưng bây giờ trên sơ đồ, vì lý do nào đó, các trạm được chỉ định theo thứ tự khác (Hình 2). Anh nhìn lại, nhìn lại. Phía trên cửa đối diện là sơ đồ như Hình 1. Ở đây tên các ga giống như hình ảnh phản chiếu trong gương của Hình 2. Nhưng rồi tàu dừng, cửa mở và tôi bước ra sân ga. Và bây giờ - câu hỏi. Tại sao tên các ga trên các sơ đồ khác nhau lại nằm trong cùng một toa xe?
 
@@ -44,7 +44,7 @@ Ngày hôm sau điều tương tự cũng xảy ra. Buổi tối, tàu điện n
 
 ⟦figure⟧
 
-Cơm. 2
+Hình 2
 
 chúng có theo thứ tự khác nhau không? Đoàn tàu của tôi đã tiếp cận Lubyanka từ phía nào trong trường hợp Hình 1? Trạm trước đó là trạm nào: Chistye Prudy hay Okhotny Ryad? Và trong trường hợp của Hình 2? Chúng tôi khuyên độc giả nên ngừng đọc ngay bây giờ, hãy bật trí tưởng tượng không gian và suy nghĩ về những câu hỏi này. Để đề phòng, hãy để chúng tôi nhắc bạn rằng nếu một chuyến tàu chở khách có biển hiệu "Moscow-Samara" trên đó, thì chuyến tàu này sẽ đi từ Moscow đến Samara. Và trên đường trở về, trên cùng một toa xe sẽ có một tấm biển khác “Samara-Moscow”. Vâng, vẫn còn. Trên tuyến Sokolnicheskaya, tàu điện ngầm di chuyển bên phải. Tại mỗi ga, đi ra sân ga bên trái (có tính đến hướng đi của tàu). Và chúng tôi tiếp tục câu chuyện của mình. Suy ngẫm về những gì đã nói, người ta nên tính đến tâm lý của hành khách trên toa tàu điện ngầm. Tất nhiên, hành khách này muốn đến ga mong muốn càng nhanh càng tốt. Thỉnh thoảng anh ta liếc nhìn sơ đồ chuyển động, ghi nhớ trong đầu chuyển động của mình trên đó. Đương nhiên, các trạm phải được liệt kê từ trái sang phải - đây là cách chúng ta đọc và viết. Sơ đồ A - B - C nghĩa là chúng ta đã qua trạm A, sắp đến trạm B thì sẽ có C. Đồng thời sẽ dễ chịu hơn nếu sơ đồ
 
@@ -62,7 +62,7 @@ Và những ngọn đèn thắp sáng lờ mờ, Chúng không đứng yên. Th�
 
 Giả sử bạn cần thoát
 
-Cơm. 3
+Hình 3
 
 SH KOLNIK O V
 

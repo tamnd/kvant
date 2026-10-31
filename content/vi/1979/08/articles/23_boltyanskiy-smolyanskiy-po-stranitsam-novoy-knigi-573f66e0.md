@@ -79,13 +79,13 @@ Từ đây chúng ta có thể rút ra định lý góc nội tiếp (Định l�
 
 ⟦folio 56⟧
 
-Cơm. 10.
-Cơm. 13.
-Cơm. 16.
-Cơm. 11.
-Cơm. 14.
-Cơm. 17.
-Cơm. 12.
+Hình 10.
+Hình 13.
+Hình 16.
+Hình 11.
+Hình 14.
+Hình 17.
+Hình 12.
 
 Một dạng khác của định lý về góc nội tiếp và đường tròn trên đường tròn:
 Định lý về đường quay.
@@ -111,7 +111,7 @@ Một số đường thẳng chuyển động thành một vòng tròn.
 
 bài toán này liên quan chặt chẽ đến các bài toán 12*, 13* từ đoạn 111 của “Hình học 8”.
 
-Cơm. 19.
+Hình 19.
 
 Bài toán 5. Dọc theo một đường tròn đứng yên, chạm vào nó từ trong ra ngoài, không trượt thì đường tròn vào nhỏ hơn bán kính của nó. Chúng ta mô tả đường nào tại điểm K của vòng tròn chuyển động (Hình 14)?
 

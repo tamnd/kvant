@@ -66,7 +66,7 @@ Matematika
 
 ⟦folio 59⟧
 
-Cơm. 1.
+Hình 1.
 45 phút. - $2\sqrt{5}$ mllam, lúc 13:03 - $4\sqrt{2}$ mllam. Tìm khoảng cách tối thiểu giữa các tàu. (5 điểm)
 
 4. Có ba điểm $A, B, C$ trên một đường thẳng và điểm $C$ nằm giữa các điểm $A$ và $B$. Tìm tập hợp điểm $O$ sao cho đường phân giác của góc $AOB$ đi qua điểm $C$. (4 điểm)

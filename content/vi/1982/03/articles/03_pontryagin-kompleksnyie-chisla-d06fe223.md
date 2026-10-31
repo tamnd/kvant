@@ -81,7 +81,7 @@ Chúng ta hãy biểu thị mặt phẳng của bản vẽ của chúng ta bằn
 
 Độ dài của vectơ $z$ được gọi là modуlem của số phức $z =$
 
-Cơm. 1.
+Hình 1.
 
 ⟦folio 5⟧
 

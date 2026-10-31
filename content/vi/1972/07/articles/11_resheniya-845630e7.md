@@ -47,9 +47,9 @@ Có thể chứng minh, dựa trên các thông báo "liên tục", rằng tồn
 
 Làm thế nào để chính thức hóa những chứng minh như vậy một cách chặt chẽ được mô tả chi tiết trong cuốn sách “Những khái niệm đầu tiên về cấu trúc liên kết” của N. Stiniod và W. Chinn, một trong những cuốn sách hay nhất trong bộ sách nổi tiếng “Toán học hiện đại” (World, 1967).
 
-Cơm. 2. Đường màu đỏ chia đôi diện tích, đường màu xanh lam - chu vi.
+Hình 2. Đường màu đỏ chia đôi diện tích, đường màu xanh lam - chu vi.
 
-Cơm. 3. Hai đường cong liên tục - đỏ và xanh - phải giao nhau.
+Hình 3. Hai đường cong liên tục - đỏ và xanh - phải giao nhau.
 
 M109
 
@@ -69,7 +69,7 @@ Tương tự, chúng ta có thể giải bài toán a) và 6). Hãy nghĩ xem nh
 
 Cho các đỉnh của một $n$-giác đều được sắp xếp theo các điểm cộng và trừ, và phép cắt là đổi dấu đồng thời tại các đỉnh $k$ bất kỳ đứng thẳng hàng ($n$ và $k$ là các số tự nhiên, $k < n$); Sự sắp xếp nào của các dấu hiệu có thể thu được từ điều này và cái nào không thể?
 
-Cơm. 4.
+Hình 4.
 
 Trước tiên chúng ta hãy xem xét một trường hợp đặc biệt tổng quát hóa trực tiếp bài toán a)—c) $n$ chia hết cho $k$.
 

@@ -41,9 +41,9 @@ Gợi ý. Lợi dụng $v(t) = x'(t) = 2pt + q$ nên đồ thị vận tốc là
 
 Bài toán 2. Mỗi Hình 2, a-d trình bày sơ đồ biểu đồ về sự phụ thuộc thời gian của tọa độ $x(t)$ và gia tốc $a(t)$ của một điểm vật chất di chuyển dọc theo đường tọa độ theo quy luật tương tự như trong bài toán 1. Được biết, đã xảy ra lỗi khi xây dựng một số đồ thị gia tốc. Xác định hình ảnh nào
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
 ⟦folio 38⟧
 
@@ -59,9 +59,9 @@ Bài toán 4. Một điện tích chạy qua tiết diện của dây dẫn. Bi�
 
 ⟦folio 39⟧
 
-Cơm. 6.
+Hình 6.
 
-Cơm. 7.
+Hình 7.
 
 Gợi ý. Lợi dụng $v(t) = x'(t)$ và $x'(t)$ là hệ số góc của tiếp tuyến với đồ thị $x$ tại điểm $t$. Tất cả những gì còn lại là tìm $tg\alpha$ (xem Hình 6).
 

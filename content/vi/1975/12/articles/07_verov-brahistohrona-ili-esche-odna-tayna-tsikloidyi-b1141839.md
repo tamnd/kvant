@@ -36,7 +36,7 @@ Vào đầu thế kỷ 17, chàng trai trẻ Galileo đã cố gắng kiểm tra
 
 *) Về một số quan sát của Galileo liên quan đến chuyển động của một vật dọc theo các đoạn nghiêng, xem bài viết của S. G. Verov “Bí mật của họ Cyclopidae” (Bài toán Galileo), «Kvant», 1975, số 8.
 
-Cơm. 1.
+Hình 1.
 
 ⟦folio 30⟧
 
@@ -62,14 +62,14 @@ Năm 1650, Fermat đã đưa ra một cách giải thích đáng chú ý về đ
 
 ⟦folio 31⟧
 
-Cơm. 2.
+Hình 2.
 
 Fermat cho rằng đường đi của ánh sáng giữa hai điểm là đường đi mất ít thời gian nhất để truyền đi so với bất kỳ đường đi nào khác giữa những điểm này - ngày nay phát biểu này được gọi là “lý do Fermat”.
 Cụ thể, từ nguyên lý Fermat, nó suy ra rằng vì tốc độ ánh sáng trong môi trường đồng nhất là không đổi nên thời gian ngắn nhất truyền dọc theo đường đi có độ dài ngắn nhất. Theo đó, đường đi của ánh sáng trong một môi trường đồng nhất không có định trước là đường thẳng, cũng như định luật phản xạ.
 Nếu môi trường có mật độ thay đổi và tốc độ ánh sáng ở các phần khác nhau của nó là khác nhau thì đường truyền ánh sáng, mất ít thời gian nhất để truyền đi, sẽ không còn là đường thẳng nữa. Chúng ta hãy xem điều gì xảy ra trong trường hợp khúc xạ.
 (Tất cả những cân nhắc sâu hơn của chúng tôi đều đề cập đến trường hợp phẳng).
 
-Cơm. 3.
+Hình 3.
 
 Đường thẳng trống $l$ ngăn cách hai môi trường (trên mặt phẳng), trong đó tốc độ ánh sáng là $c_1$ và trong môi trường thứ hai - $c_2$; $A_1$ và $A_2$ là các điểm nằm đối diện nhau của $l$. Chúng ta hãy tìm trên $l$ một điểm $B$ sao cho $\frac{\sin \alpha_1}{\sin \alpha_2} = \frac{c_1}{c_2}$, trong đó $\alpha_1$ là góc tới, $\alpha_2$ là góc khúc xạ (xem Hình 3). Sự tồn tại và duy nhất của điểm $B$ như vậy được chứng minh dễ dàng. Trống $C$ — bất kỳ điểm nào khác của đường $l$. Chúng ta hãy loại bỏ các biến $CE$ và $CF$ thành $A_1B$ và $A_2B$ tương ứng.
 
@@ -83,7 +83,7 @@ Nó cũng tuân theo nguyên lý Fermat rằng trong một môi trường quang 
 
 ⟦folio 32⟧
 
-cơm. 4.
+hình 4.
 
 tạo thành theo chiều dọc, sau đó $\frac{\sin \alpha_j}{c_j} =$ const cho toàn bộ đường đứt nét.
 
@@ -97,7 +97,7 @@ trong đó $\alpha(y)$ biểu thị góc mà tiếp tuyến vẽ với đường
 
 Để chuyển sang bài toán về brachistochrone, bây giờ chúng ta đã thu được sự tương ứng (1) từ nguyên lý Fermat, chỉ sử dụng thực tế là tại một điểm cố định trong môi trường không đồng nhất của chúng ta, giá trị của tốc độ ánh sáng là cố định và không phụ thuộc vào hướng truyền ánh sáng (trong ví dụ của chúng ta, nó được xây dựng theo phương ngang). Tuy nhiên, như chúng tôi đã lưu ý ở trên, đối với một vật chỉ chuyển động dưới tác dụng của trọng lực, $|v(y)| = \sqrt{2gy}$, trong đó $y$ là đường thẳng đứng di chuyển, “sự mất mát” độ cao và chúng ta hiểu rằng trong bài toán độ lớn của vận tốc tại mỗi điểm cố định của mặt phẳng là cố định và không phụ thuộc vào đường chuyển động bắt nguồn từ đâu. Do đó, mọi kết luận từ nguyên lý Fermat đều có thể được áp dụng ở đây. Do đó, để đi từ điểm này đến điểm khác trong thời gian tối thiểu có thể, một điểm vật chất phải di chuyển dọc theo một đường như vậy $L$ nối hai điểm này (chúng ta giả sử rằng các điểm không nằm trên cùng một đường thẳng đứng),
 
-Cơm. 5. Lốc xoáy - đường cong mô tả một điểm nằm trên ranh giới của bán kính hình tròn $r$ lăn không trượt theo đường thẳng chỉ thị (trùng với trục $Ox$); $r$ được gọi là bán kính lốc xoáy. Theo định nghĩa, độ dài của cung $A_tB$ bằng độ dài của đoạn $A_0B$ mà cung này kéo dài dọc theo.
+Hình 5. Lốc xoáy - đường cong mô tả một điểm nằm trên ranh giới của bán kính hình tròn $r$ lăn không trượt theo đường thẳng chỉ thị (trùng với trục $Ox$); $r$ được gọi là bán kính lốc xoáy. Theo định nghĩa, độ dài của cung $A_tB$ bằng độ dài của đoạn $A_0B$ mà cung này kéo dài dọc theo.
 
 vì cái gì
 
@@ -130,7 +130,7 @@ Có thể chứng minh rằng đường cycloid là đường cong duy nhất th
 ⟦column⟧
 
 ⟦figure⟧
-Cơm. 6.
+Hình 6.
 
 (không nằm trên cùng một phương thẳng đứng), *đóng vai trò là một phần của vòm (hoặc cung) của một đường tròn xoáy ngược* (xem Hình 6) và tại điểm “trên” $A$ có *cạnh* của đường tròn này. Vì chúng ta chỉ đang xem xét cung đầu tiên (đầu tiên) của cycloid nên bán kính của nó $r$ tại điểm $B$ được xác định duy nhất.
 

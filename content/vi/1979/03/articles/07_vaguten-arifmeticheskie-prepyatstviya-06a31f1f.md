@@ -46,7 +46,7 @@ Hóa ra là {m; Mã n} có thể xuất hiện trong mọi trường hợp trong
 
 Phần hoàn chỉnh từ đáp số đến bài toán 1 được đưa ra ở cuối đoạn 3 (Bài tập 10). Bây giờ chúng ta sẽ giải quyết một vấn đề đơn giản hơn. Kết quả mà chúng tôi nhận được rất hữu ích cho cả bài toán về hiệp sĩ và cho toán học phía máy chủ hơn bài toán.
 
-Cơm. 1. {1; 3}-mã có thể đến ô liền kề (theo đường chéo) cùng màu; Với những bước như vậy, anh ta có thể bỏ qua tất cả các trường có trọng số đơn.
+Hình 1. {1; 3}-mã có thể đến ô liền kề (theo đường chéo) cùng màu; Với những bước như vậy, anh ta có thể bỏ qua tất cả các trường có trọng số đơn.
 
 ⟦folio 23⟧
 
@@ -90,7 +90,7 @@ Giả sử ban đầu có một củ khoai tây có một cặp số (1; 2). Có
 
 Bạn có thể nhận được những lá bài chung nào nếu ban đầu bạn có một củ khoai tây có một cặp số (a; b)?
 
-Cơm. 4. Mỗi “cuộc hành quân” ​​của cầu thang này là một bước của thuật toán Euclide.
+Hình 4. Mỗi “cuộc hành quân” ​​của cầu thang này là một bước của thuật toán Euclide.
 
 Hãy biểu thị các hoạt động mà máy tự động thực hiện lần lượt là L, R và S. Hãy bắt đầu lại với các ví dụ bằng số.
 
@@ -108,7 +108,7 @@ Bây giờ chúng ta có thể tạo đáp số cho câu hỏi chung cuối cùn
 
 ⟦folio 25⟧
 
-Cơm. 5. Sử dụng các thao tác L, R, S bạn có thể đổi dấu một số trên thẻ.
+Hình 5. Sử dụng các thao tác L, R, S bạn có thể đổi dấu một số trên thẻ.
 
 Hãy để chúng tôi chỉ ra lý do tại sao chúng tôi có thể chuyển từ bất kỳ cặp $(a; b)$ nào sang cặp $(d; 0)$. Lưu ý rằng nếu một trong các phần tử của cặp là âm thì nó có thể dễ dàng chuyển thành dương (Hình 5). Và cặp $(a; b)$ với tự nhiên và $b$ có thể được rút gọn thành cặp $(d; 0)$ theo cách tương tự mà chúng ta đã sử dụng trong các ví dụ: ở mỗi bước (ngoại trừ hoán vị đối xứng), phần tử lớn hơn của cặp sẽ bị giảm cho đến khi chúng ta đi đến bước cuối cùng $\rightarrow (d; d) \rightarrow (0; d) \rightarrow (d; 0)$.
 
@@ -123,7 +123,7 @@ Giải bài toán 3, chúng ta có một cách thuận tiện để tìm ước 
 
 Mạng nguyên $Z^2$ là tập hợp tất cả các điểm của mặt phẳng có tọa độ nguyên.
 
-Cơm. 6. “Rìa trái” $L(x; b) \rightarrow (x-b; b)$, “viền phải” $R(x; b) \rightarrow (x+b; b)$, “đối xứng” $S(x; b) \rightarrow (b; x)$ là các phép biến đổi tuyến tính của mặt phẳng thực hiện ánh xạ một-một của mạng số nguyên $Z^2$ lên chính nó.
+Hình 6. “Rìa trái” $L(x; b) \rightarrow (x-b; b)$, “viền phải” $R(x; b) \rightarrow (x+b; b)$, “đối xứng” $S(x; b) \rightarrow (b; x)$ là các phép biến đổi tuyến tính của mặt phẳng thực hiện ánh xạ một-một của mạng số nguyên $Z^2$ lên chính nó.
 
 ⟦folio 26⟧
 
@@ -179,15 +179,15 @@ Bây giờ chúng ta hãy tạo đáp số cho câu hỏi chung cuối cùng tro
 
 *) Xem thêm bài toán M516 từ Bài toán Kvant («Kvant», 1978, số 8).
 
-Cơm. 7. Sử dụng các phép toán I^q (tăng q), H (giảm một nửa), T (“chuyển đổi” chuyển tiếp) từ 519, chúng ta nhận được 150
+Hình 7. Sử dụng các phép toán I^q (tăng q), H (giảm một nửa), T (“chuyển đổi” chuyển tiếp) từ 519, chúng ta nhận được 150
 
-Cơm. 8. Số lớn b trên thẻ có thể giảm đi (d=b-a; a>1 hoặc a=1, b lẻ).
+Hình 8. Số lớn b trên thẻ có thể giảm đi (d=b-a; a>1 hoặc a=1, b lẻ).
 
 Trên thực tế, như chúng tôi đã nói (với d=7), từ các thẻ có hiệu chia hết cho số lẻ d, sử dụng các phép toán I, H, T, chỉ thu được các thẻ có cùng thuộc tính. Mặt khác, từ thẻ (a; b), trong đó b—a=2^md (d lẻ), bạn có thể chuyển sang thẻ (1; d+1). (Một bước của quá trình chuyển đổi như vậy được hiển thị trong Hình 8.) Sau khi nhận được thẻ (1; d+1), bạn có thể dễ dàng tạo bất kỳ thẻ nào (1; kd+1) (như
 
 ⟦folio 29⟧
 
-Cơm. 9. Rút gọn về dạng kinh điển. Đối với tất cả các phép biến đổi $L, R, S$ diện tích hình bình hành và vị trí của các nút của mạng số nguyên bên trong nó được giữ nguyên.
+Hình 9. Rút gọn về dạng kinh điển. Đối với tất cả các phép biến đổi $L, R, S$ diện tích hình bình hành và vị trí của các nút của mạng số nguyên bên trong nó được giữ nguyên.
 
 $\begin{pmatrix} 1 & 1 \\ 2 & 2 \end{pmatrix}$ sẽ tạo ra một ma trận có các cột giống hệt nhau $\begin{pmatrix} p & p \\ q & q \end{pmatrix}$.
 
@@ -205,7 +205,7 @@ d) Ma trận $\begin{pmatrix} 1 & 5 \\ 2 & 7 \end{pmatrix}$ và $\begin{pmatrix}
 
 ⟦folio 30⟧
 
-Cơm. 10. Trong hình bình hành của ma trận $(\begin{matrix} 1 & 1 \\ 0 & 3 \end{matrix})$ và $(\begin{matrix} 1 & 2 \\ 0 & 3 \end{matrix})$ vị trí các nút của mạng số nguyên là khác nhau.
+Hình 10. Trong hình bình hành của ma trận $(\begin{matrix} 1 & 1 \\ 0 & 3 \end{matrix})$ và $(\begin{matrix} 1 & 2 \\ 0 & 3 \end{matrix})$ vị trí các nút của mạng số nguyên là khác nhau.
 
 Vẫn còn phải tìm hiểu xem ma trận $(\begin{matrix} 1 & 1 \\ 0 & 3 \end{matrix})$ và $(\begin{matrix} 1 & 2 \\ 0 & 3 \end{matrix})$ có tương đương hay không. Hóa ra không phải vậy, mặc dù không dễ để chỉ ra mức độ ưu tiên ở đây. Ý nghĩa hình học của nó được thể hiện rõ ràng từ Hình 9 và 10.
 

@@ -50,7 +50,7 @@ a) một đường tròn hoặc một điểm hoặc một tập rỗng, nếu k
 
 b) một đường thẳng vuông góc với đoạn A₁A₂, nếu k₁ + k₂ = 0 (nhưng k₁ ≠ 0).
 
-Cơm. 1.
+Hình 1.
 
 ⟦folio 46⟧
 
@@ -78,7 +78,7 @@ Lời giải bài toán M174
 Theo Tuyên bố 3, chúng ta cần kiểm tra đẳng thức sau (xem Hình 1):
 $$(AB_1)^2 - (B_1C)^2 + (CA_1)^2 - (A_1B)^2 + (BC_1)^2 - (C_1A)^2 = 0.$$
 
-Cơm. 2.
+Hình 2.
 
 ⟦folio 47⟧
 
@@ -97,9 +97,9 @@ $$k_1(A_1M)^2 - k_1(A_2M)^2 = k$$
 tỷ lệ tương đương
 $$(A_1M)^2 - (A_2M)^2 = \frac{k}{k_1}$$.
 
-Cơm. 3.
+Hình 3.
 
-Cơm. 4. Hình 5.
+Hình 4. Hình 5.
 
 Gọi $D$ là hình chiếu của điểm $M$ lên đường thẳng $A_1A_2$. Khi đó, theo định lý Pythagore (xem hình 4, 5)
 $$(A_1M)^2 = (A_1D)^2 + (MD)^2,$$

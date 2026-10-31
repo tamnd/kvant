@@ -38,9 +38,9 @@ Chắc hẳn nhiều độc giả đã quen thuộc với trò chơi “góc” 
 
 Là bảng, chúng ta sẽ xem xét các hình chữ nhật tùy ý, được chia thành các phần bằng nhau
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
 hình vuông mới (xem hình ảnh). Chúng tôi sẽ chỉ ra vị trí ban đầu của các con chip bằng các vòng tròn màu đen và vị trí cuối cùng bằng các đường chấm chấm.
 
@@ -62,7 +62,7 @@ Hóa ra chuyển động cần thiết có thể được thực hiện trong 33
 
 ⟦folio 39⟧
 
-Cơm. 3.
+Hình 3.
 
 Vì cấu hình cần phải di chuyển 22 trường sang bên phải nên bạn có thể áp dụng kỹ thuật này 11 lần, tốn chính xác 33 lần di chuyển cho tất cả các lần di chuyển.
 

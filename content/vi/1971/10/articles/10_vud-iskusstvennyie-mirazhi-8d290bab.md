@@ -44,7 +44,7 @@ Là chất lỏng có chiết suất cao, khối lượng bị loại bỏ lớn
 
 ⟦folio 31⟧
 
-Cơm. 5.
+Hình 5.
 
 nhịp đập từ sưởi ấm. Tôi đã thành công rực rỡ khi sử dụng các tấm thạch cao đúc từ thạch cao (thạch cao nung) trên tấm kính dày, mặc dù những tấm này rất dễ vỡ và có tuổi thọ ngắn. Có lẽ những thanh đá phiến (đá phiến lợp) sẽ rất tốt vì chúng có thể chịu được khá nhiều nhiệt và có thể làm phẳng, nhẵn.
 
@@ -56,4 +56,4 @@ Sau đó, các tấm được làm nóng bằng cách sử dụng đầu đốt 
 
 Nếu bây giờ chúng ta nhìn dọc theo sa mạc cao hơn mặt cát một chút, chúng ta sẽ thấy rõ những ngọn núi nổi bật trên nền trời: khi nhiệt độ tăng lên, axero bắt đầu hình thành phía trước dãy núi và
 
-Cơm. 6.
+Hình 6.

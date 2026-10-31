@@ -47,7 +47,7 @@ Lực ma sát trượt phụ thuộc vào vật liệu của vật thể và tr�
 
 ⟦folio 10⟧
 
-Cơm. 1.
+Hình 1.
 
 Lực ma sát khô là một hàm của tốc độ trong trường hợp này được biểu diễn trong Hình 1. Trong đàn violin, lực ma sát giữa dây cung và dây có đặc điểm chính xác như vậy. Mặt cắt dọc ở $v=0$ tương ứng với ma sát nghỉ mỏng. Nếu tốc độ tương đối của dây và cung $v$ tương ứng với phần rơi $0<v<v_0$, thì việc tăng tốc độ tương đối lên một giá trị nhỏ nhất định $\Delta v$ tương ứng với sự giảm ma sát mỏng và ngược lại, khi tốc độ giảm thì sự thay đổi tương ứng của ma sát mảnh là dương (xem Hình 1). Như bạn có thể thấy bây giờ, chính nhờ khả năng này mà năng lượng của dây có thể tăng lên do công của ma sát khô mỏng.
 
@@ -57,7 +57,7 @@ $$F = 2T_0 \sin \alpha = \frac{4T_0}{l} x,$$
 
 trong đó $l$ là độ dài của chuỗi và $T_0$ là sự hợp nhất của chuỗi, có thể được coi là không đổi đối với những sai lệch nhỏ. Do đó, khi dây chuyển động cùng với dây cung, sự hợp nhất $F$ sẽ tăng lên, và tại thời điểm nó bằng với sự hợp nhất cực đại của phần đứng yên $F^0_{tp}$, thì sự trượt bắt đầu.
 
-Cơm. 2.
+Hình 2.
 
 Bây giờ, để đơn giản, chúng ta sẽ giả sử rằng tại thời điểm bắt đầu trượt, sự thay đổi độ ma sát mỏng xảy ra đột ngột: nó giảm từ giá trị cực đại của ma sát mỏng khi đứng yên xuống giá trị ma sát mỏng nhỏ khi trượt. Nói cách khác, sau khi bắt đầu trượt, chuyển động của dây có thể coi là gần như tự do.
 
@@ -106,7 +106,7 @@ Kiến thức về định luật lực ma sát giúp giải quyết các vấn 
 ⟦folio 13⟧
 
 ⟦figure⟧
-Cơm. 4.
+Hình 4.
 
 Ví dụ, để chống rung, người ta sử dụng phương pháp mài dao đặc biệt để phoi không bị trượt. Điều này giúp loại bỏ nguyên nhân gây dao động.
 
@@ -162,7 +162,7 @@ Nguồn điện xoay chiều $P = (\Delta i_\pi)^2 r = (\Delta U_\pi)^2 / r$ ở
 
 ⟦folio 15⟧
 
-Cơm. 6, A.
+Hình 6, A.
 
 đặc tính dòng điện-điện áp giảm tăng theo thời gian.
 
@@ -176,7 +176,7 @@ Chuyển số hạng $iR$ sang vế phải, ta thấy điện áp trên cung $U(
 
 Có thể thấy, về nguyên tắc, có hai giao điểm và theo đó, có thể có hai giá trị dòng điện $i_1$ và $i_2$ trong mạch. Cả hai hiện tại có ổn định không?
 
-Cơm. 6, b.
+Hình 6, b.
 
 Khi xuất hiện dòng điện xoay chiều, biên độ của nó trên hồ quang và trên điện trở $R$ giống nhau (chúng được mắc nối tiếp). Do đó, so sánh năng lượng sinh ra ở điện trở âm của hồ quang $(\Delta i_\pi)^2r$ và tổn thất năng lượng do sức cản chung $(\Delta i_\pi)^2R$, ta thấy điều kiện để tăng dao động sẽ là $|r| > R$. Bây giờ chúng ta quay lại Hình 6, b. Dễ dàng nhận thấy rằng với hiện tại $i_1$ cung có điện trở âm lớn hơn ở giá trị abscille so với $R$ (độ dốc của tiếp tuyến lớn hơn độ dốc của đường thẳng) và điều kiện xảy ra dao động được thỏa mãn. Hiện tại $i_2$, ngược lại, $R > |r|$và dao động không thể xảy ra. Vì vậy, chúng ta có thể nói rằng hồ quang sẽ cháy ổn định nếu trở kháng mạch dương.
 

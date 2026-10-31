@@ -49,9 +49,9 @@ $$F(x) - f(x), \quad x \in [a, b]$$
 
 Bây giờ chúng ta hãy xem xét một số ví dụ.
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
 ⟦folio none⟧
 
@@ -113,19 +113,19 @@ $$S(t) = \begin{cases} a(t-nT)^2 + n\frac{aT^2}{2}, \\ t \in [nT, \frac{T}{2} + 
 ⟦folio 57⟧
 
 ⟦figure⟧
-Cơm. 5.
+Hình 5.
 
 ⟦figure⟧
-Cơm. 6.
+Hình 6.
 
 ⟦figure⟧
-Cơm. 7.
+Hình 7.
 
 ⟦figure⟧
-Cơm. 8.
+Hình 8.
 
 ⟦figure⟧
-Cơm. 9.
+Hình 9.
 
 ⟦column⟧
 Nếu chúng ta biến đổi phần thứ hai như thế này:

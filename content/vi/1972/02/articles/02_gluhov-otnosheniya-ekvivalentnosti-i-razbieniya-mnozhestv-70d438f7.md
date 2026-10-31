@@ -87,7 +87,7 @@ Vì vậy, nếu chúng ta muốn tìm hiểu xem liệu quan hệ $\Theta$ có 
 
 Ví dụ, tập hợp tất cả các đường tròn của một mặt phẳng rơi vào lớp đường tròn đồng tâm, vì mối quan hệ đồng tâm của các đường tròn là phản xạ, đối xứng và bắc cầu. (Đồng thời, chúng tôi tự nhiên tin rằng
 
-**Cơm. 3.**
+**Hình 3.**
 
 mọi đường tròn đều đồng tâm với chính nó.) Người ta cũng xác minh rất đơn giản rằng mối quan hệ đồng dạng của các tam giác là phản xạ, đối xứng và bắc cầu. Do đó, tập hợp tất cả các tam giác được chia thành các lớp tam giác đồng dạng.
 

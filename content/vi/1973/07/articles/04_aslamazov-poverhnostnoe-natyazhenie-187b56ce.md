@@ -33,7 +33,7 @@ Các quá trình căng thẳng bề mặt của chất lỏng trong tự nhiên 
 Năng lượng bề mặt
 Các phân tử nằm trong lớp chất lỏng mỏng gần bề mặt ở trong điều kiện đặc biệt. Chúng có những hàng xóm giống hệt nó chỉ ở một mặt của bề mặt, trái ngược với các phân tử bên trong chất lỏng, được bao quanh tất cả các mặt bởi cùng một phân tử. Do đó, lực tác dụng lên phân tử ở lớp bề mặt khác 0. Ví dụ, trên bề mặt tự do của chất lỏng (Hình 1), lực này hướng vào bên trong chất lỏng.
 
-Cơm. 1.
+Hình 1.
 
 ty, vì một phân tử trên bề mặt chịu lực hút từ các phân tử chất lỏng lớn hơn đáng kể so với từ các phân tử không khí.
 
@@ -43,7 +43,7 @@ Người ta biết rằng trong tất cả các trạng thái có thể có củ
 
 ⟦folio 12⟧
 
-Cơm. 2.
+Hình 2.
 
 Xu hướng sức căng bề mặt làm giảm bề mặt của chất lỏng thường bị phản tác dụng bởi các lực khác. Ví dụ, một giọt chất lỏng hầu như không bao giờ là hình cầu, mặc dù hình cầu có diện tích bề mặt nhỏ nhất trong tất cả các hình đối với một thể tích nhất định. Khi một giọt tích tụ trên một bề mặt nằm ngang cố định, nó sẽ trở nên dẹt. Một giọt nước rơi trong không khí cũng có hình dạng phức tạp. Và chỉ một giọt không trọng lượng mới có hình dạng hình cầu hoàn hảo.
 
@@ -91,13 +91,13 @@ Một quả bóng không phải là hình dạng duy nhất mà bụi xà phòng
 
 ⟦folio 14⟧
 
-Cơm. 3.
+Hình 3.
 
 Áp suất dư thừa bên trong một bong bóng như vậy là gì? Một bề mặt hình trụ có độ cong khác nhau theo các hướng khác nhau. Dọc theo đường sinh của hình trụ, độ cong bằng 0 (đường sinh là đường thẳng) *), và ở tiết diện vuông góc với trục hình trụ, độ cong của nó bằng 1/R, trong đó R là bán kính của hình trụ. Chúng ta nên thay thế giá trị nào của p vào công thức trước? Hóa ra, sự chênh lệch áp suất ở các mặt khác nhau của bất kỳ bề mặt nào được xác định bởi độ cong trung bình của nó. Những số lượng này là gì?
 
 *) Độ cong của đường cong phẳng là gì? Độ cong của hình tròn được xác định giống như độ cong của hình cầu: $\rho_{\text{окр}} = 1/R$, trong đó R là bán kính của hình tròn. Tuy nhiên, nếu đường cong không phải là đường tròn thì các phần nhỏ riêng lẻ của nó có thể được coi là gần đúng các cung của các đường tròn có bán kính nhất định. Nghịch đảo của các bán kính này được gọi là độ cong của đường cong phẳng tại các điểm khác nhau của nó.
 
-Cơm. 4.
+Hình 4.
 
 Chúng ta vẽ pháp tuyến lên bề mặt tại điểm A của mặt phẳng. Các mặt cắt của bề mặt hình trụ bởi các mặt phẳng này (chúng được gọi là các mặt cắt bình thường) có thể là hình tròn, hình elip hoặc đường thẳng (Hình 4). Dễ dàng nhận thấy độ cong của các mặt cắt này tại điểm A là khác nhau: độ cong lớn nhất có tiết diện là hình tròn, còn độ cong nhỏ nhất bằng 0 là đường thẳng (tiết diện dọc). Độ cong trung bình $\rho_{\text{сред}}$ được xác định là kết quả của độ cong tối đa và tối thiểu của các phần bình thường:
 
@@ -113,7 +113,7 @@ Như bạn có thể thấy, bong bóng hình trụ có áp suất dư - giống
 
 ⟦folio 18⟧
 
-Cơm. 9.
+Hình 9.
 
 Trên thực tế, trên một đơn vị chiều dài của vòng tròn mà nước tiếp xúc với thành bình, chỉ có ba lực căng bề mặt tác dụng: $\sigma_{2-3}$ - sức căng bề mặt ở ranh giới giữa không khí và nước, $\sigma_{1-2}$ - sức căng ở ranh giới của nước và ngăn xếp, và $\sigma_{3-1}$ - sức căng ở ranh giới của ngăn xếp với không khí. Ở trạng thái cân bằng, bề mặt của chất lỏng tạo thành một góc tiếp xúc với tường sao cho hợp lực của ba lực này không có thành phần dọc theo tường: $\sigma_{1-3} = \sigma_{1-2} + \sigma_{2-3}\cos\theta$ (thành phần vuông góc được cân bằng bởi phản lực của tường). Đó là lý do tại sao
 

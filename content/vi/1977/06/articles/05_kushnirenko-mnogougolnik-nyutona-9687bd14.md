@@ -72,7 +72,7 @@ Chúng ta thấy rằng Newton áp dụng thước đo cho đa giác $\Delta(P)$
 
 Xét bao lồi của đa giác $\Delta(P)$, tức là đa giác lồi nhỏ nhất chứa tất cả các điểm $\Delta(P)$. Chúng ta sẽ ký hiệu đa giác này bằng $F(P)$ và gọi nó là đa giác Newton của đa thức $P(x, y)$. Đa giác Newton của đa thức (2) được thể hiện trên Hình 3. Mối liên hệ của đa giác $F(P)$ với phương pháp áp dụng thước kẻ của Newton là hoàn toàn rõ ràng. Nếu bạn áp dụng thước cho bất kỳ cạnh nào của đa giác Newton thì các tính chất (I) và (II) sẽ được đáp ứng. Ngược lại, nếu áp dụng thước cho đa giác $\Delta(P)$ sao cho (I) và (II) thỏa mãn, thì thước nhất thiết phải đi dọc theo một trong các cạnh của đa giác $F(P)$.
 
-Cơm. 3.
+Hình 3.
 
 Một số bài tập đơn giản về đa giác Newton
 
@@ -129,7 +129,7 @@ Trong đa giác Newton, đa thức (2) có các cạnh $\gamma_1$ và $\gamma_2$
 
 *) Tên tầm thường lời giải có dạng $x = 0$ hoặc $y = 0$.
 
-Cơm. 4.
+Hình 4.
 
 ⟦folio 23⟧
 
@@ -149,9 +149,9 @@ $$\begin{cases} P(x, y) = 0, \\ Q(x, y) = 0, \end{cases}$$
 
 (4)
 
-Cơm. 5.
+Hình 5.
 
-Cơm. 6.
+Hình 6.
 
 trong đó $P$ và $Q$ là các đa thức có hệ số thực. Nếu $P$ và $Q$ là đa thức bậc một *), thì số lời giải của hệ (4) là vô hạn hoặc không vượt quá 1. Nếu $P$ là đa thức bậc một và $Q$ là đa thức bậc $N$, thì dễ thấy, số lời giải của hệ thống (4) là vô hạn hoặc không vượt quá $2 \cdot N$. Sau những ví dụ này, người đọc sẽ không ngạc nhiên về cách hình thành một định lý đã nổi tiếng ở thế kỷ trước.
 

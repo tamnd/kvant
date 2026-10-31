@@ -73,11 +73,11 @@ $$f(x) = \begin{cases} b & \text{при } x \in [a; (a+b)/2] \\ a & \text{при
 
 3. Ví dụ, một vòng tròn và nó quay quanh tâm một góc không chia hết cho 2π.
 
-Cơm. 1a.
+Hình 1a.
 
-Cơm. 16.
+Hình 16.
 
-Cơm. 2.
+Hình 2.
 
 4. Ví dụ: $P^{-1}T_vP$, trong đó $T_v$ là bản dịch song song của mặt phẳng $a$ lên vectơ khác 0 $\vec{v}$ và $P$ là ánh xạ một-một của đường tròn $K$ lên mặt phẳng $a$, như trong Hình 2.
 
@@ -238,9 +238,9 @@ hoặc $v_0 \in \{5, 10\}$. Giá trị $v_0 = 5$ không thỏa mãn các điều
 
 ⟦folio 62⟧
 
-Cơm. 7.
+Hình 7.
 
-Cơm. 8.
+Hình 8.
 
 $$2x + \frac{\pi}{3} = 2 \left( x - \frac{\pi}{3} \right) + \pi.$$
 
@@ -269,7 +269,7 @@ Tùy chọn 2
 
 1. Chúng ta sẽ tìm khoảng cách cần thiết $l$ so với định luật bảo toàn năng lượng, nó sẽ đi vào hệ thống báo cáo, nơi mặt phẳng tích điện sẽ tích tụ:
 
-Cơm. 9.
+Hình 9.
 
 ⟦folio 63⟧
 

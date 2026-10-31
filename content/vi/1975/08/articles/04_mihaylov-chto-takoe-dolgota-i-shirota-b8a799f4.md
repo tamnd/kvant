@@ -57,7 +57,7 @@ các đường dây quấn lệch cả hai hướng so với các mặt cắt b�
 
 Tọa độ địa lý từ các quan sát thiên văn chính xác đến mức nào? Tất cả phụ thuộc vào mục đích của các định nghĩa như vậy. Tọa độ của các đài quan sát thiên văn được xác định chính xác hơn, vĩ độ được biết với độ chính xác 0°′,1 và kinh độ - thời gian lên tới 0,01 giây. Để ước tính những giá trị này, theo đó, 1” cung kinh tuyến tương ứng với 31 m trên bề mặt trái đất, 0°′,1 giây thời gian ở xích đạo bằng 46 m, và ở các vĩ độ trung bình, con số này gần bằng một nửa. Do đó, độ chính xác được chỉ định tương ứng với khoảng 3 m trên Trái đất. Vì vậy, chẳng hạn, nếu nói vĩ độ của Đài thiên văn Paris là 48°50′11″.2 và kinh độ phía Đông là 0°9′20″.93 là chưa đủ.
 
-Cơm. 1. Vĩ độ địa lý của một điểm nhất định - góc giữa các nhánh của đường thẳng tại điểm đó và mặt phẳng xích đạo - bằng độ cao góc của thiên cực so với mặt phẳng đường chân trời địa phương.
+Hình 1. Vĩ độ địa lý của một điểm nhất định - góc giữa các nhánh của đường thẳng tại điểm đó và mặt phẳng xích đạo - bằng độ cao góc của thiên cực so với mặt phẳng đường chân trời địa phương.
 
 Mặt phẳng ngang được xác định thực tế bởi bề mặt tự do trong bình, bong bóng trong ống cấp độ cồn hoặc hướng vuông góc với các lỗ thẳng tại một vị trí nhất định. Một hướng khác - tới thiên cực - được tìm thấy từ các quan sát thiên văn. Cực thiên nằm ở giữa các điểm của kulimina trên và dưới của bất kỳ ngôi sao gần cực nào.
 
@@ -128,4 +128,4 @@ Ngôi sao nào vượt qua kinh tuyến thiên đường hai lần mỗi ngày; 
 
 Thời điểm Mặt trời đạt cực đỉnh được gọi là thời điểm trọn vẹn thực sự, thời điểm Mặt trời đạt cực điểm dưới được gọi là nửa đêm thực sự.
 
-Cơm. 1. Hình 2.
+Hình 1. Hình 2.

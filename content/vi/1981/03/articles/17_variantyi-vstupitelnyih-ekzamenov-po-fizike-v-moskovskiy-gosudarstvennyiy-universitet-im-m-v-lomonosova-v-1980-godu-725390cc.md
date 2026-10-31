@@ -70,11 +70,11 @@ Lời giải. Phương trình tiếp tuyến của đồ thị hàm số $y(x) =
 $$y = \sqrt[3]{c^2} + \frac{2}{3\sqrt{c}} (x - c).$$
 Đường thẳng cắt trục x tại điểm $x = -\frac{c}{2}$. Diện tích tam giác $ABC$ (Hình 2) bằng $S(c) = \frac{1}{2} |AB| \cdot |BC| =$
 
-Cơm. 1.
+Hình 1.
 
 ⟦folio 52⟧
 
-Cơm. 2.
+Hình 2.
 
 $$\frac{1}{2} \left( 2 + \frac{c}{2} \right) \cdot \left( \sqrt[3]{c^2} + \frac{2}{3\sqrt{c}} (2 - c) \right) = \frac{(c+4)^2}{12\sqrt{c}}.$$
 
@@ -285,7 +285,7 @@ Khoa Vật lý
 
 ⟦folio 55⟧
 
-Cơm. 7. Hình 8.
+Hình 7. Hình 8.
 
 8. Ở khoảng cách $a=10$ cm với nhau, các thanh ray ngang được đặt bằng một thanh đồng có thể lăn dọc theo chúng. Các đường ray được nối với pin có lực điện động $\delta=3$ V và điện trở trong $r=5$ ohm; Một từ trường được tạo ra vuông góc với mặt phẳng của đường ray. Xác định cảm ứng $|\vec{B}|$ của từ trường mà tại đó thanh sẽ chuyển động với tốc độ ổn định nhất và tốc độ này $|\vec{v}_{\text{mah}}|$. Bỏ qua điện trở của ray và thanh; Lực cản lại chuyển động của thanh được coi bằng $|\vec{F}|=0,06$ N ($\vec{F}$ là lực cơ học).
 
@@ -313,7 +313,7 @@ Khoa Cơ học và Toán học và Khoa Toán tính toán và Điều khiển h�
 
 ⟦folio 56⟧
 
-Cơm. 12. Hình 13.
+Hình 12. Hình 13.
 
 nước, nhìn thấy một đồng xu nằm dưới đáy cách mình $l=0,5$ m so với thực tế? Chỉ báo nạp nước $n=1,3$.
 

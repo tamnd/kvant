@@ -46,11 +46,11 @@ $$R = \frac{2dl_1}{l} = 7,5$$ mm.
 
 2. Trong một căn phòng tối, cách bạn khoảng một polymet, hãy ngồi đối tác của bạn và yêu cầu anh ta, không nhìn lên, nhìn, chẳng hạn như bằng mắt trái, vào một vật thể nào đó nằm ở khoảng cách vài mét phía sau bạn. Bên cạnh mắt anh ta, cách khoảng 10-20 cm, đặt một bóng đèn làm đèn pin rồi thắp sáng. Bằng mắt phải, bạn sẽ nhìn thấy ngay một hình ảnh nhỏ, khá sáng của một bóng đèn trên đồng tử của mắt đối phương.
 
-Cơm. 1.
+Hình 1.
 
 ⟦folio 24⟧
 
-Cơm. 2.
+Hình 2.
 
 Di chuyển bóng đèn lên xuống, sang phải và trái (trong khi đối tác của bạn phải liên tục nhìn vào vật ở xa và không di chuyển mắt theo bóng đèn). Nếu quan sát cẩn thận, bạn sẽ nhận thấy thêm hai hình ảnh nữa, mặc dù yếu hơn nhiều, trong đồng tử: lớn hơn và nhỏ hơn so với hình ảnh đầu tiên.
 
@@ -76,9 +76,9 @@ Chà, họ quá yếu). Hình 4a thể hiện dưới dạng sơ đồ cả ba h
 
 Bây giờ hãy yêu cầu đối tác của bạn nhìn vào một vật thể gần đó bằng mắt đang được kiểm tra. Bạn sẽ thấy hình ảnh bóng đèn thứ hai được tạo ra bởi mặt trước của ống kính gần nhau hơn nhiều (Hình 4, 6). Những hình ảnh đầu tiên được chụp từ bề mặt trước của giác mạc sẽ có khoảng cách gần như nhau, và những hình ảnh thứ ba được tạo ra bởi bề mặt sau của thấu kính, hình ảnh được tạo ra bởi bề mặt trước của thấu kính sẽ giảm đi một chút, hình ảnh được tạo ra bởi bề mặt trước của giác mạc sẽ giảm đi một chút. Từ đó chúng ta có thể kết luận: việc điều chỉnh mắt ở khoảng cách gần hơn xảy ra chủ yếu do sự giảm
 
-Cơm. 3.
+Hình 3.
 
-Cơm. 4.
+Hình 4.
 
 giảm bán kính cong của bề mặt trước của thấu kính.
 

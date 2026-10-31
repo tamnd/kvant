@@ -63,7 +63,7 @@ Một parabol không chỉ “giống” một đường thẳng gần bất k�
 Hình 2 thể hiện một hình vuông có độ dài cạnh $a$; diện tích $y$ như vậy
 
 ⟦figure⟧
-Cơm. 1. *a)* *b)* *c)*
+Hình 1. *a)* *b)* *c)*
 
 ⟦folio 11⟧
 
@@ -88,7 +88,7 @@ Ví dụ: mức tăng của hàm $y=x^3$ khi di chuyển từ điểm $a$ đến
 $$\Delta y=(a+\Delta x)^3-a^3=
 =3a^2 \cdot \Delta x+3a \cdot (\Delta x)^2+(\Delta x)^3.$$ (2)
 
-Cơm. 2.
+Hình 2.
 
 Các từ “tăng đối số” và “tăng hàm” là lừa đảo: có vẻ như cả đối số và hàm đều tăng lên. Trên thực tế, cả $\Delta x$ và $\Delta y$ đều có thể là số âm. Có lẽ sẽ tốt hơn nếu nói “thay đổi” cùng với “tăng dần”, nhưng chúng ta sẽ sử dụng thuật ngữ truyền thống.
 
@@ -209,7 +209,7 @@ $$\vec{r}(t) = x(t)\,\vec{i} + y(t)\,\vec{j}.$$
 Tốc độ tức thời của điểm $M$ được xác định theo cách tương tự như trong trường hợp chuyển động thẳng: lấy
 
 ⟦figure⟧
-Cơm. 6
+Hình 6
 
 ⟦folio 17⟧
 
@@ -221,7 +221,7 @@ $$\vec{v}_{mfr} = \lim_{\Delta t \to 0} \vec{v}_{cp} = \lim_{\Delta t \to 0} \fr
 
 Nói cách khác, vectơ trao đổi
 
-**Cơm. 7.**
+**Hình 7.**
 
 skorisi là đạo hàm của hàm vectơ $\vec{r}(t)$. Ngoài ra, nó có thể được viết như thế này:
 

@@ -80,15 +80,15 @@ Tìm gia tốc trọng trường $g$.
 
 3. Hình 3 cho thấy hai mạch điện bao gồm
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
 các điện trở đã biết $R$ và $2R$ và các điện trở chưa biết $r$. Tại giá trị nào $r$ điện trở của cả hai mạch, thay đổi giữa các điểm $A$ và $B$, là như nhau và tổng điện trở của các mạch này là bao nhiêu?
 
 4. Một xô nước rơi tự do vào nhà Visa. Có lỗ ở thành bên và đáy xô. Liệu nước có chảy ra qua những lỗ này nếu xô rơi xuống không? Bỏ qua sức cản của không khí.
 
-Cơm. 3.
+Hình 3.
 
 ⟦folio 64⟧
 
@@ -104,7 +104,7 @@ Cơm. 3.
 
 10. Khi đun nóng 7 g nitơ đặt trong một hình trụ dưới một pít-tông đặt tải không đổi thì đã tiêu tốn 26 cal nhiệt lượng. Hỏi khí nóng lên đến nhiệt độ bao nhiêu nếu nhiệt độ ban đầu của nó là 10°C? Nhiệt dung của một gam phân tử nitơ ở thể tích không đổi là 5 cal/mol độ.
 
-Cơm. 4.
+Hình 4.
 
 Bài toán mở đầu
 

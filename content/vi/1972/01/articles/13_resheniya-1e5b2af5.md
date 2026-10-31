@@ -42,7 +42,7 @@ II. Theo tính chất đường phân giác $BD/DA = BC/CA = \frac{2}{3}$. Hãy 
 
 III. (Trong hai thống kê “Phương pháp diện tích” «Kvant» Số 12, 1971, trang 41). Đặt $\Rightarrow BCD = \Rightarrow ACD = \alpha$, sau đó (Hình 3) $S_{\triangle ACD} + S_{\triangle BCD} = S_{\triangle ABC} \langle = \rangle al \sin \alpha + bl \sin \alpha = ab \sin 2\alpha,$
 
-cơm. 1. Hình 2. Hình 3.
+hình 1. Hình 2. Hình 3.
 
 ⟦folio 40⟧
 
@@ -104,7 +104,7 @@ Hai điểm $P$ và $Q$ chuyển động dọc theo hai đường thẳng cắt 
 
 Gọi $O$ là giao điểm của những đường này; $P_0$ và $Q_0$ là vị trí của điểm tại thời điểm đó $t_0$, khi chúng ở cùng khoảng cách với điểm $O$ ($t_0$ chính xác là ở giữa thời điểm điểm này và điểm kia đi qua điểm $O$); $A$ là giao điểm của các đường vuông góc với các đường thẳng đã cho, được khôi phục lần lượt tại các điểm $P_0$ và $Q_0$.
 
-**Cơm. 6.**
+**Hình 6.**
 
 Hãy chứng minh rằng điểm $A$ cũng chính là điểm cố định có sự tồn tại khẳng định trong điều kiện.
 
@@ -138,7 +138,7 @@ Trên đường vành đai tự động có một số đường tự động gi
 
 ![Diagram](image)
 
-Cơm. 7.
+Hình 7.
 
 M83
 
@@ -196,7 +196,7 @@ $$A = \frac{m}{\mu} RT \left( \frac{n - 1}{n} \right).$$
 
 bài toán này hóa ra lại dễ dàng và lời giải chính xác của nó đã được hơn 70 độc giả của tạp chí chúng tôi gửi.
 
-Cơm. 8.
+Hình 8.
 
 ⟦folio none⟧
 
@@ -208,9 +208,9 @@ Biến trở $R_1$ ít ảnh hưởng đến điện áp trên thiết bị. Do 
 
 Thật vậy, nếu chiều dài của biến trở bằng $l$ và độ chính xác trong việc đặt biến trở là $\Delta l$ thì độ chính xác về điện trở của biến trở $R_2$ bằng $\Delta l \frac{R_2}{l} = \frac{\Delta l}{l} R_2$ và độ chính xác
 
-Cơm. 9.
+Hình 9.
 
-Cơm. 10.
+Hình 10.
 
 Độ chính xác trong việc cài đặt điện trở của biến trở $R_1$ bằng $\frac{\Delta l}{l} R_1 = \frac{1}{10} \frac{\Delta l}{l} R_2$, tức là kém hơn 10 lần so với độ chính xác khi cài đặt điện trở của biến trở $R_2$. Do đó, với chiến thuật mà chúng ta đã nói đến, có thể chọn điện trở của các biến trở chính xác hơn gấp 10 lần so với khi chỉ sử dụng một điện trở $R_2$. Điện áp rơi trên các biến trở và điện áp rơi trên thiết bị sẽ được xác định chính xác hơn nhiều.
 

@@ -131,7 +131,7 @@ $$\omega = \sqrt{\frac{p_0}{qlb} \left(1 - \frac{d}{b}\right)} \approx 25 \text{
 5. Công do trọng lực thực hiện bằng
 $$A = mgh,$$
 
-Cơm. 7.
+Hình 7.
 
 trong đó $h = gt^2/2$ là độ cao của quả bóng rơi. Chúng ta sẽ tìm thời gian $t$ bằng cách xét chuyển động của quả bóng trong điện trường:
 $$d = \frac{at^2}{2}, a = \frac{qU}{md}.$$
@@ -246,7 +246,7 @@ Tùy chọn 2
 4. $A = p_0V \Delta t / T$.
 5. $Q = \frac{m_1v_1^2}{2} \left(1 - \frac{m_1}{m_2}\right) = 25$ J.
 
-Cơm. 8. Hình 9.
+Hình 8. Hình 9.
 
 Nhiệm vụ thi vấn đáp
 1. $v = v_0 \sqrt{\frac{\sin \alpha - \mu \cos \alpha}{\sin \alpha + \mu \cos \alpha}} \approx 0,84$ m/c.
@@ -261,7 +261,7 @@ Có bao nhiêu nước trong các bình?
 (cm. «Kvant» № 1)
 1. Nếu “phần số” của số là $ab - cd$ thì điều kiện bài toán được viết là $10a + b + c + d = a + b + 10c + d = 100$. Từ đẳng thức đầu tiên nó theo sau $a = c$; bây giờ đẳng thức thứ hai được viết là $11a + b + d = 100$. Rõ ràng số $a$ chỉ có thể bằng 8 hoặc 9. Với $a = 9$ $b + d = 1$; do đó, trong trường hợp này nó có 2 lời giải: 90–91 và 91–90. Nếu $a = 8$ thì $b + d = 12$ và chúng ta nhận được thêm 7 lời giải: 83-89, 84-88, 85-87, 86-86, 87-85, 88-84 và 89-83.
 
-Cơm. 10.
+Hình 10.
 2. Đáp số:
 $\times 5734$
 $\times 5327$

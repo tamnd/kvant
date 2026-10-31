@@ -52,7 +52,7 @@ Nhưng thật không may, họ không cho anh ngủ đến phút cuối cùng; h
 
 ⟦folio 56⟧
 
-Cơm. 2.
+Hình 2.
 có ít nhất một điểm có tọa độ nguyên. Phát biểu tương tự có đúng đối với hình ngũ giác không lồi không?
 5. Giải hệ phương trình:
 $$\begin{cases} 4x^2 - 3y = xy^3, \\ x^2 + x^3y^2 = 2y. \end{cases}$$

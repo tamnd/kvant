@@ -37,7 +37,7 @@ M354. Có thể xét các số 1, 2, 3, ..., $4n + 2$ tại các đỉnh và tru
 
 Chúng ta hãy xem xét trường hợp $n = 3, n = 8$ làm ví dụ,
 
-Cơm. 1.
+Hình 1.
 
 Đáp số. Có thể.
 
@@ -104,9 +104,9 @@ I. Klumova
 
 M358. Chứng minh rằng bất kỳ n đường chéo nào ($n \geqslant 4$) đều có ít nhất một đường chéo nằm hoàn toàn bên trong đường thẳng n và tìm ra số đường chéo nhỏ nhất mà một đường thẳng n có thể có là bao nhiêu ($n$ mỗi đường chéo $n$).
 
-Cơm. 4.
+Hình 4.
 
-Cơm. 5
+Hình 5
 
 Trước hết, chúng ta lưu ý rằng tất cả các đường chéo của một lớp vỏ $n$ lồi đều nằm bên trong nó và số đường chéo này bằng $\frac{n(n - 3)}{2}$. Một điều cũng rất quan trọng là với mỗi $n$ đã cho, số $\frac{n(n - 3)}{2}$ đường chéo nằm bên trong không phải là nhỏ nhất: Hình 4 cho thấy một tứ giác chỉ có một đường chéo bên trong, trong khi bất kỳ tứ giác lồi nào cũng có cả hai đường chéo bên trong.
 
@@ -174,11 +174,11 @@ V. Golubyatnikov
 
 F362. Một tụ điện nhiều lớp bao gồm ba tấm kim loại song song có diện tích S. Khoảng trống giữa các tấm chứa đầy chất điện môi có đặc tính điện môi $\varepsilon_1$ và $\varepsilon_2$ và điện trở suất $\rho_1$ và $\rho_2$. Độ dày của lớp điện môi $d_1$ và $d_2$. Tụ điện có điện áp không đổi U. Xác định điện tích của bản giữa khi dòng điện chạy trong mạch không đổi.
 
-Cơm. 7.
+Hình 7.
 
 F363. Các sợi chỉ được quấn trên hình trụ như Hình 7. Các đầu bên phải của sợi được kéo với tốc độ $v_1$, các đầu bên trái được kéo với tốc độ $v_2$. Hình trụ quay quanh trục của nó với tốc độ bao nhiêu? Bán kính của hình trụ là R.
 
-Cơm. 8.
+Hình 8.
 
 Tụ điện phân lớp này là sự kết hợp của hai tụ điện. Chúng ta hãy biểu thị hướng của điện trường trong chúng thông qua $E_1$ và $E_2$ bề mặt mật độ điện tích trên các bản của chúng - $\sigma_1$ và $\sigma_2$ và hướng đến các tụ điện - tương ứng thông qua $U_1$ và $U_2$.
 
@@ -216,7 +216,7 @@ $$\omega = \frac{|v_1 - v_2|}{2R}$$
 
 F364. Hệ số ma sát của dao cắt trên mặt ngoài của hình nón có góc ở đỉnh là 2α là bao nhiêu để một xe máy có thể chuyển động dọc theo bề mặt này đến bề mặt hình nón dọc theo một đường tròn nằm ngang bán kính R với tốc độ v (Hình 9)?
 
-Cơm. 9.
+Hình 9.
 
 Chúng tôi sẽ coi người lái xe mô tô như một điểm vật chất, từ đó loại bỏ mọi vấn đề liên quan đến sự ổn định của anh ta liên quan đến việc lật úp. Các lực tác dụng lên người lái xe mô tô được thể hiện trên Hình 9. Đó là trọng lực mg, phản lực N và lực ma sát F_TP.
 
@@ -240,7 +240,7 @@ B. Bukhovtsev
 
 F365. Tìm điện dung của hệ tụ điện mắc vào như hình 10.
 
-Cơm. 10.
+Hình 10.
 
 Chúng ta hãy biểu thị bằng $U_i$ và $q_i = C_i U_i$ điện áp và điện tích trên tụ điện bằng emkomnost $C_i$ (Hình 11). Nếu nối hệ tụ điện này với một cục pin có suất điện động $\delta$ thì tổng điện dung của hệ
 
@@ -308,7 +308,7 @@ F367. Tạo ảnh của một hình vuông cho bởi thấu kính hội tụ (H�
 
 Để tạo ảnh của một hình vuông, cách thuận tiện nhất là sử dụng các tia đi qua tiêu điểm của thấu kính. Điều cần thiết nhất trong số đó là tia $ABGF$ (Hình 12), chạy dọc theo cạnh trên của hình vuông, vì ảnh của tất cả các điểm trên cạnh này phải nằm trên chính tia $GF$ hoặc phần tiếp theo của nó. Chúng ta cũng hãy xây dựng đường đi của tia $AM$, đi qua tiêu điểm bên trái $F$ của thấu kính và tia $BN$, như thể nổi lên từ cùng một tiêu điểm. Sau thấu kính, cả hai tia đi song song với trục chính của thấu kính.
 
-Cơm. 12.
+Hình 12.
 
 Ảnh thật $A'$ của điểm $A$ nằm ở giao điểm của tia $GF$ và $MA'$. Tương tự, ảnh nhỏ nhất $B'$ của điểm $B$ nằm ở giao điểm của phần mở rộng của tia
 

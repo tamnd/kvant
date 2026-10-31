@@ -50,7 +50,7 @@ Liên quan đến brachistochrone bài toán Newoton đã đảm nhận vị tr�
 
 *) Văn bản gốc của Newoton được sao chép lại trong cuốn sách “Điều khiển tối ưu” của V. M. Alekseev, V. M. Tikhomirov, S. V. Fomin. (M., “Nauka”, 1979). Bản dịch “Gọi toán học” đã được xuất bản trong tuyển tập các tác phẩm của Viện sĩ A. N. Krylov. (M. - Leningrad, Nhà xuất bản Viện Hàn lâm Khoa học Liên Xô, 1937, tập 7). Đoạn văn được trích dẫn ở tr. 430. Chúng tôi đã điều chỉnh lại một chút. Hình 1 là bản sao của hình từ “Toán học được gọi”. Đúng, chúng tôi đã sắp xếp nó “từ trên xuống dưới” chứ không phải “từ trái sang phải”; Ngoài ra, trên hình 1 còn có thêm những đường nét và chữ đầy màu sắc do chúng tôi vẽ; chúng ta sẽ gặp chúng sau này.
 
-Cơm. 1.
+Hình 1.
 
 Chúng ta hãy cố gắng hiểu kế hoạch của Newton.
 
@@ -78,7 +78,7 @@ Vừa rồi bài toán được hình thành bằng lời nói, không có công
 
 Vậy để hình nón thành công có chiều cao bằng $H$ và bán kính
 
-Cơm. 2.
+Hình 2.
 
 đế trên $R$ (Hình 2)*.
 
@@ -173,7 +173,7 @@ Và câu phụ bài toán, như bạn có thể đã đồng ý, không quá kh�
 
 ⟦folio 18⟧
 
-Cơm. 6.
+Hình 6.
 
 Vào thời điểm đó, người ta tin rằng nó có liên quan đến phép tính biến phân: ví dụ: A.N. Krylov, trích dẫn câu nói của Newton đã đọc ở phần đầu, kèm theo đó là những lời sau: “Tuyên bố này của Newton luôn áp dụng cho phép tính biến phân”. Tiếp theo, anh ta hình thức hóa bài toán của Newton (hơi khác một chút so với chúng ta - anh ta chỉ di chuyển lựa chọn, giống như của Newton, xuống dưới) và đi đến (nếu trong biểu thức của anh ta, chúng ta thay thế $y$ bằng $x$ và $x$ bằng $y$) thành bài toán về việc cực tiểu hóa tích phân
 

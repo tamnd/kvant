@@ -63,7 +63,7 @@ Có lẽ chủ đề này sẽ thu hút sự chú ý của các nhà sử học 
 
 Hãy quay lại bài toán chính của chúng ta. Chúng ta muốn biết khi nào có thể dựng được một n-giác đều bằng compa và thước thẳng. Lý do của đoạn trước gợi ý ý tưởng xem lời giải cái này có bao nhiêu bài toán. Để có kết quả đáp số, bạn cần tinh chỉnh dòng bài toán. Cụ thể là bạn cần
 
-**Cơm. 5.**
+**Hình 5.**
 
 cố định kích thước và vị trí của một n-giác thông thường (nếu không, tất nhiên, số lời giải sẽ là vô hạn, miễn là có ít nhất một lời giải). Vì vậy, chúng ta sẽ giả sử rằng n-giác của chúng ta nội tiếp trong một đường tròn o cho trước với tâm O và vị trí cố định A₀ của một trong các đỉnh của nó. Cần xác định các vị trí A₁, A₂, ..., Aₙ−1 của các đỉnh còn lại. Tất nhiên, chỉ cần tìm vị trí của điểm A₁ - vẽ các cung liên tiếp A₀A₁, ta được các điểm A₂, A₃, A₄, v.v.
 
@@ -78,7 +78,7 @@ Tình huống tương tự cũng xảy ra trong trường hợp n = 3 và n = 4.
 
 ⟦folio 7⟧
 
-Cơm. 6.
+Hình 6.
 
 Nếu vẽ đường phân giác $A_1B$ của góc $OA_1A_0$ thì các tam giác thu được $OA_1B$, $BA_1A_0$ sẽ đều nhau (Hình 6) và các tam giác $OA_1A_0$ và $BA_1A_0$ sẽ tương tự nhau.
 

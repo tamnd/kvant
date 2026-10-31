@@ -60,11 +60,11 @@ có tính chất (3) và (5). Bằng cách thêm bảy số “đã xử lý” 
 
 ⟦folio 32⟧
 
-Cơm. 4.
+Hình 4.
 
 M693. Một số có 1000 cư dân. Mỗi ngày, mỗi người trong số họ chia sẻ những tin tức họ đã học được ngày hôm qua với tất cả các tài sản. Được biết, mọi tin tức đều được mọi người dân trong làng biết đến. Chứng minh rằng bạn có thể chọn 90 cư dân sao cho nếu bạn cho họ biết một số tin tức cùng một lúc thì sau 10 ngày tất cả cư dân trong làng đều biết tin đó.
 
-Cơm. 1.
+Hình 1.
 
 Chúng ta hãy liên kết mỗi cư dân trong làng với một điểm nhất định trên mặt phẳng. Những điểm tương ứng với những cư dân quen thuộc với nhau được kết nối bằng một đoạn. Hình ảnh thu được được gọi là đồ thị. Các điểm được chọn được gọi là các đỉnh của đồ thị và các đoạn nối chúng được gọi là các cạnh.
 
@@ -92,13 +92,13 @@ Pis. 3.
 
 M694. Mỗi đỉnh của hình lập phương chứa một số. Trong một bước, một số được cộng vào hai số được đặt trên một (bất kỳ) cạnh nào. Có thể làm cho tất cả tám số bằng nhau trong một vài bước như thế này nếu các số ban đầu được đặt như trong Hình 1 không? Giống như trong Hình 2? Giống như trong Hình 3?
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
-Cơm. 3.
+Hình 3.
 
-Cơm. 4.
+Hình 4.
 
 Chúng ta thu được một nhóm khác gồm ít nhất 11 đỉnh và các đỉnh ở giữa—điểm $K_2$ của tập hợp mong muốn, cũng như một cây chứa không quá 1000—2·11=978 đỉnh. Sau khi thực hiện thao tác này 89 lần, chúng ta sẽ có 89 nhóm đỉnh, khoảng cách từ mỗi đỉnh trong nhóm của nó không vượt quá 10. Phần còn lại là một cây chứa không quá 1000—89 11 = 21 đỉnh. Chúng ta hãy xem xét lại hai đỉnh trong đó có khoảng cách tối đa và lại lấy đỉnh thứ mười trong chuỗi nối các đỉnh này. Rõ ràng, đỉnh này phù hợp làm điểm $K_{90}$ của tập hợp mong muốn. Vấn đề lời giải.
 
@@ -108,7 +108,7 @@ Tô màu các đỉnh của hình lập phương bằng màu xanh lam và đỏ 
 
 Hãy để chúng tôi biểu thị bằng $d$ sự khác biệt giữa số lớn nhất và lớn nhất trong số các số được viết ở các đỉnh của khối lập phương và bằng $n$ số lượng các số bằng khối lập phương lớn nhất, sau đó bằng cách thêm một vào các số nằm trên cạnh $A_1B_1$, chúng ta sẽ giảm $d$ hoặc $n$. Tiếp tục theo cách này, chúng ta sẽ đến một khối trong đó $d=0$, nghĩa là tất cả tám số đều bằng nhau hoặc một khối trong đó mỗi số liền kề với số lớn nhất là số lớn nhất. Nếu ở đỉnh $A_1$ của khối lập phương như vậy có một trong những số lớn nhất, bằng $a$, thì tại các đỉnh $B_1, D_1$ và $A_2$ số $a+d$ được viết (ở đây $d$ là hiệu giữa số lớn nhất và số lớn nhất trong khối mới).
 
-Cơm. 5.
+Hình 5.
 
 Vì tổng các số ở đỉnh đỏ bằng tổng các số ở đỉnh xanh nên số $a$ được viết ở đỉnh đỏ thứ tư $C_2$, và số $a+d$ được viết ở đỉnh xanh $C_1, B_2$ và $D_2$. Bằng cách thêm $d$ đơn vị vào các đầu của cạnh $A_1B_1$, sau đó đến các đầu của cạnh $C_1C_2$, cạnh $A_1D_1$, cạnh $C_2D_2$ và cuối cùng là cạnh $A_2B_2$, chúng ta thu được một khối lập phương có tám số đều là $a+2d$. Đối với khối lập phương ở Hình 2, lời giải này được mô tả trong Hình 5.
 
@@ -228,9 +228,9 @@ A. Zilberman
 
 F706. Để di chuyển tải trọng theo chiều ngang trên khoảng cách $L=20$ m, người ta sử dụng xe đẩy tự hành, di chuyển dọc theo ray ngang. Trên cáp có chiều dài $l=5$ m, tải đang di chuyển sẽ được chuyển đến xe đẩy (Hình 1). Xe chuyển động với vận tốc không đổi trong một nửa thời gian và giảm tốc đều trong một nửa thời gian. Xác định khả năng giá trị gia tốc của xe mà tại đó tải sẽ đứng yên sau khi xe dừng lại ở cuối hành trình.
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
 F707. Ống kính điện thoại Gale có đường kính $D=250$ cm và tiêu cự $F=160$ m. Xe đẩy được sử dụng để chụp ảnh vệ tinh Trái đất nhân tạo, có đường kính $d=200$ cm và nằm ở khoảng cách $L=320$ km.
 

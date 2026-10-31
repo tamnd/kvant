@@ -70,7 +70,7 @@ Máy coi bề mặt mờ đục. Do đó, trong hình, chúng ta thấy “phầ
 
 ⟦folio 18⟧
 
-Cơm. 1. Đường truyền chùm tia quét nét đứt: 1-2 - phần đầu của nửa khung lẻ; 5—6—bắt đầu của nửa khung hình chẵn; 2-3, 4-5, 6-7 và 8-1 - hành trình chùm tia ngược.
+Hình 1. Đường truyền chùm tia quét nét đứt: 1-2 - phần đầu của nửa khung lẻ; 5—6—bắt đầu của nửa khung hình chẵn; 2-3, 4-5, 6-7 và 8-1 - hành trình chùm tia ngược.
 
 Bạn không thể che chùm tia điện tử ở giữa khung hình, vì trong trường hợp này một phần của hình ảnh sẽ biến mất. Những người tạo ra truyền hình đã tìm ra một giải pháp độc đáo: khung hình không được truyền đi cùng một lúc mà theo từng nửa khung hình, sao cho chùm tia điện tử trước tiên sẽ vẽ các đường lẻ và sau đó là các đường chẵn của hình ảnh. Trong trường hợp này, nửa khung hình thay đổi với tần số 50 Hz và mắt cảm nhận được hình ảnh chuyển động là liên tục. Phương pháp tạo khung trên màn hình tivi này được gọi là quét dấu gạch ngang (Hình 1).
 
@@ -84,13 +84,13 @@ Chỉ cần thay đổi một chút tần số quay của đĩa, phần kệ t�
 
 Cố gắng tự mình giải thích tần số nào kệ sẽ tăng lên và tần số nào nó sẽ giảm xuống. Hình ảnh sẽ trông như thế nào ở tần số stroscope 100 Hz? 150Hz? Tại sao một chiếc kệ tối chạy ngang qua màn hình TV, được quay trên phim? Tại sao đôi khi trên màn hình điện ảnh hoặc truyền hình có một chiếc ô tô đang lao về phía trước
 
-Cơm. 2. Sơ đồ thí nghiệm với kính hiển vi “cổ điển”: 1 - màn hình mờ; 2 - đĩa quay có bộ phản hồi; 3 - động cơ vi điện; 4 — biến trở; Pin 5 đồng xu.
+Hình 2. Sơ đồ thí nghiệm với kính hiển vi “cổ điển”: 1 - màn hình mờ; 2 - đĩa quay có bộ phản hồi; 3 - động cơ vi điện; 4 — biến trở; Pin 5 đồng xu.
 
 ⟦folio 19⟧
 
-Cơm. 3.
+Hình 3.
 
-Cơm. 4. Hình chỉ hiển thị 21 dòng, trên thực tế có 312,5 dòng trong nửa khung hình (và toàn bộ khung hình là 625) dòng.
+Hình 4. Hình chỉ hiển thị 21 dòng, trên thực tế có 312,5 dòng trong nửa khung hình (và toàn bộ khung hình là 625) dòng.
 
 Bánh xe di động có quay chậm lại không?
 

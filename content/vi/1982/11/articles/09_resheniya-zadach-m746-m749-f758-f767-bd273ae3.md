@@ -38,9 +38,9 @@ M746. Một hình vuông giấy được gấp đôi dọc theo một đường 
 a) hình chín phần thu được có diện tích lớn nhất không?
 b)* Nó có chứa một hình tròn có bán kính lớn nhất có thể không?
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
 Đặt đường thẳng $l$ dọc theo hình vuông được gấp lại tạo thành một góc $\alpha (0 \leqslant \alpha \leqslant 45^\circ)$ trên cạnh ngang của nó thì độ dài cạnh của hình vuông là $2q$.
 
@@ -130,9 +130,9 @@ M748. a) Có thể có một số hữu hạn parabol trên một mặt phẳng 
 
 6)* Có một số đầu không giao nhau trong không gian. Chứng minh rằng chúng không thể di chuyển sao cho chúng bao phủ toàn bộ không gian. (Ở đây chúng ta gọi hình nón là một hình lồi không giới hạn thu được nhờ xử lý neotorodo uel xung quanh bissertis của nó.)
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
 a) Hãy vẽ một đường thẳng tùy ý không song song với bất kỳ trục nào của parabol. Một đường thẳng như vậy chỉ có thể giao nhau với vùng bên trong của bất kỳ parabol nào dọc theo một khoảng. Trên thực tế, phương trình parabol trong một hệ tọa độ nhất định có dạng $y = ax^2$ ($a > 0$), và phương trình đường thẳng có dạng $y = kx + l$; Trục hoành của các điểm thuộc phần bên trong của parabol thỏa mãn bất đẳng thức $kx + l > ax^2$, tập lời giải trong đó trống. Hoặc là khoảng $x_1 < x < x_2$, trong đó $x_1$ và $x_2$ là nghiệm của phương trình $ax^2 - kx - l = 0$.
 
@@ -156,9 +156,9 @@ $$\frac{x_1}{x_2+x_n} + \frac{x_2}{x_3+x_1} + \dots + \frac{x_{n-1}}{x_n+x_{n-2}
 Hơn nữa, sự bình đẳng chỉ có thể xảy ra với $n=4$.
 c) Chứng minh rằng với $n>4$ bất đẳng thức ở phần b) là chính xác theo nghĩa là với không $n$ thì số 2 ở vế phải không thể thay thế bằng số lớn hơn.
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
 a) Đặt $a=x_2+x_3, b=x_3+x_1, c=x_1+x_2$. Khi đó $x_1 = \frac{b+c-a}{2}, x_2 = \frac{a+c-b}{2}, x_3 = \frac{a+b-c}{2}$, vế trái của bất đẳng thức sẽ được viết lại như sau:
 $$\frac{b+c-a}{2a} + \frac{a+c-b}{2b} + \frac{a+b-c}{2c} =$$
@@ -295,9 +295,9 @@ Tại thời điểm t0, khi mặt sóng tới mép xa của nêm, tức là t�
 
 $$a_t0 = \frac{p_0 c a}{m}.$$
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
 Vì nêm phụ thuộc tuyến tính theo thời gian nên để tính tốc độ u của nêm tại thời điểm t0, ta sử dụng giá trị gia tốc trung bình acp = \frac{p_0 ca}{2m}:
 
@@ -353,7 +353,7 @@ $$t_{\text{обш}} = \sum \frac{1}{I} \cdot \Delta Q.$$
 
 Hãy vẽ đồ thị về sự phụ thuộc của $1/I$ vào $Q$ (Hình 2). Dòng điện tại một giá trị nhất định $Q$ được tìm theo biểu đồ trong Hình 1:
 
-Cơm. 1.
+Hình 1.
 
 $$I = \frac{U_0 - U}{R}.$$
 

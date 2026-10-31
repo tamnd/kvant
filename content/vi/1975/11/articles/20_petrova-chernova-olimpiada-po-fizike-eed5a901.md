@@ -60,10 +60,10 @@ Với lời giải bài toán 1, cần phải hiểu kỹ các giá trị vận 
 Trong bài toán 2, khó khăn chính đối với những người không hoàn thành nhiệm vụ này là xác định hướng tác dụng của lực đẩy của động cơ. Các lực hấp dẫn tác dụng lên con tàu từ Mặt trăng và Trái đất bù trừ cho nhau. Do đó, chỉ có lực đẩy của động cơ mới có thể mang lại cho tàu khả năng tăng tốc cần thiết. Vì điều này
 
 ⟦figure⟧
-Cơm. 1.
+Hình 1.
 
 ⟦figure⟧
-Cơm. 2.
+Hình 2.
 
 ⟦folio 63⟧
 

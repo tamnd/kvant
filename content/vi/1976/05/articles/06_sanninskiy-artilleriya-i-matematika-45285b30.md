@@ -115,7 +115,7 @@ Bài toán 1 cho phép chúng ta “liên kết” điểm $B$ của địa hìn
 
 *) Bạn có thể sử dụng bảng Bradis.
 
-Cơm. 2.
+Hình 2.
 
 1. Tìm $X_B$ và $Y_B$ nếu $X_A = 53\ 817$, $Y_A = 38\ 629$, $|AB| = 2182$ và $[AB] = 321^\circ 14'$.
 

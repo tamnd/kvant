@@ -42,7 +42,7 @@ Dải Möbinus sẽ vượt qua nhiều tốc độ ngay cả khi bạn cố g�
 
 3) Lấy một dải giấy rất hẹp khác, lần này xoắn nó không phải 180° mà là 360° và dán nó lại với nhau.
 
-Cơm. 1.
+Hình 1.
 
 ⟦folio 29⟧
 
@@ -55,9 +55,9 @@ Phương trình bề mặt Möbnus
 Chúng ta hãy xây dựng các bề mặt Möbnus trong hệ tọa độ Descartes ba chiều $Oxyz$. Xét trên mặt phẳng $z = 0$ một đường tròn có bán kính $R$ với tâm là gốc $O\left(x^2 + y^2 = R^2\right)$. Để điểm $A$ di chuyển đều theo hướng dương dọc theo đường tròn này; thì mặt phẳng $\alpha$, đi qua trục $Oz$ và điểm $A$, sẽ quay cùng với nó quanh trục $Oz$. Chúng ta hãy xem xét trong mặt phẳng $\alpha$ đường thẳng $l$ đi qua điểm $A$. Cho đường thẳng $l$ quay quanh điểm $A$ ngược chiều kim đồng hồ (nếu bạn nhìn $\alpha$ theo hướng chuyển động của điểm $A$) và tại bất kỳ thời điểm nào góc giữa tia $OA$ và đường thẳng $l$ bằng một nửa góc $\varphi$ giữa trục $Ox$ và tia $OA$. Do đó, khi điểm $A$ hoàn thành một vòng quay hoàn toàn, đường thẳng $l$ xuất hiện trên bề mặt so với vị trí ban đầu tại $180^\circ$.
 
 Tập hợp các điểm trong không gian mà đường thẳng $l$ đi qua (tham gia vào hai chuyển động) là các bề mặt Möbnus (Hình 3). Tại-
-Cơm. 2.
+Hình 2.
 
-Cơm. 3.
+Hình 3.
 
 ⟦folio 30⟧
 
@@ -122,7 +122,7 @@ $$x = -R, \ y = -R \text{tg} \varphi, \ z = -R \text{tg} \varphi.$$
 
 Từ đó, chúng ta có thể thấy rằng khi $\varphi$ thay đổi, điểm tự giao của bề mặt Möbius di chuyển dọc theo một đường thẳng nằm trong mặt phẳng $x = -R$ và được mô tả bởi phương trình $z = y$. Như vậy, đường tự giao là đường thẳng (nhưng không sinh sôi!). Một đoạn của đường thẳng này được mô tả trên trang bìa. Sau khi nghiên cứu kỹ trình bảo vệ màn hình, bạn sẽ tìm thấy một đường tự giao nhau trên đó.
 
-Cơm. 6.
+Hình 6.
 
 Tại sao dải Mobius không bị phân hủy khi cắt?
 

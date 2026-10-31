@@ -82,7 +82,7 @@ $$\frac{1}{d} + \frac{1}{f} = \frac{1}{F} \quad (F \text{ — фокусное �
 
 $$\frac{h}{H} = \frac{F}{d-F}.$$
 
-Cơm. 2.
+Hình 2.
 
 Chúng ta hãy viết ra sự tương ứng cuối cùng cho hai trường hợp được chỉ định trong điều kiện bài toán:
 
@@ -170,7 +170,7 @@ Bây giờ chúng ta chuyển sang tính toán định lượng. Từ sự giố
 
 $$\frac{|AC_0|}{|DO|} = \frac{|C_2C_0|}{|OC_2|}.$$
 
-Cơm. 3.
+Hình 3.
 
 Tương tự, đối với tam giác $DC_1O$ và $AC_1C_0$
 

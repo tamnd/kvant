@@ -109,15 +109,15 @@ M610. Chúng tôi sửa $k \in \mathbb{N}$.
 a) Xét tập hợp tất cả các bộ số nguyên $a_1, \dots, a_k$ sao cho $0 \leq a_1 \leq a_2 \leq \dots \leq a_k \leq k$; chúng ta hãy biểu thị số lượng các bộ như vậy bằng $N$. Chúng ta hãy xem xét trong số đó những cái mà $a_k = k$; hãy để số của họ là $M$. Chứng minh rằng $N = 2M$.
 b) Chúng ta hãy áp đặt một ràng buộc bổ sung cho các tập hợp đang được xem xét: tổng $a_1 + \dots + a_k$ chia hết cho $k$. Đặt các số tương ứng là $N'$ và $M'$. Chứng minh rằng $N' = 2M'$ (Từ Hình 1 cho thấy rõ rằng với $k = 3$ các số này là $M = 10$, $N = 20$, $M' = 4$, $N' = 8$).
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
-Cơm. 3.
+Hình 3.
 
-Cơm. 4.
+Hình 4.
 
-Cơm. 5.
+Hình 5.
 
 Như đã biết, nếu hai tập hợp có cùng số phần tử thì có thể thiết lập sự tương ứng một-một giữa chúng. Nói đúng ra, đây là sự chắc chắn về cái bằng nhau trong tập hợp các phần tử, nhưng thực tế này đôi khi bị lãng quên. Trong khi đó, thường thì đẳng thức của hai số được thiết lập chính xác thông qua sự tương ứng một-một của tập hợp.
 
@@ -217,9 +217,9 @@ Giá trị hiện tại tìm thấy lớn $I_H$. Do đó, giả định của ch
 
 V. Mozhaev
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
 F616. Chiều dài dây tóc tích tụ của bóng đèn là $l$ và đường kính là $d$. Chiều dài $l_1$ và đường kính $d_1$ của một bóng đèn khác được thiết kế cho cùng điện áp nguồn nhưng có quang thông đầu vào cao hơn, nếu hiệu suất của cả hai bóng đèn là như nhau?
 

@@ -39,11 +39,11 @@ Do ∪ QM và ∪ QA chịu tải nên điểm M đối xứng với dải A đ�
 
 $$MO_1Q = AOQ$$
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
-Cơm. 3.
+Hình 3.
 
 OO₁MT là hình bình hành. Do đó, cardion có thể được dựng bằng cách vẽ trên đường thẳng AT (với mọi vị trí có thể có của điểm T trên một đường tròn cố định) từ điểm T một đoạn TM có độ dài |OO₁| = 2a. Đặt nó sang một bên ở hai bên của T, chúng ta có được toàn bộ cardion*).
 

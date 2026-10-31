@@ -35,7 +35,7 @@ $(n^2-1)/n+(n-1)/n=n+1-2/n \leq n+1$.
 
 Do đó, đối với độ dài của đường đứt nét, chúng ta thu được ước tính $2n+1$.
 
-Cơm. 1. Hình 2. Hình 3.
+Hình 1. Hình 2. Hình 3.
 
 Vấn đề a) lời giải, và để chứng minh 6), chúng ta cần cải thiện ước lượng lên 1.
 
@@ -105,9 +105,9 @@ E. Levitan
 
 F509. Hồ có dòng chảy chỉ giữ được lớp nước trên cùng. Một chiếc bè với annapagura bắt tai trôi xuôi dòng. Ở phía dưới, phía trước dòng điện, có một nguồn âm thanh bất động. Một người quan sát trên bè phát hiện ra rằng âm thanh truyền tới bè theo hướng tạo một góc $\beta$ với phương thẳng đứng. Góc từ phương thẳng đứng đến phương thật của nguồn âm là bao nhiêu? Tốc độ của dòng điện là $u$, tốc độ âm thanh trong nước là $v$. Độ dày của lớp chuyển động nhỏ hơn nhiều so với độ dày của đại dương.
 
-Cơm. 8.
+Hình 8.
 
-Cơm. 9.
+Hình 9.
 
 Tại ranh giới $AB$ của lớp chuyển động, âm thanh bằng cách nào đó thay đổi hướng - nó bị khúc xạ (Hình 8). Âm thanh truyền tới bè $P$ một góc $\beta$ bằng góc khúc xạ. Vì lớp mỏng nên chúng ta có thể lấy góc $CPS$ bằng góc tới $\alpha$. Như vậy, bài toán với việc suy ra định luật khúc xạ sóng âm tại ranh giới của môi trường bất động và chuyển động.
 

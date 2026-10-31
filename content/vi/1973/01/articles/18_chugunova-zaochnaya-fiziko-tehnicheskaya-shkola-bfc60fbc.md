@@ -101,11 +101,11 @@ Nhiệm vụ 1-4 dành cho học sinh lớp sáu, 3-8 - dành cho học sinh l�
 
 6. Phần tử nào của mạch điện ở hình 3 có điện trở
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
-Cơm. 3.
+Hình 3.
 
 R. Tìm điện trở giữa các điểm $A$ và $B$.
 
@@ -139,9 +139,9 @@ $$\left( \frac{2a}{2a+b} - \frac{4a^2}{4a^2+4ab+b^2} \right): \quad \left( \frac
 
 2. Có 30 câu hỏi trong bài kiểm tra ở trường. Với mỗi đáp số đúng, người tham gia được thưởng 7 điểm và đối với
 
-Cơm. 5.
+Hình 5.
 
-Cơm. 6.
+Hình 6.
 
 sai đáp số Tôi trừ anh ấy 12 điểm. Học sinh đã trả lời đúng bao nhiêu đáp số nếu đạt được 77 điểm?
 

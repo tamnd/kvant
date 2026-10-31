@@ -54,7 +54,7 @@ Dụng cụ: bình đựng nước, ống nghiệm, thước kẻ, mảnh vật 
 
 Hãy xem xét hai cách lời giải của nhiệm vụ này: một do trình biên dịch đề xuất, cách thứ hai là do người tham gia tối ưu hóa.
 
-Cơm. 1. Hình 2
+Hình 1. Hình 2
 
 Phương pháp thực hiện công việc sau đây được giả định.
 
@@ -176,7 +176,7 @@ Thiết bị: “hộp đen” (hộp đen), nguồn điện một chiều (pin 
 
 Do dụng cụ đo điện tử không lý tưởng, các mạch xác định sai số đo, do đó, phải đưa ra các hiệu chỉnh thích hợp vào đặc tính dòng điện-điện áp thu được. Ví dụ, điều này có thể được thực hiện bằng đồ họa, như đã được đề xuất tại Olympic bởi M. Dyachkov (làng Chernogolovka, vùng Moscow). Sau khi chọn mạch điện theo Hình 5, 6, anh ta vẽ đồ thị phụ thuộc $I_1(U)$ cho “hộp đen” cùng với ampe kế, $I_2(U)$ cho ampe kế và $I(U)$ cho “hộp đen” (vì cùng một dòng điện chạy qua ampe và “hộp đen” nên hướng trên “hộp đen” ở mỗi giá trị dòng điện bằng với hiệu giữa số đọc vôn kế và điện áp trên mỗi ampe.
 
-Cơm. 5.
+Hình 5.
 
 mét). Tất cả ba đặc điểm này được trình bày trong Hình 6.
 

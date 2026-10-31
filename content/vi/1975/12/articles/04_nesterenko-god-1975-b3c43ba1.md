@@ -25,7 +25,7 @@ translation_quality: draft
 
 ⟦folio 18⟧
 
-Cơm. 8.
+Hình 8.
 
 vị trí $A_0$ và tại thời điểm $t$ - ở vị trí $A_t$ (Hình 8). Cung $A_0A_t$ có độ dài $t$, nghĩa là góc ở tâm $A_0OA_t$ chứa $t$ radian. Theo định nghĩa của sin và cosin, tọa độ của điểm $A_t$ bằng $\sin t$, hoành độ của điểm $A_t$ bằng $\cos t$. Điều này có nghĩa là hình chiếu $B_t$ của điểm $A_t$ lên trục chuyển động hoành độ là theo định luật $x = \cos t$, và hình chiếu $C_t$ của điểm $A_t$ lên trục tọa độ là theo định luật $y = \sin t$. Hãy tìm tốc độ của những chuyển động này.
 

@@ -53,7 +53,7 @@ KVANT 2019/№8
 
 ⟦figure⟧
 
-Cơm. 3
+Hình 3
 
 Câu hỏi 4. Tại sao? Mọi người đã đi theo một con đường khác và tạo ra các bộ khuếch đại độ sáng và thiết bị nhìn đêm. Nhưng vẫn còn những hạn chế bên ngoài. Trong không khí trong lành, một người nhìn thấy một đường chân trời (nếu bạn đứng trên bề mặt của một quả cầu lý tưởng) cách đó khoảng 5 km (và trên Mặt trăng?). Hơn nữa, một người nhìn thấy đường chân trời bằng cách leo lên ngọn núi cao nhất, và trong trường hợp này nó cách đó hơn ba trăm km. Trong không khí sạch lý tưởng, do sự tán xạ ánh sáng do dao động mật độ, tầm nhìn bị giới hạn ở giá trị gần như nhau, nhưng đây chỉ là sự trùng hợp ngẫu nhiên. Nói cách khác, sự tán xạ ánh sáng trong khí quyển, chính thứ làm cho bầu trời có màu xanh, ở khoảng cách ba trăm km sẽ tạo ra một phông nền khiến các vật thể sẽ không nhìn thấy được trong đám mây mù này. Nhưng nếu độ dày của khí quyển lớn hơn hiện nay 30 lần thì chúng ta sẽ không có thiên văn học, và bức tranh thế giới sẽ khác trong một thời gian dài. Chính điều này – sự tán xạ do dao động mật độ – xác định những tổn hao tối thiểu trong sợi quang, trong các vật dẫn ánh sáng, gọi là tổn hao Rayleigh. Nói chung, tổn thất trong sợi quang là một lĩnh vực có liên quan và được nghiên cứu tích cực. Vì một lý do đơn giản: đường cáp quang mang theo hầu hết mọi thứ—mọi thứ! – thông tin mà nhân loại gửi đi.
 
@@ -91,7 +91,7 @@ M2561*. Lời giải trong số này bài toán xem trong bài viết của K. K
 
 ⟦figure⟧
 
-Cơm. 1
+Hình 1
 
 Nếu trên đường có ít ô tô thì dù tốc độ cao nhưng vẫn có một số ít ô tô chạy dọc đường. Nếu có nhiều ô tô trên đường thì tốc độ thấp và số lượng ô tô lưu thông trên đường lại ít. Do đó, ở mức độ tập trung tối ưu của ô tô trên đường, lưu lượng của nó sẽ đạt mức tối đa. Hãy tìm sự tập trung này. Giả sử có n ô tô trên 100 mét đường. Hãy tính xem có bao nhiêu ô tô đi qua một điểm nhất định trên đường cao tốc trong khoảng thời gian 't. Vì tất cả các ô tô đều chuyển động với cùng tốc độ v n nên những ô tô ở cách điểm này không quá v 't sẽ có thời gian để đi qua điểm đang xét. Và số N của chúng có thể được tìm thấy từ
 

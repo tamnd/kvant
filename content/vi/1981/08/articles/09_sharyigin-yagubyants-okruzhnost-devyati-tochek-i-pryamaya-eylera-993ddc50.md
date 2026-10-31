@@ -92,9 +92,9 @@ Chúng ta hãy biểu thị bằng P điểm giao nhau kkihnbud của hai trong 
 
 (*) Tức là chúng tạo thành các góc bằng nhau với các cạnh tương ứng.
 
-Cơm. 5.
+Hình 5.
 
-Cơm. 6.
+Hình 6.
 
 sin của các góc PA3A1, PA3B1, PA3C1. Hãy đặt PA3A1=φ.
 

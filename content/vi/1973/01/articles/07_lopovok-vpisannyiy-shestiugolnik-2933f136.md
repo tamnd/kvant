@@ -61,7 +61,7 @@ $$\frac{A_5A_6}{A_5B} > 1 > \frac{A_6A_1}{BA_1}$$
 
 Như vậy, đẳng thức tích là cạnh của mặt lồi
 
-Cơm. 4.
+Hình 4.
 
 lục giác đi qua một là điều kiện cần và đủ để giao các đường chéo lớn của lục giác tại một điểm.
 
@@ -84,7 +84,7 @@ Tính các đường chéo của một hình lục giác lồi nội tiếp dọ
 
 ⟦folio 21⟧
 
-Cơm. 5.
+Hình 5.
 và $a_1$, và góc giữa chúng là $120^\circ$. Vì vậy, $\alpha = \sqrt{a^2 + aa_1 + a_1^2}$. Đường chéo chính là đáy của một hình thang, các cạnh của nó bằng nhau và tạo thành các góc $60^\circ$ với đáy. Một hình thang như vậy có đáy lớn hơn bằng tổng của đáy thứ hai và cạnh, tức là
 $$x = a + a_1.$$
 
@@ -104,7 +104,7 @@ Các phần kéo dài của cạnh $A_1A_2$, $A_3A_4$ và $A_5A_6$ cắt nhau t�
 
 ⟦folio 22⟧
 
-Cơm. 7.
+Hình 7.
 
 phía dưới cạnh tương ứng của tam giác BCD). Theo định lý Menelaus cho những đường này ta có:
 

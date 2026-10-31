@@ -151,7 +151,7 @@ Trước tiên chúng ta hãy lấy đa thức bậc một (tức là đa thức
 
 ⟦folio 8⟧
 
-Cơm. 1.
+Hình 1.
 
 từ 1 thì giá trị của đa thức $ax + b$ là hợp số là bội số của ước số này. Trường hợp $a$ và $b$ tương đối nguyên tố thì ít được đánh giá cao hơn nhiều.
 

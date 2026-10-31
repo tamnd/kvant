@@ -40,7 +40,7 @@ Bài thi viết
 
 ⟦figure⟧
 
-Cơm. 2
+Hình 2
 
 Lúc này tụ điện chưa được tích điện. Công suất tỏa nhiệt trung bình trong mạch khi bắt đầu quá trình tạo xung lớn hơn công suất tỏa nhiệt trung bình sau một thời gian dài là bao nhiêu lần? 5. Ước tính lực cần tác dụng là bao nhiêu để giữ cửa sổ khi có gió vừa thổi. Giả sử rằng bạn hiểu rõ về hiện tượng này, bạn có thể đặt các đại lượng cần thiết cho lời giải bài toán, chọn các giá trị số của chúng và thu được kết quả bằng số.
 
@@ -54,7 +54,7 @@ chuyến tham quan qua mạng
 
 ⟦figure⟧
 
-Cơm. 1
+Hình 1
 
 bằng cách cho nó tăng tốc dọc theo nêm, khi đó lực ép của nêm lên bức tường thẳng đứng sẽ là $равна_{1}^{F}$. Và nếu bạn giảm tốc độ quả bóng dọc theo nêm, thì lực ép của nêm lên bức tường thẳng đứng sẽ là $равна_{2}^{F}$. Tìm hệ số ma sát giữa vòng đệm và nêm. 4. Các xung điện áp có biên độ $U_{0}$ thời lượng ngắn W cứ sau T giây được đặt vào mạch RC gồm một điện trở và một tụ điện mắc nối tiếp (Hình 2). (Trong xung và trong khoảng thời gian giữa chúng, điện tích trên tụ điện thay đổi $слабо:^{T} ≪^{RC}.)$ Trong thời gian đầu
 
@@ -76,7 +76,7 @@ Sau đó học sinh kết nối song song tất cả các thiết bị. Trong tr
 
 ⟦figure⟧
 
-Cơm. 32
+Hình 32
 
 băng $v_{1} 1$ m s, băng thứ 2 $v_{2} 2$ m s, v.v. Tốc độ của băng thứ 10 nhanh nhất là $v_{10} 10$ m s. Một hành khách bước vào máy du lịch (qua đai thứ nhất) và sau T = 30 s rời khỏi máy (từ đai thứ nhất). Hỏi người đó có thể tìm được khoảng cách lớn nhất bằng bao nhiêu nếu chỉ được phép chuyển động vuông góc với chuyển động của các đai (bao gồm cả chuyển động từ đai này sang đai khác) với tốc độ không vượt quá giá trị tuyệt đối u 1,5 ms? Chiều rộng của mỗi băng du lịch là L = 3 m.
 
@@ -86,7 +86,7 @@ lớp 9
 
 ⟦figure⟧
 
-Cơm. 33
+Hình 33
 
 cắt khối và gắn một lực kế vào đầu của nó. Biểu đồ về sự phụ thuộc của số đọc lực kế vào chuyển động của đầu ren được thể hiện trong hình. Xác định khối lượng của chuỗi. Gia tốc trọng trường g 10 m $с^{2}$. Không có ma sát. 5. Hai khẩu pháo cổ nhằm mục đích đánh nhau. Pháo bên trái bắn một viên đạn đại bác có khối lượng $m_{1} = 10$ kg, pháo bên phải bắn một viên đạn đại bác có khối lượng $m_{2} = 2$ kg. Đại bác đồng loạt bắn ra, đạn đại bác va chạm trực diện và dính chặt vào nhau. Các viên đạn bị mắc kẹt sẽ rơi cách khẩu pháo bên trái bao nhiêu nếu khoảng cách giữa các khẩu pháo là L = 600 m? Bỏ qua ảnh hưởng của không khí.
 
@@ -94,7 +94,7 @@ lớp 10
 
 1. Cầu trượt là mặt phẳng nghiêng, được nối liền ở phía dưới
 
-Cơm. 34
+Hình 34
 
 ⟦folio 51⟧
 
@@ -110,15 +110,15 @@ NGUYÊN VẬT LIỆU
 
 ⟦figure⟧
 
-Cơm. 41
+Hình 41
 
 ⟦figure⟧
 
-Cơm. 39
+Hình 39
 
 Chúng có thể được di chuyển dọc theo mặt phẳng với một tốc độ không đổi nhất định, vuông góc với hướng ban đầu của ren. Các quả bóng va chạm lần đầu tiên theo một góc so với hướng ban đầu của sợi dây, rõ ràng là bằng 90°. Ở góc nào so với phương ban đầu của sợi dây, chúng sẽ va chạm lần thứ hai nếu khối lượng của chúng lần lượt là 7m và 5m và va chạm tuyệt đối đàn hồi? 4. Trong hai góc phần tư đối diện của mặt phẳng xy (được tô màu trong hình
 
-Cơm. 40
+Hình 40
 
 Dùng chùm tia laze đặt một thanh kim loại mỏng thẳng đứng có tiết diện tròn, tạo thành một vòng tròn phát sáng trên bàn với tâm ở vị trí của thanh. Nếu thay thanh có tiết diện tròn bằng thanh thẳng đứng có tiết diện không đều (không phải hình tròn) thì vạch phát sáng trên bàn vẫn có dạng hình tròn. Giải thích hiện tượng quan sát được.
 

@@ -54,7 +54,7 @@ Lời giải bài toán b) và c)
 
 Rõ ràng, điểm b) bài toán suy ra từ c); Do đó, ta chứng minh ngay khẳng định ở điểm b).
 
-Cơm. 1.
+Hình 1.
 
 ⟦folio 58⟧
 

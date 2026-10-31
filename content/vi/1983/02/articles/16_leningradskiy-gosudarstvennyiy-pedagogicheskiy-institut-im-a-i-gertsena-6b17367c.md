@@ -191,7 +191,7 @@ Tùy chọn 2
 Bài toán thi vấn đáp
 1. $(0,9)^{-1,2}$. 2. 31. 3. 2. 4. Xem hình. 4. 5. ] —∞; 1[.
 
-Cơm. 4.
+Hình 4.
 6. $\ln 2 \cdot \frac{1}{x^2} \cdot \sin \frac{1}{x} \cdot 2^{\cos \frac{1}{x}}$. 7. $\frac{100}{101}$. Gợi ý.
 $\frac{1}{n} \cdot \frac{1}{n+1} = \frac{1}{n} - \frac{1}{n+1}$. 8. Lời giải. Nối điểm $A$ này với các đầu $C$ và $D$ của đường kính đã cho. Nối điểm $C$ với điểm $F$ của giao điểm $(AD)$ với đường tròn đã cho và nối điểm $D$ với điểm $E$ của giao điểm $(AC)$ với đường tròn đã cho. Đường đi qua $A$ và $(CF) \cap (DE)$ bị loại trừ.
 9. $\frac{|\vec{b}| - |\vec{a}|}{\|\vec{b}\|}$. Gợi ý. $|BC| = |\vec{b}| - |\vec{a}|$. 10. $\frac{2ab}{a+b}$. Lời giải. Từ sự giống nhau của các tam giác $AEO$ và $ABC$ (để biết ký hiệu, xem Hình 5) $\frac{|AE|}{|AB|} = \frac{|EO|}{b}$, từ sự giống nhau
@@ -253,7 +253,7 @@ Khoa Toán
 3. Xem hình. 8.
 4. Xem hình. 9.
 
-Cơm. 9
+Hình 9
 
 Khoa công nghiệp và sư phạm
 1. $v_{cp} = \frac{3l}{2t + l/v} = 6 \text{ m/c}$.

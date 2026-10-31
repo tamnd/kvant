@@ -55,7 +55,7 @@ HƯỚNG DẪN
 
 ⟦figure⟧
 
-Cơm. 10
+Hình 10
 
 Cách đầu tiên. Không mất tính tổng quát, chúng ta sẽ giả sử rằng $^{BAC} d ^{BCA}$. Gọi $O_{a}$ và $O_{c}$ lần lượt là tâm đường tròn ngoại tiếp của các tam giác AA 0 I và $CC_{0} I$ và gọi M là trung điểm của AC.
 

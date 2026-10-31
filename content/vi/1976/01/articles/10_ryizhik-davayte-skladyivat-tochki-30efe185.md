@@ -83,7 +83,7 @@ Bây giờ chúng ta hãy xem cách chứng minh định lý về đường trun
 
 ⟦folio 47⟧
 
-Cơm. 3.
+Hình 3.
 
 nó theo tỷ lệ 2:1, tính cả các đỉnh.
 

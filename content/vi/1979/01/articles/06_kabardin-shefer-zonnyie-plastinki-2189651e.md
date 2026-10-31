@@ -61,7 +61,7 @@ Tương tự, bạn có thể xác định bán kính ngoài của hình thứ b
 
 ⟦folio 18⟧
 
-cơm. 2.
+hình 2.
 
 Một bản vẽ có chất lượng tốt phải có 25-100 vùng.
 

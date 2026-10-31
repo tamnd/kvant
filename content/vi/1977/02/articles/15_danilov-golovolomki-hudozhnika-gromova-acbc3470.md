@@ -48,11 +48,11 @@ Lập các số liệu hiển thị trên trang. 40-41, hoặc phát minh ra cá
 
 *) Các biên tập viên «Kvant» kêu gọi độc giả gửi cho họ những nhân vật thành công nhất mà họ đã nghĩ ra. Những tác phẩm hay nhất sẽ được xuất bản và tác giả của chúng sẽ được trao tặng khoản đăng ký hàng năm cho «Kvant».
 
-Cơm. 1.
+Hình 1.
 
 ⟦folio 42⟧
 
-Cơm. 2.
+Hình 2.
 
 khoa học, như hình học), về cơ bản sẽ tham gia vào việc chứng minh các định lý về các số tương đương. Không có vấn đề gì khi những hình hình học này được đặt tên hơi khó giải thích: Johannes Kepler đang bận tính toán thể tích của một “quả táo”, “dâu tây”, “hình nón thông” và “khăn xếp kiểu Thổ Nhĩ Kỳ”.
 

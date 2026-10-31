@@ -63,13 +63,13 @@ Hãy chuyển từ vị trí sang các con số và chúng ta gặp một nghị
 
 ⟦folio 10⟧
 
-Cơm. 1. Đường cong độ nhạy của mắt người.
+Hình 1. Đường cong độ nhạy của mắt người.
 
 Hóa ra toàn bộ vấn đề là mắt người không phản ứng với bất kỳ bức xạ nào mà chỉ phản ứng với một phần hẹp của phổ sóng điện từ (Hình 1) có bước sóng từ 0,4 µm đến 0,8 µm (từ tia phyllot đến tia đỏ). Chỉ có bức xạ như vậy mới là ánh sáng theo nghĩa chính xác của từ này.
 
 Hình 2 cho thấy sự cân bằng năng lượng của bóng đèn sợi đốt hiện đại. Chúng ta thấy rằng mặc dù đèn sợi đốt chuyển 86% điện năng cung cấp cho nó thành bức xạ nhưng chỉ có 12% được chuyển thành ánh sáng khả kiến. Theo Mayakovsky, 74% được chuyển thành bức xạ trung tính (tia hồng ngoại), tức là thành “nhiệt”! Là một nguồn “nhiệt” bức xạ, đèn sợi đốt gần như lý tưởng. Điều này đã được tính đến và hiện nay, việc làm khô nhanh các sản phẩm sơn (ví dụ: vỏ tự động) bằng cách sử dụng tia hồng ngoại phát ra từ đèn sợi đốt được sử dụng rộng rãi cho các ứng dụng tùy ý.
 
-Cơm. 2. Cân bằng năng lượng trong đèn sợi đốt: 12% - bức xạ ánh sáng, 74% - bức xạ hồng ngoại, 14% - cho biết tổn thất qua đầu vào, giá đỡ và qua khí.
+Hình 2. Cân bằng năng lượng trong đèn sợi đốt: 12% - bức xạ ánh sáng, 74% - bức xạ hồng ngoại, 14% - cho biết tổn thất qua đầu vào, giá đỡ và qua khí.
 
 Ánh sáng lạnh
 
@@ -87,7 +87,7 @@ Dường như có thể cải thiện các đặc tính của đèn sợi đốt
 
 ⟦folio 12⟧
 
-Cơm. 4. Cân bằng năng lượng của đèn huỳnh quang “trắng” 40 watt.
+Hình 4. Cân bằng năng lượng của đèn huỳnh quang “trắng” 40 watt.
 
 đọc và cách nó được chuyển đổi thành ánh sáng nhìn thấy được.
 
@@ -107,12 +107,12 @@ Lưu ý rằng các nguyên tử argon, mặc dù số lượng của chúng l�
 
 ⟦folio 16⟧
 
-Cơm. 10. Đường cong quang phổ phản xạ của thuốc nhuộm: a) màu đỏ; b) xanh; c) màu xanh.
+Hình 10. Đường cong quang phổ phản xạ của thuốc nhuộm: a) màu đỏ; b) xanh; c) màu xanh.
 
 Tầm nhìn màu sắc có liên quan đến cấu trúc phức tạp của võng mạc mắt người. Nó bao gồm các hình que và hình nón - những tế bào nhạy cảm với ánh sáng liên kết với các đầu của dây thần kinh thị giác phân nhánh ở võng mạc (Hình 9). Que nhạy hơn và hoạt động ngay cả trong điều kiện ánh sáng yếu (tầm nhìn ban đêm), nhưng thực tế không thể phân biệt được màu sắc (“tất cả mèo đều có màu xám vào ban đêm”). Các tế bào hình nón kém nhạy hơn và chỉ hoạt động khi ánh sáng đủ cao (tầm nhìn ban ngày), nhưng điều này cho phép phân biệt màu sắc. Để so sánh, chúng tôi chỉ ra rằng chỉ có gậy mới phù hợp, vì vậy chúng nên giao tiếp bằng mắt. Mặt khác, gà chỉ có hình nón nên chúng đi ngủ vào lúc hoàng hôn.
 
 Mắt người được cho là có ba loại tế bào hình nón.
 
-Cơm. 11. Sự phân bố năng lượng trong quang phổ của đèn phát quang: a) Ánh sáng ban ngày; b) ánh sáng “trắng”; c) Ánh sáng “trắng rõ ràng”.
+Hình 11. Sự phân bố năng lượng trong quang phổ của đèn phát quang: a) Ánh sáng ban ngày; b) ánh sáng “trắng”; c) Ánh sáng “trắng rõ ràng”.
 
 Khi một trong những loại ánh sáng hình nón này được hấp thụ, nó sẽ tạo ra cảm giác về màu xanh lam, một loại khác là màu xanh lá cây và một phần ba màu đỏ. Màu sắc của vật thể mà chúng ta cảm nhận được phụ thuộc vào sự tương ứng giữa cường độ kích thích của ba loại hình nón được chỉ định. Sự tương ứng này lại phụ thuộc vào thành phần quang phổ của ánh sáng phản xạ từ vật thể và đi vào mắt. Thành phần quang phổ của ánh sáng phản xạ được xác định bởi sự phụ thuộc của độ phản xạ của vật thể vào bước sóng (Hình 10) và thành phần quang phổ của ánh sáng tới vật thể. Vì vậy, nhiều loại trong số này có màu sắc hoàn toàn khác nhau trong ánh sáng ban ngày và ánh sáng sợi đốt. Vì vậy, những người mua hàng tại cửa hàng có kinh nghiệm thường mang đồ mua đến tận cửa hàng để tránh những bất ngờ về sau. Thay đổi màu sắc khó chịu

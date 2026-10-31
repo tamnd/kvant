@@ -47,20 +47,20 @@ V. Berezin
 
 ⟦folio 21⟧
 
-Cơm. 1, d.
+Hình 1, d.
 (Hình 4a) thêm ba hình vuông vào bản gốc. Áp dụng đối xứng $f_2 = S_a$ cho các hình vuông này, ta được 8 hình vuông - xem Hình 4, b. Bằng cách lặp lại quy trình (các phép quay liên tiếp theo sau là sự đối xứng), chúng ta thu được hình ảnh như trong Hình 4, tr. Rõ ràng rằng việc áp dụng các thành phần có thể có của các chuyển vị $f_1$ và $f_2$ cho hình vuông ban đầu trong sơ đồ sẽ cho Hình 2.
 
-Cơm. 3.
+Hình 3.
 
 ⟦folio 23⟧
 
-Cơm. 5.
+Hình 5.
 
 bản thân vật trang trí là một nhóm liên quan đến hoạt động của thành phần chuyển vị. “Bộ xương” của một vật trang trí có thể được hiểu là sơ đồ của nhóm đối xứng của nó (chỉ có sự chuyển giao không được mô tả trên bộ xương).
 
 Lưu ý rằng bất kỳ hình “đối xứng” nào của một “thứ tự” nhất định (xem ở trên và Hình 5, a) đều có thể được ánh xạ bằng một số chuyển động từ nhóm đối xứng sang bất kỳ hình nào khác có cùng “thứ tự”.
 
-Cơm. 6.
+Hình 6.
 
 ⟦folio 24⟧
 
@@ -118,7 +118,7 @@ Hình chữ nhật
 
 XV
 
-Cơm. 7.
+Hình 7.
 
 24
 

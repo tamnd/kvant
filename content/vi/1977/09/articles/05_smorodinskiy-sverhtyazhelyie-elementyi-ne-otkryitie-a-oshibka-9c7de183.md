@@ -45,11 +45,11 @@ Trong số mới «Kvant» năm 1976, khả năng khám phá các nguyên tố s
 
 ⟦folio 20⟧
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 3.
+Hình 3.
 
-Cơm. 2.
+Hình 2.
 
 bất kể chúng ta chọn đường $a_1, a_2$ và điểm $A, S, T$ như thế nào.
 
@@ -107,7 +107,7 @@ Nếu chúng ta thay tọa độ của điểm $S, T, L, P, Q$ vào phương tr�
 
 *) Ví dụ: nếu $M = L$ thì $A_1 = (SM) \cap \bigcap a_1 = L, (AA_1) \cap a_2 = L$ và $(TA_2) \cap (MS) = L$; các điểm còn lại được vẽ tương tự.
 
-Cơm. 5.
+Hình 5.
 
 Để làm điều này, hãy vẽ đường thẳng $MA_2$ và tìm điểm $B_1$ giao điểm của nó với đường thẳng $b_1$, người xa nhất cũng tìm điểm $B_2$ và vẽ đường thẳng $MB_2$. Nếu đường này đi qua “lối ra” (điểm $T$) thì điểm $M$ thuộc đường cong, nếu không đi qua thì không thuộc đường cong. (Thuật ngữ hoàn toàn tự nhiên: đã “vào” ở Hình 5 tại “lối vào”, chúng ta “ra” qua “lối ra”.)
 

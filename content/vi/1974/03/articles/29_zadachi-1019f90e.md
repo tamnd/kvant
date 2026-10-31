@@ -62,8 +62,8 @@ Bây giờ hãy lấy vài tờ giấy dày hơn, keo dán, kéo và làm một 
 
 Kiểm tra 1. Điều gì xảy ra nếu một vòng giấy thông thường (không xoắn) bị cắt dọc theo đường giữa của nó? Rõ ràng - hai vòng và chu vi của mỗi vòng sẽ bằng chiều dài của khoảng.
 
-Cơm. 1.
-Cơm. 2.
+Hình 1.
+Hình 2.
 
 ⟦folio 74⟧
 
@@ -94,7 +94,7 @@ Kiểm tra 6. Uốn cong dải giấy và thực hiện các vết cắt như tr
 
 ⟦folio 75⟧
 
-Cơm. 5.
+Hình 5.
 
 a) Nếu mọi thứ được thực hiện chính xác, nó sẽ thành ra...
 b) Nếu bạn cho phép một số sai lệch so với hướng dẫn, bạn có thể nhận được...
@@ -104,7 +104,7 @@ a) Bây giờ tiếp tục cắt dọc theo mô hình dọc theo tất cả các
 b) Nếu công việc được thực hiện sai lệch so với hướng dẫn (do nhầm lẫn hoặc cố ý) thì công việc vẫn diễn ra...
 Đáp số cho các bài toán và thí nghiệm trước đó được đưa ra ở cuối tạp chí. Sáu thí nghiệm tiếp theo sẽ không được chỉ định. Bạn sẽ phải tự mình tìm cách lời giải. Chúng tôi đặt ra điều kiện sau: để đạt được kết quả bằng cách sử dụng một mô hình được cắt từ một dải giấy, theo một cách nào đó
 
-Cơm. 6. Hình 7.
+Hình 6. Hình 7.
 
 đậu xanh, cắt nhỏ và dán các đầu lại với nhau.
 Về bài kiểm tra 8. Tạo mục tiêu bằng 4 vòng.
@@ -240,7 +240,7 @@ $$N = 2mgv \frac{h_1 - h_2}{l} = 200 \text{ ктм} \approx 272 \text{ л. c.}$$
 
 Do đó $a = \frac{fb}{f - b}$. Khi thấu kính dịch chuyển và chiếm vị trí $J'$ thì ảnh nằm trên trục phụ của thấu kính trong một mặt phẳng nằm cách thấu kính một khoảng $b$ (điểm $B'$). Khoảng cách cần thiết là $l = BB'$. Từ sự giống nhau của các tam giác $ABB'$ và $AOO'$, trong đó $O$ và $O'$ là tâm của thấu kính ở vị trí ban đầu và cuối cùng, suy ra: $\frac{l}{L} = \frac{a - b}{a}$.
 
-Cơm. 1.
+Hình 1.
 
 Từ đây, tính đến giá trị của $a$, chúng ta tìm được $l = \frac{(a - b) \cdot L}{a} = \frac{Lb}{f} = 1,2 \text{ см}$.
 
@@ -257,7 +257,7 @@ b) Đổ phần còn lại trong can 17 lít vào can 12 lít (nếu đầy thì
 3. 7980:95 = 84 hoặc 7030:95 = 74.
 4. Hai hình lục giác có thể chia mặt phẳng thành 38 phần (Hình 2), còn hai hình lục giác chỉ có thể chia mặt phẳng thành 14. Chứng minh rằng số phần mà hai đa giác chia mặt phẳng bằng số giao điểm của các cạnh của chúng, tăng thêm 2.
 
-Cơm. 2.
+Hình 2.
 
 ⟦folio 79⟧
 
@@ -297,7 +297,7 @@ Về tra tấn 7. a) ... một chuỗi 5 vòng.
 
 6) ... 5 vòng, một phần đan vào nhau, một phần lồng vào nhau.
 
-Cơm. 3.
+Hình 3.
 
 Đến bài viết “Trò chơi 15”
 
@@ -352,7 +352,7 @@ Chúng tôi biểu thị ngắn gọn chuỗi biến đổi này như sau: (1←
 5. 317.
 6. Không. Bóng đèn được thay sẽ cháy yếu hơn vì điện trở của nó nhỏ hơn so với các bóng đèn khác và dòng điện trong mạch hầu như không thay đổi.
 
-Cơm. 6.
+Hình 6.
 
 Đến "Chineward"
 (xem «Kvant», 1974, số 2, trang 4 vùng)

@@ -26,7 +26,7 @@ translation_quality: draft
 Trong khi Ziman Nezhota đang lấy ví ra khỏi túi, anh ấy hoàn toàn khó chịu trước nhận xét của Adams ở cuối câu chuyện này:
 - Nhân tiện, tôi muốn biết làm thế nào bạn có thể chứng minh điều này mà không cần bất biến?
 Dựa vào bất biến mô tả trong bài viết của O. Viro, ông chứng minh
-Cơm. 3. a) 6)
+Hình 3. a) 6)
 Hãy đối mặt với sự thật, một con amip trong áo khoác không thể gỡ được các ngón tay của anh ấy.
 Chúng ta hãy tưởng tượng vẽ hai đường cong khép kín: một đường màu xanh - dọc theo áo khoác quanh cánh tay phải (tay áo) và một đường màu đỏ, nối ngón cái và ngón trỏ của bàn tay phải và tay trái bên trong amip (Hình 3,a). Hai đường cong này tạo thành một sự gắn kết (Hình 3,b), đồng vị với đường cong được thể hiện trong Hình 4.2 trên trang. 9. Nếu amip có thể tách được hai tay ra thì cô ấy có thể cởi áo khoác ra. Nhưng điều này là không thể, vì không thể tháo rời sự gắn kết của Hình 4.2 (xem Bài tập 8 ở trang 12).
 O.V.

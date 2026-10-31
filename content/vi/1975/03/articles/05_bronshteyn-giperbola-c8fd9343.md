@@ -61,10 +61,10 @@ Qua mỗi điểm $M_1$ có tọa độ $x_1$ và $y_1$ *) sẽ đi qua một (n
 ⟦folio 17⟧
 
 ⟦figure⟧
-Cơm. 1.
+Hình 1.
 
 ⟦figure⟧
-Cơm. 2.
+Hình 2.
 
 ## Hình dạng của một hyperbol, đỉnh và các đường tiệm cận của nó
 
@@ -83,10 +83,10 @@ Chúng ta hãy mô tả dạng của một hyperbol (chính xác hơn là một 
 Không giống như một vòng tròn, có độ cong bằng nhau ở tất cả các phần của nó, một hyperbol có độ cong mạnh nhất ở vùng lân cận đỉnh của nó và “thẳng ra” khi nó di chuyển ra xa đỉnh của nó theo bất kỳ hướng nào. Chúng tôi không cung cấp bằng chứng về tính chất hiển nhiên này của phép cường điệu; chúng tôi sẽ không
 
 ⟦figure⟧
-Cơm. 3.
+Hình 3.
 
 ⟦figure⟧
-Cơm. 4.
+Hình 4.
 
 2 «Kvant» № 3
 
@@ -120,7 +120,7 @@ Chúng ta hãy liệt kê một số tính chất của cường điệu đều 
 ⟦folio 19⟧
 
 ⟦figure⟧
-Cơm. 6.
+Hình 6.
 
 trục) được ký hiệu là $a$, do đó
 $$k = \pm \frac{a^2}{2},$$
@@ -141,7 +141,7 @@ $$x = \frac{\sqrt{2}}{2}(x' - y'), \quad y = \frac{\sqrt{2}}{2}(x' + y'). \tag{3
 ⟦column⟧
 
 ⟦figure⟧
-Cơm. 7.
+Hình 7.
 
 Chứng minh điều đó khi điểm $M$ nằm trong góc $X'OY$ - trong trường hợp này, cả 4 tọa độ của nó đều dương.
 
@@ -157,7 +157,7 @@ và $x^2 - y^2 = -a^2$ (hoặc $y^2 - x^2 = a^2$).
 Cả hai hyperbol này đều được “nội tiếp” trong hình vuông $pqrs$ với bên $2a$; tiệm cận chung của chúng là sự tiếp tục của các đường chéo $pr$ Và $qs$ hình vuông "cơ bản" này.
 
 ⟦figure⟧
-Cơm. 8.
+Hình 8.
 
 19
 
@@ -185,7 +185,7 @@ Một đường cong gồm hai nhánh và thu được nhờ PC của một hype
 
 ⟦folio 21⟧
 
-Cơm. 11.
+Hình 11.
 
 nhánh của một hyperbol đều.
 Cụ thể (Hình 10): hyperbola (chính xác hơn là một trong các nhánh của nó) là một tập hợp gồm bốn đỉnh M của hình bình hành có diện tích k cho trước, trong đó một đỉnh O trùng với đỉnh của một góc cho trước và hai - L và N - nằm trên các cạnh của nó. Đây chính là định nghĩa đẳng thức trước đó (chứng minh).
@@ -226,7 +226,7 @@ $$MQ \cdot MQ' = 4k \cdot \sin^2 \omega/2 = (k')^2,$$
 
 Bây giờ chúng ta hãy xoay hình bán nguyệt $QPQ'$ xung quanh đường kính $QQ'$ bằng $90^\circ$ (Hình 11.6). Đoạn $MP$ sẽ thẳng đứng phía trên mặt phẳng hình vẽ 11a (chúng ta sẽ coi nó nằm ngang). Điểm $P$ sẽ ở trên điểm $M$ và cách nó một khoảng $k'$ ($P'$). Hãy làm điều này với mỗi hình bán nguyệt được xây dựng theo cách đã chỉ ra cho bất kỳ điểm hyperbol nào. Kết quả là toàn bộ hyperbol tăng lên trên mặt phẳng mà nó nằm một khoảng $k'$ và vẫn ở trong cùng một mặt phẳng. Đồng thời, mỗi hình bán nguyệt $QPQ'$ quay một góc $90^\circ$ sẽ nằm trên nón tròn thu được bằng cách quay tiệm cận $OX$ của hyperbol quanh trục của nó (chứng minh). Do đó, điểm $M$ của hyperbol của chúng ta (ở vị trí nâng lên) vừa nằm trên bề mặt của hình nón vừa nằm trong mặt phẳng song song với trục của hình nón này, đó là điều chúng ta cần chứng minh.
 
-Cơm. 12.
+Hình 12.
 
 Tính chất đáng chú ý này không chỉ áp dụng cho một phần của hình nón tròn bởi một mặt phẳng song song với trục của nó, mà còn áp dụng cho bất kỳ phần nào xác định cả hai nửa hình nón. Thực tế này liên quan đến lý thuyết tổng quát về đường cô-nic nên chúng tôi sẽ không chứng minh ở đây *).
 

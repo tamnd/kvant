@@ -36,7 +36,7 @@ Thật tự nhiên khi hình dung chuyển động của một mặt phẳng the
 $$|g(A)g(B)| = |AB|.$$
 Chuyển động nhìn thấy của mặt phẳng có thể được mô tả như sau. Chúng ta hãy tưởng tượng một mặt phẳng có dạng hai tấm chồng lên nhau, mặt trên của nó bị xuyên thủng. Có một số điểm được đánh dấu ở tờ dưới cùng; những điểm giống nhau được đánh dấu trên tờ trên cùng. Nốt Rê-
 
-Cơm. 1.
+Hình 1.
 
 ⟦folio 3⟧
 
@@ -56,11 +56,11 @@ Các loại chuyển vị đã được biết từ lớp 5: đối xứng trụ
 
 *) Trong sách giáo khoa “Hình học 6-8” (M., “Tha thứ”, 1979), tiên đề này được xây dựng hơi khác một chút (tr. 374); Chúng tôi để người đọc xác minh rằng công thức đưa ra ở đây tương đương với công thức trong sách giáo khoa.
 
-Cơm. 2.
+Hình 2.
 
 ⟦folio 4⟧
 
-Cơm. 3.
+Hình 3.
 
 có nghĩa là thông qua $O$ tâm của đường tròn được mô tả xung quanh tam giác này (Hình 2) và xuyên qua $l$ - đường thẳng đi qua trung điểm $M$, $N$ các bữa tiệc $[AB]$ Và $[BC]$. Tam giác $ABC$ - điện áp bằng nhau (biến $g$ dịch điểm $A, B$ V. $B, C$, Đó là lý do tại sao $|AB| = |BC|$. Vì thế, đến lượt $r$ với trung tâm $O$, dịch điểm $A$ V. $B$, dịch điểm $B$ V. $C$. Tiếp theo, chúng tôi ký hiệu bằng $s$ sự đối xứng qua một đường thẳng $l$, bởi vì $t$ - dịch song song, dịch một điểm $M$ V. $N$. Khi đó đối xứng trượt $h = s^\circ t$ dịch điểm $A$ V. $B$, và chỉ $B$ V. $C$. Vì vậy, chúng tôi đã tìm thấy hai biến $r$ Và $h$, mỗi trong số đó dịch các điểm $A, B$ tương ứng với $B, C$. Không có sự thay đổi thứ ba như vậy (theo tiên đề về tính di động của mặt phẳng). Vì vậy, các biến $g$, cũng có nghĩa là $A, B$ tương ứng với $B, C$, phải khớp với một trong hai $r$, hoặc với $h$, tức là trong trường hợp đang xét $g$ là đối xứng quay hoặc đối xứng trượt.
 
@@ -100,7 +100,7 @@ Lời giải. Đặt $O$ là giao điểm của đường $l_1$ và $l_2$ (Hình
 
 ⟦folio 6⟧
 
-Cơm. 7.
+Hình 7.
 
 dẫn $O, A$ đến $O, B$, do tiên đề di động) $g$ trùng với $r$ hoặc $s_2$. Nhưng độ dịch chuyển của $g$ không thể trùng với $s_2$, vì $s_2$ thay đổi hướng, trong khi $g$ vẫn giữ nguyên (theo Định lý 2). Do đó, $g=r$, tức là $s_2^\circ s_1$, là phép quay qua góc $2\alpha$ quanh điểm $O$.
 
@@ -112,9 +112,9 @@ Bài toán 3. Tìm thành phần phép quay và phép dịch song song.
 
 *) Để biết thêm lời giải của bài toán này, xem «Kvant», 1980, Số 1, tr. 44.
 
-Cơm. 8.
+Hình 8.
 
-Cơm. 9.
+Hình 9.
 
 Lời giải. Giả sử $r$ là phép quay có tâm $O$ qua một góc $\alpha$ (Hình 8) và $t$ là phép dịch song song. Hãy đặt $A=t(O)$. Tiếp theo, chúng ta vẽ các đường thẳng $l_1, l_2$ và các đường vuông góc ($OA$), đường đầu tiên đi qua điểm $O$ và đường thứ hai đi qua điểm giữa của đoạn $OA$. Sự đối xứng đối với các đường thẳng $l_1, l_2$ được ký hiệu là $s_1, s_2$. Sau đó từ bài toán 2 nó theo sau $s_2^\circ s_1=t$. Tiếp theo, bằng $l$, chúng ta biểu thị đường thẳng đi qua điểm $O$, từ đó thu được $l_1$ phép quay qua góc $\frac{1}{2}\alpha$ và bằng $s$ chúng ta biểu thị sự đối xứng đối với đường thẳng $l$. Sau đó từ bài toán 1 nó theo sau $s_1^\circ s=r$. Điều này có nghĩa là $t^\circ r=(s_2^\circ s_1)\circ(s_1^\circ s)=s_2(s_1^\circ s_1)\circ s=s_2^\circ s$, từ đó suy ra (nhờ bài toán 1) rằng $t^\circ r$ là phép quay qua một góc $\alpha$ quanh điểm $O_1$ tại đó các đường $l_2$ và $l$ giao nhau.
 

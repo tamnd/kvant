@@ -51,13 +51,13 @@ $$\frac{|BA_2|}{|A_2C|} = \frac{|BA|}{|AC|} = \frac{c}{b}.$$
 
 (5) Nếu $M$ là điểm tiếp tuyến của đường tròn nội tiếp với các cạnh $AB$, thì $|AM| = p-a$. (Tương tự,
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
 ⟦folio 33⟧
 
-Cơm. 3, A.
+Hình 3, A.
 
 Ngoài ra còn có các đoạn khác trong đó các cạnh của tam giác được chia bởi các điểm tiếp tuyến với đường tròn nội tiếp.)
 
@@ -81,7 +81,7 @@ Khoảng cách giữa các tâm của “vòng tròn đáng chú ý”.
 
 Để chứng minh hai công thức đầu tiên, hãy nhớ lại rằng nếu $M$ và $N$ là
 
-Cơm. 3, b.
+Hình 3, b.
 
 giao điểm của một đường thẳng tùy ý đi qua một điểm $P$ cho trước với đường tròn bán kính $R$ tâm $O$, rồi $|PM| \cdot |PN| = |R^2 - |OP|^2$. (Điều này xuất phát từ sự giống nhau của các tam giác $PMM'$ và $PNN'$, trong đó $M'$ và $N'$ là giao điểm của đường $OP$ với đường tròn; Hình 3, a và b.) Suy ra rằng $R^2 - |OI|^2 = |IA| \cdot |IL|$, trong đó $L$ là giao điểm của các bissetris của góc $A$ với vòng tròn ngoại tiếp (Hình 4). Nhưng $|IA| = r/\sin(\hat{A}/2)$, và $|IL| = |LB| = 2R \times \sin(\hat{A}/2)$ theo câu (7), do đó $R^2 - |OI|^2 = 2Rr$. Tương tự như vậy, $|OI_a|^2 - R^2 = |I_aL| \cdot |I_aA| = 2R \times \sin(\hat{A}/2) \times r_a/\sin(\hat{A}/2) = 2Rr_a$. Cuối cùng, $|II_a|^2 = (2|IL|) \cdot (|I_aA| - |IA|) = 4R \sin \frac{\hat{A}}{2} \cdot \frac{r_a - r}{\sin \frac{\hat{A}}{2}} = 4R(r_a - r)$.
 

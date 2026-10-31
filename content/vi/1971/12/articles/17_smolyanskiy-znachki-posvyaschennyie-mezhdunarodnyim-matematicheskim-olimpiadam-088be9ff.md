@@ -53,4 +53,4 @@ IV MMO diễn ra từ ngày 7/7 đến ngày 13/7/1962 tại Praha (Tiệp Khắ
 
 Đội Liên Xô gồm có N. Bernitein (giải nhất), L. Goncharova (giải nhất), A. Potenun (giải nhì), G. Margulis (giải nhì), G. Kuranov (giải ba), D. Mushitan (giải ba), E. Pankratev và A. Shermenev.
 
-Cơm. 1. Hình 2. Hình 3. Hình 4.
+Hình 1. Hình 2. Hình 3. Hình 4.

@@ -40,10 +40,10 @@ Trong hình học Euclide, chúng ta có các điểm và đường thẳng củ
 Chúng ta có thể kiểm tra xem hình học mà chúng ta sẽ xây dựng có “không tệ hơn” Euclide hay không: tất cả các tiên đề sẽ được thỏa mãn trong đó, ngoại trừ “tiên đề song song”: dễ dàng nhận thấy rằng bây giờ thông qua một “điểm” bên ngoài “đường thẳng”, có thể vẽ nhiều hơn một tiên đề “không giao nhau” với nó. Trong Hình 1, qua điểm $A$, không nằm trên dây $L$, vẽ hai dây cung - $L_1$ và $L_2$, có $L$ ở một đầu chung; những hợp âm $L_1$ và $L_2$ này được gọi là *song song* $L$, vì chúng tôi coi chúng là những hợp âm thẳng không có điểm kết thúc và theo quan điểm mới của chúng tôi, đường $L$ không giao nhau với $L_1$ hoặc $L_2$. (Cũng lưu ý rằng các đường “không giao nhau” với $L$ nằm trong khu vực được giới hạn bởi các đường $L_1$ và $L_2$, được tô màu xanh lam và các đường giao nhau với $L$ nằm trong vùng không được tô bóng.) Điều này có nghĩa là hình học “mới” sẽ không có gì khác ngoài *hình học Lobachevsky*. Mô hình hình học lobachevsky này được gọi là *mô hình Cayley-Klein*; nó đã được đề cập trong các bài báo của S. Gindikin “Thế giới huyền diệu của Henri Poincaré” (xem trang 9) và “Felix Klein” (xem «Kvant» số 12 năm 1975).
 
 ⟦figure⟧
-Cơm. 1
+Hình 1
 
 ⟦figure⟧
-Cơm. 2
+Hình 2
 
 ### Định nghĩa chuyển động
 
@@ -123,7 +123,7 @@ Giả sử có một góc nào đó với đỉnh tại điểm $C$, - góc $C$.
 Hãy để chúng tôi giới thiệu ký hiệu sau: nếu $l$ là một đoạn nào đó thì $|l|$ là độ dài (Euclide) thông thường của nó, $\{l\}$ là độ dài của nó theo nghĩa mới và $[l]=\dfrac{q^{\{l\}}-1}{q^{\{l\}}+1}$ ($q\gt1$ là cơ số của logarit trong định nghĩa khoảng cách $\rho$). Lưu ý rằng giá trị $[l]$ luôn nhỏ hơn một (nhưng lớn hơn 0).
 
 ⟦figure⟧
-Cơm. 3
+Hình 3
 
 Xét một tam giác $ABC$ có đỉnh $C$ trùng với tâm của đường tròn. Đặt $|BC|=a$, $|AC|=b$, $|AB|=c$ và $r$ là bán kính của hình tròn. Hãy tiếp tục cạnh $AB$ cho đến khi nó giao với đường tròn tại các điểm $M$ và $N$, nối các điểm $M$ và $N$ với đỉnh $C$ (Hình 3) và biểu thị các góc thu được là $\alpha$, $\gamma$ và $\beta$ ($\gamma$ là góc ở đỉnh $C$ của tam giác $ABC$). Khi đó $\widehat{MNC}=\widehat{NMC}=\dfrac\pi2-\dfrac{\alpha+\beta+\gamma}2$, và sử dụng định lý thông thường về sin, chúng ta tìm được:
 $$
@@ -166,7 +166,7 @@ Bây giờ chúng ta hãy chứng minh hai phát biểu đáng chú ý của hì
 Định lý 1. *Tổng các góc của một tam giác bất kỳ đều nhỏ hơn* $\pi$.
 
 ⟦figure⟧
-Cơm. 4
+Hình 4
 
 Bằng chứng. Trước tiên chúng ta hãy xem xét một tam giác vuông $ABC$, với một góc vuông ở đỉnh $C$: $\widehat{C}=\dfrac\pi2$ (Hình 4). Từ định lý cosin suy ra rằng $$
 (1-[a]^2)(1-[b]^2)=1-[c]^2,\tag8
@@ -205,7 +205,7 @@ $$
 Trường hợp tam giác vuông được phân tích.
 
 ⟦figure⟧
-Cơm. 5
+Hình 5
 
 Bây giờ hãy xem xét một tam giác tùy ý $ABC$ và giả sử rằng $\{c\}$ là cạnh dài nhất của nó. Chúng ta thả đường vuông góc $CD$ từ điểm $C$ sang cạnh $AB$. Nó chia tam giác $ABC$ của chúng ta thành hai hình chữ nhật: tam giác $ACD$ với các góc “cấp” $\alpha$ và $\gamma$ và tam giác $BCD$ với các góc $\delta$ và $\beta$ (Hình 5). Theo những gì đã được chứng minh, $\alpha+\gamma\lt\dfrac\pi2$ và $\beta+\delta\lt\dfrac\pi2$, từ đó tổng các góc của tam giác $ABC$: $\alpha+\beta+\gamma+\delta$ nhỏ hơn $\pi$.
 
@@ -260,7 +260,7 @@ $$
 Và để kết luận, chúng tôi lưu ý trường hợp sau đây. Tất cả các kết quả trên có thể dùng làm nguồn cho nhiều bài toán hình học thông thường và cũng có thể được sử dụng cho lời giải bài toán.
 
 ⟦figure⟧
-Cơm. 6
+Hình 6
 
 Hãy giải thích điều này bằng một ví dụ.
 

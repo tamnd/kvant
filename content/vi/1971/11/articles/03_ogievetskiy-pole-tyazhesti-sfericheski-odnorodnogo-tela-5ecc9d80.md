@@ -49,7 +49,7 @@ trong đó $M$ là khối lượng bề mặt. Nói cách khác, lực kéo bên
 
 ⟦folio 18⟧
 
-Cơm. 3.
+Hình 3.
 
 Bây giờ chúng ta sử dụng phép đảo ngược và thay thế $l$ trong (6) bằng $\bar{l} \frac{d}{R}$ theo (4):
 

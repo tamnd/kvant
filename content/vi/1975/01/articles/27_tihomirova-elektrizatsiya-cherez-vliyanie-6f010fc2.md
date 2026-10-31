@@ -42,10 +42,10 @@ Chúng ta hãy xem xét kinh nghiệm này. Một quả cầu kim loại không 
 diện tích tương ứng của bề mặt quả bóng $B$. Không khó để giải thích sự phân bổ phí này. Thực tế là các electron tự do, trước đây được phân bố đều trên toàn bộ quả bóng $B$, dưới tác dụng của điện tích của quả bóng $A$ sẽ chuyển động và được phân phối lại khắp quả bóng sao cho bên trái nhiều hơn bên phải. Do đó, một điện tích âm $-q_B$ được tạo ra, tức là được cảm ứng ở phía bên trái của quả bóng, và một điện tích dương $+q_B$ được tạo ra ở phía bên phải. Đây là hiện tượng cảm ứng tĩnh điện. Nhân tiện, chúng ta hãy lưu ý rằng trong trường hợp của chúng ta, giá trị của điện tích cảm ứng $q_B$ tất nhiên nhỏ hơn giá trị của điện tích cảm ứng $q_A$, vì ảnh hưởng của điện tích cảm ứng cũng mở rộng đến các vật thể khác xung quanh nó, trong đó
 
 ⟦figure⟧
-Cơm. 1.
+Hình 1.
 
 ⟦figure⟧
-Cơm. 2.
+Hình 2.
 
 ⟦folio 74⟧
 
@@ -68,15 +68,15 @@ Chúng tôi đã chỉ ra rằng dưới tác dụng của một vật tích đi
 Độ lớn của điện tích cảm ứng có thể tăng lên đáng kể, gần như đưa nó đến gần độ lớn của điện tích cảm ứng nếu vật tích điện được đặt bên trong một kim loại dài.
 
 ⟦figure⟧
-Cơm. 3.
+Hình 3.
 
 ⟦figure⟧
-Cơm. 4.
+Hình 4.
 
 ⟦folio 75⟧
 
 ⟦figure⟧
-Cơm. 5.
+Hình 5.
 
 một hình trụ (hoặc quả bóng) bằng kim loại có một lỗ nhỏ. Trong trường hợp này, ảnh hưởng của vật tích điện lên các vật thể khác gần như bị loại trừ, do đó, trên bề mặt bên trong của hình trụ (hoặc quả bóng) sẽ xuất hiện một điện tích có độ lớn gần bằng điện tích của quả bóng, nhưng ngược dấu, còn ở bề mặt bên ngoài - giống nhau về độ lớn và dấu. Nếu một vật tích điện chạm vào thành trong của hình trụ, các điện tích trái dấu sẽ bị trung hòa và các điện tích cùng dấu sẽ vẫn tồn tại trên hình trụ giống như trên vật tích điện (Hình 5). Vì vậy, có thể chuyển gần như hoàn toàn điện tích từ cơ thể này sang cơ thể khác.
 

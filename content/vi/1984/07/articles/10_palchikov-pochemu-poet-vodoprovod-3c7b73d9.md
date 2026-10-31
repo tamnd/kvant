@@ -52,7 +52,7 @@ Trong trường hợp này, sự rung động của mực nước giúp giảm r
 
 Lưu ý rằng hệ thống đang được xem xét chỉ thực sự được quan sát khi
 
-Cơm. 1.
+Hình 1.
 
 Khi van điều tiết bị lỏng và có khả năng chuyển động tự do trong giới hạn nhất định của nước, trục vít và gioăng cao su bị biến dạng nghiêm trọng và lặp lại mép tiếp theo xung quanh phản ứng.
 

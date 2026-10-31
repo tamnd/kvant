@@ -53,7 +53,7 @@ lớp 9
 
 2. Hai quả cầu có cùng khối lượng bay về phía nhau với vận tốc lần lượt là $v_1$ và $v_2$. Số lượng tín hiệu được giải phóng khi va chạm là $Q$. Tìm khối lượng của các quả bóng (do va chạm nên các quả bóng dính vào nhau).
 
-Cơm. 1. Hình 2. Hình 3.
+Hình 1. Hình 2. Hình 3.
 
 3. Một quả cầu có bán kính $R$ và khối lượng $m$ từ từ rơi xuống chất lỏng với tốc độ không đổi. Một quả bóng có cùng bán kính phải có khối lượng bằng bao nhiêu để nó bay lên với tốc độ bằng với tốc độ quả bóng đầu tiên rơi xuống? Mật độ chất lỏng $\rho$; lực kéo tỷ lệ thuận với tốc độ.
 
