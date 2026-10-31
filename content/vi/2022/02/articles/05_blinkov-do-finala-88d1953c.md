@@ -88,10 +88,10 @@ Bài toán 5. Công suất tổng Trong mạch như hình 12, công suất tổn
 
 ⟦figure⟧
 
-Hình 12
+Cơm. 12
 
 ⟦figure⟧
 
-Hình 13
+Cơm. 13
 
 Lớp 11 Bài toán 1. Tam giác và phim Thanh đèn OA và AB được nối bằng bản lề với nhau (Hình 14). Đầu O của thanh OA được gắn bản lề trên một kim đan nhẵn, và ở đầu B của thanh AB một vòng dầu nhỏ được gắn bằng bản lề.

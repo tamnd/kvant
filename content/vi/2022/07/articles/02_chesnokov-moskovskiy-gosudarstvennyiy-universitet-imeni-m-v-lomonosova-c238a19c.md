@@ -30,7 +30,7 @@ BÀI KIỂM TRA
 
 ⟦figure⟧
 
-Hình 13
+Cơm. 13
 
 từ trường. Từ thông qua các mạch tăng tuyến tính theo thời gian: $)_{1} 2 H t, ) 2 3 H t$, trong đó H 0,004 V. Xác định dòng điện I trong dây tại ranh giới chung của mạch.
 
