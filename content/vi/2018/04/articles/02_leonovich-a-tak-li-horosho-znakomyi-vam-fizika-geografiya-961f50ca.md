@@ -88,14 +88,14 @@ LA B O R A T O R I A
 
 ⟦figure⟧
 
-Hình 2. Hội
+Cơm. 2. Hội
 
 Tất cả những gì còn lại là ấn góc của dao cạo đang hoạt động vào tay cầm. Cánh quạt quay như điên. Đối với sinh viên vật lý, trải nghiệm được đề xuất giúp các em hiểu được mối liên hệ giữa chuyển động quay và chuyển động dao động. Và điều này góp phần vào sự hiểu biết về một hiện tượng vật lý đẹp đẽ và quan trọng như hiệu ứng Zeeman. Có nhiều lựa chọn cho màn trình diễn ngoạn mục này. Một cậu bé chăm chỉ có thể cắt mô hình máy bay từ một mảnh gỗ, hoặc đơn giản là từ một mảnh gỗ, và tự do gắn một cánh quạt nhỏ làm bằng thiếc hoặc thậm chí là bìa cứng (Hình 3). Có thể dao động
 
 ⟦figure⟧
 
-Hình 3. Một lựa chọn khác
+Cơm. 3. Một lựa chọn khác
 
-Hình 1. Khoảng trống
+Cơm. 1. Khoảng trống
 
 tổ chức bằng cùng một chiếc dao cạo hoặc một chiếc lược chắc chắn. Sự rung động của thân máy bay khiến cánh quạt quay hoàn hảo. Và nó khá đơn giản, đối với những người lười biếng nhất - bạn thoải mái nhét cánh quạt cùng với trục của nó vào một ống từ một cây bút bi lớn cũ hoặc vào một ống cocktail và di chuyển nhẹ nó dọc theo ống bằng một chiếc lược. Sau năm phút, bạn sẽ hiểu rõ về nó, bạn sẽ tìm được chỗ cho cả ngón tay và răng lược. Chúc bạn may mắn!

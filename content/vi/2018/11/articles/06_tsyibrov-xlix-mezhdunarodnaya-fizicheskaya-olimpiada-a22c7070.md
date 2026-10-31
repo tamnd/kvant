@@ -62,13 +62,13 @@ tình trạng ăn sáng. Bạn được quyền thực hiện bước đi đầu
 
 ⟦figure⟧
 
-Hình 5
+Cơm. 5
 
 9. Trong các ô A1:A10 (Hình 6), màu phông chữ khớp với màu tô. Công thức từ B1 (hiển thị trên thanh công thức) bằng cách sử dụng
 
 ⟦figure⟧
 
-Hình 6
+Cơm. 6
 
 tính năng tự động điền được sao chép sang các ô B2:B10. Tìm tổng các giá trị trong ô A2:A10. 10. A và B là các biến số nguyên không dấu 16 bit. Một số phép dịch chuyển phải theo chu kỳ được thực hiện trên biến A và một số phép dịch chuyển theo chu kỳ được thực hiện trên biến B.
 
@@ -88,7 +88,7 @@ Vòng chung kết
 
 ⟦figure⟧
 
-Hình 7
+Cơm. 7
 
 Ryzkov đưa cho các trợ lý phòng thí nghiệm sơ đồ sắp xếp những quả táo trên giá. Vào ngày đầu tiên, các kỹ thuật viên phòng thí nghiệm đặt sơ đồ với tiêu đề hướng lên trên và đặt số lượng táo được chỉ định vào mỗi ô. Vào ngày thứ hai, sơ đồ được lật lại với tiêu đề bên phải và những quả táo lại được bày ra. Vào ngày thứ ba, sơ đồ được đặt với tiêu đề hướng xuống, vào ngày thứ tư - với tiêu đề ở bên trái. Trong ngày, DY ăn hết những quả táo đã bày sẵn, để lại lõi ở vị trí của chúng. Giáo sư quyết định tạo ra một trình tạo các mẫu bố cục hình quả táo. Yêu cầu chính của kế hoạch: sau 4 ngày, mỗi ô của giá phải có chính xác 1 lõi táo. Ở đây (Hình 7) là một thuật toán do giáo sư phát triển cho N=8 và điền vào một mảng số nguyên gồm 8 hàng và 8 cột Y[8][8] với số lượng táo trong mỗi ô. Nó được biết là có chứa lỗi. Bạn phải xác định chúng. Trong đáp số đối với mỗi lỗi, hãy cho biết số dòng sai và cách viết đúng. 5. Tối thiểu (8 điểm). Trong biểu thức Max (Min (Max(__, __),Max(__,__)), Min (Max(__,__), Max(__,__))), thay vì dấu gạch ngang, chúng ta đặt ngẫu nhiên
 
@@ -100,7 +100,7 @@ biến A, B, C, D, E, F, G, H. Liệt kê theo thứ tự tăng dần tất cả
 
 ⟦figure⟧
 
-Hình 8
+Cơm. 8
 
 tùy chọn mới) có viền màu đỏ?” Sinh viên Vasya đã phát triển thuật toán sau lời giải cho bài toán này (Hình 8). Đưa ra ví dụ về các giá trị đầu vào mà chương trình của Vasya không hoạt động chính xác. 7. Brick-2 (20 điểm). Hãy thử giải bài toán trước đó bằng MS Excel. Với đáp số, hiển thị bảng ở chế độ hiển thị công thức. Dữ liệu ban đầu nằm trong các ô A2:C2 (Hình 9). Giá trị
 
@@ -112,11 +112,11 @@ Số N được tạo thành như sau: ở bước đầu tiên nó bằng trọ
 
 ⟦figure⟧
 
-Hình 10
+Cơm. 10
 
 ⟦figure⟧
 
-Hình 9
+Cơm. 9
 
 phải được tính toán chính xác cho mọi A, B và C tự nhiên. Nên minh họa ý tưởng tính toán bằng sơ đồ khối. 8. Nhảy (10 điểm). Người nhảy bắt đầu di chuyển ở gốc tọa độ (trục - như trong toán học chứ không phải như trên màn hình). Quỹ đạo chuyển động của nó bao gồm các bước có độ dài 1. Hướng chuyển động ở mỗi bước được xác định bởi hai chữ số cuối của biểu diễn nhị phân của số N: 00 - lên, 01 - phải, 10 - xuống, 11 - trái.
 
@@ -128,7 +128,7 @@ KVANT 2018/№11
 
 ⟦figure⟧
 
-Hình 16
+Cơm. 16
 
 5. n =
 

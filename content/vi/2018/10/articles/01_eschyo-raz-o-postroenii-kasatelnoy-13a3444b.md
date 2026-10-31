@@ -46,7 +46,7 @@ Bài viết của D. Shvetsov “Polyara” («Kvant» Số 5, 2017) chỉ ra c�
 
 ⟦figure⟧
 
-Hình 1
+Cơm. 1
 
 và C, các điểm tiếp tuyến là K, L, M, N. Giả sử các đường thẳng KL và MN cắt nhau tại điểm P. Khi đó PE là tiếp tuyến mong muốn. Thật vậy, không khó để chứng minh đường thẳng AC cũng đi qua điểm P, đường thẳng NK và ML cắt nhau trên đường thẳng BD và các điểm
 

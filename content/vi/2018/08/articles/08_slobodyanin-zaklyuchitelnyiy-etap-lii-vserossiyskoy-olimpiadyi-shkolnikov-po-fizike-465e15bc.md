@@ -42,7 +42,7 @@ Bài toán 1. Đầu máy hơi nước Khi thực hiện chụp ảnh từ trên
 
 ⟦figure⟧
 
-Hình 1
+Cơm. 1
 
 ngay từ đầu phong trào. Một ô tương ứng với khoảng cách 200 m. Giả sử tốc độ gió không đổi, hãy xác định: 1) Đầu máy chuyển động theo hướng nào? 2) Gió thổi vào đường sắt ở góc D nào? 3) Tốc độ gió $v_{0}$. 4) Tốc độ gió tối thiểu $v_{min}$ so với đầu máy. 5) Thời gian chuyển động của đầu máy W từ khi bắt đầu chuyển động đến thời điểm quay phim. 6) Quãng đường mà đầu máy đã đi được từ lúc bắt đầu chuyển động đến thời điểm quay phim. M. Zamyatin
 
@@ -56,7 +56,7 @@ xương có mật độ U (Hình 2). Các bình được làm kín bằng các p
 
 ⟦figure⟧
 
-Hình 2
+Cơm. 2
 
 gom R. Lúc đầu, các sợi ren không bị căng hoặc võng, piston tiếp xúc với chất lỏng. Cần được di chuyển từ từ lên trên một khoảng h nhỏ sao cho nó nằm ngang và các sợi dây vẫn thẳng đứng. 1) Giả sử rằng $S_{1}$! $S_{2}$, xác định hướng và khoảng cách mà piston sẽ di chuyển. Phải tác dụng lực nào $F_{1}$ lên đòn bẩy để giữ nó sau khi dịch chuyển một đoạn h? 2) Cần phải có lực $F_{2}$ nào để di chuyển cần gạt lên trên một khoảng h ở $S_{2} 2 S_{1}$? Khối lượng của đòn bẩy, khối, ren và piston có thể bỏ qua. Không có ma sát. Các tàu không rời khỏi giá đỡ. Áp suất hơi của chất lỏng nhỏ hơn nhiều so với áp suất khí quyển $p_{0}$. Gia tốc trọng trường là g. A. Apolonsky Bài toán 3. Đến với chất dẻo Một mảnh nhựa có khối lượng m, rơi không có vận tốc ban đầu từ một độ cao nhất định, dính vào một khối có cùng khối lượng đang chuyển động dọc theo một mặt phẳng nằm ngang với tốc độ không đổi $v_{0} 4$ m s dưới tác dụng của một lực ngang không đổi. Hệ số ma sát giữa khối và bề mặt
 
@@ -78,11 +78,11 @@ những bức tường. Hỏi quả cầu lớn sẽ đạt vận tốc bao nhi�
 
 ⟦figure⟧
 
-Hình 3
+Cơm. 3
 
 ⟦figure⟧
 
-Hình 4
+Cơm. 4
 
 sử dụng ôm kế của điện trở có điện trở $R_{x}$, số đọc của ampe kế tích hợp trong ôm kế sẽ tự động được tính toán lại để màn hình kỹ thuật số của thiết bị phản ánh giá trị điện trở của điện trở được kết nối. A.Kireev
 
@@ -90,13 +90,13 @@ lớp 10
 
 Bài toán 1. Vòng đệm và tường Hai vòng đệm nằm trên một bề mặt nằm ngang nhẵn (Hình 5). Một vòng đệm nhỏ có bán kính r chuyển động với tốc độ v dọc theo một bức tường thẳng đứng có một khe hở nhỏ với nó. Một vòng giặt lớn có bán kính R = 7r chạm
 
-Hình 5
+Cơm. 5
 
 Bài toán 2. Ô tô trên băng tải Một ô tô chuyển động dọc theo băng tải đứng yên nằm ngang với tốc độ $v_{0} 20$ m s khi thời tiết lặng gió. Trong trường hợp này, một nửa công suất động cơ được dùng để vượt qua lực cản không khí, nửa còn lại để vượt qua ma sát lăn. 1) Gió thổi về phía ô tô với tốc độ $v_{0} 20$ ms (so với mặt đất). Ở tốc độ ổn định $v_{1}$ so với mặt đất, ô tô sẽ chuyển động như thế nào nếu công suất do động cơ tạo ra không thay đổi và băng tải đứng yên? 2) Tại một thời điểm nào đó, gió lặng dần và băng tải bắt đầu chuyển động với tốc độ không đổi $v_{0} 20$ ms theo hướng ngược lại với chuyển động của ô tô. Ở tốc độ ổn định $v_{2}$ so với mặt đất, ô tô sẽ chuyển động như thế nào nếu công suất do động cơ tạo ra không thay đổi? Lưu ý 1. Lực cản của không khí tỉ lệ với bình phương vận tốc tương đối, lực ma sát lăn không đổi. Lưu ý 2: Trong mọi trường hợp bánh xe không bị trượt. Lưu ý 3: Phương trình bậc ba có thể được giải bằng cách khớp. V.Petrov
 
 Bài toán 3. Ống trên máy ly tâm Trên máy ly tâm chỉ có thể quay quanh trục thẳng đứng, một trụ đèn kín được cố định ở vị trí nằm ngang (Hình 6). trục khí
 
-Hình 6
+Cơm. 6
 
 ⟦folio 46⟧
 
@@ -108,11 +108,11 @@ Lord Kelvin đã cùng anh ấy thực hiện hai quá trình và mô tả chún
 
 ⟦figure⟧
 
-Hình 11
+Cơm. 11
 
 ⟦figure⟧
 
-Hình 10
+Cơm. 10
 
 Hóa ra là trong các quá trình này ở nhiệt độ bằng nhau, nhiệt dung là trùng nhau. Khôi phục đồ thị áp suất p theo thể tích V cho quá trình thứ hai. I.Vorobiev
 
@@ -124,7 +124,7 @@ Bài toán 4. Va chạm trong từ trường Một dây nhảy kim loại có kh
 
 ⟦figure⟧
 
-Hình 12
+Cơm. 12
 
 B, và một quả bóng được ném thẳng đứng xuống dưới với vận tốc v đã biết, rơi xuống điểm C. Khoảng cách BC = L. Tìm thành phần nằm ngang của vận tốc của quả bóng thứ hai $u_{x}$ khi nó chạm đáy. Hãy xem xét điều đó khi
 
@@ -148,19 +148,19 @@ Lưu trữ Giáo sư Challenger
 
 Giai đoạn vòng loại
 
-Hình 1
+Cơm. 1
 
 1. Quang học dưới nước Ngày xửa ngày xưa, Giáo sư Challenger đã quan sát cư dân của một cái ao có nước sạch. Để làm như vậy, ông đã sử dụng một thấu kính mỏng phẳng-lồi, tiêu cự của nó trong không khí là F = 30 cm. Thấu kính được đặt trên mặt nước (Hình 2). Giáo sư kiểm tra nhỏ
 
 ⟦figure⟧
 
-Hình 2
+Cơm. 2
 
 một vật nằm ngay dưới tâm thấu kính ở độ sâu h = 63 cm. Ở độ phóng đại ngang nào thì vật thể có thể nhìn thấy được? Người ta biết rằng chiết suất của thủy tinh làm thấu kính là $n_{л} = 2$, chiết suất của nước là n = 2 = 1,414.
 
 2. Rơle cơ nhiệt Trong một trong những thí nghiệm của Giáo sư Challenger, cần phải có tín hiệu được đưa ra khi hệ thống lắp đặt đạt đến nhiệt độ nhất định. Có thể chế tạo cảm biến cần thiết dựa trên một tấm lưỡng kim, tức là hai tấm mỏng dài có cùng kích thước: chiều dài L, chiều rộng D, độ dày d, với L ≫ D ≫ d, được làm bằng các kim loại khác nhau và được hàn chắc chắn với nhau trên toàn bộ bề mặt tiếp xúc (Hình 3, a). Kim loại có
 
-Hình 3
+Cơm. 3
 
 ⟦folio 55⟧
 
@@ -170,7 +170,7 @@ HƯỚNG DẪN
 
 ⟦figure⟧
 
-Hình 4
+Cơm. 4
 
 có dạng 3k – 1, sau đó có màu đỏ. Xét một hình vuông có kích thước 2 ¥ 2. Trong đó, hai màu xuất hiện hai lần, nhưng thiếu một màu. Trên thực tế, nếu có cả ba màu thì có một góc nhiều màu, nhưng không nên có một góc. Nếu một màu xuất hiện ba lần thì nó cũng tạo thành một góc cấm. Dễ dàng nhận thấy rằng nếu dọc theo cạnh dọc $квадрата^{2} ¥^{2}$ có các ô có màu khác nhau thì trong toàn bộ dải ngang chứa hình vuông này không có màu thứ ba. Điều tương tự cũng có thể nói về hai màu ngang khác nhau và một sọc dọc tương ứng. Vì ít nhất một trong các sọc này phải giao sọc với các ô có màu thứ ba, tức là phải chứa các ô có màu thứ ba, nên không thể tô màu $квадрат^{2} ¥^{2}$ theo mẫu bàn cờ. Ví dụ, hãy để hình vuông phía dưới bên trái 2 ¥ 2 có màu ngang. Sau đó, mỗi hàng trong số hai hàng dưới cùng được tô cùng một màu. Chuyển sang các dòng tiếp theo, dễ hiểu là chúng đều có cùng một màu. Do đó, số ô của mỗi màu bằng nhau (và khi đó số hàng là bội số của ba) hoặc có hai màu sao cho số ô của một trong số chúng lớn hơn số ô của màu kia ít nhất n. Trong thực tế, số lượng ô có màu khác nhau khác nhau không quá 1. Cách sắp xếp các ví dụ về n cho trong đáp số có ​​thể dễ dàng hiểu được từ chứng minh ước tính. 5. Bạn có thể. Vì $16 = 2^{4}$, các đồng xu có thể được mã hóa bằng các chuỗi số 0 và số một có độ dài 4. Đối với bốn lần cân đầu tiên, chúng tôi sẽ
 
@@ -188,13 +188,13 @@ HƯỚNG DẪN
 
 ⟦figure⟧
 
-Hình 6
+Cơm. 6
 
 Có, tôi không thể ghi nhiều hơn sáu điểm. Thật vậy, nếu cô ấy ghi ít nhất 7 điểm và năm người còn lại ghi ít nhất 8 điểm, thì 7 + 5 ◊ 8 = 47 > 45. Lưu ý rằng các thao tác sau bảo toàn số điểm mà đội ghi được, nhưng cải thiện sự khác biệt giữa trận thắng và trận thua: 1) thay hai trận thua có tỷ số 2: 3 bằng chiến thắng 3: 2 và trận thua 1: 3; 2) thay thế thắng 3:2 và thua 2:3 bằng thắng 3:0 và thua 1:3; 3) thay ba chiến thắng với tỷ số 3: 2 bằng hai chiến thắng với tỷ số 3: 0 và thất bại 1: 3. Với sáu điểm ghi được, áp dụng các thao tác này càng lâu càng tốt, chúng ta sẽ có hai chiến thắng với tỷ số 3: 0 và ba trận thua với tỷ số 1: 3. Vì vậy, chênh lệch giữa các trận đấu không thể trở nên tích cực. Điều này có nghĩa là có nhiều hơn sáu đội. 10. Lưu ý rằng hình bảy góc hình chữ nhật có ít nhất hai góc vuông kề nhau. Do đó, một hình chữ nhật có thể được cắt ra khỏi nó và phần còn lại sẽ lại là hình bảy góc hình chữ nhật. Một hình chữ nhật có thể được cắt thành ba hình chữ nhật và mỗi hình chữ nhật có thể được cắt thành hai hình bảy cạnh hình chữ nhật, chẳng hạn như trong Hình 7.
 
 ⟦figure⟧
 
-Hình 7
+Cơm. 7
 
 11. a) 45q. Cho các đường thẳng AK và DC cắt nhau tại điểm E (Hình 8). Từ điểm L ta hạ đường vuông góc LG xuống AE. Vì L nằm trên phân giác của góc
 
@@ -204,4 +204,4 @@ GIẢI PHÁP
 
 ⟦figure⟧
 
-Hình 8 KAD thì LG = LD = KC. Khi đó trong tam giác KEL có hai đường cao bằng nhau nên tam giác này cân với đáy KL. a) Đặt KAL DAL D, rồi KEL $90 q^{2} D$, EKL 45 q D. Vì góc EKL nằm ngoài tam giác KAL nên KLA 45 q. b) Vì tam giác KEL cân nên KG = LC. Khi đó AD + KC = AG + KC = AK + + KG + KC = AK + LC + DL = AK + CD, tức là một đường tròn có thể nội tiếp trong tứ giác ADCK. Tâm của nó là giao điểm của các đường phân giác của các góc A, C và D của tứ giác ADCK, tương đương với câu bài toán. 12. Anh ấy không thể. Trước tiên, hãy để Oleg ghép một “con nhím” gồm bảy khối: chọn khối trung tâm có tọa độ (0; 0; 0) và dán một khối vào mỗi mặt của nó. Tiếp theo, anh ta sẽ dán từng khối lập phương vào khối đa diện lớn này. Nếu một trong các hình khối riêng lẻ (không được dán ở bất kỳ đâu) được sơn hoàn toàn, thì anh ta sẽ dán nó vào vị trí của dạng (0; 0; k). Nếu không có các khối màu riêng lẻ thì động tác cuối cùng của Misha là vẽ một khối đa diện lớn. Trong trường hợp này, Oleg sẽ dán một khối lập phương mới vào khối đa diện lớn ở vị trí trống đầu tiên trong danh sách sau: (1; 1; 0), (1; –1; 0), (–1; 1; 0), (–1; –1; 0), (1; 0; 1), (–1; 0; 1), (1; 0; –1), (–1; 0; –1), (1; 1; 1), (–1; 1; 1), (1; –1; 1), (–1; –1; 1), (1; 1; –1), (–1; 1; –1), (1; –1; –1), (–1; –1; –1), (0; 1; 1), (0; –1; 1), (0; 1; –1), (0; –1; –1). Trong danh sách này, mỗi khối lập phương mới, được dán sau tất cả các khối trước đó, sẽ có một số chẵn mặt mở sẽ được sơn, vì sớm hay muộn Misha sẽ vẽ một khối đa diện lớn. Cho đến khi điều này xảy ra, Oleg sẽ dán các hình khối đã sơn vào các vị trí có dạng (0; 0; k); các vị trí kiểu này không có cạnh chung với các vị trí trong danh sách.
+Cơm. 8 KAD thì LG = LD = KC. Khi đó trong tam giác KEL có hai đường cao bằng nhau nên tam giác này cân với đáy KL. a) Đặt KAL DAL D, rồi KEL $90 q^{2} D$, EKL 45 q D. Vì góc EKL nằm ngoài tam giác KAL nên KLA 45 q. b) Vì tam giác KEL cân nên KG = LC. Khi đó AD + KC = AG + KC = AK + + KG + KC = AK + LC + DL = AK + CD, tức là một đường tròn có thể nội tiếp trong tứ giác ADCK. Tâm của nó là giao điểm của các đường phân giác của các góc A, C và D của tứ giác ADCK, tương đương với câu bài toán. 12. Anh ấy không thể. Trước tiên, hãy để Oleg ghép một “con nhím” gồm bảy khối: chọn khối trung tâm có tọa độ (0; 0; 0) và dán một khối vào mỗi mặt của nó. Tiếp theo, anh ta sẽ dán từng khối lập phương vào khối đa diện lớn này. Nếu một trong các hình khối riêng lẻ (không được dán ở bất kỳ đâu) được sơn hoàn toàn, thì anh ta sẽ dán nó vào vị trí của dạng (0; 0; k). Nếu không có các khối màu riêng lẻ thì động tác cuối cùng của Misha là vẽ một khối đa diện lớn. Trong trường hợp này, Oleg sẽ dán một khối lập phương mới vào khối đa diện lớn ở vị trí trống đầu tiên trong danh sách sau: (1; 1; 0), (1; –1; 0), (–1; 1; 0), (–1; –1; 0), (1; 0; 1), (–1; 0; 1), (1; 0; –1), (–1; 0; –1), (1; 1; 1), (–1; 1; 1), (1; –1; 1), (–1; –1; 1), (1; 1; –1), (–1; 1; –1), (1; –1; –1), (–1; –1; –1), (0; 1; 1), (0; –1; 1), (0; 1; –1), (0; –1; –1). Trong danh sách này, mỗi khối lập phương mới, được dán sau tất cả các khối trước đó, sẽ có một số chẵn mặt mở sẽ được sơn, vì sớm hay muộn Misha sẽ vẽ một khối đa diện lớn. Cho đến khi điều này xảy ra, Oleg sẽ dán các hình khối đã sơn vào các vị trí có dạng (0; 0; k); các vị trí kiểu này không có cạnh chung với các vị trí trong danh sách.

@@ -34,7 +34,7 @@ E.BAKAEV
 
 ĐỂ GIẢI QUYẾT CÁC VẤN ĐỀ CỦA BÀI NÀY, chỉ cần biết giáo trình hình học lớp 7: dấu bằng của các tam giác, tổng các góc của một tam giác và hình vuông là gì. Với “bộ công cụ hình học trẻ” này, chúng tôi đưa ra một con đường dẫn đến một số thử thách và chúng tôi hy vọng là bài toán đẹp đẽ. Những bài toán này, thường xảy ra trong hình học, có thể được giải theo nhiều cách khác nhau. Ví dụ, nhiều bài toán có thể được giải nhanh chóng bằng cách sử dụng vectơ hoặc tọa độ phức tạp. Nhưng mục tiêu của chúng tôi không phải là hiển thị lời giải ngắn nhất mà là để người đọc (và người giải) nhìn thấy mối liên hệ trong chuỗi bài toán, cấu trúc hình học phổ biến đối với họ. Lời giải bài toán được viết ngắn gọn. Ý của chúng tôi là một số chuyển đổi logic không rõ ràng và đòi hỏi người đọc phải suy nghĩ độc lập. Chúng tôi cũng đề nghị rằng trong các nhiệm vụ này, bạn không nên chú ý đến các trường hợp có thể xảy ra khác về cách sắp xếp tương đối của các đồ vật mà hãy dựa vào bản vẽ đặt ra điều kiện. Nhưng sẽ rất hữu ích nếu người đọc chăm chú tự suy nghĩ xem những điều này khác
 
-Hình 1
+Cơm. 1
 
 ⟦column⟧
 
@@ -56,7 +56,7 @@ Cách thứ hai. lời giải này sử dụng tính năng xoay. Hãy giải th�
 
 Bài tập 2. Chứng minh tính chất 3. Gợi ý. Chúng ta hãy ký hiệu các đường thẳng AB và A c B c lần lượt là a và a c (Hình 1, g). Qua điểm O vẽ đường thẳng b song song với đường thẳng a. Gọi b biến thành b c khi rẽ. Sau đó a c P b c. Ta được hai góc có cạnh song song.
 
-Hình 2
+Cơm. 2
 
 SHK O LNIK O V
 
@@ -74,19 +74,19 @@ ria là một góc quay 180q.) Hình vuông đối xứng với chính nó và c
 
 ⟦figure⟧
 
-Hình 4
+Cơm. 4
 
 Bài toán 4. Cho hai hình vuông và một đoạn nối các đỉnh của chúng (Hình 4). Chứng minh rằng hai đoạn thẳng chấm bằng nhau và vuông góc. Gợi ý. Sử dụng bài toán trước đó. Lời giải. bài toán này là đảo ngược của cái trước. Trong đó ta đã chứng minh rằng đỉnh của hình vuông màu xanh là trung điểm của đoạn nối các đỉnh của hình vuông màu đỏ. Nhưng đoạn thẳng chỉ có một điểm giữa, có nghĩa là các đoạn chấm chấm bằng nhau và vuông góc, vì đây là các cạnh của hình vuông màu xanh lá cây từ bài toán trước đó.
 
 ⟦figure⟧
 
-Hình 3
+Cơm. 3
 
 Gợi ý. Sử dụng các vấn đề trước đó. Lời giải. Cách đầu tiên. Hãy thêm một hình vuông màu xanh lam, như trong Hình 3, b. Chúng ta có được cách xây dựng từ bài toán 2, trong đó chúng ta đã chứng minh được điều cần thiết. Cách thứ hai. Hãy sử dụng bài toán 1 cho hình vuông màu xanh lá cây và một trong các hình vuông màu đỏ. Chúng ta thấy rằng hai đoạn được đánh dấu bằng một đường thẳng thì bằng nhau và vuông góc (Hình 3, c). Sau đó, hãy xem xét một hình vuông màu xanh lá cây được ghép nối với một hình vuông màu đỏ khác. Chúng ta có thêm một vài đoạn bằng nhau và vuông góc hơn. Điều này có nghĩa là các đoạn chấm được xét ở điều kiện bài toán bằng nhau và nằm trên cùng một đường thẳng.
 
 Bài toán 5. Ba hình vuông có vị trí như Hình 5,a. Chứng minh rằng hai đoạn thẳng chấm bằng nhau và vuông góc. Gợi ý. Sử dụng các vấn đề trước đó. Lời giải. Lưu ý rằng sự kết hợp của các hình vuông ở đây giống như trong bài toán 3. Điều này có nghĩa là chúng ta có thể sử dụng nó trong
 
-Hình 5
+Cơm. 5
 
 ⟦folio 25⟧
 
@@ -100,15 +100,15 @@ Suy ra đỉnh của hình vuông màu xanh lá cây nằm ở giữa đoạn n�
 
 ⟦figure⟧
 
-Hình 6
+Cơm. 6
 
 rằng hai đỉnh còn lại của hình vuông màu xanh là trung điểm của các đoạn nối các đỉnh của hình vuông màu đỏ. Gợi ý. Hãy suy nghĩ xem câu bài toán 3. Lời giải nên áp dụng cho hai ô vuông nào. Hãy xem xét hai hình vuông màu xanh lá cây (Hình 6b). Chúng ta hãy áp dụng câu bài toán 3 cho chúng và cho hình vuông màu xanh. Đối với đỉnh còn lại của hình vuông màu xanh,
 
 ⟦figure⟧
 
-Hình 7
+Cơm. 7
 
-Hình 8
+Cơm. 8
 
 SHK O LNIK O V
 
@@ -124,7 +124,7 @@ Gợi ý. Sử dụng những gì bạn có trong lời giải của bài toán 
 
 ⟦figure⟧
 
-Hình 9
+Cơm. 9
 
 ⟦column⟧
 
@@ -134,27 +134,27 @@ Gợi ý đối với những vấn đề này nằm ở phần cuối của v�
 
 ⟦figure⟧
 
-Hình 10
+Cơm. 10
 
 ⟦figure⟧
 
-Hình 11
+Cơm. 11
 
-Hình 14
+Cơm. 14
 
 chuột (có đỉnh chung nằm ở giữa một đường chéo khác của tứ giác ban đầu), chúng ta cũng thu được tương tự rằng ba điểm còn lại cũng tạo thành một tam giác vuông cân và chúng có một cạnh huyền chung. Điều này có nghĩa là bốn điểm tạo thành một hình vuông.
 
 ⟦figure⟧
 
-Hình 12
+Cơm. 12
 
-Hình 15
+Cơm. 15
 
 ⟦figure⟧
 
-Hình 13
+Cơm. 13
 
-Hình 16
+Cơm. 16
 
 ⟦folio 30⟧
 
@@ -166,7 +166,7 @@ Nếu m = 1 thì chỉ có một cọc và người mới bắt đầu sẽ th�
 
 ⟦figure⟧
 
-Hình 1. Xây dựng chiến lược trong game Nim với hai đống đá
+Cơm. 1. Xây dựng chiến lược trong game Nim với hai đống đá
 
 Có thể thấy rằng các điểm trừ nằm dọc theo đường chéo chính, tức là trong các ô có tọa độ đầu tiên trùng với tọa độ thứ hai. Vì vậy, quy tắc “Đặt cược vào điểm trừ!” dẫn đến chiến lược sau. Nếu các cọc khác nhau thì người chơi đầu tiên có thể đảm bảo chiến thắng cho mình. Với nước đi đầu tiên của mình, anh ta phải cân bằng số lượng quân cờ ở cả hai cọc, sau đó anh ta phải lặp lại nước đi của đối thủ, nhưng ở cọc bên kia, sau khi di chuyển, anh ta để lại các cọc có số lượng đá bằng nhau. Nếu ban đầu các cọc giống nhau thì anh ta thắng
 

@@ -28,7 +28,7 @@ KVAN T 2018/№3
 
 ⟦figure⟧
 
-Hình 2
+Cơm. 2
 
 Lượng nước tiêu thụ Nom $Q_{0}$ (tính bằng l/s) liệu toàn bộ nước có rơi vào chai không? Gia tốc trọng trường g = 9,8 m $с^{2}$. Coi dòng nước chảy êm đềm (tầng). Bỏ qua ảnh hưởng của không khí thoát ra khỏi chai trong quá trình đổ nước vào chai.$^{1}$ D. Medvedev
 
@@ -38,7 +38,7 @@ F2512. Một chiếc bình gỗ hình trụ (Hình 3) nổi trong nước, ngậ
 
 ⟦figure⟧
 
-Hình 3
+Cơm. 3
 
 Lời giải bài toán M2490–M2492, F2497–F2500
 
@@ -62,7 +62,7 @@ KVAN T 2018/№3
 
 ⟦figure⟧
 
-Hình 2
+Cơm. 2
 
 Đồng đẳng tâm O hệ số 2 sẽ lấy tâm đường tròn $B_{0} OB$ đến điểm B c giao điểm AC và tiếp tuyến với đường tròn ngoại tiếp tam giác ABC vẽ qua điểm B. Điểm A c và C c được xác định tương tự. Tất cả những gì chúng ta phải làm là chứng minh rằng các điểm A c, B c và C c nằm trên cùng một đường thẳng. Điều này có thể được thực hiện theo những cách khác nhau. Ví dụ, điều này rút ra từ trường hợp suy biến của định lý Pascal (cho sáu điểm A, A, B, B, C, C). Một cách khác là xét tam giác tạo bởi các tiếp tuyến AA c, BB c, CC c và áp dụng định lý Desargues cho tam giác này và tam giác ABC. Bài toán đã giải quyết. Để kết luận, chúng tôi lưu ý rằng bài toán cũng có thể được giải bằng máy tính (ví dụ: sử dụng định lý Ceva ở dạng sin), mặc dù chúng tôi không biết một lời giải hoàn toàn đơn giản. Như một bài tập, chúng tôi đề xuất chứng minh rằng đối với một tam giác cân (không phải tam giác đều), các đường thẳng $AA_{2}, BB_{2}, CC_{2}$ cắt nhau tại một điểm đối xứng với giao điểm của các đường trung tuyến so với đáy. T. Kovalev, A. Lvov
 

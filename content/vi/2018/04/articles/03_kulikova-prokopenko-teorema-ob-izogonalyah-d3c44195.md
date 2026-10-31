@@ -43,13 +43,13 @@ Những đường thẳng đi qua đỉnh của một góc và đối xứng qua
 
 ⟦figure⟧
 
-Hình 2
+Cơm. 2
 
 Lời giải. Chúng ta hãy áp dụng định lý đẳng giác cho góc chưa gấp $BA_{1} C$ và các đường đẳng giác $A_{1} C_{1}$ và $A_{1} B_{1}$. Khi đó $A_{1} A$ và $A_{1} P$ là các đường đẳng giác trùng nhau của góc $BA_{1} C$, tức là $A_{1} A$ – phân giác của góc $BA_{1} C$. Do đó, $A_{1} A$ là chiều cao của tam giác ABC. Bài toán 2 (Olympic St. Petersburg, 2008). Cho tứ giác nội tiếp ABCD. Các đường chéo AC và DB cắt nhau tại điểm E và các đường thẳng chứa các cạnh đối diện cắt nhau tại điểm F (Hình 3). Trên đường thẳng EF ta lấy điểm sau
 
 ⟦figure⟧
 
-Hình 1
+Cơm. 1
 
 Ở cuối bài viết, chúng tôi trình bày một bổ đề hữu ích về tính chất và kiểm tra các đường đẳng giác và chứng minh định lý. Đầu tiên, hãy cho thấy định lý này hoạt động như thế nào. Hãy chuyển sang nhiệm vụ. Hãy bắt đầu với trường hợp đặc biệt khi các đường đẳng giác OB và OC trùng nhau.
 
@@ -57,7 +57,7 @@ Bài viết này là phiên bản sửa đổi của báo cáo của học sinh 
 
 ⟦figure⟧
 
-Hình 3
+Cơm. 3
 
 P đó là BPE EPC. Chứng minh rằng APE DPE. Lời giải. Lưu ý rằng PE là các đường đẳng giác trùng nhau của góc BPC. Điểm E và F là các điểm trên đường đẳng giác này. Điểm A và D lần lượt là giao điểm của các đường thẳng FB và CE, FC và BE. Theo định lý đẳng giác thì PA và PD cũng là hai góc đẳng giác của góc BPC. Sledova-
 
@@ -81,7 +81,7 @@ Trường hợp chung
 
 ⟦figure⟧
 
-Hình 4
+Cơm. 4
 
 Các đoạn A c B c và CC c cắt nhau tại điểm P, các đoạn A c C c và BB c cắt nhau tại điểm Q. Chứng minh rằng các góc PAC và QAB bằng nhau. Lời giải. Đối với lời giải bài toán, một lần nữa thuận tiện hơn khi coi phân giác A c A là hai đường đẳng giác trùng nhau của góc BAC. Các điểm X và A c nằm trên các cạnh đẳng giác, C c và B c nằm trên các cạnh của góc. Điểm Q và P lần lượt là giao điểm của các đường XB c và A c C c, XC c và A cBc. Theo định lý về các đường đẳng giác thì AQ và AP cũng là các đường đẳng giác của góc BAC, tức là PAC QAB.
 
@@ -91,7 +91,7 @@ Bài tập
 
 ⟦figure⟧
 
-Hình 5
+Cơm. 5
 
 of the straight lines CF and BG lies at height $AA_{1}$. Bài toán 5 (A. Polyansky, Moscow Oral Olympiad in Geometry, 2010). Perpendiculars AM to BC and AN to CD are dropped from vertex A of the parallelogram ABCD, P is the intersection point of BN and DM (Fig. 6). Chứng minh hai đường thẳng AP và MN vuông góc. It turns out that both of these bài toán are special cases of the following construction.
 
@@ -107,7 +107,7 @@ Bài toán 8 (V. Yasinsky, I.F. Sharygin Geometry Olympiad, vòng trao đổi th
 
 ⟦figure⟧
 
-Hình 10
+Cơm. 10
 
 Điểm $A_{1}, B_{1}$ trên các tia BC và AC sao cho $AC_{1} B_{1}$  $BC_{1} A_{1}$ ACB. Trực tiếp $AA_{1}$ Và $BB_{1}$ cắt nhau tại một điểm $C_{2}$.
 
@@ -119,7 +119,7 @@ Bài tập 8. Chứng minh rằng với điều kiện bài toán 9 (xem hình 1
 
 ⟦figure⟧
 
-Hình 11
+Cơm. 11
 
 Chứng minh rằng mọi đường thẳng $C_{1} C_{2}$ đều đi qua một điểm cố định. Lời giải. Xét góc chưa mở $AC_{1} B$, trong đó $C_{1} B_{1}$ và $C_{1} A_{1}$ là đẳng giác. Điểm C và $C_{2}$ lần lượt là giao điểm của các đường $AB_{1}$ và $BA_{1}, AA_{1}$ và $BB_{1}$. Theo định lý đẳng giác, $C_{1} C_{2}$ và $C_{1} C$ là hai đẳng giác
 
@@ -133,7 +133,7 @@ KVAN T 2018/№4
 
 ⟦figure⟧
 
-Hình 6
+Cơm. 6
 
 có thể được đặt trên hiện trường (Hình 6, b). Như vậy, chúng ta đã chứng minh được số lượng tàu ba tầng lớn nhất có thể đưa vào thực địa là 9.
 
