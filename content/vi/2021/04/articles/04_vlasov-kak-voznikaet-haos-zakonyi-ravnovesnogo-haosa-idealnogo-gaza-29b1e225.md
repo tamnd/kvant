@@ -56,17 +56,17 @@ KHÔNG BẮT BUỘC
 
 ⟦figure⟧
 
-Hình 5
+Cơm. 5
 
 ⟦figure⟧
 
-Hình 4
+Cơm. 4
 
 Teen có được cách này. Toàn bộ phạm vi tốc độ phân tử có thể được chia thành các ô nhỏ. Sau mỗi bước chuyển động, 1 được thêm vào các ô tương ứng (những ô có tốc độ phân tử giảm). Sau khi hoàn thành một thử nghiệm đủ dài, nội dung của các ô sẽ được chia cho số bước (số lần thử). Rõ ràng là bằng phép chia này, chúng ta xác định được xác suất tốc độ của các phân tử trong một khoảng thời gian nhất định. Đồ thị thu được chứng minh tính chất rời rạc của phổ vận tốc phân tử. Tổng cộng có 36 tiểu bang. Có thể nhận thấy rằng có sự đối xứng khá rõ ràng trong quang phổ. Và quan trọng nhất, phổ này phụ thuộc vào các điều kiện ban đầu. Điều này được xác nhận bằng biểu đồ lặp lại của hệ thống với các điều kiện ban đầu khác nhau (Hình 5). Điều thú vị là số lượng trạng thái vẫn giữ nguyên, nhưng bức tranh về quang phổ thay đổi đáng kể. Và có một sự bằng nhau hoàn toàn bất ngờ (đối với một hệ nhỏ như vậy chỉ có 2 hạt) về năng lượng trung bình của các hạt nhẹ và hạt nặng. Trong hai lần triển khai, tỷ lệ năng lượng trung bình khá gần bằng 1 (0,988 và 1,139).
 
 ⟦figure⟧
 
-Hình 6
+Cơm. 6
 
 Khi số lượng hạt tăng lên 4 (hai cặp hạt, nhẹ - nặng), hàm xác suất thay đổi mạnh (Hình 6). Nó trở nên gần như liên tục. Số lượng trạng thái vượt quá 400 (số lượng ô tốc độ). Biểu đồ cho thấy tất cả các ô tốc độ đã được lấp đầy và độ chính xác của các phép tính không còn cho phép chúng tôi xác định được độ rời rạc nữa. Việc thay đổi trạng thái ban đầu trên thực tế không làm thay đổi phổ và do đó, khi số lượng hạt tăng thêm, người ta có thể chuyển sang các hàm mật độ xác suất. Để làm điều này, xác suất khoảng phải được chia cho kích thước của khoảng. Đồ thị trên Hình 7 thể hiện hàm mật độ xác suất của phép chiếu vận tốc cho 3 cặp hạt. Dấu chấm (chéo) – thí nghiệm trên máy tính, đường liên tục màu xanh tương ứng với hàm Maxwell lý thuyết cho trường hợp khí lý tưởng một chiều
 
@@ -82,7 +82,7 @@ KVAN T 2021/№4
 
 ⟦figure⟧
 
-Hình 7
+Cơm. 7
 
 ⟦column⟧
 
@@ -90,25 +90,25 @@ Mô hình khí lý tưởng hai chiều Ở đây mọi thứ thú vị hơn nhi
 
 ⟦figure⟧
 
-Hình 8
+Cơm. 8
 
 ⟦figure⟧
 
-Hình 10
+Cơm. 10
 
 ⟦figure⟧
 
-Hình 9
+Cơm. 9
 
 Biểu đồ cho thấy rằng đối với 3 cặp (6 hạt) đã có mối tương quan khá rõ ràng với hàm Maxwell. Biểu đồ sau (Hình 8) tương ứng với hệ thống gồm 10 cặp (20 hạt). Ở đây đường cong lý thuyết gần như trùng khớp với đường cong thực nghiệm; sự khác biệt chỉ có thể nhìn thấy được (dao động nhỏ) trong vùng vận tốc bằng không. Cuối cùng, đồ thị trong Hình 9 cho 50 cặp (100 hạt) minh họa rằng thí nghiệm và lý thuyết hoàn toàn phù hợp với nhau.
 
-Hình 11
+Cơm. 11
 
 ⟦folio 37⟧
 
 BÀI KIỂM TRA
 
-A được thực hiện nếu trong quá trình quay các thanh bị lệch một góc D 45 q? Lấy gia tốc rơi tự do bằng g 10 m $с^{2}$ thì có thể bỏ qua kích thước của các tải trọng. 2. Hệ dao động gồm một tải trọng $массой^{m,} лежаще-_{Рис.} 4$ đặt trên mặt phẳng nằm ngang nhẵn, một khối nhẵn không trọng lượng, hai sợi dây không trọng lượng, không dãn và ba lò xo không trọng lượng $жесткостью_{1}^{k} 2 3$ N cm $,_{2}^{k} 1 2$ N cm $и_{3}^{k} 1$ N cm tương ứng được nối như hình 5. Trọng tâm của tải trọng nằm trên cùng một phương ngang với vật gắn vào sợi chỉ và trục lò xo $жесткостью_{1}^{k}$. Ở vị trí cân bằng, mọi lò xo đều bị dãn. Giả sử rằng các sợi dây luôn luôn giữ nguyên $натянутыми,^{Рис.} 5$, hãy xác định tần số tròn Z của các dao động điều hòa nhỏ của tải. 3. Một bình chứa đầy có thể tích $V_{0} 5$ l chứa $m_{0} 2,5$ kg propan hóa lỏng $( C_{3} H_{8} ).$ Nếu một phần propan thoát ra bên ngoài thì propan lỏng và hơi bão hòa của nó sẽ ở trạng thái cân bằng. Tìm khối lượng $m_{1}$ của propan ở trạng thái khí trong bình khi D (%) của propan chứa ban đầu thoát ra khỏi bình này, nếu nhiệt độ của propan được giữ không đổi và bằng t 17 q C. Áp suất hơi bão hòa của propan ở nhiệt độ này là p 0,8 MPa. Khối lượng mol của propan là 0,44 g mol, hằng số khí phổ R là 8,31 J mol K. 4. Hai hạt tích điện trái dấu nằm trên trục x của hệ tọa độ Descartes cách nhau l 3 cm (Hình 6). Trong khi giữ một hạt bất động, hạt thứ hai chuyển động theo hướng trục y một khoảng $l_{1} 4$ cm. Trong trường hợp này, $A_{1}$ công việc đã được thực hiện. Hình 6
+A được thực hiện nếu trong quá trình quay các thanh bị lệch một góc D 45 q? Lấy gia tốc rơi tự do bằng g 10 m $с^{2}$ thì có thể bỏ qua kích thước của các tải trọng. 2. Hệ dao động gồm một tải trọng $массой^{m,} лежаще-_{Рис.} 4$ đặt trên mặt phẳng nằm ngang nhẵn, một khối nhẵn không trọng lượng, hai sợi dây không trọng lượng, không dãn và ba lò xo không trọng lượng $жесткостью_{1}^{k} 2 3$ N cm $,_{2}^{k} 1 2$ N cm $и_{3}^{k} 1$ N cm tương ứng được nối như hình 5. Trọng tâm của tải trọng nằm trên cùng một phương ngang với vật gắn vào sợi chỉ và trục lò xo $жесткостью_{1}^{k}$. Ở vị trí cân bằng, mọi lò xo đều bị dãn. Giả sử rằng các sợi dây luôn luôn giữ nguyên $натянутыми,^{Рис.} 5$, hãy xác định tần số tròn Z của các dao động điều hòa nhỏ của tải. 3. Một bình chứa đầy có thể tích $V_{0} 5$ l chứa $m_{0} 2,5$ kg propan hóa lỏng $( C_{3} H_{8} ).$ Nếu một phần propan thoát ra bên ngoài thì propan lỏng và hơi bão hòa của nó sẽ ở trạng thái cân bằng. Tìm khối lượng $m_{1}$ của propan ở trạng thái khí trong bình khi D (%) của propan chứa ban đầu thoát ra khỏi bình này, nếu nhiệt độ của propan được giữ không đổi và bằng t 17 q C. Áp suất hơi bão hòa của propan ở nhiệt độ này là p 0,8 MPa. Khối lượng mol của propan là 0,44 g mol, hằng số khí phổ R là 8,31 J mol K. 4. Hai hạt tích điện trái dấu nằm trên trục x của hệ tọa độ Descartes cách nhau l 3 cm (Hình 6). Trong khi giữ một hạt bất động, hạt thứ hai chuyển động theo hướng trục y một khoảng $l_{1} 4$ cm. Trong trường hợp này, $A_{1}$ công việc đã được thực hiện. Cơm. 6
 
 NGUYÊN VẬT LIỆU
 

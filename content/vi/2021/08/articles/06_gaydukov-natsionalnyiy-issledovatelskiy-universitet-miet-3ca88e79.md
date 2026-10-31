@@ -40,7 +40,7 @@ Giai đoạn cuối
 
 ⟦figure⟧
 
-Hình 1
+Cơm. 1
 
 tốc độ tối thiểu và hành khách nên chạy theo hướng nào để nhảy lên xe của mình? 2. Trục của hình trụ rỗng nằm ngang. Một vòng đệm nhỏ được đặt bên trong xi lanh ở điểm thấp nhất. Xi lanh bắt đầu quay quanh trục của nó sao cho tốc độ của vòng đệm trước khi nó bắt đầu trượt tăng lên.
 
@@ -50,7 +50,7 @@ phát triển theo thời gian theo quy luật tuyến tính v at, trong đó a 
 
 ⟦figure⟧
 
-Hình 2
+Cơm. 2
 
 được tích điện một cách sống động. Tại thời điểm ban đầu, các quả bóng nằm trên cùng một đường thẳng, tốc độ của các quả bóng bên ngoài bằng 0 và quả bóng ở giữa chuyển động theo hướng vuông góc với các sợi dây, với động năng bằng thế năng tương tác điện của các quả bóng bên ngoài. Xác định: a) góc nhỏ nhất giữa các sợi dây khi các viên bi chuyển động; b) góc E giữa các sợi dây tại thời điểm vận tốc của viên bi ở giữa bằng 0. Bỏ qua trọng lực. 6. Một dây dẫn bằng đồng có hình dạng được ép vào hai thanh đồng (Hình 3). Điện trở của bốn điểm tiếp xúc của dây dẫn hình chữ U với các thanh là $R_{1} R_{2} R_{3} 1$ Ohm và $R_{4} 3$ Ohm. Các điện trở này vượt quá đáng kể điện trở của bản thân thanh và dây dẫn P.
 
@@ -62,7 +62,7 @@ KIỂM TRA
 
 ⟦figure⟧
 
-Hình 13
+Cơm. 13
 
 ăn mặc tích cực. Đầu tiên, các quả bóng được giữ ở các đỉnh của một tam giác cân bằng các sợi dây căng, sau đó đồng thời thả ra. Dao động xảy ra trong hệ có động năng cực đại $E_{max} 0,1$ J và thế năng tương tác điện cực đại $U_{max} 2 E_{max}$. Xác định: a) động năng cực đại $E_{1}$ của quả bóng trung bình; b) góc tối thiểu $D_{min}$ giữa các ren. Bỏ qua trọng lực.
 
@@ -74,13 +74,13 @@ NGUYÊN VẬT LIỆU
 
 ⟦figure⟧
 
-Hình 14
+Cơm. 14
 
 bán cầu, có tốc độ 5v. a) Xác định hiệu điện thế $M_{1} M_{2}$ của trường tĩnh điện của bán cầu tại các điểm 1 và 2. b) Hạt chạm vào bề mặt bên trong của bán cầu với tốc độ bao nhiêu? 4. Hạt nano thường được gọi là vật thể pha rắn cô lập, có ranh giới xác định rõ ràng với môi trường, kích thước tối đa của nó theo bất kỳ hướng nào là từ 1 đến 100 nm. Có bao nhiêu electron có thể được giữ lại trên một hạt nano dẫn điện hình cầu có bán kính R là 50 nm, nếu cường độ điện trường cực đại của môi trường xung quanh là $E_{max} 2$ $10^{6}$ V m và hằng số điện môi của môi trường xung quanh hạt là H 11,7? Hệ số tỷ lệ trong định luật Coulomb là k 9 $10^{9}$ Н $м^{2} Кл^{2}. 5.$ Một quá trình kim loại hóa hai cấp được hình thành trên nền điện môi, một mảnh của nó được thể hiện trong Hình 15.
 
 ⟦figure⟧
 
-Hình 15
+Cơm. 15
 
 dây dẫn mini 1 và 2 nằm ở lớp kim loại hóa phía dưới, còn dây dẫn 3 và 4 nằm ở lớp trên, được ngăn cách với lớp dưới bằng chất điện môi. Mỗi dây dẫn được kết nối với một miếng tiếp xúc cách ly với các dây dẫn khác. Điện thế của các dây dẫn lần lượt là $M_{1} 4$ V, $M_{2} 3$ V, $M_{3} 2$ V, $M_{4} 1$ V. Điện trở giữa các dây dẫn ở những nơi chúng chồng lên nhau R 100 MOhm lớn hơn đáng kể so với điện trở của chính dây dẫn. Xác định dòng điện I chạy vào đoạn đang xét dọc theo dây dẫn 1. Ấn phẩm được biên soạn bởi G. Gaidukov, I. Gorbaty, A. Spiridonov, I. Fedorenko
 
@@ -92,7 +92,7 @@ HƯỚNG DẪN
 
 ⟦figure⟧
 
-Hình 1
+Cơm. 1
 
 Bây giờ chúng ta phải chứng minh rằng các đường tròn (DBC), (DEF) và $DO 1 O_{2}$ có điểm chung thứ hai ngoài D. Từ đẳng thức ABD ACD suy ra (xem Hình 1) rằng bán kính của các đường tròn (ADB), (ADC) bằng nhau và chúng thu được từ nhau bằng phép đối xứng tâm đối với M - trung điểm của AD. Hãy ký hiệu lần lượt là $B_{1}, C_{1}$ giao điểm thứ hai của đường BC với các đường tròn (ADB), (ADC). Khi đó ADE DBC $B_{1} AD$, từ đó $AB_{1} P DE$, tức là các điểm $B_{1}, E$ cũng đối xứng tâm đối với M. Tương tự, $C_{1}, F$ đối xứng tâm đối với M, do đó $EFB_{1} C_{1}$ là hình bình hành và EF P BC. Cũng
 
@@ -110,4 +110,4 @@ GIẢI PHÁP
 
 Từ (3) suy ra điểm X nằm trên đường tròn Apollonius với các điểm B và C, đi qua điểm D và các đáy K, L của các đường phân giác ngoài và phân giác trong của góc D trong tam giác DBC (ta ký hiệu đường tròn này là Z). Xét tâm đẳng phương của các đường tròn (ADC), Z và một đường tròn bán kính 0 có tâm tại C. Nó nằm trên đường DX và tiếp tuyến với đường tròn (ADC) tại điểm C, tức là trùng với điểm Y. Còn phải chứng minh rằng trục đẳng phương Z và các đường tròn bán kính 0 có tâm tại C là trục đối xứng của hình thang, tức là đường phân giác vuông góc với BC. Vì trục đẳng phương của chúng vuông góc với đường tâm của chúng (tức là BC), nên chúng ta cần kiểm tra xem trung điểm của BC có nằm trên trục đẳng phương của chúng hay không. Điều này là hiển nhiên, vì (C, B, L, K) –1 (là hai đỉnh của ' DBC và đáy của các phân giác ngoài và phân giác trong), do đó K và L nghịch đảo với một đường tròn có đường kính BC và tâm N (một trong các định nghĩa về bộ tứ hài hòa của các điểm trên một đường thẳng) và NL $NK NC^{2}$, tức là độ của điểm N so với hai đường tròn đang xét là như nhau và điểm này nằm trên trục đẳng phương của chúng, theo yêu cầu. 4 (M. Isupov). Đánh dấu các điểm tiếp tuyến của các đoạn AB, BC, CD, DA bằng * - các điểm K, L, M, N tương ứng (Hình 2). Chúng ta cũng đánh dấu điểm J, đối diện hoàn toàn với điểm I trên:. Lưu ý rằng I nằm trên phân giác của góc BAD. Vì IAJ 90 q nên AJ và AI là các phân giác trong và phân giác ngoài của góc XAY. Điều này có nghĩa là I và J là trung điểm của các cung XY, do đó X và Y đối xứng với IJ - đường tâm của các đường tròn. Tương tự, Z và T đối xứng qua IJ. Do đó TX ZY. Hơn nữa, từ tính đối xứng đối với IJ, các đoạn tiếp tuyến từ T và Z đến * đều bằng nhau.
 
-Hình 2
+Cơm. 2

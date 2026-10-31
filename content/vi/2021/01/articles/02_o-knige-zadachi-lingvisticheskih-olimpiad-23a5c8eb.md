@@ -49,7 +49,7 @@ NHÂN VIÊN VẤN ĐỀ
 
 ⟦figure⟧
 
-Hình 2
+Cơm. 2
 
 BFO OFE y và DEO OEF z. Trong tam giác BFO ta có BOF 180 q x y z. Điều này hàm ý sự giống nhau của BFO $\sim$ DOE, nên FB BO OD DE hoặc BF DE BO OD. Tương tự, chứng minh BG DH BO OD, từ đó đẳng thức cần tìm (*) được chứng minh và bài toán được giải. Một lời giải khác có thể thu được bằng cách lưu ý rằng tính song song của FG P HE tương đương với tính đồng nhất của các tam giác BGF và DEH, hoặc là giao điểm của các đường thẳng BD, EG, FH tại một điểm. Cái sau tuân theo định lý Brianchon cho hình lục giác BFEDHG được mô tả. V. Eisenstadt
 

@@ -37,7 +37,7 @@ DOI: https://doi.org/10.4213/kvant20210902
 
 ⟦figure⟧
 
-Hình 1. Phép cộng sử dụng hai thước kẻ
+Cơm. 1. Phép cộng sử dụng hai thước kẻ
 
 không chỉ thang đo centimet, mà cả thang đo milimet. Và chúng ta có thể nói rằng 16 27 43, chúng ta có thể nói rằng 16 mm 27 mm 43 mm, hoặc chúng ta có thể nói rằng 1 cm 6 mm 2 cm 7 mm 4 cm 3 mm (xem Hình 1). Được rồi. Chúng tôi đã học cách cộng các số có một và hai chữ số một cách máy móc bằng cách di chuyển thước. Nhưng nhân lên thì khó hơn! Làm cách nào chúng tôi có thể chuyển thao tác này cho trợ lý cơ khí của mình? Trước tiên, hãy tưởng tượng rằng chúng ta không muốn nhân bất kỳ số nào với nhau mà chỉ nhân 10, 100, 1000, v.v. Điều đó không khó lắm: khi chúng ta nhân các số có dạng “một và một số số 0” với nhau, chúng ta chỉ cần cộng số các số 0: chẳng hạn như 100 u 1000 100000. Đợi đã, cộng? Vậy là chúng ta đã biết cách thực hiện việc này rồi! Hãy lấy thước kẻ của chúng ta một lần nữa và thay vì chia “1 cm”, chúng ta đặt 10, thay vì chia “2 cm”, chúng ta đặt 100,
 
@@ -47,7 +47,7 @@ KVAN T 2021/№9
 
 ⟦figure⟧
 
-Hình 2
+Cơm. 2
 
 do đó tứ giác ABEO nội tiếp. Tương tự như vậy, CFOD được ghi. Từ đây, sử dụng phép song song AB P CD, ta thu được OFE ODC OBA OEA. Nhưng từ đẳng thức OFE OEA suy ra đường tròn (EOF) tiếp xúc với đường thẳng AE. Tương tự, chúng ta chứng minh tiếp tuyến của đường tròn (EOF) và đường thẳng DF. Bài toán đã giải quyết. Có thể thực hiện một cách tiếp cận khác đối với lời giải (hoàn toàn không sử dụng điểm B và C), dựa trên các cân nhắc sau: trục đẳng phương của các đường tròn (AOD) và (EOF) là đường trung bình của hình thang AEFD nên đi qua O; mặt khác, trục đẳng phương chia đôi đoạn tiếp tuyến chung giữa các điểm tiếp tuyến. A. Kuznetsov
 
@@ -79,7 +79,7 @@ Trong «Kvant» tangram đã được thảo luận nhiều lần (ví dụ: xem
 
 ⟦figure⟧
 
-Hình 1
+Cơm. 1
 
 Ba phần tử ở giữa - hình vuông, hình bình hành và hình tam giác - đại diện cho tất cả các kết hợp có thể có của hai hình tam giác nhỏ. Nếu chúng ta muốn các cạnh của các hình có độ dài chính xác thì cạnh huyền của tam giác nhỏ phải được áp dụng cho cạnh của tam giác ở giữa, và cạnh huyền của tam giác ở giữa phải được áp dụng cho cạnh của tam giác lớn. Nếu bạn thực hiện việc này một cách tuần tự thì mỗi lần tam giác vuông cân sẽ tăng gấp đôi (Hình 2). Bằng cách kết nối các yếu tố còn lại của tangram, quá trình này có thể được tiếp tục. Làm thế nào để gấp hình tam giác lớn nhất trong Hình 2?
 
@@ -87,19 +87,19 @@ Ba phần tử ở giữa - hình vuông, hình bình hành và hình tam giác 
 
 ⟦figure⟧
 
-Hình 3
+Cơm. 3
 
 Tương tự, bạn có thể xây dựng một chuỗi các ô vuông nhân đôi. Làm cách nào để tạo hình vuông lớn nhất trong Hình 3 trong số tất cả các phần tử tangram? Hình bình hành có trong bộ tangram khác với các phần tử khác: thuộc tính của nó thay đổi khi lật lại (Hình 4). Để đảm bảo điều này,
 
 ⟦figure⟧
 
-Hình 4
+Cơm. 4
 
 gấp một hình vuông lớn từ tất cả các phần tử, sau đó lấy hình bình hành ra, lật lại và cố gắng đặt lại - nó sẽ không rơi vào vị trí, tức là nó sẽ là một hình bình hành khác. Điều này gây khó khăn khi lắp ráp một số hình, vì đôi khi cần phải lật hình bình hành. Nhân tiện, đây là nơi các nhà sản xuất tangram từ tính đã "đốt cháy": họ chỉ dán nam châm vào một cạnh của hình bình hành và do đó làm suy giảm khả năng lắp ráp.
 
 ⟦figure⟧
 
-Hình 5
+Cơm. 5
 
 Hãy thử, bằng cách tương tự với các hàng hình tam giác và hình vuông, để dựng hình bình hành lớn nhất trong Hình 5 từ tất cả các hình tangram.
 
@@ -107,4 +107,4 @@ Hãy thử, bằng cách tương tự với các hàng hình tam giác và hình
 
 A. Kovaldzhi
 
-Hình 2
+Cơm. 2

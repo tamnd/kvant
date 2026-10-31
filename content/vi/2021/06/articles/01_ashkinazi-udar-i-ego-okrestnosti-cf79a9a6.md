@@ -39,7 +39,7 @@ theo thời gian, một số mô hình của cùng một loạt các hiện tư�
 
 ⟦figure⟧
 
-Hình 1. Hành vi của bóng sau va chạm. Đường cong 1 dùng để chỉ quả bóng đầu tiên trong trường hợp va chạm đàn hồi; đường cong 2 – đối với cả hai quả bóng khi va chạm không đàn hồi; đường cong 3 – tới quả bóng thứ hai trong trường hợp va chạm đàn hồi
+Cơm. 1. Hành vi của bóng sau va chạm. Đường cong 1 dùng để chỉ quả bóng đầu tiên trong trường hợp va chạm đàn hồi; đường cong 2 – đối với cả hai quả bóng khi va chạm không đàn hồi; đường cong 3 – tới quả bóng thứ hai trong trường hợp va chạm đàn hồi
 
 ⟦folio 7⟧
 
