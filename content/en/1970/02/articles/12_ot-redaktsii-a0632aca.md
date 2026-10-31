@@ -1,0 +1,39 @@
+---
+id: 1970-2-ot-redaktsii-a0632aca
+issue: kvant_1970_2
+year: 1970
+number: "2"
+title: '[Editor''s note]'
+rubric: praktikum-abiturienta
+rubric_sub: Практикум абитуриента
+page_first: 51
+page_last: 51
+page_labels: "49"
+tag: GSMR
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 3f2c02f31229c71fb09f4af4084f5c9bbf89c85e423848828a86f83fa84c6d92
+prompt_sha256: draft-1
+translated_from: content/ru/1970/02/articles/12_ot-redaktsii-a0632aca.md
+source_content_sha256: f7a0b8e3b4938f7af08aea2cae1b268a33d7ecc68a04cf0229fdc9181e4d775d
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 49⟧
+
+Many boys and girls are concerned about issues related to entrance exams, especially in mathematics and physics. After all, these exams are held in all technical types, in many (including the humanities!) faculties of universities and pedagogical institutes. What awaits applicants during the entrance exams? How are they carried out? How best to prepare for them? All this undoubtedly interests readers «Kvant».
+
+On the pages of the magazine we will regularly publish “Practicum for applicants” - information about the materials of entrance exams in mathematics and physics, provide consultations on certain topics that cause educational difficulties, and talk about books specifically addressed to university applicants.
+
+This issue will contain information about written examinations in mathematics. Typically, these exams primarily test the ability to solve problems using techniques learned in school. The tasks proposed in the exams do not require knowledge beyond the scope of the “Program of entrance examinations for applicants to higher educational institutions of the USSR.”
+
+Naturally, higher requirements are imposed on applicants to mathematics, physics, and some other university faculties than to applicants to most universities. This, however, does not mean that, for example, future physicists are required to have some additional knowledge that goes beyond the scope of the program. They just need to be more fluent in the material, demonstrate a certain independence of thought, and be able to solve more complex problems.
+
+To learn how to confidently solve the problems of entrance exams, you need to carefully repeat the theoretical school course and get enough practice in solving similar problems, use one of the common collections of problems in mathematics, compiled specifically for university applicants.
+
+When you start preparing for entrance exams, don’t put it off, especially if you are going to take the exams in six months!
+
+Editorial.

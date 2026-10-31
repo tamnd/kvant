@@ -1,0 +1,50 @@
+---
+id: 1970-9-altyikis-uchenyie-v-miniatyurnoy-zhivopisi-f50143a0
+issue: kvant_1970_9
+year: 1970
+number: "9"
+title: Scientists in miniature painting
+authors:
+  - Алтыкис А. В.
+rubric: ugolok-kollektsionera
+rubric_sub: Уголок коллекционера
+page_first: 64
+page_last: 64
+page_labels: "62"
+tag: 36M4
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 733d24dac0a4f78c4f60daab1cd556717ce6f09112d2271daf70197418cf7a57
+prompt_sha256: draft-1
+translated_from: content/ru/1970/09/articles/12_altyikis-uchenyie-v-miniatyurnoy-zhivopisi-f50143a0.md
+source_content_sha256: 61876c18fd144064a8603724b00aba541d1e8514e36e720506a7c508fccce712
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 62⟧
+
+the emerging inventor in the field of theory and technology of jet vehicles and aeronautics K. E. Tsyulkovsky, the founder of evolutionary morphology Academician A. N. Severtsov, the founder of physical and chemical analysis Academician N. S. Kurnakov, traveler and explorer of Central Asia P. K. Kozlov.
+
+Soviet postage stamps depict scientists not only from our country, but also from other countries. For example, stamps were issued with portraits of the American social activist and scientist W. Franklin, the Italian physicist and mathematician E. Torricelli, the German natural specialist and geographer A. Humboldt, the English natural specialist Charles Darwin, the French physicist and peace activist F. Jolnot-Curie and many others.
+
+Postage stamps can be used to create a wonderful portrait gallery of great scientists.
+
+Let's talk about one stamp dedicated to the Great Russian mathematician N. I. Lobachevsky (1793-1856). The first of two stamps issued is depicted here (the second came out on the centenary of his death). Both stamps were made according to drawings by the artist V. Zavyalov. The portrait on the stamp is unlike any of the four surviving portraits. The basis for it was a photo-sim (made for the blue hall of Kazan University), which is mentioned in the story of Lobachevsky’s son, in the “Historical History”.
+He writes that the photograph was taken from a portrait “painted in Kazan by Crikov, when his father was still forty years old, and the star was assigned later. In the portrait, the hair is a little darker than it actually was, and my father often said about Krikov, pointing at the portrait: “I obviously wanted to make him a brunette, but I was ashamed...”
+
+Omdel is led by A. V. Almyks
+
+By the way, “Consider an infinite decimal fraction...”
+
+Problem 1. For any $k$, the fraction $B$ and the fraction numbered $k$ will differ in the $k$ sign.
+
+Problem 2. A strict proof is carried out by indication of the length of the word $n$. It must be taken into account that words of length $n$ can be obtained from an unambiguous definition of a word of length $n-1$ by prescribing one letter in front. If words of length $n-1$ are fixed, then the letter can be written in $k$ ways.
+
+By the way, “Electrical resistance is a quantum phenomenon”
+
+1. Based on the given speed of sound in iron $c=5200$ m/sec $=5,2 \cdot 10^5$ cm/sec, we find the Debye temperature $\theta$ using the formula: $\theta = \frac{hc}{k} = \sqrt[3]{\frac{N}{4\pi}}$. Here Planck's constant is $h=6,62 \cdot 10^{-27}$ zrts·sec, Boltzmann's constant is $k=1,38 \cdot 10^{-16}$ zrts/deg. To find out the number of atoms per unit volume $N$, we also need the density of iron $d=7,9$ e/cm$^3$ and its atomic weight $A=55,85$ (these numbers are easy to find in a school textbook). It is easy to report that $N=N_0 \frac{d}{A}$, where $N_0=6,025 \cdot 10^{23}$ is Avogadro's number. Thus, for iron there are $N=\frac{6,025 \cdot 10^{23} \cdot 7,9}{55,85}=8,5 \cdot 10^{22}$ atoms per cm$^3$. It is convenient to write our formula for the Debye temperature in the form: $\theta = \frac{h}{k \sqrt[3]{4\pi}} c^3 \sqrt{N}=\frac{6,62 \cdot 10^{-27} \cdot c^3 \sqrt{N}}{1,38 \cdot 10^{-16} \cdot 2,32}=2,07 \cdot 10^{-11} \cdot c^3 \sqrt{N}$.
+
+Substituting the values ​​$c$ and $N$ for iron, we obtain the Debye temperature for it: $\theta=2,07 \cdot 10^{-11} \cdot 5,2 \cdot 10^5 \cdot 4,4 \cdot 10^7=473^\circ K=200^\circ C$. Under the conditions of the problem, the resistivity was at a temperature of $-100^\circ C$, that is, $173^\circ K$. Therefore, under these conditions $\frac{T}{\theta}=0,37$. From the generalized curve (Fig. 8) we find that $\frac{R}{R_0}=0,30$ corresponds to such a value $\frac{T}{\theta}$. Hence for iron $R_0=0,198$ ohm·m$^2$/m.

@@ -1,0 +1,64 @@
+---
+id: 1970-6-zadachi-dlya-5-klassa-c040e5ed
+issue: kvant_1970_6
+year: 1970
+number: "6"
+title: Problems for 5th grade
+rubric: raznoe
+page_first: 56
+page_last: 56
+page_labels: "54"
+tag: 0Y6T
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 78368665d9e68d238b139d8bb0c00b39235e46eb6fac1699e44cb0bf45fd6630
+prompt_sha256: draft-1
+translated_from: content/ru/1970/06/articles/17_zadachi-dlya-5-klassa-c040e5ed.md
+source_content_sha256: 02091e2b28c0670aab8320d94b1ea8db21040a158a3767a8566689e1ecbb8327
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 54⟧
+
+In the previous issue of the magazine, we began publishing a problem for a rectangle, teaching on the same name since the 1970-1971 academic year *).
+
+In this issue «Kvant» we place new tasks.
+
+We invite the reader to solve them or send feedback on them.
+
+1215. Petya didn’t have 7 kopecks to buy a portion of ice cream, and Masha didn’t have 1 kopeck. Then they added up the money they had. But they were also not enough to buy one serving of ice cream. How much is a serving of ice cream?
+
+1216. I am traveling in a train that is moving at a speed of 40 km per hour, and I see how, within 3 seconds, an oncoming train with a length of 75 m passes through the window mismo. At what speed was the oncoming train going?
+
+1217. A passenger traveling on a tram noticed an acquaintance walking along the tram line in the opposite direction. After 10 seconds, the passenger got off the tram and went to catch up with his friend. How long will it take him to catch up with his friend if he walks 2 times faster than the friend and 5 times slower than the tram?
+
+1218. In this problem, assigning the letter
+
+*) N. Ya. Vilenkin, K. I. Neshkov, S. I. Shvartsburg, A. D. Semushin, A. S. Chesnokov, T. F. Nechaev, edited by A. I. Markushevich, “Matematika”, 5th grade, “Enlightenment”, 1969.
+
+The numbers are protected by you. The same letters mean the same numbers. Try to decipher the example:
+
+$$\begin{array}{c}
+ABCD: CD = BCD \\
+CD \\
+EC \\
+DF \\
+BCD \\
+BCD \\
+0
+\end{array}$$
+
+1220. Out of 100 cups, 80 have a red side, 85 have a blue side, and 75 have a green side. What is the name for the number of cups that have faces of all three colors?
+
+1227. Express the following statements using one inequality: the number a is greater than -1, and the same number a is less than 1.
+
+1228. Four athletes - Anya, Valya, Galya and Dasha - took the first four places at the hypnastics competition, and no two of them shared any two places. When asked what place each of them took, three viewers gave three different answers:
+
+1) Anya - second, Dasha - third;
+2) Anya - first, Valya - second;
+3) Galya is second, Dasha is fourth. In each of these answers, one statement is true and the other is false. What place did each athlete take?
+
+1232. Find a five-digit number that, when multiplied by 9, gives a number represented by the same digits, but in reverse order.
