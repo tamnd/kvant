@@ -1,0 +1,46 @@
+---
+id: 1982-7-v-igra-zadacha-ili-sport-dc47c52b
+issue: kvant_1982_7
+year: 1982
+number: "7"
+title: Trò chơi, bài toán hay thể thao?
+authors:
+  - В. Н.
+rubric: smes
+page_first: 27
+page_last: 27
+page_labels: "25"
+tag: KAJN
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: d0b4ccbff8f50ca1e4a7fea2e368d1cd288d6495595b0ab831e6733e6f08f7b2
+prompt_sha256: draft-1
+translated_from: content/ru/1982/07/articles/06_v-igra-zadacha-ili-sport-dc47c52b.md
+source_content_sha256: f22985a29448ebe8719808c43d1d1263a11d7ca6d75a840b84c91e2fa491f6c1
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 25⟧
+
+Ki của tất cả các viên xúc xắc ở giữa sẽ được định hướng chính xác. Điều này đòi hỏi không quá 8 lần di chuyển.
+
+Giai đoạn thứ ba: sắp xếp các hình khối ở giữa. Ở giai đoạn này, chỉ các mặt F và P sẽ được xoay, do đó “cột” và hướng chính xác của các mũi tên của các hình khối ở giữa sẽ tự động được lưu. Có thể chứng minh (điều này dễ dàng đối với những ai đã quen với các hoán vị dễ hiểu) rằng vì mục đích này, chuyển động của 7 khối ở giữa được viết dưới dạng một tập hợp không quá ba chu kỳ có độ dài 3 và có thể thêm một vòng quay nữa; do đó, 7 khối lập phương ở giữa của các mặt Ф và П có thể được sắp xếp chính xác bằng cách sử dụng không quá ba thao tác loại $C_1 - C_{10}$. Phân tích chi tiết hơn cho thấy giai đoạn này không cần quá 14 nước đi.
+
+Giai đoạn thứ tư: sắp xếp và mở các khối góc. Đối với phần còn lại, sắp xếp và xoay chính xác 6 khối góc có mặt F và P. Như trên, chúng ta có thể chứng minh rằng chuyển động cần thiết của 6 khối góc được viết dưới dạng một bố cục không quá ba chu kỳ có độ dài 3, do đó, để đặt đúng 6 khối góc, chúng ta cần không quá ba thao tác kiểu $Y_1 - Y_{14}$. Sau đó, sử dụng thao tác $Y_{15} - Y_{18}$, phải, nhiệm vụ hay tranh chấp?
+
+Những thành tích này rất gợi nhớ đến trạng thái của những người bảo vệ - một phòng khởi động, do đó, phía sau có một bảng điểm khổng lồ, những phần tập hợp sức mạnh (hay suy nghĩ?) trước khi đến gần bộ máy, trọng tài, tiếng vỗ tay của khán giả... Chỉ cùng với những người bảo vệ, một chiếc bàn nhỏ với máy ghi thời gian điện tử cảm ứng được lắp đặt để trợ giúp, bảng điểm không hiển thị kilôgam mà là giây, cùng với tiếng sấm của bàn ủi có một tiếng cọt kẹt khe khẽ, và các vận động viên cử tạ thì không. khác biệt. Đây,
+
+Tại Budapest, vào ngày 5-6 tháng 6, giải đen đen đầu tiên trên thế giới về “khối Rubik ma thuật” đã được tổ chức. Nó có sự tham dự của các học giả từ 19 quốc gia trên ba châu lục - chủ yếu là học sinh và sinh viên toán học.
+
+Cuộc thi diễn ra như thế này: trước mặt khán giả, người tham gia tiếp theo dạy cách rút một khối ra khỏi vali chứa đầy các hình khối đã được làm sẵn, nghiên cứu nó trong 15 giây, có thể, giống như một nhà thôi miên, phát lại phần đầu của sự kết hợp trong tâm trí mình thêm vài giây nữa, sau đó chứng minh sự hoàn hảo của thuật toán và tất nhiên là cả trán của các ngón tay của anh ấy. Ba loạt nỗ lực đã được thực hiện; Thời gian tốt nhất đã được tính đến. Việc tuân thủ các quy tắc được giám sát bởi zhori, đứng đầu là chính nhà phát minh.
+
+câu đố - Giáo sư E. Rubicom.
+
+Kết quả được "đại kiện tướng khối" thể hiện cho thấy ngay cả thời điểm tệ nhất cũng chỉ trên 55 giây một chút. (Để so sánh, giả sử rằng một người chưa qua đào tạo đã quen với khối lập phương, sử dụng bản ghi thuật toán, dành khoảng hai giờ để lắp ráp.) Cũng có một số vấn đề: nhà vô địch Phần Lan đã quá vội vàng trong một nỗ lực của mình đến mức anh ta lần lượt làm vỡ hai khối lập phương. Và vị trí đầu tiên thuộc về Ming Tai, mười sáu tuổi người Mỹ, thời gian của anh là 22,95 giây!
+
+Vậy “khối ma thuật” là gì - một trò chơi, một bài toán toán học hay... một kiểu lập luận mới?
+
+V.N.

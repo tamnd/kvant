@@ -1,0 +1,72 @@
+---
+id: 1982-5-boytsov-leningradskiy-gosudarstvennyiy-universitet-im-a-a-zhdanova-6be5db4a
+issue: kvant_1982_5
+year: 1982
+number: "5"
+title: Đại học bang Leningrad được đặt theo tên. A. A. Zhdanova
+authors:
+  - Бойцов В.
+rubric: ekzamenatsionnye-materialy
+page_first: 48
+page_last: 48
+page_labels: "46"
+tag: KXD7
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 079475612c1e62d5b8a260051aec736388d8cb3c2314b0b416ba6ee5d45f96b4
+prompt_sha256: draft-1
+translated_from: content/ru/1982/05/articles/10_boytsov-leningradskiy-gosudarstvennyiy-universitet-im-a-a-zhdanova-6be5db4a.md
+source_content_sha256: 470d3b2117bd2d91ea47c7502f6c43d70dac4e95d297e489c397c0e074a08ebe
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 46⟧
+
+Jenny. Ở tốc độ $v \sim 30$ km/h, quãng đường phanh của hệ thống bằng $s \sim 5$ m (70%)
+
+5. Giải thích tại sao những chiếc đinh treo gần nam châm lại bị lệch khỏi vị trí thẳng đứng. (82%)
+
+Tùy chọn 2
+
+1. Cần phải di chuyển pít-tông lên trên bao xa để một lớp nước (mật độ nước $q$, khối lượng mol $\mu$) có độ dày $h$ bên dưới bốc hơi hoàn toàn? Nhiệt độ $T$ duy trì áp suất không đổi $p$. (83%)
+
+2. Có ba tụ điện có điện dung $C_1$, $C_2$ và $C_3$. Nếu tụ điện 3 đã tích điện (điện dung $C_3$) được nối với tụ điện 1 chưa tích điện, thì trên tụ 1 sẽ xuất hiện điện tích $q_2$ (Hình 4, a). Nếu tụ điện 3 đã tích điện (điện dung $C_3$) được nối với tụ điện 1 chưa tích điện, thì trên tụ 1 sẽ xuất hiện điện tích $q_3$ (Hình 4, b). Điện tích trên tụ điện 1 sẽ là bao nhiêu nếu tụ điện 2 và 3 (Hình 4, c), được tích điện với cùng mức điện tích như trong hai trường hợp đầu tiên, được nối với nó (không tích điện)? (Tụ điện 2 và 3 có kết nối tấm với dấu điện tích trái dấu.) (36%)
+
+3. Một khối phẳng có khối lượng $M$ có khía hình bán cầu ở trên (bán kính khía $R$) đứng sát bức tường thẳng đứng trên một bề mặt nằm ngang (Hình 5). Từ độ cao tối đa bao nhiêu so với bức tường gần nhất, điểm trên $A$ của mép hốc phải được thả một quả bóng nhỏ có khối lượng $m$ sao cho nó không vượt lên trên điểm đối diện $B$ của hốc? Kẻ giả vờ Trennem. (38%)
+
+4. Hãy ước tính kích thước của một chiếc khinh khí cầu có sức nâng 100 tấn, chứa đầy glium. (76%)
+
+5. Sau khi ánh sáng đi qua thấu kính thu, một vòng tròn tối sẽ xuất hiện trên màn hình do bóng đèn tạo ra. Giải thích hiện tượng quan sát được. (45%)
+
+Tùy chọn 3
+
+1. Trong mạch điện ở Hình 6, ba tụ điện bất kỳ có cùng điện dung và tụ điện thứ tư có điện dung gấp đôi. Tìm sự khác biệt tiềm năng giữa các điểm $A$ và $B$ nếu emf của pin là 6. (62%)
+
+2. Hai quả cầu có khối lượng $m$ giống nhau đang đứng yên chạm vào nhau. Quả bóng thứ ba bay về phía họ, theo một đường thẳng chạm vào cả hai quả bóng (Hình 7). Sự va chạm xảy ra mà không mất năng lượng. Tìm khối lượng của quả bóng sau va chạm nếu nó còn nguyên sau va chạm. Bán kính của tất cả các quả bóng đều giống nhau. (71%)
+
+3. Một chùm ánh sáng song song sẽ tán xạ khi nó đi qua tấm $\Pi$ (Hình 8). Góc lệch tối đa của tia so với hướng ban đầu đầu tiên đối với mỗi điểm của tấm là $a$. Bán kính nhỏ nhất của điểm sáng có thể thu được bằng cách đặt một thấu kính $J$ có ​​tiêu cự $F$ phía sau tấm thu là bao nhiêu? (44%)
+
+4. Ước tính lượng không khí sẽ rời khỏi lớp học khi nhiệt độ tăng 10 độ. (75%)
+
+5. Giải thích tại sao chuyển động quay của bàn xoay hình chữ Z, trên đó tác dụng một hướng không đổi, sẽ dừng lại nếu đặt một nắp dây điện trên đó, kết nối điện từ bàn xoay. (29%)
+
+Ấn phẩm được biên soạn bởi G. Meledin, M. Fokin
+
+Đại học bang Leningrad được đặt theo tên. A. A. Zhdanova
+
+Vật lý
+
+Bài thi viết
+
+Khoa Vật lý
+
+Tùy chọn 1
+
+Bài 1. Một quả bóng nhỏ được treo trên một sợi dây không căng, không trọng lượng. Tại thời điểm ban đầu, sợi dây tạo một góc $\phi_0 = 60^\circ$ với phương thẳng đứng và vận tốc của quả bóng bằng không. Xác định góc $\phi$ với phương thẳng đứng mà sợi dây tạo ra tại thời điểm hình chiếu thẳng đứng của vectơ vận tốc của quả bóng là lớn nhất.
+
+Bài 2. Một quá trình được thực hiện với một mol khí lý tưởng có phương trình là $p = p_0 - aV$ (a là một hằng số). Xác định phần nào của quá trình này khí nhận được tín hiệu và ở phần nào. Hướng của quá trình được thể hiện trong Hình 1.
+
+Bài 3. Đến đích cho dòng điện xoay chiều hình sin qua mạch chỉnh lưu

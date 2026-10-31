@@ -1,0 +1,100 @@
+---
+id: 1982-4-buzanov-malyuchkov-razumeyko-moskovskiy-institut-stali-i-splavov-a2d4243e
+issue: kvant_1982_4
+year: 1982
+number: "4"
+title: Viện thép và hợp kim Moscow
+authors:
+  - Бузанов В. И.
+  - Малючков О. Т.
+  - Разумейко Б. Г.
+rubric: ekzamenatsionnye-materialy
+page_first: 46
+page_last: 46
+page_labels: "44"
+tag: FE90
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 9041edbcc3336065326e9aa26d9367b24e693921f034e6d6b531f5c861502f3b
+prompt_sha256: draft-1
+translated_from: content/ru/1982/04/articles/13_buzanov-malyuchkov-razumeyko-moskovskiy-institut-stali-i-splavov-a2d4243e.md
+source_content_sha256: 4508ff305051b64e8b051368c0fb1d799ef3a8aed2b4e8f56af851e0c6cb9961
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 44⟧
+
+7. Dòng điện $I$ chạy qua ống danh mục khi hướng của nó là $U$. Xác định lực tác dụng của các electron trên một đơn vị diện tích bề mặt của cực dương nếu biết tỷ lệ $e/m$.
+
+8. Trong một từ trường, cảm ứng của nó là $B = 5 \cdot 10^{-2}$ T, một thanh có chiều dài $l = 1$ m quay với vận tốc góc không đổi $\omega = 20$ rad/s. Trục quay đi qua một đầu của thanh và song song với các đường cảm ứng từ. Tìm lực điện động cảm ứng xuất hiện ở hai đầu thanh.
+
+Ấn phẩm được biên soạn bởi G. Vardayan, D. Sedrakyan, G. Tonoyan
+
+Viện thép và hợp kim Moscow
+
+Toán học
+Bài thi viết
+Tùy chọn 1
+
+1. Giải quyết hệ thống
+$$\begin{cases}
+2x + 3y = 4 \\
+5x + 4y = 3.
+\end{cases}$$
+
+2. Giải phương trình
+$$4^{2x-3} = 0,5.$$
+
+3. Giải phương trình
+$$2\sin^2 x = 3\sin x.$$
+
+4. Tìm miền xác định của hàm
+$$y = \log_3 \frac{x^2 - 4x + 3}{5 - x}.$$
+
+5. Nội tiếp một hình trụ có thể tích lớn nhất vào một quả cầu có bán kính $R$.
+Tùy chọn 2
+
+1. Giải phương trình
+$$2 + \log_{\frac{1}{2}} x + \log_{\frac{1}{2}} (x + 3) = 0.$$
+
+2. Giải bất đẳng thức
+$$x \leq \frac{6}{x-5}.$$
+
+3. Giải phương trình
+$$4\cos x = \sin 2x.$$
+
+4. Giải quyết hệ thống
+$$\begin{cases}
+x - 6^y = 5 \\
+x \cdot 6^y = 6.
+\end{cases}$$
+
+5. Một hình thang có diện tích lớn nhất nội tiếp đường tròn bán kính 4 có tâm tại điểm (4; 0) sao cho hai đỉnh kề nhau của nó nằm tại giao điểm của đường tròn với trục hoành, hai đỉnh còn lại nằm trên đường tròn. Tìm tọa độ các đỉnh và diện tích hình thang.
+
+Vật lý
+Bài thi vấn đáp
+
+1. Một vật có khối lượng $m = 100$ kg được treo vào trần thang máy. Lực $F = 1500$ N làm cho thang máy chuyển động đi lên. Tải trọng được đặt ở khoảng cách $l = 1$ m tính từ trường thang máy. Sợi dây đột ngột bị đứt. Sẽ mất bao lâu kể từ lúc xoang vỡ cho đến khi tải trọng chạm sàn?
+
+2. Một neutron (khối lượng của nó $m_1$) chạm vào hạt nhân đứng yên của nguyên tử carbon ($m_2 = 12m_1$). Giả sử va chạm là trung tâm và đàn hồi, hãy tìm xem động năng của neutron giảm đi bao nhiêu lần khi nó di chuyển ra xa.
+
+3. Một hình trụ có thể tích $V = 10$ l chứa heli dưới áp suất $p_1 = 10$ atm và ở nhiệt độ $t_1 = 27^\circ\text{C}$. Sau khi $m = 10$ g gel được lấy ra khỏi quả bóng, nhiệt độ trong quả bóng giảm xuống $t_2 = 17^\circ\text{C}$. Xác định áp suất của gel còn lại trong quả bóng.
+
+4. Một quả bóng có đường kính $d = 1$ cm và điện tích $q = 10^{-6}$ C được đặt trong dầu có mật độ $\rho_m = 0,8$ g/cm$^3$. Mật độ của vật liệu bóng là $\rho = 8,6$ g/cm$^3$. Trong điện trường nào, hướng thẳng đứng lên trên, quả cầu phải được đặt sao cho nó nổi trong dầu?
+
+5. Một hiệu điện thế $U = 300$ V được đặt vào giữa các bản của một tụ điện phẳng đặt cách nhau $d = 1$ cm. Một tấm chồng song song mặt phẳng có độ dày $d_1 = 0,3$ cm và một tấm parafin song song với mặt phẳng có độ dày $d_2 = 0,7$ cm được đặt trong khoảng trống giữa các tấm. Tìm hướng dẫn trên mỗi lớp. Công suất thực phẩm điện môi bằng nhau, tương ứng với $\varepsilon_1 = 6$ và $\varepsilon_2 = 2,6$.
+
+6. Tìm lượng nhiệt tỏa ra mỗi giây trên một đơn vị thể tích của dây đồng ở mật độ dòng điện là $j = 30$ A/cm$^2$. Điện trở suất của đồng $q = 1,71 \times 10^{-8}$ Ohm m.
+
+7. Một electron đi vào một tụ điện phẳng nằm ngang, song song với các bản của nó, với tốc độ $v_0 = 2 \cdot 10^7$ m/s. Chiều dài của tụ điện là $l = 10$ cm, hướng của điện trường của tụ điện là $E = 200$ V/cm. Khi một electron rời khỏi tụ điện, nó đi vào một từ trường có các đường thẳng vuông góc với các đường hợp lưu của điện trường. Cảm ứng từ trường $B = 2 \times 10^{-2}$ T. Tìm bán kính quỹ đạo xoắn ốc của electron trong từ trường.
+
+8. Một cuộn dây có độ tự cảm là $L = 3 \cdot 10^{-5}$ H, được nối với một tụ điện phẳng có diện tích các bản là $S = 100$ cm$^2$ và khoảng cách giữa chúng là $d = 0,1$ mm. Giá trị điện môi của môi trường thực phẩm lấp đầy khoảng trống giữa các bản là bao nhiêu nếu mạch được truyền với chiều dài sóng $\lambda = 750$ m?
+
+9. Ánh sáng từ không khí rơi xuống một tấm kính phẳng song song bị phản xạ (từ tấm kính) một góc $\gamma = 60^\circ$ và khúc xạ (trong tấm kính) một góc $\beta = 30^\circ$. Xác định tốc độ ánh sáng trong nhựa.
+
+10. Một vật tích điện có khối lượng $m = 0,02$ kg và điện tích $q_1 = 5 \cdot 10^{-6}$ K chuyển động từ vô cực với tốc độ $v_0 = 3$ m/s dọc theo trục quang chính của gương lõm có bán kính cong $R = 1$ m đến cực của nó, nơi đặt một điện tích khác $q_2$. Xác định giá trị điện tích $q_2$ tại đó vật tích điện vẫn giữ nguyên.
+
+Ấn phẩm được biên soạn bởi V. Buzanov, O. Malyuchkov, V. Razumeiko

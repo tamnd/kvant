@@ -1,0 +1,56 @@
+---
+id: 1982-3-spisok-chitateley-prislavshih-pravilnyie-resheniya-f96e4c10
+issue: kvant_1982_3
+year: 1982
+number: "3"
+title: Danh sách độc giả gửi đúng lời giải
+rubric: zadachnik-kvanta
+rubric_sub: Задачник «Кванта»
+page_first: 39
+page_last: 39
+page_labels: "37"
+tag: 24YS
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 28fa693b6d311a13694489e7212bcd000270449e011e2038abceeb8f88eef4a9
+prompt_sha256: draft-1
+translated_from: content/ru/1982/03/articles/11_spisok-chitateley-prislavshih-pravilnyie-resheniya-f96e4c10.md
+source_content_sha256: 658009b6d19fd8332be1c67b1b0dcbdde97205857d247138f9ee7774df41231b
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 37⟧
+
+1) Tấm nhựa chụp ảnh nên được đặt ở khoảng cách bao nhiêu so với tiêu điểm?
+2. Hình ảnh của vệ tinh nhân tạo sẽ có kích thước như thế nào?
+3) Đường kính của hình ảnh mờ (không tập trung) của các ngôi sao trên tấm nhựa quang sẽ là bao nhiêu?
+
+bằng
+$$\Delta x = f - F = F^2/L = 8 \text{ см.}$$
+
+Nhựa chụp ảnh nên được lắp đặt ở khoảng cách này từ tiêu điểm.
+2) Kích thước của ảnh vệ tinh là
+$$l = \frac{f}{L} d \approx \frac{F}{L} d = 10^{-1} \text{ см.}$$
+
+3) Ảnh của các ngôi sao ở xa phải nằm trong mặt phẳng tiêu điểm của vật. Trong mặt phẳng quang nhựa,
+
+ở khoảng cách $\Delta x$ so với mặt phẳng tiêu điểm, hình ảnh của các ngôi sao có vẻ bị mờ mất nét (mất nét). Như có thể thấy trên hình, đường kính ảnh mờ của các ngôi sao trên nhựa ảnh (P) bằng
+$$\delta = D \frac{\Delta x}{F} = 1,25 \cdot 10^{-1} \text{ см.}$$
+
+Hãy đánh giá ảnh hưởng của nhiễu xạ. Do nhiễu xạ, các ngôi sao ở xa sẽ được mô tả trong mặt phẳng tiêu điểm không phải là các điểm mà là các điểm nhiễu xạ, bán kính của nó được xác định bởi biểu thức $\rho = \frac{\lambda}{D}$. Trong trường hợp của chúng tôi, thứ tự của số lượng này là $10^{-3}$. Vì $\rho \ll \delta$, nhiễu xạ trở nên không đáng kể và kích thước của hình ảnh ngôi sao không tập trung trên thực tế chỉ được xác định bởi sự phân kỳ hình học của chùm tia.
+
+S. Kozel
+
+Danh sách độc giả gửi đúng lời giải
+
+Trong số này, chúng tôi công bố tên của những người đã gửi đúng lời giải bài toán M676—M690; F692—F707 (số in đậm sau họ là chữ số cuối cùng của các số đã giải bài toán).
+
+Toán học
+
+Hầu hết độc giả gửi lời giải đều hoàn thành nhiệm vụ M676, M681, M686, M687. bài toán còn lại quyết định:
+T. Alavidze (Moscow) 88; M. Alekseev (Moscow) 78, 84, 85, 89; I. Altman (Odeska) 88; S. Aseev (Nikolaev) 88; V. Barabanov (Sevastopol) 78; Yu. Barkaan (Penza) 78; Yu. Bespalov (Shostka) 82, 85, 88; I. Binus (Penza) 78, 85, 89; V. Baluev (Tula) 78; L. Gareev (Ufa) 85; A. Gokhbere (Donetsk) 77, 78; O. Griniv (Kyiv) 77, 84; I. Grishko (Kyiv) 78, 79, 84; A. Dubickas (Tuarag) 78, 82, 83, 88-90; M. Eliseev (làng Novovoronezhsky, vùng Voronezh) 78, 84, 85, 88-90; O. Eroshkin (Dnepropetrovsk) 78, 83, 85, 88, 89; I. Zhukov (Leningrad) 78, 83—85, 89; M. Zaslavsky (Kharkov) 78;
+
+P. Zustaanovich (Alma-Ata) 90; I. Itenberg (Leningrad) 78, 82-85, 88, 90; A. Kazmeruk (Kyiv) 89; D. Kalyuzhny (Odeska) 78, 80, 89; V. Kisil (Odeska) 77—79, 82, 84, 85; A. Korsukov (Achinsk) 78, 82, 83, 85; I. Kudryashov (Leningrad) 77-79, 83-85, 88; I. Laskin (Aleksin) 77; L. Leytsin (Chernigov) 82, 84, 85, 89; S. Mamedov (Baku) 78; D. Milyuntskov (Moscow) 77, 78, 80; A. Milman (Odeska). 77, 78, 82, 88-90; Yu. Nikolaevsky (Kharkov) 78; A. Nikolov (Kirovograd) 77, 78, 80, 84, 89; M. Ovetsky (Donetsk) 77; A. Payak (Lodz, Ba Lan) 79; K. Pankratov (Kuibyshev) 83; G. Perelman (Leningrad) 77-80, 82-85, 89; V. Poyarkov (Nikolaev) 78, 89; S. Putintsev (Nevinomyssk) 77-80, 84, 85; A. Rodtsonov (Moscow) 78; P. Savelyev (làng Chernogolovka, vùng Moscow) 79, 84, 85; E. Sazonov (Moscow) 79; A. Syksa (Kyiv) 78; I. Solodovnikova (Dolgorudny) 79; S. Spitsak (Pripyat) 89; E. Stetanyan (Baku) 89; V. Titenko (làng Bluza, vùng Minsk) 82-85; G. Trunov (Moscow) 85; E. Tyurin (Vilnius) 77, 78; R. Uerinovsky (Khmilnik) 77, 79, 82, 88; Yu. Usaev (Kyiv) 77; V. Freer (Volsk) 82, 83, 89; A. Khokhlov (Moscow) 78, 83-85, 88-90; T. Khuseyov (Dushanbe) 78; P. Tsvetkov (Podolsk) 77, 89, 90; R. Zouf (Prague, Tiệp Khắc)

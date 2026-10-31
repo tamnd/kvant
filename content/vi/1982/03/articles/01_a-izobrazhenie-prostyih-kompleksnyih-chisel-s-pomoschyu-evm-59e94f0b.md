@@ -1,0 +1,35 @@
+---
+id: 1982-3-a-izobrazhenie-prostyih-kompleksnyih-chisel-s-pomoschyu-evm-59e94f0b
+issue: kvant_1982_3
+year: 1982
+number: "3"
+title: '[Hình ảnh số phức nguyên tố sử dụng máy tính]'
+authors:
+  - А. П.
+rubric: smes
+page_first: 68
+page_last: 68
+tag: 57GP
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 16f2ad1b25318c5bbf4e3e96dd3c2d417628fb1f2bce1207767b13abed24e6f4
+prompt_sha256: draft-1
+translated_from: content/ru/1982/03/articles/01_a-izobrazhenie-prostyih-kompleksnyih-chisel-s-pomoschyu-evm-59e94f0b.md
+source_content_sha256: 33840fc9a069d1c1f6caeb08c6708d56c2dad3a09dff3e1cf081e3a2b8cd9cb9
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+Bài báo của Viện sĩ L. S. Pontryagin, đăng trên tạp chí này, nói về những con số đầy đủ. Giá trị trung bình là các số nguyên đầy đủ, nghĩa là các số có dạng $a+bi$, trong đó $a$ và $b$ là số nguyên (chúng cũng bao gồm các số nguyên thông thường - tại $b=0$).
+
+Ví dụ: một số đầy đủ là một số nguyên đầy đủ như vậy, khi được biểu diễn dưới dạng tích của hai số nguyên đầy đủ, một trong các thừa số sẽ bằng $1$ hoặc $-1$ hoặc $+i$ hoặc $-i$.
+
+Gauss đã chứng minh rằng số nguyên tố vừa là số nguyên tố trọn vẹn nếu nó được biểu diễn dưới dạng $4k+3$, vừa là một hợp phần nếu ngược lại.
+
+Điều tò mò là nhà khoa học người Hà Lan Van der Pol, khi nghiên cứu các trường tần số cao, đã gặp phải các mẫu được mô tả bằng số Gaussian. Hình vẽ trên bìa tạp chí do Van der Pol thu được bằng máy tính, mô tả các số nguyên tố hoàn chỉnh dưới dạng hình vuông trên mặt phẳng phức.
+
+A.P.

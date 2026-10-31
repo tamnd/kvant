@@ -1,0 +1,39 @@
+---
+id: 1982-1-zadachi-2d47c07b
+issue: kvant_1982_1
+year: 1982
+number: "1"
+title: Bài toán
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 37
+page_last: 37
+page_labels: "35"
+tag: 4DZ9
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 51064aadb6ec93bf240456245852e0ec81a300218eacef318b1c527b3afff9c3
+prompt_sha256: draft-1
+translated_from: content/ru/1982/01/articles/10_zadachi-2d47c07b.md
+source_content_sha256: aeaf650725a12365699fedd2279615c6cb5c267510150708236a5c75c65685c6
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 35⟧
+
+Bài tập
+
+1. Tolya và Sasha, sau khi chơi trò chơi domino, đã bày ra tất cả xương. Đồng thời, họ có một khung hình chữ nhật. Điểm được thay thế trong khung này bằng các chữ cái (các ô trống là điểm “không”). Hình vẽ cho thấy các xương được đặt ở các đỉnh của khung như thế nào (chúng được tô bóng). Vị trí của các ô còn lại chưa xác định được nhưng người ta biết rằng tổng số điểm trên các cạnh ngang và dọc của khung là như nhau. Khôi phục vị trí của xương.
+
+2. Năm 1982, bình phương tuổi của Matleb trùng với số được tạo bởi ba chữ số đầu tiên trong năm sinh của ông. Matleb sinh vào năm nào?
+
+3. Năm 1981, ngày 1 tháng 1 và ngày 31 tháng 12 là cùng một ngày trong tuần. Liệu điều này có xảy ra trong năm nay? Và nói chung, khi nào ngày 1 tháng 1 sẽ trùng với ngày 31 tháng 12?
+
+4. Một phương trình được viết trên một tờ giấy làm từ que diêm (xem hình; các dấu hiệu hành động không được làm từ que diêm). Cần phải di chuyển số lượng kết quả tối thiểu là bao nhiêu để đẳng thức đúng?
+
+5. Cô gái đến gần ngã tư đúng lúc đèn vàng bật sáng, nhìn đèn giao thông. Cô nhận thấy từ đồng hồ của mình rằng thời gian đèn đỏ kéo dài ít hơn đèn xanh một lần rưỡi và thời gian đèn vàng kéo dài ít hơn đèn đỏ bốn lần. Sau khi đèn vàng bật lần thứ mười tám, đèn xanh bật lên, cô gái sau khi đứng được 17 phút đã bắt đầu băng qua đường. Đèn vàng sáng được bao lâu?
+
+Những nhiệm vụ này được đề xuất cho chúng tôi bởi: M. Adaev (học sinh lớp 8 của trường nông thôn Kazvinobinsk ở quận Masalli của Az. Liên Xô), M. Varqa, N. Rozov, A. Shvetsov.
