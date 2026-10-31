@@ -1,0 +1,52 @@
+---
+id: 2025-5-6-varlamov-teplovyie-svoystva-vodyi-7864c665
+issue: kvant_2025_5-6
+year: 2025
+number: 5-6
+title: Tính chất nhiệt của nước
+authors:
+  - Варламов С. Д.
+rubric: fizicheskiy-fakultativ
+rubric_sub: Физический факультатив
+page_first: 45
+page_last: 45
+tag: GU0Z
+lang: vi
+source: kvant_digital
+extraction: native
+content_sha256: 7b74fc1426fbf33b02e5a6a3843d898f38fa2c27eb0a4b2883c3cd1e35dede3b
+prompt_sha256: draft-1
+translated_from: content/ru/2025/05-06/articles/05_varlamov-teplovyie-svoystva-vodyi-7864c665.md
+source_content_sha256: 3e211257f450e684074bc0a191fad043091a0ced9731fe588e7c9c3141688cc0
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+TÙY CHỌN VẬT LÝ
+
+Tính chất nhiệt của nước
+
+S. VARLAMOV
+
+TRONG PHÂN TỬ NƯỚC, các điện tích được phân bố sao cho trên nguyên tử oxy điện tích “không cân bằng” là âm, và trên hai nguyên tử hydro gắn với nguyên tử oxy này, điện tích “không cân bằng” là dương và lớn bằng một nửa so với nguyên tử oxy. Nói cách khác, các điện tích được phân bố không đều trong toàn bộ phân tử nước và tổng điện tích của phân tử bằng không. Nói một cách hình tượng, phân tử nước là một lưỡng cực điện trong đó một điện tích âm (2 G) trên oxy và hai điện tích dương (G) cách nhau trong không gian trên các nguyên tử hydro nằm ở các góc của một tam giác cân có góc giữa hai cạnh bằng nhau là 104,5° (Hình 1). Các điện tích có dấu khác nhau hút nhau và sự sắp xếp có trật tự của các điện tích đó (cộng với trừ) tương ứng với thế năng tối thiểu. Độ sâu của giếng thế được cung cấp bởi một mol liên kết hydro (theo sách tham khảo) là khoảng 21 kJ mol. Nước rắn (và lỏng) là một hệ thống các phân tử được kết nối với nhau bằng cái gọi là liên kết hydro. Một phân tử hình thành ở vị trí gần nhất
+
+DOI: https://doi.org/10.4213/kvant20250505
+
+Cơm. 1
+
+⟦column⟧
+
+⟦figure⟧
+
+Cơm. 2
+
+hàng xóm có bốn kết nối như vậy. Hình 2 thể hiện sơ đồ sự sắp xếp các phân tử này và các liên kết hydro được mô tả bằng các đoạn chấm chấm. Tất nhiên, trên thực tế, cấu trúc mang tính không gian và không nằm (như trong hình) trong một mặt phẳng, nhưng bản chất của vật chất vẫn được phản ánh trong hình vẽ như vậy. Trong pha rắn (trong cấu trúc băng), tất cả các liên kết hydro đều tham gia. Do đó, một mol phân tử nước, một phần của chất băng ngưng tụ, ở nhiệt độ không tuyệt đối nằm trong một giếng thế có độ sâu xấp xỉ
+
+21 4 2 kJ mol U
+
+42 U kJ mol.
+
+Phần thứ hai của năng lượng tương tác tiềm năng, được ký hiệu bằng chữ U, được cung cấp không phải bởi các phân tử lân cận gần nhất, giữa chúng được thiết lập liên kết hydro, mà bởi các phân tử nằm cách xa nhau. Đây được gọi là tương tác van der Waals. Ngoài ra, mol phân tử nước này có nhiệt năng bằng C T, trong đó C là nhiệt dung mol của nước đá và T là nhiệt độ của nó. Và trong nước lỏng có cái gọi là cụm, bao gồm một số lượng lớn các phân tử, trong đó có cấu trúc giống như nước đá, nhưng ở ranh giới của các cụm không phải tất cả các liên kết hydro đều được “bao gồm”. Và khi nhiệt độ nước tăng lên, tỷ lệ của những chất đó bao gồm
