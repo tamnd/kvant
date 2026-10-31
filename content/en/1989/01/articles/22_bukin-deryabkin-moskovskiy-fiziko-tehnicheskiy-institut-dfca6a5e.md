@@ -1,0 +1,59 @@
+---
+id: 1989-1-bukin-deryabkin-moskovskiy-fiziko-tehnicheskiy-institut-dfca6a5e
+issue: kvant_1989_1
+year: 1989
+number: "1"
+title: Moscow Institute of Physics and Technology
+authors:
+  - Букин К. А.
+  - Дерябкин В. Н.
+rubric: ekzamenatsionnye-materialy
+rubric_sub: Экзаменационные материалы
+page_first: 74
+page_last: 74
+page_labels: "72"
+tag: J95L
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 33dd9d83c74fe54ee2b0356e201ecff40db92fc56f13f14eae465013dde7e250
+prompt_sha256: draft-1
+translated_from: content/ru/1989/01/articles/22_bukin-deryabkin-moskovskiy-fiziko-tehnicheskiy-institut-dfca6a5e.md
+source_content_sha256: 2abd779d9a685fd5e10353292ddc7d042b88937d028a33dc495cb5d6c215b9be
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 72⟧
+
+Moscow Physical Institute
+
+Mathematics
+Written exam
+Option 1
+1. Solve the inequality
+$$\log_2(x+1) < 1 - 2\log_4x.$$
+2. Solve the equation
+$$\sqrt{\frac{1}{2} + \cos x} \sin(2x + \frac{\pi}{4}).$$
+3. Diagonals BD and AC of a convex quadrilateral ABCD are perpendicular and intersect at point O, AO=2, OC=3. Point K lies on side BC, with BK:KC=1:2. Triangle AKD is equilateral. Find its area.
+4. The set M consists of points (a; b) of the coordinate plane for which $|a| \neq 1$ and the equation
+$$(3a-4b+15)x^1+(7a-24b+35)x^2+
+|a^2-1|+a^2-1=0$$
+has exactly three solutions. Prove that a circle can be inscribed in a polygon whose interior region is polygonal M, and find the coordinates of the center of this circle.
+5. On the continuation, point M is taken as the point $A_1$ of the edge $AA_1$ of the regular triangular recognition $ABCA_1B_1C_1$ (ABC is the base). Through the point M and point K - the middle of the edge BC - a plane α is drawn intersecting the edge AC at the point $K_1$ so that the angle $KK_1M$ is equal to arctan $\sqrt{55}$. It is known that the section is recognized by the plane α - the spot square $KK_1K_2K_3K_4$, which has $K_1K_2 = \frac{7}{2}, KK_1 = \frac{\sqrt{14}}{2}, K_2K_3 = \frac{3}{8}\sqrt{14}$. Find the volume of the confession.
+
+Option 2
+1. Solve the equation
+$$2\mathrm{ctg}x - \frac{1}{\cos x} = \frac{2}{\sin 2x}.$$
+2. The height DK is dropped to side BC of the rhombus ABCD. Diagonal AC intersects height DK at point M so that DM:MK=13:7. Find DK if it is known that AK=17.
+3. Pier A is located higher along the river than pier B. From A and B, simultaneously point a raft and a motor boat at each other. Accessed by pier A, the motor boat immediately turned back and caught up with the raft at the moment in time when it had covered $\frac{2}{3}$ the distance between A and B. Find the time it takes the raft to travel from A to B if it is known that the motor boat travels from B to A and back in 3 hours.
+4. Find all values ​​of p such that the graph of the function
+$$y=x^4-\sqrt{3}x^2+\frac{21p^2}{2^p+3}$$
+it was possible to draw a tangent intersecting the ordinat axis at the point (0; a), where $a \geq \frac{3}{4}2^pp^2+\frac{1}{4}$.
+5. Two squares ABCD and KLMN are located in space so that the center of the square KLMN coincides with the middle of side AB. Point A lies on the side LM and AM<AL, point N is equidistant from point B and C. The distance from M to the nearest point of the square ABCD is $2\sqrt{3}$, and the distance from K to the nearest point of the square ABCD is 5. Find the side lengths of the squares ABCD and KLMN and the distance from point N to the plane ABCD.
+
+Physics
+Written exam
+Option 1
+1. The astronauts who landed on the surface of Mars changed the period of rotation of the horse-

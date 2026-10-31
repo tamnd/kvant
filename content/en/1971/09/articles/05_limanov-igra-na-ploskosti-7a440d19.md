@@ -1,0 +1,78 @@
+---
+id: 1971-9-limanov-igra-na-ploskosti-7a440d19
+issue: kvant_1971_9
+year: 1971
+number: "9"
+title: Playing on a plane
+authors:
+  - Лиманов Л. Г.
+rubric: smes
+page_first: 41
+page_last: 41
+tag: ATWT
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 35fe9b8a5d546c0cecbc2ec5894f0b3cc1048c974b84039323e568a50616afb2
+prompt_sha256: draft-1
+translated_from: content/ru/1971/09/articles/05_limanov-igra-na-ploskosti-7a440d19.md
+source_content_sha256: 5c69b5efcd87ce1d277201b797dd8837a5a1556d807081bd05a8bccd3675e54b
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+exceed the maximum charge for which each of the capacitors is designed: $q_1 = C_1 U_1$ and $q_2 = C_2 U_2$.
+Posny must satisfy the inequalities
+
+$$\frac{C_1 C_2}{C_1 + C_2} U \leq C_1 U_1$$
+
+And
+
+$$\frac{C_1 C_2}{C_1 + C_2} U \leq C_2 U_2.$$
+
+It is clear that the charge of the capacitors should not exceed the lesser of the possible maximum charges of the capacitors. Let for definition
+
+$$q_1 = C_1 U_1 < q_2 = C_2 U_2.$$
+
+Then
+
+$$\frac{C_1 C_2}{C_1 + C_2} U \leq C_1 U_1$$
+
+And
+
+$$U \leq \frac{C_1 + C_2}{C_2} U_1.$$
+
+If $C_1 U_1 = C_2 U_2$, then we get the natural result:
+
+$$U \leq \frac{C_2 \frac{U_2}{U_1} + C_2}{C_2} U_1 = U_1 + U_2.$$
+
+The correct solution to this problem when merging V. Chupik (Torzhok, Kalinin region), N. Nikolaeva (village Belaya Glina, Krasnodar region), O. Maslok (Novomirgorod, Kirovograd region), S. Ivanov (Moscow), V. Sokolov (village Myshansk, Gomel region, BSSR), N. Fedik (Omsk), N. Kolenko (Bondar Odesskoy region), N. Alekseenko (Kirovsk, Murmansk region), A. Stachenko (village of Petropavlovka, Petropavlovsk district, Dnepropetrovsk region), M. Kozlovsky (Moscow), P. Khmara (Voroshilovgrad), E. Golovko (Stavropol), V. Parkhomenko (village of Pokolbichi, Gomel region), Yu. Batyshen (Moscow), M. Ramazanov (Makhachkala, DASSR), E. Sviriduk (Rovenki, Voroshilovgrad region), T. Selina (village of Saltykovo, Penza region), V. Sytsev (Alga, Aktobe region), A. Kostyurin (village of Krasovo, Moscow region), K. Kirillov (Minusinsk, Krasnoyarsk region).
+
+I. Sh. Slobodetsky
+
+GAME
+ON
+PLANES
+
+The maximum charge (of the vertices) is drawn on the plane. Some of them are connected by segments. Vsya and Petya play this game: they alternately mark the vertices - Vsya with crosses, and Petya with zeros. After all the vertices are marked, Vsya counts how many “of his own” segments he has, that is, segments in which both vertices are marked with crosses, and Petya counts how many segments he has. The one with the most segments wins. Explore how to play this game. Who can ensure a win or a draw? Consider the following case:
+
+a) when a polygon is drawn;
+b) when the drawn figure has exactly $k$ segments at each vertex;
+b) when different numbers of segments are coded at different vertices.
+
+L. Limanov
+
+FUNCTIONAL EQUATION
+
+Given the equation:
+
+$$mf \left( \frac{a+x}{c+x} \right) + nf \left( \frac{a-x}{c-x} \right) = kx.$$
+
+$(m \neq n)$.
+
+Define the function $f(x)$.
+
+Ya. Kilimnik

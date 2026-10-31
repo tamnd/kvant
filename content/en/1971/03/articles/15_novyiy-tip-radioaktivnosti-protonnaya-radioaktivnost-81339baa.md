@@ -1,0 +1,61 @@
+---
+id: 1971-3-novyiy-tip-radioaktivnosti-protonnaya-radioaktivnost-81339baa
+issue: kvant_1971_3
+year: 1971
+number: "3"
+title: A new type of radioactivity - proton radioactivity
+rubric: raznoe
+rubric_sub: Разное
+page_first: 59
+page_last: 59
+page_labels: "57"
+tag: K04F
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: d265eb8f7d0e363e49f67d31e4783b4ea5befd40a1016fca1a46349644420e79
+prompt_sha256: draft-1
+translated_from: content/ru/1971/03/articles/15_novyiy-tip-radioaktivnosti-protonnaya-radioaktivnost-81339baa.md
+source_content_sha256: dc1701d2afd1bec163631f2deb58a58782c66591759bb991833812290210fc87
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 57⟧
+
+PHYSICS NEWS
+
+A new type of radioactivity - proton radioactivity
+
+Until now, four types of radioactive decay have been known. β - decay occurs with the emission of electrons (β⁻-decay) or positrons (β⁺-decay); α - decay that occurs with the radiation of α - particles and γ - decay - the radiation of light quanta with high energy. Here we can also add nuclear fission (spontaneous - as they say, spontaneous), discovered in 1940 by Soviet physicists Flerov and Petrzhak, in which a heavy nucleus (uranium, plutonium, etc.) breaks into two.
+
+At the end of 1970, another type of decay was discovered—proton radioactivity, the existence of which was predicted by corresponding member of the USSR Academy of Sciences V. I. Goldansky. Proton activity was discovered by Czerny and a group of English and American physicists.
+
+The cobalt isotope with a mass number of 53 turned out to be proton-active. The nucleus of this isotope contains 27 protons and 26 neutrons. The decaying isotope is in the resulting state - its energy is approximately 3 MeV more than normal (1 MeV = 1 million electron volts = 1.6 10⁻⁶ere = 1.6 10⁻¹³ J).
+
+53 Co decays, turns into an isotope of iron with mass number 52: 53Co→52Fe+proton
+
+53Co(m)beech m means that cobalt arose and is in a metal-stable state) lives on average about 0.3 seconds. A proton-active isotope of cobalt is obtained as a result of the shelling of oxygen nuclei from calcium mines:
+
+40Ca+16O=53Co+2 neutrons +1 proton
+
+and as a result of the bombardment of iron protons
+
+54Fe+p=53Co+2 neutrons The energy of the emitted protons is 1.6 MeV.
+
+Reviews, bibliography
+
+If you need to calculate something...
+
+In our country, such a need may arise quite often and it is not always necessary to turn to the help of electronic computers. But if you have to count yourself, you will definitely come across tables.
+
+You can be sure that in almost all cases, for calculations it will be enough to use “Four-digit mathematical tables” by L. S. Khrenov, published as a manual for teachers by the publishing house “Prosveshchenie” in 1967.
+
+In addition to numerical tables, the author gives a brief formulation of the “Rules of Approximate Calculations.” They provide basic definitions, rules for operating with approximate numbers and interpolation, and recommendations regarding the order of calculations. As difficult as it may be, the author managed to be concise, precise and clear here at the same time. The “Explanations for the Tables” are also well written.
+
+The main content of the book is the clear values ​​of the table of basic elementary functions that are well known to secondary school students and are often encountered in calculations. The book also contains a small table of prime numbers, a table of biominal coefficients and representations of irreducible fractions in the form of decimals.
+
+L. S. Khrenov’s tables can be fully recommended both as a textbook for schoolchildren and as a tool for mass computing.
+
+R. S. Guter

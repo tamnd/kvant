@@ -1,0 +1,56 @@
+---
+id: 1971-12-petrakov-skvortsov-xiii-mezhdunarodnaya-matematicheskaya-olimpiada-shkolnikov-4d6c5791
+issue: kvant_1971_12
+year: 1971
+number: "12"
+title: XIII International Mathematical Olympiad for Schoolchildren
+authors:
+  - Петраков И. С.
+  - Скворцов В. А.
+rubric: informatsiya
+rubric_sub: Информация
+page_first: 55
+page_last: 55
+page_labels: "53"
+tag: 41VO
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 4384577be2134891f44a36902942baaefea959d7ffd3427bda9e65ef9f5a004f
+prompt_sha256: draft-1
+translated_from: content/ru/1971/12/articles/13_petrakov-skvortsov-xiii-mezhdunarodnaya-matematicheskaya-olimpiada-shkolnikov-4d6c5791.md
+source_content_sha256: 05d2556469200e7e51d027f79ac1b2c4c526ef03a38b37891d159d7aaa3670a5
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 53⟧
+
+INTERNATIONAL SCHOOL OLYMPIADS
+
+XIII INTERNATIONAL MATHEMATICS OLYMPIAD FOR SCHOOLCHILDREN
+
+From July 7 to July 20, 1971, the XIII International Mathematical Olympiad for secondary school students took place in Czechoslovakia. The direct organizer of the Olympiad was the Ministry of Schools of the Slovak Socialist Republic.
+
+The preliminary work of the jury, in which all participating countries were represented and represented by Academician of the Slovak Academy of Sciences Stefan Schwartz, took place from July 8 to 11 in the resort town of Tale in Central Slovakia. The jury selected 6 problems, 3 problems for each day of northerning. According to the majority of jury members, the problems of the XIII Olympiad were, on average, more difficult than the problems of previous international Olympiads. Unfortunately, we later found out that the problems presented by Bolsharnya (problem No. 5) and Shvetsa (problem No. 6) were previously published. However, we can agree with the general assessment of the difficulty of the task of the past Olympiad, especially since the majority of teams from participating countries scored significantly fewer points than at previous Olympiads.
+
+The competition of the Olympiad participants took place over two days on July 13 and 14 in the city of Zilina. Further work of the jury to check the works and award the prize took place there. The Olympics were clearly organized by the local organizing committee. Very qualified
+
+The Czech and Slovak mathematicians allocated for the coordinates of the estimates worked efficiently.
+
+15 countries participated in the XIII Mathematical Olympiad - the largest number in the history of international Olympiads. The debutant of northernization was Cuba. Austria took part in the Olympiad for the second time. The rest of the countries: Bulgaria, Hungary, Great Britain, East Germany, Holland, Mongolia, Poland, Romania, USSR, France, Czechoslovakia, Sweden, Yugoslavia are already traditional participants in this mathematical club. Each country was represented by a team of 8 students (Cuba was represented by only four participants). In each country, the team was formed based on the results of various northern competitions.
+
+For our country, the International Olympiad is a natural continuation of the Veseyuz Olympiad, held in Pyla in April of this year.
+
+The Soviet Union was represented at the XIII Mathematical Olympiad by: Alexey Aleksadrov (boarding school No. 45 at Leningrad State University), Sergei Gashkov (boarding school No. 18 at Moscow State University), Vasily Erokhin (Leningrad, school No. 30), Dmitry Loachev (Moscow, school No. 2), Olee Lyashko (Kharkov, school No. 27), Evgeniy Sallin (boarding school No. 45 at Leningrad State University), Mikhail Tsfasman (Moscow, school No. 2) and Alexander Chismov (Leningrad, school No. 239).
+
+All members of the Soviet team were winners of the Veseyuz Olympiad, and they also performed successfully at the XIII International Olympiad. Serey Gashkov received first prize. The second prize was received by Dmitry Loachev, Olee Lyashko, Vasily Erokhin, Alexey Aleksadrov and Mikhail Tsfasman. The third prize was awarded to Aleksandr Chismov and Evgeniy Sallin.
+
+All our “Olympians” showed themselves well and were accepted without passing the entrance exams at the faculties of mechanics and mathematics of Moscow or Leningrad University.
+
+In total, based on the results of the Olympiad, 48 prizes were awarded: 7 first, 12 second, 29 third. In addition to Sergei Gashkov, the first prize was given to Ruže Imre (Hungary), Gondos Ferenc (Hungary), Burmeister Wolfane (GDR), Szarek Smanislav (Poland), Komyat Peter (Hungary) and Franko Peter (Hungary).
+
+There is a particular lack of success for the Hungarian schoolboy Ruže Imre, who scored the maximum possible number of points. This is the third time he has participated in this mathematical compilation. Another veteran of the Olympiad is the already well-known Kwan reader, a schoolboy from the GDR, Wolfang Burmeister, who was part of the team behind for the fifth time.
+
+Traditionally, at international mathematical Olympiads, only the results of personal

@@ -1,0 +1,33 @@
+---
+id: 1972-3-dokazatelstvo-v-kartinkah-aad10a59
+issue: kvant_1972_3
+year: 1972
+number: "3"
+title: The proof is in pictures
+rubric: smes
+page_first: 76
+page_last: 76
+tag: 2GGK
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: c25c3630ac14c25835979f8c0818166b01556cc6e6aff59c96e4308043fb43c2
+prompt_sha256: draft-1
+translated_from: content/ru/1972/03/articles/02_dokazatelstvo-v-kartinkah-aad10a59.md
+source_content_sha256: 4e3f63784a1b5060aec1825f2eb000c9f5e525ae1ca0a12dad09e65fb8cfcd2b
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+PROOF IN PICTURES
+
+The pictures depict the successive stages of the proof of the Pythagorean theorem. The amount of red paint spent to cover the square built on the hypotenuse of a right triangle (Fig. 1) is exactly as much as it is required to cover the squares built on the legs of this triangle (Fig. 6). At figure 2 the square turned into a figure of equal size, the shape of filling an open book, which then moved upward.
+
+The fact that the height of a right triangle extended to figure 3 by a dotted line falls at the point of intersection of the extended sides of the squares built on the legs requires justification - it is given on the second page of the cover.
+
+In the following figures, the “kizhka” breaks up into parallelograms, and they turn into squares of equal size, built on the legs of a given right triangle. Thus, the sum of the areas of squares built on the legs of an arbitrary right triangle is equal to the area of ​​the square built on its hypotenuse.
+
+The Pythagorean theorem has been proven.

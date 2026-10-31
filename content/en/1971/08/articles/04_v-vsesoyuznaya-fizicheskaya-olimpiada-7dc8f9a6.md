@@ -1,0 +1,48 @@
+---
+id: 1971-8-v-vsesoyuznaya-fizicheskaya-olimpiada-7dc8f9a6
+issue: kvant_1971_8
+year: 1971
+number: "8"
+title: V All-Union Physics Olympiad
+rubric: informatsiya
+page_first: 24
+page_last: 24
+page_labels: "22"
+tag: 0L7A
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 239957b8e465abb3a4f8c623bbeb3b37500f1d0c5f52c06230e4b7c0a03de508
+prompt_sha256: draft-1
+translated_from: content/ru/1971/08/articles/04_v-vsesoyuznaya-fizicheskaya-olimpiada-7dc8f9a6.md
+source_content_sha256: 4a3135d806648987a0f900497c28f8596d239b3ad424fa97ae72c49e85424c2d
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 22⟧
+
+V ALL-UNION PHYSICS OLYMPIAD
+
+On April 15-20, the 5th All-Union Physical Olympiad for schoolchildren was held in Novosibirsk. 550 schoolchildren took part in it - winners of Resursikan and regional Olympiads and winners of the 1970 Weight-Union Olympiad.
+
+On April 16, the first round of the Olympiad took place - the theoretical one. The participant was offered tasks: 5 tasks each for students in grades 9 and 10, and 4 tasks for students in grades 8. 5 hours were allotted to solve the problems.
+
+On April 17, the jury that checked the works announced the results of the 1st round. Those participants who completed the theoretical round more successfully than others were admitted to the second round of the Olympiad - the experimental round, which was held on April 18.
+
+On the evening of April 18, an interview took place; Students who were the best in the final tasks of the 1st and 2nd round of the Olympiad took part in it.
+
+On April 19, schoolchildren visited Akademgorodok. They visited the laboratories of the Institute of Nuclear Physics, the Institute of Hydrodynamics, the Institute of Semiconductor Physics, and the Novosibirsk State University, where they met with scientists from the Siberian Branch of the USSR Academy of Sciences.
+
+On April 19, the jury summed up the final results, and on April 20, at the closing ceremony of the Olympiad, the names of the winners were announced.
+
+The following participants of the Olympiad were awarded first degree diplomas: in 8 grades - Igor Korenanov (school No. 23 in Dnepropetrovsk), Aleksadr Zuev (school No. 1 in Perevalsk, Voroshilovgrad region); in 9th grade - Alexander Sakharov (school No. 47 in Kaliningrad). Serey Provotorov (school No. 45 in Leningrad), Boris Kuzmin (school No. 18 in Moscow), Lev Vaidman (school No. 45 in Leningrad); in 10 grades - Andrey Pervukhin (school No. 51 in Sverdlovsk), Aleksandr Snegirev (Osipovskaya secondary school in Chaussky district, Mogilev region), Vladimir Golovizin (school No. 16 in Kirov).
+
+The following participants of the Olympiad received second-degree diplomas: in 8 classes - Alexander Levin (school No. 34 in Sverdlovsk), Aleksadr Teokharov (school No. 11 in Almalyk, Tashkent region), Vadim Mirny (school No. 2 in Moscow), Alexander Turchin (school No. 145 in Kyiv); in 9 classes - Serey Lyagushiin (school No. 23 in Dnepropetrovsk), Serey Katsur (school No. 34 in Chisinau), Igor Lobov (school No. 170 in Krasnodar), Georgy Polyakov (school No. 3 in Chelyabinsk), Mikhail Dezhurko (school No. 3 in Pinsk, Brest region); in 10 grades - Vladimir Nazaykinsky (school No. 2 in Moscow), Serey Parkovsky (school No. 145 in Kyiv), Boris Yakovson (school No. 116 in Odessa), Alexander Pukhovsky (school No. 21 in Arkhangelsk), Igor Artyukhov (school No. 18 in Moscow), Yuri Boedanov (school No. 40, Simferopol), Valery Fradkov (school No. 27, Kharkov).
+
+Third degree diplomas were awarded to ten 8th grade participants, fourteen 9th grade participants and 12 10th grade participants.
+
+74 Olympiad participants received certificates of encouragement.
+
+The organizing committee of the Olympiad, the jury, employees of the Siberian Branch of the USSR Academy of Sciences, the Novosibirsk Regional Department of Public Education put a lot of effort into ensuring that the Olympiad was held clearly, in an organized manner, and brought benefits to the participants.

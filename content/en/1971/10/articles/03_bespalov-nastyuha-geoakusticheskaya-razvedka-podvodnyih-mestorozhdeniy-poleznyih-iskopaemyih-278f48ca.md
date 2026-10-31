@@ -1,0 +1,45 @@
+---
+id: 1971-10-bespalov-nastyuha-geoakusticheskaya-razvedka-podvodnyih-mestorozhdeniy-poleznyih-iskopaemyih-278f48ca
+issue: kvant_1971_10
+year: 1971
+number: "10"
+title: Geoacoustic exploration of underwater mineral deposits
+authors:
+  - Беспалов О. Г.
+  - Настюха А. И.
+rubric: osnovnye-stati
+page_first: 8
+page_last: 8
+page_labels: "6"
+tag: MNMI
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 4ebffc988c7d35f85aee73598d1b27cb7bfefa00bd3a813d6a1692ce1a79ec07
+prompt_sha256: draft-1
+translated_from: content/ru/1971/10/articles/03_bespalov-nastyuha-geoakusticheskaya-razvedka-podvodnyih-mestorozhdeniy-poleznyih-iskopaemyih-278f48ca.md
+source_content_sha256: 76d8b849b770c8cc30da5eb79fd09e30e396ac0e54200fd7bf5ce33356ef0040
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 6⟧
+
+In search of new sources of raw materials, people are increasingly turning to the countless riches of class minerals hidden by the watery head of the seas and oceans. According to scientists, the reserves of oil, metal ores and other minerals located at the bottom and under the water bodies are several times greater than the reserves of these minerals on land.
+
+But how can you find out where these treasures are hidden underwater? To do this, you need to know the geological structure of the earth's crust covered by water areas. Using maps of the geological structure, specialists can judge where and what minerals to look for.
+
+For geological studies of the seabed, as on land, geophysical exploration methods are used - seismic exploration and well drilling. But to obtain detailed information about the geology of the area, you need to drill a lot of wells at random, each of which is difficult to drill even on land. And drilling into the seabed is an even more cumbersome and extremely expensive undertaking.
+
+Seismic exploration explores the geological structure of the earth's crust using explosions. A small hole is drilled in the ground and a charge is detonated in it. The expanding gases formed during the explosion cause deformation of the soil, removing the layer of particles that indefinitely surrounds the explosion site. The elastic forces that arise in the sloped layer transmit pressure to neighboring layers, and from the point of explosion a elastic shock wave (Fig. 1) propagates through the rock in all directions.
+
+Let us assume that under the first fracture of rock I at depth S lies layer II, composed of rock of a different density. The depth of layer II is not difficult to determine (see Fig. 1):
+
+$$S = \sqrt{S_1^2 - \frac{(S_2)^2}{2}},$$
+
+where $S_1 = \frac{1}{2} ABC$ is the path traveled by the direct wave to layer II (the same path travels the reflected wave), $S_2$ is the distance along the surface between the point of explosion and the seeding receiver, recording the arrival power of the reflected wave.
+
+The energy of elastic waves when passing through the earth's rocks is partially absorbed. The fraction of absorbed energy depends on the frequency of wave oscillations. An explosion produces waves of infrasonic (below 16 hertz) and sound (from 16 hertz to 20,000 hertz) frequencies. Waves of these frequencies are relatively little absorbed by the earth's rocks, and this determines their use in the sowing receiver.
+
+Seismic exploration has been successfully used to study the structure of marine

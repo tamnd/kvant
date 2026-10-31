@@ -1,0 +1,47 @@
+---
+id: 1972-3-evgenev-kniga-o-samyih-grandioznyih-yavleniyah-prirodyi-1abd9a9d
+issue: kvant_1972_3
+year: 1972
+number: "3"
+title: A book about the most grandiose natural phenomena
+authors:
+  - Евгеньев И. Е.
+rubric: retsenzii-bibliografiya
+rubric_sub: Рецензии, библиография
+page_first: 67
+page_last: 67
+page_labels: "65"
+tag: TUQ9
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 04540c8b6eb65bfa8c373f3fef873d878ca94821c1136be96db18b91a4a46c49
+prompt_sha256: draft-1
+translated_from: content/ru/1972/03/articles/20_evgenev-kniga-o-samyih-grandioznyih-yavleniyah-prirodyi-1abd9a9d.md
+source_content_sha256: d2aa94f83186cfd967ca7deef0356d79761b0d35647b729144510aa2b77927f5
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 65⟧
+
+A book about the most hailstone phenomena of nature
+
+Imagine a star with a million planets orbiting around it. Each of these planets has a million countries, and each country has a million cities. Each city has a million buildings, consisting of a million rooms, and in each room a million atomic bombs are assembled. Now imagine what would happen if all these bombs exploded at the same time? There would have been an explosion comparable in power to what we observe when looking at an exploding galaxy. So one of the astronomers is trying to give a visual idea of ​​the power of explosions occurring in space.
+
+The recommended reader's book by V. G. Gorbatsky*) begins with an explanation of explosive processes, talks about the general properties of explosions occurring under earthly conditions, and compares various explosions by the amount of energy released. Then the author moves on to methods for studying cosmic explosions. Briefly describing the receivers of electron radiation (one of the forms of which is visible light)—telesco*
+
+*) V.G. Gorbatsky*) Cosmic explosions. Ed. 2-e, reworked and additional, M., “Science”, 1972.
+
+pys, radio telecommunications and other devices, he pays a lot of attention to the spectra of celestial bodies, because it is from the spectra that it is possible to establish the physical properties of these bodies.
+
+The author devotes the next section to a description of the state of matter in the Universe. The reader needs to know this, since a cosmic explosion will involve a rapid change in the state of a celestial body. Here we talk about different types of stars, their internal structure and physical properties, as well as about various star clusters up to giant depletions - galaxies containing tens and hundreds of billions of stars. These celestial bodies and their systems are gigantic structures of energy. The author devotes an appraised section of the book to the question of the role of various types of energy in the Universe. He carries out a series of calculations, from which, for example, it follows that the tell energy contained in the Sun is 10⁴⁸ erg, and the total radiation energy in it is five orders of magnitude less.
+
+Having completed the presentation of the materials necessary for understanding the main text of the book, the author proceeds to a direct consideration of explosions occurring in space. It begins with explosive processes that occur on the Sun, with so-called chromospheric flares, the energy of which corresponds to the energy of explosions of “only” a billion meraton bombs. Then he moves on to explosions that are more and more massive. These include flares that occur on some stars, and flares of new stars, when faint stars begin to shine hundreds of thousands of times brighter than before, and colossal flares of supernovae, shining at maximum brilliance as an entire star system.
+
+The author will talk in detail about the recent discovery of the most interesting objects—quasars and pulsars—that are now attracting special attention from astrologers, about galactic cores and explosion-emitting galaxies, with a description of which this review begins.
+
+The book not only describes various explosive processes in space, but also examines the role of explosions in the development of stars and the galaxy, and breaks down the possible causes of explosions, often still hypothetical. Undoubtedly, it is of greater interest to those interested in modern natural science.
+
+I. E. Evgeniev

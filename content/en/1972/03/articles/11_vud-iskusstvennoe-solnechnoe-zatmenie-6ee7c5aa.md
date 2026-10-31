@@ -1,0 +1,33 @@
+---
+id: 1972-3-vud-iskusstvennoe-solnechnoe-zatmenie-6ee7c5aa
+issue: kvant_1972_3
+year: 1972
+number: "3"
+title: Artificial solar eclipse
+authors:
+  - Вуд Р.
+rubric: laboratoriya-kvanta
+rubric_sub: Лаборатория «Кванта»
+page_first: 36
+page_last: 36
+page_labels: "34"
+tag: RK3H
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: b4649b0d29f37605c1cb08419a9f1251ceb5198ddce336b8e0eda93c40206b51
+prompt_sha256: draft-1
+translated_from: content/ru/1972/03/articles/11_vud-iskusstvennoe-solnechnoe-zatmenie-6ee7c5aa.md
+source_content_sha256: 82da65220777025dd8c817492583955ba0ce9c3414f3a78b3a6317af1c26f2f9
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 34⟧
+
+When studying the solar corona, it is desirable to have an artificial corona with properties as close as possible to the properties of a real ECLIPSE. The device described below is designed specifically for this purpose. The artificial crown of a real sill on the real one that it gives rise to anyone who has witnessed a total solar eclipse. The resemblance of a real sill is that it is worth adding a few details in order to create a purely natural solar eclipse that is difficult to distinguish from the genuine one. The difference is that the glow columns are straight and not crooked, as in the photographs. The greenish-blue color of the sky and the characteristic bile white of the crown are well reproduced. An artificial eclipse in lecture demonstrations gives the audience a vivid impression of the beauty of the phenomenon. Figure and the photographs do not give such an impression. Anyone who views the installation described below will be rewarded with a red image of a solar eclipse.
+
+All that is required is a six-candle incandescent lamp and a glass container. The size of the tank does not matter much; for example, a glass aquarium is good for this purpose. The reservoir will be filled with clean water, to which a spoon or two of alcohol-based mastic solution is added. The mastic immediately precipitates, and the water becomes like milk.
+
+The wires leading to the lamp are passed through a short glass tube. A lamp (Fig. 1) is attached to the end of the tube using sealing wax. Care should be taken to ensure that the connection is tight, otherwise water will enter the tube. Five or six strips of foil are placed on the lamp at intervals of 0.5-1 mm. The thickness of the strips is approximately the same. Put it down

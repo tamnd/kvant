@@ -1,0 +1,75 @@
+---
+id: 1971-4-zadachi-d39a6c7b
+issue: kvant_1971_4
+year: 1971
+number: "4"
+title: '[Tasks]'
+rubric: kvant-dlya-mladshih-shkolnikov
+page_first: 67
+page_last: 67
+tag: ZPV8
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 89f29cc974bac5fbe19e559293c5af409aa2d87c6f173215957981a2ae949249
+prompt_sha256: draft-1
+translated_from: content/ru/1971/04/articles/01_zadachi-d39a6c7b.md
+source_content_sha256: c34e950d3a6dc0faba3def9d2b2796371f0f001da77905b8bb54ccc46340e187
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 11⟧
+
+"QUANT" FOR JUNIOR SCHOOLCHILDREN
+
+Fig. 1. Fig. 2.
+
+1. What is the smallest number of breaks that can be used to completely break a chocolate bar (Fig. 1) into pieces? You can only break along straight lines, which are the indentations on the chocolate bar.
+
+2. A well-known poem is encoded here. Can you decipher it?
+
+Myazha Dyama kleyge bryaschzd,
+Yulemyr f lashgyu nashyg.
+Dyzhe, Dyamzgya, me bang,
+Me yudemzd f lashge ours.
+
+3. figure 2 shows three rope rings. If you cut the top ring, the rest will be free, but if you cut one of the lower ones, the remaining ones will be interlocked. Try connecting three pegs so that when you cut any of them, the remaining pegs are free.
+
+4. Here some numbers are scribbled with crosses. Try to decipher the example.
+
+-××7××××××
+-××××××
+-××××××
+-××7××××
+-××7××××
+-××××××
+-××××××
+-××××××
+-××××××
+0
+
+5. The equality shown in figure 3 is incorrect. Rearrange one match so that it is carried out with an accuracy of 0.01.
+
+As I said. Look at the article by N. M. Beskin “Continued Fractions” («Kvant» No. 1, 1970.
+
+The editor-in-chief is academician I.K. Kikoin.
+First Deputy Editor-in-Chief - Academician A. N. Kolmogorov.
+Editorial collection: L. A. Artsimovich, M. I. Bashmakov, V. G. Boltyansky, I. N. Bronshtein, N. B. Vasiliev, I. F. Ginzburg, V. G. Zubov, P. L. Kapitsa, V. A. Kirillin, V. A. Leshkovtsev (deputy “editor-in-chief”), V. P. Lishevsky, A. I. Markushchevich, M. D. Millionshchikov, N. A. Patrikeeva, N. Kh. Rozov, A. P. Savin, I. Sh. Slobodetsky, M. L. Smolyansky (deputy “editor-in-chief”), Ya. A. Smorodinsky, V. A. Fabrikant.
+
+Editorial Head L. V. Chernova
+Chief artist A. I. Klimanov
+Technical editor T. M. Makarova
+Proofreader T. A. Pankova
+Publishing house "Science"
+Main editorial office of physical and mathematical literature
+Moscow, V-71, Leninsky Prospekt, 15
+Tel. 234-08-11
+
+Delivered on December 23, 1970.
+Signed for publication on November 23, 1971.
+Vumaga 70×100/1/6. Phys. oven l. 4. Conditions. oven l. 5.2. Academic ed. l. 6.04. Tire 265750
+T-02198.
+Price 30 kopecks. Order 848
+Chekhov Printing Plant of the Main Polygraphrom of the Printing Committee under the Council of Ministers of the USSR, Chekhov, Moscow Region

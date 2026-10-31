@@ -1,0 +1,45 @@
+---
+id: 1971-11-vud-demonstratsiya-orbit-tel-dvizhuschihsya-pod-deystviem-tsentralnogo-prityazheniya-a1c3cb43
+issue: kvant_1971_11
+year: 1971
+number: "11"
+title: Demonstration of the orbits of bodies moving under the influence of central gravity
+authors:
+  - Вуд Р.
+rubric: laboratoriya-kvanta
+rubric_sub: Лаборатория «Кванта»
+page_first: 24
+page_last: 24
+page_labels: "22"
+tag: 1IC9
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: b83ff2d8e71fa4d01020ffe1f4c3ac3d5d07f874c0856ddfd5aa8516bfb92591
+prompt_sha256: draft-1
+translated_from: content/ru/1971/11/articles/05_vud-demonstratsiya-orbit-tel-dvizhuschihsya-pod-deystviem-tsentralnogo-prityazheniya-a1c3cb43.md
+source_content_sha256: 38c850d80063e6fee408604da21e07f366d684ebfc90fef683aa4d3d2235657b
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 22⟧
+
+Demonstration of the orbits of bodies moving under the influence of central gravity
+
+R. Wood
+
+In the last issue of our magazine, an article by the remarkable American physicist R. Wood about artificial mirages and tornadoes was published. Below we place another article by Wood, devoted to the study of the orbits of bodies in the central field. This article was published in the Physical Review in 1897.
+
+After Wood published an article on the LABORATORY Demonstration of the orbits of planets and comets around the Sun using a steel ball and an electromagnet, the journal Nature published a letter from a professor at the University of London, which stated that this experiment does not demonstrate orbits in a gravitational field, since the force of attraction of the ball by a magnet varies inversely to the fifth power, and not to the square of the distance, as in the case of gravity.
+
+Wood set to work always, drew a detailed diagram and realized that the ball intersects the magnetic lines at an angle and that its orbit depends only on the horizontal component of the tension. After careful measurements of the magnetic field strength in the stack plane, it was found to be almost exactly inversely proportional to the square of the distance.
+
+Meanwhile, critical reports appeared in several other English technical journals, and Wood was pleased to send confirmation of the validity of his experiment, citing the results of measurements.
+
+Do six pins on his sleeve point to the laboratory's surface, the movement tells the planet no eliptical轨道, parabolic轨道 and hyperbolic轨道 under the influence of a central force, the magnitude of which would vary inversely with the square of the distance. I conducted several experiments examining the motion of a small steel ball around a magnetic field. Obits of length give good results, and I believe that they can be useful when giving lectures.
+
+The device for demonstration is very simple. It consists of a glass disk about 40 cm in diameter, with a small hole in the center. The cone of a large electromagnet is passed into this hole. The surface of the disk is covered with smoke (Fig. 1). You need to try to give the plate a horizontal position and the magnet axis a vertical position as accurately as possible.
+
+A small polished steel ball about 5 mm in diameter (for example, from a wave bearing)
