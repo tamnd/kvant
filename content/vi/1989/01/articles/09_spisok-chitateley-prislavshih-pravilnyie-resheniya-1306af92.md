@@ -1,0 +1,34 @@
+---
+id: 1989-1-spisok-chitateley-prislavshih-pravilnyie-resheniya-1306af92
+issue: kvant_1989_1
+year: 1989
+number: "1"
+title: Danh sách độc giả gửi đúng lời giải
+rubric: zadachnik-kvanta
+rubric_sub: Задачник «Кванта»
+page_first: 31
+page_last: 31
+page_labels: "29"
+tag: 8TSS
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 5c791f555a510f425cccb640930fd2dca09e2adef09dc6e636d2c562139230b4
+prompt_sha256: draft-1
+translated_from: content/ru/1989/01/articles/09_spisok-chitateley-prislavshih-pravilnyie-resheniya-1306af92.md
+source_content_sha256: b95d1e1f9247bad102d48f2eaf000e8a53eebd2e2d23c2c85d3b80d57e03ae4b
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 29⟧
+
+Danh sách độc giả gửi đúng lời giải
+
+Hầu hết độc giả đã gửi lời giải bài toán M1091—M1115, F1103—F1117 quản lý bài toán M1091, M1093, M1094, M1096, M1097, M1101, M1102, M1105, F1104, F1106, F1109—F1111, F1114—F1116. Dưới đây chúng tôi công bố họ của những người viết đúng lời giải và những người còn lại bài toán (các số sau họ là chữ số cuối cùng của các số đã giải bài toán).
+
+Toán học
+D. Aladzhanov (làng Ermolino, vùng Kaluga) 04; N. Andrianov (Điện) 92, 98, 00, 03, 04; A. Akimov (Evpatoria) 98, 04; A. Hakobyan (Yerevan) 04; Sh. Aleksayan (Lininakan) 04; I. Arzhantsev (Kyiv) 92, 98, 04; V. Baranovsky (Omsk) 92, 98, 03, 04; S. Bashmkov (Sevastopol) 04; N. Bulusak (làng Menyava, vùng Ivano-Frankivsk) 98; A. Boldanov (Stayy Oskol) 92, 03, 04; P. Borodin (Kirov) 98; J. Brener (Sergevka) 04; S. Butvina (Zhitomir) 92, 95, 98, 03, 04; Yu. Vavulov (Safonovo) 04; V. Vạn Xuân (Moscow) 04; Ts. Vasiliev (Sofia, NRV) 04; Yu. Velikina (Dnepropetrovsk) 04; S. Voloshin (Podgorodnoe) 04; K. Volchenko (Donetsk) 03; M. Thế giới (Leningrad) 92; M. Vyborov (Kyiv) 92; E. Gabrielovich (Minsk) 98; Yu. Vàng (Odesca) 04; P. Grigoriev (Riga) 92; Yu. Grinfeld (Moscow) 92, 98, 00, 03, 04; A. Gurman (Odesca) 04; A. Davydov (làng Elfimovo, vùng Gorky) 04; Kh. Jafarov (làng Turkba AzSSR) 98; D. Tarsier (Reytov) 92; V. Drobovtsev (Moscow) 92; V. Dubrov (Minsk) 92, 98, 03, 04; E. Duda (Kharkov) 92; A. Efimuk (Minsk) 03, 04; V. Zhilinskaya (Vilnos) 92, 98-00; I. Zelenko (Saratov) 03, 04; S. Zelik (Kramatorsk) 92, 98, 04; I. Zuk (Essen, Đức) 00, 04; V. Ivleev (Dzhezkazan) 92; M. Iznagev (Moscow) 04; S. Izmalkov (Kharkov) 04; A. Imashova (Leningrad) 98; I. Iopne (Moscow) 92, 98, 00; D. Kabysh (Moscow) 98; E. Ghazaryan (Tilisi) 92; V. Kaloshin (Kharkov) 92, 95, 98, 00; L. Kaminstein (Kyiv) 92, 03, 04; D. Kamushadze (Tilisi) 04; N. Kaputkina (Moscow) 92, 98, 03; S. Kasamyan (quận Oktemberg của Cộng hòa xã hội chủ nghĩa Xô viết Armenia) 92; K. Kasimov (Tselinograd) 04; I. Kirillov (Ust-Kamenogorsk) 04; S. Kovatsenko (Vinnitsa) 92, 98, 03, 04; O. Kovrizhkin (Maikop) 92; D. Kozhevnikov (Onutin) 92; A. Kozachko (Vinnitsa) 92, 98, 03, 04; I. Kokoev (Tilisi) 04; G. Kolesnichkiy (Tilisi) 04; M. Kolede (Omsk) 92, 98, 04; V. Koloshin (Kharkov) 03, 04; P. Kononenko (Ivanovo) 92; D. Korzhnev (Kyiv) 04; D. Korzhin (Ivanovo) 03, 04; A. Korotky (Dneprodzerzhinsk) 04; A. Korshkov (Mozyr) 92, 98, 03, 04; G. Kropin (Leningrad) 98, 04; A. Kryukov (Saratov) 98, 04; T. Kulikova (Zvenigorod) 92, 95, 98, 03, 04; N. Lapusta (Ternovopol) 04; V. Levshin (Moscow) 98; S. Lesik (Donetsk) 92, 95, 98, 03, 04; Yu. Litvinova (Kyiv) 98; M. Loba (Lviv) 04; E. Lomovtseva (Belorets) 92; G. Magleridze (Rustavi) 04; A. Maly
+
+(Tiếp theo trang 51)

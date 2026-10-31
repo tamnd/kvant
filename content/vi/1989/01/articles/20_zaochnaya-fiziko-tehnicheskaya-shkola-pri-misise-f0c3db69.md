@@ -1,0 +1,59 @@
+---
+id: 1989-1-zaochnaya-fiziko-tehnicheskaya-shkola-pri-misise-f0c3db69
+issue: kvant_1989_1
+year: 1989
+number: "1"
+title: Trường Vật lý và Công nghệ Tương ứng tại MISiS
+rubric: informatsiya
+rubric_sub: Информация
+page_first: 71
+page_last: 71
+page_labels: "69"
+tag: PMRX
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 0e5c21b379123a5d069777b8765f11371a7748ef815358d77f2c9f10c88b66a8
+prompt_sha256: draft-1
+translated_from: content/ru/1989/01/articles/20_zaochnaya-fiziko-tehnicheskaya-shkola-pri-misise-f0c3db69.md
+source_content_sha256: 93a0a5860fa61e38f49c57d54efba7f0589268dd268af39c74b23e4c0421611e
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 69⟧
+
+14. Một bình có thể tích 20 lít được chia thành hai phần bằng một vách ngăn mỏng di động. Bên trái có 1 mol nước, bên phải có 0,5 mol nitơ. Nhiệt độ được giữ ở 100°C. Xác định thể tích của vế phải.
+
+Toán học
+1. Hai du khách đi cùng một lúc từ điểm A đến điểm B. Người thứ nhất đi với vận tốc 5 km/h, nửa còn lại đi với vận tốc 4 km/h. Người thứ hai đi 4/9 quãng đường với vận tốc 6 km/h, đoạn đường còn lại với vận tốc 4 km/h. Du khách nào đến gần điểm B hơn?
+2. Độ dài đường trung bình của hình thang là 5 cm, độ dài đoạn nối trung điểm của hai đáy là 3 cm. Tìm các đáy của hình thang nếu các góc ở đáy lớn hơn là 30° và 60°.
+3. Tìm giá trị lớn nhất có thể có của thương của một số có ba chữ số chia cho tổng các chữ số của nó.
+4. Phải thêm hai chữ số nào vào bên phải số 1989 để số đó chia hết cho 8 và 9?
+5. Được biết, $a + \frac{1}{a}$ là một số nguyên.
+Chứng minh rằng $a^3 + \frac{1}{a^3}$ cũng là số nguyên.
+6. Trên mặt phẳng tọa độ, xét các tam giác có đỉnh tại các điểm A (0, 0), B (1, 1) và C (x, y). Tìm và vẽ lên hình tập hợp các điểm C sao cho tam giác ABC nhọn.
+
+7. Điểm K là trung điểm cạnh AD của hình thoi ABCD, điểm L nằm trên đường chéo AC, AL=3LC. Giao điểm của đoạn thẳng BD và KL chia đoạn thẳng BD theo tỉ số nào?
+8. Với những giá trị nào của tham số a thì phương trình $x + \sqrt{x} = a$ có lời giải duy nhất?
+9. Tham số c có thể áp dụng những giá trị nào nếu biết rằng $|x^2 - x + c| \leq 1$ tại $0 \leq x \leq 1$?
+10. Trong một tứ giác lồi có diện tích S, các đoạn thẳng được vẽ nối các cạnh đối diện. Tìm giá trị nhỏ nhất có thể có của tích độ dài các đoạn.
+11. Trung bình cộng của các số tự nhiên từ 1 đến 99 chọn những số không chia hết cho 2 hoặc 3. Tìm tổng của các số này.
+12. Một hạt bay ra từ một điểm trên chu vi của đáy hình trụ, hạt này bị phản xạ từ đáy và mặt bên của hình trụ theo định luật: góc tới bằng góc phản xạ và không xảy ra phản xạ tại các điểm trên đường tròn của các đáy. Người ta biết rằng sự phản xạ đầu tiên sẽ xảy ra tại một điểm ở đáy hình trụ, và sau một loạt phản xạ hạt sẽ quay trở lại điểm ban đầu. Tìm số phản xạ nhỏ nhất có thể.
+
+Trường Đại học Vật lý và Công nghệ tại MISiS
+
+Chi nhánh Trường Toán Tương ứng Western Union - Trường Vật lý và Công nghệ Tương ứng tại Viện Thép và Hợp kim Mátxcơva - thông báo tuyển sinh học sinh lớp 8, lớp 9 và lớp 10 cho năm học 1989/90.
+Mục tiêu của trường là hỗ trợ học sinh nghiên cứu chuyên sâu chương trình trung học về vật lý và toán học, cũng như hướng dẫn nghề nghiệp trong hồ sơ MISiCa.
+Chương trình toán học hoàn toàn tuân thủ khóa học VZMS. Khóa học vật lý được biên soạn bởi các giáo viên đến từ Khoa Vật lý đại cương và Khoa Vật lý lý thuyết tại MISiCa.
+Công việc của trường được tổ chức như sau. Bốn đến năm lần một năm, học sinh sẽ được giao bài kiểm tra vật lý và toán học, cùng với thông tin ngắn gọn về lý thuyết và ví dụ lời giải bài toán, cũng như các tài liệu hướng dẫn nghề nghiệp. Bài làm của học sinh được chấm cùng với điểm A (0, 0), B (1, 1) và C (x, y). Tìm và vẽ lên hình tập hợp các điểm C sao cho tam giác ABC nhọn.
+
+7. Điểm K là trung điểm cạnh AD của hình thoi ABCD, điểm L nằm trên đường chéo AC, AL=3LC. Giao điểm của đoạn thẳng BD và KL chia đoạn thẳng BD theo tỉ số nào?
+8. Với những giá trị nào của tham số a thì phương trình $x + \sqrt{x} = a$ có lời giải duy nhất?
+9. Tham số c có thể áp dụng những giá trị nào nếu biết rằng $|x^2 - x + c| \leq 1$ tại $0 \leq x \leq 1$?
+10. Trong một tứ giác lồi có diện tích S, các đoạn thẳng được vẽ nối các cạnh đối diện. Tìm giá trị nhỏ nhất có thể có của tích độ dài các đoạn.
+11. Trung bình cộng của các số từ 1 đến 99, chọn những số không chia hết cho 2 hoặc 3. Tìm tổng của các số này.
+12. Một hạt bay ra từ một điểm trên chu vi của đáy hình trụ, hạt này bị phản xạ từ đáy và mặt bên của hình trụ theo định luật: góc tới bằng góc phản xạ và sự phản xạ không xảy ra tại các điểm trên đường tròn. Người ta biết rằng sự phản xạ đầu tiên sẽ xảy ra tại một điểm ở đáy hình trụ, và sau một loạt phản xạ hạt sẽ quay trở lại điểm ban đầu. Tìm số phản xạ nhỏ nhất có thể.
+
+Các lớp học tại ZFTS bắt đầu vào ngày 1 tháng 10. Để đăng ký vào trường, bạn phải hoàn thành bài tập (giới thiệu) môn toán đầu tiên, bài tập này được cung cấp cho tất cả những người đăng ký vào VZMSH (Bài tập 1 và các quy tắc đăng ký lời giải được đưa ra trong thông tin “Tuyển sinh mới vào Trường Toán học Tương ứng của Liên minh Trọng số” trong số tạp chí này). Đính kèm đơn đăng ký vào lời giải (ghi rõ trong đơn đăng ký -

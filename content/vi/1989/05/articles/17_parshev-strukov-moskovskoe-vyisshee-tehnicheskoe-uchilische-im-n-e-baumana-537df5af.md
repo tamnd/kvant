@@ -1,0 +1,68 @@
+---
+id: 1989-5-parshev-strukov-moskovskoe-vyisshee-tehnicheskoe-uchilische-im-n-e-baumana-537df5af
+issue: kvant_1989_5
+year: 1989
+number: "5"
+title: Trường Kỹ thuật Cao cấp Moscow được đặt theo tên. N. E. Bauman
+authors:
+  - Паршев Л. П.
+  - Струков Ю. А.
+rubric: ekzamenatsionnye-materialy
+rubric_sub: Экзаменационные материалы
+page_first: 74
+page_last: 74
+page_labels: "72"
+tag: Z11N
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: e76ad3b17ad9bf2efbf241a50afc092dd3795448703555c51c83adfab6b4e6a7
+prompt_sha256: draft-1
+translated_from: content/ru/1989/05/articles/17_parshev-strukov-moskovskoe-vyisshee-tehnicheskoe-uchilische-im-n-e-baumana-537df5af.md
+source_content_sha256: 9a1ec211d84a53a9cd6da5ba622b9277ac022d7307c19316d23f15a65ab338b6
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 72⟧
+
+Đại học Kỹ thuật Cao cấp Moscow N. E. Bauman
+
+Toán học
+Bài thi viết
+Tùy chọn 1
+1. Trên đường thẳng $x-2y=2$, tìm điểm mà qua đó hai tiếp tuyến của đồ thị hàm số $y=x^2/2$, vuông góc với nhau, đi qua.
+2. Giải phương trình
+$$\sin 5x-\cos(x+\pi/2)=\sin(2x-\pi/2).$$
+3. Giải phương trình
+$$\log_2(3x+5)=3-\log_2(x+1).$$
+4. Giải bất đẳng thức
+$$5^x+\frac{15}{2-5^x}<0.$$
+5. Một hình nón có một góc $\alpha$ giữa đường sinh và chiều cao của thị giác thành một hình cầu có bán kính $R$ sao cho đỉnh của nó nằm ở tâm hình cầu và chu vi của đáy nằm trên hình cầu. Tất cả các đỉnh của đáy dưới của lăng trụ tam giác thẳng (song song với đáy hình nón) đều nằm trên mặt cầu, các đỉnh còn lại của nó thuộc về mặt bên của hình nón. Chiều cao và cạnh của đáy lăng kính phải là bao nhiêu để diện tích bề mặt bên của nó càng phẳng càng tốt? Tìm giá trị diện tích này.
+
+Tùy chọn 2
+1. Theo kế hoạch, một đội cần sản xuất nhiều hơn đội kia 240 bộ phận trong cùng một thời gian. Do lữ đoàn 1 có 5 người không làm việc, lữ đoàn 2 có 4 người không làm việc nên hai ngày sau mỗi lữ đoàn đều hoàn thành kế hoạch. Có bao nhiêu công nhân đi làm trong mỗi đội nếu mỗi người sản xuất được 6 bộ phận một ngày?
+2. Giải phương trình
+$$3\cos^2(x+\pi/2)+\cos^2x=\sqrt{3}\cos x.$$
+3. Giải phương trình
+$$\frac{\lg 2x}{\lg(4x-15)}=2.$$
+4. Tìm tất cả các giá trị của tham số $p$ mà hệ phương trình
+$$\begin{cases} y=x^2-2x, \\ x^2+y^2+p^2=2x+2py \end{cases}$$
+có lời giải.
+5. Quả bóng visian có một paramid tứ giác đều; Chúng tôi sử dụng một hình trụ Visian, một trong các đáy của nó nằm trong mặt phẳng của đáy của paramid và đường tròn của đáy còn lại chạm vào tất cả các mặt bên. Chiều cao của hình trụ và bán kính đáy của nó bằng $a$. Ở độ cao nào của paramid thì thể tích của quả cầu sẽ nhỏ nhất? Tìm giá trị âm lượng này.
+
+Vật lý
+Bài toán thi vấn đáp
+1. Một sợi dây có chiều dài $l=20$ m và khối lượng $m=1$ kg được ném qua một chiếc đinh đóng vào một bức tường thẳng đứng. Tại thời điểm ban đầu, sợi dây dâng lên đối xứng và đứng yên, sau đó do một lực đẩy nhẹ, nó bắt đầu trượt dọc theo chiếc đinh. Lực đẩy của sợi dây khi nó tuột khỏi đinh sẽ như thế nào? Các lực lượng phản kháng là những kẻ thách thức.
+2. Có những quả bóng giống hệt nhau ở hai đầu và ở giữa một thanh không đồng nhất có chiều dài $l$. Thanh được đặt thẳng đứng và thả ra. Giả sử không có ma sát giữa mặt phẳng và quả bóng phía dưới, hãy tìm vận tốc của quả bóng phía trên tại thời điểm va chạm với mặt phẳng nằm ngang.
+3. Một kết nối đồng nhất bê tông có khối lượng $m$ nằm trên hai khối nước có độ sâu $h$, lớn hơn chiều dài của kết nối $l$. Sau khi gắn dây cáp vào một đầu của dây buộc, nó được kéo từ từ ra khỏi nước sao cho trọng tâm của dây buộc tăng lên độ cao $H$ so với mặt nước ($H>l$). Công việc được thực hiện trong trường hợp này là gì? Mật độ của bê tông gấp $n$ lần mật độ của nước. Các lực lượng phản kháng là những kẻ thách thức.
+4. Ở khoảng cách $R$ tính từ tâm quả cầu kim loại không tích điện có một điện tích chính xác $q$. Xác định thế năng của quả bóng.
+5. Trong từ trường đều có cảm ứng $B=0,1$ T, một cuộn dây phẳng được đặt sao cho mặt phẳng của nó vuông góc với đường cảm ứng. Cuộn dây được nối với một điện kế. Khi quay cuộn dây qua điện kế, một điện tích $Q=9,5\cdot 10^{-3}$ Cl. Bạn đã xoay cuộn dây ở góc nào? Diện tích cuộn dây là $S=10^3$ cm², điện trở cuộn dây là $R=2$ Ohm.
+7. Một vật nên được đặt ở khoảng cách bao nhiêu so với đường trùng nhau để khoảng cách giữa vật và ảnh thật của nó là nhỏ nhất? Tiêu cự tuyến tính là $F$.
+8. Xác định xem có thể tạo ra một nguyên tử hydro không bị kích thích bằng điện trường ngoài với điện áp $E=10^8$ V/m hay không.
+9. Năng lượng electron tối thiểu cần thiết để tạo ra một nguyên tử hydro là $W_0$. Xác định năng lượng ban đầu tối thiểu của các ion hydro và heli cần thiết để cắt nguyên tử hydro. Giả sử vết mổ sẽ qua do tác động hoàn toàn không đàn hồi.
+10. Trong bảng tuần hoàn các nguyên tố, ba nguyên tố nằm cạnh nhau. Hãy gọi chúng là $a$, $b$ và $c$. Đồng vị phóng xạ của nguyên tố $a$ biến thành nguyên tố $b$, từ đó biến thành nguyên tố $c$. Chất sau biến thành đồng vị của nguyên tố gốc $a$. Những quy trình nào chịu trách nhiệm cho quá trình chuyển đổi $a \rightarrow b$, $b \rightarrow c$, $c \rightarrow a$?
+
+Ấn phẩm đã được chuẩn bị
+L. P. Parshev, Yu. A. Strukov

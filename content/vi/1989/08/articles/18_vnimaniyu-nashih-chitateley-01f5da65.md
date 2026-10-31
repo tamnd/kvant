@@ -1,0 +1,83 @@
+---
+id: 1989-8-vnimaniyu-nashih-chitateley-01f5da65
+issue: kvant_1989_8
+year: 1989
+number: "8"
+title: Để thu hút sự chú ý của độc giả của chúng tôi
+rubric: smes
+page_first: 68
+page_last: 68
+page_labels: "66"
+tag: JL3J
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: cae9e28e4bfba68e6e02c3ba95ef9096f9d52b2b0d793cebbe8ceca168fb2499
+prompt_sha256: draft-1
+translated_from: content/ru/1989/08/articles/18_vnimaniyu-nashih-chitateley-01f5da65.md
+source_content_sha256: b0c2896f9a3a4fb5699b28f0409ccf11254015d6cda475ff2a996ee6ffb6f4b8
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 66⟧
+
+9. Nó ghi "Wolfgang Amadeus". Lật trang và lật 180° - bạn sẽ đọc được "Amadeus Mozart." Ba ambigram cuối cùng là tên địa lý. Tất cả đều có tính đối xứng.
+
+**Ningury**
+
+10. "Hungary" là Hungary. Dòng chữ có thể xoay 180°.
+11. “Chicago” có tính đối xứng tương tự.
+
+**ATSANTA**
+
+Bạn có thể muốn sao chép các ambigram lên giấy can - việc nhìn thấy chúng dưới ánh sáng sẽ dễ dàng hơn.
+
+Vì vậy, chúng tôi mời bạn thử sáng tạo ra ambigram. Chúng tôi sẽ xuất bản tốt nhất của họ.
+
+**Chú ý đến độc giả của chúng tôi **
+
+Cửa hàng số 3 "Akademika" ở Mátxcơva gửi sách tiền mặt khi giao hàng từ nhà xuất bản "Nuuka":
+
+Máy tính, mô hình, thí nghiệm tính toán. Giới thiệu về khoa học máy tính từ góc nhìn của mô hình toán học. (Điều khiển học - khả năng vô hạn và khả năng hạn chế). — 1988. — 35k.
+
+Koshkin N. I., Shirkovich M. G. Cẩm nang vật lý cơ bản. Ed. Ngày 10, vòng quay. và bổ sung — 1988. — 1 tr. 10k.
+
+Cẩm nang toán học xây dựng trường đại học. Ed. 3-e, sửa lại — 1988. — 1 tr. 80k.
+
+Lập trình đơn giản và khó khăn. (Điều khiển học - khả năng vô hạn và khả năng hạn chế). — 1988. — 35k.
+
+Sự hình thành của thiết bị điện tử vô tuyến. (Điện tử vô tuyến trong quá trình phát triển lịch sử của nó). - 1988. - 3 rúp. 30k.
+
+Frolova G.V. Năng lực sư phạm của máy tính. Vấn đề cuộc sống hàng ngày. Triển vọng. (Tiến bộ khoa học và công nghệ). — 1988. — 70k.
+
+**Chuẩn bị in:**
+
+Abramov S. A., Zima E. V. Nguyên tắc cơ bản của khoa học máy tính. (Thư viện lập trình viên). - 1989. - 1 trang.
+
+Arsak J. Lập trình và câu đố. mỗi. từ fr. (Thư viện lập trình viên). — 1989. — 90k.
+
+Bài toán trong toán học. Bắt đầu phân tích. Hướng dẫn tham khảo. - 1989. - 1 trang. 70k.
+
+Klein F. Bài giảng về sự phát triển của toán học trong thế kỷ 19. Trong 2 tập. Chuyển. với anh ấy. T. 1. - 1989. - 2 tr. 50k.
+
+Carroll L. Logic Israel. mỗi. từ tiếng Anh (Viblitechka «Kvant»). — 1989. — 50k.
+
+Meledin G.V. Bài toán vật lý: Bài thi bài toán có lời giải. Ed. 2-e, sửa đổi và bổ sung — 1989. — 70 k.
+
+Tsypkin A. G., Pinsky A. I. Sổ tay phương pháp lời giải bài toán trong toán trung học. Ed. 2-e, sửa đổi và bổ sung — 1989. — 1 tr. 90k.
+
+Yavorsky V. M., Seleznev Yu. A. Hướng dẫn tham khảo vật lý xây dựng đại học và tự học. - 1989. - 1 trang. 90k.
+
+Gửi đơn hàng tới: 117393 Moscow, st. Viện sĩ Pillogina, nhà 14, bldg. 2, cửa hàng số 3 “Sách qua thư” “Akademika”.
+
+* * *
+
+Bộ phận “Sách qua thư” của Nhà sách khu vực Sverdlovsk: Novoseltsev V. N. Sinh vật trên thế giới về mặt kỹ thuật: Khía cạnh điều khiển học. (Vấn đề tiến bộ khoa học và kỹ thuật). — 1989. — 85k.
+
+Gửi đơn hàng đến địa chỉ: 620014 Sverdlovsk, st. Malysheva, nhà 29.
+
+Chúng tôi xin nhắc bạn rằng bạn có thể đăng ký tạp chí của chúng tôi tại các cơ quan Liên đoàn Báo chí, bưu điện hoặc bưu điện, bắt đầu từ bất kỳ số báo nào (nhưng không muộn hơn ngày đầu tiên của địa điểm đăng ký trước). Nếu bạn muốn đăng ký thuê bao hàng năm (cho năm 1990), việc này phải được thực hiện trước ngày 1 tháng 10 năm 1989.
+
+Chỉ số “Sách” trong danh mục của Liên minh In ấn là 70465, giá một ấn bản là 45 kopecks, chi phí đăng ký hàng năm là 5 rúp 40 kopecks.

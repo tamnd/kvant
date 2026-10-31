@@ -1,0 +1,46 @@
+---
+id: 1989-2-zfmsh-pri-kalininskom-universitete-63e8b8f6
+issue: kvant_1989_2
+year: 1989
+number: "2"
+title: ZFMSH tại Đại học Kalinin
+rubric: informatsiya
+page_first: 31
+page_last: 31
+page_labels: "29"
+tag: 5MHJ
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: a0f4e36775099b8346f0e21c820f1c2481248678a9209b07f7018d1a976b971f
+prompt_sha256: draft-1
+translated_from: content/ru/1989/02/articles/06_zfmsh-pri-kalininskom-universitete-63e8b8f6.md
+source_content_sha256: 7a1f94e76c3b3e7f9c3d93d8a5c0706cb7ec848e81c0f33f34a2b059cc79a1c2
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 29⟧
+
+mô tả trạng thái của hệ thống và từ đó hiểu được số bậc tự do. Vì vậy, trong một hệ thống nhiều thành phần, số bậc tự do bằng tổng số tham số trừ đi số phương trình:
+$$C = 2 + (K - 1)\Phi - K(\Phi - 1) = 2 - \Phi + K.$$
+(Đối với $K = 1$ (hệ một thành phần), chúng ta thu được đẳng thức đã biết $C = 3 - \Phi$).
+
+Vì số bậc tự do về mặt ý nghĩa phải không âm, nên ngay lập tức tuân theo quy tắc pha rằng số pha tối đa có thể ở trạng thái cân bằng trong hệ thống thành phần K là 2+K.
+
+Quy tắc pha được rút ra cho một hệ thống khép kín. Nhưng, nói đúng ra, điều này gần như không bao giờ xảy ra. Hệ thống thường tiếp xúc với môi trường bên ngoài, trong đó có thể xảy ra sự trao đổi nguyên tử hoặc phân tử. Đôi khi điều này phải được tính đến. Tuy nhiên, trong phần lớn các trường hợp, hoàn cảnh này có thể được thử thách một cách dễ dàng.
+
+Rất nhiều kết luận thú vị rút ra từ các quy tắc pha. Bây giờ bạn có thể dễ dàng giải thích tại sao nhiệt độ cân bằng nước-nước đá lại cố định. Nhưng nếu chúng ta không xử lý nước tinh khiết mà với một loại dung dịch nước nào đó, thì trạng thái cân bằng nước-băng (không phải tinh khiết!) Ở một áp suất bên ngoài cố định sẽ “thu giữ” toàn bộ phạm vi nhiệt độ. Tại sao điều này lại như vậy sẽ được giải thích trên cơ sở quy tắc pha.
+
+ZFMSH tại Đại học Kalinin
+
+Trên cơ sở Khoa Vật lý của Đại học bang Kalinin non trẻ, một Trường Vật lý Liên minh Động vật học dành cho học sinh trung học đang được thành lập.
+
+Những người thiếu trang sách giáo khoa và muốn hiểu sâu hơn về các vấn đề vật lý và toán học sẽ được sinh viên trường đại học của chúng tôi sẵn lòng giúp đỡ dưới sự hướng dẫn của các giáo viên giàu kinh nghiệm. Tất cả những gì bạn cần là mong muốn của bạn về điều này. Trong đơn đăng ký của bạn, hãy cung cấp các thông tin sau về bản thân bạn:
+
+1. Họ, tên, bảo trợ.
+2. Năm sinh.
+3. Thành phố, trường học và lớp bạn dạy.
+
+4. Địa chỉ nhà của bạn. Chúng tôi đã giao cho tất cả những người đã liên hệ với chúng tôi nhiệm vụ đầu tiên mà họ sẽ phải đối mặt. Zhelaykova, 33 tuổi, Khoa Vật lý, KSU, ZFMSH.

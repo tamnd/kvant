@@ -1,0 +1,60 @@
+---
+id: 1989-3-ob-odnoy-kombinatornoy-zadache-30c312e7
+issue: kvant_1989_3
+year: 1989
+number: "3"
+title: '[Giới thiệu về một tổ hợp bài toán]'
+rubric: nam-pishut
+page_first: 60
+page_last: 60
+page_labels: "58"
+tag: 0BFY
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 27a8b2a5b718162158bcad5b58c54f0dedefbe460afd102f41b43af674bd0975
+prompt_sha256: draft-1
+translated_from: content/ru/1989/03/articles/17_ob-odnoy-kombinatornoy-zadache-30c312e7.md
+source_content_sha256: 0a793875bf713c05843b63525dab796d2e0d51cd293ae80da3e5631b925a85fc
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 58⟧
+
+Ví dụ: điểm $Q$ cũng nằm trên đường tròn này. Hình tam giác $T_1SQ$ và $CQA$ giống nhau. Vì vậy $\frac{ST_1}{AC} = \frac{T_1Q}{QA}$, nhưng $AC = QA$ (xem câu 8). Vì vậy $ST_1 = T_1Q = r$.
+
+Bài tập 2. Chứng minh các khẳng định sau:
+
+17. Điểm $K$ (xem hình 3) là trực kế của tam giác $CPQ$.
+18. Các đường $PS$, $RQ$ và $CH$ cắt nhau tại điểm $K$.
+19. $RT = KS = SQ$; $RP = RK = TS$.
+20. $RS = CT$.
+21. Điểm $A, R, S, B$ nằm trên cùng một đường tròn; điểm $A, P, T, C$ nằm trên cùng một đường tròn. Các điểm $B, Q, T, C$ cũng nằm trên cùng một đường tròn.
+
+Một vài trận đấu nữa
+
+22. $AT_1 \cdot BT_1 = S_{ABC}$.
+
+đầu ra
+
+Nhiều độc giả đã quen thuộc với công thức cổ điển về số tổ hợp của các phần tử $n$ được lấy bởi $k$:
+
+$$C_k^n = \frac{n!}{k!(n-k)!}.$$
+
+Đặc biệt, có $C_k^n$ cách chọn $k$ các số khác nhau từ tập hợp $(1, 2, 3, ..., n)$. L. I. Plyukfelder từ Novokuznets đã đặt câu hỏi: có bao nhiêu cách chọn $k$ số từ tập pa (1, 2, 3, ..., $n$) sao cho hiệu tuyệt đối của hai số được chọn bất kỳ không nhỏ hơn $p$?
+
+Hãy biểu thị số này bằng $C_k^n(p)$. Công thức do L. I. Plyukfelder tìm ra có dạng:
+
+$$C_k^n(p) = \frac{(n+k-pk+p-1)!}{k!(n-pk+p-1)!}$$
+
+(nếu đối với một số $n, k, p$ một số âm xuất hiện ở mẫu số thì phép tính được yêu cầu không tồn tại).
+
+Đối với $p=1$, công thức (2), như người ta mong đợi, chuyển thành (1) và đối với $p=0$ chuyển thành công thức:
+
+$$C_k^n(0) = \frac{(n+k-1)!}{k!(n-1)!}.$$
+
+Số $C_k^n(0)$ đương nhiên được coi là số cách chọn $k$ không nhất thiết phải là các phần tử khác với dữ liệu $n$; đối với số này, công thức (3) cho kết quả đúng.
+
+Chứng minh công thức (2) có thể được chứng minh bằng quy nạp; Chúng tôi khuyên bạn nên tự mình làm việc này.

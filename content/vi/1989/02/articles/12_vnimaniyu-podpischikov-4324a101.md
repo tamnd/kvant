@@ -1,0 +1,48 @@
+---
+id: 1989-2-vnimaniyu-podpischikov-4324a101
+issue: kvant_1989_2
+year: 1989
+number: "2"
+title: Người đăng ký chú ý!
+rubric: raznoe
+page_first: 51
+page_last: 51
+page_labels: "49"
+tag: 9WO5
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 43c15f379696cb007f5ec52db3209902ec7d1a240c75a4475f08a3731185d953
+prompt_sha256: draft-1
+translated_from: content/ru/1989/02/articles/12_vnimaniyu-podpischikov-4324a101.md
+source_content_sha256: 7cde078f511cd170846d27977b993c4ec5407df853965485c91f6a070d9f01ea
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 49⟧
+
+Khoảng thời gian từ 1 đến 17 phút.
+Tại sao chúng tôi tự tin rằng điều này có thể thực hiện được? Thực tế là định lý sau đây đúng:
+Nếu k và m là các số nguyên tố cùng nhau thì với bất kỳ số nguyên n nào, chúng ta cũng có thể chọn các số nguyên x và y sao cho xk+ym=n. Định lý này có liên quan gì đến đồng hồ cát? Trực tiếp nhất. Từ đó, nếu bạn có đồng hồ k-phút và m-phút, bạn có thể đo bất kỳ số nguyên phút nào nếu các số k và m là số nguyên tố cùng nhau. Thật vậy, nếu muốn đo n phút thì sẽ tìm được các số x và y thỏa mãn phương trình này. Bây giờ, trong trường hợp cả hai số này đều dương, đầu tiên chúng ta đo xk phút bằng đồng hồ k phút, sau đó đo ym phút khác bằng đồng hồ m phút. Nếu một trong số chúng, chẳng hạn y, âm, thì chúng ta khởi động cả hai đồng hồ cùng lúc, đảo ngược thời gian của đồng hồ mà cát đổ ra, và tại thời điểm đồng hồ m-phút đếm (-ym) phút (y<0!), chúng ta dừng đồng hồ k-phút. Bây giờ, để đếm n phút, bạn nên khởi động đồng hồ k phút và tiếp tục chạy cho đến khi đếm xong xk phút.
+
+Do đó, đồng hồ k-phút bắt đầu sau khi dừng sẽ tính xk-(−y)m=xk+ym=n phút.
+
+Không làm cách nào để tìm lời giải của phương trình xk+ym=n? Hóa ra chỉ cần học cách giải phương trình xk+ym=1 là đủ: nếu x=a, y=b là lời giải của phương trình này, thì x=na, y=nb là lời giải của phương trình xk+ym=n.
+
+Có, nhưng làm thế nào để tìm một số phương trình lời giải xk+ym=1? Có khá nhiều cách, chúng tôi sẽ mô tả cách đơn giản nhất nhưng có lẽ không phải là cách ngắn nhất.
+
+Hãy viết phương trình này dưới dạng y=(1−xk):m và cho số x các giá trị 0, 1, 2, ..., m−1. Hãy để chúng tôi chỉ ra rằng nếu k và m là nguyên tố cùng nhau thì với một trong các giá trị này, số (1−xk):m sẽ là một số nguyên. Hãy tìm cách chia thành m số 1−0·k, 1−1·k, ..., 1−(m−1)·k. Chúng khác nhau theo từng cặp, nếu không thì số (1−x1k)−(1−x2k)=(x2−x1)k sẽ chia hết cho m, có nghĩa là x2−x1 sẽ chia hết cho m (k và m là nguyên tố cùng nhau!), điều này là không thể, vì x2−x1<m. Vì vậy, đối với một số giá trị của x thì phần còn lại bằng 0; do đó, số y=(1−kx):m là số nguyên. Những x và y này tạo thành phương trình lời giải cần thiết xk+ym=1.
+
+Người đăng ký chú ý!
+
+Hiện tại, số trang trên tạp chí của chúng tôi đang tăng 25%, điều này cho phép chúng tôi mở một số chuyên mục mới.
+
+Để bù đắp chi phí thông báo số tạp chí
+
+Giá mỗi phòng tăng thêm 5 kopecks. Giá mới của tạp chí là 45 kopecks. Thật không may, thông báo lời giải về số lượng và giá của tạp chí đã được phê duyệt sau khi phát hành danh mục Soyuzpechat và bắt đầu đăng ký vào năm 1989. Nếu bạn đã đăng ký, theo chi nhánh Soyuzpechat, chúng tôi yêu cầu bạn
+
+tính thêm phí 5 kopecks cho mỗi phòng.
+
+Đối với những người chưa có thời gian đăng ký «Kvant» kể từ đầu năm, chúng tôi xin nhắc bạn rằng đăng ký này được chấp nhận mà không bị hạn chế tại các đại lý Soyuzpechat, bưu điện và bưu điện. Chỉ số tạp chí «Kvant» trong danh mục Soyuzpechat 70465.

@@ -1,0 +1,48 @@
+---
+id: 1989-8-ambigrammyi-01ca5188
+issue: kvant_1989_8
+year: 1989
+number: "8"
+title: Ambigram
+rubric: igry-i-golovolomki
+rubric_sub: Игры и головоломки
+page_first: 67
+page_last: 67
+page_labels: "65"
+tag: A9P7
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 48dc9d90d15458153b3bcd9e44f51cbdff3bfef9dac90c5057fad0230ad2dd27
+prompt_sha256: draft-1
+translated_from: content/ru/1989/08/articles/17_ambigrammyi-01ca5188.md
+source_content_sha256: fcfe4bb0ae60d514f19fd4644bfd1ae13a58dcd55d7373e2a4415bba9e91665d
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 65⟧
+
+Ambigram
+
+Độc giả của chúng ta hầu như không cần giới thiệu nhà phổ biến toán học nổi tiếng M. Gardner. Trong nhiều năm, ông đã đóng góp cho mảng toán học của tạp chí Scientific American. Sau khi M. Gardner nghỉ hưu, người kế nhiệm ông là Douglas Hofstadter, người gọi phần này là “Chủ đề siêu ma thuật”. D. Hofstadter là người có nhiều mối quan tâm về khoa học, bao gồm toán học, vật lý, lập trình lý thuyết, di truyền học và triết học. Cuốn sách của ông “Gödel, Escher, Bach: con dê vàng vĩnh cửu”, dành riêng cho những ý tưởng toán học của nhà logic học xuất sắc Kurt Gödel và mô típ các tác phẩm của M. Escher và J.-S. Bach, được đưa vào danh sách sách bán chạy nhất và tác giả của nó đã nhận được Giải thưởng Văn học danh dự Pultzer. Một cuốn sách khác của ông bao gồm một tập hợp các bài báo được Hofstader xuất bản trên tạp chí Scientific American.
+D. Hofstadter là giáo sư về lập trình lý thuyết tại Đại học Ấn Độ, Hoa Kỳ. Anh ấy hiện đang viết một cuốn sách dành riêng cho “ambigrams” - đó là cái mà D. Hofstadter gọi là những dòng chữ được đọc khác nhau tùy thuộc vào cách chúng được sắp xếp *). Giáo sư Hofstadter vui lòng trình bày «Kvant» một số ambigram. Tất nhiên, tất cả chúng đều được viết bằng tiếng Anh. Tác giả mời độc giả «Kvant» thử sáng tác ambigram bằng tiếng Nga. Anh ấy sẵn sàng xuất bản những điều thú vị nhất trong cuốn sách về ambigram của mình.
+
+1. Tất nhiên, bạn có thể dễ dàng đọc được “USA”, tức là USA. Xoay trang 90° theo chiều kim đồng hồ và bạn sẽ đọc "Liên Xô". D. Hofstadter nhận thấy rằng ambigram này phù hợp với phong cách mới trong quan hệ tương hỗ giữa các nước chúng ta.
+Bốn ambigram với "ý nghĩa vật lý".
+
+2. Tên của một trong những nhà vật lý vĩ đại nhất thế kỷ 20, Niels Bohr, được viết ở đây. Xoay hình 90° ngược chiều kim đồng hồ...
+
+3. Ánh sáng là gì: sóng hay hạt? Cả hai câu đều được viết ở đây: “ánh sáng là sóng” (“ánh sáng là sóng”) và “ánh sáng là hạt” (“ánh sáng là hạt”).
+
+4. Poitron là một hạt kép của electron. hình này ghi là “positron”, nhưng nếu bạn lật trang và đọc ngược ánh sáng, bạn sẽ thấy “electron”.
+
+5. Những tiến bộ lớn nhất trong việc khám phá cơ học lượng tử thuộc về hai nhà khoa học: Schrödinger và Heisenberg. Trên hình này, bạn sẽ thấy họ của một trong số họ và nếu bạn xoay hình ảnh 180°, bạn sẽ đọc được họ của người kia.
+Bốn ambigram tiếp theo được dành riêng cho các lĩnh vực hoạt động khoa học và nghệ thuật.
+
+6. Đây là nhà soạn nhạc người Đức J.-S. Bách. Xoay hình 90° ngược chiều kim đồng hồ: Fugue là một hình thức âm nhạc được Bach sử dụng rộng rãi.
+
+7. “Newoton” - trên ambigram này, tên của anh ấy quay 180°.
+
+8. "Salvador Dali", bản sao của bức tranh xuất hiện trong «Kvant». Lật trang và đọc dòng chữ dưới ánh sáng...

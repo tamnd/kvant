@@ -1,0 +1,31 @@
+---
+id: 1989-5-dak-golovolomka-tangram-58acede1
+issue: kvant_1989_5
+year: 1989
+number: "5"
+title: '[Câu đố Tangram]'
+authors:
+  - Дак В.
+rubric: smes
+page_first: 84
+page_last: 84
+tag: W5K1
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 38c6f66035a0974999539062e79255100cf02da3e4e57683e7525ef599baa9a0
+prompt_sha256: draft-1
+translated_from: content/ru/1989/05/articles/01_dak-golovolomka-tangram-58acede1.md
+source_content_sha256: 5e4624e7e0a4ab2a479bec234167796a628b628a7463d6d0c3156e065f840a7d
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+Trong "Kaleidoscon", những con số ở hình 7 hiển thị một câu đố thay thế "tangram" - một hình vuông được cắt thành 7 phần, trong đó có nhiều siligers khác nhau được tạo ra. Nó xuất hiện ở Trung Quốc vào cuối thế kỷ 18. Hình ảnh đầu tiên của cô (1780 2.) được tìm thấy trong tác phẩm axit của nghệ sĩ Lon Utamaro, nơi hai cô gái ghép các hình “chi chao tu” - cái gọi là “tangram” ở quê hương anh (tạm dịch là “câu đố tinh thần gồm bảy phần”). Việc trích xuất tangram có nguồn gốc ở châu Âu rất có thể từ từ "tan" (tiếng Trung trong tiếng Quảng Đông) và từ gốc Hy Lạp phổ biến "grama" (chữ cái). Tuy nhiên, tác giả của nhiều cuốn sách về toán học cho rằng việc phát minh ra tangram là của nhà khoa học Tang, người được cho là đã sống cách đây 4000 năm ở Trung Quốc. Truyền thuyết phức tạp này được nhà văn giải đố đầy sáng tạo Sam Loyd tưởng tượng ra từ đầu đến cuối.
+Hàng trên cùng hình mô phỏng ba trong số chín tấm bưu thiếp tangram được phát hành ở New York vào năm 1900. Thật dễ dàng để ghép những số liệu này lại với nhau. Việc gấp tất cả các hình dạng đơn giản sẽ khó khăn hơn. Ví dụ, hãy thử tìm tất cả các đa tạp lồi được tạo thành từ một tập tangram hoàn chỉnh. (Năm 1942, người ta đã chứng minh rằng có 13 hình như vậy; bạn có thể đọc chi tiết trong bài viết “Hình bài toán số 51” của A. Panov trong «Kvant» Số 12 năm 1982.) Hãy chứng minh rằng có ít nhất 16 hình ngũ giác tangram (đối với kaza và tức là: xác định xem nụ cười của họ có thể là gì).
+Ở hàng dưới cùng hình là một số nghịch lý tangram. Cô ấy đã đi đâu “người đàn ông với một cái khay”, nếu trong cả hai bộ siligrax của anh ta đều được sử dụng? Bên phải là một hình vuông từ một bộ tangram đôi và cùng một hình vuông từ các phần giống nhau, nhưng không có nút thắt. Làm sao điều này có thể xảy ra nếu nó không thể được? Bên trái là một “ngụy biện” tương tự với một hình tam giác. Đáp số sẽ được đăng ở số tiếp theo.
+
+V. Vịt
