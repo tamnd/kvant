@@ -1,0 +1,38 @@
+---
+id: 1987-4-12-aprelya-den-kosmonavtiki-206dd9d9
+issue: kvant_1987_4
+year: 1987
+number: "4"
+title: 12 tháng 4 - Ngày du hành vũ trụ
+rubric: osnovnye-stati
+page_first: 4
+page_last: 4
+page_labels: "2"
+tag: GXGJ
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: c859b0bac774a5a542ad721b7d7742533a09c8180fd68b38d014b27ae01a50ea
+prompt_sha256: draft-1
+translated_from: content/ru/1987/04/articles/02_12-aprelya-den-kosmonavtiki-206dd9d9.md
+source_content_sha256: 48a1e546220ab891d03f511953d8bcaff498a93e5c031e5f1146cf841cd02b04
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 2⟧
+
+12 tháng 4 - Ngày du hành vũ trụ
+
+Thời gian trôi về phía trước một cách không thể tránh khỏi, đưa chúng ta rời xa cái ngày đáng nhớ đó khi cư dân đầu tiên của Trái đất bay vào vũ trụ. Cái chết của Yuri Gagarin không chỉ là chiến công của cá nhân ông. Đây là kỳ tích của nhiều người Liên Xô đã tính toán, thiết kế, chế tạo và thử nghiệm tàu ​​vũ trụ Vostok-1 và chuẩn bị cho phi hành gia thực hiện chuyến bay. Kể từ đó, nước ta đã tiếp tục thành công công việc thăm dò và sử dụng không gian bên ngoài vì mục đích hòa bình.
+
+Ngày 20/2/1986, trạm nghiên cứu quỹ đạo Mir lần đầu tiên được phóng lên vũ trụ. Nó dựa trên sáu nút nối và đại diện cho khối cơ bản để tạo ra một tổ hợp bè đa năng với các mô hình quỹ đạo đặc biệt - một viện khoa học kỹ thuật quỹ đạo thực sự. Bây giờ phi hành gia Yu. Romanenko và A. Laveikin làm việc tại nhà ga Mir.
+
+Một thành công nổi bật của ngành du hành vũ trụ Liên Xô là việc tự động thăm dò sao chổi Halley bằng trạm Bega-1 và Bega-2. Đài quan sát quỹ đạo không gian của Liên Xô "Astron", được thành lập bởi điện thoại của RENTen, vào cuối tháng 2 năm 1987 đã điều tra một hiện tượng thiên thể độc đáo - một vụ nổ siêu tân tinh ở thiên hà lân cận của chúng ta - Đám mây Magellan Lớn. Và phía trước - những dự án mới.
+
+Vào mùa hè năm 1988, người ta dự định phóng hai tàu vũ trụ được thiết kế để khám phá Sao Hỏa và vệ tinh Phobos của nó. Công tác chuẩn bị đang được tiến hành cho chuyến bay của các phi hành đoàn vũ trụ chung với sự tham gia của các nhà khoa học vũ trụ Bulgaria, Syria và Pháp.
+
+Liên Xô đang tích cực mở rộng phạm vi hợp tác quốc tế trong lĩnh vực không gian. Các trạm Bega sử dụng thiết bị do các nhà khoa học đến từ Bulgaria, Hungary, Đông Đức, Ba Lan, Tiệp Khắc, Úc, Pháp và Đức phát triển.
+
+Chúng tôi là những người tích cực phản đối việc tỷ hóa không gian. Vì vậy, chúng tôi kiên quyết yêu cầu loại bỏ chương trình Chiến tranh giữa các vì sao của Mỹ, chương trình đe dọa đến sự tồn tại của con người. Và trong cuộc đấu tranh này, chúng ta được hỗ trợ bởi những nguồn lực lớn hơn.

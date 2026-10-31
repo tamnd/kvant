@@ -1,0 +1,71 @@
+---
+id: 1987-4-sovetuem-prochest-4e34f40c
+issue: kvant_1987_4
+year: 1987
+number: "4"
+title: Chúng tôi khuyên bạn nên đọc
+rubric: smes
+page_first: 46
+page_last: 46
+page_labels: "44"
+tag: RI80
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 8e817e1848ed4c4e4e9a1b43f25775b25b44d422f2e34937ae725d5b4e2f16e0
+prompt_sha256: draft-1
+translated_from: content/ru/1987/04/articles/19_sovetuem-prochest-4e34f40c.md
+source_content_sha256: b66bafad23e1789b34dbfee354bc9dead738373962410ea0488134fe0b14820c
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 44⟧
+
+Trường Vật lý Tương ứng tại Đại học quốc gia Moscow
+
+Trường Vật lý Tương ứng (3FS) thuộc Khoa Vật lý của Đại học quốc gia Moscow. MV Lomonosov thông báo tuyển sinh lớp 9 và lớp 10 cho năm học tiếp theo.
+
+Mục tiêu chính của 3FS là giúp học sinh trung học cơ sở nghiên cứu vật lý sâu hơn trong phạm vi chương trình giảng dạy ở trường, cũng như chuẩn bị tốt hơn cho kỳ thi đầu vào vật lý vào giáo dục đại học. Khi được nhận vào Khoa Vật lý của Đại học quốc gia Moscow, chứng chỉ hoàn thành 3FS sẽ được cấp cho ủy ban tuyển sinh của trường.
+
+Việc tuyển sinh vào 3FS được thực hiện dựa trên kết quả của nhiệm vụ giới thiệu lời giải được công bố dưới đây. Lời giải của bài tập giới thiệu phải được gửi trước ngày 1 tháng 9 tới địa chỉ: 119899, ​​​​Moscow, GSP, Leninskie Gory, Đại học quốc gia Moscow, Khoa Vật lý, 3FSh.
+
+Vui lòng gửi kèm theo hai bản sao của bảng câu hỏi trong thư, viết trên tờ giấy dày có kích thước 7x12 cm và điền theo mẫu sau:
+
+Họ, tên, chữ viết tắt Lớp 3ФШ
+Nghề nghiệp cha mẹ
+Địa chỉ nhà chi tiết
+Số trường và địa chỉ
+
+Kuznetsov Serdey Vladimirovich thứ 9
+mẹ là bác sĩ, bố là kỹ sư 240816, Kaluza, st. K. Libknesta, 4, thích hợp. 73
+trường số 10, st. Puskin, 3.
+
+Nhiệm vụ giới thiệu
+
+Những em vào lớp 9 3FS cần giải bài toán 1-4, còn những em vào lớp 10 cần giải bài toán 4-7.
+
+1. "Tai nạn". Một vật rơi ra khỏi gondola của một khí cầu đang bay lên với tốc độ không đổi $v_0=10$ m/s. Quả bóng sẽ ở độ cao bao nhiêu vào thời điểm vật chạm đất, nếu lúc vật nổi lên thì quả bóng ở độ cao $H=240$ m? Yêu cầu sức cản không khí. Gia tốc trọng lực $g=10$ m/s².
+
+2. "Bong bóng" Trong một bình chứa đầy nước có mật độ $q$, một bong bóng khí có thể tích $V$ nổi lên với gia tốc $a$. Tìm lực ép của bình tác dụng lên giá đỡ. Khối lượng của bình cùng với nước là $M$.
+
+3. "Trở lại". Điểm vật chất bắt đầu chuyển động thẳng đều với gia tốc không đổi. Sau thời gian $T$ kể từ khi bắt đầu chuyển động, dấu gia tốc thay đổi ngược lại nhưng độ lớn không đổi. Xác định sau bao lâu kể từ khi bắt đầu chuyển động $t$ điểm sẽ trở về vị trí ban đầu?
+
+4. "Hiệp ước kim loại" Trên một hình trụ tam diện, cạnh trái của nó tạo thành một góc $\alpha<45^\circ$ với đường chân trời và góc trên là một đường thẳng, các quả cầu kim loại rơi thành một dòng đều từ cùng một độ cao. Nguyên thủy sẽ di chuyển theo hướng nào? Chỉ xem xét một cú đánh của mỗi quả bóng. Coi các tác động là đàn hồi. Hãy đưa ra yêu cầu bồi thường.
+
+5. "Cuộc họp". Hai điểm chuyển động thẳng về phía nhau với vận tốc ban đầu $v_1$ và $v_2$ và gia tốc không đổi $a_1$ và $a_2$, hướng ngược lại với vận tốc tương ứng tại một thời điểm nhất định. Khoảng cách ban đầu lớn nhất mà các điểm gặp nhau trong quá trình chuyển động là bao nhiêu?
+
+6. "Phí tại hiện trường." Trong một trường điện tử đồng nhất, có một vật tích điện âm có khối lượng $m$ và điện tích $-q$ và một vật tích điện dương có khối lượng $M$ và điện tích $+Q$. Các điện tích, chính xác hơn là đường nối chúng trùng với hướng của trường, hướng với nhau và các điện tích phải được đặt theo thứ tự nào so với hướng của trường để chúng có thể chuyển động với cùng một gia tốc?
+
+7. "Cuộn". Cuộn giấy giãn ra sao cho tốc độ ở đầu băng giấy không đổi và bằng $v$. Tại thời điểm ban đầu bán kính cuộn là $R$. Vận tốc góc quay của con lăn tại thời điểm $t$ là bao nhiêu? Độ dày của băng giấy là $d$.
+
+Chúng tôi khuyên bạn nên đọc
+
+Năm 1986, nhà xuất bản Nauka đã thêu những cuốn sách sau trong bộ Thư viện «Kvant»:
+
+Danilov I. D. Bí mật của một máy tính vi mô có thể lập trình,
+Lipunov V. M. Trên thế giới
+
+sao đôi,
+Tikhomirov V. M. Những câu chuyện về mức tối đa và mức tối thiểu.

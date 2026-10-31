@@ -1,0 +1,25 @@
+---
+id: 1987-4-golovolomka-na-osnove-perevertyishey-i-volshebnyih-kolets-2c820e3c
+issue: kvant_1987_4
+year: 1987
+number: "4"
+title: '[Câu đố dựa trên “người dịch chuyển” và “Chiếc nhẫn ma thuật”]'
+rubric: smes
+page_first: 68
+page_last: 68
+tag: AHBU
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: c2908ec69e2998405a005dadba3eb6686f6307c2635a3a64d76170ef605770ac
+prompt_sha256: draft-1
+translated_from: content/ru/1987/04/articles/01_golovolomka-na-osnove-perevertyishey-i-volshebnyih-kolets-2c820e3c.md
+source_content_sha256: 9c8125c8778c077ee445d73936a3c9071308a132a089f83c662c74f9605bb4b2
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+Những ai theo dõi các câu đố trên trang sau của tạp chí của chúng tôi đều đã quen thuộc với “người thay đổi” («Kvant» Số 1 và Số 2) và “chiếc nhẫn ma thuật” («Kvant» Số 3). Và bây giờ chúng tôi trình bày một loại zufrid của hai loại câu đố này, được bắt nguồn từ các tác giả của “sự đảo ngược” A. Dremov và G. Shevtsova (ý tưởng của ông được đề xuất bởi A. Kallin). Mối quan hệ của câu đố được hiển thị ở đây với “sự đảo ngược” rất thuận tiện. Nó bao gồm các hình - 12 parmids được dán lại với nhau từ các quả bóng - có thể cuộn lại thành hộp lục giác. Để thuận tiện, ở phía dưới của nó có một lưới hình tam giác 3 × 13 = 39 lỗ tròn, ba trong số đó trống. (Polysene quan trọng: để lăn một paramida làm bằng các quả bóng, bạn chỉ cần một lỗ trống bên cạnh nó - quả bóng trên cùng của paramida rơi vào lỗ này; hai quả bóng ostus “hỗ trợ” vào các lỗ cũ). Như trong các câu đố hoán vị khác, một cách sắp xếp đã cho phải được chuyển thành một cách sắp xếp khác; Bạn có thể thấy một số tùy chọn vị trí trong hình ảnh. Tuy nhiên, xin lưu ý rằng câu đố này khác với câu đố xoay vòng paramidian, nếu chỉ ở chỗ khi trò chơi diễn ra, các lỗ trống có thể rải rác khắp toàn bộ hộp và vì lý do này, việc lăn các quả bóng paramidocks không thể được thay thế bằng việc lăn các viên đá terrazdra thông thường. (Hãy suy nghĩ cẩn thận xem liệu có thể sắp xếp lại các câu đố về quả bóng sao cho các lỗ trống tạo thành nền tảng của một paramida như vậy hay không.) Vì vậy, sức mạnh của câu đố “đảo ngược” của chúng tôi khá lặp lại. Mối liên hệ của nó với “những chiếc nhẫn ma thuật” sâu sắc hơn và không rõ ràng ngay lập tức. Hóa ra là có một chuỗi các bước di chuyển, kết quả là 7 paramidas được sắp xếp lại trong một chu kỳ - đây là cách một chiếc gai được hình thành. Tương tự, cái thứ hai sẽ xuất hiện, giao nhau với cái thứ nhất, cũng từ 7 ba la mật. Hãy cố gắng tìm những chiếc nhẫn này! Làm điều này đã có hoặc trên giấy không phải là rất dễ dàng. Chúng tôi khuyên bạn nên tạo một câu đố và đánh số các paramit (xem hình), nếu không sẽ không thể tránh khỏi sự nhầm lẫn. Vì vậy, lời giải “sự thay đổi của bảy quả bóng” được chứng minh bằng otachetes, xem «Kvant» số 5) và lời giải “vòng ma thuật” (nằm trên trang bìa «Kvant» số 3).

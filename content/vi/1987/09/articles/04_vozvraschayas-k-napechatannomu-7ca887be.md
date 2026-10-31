@@ -1,0 +1,44 @@
+---
+id: 1987-9-vozvraschayas-k-napechatannomu-7ca887be
+issue: kvant_1987_9
+year: 1987
+number: "9"
+title: Quay lại in
+rubric: smes
+page_first: 16
+page_last: 16
+page_labels: "14"
+tag: HFEO
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 172089a2ed85f65e1a6f7623785cac87105a77cf6fd298dacdd2e8ac99a7e250
+prompt_sha256: draft-1
+translated_from: content/ru/1987/09/articles/04_vozvraschayas-k-napechatannomu-7ca887be.md
+source_content_sha256: 8a0e67a03b1ac2642121d6296f8cc3299120e35a69f151d2f6392fa96b2278cf
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 14⟧
+
+chứa đầy những “mảnh vụn” ngắn của sóng xoắn ốc. Chế độ sóng hỗn loạn này được quan sát thấy trong quá trình rung tim - các cơn co thắt của tim hoàn toàn dừng lại và chỉ xảy ra sự duy trì hỗn loạn của các phần riêng lẻ của nó.
+
+Người ta đã chứng minh bằng thực nghiệm rằng để xảy ra hiện tượng rung tim, cần phải vượt quá “khối lượng tới hạn” của mô tim: đến một kích thước nhất định của một dải mô như vậy, không thể tạo ra hiện tượng rung tự duy trì trong đó. (Ví dụ, đối với mô tâm nhĩ của thỏ, khối lượng tới hạn là khoảng 20 mg.)
+
+Hiệu ứng này không khó giải thích. Nếu chúng ta giả sử rằng sự phân bố khúc xạ trên môi trường là ngẫu nhiên thì xác suất sinh ra một sóng xoắn ốc mới do sự đứt gãy ở phía trước của một trong các sóng hiện có là gần như như nhau đối với bất kỳ điểm nào trong môi trường. Tổng số sóng xoắn ốc mới sinh ra trong môi trường trên một đơn vị thời gian tỷ lệ thuận với diện tích chiếm giữ của môi trường và số lượng sóng xoắn ốc hiện có: $n_+ = \alpha L^2 N$, trong đó $L$ là kích thước tuyến tính của môi trường (chúng tôi coi nó là hai chiều), $N$ là số sóng đã tồn tại, $\alpha$ là một hệ số không đổi nhất định. Số sóng xoắn ốc biến mất tại ranh giới của môi trường trong một đơn vị thời gian là $n_- = \beta N L$ (tỷ lệ thuận với độ dài của ranh giới), $\beta$ là hệ số không đổi. Chế độ hỗn loạn quan sát được trong quá trình rung tương ứng với tình huống tốc độ tái tạo sóng xoắn ốc là:
+
+$$y^2(27y - 26) = 0,$$
+
+và tọa độ của số hữu tỷ lời giải (trong văn bản và trên hình 2) phải là (17/9; 26/27).
+
+Trong bài viết “Bài toán để cắt” ở hình 1 (xem trang 45) cho thấy việc cắt một tam giác đều thành bốn phần, từ đó tạo thành hình thoi chứ không phải hình vuông. Công trình tạo ra một hình vuông trông như thế này:
+
+ny sóng vượt quá tốc độ biến mất của chúng, tức là khi $n_+ > n_-$. Như có thể thấy từ lý do trên, điều này có thể xảy ra trong trường hợp kích thước tuyến tính của môi trường $L$ cao hơn giá trị tới hạn $L_{\text{кр}} = \beta/\alpha$. Trong môi trường có kích thước nhỏ hơn, kích thước tới hạn của sóng xoắn ốc bị triệt tiêu bởi quá trình chúng thoát ra biên.
+
+Biết được sự xuất hiện của chứng argitmi tim nguy hiểm, bạn có thể tìm kiếm thành công hơn nhiều cách để chống lại hoặc ngăn ngừa chúng.
+
+* * *
+
+Trong bài viết ngắn này, chúng tôi chỉ giới hạn ở những nghĩa vụ đơn giản và dễ hiểu nhất. Mô hình tiên đề Wiener-Rosenbluth đóng một vai trò trong việc tạo ra lý thuyết của các tác giả về hiện tượng mới. Các nhà khoa học Liên Xô - nhà vật lý, nhà sinh học, nhà toán học và bác sĩ - đã có đóng góp to lớn cho sự phát triển của lý thuyết này. Mô hình Wiener-Rosenbluth đã được nghiên cứu chi tiết và phát triển trong tác phẩm của những người tham gia hội thảo do nhà toán học Liên Xô I. M. Gelfand tổ chức vào những năm 60. Hiện nay, để mô tả các sóng trong môi trường mới nổi, bao gồm cả trong mô tim, người ta sử dụng các mô hình chi tiết hơn, được hình thành bằng ngôn ngữ phương trình vi phân, theo từng phần tùy ý. Tuy nhiên, mô hình Wiener-Rosenbluth tiếp tục hữu ích trong mọi trường hợp cần nhanh chóng có được bức tranh chất lượng cao về sự tương tác giữa chúng ta và có hiệu quả.
