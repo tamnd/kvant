@@ -1,0 +1,64 @@
+---
+id: 1988-6-skolko-deneg-v-koshelke-9cff3927
+issue: kvant_1988_6
+year: 1988
+number: "6"
+title: Có bao nhiêu tiền trong ví?
+rubric: smes
+page_first: 53
+page_last: 53
+page_labels: "51"
+tag: SY3W
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 4a8ee458c1f97a69ca5f2bb793e1afe991adf2bbd21b653a35144a82efce1973
+prompt_sha256: draft-1
+translated_from: content/ru/1988/06/articles/11_skolko-deneg-v-koshelke-9cff3927.md
+source_content_sha256: 04cf661dc267c7c39b8ba276d3d2d5c2e97791bee053bb5723984573128b1146
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 51⟧
+
+CÓ BAO NHIÊU TIỀN TRONG MỘT CAT LKA?
+
+1. Tôi sẽ không quên...
+Masha gửi đến Ayosha theo bước
+mua sắm, ăn uống
+kopecks with_genls.
+
+2. Malbuchik, tôi sẽ đi...
+Vì lợi ích của trẻ em Ayosha
+lên để mua một chiếc mũ và pho mát.
+
+3. ,
+bán vé
+Làn sóng anh đi trên một nguyên tử
+trong hiệu sách với những bậc thang,
+giá vé 5 kopecks.
+
+4. SÁCH
+Tôi sử dụng Osmavnitsa ase cho trẻ em
+và anh ấy đã thêm 10 kopecks nữa
+cho một cuốn sách. Vì lợi ích của xe máy,
+còn ai cười nhạo bạn nữa, Ayosha
+đã mua một chiếc metray.
+
+5. KHÔNG
+cu li cho tôi
+"hành tinh"
+Video từ shagism, Ayosha
+Tôi mua kem với giá 15 kopecks.
+
+6. Dì,
+bán vé
+Kết quả là Ayoshi bị bệnh
+5 kopecks, Comorian he upchat
+vì đã đi du lịch nhiều năm ở Atomus.
+
+CÓ BAO NHIÊU TIỀN TRONG CAT LKA?
+
+51

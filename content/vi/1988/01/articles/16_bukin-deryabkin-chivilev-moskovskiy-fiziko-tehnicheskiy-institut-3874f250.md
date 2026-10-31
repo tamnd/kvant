@@ -1,0 +1,63 @@
+---
+id: 1988-1-bukin-deryabkin-chivilev-moskovskiy-fiziko-tehnicheskiy-institut-3874f250
+issue: kvant_1988_1
+year: 1988
+number: "1"
+title: Viện Vật lý và Công nghệ Moscow
+authors:
+  - Букин К. А.
+  - Дерябкин В. Н.
+  - Чивилёв В. И.
+rubric: ekzamenatsionnye-materialy
+rubric_sub: Экзаменационные материалы
+page_first: 57
+page_last: 57
+page_labels: "55"
+tag: F9GZ
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 848361028bba407a1563973c68b4d3181c2c9f11d4e2dba44636bee7ec41ac4c
+prompt_sha256: draft-1
+translated_from: content/ru/1988/01/articles/16_bukin-deryabkin-chivilev-moskovskiy-fiziko-tehnicheskiy-institut-3874f250.md
+source_content_sha256: 00de5093693a93e283617f5214de79764c4b16fa46bcceb6e545d11a6cc73633
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 55⟧
+
+Viện Vật lý-Kỹ thuật Moscow
+
+Toán học
+Bài thi viết
+Tùy chọn 1
+1. Giải phương trình
+$$\frac{2}{3}\sqrt{x+9} - \sqrt{\frac{x^2+8x}{x+9}} = \frac{3}{\sqrt{x+9}}.$$
+2. Tìm tất cả các giá trị của $a$ mà khoảng cách giữa các đỉnh của parabol $y=x^2+ax+\frac{2}{3}$ và $y=3x^2+5ax+\frac{19}{12}a^2$ lớn hơn $\frac{\sqrt{29}}{3}$.
+3. Một đường tròn có tâm tại giao điểm của các đường chéo $AC$ và $BD$ của hình thang cân $ABCD$ tiếp xúc với đáy nhỏ hơn $BC$ và cạnh $AB$. Tìm diện tích hình thang $ABCD$ nếu biết chiều cao của nó là 16 và bán kính hình tròn là 3.
+4. Tìm tất cả các phương trình lời giải
+$$\frac{4\cos 4\pi x}{1+3\mathrm{ctg}^2\pi x} = -1,$$
+thỏa mãn bất đẳng thức
+$$\log_7 \frac{11}{16} \left( \frac{11}{32} - \frac{13}{8} x - x^2 \right) < 0.$$
+5. Tại đáy của hình thang $SABCD$ là hình thang cân $ABCD$, trong đó $AD=2$, $BC=1$, chiều cao của hình thang là 3. Chiều cao của paramid đi qua điểm $O$ giao điểm của các đường chéo của hình thang, $SO=\frac{4}{\sqrt{5}}$. Điểm $F$ nằm trên đoạn $SO$ và $SF:FO=1:3$. Một hình trụ có trục song song với trung điểm của mặt $SAD$, được đặt sao cho điểm $F$ là tâm của đáy trên và điểm $O$ nằm trên đường tròn của đáy dưới. Tìm diện tích phần đáy trên của hình trụ nằm bên trong paramid.
+
+Tùy chọn 2
+1. Giải phương trình
+$$\log_2(-\sin x) - \log_4\cos x = -\frac{1}{2} + \log_43.$$
+2. Trên cạnh huyền $AB$ của tam giác vuông $ABC$ các điểm $K$ và $L$ được chọn sao cho $AK=KL=LB$. Tìm các góc của tam giác $ABC$ nếu biết rằng $CK=\sqrt{2}CL$.
+3. Tiếp tuyến của đồ thị hàm số $y=\frac{27}{2}x^4-\frac{1}{2}$ tạo một góc bằng arctan 2 với trục hoành và cắt đường tròn với tâm tại gốc tọa độ tại các điểm $A$ và $B$. Tìm bán kính của hình tròn này nếu biết rằng $AB=1$.
+4. Cho phương trình
+$$x^2+3xy+3ay^2+\left(\frac{9}{2}-a\right)y+4x+5=0.$$
+Tìm tất cả các giá trị của $a$ sao cho:
+1) phương trình này có ít nhất một lời giải cho $y=2$;
+2) có ít nhất một cặp số $(x; y)$ thỏa mãn phương trình này.
+5. Trong tam giác đều paramid $SABC$ ($S$ là đỉnh) điểm $P$ là trung điểm của trung điểm $SD$ của mặt $SBC$. Trên cạnh $AB$ một điểm $M$ được lấy sao cho $MB:AB=2:7$. Một hình cầu có tâm nằm trên đường thẳng $MP$ đi qua các điểm $A$, $C$ và cắt đường thẳng $BC$ tại điểm $Q$ sao cho $CQ=m$. Tìm thể tích của paramid $SABC$ nếu biết bán kính của hình cầu là $\frac{m}{\sqrt{3}}$.
+
+Vật lý
+Bài thi viết
+Tùy chọn 1
+1. Dưa hấu được cân trên một chiếc cân bên ngoài trong cabin máy bay một lần trước khi cất cánh và một lần nữa trong chuyến bay của máy bay dọc theo kinh tuyến. Tốc độ của máy bay phải là bao nhiêu để số chỉ trên cân trong khi bay giảm 1/16 so với số chỉ trước khi cất cánh? Bán kính Trái đất được lấy bằng $R=6400$ km. Chuyển động quay của Trái đất quanh trục của nó và độ cao bay của máy bay so với bán kính Trái đất được xem xét.
+2. Một mol khí lý tưởng đơn nguyên tử trải qua một chu trình khép kín bao gồm một quá trình có sự phụ thuộc tuyến tính của áp suất vào thể tích, đẳng lượng và đẳng áp (hình 1). Tìm số lượng tín hiệu cung cấp cho khí trong các phần của chu trình khi nhiệt độ của khí tăng lên. Nhiệt độ của khí ở trạng thái 1 và 2 là $T_1=300$ K, tỉ số thể tích trên isobar là $V_3/V_1=5/2$, hướng của chu trình được biểu thị bằng các mũi tên. Hằng số khí phổ quát $R=8,31$ J/(mol K).
+3. Khi phím $K$ (hình 2) đóng, vôn kế $V_1$ hiển thị $U_1=0,8\%$ (emf của pin

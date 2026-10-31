@@ -1,0 +1,79 @@
+---
+id: 1988-4-fuks-izbrannyie-shkolnyie-zadachi-339a0f22
+issue: kvant_1988_4
+year: 1988
+number: "4"
+title: Trường học yêu thích bài toán
+authors:
+  - Фукс Д. Б.
+rubric: raznoe
+page_first: 38
+page_last: 38
+page_labels: "36"
+tag: 241A
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 7041ef7e7ea8274e02d39d2394e969e9a13b2b882abb26c787030d9146aa3ed7
+prompt_sha256: draft-1
+translated_from: content/ru/1988/04/articles/05_fuks-izbrannyie-shkolnyie-zadachi-339a0f22.md
+source_content_sha256: 53ee0ab426a6b4a4f056bf3ec517d71f218680826d836b99010e60dd0b28cbc4
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 36⟧
+
+F1092. Tìm vị trí ảnh của nguồn chính xác nằm cách mặt trước một tấm kính phẳng dày một khoảng L, ở giữa mặt sau (xem hình). Hình ảnh được xem theo chiều ngang với bề mặt của tấm. Độ dày tấm d, chiết suất n.
+
+Tại hình hình ảnh được tạo trong tấm. Như có thể thấy từ hình, hình ảnh nằm phía sau tấm và cách mặt trước một khoảng $x = \frac{l}{\varphi} - L = L + \frac{2d}{n}$.
+
+V. K. Peterson
+
+Các bài tập của trường đã chọn
+
+lớp tám
+1. Giải hệ phương trình
+   $x_1 + x_1x_2 = 1,$
+   $x_2 + x_2x_3 = 1,$
+   $x_{99} + x_{99}x_{100} = 1,$
+   $x_{100} + x_{100}x_1 = 1$.
+
+2. Chứng minh rằng tồn tại một số tự nhiên có số tận cùng là 1987.
+
+3. Cho 3 số nguyên dương. Ước chung nhất của chúng là 1, tổng của hai ước bất kỳ với số thứ ba. Tìm những con số này.
+
+4. Cho trước ba số dương $x, y, z$. Trong điều kiện nào tồn tại một tam giác có độ dài $x, y, z$?
+
+5. Một cuốn sách mô tả một trường hợp như vậy. Một quả bóng cao su đập vào cửa một căn phòng, phản chiếu vào bức tường, sau đó phản chiếu vào một bức tường khác và không va vào một vật nào, nó đập vào cánh cửa đúng nơi nó bay vào. Điều này có thể xảy ra không?
+
+lớp chín
+6. Giải hệ phương trình
+   $\sin x + \sin y = \sqrt{2} \sin a,$
+   $\cos x + \cos y = \sqrt{2} \cos a$.
+
+7. Phương trình bậc hai $x^2 + px - q = 0$ có lời giải. Các số $p$ và $q$ được thay đổi, mỗi số không quá 1% giá trị tuyệt đối của nó. Được biết, một phương trình tốt hơn sẽ là:
+
+có lời giải. Có thể đảm bảo rằng giá trị lớn hơn của lời giải của phương trình mới khác với giá trị lớn hơn của lời giải của phương trình cũ không quá 10% giá trị tuyệt đối của phương trình sau không?
+
+8. Bán kính lớn nhất có thể có của một hình tròn có thể chứa bốn hình tròn không chồng lên nhau có bán kính 1 là bao nhiêu?
+
+9. Cho bốn đoạn có độ dài $a, b, c, d$. Trong điều kiện nào người ta có thể xây dựng từ chúng một đường gãy khép kín tự cắt nhau, trong đó ba đỉnh của chúng không nằm trên cùng một đường thẳng?
+
+10. Vẽ đồ thị của hàm số
+    $y = |1 - |1 - |1 - |1 - |x|$.
+
+lớp mười
+11. Giải phương trình $x^y = 48 261 724 457$ bằng số nguyên dương.
+
+12. Tìm miền tổng quát của hàm
+    $f_n(x) = \sqrt{x + \sqrt{x + \ldots + \sqrt{x + 1}}}$.
+
+13. Cho một khối đa diện, không có mặt phẳng nào có nhiều hơn 4 cạnh. Chứng minh rằng đây là một tứ giác.
+
+14. Một hình trụ tròn nguyên thủy và một hình nón tròn thẳng có chung một đáy. Thể tích của mỗi phần bằng 1. Tìm thể tích phần chung của chúng.
+
+15. Đối với $a$ và $b$ thì công thức $\sqrt{x} \approx ax + b$ đảm bảo độ chính xác cao nhất cho $4 \leq x \leq 9$. Nói cách khác, tại đó $a$ và $b$ là giá trị chính xác nhất của biểu thức $|\sqrt{x} - (ax + b)|$ tại $4 \leq x \leq 9$?
+
+Ấn phẩm được chuẩn bị bởi D. V. Fuks

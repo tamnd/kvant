@@ -1,0 +1,57 @@
+---
+id: 1988-2-vasilev-gutenmaher-summa-uglov-sfericheskogo-mnogougolnika-3eeb551c
+issue: kvant_1988_2
+year: 1988
+number: "2"
+title: Tổng các góc của một đa giác cầu
+authors:
+  - Васильев Н. Б.
+  - Гутенмахер В. Л.
+rubric: shkola-v-kvante
+page_first: 57
+page_last: 57
+page_labels: "55"
+tag: 5RYQ
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 9457e6f23e644e285c1bea3672945f818b084ef426a8936995986b2624d8c87a
+prompt_sha256: draft-1
+translated_from: content/ru/1988/02/articles/17_vasilev-gutenmaher-summa-uglov-sfericheskogo-mnogougolnika-3eeb551c.md
+source_content_sha256: a8ef19958915666a094418e0790ae483e0aba1d98884a8f1f3b651ea35235186
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 55⟧
+
+ra. Từ công thức $B-P+M=1$ cho bản đồ, chúng ta thu được công thức $B-P+\Gamma=2$ cho khối đa diện.
+
+Định lý tổng quát Euler
+
+Sử dụng tổng các góc để chứng minh định lý Euler là một kỹ thuật hay nhưng hơi giả tạo. Trên thực tế, định lý Euler cũng đúng trong một tình huống tổng quát hơn - ví dụ: đối với một bản đồ tùy ý có $B$ đỉnh, $P$ cạnh và $\Gamma$ quốc gia trên một hình cầu và bất kỳ đoạn đường cong nào cũng có thể đóng vai trò là “cạnh”, miễn là mỗi quốc gia có đường viền gồm nhiều cạnh liên tục (đặc biệt, không được có “lỗ hổng” bên trong quốc gia, áp dụng cho các quốc gia khác). Tuy nhiên, trong số những ý tưởng khả thi để chứng minh định lý ở mức tổng quát hơn như vậy là quy nạp, dựa trên việc “thu gọn” một trong các quốc gia về một điểm.
+
+Chú ý sau đây đề cập đến tổng các góc của một đa giác trên một hình cầu và định lý Euler cho bản đồ trên một hình cầu.
+
+Tổng các góc của một đa giác cầu
+
+Trên một mặt cầu, chúng ta sẽ xét các đa giác có các cạnh là các cung tròn lớn. Một đa giác như vậy có thể thu được khi là giao điểm của một hình cầu với một góc đa diện có đỉnh nằm ở tâm hình cầu $O$ (hình 1). Độ lớn của góc của một đa giác trên một hình cầu đương nhiên được coi là góc giữa các tiếp tuyến với các “cạnh” của nó vẽ từ đỉnh; vì các tiếp tuyến vuông góc với bán kính vẽ lên đỉnh từ điểm $O$, nên góc của đa giác trên hình cầu bằng góc hai góc ở bán kính này.
+
+Sự tương tự giữa “tổng các góc” và diện tích, mà chúng tôi đã đề cập ngắn gọn trong ghi chú trước, được thể hiện rõ ràng ở đây: một đại lượng được biểu diễn đơn giản thông qua đại lượng kia.
+
+Định lý. Diện tích của đa giác trên hình cầu tỷ lệ thuận với hiệu giữa tổng các góc của nó và $180^\circ(n-2)$, trong đó $n$ là số đỉnh của đa giác.
+
+Hệ số tỷ lệ chỉ phụ thuộc vào bán kính của hình cầu. Lấy bán kính hình cầu làm 1 (khi đó diện tích hình cầu bằng $4\pi$) và ta đồng ý
+
+Hình 1.
+
+góc được đo không phải bằng độ mà bằng radian ($180^\circ$ tương ứng với $\pi$ radian). Khi đó diện tích của $n$-giác trên một hình cầu bằng $\alpha_1+\alpha_2+\dots+\alpha_n-\pi(n-2)$, trong đó $\alpha_1, \alpha_2, \dots, \alpha_n$ là các góc của nó.
+
+Cụ thể, diện tích của một hình tam giác trên hình cầu đơn vị có các góc $\alpha, \beta, \gamma$ bằng $\alpha+\beta+\gamma-\pi$.
+
+Hãy kiểm tra công thức $S=\alpha+\beta+\gamma-\pi$ để biết đường viền của một hình cầu được cắt ra khỏi nó bằng các mặt phẳng vuông góc lẫn nhau đi qua tâm: đường viền này có ba góc $\pi/2$ mỗi góc và theo công thức thì diện tích của nó bằng $3\pi/2-\pi=\pi/2$ - thực tế, đây là $1/8$ một phần của $4\pi$, diện tích của tất cả các hình cầu.
+
+Chứng minh định lý này cho tam giác cầu là đủ: công thức tổng quát có thể rút ra từ trường hợp cụ thể này giống như khi chứng minh định lý về tổng các góc của một mặt phẳng $n$-gon - bằng phép cắt và quy nạp toán học.
+
+Tiếp tục các cạnh của hình tam giác hình cầu, chúng ta được ba hình tròn lớn chia hình cầu thành 8 hình tam giác (để tiện tưởng tượng ba mặt phẳng của những hình tròn lớn này giao nhau ở tâm $O$, chia không gian thành 8 góc tam giác - mỗi góc khắc một hình tam giác trên hình cầu). Chúng ta hãy biểu thị các góc của tam giác bằng $\alpha, \beta$ và $\gamma$, diện tích của nó bằng $S$, diện tích của các tam giác liền kề với nó (liền kề với các cạnh nằm đối diện với các góc $\alpha, \beta$ và $\gamma$ tương ứng) là $a, b$ và $c$ (hình 2). Cùng với mỗi hình tam giác, ba chúng ta

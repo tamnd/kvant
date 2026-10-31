@@ -1,0 +1,88 @@
+---
+id: 1988-9-zakazyi-prinimayutsya-a78b80fc
+issue: kvant_1988_9
+year: 1988
+number: "9"
+title: Đơn đặt hàng được chấp nhận...
+rubric: informatsiya
+rubric_sub: Информация
+page_first: 18
+page_last: 18
+page_labels: "16"
+tag: HJR3
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 224cb1727ad133d55319f5cbddf0fec976edde06c5bece8dc61279388fbbd2b9
+prompt_sha256: draft-1
+translated_from: content/ru/1988/09/articles/05_zakazyi-prinimayutsya-a78b80fc.md
+source_content_sha256: 53dd4600465f80d54f81fbd159e29add04d7c520cf3960f0845cde587ca96d2b
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 16⟧
+
+Cùng với sự tăng trưởng, lực nâng cân bằng với trọng lực, lực kéo chuyển động - lực kéo.
+
+3) Rõ ràng, công thức của Breguet không phải học sinh nào cũng biết. Vì vậy, chúng tôi trình bày kết luận của nó.
+
+Với đường bay ngang đều, như đã đề cập, $F_x v = N \eta_{\text{дв}}$. Hãy thể hiện $F_x$ thông qua lực nâng $F_y = mg$ và chất lượng khí động học $K$:
+
+$$\frac{mgv}{K} = N \eta_{\text{дв}}.$$
+
+Giá trị $N \eta_{\text{дв}}$ là công suất, hay công thứ hai của động cơ chống lại lực cản. Giả sử rằng trong một đơn vị thời gian, động cơ tiêu thụ cùng một khối lượng nhiên liệu $\mu$ ($[\mu] = \text{kr/c}$). Sau đó theo thời gian $dt$ khối lượng nhiên liệu sẽ thay đổi $dm = -\mu dt$ kg. Chia cả hai vế của đẳng thức (*) cho $\mu = -dm/dt$:
+
+$$-\frac{mgv \cdot dt}{K \cdot dm} = \frac{N \eta_{\text{дв}}}{\mu}.$$
+
+Không có vấn đề gì $v \cdot dt = dx$ — chuyển động theo hướng ngang. Điều này có nghĩa là phương trình mô tả sự thay đổi khối lượng dọc theo đường đi, có thể vượt qua khi bay theo phương ngang, có dạng
+
+$$dx = -\frac{KN \eta_{\text{дв}}}{\mu g} \frac{dm}{m}.$$
+
+xen kẽ phương trình này từ điểm bắt đầu ($x = 0, m = m_0$) đến điểm cuối của chuyến bay ($x = L, m = m_0 - m_{\text{rop}}$), chúng ta thu được:
+
+$$L = -\frac{K_3 N}{\mu g} \ln \left(1 - \frac{m_{\text{rop}}}{m_0}\right) = -\frac{K_3 N}{\mu g} \frac{\lg(1 - \bar{m}_{\text{rop}})}{\lg e}.$$
+
+Bây giờ còn lại $\mu g/N = C_y$ - và chúng ta có được công thức của Breguet.
+
+4) Hãy để chúng tôi giải thích đoạn này như sau. Độ biến thiên động năng của khối lượng không khí thoát ra trong một đơn vị thời gian bằng
+
+$$N = m_s \left(\frac{v_2^2}{2} - 0\right) = m_s \frac{v_2^2}{2}.$$
+
+(Chúng ta bỏ qua sự thay đổi thế năng của khối lượng này.) Mặt khác, chúng ta có thể coi vật nâng (ví dụ, cánh quạt của máy bay trực thăng) như một chiếc quạt đã khắc phục được sự chênh lệch áp suất do lực nâng tạo ra. Sự chênh lệch áp suất này truyền qua không khí “bị hút” từ trên cao với tốc độ $v_1$, đòi hỏi công suất $N = Gv_1$.
+
+Xét rằng $G = m_s v_2$, từ đẳng thức của hai biểu thức lũy thừa, chúng ta thu được:
+
+$$m_s \frac{v_2^2}{2} = m_s v_2 v_1,$$
+
+hoặc $v_2 = 2v_1$.
+
+Nhìn về phía trước, chúng ta hãy giải thích cách tìm ra công suất cần thiết để duy trì một đơn vị trọng lượng $-N/G$. Từ đẳng thức $G = 2\varrho s v_1^2$ ta biểu diễn $v_1$: $v_1 = \sqrt{\frac{G}{2\varrho s}}$. Thay $v_1$ này vào đẳng thức $N = Gv_1$, ta tìm được tỷ lệ $N/G$:
+
+$$\frac{N}{G} = \frac{1}{\sqrt{2\varrho}} \sqrt{\frac{G}{s}}.$$
+
+**Nhận đặt hàng...**
+
+Chúng tôi tiếp tục danh sách các kippas sẽ được nhà xuất bản Nauka xuất bản vào năm 1989 và có thể được độc giả của chúng tôi quan tâm (sự kiểm duyệt tương ứng với kế hoạch chuyên đề; chena được định hướng; xem phần đầu ở số 7 và số 8).
+
+Thư viện «Kvant»
+160. Bolotovsky B. M. Làm thế nào các electron và nguyên tử bay nhanh hơn ánh sáng phát ra. 50k.
+
+Nếu một electron hoặc nguyên tử di chuyển qua một chất và tốc độ của nó vượt quá tốc độ ánh sáng trong chất đó thì bức xạ điện từ sẽ xảy ra.
+
+Cuốn sách xem xét bức xạ “siêu trắng” này (hiệu ứng Vavilov-Cherepkov, hiệu ứng Doppler), tính chất và ứng dụng của nó.
+
+161. Byalyuko A.V. Hành tinh của chúng ta là Trái đất. 50k.
+
+ Chủ đề trung tâm của cuộc nghiên cứu là tìm hiểu lý do tại sao hành tinh của chúng ta, với nguồn năng lượng rất thấp từ toàn bộ hệ mặt trời, vẫn độc đáo đến mức nó trở thành nguồn bức xạ duy nhất. Vòng tròn xem xét các câu hỏi về nguồn gốc của các nguyên tố hóa học đối với khí hậu Trái đất và tác động của nó đối với nền văn minh.
+
+162. Galperin G. A., Zemlyak A. N. Toán học blir. 50k.
+
+Mô tả trạng thái của một quả bóng bi-a trên một bàn dạng tự do không có túi. Việc mô tả hành vi này dẫn đến lời giải nhiều câu hỏi khác nhau về toán học và cơ học: bài toán về sự truyền chất lỏng, về sự chiếu sáng của phòng gương, về ổ trục, máy hiện sóng và số Lissajous, về sự va chạm của các phân tử khí trong bình, v.v.
+
+163. Getman V.S. Cháu của Mặt trời. 50k.
+
+Các tiểu hành tinh, sao chổi, thiên thể khí tượng với số lượng vô số “cư ngụ” trong không gian cơ học ngày càng được sử dụng nhiều hơn
+
+(Cuối cùng xem trang 29)

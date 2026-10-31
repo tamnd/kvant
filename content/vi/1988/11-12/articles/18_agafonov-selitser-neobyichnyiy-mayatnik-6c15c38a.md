@@ -1,0 +1,43 @@
+---
+id: 1988-11-12-agafonov-selitser-neobyichnyiy-mayatnik-6c15c38a
+issue: kvant_1988_11-12
+year: 1988
+number: 11-12
+title: con lắc bất thường
+authors:
+  - Агафонов А. И.
+  - Селицер С. И.
+rubric: laboratoriya-kvanta
+rubric_sub: Лаборатория «Кванта»
+page_first: 59
+page_last: 59
+page_labels: "57"
+tag: VXPU
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 86a02eaa56349003441fe878cd47584a96713fdb58fb6c4d73ba1107906a18e4
+prompt_sha256: draft-1
+translated_from: content/ru/1988/11-12/articles/18_agafonov-selitser-neobyichnyiy-mayatnik-6c15c38a.md
+source_content_sha256: 8a9912d4ae5f4f1b71fafdb614a2b12d2b3ab8841034c9dc8cbdfc12fd603ed1
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 57⟧
+
+con lắc bất thường
+
+Ứng viên khoa học sư phạm
+A.I. AGAFONOV,
+Ứng viên khoa học sư phạm
+S. I. SELICER
+
+Trong số các loại dao động, dao động tự thân chiếm một vị trí đặc biệt. Trong cơ học, một ví dụ điển hình của hệ dao động tự động là con lắc trong đồng hồ. Trong điện học, máy phát điện dạng ống dao động liên tục được biết đến rộng rãi.
+
+Trong nhiều cuốn sách về vật lý, bạn có thể tìm thấy mô tả về một thiết bị điện đơn giản nhưng rất trực quan, một trong những biến thể của hệ thống như vậy (hình 1). Thật dễ dàng để làm ở nhà từ vật liệu phế liệu.
+
+Lò xo xoắn 1 được làm bằng dây nhôm có đường kính 1,8 mm, đường kính cuộn dây 35-40 mm, toàn bộ chiều dài của lò xo khoảng 140-180 mm. Nó có thể được quấn bằng cách sử dụng xi lanh thủy tinh của đèn huỳnh quang thông thường. Đầu dưới của lò xo có một tiếp điểm điện 2 làm bằng đồng thau; Bạn cũng có thể sử dụng một liên hệ làm sẵn từ rơle. Tiếp điểm đáy 3 được làm bằng lá đồng thau (hoặc đồng) dày khoảng 0,15 mm. Chiều dài của phần cong (hình chữ L) của tiếp điểm này có thể được điều chỉnh bằng cách sử dụng bu lông số 4 để kẹp dải đồng thau (kích thước của nó tính bằng milimét được biểu thị ở hình 2).
+
+Nguồn 5 hiện tại là một cục pin bao gồm chín phần tử Sirius-373 được kết nối thành ba nhóm song song, mỗi nhóm có ba phần tử nối tiếp. Pin tạo ra điện áp 4,5 V,

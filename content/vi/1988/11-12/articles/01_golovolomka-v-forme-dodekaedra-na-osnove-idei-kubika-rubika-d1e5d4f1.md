@@ -1,0 +1,26 @@
+---
+id: 1988-11-12-golovolomka-v-forme-dodekaedra-na-osnove-idei-kubika-rubika-d1e5d4f1
+issue: kvant_1988_11-12
+year: 1988
+number: 11-12
+title: '[Câu đố hình khối mười hai mặt dựa trên ý tưởng khối Rubik]'
+rubric: smes
+page_first: 100
+page_last: 100
+tag: ITNU
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: c463f440a8b814de7292141b7d1918051a18943be5469d3771448240eda8c360
+prompt_sha256: draft-1
+translated_from: content/ru/1988/11-12/articles/01_golovolomka-v-forme-dodekaedra-na-osnove-idei-kubika-rubika-d1e5d4f1.md
+source_content_sha256: a523fbf0217dea8a73bab19996fc9899d6de5af978c250b960a8e4f8aa82417f
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 8⟧
+
+Dựa trên bản lề được điền vào thiết kế của biểu ngữ khối Rubik, các câu đố đã được tạo ra dưới dạng khối 4x4x4 và 5x5x5, cũng như các quân domino 3x3x2 của Rubik và một số trò khác. Đẹp nhất trong số chúng được gọi là khối mười hai mặt (hình 1), được thiết kế bởi Boris Miro thuộc tầng lớp phía nam. Để “tập hợp” các màu trên các hạt, các thuật toán tương tự (theo các thuật ngữ) ở đây cũng phù hợp như đối với khối Rubik.
+Nhưng câu đố ở dạng khối lập phương 2x2x2 yêu cầu một bản lề khác. Sau khi bản lề được tìm thấy, câu đố này bắt đầu được sản xuất không chỉ ở dạng khối lập phương mà còn ở dạng tứ diện (hình 2), đòi hỏi 4 góc của khối lập phương. Nếu bạn cắt bỏ tất cả 8 góc, bạn sẽ có được một hình bát diện. hình 3 hiển thị một khối bát diện thu được bằng thao tác này từ khối Rubik “thông thường”, tức là từ khối 3×3×3. Ở đây nhiều bản lề đã được thêm vào ở các đỉnh của khối bát diện.

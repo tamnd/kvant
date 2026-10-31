@@ -1,0 +1,51 @@
+---
+id: 1988-5-berestov-gusakov-moskovskiy-institut-elektronnoy-tehniki-8e80085a
+issue: kvant_1988_5
+year: 1988
+number: "5"
+title: Viện Công nghệ Điện tử Moscow
+authors:
+  - Берестов А. Т.
+  - Гусаков Г. М.
+rubric: ekzamenatsionnye-materialy
+rubric_sub: Экзаменационные материалы
+page_first: 61
+page_last: 61
+page_labels: "59"
+tag: 76KD
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 6653e7059dad07f58a2e392060bf647e089b8845c5c1658e0c91367bfa5a1ec0
+prompt_sha256: draft-1
+translated_from: content/ru/1988/05/articles/15_berestov-gusakov-moskovskiy-institut-elektronnoy-tehniki-8e80085a.md
+source_content_sha256: fbc8ca3909ac37024d3b55e73e5a2a2fc75ee564aaddc57f58b9548510b9598d
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 59⟧
+
+Viện Công nghệ Điện tử Moscow
+
+Vật lý
+Bài toán thi viết
+1. Một viên đạn bay ngang trúng một quả cầu treo trên một thanh cứng nhẹ và mắc kẹt trong đó. Khối lượng của viên đạn là $m=5$ g, khối lượng của quả bóng là $M=0,5$ kg. Tốc độ đạn $v=500$ m/s. Với chiều dài tối đa của thanh (khoảng cách từ điểm treo đến tâm quả bóng) quả bóng sẽ bay lên đến điểm trên cùng của vòng tròn khi bị một viên đạn bắn trúng?
+2. Công thực hiện để nâng một sợi xích, bị giữ bởi một đầu và nằm trên một mặt phẳng, đến độ cao mà đầu dưới di chuyển ra khỏi mặt phẳng một khoảng bằng chiều dài của sợi xích là bao nhiêu? Chiều dài dây xích $l=2$ m, trọng lượng $m=5$ kg.
+3. Một phần khối lượng $m$ của khí lý tưởng có khối lượng mol $M$ được nung nóng dưới một pít-tông sao cho nhiệt độ thay đổi tỉ lệ với bình phương áp suất từ ​​giá trị đầu tiên $T_1$ đến $T_2$. Xác định công mà khí thực hiện.
+4. Xác định khối lượng riêng của hỗn hợp chứa $m_1=4$ g hydro và $m_2=32$ g oxy ở nhiệt độ $t=7$ °C và thể tích áp suất $p=10^5$ Pa.
+5. Hai electron ở cách nhau một khoảng vô cùng lớn, trong đó electron thứ nhất thoát ra trước và electron thứ hai có vận tốc $v_0$ hướng về phía electron thứ nhất. Xác định khoảng cách ngắn nhất mà chúng hợp nhất.
+6. Bao nhiêu nhiệt sẽ tỏa ra trong mạch khi chuyển phím $K$ từ vị trí 1 sang vị trí 2 (hình 1)?
+7. Điện trở ở mạch ngoài của pin giải phóng nhiệt năng $P=10$ W. Khi nào hết
+
+Hình 1.
+Điện trở này được kết nối với cùng một pin thứ hai, năng lượng được giải phóng tăng gấp đôi. Năng lượng được giải phóng sẽ là bao nhiêu nếu viên pin thứ ba cùng tên được kết nối với những viên pin có cùng dải?
+
+8. Đặc tính dòng điện-điện áp của một phần tử không trung tính nhất định là đến điện áp $U_0=100$ thì không có dòng điện chạy qua phần tử đó, và sau đó tăng tuyến tính khi điện áp tăng (hình 2). Khi một phần tử được kết nối với pin có điện trở trong $r=2,5$ kOhm, dòng điện $I_1=2$ mA chạy qua phần tử đó và khi nó được kết nối với cùng một pin thông qua điện trở có điện trở $R=25$ kOhm, dòng điện $I_2=1$ mA sẽ chạy qua. Xác định emf của ghazars.
+
+Hình 2.
+9. Một chùm tia sáng phân kỳ một góc $α$ rơi từ nguồn sáng lên một gương phẳng. Xác định góc giữa các tia sáng sau khi phản xạ khỏi gương.
+10. Hệ thống quang học bao gồm một thấu kính thu có tiêu cự $F=30$ cm và một gương phẳng đặt cách thấu kính $l=15$ cm. Xác định vị trí của ảnh được cho trong hệ này nếu vật cách thấu kính $d=15$ cm.
+
+Ấn phẩm được biên soạn bởi A. T. Berestov, G. M. Guskov

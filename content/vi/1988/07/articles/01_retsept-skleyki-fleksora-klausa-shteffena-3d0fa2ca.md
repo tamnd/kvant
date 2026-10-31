@@ -1,0 +1,25 @@
+---
+id: 1988-7-retsept-skleyki-fleksora-klausa-shteffena-3d0fa2ca
+issue: kvant_1988_7
+year: 1988
+number: "7"
+title: '["Công thức" dán máy uốn của Klaus Steffen]'
+rubric: smes
+page_first: 68
+page_last: 68
+tag: 5YYE
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: b271c4d427dba81010c744ad60ef8b905ef01791f1043d3c54afbe13b1cac531
+prompt_sha256: draft-1
+translated_from: content/ru/1988/07/articles/01_retsept-skleyki-fleksora-klausa-shteffena-3d0fa2ca.md
+source_content_sha256: 9c87c1222c407920e9dd1b80e6adcd48049ddccf75349d7c69ee7971f310b076
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+Trước mặt bạn là một chiếc nhẫn gồm mười khối tứ diện đều. Nó được dán lại với nhau từ giấy dày và có thể uốn cong và xoắn vô thời hạn, liên tục thay đổi hình dạng. Dưới đây được mô tả bốn giai đoạn liên tiếp trong quá trình chữa lành của anh ấy. Xin lưu ý rằng mỗi cặp tứ diện lân cận có một cạnh chung và khi xoắn chuỗi, tứ diện dao động xung quanh cạnh này. Và ngôi sao LOB thứ năm, xuất hiện định kỳ bên trong chuỗi thư, hóa ra lại quay 36° với mỗi lần xuất hiện tiếp theo. Bạn có thể đọc về cách tạo ra một chiếc colcho như vậy trong bài viết “Flexaons, flexors, flexms.” Mẫu colchua được thể hiện ở đó ở hình 15. Kích thước khuyến nghị của các cạnh của tứ diện là 3,5 cm. Hãy dành thời gian, cẩn thận đánh dấu mẫu và sơn nó bằng hai màu bạn yêu thích. Sau đó, cắt nó ra và làm theo hướng dẫn trong bài viết, cẩn thận dán nó lại với nhau. Sau khi làm xong tất cả những điều này, bạn sẽ trở thành chủ nhân của một món đồ chơi mà khi đặt vào tay bạn, nó sẽ ngay lập tức trở nên sống động.

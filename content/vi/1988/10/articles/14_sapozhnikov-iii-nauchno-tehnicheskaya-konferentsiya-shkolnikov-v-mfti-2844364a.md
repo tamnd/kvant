@@ -1,0 +1,51 @@
+---
+id: 1988-10-sapozhnikov-iii-nauchno-tehnicheskaya-konferentsiya-shkolnikov-v-mfti-2844364a
+issue: kvant_1988_10
+year: 1988
+number: "10"
+title: III Hội nghị khoa học kỹ thuật học sinh trường MIPT
+authors:
+  - Сапожников А. В.
+rubric: informatsiya
+rubric_sub: Информация
+page_first: 56
+page_last: 57
+page_labels: 54-55
+tag: ZF5G
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: a017fd8e9f212ea2f78be067e6bec2591b6fae48b46844194db2752f8e8ffc36
+prompt_sha256: draft-1
+translated_from: content/ru/1988/10/articles/14_sapozhnikov-iii-nauchno-tehnicheskaya-konferentsiya-shkolnikov-v-mfti-2844364a.md
+source_content_sha256: 044259bffc2eebcdf1beca8f81b79fa156afca50b60090e46626614c197d2b50
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 54⟧
+
+III Hội nghị khoa học kỹ thuật học sinh trường MIPT
+
+Hội nghị Khoa học và Kỹ thuật Shkolnikov lần thứ ba được Viện Vật lý và Công nghệ Matxcơva tổ chức vào ngày 2-3 tháng 4 năm 1988. Công việc của hội nghị phương Đông được tăng cường sớm hơn rất nhiều: kể từ tháng 1, MIPT bắt đầu nhận tác phẩm của học sinh từ khắp Liên Xô. Ban tổ chức hội nghị đã cố tình không đưa ra danh sách gần đúng các chủ đề trừu tượng. Tuy nhiên, điều này khiến một số lượng lớn người yêu cầu đề xuất một chủ đề hoặc hỏi xem chủ đề đó có phù hợp hay không. Điều khó nhất về lời giải bài toán là đặt câu hỏi. Thật không may, trường học không dạy điều này và chúng tôi thường không thể đề xuất bất kỳ chủ đề nào vì chúng tôi không biết sở thích cá nhân của Shkolnik cũng như khả năng thực hiện một thí nghiệm phức tạp của anh ấy. Câu hỏi thứ hai luôn được theo sau bởi đáp số: bất kỳ chủ đề nào cũng phù hợp cho một bài luận, nếu bạn tiếp cận nó đủ nghiêm túc thì bất kỳ bài toán nào cũng phức tạp và thú vị. Do đó, các tác phẩm được gửi của hơn 400 học sinh lớp 6–10 từ 10 giống tài nguyên liên minh có một thuật toán với nhiều chủ đề khác nhau.
+
+Tất cả các bản tóm tắt được gửi đều được xem xét đặc biệt. Ban giám khảo uy tín theo chuyên đề đã lựa chọn những tác phẩm xuất sắc nhất trong số các tác phẩm đã gửi để mời tác giả đến phát biểu tại MIPT.
+
+Và vào ngày 2 tháng 4, anh đã tiếp khách. Niềm đam mê vẫn chưa nguôi ngoai sau khi sinh viên MIPT ăn mừng ngày mùng 1 tháng 4, LAB và khán phòng chật kín học sinh. Trước khi khai mạc hội thảo, có chuyến tham quan các phòng thí nghiệm khoa học của MIPT và các sinh viên trao đổi về chuyên môn của các khoa Vật lý.
+
+Khai mạc hội nghị, Hiệu trưởng MIPT, thành viên tương ứng của Viện Hàn lâm Khoa học Liên Xô N.V. Karlov đã phát biểu. Sau đó, một phiên họp toàn thể đã diễn ra, tại đó các nhà khoa học hàng đầu đã giảng bài cho trẻ em. Thú vị nhất, xin lỗi, là bài giảng của Thành viên tương ứng của Viện Hàn lâm Khoa học Liên Xô L. V. Okun, dành riêng cho lý thuyết về mặt tương đối?
+
+Học sinh báo cáo kết quả nghiên cứu của mình vào ngày thứ hai của hội nghị. Các cuộc họp được tổ chức đồng thời trong sáu phần: vật lý-1, vật lý-2, vật lý phân tử, vật lý hàng không vũ trụ, toán học và khoa học máy tính. Cùng ngày, Hội nghị đã bế mạc và trao giải cho các đại biểu tham dự.
+
+Phát biểu bế mạc hội nghị, Viện sĩ-Thư ký Viện Hàn lâm Khoa học Sư phạm Liên Xô V. G. Razumovsky bày tỏ sự hài lòng về mức độ công việc và hy vọng rằng trong tương lai những cái tên tương tự sẽ xuất hiện trong các bộ sưu tập công trình khoa học, trong số các tác giả có những khám phá và phát minh.
+
+⟦folio 55⟧
+
+Tất cả các công trình được đề xuất tại hội nghị có thể được chia thành hai nhóm lớn. Phần đầu tiên, lớn hơn, bao gồm các quan sát và nghiên cứu do học sinh thực hiện một cách độc lập. Những tác phẩm như vậy đánh giá những nhận định quan trọng nhất, ngay cả khi tác giả mắc những lỗi nhỏ. Vì vậy, ban giám khảo môn vật lý phần 1 đã ghi nhận báo cáo của D. Samborsky (Kiev) “Đây là lý do tại sao các tổ chức lao động có tiếng.” Trong cuộc biểu diễn, một cây sáo dành cho trẻ em đã được sử dụng, theo quy luật vật lý, âm thanh cao hơn hoặc thấp hơn. Học sinh lớp 9 Trường Vật lý số 18 ở Mátxcơva V. Kravchenko và N. Koblykov đã trình diễn một ứng dụng của bức xạ hồng ngoại do các em tạo ra. Một tác phẩm sắp đặt tuyệt vời để thể hiện chuyển động của các lối thoát hiểm trong không khí được xây dựng bởi các học sinh Klassoyar D. Koval, A. Kiselev, I. Noskov, D. Rashevsky.
+
+Một nhóm khác bao gồm các tác phẩm hoàn toàn trừu tượng. Trong số những tác phẩm hay nhất được Jorri ghi nhận là những bài tóm tắt của học sinh lớp chín V. Suvorov (Tolyatti) “Lasers” và E. Ryzhikova (Poltava) “Chất lỏng siêu lỏng và tính chất của chúng”. Một số bài tóm tắt là một phần được sao chép từ một cuốn sách hoặc sách giáo khoa khoa học phổ thông. Những bài tóm tắt như vậy không được đánh giá cao. Những tác phẩm hay nhất dự kiến ​​​​sẽ được xuất bản trên «Kvant» hoặc “Vật lý ở trường”. Hai bài báo từ hội nghị đã được xuất bản trên tạp chí «Kvant», đó là “Mã hóa mã Zip tối ưu” (1987, số 11) và “Quan sát và khối lượng ảnh của các quy trình bảo vệ nhanh” (1988, số 2).
+
+Chúng tôi sẽ trình bày các công trình mới về vật lý, toán học và khoa học máy tính tại Hội nghị Khoa học và Kỹ thuật dành cho Học sinh lần thứ IV, diễn ra vào tháng 4 năm 1989. Hoan nghênh mọi người tham dự hội nghị. Để làm điều này, bạn cần viết một bản tóm tắt (7-25 trang, nếu có thể, in bằng máy) và gửi một bản không muộn hơn ngày 1 tháng 2 năm 1989 đến địa chỉ: 141700 Dolgoprudny, khu vực Moscow, MIPT, Ban tổ chức Hội nghị khoa học và kỹ thuật học sinh lần thứ IV. Bản tóm tắt sẽ không được trả lại. Bạn có thể lấy thêm thông tin bằng cách gọi ZFTSH theo số MIPT: 408-51-45.
+
+A. V. Sapozhnikov, thành viên ban tổ chức hội nghị
