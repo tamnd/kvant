@@ -14,7 +14,7 @@ source: kvant_digital
 extraction: vision
 content_sha256: 6b253874051e03c48326305086a82d70ed893618b5008c3b95095904071386ee
 prompt_sha256: 3ec6b8aabd9b98576af76503cd8a2902b9f5d18e01ee867dfb1228f59c6d52d8
-translated_from: content/ru/1970/09/articles/06_resheniya-8a9c9911.md
+translated_from: content/ru/1970/09/articles/10_resheniya-8a9c9911.md
 source_content_sha256: 8d8802e7032396fdee1833f6ee62baca2e1e09489bedcbd17311c6d493757a33
 translation_model: gpt-5.6-terra
 translation_run: vi-codex-2026-10-31

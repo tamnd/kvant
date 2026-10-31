@@ -16,7 +16,7 @@ source: kvant_digital
 extraction: vision
 content_sha256: f8f07aca3b35aff8249e4690334eac209d7687ab9e95382cdcaa05cc2424a019
 prompt_sha256: 3ec6b8aabd9b98576af76503cd8a2902b9f5d18e01ee867dfb1228f59c6d52d8
-translated_from: content/ru/1970/09/articles/03_frank-kamenetskiy-elektricheskoe-soprotivlenie-kvantovoe-yavlenie-dd0e2820.md
+translated_from: content/ru/1970/09/articles/04_frank-kamenetskiy-elektricheskoe-soprotivlenie-kvantovoe-yavlenie-dd0e2820.md
 source_content_sha256: be565fd893969b9b2aa2d53527ff698bc0980a883a09028cea9840110908a211
 translation_model: gpt-5.6-terra
 translation_run: vi-codex-2026-10-31

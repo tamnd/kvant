@@ -18,7 +18,7 @@ source: kvant_digital
 extraction: vision
 content_sha256: 2ab98e9039b2054ac3e94441c7377a65d9348d4efb7d09a1c54a84e8c23f4d9e
 prompt_sha256: 3ec6b8aabd9b98576af76503cd8a2902b9f5d18e01ee867dfb1228f59c6d52d8
-translated_from: content/ru/1970/09/articles/04_bendukidze-sulakvelidze-vyichislenie-summ-26b17740.md
+translated_from: content/ru/1970/09/articles/07_bendukidze-sulakvelidze-vyichislenie-summ-26b17740.md
 source_content_sha256: 73646112a227d2669d3ffd84430f964c665cd991ebf70b40ebe04d5deec31260
 translation_model: gpt-5.6-terra
 translation_run: vi-codex-2026-10-31
