@@ -1,0 +1,41 @@
+---
+id: 2010-3-105-let-akademiku-s-m-nikolskomu-08ec971d
+issue: kvant_2010_3
+year: 2010
+number: "3"
+title: Kỷ niệm 105 năm Viện sĩ S. M. Nikolsky
+rubric: matematicheskiy-mir
+rubric_sub: Математический мир
+page_first: 17
+page_last: 17
+page_labels: "15"
+tag: MNHW
+lang: vi
+source: kvant_digital
+extraction: native
+content_sha256: e30cdcfca49ef66adb897c7d588437387c6afb95f6a03b8abde62c3303a274f0
+prompt_sha256: draft-1
+translated_from: content/ru/2010/03/articles/01_105-let-akademiku-s-m-nikolskomu-08ec971d.md
+source_content_sha256: a5f895f8c263454b3b79a799b3d5a50cec6001fa44f8dfcc8a20249bdfac8653
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 15⟧
+
+THẾ GIỚI TOÁN HỌC
+
+Kỷ niệm 105 năm Viện sĩ S. M. Nikolsky
+
+Ngày 30/4/2010, nhà toán học, nhà giáo lỗi lạc người Nga, Viện sĩ Viện Hàn lâm Khoa học Nga Sergei Mikhailovich Nikolsky đã tròn 105 tuổi. S.M. Nikolsky là người đứng đầu được công nhận của trường khoa học về lý thuyết chức năng và ứng dụng của nó, là tác giả của hơn hai trăm ấn phẩm khoa học, bao gồm ba chuyên khảo, hai sách giáo khoa cho các trường đại học và bảy cuốn sách cho trường học. Nhiều cuốn sách của ông được đưa vào quỹ vàng của văn học toán học trong nước và thế giới nhờ tính khoa học cao và khả năng trình bày dễ hiểu. Sách giáo khoa về phân tích toán học của ông đã được dịch sang nhiều ngôn ngữ trên thế giới. Là một nhà khoa học, S.M. Nikolsky có nhiều người theo dõi, hơn bốn mươi sinh viên của ông đã bảo vệ luận án tiến sĩ của họ, mười một người đã trở thành bác sĩ khoa học vật lý và toán học. S.M. Nikolsky đã có đóng góp vô giá trong việc cải thiện hệ thống giáo dục ở nước ta. S.M. Nikolsky đã ba lần đoạt Giải thưởng Nhà nước, người đoạt giải của Chính phủ Liên bang Nga và Giải thưởng Đại học bang Lomonosov Moscow “Vì những đóng góp xuất sắc cho sự phát triển của giáo dục”. Năm 2005, ông được trao danh hiệu Huyền thoại thế kỷ. Ông được tặng thưởng Huân chương Cờ đỏ Lao động, Huân chương Lênin, Cách mạng Tháng Mười và huân chương của một số học viện. Xin chúc mừng Sergei Mikhailovich nhân ngày kỷ niệm của ông, chúng tôi chúc bạn sức khỏe, niềm vui khi giao tiếp với gia đình và bạn bè, thành công trong mọi nỗ lực của bạn!
+
+Bắt đầu
+
+(Theo hồi ký của S.M. Nikolsky trong cuốn sách “Tôi đã trở thành nhà toán học như thế nào”)
+
+Tôi sinh ngày 30 tháng 4 năm 1905 tại tỉnh Perm, cách Tyumen 100 km, thuộc làng Talitsa Plant. Ở ngôi làng này có một Trường Lâm nghiệp, nơi cha tôi, một phụ tá lâm nghiệp, dạy. Cha tôi tốt nghiệp Học viện Lâm nghiệp St. Petersburg mang tên Alexander III vào năm 1896. Một năm sau khi tôi sinh ra, ông nhận được chức vụ kiểm lâm và được phân công làm việc ở vùng viễn tây, biên giới với Đức. Bây giờ lãnh thổ này thuộc về Ba Lan. Ở đó, tôi trải qua tuổi thơ ở một ngôi làng trong rừng, chơi đùa với những cậu bé làng Ba Lan ở địa phương. Tôi thành thạo môn đọc viết và tính toán một cách tình cờ và dễ dàng. Tôi được mẹ tôi đào tạo một chút - bà là giáo viên làng trước khi kết hôn. Khoa học khá dễ dàng đối với tôi. Nửa giờ trước bữa tối, mẹ tôi dạy số học, đọc sách và cầu nguyện. Nhưng cha tôi đã truyền cho ông mối quan tâm chính đến khoa học chính xác. Ông học toán cao hơn tại viện và biết cách kể những câu chuyện rất thú vị. Năm tám tuổi, tôi được nhận vào lớp dự bị. Hóa ra mọi điều tôi được dạy ở đó, tôi
+
+⟦column⟧
+
+Sergei Mikhailovich Nikolsky đã biết rồi. Một năm sau có kỳ thi vào lớp 1. Một giáo viên toán có huy hiệu đại học hỏi tôi 10 nhân 11 là bao nhiêu. Dù đây không phải là nội dung chương trình vào lớp 1 nhưng tôi đã nhanh chóng trả lời. Sau đó anh ấy hỏi 11 nhân 12 sẽ bằng bao nhiêu. Tôi cũng trả lời. Sau đó, anh ta vui lên và bắt đầu hỏi 13 nhân 14, 15 nhân 17, 16 nhân 17, v.v. lên tới gần một nghìn. Sau một hồi suy nghĩ, tôi đã đưa ra đáp số đúng. Anh ấy đã đập tay với tôi. Đây là cách tôi đã vượt qua kỳ thi số học đầu tiên của mình. Vào mùa hè năm 1914, chiến tranh thế giới bắt đầu và chúng tôi sống cách biên giới Đức 20 km. Người cha gửi cả gia đình về phía đông, về hậu phương, còn bản thân ông vẫn ở lại làm rừng. Đây là cách chúng tôi đến Chernigov. Tại đây, tôi bước vào phòng tập thể dục cổ điển Chernigov được đặt theo tên của Alexander I the Bless. Do chiến tranh nên kỳ thi chuyển lớp bị hủy bỏ. Hai năm đào tạo đầu tiên diễn ra bình thường. Phía trước đã rất xa. Tôi đã thành thạo số học - theo Kiselev. Đại số được học ở lớp 3 và 4 ở nhà thi đấu. Trong môn toán họ thường cho tôi điểm "A". Tôi thích giải bài toán.

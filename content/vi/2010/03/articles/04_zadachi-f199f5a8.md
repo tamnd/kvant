@@ -1,0 +1,63 @@
+---
+id: 2010-3-zadachi-f199f5a8
+issue: kvant_2010_3
+year: 2010
+number: "3"
+title: Bài toán
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 38
+page_last: 38
+page_labels: "36"
+tag: NGND
+lang: vi
+source: kvant_digital
+extraction: native
+content_sha256: 7e6329291fff7ea33c3e27e9ed834c7e69a58e17ddd0f52d521229bf35636391
+prompt_sha256: draft-1
+translated_from: content/ru/2010/03/articles/04_zadachi-f199f5a8.md
+source_content_sha256: 588c6b9d46b01e386a2e0417fa0886cbd8825f58c673733ac5e3912197ac3779
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 36⟧
+
+KMS
+
+KVANT 2010/№3
+
+Bài toán
+
+1.
+
+Dọc sông có các trụ A, B, C, D (theo thứ tự đó). Tàu đi từ B đến A hết 1 giờ, từ C đến D cũng mất 1 giờ và từ B đến D mất 2 giờ. Sông chảy theo hướng nào - từ A đến G hay từ G đến A? O. Ivanova
+
+⟦column⟧
+
+gọi là hình vuông bậc thang. Chứng minh rằng số bình phương trong mỗi bình phương bậc bằng tổng của hai bình phương các số tự nhiên. N. Avilov
+
+4.
+
+Nam tước Munchausen tuyên bố rằng các công trình
+
+$1 1 1 1 1 1 1 1 \cdot 1 \cdot^{...} \cdot 1 \cdot 1 \cdot^{...} \cdot 1 \cdot 1 \cdot 1$ và 1 là các số nguyên 10 11 100 101 98 99 998 999 và tỷ lệ của chúng cũng là một số nguyên. Nam tước có nhầm không? G. Galperin
+
+1
+
+2.
+
+Đánh dấu hai điểm màu đỏ, hai điểm vàng và hai điểm xanh lục trên một tờ giấy và nối chúng bằng các đoạn thẳng để bạn có được năm hình tam giác đều với các đỉnh có màu khác nhau. E.Lementarenko
+
+5.
+
+Tất cả các số liệu hiển thị trên hình được tạo thành từ nhiều hình vuông. Đôi khi những con số như vậy
+
+Minh họa của D. Grishukova
+
+3.
+
+Trụ sở chính của các nhà toán học bao gồm một số phòng được nối với nhau bằng hành lang theo hình tròn. Có một bảng trong mỗi phòng. Người điệp viên bước vào một trong những căn phòng với nguồn cung cấp phấn. Làm sao anh ta có thể xác định được số phòng trong trụ sở chính nếu anh ta có thể đi qua các phòng của tòa nhà, viết bằng phấn lên bảng đen và xóa khỏi bảng đen? (Ban đầu, có thể đã viết gì đó lên bảng; gián điệp không thể mang tấm bảng ra khỏi phòng.) M. Prasolov
+
+Những bài toán này chủ yếu dành cho học sinh lớp 6 – 8.
