@@ -1,0 +1,54 @@
+---
+id: 2016-2-zadachi-ff8366bd
+issue: kvant_2016_2
+year: 2016
+number: "2"
+title: Bài toán
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 27
+page_last: 27
+tag: TPS9
+lang: vi
+source: kvant_digital
+extraction: native
+content_sha256: b1162102e6fabe2496d00b60c6f03a6bef5f45a3aa1d68f354c5e9aed443575d
+prompt_sha256: draft-1
+translated_from: content/ru/2016/02/articles/01_zadachi-ff8366bd.md
+source_content_sha256: c10127df3ba8e396be64ce54b1d2f3fd4c91fe893818750195165eab231a829c
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+“SỐ LƯỢNG” CHO HỌC SINH THI
+
+Bài toán
+
+1.
+
+Tìm hai số tự nhiên khác nhau bất kỳ lớn hơn 5, mà cả tổng và tích đều cho một bảng màu. (Hãy nhớ rằng một số được gọi là số palindrome nếu các số trong số đó đi từ trái sang phải theo thứ tự từ phải sang trái, ví dụ: 717, 55, 3223.) A. Menshchikov
+
+⟦column⟧
+
+4.
+
+Petya và Vasya nội tiếp các vòng tròn có cùng bán kính 5 cm trong một hình chữ nhật. Sau đó, mỗi người nối trung điểm của các cạnh của hình chữ nhật và được một hình thoi (như trong hình). Chứng minh rằng các cạnh của những hình thoi này bằng nhau và tìm độ dài của chúng. G. Galperin
+
+2.
+
+Bạch Tuyết đã nướng một chiếc bánh cho ngày lễ, cắt thành hình vuông và trang trí bằng những quả anh đào, như minh họa trong hình. Sau khi cắt bỏ hình vuông ở góc (phía dưới bên phải), cô muốn chia phần còn lại của chiếc bánh thành 7 phần có kích thước và hình dạng bằng nhau để mỗi người trong số bảy chú lùn được một quả anh đào nguyên quả. Hãy giúp Bạch Tuyết làm điều này. M. Evdokimov
+
+5.
+
+Minh họa của D. Grishukova
+
+Các hiệp sĩ của hai gia tộc tập trung tại lâu đài để đàm phán và ngồi theo thứ tự nào đó bên một chiếc bàn tròn lớn. Hóa ra là có bao nhiêu hiệp sĩ, bên phải có hiệp sĩ từ tộc khác, cũng như có hiệp sĩ, bên phải có hiệp sĩ từ bang hội của mình. Chứng minh tổng số hiệp sĩ chia hết cho 4. G. Galperin
+
+3.
+
+Một nhà thông thái đã nhận xét: “Cuối cùng thì một năm đã đến mà một số hạt bằng số năm có thể được xếp trên các ô vuông của bàn cờ sao cho không có hai ô vuông nào có số hạt bằng nhau”. Câu chuyện này xảy ra vào năm nào? E. Bakaev, A. Zaslavsky
+
+Những bài toán này chủ yếu dành cho học sinh lớp 6–8.
