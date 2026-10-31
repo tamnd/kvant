@@ -1,0 +1,54 @@
+---
+id: 2016-4-zadachi-c27d6200
+issue: kvant_2016_4
+year: 2016
+number: "4"
+title: Bài toán
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 24
+page_last: 24
+tag: JXU4
+lang: vi
+source: kvant_digital
+extraction: native
+content_sha256: 61a01f2ab450b03e232b24cf6668a0df9074f47c015ce4a95ac5de279ec7b8d6
+prompt_sha256: draft-1
+translated_from: content/ru/2016/04/articles/03_zadachi-c27d6200.md
+source_content_sha256: 80b2d3b21c4a34a77817ce0037e7c167fc65c324b0d51553f7209cea440813a1
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+“SỐ LƯỢNG” CHO HỌC SINH THI
+
+Bài toán
+
+1.
+
+Có 4 phần, mỗi phần được dán lại với nhau từ bốn hình khối và sơn màu riêng. Chúng được sử dụng để làm một viên gạch 2 ¥ 2 ¥ 4 không có lỗ (như hình hình). Phần màu trắng trông như thế nào? Văn hóa dân gian
+
+⟦column⟧
+
+4.
+
+2.
+
+Bảy cô gái đứng thành một hàng, như trong hình, cầm kẹo. Những cô gái bạn nhìn thấy ở bên phải Tanya có 13 viên kẹo, bên phải Ksyusha - 33, bên phải Anya - 23, bên phải Ira - 8, bên phải Valya - 27, bên phải Nadya - 16. Katya có bao nhiêu viên kẹo? Văn hóa dân gian
+
+Malvina ra lệnh cho Pinocchio cắt hình vuông thành 7 hình chữ nhật (không nhất thiết phải khác nhau), mỗi hình có cạnh lớn gấp đôi cạnh kia. Nhiệm vụ này có thực hiện được không? Văn hóa dân gian
+
+5.
+
+Những bài toán này chủ yếu dành cho học sinh lớp 6–8. Bài toán 1–3 được xuất bản cùng với tạp chí «Kvant», bài toán 4 và 5 được lấy từ Cuộc thi hùng biện Toán Moscow lần thứ XIV dành cho lớp 6–7.
+
+Minh họa của D. Grishukova
+
+3.
+
+Hai chiếc xe đua - đỏ và xanh - chạy từ thành phố A đến thành phố B trên cùng một con đường, xuất phát và về đích cùng một lúc. Đồng thời, xe xanh không bao giờ vượt xe đỏ. Có phải ít nhất 90% thời gian xe xanh đi nhanh hơn xe đỏ? Văn hóa dân gian
+
+Cửa hàng bán hộp bút chì. Trong số đó có ít nhất năm hộp có giá khác nhau (không có hộp nào có giá giống nhau). Dù Vasya mua hai hộp bao nhiêu thì Petya luôn có thể mua hai hộp với số tiền như nhau. Số hộp bút chì nhỏ nhất cần bán là bao nhiêu? N. Martynova

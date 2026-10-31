@@ -1,0 +1,44 @@
+---
+id: 2016-5-6-agahanov-lvii-mezhdunarodnaya-matematicheskaya-olimpiada-53dcac15
+issue: kvant_2016_5-6
+year: 2016
+number: 5-6
+title: Olympic Toán quốc tế LVII
+authors:
+  - Агаханов Н. Х. и др.
+rubric: olimpiady
+rubric_sub: Олимпиады
+page_first: 56
+page_last: 56
+tag: U03B
+lang: vi
+source: kvant_digital
+extraction: native
+content_sha256: 6d9eb317d89979cef2d33076733f204e666258fbe99da5a93db5834960dfb144
+prompt_sha256: draft-1
+translated_from: content/ru/2016/05-06/articles/07_agahanov-lvii-mezhdunarodnaya-matematicheskaya-olimpiada-53dcac15.md
+source_content_sha256: 1f9c9878b6dfc5fe5e0cabc960427110114506c06dbd22a44c53d0b89e0db09a
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+Thế Vận Hội
+
+Olympic Toán quốc tế LVII
+
+Từ ngày 6 tháng 7 đến ngày 16 tháng 7 năm 2016, Kỳ thi Olympic Toán quốc tế LVII (IMO) đã được tổ chức tại Hồng Kông (PRC). Hồng Kông là một trong số ít thành phố trên thế giới vinh dự đăng cai IMO hai lần (lần đầu tiên là vào năm 1994). Những người tham gia Olympic sống trong một khuôn viên nằm trên các tầng trên núi, nơi có tầm nhìn tuyệt đẹp ra một trong nhiều vịnh của Biển Đông. MMO là một trong những cuộc thi trí tuệ lớn nhất dành cho học sinh. Năm 2016, 602 người chiến thắng Olympic quốc gia từ 109 quốc gia đã tham gia Olympic. Năm nay, đội Nga bao gồm các học sinh tốt nghiệp trường Pavel Gubkin (St. Petersburg), Muscovites Ruslan Salimov, Ivan Frolov và Grigory Yurgin, cũng như các học sinh lớp 10 Georgy Veprev (Rybinsk, vùng Yaroslavl) và Nikita Karagodin (St. Petersburg). Vị trí dẫn đầu của trường Olympic toán học Nga đã được khẳng định bằng việc đưa hai bài toán trong số những lựa chọn do nước ta đề xuất vào MMO. Đồng thời, bài toán 5 (tác giả N. Agakhanov, I. Bogdanov) được ban giám khảo quốc tế công nhận là bài toán đại số hay nhất trong danh sách rút gọn (danh sách 30 bài toán được ủy ban giải đề Olympic lựa chọn) và bài toán 3 (tác giả A. Gaifullin, người chiến thắng tuyệt đối của IMO năm 2000) - và là nhiệm vụ khó nhất và đẹp nhất của Thế vận hội. Đội tuyển Nga thi đấu khá thành công tại Thế vận hội, chỉ thua đội Mỹ về số huy chương vàng giành được. Và Grigory Yurgin nằm trong số 14 người tham gia Olympic đã giải được bài toán 3. Giai đoạn cuối cùng trong quá trình chuẩn bị của đội cho IMO - trại huấn luyện mùa hè - như năm ngoái, diễn ra tại Trung tâm Giáo dục Sirius (Sochi). Lớp học với nhóm được thực hiện bởi các giáo viên của trại huấn luyện: phó giáo sư MIPT, tiến sĩ. I.I. Bogdanov, giáo viên FML 239 của St. Petersburg, Ph.D. S.L. Berlov, giáo viên Cơ học và Toán học, Đại học quốc gia Moscow. M.V.Lomonosova, Ph.D. A.A. Glazyrin, giáo viên giáo dục bổ sung ở St. Petersburg A.S. Golovanov, giáo sư tại MIPT, Tiến sĩ Khoa học Vật lý và Toán học V.L. Dolnikov, phó giáo sư tại MIPT, Ph.D. P.A. Kozhevnikov, nhà nghiên cứu cấp cao tại chi nhánh St. Petersburg của Viện Toán học mang tên. Steklova RAS F.V.Petrov, giám đốc và giảng viên FML 239 của St. Petersburg, Ph.D. M.Ya.Pratusevich, giáo viên FML 239 St. Petersburg K.A. Sukhov, phó giáo sư MIPT, Ph.D. D.A. Tereshin, lập trình viên G.R. Chelnokov. Các trưởng nhóm cảm ơn Dmitry Yuryevich Deukhen, người đã hỗ trợ đội Nga trong các cuộc thi toán học quốc tế trong nhiều năm.
+
+⟦column⟧
+
+Đây là bảng kết quả thành tích của đội chúng tôi (mỗi bài toán được ước tính trên 7 điểm) và kết quả đồng đội của 20 đội xuất sắc nhất. Thông tin đầy đủ về kết quả tại Olympic Toán quốc tế có trên trang web chính thức của Olympic: www.imo-official.org
+
+Bài toán thế vận hội
+
+1. Cho tam giác BCF vuông tại đỉnh B. Điểm A thuộc đường thẳng CF sao cho FA = FB và F nằm giữa A và C. Chọn điểm D sao cho DA = DC và AC là phân giác của góc DAB. Chọn điểm E sao cho EA = ED và AD là phân giác của góc EAC. Điểm M là trung điểm của đoạn CF. Cho điểm X sao cho AMXE là hình bình hành (trong đó AM P EX và AE P MX ). Chứng minh rằng các đường thẳng BD, FX và ME cắt nhau tại một điểm.
+
+nước Bỉ
+
+2. Tìm tất cả các số nguyên dương n sao cho có thể viết đúng một trong các chữ cái I, M hoặc O vào mỗi ô của bảng $n \times n$ sao cho: i ở mỗi hàng và trong mỗi cột có đúng một phần ba là chữ cái I, đúng một phần ba là chữ cái M và đúng một phần ba là chữ cái O; cũng như tôi trên mỗi đường chéo, số ô là bội số của ba, chính xác một phần ba là chữ cái I, chính xác một phần ba là chữ cái M và chính xác một phần ba là chữ cái O. Lưu ý. Nếu các hàng và cột của bảng $n \times n$ được đánh số từ 1 đến n theo thứ tự thông thường thì mỗi hàng

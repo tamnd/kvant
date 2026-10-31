@@ -1,0 +1,56 @@
+---
+id: 2016-3-zadachi-876cb046
+issue: kvant_2016_3
+year: 2016
+number: "3"
+title: Bài toán
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 26
+page_last: 26
+tag: 7TKT
+lang: vi
+source: kvant_digital
+extraction: native
+content_sha256: 18e6039fac19f84936fcc53ac8125c04257bd19987b6057469da57956f111b10
+prompt_sha256: draft-1
+translated_from: content/ru/2016/03/articles/03_zadachi-876cb046.md
+source_content_sha256: 19dabfb1b2b9c0f403b22ac6015d13d68ad3ca4d08ff9423e7880fc4a94b43be
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+“SỐ LƯỢNG” CHO HỌC SINH THI
+
+Bài toán
+
+1.
+
+Dunno có năm thẻ chứa các số: 1, 2, 3, 4 và 5. Hãy giúp anh ấy tạo ra hai số từ những thẻ này - một số có ba chữ số và một số có hai chữ số - sao cho số đầu tiên chia hết cho số thứ hai. A. Shapovalov
+
+⟦column⟧
+
+4.
+
+Một góc của một tam giác bằng $60\infty$ và cạnh đối diện với góc này bằng 1/3 chu vi của tam giác. Chứng minh rằng tam giác này là tam giác đều. M. Volchkevich
+
+2.
+
+Hai con ốc sên bò trên bề mặt hình bánh rán của hành tinh, để lại dấu vết: một con dọc theo đường màu đỏ và con kia dọc theo đường màu xanh lam (như trên hình). Các vết ốc sên chia bề mặt hành tinh thành mấy phần? S. Smirnov, I. Yashchenko
+
+5.
+
+Anya muốn viết vào từng ô của bảng
+
+5 ¥ 8 mỗi lần một chữ số sao cho mỗi chữ số xuất hiện ở đúng bốn hàng. (Chúng ta đếm cả cột và hàng của bảng là hàng.) Chứng minh rằng cô ấy sẽ không thành công. E. Bakaev
+
+Những bài toán này chủ yếu dành cho học sinh lớp 6–8. Những bài toán này đã được đưa ra tại Lễ hội Toán học XXVII.
+
+Minh họa của D. Grishukova
+
+3.
+
+Tại cuộc thi “Nào, quái vật!” 15 con rồng đứng thành một hàng. Số đầu của những con lân cận chênh nhau 1. Nếu một con rồng có nhiều đầu hơn cả hai con rồng lân cận thì nó được coi là xảo quyệt, nếu nó có ít hơn cả hai con rồng lân cận thì được coi là mạnh, còn những con còn lại (kể cả những con đứng trên rìa) được coi là bình thường. Có đúng bốn con rồng xảo quyệt liên tiếp - có 4, 6, 7 và 7 đầu và đúng ba con mạnh - có 3, 3 và 6 đầu. Con rồng đầu tiên và cuối cùng có số đầu bằng nhau. a) Hãy cho một ví dụ về cách điều này có thể xảy ra. b) Chứng minh rằng số đầu của con rồng thứ nhất trong mọi ví dụ đều bằng nhau. A. Shapovalov, I. Yashchenko
