@@ -1,0 +1,42 @@
+---
+id: 1975-10-kto-pobedil-f33a8e63
+issue: kvant_1975_10
+year: 1975
+number: "10"
+title: Ai đã thắng?
+rubric: smes
+page_first: 18
+page_last: 18
+page_labels: "16"
+tag: NF46
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: aa0c049db8575997451d62ee53d47240e7cfcbdc6f3c169189148e432e2f230c
+prompt_sha256: draft-1
+translated_from: content/ru/1975/10/articles/11_kto-pobedil-f33a8e63.md
+source_content_sha256: f3e5fcd9c03f627b23cd39912a6db3cbaed55d55f12984b27bb691fee9f88965
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 16⟧
+
+Cơm. 7.
+
+cũng như các thiết bị bán dẫn khác nhau có đặc tính dòng điện-điện áp giảm dần. Đây là cách nhiều máy tạo dao động điện từ hiện đại hoạt động.
+
+Bài tập
+
+1. Chất làm mềm được treo bằng một ống lót trên trục nằm ngang quay đều. Giải thích tại sao, nếu ma sát giữa ống lót và trục xe khô thì có thể xảy ra dao động liên tục (còn gọi là nam châm Froud).
+
+2. Đặc tính dòng điện-điện áp của sự phóng điện trong chất khí trong một số trường hợp có dạng $N$ (Hình 7). Theo đặc tính dòng điện-điện áp đã cho của quá trình phóng điện, cường độ dòng điện cực đại trong mạch bao gồm một ống phóng điện mắc nối tiếp, điện trở $R$ và một nguồn có hằng số e. d. c. $\mathcal{E}$, từ giá trị điện trở $R$.
+
+3. Chứng minh bằng định luật Ôm rằng dòng điện trong mạch gồm một vôn hồ quang mắc nối tiếp, điện trở và nguồn có hằng số e. d. c. Ổn định với trở kháng mạch dương.
+
+4. Một hồ quang điện có trong mạch dao động đôi khi bắt đầu “hát”, tái tạo những âm thanh khá thuần khiết. Giải thích hiện tượng này.
+
+Ai đã thắng?
+
+Hãy tưởng tượng một bàn tròn được chia thành 6 khu vực bằng nhau: $A, B, C, D, E, F$, tại đó có 6 người chơi ngồi, mỗi người thuộc khu vực riêng của họ (xem hình). Ở giữa bàn là một đĩa quay. Nó có các mũi tên và số từ 0 đến 5 trên đó, như trong hình. Trong trò chơi, đĩa được quay 5 lần. Sau mỗi lần quay, mỗi người chơi đánh dấu số kết thúc gần khu vực của mình (nếu mũi tên chỉ vào đường viền của các khu vực thì vòng quay này không được tính đến). Người chơi có nhiều điểm nhất sau 5 lần quay sẽ thắng. Trong hình, bạn thấy sự phân bổ điểm sau lần quay đầu tiên, kết quả là người chơi $C$ dẫn trước với điểm thứ năm. Người ta cũng biết rằng sau lần quay thứ hai, $D$ xuất hiện về phía trước. Cuối cùng, sau 5 lần quay, người chơi $A$ đã thắng. Đó là tất cả những gì được biết về kết quả của trò chơi. Có vẻ như không nhiều lắm. Nhưng điều này là khá đủ để xác định cuối cùng mỗi người chơi nhận được bao nhiêu điểm. Hãy thử nó!

@@ -1,0 +1,71 @@
+---
+id: 1975-7-kolpakov-saharova-yaroslavskiy-politehnicheskiy-institut-70c40735
+issue: kvant_1975_7
+year: 1975
+number: "7"
+title: Học viện Bách khoa Yaroslavl
+authors:
+  - Колпаков В. С.
+  - Сахарова Р. Н.
+rubric: praktikum-abiturienta
+page_first: 61
+page_last: 61
+page_labels: "59"
+tag: KTEH
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: ce85a5cb8ec80a9d2a224f0a7703e6135f33b06dee18799c15b051f1cbd54efd
+prompt_sha256: draft-1
+translated_from: content/ru/1975/07/articles/15_kolpakov-saharova-yaroslavskiy-politehnicheskiy-institut-70c40735.md
+source_content_sha256: 2eb8e907c9027b8262620e9f76f730936f4ea36c0766a524aa6b6459407ccf96
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 59⟧
+
+4. Với những giá trị nào của $m$ phương trình
+$$\lg mx = 2 \lg (x+3)$$
+có hai gốc thực sự khác nhau?
+5. Cạnh đáy của một đường thẳng tứ giác đều bằng $a$ và hai góc ở đáy bằng $\alpha$. Tìm diện tích mặt cắt của đường thẳng bằng mặt phẳng chia nó làm đôi cho hai góc ở đáy.
+B. A. Tonyan
+
+Học viện Bách khoa Yaroslavl
+Tôi nói về Học viện Bách khoa Yaroslavl năm «Kvant», 1974, số 7.
+Trong số này, chúng tôi xuất bản các phiên bản của các bài viết về toán học và bài toán bài thi vấn đáp về vật lý, được cung cấp tại YAPI vào năm 1974.
+
+Toán học
+Tùy chọn 1
+1. Tại đáy của đường thẳng là một tam giác vuông có góc nhọn là $\alpha$ và bán kính của đường tròn nội tiếp là $r$. Mỗi ranh giới bên tạo thành một góc $\alpha$ với đáy. Tìm thể tích của đường thẳng.
+2. Giải phương trình
+$$\frac{1}{\log_6(3+x)} + \frac{2 \log_0,25(4-x)}{\log_2(3+x)} = 1.$$
+3. Tìm miền xác định của hàm
+$$y = \arcsin(4x^2 + 2x - 1) + \sqrt{\frac{(x-2)(x-3)}{x^2}}.$$
+4. Giải phương trình
+$$\sin^3x - \cos^3x = \sin^2x - \cos^2x.$$
+Tùy chọn 2
+1. Trong một hình chữ nhật tứ giác đều, một mặt phẳng được vẽ qua cạnh của đế một góc $\beta$ với nó. Xác định diện tích của phần kết quả nếu trung điểm của độ thẳng bằng $a$ và ranh giới bên của mặt phẳng cơ sở nằm ở một góc $\alpha$.
+2. Giải hệ phương trình
+$$\begin{cases} \sqrt{x-y} + \frac{1}{2} \sqrt{x+y} = \frac{26-y}{\sqrt{x-y}}, \\ 10^3 - \lg(x-y) = 250. \end{cases}$$
+3. Giải bất đẳng thức
+$$\frac{9}{1 - \log_1/2 \sqrt{x}} - \frac{1}{1 \log_2 x - 1} > 2.$$
+4. Giải phương trình
+$$2 \sin^4 2x - \sin^2 2x \sin 4x = 2 \sin^2 2x - \sin 4x.$$
+Tùy chọn 3
+1. Xác định thể tích và mặt bên của một hình lăng trụ thẳng có đáy là tam giác đều có một góc ở đỉnh $\alpha$ và cạnh đối diện $b$, nếu đường chéo của một trong các mặt bên bằng nhau nghiêng với mặt phẳng đáy một góc $\beta$.
+2. Giải hệ phương trình
+$$\begin{cases} x - y + \sqrt{\frac{x-y}{x+y}} = \frac{20}{x+y}, \\ x^2 + y^2 = 34. \end{cases}$$
+3. Tìm miền xác định của hàm
+$$y = \lg(\sqrt{x^2 - 5x + 6} - x - 2).$$
+4. Giải phương trình
+$$\cos \frac{4}{3}x + \sin^2 \frac{3}{2}x + 2 \sin^2 \frac{5}{6}x = \cos^2 \frac{3}{2}x.$$
+Vật lý
+1. Một mảnh thủy tinh rơi xuống nước với gia tốc $a=5,8$ $m/c^2$. Mật độ của kính $\rho$ là bao nhiêu? Mật độ của nước là $\rho_1 = 10^3$ $\kappa e/m^3$.
+2. Công suất $N$ có thể đạt được đối với dòng chảy vào súng trường tự động Volga với tốc độ $v=100$ km/h, nếu diện tích bề mặt LOB của xe là $S=2,5$ $m^2$? Mật độ không khí $\rho=1,29$ $\kappa e/m^3$.
+3. Một con lăn đầm có bán kính $R=0,5$ $m$ lăn trên một hòn đá nằm trên đường có chiều cao $h=5$ cm. Khối lượng của con lăn là $m=2.10^3$ $\kappa e$. Xác định lực kéo ngang $F$ cần thiết để di chuyển con lăn qua đá.
+4. Một hòn đá được ném một góc $\alpha=60^\circ$ so với phương ngang. Động năng của hòn đá lúc đầu là $T_0=100$ j. Động năng ($T$) và thế năng ($\Pi$) của hòn đá ở điểm cao nhất trong quỹ đạo của nó là bao nhiêu? Sức cản của không khí không được tính đến.
+5. Không khí từ bán cầu Magdeburg được làm mát đến áp suất $p_1=8$ mm ppm. cm. Bán kính của bán cầu $R=50$ cm. Phải tác dụng lực nào $F$ để tách hai bán cầu? Áp suất khí quyển $p=758$ mm ppm. cm.
+6. Phải tác dụng lực nào $F$ vào hai đầu của thanh thép có mặt cắt ngang $S=10$ cm² để thanh thép không bị giãn ra khi được nung nóng từ $t_1=0^\circ C$ đến $t_2=40^\circ C$? Mô đun Young của thép $E=2,1 \times 10^{11}$ n/m2. Hệ số giãn nở tuyến tính của thép là $\alpha=12.10^{-6}$ erad$^{-1}$.
+7. Không khí có khối lượng $m=4$ $\kappa e$, ở trong xi lanh ở nhiệt độ $t_1=20^\circ C$. Bao nhiêu công sẽ được thực hiện khi đun nóng đẳng áp đến nhiệt độ $t_2=100^\circ C$? Khối lượng phân tử của không khí

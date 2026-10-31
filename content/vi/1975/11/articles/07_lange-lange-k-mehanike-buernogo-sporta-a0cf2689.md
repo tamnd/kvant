@@ -1,0 +1,57 @@
+---
+id: 1975-11-lange-lange-k-mehanike-buernogo-sporta-a0cf2689
+issue: kvant_1975_11
+year: 1975
+number: "11"
+title: Về cơ chế chèo thuyền trên băng
+authors:
+  - Ланге В. Н.
+  - Ланге Т. И.
+rubric: osnovnye-stati
+page_first: 23
+page_last: 23
+page_labels: "21"
+tag: HKCU
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 1a2d7bb59baf30da8ded07d006861ab86446dc37e1376aa4023e901c163cecc1
+prompt_sha256: draft-1
+translated_from: content/ru/1975/11/articles/07_lange-lange-k-mehanike-buernogo-sporta-a0cf2689.md
+source_content_sha256: 13876d4b23e0a27307cb0447f6f19d0b4edfcbe4824e69b52b18a5adf4c06d4c
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 21⟧
+
+Về cơ chế chèo thuyền trên băng
+
+V. N. Lange, T. I. Lange
+
+Buer là một bệ gắn trên giày trượt, trên đó gắn cột buồm với cánh buồm.
+
+Các cuộc đua thể thao đầu tiên trên thuyền băng ở Nga diễn ra vào năm 1890 tại St. Petersburg. Kể từ đầu thế kỷ 20, hoạt động chèo thuyền trên băng đã trở nên rất phổ biến, đặc biệt là ở vùng Baltic. Kể từ năm 1947, giải vô địch thuyền băng của Liên Xô đã được tổ chức thường xuyên.
+
+Đua thuyền băng là một cảnh tượng rất đẹp. Các bệ có cánh màu trắng nhẹ lướt nhanh trên các đường chạy bằng kim loại trên bề mặt băng mịn. Tốc độ của tàu băng với sự điều khiển khéo léo đạt tới 100 km/h. Và đây là điều đáng ngạc nhiên: nếu bạn thay đổi tốc độ gió vào thời điểm này, nó có thể ít hơn hai hoặc thậm chí ba lần!
+
+Hóa ra chiếc thuyền băng không có chuyển động của riêng nó đã vượt qua cơn gió! Làm sao? Rốt cuộc, gia tốc xảy ra do lực ép từ không khí lên cánh buồm. Mọi người ơi, tốc độ cao nhất có thể đạt được chính là tốc độ của gió. Nhưng chúng ta không được quên rằng cánh buồm của một con thuyền có thể được điều khiển. Chính “sự thao tác chèo thuyền” mới cho phép người ta đạt được tốc độ “siêu gió”.
+
+Để hiểu cơ chế tăng tốc của tàu băng, hãy xem xét ví dụ sau.
+
+Cho khối ABCD có các mặt AB và AD tạo thành một góc α, có thể trượt dọc theo các đường dẫn thẳng MN và PQ (xem hình). Ma sát giữa khối và các thanh dẫn hướng nhỏ đến mức thời gian ngủ không đáng kể sẽ dẫn đến chuyển động của khối. Giả sử tại điểm O theo hướng chỉ bởi mũi tên trong hình, có một lực không đổi nào đó tác dụng lên khối. Ví dụ, một thanh ép lên mặt AD. Do lực cản không đáng kể nên khối di chuyển ngay cả khi có một va chạm nhẹ và trong thời gian cho đến khi đầu thanh đi qua đường OOO', khối sẽ di chuyển dọc theo các thanh dẫn một đoạn bằng AA', chiếm vị trí A'B'C'D'. Không khó để nhận ra điều đó
+
+$$AA' = \frac{OO'}{tg\alpha}.$$
+
+Để đơn giản, chúng ta giả sử rằng chuyển động của thanh và khối là chuyển động đồng đều. Chia hai vế của đẳng thức cho thời gian chuyển động t, ta thu được mối liên hệ giữa vận tốc của vật và thanh:
+
+$$v_{бр} = \frac{v_{с}}{tg\alpha}.$$
+
+Từ đó có thể thấy rằng ở 0 < α < 45° tốc độ của khối sẽ vượt quá tốc độ của thanh, vì tg α < 1.
+
+Bây giờ chúng ta hãy quay trở lại thuyền. Nếu chúng ta giả sử rằng vị trí của thuyền băng nằm dọc theo các đường MN và PQ, cánh buồm của nó được đặt theo hướng AD và gió thổi dọc theo OOO', thì trên thực tế, đối với sự tương ứng giữa tốc độ của thuyền băng và gió, chúng ta có thể thu được biểu thức tương tự:
+
+$$v_{\sigma} = \frac{v_{в}}{tg\alpha}.$$
+
+Chúng ta chỉ xét trường hợp gió thổi vuông góc với hướng đi của tàu băng; Người đọc được phép tự mình phân tích phần còn lại.

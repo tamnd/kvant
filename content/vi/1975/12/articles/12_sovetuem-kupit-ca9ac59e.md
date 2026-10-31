@@ -1,0 +1,44 @@
+---
+id: 1975-12-sovetuem-kupit-ca9ac59e
+issue: kvant_1975_12
+year: 1975
+number: "12"
+title: Chúng tôi khuyên bạn nên mua
+rubric: smes
+page_first: 52
+page_last: 52
+page_labels: "50"
+tag: Z2AO
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 483fa0845e760fd8520b67ee8d417805b46b8a2eef9cd906273d89857b6fe808
+prompt_sha256: draft-1
+translated_from: content/ru/1975/12/articles/12_sovetuem-kupit-ca9ac59e.md
+source_content_sha256: bb20a7c659572d02f42b48ef0c3cc6605166b301c9fbf0650406e5701d827d54
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 50⟧
+
+Thứ hai lời giải. Hãy mô tả hình bình hành $E_1F_1K_1L_1$ xung quanh tứ giác $ABCD$ sao cho các cạnh của nó song song với các đường chéo của tứ giác $ABCD$ (Hình 7). Để các đường chéo $AC$ và $BD$ cắt nhau tại điểm $O$. Sau đó $\overrightarrow{OE}_1 = 2\overrightarrow{OE}$, $\overrightarrow{OF}_1 = 2\overrightarrow{OF}$, v.v. Do đó, các hình bình hành $E_1F_1K_1L_1$ và $EFKL$ được chuẩn bị, hệ số chuẩn bị là 2. Do đó, diện tích hình bình hành $E_1F_1K_1L_1$ gấp 4 lần diện tích hình bình hành $EFKL$. Tiếp theo chúng ta sẽ sử dụng Vấn đề 13.
+
+Bài toán 19. Chứng minh rằng nếu các đường chéo của một tứ giác lồi là chấn động thì diện tích của tứ giác này bằng tích độ dài các đường trung tuyến của nó.
+
+Bài toán 20. Chứng minh rằng diện tích của một tứ giác lồi bằng tích của độ dài các đường trung tuyến và sin của góc giữa chúng.
+
+Bây giờ chúng tôi mời bạn giải một số bài toán để tính diện tích.
+
+Bài toán 21. Từ đỉnh $C$ của tam giác $ABC$ vẽ đường trung tuyến $CM$. Tìm diện tích tam giác $ABC$ nếu $|AC|=13$, $|BC|=11$, $|CM|=10$.
+
+Bài toán 22 (MSU, Cơ học và Toán học, 1973). Đoạn nối trung điểm của hai đáy hình thang là 5, độ dài hai đường chéo của hình thang là 10 và 12. Tính diện tích của hình thang.
+
+Bài toán 23. Tìm diện tích của một tứ giác lồi nếu độ dài đường chéo là $d$, độ dài đường trung tuyến là $m$ và góc giữa chúng là $\varphi$.
+
+Để kết luận, chúng tôi trình bày một bài toán phức tạp hơn.
+
+Bài toán 24. Cho một tứ giác lồi $ABCD$. Các điểm $M$ và $N$ là trung điểm của cạnh $AB$ và $CD$. Các đường thẳng $AN$ và $DM$ cắt nhau tại điểm $P$, các đường thẳng $BN$ và $CM$ - tại điểm $Q$. Được biết, $|AP| = |PN|$. Chứng minh rằng diện tích tứ giác $MQNP$ bằng 1/4 diện tích tứ giác $ABCD$.
+
+Bản tiếp theo xin gửi đến địa chỉ sau: 103773, Moscow, Petrovka, 15, cửa hàng số 8 “Sách kỹ thuật”.
