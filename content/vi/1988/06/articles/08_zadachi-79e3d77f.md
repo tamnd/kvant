@@ -1,0 +1,39 @@
+---
+id: 1988-6-zadachi-79e3d77f
+issue: kvant_1988_6
+year: 1988
+number: "6"
+title: Bài toán
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 47
+page_last: 47
+page_labels: "45"
+tag: AFZO
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 5e43051af27261ba7e154e349d723c4ac8362ea9dfb07c2ffcc4801760396c90
+prompt_sha256: draft-1
+translated_from: content/ru/1988/06/articles/08_zadachi-79e3d77f.md
+source_content_sha256: a2b418eb28a9e35799189259c86e9db523b03b706be02f392ff02e6ee415c687
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 45⟧
+
+Nhiệm vụ
+
+1. Đặt các số từ 1 đến 8 vào các vòng tròn của hình ở hình, sao cho tổng của ba số tại các đỉnh của mỗi tam giác màu xanh lá cây là 13 và tại các đỉnh của mỗi tam giác màu nâu là 14.
+
+2. Giải câu đố số hiển thị ở hình. Các số giống nhau ứng với các chữ cái giống nhau, các số khác nhau ứng với các chữ cái khác nhau.
+
+3. Trong giải đấu cờ vua, Zhenya và Sasha chơi cùng số ván, bị ốm và bỏ thi đấu. Những phần còn lại của du lịch phải được hoàn thiện. Tất cả 23 trận đã được chơi trong giải đấu. Zhenya và Sasha có chơi các giải đấu với nhau không?
+
+4. Máy tính in ra hai số: $2^{1987}$ và $5^{1987}$. Cô ấy đã gõ bao nhiêu số?
+
+5. Tất cả các cạnh và đáy hộp bìa cứng (không có nắp) đều là các hình vuông có diện tích 1. Cắt hộp thành ba mảnh sao cho có thể gấp lại thành hình vuông có diện tích 5.
+
+Những nhiệm vụ này được cung cấp cho chúng tôi bởi: N.I. Abilov, học sinh lớp 6 trường Leningrad N. Ykovleva, học sinh lớp 10 trường Gaagrin V. Bliznekov, học sinh lớp 10 trường Kharkov V. Pushchiya, V.V. Proizvolov.

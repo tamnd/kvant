@@ -1,0 +1,55 @@
+---
+id: 1988-4-iz-kataloga-nesuschestvuyuschih-obektov-664ee6ff
+issue: kvant_1988_4
+year: 1988
+number: "4"
+title: '[Từ “Danh mục các vật thể không tồn tại”]'
+rubric: kvant-ulybaetsya
+rubric_sub: «Квант» улыбается
+page_first: 63
+page_last: 63
+page_labels: "61"
+tag: 23AV
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 9766e5b4cf86d4e0ea4e5122b22c293407da7499aac0ff115ca5f535a220700f
+prompt_sha256: draft-1
+translated_from: content/ru/1988/04/articles/12_iz-kataloga-nesuschestvuyuschih-obektov-664ee6ff.md
+source_content_sha256: 3b575b188130931e872e2fbe99c233dd465c5b69e235403adbb877f9c318fd31
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 61⟧
+
+Áp suất trong chất lỏng giữa các tấm nhỏ hơn $\Delta p=2\sigma/d$ so với áp suất khí quyển. Điều này có nghĩa là các tấm được ép vào nhau lớp $F=\Delta pS$, trong đó $S=a^2$ là diện tích của tấm. Để xé tấm này khỏi tấm khác, lực này phải được bù lại. Kết quả là, thay thế dữ liệu số, chúng ta tìm được lực nâng:
+
+$$F=\frac{2\sigma}{d}a^2=4,8\text{ H.}$$
+
+Tuy nhiên, hóa ra, việc tách các tấm bằng cách hạ chúng xuống nước không tốn kém gì. Bạn cũng có thể làm cho bài toán dễ dàng hơn bằng cách di chuyển chúng so với nhau.
+
+Để tự chủ, chúng tôi khuyên bạn nên giải quyết bài toán sau.
+
+Urazhennya
+
+1. Sai số tương đối nào xảy ra khi đo áp suất khí quyển dọc theo chiều cao của cột đất, nếu đường kính trong của ống khí áp là $d=5\text{ mm}$ và hệ số căng bề mặt của thủy ngân là $\sigma=0,48\text{ H/m}$? Liệu một phong vũ biểu như vậy có đánh giá thấp hay đánh giá quá cao các kết quả đọc được không?
+
+2. Ống mao dẫn được ngâm trong nước sao cho chiều dài của phần không ngâm là $l=0,2\text{ m}$. Nước dâng lên trong ống tới độ cao $l/2=0,1\text{ m}$. Ở vị trí này, đầu trên của ống được giữ bằng một ngón tay và ống được ngâm trong nước cho đến khi mực nước trong ống bằng mực nước trong bình. Tìm chiều dài phần ống nhô ra khỏi mặt nước ở vị trí này. Áp suất khí quyển bên ngoài $p_0=10^5\text{ Pa}$.
+
+3. Hai bánh pudding xà phòng có kích thước khác nhau được nối với nhau bằng một ống (hình 7). Cái nào sẽ xì hơi?
+
+4. Lều có viền bảo vệ tốt khỏi jedr, nhưng nếu một tay chạm vào trần lều trong khi chơi DJedr, trần nhà có bắt đầu “rò rỉ” không? Tại sao?
+
+5. Một giọt chất lỏng ướt sẽ di chuyển đi đâu trong mao quản hình nón nằm ngang?
+
+6. Trên bong bóng xà phòng có bán kính $R$ có một bong bóng có bán kính $r$. Bán kính cong của màng ngăn cách chúng là bao nhiêu?
+
+Tin tức kỹ thuật
+
+Vít có hai đầu. Để buộc chặt hai tấm ván, một shurpa như vậy là đủ. Sức mạnh của kết nối được đảm bảo. Móng tay hai đầu. Rất hữu ích cho những người yêu thích thủ công bị lác. Máy đa năng. Búa mở nhanh giúp tiết kiệm thời gian đáng kể.
+
+Chiếc búa cong. Hình dạng đặc biệt của nó cho phép dễ dàng thêm vào những móng tay khó tiếp cận nhất.
+
+Từ “Danh mục các đối tượng không tồn tại”

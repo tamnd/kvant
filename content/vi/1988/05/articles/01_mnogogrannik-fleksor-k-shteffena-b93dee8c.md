@@ -1,0 +1,33 @@
+---
+id: 1988-5-mnogogrannik-fleksor-k-shteffena-b93dee8c
+issue: kvant_1988_5
+year: 1988
+number: "5"
+title: '[C. Khối đa diện uốn cong Steffen]'
+rubric: smes
+page_first: 68
+page_last: 68
+tag: K5ZZ
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 972c381e7bef5d733e3fbe5b84dd1bce0bbde363b6fa21d57226575b2c365733
+prompt_sha256: draft-1
+translated_from: content/ru/1988/05/articles/01_mnogogrannik-fleksor-k-shteffena-b93dee8c.md
+source_content_sha256: e1844552d8676b8af39bae15dc60e9edc469df345e46146aa33c38812c9e0a24
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+Có thể biến dạng một đa tạp không liên tục sao cho tất cả các mặt của nó không thay đổi và chỉ có các góc hai chiều thay đổi? Nói cách khác, liệu có thể loại bỏ sự đa dạng? Hóa ra là có thể.
+
+Rõ ràng, trang đầu tiên của trang bìa cho thấy loại đơn giản nhất được biết đến rất nhiều - một loại máy uốn, được đề xuất bởi Klaus Steffen, và một hình ảnh phản chiếu của chiếc máy uốn này.
+
+Sự phát triển của flex này bao gồm hai đế bằng nhau và một nắp (xem hình). Các giá trị của a, b, c, d, e đều tốt: a=12, b=10, c=5, d=11, e=17. Sau khi cắt phần đế, bạn cần dán các cạnh lại với nhau theo cặp sao cho tại một đỉnh (được đánh dấu bằng vòng tròn sáng) phần đế lồi về một hướng, còn ở đỉnh còn lại (được đánh dấu bằng vòng tròn tối) - theo hướng ngược lại, sao cho toàn bộ phần đế không bị lồi.
+
+Đế thứ hai được dán theo cách giống hệt nhau nên cả hai đế đều có thể thẳng hàng với nhau. Sau đó, các phần đế được dán lại với nhau sao cho mỗi phần có hai gân rời, bốn gân này được đậy kín bằng nắp. Đa tạp uốn kết quả là dư thừa không liên tục: nó có thể được nén và mở ra một chút bằng cách thay đổi các góc hai chiều ở các cạnh.
+
+Cắt→cô lập→dán keo và bạn sẽ có được dụng cụ uốn Steffen.

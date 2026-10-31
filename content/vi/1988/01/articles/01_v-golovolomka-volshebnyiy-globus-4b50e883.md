@@ -1,0 +1,36 @@
+---
+id: 1988-1-v-golovolomka-volshebnyiy-globus-4b50e883
+issue: kvant_1988_1
+year: 1988
+number: "1"
+title: '[Câu đố về quả cầu ma thuật]'
+authors:
+  - В. Н.
+rubric: smes
+page_first: 68
+page_last: 68
+tag: IFWW
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: a05d9fb908ec4be866a93098a64bdbe89b3491c2783e06772ff83d0e861c5b64
+prompt_sha256: draft-1
+translated_from: content/ru/1988/01/articles/01_v-golovolomka-volshebnyiy-globus-4b50e883.md
+source_content_sha256: 198acb953cfaefbebce0f8bc8827b07ffbed222645c7b14d4d20116217062f8b
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 90⟧
+
+Bạn có để ý rằng trên quả địa cầu được hiển thị ở trang 1. che đậy, Antaritida “chuyển” sang châu Phi? Và nếu muốn, chúng tôi có thể gửi nó đến Châu Á hoặc Châu Mỹ... Quả địa cầu không thể dạy được này được mô tả bởi không ai khác ngoài Erne Rubik, người luôn đứng sau khối ma thuật nổi tiếng của ông. Tại đây, ông đề xuất trộn 30 mảnh vuông của bề mặt địa cầu, di chuyển chúng thành tổng thể 12 mảnh dọc theo đường xích đạo và hai kinh tuyến, sau đó khôi phục lại trật tự ban đầu. Trong năm đó, gần như tất cả các trang cuối cùng của trang bìa «Kvant» đều được trao cho những người rasskars về các hình cầu hoán vị và chúng trở thành lời giải. Để không lặp lại, giờ đây chúng ta sẽ chỉ tập trung vào một số tính năng đặc biệt của quả cầu Rubik.
+
+Trước hết, chúng ta lưu ý rằng bất kỳ cặp hình vuông đối xứng đường kính nào cũng luôn chuyển động theo:
+
+```markdown
+движется всегда согласно: можно представлять их как основания местной четырехугольной прismsы. Поэтому достаточно следить только за 15 квадратками — по одному из каждой пары, например, засевым полушарием и поливной экватора (рис. 1). «Сборку» глобуса можно вести в такой порядке: северное полушарие без экватора и полоса N — экватор без пары E, W (рис. 2) — пара E, W — пара N, S. Первая трудность встретился при сборке экватора. Здесь работает показанная синими стрелками на рисунке 2 операция K₁ = AC⁻³A⁻¹C³, где A — поворот экватора на 1 квадраток no стрелке (рис. 1), C⁻³ — поворот меридиана NE на 3 квадратка против часов стрелки (рис. 1) и т. д. Но этой операцииxbатает только, чтобы занать квадратки на свой места, при этом они могут оказаться поверхными относительно правильно положения. Развернуть их так, как нужно, позволяет операция K₂K₃ (поворот E и S на 90°,
+N и W — на −90°; см. красные стрелки на рисунке 3), где K₂ = B⁻³A⁻³B³A³, K₃ = C⁻³A³C³A⁻³ (K₂ циклические переставляет три пары квадратков по синем стрелкам — рис. 3, K₃ возвращает их обратно поверхными иначе). Когда установлено все, кроме E, N, W и S, нужно с помощью операции F = (K₁A)⁵A⁶ (рис. 2) отправить на место квадраток E и повернуть его описанным выше способом. Остается пара N, S, для которого имеется, казалось бы, 8 разных положений: N может быть на северном или южном полюсе и на каждом из мест допустимы 4 поворота. В действительности возможно только 2 варианта: либо N и S стоит правильно, либо повернуть около оси NS на 180°, причем «плохой» варант исправляется операцией (K₂K₃R)², где R — поворот всего глобуса на 180° вокруг оси NS. Поясим, почему N (и S)
+```
+
+Hình 1. Hình 2. Hình 3.

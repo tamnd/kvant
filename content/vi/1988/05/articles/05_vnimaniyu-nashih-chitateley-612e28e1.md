@@ -1,0 +1,60 @@
+---
+id: 1988-5-vnimaniyu-nashih-chitateley-612e28e1
+issue: kvant_1988_5
+year: 1988
+number: "5"
+title: Xin độc giả chú ý!
+rubric: smes
+page_first: 30
+page_last: 30
+page_labels: "28"
+tag: 3PIU
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: b8182c241ef83461d867bb330b9b3ab778ca2bb9713d3d083e8294fbea717614
+prompt_sha256: draft-1
+translated_from: content/ru/1988/05/articles/05_vnimaniyu-nashih-chitateley-612e28e1.md
+source_content_sha256: bda10641c1d6d2e90f399e01b1c229458d7b31ae881b8f00a431d51b773040fe
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 28⟧
+
+Theo quy định, nó là một tỷ lệ phần trăm. Mẫu này được đặt trong một buồng nơi nó được giữ ở nồng độ oxy được lựa chọn đặc biệt, tại đó chỉ nhôm mới có thể oxy hóa. Các nguyên tử oxy bắt đầu khuếch tán vào mẫu. Ở rìa của nó, một hợp kim gồm ba nguyên tố được hình thành - đồng, nhôm và oxy. Sự bắt đầu của quá trình được thể hiện dưới dạng sơ đồ ở hình 4.
+
+Trong vùng hợp kim bậc ba, phản ứng oxy hóa nhôm xảy ra. Trong trường hợp này, các nguyên tử nhôm và oxy rời khỏi mạng tinh thể đồng và “tổ chức” pha độc lập của riêng chúng - oxit Al₂O₃. Các kẽ hở của lưới đồng được giải phóng và các phần oxy mới sẽ đi vào chúng từ bên ngoài. Nhưng nguồn cung nhôm ở rìa mẫu sẽ sớm cạn kiệt. Toàn bộ vùng bên ngoài trở nên đơn giản hóa bằng oxit và các quá trình oxy hóa sẽ tiến xa hơn - vào sâu trong mẫu, nơi oxy sẽ liên tục được “bơm lên” từ bề mặt. Khi vùng phản ứng đi qua toàn bộ mẫu, quá trình kết thúc: toàn bộ nhôm được chuyển hóa hoàn toàn thành oxit*).
+
+Oxit bên trong đồng được hình thành dưới dạng các hạt rất nhỏ có kích thước hàng trăm angstrom (1Å=10⁻⁸ cm). Chúng có thể nhìn thấy rõ ràng dưới kính hiển vi điện tử.
+
+Cũng cần nói thêm rằng toàn bộ quá trình thực hiện đều có ý nghĩa
+
+*) Chính xác hơn là còn lại rất ít nhôm, nồng độ của nó trở thành “bột”.
+
+Xin độc giả chú ý!
+
+Cửa hàng Akademika ở Chisinau gửi sách trả tiền mặt từ nhà xuất bản Nauka:
+
+Vasiliev N.V., Gutenmacher V.L., Rabbot Zh.M., Toom A.L. Mô tả toán học tương ứng. — 1986. — 30k.
+
+Klimshin I. A. Thiên văn học thời đại chúng ta. - Tái bản lần thứ 3, có sửa đổi và mở rộng. - 1986. - 2 r. 30k.
+
+Mayer V.V. Sự phản xạ toàn phần của ánh sáng trong các thí nghiệm đơn giản. — 1986. — 25k.
+
+Sikoruk L. L., Shpolsky M. R. Chụp ảnh thiên văn nghiệp dư. — (Thư viện của người đam mê thiên văn học). — 1986. — 30k.
+
+Silin A. A. Trenz và chúng tôi. - (Thư viện)
+
+ở nhiệt độ cao. Như đã biết, nhiệt độ là thước đo động năng trung bình của các phân tử hoặc nguyên tử. Khi nhiệt độ tăng lên, oxy trở nên linh động hơn và toàn bộ quá trình tăng tốc đáng kể theo thời gian.
+
+Thay vì một kết luận
+
+Bây giờ chúng ta hãy tự trang bị cho mình những con số: thí nghiệm cho thấy độ dẫn điện của vật liệu không chứa oxit là 80-90% độ dẫn điện của đồng nguyên chất, điều này làm tăng tuổi thọ của sản phẩm lên hàng chục lần. Và trong đồng “xưa” vẫn còn rất nhiều “bí mật sôi sục”!
+
+Hợp kim mà chúng tôi mô tả đã trải qua một chặng đường dài từ nghiên cứu cơ sở vật lý của quy trình và tạo ra các mô hình toán học cho đến sản xuất công nghiệp. Một vật liệu tương tự dựa trên bạch kim hiện đang được tạo ra. Nhưng nó sẽ mạnh hơn đáng kể so với bạch kim nguyên chất. Sự ra đời của nó cho phép tiết kiệm rất nhiều kim loại quý.
+
+Nhìn bề ngoài, đồng nội không oxit không khác gì đồng nguyên chất, còn bạch kim nội không oxit không khác gì bạch kim nguyên chất. Và nhìn vào lớp kim loại mịn trên người anh ta, đôi khi chúng ta không nghi ngờ anh ta giữ bí mật như thế nào, “đường đời” của anh ta phức tạp đến mức nào, có bao nhiêu người chung tay giúp anh ta tồn tại và thực sự, không phải toàn bộ sự nghiệp của anh ta.
+
+Xin độc giả chú ý tại địa chỉ: 227012 Chisinau, Lenin Ave., 148, cửa hàng Akademika.

@@ -1,0 +1,61 @@
+---
+id: 1988-8-golberg-kurlyandchik-izbrannyie-shkolnyie-zadachi-3b55cbc1
+issue: kvant_1988_8
+year: 1988
+number: "8"
+title: Trường học yêu thích bài toán
+authors:
+  - Гольберг Е. М.
+  - Курляндчик Л. Д.
+rubric: raznoe
+page_first: 59
+page_last: 59
+page_labels: "57"
+tag: FHC8
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: d690d05543438392d616873b3dfffdd8a8f310db722624f58e7fbface9d22d51
+prompt_sha256: draft-1
+translated_from: content/ru/1988/08/articles/15_golberg-kurlyandchik-izbrannyie-shkolnyie-zadachi-3b55cbc1.md
+source_content_sha256: 67a22002ce64e0325eaedaa4eac612e06f348215ddda613e5d8e85f304e0be23
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 57⟧
+
+m ≥3 tồn tại số tự nhiên nhỏ nhất C(m) sao cho môi trường của các điểm C(m) bất kỳ trên mặt phẳng, trong đó không có ba điểm nào thẳng hàng thì tìm được m điểm là các đỉnh của một bức tường m lồi.
+
+Bài tập 8. Chứng minh định lý Erdős-Szekers.
+
+Bài tập
+1. Có 17 tiểu bang trên hành tinh Trái đất. Một số người trong số họ là bạn bè của nhau, một số là thù địch và một số thì trung lập với nhau.
+
+Trường học yêu thích bài toán
+
+lớp tám
+1. Tìm số nhỏ nhất có thể biểu diễn theo ba cách khác nhau là 13a+73b, trong đó a và b là các số tự nhiên.
+2. Tìm các số tự nhiên k và n nếu biết các số kn và n^k được viết (theo hệ thập phân) có cùng chữ số nhưng theo thứ tự ngược lại với nhau.
+3. Đặt x₁ là nghiệm của phương trình x²+px+q=0 và x₂ là nghiệm của phương trình x²-px-q=0. Chứng minh rằng phương trình x²+2px+2q=0 có nghiệm nằm giữa x₁ và x₂.
+4. Trên các cạnh BC và CD của hình vuông ABCD lấy các điểm E, F sao cho EC=2EB và FC=FD. Chứng minh góc AEB bằng góc AEF.
+5. Cho A, B, C, D là các đỉnh liên tiếp của tứ giác lồi ABCD. Chứng minh rằng nếu AB+BD<AC+CD thì AB<AC.
+lớp chín
+6. Trong dãy a₁, a₂, ..., aₙ, các đẳng thức a₁=3 và aₙ+1=aₙ²-2 đúng với mọi n. Chứng minh rằng mọi số hạng của dãy này đều là số nguyên tố cùng nhau theo từng cặp.
+7. Chứng minh rằng nếu x₁+\frac{1}{x₂}=x₂+\frac{1}{x₃}=...=xₙ+\frac{1}{x₁}, thì x₁=x₂=...=xₙ hoặc |x₁x₂...xₙ|=1.
+8. (Vấn đề trang trại). Trên đường kính AB ta thu được AD đơn bằng cạnh của đường thẳng nội tiếp
+
+trong một vòng tròn với một người bạn. Chứng minh rằng ở Zemlyama có ba trạng thái thân thiện theo cặp, hoặc ba trạng thái thù địch theo cặp, hoặc ba trạng thái trung lập theo cặp.
+2. 19 đường tròn được vẽ trên một mặt phẳng sao cho môi trường của bốn đường tròn bất kỳ, trong đó có ba đường tròn có một điểm chung. Chứng minh rằng có 4 đường tròn có điểm chung.
+3. Các số tự nhiên từ 1 đến 66 được tô bằng 4 màu. Chứng minh rằng trong số đó có ba số x, y, z cùng màu sao cho x+y=z.
+
+lớp mười
+11. Chứng minh rằng số 11...122...2 (10 đơn vị và 10 số 2) là tích của hai số nguyên liên tiếp.
+12. Tìm các số a, b, c, d nếu biết a2+b2+c2+d2=ab-bc-cd-d+2/5=0.
+13. Bên trong tứ diện ABCD lấy điểm O sao cho thể tích của các tứ diện OABC, OBCD, OACD, OABD bằng nhau. Chứng minh rằng tổng các vectơ $\overrightarrow{OA}, \overrightarrow{OB}, \overrightarrow{OC}, \overrightarrow{OD}$ bằng 0.
+14. Đáy của tứ diện là một tam giác đều, diện tích các mặt bên bằng nhau. Biết cạnh của đáy có chiều dài a, một cạnh bên có chiều dài b. Tìm độ dài của hai cạnh bên còn lại.
+15. Tìm tất cả các phương trình lời giải $\sin^3 x+\cos^3 x=\frac{1}{2}$ thuộc khoảng [0; π].
+
+Ấn phẩm đã được chuẩn bị
+E. M. Golber, L. D. Kurlyanduk

@@ -1,0 +1,44 @@
+---
+id: 1988-10-vnimaniyu-nashih-chitateley-1dbc27b6
+issue: kvant_1988_10
+year: 1988
+number: "10"
+title: Xin độc giả chú ý!
+rubric: smes
+page_first: 18
+page_last: 18
+page_labels: "16"
+tag: WYBV
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 6c33f7d79922d63dd6a4b983ad2ddb087c5516d408bef674f51f88abe0b89e05
+prompt_sha256: draft-1
+translated_from: content/ru/1988/10/articles/05_vnimaniyu-nashih-chitateley-1dbc27b6.md
+source_content_sha256: 112fce96bfc04e83690d6a36ca9b4e86feacb031539002d63ba9a34663f46054
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 16⟧
+
+Xin độc giả chú ý!
+
+Cửa hàng số 1 “Akademika” ở Ufa gửi sách thu tiền khi giao hàng từ nhà xuất bản “Nuka”:
+Baturin Yu. M. Luật và chính trị trong giới máy tính.—1987.—40 trang.
+Ginzburg V.L. Về vật lý và vật lý thiên văn. Số liệu thống kê và hiệu suất. (Nuka. Thế giới quan. Cuộc sống).—1985.-1 r. 80k.
+Thí nghiệm Kapitsa P. L.. Lý thuyết. Luyện tập. Số liệu thống kê và hiệu suất.
+
+Ed. 4-e, vòng quay. và bổ sung (Nuka. Thế giới quan. Cuộc sống).—1987.—2 r.
+Klein F. Toán tiểu học từ góc nhìn cao hơn: Gồm 2 tập. Dịch. với anh ấy. T. 1. Số học. Đại số. Phân tích.—1987.—1 r. 40k.—T. 2. Hình học.—1987.—1 r. 40k.
+Klimshin I. A. Khám phá vũ trụ.—1987.—1 r. 50k.
+Kozel S. M., Rashba E. I., Slavatinsky S. A. Bộ sưu tập bài toán về vật lý. Hướng dẫn đào tạo về cuộc gọi. Ed. 2-e, làm lại và bổ sung - 1987. - 75 k.
+Marochnik L. S. Hẹn hò với sao chổi. (Thư viện «Kvant»).—1985.—35 k.
+Rybasenko V. D., Rybasenko I. D. Chức năng nguyên tố. Công thức, bảng biểu, đồ thị.—1987.—2 r.
+Silin A. A. Trene và chúng tôi. (Thư viện «Kvant»).—1987.—35 k.
+Gửi đơn đặt hàng tới: 450059 Ufa, st. P. Eorde, 10 tuổi, cửa hàng Akademika.
+
+ra x tìm giao điểm của ba mặt phẳng thuộc họ ta, tương ứng với ba giá trị của x. Khi đó mỗi x sẽ tương ứng với một điểm trong không gian; tập hợp các điểm này tạo thành đường cong không gian mong muốn.
+
+Vì vậy, việc mô tả bề mặt của họ mặt phẳng $x^4 + px^2 + qx + r = 0$ bao gồm các đường thẳng tiếp xúc với một đường cong trong không gian. Những bề mặt đang phát triển như vậy là nhân vật chính trong bài viết nói trên của D. B. Fuchs. Bề mặt chúng tôi xây dựng được gọi là khớp nối. Trong bài báo của D. B. Fuchs, bề mặt này được mô tả theo phong tục vẽ nó ở thời đại chúng ta; vào ngày hình 15, mượn từ cuốn sách “Toán học cơ bản từ góc nhìn cao hơn” của F. Klein, nó được mô tả từ một góc nhìn khác. Nhìn vào hình 15 và so sánh nó với hình trong bài viết "Hình học của một tờ giấy". Bạn có nhận ra cái đuôi khớp trong bức ảnh của chúng tôi không?

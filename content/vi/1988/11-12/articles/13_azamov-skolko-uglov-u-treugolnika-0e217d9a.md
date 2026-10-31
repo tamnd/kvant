@@ -1,0 +1,62 @@
+---
+id: 1988-11-12-azamov-skolko-uglov-u-treugolnika-0e217d9a
+issue: kvant_1988_11-12
+year: 1988
+number: 11-12
+title: Một hình tam giác có bao nhiêu góc?
+authors:
+  - Азамов А. А.
+rubric: kvant-ulybaetsya
+rubric_sub: «Квант» улыбается
+page_first: 48
+page_last: 48
+page_labels: "46"
+tag: IYXO
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 86fb7b1492bcf065acb2eaaac4f9f3a271b14ab5977ac3b6908f41188a75f382
+prompt_sha256: draft-1
+translated_from: content/ru/1988/11-12/articles/13_azamov-skolko-uglov-u-treugolnika-0e217d9a.md
+source_content_sha256: 4d3caff9b41ae3c1560f2401b4d1aba2f1123e361ae6f3d8749ba9ad727b7e3e
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 46⟧
+
+Một hình tam giác có bao nhiêu góc?
+
+- Tất nhiên là ba. Nó được gọi là TAM GIÁC.
+
+- À, nói chung có ba góc trong. Và nếu bạn đếm tất cả các góc của một hình tam giác, kể cả các góc bên ngoài, thì sẽ có mười góc trong số đó.
+
+- Các góc bên ngoài có liên quan gì đến nó?
+
+- Mặc dù anh ấy không hỏi “có bao nhiêu góc trong?” mà là “một tam giác có bao nhiêu góc?” Góc ngoài của tam giác là một khái niệm cụ thể liên quan đến khái niệm chung “góc của tam giác”, nên góc ngoài là một góc của tam giác.
+
+- Tôi không đồng ý. Việc thêm tính từ vào danh từ không phải lúc nào cũng làm nổi bật trường hợp đặc biệt. Nếu không, chúng ta sẽ phải tìm các góc, các góc đặc, v.v. của một tam giác có hai ranh giới.
+
+- Ngoài ra, khi vẽ hình tam giác thì hình ảnh
+
+chỉ ảnh hưởng đến các góc bên trong.
+
+- Cả hai người đều sai. Một hình tam giác có sáu góc!
+- Tại sao thế này?
+
+- Bởi vì có ba góc từ bên trong và ba góc nữa từ bên ngoài. Họ được miêu tả!
+
+- Trong trường hợp này, mỗi đỉnh có 4, tổng cộng có 12 góc.
+
+- Và điều này phụ thuộc vào cách bạn đếm: ở mỗi đỉnh bạn có thể nhìn thấy tối đa 12, tổng cộng là ba mươi sáu góc.
+
+- Thế này thì quá nhiều rồi!
+- Không có gì. Nếu chúng ta tính đến việc mỗi tia xác định hai góc 0° và 360° thì có 60 góc như vậy. Sáu mươi bảy!
+
+— Khi người ta nói “góc của một tam giác”, các cạnh của nó sẽ được kéo dài theo tia.
+
+- Có lẽ điều này là không đủ cho bạn?
+- Đúng! Các góc của một hình tam giác tối vô cùng, vô số.
+
+(Về phần kết xem trang 56)

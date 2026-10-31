@@ -1,0 +1,47 @@
+---
+id: 1988-1-yavelov-genrih-gerts-i-elektromagnitnyie-volnyi-37d5296a
+issue: kvant_1988_1
+year: 1988
+number: "1"
+title: Heinrich Hertz và sóng điện từ
+authors:
+  - Явелов Б. Е.
+rubric: raznoe
+rubric_sub: Разное
+page_first: 50
+page_last: 50
+page_labels: "48"
+tag: J9L9
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 4d1661363913d021a45319e289bbaf5d527b2d29fd7f0375da08cda8a78eebef
+prompt_sha256: draft-1
+translated_from: content/ru/1988/01/articles/14_yavelov-genrih-gerts-i-elektromagnitnyie-volnyi-37d5296a.md
+source_content_sha256: f57bd85ac1486670296e25784ff209ca00b6216bfbe89371095345eaefb6acd5
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 48⟧
+
+Heinrich Hertz và sóng điện từ
+
+Nhà vật lý lỗi lạc người Đức Heinrich Hertz sinh năm 1857 tại Hamburg trong một gia đình luật sư. Ngay trong những năm đi học, cậu bé cực kỳ khỏe mạnh, sắc sảo được phát hiện là người đa tài - cậu có trí nhớ tuyệt vời, khả năng vẽ, ngôn ngữ, sáng tạo kỹ thuật tuyệt vời (ví dụ, cậu đã tự mình chế tạo một chiếc kính quang phổ xuất sắc và các dụng cụ vật lý và thiên văn khác), tỏ ra rất quan tâm đến khoa học chính xác và sự giàu có. Năm 1880, Hertz tốt nghiệp Đại học Berlin, hoàn thành luận án tiến sĩ xuất sắc về lý thuyết điện động lực học. Người giám sát khoa học của ông vào thời điểm đó là nhà vật lý đầu tiên ở Châu Âu, G. Helmholtz (1821-1894), người mà ông làm trợ lý trong ba năm tiếp theo.
+
+Helmholtz, người đã chia sẻ cuộc đời mình từ nhiều vấn đề về sinh lý học, vật lý và công nghệ, vào thời điểm này đặc biệt quan tâm đến điện động lực học. Ông đã phát triển phiên bản lý thuyết điện động lực học của riêng mình, cạnh tranh với các lý thuyết được đề xuất trước đó của W. Weber (1804-1891) và J. C. Maxwell (1831-1879). Năm 1879, Viện Hàn lâm Khoa học Berlin, theo sáng kiến ​​của Helmholtz, đã trao giải cho cuộc thi bài toán: “Để xác định bằng thực nghiệm liệu có mối liên hệ giữa lực điện động và sự phân cực điện môi hay không”. Lời giải cái này bài toán, theo Helmholtz, phải là đáp số, lý thuyết điện động lực học nào tương ứng với sự thật. Tất nhiên, anh nhận ra rằng chiến thắng sẽ là đứa con của chính mình. Không có gì ngạc nhiên khi Helmholtz đề nghị nhận bài toán Hertz này, người mà ông coi là tài năng nhất trong số nhiều học trò của mình - đặc biệt là vì một năm trước đó ông đã nhận được giải thưởng từ Đại học Berlin cho nghiên cứu thực nghiệm về điện động lực học.
+
+Hertz đã cố gắng giải bài toán bằng cách sử dụng dao động điện, phát sinh trong quá trình phóng điện của tụ điện và cuộn dây cảm ứng. Tuy nhiên, nhà khoa học trẻ không thể thu được kết quả rõ ràng nào. Và đã rõ tại sao: những rung động có tần số cao hơn đáng kể - hoặc, như người ta nói lúc đó, nhanh hơn - cần có những rung động hơn những rung động mà các nhà vật lý có thể kích thích vào thời điểm đó.
+
+Năm 1883, Hertz nhận được chức vụ trợ lý giáo sư tại Đại học Kiel, và năm 1885, ông trở thành giáo sư vật lý thực nghiệm tại Trường Trung học Kỹ thuật ở Karlsruhe.
+
+Theo nhà khoa học, người ta biết rằng, sau khi thất bại ở Berlin với bài toán Helmholtz, tuy nhiên, ông vẫn giữ được một đường đi đáng tin cậy đến lời giải của nó, và kể từ đó mọi thứ liên quan đến rung động điện luôn thu hút sự chú ý của ông. Sự quan tâm dai dẳng này đóng một vai trò quan trọng trong thực tế là quan sát được thực hiện vào mùa thu năm 1886 không chỉ là lý do để Hertz quay trở lại “cho đến thời điểm tốt hơn” bài toán và giải quyết nó, mà còn trở thành điểm khởi đầu trên con đường dẫn đến một khám phá thay thế của ông - việc phát hiện thử nghiệm sóng điện từ.
+
+Đây là loại quan sát gì?
+
+Ở Karlsruhe, Hertz bố trí một phòng vật lý với bộ sưu tập dụng cụ khoa học phong phú. Cùng với các thiết bị khác trong kho vũ khí này, nhà khoa học, trong các thí nghiệm trình diễn tại các bài giảng, đã sử dụng một cặp cuộn dây cảm ứng có khe hở có thể điều chỉnh tinh vi giữa các quả bóng kim loại ở hai đầu cuộn dây (hình 1) bằng micromet. “Tôi thấy ghê tởm,” Hertz sau đó nói, nhớ lại cách ông đã tổ chức buổi thuyết trình với những cuộn dây này, rằng để kích thích tia lửa điện ở một trong các cuộn dây thì không cần thiết phải nối một cục pin mạnh với cuộn dây kia. Nói một cách tường thuật, tất cả những gì cần thiết là một bình Leyden nhỏ hoặc thậm chí là sự phóng điện từ một cuộn cảm nhỏ - giá như một tia lửa điện thoát ra [qua khe hở của cuộn dây sơ cấp." Hãy để tôi chỉ ra rằng kết luận này không hề được đưa ra "ngay lập tức". Để khẳng định mình trong đó, Hertz đã tăng chiều rộng khe hở tia lửa của cuộn dây thứ cấp lên một phần trăm milimét, bắt đầu làm việc trong phòng tối và tìm kiếm những tia lửa đẹp và đáng kinh ngạc qua kính lúp.
+
+Sau khi thực hiện một loạt các thí nghiệm về cơ bản là đơn giản nhưng được cân nhắc kỹ lưỡng, Hertz đã đi đến một niềm tin chắc chắn: các tia lửa điện trong cuộn dây thứ cấp bị kích thích bởi sự phóng tia lửa điện trong cuộn sơ cấp không phải do một hiệu ứng cảm ứng đơn giản mà do sự phóng điện sơ cấp tạo ra chính xác những “rung động điện rất nhanh”, việc không thể tiếp cận được nó đã khiến anh ấy không thể giải quyết được cuộc thi bài toán của Học viện Berlin.
+
+Hiểu được bản chất của hiện tượng, nhà khoa học đã hiểu cách tạo ra hiệu quả
