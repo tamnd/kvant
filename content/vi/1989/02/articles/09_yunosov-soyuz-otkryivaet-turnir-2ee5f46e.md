@@ -1,0 +1,79 @@
+---
+id: 1989-2-yunosov-soyuz-otkryivaet-turnir-2ee5f46e
+issue: kvant_1989_2
+year: 1989
+number: "2"
+title: “Liên minh” khai mạc Giải đấu
+authors:
+  - Юносов Е. Н.
+rubric: raznoe
+rubric_sub: Разное
+page_first: 47
+page_last: 47
+page_labels: "45"
+tag: LFZO
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: eb3ba514969b5407fb100b0b30825ac234abf6fced92bd9314c38ccf4f646564
+prompt_sha256: draft-1
+translated_from: content/ru/1989/02/articles/09_yunosov-soyuz-otkryivaet-turnir-2ee5f46e.md
+source_content_sha256: 403c73b7dc834b39a34441da99fcdbaf73a5d7413d5676c20256102487ea6c0a
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 45⟧
+
+“Liên minh” khai mạc Giải đấu
+
+Mỗi nhà thám hiểm vũ trụ đều đi theo con đường riêng của mình tới các vì sao. Hiệp hội hàng không vũ trụ toàn diện Soyuz đề xuất bắt đầu cuộc hành trình này với sự tham gia của một số nhà thám hiểm không gian ở Touripra. Các chuyến tham quan tương tự (về vật lý) đã được Đại học Moscow thực hiện trong hơn mười năm. Và chúng luôn khác thường và thú vị. Chà, Turip bắt đầu...
+
+Bài tập cho cuộc thi tập thể thư tín
+Điều kiện bài toán được hình thành càng ngắn gọn càng tốt. Bản thân bạn nên đưa ra các giả định cần thiết và quy trình hợp lý, chọn mô hình để mô tả hiện tượng này và thuật toán lời giải bài toán, đồng thời kiểm tra kết quả thu được.
+
+1. Đồng hồ. Bạn đã đến thăm một hành tinh neculo và đang có kế hoạch quay trở lại hành tinh đó sau mười nghìn hoặc thậm chí một triệu năm nữa. Bạn sẽ để lại chiếc đồng hồ nào trên hành tinh này để thay đổi chính xác thời điểm bạn vắng mặt trên hành tinh này?
+
+2. Hiệu chỉnh quỹ đạo. Một vệ tinh nặng 50 tấn chuyển động theo quỹ đạo tròn ở độ cao 200 km so với bề mặt Trái đất. Các thông số quỹ đạo của nó thay đổi như thế nào nếu các divgel của vệ tinh cung cấp cho nó một xung bổ sung $10^4$ kg m/s
+
+a) dọc theo đường bay?
+
+b) vuông góc với quỹ đạo trong mặt phẳng quỹ đạo?
+
+b) vuông góc với mặt phẳng quỹ đạo?
+
+3. Chi phí sửa chữa. Công tối thiểu phải được thực hiện bởi các divgel của vệ tinh để quay mặt phẳng quỹ đạo một góc (và?
+
+4. Các vệ tinh liên quan Điều cần thiết là hai vệ tinh có khối lượng 10 và 50 tấn phải nằm trên cùng một đường thẳng với tâm Trái đất. Đề xuất cách tiết kiệm chi phí nhất để duy trì định hướng vệ tinh này nếu khoảng cách giữa các vệ tinh
+
+a) 100 mét,
+b) 10 km.
+
+5. Câu cá từ vệ tinh. Có thể hạ thấp tàu thăm dò từ vệ tinh đứng yên trên cáp xuống bề mặt Trái đất hoặc ít nhất là xuống các lớp dày đặc của khí quyển không?
+
+6. Bảo vệ Metoritic. Phát triển hệ thống bảo vệ tàu vũ trụ khỏi micromet và thiên thạch cỡ trung bình. Nếu hệ thống của bạn không tắt, thì phi hành gia có bao nhiêu thời gian để phát hiện và ứng phó với một lỗ có đường kính 1 mm do thiên thạch xuyên qua trên thân tàu?
+
+7. Lỗ đen. Làm thế nào để tưởng tượng rằng tàu vũ trụ của bạn đang tiếp cận một lỗ đen và làm thế nào để tránh một cuộc chạm trán khó chịu như vậy?
+
+8. Sao chổi. Hãy tưởng tượng rằng một sao chổi băng giá có khối lượng $10^{15}$ kg có thể đến Trái đất sau vài năm nữa. Xây dựng dự án phòng chống thiên tai.
+
+9. Phi hành gia. Khoảng cách di chuyển tối đa mà một phi hành gia có thể mong đợi là bao nhiêu?
+
+a) ở trình độ phát triển công nghệ hiện nay?
+
+6) trong tương lai xa, khi gần như mọi khó khăn kỹ thuật sẽ được khắc phục?
+
+10. Thí nghiệm không gian. Hãy để chuyến thám hiểm tới sao Hỏa gồm có tám người. Bạn sẽ phân bổ trách nhiệm như thế nào trong một nhóm như vậy? Làm thế nào để tránh tình huống xung đột trong chuyến bay Trái đất-Sao Hỏa-Trái đất?
+
+11. Băng hình. Đề xuất kịch bản cho một bộ phim khoa học hoặc giáo dục dài 5-10 phút sẽ không có trong phòng thí nghiệm vũ trụ.
+
+12. Cuộc đối đầu vĩ đại. Được trang bị kính viễn vọng và các dụng cụ vật lý khác, bạn có thể thiết lập các quan sát có hệ thống về Sao Hỏa. Chia sẻ quan sát của bạn với chúng tôi.
+
+13. Gia tốc trọng trường. Chứng minh phương pháp sử dụng trường đá granit của các hành tinh để tăng tốc tàu vũ trụ. Bạn sẽ đề xuất bắt đầu chuyến bay của tàu thăm dò đến rìa của Hệ Mặt trời vào năm nào và vào ngày nào, nếu Sao Hỏa được sử dụng để tăng tốc lời giải? Tốc độ khởi đầu của tàu thăm dò là 15 km/s.
+
+14. Khí quyển của Mặt Trăng. Hãy tưởng tượng rằng bạn đã tạo ra được bầu khí quyển của Trái đất trên Mặt trăng. Mô tả các thông số và tính chất của nó. Cô ấy sẽ “giảm cân” nhanh như thế nào và làm thế nào để duy trì được bầu không khí như vậy?
+
+15. Bóng đá trên mặt trăng. Có lẽ trong tương lai Mặt trăng, trái đất sẽ trở thành một nơi an nghỉ tồi tệ. Thật không may, người hâm mộ bóng đá sẽ phải thất vọng. Cung cấp một trò chơi tích cực cho các cá nhân trên Mặt trăng thú vị như bóng đá.
+
+(Về phần kết xem trang 61)

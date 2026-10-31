@@ -1,0 +1,27 @@
+---
+id: 1989-4-golovolomki-s-provolokoy-d95ccf92
+issue: kvant_1989_4
+year: 1989
+number: "4"
+title: '[Câu đố về dây]'
+rubric: smes
+page_first: 84
+page_last: 84
+tag: B3YF
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: fe733f8ba75bb1df4b5172b58ad8017164967f3ce457057583f8713502520131
+prompt_sha256: draft-1
+translated_from: content/ru/1989/04/articles/01_golovolomki-s-provolokoy-d95ccf92.md
+source_content_sha256: 67986ac90d0d2857f074de47c1ffa4345c305ee38c79aa5d815a2301b7464f1e
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+Làm thế nào để luồn dây dày qua khe hẹp? Bất cứ ai muốn tính toán những con số được hiển thị sẽ gặp khó khăn khi phải vắt óc suy nghĩ về điều này. Nhưng người đọc «Kvant» cũng nên quan tâm đến một câu hỏi thuần túy hình học: ở độ rộng l nhỏ nhất có thể có khoảng cách tính toán là bao nhiêu nếu đường kính dây bằng d?
+
+Tại hình A là mặt cắt ngang của khối đố có hình các con vật (hình 1) ở vị trí chỗ trống tại thời điểm tính toán. Rõ ràng, l ở đây l=($\sqrt{2}-1$)d≈0,41d. Đối với câu đố về móng tay (hình2), việc tính toán phức tạp hơn. Nếu bạn tinh thần cắt bỏ một khu vực gần khoảng trống từ một chiếc đinh, bạn sẽ có được hai hình trụ có trục giao nhau. Khi trải rộng ra, các hình trụ này trượt theo kiểu vít dọc theo hai phần của các đinh khác giao nhau với các hình trụ. Tại thời điểm quan trọng, trục của cả bốn hình trụ có thể được biểu diễn dưới dạng các dizonal của các mặt bên của lăng kính tứ giác bên phải (hình B). Bằng cách đặt kích thước của lăng kính a và b, bạn có thể tìm thấy khoảng cách d giữa các dizonal liền kề và nó bằng đường kính lớn nhất (cho a và b) của các đinh: $d=ab/\sqrt{a^2+2b^2}=a/\sqrt{2}+tg^2(\alpha/2)$, trong đó $\alpha$ là góc mà các đinh được căn chỉnh. hìnhB hiển thị hình chiếu của lăng kính phụ của chúng ta lên đế và hai miếng hình trụ của một chiếc đinh. Rõ ràng, chiều rộng của khoảng cách giữa các mảnh này là l=a-d=($\sqrt{2}+tg^2(\alpha/2)-1$)d. Cụ thể, tại $\alpha=90^\circ$ không được nhỏ hơn ($\sqrt{3}-1$)d≈0,73 d. Khoảng cách được tính tương tự cho hai câu đố còn lại.

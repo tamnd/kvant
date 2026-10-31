@@ -1,0 +1,44 @@
+---
+id: 1989-8-vechernyaya-fizicheskaya-shkola-pri-mgu-2b6ea287
+issue: kvant_1989_8
+year: 1989
+number: "8"
+title: Trường thể chất buổi tối tại Đại học quốc gia Moscow
+rubric: raznoe
+page_first: 80
+page_last: 80
+page_labels: "78"
+tag: DCGJ
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: b8a97e58ef4bcabfbaedb72c70710ce68dc2feb61241503705770629abdb6e9d
+prompt_sha256: draft-1
+translated_from: content/ru/1989/08/articles/22_vechernyaya-fizicheskaya-shkola-pri-mgu-2b6ea287.md
+source_content_sha256: 692711b4e5bf6be4c8f67f6564c95bc1ebceea20ebe398e7d44e95cc97da3e6d
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 78⟧
+
+17. “Tổ chức lao động khoa học – KHÔNG”. Bạn sẽ thấy 1989 chiếc đinh giống hệt nhau (l=50 mm, Ø=2,5 mm) được đóng vào một thanh gỗ. Bạn sẽ chọn chiếc búa nào để hoàn thành công việc này một cách nhanh chóng và hiệu quả? (Cụ thể hơn là khối lượng của búa và chiều dài của cán búa là bao nhiêu?)
+a) Gỗ thông.
+b) Gỗ sồi.
+
+Bài tập được chuẩn bị bởi:
+S. D. Varlamov, T. P. Korneeva, A. Yu. Kuseenko, M. Yu. Nikolaev, A. V. Rakhmanov, M. V. Stolyarov, M. M. Tsypin, E. N. Yunosov.
+
+Người tham gia và tổ chức các chuyến tham quan
+Hiện nay, các chuyến du lịch của giới trẻ ở nước ta đang có rất nhiều cơ hội. Ủy ban Giáo dục Công cộng Nhà nước Liên Xô và Ủy ban Trung ương Komsomol đã thông qua nghị quyết “Về phát triển hình thức làm việc du lịch với học sinh” ngày 9 tháng 12 năm 1988. Dựa trên nghị quyết này
+
+Trường thể chất buổi tối tại Đại học quốc gia Moscow
+
+Trường Vật lý buổi tối (VPS) thuộc Khoa Vật lý, Đại học quốc gia Mátxcơva thông báo tuyển sinh lớp 8, 9 và 10 cho năm học tới.
+
+Mục tiêu chính của VFS là giúp học sinh nghiên cứu vật lý sâu hơn trong khuôn khổ chương trình giảng dạy ở trường. Các lớp học được tổ chức vào buổi tối dưới hình thức các bài giảng, đã được tổ chức vào năm 1989: Chuyến tham quan quốc tế và toàn liên minh lần thứ hai của các nhà vật lý trẻ, Thang đo mùa đông và mùa hè toàn liên minh dành cho những người tham gia và người tổ chức các chuyến tham quan. Vào tháng 8 năm 1989, Khóa học hè toàn Liên minh được tổ chức tại Ufa, tại đó lần đầu tiên Chuyến tham quan của các nhà khoa học, nhà toán học, nhà địa chất và nhà thám hiểm không gian trẻ Khimki sẽ được tổ chức. Tuy nhiên, để phổ biến và phát triển rộng rãi Turir, chỉ thị gợi ý là không đủ. Cần huy động các đội ngũ sáng tạo của các nhà tổ chức Du lịch ở các vùng miền khác nhau của nước ta vào công việc tích cực, cụ thể. Các nhóm như vậy có thể là nhóm sáng kiến ​​của sinh viên, giáo viên, nhà giáo dục, giáo viên đại học, ủy ban trường Komsomol, tổ chức khoa học của trường đại học, học sinh trung học. Những người tổ chức các chuyến tham quan Thanh niên có thể trông cậy vào sự giúp đỡ của các nhà tổ chức giáo dục công cộng.
+
+Ngược lại, khi hoàn thành khóa đào tạo, họ sẽ nhận được chứng chỉ hoàn thành chương trình Cao đẳng Vật lý.
+
+Địa chỉ: 119899, ​​​​Moscow, GSP, Leninskie Gory, Đại học quốc gia Moscow, Khoa Vật lý, Trường Vật lý Cao cấp. Điện thoại: 939-26-56.

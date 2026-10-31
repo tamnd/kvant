@@ -1,0 +1,58 @@
+---
+id: 1989-4-kuzmin-leningradskiy-politehnicheskiy-institut-im-m-i-kalinina-4e576d79
+issue: kvant_1989_4
+year: 1989
+number: "4"
+title: Viện Bách khoa Leningrad được đặt theo tên. M. I. Kalinina
+authors:
+  - Кузьмин Ю. Н. и др.
+rubric: ekzamenatsionnye-materialy
+rubric_sub: Экзаменационные материалы
+page_first: 71
+page_last: 71
+page_labels: "69"
+tag: O9A2
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 599e5655afac9fae21a836583ef7dc9feccf64034bbf228f93dd21f3de43e692
+prompt_sha256: draft-1
+translated_from: content/ru/1989/04/articles/20_kuzmin-leningradskiy-politehnicheskiy-institut-im-m-i-kalinina-4e576d79.md
+source_content_sha256: b83966d132b774b6f2e45eaacbde60916f5d9b0d5efae6f5d37bc68ef4d58909
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 69⟧
+
+Trên thực tế, nhiệt độ ở trạng thái 2 và 4 là như nhau.
+
+3. Trên một điện trở có điện trở $R$, khi đưa vào mạch neoctor, nguồn điện $P$ được giải phóng. Nếu cùng một điện trở được mắc song song thì cùng một công suất $P$ sẽ được giải phóng trong các điện trở chung cùng nhau. Đưa ra một ví dụ về sơ đồ như vậy và chứng minh nó bằng các phép tính.
+
+4. chấm $S_1$ là hình ảnh của nguồn chính xác $S$ trong một tấm gương phẳng $M_1$, điểm $S_2$ - hình ảnh của cùng một nguồn trong gương $M_2$ (hình 10). Tìm độ dài của đoạn $S_1S_2$, Nếu như $SS_1=SS_2=a$ và góc giữa hai gương $2\alpha$.
+
+Ấn phẩm được chuẩn bị bởi S. V. Atseylov, A. P. Baraban, Yu. A. Davydov, A. E. Kuchma
+
+Viện Bách khoa Leningrad được đặt theo tên. M. I. Kalinina
+
+Toán học
+Bài thi viết
+Tùy chọn 1
+1. Giải phương trình
+$$\frac{9}{17(4\cdot 2^x-3)} - \frac{1}{4\cdot 2^x-1} + \frac{2}{17(2^x-5)} = 0.$$
+
+2. Giải bất đẳng thức
+$$15\log_{1/6}(y/36) - 4\log_{1/6}(y/36)\log_{1/6}y - 28 > 0.$$
+3. Tổng của ba số hạng đầu tiên của cấp số nhân giảm dần có giá trị dương là 13 và tổng nghịch đảo của chúng là 13/9. Tìm số hạng đầu tiên của cấp số nhân.
+4. Giải hệ bất phương trình
+$$\begin{cases} \sin x - \sin 2x + \sin 3x > 0, \\ 0 < x < \pi. \end{cases}$$
+5. Một hình nón được ghi trong một hình cầu. Chứng minh rằng tỉ số $\frac{RS}{V}$, trong đó $R$ là bán kính đáy hình nón, $S$ là diện tích xung quanh hình nón, $V$ là thể tích của quả cầu, có thể bằng $\frac{36\sqrt{3}}{25\sqrt{5}}$. Tỉ số giữa chiều cao của hình nón và bán kính của quả bóng trong trường hợp này là bao nhiêu?
+
+Tùy chọn 2
+1. Giải phương trình
+$$10 + \frac{3}{4\log_{25}x-1} - \frac{13}{6\log_5x-5} = 0.$$
+2. Giải phương trình
+$$26\sin^2x - \sin 2x = 2.$$
+3. Giải bất đẳng thức
+$$|24x^2 - 39x - 8| < |18x^2 - 25x + 32|.$$

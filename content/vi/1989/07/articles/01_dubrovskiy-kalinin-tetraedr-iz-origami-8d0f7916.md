@@ -1,0 +1,32 @@
+---
+id: 1989-7-dubrovskiy-kalinin-tetraedr-iz-origami-8d0f7916
+issue: kvant_1989_7
+year: 1989
+number: "7"
+title: '[Tứ diện Origami]'
+authors:
+  - Дубровский В. Н.
+  - Калинин А. Т.
+rubric: smes
+page_first: 84
+page_last: 84
+tag: HWJJ
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: d34012d59a5a262c87aec345daf7b376cb63de0a14bab1ea04474df63e8f30ca
+prompt_sha256: draft-1
+translated_from: content/ru/1989/07/articles/01_dubrovskiy-kalinin-tetraedr-iz-origami-8d0f7916.md
+source_content_sha256: 1bbbbb09b5fd18daf405a79a56788907ec9891099483045b1229d391bd3d6d86
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+Chúng ta tiếp tục số này với câu chuyện về origam - nghệ thuật gấp các hình từ một hình vuông bằng giấy mà không cần định vị hoặc keo dán. Các quy tắc cổ điển của origam cũng được sử dụng trong việc sử dụng la bàn, thước kẻ và những thứ tương tự. Do đó, ngay cả cấu trúc hình học đơn giản nhất cũng có thể biến thành một bài toán gây tò mò và không chuẩn mực. Với bài toán này, việc gấp một khối tứ diện đều bắt đầu: bạn cần đánh dấu trên một tờ giấy các hình tròn tạo thành một mạng lưới các hình tam giác đều (hình 1; đường chấm màu xanh lam trên hình là các “hẻm núi”, các đường màu đỏ là “gờ”, các cung đánh dấu các góc 30°).
+
+Hãy suy nghĩ về cách thực hiện việc này chỉ bằng cách sử dụng một “công cụ” - chính tờ giấy; lời giải - trong số tiếp theo. Thứ tự gấp bằng ghim đã chuẩn bị sẵn được thể hiện trong Hình 2-7. Màu sắc trên mỗi hình biểu thị đường gấp của tờ giấy trên trang này. Tại thời điểm này, A₁ và A₂ được kết hợp với A, B₁ và B₂ được kết hợp với B, để thu được tứ diện ABCD. Cạnh AB₁ phải vừa với túi được tạo thành bằng cách gấp kệ ở đầu hình vuông dọc theo các đường A₁B (hình 3, 4) và AB₂ phải vừa với túi dọc theo các đường A₂B (hình 4-6).
+
+D.K.

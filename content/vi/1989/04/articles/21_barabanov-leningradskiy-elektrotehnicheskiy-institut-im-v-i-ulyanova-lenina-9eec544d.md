@@ -1,0 +1,99 @@
+---
+id: 1989-4-barabanov-leningradskiy-elektrotehnicheskiy-institut-im-v-i-ulyanova-lenina-9eec544d
+issue: kvant_1989_4
+year: 1989
+number: "4"
+title: Viện kỹ thuật điện Leningrad được đặt theo tên. V. I. Ulyanova (Lênin)
+authors:
+  - Барабанов Н. Е. и др.
+rubric: ekzamenatsionnye-materialy
+rubric_sub: Экзаменационные материалы
+page_first: 72
+page_last: 72
+page_labels: "70"
+tag: 5FY7
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: b0a6775ea930675d4efb5fd02206ed158e714a9165a0ef2252a54b3c8ada487b
+prompt_sha256: draft-1
+translated_from: content/ru/1989/04/articles/21_barabanov-leningradskiy-elektrotehnicheskiy-institut-im-v-i-ulyanova-lenina-9eec544d.md
+source_content_sha256: 859841d2197e2f6fe688114b47b371c9a40cca68eb0a51f309e81184e43dbcde
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 70⟧
+
+4. Trong một đường tròn có bán kính $R$ vẽ đường kính và dây cung tạo thành một góc 2 arctan 1/4. Giao điểm của chúng nằm cách tâm đường tròn một khoảng $R/2$ và chia đường kính và dây cung thành hai phần. Tìm bán kính $r$ của đường tròn tiếp xúc với đường tròn ban đầu và các phần nhỏ hơn của đường kính và dây cung.
+
+5. Được biết, $A, B, C, D$ là hằng số, $16D < 49$. Tổng của hàm $\frac{1}{Ax+B}$ và $\frac{1}{Cx-1}$ bằng hàm $\frac{12x-6}{4x^2-7x+D}$. Tìm $D$.
+
+Vật lý
+
+Bài toán thi vấn đáp
+
+1. Một tờ giấy nằm trên một bàn nằm ngang, được ép bởi một thanh đồng nhất có khối lượng $m$, đầu trên của thanh này có bản lề. Phải tác dụng lực ngang tối thiểu nào vào tấm để kéo nó ra? Góc giữa thanh và tấm là $a$, hệ số ma sát giữa chúng là $\mu$. Bỏ qua ma sát giữa mặt bàn và tờ giấy.
+
+2. Một sợi dây có chiều dài $l$ với một quả bóng có khối lượng $m$ gắn vào nó bị lệch $90^\circ$ so với phương thẳng đứng và được thả ra. Một cái đinh phải được đặt cách điểm treo một khoảng cách thẳng đứng tối thiểu bằng bao nhiêu để sợi dây tựa vào nó bị đứt? Sợi chỉ có thể chịu được lực căng $T$.
+
+3. Hai thanh nằm trên mặt phẳng nằm ngang, được nối với nhau bằng một lò xo không ứng suất. Khối lượng của các thanh $m_1$ và $m_2$. Lực không đổi nhỏ nhất hướng theo chiều ngang phải tác dụng lên khối thứ nhất để khối thứ hai cũng chuyển động là bao nhiêu? Hệ số ma sát của các thanh trên mặt phẳng là $\mu$.
+
+4. Thể tích của quả bóng là $V = 224$ m³, khối lượng của vỏ là $m = 145$ kg. Quả bóng chứa đầy không khí nóng ở áp suất khí quyển bình thường. Thể tích không khí của vỏ phải bằng bao nhiêu để quả bóng bắt đầu bay lên? Nhiệt độ không khí bên ngoài vỏ $t_0 = 0^\circ\text{C}$.
+
+5. Một quả bóng cao su có thành mỏng có khối lượng $m_0 = 50$ g chứa đầy nitơ và nhúng vào hồ ở độ sâu $h = 100$ m. Tìm khối lượng nitơ khi quả bóng ở vị trí cân bằng. Liệu trạng thái cân bằng có ổn định không? Áp suất khí quyển $p_0 = 760$ mm Hg. Nghệ thuật., nhiệt độ ở độ sâu của hồ $t = 4^\circ\text{C}$, khối lượng mol của nitơ $M = 0,028$ kg/mol. Bỏ qua lực căng của cao su.
+
+6. Hai điện tích giống hệt nhau $q_1$ và $q_2$ có khối lượng $m_1$ và $m_2$ đang chuyển động hướng về nhau. Tại thời điểm khoảng cách giữa các điện tích là $r$, chúng có tốc độ $v_1$ và $v_2$. Khoảng cách tối thiểu các điện tích sẽ hợp nhất là bao nhiêu?
+
+7. Một tụ điện phẳng được đặt trong một điện trường đều, vuông góc với các bản tụ. Trường tích điện là $E = 1$ kV/m, diện tích các bản tụ là $S = 100$ cm². Những điện tích nào xuất hiện trên mỗi bản nếu tụ điện bị dây dẫn làm ngắn mạch? Các tấm tụ điện không được tích điện cho đến khi chúng đóng lại.
+
+8. Một tia sáng rơi vào một chồng tấm phẳng trong suốt có độ dày bằng nhau, giá trị của mỗi tấm nhỏ hơn $k$ lần giá trị của tấm ở trên nó. Hỏi góc tới nhỏ nhất mà chùm tia không đi qua ống khói là bao nhiêu? Chỉ báo nguồn của các tấm phía trên là $n$, số lượng tấm là $N$.
+
+9. Cần đặt một nguồn sáng chính xác ở khoảng cách bao nhiêu so với một quả cầu thủy tinh có bán kính $R$ để ảnh của nó xuất hiện ở phía bên kia của quả bóng ở cùng một khoảng cách? Chỉ báo cung cấp ngăn xếp $n$. Ảnh được tạo bởi một chùm tia hẹp gần trục quang học.
+
+10. Một điện cực nhôm phẳng được chiếu sáng bằng tia cực tím có bước sóng $\lambda = 83$ nm. Khoảng cách tối đa mà một quang điện tử có thể di chuyển từ bề mặt điện cực là bao nhiêu nếu có một điện trường hãm bên ngoài điện cực hướng $E = 7,5$ V/cm? Ranh giới màu đỏ của hiệu ứng quang điện đối với nhôm tương ứng với bước sóng $\lambda_{\max} = 332$ nm.
+
+Ấn phẩm được chuẩn bị bởi Yu. N. Kuzmin, Yu. D. Maksimov, V. N. Romanov, I. V. Rusanov, V. A. Chikhaev
+
+Viện kỹ thuật điện Leningrad được đặt theo tên. V. I. Ulyanova (Lênin)
+
+Toán học
+
+Bài thi viết
+
+Tùy chọn 1
+
+1. Cho một hàm
+
+$$f(x) = 2 - (x^2 - x + 1)(x^2 - x).$$
+
+a) Giải phương trình $f(x) = 0$.
+
+b) Tìm giá trị lớn nhất của $f(x)$.
+
+b) Phương trình $f(x) = x^2 - x + a$ có bao nhiêu nghiệm tùy thuộc vào $a$?
+
+2. Trong tam giác ABC, độ dài cạnh AC là 1, các góc $A$ và $B$ lần lượt là $a$ và $\pi/3$. Chúng ta hãy biểu thị bằng $CK$ và $AL$ chiều cao của tam giác và $m(\alpha)$ tổng độ dài của các đoạn AK và CL.
+
+a) Biểu thị $m(\alpha)$ theo $a$.
+
+b) Giải phương trình $m(\alpha) = 1$.
+
+b) Vẽ đồ thị của hàm số $m(\alpha)$. Đánh dấu tọa độ điểm cực trị.
+
+3. Hàm $y = f(x)$ được tính theo công thức $f(x) = x^4 - 2ax + a^2 - 2$.
+
+a) Tìm giá trị nhỏ nhất của hàm $f(x)$ tại $a = 2$.
+
+b) Phương trình $f(x)$ có bao nhiêu nghiệm tại $a = 2$?
+
+b) Với $a$ hàm số $f(x)$ có đúng một nghiệm?
+
+d) Với $x$ nào có $a$ sao cho $x^4 - 2ax + a^2 - 2 = 0$?
+
+Tùy chọn 2
+
+1. Cho một hàm
+
+$$f(x) = \sqrt{x + 1} - x.$$

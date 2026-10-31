@@ -1,0 +1,86 @@
+---
+id: 1989-2-kurlyandchik-izbrannyie-shkolnyie-zadachi-b5c912d9
+issue: kvant_1989_2
+year: 1989
+number: "2"
+title: Trường học yêu thích bài toán
+authors:
+  - Курляндчик Л. Д.
+rubric: shkola-v-kvante
+rubric_sub: Школа в «Кванте»
+page_first: 56
+page_last: 56
+page_labels: "54"
+tag: V97W
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: a2ec64eb5120da7cb3c1420437343194e978b2c9651e28503a89d2024a918e7c
+prompt_sha256: draft-1
+translated_from: content/ru/1989/02/articles/14_kurlyandchik-izbrannyie-shkolnyie-zadachi-b5c912d9.md
+source_content_sha256: 76a23dda6e2145d2f314c62d9383a5ccf56e45ee1aa70a3f992dd3f79d7fed76
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 54⟧
+
+Hệ quả 2. Tổ hợp của ba phép quay là một phép biến đổi đồng nhất khi và chỉ khi nó có ít nhất một điểm cố định và tổng các góc quay bằng 360° hoặc 720°.
+
+Hãy chỉ ra cách áp dụng các thuộc tính thành phần xoay cho lời giải bài toán.
+
+Bài toán. Trên các cạnh BC và CA của tam giác ABC đều dựng được các tam giác đều BCN và CAP. Tìm các góc của tam giác MON, trong đó M là trung điểm cạnh AB và O là tâm tam giác CAP.
+
+Lời giải. Để xác định hệ thống, giả sử tam giác ABC có hướng dương. Hãy thực hiện ba phép quay liên tiếp với tâm O, N, M ở các góc
+
+Trường học yêu thích bài toán
+
+lớp tám
+
+1. Giải phương trình cho mục đích số học
+$$1+x+x^2+x^3=2^y.$$
+
+2. Giải hệ phương trình
+$$x_1x_2x_3=1,$$
+$$x_2x_3x_4=-1,$$
+$$x_3x_4x_5=1,$$
+$$x_{10}x_1x_2=-1.$$
+
+3. Có 30 số được viết xung quanh một vòng tròn, mỗi số bằng hiệu modulo của hai số theo sau nó theo chiều kim đồng hồ. Tổng của tất cả các số là 20. Tìm các số này.
+
+4. Chứng minh rằng trong đường tròn bán kính 1 không thể chọn nhiều hơn năm điểm có khoảng cách từng cặp lớn hơn 1.
+
+5. Tại cuộc họp, thu thập tất cả các phần của hai chuyến đi bộ đường dài. Một số người trong số họ đã tham gia cả hai chiến dịch, một số người trong số họ chỉ tham gia một trong số đó. Trong chiến dịch đầu tiên có 60% nam giới, trong chiến dịch thứ hai - 75%. Chứng minh rằng số lượng nam giới đến dự cuộc họp ít nhất bằng số lượng nữ giới.
+
+lớp chín
+
+6. Cho hàm $p(x)=\frac{x^2}{1+x^2}$. Tìm số tiền
+$$p\left(\frac{1}{1}\right)+p\left(\frac{2}{1}\right)+...+p\left(\frac{100}{1}\right)+$$
+$$+p\left(\frac{1}{2}\right)+p\left(\frac{2}{2}\right)+...+p\left(\frac{100}{2}\right)+$$
+$$+p\left(\frac{1}{100}\right)+p\left(\frac{2}{100}\right)+...+p\left(\frac{100}{100}\right).$$
+
+7. Chứng minh rằng trong số các số có dạng $\frac{k(k+1)}{2}$ có vô số số chính phương.
+
+8. Tìm tỉ số cạnh của một tam giác mà một trong các đường trung tuyến của tam giác đó được chia theo chu vi thành ba phần bằng nhau.
+
+9. Cho MA và MB tiếp tuyến với đường tròn, C là điểm của đường tròn giới hạn bởi đường tròn này, nằm trên cung AB của đường tròn tâm M. Chứng minh rằng giao điểm của các đường thẳng AC và BC với đường tròn đã cho khác A và B, có đường kính đối diện.
+
+10. Cho tam giác đều ABC. Tìm quỹ tích các điểm M sao cho các tam giác AMB và BMC đều bằng nhau.
+
+lớp mười
+
+11. Cho a, b, c là các số dương. Chứng minh rằng
+$$(a^a b^b c^c)^2 \geq a^b+c^b+c^a+b^a.$$
+
+12. Cho a, b, c, d là các số tùy ý có tổng bằng 1. Chứng minh rằng
+$$a^2+b^2+c^2+d^2-2ab-2bc-2cd-2da \geq -\frac{1}{4}.$$
+
+13. Chứng minh rằng nếu một trong các độ cao của một khối đất cắt với hai độ cao khác thì cả bốn độ cao đều cắt nhau tại một điểm.
+
+14. Terraera có thể đặt một mũi tên trên mỗi cạnh sao cho tổng của sáu vectơ dương bằng 0 không?
+
+15. Chứng minh rằng:
+a) các số $tg^2 20^\circ, tg^2 40^\circ, tg^2 80^\circ$ là nghiệm của phương trình $x^3-33x^2+27x-3=0$;
+b) $\frac{1}{\cos^2 20^\circ}+\frac{1}{\cos^2 40^\circ}+\frac{1}{\cos^2 60^\circ}+\frac{1}{\cos^2 80^\circ}=40$.
+Ấn phẩm được chuẩn bị bởi L. D. Kurlyandchik
