@@ -1,0 +1,53 @@
+---
+id: 2018-10-eschyo-raz-o-postroenii-kasatelnoy-13a3444b
+issue: kvant_2018_10
+year: 2018
+number: "10"
+title: Once again about constructing a tangent
+rubric: raznoe
+rubric_sub: Разное
+page_first: 16
+page_last: 16
+page_labels: "14"
+tag: P3DR
+lang: en
+source: kvant_digital
+extraction: native
+content_sha256: 9813d1c5d14ac880b7296183818f981726338a6e08c59a2ad64186bc338daf5f
+prompt_sha256: draft-1
+translated_from: content/ru/2018/10/articles/01_eschyo-raz-o-postroenii-kasatelnoy-13a3444b.md
+source_content_sha256: a08dfad445d9b72567ea806ce427093e0e8fed66a072ba325504f2ae7a4c3616
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 14⟧
+
+KVANT 2018/№10
+
+minor technical ideas: using a piece that is unequally valued to create a reserve; design of the algorithm as inductive; using partitions with rapidly increasing precision (convergent series). Many of these ideas are widely known and often applied in various situations. It is very useful to have a wide range of such technical ideas. Their rich arsenal allows you to approach the problem from different angles, and this already helps to find the path to a solution. It is interesting that in the combinatorial problem the methods of small quantities, typical for analysis, work. Because of this, the found algorithm is not very effective in practice. We can't even estimate what the number of partitions will be depending on n. This means that there is still some work to be done in this task. For those interested in this topic there is a set of articles. Maybe one of the readers will be able to come up with their own section algorithm!
+
+Literature
+
+⟦column⟧
+
+Conferences of the Tournament of Cities, volume 1, 2009, p. 71–82. 2. W.Stromquist. How to cut a cake fairly. – The American Mathematical Monthly, vol. 87, No. 8, 1980, pp. 640–644. 3. S. J. Brams, A. D. Taylor. An envy-free cake division protocol. – The American Mathematical Monthly, vol. 102, No. 1, 1995, pp. 9–18. 4. S. J. Brams, A. D. Taylor, W. S. Zwicker. A moving-knife solution to the four-person envy- free cake division. – Proceedings of the American Mathematical Society, 125, 1997, pp. 547–554. 5. W. Stromquist. Envy-free cake divisions cannot be found by finite protocols. – The Electronic Journal of Combinatorics, R11, 15, 2008. 6. A.D.Procaccia. Thou shalt covet thy neighbor’s cake. – Proceedings IJCAI’09, pp. 239–244. 7. H.Aziz, S.Mackenzie. A discrete and bounded envy-free cake cutting protocol for any number of agents. – Preprint, https://arxiv.org/abs/ 1604.03655 8. H. Aziz, S. Mackenzie. A discrete and bounded envy-free cake cutting protocol for four agents. – Preprint, https://arxiv.org/ abs/1508.05143
+
+1. I.A.Ivanov, A.Ya.Kanel-Belov, S.I.Kublanovsky, A.S.Malistov. The problem about the robbers. – Selected materials from the Summer Con-
+
+The work was supported by the Russian Science Foundation grant No. 17-11-01337. The first author is a laureate of the “Young Mathematics of Russia” award.
+
+THEY WRITE TO US
+
+Once again about constructing a tangent
+
+The article by D. Shvetsov “Polyara” («Kvant» No. 5, 2017) shows how to draw tangents to this circle using one ruler from a point outside the circle. Our regular author and reader I. Vainshtein noted that this construction allows us to draw a tangent to the circle and through a point lying on the circle. Let us present a construction from I. Weinstein’s letter. Let a point E (Fig.1) be given on the circle. Through this point we draw a secant (not through the center of the circle), which will intersect the circle at point F. Take arbitrary points B and D outside the circle on the straight line EF and from them we draw tangents to the circle as indicated in the article “Polars”. Let the corresponding intersection points of the tangents be A
+
+⟦figure⟧
+
+Fig. 1
+
+and C, and the tangent points are K, L, M, N. Let the lines KL and MN intersect at point P. Then PE is the desired tangent. Indeed, it is not difficult to prove that line AC also passes through point P, lines NK and ML intersect on line BD, and points
+
+(Continued on page 25)

@@ -1,0 +1,45 @@
+---
+id: 2019-1-zadachi-17-20-a76af2b9
+issue: kvant_2019_1
+year: 2019
+number: "1"
+title: Problems 17-20
+rubric: konkurs-imeni-a-p-savina
+rubric_sub: Конкурс имени А. П. Савина
+page_first: 40
+page_last: 40
+page_labels: "38"
+tag: FEH0
+lang: en
+source: kvant_digital
+extraction: native
+content_sha256: c0dba41e2a6fdda08ae92a3f8e32aa3626e3ba8ad881af5c18959ddea9944b97
+prompt_sha256: draft-1
+translated_from: content/ru/2019/01/articles/04_zadachi-17-20-a76af2b9.md
+source_content_sha256: 62ad72ac1b7c01c30d5d6b07947471a99c0118cf45ad81519ae7ff0f931c977f
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 38⟧
+
+KVAN T 2019/№1
+
+2 (E. Gorsky). Two natural numbers x and y (x d y) are written in ascending order on the board. Petya writes $x^{2}$ on a piece of paper, and then replaces the numbers on the board with numbers x and y – x, writing them in ascending order. With the new numbers on the board, he does the same operation, and so on, until one of the numbers on the board becomes zero. What will be the sum of the numbers on the piece of paper at this moment? 3 (E. Gorsky, S. Dorichenko). The natural numbers x, y and z are written on the board. Petya writes the product of two of them on a piece of paper, and on the board reduces the third number by 1. With new
+
+⟦column⟧
+
+with three numbers on the board he does the same operation, etc., until one of the numbers on the board becomes zero. What is the sum of the numbers on the piece of paper at this moment? Hint for problems 2 and 3: come up with a geometric interpretation of the count. We recommend for further study the article by E. Bakaev “Boys, girls, tables, graphs...” («Kvant» No. 3, 2015), which also discusses the geometric approach to such combinatorial problems. (Editor's note)
+
+K O NK URS I ME N A.P.S AVINA
+
+We continue our next competition to solve mathematical problems. They are aimed primarily at students in grades 7–9, but we welcome students of all ages to participate. The competition is held jointly with the magazine «Kvant». Send solutions to the problems you can solve by email to: savin.contest@gmail.com or by regular mail to: 119296 Moscow, Leninsky Prospekt, 64-A, «Kvant» (marked “A.P. Savin Competition”). In addition to your first and last name, indicate the city, school and class in which you study, as well as your return postal address. We welcome participation in the competition not only by individual schoolchildren, but also by teams (in this case, one work is sent with a list of participants). You can participate starting from any tour. The winners will receive diplomas from the magazine «Kvant» and prizes. Assignments, solutions and results are published on sites.google.com/view/savin-contest We wish you success!
+
+17. There are 5 cards with the numbers 3, 4, 5, 6, 7. How many of them can add up five-digit numbers divisible by 55? (Card “6” cannot be turned over and used as “9”.) P. Kozhevnikov
+
+18. Petya and Vasya each bought a “Assemble a tetrahedron” construction set. The constructor contains 4 triangles – future faces of the tetrahedron. On the way, Petya lost one triangle. Noticing this at home, he ran with the remains of his designer to Vasya. Comparing the details, they discovered that among Vasya’s four triangles there were three the same as Petya’s. “Great, now I know which triangle I lost!” - Petya exclaimed. “But why are the prices of designers different?” - he thought. Could it be that the guys’ construction sets differed in one triangle, but from each construction set it was possible to assemble their own tetrahedron? L. Emelyanov
+
+19. a) Are there 100 different natural numbers, the arithmetic mean of any several of which is a natural number? b) What if we add the condition that any two numbers out of these hundred must be relatively prime? P. Kozhevnikov
+
+20. Given a checkered square 100 x 100. Some of its cells can be closed. We will say that dominoes 1 and 2 are located in a permitted manner if each occupies exactly two open cells and no two dominoes have a common boundary segment (but dominoes can have common vertices). What is the smallest number of cells that can be closed so that: a) 2; b) 100 dominoes could not be arranged in the permitted manner? E. Bakaev

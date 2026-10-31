@@ -1,0 +1,62 @@
+---
+id: 1974-12-chitateli-predlagayut-zadachi-9fdee9be
+issue: kvant_1974_12
+year: 1974
+number: "12"
+title: Readers suggest tasks
+rubric: smes
+page_first: 78
+page_last: 78
+page_labels: "76"
+tag: E44I
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: e484cb224572339a4bc8a9b1cfc12f983213a82c83cf45d88c5089416d1aff52
+prompt_sha256: draft-1
+translated_from: content/ru/1974/12/articles/20_chitateli-predlagayut-zadachi-9fdee9be.md
+source_content_sha256: 62ee9db09cf4e82a831c8080c3a05f6f7b55d850c68223baa98f25801247bc5f
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 76⟧
+
+To problems «Kvant» for younger schoolchildren"
+(see p. 65)
+1. I S K = 954.
+2. When making canned food, the jar and its contents are heated before closing. When the closed jar cools down, the air in it becomes rarefied, and the volume of the tomatoes will increase. If you now remove the lid from the jar, the air pressure becomes equal to atmospheric pressure, the tomatoes sap, and the liquid level in the jar rises.
+3. 1 house, 3 squares, 6 triangles.
+4. The buoyant force is equal to the weight of the water cube above it.
+5. The temperature in the first case is lower, since a change in temperature of 1° Fahrenheit corresponds to a change in temperature of 0.55° Celsius.
+
+To problems «Kvant» for younger schoolchildren"
+(see «Kvant», 1974, no. 11)
+1. The largest value of the sum is 45. When the sign of any term is changed to the opposite one, the result changes to a doubled term, and therefore the result will always be odd and cannot be equal to 20. Sasha probably made a mistake, and Volodya could have written 1+2—3+4+5+6+7+8—9 = 21.
+2. Most of the surface of the nail does not fall into the candle flame, the heat from this surface is radiated into the surrounding space, and the temperature of the nail remains below the temperature of the iron flame.
+3. 123×546 = 67 158.
+4. In a vacuum, a Segner wheel will rotate even faster than in air (due to the lack of resistance).
+5. —2, 2, 3, 5, 9.
+6. You have to start your traversal from one triangle and end in the other, because a triangle has an odd number of sides.
+
+Reader
+offer
+assignments
+
+1. Given are the tangent points of three pairwise tangent circles. Find the centers of these circles.
+L. Tcherezanova
+2. For what correspondence between the sides of a right-angled triangle will a triangle composed of its medians also be right-angled?
+V. V. Malinin
+3. Solve the equation
+n^n!—n!n=513
+A. Guliyev
+3. A circle is inscribed in a trapezoid. Prove that the sides of the trapezoid are visible from the center of the circle at angles of 90°
+A. Timofeev
+5. Given an arbitrary convex pentagon of area 1. The midpoints of its adjacent sides are connected. Prove that the area of ​​the resulting pentagon does not exceed 3/4.
+V. Smolko
+6. There are two triangle shapes on the fleecy material. The tailor found a fuse made of the same material, but it matches the hole on the inside. How should a tailor cut a patch to create holes?
+E. L. Guzovsky
+7. How to cut a convex n-gon using straight cuts so that its mirror image can be made from the resulting parts?
+Determine the smallest triangular number of cuts in general (depending on the number n).
+G. A. Yurina

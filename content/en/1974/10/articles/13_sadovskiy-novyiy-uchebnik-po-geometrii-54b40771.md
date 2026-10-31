@@ -1,0 +1,45 @@
+---
+id: 1974-10-sadovskiy-novyiy-uchebnik-po-geometrii-54b40771
+issue: kvant_1974_10
+year: 1974
+number: "10"
+title: New geometry textbook
+authors:
+  - Садовский Л. Е.
+rubric: retsenzii-bibliografiya
+rubric_sub: Рецензии, библиография
+page_first: 60
+page_last: 60
+page_labels: "58"
+tag: PUFN
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 0e34bb5ebf7f765df3b105ff088a6a9e808efad132bdbc8614f5d8b1957351e2
+prompt_sha256: draft-1
+translated_from: content/ru/1974/10/articles/13_sadovskiy-novyiy-uchebnik-po-geometrii-54b40771.md
+source_content_sha256: 31bd4d19ac62aa4b0e94ef85c406173ef9bcc222b46b4904a6b2b0d614a6f693
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 58⟧
+
+New geometry textbook
+
+In 1973, a rural (correction and additional) edition of the famous textbook on geometry by P. P. Andreev and E. Z. Shuvalova * appeared. In reality this is a new textbook. It is addressed to technical students, but will also be useful to all readers «Kvant» studying geometry at school and preparing for school finals and university entrance exams.
+
+In the new edition you will not find the theory of geometric transformations, which has now been excluded from the program. But the textbook presents in an accessible and rigorous presentation the course of geometry in its entirety. The section on planimetrics contains an overview of all initial information, the theory of similarity of polygons, metric relations in a triangle and a circle, methods for solving triangles. The presentation of planimetrics is mostly traditional, but it is illustrated by a large number of diverse and interesting problems. But the section on changing plane functions was written, I believe, in
+
+*) P. P. Andreev, E. Z. Shuvalova, Geometry, ed. 7th, corrected and supplemented. Approved by MB and USSR USSR as a textbook for secondary specialized educational institutions, M., “Science”, 1973, 304 pp., price 44 kopecks.
+
+a new tonality for you. Starting from the axiomatic definition of the area of ​​a flat figure, the authors move on to an (equivalent to it) constructive definition, and then to formulas for determining the areas of specific figures.
+
+Much more interesting is the section of theometrics devoted to the distance of polygons, cylindrical bodies and cones. Here the distance prism is a special case of a cylinder, and the paramda is a special case of a cone. This approach has not previously been found in popular textbooks on geometry. As you will see for yourself, this approach turns out to be very advantageous when studying the volumes and surface areas of properties and paramidas: the derivation of all the necessary formulas acquires a generality that is convenient for understanding and memorization. The formulas for volumes themselves are naturally combined into two groups, each of which is represented by one universal formula. So, for example, you will be able to prove that the volume of any cylindrical body is equal to the product of the area of ​​the base and the height, and the volume of the final body is a third of the product. In this case, the base of the cylinder can be any figure with a known area. Thus, the class of bodies whose volumes can be calculated using elementary mathematics is expanding. Based on this point of view, you will directly approach the derivation of formulas for volumes using integral calculus methods, and you will find this conclusion in accordance with the requirements of the international standards.
+
+The chapters on the ball and its parts, applications of trionometry to solving theometric problems, and much more are presented in the same clear style.
+
+In the new textbook on geometry you will find a number of methodological news, a variety of material and successfully use it to improve your knowledge of geometry.
+
+L. E. Sadovsky

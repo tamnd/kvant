@@ -1,0 +1,53 @@
+---
+id: 1974-11-ivanov-varaksin-den-yunogo-fizika-c8c729be
+issue: kvant_1974_11
+year: 1974
+number: "11"
+title: Young Physicist Day
+authors:
+  - Иванов С.
+  - Вараксин А.
+rubric: informatsiya
+rubric_sub: Информация
+page_first: 75
+page_last: 75
+page_labels: "73"
+tag: UYL1
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 4a150c0af381732afaa59e2e0c265988f8d5f761734c0828fc54fdba4af9aaf6
+prompt_sha256: draft-1
+translated_from: content/ru/1974/11/articles/19_ivanov-varaksin-den-yunogo-fizika-c8c729be.md
+source_content_sha256: aa4f04f2342e17f0c793bfb78fc6e204407436dd1e0f9cecf85ba5fbd6083bf2
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 73⟧
+
+Young Physicist Day
+
+Every year, thousands of schoolchildren, interested in physics, gather for district, city, regional olympiads, and every year interesting tasks await them, but, unfortunately, for many this is where the matter ends; few of them can talk to the winner, find out more about what physics is, use modern research equipment with their hands, listen to the stories of famous scientists. Taking all this into account, the Faculty of Physics of Leningrad State University this year for the first time held “Young Physicist Day” - a day of summing up the results of all rounds of the Physics Olympiad. The participants of this holiday were the winners of the regional Olympiads of the city of Leningrad. In total, on this day, about 600 schoolchildren of the eighth, ninth and tenth grades gathered in Peterhof to celebrate the new day of the Faculty of Physics of Leningrad State University. The grand opening of the “Young Physicist’s Day” took place in the conference hall of the main building of the Faculty of Physics. The first to speak to the participants was Deputy Dean of the Faculty of Physics V. I. Valkov.
+
+On behalf of the City Department of Public Education with the educational deputy director of the Leningrad Palace of Pioneers L.P. Bulankov brought to them.
+
+In a solemn atmosphere, the order of the Leningrad GORONO on awarding the winners was read out, and awards were presented.
+
+Then the deputy director of the Physiomatic Boarding School at Leningrad State University, A. A. Bykov, spoke about the performance of the Leningrad team at the last All-Union Olympiad in Physics and about the successes achieved. On behalf of the Komsomol district, Anatoly Varaksin, head of the patronage department of the Komsomol Committee of the Faculty of Physics, presented certificates to the winner of the Leningrad city and participants of the All-Union Olympiad.
+
+After the ceremonial part, Professor G. S. Kvater for students in grades 8-9 and Professor N. I. Kaliteevsky for students in grades 10 spoke in an engaging manner about the problems of modern physics, accompanying their presentations with experiments that are simply impossible in a secondary school.
+
+The demonstration of a film made by American cosmonauts on the Moon, which was donated to Leningrad University, aroused great interest among schoolchildren.
+
+At the end of the film, the festival participants were offered a physical Quiz. The expert conducted experiments in front of the audience, and the Quiz participants were asked to give an explanation for the observed physical phenomena. Some schools entered their teams for the quiz. Among them was the team of the Youth Physics School, which has been existing for the fourth year at the Faculty of Physics of Leningrad State University. About two hundred schoolchildren from Leningrad study there, wanting to study school physics at a deeper modern level.
+
+The answers of the Quiz participants were very interesting, and sometimes funny and naive. The winners of the Quiz received books on physics with authors' names or small physical instruments as attributes.
+
+Probably every inquisitive schoolchild, especially those interested in physics, would like to go to a real scientific laboratory. This opportunity was provided to all participants: they had at their disposal student and scientific laboratories, where scientists spoke about modern methods of physical research.
+
+At the end of the holiday, the university theater performed with a student program. She was very warmly received by the participants of the holiday. According to the “artists,” they did not expect such mutual understanding and success among such a young audience. Everyone really enjoyed this day.
+
+S. Ivanov,
+A. Varaksin

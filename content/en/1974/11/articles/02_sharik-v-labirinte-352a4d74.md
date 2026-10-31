@@ -1,0 +1,29 @@
+---
+id: 1974-11-sharik-v-labirinte-352a4d74
+issue: kvant_1974_11
+year: 1974
+number: "11"
+title: Ball in the maze
+rubric: smes
+page_first: 84
+page_last: 84
+tag: 9N45
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: d7f09575b73c728818d3422dd0eb8c4adc97f10b9636c383457a1868b980ac06
+prompt_sha256: draft-1
+translated_from: content/ru/1974/11/articles/02_sharik-v-labirinte-352a4d74.md
+source_content_sha256: 63b55ba86a6457e992e1e7dd890491d28f68a9cf33572c032418ab04314785eb
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+BALL IN THE MAZE
+
+This labyrinth is two-story. In it, the ball can move both on the first floor and on the second, and from one floor to another it gets through the holes connecting the floors.
+
+The above diagram shows the first floor at the top, and the second floor at the bottom (mirrored). The black lines in the diagrams are the paths along which the ball moves; circles are holes connecting floors. The labyrinth has 1 entrance and 2 exits (all of them are located on the ground floor). The most difficult exit to reach is the displaced stars. Try to find the shortest routes from the entrance to each exit. If you want to make this labyrinth, you will need a sheet of foam board measuring 28x32x5 cm. On the top and bottom sides of the sheet, grooves are made with a soldering iron (or a heated steel rod) at a distance of 2 cm from each other (they are shown in black in the diagrams), and in places marked in circles on the diagrams, the foam board is drilled through. 3 holes are made on two side faces. Then the top and bottom are sealed with transparent sheets of plexiglass or cellophane. You can invite your friends to throw a ball (or several balls) from a bearing into one hole, roll it around the entire maze and shake it out of another hole. You can do this: drive several balls into the depths of the maze and offer them access.

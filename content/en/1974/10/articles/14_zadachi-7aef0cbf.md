@@ -1,0 +1,86 @@
+---
+id: 1974-10-zadachi-7aef0cbf
+issue: kvant_1974_10
+year: 1974
+number: "10"
+title: Tasks
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 61
+page_last: 63
+page_labels: 59, 61
+tag: 3PQC
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: c4808e744355f3bdbc5f223093100e22f10c585ff3e6ae4155850897b25e3b2b
+prompt_sha256: draft-1
+translated_from: content/ru/1974/10/articles/14_zadachi-7aef0cbf.md
+source_content_sha256: bfe331a6b46e2354100b9f788b1a6db262dd80bda116d1a861968972dbb7db36
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 59⟧
+
+Quests
+
+1. The schoolboy had a certain amount of money in 15-kopeck coins. and 20 kopecks, and there were more twenty-kopeck coins than fifteen-kopeck coins. The student spent a fifth of all the money, giving two coins for a movie ticket. He gave half of the remaining money for lunch, paying for it in three coins.
+
+How many coins of each denomination did the schoolboy have at the beginning?
+
+2. The Earth-Sun distance is approximately 387 times greater than the Earth-Moon distance. Is it possible to use this data to estimate how many times the volume of the Sun is greater than the volume of the Moon?
+
+3. On a windy day, we are given a warm one if we “hide” from the wind. Are the thermometer readings the same in the wind and “around the corner”?
+
+4. “Moscow time is 19 o’clock,” we heard while sitting at dinner on one of the last days of our stay in the detachment’s house. And on my watch it was seven to seven. But the clock is running forward, I calculated, and by the time of my departure it will show the exact time of the train’s departure.
+
+My neighbor Tamara's watch showed four minutes to seven. But the clock ran ahead by 3 minutes. per day more than mine. Tamara was supposed to leave on the same train, at least a day earlier than me. And her watch also showed the exact time at the time of departure.
+
+How many minutes a day does our clock speed up?
+
+Figure E. Nazarova
+
+⟦folio 61⟧
+
+telny answer. Let's show this with examples.
+
+Example 2: Prove that Eq.
+$$6(x^2 + y^2) = z^2 + t^2$$
+undecidable in natural numbers.
+
+Let equation (4) be solvable in natural numbers. The right side of equation (4) is divisible by 3. It is easy to prove that this is only possible when the numbers z and t are divisible by 3:
+$$z = 3z_1, \quad t = 3t_1$$
+at the same time $z > z_1$, $t > t_1$, and therefore $z^2 + t^2 > z_1^2 + t_1^2$. Substituting the found values ​​of z and t into equation (4), we obtain
+$$6(x^2 + y^2) = 9(z_1^2 + t_1^2).$$
+
+The right side of this equation is divisible by 9, therefore the left side is also divisible by 9. This is possible only when $x^2 + y^2$ is divisible by 3. From here and from the previous one it immediately follows that
+$$x = 3x_1, \quad y = 3y_1.$$
+Now we get
+$$6(9x_1^2 + 9y_1^2) = 9(z_1^2 + t_1^2)$$
+and, reducing by 9,
+$$6(x_1^2 + y_1^2) = z_1^2 + t_1^2.$$
+The last equation differs only in indices from equation (4). So, a process has been constructed that for each solution of equation (4) gives another solution with smaller roots: $x_1 = x/3$, $y_1 = y/3$, $z_1 = z/3$, $t_1 = t/3$. And this is impossible, since the sequence, for example $t_1 > t_2 > \dots > 0$, is finite.
+
+Exercise 2. Prove that the equation
+$$7(x^2 + y^2) = z^2 + t^2$$
+has no solutions in natural numbers.
+
+Exercise 3. Prove that the equation
+$$x^2 + y^2 + z^2 = 2xyz$$
+undecidable in natural numbers.
+
+Let equation (5) be solvable in natural numbers. The right side of equation (5) is divisible by 2, therefore, its left side is divisible by 2. This is possible only when the left x, y, z are even numbers, or one of them is even, and the other two are odd. In the latter case, the right side of equation (5) is divisible by 4, and the left - only by 2. So, the numbers x, y, z are even:
+$$x = 2x_1, \quad y = 2y_1, \quad z = 2z_1.$$
+Substituting the found values ​​of z and t into equation (5), we find that
+$$x_1 = 2x_2, \quad y_1 = 2y_2, \quad z_1 = 2z_2, \quad x_2^2 + y_2^2 + z_2^2 = 8x_2y_2z_2.$$
+Accordingly, $x_k = 2x_{k+1}$ leads to an infinite sequence
+$$x > x_1 > x_2 > \dots > x_k > x_{k+1} > \dots > 0.$$
+But this sequence of natural numbers must be finite. Consequently, equation (5) in natural numbers is unsolvable.
+
+Example 4. Prove that the diagonal of a square is incommensurate with its side.
+
+Let us put aside its side $AB = BD_1$ on the diagonal of the square from point B (see figure), this will be removed only once. From the resulting point D$_1$, we restore to the diagonal of the square a perendluklar that intersects the side of the square at point B$_1$, and connect B$_1$ with B; triangles $AB_1B$ and $BB_1D_1$ are equal, since they are right-angled, side $BB_1$ is common and $BD_1 = BA$ by construction. Therefore, $AB_1 = D_1B_1$.
+
+In the right triangle $B_1CD_1$ we have $B_1CD_1 = 45^\circ$ (BC is the diagonal of the square), therefore $CB_1D_1 = 45^\circ$, and therefore $B_1D_1 = D_1C$. We proved that $AB_1 = B_1D_1 = D_1C$, hence $D_1C < CD$. Let us now restore the perpendluk to the diagonal CB at point C, set aside

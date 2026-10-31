@@ -1,0 +1,57 @@
+---
+id: 1974-11-mochalov-rebusyi-dd7974d0
+issue: kvant_1974_11
+year: 1974
+number: "11"
+title: Rebuses
+authors:
+  - Мочалов Л. П.
+rubric: smes
+page_first: 13
+page_last: 13
+page_labels: "11"
+tag: X4MH
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 03971149835fcf1b8a99a8acc3bc959230513fc70aeaf973a5823dca2cbc90a3
+prompt_sha256: draft-1
+translated_from: content/ru/1974/11/articles/05_mochalov-rebusyi-dd7974d0.md
+source_content_sha256: 0f926b70f6a4be88dfc4c3a48f51b19be182b2186731a13d2e1714703d6d70b3
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 11⟧
+
+Fig. 6.
+
+Thus, function (5) has extrema at points $x_1 = -1, x_2 = 3$.
+
+Theorem 3 also allows us to establish the nature of the extrema: $x_1 = -1$ is the maximum point, $x_2 = 3$ is the minimum point.
+
+The points $x_1 = -1, y_1 = 10$ and $x_2 = 3, y_2 = -22$ are important control points for graphing the function $y = x^3 - 3x^2 - 9x + 5$ (it is depicted in figure 6).
+
+Note that not every third degree polynomial has extremum points. Exercise 3 or 4 will convince you of this (they produce a system of equations that has no real solutions).
+
+Battles
+
+Examine the following functions to the extreme:
+1. $y = 2x^3 - 15x^2 + 36x + 6$.
+2. $y = -3x^3 + 9x^2 + 135x + 405$.
+3. $y = x^3 - 2x^2 + 19x - 4$.
+4. $y = -x^3 + 3x^2 - 4x + 5$.
+
+Rebuses
+
+In these examples some
+Some numbers are replaced by asterisks or letters (the same letters correspond to the same numbers). Restore the examples.
+
+1.
+2.
+3.
+4.
+Find the result.
+
+L. P. Mochalov
