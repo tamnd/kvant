@@ -1,0 +1,68 @@
+---
+id: 1976-2-zadachi-nashih-chitateley-47087082
+issue: kvant_1976_2
+year: 1976
+number: "2"
+title: Tasks for our readers
+rubric: smes
+page_first: 33
+page_last: 33
+page_labels: "31"
+tag: 1JIR
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: dacc2d12080ce7e254dff5d8c1d042d4c9013ce866a03accc8daa50e598979dc
+prompt_sha256: draft-1
+translated_from: content/ru/1976/02/articles/08_zadachi-nashih-chitateley-47087082.md
+source_content_sha256: 635f2c5859a504eccbe689987cb66fc9b8c0aadb6bf9952e17e19cc20499e2f1
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 31⟧
+
+A stable equilibrium of an inverted magnet will always be found.
+
+In conclusion, we suggest that you conduct an independent study of the behavior of a magnet with a vibrating suspension.
+
+Laboratory conditions require the use of a light metal rod or a piece of thick wire 15–20 cm long. At a rotation speed of 3,000 rpm, a suspension vibration amplitude of 5–6 mm is sufficient.
+
+It should be noted that for a rod that is a physical and not a mathematical magnet, in all formulas the expression $\frac{2gL}{\omega^2 x_0^2}$ must be replaced with $\frac{4gL}{3\omega^2 x_0^2}$.
+
+The 《unusual》behavior of a magnet with a vibrating suspension can easily be observed at home. You only need to have an electric razor like “Neva”, “Moscow” or “Era” and two ballpoint pen refills. Having removed the knives from the electric razor, you need to put a piece of rod 3-3.5 cm long on the legs of the razor vibrator and pierce their ends with a wire or pin (see the introductory note in the article). (This length of the segments ensures their resonance during vibrations, which increases the vibration amplitude to several millimeters.) The same wiring produced the end of a whole rod, which is a magnet.
+
+Note that this experiment is completely safe for an electric razor.
+
+Tasks for our readers
+
+1. Prove that the square of numbers
+   $* \times * = b$
+   $: \times -$
+   $* : * = *$
+   $* + * = *$
+
+in which * replaces some natural numbers, the number * b is always six. Can schoolchildren decipher this recording in different ways?
+
+U. Schulte (f. Scezulda)
+
+2. None of the three integers a, b, c is divisible by three. Prove that then it is divisible by three
+   a) $a^2 + b^2 + c^2$;
+   b) $a^{2k} + b^{2n} + c^{2m}$.
+
+3. Prove that if there exist natural numbers m and k such that $A = 12^{4k} + 3^{11m} < 200$, then the number A is prime.
+   S. Okhitin (E. Orenburg)
+
+4. It is known that for a given * n* any set of * k* natural distinct numbers, none of which is greater than * n*, contains at least three elements such that there is a triangle on the side * n* whose lengths are expressed by these numbers.
+
+What is the smallest value that *k* can take as a function of *n*?
+
+O. Beridze (e. Batumi)
+
+5. On sides AB, BC and CA of triangle ABC, points M, N and T are taken respectively such that
+   $\frac{|AM|}{MB|} = m$, $\frac{|BN|}{NC|} = n$, $\frac{|CT|}{TA|} = t$.
+
+It is known that lines MN and BT intersect at point O. Find the ratio $|BO|:|OT|$.
+
+G. Sverchkov (e. Moscow)

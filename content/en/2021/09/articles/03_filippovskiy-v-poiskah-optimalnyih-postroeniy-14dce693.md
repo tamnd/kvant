@@ -1,0 +1,63 @@
+---
+id: 2021-9-filippovskiy-v-poiskah-optimalnyih-postroeniy-14dce693
+issue: kvant_2021_9
+year: 2021
+number: "9"
+title: In search of optimal constructions
+authors:
+  - Филипповский Г. Б.
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 27
+page_last: 27
+page_labels: "25"
+tag: Q8EB
+lang: en
+source: kvant_digital
+extraction: native
+content_sha256: 1c3f287cc2e6b20b89a1c6eba69409a8484192b2cbb5b5810c6ea27533153506
+prompt_sha256: draft-1
+translated_from: content/ru/2021/09/articles/03_filippovskiy-v-poiskah-optimalnyih-postroeniy-14dce693.md
+source_content_sha256: 617328cdc84043a695a9d2061620cc567c0a84206d69d316ad72c4ec6fa6e79a
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 25⟧
+
+"QUANTUM"
+
+FOR
+
+YOUNGER
+
+⟦figure⟧
+
+Fig. 3
+
+⟦figure⟧
+
+Fig. 4
+
+a ball, but on a rocket they built. The name Gak is consonant with Gaidar’s Chuk and Gek, but where does Burtik come from? We suggest you figure this out yourself.
+
+In search of optimal constructions
+
+(from the memoirs of Baron Munchausen)
+
+MY FRIENDS, YOU HAVE UNCONDITIONALLY heard about my love for geometry! And in geometry - to construction problems. And in construction tasks - to constructions with the smallest number of lines. Such buildings
+
+DOI: https://doi.org/10.4213/kvant20210904
+
+SCHOOLCHILDREN
+
+⟦column⟧
+
+⟦figure⟧
+
+Fig. 5
+
+Don't think that the tongue has spread only to children's toys. Since 1910, Larsen tongue and groove (Fig.3) has been used in construction. All the tongues here are the same, one is connected to the other with a lock, just as open rings are connected into a chain of any length. If the chain is tight, then not a single ring can be removed. Larsen sheet piles are used to strengthen the banks of reservoirs, embankments, pits; it forms a strong vertical wall (Fig.4). In this case, the connection of individual tongues is similar to the connection of puzzle pieces, when one drives into the other (Fig.5). Such puzzles appeared in 1909.
+
+tions are often called optimal. Another passion of mine is traveling to the moon! During such travels, I willingly tell local residents about beautiful problems and theorems of geometry, and teach them optimal constructions. So, during the first trip to the Moon we were engaged in constructions using one line. Let me remind you that construction tasks are performed with a compass and a ruler without divisions, and a line is called a straight line, a ray, a segment, a circle or a part of it in the form of a serif. Of the constructions with one line, the inhabitants of the Moon especially liked this problem: on a straight line l there is an angle equal to D (Fig.1), and they need to construct an angle equal to this with one line. We are together

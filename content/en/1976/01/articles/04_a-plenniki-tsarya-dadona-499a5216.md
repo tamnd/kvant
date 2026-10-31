@@ -1,0 +1,56 @@
+---
+id: 1976-1-a-plenniki-tsarya-dadona-499a5216
+issue: kvant_1976_1
+year: 1976
+number: "1"
+title: Prisoners of King Dadon
+authors:
+  - А. Х.
+rubric: smes
+page_first: 20
+page_last: 20
+page_labels: "18"
+tag: THXH
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: b661e2c4b73f8e7b5d0de2dc181f0776260e2f839b9772a6e9c8e962983a37da
+prompt_sha256: draft-1
+translated_from: content/ru/1976/01/articles/04_a-plenniki-tsarya-dadona-499a5216.md
+source_content_sha256: 52a07b7981bdeb13f68b711b2f87dc98630bc7dd233177982b57c6eefc696df5
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 18⟧
+
+provisions However, of the two layers, this cascade contains more than half of the bonds, that is, more than $2^{r-1}$ bonds. These bonds do not intersect and, therefore, the remaining $r-1$ cascades must implement the decomposition of the bundle of these bonds, which is impossible, since the degree of this bundle is greater than $2^{r-1}$. The resulting contradiction completes the proof.
+
+Since the cascade decomposition of an arbitrary permutation (which, like $K_p$, is not a sheaf) requires no fewer cascades than the decomposition of its maximal sheaf, then it is true.
+
+Theorem 2. The minimum number of cascades required for a two-stage implementation of the permutation of stele $n$ and moltsna $p$ is no less than $\log_2 p$.
+
+We obtained a “bottom” estimate for the minimum number of cascades. Using very similar calculations, you can get an estimate from above:
+
+Theorem 3. An arbitrary permutation of the stem $n$ admits $\log_2 n [-\text{kаскадную реализацию}]$.
+
+Problem 4. Prove Theorem 3.
+
+The resulting “upper” and “lower” estimates differ little for “thick” permutations. However, for permutations of small thickness the difference in weight is limited and more accurate estimates will be needed. The next two problems provide some progress in this matter, but the exact formula for the minimum number of two-stage cascades required to decompose a given permutation is not yet known.
+
+Problem 5. Prove that the permutation of thickness $p$ admits a $(2 \cdot \log_2 p [-1])$-cascade implementation.
+
+Problem 6. Prove that the permutation of thickness $p$ admits $(2 \cdot \log_2 \frac{p}{3} [+2])$-cascade realization.
+
+Prisoners of King Dadon
+
+During the raid, King Dadon captured 100 prisoners. They were put in solitary confinement, and heavily armed guards walked along the prison corridor. Each cell was locked; All one hundred locks had a key that was kept on the chest by King Dadon. One turn of the key unlocked the lock, another turn locked it again, the next turn unlocked it again, etc.
+
+On the day of his birth, the king decided to release the prisoners, and even the day before he sent a man who inserted the key into the lock of the cascade chamber and turned it one turn. All the doors were unlocked. However, the birthday had not yet arrived, and it was impossible to leave the cells: armed guards walked along the corridor.
+
+The messenger barely managed to return the key when King Dadon changed his mind. He instructed the new messenger to turn the key in the lock of the cascade of the second chamber. The doors to the second, fourth, sixth and all other four cells were locked again. The next one made one revolution each in the locks of the third, sixth, ninth, twelfth, etc. chambers. Another one is in every fourth cell. The same thing was repeated with the next message from the king - up to the hundredth inclusive, who turned the key only in the lock of the hundredth chamber.
+
+Finally, the king's birthday insisted. The guards were removed and those in open cells were released.
+
+How many captives did King Dadon set free?

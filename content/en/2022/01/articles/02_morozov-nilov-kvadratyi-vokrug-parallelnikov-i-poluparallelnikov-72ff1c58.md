@@ -1,0 +1,51 @@
+---
+id: 2022-1-morozov-nilov-kvadratyi-vokrug-parallelnikov-i-poluparallelnikov-72ff1c58
+issue: kvant_2022_1
+year: 2022
+number: "1"
+title: Squares around parallel and semi-parallel lines
+authors:
+  - Морозов Е. А.
+  - Нилов Ф. К.
+rubric: matematicheskiy-kruzhok
+rubric_sub: Математический кружок
+page_first: 46
+page_last: 46
+tag: UTFK
+lang: en
+source: kvant_digital
+extraction: native
+content_sha256: 8acf594a7b1da15004b3572eaa1ef74935e4fed6586c4490c4b1670138c07203
+prompt_sha256: draft-1
+translated_from: content/ru/2022/01/articles/02_morozov-nilov-kvadratyi-vokrug-parallelnikov-i-poluparallelnikov-72ff1c58.md
+source_content_sha256: 7630b1e4f5750b83515648cab08f080221a499d3a2511775ae958c540ac1efd0
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+Squares around parallel and semi-parallel lines
+
+MATHEMATICAL CIRCLE
+
+E. MOROZOV, F. NILOV
+
+IN GEOMETRIC CONSTRUCTIONS it is often interesting to construct regular polygons on the sides of an arbitrary polygon. Despite the fact that similar constructions were considered by the ancient Greeks, some new results appear today. In Euclid's classic proof of the Pythagorean theorem, squares (Fig. 1,a) are constructed on the sides of a right triangle. Napoleon's theorem states that if regular triangles are constructed on the sides of an arbitrary triangle, then their centers will also be the vertices of a regular triangle (Fig. 1, b). French problem composer Victor Thébault noticed that if you build squares on the sides of a parallelogram, then their centers will form
+
+⟦column⟧
+
+make a square (Fig. 1,c). The theorem of the Flemish mathematician Van Aubel states that if we take the centers of squares built on the sides of an arbitrary quadrilateral, then they will be the vertices of a quadrilateral whose diagonals are perpendicular and have equal lengths (Fig. 1,r). Note that in Figures 1, b–d, regular triangles and squares can also be constructed inwardly; similar statements will be true for them. In this article we will build an infinite number of layers of squares around some polygons and study the properties of the resulting structure. We will solve problem M2629 (Theorem 1 below) and prove the theorems announced in the paper [1]. Consider an arbitrary (green) triangle (Fig. 2). On its sides to the outer
+
+⟦figure⟧
+
+Fig. 2. Squares around a triangle
+
+⟦figure⟧
+
+Fig. 1. Superstructures from squares and regular triangles
+
+DOI: https://doi.org/10.4213/kvant20220105
+
+side we will build white squares. We will connect some of their vertices with segments, again construct white squares on the outside, etc. In the spaces between the squares, triangles and quadrangles are formed, which we will color so that the polygons in one layer are colored the same, and in different layers - differently. Then the following theorem is true. Theorem 1. a) All colored quadrilaterals are trapezoids; b) the areas of all polygons of the same color are equal; c) the ratios of the lengths of the bases of one-color trapezoids are equal;

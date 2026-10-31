@@ -1,0 +1,44 @@
+---
+id: 1976-1-spisok-chitateley-prislavshih-pravilnyie-resheniya-23780821
+issue: kvant_1976_1
+year: 1976
+number: "1"
+title: List of readers who sent correct solutions
+rubric: zadachnik-kvanta
+page_first: 60
+page_last: 60
+page_labels: "58"
+tag: T3GN
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: d72511703b2771daa445084e3b81b628e8042d78b03cae43d0b1e19dba8993c3
+prompt_sha256: draft-1
+translated_from: content/ru/1976/01/articles/13_spisok-chitateley-prislavshih-pravilnyie-resheniya-23780821.md
+source_content_sha256: 32b52820f2099b490c4b11f5dc3c8d1645ddf7bcfc45c74869c7dee73e9917b8
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 58⟧
+
+F338. Two rods from different metals with coefficients of linear expansion $\beta_1$ and $\beta_2$ at a temperature $0^\circ C$ named low expansion lengths $l_1$ and $l_2$ and cross sections $S_1$ and $S_2$. At what temperatures will the rods have the same a) lengths? b) cross sections? c) volumes?
+
+Since the lengths, cross-sectional areas and, consequently, volumes of the rods at $0^\circ C$ differ little, we can assume that the original temperatures are such that $\beta t \ll 1$. Under these conditions, the volumetric expansion coefficient is $\alpha \approx 3\beta$, and the flat expansion coefficient is $\gamma \approx 2\beta$.
+
+The temperature $t_1$ at which the rods will have the same length can be found from the equation
+
+$$t_1 = \frac{l_1 - l_2}{\beta_2 l_2 - \beta_1 l_1}; \quad t_2 = \frac{S_1 - S_2}{2(\beta_2 S_2 - \beta_1 S_1)}; \quad t_3 = \frac{V_1 - V_2}{3(\beta_2 V_2 - \beta_1 V_1)}.$$
+
+In this issue we provide a list of readers who submitted correct solutions to problems M316 - M325 and F328 - F337 (bold numbers after the last name are the last digits of the numbers of solved problems).
+
+Matematika
+
+Most of the letters contained the correct solution problem M316. Other problems to solve: D. Azov (Chelyabinsk) 8; E. Asarin (Moscow) 8; M. Babayev (Baku) 8; I. Bandos (Kharkov) 4; V. Basmanov (Voronezh) 8; Z. Berkaliev (Karaganda) 8, 9; V. Berman (Kherson) 4; O. Bobrovich (Mogilev) 4; O. Boltenkov (Dnepropetrovsk) 8; I. Bokhan (Krasnodar station, Krasnoarmeyskaya, Krasnoarsk Territory) 8, 4; Yu. Bulavsky (Novosibirsk) 8; V. Varin (Voronezh) 8, 4; A. Verpakhovsky (Leningrad) 8; Y. Verkhovsky (Rybnoye, Moscow region) 7, 8, 9a), 26), 3, 4; A. Vorovich (Moscow) 7; A. Garnaev (Tallinn) 4; R. Gassey (village Sunzha SOASSR) 4; I. Gasko (Moscow) 4; R. Gulyazov (Navon) 9, 4; V. Gshilarkeev (village Urus-Martan Chechen Autonomous Soviet Socialist Republic) 4; S. Grishin (Rybnoye, Ryazan region) 8; M. Grishenko (GSVG) 8; A. Gusev (Abakan) 8; A. Danilov (Shumerlyach Chuv. Autonomous Soviet Socialist Republic) 4; A. Ivanov (Moscow) 7, 8; R. Izmailov (Baku) 9 a); A. Kamalyan (Ijevan) 8, 2 6), 4, 5; V. Kaplan (Kyiv) 8; I. Klevchik (village of Stavchany, Chernivtsi region) 4; L. Klimenok (Moscow) 8; A. Knyazik (Kyiv) 8, 9a), 2, 5; V. Kulakov (Leningrad) 2a), 3; K. Kupalov (Moscow) 8; D. Limvienko (Sevastopol) 7, 8, 5; O. Litsenko (Kyiv) 8; A. Maltsev (village of Kuragino, Krasnoyarsk Territory) 9a); A. Manasyan (Tbilisi) 8; E. Marynsva (Nizhyn) 8; V. Medved (Molodechno) 8, 26), 4, 5; M. Morais (Poland) 7, 8, 2, 4, 5; I. Morozov (Gorky) 8, 4, 5; S. Myazhev (Chelyabinsk) 7, 8; V. Neumann (Leningrad) 4; O. Okunev (Kazan) 5; I. Panin (Apitty) 3-5; D. Papush (Kharkov) 4; V. Parazyan (Charentsavan) 4; M. Pitamelev (Moscow) 4;
+
+P. Pobylitsa (Leningrad) 4; R. Portina (Chernivtsi) 4; S. Poslavsky (Kharkov) 7, 8, 2, 4, 5; Yu. Searchonov (Engels) 2, 4; S. Putintsev (Krasnodar) 8, 9, 26), 3-5; A. Radulu (Chisinau) 26); A. Razborov (Lyubertsy) 4; A. Reibold (village of Sokolovka, North Kustanai region) 4; V. Rozava (Tbilisi) 8; V. Rozovsky (Minsk) 4; I. Rudakov (Bryansk) 8, 9, 4; Yu. Rudak (Ternovol) 4; K. Stempak (PNR) 3; V. Tkachuk (Moscow) 8, 9a); S. Trerub (Tashkent) 7, 8, 26), 4, 5; N. Trenev (Moscow) 2a), 4; V. Trenkov (Moscow) 8, 4; V. Falko (Kharkov) 4; S. Filimonov (Leningrad) 8, 9a); Yu. Filosofov (Saratov) 8; D. Flaas (Irkutsk) 4; V. Haramonic (PNR) 7-9; S. Tsaliev (Velikiye Luki) 8; E. Tskhadadze (Tbilisi) 8; S. Shtashivili (Tbilisi) 8; K. Shahnazaryan (Baku) 8, 9a); V. Shpilrain (Moscow) 4; S. Yakovenko (Moscow) 9; V. Yatsalo (Morochne village, Rivne region) 8, 26), 4.
+
+Physics
+
+Kh. Abdulin (Alma-Ata) 1, 3, 4, 6; G. Aizin (Brest) 8; M. Alekseev (Ufa) 1, 2; K. Aliakberov (Kazan) 1; A. Askarv (Ufa) 1, 3; I. Astrov (Tallinn) 7; I. Babakulov (Kattakurgan) 4; S. Bamuev (Angarsk) 8, 1; I. Bandos (Kharkov) 3, 4; V. Bakhrushin (Ordzhonikidze) 4; A. Belikov (Moscow) 1—4, 6; V. Boyko (Moscow) 4; Yu. Boomolov (Kazan) 1, 2; A. Evening (Minsk) 3; O. Vishnevolsky (Riga) 3, 7; V. Vinoreddova (Velikie Luki) 1; I. Vyshevarko (D. Kievchini, Minsk region) 3, 4; V. Gavrilov (Kamen-Kashirsky) 1; V. Galashov (Kubinka village, Moscow region) 1; Yu. Garazhenko (Vorkuta) 2; M. Gedalin (Tbilisi) 8, 1, 2; E. Gluz (Cherκεsk) 4; O. Godin (Simferovol) 1, 3, 4, 6, 7; Yu. Gonik (Bryansk) 1, 3, 4; V. Gubeni (Ugnev) 1; S. Danilov (Drognichin) 3; V. Demchuk (Lutsk) 1; U. Jumaniyazov (Khazarasp district, Khorezm region) 6; V. Dokuchaev (Ivanovo) 1; G. Zaleskis (Vilnius) 3, 4; A. Izmailov (Zelenodolsk) 4; A. Kazakov (White

@@ -1,0 +1,51 @@
+---
+id: 2022-5-dvoryaninov-ostorozhno-protsentyi-44af51e6
+issue: kvant_2022_5
+year: 2022
+number: "5"
+title: Beware of interest!
+authors:
+  - Дворянинов С. В.
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 33
+page_last: 33
+page_labels: "31"
+tag: 2ONP
+lang: en
+source: kvant_digital
+extraction: native
+content_sha256: b895e5d04d9fbd17eb028c4898013e0ba01fa34bab996cfc993e010f5c46c70e
+prompt_sha256: draft-1
+translated_from: content/ru/2022/05/articles/01_dvoryaninov-ostorozhno-protsentyi-44af51e6.md
+source_content_sha256: 86246ab3a44496711ba9784130920a25790dbcff33f4ff4e166c458ec1aa9da2
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 31⟧
+
+"QUANTUM"
+
+FOR
+
+YOUNGER
+
+Beware of interest!
+
+S. DVORYANINOV
+
+It was in 8th grade. At a math lesson. Our teacher Ivan Petrovich gave us the following task: 4 liters of water were added to a vessel containing 5 liters of a 27% aqueous solution of a substance. What percentage is the concentration of the resulting solution? And then he added: “This task is for assessment. Whoever solves it will get an A in the magazine. Write your name and answer on a piece of paper. Hand in the leaves. It's our last lesson, so you can go home straight away. Just don’t rush!” Of course, getting an A in a magazine is tempting, especially since we solved similar problems. So quite quickly a pile of leaves grew on Ivan Petrovich’s table. Everyone went home, only Tolik Vtulkin remained in class... And the next day the most interesting thing happened. “There are 19 of you in the class, I received only 18 answers,” Ivan Petrovich began. As promised, I give fives... But only to one – Tolya Vtulkin.” How so? The class buzzed. The task is easy, essentially in one action:
+
+0,27  5 5 4
+
+1.35 9 and therefore the answer: 15%.
+
+0,15,
+
+SCHOOLCHILDREN
+
+⟦column⟧
+
+“Well, in that case, we’ll give the floor to Tolik,” said Ivan Petrovich. And that's what we heard. – In our chemistry textbook for grade 8, on page 125 it is written: The ratio of the mass of a dissolved substance to the total mass of the solution is called the mass fraction of the dissolved substance. There are also two examples given there, and both talk specifically about mass. Further on page 126 we read about the volume fraction: The volume fraction of a gaseous substance in a gas mixture is determined similarly to the mass fraction. Units of volume (liters and cubic meters) are used in the textbook in two examples when describing gas mixtures. In our problem we are talking about a 27 percent aqueous solution, for example salt or sugar. The amount of salt and sugar in exact calculations is never indicated in volumetric units. We only read this in cookbooks: take a spoonful of salt. And mathematics is an exact science! It is known how such a solution can be obtained. Take 27 g of salt and 73 g of water, or 27 kg of salt and 73 kg of water. Or you can take 2.7 kg of salt and 7.3 kg of water. According to the conditions of the problem, there are 5 liters of such a solution. Since we do not know the density of the solution, we do not know its mass and cannot find out the mass of the salt dissolved in it. What is the meaning of the equality 5 4 9 used in the above solution? Yes, none! The volume of the mixture is not equal to the sum of the volumes of the mixed solutions. It's like putting together 5 apples and 4 pears. Consequently, the problem is formulated incorrectly, it is impossible to solve it, and it is not worth solving it,” Tolik concluded. “It is precisely for this understanding that I gave Tolik an A,” Ivan Petrovich said solemnly. - Yes, and he needs to get an A in chemistry. There is a line in A.P. Chekhov’s story: “I don’t know who wrote it, but I’m a fool when I read.” So guys, be careful. Don't solve defective problems!

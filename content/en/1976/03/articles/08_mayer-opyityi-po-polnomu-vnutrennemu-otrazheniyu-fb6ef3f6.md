@@ -1,0 +1,43 @@
+---
+id: 1976-3-mayer-opyityi-po-polnomu-vnutrennemu-otrazheniyu-fb6ef3f6
+issue: kvant_1976_3
+year: 1976
+number: "3"
+title: Experiments on total internal reflection
+authors:
+  - Майер В. В.
+rubric: laboratoriya-kvanta
+rubric_sub: Лаборатория «Кванта»
+page_first: 36
+page_last: 36
+page_labels: "34"
+tag: "8426"
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 3618de2cc637beb7f328129417371ef425499b2cfc653512f5e6b629d6459a73
+prompt_sha256: draft-1
+translated_from: content/ru/1976/03/articles/08_mayer-opyityi-po-polnomu-vnutrennemu-otrazheniyu-fb6ef3f6.md
+source_content_sha256: 9fd4f9f7068918c61b9a61ea35c1a80c921c9f973525aea56c8fee096ca22679
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 34⟧
+
+Experiments on total internal reflection
+
+Fig. 1. 1 - a glass of water, 2 - glass plates, 3 - an object.
+
+In the 70s, a simple method was developed for determining the refractive indices of a liquid, based on the use of the phenomenon of total internal reflection of light. We invite you to perform an experiment illustrating this interesting method.
+
+Place a frame-shaped cardboard spacer between two thin glass plates and crimp the edges of the plates with a plate so that the air space between them is isolated from the environment. Pour water into a glass jar or glass and immerse the plates vertically in it. Look through the glass and plates, oriented perpendicular to the line of sight, at some sufficiently brightly illuminated object (Fig. 1). Now gradually rotate the plates, changing the angle between them and the direction of observation. Starting from a certain value of this angle, together with an object located behind a glass of water, you see the inner surface of the plate closest to the eye shining, like an excellent mirror.
+
+It is clear that the result of the experiment is explained by the phenomenon of total internal reflection of light.
+
+Fig. 2.
+
+reflection: when light passes from an optically denser medium to an optically less dense medium, there is such an object angle of incidence of light on the interface between the media that the object angle is 90°. If the angle of incidence exceeds the object angle, then light does not penetrate into the second medium.
+
+Is it possible to determine the refractive index of a liquid in the experiment described above? At first glance, it would seem not: the light passes into the air from the glass, which means that the object angle depends on the refractive index of the glass. However, a closer examination of the experimental conditions shows that this is not so. Valid-

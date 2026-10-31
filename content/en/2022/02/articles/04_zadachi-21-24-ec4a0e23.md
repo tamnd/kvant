@@ -1,0 +1,48 @@
+---
+id: 2022-2-zadachi-21-24-ec4a0e23
+issue: kvant_2022_2
+year: 2022
+number: "2"
+title: Problems 21-24
+rubric: konkurs-imeni-a-p-savina
+rubric_sub: Конкурс имени А. П. Савина
+page_first: 44
+page_last: 44
+tag: 4WRD
+lang: en
+source: kvant_digital
+extraction: native
+content_sha256: 5400b183b94656a1203a24a6851b4cd6e966fb2346dc221be2cd50f066dce16f
+prompt_sha256: draft-1
+translated_from: content/ru/2022/02/articles/04_zadachi-21-24-ec4a0e23.md
+source_content_sha256: 29a40be1b59bbe987856be49805f67bfc6a07e239f8b375e6bb48d395eab6382
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+KONK URS IM ENI A. P. S AVINA
+
+vat. The helm is turned towards you - and the plane, increasing the angle of attack, soars upward. Turn the helm to the right and the plane rolls to the right...
+
+Now we are not talking about all the design features of the ball located inside the faucet and implementing the action of valves 1 and 2, but we are discussing only the principle of operation of the mixer. A rod is attached to the ball, which turns into a lever; there are grooves and slots that act as valves and ensure mixing of water. Making a ball requires both suitable materials and their appropriate processing. As usual, the path from an idea to its actual implementation is often long. Now it’s time to remember that water comes to our house under pressure. There are pressure standards: 0.3–6.5 atmospheres
+
+⟦column⟧
+
+for cold water and 0.3–4.5 atmospheres for hot water. Suppose that at night, when water consumption throughout the city decreases, the pressure of hot water turns out to be much higher than the pressure of cold water. Then, with valve 2 closed, hot water from the network will begin to displace water from chamber K into the cold water supply pipe. If this continues long enough, the hot water will fill a fairly large section of the cold water pipe. And then what will happen in the morning? And in the morning, no matter how we turn it, only hot water will flow from the mixer. This is the third story we wanted to tell. The story is not made up. The author and his neighbors observe this phenomenon quite often. Does this happen to you? Watch!
+
+KONK URS IM ENI A. P. S AVINA
+
+We continue the competition for solving mathematical problems. The tasks are designed mainly for participants no younger than 8–9 grades, and we advise younger schoolchildren to try their hand at the magazine competition «Kvant» (see website kvantik.com). Send solutions to problems you can solve by email to: savin.contest@gmail.com. In addition to your first and last name, indicate the city, school and class in which you study, as well as your return postal address. We welcome participation in the competition not only by individual schoolchildren, but also by teams (in this case, one work is sent with a list of participants). You can participate starting from any tour. The winners will receive diplomas from the magazine «Kvant» and prizes. Assignments, solutions and results are published on sites.google.com/view/savin-contest We wish you success!
+
+21. Some cells of the white rectangular table were painted blue. The number of blue cells is different in all rows, and in all columns too. Prove that if a table does not have equal numbers of rows and columns, then it has equal numbers of white and blue cells. B.Frenkin
+
+$22. Квадрат^{6} u^{6}$ and the 3 u 12 rectangle intersect as shown in figure.
+
+Prove that the sum of the green segments is twice the sum of the red segments. L. Smirnova
+
+23. The natural number N has an odd last digit. Is it true that $числа^{N} 10$ has an even digit (hundreds digit) third from the right? M. Malkin
+
+24. What is the largest number of parallelepipeds of size 1 u 2 u 4 that can be placed in a cube 5 u 5 u 5? The edges of the parallelepipeds must be parallel to the edges of the cube. V. Rastorguev
