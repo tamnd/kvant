@@ -1,0 +1,85 @@
+---
+id: 1972-6-yumor-fizteha-9a425851
+issue: kvant_1972_6
+year: 1972
+number: "6"
+title: Phystech humor
+rubric: smes
+page_first: 63
+page_last: 63
+page_labels: "61"
+tag: Q2T6
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: edd3330d9f96f5f2c6b3c3b2cb326afe2d9515f41640195ed98f15eb055c242a
+prompt_sha256: draft-1
+translated_from: content/ru/1972/06/articles/20_yumor-fizteha-9a425851.md
+source_content_sha256: 0f989077b3e9c43f8bfd91a1304b3319ba64fb74faf3ee5414d915e3a6f23345
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 61⟧
+
+relative to potential difference
+$$\varphi_A - \varphi_B = -\frac{E_1 r_2 + E_2 r_1}{r_1 + r_2} = -1,56 \ (\varepsilon).$$
+
+The minus sign shows that the potential of point $A$ is lower than the potential of point $B$.
+
+Urazhennya
+
+1. Six identical connection elements as shown in figure 4. Determine the potential difference between two
+
+Fig. 4.
+
+arbitrary points of the chain. Distance is the case when $N$ elements are connected in a similar way.
+
+2. A homogeneous metal spike is placed in a magnetic field that uniformly changes over time. The plane of the ring is perpendicular to the line of the induction vector (this reservation, however, is not essential). What is the potential difference between two arbitrary points of the ring?
+
+3. Half of the ring mentioned in the previous problem has a resistance of $R$, the second half has a resistance of $r (R > r)$. Construct a graph of the potential distribution along the circumference of the ring.
+
+Phystech humor
+
+New about the eternal
+
+The perpetual motion machine, launched into serial randomness, did not stand the test of time.
+
+From the Olympics
+
+“Think of a number, add 18 to it, then divide by zero and you get nothing. Why do you think?”
+
+Once upon a time at a lecture
+
+A brilliant example of the method of successive approximation to the truth was once demonstrated by Associate Professor B. O. Solonouts. Having written the formula on the board, he asked the audience:
+
+- Tell me, do you know this? Silence.
+
+— More precisely, during the exams you knew this?
+
+Silence.
+
+- Even more precisely, during the exams you should have known this?
+
+A unanimous “Yes!” rang through the row.
+
+***
+
+Exams are approaching. At one of the lectures on mathematical analysis, students pointed out the content of the future written examination paper. The lecturer replied:
+
+— The tasks will be interesting. One of them is now being decided by the entire department. If he solves it, we will include this problem in the exam paper.
+
+***
+
+— I will draw on a two-dimensional board, since drawing in $n$-dimensional space is quite inconvenient.
+
+***
+
+— The impulse doesn’t know where to look, so it turns into zero.
+
+***
+
+“Professor A. M. Molchanov resumes teaching the course “Theory of Oscillations on Mondays.”
+
+(From the advertisement).

@@ -1,0 +1,41 @@
+---
+id: 1972-5-markushevich-o-chisle-pi-c5926d17
+issue: kvant_1972_5
+year: 1972
+number: "5"
+title: About the number "pi"
+authors:
+  - Маркушевич А. И.
+rubric: smes
+page_first: 28
+page_last: 28
+page_labels: "26"
+tag: 9G3T
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 5d6b72067546dec4d0fbf0bdbf4024ddf2edb906262d63104a36256599e2774e
+prompt_sha256: draft-1
+translated_from: content/ru/1972/05/articles/07_markushevich-o-chisle-pi-c5926d17.md
+source_content_sha256: 5ef7c3f6b3dc425d7bdde5eba1892a1e621cbc4c5ab5c3dac82123ff50fff951
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 26⟧
+
+ABOUT THE NUMBER "PI"
+
+Reader of our magazine L. Weideman (from Riga) processes in «Kvant» with the question: “In M. Gardner’s book “Mathematical Puzzles and Entertainment...” on page 418 it is written: “The ratio of the circumference of a circle to its diameter, which the ancient Greeks designated with the letter π (“pi”)...”
+
+In the book “Algebra and Elementary Functions” (textbook for high school)... member of the editorial team «Kvant» Professor A. I. Markushevich writes on pp. 278-279 that “This notation is first encountered in the book of the English mathematician W. Jones (1706).” Who to believe?"
+
+It seems to us that the answer to this question will be of interest to many of our readers. Below we place the text of the answer from Professor A. I. Markushevich.
+
+Dear comrade. Weideman!
+Unfortunately, the authors (and editors) of popular science books are not always familiar with the sources of science, and therefore in these books you can find outdated and sometimes simply erroneous statements of a historical nature. This is exactly the case with Gardner's book. The ancient Greeks, not knowing modern numbers, designated numbers (positive integers) with the letters of their alphabet. In particular, the letter p (with an additional dash at the top) denoted the number 80 and only this number, which obviously has nothing to do with the ratio of the circumference to the diameter. But I is also the first letter of the Greek word lerifera, which signifies the circle (hence our periphery). It is true that a number of English mathematicians of the 17th century (but not earlier!) used the letter p to denote the length of the circle itself (an arbitrary radius). For the first time in the history of mathematics, this letter was used to denote the abstract number 3.1415... in the work Synopsis Palmariorum Matheseos by the English proponent of mathematics William Jones in 1706. This designation became widespread only thanks to the work of Euler (starting in 1737), who came to this, most likely, independently of Jones.
+
+You can read about all this in the classic work of D. E. Smith (History of mathematics by D. Smith, vol. II, New York, 1958, p. 312), or - as a short reference - in the Soviet collective work: “History of Mathematics”, volume two, M., publishing house “Nauka”, 1970, p. 61.
+
+A. I. Markushevich

@@ -1,0 +1,56 @@
+---
+id: 2008-3-zadachi-b8ba246d
+issue: kvant_2008_3
+year: 2008
+number: "3"
+title: Tasks
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 33
+page_last: 33
+tag: 6EWH
+lang: en
+source: kvant_digital
+extraction: native
+content_sha256: 5941317cf14c4066966816756fbec82c64f8653599f8f6e20426ef752fe8dfb9
+prompt_sha256: draft-1
+translated_from: content/ru/2008/03/articles/03_zadachi-b8ba246d.md
+source_content_sha256: 7f458b3946b2219055298116679ba6deaca6bec8fcf7953a20f3fa439980e884
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+KMS
+
+Tasks
+
+1.
+
+In an arithmetic puzzle
+
+FOUR + FIVE = NINE the same letters represent the same numbers, different letters – different numbers. In this case, FOUR is divisible by 4, and FIVE is divisible by 5. Is NINE divisible by 9? I. Akulich
+
+⟦column⟧
+
+3.
+
+In triangle ABC, the height BN, median BM and midline PQ are drawn. Prove that a green triangle can be formed from red and blue triangles. A. Zhukov
+
+4.
+
+2.
+
+Is it possible to divide the natural numbers from 1 to 16 into 8 pairs so that the sums in the pairs turn out to be different prime numbers? A. Gribalko
+
+The natural numbers a, b, c are such that three $числа^{a} 2 + 2b + 1, b^{2} + 2c + 1,^{c} 2 + 2a + 1$ are the squares of the natural numbers. Is it true that a = b = = c? V.Proizvolov
+
+5.
+
+These tasks are primarily intended for students in grades 6–8.
+
+Illustrations by D. Grishukova
+
+There are only five different four-cell figures - all of which are depicted on figure. The checkered table 4 ѣ 4 was cut into four four-square figures. Prove that among them there are two identical ones. A. Gribalko

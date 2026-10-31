@@ -1,0 +1,65 @@
+---
+id: 1972-12-zadachi-b661a558
+issue: kvant_1972_12
+year: 1972
+number: "12"
+title: Problem M176—M180; F188—F192
+rubric: zadachnik-kvanta
+rubric_sub: Задачник «Кванта»
+page_first: 36
+page_last: 36
+page_labels: "34"
+tag: T3KR
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 0ba3a19d7497b4f1149d9f1fd1818359900c1313446ade80ef8492b8c2b85322
+prompt_sha256: draft-1
+translated_from: content/ru/1972/12/articles/08_zadachi-b661a558.md
+source_content_sha256: 374f5dc7ee51317e0799bc5b88974bb5004e3f0be62a51c8456dbbb9b87df3d8
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 34⟧
+
+Solutions to problems in this issue can be sent no later than February 1, 1973 to the address: 117071, Moscow, V-71, Leninsky Prospekt, 15, Nauka Publishing House, magazine «Kvant». After the address on the envelope, write the solutions to which problems you are sending, for example: “Problem «Kvant» M176” or “...F198”.
+
+Solutions to problems in each of the subjects - mathematics and physics - as well as new problems should be sent in separate envelopes.
+
+Send original problems proposed for publication along with your solutions to these problems (on the envelope put “Problem «Kvant», a new problem in physics” or “... a new problem in mathematics”).
+
+More difficult tasks are marked with *.
+
+Tasks
+
+M176. To which side of triangle ABC is the point of intersection of its altitudes closest, if $A < B < C$? And to which peak?
+
+L. Schneider, 9th grade student
+
+M177. Find all solutions to the equation
+
+$$\sqrt[n]{x^n - a^n} + \sqrt[n]{2a^n - x^n} = a,$$
+
+where $a$ is a given real number, $n$ is a natural number greater than one.
+
+T. Temirov
+
+M178. Let us drop from any point $P$ bicsectrices of angle $A$ of triangle ABC perpendiculares $PA_1, PB_1, PC_1$ to its sides BC, CA and AB, respectively. Let $R$ be the intersection point of lines $PA_1$ and $B_1C_1$. Prove that the line $AR$ bisects side BC.
+
+M179. For each non-right triangle $T$ we denote by $T_1 = H(T)$ the triangle whose vertices are the bases of the altitudes of triangle $T_1$; through $T_2 = H(T_1)$ - a triangle, the vertices of which are the bases of the altitudes of the triangle $T_1$; let further $T_3 = H(T_2)$; $T_4 = H(T_3)$, ...
+
+What should the angles of the triangle $T$ be so that
+
+a) was the triangle $H(T)$ acute?
+
+b) in the sequence $T_1, T_2, T_3$, ... is there a right triangle $T_n$ (in this case $H(T_n) = T_{n+1}$ is not defined)?
+
+b) was triangle $T_3 = H(H(T))$ similar to triangle $T$?
+
+d)* For each $n=1, 2, 3, ...$, indicate how many dissimilar triangles $T$ exist for which $T_n$ is similar to $T$.
+
+N. V. Vasiliev
+
+M180*. Two people play this game. One thinks of the natural number $n$, and the other asks questions like “is it true that $n \geq x$” (he can choose x at his discretion) and receives “yes” or “no” answers. What possible strategy $T$ of the second game is promoted by the function $f_T(n)$, equal to the number of questions (before debugging), if the number $n$ was conceived.

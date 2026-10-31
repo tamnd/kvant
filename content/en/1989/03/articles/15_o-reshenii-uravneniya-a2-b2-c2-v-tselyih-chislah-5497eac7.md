@@ -1,0 +1,40 @@
+---
+id: 1989-3-o-reshenii-uravneniya-a2-b2-c2-v-tselyih-chislah-5497eac7
+issue: kvant_1989_3
+year: 1989
+number: "3"
+title: '[On solving the equation a^2 + b^2 = c^2 in integers]'
+rubric: nam-pishut
+page_first: 57
+page_last: 57
+page_labels: "55"
+tag: O3FY
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 325670d3ea5efd88e1e2c3d56d4dc879f136369ebb460a98f9a6b818b475b813
+prompt_sha256: draft-1
+translated_from: content/ru/1989/03/articles/15_o-reshenii-uravneniya-a2-b2-c2-v-tselyih-chislah-5497eac7.md
+source_content_sha256: e6b586183ab08967231e9c6b5ca4905e94c4e88ae750cc43d1382da8675a3ad4
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 55⟧
+
+Another, more complex solution to this problem was published in the journal «Kvant» (1975, no. 12, p. 73).
+
+The solution method, based on the use of transformation composition, can be used to compose and solve similar problems. Solving a more general problem than the one considered, we obtain the following result:
+
+If triangles ABM, BCN, ACP are constructed on the sides of an arbitrary triangle ABC and the following conditions are met:
+a) triangles BCN and ACP are similar and oppositely oriented;
+b) triangle ABM congruent with base AB (or M is the midpoint of side AB); the sum of the oriented angles BMA, APC and CNB (or AMB, BNC and CPA) is 360°, then $\angle PMN = 2\angle PAC$ and PM=MN.
+
+The reader will find another similar problem, in which the triangles constructed on the sides of a given triangle are not similar, below (Exercise 4).
+
+Exercises
+4. On the sides of an arbitrary triangle ABC, triangles ABM, BCN and CAP are constructed outside it such that $\angle BAM = \angle CAP = 15^\circ$, $\angle ABM = \angle CBN = 30^\circ$ and $\angle ACP = \angle BCN = 45^\circ$. Find the angles of triangle MNP.
+5. On the sides of an arbitrary triangle ABC, equilateral triangles ABM, BCN and ACK are constructed outside it. Prove that
+
+From the equation $a^2 + b^2 = c^2$ it follows that the numbers $a+b$ and $c$ have the same parity and $a+b>c$. Let's put $a+b-c=2n$ and introduce the variables: $x = a-2n$, $y = b-2n$. Then $a=x+2n$, $b=y+2n$, $c=x+y+2n$ and the original equation can be written as $xy=2n^2$. Therefore, all solutions to the equation $a^2+b^2=c^2$ can be obtained as follows: for each natural number $n$, factor the number $2n^2$ into two factors $x$ and $y$ and then put $a=x+2n$, $b=y+2n$, $c=x+y+2n$. For example, the Pythagorean triple (5, 12, 13) corresponds to the value $n=2$, $x=1$, $y=8$.

@@ -1,0 +1,73 @@
+---
+id: 2010-4-bagrov-veryovka-iz-pautinyi-f66549b8
+issue: kvant_2010_4
+year: 2010
+number: "4"
+title: Web rope
+authors:
+  - Багров Д.
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 30
+page_last: 31
+page_labels: 28-29
+tag: BG00
+lang: en
+source: kvant_digital
+extraction: native
+content_sha256: 71787843401e021259620ee2bbdfcd26f8dd5a1a57b83d84700bfc8488486ecf
+prompt_sha256: draft-1
+translated_from: content/ru/2010/04/articles/03_bagrov-veryovka-iz-pautinyi-f66549b8.md
+source_content_sha256: 9a6510b2ebf28b38c1e7a56db7952f27cd37668970c0d2cf0adaf61eb732d560
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 28⟧
+
+KVANT 2010/№4
+
+Competition named after A.P. Savin
+
+"Math 6–8"
+
+We are starting another competition to solve mathematical problems for students in grades 6–8. Send solutions to problems within a month after receiving this issue of the journal to the address: 119296 Moscow, Leninsky Prospekt, 64-A, «Kvant» or by email: math@kvant.info (marked “Competition “Mathematics 6–8”). Be sure to include your name, class, and home address. As before, we welcome participation in the competition not only by individual schoolchildren, but also by mathematical clubs. We ask circle leaders to provide an email address or contact phone number. According to tradition, the winning clubs of the correspondence competition are invited to the final in-person tournament.
+
+1. Are there 10 different natural numbers, none of which is the square of an integer, with the property: a) the product of any two of these numbers is the square of an integer; b) the product of any three of these numbers is the square of an integer? S. Dorichenko
+
+2. The honeycomb shape is a union of three equal regular hexagons. Cut this figure into three equal parts and fold them into one regular hexagon. N. Avilov
+
+⟦column⟧
+
+3. The chameleon painter moves across the checkered board like an ordinary chess rook. Once in the next cell, he either repaints it in its color, or repaints the cell in his own color. A white chameleon painter is placed on a black board measuring $8 \times 8$ cells. Can he color it in a checkerboard pattern? Folklore
+
+4. In a right triangle, the incircle touches one of the midlines. Prove that the lengths of the sides of this triangle are in the ratio 3:4:5. R. Gordin
+
+5. In a number that is a natural power of two, the digits have been rearranged. Could the resulting number be a greater natural power of two? Folklore
+
+Web rope
+
+D.BAGROV
+
+EVERYONE CAN EASILY BREAK AWAY A WEB HANGING between the branches of a tree or under the ceiling in the far corner of the room. But few people know that if the web had a diameter of 1 mm, it could withstand a load weighing approximately 200 kg. Steel wire of the same diameter can withstand significantly less: 30–100 kg, depending on the type of steel. Why does the web have such exceptional properties? Some spiders spin up to seven types of threads, each of which has its own purpose. Threads can be used not only for catching prey, but also for building cocoons and parachuting (by taking off in the wind, spiders can escape from a sudden threat, and young spiders spread to new territories in this way). Each type of web is produced by special glands. The web used to catch prey consists of several types of threads (Fig.1): frame, radial, catcher and auxiliary. The greatest interest of scientists is the carcass thread: it has both high strength and high elasticity - it is this combination of properties that is unique. The maximum tensile strength of the frame thread of the Araneus diadematus spider is 1.1–2.7 GPa. For comparison: limit
+
+⟦folio 29⟧
+
+TO
+
+⟦figure⟧
+
+Fig.1. Various threads in the web: the frame thread is the strongest, it holds the entire web together; the radial thread is thin and non-sticky, it supports the sticky catching thread; auxiliary spiral helps position the catcher thread
+
+the strength of steel is 0.4–1.5 GPa, human hair $\sim 0,25$ GPa. At the same time, the frame thread can stretch by 30–35%, and most metals can withstand deformation of no more than 10–20%. Let's imagine a flying insect that hits a stretched web. In this case, the thread of the web must stretch so that the kinetic energy of the flying insect is converted into heat. If the web stored the received energy in the form of elastic deformation energy, then the insect would bounce off the web like from a trampoline. An important property of spider webs is that they generate a very large amount of heat when rapidly stretched and then contracted: the energy released per unit volume is more than 150 MJ $м^{3}$ (steel releases $\sim 6$ MJ $м^{3} ).$ This allows the web to effectively dissipate impact energy and not stretch too much when a victim is caught in it. Webs or polymers with With similar properties, they could become ideal materials for light body armor. In folk medicine, there is such a recipe: to stop the bleeding, you can apply a spider web, carefully clearing it of insects and small twigs stuck in it. It turns out that the spider web has a hemostatic effect and accelerates the healing of damaged skin. Surgeons and transplantologists could use it as a material for suturing and strengthening implants. and even as blanks for artificial organs. With the help of web, you can significantly improve the mechanical properties of many materials that are currently used in medicine. So, web is an unusual and very promising material. What molecular mechanisms are responsible for its exceptional properties? We are accustomed to the fact that molecules are extremely small objects. However, this is not always the case: polymers that have long molecules consisting of identical or similar units are widespread around us. living organism is written in long DNA molecules. Everyone held plastic bags in their hands, consisting of long intertwined polyethylene molecules. Polymer molecules can reach enormous sizes.
+
+M
+
+Sh
+
+⟦column⟧
+
+For example, the mass of one human DNA molecule is of the order of $1,9 \cdot 10^{12}$ amu. (however, this is approximately one hundred billion times more than the mass of a water molecule), the length of each molecule is several centimeters, and the total length of all human DNA molecules reaches $10^{11}$ km. The most important class of natural polymers are proteins; they consist of units called amino acids. Different proteins perform extremely different functions in living organisms: they control chemical reactions, are used as building materials, for protection, etc. The skeleton thread of the web consists of two proteins, which are called spidroins 1 and 2 (from the English spider). Spidroins are long molecules with a mass of 120,000 to 720,000 amu. The amino acid sequences of spidroins may differ from spider to spider, but all spidroins have common features. If you mentally stretch out a long spidroin molecule in a straight line and look at the sequence of amino acids, it turns out that it consists of repeating sections similar to each other (Fig.2). Two types of regions alternate in the molecule: relatively hydrophilic (those for which it is energetically favorable to contact water molecules) and relatively hydrophobic (those that avoid contact with water). At the ends of each molecule there are two non-repetitive hydrophilic regions, and the hydrophobic regions consist of many repeats of an amino acid called alanine. A long molecule (eg, protein, DNA, synthetic polymer) can be thought of as a crumpled, tangled rope. Stretching it is not difficult, because the loops inside the molecule can straighten out, requiring relatively little effort. Some polymers (such as rubber) can stretch up to 500% of their original length. So the ability of spider webs (a material made up of long molecules) to deform more than metals is not surprising. Where does the strength of the web come from? To understand this, it is important to follow the process of thread formation. Inside the spider gland, spidroins accumulate in the form of a concentrated solution. When the filament is formed, this solution exits the gland through a narrow channel, this helps to stretch the molecules and orient them along the direction of the stretch, and the corresponding chemical changes cause the molecules to stick together. Molecular fragments consisting of alanines join together and form an ordered structure similar to
+
+Fig.2. Spidroin molecule and model of its placement in fiber

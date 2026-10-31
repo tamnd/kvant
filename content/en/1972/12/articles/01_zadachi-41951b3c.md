@@ -1,0 +1,38 @@
+---
+id: 1972-12-zadachi-41951b3c
+issue: kvant_1972_12
+year: 1972
+number: "12"
+title: '[Tasks]'
+rubric: kvant-dlya-mladshih-shkolnikov
+page_first: 83
+page_last: 83
+tag: L2FK
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 803c5fee6787d8254293fb71ffa8286a9e405a6af2fd77fa8d4905b53a529e85
+prompt_sha256: draft-1
+translated_from: content/ru/1972/12/articles/01_zadachi-41951b3c.md
+source_content_sha256: d7d33952d1f51f2cd48e08628c675a6660d681851d587ef2ea711783b9f5b186
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+1. At the end of the film, some of the spectators left in six buses, and each bus had the same number of spectators. The rest of the spectators (there were 15 percent more of them) went on foot. How many spectators were in the cinema if it is known that there were no more than 400 people in the auditorium, and more than 150 spectators left on buses?
+
+2. Find all possible ways to put together * the numbers in the following equation
+$$*00** = (\ast\ast)^2$$
+(no number should start with zero).
+
+3. There are 22, 14 and 12 nuts in three piles. It is required by three transfers to equalize the number of nuts in each pile, while observing the conditions: from any pile it is allowed to transfer only as many nuts to another as there are in this second pile.
+
+4. Decipher the equality:
+$$a \cdot c \cdot \overline{ac} = \overline{ccc}.$$
+
+5. How to make four identical equilateral triangles from six matches?
+
+6. A triangle has side lengths of integers, the length of one side is 5 and the other is 1. What is the length of the triangle?

@@ -1,0 +1,33 @@
+---
+id: 1989-6-mnogogrannik-iz-origami-459e2d14
+issue: kvant_1989_6
+year: 1989
+number: "6"
+title: '[Origami polyhedron]'
+rubric: smes
+page_first: 84
+page_last: 84
+tag: WPKJ
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 4a3c61b4e8a8f5a84cbaf15b32aff54ceb95eee95a59b5c4eb03ea2b9f9dd669
+prompt_sha256: draft-1
+translated_from: content/ru/1989/06/articles/01_mnogogrannik-iz-origami-459e2d14.md
+source_content_sha256: 6d21ad227087f1e8b4fbd50a37889f992d98890e7ad73078aebabbb646647b21
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 5⟧
+
+The Japanese art of "orizami" - the construction of figures from paper - has a fairly structured rules of use. Origami figures must be folded from a square sheet of paper, and the use of glue and sticks is prohibited.
+
+The star polyhedron shown on our figure, these rules are only in one direction - it is assembled from 30 identical small “mini-orizami” models, each of which is folded from a square sheet of paper measuring 10x10 cm. Try to make this figure yourself. To make the polyhedron look more beautiful, it is better to take sheets of paper of three different colors. Each leaf makes up a single model in the sequence shown in Figures 1-4. Broken arrows mean that the model needs to be created and straightened; a dotted line with a dash and two dots indicates the convex parts of the model, a dotted line with a dash indicates the raised parts. Then the model is folded (Fig. 5) and connected to each other so that the corner of one model is placed in the triangular pocket of the other models. When assembling, make sure that the funny faces in the polyhedron are colored differently.
+
+Fig. 1.
+Fig. 2.
+Fig. 3.
+Fig. 4.
+Fig. 5.

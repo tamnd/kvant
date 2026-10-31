@@ -1,0 +1,61 @@
+---
+id: 1989-11-gik-kompyuter-ustupaet-cheloveku-ac7d0507
+issue: kvant_1989_11
+year: 1989
+number: "11"
+title: Computer is inferior to man
+authors:
+  - Гик Е. Я.
+rubric: shahmatnaya-stranichka
+rubric_sub: Шахматы
+page_first: 83
+page_last: 83
+tag: NOM3
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 05f168745c923fa208d02ef2fda2f9b5148ef6b5b5e6296793b82e4c16158fc8
+prompt_sha256: draft-1
+translated_from: content/ru/1989/11/articles/02_gik-kompyuter-ustupaet-cheloveku-ac7d0507.md
+source_content_sha256: fcc7890c33070bc3f88e9b19dd4f230c4f29b1bb952d022f71a6b41e25c3c22f
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 37⟧
+
+THE COMPUTER IS LOWER TO HUMAN
+
+The fifth world champion M. Euwe, at the dawn of the development of computer chess, was actively involved in this topic. True, it seems that he miscalculated, claiming in the 70s that in the next hundred years electronic chess would not reach the strength of a master. In this game, the machine that won the 1970 New York computer champion played white.
+
+"CDC 6600" - M. Euwe Vienna Party
+1. e4 e5 2. Cc4 Kf6 3. Kc3 K:e4 4. K:e4 d5 5. Cb5+ c6 6. Cd3 de 7. C:e4 Cd6 8. d4 ed 9. Q:d4 0—0 10. Kf3 Qe7 11. Cg5 f6 12. Ce3 Ka6 13. 0—0 0 Cc7 14. c4 Ce6 15. Cc2 Kb4 16. Bb1 Lad8 17. Qe4 f5. An attempt to finish the matter with checkmate (18. Q:h7+ and 19. Cg6×) fails. 18. Qh4 Q:h4 19. K:h4 b6 20. b3 f4 21. Cd4 c5 22. Cc3 Kc6 23. Jl:d8 Jl:d8 24. a3 Jle8 25. Cc2 Kd4 26. f3? g5 27. C:d4 cd 28. Kf5 C:f5 29. C:f5 Re2. Finally, Black gained a clear advantage. Commenting on the game, Euwe wrote that he played it with great responsibility, because he did not want to end up in “history” (twenty years ago, the defeat of a man by a machine, especially by a famous grandsmätter, would have been considered by everyone as a great embarrassment).
+
+30. Ch3 Re3 31. Kpb2 Ce5 32. Ce6+ Kpg7 33. Cd5 Re2+ 34. Kpb1 d3 35. Ce4. Repelling the bold threat of 35... Rb2+ 36. Kpc1 d2+ etc. 35...d2 36. Kpc2? The machine's first server error, after 36. Rd1 R:g2 37. Kpc2 R:h2 38. R:d2 White could still resist. 36…Re1 37. Kp:d2 R:h1, and here the game was finished.
+
+Laren's sensational game "Deep South" (see «Kvant» No. 6 of 1989), in which Detanni failed, could have raised fears for the chess future of people. The next batch was cheese in the same tournament, viewed by W. Brown brutally took revenge for his colleague!
+
+“Dean South” - W. Brown Sicilian Defense
+1. e4 c5 2. c3 Kf6 3. e5 Kd5 4. d4 cd 5. Kf3 Kc6 6. Cc4 Kb6 7. Cb3 d5 8. ed Q:d6 9. 0—0 e6 10. cd Ce7 11. Kc3 0—0 12. Je1 Kd5 13. g3 Qd8 14. a3 K:c3 15. bc b6 16. Qd3 Cb7 17. Cc2 g6 18. Cf4 Rc8 19. Ch6 Re8 20. Cd2 Ka5 21. Ca4 Qd5! 22. C:e8 R:e8 23. Kpg2 Kc4 24. Cc1 g5 25. h3 h5 26. g4 e5 27. Qd1 f5! 28. gh g4 29. hg fg 30. Kpg1 Q:f3 31. Qf3 B:f3, and after a few moves White dealt.
+
+Among the international tournament sites in the agent city of Ushaya on the island of Tierra del Fuego (1986), together with two gross meters and two international masters, the second world champion played the medium micromuter “Mephisto - Amsterdam”. The electronic chess player performed well in the competition. The winner of the tournament, O. Panno, showed a little ingenuity to defeat him.
+
+“Mephisto” - O. Panel Sicilian defense
+1. e4 c5 2. c3 e6 3. d4 d5 4. ed ed 5. Kf3 Kc6 6. Cb5 Cd6 7. 0—0 Ke7 8. dc C:c5 9. b4 Cd6 10. Cd3 Cg4 11. h3 Ch5 12. Je1 Qs7 13. Cd2 Cg6 14. C:g6 hg 15. Ka3 a6 16. Qe2 0—0 17. Lab1 Rfe8 18. Kc2 Qd7 19. a3 Cc7 20. b5 Ka5 21. Ke3 Kf5 22. ba ba 23. Qd3 K:e3 24. C:e3 Kc4 25. Cc5 Qc6 26. Qd4 f6 27. R:e8+ R:e8 28. Jd1 Jd8 29. C77 Jd7 30. Qs5 Qs6 31. Re1.
+
+After the absence of the queen, White's position was quite reliable, but the gross meter had prepared a witty retort. 31…Ke5! The bishop is under attack, threatening K:f3+, and on 32. K:e5 the solution is 32...R:e7 33. Kf3 Q:e1+ 34. K:e1 R:e1×. Maybe the computer, while counting the options, did not pay attention to the bishop c7 that was in front? 32. R:e5 C:e5 33. N:e5 fe 34. Qc8+ Nph7 35. Bb4 Re7 36. Qd8 Re8 37.
+
+Qs7 Rc8 38. Qb7 d4, and Black wins.
+
+In 1987, a weighty seminar for editors of newspaper chess departments was held in Moscow, which was conducted by the daily “64 - Chess Review”. One evening I held a meeting between the Turbostar micromachine and the seminar participants.
+
+"Turbostar" - consultants
+Catalog natsalo
+1. d4 d5 2. Kf3 Kf6 3. c4 e6 4. g3 dc 5. Qa4+ Cd7 6. Q:c4 Cc6 7. Cg2 Ce7 8. 0—0 0—0 9. Kc3 Kbd7. This famous theoretical position was played by 10. Lad1, Rfe1, Cg5 or Qd3, but the computer ran out of opening knowledge and chose a new continuation. 10. Cf4 Kb6 11. Qd3 Kbd5 12. Ce5 K:c3 13. bc Ce4 14. Qe3 Qd5. More precisely 14…Cd5, now White could achieve a server advantage: after 15. c4! Qs6 (otherwise the bishop e4 loses) 16. C:f6 gf (16…C:f6 17. Ke5! fe 18. C:e4 ed 19. Q:d4 the journalists faced a dull fight for a draw.
+
+15. C:c7. The pawn turned out to be too tempting for Turbostar and, alas, the rich opportunity was missed. 15…Las8 16. Ce5 Kg4 17. Qf4 K:e5 18. Q:e5 Q:e5 19. K:e5 C:g2 20. Kp:g2 R:c3 21. Lab1 b6 22. Jfc1 Jlfc8 23. J:c3 Jl:c3 24. Jlb2. So, it came down to the more promising ändsplühl for Black.
+
+24…f6 25. Kd3 Kpf7 26. Kpf3 Cd6 27. h4 h5 28. Kpe4 g5 29. hg fg. A separated passed pawn is always for the machine, but here there are two of them at once. 30. Ke5+ Kpf6. After 31. e3 and further f2 - f4 or 31. Kf3 White maintained a strong position. Instead, they propose an exchange of rooks, which immediately leads to disaster. 31. Rb3? Rb3 32. ab C:e5. The trouble is that access was denied not only to heavy figures, but also to light ones. 33. de+ Kpg6 34. e3 a5 35. f3 h4 36. gh gh 37. Kpf4 b5 38. Kpg4 a4, and here I awarded the computer defeat. The journalists sighed with relief.
+
+E. Ya. Gik

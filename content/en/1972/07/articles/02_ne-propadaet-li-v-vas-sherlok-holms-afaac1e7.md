@@ -1,0 +1,33 @@
+---
+id: 1972-7-ne-propadaet-li-v-vas-sherlok-holms-afaac1e7
+issue: kvant_1972_7
+year: 1972
+number: "7"
+title: Is Sherlock Holmes missing in you?
+rubric: smes
+page_first: 68
+page_last: 68
+tag: YTR5
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: e4c351623acbc5a3e790c2dd562abdfe411dc4452fa31cd5f8f05682e4b2bd24
+prompt_sha256: draft-1
+translated_from: content/ru/1972/07/articles/02_ne-propadaet-li-v-vas-sherlok-holms-afaac1e7.md
+source_content_sha256: 075b5a6a6d1954233f9afb79e2b766c3a00c60749be9857347c50657efc3cda9
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+IS THE SHERLOCK HOLMES MISSING IN YOU?
+
+Fedya agreed with a former classmate living in the village that he would spend his vacation with him. His friend was going to go to a training camp, and his entire house was to be left at Fedya’s disposal. Fedya stayed in the city for a day on target, and when he finally got out into the village with the scales, his comrade was no longer there, and the door was locked. However, in the crack Fedya found a letter addressed to him, the contents of which were transmitted to figure.
+
+Fedya immediately recognized the secret code that they used in their school years, but unfortunately, over the past years he had forgotten the code. He only noticed that each face corresponded to a specific letter, and the letters E and E were indistinguishable.
+
+However, after some thought, Fedya still managed to decipher the secret script, find the key to the door and get into the house.
+
+What was the name of Fedya's school friend, and what did he write in this letter?

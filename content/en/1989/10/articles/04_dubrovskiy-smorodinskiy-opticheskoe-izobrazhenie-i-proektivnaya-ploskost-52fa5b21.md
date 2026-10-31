@@ -1,0 +1,47 @@
+---
+id: 1989-10-dubrovskiy-smorodinskiy-opticheskoe-izobrazhenie-i-proektivnaya-ploskost-52fa5b21
+issue: kvant_1989_10
+year: 1989
+number: "10"
+title: Optical image and projective plane
+authors:
+  - Дубровский В. Н.
+  - Смородинский Я. А.
+rubric: osnovnye-stati
+page_first: 10
+page_last: 10
+page_labels: "8"
+tag: YX8Z
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: d61d4aa1d612ab99a004b112ecbc0aed6ab4de1cf07c9e5fd3a78be21608b3a7
+prompt_sha256: draft-1
+translated_from: content/ru/1989/10/articles/04_dubrovskiy-smorodinskiy-opticheskoe-izobrazhenie-i-proektivnaya-ploskost-52fa5b21.md
+source_content_sha256: 1e166f06d032807e57bc05d8734a91a2c0beb67a6b09c217492494d11a43090b
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 8⟧
+
+OPTICAL IMAGING
+AND PROJECTIVE PLANE
+
+Candidate of Physical and Mathematical Sciences
+V. N. DUVROVSKY,
+Doctor of Physical and Mathematical Sciences
+Y. A. SMORODINSKY
+
+Project plane
+
+We will now pay closer attention to points that we have so far only briefly mentioned. These points are focal lines m and n, parallel to the “lens line” l and passing through the foci F and F' (Fig. 1). These points are married to us: it has already been said that the points of the first line are not depicted in any way, because the rays emanating from them become parallel. Similarly, the points of the second line do not seem to represent anything: rays of parallel rays parallel to the lens are focused at them. However, one may not agree with such “discrimination.” After all, seeing an exact light source is the same as seeing the rays it emits, and a beam of parallel rays is no worse than a central one. Therefore, it is natural to consider any beam of parallel rays, as a beam of rays, emanating from some infinite distant point - its “center” (mathematical question of a “distant star”), and the point of the line n, at which it is focused, as an image of this infinite distant center. There is no mysticism here: in any case, points at infinity are real just as much as parallel lines are real. At the same time, they will give a finished look to all our constructions.
+
+Let us give more strict definitions. To each line d of the plane we add exactly one new point U_d, and the same point is added to all parallel lines. And all the new points are combined into one “infinitely distant” straight line u. This procedure is called plane completion.
+
+On the completed plane, the “axioma of a straight line” is preserved—through any two points, only one straight line can be checked. For example, if one of two points is the “ordinary” point M, and the other is the point at infinity U_d, then the line containing them passes through M and is parallel to d; its only consequence is the axiom of parallels. The techniques satisfy the symmetric property: any two straight lines have exactly one common point (ordinary or infinite). In other words, on a completed plane, two lines always intersect. Any set of a point in which a certain subset system is visible - “straight lines”, satisfying these two properties * is called an (abstract) project plane. This very general definition allows for many different interpretations, including, paradoxically, “planes” of a finite number of points (see, for example, the solution to problem M1113 in «Kvant» No. 11 - 12 for 1988). Replenishing the normal plane with infinitely distant points gives the reality of the design plane; This is the only plane we are talking about.
+
+But let's return to optics. Now we can say that our ideal line creates an image p(A) for
+
+*) To exclude completely uninteresting examples, it is common to add one more thing to them: there are 4 points, no 3 of which lie on the same straight line.

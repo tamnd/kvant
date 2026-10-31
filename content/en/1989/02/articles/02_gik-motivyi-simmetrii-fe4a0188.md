@@ -1,0 +1,60 @@
+---
+id: 1989-2-gik-motivyi-simmetrii-fe4a0188
+issue: kvant_1989_2
+year: 1989
+number: "2"
+title: Symmetry motives
+authors:
+  - Гик Е. Я.
+rubric: shahmatnaya-stranichka
+rubric_sub: Шахматы
+page_first: 83
+page_last: 83
+tag: YY87
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 5907488b3d3bbb94b32a317b94d529cdd6c796351e72532f1be0544b82dacf87
+prompt_sha256: draft-1
+translated_from: content/ru/1989/02/articles/02_gik-motivyi-simmetrii-fe4a0188.md
+source_content_sha256: 6857daf1a76657ae01ce898508ab7f09b03e5fb572ef8324278f6e77c1f34942
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+SYMMETRY MOTIF
+
+Symmetry and asymmetry on a chessboard are popular geometric motifs that arose in both practical play and composition. We have already touched on this topic more than once (“Quit”, 1983, No. 5; 1986, No. 12; 1987, No. 4), but it is so vast and fascinating that it can be addressed many times.
+
+Here is one game from a collection of chess curiosities, played in the USSR Championship (Moscow, 1931).
+
+M. Botvinnik - N. Ryumin
+1. d4 d5 2. c4 c6 3. Kf3 Kf6 4. e3 e6 5. Cd3 Kbd7 6. 0—0 Cd6 7. Kbd2 e5 8. e4 0—0 9. cd cd 10. ed ed.
+
+The opponents played the Slavic play and Black, and especially White, had no desire to repeat the moves. But after making ten moves, the partners were probably quite surprised to find complete symmetry on the board, not to mention the enormous clutter of pieces on the “d” line. Still, in a symmetrical position, pre-heating is determined by the side whose move it is. In this case, Botvinnik skillfully used this advantage - he reliably defended his d-pawn, and conquered the enemy’s.
+
+11. Ke4! K:e4 12. C:e4 Kc5 (better 12...Kf6) 13. Cc2 Cg4 14. Q:d4 C:f3 15. gf Jle8 16. Jld1 Jle2 17. Cf5 g6 18. Ch3 Kd7 19. Ce3 Ce5 20. Qc4 Jl:b2 21. Las1 (commenting on the game, Botvinnik noted that the faster win here was 21. d6) 21...Kb6 22. Qe4 Qd6? (harder 22...Cd6, now it's all over) 23. f4 Cg7 24. Cc5 Qd8 25. Ce7 Qe8 26. d6 Qb5 27. d7 K:d7 28. C:d7, and after a few moves Black resigned.
+
+The main idea of ​​the genre of chess composition “symmetry - asymmetry” is that an externally symmetrical position has an asymmetric solution. Of course, there is no absolute vertical symmetry on a chessboard due to the presence of an “extra” vertical line. It is thanks to this vertical that paradoxical situations arise. All examples today are from the area of ​​these years.
+
+G. Adamson, 1924
+Win
+
+1. Kd5! Kd7! (1...Kf7, Kg6 2. Ch5, 1...Kc6 2. Cb5) 2. Kpd6! (but not 2. Cb5? Kpd8! 3. C:d7 stalemate) 2...Kpd8! (does not fall 2...Kb8 3. Cb5+ Kpd8 4. Kb6 Kc6! 5. Kp:c6!, 2...Kf8 3. Ch5+ Kpd8 4. Kf6! Kpc8 5. Kpe7) 3. Cd3! with branches: 3...Kpc8 4. Ke7+ Kpd8 5. Kc6+ Kpe8 6. Cg6+, 3...Kpe8 4. Kc7+ Kpd8 5. Ke6+ Kpc8 6. Ca6+, 3...Kb8 4. Kb6 Kpe8 5. Kpc7, 3...Kf8 4. Kf6 Kpc8 5. Kpe7! and the horse was found. Why is 1. Kf5 not suitable? The point is that then after 1...Kf7! 2. Kpf6 Kpf8 3. Cf3 Kpe8 4. Kg7+ Kpf8 5. Kp:c6+ Kpg8! For check, White lacks one more file.
+
+Let's consider this stage.
+
+A. Seleznev, 1917 White: Kpe5, Ca8, ne6; black: Kpg4, Kf4, ppb4, h4. Nitsya.
+
+What does symmetry have to do with it? - the reader will ask. But on the move: 1. Ce4! K:e6! 2. Cf5+ Kpf3 3. C:e6 Kpe3!, and we come to our plot. Every one that White does not fall (one of the pawns is promoted to a queen) and still: 4. Kpd6! Kpd4 5. Kpc6 Kpc3 6. Kpd5! b3 7. Kpe4 b2 8. Ca2 h3 9. Kpf3, and both pawns are pinned. In case 4. Kpf6? for the white bishop there would be no square on the right corresponding to square a2. Each, this is the first example in the history of this “symmetry-asymmetry”.
+
+O. Rinchimaa, 1942 Nitsiya.
+
+In this example, the vertical "h" will be used very differently.
+
+1. de! de (after 1...dc 2. ef Kpe7 3. e6 the movement of the black pawns will ultimately only lead to stalemate) 2. ef Kpe7 3. Kpe4 Kp:f7 4. Kp:e5 Kpe7 5. Kpf5! Kpd7 6. Kpe5 Kpc7 7. Kpd4 Kpb8 8. Kpc4 Kpa7 9. Kpb4 Kpa6 10. Kpa4 sniches. Doesn't work though 1. dc? DC! 2. cb Kpc7 3. Kpc4 Kp:b7 4. Kp:c5 Kpc7 5. Kpb5 Kpd7 6. Kpc5 Kpe7 7. Kpd4 Kpf8 8. Kpe4 Kpg7 9. Kpf4 Kph6!, and Black gains the upper hand thanks to a maneuver on the far “h” file.
+
+E. Ya. Gik

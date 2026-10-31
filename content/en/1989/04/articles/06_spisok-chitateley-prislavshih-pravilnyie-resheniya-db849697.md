@@ -1,0 +1,53 @@
+---
+id: 1989-4-spisok-chitateley-prislavshih-pravilnyie-resheniya-db849697
+issue: kvant_1989_4
+year: 1989
+number: "4"
+title: List of readers who sent correct solutions
+rubric: zadachnik-kvanta
+rubric_sub: Задачник «Кванта»
+page_first: 36
+page_last: 36
+page_labels: "34"
+tag: AS72
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 51ef9ce0deaff749fe690106fb5990b168abcff80b32f9a04d360519ec57f832
+prompt_sha256: draft-1
+translated_from: content/ru/1989/04/articles/06_spisok-chitateley-prislavshih-pravilnyie-resheniya-db849697.md
+source_content_sha256: 182a63dc24ec89b26ad5a2d85ffcbfb6d806659c88530684b2751dc56613fa45
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 34⟧
+
+$$x = \frac{at^2}{2} + \frac{b}{\pi} \left( \frac{at}{\omega L} \right)^3 \left( \frac{\omega L}{a} \right)^2 \frac{1}{3} \ln \frac{at}{\omega L}$$
+
+(here we immediately discarded the unburned members).
+Finally, to estimate the correction to $t_x$, we substitute $t_x = \sqrt{2l/a}$, as a first approximation, into the last formula:
+
+$$l = \frac{at^2}{2} + \frac{b}{3\pi} \left( \frac{a}{\omega L} \right) \left( \frac{2l}{a} \right)^{3/2} \ln \frac{\sqrt{2la}}{\omega L},$$
+
+where is the time you are looking for?
+
+$$t_x = \sqrt{\frac{2l}{a}} \left( 1 - \frac{b}{6\pi l} \left( \frac{a}{\omega L} \right) \left( \frac{2l}{a} \right)^{3/2} \ln \frac{\sqrt{2la}}{\omega L} \right) =$$
+
+$$= \sqrt{\frac{2l}{l}} \left( 1 - \frac{b}{3\pi a} \frac{\sqrt{2la}}{\omega L} \ln \frac{\sqrt{2la}}{\omega L} \right),$$
+
+where $a = g \sin \alpha$, $b = kg \cos \alpha$.
+
+I. I. Mazin
+
+Readers list,
+who sent the correct solutions
+Most of the readers who submitted solutions to problem M1106—M1120, F1118—F1132, coped with problems M1106, M1111—M1117, M1120, F1120, F1123, F1125, F1131, F1132.
+Below we publish the names of those who sent correct solutions to the remaining problems (the numbers after the last name are the last digits of the solved problem numbers).
+
+Mathematics
+V. Abrahamyan (Byurakan village, Armenian SSR) 07, 18;
+A. Akimov (Evpatoria) 07, 08, 18, 19;
+A. Hakobyan (Yerevan) 18; N. Andrishenko (Elektrostal) 07–09, 18, 19; V. Andrishenko (Vinnitsa) 18; I. Arzhantsev (Kyiv) 07, 08, 18, 19; V. Aryasov (Kyiv) 18; E. Bakenov (Karaganda) 18; V. Baranovsky (Omsk) 07–09, 18, 19; I. Bashuk (Great Bridges) 07; V. Belousov (Evpatoria) 18; A. Vozdanov (Stary Oskol) 19; I. Borodin (Kirov) 08, 18; I. Boshansky (Riga) 07; I. Bratsina (Chelyabinsk) 18; J. Brener (Vilnius) 07, 18; Yu. Velikina (Diepropetrovsk) 07-10, 18, 19; R. Woodnas (Druskininsky) 18; T. Vovkivsky (Chernivtsi) 08; I. Voznikok (Krasoarmeysky KazSSR) 07; K. Volchenko (Donetsk) 07; M. Vibornov (Kyiv) 07–10, 18, 19; K. Genov (Sofia, NRV) 07; A. Gerasimenko (village Termrok, Krasnodar region) 19; Yu. Grinfeld (Moscow) 07, 08, 18, 19; A. Gurman (Odessa) 07; K. Davtyan (Yerevan) 07, 18; A. Davydov (village Elfimovo, Gorky region) 18; P. Danchev (Plovdiv, NRV) 07; A. Denisov (Izhevsk) 09; Kh. Jafarov (village of Turkba Autonomous Soviet Socialist Republic) 07, 08; D. Dolgopat (Rutov) 18, 19; Yu. Doroshenko (Odessa) 07; V. Dubrov (Minsk) 07, 08, 18; E. Duda (Kharkov) 18; S. Zharkov (Kyiv) 18; I. Zelenko (Saratov) 07, 08, 18, 19; S. Zelik (Kramatorsk) 07–10, 18, 19; V. Ivlev (Dzhezkazgan) 18; I. Innatov (Semenovskoye village, Moscow region) 07, 08; M. Innatev (Moscow) 18, 19; I. Izmestsev (Suna village, Kirov region) 18, 19; I. Iopne (Moscow) 18, 19; D. Kabysh (Moscow) 07; V. Kaloshin (Kharkov) 07-09; L. Kampinshtein (Kyiv) 07, 08, 18, 19; I. Kaputchina (Moscow) 18; S. Kasamann (Yerevan) 18; I. Kvitashvili (Tbilisi) 18; I. Kirillov (Chernivtsi) 07, 08, 18, 19; A. Korpilov (Rostov-on-Don) 18; A. Korpilov (Moscow) 07, 08, 18, 19; A. Krapivin (Kharkov) 18; Kronin (Leningrad) 19; M. Laba (Lviv) 18; I. Lapusta (Terpopol) 08, 09, 18; V. Levshin (Moscow) 18; S. Lesik (Donetsk) 08; Yu. Litvinova (Kyiv) 07; E. Lomovtseva (Belorets) 07-09, 18; A. Losev (Leningrad) 08; I. Markov (Kyiv) 07-10; V. Marchenko (Minsk) 19; A. Melikyan (Yerevan) 07-09; A. Melnikinov (Krasodar) 07, 08; A. Melnikinov (Moscow) 18; V. Misakyan (Yerevan) 07, 18; A. Mikhailov (Moscow) 07-09; S. Mikhno (Krasodar) 18; A. Morozova (Odessa) 07; R. Muchnik (Vinnitsa) 07–09, 18, 19; O. Naymov (Volga region) 18; D. Niksic (Kyiv) 07-09; I. Opulsky (Kyiv) 18, 19; V. Ostrik (Zhdanov) 07; V. Petrenko (Diepropetrovsk) 18; Z. Petrenko (Druzhny settlement, Minsk region) 07, 09, 18; A. Pilipenko (Kyiv) 18;
+(Continued on page 43)

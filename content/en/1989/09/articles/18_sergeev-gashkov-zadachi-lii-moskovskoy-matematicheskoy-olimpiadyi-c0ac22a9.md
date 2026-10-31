@@ -1,0 +1,71 @@
+---
+id: 1989-9-sergeev-gashkov-zadachi-lii-moskovskoy-matematicheskoy-olimpiadyi-c0ac22a9
+issue: kvant_1989_9
+year: 1989
+number: "9"
+title: Problems of the LII Moscow Mathematical Olympiad
+authors:
+  - Сергеев И. Н.
+  - Гашков С. Б.
+rubric: olimpiady
+rubric_sub: Олимпиады
+page_first: 75
+page_last: 75
+page_labels: "73"
+tag: W3HU
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 83466f931f5adf24595f13414798ce3717ac069c11135c5bec3fe39254589266
+prompt_sha256: draft-1
+translated_from: content/ru/1989/09/articles/18_sergeev-gashkov-zadachi-lii-moskovskoy-matematicheskoy-olimpiadyi-c0ac22a9.md
+source_content_sha256: 0a55b0a9742b4bf6417a316ef4b807bb7103fc643949dc02d48735fedad3e096
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 73⟧
+
+$$\omega = \arcsin\left(\frac{2}{\sqrt{3}} \sin \alpha\right).$$
+
+I hope that the three sinus theorem will be useful to you in preparing for the entrance exams. In conclusion, a few more tasks.
+
+1. The leg of an equilateral right triangle is inclined to the plane $\alpha$, passing through the hypotenuse, at an angle $30^\circ$. Prove that the angle between the plane $\alpha$ and the plane of the triangle is equal to $45^\circ$.
+
+2. Side $AB$ of a rhombus $ABCD$ with an obtuse angle $120^\circ$ lies in a certain plane $\tau$, making an angle $45^\circ$ with the plane of the rhombus. The area of ​​a rhombus is $72 - \sqrt{3} \text{ cm}^2$. Determine the distance from side $CD$ to plane $\tau$ and the angle that the major diagonal of the rhombus makes with the same plane.
+
+3. Line $AB$ is parallel to plane $\tau$. Line $CD$ intersects line $AB$ at angle $\alpha$ and forms angle $\varphi$ with plane $\tau$. Determine the angle between the plane $\tau$ and the plane in which the lines $AB$ and $CD$ lie.
+
+Fig. 4.
+
+4. In a right triangle, a plane is drawn through the bic sector of the right angle, which makes an angle $\alpha$ with the plane of the triangle. What angles does this plane make with the sides of the triangle?
+
+5. Find the volume of a regular triangular pyramid whose base side is equal to $\alpha$ and forms an angle $\alpha$ with the side face.
+
+Description
+
+Task LII of the Moscow Mathematical Olympiad
+
+7th grade
+
+1. The square is divided into 16 equal cells. Place each of the letters $A, B, C, D$ in these cells four times so that there are no identical letters on any horizontal, any vertical and two large diagonal ones.
+
+2. Drawing the smallest number of lines (circles and straight lines using a compass and ruler), construct a straight line passing through a given point parallel to a given straight line.
+
+3. In a dark room, 4 pairs of noses of two different sizes and two different colors lie in disarray on a shelf. What is the smallest number of noses that must be transferred from the shelf to a suitcase without leaving the room so that it contains two pairs of different sizes and colors?
+
+4. The tourist left the camp site on a kayak at 10:15 a.m. with the obligation to return no later than 1:00 p.m. the same day. It is known that the speed of the river is 1.4 km/h, the speed of a kayak in still water is 3 km/h. What is the maximum distance a tourist can travel from the camp site if every 30 minutes of rowing he rests for 15 minutes, does not touch the shore, and can turn back only after resting?
+
+5. Find all natural numbers $x$ that satisfy the following conditions: the product of the digits of the number $x$ is equal to $4 \cdot x - 86868$, and the sum of the digits is the cube of the natural number.
+
+8th grade
+
+1. Solve the equation
+$$(x^2 + x)^2 + \sqrt{x^2 - 1} = 0.$$
+
+2. Some of the cells of infinite checkered paper are painted red, the rest are white (not necessarily in a checkerboard pattern). A grasshopper clasps on red squares, and blues on white squares, and each buckle can be made to any distance vertically or horizontally. Prove that the grasshopper and bluexa can be close by making a total of no more than three buckles.
+
+3. Drawing the least number of lines (circles and straight lines using a compass and ruler), construct a perpendicular to a given line passing through a given point a) outside this line; 6) on it.
+
+4. The subset $X$ can be “two-digit” numbers 00, 01, ..., 98, 99 such that in any infinite sequence of digits there are two digits standing next to each other and forming numbers from $X$. What is the smallest number of numbers that $X$ can contain?

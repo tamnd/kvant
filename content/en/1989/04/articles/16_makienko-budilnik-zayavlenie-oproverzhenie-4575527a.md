@@ -1,0 +1,54 @@
+---
+id: 1989-4-makienko-budilnik-zayavlenie-oproverzhenie-4575527a
+issue: kvant_1989_4
+year: 1989
+number: "4"
+title: '[Alarm. Statement. Refutation]'
+authors:
+  - Макиенко И.
+rubric: kvant-ulybaetsya
+rubric_sub: «Квант» улыбается
+page_first: 66
+page_last: 66
+page_labels: "64"
+tag: RLEG
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 45b977d032d42b9533e87908de3a71fdc7b0da4459602f10c50a1d4ef90f6356
+prompt_sha256: draft-1
+translated_from: content/ru/1989/04/articles/16_makienko-budilnik-zayavlenie-oproverzhenie-4575527a.md
+source_content_sha256: c530e69e068d562dc3d75bcfe970b3763cfbf70228d26605aea7269391fe66c1
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 64⟧
+
+Fig. 4. Fig. 5.
+
+H the brick falls and remains on the cart. How much tellote will be released upon impact? Brick mass $m$.
+
+2. A nucleus flying at a speed of $v$ scatters into two fragments as a result of a nuclear reaction. The masses of the fragments are $m_1$ and $m_2$, and their velocities $v_1$ and $v_2$ make an angle of $\alpha$ with each other. What energy is released in this reaction?
+
+3. A block of mass $M$ lying on a smooth horizontal surface is attached to a vertical wall by a stiffness spring $k$. A horizontal flying bullet hits the block and gets stuck in it. Find the maximum deformation of the spring. The mass of the bullet is $m$, its speed is $v$.
+
+Fig. 6.
+
+4. A wedge of mass $M$ (Fig. 5) stands on a smooth horizontal plane. At the exit wedge, a body of mass $m$ moving along the plane with a speed $v$. To what maximum height does a body rise along the wedge? The lower part of the wedge has a floating connection with the plane.
+
+5. The trolley is equipped with a tent, to which a ball is attached with a thread (Fig. 6). First, the thread with the ball is held at an angle $\alpha$ to the vertical, and then released. Find the maximum speed achieved by the cart. The mass of the cart with the shank is $M$, the mass of the ball is $m$, the length of the thread is $l$. The cart is on a smooth horizontal plane.
+
+Quanti ultobya
+
+Alarm
+A highly effective alarm clock was invented by young physicists from the city of Zevakinsk. For the first 10 minutes, it plays a regular bell, the second 10 minutes - the work of a space digester, and the last 2 minutes - the voice of the school principal.
+
+Refutation
+Decimal Semenov convincingly proved the untrue story that Newton made his remarkable discovery after an apple fell on him. All Sunday Semenov’s classmate Pupkov threw various varieties of apples on his head. Nothing great came to Semenov’s mind.
+
+Prisal I. Maktsenko
+
+Statement
+In order to check the results of Galileo Galilei’s experiments in connection with the upcoming exam in physics, as well as the lack of leaning towers in our city, I ask you to send me to the city of Pisa on time. Petrov.

@@ -1,0 +1,58 @@
+---
+id: 1972-4-presman-reshenie-kvadratnyih-uravneniy-s-pomoschyu-tsirkulya-i-lineyki-1554d699
+issue: kvant_1972_4
+year: 1972
+number: "4"
+title: Solving quadratic equations using compass and ruler
+authors:
+  - Пресман А. А.
+rubric: osnovnye-stati
+page_first: 36
+page_last: 36
+page_labels: "34"
+tag: 4KXZ
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 922ba351d68482301e7b177c88e4192fe43ee9d26355cd9ce8f080b08eb1e4cb
+prompt_sha256: draft-1
+translated_from: content/ru/1972/04/articles/09_presman-reshenie-kvadratnyih-uravneniy-s-pomoschyu-tsirkulya-i-lineyki-1554d699.md
+source_content_sha256: 38a6ea94d2f87e15482b9e3f374d63cefcdd866f9f8f9993829783f22e0789f4
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 34⟧
+
+A. A. Presman
+
+The graphical method of solving a quadratic equation using a parabola is inconvenient. If you build a parabola from points, it takes a lot of time, and the degree of accuracy of the results obtained is not great.
+
+And one day, remembering about geometric constructions, while studying a problem, I asked the following question: “Why don’t we solve quadratic equations using a compass and a ruler? After all, it’s very easy to construct a circle!”
+
+This is how a mathematical problem arose in class:
+
+Using these real coefficients $a$, $b$ and $c$, equations $ax^2+bx+c=0$ determine the radius and coordinates of the center of the circle intersecting the Ox axis at points whose abscissas are the roots of this equation (everywhere below we assume that $a \neq 0$).
+
+It is immediately clear that there are many such circles, so let us assume that the desired circle intersects the x-axis at the points $B(x_1, 0)$ and $C(x_2, 0)$, where $x_1$ and $x_2$ are the roots of the equation $ax^2+bx+c=0$, and passes (for definition) through the point $A(0, 1)$ (Fig. 1).
+
+Then, by theorem o. secants
+
+$$OC \cdot OB = OE \cdot OA,$$
+
+where
+
+$$OE = \frac{OB \cdot OC}{OA} = \frac{x_1 \cdot x_2}{1} = \frac{c}{a}.$$
+
+The center $S$ of the circle is at the intersection point of the perpendiculars $SF$ and $SK$, restored at the midpoints of the chords $AE$ and $BC$, therefore
+
+$$OK = \frac{x_1 + x_2}{2} = \frac{-b}{2a},$$
+
+$$OF = \frac{1 + \frac{c}{a}}{2} = \frac{a + c}{2a}.$$
+
+This leads to the following method of finding the roots of the quadratic equation $ax^2+bx+c=0$ using a compass and ruler.
+
+Let's construct points $S\left(-\frac{b}{2a}, \frac{c+a}{2a}\right)$ (center of the circle) and $A(0, 1)$. Then draw a circle with radius $SA$. The abscissas of the point of intersection of the circle with the Ox axis are the roots of the original quadratic equation.
+
+Fig. 1.

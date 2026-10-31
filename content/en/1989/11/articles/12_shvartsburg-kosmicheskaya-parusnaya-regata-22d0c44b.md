@@ -1,0 +1,47 @@
+---
+id: 1989-11-shvartsburg-kosmicheskaya-parusnaya-regata-22d0c44b
+issue: kvant_1989_11
+year: 1989
+number: "11"
+title: Space sailing regatta
+authors:
+  - Шварцбург А. Б.
+rubric: raznoe
+rubric_sub: Разное
+page_first: 45
+page_last: 45
+page_labels: "43"
+tag: L7LY
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: d662399f0b162b1ffa9e64662caf4c80fbceaf1998fc1a3cb9ef3073557fac58
+prompt_sha256: draft-1
+translated_from: content/ru/1989/11/articles/12_shvartsburg-kosmicheskaya-parusnaya-regata-22d0c44b.md
+source_content_sha256: 35c3095d0f59ed257a841cde63df1046c573174c7b9ef8911cc915b69815d51c
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 43⟧
+
+Space sailing regatta
+
+In December 1988, an international competition began for the development of spacecraft (SV) designs with a solar sail. The competition was announced by a commission formed by the US Congress in connection with the 500th anniversary of the discovery of America. The terms of the competition provide for the launch of three spacecraft - one from America (North and South), one from Europe and one from Asia - along the Earth-Moon-Mars route.
+
+Movement under a solar sail is associated with the pressure of sunlight on the mirror surface of such a sail, which is a thin metal film (usually aluminum) applied to a polymer base for strength.
+
+To carry out an international flight, first of all, you need to launch the spacecraft into orbit of an artificial Earth satellite and unfurl the sail (preliminarily roll it up). After this, acceleration will begin along an international trajectory, which is a logarithmic spiral centered on the Sun. As a result, the device should enter a lunar or near-Mars orbit.
+
+The competition is planned to be held in three types, ending on October 12, 1989, 1990 and 1991. (In each type, it is possible to partially finance the work at the expense of the organizers of the anniversary in the USA.) The launch of the developed spacecraft is proposed to be carried out on the day of the 500th anniversary of the discovery of America - October 12, 1992.
+
+The weight of the device, launched in memory of the 500th anniversary of the discovery of America, is limited to 500 kilograms. More precisely, designers can use only 499 kg at their discretion, and 1 kg corresponds to the so-called mandatory load, which includes evidence of outstanding historical and cultural monuments of each continent. This cargo is a dump on the surface of the Moon or Mars along with an honorary list of hundreds of names of cultural, scientific and economic activities that have glorified the continent. For European participants in the competition, the obligatory cargo includes copies of the Great Charter, copies of the Old and New Testaments, the score of Beethoven's 9th Symphony and the Universal Declaration of Human Rights. Contestants from America must send into space religious monuments of the Incas, a portrait of Simon Bolivar, an element of machine memory, copies of the US Constitution and the Declaration of Independence. For competitions from Asia, copies of the Legend of Gilgamsha, the first mathematical texts, the use of the symbol “0” and the decimal system of numbers are provided.
+
+The main purpose is to operate and practice technical flight under a solar sail. In this regard, it will be necessary to solve a number of necessary problems in space technology (is it possible to use the centrifugal forces of inertia arising from the satellite to unfurl the sail, roll it up during the launch of the satellite into orbit?), physics (what does it do with a large electric charge that will accumulate on a sail with an area of ​​​​several hectares when moving in space plasma?), navigation (how to control movement along a spiral trajectory?).
+
+Any non-ruling scientists and engineers can take part in the announced competition. Among the participants there are groups from large companies (Westingas, Aero-Italia) and famous universities in Europe and America. Teams from industry and the USSR Academy of Sciences are participating from our country. The organizing committee of the competition specifically provides for the participation of at least five students in each team.
+
+Based on the announced rates of completion of the competitions, the three years remaining before the start is a very short period of time. In such conditions, success can only be achieved by dining with teachers from different countries. Such cooperation, in contrast to the high level of greenness and structure of the space sail race, is a characteristic feature of this first international sailing regatta.
+
+A. V. Schwartzburg

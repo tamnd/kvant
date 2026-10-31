@@ -1,0 +1,56 @@
+---
+id: 1972-10-zadachi-1e0ad2e0
+issue: kvant_1972_10
+year: 1972
+number: "10"
+title: Tasks
+rubric: smes
+page_first: 32
+page_last: 32
+page_labels: "30"
+tag: ZHGQ
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 38c64fca1c8b68393c3ccb733782805f6f95d774dc6e6ffd8d41411ec3cee3c8
+prompt_sha256: draft-1
+translated_from: content/ru/1972/10/articles/08_zadachi-1e0ad2e0.md
+source_content_sha256: 8ab9c9861c5fccb3eb3756711ce807c3a1bf713c2fcea1d6f47c6dc500efee91
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 30⟧
+
+Fig. 17.
+
+Problem 11. Prove that every equilateral triangle can be cut into any number of similar triangles, starting with two.
+
+Problem 12. Can this be approved for cutting into triangles similar to the original one?
+
+Problem 13. Show that any triangle can be cut into four triangles similar to the original one.
+
+Problem 14. Show that any triangle can be divided into any number of triangles similar to the original one, starting with six.
+
+Problem 15. Show that if a triangle is divided into three similar triangles, then it is either a primordial or an equilateral triangle.
+
+Problem 16. Can this be approved for cutting into five similar triangles?
+
+Problem 17. Prove that if each figure is divided into n similar triangles, then you can indicate any number m that it will be divided into any number of similar triangles greater than m.
+
+Problem 18. Show that there are some extremely thin triangles that cannot be divided into similar triangles.
+
+In conclusion, let us mention some of the problems solved.
+
+Problem 1: Can a rectangle be divided into an odd number of triangles?
+
+Problem 2. The same question for an arbitrary parallelogram. (We assume that the answer to both of these questions is omicative.)
+
+Problem 3. Is there a boundary that cannot be divided into similar triangles?
+
+(It would be interesting to see some progress on this problem by improving the method we use to solve the problem of cutting boundaries into equal triangles)
+
+Problem 4: Explore cuttings of other "polygonal regions". Let us find necessary and sufficient conditions for the existence of a cut.
+
+Problem 5: Investigate the cutting of polygons into paramids.

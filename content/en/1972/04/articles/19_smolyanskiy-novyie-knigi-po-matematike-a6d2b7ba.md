@@ -1,0 +1,78 @@
+---
+id: 1972-4-smolyanskiy-novyie-knigi-po-matematike-a6d2b7ba
+issue: kvant_1972_4
+year: 1972
+number: "4"
+title: '[New books on mathematics]'
+authors:
+  - Смолянский М. Л.
+rubric: retsenzii-bibliografiya
+page_first: 72
+page_last: 72
+page_labels: "70"
+tag: F8S2
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 05575f11cd4baa8135c4304a23c6412db25fa3c6b63909ce6266c23b1ca708f7
+prompt_sha256: draft-1
+translated_from: content/ru/1972/04/articles/19_smolyanskiy-novyie-knigi-po-matematike-a6d2b7ba.md
+source_content_sha256: bb8907377a679fae5cdc9a68f2fe9635459a4139d726465c61ea68adce07f07e
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 70⟧
+
+NEW BOOKS
+
+Starting from this issue, the editors will systematically provide annotations on books that are published this year and are of interest to our readers. The following books will be published in the first and second quarters of 1972. (Orders can be sent to the address: Moscow, K-50, Medvedeva St., 1, store No. 8 Moskovitsy, “Book-by-mail” department. Books will be sent by cash on delivery.)
+
+MATHEMATICS
+
+Publishing house "Science"
+
+1. S. G. Gindikn. Allebra loedica in problems. (volume 18 printed sheets, circulation 50,000 copies, price 77 kopecks)
+The book describes in detail a number of issues of mathematical logic, including: the allebra of propositions, elements of predicate logic, mathematical issues of the theory of relay circuits, probabilistic logic.
+All presented material is divided into cycles of problems, complete with the necessary explanations, instructions, answers, and in some cases detailed solutions.
+Most of the questions are presented at a level accessible to students in grades 9-10 in physics and mathematics schools.
+2. V. A. Kretschmar. Allebra assignment. (Volume 21 printed sheets, circulation 100,000 copies, price 69 kopecks)
+The book contains problems of increased difficulty in alebra and trigonometry.
+The tasks are given with subtitles, answers, and in most cases, detailed solutions. All tasks are systematized into sections. The necessary theoretical information is provided at the beginning of each section.
+The book is designed, first of all, for people who are ready for competitive university exams.
+3. I. G. Bashmakov. Diophantus and Diophantine equations. (Volume 3 printed sheets, circulation 25,000 copies, price 10 kopecks)
+The brochure tells in detail about the work of one of the greatest Greek mathematicians - Diophantus.
+
+Using specific examples, the author shows Diophantus’ methods in solving a number of problems.
+It also outlines some modern concepts and methods of Diophantine analysis.
+The brochure is intended for a wide range of readers.
+
+Publishing house "Mir"
+
+4. M. Gardner. Mathematical trivia, paradoxes, goldsmiths, tricks. (Volume 25 printed sheets, circulation 100,000 copies, price 1 rub. 47 kopecks)
+This book was written by a famous American popularizer of science. You've probably read his previous book, Math Puzzles and Fun.
+In a lively and engaging form, the author tells many amazing things from various branches of mathematics.
+Puzzle lovers will be able to use their powers to solve paradoxes and problems, as well as perform mathematical tricks.
+The book is accessible to a wide range of readers.
+5. L. Carroll. The story of the knots. (Volume 23 printed sheets, circulation 150,000 copies, price 1 rub. 15 kopecks)
+The name of the author of this book is widely known to the reader. His books “Alice in Wonderland” and “Alice through the Looking Glass” were published many times in the Soviet Union.
+For the first time in our country, the new book publishes all the most interesting puzzles and problems from the pen of this wonderful writer.
+The book is intended for a wide range of readers.
+
+Publishing house "Vyshaya Shkola"
+
+6. A collection of problems in mathematics for exam competitions at colleges and universities.
+Ed. M. M. Skana in i. (Volume 25 printed sheets, circulation 300,000 copies, price 68 kopecks)
+This collection is a guide for those entering higher education.
+The collection consists of two parts: “Tasks for written exams (hours I) and tasks for oral exams and additional tasks (hours II). In total, the collection contains about 5,000 problems.
+All tasks of the pen part are divided into three groups according to their level of complexity.
+All problems are given with detailed instructions or solutions.
+
+Publishing house "Prosveshcheniye"
+
+7. W. Sawyer. Prelude to mathematics. (Volume 17 printed sheets, circulation 40,000 copies, price 70 kopecks)
+The book by the famous American mathematician and popularizer of science W. Sawyer introduces the reader to the basic ideas of modern mathematics. In a lively and entertaining manner, the author talks about students' perception of mathematical thinking, the beauty and power of mathematical methods, and the origins of the main trends in mathematics.
+You can read more about this book in the magazine «Kvant» No. 1 for 1972.
+The book is intended for a wide range of readers.
+M. L. Smolyansky

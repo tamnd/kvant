@@ -1,0 +1,56 @@
+---
+id: 1972-11-levantovskiy-raketoy-k-solntsu-45d71769
+issue: kvant_1972_11
+year: 1972
+number: "11"
+title: Rocket to the Sun
+authors:
+  - Левантовский В. И.
+rubric: osnovnye-stati
+page_first: 31
+page_last: 31
+page_labels: "29"
+tag: U7AT
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 642a66eec8fc207b9190f3d95f2d287ae59f4f4d86fcb1f02e03a3c6437b92e9
+prompt_sha256: draft-1
+translated_from: content/ru/1972/11/articles/11_levantovskiy-raketoy-k-solntsu-45d71769.md
+source_content_sha256: 05f1bb51cf56a1a11d7388a0aacea09f044d58ee694350ed66acf1edd17cc7e1
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 29⟧
+
+At first glance, it seems that hitting the Sun with a rocket is as easy as an apple falling to Earth.
+
+In many science fiction stories dedicated to space flight, the fall of a spaceship to the Sun is depicted as the most terrible catastrophe that can befall explorers of the Solar System. Sometimes the fall occurs due to a technical malfunction, sometimes due to a pilot error when controlling the ship...
+
+Meanwhile, a fall on the Sun for an accidental reason is as impossible as, say, an accidental fall on the Moon of an airplane performing aerobatics. The fact is that it is possible to transfer a spacecraft to a falling trajectory towards the Sun only by expending a greater amount of energy, which requires too much fuel.
+
+Let's calculate the speed that the launch vehicle must impart to the spacecraft so that it can reach the Sun. If the launch took place from a non-gravitating Earth, then the rocket would only have to develop a speed opposite to the orbital speed of the Earth and equal to it in magnitude, that is, equal to 29.77 km/s. Thus, the gel-centric speed of the spacecraft (speed relative to the Sun) would be equal to zero, and it would begin to fall towards the Sun along a straight trajectory.
+
+Taking into account now the effect of gravity. Let the geocentric speed of the spacecraft (velocity relative to the Earth), when falling, become far from the Earth (“at infinity”), where the Earth’s attraction is no longer erroneous, equal to $v_\infty=29,77$ km/s. Let us write the law of conservation of mechanical energy for this case:
+
+$$\frac{mv_H^2}{2} - \frac{\gamma Mm}{r_H} = \frac{mv_\infty^2}{2}$$
+
+(1)
+
+($m$ and $M$ are the corresponding masses of the spacecraft and the Earth, $v_H$ and $r_H$ are the speed and distance from the center of the Earth at the beginning of the passive flight (at the end of acceleration), $\gamma$ is the gravitational constant). On the right side there is no potential energy of the rocket in the field of gravity, which is equal to zero at infinity. From here we get
+
+$$v_H^2 = v_\infty^2 + \frac{2\gamma M}{r_H}$$
+
+(2)
+
+But the second term on the right side of the formula is equal to the square of the release velocity $v_{\text{OCB}}$ (second escape velocity). This can be verified by putting $v_H=v_{\text{OCB}}$, $v_\infty=0$ in the last equation (in accordance with the definition of the release rate).
+
+So,
+
+$$v_H = \sqrt{v_\infty^2 + v_{\text{OCB}}^2}$$
+
+(3)
+
+Taking $v_{\text{OCB}}=11,19$ km/s (conventional value at the Earth’s surface) and $v_\infty=29,77$ km/s, we find: $v_H=31,8$ km/s. This speed must be imparted to the rocket so that it can reach the Sun. This speed is sometimes called escape velocity. It is almost twice the third escape velocity (16.67 km/s), which ensures departure from the Solar System.

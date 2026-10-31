@@ -1,0 +1,69 @@
+---
+id: 1989-12-gik-poedinki-kompyuterov-a9358909
+issue: kvant_1989_12
+year: 1989
+number: "12"
+title: Computer fights
+authors:
+  - Гик Е. Я.
+rubric: shahmatnaya-stranichka
+rubric_sub: Шахматы
+page_first: 83
+page_last: 83
+tag: 9WJZ
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 1f139f2328be799a50c770bdd8d3a1586f52341598d3059efec5080188d29d27
+prompt_sha256: draft-1
+translated_from: content/ru/1989/12/articles/02_gik-poedinki-kompyuterov-a9358909.md
+source_content_sha256: a3481a2d6baeb4d2f5e9cec0d1f1089a2a9d36bd515aacbb7ea065e18d8d6ab0
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 28⟧
+
+FIGHTS
+COMPUTERS
+
+Last time we presented several computer games with chess players. Perhaps the reader «Kvant» is even more interested in the games of electronic chess players. Talking about the main match of the eighth world championship among chess microcomputers（《Kvant》 No. 8 for 1989), we limited it to one game won by Fidelity. However, the fight, as we remember, ended with the internal victory of “Mephisto”.
+
+"Mephisto" - "Fidelity"
+Slavic defense
+1. d4 d5 2. Kf3 Kf6 3. c4 c6 4. Kc3 e6 5. e3 Kbd7 6. Cd3 dc 7. C:c4 b5 8. Cd3 a6 9. e4 c5 10. e5 cd 11. K:b5 K:e5 12. K:e5 ab 13. C:b5+ Cd7 14. K:d7 Qa5+ 15. Cd2 Q:b5. So far everything is in theory, the position after 16. K:f8 Kp:f8 17. a4 Ф:b2 is considered equal as an example. Mephisto chooses a new path. 16. K:f6+ gf 17. a4!? Qxb2 18. 0—0 Cd6 19. Qf3! White takes decisive action. 19...Ke7 20. Rfb1! C:h2+ 21. Kp:h2 Q:d2 22. Rb7+ Kpd6 23. Jld1 Qh6+ 24. Kpg1 Jl:a4 25. Qc3! Rlb8 26. Qc7+ Kpd5 27. Jl:b8. It's all over: the rook is captured, followed by the queen - 27...Kpe4 28. Qc2+ Kpf4 29. Qc1+ and 30. Q:h6.
+
+In the third world championship among mainframe computers (1980), the Soviet program "Kansa", the first world champion, was not in the best sports shape; it won one of the games in a good positional style.
+
+"Michess" - "Kansa"
+Old Indian defense
+1. d4 Kf6 2. c4 c5 3. d5 d6 4. Kc3 g6 5. Kf3 Cg7 6. e4 0—0 7. Cg5 h6 8. C:f6 C:f6 9. Qd2 h5 10. 0—0—0 Cg4 11. Ce2 Kd7 12. h3 C:f3 13. C:f3 Qa5 14. g4 Cd4 15. Kpb1 Ke5 16. Ce2 C:f2 17. gh Cd4 18. hg fg 19. Kb5 Q:d2 20. Jl:d2 Ce3 21. Jld1 Jlf2 22. Kc3 Raf8 23. h4 Cd4 24. Jld1 Jlf4 25. Jlc1 C:c3 26. Jlc3 Jl:e4 27. Jlc2 Jlf2 28.
+
+Cd1 Jl:c2 29. Kp:c2 Jl:c4+ 30. Kpd2 Jl:d4+ 31. Kpe3 Kc4+ 32. Kpe2 K:b2, and Black has sold his extra pawns.
+
+In the USA, national championships and other competitions among computers have been held for many years, the composition of students of which is not very different from the highest computer forums. The next game was played in one of the American championships.
+
+"Chess" - "Daches"
+Scandinavian protection
+1. e4 d5 2. ed Q:d5 3. Kc3 Qd6 4. d4 Cf5 5. Kf3 Kc6 (better than 5...c6) 6. Kb5 D7 7. Cf4 Jlc8 8. Ke5 K:e5 9. de! Qc6 10. Qf3. Razmenferey in this version deprives White of the initiative. Correct was 10. Qe2! Q:c2 11. Q:c2 C:c2 12. Rlc1 Ce4 13. K:c7+ Kpd8 14. e6 with a strong attack. 10...Q:f3 11. gf a6 12. Kd4 Cd7 13. 0—0—0 g6. White should have chosen 13. e6!, but now Black could prevent this breakthrough by continuing 13......e6. 14. Kb3 Jld8. Again White rightly waits with e5 - e6, and Black for some reason does not pay attention to this threat. 15. Ka5 Cc8 16. Jl:d8+ Kp:d8 17. Cc4 Kpe8 18. Jld1. Once again, Black misses the opportunity to prevent e5 - e6, and White does not take advantage of this. 18...Ch6 19. Cd2 Cg7 20. Cc3 Cc6? 21. e6! Finally! 21...Ch6+ 22. Kpb1 f6 23. K:b7! C:b7 24. Ca5 Kpf8 25. Jld7! A quiet move that gracefully completed the combination. 25...Cf4 26. h3 Ce5 27. Jl:b7 g5 28. C:a6 h5 29. a4 Jlh6 30. Cc4 f5 31. Cd2 Jlg6 32. a5 Cd4 33. a6 C:f2 34. a7 C:a7 35. Jl:a7, and White has the upper hand.
+
+At the 1986 North American Championship, two-time world mainframe champion Cray Blitz suffered his first defeat after a three-year winning streak.
+
+"Cray Blitz" - "Bebe"
+Sicilian defense
+1. e4 c5 2. Kf3 d6 3. d4 cd 4. K:d4 Kf6 5. Kc3 g6 6. Cg5 Cg7 7. Qd2 Kc6 8. 0—0—0 0—0 9. Kb3 Jle8 10. Cc4 Kg4
+
+11. h3 Kge5 12. Cb5 a6 13. Ce2 a5 14. Cb5 Ce6 15. Kd5 a4 16. Kd4 Cd7. I gave up machine theory for a long time, but I haven’t made any obvious mistakes in the maneuvering game yet. Now Black threatens to win a piece: 17...K:d4 18. C:d7 K:d7. However, the opponent's white bishop made several extra moves and was not able to stand another tempo: 17. Ce2. 17. Ce3 was also accepted. But the computer, to its misfortune, started a change operation.
+
+17. K:kc bc 18. K:e7+ Jl:e7 19. C:e7 F:e7 20. Ce2. Probably, White figured that he would take another pawn and would not break the material equality on the board. But in an open game, two minor pieces are always stronger than a rook, even if it is accompanied by several pawns. Information for research into chess machine psychology! 20... ... Qe6 21. Kpb1 Jlb8. 22...Jl:b2+ 23. Kp:b2 Kc4+ threatens, and White is forced to make new weakenings of his queenside. 22. b3 ab 23. cb Ce8 24. Kpc2 Kd7 25. f3 Jla8 26. Kpc1 Kc5 27. Fc2 Qf6 28. Cc4 Qa1+ 29. Kpd2 Q:a2 Jl:a2+, and Black easily realized the advantage.
+
+"Mark V" - "Hinton"
+Defense of Karo-Kanni
+1. e4 c6 2. c4 d5 3. ed cd4 cd Kf6 5. Qa4+ Cd7 6. Qb3 Qc7. The theoretical continuation 6...Ka6, without describing 7. Qb7 Kc5 8. Qb4 e6, and after 7. C:a6 ba 8. Kc3 Jlb8 Black has enough counterplay. The position of the queen on c7 will soon lead “Mark” to think about a symmetrical combination.
+
+7. Kc3 g6 8. d4 Cg7 9. Cf4! A combination on the theme of distraction. 9...Q:f4 10. Q:b7 0—0 11. Kge2 Qf5 12. Q:a8 Kc6 13. Kg3! Qc2 14. Qb7 Jlb8.
+
+It seems that White's operation to learn the rook failed: now Jl:b2 has decided for the absence of a queen, 15. dc Jl:b7 16. cb Q:b2 is also not suitable. However, a new “distraction” follows, with the help of the second bishop. 15. Cd3! You rarely see such a case even in a game of rooks! 15...Q:d3 16. dc. Black is sweet: after 16...Jl:b7 17. cb the white pawn is confidently promoted to a queen.
+
+E. Ya. Gik

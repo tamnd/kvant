@@ -1,0 +1,43 @@
+---
+id: 1989-7-zadachi-4fe6d629
+issue: kvant_1989_7
+year: 1989
+number: "7"
+title: Tasks
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 45
+page_last: 45
+page_labels: "43"
+tag: GJUY
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 246a925f731d92bc0b7918bc9ea184f8c7d359cf0706a5ffc38f64a3a404613d
+prompt_sha256: draft-1
+translated_from: content/ru/1989/07/articles/08_zadachi-4fe6d629.md
+source_content_sha256: 1c3f4c2b2fbd4201b4921223650b4e4d4d8c04e587d4eb0b0a952857f0e09e31
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 43⟧
+
+Quests
+
+1. Once upon a time, the famous Indian mathematician Ramanujan was riding in a car with his English friend, the mathematician Hardy. “You say there are no unremarkable numbers,” said Hardy. “But my car number, 1729, is not an unremarkable number.” “What are you talking about,” Ramanujan exclaimed, “this is the smallest number that can be represented as the sum of the cubes of two natural numbers in two different ways!” Find both of these representations.
+
+2. Friends gathered in a forest clearing: Parrot, Boa Constrictor, Elephant, Calf, Kitten, Monkey and Baby Camel. The parrot began to measure everyone. It turns out that the Baby Elephant is 3 Parrots longer than the Calf, the Baby Camel is also 3 Parrots longer than the Monkey, the Calf is 7 Parrots longer than the Parrot, the Baby Camel is 6 Parrots longer than the Kitten, and they all fit exactly on the Boa Constrictor, whose length is 38 Parrots. Express the lengths of friends in Parrots.
+
+3. Check that
+
+$$\frac{19^3 - 70^3}{19^3 + 89^3} = \frac{19 - 70}{19 + 89}.$$
+
+And in general $\frac{a^3 - b^3}{a^3 + c^3} = \frac{a - b}{a + c}$ if $c = a + b$.
+
+4. When Petya broke his piggy bank, there were 16 copper coins in it. He divided them into 4 piles of 4 coins each so that there was equal amount of money in each pile. Then he noticed that the sets of coins in all the piles were different. How much money was in the piggy bank?
+
+5. Cut each of the two identical figures (see figure) in the same way into 4 parts so that from the resulting eight pieces you can fold one similar figure with twice the area.
+
+These tasks were suggested to us by: A. P. Savin, M. V. Ulanovsky, student of the 10th grade of scale No. 149, Kharkov S. A. Lyashenko, A. I. Demidov, L. P. Mochalov.

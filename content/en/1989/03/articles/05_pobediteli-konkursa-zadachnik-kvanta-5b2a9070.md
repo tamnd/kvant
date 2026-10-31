@@ -1,0 +1,105 @@
+---
+id: 1989-3-pobediteli-konkursa-zadachnik-kvanta-5b2a9070
+issue: kvant_1989_3
+year: 1989
+number: "3"
+title: Winners of the “Problem Book «Kvant»” competition
+rubric: zadachnik-kvanta
+page_first: 28
+page_last: 28
+page_labels: "26"
+tag: 3JXS
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 1d29da923de732b89097663da37bca9ce851fc03dce935a979179a8632fa0b53
+prompt_sha256: draft-1
+translated_from: content/ru/1989/03/articles/05_pobediteli-konkursa-zadachnik-kvanta-5b2a9070.md
+source_content_sha256: c3ca5c7e87e1327e3bd4629646d3400f86e08edbea9862d86265653e00b45cc4
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 26⟧
+
+Competition winners
+"Problem "Quaita"
+
+Every year our magazine holds a competition among schoolchildren to solve a problem from the “Quaita Problem”. We declare him the winner of the “Quaita Problem” competition of 1988.
+They are awarded the Dillom and the sign of the Quiet magazine and receive the right to participate immediately in the fourth (pre-public) round of the 1989 World Olympiad:
+
+In mathematics
+A. Akimov - Evpatoria, p. w. No. 6, 9 cells.
+A. Akopyan - Jew, Physics and Mathematics School at Yerevan State University, 9th grade.
+Yu. Velikina - Dnepropetrovsk, s. w. No. 45, 9 cells.
+P. Grigoriev - Riga, p. w. No. 13, 10 cells.
+Yu. Grinifeld - Moscow, p. w. No. 57, 10 cells.
+Kh. Jafarov - p. Turkoba AzSSR, 9th grade.
+V. Dubrov - Minsk, p. w. No. 107, 9 cells.
+V. Zhilinskaite - Vilnius, p. w. No. 43, 11 cells.
+I. Zelenko - Saratov, p. w. No. 13, 10 cells.
+I. Iople - Moscow, p. w. No. 57, 10 cells.
+V. Kaloshin - Kharkov, Physics School No. 24, 10th grade.
+L. Kaminshtein - Kyiv, p. w. No. 145, 9 cells.
+N. Kaputkina - Moscow, p. w. No. 648, 10 cells.
+S. Kovatsenko - Vinnitsa, s. w. No. 6, 8 cells.
+G. Kroinn - Leningrad, p. w. No. 30, 9 cells.
+S. Lesik - Donetsk, s. w. No. 17, 10 cells.
+E. Lomovtseva - Beloretsk, p. w. No. 14, 10 cells.
+V. Marchenko - Minsk, p. w. No. 50, 10 cells.
+A. Morozova - Odessa, p. w. No. 100, 9 cells.
+I. Opulsky - Kyiv, p. w. No. 145, 10 cells.
+I. Polyak - Leningrad, p. w. No. 239, 10 cells.
+N. Putinaite - Taurage, p. w. No. 1, 11 cells
+G. Ter-Saakov - Baku, p. w. No. 200, 10 cells.
+S. Ter-Saakov - Baku, p. w. No. 200, 10 cells.
+S. Tikhonov - Voronezh, p. w. No. 58, 9 cells.
+D. Tursunov - Karaganda, p. w. No. 3, 10 cells.
+V. Feldsherov - Alima-Ata, FMS, 10th grade.
+M. Khasidovsky - Tashkent, p. w. No. 110, 10 cells.
+A. Tsinker - Tashkent, p. w. No. 110, 10 cells.
+
+In physics
+A. Akhmadzhanov - p. Alimbek, Andjan region, 10th class.
+N. Ballonas - Vilnius, p. w. No. 45, 10 cells.
+O. Belly - Baku, p. w. No. 56, 10 cells.
+S. Bobrovnik - Chernivtsi, s. w. No. 24, 10 cells.
+E. Byazrova - Tbilisi, p. w. No. 128, 11 cells.
+V. Gavensky - Baku, p. w. No. 46, 10 cells.
+G. Gershanok - Riga, p. w. No. 52, 10 cells.
+V. Golovko - Stary Oskol, p. w. No. 16, 8 cells.
+O. Guar - Kanev, p. w. No. 4, 8 cells.
+V. Deich - Kharkov, Physics School No. 24, 10th grade.
+
+M. Dorokhova - Chernogolovka village, Moscow region, p. w. No. 82, 9 cells.
+V. Dyadechko - Vinnitsa, s. w. No. 17, 10 cells.
+V. Zavadsky - Minsk, p. w. No. 50, 10 cells.
+S. Kazenas - Alima-Ata, FMS, 10th grade.
+M. Kapustin - Lvov, p. w. No. 50, 9 cells.
+S. Karapetyan - Sevan, p. w. No. 3, 10 cells.
+S. Kasamanyan - Yerevan, Physics and Music School at Yerevan State University, 10th grade.
+M. Kovalev - Gubkin, p. w. No. 2, 9 cells.
+A. Kozhevnikov - Kaluga, p. w. No. 24, 10 cells.
+G. Kolesnitsky - Tbilisi, Physics and Music School named after. V. M. Komarova, 11th class.
+M. Kolpakov - Pochet village, Krasnoyirsk Territory, 8th grade.
+A. Komnik - Stary Oskol, p. w. No. 16, 10 cells.
+O. Kondratiev - Brest, p. w. No. 1, 10 grades.
+A. Kraisky - Moscow, p. w. No. 2, 10 cells.
+M. Lysyansky - Novosibirsk, p. w. No. 130, 10 cells.
+R. Mizok - Rivne, s. w. No. 13, 9 cells.
+S. Mikhailov - Namangan, p. w. No. 1, 10 grades.
+Sh. Nurmatov - Namangan, p. w. No. 31, 10 cells.
+E. Pivovarov - Leningrad, p. w. No. 566, 9 cells.
+S. Polshin - Kharkov, p. w. No. 27, 8 cells.
+V. Rosenblit - Riga, p. w. No. 79, 10 cells.
+N. Ryabova - Kharkov, Physics School No. 24, 9th grade.
+A. Serebryakov - Moscow, p. w. No. 57, 10 cells.
+M. Subbotin - Stary Oskol, p. w. No. 16, 9 cells.
+V. Tamoshonas - Vilnius, p. w. No. 45, 10 cells.
+S. Timashov - Alima-Ata, FMS, 9th grade.
+M. Turlakov - Frunze, p. w. No. 61, 10 cells.
+S. Khrapov - Kolomna, p. w. No. 30, 10 cells.
+D. Chokin - Alima-Ata, FMS, 9th grade.
+O. Shvedov - Moscow, p. w. No. 7, 10 cells.
+A. Shvorob - Baranovich, p. w. No. 11, 10 cells.

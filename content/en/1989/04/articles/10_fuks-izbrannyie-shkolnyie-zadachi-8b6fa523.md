@@ -1,0 +1,63 @@
+---
+id: 1989-4-fuks-izbrannyie-shkolnyie-zadachi-8b6fa523
+issue: kvant_1989_4
+year: 1989
+number: "4"
+title: Selected School Problems
+authors:
+  - Фукс Д. Б.
+rubric: shkola-v-kvante
+page_first: 44
+page_last: 44
+page_labels: "42"
+tag: L18B
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 5dba26bad9a40c9c243dd3a2c3f1e4fb2517b646a0653b8ae775ab2b62eebaed
+prompt_sha256: draft-1
+translated_from: content/ru/1989/04/articles/10_fuks-izbrannyie-shkolnyie-zadachi-8b6fa523.md
+source_content_sha256: a3147fc716100937aac4be5706652d2de9885990843d020fd74bba89541157e5
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 42⟧
+
+Mine is on the interval $-\frac{\pi}{2}; \frac{\pi}{2}$ (Fig. 6). The segments close to the point $x$ are stretched by the function $f$ by $f'(x) = \frac{1}{\cos^2 x}$ times. This means that the segments close to the point $y = tg x$ are stretched by the function $g$ by $(1 : \frac{1}{\cos^2 x}) = \cos^2 x$ times. Therefore, $g'(y) = \cos^2 x$. All that remains is to express the right-hand side in terms of $y$. To do this, we use the identity $\cos^2 x = \frac{1}{1 + tg^2 x}$. From this we obtain that $g'(y) = \frac{1}{1 + tg^2 x} = \frac{1}{1 + y^2}$.
+
+So, $(\arctg y)' = \frac{1}{1 + y^2}$. Interestingly, the derivative of the inverse trigonometric function is given by a very simple expression that does not contain anything related to trigonometry.
+
+S. M. Lvovsky
+
+Selected School Problems
+
+Eighth grade
+1. The natural numbers $m$ and $n$ are such that $m > n$, $m$ are not divisible by $n$ and have the same remainder from division by $n$ as $m + n$ from division by $m - n$. Find the ratio $m:n$.
+2. Prove that every infinite arithmetic progression composed of natural numbers contains an infinite geometric progression.
+3. For what $a$ and $b$ does the equation $x^2 + a|x| + b = 0$ have 4 solutions?
+4. Inside the square, on side 1, there is a triangle, each side of which is at least 1. Prove that the center of the square lies inside this triangle.
+5. Two unequal circles are given on a plane. Find the locus of the midpoint of the segments connecting points on one circle to points on another.
+
+Ninth grade
+6. Solve the equation
+$$2^{[x^2 - 4]} = 3^{[1/x]}.$$
+7. Solve the system of equations
+$$\begin{cases} x^{99}y^{99} + 3x^2 - y^2 = 3, \\ x^{99}y^{99} + 2x^2 - 2y^2 = 1, \\ x^{99}y^{99} - x^2 - 3y^2 = -3. \end{cases}$$
+8. The polynomial $a_0x^n + a_1x^{n-1} + \dots + a_n$ takes integer values ​​at all integer points $x$. Can one of its coefficients $a_i$ be equal to 1/13?
+
+9. How many positive numbers are there in the first hundred terms of the sequence?
+$$\sin 1^\circ, \sin 10^\circ, \sin 100^\circ, \sin 1000^\circ, \dots$$
+10. The projections of a certain segment onto two sides of a regular triangle are equal to 2 and 3. Find the projection of this segment onto the third side.
+
+Tenth grade
+11. a) The shortest side of the triangle has length $a = 1$, the longest side has length $b = 2$, one of the angles is $\varphi = 30^\circ$. Find the length of the third side. 6) What is the maximum number of solutions that the previous problem can have with the proper selection of numbers $a, b, \varphi$ (of course, $a > 0, b > 0, 0 < \varphi < 180^\circ$)?
+12. The Kubische equation and the quadratic equation, both with leading coefficient 1 and with rational coefficients, have a common solution. Prove that the cubing equation has a rational solution.
+13. The minimum of functions $y = (x - a)^4 + (x - b)^4 + (x - c)^4$ is 0, and the minimum of functions $y = (x - a)^4 + 2(x + b)^4 + (x - c)^4$ is 4. Find $a, b$ and $c$.
+14. Find all $x$ for which
+$$\sin x \leq \sin 2x \leq \dots \leq \sin 10x.$$
+15. Prove that when cut by a plane at a triangular angle, all of which have plane straight lines, any acute triangle can be obtained.
+
+Publication prepared by
+D. V. Fuks

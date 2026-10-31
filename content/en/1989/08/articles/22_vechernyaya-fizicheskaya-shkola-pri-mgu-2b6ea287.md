@@ -1,0 +1,44 @@
+---
+id: 1989-8-vechernyaya-fizicheskaya-shkola-pri-mgu-2b6ea287
+issue: kvant_1989_8
+year: 1989
+number: "8"
+title: Evening physical school at Moscow State University
+rubric: raznoe
+page_first: 80
+page_last: 80
+page_labels: "78"
+tag: DCGJ
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 3f7a01fe3ed5b059001963ecc103fa873e7c8e97c053b38e2ae22c6b9bca51d7
+prompt_sha256: draft-1
+translated_from: content/ru/1989/08/articles/22_vechernyaya-fizicheskaya-shkola-pri-mgu-2b6ea287.md
+source_content_sha256: 692711b4e5bf6be4c8f67f6564c95bc1ebceea20ebe398e7d44e95cc97da3e6d
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 78⟧
+
+17. "Scientific organization of labor - NOT". You will be presented with 1989 identical nails (l=50 mm, Ø=2.5 mm) hammered into a wooden beam. Which hammer will you choose to get this job done quickly and efficiently? (More specifically, what is the mass of the hammer and the length of its handle?)
+a) Pine timber.
+b) Oak timber.
+
+Assignments prepared by:
+S. D. Varlamov, T. P. Korneeva, A. Yu. Kuseenko, M. Yu. Nikolaev, A. V. Rakhmanov, M. V. Stolyarov, M. M. Tsypin, E. N. Yunosov.
+
+Participants and organizer of Tours
+Currently, youth tours in our country are provided with ample opportunities. The USSR State Committee for Public Education and the Central Committee of the Komsomol adopted a resolution “On the development of a tourist form of work with schoolchildren” dated December 9, 1988. Based on this resolution
+
+Evening physical school at Moscow State University
+
+The Evening Physics School (VPS) at the Faculty of Physics of Moscow State University announces enrollment of students in grades 8, 9 and 10 for the next academic year.
+
+The main goal of the VFS is to help students study physics more deeply within the scope of the school curriculum. Classes are held in the evening in the form of lectures, which have already been held in 1989: the II All-Union and International Tour of Young Physicists, All-Union Winter and Summer Scales for participants and organizers of Tours. In August 1989, the All-Union Summer School-session was held in Ufa, at which for the first time Tours of young Khimki scientists, mathematicians, geologists and young space explorers will be held. However, there are few directives for the widespread dissemination and development of Tourism. It is necessary to include creative teams of Tourism organizers in various regions of our country in active, concrete work. Such groups can be initiative groups of students, teachers, educators, university teachers, Komsomol school committees, scientific institutions of universities, high school students. Organizers of Youth Tours can count on the help of public education organizers.
+
+Otherwise, when the training is completed, they receive a certificate of completion of the Higher School of Physics.
+
+Address: 119899, ​​Moscow, GSP, Leninskie Gory, Moscow State University, Faculty of Physics, Higher School of Physics. Phone: 939-26-56.

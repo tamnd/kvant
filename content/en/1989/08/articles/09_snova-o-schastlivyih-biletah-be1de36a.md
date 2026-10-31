@@ -1,0 +1,73 @@
+---
+id: 1989-8-snova-o-schastlivyih-biletah-be1de36a
+issue: kvant_1989_8
+year: 1989
+number: "8"
+title: Again about lucky tickets
+rubric: nam-pishut
+rubric_sub: Нам пишут
+page_first: 44
+page_last: 44
+page_labels: "42"
+tag: VSQN
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: bbda397ba264fe9cc392c557e3654a4ef2deb53bc88d2c8c1fd06b4df7af6b76
+prompt_sha256: draft-1
+translated_from: content/ru/1989/08/articles/09_snova-o-schastlivyih-biletah-be1de36a.md
+source_content_sha256: 7dc1a27c523ab199e70a549091a6d8216a5df472a3d24e1e22c74c615dda1fea
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 42⟧
+
+Again about lucky tickets
+
+«Kvant» already wrote about lucky tickets once (1975, No. 7, 1976, No. 12, 1978, No. 11, 1988, No. 1 and No. 4), i.e. tickets, the sum of the first three digits of which is equal to the sum of the last three digits. The number of lucky tickets $N$ is expressed using an integral:
+
+$$N = \frac{1}{\pi} \int_{0}^{\pi} \frac{\sin^6(10x)}{\sin^6 x} dx. \tag{1}$$
+
+In this wonderful formula, the number 6 indicates that the number of six-digit lucky tickets is being calculated, and the number 10 indicates the decimal number system. If the base of the number system and the number of digits on the ticket are different, then the formula must be changed in a very different way.
+
+G. A. Galperin from Moscow and A. V. Korllyukov from Grodno asked questions: what will happen if we calculate the number of lucky tickets $N$ using an approximate formula
+
+$$N = \frac{1}{n} \sum_{k=1}^{n} f(x_k), \tag{2}$$
+
+where $x_k = x_0 + k\pi/n$, $f(x) = \sin^6(10x)/\sin^6 x$. They found that for any $n \geq 28$ and any $x_0$ equality (2) is exact! (For tickets of length $2S$ and $p$ number system, you need to be $n \geq 1 + S(p-1)$).
+
+The proof can be obtained from the following digital model and the derivation of formula (1), given in «Kvant» No. 11 for 1978. Another way of proof is based on the fact that the fraction $(\sin(px)/\sin x)^{2S}$ can be represented as a “gonometric polynomial” $f(x) = \sum_{k=1}^{n} a_k \times \sin(kx) + bk\cos(kx)$; for any such polynomial the equality $$\frac{1}{\pi} \int_{0}^{x} f(x) dx = \frac{1}{n} \sum_{k=1}^{n} f(x_0 + k\pi/n)$$ holds for a sufficiently large $n$ (think how $n$ is related to the “degree” $n_0$ of the trigonometric polynomial!).
+
+It is more convenient to calculate the number of lucky tickets on a computer and on a microcalculator using formula (2) than (1), especially since the interraal is still replaced by an approximate value. In addition, interesting consequences can be obtained from formula (2).
+
+Let, for example, for the ticket be equal to 2, and the number system is decimal. Then in formula (2) it is enough to take 10 terms. For the points $x_k$ we take $\frac{\pi}{20}, \frac{3\pi}{20}, \dots, \frac{19\pi}{20}$. The number $N$ is very equal to 10, and $\sin^2(10x_k) = 1$ for all $k$. That's why
+
+$$\frac{1}{\sin^2(10x)} + \frac{1}{\sin^2(3\pi/10)} = 12.$$
+
+With other $S$ and $p$, readers can obtain similar equalities on their own.
+
+A. A. Mikhailov from Stuchka, Latvian USSR, proposes a new approach to the problem of lucky tickets of length $2n$ in the $p$-ary number system. Here is his reasoning. First of all, the number of lucky tickets is equal to the number of tickets whose sum of digits is equal to $n(p-1)$ (try to prove this!). This number, in turn, is equal to the coefficient of $x^{n(p-1)}$ of the polynomial $f(x) = (1-x^p)^{2n}/(1-x)^{2n} = (1-x^p)^{2n} \times (1-x)^{-2n}$.
+
+To find this polynomial, you can use Newton's binomial.
+
+$$(1+t)^k = \sum_{S=0}^{k} \binom{k}{S} t^S,$$
+
+where the binominal coefficients $\binom{k}{S}$ are equal to $k!/S!(k-S)!$ for $0 \leq k \leq S$ and $0$ for $k > S \geq 0$. The binomial formula is also true for negative exponents $k$; at the same time $\binom{-k}{S} = (-1)^S \binom{k+S-1}{S}$. If we express both components included in $f(x)$ using a binomial, then it is not difficult to find the coefficient of $x^{n(p-1)}$. The final formula of A. A. Mikhailov for the number of lucky tickets will look like this:
+
+$$N_{2n}^p = \sum_{S=0}^{n} (-1)^S \binom{2n}{S} \binom{n-S}{p+n-1}{2n-1},$$
+
+where $m = \left[ n \left(1 - \frac{1}{p}\right) \right]$, square brackets denote the integer part of the number. A special case of this formula for the decimal detection system is also students from Irkutsk D. Balyabin and S. Krivoshen.
+
+For the number of calculated lucky tickets we get
+
+$$N_{6}^{10} = \binom{6}{0} \binom{32}{5} - \binom{6}{1} \binom{22}{5} + \binom{6}{2} \binom{12}{5} = 201376 - 6 \cdot 26334 + 15 \cdot 792 = 55252.$$
+
+As you can see, formula (3) allows you to calculate the number of lucky tickets quite simply!
+
+For $p=2$ there is an even simpler expression for $N$. Indeed, in this case $f(x) = (1+x)^{2n}$, therefore $N = \binom{2n}{n}$.
+
+In addition, A. A. Mikhailov notes that the number of lucky tickets coincides with the number of points lying in a row inside the $2n$-cube $[0, p+1]^{2n}$ for passing through the center of the hyperplane, a redistribution of the main diagonal. This number is often found in work on modern real algebraic geometry and is called Petrovsky’s number (in honor of Academician I. G. Petrovsky (1901-1973); see comments in I. G. Petrovsky’s book “Selected Works,” published in 1986 by the Nauka publishing house).
+
+*) They are also denoted $C_k^S$.
