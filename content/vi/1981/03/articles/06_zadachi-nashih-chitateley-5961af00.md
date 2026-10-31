@@ -1,0 +1,51 @@
+---
+id: 1981-3-zadachi-nashih-chitateley-5961af00
+issue: kvant_1981_3
+year: 1981
+number: "3"
+title: Bài toán độc giả của chúng tôi
+rubric: smes
+page_first: 17
+page_last: 17
+page_labels: "15"
+tag: 5TYM
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: ed84aaed5e1c3f1e44c4e8528875a2d0d712511d74b0fd76f7584aa965f38350
+prompt_sha256: draft-1
+translated_from: content/ru/1981/03/articles/06_zadachi-nashih-chitateley-5961af00.md
+source_content_sha256: 417073b0a9fa1cd1d834f54bca571c5898d2b05c93caba80ca81d9989dd6f8a9
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 15⟧
+
+Trong khi Ziman Nezhota đang lấy ví ra khỏi túi, anh ấy hoàn toàn khó chịu trước nhận xét của Adams ở cuối câu chuyện này:
+- Nhân tiện, tôi muốn biết làm thế nào bạn có thể chứng minh điều này mà không cần bất biến?
+Dựa vào bất biến mô tả trong bài viết của O. Viro, ông chứng minh
+Cơm. 3. a) 6)
+Hãy đối mặt với sự thật, một con amip trong áo khoác không thể gỡ được các ngón tay của anh ấy.
+Chúng ta hãy tưởng tượng vẽ hai đường cong khép kín: một đường màu xanh - dọc theo áo khoác quanh cánh tay phải (tay áo) và một đường màu đỏ, nối ngón cái và ngón trỏ của bàn tay phải và tay trái bên trong amip (Hình 3,a). Hai đường cong này tạo thành một sự gắn kết (Hình 3,b), đồng vị với đường cong được thể hiện trong Hình 4.2 trên trang. 9. Nếu amip có thể tách được hai tay ra thì cô ấy có thể cởi áo khoác ra. Nhưng điều này là không thể, vì không thể tháo rời sự gắn kết của Hình 4.2 (xem Bài tập 8 ở trang 12).
+O.V.
+
+Bài toán
+độc giả của chúng tôi
+
+1. a) Lấy số 16. Từ một đến sáu ta chèn số 15 - ta được số 1156. Vào giữa số này ta chèn lại 15 - ta được 111556, v.v. Chứng minh rằng mọi số như vậy (có dạng 11...155...56) là bình phương của các số nguyên.
+6) Tương tự với các số 4489, 444889,..., thu được từ 49 bằng cách chèn 48 vào giữa.
+
+2. a) N số 0 được chèn vào giữa các chữ số của số 961. Chứng minh rằng với n bất kỳ kết quả là bình phương của một số nguyên.
+6) Tìm các số có ba chữ số khác có cùng tính chất.
+
+3. a) Chứng minh rằng các phân số
+$$\frac{19}{95}, \frac{199}{995}, \frac{199}{995}, \dots, \frac{199}{995}$$
+
+bạn có thể “giảm” hoặc “bỏ qua” tất cả số chín.
+6) Có phân số nào khác có thể được xử lý như thế này không?
+N. Suev
+
+4. Chúng ta hãy biểu thị bằng S(n) tổng các chữ số của số n. Chứng minh rằng dãy số S(1979), S(19792), S(1979³), ... là không bị chặn.
+A. Kelarev

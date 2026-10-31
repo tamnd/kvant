@@ -1,0 +1,57 @@
+---
+id: 1981-5-yakovlev-s-uglublennyim-izucheniem-d1aab994
+issue: kvant_1981_5
+year: 1981
+number: "5"
+title: Với sự nghiên cứu chuyên sâu
+authors:
+  - Яковлев А.
+rubric: informatsiya
+rubric_sub: Информация
+page_first: 60
+page_last: 60
+page_labels: "58"
+tag: 38LC
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: d4a588e6f333da06f53e07bd0c4cc204cc3c2fe238d548ebc67e4bdab7405344
+prompt_sha256: draft-1
+translated_from: content/ru/1981/05/articles/23_yakovlev-s-uglublennyim-izucheniem-d1aab994.md
+source_content_sha256: c029d0ffe50b56b6e9f8a28b67009a497ad6003b133cef167ef7470de13bcc83
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 58⟧
+
+5. Bộ trao đổi nhiệt có chiều dài $L$ bao gồm một ống có diện tích mặt cắt ngang là 2$S$, bên trong có một ống có diện tích mặt cắt ngang là $S$ đi qua (Hình 2). Ống có thành mỏng. Toàn bộ thiết kế đường ống dẫn nhiệt từ môi trường bên ngoài. Một chất lỏng có mật độ $q$ và nhiệt dung riêng $c$ được bơm vào ống với tốc độ $v$. Nhiệt độ chất lỏng ở lối vào bộ trao đổi nhiệt lần lượt là $T_{1\text{H}}$ và $T_{2\text{H}}$. Xác định nhiệt độ của chất lỏng ra khỏi bộ trao đổi nhiệt. Chất lỏng trong ống chảy ngược chiều nhau. Xét rằng số lượng ống dẫn nhiệt trên một đơn vị thời gian qua một đơn vị diện tích tỷ lệ thuận với chênh lệch nhiệt độ với hệ số tỷ lệ $k$; Tính dẫn nhiệt của chất lỏng phải được tính đến. (10 lớp)
+
+A. Krikov
+
+6. Có hai vỉ nướng cây thông Noel được nối tiếp bằng bóng đèn. Grilllands tiêu thụ cùng một nguồn năng lượng, nhưng cái đầu tiên được thiết kế để kết nối với mạng điện có điện áp 127 V và cái thứ hai - với điện áp 220 V. Điều gì xảy ra nếu hai bóng đèn từ các vùng nướng khác nhau được đổi chỗ và các vùng nướng được bật theo mạng điện? Số lượng bóng đèn trong mỗi vỉ nướng lớn hơn 10. (9 ô)
+
+B. Peterson
+
+7. Nếu bạn nhìn vào bề mặt được chiếu sáng qua lỗ rộng trên thân bút bi, thì xung quanh lỗ hẹp trên thân bạn có thể thấy một số bánh xe sáng và tối đồng tâm. Tại sao những bánh xe này được quan sát? (10 lớp)
+
+A. Pukhov
+
+Với sự nghiên cứu chuyên sâu
+
+Ở trường số 13 ở thành phố Saratov chỉ có lớp 7-10. Trong quá trình lựa chọn cạnh tranh các ứng viên, một cuộc phỏng vấn đầu vào và bài viết về toán học được thực hiện. Thường có số lượng ứng dụng nhiều gấp đôi so với số lượng địa điểm.
+
+Học sinh của các lớp học chuyên sâu về toán, vật lý, hóa học, sinh học - các phần cố định luôn có mặt tại các trường đại học ở Saratov và họ luôn tự tin vượt qua kỳ thi tuyển sinh.
+
+Nhiệm vụ mang tên “Cấp tiến” đã khơi dậy sự quan tâm lớn của học sinh lớp 8. Tuy nhiên, trên một giá đỡ được làm theo hình cấp tiến, điều kiện bài toán đã được dán, và vài ngày sau - đó là lời giải, do một trong những học sinh đưa ra. Ban đầu nó được dự định như một sự trợ giúp để làm rõ bài toán phức tạp hơn; Chỉ những học sinh mạnh nhất mới tham gia lời giải và phân tích. Nhưng dần dần chúng tôi đã hòa nhập với những người còn lại - và Radical đã trở nên phổ biến rộng rãi. Và nếu đối với lời giải bài toán không có đủ thông tin, giáo viên chỉ ra văn học bổ sung.
+
+Giáo viên toán Victoria Iosifovna Igumnova cho biết: “Sau đó, chúng tôi bắt đầu hiển thị 2-3 lời giải, do các học sinh khác hoàn thành và hiển thị với mức tăng chỉnh sửa”. — Và dịch vụ phổ quát cho phép chúng tôi xác định lời giải nào trong số này là hợp lý nhất.
+
+Ira Azarenko, thành viên nhóm biên tập Cấp tiến, cho biết: “Nhiều chàng trai nhận thấy những thiếu sót trong các quyết định đã đăng và đưa ra những nỗ lực của riêng họ. — Nếu người biên tập không tìm ra lời bác bỏ, tác giả lập tức sửa đổi bằng dán màu đỏ và vô cùng tự hào về trang web của mình. Và một số mang đến những nhiệm vụ mới, được hiển thị từ các cuốn sách và tạp chí khoa học phổ biến khác nhau.
+
+1. Một hình tròn có bán kính $r=5$ cm nội tiếp tam giác CAD. Khoảng cách $|BK|$ giữa các điểm tiếp tuyến (xem hình) là 8 cm. Các tiếp tuyến LE và CD song song với BK. Tìm các cạnh của hình thang EDCL.
+
+2. Trong tam giác ABC, các điểm $O$ là giao điểm của các đường cao, $O_1$ là giao điểm của các đường trung tuyến và $O_2$ là tâm của đường tròn ngoại tiếp. Chứng minh rằng $O_2\widehat{O}_1O=180^\circ$ và $|O_2O_1|:|O_1O|=1:2$. Tại.mechan.e. Đây là một trong những phát biểu của định lý Euler (xem «Kvant», 1972, số 11, trang 33).
+
+A. Ykovlev

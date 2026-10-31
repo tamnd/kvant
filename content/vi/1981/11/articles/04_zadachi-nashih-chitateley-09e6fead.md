@@ -1,0 +1,60 @@
+---
+id: 1981-11-zadachi-nashih-chitateley-09e6fead
+issue: kvant_1981_11
+year: 1981
+number: "11"
+title: Bài toán độc giả của chúng tôi
+rubric: smes
+page_first: 12
+page_last: 12
+page_labels: "10"
+tag: FQ17
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 509b520f5823304eb7384fa6cd8384f89f5dd7941085562a59338668fcbd1c9f
+prompt_sha256: draft-1
+translated_from: content/ru/1981/11/articles/04_zadachi-nashih-chitateley-09e6fead.md
+source_content_sha256: d1b486922f265ec954438a51c8605570748f5eead53d65e9207807a780c6c85a
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 10⟧
+
+3. Có điểm cân bằng nào trong các trò chơi “hạn chế” sau đây không: a) $v = x^2 + y^2$; b) $v = (x-y)^2$; c) $v = x^2 + xy + y^2$, và trong cả ba trường hợp $|x| \leq a, |y| \leq b$.
+
+4. Phát biểu của định lý thay đổi như thế nào với điều kiện bổ sung $x \geq a$?
+
+5. Khoảng cách là các trò chơi sau đây với ma trận tấm $2 \times 2$ có dạng $(\begin{matrix} a & b \\ c & d \end{matrix})^*$. Người chơi $A$ chọn hàng và $B$ chọn cột - và phải tìm thấy lời giải cho các chiến lược hỗn hợp $(x, y)$ và các hàm thuộc loại (1) cho $0 \leq x$, $y \leq 1$ trong các trường hợp sau:
+
+a) “Trốn tìm” hoặc “Ponsk”: $a = d = -1$, $b = c = 1$. Người chơi $A$ sẽ định cư ở một trong hai nơi và $B$ sẽ tìm kiếm anh ta ở cùng một nơi. Người đạt được mục tiêu sẽ nhận được, còn người kia sẽ mất một điểm (đồng xu).
+
+6) “Phòng thủ và tấn công”: $a = d = c + 1$, $b = 1$, trong đó $c > 1$ được đưa ra, ví dụ: $c = 3$. Một phân đội do $A$ chỉ huy chịu trách nhiệm quản lý 2 kho nhiên liệu (trong kho thứ hai có nhiều hơn $c$ so với kho thứ nhất). $A$ chỉ có đủ sức mạnh để bảo vệ một nhà kho. Đơn vị $B$ chỉ có thể tấn công một trong những nhà kho này. Nếu sự lựa chọn của họ trùng nhau thì mọi thứ vẫn nguyên vẹn; nếu không, kho không được bảo vệ sẽ cháy. Tìm lời giải và giá của trò chơi rồi xem kết quả.
+
+b) “Sự cố trên bãi biển”: $a = d = -\frac{b + c}{2}$, $b > c > 0$. Ví dụ: $b = 30$, $c = 10$. Một người lạ $B$ tiếp cận khách du lịch $A$ và đưa ra trò chơi sau: cả hai đều hiển thị một trong các mặt cùng một lúc - tiền xu. Nếu $y A$ là “ngửa”, $y B$ là “sấp”, thì $A$ sẽ thắng được 30 xu; Nếu như
+
+*) Số $a$ là số tiền thắng $A$ của người chơi (thua $B$), nếu cô ấy áp dụng các quy tắc chiến lược của mình, v.v. (so sánh với bảng dành cho trò chơi có cổng); cũng được chơi ở đây nhiều lần.
+
+Áp dụng phương pháp này vào trò chơi bài tập 5.
+
+7. (Bài toán dành cho các lập trình viên trẻ.) Để thực hiện một loạt trò chơi $N$ với một chức năng nhất định, hãy soạn chương trình bằng ngôn ngữ Papir hoặc bằng ngôn ngữ thuật toán khác ($N = 5$ hoặc 10); trong trò chơi tiếp theo, trọng tài nhập các giá trị đã chọn $x$ và $y$ vào máy tính, sau khi tính toán, tiền thắng của người chơi trong trò chơi này và tiền thắng tích lũy của anh ta cho tất cả các trò chơi từ đầu loạt bài này sẽ được in ra.
+
+8. Chứng minh rằng nếu một trò chơi có hàm bình phương có giá thì trò chơi đó là duy nhất, mặc dù có thể có nhiều hơn một điểm yên ngựa.
+
+9. Số - phần tử ma trận - tại giao điểm của hàng thứ $i$ và cột thứ $j$ thường được ký hiệu là $a_{ij}$ - đây là cách viết tắt của $a(i, j)$, một hàm gồm hai đối số nguyên. Một phần tử ma trận được gọi là “yên ngựa” nếu nó là phần tử nhỏ nhất trong hàng và lớn nhất trong cột của nó. Nếu một yếu tố như vậy tồn tại, thì nó bằng với giá của trò chơi và số lượng hàng và cột của nó mang lại cho lời giải trò chơi “theo chiến lược thuần túy”. Điều ngược lại cũng đúng (chứng minh đi). Những ma trận nào trong Bài tập 1 và 5 có phần tử yên?
+
+Bài toán độc giả của chúng tôi
+
+1. Cái gọi là máy biến áp tác động Heugens là một rãnh chứa $n$ vật thể. Khối lượng của chúng $m_1$, $m_2$, ..., $m_n$ liên hệ với nhau bởi điều kiện $m_i/m_{i+1} = k > 1$. Nếu vật đầu tiên bắt đầu chuyển động với tốc độ $v_1$ thì sau tất cả các va chạm (va chạm hoàn toàn đàn hồi), vật cuối cùng rời khỏi rãnh với tốc độ $v_n \gg v_1$ (trong lịch sử, đây là một trong những cách đầu tiên đạt được tốc độ cao). Tìm biểu thức cho các tỷ số $v_n/v_1$ và cho hiệu suất $K\Pi D = (m_n/m_1)(v_n/v_1)^2$ dưới dạng hàm của $k$ và $n$. Chứng minh rằng với một $v_n/v_1$ cho trước nhất thiết phải có $k$ mà $K\Pi D$ là lớn nhất.
+
+L. Ashkinazi
+
+2. Nhiệt kế cồn phổ biến có một nhược điểm đáng kể: nếu chúng được sử dụng để đo nhiệt độ không khí trên đường phố, nơi chúng được chiếu sáng bởi ánh sáng mặt trời, thì nhiệt kế khá nhanh chóng (trong vòng một đến hai năm) bắt đầu đưa ra các kết quả có ý nghĩa. Lý do cho điều này là do số lượng tham số bị giảm, nếu lớp bọc của vách ngăn không lý tưởng nhưng sẽ truyền một phần trăm công suất âm thanh.
+
+G. Galperin
+
+3. Hai phòng được ngăn cách bằng vách ngăn thấm âm, trong đó có một lỗ hình vuông có cạnh 2 cm. Chiều rộng của vách ngăn là 2 m, chiều cao của căn phòng cũng là 2 m. Ước tính các thông số cách âm sẽ suy giảm đến mức nào nếu lớp bọc của vách ngăn không lý tưởng nhưng sẽ truyền một phần trăm công suất âm thanh.
+
+M. Vaksman

@@ -1,0 +1,63 @@
+---
+id: 1981-1-novyiy-priem-na-malyiy-mehmat-e8cebdca
+issue: kvant_1981_1
+year: 1981
+number: "1"
+title: Tuyển sinh mới vào khoa cơ khí nhỏ
+rubric: informatsiya
+rubric_sub: Информация
+page_first: 61
+page_last: 61
+page_labels: "59"
+tag: TTI1
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: c338db5030515ed025d4f8fbc3f853cedef4229733f6ed2dd858561ff9827107
+prompt_sha256: draft-1
+translated_from: content/ru/1981/01/articles/19_novyiy-priem-na-malyiy-mehmat-e8cebdca.md
+source_content_sha256: 561382e090ee22ed861b8380429c50aa3ff0e5c89f0d3fe882866e97ba089953
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 59⟧
+
+thể tích $V_1=1$ l với áp suất $p_1=39$ kPa.
+Cần bao nhiêu điểm gel để sử dụng hoàn toàn xenon nếu gel có sẵn trong bình trụ có thể tích $V_2=2$ l với áp suất $p_2=6,5$ kPa?
+
+12. Tính mật độ thể tích $\rho$ của điện tích trong khí quyển nếu biết cường độ điện trường trên bề mặt Trái đất là $|\vec{E}_3|=100$ V/m, và ở độ cao $h=1$ km cường độ điện trường giảm đi 2 lần. Giả sử điện tích trong khí quyển phân bố đều.
+
+Matematika
+
+1. Trong giải bóng đá, mỗi đội trong số 8 đội tham dự thi đấu một lần. Các đội ghi được 14, 12, 8, 8, 6, 4, 3, 1 điểm. Bốn đội dẫn đầu đã tiêu tốn bao nhiêu điểm? Đội nào thắng sẽ được 2 điểm.
+
+2. Có tam giác nào có chiều dài hai chiều cao nhỏ hơn 1cm và có diện tích là 4000cm2 không?
+
+3. Chứng minh rằng nếu số không âm $x_1, x_2, x_3$ thỏa mãn điều kiện
+$$x_1+x_2+x_3 \leq \frac{1}{2},$$
+thì bất đẳng thức đúng
+$$(1-x_1)(1-x_2)(1-x_3) \geq \frac{1}{2}.$$
+
+4. Chứng minh các khẳng định sau:
+nếu điểm $O$ nằm trong tam giác $ABC$ thì
+$$|OA|+|OB|+|OC| < |AB|+|BC|+|CA|.$$
+Xây dựng phát biểu ngược lại. Có đúng không?
+
+5. Chứng minh hoặc bác bỏ các khẳng định sau:
+a) Hình thang bằng nhau có một và chỉ một trục đối xứng;
+
+Ví dụ mới về một cơ chế nhỏ
+
+Đối với học sinh lớp 7 sống trên lãnh thổ khu vực Châu Âu của RSFSR (ngoại trừ khu vực nông thôn) và Belarus, học sinh sẽ được nhận vào Khoa Cơ khí Nhỏ (MMMF) - một trường toán tương ứng tại Khoa Cơ học và Toán học của Đại học Tổng hợp Moscow, một khoa của Trường Cao đẳng Cơ học và Toán học.
+
+Chương trình MMMF nhằm mục đích đào sâu kiến ​​thức trong những phần quan trọng nhất của chương trình giảng dạy ở trường và phát triển kỹ năng của học sinh trong nghiên cứu toán học độc lập, được biên soạn dưới sự hướng dẫn của các giáo sư trong khoa. Chương trình này có tính đến đặc thù của kỳ thi tuyển sinh môn toán vào Khoa Cơ học và Toán học của Đại học Tổng hợp Moscow và các trường đại học khác.
+
+Các lớp học sẽ bắt đầu vào ngày 1 tháng 9 năm 1981. Đào tạo thợ cơ khí nhỏ miễn phí. Thời gian đào tạo: 3 năm.
+
+Những người muốn đăng ký tham gia máy móc nhỏ phải gửi lời giải bài kiểm tra VZMSH chậm nhất là ngày 15 tháng 4 năm 1981 đến địa chỉ: 117234, Moscow, V-234, MSU, mex.-mat. F-t, MMMF. Các yêu cầu đối với việc thiết kế công trình không khác với các yêu cầu của VZMSH.
+
+Những người tham gia Olympic toán học khu vực có thể được chấp nhận tham gia cơ chế nhỏ trên cơ sở đơn đăng ký và tài liệu xác nhận tham gia Olympic.
+
+Đối với học sinh Moscow có các trường Toán buổi tối (lớp 7-9) và Dự bị Chủ nhật (lớp 10). Để biết thông tin về họ, hãy gọi 139-33-43.

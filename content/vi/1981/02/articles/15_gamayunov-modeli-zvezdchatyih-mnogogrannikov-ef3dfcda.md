@@ -1,0 +1,67 @@
+---
+id: 1981-2-gamayunov-modeli-zvezdchatyih-mnogogrannikov-ef3dfcda
+issue: kvant_1981_2
+year: 1981
+number: "2"
+title: Mô hình khối đa diện hình sao
+authors:
+  - Гамаюнов В. Н.
+rubric: raznoe
+rubric_sub: Разное
+page_first: 41
+page_last: 41
+page_labels: "39"
+tag: OX8D
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 630a0d9e218ff481e09b7d3cb4d493b7ac4bfc2fc0de7ad3d0036ea6e3a41b35
+prompt_sha256: draft-1
+translated_from: content/ru/1981/02/articles/15_gamayunov-modeli-zvezdchatyih-mnogogrannikov-ef3dfcda.md
+source_content_sha256: a1ce99b6dd7e35ddbf1fb82ab26fbc8bf6f970f2734bd474b9bc3aa519040d99
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 39⟧
+
+Người mẫu
+hình ngôi sao
+khối đa diện
+
+Trên trang đầu tiên và trang thứ tư của trang bìa, hai bản vẽ (sơ đồ)* đầy màu sắc được tái hiện, nhờ đó người ta có thể xây dựng các mô hình khối đa diện khác nhau, đặc biệt là các khối hình sao. Trước khi bạn bắt đầu xây dựng mô hình, hãy tự làm quen với các kỹ thuật cơ bản để xây dựng sự phát triển khối đa diện được mô tả dưới đây.
+
+Lấy tờ giấy can theo yêu cầu; một bản quét (hay đúng hơn là một nửa của nó - xem Hình 1) của một trong các khối đa diện sẽ được vẽ trên đó.
+
+Bước đầu tiên là chọn mặt ban đầu trên một trong các sơ đồ hoặc thuận tiện hơn là trên Hình 2, 3 (lựa chọn này xác định khối đa diện nào có thể mà chúng ta sẽ xây dựng); trong trường hợp của chúng tôi, ngũ giác trung tâm PSTUR trong Hình 2 được chọn. Hãy cắt hình ngũ giác này lên giấy can và để nó ở vị trí tương tự trong hình.
+
+Chúng ta hãy xem xét một trong các đỉnh của mặt PSTUR, chẳng hạn như P. Số mặt của khối đa diện của chúng ta liền kề với đỉnh này sẽ bằng số đường thẳng (trong trường hợp này là 3) đi qua nó trên sơ đồ, tăng thêm 1. Làm thế nào để xây dựng 4 mặt này?
+
+Nếu đỉnh là một dải (như P), tức là các cánh tay màu đen được vẽ gần nó trên sơ đồ, bạn cần dán một la bàn vào đỉnh này, xoay giấy can theo góc được chỉ định bởi cánh tay nhỏ hơn và chuyển mặt tiếp theo của cùng một mặt ở vị trí mới sang giấy can. Bằng cách này, chúng ta có được mặt thứ hai liền kề với mặt thứ nhất dọc theo cạnh PS (Hình 1). Bằng cách xoay cùng một góc thêm hai lần nữa, chúng ta sẽ có được hai mặt còn lại liền kề với P.
+
+*) Phương pháp tô màu sơ đồ bằng “vòng tròn đồng tâm” do kiến ​​trúc sư A. M. Breslavets đề xuất.
+
+Cơm. 1.
+
+Cơm. 2.
+
+Cơm. 3.
+
+Cơm. 4.
+
+Bây giờ chúng ta lấy đỉnh U, không còn là một dải nữa. Có 2 đường thẳng đi qua nó nên 3 mặt phải kề nhau.
+
+Để tìm mặt liền kề với cạnh UT thì trung điểm Q của cạnh này là một dải có cung 180°. Theo đó, hãy xoay tờ giấy can gần Q một góc 180° và vẽ một vị trí mới của khuôn mặt.
+
+Không còn vị trí nào trên cạnh U nữa; việc xây dựng tiếp theo trong những trường hợp như vậy phải được tiếp tục trên một sơ đồ khác. Để tìm nơi dán giấy can, đường thẳng được đánh dấu trong Hình 2 bằng ký hiệu Δ. Tìm biểu tượng tương tự trong Hình 3, gắn cạnh UR dọc theo một số đường thẳng được đặt bởi nó và di chuyển giấy can dọc theo nó cho đến khi một mặt cùng màu chạm vào mặt PSTUR (mặt lục giác trung tâm trong Hình 3 - cũng tìm thấy nó trong Hình 1!). Sự kết hợp như vậy có thể không đạt được ngay lập tức - có một số đường thẳng có dấu Δ trong Hình 3, bạn sẽ tìm thấy những gì mình cần bằng cách thử và sai.
+
+Các công trình xây dựng tiếp theo được thực hiện với tinh thần tương tự. Trong trường hợp này, giấy can sẽ di chuyển từ sơ đồ này sang sơ đồ khác, sử dụng dấu Δ, nhưng không được thiếu suy nghĩ (bạn phải nhớ rằng các cạnh có cùng chiều dài được dán lại với nhau!). Do đó, bạn sẽ được quét trên giấy can phù hợp với Hình 1.
+
+Sau khi thực hiện điều này, hãy tự kiểm tra bằng cách sử dụng các kỹ thuật tương tự để hoàn thành việc phát triển khối đa diện sao như trong Hình 4. Việc xây dựng này bắt đầu với một trong các mặt tứ giác màu đen trong Hình 3 (trong Hình 4 mặt này có màu đỏ).
+
+Sau khi hiểu được kỹ thuật phát triển, bạn có thể chuyển sang xây dựng thực tế một mô hình có kích thước thật. Để làm điều này, bạn nên dịch cả hai sơ đồ ở tỷ lệ phóng to sang hai tờ giấy Batman. (Điều này có thể được thực hiện bằng biểu tượng hoặc thước ghi; nếu không có những thứ này, bạn sẽ phải sử dụng la bàn và thước kẻ) Sau đó lấy một tờ giấy can lớn, chọn cạnh bắt đầu... và bắt đầu!
+
+Có rất nhiều cạnh ban đầu - đủ cho cả lớp. Nếu bạn có mẫu đẹp thì chụp hình gửi cho chúng tôi nhé.
+
+V. Gamayunov

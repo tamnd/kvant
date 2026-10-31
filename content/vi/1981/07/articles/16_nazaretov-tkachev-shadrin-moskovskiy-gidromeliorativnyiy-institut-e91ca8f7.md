@@ -1,0 +1,85 @@
+---
+id: 1981-7-nazaretov-tkachev-shadrin-moskovskiy-gidromeliorativnyiy-institut-e91ca8f7
+issue: kvant_1981_7
+year: 1981
+number: "7"
+title: Viện thủy lợi Moscow
+authors:
+  - Назаретов А.
+  - Ткачёв Г.
+  - Шадрин Г. А.
+rubric: ekzamenatsionnye-materialy
+page_first: 48
+page_last: 48
+page_labels: "46"
+tag: K0J5
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 5421288b6c5766828f392a02f0f135715edfe3b497bd28468b5b8847e2ac3bf0
+prompt_sha256: draft-1
+translated_from: content/ru/1981/07/articles/16_nazaretov-tkachev-shadrin-moskovskiy-gidromeliorativnyiy-institut-e91ca8f7.md
+source_content_sha256: af6df4cd4c0f9f282f35a9d27f26492c2379e6c796b721c1669cbadd226c9115
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 46⟧
+
+7. Biết rằng $\sqrt{2} \approx 1,41$ và $\sqrt[3]{3} \approx 1,44$, hãy tính $\sqrt[6]{72}$.
+
+8. Vì $a$ đồ thị của hàm $y = ax^2 - 6x + 7$ không có điểm chung với trục $Ox$?
+
+Vật lý
+
+Bài thi vấn đáp
+
+1. Hai quả bóng đồng nhất có khối lượng $m_1 = 3$ kg và $m_2 = 5$ kg có bán kính $R_1 = R_2 = R = 5$ cm được nối với nhau bằng một thanh đồng nhất có khối lượng $m_3 = 2$ kg và chiều dài $l = 30$ cm. Tìm trọng tâm của hệ.
+
+2. Một khối lập phương có khối lượng $m = 2$ kg và thể tích $V = 10^3$ cm$^3$ nằm trong một hồ nước ở độ sâu $H = 5$ m. Giả sử mật độ của nước là $ρ = 10^3$ kg/m$^3$, hãy xác định công được thực hiện khi nâng khối lập phương lên độ cao $h = 5$ m so với mực nước hồ. Bề mặt là băng bề mặt $\lambda = 3,35 \cdot 10^5$ J/kg.
+
+3. Trong thời gian $\tau_1 = 20$ phút hoạt động, tủ lạnh làm mát $V = 1,5$ lít nước đặt trong ngăn đông, từ $t_1 = 16^\circ C$ đến $t_2 = 4^\circ C$. Tìm khối lượng băng hình thành trong buồng nếu quá trình làm lạnh được tiếp tục trong $\tau_2 = 60$ phút nữa trong cùng điều kiện. Nhiệt dung riêng của nước $c = 4,2 \times 10^3$ J/(kg K). Nhiệt dung riêng của nước đá tan chảy $\lambda = 3,35 \cdot 10^5$ J/kg.
+
+4. Một ô tô có công suất $N = 76,5$ kW, có hệ số hiệu suất $\eta = 32\%$, khi chuyển động với tốc độ không đổi dọc theo quãng đường $s = 120$ m sẽ tiêu thụ $m = 64$ g bezine. Xác định tốc độ chuyển động của thiết bị tự động hóa nếu nhiệt lượng của xăng là $q = 4,6 \cdot 10^7$ J/kg.
+
+5. Khoảng cách giữa các điện tích $q_1 = 2 \cdot 10^{-8}$ Kl và $q_2 = 1,6 \cdot 10^{-7}$ Kl là $R = 5$ cm. Tìm hướng của trường tại một điểm cách điện tích thứ nhất một khoảng $R_1 = 3$ cm và cách điện tích thứ hai một khoảng $R_2 = 4$ cm.
+
+6. Trong mạch điện như hình vẽ, điện thế giữa các điểm $A$ và $B$ bằng $U = 250$ V. Điện dung của các tụ điện là $C_1 = 1,5$ µF, $C_2 = 3$ µF, $C_3 = 4$ µF. Xác định điện tích toàn phần trên các bản tụ.
+
+7. Trên bóng đèn của đèn pin có ghi: $U = 3,5$ V, $I = 0,28$ A. Nhiệt độ dây tóc ban đầu $t = 425^\circ C$, điện trở ban đầu ở 0audus độ C $R_0 = 4$ Ohm. Xác định hệ số điện trở nhiệt độ ban đầu.
+
+8. Khối lượng băng nào, có nhiệt độ $t = -10^\circ C$, có thể được loại bỏ trong $t = 10$ phút trong nồi hơi điện hoạt động từ mạng có điện áp $U = 220$ V và cường độ dòng điện $I = 3$ A? Hiệu suất của nồi hơi điện là $\eta = 80\%$. Nhiệt dung riêng của nước đá $c = 2,1 \cdot 10^3$ J/(kg K); nhiệt dung riêng nóng chảy của nước đá $\lambda = 3,35 \cdot 10^5$ J/kg.
+
+9. Một tia sáng có góc tới trên mặt phân cách giữa hai môi trường bằng $\alpha = 30^\circ$, bị biến đổi trong môi trường thứ hai sao cho góc giữa tia khúc xạ và tia phản xạ là $\gamma = \pi/2$ rad. Xác định chiết suất $n_2$ của môi trường thứ hai nếu chiết suất của môi trường thứ nhất là $n_1 = 2,4$.
+
+10. Tìm ảnh của một điểm cách gương cầu lõm trên trục quang chính một khoảng $d = 2,8$ m. Bán kính cong của gương là $R = 90$ cm.
+
+V. Antitenko, M. Bodunov,
+A. Ryazanovsky, B. Yarov
+
+Viện thủy văn Moscow
+
+Matematika
+
+Bài thi viết
+
+Tùy chọn 1
+
+1. Trong hệ tọa độ hình chữ nhật Descartes $Oxy$ trên đường cong $y = x^2$ hai điểm $A$ và $B$ được cho sao cho $\overrightarrow{OA} \cdot \overrightarrow{i} = 1$ và $\overrightarrow{OB} \cdot \overrightarrow{i} = -2$, trong đó $\overrightarrow{i}$ là vectơ đơn vị của trục $Ox$. Tìm độ dài của vectơ $12\overrightarrow{OA} - 3\overrightarrow{OB}$.
+
+2. Tìm tất cả các phương trình lời giải $\frac{2x^2 - 5|x| + 2}{x + 2} = 0$ thuộc miền định nghĩa của hàm số $y = \frac{x}{4x^2 - 1}$.
+
+3. Trong hệ tọa độ hình chữ nhật Descartes $Oxy$, một hình $F$ được cho, giới hạn bởi một trục $Ox$, một đường cong $y = 2x^2$ và tiếp tuyến với đường cong $y = 2x^2$ tại điểm $A(x_0; y_0)$, trong đó $x_0 = 2$. Tìm diện tích của hình $F$.
+
+4. Tính $\sin^2\left(\frac{12\pi}{8} + \frac{3}{2}\alpha\right) - \sin^23(\pi + 0,5\alpha)$ cho $\alpha = \frac{7\pi}{12}$.
+
+Tùy chọn 2
+
+1. Trong hệ tọa độ hình chữ nhật Descartes $Oxy$ trên phần đường cong $y = x^2 - 2x + 3$ nằm ở bốn điểm đầu tiên $A(x_1; y_1)$ với hoành độ $x_1 = 1$ và các điểm $B(x_2; y_2)$ với tọa độ $y_2 = 11$. Tìm tích vô hướng của các vectơ $\overrightarrow{OA}$ và $\overrightarrow{OB}$.
+
+2. Giải bất đẳng thức $\log_2\log_3\frac{x-1}{x+1} < \log_2\log_3\frac{x+1}{x-1}$.
+
+3. Tìm tất cả lời giải phương trình $3^{2x+1} - 4 \cdot 3^x + 1 = 0$ thỏa mãn điều kiện $\sin \frac{9+x}{x+0,5} > 0$.
+
+4. Trong số tất cả các hình nón nội tiếp trong một quả cầu có bán kính $R$, hãy tìm hình có bề mặt phẳng lớn nhất.
