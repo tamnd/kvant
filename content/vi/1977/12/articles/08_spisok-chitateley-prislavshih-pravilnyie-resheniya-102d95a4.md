@@ -1,0 +1,58 @@
+---
+id: 1977-12-spisok-chitateley-prislavshih-pravilnyie-resheniya-102d95a4
+issue: kvant_1977_12
+year: 1977
+number: "12"
+title: Danh sách độc giả gửi đúng lời giải
+rubric: zadachnik-kvanta
+page_first: 34
+page_last: 34
+page_labels: "32"
+tag: EBF0
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: ab68121027610040566418838648bb1d8dd317ba78a28526b475aaa7b39cf772
+prompt_sha256: draft-1
+translated_from: content/ru/1977/12/articles/08_spisok-chitateley-prislavshih-pravilnyie-resheniya-102d95a4.md
+source_content_sha256: b8418ccceb54d4e6515c2c216ae85f8a9fd2e1633aa498c77e891de09160e4ac
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 32⟧
+
+Hai tập hợp ước tính khác nhau như thế nào nếu đối với một số $i : 1 \leq i \leq n$ số vị trí $i$ trong một tập hợp không bằng số vị trí $i$ trong tập hợp kia.
+
+Phiên bản 5. Chứng minh rằng nếu tổng số vị trí của một vận động viên trượt băng không vượt quá 20 thì anh ta xếp hạng không thấp hơn bốn.
+
+Phiên bản 6. Với bất kỳ $k : 4 \leq k < n$ nào, hãy chứng minh rằng nếu tổng số vị trí của một vận động viên trượt băng không vượt quá $k + 16$ và tập hợp điểm của anh ta bao gồm các vị trí lớn hơn $k$ thì anh ta xếp hạng không thấp hơn $k$.
+
+Chúng ta hãy chứng minh bằng quy nạp toán học rằng với $k : 4 \leq k < n$ tổng số vị trí không vượt quá $k + 16$ đảm bảo vận động viên trượt băng sẽ có một vị trí không thấp hơn $k$. Từ đây và từ (1) nó theo sau $\alpha_k = k + 16$.
+
+Cơ sở của cảm ứng. $k = 4$ - theo Bài tập 5.
+
+Bước cảm ứng. Giả sử rằng với $l : 4 \leq l < n - 1$ tổng số vị trí không vượt quá $l + 16$ đảm bảo vận động viên trượt băng sẽ có một vị trí không thấp hơn $l$. Hãy chứng minh rằng khi đó tổng số vị trí không vượt quá $l + 17$, đảm bảo vị trí không thấp hơn $(l + 1)$. Giả sử điều ngược lại: vận động viên trượt băng $A$ có tổng số vị trí không vượt quá $l + 17$ và một vị trí bên dưới $(l + 1)$. Từ Bài tập 6, điểm của vận động viên trượt băng là $A$, tất cả các vị trí đều không vượt quá $l + 1$. Nhưng sau đó, trong bộ điểm dành cho vận động viên trượt băng $B$, người có vị trí $(l + 1)$, tất cả các vị trí không vượt quá $l + 1$. Từ các quy tắc và điều kiện bài toán của chúng tôi, ta suy ra rằng tổng vị trí của vận động viên trượt băng $B$ nhỏ hơn tổng vị trí của vận động viên trượt băng $A$. Điều này có nghĩa là nó không vượt quá $l + 16$. Và điều này đã mâu thuẫn với giả định quy nạp.
+
+Tuyên bố của chúng tôi đã được chứng minh. Như vậy, chúng ta đã giải quyết được hoàn toàn bài toán của mình.
+
+Chúng ta hãy bỏ qua trong bài toán điều kiện là không có hai vận động viên trượt băng nào nhận được số vị trí như nhau. Sau đó, một số vận động viên trượt băng có thể có cùng một bộ điểm. Trong trường hợp này, giả sử rằng tất cả những vận động viên trượt băng này chiếm vị trí thứ tư, thì chúng ta sẽ giả định rằng họ có vị trí thứ tư, và những vận động viên trượt băng còn lại không giành được vị trí thứ năm mà là vị trí thứ sáu.
+
+Phiên bản 7. Chứng minh rằng cho dù chúng ta có bổ sung Quy tắc xác định vị trí như thế nào đi chăng nữa thì đối với bất kỳ $4 \leq k < n$ vận động viên trượt băng nào nhận được tổng số vị trí $k + 16$ đều có thể chiếm vị trí thấp hơn $k$.
+
+Giả sử rằng tổng số vị trí của vận động viên trượt băng đã giành vị trí đầu tiên không trùng với bất kỳ tổng số vị trí nào mà các vận động viên trượt băng khác nhận được.
+
+Hãy thử xác định xem liệu có thể bổ sung Quy tắc xác định địa điểm theo cách mà tất cả kết quả bài toán của chúng tôi không thay đổi hay không.
+
+Hãy thử giải bài toán của chúng tôi, nếu số lượng trọng tài trong cuộc thi là 2,7, $p$.
+
+Danh sách độc giả đã gửi đúng lời giải bài toán từ “Bài toán Kvant”.
+
+Trong số này, chúng tôi công bố họ của những người gửi đúng lời giải bài toán M421—M445 và F438—F447 (số in đậm sau họ là chữ số cuối cùng của các số đã giải bài toán).
+
+Matematika
+
+Hầu hết độc giả đã gửi thư cho chúng tôi đều quyết định chính xác lời giải: A. Abbasov (quận Jebral của Az. SSR) 27; T. Abdulazabov (làng Yarashazmalyar DASSR) 33; A. Azabayan (làng Balko, Gr. SSR) 42; A. Azaev (làng Poprovka, Az. SSR) 37; R. Azzyan (Baku) 26, 27, 31, 32, 37; A. Ainulin (Tyumen) 27, 29; V. Hayriyan (Hrazdan) 33, 37; M. Aimakaleev (Alma-Ata) 22, 33; A. Alekseev (Perm) 22, 24, 26-28, 31-33, 35, 37, 39, a), 6), 41, 42; V. Alifanov (trạm Vyselki, vùng Krasnodar) 23, 26, 37; S. Antonov (Kyiv) 41, 42, 45; V. Aronov (Saratov) 21, 22, 24, 26, 27, 31-33, 35, 37, 38, 40; K. Arkhangelsky (Kherson) 37, 44, 42; I. Arkhipov (Alma-Ata) 22, 23; A. Hamabekyan (Yerevan) 33; R. Akhkhamov (Sterlitamak) 22, 26, 37, 42, 45; K. Baklanov (Tula) 42; E. Balakina (Moscow) 31, 33; A. Balinsky (làng Dublyany, vùng Lviv) 37, 41, 42, 43, c); P. Bankovsky (Uralsk) 23, 41; P. Basarab (làng Yaganovka, vùng Sumy) 22; V. Batyshrev (Moscow) 22, 24, 26, 27, 29, 31, 33, 37, 38, 39, a), 6), 40-42, 44, 45; V. Bakhtin (Voronezh) 22, 24, 25, 27, 28, 29; Yu. Batsenko (làng Demidova, vùng Vinnytsia) 29, 37,
+
+(Tiếp theo trang 43)

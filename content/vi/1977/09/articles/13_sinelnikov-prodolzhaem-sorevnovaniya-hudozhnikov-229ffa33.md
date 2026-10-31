@@ -1,0 +1,88 @@
+---
+id: 1977-9-sinelnikov-prodolzhaem-sorevnovaniya-hudozhnikov-229ffa33
+issue: kvant_1977_9
+year: 1977
+number: "9"
+title: Chúng tôi tiếp tục các cuộc thi nghệ sĩ
+authors:
+  - Синельников А.
+rubric: smes
+page_first: 47
+page_last: 47
+page_labels: "45"
+tag: TRP0
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 913f0a767c66ea766ce5ea16c06bf9c5f7f28e224b4610bd2df59736441c1a41
+prompt_sha256: draft-1
+translated_from: content/ru/1977/09/articles/13_sinelnikov-prodolzhaem-sorevnovaniya-hudozhnikov-229ffa33.md
+source_content_sha256: 1d35280c303d7562730f0d66ffdb354a0e6a27e5d48616eefc0a9557f7ba0af2
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 45⟧
+
+8. ABCD là hình vuông. Tìm ảnh của đỉnh $A$ có bố cục $S_b \circ S_a$ đối xứng với 2 trục $a$ và $b$ như hình vẽ.
+
+Đáp số. a) $A$; 6) $B$; b) $C$; d) $D$; e) một điểm không phải là đỉnh của hình vuông.
+
+9. Trong tam giác ABC, đoạn $AM$ là đường trung tuyến. Chỉ định vectơ $\vec{x} = \overrightarrow{AM} + \overrightarrow{BM}$.
+
+Đáp số. a) $\overrightarrow{AB}$; 6) $\overrightarrow{AC}$; b) $\overrightarrow{BC}$; d) $\overrightarrow{BA}$; e) $\overrightarrow{CA}$.
+
+10. Chiều cao của tam giác đều ABC bằng 1. Hãy vẽ một đường thẳng song song với đường thẳng $BC$ cách đỉnh $A$ bao nhiêu để chia tam giác ABC thành hai phần có diện tích bằng nhau?
+
+Đáp số. a) $1/2$; 6) $2/3$; b) $3/4$; d) $\sqrt{2}/2$; e) $\sqrt{3}/2$.
+
+lớp X
+
+1. Có bao nhiêu cách khác nhau để phân công 12 người làm hai ca, mỗi ca 6 người?
+
+Đáp số. a) $C_{12}^6$; 6) $A_{12}^6$; b) $\frac{1}{2} C_{12}^6$; d) $C_{12}^6 \cdot C_{12}^6$; e) $P_6$.
+
+2. Cho hai số thực $x = 0,1093$ ... Và $y = 0,3006$ ... Có bao nhiêu chữ số sau dấu thập phân cho tổng của chúng $x + y$?
+
+Đáp số. a) bốn; 6) ba; b) hai; xong; d) không có.
+
+3. Dãy số $a_n = -\frac{1}{n^2}$ có tính chất nào về tính đơn điệu và tính bị chặn?
+
+Đáp số. a) tăng và không bị giới hạn; 6) giảm và không giới hạn; b) tăng và bị hạn chế; d) giảm dần và hạn chế; d) không bị giới hạn và không đơn điệu.
+
+4. Hàm $f$ khả vi tại điểm $x_0$. Giới hạn là gì?
+
+$$\lim_{\Delta x \to 0} (f(x_0 + \Delta x) - f(x_0)).$$
+
+Đáp số. a) 0; 6) $f(x_0)$; b) $-f(x_0)$; d) $f'(x_0)$; d) giới hạn này không tồn tại.
+
+5. Tìm hàm số tùy ý $(x^{10} + 1)^{10}$.
+
+Đáp số. a) $10(x^{10} + 1)^9$; 6) $100(x^{10} + 1)^9$; b) $10x^9(x^{10} + 1)^9$; d) $100x^9(x^{10} + 1)^9$; e) $x^9(x^{10} + 1)^9$.
+
+6. Mặt phẳng cắt các cạnh $AB$, $BC$ và $CD$ của tứ diện $ABCD$ (không ở các đỉnh). Mặt phẳng này sẽ cắt cạnh nào khác?
+
+Đáp số. a) [AC]; 6) [AD]; b) [ĐD]; d) không có; d) thêm hai xương sườn nữa.
+
+7. $\vec{a}$, $\vec{b}$, $\vec{c}$ là các vectơ trong không gian, $(\vec{a}, \vec{b}) = 90^\circ$, $(\vec{b}, \vec{c}) = 90^\circ$. Khả năng có ý nghĩa $\varphi = a, c$ là gì?
+
+Đáp số. a) $\varphi = 0^\circ$; 6) $\varphi = 90^\circ$; b) $\varphi = 180^\circ$; d) $0^\circ \leq \varphi \leq 90^\circ$; e) $0^\circ \leq \varphi \leq 180^\circ$.
+
+Khuyên học sinh lớp 10 giải và được xếp vào lớp IX.
+
+Chúng tôi sẽ tiếp tục hỗ trợ các nghệ sĩ
+
+Chúng ta hãy nhớ lại rằng các điểm trong hệ tọa độ Descartes phải được đặt lần lượt và mỗi điểm phải được nối với điểm trước đó bằng một đoạn.
+
+Những gì bạn thành công, bạn sẽ thuyết phục được chính mình!
+
+1. (4; 7); (5; 8); (6; 8); (8; 9); (9; 9); (7; 8); (9; 8); (6; 7); (7; 6); (9; 6); (11; 5); (12; 3); (12; 2); (13; 3); (12; 1); (7; 1); (8; 2); (9; 2), (8; 3), (6; 1), (5; 1), (6; 2), (6; 3), (5; 6), (4; 6), (4; 7) và (5; 7).
+
+2. (-12; 15), (-10; 17), (-1; 8), (1; 8), (3; 10), (2; 11), (9; 18), (11; 16), (1; 6), (5; 2), (6; 3), (13; -4), (11; -6), (1; 4), (4; -11), (5; -11), (5; -18), (-5; -18), (-5; -11), (-4; -11), (-1; 4), (-3; 2), (-2; 1), (-9; -6), (-11; -4), (-1; 6), (-4; 9), (-5; 8), (-12; 15) và (-4; -18), (-4; -14), (-1; -14), (-1; -18) và (0; -16), (0; -14), (4; -14), (4; -16), (0; -16).
+
+3. (10; 7), (11; 6), (12; 7), (12; 6), (13; 5), (14; 3), (13; 3), (12; 4), (10; 0), (9; -1), (10; -2), (8; -4), (9; -2), (7; -4), (8; -2), (6; -1), (5; -1), (2; -4), (8; -10), (6; -10), (6; -9), (1; -4), (2; -2), (1; -1) (-1; 0), (-12; -3), (-6; -1), (0; 3), (4; 4), (6; 4), (8; 3), (9; 3), (11; 5), (10; 7) và (12.5; 5).
+
+4. (-3; -4), (-4; -3), (-5; -3), (-7; -4), (-10; -7), (-11; -11), (-13; -14), (-11; -14), (-10; -12), (-9; -11), (-5; -9), (-6; -9), (-5; -8), (-4; -6), (-5; -5), (-4; -4), (-3; -4) và (-4; -3,5).
+
+A. Sinelnikov

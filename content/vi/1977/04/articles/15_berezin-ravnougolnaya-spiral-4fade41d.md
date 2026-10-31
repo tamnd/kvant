@@ -1,0 +1,56 @@
+---
+id: 1977-4-berezin-ravnougolnaya-spiral-4fade41d
+issue: kvant_1977_4
+year: 1977
+number: "4"
+title: Hình xoắn ốc đều
+authors:
+  - Березин В. Н.
+rubric: raznoe
+page_first: 44
+page_last: 44
+page_labels: "42"
+tag: BWLN
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: cc41d483743f1d238b67ffa489d47f20833024fab3de9082459af8b396a57d85
+prompt_sha256: draft-1
+translated_from: content/ru/1977/04/articles/15_berezin-ravnougolnaya-spiral-4fade41d.md
+source_content_sha256: 92d3d8b1573c3a2a7c765fb0ed27d8dd8408131551ca82c3606a2cf2d078bae3
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 42⟧
+
+Hình xoắn ốc đều
+
+Trang thứ hai của trang bìa hiển thị hai họ hình xoắn ốc có hình dạng đều nhau (chính xác hơn là các đường dây đứt quãng được khắc trong đó).
+
+Một đường xoắn ốc đều có thể được định nghĩa là quỹ đạo của một điểm M, di chuyển dọc theo một tia quay đều quanh một điểm O (cực của đường xoắn ốc) và tổng tốc độ của nó tại mỗi thời điểm tạo thành cùng một góc α với tia (Hình 1). Hình xoắn ốc này có vô số vòng quay, không chỉ khi không xoắn mà cả khi xoắn.
+
+Dọc theo đường xoắn ốc này, những chiếc chai mới bay về phía ngọn lửa nến. Do cấu trúc phức tạp của mắt, chúng hướng về phía mục tiêu sao cho tốc độ của chúng tạo thành một góc không đổi với hướng về phía ngọn lửa nến. Động vật thân mềm dẫn các phần vỏ của nó dọc theo đường xoắn ốc này (Hình 2).
+
+Đường xoắn ốc đều được sử dụng trong nhiều thiết bị kỹ thuật. Ví dụ, các chân quay trong máy cắt thường có mặt cắt theo hình xoắn ốc đều - ở một góc không đổi so với bề mặt bị cắt, nhờ đó các lưỡi của chân phát triển đều nhau (Hình 3).
+
+Quay lại hình ảnh trên trang bìa, bạn sẽ nhận thấy rằng các hình xoắn ốc cùng họ có thể được kết hợp với nhau bằng cách xoay tương ứng với tâm của toàn bộ hình (hay còn gọi là các sọc của mỗi hình xoắn ốc) một góc $k \frac{\pi}{6} (k = 1, 2, 3, \dots)$. Hơn
+
+*) Đường xoắn ốc đều còn được gọi là ma trận.
+
+Khi bạn gặp nhau trong cùng một hình vẽ, bạn sẽ nhận thấy các hình tứ giác biến đổi thành nhau do tính đồng nhất so với tâm chung (mỗi hình là hình tròn của hai hình tam giác - một hình chữ nhật đều và một hình chữ nhật cân). Một đường xoắn ốc đều, khi đồng âm đối với một cực, cũng chuyển động ra xa chính nó.
+
+Hai đặc tính này của một đường xoắn ốc đều (thực tế là nó thay đổi từ chính nó trong quá trình quay và đồng tính) khiến J. Bernoulli* thích thú đến mức ông ra lệnh khắc hình ảnh của nó lên bia mộ của mình. Đặc điểm của đường cong đáng chú ý này đã thu hút nhiều nhà toán học xuất sắc. Người đầu tiên trong số họ là E. Torricelli** và R. Descartes (1596-1650)***.
+
+Nhân tiện, E. Torricelli đã phát hiện ra những sự thật đáng kinh ngạc. Hóa ra, mặc dù có số vòng vô hạn, nhưng độ dài của các đường xoắn ốc logarit khác từ điểm A tùy ý đến cực O là hữu hạn.
+
+Thật vậy, chúng ta hãy quay lại Hình 4. Để hình xoắn ốc đều lăn không trượt dọc theo tiếp tuyến AB của nó. Sọc của hình xoắn ốc O khi đó sẽ di chuyển vuông góc với AO và cuối cùng sẽ chạm vào điểm B. Và cung AO sẽ lăn dọc theo AB không trượt. Do đó độ dài của AO là $\frac{|OA|}{\cos \alpha}$.
+
+Và bây giờ bài toán: bạn cần tìm các sọc của một hình xoắn ốc đều nếu biết hướng của các tiếp tuyến tại ba điểm đã biết.
+
+V. Berezin
+
+*) Xem “Bernoulli's Lemniscate”, «Kvant», Số 1. 1977.
+**) Xem “Strophida”, «Kvant», 1977, số 2.
+***) Rene Descartes - nhà toán học, nhà vật lý, nhà vật lý học. Anh sinh ra ở Pháp tại thành phố hiện mang tên anh. Descartes là người tạo ra “toán học phổ quát”, theo kế hoạch của ông, nó sẽ trở thành một phương tiện nghiên cứu phổ quát trong khoa học tự nhiên. Trong các tác phẩm của ông, một phương pháp nghiên cứu dựa trên việc sử dụng linh hoạt các phương trình đại số đã được phát triển. Từ “toán học phổ quát” đã phát triển đại số và hình học giải tích. Sách của R. Descartes đã là sách tham khảo cho các nhà toán học làm việc sáng tạo trong nhiều thập kỷ.

@@ -1,0 +1,76 @@
+---
+id: 1977-5-sadovskiy-degtyarev-primernyie-zadachi-vstupitelnyih-ekzamenov-po-matematike-v-tehnicheskie-vuzyi-v-1977-godu-5456f268
+issue: kvant_1977_5
+year: 1977
+number: "5"
+title: '[Xấp xỉ bài toán kỳ thi tuyển sinh môn toán vào các trường đại học kỹ thuật năm 1977]'
+authors:
+  - Садовский Л. Е.
+  - Дегтярев Н.
+rubric: raznoe
+page_first: 56
+page_last: 56
+page_labels: "54"
+tag: Y2CU
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 4ac5823970b5f35f27f9f4f3ecffde58fd563b2a7b8c941bb4a027c979140f00
+prompt_sha256: draft-1
+translated_from: content/ru/1977/05/articles/19_sadovskiy-degtyarev-primernyie-zadachi-vstupitelnyih-ekzamenov-po-matematike-v-tehnicheskie-vuzyi-v-1977-godu-5456f268.md
+source_content_sha256: bc9cba312e94ddd8a4d3332cafcbf8e6dfd719a15fa989fa4447969b05edb961
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 54⟧
+
+Trái phiếu kỹ thuật
+
+Tùy chọn 1
+
+1. Hai số bắt đầu được thêm vào bên phải cùng một số. Hiệu giữa số có bốn chữ số thu được và bình phương của số có hai chữ số ban đầu được chia cho 4% bình phương của số ban đầu; một phần họ nhận được một nửa số ban đầu và phần còn lại - số ban đầu. Tìm số ban đầu có hai chữ số.
+
+2. Tổng của năm số hạng đầu tiên của một cấp số nhân là 93, và tổng của mười số hạng đầu tiên của cùng một cấp số nhân là 3069. Tìm tổng của mười lăm số hạng đầu tiên của cấp số nhân này.
+
+3. Giải phương trình
+$$\frac{\lg^2 x - 2\lg x - 15}{\sqrt{1000-x}} = 0.$$
+4. Giải phương trình
+$$\frac{\cos x}{1 + \sin x} + \mathrm{tg} x = 2.$$
+5. Tìm độ dài của một đoạn thẳng song song với hai đáy của hình thang, hai đầu của nó nằm trên các cạnh bên của nó, biết rằng đoạn thẳng này chia hình thang thành hai hình bằng nhau và hai đáy của hình thang có độ dài a và b (a>b).
+6. Tìm độ dài đường cao của hình nón có thể tích lớn nhất nội tiếp được trong một quả cầu có bán kính R.
+
+Tùy chọn 2
+
+1. Hai mẫu máy bay bắt đầu di chuyển đồng thời theo cùng một hướng với một cơn gió ngược, tốc độ là v m/giây. Mẫu đầu tiên bay ít hơn t giây so với mẫu thứ hai, nhưng lâu hơn một m. Mẫu xe nào trong số này sẽ di chuyển xa nhất khi thời tiết yên tĩnh? (Thời gian bay của mô hình không phụ thuộc vào gió.)
+2. Giải phương trình
+$$\frac{2\lg^2 x - 5\lg x + 2}{\sqrt{x - 200}} \ge 0.$$
+3. Giải phương trình
+$$\sqrt{1 + \sin x} + \cos x = 0.$$
+4. Tìm ba số tạo thành một cấp số nhân nếu tổng của chúng là 21 và tích của chúng là 216.
+5. Cạnh của hình vuông ABCD là 10 cm. Trên các cạnh của nó có các đoạn $[AA_1], [BB_1], [CC_1], [DD_1]$ có chiều dài x mỗi đoạn, với $A_1 \in [AB], B_1 \in [BC], C_1 \in [CD], D_1 \in [DA]$. Chứng minh rằng tứ giác $A_1B_1C_1D_1$ là hình vuông và tìm giá trị x sao cho diện tích hình vuông này nhỏ nhất.
+6. Tìm thể tích của DABC nguyên thủy nếu $[DB] \perp (ABC)$, nhân hai số 0 ở cạnh AC, bằng φ, $|DC|=l$, $A\overset{\frown}{CB} = \pi/2$, $C\overset{\frown}{AB} = \alpha$.
+Tùy chọn 3
+1. Thành phố A và B nằm bên bờ sông, có A ở hạ lưu. Từ những thành phố này, hai chiếc thuyền đồng loạt hướng về nhau. Có thể đến đồng thời thành phố B và A, các thuyền quay trở lại và gặp nhau ở khoảng cách 20 km tính từ điểm gặp đầu tiên. Nếu hai thuyền rời A và B cùng lúc bơi ngược dòng thì thuyền rời A sẽ đuổi kịp thuyền rời B, cách B 150 km. Tìm khoảng cách giữa A và B.
+
+2. Giải bất đẳng thức
+$$\sqrt{1 - \log_5(x^2 - 2x + 2)} < \log_5(5x^2 - 10x + 10).$$
+3. Giải phương trình
+$$\sin x + \sin 2x + \sin 3x = 1 + \cos x + \cos 2x.$$
+4. Tìm mẫu số của một cấp số nhân giảm vô hạn có tổng bằng 4 lần tổng của năm số hạng đầu tiên.
+5. Một hình chữ nhật nội tiếp tam giác ABC, có hai đỉnh nằm trên cạnh AC, hai đỉnh còn lại nằm trên cạnh AB và BC. Tìm diện tích lớn nhất của hình chữ nhật đó nếu $|AC| = 12$ cm, $|BD| = 10$ cm, trong đó $[BD]$ là chiều cao của tam giác ABC.
+6. Tìm thể tích của một quả cầu nội tiếp trong một hình nón, có đường sinh của nó nghiêng với mặt phẳng đáy một góc α và mặt bên bằng Q.
+
+Tùy chọn 4
+
+1. Hai đại lượng cùng lúc rời khỏi điểm A theo cùng một hướng, đại lượng thứ nhất với tốc độ 8 km/h và đại lượng thứ hai với tốc độ 10 km/h. Sau 30 phút, cường độ thứ ba phát ra từ điểm A theo cùng hướng, bắt kịp cường độ đầu tiên và sau 1 $\frac{1}{2}$ giờ nữa, cường độ thứ hai. Tìm vận tốc có độ lớn thứ ba.
+2. Giải phương trình
+$$\log \sqrt{x - 1} (2x - 14) = 2.$$
+3. Giải bất đẳng thức
+$$\cos 2x \cdot \cos \frac{\pi}{8} - \sin 2x \cdot \sin \frac{\pi}{8} \ge 0, 5\sqrt{2}.$$
+4. Các tiếp tuyến của các góc dương của một tam giác tạo thành một cấp số cộng. Chứng minh rằng khi đó cosin các góc của tam giác này tạo thành một cấp số cộng.
+5. Một tứ giác được mô tả xung quanh một đường tròn bán kính R, có hai cạnh song song với nhau và hai cạnh còn lại bằng nhau. Tìm diện tích nhỏ nhất của một hình tứ giác như vậy.
+6. Tìm thể tích của một tứ giác đều song song với nhau và hai hình còn lại bằng nhau. Tìm diện tích nhỏ nhất của một tam giác có chiều cao H và góc phẳng tại đỉnh là α).
+
+L. Sadovsky, N. Deetyarev

@@ -1,0 +1,74 @@
+---
+id: 1977-1-rabbot-vsesoyuznaya-zaochnaya-matematicheskaya-shkola-503d0d30
+issue: kvant_1977_1
+year: 1977
+number: "1"
+title: Trường Toán học Liên bang
+authors:
+  - Раббот Ж. М.
+rubric: informatsiya
+rubric_sub: Информация
+page_first: 54
+page_last: 54
+page_labels: "52"
+tag: PQ5F
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 434d5da4161a45f84017607fe44dc0848dfb7aeb6d620d8205f152f7ce653bea
+prompt_sha256: draft-1
+translated_from: content/ru/1977/01/articles/19_rabbot-vsesoyuznaya-zaochnaya-matematicheskaya-shkola-503d0d30.md
+source_content_sha256: e96ac70c35ba1bac941b513d40d9d462870f7c43e40fda0626e34ba36d156841
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 52⟧
+
+Lễ tân được công bố
+
+Trường toán tương ứng nặng
+
+Trường Toán học Tương ứng Toàn Liên minh của Viện Hàn lâm Khoa học Sư phạm Liên Xô tại Đại học Moscow (VZMSH) tiếp nhận học sinh từ các lớp học ở nông thôn. Học sinh sống ở Moscow, Leningrad và các vùng ngoại ô không được nhận vào trường.
+
+Các lớp học sẽ bắt đầu vào ngày 1 tháng 9 năm 1977. Giáo dục ở trường là miễn phí.
+
+Học sinh được nhận vào trường sẽ được quản lý bởi bài toán, trong đó có phần giải thích các vấn đề lý thuyết và bài toán đối với lời giải. Thời gian đào tạo là ba năm.
+
+Nhiệm vụ của bài kiểm tra giới thiệu được công bố dưới đây. Những người muốn đăng ký vào VZMSH phải gửi lời giải trong số bài toán này không muộn hơn ngày 20 tháng 3 năm 1977. Sau khi giấy tờ của bạn được xem xét (khoảng tháng 7 năm 1977), bạn sẽ được thông báo liệu bạn có được nhận vào trường hay không. Hơn nữa, công việc sẽ không chỉ tính đến số lượng giải được bài toán mà còn tính đến chất lượng của lời giải. Lời giải của mỗi bài toán phải chính đáng. Đáp số không có lý do chính đáng có thể không được đọc. Nếu một nhiệm vụ có thể chứa các thành phần bị thiếu thì tất cả chúng phải được chỉ định.
+
+Bài làm phải được hoàn thành bằng tiếng Nga vào vở ca rô của học sinh. Giấy dự thi sẽ không được gửi lại và giải pháp cho chúng sẽ không được ban hành.
+
+Trong phong bì cùng với cuốn sổ, bạn cần để một mảnh giấy có kích thước 14 cm x 6 cm ghi địa chỉ bưu điện của bạn (chúng tôi sẽ dán lên phong bì khi gửi cho bạn đáp số).
+
+Dán một mảnh giấy ca-rô lên bìa vở, vẽ và điền theo mẫu sau (ban đầu bài làm sẽ không được kiểm tra):
+
+Vùng đất
+Họ, tên
+Năm sinh
+Lớp học
+Trường (tên đầy đủ)
+Họ, tên, thiếu toán
+Nơi làm việc và chức vụ của phụ huynh
+
+Địa chỉ bưu điện đầy đủ
+
+Volododskaya
+Ivanov Petr
+1963
+lớp 7A.
+Trường số 2 của Totma
+Nikanorov Vladimir Alekseevich
+bố - lái xe autoraza số 3,
+mẹ là một bà nội trợ
+123456, Totma, st. Lênin
+3, thích hợp. 23
+
+Kết quả kiểm tra
+
+Học sinh sống ở các vùng Arkhangelsk, Volodsk, Kaliningrad, Leningrad, Murmansk, Novgorod và Pskov, Komi và Karal ASSR, Belarus, Latvia, Lithuania và Estonian SSR, giao tác phẩm tại địa chỉ: Leningrad, P-228, st. Savushkina, 61. Hội đồng đặc biệt tại. LSU. 3MSh. Để cạnh tranh.
+
+Sinh viên sống ở các vùng Voronezh, Belgorod, Tambov, Kursk và Lipetsk gửi tác phẩm của mình đến địa chỉ: Voronezh, University, 3FMSH. Để cạnh tranh.
+
+Học sinh sống ở các khu vực khác của RSFSR và các khu vực đồng tài nguyên khác phải nộp bài theo địa chỉ: 117234, Moscow, V-234, Đại học quốc gia Moscow mex.-mat, VZMSH. Để cạnh tranh.

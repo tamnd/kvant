@@ -1,0 +1,95 @@
+---
+id: 1977-11-klumova-smolyanskiy-novyie-knigi-464597da
+issue: kvant_1977_11
+year: 1977
+number: "11"
+title: Sách mới
+authors:
+  - Клумова И. Н.
+  - Смолянский М. Л.
+rubric: retsenzii-bibliografiya
+rubric_sub: Рецензии, библиография
+page_first: 92
+page_last: 92
+page_labels: "90"
+tag: 032U
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: d629957bc9e460e09ed8d6e21f4b83591bf4f256dc01eed152a5a87626bca335
+prompt_sha256: draft-1
+translated_from: content/ru/1977/11/articles/28_klumova-smolyanskiy-novyie-knigi-464597da.md
+source_content_sha256: 18fc32ab308c79d7943e49ce09bbddc3a1945ab1f7be6c93cd55fd7248108dec
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 90⟧
+
+Sách mới
+
+Trong số này chúng tôi tiếp tục xuất bản tổng hợp các cuốn sách xuất bản trong quý 4 năm nay và được độc giả quan tâm.
+
+Hầu hết chúng có thể được mua thông qua các cửa hàng “Sách qua đường bưu điện” chuyên biệt.
+
+Toán học
+Nhà xuất bản "Nuuka"
+
+1. Volynsky B. A. Phép đo hình cầu. Tập 6 l., phát hành 15.000 bản, giá 20 kopecks.
+
+Cuốn sách xem xét các câu hỏi về hình học trên bề mặt hình cầu, hình cầu lớn và hình tam giác, cũng như sự tương ứng giữa các phần tử cơ bản của hình tam giác cầu. Các công thức liên quan đến các cạnh và các góc của hình tam giác cầu được rút ra.
+
+Cuốn sách dành cho những người quan tâm đến thiên văn học. Nó có thể được sử dụng trong các lớp vòng tròn thiên văn.
+
+2. Pogorelov A.V. Hình học sơ cấp. Phiên bản thứ 3, bổ sung. Tập 15 l., phát hành 100.000 bản, giá 43 kopecks.
+
+Cuốn sách này, được viết bởi một nhà hình học nổi tiếng, chứa đựng những tài liệu nằm ngoài phạm vi chương trình giảng dạy ở trường. Tuy nhiên, nó có thể đóng vai trò là tài liệu hướng dẫn hữu ích cho những người quan tâm đến hình học và giáo viên toán ở các trường trung học.
+
+Nhà xuất bản "Prosveshcheniye"
+
+3. Vorotnikov I. A. Bản vẽ giải trí. Tái bản lần thứ 3, có sửa đổi. Tập 13 l., phát hành 80.000 bản, giá 55 kopecks.
+
+Hình thức giải trí của bài toán và các bài tập trong sách rất phù hợp với nội dung thực tế rõ ràng. Đồ họa được đề xuất bài toán dựa trên nhiều hiện tượng và sự kiện của cuộc sống hàng ngày. Chúng được giải quyết với sự trợ giúp của kiến ​​thức mà học sinh nhận được từ khóa học vẽ ở trường.
+
+Nhà xuất bản "Kiến thức"
+
+4. "Số và tên lửa". Tuyển tập các bài viết. Tập 9 l., phát hành 100.000 bản, giá 27 kopecks.
+
+Bộ sưu tập được chuẩn bị bởi một nhóm các nhà khoa học hàng đầu của Liên Xô - thành viên tương ứng của Viện Hàn lâm Khoa học Liên Xô N. N. Monseev, A. A. Lyapunov, viện sĩ A. A. Dorodnitny và những người khác.
+
+Các tác giả, dưới hình thức khoa học phổ biến, nói về những phương pháp mô hình toán học mới đã mang lại lời giải các vấn đề sinh học, xã hội học, kinh tế và các vấn đề khác.
+
+Bộ sưu tập này dành cho nhiều độc giả.
+
+Sách trong bộ sách “Toán học và Điều khiển học”
+
+5. Venzel E. S. Lý thuyết xác suất (bước đầu tiên).
+
+Tác giả. tài liệu quảng cáo - một nhà khoa học nổi tiếng của Liên Xô - thường nói về lý thuyết xác suất, ngành này phát triển như thế nào, nó được ứng dụng rộng rãi như thế nào trong hầu hết các ngành khoa học hiện đại, cũng như tính khoa học của nó.
+
+Cuốn tài liệu này là lời nói đầu cho một nghiên cứu chuyên sâu về lý thuyết xác suất.
+
+6. Gnedenko B.V., Kantorovich L.V. và cộng sự. Toán học cho nền kinh tế quốc dân.
+
+Bộ sưu tập bao gồm các bài viết của các nhà khoa học lớn của Liên Xô - viện sĩ L. V. Kantorovich, V. P. Tikhonov, viện sĩ Viện Hàn lâm Khoa học Cộng hòa Xã hội chủ nghĩa Xô viết Ukraina B. V. Gnedenko, v.v. Các tác giả trình bày một cách thú vị và dễ hiểu về những vấn đề khoa học quan trọng nhất đặt ra bởi toàn bộ quá trình phát triển của nền kinh tế quốc dân và các nhà toán học thành công; về lý thuyết quy hoạch tuyến tính, lý thuyết xếp hàng, lập kế hoạch tối ưu, nghiên cứu hoạt động và các ứng dụng quan trọng khác của toán học.
+
+Vật lý
+
+Nhà xuất bản "Nuuka"
+
+1. Smorodinsky Ya. A. Tyagodence. (Thư viện của Trường Vật lý và Toán học.) Tập 6 l., phát hành 200.000 bản, giá 17 kopecks.
+
+Phần chính của cuốn sách dành cho việc áp dụng định luật vạn vật hấp dẫn vào lời giải đơn giản bài toán gắn liền với sự rơi của các vật thể, chuyển động của các hành tinh và tàu vũ trụ. Lời giải bài toán không cần kiến ​​thức về toán cao cấp. Chỉ sử dụng các công thức đại số vectơ, thông tin ngắn gọn về công thức này được đưa ra trong phần phụ lục. Cuốn sách phác thảo lịch sử của khoa học về trọng lực, các định luật chuyển động của các vật thể trong trường hấp dẫn và những thay đổi mà thuyết tương đối tổng quát mang lại.
+
+Cuốn sách dành cho học sinh trung học và sinh viên kỹ thuật.
+
+2. Gladkova R. A. và cộng sự. Bộ sưu tập bài toán và các câu hỏi trong vật lý. Tập 20 l., phát hành 30.000 bản, giá 64 kopecks.
+
+Toán học được đưa vào cuốn sách, bao trùm toàn bộ chương trình giảng dạy vật lý ở trường. bài toán đã cho cho từng chủ đề riêng lẻ được xem xét theo thứ tự độ khó tăng dần. Ở đầu mỗi đoạn văn, các ví dụ lời giải điển hình của bài toán được áp dụng kèm theo giải thích chi tiết.
+
+Cuốn sách dành cho học sinh trung học và sinh viên kỹ thuật cũng như những người chuẩn bị tự mình bước vào đại học.
+
+3. Tinh thể Shasolskaya M. P. Tập 20 l., phát hành 50.000 bản, giá 90 kopecks.
+
+Cuốn sách trình bày một cách đơn giản và dễ hiểu về cách

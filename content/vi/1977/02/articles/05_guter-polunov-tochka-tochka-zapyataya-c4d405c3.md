@@ -1,0 +1,35 @@
+---
+id: 1977-2-guter-polunov-tochka-tochka-zapyataya-c4d405c3
+issue: kvant_1977_2
+year: 1977
+number: "2"
+title: Dấu chấm, dấu chấm, dấu phẩy...
+authors:
+  - Гутер Р. С.
+  - Полунов Ю. Л.
+rubric: osnovnye-stati
+page_first: 15
+page_last: 15
+page_labels: "13"
+tag: XWPK
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 5b69f4213deb1a007fa50b8bf7a8f524970c07f53a66e78bf34354c2288f24cc
+prompt_sha256: draft-1
+translated_from: content/ru/1977/02/articles/05_guter-polunov-tochka-tochka-zapyataya-c4d405c3.md
+source_content_sha256: b9beffd9026ff0bd1a1f50404e26ecf9d54d7dfd11b6e7a68d52663661becf4b
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 13⟧
+
+klad, mà không cần nộp đơn xin học bổng! "Thứ mười" được biết đến rộng rãi ở châu Âu. Nó được chính tác giả dịch sang tiếng Pháp vào cùng năm 1585. Nó xuất hiện bằng tiếng Anh vào năm 1608.
+
+Giovanini Antonio Magini (1555-1617) là giáo sư tại Đại học Bologna. Ông đã sử dụng "dấu thập phân" trong các bảng trong cuốn sách "Tam giác Plok", xuất bản năm 1592 tại Venice.
+
+Joost Burggi người Thụy Sĩ (1552–1632) ban đầu là thợ đồng hồ và thợ cơ khí, giúp chế tạo và sửa chữa các dụng cụ thiên văn, sau đó hỗ trợ Kepler xử lý các quan sát thiên văn và các phép tính khác. Năm 1592, ông biên soạn một bảng số sin và viết sách hướng dẫn về số học. Trong đó ông đã sử dụng phân số thập phân một cách có hệ thống. Vào năm 1616, Kepler đã viết về nó: “... vì người ta thường thu được các phân số và tôi muốn sử dụng các số ngắn, sau đó lưu ý rằng tất cả các số sau dấu o đều thuộc về phân số dưới dạng tử số, nhưng mẫu số không được ghi vào nó, mà luôn là một số thập phân tròn có số 0 bằng số chữ số sau dấu... Kiểu tính toán với phân số này được phát minh bởi Joost Bürggi... Nhờ điều này, với các số nguyên và phân số có thể được coi là một số trong mọi phép toán cơ bản.”
+
+Năm 1603, bác sĩ Johann Hartmann Beyer (1563-1625) ở Frankfurt đã xuất bản tác phẩm “Logic thập phân”, trong đó ông viết: “... Tôi nhận thấy rằng các kỹ thuật viên và nghệ nhân, khi họ thay đổi bất kỳ độ dài nào, rất hiếm khi và chỉ trong những trường hợp đặc biệt thể hiện nó bằng số nguyên của một tên; Thông thường, họ phải sử dụng các thước đo nhỏ hoặc dùng đến phân số; theo cách tương tự, các nhà thiên văn học thay đổi số lượng không chỉ theo độ mà còn theo phân số của một độ, tức là phút, giây, v.v.; nhưng đối với tôi, có vẻ như việc chia chúng thành 60 phần sẽ không thuận tiện bằng việc chia chúng thành 10, 100 phần, v.v., bởi vì trong

@@ -1,0 +1,51 @@
+---
+id: 1977-5-sovetuem-kupit-ab95f248
+issue: kvant_1977_5
+year: 1977
+number: "5"
+title: Chúng tôi khuyên bạn nên mua!
+rubric: smes
+page_first: 11
+page_last: 11
+page_labels: "9"
+tag: RVDQ
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 46964a9ab22a47d971d4f7689318b6b6f3fba36247c96721d51438c17e73695b
+prompt_sha256: draft-1
+translated_from: content/ru/1977/05/articles/05_sovetuem-kupit-ab95f248.md
+source_content_sha256: c022d5959454bc8f11f3fd6f187e3f243053d1419e04e3b58271628d7e73907c
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 9⟧
+
+Giống như trong trường hợp diện tích, định lý tồn tại và duy nhất đúng.
+
+Không tập trung vào các phương pháp khác, chúng ta hãy xem xét cách tính thể tích bằng cách sử dụng tích phân và nguyên lý Cavalieri về thể tích.
+
+Cho một hệ tọa độ trong không gian và lấy một số hình $F$, hình chiếu của nó lên trục hoành được biểu thị bằng một đoạn nhất định $[a, b]$. Bằng $S(x)$ chúng ta biểu thị diện tích của hình cắt ra từ $F$ bằng một mặt phẳng vuông góc với trục hoành và đi qua điểm $x$ của đoạn $[a, b]$. Tiếp theo, bằng $V(x)$, chúng ta biểu thị thể tích của phần đó của hình $F$, nằm ở bên trái của mặt phẳng đã vẽ (Hình 15). Khi đó đẳng thức $V'(x) = S(x)$ là đúng, tức là $V$ là nguyên hàm của hàm $S$. Việc chứng minh đẳng thức này cũng giống như trong trường hợp diện tích.
+
+Tất nhiên, để bằng chứng được thông qua, phải đưa ra một số giả định. Hình $F$ phải là hình khối, các tiết diện của nó phải là hình vuông.
+
+Cơm. 15.
+
+Cơm. 16.
+
+được chấp nhận. Ngoài ra, phải đưa ra một số giả định về đặc điểm của ranh giới cơ thể $F$ (được thực hiện bằng cách suy luận tương tự như trong Hình 10). Ví dụ, trong sách giáo khoa lớp X, đẳng thức $V'(x) = S(x)$ có giá trị trong trường hợp $F$ là hình quay thuộc loại đặc biệt. Chúng tôi không dừng lại ở đó. Từ đẳng thức $V'(x) = S(x)$ suy ra rằng đối với thể tích của hình $F$ thì công thức đúng
+
+$$V(F) = \int_a^b S(x) dx.$$
+
+Cuối cùng, từ công thức này tuân theo nguyên tắc Cavalieri cho obtems: nếu bất kỳ mặt phẳng nào song song với một mặt phẳng cố định cắt các hình không gian $F$ và $H$ dọc theo các hình có cùng diện tích (Hình 16), thì các hình $F$ và $H$ bằng nhau: $V(F) = V(H)$. Một ví dụ điển hình về việc áp dụng nguyên lý Cavalieri để tính thể tích được đưa ra trong ghi chú được xuất bản trong số này của M. Mamikon.
+
+Chúng tôi khuyên bạn nên mua!
+
+Vilenkin N. Ya. Tổ hợp phổ biến. C. 35k.
+Vygodsky M. Ya. Sổ tay toán tiểu học. C. 35k.
+Koshkin N.I. Sổ tay vật lý cơ bản. Ts. 97k.
+Polya D. Khám phá toán học. Ts. 1 r. 62k.
+
+Gửi đơn hàng đến địa chỉ: 103031, Moscow, Petrovka, 15. Cửa hàng số 8 “Sách kỹ thuật”.

@@ -1,0 +1,45 @@
+---
+id: 1977-5-smyishlyaev-soobschayuschiesya-sosudyi-i-uravneniya-f2845e38
+issue: kvant_1977_5
+year: 1977
+number: "5"
+title: Tàu giao tiếp và... phương trình
+authors:
+  - Смышляев В. К.
+rubric: laboratoriya-kvanta
+rubric_sub: Лаборатория «Кванта»
+page_first: 21
+page_last: 21
+page_labels: "19"
+tag: VE5Q
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: c8e2633bb4644a3faf93654264514ea18b1836e159d45898df0c727607a2f56e
+prompt_sha256: draft-1
+translated_from: content/ru/1977/05/articles/10_smyishlyaev-soobschayuschiesya-sosudyi-i-uravneniya-f2845e38.md
+source_content_sha256: 63c9a9f713444d8721dcb90dee696b82eb8270c5dbf1b23724ea23f0c2a88b0a
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 19⟧
+
+Bây giờ, hãy tìm nghiệm nguyên của phương trình ban đầu của chúng ta. Lần đầu tiên, trạng thái cân bằng được khôi phục ở độ sâu ngâm 4 cm, lần thứ hai - ở độ sâu 5 cm và lần thứ ba - 7 cm. Xin lưu ý rằng mỗi khi qua vị trí cân bằng, độ dốc của đuôi tàu sẽ thay đổi theo hướng ngược lại. Đến độ sâu 4 cm, ách nghiêng sang trái, từ 4 đến 5 cm - sang phải, v.v.
+
+Về nguyên tắc, nghiệm âm cũng có thể được tìm bằng phương pháp này. Để làm điều này, chỉ cần đặt $y = x - \frac{a}{3}$.
+
+Chúng ta hãy xem xét trường hợp đặc biệt của phương trình cuối cùng, khi $p \geq 0$ và $q < 0$. Hãy thực hiện thêm một thay đổi nữa: hãy $x = y\sqrt{p}$. Chúng ta thu được một phương trình có dạng
+
+$$y^3 + y = a,$$
+
+ở đâu $a = \frac{-q}{p\sqrt{p}}$ ($a > 0$). Hãy tìm nghiệm dương của phương trình này.
+
+Lấy hai bình có cùng chiều cao $h$ (xem hình): một bình có hình trụ với mặt phẳng đáy là 1 cm$^2$, bình kia hữu hạn với thể tích $h^3\left(\frac{h}{r} = \sqrt{\frac{\pi}{3}}\right)$. Hãy kết nối chúng bằng một ống mỏng với một vòi. Hãy đổ $a$ cm$^3$ nước vào một trong các bình và mở vòi. Nước sẽ chảy vào bình thứ hai cho đến khi mực nước ở cả hai bình bằng nhau. Hãy để chúng tôi biểu thị bằng $y_0$ chiều cao của mực nước. Trong trường hợp này, thể tích nước trong bình hình trụ sẽ bằng $y_0$, trong bình Konch - $y_0^3$, và tổng thể tích nước bằng $a$. Kể từ đây,
+
+$$y_0^3 + y_0 = a$$
+
+(bỏ qua thể tích nước trong ống nối).
+
+Điều này có nghĩa là $y_0$ là một trong những nghiệm của phương trình (*).

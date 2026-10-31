@@ -1,0 +1,57 @@
+---
+id: 1977-5-vilenkin-chislo-pi-i-teoriya-veroyatnostey-4fd1508e
+issue: kvant_1977_5
+year: 1977
+number: "5"
+title: Pi và lý thuyết xác suất
+authors:
+  - Виленкин А. Н.
+rubric: smes
+page_first: 45
+page_last: 45
+page_labels: "43"
+tag: CJ6N
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: a98672d66acbd930f635f14532fa46825f481729d6cd31e1a4f7692d2fbdc530
+prompt_sha256: draft-1
+translated_from: content/ru/1977/05/articles/15_vilenkin-chislo-pi-i-teoriya-veroyatnostey-4fd1508e.md
+source_content_sha256: 9634f697cdb66f6898e0a5e4e2fa3487067e1b76c70fd71db4380d3c4889c5fb
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 43⟧
+
+D) $O$ - “trong số 28 quân domino nằm trên bàn (chỉ xuống) và di chuyển tốt, một quân được chọn”, $H = \{выбран дубль, выбран не дубль\}$;
+e) $O$ - “từ một chiếc bình chứa 3 quả bóng trắng và 3 quả bóng đen (khi chạm vào giống hệt nhau), một quả được lấy ra trong bóng tối”, $H = \{извлечен белый шар, извлечен черный шар\}$.
+2. Một chiếc bình chứa 6 quả bóng trắng và 8 quả bóng đen. Một quả bóng được rút ngẫu nhiên từ bình. Xác suất để quả bóng này có màu trắng là bao nhiêu?
+3. Đồng xu được tung ba lần. Xác suất để số đó đứng đầu cả ba lần là bao nhiêu?
+4. Một quân domino được chọn ngẫu nhiên. Xác suất để tổng số điểm trên đó chia hết cho 4 là bao nhiêu?
+5. Một tấm bìa cứng có viết chữ “toán học” được cắt thành các hình vuông giống hệt nhau, trên mỗi hình có một chữ cái, di chuyển và một hình vuông được kéo ra. Xác suất để nó có chữ "t" trên đó là bao nhiêu? Chữ cái nào có nhiều khả năng xuất hiện nhất trên đó?
+6. Trong số 27 vé, học sinh Petya chỉ trả lời được những số có số chia hết cho 5. Khi vào lớp 10 lần liên tiếp thì hóa ra vé số 1 và tất cả các vé từ 20 đến 27 đều đã được lấy hết.
+
+Xác suất để Petya rút được một tấm vé mà anh ta có thể trả lời là bao nhiêu? Xác suất này sẽ là bao nhiêu nếu Petya vào lớp trước? Xác suất nào trong số này lớn hơn?
+
+Pi
+và lý thuyết xác suất
+
+Bạn có muốn thử nghiệm tìm số $n$ không? Hãy thử điều này, tất cả những gì bạn cần là một hộp diêm và một tờ giấy.
+
+Trên một tờ giấy, vẽ một lưới các đường thẳng song song cách nhau một khoảng bằng chiều dài của que diêm. Bây giờ hãy ném ngẫu nhiên các que diêm vào một tờ giấy (như trên trang đầu tiên của bìa tạp chí này) và đếm số que diêm vượt qua các đường của lưới (bạn có thể ném một que diêm nhiều lần). Bằng cách chia đôi tổng số que diêm cho số kết quả, bạn sẽ tìm được số $n$ (càng ném nhiều que diêm, bạn sẽ tìm ra số $n$ càng chính xác).
+
+Điều này có thể được chứng minh bằng lý thuyết xác suất. Nếu một khớp có độ dài 1 rơi ở một góc $\phi$ so với các đường lưới thì “độ dài hiệu dụng” của nó là $\sin \phi$. Để một số que diêm vượt qua đường lưới, khi đó đầu dưới của nó cách đường lưới đi qua nó không quá $\sin \phi$ (xem hình). Lấy khoảng cách này nằm trong khoảng từ 0 đến 1. Theo quy luật của lý thuyết xác suất, trận đấu này đi qua đường lưới với xác suất $\sin \phi$.
+
+Bây giờ, để tìm xác suất một que diêm rơi ngẫu nhiên sẽ vượt qua đường lưới, cần phải giảm xác suất thu được $\sin \phi$ trên tất cả $\phi$ ($0 \leq \phi \leq \pi/2$), vì tất cả các giá trị của các góc $\phi$ đều có xác suất như nhau, tức là tìm giá trị của biểu thức
+
+$$\frac{\pi}{2} \sin \phi d\phi$$
+
+và chia nó cho $\pi/2$.
+
+Học sinh lớp 10 sẽ nhanh chóng nhận ra rằng tích phân bằng 1, tức là chỉ phần $\frac{2}{\pi}$ của các trận đấu phải giao nhau với các đường của lưới.
+
+Lần đầu tiên một thí nghiệm như vậy được thực hiện với trò chơi (ném nó nhiều lần) bởi nhà tự nhiên học người Pháp J. L. L. Buffon (1707-1788), trong đó thí nghiệm này được gọi là “kim Buffon”. Vào cuối thế kỷ 19, nhiều nhà toán học đã ném kim 3-5 nghìn lần và thu được giá trị bậc 3,15 cho $\pi$. Tôi tự hỏi $\pi$ mang lại cho bạn giá trị gì từ một hộp diêm?
+
+A. Vilenkin

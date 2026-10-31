@@ -1,0 +1,27 @@
+---
+id: 1977-12-pozdravlenie-v-a-fabrikanta-s-70-letiem-98b832f5
+issue: kvant_1977_12
+year: 1977
+number: "12"
+title: '[Xin chúc mừng sinh nhật lần thứ 70 của V. A. Fabrikant]'
+rubric: raznoe
+page_first: 4
+page_last: 4
+page_labels: "2"
+tag: MQLE
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: dc75a4b41416e05aa3e72deec5469335879b5428fa7674479530cc65a40d817a
+prompt_sha256: draft-1
+translated_from: content/ru/1977/12/articles/03_pozdravlenie-v-a-fabrikanta-s-70-letiem-98b832f5.md
+source_content_sha256: 32adecebf1396e00c3480d5e4cc1f8b511b7220a6add979f022bcaa697c2448b
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 2⟧
+
+Và thành viên ban biên tập tạp chí của chúng tôi, thành viên chính thức của Viện Hàn lâm Khoa học Sư phạm Liên Xô, Tiến sĩ Khoa học Vật lý và Toán học, Giáo sư Valentin Aleksandrovich Fabrikant, đã tròn 70 tuổi.
+Tập hợp biên tập và biên tập viên của tạp chí «Kvant», thay mặt chính họ và thay mặt cho hàng nghìn độc giả, chúc mừng Valentin Aleksandrovich về món bán tráng miệng của ông và chúc ông sức khỏe, nhiều năm sống và những thành công mới trong công việc cao cả của mình với tư cách là một nhà khoa học và nhà giáo.

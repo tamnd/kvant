@@ -1,0 +1,69 @@
+---
+id: 1977-3-mochalov-golovolomki-deca0926
+issue: kvant_1977_3
+year: 1977
+number: "3"
+title: '[Câu đố]'
+authors:
+  - Мочалов Л. П.
+rubric: smes
+page_first: 20
+page_last: 20
+page_labels: "18"
+tag: DH3P
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: b00d4bc8493211decf38b3ce0be3e1deb95d1973729d8031b6bb43ff6cca7951
+prompt_sha256: draft-1
+translated_from: content/ru/1977/03/articles/08_mochalov-golovolomki-deca0926.md
+source_content_sha256: a457abb5c74909617a1626f614532f4f17ecf4210e08e68496dbdee75da85a62
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 18⟧
+
+Cơm. 3.
+
+gieo hạt phụ thuộc vào tốc độ của hạt (năng lượng của nó) và vào khoảng cách tác động:
+
+$$\text{ctg} \frac{\theta}{2} = Cv^2 d$$
+
+(*)
+
+(C là hằng số tùy thuộc vào “loại” nguyên tử). Không thể xác minh trực tiếp công thức này trong các thí nghiệm về sự tán xạ của hạt α - khoảng cách va chạm d là không thể đo được. Nhưng bằng cách sử dụng mô hình cơ học của mình, chúng ta có thể thu được sự phụ thuộc của góc tán xạ vào khoảng cách va chạm. Và nếu dữ liệu thực nghiệm được mô tả tốt bằng công thức tương tự (*), điều này một lần nữa sẽ khẳng định tính hợp lệ của phân tích cơ học của chúng ta về thí nghiệm Rutherford.
+
+Một trong những nghiên cứu kỹ thuật và các phương án sẵn có để tạo đỉnh được minh họa trong Hình 3. Ở đây, để tạo đỉnh tiềm năng, người ta sử dụng một tấm cao su mỏng (dày 2-3 mm), gắn vào ván ép, trong đó khoét một lỗ tròn có đường kính 20-25 cm (mô hình càng lớn thì càng thuận tiện khi làm việc). Cần nhớ rằng sự phụ thuộc của góc tán xạ vào khoảng cách va chạm sẽ thay đổi ở một giá trị cố định của tốc độ bóng.
+
+Vì vậy, bạn nên nghĩ đến cách “phóng” các quả bóng (mặt phẳng nghiêng, súng trường, v.v.).
+
+Sử dụng một thiết bị đơn giản cố định khoảng cách va chạm (ví dụ: rãnh dẫn hướng trong mặt phẳng nằm ngang), bạn có thể tiến hành thí nghiệm trên mô hình này để thu được sự phụ thuộc của góc tán xạ vào vận tốc hạt.
+
+Các biên tập viên «Kvant»yêu cầu bạn mô tả về các thiết kế được phát minh và triển khai cho bạn cũng như kết quả thử nghiệm của bạn.
+
+Vấn đề từ “ví dụ”
+
+VÍ DỤ
+RIMER
+NGAY LẬP TỨC
+MMMER
+LỖI
+R
+
+NHIỆM VỤ
+
+"ví dụ" là gì? MỘT?
+
+Một con đường quanh co
+
+Bắt đầu từ hình vuông ở góc trên bên trái, di chuyển đến góc dưới bên phải, bước
+
+chỉ hàn qua các cạnh của hình vuông (không phải qua các đỉnh!) và nâng mỗi hình vuông màu trắng lên một lần (bạn không thể nhập các hình vuông có màu).
+
+Vòng tròn ma thuật
+
+Đặt các số từ 1 đến 10 vào các vòng tròn màu đen trong hình sao cho tổng các số trong bốn vòng tròn màu đỏ bằng nhau.
+
+L. Motsalov

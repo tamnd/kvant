@@ -1,0 +1,66 @@
+---
+id: 1977-9-zemlyakov-ivlev-zadachi-na-povtorenie-c1b26dea
+issue: kvant_1977_9
+year: 1977
+number: "9"
+title: Bài toán để lặp lại
+authors:
+  - Земляков А. Н.
+  - Ивлев Б. М.
+rubric: po-stranitsam-shkolnyh-uchebnikov
+rubric_sub: По страницам школьных учебников
+page_first: 46
+page_last: 46
+page_labels: "44"
+tag: M8PV
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: f9d661473541b53f518843cd34b050ffd588daf201f4c21a25cf833be866fa02
+prompt_sha256: draft-1
+translated_from: content/ru/1977/09/articles/12_zemlyakov-ivlev-zadachi-na-povtorenie-c1b26dea.md
+source_content_sha256: d1df8e232d7a93b4eb2d4b0467ab285949850cb84035cfb684b63ba02b2d20c0
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 44⟧
+
+Nhiệm vụ lặp lại
+
+Vào đầu năm học, chúng tôi giao cho học sinh lớp IX-X một nhiệm vụ có phần chung chung. Đối với mỗi câu hỏi được liệt kê dưới đây, có năm lựa chọn đáp số (a, 6, c, d, e), trong đó có đúng một lựa chọn đúng. Tìm và giữ nó. Ghi lại thời gian bạn đã thực hiện; So sánh đáp số của bạn với số ở cuối con số.
+
+Những nhiệm vụ này đã được đưa ra tại Olympic Toán học Cộng hòa năm 1977 và chúng có thời gian từ 30 đến 45 phút để hoàn thành. Trung bình, trong số 10 đáp số chỉ có sáu câu đúng. Đối với bạn nó sẽ như thế nào?
+
+lớp IX
+
+1. Có thể để lại bao nhiêu mũi tên trong Hình 1 để chúng xác định một hàm có miền xác định $X \subset \{x_1, x_2, x_3\}$? (Hãy liệt kê tất cả các khả năng.)
+
+Cơm. 1.
+
+Đáp số. a) Chỉ 3; 6) tất cả 6; b) từ 0 đến 3; d) từ 0 đến 6; d) từ 3 đến 6.
+
+2. Tại những giá trị nào của $m$ thì phân số $\frac{m^3 - m}{2\sqrt{m}}$ bằng 0?
+
+Đáp số. a) $m \in \{0; -1; 1\}$; b) $m = 0$; d) $m \in \{-1; 1\}$; e) $m = 1$.
+
+3. Phương trình $x^2 - y^2 = 0$ có đồ thị nào?
+
+Đáp số. a) Có một bộ; b) điểm; b) thẳng; d) Nối hai đường thẳng; d) vòng tròn.
+
+4. Với những giá trị nào của $a$ và $b$ thì mối quan hệ $\sqrt{ab} = \sqrt{-a} \cdot \sqrt{-b}$ là hợp lệ?
+
+Đáp số. a) $a = b = 0$; b) $a \in [-\infty, 0]$; b) $a \in [-\infty, 0]$; b) $a$ và $b$ cùng dấu; d) với mọi $a$ và $b$; d) theo số $a$ và $b$.
+
+5. Số $A$ được chỉ định với độ chính xác là 0,01, số $B$ có độ chính xác là 0,02. Bạn có thể chỉ ra số $2A - B$ với độ chính xác bao nhiêu?
+
+Đáp số. a) 0,01; b) 0,02; b) 0,04; d) 0,00; d) đáp số phụ thuộc vào giá trị của $A$ và $B$.
+
+6. Trong một tam giác, độ dài các cạnh là 3,5, $n$, trong đó $n$ là số tự nhiên. Chỉ định khả năng của giá trị $n$.
+
+Đáp số. a) $n \geq 1$; b) $n \geq 3$; b) $n \leq 8$; d) $3 \leq n \leq 7$; d) $3 \leq n \leq 5$.
+
+7. Chỉ định giá trị $\cos(90^\circ + \alpha)$.
+
+Đáp số. a) $\sin \alpha$; b) $-\sin \alpha$; d) $-\cos \alpha$; d) giá trị này không được xác định.
