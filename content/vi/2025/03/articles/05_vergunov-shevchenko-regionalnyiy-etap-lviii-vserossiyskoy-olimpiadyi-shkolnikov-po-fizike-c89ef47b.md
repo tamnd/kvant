@@ -31,7 +31,7 @@ KVANT 2025/№3
 
 ⟦figure⟧
 
-Hình 3
+Cơm. 3
 
 và lấy dây của hình tròn $Z_{3}$. Chứng minh rằng các đầu của tất cả các dây như vậy (thu được từ tất cả các lựa chọn có thể có của đường tròn $Z_{3} )$ nằm trên một đường tròn cố định. P. Kozhevnikov
 
@@ -53,7 +53,7 @@ Chuyến tham quan lý thuyết
 
 Bài toán 2. Tốc độ trung bình Một học sinh lớp bảy, trong một chuyến đi về quê, đã ghi lại quãng đường mà ô tô đã đi được trong những khoảng thời gian ngắn đều đặn. Sử dụng những dữ liệu này, anh ấy đã vẽ ra sự phụ thuộc của đường đi của ô tô vào thời gian t (Hình 1). Nhưng người mới làm thí nghiệm đã quên số hóa đường đi và trục thời gian. Đồng thời, anh nhớ chính xác rằng giữa những thời điểm mà tốc độ mặt đất trung bình đạt giá trị tối đa và tối thiểu, anh đã vượt qua
 
-Hình 1
+Cơm. 1
 
 ⟦folio 51⟧
 
@@ -61,7 +61,7 @@ Thế Vận Hội
 
 ⟦figure⟧
 
-Hình 12
+Cơm. 12
 
 Bài toán 3. Bong bóng khói đen Trong các đại dương ở độ sâu lớn gần các rặng núi giữa đại dương, có thể tìm thấy các nguồn nhiệt như khói đen. Chúng phun ra nước địa nhiệt có nhiệt độ cao. Sau một trong những đợt phát thải này, một lớp nước ấm xuất hiện trong đại dương, nhiệt độ t của nó thay đổi theo độ sâu h như trong Hình 12. Sản phẩm của những người hút thuốc đen cũng thường chứa nhiều loại khí khác nhau tạo thành bong bóng. 1) Tìm tất cả các độ sâu có thể có mà tại đó bong bóng trong nước sẽ ở trạng thái cân bằng. 2) Xác định xem vị trí cân bằng tìm được có ổn định hay không. Xét rằng không có dòng điện trong nước và nó đứng yên; bong bóng luôn có dạng quả bóng và áp suất bên trong nó bằng áp suất bên ngoài của nước; khí bên trong bong bóng có thể được coi là lý tưởng; nhiệt độ bên trong bong bóng bằng nhiệt độ của nước xung quanh; khí không tan trong nước. Khối lượng mol của khí là M = 222 g mol, mật độ của nước không đổi và bằng $U_{в} 1020$ kg $м^{3}$, hằng số khí phổ quát R = 8,3 J (mol K), gia tốc trọng trường g = 10 m $с^{2}$, áp suất khí quyển $p 0 10^{5}$ Pa. L. Koldunov
 
@@ -71,9 +71,9 @@ Bài toán 4. Chắc chắn không phải Snell? Cho đoạn sáng AB, điểm B
 
 ⟦figure⟧
 
-Hình 13
+Cơm. 13
 
-thấu kính và điểm A c (ảnh của điểm A) nằm trên đường thẳng D. Trong mọi trường hợp có thể xảy ra, sử dụng la bàn và thước không chia, khôi phục: 1) vị trí quang tâm của thấu kính; 2) vị trí của thấu kính và vị trí của trục quang chính của nó; 3) vị trí tiêu điểm của thấu kính; 4) vị trí của điểm A c. Hãy xem xét rằng thấu kính này khúc xạ bất kỳ tia nào (ngay cả những tia không đồng trục) theo các quy tắc tương tự như các tia đồng trục. Tia đồng trục là tia truyền đi một góc nhỏ so với trục quang chính của thấu kính và cách nó một khoảng nhỏ. A. Shishkina Bài toán 5. Bộ khuếch đại Phần này bài toán thảo luận về nguyên lý hoạt động đơn giản hóa của phần tử ba tiếp điểm của mạch điện - một bóng bán dẫn hiệu ứng trường. Các điểm tiếp xúc của phần tử này được gọi là “nguồn”, “cống” (có nghĩa là nguồn và cống của các điện tử) và “cổng” (Hình 14). Trong trường hợp này, dòng điện qua cổng nhỏ hơn nhiều so với dòng điện chạy giữa cống và nguồn. Đặc tính volt-ampere của bóng bán dẫn, tức là sự phụ thuộc của dòng I chạy giữa cực máng và nguồn vào điện áp U giữa chúng được điều khiển bởi điện áp $U_{зи}$ tạo ra giữa cổng và nguồn (cực kết nối tương ứng với giá trị dương của U và $U_{зи}$ được biểu thị trên Hình 14). Hình 14
+thấu kính và điểm A c (ảnh của điểm A) nằm trên đường thẳng D. Trong mọi trường hợp có thể xảy ra, sử dụng la bàn và thước không chia, khôi phục: 1) vị trí quang tâm của thấu kính; 2) vị trí của thấu kính và vị trí của trục quang chính của nó; 3) vị trí tiêu điểm của thấu kính; 4) vị trí của điểm A c. Hãy xem xét rằng thấu kính này khúc xạ bất kỳ tia nào (ngay cả những tia không đồng trục) theo các quy tắc tương tự như các tia đồng trục. Tia đồng trục là tia truyền đi một góc nhỏ so với trục quang chính của thấu kính và cách nó một khoảng nhỏ. A. Shishkina Bài toán 5. Bộ khuếch đại Phần này bài toán thảo luận về nguyên lý hoạt động đơn giản hóa của phần tử ba tiếp điểm của mạch điện - một bóng bán dẫn hiệu ứng trường. Các điểm tiếp xúc của phần tử này được gọi là “nguồn”, “cống” (có nghĩa là nguồn và cống của các điện tử) và “cổng” (Hình 14). Trong trường hợp này, dòng điện qua cổng nhỏ hơn nhiều so với dòng điện chạy giữa cống và nguồn. Đặc tính volt-ampere của bóng bán dẫn, tức là sự phụ thuộc của dòng I chạy giữa cực máng và nguồn vào điện áp U giữa chúng được điều khiển bởi điện áp $U_{зи}$ tạo ra giữa cổng và nguồn (cực kết nối tương ứng với giá trị dương của U và $U_{зи}$ được biểu thị trên Hình 14). Cơm. 14
 
 ⟦folio 53⟧
 
@@ -85,7 +85,7 @@ Bài toán 4. Vòng dây có dòng điện Trong một từ trường đều n�
 
 ⟦figure⟧
 
-Hình 18
+Cơm. 18
 
 về cùng một điểm A. Ở vị trí cân bằng, hai đầu này hợp với nhau một góc D 60 q, khoảng cách từ điểm treo đến điểm thấp nhất của sợi dây là H L 3 4. Gia tốc rơi tự do bằng g. Từ trường riêng của dòng điện có thể bị bỏ qua. Sợi dây là đồng nhất. 1) Tìm khối lượng của sợi dây m và lực căng của sợi dây $T_{D}$ tại điểm thấp nhất của nó (điểm D trên hình). 2) Xác định lực căng của sợi chỉ $T_{C}$ tại điểm cực phải của nó (điểm C trên hình). 3) Tìm khoảng cách d giữa điểm ngoài cùng bên trái và điểm ngoài cùng bên phải của sợi dây treo. A.Thỏ rừng
 
@@ -95,11 +95,11 @@ Bài toán 5. Tôi đeo kính. Thường trong những bức ảnh chân dung ch
 
 ⟦figure⟧
 
-Hình 19
+Cơm. 19
 
 ⟦figure⟧
 
-Hình 20
+Cơm. 20
 
 số đo. Giả sử khoảng cách giữa điện thoại thông minh và kính đã biết chính xác và bằng L = 50 cm. Hình 20 cho thấy một chiếc điện thoại thông minh và chiếc kính nằm cạnh nhau. Độ dài cần thiết để đạt được giá trị số đáp số thành bài toán có thể được đo bằng thước từ các bức ảnh. Yu. Chernikov
 

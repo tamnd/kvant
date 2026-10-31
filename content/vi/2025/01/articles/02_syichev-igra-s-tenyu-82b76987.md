@@ -36,17 +36,17 @@ Vào một ngày hè đầy nắng, trẻ em (và cả người lớn) thích ch
 
 DOI: https://doi.org/10.4213/kvant20250106
 
-Hình 1. Làm biến dạng bóng của vật thể
+Cơm. 1. Làm biến dạng bóng của vật thể
 
 ⟦column⟧
 
 ⟦figure⟧
 
-Hình 2. Sơ đồ hình học của hiện tượng
+Cơm. 2. Sơ đồ hình học của hiện tượng
 
 ⟦figure⟧
 
-Hình 3. Thay đổi góc D khi di chuyển màn hình 1
+Cơm. 3. Thay đổi góc D khi di chuyển màn hình 1
 
 theo chiều kim đồng hồ) và do đó, bóng từ màn hình 1 được mở rộng về phía bóng từ màn hình 2 (Hình 3, b). Do đó, tốc độ dịch chuyển của bóng tăng khi tăng góc D. Do đó, khi bóng từ đầu (màn hình 1) đến gần bóng của ngôi nhà (màn hình 2), các khu vực gần nhà (góc D lớn hơn) cho bóng dài hơn: đầu “kéo dài” về phía mái nhà (ảnh phải trong Hình 1). Hãy thử ước tính kích thước góc của Mặt trời từ độ giãn dài của bóng (Hình 4). Để đơn giản hóa phép tính, chúng ta giả sử Mặt trời gần đạt thiên đỉnh và góc M nhỏ. Theo kinh nghiệm của chúng tôi về sự phát triển của con người
 
@@ -60,7 +60,7 @@ bao gồm $dT_{A} dH$ và $dT_{E} dH$. Sử dụng các phương trình này, h�
 
 ⟦figure⟧
 
-Hình 2. Dòng nhiệt giữa Trái đất và khí quyển
+Cơm. 2. Dòng nhiệt giữa Trái đất và khí quyển
 
 và bỏ qua phần còn lại. Hành vi này, được gọi là hiệu ứng nhà kính, làm thay đổi nhiệt độ trung bình của Trái đất. Bề mặt Trái Đất phản chiếu một phần $r_{E}$ bức xạ nhìn thấy và tia cực tím và hấp thụ phần còn lại của bức xạ này và tất cả các bức xạ hồng ngoại. B1. Giả sử H 1 và $r_{E} 0$. Tìm nhiệt độ của Trái đất $T_{E}$ và nhiệt độ khí quyển $T_{A}$. Bây giờ giả sử rằng $r_{E} z 0$. Trong trường hợp này, hệ Trái đất + Khí quyển phản xạ một số phần khác của bức xạ mặt trời, được gọi là "albedo" và ký hiệu là D. B2. Tìm suất phản chiếu D thông qua $r_{E}$ Và $r_{A}$. Tính trị số của nó tại $r_{E} 0,102$ (Và $r_{A} 0,255 ).$ B3. Hãy biểu thị nhiệt độ của Trái Đất theo $V, D, S_{0}$ và H. Sử dụng dữ liệu đã cho và suất phản chiếu tính toán được, hãy tìm giá trị bằng số của H tạo ra nhiệt độ trung bình hiện tại của Trái đất $T_{E} 288$ K.B4. Tìm thấy $dT_{E} dH$ và tính nhiệt độ Trái đất sẽ tăng bao nhiêu nếu H tăng 1%. Hãy giả sử rằng $T_{A} 245$ K và $T_{E} 288$ K. Những giá trị này được lấy từ dữ liệu thực và có thể khác với kết quả bạn thu được trong các đoạn trước. Bây giờ giả sử có một dòng nhiệt không bức xạ (ví dụ, đối lưu) $J_{NB} k T_{E} T_{A}$ từ Trái đất đến khí quyển, trong đó k là hằng số. Kích cỡ $J_{NR}$ là công suất truyền tải trên một đơn vị diện tích. B5. Biểu diễn H và k theo $T_{E}, T_{A}, V, D$ Và $S_{0}$. B6. Đạo hàm theo H các biểu thức thu được ở bước B5, bạn thu được hai phương trình,
 
@@ -70,7 +70,7 @@ Phần A. Bẫy Paul (5,6 điểm) Được biết, sử dụng điện trườn
 
 ⟦figure⟧
 
-Hình 3. Vòng tích điện đều có mật độ điện tích dương tuyến tính O và bán kính R; gốc của hệ tọa độ nằm ở tâm của vòng
+Cơm. 3. Vòng tích điện đều có mật độ điện tích dương tuyến tính O và bán kính R; gốc của hệ tọa độ nằm ở tâm của vòng
 
 A1. Sử dụng tọa độ Descartes x, y, z, thu được điện trường của vòng ở vùng lân cận tâm của nó lên đến bậc nhất theo x R, y R và z R.
 
@@ -102,6 +102,6 @@ Chúng ta sẽ gọi một cạnh của ô là một phân vùng được đánh
 
 ⟦figure⟧
 
-Hình 1
+Cơm. 1
 
 Các phân vùng này được đánh dấu bằng dòng đậm. Đặt đỉnh ngoài cùng bên trái của các ô của tập hợp này, nằm ở phía trên, là điểm A; và tương tự, điểm ngoài cùng bên phải là điểm B. Khi đó ranh giới của tập hợp này bao gồm các phân vùng được đánh dấu, cũng như các phân vùng nằm ở cạnh trên của hình chữ nhật. Không có đường dẫn giữa mặt trên và mặt dưới dọc theo các ô r nên tập hợp các ô này không thể liền kề với mặt dưới. Điều này có nghĩa là từ A đến B bạn có thể đi dọc theo đường viền của tập hợp ô này, đi dọc theo các phân vùng đã đánh dấu. Bây giờ chúng tôi sẽ chỉ cho bạn cách đi từ góc trên bên trái đến góc trên bên phải dọc theo các phân vùng được đánh dấu. Chúng ta đi từ trái sang phải dọc theo phía trên cho đến khi có các phân vùng được đánh dấu trên đó. Khi chúng kết thúc nghĩa là chúng ta đã đến bên trái
