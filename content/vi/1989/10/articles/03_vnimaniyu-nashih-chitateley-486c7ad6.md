@@ -1,0 +1,55 @@
+---
+id: 1989-10-vnimaniyu-nashih-chitateley-486c7ad6
+issue: kvant_1989_10
+year: 1989
+number: "10"
+title: Để thu hút sự chú ý của độc giả của chúng tôi
+rubric: smes
+page_first: 9
+page_last: 9
+page_labels: "7"
+tag: 6RTD
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: fd2df3175def34a7aeebbc684c4a30b90e24bed1c93c0d4e25e5074075903647
+prompt_sha256: draft-1
+translated_from: content/ru/1989/10/articles/03_vnimaniyu-nashih-chitateley-486c7ad6.md
+source_content_sha256: 0d2774d29c3726e1a0300bd13d3e59ca5126362a4ab021fedafd57d952ce7fac
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 7⟧
+
+sự vĩ đại, chẳng hạn như ở nước ta, ở Pháp.
+
+Nếu vai trò của dư luận khoa học trong lịch sử BC thực sự như đã mô tả ở trên, thì nguyên nhân dẫn đến sự xuất hiện của hiện tượng này chắc chắn đáng được nghiên cứu. Vì cả yếu tố khách quan và tâm lý thuần túy đều đóng một vai trò ở đây, nên việc phân tích tương ứng nên được thực hiện, ngoài các nhà vật lý và hóa học, còn bởi các nhà sử học khoa học, nhà tâm lý học, và có lẽ cả những “kỹ sư có tâm hồn” viết về khoa học.
+
+Dù thế nào đi nữa, một bài học pháp lý đã có thể được rút ra từ lịch sử của BC. Không còn nghi ngờ gì nữa, các nhà khoa học lớn và có uy tín đóng một vai trò đặc biệt trong việc định hình bầu không khí khoa học. Tất nhiên, không ai cố gắng tước bỏ quyền có quan điểm riêng của họ về tính thực tế của một chương trình khoa học, tin hay không tin vào tính khả thi của nó. Tuy nhiên, tầm quan trọng tiềm ẩn của chương trình càng cao và tên tuổi của nhà khoa học càng lớn thì anh ta càng cảm thấy trách nhiệm đạo đức lớn hơn (và anh ta sẽ càng có mục đích hơn) khi bày tỏ quan điểm của mình. Cảm ơn Chúa, các giáo viên của chúng tôi đã để lại cho chúng tôi đủ ví dụ về thái độ thực sự thông minh đối với những ý tưởng mới (tác giả chủ yếu đề cập đến trường phái vật lý lý thuyết Mandelstam-Tamm mà chính ông thuộc về).
+
+Chúng ta không được quên rằng một tình huống tương tự như lịch sử của BC có thể lặp lại - các chương trình khoa học mới có thể xuất hiện, tính khả thi của chúng (do tầm quan trọng tiềm tàng của chúng) không rõ ràng lắm, mặc dù không thể bác bỏ nó. Các tác giả của một chương trình như vậy nên làm gì nếu họ không có đủ nguồn lực để thực hiện nó và không thể vượt qua thành kiến ​​của đồng nghiệp? Hãy chờ đợi, như trước đây, để một chương trình tương tự được triển khai ở nước ngoài, sau đó thương lượng bằng tất cả khả năng của mình, như đã xảy ra với BC? Như trước đây, hãy thử chứng minh rằng chương trình này có tầm quan trọng chiến lược đặc biệt quan trọng, với hy vọng thu phục được các bộ phận giàu có tương ứng?
+
+Tôi muốn hy vọng rằng xã hội được tái thiết của chúng ta sẽ phát triển một cơ chế hỗ trợ về mặt đạo đức, tổ chức và/vật chất cho các chương trình như vậy, hành động (hoặc không hành động) trong đó sẽ được quyết định không phải bởi cảm xúc và tình cảm của một nhóm người nhất định, mà bằng sự đánh giá khách quan về mức độ nghiêm túc của các đề xuất liên quan.
+
+Để thu hút sự chú ý của độc giả của chúng tôi
+
+Cửa hàng Akademika ở Kyiv (252030 Kyiv, Lenina St., 42, Akademika) gửi tiền mặt khi giao hàng:
+
+Sách trong bộ truyện “Viblotechka «Kvant»
+Aslamazov L. G., Varlamov A. A. Vật lý tuyệt vời. — 1988. — 35k.
+Ashkinazi L. A. Máy hút bụi cho khoa học và công nghệ. — 1987. — 25k.
+Balk M. B., Boltyansky V. G. Hình học khối lượng. — 1987. — 30k.
+Berkinbit M. B., Glagolova E. G. Điện trong cơ thể sống. — 1988. — 70k.
+Bài toán Trình tối ưu hóa vật lý Moscow. — 1988. — 40k.
+Zeldovich Ya. B., Khlopov M. Yu. Kịch tính của các ý tưởng trong kiến ​​thức về tự nhiên (hạt, trường, điện tích). — 1988. — 50k.
+Kolmogorov A.N. Toán học - khoa học và nghề nghiệp. — 1988. — 65k.
+Levinshtein M. E., Simin G. S. Barvers (Mở ra mạch thông minh). — 1987. — 75k.
+Novikov I. D. Vũ trụ trông giống như một bức tường như thế nào. — 1988. — 40k.
+Stasenko A. L. Vật lý bay. — 1988. — 30k.
+Tikhomirov V. M. Những câu chuyện về mức tối đa và mức tối thiểu. — 1986. — 35k.
+Feynman R. Cad - lý thuyết đồng quê về ánh sáng và vật chất. mỗi. từ tiếng Anh — 1988. — 45 k.
+Feynman R. Bản chất của các định luật vật lý. mỗi. từ tiếng Anh Ed. Thứ 2, vòng quay. — 1987. — 45k.
+Frank-Kamenetsky M.D. Phân tử quan trọng nhất. Ed. Thứ 2, làm lại và bổ sung — 1988. — 40 k.
+Chernin AD Vật lý thời gian. — 1987. — 40k.
