@@ -1,0 +1,85 @@
+---
+id: 1976-7-tonyan-moskovskiy-institut-elektronnogo-mashinostroeniya-0e9b08e2
+issue: kvant_1976_7
+year: 1976
+number: "7"
+title: Viện Kỹ thuật Điện tử Moscow
+authors:
+  - Тонян В. А.
+rubric: ekzamenatsionnye-materialy
+page_first: 41
+page_last: 41
+page_labels: "39"
+tag: RZT4
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 67b2b67a2fd576b7d7886a4e730d37c45334b5c5ebe6521ae7fe69747145f384
+prompt_sha256: draft-1
+translated_from: content/ru/1976/07/articles/14_tonyan-moskovskiy-institut-elektronnogo-mashinostroeniya-0e9b08e2.md
+source_content_sha256: 36240967d28e67cf775663d0260ab6638a6e26955aa0f04dfbcc2994a2ecb28a
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 39⟧
+
+trang trại, phát triển các mô hình toán học về sản xuất, tiêu dùng và tiết kiệm. Các hội thảo khoa học dành cho sinh viên được tổ chức thường xuyên.
+
+Dưới đây là các lựa chọn cho kỳ thi viết đầu vào môn toán tại MIU năm 1975.
+
+Tùy chọn 1
+1. Trong tam giác vuông ABC, cạnh huyền là $AB = a, A = \alpha$. Tìm bán kính đường tròn tiếp xúc với cạnh AC, cạnh huyền AB và đường tròn ngoại tiếp tam giác ABC.
+2. Giải phương trình
+$$4x + \sqrt{x^2 - 2} - 5 \cdot 2x - 1 + \sqrt{x^2 - 2} = 6.$$
+3. Giải bất đẳng thức ($a > 1$)
+$$\log_a^2 (x^{\sqrt{x}}) > \log_a (a^{4x} \cdot x^{3x}).$$
+4. Giải phương trình
+$$(\sin 2x + 3)\sin^4 x - (\sin 2x + 3)\sin^2 x + 1 = 0.$$
+5. Tìm tỉ số của hai số nếu tỉ số giữa trung bình hình học và trung bình số học của chúng là $3/5$.
+
+Tùy chọn 2
+1. Điểm M được lấy bên trong góc $\alpha$. Các hình chiếu P và Q của nó trên các cạnh của góc bị loại bỏ khỏi đỉnh ở khoảng cách $OP = p$ và $OQ = q$. Tìm MP và MQ.
+2. Giải phương trình
+$$\log_x (125x) \cdot \log_{25}^2 x = 1.$$
+3. Giải bất đẳng thức
+$$|x^2 - |x| + 3| < 5.$$
+4. Giải phương trình
+$$\sec x = 4 \sin x + 6 \cos x.$$
+5. Chứng minh rằng nếu $a > 0, b > 0$ thì
+$$\frac{2\sqrt{ab}}{\sqrt{a} + \sqrt{b}} \leq \frac{4\sqrt{ab}}{3}.$$
+V. Mashurtsev, I. Sharyzin
+
+Viện Kỹ thuật Điện tử Moscow
+Chúng tôi đã nói chi tiết về Viện Kỹ thuật Điện tử Mátxcơva trong «Kvant» Số 7 năm 1973. Trong số này, chúng tôi trình bày các phương án cho kỳ thi viết đầu vào môn toán tại MISM năm 1975.
+
+Tùy chọn 1
+1. Giải phương trình
+$$3x \log_5 1 - \frac{2}{3} = |5x \log_3 1 - 24|.$$
+
+2. Tích của số hạng thứ ba và thứ sáu của một cấp số cộng với số hạng dương là 13,5 và tổng của số hạng thứ tư và thứ năm là 7,5. Tìm sự tiến triển này. Đồng thời xác định giá trị nhỏ nhất có thể có của tổng được chỉ định cho tất cả các cấp số cộng có số hạng dương, trong đó tích của số hạng thứ ba và thứ sáu bằng 13,5.
+
+3. Trong một paramid tứ giác đều, có chiều cao $H$ tạo một góc $\alpha$ với cạnh bên, một mặt phẳng được vẽ qua đường chéo của đáy một góc $\beta$ với mặt phẳng của đáy. Xác định diện tích của phần.
+
+4. Giải phương trình
+$$\frac{a \sin x - 2}{a - 2 \cos x} = \frac{a \cos x - 2}{a - 2 \sin x}$$
+
+và xác định số nghiệm của nó trên đoạn [20π, 29π].
+
+5. Giải quyết hệ thống
+$$\begin{cases} x - y = 10a, \\ \frac{1}{x} + \frac{1}{y} = \frac{2}{a^2 - 25} \end{cases}$$
+
+và chứng minh rằng với mọi số nguyên $a \neq \pm 5$, $a \neq 0$ thì hệ có hai lời giải $(x_1, y_1)$ và $(x_2, y_2)$ sao cho tích $x_1x_2y_1y_2$ là bội số nguyên của 900.
+
+Tùy chọn 2
+1. Giải bất đẳng thức
+$$\log_3 (1 - x) < \log \frac{1}{3} (x + 2).$$
+2. Góc ở đỉnh của mặt cắt trục của hình nón là 2α. Trong vùng tương đối nào của hình nón, mặt phẳng được vẽ qua đường tròn tiếp tuyến của quả cầu nội tiếp trong hình nón này tính từ mặt bên của hình nón?
+3. Số 150 được chia có phần dư thành nhiều số nguyên dương. Sau đó, chúng ta cộng 2 vào số chia và chia 151 với số dư cho số chia mới. Biết thương số thứ hai nhỏ hơn thương số thứ nhất là 5 đơn vị. Số chia ban đầu là gì?
+4. Giải phương trình
+$$\sqrt{\frac{2 \sin x + 1}{-\cos x - 2}} = \sqrt{\frac{2 \cos x + 1}{-\sin x - 2}}.$$
+5. Giải quyết hệ thống
+$$\begin{cases} \frac{x}{a + 3} - \frac{y}{a + 2} + 1 = 0, \\ \frac{y}{x} - \frac{2}{y - 2} = 1 \end{cases}$$
+
+($a > 0$) và chứng minh rằng nếu $a$ là số nguyên thì với mỗi hệ thống số lời giải $(x, y)$ đã cho, $1 + xy$ là bình phương của số đó. Tuyên bố ngược lại có đúng không?

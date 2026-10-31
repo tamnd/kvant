@@ -1,0 +1,50 @@
+---
+id: 1976-5-zabavnaya-geometriya-9717da83
+issue: kvant_1976_5
+year: 1976
+number: "5"
+title: Hình học vui nhộn
+rubric: smes
+page_first: 63
+page_last: 63
+page_labels: "61"
+tag: NHON
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: eb07df4a522bad26d4244afbb17eb8d95bb6ede340f914658ad1fb5b2cdada7d
+prompt_sha256: draft-1
+translated_from: content/ru/1976/05/articles/13_zabavnaya-geometriya-9717da83.md
+source_content_sha256: af6ae890129d3c4253292573c8b4c1256ad19f3ede4c49e4c1f9c5cdbae77730
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 61⟧
+
+Hãy xem xét câu hỏi này: Sự tích hợp hình học của hai lần cai sữa là gì và điều kiện chiều cao BD đóng vai trò gì?
+
+Bài tập
+1. (NSU, 1969). Ba đường thẳng được vẽ qua một điểm nhất định bên trong tam giác, tương ứng với các cạnh song song của tam giác. Những đường này chia tam giác thành sáu phần, ba trong số đó là những tam giác có diện tích $S_1, S_2, S_3$. Tìm diện tích của tam giác này.
+2. Một đường tròn bán kính $r$ nội tiếp tam giác $ABC$. Ba đường tiếp tuyến được vẽ vào đường tròn này, tương ứng với các cạnh song song của tam giác $ABC$. Các vòng tròn bán kính $r_1, r_2, r_3$ được ghi trong ba hình tam giác được tạo thành. Chứng minh rằng $r=r_1+r_2+r_3$.
+3. (MAI, 1972). Từ một điểm tùy ý $D$, lấy trên cơ sở $AB$ của tam giác $ABC$, vẽ hai đường thẳng song song với các cạnh $BC$ và $AC$, cắt các đường thẳng tương ứng tại các điểm $F$ và $K$. Tìm tổng độ dài của các đường tròn ngoại tiếp tam giác $ADK$ và $DBF$, nếu bán kính của đường tròn ngoại tiếp tam giác $ABC$ bằng 2.
+4. (MAI, 1972). Trong tam giác $ABC$, cạnh $AC$ bằng $b$, cạnh $AB$ bằng $c$, và bissertis bên trong nó của góc $A$ cắt các cạnh $BC$ tại điểm $D$ sao cho $DA=DB$. Tìm độ dài cạnh $BC$.
+5. (MIPT, 1972). Trong một tam giác đều $ABC$ ($AB=BC$), một đường tròn được dựng ở độ cao $BD$ tính theo đường kính. Thông qua các điểm $A$ và $C$ các tiếp tuyến $AM$ và $CN$ được vẽ với đường tròn, các phần mở rộng của chúng cắt nhau tại điểm $O$. Xác định tỷ lệ $\frac{AB}{AC}$ nếu $\frac{OM}{AC}=k$ và chiều cao $BD$ lớn hơn đáy $AC$.
+6. (MIPT, 1972). Trên các cạnh $AB, AC$ và $BC$ của tam giác đều $ABC$ có ​​các điểm tương ứng $C'$, $B'$, $A'$ sao cho tam giác $A'B'C'$ đó là tam giác đều. Đoạn $BB'$ cắt cạnh $C'A'$ tại điểm $O$ và $\frac{BO}{OB'}=k$. Xác định tỉ số diện tích của tam giác $ABC$ với diện tích của tam giác $A'B'C'$.
+7. (MIPT, 1972). Trên các cạnh $AB, AC$ và $BC$ của tam giác đều $ABC$ có ​​các điểm tương ứng $C_1$, $B_1$ và $A_1$ sao cho tam giác $A_1B_1C_1$ đó là tam giác đều. Độ cao $BD$ của tam giác $ABC$ cắt cạnh $A_1C_1$ tại điểm $O$. Tìm tỉ số $\frac{BO}{BD}$ nếu $\frac{A_1B_1}{AB}=k$.
+8. (MIPT, 1973). Trong tam giác $ABC$, qua điểm $M$ nằm trên cạnh $BC$, các đường thẳng được vẽ song song với các cạnh $AB$ và $AC$. Diện tích của hình song song tạo thành trong trường hợp này là $\frac{5}{18}$ diện tích của tam giác $ABC$. Tìm tỉ số $\frac{BM}{MC}$.
+9. (MIPT, 1973). Trong tam giác đều $ABC$ ($AB=BC$), hai đường thẳng $AE$ cắt đường cao $BD$ tại điểm $O$, với $\frac{OB}{OD}=3$. Chiều cao $AF$ chia chiều cao $BD$ theo tỷ lệ nào?
+
+Hình học vui nhộn
+Phương trình “dấu phẩy” ở Hình 1, trong tọa độ cực $\rho$, $\varphi$, có dạng (tại $\varphi>0$)
+
+$$\rho = \frac{(c_1+c_2) \pm (c_1-c_2)}{2} \times \frac{l_1 - |l_1|}{2l_1} + \frac{l_2 - |l_2|}{2l_2},$$
+
+trong đó $c_1 = \frac{a\varphi}{\alpha}$, $c_2 = \frac{a\varphi}{2\pi+\alpha}$, Hình 1
+
+$$l_1=\varphi-\alpha, l_2=\varphi-\alpha-2\pi$$ (trong hình $\alpha=\frac{3\pi}{2}$). Sự bổ sung của nó vào quyền biên tập của Yu. Dadrich (Perm).
+
+Cơm. 2.
+
+“Trái tim” (Hình 2) cũng có thể được xác định bằng một phương trình. Nó trông giống như $(y-|x|)^2 = 3-x^2$ hoặc $y=\pm \sqrt{3-x^2}+|x|$. Phương trình này đã được thêm vào cho chúng tôi bởi T. Fisenko (Grozny).

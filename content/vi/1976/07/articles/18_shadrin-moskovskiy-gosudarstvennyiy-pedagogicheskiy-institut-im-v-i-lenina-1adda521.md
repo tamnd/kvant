@@ -1,0 +1,89 @@
+---
+id: 1976-7-shadrin-moskovskiy-gosudarstvennyiy-pedagogicheskiy-institut-im-v-i-lenina-1adda521
+issue: kvant_1976_7
+year: 1976
+number: "7"
+title: Học viện sư phạm quốc gia Moscow được đặt theo tên. V. I. Lênin
+authors:
+  - Шадрин Г. А.
+  - Мур Д. М.
+rubric: ekzamenatsionnye-materialy
+page_first: 46
+page_last: 46
+page_labels: "44"
+tag: 3LI0
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 05adab5076905299925231a1cc8b18f3018b4ac3f34d45acaf003b1b4079d4d5
+prompt_sha256: draft-1
+translated_from: content/ru/1976/07/articles/18_shadrin-moskovskiy-gosudarstvennyiy-pedagogicheskiy-institut-im-v-i-lenina-1adda521.md
+source_content_sha256: 708da312bbf4b0ff5f1ab19927ba77909680478f422ec5a5ddb50e85917c0113
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 44⟧
+
+Toán học
+
+Tùy chọn 1
+1. Một lăng trụ tứ giác đều nội tiếp trong một hình trụ. Đường chéo của lăng kính tạo thành một góc $\alpha$ với mặt bên thì chiều cao của lăng kính là $h$. Tìm bề mặt bên của hình trụ.
+2. Giải phương trình
+$$|1 + \log \frac{1}{3}x| = 3 + |2 - \log \frac{1}{3}x|.$$
+3. Tìm miền xác định của hàm
+$$y = \sqrt[4]{\left(\frac{2}{5}\right)^{x^2 - 3x} - 2,5} + \frac{1}{\sqrt{\log_3 x - \log_2 x}}.$$
+4. Giải phương trình
+$$\sin^2 2x - 4 \cos^4 x = \sin 4x.$$
+Tùy chọn 2
+1. Đáy của lăng trụ đứng là một tam giác vuông có bán kính đường tròn ngoại tiếp bằng $R$. Xác định diện tích của phần được tạo thành bởi các đường chéo của các mặt bên lớn nhất, nhỏ nhất và cạnh của đế, nếu các đường chéo nghiêng với đáy một góc $\alpha$ và $3\alpha$.
+2. Giải hệ phương trình
+$$\begin{cases} \sqrt{\frac{x}{y}} + \sqrt{\frac{y}{x}} = \frac{7}{\sqrt{xy}} + 1, \\ x \sqrt{xy} + y \sqrt{xy} = 78. \end{cases}$$
+3. Giải bất đẳng thức
+$$\log_4 (2x^2 + x + 1) - \log_2 (2x - 1) \leq -tg \frac{7}{4}\pi.$$
+4. Giải phương trình
+$$\sqrt{1 + \sin 2x} = \sqrt{2} \cos 3x,$$
+nếu $\pi < x < \frac{3}{2}\pi$.
+
+Vật lý
+1. Với bề mặt của một ngọn núi dài nghiêng một góc $\alpha = 30^\circ$ so với đường chân trời, một hòn đá được ném theo phương ngang với tốc độ $v_0 = 20$ m/giây. Xác định thời gian $t$ bay của hòn đá. Bỏ qua sức cản của không khí.
+2. Mật độ điện tích bề mặt của một mặt phẳng vô hạn tích điện đều nằm thẳng đứng là $\sigma = 1,73 \cdot 10^{-4} \text{ к/м}^2$. Một quả bóng có khối lượng $m = 1$ e treo trên một sợi dây không trọng lượng trong trường của mặt phẳng này. Điện tích của quả bóng là $q = 3$ đơn vị. Phí SGSE. Sợi dây tạo thành góc bao nhiêu $\alpha$ với mặt phẳng? Hằng số điện $\varepsilon_0 = 8,85 \cdot 10^{-12} \text{ф/м}$.
+
+3. Trong từ trường đều có cảm ứng $B = 0,02 \text{ mл}$ có một dây dẫn có chiều dài $l = 10 \text{ cm}$ nằm vuông góc với các đường cảm ứng từ. Dòng điện $I = 2 \text{ a}$ chạy qua dây dẫn có giá trị không đổi. Dưới tác dụng của lực từ, dây dẫn chuyển động được một quãng đường $s = 5 \text{ cm}$. Tìm việc làm $A$ lực lượng hiện trường.
+4. Một điểm sáng nằm trên trục quang chính của gương cầu lồi có bán kính cong $R = 72 \text{ cm}$. Khoảng cách từ điểm tới gương $d = 150 \text{ cm}$. Tìm khoảng cách $f$ từ ảnh của điểm này đến gương. Xây dựng một hình ảnh.
+
+V. Kolpkov, N. Rakhmanova
+
+Học viện sư phạm quốc gia Moscow
+họ. V. I. Lênin
+
+Về Huân chương Lênin ở Mátxcơva và Huân chương Cờ đỏ của Học viện Sư phạm Nhà nước Lao động mang tên. V.I. Lênin được mô tả chi tiết ở «Kvant» số 7 năm 1973 và 1974.
+Tại đây chúng tôi công bố các mẫu bài kiểm tra viết môn toán và bài kiểm tra vấn đáp bài toán môn vật lý năm 1975 tại Khoa Vật lý của Viện Sư phạm Quốc gia Mátxcơva. V. I. Lênin.
+
+Matematika
+Tùy chọn 1
+1. Trong một hình nón cụt, các đường chéo của tiết diện trục vuông góc với nhau và ma trận tạo một góc $\alpha$ với mặt phẳng đáy dưới và bằng 1. Xác định thể tích của hình nón cụt.
+2. Giải phương trình
+$$\cos 2x - 3 \cos x = 4 \cos^2 \frac{x}{2}.$$
+3. Giải hệ phương trình ($a > 0, b > 0$)
+$$\begin{cases} \log_a x + \log_a y = 2, \\ \log_b x - \log_b y = 4. \end{cases}$$
+4. Giải bất đẳng thức
+$$0 < \frac{x}{3 - x} < 1.$$
+Tùy chọn 2
+1. Ở đáy có một lăng trụ đều tứ giác thẳng. Đường chéo của lăng kính tạo thành một góc $\alpha$ với mặt bên thì chiều cao của lăng kính là $h$. Tìm bề mặt bên của hình trụ.
+2. Giải phương trình
+$$|1 + \log \frac{1}{3}x| = 3 + |2 - \log \frac{1}{3}x|.$$
+3. Tìm miền xác định của hàm
+$$y = \sqrt[4]{\left(\frac{2}{5}\right)^{x^2 - 3x} - 2,5} + \frac{1}{\sqrt{\log_3 x - \log_2 x}}.$$
+4. Giải phương trình
+$$\sin^2 2x - 4 \cos^4 x = \sin 4x.$$
+Tùy chọn 2
+1. Đáy của lăng trụ đứng là một tam giác vuông có bán kính đường tròn ngoại tiếp bằng $R$. Xác định diện tích của phần được tạo thành bởi các đường chéo của các mặt bên lớn nhất, nhỏ nhất và cạnh của đế, nếu các đường chéo nghiêng với đáy một góc $\alpha$ và $3\alpha$.
+2. Giải hệ phương trình
+$$\begin{cases} \sqrt{\frac{x}{y}} + \sqrt{\frac{y}{x}} = \frac{7}{\sqrt{xy}} + 1, \\ x \sqrt{xy} + y \sqrt{xy} = 78. \end{cases}$$
+3. Giải bất đẳng thức
+$$\log_4 (2x^2 + x + 1) - \log_2 (2x - 1) \leq -tg \frac{7}{4}\pi.$$
+4. Giải phương trình
+$$\sqrt{1 + \sin 2x} = \sqrt{2} \cos 3x,$$
+nếu $\pi < x < \frac{3}{2}\pi$.

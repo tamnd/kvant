@@ -1,0 +1,43 @@
+---
+id: 1976-3-mayer-opyityi-po-polnomu-vnutrennemu-otrazheniyu-fb6ef3f6
+issue: kvant_1976_3
+year: 1976
+number: "3"
+title: Thí nghiệm về phản xạ toàn phần
+authors:
+  - Майер В. В.
+rubric: laboratoriya-kvanta
+rubric_sub: Лаборатория «Кванта»
+page_first: 36
+page_last: 36
+page_labels: "34"
+tag: "8426"
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 1858d42ccc3b3da59f1344f60714ae103452b1cf9027f09f7f6ad130aa4171c3
+prompt_sha256: draft-1
+translated_from: content/ru/1976/03/articles/08_mayer-opyityi-po-polnomu-vnutrennemu-otrazheniyu-fb6ef3f6.md
+source_content_sha256: 9fd4f9f7068918c61b9a61ea35c1a80c921c9f973525aea56c8fee096ca22679
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 34⟧
+
+Thí nghiệm về phản xạ toàn phần
+
+Cơm. 1. 1 - một cốc nước, 2 - tấm kính, 3 - một đồ vật.
+
+Vào những năm 70, một phương pháp đơn giản đã được phát triển để xác định chiết suất của chất lỏng, dựa trên việc sử dụng hiện tượng phản xạ toàn phần của ánh sáng. Chúng tôi mời bạn thực hiện một thí nghiệm minh họa phương pháp thú vị này.
+
+Đặt một miếng đệm bằng bìa cứng hình khung giữa hai tấm kính mỏng và dùng một tấm ép mép các tấm sao cho khoảng không khí giữa chúng được cách ly với môi trường. Đổ nước vào lọ thủy tinh hoặc thủy tinh và nhúng các đĩa thẳng đứng vào đó. Nhìn qua kính và các tấm, hướng vuông góc với đường ngắm, vào một vật thể đủ sáng nào đó (Hình 1). Bây giờ dần dần xoay các tấm, thay đổi góc giữa chúng và hướng quan sát. Bắt đầu từ một giá trị nhất định của góc này, cùng với một vật nằm phía sau cốc nước, bạn sẽ thấy mặt trong của tấm gần mắt nhất tỏa sáng, giống như một tấm gương tuyệt vời.
+
+Rõ ràng kết quả thí nghiệm được giải thích bằng hiện tượng phản xạ toàn phần của ánh sáng.
+
+Cơm. 2.
+
+Sự phản xạ: Khi ánh sáng truyền từ môi trường chiết quang hơn sang môi trường chiết quang kém hơn, vật có góc tới của ánh sáng trên mặt phân cách giữa môi trường đó sao cho góc vật bằng 90°. Nếu góc tới lớn hơn góc của vật thì ánh sáng không truyền được vào môi trường thứ hai.
+
+Có thể xác định chiết suất của chất lỏng trong thí nghiệm mô tả ở trên không? Thoạt nhìn thì có vẻ như không phải vậy: ánh sáng từ thủy tinh truyền vào không khí, có nghĩa là góc của vật phụ thuộc vào chiết suất của thủy tinh. Tuy nhiên, việc kiểm tra kỹ hơn các điều kiện thí nghiệm cho thấy điều này không phải như vậy. Có hiệu lực-

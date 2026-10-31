@@ -1,0 +1,64 @@
+---
+id: 1976-8-pshenichner-iii-vsesoyuznyiy-slet-yunyih-astronomov-998d7100
+issue: kvant_1976_8
+year: 1976
+number: "8"
+title: III Cuộc họp toàn liên minh của các nhà thiên văn trẻ
+authors:
+  - Пшеничнер Б. Г.
+rubric: informatsiya
+rubric_sub: Информация
+page_first: 54
+page_last: 54
+page_labels: "52"
+tag: J97F
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 169a1c2b0ecfb37ece9db03b83c410fb07fef75874c7e16962c6d167c73e1791
+prompt_sha256: draft-1
+translated_from: content/ru/1976/08/articles/20_pshenichner-iii-vsesoyuznyiy-slet-yunyih-astronomov-998d7100.md
+source_content_sha256: d8ccfc9cc1124fe58e36ab3548e9fb08ef11aa3e0f22e95316fbcb7dce5bdc04
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 52⟧
+
+III Tập hợp toàn diện các nhà thiên văn trẻ
+
+Câu cá đăng trên tạp chí «Kvant». Học sinh giải quyết bài toán được đăng trên tạp chí, nghiên cứu các bài báo đã xuất bản, làm quen với cách trình bày mới về tài liệu học đường truyền thống và trao đổi với các biên tập viên của tạp chí về tất cả các vấn đề này.
+
+Các khóa học ở trường theo chủ đề tương ứng (toán, vật lý, vật lý-toán, vật lý-kỹ thuật, sinh học, v.v.) gần đây đã trở nên phổ biến là một công thức đầy hứa hẹn và hiệu quả cho các giáo viên, nhà khoa học, nhà nghiên cứu và sinh viên đại học. Các trường tương ứng đóng góp đáng kể vào lời giải do các đối tác và chính phủ đặt ra bài toán nâng cao trình độ khoa học và phương pháp giảng dạy trong các trường học ở khu vực nông thôn, làng công nhân, thị trấn nhỏ, thực hiện quản lý thường xuyên và có trình độ đối với học sinh không đi học sống xa các trung tâm khoa học và sư phạm.
+
+Tại hội nghị, người ta nhấn mạnh rằng khi học qua thư từ, việc học sinh thỉnh thoảng gặp giáo viên là rất quan trọng - không gì có thể thay thế được việc tiếp xúc trực tiếp - và do đó ZMS nên tham gia tổ chức trại hè toán học cho học sinh và tự tổ chức. Các nhà tổ chức có thể kiếm được rất nhiều tiền từ các trạm công nghệ dành cho trẻ em.
+
+Hơn nữa, từ đánh giá ngắn gọn này, có thể thấy rõ sinh viên có thể học được bao nhiêu điều hữu ích khi học tại ZMS. Chúng tôi khuyến khích tất cả học sinh, đặc biệt là học sinh ở nông thôn, thử sức mình tham gia các trường toán và vật lý tương ứng. Dưới đây là những địa chỉ mà bạn có thể liên hệ với một số ZMSH:
+
+Moscow - Đại học Quốc gia Moscow, Cơ học và Toán học, VZMSH.
+Dolgoprudny, khu vực Moscow, ZFTSH và MIPT.
+Leningrad - ZMSH Tây Bắc tại Đại học bang Leningrad.
+Kyiv - ZMSH thuộc bang.
+Minsk - ZMSH thuộc bang.
+Tselinograd - trường sư phạm, ZMSH.
+Vilnius - ZSHYML thuộc bang.
+
+Tartu - ZMSH thuộc bang.
+Perm - ZMSH thuộc tiểu bang.
+Ufa - Học viện Bách khoa, ZMSH.
+Bryansk - ZYUMSH, báo "Bryansk Komsomolets":
+
+V. Berezin
+
+Thành phần được quan sát bởi Đài quan sát thiên văn Shemakha thuộc Viện Hàn lâm Khoa học Liên Xô Azerbaijan sẽ trẻ bất thường vào những ngày và đêm tháng Tám.
+
+Tại đây, trong một thung lũng núi đẹp như tranh vẽ, trên lãnh thổ của Đài thiên văn, từ ngày 16 đến ngày 26 tháng 8, thành phố lều “Zvedenny” của Cuộc họp quan trọng lần thứ III của các nhà thiên văn trẻ đang lan rộng. Trong số hàng ngàn người hâm mộ trẻ tuổi về khoa học Vũ trụ, chỉ có 200 học sinh được mời tham dự buổi tụ tập - những đại diện xuất sắc nhất của lực lượng lao động tài nguyên đồng minh.
+
+Cuộc biểu tình được tổ chức và tiến hành bởi Ủy ban Trung ương Komsomol, Bộ Giáo dục Liên Xô, Hiệp hội Thiên văn và Trắc địa Trọng lượng của Viện Hàn lâm Khoa học Liên Xô và "Kiến thức" của Hiệp hội Trọng lượng. Các nhà khoa học từ Moscow, Leningrad, Odessa, Dushanbe và Irkutsk đã được mời tham gia cuộc họp.
+
+Chương trình của cuộc tụ họp rất rộng lớn và đa dạng: hội nghị của các nhà thiên văn học trẻ và giới thiệu những thành tựu sáng tạo của họ, các bài giảng của các nhà khoa học về các vấn đề hiện tại của nghiên cứu Vũ trụ và tranh luận về các nền văn minh được giới thiệu, Olympic và một buổi tối đặt câu hỏi và đáp số, làm quen với công việc của Đài quan sát Shemakha và tất nhiên là các quan sát thiên văn hàng ngày. Những nhà vận động hành lang thiên văn học giàu kinh nghiệm nhất sẽ có thể nâng cao trình độ của họ trong các môn tự chọn về thiên văn học, thiết bị thiên văn, quan sát Mặt trời, Mặt trăng, các hành tinh, sao chổi, thiên thạch và các sao biến quang. Học sinh ngày nay có thể tham gia nghiên cứu chính xác những vật thể thiên văn này.
+
+Việc lựa chọn địa điểm gặp mặt không phải là ngẫu nhiên. Những người bạn lâu năm kết nối các nhà thiên văn học trẻ tuổi của Cung điện Baku Pinoye được đặt theo tên. Yu. Gagarin cùng các nhà khoa học từ Đài thiên văn Shemakha. Mọi người dễ dàng đến đây để quan sát Krupkovites từ Baku. Một vị khách thường xuyên trong các phòng thí nghiệm thiên văn của Cung điện Pinoye là giám đốc Đài quan sát, Viện sĩ Viện Hàn lâm Khoa học Azerbaijan Liên Xô G. F. Sultanov. Mùa hè này, hai tháp thiên văn mới sẽ đi vào hoạt động tại Đài thiên văn Shemakha. Cả tòa tháp và kính viễn vọng được lắp đặt trong đó đều là tác phẩm của bàn tay khéo léo của các nhà thiên văn học trẻ đến từ Cung điện Pinoyers của Baku và thủ lĩnh S.I. Sorin của họ.
+
+Cuộc tụ họp không chỉ là trường học dành cho các nhà thiên văn trẻ. Những người tổ chức cuộc biểu tình nhìn thấy một trong những bài toán của anh ấy trong việc tổ chức những kẻ nhếch nhác của Dịch vụ Bầu trời Trọng lượng. Dịch vụ này cho phép học sinh tham gia tuần tra một cách có hệ thống về sao chổi, sao sáng, sao mới...

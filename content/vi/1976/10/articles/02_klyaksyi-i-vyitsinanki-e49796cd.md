@@ -1,0 +1,39 @@
+---
+id: 1976-10-klyaksyi-i-vyitsinanki-e49796cd
+issue: kvant_1976_10
+year: 1976
+number: "10"
+title: Vết bẩn và vết trầy xước
+rubric: smes
+page_first: 68
+page_last: 68
+tag: ICKU
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: fc902635200ba83da4c4f129435d7d6636a6800f378206fbef157c7e6cdcc9ef
+prompt_sha256: draft-1
+translated_from: content/ru/1976/10/articles/02_klyaksyi-i-vyitsinanki-e49796cd.md
+source_content_sha256: 6c729200fcae7974909b40ab7cf6c2c35e2c7bfb54d32f9c90064f3a2377ec91
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+BLOTS VÀ BÉO
+
+Trên toàn thế giới, ren “vycinanki” của Ba Lan (đường cắt một màu và nhiều màu) rất nổi tiếng, được sử dụng làm trang trí nội thất và làm họa tiết cho các nghệ sĩ trong ngành đồ họa và dệt may. Có lẽ không kém phần nổi tiếng trên toàn thế giới là những chiếc cốc, trước khi bút bi ra đời đã gây ra sự đau buồn cho nhiều học sinh, nhà văn và giám đốc điều hành doanh nghiệp.
+
+Chúng ta hãy thử tiếp cận vấn đề vòng tròn và bài tập toán học.
+
+Cả chiếc áo sơ mi được mô tả ở đây và chiếc cốc trên trang đầu tiên của trang bìa đối xứng - rõ ràng mọi người sẽ đồng ý với điều này. Cái nào “đối xứng hơn”? Phải chăng không thể mô tả khái niệm số lượng này để đưa ra “thước đo đối xứng” của một hình?
+
+Vết mực được làm như thế này: mực được vẩy lên một tờ giấy, tờ giấy được gấp đôi rồi mở ra. Đường gấp là trục đối xứng của vết mờ; khi được phản ánh trong trục này, vết bẩn sẽ biến thành chính nó.
+
+Chiếc bánh được làm theo cách tương tự, chỉ có một tờ giấy được chuẩn bị nhiều lần, một mảnh được cắt ra từ chiếc “chiếc bánh” thu được, và sau đó tờ giấy được mở ra. Do đó, bản in sẽ trở thành chính nó khi được phản chiếu ở bất kỳ đường gấp nào của tờ giấy.
+
+Hóa ra chính số lượng đường gấp như vậy mô tả mức độ đối xứng của hình.
+
+Điều này được thảo luận chi tiết trong các bài viết trên p. 2-12.

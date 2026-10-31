@@ -1,0 +1,51 @@
+---
+id: 1976-1-leshkovtsev-plazma-chetvertoe-sostoyanie-veschestva-d54fce6c
+issue: kvant_1976_1
+year: 1976
+number: "1"
+title: Plasma là trạng thái thứ tư của vật chất
+authors:
+  - Лешковцев В. А.
+rubric: retsenzii-bibliografiya
+rubric_sub: Рецензии, библиография
+page_first: 69
+page_last: 69
+page_labels: "67"
+tag: CZL2
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 1f8675bd898660cc77fc088e4e22035467338f8df1ffe4c7fb97b4507346f981
+prompt_sha256: draft-1
+translated_from: content/ru/1976/01/articles/18_leshkovtsev-plazma-chetvertoe-sostoyanie-veschestva-d54fce6c.md
+source_content_sha256: cfab7ffd1f7de3d41c5e939d31c6d87439175159b73388767318da963b561189
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 67⟧
+
+Plasma là trạng thái thứ tư của vật chất
+
+Đây là tên một cuốn sách khoa học phổ thông do Giáo sư D. A. Frank-Kamenetsky viết và được nhà xuất bản Atomizdat * xuất bản lần thứ tư năm 1975). David Albertovich Frank-Kamenetsky là một trong những nhà truyền bá vật lý hiện đại giỏi nhất. Thật không may, ông qua đời vào cùng năm “Kvant” ra đời và chúng tôi chỉ đăng được một bài báo của ông trên các trang tạp chí của chúng tôi (“Điện trở là một hiện tượng lượng tử”, “Kvant”, 1970, số 9). Nhiều người vẫn coi đây là một trong những bài báo hay nhất về vật lý được đăng trên tạp chí của chúng tôi trong suốt những năm tồn tại của nó.
+
+Ý tưởng biên soạn cuốn sách này được đề xuất bởi tác giả, Viện sĩ I.V. Kurchatov. Ông yêu cầu D. A. Frank-Kamenetsky “giải thích các nguyên tắc cơ bản của vật lý plasma mà không cần đến toán học không cần thiết nhưng đủ rõ ràng”. Vào thời điểm này, đã là một chuyên gia lớn trong lĩnh vực vật lý plasma, tuy nhiên tác giả phải đối mặt với một nhiệm vụ rất khó khăn. Xét cho cùng, lĩnh vực thực hành vật lý non trẻ và đang phát triển nhanh chóng một cách bất thường này
+
+*) D. A. Frank-Kamenetsky. Plasma là trạng thái thứ tư của vật chất. Phiên bản thứ 4. M., Atomizdat, 1975. Phát hành 80.000 bản, giá 26 kopecks.
+
+Tôi vẫn chưa có tài liệu khoa học phổ biến của riêng mình. Và nhiều quá trình, hiện tượng xảy ra trong plasma hoàn toàn khác với các quá trình, hiện tượng xảy ra trong chất khí, chất lỏng và chất rắn. Và tác giả đã phải suy nghĩ cẩn thận về toàn bộ tính chất vật lý của plasma để giải thích tất cả các quá trình cơ bản trong đó mà không cần sử dụng bộ máy toán học phức tạp.
+
+Cuốn sách có kích thước nhỏ - nó chỉ có một trang rưỡi. Nhưng nó bao gồm tất cả các quá trình cơ bản xảy ra ở cả plasma nhiệt độ thấp và nhiệt độ cao.
+
+Sau khi nói về cách sản xuất và nghiên cứu plasma, tác giả tiếp tục mô tả các loại mất ổn định khác nhau, vẫn không cho phép duy trì plasma nóng trong một khoảng thời gian đủ để thực hiện các phản ứng nhiệt hạch có kiểm soát trong đó. Anh ấy nói về sự mất ổn định thủy động lực, sự mất ổn định của cái gọi là “độ chụm” và sự mất ổn định của rãnh, do đó plasma được tính toán thông qua các bẫy từ tính cô lập nó và kết thúc trên thành bình chứa nó cứng lại. Cuốn sách cũng xem xét nhiều quá trình dao động xảy ra trong plasma, sự lan truyền của sóng xung kích trong đó và các lựa chọn khác nhau để tương tác các phần của plasma với nhau. Một số đoạn văn được dành cho các ứng dụng thực tế của plasma. Họ nói về máy bơm điện từ, thiết bị cộng hưởng plasma và ống dẫn sóng. Nói tóm lại, cuốn sách đang được giải là một bộ bách khoa toàn thư khoa học phổ biến nhỏ về vật lý plasma.
+
+Khi tạo ra cuốn sách này, tác giả đã cố gắng làm cho nó có thể tiếp cận được ngay cả với những độc giả có trình độ học vấn trung học phổ thông. Cuốn sách không cung cấp bất kỳ kiến ​​thức nào về vật lý plasma cho độc giả tương lai. Bộ máy toán học được sử dụng trong nội dung chính của cuốn sách không vượt ra ngoài phạm vi đại số ở trường và phần vật lý của nó dựa trên lượng kiến ​​thức trong lĩnh vực vật lý phân tử, kỹ thuật điện và từ tính, hoàn toàn được đưa vào môn vật lý ở trường. Tác giả không né tránh các thuật ngữ khoa học kỹ thuật - ông nói chuyện với người đọc bằng ngôn ngữ của khoa học hiện đại. Tuy nhiên, mỗi thuật ngữ mới đều được giải thích chi tiết và nêu bật trong khóa học để nếu cần, bạn có thể dễ dàng tìm thấy thuật ngữ đó trong văn bản. Những chỗ khó làm quen ban đầu hơn sẽ được nêu bật trong cuốn sách bằng những câu nhỏ.
+
+Vì vậy, cuốn sách khá dễ tiếp cận ngay cả đối với những độc giả hoàn toàn xa lạ với lĩnh vực vật lý này và đã học qua một khóa học về vật lý và toán học ở trường. Nhưng bạn cần đọc nó một cách chậm rãi và suy ngẫm, với bút chì và giấy trên tay. Cuốn sách chắc chắn sẽ mang lại sự hài lòng thực sự cho người đọc như vậy, giúp họ hiểu biết thêm về các hiện tượng Intersea hoàn toàn không được phản ánh trong sách giáo khoa ở trường.
+
+Cuốn sách được viết rất sinh động, giàu trí tưởng tượng, dễ tiếp cận và thú vị. Tác giả sử dụng những so sánh bất ngờ, những so sánh vật lý sâu sắc và đánh giá cao những khía cạnh chính của hiện tượng đang được xem xét.
+
+Giá trị không thể nghi ngờ của cuốn sách xuất sắc này đã cho phép tác giả của phần tái bút cho ấn bản thứ tư, Viện sĩ R. Z. Sagdeev (nhân tiện, một trong những sinh viên của D. A. Frank-Kamenetsky) nói với tôi rằng nó có thể được coi là một trong những nền tảng vàng của văn học khoa học đại chúng.
+
+V. Leitskovets

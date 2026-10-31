@@ -1,0 +1,58 @@
+---
+id: 1976-3-ferzi-na-doske-78931afe
+issue: kvant_1976_3
+year: 1976
+number: "3"
+title: Nữ hoàng trên bảng
+rubric: smes
+page_first: 69
+page_last: 69
+page_labels: "67"
+tag: EE67
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 792871e5fafb353c3d2058b163d0f04a3b6b536db45fadf4eef9c5f58217d0aa
+prompt_sha256: draft-1
+translated_from: content/ru/1976/03/articles/16_ferzi-na-doske-78931afe.md
+source_content_sha256: ff9a725f68f227892994ed9d51ddb918dced31707d07f3c4a010b43ab0f1bf27
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 67⟧
+
+Họ ném một quả bóng khác từ cùng một điểm với cùng tốc độ. Họ sẽ gặp nhau ở độ cao nào?
+
+2. Trên một thanh không trọng lượng có chiều dài $l = 75$ cm, hai khối lượng bằng nhau $m =$ được gắn vào, một ở đầu và một ở giữa thanh (Hình 4). Thanh có thể được xoay trong mặt phẳng thẳng đứng xung quanh điểm cố định $A$. Cần truyền vận tốc theo phương ngang nào vào đầu dưới của thanh để thanh chuyển động sang vị trí nằm ngang?
+
+3. Nước đá trước đây được làm lạnh đến nhiệt độ $t_\pi = -10^\circ C$, được hạ xuống nước có khối lượng $m_B = 2$ kg ở nhiệt độ $t_B = 17^\circ C$. Cần bao nhiêu nước đá để thu được khi nước cân bằng ở nhiệt độ $t = 7^\circ C$? Việc mất thông báo không được tính đến. Nhiệt dung riêng của nước $c_B = 4,2 \cdot 10^3 \partial x / (\kappa \cdot 2\pi a d)$; nhiệt dung riêng của nước đá $c_\pi = 2,1 \cdot 10^3 \partial x / (\kappa \cdot 2\pi a d)$; nhiệt dung riêng tan chảy của nước đá $r = 3,3 \cdot 10^5 \partial x / \kappa$.
+
+4. Tại các đỉnh của một hình vuông có các cạnh bằng $l$, có các điện tích dương chính xác giống hệt nhau $q$. Phải thực hiện bao nhiêu công để di chuyển điện tích âm $q_1$ từ tâm hình vuông đến giữa một cạnh?
+
+5. Điện trường tạo ra một điện tích dương chính xác $Q$. Thế năng của các điểm $A$ và $B$ lần lượt là 30b và 20b. Tìm điện thế của điểm $C$ nằm ở giữa điểm $A$ và $B$ (đường thẳng $AB$ đi qua điện tích).
+
+6. Nguồn sáng nằm ở tiêu cự gấp đôi tính từ đường thu trên trục quang của nó. Một gương phẳng đặt sau thấu kính vuông góc với trục quay. Một gương phẳng phải đặt cách thấu kính một khoảng bằng bao nhiêu để các tia phản xạ từ gương sau khi đi qua thấu kính lần thứ hai trở nên song song? Tiêu cự của thấu kính là $F$.
+
+Khoa Sinh học, Địa lý, Địa chất và Khoa học Đất
+
+1. Quả bóng có khối lượng $m$ được gắn vào doxa bằng hai sợi dây (Hình 5). Góc giữa các sợi $2\alpha$. Lực căng của mỗi sợi dây sẽ là bao nhiêu nếu doxa bắt đầu di chuyển lên trên với gia tốc $a$?
+
+2. Buồng hút của bơm piston có thể tích $V_0 = 0,8$ l. Áp suất giảm theo mỗi sợi dây bao nhiêu lần nếu không khí được bơm ra khỏi một xi lanh có thể tích $V = 4$ l?
+
+3. Nước lạnh có nhiệt độ $t_1 = 10^\circ C$ được đổ vào nồi và lắp bếp điện. Sau khoảng $\tau_1 = 5$ phút nước bắt đầu sôi. Sẽ mất bao lâu $\tau_2$ sau khi bắt đầu sôi để nước bay hơi hoàn toàn? Nhiệt dung riêng của nước $c = 4,2 \times 10^3 \partial x / (\kappa \cdot 2\pi a d)$, nhiệt dung riêng bay hơi của nước $\lambda = 2,3 \cdot 10^6 \partial x / \kappa$. Quá trình sôi xảy ra trong chảo mở ở áp suất bình thường.
+
+4. Tìm hiệu điện thế giữa các tụ điện (Hình 6), nếu biết khi đoản mạch (điện trở rẽ nhánh $R$) thì dòng điện qua pin tăng gấp ba lần. E.m.f. pin $\mathcal{E} = 12$ b.
+
+5. Khoảng cách từ vật đến vật thu thập bằng 5 lần tiêu cự của thấu kính. Ảnh nhỏ hơn vật bao nhiêu lần?
+
+Y. Nesterenko, M. Pomanov, A. Sklyankin, N. Tyaunnitsa
+
+Nữ hoàng trên bảng
+
+Trong bài viết “Cờ vua-toán học bài toán của S. Loyd” (Kvant, 1975, số 6), bài toán sau đây đã được xây dựng.
+
+Trên bảng $n \times n$ $2n$ quân hậu được coi là cây anh túc, sao cho trên mỗi đường thẳng đứng trên trục quang của nó. Một gương phẳng đặt sau thấu kính vuông góc với trục quay. Một gương phẳng phải đặt cách thấu kính một khoảng bằng bao nhiêu để các tia phản xạ từ gương sau khi đi qua thấu kính lần thứ hai trở nên song song? Tiêu cự của ống kính $F$.
+
+Đối với bốn và lẻ $n$ lời giải có một số khác biệt. Các hình này hiển thị khoảng cách của quân hậu trên bảng $8 \times 8$ và $9 \times 9$, có thể dễ dàng khái quát hóa cho bất kỳ $n > 1$ nào. Xem cho chính mình.

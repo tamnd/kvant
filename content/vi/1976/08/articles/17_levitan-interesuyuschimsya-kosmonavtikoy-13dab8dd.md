@@ -1,0 +1,49 @@
+---
+id: 1976-8-levitan-interesuyuschimsya-kosmonavtikoy-13dab8dd
+issue: kvant_1976_8
+year: 1976
+number: "8"
+title: Dành cho những người quan tâm đến du hành vũ trụ
+authors:
+  - Левитан Е. П.
+rubric: retsenzii-bibliografiya
+rubric_sub: Рецензии, библиография
+page_first: 50
+page_last: 50
+page_labels: "48"
+tag: 6H8Y
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: c4292d9b827f4346dc61c1b68f8f4488a0023ecd5ab9cc30bb1c4969ac9f4a6f
+prompt_sha256: draft-1
+translated_from: content/ru/1976/08/articles/17_levitan-interesuyuschimsya-kosmonavtikoy-13dab8dd.md
+source_content_sha256: 85da014984be02f5a1d7a95eb8f562c43c5fbd3db1cc77fcfe6765596212cb6f
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 48⟧
+
+Của ai. Và kết luận lại, câu hỏi chính nhưng khó nhất: tại sao những ngôi sao này lại phát nổ? Và tác giả, người đã có đóng góp đáng kể cho lời giải vấn đề phát xạ vô tuyến từ tàn dư siêu tân tinh và nguyên nhân gây ra vụ nổ của chúng, sẽ giúp người đọc làm quen với kiến ​​thức hiện tại của chúng ta về cả hai vấn đề này.
+
+Và cuối cùng là phần cuối cùng của cuốn sách: “Những vì sao chết”. Đúng vậy, những ngôi sao, giống như con người, ít nhiều đã sống ở miền nam nợ nần (thời gian thay đổi hàng trăm triệu và hàng tỷ năm), đi đến cuối cuộc đời của họ. Nguồn cung cấp nhiên liệu hạt nhân đang cạn kiệt: hydro bị đốt cháy, helin bị đốt cháy. Không phải tất cả các ngôi sao đều cung cấp năng lượng phản ứng lâu dài, có tính đến carbon và oxy. Nghiên cứu nguồn năng lượng. Ngôi sao đang sụp đổ - áp suất do bức xạ gây ra ở độ sâu của nó đã giảm xuống và chỉ riêng áp suất khí không thể vượt qua được độ dốc granit hóa. Thế rồi trước ngôi sao có ba con đường, ba số phận có thể xảy ra. Không, ngôi sao không phải là sóng, việc lựa chọn giữa chúng, tất cả phụ thuộc vào khối lượng của nó, mặc dù bạn phải nghiên cứu một số yếu tố khác (ví dụ: chuyển động quay của ngôi sao, sự hiện diện của từ trường).
+
+Cách thứ nhất - đối với những ngôi sao có khối lượng nhỏ hơn Mặt trời (chính xác hơn là nhỏ hơn 1,2 khối lượng Mặt trời) - biến thành sao lùn trắng, “thả” một phần đáng kể khối lượng của nó, rồi lớn dần cho đến khi ánh sáng dừng hẳn (tác giả gọi trạng thái này là “sao lùn đen”).
+
+Một số phận khác đang chờ đợi những ngôi sao có khối lượng từ 1,2 đến 2,4 lần khối lượng Mặt Trời. Ngôi sao trải qua sự suy giảm thảm khốc xuống kích thước rất nhỏ (đường kính vài chục km) đồng thời với việc "rụng" lớp vỏ. Đây là một vụ nổ siêu tân tinh. Giai đoạn cuối cùng của một vụ nổ như vậy là sự hình thành một ngôi sao neutron (vật chất của một ngôi sao như vậy bao gồm các neutron “đóng gói” dày đặc). Các sao neutron quay nhanh, cũng có từ trường mạnh, gửi tín hiệu vô tuyến dưới dạng chùm tia hẹp có định hướng. Một lần trong mỗi vòng quay của ngôi sao (và chu kỳ của vòng quay này là khoảng một giây), chùm tia có thể ăn thịt Trái đất. Và sau đó các đài phát thanh trên trái đất sẽ nhận được một xung ngắn. Khoảng thời gian giữa các xung được duy trì với độ chính xác đến phần tỷ giây. Khám phá của họ đã gây ra bao nhiêu phấn khích và tranh cãi vào năm 1967! Nguồn của các xung vô tuyến này, được gọi là xung, sớm được tích tụ bởi các sao neutron đã được dự đoán từ lâu nhưng cho đến lúc đó vẫn chưa được quan sát.
+
+Các ngôi sao của số phận thứ ba có khối lượng lớn nhất. Chúng không thể ở lại giai đoạn của một ngôi sao neutron: sự granit hóa của lực lật đổ ngôi sao quá lớn. Ngôi sao tự tách ra và biến thành cái gọi là “lỗ đen”. Bạn muốn biết nó là gì? Đọc Shakespeare. Vâng, vâng, William Shakespeare, nhà viết kịch người Anh tuyệt vời. Những lời của ông được I. S. Shklovsky đưa ra như một tập trong bốn phần của cuốn sách. Họ đây: “Được gọi vào một quả cầu lớn và không bị nhìn thấy cách bạn di chuyển đến đó - đây là một cái lỗ!” ("Antony và Cleopatra").
+
+Người đọc sẽ tìm thấy rất nhiều điều thú vị trong cuốn sách của I. S. Shklovsky. Nhưng nó không dễ đọc. Tác giả không ngần ngại đưa ra những công thức thể hiện những quy luật hay mối quan hệ vật lý nhất định, hoặc bàn luận những vấn đề vật lý phức tạp. Cách trình bày không có dấu hiệu đơn giản hóa dù là nhỏ nhất, đây là tội lỗi phổ biến của một số người phổ biến. Shklovsky không che giấu những khó khăn mà khoa học phải đối mặt trong vấn đề này hay vấn đề kia. Có lẽ kẻ hành hạ sẽ phải đọc một số đoạn văn hai lần một lần hoặc nhờ các đồng chí cấp trên, thầy cô, chuyên gia giúp đỡ. Nhưng nhiều điều sẽ rõ ràng ngay cả khi đọc lần đầu. Tất nhiên, những người anh em của cuốn sách này chỉ nên là những người thực sự yêu thích khoa học về Vũ trụ và nỗ lực tìm hiểu xem nó tồn tại và ngột ngạt như thế nào trong thời đại chúng ta.
+
+V. Bronshten
+
+Thích khám phá không gian
+
+Ngày nay, thật khó để tìm thấy những người thờ ơ với những báo cáo về các chuyến bay vào vũ trụ mới. Nhưng bạn có tự hỏi các nhà khoa học, kỹ sư, công nhân và các phi hành gia đã làm công việc khổng lồ gì trước khi khoảnh khắc ấp ủ của vụ phóng đến không? Ai trong số các bạn không quan tâm đến việc học cách tính tốc độ chuyển động của gói hàng để phóng tàu vũ trụ vào một quỹ đạo nhất định, hiểu đặc điểm thiết kế của gói hàng, xác định thời gian đốt cháy của gói hàng, tính toán lượng nhiên liệu và chất oxy hóa cần thiết cũng như xây dựng quỹ đạo bay của tàu vũ trụ? Cuốn sách mới “Các nguyên tắc cơ bản của khoa học vũ trụ” do Ứng viên Khoa học sư phạm, Phó giáo sư A. Marlensky * viết, có thể giúp bạn điều này.
+
+Cuốn sách bắt đầu bằng câu chuyện về lịch sử vũ trụ, xem xét các vấn đề về cấu trúc và chuyển động của các gói hàng (đặc biệt là chuyển động tự do của các gói hàng trong trường hấp dẫn và chuyển động của các gói hàng trong trường hấp dẫn).
+
+*) A. Marlensky. Nguyên tắc cơ bản của vũ trụ. M., “Khai sáng”, 1975.

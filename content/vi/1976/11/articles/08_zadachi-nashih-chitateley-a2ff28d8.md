@@ -1,0 +1,36 @@
+---
+id: 1976-11-zadachi-nashih-chitateley-a2ff28d8
+issue: kvant_1976_11
+year: 1976
+number: "11"
+title: Bài toán độc giả của chúng tôi
+rubric: smes
+page_first: 23
+page_last: 23
+page_labels: "21"
+tag: 68KV
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: ff3939105249ac374efa88d4bfc6d06ef80bb4947cf4de35259de660342d8ac2
+prompt_sha256: draft-1
+translated_from: content/ru/1976/11/articles/08_zadachi-nashih-chitateley-a2ff28d8.md
+source_content_sha256: 1e40f9e646a0cad34d5c501ef55495f5628dabeefdfbd1c27953008360ad33b4
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 21⟧
+
+Siphon tự động hoạt động như thế nào? Chúng ta hãy quay lại Hình 1. Khi quả bóng được hạ xuống cốc nước, nước bắt đầu đi vào bên trong nó qua lỗ 2. Đồng thời, nước dâng lên qua ống thủy tinh, đi vào nó qua đầu hở của ống. Tốc độ nước dâng lên trong ống lớn hơn trong bong bóng. Một cột nước dâng lên xuyên qua ống đến lỗ 1 trên thành ống, dường như đã chặn nó lại. Khi quả bóng chứa đầy nước, áp suất không khí trong quả bóng sẽ tăng lên. Đến một lúc nào đó, một bong bóng khí nhỏ được “đẩy” vào lỗ 1 của ống. Anh ta cắt một cột nước nhỏ và nhấc nó lên. Nước dâng lên qua ống lại chặn lỗ 1, và một lần nữa khí nén được đẩy dưới dạng bong bóng vào lỗ này và cắt đi một phần nước mới. Do đó, một cột không khí-nước được hình thành ở khuỷu của ống có quả bóng, mật độ trung bình của cột này nhỏ hơn mật độ của nước. Dưới tác dụng của áp suất thủy tĩnh, cột này dâng lên đến chỗ uốn của ống, đi xuống dọc theo chỗ uốn thứ hai và khi quả bóng chứa đầy nước, một dòng nước liên tục được “kéo dài” ra phía sau nó. Xi phông bắt đầu hoạt động.
+
+Bài tập
+
+1. Chứng minh bằng thực nghiệm rằng nước chảy vào quả cầu chậm hơn so với chảy vào ống thủy tinh. Giải thích tại sao điều này xảy ra.
+
+2. Để đảm bảo lý do hoạt động của siphon tự động là chính xác, hãy thay quả bóng mờ bằng lọ thủy tinh nhỏ có nút cao su. Nhìn chung, toàn bộ thiết bị có bong bóng phải giống hệt như khi sử dụng bóng. Đưa ống thủy tinh vào lọ qua lỗ trên nút cao su. Các bức tường trong suốt của bong bóng cho phép bạn quan sát quá trình hình thành cột không khí-nước trong ống thủy tinh.
+
+3. Tìm hiểu xem độ cao dâng lên của cột không khí có phụ thuộc vào độ sâu ngâm đầu gối của quả bóng trong nước hay không.
+
+4. Tạo một ống siphon tự động bằng cách thay ống thủy tinh bằng ống cao su.

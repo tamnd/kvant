@@ -1,0 +1,59 @@
+---
+id: 1976-2-chemu-raven-odin-god-0a814bb2
+issue: kvant_1976_2
+year: 1976
+number: "2"
+title: Một năm bằng bao nhiêu?
+rubric: raznoe
+rubric_sub: Разное
+page_first: 29
+page_last: 29
+page_labels: "27"
+tag: SNZX
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 69e58fcc2ae6faf23eb87ae8320f787c3508a967afe04390f84dac34311933c2
+prompt_sha256: draft-1
+translated_from: content/ru/1976/02/articles/06_chemu-raven-odin-god-0a814bb2.md
+source_content_sha256: 52f00e119269e130bc921522ae0b8a5faa4131e0dcd88366799bda920c230e59
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 27⟧
+
+Lý thuyết tương đối là một bộ máy không thể thiếu trong việc nghiên cứu các tính chất của Vũ trụ. Hiện nay có rất nhiều mô hình của Vũ trụ. Giá trị của chúng, cái nào trong số chúng thực sự mô tả các tính chất của Vũ trụ, có thể được đánh giá bằng kết quả thí nghiệm. Nhưng những thí nghiệm này có kết quả rất phức tạp, nhiều thí nghiệm vẫn chỉ mang tính chất “tinh thần”, và khoa học hiện đại không đủ khả năng thực hiện chúng. Nhưng trong số những mô hình này có những mô hình theo đó hình học của không gian là hình học của lobachevsky.
+
+Các đặc tính hình học của Vũ trụ thay đổi theo thời gian; các nhà thiên văn học nhìn thấy các thiên hà và chuẩn tinh đang tán xạ; Gần đây, “lỗ đen” đầu tiên được phát hiện trong chòm sao Cygnus—điểm mà mật độ chuyển sang vô cực và độ dài bằng không. Và khoa học chỉ có thể giải thích những hiện tượng này bởi vì 150 năm trước, trên bờ sông Volga, nhà toán học trẻ người Kazan Nikolai Lobachevsky đã hỏi: có thực sự đúng khi thông qua một điểm nằm ngoài một đường thẳng có thể chứng minh chỉ có một đường thẳng không cắt đường thẳng này? Ai có thể nghĩ rằng đây là một trong những câu hỏi hóc búa nhất mà thiên nhiên từng hỏi con người.
+
+Trò đùa của nhà vật lý
+
+Một năm bằng bao nhiêu?
+
+Gần đây, nhà vật lý nổi tiếng người Mỹ R. Feynman đã bày tỏ một giả thuyết vũ trụ học quan trọng:
+
+$$1 \text{ год} = \pi \cdot 10^7 \text{ сек},$$
+
+(1) trong đó π là số Archimedes.
+
+Hãy để chúng tôi chứng minh giả thuyết thú vị này một cách chính xác.
+
+Được biết, Trái đất chuyển động quanh Mặt trời theo quỹ đạo tròn, bán kính là $R = 150 \text{ мл. км.}$ Tốc độ quỹ đạo của Trái đất là $\sigma = 30 \text{ км/ сек.}$
+
+Nếu với tốc độ không đổi như vậy, Trái đất không di chuyển dọc theo quỹ đạo mà dọc theo đường kính của nó, thì nó sẽ chuyển từ “cạnh” này sang “cạnh” quỹ đạo kia theo thời gian.
+
+$$t = \frac{2R}{v} = \frac{2 \cdot 150 \cdot 10^6}{30} = 10^7 \text{ сек.}$$
+
+(2)
+
+Theo định nghĩa, một năm là thời gian Trái đất quay quanh Mặt trời. Rõ ràng là thời gian này có liên quan đến thời gian $t$ được tìm thấy ở trên, vì chu vi của quỹ đạo bằng đường kính của nó. Hệ thức cuối cùng của bất kỳ đường tròn nào, theo Archimedes, là π. Theo sau đó là $1 \text{ год} = \pi \cdot t$. Thay thế ở đây giá trị $t$ từ (2), chúng ta có được công thức (1).
+
+Như vậy, chúng ta đã chứng minh giả thuyết của Feynman là đúng. Hơn nữa, chúng tôi đã làm rõ ý nghĩa vật lý của CONSTANTES $10^7$ có trong công thức (1).
+
+Để kiểm tra tính đúng đắn của giả thuyết Feynman, thí nghiệm sau đây đã được thực hiện: sử dụng đồng hồ Mayak, chúng tôi đã xác định được khoảng thời gian của năm 1975. Hóa ra nó bằng $3,15 \cdot 10^7 \text{ сек.}$. Công thức (1) cho $3,14 \times 10^7 \text{ сек.}$. Chúng ta có xu hướng nghĩ rằng sự khác biệt thu được giữa dữ liệu lý thuyết và dữ liệu quan sát được là kết quả của một trong hai hiệu ứng sau: a) quỹ đạo Trái đất khác với quỹ đạo hình tròn, b) không-thời gian bị cong.
+
+Điều đáng chú ý là kết quả của chúng tôi cho phép chúng tôi khái quát hóa giả thuyết của Feynman cho các hành tinh khác.
+
+1976, tháng 1, Đài thiên văn Biopacan

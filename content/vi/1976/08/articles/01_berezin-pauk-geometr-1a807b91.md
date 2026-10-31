@@ -1,0 +1,32 @@
+---
+id: 1976-8-berezin-pauk-geometr-1a807b91
+issue: kvant_1976_8
+year: 1976
+number: "8"
+title: nhện hình học
+authors:
+  - Березин В. Н.
+rubric: smes
+page_first: 68
+page_last: 68
+tag: YFAT
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 0f3b090bc7077e8041ad16cbeddcbb519143b57f5a6277b474920f701f06cb3b
+prompt_sha256: draft-1
+translated_from: content/ru/1976/08/articles/01_berezin-pauk-geometr-1a807b91.md
+source_content_sha256: e1b2019a308977ea7235d6e012237c77f84ffbc05fcf186477a339848f2ccf08
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+HÌNH HỌC NHỆN
+
+Ren được dệt bằng đường khâu chéo, rõ ràng có hình xoắn ốc. (Chính xác hơn, đây là tập hợp các dây của một hình xoắn ốc nhất định.) Đây là loại hình xoắn ốc nào? Nếu bạn tin nhà tự nhiên học nổi tiếng người Pháp J. A. Fabre (1823-1915), những cây thánh giá sẽ dệt nên một đường xoắn ốc đều (còn được gọi là logarit). Đây là một đường cong liên tục cắt nhau ở cùng một góc α tất cả các vectơ bán kính xuất phát từ một gốc O. Các dây cung cùng một góc là các dây song song. Đây là dấu hiệu để có thể nhận biết được một đường xoắn ốc đều (tuy nhiên, điều đó là chưa đủ). Bạn cũng có thể tạo ra một trang web theo cách này: chúng ta xây dựng các vòng tròn đồng tâm, vẽ các tia và dây từ tâm chung của chúng, nối các điểm giao nhau của các tia gần nhau nhất với các vòng tròn. Các dây có cùng góc sẽ song song. Để có được một hình xoắn ốc, tất cả những gì còn lại không phải là đóng đường gãy thành một đa giác ở một góc mà là thực hiện chuyển đổi sang “đa giác” lân cận.
+Bạn cho rằng cách giải thích nào phù hợp hơn với sự sáng tạo của các nhà hình học Paykov?
+
+V. Berezin

@@ -1,0 +1,53 @@
+---
+id: 1976-10-leshkovtsev-novoe-o-gravitatsii-9bb0a4af
+issue: kvant_1976_10
+year: 1976
+number: "10"
+title: Thông tin mới về trọng lực
+authors:
+  - Лешковцев В. А.
+rubric: retsenzii-bibliografiya
+rubric_sub: Рецензии, библиография
+page_first: 53
+page_last: 53
+page_labels: "51"
+tag: TCFG
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: d3188844ecb76c4da86609a34c0ba2607b011ede8d27a21493fc63e393878341
+prompt_sha256: draft-1
+translated_from: content/ru/1976/10/articles/13_leshkovtsev-novoe-o-gravitatsii-9bb0a4af.md
+source_content_sha256: 9bde4f762de802f693c49ee5a1e26ef2fcbda67386ffaad0045ea5c7ac48fd6a
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 51⟧
+
+Thông tin mới về trọng lực
+
+Lực hấp dẫn là tự nhiên và hiện hữu. Nhưng khoa học vẫn chưa thể trả lời được nhiều câu hỏi liên quan đến bản chất của các lực này.
+
+Tại sao tất cả các cơ thể luôn uốn cong về phía nhau? Tại sao không thể tự cô lập mình khỏi tác động của các lực đè bẹp và tạo ra một tấm bình phong không cho chúng đi qua? Bản chất của những “lò xo” vô hình có khả năng uốn cong cả những vật thể ở rất xa là gì? Có cái gọi là sóng hấp dẫn mà A. Einstein đã dự đoán về mặt lý thuyết cách đây nửa thế kỷ? “Lỗ đen” trông như thế nào - “đường hầm sao” tuyệt vời với những đặc tính hoàn toàn khác thường?
+
+Khoa học đang liên tục tấn công pháo đài này, mở rộng và đào sâu hiểu biết của chúng ta về bản chất của lực hấp dẫn và cấu trúc của Vũ trụ. Lý thuyết đang được cải tiến, các thí nghiệm đáng kinh ngạc đang được thực hiện và kiến ​​thức về vấn đề vật lý thú vị này đang được tích lũy từng bước. Câu chuyện về những thành tựu này được nêu trong một tập tài liệu khoa học phổ thông nhỏ của Giáo sư Ya. A. Smorodinsky “Trọng lực”, do nhà xuất bản “Znanie” xuất bản vào cuối năm 1975 *).
+
+*) Vâng. A. Smorodinsky. Trọng lực. M., “Kiến thức”, 1975. Phát hành 53.300 bản, 64 trang, giá 11 kopecks.
+
+Trong nửa đầu của tập tài liệu, tác giả cung cấp những thông tin cơ bản từ lĩnh vực lý thuyết tương đối tổng quát và mô tả một số thí nghiệm cổ điển để kiểm tra lý thuyết này. Nửa sau của cuốn sách này dành cho những vấn đề hiện đại nhất trong lý thuyết hấp dẫn.
+
+Trong đó, tác giả nói về sóng hấp dẫn của Nhật Bản, một báo cáo chưa hoàn chỉnh về việc đăng ký sóng này được thực hiện bởi nhà vật lý người Mỹ V.B. Braginsky tại Đại học quốc gia Moscow) không xác nhận phát hiện này. Như vậy, sóng hấp dẫn vẫn là một đối tượng bí ẩn của vật lý hiện đại.
+
+Công thức của định luật vạn vật hấp dẫn chứa đựng sự vi phạm khối lượng của các vật bị ép xuống và khoảng cách giữa chúng cũng như hằng số hấp dẫn γ. Cho đến gần đây, các nhà vật lý coi đại lượng này không thay đổi như tốc độ ánh sáng trong chân không, điện tích của electron, hay hằng số Planck. Nhưng tương đối gần đây, nhà vật lý lý thuyết nổi tiếng người Anh P. Dirac đã đưa ra một giả thuyết rằng giá trị của hằng số hấp dẫn giảm theo thời gian khoảng 0,5·10⁻¹⁰ giá trị của nó mỗi năm. Vào đầu năm 1975, người ta đã thu được xác nhận thực nghiệm đầu tiên về tình huống rất kỳ lạ này.
+
+Tài liệu này cũng mô tả các thí nghiệm gần đây nhằm đo cái gọi là “sự dịch chuyển đỏ” ​​của các vạch quang phổ ánh sáng phát ra từ các ngôi sao rất lớn, được dự đoán bởi thuyết tương đối rộng. Hóa ra để xác minh dự đoán này với độ chính xác cao bất thường, chỉ cần so sánh năng lượng của lượng tử bức xạ gamma do sắt phóng xạ nhân tạo phát ra trên bề mặt Trái đất và ở độ cao 20 m so với Trái đất! Lý thuyết dự đoán rằng năng lượng của các lượng tử gamma này sẽ chênh lệch các giá trị cỡ 2·10⁻¹⁵. Chính sự khác biệt này đã được phát hiện trong các thí nghiệm của các nhà vật lý người Mỹ Pound và Rebka.
+
+Trong một thí nghiệm khác, sử dụng đồng hồ nguyên tử cực kỳ chính xác đặt trên hai máy bay chở khách, một chiếc bay từ tây sang đông và chiếc kia bay theo hướng ngược lại, người ta có thể thay đổi sự thay đổi tốc độ đồng hồ được dự đoán bởi thuyết tương đối rộng đến hàng tỷ phần của một giây.
+
+Cuốn sách nhỏ kết thúc bằng phần mô tả các mô hình lý thuyết khác nhau về “lỗ đen” và câu chuyện về những vật thể thiên văn tuyệt vời này ở Nhật Bản. Lực hấp dẫn ở gần chúng mạnh đến mức ánh sáng do chúng phát ra không thể di chuyển ra ngoài vùng lân cận của các vật thể này. Có vẻ như về cơ bản chúng ta không có cơ hội tìm hiểu về sự tồn tại của những vật thể đó. Nhưng họ phát hiện ra rằng nếu một lỗ đen tạo thành một hệ nhị phân cùng với bất kỳ ngôi sao hứa hẹn nào, thì bằng một số đặc điểm của phổ phát xạ của ngôi sao này, người ta có thể thiết lập sự hiện diện của một lỗ đen liên kết với nó. Ứng cử viên đầu tiên cho vai trò lỗ đen là ngôi sao XI trong chòm sao Cygnus.
+
+Tác giả cũng nói về những biểu hiện giả thuyết về lỗ đen và thậm chí cả những vật thể đáng kinh ngạc hơn - "vực thẳm đen", trường hấp dẫn của chúng có thể xé nát các ngôi sao, gây ra sự hủy diệt thảm khốc và giải phóng lượng năng lượng đáng kinh ngạc.
+
+V. Leikovtsev

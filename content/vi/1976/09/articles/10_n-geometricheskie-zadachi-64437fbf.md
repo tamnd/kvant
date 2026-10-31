@@ -1,0 +1,51 @@
+---
+id: 1976-9-n-geometricheskie-zadachi-64437fbf
+issue: kvant_1976_9
+year: 1976
+number: "9"
+title: Hình học bài toán
+authors:
+  - Н. В.
+rubric: smes
+page_first: 37
+page_last: 37
+tag: GKMI
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 8e2e9d86fbaef0c4afa7f89e6cf200612c70d163c22d23def16bbb97468e9372
+prompt_sha256: draft-1
+translated_from: content/ru/1976/09/articles/10_n-geometricheskie-zadachi-64437fbf.md
+source_content_sha256: 36b02ee97bd45630a8e0294a43816e38d998220cfc8f130bc26fa8a4b8dd44aa
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+Nó chỉ có thể là gần đúng. Nhưng sau đó, để loại trừ một tùy ý, điều quan trọng trước tiên là lập bản đồ với các điểm mốc nhất định. Theo nghĩa này, thông điệp của Shpilevsky rằng bộ nhớ trần phải tương ứng với định nghĩa về một vòng tròn trên thiên cầu - đường xích đạo hoặc đường hoàng đạo - có vẻ chắc chắn hợp lý. Mặc dù cấu hình của các điểm khá gợi nhớ đến chòm sao Cetus (làm ơn, sự trùng hợp với Volpas thì tốt hơn một chút), việc nhận dạng này, do có mối liên hệ với đường xích đạo, nên có vẻ chắc chắn hơn.
+
+Những thông điệp về hệ hành tinh của tàu thăm dò có vẻ sâu sắc, mặc dù yêu cầu về thông tin tối đa không phải lúc nào cũng cần thiết. Cuộc thăm dò bài toán chính là thực hiện một bước thuyết phục để tiếp xúc và khi liên hệ được thiết lập, bạn có thể truyền thông tin bổ sung về hệ hành tinh của mình.
+
+Vậy, t của Cetus hay ε của Volpas? Từ quan điểm của những ý tưởng hiện tại của chúng ta về các điều kiện cho sự tồn tại của sự sống trong không gian, Trung Quốc tất nhiên là được ưu tiên hơn. Chúng ta hãy nhớ rằng trong tất cả các dự án truyền thông quốc tế, ngôi sao này là ứng cử viên đầu tiên. Nhưng ở đây cũng có một mối nguy hiểm âm ỉ: người ta luôn có thể nghi ngờ một yếu tố điều chỉnh vô tình, tiềm thức. Theo nghĩa này, vị trí của Lunen mạnh hơn hoặc khó có thể nghi ngờ trước một ngôi sao không phù hợp như ε Volpas. Điều gây tò mò là khi nhìn từ Ceti, Mặt trời của chúng ta, như Luenen lưu ý, sẽ được nhìn thấy trong chòm sao Volpas. có thể tàu thăm dò bài viết đồng thời cung cấp thông tin về khu vực bầu trời của chúng ta trông như thế nào khi nhìn từ chúng và khu vực bầu trời của họ trông như thế nào khi nhìn từ chúng ta? Những người nghiệp dư người Bulgaria, dẫn đầu bởi Ilya Iliev, đã sử dụng một phương pháp giải mã thông điệp khác (“Tekhnika Molodezhka”, số 4, 1974, trang 54) và đi đến kết luận rằng tàu thăm dò đang tiếp cận ngôi sao ζ Leo. Cách lý luận của họ không hề tùy tiện hơn nhiều và có vẻ “hợp lý”. Nhiều ý nghĩa như vậy trong việc giải thích thông điệp này nên được xây dựng dựa trên một số nguyên tắc logic khác để loại trừ bất kỳ sự mâu thuẫn nào.
+
+Những nỗ lực nhằm tiết lộ bí mật của tiếng vang thế giới là một ví dụ đáng kính và rõ ràng về những khó khăn nảy sinh trong vấn đề liên lạc giữa các vì sao.
+
+Hình học bài toán
+
+1. Gọi D là trung điểm cạnh BC của tam giác ABC và O là tâm đường tròn nội tiếp tam giác này. Gọi Q là giao điểm của đường vuông góc hạ từ điểm D xuống AO và đường vuông góc hạ từ điểm A xuống BC. Chứng minh rằng đường vuông góc hạ từ điểm Q xuống DO đi qua điểm tiếp tuyến của đường tròn nội tiếp và cạnh BC.
+
+2. a) Các đường cao AD, BE, CH của tam giác ABC cắt các cạnh của nó tại các điểm D, E, H. Chứng minh rằng các đường thẳng nối các đỉnh A, B, C với trung điểm các đoạn EH, HD, DE lần lượt cắt nhau tại một điểm.
+
+6) Chứng minh định lý tương tự, thay độ cao bằng đường trung tuyến hoặc đường trung tuyến.
+
+3. Độ dài các đường trung tuyến AM, BN, CQ của tam giác ABC tạo thành một đường cắt hình học. Chứng minh rằng $2\cos \hat{B} = 2h \pm \sqrt{3(h^2 - 1)}$
+
+ở đâu $h = \frac{a^2 + c^2}{ac}$.
+
+4. Dây HEK được vẽ qua điểm E nằm bên trong đường tròn. Cho EM và EP vuông góc hạ từ điểm E lên các tiếp tuyến của đường tròn vẽ tại các điểm H và K. Chứng minh rằng $\frac{1}{|EM|} + \frac{1}{|EP|}$ không phụ thuộc vào việc chọn dây cung.
+
+5. Tìm tất cả các tam giác vuông có độ dài các cạnh là số tự nhiên, tổng và hiệu độ dài cạnh huyền và một cạnh là các bình phương chính xác.
+
+H. B.

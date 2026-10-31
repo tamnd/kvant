@@ -1,0 +1,52 @@
+---
+id: 1976-7-karmazina-meller-algol-60-0c94f6ec
+issue: kvant_1976_7
+year: 1976
+number: "7"
+title: '"ALGOL 60"'
+authors:
+  - Кармазина Л. Н.
+  - Меллер Н. А.
+rubric: retsenzii-bibliografiya
+rubric_sub: Рецензии, библиография
+page_first: 53
+page_last: 53
+page_labels: "51"
+tag: OU8R
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 1f2f524e4eae8553985562f7464c6a8111148689e19a8635637b5093ef3f965c
+prompt_sha256: draft-1
+translated_from: content/ru/1976/07/articles/22_karmazina-meller-algol-60-0c94f6ec.md
+source_content_sha256: 6c39e216b954fde3f6d92f636de0afc21323a145af0c3eb59bfb602403347bce
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 51⟧
+
+"ALGOL 60"
+
+Một trong những phương tiện giao tiếp với máy tính hiện đại và được biết đến rộng rãi là ngôn ngữ thuật toán ALGOL 60, được tạo ra để mô tả các thuật toán lời giải bài toán. Bằng ngôn ngữ này, bạn có thể “nói chuyện” với nhiều máy tính: lập trình viên viết mô tả thuật toán bằng ALGOL và chuyển nó vào máy, nó hiểu văn bản, giải bài toán và báo cáo kết quả.
+
+Đối với học sinh trung học quan tâm đến toán học và muốn học lập trình trong ALGOL, chúng tôi khuyên bạn nên đọc cuốn sách “Ngôn ngữ thuật toán ALGOL 60” *), xuất bản năm 1975. Ưu điểm của cuốn sách là người đọc chỉ cần đọc bốn đoạn đầu tiên là có thể soạn thảo các chương trình đơn giản nhất trong ALGOL.
+
+Cuốn sách nên có nhiều ví dụ, bài tập và bài toán. Khi chuẩn bị bài toán cho lời giải trên máy tính, người ta chú ý cẩn thận đến khía cạnh toán học của vấn đề. Các vấn đề của thuật toán lời giải bài toán, khả năng cải thiện các thuật toán này và xây dựng các chương trình tốt sẽ được thảo luận chi tiết. Điều này đặc biệt được thể hiện rõ ràng trong các ví dụ về xử lý bảng của một nhà vô địch khúc côn cầu, sắp xếp một mảng, phân tích một số thành thừa số nguyên tố, v.v. Đôi khi việc chứng minh một số điều khoản được đưa ra trong văn bản, đôi khi bạn phải tự mình làm điều này - trong bài tập.
+
+Vì vậy, ví dụ, sau khi giải thích phương pháp tìm kiếm một phần tử mảng bằng cách chia đôi, bài tập sau đây được đưa ra.
+
+*) S. A. Abramov, I. N. Antin pov. Ngôn ngữ thuật toán ALGOL 60. M., “Khai sáng”, 1975.
+
+Pravaniza 135. Chứng minh rằng nếu với một số nguyên S nào đó, số n phần tử mảng thỏa mãn bất đẳng thức $2^s-1 < n \leq 2^s$ thì khi thực hiện phương pháp tìm một phần tử bằng cách chia làm đôi, sẽ không thực hiện quá s - 1 phép so sánh và nhiều nhất có thể nói rằng số phép so sánh được thực hiện không vượt quá $\log_2 n$.
+
+Một học sinh ham học hỏi sẽ có thể tìm thấy nhiều bài toán (bài tập) khó nhưng thú vị mà việc giao tiếp lời giải là cần thiết. Một số bài toán không chỉ về mặt nội dung mà còn về cách triển khai chương trình ban đầu của họ. Dưới đây là một số ví dụ khác về bài toán dành cho học sinh.
+
+Pravanice có 148. Goldbach đề xuất rằng mọi số hạng lớn hơn hoặc bằng 4 đều có thể được biểu diễn dưới dạng tổng của hai số nguyên tố. Đề xuất này vẫn chưa được chứng minh hoặc bác bỏ. Viết chương trình kiểm tra giả thuyết này với một số có giá trị cho trước.
+
+Nhiệm vụ 19. Chứng minh rằng mọi số tiền nguyên đều tốn nhiều thời gian và bộ nhớ hơn; viết chương trình tạo với số nguyên n>7 cho trước một cặp số nguyên không âm a và b có cực đại n = 3a + 5b.
+
+Trong một số trường hợp, các quy tắc (hoặc quảng cáo này) của một trò chơi được định dạng, chẳng hạn như trò chơi bài “Bộ tứ”, “Chiến hạm”, “Tháp Hà Nội” và người ta đề xuất viết chương trình chơi trò chơi tương ứng.
+
+Bằng cách đọc kỹ cuốn sách và làm một số lượng lớn bài tập, học sinh có thể đạt được trình độ cao của chương trình.

@@ -1,0 +1,55 @@
+---
+id: 1976-8-sharafutdinov-zadachi-bliznetsyi-fa4afa87
+issue: kvant_1976_8
+year: 1976
+number: "8"
+title: Bài toán-cặp song sinh
+authors:
+  - Шарафутдинов В.
+rubric: smes
+page_first: 37
+page_last: 37
+page_labels: "35"
+tag: Y4LO
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: a253085558ecb0731e35a5d1ec63ed3b68420e5c28dd799d91dc3e4bee78ffa4
+prompt_sha256: draft-1
+translated_from: content/ru/1976/08/articles/12_sharafutdinov-zadachi-bliznetsyi-fa4afa87.md
+source_content_sha256: d20740e790f0905d426ddfa161b548db804f76d4e3fba207e4296ae00137a734
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 35⟧
+
+Đảo Tannstevny
+Tất nhiên, bạn có nhận ra hình minh họa cho cuốn tiểu thuyết “Đảo Tannestvennaya” của Jules Verne không? Các chốt trên cát được đóng ở cuối bóng từ cột bởi kỹ sư toàn năng và thông minh Cyrus Smith. Nhà báo Gedon Spilett đang đứng với một chiếc đồng hồ... Nhưng đây là một chi tiết mà bạn có thể đã quên: hòn đảo nơi diễn ra các sự kiện được mô tả trong tiểu thuyết nằm ở phía nam vĩ độ 30° nam.
+Thợ khắc J. Barban và nghệ sĩ P. Ferat, những cuốn tiểu thuyết minh họa của J. Verne, như một quy luật, đã hoàn thành nhiệm vụ của họ một cách hoàn hảo.
+Nhưng trong trường hợp này...
+Hãy thử trả lời những câu hỏi sau:
+1. Các bóng có được mô tả chính xác trong hình minh họa không?
+2. Nên đặt lớp phủ lồi, có thể được kéo qua đế của các chốt, theo hướng nào - từ cột hay về phía cột?
+3. Có đúng là các chốt đã đi từ trái sang phải không?
+Hãy thử vẽ một cái bóng mô tả phần cuối của bóng cột trong ngày ở các vĩ độ khác nhau. Cực có hướng song song với trục quay của Trái đất.
+
+V. Tikhonov
+
+Bài toán-cặp song sinh
+Những người chơi cờ đã quen thuộc với cái gọi là “bài toán-cặp song sinh”, điều kiện của chúng hơi khác nhau và lời giải hoàn toàn khác nhau. Đây là một ví dụ thú vị về hai cặp song sinh bài toán-toán học.
+Cuộc đối thoại sau đây diễn ra giữa A và B.
+A: Bạn có con không?
+B·(1): Có đấy.
+B·(2): Vâng, ba.
+Đáp: Tuổi nào?
+B: Tích số tuổi của họ là 36 tuổi, và tổng là số cửa sổ trong ngôi nhà đó.
+
+A (sau khi suy nghĩ): Tôi không thể xác định được tuổi của họ.
+B: Hãy để tôi nói thêm: đứa lớn nhất là con trai.
+Đáp: Bây giờ mọi chuyện đã rõ ràng.
+Cần xác định số lượng và độ tuổi của trẻ bằng hai phương án đáp số cho câu hỏi thứ nhất ((1) và (2)). Điều đáng ngạc nhiên nhất là mặc dù đáp số khác nhau nhưng trong cả hai trường hợp đều có ba đứa trẻ.
+
+V. Sharafutdinov
+(Novosibirsk)

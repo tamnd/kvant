@@ -1,0 +1,48 @@
+---
+id: 1976-8-esayan-evm-oprovergaet-19b020b3
+issue: kvant_1976_8
+year: 1976
+number: "8"
+title: Máy tính bác bỏ
+authors:
+  - Есаян А.
+rubric: osnovnye-stati
+page_first: 30
+page_last: 30
+page_labels: "28"
+tag: DST1
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 7879a0c64ed5fa71b381ba768745bd505353b6d3d8a6cd2acab60e1e15fd6ea8
+prompt_sha256: draft-1
+translated_from: content/ru/1976/08/articles/09_esayan-evm-oprovergaet-19b020b3.md
+source_content_sha256: 42e2d5cd4c0d1ae20a0215bc8a2af2813db26bad0b72ee02751394d32312a88e
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 28⟧
+
+máy tính
+bác bỏ
+
+bài toán sau đây thuộc về nhà toán học vĩ đại L. Euler:
+
+Cùng hiệp sĩ của bạn đi xung quanh tất cả các ô trên bàn cờ, nâng từng ô một trong mỗi ô.
+
+Vào năm 1823, Varisdorf, trong tập tài liệu “Đơn giản và tổng quát nhất lời giải bài toán về nước đi của hiệp sĩ,” đã đề xuất các quy tắc sau để đi ngang bàn cờ:
+
+Trong mỗi lần di chuyển, hiệp sĩ đặt cược vào ô mặt nạ mà từ đó có thể thực hiện số lần di chuyển nhỏ nhất đến các ô chưa được che. Nếu có nhiều mặt nạ tế bào, bạn được phép chọn bất kỳ mặt nạ nào trong số đó.
+
+Lưu ý rằng quy tắc Warisdorff không phải là một thuật toán, vì nó không phải lúc nào cũng chỉ rõ bước đi tiếp theo của hiệp sĩ (xem cụm từ thứ hai của quy tắc).
+
+Ví dụ: nếu một hiệp sĩ bắt đầu di chuyển từ ô d4, quy tắc Warisdorff cho phép anh ta thực hiện bước đi đầu tiên đến bất kỳ ô b3, b5, c2, e2 nào (Hình 1). (Tuy nhiên, nếu quân mã bắt đầu di chuyển từ ô c2, thì ngay cả ở nước đi đầu tiên, quy tắc Warisdorff sẽ cho anh ta biết rõ ràng nơi phải đi - đến ô a1!)
+
+Warisdorf tuyên bố rằng, bất kể hiệp sĩ bắt đầu di chuyển ở đâu, bất kỳ con đường nào thỏa mãn các quy tắc của anh ta cuối cùng sẽ dẫn đến một vòng hoàn chỉnh của bàn cờ (tức là tới lời giải bài toán của Euler). Cho đến gần đây, người ta vẫn chưa biết liệu tuyên bố này có đúng hay không. Trở lại năm 1971, E. Ya. Gik đã viết trong «Kvant» (Số 9, trang 53) rằng tuyên bố của Varisdorf “luôn hợp lý trong thực tế..., mặc dù nó không được xác nhận về mặt lý thuyết.”
+
+Một chương trình được biên soạn cho máy tính “Promin-2” để liệt kê một số đường đi của ngựa. Biện pháp đối phó đầu tiên được xây dựng trong vòng chưa đầy 1 phút. Đã thử 6464 đường dẫn, máy tính nhận được biện pháp đối phó
+
+Cơm. 1.
+Cơm. 2.
