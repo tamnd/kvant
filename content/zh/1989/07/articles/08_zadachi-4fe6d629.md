@@ -1,0 +1,43 @@
+---
+id: 1989-7-zadachi-4fe6d629
+issue: kvant_1989_7
+year: 1989
+number: "7"
+title: 任务
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 45
+page_last: 45
+page_labels: "43"
+tag: GJUY
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 9b7b5e57bb553144a9127b4de07c7ad9f9de2a675451024597f899007e3f2f21
+prompt_sha256: draft-1
+translated_from: content/ru/1989/07/articles/08_zadachi-4fe6d629.md
+source_content_sha256: 1c3f4c2b2fbd4201b4921223650b4e4d4d8c04e587d4eb0b0a952857f0e09e31
+translation_model: draft
+translation_run: zh-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 43⟧
+
+任务
+
+1. 很久以前，著名的印度数学家拉马努金和他的英国朋友数学家哈代坐在一辆汽车里。 “你说没有什么不起眼的数字，”哈代说。 “但我的车号1729并不是一个不起眼的数字。” “你在说什么，”拉马努金惊呼道，“这是可以用两种不同方式表示为两个自然数的立方和的最小数字！”找到这两个表示。
+
+2. 朋友们聚集在森林空地上：鹦鹉、蟒蛇、大象、小牛、小猫、猴子和小骆驼。鹦鹉开始测量每个人。事实证明，小象比小象长 3 鹦鹉，小骆驼也比猴子长 3 鹦鹉，小象比鹦鹉长 7 鹦鹉，小骆驼比小猫长 6 鹦鹉，它们都恰好适合蟒蛇，蟒蛇的长度为 38 只鹦鹉。用鹦鹉表达朋友的长度。
+
+3. 检查一下
+
+$$\frac{19^3 - 70^3}{19^3 + 89^3} = \frac{19 - 70}{19 + 89}.$$
+
+一般来说，如果$c = a + b$，则$\frac{a^3 - b^3}{a^3 + c^3} = \frac{a - b}{a + c}$。
+
+4. 当佩蒂亚打碎他的存钱罐时，里面有16枚铜币。他把它们分成 4 堆，每堆 4 个硬币，这样每堆里的钱都是等量的。然后他注意到所有堆里的硬币都不一样。存钱罐里有多少钱？
+
+5. 以相同的方式将两个相同的图形（参见 图）中的每一个切成 4 部分，这样您就可以从所得的八块中折叠出一个面积为两倍的相似图形。
+
+这些任务是由以下人员向我们建议的：A. P. Savin、M. V. Ulanovsky（149 级 10 年级学生）、Kharkov S. A. Lyashenko、A. I. Demidov、L. P. Mochalov。

@@ -1,0 +1,59 @@
+---
+id: 1972-3-belonuchkin-variantyi-vstupitelnyih-ekzamenov-po-fizike-1971-goda-v-moskovskiy-fiziko-tehnicheskiy-institut-cf763c25
+issue: kvant_1972_3
+year: 1972
+number: "3"
+title: 1971年莫斯科物理技术学院物理学入学考试的选择
+authors:
+  - Белонучкин В. Е.
+rubric: ekzamenatsionnye-materialy
+rubric_sub: Экзаменационные материалы
+page_first: 66
+page_last: 66
+page_labels: "64"
+tag: EY1R
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: eace23c2444c44a241737508ef53c35d421aa09d8f92545c73e387213faf7ac3
+prompt_sha256: draft-1
+translated_from: content/ru/1972/03/articles/19_belonuchkin-variantyi-vstupitelnyih-ekzamenov-po-fizike-1971-goda-v-moskovskiy-fiziko-tehnicheskiy-institut-cf763c25.md
+source_content_sha256: 8e24f20cbe1ea3745455c9b1ddb50117a63ba33853f466de9ab37006b9070f3c
+translation_model: draft
+translation_run: zh-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 64⟧
+
+入学考试的选择
+1971年在莫斯科物理技术学院获得物理学博士学位
+
+MIPT 物理笔试一如既往地提供了 4 道题。在每张票上，根据编译器的菜单，其中一个任务是最困难的，并用星号标记。申请人的意见有时会出现不同的情况。
+
+要获得“满意”的成绩，必须解决任意两个问题：三项任务被评为“好”；正确解决所有四个问题的人被授予“优秀”。
+
+让我们以考试期间提供的两张门票为例。
+
+1号票
+
+1. 他们用两把枪向距离桌子边缘 l = 30 厘米的火柴盒射击。一颗质量为 m=1 e 的子弹，以 v₀=150 m/sec 的速度水平飞行，击中盒子并以 v=v₀/2 的速度飞出盒子。箱重M=50 e。盒子和桌子之间的摩擦系数为多少时盒子会从桌子上掉下来？
+
+2. 两个垂直的圆柱形连通容器充满水并由质量 M₁=2 ke 和 M2=3 ke (图 1) 的活塞封闭。当质量 m=1ke 的重量放置在第一个活塞上时，则在平衡位置，它位于第二个活塞下方 h=10cm 处。当这个重量转移到第二个活塞时，结果比第一个活塞低 10 厘米。在没有重量的情况下，活塞将如何定位？
+
+3*。为了在两个α粒子之间发生核反应，它们之间的距离必须不超过r=4·10 -13 cm。必须将多少最小动能 Emin 传递给一个 α 粒子才能使其与另一个 α 粒子发生核反应，
+
+![Graph](image)
+
+紫罗兰2号
+
+1*。飞机降落在航母甲板上，速度v=108公里/小时。抓住制动绳后，他跑了 S=30 m 的距离，直到完全停下来。确定飞行员在着陆期间的最大重量（超载），假设绳索的弹性系数在拉伸时不发生变化。先导质量m=70ke。
+
+2. 该容器含有氮气和氢气的混合物。在温度T下，当氮气完全溶解成原子，且氢气仍可分解时，压力为P。在温度2T下，当两种气体完全分解时，容器内的压力为3P。混合物中氮和氢的克原子数之比是多少？
+
+3. 在由n个串联罐组成的旧电池中，其中一个罐的内阻急剧增加并变得等于r = 10 r。考虑到 e。 d.s.所有组都相同，确定在多大的负载电阻 R 下，当损坏的组短路时，在该电阻上释放的功率不会改变。普通罐子的内阻为r。
+
+4. 玻璃毛细管内有低压气体，在其中施加放电，使得整个气体柱成为散射辐射源。光束与半径的最大角度 φmax 可以从毛细管外壁射出吗？毛细管的内半径和外半径分别为r=2mm和R=4mm。
+
+图 1.
+64

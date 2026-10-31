@@ -1,0 +1,32 @@
+---
+id: 1989-7-dubrovskiy-kalinin-tetraedr-iz-origami-8d0f7916
+issue: kvant_1989_7
+year: 1989
+number: "7"
+title: '[折纸四面体]'
+authors:
+  - Дубровский В. Н.
+  - Калинин А. Т.
+rubric: smes
+page_first: 84
+page_last: 84
+tag: HWJJ
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 49fdf6513b61eafef8ff0f12fce2a5825a1b5f19f7fa1c3427fab5af962c675a
+prompt_sha256: draft-1
+translated_from: content/ru/1989/07/articles/01_dubrovskiy-kalinin-tetraedr-iz-origami-8d0f7916.md
+source_content_sha256: 1bbbbb09b5fd18daf405a79a56788907ec9891099483045b1229d391bd3d6d86
+translation_model: draft
+translation_run: zh-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+本期我们将继续讲一个关于折纸的故事，即在没有位置或胶水的情况下从纸方块上折叠图形的艺术。折纸的经典规则也运用在圆规、尺子等的使用上。因此，即使是最简单的几何构造也可能变成一个有趣的非标准问题。正四面体的折叠从这个任务开始：需要在一张纸上勾勒出形成正三角形网络的ssybys（图1;图上的蓝色虚线是“峡谷”ssyby，红色虚线是“ridge”syby，弧线标记角度为30°）。
+
+想想如何仅使用一个“工具”——纸张本身来做到这一点；解决方案在下一期。使用准备好的订书钉折叠的顺序如图 2-7 所示。每个图上的颜色表示该页上纸张折叠的线。此时A 1 和A 2 与A结合，B 1 和B 2 与B结合，从而得到四面体ABCD。边AB₁应装入正方形顶部的架子沿线A₁B（图3、4）折叠形成的口袋中，AB2应装入沿线A2B（图4-6）的口袋中。
+
+D.K.

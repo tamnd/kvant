@@ -1,0 +1,60 @@
+---
+id: 1989-6-gik-kompyuter-obyigryivaet-grossmeystera-519aacd4
+issue: kvant_1989_6
+year: 1989
+number: "6"
+title: 电脑打败大师
+authors:
+  - Гик Е. Я.
+rubric: shahmatnaya-stranichka
+rubric_sub: Шахматы
+page_first: 83
+page_last: 83
+tag: BZOU
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: e9e0c4d9d043bd57f8fd0c61a7dfc63943e79dae4c2432375c1fd66c19825e39
+prompt_sha256: draft-1
+translated_from: content/ru/1989/06/articles/02_gik-kompyuter-obyigryivaet-grossmeystera-519aacd4.md
+source_content_sha256: 880f55812b67770a7f2eaa40ee1d034e1abb5aeeed2a648f88b4b2d18d1aa071
+translation_model: draft
+translation_run: zh-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+电脑
+调查
+棋圣
+
+时间过得很快。就在最近我们在«Kvant»中写道，国际象棋计算机下得更好是因为它们是候选大师，但现在新的信息来了：国际象棋机器人已经达到了强大师的水平，甚至正在“瞄准”特级大师。我们谈论的是两台计算机（程序）——“Hitech”和“Deep South”，它们是由卡内基梅隆大学（美国）创建并由研究人员小组开发的。人们认为，就积累的国际象棋知识量而言，“Hitech”是世界上最先进的机器，其游戏比其他游戏更让人想起人类，而“Deep South”在搜索速度和深度上超越了竞争对手。
+
+1988年美国公开赛汇聚了600多名棋手，其中就有“Deep South”。计算机的表现令人震惊——莎希娜获得了第18名，她在与美国最强的20名国际象棋棋手之一伊万诺夫的比赛中取得成功，这是计算机在都灵首次战胜国际象棋大师。比赛开始前，由于没有使用机器的经验，大师向懂行的人询问：如何对付电脑？他被建议：最重要的是让它脱离常规，伪造理论，以便将机器与其强大的开​​放库“断开”。这就是结果。
+
+“深入南方” - I. Ivanov 斯堪的纳维亚部分
+1.е4 d5。罕见的流量。 2.ed Kf6。现在是一个罕见的选择。更简单的动作会产生错误的位置压力。 3. d4 K:d5 4. c4 Kf6 5. Kf3 Cg4 6. Ce2 e6 7. Ce3 Cb4+ 8. Kbd2 0—0 9. a3 Ce7 10. h3 Ch5 11. 0—0 c6 12. g4 Cg6 13. Kh4 Kbd7 14. K:g6 hg。黑棋被剥夺了任何反击的机会，只会后悔自己胆怯的开局选择。 15.f4 c5 16.g5 Ke8 17​​.Ke4 Kd6 18.K:d6 C:d6 19.b4 cb 20.c5 Cc7 21.ab a6 22.Qc2 Qe7 23.Qe4 b6 24.Qb7 Rfc8 25.C:a6 e5 26.fe bc。
+
+计算机显然阻止了敌人的战术尝试。 27. Cc4 Lab8 28. R:f7 R:b7 29. Rf4+。黑人投降了。
+
+1989 年除夕夜，在长滩（加利福尼亚州）举行的一场节日国际锦标赛上，“深南”成为真正的国际象棋明星——他自信地击败了特级大师 B. 拉森，与其他著名特级大师 E. 迈尔斯分享了第一名。 Bot是计算机首次战胜特级大师。
+
+V. Larsen - “Deep South” 英语开头
+1. c4 e5 2. g3 Kf6 3. Cg2 c6 4. Kf3。更常见的是，我们会遇到 4. d4 ed 5. Q:d4 d5 6. Kf3 Ce7 7. cd cd 8. 0—0 Kc6 9. Qa4，由于形成了被对手利用的棋子，白棋的棋子略好。然而，好的骑士举动是众所周知的。 4… e4 5. Kd4 d5 6. cd Q:d5 7. Kc2 Qh5 8. h4 Cf5。奇怪的是，到目前为止，一切都可以在理论上找到，包括极端白棋的可疑动作（比8.h3更可靠）。但布莱克的最后一步棋在计算机上是一件新鲜事，而且显然不是一个坏棋。借方理论显示选项 8... c5 9. b4 Cb6 10. Cb2 Qg6 11. Kc3 Cf5 12. Ka4 Kbd7 13. K:b6 ab 具有中立玩法。
+
+9. Ke3 Cc5 10.Qb3 b6 11.Qa4 0-0 12.Kc3 b5 13.Qc2 C:e3 14.de Je8。黑棋处于弱势地位，大师试图动摇它的努力毫无结果。 15.a4 b4 16.Kb1 Kbd7 17.Kd2 Re6 18.b3 Rd8 19.Cb2 Cg6 20.Kc4 Kd5 21.0—0 K7f6 22.Ch3 Cf5 23.C:f5 Q:f5 24.f3 h5 25.Cd4 Rd7 26.Kpb2 Rlc7 27.g4？
+
+拉森因找不到电子伙伴的钥匙而感到沮丧，他决定进行游戏中必要的对决，但“深南”很容易理解战术上的复杂性。 27…hg 28.Jlhg1 c5！ 29. fg K:g4 30. C:g7 Jlg6！也许大师在 30 级比赛... Kp:g7 31. Jl5:d5！ Q:d5 32. R:g4+，棋盘上的情况非常混乱。然而，机器本身利用了“g”线的优势。
+
+31. Qd2 Rd7 32. R:g4 Jl:g4 33. Ke5 K:e3！ 34. Q:d7 K:d1+ 35. Q:d1 Jlg3 36. Qd6 Kp:g7 37. Kd7 Jle3 38. Qh2 Kph7 39. Kf8+ Kph8 40. h5 Qd5 41. Kg6+ fg 42. hg+Kpg7 43. Qh7+ Kpf6。白人投降了。
+
+初步计算加州比赛成绩显示，“Deep South”等级在2400到2500之间，即计算机的实力介于特级大师和国际大师之间。
+
+人们已经熟悉的“Hitech”并不落后于“Deep South”（见«Kvant»，1987年第5期）。最近，计算机赢得了宾夕法尼亚裤子锦标赛，并战胜了一位国际高手——E.福马内克（E. Formanek），取得了巡回赛的首场胜利。这台机器以前就已经战胜过熟练的高手，在与“非高手”的办公室会议上，它的比分是15:0！
+
+“高科技”能否在直接大师中取得成功？令人惊讶的是，正是有了这台机器，1988年，两届美国冠军、75岁的A. Denekr作为第一位在发球比赛中输给电脑的特级大师被载入吉尼斯世界纪录。与Hitech的四场对决以0.5:3.5的毁灭性比分结束。 Denekr 非常 LECTO 谈到了他的电子罪犯的游戏，特别指出了 EVM 出色的开局准备及其在紧急情况下的非凡独创性。
+
+无论如何，机器已经对强大的国际象棋棋手构成了巨大的危险。
+
+E.雅。吉克

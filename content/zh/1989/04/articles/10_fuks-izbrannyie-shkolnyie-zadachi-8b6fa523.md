@@ -1,0 +1,63 @@
+---
+id: 1989-4-fuks-izbrannyie-shkolnyie-zadachi-8b6fa523
+issue: kvant_1989_4
+year: 1989
+number: "4"
+title: 选定的学校问题
+authors:
+  - Фукс Д. Б.
+rubric: shkola-v-kvante
+page_first: 44
+page_last: 44
+page_labels: "42"
+tag: L18B
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 8d263cb4c13e3c0a5b5856185294aa3075353bdfb55d830d32d5068b40231477
+prompt_sha256: draft-1
+translated_from: content/ru/1989/04/articles/10_fuks-izbrannyie-shkolnyie-zadachi-8b6fa523.md
+source_content_sha256: a3147fc716100937aac4be5706652d2de9885990843d020fd74bba89541157e5
+translation_model: draft
+translation_run: zh-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 42⟧
+
+我的位于 $-\frac{\pi}{2}; \frac{\pi}{2}$ (图 6) 区间。靠近点 $x$ 的线段被函数 $f$ 拉伸 $f'(x) = \frac{1}{\cos^2 x}$ 倍。这意味着靠近点 $y = tg x$ 的线段被函数 $g$ 拉伸了 $(1 : \frac{1}{\cos^2 x}) = \cos^2 x$ 倍。因此，$g'(y) = \cos^2 x$。剩下的就是用 $y$ 表达右侧。为此，我们使用身份$\cos^2 x = \frac{1}{1 + tg^2 x}$。由此我们得到$g'(y) = \frac{1}{1 + tg^2 x} = \frac{1}{1 + y^2}$。
+
+所以，$(\arctg y)' = \frac{1}{1 + y^2}$。有趣的是，反三角函数的导数是由一个非常简单的表达式给出的，该表达式不包含与三角学相关的任何内容。
+
+S·M·洛夫斯基
+
+选定的学校问题
+
+八年级
+1. 自然数$m$和$n$使得$m > n$、$m$不能被$n$整除，并且除以$n$所得的余数与除以$m - n$所得的$m + n$相同。求出比率 $m:n$。
+2. 证明由自然数组成的每一个无限算术级数都包含无限几何级数。
+3. 对于什么$a$和$b$，方程$x^2 + a|x| + b = 0$有4个解？
+4. 在正方形内部，边1上有一个三角形，每条边至少为1。证明正方形的中心位于这个三角形内部。
+5. 在平面上给出两个不相等的圆。求连接一个圆上的点与另一个圆上的点的线段中点的轨迹。
+
+九年级
+6. 解方程
+$$2^{[x^2 - 4]} = 3^{[1/x]}.$$
+7. 求解方程组
+$$\begin{cases} x^{99}y^{99} + 3x^2 - y^2 = 3, \\ x^{99}y^{99} + 2x^2 - 2y^2 = 1, \\ x^{99}y^{99} - x^2 - 3y^2 = -3. \end{cases}$$
+8. 多项式$a_0x^n + a_1x^{n-1} + \dots + a_n$在所有整数点$x$处取整数值。它的系数$a_i$之一可以等于1/13吗？
+
+9. 数列的前一百项中有多少个正数？
+$$\sin 1^\circ, \sin 10^\circ, \sin 100^\circ, \sin 1000^\circ, \dots$$
+10. 某条线段在正三角形两条边上的投影分别等于 2 和 3。求该线段在第三条边上的投影。
+
+十年级
+11. a) 三角形最短边的长度为$a = 1$，最长边的长度为$b = 2$，其中一个角为$\varphi = 30^\circ$。求第三条边的长度。 6）通过正确选择数字$a, b, \varphi$（当然是$a > 0, b > 0, 0 < \varphi < 180^\circ$），上一个问题最多可以有多少个解？
+12. 首项系数为 1 和有理系数的库比斯方程和二次方程有一个共同的解。证明立方方程有有理解。
+13. 函数 $y = (x - a)^4 + (x - b)^4 + (x - c)^4$ 的最小值为 0，函数 $y = (x - a)^4 + 2(x + b)^4 + (x - c)^4$ 的最小值为 4。找到 $a, b$ 和 $c$。
+14. 查找所有 $x$
+$$\sin x \leq \sin 2x \leq \dots \leq \sin 10x.$$
+15. 证明用一个平面切割三角形时，所有三角形都具有平面直线，可以得到任意锐角三角形。
+
+出版物编写者：
+D·V·福克斯

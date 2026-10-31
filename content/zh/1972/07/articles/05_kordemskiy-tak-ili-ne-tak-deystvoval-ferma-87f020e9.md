@@ -1,0 +1,61 @@
+---
+id: 1972-7-kordemskiy-tak-ili-ne-tak-deystvoval-ferma-87f020e9
+issue: kvant_1972_7
+year: 1972
+number: "7"
+title: 费马是否这样做过？
+authors:
+  - Кордемский Б. А.
+rubric: osnovnye-stati
+page_first: 13
+page_last: 13
+page_labels: "11"
+tag: 8BRT
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 8fbf3b12e76333b924cd964f5a342de6812d1635120c88976031c5197067eb61
+prompt_sha256: draft-1
+translated_from: content/ru/1972/07/articles/05_kordemskiy-tak-ili-ne-tak-deystvoval-ferma-87f020e9.md
+source_content_sha256: d7aeb4d713e20bb86f455f0f246642fbcd3d1bc67885cc2cdc201e0383f357dd
+translation_model: draft
+translation_run: zh-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 11⟧
+
+费马是否这样做过？
+（关于数字的因式分解）
+
+B·A·科德姆斯基
+
+著名的皮埃尔·费马的名字有很多秘密。然而，他收到一封信，询问：“100895598169是素数吗？”费马立即回应说，这个十二位数是两个素数的乘积：898423和112303。
+
+他没有透露研究这个数字的方法。
+
+为了简洁起见，寻找自然数的质因数被称为“因式分解”（“因数”是指对常用单词的一组引用）。此外，借助电子计算机等辅助手段，对大数进行因式分解是一项极其劳动密集型的任务，“手动”完成就更困难了。前几个素数（2、3、5、7、11...）很容易检查其作为测试数的可能因子的自然性 - 根据已知的可被这些数整除的符号。简化计算和被任何后续素数整除的符号的含义*)。
+
+同样清楚的是，对于任何给定的数字$N$，测试小于$V\overline{N}$的素数作为可能的因子就足够了。事实上，如果数字$N$有一个因子$m > V\overline{N}$，那么它对应于$N$除以$m$的结果，以及小于$V\overline{N}$的某个因子。
+
+作为因式分解技术，您可以使用著名的欧几里得算法。
+
+*) 例如，参见 «Kvant» No. 6, 1970, p. 19 和 7 整除标准的注释。 10.
+
+clid 求两个数字的最公约数 (GCD)。您可能还记得，它由以下内容组成 *)：我们找到大数除以小数的余数 $r_1$，然后找到前一个除数除以 $r_1$ 的余数 $r_2$，然后找到 $r_1$ 除以 $r_2$ 的余数 $r_3$，等等。随后的非零余数（它肯定存在，因为数 $r_i$ 正在递减），是给定数的最大公约数（如果等于 1，则它们互质）。
+
+例如，将此算法应用于数字 104 和 39：
+
+104：39=2（余数26）；
+39：26（余下13）；
+26：13 = 2（余数 0）。
+
+答案：GCD (104.39) = 13。
+
+如何将欧几里得算法应用于数字分解？
+
+为了确定数字$N$的素数因子，形成了另一个数字$P$——从数字$N$的“可疑”因子中最小的所有素数到所有素数中最小的小于$\sqrt{N}$的所有素数的乘积。我们将对这些数字 $N$ 和 $P$ 应用欧几里得算法。
+
+例如，$N = 851$。我们注意到$\sqrt{N} < 31$。我们通过整除标准确定$N$不能被3、7、11、13整除。此外，很明显851除以17后余数为1。剩下来测试$N$能否被19、23和29整除。对于像851这样的小数，通过简单的除法很容易做到
+
+*) A. N. Vilenkin “Reduction of algebraic Fractions” («Kvant» No. 11, 1970) 和 Vaguten “Euclidean Algorithm and the Fundamental Theorem of Alphametic” («Kvant» No. 6, 1972) 的文章中给出了使用 Euclid 算法的理由和示例。
