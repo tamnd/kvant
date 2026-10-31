@@ -1,0 +1,45 @@
+---
+id: 1971-8-altyikis-marki-posvyaschennyie-sozdatelyam-yadernoy-fiziki-ea0b5d08
+issue: kvant_1971_8
+year: 1971
+number: "8"
+title: Tem dành riêng cho những người tạo ra vật lý hạt nhân
+authors:
+  - Алтыкис А. В.
+rubric: raznoe
+rubric_sub: Разное
+page_first: 64
+page_last: 64
+page_labels: "62"
+tag: KV53
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 71d336e3402de7e9724e99d160c196f151b7141e5db21e2c89b8d499b2dfcd1c
+prompt_sha256: draft-1
+translated_from: content/ru/1971/08/articles/12_altyikis-marki-posvyaschennyie-sozdatelyam-yadernoy-fiziki-ea0b5d08.md
+source_content_sha256: 963ffc22c6411907db33d4492a807969e77e3f3e40174f9c5c7503fb40d6fb4d
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 62⟧
+
+TEM DÀNH CHO NHỮNG NGƯỜI SÁNG TẠO VẬT LÝ HẠT NHÂN
+
+Trong số này, chúng ta kỷ niệm 100 năm ngày sinh của nhà vật lý lỗi lạc người Anh Ernest Rutherford, một trong những người sáng lập ngành vật lý hạt nhân nguyên tử. Năm 1908, ông được trao giải Nobel cho nghiên cứu về chất phóng xạ. Một con tem Thụy Điển năm 1988 kỷ niệm những người đoạt giải Nobel năm 1908 có hình Rutherford đầu tiên từ bên phải. Trong kế hoạch thứ hai và thứ ba có bác sĩ nổi tiếng người Đức Paul Ehrlich và nhà sinh vật học xuất sắc người Nga Ilya Ilchikh Mechnikov.
+
+Albert Einstein đã có đóng góp to lớn cho vật lý hạt nhân. Công thức nổi tiếng của ông $E=mc^2$, kết nối năng lượng và khối lượng, làm nền tảng cho năng lượng hạt nhân. Chúng ta thấy chân dung của Einstein trên một con tem Paraguay phát hành năm 1965.
+
+Một nhà vật lý vĩ đại khác đã nâng cao đáng kể sự hiểu biết của chúng ta về bản chất của hạt nhân nguyên tử là nhà khoa học người Đan Mạch Niels Bohr, người có chân dung được in trên một con tem Đan Mạch năm 1963. Con tem có mô hình hành tinh của nguyên tử và công thức $hv=E_2-E_1$, xác định năng lượng bức xạ của nguyên tử.
+
+Nhà vật lý người Pháp Frédéric Joluccior, cùng với vợ ông là Irene, đã phát hiện ra tính phóng xạ nhân tạo của hạt nhân nguyên tử vào năm 1934. Ông được in hình trên một con tem của Liên Xô phát hành năm 1958.
+
+Lò phản ứng nguyên tử đầu tiên được xây dựng ở Mỹ vào năm 1942 dưới sự lãnh đạo của nhà vật lý người Ý Enrico Fermi. Một con tem của Ý từ năm 1967 có hình Fermi trong phòng thí nghiệm nơi lò phản ứng được lắp đặt.
+
+Ở Liên Xô, viện sĩ Igor Vasilyevich Kurchatov đã bắt đầu nghiên cứu bản chất của hạt nhân nguyên tử trong một thời gian dài. Nhân kỷ niệm 60 năm ngày sinh của I.V. Kurchatov, chúng tôi đã phát hành một con tem có chân dung của anh ấy.
+
+Năm 1956, Viện nghiên cứu hạt nhân chung bắt đầu hoạt động tại thành phố Dubna. Các nhà khoa học từ các nước xã hội chủ nghĩa làm việc thành công ở đó. Một con tem dành riêng cho lễ kỷ niệm 10 năm hoạt động của viện này được phát hành vào năm 1966 tại Hungary. Nó cho thấy vị trí của một trong những máy gia tốc hạt tích điện lớn nhất - một synchrophasotron có năng lượng 10 tỷ electron.
+
+A. V. Aimyks

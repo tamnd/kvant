@@ -1,0 +1,29 @@
+---
+id: 1971-12-simpozium-k-400-letiyu-i-keplera-43a0c2ed
+issue: kvant_1971_12
+year: 1971
+number: "12"
+title: '[Hội nghị chuyên đề kỷ niệm 400 năm của J. Kepler]'
+rubric: raznoe
+page_first: 68
+page_last: 68
+tag: VI3B
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 257176abf18f811443cb5a9f5a55b767ebe9cd294ee8cf2f963697a2c56d0011
+prompt_sha256: draft-1
+translated_from: content/ru/1971/12/articles/01_simpozium-k-400-letiyu-i-keplera-43a0c2ed.md
+source_content_sha256: b93f637b4f45477d97d67d006fdf80e7e7acbd97b384bd1f1a185e41ce52d3a5
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+Vào ngày 26-28 tháng 8, Hội nghị chuyên đề quốc tế kỷ niệm 400 năm ngày sinh của nhà vật lý, thiên văn học và toán học vĩ đại Johannes Kepler đã diễn ra tại Leningrad. Các nhà khoa học đến từ nhiều nước đã thuyết trình.
+
+Nhân dịp kỷ niệm này, một huy chương đã được say, chúng tôi đặt chiếc simok có hình con mèo ở đây. Mặt trái của nó, cần lưu ý rằng hội nghị chuyên đề diễn ra trong khuôn khổ Đại hội Quốc tế lần thứ XIII về Lịch sử Khoa học, được tổ chức ở nước ta.
+
+Không phải ngẫu nhiên mà Leningrad được chọn làm địa điểm tổ chức lễ kỷ niệm hội nghị chuyên đề. Kho lưu trữ của Viện Hàn lâm Khoa học ở Leningrad có 18 tập được đóng bìa da trắng và chứa tất cả các sách hướng dẫn của Kepler. 3 tập khác được lưu giữ trong thư viện ở Vienna. Sách hướng dẫn của Kepler được chính phủ Nga mua vào năm 1774. Nhiều tài liệu hướng dẫn vẫn chưa được xuất bản. Hướng dẫn của Kepler đã được giới thiệu tại một cuộc triển lãm đặc biệt tại Cung thiên văn Leningrad, nơi diễn ra các phiên hội nghị chuyên đề.
