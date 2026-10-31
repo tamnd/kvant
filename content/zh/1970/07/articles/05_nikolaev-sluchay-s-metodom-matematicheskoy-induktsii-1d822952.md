@@ -1,0 +1,102 @@
+---
+id: 1970-7-nikolaev-sluchay-s-metodom-matematicheskoy-induktsii-1d822952
+issue: kvant_1970_7
+year: 1970
+number: "7"
+title: 数学归纳法的案例
+authors:
+  - Николаев Е. Г.
+rubric: osnovnye-stati
+page_first: 39
+page_last: 39
+page_labels: "37"
+tag: LCG3
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: a7b61dc05a3dd4245397ea26500d33d3877823f8059efad9dd7cd4f3c137c661
+prompt_sha256: draft-1
+translated_from: content/ru/1970/07/articles/05_nikolaev-sluchay-s-metodom-matematicheskoy-induktsii-1d822952.md
+source_content_sha256: 9e725fd59a4e5a787dc1a883eae219ea517aa4825279ca3be6ef00353b7b9790
+translation_model: draft
+translation_run: zh-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 37⟧
+
+数学归纳法的案例
+
+有一天，一位老师给十年级的学生布置了以下家庭作业：
+
+尝试用数学归纳法证明对于任意自然数$n$不等式成立
+
+$$P_n = \frac{1 \cdot 3 \cdot 5 \dots (2n-1)}{2 \cdot 4 \cdot 6 \dots 2n} < \frac{1}{\sqrt{n+1}}.$$
+
+Kolya V. 在家里找到了以下解决方案；
+
+a) 对于$n = 1$，不等式成立，因为
+
+$$P_1 = \frac{1}{2} < \frac{1}{\sqrt{2}}.$$
+
+6) 让我们证明不等式 $P_{n+1} < \frac{1}{\sqrt{n+2}}$ 的有效性源自条件 $P_n < \frac{1}{\sqrt{n+1}}$。要做到这一点就足以表明
+
+$$\frac{P_{n+1}}{P_n} < \frac{\sqrt{n+1}}{\sqrt{n+2}},$$
+
+或者
+
+$$\frac{2n+1}{2n+2} < \sqrt{\frac{n+1}{n+2}},$$
+
+或者
+
+$$(2n+1)^2(n+2) < 4(n+1)^3.$$
+
+或者
+
+$$4n^3 + 12n^2 + 9n + 2 < 4n^3 + 12n^2 + 12n + 4,$$
+
+或者
+
+$$0 < 3n + 2,$$
+
+这显然是正确的。因此，从数学归纳原理可以得出一个相当可证明的不等式。
+
+然而，在学校讲述这个解决方案时，Kolya 忘记在分母中加上一个，并开始证明一个更“严重”的不平等：
+
+$$P_n < \frac{1}{\sqrt{n}}.$$
+
+这是他得到的：
+
+a) 对于$n = 1$，不等式成立，因为
+
+$$P_1 = \frac{1}{2} < \frac{1}{1}.$$
+
+6) 让我们证明条件 $P_n < \frac{1}{\sqrt{n}}$ 蕴涵 $P_{n+1} < \frac{1}{\sqrt{n+1}}$。要做到这一点就足以表明
+
+$$\frac{P_{n+1}}{P_n} < \frac{\sqrt{n}}{\sqrt{n+1}},$$
+
+或者
+
+$$\frac{2n+1}{2n+2} < \sqrt{\frac{n}{n+1}},$$
+
+或者
+
+$$(2n+1)^2(n+2) < 4(n+1)^3n,$$
+
+或者
+
+$$4n^3 + 12n^2 + 9n + 2 < 4n^3 + 12n^2 + 12n + 4,$$
+
+或者
+
+$$0 < 3n + 2,$$
+
+这显然是正确的。因此，从数学归纳原理可以得出一个相当可证明的不等式。
+
+对于那些理解这个问题的人，我们建议证明两个不等式：
+
+1. $P_n < \frac{1}{\sqrt{3,1n}}$.
+
+有趣的是，在这个不等式中，系数 3.1 不能用 3.2 代替。保持正确的最大系数是 π（周长与直径的比率）。
+
+2. $\frac{1}{2^3} + \frac{1}{3^3} + \dots + \frac{1}{n^3} < \frac{1}{4}$.
