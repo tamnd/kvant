@@ -1,0 +1,59 @@
+---
+id: 1976-2-chemu-raven-odin-god-0a814bb2
+issue: kvant_1976_2
+year: 1976
+number: "2"
+title: What is one year equal to?
+rubric: raznoe
+rubric_sub: Разное
+page_first: 29
+page_last: 29
+page_labels: "27"
+tag: SNZX
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 7e0518a3c330fdab3b19c6943ba15d0bdfede3ebaf9f361f6ff138c1bdeabcc8
+prompt_sha256: draft-1
+translated_from: content/ru/1976/02/articles/06_chemu-raven-odin-god-0a814bb2.md
+source_content_sha256: 52f00e119269e130bc921522ae0b8a5faa4131e0dcd88366799bda920c230e59
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 27⟧
+
+The relative theory is an indispensable apparatus in the study of the properties of the Universe. Currently, there are many models of the Universe. The validity of them, which of them actually describes the properties of the Universe, can be judged by the results of experiments. But these experiments with results are complex, many of them are still only “mental”, and modern science does not have the capabilities to carry them out. But among these models there are those according to which the geometry of space is the geometry of Lobachevsky.
+
+The geometric properties of the Universe change over time; astronomers see galaxies and quasars scattering; quite recently, the first “black hole” was discovered in the constellation Cygnus—a point where densities turn to infinity and lengths become zero. And science can explain these phenomena only because 150 years ago, on the banks of the Volga, the young Kazan mathematician Nikolai Lobachevsky asked: is it really true that through a point outside a line it is possible to prove only one straight line that does not intersect this one? Who would have thought then that this was one of the most tricky questions that nature has ever asked man.
+
+Physicists joke
+
+What is one year equal to?
+
+Recently, the remarkable American physicist R. Feynman expressed an important cosmological hypothesis:
+
+$$1 \text{ год} = \pi \cdot 10^7 \text{ сек},$$
+
+(1) where π is the Archimedes number.
+
+Let us prove this interesting hypothesis correctly.
+
+It is known that the Earth moves around the Sun in a circular orbit, the radius of which is $R = 150 \text{ мл. км.}$ The orbital speed of the Earth is $\sigma = 30 \text{ км/ сек.}$
+
+If at such a constant speed the Earth moved not along the orbit itself, but along its diameter, then it would pass from one “edge” of the orbit to the other in time
+
+$$t = \frac{2R}{v} = \frac{2 \cdot 150 \cdot 10^6}{30} = 10^7 \text{ сек.}$$
+
+(2)
+
+By definition, one year is the time it takes for the Earth to orbit around the Sun. It is clear that this time is related to the time $t$ found above, as the circumference of the orbit is to its diameter. The last relation for any circle, according to Archimedes, is π. It follows that $1 \text{ год} = \pi \cdot t$. Substituting here the value $t$ from (2), we arrive at formula (1).
+
+So, we have proven Feynman's hypotheses true. Moreover, we have clarified the physical meaning of CONSTANTES $10^7$ included in formula (1).
+
+To test the validity of Feynman's hypothesis, the following experiment was carried out: using the Mayak clock, we determined the duration of 1975. It turned out to be equal to $3,15 \cdot 10^7 \text{ сек.}$. Formula (1) gives $3,14 \times 10^7 \text{ сек.}$. We are inclined to think that the resulting discrepancy between theoretical and observed data is the result of one of the following two effects: a) the Earth’s orbit is different from circular, b) space-time is curved.
+
+It is remarkable that our resequence allows us to generalize Feynman's hypothesis to other planets.
+
+1976, January, Biopacan Observatory

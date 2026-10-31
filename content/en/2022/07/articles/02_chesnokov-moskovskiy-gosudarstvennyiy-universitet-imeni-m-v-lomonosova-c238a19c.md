@@ -1,0 +1,55 @@
+---
+id: 2022-7-chesnokov-moskovskiy-gosudarstvennyiy-universitet-imeni-m-v-lomonosova-c238a19c
+issue: kvant_2022_7
+year: 2022
+number: "7"
+title: Moscow State University named after M.V. Lomonosov
+authors:
+  - Чесноков С. С.
+rubric: ekzamenatsionnye-materialy
+rubric_sub: Экзаменационные материалы
+page_first: 53
+page_last: 53
+page_labels: "51"
+tag: P5XU
+lang: en
+source: kvant_digital
+extraction: native
+content_sha256: 75911f6692c20f16834b10a9e8e3bbd33f23c49fc44266be42c1ca6244d47e18
+prompt_sha256: draft-1
+translated_from: content/ru/2022/07/articles/02_chesnokov-moskovskiy-gosudarstvennyiy-universitet-imeni-m-v-lomonosova-c238a19c.md
+source_content_sha256: cef5e22049d9a774a223be1d711ead2c9239c6e630a720683f0e9a6189155182
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 51⟧
+
+EXAMINATION
+
+⟦figure⟧
+
+Fig. 13
+
+magnetic field. The magnetic flux through the circuits increases linearly with time: $)_{1} 2 H t, ) 2 3 H t$, where H 0.004 V. Determine the current I in the wire at the common boundary of the circuits.
+
+Option 2
+
+1. Two weights are thrown simultaneously from one point on a horizontal surface with equal speeds $v_{0}^{15} м^{с}$. The first load is thrown vertically, and the second at an angle D 30 q to the horizontal. How long will it take the first weight to move in a straight line if it is tied to the second with a light thread $l^{3}$ m long? Gravity acceleration g 10 m $с^{2}$. Neglect air resistance. 2. A load suspended on a light spring was displaced from its equilibrium position vertically and released without a push. It began to descend with acceleration $a g^{4}$ and after a time $T^{2} c$ returned to the starting point. Determine the distance traveled by the load during this time. Gravity acceleration g 10 m $с^{2}$. Neglect air resistance.
+
+MATERIALS
+
+⟦column⟧
+
+3. A monatomic ideal gas undergoes a cyclic process 1–2–3–4 (Fig. 14), consisting of two isobars and two adiabats. During isobaric expansion of a gas, its internal Fig. 14 The energy increases by ' U, and during isobaric compression, work A is performed on the gas. Determine the efficiency of the cycle. 4. Spot $заряды^{3q,} q$ and Q are located on the same straight line away from other charged bodies so that the electric force acting on each charge is zero. Define the ratio Q q. 5. Electrical circuit conductors (Fig. 15) lie in the same plane. The magnetic field induction vector is perpendicular to this plane, and the magnitude of the induction vector B increases with time t according to the law B E t, where $E^{15} Тл^{c}$. The area of ​​each of two adjacent contours is Fig. 15 ditch $S 10 см^{2}$. Determine the voltage across resistor R if: a) switch K is open; b) key K is closed.
+
+The publication was prepared by G. Gaidukov, I. Gorbaty, I. Fedorenko
+
+Moscow State University named after M.V. Lomonosov
+
+Profile exam in physics
+
+$В^{2022}$ in connection with the ongoing spread of coronavirus infection, the specialized exam (additional entrance test) in physics at Moscow State University and its Sevastopol branch was held in a remote format on the portal https: exam.distant.msu.ru
+
+To participate in the exam, the following technical requirements were imposed on the test subject's workplace. 1) Availability of a laptop (preferably), personal computer, smartphone or tablet with a stable Internet connection (without interruptions during the test and a minimum speed of $от^{5}$ Mbit $с).^{2)}$ When connected

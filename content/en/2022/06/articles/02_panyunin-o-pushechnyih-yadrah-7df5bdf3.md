@@ -1,0 +1,61 @@
+---
+id: 2022-6-panyunin-o-pushechnyih-yadrah-7df5bdf3
+issue: kvant_2022_6
+year: 2022
+number: "6"
+title: About cannonballs
+authors:
+  - Панюнин Н. М.
+rubric: iz-istorii-nauki
+rubric_sub: Из истории науки
+page_first: 24
+page_last: 24
+page_labels: "22"
+tag: ABGV
+lang: en
+source: kvant_digital
+extraction: native
+content_sha256: 87df4e5cc444f3822423da3e8bf19c21502a3ddc14d910f5c6f9481397fa5028
+prompt_sha256: draft-1
+translated_from: content/ru/2022/06/articles/02_panyunin-o-pushechnyih-yadrah-7df5bdf3.md
+source_content_sha256: e769774d710917132c63150a77fd5031bd6fa61ff4d5dff204fb4786c858616a
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 22⟧
+
+KVANT 2022/№6
+
+Table 2
+
+⟦column⟧
+
+Overall result: the quotient is 139, the remainder is 4. For numbers with a larger number of digits, all reasoning is similar. An example of dividing the number 536027 is given by figure 9
+
+Table 3 by 4 (only a fragment of bars related to division by 4 is shown). Result: quotient is 134006, remainder 3.
+
+⟦figure⟧
+
+Fig. 9
+
+For a three-digit dividend, for example 838, the first two digits of the quotient are determined similarly, this is 13, and the remainder is 5. In the column for the number 8 in the last row we have - number: 9; – remainder: 4.
+
+In addition to instruments for multiplication and division, there was also a device for carrying out financial calculations. It made it possible to calculate the amount of money that would be credited by the bank in one day at a particular interest rate. The resulting daily interest rate amount, when multiplied by the number of days using multiplication bars, gave the total amount for all days. The popularity of Genay-Luc bars was great, but short-lived; at the beginning of the twentieth century they were replaced by mechanical calculating devices - adding machines. As they say, technological progress cannot be stopped...
+
+CANNONBALL PROBLEM
+
+(in one layer), and in the shape of a pyramid with a square at the base.
+
+French mathematician Edouard Lucas is known for his work on number theory. For example, one of the criteria for the primeness of Mersenne numbers bears his name, i.e. numbers of the form $2^{n} - 1, где^{n}$ – natural number. Lucas proved the prime number $2^{127} - 1$; for several decades it remained the largest prime number known to science. During the Franco-Prussian War (1870–1871), Luca served as an artilleryman. Perhaps it was at that time that the next task occurred to him.
+
+Find the number of cannonballs that can be placed in a square shape
+
+The problem can be easily reformulated in the language of Diophantine equations.
+
+Find all $натуральные^{k,} n$ such that
+
+$k (^{k} + 1 ) ( 2^{k} + 1 ) = n^{2}. 6$
+
+Two $решения:^{k} 1,^{n} 1 и^{k} 24,^{n} 70$ were found by Luke himself. However, the problem was completely solved only in 1918 using the apparatus of elliptic functions: it was proven that there were no other solutions. N. Panyunin
