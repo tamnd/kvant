@@ -1,0 +1,63 @@
+---
+id: 1973-2-dyakonov-mordkovich-nasluzov-televizionnyie-fiziko-matematicheskie-kursyi-dlya-postupayuschih-v-vuzyi-74a86627
+issue: kvant_1973_2
+year: 1973
+number: "2"
+title: 为大学申请者提供的电视物理和数学课程
+authors:
+  - Дьяконов И. А.
+  - Мордкович А. Г.
+  - Наслузов И. И.
+rubric: raznoe
+rubric_sub: Разное
+page_first: 69
+page_last: 69
+page_labels: "67"
+tag: 2B4K
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 6be453d34fe7032d076f62e8db62fa240a936ff6bc4aac2a4aeecb785c8791b1
+prompt_sha256: draft-1
+translated_from: content/ru/1973/02/articles/14_dyakonov-mordkovich-nasluzov-televizionnyie-fiziko-matematicheskie-kursyi-dlya-postupayuschih-v-vuzyi-74a86627.md
+source_content_sha256: 99c73da81369ffb5d8cef107d7170d8fda58000375523720ffa93ecce5869d6e
+translation_model: draft
+translation_run: zh-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 67⟧
+
+为大学申请者提供的电视物理和数学课程
+
+本期我们继续发布电视课程材料。
+一月至二月物理系课程学习了以下主题：
+1) 电费。电场。
+2) 电场中的导体和电介质。电容量。
+3) 静电。解决问题。
+4) 电流。传导机制。电路一段的欧姆定律。
+5) 电动势。完整电路的欧姆定律。焦耳-楞次定律。
+6) 电流。解决问题。
+我们邀请您发挥自己的优势来解决一些典型问题。
+1. 两个金属球具有相同的电荷。每个电荷的大小为 $q = +10^{-9}$ k。用细导体连接球后，它们的电势等于 $\phi = 120$ v。如果第二个球的容量为 $C_2 = 10$ kkf，请确定第一个球的半径。
+2. 刺半径$R = 20$cm的刺水平排列，均匀带电，电荷密度$q = +10^{-7}$k/cm。质量为 $m = 5$ e 且电荷为 $q_1 = -10^{-8}$ k 的物体开始从环的中心落下。求物体距环平面$h = 30$cm时的加速度。
+3. 直到二月份，在数学远程课程中，除了上一期《Kurnal》中列出的主题外，还研究了以下主题：
+平面测量学 - 类似于平面图形的三角形和多边形，平面图形、圆、面积元素之间的度量关系，在解决平面测量问题中使用三角学；
+按“函数和图”的顺序 - 函数的性质及其在构造函​​数图方面的应用、函数图的应用、互反函数、指数函数和对数函数、对数及其性质。
+
+我们为杂志读者提供有关这些主题的测试。
+控制工作 2
+1. 梯形的底边是 $a$ 和 $b$。求连接对角线中点的线段的长度。
+2. 在三角形$ABC$的边$AB$和$BC$上构造正方形$ADKB$和$BEPC$。证明线段$KE$比三角形$ABC$的中线$BM$大2倍。
+3. 三角形的一个角的三边线将对边分成4厘米和2厘米的线段，到同边的高度等于$\sqrt{15}$厘米。如果已知三角形的边长以整数表示，请求出三角形的边长。
+4. 一个正三角形 $ABC$ 内接于一个圆。在弧 $BC$ 上取投影点 $M$ 并通过弦连接到三角形的顶点。证明$AM = BM + CM$。
+5. 在直角三角形 $ABC$ 的斜边 $AC$ 上构造一个正方形。正方形的中心连接到顶点$B$。如果已知三角形的边长分别为 21 厘米和 28 厘米，那么斜边可以分为哪些线段？
+6. 在梯形 $ABCD$ 中，对角线相交于点 $O$。三角形$BOC$的面积为$b^2$，三角形$AOD$的面积为$a^2$。求梯形的面积（$AD$和$BC$是底）。
+7. 在三角形中，其中一个角等于$60^\circ$，与该角相对的边被内切圆的切点分成线段$a$和$b$。求三角形的面积。
+8. 计算$491-0,25\log 25$
+9. 如果已知$\log_{14}28 = a$，则计算$\log_{49}16$。
+10. 构建函数 $y = \sqrt{\frac{x}{x^2+1}}$ 的图像。
+
+I.A.迪亚科夫，
+A.G.莫德科维奇，
+纳斯卢佐夫

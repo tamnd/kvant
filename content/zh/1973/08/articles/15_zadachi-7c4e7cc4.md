@@ -1,0 +1,48 @@
+---
+id: 1973-8-zadachi-7c4e7cc4
+issue: kvant_1973_8
+year: 1973
+number: "8"
+title: 任务
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 72
+page_last: 72
+page_labels: "70"
+tag: OWFC
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 793a6a31a2eda1ed711b0aa6b18998309934806fadbda18cd858f564b5e15300
+prompt_sha256: draft-1
+translated_from: content/ru/1973/08/articles/15_zadachi-7c4e7cc4.md
+source_content_sha256: ef2d0cb9f50c9d93ad046524d13a7561666b2ac48b9c28fba3d3789546935751
+translation_model: draft
+translation_run: zh-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 70⟧
+
+任务
+
+1. 给定两个连续的自然数$a$和$b$，以及它们的乘积$c$。证明数 $x = a^2 + b^2 + c^2$ 始终是奇数的平方。
+
+2. 这名电工、安装工和工程师的姓氏分别是鲍曼、艾希勒和哈恩，当时正在从布拉格飞往开罗的航班上。从他们的实际谈话中，他们发现：
+a) 鲍曼和工程师要去施工；
+b) 电工和 Haan 永久居住在柏林；
+b) Eichler 比安装人员年轻；
+d) Haan 比工程师年长。
+给出工程师和电工的姓名（答案必须合理）。
+
+3. 列车通过长度为171m的地方需要27秒（从机车离开该地方开始计算到最后一辆车离开），而行人以1m/s的速度走向列车则需要9秒。
+求火车的速度及其长度。
+
+4. 船沿着$AB$上游路线需要4和30分钟，沿着$BA$（下游）路线需要3小时。
+木筏从$B$漂到$A$需要多长时间？
+
+5. 在两次航行之间的中途停留期间，这名水手已经20岁了。这一次，6名队员全部聚集在军官室。
+“我的年龄是游戏的两倍，比驾驶员大六岁，”舵手说道。
+“我比尤加年长，比司机年轻，”老板说道。 - 而且，我比水手大四岁。
+“船员的平均年龄为28岁，”船长介绍道。
+队长几岁了？

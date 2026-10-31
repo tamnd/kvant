@@ -1,0 +1,58 @@
+---
+id: 1972-9-premii-kvanta-2fd6047a
+issue: kvant_1972_9
+year: 1972
+number: "9"
+title: 奖项«Kvant»
+rubric: zadachnik-kvanta
+page_first: 38
+page_last: 38
+page_labels: "36"
+tag: 6TVW
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: a6058e2f6644b5511bbc8bbbb4e1d8065f7f8c0c42ee4a1602dfc500186371e8
+prompt_sha256: draft-1
+translated_from: content/ru/1972/09/articles/08_premii-kvanta-2fd6047a.md
+source_content_sha256: 1dd9d21cd77ff30b8b8a732c8a5a74395ea3ad56602ee8133b1dd4040a41600a
+translation_model: draft
+translation_run: zh-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 36⟧
+
+奖项«Kvant»
+
+该杂志的编辑收到了 3000 多封来信，其中的问题解决方案放在“任务«Kvant»”部分。在这些信件的作者中，社论精选了经常发送特别原创和成功解决方案的学童。他们满载着 1973 年杂志 «Kvant» 的年度订阅。
+
+以下是我们比赛获胜者的姓名：
+
+列昂尼德·布拉金斯基
+伏龙芝，61 号学校；
+
+伊琳娜·布拉托夫斯卡娅
+乌索尔耶-西伯利亚，
+2号学校；
+
+亚历山大·格里戈里安
+巴库，211 号学校；
+
+弗拉基米尔·库斯克
+Rzhev，第 4 学校；
+
+根纳迪·莱文
+古比雪夫，135 号学校；
+
+尤里·卢里
+格罗兹尼，第一学校；
+
+亚历山大·马卡里切夫
+利沃夫，第 14 号学校；
+
+亚历山大·舍斯图克
+尼古拉耶夫，第二学校；
+
+法里德·图赫瓦图林
+塔什干，第 110 号学校。

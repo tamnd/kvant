@@ -1,0 +1,29 @@
+---
+id: 1973-4-uspehi-v-osvoenii-kosmosa-caff955e
+issue: kvant_1973_4
+year: 1973
+number: "4"
+title: 【太空探索的成功】
+rubric: raznoe
+page_first: 84
+page_last: 84
+tag: PCN3
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 06871eab83660087eaa080fa5df914cd57c4a00ddf5be9ccb6a908c2bd1ee451
+prompt_sha256: draft-1
+translated_from: content/ru/1973/04/articles/01_uspehi-v-osvoenii-kosmosa-caff955e.md
+source_content_sha256: ae61d2371ad56e4ed5fde5c36ebbe970b5051792c817535f7935dac8c8dc7f1c
+translation_model: draft
+translation_run: zh-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+1957年10月，随着第一颗人造地球卫星的发射，人类开始系统地探索外太空。从那时起，时间已经过去了很短的时间，但太空研究却取得了令人惊讶的进步！苏联自动站探索了月球、金星和火星。科学对这些天体的了解比上一个世纪的持续观测要多得多。
+
+第一个用于在太空进行长期科学研究的筏式轨道站“礼炮”测试成功。地球上的各种人造卫星通过研究大气中的气象过程、远距离传输信息以及研究地球的水状况来为人类服务。
+
+迄今为止，已有一千多个不同的设备被发射到太空，其中一半是由苏联科学家、工程师和工人之手制造的。我们的航天计划明确区分了三个主要研究领域：近地空间的系统研究，不仅具有科学意义，而且具有重大的现实意义；研究月球和外层空间；探索太阳系的行星。在这些领域中的每一个领域都已经取得了巨大的进步，并且正在展现令人兴奋的前景。

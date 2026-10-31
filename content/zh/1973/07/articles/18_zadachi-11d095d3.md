@@ -1,0 +1,42 @@
+---
+id: 1973-7-zadachi-11d095d3
+issue: kvant_1973_7
+year: 1973
+number: "7"
+title: '[任务]'
+rubric: kvant-dlya-mladshih-shkolnikov
+page_first: 58
+page_last: 58
+page_labels: "56"
+tag: VSLL
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 1a0fa45e9037e9184396999777c99a7e968fc55a89fa94c7a8fe9f6c3fd1aa64
+prompt_sha256: draft-1
+translated_from: content/ru/1973/07/articles/18_zadachi-11d095d3.md
+source_content_sha256: e92c1a7fa9e2ebe2ce4a291182177711e2342cd06fb80123dafa5bef72035b3f
+translation_model: draft
+translation_run: zh-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 56⟧
+
+«Kvant» 适合年龄较小的学生
+
+艺术家 E.V.纳扎罗夫
+
+1. 两位渔民被问到：
+“你的篮子里有多少条鱼？”
+“我的篮子里的鱼是他篮子里鱼的一半，另外还有 10 条。”第一个回答道。 “我篮子里的鱼和他一样多，还有 20 条。”第二个说。 Obonhas 有多少条鱼？
+
+2. 风将气球吹向北方。吊舱顶部的旗帜偏离什么方向？
+
+3. 在图处将一个等边三角形附加到该三角形上，从而获得一个新的三角形。有多少种方法可以做到这一点？
+
+4. 给定两根完全相同的长铁棒。其中之一已被磁化。如何在不使用任何其他物体的情况下确定两根棒中哪一根被磁化了？
+
+5. 在壁橱里我发现了一块长方形的胶合板，被分成了64个正方形（见图）。 “用它做一个棋盘就好了，”我想。但如何呢？帮我把这块胶合板切成两块，这样它们就可以用来把棋盘粘在一起了。
+
+6. 用这样的雪制作雪球很容易，但是当雪温远低于0°C时，雪球就很难制作了。为什么？
