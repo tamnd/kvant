@@ -1,0 +1,35 @@
+---
+id: 1970-10-altyikis-tsentr-otechestvennoy-nauki-5b1f211c
+issue: kvant_1970_10
+year: 1970
+number: "10"
+title: 俄罗斯科学中心
+authors:
+  - Алтыкис А. В.
+rubric: ugolok-kollektsionera
+rubric_sub: Уголок коллекционера
+page_first: 62
+page_last: 62
+tag: TGUN
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 5f0257ffd7577849cbfc12d5164a17069cf781c0eeda65f48feff0cca9e05c19
+prompt_sha256: draft-1
+translated_from: content/ru/1970/10/articles/11_altyikis-tsentr-otechestvennoy-nauki-5b1f211c.md
+source_content_sha256: 384d265c9b50a5feea4924f965192ea9bc5ffec633e3026b1c9d7ee96851dacb
+translation_model: draft
+translation_run: zh-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+角落
+集电极
+俄罗斯科学中心
+
+俄罗斯科学院是该国最高的科学机构，根据彼得一世 (1724 年) 的法令在圣彼得堡成立，并于 1725 年 11 月 12 日他去世后开放。
+第一批院士全部是外国人，其中包括数学家伯努利和欧拉等重要的欧洲科学家。您可以在 1957 年为纪念这位伟大数学家诞辰 250 周年而发行的艺术家 A. Zavyalov 邮票上看到以列宁格勒科学院大楼为背景的莱昂哈德·欧拉 (Leonhard Euler) 肖像。
+第一位俄罗斯院士是最伟大的科学家、作家和诗人，他是阿尔汉格尔斯克省农民的儿子——M. V. 罗蒙诺索夫（M. V. Lomonosov，1711-1765 年）。许多苏联邮票都是献给他的。 1925年，科学院取消建院200周年纪念活动，为纪念这一事件，发行了两张由艺术家N. Alekseev创作的图邮票，上面印有M. V. 罗蒙诺索夫的肖像，背景是列宁格勒科学院大楼。照片中显示了其中之一。
+为了纪念 1945 年学院成立 200 周年，根据艺术家 V. Klimashin 的绘画发行了一套两枚邮票。其中一张上有 M.V. 的肖像。罗蒙诺索夫以列宁格勒科学院大楼为背景，而另一方面 - 莫斯科科学院大楼。

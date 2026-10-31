@@ -1,0 +1,51 @@
+---
+id: 1971-4-k-chemu-privodit-nereshitelnost-91aa2cea
+issue: kvant_1971_4
+year: 1971
+number: "4"
+title: 犹豫不决会导致什么？
+rubric: smes
+page_first: 9
+page_last: 9
+tag: FXDV
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: d10f4c1f87f5988ab6c6c0a3a343c6faf4d841b24fe9995503ff54fdf22207cb
+prompt_sha256: draft-1
+translated_from: content/ru/1971/04/articles/03_k-chemu-privodit-nereshitelnost-91aa2cea.md
+source_content_sha256: 30b235a7ae588bfde179547a13c4992a05953276716f198de6a10f0e8f393512
+translation_model: draft
+translation_run: zh-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+变量，相应的定义类推到一般情况。
+
+另一方面，几何语言的价值在于，直觉可以提出一些结构和方法来解决仅使用代数语言难以解决的问题。 Simplesk 方法提供了这种技术的一个很好的例子。因此，在变量数量任意的情况下引入几何语言被证明是有用的。
+
+练习
+
+1. 证明如果飞机
+$$x_1 + x_2 + x_3 = K$$
+平行于多面体 $A$ 的某个面，则该平面
+$$x_1 + x_2 + x_3 = K_0$$
+与该面的平面重合。
+
+2. 如果飞机
+$$x_1 + x_2 + x_3 = K$$
+平行于多面体 $A$ 的某条边，则平面
+$$x_1 + x_2 + x_3 = K_0$$
+穿过这根肋骨？
+
+3. a）让技术资源选择问题设定的任务不是最大化产出，而是最大化近似值，即生产的产品的价格与生产中使用该资源的成本之间的差值，已知一单位生产的产品的价格等于$q$卢布，使用单位$j$资源的成本等于$q_j$卢布（$j=1,\dots,m$）。
+
+6) 让选择问题成为技术问题，使得产量不少于 $S$ 单位，同时成本最小。
+
+将每个问题表述为线性规划问题。证明恰好有一个值 $S$ 使得问题 6) 的解与问题 a) 的解一致。
+
+文学
+
+A.S.Solodovnikov，线性代数和线性规划简介。 M.，《启蒙运动》，1966 年。

@@ -1,0 +1,70 @@
+---
+id: 1970-12-smorodinskiy-o-periode-obrascheniya-sputnikov-e3b231f2
+issue: kvant_1970_12
+year: 1970
+number: "12"
+title: 关于卫星的轨道周期
+authors:
+  - Смородинский Я. А.
+rubric: osnovnye-stati
+page_first: 33
+page_last: 33
+tag: W0P6
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 771f7155d6e1913bf2a8947e9370b124c7c1fd187c3a0049e89e8ea43121c428
+prompt_sha256: draft-1
+translated_from: content/ru/1970/12/articles/05_smorodinskiy-o-periode-obrascheniya-sputnikov-e3b231f2.md
+source_content_sha256: d27abccad1f18fde622ca18036bb608a7285ff2bd7c8bf3c2dbf3fbcd05810a8
+translation_model: draft
+translation_run: zh-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+关于卫星的轨道周期
+
+1970年9月，自动站“Luna 16”发射。 9月17日，进入月球轨道，周期为1小时59分（119分钟）。根据这些数据可以对月球说些什么？
+
+让我们记住，当一颗卫星绕地球发射时，其周期通常约为一个半小时（90 分钟）。关于地球你有什么想说的？
+
+事实证明，根据这些数据可以估计月球和地球的密度。
+
+如果卫星的高度很小（与其旋转的天体的半径相比），那么我们可以近似地假设卫星在地表附近移动。让我们将重力加速度等同于向心加速度：
+
+$$G \frac{M}{R^2} = \frac{v^2}{R} = \left(\frac{2\pi}{T}\right)^2 R,$$
+
+其中$G$为万有引力常数，$M$为天体质量，$R$为天体半径，$v$为卫星速度，$T$为其公转周期。接下来我们用半径写出质量：
+
+$$M = \frac{4}{3} \pi R^3 \rho,$$
+
+其中$\rho$是平均密度。
+
+将这个表达式代入前面的公式，我们得到了一个显着的结果：
+
+$$T = \sqrt{\frac{3\pi}{\rho G}}.$$
+
+由此可见，低卫星的轨道周期只取决于天体的大小，而不取决于其大小。因此，知道周期，就可以确定月球和地球的密度。该表显示了太阳系不同行星的周期和密度值。
+
+| 中央体 | 密度 ($\rho/cm^3$) | Period |
+| :--- | :--- | :--- |
+| 太阳 | 1,42 | 166 |
+| 汞 | 5,61 | 83 |
+| 金星 | 5,16 | 87 |
+| 地球 | 5,52 | 84 |
+| 月亮 | 3,36 | 108 |
+| 火星 | 3,95 | 100 |
+| 木星 | 1,34 | 171 |
+| 土星 | 0,64 | 238 |
+| 天王星 | 1,36 | 170 |
+| 海王星 | 1,30 | 174 |
+
+对于地球来说，该周期为 84 分钟。在气体中，报告的总体值略大。这意味着卫星飞得不是很低。如果我们用$h$表示卫星的高度，那么就不难得到圆形轨道的精确公式（尝试自己推导）：
+
+$$T = \sqrt{\frac{3\pi}{\rho G}} \left(1 + \frac{h}{R}\right)^{\frac{3}{2}} \approx T_0 \left(1 + \frac{3h}{2R}\right),$$
+
+其中 $T_0$ 是低卫星的周期（表中给出），最后一个等式是近似值 - 如果 $h \ll R$ 则为真。如果您了解开普勒定律，您还可以获得椭圆轨道的公式。您将在 1971 年的«Kvant» No. 1 中读到它们。
+
+Y.A.斯莫罗丁斯基

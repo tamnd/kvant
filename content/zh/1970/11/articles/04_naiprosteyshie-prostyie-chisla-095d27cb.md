@@ -1,0 +1,47 @@
+---
+id: 1970-11-naiprosteyshie-prostyie-chisla-095d27cb
+issue: kvant_1970_11
+year: 1970
+number: "11"
+title: 最简单的质数
+rubric: smes
+page_first: 12
+page_last: 12
+page_labels: "10"
+tag: 5NHM
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: db9fd865c4752197040ce520627f507a385805c5752acb509c9f075aa883346c
+prompt_sha256: draft-1
+translated_from: content/ru/1970/11/articles/04_naiprosteyshie-prostyie-chisla-095d27cb.md
+source_content_sha256: 6dcd485941eb8ba91a95920d734308335fccd8e0bd59f197f49804f4c18dcbac
+translation_model: draft
+translation_run: zh-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 10⟧
+
+这样此时就没有力作用在它上面（电压为零），这样当电荷向任何方向偏转时，都有一个力作用在它上面，它就回到电荷所在的点（周围所有点的场电压矢量一定指向电荷所在的点，一定还有一个相反符号的电荷！这样，当电荷混合时，平衡必然被破坏，电荷要么相撞，要么飞散。
+
+电子围绕原子核旋转的概念是由卢瑟福首先提出的。尽管电子绕原子核旋转的原子的射程模型遇到了许多看似无法解决的困难，但物理学的进一步发展表明它是正确的。但这是另一个故事的主题。
+
+锻炼
+
+1. 画出两种不同类型和大小的电荷的线性力场的近似图。
+2. 线性静电力场可以闭合吗？
+3. 有时他们说，力线是正电荷在场中移动的轨迹，如果将其引入到该场中并自行其事的话。这个说法正确吗？
+4. 有两个同心球，半径为 $R_1$ 和 $R_2$，电荷为 $q_1$ 和 $q_2$ ($R_1 < R_2$)。球体上电荷场的电压如何取决于到其公共中心的距离？
+5. 均匀带电球的场电压如何取决于到球中心的距离？
+6. 找出无限均匀充电灯丝的场电压与距离的关系。
+7. 求一个很长的均匀充电圆筒的场电压。
+8. 证明无论导体和空腔（屏蔽）的形状如何，空心导体内部的场都为零。
+
+最简单的九位（或更长）数字并不存在。
+
+虽然这把尺子只有 4 个刻度，但它可以用来改变从 1 到 13 厘米的所有（整数）距离。
+
+9 厘米长的尺子上必须放置的最小格数是多少，才能改变 1 到 9 厘米的所有距离？
+
+12cm的尺子怎么样？

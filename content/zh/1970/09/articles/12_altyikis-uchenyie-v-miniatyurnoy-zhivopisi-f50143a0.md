@@ -1,0 +1,50 @@
+---
+id: 1970-9-altyikis-uchenyie-v-miniatyurnoy-zhivopisi-f50143a0
+issue: kvant_1970_9
+year: 1970
+number: "9"
+title: 微型绘画中的科学家
+authors:
+  - Алтыкис А. В.
+rubric: ugolok-kollektsionera
+rubric_sub: Уголок коллекционера
+page_first: 64
+page_last: 64
+page_labels: "62"
+tag: 36M4
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 22e2ebb0b4d35c7e2a93a8444ba434f3db26055d565eb7315569bd8663cf8ad5
+prompt_sha256: draft-1
+translated_from: content/ru/1970/09/articles/12_altyikis-uchenyie-v-miniatyurnoy-zhivopisi-f50143a0.md
+source_content_sha256: 61876c18fd144064a8603724b00aba541d1e8514e36e720506a7c508fccce712
+translation_model: draft
+translation_run: zh-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 62⟧
+
+喷气式飞机和航空理论与技术领域的新兴发明家K. E. Tsyulkovsky，进化形态学的创始人A. N. Severtsov院士，物理化学分析学的创始人N. S. Kurnakov院士，中亚旅行家和探险家P. K. Kozlov。
+
+苏联邮票不仅描绘了我们国家的科学家，也描绘了来自其他国家的科学家。例如，发行的邮票上印有美国社会活动家和科学家富兰克林、意大利物理学家和数学家托里切利、德国自然专家和地理学家洪堡、英国自然专家查尔斯·达尔文、法国物理学家和和平活动家F·乔诺·居里等人的肖像。
+
+邮票可以用来创建伟大科学家的精彩肖像画廊。
+
+让我们来谈谈一枚献给伟大的俄罗斯数学家 N.I. Lobachevsky（1793-1856）的邮票。这里描绘了发行的两枚邮票中的第一枚（第二枚是在他逝世一百周年时发行的）。这两枚邮票都是根据艺术家 V. Zavyalov 的绘画制作的。邮票上的肖像与现存的四幅肖像都不同。它的基础是一个照片模拟（为喀山大学的蓝色大厅制作），在《历史》中罗巴切夫斯基儿子的故事中提到了这一点。
+他写道，这张照片取自“克里科夫在喀山画的肖像，当时他的父亲还是四十岁，星星是后来分配的。肖像中的头发比实际颜色要深一些，我父亲经常指着肖像谈到克里科夫：“我显然想把他变成黑发，但我很羞愧……”
+
+奥姆德尔由 A. V. Almyks 领导
+
+顺便说一句，“考虑一个无限小数……”
+
+问题1. 对于任何$k$，分数$B$ 和编号为$k$ 的分数的$k$ 符号不同。
+
+问题2.通过指示单词$n$的长度进行严格证明。必须考虑到，通过在前面指定一个字母，可以从长度为$n-1$的单词的明确定义中获得长度为$n$的单词。如果长度$n-1$的单词是固定的，那么这封信可以用$k$的方式书写。
+
+顺便说一句，“电阻是一种量子现象”
+
+1. 根据铁中给定的声速$c=5200$米/秒$=5,2 \cdot 10^5$厘米/秒，我们使用公式$\theta = \frac{hc}{k} = \sqrt[3]{\frac{N}{4\pi}}$找到德拜温度$\theta$。这里普朗克常数是$h=6,62 \cdot 10^{-27}$ zrts·sec，玻尔兹曼常数是$k=1,38 \cdot 10^{-16}$ zrts/deg。为了找出每单位体积的原子数$N$，我们还需要铁的密度$d=7,9$e/cm$^3$及其原子量$A=55,85$（这些数字很容易在学校教科书中找到）。很容易报告$N=N_0 \frac{d}{A}$，其中$N_0=6,025 \cdot 10^{23}$是阿伏伽德罗数。因此，对于铁来说，每厘米有 $N=\frac{6,025 \cdot 10^{23} \cdot 7,9}{55,85}=8,5 \cdot 10^{22}$ 个原子$^3$。将德拜温度公式写成以下形式很方便：$\theta = \frac{h}{k \sqrt[3]{4\pi}} c^3 \sqrt{N}=\frac{6,62 \cdot 10^{-27} \cdot c^3 \sqrt{N}}{1,38 \cdot 10^{-16} \cdot 2,32}=2,07 \cdot 10^{-11} \cdot c^3 \sqrt{N}$。
+
+将值$c$和$N$替换为铁，我们得到它的德拜温度：$\theta=2,07 \cdot 10^{-11} \cdot 5,2 \cdot 10^5 \cdot 4,4 \cdot 10^7=473^\circ K=200^\circ C$。在问题条件下，电阻率在$-100^\circ C$温度下，即$173^\circ K$。因此，在这些条件下$\frac{T}{\theta}=0,37$。从广义曲线（图8）我们发现$\frac{R}{R_0}=0,30$对应着这样一个值$\frac{T}{\theta}$。因此，对于铁$R_0=0,198$欧姆·m$^2$/m。
