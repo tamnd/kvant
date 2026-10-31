@@ -17,7 +17,7 @@ source: kvant_digital
 extraction: vision
 content_sha256: 0fe748843cdeb5621f4427075098d4857a7bc126ea2a13216ec568b558e88115
 prompt_sha256: 3ec6b8aabd9b98576af76503cd8a2902b9f5d18e01ee867dfb1228f59c6d52d8
-translated_from: content/ru/1971/01/articles/09_skanavi-metod-podstanovki-pri-reshenii-uravneniy-i-sistem-uravneniy-f445b2a7.md
+translated_from: content/ru/1971/01/articles/10_skanavi-metod-podstanovki-pri-reshenii-uravneniy-i-sistem-uravneniy-f445b2a7.md
 source_content_sha256: 96c1e59d5fb3ed66aa52d2ece5c165bfc82e9b02f609aa82ebdb6b09b882574d
 translation_model: gpt-5.6-terra
 translation_run: vi-codex-2026-10-31

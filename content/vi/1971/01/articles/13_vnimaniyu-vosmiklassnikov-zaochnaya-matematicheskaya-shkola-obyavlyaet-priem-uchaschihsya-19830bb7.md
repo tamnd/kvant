@@ -15,7 +15,7 @@ source: kvant_digital
 extraction: vision
 content_sha256: 97da18981bd83ed813264c3ae6ed2396cf33ab645f4fc7c4ed292426d54677f7
 prompt_sha256: 3ec6b8aabd9b98576af76503cd8a2902b9f5d18e01ee867dfb1228f59c6d52d8
-translated_from: content/ru/1971/01/articles/12_vnimaniyu-vosmiklassnikov-zaochnaya-matematicheskaya-shkola-obyavlyaet-priem-uchaschihsya-19830bb7.md
+translated_from: content/ru/1971/01/articles/13_vnimaniyu-vosmiklassnikov-zaochnaya-matematicheskaya-shkola-obyavlyaet-priem-uchaschihsya-19830bb7.md
 source_content_sha256: 2f6eb489fcee88384de91854f411e297084d7f775127e4815f7d0a2d0581ba20
 translation_model: gpt-5.6-terra
 translation_run: vi-codex-2026-10-31

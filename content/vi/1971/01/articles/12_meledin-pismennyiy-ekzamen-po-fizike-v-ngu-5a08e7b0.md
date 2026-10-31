@@ -17,7 +17,7 @@ source: kvant_digital
 extraction: vision
 content_sha256: b06e2c38753d16dd4f4b6ef3d436e9de496b63a7f735c1ad0f4fbcfeb20ad175
 prompt_sha256: 3ec6b8aabd9b98576af76503cd8a2902b9f5d18e01ee867dfb1228f59c6d52d8
-translated_from: content/ru/1971/01/articles/11_meledin-pismennyiy-ekzamen-po-fizike-v-ngu-5a08e7b0.md
+translated_from: content/ru/1971/01/articles/12_meledin-pismennyiy-ekzamen-po-fizike-v-ngu-5a08e7b0.md
 source_content_sha256: b9f05758538f5149ec320755bd081f04f9306bc78cc3af4a31534929a799cc4d
 translation_model: gpt-5.6-terra
 translation_run: vi-codex-2026-10-31

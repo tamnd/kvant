@@ -17,7 +17,7 @@ source: kvant_digital
 extraction: vision
 content_sha256: 38e159f0211fd9ccafec5e5a494d6abc1bc17855bc5ecd53feaeabfefa722a59
 prompt_sha256: 3ec6b8aabd9b98576af76503cd8a2902b9f5d18e01ee867dfb1228f59c6d52d8
-translated_from: content/ru/1971/02/articles/11_bruk-polet-ognennyih-strel-1ee72da5.md
+translated_from: content/ru/1971/02/articles/12_bruk-polet-ognennyih-strel-1ee72da5.md
 source_content_sha256: 1666602a9fe7a78e40f7686a79c3d818be066b5b4a0a6092b24d7458b93c7bcf
 translation_model: gpt-5.6-terra
 translation_run: vi-codex-2026-10-31
