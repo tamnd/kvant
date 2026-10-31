@@ -40,13 +40,13 @@ Các que có các chữ số của số nhân được đặt sao cho $числ�
 
 ⟦figure⟧
 
-Hình 3
+Cơm. 3
 
 ⟦figure⟧
 
-Hình 1
+Cơm. 1
 
-Chữ số này chữ số kia được viết, bên dưới viết các cặp chữ số cách nhau bằng dấu gạch chéo. Tất nhiên, bạn đã hiểu những con số trên que tính là gì. Ví dụ: trên một cây gậy có số bảy, đây là các chữ số của tích của số 7 nhân 2, 3, ..., 9. Các cây gậy khác cũng có cấu tạo tương tự. Thiết bị còn kèm theo một cây gậy có số 2, 3, ..., 9 (Hình 2). Hình 2 Hãy gọi nó là “phụ trợ”. Kết quả của phép nhân được xác định như thế nào? Hãy xem một ví dụ về việc xác định tích của số 5619 với 5.
+Chữ số này chữ số kia được viết, bên dưới viết các cặp chữ số cách nhau bằng dấu gạch chéo. Tất nhiên, bạn đã hiểu những con số trên que tính là gì. Ví dụ: trên một cây gậy có số bảy, đây là các chữ số của tích của số 7 nhân 2, 3, ..., 9. Các cây gậy khác cũng có cấu tạo tương tự. Thiết bị còn kèm theo một cây gậy có số 2, 3, ..., 9 (Hình 2). Cơm. 2 Hãy gọi nó là “phụ trợ”. Kết quả của phép nhân được xác định như thế nào? Hãy xem một ví dụ về việc xác định tích của số 5619 với 5.
 
 DOI: https://doi.org/10.4213/kvant20220603
 
@@ -64,7 +64,7 @@ TRÊN U KI
 
 ⟦figure⟧
 
-Hình 4
+Cơm. 4
 
 thêm các số trong đầu, thường tính đến việc chuyển từ vị trí bên phải và ghi nhớ tổng. Vào những năm 80 của thế kỷ 19, kỹ sư người Pháp Henri Genay, theo gợi ý của nhà toán học Edouard Luc, đã tự động hóa các phép tính này. Thiết bị này có tên là “Thanh Zhenay-Luc”, được hiển thị trong Hình 4. Nó bao gồm một loạt các thanh gỗ hẹp, trên các cạnh dài có khắc các con số và hình tam giác tối. Thiết bị này hoạt động như thế nào? Trước khi trả lời câu hỏi này, hãy giải thích lý do tại sao nhiều con số lại nằm trên đó theo cách này và những hình tam giác tối này là gì. Hãy xem xét nhân một số có 10 chữ số với một số có một chữ số, giả sử rằng tất cả các chữ số của số bị nhân đều khác nhau, ví dụ: 2607194385. Vì kết quả có thể có 11 chữ số nên chúng ta sẽ tạo một bảng có 11 bảng riêng biệt - đây sẽ là các “thanh” của chúng ta.
 
@@ -76,11 +76,11 @@ thêm các số trong đầu, thường tính đến việc chuyển từ vị t
 
 ⟦figure⟧
 
-Hình 5
+Cơm. 5
 
 KVANT 2022/№6
 
-trên chữ số cuối cùng của sản phẩm được chỉ định và được đánh dấu màu đỏ trong bảng. Chúng ta cũng hãy tính đến phần chuyển tiếp, lưu ý rằng khi nhân $на^{b}$ trong bảng cơ sở, nó có thể bằng $1, 2, …,^{b}$ – 1 (hãy đảm bảo điều này!). Nếu số tiền, tính đến khoản chuyển khoản, có hai chữ số, chúng tôi sẽ chỉ ghi lại những số một. Bây giờ bạn có thể tiến hành tính toán các sản phẩm. Giả sử chúng ta đang tìm tích của 2607194385 và 4. Trong trường hợp này, chúng ta sẽ quan tâm đến một phần của toàn bộ bảng trong Hình 5, liên quan đến số 4 trên tấm đế (Hình 6). Hình 6
+trên chữ số cuối cùng của sản phẩm được chỉ định và được đánh dấu màu đỏ trong bảng. Chúng ta cũng hãy tính đến phần chuyển tiếp, lưu ý rằng khi nhân $на^{b}$ trong bảng cơ sở, nó có thể bằng $1, 2, …,^{b}$ – 1 (hãy đảm bảo điều này!). Nếu số tiền, tính đến khoản chuyển khoản, có hai chữ số, chúng tôi sẽ chỉ ghi lại những số một. Bây giờ bạn có thể tiến hành tính toán các sản phẩm. Giả sử chúng ta đang tìm tích của 2607194385 và 4. Trong trường hợp này, chúng ta sẽ quan tâm đến một phần của toàn bộ bảng trong Hình 5, liên quan đến số 4 trên tấm đế (Hình 6). Cơm. 6
 
 ⟦column⟧
 

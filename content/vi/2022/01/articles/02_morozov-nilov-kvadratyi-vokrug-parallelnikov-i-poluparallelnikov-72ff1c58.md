@@ -40,11 +40,11 @@ tạo một hình vuông (Hình 1, c). Định lý của nhà toán học ngư�
 
 ⟦figure⟧
 
-Hình 2. Các hình vuông xung quanh một hình tam giác
+Cơm. 2. Các hình vuông xung quanh một hình tam giác
 
 ⟦figure⟧
 
-Hình 1. Kiến trúc thượng tầng từ hình vuông và hình tam giác đều
+Cơm. 1. Kiến trúc thượng tầng từ hình vuông và hình tam giác đều
 
 DOI: https://doi.org/10.4213/kvant20220105
 
