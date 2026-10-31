@@ -1,0 +1,57 @@
+---
+id: 1974-11-mochalov-labirint-alfavit-1fcab8b0
+issue: kvant_1974_11
+year: 1974
+number: "11"
+title: Labyrinth alphabet
+authors:
+  - Мочалов Л. П.
+rubric: smes
+page_first: 18
+page_last: 18
+page_labels: "16"
+tag: NCAJ
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: b635b4828ff2aa9855312b96e649594e882fc24c6cdacc14c2dc3dca1c231cb1
+prompt_sha256: draft-1
+translated_from: content/ru/1974/11/articles/06_mochalov-labirint-alfavit-1fcab8b0.md
+source_content_sha256: 0967ec7ea39fb1780a7f7bc301856b213d12bd83b3dd49b849b4efb83cfb7a72
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 16⟧
+
+together with the observations of Tycho Brahe.
+Search for the necessary data in Kepler's social networks? The author decided on a simpler path.
+
+Let's take a 284-year cycle. As we have already said, after such a period the confrontation begins with a lag of three days. In 1604, the visibility conditions of Mars should be close to the conditions in 1888, when the English astronomical ejegrodnik “Nautical Almanac” was already published. It says that in 1888 Mars' opposition occurred on April 9th. This means that in 1604 it should be April. The impostor came forward in August 1604. Consequently, during the march on the shirov of Krakow (50°), Chernigov (51°.5) and other cities through which the Pretender’s army passed, Mars was still visible in the evenings low above the horizon (its declination was about -20°) and could give rise to the title of Zhabczyc’s position.
+
+These are the features of the manifestations and manifestations of the oppositions of Mars, which are no less popular among astronomy lovers than solar and lunar eclipses.
+
+Labyrinth alphabet
+
+The letters of the alphabet are written in 64 square cells. Starting with the letter A in the upper left corner, draw a broken line that does not intersect itself, which passed through exactly 33 letters of the alphabet and ends in the lower right corner with the letter Z. The broken line can intersect the sides of small squares, but should not pass through their vertices.
+
+A B N Y R D E Y
+F W M D K W F R
+E UY L M B E A
+OY V F E U E X
+CH YOSH S B G L N
+Ts F Z Sh S T Y K
+P E T B P E C H
+I V E G Z O I I
+
+A H E B Y J K W
+N S P R S H O S H O
+Z E U E E M E E
+V X V I P F CH N
+SH U G L C Y D E
+A WE ARE E C L I Z
+T F CH B E Y Y R
+J B K S G D F Y
+
+L. P. Mochalov

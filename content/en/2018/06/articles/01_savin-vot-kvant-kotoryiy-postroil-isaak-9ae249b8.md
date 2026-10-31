@@ -1,0 +1,45 @@
+---
+id: 2018-6-savin-vot-kvant-kotoryiy-postroil-isaak-9ae249b8
+issue: kvant_2018_6
+year: 2018
+number: "6"
+title: “Here is the Quantum that Isaac built...”
+authors:
+  - Савин А. П.
+rubric: raznoe
+rubric_sub: Разное
+page_first: 12
+page_last: 12
+page_labels: "10"
+tag: JAE1
+lang: en
+source: kvant_digital
+extraction: native
+content_sha256: fc49f7aaac2b2f0ee3b24150c0479e5d4b25a1ddc399f841390e2ae3efa81f57
+prompt_sha256: draft-1
+translated_from: content/ru/2018/06/articles/01_savin-vot-kvant-kotoryiy-postroil-isaak-9ae249b8.md
+source_content_sha256: 661da0932c8f2203a22513bd4f47c72d1eac25743b5cca6958f1f1aafa9a8982
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 10⟧
+
+K V AN T 2018/№6
+
+“Here is the Quantum that Isaac built...”
+
+A. SAVIN
+
+Here is the Quantum that Isaac built, And here is the student, Who occasionally likes to boast, That she understands everything on a whole page In the Quantum that Isaac built.
+
+Here is the author of the article - a famous scientist, Who wrote it so enthusiastically For this extremely serious girl, Who occasionally likes to boast, That she understands everything on a whole page In the Quantum that Isaac built.
+
+But the reviewer is a long-time member of the editorial board, who read this essay, imagining himself as a pretty girl, who vainly pisses at the page, trying to understand what is said in the Quantum that Isaac built.
+
+And this is the editor who edited this article, leaving only the author’s name in place, so that even the dumbest girl in the world could boast at least once a year that she understands everything on a whole page In the Quantum that Isaac built.
+
+And this is an artist in deep prostration, trying to invent those illustrations that will so enchant the girl that she will immediately read the page in the Quantum that Isaac built.
+
+Here is the editor-in-chief - a great academician, He rules (without demanding money for this), So that everything is done only this way and that way, Since he is this very Isaac, Who fell head over heels in love with the girl, Who pokes her finger at the page, Trying to understand what is said in the Quantum that Isaac built.

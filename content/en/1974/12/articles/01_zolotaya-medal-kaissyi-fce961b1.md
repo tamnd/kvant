@@ -1,0 +1,34 @@
+---
+id: 1974-12-zolotaya-medal-kaissyi-fce961b1
+issue: kvant_1974_12
+year: 1974
+number: "12"
+title: Gold medal "Kaissa"
+rubric: smes
+page_first: 84
+page_last: 84
+tag: M87E
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 0e5ec479bf06154a015b9f9c2ab07afc275e89d449f79e8b276a0d6d9958763b
+prompt_sha256: draft-1
+translated_from: content/ru/1974/12/articles/01_zolotaya-medal-kaissyi-fce961b1.md
+source_content_sha256: 0971f330093abfe98403a83f343e5b7611977b966942fb361e8a726acc12bdcd
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+GOLD MEDAL
+"KAISS"
+
+From August 5 to 8, 1974, the first World Computer Chess Championship was held in Stockholm. 13 programs from 8 countries took part in it. The first place was taken by the Soviet program “Kanssa”, created at the Institute of Management Problems.
+
+The sporting nature of this competition should not obscure its scientific meaning. Various algorithms for playing chess are created because these algorithms can be used in other problems where it comes to choosing a solution in a complex situation. Scientists have chosen chess as a model for such problems - very important in management, economics and other practical fields - because, on the one hand, chess has simple rules and a complex strategy, and, on the other hand, the advantages and disadvantages of algorithms are clearly visible in chess.
+
+In the last issue of the magazine it was written about how in general you can teach a machine to play chess.
+
+This issue tells about Kansa's special preparation for the championship.

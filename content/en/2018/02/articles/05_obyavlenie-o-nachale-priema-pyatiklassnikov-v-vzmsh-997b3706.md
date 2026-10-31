@@ -1,0 +1,144 @@
+---
+id: 2018-2-obyavlenie-o-nachale-priema-pyatiklassnikov-v-vzmsh-997b3706
+issue: kvant_2018_2
+year: 2018
+number: "2"
+title: '[Announcement about the beginning of admission of fifth-graders to VZMSH]'
+rubric: raznoe
+page_first: 36
+page_last: 49
+page_labels: 44, 45, 47
+tag: AMG6
+lang: en
+source: kvant_digital
+extraction: native
+content_sha256: 4fdcbc33408c2a94cde36975adb5fa8ec035b9d8c7d73524a4964b9367f73acd
+prompt_sha256: draft-1
+translated_from: content/ru/2018/02/articles/05_obyavlenie-o-nachale-priema-pyatiklassnikov-v-vzmsh-997b3706.md
+source_content_sha256: f42d54e6d3f96e8db9e95631ea401df7e0026428d29c743de2a611a64f93df77
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+COMPETITION NAMED AFTER A.P. SAVINA
+
+We continue the competition for solving mathematical problems. They are aimed primarily at students in grades 7–9, but we welcome students of all ages to participate. The competition is held jointly with the magazine «Kvant». Send solutions to the problems you can solve by email to: savin.contest@gmail.com or by regular mail to: 119296 Moscow, Leninsky Prospekt, 64-A, «Kvant» (marked “A.P. Savin Competition”). In addition to your first and last name, indicate the city, school and class in which you study, as well as your return postal address. We welcome participation in the competition not only by individual schoolchildren, but also by teams (in this case, one work is sent with a list of participants). You can participate starting from any tour. The winners will receive diplomas from the magazine «Kvant» and prizes. Tasks, solutions and results are published on sites.google.com/view/savin-contest
+
+21. Let us write out in ascending order all positive irreducible fractions less than 1, the denominators of which vary from 2 to 2018. What is the arithmetic mean of these fractions? G. Galperin
+
+22. Given an arbitrary acute triangle. a) Show how to cut it into six triangles with equal circumradii. b) Prove that there are several ways to do this. E. Bakaev
+
+23. A triangular number is a number equal to the sum of all natural numbers from 1 to some natural number inclusive. Here are the first few triangular numbers: 1, 1 + 2 = 3, 1 + 2 + 3 = 6, 1 + 2 + + 3 + 4 = 10, etc. Petya, exploring their properties, formulated two theorems: I. If the sum of two triangular numbers
+
+Attention to our readers! Starting in 2018, the mathematics department of the VZMSH opens admission to fifth-graders. Training will take place on an electronic platform. We supplement the list of tasks for the introductory work with tasks for 5th grade students. 13. (5) Amy, Ben and Chris lined up. If it is known that Amy is to the left of Ben and Chris is to the right of Amy, which of the following statements is definitely true? 1. Ben is on the far left. 2. Chris is on the far right. 3. Amy stands in the middle. 4. Amy is on the far left. 5. None of the statements above are true.
+
+⟦column⟧
+
+is a power of two, then their difference is a power of two. II. If the difference of two triangular numbers is a power of two, then their sum is also a power of two. Is at least one of these theorems true? Or maybe both are true? I. Akulich
+
+24. The field for the game “Sea Battle” is a 10 ¥ 10 square, in all corners of which 2 ¥ 2 squares are cut out. What is the largest number of three-decker ships (i.e., rectangles of three cells) that can be placed on this field so that no two ships even touch the corners? Rectangles can only be placed along grid lines. S. Kostin
+
+14. (5) Mr and Mrs Smith got married 18 years ago. Mr. Smith was then three times older than his wife. But today he is only twice her age. How old was Mrs. Smith when she got married? 15. (5) Albert Einstein experiments with two unusual clocks. Both watches have a 24-hour dial. Some clocks run twice as fast as normal. The other clock runs at normal speed, but backwards. At the same time, both show the correct time at 13.00. At what other times do these clocks coincide?
+
+⟦folio 44⟧
+
+KVANT 2018/№2
+
+what was the middle of the distance and what was the maximum distance between them during movement. $(6,2)^{1}$ M. Zamyatnin
+
+⟦column⟧
+
+below the boundaries of liquid columns in thermometers. Explain how your answers were obtained. (1.7) M. Zamyatnin
+
+Problem 2. Cube with a hole If you make a hole in the shape of a cube in a cube with a mass of $m_{0} = 1,6$ kg, then it will have a mass of $m_{1} = 1,2$ kg (Fig.1). What if this hole
+
+Problem 4. From full to empty-1 In a rectangular tray with sides a = 30 cm, b = 20 cm and a side height of $h_{0} = 10$ cm, there are cylindrical vessels with a base area of ​​$S 100 см^{2}$ each (Fig.3). The height of the first vessel is $h_{0}$, and the second is $5h_{0}$. A thin tube with a tap K is inserted into a tall vessel through a hole in the wall,
+
+⟦figure⟧
+
+Fig. 1
+
+fill with water, then the mass of the cube becomes equal to $m_{2} = 1,7$ kg. Determine the density U of the material from which the cube is made. The density of water is $U_{в} 1,0$ g $см^{3}$. (8.5) V. Slobodyanin
+
+Problem 3. Fast thermometers On figure 2 the scales of four thermometers are shown. Determine which one has them
+
+⟦figure⟧
+
+Fig. 3
+
+⟦figure⟧
+
+Fig. 2
+
+the greatest division price and what it is equal to. Which thermometer currently shows the highest temperature and what is it equal to? Thermometers were brought into the room. After an hour, the temperature in it began to slowly increase, and at equal intervals of time by the same amount. Determine how many times the maximum and minimum top speeds will differ
+
+1 The average score of those who solved this problem is indicated in parentheses after the condition of the problem. Each task was worth 10 points.
+
+the second end of which lies on the wall of a low vessel. In this position the tube is horizontal. Thanks to the presence of device U, when the tap is open, the water level in a tall vessel decreases at a constant speed v = 1.0 mm/s. Initially, there is no water in the low vessel and the pan, and the water level in the high vessel is $5h_{0}$. At time t = 0 the tap is opened. Plot a graph of the water level z in the pan versus time t after opening the tap. Mark the z and t values ​​on the graph axes at characteristic points (break points, maximum or minimum points). (1.9) S. Karmazin
+
+8th grade
+
+Problem 1. Average village The car spent time t moving from the city to the village at a constant speed. On the way back, the driver drove faster and reached the city in half the time.
+
+⟦folio 45⟧
+
+OLYMPICS
+
+neck time. How long would it take the car to travel from the city to the village if the driver maintained a speed equal to his average speed for the round trip? (7.6) M. Zamyatnin
+
+Problem 2. In winter and summer... Experimenter Gluck noticed that at the beginning of winter, the readings of two street thermometers (one calibrated in degrees Celsius and the other in degrees Fahrenheit), coinciding in absolute value, had different signs: 11.5 q C and 11.5 q F. When severe frosts set in, the readings of the thermometers coincided again, but now in sign: 40 q C and 40 q F. Determine what temperature the thermometer shows in degrees Celsius when the second reading is 40 q F. (5.0) M. Zamyatnin
+
+Problem 3. Ball mixture In the calorimetry laboratory, a series of experiments was carried out on heating steel balls of two different masses. Table 1
+
+Table 1 shows the values ​​of changes in the temperature of the balls ' t depending on the amount of heat Q supplied to them. Unfortunately, due to inexperience, the laboratory assistant entered data for different balls into one table. Having constructed a graph, determine how many times the masses of the balls differed, and find which of the results should clearly be discarded as a mistake by the experimenter. (7.1) M. Zamyatnin
+
+Task 4. From full to empty-2 See the condition of task 4 for grade 7, but the task and additional condition are different: Plot a graph of the pressure p exerted by a low vessel on the bottom of the pan on the time t after opening the tap. Mark on the graph axes the values ​​p and t in
+
+⟦column⟧
+
+characteristic points - break, maximum or minimum. The bottom of the pan is rough. (2.4)
+
+9th grade
+
+Problem 1. Bridge A train enters a bridge at speed $v_{0}$. If he accelerates on the bridge with acceleration a, then he will cross the bridge in time $t_{1} = 30$ s, if he brakes with the same acceleration, then he will cross the bridge in time $t_{2} = 60$ s. How long will it take $t_{3}$ for the train to cross the bridge when moving uniformly at speed $v_{0}$? (6.3) M. Zamyatnin
+
+Problem 2. Equilibrium-1 The system consists of several weights suspended on weightless threads, thrown through weightless and one massive (highlighted in color) blocks (Fig.4). Mass m = 1 kg. Determine at what values ​​of masses $m_{1}$ and $m_{2}$ the system will be in equilibrium. There is no friction in the axes of the blocks. (3.9) M. Zamyatnin
+
+Problem 3. Two in one Cube 1, having a temperature of $начальную_{Рис.} 4$ t 70 q C, was lowered into a calorimeter partially filled with water at a temperature of $t_{0} 10 q C$. After the cessation of heat exchange, the temperature of the contents of the calorimeter reached $t_{1} 25 q C$. If, instead of cube 1, cube 2, heated to the same temperature t, was lowered into the calorimeter, then after the cessation of heat exchange, the temperature of the contents of the calorimeter would reach $t_{2} 35 q C$. To what temperature $t_{3}$ will the temperature of the contents of the calorimeter increase if both cubes heated to temperature t are lowered into it at once? Neglect heat exchange with the environment. Water does not flow out of the calorimeter. (4.8) M. Zamyatnin
+
+Problem 4. Identification of nonlinearity In the laboratory of linear electrodynamics, experimenter Gluck studied the voltage
+
+⟦folio 47⟧
+
+OLYMPICS
+
+pressure $D p_{2} p_{1}$ from time t after opening the tap $( p_{1}$ – pressure of a low vessel on the bottom of the pan, $p_{2}$ – pressure of a high vessel on the bottom of the pan). Mark the values ​​of D and t on the graph axes at characteristic points - break, maximum or minimum. The bottoms of the vessels and the tray are carefully polished, so that water does not leak under the vessels. (3.4)
+
+⟦column⟧
+
+temperature $T_{0}$ to temperature $2T_{0}$, as a result of which it completely dissociates into atoms. In this case, the degree of gas dissociation (the proportion of decayed molecules) in the specified range is directly proportional to its temperature. Draw this process in p–V, V–T and Q p axes, where p, V, T and Q are pressure, volume, temperature and amount of substance, respectively. (1.9) M. Zamyatnin
+
+11th grade
+
+Problem 4. Cube in a magnetic field A cube-shaped wire frame is placed in a uniform magnetic field, the induction modulus of which changes with time according to the law $B_{м} kt$, where k > 0. The resistances of all edges are the same and equal to R each. Edge length a. Determine the direction and magnitude of the current flowing through each of the ribs. Consider cases when the magnetic field induction vector: a) parallel
+
+Problem 1. Entangled balls In the ballistics laboratory, the dependence of the velocity values ​​v of a ball released vertically upward from a small catapult standing on a table on the height h of its rise above the table level was studied. Unfortunately, in a hurry to table 4 with the results
+
+Table 4 of tatami measurements included data for two different balls. Determine which data relates to one and which to the other ball. To do this, construct a graph with the measurement results in the coordinates in which it should be linear. Calculate how many times the maximum lifting heights of the balls above the table differ. Determine the flight times of the balls. Gravity acceleration g 9.8 m $с^{2}$. (2.8) M. Zamyatnin
+
+Problem 2. Equilibrium-3 See problem 2 for grade 9, and figure is not 4, but 7. (5,3)
+
+Fig. 7
+
+Problem 3. Dissociation An ideal diatomic gas, located in a sealed vessel of volume $V_{0}$, is heated from temperature
+
+⟦figure⟧
+
+Fig. 8
+
+taken to edge AE (Fig.8,a); b) parallel to the small diagonal AC (Fig.8,b). (2.1) I.Iogolevich
+
+Problem 5. From full to empty-5 See the condition of task 4 for grade 7, but the task and additional condition are different: Plot a graph of the pressure ratio $D_{2} p_{2} p_{1}$ versus time after opening the tap $( p_{1}$ is the pressure of the low vessel, and $p_{2}$ is the pressure of the high vessel on the bottom of the pan). Mark on the graph axes the values ​​of D and t at characteristic points - break, maximum or minimum. The bottom of the pan is rough. (3.6) The publication was prepared by V. Slobodyanin
