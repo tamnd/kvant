@@ -1,0 +1,1696 @@
+# Задачник gaps
+
+1684 gaps.
+
+## the heading lists it and no page of the issue carries it (946)
+
+- F24 solved in kvant_1970_12: the heading lists it and no page of the issue carries it
+- F28 solved in kvant_1970_12: the heading lists it and no page of the issue carries it
+- M20 solved in kvant_1970_12: the heading lists it and no page of the issue carries it
+- F118 posed in kvant_1971_11: the heading lists it and no page of the issue carries it
+- F120 posed in kvant_1971_11: the heading lists it and no page of the issue carries it
+- F121 posed in kvant_1971_11: the heading lists it and no page of the issue carries it
+- F122 posed in kvant_1971_11: the heading lists it and no page of the issue carries it
+- F81 solved in kvant_1971_11: the heading lists it and no page of the issue carries it
+- F82 solved in kvant_1971_11: the heading lists it and no page of the issue carries it
+- F33 solved in kvant_1971_2: the heading lists it and no page of the issue carries it
+- F34 solved in kvant_1971_2: the heading lists it and no page of the issue carries it
+- M22 solved in kvant_1971_2: the heading lists it and no page of the issue carries it
+- M23 solved in kvant_1971_2: the heading lists it and no page of the issue carries it
+- F35 solved in kvant_1971_3: the heading lists it and no page of the issue carries it
+- F36 solved in kvant_1971_3: the heading lists it and no page of the issue carries it
+- F38 solved in kvant_1971_3: the heading lists it and no page of the issue carries it
+- F85 posed in kvant_1971_3: the heading lists it and no page of the issue carries it
+- F86 posed in kvant_1971_3: the heading lists it and no page of the issue carries it
+- F87 posed in kvant_1971_3: the heading lists it and no page of the issue carries it
+- F47 solved in kvant_1971_4: the heading lists it and no page of the issue carries it
+- F100 posed in kvant_1971_6: the heading lists it and no page of the issue carries it
+- F101 posed in kvant_1971_6: the heading lists it and no page of the issue carries it
+- F102 posed in kvant_1971_6: the heading lists it and no page of the issue carries it
+- F54 solved in kvant_1971_6: the heading lists it and no page of the issue carries it
+- F56 solved in kvant_1971_6: the heading lists it and no page of the issue carries it
+- F98 posed in kvant_1971_6: the heading lists it and no page of the issue carries it
+- F99 posed in kvant_1971_6: the heading lists it and no page of the issue carries it
+- F103 posed in kvant_1971_7: the heading lists it and no page of the issue carries it
+- F104 posed in kvant_1971_7: the heading lists it and no page of the issue carries it
+- F105 posed in kvant_1971_7: the heading lists it and no page of the issue carries it
+- F106 posed in kvant_1971_7: the heading lists it and no page of the issue carries it
+- F107 posed in kvant_1971_7: the heading lists it and no page of the issue carries it
+- F62 solved in kvant_1971_7: the heading lists it and no page of the issue carries it
+- M40 solved in kvant_1971_7: the heading lists it and no page of the issue carries it
+- M44 solved in kvant_1971_7: the heading lists it and no page of the issue carries it
+- M95 posed in kvant_1971_7: the heading lists it and no page of the issue carries it
+- F110 posed in kvant_1971_8: the heading lists it and no page of the issue carries it
+- F69 solved in kvant_1971_8: the heading lists it and no page of the issue carries it
+- M55 solved in kvant_1971_8: the heading lists it and no page of the issue carries it
+- F134 posed in kvant_1972_1: the heading lists it and no page of the issue carries it
+- F135 posed in kvant_1972_1: the heading lists it and no page of the issue carries it
+- F136 posed in kvant_1972_1: the heading lists it and no page of the issue carries it
+- F137 posed in kvant_1972_1: the heading lists it and no page of the issue carries it
+- F91 solved in kvant_1972_1: the heading lists it and no page of the issue carries it
+- F147 solved in kvant_1972_10: the heading lists it and no page of the issue carries it
+- F178 posed in kvant_1972_10: the heading lists it and no page of the issue carries it
+- F179 posed in kvant_1972_10: the heading lists it and no page of the issue carries it
+- F149 solved in kvant_1972_11: the heading lists it and no page of the issue carries it
+- M130 solved in kvant_1972_11: the heading lists it and no page of the issue carries it
+- M175 posed in kvant_1972_11: the heading lists it and no page of the issue carries it
+- F157 solved in kvant_1972_12: the heading lists it and no page of the issue carries it
+- F188 posed in kvant_1972_12: the heading lists it and no page of the issue carries it
+- F189 posed in kvant_1972_12: the heading lists it and no page of the issue carries it
+- F190 posed in kvant_1972_12: the heading lists it and no page of the issue carries it
+- F191 posed in kvant_1972_12: the heading lists it and no page of the issue carries it
+- F192 posed in kvant_1972_12: the heading lists it and no page of the issue carries it
+- M137 solved in kvant_1972_12: the heading lists it and no page of the issue carries it
+- M139 solved in kvant_1972_12: the heading lists it and no page of the issue carries it
+- M140 solved in kvant_1972_12: the heading lists it and no page of the issue carries it
+- F100 solved in kvant_1972_3: the heading lists it and no page of the issue carries it
+- F105 solved in kvant_1972_3: the heading lists it and no page of the issue carries it
+- F106 solved in kvant_1972_3: the heading lists it and no page of the issue carries it
+- F108 solved in kvant_1972_4: the heading lists it and no page of the issue carries it
+- F112 solved in kvant_1972_4: the heading lists it and no page of the issue carries it
+- F114 solved in kvant_1972_4: the heading lists it and no page of the issue carries it
+- F115 solved in kvant_1972_4: the heading lists it and no page of the issue carries it
+- M100 solved in kvant_1972_4: the heading lists it and no page of the issue carries it
+- F122 solved in kvant_1972_5: the heading lists it and no page of the issue carries it
+- F155 posed in kvant_1972_5: the heading lists it and no page of the issue carries it
+- F156 posed in kvant_1972_5: the heading lists it and no page of the issue carries it
+- F157 posed in kvant_1972_5: the heading lists it and no page of the issue carries it
+- F159 posed in kvant_1972_6: the heading lists it and no page of the issue carries it
+- F160 posed in kvant_1972_6: the heading lists it and no page of the issue carries it
+- F161 posed in kvant_1972_6: the heading lists it and no page of the issue carries it
+- F162 posed in kvant_1972_6: the heading lists it and no page of the issue carries it
+- F137 solved in kvant_1972_8: the heading lists it and no page of the issue carries it
+- M113 solved in kvant_1972_8: the heading lists it and no page of the issue carries it
+- M114 solved in kvant_1972_8: the heading lists it and no page of the issue carries it
+- M117 solved in kvant_1972_8: the heading lists it and no page of the issue carries it
+- M120 solved in kvant_1972_8: the heading lists it and no page of the issue carries it
+- M121 solved in kvant_1972_8: the heading lists it and no page of the issue carries it
+- F138 solved in kvant_1972_9: the heading lists it and no page of the issue carries it
+- F142 solved in kvant_1972_9: the heading lists it and no page of the issue carries it
+- F173 posed in kvant_1972_9: the heading lists it and no page of the issue carries it
+- F174 posed in kvant_1972_9: the heading lists it and no page of the issue carries it
+- F175 posed in kvant_1972_9: the heading lists it and no page of the issue carries it
+- F176 posed in kvant_1972_9: the heading lists it and no page of the issue carries it
+- F177 posed in kvant_1972_9: the heading lists it and no page of the issue carries it
+- M165 posed in kvant_1972_9: the heading lists it and no page of the issue carries it
+- F159 solved in kvant_1973_1: the heading lists it and no page of the issue carries it
+- F199 solved in kvant_1973_10: the heading lists it and no page of the issue carries it
+- M187 solved in kvant_1973_10: the heading lists it and no page of the issue carries it
+- M234 posed in kvant_1973_11: the heading lists it and no page of the issue carries it
+- M196 solved in kvant_1973_12: the heading lists it and no page of the issue carries it
+- M197 solved in kvant_1973_12: the heading lists it and no page of the issue carries it
+- M238 posed in kvant_1973_12: the heading lists it and no page of the issue carries it
+- F164 solved in kvant_1973_2: the heading lists it and no page of the issue carries it
+- F165 solved in kvant_1973_2: the heading lists it and no page of the issue carries it
+- F166 solved in kvant_1973_2: the heading lists it and no page of the issue carries it
+- F174 solved in kvant_1973_3: the heading lists it and no page of the issue carries it
+- F176 solved in kvant_1973_4: the heading lists it and no page of the issue carries it
+- F210 posed in kvant_1973_4: the heading lists it and no page of the issue carries it
+- F211 posed in kvant_1973_4: the heading lists it and no page of the issue carries it
+- F212 posed in kvant_1973_4: the heading lists it and no page of the issue carries it
+- M198 posed in kvant_1973_4: the heading lists it and no page of the issue carries it
+- M206 posed in kvant_1973_5: the heading lists it and no page of the issue carries it
+- F191 solved in kvant_1973_7: the heading lists it and no page of the issue carries it
+- F192 solved in kvant_1973_7: the heading lists it and no page of the issue carries it
+- F195 solved in kvant_1973_9: the heading lists it and no page of the issue carries it
+- F233 posed in kvant_1973_9: the heading lists it and no page of the issue carries it
+- F234 posed in kvant_1973_9: the heading lists it and no page of the issue carries it
+- F235 posed in kvant_1973_9: the heading lists it and no page of the issue carries it
+- F236 posed in kvant_1973_9: the heading lists it and no page of the issue carries it
+- F237 posed in kvant_1973_9: the heading lists it and no page of the issue carries it
+- M180 solved in kvant_1973_9: the heading lists it and no page of the issue carries it
+- M182 solved in kvant_1973_9: the heading lists it and no page of the issue carries it
+- M225 posed in kvant_1973_9: the heading lists it and no page of the issue carries it
+- F211 solved in kvant_1974_1: the heading lists it and no page of the issue carries it
+- F212 solved in kvant_1974_1: the heading lists it and no page of the issue carries it
+- M204 solved in kvant_1974_1: the heading lists it and no page of the issue carries it
+- F265 solved in kvant_1974_11: the heading lists it and no page of the issue carries it
+- M252 solved in kvant_1974_11: the heading lists it and no page of the issue carries it
+- F258 posed in kvant_1974_2: the heading lists it and no page of the issue carries it
+- F259 posed in kvant_1974_2: the heading lists it and no page of the issue carries it
+- F260 posed in kvant_1974_2: the heading lists it and no page of the issue carries it
+- M207 solved in kvant_1974_2: the heading lists it and no page of the issue carries it
+- F218 solved in kvant_1974_3: the heading lists it and no page of the issue carries it
+- F219 solved in kvant_1974_3: the heading lists it and no page of the issue carries it
+- F220 solved in kvant_1974_3: the heading lists it and no page of the issue carries it
+- F221 solved in kvant_1974_3: the heading lists it and no page of the issue carries it
+- F222 solved in kvant_1974_3: the heading lists it and no page of the issue carries it
+- F223 solved in kvant_1974_4: the heading lists it and no page of the issue carries it
+- F226 solved in kvant_1974_4: the heading lists it and no page of the issue carries it
+- F227 solved in kvant_1974_4: the heading lists it and no page of the issue carries it
+- F269 posed in kvant_1974_4: the heading lists it and no page of the issue carries it
+- M217 solved in kvant_1974_4: the heading lists it and no page of the issue carries it
+- M218 solved in kvant_1974_4: the heading lists it and no page of the issue carries it
+- F232 solved in kvant_1974_5: the heading lists it and no page of the issue carries it
+- F237 solved in kvant_1974_6: the heading lists it and no page of the issue carries it
+- M228 solved in kvant_1974_6: the heading lists it and no page of the issue carries it
+- M229 solved in kvant_1974_6: the heading lists it and no page of the issue carries it
+- F239 solved in kvant_1974_7: the heading lists it and no page of the issue carries it
+- F286 posed in kvant_1974_7: the heading lists it and no page of the issue carries it
+- F287 posed in kvant_1974_7: the heading lists it and no page of the issue carries it
+- M275 posed in kvant_1974_7: the heading lists it and no page of the issue carries it
+- M237 solved in kvant_1974_8: the heading lists it and no page of the issue carries it
+- M240 solved in kvant_1974_8: the heading lists it and no page of the issue carries it
+- F252 solved in kvant_1974_9: the heading lists it and no page of the issue carries it
+- F294 posed in kvant_1974_9: the heading lists it and no page of the issue carries it
+- F296 posed in kvant_1974_9: the heading lists it and no page of the issue carries it
+- F297 posed in kvant_1974_9: the heading lists it and no page of the issue carries it
+- M241 solved in kvant_1974_9: the heading lists it and no page of the issue carries it
+- M268 solved in kvant_1975_1: the heading lists it and no page of the issue carries it
+- M305 posed in kvant_1975_1: the heading lists it and no page of the issue carries it
+- M310 solved in kvant_1975_10: the heading lists it and no page of the issue carries it
+- M314 solved in kvant_1975_10: the heading lists it and no page of the issue carries it
+- F323 solved in kvant_1975_11: the heading lists it and no page of the issue carries it
+- F325 solved in kvant_1975_11: the heading lists it and no page of the issue carries it
+- F329 solved in kvant_1975_11: the heading lists it and no page of the issue carries it
+- M316 solved in kvant_1975_11: the heading lists it and no page of the issue carries it
+- M317 solved in kvant_1975_11: the heading lists it and no page of the issue carries it
+- F278 solved in kvant_1975_2: the heading lists it and no page of the issue carries it
+- F281 solved in kvant_1975_2: the heading lists it and no page of the issue carries it
+- F284 solved in kvant_1975_2: the heading lists it and no page of the issue carries it
+- M270 solved in kvant_1975_2: the heading lists it and no page of the issue carries it
+- M271 solved in kvant_1975_2: the heading lists it and no page of the issue carries it
+- F286 solved in kvant_1975_3: the heading lists it and no page of the issue carries it
+- F300 solved in kvant_1975_6: the heading lists it and no page of the issue carries it
+- M293 solved in kvant_1975_6: the heading lists it and no page of the issue carries it
+- F299 solved in kvant_1975_7: the heading lists it and no page of the issue carries it
+- F307 solved in kvant_1975_7: the heading lists it and no page of the issue carries it
+- F311 solved in kvant_1975_7: the heading lists it and no page of the issue carries it
+- F346 posed in kvant_1975_7: the heading lists it and no page of the issue carries it
+- F347 posed in kvant_1975_7: the heading lists it and no page of the issue carries it
+- M297 solved in kvant_1975_7: the heading lists it and no page of the issue carries it
+- M298 solved in kvant_1975_7: the heading lists it and no page of the issue carries it
+- F317 solved in kvant_1975_9: the heading lists it and no page of the issue carries it
+- M305 solved in kvant_1975_9: the heading lists it and no page of the issue carries it
+- M306 solved in kvant_1975_9: the heading lists it and no page of the issue carries it
+- F338 solved in kvant_1976_1: the heading lists it and no page of the issue carries it
+- M323 solved in kvant_1976_1: the heading lists it and no page of the issue carries it
+- M324 solved in kvant_1976_1: the heading lists it and no page of the issue carries it
+- F375 solved in kvant_1976_10: the heading lists it and no page of the issue carries it
+- M365 solved in kvant_1976_10: the heading lists it and no page of the issue carries it
+- F431 posed in kvant_1976_12: the heading lists it and no page of the issue carries it
+- F432 posed in kvant_1976_12: the heading lists it and no page of the issue carries it
+- F341 solved in kvant_1976_2: the heading lists it and no page of the issue carries it
+- F342 solved in kvant_1976_2: the heading lists it and no page of the issue carries it
+- M326 solved in kvant_1976_2: the heading lists it and no page of the issue carries it
+- F345 solved in kvant_1976_3: the heading lists it and no page of the issue carries it
+- M335 solved in kvant_1976_3: the heading lists it and no page of the issue carries it
+- F352 solved in kvant_1976_4: the heading lists it and no page of the issue carries it
+- M339 solved in kvant_1976_4: the heading lists it and no page of the issue carries it
+- M380 posed in kvant_1976_4: the heading lists it and no page of the issue carries it
+- M341 solved in kvant_1976_5: the heading lists it and no page of the issue carries it
+- M382 posed in kvant_1976_5: the heading lists it and no page of the issue carries it
+- F353 solved in kvant_1976_6: the heading lists it and no page of the issue carries it
+- F354 solved in kvant_1976_6: the heading lists it and no page of the issue carries it
+- M346 solved in kvant_1976_6: the heading lists it and no page of the issue carries it
+- M388 posed in kvant_1976_6: the heading lists it and no page of the issue carries it
+- M352 solved in kvant_1976_7: the heading lists it and no page of the issue carries it
+- M353 solved in kvant_1976_7: the heading lists it and no page of the issue carries it
+- M360 solved in kvant_1976_8: the heading lists it and no page of the issue carries it
+- F372 solved in kvant_1976_9: the heading lists it and no page of the issue carries it
+- F389 solved in kvant_1977_1: the heading lists it and no page of the issue carries it
+- F390 solved in kvant_1977_1: the heading lists it and no page of the issue carries it
+- F391 solved in kvant_1977_1: the heading lists it and no page of the issue carries it
+- F392 solved in kvant_1977_1: the heading lists it and no page of the issue carries it
+- F444 solved in kvant_1977_11: the heading lists it and no page of the issue carries it
+- F446 solved in kvant_1977_12: the heading lists it and no page of the issue carries it
+- F400 solved in kvant_1977_3: the heading lists it and no page of the issue carries it
+- F401 solved in kvant_1977_3: the heading lists it and no page of the issue carries it
+- F403 solved in kvant_1977_4: the heading lists it and no page of the issue carries it
+- F404 solved in kvant_1977_4: the heading lists it and no page of the issue carries it
+- F409 solved in kvant_1977_5: the heading lists it and no page of the issue carries it
+- F410 solved in kvant_1977_5: the heading lists it and no page of the issue carries it
+- F417 solved in kvant_1977_6: the heading lists it and no page of the issue carries it
+- F419 solved in kvant_1977_6: the heading lists it and no page of the issue carries it
+- F422 solved in kvant_1977_6: the heading lists it and no page of the issue carries it
+- M405 solved in kvant_1977_6: the heading lists it and no page of the issue carries it
+- M406 solved in kvant_1977_6: the heading lists it and no page of the issue carries it
+- M407 solved in kvant_1977_6: the heading lists it and no page of the issue carries it
+- M415 solved in kvant_1977_7: the heading lists it and no page of the issue carries it
+- F435 solved in kvant_1977_9: the heading lists it and no page of the issue carries it
+- M422 solved in kvant_1977_9: the heading lists it and no page of the issue carries it
+- M423 solved in kvant_1977_9: the heading lists it and no page of the issue carries it
+- F452 solved in kvant_1978_1: the heading lists it and no page of the issue carries it
+- M439 solved in kvant_1978_1: the heading lists it and no page of the issue carries it
+- M440 solved in kvant_1978_1: the heading lists it and no page of the issue carries it
+- M483 solved in kvant_1978_10: the heading lists it and no page of the issue carries it
+- F499 solved in kvant_1978_11: the heading lists it and no page of the issue carries it
+- F500 solved in kvant_1978_11: the heading lists it and no page of the issue carries it
+- F501 solved in kvant_1978_11: the heading lists it and no page of the issue carries it
+- F543 posed in kvant_1978_11: the heading lists it and no page of the issue carries it
+- F544 posed in kvant_1978_11: the heading lists it and no page of the issue carries it
+- F545 posed in kvant_1978_11: the heading lists it and no page of the issue carries it
+- F546 posed in kvant_1978_11: the heading lists it and no page of the issue carries it
+- F547 posed in kvant_1978_11: the heading lists it and no page of the issue carries it
+- F453 solved in kvant_1978_2: the heading lists it and no page of the issue carries it
+- M442 solved in kvant_1978_2: the heading lists it and no page of the issue carries it
+- M444 solved in kvant_1978_3: the heading lists it and no page of the issue carries it
+- F466 solved in kvant_1978_4: the heading lists it and no page of the issue carries it
+- M448 solved in kvant_1978_4: the heading lists it and no page of the issue carries it
+- F468 solved in kvant_1978_5: the heading lists it and no page of the issue carries it
+- F470 solved in kvant_1978_5: the heading lists it and no page of the issue carries it
+- F471 solved in kvant_1978_5: the heading lists it and no page of the issue carries it
+- F475 solved in kvant_1978_6: the heading lists it and no page of the issue carries it
+- M460 solved in kvant_1978_6: the heading lists it and no page of the issue carries it
+- F523 posed in kvant_1978_7: the heading lists it and no page of the issue carries it
+- F524 posed in kvant_1978_7: the heading lists it and no page of the issue carries it
+- F525 posed in kvant_1978_7: the heading lists it and no page of the issue carries it
+- F526 posed in kvant_1978_7: the heading lists it and no page of the issue carries it
+- F527 posed in kvant_1978_7: the heading lists it and no page of the issue carries it
+- F482 solved in kvant_1978_8: the heading lists it and no page of the issue carries it
+- F485 solved in kvant_1978_8: the heading lists it and no page of the issue carries it
+- M468 solved in kvant_1978_8: the heading lists it and no page of the issue carries it
+- F488 solved in kvant_1978_9: the heading lists it and no page of the issue carries it
+- F489 solved in kvant_1978_9: the heading lists it and no page of the issue carries it
+- F492 solved in kvant_1978_9: the heading lists it and no page of the issue carries it
+- M474 solved in kvant_1978_9: the heading lists it and no page of the issue carries it
+- M499 solved in kvant_1979_1: the heading lists it and no page of the issue carries it
+- F542 solved in kvant_1979_10: the heading lists it and no page of the issue carries it
+- F543 solved in kvant_1979_10: the heading lists it and no page of the issue carries it
+- F544 solved in kvant_1979_10: the heading lists it and no page of the issue carries it
+- F545 solved in kvant_1979_10: the heading lists it and no page of the issue carries it
+- M530 solved in kvant_1979_10: the heading lists it and no page of the issue carries it
+- M534 solved in kvant_1979_10: the heading lists it and no page of the issue carries it
+- F550 solved in kvant_1979_11: the heading lists it and no page of the issue carries it
+- M539 solved in kvant_1979_11: the heading lists it and no page of the issue carries it
+- F554 solved in kvant_1979_12: the heading lists it and no page of the issue carries it
+- F517 solved in kvant_1979_3: the heading lists it and no page of the issue carries it
+- M506 solved in kvant_1979_3: the heading lists it and no page of the issue carries it
+- F519 solved in kvant_1979_4: the heading lists it and no page of the issue carries it
+- F520 solved in kvant_1979_4: the heading lists it and no page of the issue carries it
+- M510 solved in kvant_1979_4: the heading lists it and no page of the issue carries it
+- F528 solved in kvant_1979_6: the heading lists it and no page of the issue carries it
+- M515 solved in kvant_1979_6: the heading lists it and no page of the issue carries it
+- M517 solved in kvant_1979_7: the heading lists it and no page of the issue carries it
+- M519 solved in kvant_1979_7: the heading lists it and no page of the issue carries it
+- F561 solved in kvant_1980_1: the heading lists it and no page of the issue carries it
+- F562 solved in kvant_1980_1: the heading lists it and no page of the issue carries it
+- M548 solved in kvant_1980_1: the heading lists it and no page of the issue carries it
+- M549 solved in kvant_1980_1: the heading lists it and no page of the issue carries it
+- M550 solved in kvant_1980_1: the heading lists it and no page of the issue carries it
+- F612 solved in kvant_1980_11: the heading lists it and no page of the issue carries it
+- F617 solved in kvant_1980_12: the heading lists it and no page of the issue carries it
+- F569 solved in kvant_1980_3: the heading lists it and no page of the issue carries it
+- F570 solved in kvant_1980_3: the heading lists it and no page of the issue carries it
+- F571 solved in kvant_1980_3: the heading lists it and no page of the issue carries it
+- F572 solved in kvant_1980_3: the heading lists it and no page of the issue carries it
+- F628 posed in kvant_1980_4: the heading lists it and no page of the issue carries it
+- F629 posed in kvant_1980_4: the heading lists it and no page of the issue carries it
+- F630 posed in kvant_1980_4: the heading lists it and no page of the issue carries it
+- F631 posed in kvant_1980_4: the heading lists it and no page of the issue carries it
+- F632 posed in kvant_1980_4: the heading lists it and no page of the issue carries it
+- F638 posed in kvant_1980_6: the heading lists it and no page of the issue carries it
+- F639 posed in kvant_1980_6: the heading lists it and no page of the issue carries it
+- F640 posed in kvant_1980_6: the heading lists it and no page of the issue carries it
+- F641 posed in kvant_1980_6: the heading lists it and no page of the issue carries it
+- F642 posed in kvant_1980_6: the heading lists it and no page of the issue carries it
+- M570 solved in kvant_1980_6: the heading lists it and no page of the issue carries it
+- M630 posed in kvant_1980_6: the heading lists it and no page of the issue carries it
+- F585 solved in kvant_1980_7: the heading lists it and no page of the issue carries it
+- F591 solved in kvant_1980_8: the heading lists it and no page of the issue carries it
+- M586 solved in kvant_1980_8: the heading lists it and no page of the issue carries it
+- M587 solved in kvant_1980_8: the heading lists it and no page of the issue carries it
+- M591 solved in kvant_1980_8: the heading lists it and no page of the issue carries it
+- F599 solved in kvant_1980_9: the heading lists it and no page of the issue carries it
+- F602 solved in kvant_1980_9: the heading lists it and no page of the issue carries it
+- F603 solved in kvant_1980_9: the heading lists it and no page of the issue carries it
+- M599 solved in kvant_1980_9: the heading lists it and no page of the issue carries it
+- F618 solved in kvant_1981_1: the heading lists it and no page of the issue carries it
+- F619 solved in kvant_1981_1: the heading lists it and no page of the issue carries it
+- M615 solved in kvant_1981_1: the heading lists it and no page of the issue carries it
+- F681 solved in kvant_1981_10: the heading lists it and no page of the issue carries it
+- F682 solved in kvant_1981_10: the heading lists it and no page of the issue carries it
+- F729 posed in kvant_1981_12: the heading lists it and no page of the issue carries it
+- F730 posed in kvant_1981_12: the heading lists it and no page of the issue carries it
+- F731 posed in kvant_1981_12: the heading lists it and no page of the issue carries it
+- F732 posed in kvant_1981_12: the heading lists it and no page of the issue carries it
+- F626 solved in kvant_1981_2: the heading lists it and no page of the issue carries it
+- F627 solved in kvant_1981_2: the heading lists it and no page of the issue carries it
+- F678 posed in kvant_1981_2: the heading lists it and no page of the issue carries it
+- F679 posed in kvant_1981_2: the heading lists it and no page of the issue carries it
+- F680 posed in kvant_1981_2: the heading lists it and no page of the issue carries it
+- F681 posed in kvant_1981_2: the heading lists it and no page of the issue carries it
+- F682 posed in kvant_1981_2: the heading lists it and no page of the issue carries it
+- F691 posed in kvant_1981_4: the heading lists it and no page of the issue carries it
+- F692 posed in kvant_1981_4: the heading lists it and no page of the issue carries it
+- M636 solved in kvant_1981_5: the heading lists it and no page of the issue carries it
+- F662 solved in kvant_1981_6: the heading lists it and no page of the issue carries it
+- M643 solved in kvant_1981_6: the heading lists it and no page of the issue carries it
+- F663 solved in kvant_1981_7: the heading lists it and no page of the issue carries it
+- M647 solved in kvant_1981_7: the heading lists it and no page of the issue carries it
+- F672 solved in kvant_1981_8: the heading lists it and no page of the issue carries it
+- M656 solved in kvant_1981_8: the heading lists it and no page of the issue carries it
+- F713 posed in kvant_1981_9: the heading lists it and no page of the issue carries it
+- F714 posed in kvant_1981_9: the heading lists it and no page of the issue carries it
+- F715 posed in kvant_1981_9: the heading lists it and no page of the issue carries it
+- F716 posed in kvant_1981_9: the heading lists it and no page of the issue carries it
+- F717 posed in kvant_1981_9: the heading lists it and no page of the issue carries it
+- F737 posed in kvant_1982_1: the heading lists it and no page of the issue carries it
+- M741 solved in kvant_1982_10: the heading lists it and no page of the issue carries it
+- F761 solved in kvant_1982_11: the heading lists it and no page of the issue carries it
+- F762 solved in kvant_1982_11: the heading lists it and no page of the issue carries it
+- F763 solved in kvant_1982_11: the heading lists it and no page of the issue carries it
+- M747 solved in kvant_1982_11: the heading lists it and no page of the issue carries it
+- F775 solved in kvant_1982_12: the heading lists it and no page of the issue carries it
+- F776 solved in kvant_1982_12: the heading lists it and no page of the issue carries it
+- F777 solved in kvant_1982_12: the heading lists it and no page of the issue carries it
+- F788 posed in kvant_1982_12: the heading lists it and no page of the issue carries it
+- F789 posed in kvant_1982_12: the heading lists it and no page of the issue carries it
+- F790 posed in kvant_1982_12: the heading lists it and no page of the issue carries it
+- F791 posed in kvant_1982_12: the heading lists it and no page of the issue carries it
+- F792 posed in kvant_1982_12: the heading lists it and no page of the issue carries it
+- M750 solved in kvant_1982_12: the heading lists it and no page of the issue carries it
+- M755 solved in kvant_1982_12: the heading lists it and no page of the issue carries it
+- M756 solved in kvant_1982_12: the heading lists it and no page of the issue carries it
+- M757 solved in kvant_1982_12: the heading lists it and no page of the issue carries it
+- F698 solved in kvant_1982_2: the heading lists it and no page of the issue carries it
+- F699 solved in kvant_1982_2: the heading lists it and no page of the issue carries it
+- F700 solved in kvant_1982_2: the heading lists it and no page of the issue carries it
+- M686 solved in kvant_1982_2: the heading lists it and no page of the issue carries it
+- F747 posed in kvant_1982_3: the heading lists it and no page of the issue carries it
+- M692 solved in kvant_1982_3: the heading lists it and no page of the issue carries it
+- F718 solved in kvant_1982_6: the heading lists it and no page of the issue carries it
+- M749 posed in kvant_1982_6: the heading lists it and no page of the issue carries it
+- M723 solved in kvant_1982_8: the heading lists it and no page of the issue carries it
+- M729 solved in kvant_1982_8: the heading lists it and no page of the issue carries it
+- M730 solved in kvant_1982_8: the heading lists it and no page of the issue carries it
+- F743 solved in kvant_1982_9: the heading lists it and no page of the issue carries it
+- F747 solved in kvant_1982_9: the heading lists it and no page of the issue carries it
+- F777 posed in kvant_1982_9: the heading lists it and no page of the issue carries it
+- M732 solved in kvant_1982_9: the heading lists it and no page of the issue carries it
+- M733 solved in kvant_1982_9: the heading lists it and no page of the issue carries it
+- M735 solved in kvant_1982_9: the heading lists it and no page of the issue carries it
+- M736 solved in kvant_1982_9: the heading lists it and no page of the issue carries it
+- M737 solved in kvant_1982_9: the heading lists it and no page of the issue carries it
+- M738 solved in kvant_1982_9: the heading lists it and no page of the issue carries it
+- F797 posed in kvant_1983_1: the heading lists it and no page of the issue carries it
+- F824 solved in kvant_1983_10: the heading lists it and no page of the issue carries it
+- F825 solved in kvant_1983_10: the heading lists it and no page of the issue carries it
+- F826 solved in kvant_1983_10: the heading lists it and no page of the issue carries it
+- F842 posed in kvant_1983_10: the heading lists it and no page of the issue carries it
+- M811 solved in kvant_1983_10: the heading lists it and no page of the issue carries it
+- M812 solved in kvant_1983_10: the heading lists it and no page of the issue carries it
+- M813 solved in kvant_1983_10: the heading lists it and no page of the issue carries it
+- M814 solved in kvant_1983_10: the heading lists it and no page of the issue carries it
+- F828 solved in kvant_1983_11: the heading lists it and no page of the issue carries it
+- F829 solved in kvant_1983_11: the heading lists it and no page of the issue carries it
+- F830 solved in kvant_1983_11: the heading lists it and no page of the issue carries it
+- M820 solved in kvant_1983_11: the heading lists it and no page of the issue carries it
+- F833 solved in kvant_1983_12: the heading lists it and no page of the issue carries it
+- M770 solved in kvant_1983_3: the heading lists it and no page of the issue carries it
+- F812 posed in kvant_1983_4: the heading lists it and no page of the issue carries it
+- F803 solved in kvant_1983_6: the heading lists it and no page of the issue carries it
+- F807 solved in kvant_1983_6: the heading lists it and no page of the issue carries it
+- F812 solved in kvant_1983_7: the heading lists it and no page of the issue carries it
+- F823 posed in kvant_1983_7: the heading lists it and no page of the issue carries it
+- F824 posed in kvant_1983_7: the heading lists it and no page of the issue carries it
+- F825 posed in kvant_1983_7: the heading lists it and no page of the issue carries it
+- F826 posed in kvant_1983_7: the heading lists it and no page of the issue carries it
+- F827 posed in kvant_1983_7: the heading lists it and no page of the issue carries it
+- M796 solved in kvant_1983_7: the heading lists it and no page of the issue carries it
+- M798 solved in kvant_1983_7: the heading lists it and no page of the issue carries it
+- M801 solved in kvant_1983_8: the heading lists it and no page of the issue carries it
+- F821 solved in kvant_1983_9: the heading lists it and no page of the issue carries it
+- F822 solved in kvant_1983_9: the heading lists it and no page of the issue carries it
+- F841 solved in kvant_1984_1: the heading lists it and no page of the issue carries it
+- M826 solved in kvant_1984_1: the heading lists it and no page of the issue carries it
+- M876 solved in kvant_1984_11: the heading lists it and no page of the issue carries it
+- F893 solved in kvant_1984_12: the heading lists it and no page of the issue carries it
+- F853 solved in kvant_1984_4: the heading lists it and no page of the issue carries it
+- F856 solved in kvant_1984_4: the heading lists it and no page of the issue carries it
+- F857 solved in kvant_1984_4: the heading lists it and no page of the issue carries it
+- M841 solved in kvant_1984_4: the heading lists it and no page of the issue carries it
+- M842 solved in kvant_1984_4: the heading lists it and no page of the issue carries it
+- M845 solved in kvant_1984_4: the heading lists it and no page of the issue carries it
+- M849 solved in kvant_1984_5: the heading lists it and no page of the issue carries it
+- F877 solved in kvant_1984_8: the heading lists it and no page of the issue carries it
+- M861 solved in kvant_1984_8: the heading lists it and no page of the issue carries it
+- F897 solved in kvant_1985_1: the heading lists it and no page of the issue carries it
+- F915 posed in kvant_1985_1: the heading lists it and no page of the issue carries it
+- M884 solved in kvant_1985_1: the heading lists it and no page of the issue carries it
+- M926 solved in kvant_1985_10: the heading lists it and no page of the issue carries it
+- M927 solved in kvant_1985_10: the heading lists it and no page of the issue carries it
+- M930 solved in kvant_1985_10: the heading lists it and no page of the issue carries it
+- F945 solved in kvant_1985_11: the heading lists it and no page of the issue carries it
+- F946 solved in kvant_1985_11: the heading lists it and no page of the issue carries it
+- F963 posed in kvant_1985_11: the heading lists it and no page of the issue carries it
+- F964 posed in kvant_1985_11: the heading lists it and no page of the issue carries it
+- F965 posed in kvant_1985_11: the heading lists it and no page of the issue carries it
+- F966 posed in kvant_1985_11: the heading lists it and no page of the issue carries it
+- F967 posed in kvant_1985_11: the heading lists it and no page of the issue carries it
+- M931 solved in kvant_1985_11: the heading lists it and no page of the issue carries it
+- F898 solved in kvant_1985_2: the heading lists it and no page of the issue carries it
+- F899 solved in kvant_1985_2: the heading lists it and no page of the issue carries it
+- M886 solved in kvant_1985_2: the heading lists it and no page of the issue carries it
+- M887 solved in kvant_1985_2: the heading lists it and no page of the issue carries it
+- F903 solved in kvant_1985_3: the heading lists it and no page of the issue carries it
+- F904 solved in kvant_1985_3: the heading lists it and no page of the issue carries it
+- F905 solved in kvant_1985_3: the heading lists it and no page of the issue carries it
+- F906 solved in kvant_1985_3: the heading lists it and no page of the issue carries it
+- F907 solved in kvant_1985_3: the heading lists it and no page of the issue carries it
+- M891 solved in kvant_1985_3: the heading lists it and no page of the issue carries it
+- F912 solved in kvant_1985_4: the heading lists it and no page of the issue carries it
+- M896 solved in kvant_1985_4: the heading lists it and no page of the issue carries it
+- M897 solved in kvant_1985_4: the heading lists it and no page of the issue carries it
+- M899 solved in kvant_1985_4: the heading lists it and no page of the issue carries it
+- M900 solved in kvant_1985_4: the heading lists it and no page of the issue carries it
+- F932 solved in kvant_1985_8: the heading lists it and no page of the issue carries it
+- M920 solved in kvant_1985_8: the heading lists it and no page of the issue carries it
+- F1001 solved in kvant_1986_10: the heading lists it and no page of the issue carries it
+- M986 solved in kvant_1986_10: the heading lists it and no page of the issue carries it
+- M989 solved in kvant_1986_10: the heading lists it and no page of the issue carries it
+- F1003 solved in kvant_1986_11: the heading lists it and no page of the issue carries it
+- F1004 solved in kvant_1986_11: the heading lists it and no page of the issue carries it
+- F1005 solved in kvant_1986_11: the heading lists it and no page of the issue carries it
+- F1006 solved in kvant_1986_11: the heading lists it and no page of the issue carries it
+- F1007 solved in kvant_1986_11: the heading lists it and no page of the issue carries it
+- M991 solved in kvant_1986_11: the heading lists it and no page of the issue carries it
+- M1000 solved in kvant_1986_12: the heading lists it and no page of the issue carries it
+- M996 solved in kvant_1986_12: the heading lists it and no page of the issue carries it
+- M997 solved in kvant_1986_12: the heading lists it and no page of the issue carries it
+- F958 solved in kvant_1986_2: the heading lists it and no page of the issue carries it
+- F959 solved in kvant_1986_2: the heading lists it and no page of the issue carries it
+- M949 solved in kvant_1986_2: the heading lists it and no page of the issue carries it
+- M950 solved in kvant_1986_2: the heading lists it and no page of the issue carries it
+- F989 posed in kvant_1986_4: the heading lists it and no page of the issue carries it
+- F990 posed in kvant_1986_4: the heading lists it and no page of the issue carries it
+- F991 posed in kvant_1986_4: the heading lists it and no page of the issue carries it
+- F992 posed in kvant_1986_4: the heading lists it and no page of the issue carries it
+- M958 solved in kvant_1986_4: the heading lists it and no page of the issue carries it
+- F986 solved in kvant_1986_7: the heading lists it and no page of the issue carries it
+- M971 solved in kvant_1986_7: the heading lists it and no page of the issue carries it
+- F988 solved in kvant_1986_8: the heading lists it and no page of the issue carries it
+- M976 solved in kvant_1986_8: the heading lists it and no page of the issue carries it
+- M979 solved in kvant_1986_8: the heading lists it and no page of the issue carries it
+- F997 solved in kvant_1986_9: the heading lists it and no page of the issue carries it
+- M981 solved in kvant_1986_9: the heading lists it and no page of the issue carries it
+- F1086 posed in kvant_1987_11: the heading lists it and no page of the issue carries it
+- F1087 posed in kvant_1987_11: the heading lists it and no page of the issue carries it
+- M1051 solved in kvant_1987_11: the heading lists it and no page of the issue carries it
+- M1054 solved in kvant_1987_11: the heading lists it and no page of the issue carries it
+- M1055 solved in kvant_1987_11: the heading lists it and no page of the issue carries it
+- F1067 solved in kvant_1987_12: the heading lists it and no page of the issue carries it
+- F1068 solved in kvant_1987_12: the heading lists it and no page of the issue carries it
+- M1056 solved in kvant_1987_12: the heading lists it and no page of the issue carries it
+- F1041 posed in kvant_1987_2: the heading lists it and no page of the issue carries it
+- F1042 posed in kvant_1987_2: the heading lists it and no page of the issue carries it
+- F1045 posed in kvant_1987_3: the heading lists it and no page of the issue carries it
+- F1046 posed in kvant_1987_3: the heading lists it and no page of the issue carries it
+- F1047 posed in kvant_1987_3: the heading lists it and no page of the issue carries it
+- F1028 solved in kvant_1987_4: the heading lists it and no page of the issue carries it
+- F1029 solved in kvant_1987_4: the heading lists it and no page of the issue carries it
+- F1052 posed in kvant_1987_4: the heading lists it and no page of the issue carries it
+- M1017 solved in kvant_1987_4: the heading lists it and no page of the issue carries it
+- F1066 posed in kvant_1987_7: the heading lists it and no page of the issue carries it
+- F1067 posed in kvant_1987_7: the heading lists it and no page of the issue carries it
+- M1031 solved in kvant_1987_7: the heading lists it and no page of the issue carries it
+- F1071 posed in kvant_1987_8: the heading lists it and no page of the issue carries it
+- F1072 posed in kvant_1987_8: the heading lists it and no page of the issue carries it
+- F1073 posed in kvant_1987_9: the heading lists it and no page of the issue carries it
+- M1061 solved in kvant_1988_1: the heading lists it and no page of the issue carries it
+- M1063 solved in kvant_1988_1: the heading lists it and no page of the issue carries it
+- M1064 solved in kvant_1988_1: the heading lists it and no page of the issue carries it
+- F1120 solved in kvant_1988_10: the heading lists it and no page of the issue carries it
+- F1121 solved in kvant_1988_10: the heading lists it and no page of the issue carries it
+- F1122 solved in kvant_1988_10: the heading lists it and no page of the issue carries it
+- M1109 solved in kvant_1988_10: the heading lists it and no page of the issue carries it
+- F1146 posed in kvant_1988_11-12: the heading lists it and no page of the issue carries it
+- F1147 posed in kvant_1988_11-12: the heading lists it and no page of the issue carries it
+- F1086 solved in kvant_1988_3: the heading lists it and no page of the issue carries it
+- F1087 solved in kvant_1988_3: the heading lists it and no page of the issue carries it
+- M1070 solved in kvant_1988_3: the heading lists it and no page of the issue carries it
+- M1081 solved in kvant_1988_5: the heading lists it and no page of the issue carries it
+- F1102 solved in kvant_1988_6: the heading lists it and no page of the issue carries it
+- F1104 solved in kvant_1988_7: the heading lists it and no page of the issue carries it
+- M1093 solved in kvant_1988_7: the heading lists it and no page of the issue carries it
+- F1110 solved in kvant_1988_8: the heading lists it and no page of the issue carries it
+- F1111 solved in kvant_1988_8: the heading lists it and no page of the issue carries it
+- F1130 posed in kvant_1988_8: the heading lists it and no page of the issue carries it
+- M1096 solved in kvant_1988_8: the heading lists it and no page of the issue carries it
+- M1101 solved in kvant_1988_9: the heading lists it and no page of the issue carries it
+- M1116 solved in kvant_1989_1: the heading lists it and no page of the issue carries it
+- M1166 solved in kvant_1989_11: the heading lists it and no page of the issue carries it
+- M1171 solved in kvant_1989_12: the heading lists it and no page of the issue carries it
+- M1121 solved in kvant_1989_2: the heading lists it and no page of the issue carries it
+- M1125 solved in kvant_1989_3: the heading lists it and no page of the issue carries it
+- M1128 solved in kvant_1989_3: the heading lists it and no page of the issue carries it
+- M1129 solved in kvant_1989_3: the heading lists it and no page of the issue carries it
+- M1131 solved in kvant_1989_4: the heading lists it and no page of the issue carries it
+- F1168 posed in kvant_1989_5: the heading lists it and no page of the issue carries it
+- F1169 posed in kvant_1989_5: the heading lists it and no page of the issue carries it
+- F1170 posed in kvant_1989_5: the heading lists it and no page of the issue carries it
+- M1141 solved in kvant_1989_6: the heading lists it and no page of the issue carries it
+- F1158 solved in kvant_1989_7: the heading lists it and no page of the issue carries it
+- M1150 solved in kvant_1989_7: the heading lists it and no page of the issue carries it
+- M1151 solved in kvant_1989_8: the heading lists it and no page of the issue carries it
+- M1156 solved in kvant_1989_9: the heading lists it and no page of the issue carries it
+- F2033 posed in kvant_2007_1: the heading lists it and no page of the issue carries it
+- F2034 posed in kvant_2007_1: the heading lists it and no page of the issue carries it
+- F2035 posed in kvant_2007_1: the heading lists it and no page of the issue carries it
+- F2036 posed in kvant_2007_1: the heading lists it and no page of the issue carries it
+- F2037 posed in kvant_2007_1: the heading lists it and no page of the issue carries it
+- F2038 posed in kvant_2007_1: the heading lists it and no page of the issue carries it
+- F2039 posed in kvant_2007_1: the heading lists it and no page of the issue carries it
+- F2040 posed in kvant_2007_1: the heading lists it and no page of the issue carries it
+- F2041 posed in kvant_2007_1: the heading lists it and no page of the issue carries it
+- F2042 posed in kvant_2007_1: the heading lists it and no page of the issue carries it
+- M2034 posed in kvant_2007_1: the heading lists it and no page of the issue carries it
+- M2035 posed in kvant_2007_1: the heading lists it and no page of the issue carries it
+- F2108 posed in kvant_2008_5: the heading lists it and no page of the issue carries it
+- F2109 posed in kvant_2008_5: the heading lists it and no page of the issue carries it
+- F2110 posed in kvant_2008_5: the heading lists it and no page of the issue carries it
+- F2111 posed in kvant_2008_5: the heading lists it and no page of the issue carries it
+- F2112 posed in kvant_2008_5: the heading lists it and no page of the issue carries it
+- F2113 posed in kvant_2008_5: the heading lists it and no page of the issue carries it
+- F2114 posed in kvant_2008_5: the heading lists it and no page of the issue carries it
+- F2115 posed in kvant_2008_5: the heading lists it and no page of the issue carries it
+- F2116 posed in kvant_2008_5: the heading lists it and no page of the issue carries it
+- F2117 posed in kvant_2008_5: the heading lists it and no page of the issue carries it
+- M2109 posed in kvant_2008_5: the heading lists it and no page of the issue carries it
+- M2110 posed in kvant_2008_5: the heading lists it and no page of the issue carries it
+- F2120 posed in kvant_2008_6: the heading lists it and no page of the issue carries it
+- F2121 posed in kvant_2008_6: the heading lists it and no page of the issue carries it
+- F2122 posed in kvant_2008_6: the heading lists it and no page of the issue carries it
+- M2115 posed in kvant_2008_6: the heading lists it and no page of the issue carries it
+- F2123 posed in kvant_2009_1: the heading lists it and no page of the issue carries it
+- F2124 posed in kvant_2009_1: the heading lists it and no page of the issue carries it
+- F2125 posed in kvant_2009_1: the heading lists it and no page of the issue carries it
+- F2126 posed in kvant_2009_1: the heading lists it and no page of the issue carries it
+- F2127 posed in kvant_2009_1: the heading lists it and no page of the issue carries it
+- F2128 posed in kvant_2009_1: the heading lists it and no page of the issue carries it
+- F2129 posed in kvant_2009_1: the heading lists it and no page of the issue carries it
+- F2138 posed in kvant_2009_3: the heading lists it and no page of the issue carries it
+- F2139 posed in kvant_2009_3: the heading lists it and no page of the issue carries it
+- F2140 posed in kvant_2009_3: the heading lists it and no page of the issue carries it
+- F2141 posed in kvant_2009_3: the heading lists it and no page of the issue carries it
+- F2142 posed in kvant_2009_3: the heading lists it and no page of the issue carries it
+- F2143 posed in kvant_2009_3: the heading lists it and no page of the issue carries it
+- F2144 posed in kvant_2009_3: the heading lists it and no page of the issue carries it
+- M2138 posed in kvant_2009_3: the heading lists it and no page of the issue carries it
+- F2130 solved in kvant_2009_4: the heading lists it and no page of the issue carries it
+- F2131 solved in kvant_2009_4: the heading lists it and no page of the issue carries it
+- F2132 solved in kvant_2009_4: the heading lists it and no page of the issue carries it
+- F2133 solved in kvant_2009_4: the heading lists it and no page of the issue carries it
+- F2134 solved in kvant_2009_4: the heading lists it and no page of the issue carries it
+- F2135 solved in kvant_2009_4: the heading lists it and no page of the issue carries it
+- F2136 solved in kvant_2009_4: the heading lists it and no page of the issue carries it
+- F2137 solved in kvant_2009_4: the heading lists it and no page of the issue carries it
+- M2117 solved in kvant_2009_4: the heading lists it and no page of the issue carries it
+- M2118 solved in kvant_2009_4: the heading lists it and no page of the issue carries it
+- M2119 solved in kvant_2009_4: the heading lists it and no page of the issue carries it
+- M2120 solved in kvant_2009_4: the heading lists it and no page of the issue carries it
+- M2121 solved in kvant_2009_4: the heading lists it and no page of the issue carries it
+- M2122 solved in kvant_2009_4: the heading lists it and no page of the issue carries it
+- M2123 solved in kvant_2009_4: the heading lists it and no page of the issue carries it
+- F2153 posed in kvant_2009_5: the heading lists it and no page of the issue carries it
+- F2154 posed in kvant_2009_5: the heading lists it and no page of the issue carries it
+- F2155 posed in kvant_2009_5: the heading lists it and no page of the issue carries it
+- F2156 posed in kvant_2009_5: the heading lists it and no page of the issue carries it
+- F2157 posed in kvant_2009_5: the heading lists it and no page of the issue carries it
+- F2158 posed in kvant_2009_5: the heading lists it and no page of the issue carries it
+- F2159 posed in kvant_2009_5: the heading lists it and no page of the issue carries it
+- M2152 posed in kvant_2009_5: the heading lists it and no page of the issue carries it
+- M2153 posed in kvant_2009_5: the heading lists it and no page of the issue carries it
+- F2192 posed in kvant_2010_4: the heading lists it and no page of the issue carries it
+- F2193 posed in kvant_2010_4: the heading lists it and no page of the issue carries it
+- F2194 posed in kvant_2010_4: the heading lists it and no page of the issue carries it
+- F2195 posed in kvant_2010_4: the heading lists it and no page of the issue carries it
+- F2196 posed in kvant_2010_4: the heading lists it and no page of the issue carries it
+- F2197 posed in kvant_2010_4: the heading lists it and no page of the issue carries it
+- F2315 solved in kvant_2014_1: the heading lists it and no page of the issue carries it
+- F2316 solved in kvant_2014_1: the heading lists it and no page of the issue carries it
+- F2317 solved in kvant_2014_1: the heading lists it and no page of the issue carries it
+- F2318 solved in kvant_2014_1: the heading lists it and no page of the issue carries it
+- F2319 solved in kvant_2014_1: the heading lists it and no page of the issue carries it
+- F2320 solved in kvant_2014_1: the heading lists it and no page of the issue carries it
+- F2321 solved in kvant_2014_1: the heading lists it and no page of the issue carries it
+- F2322 solved in kvant_2014_1: the heading lists it and no page of the issue carries it
+- M2313 solved in kvant_2014_1: the heading lists it and no page of the issue carries it
+- M2314 solved in kvant_2014_1: the heading lists it and no page of the issue carries it
+- M2315 solved in kvant_2014_1: the heading lists it and no page of the issue carries it
+- F2363 posed in kvant_2014_5-6: the heading lists it and no page of the issue carries it
+- F2364 posed in kvant_2014_5-6: the heading lists it and no page of the issue carries it
+- F2365 posed in kvant_2014_5-6: the heading lists it and no page of the issue carries it
+- F2366 posed in kvant_2014_5-6: the heading lists it and no page of the issue carries it
+- F2367 posed in kvant_2014_5-6: the heading lists it and no page of the issue carries it
+- F2368 posed in kvant_2014_5-6: the heading lists it and no page of the issue carries it
+- F2369 posed in kvant_2014_5-6: the heading lists it and no page of the issue carries it
+- F2370 posed in kvant_2014_5-6: the heading lists it and no page of the issue carries it
+- F2371 posed in kvant_2014_5-6: the heading lists it and no page of the issue carries it
+- F2372 posed in kvant_2014_5-6: the heading lists it and no page of the issue carries it
+- M2362 posed in kvant_2014_5-6: the heading lists it and no page of the issue carries it
+- M2363 posed in kvant_2014_5-6: the heading lists it and no page of the issue carries it
+- M2364 posed in kvant_2014_5-6: the heading lists it and no page of the issue carries it
+- M2365 posed in kvant_2014_5-6: the heading lists it and no page of the issue carries it
+- F2373 posed in kvant_2015_1: the heading lists it and no page of the issue carries it
+- F2374 posed in kvant_2015_1: the heading lists it and no page of the issue carries it
+- F2375 posed in kvant_2015_1: the heading lists it and no page of the issue carries it
+- F2376 posed in kvant_2015_1: the heading lists it and no page of the issue carries it
+- F2377 posed in kvant_2015_1: the heading lists it and no page of the issue carries it
+- F2378 posed in kvant_2015_1: the heading lists it and no page of the issue carries it
+- F2379 posed in kvant_2015_1: the heading lists it and no page of the issue carries it
+- M2372 posed in kvant_2015_1: the heading lists it and no page of the issue carries it
+- M2373 posed in kvant_2015_1: the heading lists it and no page of the issue carries it
+- F2373 solved in kvant_2015_3: the heading lists it and no page of the issue carries it
+- F2374 solved in kvant_2015_3: the heading lists it and no page of the issue carries it
+- F2375 solved in kvant_2015_3: the heading lists it and no page of the issue carries it
+- F2376 solved in kvant_2015_3: the heading lists it and no page of the issue carries it
+- F2377 solved in kvant_2015_3: the heading lists it and no page of the issue carries it
+- F2378 solved in kvant_2015_3: the heading lists it and no page of the issue carries it
+- F2379 solved in kvant_2015_3: the heading lists it and no page of the issue carries it
+- M2367 solved in kvant_2015_3: the heading lists it and no page of the issue carries it
+- M2369 solved in kvant_2015_3: the heading lists it and no page of the issue carries it
+- M2370 solved in kvant_2015_3: the heading lists it and no page of the issue carries it
+- M2371 solved in kvant_2015_3: the heading lists it and no page of the issue carries it
+- M2372 solved in kvant_2015_3: the heading lists it and no page of the issue carries it
+- M2373 solved in kvant_2015_3: the heading lists it and no page of the issue carries it
+- F2395 solved in kvant_2016_1: the heading lists it and no page of the issue carries it
+- F2396 solved in kvant_2016_1: the heading lists it and no page of the issue carries it
+- F2397 solved in kvant_2016_1: the heading lists it and no page of the issue carries it
+- F2398 solved in kvant_2016_1: the heading lists it and no page of the issue carries it
+- F2399 solved in kvant_2016_1: the heading lists it and no page of the issue carries it
+- F2400 solved in kvant_2016_1: the heading lists it and no page of the issue carries it
+- F2401 solved in kvant_2016_1: the heading lists it and no page of the issue carries it
+- F2402 solved in kvant_2016_1: the heading lists it and no page of the issue carries it
+- M2391 solved in kvant_2016_1: the heading lists it and no page of the issue carries it
+- M2392 solved in kvant_2016_1: the heading lists it and no page of the issue carries it
+- M2393 solved in kvant_2016_1: the heading lists it and no page of the issue carries it
+- M2394 solved in kvant_2016_1: the heading lists it and no page of the issue carries it
+- M2395 solved in kvant_2016_1: the heading lists it and no page of the issue carries it
+- M2413 posed in kvant_2016_1: the heading lists it and no page of the issue carries it
+- F2413 solved in kvant_2016_3: the heading lists it and no page of the issue carries it
+- F2414 solved in kvant_2016_3: the heading lists it and no page of the issue carries it
+- F2415 solved in kvant_2016_3: the heading lists it and no page of the issue carries it
+- F2416 solved in kvant_2016_3: the heading lists it and no page of the issue carries it
+- F2417 solved in kvant_2016_3: the heading lists it and no page of the issue carries it
+- F2418 solved in kvant_2016_3: the heading lists it and no page of the issue carries it
+- F2419 solved in kvant_2016_3: the heading lists it and no page of the issue carries it
+- M2411 solved in kvant_2016_3: the heading lists it and no page of the issue carries it
+- M2412 solved in kvant_2016_3: the heading lists it and no page of the issue carries it
+- M2413 solved in kvant_2016_3: the heading lists it and no page of the issue carries it
+- F2437 posed in kvant_2016_4: the heading lists it and no page of the issue carries it
+- F2438 posed in kvant_2016_4: the heading lists it and no page of the issue carries it
+- F2439 posed in kvant_2016_4: the heading lists it and no page of the issue carries it
+- F2440 posed in kvant_2016_4: the heading lists it and no page of the issue carries it
+- F2441 posed in kvant_2016_4: the heading lists it and no page of the issue carries it
+- F2442 posed in kvant_2016_4: the heading lists it and no page of the issue carries it
+- F2454 posed in kvant_2017_1: the heading lists it and no page of the issue carries it
+- F2455 posed in kvant_2017_1: the heading lists it and no page of the issue carries it
+- F2456 posed in kvant_2017_1: the heading lists it and no page of the issue carries it
+- F2489 posed in kvant_2017_10: the heading lists it and no page of the issue carries it
+- F2490 posed in kvant_2017_10: the heading lists it and no page of the issue carries it
+- F2491 posed in kvant_2017_10: the heading lists it and no page of the issue carries it
+- F2492 posed in kvant_2017_10: the heading lists it and no page of the issue carries it
+- F2497 posed in kvant_2017_12: the heading lists it and no page of the issue carries it
+- F2498 posed in kvant_2017_12: the heading lists it and no page of the issue carries it
+- F2499 posed in kvant_2017_12: the heading lists it and no page of the issue carries it
+- F2500 posed in kvant_2017_12: the heading lists it and no page of the issue carries it
+- F2458 posed in kvant_2017_2: the heading lists it and no page of the issue carries it
+- F2459 posed in kvant_2017_2: the heading lists it and no page of the issue carries it
+- F2460 posed in kvant_2017_2: the heading lists it and no page of the issue carries it
+- M2451 posed in kvant_2017_2: the heading lists it and no page of the issue carries it
+- F2462 posed in kvant_2017_3: the heading lists it and no page of the issue carries it
+- F2463 posed in kvant_2017_3: the heading lists it and no page of the issue carries it
+- F2464 posed in kvant_2017_3: the heading lists it and no page of the issue carries it
+- F2453 solved in kvant_2017_4: the heading lists it and no page of the issue carries it
+- F2454 solved in kvant_2017_4: the heading lists it and no page of the issue carries it
+- F2455 solved in kvant_2017_4: the heading lists it and no page of the issue carries it
+- F2456 solved in kvant_2017_4: the heading lists it and no page of the issue carries it
+- F2474 posed in kvant_2017_6: the heading lists it and no page of the issue carries it
+- F2475 posed in kvant_2017_6: the heading lists it and no page of the issue carries it
+- F2476 posed in kvant_2017_6: the heading lists it and no page of the issue carries it
+- F2483 posed in kvant_2017_8: the heading lists it and no page of the issue carries it
+- F2484 posed in kvant_2017_8: the heading lists it and no page of the issue carries it
+- F2539 posed in kvant_2018_10: the heading lists it and no page of the issue carries it
+- F2540 posed in kvant_2018_10: the heading lists it and no page of the issue carries it
+- M2533 posed in kvant_2018_10: the heading lists it and no page of the issue carries it
+- F2542 posed in kvant_2018_11: the heading lists it and no page of the issue carries it
+- F2543 posed in kvant_2018_11: the heading lists it and no page of the issue carries it
+- F2544 posed in kvant_2018_11: the heading lists it and no page of the issue carries it
+- M2536 posed in kvant_2018_11: the heading lists it and no page of the issue carries it
+- M2537 posed in kvant_2018_11: the heading lists it and no page of the issue carries it
+- F2547 posed in kvant_2018_12: the heading lists it and no page of the issue carries it
+- F2548 posed in kvant_2018_12: the heading lists it and no page of the issue carries it
+- M2541 posed in kvant_2018_12: the heading lists it and no page of the issue carries it
+- F2508 posed in kvant_2018_2: the heading lists it and no page of the issue carries it
+- M2500 posed in kvant_2018_2: the heading lists it and no page of the issue carries it
+- F2499 solved in kvant_2018_3: the heading lists it and no page of the issue carries it
+- F2500 solved in kvant_2018_3: the heading lists it and no page of the issue carries it
+- M2491 solved in kvant_2018_3: the heading lists it and no page of the issue carries it
+- M2492 solved in kvant_2018_3: the heading lists it and no page of the issue carries it
+- F2521 posed in kvant_2018_6: the heading lists it and no page of the issue carries it
+- F2523 posed in kvant_2018_6: the heading lists it and no page of the issue carries it
+- F2524 posed in kvant_2018_6: the heading lists it and no page of the issue carries it
+- M2516 posed in kvant_2018_6: the heading lists it and no page of the issue carries it
+- M2517 posed in kvant_2018_6: the heading lists it and no page of the issue carries it
+- F2525 posed in kvant_2018_7: the heading lists it and no page of the issue carries it
+- F2526 posed in kvant_2018_7: the heading lists it and no page of the issue carries it
+- F2527 posed in kvant_2018_7: the heading lists it and no page of the issue carries it
+- F2528 posed in kvant_2018_7: the heading lists it and no page of the issue carries it
+- F2531 posed in kvant_2018_8: the heading lists it and no page of the issue carries it
+- F2532 posed in kvant_2018_8: the heading lists it and no page of the issue carries it
+- F2537 solved in kvant_2019_1: the heading lists it and no page of the issue carries it
+- F2538 solved in kvant_2019_1: the heading lists it and no page of the issue carries it
+- F2539 solved in kvant_2019_1: the heading lists it and no page of the issue carries it
+- F2540 solved in kvant_2019_1: the heading lists it and no page of the issue carries it
+- M2532 solved in kvant_2019_1: the heading lists it and no page of the issue carries it
+- M2533 solved in kvant_2019_1: the heading lists it and no page of the issue carries it
+- F2595 posed in kvant_2019_12: the heading lists it and no page of the issue carries it
+- F2596 posed in kvant_2019_12: the heading lists it and no page of the issue carries it
+- M2588 posed in kvant_2019_12: the heading lists it and no page of the issue carries it
+- M2589 posed in kvant_2019_12: the heading lists it and no page of the issue carries it
+- F2545 solved in kvant_2019_3: the heading lists it and no page of the issue carries it
+- F2546 solved in kvant_2019_3: the heading lists it and no page of the issue carries it
+- F2547 solved in kvant_2019_3: the heading lists it and no page of the issue carries it
+- F2548 solved in kvant_2019_3: the heading lists it and no page of the issue carries it
+- M2539 solved in kvant_2019_3: the heading lists it and no page of the issue carries it
+- M2540 solved in kvant_2019_3: the heading lists it and no page of the issue carries it
+- M2541 solved in kvant_2019_3: the heading lists it and no page of the issue carries it
+- F2569 posed in kvant_2019_6: the heading lists it and no page of the issue carries it
+- F2570 posed in kvant_2019_6: the heading lists it and no page of the issue carries it
+- F2571 posed in kvant_2019_6: the heading lists it and no page of the issue carries it
+- F2572 posed in kvant_2019_6: the heading lists it and no page of the issue carries it
+- M2565 posed in kvant_2019_6: the heading lists it and no page of the issue carries it
+- F2561 solved in kvant_2019_7: the heading lists it and no page of the issue carries it
+- F2562 solved in kvant_2019_7: the heading lists it and no page of the issue carries it
+- F2563 solved in kvant_2019_7: the heading lists it and no page of the issue carries it
+- F2564 solved in kvant_2019_7: the heading lists it and no page of the issue carries it
+- M2555 solved in kvant_2019_7: the heading lists it and no page of the issue carries it
+- M2556 solved in kvant_2019_7: the heading lists it and no page of the issue carries it
+- M2557 solved in kvant_2019_7: the heading lists it and no page of the issue carries it
+- F2617 solved in kvant_2020_10: the heading lists it and no page of the issue carries it
+- F2618 solved in kvant_2020_10: the heading lists it and no page of the issue carries it
+- F2619 solved in kvant_2020_10: the heading lists it and no page of the issue carries it
+- M2610 solved in kvant_2020_10: the heading lists it and no page of the issue carries it
+- M2613 solved in kvant_2020_10: the heading lists it and no page of the issue carries it
+- F2633 posed in kvant_2020_11-12: the heading lists it and no page of the issue carries it
+- F2634 posed in kvant_2020_11-12: the heading lists it and no page of the issue carries it
+- F2635 posed in kvant_2020_11-12: the heading lists it and no page of the issue carries it
+- F2640 posed in kvant_2020_11-12: the heading lists it and no page of the issue carries it
+- M2630 posed in kvant_2020_11-12: the heading lists it and no page of the issue carries it
+- M2631 posed in kvant_2020_11-12: the heading lists it and no page of the issue carries it
+- M2632 posed in kvant_2020_11-12: the heading lists it and no page of the issue carries it
+- M2633 posed in kvant_2020_11-12: the heading lists it and no page of the issue carries it
+- F2602 posed in kvant_2020_3: the heading lists it and no page of the issue carries it
+- F2603 posed in kvant_2020_3: the heading lists it and no page of the issue carries it
+- F2604 posed in kvant_2020_3: the heading lists it and no page of the issue carries it
+- F2607 posed in kvant_2020_4: the heading lists it and no page of the issue carries it
+- F2608 posed in kvant_2020_4: the heading lists it and no page of the issue carries it
+- F2597 solved in kvant_2020_5: the heading lists it and no page of the issue carries it
+- F2598 solved in kvant_2020_5: the heading lists it and no page of the issue carries it
+- F2599 solved in kvant_2020_5: the heading lists it and no page of the issue carries it
+- F2600 solved in kvant_2020_5: the heading lists it and no page of the issue carries it
+- M2592 solved in kvant_2020_5: the heading lists it and no page of the issue carries it
+- M2593 solved in kvant_2020_5: the heading lists it and no page of the issue carries it
+- F2601 solved in kvant_2020_6: the heading lists it and no page of the issue carries it
+- F2602 solved in kvant_2020_6: the heading lists it and no page of the issue carries it
+- F2603 solved in kvant_2020_6: the heading lists it and no page of the issue carries it
+- F2604 solved in kvant_2020_6: the heading lists it and no page of the issue carries it
+- M2596 solved in kvant_2020_6: the heading lists it and no page of the issue carries it
+- M2597 solved in kvant_2020_6: the heading lists it and no page of the issue carries it
+- M2609 posed in kvant_2020_6: the heading lists it and no page of the issue carries it
+- F2623 posed in kvant_2020_8: the heading lists it and no page of the issue carries it
+- F2624 posed in kvant_2020_8: the heading lists it and no page of the issue carries it
+- F2654 posed in kvant_2021_4: the heading lists it and no page of the issue carries it
+- F2655 posed in kvant_2021_4: the heading lists it and no page of the issue carries it
+- F2656 posed in kvant_2021_4: the heading lists it and no page of the issue carries it
+- M2646 posed in kvant_2021_4: the heading lists it and no page of the issue carries it
+- F2660 posed in kvant_2021_5: the heading lists it and no page of the issue carries it
+- M2650 posed in kvant_2021_5: the heading lists it and no page of the issue carries it
+- F2662 posed in kvant_2021_6: the heading lists it and no page of the issue carries it
+- F2663 posed in kvant_2021_6: the heading lists it and no page of the issue carries it
+- F2664 posed in kvant_2021_6: the heading lists it and no page of the issue carries it
+- M2654 posed in kvant_2021_6: the heading lists it and no page of the issue carries it
+- F2713 solved in kvant_2022_10: the heading lists it and no page of the issue carries it
+- F2714 solved in kvant_2022_10: the heading lists it and no page of the issue carries it
+- F2715 solved in kvant_2022_10: the heading lists it and no page of the issue carries it
+- F2716 solved in kvant_2022_10: the heading lists it and no page of the issue carries it
+- M2706 solved in kvant_2022_10: the heading lists it and no page of the issue carries it
+- M2707 solved in kvant_2022_10: the heading lists it and no page of the issue carries it
+- M2708 solved in kvant_2022_10: the heading lists it and no page of the issue carries it
+- M2709 solved in kvant_2022_10: the heading lists it and no page of the issue carries it
+- F2717 solved in kvant_2022_11-12: the heading lists it and no page of the issue carries it
+- F2718 solved in kvant_2022_11-12: the heading lists it and no page of the issue carries it
+- F2719 solved in kvant_2022_11-12: the heading lists it and no page of the issue carries it
+- F2720 solved in kvant_2022_11-12: the heading lists it and no page of the issue carries it
+- M2697 solved in kvant_2022_11-12: the heading lists it and no page of the issue carries it
+- M2710 solved in kvant_2022_11-12: the heading lists it and no page of the issue carries it
+- M2711 solved in kvant_2022_11-12: the heading lists it and no page of the issue carries it
+- M2712 solved in kvant_2022_11-12: the heading lists it and no page of the issue carries it
+- M2713 solved in kvant_2022_11-12: the heading lists it and no page of the issue carries it
+- M2722 posed in kvant_2022_11-12: the heading lists it and no page of the issue carries it
+- F2685 solved in kvant_2022_3: the heading lists it and no page of the issue carries it
+- F2686 solved in kvant_2022_3: the heading lists it and no page of the issue carries it
+- F2687 solved in kvant_2022_3: the heading lists it and no page of the issue carries it
+- F2688 solved in kvant_2022_3: the heading lists it and no page of the issue carries it
+- M2678 solved in kvant_2022_3: the heading lists it and no page of the issue carries it
+- M2679 solved in kvant_2022_3: the heading lists it and no page of the issue carries it
+- M2680 solved in kvant_2022_3: the heading lists it and no page of the issue carries it
+- M2681 solved in kvant_2022_3: the heading lists it and no page of the issue carries it
+- M2690 posed in kvant_2022_3: the heading lists it and no page of the issue carries it
+- F2689 solved in kvant_2022_4: the heading lists it and no page of the issue carries it
+- F2690 solved in kvant_2022_4: the heading lists it and no page of the issue carries it
+- F2691 solved in kvant_2022_4: the heading lists it and no page of the issue carries it
+- F2692 solved in kvant_2022_4: the heading lists it and no page of the issue carries it
+- M2682 solved in kvant_2022_4: the heading lists it and no page of the issue carries it
+- M2683 solved in kvant_2022_4: the heading lists it and no page of the issue carries it
+- M2684 solved in kvant_2022_4: the heading lists it and no page of the issue carries it
+- M2685 solved in kvant_2022_4: the heading lists it and no page of the issue carries it
+- F2722 posed in kvant_2022_9: the heading lists it and no page of the issue carries it
+- F2723 posed in kvant_2022_9: the heading lists it and no page of the issue carries it
+- F2724 posed in kvant_2022_9: the heading lists it and no page of the issue carries it
+- M2714 posed in kvant_2022_9: the heading lists it and no page of the issue carries it
+- F2738 posed in kvant_2023_1: the heading lists it and no page of the issue carries it
+- F2739 posed in kvant_2023_1: the heading lists it and no page of the issue carries it
+- F2740 posed in kvant_2023_1: the heading lists it and no page of the issue carries it
+- M2730 posed in kvant_2023_1: the heading lists it and no page of the issue carries it
+- F2774 posed in kvant_2023_10: the heading lists it and no page of the issue carries it
+- F2775 posed in kvant_2023_10: the heading lists it and no page of the issue carries it
+- F2776 posed in kvant_2023_10: the heading lists it and no page of the issue carries it
+- F2777 posed in kvant_2023_11-12: the heading lists it and no page of the issue carries it
+- F2778 posed in kvant_2023_11-12: the heading lists it and no page of the issue carries it
+- F2779 posed in kvant_2023_11-12: the heading lists it and no page of the issue carries it
+- F2780 posed in kvant_2023_11-12: the heading lists it and no page of the issue carries it
+- F2781 posed in kvant_2023_11-12: the heading lists it and no page of the issue carries it
+- F2782 posed in kvant_2023_11-12: the heading lists it and no page of the issue carries it
+- F2783 posed in kvant_2023_11-12: the heading lists it and no page of the issue carries it
+- F2784 posed in kvant_2023_11-12: the heading lists it and no page of the issue carries it
+- M2777 posed in kvant_2023_11-12: the heading lists it and no page of the issue carries it
+- F2729 solved in kvant_2023_2: the heading lists it and no page of the issue carries it
+- F2730 solved in kvant_2023_2: the heading lists it and no page of the issue carries it
+- F2731 solved in kvant_2023_2: the heading lists it and no page of the issue carries it
+- F2732 solved in kvant_2023_2: the heading lists it and no page of the issue carries it
+- M2722 solved in kvant_2023_2: the heading lists it and no page of the issue carries it
+- M2724 solved in kvant_2023_2: the heading lists it and no page of the issue carries it
+- M2725 solved in kvant_2023_2: the heading lists it and no page of the issue carries it
+- F2746 posed in kvant_2023_3: the heading lists it and no page of the issue carries it
+- F2747 posed in kvant_2023_3: the heading lists it and no page of the issue carries it
+- F2748 posed in kvant_2023_3: the heading lists it and no page of the issue carries it
+- M2738 posed in kvant_2023_3: the heading lists it and no page of the issue carries it
+- F2749 solved in kvant_2023_7: the heading lists it and no page of the issue carries it
+- F2750 solved in kvant_2023_7: the heading lists it and no page of the issue carries it
+- F2751 solved in kvant_2023_7: the heading lists it and no page of the issue carries it
+- F2752 solved in kvant_2023_7: the heading lists it and no page of the issue carries it
+- M2742 solved in kvant_2023_7: the heading lists it and no page of the issue carries it
+- M2743 solved in kvant_2023_7: the heading lists it and no page of the issue carries it
+- M2754 posed in kvant_2023_7: the heading lists it and no page of the issue carries it
+- F2770 posed in kvant_2023_9: the heading lists it and no page of the issue carries it
+- F2771 posed in kvant_2023_9: the heading lists it and no page of the issue carries it
+- F2772 posed in kvant_2023_9: the heading lists it and no page of the issue carries it
+- F2813 solved in kvant_2024_11-12: the heading lists it and no page of the issue carries it
+- F2814 solved in kvant_2024_11-12: the heading lists it and no page of the issue carries it
+- F2815 solved in kvant_2024_11-12: the heading lists it and no page of the issue carries it
+- F2816 solved in kvant_2024_11-12: the heading lists it and no page of the issue carries it
+- F2825 posed in kvant_2024_11-12: the heading lists it and no page of the issue carries it
+- F2826 posed in kvant_2024_11-12: the heading lists it and no page of the issue carries it
+- F2827 posed in kvant_2024_11-12: the heading lists it and no page of the issue carries it
+- F2828 posed in kvant_2024_11-12: the heading lists it and no page of the issue carries it
+- F2829 posed in kvant_2024_11-12: the heading lists it and no page of the issue carries it
+- M2807 solved in kvant_2024_11-12: the heading lists it and no page of the issue carries it
+- M2808 solved in kvant_2024_11-12: the heading lists it and no page of the issue carries it
+- M2809 solved in kvant_2024_11-12: the heading lists it and no page of the issue carries it
+- M2823 posed in kvant_2024_11-12: the heading lists it and no page of the issue carries it
+- M2824 posed in kvant_2024_11-12: the heading lists it and no page of the issue carries it
+- M2825 posed in kvant_2024_11-12: the heading lists it and no page of the issue carries it
+- F2797 posed in kvant_2024_4: the heading lists it and no page of the issue carries it
+- F2798 posed in kvant_2024_4: the heading lists it and no page of the issue carries it
+- F2799 posed in kvant_2024_4: the heading lists it and no page of the issue carries it
+- F2800 posed in kvant_2024_4: the heading lists it and no page of the issue carries it
+- F2793 solved in kvant_2024_7: the heading lists it and no page of the issue carries it
+- F2794 solved in kvant_2024_7: the heading lists it and no page of the issue carries it
+- M2786 solved in kvant_2024_7: the heading lists it and no page of the issue carries it
+- M2787 solved in kvant_2024_7: the heading lists it and no page of the issue carries it
+- M2788 solved in kvant_2024_7: the heading lists it and no page of the issue carries it
+- M2789 solved in kvant_2024_7: the heading lists it and no page of the issue carries it
+- M2790 solved in kvant_2024_7: the heading lists it and no page of the issue carries it
+- M2791 solved in kvant_2024_7: the heading lists it and no page of the issue carries it
+- M2792 solved in kvant_2024_7: the heading lists it and no page of the issue carries it
+- F2806 solved in kvant_2024_9: the heading lists it and no page of the issue carries it
+- F2807 solved in kvant_2024_9: the heading lists it and no page of the issue carries it
+- F2808 solved in kvant_2024_9: the heading lists it and no page of the issue carries it
+- M2799 solved in kvant_2024_9: the heading lists it and no page of the issue carries it
+- M2800 solved in kvant_2024_9: the heading lists it and no page of the issue carries it
+- M2801 solved in kvant_2024_9: the heading lists it and no page of the issue carries it
+- F2842 posed in kvant_2025_3: the heading lists it and no page of the issue carries it
+- F2843 posed in kvant_2025_3: the heading lists it and no page of the issue carries it
+- F2844 posed in kvant_2025_3: the heading lists it and no page of the issue carries it
+- F2833 solved in kvant_2025_4: the heading lists it and no page of the issue carries it
+- F2834 solved in kvant_2025_4: the heading lists it and no page of the issue carries it
+- F2835 solved in kvant_2025_4: the heading lists it and no page of the issue carries it
+- F2836 solved in kvant_2025_4: the heading lists it and no page of the issue carries it
+- M2826 solved in kvant_2025_4: the heading lists it and no page of the issue carries it
+- M2827 solved in kvant_2025_4: the heading lists it and no page of the issue carries it
+- M2828 solved in kvant_2025_4: the heading lists it and no page of the issue carries it
+- M2829 solved in kvant_2025_4: the heading lists it and no page of the issue carries it
+- F2849 posed in kvant_2025_5-6: the heading lists it and no page of the issue carries it
+- F2850 posed in kvant_2025_5-6: the heading lists it and no page of the issue carries it
+- F2851 posed in kvant_2025_5-6: the heading lists it and no page of the issue carries it
+- F2855 posed in kvant_2025_5-6: the heading lists it and no page of the issue carries it
+- F2856 posed in kvant_2025_5-6: the heading lists it and no page of the issue carries it
+- M2847 posed in kvant_2025_5-6: the heading lists it and no page of the issue carries it
+- M2848 posed in kvant_2025_5-6: the heading lists it and no page of the issue carries it
+- M2849 posed in kvant_2025_5-6: the heading lists it and no page of the issue carries it
+
+## printed again (435)
+
+- F119 posed in kvant_1971_11: printed again, the posed half is already taken from kvant_1971_10
+- M75 posed in kvant_1971_3: printed again, the posed half is already taken from kvant_1971_12
+- F88 posed in kvant_1971_4: printed again, the posed half is already taken from kvant_1971_12
+- M28 solved in kvant_1971_4: printed again, the solved half is already taken from kvant_1971_3
+- M76 posed in kvant_1971_4: printed again, the posed half is already taken from kvant_1971_12
+- F45 solved in kvant_1971_7: printed again, the solved half is already taken from kvant_1971_4
+- M45 solved in kvant_1971_8: printed again, the solved half is already taken from kvant_1971_7
+- F183 posed in kvant_1972_11: printed again, the posed half is already taken from kvant_1972_10
+- F184 posed in kvant_1972_11: printed again, the posed half is already taken from kvant_1972_10
+- F92 posed in kvant_1972_2: printed again, the posed half is already taken from kvant_1971_4
+- F93 posed in kvant_1972_2: printed again, the posed half is already taken from kvant_1971_5
+- F94 posed in kvant_1972_2: printed again, the posed half is already taken from kvant_1971_5
+- F95 posed in kvant_1972_2: printed again, the posed half is already taken from kvant_1971_5
+- F96 posed in kvant_1972_2: printed again, the posed half is already taken from kvant_1971_5
+- F97 posed in kvant_1972_2: printed again, the posed half is already taken from kvant_1971_5
+- M86 posed in kvant_1972_2: printed again, the posed half is already taken from kvant_1971_6
+- M87 posed in kvant_1972_2: printed again, the posed half is already taken from kvant_1971_6
+- M88 posed in kvant_1972_2: printed again, the posed half is already taken from kvant_1971_6
+- F128 posed in kvant_1972_6: printed again, the posed half is already taken from kvant_1971_12
+- M107 posed in kvant_1972_6: printed again, the posed half is already taken from kvant_1971_10
+- F180 posed in kvant_1973_5: printed again, the posed half is already taken from kvant_1972_10
+- F181 posed in kvant_1973_5: printed again, the posed half is already taken from kvant_1972_10
+- M162 posed in kvant_1973_5: printed again, the posed half is already taken from kvant_1972_9
+- M163 posed in kvant_1973_5: printed again, the posed half is already taken from kvant_1972_9
+- M164 posed in kvant_1973_5: printed again, the posed half is already taken from kvant_1972_9
+- M179 solved in kvant_1973_9: printed again, the solved half is already taken from kvant_1973_12
+- M200 solved in kvant_1974_3: printed again, the solved half is already taken from kvant_1974_1
+- F383 posed in kvant_1976_3: printed again, the posed half is already taken from kvant_1976_12
+- F384 posed in kvant_1976_3: printed again, the posed half is already taken from kvant_1976_12
+- F385 posed in kvant_1976_3: printed again, the posed half is already taken from kvant_1976_12
+- F386 posed in kvant_1976_3: printed again, the posed half is already taken from kvant_1976_12
+- M378 posed in kvant_1976_4: printed again, the posed half is already taken from kvant_1976_12
+- F393 posed in kvant_1977_2: printed again, the posed half is already taken from kvant_1976_5
+- F394 posed in kvant_1977_2: printed again, the posed half is already taken from kvant_1976_5
+- F396 posed in kvant_1977_2: printed again, the posed half is already taken from kvant_1976_5
+- F438 posed in kvant_1977_2: printed again, the posed half is already taken from kvant_1977_10
+- F439 posed in kvant_1977_2: printed again, the posed half is already taken from kvant_1977_10
+- F440 posed in kvant_1977_2: printed again, the posed half is already taken from kvant_1977_10
+- F441 posed in kvant_1977_2: printed again, the posed half is already taken from kvant_1977_10
+- M429 posed in kvant_1977_2: printed again, the posed half is already taken from kvant_1977_10
+- M430 posed in kvant_1977_2: printed again, the posed half is already taken from kvant_1977_10
+- F428 posed in kvant_1977_8: printed again, the posed half is already taken from kvant_1976_12
+- F429 posed in kvant_1977_8: printed again, the posed half is already taken from kvant_1976_12
+- F430 posed in kvant_1977_8: printed again, the posed half is already taken from kvant_1976_12
+- M418 posed in kvant_1977_8: printed again, the posed half is already taken from kvant_1976_12
+- M419 posed in kvant_1977_8: printed again, the posed half is already taken from kvant_1976_12
+- F478 posed in kvant_1978_7: printed again, the posed half is already taken from kvant_1977_10
+- F479 posed in kvant_1978_7: printed again, the posed half is already taken from kvant_1977_10
+- F480 posed in kvant_1978_7: printed again, the posed half is already taken from kvant_1977_10
+- M462 posed in kvant_1978_7: printed again, the posed half is already taken from kvant_1977_9
+- M463 posed in kvant_1978_7: printed again, the posed half is already taken from kvant_1977_9
+- M464 posed in kvant_1978_7: printed again, the posed half is already taken from kvant_1977_9
+- F504 posed in kvant_1979_2: printed again, the posed half is already taken from kvant_1978_3
+- F512 posed in kvant_1979_2: printed again, the posed half is already taken from kvant_1978_4
+- M501 posed in kvant_1979_2: printed again, the posed half is already taken from kvant_1978_5
+- M502 posed in kvant_1979_2: printed again, the posed half is already taken from kvant_1978_5
+- M503 posed in kvant_1979_2: printed again, the posed half is already taken from kvant_1978_5
+- F533 posed in kvant_1979_8: printed again, the posed half is already taken from kvant_1978_9
+- F534 posed in kvant_1979_8: printed again, the posed half is already taken from kvant_1978_9
+- F535 posed in kvant_1979_8: printed again, the posed half is already taken from kvant_1978_9
+- F536 posed in kvant_1979_8: printed again, the posed half is already taken from kvant_1978_9
+- M522 posed in kvant_1979_8: printed again, the posed half is already taken from kvant_1978_9
+- M523 posed in kvant_1979_8: printed again, the posed half is already taken from kvant_1978_9
+- M525 posed in kvant_1979_8: printed again, the posed half is already taken from kvant_1978_9
+- M526 posed in kvant_1979_8: printed again, the posed half is already taken from kvant_1978_10
+- M527 posed in kvant_1979_8: printed again, the posed half is already taken from kvant_1978_10
+- M527 posed in kvant_1979_8: printed again, the posed half is already taken from kvant_1978_10
+- F579 solved in kvant_1980_6: printed again, the solved half is already taken from kvant_1979_6
+- F587 solved in kvant_1980_6: printed again, the solved half is already taken from kvant_1979_7
+- M711 posed in kvant_1981_11: printed again, the posed half is already taken from kvant_1981_11
+- F634 posed in kvant_1981_3: printed again, the posed half is already taken from kvant_1980_5
+- F635 posed in kvant_1981_3: printed again, the posed half is already taken from kvant_1980_5
+- F636 posed in kvant_1981_3: printed again, the posed half is already taken from kvant_1980_5
+- F637 posed in kvant_1981_3: printed again, the posed half is already taken from kvant_1980_5
+- F683 posed in kvant_1981_3: printed again, the posed half is already taken from kvant_1981_11
+- F684 posed in kvant_1981_3: printed again, the posed half is already taken from kvant_1981_11
+- F685 posed in kvant_1981_3: printed again, the posed half is already taken from kvant_1981_11
+- F686 posed in kvant_1981_3: printed again, the posed half is already taken from kvant_1981_11
+- F687 posed in kvant_1981_3: printed again, the posed half is already taken from kvant_1981_11
+- M624 posed in kvant_1981_3: printed again, the posed half is already taken from kvant_1980_5
+- M626 posed in kvant_1981_3: printed again, the posed half is already taken from kvant_1980_6
+- M627 posed in kvant_1981_3: printed again, the posed half is already taken from kvant_1980_6
+- M672 posed in kvant_1981_3: printed again, the posed half is already taken from kvant_1981_11
+- M673 posed in kvant_1981_3: printed again, the posed half is already taken from kvant_1981_11
+- M674 posed in kvant_1981_3: printed again, the posed half is already taken from kvant_1981_11
+- F643 posed in kvant_1981_4: printed again, the posed half is already taken from kvant_1980_7
+- F644 posed in kvant_1981_4: printed again, the posed half is already taken from kvant_1980_7
+- F645 posed in kvant_1981_4: printed again, the posed half is already taken from kvant_1980_7
+- F688 posed in kvant_1981_4: printed again, the posed half is already taken from kvant_1981_12
+- F689 posed in kvant_1981_4: printed again, the posed half is already taken from kvant_1981_12
+- F690 posed in kvant_1981_4: printed again, the posed half is already taken from kvant_1981_12
+- M631 posed in kvant_1981_4: printed again, the posed half is already taken from kvant_1980_7
+- M632 posed in kvant_1981_4: printed again, the posed half is already taken from kvant_1980_7
+- M633 posed in kvant_1981_4: printed again, the posed half is already taken from kvant_1980_7
+- M634 posed in kvant_1981_4: printed again, the posed half is already taken from kvant_1980_7
+- M635 posed in kvant_1981_4: printed again, the posed half is already taken from kvant_1980_7
+- M677 posed in kvant_1981_4: printed again, the posed half is already taken from kvant_1981_12
+- M678 posed in kvant_1981_4: printed again, the posed half is already taken from kvant_1981_12
+- M679 posed in kvant_1981_4: printed again, the posed half is already taken from kvant_1981_12
+- M680 posed in kvant_1981_4: printed again, the posed half is already taken from kvant_1981_12
+- M640 solved in kvant_1981_5: printed again, the solved half is already taken from kvant_1981_5
+- F673 posed in kvant_1981_9: printed again, the posed half is already taken from kvant_1981_1
+- F674 posed in kvant_1981_9: printed again, the posed half is already taken from kvant_1981_1
+- F675 posed in kvant_1981_9: printed again, the posed half is already taken from kvant_1981_1
+- F676 posed in kvant_1981_9: printed again, the posed half is already taken from kvant_1981_1
+- F677 posed in kvant_1981_9: printed again, the posed half is already taken from kvant_1981_1
+- M662 posed in kvant_1981_9: printed again, the posed half is already taken from kvant_1981_1
+- M663 posed in kvant_1981_9: printed again, the posed half is already taken from kvant_1981_1
+- M664 posed in kvant_1981_9: printed again, the posed half is already taken from kvant_1981_1
+- M665 posed in kvant_1981_9: printed again, the posed half is already taken from kvant_1981_1
+- F693 posed in kvant_1982_1: printed again, the posed half is already taken from kvant_1981_5
+- F694 posed in kvant_1982_1: printed again, the posed half is already taken from kvant_1981_5
+- F695 posed in kvant_1982_1: printed again, the posed half is already taken from kvant_1981_5
+- F696 posed in kvant_1982_1: printed again, the posed half is already taken from kvant_1981_5
+- F697 posed in kvant_1982_1: printed again, the posed half is already taken from kvant_1981_5
+- F697 posed in kvant_1982_1: printed again, the posed half is already taken from kvant_1981_5
+- M682 posed in kvant_1982_1: printed again, the posed half is already taken from kvant_1981_5
+- M684 posed in kvant_1982_1: printed again, the posed half is already taken from kvant_1981_5
+- M685 posed in kvant_1982_1: printed again, the posed half is already taken from kvant_1981_5
+- M766 posed in kvant_1982_10: printed again, the posed half is already taken from kvant_1982_10
+- M767 posed in kvant_1982_10: printed again, the posed half is already taken from kvant_1982_10
+- F708 posed in kvant_1982_4: printed again, the posed half is already taken from kvant_1981_8
+- F709 posed in kvant_1982_4: printed again, the posed half is already taken from kvant_1981_8
+- F710 posed in kvant_1982_4: printed again, the posed half is already taken from kvant_1981_8
+- F711 posed in kvant_1982_4: printed again, the posed half is already taken from kvant_1981_8
+- F712 posed in kvant_1982_4: printed again, the posed half is already taken from kvant_1981_8
+- M697 posed in kvant_1982_4: printed again, the posed half is already taken from kvant_1981_8
+- M698 posed in kvant_1982_4: printed again, the posed half is already taken from kvant_1981_8
+- M699 posed in kvant_1982_4: printed again, the posed half is already taken from kvant_1981_8
+- M700 posed in kvant_1982_4: printed again, the posed half is already taken from kvant_1981_8
+- M746 posed in kvant_1982_6: printed again, the posed half is already taken from kvant_1982_6
+- M747 posed in kvant_1982_6: printed again, the posed half is already taken from kvant_1982_6
+- M748 posed in kvant_1982_6: printed again, the posed half is already taken from kvant_1982_6
+- F723 posed in kvant_1982_7: printed again, the posed half is already taken from kvant_1981_11
+- F724 posed in kvant_1982_7: printed again, the posed half is already taken from kvant_1981_11
+- F725 posed in kvant_1982_7: printed again, the posed half is already taken from kvant_1981_11
+- F726 posed in kvant_1982_7: printed again, the posed half is already taken from kvant_1981_11
+- F728 posed in kvant_1982_7: printed again, the posed half is already taken from kvant_1981_12
+- M712 posed in kvant_1982_7: printed again, the posed half is already taken from kvant_1981_11
+- M713 posed in kvant_1982_7: printed again, the posed half is already taken from kvant_1981_11
+- M714 posed in kvant_1982_7: printed again, the posed half is already taken from kvant_1981_11
+- M716 posed in kvant_1982_7: printed again, the posed half is already taken from kvant_1981_12
+- M717 posed in kvant_1982_7: printed again, the posed half is already taken from kvant_1981_12
+- M719 posed in kvant_1982_7: printed again, the posed half is already taken from kvant_1981_12
+- M720 posed in kvant_1982_7: printed again, the posed half is already taken from kvant_1981_12
+- M751 posed in kvant_1982_7: printed again, the posed half is already taken from kvant_1982_7
+- M752 posed in kvant_1982_7: printed again, the posed half is already taken from kvant_1982_7
+- M753 posed in kvant_1982_7: printed again, the posed half is already taken from kvant_1982_7
+- M754 posed in kvant_1982_7: printed again, the posed half is already taken from kvant_1982_7
+- M755 posed in kvant_1982_7: printed again, the posed half is already taken from kvant_1982_7
+- M756 posed in kvant_1982_8: printed again, the posed half is already taken from kvant_1982_8
+- M757 posed in kvant_1982_8: printed again, the posed half is already taken from kvant_1982_8
+- M831 posed in kvant_1983_11: printed again, the posed half is already taken from kvant_1983_11
+- M832 posed in kvant_1983_11: printed again, the posed half is already taken from kvant_1976_5
+- M832 posed in kvant_1983_11: printed again, the posed half is already taken from kvant_1976_5
+- F796 posed in kvant_1983_4: printed again, the posed half is already taken from kvant_1983_1
+- M781 posed in kvant_1983_4: printed again, the posed half is already taken from kvant_1983_1
+- M784 posed in kvant_1983_4: printed again, the posed half is already taken from kvant_1983_1
+- M785 posed in kvant_1983_4: printed again, the posed half is already taken from kvant_1983_1
+- M806 posed in kvant_1983_6: printed again, the posed half is already taken from kvant_1983_6
+- M807 posed in kvant_1983_6: printed again, the posed half is already taken from kvant_1983_6
+- M808 posed in kvant_1983_6: printed again, the posed half is already taken from kvant_1983_6
+- M809 posed in kvant_1983_6: printed again, the posed half is already taken from kvant_1983_6
+- M810 posed in kvant_1983_6: printed again, the posed half is already taken from kvant_1983_6
+- F837 solved in kvant_1984_1: printed again, the solved half is already taken from kvant_1984_1
+- M891 posed in kvant_1984_11: printed again, the posed half is already taken from kvant_1984_11
+- M892 posed in kvant_1984_11: printed again, the posed half is already taken from kvant_1984_11
+- F843 posed in kvant_1984_2: printed again, the posed half is already taken from kvant_1983_11
+- F844 posed in kvant_1984_2: printed again, the posed half is already taken from kvant_1983_11
+- F845 posed in kvant_1984_2: printed again, the posed half is already taken from kvant_1983_11
+- M832 posed in kvant_1984_2: printed again, the posed half is already taken from kvant_1976_5
+- M833 posed in kvant_1984_2: printed again, the posed half is already taken from kvant_1983_11
+- M835 posed in kvant_1984_2: printed again, the posed half is already taken from kvant_1983_11
+- F847 posed in kvant_1984_3: printed again, the posed half is already taken from kvant_1983_11
+- F848 posed in kvant_1984_3: printed again, the posed half is already taken from kvant_1983_12
+- F849 posed in kvant_1984_3: printed again, the posed half is already taken from kvant_1983_12
+- F850 posed in kvant_1984_3: printed again, the posed half is already taken from kvant_1983_12
+- F851 posed in kvant_1984_3: printed again, the posed half is already taken from kvant_1983_12
+- M837 posed in kvant_1984_3: printed again, the posed half is already taken from kvant_1983_12
+- M838 posed in kvant_1984_3: printed again, the posed half is already taken from kvant_1983_12
+- M839 posed in kvant_1984_3: printed again, the posed half is already taken from kvant_1983_12
+- M840 posed in kvant_1984_3: printed again, the posed half is already taken from kvant_1983_12
+- M851 posed in kvant_1984_3: printed again, the posed half is already taken from kvant_1984_3
+- M852 posed in kvant_1984_3: printed again, the posed half is already taken from kvant_1984_3
+- M856 posed in kvant_1984_4: printed again, the posed half is already taken from kvant_1984_4
+- M861 posed in kvant_1984_5: printed again, the posed half is already taken from kvant_1984_5
+- M862 posed in kvant_1984_5: printed again, the posed half is already taken from kvant_1984_5
+- M863 posed in kvant_1984_5: printed again, the posed half is already taken from kvant_1984_5
+- F862 posed in kvant_1984_6: printed again, the posed half is already taken from kvant_1984_2
+- F863 posed in kvant_1984_6: printed again, the posed half is already taken from kvant_1984_3
+- F864 posed in kvant_1984_6: printed again, the posed half is already taken from kvant_1984_3
+- F865 posed in kvant_1984_6: printed again, the posed half is already taken from kvant_1984_3
+- F866 posed in kvant_1984_6: printed again, the posed half is already taken from kvant_1984_3
+- M852 posed in kvant_1984_6: printed again, the posed half is already taken from kvant_1984_3
+- M855 posed in kvant_1984_6: printed again, the posed half is already taken from kvant_1984_3
+- M866 posed in kvant_1984_6: printed again, the posed half is already taken from kvant_1984_6
+- F867 posed in kvant_1984_7: printed again, the posed half is already taken from kvant_1984_3
+- F871 posed in kvant_1984_7: printed again, the posed half is already taken from kvant_1984_4
+- F883 posed in kvant_1984_7: printed again, the posed half is already taken from kvant_1984_10
+- F884 posed in kvant_1984_7: printed again, the posed half is already taken from kvant_1984_10
+- F886 posed in kvant_1984_7: printed again, the posed half is already taken from kvant_1984_10
+- M857 posed in kvant_1984_7: printed again, the posed half is already taken from kvant_1984_4
+- M858 posed in kvant_1984_7: printed again, the posed half is already taken from kvant_1984_4
+- M859 posed in kvant_1984_7: printed again, the posed half is already taken from kvant_1984_4
+- M860 posed in kvant_1984_7: printed again, the posed half is already taken from kvant_1984_4
+- M871 posed in kvant_1984_7: printed again, the posed half is already taken from kvant_1984_7
+- M872 posed in kvant_1984_7: printed again, the posed half is already taken from kvant_1984_10
+- M873 posed in kvant_1984_7: printed again, the posed half is already taken from kvant_1984_10
+- M874 posed in kvant_1984_7: printed again, the posed half is already taken from kvant_1984_10
+- M876 posed in kvant_1984_8: printed again, the posed half is already taken from kvant_1984_8
+- F878 posed in kvant_1984_9: printed again, the posed half is already taken from kvant_1984_6
+- F879 posed in kvant_1984_9: printed again, the posed half is already taken from kvant_1984_6
+- F880 posed in kvant_1984_9: printed again, the posed half is already taken from kvant_1984_6
+- F881 posed in kvant_1984_9: printed again, the posed half is already taken from kvant_1984_6
+- F882 posed in kvant_1984_9: printed again, the posed half is already taken from kvant_1984_6
+- M867 posed in kvant_1984_9: printed again, the posed half is already taken from kvant_1984_6
+- M868 posed in kvant_1984_9: printed again, the posed half is already taken from kvant_1984_6
+- M869 posed in kvant_1984_9: printed again, the posed half is already taken from kvant_1984_6
+- M870 posed in kvant_1984_9: printed again, the posed half is already taken from kvant_1984_6
+- F815 posed in kvant_1985_1: printed again, the posed half is already taken from kvant_1983_5
+- M901 posed in kvant_1985_1: printed again, the posed half is already taken from kvant_1985_1
+- M902 posed in kvant_1985_1: printed again, the posed half is already taken from kvant_1985_1
+- M903 posed in kvant_1985_1: printed again, the posed half is already taken from kvant_1985_1
+- M956 posed in kvant_1985_12: printed again, the posed half is already taken from kvant_1985_12
+- M957 posed in kvant_1985_12: printed again, the posed half is already taken from kvant_1985_12
+- M958 posed in kvant_1985_12: printed again, the posed half is already taken from kvant_1985_12
+- M906 posed in kvant_1985_2: printed again, the posed half is already taken from kvant_1985_2
+- M911 posed in kvant_1985_3: printed again, the posed half is already taken from kvant_1985_3
+- M912 posed in kvant_1985_3: printed again, the posed half is already taken from kvant_1985_3
+- M916 posed in kvant_1985_4: printed again, the posed half is already taken from kvant_1985_4
+- M917 posed in kvant_1985_4: printed again, the posed half is already taken from kvant_1985_4
+- M918 posed in kvant_1985_4: printed again, the posed half is already taken from kvant_1985_4
+- F913 posed in kvant_1985_5: printed again, the posed half is already taken from kvant_1985_1
+- F914 posed in kvant_1985_5: printed again, the posed half is already taken from kvant_1985_1
+- F916 posed in kvant_1985_5: printed again, the posed half is already taken from kvant_1985_1
+- M902 posed in kvant_1985_5: printed again, the posed half is already taken from kvant_1985_1
+- M903 posed in kvant_1985_5: printed again, the posed half is already taken from kvant_1985_1
+- M904 posed in kvant_1985_5: printed again, the posed half is already taken from kvant_1985_1
+- M921 posed in kvant_1985_5: printed again, the posed half is already taken from kvant_1985_5
+- F917 posed in kvant_1985_6: printed again, the posed half is already taken from kvant_1985_1
+- F919 posed in kvant_1985_6: printed again, the posed half is already taken from kvant_1985_2
+- F920 posed in kvant_1985_6: printed again, the posed half is already taken from kvant_1985_2
+- F921 posed in kvant_1985_6: printed again, the posed half is already taken from kvant_1985_2
+- F922 posed in kvant_1985_6: printed again, the posed half is already taken from kvant_1985_2
+- M906 posed in kvant_1985_6: printed again, the posed half is already taken from kvant_1985_2
+- M907 posed in kvant_1985_6: printed again, the posed half is already taken from kvant_1985_2
+- M908 posed in kvant_1985_6: printed again, the posed half is already taken from kvant_1985_2
+- M909 posed in kvant_1985_6: printed again, the posed half is already taken from kvant_1985_2
+- M910 posed in kvant_1985_6: printed again, the posed half is already taken from kvant_1985_2
+- M926 posed in kvant_1985_6: printed again, the posed half is already taken from kvant_1985_6
+- M927 posed in kvant_1985_6: printed again, the posed half is already taken from kvant_1985_6
+- F923 posed in kvant_1985_7: printed again, the posed half is already taken from kvant_1985_3
+- F926 posed in kvant_1985_7: printed again, the posed half is already taken from kvant_1985_3
+- M914 posed in kvant_1985_7: printed again, the posed half is already taken from kvant_1985_3
+- M915 posed in kvant_1985_7: printed again, the posed half is already taken from kvant_1985_3
+- M931 posed in kvant_1985_7: printed again, the posed half is already taken from kvant_1985_7
+- M932 posed in kvant_1985_7: printed again, the posed half is already taken from kvant_1985_7
+- M933 posed in kvant_1985_7: printed again, the posed half is already taken from kvant_1985_7
+- F948 posed in kvant_1985_8: printed again, the posed half is already taken from kvant_1985_12
+- F949 posed in kvant_1985_8: printed again, the posed half is already taken from kvant_1985_12
+- F950 posed in kvant_1985_8: printed again, the posed half is already taken from kvant_1985_12
+- F951 posed in kvant_1985_8: printed again, the posed half is already taken from kvant_1985_12
+- F952 posed in kvant_1985_8: printed again, the posed half is already taken from kvant_1985_12
+- M936 posed in kvant_1985_8: printed again, the posed half is already taken from kvant_1985_8
+- M937 posed in kvant_1985_8: printed again, the posed half is already taken from kvant_1985_12
+- M937 posed in kvant_1985_8: printed again, the posed half is already taken from kvant_1985_12
+- M938 posed in kvant_1985_8: printed again, the posed half is already taken from kvant_1985_12
+- M938 posed in kvant_1985_8: printed again, the posed half is already taken from kvant_1985_12
+- M940 posed in kvant_1985_8: printed again, the posed half is already taken from kvant_1985_12
+- F933 posed in kvant_1985_9: printed again, the posed half is already taken from kvant_1985_5
+- F935 posed in kvant_1985_9: printed again, the posed half is already taken from kvant_1985_5
+- F936 posed in kvant_1985_9: printed again, the posed half is already taken from kvant_1985_5
+- M924 posed in kvant_1985_9: printed again, the posed half is already taken from kvant_1985_5
+- M941 posed in kvant_1985_9: printed again, the posed half is already taken from kvant_1985_9
+- M942 posed in kvant_1985_9: printed again, the posed half is already taken from kvant_1985_9
+- M943 posed in kvant_1985_9: printed again, the posed half is already taken from kvant_1985_9
+- M944 posed in kvant_1985_9: printed again, the posed half is already taken from kvant_1985_9
+- M945 posed in kvant_1985_9: printed again, the posed half is already taken from kvant_1985_9
+- F953 posed in kvant_1986_1: printed again, the posed half is already taken from kvant_1985_9
+- F954 posed in kvant_1986_1: printed again, the posed half is already taken from kvant_1985_9
+- F957 posed in kvant_1986_1: printed again, the posed half is already taken from kvant_1985_9
+- M942 posed in kvant_1986_1: printed again, the posed half is already taken from kvant_1985_9
+- M943 posed in kvant_1986_1: printed again, the posed half is already taken from kvant_1985_9
+- M944 posed in kvant_1986_1: printed again, the posed half is already taken from kvant_1985_9
+- M945 posed in kvant_1986_1: printed again, the posed half is already taken from kvant_1985_9
+- M961 posed in kvant_1986_1: printed again, the posed half is already taken from kvant_1986_1
+- M962 posed in kvant_1986_1: printed again, the posed half is already taken from kvant_1986_1
+- M963 posed in kvant_1986_1: printed again, the posed half is already taken from kvant_1986_1
+- M964 posed in kvant_1986_1: printed again, the posed half is already taken from kvant_1986_1
+- M965 posed in kvant_1986_1: printed again, the posed half is already taken from kvant_1986_1
+- M1006 posed in kvant_1986_10: printed again, the posed half is already taken from kvant_1986_10
+- M1007 posed in kvant_1986_10: printed again, the posed half is already taken from kvant_1986_10
+- M1008 posed in kvant_1986_10: printed again, the posed half is already taken from kvant_1986_10
+- M1009 posed in kvant_1986_10: printed again, the posed half is already taken from kvant_1986_10
+- M1010 posed in kvant_1986_10: printed again, the posed half is already taken from kvant_1986_10
+- M1011 posed in kvant_1986_11: printed again, the posed half is already taken from kvant_1986_11
+- M1012 posed in kvant_1986_11: printed again, the posed half is already taken from kvant_1986_11
+- M1013 posed in kvant_1986_11: printed again, the posed half is already taken from kvant_1986_11
+- M1014 posed in kvant_1986_11: printed again, the posed half is already taken from kvant_1986_11
+- M1015 posed in kvant_1986_11: printed again, the posed half is already taken from kvant_1986_11
+- M1016 posed in kvant_1986_12: printed again, the posed half is already taken from kvant_1986_12
+- M952 posed in kvant_1986_3: printed again, the posed half is already taken from kvant_1985_11
+- M953 posed in kvant_1986_3: printed again, the posed half is already taken from kvant_1985_11
+- M954 posed in kvant_1986_3: printed again, the posed half is already taken from kvant_1985_11
+- M955 posed in kvant_1986_3: printed again, the posed half is already taken from kvant_1985_11
+- M971 posed in kvant_1986_3: printed again, the posed half is already taken from kvant_1986_3
+- M972 posed in kvant_1986_3: printed again, the posed half is already taken from kvant_1986_3
+- M973 posed in kvant_1986_3: printed again, the posed half is already taken from kvant_1986_3
+- M974 posed in kvant_1986_3: printed again, the posed half is already taken from kvant_1986_3
+- M962 posed in kvant_1986_5: printed again, the posed half is already taken from kvant_1986_1
+- M963 posed in kvant_1986_5: printed again, the posed half is already taken from kvant_1986_1
+- M981 posed in kvant_1986_5: printed again, the posed half is already taken from kvant_1986_5
+- M982 posed in kvant_1986_5: printed again, the posed half is already taken from kvant_1986_5
+- M983 posed in kvant_1986_5: printed again, the posed half is already taken from kvant_1986_5
+- M986 posed in kvant_1986_6: printed again, the posed half is already taken from kvant_1986_6
+- M987 posed in kvant_1986_6: printed again, the posed half is already taken from kvant_1986_6
+- M988 posed in kvant_1986_6: printed again, the posed half is already taken from kvant_1986_6
+- M989 posed in kvant_1986_6: printed again, the posed half is already taken from kvant_1986_6
+- M991 posed in kvant_1986_7: printed again, the posed half is already taken from kvant_1986_7
+- M992 posed in kvant_1986_7: printed again, the posed half is already taken from kvant_1986_7
+- M993 posed in kvant_1986_7: printed again, the posed half is already taken from kvant_1986_7
+- M994 posed in kvant_1986_7: printed again, the posed half is already taken from kvant_1986_7
+- M995 posed in kvant_1986_7: printed again, the posed half is already taken from kvant_1986_7
+- F1014 posed in kvant_1987_1: printed again, the posed half is already taken from kvant_1986_9
+- F1015 posed in kvant_1987_1: printed again, the posed half is already taken from kvant_1986_9
+- F1016 posed in kvant_1987_1: printed again, the posed half is already taken from kvant_1986_9
+- M1003 posed in kvant_1987_1: printed again, the posed half is already taken from kvant_1986_9
+- M1021 posed in kvant_1987_1: printed again, the posed half is already taken from kvant_1987_1
+- M1022 posed in kvant_1987_1: printed again, the posed half is already taken from kvant_1987_1
+- M1023 posed in kvant_1987_1: printed again, the posed half is already taken from kvant_1987_1
+- M1024 posed in kvant_1987_1: printed again, the posed half is already taken from kvant_1987_1
+- M1025 posed in kvant_1987_1: printed again, the posed half is already taken from kvant_1987_1
+- M1050 posed in kvant_1987_10: printed again, the posed half is already taken from kvant_1987_10
+- M1066 posed in kvant_1987_10: printed again, the posed half is already taken from kvant_1987_10
+- M1067 posed in kvant_1987_10: printed again, the posed half is already taken from kvant_1987_10
+- M1068 posed in kvant_1987_10: printed again, the posed half is already taken from kvant_1987_10
+- M1069 posed in kvant_1987_10: printed again, the posed half is already taken from kvant_1987_10
+- M1070 posed in kvant_1987_10: printed again, the posed half is already taken from kvant_1987_10
+- M1076 posed in kvant_1987_12: printed again, the posed half is already taken from kvant_1987_12
+- M1077 posed in kvant_1987_12: printed again, the posed half is already taken from kvant_1987_12
+- M1078 posed in kvant_1987_12: printed again, the posed half is already taken from kvant_1987_12
+- M1079 posed in kvant_1987_12: printed again, the posed half is already taken from kvant_1987_12
+- M1080 posed in kvant_1987_12: printed again, the posed half is already taken from kvant_1987_12
+- F1020 solved in kvant_1987_2: printed again, the solved half is already taken from kvant_1987_2
+- F1023 posed in kvant_1987_3: printed again, the posed half is already taken from kvant_1986_11
+- F1024 posed in kvant_1987_3: printed again, the posed half is already taken from kvant_1986_11
+- F1025 posed in kvant_1987_3: printed again, the posed half is already taken from kvant_1986_11
+- F1026 posed in kvant_1987_3: printed again, the posed half is already taken from kvant_1986_11
+- M1012 posed in kvant_1987_3: printed again, the posed half is already taken from kvant_1986_11
+- M1013 posed in kvant_1987_3: printed again, the posed half is already taken from kvant_1986_11
+- M1014 posed in kvant_1987_3: printed again, the posed half is already taken from kvant_1986_11
+- M1041 posed in kvant_1987_5: printed again, the posed half is already taken from kvant_1987_5
+- M1042 posed in kvant_1987_5: printed again, the posed half is already taken from kvant_1987_5
+- M1043 posed in kvant_1987_5: printed again, the posed half is already taken from kvant_1987_5
+- M1044 posed in kvant_1987_5: printed again, the posed half is already taken from kvant_1987_5
+- M1045 posed in kvant_1987_5: printed again, the posed half is already taken from kvant_1987_5
+- F1038 posed in kvant_1987_6: printed again, the posed half is already taken from kvant_1987_2
+- F1039 posed in kvant_1987_6: printed again, the posed half is already taken from kvant_1987_2
+- F1040 posed in kvant_1987_6: printed again, the posed half is already taken from kvant_1987_2
+- F1058 posed in kvant_1987_6: printed again, the posed half is already taken from kvant_1987_10
+- F1059 posed in kvant_1987_6: printed again, the posed half is already taken from kvant_1987_10
+- M1028 posed in kvant_1987_6: printed again, the posed half is already taken from kvant_1987_2
+- M1029 posed in kvant_1987_6: printed again, the posed half is already taken from kvant_1987_2
+- M1046 posed in kvant_1987_6: printed again, the posed half is already taken from kvant_1987_6
+- M1047 posed in kvant_1987_6: printed again, the posed half is already taken from kvant_1987_10
+- M1047 posed in kvant_1987_6: printed again, the posed half is already taken from kvant_1987_10
+- M1048 posed in kvant_1987_6: printed again, the posed half is already taken from kvant_1987_10
+- M1048 posed in kvant_1987_6: printed again, the posed half is already taken from kvant_1987_10
+- M1049 posed in kvant_1987_6: printed again, the posed half is already taken from kvant_1987_10
+- M1049 posed in kvant_1987_6: printed again, the posed half is already taken from kvant_1987_10
+- M1050 posed in kvant_1987_6: printed again, the posed half is already taken from kvant_1987_10
+- M1050 posed in kvant_1987_6: printed again, the posed half is already taken from kvant_1987_10
+- F1048 posed in kvant_1987_8: printed again, the posed half is already taken from kvant_1987_4
+- F1049 posed in kvant_1987_8: printed again, the posed half is already taken from kvant_1987_4
+- F1050 posed in kvant_1987_8: printed again, the posed half is already taken from kvant_1987_4
+- F1051 posed in kvant_1987_8: printed again, the posed half is already taken from kvant_1987_4
+- M1038 posed in kvant_1987_8: printed again, the posed half is already taken from kvant_1987_4
+- M1039 posed in kvant_1987_8: printed again, the posed half is already taken from kvant_1987_4
+- M1040 posed in kvant_1987_8: printed again, the posed half is already taken from kvant_1987_4
+- M1061 posed in kvant_1987_9: printed again, the posed half is already taken from kvant_1987_9
+- M1062 posed in kvant_1987_9: printed again, the posed half is already taken from kvant_1987_9
+- M1081 posed in kvant_1988_1: printed again, the posed half is already taken from kvant_1988_1
+- M1082 posed in kvant_1988_1: printed again, the posed half is already taken from kvant_1988_1
+- M1126 posed in kvant_1988_10: printed again, the posed half is already taken from kvant_1988_10
+- M1127 posed in kvant_1988_10: printed again, the posed half is already taken from kvant_1988_10
+- F1078 posed in kvant_1988_2: printed again, the posed half is already taken from kvant_1987_10
+- F1080 posed in kvant_1988_2: printed again, the posed half is already taken from kvant_1987_10
+- F1081 posed in kvant_1988_2: printed again, the posed half is already taken from kvant_1987_10
+- F1082 posed in kvant_1988_2: printed again, the posed half is already taken from kvant_1987_10
+- M1067 posed in kvant_1988_2: printed again, the posed half is already taken from kvant_1987_10
+- M1068 posed in kvant_1988_2: printed again, the posed half is already taken from kvant_1987_10
+- M1069 posed in kvant_1988_2: printed again, the posed half is already taken from kvant_1987_10
+- M1086 posed in kvant_1988_2: printed again, the posed half is already taken from kvant_1988_2
+- M1087 posed in kvant_1988_2: printed again, the posed half is already taken from kvant_1988_2
+- M1088 posed in kvant_1988_2: printed again, the posed half is already taken from kvant_1988_2
+- M1089 posed in kvant_1988_2: printed again, the posed half is already taken from kvant_1988_2
+- M1091 posed in kvant_1988_3: printed again, the posed half is already taken from kvant_1988_3
+- M1092 posed in kvant_1988_3: printed again, the posed half is already taken from kvant_1988_3
+- F1088 posed in kvant_1988_4: printed again, the posed half is already taken from kvant_1987_12
+- F1089 posed in kvant_1988_4: printed again, the posed half is already taken from kvant_1987_12
+- F1090 posed in kvant_1988_4: printed again, the posed half is already taken from kvant_1987_12
+- F1091 posed in kvant_1988_4: printed again, the posed half is already taken from kvant_1987_12
+- M1076 posed in kvant_1988_4: printed again, the posed half is already taken from kvant_1987_12
+- M1077 posed in kvant_1988_4: printed again, the posed half is already taken from kvant_1987_12
+- M1078 posed in kvant_1988_4: printed again, the posed half is already taken from kvant_1987_12
+- M1079 posed in kvant_1988_4: printed again, the posed half is already taken from kvant_1987_12
+- M1080 posed in kvant_1988_4: printed again, the posed half is already taken from kvant_1987_12
+- M1096 posed in kvant_1988_4: printed again, the posed half is already taken from kvant_1988_4
+- M1097 posed in kvant_1988_4: printed again, the posed half is already taken from kvant_1988_4
+- M1098 posed in kvant_1988_4: printed again, the posed half is already taken from kvant_1988_4
+- M1099 posed in kvant_1988_4: printed again, the posed half is already taken from kvant_1988_4
+- M1100 posed in kvant_1988_4: printed again, the posed half is already taken from kvant_1988_4
+- M1101 posed in kvant_1988_5: printed again, the posed half is already taken from kvant_1988_5
+- M1102 posed in kvant_1988_5: printed again, the posed half is already taken from kvant_1988_5
+- M1103 posed in kvant_1988_5: printed again, the posed half is already taken from kvant_1988_5
+- M1106 posed in kvant_1988_6: printed again, the posed half is already taken from kvant_1988_6
+- M1107 posed in kvant_1988_6: printed again, the posed half is already taken from kvant_1988_6
+- M1108 posed in kvant_1988_6: printed again, the posed half is already taken from kvant_1988_6
+- M1109 posed in kvant_1988_6: printed again, the posed half is already taken from kvant_1988_6
+- M1110 posed in kvant_1988_6: printed again, the posed half is already taken from kvant_1988_6
+- M1111 posed in kvant_1988_7: printed again, the posed half is already taken from kvant_1988_7
+- M1112 posed in kvant_1988_7: printed again, the posed half is already taken from kvant_1988_7
+- F1113 solved in kvant_1988_9: printed again, the solved half is already taken from kvant_1988_9
+- F1113 solved in kvant_1988_9: printed again, the solved half is already taken from kvant_1988_9
+- M1105 solved in kvant_1988_9: printed again, the solved half is already taken from kvant_1988_9
+- M1105 solved in kvant_1988_9: printed again, the solved half is already taken from kvant_1988_9
+- M1121 posed in kvant_1988_9: printed again, the posed half is already taken from kvant_1988_9
+- M1122 posed in kvant_1988_9: printed again, the posed half is already taken from kvant_1988_9
+- F1176 solved in kvant_1989_10: printed again, the solved half is already taken from kvant_1989_10
+- M1168 posed in kvant_1989_6: printed again, the posed half is already taken from kvant_1989_5
+- M1169 posed in kvant_1989_6: printed again, the posed half is already taken from kvant_1989_5
+- M1170 posed in kvant_1989_6: printed again, the posed half is already taken from kvant_1989_5
+- M2519 posed in kvant_2018_7: printed again, the posed half is already taken from kvant_2018_10
+- M2587 posed in kvant_2020_4: printed again, the posed half is already taken from kvant_2019_12
+- F2736 posed in kvant_2023_3: printed again, the posed half is already taken from kvant_2022_11-12
+
+## the solution is here and the issue that posed it has not been read (303)
+
+- F18 solved in kvant_1970_11: the solution is here and the issue that posed it has not been read
+- F19 solved in kvant_1970_11: the solution is here and the issue that posed it has not been read
+- F20 solved in kvant_1970_11: the solution is here and the issue that posed it has not been read
+- F21 solved in kvant_1970_11: the solution is here and the issue that posed it has not been read
+- F22 solved in kvant_1970_11: the solution is here and the issue that posed it has not been read
+- F23 solved in kvant_1970_11: the solution is here and the issue that posed it has not been read
+- M11 solved in kvant_1970_11: the solution is here and the issue that posed it has not been read
+- M12 solved in kvant_1970_11: the solution is here and the issue that posed it has not been read
+- M13 solved in kvant_1970_11: the solution is here and the issue that posed it has not been read
+- M14 solved in kvant_1970_11: the solution is here and the issue that posed it has not been read
+- M15 solved in kvant_1970_11: the solution is here and the issue that posed it has not been read
+- F25 solved in kvant_1970_12: the solution is here and the issue that posed it has not been read
+- F26 solved in kvant_1970_12: the solution is here and the issue that posed it has not been read
+- F27 solved in kvant_1970_12: the solution is here and the issue that posed it has not been read
+- M16 solved in kvant_1970_12: the solution is here and the issue that posed it has not been read
+- M17 solved in kvant_1970_12: the solution is here and the issue that posed it has not been read
+- M18 solved in kvant_1970_12: the solution is here and the issue that posed it has not been read
+- M19 solved in kvant_1970_12: the solution is here and the issue that posed it has not been read
+- F79 solved in kvant_1971_11: the solution is here and the issue that posed it has not been read
+- F80 solved in kvant_1971_11: the solution is here and the issue that posed it has not been read
+- M70 solved in kvant_1971_11: the solution is here and the issue that posed it has not been read
+- F29 solved in kvant_1971_2: the solution is here and the issue that posed it has not been read
+- F30 solved in kvant_1971_2: the solution is here and the issue that posed it has not been read
+- F31 solved in kvant_1971_2: the solution is here and the issue that posed it has not been read
+- F32 solved in kvant_1971_2: the solution is here and the issue that posed it has not been read
+- M21 solved in kvant_1971_2: the solution is here and the issue that posed it has not been read
+- M24 solved in kvant_1971_2: the solution is here and the issue that posed it has not been read
+- M25 solved in kvant_1971_2: the solution is here and the issue that posed it has not been read
+- F37 solved in kvant_1971_3: the solution is here and the issue that posed it has not been read
+- F39 solved in kvant_1971_3: the solution is here and the issue that posed it has not been read
+- F40 solved in kvant_1971_3: the solution is here and the issue that posed it has not been read
+- M26 solved in kvant_1971_3: the solution is here and the issue that posed it has not been read
+- M27 solved in kvant_1971_3: the solution is here and the issue that posed it has not been read
+- M28 solved in kvant_1971_3: the solution is here and the issue that posed it has not been read
+- F41 solved in kvant_1971_4: the solution is here and the issue that posed it has not been read
+- F42 solved in kvant_1971_4: the solution is here and the issue that posed it has not been read
+- F44 solved in kvant_1971_4: the solution is here and the issue that posed it has not been read
+- F45 solved in kvant_1971_4: the solution is here and the issue that posed it has not been read
+- F46 solved in kvant_1971_4: the solution is here and the issue that posed it has not been read
+- M29 solved in kvant_1971_4: the solution is here and the issue that posed it has not been read
+- M30 solved in kvant_1971_4: the solution is here and the issue that posed it has not been read
+- F43 solved in kvant_1971_5: the solution is here and the issue that posed it has not been read
+- F48 solved in kvant_1971_5: the solution is here and the issue that posed it has not been read
+- F49 solved in kvant_1971_5: the solution is here and the issue that posed it has not been read
+- F50 solved in kvant_1971_5: the solution is here and the issue that posed it has not been read
+- F51 solved in kvant_1971_5: the solution is here and the issue that posed it has not been read
+- M31 solved in kvant_1971_5: the solution is here and the issue that posed it has not been read
+- M32 solved in kvant_1971_5: the solution is here and the issue that posed it has not been read
+- M33 solved in kvant_1971_5: the solution is here and the issue that posed it has not been read
+- F52 solved in kvant_1971_6: the solution is here and the issue that posed it has not been read
+- F53 solved in kvant_1971_6: the solution is here and the issue that posed it has not been read
+- F55 solved in kvant_1971_6: the solution is here and the issue that posed it has not been read
+- F57 solved in kvant_1971_6: the solution is here and the issue that posed it has not been read
+- F58 solved in kvant_1971_6: the solution is here and the issue that posed it has not been read
+- M34 solved in kvant_1971_6: the solution is here and the issue that posed it has not been read
+- M35 solved in kvant_1971_6: the solution is here and the issue that posed it has not been read
+- M36 solved in kvant_1971_6: the solution is here and the issue that posed it has not been read
+- M37 solved in kvant_1971_6: the solution is here and the issue that posed it has not been read
+- M38 solved in kvant_1971_6: the solution is here and the issue that posed it has not been read
+- F59 solved in kvant_1971_7: the solution is here and the issue that posed it has not been read
+- F60 solved in kvant_1971_7: the solution is here and the issue that posed it has not been read
+- F61 solved in kvant_1971_7: the solution is here and the issue that posed it has not been read
+- F63 solved in kvant_1971_7: the solution is here and the issue that posed it has not been read
+- F64 solved in kvant_1971_7: the solution is here and the issue that posed it has not been read
+- F65 solved in kvant_1971_7: the solution is here and the issue that posed it has not been read
+- M39 solved in kvant_1971_7: the solution is here and the issue that posed it has not been read
+- M41 solved in kvant_1971_7: the solution is here and the issue that posed it has not been read
+- M42 solved in kvant_1971_7: the solution is here and the issue that posed it has not been read
+- M43 solved in kvant_1971_7: the solution is here and the issue that posed it has not been read
+- M45 solved in kvant_1971_7: the solution is here and the issue that posed it has not been read
+- M46 solved in kvant_1971_7: the solution is here and the issue that posed it has not been read
+- M47 solved in kvant_1971_7: the solution is here and the issue that posed it has not been read
+- M48 solved in kvant_1971_7: the solution is here and the issue that posed it has not been read
+- M49 solved in kvant_1971_7: the solution is here and the issue that posed it has not been read
+- F66 solved in kvant_1971_8: the solution is here and the issue that posed it has not been read
+- F67 solved in kvant_1971_8: the solution is here and the issue that posed it has not been read
+- F68 solved in kvant_1971_8: the solution is here and the issue that posed it has not been read
+- F70 solved in kvant_1971_8: the solution is here and the issue that posed it has not been read
+- F71 solved in kvant_1971_8: the solution is here and the issue that posed it has not been read
+- M50 solved in kvant_1971_8: the solution is here and the issue that posed it has not been read
+- M51 solved in kvant_1971_8: the solution is here and the issue that posed it has not been read
+- M52 solved in kvant_1971_8: the solution is here and the issue that posed it has not been read
+- M53 solved in kvant_1971_8: the solution is here and the issue that posed it has not been read
+- M54 solved in kvant_1971_8: the solution is here and the issue that posed it has not been read
+- M56 solved in kvant_1971_8: the solution is here and the issue that posed it has not been read
+- M57 solved in kvant_1971_8: the solution is here and the issue that posed it has not been read
+- M58 solved in kvant_1971_8: the solution is here and the issue that posed it has not been read
+- M59 solved in kvant_1971_8: the solution is here and the issue that posed it has not been read
+- M60 solved in kvant_1971_8: the solution is here and the issue that posed it has not been read
+- F155 solved in kvant_1972_12: the solution is here and the issue that posed it has not been read
+- F156 solved in kvant_1972_12: the solution is here and the issue that posed it has not been read
+- F102 solved in kvant_1972_3: the solution is here and the issue that posed it has not been read
+- F103 solved in kvant_1972_3: the solution is here and the issue that posed it has not been read
+- F104 solved in kvant_1972_3: the solution is here and the issue that posed it has not been read
+- F107 solved in kvant_1972_3: the solution is here and the issue that posed it has not been read
+- M95 solved in kvant_1972_3: the solution is here and the issue that posed it has not been read
+- F110 solved in kvant_1972_4: the solution is here and the issue that posed it has not been read
+- F113 solved in kvant_1972_4: the solution is here and the issue that posed it has not been read
+- F116 solved in kvant_1972_5: the solution is here and the issue that posed it has not been read
+- F117 solved in kvant_1972_5: the solution is here and the issue that posed it has not been read
+- M101 solved in kvant_1972_5: the solution is here and the issue that posed it has not been read
+- M102 solved in kvant_1972_5: the solution is here and the issue that posed it has not been read
+- M103 solved in kvant_1972_5: the solution is here and the issue that posed it has not been read
+- M104 solved in kvant_1972_5: the solution is here and the issue that posed it has not been read
+- M105 solved in kvant_1972_5: the solution is here and the issue that posed it has not been read
+- F134 solved in kvant_1972_8: the solution is here and the issue that posed it has not been read
+- F135 solved in kvant_1972_8: the solution is here and the issue that posed it has not been read
+- F136 solved in kvant_1972_8: the solution is here and the issue that posed it has not been read
+- F160 solved in kvant_1973_1: the solution is here and the issue that posed it has not been read
+- F161 solved in kvant_1973_1: the solution is here and the issue that posed it has not been read
+- F162 solved in kvant_1973_1: the solution is here and the issue that posed it has not been read
+- F210 solved in kvant_1973_12: the solution is here and the issue that posed it has not been read
+- M198 solved in kvant_1973_12: the solution is here and the issue that posed it has not been read
+- F173 solved in kvant_1973_3: the solution is here and the issue that posed it has not been read
+- F175 solved in kvant_1973_3: the solution is here and the issue that posed it has not been read
+- F177 solved in kvant_1973_4: the solution is here and the issue that posed it has not been read
+- M165 solved in kvant_1973_6: the solution is here and the issue that posed it has not been read
+- F188 solved in kvant_1973_7: the solution is here and the issue that posed it has not been read
+- F189 solved in kvant_1973_7: the solution is here and the issue that posed it has not been read
+- F190 solved in kvant_1973_7: the solution is here and the issue that posed it has not been read
+- M175 solved in kvant_1973_8: the solution is here and the issue that posed it has not been read
+- F258 solved in kvant_1974_10: the solution is here and the issue that posed it has not been read
+- F259 solved in kvant_1974_10: the solution is here and the issue that posed it has not been read
+- F260 solved in kvant_1974_11: the solution is here and the issue that posed it has not been read
+- F269 solved in kvant_1974_12: the solution is here and the issue that posed it has not been read
+- F233 solved in kvant_1974_6: the solution is here and the issue that posed it has not been read
+- F234 solved in kvant_1974_6: the solution is here and the issue that posed it has not been read
+- F235 solved in kvant_1974_6: the solution is here and the issue that posed it has not been read
+- F236 solved in kvant_1974_6: the solution is here and the issue that posed it has not been read
+- M225 solved in kvant_1974_6: the solution is here and the issue that posed it has not been read
+- M234 solved in kvant_1974_7: the solution is here and the issue that posed it has not been read
+- M238 solved in kvant_1974_8: the solution is here and the issue that posed it has not been read
+- F287 solved in kvant_1975_3: the solution is here and the issue that posed it has not been read
+- M275 solved in kvant_1975_3: the solution is here and the issue that posed it has not been read
+- F294 solved in kvant_1975_4: the solution is here and the issue that posed it has not been read
+- F296 solved in kvant_1975_5: the solution is here and the issue that posed it has not been read
+- F297 solved in kvant_1975_5: the solution is here and the issue that posed it has not been read
+- F346 solved in kvant_1976_3: the solution is here and the issue that posed it has not been read
+- F347 solved in kvant_1976_3: the solution is here and the issue that posed it has not been read
+- M382 solved in kvant_1977_1: the solution is here and the issue that posed it has not been read
+- F432 solved in kvant_1977_9: the solution is here and the issue that posed it has not been read
+- F498 solved in kvant_1978_11: the solution is here and the issue that posed it has not been read
+- M487 solved in kvant_1978_11: the solution is here and the issue that posed it has not been read
+- M489 solved in kvant_1978_11: the solution is here and the issue that posed it has not been read
+- M490 solved in kvant_1978_11: the solution is here and the issue that posed it has not been read
+- F547 solved in kvant_1979_11: the solution is here and the issue that posed it has not been read
+- F523 solved in kvant_1979_5: the solution is here and the issue that posed it has not been read
+- F524 solved in kvant_1979_5: the solution is here and the issue that posed it has not been read
+- F525 solved in kvant_1979_5: the solution is here and the issue that posed it has not been read
+- F527 solved in kvant_1979_6: the solution is here and the issue that posed it has not been read
+- F579 solved in kvant_1979_6: the solution is here and the issue that posed it has not been read
+- F581 solved in kvant_1979_6: the solution is here and the issue that posed it has not been read
+- F582 solved in kvant_1979_6: the solution is here and the issue that posed it has not been read
+- F526 solved in kvant_1979_7: the solution is here and the issue that posed it has not been read
+- F587 solved in kvant_1979_7: the solution is here and the issue that posed it has not been read
+- F586 solved in kvant_1980_6: the solution is here and the issue that posed it has not been read
+- M568 solved in kvant_1980_6: the solution is here and the issue that posed it has not been read
+- M571 solved in kvant_1980_6: the solution is here and the issue that posed it has not been read
+- M572 solved in kvant_1980_6: the solution is here and the issue that posed it has not been read
+- M574 solved in kvant_1980_6: the solution is here and the issue that posed it has not been read
+- F583 solved in kvant_1980_7: the solution is here and the issue that posed it has not been read
+- F584 solved in kvant_1980_7: the solution is here and the issue that posed it has not been read
+- M573 solved in kvant_1980_7: the solution is here and the issue that posed it has not been read
+- M575 solved in kvant_1980_7: the solution is here and the issue that posed it has not been read
+- F678 solved in kvant_1981_10: the solution is here and the issue that posed it has not been read
+- F679 solved in kvant_1981_10: the solution is here and the issue that posed it has not been read
+- F680 solved in kvant_1981_10: the solution is here and the issue that posed it has not been read
+- F628 solved in kvant_1981_2: the solution is here and the issue that posed it has not been read
+- F629 solved in kvant_1981_2: the solution is here and the issue that posed it has not been read
+- F630 solved in kvant_1981_2: the solution is here and the issue that posed it has not been read
+- F658 solved in kvant_1981_6: the solution is here and the issue that posed it has not been read
+- F659 solved in kvant_1981_6: the solution is here and the issue that posed it has not been read
+- F660 solved in kvant_1981_6: the solution is here and the issue that posed it has not been read
+- F661 solved in kvant_1981_6: the solution is here and the issue that posed it has not been read
+- F664 solved in kvant_1981_7: the solution is here and the issue that posed it has not been read
+- F665 solved in kvant_1981_7: the solution is here and the issue that posed it has not been read
+- F666 solved in kvant_1981_7: the solution is here and the issue that posed it has not been read
+- F667 solved in kvant_1981_7: the solution is here and the issue that posed it has not been read
+- M646 solved in kvant_1981_7: the solution is here and the issue that posed it has not been read
+- M648 solved in kvant_1981_7: the solution is here and the issue that posed it has not been read
+- M649 solved in kvant_1981_7: the solution is here and the issue that posed it has not been read
+- M650 solved in kvant_1981_7: the solution is here and the issue that posed it has not been read
+- M651 solved in kvant_1981_7: the solution is here and the issue that posed it has not been read
+- M652 solved in kvant_1981_7: the solution is here and the issue that posed it has not been read
+- M653 solved in kvant_1981_7: the solution is here and the issue that posed it has not been read
+- M654 solved in kvant_1981_7: the solution is here and the issue that posed it has not been read
+- M655 solved in kvant_1981_7: the solution is here and the issue that posed it has not been read
+- F753 solved in kvant_1982_10: the solution is here and the issue that posed it has not been read
+- F754 solved in kvant_1982_10: the solution is here and the issue that posed it has not been read
+- F755 solved in kvant_1982_10: the solution is here and the issue that posed it has not been read
+- F756 solved in kvant_1982_10: the solution is here and the issue that posed it has not been read
+- F757 solved in kvant_1982_10: the solution is here and the issue that posed it has not been read
+- M742 solved in kvant_1982_10: the solution is here and the issue that posed it has not been read
+- M743 solved in kvant_1982_10: the solution is here and the issue that posed it has not been read
+- M744 solved in kvant_1982_10: the solution is here and the issue that posed it has not been read
+- M745 solved in kvant_1982_10: the solution is here and the issue that posed it has not been read
+- M749 solved in kvant_1982_11: the solution is here and the issue that posed it has not been read
+- F737 solved in kvant_1982_8: the solution is here and the issue that posed it has not been read
+- F823 solved in kvant_1983_10: the solution is here and the issue that posed it has not been read
+- F827 solved in kvant_1983_10: the solution is here and the issue that posed it has not been read
+- F831 solved in kvant_1983_11: the solution is here and the issue that posed it has not been read
+- F832 solved in kvant_1983_11: the solution is here and the issue that posed it has not been read
+- M816 solved in kvant_1983_11: the solution is here and the issue that posed it has not been read
+- M817 solved in kvant_1983_11: the solution is here and the issue that posed it has not been read
+- M819 solved in kvant_1983_11: the solution is here and the issue that posed it has not been read
+- F800 solved in kvant_1983_12: the solution is here and the issue that posed it has not been read
+- F788 solved in kvant_1983_3: the solution is here and the issue that posed it has not been read
+- F789 solved in kvant_1983_3: the solution is here and the issue that posed it has not been read
+- F790 solved in kvant_1983_3: the solution is here and the issue that posed it has not been read
+- F791 solved in kvant_1983_3: the solution is here and the issue that posed it has not been read
+- F792 solved in kvant_1983_3: the solution is here and the issue that posed it has not been read
+- F804 solved in kvant_1983_6: the solution is here and the issue that posed it has not been read
+- F805 solved in kvant_1983_6: the solution is here and the issue that posed it has not been read
+- F806 solved in kvant_1983_6: the solution is here and the issue that posed it has not been read
+- M791 solved in kvant_1983_6: the solution is here and the issue that posed it has not been read
+- M792 solved in kvant_1983_6: the solution is here and the issue that posed it has not been read
+- M794 solved in kvant_1983_6: the solution is here and the issue that posed it has not been read
+- M795 solved in kvant_1983_6: the solution is here and the issue that posed it has not been read
+- F989 solved in kvant_1986_8: the solution is here and the issue that posed it has not been read
+- F990 solved in kvant_1986_8: the solution is here and the issue that posed it has not been read
+- F991 solved in kvant_1986_8: the solution is here and the issue that posed it has not been read
+- F992 solved in kvant_1986_8: the solution is here and the issue that posed it has not been read
+- F1066 solved in kvant_1987_11: the solution is here and the issue that posed it has not been read
+- F1071 solved in kvant_1987_12: the solution is here and the issue that posed it has not been read
+- F1072 solved in kvant_1987_12: the solution is here and the issue that posed it has not been read
+- F1045 solved in kvant_1987_7: the solution is here and the issue that posed it has not been read
+- F1047 solved in kvant_1987_7: the solution is here and the issue that posed it has not been read
+- F1073 solved in kvant_1988_1: the solution is here and the issue that posed it has not been read
+- F1130 solved in kvant_1989_1: the solution is here and the issue that posed it has not been read
+- F1146 solved in kvant_1989_4: the solution is here and the issue that posed it has not been read
+- F1147 solved in kvant_1989_4: the solution is here and the issue that posed it has not been read
+- F1168 solved in kvant_1989_9: the solution is here and the issue that posed it has not been read
+- F1169 solved in kvant_1989_9: the solution is here and the issue that posed it has not been read
+- F1170 solved in kvant_1989_9: the solution is here and the issue that posed it has not been read
+- F1189 solved in kvant_1989_9: the solution is here and the issue that posed it has not been read
+- F1190 solved in kvant_1989_9: the solution is here and the issue that posed it has not been read
+- F1191 solved in kvant_1989_9: the solution is here and the issue that posed it has not been read
+- F1192 solved in kvant_1989_9: the solution is here and the issue that posed it has not been read
+- F2145 solved in kvant_2009_4: the solution is here and the issue that posed it has not been read
+- F2146 solved in kvant_2009_4: the solution is here and the issue that posed it has not been read
+- F2147 solved in kvant_2009_4: the solution is here and the issue that posed it has not been read
+- F2148 solved in kvant_2009_4: the solution is here and the issue that posed it has not been read
+- F2149 solved in kvant_2009_4: the solution is here and the issue that posed it has not been read
+- F2150 solved in kvant_2009_4: the solution is here and the issue that posed it has not been read
+- F2151 solved in kvant_2009_4: the solution is here and the issue that posed it has not been read
+- F2152 solved in kvant_2009_4: the solution is here and the issue that posed it has not been read
+- F2339 solved in kvant_2014_1: the solution is here and the issue that posed it has not been read
+- M2309 solved in kvant_2014_1: the solution is here and the issue that posed it has not been read
+- M2310 solved in kvant_2014_1: the solution is here and the issue that posed it has not been read
+- M2311 solved in kvant_2014_1: the solution is here and the issue that posed it has not been read
+- M2312 solved in kvant_2014_1: the solution is here and the issue that posed it has not been read
+- F2389 solved in kvant_2015_3: the solution is here and the issue that posed it has not been read
+- F2390 solved in kvant_2015_3: the solution is here and the issue that posed it has not been read
+- F2391 solved in kvant_2015_3: the solution is here and the issue that posed it has not been read
+- F2392 solved in kvant_2015_3: the solution is here and the issue that posed it has not been read
+- F2393 solved in kvant_2015_3: the solution is here and the issue that posed it has not been read
+- F2394 solved in kvant_2015_3: the solution is here and the issue that posed it has not been read
+- M2389 solved in kvant_2016_1: the solution is here and the issue that posed it has not been read
+- M2390 solved in kvant_2016_1: the solution is here and the issue that posed it has not been read
+- M2405 solved in kvant_2016_3: the solution is here and the issue that posed it has not been read
+- F2467 solved in kvant_2017_4: the solution is here and the issue that posed it has not been read
+- F2468 solved in kvant_2017_4: the solution is here and the issue that posed it has not been read
+- F2497 solved in kvant_2018_3: the solution is here and the issue that posed it has not been read
+- F2498 solved in kvant_2018_3: the solution is here and the issue that posed it has not been read
+- F2550 solved in kvant_2019_1: the solution is here and the issue that posed it has not been read
+- F2551 solved in kvant_2019_1: the solution is here and the issue that posed it has not been read
+- F2552 solved in kvant_2019_1: the solution is here and the issue that posed it has not been read
+- F2558 solved in kvant_2019_3: the solution is here and the issue that posed it has not been read
+- F2559 solved in kvant_2019_3: the solution is here and the issue that posed it has not been read
+- F2560 solved in kvant_2019_3: the solution is here and the issue that posed it has not been read
+- F2575 solved in kvant_2019_7: the solution is here and the issue that posed it has not been read
+- F2576 solved in kvant_2019_7: the solution is here and the issue that posed it has not been read
+- M2553 solved in kvant_2019_7: the solution is here and the issue that posed it has not been read
+- M2554 solved in kvant_2019_7: the solution is here and the issue that posed it has not been read
+- F2620 solved in kvant_2020_10: the solution is here and the issue that posed it has not been read
+- F2631 solved in kvant_2020_10: the solution is here and the issue that posed it has not been read
+- F2632 solved in kvant_2020_10: the solution is here and the issue that posed it has not been read
+- M2611 solved in kvant_2020_10: the solution is here and the issue that posed it has not been read
+- M2612 solved in kvant_2020_10: the solution is here and the issue that posed it has not been read
+- F2610 solved in kvant_2020_5: the solution is here and the issue that posed it has not been read
+- F2611 solved in kvant_2020_5: the solution is here and the issue that posed it has not been read
+- F2612 solved in kvant_2020_5: the solution is here and the issue that posed it has not been read
+- M2590 solved in kvant_2020_5: the solution is here and the issue that posed it has not been read
+- M2591 solved in kvant_2020_5: the solution is here and the issue that posed it has not been read
+- F2726 solved in kvant_2022_10: the solution is here and the issue that posed it has not been read
+- F2727 solved in kvant_2022_10: the solution is here and the issue that posed it has not been read
+- F2728 solved in kvant_2022_10: the solution is here and the issue that posed it has not been read
+- F2702 solved in kvant_2022_4: the solution is here and the issue that posed it has not been read
+- F2703 solved in kvant_2022_4: the solution is here and the issue that posed it has not been read
+- F2704 solved in kvant_2022_4: the solution is here and the issue that posed it has not been read
+- F2742 solved in kvant_2023_2: the solution is here and the issue that posed it has not been read
+- F2743 solved in kvant_2023_2: the solution is here and the issue that posed it has not been read
+- F2744 solved in kvant_2023_2: the solution is here and the issue that posed it has not been read
+- M2744 solved in kvant_2023_7: the solution is here and the issue that posed it has not been read
+- M2745 solved in kvant_2023_7: the solution is here and the issue that posed it has not been read
+- M2806 solved in kvant_2024_11-12: the solution is here and the issue that posed it has not been read
+- F2811 solved in kvant_2024_7: the solution is here and the issue that posed it has not been read
+- F2812 solved in kvant_2024_7: the solution is here and the issue that posed it has not been read
+- F2805 solved in kvant_2024_9: the solution is here and the issue that posed it has not been read
+- F2818 solved in kvant_2024_9: the solution is here and the issue that posed it has not been read
+- F2819 solved in kvant_2024_9: the solution is here and the issue that posed it has not been read
+- F2820 solved in kvant_2024_9: the solution is here and the issue that posed it has not been read
+- M2798 solved in kvant_2024_9: the solution is here and the issue that posed it has not been read
