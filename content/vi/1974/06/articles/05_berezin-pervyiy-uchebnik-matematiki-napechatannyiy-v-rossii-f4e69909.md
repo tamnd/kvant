@@ -1,0 +1,55 @@
+---
+id: 1974-6-berezin-pervyiy-uchebnik-matematiki-napechatannyiy-v-rossii-f4e69909
+issue: kvant_1974_6
+year: 1974
+number: "6"
+title: Sách giáo khoa toán đầu tiên được xuất bản ở Nga
+authors:
+  - Березин В. Н.
+rubric: smes
+page_first: 16
+page_last: 16
+page_labels: "14"
+tag: HMNL
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 86bf22364c060b9d11c340b2bff1996c1de0ebcaabacab74ea7da8630378a1ba
+prompt_sha256: draft-1
+translated_from: content/ru/1974/06/articles/05_berezin-pervyiy-uchebnik-matematiki-napechatannyiy-v-rossii-f4e69909.md
+source_content_sha256: cf4cdc24b7367efe553448051852260e3a28c134a08c40c85018aa03446b1537
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 14⟧
+
+số $p \geqslant 3$. Chúng ta gọi nó là kết quả nếu không có tử số nào của số Bernoulli $B_2, B_4, \dots, B_{p-3}$ chia hết cho nó. Khi đó định lý Kummer có dạng như sau: Phương trình Fermat $x^p + y^p = z^p$, trong đó $p$ là một phương trình tổng hợp không thể giải được bằng số nguyên $x, y, z$ âm của 0. Người ta có thể kiểm tra xem các số nguyên tố 3, 5, 7, 11, 13, 17, \dots có phải là kết quả hay không. Câu hỏi được đặt ra: không phải tất cả các số nguyên tố đều có kết quả sao? Hóa ra là không. Tuy nhiên, số nguyên tố bất thường đầu tiên không được phát hiện nhanh chóng. Đây là số nguyên tố thứ mười hai 37. Có thể chứng minh rằng có vô số số nguyên tố không đều. Đối với các số nguyên tố thu được, vẫn chưa biết số của chúng có hữu hạn hay không.
+
+Bài tập
+2. Chứng tỏ rằng hàm
+$$f(x) = S_k(x) - \frac{x^k}{2}$$ chẵn khi $k$ lẻ và lẻ khi $k$ chẵn.
+3. Sử dụng định lý Kummer để kiểm tra tính đúng đắn của Định lý cuối cùng của Fermat cho $p=3, 5, 7, 11, 13, 17$.
+4. Sử dụng định lý Pascal (3), tìm hệ số khai triển
+$$S_k(n-1) = a_0C_1^n + a_1C_2^n + \dots + a_kC_{n+1}^n.$$ (11)
+Từ đây rút ra một công thức rõ ràng cho số Bernoulli (dựa trên công thức này, Staudt đã chứng minh định lý nổi tiếng của mình).
+5. Hãy để $S_k(n) = b_0, kn^{k+1} + b_1, kn^k + \dots + b_k, kn$. Hãy biểu thị
+$$S_k'(n) = (k+1)b_0, kn^k + kb_1, kn^{k-1} + \dots + b_k, k.$$
+Sử dụng công thức (5) và phương pháp quy nạp toán học, chứng minh rằng
+$$S_k'(n) = kS_{k-1}(n) + B_k.$$ (12)
+6. Hãy xem xét cách sử dụng sự tương ứng (12) để xác định các hệ số của đa thức $S_k(n)$, tức là chứng minh công thức Bernoulli.
+
+Sách giáo khoa toán đầu tiên được xuất bản ở Nga
+
+Sách giáo khoa toán học đầu tiên của Nga là cuốn sách Số học của Leonty Filippovich Magnitsky, xuất bản năm 1703 tại Moscow. Trong thời gian nhận cuốn sách, đây là cuốn sách giáo khoa duy nhất. Các nhà thiên văn học, nhà khảo sát trong tương lai, các thuyền trưởng và đô đốc uyên bác của Hải quân Nga đã nghiên cứu nó tại Trường Hàng hải Moscow và các trường số học hoặc tranh luận. Các số trung bình của chính L.F. Magnitsky ở Trường Hàng hải là nhà thám hiểm Kamchatka và Quần đảo Kuril S.I. Chelyuskin, nhà khảo sát F.F. Luzhin và I.M. Evrenov, người đã biên soạn bản đồ địa lý đầu tiên của Kamchatka, phó đô đốc - thủy văn và khoai tây, nhà thám hiểm Biển Caspian, Bán đảo Chukchi và Biển Okhotsk F.I. Soimonov, đô đốc N.F. Golovin, Đô đốc M.M. Golitsin, Đại úy-Chỉ huy A.I. Chirkov và đa địa lý.
+
+Mikhail Vasilievich Lomonsov được L. F. Magnitsky tự học môn “Số học”. Anh ấy, giống như L.F. Magnitsky trước anh ấy, học tại Học viện Slavic-Hy Lạp-Latin, nhưng họ không thành thạo toán học ở đó.
+
+MV Lomonsov gọi “Số học” của L.F. Magnitsky là “cánh cổng của học tập” và theo lời khai của một số người viết tiểu sử về M.V. Lomonsov, anh ấy thậm chí còn học thuộc lòng nó.
+
+Cuốn “Số học” của L. F. Magnitsky có khoảng 600 trang văn bản. Trong số này có hơn 40 trang được tách ra. Và điều này là tự nhiên - vì cuốn sách không chỉ là một cuốn sách giáo khoa mà còn là một bài giới thiệu ngắn gọn về toán học. Cô giải thích tại sao toán học lại cần thiết và vai trò của nó trong cuộc sống.
+
+Một cuốn sách tài năng được viết bởi một giáo viên toán học, người con trai nông dân tự học Leonty Magnitsky đã bảo đảm tên tuổi của ông.
+
+V. N. Berezin

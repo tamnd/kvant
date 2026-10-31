@@ -1,0 +1,44 @@
+---
+id: 1974-7-veres-vraschenie-kotorogo-net-93a2a3e2
+issue: kvant_1974_7
+year: 1974
+number: "7"
+title: Một vòng quay không tồn tại
+authors:
+  - Верес Л.
+rubric: smes
+page_first: 14
+page_last: 14
+page_labels: "12"
+tag: 1MZT
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 9b04c408b486f8da7e200940f4327f56cb1de5e6444dd951cef4e833a63541d5
+prompt_sha256: draft-1
+translated_from: content/ru/1974/07/articles/05_veres-vraschenie-kotorogo-net-93a2a3e2.md
+source_content_sha256: eaa963815501e7a32ce1dd602b82d070593e859bcc6d14895b7ed714b58a2d8b
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 12⟧
+
+12 năm (Hình 7). Nhưng vào cuối năm 1973, công trình của các nhà thiên văn học khác đã được công bố, trong đó phân tích thống kê các hình ảnh chụp của ngôi sao đã dẫn đến một quỹ đạo khác, để giải thích điều này thì không cần thiết phải giả định sự tồn tại của các hành tinh.
+
+Liệu có thể khắc phục những sai sót trong quan sát của chúng ta và bằng cách tìm kiếm quỹ đạo của các ngôi sao để xác minh một cách đáng tin cậy sự tồn tại của các hành tinh không?
+
+Việc quan sát các ngôi sao không phải từ bề mặt Trái đất mà từ bề mặt Mặt Trăng có thể giúp giải quyết vấn đề này - Lunya không có bầu khí quyển và đường kính hình ảnh của các ngôi sao trên nhựa ảnh sẽ nhỏ hơn đáng kể so với khi quan sát từ Trái đất. Những thay đổi từ các vệ tinh nằm bên ngoài bầu khí quyển Trái đất cũng có thể giúp ích, với một hệ thống đủ hoàn hảo để ổn định chúng trong không gian.
+
+Một vòng quay không phải
+
+Lấy một cuốn tạp chí có các vòng tròn được mô tả trên bìa trong tay và thực hiện một số chuyển động xoay đồng đều bằng tay trong mặt phẳng của các trang có hình ảnh. Bức vẽ “trở nên sống động”: các vòng tròn bắt đầu xoay. Không khó để “xoắn” các vòng tròn theo hướng khác. Sự vô vọng này được thực hiện như thế nào?
+
+Mắt của chúng ta có khả năng lưu giữ ấn tượng thị giác trong một phần giây sau khi vật thể nhìn thấy đã biến mất khỏi tầm nhìn. Điều tương tự cũng áp dụng cho phần hình ảnh mà chúng ta quan sát được. Khi chúng ta di chuyển bản vẽ của mình, các phần của vòng tròn đồng tâm, có độ sáng tương phản, di chuyển trên võng mạc theo chuyển động tròn của bàn tay. Chúng ta không thể phân biệt chi tiết này với chi tiết khác trong một vòng tròn đơn sắc, nhưng mỗi phần tử phát sáng của vòng tròn vẫn tồn tại trong nhận thức của chúng ta ở một vị trí nào đó lâu hơn một chút so với thực tế. Đây là cách xuất hiện ảo ảnh về sự chuyển động của các phần tử của vòng tròn ánh sáng và khi tốc độ đến gần, ảo ảnh hoàn toàn về sự quay của các phần ánh sáng của hình sẽ xuất hiện. Ở giai đoạn này, hiệu ứng tương tự như hiệu ứng mà chúng ta thấy khi quan sát các nan hoa của một bánh xe đang quay nhanh hợp nhất với nhau.
+
+Cơ sở của ảo ảnh này là cái gọi là hiệu ứng strokosoppic. Thứ nhất, nó bao gồm thực tế là trong lần quan sát đầu tiên, mỗi vật thể quay nhanh đều bất động, và thứ hai, thực tế là sự thay đổi nhanh chóng hình ảnh của từng giai đoạn chuyển động của cơ thể tạo ra hiệu ứng chuyển động liên tục.
+
+Khả năng đầu tiên được hiện thực hóa đầy đủ nhất
+
+(xem cuối trang 23)

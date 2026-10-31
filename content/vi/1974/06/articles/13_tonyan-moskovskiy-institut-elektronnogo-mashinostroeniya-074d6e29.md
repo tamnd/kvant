@@ -1,0 +1,83 @@
+---
+id: 1974-6-tonyan-moskovskiy-institut-elektronnogo-mashinostroeniya-074d6e29
+issue: kvant_1974_6
+year: 1974
+number: "6"
+title: Viện Kỹ thuật Điện tử Moscow
+authors:
+  - Тонян В. А.
+rubric: praktikum-abiturienta
+rubric_sub: Практикум абитуриента
+page_first: 45
+page_last: 45
+page_labels: "43"
+tag: 6J1C
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 99502e81345e8200df3e813f0f26eb79df741502c80ba9b586756abb22ca438f
+prompt_sha256: draft-1
+translated_from: content/ru/1974/06/articles/13_tonyan-moskovskiy-institut-elektronnogo-mashinostroeniya-074d6e29.md
+source_content_sha256: 98227a0956b63ed60b454f1d28186cce3e610b064d4ae2bd1d9531a95b3a7808
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 43⟧
+
+3. Hai vật có khối lượng $m_1=2$ke và $m_2=3$ke được gắn trên một thanh dài 1,5 m có thể quay quanh một trục nằm ngang. Xác định vận tốc của vật thứ hai khi thanh chuyển động từ vị trí nằm ngang sang vị trí thẳng đứng. Vật thứ nhất cách trục quay 0,5 m, vật thứ hai - 1 m. Bỏ qua khối lượng của thanh.
+
+4. Tìm thời gian cần thiết để một vật toán học có chiều dài $l=1$ m: a) đi được quãng đường từ điểm trượt cực đại đến vị trí cân bằng; b) vượt qua nửa đầu của quãng đường này; c) đi được nửa sau của khoảng cách này.
+
+5. Hai quả cầu chì giống hệt nhau chuyển động hướng về nhau với vận tốc $v_1=40$ m/s và $v_2=20$ m/s. Xác định xem chúng sẽ nóng lên bao nhiêu độ do lớp kính trung tâm không đàn hồi. Nhiệt dung riêng của chì là $c=130$ J/ke · độ.
+
+6. Xác định mật độ trung bình của mặt phẳng $\rho$, độ dài ngày trên lớp vỏ $t=6$ u, nếu tại xích đạo của nó các vảy lò xo có trọng lượng nhỏ hơn 10% so với ở cực. Hằng số hấp dẫn $\gamma=6,67 \cdot 10^{-11} \text{ m}^3/\text{ке} \cdot \text{c}^2$.
+
+7. Động cơ điện được cung cấp năng lượng bởi pin có e.m. Với. Thế kỷ 12 Động cơ phát ra công suất cơ học bao nhiêu khi có dòng điện 2 A chạy qua cuộn dây của nó, nếu khi phần ứng bị hãm hoàn toàn thì có dòng điện 3 A chạy qua mạch?
+
+8. Thiết bị sưởi ấm bằng điện được đánh dấu bằng $P_1=600$ vm; $U_1=220$ trong và $P_2=400$ trong; $U_2=220$ V, mắc nối tiếp vào mạng có điện áp 220 V. Mỗi cái sẽ tạo ra bao nhiêu công suất?
+
+9. Trong một từ trường, cảm ứng từ là $B=0,05$ ml, một thanh có chiều dài $l=1$ m quay với tốc độ góc không đổi $\omega=20$ rad/s. Trục quay đi qua đầu thanh và song song với các đường hợp lưu của từ trường. Tìm hiệu điện thế xuất hiện ở hai đầu thanh.
+
+10. Một dây dẫn có chiều dài $l=1$ m trượt dọc theo các thanh ray nằm ngang nằm trong từ trường thẳng đứng có cảm ứng $B=10^{-2}$ ml với tốc độ không đổi $v=10$ m/s. Các đầu của đường ray được đóng lại với điện trở không đổi $R=2$ ohm. Xác định lượng chất lỏng thoát ra ở lực cản trong 1 giây. Bỏ qua điện trở của thanh ray và dây dẫn.
+
+11. Một tia laser ruby ​​​​phát ra xung lượng tử $N=2 \cdot 10^{19}$ ánh sáng có bước sóng $\lambda=6,94 \cdot 10^{-5}$ cm. Công suất trung bình của đèn flash laze là bao nhiêu nếu thời lượng của nó là $\tau=2 \cdot 10^{-3}$ s?
+
+V. I. Korovin, Yu. M. Luzhnov,
+
+Viện Kỹ thuật Điện tử Moscow
+
+Trong «Kvant» số 7 năm 1973, chúng ta đã nói về MIEM. Trong số này, chúng tôi công bố các lựa chọn cho kỳ thi viết đầu vào môn toán năm 1973.
+
+Tùy chọn 1
+
+1. Một thửa đất hình chữ nhật có diện tích 420 m2 phải có hàng rào dây thép bao quanh và chia làm đôi theo đường chéo. Xác định kích thước của khu vực nếu việc này đòi hỏi phải đào 111 m. Nên chọn ô nào có cùng diện tích để có số lượng hố ít nhất?
+
+Giải phương trình
+
+2. $\sqrt{x+1}-\sqrt{a-x}=1$, ở đâu $a>0$.
+
+3. $\sqrt{2 \sin(x+2)}-\sqrt{2 \cos^2x}=\sqrt{\sin x(2 \cos 2-\cos x)}$.
+
+4. Giải bất đẳng thức $(\log_3^2 x^2+2 \log_3 x-2)(2^2x-9)^2<0$.
+
+5. Một trong hai giới hạn góc là $A$; Các góc phẳng kề với hai góc biên đã cho bằng $\alpha$ và $\beta$. Tìm góc phẳng thứ ba.
+
+Tùy chọn 2
+
+1. Để làm khung dây của một hình song song thẳng, trong đó một trong các cạnh của đế lớn gấp đôi cạnh kia, cần có nút chai dài 140 cm. Tìm các cạnh của hình bình hành biết tổng diện tích của nó là 504 cm2. Hình song song có hình dạng nhất định và bề mặt nhất định phải có những kích thước nào để việc sản xuất khung nối dây của nó cần ít lỗ nhất?
+
+Giải phương trình
+
+2. $\sqrt{x}-\sqrt{a-x}=\sqrt{2}$.
+
+3. $\sqrt{\sin x(2-\cos x)}=\sqrt{2 \sin x-tg 3 \cos x(2-\cos x)}$.
+
+4. Giải hệ bất phương trình
+
+$$\begin{cases} \log_2^{1/81} x-\log_1/81 x-1<0, \\ x^2-13x+30<0. \end{cases}$$
+
+5. Cơ sở của các tham số là một hình thoi có cạnh $a$ và một góc nhọn $\alpha$. Tất cả các mặt bên đều nghiêng với mặt phẳng đáy một góc $\alpha$. Xác định bán kính của quả cầu ghi trong tham số.
+
+V. A. Tonyan

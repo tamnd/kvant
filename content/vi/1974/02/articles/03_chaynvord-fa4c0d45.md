@@ -1,0 +1,46 @@
+---
+id: 1974-2-chaynvord-fa4c0d45
+issue: kvant_1974_2
+year: 1974
+number: "2"
+title: hướng Trung Quốc
+rubric: smes
+page_first: 68
+page_last: 68
+tag: OKYU
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 767b30462da06f0f48112726ae284a418c081bb54951f351287e8e2b7cfa4fa6
+prompt_sha256: draft-1
+translated_from: content/ru/1974/02/articles/03_chaynvord-fa4c0d45.md
+source_content_sha256: 2368fd667d5cd03387adb5aba19821a534f68f7af446471a394f85d577b8ffaf
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+hướng Trung Quốc
+
+1. Nhà toán học người Pháp từng tham gia cuộc chiến của Napoléon năm 1812 và bị người Nga bắt giữ.
+2. Nhà toán học Hy Lạp cổ đại, tác giả của chuyên luận lý thuyết đầu tiên về toán học còn tồn tại cho đến ngày nay.
+3. Nhà toán học người Pháp, người sáng lập ra thiết kế và hình học xây dựng, người tham gia so sánh tại La Rochelle năm 1628.
+4. Nhà toán học người Pháp Gennady của thế kỷ 19, bị giết trong một bức vẽ nguệch ngoạc.
+5. Nhà toán học Hy Lạp cổ đại là người đầu tiên phát hiện ra công thức Heron.
+6. Một thước đo chiều dài bằng khoảng bốn mét.
+7. Nhà hình học và nhân vật nổi tiếng người Pháp (năm 1792-94, ông là Bộ trưởng Bộ Hàng hải Pháp).
+8. Nhà toán học người Hà Lan thế kỷ 17, người đầu tiên nêu định lý cơ bản của đại số, được chứng minh chặt chẽ vào năm 1799 bởi Gauss.
+9. Đơn vị đo góc bằng 1/32 hình tròn.
+10. Một nhà toán học thế kỷ 20 không tồn tại.
+11. Khái niệm quan trọng nhất của toán học cao cấp, nguồn gốc của nó được tìm thấy ở Eudoxus và Archimedes.
+12. Nhà toán học mà số l, được tính bằng 34 chữ số thập phân, được đặt theo tên ông.
+13. Một trong “bảy nhà thông thái” thời cổ đại, người đã khám phá ra một số định lý về hình học cơ bản (sự bằng nhau của các góc ở đáy của một tam giác đều, v.v.).
+14. Cố tình lựa chọn xấu.
+15. Nhà toán học, bạn của Descartes, các số nguyên tố có dạng 2^p - 1 (trong đó p là số nguyên tố) được đặt theo tên ông.
+16. Truyện của S. V. Kovalevskaya, người phụ nữ Nga đầu tiên - toán học.
+17. Một thiết bị tính toán được sử dụng bởi người Hy Lạp cổ đại.
+18. Nhà toán học Trung Tây đã khám phá ra công thức nhị thức của Newton.
+19. Nhà khoa học Trung Tây (triết gia, toán học, bác sĩ và nhà thơ), người sẽ kỷ niệm 1000 năm ngày sinh của ông vào năm 1980.
+20. Nhà thiên văn học, học giả nổi tiếng của Liên Xô.

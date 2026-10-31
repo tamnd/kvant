@@ -1,0 +1,84 @@
+---
+id: 1974-7-belyavskiy-belorusskiy-gosudarstvennyiy-universitet-im-v-i-lenina-49f8d755
+issue: kvant_1974_7
+year: 1974
+number: "7"
+title: Đại học bang Belarus được đặt theo tên. V. I. Lênin
+authors:
+  - Белявский С. С.
+rubric: ekzamenatsionnye-materialy
+page_first: 51
+page_last: 51
+page_labels: "49"
+tag: IIZU
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 0ab6795a84553da81d15d733db7cc204b03ed3d3134a9a9b6a5e0f831484da98
+prompt_sha256: draft-1
+translated_from: content/ru/1974/07/articles/14_belyavskiy-belorusskiy-gosudarstvennyiy-universitet-im-v-i-lenina-49f8d755.md
+source_content_sha256: 4d2384c75c1c1195386e28e150f777d3e62c074b773f2c0729f04f25effb9bea
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 49⟧
+
+Đại học bang Belarus được đặt theo tên. V. I. Lênin
+
+Dưới đây chúng tôi trình bày các lựa chọn cho kỳ thi viết đầu vào môn toán, được cung cấp cho những sinh viên đăng ký vào khoa vật lý và toán học tại Đại học Bang Bêlarut vào năm 1973.
+
+Khoa Toán
+Tùy chọn 1
+
+1. Bên trong một hình tròn có bán kính $R$ có bốn hình tròn bằng nhau nhỏ hơn bán kính. Mỗi người trong số họ chạm vào vòng tròn lớn hơn và hai vòng tròn liền kề bằng nó. Tính diện tích của một hình được giới hạn bởi tất cả các vòng tròn bằng nhau.
+
+2. Cấp số biến phân $a_m = n$, $a_n = m (m \neq n)$. Tìm $a_p$.
+
+3. Giải bất đẳng thức
+$$|x|^{x^2-x-2} < 1.$$
+
+4. Tìm các giá trị của $x$ trong khoảng $[-2\pi, \pi]$ mà hàm $f(x) = \sin x - \cos x$ có ​​giá trị nhỏ nhất. Tùy chọn 2
+
+1. Trong một paramid tam giác, tất cả sáu cạnh đều giống nhau. Tìm khoảng cách từ tâm đế đến các mặt bên nếu bán kính của quả bóng treo là $R$.
+
+2. Đơn giản hóa một biểu thức
+$$\frac{\sqrt{(a+x)(x+b)} + \sqrt{(a-x)(x-b)}}{\sqrt{(a+x)(x+b)} - \sqrt{(a-x)(x-b)}},$$
+nếu $x = \sqrt{ab}$, $a > b > 0$.
+
+3. Giải phương trình
+$$\sin^2 x + \sin^2 2x = 1.$$
+
+4. Tam giác $ABC$ chứa đường nhị phân $AD$. Chứng minh rằng nếu $AB + BD = AC + CD$ thì tam giác $ABC$ là tam giác đều.
+
+Khoa Toán ứng dụng
+Tùy chọn 3
+
+1. Tỷ lệ chu vi của hình bình hành với đường chéo lớn hơn của nó là $k$, $k > 2$. Tìm các góc của hình bình hành biết rằng đường chéo lớn chia góc của hình bình hành theo tỉ lệ 1:2.
+
+2. Tìm hai số tự nhiên có hiệu là 66 và bội số chung nhỏ nhất là 360.
+
+3. Xác định giá trị nào của $a$ phương trình
+$$2 \lg (x+3) = \lg (ax)$$
+có một gốc duy nhất. Tìm gốc này.
+
+4. Giảm về dạng thuận tiện cho việc logarit hóa,
+$$\sin 2\alpha + \cos 4\alpha - \sin 6\alpha.$$
+
+Tùy chọn 4
+
+1. Tỷ số giữa thể tích của một quả cầu nội tiếp trong một hình nón với thể tích của một quả cầu ngoại tiếp hình nón này bằng $k$, trong đó $0 < k < 1/8$. Tìm góc giữa đường sinh của hình nón và mặt phẳng trục của nó.
+
+2. Hai xe máy khởi hành đồng thời hướng về nhau từ các điểm $A$ và $B$, khoảng cách giữa chúng là 660 km. Trong khi người thứ nhất đi được 250 km thì người thứ hai đi được 200 km. Tìm tốc độ chuyển động của các xe máy, xem xét chuyển động đồng đều của chúng nếu xe máy thứ nhất đến sớm hơn xe thứ hai ở $B$ 3 giờ so với xe thứ hai ở $A$.
+
+3. Giải phương trình
+$$-2 + 4 \cos^2 x = \cos x + \sqrt{3} \sin x.$$
+
+4. Giải bất đẳng thức
+$$\frac{|x+2| - x}{\sqrt{4-x^3}} > 0.$$
+
+Khoa Vật lý
+Tùy chọn 5
+
+1. Trong hình tam giác đều, mặt phẳng vẽ qua tâm của đáy và tâm của hai mặt bên đối xứng tạo thành một góc nhọn $α$ với mặt phẳng đáy. Tìm diện tích mặt cắt ngang được tạo bởi mặt phẳng này nếu cạnh

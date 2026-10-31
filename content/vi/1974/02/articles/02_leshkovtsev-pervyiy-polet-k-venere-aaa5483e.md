@@ -1,0 +1,46 @@
+---
+id: 1974-2-leshkovtsev-pervyiy-polet-k-venere-aaa5483e
+issue: kvant_1974_2
+year: 1974
+number: "2"
+title: Chuyến bay đầu tiên tới sao Kim
+authors:
+  - Лешковцев В. А.
+rubric: raznoe
+rubric_sub: Разное
+page_first: 67
+page_last: 67
+tag: 7V69
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 2038cd8e606969a778e103a1885994ee487119338d1076a603253e98798a9612
+prompt_sha256: draft-1
+translated_from: content/ru/1974/02/articles/02_leshkovtsev-pervyiy-polet-k-venere-aaa5483e.md
+source_content_sha256: 46fdbfa2f6c783201b7cad2eafd1b13f360c124a1c6d65cfb8ea6af04e2e28ce
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+Chuyến bay đầu tiên
+đến sao Kim
+
+Sao Kim là hành tinh gần Trái đất nhất trong hệ mặt trời. Cho đến gần đây, ý tưởng của chúng ta về cấu trúc và tính chất của Sao Kim còn khiêm tốn và gần đúng. Bầu khí quyển dày đặc của hành tinh này không cho phép nhìn thấy bất kỳ chi tiết nào trên bề mặt của nó, và các nhà khoa học
+họ tự hỏi liệu bề mặt của Sao Kim bị bỏ hoang hay được bao phủ bởi một đại dương. Không có dữ liệu chính xác về thời gian tự quay của sao Kim, thành phần hóa học của bầu khí quyển, nhiệt độ và áp suất của các chất khí ở các độ cao khác nhau, v.v.
+
+Việc sử dụng các trạm cơ học tự động cho phép chúng ta nghiên cứu chi tiết các hành tinh trong hệ mặt trời và thu được một lượng lớn thông tin chính xác về đặc điểm của chúng. Tuy nhiên, việc tạo ra các trạm như vậy đi kèm với những khó khăn kỹ thuật rất lớn.
+
+Mười ba năm trước, ngày 12/2/1961, Liên Xô lần đầu tiên phóng thành công trạm tự động điều khiển từ vệ tinh nhân tạo lên đường bay quốc tế. Trạm Venera-1, có chiều dài 270 triệu km, đi gần hành tinh này.
+
+Tổng trọng lượng của trạm là 643,5 kg. Tại trạm có thiết bị khoa học được thiết kế để nghiên cứu tia vũ trụ, đo từ trường, ghi lại các thiên thạch micro và các hạt nạp đầy không gian bên ngoài.
+
+Sự ra mắt của Venera 1 đã mở ra một chương mới trong lĩnh vực khám phá không gian. Trong năm tiếp theo, Liên Xô và Mỹ đã hơn một lần gửi các trạm tự động đến các hành tinh gần nhất.
+
+Tem bưu chính được phát hành ở Liên Xô và một số nước khác.
+
+dành riêng cho sự ra mắt của Venera 1. Chúng tôi giới thiệu ở đây những con tem từ Liên Xô, Hungary và Cuba dành riêng cho sự kiện này. Con tem 10 kopeck của Liên Xô tái hiện lại hình ảnh tổng thể của nhà ga và sơ đồ hội tụ của nó với sao Kim. Hai con tem Hungary ghi khoảnh khắc trạm tự động tách khỏi thân xe phóng.
+
+V. A. Leshkovtsev
