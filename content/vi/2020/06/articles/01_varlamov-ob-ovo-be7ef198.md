@@ -41,7 +41,7 @@ chọn một quả trứng lớn hoặc một quả nhỏ; giữ nó bằng đ�
 
 ⟦figure⟧
 
-Hình 1. Pha đàn hồi khi hai quả trứng va chạm
+Cơm. 1. Pha đàn hồi khi hai quả trứng va chạm
 
 điểm tiếp xúc của trứng là một vòng tròn nhỏ bán kính r. Việc đường viền phẳng hay cong theo bất kỳ hướng nào không quan trọng. Điều quan trọng là, theo định luật thứ ba của Newton, các lực tác dụng trong quá trình va chạm từ quả trứng này sang quả trứng khác có độ lớn tuyệt đối bằng nhau và hướng ngược nhau. Khi chuyển giao quyền lực này
 
@@ -53,7 +53,7 @@ VỀ
 
 ⟦figure⟧
 
-Hình 4. Động cơ phản lực
+Cơm. 4. Động cơ phản lực
 
 nước ép rượu khô và đốt lửa. Nước sẽ sớm sôi lên và hơi nước thoát ra từ lỗ nhỏ nhờ nguyên lý phản lực sẽ bắt đầu tăng tốc cho xe đẩy. ...Chúng tôi đã hướng dẫn bạn cách phân biệt trứng luộc với trứng sống mà không làm vỡ. Có thể biết trứng tươi hay không mà không cần đập vỡ trứng? Hóa ra là có thể. Để làm điều này, chỉ cần cho một quả trứng sống vào cốc nước (Hình 5). Một quả trứng mới đẻ được vài ngày
 
@@ -63,7 +63,7 @@ OVO
 
 ⟦figure⟧
 
-Hình 5. Trứng càng già thì càng nổi.
+Cơm. 5. Trứng càng già thì càng nổi.
 
 ngược lại, chìm xuống đáy cốc. Một quả trứng được đẻ cách đây một tuần nổi trên mặt nước ở tư thế thẳng đứng. Một quả trứng được đẻ cách đây ít nhất ba tuần sẽ nổi ngay lập tức, với một phần nhô ra khỏi mặt nước. Thực tế là khi trứng già đi, các quá trình phân hủy protein và lòng đỏ xảy ra trong đó. Các quá trình này đi kèm với việc giải phóng hydro sunfua, chất này bay hơi một phần khỏi trứng qua các lỗ nhỏ nhất trên vỏ và lấp đầy một phần khoang không khí trong trứng. Do đó, mật độ của trứng giảm. Nhưng bạn không đến cửa hàng với một nồi nước để kiểm tra xem trứng có tươi hay không?! Bạn có thể làm đơn giản hơn: nhìn quả trứng “qua ánh sáng”: nếu sáng bóng là trứng tươi, nếu sẫm màu là trứng đã ôi. Hydrogen sulfide giải phóng trong trứng hư làm giảm độ trong suốt của nó. Ngày xưa, các cửa hàng thậm chí còn có những thiết bị đặc biệt - ống soi buồng trứng, trong đó có các ô để đặt trứng đang được kiểm tra và đèn được bật lên, giúp bạn có thể nhìn thấy tất cả những quả trứng đã được kiểm tra dưới ánh sáng. ...Để kết luận, hãy thử thí nghiệm thủ thuật sau. Lấy hai cốc trứng và đặt chúng gần nhau. Đặt một quả trứng luộc chín vào một trong số chúng. Thổi mạnh vào khoảng trống giữa quả trứng và thành kính. Quả trứng sẽ nhảy ra khỏi cốc và nhảy sang cốc tiếp theo. Nếu thủ thuật này hiệu quả, hãy cố gắng giải thích nó.
 

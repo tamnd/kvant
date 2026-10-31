@@ -36,7 +36,7 @@ F2614. Các bình hình khối chứa đầy nước biển và nhiệt độ ba
 
 Lời giải bài toán M2594–M2597, F2601–F2604
 
-Hình 3
+Cơm. 3
 
 F2615. Một vôn kế được nối với một cục pin lý tưởng thông qua một điện trở thay đổi. Nó hiển thị điện áp U = 3V. Khi điện trở của biến trở giảm đi 3 lần thì vôn kế chỉ ra điện áp 2U = 6V. Vôn kế sẽ chỉ gì nếu điện trở của điện trở tăng gấp đôi?
 
@@ -44,7 +44,7 @@ F2616. Học sinh đã tạo ra một hệ thống liên lạc qua điện tho�
 
 ⟦figure⟧
 
-Hình 4
+Cơm. 4
 
 sợi đã qua sử dụng số 20. Số lượng sợi (sợi) được xác định bằng số cuộn sợi có trong 1 kg sợi này với chiều dài sợi trong mỗi cuộn là 1000 m. Chiều dài đường dây điện thoại là L = 100 m. Lực căng của sợi dây là F = 10 N. Đường dây điện thoại đó hoạt động với độ trễ bao nhiêu trong thời gian truyền âm?
 
@@ -60,7 +60,7 @@ Cánh cửa mở ra, Busenka và con gián Kuzka bước vào quán bar. “Tôi
 
 ⟦figure⟧
 
-Hình 1
+Cơm. 1
 
 rất tuyệt. Nhìn này, tôi đã chụp một bức ảnh. Đây được gọi là cycloid (Hình 1)! “Ồ, thật là một câu thoại hay,” Ogryza kêu lên, “thật tiếc là bạn đã không cho tôi xem sớm hơn.” Giá như tôi có một tấm nệm sọc cycloidal thì tốt. “Có vẻ như ai đó đã phát điên,” Kuzka nói. “Mọi thứ đều ổn,” chim gõ kiến ​​Spyatel giải thích. “Ogryza vừa nói với tôi rằng cô ấy sẽ làm một tấm nệm và lấp đầy mùn cưa vào đó.” Cô ấy đã khâu bìa rồi nhưng lại không có mùn cưa nào cả. – Bạn có cần nhiều mùn cưa không? – Busenka hỏi. Ogryza nói: “Tôi nghĩ 10 kg là đủ. – Mùn cưa không có bán thì chúng tôi tự chặt! – Chim gõ kiến ​​Spyatel đột nhiên đứng dậy. – Bạn có tình cờ có thêm một tủ quần áo không? “Tôi sẽ không,” Ogryza nói.
 
@@ -74,7 +74,7 @@ TOÁN HỌC
 
 ⟦figure⟧
 
-Hình 2
+Cơm. 2
 
 Có một cycloid trên tường. Chiều rộng của vòm cycloid (khoảng cách KL) bằng chu vi, tức là 2 Sr. Và điểm cao nhất của cycloid đạt được tại thời điểm bánh xe di chuyển đến khoảng cách $S^{r}$. Hãy xem xét thời điểm bánh xe di chuyển được một đoạn, đạt đến điểm X và nan hoa mà Kuzka đang giữ đã chuyển sang góc M (Hình 3). Trong trường hợp này, chiều dài cung $KX равна^{rM}$ – và nó cũng bằng khoảng cách, đó là Hình 3 bầy đàn đã vượt qua bánh xe, tức là $OX^{r} M$. Vẽ một đường ngang đi qua điểm K, để nó cắt đường tròn lần thứ hai tại điểm K c. Hãy xếp ai vào $точку^{K} c...$? Chúng ta cần thêm một tình nguyện viên nữa. Ai muốn đi một chuyến? “Tôi đề nghị đặt Akzyuk, bạn của Kuzka vào thời điểm này,” chim gõ kiến ​​Spyatel nói. – Akzyuk là loại gì vậy?! – Kuzka không hiểu. – Tôi không biết Akzyuk nào cả! “Tất nhiên,” Busenka kêu lên, “tôi có thể tự mình đoán được.” Akzyuk nakarat! Vì vậy, tại điểm K, Kuzka đang ngồi trên vành xe, và tại điểm K c, Akzyuk đang ngồi trên nửa còn lại của vành xe. - Tại sao anh ấy lại ngồi? - Ogryza can thiệp. - Đây là Kuzka đang ngồi. Và Akzyuk, để luôn ở một điểm đối xứng với Kuzka, sẽ phải chạy trên một bánh xe quay! “Chà, hãy để anh ấy chạy,” Busenka đồng ý, “anh ấy chỉ là tưởng tượng với chúng tôi.” Dù vậy, Kuzka cùng với điểm K mô tả một đường cycloid và điểm K c chuyển động cùng với điểm K, do đó Akzyuk cũng mô tả một đường thẳng nhất định. “Tôi nghĩ tôi đã nhìn thấy dòng này ở đâu đó,” Kuzka nói một cách không chắc chắn.
 
@@ -86,6 +86,6 @@ Có một cycloid trên tường. Chiều rộng của vòm cycloid (khoảng c�
 
 ⟦figure⟧
 
-Hình 4
+Cơm. 4
 
 Ogryza nói: “Mọi thứ đều rõ ràng với một hình chữ nhật, diện tích của nó là $2 S^{r} 2$.” Làm thế nào để tìm diện tích của cánh hoa? – Để làm được điều này, chúng ta sẽ sử dụng phép thuật thời trung cổ thực sự! Để tôi nhắc bạn rằng tại điểm K trên vành bánh xe có Kuzka, và tại điểm K c ở phần bên kia của vành bánh xe có Akzyuk. Khi bánh xe quay, điểm K tăng lên cao hơn và đoạn thẳng KK c cũng di chuyển lên trên. Cánh hoa giữa các cycloid bao gồm tất cả các đoạn có thể có KK c, được xây dựng cho tất cả các vị trí của điểm K trên nhánh đi lên của cycloid. Chà, hãy vẽ một bánh xe đứng yên ở đâu đó sang một bên và cẩn thận di chuyển tất cả các đoạn KK c theo chiều ngang sao cho các đầu của chúng nằm

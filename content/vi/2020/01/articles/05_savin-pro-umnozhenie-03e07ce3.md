@@ -48,7 +48,7 @@ và ghi kết quả vào một cột như trong Hình 1. Nếu tại một thờ
 
 ⟦figure⟧
 
-Hình 3
+Cơm. 3
 
 Nhưng phương pháp này hóa ra lại hoàn toàn chính xác! Trước khi đọc tiếp, hãy thử nhân nhiều cặp số theo cách này để cảm thấy thoải mái và tin tưởng hơn vào tính đúng đắn của nó. Bạn đã đếm chưa? Bây giờ tôi sẽ chứng minh rằng đây thực sự là một phương pháp nhân luôn cho kết quả đúng. Trong hai số trước của tạp chí của chúng tôi, các bài báo của I. Yaglom “Hệ thống số” và “Hai trò chơi với các trận đấu” đã được xuất bản, trong đó các câu chuyện chi tiết -
 
@@ -68,16 +68,16 @@ nước: có lẽ sẽ rất tốn kém nếu lấy giấy và bút để tính 
 
 ⟦figure⟧
 
-Hình 8
+Cơm. 8
 
 ⟦figure⟧
 
-Hình 7
+Cơm. 7
 
 Nó thực sự rất cổ xưa - hơn hai nghìn năm trước, người Pythagore đã nhân các con số với sự trợ giúp của nó. (Gần đây, nhà toán học Tashkent A. Azamov đã nhận thấy tính chất kỳ lạ của nó: nếu bốn số của bảng này nằm ở các đỉnh của một hình vuông, tâm của nó cũng là một số trong bảng Pythagore, thì số ở tâm hình vuông bằng trung bình số học của các số ở các đỉnh của nó. Vì vậy, đối với các số được tô sáng trong Hình 7, chúng ta có: 42 = ( 25 + 48 + 63 + 32 ) 4.) Trải qua hàng nghìn năm phát triển của toán học, nhiều cách nhân số đã được phát minh ra. Nhà toán học người Ý cuối thế kỷ 15 và đầu thế kỷ 16, Luca Pacioli, trong chuyên luận về số học, đã đưa ra 8 phương pháp nhân khác nhau. Theo tôi, đây là hai trong số đó thú vị nhất. Trong số đầu tiên, được gọi là "lâu đài nhỏ" (Hình 8), các chữ số của số trên, bắt đầu từ số cao nhất, lần lượt được nhân với số dưới và viết vào một cột với số 0 cần thiết được thêm vào, sau đó kết quả được cộng lại. Ưu điểm của phương pháp này so với phương pháp thông thường là các chữ số của các chữ số quan trọng nhất được xác định ngay từ đầu và điều này có thể quan trọng đối với các phép tính sơ bộ. Phương pháp thứ hai có một cái tên lãng mạn không kém: “ghen” (hay “nhân lưới”). Một mạng được vẽ vào đó các kết quả của các phép tính trung gian được nhập vào (trên thực tế, các số được yêu cầu từ bảng nhân). Mạng này là một hình chữ nhật được chia thành các ô vuông, mỗi ô được chia bằng một đường chéo (Hình 9). “Một mạng lưới như vậy trên-
 
 ⟦figure⟧
 
-Hình 9
+Cơm. 9
 
 Luca Pacioli viết. Chúng ta hãy nhân các số 567 và 3984 theo cách này. Chúng ta viết một thừa số ở đầu bảng và một thừa số khác ở bên trái. Sau đó, trong

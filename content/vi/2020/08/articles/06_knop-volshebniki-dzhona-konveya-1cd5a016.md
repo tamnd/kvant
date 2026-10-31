@@ -52,7 +52,7 @@ Chẳng lẽ phù thủy A chỉ có một đứa con? Hiển nhiên là không:
 
 ⟦figure⟧
 
-Hình 1
+Cơm. 1
 
 Trong trường hợp này, bạn có thể tự tìm ra các số (trong phiên bản hình học, các cạnh của hình chữ nhật) ngay cả khi chúng không phải là số nguyên, nhưng để làm được điều này, bạn cần có khả năng giải phương trình bậc hai. Trong trường hợp của chúng tôi, chúng tôi có thể thực hiện bằng một tìm kiếm đơn giản: tìm tất cả các cặp số có tổng cho trước, bắt đầu bằng cặp 1 và b 1, sau đó “gộp” các số lại với nhau - tích của chúng sẽ tăng lên. Tại thời điểm tích bằng a, các số cần tìm sẽ được tìm thấy. Vì thế, ngay cả đối với hai đứa con, A cũng không thể nói “Không”. Vì vậy, khi liệt kê có thể loại bỏ tất cả các phương án có một và hai con.
 

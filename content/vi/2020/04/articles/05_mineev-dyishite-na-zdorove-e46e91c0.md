@@ -82,7 +82,7 @@ THUỘC VẬT CHẤT
 
 ⟦figure⟧
 
-Hình 3. Khoảng cách hẹp (“điểm nguy hiểm”). Để bơi qua khe hở phải tháo thiết bị lặn nên mỗi em được hai thợ lặn cứu
+Cơm. 3. Khoảng cách hẹp (“điểm nguy hiểm”). Để bơi qua khe hở phải tháo thiết bị lặn nên mỗi em được hai thợ lặn cứu
 
 Những khó khăn khi bơi qua khe hở được thể hiện trên Hình 3. Lực lượng cứu hộ phải liên tục bơm nước ra khỏi hang. Vì vậy, trong đó có rất đông nhân viên cứu hộ, giúp bơm nước ra và chuẩn bị cho bọn trẻ rời đi. Trong tình huống này, tất cả các đặc điểm nêu trên về hoạt động của oxy và carbon dioxide trong một thể tích kín đều trở nên quan trọng. Để chống lại tình trạng giảm dần lượng oxy trong hang, việc cung cấp oxy được tổ chức bằng một đường ống đặc biệt. Người ta quyết định rằng sự tích tụ carbon dioxide trong hang động gây ra mối nguy hiểm lớn hơn đáng kể so với việc thiếu oxy. Bằng cách bơm oxy qua đường ống vào phần trên của hang động, carbon dioxide đã được dịch chuyển. Sự phân tầng của không khí thành các phần cũng đã được tính đến - $CO_{2}$ tích lũy ở phần dưới của hang động. Đó là lý do bọn trẻ và huấn luyện viên biến mất ở phần trên của nó. Việc tìm kiếm các chàng trai và công việc chuẩn bị mất gần hai tuần. Trong thời gian này, nhà phát minh và tổ chức nghiên cứu nổi tiếng Elon Musk (tàu vũ trụ, ô tô điện) đã chế tạo được một chiếc tàu ngầm thu nhỏ cho một người từ các phụ tùng thay thế cho tên lửa và chuyển nó đến Thái Lan. Nhưng do khoảng cách quá hẹp nên họ từ chối sử dụng. Càng ngày tình hình càng trở nên khó khăn hơn. Sự có mặt liên tục của những người tham gia bơm nước từ hang là cần thiết (nếu không hang sẽ hoàn toàn bị đóng băng).
 
@@ -98,7 +98,7 @@ Một cái nhìn từ bên trong
 
 ⟦figure⟧
 
-Hình 4. Sự phụ thuộc đặc trưng của thời gian nín thở (giây), nhịp tim (nhịp đập mỗi phút) và mức độ suy giảm nguồn cung cấp máu (phần trăm) vào nồng độ carbon dioxide trong máu
+Cơm. 4. Sự phụ thuộc đặc trưng của thời gian nín thở (giây), nhịp tim (nhịp đập mỗi phút) và mức độ suy giảm nguồn cung cấp máu (phần trăm) vào nồng độ carbon dioxide trong máu
 
 ⟦folio 36⟧
 
@@ -118,7 +118,7 @@ Trong phổi, oxy và carbon dioxide được trao đổi giữa phế nang và 
 
 ⟦figure⟧
 
-Hình 5. Hình ảnh phế nang vướng vào mao mạch. Trình bày cách oxy đi vào hồng cầu và cách carbon dioxide rời khỏi hồng cầu.
+Cơm. 5. Hình ảnh phế nang vướng vào mao mạch. Trình bày cách oxy đi vào hồng cầu và cách carbon dioxide rời khỏi hồng cầu.
 
 Hãy nhớ nghịch lý nổi tiếng: cái nào có trước - con gà hay quả trứng? Sẽ không thể giải quyết được nếu chúng ta không tính đến quá trình tiến hóa và hình thành loài mới. Nhưng nếu bạn thu hút thì quả trứng sẽ được ưu tiên hơn, nó già hơn. Vì vậy, khủng long cũng đẻ trứng và chim xuất thân từ một trong những nhánh của khủng long. Hóa ra quả trứng già hơn con chim và theo nghĩa tiến hóa này là chính... Trong trường hợp của chúng tôi, vấn đề lựa chọn - là vấn đề chính (nói cách khác, yếu tố kích hoạt các quá trình trong cơ thể con người): oxy hoặc carbon dioxide - được giải quyết như sau. Trước đây, oxy được coi là chính - xét cho cùng, nó là nguồn năng lượng chính, tạo động lực cho mọi quá trình trong cơ thể. Nhưng bây giờ con lắc lựa chọn đã chuyển sang carbon dioxide. Họ dần dần đi đến kết luận rằng cơ chế kích hoạt chính là sự tích tụ carbon dioxide trong cơ thể. Sự tích tụ $CO_{2}$ trong cơ thể trong quá trình phân hủy chất béo và protein trong tế bào sẽ đưa ra tín hiệu cho não rằng carbon dioxide cần được loại bỏ khỏi tế bào - nó “nằm” trên các tế bào hồng cầu và di chuyển đến các phế nang của phổi. $O_{2}$ “ngồi” trên những chiếc ghế trống trong “đoàn tàu” hồng cầu và lan ra khắp cơ thể. Do đó, quan điểm hiện đại về quá trình hô hấp như sau: đầu tiên, carbon dioxide được thở ra, sau đó hít vào oxy. Đồng thời, cùng với carbon dioxide, lượng oxy dư thừa sẽ được thở ra.
 

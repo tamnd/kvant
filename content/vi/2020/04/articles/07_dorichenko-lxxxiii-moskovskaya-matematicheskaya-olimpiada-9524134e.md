@@ -66,7 +66,7 @@ chiều cao của ghế so với mặt sàn là H = 72cm. Chúng ta có thể gi
 
 ⟦figure⟧
 
-Hình 6
+Cơm. 6
 
 2. Điện trở bắt đầu nóng chảy (10 điểm) Khi dòng điện chạy qua điện trở quấn dây, nó nóng lên và nhiệt độ của nó thay đổi phi tuyến tùy thuộc vào dòng điện chạy qua. Ở dòng điện thấp, đối với các điện trở thông thường ở mức 10 mA, nhiệt độ của điện trở T thực tế không thể phân biệt được với nhiệt độ môi trường $T_{0}$. Khi dòng điện tăng đến một giá trị giới hạn nhất định $I_{max}$, điện trở rất nhanh (gần như ngay lập tức) nóng lên đến nhiệt độ rất cao và tan chảy (cháy hết). Đặt điện trở của một điện trở nhất định ở nhiệt độ phòng và dòng điện 1 mA bằng 10 Ohms. Được biết, giá trị dòng điện giới hạn của điện trở này là $I_{max} = 1,35$ A. Tìm điện trở của điện trở và hiệu điện thế trên nó khi có dòng điện $0,8I_{max}$. Chúng ta có thể giả sử rằng điện trở của điện trở phụ thuộc tuyến tính vào nhiệt độ: $R ( T ) = R_{0} ( 1 + \alpha ( T - T_{0} ) )$, trong đó $R_{0}$ là điện trở của điện trở ở nhiệt độ $T_{0}, \alpha$ là một hệ số chưa biết. Công suất truyền nhiệt tỷ lệ thuận với chênh lệch nhiệt độ giữa điện trở và môi trường. Việc thay đổi điện trở của điện trở không ảnh hưởng đến cường độ dòng điện trong mạch. P. Kryukov
 
@@ -84,11 +84,11 @@ lớp 10
 
 ⟦figure⟧
 
-Hình 12
+Cơm. 12
 
 ⟦figure⟧
 
-Hình 13
+Cơm. 13
 
 thay đổi nhiệt độ $\Delta T$ so với giá trị cài đặt $T_{0}$. Mạch đo như hình 13, nhiệt điện trở được ký hiệu là $R_{t}$. Điện trở của biến trở $R_{1}$ có thể thay đổi trong khoảng từ 0 đến 900 Ohms. Các thiết bị đầu cuối được kết nối với nguồn điện áp lý tưởng $U_{0} = 6$ V. Trước khi bắt đầu đo độ lệch $\Delta T$ so với nhiệt độ $T_{0}$, đồng hồ đo được hiệu chỉnh bằng cách chọn điện trở của điện trở $R_{1}$ sao cho mili vôn kế lý tưởng hiển thị bằng 0. Sau đó, khi nhiệt độ thay đổi $\Delta T$, điện trở của nhiệt điện trở thay đổi, milivolt kế hiển thị điện áp U. 1) Đối với $T_{0} = 50 ^\circ C$, hãy xác định sự phụ thuộc $U ( \Delta T )$, coi sự thay đổi điện trở của nhiệt điện trở là nhỏ. Trong phạm vi nhiệt độ nào (cao hay thấp), máy đo có sai số đo tương đối nhỏ hơn? (7 điểm)
 

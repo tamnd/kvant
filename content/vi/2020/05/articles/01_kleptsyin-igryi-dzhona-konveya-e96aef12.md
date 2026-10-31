@@ -35,7 +35,7 @@ Trò chơi cuộc sống
 
 Có lẽ khám phá được biết đến rộng rãi nhất của Conway là phát minh ra Trò chơi cuộc sống. Nó hoạt động như thế này: trên giấy ca rô (vô tận), một số ô được khai báo là "sống" (hoặc "được lấp đầy" và chúng thường được sơn đè lên) và phần còn lại là "chết" (hoặc "trống"). Sau đó, cấu hình của chúng bắt đầu (tất cả cùng một lúc!) phát triển theo những quy tắc cực kỳ đơn giản sau: 1. Nếu một tế bào sống tại một thời điểm nào đó có 2 hoặc 3 tế bào sống trong số 8 tế bào lân cận, thì ở lượt tiếp theo, nó sẽ sống sót, nếu không thì nó sẽ chết (người ta thường nói rằng nếu có 1 hoặc 0 tế bào lân cận còn sống thì nó sẽ chết “vì cô đơn”, và nếu nhiều hơn 3 tế bào thì “do quá đông đúc”). 2. Nếu một ô trống có đúng 3 ô lân cận còn sống, thì ở lần di chuyển tiếp theo, sự sống sẽ được sinh ra trong đó (nếu không ô đó vẫn trống). Vì vậy (Hình 1), hình vuông 2 u 2 (“khối”) đứng yên (mỗi ô của nó có 3 ô lân cận), một dòng gồm 3 ô quay 90 độ quanh tâm trong 1 lần di chuyển (đó là lý do tại sao nó được gọi là “nhấp nháy”)
 
-Hình 1. Khối, đèn hiệu và tổ ong
+Cơm. 1. Khối, đèn hiệu và tổ ong
 
 DOI: https://doi.org/10.4213/kvant20200502
 
@@ -43,7 +43,7 @@ DOI: https://doi.org/10.4213/kvant20200502
 
 ⟦figure⟧
 
-Hình 2. Năm vị trí liên tiếp của tàu lượn bay sang phải và bay xuống
+Cơm. 2. Năm vị trí liên tiếp của tàu lượn bay sang phải và bay xuống
 
 coy" hoặc "semaphore"), và hình chữ nhật 2 u 3 trong một nước đi sẽ trở thành một "tổ ong" (một cấu hình không thay đổi khác). Từ "trò chơi" ở đây không hoàn toàn chính xác, bởi vì tất cả những gì mà "người chơi" ảnh hưởng là sự sắp xếp ban đầu của các ô, mọi thứ xa hơn không phụ thuộc vào anh ta. Nhưng cuộc sống của một "đàn ô" như vậy có thể rất thú vị để quan sát. Tàu lượn (hoặc tàu lượn), như trong Hình 2, là một cấu hình di chuyển sang phải và xuống với tốc độ không đổi một góc 45 độ Và một cấu hình năm tế bào trông có vẻ ngây thơ khác, r-pentamino (Hình 3), đã phát triển qua 1.103 thế hệ. Nhìn vào r-pentamino, Conway hỏi một câu hỏi thú vị sau: có những cấu hình tăng trưởng vô hạn không? lời giải câu hỏi này - được nhận bởi Bill Gosper, người đã phát hiện ra súng lượn, một cấu hình liên tục “bắn” tàu lượn. Việc tạo ra súng lượn sau một thời gian đã giúp chứng minh rằng Trò chơi cuộc sống đã hoàn tất: bất kỳ chương trình nào có thể chạy trên bất kỳ máy tính nào đều có thể được “mô phỏng” bằng
 
@@ -73,7 +73,7 @@ A 2 B, trong đó A và B là số nguyên. И если бы 2
 
 ⟦figure⟧
 
-Hình 10. Chứng minh của Tannenbaum về tính vô tỉ 2 và phép sửa đổi Conway cho 3
+Cơm. 10. Chứng minh của Tannenbaum về tính vô tỉ 2 và phép sửa đổi Conway cho 3
 
 1 Có bằng chứng tương tự cho
 

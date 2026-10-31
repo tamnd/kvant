@@ -96,7 +96,7 @@ NHÂN VIÊN VẤN ĐỀ
 
 ⟦figure⟧
 
-Hình 2
+Cơm. 2
 
 "QUANTA"
 
@@ -108,13 +108,13 @@ Nếu bánh xe đứng yên thì tốc độ tuyến tính của điểm của b
 
 ⟦figure⟧
 
-Hình 3
+Cơm. 3
 
 như trên Hình 3. Hãy theo dõi chuyển động quay của điểm A của bánh chẵn (bánh xe thứ sáu) và điểm B của bánh lẻ (bánh xe thứ năm). Để một khoảng thời gian nhỏ không trôi qua sau thời điểm đang xét. Khi đó đòn bẩy quay một góc M Z theo chiều kim đồng hồ. Các bánh xe cũng sẽ quay cùng một góc so với cần số (xét cho cùng, các bánh xe có vận tốc góc Z so với cần số): bánh chẵn quay theo chiều kim đồng hồ, bánh lẻ quay ngược chiều kim đồng hồ. Trong hình 4
 
 ⟦figure⟧
 
-Hình 4
+Cơm. 4
 
 Vị trí của đòn bẩy và bánh xe tại thời điểm này được hiển thị và các góc quay của đòn bẩy và bánh xe được mô tả dưới dạng vòng cung. Từ hình này chúng ta kết luận rằng bánh xe chẵn sẽ quay so với vị trí ban đầu của nó một góc 2'M theo chiều kim đồng hồ, và bánh xe lẻ sẽ không quay chút nào. Điều này có nghĩa là vận tốc góc của bánh xe chẵn và đòn bẩy cộng lại và cho vận tốc góc gấp đôi, còn vận tốc góc của bánh xe lẻ và đòn bẩy bị trừ đi. Do đó, khi cần quay theo chiều kim đồng hồ (với điều kiện bánh xe thứ nhất cố định), tất cả các bánh xe chẵn, và do đó là bánh xe thứ sáu, sẽ quay quanh trục của chúng theo chiều kim đồng hồ với vận tốc góc 2Z, trong khi các bánh xe lẻ sẽ không quay quanh trục của chúng. Cũng có thể thực hiện được lời giải khác – mà không cần chuyển sang hệ thống tham chiếu được liên kết với đòn bẩy. Vì bánh xe thứ nhất là
 
@@ -168,7 +168,7 @@ F2608. Xét mô hình truyền chuyển động quay giữa hai trục song song
 
 Do có lực ma sát, nón dẫn động sẽ tăng tốc nón bị dẫn đến một vận tốc góc nhất định và ở chế độ quay đứng yên vận tốc góc của cả hai nón sẽ không giống nhau.
 
-Hình 1
+Cơm. 1
 
 "QUANTA"
 
@@ -176,4 +176,4 @@ Hình 1
 
 làm phiền. Nhưng vì vận tốc tuyến tính của các điểm khác nhau trên bề mặt của mỗi hình nón là khác nhau nên có sự trượt giữa các điểm của các hình nón chạm vào nhau và lực ma sát trượt phải tác dụng. Thật vậy, các điểm của hình nón dẫn động, nằm xa trục của nó hơn, có vận tốc tuyến tính cao hơn và phải ở phía trước các điểm của hình nón dẫn động mà chúng tiếp xúc. Và các điểm của hình nón dẫn động, nằm gần trục của nó hơn, có vận tốc tuyến tính thấp hơn và sẽ tụt hậu so với các điểm của hình nón dẫn động mà chúng tiếp xúc. Điều này có nghĩa là tại các điểm khác nhau trên bề mặt của mỗi hình nón, lực ma sát tác dụng khác nhau. Nón dẫn động chịu tác dụng của lực ma sát phanh từ nón bị dẫn tại các điểm phía trước các điểm bị dẫn và lực ma sát tăng tốc tại các điểm chậm hơn các điểm bị dẫn. Tuy nhiên, tổng lực ma sát tác dụng lên hình nón dẫn động phải là lực hãm, vì nó quay đều khi có mômen ngoại lực tác dụng lên nó. Từ điều kiện bằng nhau về mômen của các ngoại lực và mô men của tổng lực ma sát, người ta có thể tìm được các điểm của hình nón có cùng vận tốc tuyến tính (tiết diện có vận tốc bằng nhau). Vì vậy, đặt phần có vận tốc bằng nhau cách đỉnh của hình nón một khoảng $h_{0}$ (thể hiện bằng đường chấm trên Hình 2), phản lực pháp tuyến tác dụng giữa các hình nón bằng N. Xét một lớp mỏng của hình nón đầu có độ dày ' x, nằm cách một khoảng x từ
 
-Hình 2
+Cơm. 2

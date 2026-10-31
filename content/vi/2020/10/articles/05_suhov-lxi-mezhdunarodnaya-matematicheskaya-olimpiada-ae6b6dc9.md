@@ -56,7 +56,7 @@ phong cách được mở trong một thời gian rất ngắn và đóng lại 
 
 ⟦figure⟧
 
-Hình 5
+Cơm. 5
 
 Ở trạng thái yên, đầu tự do của lò xo đặt tại điểm A cùng độ cao với điểm B và tâm của vòng O. Một vòng đệm lớn cũng được đặt trên vòng, gắn nó vào đầu tự do của lò xo (tại điểm A). Tìm khối lượng của vòng đệm m nếu biết vị trí cân bằng của nó có chiều cao R2 thấp hơn đoạn thẳng AB. Gia tốc trọng trường g, bán kính vòng R, độ cứng lò xo k. Bỏ qua ma sát giữa vòng và vòng đệm, vòng và lò xo. 3. Trên mặt phẳng nằm ngang có một cơ thể đồ sộ và gắn hai khẩu súng máy dành cho trẻ em - ở bên trái và bên phải cơ thể (Hình 6). Nòng súng máy được định hướng theo chiều ngang và hướng vuông góc với bề mặt thân súng. Đường thẳng đi qua tâm súng máy cũng vuông góc với bề mặt thân súng. Súng máy bắt đầu bắn đồng loạt. Được biết, khoảng cách $временны_{ѣ}$ giữa lúc phóng đạn của mỗi khẩu súng máy là nhỏ và cố định. Người ta còn biết, súng máy bên trái có tốc độ phóng đạn cao gấp 2 lần so với súng bên phải nhưng khối lượng đạn ít hơn 1,5 lần và khoảng thời gian giữa các viên đạn lớn hơn 30% so với súng máy bên phải. Đường nào?
 
@@ -64,7 +64,7 @@ lớp 11
 
 1. Hai bình chứa khí lý tưởng được nối với nhau bằng một ống mỏng có van. Trong bình thứ nhất có thể tích $V_{1}$ thì áp suất là $p_{1}$, và trong bình thứ hai có thể tích $V_{2}$ thì áp suất là $p_{2}$. Ven-
 
-Hình 6
+Cơm. 6
 
 ⟦folio 48⟧
 
@@ -74,13 +74,13 @@ cơ thể sẽ bắt đầu di chuyển? Bỏ qua ma sát giữa vật và mặt
 
 ⟦figure⟧
 
-Hình 7
+Cơm. 7
 
 ⟦column⟧
 
 ⟦figure⟧
 
-Hình 8
+Cơm. 8
 
 Hạt thứ nhất có khối lượng gấp 2 lần hạt thứ nhất, hạt thứ ba có khối lượng gấp 3 lần hạt thứ nhất. Các hạt có khoảng cách bằng nhau và có thể di chuyển tự do dọc theo kim mà không bị ma sát. Các hạt có điện tích cùng tên lần lượt là $q_{1}, q_{2}$ và $q_{3}$. Các hạt được giải phóng và chúng bắt đầu bay ra sao cho hạt thứ hai luôn nằm chính giữa hạt thứ nhất và hạt thứ ba. Tìm điện tích $q_{1}$ nếu biết điện tích $q_{2}$ và $q_{3}$.
 
@@ -94,7 +94,7 @@ lớp 8
 
 ⟦figure⟧
 
-Hình 9
+Cơm. 9
 
 nước, nếu dòng nước chảy từ vòi không đổi. Bỏ qua nhiệt dung của bể và trao đổi nhiệt với môi trường.
 
@@ -116,23 +116,23 @@ Sử dụng thiết bị định vị, họ xác định được khoảng cách
 
 ⟦figure⟧
 
-Hình 10
+Cơm. 10
 
 đo giữa cực A và B là $R_{0} 1919$ Ohm. Sau khi một bóng đèn trong vòng hoa bị cháy, điện trở trở thành R 1920 Ohms. Xác định tổng số bóng đèn trong vòng hoa, nếu bạn biết rằng số lượng của chúng chắc chắn lớn hơn 1938 và nhỏ hơn 3838. Điện trở của các bóng đèn là như nhau; bỏ qua điện trở của dây. 4. Một con ếch nhỏ đang nhảy xuống cầu thang có các bậc giống hệt nhau (Hình 11).
 
 ⟦figure⟧
 
-Hình 12
+Cơm. 12
 
 Bình thứ 1, thứ 2 và thứ 3 lần lượt là $p_{1}, p_{2}$ và $p_{3}$. Van giữa bình 1 và bình 2 được mở và đóng sau khi đạt trạng thái cân bằng. Sau đó mở van giữa bình 2 và bình 3. Tìm áp suất $p_{3} c$ ở bình thứ 3 sau khi cân bằng. Nhiệt độ được duy trì không đổi. 3. Ba hình lập phương giống hệt nhau đứng trên một mặt phẳng nằm ngang (Hình 13). Hình khối
 
 ⟦figure⟧
 
-Hình 13
+Cơm. 13
 
 ⟦figure⟧
 
-Hình 11
+Cơm. 11
 
 Mỗi lần nó được đẩy ra theo cùng một cách và kết thúc từ giữa bước này đến giữa bước tiếp theo. Cô ấy thực hiện cú nhảy cuối cùng trên một bề mặt phẳng, chiều dài của lần nhảy này là d và độ cao là h. Tìm chiều cao của các bậc thang H nếu chiều dài của các bậc thang là L. Bỏ qua ảnh hưởng của không khí.
 
@@ -148,11 +148,11 @@ BÀI KIỂM TRA
 
 ⟦figure⟧
 
-Hình 28
+Cơm. 28
 
 ⟦figure⟧
 
-Hình 29
+Cơm. 29
 
 4. Một vòng có khối lượng M, tích điện đều dọc theo chu vi với điện tích Q, lăn dọc theo mặt phẳng nằm ngang (Hình 29). Tại một thời điểm nào đó, một từ trường có cảm ứng B được đặt vuông góc với mặt phẳng của vòng. Lực ép của vòng lên mặt phẳng tăng gấp 3 lần. Tìm tốc độ của vòng. Gia tốc trọng trường g. 5. Ước tính chu kỳ dao động dư của xăng trong thùng chứa đầy một nửa do phanh. Giả sử rằng bạn hiểu rõ về hiện tượng này, bạn có thể đặt các đại lượng còn thiếu trong điều kiện bài toán, chọn các giá trị số của chúng và thu được kết quả bằng số. 6. Bài toán-trình diễn (một video được hiển thị). Bên trong một hộp thiếc thông thường có một thiết bị nhỏ được gắn vào giữa nắp, bao gồm một động cơ và một ngăn chứa pin cung cấp năng lượng cho hộp thiếc (Hình 30). Khi bật, động cơ sẽ quay ngăn chứa pin theo hình tròn. Đóng chặt lọ bằng nắp
 
@@ -162,6 +162,6 @@ NGUYÊN VẬT LIỆU
 
 ⟦figure⟧
 
-Hình 30
+Cơm. 30
 
 với động cơ được bật và đặt ở bên cạnh. Nó bắt đầu di chuyển và di chuyển dọc theo bàn ngang. Nếu một chướng ngại vật nhỏ được đặt trên đường đi của cô ấy, cô ấy sẽ vượt qua nó, đôi khi trong lần thử đầu tiên, và đôi khi, khi va phải chướng ngại vật, cô ấy sẽ lùi lại và vượt qua chướng ngại vật sau nhiều lần thử. Giải thích hiện tượng quan sát được. Ấn phẩm được biên soạn bởi V. Borovkov, E. Zhdanov, A. Kipriyanov, S. Lezhnin, M. Makhmudian, A. Nenashev, E. Palchikov, A. Pogosov, D. Pokhabov, G. Fedotovich

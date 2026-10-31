@@ -38,15 +38,15 @@ Bài toán 1. Hai cửa Hai cửa ban công có chiều rộng $a_{1}$ và $a_{2
 
 ⟦figure⟧
 
-Hình 1
+Cơm. 1
 
 ⟦figure⟧
 
-Hình 2
+Cơm. 2
 
 ⟦figure⟧
 
-Hình 3
+Cơm. 3
 
 Ghi chú. Chạm vào bức tường đối diện, cánh cửa dừng lại. Biểu đồ được xây dựng mà không quan sát tỷ lệ, $l_{0} = 1,8$ m, $t_{1} = 6$ s, $t_{2} = 15$ s, $t_{0} = 30$ s. A. Kuznetsova Bài toán 2. Alice trong quán cà phê kỳ diệu Vào ngày nghỉ, Alice và những người bạn của cô đến quán cà phê Shokoladnitsa. Họ bước đi với tốc độ không đổi. Đến quán cà phê, Alice vẽ tốc độ trung bình của mình theo thời gian, bao gồm cả thời gian cô uống cà phê (Hình 4). Trước khi rời đi, Alice quyết định làm hài lòng những người theo dõi Instagram của mình bằng một ấn phẩm mới. Kéo-
 
@@ -54,7 +54,7 @@ Ghi chú. Chạm vào bức tường đối diện, cánh cửa dừng lại. Bi
 
 ⟦figure⟧
 
-Hình 4
+Cơm. 4
 
 Khi nhấc máy, cô gái vô tình làm đổ phần cà phê còn sót lại lên biểu đồ. Xác định: 1) Alice đã uống cà phê ở quán cà phê trong bao lâu; 2) Vận tốc trên đồ thị có đơn vị đo nào nếu đường đi đến quán cà phê là s = ​​1,6 km. A.Uymin Bài toán 3. Chất lỏng trong cơ thể Dionysius tìm thấy 5 thi thể có bề ngoài giống hệt nhau trong phòng thí nghiệm của ông nội mình. Cậu bé tính toán mật độ trung bình của mỗi người trong số họ. Hóa ra họ khác nhau. Ghi chú đi kèm với các thi thể đề cập rằng chúng có các khoang giống hệt nhau, chứa đầy một phần chất lỏng. Khối lượng m của chất lỏng được viết trên mỗi vật. Nó cũng dẫn đến lưu ý rằng một trong các vật thể có kích thước khác nhau của khoang (khiếm khuyết). Kết quả đo khối lượng riêng và khối lượng trung bình của chất lỏng đổ vào được cho trong bảng:
 
@@ -74,9 +74,9 @@ HƯỚNG DẪN
 
 ⟦figure⟧
 
-Hình 4
+Cơm. 4
 
-Hình 5
+Cơm. 5
 
 (
 

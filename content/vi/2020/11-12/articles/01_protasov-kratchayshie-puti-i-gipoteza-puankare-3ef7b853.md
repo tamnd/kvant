@@ -41,7 +41,7 @@ DOI: https://doi.org/10.4213/kvant20201102
 
 địa hình. Sau đó, trắc địa bắt đầu được sử dụng để xây dựng hình học bên trong của một bề mặt tùy ý, trong đó khoảng cách ngắn nhất dọc theo bề mặt là khoảng cách giữa các điểm. Tuy nhiên, cần phân biệt đường trắc địa với đường ngắn nhất! "trắc địa" là gì? Đường trắc địa trên một bề mặt là đường ngắn nhất cục bộ tại mỗi điểm của nó. Điều này có nghĩa là với bất kỳ điểm M nào nằm trên một đường thẳng, điều sau đây đúng: bất kỳ điểm A và B nào nằm trên đường thẳng đó đủ gần với M, thì cung trắc địa AB là đường đi ngắn nhất dọc theo bề mặt giữa A và B. Một nhà toán học sẽ xây dựng tính chất ngắn nhất cục bộ như sau: đối với hai điểm bất kỳ nằm trong lân cận nào đó của điểm M, cung trắc địa là đường đi ngắn nhất dọc theo bề mặt giữa chúng. Lưu ý rằng đường đi ngắn nhất giữa hai điểm bất kỳ là đường trắc địa, nhưng điều ngược lại không phải lúc nào cũng đúng. Đường màu đỏ trong Hình 1 là đường trắc địa, mặc dù đường đi ngắn nhất từ ​​điểm A đến điểm C không đi dọc theo đường này - có một đường ngắn hơn. Nếu không có
 
-Hình 1. Đo đạc – đường ngắn nhất cục bộ
+Cơm. 1. Đo đạc – đường ngắn nhất cục bộ
 
 ⟦folio 11⟧
 
@@ -65,7 +65,7 @@ trong giờ học ở trường. Mọi người đều đã thấy cách họ bu
 
 ⟦figure⟧
 
-Hình 6. Đường trắc địa “thứ tư” trên hình elip
+Cơm. 6. Đường trắc địa “thứ tư” trên hình elip
 
 Định lý 1. Vẽ đường thẳng khép kín ABCD là đường trắc địa trên mặt elip. Bằng chứng. Tại mỗi điểm trong của cung AB đường thẳng đó nằm cục bộ
 
@@ -77,7 +77,7 @@ ngắn nhất. Nếu không, chỉ cần thay đoạn nhỏ của nó bằng đo
 
 ⟦figure⟧
 
-Hình 7
+Cơm. 7
 
 $что^{M} и^{M} c$ biến đổi thành nhau khi quay 180q so với $оси^{AC.}$ Nếu $дуги^{AM} и^{AN}$ bằng nhau thì chỉ cần $обозначим^{M} c^{N}$. Bây giờ, giả sử điều ngược lại: có một đường đi ngắn hơn trên bề mặt của hình elip giữa $точками^{M} и^{N.}$ Bằng cách thêm $дугу^{NM} c$ vào đường dẫn này, chúng ta có được một đường đi ngắn hơn dọc theo bề mặt $между^{M}$ và M c. Điều này có nghĩa là đường đi ngắn nhất $между^{M} и^{M} c$ không trùng với cung của đường thẳng MM c của chúng ta. Hãy rẽ 180q so với $оси^{AC.} Точки^{M}$ và M c sẽ đổi chỗ, và con đường ngắn nhất giữa chúng sẽ biến thành chính nó - xét cho cùng, đó là con đường duy nhất! Chúng ta hãy biểu thị $через^{P}$ phần giữa của con đường ngắn nhất này (khoảng cách được đo dọc theo con đường). Xoay 180° so với $оси^{AC}$ sẽ giữ nguyên điểm này. Nhưng sau đó nó nằm trên trục quay - $прямой^{AC.}$ Và vì nó nằm trên bề mặt của hình elip nên nó trùng với $с^{A,}$ hoặc $с^{C.}$ Cho đến khi $точки^{C}$ quá xa, con đường ngắn nhất sẽ không đi tới đó. $Значит,^{P} A.$ Vậy điểm giữa của đường đi ngắn nhất $из^{M}$ trong M c nằm ở $точке^{A}$ (Hình 7, b). Điều này có nghĩa là đường đi ngắn nhất $из^{A} в^{M}$ đi dọc theo đường thẳng của chúng ta. Nếu không, chúng tôi sẽ đặt nó thay vì $дуги^{AM}$ và do đó giảm độ dài $дуги^{AB,}$, điều này là không thể. Điều này có nghĩa là đường đi ngắn nhất $из^{M}$ trong M c
 
