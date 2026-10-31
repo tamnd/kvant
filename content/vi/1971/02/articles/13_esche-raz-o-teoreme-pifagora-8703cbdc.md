@@ -14,7 +14,7 @@ source: kvant_digital
 extraction: vision
 content_sha256: 2f4dde4c0e2058770b991d0f5b055bc985f5352f91ec502542b988d54caa769d
 prompt_sha256: 3ec6b8aabd9b98576af76503cd8a2902b9f5d18e01ee867dfb1228f59c6d52d8
-translated_from: content/ru/1971/02/articles/12_esche-raz-o-teoreme-pifagora-8703cbdc.md
+translated_from: content/ru/1971/02/articles/13_esche-raz-o-teoreme-pifagora-8703cbdc.md
 source_content_sha256: 46b86fe4e1158bde598006ea010283a70114bfdaa644a109c749c93a68ed1d93
 translation_model: gpt-5.6-terra
 translation_run: vi-codex-2026-10-31

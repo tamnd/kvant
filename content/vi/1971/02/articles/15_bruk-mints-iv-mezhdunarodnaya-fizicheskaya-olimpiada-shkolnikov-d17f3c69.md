@@ -18,7 +18,7 @@ source: kvant_digital
 extraction: vision
 content_sha256: 1c57a7d1ccdbbdfe16fffacba857c1f35157bc5e310a42c392d19dcd67d63364
 prompt_sha256: 3ec6b8aabd9b98576af76503cd8a2902b9f5d18e01ee867dfb1228f59c6d52d8
-translated_from: content/ru/1971/02/articles/14_bruk-mints-iv-mezhdunarodnaya-fizicheskaya-olimpiada-shkolnikov-d17f3c69.md
+translated_from: content/ru/1971/02/articles/15_bruk-mints-iv-mezhdunarodnaya-fizicheskaya-olimpiada-shkolnikov-d17f3c69.md
 source_content_sha256: 7d418169f0fc22de0aa8ba9626f8affbb93ec43390d2b013ee29b83323f704f5
 translation_model: gpt-5.6-terra
 translation_run: vi-codex-2026-10-31

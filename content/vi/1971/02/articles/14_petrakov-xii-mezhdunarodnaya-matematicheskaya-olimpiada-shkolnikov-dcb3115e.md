@@ -17,7 +17,7 @@ source: kvant_digital
 extraction: vision
 content_sha256: 14a47d8ac03dafaf32f2a57f5d44be3604ffc7460b073459a6ec4febdb6ba6fd
 prompt_sha256: 3ec6b8aabd9b98576af76503cd8a2902b9f5d18e01ee867dfb1228f59c6d52d8
-translated_from: content/ru/1971/02/articles/13_petrakov-xii-mezhdunarodnaya-matematicheskaya-olimpiada-shkolnikov-dcb3115e.md
+translated_from: content/ru/1971/02/articles/14_petrakov-xii-mezhdunarodnaya-matematicheskaya-olimpiada-shkolnikov-dcb3115e.md
 source_content_sha256: afa2a8f7e23c1c941cbe68ea55340cb7e8999462372844b6d55c361d66df1687
 translation_model: gpt-5.6-terra
 translation_run: vi-codex-2026-10-31

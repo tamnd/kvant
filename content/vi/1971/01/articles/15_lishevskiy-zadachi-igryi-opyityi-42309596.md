@@ -17,7 +17,7 @@ source: kvant_digital
 extraction: vision
 content_sha256: 4d4d9a4c6e0a4cd32f501a2e23b75e829f8392a7ef27a7f6cc1948ddba3793c3
 prompt_sha256: 3ec6b8aabd9b98576af76503cd8a2902b9f5d18e01ee867dfb1228f59c6d52d8
-translated_from: content/ru/1971/01/articles/14_lishevskiy-zadachi-igryi-opyityi-42309596.md
+translated_from: content/ru/1971/01/articles/15_lishevskiy-zadachi-igryi-opyityi-42309596.md
 source_content_sha256: c94e8d8697c681aed047b6e4a8ec5cdc0dd38268d6af0ceba79faad81636ca58
 translation_model: gpt-5.6-terra
 translation_run: vi-codex-2026-10-31
