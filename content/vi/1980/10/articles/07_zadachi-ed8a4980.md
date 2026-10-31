@@ -1,0 +1,45 @@
+---
+id: 1980-10-zadachi-ed8a4980
+issue: kvant_1980_10
+year: 1980
+number: "10"
+title: Bài toán
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 39
+page_last: 39
+page_labels: "37"
+tag: FT93
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 22881bd8b3698240aab5ebf55e5b184f42ec8a7a2b5bbe20d5bb9c0d34ec4e56
+prompt_sha256: draft-1
+translated_from: content/ru/1980/10/articles/07_zadachi-ed8a4980.md
+source_content_sha256: 01c52e49c38950aa426a57a906a0440701856bfe9b6841d51da14ef9cc05f3d7
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 37⟧
+
+Nhiệm vụ
+
+1. Trong ví dụ về phép nhân này (xem hình), một trong các số được thay thế bằng dấu hoa thị và phần còn lại được thay thế bằng dấu chấm. Biết rằng tổng các chữ số của thừa số có bốn chữ số là 19. Nhắc lại ví dụ.
+
+2. Trong một tam giác vuông ở cạnh huyền $AB$, từ đỉnh $A$, chúng ta vẽ đoạn $AD$, bằng với chân $AC$, và từ đỉnh $B$ - đoạn $BE$, bằng với chân $BC$. Chứng minh rằng độ dài của đoạn $DE$ bằng đường kính của đường tròn nội tiếp tam giác $ABC$.
+
+3. Hãy viết ra một số lũy thừa đầu tiên của bộ ba: $3^1$, $3^2$, $3^3$, ..., $3^8$ (xem hình). Kết quả là các số có chữ số chẵn ở hàng chục. Có đúng là điều này sẽ luôn như vậy không?
+
+4. Tỷ lệ liên kết giữa các mắt đầu lớn hơn tỷ lệ của chúng trong toàn bộ dân số. Có đúng là tỷ lệ mắt đầu của người Bondin lớn hơn tỷ lệ của họ trong toàn bộ dân số không?
+
+5. Hãy ký hiệu bằng $\overline{a \dots bcd}$, $n$
+Một số có $n$ chữ số có $d$ đơn vị, $c$ hàng chục, $b$ hàng trăm và chữ số cao nhất là $a$. Tìm số có ba chữ số $\overline{abc}$ sao cho $(\overline{abc})^a = bc(a-1)bc$
+
+(một số có năm chữ số ở bên phải có $a-1$ ở hàng trăm).
+
+Những nhiệm vụ này đã được cung cấp cho chúng tôi
+F. Bartenev, A. Mayorov,
+I. Mikhalkovich, A. Savin,
+A. Tolpygo

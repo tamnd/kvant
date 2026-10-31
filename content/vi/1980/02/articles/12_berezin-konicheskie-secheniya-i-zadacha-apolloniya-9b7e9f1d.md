@@ -1,0 +1,67 @@
+---
+id: 1980-2-berezin-konicheskie-secheniya-i-zadacha-apolloniya-9b7e9f1d
+issue: kvant_1980_2
+year: 1980
+number: "2"
+title: Conics và bài toán Apollonia
+authors:
+  - Березин В. Н.
+rubric: raznoe
+rubric_sub: Разное
+page_first: 35
+page_last: 35
+page_labels: "33"
+tag: FXA9
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: ddc4aec2abac474ee5ba3cf480852f7fdf031bf33c0054ac25a6881931ac5d7b
+prompt_sha256: draft-1
+translated_from: content/ru/1980/02/articles/12_berezin-konicheskie-secheniya-i-zadacha-apolloniya-9b7e9f1d.md
+source_content_sha256: 0ec348fd4aeb331b82696dd0385410ef2254bf9ba0e1278d7d0295c13b318006
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 33⟧
+
+Phần hữu hạn và bài toán Apollonia
+
+Trong lịch sử khoa học, tên của nhà hình học và nhà thiên văn học người Hy Lạp Apollonius xứ Perga trong nhiều thế kỷ gần như được đặt ngang hàng với tên của Archimedes.
+
+Khi nhà đại số F. Viet, sống ở thế kỷ 16, tìm thấy lời giải bài toán Apollonius của mình, ông đã vui mừng mở nó ra: “Tôi là Apollonius xứ Gali!” (tức là tiếng Pháp). Giới thiệu về bài toán Apollonius từ bản thảo “Khi chạm vào” đã được phê duyệt, chỉ quen thuộc với chúng ta qua nhận xét của những người cùng thời với ông, đã được mô tả trong «Kvant» (1971, số 8). Dưới đây là các điều kiện của nó: xây dựng một vòng tròn tiếp xúc với chủ đề của các vòng tròn khác nằm ngẫu nhiên trên mặt phẳng.
+
+Apollonius còn đưa vào lý thuyết phần hữu hạn rất nhiều điều mới. Chúng tôi đề cử rằng các phần cuối được định nghĩa là các đường biểu diễn các phần trên mặt phẳng của bề mặt hình nón. Ảnh hưởng của những đường này - hình elip, hyperbola và parabol - là do ông phát minh ra («Kvant», 1975, số 1, 3, 4).
+
+Tuy nhiên, hiện nay các định nghĩa khác về những dòng này đã phổ biến hơn. Hình elip là tập hợp các điểm của mặt phẳng P nằm cách các tiêu điểm F1 ∈ P và F2 ∈ P một khoảng r1 và r2 sao cho |r2−r1| = 2a. Cuối cùng, một parabol là một tập hợp các điểm trong mặt phẳng P nằm cách tiêu điểm F ∈ P và đường thẳng (gọi là đường chuẩn) d ∈ P một khoảng bằng nhau.
+
+Bạn có thể làm mà không cần hình nón và không nhất thiết phải đi vào không gian để tìm EMENT toán học kết nối ba đường cong rất khác nhau này (hình elip đóng, parabol bao gồm một “nhánh vô hạn”, hyperbola - của hai).
+
+Cụ thể, chúng ta xét trên mặt phẳng hai đường tròn giao nhau *) ε1 và ε2 có tâm tại các điểm F1 và F2. Hóa ra tâm của tất cả các đường tròn có thể, chạm vào một trong các đường tròn ε1 ε2 bên trong và bên ngoài, tạo thành một đường tròn trống có tâm ở F1 có bán kính R1 (Hình 1) và một đường tròn có tâm ở F2 có bán kính R2. Gọi T1 và T2 lần lượt là điểm tiếp tuyến của các đường tròn này với đường tròn tâm M. Khi đó rõ ràng rằng
+
+$$R_1 + R_2 = |F_1 T_1| + |F_2 T_2| = |F_1 T_1| + |M F_2| + |T_1 M| = r_1 + r_2 = const.$$
+
+Nếu chúng ta xét tập hợp tâm M của các đường tròn tiếp xúc với cả hai đường tròn ε và ε2 ở bên ngoài (hoặc cả hai bên trong),
+
+*) Chúng được hiển thị bằng màu vàng trên trang bìa thứ hai.
+
+Cơm. 1.
+
+Cơm. 2.
+
+Cơm. 3.
+
+Như vậy), thì tập này trở thành một hyperbol. Hãy tiến hành chứng minh điểm M1 (Hình 2):
+
+$$R_2 - R_1 = |F_2 M_1| + |M_1 N_2| - |F_1 M_1| - |M_1 N_2| = |F_2 M_1| - |F_1 M_1| = r_2 - r_1 = const.$$
+
+Hãy tự chứng minh rằng điểm M3 nằm trên nhánh bên phải của cùng một hyperbol.
+
+Và trong trường hợp nào một parabol xuất hiện dưới dạng một họ các tâm đường tròn? Để trả lời câu hỏi này, chúng ta sẽ thử tưởng tượng một đường thẳng là một đường tròn có bán kính vô hạn. Tập hợp tâm các đường tròn tiếp xúc với một đường thẳng có vị trí tùy ý và một đường tròn nhất định là một parabol (Hình 3). Hãy chứng minh điều đó!
+
+Việc biểu diễn các phần hữu hạn dưới dạng một họ các tâm đường tròn được áp dụng ở đây hóa ra lại rất hữu ích, chẳng hạn như đối với lời giải của bài toán của Apollonius đã cho ở trên. Thật vậy, tâm của đường tròn tiếp xúc với ba đường tròn tới hạn. Tập hợp các tâm đường tròn tiếp xúc với chúng lại là một phần hữu hạn. Do đó, tâm của đường tròn tiếp xúc với ba dữ liệu được coi là giao điểm của hai phần cuối. Theler kết nối tâm của các đường tròn mong muốn với tâm của các đoạn đường đã cho và thu được điểm thứ ba tại giao điểm tiếp tuyến của đường tròn mong muốn với dữ liệu.
+
+Tất nhiên, lời giải bài toán như vậy của Apollonius không thể làm hài lòng các nhà hình học Hy Lạp cổ đại. Tại sao? Có, vì không rõ cách dựng điểm giao nhau của hai đường cong chỉ bằng thước và compa. Đây là lý do tại sao F. Việt đã rất vui mừng khi tìm được lời giải bài toán Apollonius chỉ bằng một chiếc la bàn và thước kẻ. Bạn có thể làm được điều này không?
+
+V. Berezin

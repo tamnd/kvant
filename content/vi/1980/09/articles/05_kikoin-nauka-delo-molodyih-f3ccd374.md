@@ -1,0 +1,40 @@
+---
+id: 1980-9-kikoin-nauka-delo-molodyih-f3ccd374
+issue: kvant_1980_9
+year: 1980
+number: "9"
+title: Khoa học là vấn đề của giới trẻ
+authors:
+  - Кикоин И. К.
+rubric: otkryvayushchie-stati
+page_first: 6
+page_last: 6
+page_labels: "4"
+tag: UFYB
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 1d7ecb0b7b38f02ca752eb17f128639999a579e35957f7262ddd95e10bc7974f
+prompt_sha256: draft-1
+translated_from: content/ru/1980/09/articles/05_kikoin-nauka-delo-molodyih-f3ccd374.md
+source_content_sha256: d9bdc3d4027b5c744af7897dd84faafebab9c5b3e727755d4b4c1b9a9d272996
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 4⟧
+
+I. Kikopin
+
+Khoa học là vấn đề của giới trẻ
+
+Nhiều người tin rằng công việc khoa học, những khám phá và sự hình thành các quy luật tự nhiên là kết quả công việc của các nhà khoa học đáng kính, tức là những người ở độ tuổi đáng kính đã tích lũy kiến ​​\u200b\u200bthức và kinh nghiệm sâu rộng trong chuyên ngành của mình. Trên thực tế, như lịch sử khoa học cho thấy, không phải vậy: những khám phá vĩ đại nhất đều do những người trẻ tuổi thực hiện.
+
+Mặc dù nói về vật lý là dễ dàng nhất đối với tôi nhưng tôi không thể không nhắc đến tác phẩm xuất sắc của Vladimir Ilyich Lenin, “Sự phát triển của chủ nghĩa tư bản ở Nga”. Tác phẩm này được xuất bản vào tháng 3 năm 1899 nên Lênin viết khi mới 28 tuổi. Để biên soạn tác phẩm này, Người đã sử dụng tổng cộng khoảng 600 cuốn sách và bài báo. Đây là công trình lớn mà Lênin lần đầu tiên, trái ngược với quan điểm được chấp nhận rộng rãi lúc bấy giờ, đã chứng minh rằng nước Nga đang phát triển theo con đường tư bản chủ nghĩa, hoàn toàn phù hợp với những lời dạy của Marcas. Tác phẩm có tác động rất lớn đến phong trào cách mạng ở Nga. Diễn biến tiếp theo của các sự kiện đã dẫn đến sự phát triển các ý tưởng khoa học của tác giả trong tác phẩm. Ở đây tôi xin lưu ý rằng trước đó Lênin đã viết được hơn 30 tác phẩm trong đó ông phát triển cương lĩnh và chiến thuật của đảng.
+
+Hầu hết mọi người đều quen thuộc với bức chân dung của Galileo - một ông già với bộ râu ốm yếu. Galileo (1564-1642) quả thực đã sống rất lâu, nhưng ông đã có khám phá lớn đầu tiên về vật lý vào năm 1583, khi ông khoảng 20 tuổi. Quan sát dao động của logra trong thánh đường và so sánh chu kỳ dao động với nhịp đập của chính mình, ông xác định rằng chu kỳ dao động của logra không phụ thuộc vào biên độ (định luật đẳng thời từ). Khám phá này là cơ sở cho việc tạo ra đồng hồ. Ở tuổi 25, Galileo trở thành giáo sư. Chẳng bao lâu sau, ông đã thiết lập bằng thực nghiệm các định luật nổi tiếng về vật rơi dưới tác dụng của trọng lực.
+
+Cơ học cổ điển, phục vụ vật lý cơ bản trong hơn hai thế kỷ, được tạo ra bởi Newton, người sinh vào năm Galileo mất. Newton (1642-1727), giống như Galileo, đã thực hiện một trong những khám phá lớn nhất của mình - khám phá ra định luật vạn vật hấp dẫn - ở tuổi khoảng 20 (tình cờ là nó được xuất bản muộn hơn nhiều).
+
+Tất cả học sinh lớp chín đều biết tên nhà vật lý nổi tiếng người Nga Emilius Khristanovich Lenz (1804-1865). Cái gọi là quy tắc Lenz liên quan đến hướng của điện trường cảm ứng được ông đưa ra vào năm 1833 trong công trình “Về việc xác định hướng của dòng điện bị kích thích bởi cảm ứng điện động”. Lúc này Lenz đã 29 tuổi. Ở tuổi ba mươi ông được bầu làm học giả.

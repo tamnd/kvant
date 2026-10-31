@@ -1,0 +1,48 @@
+---
+id: 1980-12-kotov-vidoizmenenie-poverhnosti-shteynera-557267fc
+issue: kvant_1980_12
+year: 1980
+number: "12"
+title: Sửa đổi bề mặt Steiner
+authors:
+  - Котов Ю. В.
+rubric: raznoe
+page_first: 32
+page_last: 32
+page_labels: "30"
+tag: I4V3
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: af64ff951ebcb2b9ea3716ee63909627e7f98916e91d51ae236d71bfe5d1d235
+prompt_sha256: draft-1
+translated_from: content/ru/1980/12/articles/13_kotov-vidoizmenenie-poverhnosti-shteynera-557267fc.md
+source_content_sha256: 7e34395b4fd44f0a9e01ad4a0a0994bb617bfa954327435778e44df28044737f
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 30⟧
+
+Sửa đổi bề mặt Steiner
+
+Trang bìa của số đầu tiên của «Kvant» năm nay có hình vẽ bề mặt Steiner do máy tính tạo ra. Trong một ghi chú về chủ đề này, người đọc được yêu cầu vẽ và mô tả các bề mặt thu được từ bề mặt Steiner bằng cách thay số 0 ở vế phải của phương trình của nó bằng ±0,001, tức là bề mặt
+
+$$x^2y^2 + x^2z^2 + y^2z^2 + xyz = \pm 0,001.$$
+
+Học sinh lớp 10 Oleg Morozov từ Chelyabinsk đã gửi cho chúng tôi các bức vẽ của cậu ấy (xem Hình 1 và 2) cũng như mô tả về các bề mặt: Bề mặt $x^2y^2 + x^2z^2 + y^2z^2 + xyz = 0,001$ có hai mặt, mở, vì nó có “sự phát triển vượt bậc” gần các trục tọa độ tiến đến vô cùng. Các phần của bề mặt theo mặt phẳng tọa độ là Zigrov (tổng cộng 12 nhánh). Các “nadins” trên bề mặt không chạm vào nhau và các trục tọa độ (...).
+
+Bề mặt $x^2y^2 + x^2z^2 + y^2z^2 + xyz = -0,001$ bao gồm bốn phần khép kín không giao nhau, cũng không giao nhau với bất kỳ mặt phẳng tọa độ nào. Các “nadins” trên đó dường như giao nhau và biến mất tại các điểm giao nhau.
+
+Cơm. 3.
+
+Các biên tập viên đã liên hệ với tác giả của ghi chú, Yu. Kotov, yêu cầu anh bình luận về bức thư này. Đến lượt mình, Yury Vladimirovich quay sang đồng nghiệp của mình, máy tính EC-1022, với yêu cầu vẽ các bề mặt cần thiết. Kết quả là máy tính đưa ra hai bản vẽ (Hình 3 và 4), và tác giả của ghi chú đã trả lời độc giả của chúng tôi như thế này:
+
+Oleg thân mến, về cơ bản bạn đã tưởng tượng chính xác các bề mặt được đề cập và mô tả chúng khá thuyết phục, lưu ý các đặc tính hình học cơ bản của chúng. Theo chúng tôi, nếu coi bề mặt thay đổi theo thời gian $x^2y^2 + x^2z^2 + y^2z^2 + xyz = T$ thì ở đây $T$ là một tham số, thời điểm chuyển tiếp “qua 0”, trong đó bề mặt Steiner xuất hiện, thật thú vị. Tại thời điểm này, những “sự phát triển vượt bậc” vô tận “biến mất” và bề mặt vỡ ra thành bốn lớp.
+
+Nhưng chúng ta cần làm rõ một số phần: bốn phần mà bề mặt nằm ở $T < 0$ là những phần chính, chúng không có các cạnh như trong hình của bạn. Không có cạnh nào ngăn cách “nadins” với phần còn lại của bề mặt trong $T > 0$. Mặt cắt ngang của “sự phát triển” tiếp cận khi đủ xa gốc tọa độ.
+
+Cơm. 4.
+
+Yu. kotov

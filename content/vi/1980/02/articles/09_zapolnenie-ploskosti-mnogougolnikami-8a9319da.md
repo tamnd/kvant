@@ -1,0 +1,34 @@
+---
+id: 1980-2-zapolnenie-ploskosti-mnogougolnikami-8a9319da
+issue: kvant_1980_2
+year: 1980
+number: "2"
+title: Làm đầy mặt phẳng bằng đa giác
+rubric: raznoe
+page_first: 27
+page_last: 27
+page_labels: "25"
+tag: AQKF
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: e7f0b44119f70158c11d3d1fc5c5931bb3774461ec8dd0f3c0e2fca8f08e8926
+prompt_sha256: draft-1
+translated_from: content/ru/1980/02/articles/09_zapolnenie-ploskosti-mnogougolnikami-8a9319da.md
+source_content_sha256: f471a8de92c6b1018d32986c98b473b8fbc3dcae92b125e4f7e36b7302991569
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 25⟧
+
+ĐIỀN
+MÁY BAY
+ĐA GIÁC.
+
+Hãy nhìn kỹ vào cấu hình hiển thị trên trang bìa đầu tiên: nó được tạo thành từ một số lượng lớn các hình ngũ giác tắc nghẽn. Những hình ngũ giác này không lồi; hình dạng bất thường của chúng giống với chữ S trong tiếng Latin (xem bìa). Hóa ra cấu hình có thể được tiếp tục vô thời hạn; đồng thời, các hình ngũ giác tiếp tục bung ra theo hình “xoắn ốc kép” và lấp đầy toàn bộ mặt phẳng (không có khoảng trống hoặc chồng lên nhau). Điều này đã được chứng minh vào năm 1937 bởi người tạo ra nó, nhà toán học người Đức H. Wordenburr.
+
+Bài toán lấp đầy mặt phẳng của đa giác đã được thảo luận nhiều lần trên các trang tạp chí của chúng tôi. Một phần, vào năm «Kvant» 1979, số 2, tr. 9 việc phân loại sàn gỗ đã được đưa ra vào năm «Kvant» 1972, số 8, tr. 41 - kính vạn hoa. Không giống như cấu hình của chúng ta, sàn gỗ và kính vạn hoa có những đặc tính đơn giản về tính đều đặn và tính tuần hoàn. Một phần, tất cả các đỉnh của chúng đều có cấu trúc giống hệt nhau; chúng có thể được gấp lại thành chính mình với sự trợ giúp của nhiều thay đổi khác nhau. Cấu hình của chúng tôi có một tập hợp các đỉnh thuộc các loại khác nhau (liền kề với chúng là 18, 7, 6 hoặc 5 đa giác) và chỉ có một chuyển động không giống hệt nhau (cái nào?) chuyển hình vào chính nó.
+
+Cố gắng tự mình nghĩ ra các mặt phẳng cắt tương tự bằng cách sử dụng các đa giác giống hệt nhau. Nếu chủ đề này khiến bạn quan tâm hoặc nếu bạn sản xuất những bức tranh màu đỏ, hãy viết thư cho chúng tôi. Sau đó chúng ta sẽ quay lại những vấn đề này.

@@ -1,0 +1,54 @@
+---
+id: 1980-5-gayduk-zabyitaya-teorema-sofizm-shutka-21eae21c
+issue: kvant_1980_5
+year: 1980
+number: "5"
+title: Định lý bị lãng quên (ngụy biện-đùa)
+authors:
+  - Гайдук Ю. М.
+rubric: smes
+page_first: 19
+page_last: 19
+page_labels: "17"
+tag: FS17
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 068b3542f38fa10df3cc00cfcc06c680acd6a864e87712770fe0db5366732efe
+prompt_sha256: draft-1
+translated_from: content/ru/1980/05/articles/06_gayduk-zabyitaya-teorema-sofizm-shutka-21eae21c.md
+source_content_sha256: f36fcd1197e6dde08a3af6f374030ac90f24ebc3bf2ce52d4daceeacec3ade51
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 17⟧
+
+xác định mức độ cho phép biến dạng dẻo của đạn phân mảnh có sức nổ cao khi bắn. Kết quả này đã được thử nghiệm bằng cách bắn và dẫn đến việc tạo ra các dạng sức mạnh mới, vào năm 1943 đã có thể mở rộng triệt để việc sản xuất đạn pháo từ thép nhớt mà không cần xử lý nhiệt và gang bị mòn. Việc sử dụng thép hợp kim thấp để sản xuất đạn giúp giảm đáng kể chi phí và tăng sản lượng, điều này đặc biệt quan trọng khi làm việc trong điều kiện sơ tán.
+
+Khi nghiên cứu tính ổn định của dòng chảy nhớt, số lượng mảnh và kích thước của chúng trong quá trình vỡ sên đã được xác định và dựa trên những nghiên cứu này, các đề xuất đã được đưa ra để thiết kế sên tối ưu. Lần đầu tiên trong thực tiễn nghiên cứu, phương pháp mô hình hóa chế tạo bom bay xuống đất và phân tích cường độ được áp dụng. Những phương pháp này giúp giải quyết các vấn đề công nghệ quốc phòng với tốc độ nhanh hơn. Vào đầu cuộc chiến, một phương pháp thử nghiệm tốc độ đã được đề xuất để lắp đặt hợp kim sắt cho ngành công nghiệp xe tăng. Và vào năm 1942, một phép tính gần đúng đã được đưa ra để xác định góc điều khiển bắn ngư lôi dựa trên tốc độ thay đổi của ống phóng và một thiết bị tương ứng đã được chế tạo.
+
+Toán học phức tạp bài toán về tính ổn định của chuyển động quay dọc của sên cũng như việc tính toán và xác định mức tới hạn có lợi nhất của việc cắt bộ đồ ăn đã được Thành viên tương ứng của Viện Hàn lâm Khoa học Liên Xô N. G. Chetaev giải quyết. Ông cùng với Giáo sư A. A. Kosmodemyasky và Giáo sư N. D. Moiseev đã giải quyết một vấn đề thực tế quan trọng bài toán về độ ổn định của máy bay khi di chuyển trên mặt đất (điều này bài toán nảy sinh khi máy bay thường xuyên di chuyển đến các sân bay mới chưa phát triển). Rõ ràng tầm quan trọng đặc biệt của dịch vụ thời gian của cảnh sát giao thông trong những năm chiến tranh là đảm bảo truyền tín hiệu thời gian vô tuyến chính xác cho nhu cầu của mặt trận. Giáo sư N.D. Moiseev, người đứng đầu dịch vụ này, đã có đóng góp đáng kể vào công việc không bị gián đoạn của nó. Viện sĩ A. Yu. Ishlinsky, Thành viên tương ứng của Viện Hàn lâm Khoa học Liên Xô B. V. Bulgkov và Giáo sư Ya. N. Roitenberg đã thực hiện nhiều công trình lý thuyết và thực tiễn để cải thiện và nâng cao độ chính xác của các thiết bị con quay hồi chuyển hàng hải và thiết bị điều khiển hỏa lực pháo binh trên các tàu của Hải quân Liên Xô.
+
+Giáo sư M. A. Kreines đã tham gia tích cực vào lời giải bài toán về việc lựa chọn sơ đồ bánh răng phức tạp thông thường cho cơ cấu điều khiển xe tăng.
+
+Không phải tất cả các công việc liên quan đến quốc phòng đã được các nhà khoa học trong khoa thực hiện thành công đều được liệt kê ở đây. Tác phẩm này của sinh viên Khoa Cơ và Toán đã được nhiều Chính phủ và Giải thưởng Nhà nước của Liên Xô trao tặng.
+
+Định lý bị lãng quên
+
+(ngụy biện-đùa)
+
+Đây là một “định lý” bị các tác giả sách giáo khoa hình học lãng quên:
+
+Qua n điểm bất kỳ bạn có thể vẽ một bông huệ thẳng (n là số tự nhiên tùy ý).
+
+Hãy chứng minh định lý này bằng phương pháp quy nạp toán học.
+
+Với n=1 và n=2 định lý này đúng (do tiên đề hình học nổi tiếng). Việc còn lại là chứng minh định lý cho các giá trị lớn của n.
+
+Chúng ta hãy giả sử rằng định lý đúng với một số n=k, và chỉ ra rằng trong trường hợp này nó sẽ vẫn đúng với n=k+1.
+
+Vì vậy, cho có k+1 điểm tùy ý M1, M2,..., Mk, Mk+1. Theo giả thuyết quy nạp, một số đường thẳng l đi qua k điểm M1, M2,..., Mk. Theo giả định tương tự, một số đường thẳng l' cũng đi qua k điểm M2,..., Mk, Mk+1. Hai đường thẳng này có ít nhất hai điểm chung M2 và Mk. Nhưng hai điểm xác định một đường thẳng. Do đó, các giá trị l và l' phải trùng nhau. Do đó, đường thẳng l đi qua các điểm M1, M2,..., Mk cũng đi qua các điểm Mk+1 - và định lý được chứng minh.
+
+Yu. Gaiduk

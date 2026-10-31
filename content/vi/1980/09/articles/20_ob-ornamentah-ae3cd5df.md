@@ -1,0 +1,48 @@
+---
+id: 1980-9-ob-ornamentah-ae3cd5df
+issue: kvant_1980_9
+year: 1980
+number: "9"
+title: '[Về đồ trang trí]'
+rubric: raznoe
+rubric_sub: Разное
+page_first: 59
+page_last: 59
+page_labels: "57"
+tag: 37LY
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 660c1e61196e640448aedaaf40f805097c58a46bb7e84a7041441c3b2c58a463
+prompt_sha256: draft-1
+translated_from: content/ru/1980/09/articles/20_ob-ornamentah-ae3cd5df.md
+source_content_sha256: 04ed7cd213e78b20fb40d3ecb379f1049d3cb9ee5ee3b424afcc038f7022e6c9
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 57⟧
+
+Cơ sở là $\Delta x$ và chiều cao lần lượt là $y(a)$, $y(a + \Delta x)$, $y(a + 2\Delta x)$. Sau đó, diện tích gần đúng được tô bóng trong Hình 9 được tính bằng chương trình 0->X; 0-> TÍCH HỢP; 0,01->ĐỒNG BẰNG; TẠM BIỆT $X = < 2$ :: (10)
+TÍCH HỢP+DELTA*
+((X-1)!2+1)->TÍCH HỢP; X+DELTA->X
+TẤT CẢ
+
+Tất nhiên, sẽ không có gì ngạc nhiên đối với học sinh lớp 10 khi diện tích thu được khi thực hiện chương trình (10) được gọi là INTEGRAL. Trong khóa học toán ở trường (“Đại số và sự khởi đầu của phân tích 10”, đoạn 101), người ta nói rằng khoảng từ một hàm liên tục không âm là diện tích của đường cong biên tuyến tính tương ứng. Vì vậy, chương trình (10) là một ví dụ điển hình của chương trình nội suy số đơn giản nhất.
+
+Phương pháp chèn số được sử dụng trong chương trình này được gọi là phương pháp tuyến tính: trong phần thân của chu trình, diện tích của các phần tử tuyến tính được tính toán, từ đó cộng thêm giá trị gần đúng của diện tích được tính toán. Kết quả chính xác là từ bước DELTA, cũng như từ phương pháp hình thang đã chọn: diện tích kết quả được tạo thành từ các hình thang cơ bản (Hình 10).
+
+Nhiệm vụ 9.5. Mẫu phép tính tích phân tương tự như (10), phương pháp hình thang.
+
+Các chương trình như vậy cho phép tính gần đúng diện tích của các hàm tùy ý: chỉ cần biểu thị diện tích của một hàm phức dưới dạng hai (hoặc nhiều) hàm, đối với mỗi hàm trong số đó diện tích được tính trực tiếp bởi một nội suy nhất định. Vì vậy, trong Hình 11, có thể dễ dàng nhìn thấy hai sinconda - chu kỳ “trên” $y = 3\sin \frac{x}{3} + \pi$ và chu kỳ một rưỡi “dưới” $y = \sin x + \pi$.
+
+* Nhiệm vụ 9.6. Viết chương trình tính diện tích được tô bóng trong các hàm Hình 11 (không viết quy trình sin giả sử nó đã tồn tại: nó có thể được truy cập bằng một lệnh gọi đơn giản tới SIN(X)).
+
+Yu. Pervin
+
+bìa của chúng tôi
+
+Một cơ quan thường được gọi là một funkru có hình dạng kỳ quái, nhóm tự kết hợp của chúng (xem «Kvant», 1980, Số 7, trang 4) chứa ít nhất một chuyển vị khác với giống hệt nhau.
+
+Và mặc dù không thể mô tả chính xác “sự kỳ lạ về hình thức” nhưng “định nghĩa” về cơ quan này lại có ý nghĩa khá rõ ràng. Trang thứ hai của trang bìa mô tả một số cơ quan phía đông, trong đó có các nhóm tự kết hợp (tất nhiên, giả sử rằng mô hình mở rộng không giới hạn sang trái và phải).

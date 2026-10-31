@@ -1,0 +1,29 @@
+---
+id: 1980-6-a-o-ploschadyah-pravilnyih-mnogougolnikov-vpisannyih-v-okruzhnost-edinichnogo-radiusa-4e40cb22
+issue: kvant_1980_6
+year: 1980
+number: "6"
+title: '[Trên diện tích các đa giác đều nội tiếp trong đường tròn bán kính đơn vị]'
+authors:
+  - А. П.
+rubric: smes
+page_first: 68
+page_last: 68
+tag: Y9B4
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 2b42173f24fca540944b544aa09291e0335c1769762218072b20cb748fdb52f1
+prompt_sha256: draft-1
+translated_from: content/ru/1980/06/articles/02_a-o-ploschadyah-pravilnyih-mnogougolnikov-vpisannyih-v-okruzhnost-edinichnogo-radiusa-4e40cb22.md
+source_content_sha256: ab91b6c00cad1e25e20f5af27229514ea9a739a2371ba3a2ae237f7cdb07b82a
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+Bạn nghĩ sao: có bao nhiêu đa giác đều nội tiếp trong một đường tròn bán kính đơn vị có diện tích có độ lớn được biểu thị bằng một số hữu tỉ? Hoá ra tất cả đối với b đều là hình vuông và hình mười hai cạnh; diện tích của chúng lần lượt bằng hai và ba. Một bằng chứng rất hay cho thấy diện tích của một hình mười giác đều nội tiếp trong một vòng tròn đơn vị bằng diện tích của nhà toán học Hungary, người tích cực tổ chức các cuộc thi Olympic toán học Hungary dành cho học sinh, J. Kürszák (1864-1933). Bằng chứng được đưa ra từ hình kèm theo, trong đó hình vuông ở cạnh 2 được chia thành các tam giác đều và tam giác cân có các góc 15°, 15° và 150° đến mức một số trong số chúng thay thế diện tích của một hình mười hai cạnh đều và mặt khác, cùng một bộ tam giác thay thế ba hình vuông có diện tích đơn vị. Chứng minh này cũng là một minh chứng hay cho định lý Bolle-Gerwin rằng hai đa giác bất kỳ có diện tích bằng nhau đều có thể được phân chia thành các phần bằng nhau theo cặp.
+
+A.P.

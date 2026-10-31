@@ -1,0 +1,40 @@
+---
+id: 1980-11-zadachi-f6f4c433
+issue: kvant_1980_11
+year: 1980
+number: "11"
+title: Bài toán
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 31
+page_last: 31
+page_labels: "29"
+tag: YXZY
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: d1eec11e63137f15dfd74880a654e6244dd0094c40b1ce3f3a2f5414eb6eeac3
+prompt_sha256: draft-1
+translated_from: content/ru/1980/11/articles/09_zadachi-f6f4c433.md
+source_content_sha256: 78a430c2d6b1ecb84c97a95b4f8ccb824e77fedec0c3924e082e8619b9b6a40c
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 29⟧
+
+Nhiệm vụ
+
+1. Có bốn thẻ trên bàn (xem hình).
+Được biết, mỗi tấm thẻ có một mặt là chữ cái và mặt kia là số tự nhiên. Những lá bài nào chỉ cần lật lên là biết được một câu đúng hay sai? Nếu một mặt của tấm thẻ có một chữ in hoa, thì mặt kia có một bộ bốn - số thứ tư?
+
+2. Bốn đội bóng đá: “Start”, “Kometa”, “Raketa” và “Vympel” - mỗi đội chơi một trận với nhau. Thẩm phán đưa ra một bảng chứa kết quả cuộc họp của họ. Người đánh máy đã in một bảng từ mẫu và phần số phận của nó. Nhưng hóa ra máy in (đã rất cũ) hầu như không in được gì (xem hình). Tuy nhiên, trọng tài đồng ý các trận đấu còn lại kết thúc với tỷ số 2:0, 1:1, 2:2, 3:1, 5:3. Giúp số phận điền vào bảng! (Ở cột “Quả bóng”, số bàn thắng ghi được ghi bên trái, số bàn thua ghi bên phải. Thắng 2 điểm, hòa 1 điểm).
+
+3. Cho 1980 số tự nhiên liên tiếp: Có thể nâng mỗi số lên lũy thừa chẵn sao cho tổng các số thu được bằng bình phương của số tự nhiên không?
+
+4. Mười đồng xu giống hệt nhau tạo thành một hình tam giác đều hướng “xuống” (xem hình). Sắp xếp ba đồng xu sao cho bạn có được một tam giác đều hướng “lên trên”.
+
+Những nhiệm vụ này đã được cung cấp cho chúng tôi
+E. Abdulaev, N. Nikolskaya,
+D. Remorov, A. Halamayer
