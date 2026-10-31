@@ -32,11 +32,13 @@ on:
 permissions:
   contents: read
 
-# One deploy per host at a time. A newer push makes the older build pointless,
-# but a deploy already uploading is left to finish.
+# One deploy per host at a time. A run in progress is left to finish and only
+# the newest waiting run follows it: the translation loops merge a PR every few
+# minutes, and cancelling on each one meant a deploy never got to run when
+# runners were short.
 concurrency:
   group: site-${{ github.ref }}
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 env:
   SOLVER_REF: ${{ inputs.solver-ref || 'main' }}
