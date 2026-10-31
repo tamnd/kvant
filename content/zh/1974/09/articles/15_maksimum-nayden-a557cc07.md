@@ -1,0 +1,32 @@
+---
+id: 1974-9-maksimum-nayden-a557cc07
+issue: kvant_1974_9
+year: 1974
+number: "9"
+title: 找到的最大值
+rubric: smes
+page_first: 54
+page_last: 54
+page_labels: "52"
+tag: 2ZFG
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 9448f31c00122947c38b00d4871835c6dba9b1c14a02070e3253e91bf18e6f33
+prompt_sha256: draft-1
+translated_from: content/ru/1974/09/articles/15_maksimum-nayden-a557cc07.md
+source_content_sha256: 7e8ea807aa3bb965b8f7b7ee1963133d62944da738ebdd01a6e685c5fd10bd1c
+translation_model: draft
+translation_run: zh-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 52⟧
+
+找到的最大值
+
+1973年«Kvant»第10期，注释“Maxium？”已发布。编辑们收到了许多信件，其中包含对本说明中所包含问题的答复。事实证明，读者提供的所有答案都是正确的。事实上，在该问题的上下文中提到的、在日本找到的记录工作是7448。很高兴许多读者对这个问题感兴趣，但不幸的是，并不是每个人都得到了他们的解决方案，因此，在大多数情况下，不可能找出如何获得正确答案。一般来说，那些提出梦想的读者的解决方案包括整理出可能的选项。
+
+当然，使用表格或计算机找到解决方案并不存在任何逻辑困难，尽管它相当麻烦且无趣。因此，最流行的解决方案是那些使用情景问题还原的逻辑分析并证明结果答案的唯一性的解决方案。此类解决方案很少。首先报告安德烈·米申（列宁格勒）、谢尔盖·特尔诺沃伊（伏尔加格勒）和谢尔盖·格拉德科夫斯基（斯塔夫罗波尔边疆区格奥尔基耶夫斯克）的决定。这些读者设法显着减少了考虑的组合数量，并迅速做出了正确的决定。切利亚博娃（马哈奇卡）同志的决定是完整的、正确的，但是很麻烦。
+
+不可能不提到找到这个问题正确答案的最年轻的读者——来自莫斯科的六年级学生莱尼奥·契诃夫。
