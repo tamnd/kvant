@@ -1,0 +1,47 @@
+---
+id: 1974-7-krossvord-f2baa2ff
+issue: kvant_1974_7
+year: 1974
+number: "7"
+title: trò chơi ô chữ
+rubric: smes
+page_first: 83
+page_last: 83
+tag: GVZV
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 81d744a11f75bd89ae74674ddf3481f2ac640ed7635c31e95357e304d3168218
+prompt_sha256: draft-1
+translated_from: content/ru/1974/07/articles/01_krossvord-f2baa2ff.md
+source_content_sha256: 3b19cb2762d35e044690183b409998020d9935f5289db03c75d14a138b618413
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 76⟧
+
+trò chơi ô chữ
+
+Nằm ngang
+
+Đoạn 2-8 trong một tam giác
+câu toán 10-16
+ký hiệu 18-25
+33-40 một trong những dạng suy luận
+43-50 một trong những khái niệm cơ bản của phân tích toán học
+Hình phẳng 55-58
+màn hình 77—83
+
+Thẳng đứng
+
+Phân đoạn định hướng 1-42
+19—68 dấu hiệu gốc
+29-62 điểm của vòng tròn, cách đều các điểm trên ranh giới của vòng tròn
+Thước đo chiều dài 2—30
+45-73 một trong những khái niệm hình học cơ bản
+47—80 tập hợp các điểm có tọa độ thỏa mãn phương trình $y=f(x)$
+57-75 một phần của máy bay
+8—67 một trong các trục tọa độ
+50—76 dấu vết của một điểm chuyển động

@@ -1,0 +1,43 @@
+---
+id: 1974-3-nayti-chislo-0ee8a03e
+issue: kvant_1974_3
+year: 1974
+number: "3"
+title: Tìm số
+rubric: smes
+page_first: 10
+page_last: 10
+page_labels: "8"
+tag: B3WM
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 49ac270b5a0666e66892800428b112049800b795df1291dc43ece94c203c72b9
+prompt_sha256: draft-1
+translated_from: content/ru/1974/03/articles/06_nayti-chislo-0ee8a03e.md
+source_content_sha256: 564c67b9d4d5885cea2f81dfadd1a4b55232e394e9f9aab0b690f402231d6a54
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 8⟧
+
+turoy $T_3$, vượt quá đáng kể $r_D$, thì bên trong khu vực này $n_3 \approx n_n$.
+Trong trường hợp này, với độ lệch mạnh $n_3$ so với $n_n$, một trường điện tử được hình thành sẽ đẩy các hạt có dấu hiệu này (hiện diện vượt quá) và trì hoãn sự ra đi của các hạt có dấu hiệu khác. Một cơ chế như vậy, tự động duy trì sự bình đẳng của $n_3$ và $n_n$, sẽ chuyển sang hoạt động trong trường hợp khi $r \ll r_D$. Trong các khối có kích thước tuyến tính nhỏ hơn đáng kể so với $r_D$, các trường điện tử phát sinh khi $n_3$ lệch khỏi $n_n$ sẽ quá nhỏ để có tác động rõ rệt đến chuyển động của từng hạt riêng lẻ.
+
+Bây giờ chúng ta có thể đặt một ý nghĩa cụ thể hơn vào khái niệm “plasma”. Cho đến khi chúng ta xử lý một số lượng tương đối nhỏ các hạt tích điện không có khả năng tạo ra một trường đủ mạnh để nó ảnh hưởng đáng kể đến bề mặt của mỗi hạt, thì việc nói về sự hiện diện của một trạng thái mới nào đó của vật chất là vô nghĩa. Một dạng vật chất mới - plasma - tương ứng với trạng thái khi số lượng electron của các ion hiện tại lớn đến mức ngay cả các thành phần electron hỗn hợp nhỏ so với thành phần ion cũng không thể xảy ra do trường điện tử mạnh phát sinh khi sự đẳng thức giữa $n_3$ và $n_n$ bị vi phạm. Do đó, khí bị ion hóa chỉ có quyền trở thành plasma nếu điều kiện (3) được thỏa mãn với một giới hạn vừa đủ.
+
+Cần nhấn mạnh rằng tính gần như trung tính của huyết tương chỉ được quan sát thấy trong thể tích đủ lớn. Nếu chúng ta cô lập một khối bên trong plasma ở cạnh $x$, nhỏ hơn đáng kể so với $r_D$, thì bên trong khối này, số lượng ion có thể khác đáng kể so với số lượng electron. tỷ lệ $x/r_D$ càng nhỏ thì sự khác biệt giữa độ lớn của tỷ lệ $n_3/n_n$ và sự thống nhất càng lớn.
+
+Dấu hiệu gốc xuất hiện như thế nào?
+Việc rút gốc được biểu thị bằng dấu $\sqrt{}$. Không phải ai cũng biết rằng đây là hình ảnh của chữ cái Latinh $r$, chữ cái đầu tiên trong từ “gadix” trong tiếng Latinh, được gọi là “root”.
+Vào thế kỷ 16, dấu gốc không phải là chữ thường mà là chữ in hoa $R$, và chữ cái đầu tiên của các từ Latin “cadratus” - “square” (q) hoặc “subisc” - “cubic” (c) được đặt bên cạnh để cho biết gốc nào cần được trích xuất. Ví dụ: họ đã viết $R.q.4352$ cùng với cái mới $\sqrt{4352}$.
+
+Tìm số
+1. Tìm một số có ba chữ số sẽ được đọc từ phải sang trái, giữ nguyên giá trị của nó nếu chúng ta giả sử rằng trong trường hợp này nó được mô tả trong hệ thống số có chín chữ số.
+2. 3, 5, 7 - cho các số nguyên tố lẻ liên tiếp. Có số nguyên tố lẻ liên tiếp nào trong chuỗi tự nhiên không?
+3. Tìm một số có bốn chữ số bằng bình phương của số tạo bởi hai chữ số cuối của số đó.
+4. Tìm một số có hai chữ số có bình phương bằng lập phương của tổng các chữ số của nó.
+5. Tìm một số có bốn chữ số bằng lũy ​​thừa bậc 4 của tổng các chữ số của nó.
+6. Tìm một số là số chính phương nếu biết rằng trong hệ năm chữ số nó là số có bốn chữ số và nếu nó được viết trong hệ bảy chữ số thì nó được biểu thị bằng chính các chữ số đó.

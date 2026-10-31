@@ -1,0 +1,53 @@
+---
+id: 1974-2-zorich-besedyi-starogo-uchitelya-fb58bbbb
+issue: kvant_1974_2
+year: 1974
+number: "2"
+title: Cuộc trò chuyện của một giáo viên cũ
+authors:
+  - Зорич И. М.
+rubric: retsenzii-bibliografiya
+rubric_sub: Рецензии, библиография
+page_first: 58
+page_last: 58
+page_labels: "56"
+tag: GXHK
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 587a2106dc45bd7342f3658bca4245713395b442bf667b24f673f089e079cd62
+prompt_sha256: draft-1
+translated_from: content/ru/1974/02/articles/14_zorich-besedyi-starogo-uchitelya-fb58bbbb.md
+source_content_sha256: 43105d0a22890d3d3cbaa4ec6234ed06785a995fdb1210dbdb2dd2233da2c1a2
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 56⟧
+
+Cuộc trò chuyện của một giáo viên cũ
+
+"Cuộc trò chuyện về vật lý". Sẽ rất khó để tìm ra một tựa đề hay hơn cho cuốn sách này *). Mikhalil Ivanovich Bludov, một giáo viên và nhà phương pháp giàu kinh nghiệm, đã quyết định chia sẻ kiến ​​thức của mình với những độc giả trẻ và trò chuyện với họ về vật lý. Chính xác thì cái gì? Xét cho cùng, vật lý hiện đại là nền tảng và nhiều mặt, đến mức người ta có thể nói về nó trong một cuốn sách dài. Đúng vậy, phần đầu tiên của “Cuộc trò chuyện” trước mắt chúng ta chỉ bao gồm hai phần - cơ học và Tellota, nhưng phần này cũng rất nhiều. Nếu bạn cố gắng liệt kê các vấn đề được đề cập ở đây, bạn sẽ hoàn toàn không thể hiểu được tại sao cuốn sách lại không phát triển thành một tờ giấy dày.
+
+Và đó là tất cả về kỹ năng của tác giả. Anh ta không trình bày những gì người đọc biết (hoặc nên biết) từ khóa học ở trường, và nếu anh ta nói, chẳng hạn, về định luật bảo toàn năng lượng, anh ta sẽ tiếp cận nó từ những vị trí hoàn toàn mới đối với học sinh. Cuốn sách không gây ngạc nhiên mà bổ sung và minh họa quá trình học ở trường
+
+*) Bludov M.I. Hội thoại về vật lý. Phần I, biên tập. Lần 2, làm lại M., “Khai sáng”, 1972, 176 trang, 68 k.
+
+vật lý. Hơn nữa, tất cả thông tin bổ sung này thường được trình bày dưới dạng một cuộc trò chuyện sôi nổi, thoải mái. Tác giả thường trực tiếp hướng tới người đọc hoặc sử dụng hình thức đối thoại. Vì vậy, trong chương “Công việc là gì” có cuộc trò chuyện giữa Igor và cha anh, một kỹ sư, và kết quả là định nghĩa khô khan mang một âm hưởng khác, như thể nó mang lại những sự thật sống động từ thực tế xung quanh.
+
+Kinematika có lẽ được coi là ngành vật lý nhàm chán nhất. Tuy nhiên, M.I. Bludov đã cố gắng nói một cách thú vị không chỉ về các khái niệm cơ bản của động học (tốc độ, gia tốc, v.v.), mà còn về bộ máy toán học của nó - vectơ và các phép toán với chúng. Tiếp theo là một chương (hay nói đúng hơn là một cuộc trò chuyện) về các tín hiệu an toàn trong vận tải, về đo tốc độ tự động hóa, đầu máy, tàu thủy, máy bay, gió, viên đạn.
+
+Các ví dụ về việc sử dụng các nguyên lý cơ bản của cơ học được lấy từ cuộc sống hàng ngày hoặc từ các vấn đề khoa học và kỹ thuật mới nhất mà học sinh quan tâm nhất. Tác giả rất quan tâm đến Castro, du hành vũ trụ và các ngành khoa học khác liên quan đến vật lý.
+
+Câu chuyện trở nên thú vị hơn bởi sự vắng mặt trong lịch sử và đôi khi bởi toàn bộ các phần mang tính chất giáo dục lịch sử. Ví dụ, đây là cuộc trò chuyện “Bốn khó khăn” về ý nghĩa của thuật toán Zeno *) hoặc “Cuộc trò chuyện trong kho vũ khí Veneshchan”, giới thiệu về cơ học của Galileo.
+
+Trong chương “Giấc mơ không tưởng”, người đọc được mời chứng minh tính bất khả thi của việc thực hiện các dự án khác nhau về máy chuyển động vĩnh cửu. Chương này là một bài kiểm tra xuất sắc về kiến ​​thức và giao tiếp của học sinh, đồng thời sẽ giúp phát triển khả năng suy luận logic của các em.
+
+Các chương về vật lý phân tử và hiện tượng nhiệt cũng bao gồm các tài liệu tổng quát, từ chuyển động Brown đến các yếu tố khí tượng học. Nói về trạng thái tổng hợp của vật chất, tác giả cũng đề cập đến plasma, dành nhiều không gian cho quá trình kết tinh, hiện tượng bề mặt trong chất lỏng, v.v.
+
+Cuốn sách của M.I. Bludov đã được xuất bản trong ấn bản thứ hai. Những cuốn trước đó xuất hiện vào năm 1964 đã nhanh chóng được độc giả - học sinh và giáo viên yêu thích. Cuốn sách đã được trao bằng tốt nghiệp tại Cuộc thi Sách Khoa học Phổ thông Toàn Liên minh, được tổ chức hàng năm bởi Hiệp hội Tri thức. Nội dung của nó đã có những thay đổi đáng kể, đặc biệt, một số phần mới đã được bổ sung, phản ánh những thành tựu mới nhất trong việc giải phóng không gian.
+
+Chúng tôi tin tưởng rằng phần đầu tiên của cuốn sách “Đối thoại về Vật lý” sẽ mang lại lợi ích chắc chắn cho tất cả độc giả.
+
+I. Zorich

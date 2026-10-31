@@ -1,0 +1,45 @@
+---
+id: 1974-4-zadachi-bd0f4986
+issue: kvant_1974_4
+year: 1974
+number: "4"
+title: Bài toán
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 56
+page_last: 56
+page_labels: "54"
+tag: D5V2
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: aa99d8356989d7eb04205d1e2661855a44dd4c128f2baae44833941e439ff21f
+prompt_sha256: draft-1
+translated_from: content/ru/1974/04/articles/13_zadachi-bd0f4986.md
+source_content_sha256: 5c40063edf532fe024e08814ef31e5954bdd4e27d5946cba510ba2d04b260ac7
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 54⟧
+
+Nhiệm vụ
+
+1. Hàng hóa đến thành phố $A$ dự kiến ​​sẽ được vận chuyển bằng đường sông đến một điểm nhất định $B$, sau đó bằng tuyến đường tự động dọc theo đường cao tốc $BA$ (xem hình). Chi phí vận chuyển bằng đường sông chỉ bằng một nửa so với đường cao tốc. Làm cách nào để kiểm tra đường cao tốc $AB$ để chi phí vận chuyển thấp nhất có thể?
+
+2. Hai quả bóng xenlulo có khối lượng bằng nhau nhưng đường kính khác nhau được đựng trong một bình có nước ngay dưới mặt nước. Nếu bạn thả bóng ra, quả bóng nào sẽ nhảy cao hơn? (Số điện trở không được tính đến.)
+
+3. Khi đi dạo quanh thành phố, ba sinh viên toán nhận thấy người điều khiển súng máy đã vi phạm nghiêm trọng luật lệ giao thông. Các học sinh không nhớ số xe (bốn chữ số), nhưng mỗi em nhận thấy một đặc điểm của nó:
+
+1) hai chữ số đầu tiên của số đó giống nhau;
+2) hai chữ số cuối trùng khớp;
+3) con số đó là một hình vuông hoàn hảo.
+
+Có thể tìm ra số xe bằng cách sử dụng dữ liệu này?
+
+4. Có một quả cầu kim loại tích điện trên tay cầm cách điện. Làm thế nào điện tích của quả bóng này có thể được chuyển hoàn toàn sang điện nghiệm?
+
+5. Có 5 loa được lắp đặt trên quảng trường, chia làm 2 nhóm: một nhóm có 2 thiết bị, nhóm còn lại có 3 thiết bị. Khoảng cách giữa các nhóm là 50 m. Bạn nên đứng ở đâu để âm thanh của cả hai nhóm có cường độ bằng nhau?
+
+Nghệ sĩ E. Nazarov

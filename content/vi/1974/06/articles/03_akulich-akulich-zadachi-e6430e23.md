@@ -1,0 +1,69 @@
+---
+id: 1974-6-akulich-akulich-zadachi-e6430e23
+issue: kvant_1974_6
+year: 1974
+number: "6"
+title: Bài toán
+authors:
+  - Акулич В. Ф.
+  - Акулич И. Ф.
+rubric: smes
+page_first: 11
+page_last: 11
+page_labels: "9"
+tag: JYK8
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 165138ae76c214f0643e3d20554958074e9f269f713006f0e5de0c961c8c34f3
+prompt_sha256: draft-1
+translated_from: content/ru/1974/06/articles/03_akulich-akulich-zadachi-e6430e23.md
+source_content_sha256: e11afcbb7d635afc8f8e80459d7e416ac87f94569d96f1f335958d2c07af9f43
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 9⟧
+
+Cơm. 9.
+
+Hình vẽ cho thấy các thành phần phổ của tần số thấp có sự tích hợp lớn nhất. Chúng ta thường phát hiện tác động của những xung động như vậy khi ngồi trước đài, khi xe điện, xe điện chạy qua gần đó, khi hàn điện đang hoạt động, v.v.
+
+Phần kết luận
+
+Các biểu diễn quang phổ có tính phổ quát; chúng mô tả một cách khách quan các tính chất quan trọng thực tế của bất kỳ dao động và sóng nào. Như chúng ta đã thấy, quang phổ có mối liên hệ mật thiết với hình thức và khoảng thời gian của các quá trình và tín hiệu tương ứng. Biểu diễn quang phổ giúp có thể so sánh các thông tin khác nhau (âm nhạc, lời nói, nhiễu, hình ảnh, v.v.) từ một góc độ duy nhất, xác định độ rộng phổ của các tín hiệu mã hóa chúng và dựa trên đánh giá này về khả năng truyền các tín hiệu này qua các đường truyền thông nhất định.
+
+Bài tập
+
+1. Cố gắng đảm bảo rằng quá trình tuần hoàn không đếm được $u_2(t)$ (Hình 1, b) có thể được biểu thị gần đúng bằng tổng các gót của hình sin có tần số và biên độ tương ứng với phổ của Hình 2, b và các pha ban đầu bằng 0. Thêm tọa độ đại số của các sin này trong một số chu kỳ của tín hiệu $u_2(t)$ và xây dựng đường cong kết quả.
+
+2. Trong dải tần nào các xung điện hình chữ nhật có thời lượng 10 μs, lặp lại 2.000 lần mỗi giây, gây nhiễu?
+
+Bài toán
+
+1. Nhà bán cổ điển Petya tuyên bố rằng bằng cách sử dụng la bàn và thước kẻ, bạn có thể xây dựng một phép tính gần đúng của bất kỳ góc nhọn nào với sai số abscille không quá 0,0000001 độ. Anh ấy có đúng không?
+
+2. Giải hệ phương trình:
+
+$$a^{10}\sqrt{a} + b^{10}\sqrt{b} = 1973,$$
+
+$$a^{10}\sqrt{b} + b^{10}\sqrt{a} = 1974.$$
+
+3. Có thể đặt bốn đồng xu giống hệt nhau trên một bàn phẳng sao cho mỗi đồng xu chạm vào ba đồng xu còn lại không?
+
+4. Giải mã các đẳng thức:
+
+a) $tg \times tg = ctg$;
+b) $\sin \times \sin = \arcsin$.
+
+5. Liệu đẳng thức có đúng với bất kỳ giá trị tự nhiên nào của các chữ cái không?
+
+$$\sqrt[3]{l} + \sqrt[3]{g} = \sqrt[3]{lg}$$?
+
+6. Bạn có thể “giải mã” ví dụ này bằng bao nhiêu cách:
+
+$$\frac{\phi\mathrm{ут}}{\phi\mathrm{ут}}$$
+
+V. F. Akulich
+N. F. Akulich
