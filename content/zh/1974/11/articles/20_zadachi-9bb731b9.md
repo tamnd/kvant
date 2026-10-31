@@ -1,0 +1,56 @@
+---
+id: 1974-11-zadachi-9bb731b9
+issue: kvant_1974_11
+year: 1974
+number: "11"
+title: 任务
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 76
+page_last: 76
+page_labels: "74"
+tag: 4GKQ
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: eaef3bc1fc95ce5bc568a22e38c6d0bda26c1019d85480a5a538785852311490
+prompt_sha256: draft-1
+translated_from: content/ru/1974/11/articles/20_zadachi-9bb731b9.md
+source_content_sha256: 9604e738b940802bc0b5b2fc29fd0167cbf6ebe8cfcc2043f81d697217857f49
+translation_model: draft
+translation_run: zh-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 74⟧
+
+任务
+
+1. 沃洛达在黑板上写道：
+$$1*2*3*4*5*6*7*8*9=21$$
+他还把星星和加号或减号放在一起。萨沙将几个符号转移到相反的符号上，结果，他和数字21一起得到了数字20。
+
+是不是可以说，至少有一个男孩在计算结果时出现了错误？
+
+2. 蜡烛火焰温度~1600°C。铁的熔点为1400℃。为什么指甲放在蜡烛上不会融化？ （如果你把带有耐热手柄的铁科普卡放入火焰中，它就会融化。）
+
+3. 恢复乘法记数法：
+
+颂
+米
+拍
+临床试验
+标准作业程序
+运动
+
+4. 塞格纳轮会在真空中旋转吗？ （您在图片中看到的蜘蛛状风车是塞格纳轮。）
+
+5. 找出五个数字，知道它们三个的和分别是 3、5、6、9、10、10、12、14、16 和 17。
+
+6. 这是平面上的立方体的图像。在不将铅笔从纸上抬起的情况下，绘制一条连续线，该线一次与构成图形的所有 16 个线段相交一次。
+
+这条线应该从哪里开始，又应该在哪里结束？
+
+图 E.纳扎罗娃
+
+74

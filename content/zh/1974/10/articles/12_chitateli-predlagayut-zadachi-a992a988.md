@@ -1,0 +1,56 @@
+---
+id: 1974-10-chitateli-predlagayut-zadachi-a992a988
+issue: kvant_1974_10
+year: 1974
+number: "10"
+title: 读者建议任务
+rubric: smes
+page_first: 59
+page_last: 59
+page_labels: "57"
+tag: W3O4
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: f37d137fa2cc23deccb5bea7d83b28480b6f69761a5fde0513bd1b8a8203ae4d
+prompt_sha256: draft-1
+translated_from: content/ru/1974/10/articles/12_chitateli-predlagayut-zadachi-a992a988.md
+source_content_sha256: faf90a291d2310cc0252c8dbe985cc66bc605e508ae04c9ae7d6fed352ac5240
+translation_model: draft
+translation_run: zh-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 57⟧
+
+1973 年杂志«Kvant»，表彰其在实验和理论领域的成功表现； V. Serenin（马加丹州哈辛村，北部公路，八年级）获得了红索尔莫沃工厂颁发的奖品，该工厂是为来自苏联“最远的地方”的奥林匹克运动员设立的； I. Sinser（利萨科夫斯克，库斯坦亚地区，第一乡村学校，八年级）获得了霍赫洛马工厂颁发的奖品，该工厂是为一位赢得奥林匹克运动会的女孩设立的； A. Slyusar（乌德穆尔特苏维埃社会主义自治共和国，伊热夫斯克，第30学校，八年级）作为最年轻的奥林匹克奖获得者，被共青团高尔基地区委员会授予奖品； G. Bespalova（高尔基，第40号乡村学校，9年级）荣获苏联教育部颁发的奖项，该奖项是为一位赢得奥运会的女孩设立的； V. Dobrynin（赫梅利尼茨基村17号，9年级）因解决问题的独创性而获得了《列宁斯梅纳报》的奖励； S. Kachur（穆卡切沃区伊万诺夫齐村，北部高速公路，九年级）荣获 Krasnoe Sormovo 工厂奖，该工厂是为来自农村地区的奥林匹克运动会获胜者设立的； A. Bezlesky（顿涅茨克，s.sh.No.10，10 年级）因其在理论和实验课程方面的成功研究而被授予 1973 年期刊档案«Kvant»。
+
+院士 A.V.加波诺夫-格列霍夫在奥运会闭幕式上发表讲话。他向获奖者表示祝贺，并祝愿他们取得更大的成功。随后，奥运选手们在汽车厂文化宫观看了少儿业余艺术团大型音乐会。
+
+最后，我们祝愿未来的奥运选手取得更大的成功。
+
+读者建议任务
+
+1. 证明$(1 + 6 \cdot 0) + [1 + 6 (0 + 1)] + [1 + 6 (0 + 1 + 2)] + \{1 + 6 [0 + 1 + 2 + \dots + (n - 1)]\} = n^3$。
+   L·A·马克西莫夫
+
+2. 证明方程 $x^3 + y^3 + z^3 - 3xyz = 1$
+   对于未知数$x, y, z$只有三个整数解。
+   马克西莫夫
+
+3. 证明不等式：
+   a) $(1 + x)^n + (1 - x)^n \leq 2^n$ $n > 1$、$|x| \leq 1$；
+   b) $(1 + x)^n + (1 - x)^n \geq 2^n$ $0 < n < 1$、$|x| \leq 1$。
+
+4. A、B、C 是锐角三角形 ABC 的内角。更重要的是：
+   $$\sin A + \sin B + \sin C$$
+   和。别尔科瓦科同志
+
+5. 证明$1 \cdot 2 \cdot 3 + 2 \cdot 3 \cdot 4 + 3 \cdot 4 \cdot 5 + \dots + n (n + 1) (n + 2) = \frac{(n + 1) (n + 2) (n + 3)}{4}$。
+   A.S.萨文
+
+6. 求解方程$$\frac{x + y + z}{4} = \overline{x, yz}$$。
+   A·A·贝兹诺索克
+
+7. 求解方程$$\overline{abcd} + \overline{bcd} + \overline{cd} + d = 3022$$。
+   E.于。盖尔

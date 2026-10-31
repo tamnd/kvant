@@ -1,0 +1,55 @@
+---
+id: 1975-2-venetskiy-sorkin-pyataya-matematicheskaya-olimpiada-mesi-8a6f3687
+issue: kvant_1975_2
+year: 1975
+number: "2"
+title: 第五届数学奥林匹克竞赛MESI
+authors:
+  - Венецкий И. Г.
+  - Соркин Ю. И.
+rubric: informatsiya
+rubric_sub: Информация
+page_first: 59
+page_last: 59
+page_labels: "57"
+tag: VIHD
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 61fefdb1fe5114e71d99db6baa13ec88cded2e74147838de304866d3b0995053
+prompt_sha256: draft-1
+translated_from: content/ru/1975/02/articles/18_venetskiy-sorkin-pyataya-matematicheskaya-olimpiada-mesi-8a6f3687.md
+source_content_sha256: a1fb23d163ab4b33600e08e8631aa6a414159e8b1ca7ea1f2fa3776b31751dc6
+translation_model: draft
+translation_run: zh-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 57⟧
+
+第五届数学奥林匹克竞赛MESI
+
+奥林匹克竞赛有两种类型：I - 轮次 - 函授和 II - 全日制和函授。
+
+成功比对I.类题并在1975年3月15日（以邮寄时间为准）之前送出答案的学童，将被允许参加第二次兼职和兼职.类型。莫斯科学童将被邀请到 MESI 进行全日制学习。外地学生缺席参加第二类活动。每个被第二类录取的奥林匹克参赛者都会意识到这一点。为了加快收到机构的答复，请在信函中附上写有您地址的信封。
+
+MESI 地址：119435，莫斯科，B. Savvinsky 巷，14，“Olympiad-75”。
+
+问题解决是在学生的课堂上用俄语进行的。所有提交奥林匹克竞赛的作品都将通过计算机进行检查。因此，我们要求您将下表中填写的任务的答案放在土地的末尾
+
+问题编号 1 2 3 4 5
+
+答案
+
+第一类任务：
+1. 查找数字的完整部分
+$$10\sqrt{1+\sqrt{2+\sqrt{3}+\ldots+\sqrt{1975}}}.$$
+2. 求解不等式系统：
+$$\begin{cases} 3^x+4x-9|-8| \leq 3^x-4x-1, \\ 2^{x^2}>x+1. \end{cases}$$
+3. 找到（以度为单位）$x+y$ 的最小正值，如果
+$$(1+tgx)(1+tgy)=2.$$
+4. 从三角形直角的顶点垂线到斜边。在这条垂线上，就像在直径上一样，建立了一个圆。从斜边的末端向该圆绘制切线，在点 M 和 N 处相交，并在点 L 处继续相交。
+如果斜边为 6，求切线 MZ 和 NZ 的长度。
+5. 半径为 2.5 的球在 C 点接触 paramid ABCD 的面 ABC，在 D 点接触边 BD。边 AD 的延伸在 K 点第二次与球的表面相交，因此 CK 是球的直径。
+如果 BD=10，AC=12，求参数聚酰胺的体积。
+I. G. 维涅茨基 (I. G. Venetsky)，Yu. I·索尔金

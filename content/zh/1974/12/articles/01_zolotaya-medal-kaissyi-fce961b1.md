@@ -1,0 +1,34 @@
+---
+id: 1974-12-zolotaya-medal-kaissyi-fce961b1
+issue: kvant_1974_12
+year: 1974
+number: "12"
+title: 金牌“凯萨”
+rubric: smes
+page_first: 84
+page_last: 84
+tag: M87E
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 251c6edf224146449a9412aa53182f95f6c4ea9d1316b5f32471f9e0e37ed1bc
+prompt_sha256: draft-1
+translated_from: content/ru/1974/12/articles/01_zolotaya-medal-kaissyi-fce961b1.md
+source_content_sha256: 0971f330093abfe98403a83f343e5b7611977b966942fb361e8a726acc12bdcd
+translation_model: draft
+translation_run: zh-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+金牌
+“凯斯”
+
+1974年8月5日至8日，首届世界计算机象棋锦标赛在斯德哥尔摩举行。来自8个国家的13个项目参加了此次活动。第一名是由管理问题研究所创建的苏联程序“Kanssa”。
+
+这项比赛的体育性质不应掩盖其科学意义。创建了各种下棋算法，因为这些算法可用于在复杂情况下选择解决方案的其他问题。科学家们选择国际象棋作为此类问题的模型——这在管理、经济学和其他实际领域中非常重要——因为，一方面，国际象棋规则简单，策略复杂，另一方面，算法的优点和缺点在国际象棋中清晰可见。
+
+在该杂志的最后一期中，有一篇关于如何教机器下国际象棋的文章。
+
+本期讲述堪萨斯为夺冠所做的特殊准备。
