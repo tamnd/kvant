@@ -1,0 +1,46 @@
+---
+id: 2018-8-starshov-voda-v-amerike-ne-ta-e78c4bc8
+issue: kvant_2018_8
+year: 2018
+number: "8"
+title: 美国的水不一样
+authors:
+  - Старшов М. А.
+rubric: raznoe
+rubric_sub: Разное
+page_first: 39
+page_last: 39
+tag: ZYDL
+lang: zh
+source: kvant_digital
+extraction: native
+content_sha256: 65f9c82aabf96c3d77ca6bdafc0a5a99c4892a8cd6390c073fac679ab8f61c76
+prompt_sha256: draft-1
+translated_from: content/ru/2018/08/articles/06_starshov-voda-v-amerike-ne-ta-e78c4bc8.md
+source_content_sha256: cf2cc0c172a22e5933eb43c7b4434e1f0b42129b4dbc277b98f4c8ca1a5d2e2c
+translation_model: draft
+translation_run: zh-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+我们的观察
+
+美国的水不一样
+
+斯塔绍夫
+
+我多年来一直在使用美国物理学家、诺贝尔奖获得者莱昂·库珀的一本优秀著作《每个人的物理学》（M.: Mir, 1973），“使用”这个词甚至不适合表达我对它的态度。但是，正如古老的谚语所说，即使是老妇人也会被搞砸。聪明的专业人士如何写书？容易地！但几乎每个人都对插图有疑问。然后艺术家出现在舞台上。作者给出指示：你要这样画，那样画。这位专家了解他的业务！在上述精彩书籍第一卷的第 107 页上，我们看到了奇妙的图（图1）。与此同时，我们读到了绝对正确的文字：“当我们将桨放入水中时，我们看到它断了。我们的眼睛和大脑更愿意看到它断了，而不是承认这种情况下的光不是沿直线传播。” （不幸的是，同样的图在第213页的书中重复出现。） 这里是神秘的“玛丽塞莱斯特”（Mary Celeste，“天堂玛丽”，前“亚马逊号”），船员们失踪得无影无踪。或者，也许艺术家想象了哈克贝利·费恩 (Huckleberry Finn) 的航天飞机在密西西比河上一场强烈的夜间雷暴之后。一切都很美丽，但是桨……有点坏了，而且部分方向不对。美国这么水怎么办！在使用我们的水进行的模型实验中，相机对这个物理问题的看法截然不同 (图2)。当然，这是一个玩笑——照片只是一个玩具，物理学与它完全无关。虽然对于一个小学生来说这是
+
+⟦column⟧
+
+⟦figure⟧
+
+图 1
+
+⟦figure⟧
+
+图 2
+
+可能有用；至少它教会你仔细阅读和观察。一些有趣且有用的东西可能多年来对许多专业人士来说都是眼中钉，没有人看到任何奇怪的东西。确实，必须承认，在同一个美国的另一本物理教科书中（“Phys.

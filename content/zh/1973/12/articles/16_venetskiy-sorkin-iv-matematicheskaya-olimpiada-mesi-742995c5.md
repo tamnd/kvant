@@ -1,0 +1,53 @@
+---
+id: 1973-12-venetskiy-sorkin-iv-matematicheskaya-olimpiada-mesi-742995c5
+issue: kvant_1973_12
+year: 1973
+number: "12"
+title: 第四届数学奥林匹克MESI
+authors:
+  - Венецкий И. Г.
+  - Соркин Ю. И.
+rubric: raznoe
+rubric_sub: Разное
+page_first: 51
+page_last: 51
+page_labels: "49"
+tag: TUYK
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 8bf920c400a69411781c915dfb893340f3d752c2bbc2c2e84a296da8addc33ec
+prompt_sha256: draft-1
+translated_from: content/ru/1973/12/articles/16_venetskiy-sorkin-iv-matematicheskaya-olimpiada-mesi-742995c5.md
+source_content_sha256: 43424ffcb71e1377025f73e8994df82b2f2cad5c3507787aae0e18d840f603b8
+translation_model: draft
+translation_run: zh-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 49⟧
+
+第四届数学奥林匹克MESI
+
+莫斯科经济统计学院目前在计算机信息处理和数学方法在经济学中的应用方面培养专家方面在国内处于领先地位。这就是为什么数学对于进入 MESI 的学生起着特别重要的作用。过去三年，数学和物理的入学考试都是由 Minsk-32 电子计算机进行的。今年，MESI第四次举办中小学生数学奥林匹克竞赛。
+
+奥林匹克竞赛分两轮举行：第一轮 - 函授，第二轮 - 全日制。
+成功比较第一轮问题并在 1974 年 1 月 25 日（以邮戳为准）之前寄出解决方案的学生将被允许参加在 MESI 举行的第二轮比赛。
+每个进入第二轮的奥运会参赛者都会意识到这一点。为了加快收到机构的回复，请在信件中附上写有您地址的信封。进入我们学院时将考虑在奥林匹克竞赛中取得成功。
+MESI 地址：119435，莫斯科，B. Savvinsky 巷，14，“Olympiad-74”。
+解决学生 terdini 中的俄语问题。所有提交给奥林匹克竞赛的作品都将由计算机进行检查。因此，我们要求您将问题的答案放在terdini的末尾，填写下表
+
+| 问题编号 | 1 | 2 | 3 | 4 | 5 |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 答案 | | | | | |
+
+第一轮任务
+1. 求 1973$^5$ - 1973 除以 1680 的余数。
+2. 无表计算
+   $3 \text{ ctg}^6 80^\circ - 27 \text{ ctg}^4 80^\circ + 33 \text{ ctg}^2 80^\circ$
+3. 求方程实根之和
+   $x^4 - 8 x^2 - 3200 x = 159984$.
+4. 在四边形$ABCD$中画一个圆，圆心位于边$AD$的中间，并与其他三边相交。 Find side $AD$ if $AB = 12$ cm, $CD = 75$ cm.
+5. 从直角四边形Param的高度的中间开始，在侧边上画一条垂直于4.2厘米的垂线，并在侧边上画一条垂直于3厘米的垂线。求出帕拉酰胺的体积。
+
+I. G. 维涅茨基 (I. G. Venetsky)，Yu. I·索尔金

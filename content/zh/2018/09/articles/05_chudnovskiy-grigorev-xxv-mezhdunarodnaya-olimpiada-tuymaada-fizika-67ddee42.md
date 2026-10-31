@@ -1,0 +1,43 @@
+---
+id: 2018-9-chudnovskiy-grigorev-xxv-mezhdunarodnaya-olimpiada-tuymaada-fizika-67ddee42
+issue: kvant_2018_9
+year: 2018
+number: "9"
+title: 第二十五届国际奥林匹克竞赛“Tuymaada”。物理
+authors:
+  - Чудновский А. В.
+  - Григорьев Ю. М.
+rubric: olimpiady
+rubric_sub: Олимпиады
+page_first: 40
+page_last: 40
+tag: 8TQ6
+lang: zh
+source: kvant_digital
+extraction: native
+content_sha256: 2cf73e4cd2d4589d2140417825ed6581f0000d0372c02f4dc6e2437de6f9f5de
+prompt_sha256: draft-1
+translated_from: content/ru/2018/09/articles/05_chudnovskiy-grigorev-xxv-mezhdunarodnaya-olimpiada-tuymaada-fizika-67ddee42.md
+source_content_sha256: a3e67113aa198dffca9257a0fb214d4e0fb1a4d6fbe0b277d3f28a287e3263bc
+translation_model: draft
+translation_run: zh-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+奥运会
+
+第二十五届国际奥林匹克竞赛“Tuymaada”。物理
+
+今年7月，第二十五届“图伊马达”国际物理、数学、计算机科学和化学奥林匹克竞赛在雅库茨克举行。物理奥林匹克竞赛的参赛者照常参加两个联赛：高级联赛和初级联赛（评委会根据参赛者的年龄和班级将其分配到不同的联赛）。每个联赛的奥运会都包括两轮：理论赛和实验赛。根据物理奥林匹克竞赛的计划，可以向参与者提供有关学校深入课程中包含的任何主题的问题（在初级联赛中 - 与毕业班相关的主题除外）。原始问题（理论和实验）的作者可以将它们发送到方法委员会（achudn@mail.ru） - 最好的问题将包含在最终集中，并将在奥林匹克竞赛后发表在教育期刊上。本文是根据方法手册编写的：A.V.楚德诺夫斯基，R.E.阿瓦内斯扬，A.B.阿基莫夫，S.D.瓦尔拉莫夫，V.V.埃菲莫夫，A.R.齐尔伯曼，V.M.穆拉维约夫，M.G.雷丁，G.M.塔尔诺波尔斯基。第二十五届国际奥林匹克竞赛“Tuymaada”。物理。理论之旅。有条理的手册/编辑。 AV楚德诺夫斯基 - M.-雅库茨克，2018年。以下是高级联赛理论轮的问题和奥林匹克竞赛获奖者名单。
+
+⟦column⟧
+
+理论游览
+
+高级联赛
+
+问题 1. 立方体塔 两个边长为 a 的相同轻质方形板在角处通过四个相同的轻质弹簧连接，每个弹簧的刚度为 k，弹簧的轴线垂直于板的平面。一个盘子放在水平桌子上，实验者格鲁克在第二个盘子上小心地放置（一次一个）均匀的立方体，每个立方体的质量为 m，边长为 a。如果相邻的弹簧圈不互相接触，最多多少个立方体组成的塔将保持稳定？
+
+问题 2. 取出球 一个带有侧面 a 的方形底座的高容器充满了密度为 $w_{1}$ 和 $w_{2}$ 的不混溶液体，其中关系式 $w_{1}$ 是已知的！ $w_{2}$。将两个相切的均匀球浸入液体中，使密度为$U_{1}$、半径为$R_{1}$的球接触容器底部，密度为$U_{2}$、半径$R_{2}$的球接触上部液体表面，且球的公共切面与液体之间的界面重合。什么迷你

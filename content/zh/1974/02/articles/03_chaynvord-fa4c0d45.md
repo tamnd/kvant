@@ -1,0 +1,46 @@
+---
+id: 1974-2-chaynvord-fa4c0d45
+issue: kvant_1974_2
+year: 1974
+number: "2"
+title: 华进
+rubric: smes
+page_first: 68
+page_last: 68
+tag: OKYU
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 1fa81872944d1c01dbccd05487ba7fcae9e584074cabccc641f21b854f17fb64
+prompt_sha256: draft-1
+translated_from: content/ru/1974/02/articles/03_chaynvord-fa4c0d45.md
+source_content_sha256: 2368fd667d5cd03387adb5aba19821a534f68f7af446471a394f85d577b8ffaf
+translation_model: draft
+translation_run: zh-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+华进
+
+1. 法国数学家，1812年参加拿破仑战争，被俄国人俘虏。
+2. 古希腊数学家，第一篇流传至今的数学理论论文的作者。
+3. 法国数学家，设计和构造几何学的创始人，参加了 1628 年拉罗谢尔的比较。
+4. 根纳季（Gennady），19世纪法国数学家，死于一场傻事。
+5. 第一个发现海伦公式的古希腊数学家。
+6. 长度尺寸大约等于四米。
+7. 法国著名几何学家、公众人物（1792-94年任法国海军部长）。
+8. 17世纪荷兰数学家，首先提出代数基本定理，并于1799年由高斯严格证明。
+9. 等于圆的 1/32 的角度测量单位。
+10. 一位不存在的20世纪数学家。
+11. 高等数学最重要的概念，其起源可在欧多克索斯和阿基米德身上找到。
+12. 数学家以他的名字命名了小数点后 34 位的数字 l。
+13. 古代“七贤”之一，发现了许多初等几何定理（等边三角形底角相等等）。
+14. 故意的错误选择。
+15. 数学家，笛卡尔的朋友，2^p - 1 形式的素数（其中 p 是素数）以他的名字命名。
+16. S. V. Kovalevskaya 的故事，第一位俄罗斯女性 - 数学。
+17. 古希腊人使用的一种计算装置。
+18. 中西部数学家，发现牛顿二项式公式。
+19. 中西部科学家（哲学家、数学家、医生和诗人），将于 1980 年庆祝其诞辰 1000 周年。
+20. 苏联著名天文学家、院士。
