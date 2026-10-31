@@ -1,0 +1,50 @@
+---
+id: 1973-10-v-stakan-vodyi-2396ae2c
+issue: kvant_1973_10
+year: 1973
+number: "10"
+title: 一杯水
+authors:
+  - В. Б.
+rubric: smes
+page_first: 43
+page_last: 43
+page_labels: "41"
+tag: RO6H
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 8672d9b73b704bd4b4aa70eec530f74f99cec09d161dec89513cf02a5ec13f0c
+prompt_sha256: draft-1
+translated_from: content/ru/1973/10/articles/11_v-stakan-vodyi-2396ae2c.md
+source_content_sha256: ba1d90c586338149585c371e364d3578ff5f0cc404a17472fa578dc53b48d951
+translation_model: draft
+translation_run: zh-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 41⟧
+
+表面张力
+
+$$\alpha = \frac{W}{S_1} = \frac{W' S_{CB}}{2S} = \frac{W' N_{CB}}{2} = \frac{3 \cdot 10^{-19} \cdot 10^{19}}{2} = 1,5 \left( \frac{\partial \chi}{\partial m^2} \right).$$
+
+NaCl晶体具有$\alpha \approx 0,35 \frac{\partial \chi}{\partial m^2}$。
+
+通过考虑离子之间的相互作用，我们能够估计拉伸强度、弹性模型、结合能和表面张力系数的数量级。因此，我们确信晶格离子之间的相互作用力，即作用在“微观世界”中的力，决定了固体的宏观性质。
+
+您也可以做相反的事情 - 利用发现的晶体机械性能的实验特征，确定机械相互作用力的大小。例如，根据弹性模型 $E = 10^{11} \pi / m^2$ 的已知值估计机械相互作用力的大小。
+
+我们所做的估计是在假设所讨论的晶体具有理想晶格结构的情况下进行的。在溶液晶体中，晶格的规则性被破坏。考虑到这一事实是对晶体物理性质特征进行理论计算的重要条件。我们对理想晶体所做的一些估计与实验获得的数据存在显着差异。
+
+一杯水
+
+哪一个杯子是稳定的——装满水还是半空？
+
+如果有两个形状完全相同的物体，那么重心较低的物体会更稳定。你可能知道这一点。因此，要使一杯水保持稳定，只需喝几口就足够了。在这种情况下，重心（相当于玻璃的中心）会降低。玻璃杯中应留有多少水才能使其位置最稳定？
+
+毕竟，如果你喝掉所有的水，那么重心将在同一个地方（我们将认为底部失重）。这意味着在某个时刻重心占据最低位置。在知道所有空杯和满杯的情况下，如何确定最稳定的杯中的水位应该是多少？
+
+熟悉高等数学的人已经报道过，要解决这个问题，只需通过玻璃中水位的位置来表示玻璃重心的高度，然后继续这个函数，使导数等于零，从而找到最小值。然而，这个问题有一个更简单的解决方案，无需任何高等数学。尝试找到它。
+
+V.B.
