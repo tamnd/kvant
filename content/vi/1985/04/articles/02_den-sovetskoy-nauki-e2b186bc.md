@@ -1,0 +1,70 @@
+---
+id: 1985-4-den-sovetskoy-nauki-e2b186bc
+issue: kvant_1985_4
+year: 1985
+number: "4"
+title: Ngày khoa học Liên Xô
+rubric: osnovnye-stati
+page_first: 4
+page_last: 4
+page_labels: "2"
+tag: LG9N
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: e5d955f3609d8a73cf9b6f21ecdd1d6d5af603e53076f190eccd6fe79ed4b138
+prompt_sha256: draft-1
+translated_from: content/ru/1985/04/articles/02_den-sovetskoy-nauki-e2b186bc.md
+source_content_sha256: e09f7273c5f744126b9f6f2f6cc6976034485838da01284de1f955fc719868df
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 2⟧
+
+Ngày khoa học Liên Xô
+
+Trong suốt nhiều thập kỷ, khoa học Liên Xô đã đi một chặng đường ấn tượng, đăng quang với nhiều thành tựu nổi tiếng thế giới. Con đường này có thể được minh họa bằng tuyên bố của những người sáng tạo khoa học xuất sắc của chúng ta. Họ không chỉ nói về những đặc điểm của khoa học xã hội hóa mà còn nói về những đặc điểm quan trọng nhất của nhà khoa học Xô Viết.
+
+Tiến bộ kỹ thuật và tiến bộ xã hội có mối quan hệ chặt chẽ với nhau. Tháng 10 là cơ sở cho những biến đổi xã hội to lớn, từ đó có tác động sâu sắc đến cuộc cách mạng khoa học và công nghệ.
+
+Viện sĩ M. V. KELDYSH
+
+Khoa học Liên Xô, không hề cực đoan, kết hợp chủ nghĩa thực tiễn lành mạnh, mạnh mẽ, được xác định bởi bài toán xây dựng xã hội chủ nghĩa, với logic nội tại của tư duy khoa học, đòi hỏi lời giải vấn đề khoa học để xây dựng công thức chính xác.
+
+Viện sĩ S. I. VAVILOV
+
+Chính sự tiến bộ của kiến ​​thức chức năng đã làm thay đổi các quan điểm dường như đã được thiết lập trong khoa học, mở ra những lĩnh vực mới trong khoa học và công nghệ, thay đổi hoàn toàn công nghệ, dẫn đến sự xuất hiện của các vật liệu mới và mở ra cơ hội sử dụng những hiện tượng hiện đại, mới, thường bất ngờ trong các lĩnh vực không liên quan gì đến lĩnh vực nghiên cứu ban đầu.
+
+Viện sĩ A. P. ALEXANDROV
+
+... sự phát triển của khoa học không chỉ là kết quả của quá trình thiên tài của các cá nhân, mà là thành quả của sự làm việc có tổ chức và có mục đích của nhiều con người giản dị nhưng rất thực tế, tận tâm và chăm chỉ.
+
+Viện sĩ A. I. BERG
+
+Trong trường hợp tổ chức của toán học ứng dụng, trong sự thống nhất biện chứng giữa cái trừu tượng và cái cụ thể, đặc điểm sống động và có ý nghĩa triết học nhất của toán học Xô Viết xuất hiện.
+
+Viện sĩ P. S. ALEXANDROV
+
+... vật lý hiện đại là một loại Janus hai mặt. Một mặt, nó là một ngành khoa học có cái nhìn cháy bỏng, cố gắng đi sâu vào các định luật vĩ đại của thế giới toán học. Mặt khác, nó là công nghệ cơ bản, nơi hội thảo của những ý tưởng kỹ thuật táo bạo, trụ cột quốc phòng và động lực của tiến bộ công nghiệp không ngừng.
+
+Viện sĩ L. A. ARTSIMOVICH
+
+... để khám phá, có khả năng phân tích triết học sâu sắc, làm giàu với khái niệm về những gì đang xảy ra trên toàn bộ mặt trận khoa học rộng lớn, với sự hiểu biết về sự tồn tại của các quá trình, dấu hiệu và giá trị xã hội, một nhà nghiên cứu như vậy, trong số những thứ khác, có cái nhìn rộng hơn về các vấn đề trong lĩnh vực khoa học của mình, nhìn thấy những gì thoát khỏi tầm nhìn của một số nhà khổ hạnh chuyên nghiệp.
+
+Viện sĩ R.V. KHOKHLOV
+
+Khoa học là di sản chung của con người, và bài toán của một nhà khoa học chân chính là làm phong phú thêm kho kiến ​​thức sẵn có cho mọi người.
+
+Viện sĩ A. N. KOLMOGOROV
+
+Nhà khoa học Liên Xô là người lãnh đạo đất nước mình nên lý tưởng sống và làm việc của ông trùng khớp với lý tưởng mà mọi công dân nước mình đều hướng tới. Công trình khoa học của ông được thúc đẩy bởi cùng một mục đích đã thúc đẩy cả đất nước.
+
+Viện sĩ P. L. KAPITSA
+
+Tôi tin rằng lý trí của con người sẽ thắng thế và con người sẽ không cho phép sử dụng những thành tựu khoa học vào những mục đích không phù hợp với chủ nghĩa nhân văn và đạo đức con người.
+
+Bài toán các nhà khoa học sẽ không chỉ tham gia vào việc phát triển nghiên cứu khoa học mà còn tham gia vào cuộc đấu tranh sử dụng chúng vì lợi ích của người dân trên thế giới.
+
+Viện sĩ I. I. ARTOBOLEVSKY

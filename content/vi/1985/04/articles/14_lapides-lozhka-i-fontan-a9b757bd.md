@@ -1,0 +1,43 @@
+---
+id: 1985-4-lapides-lozhka-i-fontan-a9b757bd
+issue: kvant_1985_4
+year: 1985
+number: "4"
+title: Thìa và... đài phun nước
+authors:
+  - Лапидес А. А.
+rubric: raznoe
+rubric_sub: Разное
+page_first: 37
+page_last: 37
+page_labels: "35"
+tag: QTHW
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 32a4ae9ba3a9a12f5c2aee6d50eb35bf8684d8e9441023e6ec9e2f1666bed031
+prompt_sha256: draft-1
+translated_from: content/ru/1985/04/articles/14_lapides-lozhka-i-fontan-a9b757bd.md
+source_content_sha256: bf0dd134ce059550b7a9eb6597371fc7dfffbaea90a4f89dde146bec4b9108ce
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 35⟧
+
+a $L=2260$ J/g, đối với đồng $\lambda=176$ J/g và $L=5240$ J/g. Do đó, đồng thực hiện công việc nấu chảy chính trong quá trình bay hơi. Quá trình này sẽ diễn ra liên tục khi vật liệu nằm trong vùng có dòng nhiệt mạnh.
+
+Thông thường, trong các gói hàng, vật liệu này phải “kéo dài” trong vài phút và soppa giả hợp kim hoàn toàn có thể xử lý được nguồn tài nguyên này. Các tùy chọn bộ phận khác nhau có sẵn để tăng tuổi thọ sử dụng của chúng. Ví dụ, bạn có thể tưởng tượng một bể chứa đồng nóng chảy được kết nối với một hợp kim giả - một lượng đồng bổ sung sẽ đến từ nó, bù đắp cho sự bay hơi của nó khỏi vật liệu. Theo quy luật, đây là những chi tiết công nghệ rất quan trọng nhưng không liên quan gì đến lời giải bài toán cơ bản.
+
+Trên thực tế, các quá trình phức tạp hơn xảy ra ở giả hợp kim so với những quá trình mà tôi đã phác thảo. Vật liệu được nung nóng không đều trong suốt chiều dày của nó và có thể phát sinh ứng suất nhiệt lớn trong đó, đôi khi có thể gây ra các vết nứt. Cường độ bay hơi sẽ phụ thuộc vào kích thước và cấu trúc của các lỗ xốp, độ tinh khiết hóa học của các thành phần và một số yếu tố khác. Nhưng điều này cũng đặc biệt. Điều quan trọng là chúng tôi đã tìm thấy đường dẫn chính lời giải bài toán. Chúng tôi buộc vật liệu phải hoạt động trong môi trường có nhiệt độ cao hơn điểm nóng chảy của nó.
+
+Hóa ra cũng có một tác động không thể xảy ra đối với tác động mới của đài phun nước của chúng ta.
+
+Như bạn đã biết, một vật được ném nghiêng một góc so với phương nằm ngang sẽ bay theo đường parabol. Do đó, các tia nước của đài phun nước thông thường, thành phố và cung điện, cũng tạo thành các đường parabol. Tuy nhiên, trong trường hợp của chúng tôi, điều này rõ ràng không phải như vậy - quỹ đạo mà các giọt nước di chuyển cong mạnh hơn các quỹ đạo theo hướng trục thẳng đứng của hệ. Hơn nữa, có thể chọn các điều kiện thí nghiệm theo cách sao cho ở một số nơi quỹ đạo trở nên thẳng đứng và sau đó dường như bị ép vào trục của hệ thống.
+
+Điều này có thể giải thích bằng cách xét đến hiện tượng căng bề mặt trong chất lỏng. Nếu chúng ta tưởng tượng một phần nằm ngang của đài phun nước (gần với cái thìa), thì dòng nước sẽ trông giống như một chiếc nhẫn. Vòng này dường như được kẹp giữa hai màng bề mặt, chúng tác động lên từng phần riêng lẻ của vòng với các lực hướng vào tâm. Chính những lực này đã dẫn đến độ cong quỹ đạo của một phần nước đáng kể hơn so với trong quá trình chúng chuyển động tự do.
+
+Câu hỏi được đặt ra một cách tự nhiên: sức căng bề mặt có ảnh hưởng gì đến đài phun nước thông thường không? Hóa ra là có, chỉ là ít được chú ý hơn nhiều. Nhưng hãy cố gắng tự giải thích tại sao lại như vậy.
+
+A. A. Lapids

@@ -1,0 +1,75 @@
+---
+id: 1985-3-egorov-izbrannyie-shkolnyie-zadachi-f9d12767
+issue: kvant_1985_3
+year: 1985
+number: "3"
+title: Trường học yêu thích bài toán
+authors:
+  - Егоров А. А.
+rubric: shkola-v-kvante
+rubric_sub: Школа в «Кванте»
+page_first: 24
+page_last: 24
+page_labels: "22"
+tag: 0K7D
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: b6aededd595a51350e51c78d9ef39cb89da0af7effabc7c5166b0d3a67c04387
+prompt_sha256: draft-1
+translated_from: content/ru/1985/03/articles/10_egorov-izbrannyie-shkolnyie-zadachi-f9d12767.md
+source_content_sha256: bda7b8fa4cda4081ba205a18d92bede8a16ec6d5eed62593bf6b86a1eb25e1c5
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 22⟧
+
+Vì cây lanh nhạy cảm với ánh sáng đỏ và hồng ngoại nên cực dương phát quang phát ra tia xanh lam, phylote và thậm chí cả tia cực tím. Nói cách khác, khi một hình ảnh hồng ngoại vô hình được chiếu lên tế bào quang điện, một hình ảnh nhìn thấy được sẽ được quan sát ở cực dương.
+
+Ở đây chúng tôi chỉ phác thảo sơ đồ nguyên lý hoạt động của quá trình chuyển đổi quang điện tử do Holst và các cộng sự của ông tạo ra vào năm 1933. Các thí nghiệm của họ đã chứng minh khả năng chuyển đổi một ảnh neid bước sóng dài thành một ảnh nhìn thấy có bước sóng ngắn bằng cách sử dụng hiệu ứng quang hợp.
+
+Trong 50 năm qua, công nghệ quang điện đã đi được một chặng đường dài. Hiện nay, nó không chỉ được sử dụng trong khoa học mà còn được sử dụng trong nghiên cứu khoa học, quân sự và công nghệ.
+
+Trường học yêu thích bài toán
+
+(Dựa trên cuốn sách "The Knot Tale" của Lewis Carroll)
+
+lớp 8
+
+1. Cho độ dài $a$ và $b$ của hai cạnh kề nhau của một tứ giác và góc nhọn $a$ giữa chúng. Ngoài ra, người ta biết rằng các góc của một tứ giác kề với mỗi cạnh này đều vuông. Tìm: a) các cạnh còn lại của tứ giác; b) diện tích tứ giác.
+
+2. Chứng minh rằng tổng bình phương của hai số tự nhiên khác nhau nhân với tổng bình phương của hai số tự nhiên khác nhau có thể biểu diễn dưới dạng tổng bình phương của hai số tự nhiên.
+
+3. Hai du khách rời khách sạn lên đỉnh núi lúc 3 giờ chiều và trở về lúc 9 giờ tối. Lộ trình của họ đi qua mặt đất bằng phẳng, lên dốc hoặc xuống dốc. Trên mặt đất bằng phẳng, chúng di chuyển với tốc độ 4 dặm một giờ, lên dốc với tốc độ 3 dặm một giờ và xuống dốc với tốc độ 6 dặm một giờ. Họ đi được bao xa trong khi đi bộ? Đồng thời xác định, trong khoảng thời gian không quá 30 phút, thời điểm lên đến đỉnh núi, coi khi di chuyển lên đỉnh núi, chiều dài đoạn đi lên lớn hơn chiều dài đoạn xuống.
+
+4. Trên cơ sở của tam giác này, hãy tìm một điểm sao cho đường thẳng nối các đường vuông góc vẽ từ điểm này với các cạnh song song với đáy.
+
+5. Bên trong một góc có đỉnh $B$ cho trước một điểm $P$. Vẽ một đường đi qua điểm $P$ nảy ra khỏi góc của tam giác có diện tích nhỏ nhất.
+
+lớp 9
+
+6. Hai chuyến đi đến Putrovno lúc 6 giờ sáng cùng ngày. Cả hai đều đi trên cùng một con đường và cùng một hướng. Người đi bộ $B$ ban đầu đi trước người đi bộ $A$ 14 dặm. Cả hai đều chạy từ 6 giờ sáng đến 6 giờ chiều. Vào ngày đầu tiên $A$, di chuyển suốt cả ngày với tốc độ không đổi, vượt qua 10, vào ngày thứ hai - 9, vào ngày thứ ba - 8 dặm, v.v. Người đi bộ $B$, cũng di chuyển với tốc độ không đổi trong suốt cả ngày, vượt qua 2 vào ngày đầu tiên, vào ngày thứ hai - 4, vào ngày thứ ba - 6 dặm, v.v. Người đi bộ $A$ và $B$ họ sẽ nói chuyện ở đâu và khi nào với nhau?
+
+7. Hai đường tròn cắt nhau sao cho dây chung của chúng có các góc ở tâm là 30° và 60°. Phần nào của hình tròn được bao quanh bởi hình tròn nhỏ nằm bên trong hình tròn lớn?
+
+8. Trong vòng tròn này, hãy viết một hình thang có một đáy lớn gấp đôi đáy kia và có diện tích lớn nhất.
+
+9. Một ly nước chanh, 3 chiếc bánh sandwich và 7 chiếc bánh quy có giá 1 shilling 2 pence. Một ly nước chanh, 4 chiếc bánh sandwich và 10 chiếc bánh quy có giá 1 shilling 5 pence. 2 ly nước chanh, 3 bánh sandwich và 5 bánh quy giá bao nhiêu? (1 shilling bằng 12 xu)
+
+10. Trong tam giác nhọn này, hãy viết một tam giác có các cạnh tại mỗi đỉnh của nó tạo thành các góc trên cạnh của tam giác đã cho.
+
+lớp 10
+
+11. Gọi $p$ là nửa chu vi của một tam giác nào đó, $S$ diện tích của nó và $V$ thể tích của một hình bình hành bên phải có các cạnh bằng các cạnh của tam giác. Tìm tổng bình phương các cạnh của tam giác.
+
+12. Một số người đang ngồi quanh một chiếc bàn tròn. Mỗi người ngồi có một số shilling nhất định. Người thứ nhất nhiều hơn người thứ hai 1 shilling, người thứ hai nhiều hơn người thứ ba 1 shilling, v.v. Người ngồi thứ nhất chia cho người thứ hai một shilling, người thứ hai chia cho người thứ ba hai shilling, v.v. Mỗi người đưa cho người tiếp theo nhiều hơn số tiền mình đã trả 1 shilling, miễn là có thể. Kết quả là một trong những người ngồi có tư thế cân bằng. Tìm độ dài cạnh của hình lục giác nếu độ dài các cạnh của tam giác là $a$, $b$ và $c$.
+
+13. Từ một tam giác đã cho, cắt ba hình tam giác có các cạnh thẳng, song song với nhau sao cho hình lục giác còn lại là đều. Tìm độ dài các cạnh của tam giác bằng $a$, $b$ và $c$.
+
+14. Ba tháp hình trụ có bán kính đáy 1, 2, 3 được đặt trên một mặt phẳng. Tìm một điểm trên mặt phẳng mà từ đó chiều rộng của chúng có vẻ giống nhau.
+
+15. Tất cả các mặt của tam giác paramid đều là các tam giác bằng nhau có các cạnh $a$, $b$, $c$. Tìm những điểm chung của paramida này.
+
+Ấn phẩm được chuẩn bị bởi A. A. Egorov

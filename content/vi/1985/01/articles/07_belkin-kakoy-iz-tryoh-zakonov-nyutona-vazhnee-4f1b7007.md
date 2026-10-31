@@ -1,0 +1,47 @@
+---
+id: 1985-1-belkin-kakoy-iz-tryoh-zakonov-nyutona-vazhnee-4f1b7007
+issue: kvant_1985_1
+year: 1985
+number: "1"
+title: Định luật nào trong ba định luật Newton quan trọng hơn?
+authors:
+  - Белкин И. К.
+rubric: shkola-v-kvante
+page_first: 27
+page_last: 27
+page_labels: "25"
+tag: VPZB
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 3170b1112fc2bcd08aee0e9943ec7c506b8dfb746ab4e53537b4b61dd0c0bde9
+prompt_sha256: draft-1
+translated_from: content/ru/1985/01/articles/07_belkin-kakoy-iz-tryoh-zakonov-nyutona-vazhnee-4f1b7007.md
+source_content_sha256: 4f08b27a6e9319b915e37fba3f74a4292cdff97e7b88d430f2d29ef95aa08333
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 25⟧
+
+Vật lý 8,9,10
+
+Ghi chú bên dưới, “Định luật nào trong ba định luật Newton quan trọng hơn?” dành cho ký ức, "Quy tắc của Kirchhoff" - học sinh lớp chín và "Microsocon có khả năng gì?" - học sinh lớp mười.
+Nguyên liệu được chuẩn bị bởi N.K. Belkin.
+
+Định luật nào trong ba định luật Newton quan trọng hơn?
+
+Nhiều người trả lời câu hỏi này mà không cần suy nghĩ: “Tất nhiên là câu thứ hai!” Cái đầu tiên thậm chí còn không có công thức thấp, nhưng cái thứ ba đơn giản là rất lý tưởng.” Tuy nhiên, trên thực tế điều này không hoàn toàn đúng.
+
+Việc phát hiện ra các định luật chuyển động giúp người ta có thể, trong một khoảng thời gian tương đối ngắn, đạt được thành công lớn trong việc giải thích nhiều hiện tượng trong thế giới xung quanh - từ việc mô tả chuyển động của một hòn đá được ném đến tính toán độ lệch trong chuyển động của các hành tinh so với định luật Kepler dưới ảnh hưởng của các hành tinh khác.
+
+Bước đầu tiên trong việc tìm hiểu các định luật chuyển động được thực hiện bởi Galileo Galilei, người đã xây dựng nguyên lý quán tính. Ông phát biểu rằng một vật thể hiện diện với chính nó, nghĩa là khi không có vật thể nào khác tác động lên nó hoặc hành động của các vật thể khác được bù đắp, vẫn giữ chuyển động tác dụng của nó với tốc độ không đổi nếu nó chuyển động trước đó hoặc đứng yên nếu nó được tích lũy trước đó. Bây giờ tuyên bố này có vẻ rất có ý nghĩa đối với chúng tôi. Tuy nhiên, kể từ thời Aristotle, người ta thường chấp nhận rằng khi không có tác động từ bên ngoài, một vật thể chỉ có thể tích lũy và để nó chuyển động, ngay cả với tốc độ không đổi, cần có tác động từ các vật thể khác. Thật vậy, trong một cuộc sống thăng hoa, thực tế luôn luôn, khi di chuyển, một số lực run rẩy nhất định nảy sinh, theo thời gian sẽ làm biến đổi chuyển động này (nếu nó không được hỗ trợ bởi bất cứ thứ gì).
+
+Isaac Newton còn đi xa hơn. Ông đã đưa ra đáp số cho câu hỏi tốc độ của một vật thay đổi chính xác như thế nào dưới tác động của các vật khác. Để làm điều này, ông đã xây dựng ba định luật động lực học, gọi là định luật Newton.
+
+Hệ thống đầu tiên trong số chúng thực sự lặp lại nguyên lý quán tính của Galileo, nhưng trong công thức hiện đại, nó bao gồm một ý nghĩa hơi khác: “Có những hệ thống báo cáo như vậy, được gọi là quán tính, liên quan đến các vật thể chuyển động duy trì tốc độ không đổi nếu chúng không bị tác động bởi các vật thể khác hoặc hành động của các vật thể khác được bù đắp”. Nói cách khác, định luật thứ nhất của Newton cho phép bạn chọn các hệ thống báo cáo thuận tiện nhất trong đó định luật thứ hai và thứ ba sẽ có hiệu lực. Kết quả rất đơn giản: kết hợp các tác động bên ngoài lên bất kỳ cơ quan nào và xem xét chuyển động của nó trong hệ thống báo cáo đã chọn. Nếu nó đứng yên hoặc chuyển động thẳng đều thì hệ báo cáo là quán tính, nhưng nếu các vật chuyển động có gia tốc thì hệ đó không quán tính và không phù hợp để mô tả chuyển động trực tiếp bằng định luật thứ hai của Newton.
+
+Định luật thứ hai của Newton kết nối độ lớn của lực tác dụng lên vật với gia tốc thu được: $\vec{F} = ma$. Nó cho phép bạn giải các cơ học cơ bản bài toán*) - để xác định vị trí và tốc độ của vật thể tại bất kỳ thời điểm nào bằng cách sử dụng các lực đã biết và các điều kiện ban đầu (“Vật lý 8”, Chương 6). Trong trường hợp này, lực được xây dựng như một đại lượng vật lý đặc trưng cho sự tương tác của một vật. Về nguyên tắc, sử dụng định luật thứ hai, mọi bài toán cơ học bài toán đều có thể giải được. Tuy nhiên, không có gì đề cập đến các biểu thức rõ ràng của các lực trong các định luật động lực học mà chỉ đơn giản chỉ ra sự cần thiết phải nghiên cứu các lực phục vụ cho nguyên lý làm thay đổi chuyển động của vật thể. Chỉ trong định luật vạn vật hấp dẫn của nó, vốn không phải là một trong những định luật cơ bản của động lực học.
+
+*) Nghịch đảo bài toán - tìm vận tốc, gia tốc và lực từ sự phụ thuộc đã biết của tọa độ của vật vào thời gian - được giải đơn giản hơn nhiều. Tuy nhiên, cần lưu ý rằng bằng cách này, người ta chỉ có thể xác định được trọng lượng cân bằng tác dụng lên vật chứ không xác định được từng lực riêng biệt.

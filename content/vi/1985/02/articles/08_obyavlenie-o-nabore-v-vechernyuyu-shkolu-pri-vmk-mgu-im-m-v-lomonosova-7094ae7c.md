@@ -1,0 +1,37 @@
+---
+id: 1985-2-obyavlenie-o-nabore-v-vechernyuyu-shkolu-pri-vmk-mgu-im-m-v-lomonosova-7094ae7c
+issue: kvant_1985_2
+year: 1985
+number: "2"
+title: '[Thông báo về việc tuyển sinh vào lớp học buổi tối tại Đại học quốc gia Moscow. MV Lomonosova]'
+rubric: informatsiya
+page_first: 20
+page_last: 20
+page_labels: "18"
+tag: PEFJ
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 42c1e2527b1e208c61def6f86e2b42f2d6080bf55c4781a85d525fe90452b088
+prompt_sha256: draft-1
+translated_from: content/ru/1985/02/articles/08_obyavlenie-o-nabore-v-vechernyuyu-shkolu-pri-vmk-mgu-im-m-v-lomonosova-7094ae7c.md
+source_content_sha256: a158cd5a3a5bac10157d807081ada395de2186b7d608b1b5c5eaead5d3b24086
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 18⟧
+
+trong mặt phẳng $z=z_m$. Do đó, mặt sóng là một bề mặt hình trụ và do đó, độ toàn vẹn của âm thanh giảm theo khoảng cách từ nguồn theo tỷ lệ $1/R$, trong đó $R$ là khoảng cách từ nguồn âm thanh đến nơi quan sát (so sánh sự phụ thuộc này với định luật mất tính toàn vẹn mà bạn nhận được trước đó đối với sóng âm hình cầu trong không gian ba chiều, cũng như với trường hợp sóng âm một chiều, trong đó tính toàn vẹn không thay đổi với khoảng cách nào cả).
+
+Một lý do khác cho sự suy giảm âm thanh là sự suy giảm của sóng âm khi nó truyền trong nước biển. Năng lượng sóng được chuyển thành nhiệt do ma sát trong nước. Ngoài ra, sóng âm thanh tiêu tan trong đại dương ở nhiều dạng không đồng nhất khác nhau, có thể bao gồm các hạt lơ lửng trong nước, bọt khí, sinh vật phù du và thậm chí cả bọt khí của cá. Đặc biệt, hiện tượng này được sử dụng để phát hiện các đàn cá bằng cách sử dụng định vị siêu âm.
+
+Để kết luận, chúng tôi lưu ý rằng kênh âm thanh dưới nước được mô tả không phải là ví dụ duy nhất về ống dẫn sóng tồn tại trong tự nhiên. Do đó, việc phát sóng vô tuyến xa hơn từ các đài phát thanh mặt đất chỉ có thể thực hiện được nhờ sự truyền sóng vô tuyến trong khí quyển dọc theo các ống dẫn sóng khổng lồ. Khi xác định các điều kiện trong khí quyển, các kênh dẫn sóng cũng có thể được hình thành đối với sóng điện từ có tần số trong dải ánh sáng. Sau đó, do những ảo ảnh cực xa, ở trung tâm bạn có thể nhìn thấy một chiếc thuyền buồm trống rỗng, và đột nhiên một thành phố nổi lên giữa đại dương.
+
+Ứng dụng
+Chúng ta hãy xem xét vấn đề phản xạ và truyền sóng âm tại mặt phân cách giữa hai môi trường.
+
+Thông tin
+
+Học toán buổi tối tại Khoa Toán tính toán và Knibretics của Đại học quốc gia Moscow. M. V. Lomonosov thông báo tuyển sinh mùa xuân của học sinh lớp 7-9. Mục tiêu chính của VMS là đào sâu phạm vi chương trình giảng dạy ở trường và mở rộng kiến ​​thức về toán học, dạy những điều cơ bản về lập trình và làm việc trên máy tính. Các lớp học tại trường được thực hiện dưới hình thức bài giảng và hội thảo. Các cuộc gặp gỡ với các nhà khoa học của khoa được tổ chức cho sinh viên VMS. Những người hoàn thành thành công trường sẽ nhận được chứng chỉ hoàn thành Trường Y cao hơn. Tiếp nhận ngẫu nhiên theo kết quả của chủ sở hữu, bao gồm vào lúc 10 giờ tháng 3 tại địa chỉ: 119889, Moscow, Leninskie Gory, Đại học quốc gia Moscow, Khoa Khoa học Máy tính; số điện thoại để được giải đáp thắc mắc 139-53-74.
