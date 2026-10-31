@@ -10,15 +10,15 @@ authors:
 rubric: praktikum-abiturienta
 rubric_sub: Практикум абитуриента
 page_first: 37
-page_last: 38
-page_labels: 35-36
+page_last: 39
+page_labels: 35-37
 lang: vi
 source: kvant_digital
 extraction: vision
-content_sha256: 0d8a48d88aad65e6e5a7d868ee9f6939fb1ad165ed1401a31aed0d89423fda66
+content_sha256: 5eb3a9a5857ee6f6b9bd67c56277b3bb948f30b0466d91a60984728ba09638c8
 prompt_sha256: draft-1
 translated_from: content/ru/1970/06/articles/10_nagaev-torzhkov-vstupitelnyie-ekzamenyi-po-matematike-v-moskovskom-aviatsionnom-institute-mai-1969-g-0d0a760d.md
-source_content_sha256: 71186c483dcfadb5b54a9d88efc81d37895db8c5638a48fce10d4cc96f64faf1
+source_content_sha256: 6f592b02157ae4597aecbad71266c0e419bd633a4be9a186511baf97b594dfd8
 translation_model: draft
 translation_run: vi-draft-gaps-2026-10-31
 translation_quality: draft
@@ -119,3 +119,60 @@ Nhóm lại, hãy viết
 $$4(\cos^3 x + 1) - 3(\cos x + 1) = 0,$$
 và sau đó
 $$(\cos x + 1)[4(\cos^2 x - \cos x + 1) - 3] = 0$$
+
+⟦folio 37⟧
+
+---
+running_head:
+folio:
+---
+
+$(\cos x + 1)(4 \cos^2 x - 4 \cos x + 1) = 0$.
+
+Chúng tôi nhận được kết quả giống như trong tùy chọn đầu tiên lời giải. Kế tiếp,
+
+1) $\cos x + 1 = 0; \cos x = -1$ và $x_1 = \pi (2k + 1)$;
+2) $(2 \cos x - 1)^2 = 0; \cos x = \frac{1}{2}$ và $x_2, 3 = \pm \frac{\pi}{3} + 2\pi k$.
+
+Tùy chọn 2
+
+2. Trong ví dụ này, khó khăn chính nằm ở việc viết mô hình số phức một cách chính xác. Ở đây số complexLEX là $z = x + iy$ và số complexLEX là $z + 3i = x + iy + 3i = x + (y + 3)i$. Mô đun của cái sau là $|z + 3i| = \sqrt{x^2 + (y + 3)^2}$ và bình phương của nó là $|z + 3i|^2 = x^2 + (y + 3)^2$. Vì vậy chúng ta có $x^2 + (y + 3)^2 - x - iy = 3 + 2i$.
+
+Hai số phức bằng nhau nếu phần thực và hệ số phần nhỏ nhất của chúng bằng nhau. Kể từ đây,
+
+$$\begin{cases} x^2 + (y + 3)^2 - x = 3, \\ y = -2. \end{cases}$$
+
+Giải hệ ta tìm được $x_1 = -1$ và $x_2 = 2$. Từ đây chúng ta nhận được hai số phứcLEX: $z_1 = -1 - 2i$ và $z_2 = 2 - 2i$.
+
+3. Sử dụng phương pháp logarit cơ bản, chúng ta thu được
+
+$$\log_3 (\log_2 x - 1)^2 = 2.$$
+
+Sau đó, họ đã mắc rất nhiều sai lầm, đó là lấy logarit bậc, lấy số mũ của dấu ngoặc 2 ra khỏi dấu logarit và rút ngắn phương trình đi hai. Sự biến đổi như vậy trong trường hợp này dẫn đến mất nghiệm, vì biểu thức logarit trong ngoặc đơn có thể dương, trong khi ở phương trình ban đầu, nó có thể vừa dương vừa âm.
+
+Đúng lời giải:
+
+$(\log_2 x - 1)^2 = 9$ hoặc $|\log_2 x - 1| = 3$.
+
+Do đó $\log_2 x - 1 = \pm 3$, dẫn đến hai giải pháp:
+
+1) $\log_2 x = 4$ và $x_1 = 16$;
+2) $\log_2 x = -2$ và $x_2 = \frac{1}{4}$.
+
+Cả hai nghiệm đều dương và thỏa mãn ODZ của ẩn số $x > 0$.
+
+4. Hãy biểu thị khoảng cách giữa $M$ Và $N$ bởi vì $x$. Sau đó đến lần đầu tiên từ $M$ trước cuộc gặp thứ hai đầu tiên sẽ diễn ra $(x - 50)$, và để nó từ lần gặp thứ hai đầu tiên bằng $50 + (x - 25) = x + 25$. Đường đi thứ hai từ $N$ trước cái đầu tiên cái thứ hai sẽ là $50$, và từ lần gặp thứ hai đầu tiên $(x - 50) + 25 = x - 25$. Vì chúng chuyển động đồng đều nên tỉ số đường đi của giây thứ nhất và thứ hai gặp nhau và từ giây thứ nhất đến giây thứ hai phải không âm. Từ đây ta có được phương trình
+
+$$\frac{x - 50}{50} = \frac{x + 25}{x - 25}$$
+
+hoặc $(x - 50)(x - 25) = 50(x + 25)$.
+
+5. Trước hết, cần lưu ý rằng vế trái của phương trình đã cho, với tư cách là nghiệm đối số bậc chẵn, là không âm. Do đó, vế phải của nó cũng phải không âm, tức là $x + 1 \geq 0$; từ đây là ODZ của ẩn số: $x \geq -1$.
+
+Bằng cách bình phương cả hai vế của phương trình vô tỷ, chúng ta thu được trong vùng các giá trị chấp nhận được $x \geq -1$ một phương trình bằng nó
+
+$$2(x^2 - x - 2m^2 + 2m + 2) = x^2 + 2x + 1$$
+
+hoặc
+
+$$x^2 - 4x - 4m^2 + 4m + 3 = 0,$$
