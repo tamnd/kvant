@@ -1,0 +1,53 @@
+---
+id: 2007-4-senderov-frenkin-gipoteza-katalana-f21f6b14
+issue: kvant_2007_4
+year: 2007
+number: "4"
+title: phỏng đoán Catalan
+authors:
+  - Сендеров В. А.
+  - Френкин Б. Р.
+rubric: osnovnye-stati
+page_first: 10
+page_last: 10
+page_labels: "8"
+tag: 1D5S
+lang: vi
+source: kvant_digital
+extraction: native
+content_sha256: 490dc8c082ac348346d97f17382fdf61b554dd804917c38377e8b8d37884fbb4
+prompt_sha256: draft-1
+translated_from: content/ru/2007/04/articles/01_senderov-frenkin-gipoteza-katalana-f21f6b14.md
+source_content_sha256: 04fe5af8a532428a1bdf12eb701ee40b3a14a873743267161e1e9d642dce6131
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 8⟧
+
+KVANT 2007/№4
+
+phỏng đoán Catalan
+
+V. SENDEROV, B. FRANKIN là lũy thừa (lớn hơn lũy thừa thứ nhất) của các số tự nhiên. Dãy số thu được là: 1, 4, 8, 9, 16, 25, 27, 32, 36, 49, 64, 81, ... Các số 8 và 9 không được chọn ngẫu nhiên - đây là các số tự nhiên lân cận. Câu hỏi đặt ra: các lũy thừa lân cận của các số tự nhiên có còn tồn tại không? Câu hỏi này lần đầu tiên được đặt ra bởi nhà toán học người Bỉ E. Catalan: vào năm 1844, ông đã đề xuất rằng phương trình
+
+$x^{y} - z^{t} = 1$
+
+(1) có duy nhất lời giải x = 3, y = 2, z = 2, t = 3 trong các số tự nhiên lớn hơn một. Giả thuyết này tồn tại gần 160 năm, mặc dù nhiều nhà toán học nổi tiếng đã cố gắng tìm cách tiếp cận chứng minh của nó. Năm 2003, nhà toán học người Romania P. Mihailescu đã chứng minh tính đúng đắn của giả thuyết Catalan. Bằng chứng-
+
+⟦column⟧
+
+Tác phẩm của Mihailescu rất phức tạp và không có tính sơ cấp nên không thể trình bày trên các trang tạp chí của chúng tôi. Tuy nhiên, bản thân kết quả đó gắn liền với nhiều sự kiện và bài toán toán học có thể được nghiên cứu trong khuôn khổ toán tiểu học. Ví dụ, từ định lý do Mihailescu chứng minh, chúng ta thu được ngay đáp số cho câu hỏi ở điểm a) bài toán M2032 («Kvant» Số 1 năm 2007; lời giải được xuất bản trên tạp chí này).
+
+Lý lịch
+
+Trở lại thế kỷ 14, Levi ben Gershon, còn được gọi là Leo Hebracus, đã chứng minh rằng phương trình $3^{x} - 2^{y} = \pm 1$ có duy nhất lời giải x = 2, y = 3 trong các số tự nhiên lớn hơn 1. Năm 1657, Frenicle de Bessy đã giải phương trình bằng số tự nhiên
+
+$x^{2} - p^{y} = 1$, trong đó y > 1 và p là số nguyên tố.
+
+Năm 1738, L. Euler chứng minh được phương trình
+
+Minh họa của V. Ivanyuk
+
+Hãy viết các số tự nhiên liên tiếp

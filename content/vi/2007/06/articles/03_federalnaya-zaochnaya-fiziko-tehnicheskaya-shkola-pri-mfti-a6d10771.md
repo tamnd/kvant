@@ -1,0 +1,49 @@
+---
+id: 2007-6-federalnaya-zaochnaya-fiziko-tehnicheskaya-shkola-pri-mfti-a6d10771
+issue: kvant_2007_6
+year: 2007
+number: "6"
+title: Trường Vật lý và Công nghệ Liên bang tại MIPT
+rubric: informatsiya
+rubric_sub: Информация
+page_first: 52
+page_last: 52
+page_labels: "50"
+tag: BZOI
+lang: vi
+source: kvant_digital
+extraction: native
+content_sha256: 009d34acdde335d812b4accfa73fdc034202b75ce5a7d5504b10f3492dcd5152
+prompt_sha256: draft-1
+translated_from: content/ru/2007/06/articles/03_federalnaya-zaochnaya-fiziko-tehnicheskaya-shkola-pri-mfti-a6d10771.md
+source_content_sha256: c8c6fbd45ebe80f8fd8caaef655ad5154d8edc111b5598ee51792996e72a05f9
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 50⟧
+
+KVANT 2007/№6
+
+hướng dẫn được tạo ra trên cơ sở nhiều năm kinh nghiệm của các tác giả khóa học. Kiểm tra kiến ​​thức sẽ được thực hiện bằng cách sử dụng hệ thống kiểm tra được chấp nhận rộng rãi. Chương trình học kéo dài 1 năm. Khóa đào tạo mang tính chất tương ứng và nhằm mục đích cung cấp cho học sinh tốt nghiệp - cả thành phố lớn và làng nhỏ - kiến ​​thức sâu về các lĩnh vực xã hội, chuẩn bị cho họ vượt qua thành công Kỳ thi Thống nhất và được nhận vào các trường đại học nhân đạo. Để đăng ký học, bạn phải gửi đơn đăng ký trước ngày 01/06/2008 (có ghi chú: môn “Xã hội học”). Trong đơn đăng ký, vui lòng cho biết: họ, tên, họ, địa chỉ nhà đầy đủ của bạn (có mã zip!), lớp bạn sẽ học từ ngày 1 tháng 9 năm 2008.
+
+Khoa Khoa học Máy tính
+
+Khoa được thành lập vào năm 2006. Khóa học “Lập trình cho người mới bắt đầu” được tuyển sinh. Bất cứ ai có trình độ học vấn ít nhất 7 năm trung học đều được nhận vào khoa. Để hoàn thành thành công các nhiệm vụ thực tế, bạn phải có khả năng làm việc trên máy tính. Trong năm học, sinh viên sẽ nắm vững các cấu trúc cơ bản của ngôn ngữ Pascal, nghiên cứu các thuật toán đơn giản nhất và công việc cuối cùng là viết chương trình trò chơi. Để đăng ký, bạn phải gửi biểu mẫu kèm theo câu trả lời cho các câu hỏi bên dưới. Chú ý! Đáp số Gửi các câu hỏi trong bảng câu hỏi vào một tờ sổ tay đôi, ghi rõ những câu hỏi quan trọng ở trang đầu tiên
+
+Trường Vật lý và Công nghệ Liên bang tại MIPT
+
+Trường Vật lý và Công nghệ Liên bang (FZFTSH) tại Viện Vật lý và Công nghệ Moscow (MIPT) đang tuyển dụng sinh viên từ các cơ sở giáo dục phổ thông (trường học, lyceums, phòng tập thể dục, v.v.) nằm trên lãnh thổ Liên bang Nga cho năm học 2008/09. FZFTSH tại MIPT đã hoạt động như một cơ sở giáo dục nhà nước về giáo dục bổ sung chuyên biệt cho trẻ em từ năm 1966. Trong những năm qua, hơn 80 nghìn học sinh đã tốt nghiệp trường; Hầu như tất cả sinh viên tốt nghiệp của trường đều đỗ vào các trường đại học hàng đầu của đất nước và cứ hai sinh viên MIPT thứ hai đều tốt nghiệp. Trường được tài trợ bởi Cơ quan Giáo dục Liên bang. Giáo dục dành cho sinh viên sống ở Liên bang Nga, trong khuôn khổ kế hoạch nhập học đã được phê duyệt, là miễn phí. Việc quản lý khoa học và phương pháp của trường được thực hiện bởi Viện Vật lý và Công nghệ Moscow (đại học nhà nước), nơi đào tạo các chuyên gia có trình độ cao trong các lĩnh vực khoa học và công nghệ hiện đại. Các viện nghiên cứu khoa học và công nghiệp hàng đầu cũng như các hiệp hội khoa học và sản xuất của đất nước (các tổ chức cơ sở của MIPT) tham gia vào quá trình chuẩn bị của họ. Giảng dạy tại MIPT được giảng dạy bởi các giáo viên và nhà khoa học nổi tiếng, trong số đó có khoảng 100 thành viên của Viện Hàn lâm Khoa học Nga. Nền giáo dục Vật lý và Công nghệ cho phép bạn không chỉ làm việc thành công trong lĩnh vực khoa học mà còn định hướng cuộc sống một cách tốt đẹp. Mục tiêu của trường chúng tôi là giúp những học sinh quan tâm đến vật lý và toán học đào sâu và hệ thống hóa kiến ​​thức về các môn học này, cũng như góp phần vào sự tự quyết về nghề nghiệp của học sinh. Việc tuyển sinh vào lớp 8, 9, 10 và 11 cho năm học 2008/09 được thực hiện cho các khóa học bán thời gian, bán thời gian và toàn thời gian.
+
+⟦column⟧
+
+thông tin cho chúng tôi: họ tên, lớp bạn sắp tốt nghiệp, địa chỉ bưu chính đầy đủ (có mục lục!), e-mail (nếu có). Viết mở rộng đáp số cho các câu hỏi. Hạn chót gửi bảng câu hỏi là ngày 15 tháng 5 năm 2008.
+
+Câu hỏi
+
+1. Bạn đang học khoa học máy tính ở trường? Bạn đã học những chủ đề gì? 2. Khoa học máy tính là gì? Phần “Lập trình” học gì? 3. Bạn đã học ngôn ngữ lập trình nào chưa? Cái mà? 4. Bạn biết những hệ điều hành nào? 5. Máy tính bạn đang làm việc được cài đặt những chương trình gì? 6. Bạn có quyền truy cập Internet không? 7. Bạn có biết gì: a) chu kỳ; b) mảng; c) chức năng; d) điều kiện? 8. Đệ quy và quy nạp là gì? Sự khác biệt giữa chúng là gì? 9. 15 viên sỏi được xếp thành vòng tròn theo thứ tự trọng lượng tăng dần. Nhìn bên ngoài, tất cả các viên sỏi đều khác nhau: chúng bao gồm các loại đá khác nhau, có màu sắc, hình dạng, trọng lượng, thể tích khác nhau, v.v. Làm thế nào bạn có thể sử dụng cân cốc mà không có mũi tên hoặc quả nặng để tìm viên đá nặng nhất trong khi thực hiện càng ít lần cân càng tốt?
+
+Phòng thư tín (đào tạo cá nhân) Tel./fax: (495) 408-51-45
+
+Việc tuyển sinh vào khoa thư tín được thực hiện trên cơ sở cạnh tranh dựa trên kết quả hoàn thành bài tập nhập môn về vật lý và toán học dưới đây. Chương trình đào tạo đầy đủ kéo dài 4 năm, tức là dành cho lớp 8–11, nhưng bạn có thể đăng ký vào bất kỳ lớp nào trong số này. Trong năm học, theo chương trình FZFTS, học sinh sẽ nhận được các bài tập vật lý và toán học cho từng chủ đề (4 bài tập mỗi môn cho lớp 8, 6 - 7 bài tập mỗi môn cho lớp 9, 10 và 11), sau đó là lời giải của tác giả đề xuất cho các bài tập này cùng với bài kiểm tra. Các bài tập bao gồm tài liệu lý thuyết, phân tích các ví dụ điển hình và bài toán về chủ đề liên quan và 8 - 12 câu hỏi kiểm soát và bài toán cho lời giải độc lập. Đây là cả bài toán đơn giản và phức tạp hơn (ở mức độ cạnh tranh bài toán tại MIPT). Các bài tập được biên soạn bởi các giáo viên giàu kinh nghiệm từ các khoa vật lý đại cương và toán cao cấp tại MIPT. Công việc của sinh viên bán thời gian được kiểm tra bởi các sinh viên, nghiên cứu sinh và sinh viên tốt nghiệp MIPT (80% trong số họ là cựu sinh viên tốt nghiệp của trường chúng tôi). Hạn chót nộp bài dự thi lời giải chậm nhất là ngày 1 tháng 3 năm 2008. Giấy dự thi sẽ không được gửi lại. Lời giải Hội đồng tuyển sinh sẽ được thông báo chậm nhất là ngày 1 tháng 8 năm 2008. Ngoài cuộc thi, FZFTS chấp nhận những người chiến thắng trong các kỳ thi Olympic vật lý và toán học khu vực, khu vực, cộng hòa, cấp quận và toàn Nga cho năm học 2007/08. Trước ngày 15 tháng 5 năm 2008, họ phải gửi cho FZFTSH tác phẩm nhập môn vật lý và toán học đã hoàn chỉnh, cùng với bản sao các văn bằng xác nhận tham gia các kỳ thi Olympic nói trên. Gửi một cuốn sổ tay có bài tập đã hoàn thành (về vật lý và toán học) tới:
