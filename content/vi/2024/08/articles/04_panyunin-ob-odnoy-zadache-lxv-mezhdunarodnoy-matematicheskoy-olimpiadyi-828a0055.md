@@ -52,7 +52,7 @@ KVAN T 2024/Số 8
 
 ⟦figure⟧
 
-Hình 1
+Cơm. 1
 
 cũng như tất cả các ô của cột bên dưới quái vật. Sau đó, sau khi thử thêm một lần nữa để tìm hiểu xem có quái vật nào trong các ô màu vàng hay không, không quá lần thử thứ ba, Turbo sẽ đạt được mục tiêu dọc theo một trong những con đường màu xanh lam. Tuy nhiên, lý do trên không áp dụng được trong trường hợp quái vật Turbo được phát hiện nằm ở rìa của dòng thứ hai, chẳng hạn như bên trái (Hình 2). Trong trường hợp này, nếu Turbo kiểm tra xem ô màu vàng có trống hay không, cô ấy có thể gặp phải một con quái vật, do đó lãng phí lần thử thứ hai. Nhưng bỏ qua ô này, như trong trường hợp
 
@@ -62,12 +62,12 @@ với con quái vật không ở rìa, nó sẽ không hoạt động: có một
 
 ⟦figure⟧
 
-Hình 2
+Cơm. 2
 
 ⟦figure⟧
 
-Hình 4
+Cơm. 4
 
-Hình 3
+Cơm. 3
 
-Hình 5
+Cơm. 5

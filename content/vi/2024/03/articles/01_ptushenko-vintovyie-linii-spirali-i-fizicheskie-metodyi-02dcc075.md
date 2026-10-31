@@ -44,7 +44,7 @@ DOI: https: doi.org 10.4213 kvant20240302
 
 ⟦figure⟧
 
-Hình 1. Cấu trúc không gian của phân tử DNA sợi đôi. Hình ảnh được xây dựng bằng trình hiển thị cấu trúc VMD
+Cơm. 1. Cấu trúc không gian của phân tử DNA sợi đôi. Hình ảnh được xây dựng bằng trình hiển thị cấu trúc VMD
 
 ⟦folio 25⟧
 
@@ -54,13 +54,13 @@ nhiều khám phá “cộng hưởng” hơn trong sinh học thế kỷ 20 - m
 
 ⟦figure⟧
 
-Hình 2. Phần vỏ của loài cephalopod nautilus có đường viền giống hình xoắn ốc logarit
+Cơm. 2. Phần vỏ của loài cephalopod nautilus có đường viền giống hình xoắn ốc logarit
 
 ⟦column⟧
 
 ⟦figure⟧
 
-Hình 3. Cầu thang xoắn ốc, các đường viền (lan can và mép bậc thang) tạo thành các đường xoắn ốc
+Cơm. 3. Cầu thang xoắn ốc, các đường viền (lan can và mép bậc thang) tạo thành các đường xoắn ốc
 
 Nhà hóa sinh và toán học Kim D. Rinch trở lại những năm hai mươi và đầu ba mươi của thế kỷ XX). Tuy nhiên, họ đã tìm thấy phương án hữu hình của mình và không còn chỉ là một giả thuyết suy đoán nhờ phát hiện ra cấu trúc của DNA. Cấu trúc này trong tiếng Nga đã nhận được một cái tên rất đáng tiếc, mặc dù rất hấp dẫn - "chuỗi xoắn kép". Tất nhiên, các chuỗi DNA không gấp lại thành một đường cong phẳng - hình xoắn ốc mà thành một đường xoắn ốc (Hình 2 và 3). Thật không may, bản dịch đáng tiếc này của từ xoắn ốc trong tiếng Anh, đôi khi có thể có nghĩa là một hình xoắn ốc, thật không may, đã trở nên cố thủ trong tiếng Nga. Điều gây tò mò là trong một trong những bài báo đầu tiên của mình, Francis Crick đã trực tiếp nói rằng thuật ngữ này nên hiểu thuật ngữ này là loại đường cong nào: “Một đường xoắn ốc thường được gọi một cách lỏng lẻo là hình xoắn ốc; sự khác biệt là đường xoắn ốc không quấn quanh một hình nón mà xoay quanh một hình trụ, như một cầu thang xoắn ốc thường làm” (1954). Tất nhiên, tác giả đã có một số quyền tự do ở đây; hình xoắn ốc không phải là đường cong quấn quanh một hình nón, mà là hình chiếu của nó lên một mặt phẳng vuông góc với trục của nó. Nhưng bài báo đã được đăng trên tạp chí khoa học nổi tiếng Scientific American, và sự tự do đó được cho phép. Bản dịch tiếng Nga của bài viết này đã trở thành bản dịch đầu tiên của thông điệp về cấu trúc của DNA sang
 
@@ -74,8 +74,8 @@ các tiêu chuẩn đã được thiết lập (vít bên trái thường đư�
 
 ⟦figure⟧
 
-Hình 4. Tượng đài chuột thí nghiệm ở Học viện Novosibirsk
+Cơm. 4. Tượng đài chuột thí nghiệm ở Học viện Novosibirsk
 
 Ngôn ngữ Nga hoàn toàn bỏ qua cảnh báo này của Crick, trình bày nó theo một cách khá kỳ lạ: “có nghĩa là một vết xoắn ốc không quanh một hình nón, mà xung quanh một hình trụ, tương tự như một cầu thang xoắn ốc” (1956). Bài báo đã được đăng trên một tạp chí uy tín của Liên Xô, tạp chí này sau này được đặt tên là “Tạp chí của Hiệp hội Hóa học Toàn Liên minh mang tên D.I. Mendeleev”. Tạp chí được thành lập bởi nhà hóa học xuất sắc I.L. Knunyants, và chính nhờ lòng dũng cảm và sự sáng suốt của anh ấy mà chúng tôi có được sự thật rằng bài báo này đã được xuất bản vào thời điểm mà ở nước ta, thông lệ không đề cập đến DNA như một vật chất mang tính di truyền. Tuy nhiên, cùng với tin tức về khám phá khoa học quan trọng nhất này, than ôi, sai lầm gây tò mò này cũng len lỏi vào. Trong những lần tái bản bài viết này của Crick bằng tiếng Nga sau đó, ngay cả những giải thích rõ ràng về hình dạng của DNA cũng hoàn toàn biến mất. Tuy nhiên, những điều kỳ lạ về mặt toán học với cấu trúc của DNA không dừng lại ở đó. Như bạn đã biết, ren của vít (và đây cũng là đường xoắn ốc) có thể thuận tay trái hoặc thuận tay phải, mặc dù trong cuộc sống hàng ngày chúng ta rất dễ gặp phải vít thuận tay phải do
 
-Hình 5. Tượng đài hòa bình, tốt đẹp
+Cơm. 5. Tượng đài hòa bình, tốt đẹp
