@@ -1,0 +1,48 @@
+---
+id: 2017-8-zadachi-68a3413a
+issue: kvant_2017_8
+year: 2017
+number: "8"
+title: Bài toán
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 24
+page_last: 24
+tag: U2TJ
+lang: vi
+source: kvant_digital
+extraction: native
+content_sha256: c03dd772a2bf8f50ff878adfd5d9483924b6270e57c877f0e4ba26c7b2d88287
+prompt_sha256: draft-1
+translated_from: content/ru/2017/08/articles/03_zadachi-68a3413a.md
+source_content_sha256: ba7c7c7db4715e83f46e3752c06a7afba21d8158a040f4c4e133a84f3802987d
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+“SỐ LƯỢNG” CHO HỌC SINH THI
+
+Bài toán
+
+1. a) Lần lượt điền các số từ 1 đến 6 vào các chỗ trống trong văn bản sao cho không xảy ra mâu thuẫn toán học. Sự kết thúc của từ có thể được thay đổi. b) Có bao nhiêu cách thực hiện việc này? Một ngày nọ, đàn voi hái ___ quả dừa và ___ quả chuối, ăn một phần ba số quả này và mang phần còn lại đi dạo. Mỗi con voi ___ này mang ___ trái cây. Gặp ___ voi, họ đưa hết hoa quả cho chúng. Đồng thời, mỗi con voi được ___ quả. E. Bakaev, D. Shnol
+
+⟦column⟧
+
+1 s 1. Có thể sơn bao nhiêu hình vuông lớn nhất để chúng không chạm vào các góc? A. Shapovalov
+
+3. Petya đã viết ra một số số tự nhiên khác nhau có tổng bằng 92, chỉ sử dụng hai chữ số khác nhau. Số lượng lớn nhất mà Petya có thể viết được là bao nhiêu? E. Bakaev, N. Chernyatev
+
+4.
+
+2 s 2 2 được chia thành bốn hình vuông
+
+Những bài toán này chủ yếu dành cho học sinh lớp 6–8. Những bài toán này được đưa ra tại Giải đấu Trận chiến Toán học XXIII được đặt theo tên của A.P. Savin.
+
+Minh họa của D. Grishukova
+
+2. s Mỗi mặt của hình lập phương là
+
+Một hình lục giác (không nhất thiết phải lồi), tất cả các cạnh có độ dài khác nhau, được cắt thành các hình tam giác đều. Có thể thu được số tam giác nhỏ nhất là bao nhiêu? E. Bakaev

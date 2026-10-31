@@ -1,0 +1,50 @@
+---
+id: 2017-2-stasenko-termodinamika-i-mototsikl-9798a8bf
+issue: kvant_2017_2
+year: 2017
+number: "2"
+title: Nhiệt động lực học và chu trình xe máy
+authors:
+  - Стасенко А. Л.
+rubric: shkola-v-kvante
+rubric_sub: Школа в «Кванте»
+page_first: 27
+page_last: 27
+tag: QEDJ
+lang: vi
+source: kvant_digital
+extraction: native
+content_sha256: 017aaa42389d68b7cc6a64a15370044b979af0e00e613c7a85c27253df7a99d5
+prompt_sha256: draft-1
+translated_from: content/ru/2017/02/articles/02_stasenko-termodinamika-i-mototsikl-9798a8bf.md
+source_content_sha256: f511ca689947e9fa94ddc789ee87987628be58299a9273112641285240e1b1fa
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+TRƯỜNG KVANT
+
+Nhiệt động lực học và chu trình xe máy
+
+A.STASENKO
+
+"Xin chào các vectơ cao quý! Tôi là phù thủy tốt bụng Adi Aba Ata..." Anh dẫn anh em nhà Adi Aba Ata đến đường trắc địa, chỉ đường đến Divgrad... Làm thế nào ba vectơ biến một định thức thành 0 (từ cuốn sách "Các nhà vật lý tiếp tục đùa giỡn")
+
+MỘT ngày nọ, tại Viện Vật lý và Công nghệ Mátxcơva có một cuộc hội thảo dành cho học sinh trong khuôn khổ chương trình “Bắt đầu bước vào khoa học”. Các thành viên ban giám khảo chăm chú lắng nghe phần tường trình của em học sinh lớp 9 về xe máy. Những hình ảnh nhiệt động học quen thuộc hiện lên trong đầu những người nghe có kinh nghiệm, bắt đầu từ những quá trình khí đơn giản nhất. Ví dụ: trên hình 1, ba trong số chúng được hiển thị theo tọa độ áp suất - thể tích (p, V), áp suất - nhiệt độ (p, T), cũng như trong không gian ba chiều (p, T, V). Nhiệt động lực học bắt đầu với những tình huống cụ thể này khoảng hai trăm năm trước. Bây giờ ai mà không biết luật của Gay-Lussac, Boyle-Mariotte, Charles, Mendeleev-Clapeyron! Nhưng quá trình này phức tạp hơn (để mô tả) - đoạn nhiệt, tức là xảy ra mà không trao đổi nhiệt với các vật thể xung quanh. Trên hình 2 được đánh dấu bằng số 4. Chúng ta hãy so sánh nó với quá trình đẳng nhiệt 1. Có thể thấy rằng khi chất lỏng làm việc (khí) giãn nở từ thể tích $V_{min}$ đến $V_{max}$, để duy trì nhiệt độ không đổi trong quá trình 1 thì cần phải cung cấp năng lượng từ bên ngoài, nhưng trong quá trình đoạn nhiệt 4 không có sự trao đổi nhiệt và khí phải tiêu tốn một phần năng lượng của chính nó cho cùng một mức tăng khối lượng. Do đó, nhiệt độ và áp suất của nó giảm. Rõ ràng với bất kỳ ai hiểu rằng trong trường hợp này các tham số của trạng thái có liên quan với nhau bởi các quan hệ
+
+$\gamma$
+
+$p \sim V^{-\gamma} \sim T^{\gamma -} 1$,
+
+⟦figure⟧
+
+Hình 1. Các trường hợp đặc biệt của các quá trình khí trên mặt phẳng và trong không gian ba chiều: 1 – đường đẳng nhiệt, 2 – đẳng tích, 3 – đẳng tích
+
+⟦figure⟧
+
+Hình 2. Các quá trình đồng phân và đoạn nhiệt giống nhau
+
+trong đó $\gamma = C_{p} C_{V}$ là tỷ số nhiệt dung mol của khí trong các quá trình đẳng áp và đẳng tích (chỉ số p và V tương ứng được biểu thị). Nhưng thậm chí còn có sự phụ thuộc mạnh mẽ hơn của áp suất vào nhiệt độ - theo cấp số nhân. Trong trường hợp này chúng ta đang nói về trạng thái của hơi bão hòa, tức là hơi ở trạng thái cân bằng với chất lỏng của nó. Chúng ta hãy nhớ lại công thức khí áp: áp suất p của khí quyển giảm theo chiều cao h
