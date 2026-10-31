@@ -1,0 +1,55 @@
+---
+id: 2022-7-chesnokov-moskovskiy-gosudarstvennyiy-universitet-imeni-m-v-lomonosova-c238a19c
+issue: kvant_2022_7
+year: 2022
+number: "7"
+title: 莫斯科国立大学以 M.V. 命名罗蒙诺索夫
+authors:
+  - Чесноков С. С.
+rubric: ekzamenatsionnye-materialy
+rubric_sub: Экзаменационные материалы
+page_first: 53
+page_last: 53
+page_labels: "51"
+tag: P5XU
+lang: zh
+source: kvant_digital
+extraction: native
+content_sha256: 67eaf2a25e03de2bf7be252e095bb6e443c283834d8e58714b078cd49de99fa8
+prompt_sha256: draft-1
+translated_from: content/ru/2022/07/articles/02_chesnokov-moskovskiy-gosudarstvennyiy-universitet-imeni-m-v-lomonosova-c238a19c.md
+source_content_sha256: cef5e22049d9a774a223be1d711ead2c9239c6e630a720683f0e9a6189155182
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 51⟧
+
+考试
+
+⟦figure⟧
+
+图 13
+
+磁场。通过电路的磁通量随时间线性增加：$)_{1} 2 H t, ) 2 3 H t$，其中 H 0.004 V。确定电路公共边界处导线中的电流 I。
+
+选项2
+
+1. 两个重物以相等的速度 $v_{0}^{15} м^{с}$ 同时从水平面上的一点抛出。第一个负载垂直抛出，第二个负载与水平面成角度 D 30 q。如果用 $l^{3}$ 米长的轻线将第一个重物与第二个重物绑在一起，需要多长时间才能沿直线移动？重力加速度 g 10 m $с^{2}$。忽略空气阻力。 2. 悬挂在轻质弹簧上的负载从其平衡位置垂直移动并在没有推动的情况下释放。它开始以加速度 $a g^{4}$ 下降，经过$T^{2} c$ 时间后回到起点。确定负载在这段时间内移动的距离。重力加速度 g 10 m $с^{2}$。忽略空气阻力。
+
+材料
+
+⟦column⟧
+
+3. 单原子理想气体经历循环过程 1-2-3-4 (图 14)，由两个等压线和两个绝热线组成。在气体等压膨胀过程中，其内部 图 14 能量增加 ' U，在等压压缩过程中，气体做功 A。确定循环的效率。 4.现货 $заряды^{3q,} q$ 和 Q 位于远离其他带电体的同一直线上，因此作用在每个电荷上的电力为零。定义比率 Q q。 5. 电路导体（图 15) 位于同一平面内。磁场感应矢量垂直于该平面，根据定律 B E t，感应矢量 B 的大小随时间 t 增加，其中 $E^{15} Тл^{c}$。两个相邻轮廓各自的面积为 图 15 沟 $S 10 см^{2}$。如果满足以下条件，请确定电阻器 R 两端的电压： a) 开关 K 断开； b) 钥匙 K 关闭。
+
+该出版物由 G. Gaidukov、I. Gorbaty、I. Fedorenko 编写
+
+莫斯科国立大学以 M.V. 命名罗蒙诺索夫
+
+物理学简介考试
+
+$В^{2022}$ 鉴于冠状病毒感染的持续传播，莫斯科国立大学及其塞瓦斯托波尔分校的物理专业考试（附加入学考试）在门户网站上以远程形式举行：https：exam.distant.msu.ru
+
+为了参加考试，对测试对象的工作场所提出了以下技术要求。 1) 拥有一台笔记本电脑（最好）、个人电脑、智能手机或平板电脑，具有稳定的互联网连接（测试期间不会中断，并且连接时的最低速度为 $от^{5}$ Mbit $с).^{2)}$

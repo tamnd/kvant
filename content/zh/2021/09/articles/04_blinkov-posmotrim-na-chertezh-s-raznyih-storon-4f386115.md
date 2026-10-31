@@ -1,0 +1,50 @@
+---
+id: 2021-9-blinkov-posmotrim-na-chertezh-s-raznyih-storon-4f386115
+issue: kvant_2021_9
+year: 2021
+number: "9"
+title: 我们从不同的侧面看一下这张图
+authors:
+  - Блинков А. Д.
+rubric: kaleydoskop-kvanta
+rubric_sub: Калейдоскоп
+page_first: 34
+page_last: 34
+tag: 2JXF
+lang: zh
+source: kvant_digital
+extraction: native
+content_sha256: e786abe60e3e6daad1dd32e2853aeb10753a932c8d4c3f619c47dec807b32592
+prompt_sha256: draft-1
+translated_from: content/ru/2021/09/articles/04_blinkov-posmotrim-na-chertezh-s-raznyih-storon-4f386115.md
+source_content_sha256: df2c9114540e39a18ccaf5c7273c15df195e431763e386ecd4ca15ee3ef40b26
+translation_model: draft
+translation_run: zh-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+我们从不同的侧面看一下这张图
+
+在古代，人们习惯以图画的形式呈现基本几何的事实，而不用文字。 A. Akopyan 的《几何图形》（MCNMO，2017）在小学生中很受欢迎，也是以同样的方式写的。许多教师在练习中使用现成的绘图来解决问题。但有些图可以用不同的方式解释，即在同一张图上你可以看到不同的事实。让我们举一些例子，从最简单的开始。大多数情况下，从图纸上的注释中可以清楚地看出所陈述事实的理由，但有时需要简短的$комментариев.^{1.}$ a) 三角形的中线将其分成四个相等的三角形，类似于系数为0.5的原始三角形。 b) 如果通过三角形的每个顶点画一条与对边平行的直线，则两条直线的两两交点形成一个与原始三角形相似的三角形，其系数为2。
+
+这种类型的三角形有时称为“双”三角形。
+
+2. a) 点 H 是三角形 ABC 的高（垂心）的交点。 b) 点 A、B 和 C 分别是三角形 VNS、ANS 和 ANV 的重心。
+
+A、B、C、H 这四个点称为正交中心。
+
+3. a) 锐角三角形 ABC 的垂心 H 为其直角三角形 A 1 B 1 C 1 的平分线（内切圆的圆心）的交点。 b) 锐角三角形的顶点 A、B、C 为内切圆的圆心。
+
+⟦column⟧
+
+雪橇圈为其直角三角形 $^{A}$ $1^{B} 1^{C} 1$。
+
+由相同字母表示的角度相等是根据四边形 $^{ABA}$ $1^{B} 1,^{BCB} 1^{C} 1 и^{CAC} 1^{A} 1$ 是循环四边形这一事实得出的。还利用三角形的内角和外角的平分线互相垂直。
+
+4. a) 如果P和Q是三角形ABC的外圆与边AB和AC的延长线的切点，则线段AP和AQ等于三角形ABC的半周长。 b) 设 P 和 Q 为与顶点 A 成角的内接圆的切点，则从 A 点和 P 点之间经过的圆的切线角度截取的三角形周长不取决于切线的选择。
+
+该证明使用从一点绘制到圆的切线段的相等性。
+
+5. a) 三角形ABC 的平分线与其外接圆的延长线的交点是三角形A 1 B 1 C 1 的顶点，其中线A 1 A、B 1 B 和C 1 C 包含高。 b) 锐角三角形 A 1 B 1 C 1 的高延长线与其外接圆的交点为顶点：

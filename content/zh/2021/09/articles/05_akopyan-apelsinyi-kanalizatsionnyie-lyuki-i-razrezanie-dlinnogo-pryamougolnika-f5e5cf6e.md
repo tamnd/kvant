@@ -1,0 +1,54 @@
+---
+id: 2021-9-akopyan-apelsinyi-kanalizatsionnyie-lyuki-i-razrezanie-dlinnogo-pryamougolnika-f5e5cf6e
+issue: kvant_2021_9
+year: 2021
+number: "9"
+title: 橙子、沙井和切割长矩形
+authors:
+  - Акопян А. В.
+rubric: matematicheskiy-kruzhok
+rubric_sub: Математический кружок
+page_first: 42
+page_last: 42
+tag: 99NC
+lang: zh
+source: kvant_digital
+extraction: native
+content_sha256: c4918122a56ef5178cb7d5d36422aaa21e308dab0c1f0a11b50a0745310989f9
+prompt_sha256: draft-1
+translated_from: content/ru/2021/09/articles/05_akopyan-apelsinyi-kanalizatsionnyie-lyuki-i-razrezanie-dlinnogo-pryamougolnika-f5e5cf6e.md
+source_content_sha256: 106d1d831f79a8e78992fb547503e47a03f91838fc6dfe2d80c72edc51ba650d
+translation_model: draft
+translation_run: zh-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+橙子、沙井和切割长矩形
+
+数学圈
+
+A·哈科比恩
+
+在节日餐桌上，橙子通常被切成圆片（图1）。通常，所有片段的厚度都相同，但您是否想知道这些片段中哪一个包含更多果皮：那些属于更靠近橙子中心的部分，还是那些更靠近边缘的部分？事实证明，如果切片不是“盖子”，那么果皮的数量并不取决于它属于橙子的哪一部分（当然，我们认为橙子是一个球）。在 图 2 处切下两片等厚的橙子片。您认为哪个叶瓣有更多的果皮？考虑用平面切开一个橙子（切片）。设橙子（带皮）的半径为$равен^{R,}$，橙子（不带皮的橙子）内部的半径为$равен^{r}$（图3）。 $Пусть^{d}$ — 橙子中心到剖切面的距离。我们来找一个坏的
+
+⟦figure⟧
+
+图 1
+
+DOI: https://doi.org/10.4213/kvant20210906
+
+⟦column⟧
+
+⟦figure⟧
+
+图 2
+
+d
+
+⟦figure⟧
+
+图 3
+
+保留黄色环，即属于果皮的切口部分。让我们根据毕达哥拉斯定理$R_{1}^{2} R^{2} d^{2}$和$r_{1}^{2} r^{2} d^{2}$，表示黄环$апельсина_{1}^{r} и_{1}^{R}. Площадь^{S}$部分中的圆半径等于大圆和小圆的面积差，即$S_{1}^{R} 2 S_{1}^{r} 2. C$。将这些表达式代入公式$для^{S,}$，我们得到$что^{S} S^{R} 2^{r} 2$，即仅取决于带皮和不带皮的橙子的半径。由此可见，$если^{h}$是橙子片的厚度，那么橙子皮的体积就等于$S^{h} R^{2} r^{2}$。例如，这可以使用卡瓦列里原理来解释：两个物体的所有公共割面平行于给定平面的截面面积相等，其体积相等 (图4)。事实上，根据卡瓦列里原理，切片中果皮的体积$толщины^{h}$将等于底面积$S^{R} 2^{r} 2$和高度h（即$S h R^{2} r^{2}$）的平行六面体（或圆柱体）的体积。

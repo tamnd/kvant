@@ -1,0 +1,55 @@
+---
+id: 1975-12-venetskiy-sorkin-shkundina-vi-matematicheskaya-olimpiada-mesi-295c320d
+issue: kvant_1975_12
+year: 1975
+number: "12"
+title: VI 数学奥林匹克 MESI
+authors:
+  - Венецкий И. Г.
+  - Соркин Ю. И.
+  - Шкундина Н. Б.
+rubric: informatsiya
+rubric_sub: Информация
+page_first: 68
+page_last: 68
+page_labels: "66"
+tag: 33H9
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 832397e593a347cb01546b535d8016534431765b21a14087f67072be9e59df82
+prompt_sha256: draft-1
+translated_from: content/ru/1975/12/articles/18_venetskiy-sorkin-shkundina-vi-matematicheskaya-olimpiada-mesi-295c320d.md
+source_content_sha256: ac90b3f60488a67dc613681ce6b054d806755377625ff0563a0559608a691405
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 66⟧
+
+VI 数学奥林匹克 MESI
+
+莫斯科经济与统计学院目前在经济学专业培养方面在全国处于领先地位。今年，MESI 第六次举办中小学生数学奥林匹克竞赛。
+
+奥林匹克竞赛分两轮举行：第一轮——缺席比赛，第二轮——现场和缺席。
+
+成功比较第一轮问题并在 1976 年 2 月 25 日（以邮戳为准）之前寄出解决方案的学童将被允许参加第二年类型。莫斯科学童将被邀请到 MESI 全日制参与。外地学童缺席参加第二次活动。每一位进入第二轮的奥林匹克参赛者都将被告知这一情况。为了加快收到机构的答复，请在信函中附上写有您地址的信封。
+
+MESI 地址：119435，莫斯科，B. Savvinsky 巷，14，“Olympiad-76”。
+
+学生课本中的问题解决是用俄语完成的。所有提交奥林匹克竞赛的作品都将通过计算机进行检查。因此，我们要求您填写下表，将问题的答案放在笔记本的末尾。
+
+| 问题编号 | 1 | 2 | 3 | 4 | 5 |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 答案 | | | | | |
+
+第一轮目标：
+1. 求 $19^{1975}-2^{1976}+6^{3950}$ 除以 17 的余数。
+2. 计算乘积：
+$$\left(1-\frac{1}{2^2}\right)\left(1-\frac{1}{3^2}\right)\times \left(1-\frac{1}{4^2}\right)\cdots \left(1-\frac{1}{1976^2}\right).$$
+3. 求表达式 $2\cos x+3\cos y-4\cos (x+y)$ 的最大值。
+4. 圆内接四边形的 AD 边是圆心，与四边形的其他三边相切。如果 $|AB|=2$ 厘米和 $|CD|=3$ 厘米，则求 $|AD|$。
+5. 球内接于总表面积为 $200\text{ cm}^2$ 的成功圆锥体。第二个球沿着圆锥体下底的边界接触圆锥体的侧表面。第一个球内第二个球的表面积为$9\pi\text{ cm}^2$。求成功圆锥体的体积。
+
+NG Venetsky，Yu. N. 索尔金、N. V. 什昆迪纳
