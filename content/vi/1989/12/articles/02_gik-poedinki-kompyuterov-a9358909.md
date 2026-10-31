@@ -1,0 +1,69 @@
+---
+id: 1989-12-gik-poedinki-kompyuterov-a9358909
+issue: kvant_1989_12
+year: 1989
+number: "12"
+title: Trận chiến máy tính
+authors:
+  - Гик Е. Я.
+rubric: shahmatnaya-stranichka
+rubric_sub: Шахматы
+page_first: 83
+page_last: 83
+tag: 9WJZ
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 657f6fe0d8388b049cdad74dd84ccc305d8f599779e37ee802630321899af80a
+prompt_sha256: draft-1
+translated_from: content/ru/1989/12/articles/02_gik-poedinki-kompyuterov-a9358909.md
+source_content_sha256: a3481a2d6baeb4d2f5e9cec0d1f1089a2a9d36bd515aacbb7ea065e18d8d6ab0
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 28⟧
+
+TRẬN ĐẤU
+MÁY TÍNH
+
+Lần trước chúng tôi đã giới thiệu một số trò chơi trên máy tính với những người chơi cờ. Có lẽ độc giả «Kvant» lại càng hứng thú hơn với trò chơi của các kỳ thủ điện tử. Nói về trận đấu chính của giải vô địch thế giới lần thứ tám giữa các máy vi tính cờ vua（《Kvant》 số 8 năm 1989), chúng tôi giới hạn trận đấu đó ở một ván mà Fidelity đã thắng. Tuy nhiên, cuộc chiến, như chúng ta nhớ, đã kết thúc với phần thắng nội bộ của “Mephisto”.
+
+"Mephisto" - "Sự trung thành"
+Phòng thủ Slav
+1. d4 d5 2. Kf3 Kf6 3. c4 c6 4. Kc3 e6 5. e3 Kbd7 6. Cd3 dc 7. C:c4 b5 8. Cd3 a6 9. e4 c5 10. e5 cd 11. K:b5 K:e5 12. K:e5 ab 13. C:b5+ Cd7 14. K:d7 Qa5+ 15. Cd2 Q:b5. Cho đến nay mọi thứ đều nằm trên lý thuyết, vị trí sau 16. K:f8 Kp:f8 17. a4 Ф:b2 được coi là bằng nhau làm ví dụ. Mephisto chọn một con đường mới. 16. K:f6+ gf 17. a4!? Qxb2 18. 0—0 Cd6 19. Qf3! Trắng có hành động quyết định. 19...Ke7 20. Rfb1! C:h2+ 21. Kp:h2 Q:d2 22. Rb7+ Kpd6 23. Jld1 Qh6+ 24. Kpg1 Jl:a4 25. Qc3! Rlb8 26. Qc7+ Kpd5 27. Jl:b8. Mọi chuyện kết thúc: quân xe bị bắt, theo sau là quân hậu - 27...Kpe4 28. Qc2+ Kpf4 29. Qc1+ và 30. Q:h6.
+
+Trong giải vô địch thế giới lần thứ ba giữa các máy tính lớn (1980), chương trình "Kansa" của Liên Xô, nhà vô địch thế giới đầu tiên, không có phong độ thể thao tốt nhất; nó đã thắng một trong những trò chơi với phong cách chọn vị trí tốt.
+
+"Miches" - "Kansa"
+Phòng thủ cổ của người Ấn Độ
+1. d4 Kf6 2. c4 c5 3. d5 d6 4. Kc3 g6 5. Kf3 Cg7 6. e4 0—0 7. Cg5 h6 8. C:f6 C:f6 9. Qd2 h5 10. 0—0—0 Cg4 11. Ce2 Kd7 12. h3 C:f3 13. C:f3 Qa5 14. g4 Cd4 15. Kpb1 Ke5 16. Ce2 C:f2 17. gh Cd4 18. hg fg 19. Kb5 Q:d2 20. Jl:d2 Ce3 21. Jld1 Jlf2 22. Kc3 Raf8 23. h4 Cd4 24. Jld1 Jlf4 25. Jlc1 C:c3 26. Jlc3 Jl:e4 27. Jlc2 Jlf2 28.
+
+Cd1 Jl:c2 29. Kp:c2 Jl:c4+ 30. Kpd2 Jl:d4+ 31. Kpe3 Kc4+ 32. Kpe2 K:b2, và Đen đã bán những con tốt dư của mình.
+
+Ở Hoa Kỳ, các giải vô địch quốc gia và các cuộc thi khác giữa các máy tính đã được tổ chức trong nhiều năm, thành phần sinh viên không khác mấy so với các diễn đàn máy tính cao nhất. Trận đấu tiếp theo diễn ra tại một trong những giải vô địch Mỹ.
+
+"Cờ vua" - "Daches"
+bảo vệ Scandinavia
+1. e4 d5 2. ed Q:d5 3. Kc3 Qd6 4. d4 Cf5 5. Kf3 Kc6 (tốt hơn 5...c6) 6. Kb5 D7 7. Cf4 Jlc8 8. Ke5 K:e5 9. de! Qc6 10. Qf3. Razmenferey trong phiên bản này tước đi quyền chủ động của Trắng. Đúng là 10. Qe2! Q:c2 11. Q:c2 C:c2 12. Rlc1 Ce4 13. K:c7+ Kpd8 14. e6 tấn công mạnh mẽ. 10...Q:f3 11. gf a6 12. Kd4 Cd7 13. 0—0—0 g6. Đáng lẽ Trắng phải chọn 13. e6!, nhưng bây giờ Đen có thể ngăn chặn bước đột phá này bằng cách tiếp tục 13......e6. 14. Kb3 Jld8. Một lần nữa Trắng lại chờ đợi đúng đắn với e5 - e6, và Đen vì lý do nào đó không chú ý đến mối đe dọa này. 15. Ka5 Cc8 16. Jl:d8+ Kp:d8 17. Cc4 Kpe8 18. Jld1. Một lần nữa, Đen lại bỏ lỡ cơ hội cản phá e5 - e6, và Trắng không tận dụng được cơ hội này. 18...Ch6 19. Cd2 Cg7 20. Cc3 Cc6? 21. e6! Cuối cùng! 21...Ch6+ 22. Kpb1 f6 23. K:b7! C:b7 24. Ca5 Kpf8 25. Jld7! Một động thái lặng lẽ hoàn thành sự kết hợp một cách duyên dáng. 25...Cf4 26. h3 Ce5 27. Jl:b7 g5 28. C:a6 h5 29. a4 Jlh6 30. Cc4 f5 31. Cd2 Jlg6 32. a5 Cd4 33. a6 C:f2 34. a7 C:a7 35. Jl:a7, và Trắng chiếm thế thượng phong.
+
+Tại Giải vô địch Bắc Mỹ năm 1986, nhà vô địch máy tính lớn thế giới hai lần Cray Blitz phải chịu thất bại đầu tiên sau chuỗi ba năm toàn thắng.
+
+"Cray Blitz" - "Bebe"
+Phòng thủ Sicilia
+1. e4 c5 2. Kf3 d6 3. d4 cd 4. K:d4 Kf6 5. Kc3 g6 6. Cg5 Cg7 7. Qd2 Kc6 8. 0—0—0 0—0 9. Kb3 Jle8 10. Cc4 Kg4
+
+11. h3 Kge5 12. Cb5 a6 13. Ce2 a5 14. Cb5 Ce6 15. Kd5 a4 16. Kd4 Cd7. Tôi đã từ bỏ lý thuyết máy móc trong một thời gian dài, nhưng tôi chưa mắc phải sai lầm nào rõ ràng trong trò chơi vận động. Lúc này Đen dọa thắng quân: 17...K:d4 18. C:d7 K:d7. Tuy nhiên, quân trắng của đối phương thực hiện thêm vài nước đi và không thể chịu được nhịp độ khác: 17. Ce2. 17. Ce3 cũng được chấp nhận. Nhưng thật bất hạnh, chiếc máy tính đã bắt đầu một hoạt động thay đổi.
+
+17. K:kc bc 18. K:e7+ Jl:e7 19. C:e7 F:e7 20. Ce2. Có lẽ Trắng đã tính toán rằng mình sẽ lấy một con tốt khác và sẽ không phá vỡ sự bình đẳng vật chất trên bàn cờ. Nhưng trong một ván cờ mở, hai quân phụ luôn mạnh hơn quân xe, ngay cả khi có nhiều quân tốt đi kèm. Thông tin nghiên cứu tâm lý máy chơi cờ vua! 20... ... Qe6 21. Kpb1 Jlb8. 22...Jl:b2+ 23. Kp:b2 Kc4+ đe dọa, và Trắng buộc phải tạo ra những điểm yếu mới cho phe hậu của mình. 22. b3 ab 23. cb Ce8 24. Kpc2 Kd7 25. f3 Jla8 26. Kpc1 Kc5 27. Fc2 Qf6 28. Cc4 Qa1+ 29. Kpd2 Q:a2 Jl:a2+, Đen dễ dàng nhận ra lợi thế.
+
+"Mark V" - "Hinton"
+Phòng thủ Karo-Kanni
+1. e4 c6 2. c4 d5 3. ed cd4 cd Kf6 5. Qa4+ Cd7 6. Qb3 Qc7. Về mặt lý thuyết tiếp tục 6...Ka6, không mô tả 7. Qb7 Kc5 8. Qb4 e6, và sau 7. C:a6 ba 8. Kc3 Jlb8 Đen có đủ khả năng phản đòn. Vị trí của quân hậu ở c7 sẽ sớm khiến “Mark” phải nghĩ đến sự kết hợp đối xứng.
+
+7. Kc3 g6 8. d4 Cg7 9. Cf4! Một sự kết hợp về chủ đề mất tập trung. 9...Q:f4 10. Q:b7 0—0 11. Kge2 Qf5 12. Q:a8 Kc6 13. Kg3! Qc2 14. Qb7 Jlb8.
+
+Có vẻ như hoạt động tìm hiểu quân xe của Trắng đã thất bại: bây giờ Jl:b2 đã quyết định thiếu quân hậu, 15. dc Jl:b7 16. cb Q:b2 cũng không phù hợp. Tuy nhiên, sau đó lại có một “sự phân tâm” mới với sự giúp đỡ của vị giám mục thứ hai. 15. Cd3! Bạn hiếm khi gặp trường hợp như vậy ngay cả trong trò chơi quân xe! 15...Q:d3 16. dc. Đen thì ngọt: sau 16...Jl:b7 17. cb Tốt trắng tự tin thăng làm hậu.
+
+E. Vâng. Gik

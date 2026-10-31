@@ -1,0 +1,37 @@
+---
+id: 1989-11-esche-raz-o-spletayuschihsya-pryamyih-38c44610
+issue: kvant_1989_11
+year: 1989
+number: "11"
+title: Một lần nữa về những đường nét đan xen
+rubric: nam-pishut
+rubric_sub: Нам пишут
+page_first: 35
+page_last: 35
+page_labels: "33"
+tag: L0TW
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 8de6e3172ccd5ff30302c7b16ffff841c66eba974cbbf91d5be3746075518cb2
+prompt_sha256: draft-1
+translated_from: content/ru/1989/11/articles/08_esche-raz-o-spletayuschihsya-pryamyih-38c44610.md
+source_content_sha256: 09d5248283383cd1fc5bd050446a66ef484beaeeff9a6016e498d055e5e10682
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 33⟧
+
+Một lần nữa về những đường thẳng đan xen
+
+Bài toán M1085 (để biết các điều kiện, xem «Kvant» số 1 và lời giải trong «Kvant» số 5 năm 1988) đã thu hút sự quan tâm của nhiều độc giả của chúng tôi. Chúng tôi đã xuất bản một trong những tấm bưu thiếp dành cho cô ấy ở vị trí «Kvant» số 6 trong năm nay. Chúng ta hãy nhớ lại rằng trong bài toán chúng ta đang nói về cách xác định từ hình chiếu của một tập hợp các đường thẳng lên một mặt phẳng xem sự sắp xếp tương ứng của chúng trong không gian có khả thi hay không.
+
+Một học sinh lớp 10 tại trường nội trú số 18 ở Moscow, A. Skopenkov, đã phát hiện ra một chuỗi các đường dệt $L_n$ có đặc tính thú vị sau: mỗi đường dệt không thể được thực hiện trong không gian, nhưng khi loại bỏ một đường thẳng khỏi đường dệt, nó sẽ trở thành hiện thực. Đám rối thứ $n$ $L_n$ ($n=2, 3, 4, \dots$) bao gồm đường $(2n+1)$; quy luật xây dựng của nó rõ ràng từ hình 1-3, mô tả các điểm xen kẽ tương ứng với $n=2, 3$ và 4. Xin lưu ý rằng các giao điểm của từng đường của các điểm xen kẽ $L_n$ từ các thiết bị khác đều giống nhau: đầu tiên, đường này đi qua $(n-1)$ lần dưới các đường giao nhau với nó, sau đó một lần ở trên chúng, rồi lại ở dưới, và sau đó là $(n-1)$ lần ở trên chúng (hình 4).
+
+Bằng chứng về sự cần thiết của việc dệt $L_n$ có thể thu được ở hai mục lời giải a) của bài toán M1085. Hãy xem điều gì sẽ xảy ra nếu chúng ta xóa một đường thẳng khỏi $L_n$, ví dụ $l_i$ đến hình 4.
+
+Giả sử rằng sự đan xen $L'_n$ được hình thành bởi các đường còn lại không thể thực hiện được trong không gian. Sau khi loại bỏ $l_i$ các đường thẳng $l_{i-1}$ và $l_{i+1}$ có thể được xoay trong mặt phẳng thẳng đứng mà không thay đổi hình chiếu ngang của chúng, được tạo thành theo chiều dọc và “kéo ra” khỏi đám rối. Sau đó, sự đan xen còn lại sẽ vẫn không thể thực hiện được. Nhưng bây giờ chúng ta có thể loại bỏ các đường thẳng $l_{i-2}$ và $l_{i+2}$ bằng cách xoay trong mặt phẳng thẳng đứng theo cách tương tự, duy trì tính không thể thực hiện được của phần đan xen còn lại, v.v. Kết quả là, sự đan xen còn lại chỉ bao gồm hai đường thẳng, rõ ràng là được hiện thực hóa trong không gian. Điều này mâu thuẫn với giả định rằng $L'_n$ là không thể thực hiện được.
+
+Quá trình tan rã của mớ $L_n$ sau khi loại bỏ một đường thẳng của bánh xe Borromean sau khi loại bỏ bất kỳ trong số chúng - hình 5, lấy từ bài báo của A. T. Kalinin (xem «Kvant», 1981, số 9).

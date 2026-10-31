@@ -1,0 +1,38 @@
+---
+id: 1989-10-zadachi-3d8ab9f2
+issue: kvant_1989_10
+year: 1989
+number: "10"
+title: Bài toán
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 45
+page_last: 45
+tag: EWSW
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: e3dc6ad5f395c9d3b7f48c845537c21db02a6f5e63f10c160208149d1e41b874
+prompt_sha256: draft-1
+translated_from: content/ru/1989/10/articles/11_zadachi-3d8ab9f2.md
+source_content_sha256: 1c9fad2db4b66c57a96ca8fcd5db37e7a3342c04be7355f11285195eaaa6983f
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+Bài toán
+
+1. Theo hợp đồng, người lao động được trả 48 franc cho mỗi ngày làm việc và 12 franc cho mỗi ngày không làm việc. Sau 30 ngày, người nhân viên này biết được rằng không có gì được chấp nhận cho anh ta. Trong 30 ngày đó người lao động làm việc bao nhiêu ngày?
+
+2. Lyudmila trẻ hơn ông nội 6 lần; nếu bạn đặt số 0 giữa các số tuổi của cô ấy, bạn sẽ có tuổi của người tiền nhiệm. Cô ấy bao nhiêu tuổi?
+
+3. Một số có ba chữ số gấp 5 lần tích các chữ số của nó. Đây là số mấy?
+
+4. Giải câu đố số học bạn nhìn thấy ở hình. Được biết, BÒ có kích thước lớn hơn Bò sữa. Như thường lệ, các chữ cái giống nhau tương ứng với các số giống nhau và các số khác nhau tương ứng với các số khác nhau.
+
+5. Các cạnh đối diện của hình lục giác lồi bằng nhau và song song. Lấy ba đỉnh của hình lục giác qua một, chúng ta sẽ có một hình tam giác màu đỏ (xem hình). Chứng minh rằng diện tích của hình tam giác này bằng một nửa diện tích của hình lục giác.
+
+Bài toán Số 1 là bài toán của nhà toán học vĩ đại người Pháp thế kỷ 18 E. Bezu, phần còn lại bài toán được gợi ý cho chúng tôi bởi sinh viên của 105 trường ở Odessa V. N. Rusanov, G. L. Pelts, M. V. Volkov, V. V. Proizvolov.

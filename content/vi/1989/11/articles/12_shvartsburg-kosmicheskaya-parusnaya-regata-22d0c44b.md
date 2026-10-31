@@ -1,0 +1,47 @@
+---
+id: 1989-11-shvartsburg-kosmicheskaya-parusnaya-regata-22d0c44b
+issue: kvant_1989_11
+year: 1989
+number: "11"
+title: Cuộc đua thuyền buồm không gian
+authors:
+  - Шварцбург А. Б.
+rubric: raznoe
+rubric_sub: Разное
+page_first: 45
+page_last: 45
+page_labels: "43"
+tag: L7LY
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: acf79c5d60ed3497184ed0209b2a97a0c4919fca65f1f06677cd64d682f51efa
+prompt_sha256: draft-1
+translated_from: content/ru/1989/11/articles/12_shvartsburg-kosmicheskaya-parusnaya-regata-22d0c44b.md
+source_content_sha256: 35c3095d0f59ed257a841cde63df1046c573174c7b9ef8911cc915b69815d51c
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 43⟧
+
+Cuộc đua thuyền buồm không gian
+
+Vào tháng 12 năm 1988, một cuộc thi quốc tế bắt đầu nhằm phát triển các thiết kế tàu vũ trụ (SV) có cánh buồm mặt trời. Cuộc thi được công bố bởi một ủy ban do Quốc hội Hoa Kỳ thành lập nhân dịp kỷ niệm 500 năm ngày phát hiện ra châu Mỹ. Các điều khoản của cuộc thi quy định việc phóng ba tàu vũ trụ - một từ Châu Mỹ (Bắc và Nam), một từ Châu Âu và một từ Châu Á - dọc theo tuyến đường Trái Đất-Mặt Trăng-Sao Hỏa.
+
+Chuyển động dưới cánh buồm mặt trời có liên quan đến áp suất của ánh sáng mặt trời lên bề mặt gương của cánh buồm đó, đó là một màng kim loại mỏng (thường là nhôm) được phủ lên đế polymer để tăng độ bền.
+
+Để thực hiện chuyến bay quốc tế, trước hết bạn cần phóng tàu vũ trụ vào quỹ đạo của một vệ tinh nhân tạo Trái đất và giương buồm (sơ bộ cuộn nó lại). Sau đó, gia tốc sẽ bắt đầu dọc theo một quỹ đạo quốc tế, là một đường xoắn ốc logarit có tâm ở Mặt trời. Do đó, thiết bị sẽ đi vào quỹ đạo gần mặt trăng hoặc gần sao Hỏa.
+
+Cuộc thi dự kiến ​​​​được tổ chức thành ba loại, kết thúc vào ngày 12 tháng 10 năm 1989, 1990 và 1991. (Ở mỗi loại, có thể tài trợ một phần cho công việc với chi phí của ban tổ chức lễ kỷ niệm ở Hoa Kỳ.) Việc phóng tàu vũ trụ đã phát triển được đề xuất thực hiện vào ngày kỷ niệm 500 năm phát hiện ra châu Mỹ - ngày 12 tháng 10 năm 1992.
+
+Trọng lượng của thiết bị được ra mắt để kỷ niệm 500 năm ngày phát hiện ra châu Mỹ, được giới hạn ở mức 500 kg. Chính xác hơn, các nhà thiết kế chỉ có thể tùy ý sử dụng 499 kg và 1 kg tương ứng với cái gọi là tải trọng bắt buộc, bao gồm bằng chứng về các di tích lịch sử và văn hóa nổi bật của mỗi châu lục. Hàng hóa này là một bãi chứa trên bề mặt Mặt trăng hoặc Sao Hỏa cùng với danh sách danh dự gồm hàng trăm tên tuổi của các hoạt động văn hóa, khoa học và kinh tế đã làm rạng danh lục địa này. Đối với những người châu Âu tham gia cuộc thi, hàng hóa bắt buộc phải bao gồm các bản sao của Hiến chương vĩ đại, bản sao Cựu Ước và Tân Ước, bản nhạc của Bản giao hưởng số 9 của Beethoven và Tuyên ngôn Quốc tế Nhân quyền. Các thí sinh đến từ Mỹ phải gửi vào không gian các tượng đài tôn giáo của người Inca, chân dung của Simon Bolivar, một phần của bộ nhớ máy, bản sao Hiến pháp Hoa Kỳ và Tuyên ngôn Độc lập. Đối với các cuộc thi từ Châu Á, các bản sao của Truyền thuyết Gilgamsha, văn bản toán học đầu tiên, việc sử dụng ký hiệu “0” và hệ thống số thập phân được cung cấp.
+
+Mục đích chính là vận hành và thực hành kỹ thuật bay dưới cánh buồm mặt trời. Về vấn đề này, sẽ cần phải giải quyết một số nhu cầu bài toán của công nghệ vũ trụ (có thể sử dụng lực quán tính ly tâm phát sinh từ vệ tinh để bung cánh buồm, cuộn nó lại khi phóng vệ tinh vào quỹ đạo không?), vật lý (nó làm gì với một điện tích lớn sẽ tích tụ trên một cánh buồm có diện tích vài ha khi di chuyển trong plasma không gian?), điều hướng (làm thế nào để điều khiển chuyển động theo quỹ đạo xoắn ốc?).
+
+Bất kỳ nhà khoa học và kỹ sư không cầm quyền nào cũng có thể tham gia cuộc thi đã công bố. Trong số những người tham gia có các nhóm đến từ các công ty lớn (Westingas, Aero-Italia) và các trường đại học nổi tiếng ở Châu Âu và Châu Mỹ. Các nhóm từ ngành công nghiệp và Viện Hàn lâm Khoa học Liên Xô đang tham gia từ nước ta. Ban tổ chức cuộc thi đặc biệt quy định sự tham gia của ít nhất năm học sinh trong mỗi đội.
+
+Dựa trên tỷ lệ hoàn thành các cuộc thi đã được công bố, ba năm còn lại trước khi bắt đầu là một khoảng thời gian rất ngắn. Trong điều kiện như vậy, thành công chỉ có thể đạt được khi dùng bữa với giáo viên đến từ các quốc gia khác nhau. Sự hợp tác như vậy, trái ngược với mức độ xanh và cấu trúc cao của cuộc đua thuyền buồm không gian, là nét đặc trưng của cuộc đua thuyền buồm quốc tế đầu tiên này.
+
+A. V. Schwartzburg
