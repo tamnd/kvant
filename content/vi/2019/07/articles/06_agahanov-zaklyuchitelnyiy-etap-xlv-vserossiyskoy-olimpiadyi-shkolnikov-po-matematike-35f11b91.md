@@ -1,0 +1,55 @@
+---
+id: 2019-7-agahanov-zaklyuchitelnyiy-etap-xlv-vserossiyskoy-olimpiadyi-shkolnikov-po-matematike-35f11b91
+issue: kvant_2019_7
+year: 2019
+number: "7"
+title: Giai đoạn cuối cùng của Olympic toàn Nga XLV dành cho học sinh môn toán
+authors:
+  - Агаханов Н. Х. и др.
+rubric: olimpiady
+rubric_sub: Олимпиады
+page_first: 42
+page_last: 42
+page_labels: "40"
+tag: P5M3
+lang: vi
+source: kvant_digital
+extraction: native
+content_sha256: 74d62df43349e464c4fead830c46d6cb9d750c92c49920de78e1c99a564240a1
+prompt_sha256: draft-1
+translated_from: content/ru/2019/07/articles/06_agahanov-zaklyuchitelnyiy-etap-xlv-vserossiyskoy-olimpiadyi-shkolnikov-po-matematike-35f11b91.md
+source_content_sha256: 8a2ccc79d9883a0da433b8e3f3e84d6b317bdbc40fc7b6f35b192130dfe90bb4
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 40⟧
+
+KV AN T 2019/№7
+
+⟦figure⟧
+
+Cơm. 9
+
+piston rút lại theo chiều dài của ống tiêm, nếu áp suất khí quyển là $p_{0}$ và diện tích mặt cắt ngang là $поршня^{S.}$ Bỏ qua sự thay đổi nhiệt độ.
+
+⟦column⟧
+
+5. Một vật có khối lượng m treo vào một lò xo. Một vật nặng thứ hai có cùng khối lượng m được gắn vào vật nặng ở trạng thái cân bằng bằng một sợi dây và không làm căng lò xo, nó được thả ra (Hình 10). Lực căng tối thiểu mà sợi dây phải chịu là bao nhiêu để sợi dây không bị đứt?
+
+⟦figure⟧
+
+Cơm. 10
+
+Ô L I M P I A DY
+
+Giai đoạn cuối cùng của Olympic toàn Nga XLV dành cho học sinh môn toán
+
+lớp 9
+
+lớp 10
+
+Giai đoạn cuối cùng của Olympic Toán học toàn Nga dành cho học sinh được tổ chức tại vùng Perm từ ngày 21 tháng 4 đến ngày 27 tháng 4 năm 2019. Tất cả những người tham gia Olympic đều sống trong các tòa nhà của khu nghỉ dưỡng Ust-Kachka nằm trên bờ sông Kama đẹp như tranh vẽ và các vòng thi Olympic diễn ra trong tòa nhà hiện đại gần đó của Quân đoàn Thiếu sinh quân. Chương trình tham quan Thế vận hội bao gồm các chuyến đi đến Hang Kungur và tham quan Perm. Chương trình khoa học và giáo dục của Olympic rất thú vị và phong phú: đại diện các trường đại học hàng đầu của đất nước đã giảng bài cho những người tham gia. 378 nhà toán học trẻ từ 65 vùng của Nga đã tham gia Olympic. Ngoài ra, những người tham gia Olympic truyền thống
+
+lớp 11
