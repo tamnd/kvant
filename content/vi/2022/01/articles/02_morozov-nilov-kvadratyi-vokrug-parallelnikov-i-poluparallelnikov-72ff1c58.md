@@ -1,0 +1,51 @@
+---
+id: 2022-1-morozov-nilov-kvadratyi-vokrug-parallelnikov-i-poluparallelnikov-72ff1c58
+issue: kvant_2022_1
+year: 2022
+number: "1"
+title: Hình vuông xung quanh các đường thẳng song song và nửa song song
+authors:
+  - Морозов Е. А.
+  - Нилов Ф. К.
+rubric: matematicheskiy-kruzhok
+rubric_sub: Математический кружок
+page_first: 46
+page_last: 46
+tag: UTFK
+lang: vi
+source: kvant_digital
+extraction: native
+content_sha256: fea6a67203bbb33443d9214db0dd0c52e1787ece75c4290efe7f00d0d65b12af
+prompt_sha256: draft-1
+translated_from: content/ru/2022/01/articles/02_morozov-nilov-kvadratyi-vokrug-parallelnikov-i-poluparallelnikov-72ff1c58.md
+source_content_sha256: 7630b1e4f5750b83515648cab08f080221a499d3a2511775ae958c540ac1efd0
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+Hình vuông xung quanh các đường thẳng song song và nửa song song
+
+VÒNG TRÒN TOÁN HỌC
+
+E. MOROZOV, F. NILOV
+
+TRONG CÁC CÔNG CỤ HÌNH HỌC, việc xây dựng các đa giác đều trên các cạnh của một đa giác tùy ý thường rất thú vị. Mặc dù thực tế là những công trình tương tự đã được người Hy Lạp cổ đại xem xét, nhưng ngày nay một số kết quả mới đã xuất hiện. Trong chứng minh cổ điển của Euclid về định lý Pythagore, các hình vuông được dựng trên các cạnh của một tam giác vuông (Hình 1a). Định lý Napoléon phát biểu rằng nếu các tam giác đều được dựng trên các cạnh của một tam giác tùy ý thì tâm của chúng cũng sẽ là các đỉnh của tam giác đều (Hình 1, b). Nhà soạn bài toán người Pháp Victor Thébault nhận thấy rằng nếu bạn dựng các hình vuông trên các cạnh của hình bình hành thì tâm của chúng sẽ hình thành
+
+⟦column⟧
+
+tạo một hình vuông (Hình 1, c). Định lý của nhà toán học người Flemish Van Aubel phát biểu rằng nếu chúng ta lấy tâm của các hình vuông xây trên các cạnh của một tứ giác tùy ý, thì chúng sẽ là các đỉnh của một tứ giác có các đường chéo vuông góc và có độ dài bằng nhau (Hình 1d). Lưu ý rằng trong Hình 1, b–d, các hình tam giác và hình vuông đều có thể được dựng bên trong; những tuyên bố tương tự sẽ đúng với họ. Trong bài viết này, chúng ta sẽ xây dựng vô số lớp hình vuông xung quanh một số đa giác và nghiên cứu các tính chất của cấu trúc thu được. Ta sẽ giải bài toán M2629 (Định lý 1 dưới đây) và chứng minh các định lý đã công bố trong bài báo [1]. Xét một tam giác tùy ý (màu xanh lá cây) (Hình 2). Ở hai bên của nó ra bên ngoài
+
+⟦figure⟧
+
+Cơm. 2. Các hình vuông xung quanh một hình tam giác
+
+⟦figure⟧
+
+Cơm. 1. Kiến trúc thượng tầng từ hình vuông và hình tam giác đều
+
+DOI: https://doi.org/10.4213/kvant20220105
+
+bên cạnh chúng ta sẽ xây dựng các hình vuông màu trắng. Chúng ta sẽ kết nối một số đỉnh của chúng với các đoạn, xây dựng lại các hình vuông màu trắng ở bên ngoài, v.v. Trong khoảng trống giữa các hình vuông, hình tam giác và hình tứ giác được hình thành, chúng ta sẽ tô màu sao cho các đa giác trong một lớp có màu giống nhau và ở các lớp khác nhau - khác nhau. Khi đó định lý sau là đúng. Định lý 1. a) Mọi tứ giác được tô màu đều là hình thang; b) diện tích của tất cả các đa giác cùng màu đều bằng nhau; c) Tỉ số độ dài hai đáy của các hình thang một màu bằng nhau;
