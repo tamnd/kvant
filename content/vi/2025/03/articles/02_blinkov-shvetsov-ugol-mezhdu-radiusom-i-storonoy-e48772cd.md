@@ -39,17 +39,17 @@ Với kiến ​​thức không vượt quá phạm vi chương trình nửa đ
 
 ⟦figure⟧
 
-Hình 1
+Cơm. 1
 
 ⟦column⟧
 
 ⟦figure⟧
 
-Hình 3
+Cơm. 3
 
 ⟦figure⟧
 
-Hình 4
+Cơm. 4
 
 hình vuông ABC. Sau đó $^{ACO}$ (Hình 3).
 
@@ -61,7 +61,7 @@ Làm thế nào bạn có thể sử dụng thực tế này? Thực tế là n�
 
 ⟦figure⟧
 
-Hình 2
+Cơm. 2
 
 Chỉ? Chắc chắn! Nhưng đây là thực tế chính của bài viết của chúng tôi, nhờ đó chúng tôi sẽ có thể giải quyết một số bài toán khó khăn. Trong phần tiếp theo chúng ta sẽ gọi nó là góc giữa bán kính và cạnh. Thực tế cơ bản. Gọi O là tâm của đường tròn ngoại tiếp một tam giác nhọn.
 
@@ -69,7 +69,7 @@ DOI: https://doi.org/10.4213/kvant20250303
 
 $90 q ^{ABC}$
 
-Hình 5
+Cơm. 5
 
 ⟦folio 30⟧
 
@@ -83,7 +83,7 @@ Chà, chúng tôi đã tìm ra thực tế chính và xem xét các ví dụ đ�
 
 ⟦figure⟧
 
-Hình 9
+Cơm. 9
 
 Bằng chứng. Lưu ý rằng nếu ABC D thì BCC c 90 D ACO. Hệ quả 1 cũng đúng trong trường hợp tam giác tù. Bằng chứng sẽ thay đổi như thế nào? Chúng ta hãy xem xét việc áp dụng hệ quả này. Học sinh lớp bảy có quyền truy cập vào bài toán này.
 
@@ -91,7 +91,7 @@ Bài tập 4. Trong tam giác vuông ABC, đường trung tuyến CM và chiều
 
 ⟦figure⟧
 
-Hình 10
+Cơm. 10
 
 Điều ngược lại bài toán, đôi khi xảy ra, hóa ra lại khó hơn nhiều. Bài toán 4. Trong tam giác không cân ABC (Hình 11), vẽ đường trung tuyến CM và chiều cao CH (điểm H nằm trên đoạn AB).
 
@@ -99,17 +99,17 @@ Hình 10
 
 ⟦figure⟧
 
-Hình 11
+Cơm. 11
 
 Chứng minh rằng nếu ACM BCH thì ACB 90 q. Lời giải. Chúng ta hãy chứng minh rằng M là tâm của đường tròn ngoại tiếp tam giác ABC, từ đó suy ra phát biểu bài toán. Gọi O là tâm đường tròn ngoại tiếp tam giác ABC. Khi đó ACO BCH, tức là O nằm trên tia CM. Mặt khác O nằm trên đường trung trực của cạnh AB. Vì tam giác không cân nên chúng không thể trùng nhau và tâm O của đường tròn ngoại tiếp nằm tại giao điểm của chúng - tại điểm M. Bài toán được giải. Trong bài toán tiếp theo, được tổ chức cho học sinh lớp chín tại Giải đấu Trận chiến Toán học $А.П.Савина^{3}$ (theo HMT), ý tưởng về sự đối xứng của chiều cao và bán kính đã được ẩn giấu sâu hơn một chút. Bài toán 5. Cho tam giác nhọn ABC. Trên cạnh AC chọn một điểm K tùy ý và một điểm L sao cho ABK CBL được chọn (Hình 12). Chứng minh rằng tâm đường tròn ngoại tiếp tam giác KBL thẳng hàng. Lời giải. Lưu ý rằng các tam giác KBL và ABC có chung đường cao BH về cạnh AC (Hình 13). Ngoài ra, từ
 
 ⟦figure⟧
 
-Hình 12
+Cơm. 12
 
 ⟦figure⟧
 
-Hình 13
+Cơm. 13
 
 đẳng thức ABK CBL suy ra rằng các tam giác này cũng có một đường phân giác chung vẽ từ đỉnh B. Khi đó, theo Hệ quả 1, có tia BO cố định mà tâm của đường tròn ngoại tiếp nằm trên đó
 
@@ -135,19 +135,19 @@ VÒNG TRÒN
 
 ⟦figure⟧
 
-Hình 16
+Cơm. 16
 
 Lời giải. Theo Hệ quả 2, các đường vuông góc đã cho cắt nhau tại tâm đường tròn ngoại tiếp tam giác ABC. bài toán này có thể được định dạng lại thành $так.^{5}$
 
 ⟦figure⟧
 
-Hình 14
+Cơm. 14
 
 Bằng chứng. Vì các điểm $B, A_{1}, B_{1}$ và A nằm trên đường tròn có đường kính AB (tại sao?), nên $CB_{1} A_{1}$ CBA (Hình 15).
 
 ⟦figure⟧
 
-Hình 15
+Cơm. 15
 
 Bài tập 8. Chứng minh rằng các đường vuông góc kẻ từ tâm các đường tròn ngoại tiếp của một tam giác tới các cạnh của nó cắt nhau tại một điểm.
 
@@ -163,7 +163,7 @@ Bài tập
 
 ⟦figure⟧
 
-Hình 17
+Cơm. 17
 
 Lời giải. Theo Hệ quả 2, các đường thẳng này vuông góc với các cạnh của tam giác.
 
@@ -213,24 +213,24 @@ Sẽ rất hữu ích khi phân tích sau lời giải xem liệu tất cả cá
 
 ⟦figure⟧
 
-Hình 18
+Cơm. 18
 
 đường thẳng a và b thẳng hàng. Chứng minh rằng các đường thẳng a, b, c cắt nhau tại một điểm. Lời giải. Xét các đường thẳng từ bài toán 6 và từ bài toán 7. Đặt c c và $с_{1}$ là các đường thẳng đi qua điểm C và $С_{1}$ (gốc của đường cao tính từ điểm C) và song song với c (Hình 19).
 
 ⟦figure⟧
 
-Hình 20
+Cơm. 20
 
 Bây giờ chúng ta có thể xây dựng một khái quát hóa Hệ quả 2. Hệ quả 2 ¢. Cho đoạn A c B c phản song song với đoạn AB đối với các đường thẳng CA và CB, điểm O là tâm đường tròn ngoại tiếp tam giác ABC (Hình 21). Khi đó CO A A c B c.
 
 ⟦figure⟧
 
-Hình 19
+Cơm. 19
 
 Theo bài toán 6, đường thẳng c đi qua điểm O - tâm đường tròn ngoại tiếp tam giác ABC. Ngoài ra, theo bài toán 7, đường thẳng $с_{1}$ đi qua điểm R – trực tâm của tam giác trực giao. Khi đó đường thẳng c đi qua chính giữa đoạn OR theo định lý Thales. Cần lưu ý rằng các đường thẳng a và b cũng đi qua điểm này. Bài toán đã giải quyết.
 
 ⟦figure⟧
 
-Hình 21
+Cơm. 21
 
 Bài tập 10. Chứng minh hệ quả tổng quát bằng cách xét vị trí khác nhau của các điểm Ac và Bc.
