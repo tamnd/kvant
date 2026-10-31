@@ -1,0 +1,49 @@
+---
+id: 1971-1-korotko-ob-eksponente-b29737f9
+issue: kvant_1971_1
+year: 1971
+number: "1"
+title: Briefly about the exhibitor
+rubric: smes
+page_first: 68
+page_last: 68
+tag: BPFI
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 43e5c06720a0325410baeb519f5678214ca1e6ff6be5cc8db377322ec031f146
+prompt_sha256: draft-1
+translated_from: content/ru/1971/01/articles/02_korotko-ob-eksponente-b29737f9.md
+source_content_sha256: e0cce4c023d9c921c359ba385b0ea33b02a501ee02c8205dd2f871cea4b8416c
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+BRIEFLY ABOUT THE EXHIBITOR
+
+Very often we encounter quantities whose changes are proportional to these quantities themselves. For example, the change in the number of bacteria in a colony (under constant conditions) is proportional to their number. The change in atmospheric pressure with altitude is proportional to the pressure value. The number of atoms of a radioactive substance decaying per unit time is proportional to the number of atoms in the sample. Population growth on earth is proportional to population size, etc. Mathematically, all quantities that change in this way are expressed by a function that has the following important property: the tangent of the tangent to the x-axis at each point is proportional to the value of the function at that point. (see figure.)
+
+The exponential function $y=a^x$ has this property.
+
+The special case of this function is especially important when $a=e$:
+
+$$y=e^x.$$
+
+This function has a special name - exponential.
+
+The number $e$ is an irrational number equal to 2.718...
+
+$$e=\lim_{n\to\infty}\left(1+\frac{1}{n}\right)^n.$$
+
+Of all the exponential functions, it is distinguished by the fact that the tangent of the angle of inclination of the tangent to the graph of the exponential at any point is not proportional, but is equal to the value of the function at this point. For those who know what an arbitrary function is, let’s also say this: an arbitrary function $e^x$ is equal to $e^x$. You will have to meet the exponential reader of our magazine very often.
+
+Here are some of its properties:
+
+1. $e^{x_1}+e^{x_2}=e^{x_1}\cdot e^{x_2}$
+2. If $x_1<x_2$, then $e^{x_1}<e^{x_2}$.
+3. For small $x$ $e^x\approx 1+x$.
+
+A detailed article about the exhibitor will be published in one of the issues «Kvant».
