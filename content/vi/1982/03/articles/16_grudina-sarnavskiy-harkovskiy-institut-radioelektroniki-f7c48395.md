@@ -1,0 +1,106 @@
+---
+id: 1982-3-grudina-sarnavskiy-harkovskiy-institut-radioelektroniki-f7c48395
+issue: kvant_1982_3
+year: 1982
+number: "3"
+title: Viện Điện tử Vô tuyến Kharkov
+authors:
+  - Грудина Р.
+  - Сарнавский Н.
+rubric: ekzamenatsionnye-materialy
+page_first: 51
+page_last: 51
+page_labels: "49"
+tag: 7J9M
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 4b00f777b187b41e274ab0d63d878f606e4ff162308208f29b6c8c5902aaca20
+prompt_sha256: draft-1
+translated_from: content/ru/1982/03/articles/16_grudina-sarnavskiy-harkovskiy-institut-radioelektroniki-f7c48395.md
+source_content_sha256: 0cc49797a7bcd2017f7cd3705939ec863c3e431d4fd1deaf980712da0c54348f
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 49⟧
+
+4. Tính toán
+$$\lim_{x \to 2} \frac{\sqrt{x^2-1}-\sqrt{x^2+x-3}}{x^2-4}.$$
+
+5. Vẽ đồ thị hàm số $y=2x^3-3x^2+6$.
+
+Tùy chọn 2
+
+1. Giải phương trình
+$$\frac{1}{2} \cos 2x + \sin x \cdot \sin 2x = \cos x.$$
+
+2. Giải phương trình
+$$\frac{\lg x + 7}{4} = 10^{\lg x + 1}.$$
+
+3. Một hình nón được ghi trong một paramid hình tam giác đều. Cạnh của đáy của paramid bằng $a$ và các cạnh của nó tạo thành một góc $a$ với mặt phẳng của đế. Tìm diện tích xung quanh và thể tích của hình nón.
+
+4. Tìm điểm cực đại và cực tiểu của hàm số
+$$y = \frac{x^2+x+3}{x^2+5}.$$
+
+5. Tìm diện tích của hình được giới hạn bởi các đường $y=1-x^2$, $y=x^2-1$.
+
+Vật lý
+
+Bài thi vấn đáp
+
+1. Một vật treo trên một sợi dây được nâng lên khỏi mặt đất với gia tốc $a=2$ m/s$^2$ theo phương thẳng đứng hướng lên trên. Một lúc sau $t=5$ đứt dây. Tính thời gian vật rơi xuống đất kể từ khi sợi dây đứt.
+
+2. Một viên đạn bay theo phương ngang với tốc độ $v=400$ m/s chạm vào một khối và mắc kẹt trong đó. Khối này sẽ di chuyển dọc theo một bề mặt nằm ngang bao xa tính từ tác động của viên đạn nếu khối lượng của nó gấp $n=99$ lần khối lượng viên đạn? Tốc độ ban đầu của khối bằng 0 và hệ số ma sát giữa khối và bề mặt là $\mu=0,1$.
+
+3. Một quả cầu gỗ được nhúng vào nước ở độ sâu $h=1$ m rồi hạ xuống. Nó sẽ nhảy lên trên mặt nước cao bao nhiêu (không tính đến lực ma sát) nếu mật độ của quả bóng là $q_{\text{ш}}=600$ kg/m$^3$ và mật độ của nước là $q_{\text{в}}=1000$ kg/m$^3$?
+
+4. Một ống hình trụ hẹp dài $l=80$ cm, hở hai bên, cắm vào gốc trước khi tưới. Lỗ trên cùng của ống sau đó được đóng lại và đưa ra khỏi quy trình. Đồng thời, còn lại rất nhiều rutin dài $l_{\text{рт}}=22$ cm trong ống. Áp suất khí quyển là gì?
+
+5. Một nhiệt lượng kế chứa đầy $m_{\text{B}}=2$ kg nước ở nhiệt độ $t_{\text{B}}=+6^\circ\text{C}$ và đặt một tảng băng có khối lượng $m_{\text{л}}=2$ kg và nhiệt độ $t_{\text{л}}=-20^\circ\text{C}$. Bao nhiêu nước và bao nhiêu nước đá sẽ có trong nhiệt lượng kế sau khi cân bằng nhiệt được thiết lập? Có thể bỏ qua nhiệt dung của quá trình trao đổi calo và nhiệt với môi trường bên ngoài. Nhiệt dung riêng của nước $c_{\text{в}}=4200$ J/(kg K). Nhiệt dung riêng của nước đá $c_{\text{л}}=2100$ J/(kg K). Nhiệt dung riêng của nước đá tan chảy $\lambda=330$ kJ/kg.
+
+6. Tám giọt nhỏ giống hệt nhau của thói quen, được gọi là tiềm năng ma sát, được gọi thành một. Tính khả năng của sự sụt giảm này. Hãy coi tất cả những giọt nước như những quả bóng.
+
+7. Một electron, được gia tốc bởi điện áp $U_0=100$ V, biến thành một tụ điện bản song song dọc theo đường tâm của nó. Tại điện áp nhỏ nhất giữa hai bản của tụ điện thì electron sẽ không rời khỏi tụ điện? Khoảng cách giữa các tấm là $d=1$ cm, chiều dài của các tấm là $L=10$ cm.
+
+8. Hai quả bóng có cùng điện tích $q=20$ nC. Quả bóng được nối bằng một sợi dây mỏng. Bao nhiêu điện sẽ truyền qua dây nếu quả bóng là kim loại và bán kính của chúng là $R_1=15$ cm và $R_2=5$ cm?
+
+9. Một người tiêu dùng có điện trở $R_1$ được kết nối với nguồn hiện tại. Sau đó, nó bị ngắt kết nối và một người tiêu dùng khác có điện trở $R_2$ được kết nối. Sức mạnh hữu ích trong cả hai trường hợp hóa ra là như nhau. Điện trở trong của nguồn hiện tại là bao nhiêu?
+
+10. Khoảng cách từ vật được chiếu sáng đến màn là $L=100$ cm. Một thấu kính đặt giữa chúng cho ảnh rõ nét của vật ở hai vị trí, khoảng cách giữa chúng là $l=20$ cm. Tìm tiêu cự của đường thẳng đó.
+
+Ấn phẩm đã được chuẩn bị
+N. Bolyshakov, V. Kudryavtsev,
+R. Nifanteva, A. Pershin
+
+Viện Điện tử Vô tuyến Kharkov
+
+Matematika
+
+Bài thi viết
+
+Tùy chọn 1
+
+1. Giải phương trình
+$$2 \cos x + \text{ctg} x + 2 \sin x + 1 = 0.$$
+
+2. Giải bất đẳng thức
+$$\log \frac{1}{2} \sin x > 1.$$
+
+3. Các vectơ $\vec{a}$ và $\vec{b}$ vuông góc với nhau và vectơ $\vec{c}$ tạo thành một góc $60^\circ$ với mỗi vectơ. Cho rằng $|\vec{a}|=3$, $|\vec{b}|=5$ và $|\vec{c}|=8$, hãy tính tích chấm $(3\vec{a}-2\vec{b}) \times (\vec{b}+3\vec{c})$.
+
+4. Tìm diện tích của hình được giới hạn bởi các đường $y=\left(\frac{1}{2}\right)^x$, $x-2y+2=0$, $x=2$.
+
+5. Giải phương trình
+$$\frac{x}{x+1}-2 \sqrt{\frac{x+1}{x}}=3.$$
+
+Tùy chọn 2
+
+1. Giải phương trình
+$$\frac{1}{\cos x}+1=\sin(\pi-x)-\cos x \cdot \tg \frac{\pi+x}{2}.$$
+
+2. Giải bất đẳng thức
+$$\sqrt{x^2-4x}>x-3.$$
+
+3. Thân là một hình chữ nhật có đỉnh hình bán cầu. Cái này có những kích thước tuyến tính nào?

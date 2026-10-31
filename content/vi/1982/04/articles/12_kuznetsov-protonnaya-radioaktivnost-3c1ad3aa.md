@@ -1,0 +1,76 @@
+---
+id: 1982-4-kuznetsov-protonnaya-radioaktivnost-3c1ad3aa
+issue: kvant_1982_4
+year: 1982
+number: "4"
+title: độ phóng xạ của proton
+authors:
+  - Кузнецов В. И.
+rubric: novosti-nauki
+rubric_sub: Новости науки
+page_first: 44
+page_last: 44
+page_labels: "42"
+tag: KZHG
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 6caf2a84b7bde6d3b74ee6138d0e43502b67bd07671d3a06c0f564cdf1ed06d4
+prompt_sha256: draft-1
+translated_from: content/ru/1982/04/articles/12_kuznetsov-protonnaya-radioaktivnost-3c1ad3aa.md
+source_content_sha256: a4ac70523a8e4f57736cb2b0a17e2b561764d48369da6e853e38a3afeab6db66
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 42⟧
+
+mà thực sự không có lời giải.
+Và vào các phương trình
+$$x^2+x+\sqrt{x+1}=2+\sqrt{2}$$
+(14)
+bình phương là xấu. ODZ của phương trình (14) - tia [−1; +∞[. Trên đoạn [−1; 0]
+$$x^2+x+\sqrt{x+1}≤0+1=1.$$
+Điều này có nghĩa là phương trình (14) không có nghiệm trên đoạn này. Đối với $x\geqslant0$, hàm $x^2+x+\sqrt{x+1}$ trả về và do đó phương trình (14) không thể có [0; +∞ [ nhiều hơn một gốc. Một gốc: $x=1$ - dễ đoán.
+
+phương trình
+$$\sqrt{x-5}-\sqrt{2x-1}=x^2+3$$
+(15)
+tương đương với hệ thống
+$$\begin{cases}
+\sqrt{x-5}-\sqrt{2x-1}=x^2+3 \\
+\sqrt{x-5}>\sqrt{2x-1},
+\end{cases}$$
+(16)
+vì việc cộng hệ quả của nó vào một phương trình (bất đẳng thức, hệ) sẽ dẫn đến một hệ tương đương. Trên ODZ [5; +∞ [ hệ (16) tương đương với hệ
+$$\begin{cases}
+\sqrt{x-5}-\sqrt{2x-1}=x^2+3 \\
+x-5>2x-1,
+\end{cases}$$
+***
+Tóm lại, có hai lời khuyên. Khi trình bày lời giải trong mọi trường hợp không quá phức tạp thì chứng tỏ “tương đương” (⇔) và “theo sau” (⇒) là không cần thiết; Chỉ cần vinh quang hoặc biểu tượng là đủ để chỉ ra cái gì tương đương với cái gì hoặc cái gì tiếp nối cái gì. Nếu một phương trình (bất đẳng thức, hệ) chứa một biểu thức mà miền định nghĩa xác định miền định nghĩa của toàn bộ phương trình (bất đẳng thức, hệ), miễn là biểu thức này tham gia vào lời giải không thay đổi thì không đáng để tìm miền định nghĩa của nó.
+
+tin tức khoa học
+
+độ phóng xạ của proton
+Hiện tượng này được các nhà khoa học phát hiện tương đối gần đây nhưng đã có lịch sử riêng.
+Năm 1962, cái gọi là hiện tượng phóng xạ proton bị trì hoãn được phát hiện tại Viện nghiên cứu hạt nhân chung ở Dubna, khi một proton thoát ra khỏi một hạt nhân bị kích thích hình thành sau khi hạt nhân phát ra một positron.
+Năm 1970, bước tiếp theo được thực hiện - độ phóng xạ proton của các lò phản ứng hạt nhân, tức là hạt nhân có thời gian tồn tại lâu dài ở trạng thái kích thích, đã được ghi lại.
+Cuối cùng, vào năm 1981, các nhà vật lý người Đức đã quan sát thấy sự phát xạ của một proton từ hạt nhân ở trạng thái có năng lượng thấp nhất có thể, hay như người ta nói, ở trạng thái cơ bản.
+Lưu ý rằng sự phân rã proton chỉ “được phép” đối với những hạt nhân có số neutron nhỏ hơn đáng kể so với số lượng đồng vị ổn định nhẹ nhất của một nguyên tố nhất định. Những hạt nhân như vậy được gọi là thiếu neutron. Ví dụ, $^{118}$Cs, một chất phát proton bị trì hoãn, có ít hơn 15 neutron so với đồng vị ổn định $^{133}$Cs.
+Sự phân rã proton từ trạng thái cơ bản tạo ra các hạt nhân thậm chí còn thiếu neutron hơn và không dễ thu được chúng. Các nhà khoa học đã đi theo con đường này. Một chùm niken, được gia tốc bằng máy gia tốc cực mạnh, được đưa tới mỏ làm từ ruthenium hoặc molybdanum. Niken hạt nhân, kết hợp với hạt nhân minsch, biến thành các đồng vị thiếu neutron của luteti hoặc thulium:
+$$\begin{align*}
+58Ni+96Ru\rightarrow^{151}Lu+p+2n, \\
+58Ni+92Mo\rightarrow^{147}Tm+p+2n,
+\end{align*}
+$$
+sau đó trải qua sự phân rã proton.
+Các phép đo đã chỉ ra rằng khi luteti chuyển hóa thành thú:
+$$\begin{align*}
+151Lu\rightarrow^{150}Yb+p \\
+\end{align*}
+$$
+năng lượng proton là 1,22 MeV và chu kỳ thu hút của nó là 85±10 ms. Đối với đồng vị thulium, các giá trị này lần lượt là 1,04 MeV và 420±100 ms.
+Bây giờ nhà vật lý vẫn đang khám phá loại phân rã proton cuối cùng được các lý thuyết dự đoán - sự phóng xạ hai proton, tức là sự phát xạ đồng thời hai proton bởi một hạt nhân.
+V. Kuznetsov

@@ -1,0 +1,40 @@
+---
+id: 1982-5-zadachi-b7c2061b
+issue: kvant_1982_5
+year: 1982
+number: "5"
+title: Bài toán
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 31
+page_last: 31
+page_labels: "29"
+tag: ULUJ
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 23a1ac3858e3a56d520756ab3b6b4a875ade88f327bdf6a2ec54f8c60f02e1db
+prompt_sha256: draft-1
+translated_from: content/ru/1982/05/articles/07_zadachi-b7c2061b.md
+source_content_sha256: e147dcd3d86702c47997c08ae01d895f7135bc3fcbaa018941265a30503eb56f
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 29⟧
+
+Bài tập
+
+1. Có thể đặt các hình chữ thập trên 24 ô vuông của một bàn cờ vuông sao cho khi gạch bỏ ba đường ngang và ba đường dọc bất kỳ thì có ít nhất sáu hình chữ thập không bị gạch chéo?
+
+2. Cho $A$ là một số tự nhiên. Ta biểu thị bằng $b$ số được tạo bởi hai chữ số cuối của số $A$, bằng $a$ số được tạo bởi các chữ số còn lại của số $A$ (ví dụ: với $A=2906$ ta được $a=29$, $b=06=6$). Chứng minh rằng số $A$ chia hết cho 7 khi và chỉ khi $a$) $2a+b$ chia hết cho 7; 6) $5a-b$ chia hết cho 7.
+
+3. Có năm nào ngày mười ba không bao giờ là ngày cầu nguyện không? Và số lần tối đa có thể là người ủng hộ là bao nhiêu?
+
+4. Trên mỗi cạnh của tam giác $ABC$ một hình chữ nhật được dựng sao cho các đỉnh của chúng chạm nhau theo từng cặp (xem hình). Chứng minh rằng các đường thẳng nối các đỉnh của tam giác $ABC$ với các đỉnh tương ứng của tam giác thu được $A_1B_1C_1$ cắt nhau tại một điểm.
+
+5. Có thể cắt một ô từ một ô vuông có kích thước $5\times5$ để có thể cắt hình thu được dọc theo một lưới tuyến tính thành tám dải hình chữ nhật có kích thước $1\times3$ ô?
+
+Những nhiệm vụ này đã được F. Bartenev đề xuất cho chúng tôi.
+A. Kartuzov, A. Savin.

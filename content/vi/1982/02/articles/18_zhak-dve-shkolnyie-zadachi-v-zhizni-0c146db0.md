@@ -1,0 +1,71 @@
+---
+id: 1982-2-zhak-dve-shkolnyie-zadachi-v-zhizni-0c146db0
+issue: kvant_1982_2
+year: 1982
+number: "2"
+title: Hai “trường học” bài toán trong cuộc đời
+authors:
+  - Жак Я. Е.
+rubric: smes
+page_first: 49
+page_last: 49
+page_labels: "47"
+tag: T88B
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: d7fa3d1646b8d908472f330f0a1687055e278ed72ccd11f8cae86c67442be31a
+prompt_sha256: draft-1
+translated_from: content/ru/1982/02/articles/18_zhak-dve-shkolnyie-zadachi-v-zhizni-0c146db0.md
+source_content_sha256: cede6e9c233a5cf0e425b07ba278654d6d594514eabf8957b96d63245a513aeb
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 47⟧
+
+Vật lý
+
+Bài thi vấn đáp
+
+1. Một hòn đá được ném theo phương ngang từ một bệ cao $h=25$ m với tốc độ $v_0=15$ m/s. Tìm: a) hòn đá sẽ chuyển động trong bao lâu? b) Nó sẽ rơi xuống đất cách chân tháp bao nhiêu? c) anh ta sẽ giải quyết với tốc độ bao nhiêu?
+
+2. Một sợi chỉ được quấn trên một ròng rọc nhẹ có bán kính $R=10$ cm, ở đầu có gắn một vật nặng. Tải bắt đầu giảm xuống ở mức $a=2$ cm/$c^2$. Vận tốc góc của ròng rọc lúc tải giảm $h=100$ cm sẽ là bao nhiêu?
+
+3. Trong xi lanh của động cơ diesel khi bắt đầu hành trình dốc, nhiệt độ không khí là $T_1=310$ K. Tìm nhiệt độ không khí ở cuối hành trình dốc nếu thể tích của nó giảm $a=12$ lần và áp suất không khí giảm $b=36$ lần.
+
+4. Tìm mức tiêu thụ xăng của xạ thủ tiểu liên Zaporozhets trên tuyến đường $s=1$ km với tốc độ $v=60$ km/h. Công suất đồng hồ $N=17$ kW, hiệu suất đồng hồ $\eta=30\%$. Nhiệt lượng lưu trữ nhiên liệu $q=45 \cdot 10^6$ J/kg.
+
+5. Theo ý tưởng của Bohr, một electron trong nguyên tử hydro chuyển động xung quanh hạt nhân theo một quỹ đạo tròn. Tính tốc độ của electron nếu bán kính quỹ đạo là $r=0,5 \cdot 10^{-8}$ cm. Khối lượng của electron là $m=9,1 \cdot 10^{-31}$ kg, điện tích của nó là $e=1,6 \cdot 10^{-19}$ Cl.
+
+6. Một vôn kế nối với nguồn có emf $\delta=120$ V và điện trở trong $r=50$ ohm đọc là $U=118$ V. Điện trở trong của vôn kế là bao nhiêu?
+
+7. Hai dây dẫn có cùng điện trở $R$, đầu tiên mắc song song rồi nối tiếp, được nối với mạng có điện áp $U$. Trong trường hợp nào lượng điện năng tiêu thụ lớn nhất từ ​​mạng?
+
+8. Phải luồn bao nhiêu vòng dây phía dưới vào một ống trụ sứ có đường kính $d_1=1,5$ cm để làm nồi hơi trong đó $V=1,2$ lít nước lấy ở nhiệt độ $t=10^\circ C$ sôi trong $t=10$ phút? Hiệu quả lắp đặt $\eta=60\%$; đường kính dây $d_2=0,2$ mm; điện áp lưới $U=100$ V. Nhiệt dung riêng của nước $c=4,2$ kJ/(kg K); điện trở suất dưới $Q=0,42 \cdot 10^{-6}$ Ohm m.
+
+9. Phải tiêu tốn bao nhiêu năng lượng điện để truyền điện cho khoảng cách $m=500$ mg bạc? Điện áp trên các điện cực $U=4$V. Đương lượng điện của bạc là $k=1,08 \cdot 10^{-6}$ kg/Kl.
+
+10. Một tia sáng rơi lên một tấm phẳng có chiết suất $n=1,5$ hợp với một góc $\alpha=60^\circ$. Độ dày của tấm là bao nhiêu nếu chùm tia di chuyển $a=2$ cm khi nó thoát ra khỏi nó?
+
+Ấn phẩm được biên soạn bởi A. Klubova, N. Kozlova
+
+Hai "Trường học"
+bài toán trong cuộc sống
+Về việc chặt gỗ
+sức mạnh lớn nhất
+
+Cho đến gần đây, dầm gỗ có mặt cắt ngang hình chữ nhật đã được sử dụng rộng rãi làm kết cấu giàn (cột trong nhà gỗ, giá đỡ trần nhà, trụ ở những nơi bằng gỗ). Chúng vẫn được sử dụng rộng rãi trong thời đại chúng ta, đặc biệt là ở các xà nhà ở nông thôn.
+
+Người ta đã xác định rằng diện tích mặt cắt ngang của dầm chịu tải tập trung càng lớn (tức là ở tâm trọng lực của tiết diện) thì càng lớn.
+
+Do đó, khi cắt một chùm thẳng từ khúc gỗ tròn, không quá một số đồ vật được sử dụng có bình giãn nở ở những điểm cao nhất (trên gác mái của một trong những ngôi nhà). - thùng chứa nước thừa chảy ra khi đun nóng.
+
+Những thùng chứa này thường ở dạng hình trụ có nắp tháo rời (để vệ sinh định kỳ) và được làm bằng thép tấm - một loại vật liệu tương đối đắt tiền. Do đó, thực tế sau đây bài toán trở nên quan trọng: đối với công suất nhất định của bình giãn nở, hãy tìm kích thước của nó sao cho lượng thép tấm được tiêu thụ cho quá trình sản xuất của nó ít nhất (không tính đến mức tiêu thụ vật liệu cho các đường nối và độ dày của thành, đáy và nắp được coi là như nhau). bài toán này chứng minh cho phép toán bài toán trong sách giáo khoa về chu trình: từ tất cả các hình tròn có thể tích cho trước, hãy tìm hình tròn có bề mặt hoàn chỉnh nhỏ nhất (Đại số 9-10, bài toán 420).
+
+Dễ dàng chứng minh (thực hiện phép tính) rằng tiết diện dọc trục của hình trụ cần tìm là hình vuông.
+
+Nếu bạn biết rằng ở quy mô nước ta, các tàu mở rộng được sản xuất với chất lượng cao, tiêu thụ kim loại tấm và do đó có chi phí đáng kể.
+
+J. Jacques

@@ -1,0 +1,52 @@
+---
+id: 1982-8-novyie-knigi-62fd24cd
+issue: kvant_1982_8
+year: 1982
+number: "8"
+title: Sách mới
+rubric: smes
+page_first: 17
+page_last: 17
+page_labels: "15"
+tag: T43Z
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 06e44664f8c3100df4633a332da24d7abc0ae03583518ea2fa9642956d20423b
+prompt_sha256: draft-1
+translated_from: content/ru/1982/08/articles/05_novyie-knigi-62fd24cd.md
+source_content_sha256: 8eb1230f7e318a7e2e1238f18b7c255670320729d1fd92f3a7801fdab6516f56
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 15⟧
+
+biên giới với lyceum ven biển), Г - số lượng biên giới (từ đỉnh này đến đỉnh khác) và biên giới với biển cũng được xem xét. Khi đó C+B—G=1.
+
+Ví dụ. Trên bản đồ ở Hình 13, C=2, B=2, D=3.
+
+Chứng minh Định lý 3. Chỉ cần xây dựng một đứa trẻ trên hòn đảo của chúng ta sao cho các đỉnh của nó nằm ở điểm giao nhau của các ranh giới, trong đó có chính xác một trên mỗi ranh giới (ranh giới với biển có thể được xem xét bên trong hòn đảo). Điều này có thể được thực hiện theo cách này: đặt các cạnh của tháp theo hình tháp Eiffel tại các điểm mà các ranh giới gặp nhau; xây tường thành kiên cố ở biên giới, hạ thấp về giữa mỗi biên giới và dốc thoải về phía mỗi nước sẽ phân chia biên giới này; cuối cùng, đào một cái trũng ở mỗi quốc gia, những cái trũng nghiêng sẽ mở nhẹ nhàng ra các bức tường của pháo đài. Một ví dụ cho sơ đồ của Hình 13 được thể hiện trong Hình 14. Bây giờ vẫn sử dụng Định lý 1 và Định lý 3 đã được chứng minh.
+
+Kết quả. Nếu một bản đồ chính trị có ít nhất 3 quốc gia được vẽ trên hình cầu, thỏa mãn điều kiện 6) và c) của Định lý 3 thì đối với nó
+
+C+B—G=2.
+
+Bằng chứng. Bạn có thể coi một trong các quốc gia là biển và phần còn lại là một hòn đảo. thì Định lý 3 được áp dụng, ngay lập tức dẫn đến kết quả cần tìm.
+
+Chứng minh Định lý 2 (đối với mọi khối đa diện lồi). Chúng ta hãy lấy điểm O bên trong khối đa diện đang xét và vẽ một số hình cầu có bán kính lớn có tâm tại điểm O. Bây giờ chúng ta chiếu khối đa diện của chúng ta từ điểm O lên hình cầu. khi đó chúng ta sẽ thu được một bản đồ chính trị trên hình cầu (các mặt của khối đa diện được chiếu thành các quốc gia và các cạnh thành các đường biên giới), mà hệ quả trước đó có thể áp dụng được.
+
+Bài toán
+
+1. Hình thành và chứng minh một hệ quả tương tự từ Định lý 1 và 3 cho điều đó, đó là bề mặt của một chiếc ram hoặc một chiếc lốp tự động (Hình 15).
+
+2. Điều tương tự đối với “quả cầu có tay cầm chữ p” (Hình 16 cho thấy một quả cầu có ba tay cầm).
+
+Sách mới
+
+Nhà xuất bản Ukraine “Vishcha Shkola” xuất bản vào quý 1 năm 1983 cuốn sách “Toán học ngày nay” (một tuyển tập khoa học phổ biến bằng tiếng Nga, do Giáo sư A. Ya. Dorogovtsev biên tập).
+
+Bộ sưu tập dành cho sinh viên đại học và giáo viên, nhưng chắc chắn sẽ rất thú vị và hữu ích cho học sinh trung học và giáo viên trung học. Nó bao gồm các bài viết về các lĩnh vực hiện tại của toán học, một phần các bài toán chưa giải được, các bài viết về kỳ thi Olympic toán học của học sinh, bài toán mới.
+
+Bộ sưu tập được phát hành với số lượng hạn chế, vì vậy chúng tôi khuyên bạn nên đặt hàng kịp thời. Đơn đặt hàng phải được gửi đến cửa hàng “Sách - qua thư” tại địa chỉ: 252117, Kyiv, st. Popudrenko, 26.

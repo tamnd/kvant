@@ -1,0 +1,40 @@
+---
+id: 1982-8-aleksandrov-matematika-i-chelovecheskaya-kultura-91d420fb
+issue: kvant_1982_8
+year: 1982
+number: "8"
+title: Toán học và văn hóa con người
+authors:
+  - Александров П. С.
+rubric: osnovnye-stati
+page_first: 4
+page_last: 4
+page_labels: "2"
+tag: QUYN
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 42f0f19a2151433ee069ea8aaee921066fb2ba21222ba8e259bec582ffece8fb
+prompt_sha256: draft-1
+translated_from: content/ru/1982/08/articles/02_aleksandrov-matematika-i-chelovecheskaya-kultura-91d420fb.md
+source_content_sha256: a4ea9806d53300fb73aaa911e644be403c8361cc6259ad67521469a69bb07dbc
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 2⟧
+
+Toán học nổi tiếng là môn khoa học trừu tượng nhất. Đồng thời, không ai dám coi đó là một môn khoa học vô dụng; ngược lại, bản thân nó là một khoa học cần thiết. Và vì vậy chúng ta gặp phải một tình huống có vẻ mâu thuẫn: một mặt, bản thân khoa học là trừu tượng và tách biệt khỏi cuộc sống, mặt khác, bản thân khoa học là cần thiết. Sự mâu thuẫn rõ ràng này được giải thích bởi thực tế là toán học có hai phổ: lý thuyết, nơi nó nói về những điều tổng quát và xa lạ nhất với cuộc sống, và ứng dụng, nơi nó liên quan đến những điều cần thiết thực tế nhất.
+
+Trong suốt cuộc đời mình, tôi đã là người đại diện cho toán học lý thuyết (hay còn gọi là toán học thuần túy) và chưa bao giờ xử lý các ứng dụng của nó. Đồng thời, tôi không nghĩ rằng mình đang làm điều gì đó vô ích.
+
+Một trong những học trò của tôi, hiện là viện sĩ, Andrei Nikolaevich Tikhonov bắt đầu sự nghiệp khoa học của mình - toán học ứng dụng.
+
+Viện sĩ Pavel Sergeevich Aleksandrov - Anh hùng Lao động xã hội chủ nghĩa, đoạt giải thưởng Nhà nước Liên Xô, trưởng khoa hình học cao cấp và cấu trúc liên kết của Khoa Cơ học và Toán học của Đại học quốc gia Moscow.
+
+hoạt động trong lĩnh vực trừu tượng nhất của toán học thuần túy (cái gọi là cấu trúc liên kết trừu tượng) và là một trong những người tạo ra lý thuyết về không gian nén sinh học, làm phong phú toán học bằng một trong những công trình quan trọng nhất, được gọi là sản xuất không gian tôpô (hoặc Tikhonovsky). Và hiện tại, Andrei Nikolaevich đang tham gia vào lĩnh vực toán học tính toán, tức là lĩnh vực liên quan chặt chẽ nhất đến nhu cầu thực tiễn.
+
+Hơn nữa, từ ví dụ này, bạn sẽ thấy việc đối chiếu lý thuyết và thực hành trong toán học khó khăn và rủi ro như thế nào.
+
+Toán học ảnh hưởng đến con người như thế nào? Ảnh hưởng này cũng đa diện như chính con người đó?vу? Điều này là do thực tế là một người?vу? không chỉ đại diện cho kiến ​​thức trừu tượng, không chỉ nghệ thuật, không chỉ tiểu thuyết. Đến kho tàng của con người?vу? văn hóa còn bao gồm toán học, đặc biệt là toán ứng dụng. Thật khó để tưởng tượng một nền văn hóa của thời đại chúng ta trong đó máy tính kỹ thuật không tồn tại. Công nghệ này

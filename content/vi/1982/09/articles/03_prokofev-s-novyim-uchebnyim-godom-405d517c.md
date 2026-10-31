@@ -1,0 +1,44 @@
+---
+id: 1982-9-prokofev-s-novyim-uchebnyim-godom-405d517c
+issue: kvant_1982_9
+year: 1982
+number: "9"
+title: Chúc mừng năm học mới!
+authors:
+  - Прокофьев М. А.
+rubric: otkryvayushchie-stati
+page_first: 4
+page_last: 4
+page_labels: "2"
+tag: BZW9
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 530100ee4e7d89d89a41747f9ca2b0ece0347c66d28ef72d5f8ac534ad6ff952
+prompt_sha256: draft-1
+translated_from: content/ru/1982/09/articles/03_prokofev-s-novyim-uchebnyim-godom-405d517c.md
+source_content_sha256: 9a6ac08a6fb0ab5b8c5974c79d87b426699e819dece152798ffce1ca534ae8ce
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 2⟧
+
+Chúc mừng năm học mới!
+
+Các bạn thân mến!
+
+Năm 1982 có rất nhiều sự kiện có ý nghĩa chính trị quan trọng, mỗi sự kiện đều có ảnh hưởng trực tiếp đến công việc của trường chúng ta.
+
+Kỷ niệm 60 năm thành lập Liên Xô được tổ chức. Đất nước chúng ta đã đi được bao xa trong những năm qua! Đây là quốc gia đầu tiên trên thế giới chuyển đồng rúp để hoàn thành chương trình giáo dục trung học cho thế hệ trẻ. Cô có thể tự hào rằng số tiền rúp mới này mang lại trình độ đào tạo khoa học sâu sắc cho giới trẻ. Sinh viên tốt nghiệp trường Liên Xô có đặc điểm là có khả năng thâm nhập sâu vào cả hiểu biết về các quy luật xã hội và thế giới vật chất. Sự phát triển hài hòa của một con người đạt được thông qua kiến ​​thức về các chân lý khoa học, sự tham gia khả thi liên tục vào các công việc lao động có ích cho xã hội và việc tiếp thu các kỹ năng ứng xử đạo đức cao. Trường học đã trở thành cơ sở giáo dục nhà nước quan trọng nhất, nơi đào tạo những người trẻ xây dựng xã hội cộng sản.
+
+Hội nghị toàn thể tháng 5 (1982) của Ủy ban Trung ương CPSU đã đưa ra Chương trình Lương thực Liên Xô. Việc biến nó thành hiện thực là tùy thuộc vào bạn. Chúng tôi còn nhiều việc phải làm ở phía trước. Mọi thành tựu tư tưởng của con người nhanh chóng được chuyển hóa thành những việc làm cụ thể, những cỗ máy mới, những công nghệ hữu hiệu. Mọi thứ hoàn hảo đều trở thành lao động, nền tảng của doanh nghiệp. Và bạn cần phải chuẩn bị tốt. Người công nhân hiện đại là người hiểu sâu sắc các quá trình diễn ra trong sản xuất vật chất và có khả năng sử dụng chúng một cách hoàn thiện nhất. Đó là lý do tại sao việc phát triển hệ thống các nhóm lợi ích, các khóa học tự chọn, các hiệp hội khoa học của trường và các bộ phận khác nhau là rất quan trọng trong các trường học. Tùy theo sở thích của học sinh, cần bổ sung thêm kiến ​​thức nền tảng vào các môn học cơ bản ở trường. Những giáo viên giỏi nhất không chỉ làm giàu trí nhớ của bạn bằng kiến ​​thức. Họ phát triển khả năng của bạn theo mọi cách có thể và cố gắng cung cấp cho bạn các yếu tố của cách tiếp cận sáng tạo để phân tích các hiện tượng. Phương pháp sư phạm hiện đại là không thể tưởng tượng được nếu không sử dụng các kỹ thuật phát triển và kích thích tư duy.
+
+Sáng kiến ​​tạo ra cuốn tạp chí mà bạn đang cầm trên tay thuộc về những nhà khoa học và giáo viên xuất sắc của đất nước. Đây là tạp chí của Viện Hàn lâm Khoa học Liên Xô và Viện Hàn lâm Khoa học Sư phạm Liên Xô. Nó thuộc thể loại xuất bản không hề dễ đọc. Tuy nhiên, số lượng phát hành của nó vượt quá 175 nghìn bản. Đối với nhiều bạn trẻ, «Kvant» trở thành cột mốc đầu tiên trên con đường đến với khoa học hiện đại. Đây chẳng phải là dấu hiệu cho thấy khát vọng lớn lao của giới trẻ đối với thế giới toán học, vật lý lý thuyết và các ngành khoa học liên quan khác sao?
+
+Tôi chúc bạn thành công mới trong việc làm chủ kho tàng kiến ​​thức phong phú về tự nhiên và xã hội. Cố gắng đi sâu vào hiện tượng hiện có. Hãy nhớ rằng không chỉ số lượng tài liệu bạn hoàn thành được quyết định bởi sự thành công của nghiên cứu mà còn bởi kiến ​​thức chuyên sâu về tài liệu này và khả năng tích cực áp dụng nó vào thực tế.
+
+Bộ trưởng Bộ Giáo dục Liên Xô
+Thành viên tương ứng của Viện Hàn lâm Khoa học Liên Xô
+M. A. PROKOFIEV

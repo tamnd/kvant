@@ -1,0 +1,65 @@
+---
+id: 1982-10-shternberg-standartnyie-priemyi-programmirovaniya-637f6567
+issue: kvant_1982_10
+year: 1982
+number: "10"
+title: Kỹ thuật lập trình tiêu chuẩn
+authors:
+  - Штернберг Л. Ф.
+rubric: raznoe
+rubric_sub: Разное
+page_first: 54
+page_last: 54
+page_labels: "52"
+tag: BDF1
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 14801d700c35f0925a4ec6a5ac0a99ef991fce7ffa5f5120ee219c314cbd3269
+prompt_sha256: draft-1
+translated_from: content/ru/1982/10/articles/12_shternberg-standartnyie-priemyi-programmirovaniya-637f6567.md
+source_content_sha256: f8b57b26d600c9f9475bfdf5d482838f0d322e0daf4da9577e9bd90ca4bafa96
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 52⟧
+
+Kỹ thuật lập trình tiêu chuẩn
+
+(Từ ngữ lập trình)
+
+Hôm nay chúng tôi đăng bài học đầu tiên trong chu kỳ một năm “Kỹ thuật lập trình tiêu chuẩn”. Loạt bài này được thiết kế dành cho học sinh đã làm quen với kiến ​​thức cơ bản về lập trình và muốn nâng cao kiến ​​thức của mình. Cùng với những sinh viên tốt nghiệp Trường Lập trình Tương ứng, làm việc tại «Kvant» từ tháng 9 năm 1979 đến tháng 4 năm 1982, những người tham gia mới cũng có thể thực hiện các nhiệm vụ kiểm soát. Các lớp học được giảng dạy bởi giáo viên của Học viện Hàng không Kuibyshev L. Sternberg.
+
+Đối với mỗi bài học, các nhiệm vụ chuẩn bị được đưa ra mà bạn cần tự mình giải quyết. Bài học thảo luận về các phương án khả thi lời giải, sau đó đưa ra các nhiệm vụ kiểm tra, trong đó lời giải phải được gửi để xác minh. Tất cả các chương trình mẫu đều được viết bằng Pascal; nhiệm vụ điều khiển phải được thực hiện trên đó. Bạn có thể đọc về ngôn ngữ này trên tạp chí «Kvant» (Số 10-11 cho năm 1981 và số 1-4 cho năm 1982).
+
+Những học sinh có kết quả tốt nhất vào cuối chu kỳ một năm sẽ được mời tham gia Trường lập trình viên mùa hè toàn Liên minh lần thứ VII vào năm 1983.
+
+Nếu bạn chưa hoàn thành bài tập của bài học đầu tiên, vui lòng cho biết
+- Họ, tên và chữ viết tắt,
+- Trường, lớp
+— Bạn đã học lập trình trước đây chưa và ở đâu?
+- Địa chỉ bưu chính đầy đủ.
+
+Trong tác phẩm của bạn, hãy đính kèm một phong bì có dán tem ghi địa chỉ của bạn để gửi tác phẩm đã được xác minh của bạn.
+
+Học sinh đến từ các trung tâm tài nguyên vùng Baltic, ở các vùng Arkhangelsk, Volodsk, Kaliningrad, Leningrad, Murmansk, Novgorod và Pskov, ở Cộng hòa xã hội chủ nghĩa Xô viết tự trị Karal và Komi, gửi tác phẩm của mình đến địa chỉ: 190000, Leningrad, st. Herzen, 67, LIAP, Khoa Máy tính, Trường Lập trình Chi nhánh Tây Bắc.
+
+Học sinh đến từ các vùng Kirov, Orenburg, Perm, Sverdlovsk và Chelyabinsk, ở Cộng hòa xã hội chủ nghĩa Xô viết tự trị Bashkir và Udmut, viết thư đến địa chỉ: 620219, Sverdlovsk, st. K. Libknesta, 9, Viện Sư phạm, Khoa Toán tính toán và Lập trình, Trường Lập trình Chi nhánh Ural.
+
+Học sinh từ các vùng Astrakhan, Volgograd, Gorky, Saratov và Ulyanovsk, Mari, Mordovian, Tatar và Chuva gửi tác phẩm của mình đến địa chỉ: 420008, Kazan, st. Lenina, 18 tuổi, Đại học, Khoa Toán tính toán và Điều khiển học, Chi nhánh Trường Lập trình Tương ứng Vùng Volga.
+
+Học sinh sống ở các vùng Belgorod, Bryansk, Vladimir, Voronezh, Ivanovo, Kalinin, Kostroma, Kursk, Kuibyshev, Lipetsk, Oryol, Penza, Ryazan, Smolensk, Tambov, Tula và Yaroslavl viết thư đến địa chỉ: 443462 GSP, Kuibyshev, Molodogardskaya, 151, Viện Hàng không Kuibyshev, Khoa Toán Ứng dụng, Chi nhánh Trung ương Trường lập trình tương ứng.
+
+Học sinh sống ở Kazakhstan SSR và Trung Á giàu tài nguyên gửi tác phẩm của mình đến địa chỉ: 642000, vùng Bắc Kazakhstan, Petropavlovsk, st. Pushkina, 86 tuổi, Viện Sư phạm, Khoa Đại số và Hình học, chi nhánh Trường Lập trình Tương ứng Kazakhstan.
+
+Cư dân của phần còn lại của lãnh thổ Liên Xô và độc giả nước ngoài gửi tác phẩm đến địa chỉ trước đó: 630090, Novosibirsk, ak. pr. Lavrentieva, 6 tuổi, Trung tâm Máy tính SOAN SSR, phòng thông tin, Trường Lập trình Thông tin.
+
+Bài 1. Đếm bằng công thức truy hồi
+
+Cần những gì để nói được một ngôn ngữ? Bạn cần phải biết một số từ nhất định và có thể xây dựng các cụm từ một cách chính xác, nghĩa là biết ngữ pháp của ngôn ngữ - có vẻ như vậy thôi. Nhưng không: bạn cũng cần phải biết cụm từ - tức là nên sử dụng cụm từ nào và khi nào lời giải.
+
+Làm thế nào để chào hỏi một người? Ví dụ, người Anh tin rằng cụm từ tốt nhất cho điều này là “Hau do io do?”, nhưng nếu bạn nói xin chào bằng tiếng Nga với bản dịch theo nghĩa đen của cụm từ này (“Bạn khỏe không?”), thì rõ ràng, bạn sẽ bị coi là bất lịch sự (trong tiếng Nga, câu hỏi này có thể được hỏi sau một lời chào, nhưng không phải như một lời chào) hoặc sẽ được dạy để trả lời chi tiết về bản chất của câu hỏi, điều mà trên thực tế là bạn không cần. Như bạn có thể thấy, việc thiếu hiểu biết về cụm từ có thể dẫn đến rắc rối: người ta có thể không hiểu hoặc hiểu lầm bạn.
+
+Cụm từ lập trình là gì? Lập trình cũng là một dạng trò chuyện, không chỉ với con người mà với máy tính, và nó được thực hiện bằng các ngôn ngữ đặc biệt.
