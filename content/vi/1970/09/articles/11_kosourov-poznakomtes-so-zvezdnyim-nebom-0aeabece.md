@@ -17,7 +17,7 @@ source: kvant_digital
 extraction: vision
 content_sha256: 0498b8686c89215ed94664e520940b4fd8149c960ccc897734c0ebb8db815dbf
 prompt_sha256: 3ec6b8aabd9b98576af76503cd8a2902b9f5d18e01ee867dfb1228f59c6d52d8
-translated_from: content/ru/1970/09/articles/07_kosourov-poznakomtes-so-zvezdnyim-nebom-0aeabece.md
+translated_from: content/ru/1970/09/articles/11_kosourov-poznakomtes-so-zvezdnyim-nebom-0aeabece.md
 source_content_sha256: 7685e91c96e308c84361c7ae0207aa1c98c591eda3fd8bcc47c28b77ccf2ffa3
 translation_model: gpt-5-6-mini
 translation_run: m10-1970-vi

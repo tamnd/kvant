@@ -17,7 +17,7 @@ source: kvant_digital
 extraction: vision
 content_sha256: 7610c88cf87cd9d681b9842f94139dad8498785f00b6a1af97fc099dda76906a
 prompt_sha256: 3ec6b8aabd9b98576af76503cd8a2902b9f5d18e01ee867dfb1228f59c6d52d8
-translated_from: content/ru/1970/09/articles/08_altyikis-uchenyie-v-miniatyurnoy-zhivopisi-f50143a0.md
+translated_from: content/ru/1970/09/articles/12_altyikis-uchenyie-v-miniatyurnoy-zhivopisi-f50143a0.md
 source_content_sha256: 61876c18fd144064a8603724b00aba541d1e8514e36e720506a7c508fccce712
 translation_model: gpt-5.6-terra
 translation_run: vi-codex-2026-10-31

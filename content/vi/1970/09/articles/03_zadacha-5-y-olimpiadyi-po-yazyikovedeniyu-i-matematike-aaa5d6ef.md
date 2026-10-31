@@ -14,7 +14,7 @@ source: kvant_digital
 extraction: vision
 content_sha256: d838a45be3c74f2735306491b7d48a556ba947db690559015711db0268d5c6ba
 prompt_sha256: 3ec6b8aabd9b98576af76503cd8a2902b9f5d18e01ee867dfb1228f59c6d52d8
-translated_from: content/ru/1970/09/articles/02_zadacha-5-y-olimpiadyi-po-yazyikovedeniyu-i-matematike-aaa5d6ef.md
+translated_from: content/ru/1970/09/articles/03_zadacha-5-y-olimpiadyi-po-yazyikovedeniyu-i-matematike-aaa5d6ef.md
 source_content_sha256: a9bdf168360c73eb5fbeb71854865bb314031646f294b63fa41c31386d7d90b0
 translation_model: gpt-5-6-mini
 translation_run: m10-1970-vi
