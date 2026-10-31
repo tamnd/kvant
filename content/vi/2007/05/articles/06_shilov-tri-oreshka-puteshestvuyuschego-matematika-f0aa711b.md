@@ -1,0 +1,81 @@
+---
+id: 2007-5-shilov-tri-oreshka-puteshestvuyuschego-matematika-f0aa711b
+issue: kvant_2007_5
+year: 2007
+number: "5"
+title: Ba vấn đề của một nhà toán học du hành
+authors:
+  - Шилов Н.
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 32
+page_last: 33
+page_labels: 30-31
+tag: APK9
+lang: vi
+source: kvant_digital
+extraction: native
+content_sha256: cc70625fc6dcdef3e2e01ce9adeb0b65be64f4ee110a3afc48782fbac4f67f3d
+prompt_sha256: draft-1
+translated_from: content/ru/2007/05/articles/06_shilov-tri-oreshka-puteshestvuyuschego-matematika-f0aa711b.md
+source_content_sha256: 4a999eaac46b5f7287fc17c2f1f3e3f19e4a99acbfa0a6f0f35351d4b7d35756
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 30⟧
+
+KVANT 2007/№5
+
+Cuộc thi mang tên A.P. Savin
+
+"Toán 6–8"
+
+Chúng tôi tiếp tục cuộc thi tiếp theo ở môn lời giải toán bài toán dành cho học sinh lớp 6–8. Gửi Lời giải bài toán trong vòng một tháng sau khi nhận được số tạp chí này đến địa chỉ: 119296 Moscow, Leninsky Prospekt, 64-A, «Kvant» (được đánh dấu là “Cuộc thi “Toán học 6–8”). Hãy nhớ điền tên, lớp và địa chỉ nhà của bạn. Như trước đây, chúng tôi hoan nghênh sự tham gia vào cuộc thi không chỉ của từng học sinh mà còn của các câu lạc bộ toán học. Chúng tôi yêu cầu vòng tròn lãnh đạo cung cấp địa chỉ email hoặc số điện thoại liên hệ Theo truyền thống, các câu lạc bộ chiến thắng trong cuộc thi thư từ sẽ được mời tham dự giải đấu trực tiếp cuối cùng.
+
+6. Nắm tay nhau, 64 vũ công dẫn dắt 4 điệu múa vòng tròn có chung một trung tâm. 16 người tham gia một điệu nhảy vòng tròn - 8 chàng trai và số cô gái như nhau. Các điệu nhảy vòng xoay đều nhau, sao cho 4 vũ công - một người trong mỗi điệu nhảy vòng tròn - rơi vào từng phần trong số 16 khu vực giống hệt nhau của vòng tròn cùng lúc với điệu nhảy. Có thể phân chia nam và nữ theo cách sao cho dù vòng tròn múa theo hướng nào thì ở bất kỳ nhịp nào của điệu nhảy đều có một khu vực chứa 4 chàng trai? K. Kaibhanov
+
+7. Tổng bình phương của ba số nguyên liên tiếp có thể là lập phương của số nguyên đó không? V. Người gửi
+
+8. Chúng ta gọi một dải có chiều rộng là phần của mặt phẳng nằm giữa hai đường thẳng song song với khoảng cách giữa chúng là a. Ba sọc có chiều rộng bằng nhau tại giao điểm tạo thành hình lục giác hình ngôi sao ABCDEFGHIJKL. ĐẾN-
+
+⟦column⟧
+
+chứng minh rằng các đoạn thẳng sau cắt nhau tại một điểm: a) AG, CI và EK; b) AG, BH và FL; c) CI, BH và DJ; d) EK, DJ và FL. I. Akulich
+
+9. 100 số tự nhiên đầu tiên được viết sao cho mỗi cặp số có tổng bằng 101, một số viết bằng mực đỏ, số còn lại viết bằng màu xanh, tổng các số màu đỏ bằng tổng của tất cả các số màu xanh. Trọng số của một số màu bất kỳ là số lượng các số có màu khác nhỏ hơn số này. Chứng minh rằng tổng bình phương trọng số của các số màu đỏ bằng tổng bình phương trọng số của các số màu xanh. V.Proizvolov
+
+10. Trong mỗi ô của bảng vuông n ѣ n một số số thực được viết và tổng của tất cả các số trong bất kỳ hình vuông nào $3 \times 3$ là âm và trong bất kỳ hình vuông nào $5 \times 5$ là dương. Bảng như vậy có tồn tại với a) n = 6; b) n = 7? D. Levin, P. Samovol
+
+Ba vấn đề của một nhà toán học du hành
+
+N. SHILOV
+
+TOÁN HỌC LÀM GÌ TRONG CÁC CHUYẾN ĐI KHOA HỌC? Thông thường, họ làm quen với các kết quả khoa học mới và - quan trọng hơn! – với các phương pháp mới để thu được kết quả khoa học mới. Chà, các nhà toán học làm gì khi họ chuẩn bị đi công tác, đi máy bay hay đi tàu hỏa? Ví dụ: tôi nghĩ ra bài toán và thực sự hy vọng rằng ai đó sẽ quan tâm đến việc giải chúng. Trong chuyến đi gần đây nhất của tôi từ Novosibirsk đến Frankfurt, tôi trở về với ba vấn đề “điên rồ” mới. Hãy cố gắng tìm ra chúng! Trong mọi bài toán, chúng ta sẽ cho rằng hành tinh quê nhà Trái đất của chúng ta là một quả bóng.
+
+⟦folio 31⟧
+
+ĐẾN
+
+Đai ốc đầu tiên bị nứt Trên một mặt phẳng, khoảng cách ngắn nhất giữa hai điểm là đoạn thẳng nối các điểm này, còn trên một mặt cầu (bề mặt của quả bóng) là đoạn của một cung tròn lớn nối các điểm này. Tuy nhiên, máy bay chở khách từ điểm khởi hành đến điểm đến không bay theo một vòng tròn lớn mà bay dọc theo một đường đứt đoạn nào đó. Theo phép tính gần đúng đầu tiên, chúng ta có thể giả định rằng đường này bao gồm các vòng cung nối các tháp điều khiển mặt đất liền kề. Những điểm như vậy được đặt tại các sân bay lớn. Và các sân bay lớn đều “gắn” với các thành phố lớn. Chà, các thành phố lớn trên Trái đất không nằm theo một trật tự hình học nghiêm ngặt. Giả sử rằng trên Trái đất tròn hoàn hảo, các tháp điều khiển cách đều nhau. Ví dụ như thế này. Hãy chọn 24 kinh tuyến qua $15 ^\circ$ của nhau. Dọc theo mỗi kinh tuyến, chúng ta sẽ đặt các điểm kiểm soát xuyên qua $15 ^\circ$ từ xích đạo đến từng cực. Câu hỏi 1. Sẽ có bao nhiêu trung tâm điều khiển trên Trái đất? Sẽ có bao nhiêu đoạn nối các trung tâm điều khiển lân cận dọc theo các vĩ tuyến và kinh tuyến?
+
+Hạt thứ hai Ngay sau khi nhà toán học hoàn thành nhiệm vụ này, anh ta sẽ nghĩ về kế hoạch du hành xa hơn. Trong thế giới lý tưởng như vậy, hãy để máy bay chở khách bay từ điểm khởi hành đến đích không “trực tiếp” dọc theo một vòng cung lớn mà chỉ bay dọc theo một đường gãy gồm các đoạn (cung tròn) nối hai tháp điều khiển lân cận dọc theo một đường song song hoặc một kinh tuyến. Nói cách khác, máy bay chỉ có thể đổi hướng qua tháp điều khiển. Câu hỏi 2. Có thể bay vòng quanh toàn bộ Trái đất, tức là bay qua tất cả các tháp điều khiển, để bay qua từng khu vực và chỉ một lần không? Nếu một cuộc hành trình như vậy là khả thi thì việc nó bắt đầu từ đâu có quan trọng không? Câu 3. Có thể bay vòng quanh Trái đất để bay qua từng tháp điều khiển và chỉ một lần không? Nếu một cuộc hành trình như vậy là khả thi thì việc nó bắt đầu từ đâu có quan trọng không?
+
+Điều thứ ba Đây có lẽ là điều khó giải quyết nhất, nhưng nó đưa ra ý tưởng về các vấn đề mà toán học ứng dụng hiện đại giải quyết. Câu 4. Cho hai điểm khống chế tùy ý theo tọa độ, ví dụ điểm A (30 $^\circ$ vĩ độ Bắc, $60 ^\circ$ kinh độ Đông) và điểm B (75 $^\circ$ vĩ độ Bắc, $75 ^\circ$ kinh độ Tây). Làm thế nào để tìm được đường bay ngắn nhất từ ​​điểm đầu tiên đến điểm thứ hai và nó sẽ như thế nào? (Giả sử bán kính Trái đất là 6400 km.)
+
+Cách bẻ đai ốc đầu tiên Có 13 trung tâm điều khiển dọc theo mỗi kinh tuyến: 2 trung tâm ở hai cực và 11 trung tâm nữa ở các trung tâm khác
+
+M
+
+Sh
+
+⟦column⟧
+
+vĩ độ Nhưng nếu chúng ta chỉ nhân số 13 này với số kinh tuyến 24 thì các trung tâm điều khiển ở hai cực sẽ được tính 24 lần thay vì một lần. Vì vậy, cần nhân số 11 điểm khống chế ở các vĩ độ khác với số kinh tuyến 24 rồi cộng 2 điểm khống chế ở hai cực sẽ được kết quả: 11 = 24 + 2 = 266 điểm khống chế. Số đoạn kết nối các trung tâm điều khiển lân cận dọc theo các vĩ tuyến hoặc kinh tuyến có thể được tính theo nhiều cách khác nhau. Ví dụ như thế này. Mỗi kinh tuyến có 12 đoạn. Do đó, số đoạn dọc theo tất cả các kinh tuyến là 12 ѣ 24 = 288. Mỗi vĩ tuyến có 24 đoạn. Vì có 11 vĩ tuyến như vậy nên số đoạn dọc theo các vĩ tuyến là 11 ѣ 24 = 264. Do đó, tổng số đoạn giữa các trung tâm điều khiển lân cận là 288 + 264 = 552. Nhưng còn có cách tính số đoạn khác. Hãy gọi cấp độ của trung tâm điều khiển là số phần “bắt đầu” tại thời điểm này. Khi đó tất cả 264 điểm ngoại trừ hai điểm cực đều có bậc 4, và hai điểm cực mỗi điểm có bậc 24. Vì mỗi phần giữa các điểm lân cận tạo nên một “đóng góp” từ một vào bậc của hai điểm nằm ở hai đầu của phần đó, bạn có thể nhận thấy rằng tổng số độ của tất cả các điểm nói chung bằng hai lần số của tất cả các phần. Nhưng tổng bậc của tất cả các điểm rất dễ tìm: nó bằng 4 ѣ 264 + 24 ѣ 2 = 1056 + 48 = 1104. Do đó, số đoạn là 1104/2 = 552, trùng khớp với kết quả tính toán trực tiếp.
+
+Cách bẻ đai ốc thứ hai
+
+Đáp số cho câu hỏi 2. Hành trình như vậy là khả thi và bạn có thể bắt đầu nó từ bất kỳ điểm nào. Nhưng trước tiên, chúng ta hãy xem lộ trình có thể có của một chuyến đi như vậy, bắt đầu và kết thúc ở Bắc Cực. Ví dụ: nếu bạn bắt đầu hành trình của mình ở Bắc Cực, thì bạn có thể “đi xuống” đến Nam Cực dọc theo kinh tuyến thứ nhất, sau đó “đi lên” từ Cực Nam đến Bắc Cực dọc theo kinh tuyến thứ hai. Sau đó lặp lại những bước đi lên và đi xuống này trên các kinh tuyến tiếp theo cho đến kinh tuyến thứ 22. Vẫn chỉ bay những phần nằm dọc theo hai kinh tuyến cuối cùng và tất cả các phần dọc theo vĩ tuyến. Điều này có thể được thực hiện như thể hiện dưới dạng sơ đồ trong hình 1. Do đó, tại Bắc Cực, một chuyến bay ngang qua Trái đất sẽ hoàn thành, nó đã đi qua tất cả các khu vực đúng một lần. Tuyến đường được mô tả được gọi là chu trình, vì vậy Hình 1
+
+(Tiếp theo trang 34)

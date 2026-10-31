@@ -1,0 +1,66 @@
+---
+id: 2007-5-zadachi-96d728ac
+issue: kvant_2007_5
+year: 2007
+number: "5"
+title: Bài toán
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 31
+page_last: 31
+tag: D1A5
+lang: vi
+source: kvant_digital
+extraction: native
+content_sha256: 0f5006ed6464f3bf0478bc82aed026f515e22c4d16c86209eaf6ac10932d63f9
+prompt_sha256: draft-1
+translated_from: content/ru/2007/05/articles/04_zadachi-96d728ac.md
+source_content_sha256: d06391e3654b784db07de75ec3e5cb8cfd59385dd6e410589c5c173bd72840a1
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+Bài toán
+
+1.
+
+Ở Sunny City, ba nhóm sản phẩm lùn đã được hình thành: ốc vít, lưỡi và bu lông. Hóa ra đối với ba thành viên bất kỳ trong nhóm thì sẽ có một nhóm bao gồm ít nhất hai người trong số họ. Có đúng là tất cả thành viên của một bên đều là thành viên của một trong hai bên kia không? D. Kalinin
+
+⟦column⟧
+
+4.
+
+Hàng tuyển binh xếp thành nhiều hàng giống nhau tạo thành hình chữ nhật. Theo lệnh “chú ý”, một số binh sĩ sợ hãi quay sang phải, một số - sang trái, những người khác - xung quanh, và một số hoàn toàn chết lặng và bất động. Sau đó, cứ mỗi giây, điều sau đây lại xảy ra: mỗi người tuyển dụng thấy mình đối mặt với một người lính khác sẽ rẽ phải. a) Chứng minh rằng sớm hay muộn những vòng quay đó sẽ dừng lại. b) Liệu các lượt quay có dừng lại nếu không phải cả hai người lính mặt đối mặt mà chỉ một trong số họ quay đầu? I. Akulich
+
+2.
+
+Với mọi số không âm a, b, bất đẳng thức sau có giá trị:
+
+$2^{3}$
+
+$3^{2}$
+
+$(^{a} +^{b} )$ ³ $(^{a} +^{b} )$.
+
+2
+
+3
+
+Chứng minh điều đó.
+
+V. Người gửi
+
+5.
+
+Một hình vuông được ghi trong vòng tròn của khu vực 1, và một hình tròn mới được sơn màu xanh lam trong đó. Sau đó, một hình tròn được ghi trong một hình vuông có diện tích 1, và một hình vuông được sơn màu xanh lam trong đó. Diện tích của ai lớn hơn: hình tròn màu xanh hay hình vuông màu xanh? V.Proizvolov
+
+Những bài toán này chủ yếu dành cho học sinh lớp 6 – 8.
+
+Minh họa của D. Grishukova
+
+3.
+
+Đặt các số từ 1 đến 9 vào các vòng tròn của các hình sao cho tổng của ba số nằm trong các vòng tròn đỉnh của tất cả các hình tam giác màu trắng đều bằng nhau, và trong tất cả các hình tam giác màu xanh lá cây cũng bằng nhau, nhưng thêm 3 số nữa. N. Avilov
