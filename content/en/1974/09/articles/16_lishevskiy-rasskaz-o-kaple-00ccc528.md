@@ -1,0 +1,80 @@
+---
+id: 1974-9-lishevskiy-rasskaz-o-kaple-00ccc528
+issue: kvant_1974_9
+year: 1974
+number: "9"
+title: The story of the drop
+authors:
+  - Лишевский В. П.
+rubric: retsenzii-bibliografiya
+rubric_sub: Рецензии, библиография
+page_first: 59
+page_last: 59
+page_labels: "57"
+tag: PS39
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 2bf047815ceb5d216c0d260dbec42d4fb5c812653575c58401f837e3bb0c0508
+prompt_sha256: draft-1
+translated_from: content/ru/1974/09/articles/16_lishevskiy-rasskaz-o-kaple-00ccc528.md
+source_content_sha256: f0ac5f627c7262688bdfd1ec2e4ce6bd67077cc0e0f7023a9bb496fc2e5d70f9
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 57⟧
+
+The story of the drop
+
+Physics is structured in such a way that behind any, even the most seemingly simple object studied, many unexpected things are hidden. Not only the antiworld, but also an ordinary drop of tant contains many interesting problems. But it’s no easier to surprise these problems, to surprise “the complex in the simple” than “the simple in the complex.”
+
+The new popular science book by Ya. E. Geguzin “The Drop” *) consists of separate essays telling about the physical laws governing the behavior of the drop, and about the scientists who the drop helped solve a number of complex and important problems in various fields of science. So, in the words of an annotation, you can briefly summarize the contents of the book. But the abstract does not convey the position of the two books at all. The author set himself the goal of showing the kinship between science and art. And he succeeded.
+
+It was a success not only externally (the book contains poems and excerpts from works of art associated with the drop), but also internally. The similarity between scientific and artistic creativity is especially visible in the queues connected by scientists who studied the drop. A book populated by living people. The author talks especially reliably about Lemmlein, Frenkel, and Pines, with whom he was personally acquainted.
+
+The reader learned about how drops fall, how many drops merge, how a drop behaves in zero gravity, what void drops and drop bearings are, what glycerin drops are and anti-rain. Bot names of some essays, which, it seems to me, well convey the style of the book: “Melt Water”, “Drop Ball and Drop Parachute”, “Water Crown”, “A Drop of Living Heart”, “Ambush on Dew”, etc. This style of presentation, light and unpretentious, only once again emphasizes the author’s idea that there is no strictly dividing barrier between science and art.
+
+The mathematics in the book is elementary and unobtrusive. Assessments require not so much knowledge of mathematics, but an understanding of physics. The calculations are accessible to anyone who has come to terms with the idea that any physical process can be described using mathematical symbols.
+
+The book is illustrated with bibliograms obtained during high-speed filming, which makes all the processes that the author talks about very clear.
+
+“The Drop” will undoubtedly be read with interest by anyone interested in physics.
+
+V. P. Lishchevsky
+
+1. Prove that the equation
+$$2^x + 13^y = 19^z$$
+has no solutions in natural numbers.
+
+A. Khotsanya
+
+2. Consider the set of natural four-digit numbers $xyz$ satisfying the system of equations
+$$\begin{cases} zt = 3zt - 10, \\ xyz = 252. \end{cases}$$
+
+Find the name of the number in this set.
+
+D. A. Dvorsky
+
+3. In the multiplication example
+$$\times xyz$$
+***
+
+****
+
+**y**
+
+******different numbers are indicated by different letters or asterisks. Try to decipher the example.
+
+S. P. Ternova
+
+4. Prove that in a right triangle, the sum of the lengths of the legs is equal to the sum of the diameters of the inscribed and circumscribed circle.
+
+K. D. Mamedov
+
+5. The two-digit number 81 has the following properties: the sum of its digits squared gives the same number, $9^2 = 81$. The three-digit number $512:8^3=512$ has similar properties.
+
+Try to find all the numbers whose sum of digits, raised to some power, gives the same number. How many digits can such numbers have?
+
+B. V. Malini

@@ -1,0 +1,62 @@
+---
+id: 1974-9-gresserman-manevryi-b7d4c628
+issue: kvant_1974_9
+year: 1974
+number: "9"
+title: Maneuvers
+authors:
+  - Грессерман И. В.
+rubric: smes
+page_first: 21
+page_last: 21
+page_labels: "19"
+tag: G3EO
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: ad7f8cadf50c405ca416c80e1c2310775adc892db2dea8584d0f92a66d74bf15
+prompt_sha256: draft-1
+translated_from: content/ru/1974/09/articles/07_gresserman-manevryi-b7d4c628.md
+source_content_sha256: 78746d3f02800b67bb9c99a57822dbd4219429b6a6708b405579fe4f884972a7
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 19⟧
+
+(where $|b_n| = 1$) so that the series $a_1b_1 + a_2b_2 + a_3b_3 + \dots$ converges to $S$.
+
+We rearrange only negative terms. The series $a_1 + a_2 + a_3 + \dots$ is conditionally convergent.
+
+Let us allow only negative terms $a_n$ to be interchanged (leaving all positive terms $a_n$ in their original places).
+
+Exercise 21
+
+a) Can the series $a_1 + a_2 + a_3 + \dots$ become divergent under the indicated permutations?
+
+b) Is it always possible to make it converge to an arbitrary given sum $S$ using such permutations?
+
+b) To what sums can it be known to converge with such permutations?
+
+A complex version of Riemann's theorem. Before Schorma, the terms of the series $a_n$ were considered to be arbitrary real numbers. Let us now allow them to accept any complex values.
+
+Exercises
+
+22. Let the series $a_1 + a_2 + a_3 + \dots$ ($a_n$ are complex) converge to the sum $Z_1$, and let its terms be rearranged so that the new series converges to the sum $Z_2$. Let us take an arbitrary $Z$ on the line passing through $Z_1$ and $Z_2$. Prove that it is possible to rearrange the terms of the series $a_1 + a_2 + a_3 + \dots$ so that the sum of the resulting series is equal to $Z$.
+
+23. Let $a_1 + a_2 + a_3 + \dots$ be an arbitrary convergent series of complex numbers. Let us consider all possible convergent series obtained from it by rearranging the terms $a_n$, and mark on the complis plane all the numbers $Z$, which serve as sums of the series under consideration. Prove that only three cases are possible:
+
+a) one single point $Z$ will be displaced,
+
+b) all points on a certain line will be displaced,
+
+b) all numbers $Z$ will be offset (that is, all points of the complex plane).
+
+Maneuvers
+
+From station $K$ to track 5 (see figure) approaching locomotive $J$ with cars $C$ and $D$. On tracks 2 and 3 there are empty cars $A$ and $B$. It is required to use locomotive $J$ to place car $C$ on track 2, car $D$ to track 3, and cars $A$ and $B$, led by the locomotive, to put on track 5 for departure to station $K$.
+
+When maneuvering, the cars can be aimed at the locomotive from any side. The capacity of tracks 1–5 is not limited, and dead ends 1–111 only accommodate one carriage or locomotive. In what minimum number of operations can the required maneuvers be performed? We will consider an operation to be the relocation of one or several cars from one track (dead end) to another track (dead end). Cold locomotive flights are not considered an operation.
+
+I. V. Gresserman
