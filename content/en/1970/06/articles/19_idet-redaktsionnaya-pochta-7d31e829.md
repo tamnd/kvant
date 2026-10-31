@@ -1,0 +1,40 @@
+---
+id: 1970-6-idet-redaktsionnaya-pochta-7d31e829
+issue: kvant_1970_6
+year: 1970
+number: "6"
+title: Editorial mail in progress
+rubric: raznoe
+page_first: 66
+page_last: 66
+page_labels: "64"
+tag: 4ODQ
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 6835442f0423fa6bf03df55ef8dc5fc2d60359e5f3f0e52d319527c2f6a5d851
+prompt_sha256: draft-1
+translated_from: content/ru/1970/06/articles/19_idet-redaktsionnaya-pochta-7d31e829.md
+source_content_sha256: ec84c2622a24d211e3d2a4d43ae9840016c80e405646b575f83a90f80e898d57
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 64⟧
+
+ugem
+recreational
+mail
+
+Every day the post office delivers bundles of letters to the editorial office «Kvant», from which, apparently, you can study geography: figurative addresses name ten familiar and unfamiliar cities and villages of the country. They are different, these reader images. In some there are requests for the opportunity to subscribe, in others there is advice on how best to make a magazine, in others there are solutions to published problems or problems invented by the authors of the letters themselves.
+
+There were especially many postcards for the first issue. And here it is pleasant to note that the vast majority of letters are from schoolchildren. However, sometimes it is not the students themselves who tell the tales, but their parents. Thus, the choice is made that the access journal is read mainly by those for whom it was created. At the same time, it’s good that among our correspondents there are teachers of mathematics and physics, students of pedagogical engineers, workers...
+
+Of course, we were primarily interested in the overall assessment of the journal. In the letters we have received so far, it is mostly favorable, although the two-month delay of the first issue could very well spoil the mood of the correspondents. The majority wrote as much: the magazine got better, despite the fact that it was delivered very late...
+
+The delay in the release of «Kvant» also upset the editors, who bring their deep findings to subscribers and at the same time inform that they are taking all possible measures for the timely release of the next issues of the magazine.
+
+What did the reader like? Some report not only their promise to print... “The magazine is needed especially for those who truly love physics and mathematics... It is very good that you need to work on it. I worked with satisfaction on the compositions of A. N. Kolmogorov “What is a function”, I. Sh. Slobodtsky “Dry friction”, I read with interest about what worries physicists at the present time” (Kuzmina Elena, 10th grade student, Redkino station, Severny village, Kalinin region). “Already in the first issue, interesting articles were published, like no other magazine for students. There are good problems in mathematics and physics. Print more difficult and interesting problems” (Vl. Brit, 10th grade student, Gomel). “The magazine believes in me. Is everything clear? Of course not. But please believe me, I will and want to work” (P. Sadovnikov, 8th grade student, Voroshilgrad).
+
+It is important that in letters sent from rural areas, providing replacement or business advice that come to us in LOB from envelopes, we will try to take into account.
