@@ -43,7 +43,7 @@ DOI: https://doi.org/10.4213/kvant20230305
 
 ⟦figure⟧
 
-Hình 1
+Cơm. 1
 
 tam giác BAC và ACE có hai cạnh bằng nhau (AB AC, BC AE) và góc xen giữa ( ABC CAE) nên ACE BAC 100 q. Ngoài ra, các tam giác DAC và DEC có ba cạnh bằng nhau, do đó ACD ECD 50 q và cuối cùng,
 
@@ -83,7 +83,7 @@ B
 
 ⟦figure⟧
 
-Hình 2
+Cơm. 2
 
 D
 
@@ -103,7 +103,7 @@ K
 
 ⟦figure⟧
 
-Hình 3
+Cơm. 3
 
 Trên thực tế, mỗi cách xây dựng được liệt kê ở trên đều giúp giải quyết bài toán, nhưng chúng ta sẽ đi sâu vào chi tiết hơn về tam giác AMN, vì dọc theo đó, nó sẽ dẫn đến những sự thật thú vị khác. Thật vậy, do điều kiện và cách xây dựng bổ sung nên có thể tính được góc BMN 360 q 180 q 2 10 q – 60q 140 q. Vì MN = AM = BM nên tam giác MBN là cân và MBN 20 q MBC. Điều này có nghĩa là các điểm B, C và N nằm trên cùng một đường thẳng! Bây giờ hãy xét tam giác ANC. Nó có ANC ANM MNB 60 q 20 q 80 q và ACN CAB ABC 30 q 50 q 80 q là góc ngoài của tam giác ABC. Như vậy tam giác ANC là tam giác cân nhưng tam giác ACM cũng sẽ cân. Từ đây dễ dàng tính được MCA 70 q.
 
@@ -143,7 +143,7 @@ C
 
 ⟦figure⟧
 
-Hình 4
+Cơm. 4
 
 sao cho một điểm P sao cho BPC 30 q. Chứng minh rằng AP BC. Lời giải. Một gợi ý để dựng tam giác đều phụ là 80 q 60 q 20 q. Tùy thuộc vào cách bạn “trừ” chính xác góc 60q, bạn có thể dựng các tam giác ABE, ACD hoặc BCF (Hình 4). Một lần nữa, mỗi tam giác này đều có kết quả là lời giải bài toán. Ở đây chúng ta sẽ cho lời giải sử dụng tam giác BCF. Tam giác ABF và ACF có ba cạnh bằng nhau, tức là BAF CAF 10 q và ABF ACF 80 q 60 q 20 q. Theo tính chất góc ngoài BPC của tam giác APC ta thu được ACP 30 q 20 q 10 q. Như vậy, trong các tam giác APC và CFA, các góc 10q và 20q kề cạnh AC, điều này suy ra hai tam giác APC và CFA và AP CF BC bằng nhau.
 
@@ -157,7 +157,7 @@ C
 
 ⟦figure⟧
 
-Hình 5
+Cơm. 5
 
 Ngoài ra, theo xây dựng của CE BM. Để các tam giác AEC và KMB bằng nhau chỉ có hai góc AEC và BMK là không bằng nhau mà cả hai góc này đều kề với các góc 60q nên có 'AEC' BMK và AC BK. Bài toán 6 (E. Bakaev, Olympic Toán học LXXXII Moscow, 2019). Trong tam giác cân ABC lấy điểm K sao cho KAC 30 q và AB BC CK. Tìm góc AKB. Lời giải. Trong bài toán này, một lần nữa, có một số cách để tìm đáp số bằng cách sử dụng một tam giác đều. Dựng tam giác đều ACL (Hình 6) sẽ biến AK thành phân giác, đường trung tuyến và đường cao, còn dựng tam giác đều ABP hoặc BMC sẽ cộng các tam giác cân. Chúng tôi dành cho người đọc hai phương pháp đầu tiên như một bài tập; chúng cũng có thể được tìm thấy trong cuốn sách “Olympic Toán học LXXXII Moscow”
 
@@ -175,7 +175,7 @@ P
 
 M
 
-Hình 6
+Cơm. 6
 
 ⟦folio 41⟧
 
@@ -227,7 +227,7 @@ C
 
 B
 
-Hình 7
+Cơm. 7
 
 D
 
@@ -241,7 +241,7 @@ Bài toán 2. Sân vận động MIPT Đường chạy tại sân vận động 
 
 ⟦figure⟧
 
-Hình 2
+Cơm. 2
 
 các đoạn tuyến tính có chiều dài l 84,39 m và hai đoạn có dạng hình bán nguyệt có bán kính R. Bán kính quỹ đạo của vận động viên, hay bán kính hiệu dụng, trên đường chạy đầu tiên là $R_{1} 36,80$ m. 1) Tìm độ dài hiệu dụng $L_{1}$ của một vòng tròn của rãnh đầu tiên. 2) Xác định khoảng cách ' $l_{12}$, ' $l_{23}$, ' $l_{34}$, vạch xuất phát phải nằm trên các đường đua khác nhau trên các đoạn thẳng sao cho độ dài của khoảng cách 3 vòng trùng nhau, miễn là đích về đích nằm ở vạch xuất phát của đường đua đầu tiên. 3) Tốc độ trung bình của một vận động viên chạy 6 vòng dọc theo đường đua đầu tiên có thể có giá trị bao nhiêu nếu anh ta xác định thời gian chạy đua của mình bằng đồng hồ sân vận động (chính xác đến từng phút)? Vận động viên xuất phát lúc 13h và về đích lúc 13h13. Biểu thị tốc độ trung bình tối đa và tối thiểu theo cả km h và ms. Ghi chú. Độ dài của một đường tròn có bán kính R bằng 2 S R, trong đó S là 3,1416. D.Rubtsov
 
@@ -251,7 +251,7 @@ Bài toán 3. Sô cô la và caramel Khi sản xuất kẹo, sô cô la trắng 
 
 Bài toán 4. Bắt kịp Hai ô tô cùng lúc xuất phát từ điểm A đến điểm B trên một đoạn đường thẳng. Được biết, ô tô thứ nhất chuyển động với vận tốc không đổi $v_{1}$ không dừng lại cho đến điểm B. Đến điểm B, ô tô dừng lại chờ ô tô thứ hai đến. Xe thứ hai chuyển động với vận tốc không đổi $v_{2}$ nhỏ hơn $v_{1}$. Sau một thời gian, người đó dừng lại và khi ô tô đầu tiên đến điểm B, người đó lại tiếp tục chuyển động với vận tốc như cũ $v_{2}$. Hình 3 thể hiện biểu đồ khoảng cách giữa các ô tô theo thời gian tính đến thời điểm $t_{1} 4$ phút. Vào thời điểm $t_{2} 14$ phút hai xe gặp nhau. 1) Xác định tốc độ của ô tô $v_{1}$ và $v_{2}$. 2) Xe thứ hai đứng yên trong bao lâu? 3) Tìm khoảng cách L giữa hai điểm A và B. A. Evseev
 
-Hình 3
+Cơm. 3
 
 ⟦folio 49⟧
 
@@ -263,7 +263,7 @@ Bài toán 1. Dọc theo một đường ống Hai quả bóng nhỏ, nhẹ, đ�
 
 ⟦figure⟧
 
-Hình 4
+Cơm. 4
 
 1) Sau khoảng thời gian nào $W_{1}$ quả bóng bên trái lần đầu tiên sẽ va chạm với thành cuối của ống? 2) Sau khoảng thời gian nào $W_{2}$ quả bóng bên phải sẽ va chạm lần đầu tiên với thành cuối của ống? 3) Sau bao lâu thì hai quả bóng va chạm với nhau lần đầu tiên? 4) Tìm vận tốc của các quả bóng $u_{1}$ bên trái và $u_{2}$ bên phải so với mặt đất ngay trước khi chúng va chạm lần đầu. Coi sự va chạm của quả bóng với thành cuối của ống là đàn hồi tuyệt đối. Ghi chú. Do một va chạm đàn hồi tuyệt đối, tốc độ của quả bóng so với tường vẫn giữ nguyên độ lớn như trước khi va chạm nhưng theo hướng ngược lại. O. Inisheva
 
@@ -273,7 +273,7 @@ Bài toán 2. Ống cong Một ống cong có tiết diện không đổi chứa
 
 ⟦figure⟧
 
-Hình 5
+Cơm. 5
 
 ở khuỷu tay phải của ống ở trạng thái cân bằng mới nếu tháo phích cắm ra? A. Seitov
 
@@ -285,7 +285,7 @@ OLI MP IA DY
 
 ⟦figure⟧
 
-Hình 10
+Cơm. 10
 
 đặt một vật nặng không dẫn điện có khối lượng 1 kg lên pít-tông, ampe kế hiển thị cường độ dòng điện $I_{1} 2,31$ A. Nếu đặt 3 vật nặng như vậy lên một pít-tông lớn thì ampe kế sẽ hiển thị cường độ dòng điện $I_{2} 2,1$ A. 1) Xác định điện trở của ampe kế $R_{A}$, với điều kiện dây nối và pít-tông có điện trở không đáng kể. 2) Xác định cường độ dòng điện mà ampe kế hiển thị khi không có vật nặng đặt trên piston. 3) Cường độ dòng điện trong hệ thống lắp đặt có thể thay đổi trong giới hạn nào nếu có sẵn nhiều lựa chọn tải? Chúng ta có thể giả sử rằng ống nối có tiết diện nhỏ không đáng kể. Độ dẫn điện của nước cũng rất thấp. Mật độ của nước là U 1000 kg $м^{3}$. A. Evseev
 
@@ -313,9 +313,9 @@ Lớp 11 Bài toán 1. Ống xoay Một ống hình trụ có thành mỏng kh�
 
 Bài toán 2. Làm thế nào để đo sức căng bề mặt? Trong trường hấp dẫn, một thanh AB có khối lượng m, chiều dài L được treo bằng hai sợi dây không dãn không trọng lượng vào thanh CD nằm ngang. Các sợi chỉ được gắn vào các đầu của thanh và nằm theo chiều dọc (Hình 21, a). Sau khi nhúng hệ thống vào một chất lỏng không xác định và sau đó lấy nó ra khỏi chất lỏng, một màng chất lỏng hình thành trong khoảng trống giữa các sợi chỉ, thanh và thanh, và bản thân hệ thống có dạng như trong Hình 21, b. Trong trường hợp này, khoảng cách tối thiểu giữa các sợi chỉ bằng d và khoảng cách giữa thanh và thanh bằng h. 1) Xác định hệ số căng bề mặt của chất lỏng V. 2) Tính giá trị V tại L 10 cm, m 2 g, d 5 cm, h 8,7 cm. A. Apollonsky
 
-Hình 20
+Cơm. 20
 
-Hình 21
+Cơm. 21
 
 ⟦folio 55⟧
 
@@ -339,7 +339,7 @@ Bài toán 5. Chuyển động trong trường chéo Một hạt nhỏ có khố
 
 ⟦figure⟧
 
-Hình 24
+Cơm. 24
 
 Vectơ cảm ứng từ trường có hướng dọc theo trục z, vuông góc với mặt phẳng xy và giá trị của nó chỉ phụ thuộc vào tọa độ y theo định luật B D y. Tại thời điểm ban đầu, hạt nằm ở gốc tọa độ và tốc độ của nó bằng không. Với chuyển động tiếp theo, lần đầu tiên hạt dừng lại ở thời điểm t T sau khi bắt đầu chuyển động. Không có trọng lực. 1) Xác định vận tốc của hạt tại thời điểm nó chuyển động dọc theo trục x. 2) Xác định bán kính cong của quỹ đạo hạt tại điểm có tọa độ y. 3) Vẽ quỹ đạo của hạt trong thời gian chuyển động T. 4) Hạt sẽ cách điểm xuất phát bao nhiêu sau thời gian W 3 T 2? Ghi chú. Đối với các giá trị nhỏ của ' x công thức ' $x^{n}$ là hợp lệ
 
@@ -347,7 +347,7 @@ $nx^{n} 1$ 'x. A.Uymin
 
 Ấn phẩm được biên soạn bởi V. Slobodyanin
 
-Hình 23
+Cơm. 23
 
 ⟦folio 58⟧
 
@@ -365,8 +365,8 @@ lớp 9
 
 ⟦figure⟧
 
-Hình 9
+Cơm. 9
 
 nó cũng chứa một số đường đi từ X đến C, và trong phần I có một số đường đi từ A đến B; nhưng những đường dẫn này phải có một ô chung, điều này là không thể. Điều này có nghĩa là toàn bộ đường ngang giữa các ô A và B nằm ở phần I, tức là nó phải chứa ít nhất một xe. Tương tự, ở Phần II cũng có một quân nguyên (giữa C và D), tức là có Xe. Từ đây theo sau những gì được yêu cầu. Vẫn còn phải đưa ra một ví dụ khi một trong các phần chứa 2 n 1 quân xe. Một ví dụ có thể hoạt động như thế này. Xét đường chéo của hình vuông; một phần sẽ bao gồm các ô bên dưới nó, cũng như nửa dưới của đường chéo; các ô còn lại sẽ rơi vào phần thứ hai. Đặt 2 n 1 quân vào các ô ngay dưới đường chéo; thế thì họ sẽ ở trong một phần. Chúng ta sẽ đặt quân xe còn lại tại giao điểm của hàng và cột còn lại. Hình 8 cho thấy một ví dụ như vậy cho n 5. 5. Chúng ta hãy biểu thị các đường tròn có đường kính AB và CD lần lượt là $Z_{1}$ và $Z_{2}$. Lưu ý rằng điểm S nằm trên đoạn MN. Cho các đường thẳng CS và DS cắt l lần lượt tại các điểm P và Q (Hình 10). Vì CD là đường kính $Z_{2}$ nên ta có PSQ CSD 90 q. Trong tam giác vuông PSQ, đoạn SM là chiều cao nên MSP 90 q SPM SQP. Mặt khác, kể từ NS NC, chúng ta có SCD CSN MSP. Vì vậy, SCD MSP SQP, tức là các điểm P, Q, C và D nằm trên cùng một đường tròn J c.
 
-Hình 10
+Cơm. 10

@@ -40,7 +40,7 @@ THƯ VIỆN
 
 ⟦figure⟧
 
-Hình 12
+Cơm. 12
 
 Sự thật này Dima biết nhưng Sasha lại không biết. Việc chứng minh sẽ là một bài tập đầy thử thách đối với người đọc. 11. Chứng minh rằng cả hai điểm $I_{A}$ và $I_{C}$ đều nằm trong vòng tròn màu đỏ.
 
@@ -138,19 +138,19 @@ Các cặp số khác nhau cho ra số tiền khác nhau. Nhưng đối với c�
 
 ⟦figure⟧
 
-Hình 2. k = 4, n = 11
+Cơm. 2. k = 4, n = 11
 
 ⟦figure⟧
 
-Hình 3. k = 6, n = 13
+Cơm. 3. k = 6, n = 13
 
 ⟦figure⟧
 
-Hình 4. k = 8, n = 16
+Cơm. 4. k = 8, n = 16
 
 ⟦figure⟧
 
-Hình 1
+Cơm. 1
 
 do đó chúng tôi là EC AB CD và cũng là CEM MAB MAF. Điều này có nghĩa là tam giác AEF cân, AF EF. Mặt khác, trong tam giác vuông AFD, cạnh huyền FD nằm đối diện một góc 90 q: 3 30 q, nghĩa là cạnh huyền AF lớn gấp đôi cạnh huyền FD. Khi đó 2 F D A F E F EC C F CD C F FD 2CF, từ đó FD 2CF. 30. Bạn có thể lấy các số 1, 2, 3, 5, 8, 13, 21, 34, 55, 89. Đây là 10 số của dãy Fibonacci: số tiếp theo được lấy bằng tổng của hai số trước đó. Ảo thuật gia sẽ có thể đoán số từ thẻ của khán giả nếu có hai lần
 

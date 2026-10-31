@@ -33,15 +33,15 @@ Chúng tôi tiếp tục cuộc thi tiếp theo về lời giải toán học b�
 
 ⟦figure⟧
 
-Hình 4
+Cơm. 4
 
 ⟦figure⟧
 
-Hình 2
+Cơm. 2
 
 ⟦figure⟧
 
-Hình 1
+Cơm. 1
 
 hoặc ở dạng hình vuông 4 u 4 (Hình 2) và cũng được che bằng một vòng tròn. So sánh độ dài của các vòng này. P.Kozhevnikov
 
@@ -51,7 +51,7 @@ hoặc ở dạng hình vuông 4 u 4 (Hình 2) và cũng được che bằng m�
 
 ⟦figure⟧
 
-Hình 3
+Cơm. 3
 
 Vasya cắt hình này thành các hình, mỗi hình là một trong ba loại $(рис.^{4).}$ Được biết, trong hình cắt có số lượng hình thuộc loại $2 и^{3}$ bằng nhau. Có bao nhiêu hình của mỗi loại trong hình cắt? S. Kostin
 

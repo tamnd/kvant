@@ -86,13 +86,13 @@ mới, nhưng huyền diệu, tức là tuyến tính, nhưng có một cục pi
 
 ⟦figure⟧
 
-Hình 4
+Cơm. 4
 
 bạn có thể, mà không cần giải các phương trình, nói rằng bài toán đã được giải - độ dốc của đồ thị phụ thuộc I U, được xác định bởi giá trị của R, vẫn giữ nguyên và việc thay đổi giá trị của $U_{x}$ cho phép bạn di chuyển đồ thị song song với chính nó. Nhưng giám khảo rất có thể sẽ muốn các phương trình. Chà, hãy viết chúng ngay bây giờ và nhận các biểu thức cho R và $U_{x}$ đến $U_{1}, U_{2}, I_{1}, I_{2}$ (Hình 5).
 
 ⟦figure⟧
 
-Hình 5
+Cơm. 5
 
 Hãy để giám khảo hài lòng với khả năng kháng phép của bạn. Nhưng có một mối nguy hiểm ở đây, và nhân tiện, khi giao tiếp với một giám khảo thông minh thì điều đó luôn ở đó. Một giám khảo thích ý tưởng của bạn về khả năng kháng phép thuật có thể đưa ra một phiên bản khác của phép lạ này - không phải theo chuỗi mà song song, một nguồn EMF bổ sung và một nguồn kháng phép thông thường được kết nối. Hãy xem xét lựa chọn này cho chính mình. Bây giờ chúng ta hãy chuyển sang một trường hợp truyền thống hơn - điện trở phi tuyến. Trong khóa học ở trường, những phản kháng như vậy được đề cập, thậm chí đôi khi còn đưa ra những ví dụ. Đây là một diode bán dẫn, một diode chân không và phóng điện khí. Từ
 
@@ -108,7 +108,7 @@ Chà, tất cả các bạn đều đã thấy nó trong một vụ xả khí. �
 
 ⟦figure⟧
 
-Hình 6
+Cơm. 6
 
 Tuy nhiên, “trường học” đơn giản và nhất đáp số khi được hỏi về hai điểm và đề xuất rút ra điều gì đó thông qua chúng là hỏi về các lỗi. Vì vậy, hãy nói về lỗi. Đôi khi họ nói rằng trong vật lý, tất cả các đại lượng đều được xác định với một số loại sai sót, nhưng thực tế không phải vậy. Có những đại lượng có thể được xác định chính xác. Ví dụ: đây là một số đại lượng chỉ có thể nhận một số giá trị hữu hạn. Mặc dù ở đây mọi thứ không đơn giản - ví dụ, sau giá trị tốc độ ánh sáng tính bằng đơn vị SI, nó được viết một cách đơn giản và rõ ràng “chính xác”. Nhưng đây là một câu hỏi đo lường hơi khác một chút
 
@@ -122,7 +122,7 @@ FAC U L TATIVE
 
 ⟦figure⟧
 
-Hình 7
+Cơm. 7
 
 KVAN T 2023/№2
 
