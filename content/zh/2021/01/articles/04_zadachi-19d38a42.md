@@ -1,0 +1,49 @@
+---
+id: 2021-1-zadachi-19d38a42
+issue: kvant_2021_1
+year: 2021
+number: "1"
+title: 任务
+rubric: raznoe
+page_first: 40
+page_last: 40
+tag: R4V0
+lang: zh
+source: kvant_digital
+extraction: native
+content_sha256: 198502b197533f64e2d28eeb90f419a3add95bd27a720cf47f20894a4fbb9a03
+prompt_sha256: draft-1
+translated_from: content/ru/2021/01/articles/04_zadachi-19d38a42.md
+source_content_sha256: d8280ee4455ea386f090756014662b12eaf5075741661575d90f7f7d60d540c7
+translation_model: draft
+translation_run: zh-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+适合小学生的“QUANT”
+
+任务
+
+1.
+
+袋鼠 Smartik 有 8 个立方体 1 u 1 u 1。每个立方体有两个相邻的面，红色的，其余的白色。 Smartik 将它们组合成一个大立方体 2 u 2 u 2。一个大立方体最多可以有多少个完全红色的面？
+
+2. 图 处的所有角度都是直角。
+
+⟦column⟧
+
+3. 沿着网格线（即水平线和垂直线）将下面的矩形切成相等的部分，以便每个部分恰好包含一个雪花。 S·科斯廷
+
+4. 平等
+
+问题1和问题2是在国际数学竞赛“袋鼠”游戏中提出的。
+
+平等将成为现实。这三个数字是什么以及我应该如何移动它们？ S·科斯廷
+
+插图：D. Grishukova
+
+图处图形的周长是多少？
+
+2 1 1 – 3 3 = 2 0 2 1 当然是不正确的。但如果我们在这个等式中移动三位数字，那么

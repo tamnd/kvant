@@ -1,0 +1,46 @@
+---
+id: 2021-7-agahanov-zaklyuchitelnyiy-etap-xlvii-vserossiyskoy-olimpiadyi-shkolnikov-po-matematike-0c4a25f5
+issue: kvant_2021_7
+year: 2021
+number: "7"
+title: 第四十七届全俄小学生数学奥林匹克竞赛最后阶段
+authors:
+  - Агаханов Н. Х. и др.
+rubric: olimpiady
+rubric_sub: Олимпиады
+page_first: 50
+page_last: 50
+tag: 8BLR
+lang: zh
+source: kvant_digital
+extraction: native
+content_sha256: 029bf81da63b85e716f091184f284884dc547d0e2d896107ed7e064b5565b400
+prompt_sha256: draft-1
+translated_from: content/ru/2021/07/articles/06_agahanov-zaklyuchitelnyiy-etap-xlvii-vserossiyskoy-olimpiadyi-shkolnikov-po-matematike-0c4a25f5.md
+source_content_sha256: dfd14ce54fc69f50aa6d032720a6cbbe2b089c31e4e17eafbce654d58937769f
+translation_model: draft
+translation_run: zh-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+奥利姆·皮亚·迪
+
+第四十七届全俄小学生数学奥林匹克竞赛最后阶段
+
+全俄中小学生数学奥林匹克决赛于2021年4月16日至4月23日在秋明举行。我们提醒您，上一次决赛是在两年前举行的，2020年决赛由于疫情原因没有举行。这些情况影响了今年最后阶段的选拔结构；特别是，所有在2020年地区阶段获得进入最后阶段所需分数的非毕业班学童将自动获邀参加2021年秋明赛。所有这一切都反映在奥林匹克竞赛的参赛人数上 - 参赛人数为516人，几乎比近年来通常的数字高出一倍半。疫情还做出了其他调整。今年奥运会参赛者的日程比往常短得多：作品展示和闭幕式以远程形式举行，一些代表团几乎在第二轮结束后立即离开秋明。奥运会在秋明工业大学举行。主办方竭尽全力，配合默契。传统上，奥林匹克竞赛项目包括来自该国顶尖大学代表的科普讲座。奥运会之所以令人愉悦，首先是因为它以成熟的面对面形式举行。小学生和代表团团长都错过了如此级别的活动和如此复杂的任务。顺便说一句，今年的作业选项远非最简单，即使与往年的最后阶段相比也是如此。下表可以帮助量化奥数题的难度（这里我们考虑在该任务中获得 5、6 或 7 分（满分 7 分）的参赛者已解决该问题）。
+
+⟦column⟧
+
+九年级
+
+10年级
+
+11年级
+
+以下是第四十七届全俄中小学生数学奥林匹克竞赛最后阶段的任务条件和获奖者名单。
+
+问题条件 9 年级 1. 一个圆圈上标记了 1000 个点，每个点都涂有 k 种颜色中的一种。事实证明，在任意五个两两相交的线段中，其末端有 10 个不同的标记点，其中至少有 3 个线段，每个线段的末端颜色不同。这可能的最小 k 是多少？ S·贝尔洛夫
+
+2. 令n为自然数。如果 $a_{-}^{n} 2^{n}$ 可以被 $a_{+}^{d} 2^{d}$ 形式的每个数整除，则整数 $a_{>} 2$ 称为 n 可分解的，其中 d 是 n 与 n 不同的自然因数。
