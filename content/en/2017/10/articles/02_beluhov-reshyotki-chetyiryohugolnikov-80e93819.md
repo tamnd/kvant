@@ -1,0 +1,53 @@
+---
+id: 2017-10-beluhov-reshyotki-chetyiryohugolnikov-80e93819
+issue: kvant_2017_10
+year: 2017
+number: "10"
+title: Quadrilateral lattices
+authors:
+  - Белухов Н. И.
+rubric: zadachnik-kvanta
+rubric_sub: Задачник «Кванта»
+page_first: 20
+page_last: 20
+page_labels: "18"
+tag: K48E
+lang: en
+source: kvant_digital
+extraction: native
+content_sha256: 00ad85dbe51fe513114f071bea2d9cbd2d7ad86cb9ebe9b353064879135c34d8
+prompt_sha256: draft-1
+translated_from: content/ru/2017/10/articles/02_beluhov-reshyotki-chetyiryohugolnikov-80e93819.md
+source_content_sha256: 1fb6ee28e72f59424350dac87dee8f8e6bf94f6ea84cd2ac431edf5a6eb53e11
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 18⟧
+
+KVANT 2017/№10
+
+the distance from the lens to its focal plane is about two diagonals of one cell, i.e. $F \sim 3$ see figure 5 for the final
+
+⟦figure⟧
+
+Fig. 5
+
+Quadrilateral lattices
+
+N. BELUKHOV
+
+This article is devoted to the history of a difficult geometric problem published in the “Problem Book «Kvant» under number M2473 (see No. 7). We will talk about how this problem appeared, give its solution and talk about how it is related to other problems and theorems. Our story begins with such a task. Problem 1. The diagonals of a (convex) circumscribed quadrilateral ABCD intersect at point P. On the rays PA, PB, PC, PD, mark points A a, B a, C a, D a, respectively, so that PA PA a PB PB a PC PC a PD PD a
+
+Fig. 1
+
+⟦column⟧
+
+constructing an image of a quadrilateral in the found lens, performed according to the rules of geometric optics. And, as can be seen from figure, the image really looks like a square, which, however, must be treated somewhat conditionally. Firstly, because small errors in the construction of rays can quite significantly disrupt the perpendicularity of the images of opposite sides, and secondly, because the laws of geometric optics work well for rays inclined to the main optical axis of the lens at small angles. Here we had to use beams inclined to the main optical axis at large angles.
+
+$(рис.1).^{1}$ Prove that the quadrilateral A a B a C a D a is also circumscribed. This problem is a step in the author’s solution to problem M1495 (“Problem «Kvant» No. 6 for $1995 г.).^{2}$ First, let’s find the angles of the quadrilateral A a B a C a D a. From the similarity of triangles PAB and PA a B a, PBC and PB a C a, etc. we have A a B a A a P PA a D a
+
+= ABP PDA 180 o A. Likewise, B a 180 o B, etc. This means that the corresponding angles of the quadrilaterals A a B a C a D a and ABCD add up to 180o. Outside the quadrilateral ABCD, we construct a quadrilateral ABXY, similar to the quadrilateral A a B a C a D a (Fig. 2). Since BXY 180 o BCD, then CD P XY, i.e. CDYX – trapezoid (or parallelogram). In other words, we “scaled” the quadrilateral A a B a C a D a and glued a similar copy of the quadrilateral A a B a C a D a with the quadrilateral ABCD along
+
+1 In other words, ABCD goes into A a B a C a D a during inversion with center P. You can read about inversion, for example, in the article by V. Uroev («Kvant» No. 5 for $1984 г.).^{2}$ Author problem M1495 – I. Vainshtein, the author’s solution was largely based on calculations.

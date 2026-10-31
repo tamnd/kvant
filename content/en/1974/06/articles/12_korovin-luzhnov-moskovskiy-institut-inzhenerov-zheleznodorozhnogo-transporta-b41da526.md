@@ -1,0 +1,84 @@
+---
+id: 1974-6-korovin-luzhnov-moskovskiy-institut-inzhenerov-zheleznodorozhnogo-transporta-b41da526
+issue: kvant_1974_6
+year: 1974
+number: "6"
+title: Moscow Institute of Railway Transport Engineers
+authors:
+  - Коровин В. И.
+  - Лужнов Ю. М.
+rubric: praktikum-abiturienta
+rubric_sub: Практикум абитуриента
+page_first: 44
+page_last: 44
+page_labels: "42"
+tag: 0S32
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 0434ab532ba538a11a7670083d3974da0ae86ce2489aadd85fa9ffdb9b3b5c25
+prompt_sha256: draft-1
+translated_from: content/ru/1974/06/articles/12_korovin-luzhnov-moskovskiy-institut-inzhenerov-zheleznodorozhnogo-transporta-b41da526.md
+source_content_sha256: ab9f045ebfe72ca56943752e4bed7d21998e33db83fedee23f24e3bf12de8254
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 42⟧
+
+Moscow Institute of Railway Transport Engineers
+
+In «Kvant» No. 7 for 1973, we talked about the Moscow Institute of Railway Transport Engineers. In this issue we publish the instructions for the entrance written exam in mathematics and the tasks for the oral exam in physics in 1973.
+
+Mathematics
+
+Option 1
+
+(specialties: bridges and tunnels, industrial and civil engineering, construction economics, transport economics, transport operation, railway construction, industrial telloenergy, tellomotive construction, construction and road machinery)
+
+1. Two workers A and B started harvesting potatoes from the plot at 8 o'clock in the morning with the same productivity. At 9 o'clock they were joined by a third worker C. At 11 o'clock B and C left, the rest of the site was completed by A alone in 6 hours.
+
+How many hours would it take each worker to clean the area, working separately, if it is known that worker C needs 5 hours less to do this than A?
+
+2. Solve inequality
+$$|x^2 - 3x| + x - 2 < 0.$$
+
+3. The height of a regular triangular prism is h. The prima, connecting the center of the upper base with the middle of the side of the lower base, is inclined to the plane of the lower base at an angle α. Find the total surface of the prism.
+
+4. Solve the equation
+$$\sin 3x - 4\sin x\cos 2x = 0.$$
+
+Option 2
+
+(specialties: automated control systems, electronic computers, automation and telemechanics in industry).
+
+1. The boy and the vehicle set off from the train station to the beach. After some time, the boy met a car lifting from a flag. He managed to walk some more distance from the place of his first meeting with the bus driver, when the same bus driver, searching for the second time from the station to the beach, caught up with him. It is known that the distance between the points of the first and second meeting is 4/15 of the distance from the station to the beach. How many times is the speed of the car driver greater than the speed of the boy?
+
+2. At what values ​​of a is the root of the equation
+$$\frac{a+3}{x+1} - \frac{5-3a}{x-2} = \frac{ax+3}{x^2-x-2}$$
+
+at least 1?
+
+3. The base of a right parallelepid is a rhombus. One of the diagonals of the parallelepid is equal to a and forms an angle α with the base plane, and an angle β with one of the side faces. Find the volume of the parallelepid.
+
+4. Find $$\sin^4\alpha + \cos^4\alpha$$ if $$\sin\alpha + \cos\alpha = a.$$
+
+Option 3
+
+(specialty: applied mathematics)
+
+1. Several people bought the service. The money was deposited one by one, with each subsequent deposit being 2 rubles more than the previous one. When servicing the pal, the winnings amount to 460 rubles. The winnings were divided in proportion to the amount of money contributed by each. How many people participated in the purchase of services, if it is known that there were less than 20 people and the first one received 20 rubles when dividing the winnings, and the rest received a number of rubles.
+
+2. Solve the equation
+$$\sqrt{x+1} - 1 - \sqrt{\frac{x-1}{x}} = 0.$$
+
+3. Find the area of ​​a triangle inscribed in a circle if the ends of its side, equal to 20 cm, are separated from the tangent through the opposite vertex by 25 cm and 16 cm.
+
+4. It is known that $$\cos^2\alpha + \cos^2\beta = m.$$ Find $$\cos^2\alpha \cdot \cos^2\beta - \sin^2\alpha \cdot \sin^2\beta.$$
+
+Physics
+
+1. A ball was allowed to roll up and down on an inclined board. At a distance l=40 cm from the beginning of the path, the ball increased the pressure t₁=2 s and t₂=3 s after the start of movement. Determine the initial speed and acceleration of the ball, considering it constant.
+
+2. A small ball of mass m, tied to a thread, rotates in a horizontal plane at a distance h from the point of suspension of the thread. The rotation speed is constant in magnitude. Find the frequency of matter rotation.

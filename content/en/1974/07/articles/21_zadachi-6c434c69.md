@@ -1,0 +1,43 @@
+---
+id: 1974-7-zadachi-6c434c69
+issue: kvant_1974_7
+year: 1974
+number: "7"
+title: Tasks
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 67
+page_last: 67
+page_labels: "65"
+tag: VHC0
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 784cacb7be374f51d7a6fb59dc2172c079f9b32cd4114474ceca9f09554d5a03
+prompt_sha256: draft-1
+translated_from: content/ru/1974/07/articles/21_zadachi-6c434c69.md
+source_content_sha256: 853b6c3b4049263542c3a6bdffda1f4b3aeeb3e85effa9ebacbad42559062e02
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 65⟧
+
+Quests
+
+1. A magic square is a square table of positive integers in which the sums of the numbers; standing in each column, in each row and on the diagonal are equal. This sum itself is called the magic square sum.
+
+Prove that the sum of a magic square of size $3 \times 3$ is always divisible by 3.
+
+2. At your disposal is a “straight” magnet and a needle. How can you tell if a needle is magnetized?
+
+3. Sasha and Olya take turns placing crosses and shelves on the squares of the chessboard of size $9 \times 9$. The first move is made by Olya to the center of the board. Sasha goes to one of the 8 free cells that surround Olya's move, and so on. You can only go to empty cells. The winner is the one who places his sign in one of the four corner cells (or the opponent has nowhere to go). Prove that Olya can always win.
+
+4. Two balls of the same mass - lead and steel - fall from the same height onto the sand. Which one will get hotter?
+
+5. There is a piece of paper. It can be torn into 8 or 12 pieces, each new piece can also be torn into 8 or 12 pieces or left whole, and so on.
+
+Is it possible to get 60 pieces this way? Prove that you can get any number of pieces, more than 60.
+
+Artist E. Nazarov

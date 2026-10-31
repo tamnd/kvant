@@ -1,0 +1,68 @@
+---
+id: 1974-6-moskovskoe-vyisshee-tehnicheskoe-uchilische-adbf9c85
+issue: kvant_1974_6
+year: 1974
+number: "6"
+title: Moscow Higher Technical School
+rubric: praktikum-abiturienta
+rubric_sub: Практикум абитуриента
+page_first: 48
+page_last: 48
+page_labels: "46"
+tag: 32L6
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 6e2926e5e338e2c3c6debd741f41691e49bb926ae554b80a91406f5dacfe70a9
+prompt_sha256: draft-1
+translated_from: content/ru/1974/06/articles/15_moskovskoe-vyisshee-tehnicheskoe-uchilische-adbf9c85.md
+source_content_sha256: 85bf97316bc82f67716c27b5ab4fd562c98b4fcc73d33b87dced606520a603ef
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 46⟧
+
+Moscow Higher Technical School
+
+Moscow Order of Lenin and Order of the Red Banner of Labor Higher Technical School named after N.E. Bauman is the oldest technical educational institution in our country, founded in 1830. Now MVTU trains broad-spectrum engineers in new technology to work in research institutes, design bureaus and factories in the machine-building and instrument-making industries.
+
+The training of engineers in the MBTU specialty, covering almost all branches of new technologies in mechanical engineering and instrument making, is carried out according to individual plans and programs with broad theoretical, general engineering, special and practical training.
+
+At the MBTU there is an organizational preparatory department that prepares employees for admission to the full-time faculties of the school.
+
+Below we place options for written work in mathematics and tickets for an oral exam in physics at the Moscow Technical University in 1973.
+
+Matematika
+
+Option 1
+
+1. Three workers can complete a job in 1 hour. 20 min., work together. The first of them, work one, can do this work twice as quickly as the third and 1 hour faster than the second. In what time can each person, working separately, complete this work?
+
+2. A ball is inscribed in the cube on the side $a$. Determine the radius of the other ball touching the three faces of the cube and the first ball.
+
+3. Solve the equation
+$$1 - \sin^4 x - \frac{5}{3} \cos^4 x = 0.$$
+
+4. Solve the equation
+$$10^{1+x^2} - 10^{1-x^2} = 99.$$
+
+5. Solve inequality
+$$\frac{3}{\sqrt{2-x}} - \sqrt{2-x} > 2.$$
+
+Option 2
+
+1. Atmospheric pressure. Life of Torricelli. The amount of atmospheric pressure. Pressure units.
+
+2. Emission spectra. Absorption spectra. Polyatie about spectral analysis.
+
+3. Objects 5 cm high are located at a distance of 12 cm from a concave mirror with a focal length of 10 cm. Where and what size will the image of the object be obtained?
+
+Option 3
+
+1. Magnetic field of a straight conductor with current and a coil with current. The effect of a magnetic field on a current.
+
+2. Energy is kinetic and potential. The transition of potential energy into kinetic energy and vice versa. Law of conservation of energy in mechanics. Energy units.
+
+3. Two automobile gas cylinders contain gas (fuel for the engine) under a pressure of 200 am. The capacity of each cylinder is 80 l. How many kilograms of gas were consumed during the meal, if the pressure in the cylinders was reduced to 100 am? Temperature 0°C. The density of fuel under normal conditions is 0.6 k$^2$/m$^3$.

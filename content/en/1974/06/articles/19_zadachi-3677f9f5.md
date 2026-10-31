@@ -1,0 +1,43 @@
+---
+id: 1974-6-zadachi-3677f9f5
+issue: kvant_1974_6
+year: 1974
+number: "6"
+title: Tasks
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 54
+page_last: 54
+page_labels: "52"
+tag: QKXQ
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: f8e72222013e08c2a3dda39e42a97cd6051984b7397ce35ee7ed723e3b5cce80
+prompt_sha256: draft-1
+translated_from: content/ru/1974/06/articles/19_zadachi-3677f9f5.md
+source_content_sha256: 28c171b124814999ccc12854152ffd170425c5924f44f737e7a55635c1eaef6c
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 52⟧
+
+Tasks
+
+1. Why, when you pour water into a bottle through a funnel, does the water get stuck in the funnel?
+
+2. A person sits on a chair and opens it back so that he only maintains balance. What happens if a person lifts his legs with his knees straight?
+
+Figure E. Nazarova.
+
+3. On the mailbox it is written: “Letters are collected 5 times a day from 7 a.m. to 7 p.m.” And, indeed, the first time the postal worker approaches the box is at 7 o'clock in the morning, and the last time - at 7 o'clock in the evening.
+
+At what intervals are letters removed from the mailbox?
+
+4. When solving the store's trading books, one of the entries in the book turned out to be filled with ink (see figure). It was impossible to make out the number of meters sold, but it was clear that this number was an integer. It was also clear that the proceeds did not exceed 1,000 rubles.
+
+Could Rezzor restore the recording?
+
+5. Find a two-digit number equal to the sum of the number of tens and the square of the number of units.

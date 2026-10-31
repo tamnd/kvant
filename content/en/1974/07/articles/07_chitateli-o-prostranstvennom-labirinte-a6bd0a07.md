@@ -1,0 +1,51 @@
+---
+id: 1974-7-chitateli-o-prostranstvennom-labirinte-a6bd0a07
+issue: kvant_1974_7
+year: 1974
+number: "7"
+title: Readers about the spatial labyrinth
+rubric: smes
+page_first: 22
+page_last: 22
+page_labels: "20"
+tag: RBZS
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: e571c1c8b12ef9059d6845464141aa8ee6b057e10c16ff1fa73ab9800aa9b43d
+prompt_sha256: draft-1
+translated_from: content/ru/1974/07/articles/07_chitateli-o-prostranstvennom-labirinte-a6bd0a07.md
+source_content_sha256: cf93702b0c2a4a5869cd68c8005a352032c6083be874323848db42f7b806eda8
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 20⟧
+
+Table 16.
+
+| Wells | Participants | Possibilities |
+| :--- | :--- | :--- |
+| 1 | 10 | 80 |
+| 2 | 23 | 30 |
+| 3 | 43 | 50 |
+| Needs | 100 | 120 | 90 |
+
+Table 17.
+
+3. Find the optimal plan for the number of ton-kilometres for transporting coal from mines (on figure they are indicated by squares, in which the daily productivity stands) to power plants (they are indicated in circles, in which the daily demand stands). Small circles indicate additional intermediate points, all distances in kilometers.
+
+4. Assign five machines to perform 4 types of work (one machine will remain free), if the cost of operating each machine is given in Table 15, and the productivity is the same.
+
+5. - All! “Starting tomorrow, we begin a new life,” Vitya addressed Bora, Sasha, Yura and Kolya, who were sadly looking at their quarter tables. - Need to tighten up. Each of us will test the others on one subject.
+- And who according to what?
+- We will decide this by comparing the estimates. Here I wrote them out (see Table 16).
+The friends argued for a long time, their eyes on the table. What is the best way to distribute responsibilities in reality?
+6. Three wells are used to water different areas of the garden where plums, apple trees and pears grow, but they can provide a limited amount of water. The water requirement of different parts of the garden, possibly wells (in buckets) and the average distance from each of them to the corresponding part of the garden (in meters) are shown in Table 17.
+Obviously, there is not enough water in the decks (80 + 30 + 50 < 100 + 120 + 90), but the garden stretches along the river, which is 120 m away. What is the best way to organize watering?
+7. Show that in an optimal transportation plan, filled cells should not contain cycles.
+
+Readers about the spatial labyrinth
+In «Kvant» No. 3 for this year on the 4th p. The cover included the note “Pro-passionate labyrinth.” Many readers have noticed that it is impossible to navigate this labyrinth, so there is an opportunity to keep your friends busy for the whole evening. However, our reader O. M. Kostenok from Moscow suggests solving another problem: how to do another important thing so that you can navigate through the labyrinth? O. M. Kostenok proposes to do the responsible thing in obtaining the second floor (on square d4 in chess terminology).
+Surely there are other options for placing another answer, after which it will be possible to navigate the labyrinth. There is only one question: where to do this responsible thing so that the labyrinth is as confusing as possible?
