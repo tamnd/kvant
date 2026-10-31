@@ -1,0 +1,67 @@
+---
+id: 1986-3-gik-golovolomki-v-shahmatnoy-partii-9707d750
+issue: kvant_1986_3
+year: 1986
+number: "3"
+title: Câu đố trong ván cờ
+authors:
+  - Гик Е. Я.
+rubric: shahmatnaya-stranichka
+rubric_sub: Шахматы
+page_first: 67
+page_last: 67
+tag: 8PAO
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 73f83ec2339ae9be9949113b19194e284d985837fce84d5fc2a7f941e8a3418e
+prompt_sha256: draft-1
+translated_from: content/ru/1986/03/articles/02_gik-golovolomki-v-shahmatnoy-partii-9707d750.md
+source_content_sha256: d81166d71c6ebcc4132b35280bdf139e536175ee0b49038a1c7fc9f28b17692e
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+CÂU ĐỐ
+TRONG CỜ
+PHỤ TÙNG
+
+Tên của “trang” tiếp theo có vẻ hơi khác so với tên các quốc gia. Một trò chơi thực tế là cờ vua thực sự, và một đại kiện tướng chiếm giữ bài toán toán học - một thể loại hoàn toàn khác, dường như không liên quan đến việc thực hiện trò chơi. Nhưng...
+Một ngày nọ, Sam Loyd, nhà soạn nhạc cờ vua nổi tiếng và là "đại kiện tướng toán học xếp hạng bài toán" thông báo rằng ông đã tìm ra cách ghép quân vua duy nhất ở giữa bàn cờ với hai quân xe và một quân mã mà không cần sự hỗ trợ của quân vua của mình. Những người yêu thích cờ vua lúc đầu rất tức giận, nhưng khi Loid chỉ ra cách giải cho Grossey của anh ấy, họ đã có một khoảng thời gian vui vẻ.
+
+Bạn có thể đã quyết định rằng việc chiếu tướng như vậy chỉ có thể xảy ra ở đại kiện tướng, nhưng hãy xem một ngày nào đó đã xảy ra tai nạn như thế nào (do võ sư O. Sabitov kể lại). Trong một trong những trận đấu tại giải đấu ở Dushanbe, một kết cục như vậy đã nảy sinh.
+
+Ở quân cờ mạnh nhất, Trắng đưa tay về phía quân f2, và Đen, sau khi giải quyết được rằng sau 1.Re2+ vua không thể rút lui do mất quân xe (1...Kpf5 2.Rf8+ Ke6 3.Re8+), chộp lấy quân c3 của mình, định che chắn nó khỏi séc. Và việc kiểm tra thực sự được thực hiện theo sau, nhưng từ phía bên kia - 1.Rf4+. Đen, trong lúc bối rối, không chú ý đến sự thay đổi của tình hình và phản ứng nhanh như chớp bằng đòn 1...Re3 đã chuẩn bị sẵn!!? Cờ trắng có nguy cơ sụp đổ, và quên mất lá cờ được thông báo bởi nước đi trước đó, họ bao vây quân vua không quay và ở phía bên kia - 2.Rd4!!, tạo nên một thế cờ độc nhất vô nhị, giống như thế không thể tìm thấy trong toàn bộ lịch sử cờ vua.
+
+Chiếu hết trong 1 nước đi.
+
+Để tuyên bố chiếu tướng trong 1 nước đi, hiệp sĩ trắng... chồm lên! Sau khi điều động các ô g8 và h7 như vậy, ô trước đó nằm dưới sự bảo vệ của anh ta (dù sao thì anh ta không rời khỏi ô f6 mà chỉ nâng nó lên), và quân cờ trắng ở c3 chiếu tướng. Ý tưởng này có thể gợi lên một liên tưởng hoàn toàn thực tế... Phân tích cuộc gặp gỡ với A. Gipsis, Chưởng môn E. Gufeld đã đi đến quan điểm này.
+
+Lúc đầu, Gufeld quyết định rằng Trắng, người mà anh ta đang chơi, sẽ thua: anh ta có lợi thế về vật chất về phía mình, nhưng quân tượng đang bị tấn công, và việc họ rút lui là vô ích do bị lộ hạng nhất (Qs1+). Nhưng nhớ lại chuyện đùa con ngựa chồm lên, anh tìm ra lối thoát: 1.Re7!! Hỏi:e7 2.Bc3! Hãy so sánh tình huống này với một câu đố, bạn sẽ hiểu rằng sự khác biệt không lớn. Một lần nữa hiệp sĩ sẵn sàng bay lên không trung và không có lợi ích gì nếu mất quân hậu - 3.Nd5+ hoặc chiếu tướng - 3.Kg4+ Kg8 4.Kh6×.
+
+Vấn đề. Hiệp sĩ ở trên a1. Liệu anh ta có thể đi vòng quanh toàn bộ tài liệu, ghé thăm một cánh đồng mạnh mẽ nhất định một lần và kết thúc hành trình của mình trên h8 không?
+
+Trong mỗi lần di chuyển, hiệp sĩ sẽ thay đổi màu của hình vuông mà nó đang ở. Ô bên dưới a1 có màu đen, ở nước đi thứ 63, quân mã kết thúc ở ô màu trắng. Nhưng trường h8 có màu đen và do đó các điều kiện bài toán không thể được thỏa mãn.
+
+Có rất nhiều câu đố tương tự. Chúng có liên quan đến trò chơi cờ vua không? Điều trực tiếp nhất.
+
+Hãy xem xét vị trí này:
+
+Trắng: Kh8, Nb2, tr. h7. Đen: Kf7.
+
+Làm thế nào để đánh giá nó? Để thắng, Trắng cần giải phóng vua của mình. Nếu đó là nước đi của họ, điều này có thể xảy ra: 1.Kd3 Kf8 2.Ke5, v.v. Nếu Đen di chuyển, không có đường thoát khỏi góc: 1...Kpf8 2.Kd3 Kf7 3.Ke5+ Kf8. Quân trắng di chuyển và buộc phải nhường ô f7 cho vua đen. Đẹp.
+
+Đối với các vị trí như vậy, hãy điền vào các quy tắc sau: bên yếu hơn sẽ được tính là hòa nếu trong quá trình di chuyển, bên đó có thể đặt vua lên ô vuông cùng màu với ô mà hiệp sĩ không quay trên đó đứng.
+
+Cạnh tranh bài toán
+
+bài toán đầu tiên là máy chủ và thứ hai là câu đố
+
+5. Trắng bắt đầu và chiếu hết sau 5 nước đi.
+
+6. Chỉ có hai quân vua trên bàn cờ - trắng ở a6, đen ở a8. Nên đặt quân hậu trắng ở đâu để Trắng không thể chiếu hết trong một nước đi?
+
+Hạn chót gửi lời giải là ngày 20 tháng 5 năm 1986 với ghi chú trên phong bì: “Thi đấu cờ vua “Kvasta”, nhiệm vụ 5, 6.”

@@ -1,0 +1,51 @@
+---
+id: 1986-4-egorov-izbrannyie-shkolnyie-zadachi-bccb25f0
+issue: kvant_1986_4
+year: 1986
+number: "4"
+title: Trường học yêu thích bài toán
+authors:
+  - Егоров А. А.
+rubric: shkola-v-kvante
+rubric_sub: Школа в «Кванте»
+page_first: 50
+page_last: 50
+page_labels: "48"
+tag: NWXM
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 2b7845c7fe49d4a02a99f05278f0de91f0b3fd8d4d2ace5a9dd5bffe195d913e
+prompt_sha256: draft-1
+translated_from: content/ru/1986/04/articles/20_egorov-izbrannyie-shkolnyie-zadachi-bccb25f0.md
+source_content_sha256: a177016a7187dd435f4a54cf96cf6f7e46fd8ea37309c5bfc6cc47ba103048f6
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 48⟧
+
+Trường học yêu thích bài toán
+
+lớp tám
+1. Tìm giá trị nhỏ nhất của biểu thức
+$$2x^2 - 2xy + 5y^2 + 2x + 2y.$$
+2. Tìm số tiền
+$$1 \cdot 3 + 3 \cdot 5 + 5 \cdot 7 + 7 \cdot 9 + \dots + 999 \cdot 1001.$$
+3. Biết rằng $n-1$ chia hết cho 15 và 1001 chia hết cho $n+1$. Tìm $n$.
+4. Trong tam giác vuông $ABC$ ($\angle C=90^\circ$) chiều cao $CD$ được vẽ. Tìm: a) bán kính của đường tròn nội tiếp tam giác $ABC$, nếu bán kính của đường tròn nội tiếp tam giác $ACD$ và $BCD$ bằng $r_1$ và $r_2$; b) chu vi của tam giác $ABC$, nếu chu vi của tam giác $ACD$ và $BCD$ bằng $P_1$ và $P_2$.
+5. Một điểm được lấy trên đường tròn ngoại tiếp tam giác vuông $ABC$. Tìm tổng bình phương khoảng cách từ điểm này đến các đỉnh của tam giác nếu cạnh của tam giác là $a$.
+
+lớp chín
+6. Giải hệ phương trình
+$$\begin{cases} x_1 + 2x_2 + \dots + 9x_9 + 10x_{10} = 55, \\ x_2 + 2x_3 + \dots + 9x_{10} + 10x_{11} = 55, \\ x_{10} + 2x_1 + \dots + 9x_8 + 10x_9 = 55. \end{cases}$$
+7. Chứng minh bất đẳng thức
+
+Không chỉ tính đến khả năng của mặt trời mà còn tính đến ảnh hưởng của Trái đất không hình cầu, lực hấp dẫn của các hành tinh và sự điều chỉnh tương đối nhỏ. Chưa hết, lý thuyết của Brown đã bộc lộ những trang có sự mâu thuẫn và đưa ra những khác biệt đáng chú ý, mặc dù rất nhỏ, với các quan sát. Vào những năm 40 của thế kỷ chúng ta, người ta đã khẳng định rằng lý thuyết một lần nữa không đáng trách ở đây, mà là do Trái đất quay không đều, và do đó thời gian không đồng đều, được xác định bởi chuyển động quay của hành tinh chúng ta. Với sự chuyển đổi sang thời gian phù du, trôi đều đặn (được xác định bằng đồng hồ nguyên tử), mọi khác biệt đã biến mất.
+
+Sự phát triển của các tàu thăm dò không gian, bao gồm cả Mặt trăng, việc lắp đặt các gương phản xạ góc trên bề mặt Mặt trăng cho phạm vi laser sẽ làm tăng đáng kể độ chính xác của lý thuyết mặt trăng. Bây giờ chúng ta có thể xác định khoảng cách tới Mặt trăng với độ chính xác 25 cm. Sự cải tiến của máy tính đã mở ra những khả năng mới.
+
+Một nhóm các nhà khoa học Pháp đã có thể sử dụng máy tính để kiểm tra lý thuyết của Delaunay và Hill-Brown và thu được tất cả các đại lượng cần thiết với độ chính xác đáng kinh ngạc: lên tới $1''$ ở các góc và với độ chính xác “laser” ở khoảng cách. Để làm được điều này, cần phải thu hút hàng nghìn thành viên tham gia vào các bản mở rộng. Tuy nhiên, điều này không đặc biệt khó khăn đối với máy tính. Lý thuyết được tạo ra theo cách này sau đó đã được áp dụng thành công vào việc nghiên cứu chuyển động của các vệ tinh nhân tạo của Trái đất.
+
+Như vậy đã kết thúc lịch sử kéo dài hàng thế kỷ xây dựng lý thuyết về chuyển động của Mặt trăng. Bây giờ chúng ta đã biết điều gì ẩn chứa trong một cụm từ tưởng chừng đơn giản như vậy: “Mặt trăng chuyển động quanh Trái đất theo hình elip…”

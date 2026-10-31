@@ -1,0 +1,63 @@
+---
+id: 1986-5-gik-beskonechnaya-doska-73084bdc
+issue: kvant_1986_5
+year: 1986
+number: "5"
+title: bảng vô tận
+authors:
+  - Гик Е. Я.
+rubric: shahmatnaya-stranichka
+rubric_sub: Шахматы
+page_first: 67
+page_last: 67
+tag: 4SQP
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 626d17731dc7e619edae4a52993b64e8c07f147300b95bbee1f063a8f7e90803
+prompt_sha256: draft-1
+translated_from: content/ru/1986/05/articles/01_gik-beskonechnaya-doska-73084bdc.md
+source_content_sha256: 8cfa3a6c13b077ac766133c1e80f41168388850983ecca8d4bd114e26ea87ae9
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+BAN VÔ TẬN
+
+Hôm nay chúng ta sẽ xem xét một số câu đố toán học bài toán và cờ vua trên một bảng không giới hạn.
+
+Có hai quân hậu trắng và một quân vua đen trên một bàn cờ vô hạn. Trắng có thể chiếu bí được không? Nếu vậy thì di chuyển trong bao nhiêu bước? Điều này có phụ thuộc vào sự sắp xếp ban đầu của các mảnh không?
+
+Thảm được đặt không muộn hơn nước đi thứ tư cho bất kỳ sự sắp xếp ban đầu nào của các quân cờ. Đầu tiên, một trong các quân hậu tuyên bố kiểm tra dọc theo đường thẳng đứng và tại đáp số, trong trường hợp không có quân vua ở một trong các đường liền kề, quân hậu thứ hai sẽ véo quân vua trên hai đường thẳng đứng. Nếu một bàn cờ thông thường được coi là một mảnh không giới hạn, thì chúng ta có thể giả sử rằng sẽ xuất hiện xấp xỉ vị trí sau: quân hậu ở ô c1 và f8, vua ở ô d4. Bây giờ, bất kỳ nước đi nào của vua đều được theo sau bởi một cuộc chiếu ngang với quân cờ ở nước đi tiếp theo, ví dụ: 2... Ke4 3. Qs4+ và 4. Qff4×.
+
+Bây giờ chúng ta hãy đưa vua đến bàn cờ vô tận.
+
+Có bao nhiêu cách khác nhau Vua có thể di chuyển giữa hai ô vuông tùy ý của một bàn cờ vô hạn có số sau: 2... Ke4 3. Qf4+ và 4. Qff4×.
+
+Chúng ta hãy chọn một trong các hình vuông làm hình vuông ban đầu, vẽ hai đường chéo xuyên qua nó, chia bàn cờ thành bốn góc vuông và xoay bàn cờ sao cho hình vuông cuối cùng dành cho vua nằm trên cùng (trong hình tiếp theo, một hình vuông cũng được bù bằng một hình tròn).
+
+Bây giờ, ba đơn vị được viết vào các trường liền kề với vua, sau đó trên mỗi trường của đường ngang tiếp theo, tổng số các trường của đường ngang trước đó mà vua có thể đến trường này được đặt. Các con số viết bên lề bảng là số đường đi ngắn nhất của quân vua từ ô ban đầu đến ô đã cho.
+
+Bảng kết quả được gọi là tam giác 3 số; tính chất của nó được nghiên cứu chi tiết trong tổ hợp. Tất nhiên, có thể lập một bảng số trên toàn bộ mặt phẳng cùng một lúc, nhưng rõ ràng là ở ba góc còn lại, hình ảnh sẽ được lặp lại hoàn toàn. Mặt khác, nếu chúng ta quan tâm đến nguyên tắc chung và đáp số cụ thể cho hai trường nhất định, chúng ta có thể hạn chế xem xét một hình chữ nhật được đánh dấu ở hình bằng một đường chấm, bởi vì, khi rời khỏi hình chữ nhật này, vua sẽ không còn có thể di chuyển trên con đường giữa các trường đã chọn với số lần di chuyển ngắn nhất.
+
+bài toán cần thiết tiếp theo trên một bảng vô hạn đã được nhà toán học người Mỹ S. Norton tìm ra.
+
+Liệu Trắng có thể thắng ở thế tiếp theo (bàn cờ không giới hạn ở cả hai bên)?
+
+Thoạt nhìn, mỗi nhiệm vụ đều không thể thực hiện được, vì vua đen của Ubet ở trên cùng hoặc ở phía đông. Nếu quân Xe cản trở chuyển động của nó, thì vua tiến đến gần nó, rên rỉ từ vị trí của mình và một trong các hướng trở nên rộng mở, và có vẻ như vua của Trắng không kịp giúp đỡ. Tuy nhiên, Trắng có thể giao phối với vua đen mà không cần rời khỏi hình chữ nhật 9x11! Đây là cách giải quyết bài toán này.
+
+1. Lê2! Kd4. Sau 1...
+Kd3 2. Re11 Black chỉ thua nhịp độ so với đường chính. 2. Kb2 Kd5 3. Krs3 Kd6 4. Kd4 Kd7 5. Re11! Kd8 6. Ke5 Kd9 7. Kf6 Kd10. Như thể những nỗ lực của Trắng không được tăng thêm nhờ thành công, quân Xe phải rời đi, giải phóng
+
+đường tới vua đen. Tuy nhiên, Trắng đã đạt được một mục tiêu quan trọng - ông đã di chuyển quân vua sang bên phải quân Xe, và lúc này cả hai quân của họ đều đang tham gia vào vòng vây. 8. Lii11! Cre10. Nhà vua chỉ có thể đi về hướng đông chứ không thể đi xa. 9. Kg7 Kf10 10. Kh8 Kg10 11. Ki9! Thế là xong, vua đen bị cắt đứt cả hai hướng. Trò chơi tiếp theo chỉ bao gồm việc ghép đôi một vị vua duy nhất trên một bàn cờ có kích thước hữu hạn. Từ lời giải bài toán theo sau, trên một bàn cờ được giới hạn ở hai bên, vua và xe đối phó với vua đơn độc của đối thủ, bất kể vị trí ban đầu của cả ba quân cờ.
+
+Cạnh tranh bài toán
+
+9. Trắng bắt đầu và nhường chiếu trong 2 nước đi.
+
+10. Trắng bắt đầu và hòa.
+
+Hạn chót gửi lời giải là ngày 20 tháng 7 năm 1986 với ghi chú trên phong bì “Cuộc thi cờ vua “Kvata”, bộ 9, 10.”

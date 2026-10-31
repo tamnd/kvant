@@ -1,0 +1,71 @@
+---
+id: 1986-3-starikov-neobyiknovennaya-devochka-8ceefc70
+issue: kvant_1986_3
+year: 1986
+number: "3"
+title: Cô gái phi thường
+authors:
+  - Стариков А. Н.
+rubric: kvant-ulybaetsya
+rubric_sub: «Квант» улыбается
+page_first: 52
+page_last: 52
+page_labels: "50"
+tag: CO8P
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 11b4627c2dfd47f1114db1679cede182b11ed6de744648f4c1072055273914e2
+prompt_sha256: draft-1
+translated_from: content/ru/1986/03/articles/18_starikov-neobyiknovennaya-devochka-8ceefc70.md
+source_content_sha256: 7472a3aee0f56257da0dde0dccf2401b04bd6c476c7efb9b272ed9f6b0b19cc2
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 50⟧
+
+Dominic
+Francois
+Arago
+
+(Xem phần đầu ở trang 9)
+
+mặt phẳng của tấm thì nam châm có xu hướng chuyển động theo chuyển động của tấm; nếu nam châm quay, tấm có xu hướng di chuyển theo chuyển động của nó; và sự tương tác này mạnh đến mức nó làm quay các nam châm hoặc tấm nặng 〈khối lượng〉 vài feet〈1 ft=454 g〉. Nếu nam châm và tấm kim loại đứng yên tương đối với nhau, thì không thể quan sát thấy sự tương tác dù là nhỏ nhất, lực hút hay lực đẩy giữa chúng.” Hãy cố gắng tự mình bắt buộc hiện tượng này.
+
+Dân số văn học và lịch sử của Arago rất được quan tâm. Chúng bao gồm sách giáo khoa và các loại sách phổ biến khác nhau. Và tác phẩm “Tiểu sử của các diễn viên, nhà vật lý và nhà địa lý nổi tiếng” của ông vẫn là một trong những nghiên cứu nền tảng trong lịch sử khoa học.
+
+Phải nói rằng khoa học không phải là sở thích duy nhất của Arago. Trong 20 năm cuối đời, ông tích cực tham gia chính trị. Được bầu vào Hạ viện năm 1831, năm 1848, ông gia nhập chính phủ lâm thời, trở thành quân nhân và sau đó là bộ trưởng hải quân. Những người đương thời lưu ý rằng trong chính trị, cũng như trong khoa học, ông có đặc điểm là tính cụ thể, công bằng, tính sáng tạo, đồng lõa và tháo vát trong những tình huống khó khăn.
+
+Phương châm sống của Arago là câu nói của d'Alembert với một chàng trai trẻ gặp khó khăn trong việc học toán: “Hãy tiến lên, tiến lên và bạn sẽ có được sự tự tin”. Việc trung thành với phương châm này đã cho phép Dominique François Arago trở thành một trong những người đi đầu trong việc phát triển và cải tiến khoa học, công nghiệp và giáo dục ở Pháp.
+
+B. I. Geller
+
+NỤ CƯỜI SỐ LƯỢNG
+
+Máy tính cá nhân trong hình ảnh
+(dựa trên tài liệu từ “PERKOMPUTILA INSTRUADO”, 1985, số 2
+[6] (Hungary)
+
+Bạn đã tuân theo các mệnh lệnh bằng lời nói, hãy cố gắng thành thạo việc điều khiển máy tính.
+
+Cô gái phi thường
+A. N. Starikov
+
+Bà đã một ngàn một trăm tuổi
+Cô ấy đã học đến lớp một trăm lẻ,
+Cô ấy mang theo một trăm cuốn sách trong cặp của mình -
+Tất cả đều đúng, không tệ chút nào.
+Khi, phủi bụi bằng chục feet,
+Cô ấy đi dọc con đường
+Chú chó con luôn chạy theo cô
+Có một cái đuôi nhưng lại có một trăm chân.
+Cô yêu từng âm thanh
+Với mười tai của bạn,
+Và mười bàn tay rám nắng
+Họ cầm chiếc cặp và dây xích.
+Và mười đôi mắt xanh đậm
+Chúng tôi nhìn thế giới bằng việc tiêm chủng...
+Mọi thứ sẽ không trở nên hoàn toàn bình thường,
+Khi nào câu chuyện của chúng ta sẽ xuất hiện?

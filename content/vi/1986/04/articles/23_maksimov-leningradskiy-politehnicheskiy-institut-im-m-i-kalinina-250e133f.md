@@ -1,0 +1,98 @@
+---
+id: 1986-4-maksimov-leningradskiy-politehnicheskiy-institut-im-m-i-kalinina-250e133f
+issue: kvant_1986_4
+year: 1986
+number: "4"
+title: Viện Bách khoa Leningrad được đặt theo tên. M. I. Kalinina
+authors:
+  - Максимов Ю. Д. и др.
+rubric: ekzamenatsionnye-materialy
+rubric_sub: Экзаменационные материалы
+page_first: 58
+page_last: 58
+page_labels: "56"
+tag: 3H73
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: fcffe3cd9e187e761d45c65c29a87f03e93121442efac2777c98b0ac2b72d154
+prompt_sha256: draft-1
+translated_from: content/ru/1986/04/articles/23_maksimov-leningradskiy-politehnicheskiy-institut-im-m-i-kalinina-250e133f.md
+source_content_sha256: eaf59cd76a129d71760f3762fb9f4af8305f989dfac1c827e0f16045ed7c2434
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 56⟧
+
+Thiết bị này có thể thay đổi hiệu điện thế nếu có thêm điện trở $R_\pi=90$ kOhm được kết nối với nó không?
+
+9. Bằng cách di chuyển thấu kính giữa vật và màn, chúng ta tìm được hai vị trí mà tại đó thấu kính tạo ra ảnh của vật trên màn. Tìm chiều cao của vật thể, biết rằng chiều cao của hình ảnh đầu tiên là $h_1$ và chiều cao của hình ảnh thứ hai là $h_2$.
+
+10. Nguồn sáng cách thấu kính hội tụ một khoảng bằng 1,5 F (F là tiêu cự của thấu kính). Một gương phẳng phải đặt cách thấu kính một khoảng bao nhiêu để tia phản xạ từ gương chiếu sáng thấu kính lần thứ hai và cách thấu kính một khoảng tiêu cự gấp đôi?
+
+Ấn phẩm được biên soạn bởi V. F. Ospinov, V. N. Skrebov, G. A. Fedogov
+
+Viện Bách khoa Leningrad được đặt theo tên. M. I. Kalinina
+
+Matematika
+Bài thi viết
+Tùy chọn 1
+(Khoa vật lý cơ học, khoa kỹ thuật kubernetics, khoa vật lý vô tuyến)
+
+1. Tìm tan 2α nếu biết sin (α−90°) = $\frac{5}{13}$ và sin α < 0.
+
+2. Một paramid lục giác đều được nội tiếp trong hình nón sao cho các đỉnh và mặt phẳng đáy của chúng trùng nhau. Tìm thể tích và bề mặt bên của hình nón nếu các mặt bên của paramid tạo một góc $\frac{\pi}{3}$ với đáy và chiều dài cạnh của đáy là 2.
+
+3. Giải bất đẳng thức $\frac{\lg^2 x - 3\lg x + 3}{\lg x - 1} < 1$.
+
+4. Tìm chu kỳ của hàm số $y=f'(x)$ và vẽ đồ thị của nó nếu $f(x) = \cos\left(2x - \frac{\pi}{2}\right) + \sin(3\pi - 4x) - \cos\left(\frac{5\pi}{2} + 6x\right) - \frac{4\sin(5\pi - 3x)\cos(x - 2\pi)}{3} - \frac{3}{4}x$.
+
+5. Được biết, đa thức $p(x) = x^4 + (\beta + 2)x^3 + (a + 2\beta)x^2 + (3a + \beta - 4)x + 2a - 3$ có nghiệm độc lập với α và β. Tìm gốc này. Tìm mọi số α, β sao cho p(x) bằng bình phương của tam thức bậc hai.
+
+Tùy chọn 2
+(Khoa Kỹ thuật Kubernetics)
+
+1. Tìm x nếu các số log 2, log(2^x - 1), log(2^x + 3) là các số hạng liên tiếp của một cấp số cộng.
+
+2. Giải phương trình 2(1−cos 2x) = $\sqrt{3}$ tan x.
+
+3. Giải phương trình 2−4$\log_3\sqrt{x-1}$ = $\log_3(5x+3)$.
+
+4. Trong hình bình hành ABCD, điểm M là trung điểm cạnh BC, điểm N là trung điểm CD. Gọi E là giao điểm của AM với BD và F là giao điểm của AN với BD. Biểu thị vectơ $\vec{NE}$ theo $\vec{e}_1$ và $\vec{e}_2$ nếu chúng có độ dài đơn vị và trùng với $\vec{AB}$ và $\vec{AD}$ tương ứng, a |AB| = 4, |AD| = 7.
+
+5. Tìm miền xác định của hàm $f(x) = \lg \frac{4\cos^2 x - 6e^{\cos 2x} + 2}{30x^2 - x - 1}$.
+
+Tùy chọn 3
+(Khoa Vật lý, Cơ học và Vật lý phóng xạ)
+
+1. Giải hệ phương trình
+$$\begin{cases} \sqrt{x} + \sqrt{y} = 9, \\ xy = 324. \end{cases}$$
+
+2. Giải bất đẳng thức
+$$\frac{x}{x-3} - 1 > \frac{1}{x+2}.$$
+
+3. Giải phương trình
+$$\log_3(4 \cdot 3^x - 1) = 2x - 1.$$
+
+4. Các đường chéo chia tứ giác lồi thành bốn hình tam giác. Bán kính của các đường tròn ngoại tiếp các tam giác này bằng nhau và bằng 2. Tìm độ dài các cạnh của tứ giác.
+
+5. Đối với hàm $F(x) = (\sin x)^{-1/3}\cos x + x + 1$, hãy tìm miền định nghĩa và các khoảng tăng và giảm. Từ những gì tìm được, người ta đã xác định được giá trị nào lớn hơn: A = cos 3×$\sqrt{3}\sin 2$−cos 2 $\sqrt{3}\sin 3$ hoặc B =$\sqrt{3}\sin 2$ sin 3.
+
+Vật lý
+Bài toán kháng bệnh chàm
+
+1. Vật được treo trên một sợi dây có chiều dài l. Vận tốc nào phải được truyền cho vật thể này để khi chuyển động theo đường tròn, nó chỉ có thể đạt đến điểm cao nhất của quỹ đạo?
+
+2. Một vật rắn chuyển động trong không khí với tốc độ v lớn hơn tốc độ trung bình của các phân tử không khí. Chứng minh rằng lực kéo tỷ lệ thuận với S v², trong đó S là diện tích phiên LOB của cơ thể.
+
+3. Khí tự nhiên có khối lượng m = 5 kg (khối lượng mol của khí M = 4·10⁻³ kg/mol) được nung nóng đến ΔT = 150 K ở thể tích không đổi. Tìm nhiệt lượng truyền cho khí.
+
+4. Một electron chuyển động trong từ trường theo quỹ đạo tròn với vận tốc góc $\omega = 2 \cdot 10^{10}$ rad/c. Từ trường riêng lẻ tăng lên n = 1,5 lần. Lúc này electron đang quay với vận tốc góc bằng bao nhiêu?
+
+5. Áp suất đàn hồi k = 40 N/m được treo thẳng đứng. Một vật có khối lượng m = 0,8 kg được gắn vào đầu dưới của nó. Tại một thời điểm nào đó dây chỉ bị kéo lại a = 0,15 m và a) được thả ra. Diện tích lớn nhất so với khối lượng của quả bóng là bao nhiêu?
+
+7. Hai thấu kính hội tụ mỏng có tiêu cự F₁ và F₂ đặt cạnh nhau (gần nhau). Tìm công suất quang của hệ thống này.
+
+Ấn phẩm được chuẩn bị bởi Yu. D. Maksimov, V. P. Popov, S. P. Prebrazhensky, I. V. Rusov

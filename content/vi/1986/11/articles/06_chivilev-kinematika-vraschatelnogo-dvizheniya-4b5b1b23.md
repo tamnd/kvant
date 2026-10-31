@@ -1,0 +1,46 @@
+---
+id: 1986-11-chivilev-kinematika-vraschatelnogo-dvizheniya-4b5b1b23
+issue: kvant_1986_11
+year: 1986
+number: "11"
+title: Động học của chuyển động quay
+authors:
+  - Чивилёв В. И.
+rubric: shkola-v-kvante
+page_first: 19
+page_last: 19
+page_labels: "17"
+tag: ASO3
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 80b66db98a5a761a8e6575054b2648979f4715f55c391bd8fce23b08adbcd6dc
+prompt_sha256: draft-1
+translated_from: content/ru/1986/11/articles/06_chivilev-kinematika-vraschatelnogo-dvizheniya-4b5b1b23.md
+source_content_sha256: 0d872e37a8682577bb82adb4fe478eacdfef57e0cd47c317af87cfc33131f190
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 17⟧
+
+Vật lý 8, 9, 10
+
+Ghi chú “Kinematika của chuyển động quay” được xuất bản dưới đây dành cho tác phẩm kinh điển thứ tám, “The Tell Pump” dành cho tác phẩm kinh điển thứ chín và “Danh pháp trong Quang học hình học” dành cho tác phẩm kinh điển thứ chín.
+
+Động học của chuyển động quay
+
+Từ từ đi qua ngã tư, chiếc xe buýt bắt đầu di chuyển dọc theo con phố, tăng dần tốc độ...
+
+Chuyển động của bánh xe buýt điện chỉ là một trong nhiều ví dụ về chuyển động cơ học phức tạp trên thế giới xung quanh chúng ta. Nó chỉ ra rằng bất kỳ chuyển động phức tạp nào cũng có thể được biểu diễn dưới dạng tổng của hai chuyển động đơn giản - tịnh tiến và chuyển động quay. Điều này nên được hiểu theo cách này: luôn có thể chọn một hệ thống báo cáo chuyển động tịnh tiến như vậy, trong đó chuyển động trông giống như một vòng quay quanh một trục cố định.
+
+Trong trường hợp của chúng tôi, chúng tôi nên chọn loại hệ thống báo cáo nào để bánh xe buýt chuyển động rõ ràng trong đó? Những đại lượng vật lý nào mô tả chuyển động này, những đại lượng này liên hệ với nhau như thế nào và nó phụ thuộc vào thời gian như thế nào? Những câu hỏi như vậy có thể nảy sinh không chỉ ở vạch qua đường dành cho người đi bộ mà còn trong giờ học, bài kiểm tra hoặc tại lời giải một bài toán cụ thể.
+
+Câu hỏi đầu tiên rất dễ trả lời; chúng tôi đã đồng ý rằng hệ thống báo cáo chuyển động lũy ​​tiến có thể được kết nối với chính xe buýt điện (thân của nó). Trước khi trả lời các câu hỏi còn lại, trong ví dụ của chúng tôi, bánh xe quay không đều - mô hình tốc độ của bất kỳ điểm nào trên bánh xe sẽ thay đổi theo thời gian.
+
+Chúng ta hãy xem xét một điểm nhất định $M$ của một bánh xe nằm cách trục quay một khoảng $r$ và tại một thời điểm nào đó có tốc độ $\vec{v}$ và gia tốc $\vec{a}$ (hình 1). Từ các thông điệp vật lý, thật hợp lý khi tưởng tượng gia tốc $\vec{a}$ là tổng của hai thành phần: một trong số chúng $\vec{a}_\pi$ hướng xuyên tâm vào tâm vòng tròn - gia tốc hướng tâm, thành phần thứ hai $\vec{a}_\kappa$ hướng tiếp tuyến với vòng tròn - gia tốc tiếp tuyến. Cả hai gia tốc này đều có một ý nghĩa vật lý nhất định - gia tốc tiếp tuyến đặc trưng cho tốc độ thay đổi theo kiểu vận tốc và gia tốc hướng tâm đặc trưng cho tốc độ thay đổi theo hướng của tốc độ. Có thể chỉ ra rằng mô hình gia tốc hướng tâm là $a_\pi = v^2/r$ (“Vật lý 8”, § 16), và mô hình gia tốc tiếp tuyến là $a_\kappa = \Delta v/\Delta t$, trong đó $\Delta v$ là sự thay đổi trong mô hình $v$ của tốc độ của một điểm trên slide một góc nhỏ $\Delta t$.
+
+Đại lượng tuyến tính và góc. Như đã đề cập, chúng ta cần duy trì các đại lượng vật lý đặc trưng cho sự quay không đều của bánh xe (trong hệ thống báo cáo liên quan đến xe buýt điện). Chúng ta hãy thử thực hiện điều này bằng cách tương tự với các chuyển động thẳng không đều.
+
+Hãy cùng theo dõi điểm $M$ của bánh xe trong một khoảng thời gian ngắn $\Delta t$. Trong thời gian này, điểm sẽ di chuyển dọc theo một cung tròn dọc theo đường đi $s$ và sẽ có tốc độ $v$ và gia tốc tiếp tuyến $a_\kappa$ (hình 2). Khi các giá trị $s, v$ và $a_\kappa$, được gọi là đại lượng tuyến tính, mô tả chuyển động của điểm $M$, nhưng không thể dùng để mô tả chuyển động quay
