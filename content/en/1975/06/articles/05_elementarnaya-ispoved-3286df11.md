@@ -1,0 +1,55 @@
+---
+id: 1975-6-elementarnaya-ispoved-3286df11
+issue: kvant_1975_6
+year: 1975
+number: "6"
+title: Elementary confession
+rubric: smes
+page_first: 19
+page_last: 19
+tag: FNFN
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 6d66f84c6e9960979e9dd4de44b14dd662f2c1f715ce73b48bccf51323852007
+prompt_sha256: draft-1
+translated_from: content/ru/1975/06/articles/05_elementarnaya-ispoved-3286df11.md
+source_content_sha256: abdb2ded02f45838eedb839674a7223af90bfdba79af0ba81862e4b54a55a958
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+(electronic) neutrino is known to be at least less than 1/7000th the mass of an electron.
+
+In many laboratories around the world, including in the Soviet Union, intensive experimental work is underway to study neutrinos. The goal of this work is to find out what other properties neutrinos have. In particular, searches are underway for other processes that, according to the theory of weak interactions, should occur under the influence of neutrinos.
+
+Great attention is also paid to the search for as yet undiscovered neutrino radiation from the Sun and other stars. Modern ideas about the nature of solar and intrastellar energy are associated with the picture of intense nuclear processes occurring in superhot plasma (at a temperature of several tens of millions of degrees) that makes up the inner regions of the Sun and other stars. The appearance of neutrinos in these processes should significantly affect the overall energy balance, and therefore the entire dynamics of stellar development, since neutrinos, freely penetrating through the entire thickness of the Sun or star, fly into outer space and take with them a noticeable share of the total energy. To detect solar neutrinos, huge underground laboratories are built at great depths in coal mines or in tunnels under large mountains in order to ensure a minimum “background level” from cosmic rays in neutrino detectors.
+
+Thus, in solving problems associated with the study of weak interactions and neutrinos, the development paths of elementary particle physics - the physics of the microcosm - and the science of stars and other galactic objects - modern astrophysics are closely linked.
+
+⟦column⟧
+
+## Elementary
+
+## confession
+
+It's good to be a neutrino. You fly wherever you want, you fly right through everything. There is no charge, zero mass, no one touches you, no one registers you... What else do you need?
+
+And here you are spinning like hell around the core, with variable probability, jumping from level to level. You radiate energy. You give everything down to the last quantum, and everyone quantizes you according to Bohr and Dirac.
+
+The field was opened. It's called electromagnetic. $E$ for X, $H$ for Y, $V$ for Z. You can go crazy. The orbits, they say, are stationary, please rotate, conserving energy.
+
+Here’s a friend of mine who works at 1st Borovskaya, at Hydrogen. And he lives somewhere in the middle of nowhere. By the time he gets to work, the poor fellow will suffer so much that he could even fall on a cannonball. What about at work? There are different quanta, photons. Hooliganism. They wander around, looking to see who they can knock out of orbit. Disorder. You can’t hold on to more than $10^{-8}$ $c$ on one atom.
+
+And it’s even worse for a free person. Now a field, now a hole, and what good and $U$ accelerating. My brother-in-law somehow fell into a hole, and now something is wrong with his $\psi$-function. Not entirely smooth, with a dislocation, that is.
+
+In general, what can I say. It used to be that you would run calmly from “-” to “+”. Current towards you. If you ask him for news, you’ll tell him yourself. You'll get there, you'll catch your breath. And now... You can’t even stop. If you stop, you will get such uncertainty in the impulse that you will sway, and if you reduce the impulse, it will be smeared across space. No, it’s better to be a neutrino.
+
+*From the newspaper of the Moscow Institute of Physics and Technology “For Science.”*
+
+2 «Kvant» № 6
+
+17

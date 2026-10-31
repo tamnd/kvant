@@ -1,0 +1,34 @@
+---
+id: 1975-2-spisok-chitateley-prislavshih-pravilnyie-resheniya-6b3227e1
+issue: kvant_1975_2
+year: 1975
+number: "2"
+title: List of readers who sent correct solutions
+rubric: zadachnik-kvanta
+page_first: 43
+page_last: 43
+page_labels: "41"
+tag: RRMG
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: b3d234d487f5241d6b6947e9ff5094215e095db2599e67101b1a588512b9974c
+prompt_sha256: draft-1
+translated_from: content/ru/1975/02/articles/11_spisok-chitateley-prislavshih-pravilnyie-resheniya-6b3227e1.md
+source_content_sha256: 69b6f9008c5dd5943bd76cb09d6bc6d06d970e121381f5c30178871621ced4f0
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+End of the list. For the beginning see «Kvant» No. 1, 1975.
+B. Umurzakov (Kiz, Alma-Ata region) 63; F. Shakurova (Kazan) 56, 59; S. Shatashvili Tbilisi) 58, 63; E. Sheftel (Chernigov) 58, 59; A. Shigel (Moscow) 63, 64; G. Shmelev (Yaroslavl) 56, 58, 59, 61 - 63, 65; N. Shmyrin (Director of the Sverdlovsk region) 63; V. Shpakovsky (Pinks, Brest region) 56, 62, 65; A. Shulman (Kyiv) 62 - 65; A. Shushkov (Leningrad) 63; I. Yunus (Kharkov) 56 - 59, 61 - 65; B. Yusin (Moscow) 56 - 59, 61 - 65; M. Yanikova (Moscow) 63; B. Yatsalo (Morochno village, Rivne region) 64.
+
+Correct solutions to problems F267—F277 were sent by the following readers (bold numbers are the last two digits of the problem number): X. Abdullin (Alma-Ata) 72; N. Agladze (Tbilisi) 73, 75, 77; D. Azov (Chelyabinsk) 72; G. Aizin (Brest) 72, 77; R. Akbarov (Andijan) 68, 70—73, 75, 76; S. Aktersev (Magnitogorsk) 68, 70-72; A. Alexandrin (Valuiki) 67, 68, 70; A. Alekseev (Smolensk) 72; Y. Annamuradov (Bayram-Ali) 72; M. Aronov (Volodarsk) 68, 70, 71; Sh. Atabaev (n/o Naiman, Khorezm region) 68; I. Babakulov (Katta-Kurgan, Samarkand region) 75; R. Babchannik (Manoma village - 65 km of Khabarovsk region) 68; V. Bakurov (Novosibirsk) 67; S. Balashov (Moscow) 75, 77; R. Basyrov (village N. Karakityany TASSR) 67, 68, 70, 73, 76; G. Bezhiashvili (Rustavi) 73, 75; V. Belousov (Moscow) 67; Yu. Belsky (Brest) 71, 72; Z. Bendukidze (Tbilisi) 70; V. Benkhan (Kalinin) 70, 75; U. Bedzhiev (Karachaevsk) 67, 68, 70-72; M. Birman (Saratov) 68, 70; M. Biktimirov (Leninsk) 73, 77; Yu. Bogomolov (Kazan) 68, 70, 72—74, 77; S. Bodrov (Reutov) 67, 68, 71, 72; V. Borisov (Voronezh) 68, 73; V. Boryu (Zaporozhye) 68-71, 73, 75; S. Bostanova (Karachaevsk) 67, 68, 70-72; S. Burin (Borovsk) 72; A. Vakulenko (Moscow) 68, 70, 71; V. Vinogradov (Vladivostok) 68; I. Vinokurov (Moscow) 68, 71; I. Vinyar (Orhei) 68; A. Volkov (Chelyabinsk) 72, 73; V. Volchkov (village Zalegoshch, Oryol region) 67; I. Voronin (Dnepropetrovsk) 73; V. Galunov (Frunze) 68; I. Galinnikov (Volgograd) 68, 71—73, 75; V. Gasilov (Yaroslavl) 68, 70; M. Gedalin (Tbilisi) 67, 75, 77; S. Hertz (Khust) 68, 72; B. Goberman (Baku) 70; A. Govyada (Kyiv) 67; I. Goldovsky (Bryansk) 68, 71, 73—75, 77; E. Hunger (Pinsk) 68, 71-73; A. Goncharov (Voronezh) 73-75; E. Gorbaty (Odessa) 68, 70, 72, 74-77; A. Gordin (Uren village, Gorky region) 75, 77; S. Gorishny (Taganrog) 68, 70, 73-75; A. Grigoriev (Grozny) 73; S. Grigoriev (Essentuki) 68, 73; S. Grodsky (Korsun-Shevchenkovsky) 73; V. Gryazev (Kokchetav) 68, 72; E. Gubanov (Vostryakovo village, Moscow region) 70, 72; E. Gugel (Dnepropetrovsk) 68; O. Gudkova (Odessa) 72; M. Gumamyan (Yerevan) 76;
+
+⟦column⟧
+
+E. Demikhov (Usman) 68, 73; U. Jumaniyazov (Khazarasp district, Khorezm region) 68; Yu. Dokuchaev (Leningrad) 67-76; V. Dorokhov (Donetsk) 67; A. Drobinin (Evpatoria) 68, 70, 71, 75-77; N. Dubrovsky (Omsk) 69, 70; V. Zhuk (Grozny) 70; E. Zhukov (Volgodonsk, Tselinograd region) 68, 72; I. Zavertkin (Orsk) 70, 72, 75, 76; P. Zolotarev (Tashkent) 67, 73, 75-77; V. Zosimov (Elista) 71, 72, 74, 75; F. Ibragimov (Krivoy Rog) 72; V. Ivashchuk (Kyiv) 67, 68, 70—75, 77; T. Ivanova (Moscow) 68; A. Ivliev (Moscow) 67, 68, 70; A. Izmailov (Baku) 68, 70-72; A. Imernishvili (Tbilisi) 72; N. Imranov (Baku) 68; I. Iovik (Magnitogorsk) 68, 70, 73, 75; A. Kazarova (Yerevan) 76; A. Karnaukh (Belgorod) 68, 70, 72, 73-75; A. Kapivets (Karpinsk) 68; V. Karpukhov (Chelyabinsk) 73, 75, 76; A. Karyakin (Saran) 73; B. Katsman (Mytishchi) 67, 70, 72, 73; G. Kvinikadze (Tbilisi) 68, 72; A. Kerentsov (Bugulma TASSR) 72; L. Klimenko (Moscow) 73; A. Klochko (Zhukovsky) 68, 70, 71, 73, 75, 76; N. Kobyletsky (Baku) 71; Ya. Kogan (Glazov) 68, 71-74, 77; R. Kozak (Vinnitsa) 68, 70, 71, 73, 75; S. Kolobzarova (Volsk) 68; A. Kolost (Voronezh) 68, 70; A. Kolyuchkin (Simferopol) 68, 71; S. Kolyada (Kyiv) 68, 75; V. Komarov (Achinsk) 72; A. Kopnov (Novocherkassk) 73, 76, 77; S. Kopylovsky (Znob-Novgorodskoe village, Sumy region) 67, 68, 70-75, 77; G. Ship (Lviv) 77; I. Koreshkin (Oster village, Smolensk region) 71; M. Krol (Pavlovo) 73, 74; A. Krokhin (Kharkov) 73, 75; A. Kulikovsky (Moscow) 68, 72; V. Kutsenko (Kamyshin, Volgograd region) 76; I. Lazurcak (Truskavets) 68; V. Lalekin (Gagarin, Smolensk region) 68, 70-72; V. Levitas (Kyiv) 72, 77; A. Lekchinov (Shakhty) 73, 75; Yu. Listov (Kazan) 68—70, 72; A. Lopatenko (Dnepropetrovsk) 73, 75, 77; S. Lyapin (Petrikov) 67, 73; S. Magomedov (village Kubra DagASSR) 70; I. Maykhruk (the village of Belobozhnitsa, Ternopil region) 70, 71, 73, 75, 77; V. Malov (Tashkent) 77; V. Mamed-Zadeh (Baku) 68; S. Matveenko (Moscow) 68—70, 72, 73, 75, 77; G. Mats (Novosibirsk) 76; V. Melekhov (Kirovo-Chepetsky, Kirovograd region) 68; S. Melnik (Kharkov) 68, 70-77; A. Menzhiliy (Staromlinskaya station, Krasnodar region) 68; A. Morozov (Novosibirsk) 75, 77; A. Morozovsky (Kyiv) 72, 77; A. Nabatchikov (Kursk) 70, 73; V. Nazargulov (Sterlitamak) 75; K. Nikolaev (Alma-Ata) 68; G. Hovhannisyan (village of V. Artashat ArmSSR) 75, 77; A. Oksak (Voroshilovgrad) 75; Yu. Onishchenko (Lyubertsy) 68, 69, 71—75, 77; S. Onuchin (Perm) 73, 75; A. Osin (Kamyshin, Volgograd region) 68, 69, 71, 73; V. Osipenko (Znob-Novgorodskoe village, Sumy region) 68, 73, 75; S. Ostapenko (village of Pushtulim, Altai region) 70; A. Ostapov (Ordzhonikidze) 72; WITH. Ostrovskaya (Kharkov) 68, 70, 72, 73; E. Pavlenko (Armavir) 68, 73, 77; S. Panteleimonov (Khust) 70, 73; A. Paro-
+
+⟦folio 41⟧

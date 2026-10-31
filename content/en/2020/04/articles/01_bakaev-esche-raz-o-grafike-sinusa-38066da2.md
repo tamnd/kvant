@@ -1,0 +1,51 @@
+---
+id: 2020-4-bakaev-esche-raz-o-grafike-sinusa-38066da2
+issue: kvant_2020_4
+year: 2020
+number: "4"
+title: Once again about the sine graph
+authors:
+  - Бакаев Е. В.
+rubric: osnovnye-stati
+page_first: 13
+page_last: 13
+tag: N635
+lang: en
+source: kvant_digital
+extraction: native
+content_sha256: 6a245105f533b731254f8690cc921e375d964d3b238bf733a2138624884acbf4
+prompt_sha256: draft-1
+translated_from: content/ru/2020/04/articles/01_bakaev-esche-raz-o-grafike-sinusa-38066da2.md
+source_content_sha256: 26c75205ebe2b6c784e0c5a26218199c47d61423ead3f38b65e295894ae3f21b
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+Once again about the sine graph
+
+E.BAKAEV
+
+The article by P. Panov (see «Kvant» No. 3) discusses what a sin(314x) graph looks like, consisting of points with abscissas that are multiples of $10^{-} 3$. It is natural to generalize this question and find out what the graph of sin ( ax ) looks like if only its points with abscissas that are multiples of d are marked. Here we will consider another approach to this problem. For simplicity, we will also take a special case, but a different one: a = d = 1. Let's build a graph: figure 1 shows the points corresponding to the values ​​of sin x for integer x from 0 to 50. But the dimensions of the graph and, accordingly, the scale of the axes can be chosen in different ways. For example, here are the first 1000 points of sin x for natural x (Fig.2) and the first 10000 points (Fig.3). It turns out that a and d are not the only parameters that determine what we see on the graph; the scale of the axes is also important.
+
+⟦figure⟧
+
+Fig. 1
+
+⟦column⟧
+
+⟦figure⟧
+
+Fig. 3
+
+The graphs are not similar to each other: on one, a pattern of hexagons emerges, and on the other, an interweaving of lines similar to sines appears. But they are structured in the same way, it’s just that a graph with 1000 points is a part of a graph with 10,000 points stretched 1 10 in width (with this stretching, the points themselves do not stretch into ovals, but still remain round). You can verify this by looking at the graph at figure 2 from the side at an acute angle. However, the graphs look different because stretching this way increases the distance between many pairs of points, and points that appear close on figure 3 may not appear so on figure 2. This question was posed in the book by Gilbert Strang [1]. It is discussed in more detail in Norman Richert’s article “Strang’s Strange Figures” [2]. Our approach will largely follow these sources. But it will be different.
+
+Straight, wound on a cylinder
+
+Fig. 2
+
+DOI: https://doi.org/10.4213/kvant20200402
+
+To make further reasoning and calculations simpler, let's move from sines to considering straight lines. To do this, imagine a cylinder. If you draw a straight line on a transparent film and wind the film on a transparent cylinder

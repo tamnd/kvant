@@ -1,0 +1,54 @@
+---
+id: 1975-6-sludskiy-moskovskiy-gosudarstvennyiy-universitet-im-m-v-lomonosova-39aa6792
+issue: kvant_1975_6
+year: 1975
+number: "6"
+title: Moscow State University named after. M. V. Lomonosova
+authors:
+  - Слудский В. Н.
+rubric: raznoe
+rubric_sub: Разное
+page_first: 45
+page_last: 45
+page_labels: "43"
+tag: 1FDC
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 2494987a6c127b7e57c39e784f1a0311697b5510ff34e67f12b721a2a99e9f4a
+prompt_sha256: draft-1
+translated_from: content/ru/1975/06/articles/14_sludskiy-moskovskiy-gosudarstvennyiy-universitet-im-m-v-lomonosova-39aa6792.md
+source_content_sha256: aef3cd338253d8dd49ee07506ce0972d073c9b7c7d64df0d8d56d5cc9545d81a
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 43⟧
+
+Moscow State University
+them. M. V. Lomonosova
+
+At Moscow State University in 1974, three versions of exam papers were used for entrance exams in physics. The first version was intended for the Faculty of Physics, the second for the Faculty of Mechanics and Mathematics and the Faculty of Computational Mathematics and Cybernetics, and the third for the Faculty of Chemistry, Soil Science, Geology and Geography.
+
+We have already published the tasks offered in the tickets of the first two options (see «Kvant», 1975, No. 5). In this issue we include tasks from the tickets of the third option. In addition to one problem, two theoretical questions were proposed in each challenge. Both questions and the task related to different sections of the physics course.
+
+1. The parachutist leaves the gondola of a freely flying balloon at an altitude of $h_0 = 250$ m. For the first $h_1 = 50$ m he falls freely, and then, having opened his parachute, he descends at a constant speed of $v_0 = 4$ m/s. At what distance $S$ from the jump site (horizontally) will the skydiver land? Wind speed $v_1 = 2$ m/s and does not depend on height.
+
+2. It is necessary to dig a well with a depth of $h_0 = 20$ m. At what depth of the well $h$ will 1/3 of all the necessary excavation work be completed? The density of the soil is assumed to be the same.
+
+3. Two identical small balls are suspended on threads $l = 2$ m long from one point on the ceiling. When the balls were given the same charges $q = 2 \cdot 10^{-8}$ k, they separated by a distance $R = 16$ cm. Determine the tension $T$ of each of the threads. Electrical constant
+
+$$\varepsilon_0 = \frac{1}{4\pi \cdot 9 \cdot 10^9} \phi/m.$$
+
+4. A cylinder containing $V_1 = 0,02$ m³ of air under a pressure of $p_1 = 4 \cdot 10^5$ n/m² is connected to a cylinder containing $V_2 = 0,06$ m³ of air under a pressure of $p_2 = 2 \cdot 10^5$ n/m². Find the pressure established in the vessels if the temperature is constant.
+
+5. The battery is closed to a resistance of $R_1 = 8$ ohm. Dressing up for resistance $u_1 = 3$ c. When the battery is closed to a resistance of $R_2 = 14$ ohms, the voltage across the resistance becomes equal to $u_2 = 3,5$ ohms. Determine the electromotive force of the battery.
+
+6. Hydrogen to fill the balloon with a volume of $V = 50$ m³ at a temperature of $t = 0$ °C and normal atmospheric pressure was obtained by electrolysis of water. How much electrical energy $W$ was expended in this case if the voltage at the electrodes was $u = 22,4$ V? Electrochemical equivalent of hydrogen $k = 0,01$ m²/k. The volume of kilogram-molecular mass of gas under normal conditions is $V_0 = 22,4$ m³.
+
+7. Converging and diverging lenses having a common optical axis are located at a distance of $l = 4$ cm from each other. A parallel beam of light with a circular cross-section of radius $r_1 = 3$ cm, passing through sea buckthorn, remains parallel. Determine the radius $r_2$ of the output beam if the light falls from the side of the collecting lens, and the focal scattering of the diverging lens is $f = 2$ cm.
+
+8. A ray of light enters a triangular colli stone prism in the air, perpendicular to the first face, is completely reflected from the second face and exits perpendicular to the third face. At what maximum angle can the direction of the beam be changed if the indicator of pre-moltenness of the stone colli is $n = 2$?
+
+V. N. Sluudsky

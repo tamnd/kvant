@@ -1,0 +1,66 @@
+---
+id: 1975-7-n-algebraicheskie-zadachi-037c3710
+issue: kvant_1975_7
+year: 1975
+number: "7"
+title: Algebraic problems
+authors:
+  - Н. В.
+rubric: smes
+page_first: 22
+page_last: 22
+page_labels: "20"
+tag: YQDH
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 9e7edfa102ef1634e81bb30e6f6854acd1e0f2ae018276092e350ce02fce2eae
+prompt_sha256: draft-1
+translated_from: content/ru/1975/07/articles/04_n-algebraicheskie-zadachi-037c3710.md
+source_content_sha256: f07930fa59e28cc25979efc3a65b0ce1a8c0acd2f5ce2d4c2564f8dd1218b5bc
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 20⟧
+
+Exercise 14. Prove inequalities in a similar way
+$$M(A \# B) \leq M(A) + M(B),$$
+$$K(A \# B) \leq K(A) + K(B).$$
+
+The inequality $P(A \# B) \geq P(A) + P(B)$ is more difficult to prove (for invariants $M$ and $K$ a similar inequality does not always hold).
+
+Consider a sphere with 2P ($A \# B$) handles and a “cutting” node $A \# B$ on it.
+
+By the definition of composition, we can always “pull apart” nodes $A$ and $B$ to a considerable distance from each other, for example, so that they are combined into a composition by means of two parallel segments connecting them ($KL$ and $MN$ on figure 18, a); At the same time, we will have to “melt” the original sphere with handles.
+
+Let us now draw a plane separating the nodes $A$ and $B$. This plane cuts the sphere with handles, firstly, along a “tube” along which two segments pass connecting the nodes (prove that these segments actually pass through one tube, and not through two different ones!); Let's seal the two holes formed with “patches” with arcs drawn on them, closing each of the nodes (arcs $PQ$ and $RS$ on figure 18, b). Secondly, the plane can "accidentally" cut "holes" in those parts of the sphere with handles that do not contain knot lines; Let's cover these “holes” with “patches” (this time without drawn arcs).
+
+It is obvious that each of the resulting nodes $A$ and $B$ is located on its own sphere with handles and cuts it, and the sum of the numbers of handles of each of these spheres is not greater than the number of handles of the original sphere, that is, $P(A \# B) = P(A) + P(B)$, which is what was required.
+
+Exercise 15. Try the same method to prove the inequality $K(A \# B) \geq K(A) + K(B)$.
+
+We have now completed our difficult journey. If you want to continue it, Crowell and Fox's interesting (if difficult) book will serve as your guide.
+
+Algebraic problems
+
+1. Prove that $x^{13} - 1 = (x - 1)(x^6 - ax^5 + 2x^4 + bx^3 + 2x^2 - ax + 1) \times (x^6 - bx^5 + 2x^4 + ax^3 + 2x^2 - bx + 1)$, where $a$ and $b$ are roots of the quadratic equation $z^2 + z - 3 = 0$. Find a similar expansion for $x^{17} - 1$, choosing as $a$ and $b$ the roots of the quadratic equation $z^2 + z - 4 = 0$.
+
+2. Let $\alpha, \beta, \gamma$ be the roots of the cubic equation $x^3 + bx + c = 0$. Write an equation with roots $\alpha(\beta - \gamma)^2, \beta(\gamma - \alpha)^2, \gamma(\alpha - \beta)^2$.
+
+3. Prove that for any natural value $r$ the number
+$$N_1 = r^{r+1} - 2r^r + 1,$$
+$$N_2 = 2r^{r-2} - r^{r-3} - 1$$
+$(r > 2),$$
+$$N_3 = r^{r+1} - 2r + 1,$$
+$$N_4 = r^{r-2} + r - 2$$
+делятся на целое на $(r - 1)^2$, а числа $N_1$ и $N_2$ делятся на целое на $(r - 1)^3$, если $r$ четно.
+
+4. Доказать, что если $(x + y)(x + z) = bcyz, (y + z)(y + x) = acxz, (z + x)(z + y) = abxy, then $a + b + c = abc + 2$ or $a + b + c = abc - 2$.
+
+5. Prove that if $x + y + z = 0, \frac{x^2}{a} + \frac{y^2}{b} + \frac{z^2}{c} = 0, ayz + bzx + cxy = 0$ then $(b + c - a)(a + c - b)(a + b - c) = abc$.
+
+6. Let the natural number $D$ be such that when converting the fraction $\frac{1}{D}$ to a decimal, the number of periodic fractions is obtained, having $p$ digits in the period. Let us denote by $N(n, m)$ a natural number, the decimal notation of which consists of $m$ groups of the form 00...01, and in each group $n - 1$ there is a zero (in the leftmost group the zeros are omitted). Prove that if $n$ is divisible by $p$, then $N(n, m)$ is divisible by $D$ if and only if $m$ is divisible by $D$.
+
+H. B.
