@@ -1,0 +1,42 @@
+---
+id: 1973-11-zadachi-e857331a
+issue: kvant_1973_11
+year: 1973
+number: "11"
+title: Tasks
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 78
+page_last: 78
+page_labels: "76"
+tag: 6RGL
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 8b2ba21b6bec0ca13120f1159450752aee632db40946809bcce188e815029e2d
+prompt_sha256: draft-1
+translated_from: content/ru/1973/11/articles/19_zadachi-e857331a.md
+source_content_sha256: 80cda9f5b11a27a23a8fe2b462b89f86b7a3f880b2ae60dad96039eeae450099
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 76⟧
+
+Quests
+
+1. The figure skater, rotating around an axis during pair skating, turned 20 times to face her overweight partner, who during the same time of 10 seconds made two revolutions around the skater.
+How many revolutions per second did the skater perform?
+2. Why is it difficult to jump from a light boat?
+3. In the following example, numbers are protected by letters. Decipher the example:
+willow: yes = yes
+— × +
+ay + a = lv
+dol - ya = ud
+4. To make the snow on the sidewalks stick faster, it was sprinkled with salt. On the other hand, to obtain low temperatures, snow was mixed with salt at a ratio of two parts by weight to one part by weight. Thus, salt in the first case promotes heating, and in the second - cooling. Is there a contradiction here?
+5. A boat departed from the uninhabited island, which took Robinson 20 years to create. Robinson's pet parrot was sitting on his shoulder. This is what he sometimes said:
+- Grab onto me! We'll swim out and run. Listen to me, because I am older than you.
+“Not a single ship has approached us yet.” You have to row the boat yourself. The sea is good, because I screwed up your life.
+- Let's fasten the oar! We will still walk around the mainland, although I am half as old as you.
+How old is the parrot? How many years did Robinson spend on the island?

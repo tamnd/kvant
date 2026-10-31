@@ -1,0 +1,44 @@
+---
+id: 1973-12-skolko-treugolnikov-99b2d056
+issue: kvant_1973_12
+year: 1973
+number: "12"
+title: How many triangles?
+rubric: smes
+page_first: 10
+page_last: 10
+page_labels: "8"
+tag: J0CY
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 8414fa1b1f0f8d7020c1ed1d1a2da1204717f5feecd2f1d4e5ae623519f9166d
+prompt_sha256: draft-1
+translated_from: content/ru/1973/12/articles/04_skolko-treugolnikov-99b2d056.md
+source_content_sha256: d1a60b24789c60b5b1900fdb41939bf0b5c153f7aaaa071d25b5464ed9e6b192
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 8⟧
+
+write it in the form of 0.34999... There are no other possibilities for different representations of numbers in the form of infinite decimal fractions. Let us agree (for definition) that if two entries of a number are possible, we will choose the one that turns out to be nines.
+
+Now suppose that we have succeeded in establishing a one-to-one correspondence between all the real numbers lying between 0 and 1 and all the natural numbers, so that we can write all these real numbers into an infinite sequence
+
+$$1 \leftrightarrow 0, a_1^1 a_2^1 a_3^1 \dots$$
+$$2 \leftrightarrow 0, a_1^2 a_2^2 a_3^2 \dots$$
+$$\dots$$
+$$p \leftrightarrow 0, a_1^p a_2^p a_3^p \dots$$
+
+Let us show that such a sequence cannot contain all real numbers. To do this, we construct a number $b = 0, b_1, b_2, \dots$ such that $b_i \neq a_i^i$ for all $i$. We define this number like this:
+
+$$b_i = 5, \text{ если } a_i^i \neq 5,$$
+$$b_i = 9, \text{ если } a_i^i = 5.$$
+
+The number $b$ cannot appear in the sequence written above. After all, otherwise it must be written down some (say, $n$-th) place. But the number $b$ differs from the $n$-th number in its construction in the $n$-th digit. So, the supposed intersection of all real numbers is impossible, and therefore the set $N$ and the set of real numbers $R$ are unequal.
+
+Thus, for the first time, it was proven that even among infinite sets there are unequal sets.
+
+Soon Cantor established that it was possible to indicate as many pairwise nonequivalent infinite sets as possible, so that the set of infinite cardiac numbers itself turns out to be unlimited, and in the 70-80s centuries passed - mainly by Cantor - a new mathematical science was built - set theory.

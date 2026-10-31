@@ -1,0 +1,62 @@
+---
+id: 1973-12-aleksandrov-matematika-na-podgotovitelnyih-otdeleniyah-vuzov-c8912efd
+issue: kvant_1973_12
+year: 1973
+number: "12"
+title: Mathematics at preparatory departments of universities
+authors:
+  - Александров В. В.
+rubric: raznoe
+rubric_sub: Разное
+page_first: 52
+page_last: 52
+page_labels: "50"
+tag: L25G
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 1b7cc9267e91455e0d1e9fe05f972bdf3bda0ee0e823285064dec5f9d3b25e3b
+prompt_sha256: draft-1
+translated_from: content/ru/1973/12/articles/17_aleksandrov-matematika-na-podgotovitelnyih-otdeleniyah-vuzov-c8912efd.md
+source_content_sha256: 16bdcd26d6280f17257e98b876213120ff4bdc1c71a1af693d38ae7004ebae51
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 50⟧
+
+Mathematics at preparatory departments of universities
+
+Since 1969, in accordance with the Resolution of the Central Committee of the CPSU and the Council of Ministers of the USSR, preparatory departments for work and rural youth have been opened at computational educational institutions. These departments have been given a responsible task - to ensure an increase in the level of general educational training of young workers, collective farmers, and people demobilized from the Soviet Army, to create in them a solid foundation of knowledge for further successful university studies.
+
+Today we are publishing an article by V.V. Aleksandrov, senior teacher of mathematics at the preparatory department of Moscow State University named after M.V. Lomonosov.
+
+Mathematics is one of the main disciplines studied by students of almost all preparatory departments. After all, without a solid knowledge of the mathematics course, it is impossible to successfully study in the natural sciences departments of universities, in technical schools, or in institutes of economics.
+
+Studying mathematics in preparatory departments differs significantly from studying mathematics in secondary school or preparatory courses. This difference consists, first of all, in the fact that in a prepared department, persons with completed secondary education who have had a break (and sometimes a significant one) in their studies are trained, within a limited period of time.
+
+Posenic teaching of mathematics in preparatory departments consists of a compilation of repetition of the school course, in the cultivation of active knowledge and creative mastery of skills in operating with mathematical objects. The main emphasis is on those issues, a deep and complete understanding of which is especially important when studying higher mathematics.
+
+It is hardly necessary to prove that a textbook is a necessary substantive of the preparatory department for a specialist. It should contain a clearly and compactly written (taking into account all the features of the preparatory department) theoretical course of elementary mathematics, richly illustrated with solutions to typical and common problems, as well as a sufficient number of various exercises.
+
+In essence, preparatory departments can be divided into two categories: a) physics and mathematics (preparatory groups of mechanics and mathematics, physics departments and departments of computational mathematics of universities, departments of applied mathematics of technical universities and some other natural faculties of universities, technical and economic universities and others). Naturally, each of these categories of preparatory groups needs its own mathematics textbook.
+
+Unfortunately, there are still no special textbooks for preparatory departments. The student has to use school textbooks on mathematics and some aids for university applicants.
+
+It is appropriately called here in elementary mathematics, which have proven themselves in the best way and have found wide application in the practice of proposals in preparatory departments:
+
+a) for the physics and mathematics profession
+— V. G. Boltyansky, Yu. V. Sidorov, M. I. Shabunn. Lectures and assignments on elementary mathematics. M., “Science”, 1971;
+- G. V. Dorofeev, M. K. Potapov, N. Kh. Rozov. Mathematics manual for university applicants. Selected questions of elementary mathematics. M., “Science”, 1972;
+6) for technical profession
+— V.V. Zaitsev, V.V. Ryzhkov, M.I. Skanavi. Elementary mathematics (repeat course). M., “Science” (1974 edition in preparation);
+- M.I. Scanavi and others. Collection of tasks in mathematics for competitive exams at universities. M., "Higher School", 1972.
+
+The use of these books as teaching aids for preparatory syllabus students turns out to be very useful. However, it should be borne in mind that none of the books mentioned was written specifically for preparatory departments.
+
+Currently, a large number of textbooks on elementary mathematics and collections of competitive problems have been published, addressed to applicants to universities and students of preparatory departments. In itself, such an abundance of manuals is almost necessary, especially since many of these manuals do not have their own “personality”, licensing, and repeat what is already known without any innovations. Often, manuals contain materials that clearly do not correspond to the current “Program of entrance exams in mathematics.”
+
+It is completely unacceptable that some of the manuals suffer from obvious methodological mistakes and a large number of substantive errors. The magazine «Kvant» has already drawn attention to similar facts (see No. 11 for 1970, No. 10 for 1971, No. 6 for 1972).
+
+V. V. Alexandrov

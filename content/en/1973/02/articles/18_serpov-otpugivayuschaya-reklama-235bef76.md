@@ -1,0 +1,77 @@
+---
+id: 1973-2-serpov-otpugivayuschaya-reklama-235bef76
+issue: kvant_1973_2
+year: 1973
+number: "2"
+title: Scary advertising
+authors:
+  - Серпов П. А.
+rubric: retsenzii-bibliografiya
+rubric_sub: Рецензии, библиография
+page_first: 74
+page_last: 74
+page_labels: "72"
+tag: PWLD
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 28869540122b21606dc65f4011e8c465f019426edd683306ac7b20c920f5f75b
+prompt_sha256: draft-1
+translated_from: content/ru/1973/02/articles/18_serpov-otpugivayuschaya-reklama-235bef76.md
+source_content_sha256: a2dff42888240470b6617771c198afd94ebedb0d267c094a133dd2aba105ba34
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 72⟧
+
+Disappointing advertising
+
+All spring Voloda was extremely focused. Surrounding signs: he will take exams at Moscow University, and treat him with emphatic winman. Volodya worked as hard as he could, every minute counted. The man, as they say, is posting.
+
+He came to me one day. Requested:
+“Please solve the problem,” and put a piece of paper with the equation on the table
+$$x^2 \cdot 3^{x-2} + 3^{\sqrt{x+2}} = 3^x + x^2 \cdot 3^{\sqrt{3}}.$$
+
+Looking at the example, I immediately liked solving it on the same piece of paper. Then he took another, clean one, sat down more comfortably and began to write again. When I took out the fourth piece of paper, I discovered that Voloda had disappeared. The task didn’t work out, and I thought that Volodya just decided to joke.
+
+A few days later I met Volodya on the street.
+
+- Well, did you come up with an equation? he asked. Although there was not a shadow of a smile in his eyes, I still said:
+
+“You know, Volodya, I didn’t have time to figure out your joke.” It’s better to tell me what it’s all about.
+
+“This is not a joke at all,” Voloda was alarmed. — This is an example from last year’s exams. I really don't know how to solve it.
+
+- That's it, Voloda, let's go to me now and add this example.
+
+We sat for almost an hour, and no example was given.
+
+— Maybe there’s a mistake in the conditions? — I suggested, when all the approaches known to me had been tried.
+
+“No, that’s right,” Voloda said firmly. “Tolik and I decided from the book that everything is like that.” Yes, I’ll admit it, I had other questions.
+
+And he brought a book with the title: “Handbook for applicants to Moscow University”*). On page 183 there was*
+
+*) “Handbook for applicants to Moscow University.” Edited by V. I. Tropin. Moscow University Publishing House, 1972, 254 pp. Circulation 70,000 copies. Price 50 kopecks.
+
+our unfortunate example. We looked into the answers, it said: $x = 3; x = 4$. We substituted - none of these values ​​fit.
+
+“It’s a shame, Voloda, that we wasted so much time.” But you still need to learn how to solve such equations. Look, there is a similar equation on the previous page:
+$$x^2 \cdot 2^{\sqrt{2x+1}-1} + 2^x = 2^{\sqrt{2x+1}-1} + x^2 \cdot 2^{x-2}.$$
+
+Let's solve it. You see, here you only need to properly stroop the terms in order to factor them.
+
+Alas! After a few minutes, it became clear that this example was beyond our power. Looked back: $x = 2; x = 4$. They put it in - both roots didn’t fit. When I told Volod that this example was not correct, he looked at me with some disbelief, but still a sheet of paper with questions came out.
+
+- You know, we didn’t study at school what a tangent to the base $x$ is, but you need to know this. — And he showed me an example on page 196: it was necessary to solve the equation
+$$tg_x \sqrt{1+\cos 2x} = \sin 2x.$$
+
+- There was no reason for the tangent! There was probably a logarithm here, but when typed it turned out to be a tangent.
+
+I looked through Volodino and looked at the paper with questions and realized that we would not part until late at night. It turned out that it was impossible to solve equation 2 on page 192, where $2^{\log \sqrt{2}}(x-0,5)$ is printed together with $2^{\log \sqrt{2}}(x-0,5)$; inequality 4 on page 195, where together $\log_{\text{csx}} 1,5$ stands for $\log \cos x$ 1.5; equation 3 on page 197, where $\sqrt{1+\cos 2x}$ is typed together as $\sqrt{1+\cos 2x}$; equation 2 from the second option (page 193), where the expression $5 \sqrt{x+3}-8$ should be read as $5 \sqrt{x+3}-8$.
+
+There are also a large number of mistakes in the literature. For example, incorrect answers were given to problems No. 1 from the first and third options of the Faculty of Computational Mathematics and Library, to problems No. 5 from the second option of the Department of Economics Library, etc., etc. Moreover, many errors can be discovered without solving the corresponding problems. For example, on page 224 there is the following answer: $\log_4 3 < x < 0$, which implies that $\log_4 3$ is a page number, and every high school transcript knows that this is not so.
+
+The list of problems and miscellaneous things could go on and on. Volodya, brought up in the spirit of respect for the printed word, was skillfully surprised. He received the first one in his life, but very

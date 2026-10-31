@@ -1,0 +1,49 @@
+---
+id: 2015-4-blinkov-xxi-turnir-matematicheskih-boev-imeni-a-p-savina-7de1b4c9
+issue: kvant_2015_4
+year: 2015
+number: "4"
+title: XXI Mathematical Battles Tournament named after A.P. Savin
+authors:
+  - Блинков А. Д.
+rubric: konkurs-imeni-a-p-savina
+rubric_sub: Конкурс имени А. П. Савина
+page_first: 30
+page_last: 30
+page_labels: "28"
+tag: 8EQA
+lang: en
+source: kvant_digital
+extraction: native
+content_sha256: 670b5230c2cb4848250cda96b61a48fb35d0445745f09176b3d5d6e75f46ffdf
+prompt_sha256: draft-1
+translated_from: content/ru/2015/04/articles/05_blinkov-xxi-turnir-matematicheskih-boev-imeni-a-p-savina-7de1b4c9.md
+source_content_sha256: 5ffcd3cc953c73c4d7e26b3349a73dad7d09ff6d11e91e2babc081019cf918a0
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 28⟧
+
+KVANT 2015/№4
+
+the larger number of the apartment on the previous, fourth, floor is 80, so Colin’s floor gives an addition of 3 more apartments. Total we get: 4EK + 16 + 3 = 83, whence EK = 16. Having designated for Viti a similar number of entrances through B, using the same reasoning we get: 4EV + 8 + 1 = 169, whence EV = 40. So, the desired value of E is a divisor of the numbers 16 and 40. They have four common divisors: 1, 2, 4 and 8. But since Kolya lives on the fifth floor, then E is certainly not less than 5. Therefore, the only possibility remains: E = 8, i.e. the house has 8 floors. A whole team of authors worked on the creation of the following problem (T. Golenishcheva-Kutuzova, V. Gurovits, P. Kozhevnikov, I. Yashchenko): There was not enough space to build a standard house. The architect changed the project: he removed 2 entrances and added 3 floors. At the same time, the number of apartments has increased. He was delighted and decided to remove 2 more entrances and add 3 more floors. Could there be even fewer apartments than in the standard project? Well, let’s say that according to the original design, the building had P entrances, E floors and K apartments on each site. Then two statements follow from the condition: ( P $- 2 ) \cdot ($ E $+ 3 ) \cdot$ K > PEC,
+
+( P $- 4 ) \cdot ($ E $+ 6 ) \cdot$ K < PEC. From the first inequality 3P – 2E > 6, and from the second 3P – 2E < 12. So, it remains to select (if possible) values of P and E such that 6 < 3P – 2E < 12. This is not difficult - for example, P = 5 and E = 4, so if in the original project there were 5 entrances and 4 floors,
+
+⟦column⟧
+
+then the described situation could happen. At the same time, the number of apartments on the site does not play a role at all, since it is reduced during transformations. We hope the reader gets a taste for the solutions to the presented problems. It's time to offer a couple of similar problems for independent solution. True, they have one feature: for greater reader pleasure, a small trap is inserted into each task, which can lead to a false trail. So be careful! First task. Residents of all apartments facing the same landing decided to attach new numbers to the doors and turned to the cooperative with a request to produce the 7 digits necessary for this. It turned out that cooperators charge as many rubles for the production of each digit as the value of this digit (for example, twos are produced for 2 rubles apiece, and zeros are generally free). The residents collected 3 rubles from each apartment, and that was enough for them. How many and what numbers were ordered? Second task. 17 schoolchildren have gathered at the elevator on the first floor of an 18-story building and need to go up, all to different floors. The elevator operator agrees to make only one flight to any floor, and then let them walk (the elevator is large enough and can accommodate everyone). It is known that all schoolchildren walk down one floor with equal displeasure and walk up one floor with double displeasure. Which floor should they choose so that the total displeasure is the least?
+
+XXI Mathematical Fights Tournament named after A.P. Savin
+
+From June 26 to July 2, 2015, the annual mathematical battles tournament was held at the Berendeyev Polyany recreation center (Sudislavl, Kostroma region). The dates and location of the tournament have long become traditional. The last tournament brought together 36 teams of schoolchildren who graduated from grades 5–9 from Moscow, St. Petersburg, Izhevsk, Lena Territory (Sakha Republic) and Yaroslavl. On the opening day of the tournament, a warm-up game “Mathematical Square” was held, and the next day the oral team Olympiad was held. Based on its results and taking into account the age of the schoolchildren, the participants were divided into six leagues for mathematical battles: the highest and first leagues of 6 classes, leagues of 7, 8 and 9 classes, as well as a league of 7–8 classes. For the first time in many years, only teams from Moscow were among the winners of the tournament: in the top league 6 - teams from FMS 2007 (headed by N. Volkova) and gymnasium 1514 (headed by L. Bychkova), in the first league 6 - another team from gymnasium 1514 (headed by D. Shainskaya), in league 7 - a team from school 9 (headed by K. Skoptsov), in in leagues 8 and 7–8 - teams of gymnasium 1543 (leaders - O. Orel and A. Zaslavsky), in league 9 - team of FMS 2007 (leader - E. Lysenok). As part of the tournament, a personal oral Olympiad was also traditionally held in each parallel. The main organizers of the tournament are the “Foundation for Mathematical Education and Enlightenment” and the Educational Program
+
+“Big change” (chairman of the organizing committee – S.I. Komarov). The selection of tasks and the preparation of options is carried out by a methodological commission. This year, its members included E. Akopyan, M. Artemyev, V. Arutyunov, E. Bakaev, A. Bannikova, A. Blinkov (chairman), Y. Blinkov, E. Gorskaya, A. Zaslavsky, O. Zaslavsky, Y. Kotelnikova, N. Nakonechny, I. Raskina, A. Khachaturyan, P. Chulkov, A. Yurkov. The jury of the tournament included all interested school team leaders. Here are some of the tournament's problems (in parentheses after the problem number it is indicated for which classes it was offered).
+
+SELECTED TASKS
+
+1 (6–7). On each square of the board there is a dwarf - a liar or a knight (liars always lie, knights always tell the truth). Neighbors are considered to be gnomes in cells with a common side. What is the largest number of dwarves on the chessboard that could say the phrase “Among my neighbors there are more liars than knights”? A. Shapovalov
+
+2 (7). The summer school lasted 11 days. 10% of its participants fed mosquitoes every day. For any

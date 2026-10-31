@@ -1,0 +1,43 @@
+---
+id: 1974-5-zadachi-069f69bd
+issue: kvant_1974_5
+year: 1974
+number: "5"
+title: Tasks
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 75
+page_last: 75
+page_labels: "73"
+tag: C0DT
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 6a4fdf1ca238ddfc550f056e4538bd0dca9f8def298c9f01459564744a036a67
+prompt_sha256: draft-1
+translated_from: content/ru/1974/05/articles/16_zadachi-069f69bd.md
+source_content_sha256: 17cc8c56be81f3dc56348dd9989546ecdb865c002acddcff7ab745078071f8fc
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 73⟧
+
+«Kvant» for younger students
+
+Tasks
+
+1. From a cylindrical log it is necessary to cut a rectangular beam of the largest volume. What shape should the cross-section of this beam be?
+
+2. From a straight metal sheet it is necessary to bend a gutter with a cross-section in the shape of an equal trapezoid (see figure). How wide should the side strips be and at what angle should they be bent so that the cross-section of the gutter has the largest area?
+
+Figure E. Nazarova
+
+3. Why does a kerosene lamp go out if you blow into its glass cover from above?
+
+4. You need to determine your body weight. The cup scales you may be using are known to be “wrong.” But the weights are “correct.” How to determine body weight with their help?
+
+5. Why doesn’t the water in the ice hole rise to the top of the ice?
+
+6. The sides of a rectangle are expressed as integers. How long should they be so that the perimeter of the rectangle is numerically equal to its area?

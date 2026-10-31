@@ -1,0 +1,67 @@
+---
+id: 1973-3-kuznetsova-dlya-postupayuschih-v-institutyi-i-tehnikumyi-0a84184a
+issue: kvant_1973_3
+year: 1973
+number: "3"
+title: For those entering institutes and technical schools (Higher School Publishing House)
+authors:
+  - Кузнецова Л. Г.
+rubric: retsenzii-bibliografiya
+rubric_sub: Рецензии, библиография
+page_first: 61
+page_last: 61
+page_labels: "59"
+tag: ZWJM
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 96099f496aa543ca2d2cbd1eb069a175e6c42b86ab1459e1837e2b4b3a6375e9
+prompt_sha256: draft-1
+translated_from: content/ru/1973/03/articles/13_kuznetsova-dlya-postupayuschih-v-institutyi-i-tehnikumyi-0a84184a.md
+source_content_sha256: 1ff688f7fe0adad37f60f201a05c7753b1ef3bfc34a9d0f37938fedb27ed84d8
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 59⟧
+
+For those entering institutes and technical schools, they strive to continue their education and enter a higher or secondary specialized educational institution. But for this, in order to successfully pass the entrance exams, you need to prepare well for them, and there is very little time left for this - just one month, during which you need to recall in your memory all the educational material covered over several years. You should prepare for admission from the beginning of the academic year of your graduating class. Benefits designed specifically for this purpose can help applicants with this.
+
+In 1973, the publishing house “Vyshaya Shkola” published several such manuals to help those who provided secondary schools. We will talk about them now.
+
+Thus, the author N. N. Golld-Farb compiled, in accordance with the physics program for students in preparatory departments and entering universities, a “Collection of questions and assignments in physics.” The “Collection” includes tasks and questions for all sections of the physics course program; Much attention is paid to the physical properties and their application in technology.
+
+It is based on the International System of Units (SI), and also uses units (outside the system), which are often encountered in practice.
+
+The book is well used. Almost all problems in the collection are provided with detailed solutions or instructions for solutions. Book volume 20 sheets, circulation 175,000 copies, price 55 kopecks.
+
+“Collection of problems in mathematics for competitive exams during”, edited by M. I. Skan, and unlike other similar “Collections”, contains only those problems that can be given at competitive exams. Despite this, the collection goes on free sale and applicants can purchase it, but it must be borne in mind that there are no instructions in it, much less solutions to the problem. The “Collection” contains about 5,000 competitive examples and tasks, which together cover the entire program of entrance exams.
+
+Solving these problems does not require knowledge beyond the scope of this program. However, for those who do not have a good command of elementary mathematics, it will be difficult to use the Collection. Therefore, it is advisable to begin solving the problems contained in the Collection only after a thorough assimilation of the educational material.
+
+The “Collection” was created at the suggestion of the Scientific and Methodological Council for Mathematics of the MB and the USSR.
+
+The volume of the “Collection” is 30 sheets, circulation 300,000 copies, price 95 kopecks.
+
+These books come out in the first quarter.
+
+V.V. Zorin’s book “Mathematics Manual for University Entrants” unravels the basic concepts of elementary mathematics.
+
+Questions of the program are discussed with the understanding of elementary mathematics that is most difficult for students to understand and a separate analysis of relevant examples and problems.
+
+The tasks and exercises are similar in order of increasing difficulty, so that the reader can gradually penetrate deeper into the essence of the concept under consideration.
+
+At the end of the book, the new program for university entrance exams in mathematics is given in full.
+
+Book volume 12 sheets, circulation 75,000 copies, price 59 kopecks.
+
+“Collection of questions and assignments in mathematics” by V. S. Solomonka is intended for those entering secondary specialized educational institutions. It examines the basic questions in argumentation, algebra and geometry required by those entering technical fields. Some sections are preceded by criticism of information from the theory; mistakes made by students are broken down. The “Collection” includes questions and tasks proposed in oral and written examinations in technical. Most of them are given detailed solutions and instructions.
+
+For well-prepared students, more difficult problems are included, marked with an asterisk.
+
+Book volume 15 sheets, circulation 50,000 copies, price 67 kopecks.
+
+These books come out in the second quarter.
+
+L. G. Kuznetsova

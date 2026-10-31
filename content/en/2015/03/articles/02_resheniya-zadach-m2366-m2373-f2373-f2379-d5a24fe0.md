@@ -1,0 +1,55 @@
+---
+id: 2015-3-resheniya-zadach-m2366-m2373-f2373-f2379-d5a24fe0
+issue: kvant_2015_3
+year: 2015
+number: "3"
+title: Solutions to problems M2366—M2373; F2373—F2379
+rubric: zadachnik-kvanta
+rubric_sub: Задачник «Кванта»
+page_first: 17
+page_last: 17
+page_labels: "15"
+tag: RCDB
+lang: en
+source: kvant_digital
+extraction: native
+content_sha256: 562bb35a2e62610a00690d8487828bbb8a130d87c95b6e49939e52c722f791a2
+prompt_sha256: draft-1
+translated_from: content/ru/2015/03/articles/02_resheniya-zadach-m2366-m2373-f2373-f2379-d5a24fe0.md
+source_content_sha256: c1ca7a0d3875afb1632a20a98a92376c789744f54d148b2452732c6752efeddd
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 15⟧
+
+PROBLEM WORKER
+
+F2389. The ends of a homogeneous chain of length L and mass M are fixed, and the chain, consisting of many links, hangs freely in the air. The tangents to the chain at the points where the ends are attached make angles $\alpha$ and $\beta ( \alpha > \beta ).$ with the horizon. What is the tension of the chain at its lowest point? What is the difference in levels (vertically) of the points at which the highest and lowest links in the chain are located? Ts.Pochkin
+
+F2390. A horizontal flat surface is divided into two parts by a straight line. On one side of the straight line the surface is absolutely smooth, on the other it is rough, and the friction coefficient $\mu$ at each point is proportional to the distance from this point to the dividing straight line. Two identical small washers move translationally along a smooth part of the surface perpendicular to the dividing line and simultaneously intersect it. Which puck will stop first if the speed of the first puck is 10 times greater than the speed of the second? I. Akulich
+
+F2391. Two conducting disks charged with charges q and –q can move without friction in a long non-conducting cylinder placed horizontally (see figure). There is a certain amount of helium between the disks, but there is no gas behind the disks. The charges on the disks are instantly halved, after which the system is expected to return to equilibrium. Neglecting heat transfer, find how many times the gas temperature and the distance between the disks will change. A. Chernoutsan
+
+F2392. A small ball with a charge Q is fixed on a table on a high non-conducting stand. A hinge is fixed on another stand of the same height, which is located at a distance L from the first. A weightless rod, the length of which is much less than L, is inserted into the hinge and can freely rotate. Two small balls of mass m each with charges +q and –q are attached to the ends of this rod. The distances from the balls to the axis of rotation are the same. The dipole - two balls with charges of different signs on the rod - was untwisted, and it began to rotate quickly. The period of rotation of the dipole is T. The charge Q and the charges +q and –q are always in the same horizontal plane. With what time average force do the point charge and the dipole interact? S.Varlamov
+
+F2393. Vasya was given the following task: to wind a thin wire of a fixed length onto a long dielectric cylinder with an outer radius R so that at one of the points on the axis of symmetry of the cylinder it was possible to create the maximum magnetic field induction when passing a fixed direct current through the wire. When the task was completed,
+
+"QUANTA"
+
+⟦column⟧
+
+It turned out that the maximum thickness h of all layers of wire on the cylinder is equal to R. What was the maximum distance between the turns of the winding along the axis of the cylinder? V. Maksimov
+
+F2394. A symmetrical thin converging lens with an optical power of D = 1 diopter is made of glass with a refractive index n = 3/2. The lens stands on a stand in the middle of an optical bench, the length of which is L = 4 m. At what maximum distance from the lens on its main optical axis must a very small light source be placed on the bench so that one of its real images falls into one of the focal points of the lens? Clue. Partial reflection of light occurs at the air-glass interface. V. Sergeev
+
+Solutions to problems M2366–M2373, F2373–F2379
+
+M2366. Since the beginning of the school year, Andrei has been recording his grades in mathematics. When he received another rating (2, 3, 4 or 5), he called it unexpected if up to that moment it had occurred less frequently than each of the other possible ratings. (For example, if from the beginning of the year he had received consecutive grades of 3,4,2,5,5,5,2,3,4,3, then the first five and the second four would have been unexpected.) For the entire academic year, Andrei received 40 grades - 10 each of fives, fours, threes and twos (it is not known in what order). Is it possible to say exactly how many ratings were unexpected for him?
+
+For the solution, see the article by E. Bakaev “Boys, girls, tables, graphs ...” in this issue of the magazine. M2367. Prove that in any polygon circumscribed around a circle there are three sides from which a triangle can be formed.
+
+Let the longest side AB of the polygon touch the incircle at point K, and let BC and AD be adjacent sides (see figure), let them touch the circle at points L and M respectively. Then BC > > BL = BK, AD > > AM = AK, which means BC + AD > BK + + AK = AB. It turns out that the largest of the segments AB, AC and BC is less than the sum of the other two, and, therefore, a triangle can be formed from the segments AB, AC and BC. T. Kazitsyna, B. Frenkin
+
+M2368. Inside a right triangle, two equal circles are constructed so that the first touches one of the legs and the hypotenuse, the second touches

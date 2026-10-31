@@ -1,0 +1,65 @@
+---
+id: 2015-5-6-slobodyanin-zaklyuchitelnyiy-etap-xlix-vserossiyskoy-olimpiadyi-shkolnikov-po-fizike-88806910
+issue: kvant_2015_5-6
+year: 2015
+number: 5-6
+title: The final stage of the XLIX All-Russian Olympiad for schoolchildren in physics
+authors:
+  - Слободянин В. П.
+rubric: olimpiady
+rubric_sub: Олимпиады
+page_first: 63
+page_last: 63
+page_labels: "61"
+tag: ZFSK
+lang: en
+source: kvant_digital
+extraction: native
+content_sha256: 20fdbcafc9d50408157eea52628e824b9e897bb4e2b346dcc20f9e14d52fa72c
+prompt_sha256: draft-1
+translated_from: content/ru/2015/05-06/articles/10_slobodyanin-zaklyuchitelnyiy-etap-xlix-vserossiyskoy-olimpiadyi-shkolnikov-po-fizike-88806910.md
+source_content_sha256: ba21498e26d7647b65d10777315d2691732c0ba52e9c902b02d612eb088f03de
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 61⟧
+
+OLYMPICS
+
+Sofya Yakusheva – Voronezh, lyceum “Multi-level general education complex 2”, Alexey Bobrov – Kostroma, lyceum 34, Tatyana Zaitseva – Moscow, school 179, Daniil Demidov – Nizhny Novgorod, gymnasium 17, Mikhail Ipatov – Moscow, SUSC MSU.
+
+Special prizes for the absolute result at the Olympiad were received by Mikhail Ivanov - St. Petersburg, FML 239, 9th grade, Ruslan Salimov - Moscow, school 1329, 11th grade;
+
+Yurgin Grigory – Moscow, Lyceum “Second School”, 10th grade;
+
+⟦column⟧
+
+for a beautiful solution to the most difficult problem of the Olympiad - Semyon Petrov - Yaroslavl, school 12, 10th grade;
+
+for a beautiful solution to a complex combinatorial problem 8 for grade 11 - Ivan Frolov - Moscow, school 1329.
+
+The publication was prepared by N. Agakhanov, I. Bogdanov, P. Kozhevnikov, O. Podlipsky for solving all the problems of the Olympiad - Yagudin Amir - Kazan, Lyceum 131, 9th grade,
+
+The final stage of the XLIX All-Russian Olympiad for schoolchildren in physics
+
+This year, the final stage of the All-Russian Physics Olympiad for schoolchildren was held in Yekaterinburg. 266 schoolchildren from 52 constituent entities of the Russian Federation and 2 schoolchildren from the Republic of Belarus took part in the Olympiad. The most numerous teams were represented by the city of Moscow, the Republic of Mordovia and the city of St. Petersburg. Participants from 34 subjects were unable to overcome the qualification barrier at the regional stage (11th grade - 58 points, 10th grade - 56.5 points, 9th grade - 51 points) and sent one participant each who scored the highest number of points in their region to the final stage. As in previous years, each participant in the final stage of the Olympiad was asked to solve five theoretical problems and complete two experimental tasks. An analysis of the participants’ work showed that the correlation coefficient between theory and experiment is the smallest for ninth-graders and almost three times higher for eleventh-graders. This indicates that if in the 9th grade the ability to solve theoretical problems is weakly related to the ability to perform experimental tasks, then by the 11th grade the level of participants increases so much that the number of points for both theory and experiment depends more on the degree of preparation of the participant than on random factors. Below are the problems of the theoretical round and the list of winners of the final stage of the XLIX All-Russian Olympiad for Schoolchildren in Physics.
+
+THEORETICAL TOUR
+
+9th grade
+
+Problem 1. Acceleration of the train The driver configured the on-board computer of the train so that it showed the average speed v on the section passed between adjacent supports supporting the contact wire (Fig.1). Distances between any two
+
+⟦figure⟧
+
+Fig. 1
+
+adjacent supports are identical. The train departs from the Novodachnaya platform and accelerates with constant acceleration. After some time, the driver saw that the computer showed a speed of $v_{1} = 20$ km/h. On the next section the speed turned out to be $v_{2} = 30$ km/h. What was the instantaneous speed u of the train at the border between the first and second sections? V. Slobodyanin
+
+Olympians posing
+
+Problem 2. Pressed and released The cart is connected to the wall by a rigid rod (Fig.2). A spring is attached to its stop, the other end
+
+Fig. 2

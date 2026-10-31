@@ -1,0 +1,35 @@
+---
+id: 1974-5-istoriya-ob-ampere-a5d5e9d4
+issue: kvant_1974_5
+year: 1974
+number: "5"
+title: '[The Story of Ampere]'
+rubric: smes
+page_first: 37
+page_last: 37
+tag: 6L52
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 42a00479c5aefa693345149e29ad582ee4420bf8af24327ab20fa82a2d574dfb
+prompt_sha256: draft-1
+translated_from: content/ru/1974/05/articles/06_istoriya-ob-ampere-a5d5e9d4.md
+source_content_sha256: 8f240cb6b7846f9d1f2d997d33d792f6053559f73453c844ce06b733b4ec4534
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+tics in St. Petersburg (M. V. Ostrogradsky, V. Ya. Bunyakovsky, P. L. Chebyshev and his school: A. N. Korkin, E. I. Zolotarev, A. M. Lyapunov, A. A. Markov, G. F. Voronoi, V. A. Steklov, I. M. Vinogradov, etc.). The famous St. Petersburg mathematical school is, strictly speaking, the Euler-Chebyshev school. This is one of the most unique and profound mathematical schools in the world. Its main principle is the Euler-Chebyshev principle: starting from a difficult mathematical problem, and often one posed by another science or technology, build more and deeper mathematical theories, and when solving mathematical problems, always bring their solution to a result that is convenient in practice, that is, to a number, without being left with any computational difficulties.
+
+Major mathematics began to develop in Moscow at the beginning of the twentieth century (D. F. Egorov, N. N. Luzin). The young Moscow direction, perhaps more principled, deeper and more modern than the St. Petersburg one, has significantly deepened and strengthened our mathematics.
+
+After the Academy of Sciences moved to Moscow (1935), a merger of both directions, St. Petersburg and Moscow, gradually took place, which, together with the schools of Kazan, Kyiv and other scientific centers, gave what we now call Soviet mathematics.
+
+Amperar's absent-mindedness. Prohero was told that he once boiled his watch in water for three minutes with a concentrated look, holding an egg in his hand. Another frequently cited case: Amperar cracks along the street, making, as always, complex calculations in the mind. He was not at all surprised when a beautiful black board appeared right in front of him, skillfully took out an indispensable piece of honey from his sports bag and began to write down the results; he was not surprised when the board began to move forward, and in order to keep up with it, he had to walk and then... run. The board turned out to be the back wall of the carriage.
+
+At the beginning of the 18th century, physics did not exist in Russia; there were no manuals on physics or even scientific terminology. Back in 1728, in the “Brief Description of the Commentaries of the Academy of Sciences” (the so-called works of the Academy, published in Latin), the translators of these commentaries into Russian and the editors of the translation did not know how best to write: “physics”, “physics” or “physics”. Having published in 1746 an abbreviated translation of “Experimental Physics” by the German scientist Wolf, M. V. Lomonosov warned the reader that he was forced to “look for words to name some physical instruments, actions and natural substances, which, although at first they seem somewhat foreign, however... over time, through use they will become familiar.”
+
+V.L.

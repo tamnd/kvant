@@ -1,0 +1,107 @@
+---
+id: 1973-12-novikova-streltsov-poligon-logicheskih-struktur-002518ec
+issue: kvant_1973_12
+year: 1973
+number: "12"
+title: Polygon of logical structures
+authors:
+  - Новикова Л.
+  - Стрельцов В.
+rubric: informatsiya
+rubric_sub: Информация
+page_first: 48
+page_last: 49
+page_labels: 46-47
+tag: ZPBN
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 131983a29131b61ee5367f06c589ad05e51709a46751b59169cc1c1530181ab5
+prompt_sha256: draft-1
+translated_from: content/ru/1973/12/articles/14_novikova-streltsov-poligon-logicheskih-struktur-002518ec.md
+source_content_sha256: d762cf8206d4b550300b8277dbf3f361ce81206052e4b80ebe95d574439bd93c
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 46⟧
+
+POLYGON
+LOGICAL STRUCTURES
+
+L. Novikova V. Streltsov
+
+In May 1973, the anniversary of the USSR Small Academy of Sciences for schoolchildren of Crimea (《Seeker》), which turned 10 years old this year, took place.
+
+MAN is the first large association in our country of students interested in science and technology, students seeking to deepen the knowledge acquired at school. The MAN has not only sections of mathematics, physics, chemistry, astronomy and biology, corresponding to school academic disciplines, but also an archaeological, engineering and technical section, journalism sections, libraries and others. Classes are taught there by employees of the research institutes of the Academy of Sciences of the Ukrainian SSR and various universities that patronize the MAN.
+
+The most active participants in astronomical and archaeological expeditions, winners of Olympiads in mathematics, physics, chemistry, biology, geography and library (the MAN has already held four areas of the Olympiad in library) are elected candidates and full members of the MAN. Honorary titles should be systematically supported by creative contributions - or are usually the result of observations of animals, essays on history, a new, independently constructed device, or success at an Olympiad.
+
+We are villagers, creativity and work are for you, beloved motherland; These words are the motto of MAN, under this motto she received her matriculation certificate and continues her life.
+
+In order to become more familiar with MAN, it is best to study the Charter（《Seeker》，which everyone can receive by writing a letter to the address: Simferopol, p/o box 52, MAN（《Seeker》).
+
+The most interesting works of young astronomical and archaeological expeditions（《Seeker》 are first published in various magazines. So, last year on the pages «Kvant» the article “The Machine of Post” was published, written by schoolchildren from Bakhchisarai, members of the section of the library of MAN（《Kvant》, 1972, No. 5).
+
+Readers are offered a description of another original teaching aid developed by members of the IAS.
+
+In many of our schools, students are introduced to the elements of mathematical logic. Most often, the use of mathematical logic for schoolchildren is based on the use of it to solve logical problems. I discuss in detail how this is done in the article by L. L. Tsinman（《Logical problems and propositional algebra》（«Kvant», 1971, No. 4).
+
+However, it is no less interesting to use mathematical logic in the design of simple logical devices.
+
+In our school of young astronomical and archaeological expeditions, we have been using a special manual for this for many years - “Polyton of Logical Structures”. This article explains how this landfill is structured and what can be collected with its help.
+
+Polytoon consists of logical elements of the “AND”, “OR” and “HE” types, made on the basis of electromagnetic relays.
+
+The symbols of these elements are given in figure 1. The “AND” element is used to obtain the values ​​of a logical product. The truth values ​​of each of the two factors are supplied to the inputs of the element (they are designated by the letters A and B), and the output is the result of logical multiplication.
+
+The “OR” element is used to logically sum the values ​​of A and B. The “HE” element at its end negates the truth of the value A.
+
+The complete characteristics of the operation of these elements are given by tables that coincide with the truth tables of the logical operations “AND”, “OR” and “HE”.
+
+Electrical diagrams of the elements are shown on figure 2.
+
+Pressing any of the buttons in any of the elements causes current to flow into the winding
+
+⟦folio 47⟧
+
+Fig. 1.
+
+"AND"
+| A | B | X = AB |
+| :--- | :--- | :--- |
+| 1 | 1 | 1 |
+| 1 | 0 | 0 |
+| 0 | 1 | 0 |
+| 0 | 0 | 0 |
+
+"OR"
+| A | B | X = A + B |
+| :--- | :--- | :--- |
+| 1 | 1 | 1 |
+| 1 | 0 | 1 |
+| 0 | 1 | 1 |
+| 0 | 0 | 0 |
+
+"NOT"
+| A | X = \bar{A} |
+| :--- | :--- |
+| 1 | 0 |
+| 0 | 1 |
+
+Fig. 2.
+
+the relay, and the corresponding contacts close (in the “NOT” element, the contacts in this case open).
+
+If you press a button, a “1” signal (positive potential) will be applied to the input, and as long as the button remains pressed, this signal at the input of the element is held. If the button is not pressed, this means that a “0” signal is applied to the input of the element. The appearance of a positive potential from a current source at the output of any of the elements means that there is a “1” signal at the output; otherwise, a “0” signal.
+
+Important. The output of any of the elements can be connected to the input of any other, forming chains or structures of elements. Such structures are often called `комбинационными схемами`.
+
+An example is the combinational circuit shown in figure 3.
+
+The reader can verify that the signal values ​​found at the output of X correspond to the values ​​of the following statement of X:
+
+$$X = A (B + C).$$
+
+In our polygon, connecting elements to each other is very easy, so

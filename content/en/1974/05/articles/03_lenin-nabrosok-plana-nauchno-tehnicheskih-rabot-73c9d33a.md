@@ -1,0 +1,48 @@
+---
+id: 1974-5-lenin-nabrosok-plana-nauchno-tehnicheskih-rabot-73c9d33a
+issue: kvant_1974_5
+year: 1974
+number: "5"
+title: Sketch of a plan for scientific and technical work
+authors:
+  - Ленин В. И.
+rubric: raznoe
+page_first: 7
+page_last: 7
+page_labels: "5"
+tag: GWWH
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: d70ccd3577b811ec21172898a9e4fdc37f492c37857a4fda0383c87b4784d8d2
+prompt_sha256: draft-1
+translated_from: content/ru/1974/05/articles/03_lenin-nabrosok-plana-nauchno-tehnicheskih-rabot-73c9d33a.md
+source_content_sha256: 52de09c29660160f6cec791c1ffc12303675f125630943efe8c6738c3d9a9e78
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 5⟧
+
+V. I. LENIN. SKETCH PLAN FOR SCIENTIFIC AND TECHNICAL WORK
+
+Written in April 1918
+
+“The Academy of Sciences, which has begun a systematic study and survey of the natural productive forces *) of Russia, should immediately be given an instruction from the HIGHER Council of the National Economy to form a number of commissions of specialists for the possible more rapid drawing up of a plan for the reorganization of industry and the economic recovery of Russia.
+
+This plan should include:
+
+rational distribution of industry in Russia from the point of view of the proximity of raw materials and the possibility of minimal loss of labor during the transition from processing raw materials to all successive stages of processing semi-finished products up to the production of the finished product.
+
+Rational, from the point of view of the new largest industry and especially trusts, is the merger and concentration of production in a few largest enterprises.
+
+The greatest provision of the current Russian Soviet Republic (without Ukraine and without the regions occupied by the Germans) is the opportunity to independently produce all the main types of raw materials and industry.
+
+Paying special attention to the electrification of industry and transport and the application of electricity to agriculture. The use of non-first-class fuels (peat, coal of the worst grades) to produce electrical energy with the lowest costs for the extraction and transportation of fuel.
+
+Water forces and wind engines in general and as applied to agriculture.**
+
+*) NB: We must speed up the publication of these materials with all our might, and then submit a piece of paper about this to the Commissariat of Public Education, and to the Union of Printing Workers, and to the Commissariat of Labor.
+
+**) Leni and V.I. Complete. collection Op. Ed. 5, t. 36, p. 228-231.

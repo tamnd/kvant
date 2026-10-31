@@ -1,0 +1,81 @@
+---
+id: 1973-4-bahmin-kvadrat-ili-ne-kvadrat-7f80c507
+issue: kvant_1973_4
+year: 1973
+number: "4"
+title: Square or not square?
+authors:
+  - Бахмин В. И.
+rubric: raznoe
+page_first: 58
+page_last: 58
+page_labels: "56"
+tag: 451J
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 2734c9c4d304f758a5c27c263cd536740988840292e58ad71e3d8e25130153bc
+prompt_sha256: draft-1
+translated_from: content/ru/1973/04/articles/15_bahmin-kvadrat-ili-ne-kvadrat-7f80c507.md
+source_content_sha256: 01f722c5c9c0438d2754d5151c19f6b649148dc5d99ae340cae43fa019dfb181
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 56⟧
+
+The potential of an exact charge of 1 k at a distance of 1 m from the charge in a vacuum is equal to
+
+$$\varphi = \frac{1}{4\pi\varepsilon_0} \cdot \frac{1\kappa}{1m} = 9 \cdot 10^9 \frac{Hm^2\kappa}{\kappa^2 m} = 9 \cdot 10^9 \theta.$$
+
+On the other hand, since
+
+$$1 \kappa = 3 \cdot 10^9 \text{ ed. заряда } \text{СГСЭ}, \text{ а}$$
+$$1 m = 10^2 \text{ cm}, \text{ то}$$
+$$\varphi = \frac{3 \cdot 10^9 \text{ ed. заряда } \text{СГСЭ}}{10^2 \text{ cm}} = 3 \cdot 10^7 \text{ ed. потенциаль } \text{СГСЭ}.$$
+
+From here
+
+1 unit potential $\text{СГСЭ} = 300 \theta$.
+
+Another useful value. The energy of charged particles is often measured in electron volts (eV). This is a non-systemic unit. 1 eet is equal to the energy that an electron acquires accelerated by a potential difference of 1 $\theta$. Let's find the connection between electronvolt, egr and joule.
+
+The energy that an electron acquires after passing through the potential difference $U$ is equal to
+
+$$W = eU.$$
+
+Substituting into this formula the numerical value of the electron charge in the system $\text{СГСЭ} e = 4,8 \cdot 10^{-10} \text{ ed. заряда } \text{СГСЭ}$ and taking into account that 1 $\theta$ = 1/300 units. potential $\text{СГСЭ}$, we get
+
+$$1 \text{ ээт} = 4,8 \cdot 10^{-10} \cdot \frac{1}{300} \frac{e\varepsilon^2}{c^2} = 1,6 \cdot 10^{-12} \text{ ээт} = 1,6 \cdot 10^{-19} \text{ джк.}$$
+
+Exercises
+
+Let's assume that you have scored the relationship between the SI and SGSE units for a) charge;
+b) electric field strength;
+c) containers;
+d) magnetic field strength;
+e) magnetic induction;
+e) inductance;
+g) resistance;
+but you have table 2 at hand. Find the correspondence between these units.
+
+Square or not square?
+
+Imagine that you have a multi-digit number in front of you. For example, 28753892 or 98765432123456789. Can you quickly prove that both of these numbers are not squares of integers?
+
+It turns out that in this case it is not so difficult to prove it.
+
+Let's arrange the squares of natural numbers in a row in ascending order: 1, 4, 9, 16, 25, 36, 49, 64, 81, 100, 121, 144, 169, 196, ...
+
+You can easily verify that all the squares end only in 0, 1, 4, 6, 9, 25. Moreover, it turns out that the last digits of the squares of the natural numbers form an infinite sequence in which the set 1, 4, 9, 6, 25, 6, 9, 4, 1 is periodically repeated, interspersed with zero. Such a set is called palindromic because the numbers in it are arranged symmetrically. To prove this statement, it is enough to note that the last digit of the square of a number depends only on the last digit of the number itself.
+
+It is clear that the squares cannot end in any other numbers. Therefore, the number 28753892 cannot be a square.
+
+What about the second number?
+
+After all, it ends in 9. Here another test (method of verification) will come to our aid.
+
+Let's add the digits of any multi-digit number and then subtract nines from this sum until a single-digit number remains.
+
+(Continued on page 63)

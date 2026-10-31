@@ -1,0 +1,74 @@
+---
+id: 1974-3-orlov-rozental-vstrechi-s-tremya-neizvestnyimi-0ef081d0
+issue: kvant_1974_3
+year: 1974
+number: "3"
+title: Meetings with three unknowns
+authors:
+  - Орлов А. И.
+  - Розенталь А. Л.
+rubric: informatsiya
+rubric_sub: Информация
+page_first: 70
+page_last: 70
+page_labels: "68"
+tag: HRH5
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 503ccc79b20c2f3c224fc1e8e3330631f62e01be3d83aa651dd4774134d0653b
+prompt_sha256: draft-1
+translated_from: content/ru/1974/03/articles/27_orlov-rozental-vstrechi-s-tremya-neizvestnyimi-0ef081d0.md
+source_content_sha256: 06ca83850154cc8432322b37750c72d5cb9799571ea8abce621cb23eeb3881bd
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 68⟧
+
+Meetings with unknown people
+
+INFORMATION
+
+For the 9th year now, on the pages of the Pioneer magazine, three “unknowns” X, Y and Z have been giving problems, breaking down mathematical theories, and conducting olympids. This is like an all-inclusive correspondence math circle for students in grades 4-7. The staff of the Evening Mathematical School (VMS) at the Moscow Mathematical Society (for more information about the VMS, see «Kvant», 1973, No. 9) select materials for “Meetings with Trey Unknowns” and respond to the children’s letters.
+
+“The Unknowns” have already talked about higher arithmetic and the theory of correctness, the search for counterfeit coins and algorithms, programming and combinatorics, graph theory and the problem because of which Poisson became a mathematician. They figured out “how to play so as not to lose”, what to say together, “not all football players are bad students”, so as not to use the words “no”, how to work with a young mathematician and what to read to him.
+
+Igrek gives readers “control problems” on the topics being broken down, and X invites them to tinker with “competition problems” and write about the results in Pioneer. But most of the letters come in response to the Olympida, and in 1973 almost three thousand children took part in it.
+
+“Unknown” always publish solutions and answers, analysis of errors and clerical errors. It is pleasant to meet the names of those who distinguished themselves at the Pioneer Olympics in the lists of winners of the competition «Kvant», national and international olympids.
+
+The questionnaire showed that almost all the winners of the 1972 Olympids read books on mathematics, although they prefer solving problems, 4/5 of them study in circles, 3/5 participated in very Olympids, and two thirds of them read and study «Kvant».
+
+Here are the problems from the “Meetings with Trey Unknowns” section, which were filled in most by the winner of the Olympida.
+
+1. Decipher the entries of arithmetic operations in which non-orious numbers are replaced by letters (in each of the three entries separately, different numbers are replaced by letters, identical numbers are replaced by identical ones, and in the first encoding A = T):
+
+a) COW + GRASS = MILK;
+b) TABLE + CHAIR = CLASS;
+c) BE × RU × 4 = BUER.
+
+2. There are two bionans next to the large input. One contains 12 liters, the other - 17. Water can be taken from the barrel and poured back into the barrel. Who will bring us 6 liters of water faster?
+
+3. Get your numbers back:
+
+$$\begin{array}{c}
+-7**0 \\
+*6* \\
+-8* \\
+3** \\
+0
+\end{array}$$
+
+4. Draw two hexagons, making a plane for as many parts as possible. What if we additionally require that the hexagons be convex? Try to prove that the plane cannot be divided into parts by a number greater than yours.
+
+5. We found the product of 666 factors, each of which is equal to 777. What number is at the end?
+
+6. There are 10 living creatures in the room - lods, dogs and flies; together they have 46 legs. Every person has 2 legs, every dog ​​has 4 and every fly has 6 legs. How could this happen? Find all possibilities.
+
+7. The field has the shape of a quadrangle. Highway roads - they run diagonally - are divided into four sections. The areas of three of them are 2 hetrars, 4 hetrars, 6 hetrars. What is the area of ​​the quadrilateral?
+
+8. One of the Moscow schools has an amazing sixth grade. Judge for yourself. There are 35 students in the class, and all of them either play the violin, or breed hamsters, or swim in the Moscow pool, or do something unknown at once. Square or breed hamsters 28 people. 22 students breed hamsters, but don't play the violin. 3 schoolchildren do both. There is at least one that only floats. There is a swimmer and a violinist who hates hamsters. There is also one who doesn’t swim (simply doesn’t know how), but he is an excellent violinist, and has been breeding hamsters since the first grade. maybe there are not just one, but many. How many violinists are there in the class? How many swimmers are there who don't breed hamsters? Is it possible to determine how many guys breed hamsters but don’t play the violin or swim? If yes, then how much, if it cannot be determined, then why?
+
+A. I. Orlov, A. L. Rosenal

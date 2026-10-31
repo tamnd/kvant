@@ -1,0 +1,93 @@
+---
+id: 1973-6-chopenko-moskovskiy-institut-radiotehniki-elektroniki-i-avtomatiki-7e7634d1
+issue: kvant_1973_6
+year: 1973
+number: "6"
+title: Moscow Institute of Radio Engineering, Electronics and Automation
+authors:
+  - Чопенко О. П.
+rubric: raznoe
+rubric_sub: Разное
+page_first: 63
+page_last: 63
+page_labels: "61"
+tag: J33A
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 1c3af90d416e91db4a89a5259dd6171e68a4d18bf3d62c4c2764241d9449c7d4
+prompt_sha256: draft-1
+translated_from: content/ru/1973/06/articles/17_chopenko-moskovskiy-institut-radiotehniki-elektroniki-i-avtomatiki-7e7634d1.md
+source_content_sha256: 3ee79bd10297c1c7f4c17c80d3f8ecefafed2e9b08e3d888a21f4655be576fcc
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 61⟧
+
+4. Solve the equation
+$$\frac{3(\cos 2x + \text{ctg} 2x)}{\text{ctg} 2x - \cos 2x} - 2(\sin 2x + 1) = 0.$$
+
+5. The acute angle of a right triangle is $\alpha$, the radius of the circle tangent to the hypotenuse and extended by two legs is $R$. Find the length of the hypotenuse of this triangle.
+
+A. V. Efimov
+
+Moscow Institute of Radio Engineering, Electronics and Automation
+
+The development of science, technology, and production gives designers new tasks and requires engineers of new specialties. The Moscow Institute of Radio Engineering, Electronics and Automation is one of the new allies. The Institute trains wide-ranging engineers in the following specialties, covering the main areas of new technology in the field of radio electronics: radio engineering, design and production of radio equipment, automation and telemechanics, automated control systems, electronic computers, design and production of electronic computer equipment, semiconductor devices, industrial electronics, electronic devices, electronaustics and ultrasonic technology.
+
+The full-time department of MIREA has three faculties: radio engineering systems and devices (PT), automated control systems (ACS), electronic and quantum devices (ECD).
+
+Below we present three options for the 1972 entrance written exam in mathematics at MIREA.
+
+Option 1
+
+1. Solve system of equations
+$$\begin{cases} x^3 + y^3 = 91, \\ x + y = 7. \end{cases}$$
+
+2. Solve the equation
+$$\frac{\lg(3x - 5)}{\lg(3x^2 + 25)} = \frac{1}{2}.$$
+
+3. Solve the equation
+$$\frac{1}{2}(\cos 5x + \cos 7x) - \cos^2 2x + \sin^2 3x = 0,$$
+$$|x| < \frac{\pi}{3}.$$
+
+4. In the triangle $ABC$, on the base $BC$ or on its extension, a point $D$ is taken arbitrarily and circles are circumscribed around the triangles $ACD$ and $BAD$. Prove that the ratio of the radii of these circles is constant. Find a position of point $D$ for which these radii will have a smaller value.
+
+5. Solve inequality
+$$\sqrt{x^2 - 3x + 2} - x - 3 > 0.$$
+
+Option 2
+
+1. Solve system of equations
+$$\begin{cases} \frac{2}{x} + \frac{y}{3} = 3, \\ \frac{x}{2} + \frac{y}{3} = \frac{3}{2}. \end{cases}$$
+
+2. Solve the equation
+$$3^2x + 3 - 4 \cdot 3^x + 1 = 0.$$
+
+3. Solve the equation
+$$\sin^3 z \cdot \cos z - \sin z \cdot \cos^3 z = \frac{\sqrt{2}}{8}, |z| < 0, 2.$$
+
+4. The distance between the centers of two intersecting circles of radii $R$ and $r$ is $d$. Find the area of ​​their common part.
+
+5. Calculate
+$$a^{1972} + a^{\frac{1}{1972}}, \text{ если } a^2 + a + 1 = 0.$$
+
+Option 3
+
+1. Solve system of equations
+$$\begin{cases} x^3 - y^3 = 124, \\ x^2 + xy + y^2 = 31. \end{cases}$$
+
+2. Solve the equation
+$$3^2 - x \cdot 2^2x + 7 \cdot 2^x = 2 \cdot 3^x.$$
+
+3. Solve the equation
+$$\sin 2x = \cos^4 \frac{x}{2} - \sin^4 \frac{x}{2}, |x| < \frac{\pi}{2}.$$
+
+4. Prove that in every triangle the following holds:
+$$\frac{a(a + c - b)}{b(b + c - a)} = \frac{1 - \cos A}{1 - \cos B}.$$
+
+5. Find $\log_3 10$ if known: $\log_2 15 = a$, $\log_8 12 = b$.
+
+O. P. Chonenko

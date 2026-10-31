@@ -1,0 +1,49 @@
+---
+id: 1974-3-kedrov-broshyuryi-po-fizike-5aa6d200
+issue: kvant_1974_3
+year: 1974
+number: "3"
+title: Physics Brochures
+authors:
+  - Кедров Ф.
+rubric: raznoe
+rubric_sub: Разное
+page_first: 69
+page_last: 69
+page_labels: "67"
+tag: UL67
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 201bec8d3bebe98318578ff88fc0f0d17e4218908ad3ef31b3e69b6130dde797
+prompt_sha256: draft-1
+translated_from: content/ru/1974/03/articles/26_kedrov-broshyuryi-po-fizike-5aa6d200.md
+source_content_sha256: cc309f92adaec5820620764511a25042d7f3635c536c836eb082835e00945873
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 67⟧
+
+Physics Brochures
+
+This year, in the series of brochures “Physics”, published by the publishing house “Znanie”, brochures will be published telling about achievements in various fields of physics.
+
+The brochure by G. I. Pokrovsky “Advances in Gas Dynamics” is related to various aspects of gas dynamics. The author sets out many issues related to the physical basis of the dynamics of detonation, the expansion of explosive gases and their effect on the environment. The reader will hopefully become acquainted with interest with the features of supernova explosions and the phenomena of directional selection during the explosion of galaxies.
+
+The availability of nuclear energy and its development trends in the most developed Western countries is covered in a brochure by the Chairman of the State Committee for the Use of Atomic Energy of the USSR A. M. Petrosyants. It was written on the basis of personal acquaintance with the most interesting developments, projects and atomic electrons, having already been examined in Western countries.
+
+Yu. F. Orlov's brochure “Pulse Neutron Sources” describes various methods for producing short pulses of low-energy monochromatic neutrons. The author devotes his attention to the presentation of the physical principles underlying these methods.
+
+The brochure by M.P. Malkov will introduce the reader to the use of liquid gel in experimental studies. It’s called “Liquid Development in Scientific Research.” The author describes new methods for producing liquid gel. The main part of the brochure is related to the most interesting experimental experimental
+
+The brochure by A. S. Komaneyts “Super-dense substance” examines the transformations that occur in a substance during strong scaling and are applied to the problems of creating new substances. Transformations that occur in matter at high pressures are currently the subject of extensive ongoing research in various countries. The author also talks about the application of transformations of matter during strong scaling to problems of astrophysics and cosmology.
+
+The development of Einstein's theory of relative surfaces is associated with a popular science brochure by L. E. Gurevich and E. B. Gliner entitled “Absolute or relative space?” This, according to the authors, is one of those “eternal” problems that, although they have not yet found a complete solution, continue to be important motivating principles for creating new and changing existing physical theories.
+
+The young experimental physicist I. S. Gulkov, in his brochure “Electron - a tool for nuclear research,” talks about studying the structures of nuclei using high-energy electrons.
+
+The brochure of the young scientist F. I. Dalidichka “Synmetic Atoms” introduces the reader to one of the most interesting scientific problems—the synthesis of exotic forms of matter, that is, molecules, atoms and nuclei, which include particles necessary for the surrounding world: mechanisms, antiparticles. The author also writes about the latest work in the search for distant transsuranium elements and new exotic particles, the existence of which is predicted by theorists.
+
+F. Kedrov

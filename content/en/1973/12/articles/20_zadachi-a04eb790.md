@@ -1,0 +1,41 @@
+---
+id: 1973-12-zadachi-a04eb790
+issue: kvant_1973_12
+year: 1973
+number: "12"
+title: Tasks
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 56
+page_last: 56
+page_labels: "54"
+tag: OVZD
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 3f648c4608293e63450a147c1359dbfaa9d93548b30d15cc89cdc0d973598fa7
+prompt_sha256: draft-1
+translated_from: content/ru/1973/12/articles/20_zadachi-a04eb790.md
+source_content_sha256: 170bc15e476c177f6b08d796d56599f1a500293c9c3a6f0c44523abed6848325
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 54⟧
+
+Tasks
+
+1. Grisha went with his dad to the shooting range. The agreement was this: Grisha makes five performances and for each hit on the target he gets the right to make two more performances. In total, Grisha made 17 performances. How many times did Grisha hit the target?
+
+2. Why does dirty, soot-covered snow melt faster than clean snow?
+
+3. Sasha’s room has the following property: if it is “put on its side” (on any of the side walls), then its area will not decrease. The ceiling height in the room is 3 meters. What is the most possible area of ​​such a room?
+
+4. A metal sheet with a hole is heated. How does this change the size of the hole?
+
+5. The family has four children, they are 5, 8, 13 and 15 years old. The children's names are Anya, Borya, Vera and Galya. How old is each child, if one girl goes to kindergarten, Anya is older than Bori, and the sum of Anya’s and Vera’s years is divided by three?
+
+6. The vessel of mass $m$ moved up the river, rising to a height $H$. Is it necessary to take into account the values ​​of $mgH$ when calculating the work done by the motor?
+
+Figure E. Nazarova.

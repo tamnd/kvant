@@ -1,0 +1,46 @@
+---
+id: 1974-1-zadachi-d6166ac5
+issue: kvant_1974_1
+year: 1974
+number: "1"
+title: Tasks
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 78
+page_last: 78
+page_labels: "76"
+tag: OIFP
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: ddd8965ac2112f7b164630ac3ca5bb881c92f2fa9d140799a138ac7e99b72b9e
+prompt_sha256: draft-1
+translated_from: content/ru/1974/01/articles/19_zadachi-d6166ac5.md
+source_content_sha256: d4fd1f3070239a2f6f7cdbbbe83d0550259078687eead9e54876c4f580dbe535
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 76⟧
+
+Quests
+
+1. A jeweler's diamond split during polishing and as a result, its stability was reduced by 32%.
+What part of the diamond is broken off if the diamond's equanimity is proportional to the square of its weight?
+
+2. Why do waves approaching the shore “curl”?
+
+3. Find how many volcanoes there are on the planet if in the desired number there are 3 more tens than hundreds, and 4 less units than tens, and the result is that all digits of the number are equal to the tens digit.
+
+4. Tea was poured from the same teapot into a glass with sugar and into a glass without sugar. In which glass is the tea colder?
+
+5. In equality
+$$ (p + o + m + a)^4 = \text{рома.} $$
+determine the number of rum.
+
+6. The metal rod is balanced horizontally on a narrow support. The support is located in the middle of the rod. Will balance be maintained if one half is bent in half?
+
+Artist E. Nazarop
+
+76

@@ -1,0 +1,43 @@
+---
+id: 1973-6-saulev-o-novoy-kvalifikatsii-inzhener-matematik-4a8a56ed
+issue: kvant_1973_6
+year: 1973
+number: "6"
+title: About the new qualification “engineer-mathematician”
+authors:
+  - Саульев В. К.
+rubric: raznoe
+rubric_sub: Разное
+page_first: 60
+page_last: 60
+page_labels: "58"
+tag: 3G6T
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 6189a137a72cca741bdfc8760e922cc2ab7d4897ddac17da9f7747f191ae16f6
+prompt_sha256: draft-1
+translated_from: content/ru/1973/06/articles/14_saulev-o-novoy-kvalifikatsii-inzhener-matematik-4a8a56ed.md
+source_content_sha256: 6fedf8f431ad31d5fcfd319740f06a948576a01c772355c758b51719c33a0224
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 58⟧
+
+Technical types with advanced mathematical training
+
+Now, in a number of countries, specialists are being trained in the new specialization “mathematical engineer”.
+What kind of specialty is this and what will students who have received this qualification do after graduating from the institute, says Professor V.K. Saulev, Dean of the Faculty of Applied Mathematics of the Moscow Aviation Institute.
+After the article by V.K. Saulev, we post information about some universities that train mathematical engineers.
+
+About the new qualification “engineer-mathematician”
+
+In the current era of scientific and technological progress, the role of mathematics is increasingly increasing. If before the war only mathematical physics was known, then in subsequent years mathematical economics, mathematical linguistics, mathematical biology, and so on up to mathematical electrocardiology appeared. This tendency towards mathematization of science will continue to grow.
+
+The emergence of high-speed computers stimulated the development of mathematics itself, especially its applied areas. Thus, over the past 20-25 years, a mathematical theory of reliability, information theory, a mathematical theory of optimal control, a theory of decision making under uncertainty, a theory of queuing, a theory of experimental planning, a mathematical theory of inventory management, a theory of mathematical programming, a theory of operations research, a theory of statistical modeling, etc. have been created.
+
+It is difficult to overestimate the importance of these and similar mathematical theories for the national economy of our country. However, we now have a large shortage of specialists in applied mathematics, in particular for specialists in mathematical support for computers and automated control systems. In this regard, in a number of countries, graduates of applied mathematics specialists who receive the qualification of mathematical engineer have been organized.
+
+As the name suggests, mathematical engineers occupy an intermediate position between university-trained mathematicians and traditional engineers. The subtle trace of such specialists in the engineering environment certainly has a beneficial effect on it (the level of mathematical culture increases, using more accurate formulas for calculations, and the efficiency of computer operation increases sharply). A similar role is played, for example, by economic engineers.

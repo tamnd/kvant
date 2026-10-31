@@ -1,0 +1,44 @@
+---
+id: 1973-8-shevelev-obem-tel-vrascheniya-6f60bb34
+issue: kvant_1973_8
+year: 1973
+number: "8"
+title: Volume of bodies of rotation
+authors:
+  - Шевелёв Л. Я.
+rubric: osnovnye-stati
+page_first: 39
+page_last: 39
+page_labels: "37"
+tag: KLHD
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 6dfe8007a5bcb47cf21b51bb510cdb76c1ef49e0f00627ff7163c49c81f1ee37
+prompt_sha256: draft-1
+translated_from: content/ru/1973/08/articles/07_shevelev-obem-tel-vrascheniya-6f60bb34.md
+source_content_sha256: 69868076fc24b63e98545f29b575489771f8aa303757caa92c5b8a2bede8b80b
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 37⟧
+
+In this case, a figure consisting of two triangles $BB_1D_1$ and $A_1B_1D_1$ are equivalent when rotated by the relative diagonal $BD_1$, that is, they give the same body (check this!). The required volume is $v = v_1 + v_2$, where $v_1$ and $v_2$ are the volumes obtained by rotating triangles $BB_1D_1$ and $A_1B_1D_1$ around the axis $BD_1$. Since $BD_1 = a\sqrt{3}$ and $B_1O_1 = \frac{a\sqrt{6}}{3}$ (where $B_1O_1 \perp BD_1$), then $v_1 = \frac{1}{3}\pi \cdot B_1O_1^2 \cdot BD_1 = \frac{2\pi a^3\sqrt{3}}{9}$.
+
+The volume $v_2$ is equal to the volume of the body obtained by rotating the triangle $A_1B_1D_1$ about the axis $B_1D_1$, multiplying by cos $\theta$, where $\theta$ is the angle of inclination of the diagonal $BD_1$ to the plane of the triangle $A_1B_1D_1$ (by Theorem 2).
+
+Noticing that cos $\theta = \frac{B_1D_1}{BD_1} = \frac{\sqrt{6}}{3}$, it is easy to find $v_2 = \frac{1}{3}\pi \cdot A_1O_1^2 \cdot B_1D_1 \times \cos \theta = \frac{\pi a^3\sqrt{3}}{9}$. The required volume is $v = v_1 + v_2 = \frac{\pi a^3\sqrt{3}}{3}$.
+
+Problem 2. One of two mutually perpendicular planes is parallel to the base of a regular hexagonal prism and is referred to 3 a from its center; we refer the other one to 2a$\sqrt{3}$ from the center of the prism. The major diagonal of the prism is parallel to the line $l$, along which the indicated planes intersect, and the edges of the prism are equal to $a$. Find the volume of the body,
+
+$$v_2 = \left( \frac{3}{2} a^2 \sqrt{3} \right) \cdot 2\pi (2a\sqrt{3}) = 18\pi a^3.$$
+
+Required volume: $v = 30\pi a^3$.
+
+In conclusion, here are a few tasks to solve on your own.
+
+1. Find the volume of the body obtained by rotating a circle of radius $R$, if the axis of rotation is inclined to the plane of the circle at an angle $\theta$, and its projection onto its plane: a) passes through the center of the circle; b) passes at a distance $m > R$ from the center of the circle.
+
+2. The plane $\alpha$ is parallel to the base of a cylinder with base radius $R$ and height $2R$ and passes at a distance $2R$ from its center. Taking $l$ lies in the plane $\alpha$ and is at a distance $2R$ from the projection of the cylinder onto the plane $\alpha$. Find the volume of the body obtained by rotating the cylinder around the $l$ axis.

@@ -1,0 +1,48 @@
+---
+id: 2017-4-zaslavskiy-futbolnyie-i-voleybolnyie-turniryi-43a81f83
+issue: kvant_2017_4
+year: 2017
+number: "4"
+title: Football and volleyball tournaments
+authors:
+  - Заславский А. А.
+rubric: matematicheskiy-kruzhok
+rubric_sub: Математический кружок
+page_first: 41
+page_last: 41
+tag: 7CV6
+lang: en
+source: kvant_digital
+extraction: native
+content_sha256: 80446068c2ff173f6c851565fa096fc494da2d3a744646217d45033bd46c5e5a
+prompt_sha256: draft-1
+translated_from: content/ru/2017/04/articles/05_zaslavskiy-futbolnyie-i-voleybolnyie-turniryi-43a81f83.md
+source_content_sha256: 592f12c1c7c45df88d81393a335d75b376d0698bae43395bf4a2e2b98c253cb3
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+MATHEMATICAL CIRCLE
+
+Football and volleyball tournaments
+
+A. ZASLAVSKY
+
+The power of thought is running out, Talk about the new fashion, About football, about the weather And about other trifles - That's all that's left... A. Velikiy
+
+THERE ARE MANY MATHEMATICAL problems that involve sports competitions. Most often they talk about single-round tournaments, in which each of n participants plays each of the others once. In this case, as a rule, it is assumed that points are awarded according to the chess system, i.e. for a victory, the participant receives one point, for a draw - a point, for a defeat - zero points (in team sports, a victory used to be given two points, and one for a draw, which, from a mathematical point of view, is not fundamentally different from the chess system). «Kvant» spoke about chess tournaments more than once $^{1}$, so here we will note only the following two properties of such tournaments. 1. The sum of points scored by all participants is $n ( n - 1 ) 2$. Indeed, in each game, its participants, for any outcome, score one point in total, and the total number of games in the tournament is $n ( n - 1 ) 2. 2.$ If a participant ultimately scored s points, then the difference between the number of his victories and the number of his defeats is equal to 2s – n + 1. Indeed, if a participant won w games and lost l games, then he drew
+
+1 See, for example, the article by A. Zaslavsky “On logical and illogical tournaments” («Kvant» No. 5, 1997) or the article by A. Zaslavsky and B. Frenkin “Mathematics of tournaments” («Kvant» No. 1, 2, 2007).
+
+played n – 1 – w – l times, i.e. scored $s = w + + ( n - 1 - w - l ) 2 = ( n - 1 ) 2 + ( w - l ) 2$ points, which is equivalent to property 2. From properties 1 and 2 it is easy to derive the statements formulated in the following exercises.
+
+⟦column⟧
+
+Exercises
+
+1. Prove that if all participants in the tournament scored equal points, then each of them has the same number of victories as the number of defeats. 2. Prove that if not all participants in the tournament scored equal points, then the winner of the tournament has more victories than defeats, and the participant who took last place has fewer victories than defeats.
+
+At the end of the last century, football tournaments began to give three points for a win, and one for a draw. In recent years, volleyball has introduced a system in which, if a match ends with a score of 3:0 or 3:1, the winning team receives three points and the losing team zero points; If the match ends with a score of 3:2, then the teams receive two and one points respectively. Obviously, with a football system, both properties 1 and 2 cease to hold, and with a volleyball system, only property 1 is preserved. Therefore, we can expect that the statements of exercises 1 and 2 cease to be true. It is not difficult to come up with appropriate counterexamples if the number of participants in the tournament is large enough. However, the question of the minimum possible number of participants in such tournaments is not so simple and quite interesting. We will consider these types of problems in this article. Problem 1. In a football tournament, all n participating teams scored equal points. For what smallest n can it turn out that not all teams have the same number of victories as the number of defeats? Answer. n = 8. Solution. If not all teams have equal numbers of wins and losses, then there will be a team that has more wins than losses and a team that has more losses than wins. Let’s first assume that both teams’ numbers of wins and losses differ by 1, i.e. The first team has x wins and x – 1 losses, and the second team has y wins and y + 1 losses. Then from the condition of equality

@@ -1,0 +1,43 @@
+---
+id: 1974-3-nyuton-i-etika-ed1dfa6a
+issue: kvant_1974_3
+year: 1974
+number: "3"
+title: Newton and ethics
+rubric: smes
+page_first: 25
+page_last: 25
+page_labels: "23"
+tag: QG9D
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 1a2081fe6e364c485469da1c1653352875644ba536a6f0f65c8d28717c0a352b
+prompt_sha256: draft-1
+translated_from: content/ru/1974/03/articles/10_nyuton-i-etika-ed1dfa6a.md
+source_content_sha256: 696ae0eae6d5ea08d8ab45fc0ecbbb358c041bdd60d9f7ed005c79f4652d4fc3
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 23⟧
+
+showed a mixing of light near the Sun.”
+Since then, the Einstein effect has been modified during almost every solar eclipse. However, obtaining a sufficiently accurate value proved to be very difficult. It is necessary to very accurately change the position of the star near the Sun and in about six months, when the Sun leaves this area of ​​the sky.
+But with two changes, the state of the atmosphere changes, the refraction in the atmosphere of the Sun changes, in short, a whole system of corrections arises that worsen the conditions for comparison.
+Nevertheless, now, as a result of the enormous work of many astronomers, it has been possible to reduce the error of the present, which can be said about the agreement of theory with experiment within the limits of errors amounting to no more than 1% of the magnitude of the effect.
+The best results to date have been obtained from studying the eclipses of quasars, powerful sources of radio emission. The advantage of observing radio sources is very useful; their study does not require an eclipse and changes can be made all the time.
+Thus, it can already be considered established that the speed of light in the vicinity of massive celestial bodies changes - such bodies act as huge collecting lenses.
+In this case, the assumption depends more than it follows from the effect of the attraction of a quantum of light to the Sun according to Newton’s law. This means that for light the law of universal gravitation turns out to be inaccurate; light is more attractive than just a body with mass calculated using the formula $mc^2 = hv$ (quantum energy). This is the effect of curvature of space around the Sun.
+
+Newton and ethics
+
+Here is an excerpt from a letter from Newton to the secretary of the Royal Society of England, Aston, who was setting off on a trip abroad.
+This letter is of great interest for characterizing the personality of the scientist.
+"Sir,
+In your letter, you will allow me, without hesitation, to express my opinion about what may be useful for you when traveling, which is why I am doing this much more freely than would otherwise be appropriate.
+When you are in a new society for you, then:
+1) watch the rights; 2) adapt to them, and your relationship will be more free and open;
+3) In conversations, ask questions and express doubts without making strong statements or starting arguments. You will gain little or nothing by appearing smarter or less sophisticated than the society you are in; 4) if you are offended, then in someone else’s party it is better to tar or turn into a joke, at least with some dishonor, than to take revenge with passion. ...
+If the situation is hopeless, then, I believe, it is best to keep your passion and language within the limits of a moderate tone, without angering the enemy and his friends and without bringing the matter to new insults. However, in a word, if they dominate passion, then it and authenticity will become your best readers.”

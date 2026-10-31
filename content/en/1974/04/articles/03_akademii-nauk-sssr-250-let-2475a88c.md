@@ -1,0 +1,40 @@
+---
+id: 1974-4-akademii-nauk-sssr-250-let-2475a88c
+issue: kvant_1974_4
+year: 1974
+number: "4"
+title: USSR Academy of Sciences 250 years
+rubric: raznoe
+page_first: 4
+page_last: 4
+page_labels: "2"
+tag: OIU7
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: fc939e9d47b5d84afe236e2c3eeeacf2184de65a3183d02f6ba00e484366ec84
+prompt_sha256: draft-1
+translated_from: content/ru/1974/04/articles/03_akademii-nauk-sssr-250-let-2475a88c.md
+source_content_sha256: 9bfa2cec6d407282347acaf436931de27c7315f1e6c92014a9c921195fc90f18
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 2⟧
+
+On January 28 (old style), 1724, a Senate decree establishing the Academy of Sciences was published. The decree stated that “The most enlightened sovereign Peter the Great... ordered the establishment of an Academy in which languages ​​would be taught, as well as science and knowledge of the arts, and books would be translated” *).
+
+In accordance with the decree, the Academy is a research institution that includes a university and a gymnasium. The main task of academicians was defined as follows: “Their position: everything that has already been done in science is to testify that they need to be corrected and multiplied - to produce, what everyone has invented in this case - to report and hand over to the secretary. About all the decouverts who testified and tested them will be filed, they have an impartial judgment: whether they are true, whether they are great or small, and whether they were known first of all or not!
+
+From the day of its founding, the Academy of Sciences began to play a prominent role in the development of all branches of knowledge and in the study of the country's natural resources. The Academy of Sciences is associated with both individual achievements in accounting science and the creation of new directions.
+
+The Academy of Sciences began to play a particularly prominent role after the victory of the Great October Socialist Revolution.
+
+Through the thoughts of the attempted fire of the civil war, V.I. Lenin, with general prowess, saw the contours of the future socialist Soviet state. He realized that science must play a prominent role in the construction of socialism. This explains the great attention that V.I. Lenin paid to the development of the Academy of Sciences. Following the path laid out by the great Lenin, the Academy of Sciences subordinated all its activities to the development of socialist society. Fulfilling their patriotic duty to the Motherland, scientists of the Academy of Sciences worked selflessly and, together with the Soviet people and their army, won the victory in the Great Patriotic War.
+
+The major scientific achievements of Soviet scientists ensured a high technical level of development of industry and the entire national economy of the country. The USSR Academy of Sciences supported in every possible way the creation of national scientific centers - co-resource Academies of Sciences, branches of the Academy of Sciences. In recent years, new scientific centers have emerged in Siberia, the Urals, and the Far East.
+
+The successes of Soviet scientists have now received worldwide recognition.
+
+*) Complete collection of laws, vol. VII St. Petersburg, 1830; No. 4443.
