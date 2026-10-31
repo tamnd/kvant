@@ -1,0 +1,35 @@
+---
+id: 1975-7-shaskolskaya-o-diffuzii-v-kristallah-09160602
+issue: kvant_1975_7
+year: 1975
+number: "7"
+title: Về sự khuếch tán trong tinh thể
+authors:
+  - Шаскольская М. П.
+rubric: retsenzii-bibliografiya
+rubric_sub: Рецензии, библиография
+page_first: 66
+page_last: 66
+page_labels: "64"
+tag: 6AO8
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 80f27d8af0a7be04c2a916f6a9c211d83bf44408aa3c59b8ce60395f7bc4c69c
+prompt_sha256: draft-1
+translated_from: content/ru/1975/07/articles/19_shaskolskaya-o-diffuzii-v-kristallah-09160602.md
+source_content_sha256: 2d14465c1d51bd7706c5166c2be20591067cf2907ebf1c568852a9e214e83fe0
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 64⟧
+
+Về sự khuếch tán trong tinh thể
+
+“Cuốn sách này không phải là sách giáo khoa, không phải sách tham khảo, cũng không phải chuyên khảo mà là một câu chuyện về một trong những khía cạnh của đời sống tinh thể” - đây là cách Giáo sư Ya. E. Geguzin bắt đầu cuốn sách của mình *). Chính xác hơn, đây không phải là một câu chuyện mà là 80 truyện ngắn về một trong những kiểu chuyển động nhiệt của các nguyên tử trong tinh thể - về sự chuyển động của các nguyên tử xung quanh tinh thể. Đằng sau mỗi tinh thể lạnh lẽo là sự chuyển động tích cực của các nguyên tử, đa dạng và không ngừng. Các nguyên tử không chỉ dao động mà dường như chúng còn giẫm đạp lên một số chỗ. Họ có thể thay đổi địa điểm và đi lang thang quanh viên pha lê. Nếu tinh thể không có nhiều khiếm khuyết khác nhau và không có lực bên ngoài nào tác động lên nó, thì sự di chuyển của các nguyên tử xung quanh tinh thể xảy ra một cách tự do, ngẫu nhiên. Nhưng nếu một dấu hiệu nhỏ của "sự rối loạn" xuất hiện trong tinh thể - một vết xước, một vết lõm, nếu tinh thể bị nghiêng hoặc bị kéo căng, nếu tinh thể có hình dạng khác thường, nếu số lượng nguyên tử tạp chất trong một phần của tinh thể lớn hơn phần khác - nói một cách dễ hiểu, nếu trạng thái của tinh thể không cân bằng, thì bây giờ dòng nguyên tử trở nên có hướng - quá trình khuếch tán bắt đầu. Chẳng hạn, tác giả sử dụng rộng rãi phép so sánh tượng hình: “…Tôi tưởng tượng ra một ngọn núi, từ trên đỉnh có những viên đá lăn xuống chân… Mỗi viên đá đều có năng lượng dư thừa, năng lượng này sẽ được giải phóng khi viên đá lăn xuống chân núi… Có rất nhiều viên đá, chúng lăn, va chạm,..., sau đó một viên đá đến chân càng nhanh hơn, những viên đá khác bắt đầu di chuyển lên trên. Số phận của mỗi viên đá có thể khác nhau và có thể thay đổi. Tuy nhiên, cuối cùng tất cả đều cố gắng giành lấy chân núi.” Tác giả ví một viên pha lê có nhiều dấu hiệu mất cân bằng với một ngọn núi và một hòn đá trên đỉnh. Mỗi dấu hiệu mất cân bằng của một vật thể tinh thể là một hòn đá trên đỉnh núi và quá trình chuyển động có hướng của các nguyên tử - quá trình sắp xếp sự mất cân bằng lan tỏa - tương tự như việc một hòn đá lăn xuống chân. Hòn đá lăn xuống chân núi - năng lượng dư thừa mà nó sở hữu ở đỉnh núi được giải phóng. Tinh thể được giải phóng khỏi trạng thái mất cân bằng - năng lượng dư thừa được giải phóng, tinh thể chuyển từ trạng thái không ổn định sang trạng thái ổn định hơn. “Và nó có thể thành ra,” Ya viết. E. Geguzin, “mà tinh thể cho rằng nên làm trầm trọng thêm một trong những dấu hiệu của sự mất cân bằng để sự mất cân bằng khác được giải quyết nhanh hơn và hoàn toàn hơn.”
+
+Bài tiểu luận của Ya. E. Geguzin kể về nhiều hiện tượng tự do đi kèm với sự khuếch tán hoặc được giải thích bằng sự khuếch tán. “Sự khuếch tán đòi hỏi sự trống rỗng” là tựa đề của một trong những bài luận. Hóa ra là trong cấu trúc của tinh thể có những khoảng trống được chuẩn bị đặc biệt cho các nguyên tử lang thang - cái gọi là chỗ trống, “nguyên tử của sự trống rỗng”: ở một nơi nào đó trong cấu trúc của tinh thể không có đủ nguyên tử.
+
+Những vị trí tuyển dụng này hoạt động như thế nào? Hãy tưởng tượng một chiếc ghế trống ở hàng khán giả đang xem phim, ở đâu đó ở giữa hàng. Bạn muốn giữ anh ấy bận rộn. Tất nhiên, bạn có thể đi dọc theo toàn bộ hàng, làm phiền những khán giả khác hoặc bạn có thể làm khác: yêu cầu họ di chuyển - mọi người sẽ di chuyển đến địa điểm tiếp theo, và kết quả là, chỗ trống, trống trải sẽ dường như tràn ra với bạn từ giữa hàng, như thể chính chỗ trống đó bị thiếu dọc theo hàng. Đây là cách các vị trí tuyển dụng di chuyển trong một tinh thể. Và đừng nghĩ rằng điều này hiếm khi xảy ra. Vâng. E. Geguzin đưa ra một số số liệu: trong một tinh thể vàng ở nhiệt độ gần điểm nóng chảy (1130 °K), mỗi chỗ trống thực hiện 10^10 bước nhảy trong một giây, nó chuyển động

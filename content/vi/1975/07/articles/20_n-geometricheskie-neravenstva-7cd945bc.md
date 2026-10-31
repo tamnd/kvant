@@ -1,0 +1,64 @@
+---
+id: 1975-7-n-geometricheskie-neravenstva-7cd945bc
+issue: kvant_1975_7
+year: 1975
+number: "7"
+title: Bất đẳng thức hình học
+authors:
+  - Н. В.
+rubric: smes
+page_first: 67
+page_last: 67
+page_labels: "65"
+tag: EZMV
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 52d80fc9796436347a28a93fc592fc3536135d80bbdd9f36f4c9c0147ba60169
+prompt_sha256: draft-1
+translated_from: content/ru/1975/07/articles/20_n-geometricheskie-neravenstva-7cd945bc.md
+source_content_sha256: 1d5b78925326cdca1788175c1e1328897ab05684434e5c2be2a6f531abbe05ab
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 65⟧
+
+với tốc độ trung bình khoảng 10km/h. Nhưng phải chăng điều này có nghĩa là nó ngay lập tức “nhảy ra” khỏi tinh thể? Không có gì thuộc loại này! Chỗ trống di chuyển ngẫu nhiên từ bên này sang bên kia và do đó, mặc dù nó thay đổi vị trí 10¹⁰ lần trong một giây nhưng chuyển động của nó chỉ là 10 micron. Ya lưu ý: “Xin vui lòng cho biết, sự ồn ào này là chưa từng có. E. Geguzin về điều này. Các nguyên tử hoạt động có nhiều khả năng hơn các vị trí tuyển dụng, nhưng chúng cũng thay đổi vị trí của mình hàng triệu lần mỗi giây.
+
+Một người có thể tác động đến chuyển động của các nguyên tử và chỗ trống, có thể kiểm soát sự khuếch tán trong tinh thể khi cần: đưa tạp chất vào tinh thể, thay đổi độ bền của kim loại, keo và hàn kim loại và các chất rắn khác, v.v., v.v.
+
+ Rất dễ nhận thấy sự khuếch tán trong chất khí hoặc chất lỏng: khói phân tán trong không khí, quả việt quất lan trong nước - tất cả đều là quá trình khuếch tán. Ở chất rắn, quá trình khuếch tán xảy ra chậm hơn và không thể nhìn thấy trực tiếp, giống như một làn khói biến mất trong không khí. Điều tốt về Ya. Cuốn sách của E. Geguzin là nó mang đến cho người đọc cơ hội nhìn, cảm nhận và như thể dùng tay chạm vào các quá trình khuếch tán trong chất rắn bằng đôi mắt vô hình của mình. Tác giả mô tả các thí nghiệm trong đó có thể nhìn thấy được kết quả của sự chuyển động của các nguyên tử hoặc chỗ trống trong chất rắn. Những thí nghiệm này đôi khi gây ngạc nhiên: bản thân một tinh thể bị uốn cong chỉ không thể uốn cong được vì nó đã được nung nóng; trọng lượng của dây kim loại sẽ bay lên; các nguyên tử lăn dọc theo bề mặt tinh thể giống như cỏ lăn (một loại cây an thần, bị bứt khỏi rễ và bị gió cuốn đi khắp thảo nguyên); chất này lan ra trên bề mặt của chất khác, như thể một tấm thảm đang được trải ra; những hạt vàng trên bề mặt tinh thể đá muối “ăn” lẫn nhau; trong một thí nghiệm khác, những hạt vàng được ném trên bề mặt của một tinh thể đá muối; tinh thể chảy như chất lỏng, và chất lỏng vỡ ra một cách giòn, như thủy tinh; Một nguyên tử uranium chuyển động trong tinh thể mica sẽ ghi lại đường đi của nó và từ bản ghi này, nghiên cứu sẽ xác định tuổi của tinh thể mica.
+
+Như Ya. E. Geguzin viết, "những cái bị cháy này chắc chắn nên được nhìn thấy. Hãy xem, cảm nhận và vui mừng." Tác giả say mê chủ đề của mình đến nỗi người đọc bị nhiễm niềm vui này, niềm vui tìm tòi, khám phá những điều mới mẻ.
+
+Tác giả không tìm cách đưa ra một bức tranh chân thực về hiện tượng được mô tả. Cuốn sách đầu tiên được xuất bản cách đây bốn năm. Tác giả đã bổ sung tài liệu mới cho ấn bản thứ hai, thêm một chương về khuếch tán lượng tử (không phải là chương thành công nhất trong cuốn sách), nhưng lần này, chương cuối cùng nhấn mạnh rằng vẫn còn nhiều điều để tìm hiểu, xem và khám phá.
+
+Mỗi trình tự là một câu chuyện độc lập, nhưng tất cả chúng đều được kết nối bởi một chủ đề thống nhất: bản chất vật lý của quá trình khuếch tán, khả năng tác động đến quá trình này, sự phong phú của các hiện tượng khuếch tán trong tinh thể. Nhiều so sánh trực quan, sinh động, hình ảnh lấp đầy và ví dụ làm cho cuốn sách trở nên thú vị và hấp dẫn. Chỉ tiếc là hình ảnh trong sách không phải lúc nào cũng rõ ràng như mô tả.
+
+Mặc dù tác giả quy định rằng ông giới hạn chủ đề của cuốn sách ở mức phổ biến, nhưng trên thực tế, nội dung của nó rộng hơn: từ cuốn sách này, bạn có thể nhận được rất nhiều thông tin về cấu trúc của tinh thể, các sự kiện thực nghiệm mới cũng như các phương pháp thống kê vật lý và động học. Sách được viết sáng sủa, sinh động, lôi cuốn; chắc chắn sẽ mang lại niềm vui cho người đọc.
+
+M. P. Shaskolskaya
+
+Bất đẳng thức hình học
+
+1. Chúng ta hãy biểu thị bằng $m_a$, $m_b$, $m_c$ độ dài của các đường trung tuyến vẽ về các cạnh $a$, $b$, $c$ của tam giác. Chứng minh rằng
+
+$$\frac{3}{8}(ab + bc + ca) \leq m_a m_b + m_c m_a \leq \frac{5}{4}(ab + bc + ca).$$
+
+Có một giả định chưa được chứng minh rằng tỷ lệ cược 3/8 có thể được thay thế bằng tỷ lệ 20/9.
+
+2. Hãy ký hiệu bằng $h_a$, $h_b$, $h_c$ chiều dài của chiều cao được vẽ sang hai bên $a$, $b$, $c$ tam giác ABC. Chứng minh rằng
+
+$$\left( a^2 + b^2 - h_c^2 \right)^{\frac{1}{2}} + \left( b^2 + c^2 - h_a^2 \right)^{\frac{1}{2}} + \left( c^2 + a^2 - h_b^2 \right)^{\frac{1}{2}} \leq 6R,$$
+
+ trong đó $R$ là bán kính của đường tròn ngoại tiếp tinh thể ABC.
+
+3. Chúng ta hãy biểu thị bằng $w_a$, $w_b$, $w_c$ độ dài của các bissertric được vẽ về các cạnh $a$, $b$, $c$ của tam giác. Chứng minh rằng
+
+$$\frac{a}{w_b + w_c} + \frac{b}{w_c + w_a} + \frac{c}{w_a + w_b} \geq \sqrt{3},$$
+
+$$\frac{w_a}{b + c} + \frac{w_b}{c + a} + \frac{w_c}{a + b} \leq \frac{3}{4} \sqrt{3}.$$
+
+H. B.

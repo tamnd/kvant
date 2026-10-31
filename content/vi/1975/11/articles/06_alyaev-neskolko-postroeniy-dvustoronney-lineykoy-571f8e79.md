@@ -1,0 +1,39 @@
+---
+id: 1975-11-alyaev-neskolko-postroeniy-dvustoronney-lineykoy-571f8e79
+issue: kvant_1975_11
+year: 1975
+number: "11"
+title: Một số công trình có thước kẻ hai mặt
+authors:
+  - Аляев А. В.
+rubric: smes
+page_first: 22
+page_last: 22
+page_labels: "20"
+tag: APMK
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: da623aececd7c65f4ef453823709fd337225807e3d1e2e46ebf6a5ca9014e62d
+prompt_sha256: draft-1
+translated_from: content/ru/1975/11/articles/06_alyaev-neskolko-postroeniy-dvustoronney-lineykoy-571f8e79.md
+source_content_sha256: ef1a5c3031980d07978569074473491a74d8782b882e5b120563102be9299bed
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 20⟧
+
+Các cửa hàng điện gia dụng bán đèn có các công suất sau: 15w, 25w, 40w, 60w, 100w, 150w và 200w. Người đọc thấy rằng, ngoại trừ giá trị cuối cùng, đây là dãy R5 được sửa lại một chút.
+
+Nếu chúng ta từ bỏ các yêu cầu quá cao về độ chính xác của phép tính, thì chúng ta có thể cho rằng tích của các số ưu tiên cũng là số ưu tiên (tại sao?).
+
+Do đó, các mặt phẳng (thể tích) của hình chữ nhật (ống song song) sẽ được ưu tiên hơn nếu chỉ kích thước tuyến tính của chúng được biểu thị bằng số ưu tiên. Điều này cũng đúng đối với diện tích hình tròn và thể tích của hình trụ, vì số ưu tiên là 3,15 gần với số lít. Đây là một lập luận khác cho việc sử dụng số ưu tiên khi biên soạn các bộ kích thước tiêu chuẩn.
+
+Bài tập
+1. Chữ số nào xuất hiện thường xuyên nhất ở chữ số có nghĩa thứ hai của một số được đặt tên?
+2. Chứng minh “định luật bảo toàn” số i với phân bố “logarit” (tr. 18).
+3. Chứng minh rằng các đại lượng
+$$\max \left[ \min \left( \frac{x_0}{x} + \frac{x}{x_0}, \frac{x_1}{x} + \frac{x}{x_1}, \dots, \frac{x_n}{x} + \frac{x}{x_n} \right) \right],$$
+trong đó $1 = x_0 \leqslant x_1 \leqslant \dots \leqslant x_{n-1} \leqslant x_n = 10$, nhận giá trị nhỏ nhất có thể khi các số $x_k$ tạo thành cấp số nhân.

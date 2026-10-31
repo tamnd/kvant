@@ -1,0 +1,95 @@
+---
+id: 1975-7-komlenko-izhevskiy-mehanicheskiy-institut-a0f6217e
+issue: kvant_1975_7
+year: 1975
+number: "7"
+title: Viện cơ khí Izhevsk
+authors:
+  - Комленко Ю. В.
+rubric: praktikum-abiturienta
+page_first: 65
+page_last: 65
+tag: HZSB
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: fd0e8076d97f46bd98db09e4dad6a66ab7e05a4bbe6def60a0f57f4c77b14d05
+prompt_sha256: draft-1
+translated_from: content/ru/1975/07/articles/18_komlenko-izhevskiy-mehanicheskiy-institut-a0f6217e.md
+source_content_sha256: 0f6500ef7d56ba13e9f277f724f74ebe0836001113606c328e89c6b511422a03
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+Áp dụng cho khối lượng của sợi. $g=9,8 \ m/c^2$, $\varepsilon_0=8,85 \cdot 10^{-12} \ \phi/m$.
+
+4. Thiết bị chiếu có một thấu kính có tiêu cự $F=5 \ cm$. Một phạm vi hình vuông có diện tích $S=10 \ cm^2$, nằm cách thấu kính một khoảng $d=5,1 \ cm$, truyền quang thông $\Phi=10 \ \lambda m$. Xác định độ sáng của ảnh slide trên màn hình. Giả sử luồng ánh sáng không bị tán xạ.
+
+Tùy chọn 3
+
+1. Sự chuyển động của các phân tử khí, chất lỏng và chất rắn.
+2. Định luật khúc xạ ánh sáng.
+3. Một người có khối lượng $m_1=80 \ \kappa$ di chuyển từ mũi tới đuôi tàu trên một chiếc thuyền có chiều dài $l=5 \ m$. Khối lượng của con thuyền là bao nhiêu nếu trong quá trình chuyển đổi này, nó chuyển động trong nước tĩnh lặng theo hướng ngược lại $s=2 \ m$? Vận tốc ban đầu của thuyền so với nước bằng 0.
+4. Hỏi điện năng sẽ chạy qua các kênh chứa các bản tụ điện phẳng có các cực của ắc quy khi tụ điện được nhúng trong dầu hỏa là bao nhiêu? Diện tích bản tụ $S=150 \ cm^2$, khoảng cách giữa các bản tụ $d=5 \ \mu m$, e. d. Với. pin $E=9,42 \ \sigma$, hằng số điện môi của dầu hỏa $\varepsilon=2$. Hằng số điện $\varepsilon_0=8,85 \cdot 10^{-12} \ \phi/m$.
+
+N. N. Karelin, I. S. Osipshin, M. A. Palentsika
+
+Viện cơ khí Izhevsk
+
+Viện Cơ khí Izhevsk có năm khoa toàn thời gian và đào tạo các kỹ sư về các chuyên ngành sau.
+
+Khoa Cơ khí và Công nghệ: kỹ thuật cơ khí; máy và dụng cụ gia công kim loại; máy và công nghệ gia công kim loại bằng áp suất; thiết bị và công nghệ sản xuất hàn.
+
+Khoa chế tạo nhạc cụ: máy tính điện tử; thiết kế và sản xuất thiết bị vô tuyến.
+
+Khoa Cơ khí: máy tự động và bán tự động; phần cứng
+
+Khoa Kỹ thuật và Kinh tế: kinh tế và tổ chức ngành cơ khí; tổ chức cơ giới hóa xử lý thông tin kinh tế.
+
+Khoa Xây dựng: Kỹ thuật Công nghiệp và Xây dựng; xây dựng nông nghiệp.
+
+Dưới đây là các lựa chọn cho kỳ thi viết đầu vào năm 1974 môn toán của viện chúng tôi.
+
+Tùy chọn 1
+
+1. Đáy của một đường thẳng là một tam giác đều, đáy của nó là $a$ và góc ở đáy là $\alpha$. Xác định thể tích của một đường thẳng nếu bề mặt bên của nó bằng tổng diện tích các đáy của nó.
+
+2. Giải phương trình
+$$\frac{1}{4}(7+1g x) = 10^1+1g x.$$
+
+3. Giải bất đẳng thức
+$$\frac{x-7}{\sqrt{4 x^2-19 x+12}} < 0.$$
+
+4. Giải phương trình
+$$tg 2x+ctg x=8 \cos^2 x.$$
+
+Tùy chọn 2
+
+1. Một hình nón nội tiếp trong một quả cầu có bán kính $R$, ảnh của nó nghiêng với mặt phẳng đáy một góc $\alpha$. Tìm thể tích của hình nón.
+
+2. Giải phương trình
+$$2\sqrt{x+1}-\frac{4}{\sqrt{x+1}}=\sqrt{2 x-2}.$$
+
+3. Giải phương trình
+$$\sec x-1=2 \sin \frac{x}{2}.$$
+
+4. Giải bất đẳng thức
+$$\log_0,3(x^2+2x)<0.$$
+
+Tùy chọn 3
+
+1. Đáy của một hình bình hành bên phải là một hình chữ nhật nội tiếp trong một hình tròn có bán kính $R$, và một trong các cạnh của đáy nằm trên một cung bằng $2\alpha$. Tìm thể tích của hình bình hành này nếu bề mặt bên của nó bằng $S$.
+
+2. Giải phương trình
+$$lg^2(100x)+lg^2(10x)+lg^2x=14.$$
+
+3. Giải bất đẳng thức
+$$\frac{1-x}{\sqrt{0,5^2x}}-\sqrt{0,25^x-6}<0,$$
+
+4. Giải phương trình
+$$1-\cos^2 2x=\sin 3x-\cos\left(\frac{\pi}{2}+x\right).$$
+
+Yu. V. Komlenko

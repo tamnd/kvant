@@ -1,0 +1,55 @@
+---
+id: 1975-6-elementarnaya-ispoved-3286df11
+issue: kvant_1975_6
+year: 1975
+number: "6"
+title: Lời thú tội sơ đẳng
+rubric: smes
+page_first: 19
+page_last: 19
+tag: FNFN
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 9c63045b0ca12d8176f04136efce8072518e7140967064dad56896ed3598e8a6
+prompt_sha256: draft-1
+translated_from: content/ru/1975/06/articles/05_elementarnaya-ispoved-3286df11.md
+source_content_sha256: abdb2ded02f45838eedb839674a7223af90bfdba79af0ba81862e4b54a55a958
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+(điện tử) neutrino được biết là có khối lượng ít nhất nhỏ hơn 1/7000 khối lượng của một electron.
+
+Ở nhiều phòng thí nghiệm trên khắp thế giới, kể cả ở Liên Xô, công việc thực nghiệm chuyên sâu đang được tiến hành để nghiên cứu neutrino. Mục tiêu của công việc này là tìm ra những tính chất khác của neutrino. Đặc biệt, người ta đang tiến hành tìm kiếm các quá trình khác mà theo lý thuyết tương tác yếu sẽ xảy ra dưới tác dụng của neutrino.
+
+Người ta cũng chú ý nhiều đến việc tìm kiếm bức xạ neutrino chưa được khám phá từ Mặt trời và các ngôi sao khác. Những ý tưởng hiện đại về bản chất của năng lượng mặt trời và năng lượng giữa các vì sao gắn liền với bức tranh về các quá trình hạt nhân cường độ cao xảy ra trong plasma siêu nóng (ở nhiệt độ vài chục triệu độ) tạo nên các vùng bên trong của Mặt trời và các ngôi sao khác. Sự xuất hiện của neutrino trong các quá trình này sẽ ảnh hưởng đáng kể đến sự cân bằng năng lượng tổng thể, và do đó ảnh hưởng đến toàn bộ động lực phát triển của sao, vì neutrino, tự do xuyên qua toàn bộ độ dày của Mặt trời hoặc ngôi sao, bay vào không gian vũ trụ và mang theo một phần đáng chú ý trong tổng năng lượng. Để phát hiện neutrino mặt trời, các phòng thí nghiệm khổng lồ dưới lòng đất được xây dựng ở độ sâu lớn trong các mỏ than hoặc trong đường hầm dưới những ngọn núi lớn nhằm đảm bảo “mức nền” tối thiểu khỏi các tia vũ trụ trong máy dò neutrino.
+
+Do đó, trong lời giải các bài toán liên quan đến nghiên cứu tương tác yếu và neutrino, con đường phát triển của vật lý hạt cơ bản - vật lý của vũ trụ vi mô - và khoa học về các ngôi sao và các vật thể thiên hà khác - vật lý thiên văn hiện đại có mối liên hệ chặt chẽ với nhau.
+
+⟦column⟧
+
+## Tiểu học
+
+## sự xưng tội
+
+Thật tốt khi trở thành một neutrino. Bạn bay đến bất cứ nơi nào bạn muốn, bạn bay xuyên qua mọi thứ. Không có phí, khối lượng bằng 0, không ai chạm vào bạn, không ai đăng ký bạn... Bạn còn cần gì nữa?
+
+Và ở đây bạn đang quay cuồng như địa ngục xung quanh lõi, với xác suất thay đổi, nhảy từ cấp này sang cấp khác. Bạn tỏa ra năng lượng. Bạn đưa mọi thứ đến lượng tử cuối cùng và mọi người lượng tử hóa bạn theo Bohr và Dirac.
+
+Cánh đồng đã được mở. Nó được gọi là điện từ. $E$ cho X, $H$ cho Y, $V$ cho Z. Bạn có thể phát điên. Người ta nói rằng các quỹ đạo là đứng yên, hãy quay để bảo toàn năng lượng.
+
+Đây là một người bạn của tôi làm việc tại số 1 Borovskaya, tại Hydrogen. Và anh ấy sống ở một nơi nào đó giữa hư không. Khi anh ta đi làm, anh chàng tội nghiệp sẽ đau khổ đến mức có thể ngã trúng một viên đạn đại bác. Còn ở nơi làm việc thì sao? Có nhiều lượng tử, photon khác nhau. Chủ nghĩa côn đồ. Họ đi lang thang xung quanh, tìm xem họ có thể đánh bật ai ra khỏi quỹ đạo. Rối loạn. Bạn không thể giữ nhiều hơn $10^{-8}$ $c$ trên một nguyên tử.
+
+Và nó còn tệ hơn đối với một người tự do. Bây giờ là một cánh đồng, bây giờ là một cái hố, tốt và $U$ tăng tốc. Anh rể của tôi bằng cách nào đó đã rơi vào một cái hố, và bây giờ có gì đó không ổn với chức năng $\psi$ của anh ấy. Nghĩa là không hoàn toàn trơn tru, có một sự trật khớp.
+
+Nói chung, tôi có thể nói gì. Trước đây bạn sẽ bình tĩnh chạy từ “-” đến “+”. Hiện tại hướng tới bạn. Nếu bạn hỏi anh ấy tin tức, bạn sẽ tự nói với anh ấy. Bạn sẽ đến đó, bạn sẽ thở được. Và bây giờ... Bạn thậm chí không thể dừng lại. Nếu bạn dừng lại, bạn sẽ có sự không chắc chắn về xung lực đến mức bạn sẽ bị lung lay, và nếu bạn giảm bớt xung lực đó, nó sẽ lan tỏa khắp không gian. Không, tốt hơn là trở thành một neutrino.
+
+*Từ tờ báo “Vì khoa học” của Viện Vật lý và Công nghệ Moscow*
+
+2 «Kvant» № 6
+
+17

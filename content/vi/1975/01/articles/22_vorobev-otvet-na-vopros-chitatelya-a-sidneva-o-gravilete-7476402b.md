@@ -1,0 +1,44 @@
+---
+id: 1975-1-vorobev-otvet-na-vopros-chitatelya-a-sidneva-o-gravilete-7476402b
+issue: kvant_1975_1
+year: 1975
+number: "1"
+title: '[Đáp số gửi câu hỏi của độc giả A. Sidnev về mặt phẳng trọng lực]'
+authors:
+  - Воробьёв И. И.
+rubric: raznoe
+page_first: 69
+page_last: 69
+page_labels: "67"
+tag: 8PLQ
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 41f1fc6a4202c67dca15f77da31ed7cf7ea5c99cc50e7bc28e5fb955f124c0c9
+prompt_sha256: draft-1
+translated_from: content/ru/1975/01/articles/22_vorobev-otvet-na-vopros-chitatelya-a-sidneva-o-gravilete-7476402b.md
+source_content_sha256: 9e171f794ed83d0878610807ce482fb7dd93a993499df71285e76e5c8eede1b7
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+Thực sự sẽ có sự mâu thuẫn với định luật bảo toàn năng lượng nếu việc mở rộng các bộ phận lớn của con tàu không đòi hỏi tiêu hao năng lượng. Hãy xem xét sự sinh sản của các quả bóng ở cận điểm. Chúng ta sẽ giả sử rằng sự giãn nở diễn ra nhanh (do đó chuyển động quỹ đạo có thể bị bỏ qua) và xảy ra vuông góc với mặt phẳng quỹ đạo.
+
+Gọi $r$ là khoảng cách từ Trái đất đến khối tâm của con tàu (xem hình). Khi cách nhau một góc $\alpha$, khoảng cách từ mỗi quả bóng đến tâm Trái đất sẽ trở thành $r' = \dfrac{r}{\cos{(\alpha/2)}}$. Công chống lại lực hấp dẫn (công cần thiết tối thiểu để di chuyển các quả bóng ra xa nhau) bằng
+
+⟦column⟧
+
+⟦figure⟧
+
+Hãy nhớ rằng khi di chuyển dọc theo quỹ đạo, góc $\alpha$ được giữ không đổi. Do đó, lực tác dụng lên quả tạ (súng trọng lực khi các quả bóng dịch chuyển ra xa nhau) khác với lực tác dụng lên một điểm vật chất có cùng khối lượng (súng trọng lực với các quả bóng dịch chuyển ra xa nhau) bởi hệ số không đổi $\cos\dfrac{\alpha}{2}$.
+
+$$A = -\gamma\,\frac{mM}{r'} - \left(-\gamma\,\frac{mM}{r}\right) = \gamma\,\frac{mM}{r}\left(1 - \cos\,\frac{\alpha}{2}\right).$$
+
+Thực tế là công phải được thực hiện là rõ ràng, bởi vì có một thành phần của lực hấp dẫn hướng chống lại chuyển động của các bộ phận trong mặt phẳng hấp dẫn. Công việc này hướng tới việc tăng thế năng của con tàu trong trường hấp dẫn của Trái đất. Như vậy, thế năng của tàu tăng lên do sự tiêu hao năng lượng từ các nguồn bên trong cho việc giãn nở của các quả bóng.
+
+Ngược lại, trong quá trình dịch chuyển ở điểm cực đại, công được thực hiện bởi lực hấp dẫn (thậm chí bạn có thể lưu trữ năng lượng trong các nguồn). Nhưng vì khoảng cách tới tàu ở điểm viễn địa lớn hơn nên công việc này ít “cận điểm” hơn. Vì vậy, nói chung, năng lượng phải được tiêu hao trong chu kỳ, cuối cùng năng lượng sẽ được dùng để tăng tốc cho con tàu.
+
+Lượng năng lượng tối thiểu cần thiết để rời khỏi quỹ đạo là như nhau đối với bất kỳ phương pháp tăng tốc nào. Tuy nhiên, có thể hóa ra rằng máy bay phản lực trọng lực tiết kiệm năng lượng hơn, chẳng hạn như động cơ tên lửa. Rốt cuộc, rõ ràng là trong quá trình đẩy phản lực, một phần năng lượng bị lãng phí - nó chuyển thành động năng của khí thải ra.
+
+⟦folio 67⟧

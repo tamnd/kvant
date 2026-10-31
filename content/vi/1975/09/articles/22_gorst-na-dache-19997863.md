@@ -1,0 +1,50 @@
+---
+id: 1975-9-gorst-na-dache-19997863
+issue: kvant_1975_9
+year: 1975
+number: "9"
+title: Tại nhà nghỉ
+authors:
+  - Горст Ю. Г.
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 73
+page_last: 73
+page_labels: "71"
+tag: 7L8Y
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: e4dbb88fbf898ac78c8b1a295fd898ea0a3305b7dab4e86ab49fc16bf8e798dd
+prompt_sha256: draft-1
+translated_from: content/ru/1975/09/articles/22_gorst-na-dache-19997863.md
+source_content_sha256: a71a360f1bba2e61638f62e9637b03f6ab1bc9229e6ea96770be4025d7d6035b
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 71⟧
+
+Đưa nó cho tôi
+Câu chuyện-bài toán
+
+Một ngày Chủ nhật của tháng 5, hai học sinh lớp bảy Kolya và Petya đến ngôi nhà của bố mẹ Petya, lúc đó trống rỗng, để chuẩn bị cho bài kiểm tra vật lý cuối cùng.
+
+Ngày nóng nực và căn phòng ngột ngạt.
+
+“Bạn biết không,” Petya nói, “trong cái nóng này, não tôi không hoạt động tốt.” Hãy bật tủ lạnh và đợi cho đến khi căn phòng nguội đi một chút.
+
+Kolya không bận tâm. Một giờ sau khi bật tủ lạnh, khi nhiệt độ trong phòng giảm nhẹ, các chàng trai lấy sách ra.
+
+Tuy nhiên, họ không phải làm việc lâu. Lần này Kolya cầu xin:
+
+“Petya, hôm nay tôi ăn sáng không ngon miệng và cảm giác thèm ăn của tôi tăng cao đến mức tôi thậm chí không nghĩ đến vật lý.” Sẽ không có hại gì nếu chúng ta ăn nhẹ một chút.
+
+Petya kiểm tra nguồn cung cấp nhà ở.
+
+– Bạn có muốn ăn trứng luộc mềm không? anh ấy hỏi. (Kolya gật đầu.) Chỉ... Tôi tìm thấy hai đồ uống điện, nhưng cả hai đều không có hình xoắn ốc. Ồ, đây là một số hình xoắn ốc. Có lẽ chúng ta có thể nối hai hình xoắn ốc nối tiếp và đặt chúng trên một lít để nước sôi nhanh hơn?
+
+Kolya nghĩ về điều đó.
+
+“Theo ý kiến ​​​​của tôi,” anh ấy nói, “nước sẽ sôi nhanh hơn nếu đường xoắn ốc không kéo dài ra mà thay vào đó rút ngắn lại.”

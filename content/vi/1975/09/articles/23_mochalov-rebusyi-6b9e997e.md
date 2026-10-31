@@ -1,0 +1,49 @@
+---
+id: 1975-9-mochalov-rebusyi-6b9e997e
+issue: kvant_1975_9
+year: 1975
+number: "9"
+title: Tái sử dụng
+authors:
+  - Мочалов Л. П.
+rubric: smes
+page_first: 74
+page_last: 74
+page_labels: "72"
+tag: 96NL
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: ecee72101223daf603146cc8e098bdd233fa7733f1fa0358397d9dd6b0c008c2
+prompt_sha256: draft-1
+translated_from: content/ru/1975/09/articles/23_mochalov-rebusyi-6b9e997e.md
+source_content_sha256: 6db14f41635d699df3205b00434be986612c0f5d3221e545dcb7ea50af892dea
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 72⟧
+
+Một cuộc tranh cãi nổ ra và để giải quyết, các chàng trai đặt một hình xoắn ốc đôi lên một viên gạch và một nửa hình xoắn ốc ở viên còn lại. Sau đó, họ đổ cùng một lượng nước vào các chảo giống hệt nhau và bắt đầu chờ xem nước sẽ sôi trước ở ô nào.
+
+Kolya hóa ra đã đúng. Luộc trứng xong và thỏa mãn cơn đói, các chàng trai lại tiếp tục công việc của mình.
+
+Khi hoàng hôn buông xuống, Petya bật bóng đèn lên.
+“Ánh sáng hơi yếu,” Kolya phàn nàn. Có lẽ là một bóng đèn công suất thấp.
+“127 b, 60 bt,” Petya đọc dòng chữ trên bóng đèn. Bây giờ tôi sẽ lục trong tủ đựng thức ăn xem có món nào ngon hơn không. Vì vậy, bóng đèn 40 watt này không có ích gì cho chúng ta, nhưng cái bóng này, mặc dù 60 watt, lại là 220 watt. Hãy bật nó lên: ít nhất cô ấy có nhiều hướng hơn.
+
+Khi Petya vặn bóng đèn vào ổ cắm, căn phòng trở nên sáng hơn đáng kể và các chàng trai ngồi đọc sách trong khoảng một giờ.
+
+Trở về nhà, các em cảm thấy đã chuẩn bị tốt cho bài kiểm tra chủ đề “Điện”.
+Bạn nhận thấy những mâu thuẫn nào với các định luật vật lý trong câu chuyện này?
+
+Tái sử dụng
+
+1. Đặt các số vào các vòng tròn trống để bạn thực hiện đúng các phép tính nhân và chia.
+
+2. Trong ví dụ sau, tất cả các số ngoại trừ số bảy đều được thay thế bằng các vòng tròn trống
+
+Được biết, mọi con số của cả hai thành phần đều khác nhau. Người ta cũng biết rằng trong sản phẩm tất cả các con số đều khác nhau. Ví dụ cần được khôi phục.
+
+E. Rekstin

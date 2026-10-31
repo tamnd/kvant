@@ -1,0 +1,52 @@
+---
+id: 1975-3-gik-sovetyi-nachinayuschim-repetitoram-5b853da4
+issue: kvant_1975_3
+year: 1975
+number: "3"
+title: Lời khuyên dành cho người mới bắt đầu dạy kèm
+authors:
+  - Гик Е. Я.
+rubric: osnovnye-stati
+page_first: 26
+page_last: 26
+page_labels: "24"
+tag: IJOL
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: ee94d8b00e7cfd3763dc3eefb2da73d6f1f37ad931db4a32c63cc7d2992b94f7
+prompt_sha256: draft-1
+translated_from: content/ru/1975/03/articles/06_gik-sovetyi-nachinayuschim-repetitoram-5b853da4.md
+source_content_sha256: f64cf9090896394a031be0472ccd0fc3adf7c9cab5d4f7a5e4e97eaa0a818984
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 24⟧
+
+nhánh gần với điểm mà âm thanh xuất hiện trước khi người ta nghe thấy.
+Các tiệm cận của hyperbode này rất dễ vẽ trên bản đồ: góc giữa tiệm cận và đường thẳng $F_1F_2$ có cosin:
+$$\cos \alpha = \frac{a}{c}.$$
+
+Vì điểm cực viễn $M$ gần với đường tiệm cận nên trên thực tế chúng ta có thể lấy $\cos \alpha = \frac{a}{c}$ và hướng tọa độ theo một góc $\alpha$ đến $F_1F_2$.
+
+***
+
+Chúng tôi không giải thích tên của hyperbode (trong tiếng Hy Lạp cổ hyperbole có nghĩa là “thừa”, “cường điệu” *) (phóng đại ở đây là gì?), Chúng tôi không nói về các tính chất quan trọng khác của đường cong này, chung cho tất cả các phần hữu hạn - hình elip, hyperbode và parabode. Những vấn đề này sẽ được đề cập trong «Kvant» Số 5.
+
+*) Chúng ta hãy nhớ lại rằng một lối nói tu từ có cường điệu quá mức được gọi là cường điệu.
+
+Lời khuyên dành cho người mới bắt đầu dạy kèm
+
+Bất kỳ người cha, người mẹ có lòng tự trọng nào cũng coi việc giao phó những đứa con đang học cấp 2 cho gia sư chăm sóc là nghĩa vụ thiêng liêng của cha mẹ. Chính những người thông minh và hiểu biết này đã được giới thiệu với họ như những thiên thần trên trời, mở rộng cánh cổng của khu vực trước những người thừa kế của họ... Nhu cầu về gia sư ngày càng tăng, và chẳng bao lâu nữa sẽ không thể tìm thấy họ trong ngày. Trong khi đó, mọi người, bất kể trình độ học vấn, đều có thể dạy những bài học trả phí. Và nếu dạy thêm vẫn chưa được áp dụng trên diện rộng thì nguyên nhân là do thiếu những lợi ích phù hợp. Những lời khuyên được đề xuất kêu gọi một số trợ giúp cho những người dạy kèm mới bắt đầu.
+
+Làm thế nào để tìm thấy một khách hàng
+
+Không có cách nào tốt hơn để thoát khỏi khó khăn tài chính hơn là giữ cho sinh viên bận rộn. Đúng vậy, để tạo ra được nhóm khách hàng phù hợp, người ta phải thể hiện sự khéo léo và quyết tâm. Giám đốc trường học có một vai trò lớn. Hãy hỏi anh ấy tốt hơn, và anh ấy sẽ sắp xếp cho bạn một nguồn ứng viên vững chắc, từ đó sẽ không có hồi kết. Việc trò chuyện với giáo viên của bạn cũng không có hại gì. Hãy kể về cuộc sống đáp ứng này với sự cay đắng có kiềm chế nhưng rõ ràng về tình hình tài chính khó khăn của bạn, điều này đang kìm hãm sức mạnh tinh thần của bạn.
+
+Có lẽ nguồn sinh viên hiệu quả nhất là đào tạo. Chúng phải thu hút sự chú ý của người qua đường, và do đó chúng nên được trang trí bằng một con át nhiều màu. Cố gắng làm cho văn bản mơ hồ và hấp dẫn. Thống kê cho thấy chương trình phổ biến nhất, đảm bảo tuyển sinh, chuẩn bị cho một nhóm ứng viên khoa học tham gia các kỳ thi cạnh tranh ở tất cả các môn học ở mọi môn học. Lớp học tại trung tâm."
+
+Tất nhiên, bất kỳ chương trình nào của Stark đều là cả thế giới và việc được nhận vào học viện không thể đảm bảo bất cứ điều gì trên thế giới. Nhưng khi nói đến vấn đề đó, không có gì dễ dàng hơn việc khiến phụ huynh tin vào lời dạy. Tất nhiên, nhóm được đề cập chỉ bao gồm bạn và bạn thậm chí chưa bao giờ nhìn thấy một ứng cử viên khoa học còn sống. Nhưng đừng để lời nói dối mạch lạc này làm bạn bối rối - mối quan hệ giữa phụ huynh và gia sư chỉ được xây dựng dựa trên sự tin tưởng. Nhân tiện, nếu bạn chuẩn bị vào đại học, bạn hoàn toàn không có nghĩa vụ phải báo cáo sự thất bại của mình liên quan đến việc được nhận vào kỹ thuật đánh vần tương ứng.
+
+(Tiếp theo trang 35)

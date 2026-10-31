@@ -1,0 +1,52 @@
+---
+id: 1975-11-zadachi-nashih-chitateley-5c0a66d6
+issue: kvant_1975_11
+year: 1975
+number: "11"
+title: Bài toán độc giả của chúng tôi
+rubric: smes
+page_first: 13
+page_last: 13
+page_labels: "11"
+tag: 9FV7
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: ed1b3d16d1af6a431338805de9bdd66758090dc4cd844b964e56601d6ef31800
+prompt_sha256: draft-1
+translated_from: content/ru/1975/11/articles/03_zadachi-nashih-chitateley-5c0a66d6.md
+source_content_sha256: 32fe9d8e081064d45b701c9dcf75ac97e26f3f0de1d695a56f8b204f4806d054
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 11⟧
+
+Bài tập
+độc giả của chúng tôi
+
+1. Chứng minh rằng số
+$$1 + \frac{111 \ldots 111}{n} \times \frac{222 \ldots 222}{n} \times \frac{333 \ldots 333}{n - 1} \times \frac{333 \ldots 333}{n - 1}$$
+là bình phương của một số tự nhiên.
+
+A. Gultsev
+
+2. Chứng minh rằng $a^{2n} - 1$ chia hết cho $2^{n+2}$ nếu $a$ lẻ.
+
+H. Cherepinsky
+
+3. Chứng minh rằng
+$$7^{7777} - 7^{777}$$
+chia cho 1.000.000.
+
+M. Stereber
+
+4. Tìm bốn số tự nhiên tạo thành một cấp số nhân có các số hạng là ước của tổng
+$$25^{1975} + 79^{1975}$$
+
+Yu. Krlov
+
+Sở thích khác của Ampere là phân loại khoa học. Vấn đề này, quan trọng về mặt phương pháp luận và thuật ngữ chung, đã khiến Ampere quan tâm trong một thời gian dài, kể từ những ngày ông làm việc ở Bourg-en-Brés. Ông đã phát triển hệ thống phân loại khoa học của riêng mình và dự định trình bày hệ thống này trong một cuốn xã hội học gồm hai tập. Năm 1834, tập đầu tiên của “Tiểu luận về triết học khoa học hoặc Trình bày phân tích về phân loại tự nhiên của toàn bộ kiến ​​thức nhân loại” được xuất bản. Tập thứ hai được xuất bản bởi con trai của Ampere sau khi ông qua đời.
+
+Ampere chết vì bệnh viêm phổi vào ngày 10 tháng 7 năm 1836 tại Marseilles, trong một chuyến thị sát. Ông được chôn cất ở đó. Năm 1869, quyền của ông được chuyển đến Paris đến nghĩa trang Montmartre. Dòng chữ sau đây được khắc trên bia mộ của ông: “Ông ấy tốt bụng và giản dị như thể ông ấy rất vĩ đại”.

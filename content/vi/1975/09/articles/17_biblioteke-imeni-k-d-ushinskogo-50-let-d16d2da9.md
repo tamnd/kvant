@@ -1,0 +1,54 @@
+---
+id: 1975-9-biblioteke-imeni-k-d-ushinskogo-50-let-d16d2da9
+issue: kvant_1975_9
+year: 1975
+number: "9"
+title: Thư viện mang tên K. D. Ushinsky tròn 50 tuổi
+rubric: informatsiya
+rubric_sub: Информация
+page_first: 66
+page_last: 66
+page_labels: "64"
+tag: TU1R
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: db8d09fc88697cf21340494eb3abfbd2b004fabb213c7e19e8d537371ed24fa2
+prompt_sha256: draft-1
+translated_from: content/ru/1975/09/articles/17_biblioteke-imeni-k-d-ushinskogo-50-let-d16d2da9.md
+source_content_sha256: ed20cb9593c1ba1573f56db18bb120a95fa874fb9941f9ce2d530117122f25ba
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 64⟧
+
+Hằng số này giảm dần theo thời gian (giả thuyết cho rằng các hằng số vật lý có thể thay đổi theo thời gian được Dirac đưa ra). Những báo cáo này được thảo luận rộng rãi nhưng các nhà khoa học vẫn chưa đưa ra kết luận cuối cùng.
+
+Bây giờ chúng ta sẽ nói ngắn gọn về một số tác phẩm chưa được báo cáo tại cuộc họp, nhưng theo ban giám khảo, chúng xứng đáng được đánh giá cao.
+
+Igor Gavrilov (Omsk, s. sh. Số 64, lớp 10) trình bày báo cáo với chủ đề: “Nghiên cứu ảnh hưởng của chế độ nhiệt độ của hệ thống làm mát động cơ ZIL-130 đến công suất, các chỉ tiêu kinh tế và độc tính của khí thải.” Báo cáo mô tả kết quả của hai năm làm việc mà tác giả trực tiếp tham gia, từ việc tạo ra một thiết lập thử nghiệm cho đến việc thu được một số kết quả cụ thể. Công việc được thực hiện tại Viện Đường bộ tự trị Siberia.
+
+“Tinh thể, vai trò của chúng đối với tự nhiên và khoa học - đây là tựa đề tóm tắt của Lyuba Barabatseva (Sverdlovsk, làng số 262, lớp 9). Đây là một câu chuyện rất chi tiết và đầy thông tin về cấu trúc và tính chất của tinh thể.
+
+Một số bài tóm tắt được dành cho lịch sử vật lý. Trong số đó đáng chú ý là tác phẩm “M. V. Lomonosov là người sáng lập ra thuyết động học phân tử” của Alexander Pavlom (Chita, trường số 42, lớp 10).
+
+Ban giám khảo lời giải ở phần vật lý có rất nhiều bằng tốt nghiệp: L. Altukhova, S. Amelkin, L. Barabatseva, V. Volinsky, I. Gavrilov, S. Golub, A. Kipchatov, D. Morozov, A. Pavlom, A. Poltorak.
+
+Các hiệp hội khoa học sau đây của sinh viên đã nhận được chứng chỉ làm việc tốt: phần vật lý thực nghiệm p. w. Số 2, Dzerzhinsk, vùng Gorky, xã hội khoa học «Kvant» tr. w. Số 13 Saratov, xã hội khoa học "Photon" tr. w. Số 70, Sverdlovsk, bộ phận vật lý lý thuyết của hiệp hội khoa học và kỹ thuật Norilsk.
+
+Tạp chí «Kvant» giải thưởng đã được nhận bởi: O. Barakin, M. Popov và hội khoa học sinh viên từ đó. w. Số 48 Volgograd.
+
+Khi kết thúc cuộc họp, chất lượng cao của các tác phẩm được trình bày đã được nhấn mạnh. 79 trong số đó đã tìm thấy nhiều ứng dụng khác nhau trong nền kinh tế quốc dân, 37 tác phẩm của học sinh, được hoàn thành trong các hiệp hội khoa học, đã được xuất bản trên các tạp chí và bộ sưu tập. Một số tác phẩm được trưng bày tại triển lãm.
+
+Các đại biểu của cuộc mít tinh bày tỏ lòng biết ơn chân thành sâu sắc đến các thầy cô đã đặt nền tảng kiến ​​thức cho những người tham gia mít tinh và các nhà khoa học trực tiếp giám sát công tác hội khoa học của các em học sinh.
+
+V. N. Berezin, A. N. Vilenkin
+B. G. Pshenicher, V. A. Tikhomiroda
+
+Thư viện K. D. Ushinsky là một kho phong phú các sách, tạp chí, báo sư phạm cũng như các phòng đọc được trang bị tốt... Nhưng trên hết, nó là người bạn trung thành, trợ thủ đắc lực cho các thư viện sư phạm khác, kể cả thư viện trường học.
+
+Thư viện cung cấp các dịch vụ thư mục phong phú cho giáo viên, nghiên cứu và phát triển các vấn đề về khoa học thư viện và thông tin thư mục khoa học.
+
+Chúng tôi chúc mừng tất cả nhân viên thư viện và chúc họ thành công rực rỡ trong công việc cao cả của mình.

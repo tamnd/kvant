@@ -1,0 +1,57 @@
+---
+id: 1975-1-524288-yaponskih-golovolomok-4b03be17
+issue: kvant_1975_1
+year: 1975
+number: "1"
+title: 524288 Câu đố tiếng Nhật
+rubric: smes
+page_first: 83
+page_last: 84
+tag: 8IO5
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 28885e15c9a62559860e0c1ad06e213a24fe8a4c74fcb9f8fdcc71eb9b9b58a9
+prompt_sha256: draft-1
+translated_from: content/ru/1975/01/articles/01_524288-yaponskih-golovolomok-4b03be17.md
+source_content_sha256: 8407ce0a599bb33613b0d3e4c0acebd4ecc34e42f4e1959601911998a7a87825
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+## 524288 CÂU ĐỐ NHẬT BẢN
+
+⟦figure⟧
+
+*Năm độc giả đầu tiên gửi đáp số sẽ được tặng gói đăng ký hàng năm cho «Kvant» và tên của họ sẽ được công bố trên tạp chí.*
+
+⟦column⟧
+
+Ở trang cuối cùng của trang bìa có một trong những câu đố sau: bạn cần đặt tất cả các hình màu xanh lam trên ô màu vàng.
+
+Hãy cùng tìm hiểu xem câu đố này được xây dựng như thế nào. Như bạn có thể thấy (xem hình trên trang bìa), trường màu vàng bao gồm bảy hình lục giác đều. Các hình vẽ được cấu tạo như thế nào? Hãy xem những hình nào có thể được gấp lại bằng cách nối các cạnh $n$ của các hình tam giác đều. Từ một, hai và ba hình tam giác, người ta tạo thành một hình: hình tam giác, hình thoi và hình thang (Hình 1). Ba hình được tạo thành từ bốn hình tam giác (Hình 2). Đúng, có thể cộng cái thứ tư, nhưng nó là hình ảnh phản chiếu của cái thứ ba và chúng tôi không tính đến nó. Năm hình tam giác tạo thành bốn hình (Hình 3). Mười hai hình được làm từ sáu hình tam giác. Hãy tự vẽ chúng. Hai mươi bốn hình được tạo thành từ bảy hình tam giác. Đây là những mảnh ghép của chúng tôi (hãy xem thử!).
+
+Một số hình có tên: bát, móc, gấu, v.v. Trong số các hình có 5 hình đối xứng và 19 hình không đối xứng. Bằng cách lật lại một số mảnh ghép, bạn sẽ có được một câu đố mới. Tổng cộng, bạn có thể nhận được $2^{19}$ câu đố bằng cách lật (tại sao?). Có thể đặt bất kỳ cái nào trong số chúng trên cùng một ô màu vàng không?
+
+Ngoài ra, hãy cố gắng ghép một số trường thú vị khác (ví dụ: hình thoi) từ 12 hình khác nhau, mỗi hình được tạo thành từ sáu hình tam giác.
+
+⟦figure⟧
+Cơm. 1.
+
+⟦figure⟧
+Cơm. 2.
+
+⟦figure⟧
+Cơm. 3.
+
+⟦folio none⟧
+
+Giá 30 kopecks.
+Chỉ số 70465
+
+1
+
+⟦figure⟧
