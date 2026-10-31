@@ -1,0 +1,39 @@
+---
+id: 1983-1-zadachi-ae185a5f
+issue: kvant_1983_1
+year: 1983
+number: "1"
+title: Bài toán
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 38
+page_last: 38
+page_labels: "36"
+tag: ORMC
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 72e762e98c9c3da818ebb8f73309a73a76714e3df46f85763f481e2285c11b35
+prompt_sha256: draft-1
+translated_from: content/ru/1983/01/articles/09_zadachi-ae185a5f.md
+source_content_sha256: 4524924e1e425df810636606ce21040fafbc0f9247b18107cc4dcccaf7ecc495
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 36⟧
+
+Nhiệm vụ
+
+1. Ivan Tsarevich đi đến bất cứ nơi nào mà mắt anh nhìn thấy để tìm kiếm Vasilisa Người đẹp, người đã bị Kash ăn thịt khi Leshy gặp anh. "Tôi biết," anh ta nói, "Tôi tình cờ đến đó trên đường đến vương quốc Kashevo. Tôi đã đi bộ bốn ngày bốn đêm. Ngày và đêm đầu tiên là một con đường thẳng về phía bắc, và tôi đã đi được một phần ba chặng đường. Sau đó anh ta rẽ về phía tây và tiếp tục băng qua khu rừng trong một ngày và đi hết nửa thời gian đó. Và trong ba ngày anh ta đi xuyên qua khu rừng, đã về phía nam, và đi ra một con đường thẳng dẫn về phía đông. Tôi đi dọc theo con đường đó một trăm dặm trong một ngày và kết thúc ở vương quốc của Kashevo. Bạn cũng là người đi bộ nhanh như tôi, đi đi, Ivan Tsarevich, hãy nhìn xem, vào ngày thứ năm bạn sẽ đến thăm Kashay.” “Không,” Ivan Tsarevich trả lời, “nếu mọi việc đúng như bạn nói, thì ngày mai tôi sẽ gặp Vasilisa the Beautiful của tôi.” Anh ấy có đúng không? Leshy đã đi được bao nhiêu dặm và Tsarevich Ivan nghĩ bao xa?
+
+2. Một số có ba chữ số được hình thành, trong đó một trong các chữ số trùng với bất kỳ số nào trong số 543, 142 và 562, còn hai chữ số còn lại không trùng nhau. Con số dự kiến ​​là bao nhiêu?
+
+3. Trong câu đố số này (xem hình) hầu như không có gì là chưa biết, nhưng nó chỉ cho phép một lời giải. Tìm anh ấy.
+
+4. Một quả bóng bàn được ném lên. Điều gì sẽ mất nhiều thời gian hơn - đi lên hay đi xuống?
+
+Những nhiệm vụ này đã được cung cấp cho chúng tôi
+V. Zhuravlev, V. V. Proizvolov,
+V. N. Denisenko, A. P. Savin.

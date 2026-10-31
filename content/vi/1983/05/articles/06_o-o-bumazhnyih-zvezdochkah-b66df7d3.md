@@ -1,0 +1,100 @@
+---
+id: 1983-5-o-o-bumazhnyih-zvezdochkah-b66df7d3
+issue: kvant_1983_5
+year: 1983
+number: "5"
+title: '[Giới thiệu về ngôi sao giấy]'
+authors:
+  - О. М.
+rubric: smes
+page_first: 22
+page_last: 22
+page_labels: "20"
+tag: IDJ3
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: b55dfb1c514db93feb6eb10534ed0e2e065c7229f7ad7f293998316ee478330f
+prompt_sha256: draft-1
+translated_from: content/ru/1983/05/articles/06_o-o-bumazhnyih-zvezdochkah-b66df7d3.md
+source_content_sha256: 24172399600df1cea1c66c4be35266e556e565f4238ecabc5c4d949b77e41bdb
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 20⟧
+
+99/70 xấp xỉ $\sqrt{2}$ với độ chính xác cao hơn 0,0001.
+
+Ví dụ 2. Phân số liên tục tuần hoàn có khoảng cách
+[2; 1, 1, 1, 4, 1, 1, 1, 4, 1, 1, 1, 4, ...].
+
+Có thể viết ngắn gọn như thế này:
+[2; $\overline{1, 1, 1, 4, 1, 1, 1, 4, 1, 1, 1, 4, ...}$].
+
+Hãy tìm số tương ứng. Nếu con số này được ký hiệu là $\alpha$ thì đẳng thức sẽ được thỏa mãn (tại sao?)
+
+$$\alpha = 2 + \frac{1}{|1|} + \frac{1}{|1|} + \frac{1}{|1|} + \frac{1}{|2+a|}$$
+
+hoặc, sau khi chuyển đổi,
+
+$$\alpha = \frac{21+8\alpha}{8+3\alpha}$$
+
+Theo sau $\alpha^2 = 7$, và vì $\alpha > 2$ nên chúng ta nhận được $\alpha = \sqrt{7}$.
+
+Dễ dàng thấy rằng phương pháp này có thể được sử dụng để tìm giá trị của phân số liên tục tuần hoàn bất kỳ.
+
+Xấp xỉ tốt nhất và phân số tiếp tục
+
+Giá trị gần đúng nhất của số $\alpha$ là phân số $\frac{p}{q}$ ($q > 0$) sao cho
+
+$$|q' \alpha - p'| > |q \alpha - p|$$
+
+cho tất cả $1 \leq q' < q$ và tất cả $p'$. Hội chợ
+
+Định lý. Mọi giá trị gần đúng nhất của $\alpha$ đều là một phân số phù hợp $\alpha$; đối với $k > 1$ thì điều ngược lại cũng đúng, nghĩa là, bất kỳ phân số phù hợp nào $\frac{p_k}{q_k}$ cho $k > 1$ đều mang lại giá trị gần đúng tốt nhất cho số $\alpha$.
+
+Chứng minh định lý này không khó và xin nhường lại cho bạn đọc. (Nếu khó chứng minh là không thể vượt qua, thì bạn có thể xem cuốn sách “Giới thiệu về lý thuyết xấp xỉ Diophantine” của S. Lang (M., Mir, 1970).
+
+Số tương đương
+
+Hai số $\alpha$ và $\beta$ được gọi là tương đương nếu
+
+$$\alpha = \frac{a\beta + b}{c\beta + d},$$
+
+trong đó $a, b, c, d$ là số nguyên và $ad - bc = 1$ hoặc - 1.
+
+Chúng ta hãy biểu thị bằng $\sigma$ và $\sigma_k$ (trong đó $k$ là số nguyên) các phép toán được xác định như sau:
+
+$$\sigma \alpha = \frac{1}{\alpha}, \quad \sigma_k \alpha = k + \alpha.$$
+
+Rõ ràng là bằng cách áp dụng $\sigma$ và $\sigma_k$ cho số $\alpha$, chúng ta luôn thu được một số tương đương. Cũng rõ ràng rằng việc sử dụng các hoạt động của biểu mẫu
+
+$$\sigma \sigma_k \alpha = \frac{1}{\alpha + k}, \quad \sigma_k \sigma_\alpha = k + \frac{1}{\alpha} = \frac{k\alpha + 1}{\alpha}$$
+
+cũng đưa ra ví dụ về các số tương đương với $\alpha$.
+
+Bài tập
+
+7. Chứng minh rằng nếu $\alpha$ và $\beta$ tương đương thì đích của số $k_1, k_2, \dots, k_j$ giống với $\beta = \sigma_k1 \sigma_k2 \dots \sigma_kj \alpha$.
+
+8. Giả sử các số $\alpha$ và $\beta$ có cùng khai triển phân số liên tục, bắt đầu bằng một số số $k$ và $S$, tức là
+
+$$\alpha = r_0 + \frac{1}{|r_1|} + \frac{1}{|r_2|} + \dots + \frac{1}{|r_k|} + \frac{1}{|d_1|} + \frac{1}{|d_2|} + \dots,$$
+
+$$\beta = h_0 + \frac{1}{|h_1|} + \frac{1}{|h_2|} + \dots + \frac{1}{|h_s|} + \frac{1}{|d_1|} + \frac{1}{|d_2|} + \dots$$
+
+Chứng minh rằng các số $\alpha$ và $\beta$ là tương đương nhau.
+
+9. Chứng minh rằng nếu các số $\alpha$ và $\beta$ bằng nhau thì các phân số liên tục của chúng có dạng (3).
+
+(Tiếp tục ở số tiếp theo)
+
+bìa của chúng tôi
+
+Những ngôi sao giấy ở trang đầu tiên của trang bìa không chỉ là vật trang trí cho ngày lễ đầu tiên. Chúng được kết nối với toán học và với sự phát triển của các ngành của nó. Một mặt, đây là mô hình khối đa diện sao, đã được viết trong «Kvant» (1973, số 5, trang 26), và do đó chúng liên quan đến lý thuyết đối xứng trong không gian (hình học, lý thuyết nhóm). Mặt khác, những ngôi sao này tiếp xúc với lý thuyết về nút thắt (xem «Kvant», 1975, Số 7, trang 6 hoặc 1981, Số 3, trang 8) và với cái gọi là lý thuyết
+
+Bím tóc Trong lý thuyết về bím tóc, các phương pháp đại số được sử dụng để nghiên cứu kỹ thuật dệt bím tóc bằng các vòng xoắn hoặc dải, và các ngôi sao của chúng ta được dệt chính xác từ các dải giấy. Chúng ta sẽ thảo luận về cách thực hiện điều này trong một trong những số sắp tới của tạp chí.
+
+O.M.

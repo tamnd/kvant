@@ -1,0 +1,59 @@
+---
+id: 1983-7-gelfand-o-desyatichnoy-zapisi-nekotoryih-chisel-2315b5a2
+issue: kvant_1983_7
+year: 1983
+number: "7"
+title: Về ký hiệu thập phân của một số số
+authors:
+  - Гельфанд М. С.
+rubric: smes
+page_first: 27
+page_last: 27
+page_labels: "25"
+tag: PAB5
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 1cd33f7d99a00922322203969898d97c48a05247d57e8299dae3260a026635d4
+prompt_sha256: draft-1
+translated_from: content/ru/1983/07/articles/03_gelfand-o-desyatichnoy-zapisi-nekotoryih-chisel-2315b5a2.md
+source_content_sha256: 4b2b60977469dd22fba4bf49d881b7f0563f187aaf886a91c83327df21164d22
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 25⟧
+
+Do đó, nếu nhân phương trình thứ nhất của hệ (5) với 2, phương trình thứ hai với 25 rồi cộng lại thì cặp (3; -1) sẽ thỏa mãn phương trình thu được (chúng ta ký hiệu là (*)). Các cặp (-1; 1) và (1; 0) rõ ràng cũng thỏa mãn phương trình (*). Như vậy hệ phương trình
+$$\left\{ y = -\frac{x}{2} + \frac{1}{2} \right\}$$
+
+có ít nhất ba lời giải khác nhau. Mặt khác, thay thế biểu thức của $y$ đến $x$ từ phương trình thứ hai của hệ (6) vào phương trình thứ nhất, chúng ta thu được cho $x$ một phương trình không cao hơn bậc hai. Điều này có nghĩa là phương trình (*) sau khi thay thế $y = -\frac{x}{2} + \frac{1}{2}$ trở thành đẳng thức (xét cho cùng, phương trình bậc $n \leq 2$ không thể có nhiều hơn hai nghiệm). Do đó, bất kỳ lời giải nào của phương trình $y + \frac{x}{2} - \frac{1}{2} = 0$ đều là nghiệm của phương trình (*). Do đó, điều tự nhiên khi cho rằng vế trái của phương trình (*) bị phân hủy thành các thừa số, một trong số đó là $y + \frac{x}{2} - \frac{1}{2}$
+
+Về ký hiệu thập phân của một số số
+
+Trong hai cuốn sách do nhà xuất bản Prosveshcheniye xuất bản năm 1980, về ý nghĩa của các số $n$ và $e$, người ta nói rằng 707 chữ số thập phân đã được tìm thấy cho $n$ và hơn hai nghìn cho $e$. Hãy để chúng tôi trình bày dữ liệu đầy đủ hơn về những con số này và một số con số khác thu được bằng máy tính.
+
+Vào năm 1961, người ta đã tìm thấy 100.625 chữ số thập phân cho số $n$ và 100.265 chữ số thập phân cho số $e$. Năm 1964, hơn một triệu chữ số của số $e$ đã được tính toán, và vào năm 1967 - 500.000 chữ số của số $n$, nhưng những kết quả này không được công bố.
+
+Đối với ký hiệu số $1 : \frac{1+\sqrt{5}}{2}$ (“vàng”)
+
+2.878 ký tự được tính toán.
+
+Vào năm 1970–71, người ta đã thu được một triệu chữ số của số $\sqrt{2}$. Khi kiểm tra kết quả, hãy bình phương nó ra là một, theo sau là dấu thập phân và 1.000.082 số chín.
+
+Về số nguyên tố lớn. Năm 1963, số nguyên tố Mersen thứ 23 $^*$) $2^{11 213} - 1$ được tìm thấy. Nó chứa 3.376 chữ số và được trình bày đầy đủ trong cuốn sách “Tiểu thuyết toán học” của M. Gardner, 1974, tr. 349.
+
+Năm 1971, số thứ 24 $2^{19 937} - 1$ được tìm thấy, năm 1978 - số thứ 25 $2^{21 701} - 1$, và năm 1979 - số thứ 26 $2^{23 209} - 1$ và số thứ 27 $2^{44 497} - 1$.
+
+Chúng ta hãy tìm các chữ số của các chữ số, cũng như một số chữ số đầu tiên và cuối cùng của số Mersen cuối cùng được liệt kê. Các số $2^p - 1$ và $2^p$ có cùng số chữ số. Thật vậy, nếu $2^p$ có ​​thêm một chữ số thì kết thúc của nó sẽ là 0. Nhưng điều này là không thể, vì không có một lũy thừa nào của 2 tận cùng bằng 0. Vậy chữ số của số nguyên tố Mersen thứ 27 bằng số chữ số của $2^{44 497}$. Chúng tôi có:
+
+$$\lg 2^{44 497} = 44 497 \cdot \lg 2 = 44497 \cdot 0,3010 2999 57 = 13394,93172.$$
+
+Đặc trưng của logarit là 13394, do đó, bản thân số này có 13.395 chữ số. Giá trị lớn của logarit là 93.172, vì vậy số bắt đầu bằng các chữ số 8545.
+
+Có thể chứng minh được ba chữ số tận cùng sẽ là 6, 7 và 1. Vậy:
+
+$$2^{44 497} - 1 = 8545...671.$$
+
+M. S. Gelfand

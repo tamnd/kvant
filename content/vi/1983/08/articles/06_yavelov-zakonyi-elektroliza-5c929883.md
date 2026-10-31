@@ -1,0 +1,57 @@
+---
+id: 1983-8-yavelov-zakonyi-elektroliza-5c929883
+issue: kvant_1983_8
+year: 1983
+number: "8"
+title: Định luật điện phân
+authors:
+  - Явелов Б. Е.
+rubric: raznoe
+rubric_sub: Разное
+page_first: 27
+page_last: 27
+page_labels: "25"
+tag: XWH5
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: f0346513dc4908026683517ab455a4530c998f6304c96ba670f98e1faa0b534c
+prompt_sha256: draft-1
+translated_from: content/ru/1983/08/articles/06_yavelov-zakonyi-elektroliza-5c929883.md
+source_content_sha256: 8909283693219d437f6a77fe423bc90672772585f137b45c374c29d8c57953a7
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 25⟧
+
+Theo định lý Borsuk-Ulam, điều này là không thể. Thật vậy, nếu cho tọa độ liên tục x(P) và y(P)(P∈S) trên mặt cầu S, theo định lý này, thậm chí sẽ có các đối cực P₀, P'₀∈S, trong đó x(P)=x(P'₀), y(P₀)=y(P'₀).
+
+Một số khái quát
+
+Nếu bạn phân tích cẩn thận tiến trình chứng minh định lý “con ngựa”, bạn sẽ thấy rằng việc điểm A và A' đối diện nhau về mặt đường kính không quá quan trọng. Mọi lập luận vẫn đúng, chẳng hạn, khi thay vì tâm O, chúng ta lấy một điểm bên trong tùy ý O₁ của đường tròn và dưới A và L', chúng ta đặt các đầu của dây cung đi qua O₁. Bạn có thể làm tương tự với định lý trường 0 và định lý Borsuk-Ulam (Hình 8). Điều quan trọng ở đây là với định nghĩa mới về điểm P' tính chất (P'')=P được giữ nguyên.
+
+Bất kỳ ánh xạ liên tục P→P' nào có đặc tính này đều được gọi là liên quan. Nhà toán học Liên Xô A. Fet, bằng cách sử dụng các phương tiện cấu trúc liên kết tinh vi và mạnh mẽ, đã phát hiện ra rằng định lý Borsuk-Ulam (sau đây gọi là phiên bản n chiều của nó) vẫn có hiệu lực nếu một phép biến đổi P→P' tùy ý được đưa ra trên mặt cầu S. Đây là công thức chính xác của phát biểu này cho không gian ba chiều:
+
+Cho một phép nghịch đảo tùy ý P→P' trên mặt cầu S. Với mỗi cặp hàm f(P) và g(P) liên tục trên S, tồn tại một điểm P₀∈S sao cho f(P'₀)=f(P₀), g(P'₀)=g(P₀).
+
+Độc giả muốn làm quen hơn với các khái niệm cơ bản của cấu trúc liên kết, chúng tôi khuyên bạn nên đọc cuốn sách nổi tiếng được viết xuất sắc của N. Steenrod và W. Chinn “Những khái niệm đầu tiên về cấu trúc liên kết” (M., Mir, 1967) *. Cuốn sách này chứa đựng một cách chứng minh đầy đủ và chặt chẽ hơn về định lý Borsuk-Ulam, cũng như một số định lý “ngon miệng” khác (ví dụ: “định lý bánh kếp”, “định lý cắt giăm bông”).
+
+*) Xem thêm cuốn sách của V. G. Boltyansky và V. A. Efremovich “Visual Topolgia” (M., Nayka 1982).
+
+Lịch của chúng tôi
+
+Định luật điện phân
+
+Vào đầu năm 1833, Faraday đã báo cáo với Hiệp hội Hoàng gia Luân Đôn về các thí nghiệm của mình, lần đầu tiên chứng minh sự tồn tại chính xác của nhiều loại chất điện khác nhau - “nói chung”, phát sinh do ma sát, zalvanic, nhiệt điện, điện thu được bằng cảm ứng và cái gọi là chất điện động vật (được tìm thấy ở một số loài cá và động vật biển). Bản chất của việc chứng minh một trạng thái là chứng minh tính giống nhau của các “tác dụng”, các lực điện tùy ý của các quá trình khác nhau.
+
+Trong số các tác dụng khác (chẳng hạn như tác động sinh lý hoặc từ tính), Faraday cũng nghiên cứu tác dụng hóa học. Nghiên cứu này đã đưa ông đến kết luận mà sau này được gọi là định luật Faraday đầu tiên về điện phân: tác dụng hóa học của dòng điện tỷ lệ thuận với lượng tuyệt đối đi qua của dòng điện (một cách tự nhiên, công thức của Faraday hơi khác so với công thức hiện đại). Định luật này được xây dựng trên cơ sở một loạt các thí nghiệm được tính toán cẩn thận và được tiến hành một cách thành thạo, trong đó Faraday đã phát hiện ra một định luật khác, ngày nay được gọi là định luật thứ hai của Faraday: đương lượng điện hóa tương ứng với đương lượng hóa học.
+
+Faraday đã viết xong một báo cáo về những thí nghiệm này vào ngày 31 tháng 12 năm 1833 và xuất bản nó vào năm 1834. Đó là lý do tại sao sau này họ viết rằng các định luật Faraday được phát hiện vào năm 1833 và những định luật khác - vào năm 1834.
+
+Việc thiết lập các định luật định lượng chính xác của điện phân vào thời đó không phải là một nhiệm vụ dễ dàng. Faraday đã làm được điều này, trong nhiều trường hợp nhờ việc phát minh ra một thiết bị - vôn kế, lần đầu tiên thiết bị này có thể thay đổi lượng điện.
+
+Chúng ta cũng hãy lưu ý rằng chính trong quá trình mô tả những nghiên cứu này của Faraday, các thuật ngữ cần thiết cho chúng ta hiện nay, chẳng hạn như chất điện phân, điện phân, cực dương, cực âm, cực âm, v.v., cũng đã được đưa vào vật lý.
+
+Ngoài thực tế là các định luật Faraday hình thành nên nền tảng của điện hóa học, chúng còn đóng một vai trò rất quan trọng trong lịch sử phát triển của vật lý: lần đầu tiên, ý tưởng về bản chất rời rạc của năng lượng điện, sự tồn tại của “nguyên tử năng lượng điện” (theo thuật ngữ hiện đại - electron).

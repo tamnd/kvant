@@ -1,0 +1,48 @@
+---
+id: 1983-2-kozhushner-holodnyiy-vzryiv-c574769c
+issue: kvant_1983_2
+year: 1983
+number: "2"
+title: Vụ nổ lạnh
+authors:
+  - Кожушнер М. А.
+rubric: novosti-nauki
+rubric_sub: Новости науки
+page_first: 22
+page_last: 22
+page_labels: "20"
+tag: AO98
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 7c0516b534a8410d6b387f86779b3f9e9433017836b0f7758e066c4399687d90
+prompt_sha256: draft-1
+translated_from: content/ru/1983/02/articles/05_kozhushner-holodnyiy-vzryiv-c574769c.md
+source_content_sha256: 3e5ad80ba640d9401ad38070a992d315697055f442738f3ef3031bc2b0ece3f5
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 20⟧
+
+Vụ nổ lạnh
+
+Tiến sĩ Khoa học Vật lý và Toán học
+M. A. KOZHUSHNER
+
+Năm 1980, các nhà nghiên cứu từ Viện Vật lý Hóa học thuộc Viện Hàn lâm Khoa học Liên Xô đã phát hiện ra một hiện tượng mới thú vị: một hỗn hợp có khả năng phản ứng hóa học phát nổ không phải khi đun nóng mà khi nguội.
+
+Vụ nổ hỗn hợp metylcyclohexan và clo xảy ra ở nhiệt độ khoảng 10 K.
+
+Mọi người đều biết rằng cái lạnh làm chậm các quá trình hóa học và các phản ứng dữ dội - vụ nổ - xảy ra khi đun nóng. Theo quy luật, một phản ứng hóa học dẫn đến vụ nổ nhiệt lớn diễn ra theo cơ chế dây chuyền: hỗn hợp được làm nóng và ở nhiệt độ nhất định, do sự tương tác của các phân tử, số lượng hạt phản ứng (gốc) trong hỗn hợp quay trở lại như một trận tuyết lở. Đồng thời, sự giải phóng nhiệt thậm chí còn giảm nhanh hơn. Nếu nhiệt thoát ra trong phản ứng không có thời gian để loại bỏ thì nhiệt độ của hỗn hợp sẽ tăng nhanh đến mức phản ứng sẽ có tính chất của một vụ nổ.
+
+Vụ nổ lạnh diễn ra theo cơ chế dây chuyền tương tự. Các gốc ban đầu - các nguyên tử clo có hoạt tính hóa học - được tạo ra bằng tia laser: một lượng tử ánh sáng phá vỡ các phân tử clo thành hai nguyên tử. Hỗn hợp sau đó nguội đi nhanh chóng, tạo thành thủy tinh vô định hình. Ở nhiệt độ từ 60 K đến 10 K, một vụ nổ bắt đầu. Nồng độ gốc cơ bản càng thấp thì nhiệt độ hỗn hợp sẽ nổ càng thấp
+
+las. Nhiệt độ cao làm chậm phản ứng.
+
+Nguyên nhân dẫn đến hiện tượng nghịch lý như vậy là gì? Các tác giả của thí nghiệm tuyên bố sự hiện diện của nó trong mẫu biến dạng skatium, phát sinh cả trong quá trình đóng băng nhanh chóng của hỗn hợp và trong chính phản ứng.
+
+Người ta biết rằng ở nhiệt độ cao, năng lượng của các hạt hoạt động hóa học tăng lên và chúng có thể kết hợp với nhau nhiều đến mức có thể xảy ra tương tác hóa học giữa chúng. Trong chất rắn, có thể đạt được sự gắn kết giữa các hạt hoạt động hóa học do biến dạng. Hơn nữa, nhiệt độ càng cao thì các biến dạng được giải quyết (thư giãn) càng nhanh. Năng lượng của họ biến thành năng lượng ấm áp. Ngược lại, ở nhiệt độ thấp hơn, các biến dạng không có thời gian giãn ra mà nóng lên như một trận tuyết lở và phản ứng bắt đầu diễn ra với tốc độ ngày càng tăng. Một vụ nổ lạnh xảy ra (có thể gọi là vụ nổ biến dạng).
+
+Nhưng làm thế nào các phân tử thư giãn có thể phản ứng ở nhiệt độ thấp (chỉ cao hơn độ không tuyệt đối vài độ!)? Rốt cuộc, khi va chạm, chúng bắt đầu đẩy nhau, nhưng ở gần độ không tuyệt đối, chuyển động của các phân tử chậm lại và năng lượng của chúng không đủ để thắng được lực đẩy. Như người ta nói, có một rào cản năng lượng cần có động năng để vượt qua. Tuy nhiên, ở nhiệt độ thấp, mọi hành vi của hạt đều đều đặn, đặc biệt là cái gọi là hiệu ứng đường hầm. Nó nằm ở chỗ các hạt có thể vượt qua các rào cản năng lượng mà không có năng lượng vượt quá các rào cản đó; Nói một cách hình tượng, chúng không đi qua hàng rào mà xuyên qua nó, như thể đi qua một đường hầm, hội tụ đến một khoảng cách mà phản ứng bắt đầu. Hiệu ứng này rõ ràng có thể tạo ra một vụ nổ lạnh.

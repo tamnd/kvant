@@ -1,0 +1,62 @@
+---
+id: 1983-4-gik-doska-pod-ohranoy-91570a91
+issue: kvant_1983_4
+year: 1983
+number: "4"
+title: Hội đồng quản trị được bảo vệ
+authors:
+  - Гик Е. Я.
+rubric: shahmatnaya-stranichka
+rubric_sub: Шахматы
+page_first: 67
+page_last: 67
+tag: PVSJ
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 0b0be2df6277190948adf1948ae12fdf460d6a6a8677009d429f884a1c61cd95
+prompt_sha256: draft-1
+translated_from: content/ru/1983/04/articles/02_gik-doska-pod-ohranoy-91570a91.md
+source_content_sha256: 3e053c649a42476b24cc954c2f2276c677dd662ef50d06ae0c5d0fd993a9d28c
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+HỘI ĐỒNG ĐƯỢC BẢO VỆ
+
+Trong số gần đây nhất của tạp chí, chúng ta đã nói về các bài toán tổ hợp trên bàn cờ liên quan đến việc sắp xếp một số lượng lớn các quân cờ không đe dọa lẫn nhau. Một loại câu đố cờ vua phổ biến khác bao gồm việc sắp xếp số lượng quân cờ nhỏ nhất để giữ cho tất cả các ô trống trên bàn cờ được che kín, đếm số cách sắp xếp như vậy và tổng quát hóa bài toán thành các bàn $n \times n$.
+
+Nữ hoàng. Năm quân hậu ở các ô c6, d3, e5, f7, g4 bảo vệ toàn bộ bàn cờ. Số lượng đội hình như vậy là 4860. Điều gây tò mò là gót chân của các nữ hoàng cũng được lấy cho các bến tàu bảo vệ $9 \times 9$, $10 \times 10$ và thậm chí $11 \times 11$. Trong trường hợp chung bài toán số quân hậu giữ tất cả các ô trống của bàn cờ $n \times n$ chưa được giải quyết; chỉ có một số ước tính (xem «Kvant», 1977, số 12).
+
+Xe. Có sự rõ ràng hoàn toàn ở đây. Trên bàn cờ $n \times n$ bạn cần đặt chính xác $n$ quân xe để chúng bắn vào tất cả các ô của bàn cờ, số vị trí là $2n^n$—n! (n! là tích của tất cả các số nguyên từ 1 đến $n$).
+
+Voi. $n$ Các giám mục được đặt dọc theo một trong các trục dọc trung tâm (ngang) của bảng sẽ canh giữ tất cả các ô trống của bảng, tức là trên bảng hứa, 8 giám mục sẽ đảm nhiệm nhiệm vụ của họ. Công thức tính số cách sắp xếp có thể có của $n$ quân trên một bảng $n \times n$ có ​​dạng khá rườm rà: $((2k-1)!(4k^2+k))^2$ cho $n=4k+2$, $2(k!)^2(k+2)$ cho $n=2k+1$ (k>0).
+
+Các vị vua. Bất kỳ số tự nhiên $n$ nào cũng có thể được biểu diễn theo một trong các cách sau: $n=3k, n=3k-1, n=3k-2$, trong đó $k$ là một số tự nhiên ($k=[(n+2)/3]$). Số lượng vua nhỏ nhất bảo vệ toàn bộ bàn cờ $n \times n$ là $k^2$. Đặc biệt, đối với $n=8$ chúng ta có $k=3$ và 9 vị vua (ví dụ: trên các ô b2, b5, b8, e2, e5, e8, h2, h5, h8) sẽ hoàn thành funkini của họ. Công thức về số cách sắp xếp vẫn chưa được biết.
+
+Connie. Trong trường hợp tổng quát, đối với bảng $n \times n$ bài toán không giải được. Trên bảng hứa, bạn có thể đặt 12 hiệp sĩ canh gác tất cả các ô trống trên bảng (b6, c2, c3, c5, c6, d3, e6, f2, f3, f6, f7, g2).
+
+Con tốt. Có 29 con tốt trên bảng hứa hẹn về an ninh. Chúng có thể được đặt trên chiều ngang đầu tiên và trên các chiều dọc a, d và g. Hãy tự mình tìm số cách sắp xếp trong trường hợp tổng quát (trên bảng $n \times n$).
+
+Trong các nhiệm vụ không phải bát phân về bảo vệ bàn cờ $8 \times 8$, không chỉ các ô trống đang được chiến đấu mà còn phải bị các quân cờ chiếm giữ. Năm quân hậu thỏa mãn điều kiện này có thể được đặt trên các ô a2, c4, d5, e6, g8. Tám quân xe đứng dọc theo hàng trước hoặc hàng dọc cũng bao phủ tất cả các ô của bàn cờ. Đối với các quân cờ khác, cần nhiều hơn một chút để bảo vệ tất cả các bàn cờ: hiệp sĩ - 14, chữ - 10, vua - 12.
+
+Trong những nhiệm vụ như vậy không cần thiết phải có những con số rõ ràng. Năm quân hậu đối phó với bàn cờ, nhưng hai trong số chúng có thể được thay thế bằng quân xe (quân hậu b7, d1, f7, quân d3, h5) hoặc thậm chí quân xe và quân tượng (quân hậu b4, f2, h6, quân xe d8, quân hậu e5), và trong cách sắp xếp đầu tiên, tất cả 64 ô vuông trên bàn cờ đều được bao phủ. Các quân hậu có thể đi cùng với một hiệp sĩ hoặc một vị vua (các quân hậu d6, e4, f5, g7 và hiệp sĩ cl hoặc vua b2).
+
+Có thể đặt một bộ quân cờ hoàn chỉnh (không có quân tốt) lên bàn cờ để chúng giữ được tất cả 64 ô vuông trong lửa không?
+
+Điều kỳ lạ là tám quân chỉ có thể bảo vệ toàn bộ bàn cờ nếu các quân tượng cùng màu.
+
+Nếu các quân tượng có màu khác nhau thì một ô luôn không được bảo vệ, và người ta đã chứng minh rằng ô còn lại của bàn cờ có thể không được bảo vệ. Nếu chúng ta muốn các ô trống trên bàn cờ được phòng thủ thì bảy quân là đủ: Kb4, Qg2, Rf8, Rh1, Nc7, Ke5, Cc5.
+
+Cạnh tranh bài toán
+
+Tháng Tư là một mớ hỗn độn “vũ trụ” và đó là lý do tại sao hôm nay chúng tôi cung cấp hai bài toán về chủ đề không gian. Bức đầu tiên được dành riêng cho V. Tereshkova và Yu. Gagarin. Chữ cái đầu tiên "T" được chuyển thành chữ "G" trong quá trình lời giải. Trong trò chơi có hai nước đi, sự sắp xếp ban đầu của các quân cờ mô tả một gói hàng đang lao tới các vì sao.
+
+7. Chiếu hết trong 5 nước đi.
+
+8. Chiếu tướng trong 2 nước đi.
+
+Hạn chót gửi lời giải là ngày 25/6/1983 (có ghi chú trên phong bì “Thi cờ «Kvant», nhiệm vụ 7, 8”).

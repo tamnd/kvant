@@ -1,0 +1,38 @@
+---
+id: 1983-9-bibliotechka-kvant-b786c12e
+issue: kvant_1983_9
+year: 1983
+number: "9"
+title: Thư viện «Kvant»
+rubric: retsenzii-bibliografiya
+rubric_sub: Рецензии, библиография
+page_first: 59
+page_last: 59
+tag: HWMC
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: a6bc64d850e5583edf276f06334330fd7bc7c016440a396e3a3c44ed7e087c21
+prompt_sha256: draft-1
+translated_from: content/ru/1983/09/articles/21_bibliotechka-kvant-b786c12e.md
+source_content_sha256: 5e2bcd530b4ce0a4b99be5301ea707385a6f9a96a92a0b56f579f9d1dca9075f
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+Thư viện «Kvant»
+
+Từ năm 1981, nhà xuất bản Nauka của Viện Hàn lâm Khoa học Liên Xô đã xuất bản một loạt sách khoa học phổ thông, Thư viện «Kvant», dành riêng cho học sinh. Tác giả của những cuốn sách này là những nhà khoa học nổi tiếng làm việc trong nhiều lĩnh vực vật lý và toán học. Họ nói chuyện một cách thú vị và dễ hiểu về khoa học ngày nay, về những ý tưởng, thí nghiệm mới và tất nhiên là về ứng dụng thực tế của khoa học. Các cuốn sách trong bộ sách này nổi bật ở chỗ chúng không chỉ mô tả các sự kiện và hiện tượng, đặt ra các định lý và định luật vật lý, mà khi thực hiện được điều này, chúng còn đưa ra những giải thích sâu sắc, đưa ra những đánh giá định tính và đôi khi định lượng. Vì vậy, sách không chỉ cung cấp thông tin cho người đọc mà còn dạy người đọc tư duy, hình thành những ý tưởng vật lý, toán học và thế giới quan đúng đắn. Trong số những cuốn sách trong bộ này cũng có những cuốn đi sâu vào các vấn đề của các khóa học vật lý và toán học ở trường. Một số cuốn sách giải toán với những bài toán phi tiêu chuẩn thú vị đã được xuất bản. Khoảng 30 số của bộ truyện hiện đã được xuất bản. Chúng tôi muốn nói về một số cuốn sách mà độc giả có thể làm quen vào năm 1984.
+
+Có thể tưởng tượng một chiếc xe số tự động có thân xe sau một vụ tai nạn sẽ lấy lại hình dạng nếu nó chỉ được làm nóng? Nó có vẻ khó khăn. Trong khi đó, một chiếc xe số tự động như vậy đã có thể được chế tạo từ các hợp kim kim loại đặc biệt để “ghi nhớ” hình dạng ban đầu của nó. Hiệu quả này của “bản ghi nhớ” về kim loại, vật liệu mới và tính siêu đàn hồi được mô tả trong cuốn sách của V. A. Zaimovsky và T. L. Kolupaeva “Các đặc tính không dạy của kim loại vật thể”.
+
+Cuốn sách “Giới thiệu về chất bán dẫn” của M.E. Levinshtein và G.S. Simin nói về nhiều hiệu suất thú vị trong chất bán dẫn, cũng như cách chúng có thể được sử dụng để thay đổi nhiệt độ, biến dạng và từ trường.
+
+Từ cuốn sách “Sao và Vật lý” của A. D. Chernin, người đọc sẽ tìm hiểu về các vật thể vật lý thiên văn đáng kinh ngạc được các nhà khoa học phát hiện gần đây - sao xung, chuẩn tinh, các ngôi sao RENTEN rực sáng, về những giả thuyết mới nhất, về những bí ẩn của vật lý thiên văn mà các nhà khoa học vẫn chưa giải đáp được.
+
+Tạp chí «Kvant» đã có mục «Kvant» cho học sinh nhỏ trong nhiều năm. Nó xuất bản các bài báo yêu cầu kiến ​​thức vật lý và toán học lớp 6-7 mới hiểu được. Những bài viết hay nhất trong phần này được trưng bày trong tuyển tập “Thông tin về vật lý và toán học” (do S. S. Krotov và A. P. Savin biên soạn). Cuốn sách cũng bao gồm khoảng 100 bài toán thú vị và mô tả về những trải nghiệm tao nhã mà người đọc có thể tái tạo tại nhà.
+
+Tổng cộng, vào năm 1984, nhà xuất bản Nauka có kế hoạch phát hành 10 cuốn sách trong bộ Thư viện «Kvant». Đơn đặt hàng cho họ có thể được đặt trong các hiệu sách.

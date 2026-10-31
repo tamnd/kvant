@@ -1,0 +1,32 @@
+---
+id: 1983-3-elektricheskiy-razryad-v-laboratorii-e7f5caf3
+issue: kvant_1983_3
+year: 1983
+number: "3"
+title: Phóng điện trong phòng thí nghiệm
+rubric: smes
+page_first: 27
+page_last: 27
+page_labels: "25"
+tag: HN91
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: acd73fb4e3fb600c2477ed938b7a4489de5d6146cd93a32297234503a525fadf
+prompt_sha256: draft-1
+translated_from: content/ru/1983/03/articles/08_elektricheskiy-razryad-v-laboratorii-e7f5caf3.md
+source_content_sha256: 02bb4944420c5aa644d58b70222d741dc6c894d54a041144019a7da52d66ab32
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 25⟧
+
+Phóng điện trong phòng thí nghiệm
+
+Bức ảnh sao chép trên trang đầu tiên của trang bìa được chụp trong phòng thí nghiệm giáo dục của Khoa Chỉ đạo Kỹ thuật của Lênin và Huân chương của Viện Năng lượng Cộng hòa Tháng Mười, một trong những trường đại học kỹ thuật hàng đầu trong nước.
+
+Bức ảnh cho thấy một phần của phòng thí nghiệm lắp đặt, với sự trợ giúp của các phương pháp bảo vệ thiết bị điện áp cao được phát triển. Đặc biệt, nó sử dụng sự phụ thuộc của điện áp do dạng sương mù của quá trình phóng điện vào điện dung của khe phóng điện.
+
+Một điện cực hình bán cầu có thể nhìn thấy được ở phía trước. Phía sau là một tấm kính, xa hơn nữa là một mặt phẳng bằng kim loại. Một điện áp cao được tạo ra giữa điện cực và mặt phẳng. Sự phóng điện phát sinh dọc theo bề mặt kính, trải qua các giai đoạn khác nhau liên tiếp (đầu tiên là quầng sáng, sau đó là tia lửa điện và cuối cùng là phóng điện hồ quang). Bức ảnh cho thấy quá trình chuyển đổi phóng điện hào quang thành phóng điện tia lửa điện.

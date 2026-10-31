@@ -1,0 +1,62 @@
+---
+id: 1983-3-gik-figuryi-v-bezopasnosti-816454dd
+issue: kvant_1983_3
+year: 1983
+number: "3"
+title: Các số liệu đều an toàn
+authors:
+  - Гик Е. Я.
+rubric: shahmatnaya-stranichka
+rubric_sub: Шахматы
+page_first: 67
+page_last: 67
+tag: ZZBY
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: bf1be29c25cea199148ae7875a26ab4765e679e0d47b1cd0db28391db17a737b
+prompt_sha256: draft-1
+translated_from: content/ru/1983/03/articles/02_gik-figuryi-v-bezopasnosti-816454dd.md
+source_content_sha256: cb9415ee92c690ea9c91fa19b589d32a467359d97e414185be700fff9a1fac1a
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+CÁC CON SỐ AN TOÀN
+
+Một trong những bộ tổ hợp phổ biến nhất bài toán trên bàn cờ là đặt trên đó số lượng lớn nhất các quân nhất định không đe dọa lẫn nhau, cũng như đếm số cách sắp xếp được chỉ định. Cả hai bài toán này không chỉ được đặt cho bảng 8×8 chung mà còn cho bất kỳ bảng vuông n×n nào. Lời giải Một số trong số bài toán này đã được nhiều người biết đến, một số khác rất phức tạp và vẫn chưa được giải quyết.
+
+Nữ hoàng. Trên một bàn cờ chung, bạn có thể đặt 8 quân hậu để chúng không đe dọa lẫn nhau. Số cách sắp xếp là 92, trong đó có 12 cách cơ bản (tôi nói về điều này trong «Kvant», 1983, số 1).
+
+Rõ ràng trên bàn cờ có n×n nhiều hơn n quân hậu không đe dọa được nhau nên chúng ta có thể sắp xếp càng nhiều càng tốt. Hóa ra với tất cả n ngoại trừ n=2 và n=3, số lượng quân hậu tối đa an toàn bằng n (trên bàn cờ 2x2 có một quân hậu, trên bàn cờ 3x3 có hai quân hậu). Bằng chứng của thực tế này không đơn giản lắm; nó có thể được tìm thấy trong nhiều cuốn sách khác nhau về toán học. Các số lời giải tương ứng chỉ được biết với n 14 và máy tính đã được sử dụng để tìm chúng.
+
+Băn khoăn. Số lượng quân xe không đe dọa nhau tối đa cũng là n, và số đội hình là n!=1·2···n.
+
+Voi. Số lượng quân tượng tối đa không đe dọa lẫn nhau trên bàn cờ n×n là 2n-2 (n>1). Tượng có thể được đặt dọc theo toàn bộ đường ngang đầu tiên và trên đường ngang cuối cùng, ngoại trừ các góc.
+
+Tổng cộng có 2^n cách sắp xếp.
+
+Connie. Rõ ràng, đặt 32 quân mã trên một ô trắng hoặc một ô đen trên một bàn cờ chung, chúng ta sẽ có hai vị trí quân mã không đe dọa lẫn nhau. Hãy đảm bảo rằng có thể sắp xếp nhiều hơn đồ ngọt có những đặc tính này và nó có tất cả hai lựa chọn. Hãy để các hiệp sĩ được đặt theo cách cần thiết trên bàn cờ. Hãy tận dụng thực tế là trên bàn cờ 8x8 có một tuyến hiệp sĩ khép kín trên toàn bộ bàn cờ. Vì trong tuyến đường này, sau mỗi ô có quân mã từ sự sắp xếp của chúng ta phải có một ô trống, các quân mã không được chiếm quá một nửa bàn cờ! Nếu cối xay của bàn cờ chứa đầy các hiệp sĩ, thì 32 hiệp sĩ này phải đi theo một người trên con đường đã chọn, tức là họ nằm trên các cánh đồng cùng màu.
+
+Tương tự, người ta chứng minh rằng với n chẵn có thể đặt lên bàn cờ nhiều nhất n^2/2 hiệp sĩ không đe dọa lẫn nhau và đối với n—(n^2+1)/2 hiệp sĩ lẻ. Trong trường hợp đầu tiên, có thể có hai đội hình một quân, và trong trường hợp thứ hai, chỉ có một (các hiệp sĩ đứng trên các ô vuông có màu lớn hơn trên bàn cờ).
+
+Các vị vua. Hãy biểu diễn số n dưới dạng n=2k hoặc tương ứng là n=2k-1. Có thể chứng minh rằng trên bàn cờ n×n có ít hơn k^2 quân vua không đe dọa nhau, tức là không đứng cạnh nhau. Trên một bàn cờ chung, 16 quân vua (k=4) được đặt theo cách thức yêu cầu theo 287571 cách. Ví dụ: quân Vua có thể được đặt trên tất cả các ô liên kết đơn có cấp bậc chẵn hoặc lẻ. Công thức chung cho số cách sắp xếp trên bảng n×n vẫn chưa được biết.
+
+Con tốt. Chúng ta hãy biểu diễn lại số n dưới dạng n=2k hoặc n=2k-1. Sau đó, trên bảng n×n, bạn có thể đặt nk con tốt, không con nào tấn công con tốt nào. Bạn có thể sử dụng quân Tốt để lấp đầy các hàng ngang (qua một) hoặc các hàng dọc (qua một), nhưng có thể có những cách sắp xếp khác. Hãy cố gắng tự mình tìm ra số cách sắp xếp được phép (ít nhất là trên một bảng 8×8).
+
+Cách sắp xếp các hình sau đây do G. Duden tạo ra là duy nhất.
+
+Số lượng tối đa quân hậu, quân xe và quân tượng không đe dọa lẫn nhau sẽ đồng thời bị giảm đi trên bàn cờ. Ngoài ra còn có 21 hiệp sĩ trên bàn cờ (chúng không tấn công lẫn nhau), và trên các ô vuông màu đen miễn phí của bàn cờ, bạn cũng có thể đặt 8 vị vua sẽ không tấn công lẫn nhau.
+
+Cạnh tranh bài toán
+
+Trên số tạp chí Matrovsky, theo truyền thống, chúng tôi đưa ra hai bản bài toán, do các nhà soạn nhạc cờ vua đã kết hôn sáng tác. Điều tò mò là các tác giả của cả hai quan điểm đều hợp lý hóa chúng khi họ còn đi học.
+
+5. (K. Saghatelyan, 1957). Chiếu tướng trong 3 nước đi.
+
+6. (L. Vyshinskaya, 1964). Chiếu tướng trong 2 nước đi.
+
+Hạn chót gửi lời giải là ngày 25/5/1983 (có ghi chú trên phong bì: “Thi cờ «Kvant», nhiệm vụ 5, 6”).

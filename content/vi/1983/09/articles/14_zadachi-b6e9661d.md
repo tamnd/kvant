@@ -1,0 +1,40 @@
+---
+id: 1983-9-zadachi-b6e9661d
+issue: kvant_1983_9
+year: 1983
+number: "9"
+title: Bài toán
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 34
+page_last: 34
+page_labels: "32"
+tag: FYIW
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 23fa43d3be2da2431ee8768b516f96c7226ef2088a9f22bc39e4960d0560eee2
+prompt_sha256: draft-1
+translated_from: content/ru/1983/09/articles/14_zadachi-b6e9661d.md
+source_content_sha256: a11f07f151ef3d16d895d14090f6dc0b10d497b8d26b8454d639d5f2aebfdd61
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 32⟧
+
+Nhiệm vụ
+
+1. Gena cắt ra mười tấm thẻ từ giấy và viết các số: 0, 1, 2, ..., 9. Sau đó, Gena đặt chúng lên bàn làm đôi và phát hiện ra rằng các số có hai chữ số thu được có quan hệ với nhau là 1: 2: 3: 4: 5. Đến tối, Gena muốn đưa kết quả cho bố xem nhưng không tìm được tấm thẻ nào có số 0. Tuy nhiên, sau khi suy nghĩ, Gena bày các tấm thẻ ra sao cho các số mới cũng liên quan là 1: 2: 3: 4: 5. Lần đầu tiên Gena xếp quân bài như thế nào và lần thứ hai như thế nào?
+
+2. Tại “cuộc thi bí ngô” thường niên được tổ chức ở Anh, “nhà vô địch” tiếp theo có khối lượng 109 kg và chu vi 2,5 mét. Cô ấy sẽ nổi trong nước? Liệu một cậu bé có thể nổi trên đó như trên một chiếc bè nếu khối lượng của cậu ấy là 20 kg? Khi tính toán, hãy coi quả bí là một quả bóng; thể tích của một quả bóng có bán kính $R$ bằng $\frac{4\pi R^3}{3}$.
+
+3. Một bộ domino điển hình có 28 ô. Sẽ có bao nhiêu ô trong một quân domino có giá trị trên mỗi ô thay đổi từ 0 thành 6, nhưng từ 0 đến 12?
+
+4. Trong tam giác $ABC$ vẽ đường phân giác $AE$. So sánh kích thước của các góc $AEB$ và $AEC$, nếu bạn biết rằng $|AB| > |AC|$.
+
+5. Kolya đã làm một tấm bảng (dành cho trò chơi có tên là “Yoga”) và vẽ nó theo kiểu bàn cờ, như trong hình. Một ngày nọ, anh ta quyết định đi vòng quanh tất cả các ô của bảng này với một quân cờ, thăm mỗi ô một lần và di chuyển từ ô này sang ô khác qua cạnh của hình vuông tương ứng. Anh ấy nhận thấy rằng nếu anh ấy xuất phát từ sân màu trắng thì anh ấy sẽ thành công khi đi đường vòng như vậy, nhưng nếu anh ấy xuất phát từ sân màu đỏ thì anh ấy sẽ thất bại. Tại sao?
+
+Những nhiệm vụ này đã được cung cấp cho chúng tôi
+A. L. Cabrizon, N. A. Rodina, A. P. Savin, L. Z. Karelin, N. I. Avilov.

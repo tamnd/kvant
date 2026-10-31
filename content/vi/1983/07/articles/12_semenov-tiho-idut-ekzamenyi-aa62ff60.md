@@ -1,0 +1,58 @@
+---
+id: 1983-7-semenov-tiho-idut-ekzamenyi-aa62ff60
+issue: kvant_1983_7
+year: 1983
+number: "7"
+title: Im lặng! Kỳ thi đang đến!
+authors:
+  - Семёнов А. И.
+rubric: kvant-ulybaetsya
+page_first: 57
+page_last: 58
+page_labels: 55-56
+tag: D6S9
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: b4df9d754ce707149043099c32af2ff82dafbea116775a958bd280234d31ed25
+prompt_sha256: draft-1
+translated_from: content/ru/1983/07/articles/12_semenov-tiho-idut-ekzamenyi-aa62ff60.md
+source_content_sha256: 1bb1200f874c0ce9551ce48e2820a1251c5be7658b4989d167604bb8bf80fcf2
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 55⟧
+
+Lưu ý rằng $\vec{O D}$—vectơ mặt $A' B' C'$ cho terzer $A' B' C' D'$—cũng là vectơ mặt $A' B' C'$ cho terzer $O A' B' C'$. Thật vậy, các điểm $O$ và $D'$ nằm trên cùng một phía của mặt phẳng $A' B' C'$ (nếu không thì tổng của $\vec{O A}' + \vec{O B}' + \vec{O C}' + \vec{O D}'$ sẽ không bằng $\vec{O}$), do đó vectơ $\vec{O D}$ hướng về phía bên ngoài của terzer $O A' B' C'$. Theo định lý “jezhe”, vectơ - $\vec{O D}$ bằng tổng các vectơ của các mặt $O A' B'$, $O B' C'$ và $O C' A'$ của terzer $O A' B' C'$. Nhưng terzar này được xây dựng theo cách giống hệt (lên đến chuyển giao song song) như terzar $P A' B' C'$ trong nhiệm vụ $a$, do đó, $\vec{O D}' = -k(\vec{D A} + \vec{D B} + \vec{D C})$, trong đó $k = 3V/4$. Tương tự như vậy $O A'' = -k(\vec{A B} + \vec{A C} + \vec{A D})$, vậy $D'' A'' = \vec{O A}' - \vec{O D}' = k(\vec{D A} + \vec{D B} + \vec{D C} - \vec{A B} - \vec{A C} - \vec{A D}) = k \cdot 4 \vec{D A} = 3V \cdot \vec{D A}$. Bằng cách tương tự, người ta chứng minh rằng $D'' B'' = 3V \cdot \vec{D B}$, $D'' C'' = 3V \cdot \vec{D A}$. Điều này có nghĩa là terzer $A'' B'' C'' D''$ và $ABCD$ được chuẩn bị với hệ số 3V.
+
+Ngay lập tức, đối với bốn vectơ không tuân thủ bất kỳ có tổng bằng $\vec{O}$, sẽ có một terzar duy nhất, dịch song song, mà các vectơ này đóng vai trò là vectơ mặt. (Nếu $\vec{O A}$, $\vec{O B}$, $\vec{O C}$ và $\vec{O D}$ là các vectơ và $\vec{O A'}$, $\vec{O B'}$, $\vec{O C'}$, $\vec{O D'}$ là các vectơ của các mặt của terzer $ABCD$, thì terzar mong muốn đã được chuẩn bị $A' B' C' D'$.) Tuyên bố này rất đặc biệt và trường hợp đơn giản của cái gọi là bài toán Minkowski: liệu có thể, cho một tập hợp các vectơ tổng bằng không không đồng phẳng, xây dựng một đa tạp lồi mà chúng sẽ đóng vai trò là vectơ mặt? Sẽ chỉ có một loại như vậy? Vấn đề này đã được đặt ra và giải quyết (một cách tích cực) bởi nhà toán học lỗi lạc người Đức Hermann Minkowski vào cuối thế kỷ trước.
+
+Bài tập
+9. Trong terzarra $ABCD$ các mặt $ABC$ và $ABD$, cũng như $CDA$ và $CDB$ có kích thước bằng nhau. Chứng minh rằng các đoạn thẳng nối các cạnh $AB$ và $CD$ là đường vuông góc chung của chúng.
+
+10. Chứng minh rằng các tính chất sau của terzarra là tương đương*): 1) tất cả các mặt đều bằng nhau; 2) tất cả các mặt đều có kích thước bằng nhau; 3) tâm của hình cầu ngoại tiếp trùng với trọng tâm (trọng tâm được xác định bởi tổng các vectơ được vẽ từ nó đến các đỉnh của terzar là $\vec{O}$).
+
+*) Các thuật ngữ được thảo luận trong nhiệm vụ này được gọi là đẳng diện. Chúng được mô tả chi tiết trong bài viết của V. E. Matizen trên tạp chí này; xem thêm ở trên bài toán 8, g.
+
+⟦folio 56⟧
+
+NHỮNG NỤ CƯỜI SỐ LƯỢNG NỤ CƯỜI SỐ LƯỢNG
+
+Khoa Toán
+
+Viện hàng không
+— Đồng đội của tôi có những đặc điểm xuất sắc, anh ấy có kinh nghiệm bay…
+
+Khoa Vật lý
+- Bạn có nhớ định luật vạn vật hấp dẫn không?
+
+Viện sư phạm
+- Vậy là cậu đã đến lớp.
+Thôi nào, sắp xếp mọi việc đi!
+
+Viện điện hóa
+-... Đúng vậy, kỹ năng thực hành của bạn khá yếu.
+
+56

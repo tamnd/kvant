@@ -1,0 +1,40 @@
+---
+id: 1983-11-zadachi-c9d6e652
+issue: kvant_1983_11
+year: 1983
+number: "11"
+title: Bài toán
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 33
+page_last: 33
+page_labels: "31"
+tag: W7Z2
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: a3f6277c5f9dfc35655e2362f4c3b35a2b06e42d37048e96d1df3062129ebd77
+prompt_sha256: draft-1
+translated_from: content/ru/1983/11/articles/10_zadachi-c9d6e652.md
+source_content_sha256: eba5f4f61d0b92fd793cf0570a30b944ec28c9b4e0b7c0ebbb08f88b141d8669
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 31⟧
+
+Nhiệm vụ
+
+1. Tạp chí «Kvant» gồm 16 tờ đôi ghép vào nhau. Trên tờ giấy đôi nào tổng các số chỉ số trang sẽ lớn nhất?
+
+2. Tìm số có hai chữ số mà tích các chữ số của nó gấp đôi.
+
+3. Giải các câu đố về đường đi “địa lý” (xem hình). Trong mỗi rebus, các chữ cái giống nhau tương ứng với các số giống nhau và các số khác nhau tương ứng với các số khác nhau.
+
+4. Các quân domino được sắp xếp theo mô hình hình tròn, với tổng số điểm ở mỗi hàng dọc và mỗi hàng ngang bằng nhau (xem hình). Các giá trị điểm trên xúc xắc, ngoại trừ giá trị “giả”, được bảo vệ bằng các chữ cái. Giải mã chúng.
+
+5. Hai cha con đang quan sát nhật thực và chủ đề cuộc trò chuyện của họ là Mặt trời và Mặt trăng. Cậu bé hỏi: “Bố ơi, Mặt trời cách xa chúng ta bao nhiêu lần so với Mặt trăng? Theo như con nhớ,” người cha trả lời, “387 lần”. “Sau đó tôi có thể tính được thể tích của Mặt trời lớn hơn thể tích của Mặt trăng bao nhiêu lần.” “Làm ơn, con nói đúng,” người cha trả lời sau khi suy nghĩ. Thể tích của Mặt trời lớn hơn thể tích của Mặt trăng bao nhiêu lần?
+
+Những nhiệm vụ này đã được cung cấp cho chúng tôi
+MV Varda, A.M. Kozlov, M.A. Mnachakyan, E. Suleymanov (học sinh lớp 10 trường số 10 ở Sheki), A. Kholin (học sinh lớp 7 trường số 1 ở Kokchetav).

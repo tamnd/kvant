@@ -1,0 +1,33 @@
+---
+id: 1983-3-spisok-chitateley-prislavshih-pravilnyie-resheniya-c7039ec0
+issue: kvant_1983_3
+year: 1983
+number: "3"
+title: Danh sách độc giả gửi đúng lời giải
+rubric: zadachnik-kvanta
+rubric_sub: Задачник «Кванта»
+page_first: 56
+page_last: 56
+page_labels: "54"
+tag: 1TIX
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 26ef5eae505caf3e2fcc8cf15e8efe345f77afd3c48eeab7eaddf7e8ac3c8fde
+prompt_sha256: draft-1
+translated_from: content/ru/1983/03/articles/15_spisok-chitateley-prislavshih-pravilnyie-resheniya-c7039ec0.md
+source_content_sha256: 08e545a358c066450089a7685b04585e926cc40a4a4fab4661d013e1bb1b4859
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 54⟧
+
+Danh sách độc giả gửi đúng lời giải
+
+Hầu hết độc giả đã gửi lời giải bài toán M736–M750, M756, M757 và F763–F767 đã hoàn thành bài toán M736, M737, M740, M741, M750, M757. Dưới đây chúng tôi công bố tên của những người đã thêm lời giải đúng vào bài toán còn lại. (Thông tin về những sinh viên đã quyết định bài toán M751—M755, M758—M760, người đã đề xuất tại Optimida Toàn Liên minh XVI, sẽ không được công bố.)
+
+Toán học
+
+L. Bayrak (Belgorod) 39; V. Barabanov (Kyiv) 56; A. Belous (Vinnitsa) 39, 42, 56; A. Berenstein (Moscow) 43, 45; A. Birder (Ivanovo) 43, 44, 48, 49, 56; I. Bouslavsky (Moscow) 45, 49, 56; V. Bulavas (Panevzys) 42, 45, 56; M. Verkhovodov (Kyiv) 42; G. Người chiến thắng (Sverdlovsk) 42, 45, 56; A. Vinogradov (Moscow) 44, 56; M. Gadzhibabaev (Makhachkala) 44; M. Garayev (Fizulli) 56; M. Gorbunov (Minsk) 39; M. Gokhman (Kyiv) 56; A. Deineka (Vinnitsa) 38, 39, 42, 43, 45, 56; V. Dolotin (Kursk) 48; O. Eroshkin (Dnepropetrovsk) 38, 42, 43; K. Zykov (Moscow) 38, 43, 48, 49, 56; A. Ivchenko (Mogilev-Podolsky) 42; M. Yotov (Sofia, NRB) 39; S. Kadanovich (Kyiv) 56; Yu. Kakulov (làng Tsalka, GSSR) 44; D. Kaledin (Moscow) 48, 56; A. Karpovich (Kyiv) 42—44, 56; N. Katsenko (Kyiv) 39, 45; L. Klimenok (Moscow) 56; E. Kovalchuk (Kyiv) 56; M. Koran (Donetsk) 45, 56; L. Korododsky (Cherkasy) 56; D. Korshunov (Novosibirsk) 43, 56; K. Kokhas (Leningrad) 42, 43, 45, 56; Yu. Kochetkov (làng Popovtsi, vùng Vinnytsia) 42, 56; M. Lev (Sverdlovsk) 42; A. Markovic (Belgrade, SFRY) 38, 42; R. Misyavitsos (làng Povilaluskai Lit. SSR) 56; A. Molotkov (Leningrad) 56; F. Nazarov (Leningrad) 56; A. Nikoltsev (Sevastopol) 42, 45; V. Novkov (Kommunarsk) 56; A. Polyak (Kyiv) 56; K. Poraiko (Vinnitsa) 42, 56; S. Portnov (Leningrad) 42; A. Rodtsov (Moscow) 42; L. Rudy (Kirovsk, vùng Murmansk) 42; V. Sabadat (Kyiv) 56; V. Sadovsky (Tashkent) 56; G. Samadashilli (Tbinis) 56; A. Sviridov (Moscow) 42, 56; E. SLOBodyanok (Kyiv) 56; S. Stepanov (làng Peremyl, vùng Kaluga) 56; S. Strukov (Voronezh) 39, 42; M. Titarenko (Vinnitsa) 42; N. Titarenko (Vinnitsa) 39, 56; N. Fedin (Omsk) 44; B. Friedman (Moscow) 43; V. Khrychkov (Sevastopol) 42, 45; S. Tsonev (Sofia, NRB) 56; S. Chernyshe (Alexandrov) 43; R. Shpilsky (Kyiv) 56; L. Erdets (Budaleyit, Hungary) 42, 45, 56; P. Etingof (Kyiv) 43, 49, 56; S. Yurovsky (Mytnitsi) 42, 44, 56.

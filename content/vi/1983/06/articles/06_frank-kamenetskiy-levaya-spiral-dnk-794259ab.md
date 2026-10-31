@@ -1,0 +1,55 @@
+---
+id: 1983-6-frank-kamenetskiy-levaya-spiral-dnk-794259ab
+issue: kvant_1983_6
+year: 1983
+number: "6"
+title: Chuỗi xoắn DNA trái
+authors:
+  - Франк-Каменецкий М. Д.
+rubric: novosti-nauki
+rubric_sub: Новости науки
+page_first: 33
+page_last: 33
+page_labels: "31"
+tag: 6JHI
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: ce9aaacdf731e1f64fc1413bd15c5d94a64c9c8eb4dfc483097caff4f4f88b7c
+prompt_sha256: draft-1
+translated_from: content/ru/1983/06/articles/06_frank-kamenetskiy-levaya-spiral-dnk-794259ab.md
+source_content_sha256: 351dfe0c8130744d7a171412c2ae170a3dbb35ac431d7f344ded01de3d38bd20
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 31⟧
+
+Chuỗi xoắn DNA trái
+
+Tiến sĩ Khoa học Vật lý và Toán học
+M. D. FRANK-KAMENETSKY
+
+Ba mươi năm đã trôi qua kể từ năm 1953, J. Watson và F. Crick đã đề xuất mô hình cấu trúc của phân tử DNA. Và trong suốt thời gian qua, chuỗi xoắn kép DNA đã thu hút sự chú ý lớn từ các nhà vật lý và toán học, nhà hóa học và nhà sinh học, bác sĩ và dược sĩ. Sự quan tâm như vậy là hoàn toàn dễ hiểu - xét cho cùng, một phân tử DNA nửa chiều ở dạng một chuỗi đơn vị đơn phân (nucleotide) nhất định chỉ gồm bốn loại chứa tất cả thông tin di truyền và chứa sơ đồ cấu trúc của toàn bộ sinh vật sống.
+
+Chúng ta hãy nhớ lại rằng, theo mô hình Watson-Crick, phân tử DNA bao gồm hai chuỗi polymer được xoắn thành một chuỗi xoắn kép, hay đúng hơn là thành một chuỗi xoắn. Đặc điểm là việc xoắn dây xích là quy luật, tức là cũng giống như với vít hoặc vít thông thường.
+
+Trong nhiều năm, các nhà khoa học đã tin chắc rằng đây là cấu trúc duy nhất DNA có thể có cả trong tế bào và trong ống nghiệm ở điều kiện bình thường. Điều này đã được xác nhận bởi nhiều thí nghiệm được thực hiện bằng nhiều phương pháp vật lý khác nhau. Tuy nhiên, vào năm 1979, một nhóm các nhà khoa học Mỹ thuộc Viện Công nghệ Massachusetts đã bất ngờ phát hiện ra một dạng mới của phân tử
+
+ADN. Đây dường như là khám phá quan trọng nhất trong lĩnh vực cấu trúc DNA kể từ công trình của Watson và Crick.
+
+Các nhà khoa học đã làm việc với các phân tử rất ngắn chỉ gồm sáu nucleotide (do đó chúng được gọi là hexanucleotide) thuộc hai loại - cytosine (C) và guanine (G):
+
+Tsgtsgtsg
+GCGCGC,
+
+và lần đầu tiên họ đã thu được các tinh thể thực sự từ các phân tử DNA.
+
+Được biết, hiện nay phương pháp chính xác nhất để nghiên cứu cấu trúc bên trong của tinh thể là phân tích CẤU TRÚC THUÊ. Phương pháp này dựa trên hiện tượng nhiễu xạ sóng. Bằng cách phân tích mẫu nhiễu xạ thu được từ một tinh thể, bạn có thể tìm ra mọi thứ về nó - sự sắp xếp của các phân tử trong tinh thể là gì và các nguyên tử được “xếp” như thế nào bên trong các phân tử.
+
+Thật là bất ngờ đối với các nhà khoa học Mỹ khi sau khi nhận được tất cả dữ liệu cần thiết và thực hiện các phép tính rườm rà trên máy tính, cuối cùng họ đã tìm ra cấu trúc của hexanucleotide. Hóa ra cấu trúc đầu tiên được xác định bằng phương pháp phân tích CẤU TRÚC THUÊ rất khác với mô hình Watson-Crick. Và trước hết, chúng ta hướng xoắn dây chuyền thành hình xoắn ốc. Trong hexanucleotide, nó không phải bên phải mà là bên trái! Có những khác biệt khác giữa hình dạng mới này, được gọi là hình chữ Z, và hình dạng cổ điển, hiện được gọi là hình chữ B.
+
+Vậy mô hình Watson-Crick có sai không?! Không, tuyên bố phạm trù như vậy không xuất phát từ khám phá của các nhà khoa học Mỹ. Các nghiên cứu về các phân tử DNA ngắn khác được thực hiện trong những năm gần đây đã chỉ ra rằng dạng Z chỉ có thể chứa các phân tử trong đó mỗi chuỗi bổ sung chỉ chứa các nucleotide thuộc loại C và G. Tất cả các trình tự khác là tùy ý
+
+(Cuối cùng xem trang 38)

@@ -1,0 +1,81 @@
+---
+id: 1983-2-saryicheva-zadachi-respublikanskih-olimpiad-1042c232
+issue: kvant_1983_2
+year: 1983
+number: "2"
+title: Bài toán Thế vận hội của đảng Cộng hòa
+authors:
+  - Сарычева Т. А.
+rubric: olimpiady
+rubric_sub: Олимпиады
+page_first: 53
+page_last: 53
+page_labels: "51"
+tag: VSBZ
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 598bd23359eeeee2e7305723b7a0fb6956fa4c7b04e48840c94b6fb582b852dc
+prompt_sha256: draft-1
+translated_from: content/ru/1983/02/articles/12_saryicheva-zadachi-respublikanskih-olimpiad-1042c232.md
+source_content_sha256: 65dcf1bad697938fffdb226e0c29227fcdc23f0a1943299a0cec11a86b04733b
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 51⟧
+
+Bài tập
+người theo chủ nghĩa cộng hòa
+Thế vận hội
+
+Nhiều độc giả của chúng tôi đã tham gia vào giai đoạn đầu của chu kỳ tiếp theo của Olympic Vật lý và Toán học toàn Liên minh dành cho học sinh. «Kvant» hàng ngày trên một trong những số mới nhất nói về giai đoạn cuối cùng (toàn Liên minh) và công bố danh sách đầy đủ về bài toán được cung cấp ở đó. Ở đây chúng tôi in một số Olympic bài toán.respublikkan từ năm 1981 và 1982. Nhiệm vụ 1-5 được lấy từ danh sách đề xuất của giai đoạn bài toán.respublikan, do ủy ban phương pháp toán học của Ban tổ chức Trung ương Olympic biên soạn; bài toán còn lại do bồi thẩm đoàn địa phương đề xuất. Sau bài toán lớp mà nó được cung cấp sẽ được ghi trong ngoặc đơn.
+
+1. Các số $a, b, c$ thỏa mãn sự tương ứng
+$$\frac{-a+b+c}{a} = \frac{a-b+c}{b} = \frac{a+b-c}{c}.$$
+Một số có thể bằng bao nhiêu?
+$$p = \frac{(a+b)(b+c)(c+a)}{abc}?$$
+
+2. Chứng minh rằng với mọi số $p$ và $q$ thì tổng chiều dài các đoạn của trục $Ox$ sao cho bất đẳng thức $|x^2+px+q| \leq 2$ không vượt quá 4. (9)
+
+3. Một hàm được xác định ở mọi nơi $f$ cho mọi $x$ và $y$ thỏa mãn sự tương ứng $f(xy)=f(x)\cdot f(y)-f(x+y)+1$ và $f(1)=2$. Tìm: $a) f(m)$ cho số nguyên tùy ý $m$; $6) f(\frac{m}{n})$ cho một số hữu tỷ tùy ý $\frac{m}{n}$. (9)
+
+4. Chứng minh rằng đa thức $3x^{1982}+4$ không thể biểu diễn dưới dạng tổng bình phương của ba đa thức có hệ số nguyên. (10)
+
+5. Cho một tứ giác lồi $ABCD$; các đường thẳng $AB$ và $CD$ cắt nhau tại điểm $M$, các đường thẳng $AD$ và $BC$ cắt nhau tại điểm $K$. Chứng minh bất đẳng thức $S_{ABCD} > (|AB| \cdot |CD| \times \sin \widehat{AMD} + |BC| \cdot |AD| \cdot \sin \widehat{AKB})/2$. (10)
+
+6. Chứng minh rằng đa thức các số 1, 2, 3, ..., 1413, 1414 có thể chia thành các nhóm sao cho tổng các số trong mỗi nhóm bằng 1981. (8)
+
+7. Tìm độ dài cạnh của hình vuông nhỏ nhất trong đó ba đường tròn có bán kính 1, 2, 2 có thể đặt không chồng lên nhau. (8)
+
+8. Dãy số $(a_n)$ được xác định như sau: từ dãy số tự nhiên 1, 2, 3, ... ta lấy ba số đầu tiên (tức là $a_1=1$, $a_2=2$, $a_3=3$), sau đó bỏ qua hai số tiếp theo và lấy ba số (tức là $a_4=6$, $a_5=7$, $a_6=8$), bỏ qua các số chẵn, ta lấy ba số, bỏ qua sáu, v.v. Tính $a_{1000}$. (8)
+
+9. Giải bóng đá vô địch quốc gia diễn ra theo hai vòng. Kết thúc phần thi, người ta biết các đội ghi điểm theo cấp số cộng, đội cuối cùng được 17 điểm. Đội đã tham gia giải vô địch trong bao lâu? (8)
+
+10. Tất cả các đường chéo được vẽ trong hình lục giác. Bảy góc nào giữa các đường chéo hoặc các cạnh và các cạnh phải được lưu ý để từ sự bằng nhau của các góc này với nhau thì hình ngũ giác là hình ngũ giác đều nhau? (8)
+
+11. Tính cho mỗi $a$ giới hạn $(\sqrt{[(n+a)^2]}-n)$, trong đó $[x]$ biểu thị số nguyên lớn nhất không vượt quá $x$. (9)
+
+12. Gọi $m_a, m_b, m_c$ là độ dài của các đường trung tuyến $\triangle ABC$. Chứng minh rằng $m_a^2+m_b^2+m_c^2 \geq \frac{3}{4} \sqrt{abc} (\sqrt{a}+\sqrt{b}+\sqrt{c})$. Tam giác nào đạt được dấu bằng? (9)
+
+13. Điểm có tọa độ $(x(t), y(t))$ di chuyển trong mặt phẳng sao cho tại mỗi thời điểm $t$ đẳng thức $y'(t) = \frac{1}{x(t)}, x'(t) = -\frac{1}{y(t)}$ được thỏa mãn. Được biết, tại một thời điểm nào đó tọa độ là (12; 3). Điểm này tại một thời điểm nào đó có thể có tọa độ (6; 5) không? (9)
+
+14. Chứng minh bất đẳng thức
+$$\left(1 + \frac{1}{2^{51}}\right)\left(1 + \frac{1}{2^{52}}\right)\left(1 + \frac{1}{2^{53}}\right) \dots \times \left(1 + \frac{1}{2^{100}}\right) < 1 + \frac{1}{2^{49}}.$$ (9)
+
+15. Một đường đứt đoạn khép kín có thể chứa bao nhiêu mắt xích trong không gian nếu các mắt xích liền kề của nó vuông góc với nhau? (10)
+
+16. Chứng minh diện tích hình giới hạn bởi trục $Ox$ và $Oy$, hình chữ nhật của hàm số $y=\frac{\sin x}{x}$ không nhỏ hơn 1. (10)
+
+17. Chứng minh rằng nếu bất đẳng thức $|a_1\sin b_1x+a_2\sin b_2x+\dots+a_n\sin b_nx| \leq |\sin x|$ đúng với mọi $x \in |-1; 1[$ thì $|a_1b_1+a_2b_2+\dots+a_nb_n| \leq 1$. (10)
+
+18. Có cặp nào sao cho tổng các góc phẳng của mỗi góc đa diện là a) $150^\circ$, b) $210^\circ$, c) $180^\circ$? (10)
+
+19. Vé xe buýt được đánh số tự nhiên từ 000 001 đến 999 999. Trên vé có bao nhiêu chữ số 1? (10)
+
+20. Giải hệ phương trình
+$$\begin{cases} x^2+y^2+z^2=14, \\ xy+xz+yz=11, \\ xyz=6. \end{cases}$$ (10)
+
+Đã chuẩn bị ấn phẩm
+T. A. Sarcheva

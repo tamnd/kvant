@@ -1,0 +1,82 @@
+---
+id: 1983-7-vallander-postoyannaya-stanovitsya-peremennoy-5de94cba
+issue: kvant_1983_7
+year: 1983
+number: "7"
+title: Hằng số trở thành biến
+authors:
+  - Валландер С. С.
+rubric: zadachnik-kvanta
+rubric_sub: Задачник «Кванта»
+page_first: 54
+page_last: 54
+page_labels: "52"
+tag: EDAA
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 5e1eb95ac805a9fa5e3ee90145507d277c61eb2ea796de3367d324b664a56d0a
+prompt_sha256: draft-1
+translated_from: content/ru/1983/07/articles/11_vallander-postoyannaya-stanovitsya-peremennoy-5de94cba.md
+source_content_sha256: aa142840595db544ede946332118c704b55b3b782c9456ee648956ba1812bb4f
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 52⟧
+
+Hằng số trở thành biến
+
+S. S. WALLANDER
+
+Giải thích hành vi tiệm cận của lời giải đối với $12 \rightarrow \infty$.
+
+(G. J. Lipkin, từ tuyển tập “Các nhà vật lý đang đùa”, M., “Mir”, 1966)
+
+Trong các công trình toán học nghiêm túc, ý tưởng sau đây thường gặp trong các tình huống khác nhau hiện đại: cố định các đại lượng thay đổi và thay đổi hằng số. Trong lưu ý này, chúng tôi sẽ chỉ ra cách giải quyết ý tưởng này bài toán M7996):
+
+Tìm hai phương trình lời giải
+$$3^x + 3^{x^2} = 2^x + 4^{x^2}$$
+
+và chứng minh rằng anh ta không có lời giải nào khác.
+
+Phương trình hiệu quả bên ngoài này dường như không phù hợp với lời giải bằng các phương pháp cơ bản. Rõ ràng phương trình loại này có thể được giải từ các thông điệp đơn điệu. Ví dụ: xét lời giải bài toán M799a): Tìm một phương trình lời giải $3^{x+1} + 100 = 7^{x-1}$ và chứng minh rằng nó không có phương trình nào khác lời giải.
+
+Root bạn đang tìm rất dễ đoán: $x=4$ (kiểm tra xem!). Nhưng không có lời giải nào khác, bởi vì bằng cách chia cả hai vế của phương trình cho $3^{x-1}$:
+
+$$9 + 100 \cdot 3^{-x+1} = (7/3)^{x-1},$$
+
+chúng ta nhận được hàm giảm $x$ ở bên trái và hàm tăng ở bên phải.
+
+Tuy nhiên, việc áp dụng các thông điệp đơn điệu vào phương trình (1) có vẻ khó khăn (mặc dù tất nhiên người ta không thể loại trừ khả năng lý luận tinh tế hơn thuộc loại này có thể đạt được mục tiêu). Thật vậy, phương trình (1) có hai lời giải - $x=0$ và $x=1$. Làm sao người ta có thể chứng minh rằng mình không có lời giải nào khác?
+
+Chúng ta hãy thử lợi dụng thực tế là vế trái và vế phải của phương trình có cấu trúc dương $a^x + b^x$, và tổng các cơ số ở cả hai vế bằng $(a+b=6)$ - nhờ đó mà phương trình có lời giải $x=1$. Hãy viết phương trình (1) dưới dạng
+$$3^x + (6-3)^{x^2} = 2^x + (6-2)^{x^2}$$
+
+và xét hàm $f(t) = t^x + (6-t)^{x^2}$ (Đây là điểm quyết định: trong phương trình ban đầu chúng ta sửa biến và bắt đầu thay đổi các hằng số). Chúng ta phải chứng minh rằng đẳng thức (3), tức là $f(3) = f(2)$, không thể xảy ra với $x \neq 0$ và $x \neq 1$. Để làm điều này, chỉ cần thiết lập rằng với mọi giá trị của $x$, ngoại trừ 0 và 1, hàm $f(t)$ là đơn điệu, ít nhất là trên khoảng $2 \leq t \leq 3$.
+
+Chúng ta hãy tìm một hàm tùy ý (đối với $t!$) $f: f'(t) = xt^{x-1} - x^2(6-t)^{x^2-1}$ và chỉ ra rằng nó bảo toàn dấu của nó trên khoảng [2; 3] (tại $x \neq 0$; 1). Chúng ta hãy xem xét ba trường hợp riêng biệt - $x<0$, $0 < x < 1$ và $x > 1$.
+
+Tại $x < 0$, rõ ràng là $f'(t) < 0$; do đó, $f(t)$ cũng giết chết $f(2) > f(3)$.
+
+Đối với $0 < x < 1$ và $t \leq 3$, chúng ta có $6-t \geq 3$ và $x^2(6-t)^{x^2-1} < x(6-t)^{x^2-1} \leq x3^{x^2-1} < xt^{x^2-1}$, tức là $f'(t) > 0$ và $f(3) > f(2)$.
+
+Cuối cùng, tại $x > 1$ và $t \leq 3$
+$$x^2(6-t)^{x^2-1} > x(6-t)^{x^2-1} \geq x3^{x^2-1} > xt^{x^2-1}$$
+nghĩa là, $f'(t) < 0$ và $f(2) > f(3)$.
+
+Vì vậy, phương trình (3) (hoặc (1)) không có nghiệm nào khác ngoài 0 và 1.
+
+Theo cách tương tự, có thể chứng minh rằng bất kỳ phương trình nào có dạng $a^x + (2k-a)^{x^2} = b^x + (2k-b)^{x^2}$ với $0 < a < b \leq k$ và $k > 1$ đều có chính xác hai lời giải - 0 và 1 (trong bài toán $b=k=3$, $a=2$ của chúng ta).
+
+Hãy đưa ra một lời giải bài toán M7996 khác), dựa trên cùng một ý tưởng. (Một số độc giả đã tìm thấy nó).
+
+Sự vắng mặt của nghiệm âm của phương trình (1) xuất phát từ thực tế là tại $x < 0$ $3^x < 2^x$ và đồng thời $3^{x^2} < 4^{x^2}$. Đối với $0 < x < 1$, hãy xem xét hàm $g(t) = (t+1)^{x-1} - t^{x-1}$. Bởi vì $g'(t) = x((t+1)^{x-1} - t^{x-1}) < 0$, hàm $g(t)$ sẽ giết chết. Vì vậy, $g(3) = 4^x - 3^x < g(2) = 3^x - 2^x$. Và vì $4^x - 4^{x^2} = 4^x(4^x - 1) > 3^x(3^x - 1) = 3^x - 3^{x^2}$, bất đẳng thức đúng
+$$3^x - 2^x > 4^x - 3^x > 4^{x^2} - 3^{x^2}.$$
+
+Pozny $3^x + 3^{x^2} > 2^x + 4^{x^2}$. Cấu trúc $x > 1$ có thể được phân tích theo cách tương tự - với điểm khác biệt là ở (4) thay vì dấu > chúng ta nhận được dấu <.
+
+Để kết luận, chúng tôi xây dựng một bài toán tương tự nhưng phức tạp hơn:
+
+Phương trình $3^x + 3^{x^2} = 4^x + 2^{x^2}$ có bao nhiêu lời giải?

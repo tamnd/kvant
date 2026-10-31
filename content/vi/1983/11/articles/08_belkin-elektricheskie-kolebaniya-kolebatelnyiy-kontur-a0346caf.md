@@ -1,0 +1,58 @@
+---
+id: 1983-11-belkin-elektricheskie-kolebaniya-kolebatelnyiy-kontur-a0346caf
+issue: kvant_1983_11
+year: 1983
+number: "11"
+title: Các rung động điện. Mạch dao động
+authors:
+  - Белкин И. К.
+rubric: shkola-v-kvante
+page_first: 31
+page_last: 31
+page_labels: "29"
+tag: 8TES
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 5bd502eee26518a43ba1d7f9d18aea80247a49da2ca170ca1d7300ede5935f89
+prompt_sha256: draft-1
+translated_from: content/ru/1983/11/articles/08_belkin-elektricheskie-kolebaniya-kolebatelnyiy-kontur-a0346caf.md
+source_content_sha256: c0de2748610ab3bd2d775eec125351df55a4b31ba61f8dd3153fe2c1d9db8154
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 29⟧
+
+Các rung động điện.
+
+Mạch dao động
+
+Năm 1853, nhà vật lý nổi tiếng người Anh William Thomson, sau này là Lord Kelvin, đã xuất bản một bài báo có tựa đề “Về dòng điện không ổn định”.
+Trong đó, ông đã chỉ ra rằng trong một mạch điện gồm một tụ điện có điện dung $C$ và một cuộn dây có độ tự cảm $L$ (Hình 1), sẽ xảy ra dao động điện từ với chu kỳ $T = 2\pi\sqrt{LC}$.
+
+Khi nghe đến từ “dao động”, chúng ta tưởng tượng ngay đến hình ảnh một ma trận toán học đang dao động (Hình 2) hoặc một vật nặng gắn vào một vòng tròn (Hình 3). Nhưng những rung động không chỉ thể hiện chuyển động cơ học của một vật thể “ở đây và ở đó”.
+Bằng dao động, người ta phải hiểu bất kỳ sự thay đổi tuần hoàn nào của một đại lượng bất kỳ, nghĩa là một sự thay đổi trong đó giá trị của đại lượng này được lặp lại sau một khoảng thời gian nhất định, gọi là chu kỳ dao động.
+
+Trong quá trình dao động cơ học của một điểm vật chất tuần hoàn, đại lượng thay đổi là tọa độ $x$ của điểm. Trong mạch của chúng tôi, đây là điện tích $q$, được truyền vào tụ điện. Trong chu kỳ dao động, điện tích trên tấm dần dần biến mất, đổi dấu và phục hồi trở lại. Cả điện áp $U = q/C$ giữa các bản tụ và dòng điện $I$ trong mạch đều dao động, vì sự tương ứng có hiệu lực bất cứ lúc nào.
+
+$$U = L \frac{\Delta I}{\Delta t}$$
+
+Điện áp $E$ của điện trường trong tụ điện (vì $E = U/d$, trong đó $d$ là khoảng cách giữa các bản) và cảm ứng $B$ của từ trường của cuộn dây (vì tỉ lệ với dòng điện) cũng dao động.
+
+Điều này tương tự như cách trong quá trình dao động cơ học, không chỉ tọa độ của một điểm thay đổi theo chu kỳ mà còn cả tốc độ, gia tốc, động năng, v.v. Tất cả những đại lượng này đều trải qua dao động.
+
+Sách giáo khoa "Vật lý 10" nói về sự tương đồng giữa dao động cơ và dao động điện. Sự tương tự này có thể được thực hiện chặt chẽ hơn nếu chúng ta nhận thấy rằng phương trình (1) trùng khớp với phương trình biểu thị định luật thứ hai của Newton đối với một vật dao động dưới tác dụng của các vật khác:
+
+$$F = m \frac{\Delta v}{\Delta t},$$
+
+trong đó $F$ là lực của các phương trình tác dụng lên vật, $m$ là khối lượng, $\Delta v/\Delta t = a$ là gia tốc của vật. Do đó, phương trình (1) có thể được nghiên cứu theo nguyên tắc “các phương trình giống nhau có lời giải giống nhau”.
+
+So sánh các phương trình (1) và (2) cho thấy điện áp $U$ tương ứng với các phương trình lực $F$, dòng điện $I$ trong cuộn dây tương ứng với tốc độ $v$ chuyển động của cơ thể và độ tự cảm của cuộn dây $L$ tương ứng với khối lượng của cơ thể $m$. Cuối cùng, từ thư từ
+
+$$U = \frac{q}{C} \text{ и } F = k\lambda$$
+
+Theo đó, nghịch đảo của điện dung của tụ điện ($1/C$) tương ứng với độ cứng của lò xo $k$. Một bảng tóm tắt tóm tắt sự tương tự này được cung cấp trong Vật lý 10.
+
+Cơm. 1. Hình 2. Hình 3. Hình 4.

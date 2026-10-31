@@ -1,0 +1,71 @@
+---
+id: 1983-3-orehov-risunki-letat-byistree-i-dalshe-i-izvlechenie-kornya-e2b363e0
+issue: kvant_1983_3
+year: 1983
+number: "3"
+title: '[Các bức vẽ “Bay nhanh hơn và xa hơn” và “Trích rễ cây”]'
+authors:
+  - Орехов А. А.
+rubric: smes
+page_first: 58
+page_last: 58
+page_labels: "56"
+tag: W2U9
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 796422357a6e8bb2665f3356f0748874ce98cd3f52a8aec3398212f256c18874
+prompt_sha256: draft-1
+translated_from: content/ru/1983/03/articles/17_orehov-risunki-letat-byistree-i-dalshe-i-izvlechenie-kornya-e2b363e0.md
+source_content_sha256: 5c35f795c85f4d284628ecfe2e371c62adf9320723c38f73235eaec529c99894
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 56⟧
+
+Tuy nhiên, nó vẫn không thể “cất cánh” với một lượng “hành khách” không đầy đủ.
+
+Trong một số ngôn ngữ lập trình (ví dụ như thuật toán, PL/1), có thể phân bổ lượng bộ nhớ động cần thiết, trước tiên tính toán N, sau đó thực hiện lệnh “phân bổ N phần tử bộ nhớ”.
+Nhưng rõ ràng, trong bất kỳ ngôn ngữ nào, cách nhanh nhất để cấu hình động một chương trình (nghĩa là định cấu hình nó trong khi thực thi) theo các kích thước mảng được yêu cầu là một kỹ thuật có thể được gọi là làm việc với một mảng không đầy đủ.
+
+Khi làm việc với một mảng không đầy đủ, tất cả các mảng đều được mô tả bằng một lề và chỉ phần cần thiết của mảng được sử dụng.
+
+Mô tả và đầu vào trong trường hợp này trông như thế này (phần còn lại của chương trình đã bị bỏ qua):
+
+```pascal
+const k: = 100; m: = 100 {k — максимальное элемент}
+var a: array [1..k] of real;
+i, n: integer; s: real;
+begin readln(n);
+for i: = 1 to n do read(a[i]);
+```
+
+hoặc
+begin n:=0; while NOT (eof(input)) do
+begin n:=n+1; read(a[n]) end;
+
+Ở phiên bản đầu tiên của chương trình, trước khi bắt đầu mảng dữ liệu nguồn, anh ta đặt một thẻ đục lỗ ghi số phần tử mình cần lần này, ở phiên bản thứ hai, sau mảng, anh ta đặt một thẻ đục lỗ “cuối tập tin”.
+Phần còn lại của chương trình không thay đổi:
+
+Tất cả các chu trình được thực hiện bằng cách thay đổi tham số từ 1 thành n.
+
+Tôi nên mua cổ phiếu nào? Trong mỗi bài toán cụ thể, điều này thường được biết đến: không có quá 72 hành khách trong TU-134, không quá 30 sinh viên trong nhóm, v.v. Nếu cần mảng đa chiều, thì chúng tôi cũng làm như vậy: chúng tôi mô tả, chẳng hạn, một ma trận hai chiều có lề cho mỗi thay đổi và sử dụng góc “tây bắc” của nó.
+
+Cuối cùng, nếu không đủ hàng thì chúng tôi sử dụng phương pháp điều chỉnh tĩnh. Điều này gợi nhớ đến một máy thu radio thông thường: chúng tôi điều chỉnh trong phạm vi bằng cách xoay núm và để thay đổi phạm vi, chúng tôi sử dụng công tắc.
+
+Nhiệm vụ kiểm tra*)
+
+6.1. Nhập và in các giá trị của các phần tử của ma trận A “không đầy đủ” có kích thước n×m, giả sử rằng các phần tử của nó chiếm góc trên bên trái của ma trận A' này có kích thước n'×m', trong đó n'>n, m'>m. Các kích thước n và m được nhập trước khi vào ma trận A. Trước tiên, các giá trị của mỗi hàng của ma trận phải được nhập trên một dòng mới và thứ hai là được in trên một dòng mới.
+
+L. F. Sternberg
+
+*) Đây là bài cuối cùng trong loạt bài “Kỹ thuật lập trình tiêu chuẩn”.
+
+LƯỢNG TỐI ĐANG GIẾT NGƯỜI
+
+"Bay nhanh và xa hơn"
+"Trích xuất gốc"
+
+Bản vẽ của A. A. Orekhov
