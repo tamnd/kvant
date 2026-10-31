@@ -1,0 +1,72 @@
+---
+id: 1980-5-mihaylenko-neskolko-voprosov-po-astronomii-9e2c8a2e
+issue: kvant_1980_5
+year: 1980
+number: "5"
+title: Một số câu hỏi về thiên văn học
+authors:
+  - Михайленко Н. Н.
+rubric: smes
+page_first: 44
+page_last: 44
+page_labels: "42"
+tag: TIE7
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 84b00c6d6e107c513c5e04a40dbb783e8b2cfd0851dcc7d152eace60c33dc432
+prompt_sha256: draft-1
+translated_from: content/ru/1980/05/articles/14_mihaylenko-neskolko-voprosov-po-astronomii-9e2c8a2e.md
+source_content_sha256: 4004bc007aaca1622537da47c2aa2aa182b1d04be525fbc52e6c14e7b5902445
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 42⟧
+
+và góc lệch β của kim điện kế bằng
+
+$$\beta = kq = kC \frac{r}{R+r} = a \frac{r}{R+r}.$$
+
+F581. Một người đàn ông đứng trước gương với một mắt nhắm lại. Anh ta đóng hình ảnh con mắt đang nhắm của mình trong gương bằng cách mổ một mảnh giấy lên gương. Một người sẽ nhìn thấy gì nếu anh ta mở mắt nhắm và nhắm mắt lại?
+
+Trong hình, các đường màu đỏ biểu thị đường đi của các tia tới từ mắt trái sang phải và các đường màu xanh lam - từ mắt phải sang trái. Nhờ những tia này mà mắt kia có thể nhìn thấy hình ảnh của một mắt. Vì hai mắt nằm đối xứng nên rõ ràng là khi một người dán một mảnh giấy lên vùng A của gương, người đó sẽ luôn nhìn thấy mảnh giấy đó ở vị trí ảnh của mắt mình đang nhắm.
+
+F582. Một vật nổi trong nước sao cho 2/3 thể tích của nó chìm trong nước. Phần thể tích nào sẽ ở dưới nước nếu một bình chứa nước được trộn với gia tốc $\vec{a}$ theo phương thẳng đứng?
+
+Hai lực tác dụng lên cơ thể: lực hấp dẫn $M\vec{g}$ (M là khối lượng của cơ thể) và lực $\vec{F}$, bằng tất cả các lực áp suất chất lỏng tác dụng lên các vùng nhỏ trên bề mặt cơ thể (Hình 1). Theo định luật thứ hai của Newton
+
+$$\vec{F} + M\vec{g} = M\vec{a}.$$
+
+Để tìm $\vec{F}$, chúng ta sẽ sử dụng kỹ thuật sau. Ta chọn một thể tích $V_1$ trong chất lỏng, bằng thể tích của phần vật chìm trong chất lỏng và có hình dạng phần chìm của vật (Hình 2). Khối lượng cô lập này được tác động bởi phần còn lại của chất lỏng bằng một lực chính xác $\vec{F}$ như tác dụng lên vật. Và vì thể tích chất lỏng được phân bổ cùng với bình chuyển động lên trên với gia tốc $\vec{a}$, nên
+
+$$\vec{F} + m\vec{g} = m\vec{a},$$
+
+trong đó $m$ là khối lượng của thể tích chất lỏng được phân bổ. Đó là lý do tại sao
+
+$$M(\vec{a} - \vec{g}) = m(\vec{a} - \vec{g}) \Rightarrow M = m.$$
+
+Nhưng $M = \varrho_T V$ và $m = \varrho V_1$, trong đó $V$ là thể tích của vật, $\varrho_T$ là mật độ của vật và $\varrho$ là mật độ của chất lỏng. Kể từ đây,
+
+$$\varrho_T V = \varrho V_1.$$
+
+Từ đây
+
+$$\frac{V_1}{V} = \frac{\varrho_T}{\varrho}.$$
+
+Tỷ lệ này, như chúng ta thấy, không phụ thuộc vào gia tốc $\vec{a}$ của tàu và do đó, giống nhau đối với bất kỳ gia tốc nào. Do đó, dù tàu chuyển động với gia tốc $\vec{a}$ bao nhiêu thì thể tích phần chìm của vật sẽ bằng 2/3 tổng thể tích của vật.
+
+I. Slovodetsky
+
+Một số câu hỏi về thiên văn học
+
+1. Có nơi nào trên Trái đất mà trong suốt cả năm độ dài ngày bằng độ dài đêm không?
+
+2. Có sự thay đổi mùa ở xích đạo?
+
+3. Những ngày nóng nhất ở xích đạo vào thời điểm nào trong năm?
+
+4. Vào ngày nắng mùa hè (22/6), độ cao cực đại của Mặt trời (độ cao cao nhất của Mặt trời so với đường chân trời) đạt cực đại ở các vĩ độ trung nông thôn và tối thiểu ở các vĩ độ trung nam. Và ở xích đạo - trung gian?
+
+H. Mikhailenko

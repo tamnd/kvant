@@ -1,0 +1,57 @@
+---
+id: 1980-6-kotov-kartinyi-na-vode-7f34fe7a
+issue: kvant_1980_6
+year: 1980
+number: "6"
+title: Những bức tranh trên mặt nước
+authors:
+  - Котов Ю. В.
+rubric: raznoe
+rubric_sub: Разное
+page_first: 17
+page_last: 17
+page_labels: "15"
+tag: 4TT9
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 11b732d050e455136d9b4046e31c211c4e557a66a896e2dd5eec22320369a11c
+prompt_sha256: draft-1
+translated_from: content/ru/1980/06/articles/07_kotov-kartinyi-na-vode-7f34fe7a.md
+source_content_sha256: 476f5a5baaa41904298d92150fded7bf7f26993a58746f69882d9a3cf72a7c60
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 15⟧
+
+Được biết, điều này có thể được thực hiện bằng cách sử dụng công thức
+$$S = \int_{x_A}^{x_B} [f_2(x) - f_1(x)] dx.$$
+chúng tôi có
+$$S = \int_{-8}^{1} (4 - x - 3\sqrt[3]{x^2}) dx = \int_{-8}^{1} (4 - x) dx - 3\int_{-8}^{1} \sqrt[3]{x^2} dx. \quad (3)$$
+Việc tính tích phân thứ nhất của số dưới không gây khó khăn gì:
+$$\int_{-8}^{1} (4 - x) dx = 4x - \frac{x^2}{2} \bigg|_{-8}^{1} = 67,5 \left(e d\right)^2. \quad (4)$$
+Nhưng việc tính tích phân thứ hai bất ngờ dẫn đến kết luận:
+$$3\int_{-8}^{1} \sqrt[3]{x^2} dx = 3\int_{-8}^{1} x^{\frac{2}{3}} dx = \frac{9}{5} x^{\frac{3}{2}} \bigg|_{-8}^{1} = 59,4 \left(e d\right)^2. \quad (5)$$
+Thay kết quả (4) và (5) vào đẳng thức (3), ta thu được
+$$S = 67,5 - 59,4 = 8,1.$$
+Urazhenya
+2. Viết công thức (*) dưới dạng hàm lũy thừa.
+3. Viết công thức (**) dưới dạng hàm lũy thừa.
+4. Tính diện tích hình được giới hạn bởi đường thẳng
+$$y = 2\sqrt[4]{x^2}, y = 0,4x + 2,4.$$
+— tích phân không tồn tại, vì biểu thức $(-8)^{\frac{5}{3}}$ vô nghĩa!
+
+*) Nếu $m < 0$ thì bạn cần yêu cầu thêm $x \neq 0$ đó.
+
+bìa của chúng tôi
+
+Những bức tranh trên mặt nước
+Bạn có thể tự mình “vẽ” bức tranh mà chúng tôi đã sao chép trên trang đầu tiên của trang bìa trong vài phút.
+Đổ nước vào một cuốn sách ảnh hoặc một vật chứa nào khác; trong các thùng nhỏ riêng biệt, pha loãng một lượng nhỏ sơn dầu nghệ thuật nhiều màu trong xăng hoặc nhựa thông (để xa lửa và các thiết bị điện tử). Sau đó cẩn thận nhỏ giọt sơn này lên bề mặt nước. Những giọt nước bắt đầu lan rộng, tạo thành những hình nổi kỳ lạ trên bề mặt. Thiết kế này có thể được sửa đổi bằng cách cẩn thận đặt nó bằng một cây gậy và thổi vào nó.
+Cẩn thận đập các góc của một tờ giấy dày (giấy vẽ) và đặt nó phẳng trên mặt nước trong một giây. Lớp sơn sẽ thấm vào giấy. Bây giờ lấy tờ giấy ra, lật lại và để khô. Hình ảnh đã sẵn sàng.
+Hoạt động của các giọt trên bề mặt nước phụ thuộc vào nồng độ sơn trong dung môi, vào trình tự và khoảng thời gian các giọt rơi xuống mặt nước và vào loại sơn. Những giọt đầu tiên thường nhanh chóng lan ra toàn bộ bề mặt nước. Nếu bạn đợi một phút để dung môi bay hơi khỏi bề mặt rồi nhỏ lớp sơn mới lên màng thu được, thì những giọt sơn mới có thể làm vỡ màng thành những “mảnh băng” riêng biệt, phân tán theo các hướng khác nhau.
+Vai trò chính trong tất cả những hiện tượng này được thể hiện rất rõ ràng bởi sức căng bề mặt.
+
+Yu. kotov

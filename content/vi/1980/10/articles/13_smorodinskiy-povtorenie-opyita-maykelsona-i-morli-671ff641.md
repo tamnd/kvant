@@ -1,0 +1,58 @@
+---
+id: 1980-10-smorodinskiy-povtorenie-opyita-maykelsona-i-morli-671ff641
+issue: kvant_1980_10
+year: 1980
+number: "10"
+title: Sự lặp lại thí nghiệm của Michelson và Morley
+authors:
+  - Смородинский Я. А.
+rubric: smes
+page_first: 53
+page_last: 53
+page_labels: "51"
+tag: DJI1
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 40acbc314b63783d04d64df5fe0b234a6b207929cb50c4cd6a88f2e699f31ada
+prompt_sha256: draft-1
+translated_from: content/ru/1980/10/articles/13_smorodinskiy-povtorenie-opyita-maykelsona-i-morli-671ff641.md
+source_content_sha256: 05c4a50e211579bc8d30a36002f2c974c7b44f3aae43b6d90ee4065462171ef5
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 51⟧
+
+Chương cuối cùng, giống hệt, chứa các yếu tố của tổ hợp.
+
+Chỉ riêng danh sách này đã cho thấy cuốn sách chứa đựng tất cả tài liệu lý thuyết cơ bản tương ứng với khóa học đại số và giải tích cơ bản ở trường và cần thiết cho việc học toán cao cấp ở trường đại học.
+
+Cuốn sách được viết phù hợp với chương trình giảng dạy toán học hiện đại ở trường và theo cách mà cả những học sinh ở khoa dự bị đã quen thuộc với chương trình giảng dạy ở trường hiện tại và những người đã tốt nghiệp ra trường và học theo chương trình cũ có thể sử dụng thành công.
+
+Cuốn sách được viết bằng ngôn ngữ dễ hiểu, dễ tiếp cận, đồng thời ở trình độ khoa học và phương pháp luận khá cao.
+
+Nhưng thật không may, cuốn sách cũng có những thiếu sót đáng kể.
+
+Khi học một môn toán, người ta không thể giới hạn mình chỉ trình bày tài liệu lý thuyết. Tất cả các vị trí lý thuyết đều đi kèm với một số lượng lớn các bài tập thành công một cách cẩn thận.
+
+1. Khái niệm hàm số không nguyên tố tại một điểm, tính chất của hàm số không nguyên tố và việc phân loại điểm gián đoạn được trình bày trước khái niệm giới hạn của hàm số tại một điểm và lý thuyết về giới hạn. Sự hữu ích của việc xây dựng như vậy là đáng nghi ngờ. Vì khái niệm giới hạn một phía chưa được đưa vào nên không thể lúc nào cũng nói đến việc phân loại các điểm gián đoạn, chưa kể vấn đề này không được đưa vào chương trình phổ thông.
+
+2. Thuật ngữ tác giả đề xuất không phải lúc nào cũng may mắn: “bán parabol”, “NOZ”, “đồ thị phương trình”,
+
+Sự lặp lại thí nghiệm của Michelson và Morley
+
+Tất cả những kết luận trên của lý thuyết tương đối đặc biệt đều dựa trên thực tế là tốc độ ánh sáng trong chân không không phụ thuộc vào tốc độ chuyển động, nguồn phát hay tốc độ chuyển động quan sát được. Người ta gọi nó là hằng số cơ bản.
+
+Thực tế quan trọng này lần đầu tiên được thử nghiệm thực nghiệm bởi nhà vật lý người Mỹ Michels vào năm 1881, và vào năm 1886, thí nghiệm được thực hiện lại lần nữa, lần này cùng với Morley, cũng là một nhà khoa học người Mỹ. Kể từ đó, thí nghiệm của Michelson và Morley, được lặp đi lặp lại nhiều lần, đã đi vào lịch sử vật lý như một trong những thí nghiệm quan trọng nhất*).
+
+Michelson và Morley phát hiện ra rằng tốc độ truyền ánh sáng dọc theo hướng chuyển động của Trái đất quanh Mặt trời và vuông góc với hướng này là như nhau. Chính xác hơn, từ các thí nghiệm có thể kết luận rằng tỷ số giữa tốc độ ánh sáng “theo chiều dọc” $v_{11}$ (theo chuyển động của Trái đất) với tốc độ “ngang” $v_{\perp}$ (vuông góc với chuyển động của Trái đất) khác với
+
+$v_{11} = 1 \pm 10^{-5}$.
+
+Gần đây, hai nhà vật lý - Brillet từ Pháp và Hall từ Mỹ - đã xây dựng một hệ thống lắp đặt mới để kiểm tra thí nghiệm của Michelson và Morley, trong đó nguồn sáng là tia laser. Họ đã cố gắng tăng đáng kể độ chính xác của thí nghiệm và đạt được điều đó
+
+$$\frac{v_{11}}{v_{\perp}} = 1 \pm 10^{-15}.$$
+
+Cho đến nay, thí nghiệm này đại diện cho thử nghiệm chính xác nhất về cấu trúc cơ bản của lý thuyết đặc biệt về bề mặt tương đối.

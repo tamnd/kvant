@@ -1,0 +1,75 @@
+---
+id: 1980-11-krivosheev-magicheskie-vosmiugolniki-917ff67e
+issue: kvant_1980_11
+year: 1980
+number: "11"
+title: Hình bát giác ma thuật
+authors:
+  - Кривошеев Е.
+rubric: raznoe
+rubric_sub: Разное
+page_first: 39
+page_last: 39
+page_labels: "37"
+tag: PJ70
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 87b50cdc1603856d6d0adaad884a8d446459e84cc2b0d3af8e193978d9fbc0f4
+prompt_sha256: draft-1
+translated_from: content/ru/1980/11/articles/12_krivosheev-magicheskie-vosmiugolniki-917ff67e.md
+source_content_sha256: 558b219ae2fbd1196dfc78f8a4edd22f66fa85a918d384b8187dbc0b093abf8a
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 37⟧
+
+{a₁; a₂; a₃}, {a₁; a₂; a₄}, {a₁; a₃; a₄}, {a₂; a₃; a₄}.
+
+Do đó, tập $A$ có các tập con chẵn, tập $B$ có 8 tập con và tập $C$ có ​​16 tập con.
+
+Tập hợp các bản ghi con, chúng tôi sắp xếp chúng theo thứ tự tăng dần về số phần tử. Cố gắng tính số lượng tập hợp con của một tập hợp hữu hạn tùy ý theo cách này, chúng ta đi đến phép tính bài toán khó khăn hơn về số lượng tập hợp con có số phần tử cho trước. Tuy nhiên, có một cách khác lời giải bài toán.
+
+Đặt phần tử $A = \{a_1; a_2; ...; a_n\} — n$. Việc lựa chọn một tập hợp con tùy ý $B$ của tập hợp $A$ có thể được chia thành các bước sau: trong bước đầu tiên, chúng tôi quyết định có đưa phần tử $a_1$ vào tập hợp con $B$ hay không, ở bước thứ hai, chúng tôi quyết định có đưa phần tử $a_2$ vào $B$, v.v., ở bước cuối cùng, bước thứ $n$, chúng tôi quyết định có nên đưa vào hay không trong tập hợp con $B$ phần tử $a_n$. Vì ở mỗi bước, bất kể lời giải được chấp nhận ở các bước trước, chúng ta có cơ hội (có đưa vào $B$ phần tử tiếp theo hay không), nên theo quy tắc tích, số tập con của tập $A$ bằng tích $n$ hai, tức là bằng $2^n$. Vì vậy, một bộ phần tử $n$ có $2^n$ các tập hợp con khác nhau.
+
+Tuyên bố này sẽ giúp chúng tôi trong lời giải bài toán tiếp theo.
+
+Bài toán 8. Có bao nhiêu cách xếp 15 bạn nam và 15 bạn nữ ngồi thành 15 nhóm sao cho mỗi bạn nam ngồi cùng một nhóm với các bạn nữ?
+
+Hãy nhớ lời giải chúng ta có $(15!)^2$ khả năng, ở khả năng $2^{15}$ thứ hai. Theo quy tắc sản phẩm, chúng tôi nhận được đáp số: $(15!)^2 \cdot 2^{15}$.
+
+Bài tập 12. Có bao nhiêu cách bỏ 9 đồng xu khác nhau vào hai túi?
+
+bìa của chúng tôi
+
+Sáp ma thuật
+
+Trang thứ tư của trang bìa mô tả 25 “thợ gốm bằng sáp ma thuật”. Các nút của mỗi nút chứa bốn số “xanh lam” và bốn số “xanh lục”, và một số “đỏ” được viết ở giữa (tất cả các số đều nằm trong khoảng từ 1 đến 25).
+
+Nếu chúng ta cộng số màu đỏ với bốn số màu xanh lam (hoặc xanh lục) của voskmutolnik “của chúng tôi”, chúng ta sẽ nhận được tổng kỳ diệu 65. Lấy ví dụ: một voskmutolnik có số 13 ở giữa: $13 + (19 + 5 + 7 + 21) = 13 + (10 + 22 + 16 + 4) = 65$. (Điều tò mò là ở đây tổng ma thuật cũng được tạo thành từ hai số lân cận được cộng với các số đối diện theo đường kính: $13 + (22 + 5) + (4 + 21) = 13 + (5 + 16) + (21 + 10) = 13 + (16 + 7) + (10 + 19) = 13 + (7 + 4) + (19 + 22) = 65$. Một số trong số chúng có cùng tính chất. Chúng ta có cơ hội (bao gồm một phần tử khác vào $B$ hoặc không), thì theo quy tắc tích, số tập con của tập hợp $A$ bằng tích của $n$ hai, tức là bằng $2^n$. Vì vậy, trong bộ phần tử A $n$ có $2^n$ các tập hợp con khác nhau.
+
+Bây giờ chúng ta hãy lấy, bắt đầu từ hàng trên cùng, số màu xanh lá cây:
+
+15 7 4 21 18
+17 14 6 3 25
+24 16 13 10 2
+1 23 20 12 9
+8 5 22 19 11
+
+Một lần nữa chúng ta có được một hình vuông kỳ diệu với tổng bằng 65.
+
+Các số xanh còn lại:
+
+23 9 20 1 12
+7 18 4 15 21
+16 2 13 24 10
+5 11 22 8 19
+14 25 6 17 3
+
+tạo thành một hình vuông ma thuật một lần nữa. Điều tương tự cũng đúng với số màu xanh lam.
+
+Vì vậy, chúng tôi đã tìm thấy một hình vuông màu đỏ, một hình vuông nhiều màu (trong khung), hai hình vuông màu xanh lá cây và một hình vuông màu xanh lam... Hãy tự tìm một hình vuông màu xanh lam khác.
+
+E. Krivoshcheev

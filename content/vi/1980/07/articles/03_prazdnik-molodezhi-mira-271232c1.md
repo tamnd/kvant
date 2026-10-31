@@ -1,0 +1,40 @@
+---
+id: 1980-7-prazdnik-molodezhi-mira-271232c1
+issue: kvant_1980_7
+year: 1980
+number: "7"
+title: Liên hoan Giới trẻ Thế giới
+rubric: otkryvayushchie-stati
+page_first: 4
+page_last: 4
+page_labels: "2"
+tag: XWE2
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 1c2752623c81997475bc6b394abe5731b7c85c8527aa60f6e7cca4d74554bc22
+prompt_sha256: draft-1
+translated_from: content/ru/1980/07/articles/03_prazdnik-molodezhi-mira-271232c1.md
+source_content_sha256: bd2de8fde2aa2d3b71f564cb34a7ca6e7aaaf54044d2c33dbd94aeef83468130
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 2⟧
+
+Liên hoan Giới trẻ Thế giới
+
+Giờ đây, sự chú ý của cả thế giới đang đổ dồn vào Moscow, nơi các vận động viên đang có một cuộc tranh luận gay cấn về sức mạnh, sự nhanh nhẹn và tốc độ.
+
+Việc lựa chọn thủ đô của Liên Xô làm chủ nhà kinh tế của Thế vận hội Olympic mùa hè XXII là một hiện tượng tự nhiên, được quyết định bởi tiến trình lịch sử phát triển của thể thao. Hôm nay cả thế giới sẽ ghi nhận sự đóng góp to lớn mà các vận động viên thể thao nước ta đã thực hiện trong việc củng cố phong trào Olympic hiện đại.
+
+Bốn năm trước, khi một lễ kỷ niệm thể thao thế giới tương tự được tổ chức ở Montreal, Leonid Ilyich Brezhnev đã viết trong tin nhắn điện thoại của mình tới các thành viên Ủy ban Olympic quốc tế, Ban tổ chức và những người tham gia Thế vận hội Olympic mùa hè XXI:
+
+"USCP ủng hộ và sẽ tiếp tục ủng hộ phong trào Olympic hiện đại. Hiện người dân Liên Xô đang chuẩn bị cho Thế vận hội Moscow 1980 và sẽ làm mọi cách để đảm bảo rằng nó diễn ra ở mức độ cao, tạo động lực mới cho những người khác và thế giới."
+
+Thủ đô của Liên Xô đã làm mọi thứ để chuẩn bị cho kỳ nghỉ của các vận động viên Olympic trên hành tinh. Hơn nữa, toàn bộ Mátxcơva, tất cả người dân Liên Xô, đều coi Thế vận hội là mục tiêu thân yêu của riêng mình.
+
+Và bây giờ những năm tháng lao động, những năm tháng bất ổn đã ở phía sau chúng ta. Công việc tạo ra mưa đá đã hoàn thành. Vâng, mưa đá: xét cho cùng, 76 công trình lớn khác nhau đã được xây dựng hoặc tái thiết cùng một lúc; một số trong số chúng là vô song và về cơ bản là độc nhất. Những khu ở giữa là sân vận động trong nhà cho 45.000 khán giả và hồ bơi trên Đại lộ Mira, khu liên hợp bóng đá và điền kinh CSKA, kênh chèo thuyền, đường đua kolschevaya và sân tập thể dục trong nhà ở Krylatskoye, Cung thể thao ở Izmailovo và Sokolniki, trung tâm cưỡi ngựa dành cho các chuyên gia ở khu vực Bitsa, nhà thi đấu Druzhba. Tổng thể tái thiết Sân vận động Trung tâm mang tên V.I. Lenin được tiến hành, nơi diễn ra lễ khai mạc Thế vận hội; tổng hợp của bảy môn thể thao đang được tổ chức. Các khách sạn mới đã được xây dựng, nhà ga hàng không Olympic “Sheremetevo-2” đã được xây dựng, tất cả các dịch vụ của thành phố rộng lớn, trong trang phục của một cuộc diễu hành lễ hội, đã được đưa vào trật tự mẫu mực.
+
+Một trong những nét đặc trưng quan trọng nhất của Thế vận hội 1980 là chương trình văn hóa, bắt đầu từ năm ngoái. Trong các nhà hát và phòng hòa nhạc tốt nhất, trên các địa điểm sân khấu mở, trong bảo tàng và phòng biểu diễn, có một cuộc trưng bày rộng rãi về nghệ thuật đa quốc gia của Liên Xô. Chẳng phải điều quan trọng là chỉ riêng trong Thế vận hội đã có khoảng 600 buổi biểu diễn và 1.500 buổi hòa nhạc ở thủ đô của chúng ta! Tất cả những điều này, bao gồm các buổi chiếu phim Liên Xô, các buổi tham quan, các chuyến du ngoạn đến các địa điểm lịch sử của thành phố và vùng phụ cận; sẽ cho phép những người tham gia và khách mời của Thế vận hội đánh giá cao sự giàu có tinh thần của nhân dân, đất nước chúng ta, hiểu được vị trí đáp ứng nhu cầu văn hóa của người dân Liên Xô trong lối sống của chúng ta, để tưởng tượng chúng ta đã đóng góp đáng kể như thế nào cho kho tàng văn hóa thế giới.

@@ -1,0 +1,40 @@
+---
+id: 1980-12-zadachi-0ba5fbb0
+issue: kvant_1980_12
+year: 1980
+number: "12"
+title: Bài toán
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 33
+page_last: 33
+page_labels: "31"
+tag: CFYB
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 8cd9f2971a8ec1123f94375e1068bbb7bfe6071d26b4a4b5112e453d8c121b50
+prompt_sha256: draft-1
+translated_from: content/ru/1980/12/articles/14_zadachi-0ba5fbb0.md
+source_content_sha256: 2a6adeb84c0b7719c792b5799100abc4a0145729f6bb7301a606354a64e9ffff
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 31⟧
+
+Nhiệm vụ
+
+1. Điền vào các ô của hình vuông đã vẽ các số tự nhiên sao cho tổng các số trên mỗi hàng, mỗi cột và các đường chéo của hình vuông bằng nhau (các hình vuông như vậy gọi là hình vuông trùng nhau) và bằng 1980.
+
+2. Đây là loại hình gì, cộng số nào vào cuối một số tự nhiên tùy ý, chúng ta sẽ có cùng một số được thêm vào hình này và tích của số này bằng hình này?
+
+3. Lấy tám que diêm và một chiếc cúc áo và tạo thành một con cá như trong hình. Bây giờ sắp xếp lại ba que diêm và một chiếc nút để con cá trông giống hệt nhau nhưng cháy theo hướng ngược lại.
+
+4. Có nhiều hơn ba số tự nhiên viết thành một vòng tròn, tổng của chúng bằng 37. Biết rằng tổng của ba số tự nhiên liên tiếp bất kỳ đều bằng nhau. Những số nào được viết trong một vòng tròn?
+
+5. Ngoài kim giờ và kim phút, đồng hồ báo thức còn có kim chuông. Một người thợ đồng hồ đã tạo ra một cơ chế giúp kim này bắt đầu chuyển động đều sao cho nó luôn chia đôi góc giữa kim giờ và kim phút.
+Một mũi tên như vậy sẽ quay được bao nhiêu vòng mỗi ngày?
+
+Những nhiệm vụ này được đề xuất cho chúng tôi bởi A. Baboyan, F. Bargenev, S. Bely, A. Cabrizon, A. Savin

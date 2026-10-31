@@ -1,0 +1,50 @@
+---
+id: 1980-9-gik-pat-na-doske-304220f2
+issue: kvant_1980_9
+year: 1980
+number: "9"
+title: Pat lên bảng
+authors:
+  - Гик Е. Я.
+rubric: shahmatnaya-stranichka
+rubric_sub: Шахматы
+page_first: 67
+page_last: 67
+tag: PF4J
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 3e8fcf74e3b858d18bb7f430ceaf698d12e6c84ac9b580832a9884ee8836a3ae
+prompt_sha256: draft-1
+translated_from: content/ru/1980/09/articles/02_gik-pat-na-doske-304220f2.md
+source_content_sha256: 94fb25427cf1aac62bd49fcc7b288860d47fc80bc3fd04e9707bce8dc8138bfd
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+CUỘC THI CỜ VƯƠNG
+
+PAT TRÊN BAN
+
+Sự cố kịch tính xảy ra trong game Hübner - Adorjan đã gợi ý cho chúng ta chủ đề tiếp theo của cuộc thi - bế tắc trên bảng! Tất nhiên, trong quá trình luyện tập của các kiện tướng, mọi việc hiếm khi kết thúc trong bế tắc, nhưng đôi khi, như chúng ta thấy, những sự kiện đáng kinh ngạc như vậy vẫn xảy ra. Vị trí tiếp theo phát sinh cách đây 75 năm.
+
+Trận thứ 20 trong trận tái đấu tranh chức vô địch thế giới với M. Tal (1961).
+
+Rất thường xuyên, bế tắc xảy ra khi một con tốt được thăng thành quân hậu, nhưng mục tiêu sẽ đạt được nếu một quân yếu hơn, thường là quân xe (ít thường là quân tượng hoặc quân mã), được đặt trên bàn cờ cùng với quân hậu. Kỹ thuật này trong bố cục được gọi là “biến đổi yếu”.
+
+Giai đoạn cổ điển, chỉ có bốn quân cờ, trong đó hai bên giao tranh toàn diện, được thể hiện trong nhiệm vụ thi đấu số 1. Trong tất cả các tài liệu về cờ vua, khó có thể tìm thấy một quân cờ đỏ và bất ngờ như vậy với chất liệu hạn chế như vậy.
+
+1. F. Saavedra, 1895 Trắng bắt đầu và thắng.
+
+Tất nhiên, trong thế kỷ 20, ý tưởng bế tắc của Saavedra đã nhiều lần được cải tiến. Một trong những biến thể hay nhất được thể hiện ở nhiệm vụ cạnh tranh số 2.
+
+2. M. Liburkin, 1931 Trắng bắt đầu và thắng.
+
+3. A. Troitsky, 1910 Người da trắng bắt đầu và không làm gì cả.
+
+Một cái bẫy bế tắc được che đậy một thời đã lan truyền khắp báo chí cờ vua thế giới, được thiết lập bởi M. Botvinnik ở vị trí này có thể xuất hiện trong lần hoàn thành thứ hai của ván đấu. Vị trí của Đen có vẻ vô vọng: sau 1...Rd1 2.JL:c6+ Npb7 3.JLf6 R:d4+ 4.Kpb5 và 5.JLf7+ anh ta phải từ chức. Tuy nhiên, Botvinnik trong quá trình phân tích ngôi nhà của mình đã tìm ra một sự cứu rỗi bất ngờ: 1...Rb4+!! Bây giờ 2.Kp:b4 dẫn đến bế tắc và 2.Kpa3 R:d4 mang lại cho Đen một trận hòa đơn giản. Trong ván phụ, hai nước đi trước vị trí trên sơ đồ, Tal phát hiện ra một cái bẫy xảo quyệt, đi đường khác nhưng không còn phần thắng. Trận đấu kết thúc với tỷ số hòa ở nước đi 121. Và ngày hôm sau Botvinnik dễ dàng đánh bại nhà vô địch thế giới khó chịu và giành lại vương miện cờ vua của mình.
+
+Trong bố cục cờ vua, ý tưởng bế tắc là một trong những ý tưởng phổ biến nhất. Trong một trường hợp, Trắng được cứu nhờ vào thế bế tắc, trong những trường hợp khác, Trắng thắng nhờ tránh được một cái bẫy bế tắc tinh vi.

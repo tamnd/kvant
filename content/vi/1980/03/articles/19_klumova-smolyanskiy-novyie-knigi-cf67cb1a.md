@@ -1,0 +1,76 @@
+---
+id: 1980-3-klumova-smolyanskiy-novyie-knigi-cf67cb1a
+issue: kvant_1980_3
+year: 1980
+number: "3"
+title: Sách mới
+authors:
+  - Клумова И. Н.
+  - Смолянский М. Л.
+rubric: retsenzii-bibliografiya
+rubric_sub: Рецензии, библиография
+page_first: 59
+page_last: 59
+page_labels: "57"
+tag: D9PX
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 162c8ee4169820d2b54f58bbb6c60518fd27d6797b06d597b791cc13ddbaf0ce
+prompt_sha256: draft-1
+translated_from: content/ru/1980/03/articles/19_klumova-smolyanskiy-novyie-knigi-cf67cb1a.md
+source_content_sha256: c71d3e894c596bc0a509e8e1d911d5875fed2ff1e06a833467ec4fff469f7f52
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 57⟧
+
+Sách mới
+
+Chúng tôi tiếp tục xuất bản các bản tóm tắt sách về toán học và vật lý mà độc giả của chúng tôi có thể tiếp cận và thú vị. Trong số này chúng ta nói về những cuốn sách được xuất bản vào quý 1 năm 1980.
+
+Toán học
+
+Nhà xuất bản "Khoa học"
+
+1. Berman G. N. Cyclops. Phiên bản thứ 3. Tập 6 l., phát hành 100.000 bản, giá 20 kopecks.
+
+Cyclops là một đường cong được mô tả bởi một điểm trên đường tròn lăn theo đường thẳng không trượt. Cuốn sách này được dành riêng cho việc nghiên cứu các tính chất của đường cong đáng chú ý này và một số đường cong liên quan.
+
+Điều gì đáng chú ý về Cyclopdas? Trước hết, ý nghĩa đặc biệt của nó đối với công nghệ. Theo giá trị thực tế của chúng, các đường cong cyclopdal có thể được đặt bên cạnh quỹ đạo hình elip, parabol và đạn đạo.
+
+Thứ hai, các đường cong cyclopdal là nền tảng để thử nghiệm các ý tưởng toán học mới, các phương pháp tính toán mới xuất hiện vào thế kỷ 17 và được hình thành vào cuối thế kỷ này thành phép tính vi phân và tích phân. Những cái tên liên quan đến nghiên cứu về Cyclops đều quen thuộc với bất kỳ học sinh nào: Galileo, Torriceli, Huygens đã tham gia vào nó.
+
+Cách trình bày trong sách hoàn toàn sơ đẳng, các khoảng cách gần sát với suy luận của các nhà toán học vĩ đại và người Pháp đã nghiên cứu về Cyclops. Ví dụ, trích dẫn lý luận của Huygen, trả lời câu hỏi nên chọn một điểm dọc theo đường cong nào để chu kỳ bình của nó không phụ thuộc vào biên độ (đường cong này hóa ra là đường cyclops), tác giả viết: "Chúng tôi trình bày lý luận của Huygen, đơn giản hóa phần nào và diễn đạt nó theo thuật ngữ hiện đại. Đồng thời, cách trình bày của chúng tôi dễ tiếp cận hơn nhưng rất thiếu tính biểu cảm - nó chỉ là "...từ một bức tranh sống động, danh sách nhạt nhẽo."
+
+Một cuốn sách sáng giá, tài năng của Georgy Nikolaevich Berman, ngoài những sự thật toán học và vật lý thú vị, còn chứa đựng rất nhiều nguồn thông tin. Tất nhiên, độc giả của nó sẽ có được những điều thoải mái.
+
+2. Pontryagin L. S. Phân tích toán học cho cyclops. Tập 6 l., phát hành 100.000 bản, giá 25 kopecks.
+
+Cuốn sách nhỏ này bao gồm tài liệu bao gồm tất cả các lĩnh vực tính toán được dạy ở trường. Nó bao gồm các đa thức tùy ý, hàm lượng giác, hàm mũ và hàm logarit. Một khoảng được định nghĩa là phép toán nghịch đảo của vi phân, là diện tích dưới đồ thị và là giới hạn của tổng hữu hạn. Bài tập được đưa ra ở cuối mỗi đoạn. Cuốn sách không tập trung vào sự chặt chẽ trong cách trình bày mà tập trung vào kỹ thuật tính toán.
+
+Nhà xuất bản "Mir"
+
+3. Loeyd S. Khảm toán học. Dịch từ tiếng Anh. Tập 18 l., phát hành 100.000 bản, giá 1 chà. 30k.
+
+Tuyển tập các câu đố toán học bài toán hấp dẫn được tổng hợp từ hai cuốn sách thuộc thể loại này của nhà toán học nổi tiếng người Mỹ Sam Loyd. Câu đố của ông rất phổ biến trên toàn thế giới. Họ cũng được biết đến với những người hâm mộ các câu đố toán học.
+
+Vật lý
+
+"Nguyên tử hóa"
+
+1. Imyanitov I., Tikhii D. Ngoài các định luật khoa học. Tái bản lần thứ 2, có sửa đổi. Tập 10 l., phát hành 50.000 bản, giá 40 kopecks.
+
+Sét hòn là hiện tượng khí tượng hiếm gặp luôn thu hút sự chú ý của con người. Tại sao nó sẽ phát sinh? Thuộc tính của nó là gì? Nó tương tác với môi trường như thế nào?
+
+Trong cách nghiên cứu hiện tượng này có rất nhiều khó khăn, trong đó quan trọng nhất là thiếu thông tin khoa học đáng tin cậy.
+
+Nhà xuất bản "Prosveshcheniye"
+
+2. Siegel F. Yu. Bảng chữ cái đầy sao. Tập 10 l., phát hành 100.000 bản, giá 50 kopecks.
+
+Cuốn sách chứa thông tin cơ bản về Trái đất và thiên cầu, về các hành tinh, sao chổi và thiên thạch. Một mô tả về các dụng cụ thiên văn đơn giản nhất và các phương pháp quan sát được đưa ra.
+
+I. Klumova, M. Smolyansky

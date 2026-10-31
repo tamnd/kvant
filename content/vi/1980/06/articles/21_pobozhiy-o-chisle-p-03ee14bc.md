@@ -1,0 +1,44 @@
+---
+id: 1980-6-pobozhiy-o-chisle-p-03ee14bc
+issue: kvant_1980_6
+year: 1980
+number: "6"
+title: Về số π
+authors:
+  - Побожий Ю. В.
+rubric: raznoe
+page_first: 49
+page_last: 49
+page_labels: "47"
+tag: YTVX
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 9284a028132836703b45963afc12d7e560f2967f7837d8857bb3707fcd463b8a
+prompt_sha256: draft-1
+translated_from: content/ru/1980/06/articles/21_pobozhiy-o-chisle-p-03ee14bc.md
+source_content_sha256: f5c4a8f64a561a921bea7fe824d511de2a681facffcafaa33aa7c8d62e3c9f7a
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 47⟧
+
+Về số P
+
+Điều gì dễ dàng hơn, điều gì thích hợp hơn - đoán đúng đáp số toán học bài toán, sau đó chứng minh nó một cách nghiêm túc hay tìm kiếm nó trong sự thiếu hiểu biết hoàn toàn? Tất nhiên, tốt hơn là cái đầu tiên. Việc đoán được thực hiện dễ dàng hơn bằng cách biến đổi thành công. Ví dụ hài hước
+
+$$S = \pi R^2$$
+
+Hình vẽ ở đây thể hiện sự biến đổi như vậy. Bạn đọc hãy tưởng tượng rằng bạn vẫn chưa biết diện tích hình tròn được biểu thị như thế nào theo bán kính của nó. Hãy thử đoán công thức tương ứng. Hãy cắt hình tròn thành mười hai phần bằng nhau và cắt mỗi phần thành một hình tam giác, từ
+
+$$3R^2$$
+
+ném các đoạn như được chỉ ra bằng màu đỏ trong hình. Chúng tôi cắt mỗi phần tư các hình tam giác thu được thành một hình tam giác đều và hai hình tam giác cân, như trong hình. Từ các hình tam giác thu được, cộng ba hình vuông có cạnh bằng bán kính của hình tròn $R$. Vì vậy, xấp xỉ, cho đến các đoạn bị loại bỏ, diện tích của hình tròn bằng $3R^2$. Việc tính đến các phân đoạn bị loại bỏ buộc chúng tôi phải lấy hệ số lớn hơn một chút ở phía trước $R^2$ trong công thức này. Số nào, lớn hơn ba một chút và liên quan đến đường tròn, có thể hữu ích ở đây? Tất nhiên, $π = 3,14...$. Vì vậy, chúng tôi đã đoán công thức tính diện tích hình tròn có bán kính $R$ - đây là: $S = πR^2$.
+
+Vì mục đích này, chúng tôi muốn ước tính tổng diện tích của các phân đoạn, theo thỏa thuận của chúng tôi, là $0,14R^2$. Như trong hình, thay đoạn thẳng bằng tam giác ACD. Diện tích của một tam giác như vậy bằng tích $2AB \cdot BD$, hệ số này dễ dàng được biểu thị thông qua các hàm lượng giác của góc $α$, và chúng có thể được ước tính lần lượt bằng cách tính đến sin của góc gần đúng nhỏ bằng chính góc đó, biểu thị bằng số đo radian. Các phép tính bên cạnh hình vẽ, với độ chính xác đến hai chữ số thập phân, giá trị $0,11R^2$, rất gần với giá trị ước tính. Sau đó, chúng ta có lý do để tin rằng diện tích của một hình tròn có bán kính $R$ thực sự là $πR^2$.
+
+Yu. Pobozhy
+
+$$π = 3,1415926535897932384626433832$$

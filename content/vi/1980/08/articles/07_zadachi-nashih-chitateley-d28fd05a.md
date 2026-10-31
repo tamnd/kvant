@@ -1,0 +1,92 @@
+---
+id: 1980-8-zadachi-nashih-chitateley-d28fd05a
+issue: kvant_1980_8
+year: 1980
+number: "8"
+title: Bài toán độc giả của chúng tôi
+rubric: nam-pishut
+page_first: 13
+page_last: 13
+page_labels: "11"
+tag: APYX
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: aaa1942f48706772466b7f30b1a62b704d4e4a669f6e16065f8c7bab122c874f
+prompt_sha256: draft-1
+translated_from: content/ru/1980/08/articles/07_zadachi-nashih-chitateley-d28fd05a.md
+source_content_sha256: 4c975edcd50f084ae8d8428c74d9ab12d2cf37aeaa7e6c03cbbb8e131f0b0721
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 11⟧
+
+Bài tập
+độc giả của chúng tôi
+
+1. Chứng minh rằng $0 \leq a \leq b$ thỏa mãn bất đẳng thức
+$$\ln \frac{b}{a} \leq \frac{b^2-a^2}{2ab}.$$
+V. Yasinsky
+
+2. Chứng minh rằng nếu số hạng không phải octorian của dãy 1, 31, 331, 3331, ... chia hết cho 541 thì cũng chia hết cho 19.
+I. Suev
+
+3. Chứng minh rằng nếu
+$$x = a_1 + \frac{1}{a_2} + \dots + \frac{1}{a_n} + \frac{1}{a_n - y}$$
+Cái đó
+$$y = a_n + \frac{1}{a_n - 1} + \dots + \frac{1}{a_2 + x}$$
+M. Gerver
+
+4. Gọi $a, b, c$ là độ dài các cạnh của tam giác $ABC$, $a_1, b_1, c_1$ là độ dài tương ứng của các cạnh của tam giác
+
+$A_1B_1C_1$ có các đỉnh tại các điểm tiếp tuyến của đường tròn nội tiếp tam giác $ABC$ (xem hình). Chứng minh rằng
+$$\frac{a^2}{a_1^2} + \frac{b^2}{b_1^2} + \frac{c^2}{c_1^2} \geq 12.$$
+V. Melnik
+
+5. Một hình trụ được dựng trên đáy của một hình nón tròn bên phải. Chứng minh rằng giao tuyến của hình trụ này với một mặt phẳng tiếp tuyến với hình nón tạo ra một hình elip có diện tích bằng bề mặt bên của hình nón.
+B. Aleynikkov
+
+6. Trong một tam giác đều, góc bissertis ở đáy dài gấp đôi góc bissertis ở đỉnh. Tìm các góc của tam giác này.
+S. Sefibekov
+
+7. Chứng minh rằng tâm đường tròn nội tiếp tam giác $ABC$, giao điểm các đường trung tuyến và giao điểm các đoạn thẳng nối các đỉnh của tam giác $ABC$ với điểm tiếp tuyến của các cạnh với đường tròn ngoại tiếp (đường tròn ngoài là đường tròn tiếp xúc với một cạnh của tam giác và phần kéo dài của hai cạnh kia) nằm trên cùng một đường thẳng.
+U. Alla
+
+8. Chứng minh rằng trong mọi tam giác
+$$m_a^2 = \left(\frac{b+c}{2}\right)^2 - bc \left(\sin \frac{\widehat{A}}{2}\right)^2,$$
+trong đó $m_a$ là độ dài đường trung tuyến vẽ về cạnh đối diện với góc $A$, $b$ và $c$ là độ dài hai cạnh còn lại của tam giác, $\widehat{A}$ là các giá trị của góc $A$.
+F. Kadirov
+
+9. Tập $M$ chứa hữu hạn $n > 2$ các điểm của mặt phẳng không cùng thuộc một đường thẳng và nếu ba điểm khác octor của tập hợp này tạo thành một tam giác thì giao điểm các đường cao của tam giác này cũng thuộc đa điểm
+
+cử chỉ $M$. $n$ có thể nhận những giá trị nào?
+R. Ushakov
+
+10. Chúng ta sẽ gọi một hàm $F$, hàm này xác định trên tập hợp tất cả các số nguyên và nhận các giá trị số nguyên không âm, hiện đại, nếu với bất kỳ số nguyên nào $m, n$ thì sự tương ứng giữ nguyên
+$$F(mn) = F(m)F(n),$$
+$$F(m+n) \leq 1980 [F(m) + F(n)]$$
+và ngoài ra, $F(1980) = 0$.
+Tìm tất cả các tính năng hiện đại.
+B. Katz
+
+11. Tìm số cách tối đa để nội tiếp một tam giác vào một tam giác khác (các đỉnh của tam giác nội tiếp nằm trên các cạnh khác nhau của tam giác được mô tả).
+
+A. Serdyuk
+
+12. Nếu không có sự trợ giúp của bằng chứng
+a) $\cos 42^\circ < \frac{3}{4}$;
+b) $\tg 70^\circ > \frac{19}{7}$.
+S. Mayzus
+
+13. Trong các biểu thức như
+$$\sqrt{A \pm \sqrt{B}}$$ bạn thường có thể loại bỏ căn bậc hai bằng cách sử dụng công thức
+$$\sqrt{1 \pm 2 \cos \alpha \sin \alpha} = |\cos \alpha \pm \sin \alpha|.$$
+Ví dụ:
+$$\sqrt{13 \pm \sqrt{48}} = \sqrt{13} \sqrt{1 \pm 2 \sqrt{\frac{12}{13}} \sqrt{\frac{1}{13}}} = \sqrt{13} \left(\sqrt{\frac{12}{13}} \pm \frac{1}{\sqrt{13}}\right) = \sqrt{12} \pm 1.$$
+Dưới đây là một số ví dụ về độc lập lời giải:
+1) $\sqrt{2 \pm \sqrt{3}}$;
+2) $\sqrt{11 \pm \sqrt{21}}$;
+3) $\sqrt{9 \pm 4 \sqrt{2}}$.
+V. Olkhov

@@ -1,0 +1,112 @@
+---
+id: 1980-5-olhov-kak-pridumat-geometricheskoe-neravenstvo-01b1ff97
+issue: kvant_1980_5
+year: 1980
+number: "5"
+title: Làm thế nào để đưa ra một bất đẳng thức hình học
+authors:
+  - Ольхов В. Е.
+rubric: matematicheskiy-kruzhok
+rubric_sub: Математический кружок
+page_first: 35
+page_last: 35
+page_labels: "33"
+tag: UD32
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 5e411cb286959353c2fe32729f80e1ac9d1ba747c7037b6ace5201c4035e5369
+prompt_sha256: draft-1
+translated_from: content/ru/1980/05/articles/11_olhov-kak-pridumat-geometricheskoe-neravenstvo-01b1ff97.md
+source_content_sha256: dc29ea4db9f6d51ee1e554b5610177c9ac8eb13add776e86b1db4d7cbde42fdf
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 33⟧
+
+Làm thế nào để đưa ra một bất đẳng thức hình học
+
+“Việc nghĩ ra một bài toán mới, nguyên bản - làm ơn, thực hiện một “khám phá” nhỏ độc lập, thậm chí còn khó hơn việc giải quyết khám phá có sẵn của người khác.” Những từ này xuất hiện trong lời nói đầu của Bài tập «Kvant» trong số đầu tiên của tạp chí. Nhiều chàng trai hỏi: làm thế nào bạn có thể tự mình nghĩ ra bài toán?
+
+Tôi sẽ kể cho bạn nghe tôi đã từng nghĩ ra một số bất đẳng thức hình học như thế nào.
+
+Tôi bắt đầu bằng cách chứng minh hai bất đẳng thức nổi tiếng:
+
+$$a^4 + b^4 + c^4 \geqslant 16S^2,$$
+$$a^2 b^2 + a^2 c^2 + b^2 c^2 \geqslant 16S^2,$$
+
+trong đó $a, b, c$ là độ dài các cạnh của tam giác và $S$ là diện tích của nó. Tôi đã chứng minh chúng như thế này.
+
+Bằng cách viết công thức tính diện tích hình tam giác
+
+$$S = \frac{1}{2} ab \sin \gamma$$
+
+và định lý cosin
+
+$$c^2 = a^2 + b^2 - 2ab \cos \gamma,$$
+
+Tôi đã tìm thấy sin và cosin
+
+$$\sin \gamma = \frac{2S}{ab},$$
+$$\cos \gamma = \frac{a^2 + b^2 - c^2}{2ab}$$
+
+và thay thế các giá trị của chúng thành đẳng thức lượng giác $$\sin^2 \gamma + \cos^2 \gamma = 1.$$ Hóa ra
+
+$$\frac{4S^2}{a^2 b^2} + \frac{a^4 + b^4 + c^4 + 2a^2 b^2 - 2a^2 c^2 - 2b^2 c^2}{4a^2 b^2} = 1,$$
+
+hoặc
+
+$$16S^2 = 2(a^2 b^2 + a^2 c^2 + b^2 c^2) - a^4 - b^4 - c^4.$$
+
+Do đó, hãy sử dụng bất đẳng thức đại số (chứng minh)
+
+$$a^4 + b^4 + c^4 \geqslant a^2 b^2 + a^2 c^2 + b^2 c^2,$$
+(5)
+
+Tôi nhận được bất đẳng thức (1) và (2).
+
+Sau khi suy nghĩ một chút, tôi quyết định thử sử dụng một đẳng thức lượng giác khác. Thay vì $$\sin^2 \gamma + \cos^2 \gamma = 1$$ tôi đã viết
+
+$$\sqrt{3} \sin \gamma + \cos \gamma = 2 \sin (\gamma + 30^\circ),$$
+$$\sqrt{3} \sin \gamma + \cos \gamma \leqslant 2,$$
+
+thay thế các tương ứng (3) và (4) vào bất đẳng thức cuối cùng và sau khi biến đổi nhận được
+
+$$c^2 - a^2 - b^2 + 4ab \geqslant 4\sqrt{3} S.$$
+
+Nhận thấy rằng độ dài $a, b, c$ được bao gồm trong (6) “không đẳng cự”, tôi đã viết thêm hai phiên bản của bất đẳng thức này
+
+$$a^2 - b^2 - c^2 + 4bc \geqslant 4\sqrt{3} S,$$
+$$b^2 - a^2 - c^2 + 4ac \geqslant 4\sqrt{3} S.$$
+
+và cộng chúng lại tôi có
+
+$$(4ab + ac + bc) - (a^2 + b^2 + c^2) \geqslant 12\sqrt{3} S.$$
+
+Nhìn vào (7), tôi quyết định sử dụng bất đẳng thức
+
+$$a^2 + b^2 + c^2 \geqslant ab + ac + bc$$
+
+và thu được, như trong chứng minh (1) và (2), hai bất đẳng thức màu đỏ (nhưng thật không may, lại khá nổi tiếng!)
+
+$$a^2 + b^2 + c^2 \geqslant 4\sqrt{3} S,$$
+$$ab + bc + ca \geqslant 4\sqrt{3} S.$$
+
+Sau đó, tôi đã rõ ràng có thể thu được thêm bao nhiêu bất đẳng thức hình học nữa.
+
+Urazhenya
+
+1. Chứng minh bất đẳng thức
+$$2ab + 2bc - b^2 \geqslant 4\sqrt{3} S$$
+Tìm hiểu khi nào nó biến thành sự bình đẳng.
+
+2. Chứng minh rằng đối với tam giác đều thì bất đẳng thức (7) trở thành đẳng thức. Điều ngược lại có đúng không?
+
+3. Áp dụng bất đẳng thức lượng giác $$\sin^2 \gamma + \cos^2 \gamma \leqslant \sqrt{2},$$ và chứng minh rằng
+
+$$c^2 - a^2 - b^2 + 2\sqrt{2}ab \geqslant 4S,$$
+$$\sqrt{2}(ab + bc) - b^2 \geqslant 4S,$$
+
+và kiểm tra khi nào chúng trở thành đẳng thức

@@ -1,0 +1,64 @@
+---
+id: 1980-1-aslanyan-korshunov-chugunova-zaochnaya-fiziko-tehnicheskaya-shkola-4617a7ab
+issue: kvant_1980_1
+year: 1980
+number: "1"
+title: Trường Đại học Vật lý và Công nghệ
+authors:
+  - Асланян В. К.
+  - Коршунов С.
+  - Чугунова Т. А.
+rubric: informatsiya
+rubric_sub: Информация
+page_first: 62
+page_last: 62
+page_labels: "60"
+tag: 77UZ
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: daf085419e1724cf4a3d28092618239394deba9611705ff8913f852aaa6124b5
+prompt_sha256: draft-1
+translated_from: content/ru/1980/01/articles/26_aslanyan-korshunov-chugunova-zaochnaya-fiziko-tehnicheskaya-shkola-4617a7ab.md
+source_content_sha256: 14e697e3f34831b271bd8d0e6628899fe53582b612465026bcf4482da7b993c1
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 60⟧
+
+Trường Vật lý và Công nghệ Tương ứng (3FTSH) thuộc Huân chương Cờ đỏ Mátxcơva của Viện Vật lý và Công nghệ Lao động (MIPT) đang tuyển sinh các học sinh từ các trường 8 năm và trung học nằm trên lãnh thổ RSFSR vào lớp 8, 9 và 10 cho năm học 1980/81.
+
+Mục tiêu của trường này là giúp học sinh học vật lý và toán học một cách độc lập. Đó là lý do tại sao, khi đăng ký vào 3FTSH, quyền ưu tiên được trao cho sinh viên sống ở khu vực nông thôn và khu định cư của người lao động, những nơi đặc biệt cần sự hỗ trợ đó.
+
+Giáo dục ở trường là miễn phí.
+
+3FTS cung cấp kiến ​​thức bổ sung tốt về vật lý và toán học cho sinh viên tốt nghiệp, nhiều người trong số họ trở thành sinh viên của các trường đại học hàng đầu đất nước.
+
+Ngoài các học sinh cá nhân, 3FTS còn chấp nhận các câu lạc bộ vật lý và công nghệ, có thể được tổ chức tại địa phương theo sáng kiến ​​của hai giáo viên - vật lý và toán học. Những người đứng đầu vòng tròn tuyển dụng và ghi danh những sinh viên đã hoàn thành xuất sắc nhiệm vụ giới thiệu 3FTS. Một vòng tròn được chấp nhận vào 3FTSH nếu giám đốc trường thông báo cho 3FTSH tên của người đứng đầu vòng tròn và danh sách các thành viên vòng tròn đã thay đổi theo lớp (cho biết điểm cuối cùng của bài tập giới thiệu).
+
+Học sinh được nhận vào 3FTS và trưởng câu lạc bộ vật lý và công nghệ sẽ thường xuyên nhận các nhiệm vụ vật lý và toán học theo chương trình 3FTS, cũng như 3FTS lời giải được đề xuất của các nhiệm vụ này. Nhiệm vụ 3FTSH chứa tài liệu lý thuyết, phân tích bản chất của nhiệm vụ và các ví dụ về chủ đề, cũng như 10-14 nhiệm vụ dành cho lời giải độc lập. Đây vừa là những nhiệm vụ đơn giản vừa phức tạp hơn (ở cấp độ cạnh tranh bài toán tại MIPT). Phòng ban công tác
+
+Tất cả học sinh đều được kiểm tra trong 3FTSH hoặc các bộ phim của nó, và công việc của các thành viên trong vòng kết nối được kiểm tra bởi người đứng đầu vòng kết nối.
+
+Học sinh Matxcơva được học các môn vật lý và toán học. Chúng được tổ chức hai lần một tuần theo chương trình 3FTSH tại các điểm tư vấn buổi tối (ở một số trường ở Moscow), việc tuyển dụng được thực hiện dựa trên kết quả của nhiệm vụ đầu vào 3FTSH hoặc dựa trên kết quả của một cuộc phỏng vấn về vật lý và toán học. Cuộc phỏng vấn sẽ được tổ chức vào nửa cuối tháng 9 (để biết thông tin, hãy gọi 216-00-05, máy lẻ 2-59).
+
+Mỗi học sinh phải hoàn thành bài tập giới thiệu về vật lý và toán học một cách độc lập bằng tiếng Nga và sao chép cẩn thận vào một tạp chí của trường. Thứ tự của nhiệm vụ sẽ giống như trong nhiệm vụ. Gửi terrada trong một phong bì lớn, một bưu kiện đơn giản (chỉ cần không cuộn terrada thành ống). Cùng với quyết định của bạn, hãy nhớ gửi giấy chứng nhận từ trường nơi bạn đang theo học, cho biết lớp học của bạn. Dán giấy chứng nhận vào bìa bên trong của Terradi. Nếu không có chứng chỉ này lời giải sẽ không được xem xét. Ở bên ngoài của terradi, dán một tờ giấy đã điền vào theo mẫu bên dưới.
+
+Ngày khởi hành lời giải - không muộn hơn ngày 1 tháng 3 năm 1980 (theo MỤC BƯU ĐIỆN nơi khởi hành). Giấy tờ dự thi sẽ không được gửi lại.
+
+Việc tuyển sinh vào trường được thực hiện bởi hội đồng tuyển sinh của Viện Vật lý và Công nghệ Moscow. Lời giải sẽ được thông báo tới hội đồng tuyển sinh chậm nhất là ngày 1 tháng 8 năm 1980.
+
+Vui lòng gửi bài tập giới thiệu đã hoàn thành của bạn (bắt buộc ở cả môn vật lý và toán học) tới: 141700,
+
+1. Vùng (khu vực hoặc ASSR)
+2. Họ, tên, chữ viết tắt
+3. Lớp học
+4. Số trường và địa chỉ
+5. Nghề nghiệp cha mẹ và chức vụ nắm giữ
+   bố
+   mẹ
+6. Địa chỉ nhà chi tiết
+   453081, quận Sterlitamak,
+   làng Naumovka, thiết bị nông nghiệp nhà nước

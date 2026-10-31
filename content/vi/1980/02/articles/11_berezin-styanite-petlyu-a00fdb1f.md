@@ -1,0 +1,81 @@
+---
+id: 1980-2-berezin-styanite-petlyu-a00fdb1f
+issue: kvant_1980_2
+year: 1980
+number: "2"
+title: Kéo vòng lặp
+authors:
+  - Березин В. Н.
+rubric: smes
+page_first: 34
+page_last: 34
+page_labels: "32"
+tag: RZIO
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: e601af438e925cee73bda25fad62f7f4932056a89e5dda104dda37e8968bc2b9
+prompt_sha256: draft-1
+translated_from: content/ru/1980/02/articles/11_berezin-styanite-petlyu-a00fdb1f.md
+source_content_sha256: f864d4302a83b2c89ce3adc907a445796b33caeaa4c93d8133896fc6bb178c57
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 32⟧
+
+2(√n+1−1)<1+1/√2+1/√3+...
+...+1/√n<2√n−1.
+
+6) (S. Mayzus, Zaporozhye) Chứng minh rằng dãy
+$$U_n=1+\frac{1}{\sqrt{2}^2}+\frac{1}{\sqrt{3}^3}+\dots+\frac{1}{\sqrt{n}^3}-4\sqrt{n}$$
+giảm và có xu hướng tới giới hạn.
+
+8. a) (V. Komov, Aleksandrov) Chứng minh dãy $\{(2+\sqrt{3})^n\}$ hội tụ và tìm giới hạn của nó.
+
+6) 100 chữ số thập phân đầu tiên trong $(\sqrt{50}+7)^{100}$ là gì?
+
+9. Chứng minh rằng với mọi số tự nhiên $d$ không phải là số chính phương thì luôn tồn tại một $a$ sao cho mọi $m$ và $n$
+$$|m/n-\sqrt{d}|>1/\alpha n^2.$$
+
+10. (I. Zhuk, Minsk) Chứng minh rằng với mọi số tự nhiên $n$ thì số $[(35+\sqrt{1157})^n/2^n]$ chia hết cho 17 và nói chung với mọi số tự nhiên $k$ và $n$ thì số $[(2k+1+\sqrt{4k^2+1})^n/2^n]$ đều chia hết cho $k$.
+
+11. (S. Manukyan, làng Maliy Pamach, GSSR). Chứng minh rằng với mọi số $p>2$ luôn tồn tại một số $β$ sao cho mỗi số $n$
+$$\sqrt{2+\sqrt{2+\dots+\sqrt{2+\sqrt{2}+p}}}=\beta^{2n}+\beta^{-2n}$$
+$n$ vết cắt.
+
+12. (I. Zhuk, Minsk) Chứng minh rằng dãy $b_m=1+17m^2$ chứa vô số bình phương các số nguyên.
+
+13. Viết phương trình bậc hai với các hệ số nguyên, một trong các nghiệm của nó là $(3+\sqrt{5})/4$.
+
+14. Viết phương trình bậc 4 với nghiệm $\pm \sqrt{p} \pm \sqrt{q}$ và giải nó dưới dạng phương trình hai bậc hai. So sánh đáp số với các nghiệm đã cho, chứng minh các công thức phổ biến của phép cắt kép:
+$$\sqrt{A+\sqrt{B}}=\sqrt{\frac{A+\sqrt{A^2-B}}{2}}$$
+$$\pm \sqrt{\frac{A-\sqrt{A^2-B}}{2}}$$
+$(A^2>B>0, A>0)$.
+
+Danh sách tài liệu bổ sung
+
+1. L. Kurlyandchik, A. Lisitsky “Tổng và tích” («Kvant», 1978, số 10).
+2. V. Thứ hai lời giải bài toán M514 («Kvant», 1979, số 5, trang 26).
+3. R. Niven “Số hữu tỷ và số vô tỷ” (M., “Mir”, 1966).
+4. D. Fuchs, M. Fuchs “Về các phép tính gần đúng tốt nhất” («Kvant», 1971, Số 6, 11) và “Các phép tính gần đúng và siêu việt hợp lý” («Kvant», 1973, Số 1).
+5. N. Vasiliev, V. Gutenkhacher “Những đường thẳng và đường cong” (M., “Nauka”, 1978), tr. 103-105.
+6. A. N. Markushevich “Hàng” (M., “Nauka”, 1979).
+7. Được chọn bài toán từ tạp chí American Mathematical Monthly (M., “Mir”, 1977), tr. 560-561.
+8. L. Kurlyandchik, G. Rosenblom “Phương pháp giảm dần vô hạn” («Kvant», 1978, số 1).
+9. V. Berezin “Phyllotaxis và dãy Fibonacci”, («Kvant», 1979, Số 5, trang 53).
+10. N. N. Vorobyov “Các số Fibonacci” (Bài giảng phổ biến về toán học, số 1) (M., “Nauka”, 1978).
+12. L. I. Golovina “Đại số tuyến tính và một số ứng dụng của nó” (M., “Nauka”, 1979).
+13. M. M. Postnikov “Lý thuyết Galya” (M., Fizmatiz, 1963).
+14. Van der Waerden “Đại số” (Moscow, “Nauka”, 1976).
+
+Stat vòng lặp
+
+Hai chuông $A$ và $B$ bị mắc kẹt vào máy bay và một vòng dây được ném qua chúng (xem Hình. ok). Loại bỏ vòng lặp
+
+từ cọc, không làm rách và không nhấc nó lên trên cọc, rất tuần, điều đó là không thể; Nếu bạn loại bỏ bất kỳ trong số chúng, thì điều này có thể được thực hiện.
+
+Vấn đề là một chiếc thòng lọng được ném qua ba chiếc khuyên, không thể tháo ra khỏi chúng, nhưng nếu bạn tháo bất kỳ chiếc khuyên nào thì sẽ có hai chiếc.
+
+V. Berezin

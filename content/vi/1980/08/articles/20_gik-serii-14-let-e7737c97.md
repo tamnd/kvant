@@ -1,0 +1,74 @@
+---
+id: 1980-8-gik-serii-14-let-e7737c97
+issue: kvant_1980_8
+year: 1980
+number: "8"
+title: Bộ truyện - 14 năm
+authors:
+  - Гик Е. Я.
+rubric: retsenzii-bibliografiya
+rubric_sub: Рецензии, библиография
+page_first: 54
+page_last: 54
+page_labels: "52"
+tag: C4SH
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 5de2742bf5f1176e7c492a38b42d04f66880dd45188dc61b11d5648534d37e7a
+prompt_sha256: draft-1
+translated_from: content/ru/1980/08/articles/20_gik-serii-14-let-e7737c97.md
+source_content_sha256: de072ee11e3556f890c0bedf50d8605b43a88aecf973184048802580aecf3c85
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 52⟧
+
+phân tích bài toán liên quan, ông đã hướng dẫn học sinh suy luận một cách độc lập quy tắc, công thức hoặc định lý cần thiết.
+
+Thật không may, phương pháp này hầu như không bao giờ được sử dụng trong giảng dạy hiện đại. Vì vậy, thật thú vị khi thấy sự xuất hiện của một cuốn sách nhỏ về phương pháp luận của A. Ya. Halmaizer “Tổ hợp và Quần xã sinh vật Newton” (Moscow, “Prosveshcheniye”, 1980), được trình bày bằng “phương pháp thiết thực bài toán”. Cuốn sách này bắt đầu với nhiệm vụ sắp xếp lại các cầu thủ bóng chuyền trên sân.
+
+Huấn luyện viên đội bóng chuyền quyết định thay đổi địa điểm của các nhà thờ.
+
+“Chúng ta sẽ bắt đầu cuộc họp tiếp theo một cách khác,” anh ấy thông báo sau thủ tục tiếp theo. “Bạn, Serdy, sẽ đứng giao bóng, Volodya – ở số thứ tư, trong cuộc tấn công, và bạn, Nikolai…”
+“Nếu chúng ta đi ngang qua lần nữa thì sao?” thuyền trưởng hỏi.
+“Vậy tôi sẽ sắp xếp lại lần nữa,” huấn luyện viên lạnh lùng trả lời. “Cho đến khi chúng ta thử mọi cách sắp xếp có thể…”
+
+Bạn hãy tính xem có bao nhiêu cách sắp xếp các cầu thủ bóng chuyền vào 6 vị trí có thể?
+
+Nhiệm vụ kết hợp thường phát sinh trong nhiều điều kiện hoạt động khác nhau của con người. Việc hiểu những bài toán này và khả năng phân tích chúng là cần thiết đối với các nhà vật lý và sinh học, nhà kinh tế và kỹ sư, nhà ngôn ngữ học và giám khảo thể thao.
+
+Cuốn sách chứa thông tin về các khái niệm tổ hợp như hoán vị, vị trí, kết hợp và hoán vị có lặp lại.
+
+Nội dung của các khái niệm này được tiết lộ bằng cách phân tích bài toán bị chiếm dụng, chẳng hạn như sau:
+
+Một dấu chấm trong mã Morse tượng trưng cho chữ E, gõ - chữ T. Các chữ cái thân thiện và dấu hiệu hoán vị là hai, ba,..., và một số thậm chí là sáu cảnh khác nhau - dấu chấm hoặc gõ. Và có bao nhiêu cảnh có thể được sử dụng để truyền tải bất kỳ ký tự nào trong số hàng trăm ký tự (chữ cái, số, ký hiệu)?
+
+Trong bảng chữ cái chữ nổi Braille (dành cho mọi người trên thế giới), mỗi ký hiệu - chữ cái hoặc số - được biểu thị bằng sáu kokam; một số có chỗ phình ra. Bằng cách chạm ngón tay vào những biển báo này, người mù có thể “đọc” được văn bản. Có thể có bao nhiêu ký tự khác nhau trong chữ nổi Braille?
+
+Cuốn sách không chứa các định lý truyền thống có chứng minh hay các công thức có kết luận. Phân tích thực tế bài toán, tác giả đưa ra khái quát, sử dụng phép loại suy và người đọc độc lập đi đến kết luận mong muốn.
+
+Cuốn sách kết hợp sự hiện diện của thông tin toán học quan trọng và cách trình bày dễ tiếp cận. Mọi học sinh trung học tò mò đều có thể dễ dàng đọc nó. Giáo viên sẽ tìm thấy trong đó những tài liệu thú vị cho các hoạt động ngoại khóa và câu lạc bộ. Phong cách trình bày phải được coi là thang đo cho sách giáo khoa toán học.
+
+Tất cả những gì còn lại là tiếc nuối cho số lượng nhỏ của cuốn sách và bày tỏ hy vọng rằng “Khai sáng” sẽ tiếp tục xuất bản những tác phẩm văn học cần thiết cho cả học sinh và giáo viên.
+
+I. Brovikov
+Bộ truyện - 14 năm
+Những cuốn sách thú vị về toán học không phải lúc nào cũng dễ dàng có được. Đồng thời, có một loạt tài liệu quảng cáo đặc biệt “Matematika, kibernetka”, nơi bạn có thể đăng ký qua thư trước một năm và do đó, bạn sẽ không phải lo lắng về việc mua chúng trong tương lai. Bộ truyện này được nhà xuất bản "Znanie" xuất bản từ năm 1967.
+
+Tác giả của các tài liệu quảng cáo này là những nhà khoa học lớn nhất của Liên Xô và nước ngoài, những chuyên gia nổi tiếng trong lĩnh vực của họ và thường là những nhà phổ biến tài năng.
+
+Các chủ đề của dịch vụ rất đa dạng. Người ta chú ý nhiều đến tiểu sử của các nhà toán học hiện tại và quá khứ. Dưới đây là một số cái tên đã được liên kết với các tài liệu quảng cáo trước đó: nhà toán học thay thế người Mỹ G. Weilb, thiên tài toán học của Ấn Độ Ramanujan, nhà toán học cổ điển người Pháp D'Alembert, các nhà khoa học nổi tiếng người Nga A. Lyapnov, P. Chebyshev, V. Steklov.
+
+Một số tài liệu quảng cáo đề cập đến các vấn đề của toán học và lịch sử của nó, nói về quá trình giải tích toán học, về giáo dục và khoa học toán học cũng như về việc dạy toán ở trường trung học cơ sở và trung học phổ thông. Năm 1973, một tập tài liệu hữu ích cho học sinh được xuất bản - N. Rozov, E. Glagova, Zh. Rabot “Trường toán hợp pháp tại Đại học quốc gia Moscow.”
+
+Một số công trình liên quan đến vấn đề ứng dụng của toán học. Để bị thuyết phục về điều này, những cái tên đơn giản của họ là đủ: “Matematika trong sinh học”, “Mạng mạng và chẩn đoán y tế”, “Mạng mạng và bệnh tâm thần”, “Lý thuyết xác suất trong khoa học tự nhiên”, “Kinh tế và toán học”, “Matematika và nghệ thuật”, “Matematika và dịch tễ học”.
+
+Tất nhiên, có rất nhiều tài liệu quảng cáo dành riêng cho toán học, và theo quy luật, những vấn đề và thành tựu cấp bách nhất của khoa học đều được đề cập đến. Vì vậy, ngay trong tập tài liệu đầu tiên, xuất bản vào tháng 1 năm 1967, tôi đã nói về Đại hội Toán học Thế giới của các nhà toán học, được tổ chức vào mùa thu năm 1966 tại Moscow.
+
+Tất nhiên, trong một ghi chú ngắn gọn, không thể tập trung vào tất cả các tài liệu quảng cáo trong bộ truyện - xét cho cùng, số lượng của chúng từ lâu đã vượt quá một trăm rưỡi. Đối với những người muốn làm quen chi tiết hơn với nguồn điện nối tiếp, chúng tôi giới thiệu tập tài liệu số 10 năm 1979 - A. Ya. Marguli với “Series “Matematika, kibernetka”” trong 12 năm.”
+Hầu hết các tài liệu quảng cáo trong bộ sách “Matematika, knibernetka” đều được viết bằng ngôn ngữ hấp dẫn, sinh động; những cuốn sách hay nhất đã được trao giải thưởng tại các cuộc thi văn học khoa học đại chúng lớn. Không còn nghi ngờ gì nữa, nhiều tài liệu quảng cáo, cả những tài liệu đã được xuất bản và những tài liệu được xuất bản trong tương lai, sẽ được bạn đọc với sự quan tâm và sử dụng rất nhiều. Theo chúng tôi, bộ sách “Matematika, kibernetka” xứng đáng được mạo hiểm một lần và đăng ký mua nó.
+
+E. Gik

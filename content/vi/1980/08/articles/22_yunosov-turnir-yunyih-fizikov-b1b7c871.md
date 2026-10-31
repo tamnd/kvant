@@ -1,0 +1,81 @@
+---
+id: 1980-8-yunosov-turnir-yunyih-fizikov-b1b7c871
+issue: kvant_1980_8
+year: 1980
+number: "8"
+title: Giải đấu của các nhà vật lý trẻ
+authors:
+  - Юносов Е. Н.
+rubric: informatsiya
+rubric_sub: Информация
+page_first: 59
+page_last: 59
+page_labels: "57"
+tag: VP4X
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 0dda4d3a2ccfcc55cf79d3daf8d65b342e83dc8976e71bf07dbd421ef6194886
+prompt_sha256: draft-1
+translated_from: content/ru/1980/08/articles/22_yunosov-turnir-yunyih-fizikov-b1b7c871.md
+source_content_sha256: aeb2bd7a2060fa94d5f42a9fe69c5dfa59f19187a074e9e2b058dfeba75b3cbe
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 57⟧
+
+Giải đấu của các nhà vật lý trẻ
+
+Mặc dù thực tế là các tur nói chung nguy hiểm hơn các bang riêng lẻ, nhưng chúng luôn đạt được thành công lớn đối với ngư dân.
+
+V.Scott. Ivanhoe
+
+Từ ngày 20 tháng 2 đến ngày 28 tháng 3, Chuyến tham quan các nhà vật lý trẻ được tổ chức tại Moscow. Nó có sự tham gia của các học sinh trung học từ 11 trường ở Moscow - số 2, 7, 18, 47, 52, 57, 91, 179, 201, 444 - và trường số 82 ở làng Chernogolovka gần Moscow.
+
+Giải đấu được tổ chức thành 3 vòng: thi đấu tập thể vắng mặt, thi đấu thể lực bán kết và thi đấu thể lực chung kết.
+
+Vòng đầu tiên bắt đầu vào ngày 20 tháng 2 và kết thúc vào ngày 12 tháng 3. Danh sách 17 bài toán đã được gửi đến tất cả các trường tham gia. Bất cứ ai cũng có thể giải được bài toán này. Sau khi thảo luận tập thể, lời giải đã được bàn giao cho ban giám khảo Turir.
+
+Hầu hết các cuộc thi tương ứng bài toán có thể được coi là có vấn đề bài toán. Dưới đây là một số ví dụ:
+
+Bài toán “Strudka.” Một dòng nước mỏng chảy ra từ vòi nước. Nước lấp đầy hoàn toàn ống vòi có bán kính khoảng 2 mm. Ở phía dưới, các mảnh vụn khô lại và vỡ thành từng giọt riêng biệt. Tại sao chip bị khô? Ở khoảng cách nào từ vòi thì nó vỡ thành từng giọt?
+
+Thú vị lời giải được gửi bởi N. Kvasov (trường số 52) và V. Shmidt (trường số 179).
+
+Bài toán "Quả bóng". Trên trái đất chỉ có slem là bão hòa với tiếng Nhật. Một quả cầu thép có bán kính 5cm rơi tự do từ độ cao 1m. Quả bóng sẽ cắt vào cát đến độ sâu nào?
+
+Thật không may, bài toán này đã gây ra khó khăn lớn nhất.
+
+Bài toán “Bút chì”. Cây bút chì bị thiếu nặng được đặt ngay trên bàn và nó không hoạt động trong hai tháng. Chứng minh rằng cây bút chì đã dính vào bàn.
+
+"Bút chì thiếu trầm trọng" nghĩa là gì? Làm thế nào nó có thể đứng trên mặt bàn? Điều gì sẽ giúp anh ta thoát khỏi tình huống này? Những câu hỏi này và nhiều câu hỏi khác đã được giải đáp chi tiết bởi D. Germushni (trường số 57), K. Kondratyev và A. Chamav (trường số 2).
+
+"Thử nghiệm bài toán". Khảo sát sự phụ thuộc của hệ số độ cứng tròn của một sợi nylon mỏng vào chiều dài và độ dày của sợi trong vùng có chiều dài khoảng 10 cm và độ dày khoảng 10 mm.
+
+Nghiên cứu rất thú vị được thực hiện bởi I. Nyrkova (trường số 2), N. Kvasov (trường số 52), A. Kulyagin và M. Novikov (trường số 18).
+
+Những bài toán như vậy vẫn chưa có trong các nhiệm vụ và chúng là vấn đề ngay cả đối với các chuyên gia, nhưng chính xác là bài toán mà chính cuộc sống đặt ra cho các nhà vật lý hàng ngày. Các thành viên ban giám khảo rất quan tâm muốn xem các chàng trai tiếp cận lời giải bài toán như thế nào, họ đưa ra lời giải thích định tính nào, họ chọn mô hình hiện tượng nào, họ đưa ra giả định gì, nghiên cứu thực nghiệm được thực hiện như thế nào và như thế nào.
+
+Đội thắng ở vòng 1 là trường số 2 và 179 gửi số hợp lý lời giải, số thích hợp nhất bài toán. Nếu nói về giải pháp của từng tác giả thì P. Kalugin (trường số 444) là người có nhiều giải pháp nhất.
+
+Vòng 2 Turir (nhận trái phiếu vật chất) diễn ra vào ngày 19/3 ở 3 bảng, trường số 2 và 52, bảng B - 18, 57 và 201 và bảng C - 91, 179 và 444.
+
+Đấu vật lý (chiến đấu vật lý) là trạng thái tập thể của các nhà vật lý trẻ trong việc giảm dần khả năng giải quyết các bài toán phức tạp, trình bày một cách thuyết phục lời giải của họ và bút chiến. Ở vòng bán kết, phần thi tướng được thực hiện theo thể thức thi đấu quan trọng nhất định. Mỗi đội bao gồm mười học sinh từ lớp 8 đến lớp 10, và mười lớp không quá sáu.
+
+Xin thưa, những đội ăn uống khô khan nhất sẽ lần lượt đóng vai trò là diễn giả, đối thủ và người ra quyết định. Đầu tiên, đại diện nhóm báo cáo sẽ nói với lời giải bài toán của mình. Sau đó, đối phương đặt câu hỏi cho người nói và bày tỏ sự phê phán của mình. Trong trường hợp này, tranh cãi sẽ tự nhiên nảy sinh. Cuối cùng, người ra quyết định đánh giá cách thể hiện của cả người nói và đối phương. Cả đối thủ và người giải đều có thể trình bày lời giải của mình nếu họ thấy điều đó đáng ngạc nhiên hơn. Ban giám khảo đánh giá phần trình diễn của các đội bằng điểm. Ví dụ, ở vòng bán kết, hệ thống sau đã được áp dụng: điểm tối đa của người nói là 10 điểm, đối thủ là 5 điểm và người quyết định là 2 điểm.
+
+Những người chiến thắng trong các đội được giáo dục thể chất là số học sinh. 2, 18 và 91. Dựa vào tổng điểm ở hai vòng đấu, các đội của trường số. 2, 57 và 179 tiến vào chung kết Tourir.
+
+Cuộc thi vật lý chung kết diễn ra trong khuôn khổ Ngày hội Vật lý trẻ vào ngày bế mạc 28/3, trong khuôn viên Viện Vật lý mang tên. Viện Hàn lâm Khoa học Liên Xô P. N. Lebedev (FIAN).
+
+Hai loại bài toán được cung cấp cho những người tham gia chứng sợ thể chất. Hãy gọi chúng là “lớn” và “nhỏ” bài toán. Đối với lời giải “lớn” bài toán 1 giờ đã được đưa ra và đối với lời giải “nhỏ” - 10 phút. Tất cả bài toán đều mang tính chất khám phá. Cuộc chiến được thực hiện theo sơ đồ: người nói và hai đối thủ.
+
+Dưới đây là các điều kiện loại nhiệm vụ:
+
+Bài toán “Siêu bóng.” Hãy ước tính thời gian va chạm của quả bóng siêu hạng (bóng prizayutsezo) với mặt sàn khi được đưa vào từ độ cao 1 m.
+
+Bài toán “Ống kính”. Đo công suất quang của dòng này.
+
+Bài toán “xoắn ốc”. Nghiên cứu và giải thích đặc tính của đèn sợi đốt bên phải khi tiếp xúc với vật thể λεktrized.

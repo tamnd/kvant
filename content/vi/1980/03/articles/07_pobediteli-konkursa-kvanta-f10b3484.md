@@ -1,0 +1,77 @@
+---
+id: 1980-3-pobediteli-konkursa-kvanta-f10b3484
+issue: kvant_1980_3
+year: 1980
+number: "3"
+title: Người chiến thắng cuộc thi «Kvant»
+rubric: zadachnik-kvanta
+page_first: 27
+page_last: 27
+page_labels: "25"
+tag: QO9B
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 2167acc0de589f0ada61e4ec7f72d3cafe525ec80cd0a505007d40e845c1b714
+prompt_sha256: draft-1
+translated_from: content/ru/1980/03/articles/07_pobediteli-konkursa-kvanta-f10b3484.md
+source_content_sha256: 0405e18cc628f09e644440bda7c8e16cc5067bfe9732cfbc37146453391d7973
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 25⟧
+
+Người chiến thắng trong cuộc thi Kwana
+
+Dưới đây là danh sách các học sinh đã giành chiến thắng trong cuộc thi của chúng tôi. Theo quyết định của ban tổ chức Olympic toàn Liên minh dành cho học sinh, những người chiến thắng trong cuộc thi “Kvana” được quyền tham gia chặng thứ tư (cộng hòa) của Olympic toàn Liên minh năm 1980.
+
+Toán học
+A. AGAEV - tr. Pokrovka AzSSR, lớp 10.
+R. ARDAN - Lviv, tr. w. Số 11, 10 ô.
+L. ARUSHANOV - Baku, tr. w. Số 151, 10 ô.
+A. BALINSKY - Lvov, tr. w. Số 11, 10 ô.
+A. BARG - Kyiv, Trường Vật lý số 2 KSU, lớp 9.
+S. BESPAMYATNYKH - Moscow, Trường Vật lý số 18, Đại học quốc gia Moscow, lớp 10.
+A. BRAGINSKY - Volgodonsk, tr. w. Số 13, 10 ô.
+Y. BREGMAN - Kyiv, tr. w. Số 208, 10 ô.
+S. VAHRIN - Novosibirsk, Trường Vật lý số 165, NSU, lớp 9.
+M. GAISINSKY - Tashkent, tr. w. Số 103, 9 ô.
+L. GITLIN - Vitebsk, tr. w. Số 3, 10 ô.
+A. ERMOLIN - Petrozavodsk, tr. w. Số 30, 10 ô.
+A. ZHILINSKY - làng. Krupki, vùng Minsk, làng. w. Số 2, 10 ô.
+A. KAPLAN - Sumgant, tr. w. Số 11, 10 ô.
+A. KELAREV - Sverdlovsk, tr. w. Số 141, 10 ô.
+I. KUZ - Lvov, tr. w. Số 11, 10 ô.
+A. MEGRETSKY - Leningrad, Trường Vật lý số 45, Đại học bang Leningrad, lớp 10.
+R. NABOKOV - Moscow, Trường Vật lý số 18, Đại học quốc gia Moscow, lớp 10.
+S. NOVAKOVSKY - Saratov, tr. w. Số 13, 10 ô.
+A. PAVLYCHEV - Riga, tr. w. Số 1, lớp 10.
+V. PIDSTRYGACH - Lviv, tr. w. Số 11, 10 ô.
+K. PODDUBNY - Kyiv, Trường Vật lý số 2 KSU, lớp 10.
+A. POPELUKHIN - Kyiv, Trường Vật lý số 2 KSU, lớp 10.
+V. RADCHENKO - Kyiv, Trường Vật lý số 2 KSU, lớp 10.
+I. ROIZMAN - làng. Kaliinivka, vùng Vinnytsia, làng. w. Số 2, 10 ô.
+S. STADNICHENKO - Moscow, Trường Vật lý số 18, Đại học quốc gia Moscow, lớp 10.
+L. BÂY GIỜ - tr. Yaltushkov, vùng Vinnytsia, lớp 10.
+V. TITENKO - làng Bluzha, vùng Minsk, lớp 8.
+V. TSEKANOVSKY - Donetsk, tr. w. Số 17, 9 ô.
+
+Vật lý
+A. BESSARABSKY - làng. Zaprudnya, khu vực Moscow, lớp 10.
+I. BESSONOV - Moscow, Trường Vật lý số 18, Đại học quốc gia Moscow, lớp 10.
+B. WEITZMANN - Odessa, tr. w. Số 53, 8 ô.
+I. DANILOVSKY - Gorky, tr. w. Số 82, 10 ô.
+N. ZHITENEV - làng. Chernogolovka, khu vực Moscow, tr. w. Số 82, 10 ô.
+E. KOGAN - Dnepropetrovsk, tr. w. Số 23, 10 ô.
+A. LYAPIN - Moscow, Trường Vật lý số 18, Đại học quốc gia Moscow, lớp 9.
+G. MOLCHANOV - Saratov, tr. w. Số 13, 10 ô.
+D. OVSYANIKIV - Leningrad, Trường Vật lý số 45, Đại học bang Leningrad, lớp 10.
+O. PANASHENKO - Kyiv, tr. w. Số 145, 10 ô.
+V. SEREDA - Lviv, tr. w. Số 1, lớp 10.
+G. SOLDAK - Minsk, tr. w. Số 50, 10 ô.
+M. STRESHINSKY - Donetsk, tr. w. Số 17, 10 ô.
+I. FOMENKO - Dnepropetrovsk, tr. w. Số 23, 10 ô.
+V. SHABLINSKY - Kyiv, Trường Vật lý số 2 KSU, lớp 10.
+I. SHVETS - Kyiv, Trường Vật lý số 2 KSU, lớp 10.
