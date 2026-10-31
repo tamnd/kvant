@@ -1,0 +1,57 @@
+---
+id: 1979-3-kuznetsova-15-let-chelyabinskomu-nou-358d6c94
+issue: kvant_1979_3
+year: 1979
+number: "3"
+title: 15 năm tổ chức giáo dục phi chính phủ Chelyabinsk
+authors:
+  - Кузнецова Т. Н.
+rubric: raznoe
+rubric_sub: Разное
+page_first: 58
+page_last: 58
+page_labels: "56"
+tag: EYW0
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: ac08ea8b5076be97612e3121127e2f715448fc3b5cdde6a0af9ec6fe12bb3d4c
+prompt_sha256: draft-1
+translated_from: content/ru/1979/03/articles/20_kuznetsova-15-let-chelyabinskomu-nou-358d6c94.md
+source_content_sha256: 792c01d539eaa1803cc2346c6ef4d54b526d2e199f47d0d59e43286b68c47e44
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 56⟧
+
+15 năm
+Chelyabinsk NOU
+
+15 năm làm việc thú vị và hiệu quả đã trôi qua bởi Hiệp hội Sinh viên Khoa học Chelyabinsk. Trong thời gian này, mười nghìn học sinh đã tìm thấy sự công nhận của họ ở anh. Nhưng điều quan trọng nhất là lời răn của mọi người đã trở thành câu nói: “Vì Tổ quốc - những tâm tư, tài năng, việc làm của chúng ta!”
+
+Hiện nay, xã có 68 chi bộ, nhóm ở các viện và 27 phim ở các trường học trong thành phố và khu vực, trong đó có hơn 3,5 nghìn học sinh trung học tham gia, đam mê các lĩnh vực khoa học và quan tâm đến các lĩnh vực kinh tế quốc dân đặc trưng của Nam Urals. Nội dung, hình thức và phương pháp làm việc của hội góp phần giúp các thành viên của hội, trong hoạt động hàng ngày, không chỉ tiếp thu những kiến ​​thức, kỹ năng mới mà còn có thói quen tiếp tục học tập trong công việc tình nguyện.
+
+Điều cho thấy NOU của chúng tôi là các thành viên cũ của NOU, các chuyên gia mới, sẽ quay trở lại với tư cách là trưởng bộ phận. Giáo viên trung học của Học viện Sư phạm I. Zhkov và E. Zhmaeva, ứng viên khoa học y tế V. Tsirkin, nghiên cứu sinh Khoa Toán của Học viện Bách khoa V. Konnov, giáo viên văn của trường số 1 Chelyabinsk L. Melnikova. Tổng cộng, hơn 200 nhà khoa học và giáo viên từ các trường cao đẳng ở Chelyabinsk dạy trẻ em yêu thích khoa học.
+
+Trong 15 năm qua, xã hội đã phát triển truyền thống riêng của mình. Trong đó tốt nhất là gắn kết nghiên cứu với đời sống, với nhu cầu sản xuất. Vì vậy, công việc của phần sinh lý “Tình trạng sức khỏe của học sinh vào các thời điểm khác nhau trong năm”, “Biến động nhịp tim hàng ngày và theo mùa ở những người ở các độ tuổi khác nhau”, “Dung tích oxy trong phổi của vận động viên trượt băng tốc độ”, được thực hiện dưới sự hướng dẫn của các giáo viên Khoa Sinh lý học của ChSMI, có ý nghĩa thực tiễn to lớn đối với sinh lý lao động và thể thao của con người.
+
+Theo hướng dẫn của Khoa Hóa phân tích của Viện Bách khoa Chelyabinsk, các sinh viên, dưới sự hướng dẫn của giáo viên cao cấp ChPI G. T. Kiriyanova, đã hoàn thành một loạt bài phân tích hợp kim sắt về hàm lượng inkel, colabite, crom, mangan và các nguyên tố khác. Các chàng trai đã xác định được tỷ lệ phần trăm của các thành phần này trong hợp kim, điều này đã giúp tổ chức các lớp học trong phòng thí nghiệm với sinh viên.
+
+Bộ phận thiết kế ô tô cùng với các nhà khoa học thuộc bộ phận kỹ thuật của viện nghiên cứu đã bắt tay vào việc tạo ra một mô hình hoạt động của máy kéo bánh lốp hướng tới tương lai. “Một trong những giai đoạn tiếp theo của công việc là phát triển và tạo ra một mô hình hoạt động để tiến hành nghiên cứu trong phòng thí nghiệm và thử nghiệm các định luật lý thuyết về chuyển động quay ngang của động cơ bánh lốp,” đây là cách Nhà thiết kế chung của ChTZ, Tiến sĩ Khoa học Kỹ thuật I. S. Kavyarov đánh giá công việc của các nhà sản xuất ô tô trẻ.
+
+Các thành viên của NOU đã nghiên cứu công nghệ thu được nhiều loại chất tẩy rửa khác nhau trong điều kiện trường học và nghiên cứu mô hình hoạt động của các thành phần ăn mòn kim loại mới được đưa vào công nghiệp. Tất cả những điều này chứng minh một cách thuyết phục rằng, dưới sự hướng dẫn của các nhà khoa học, sinh viên có thể tiến hành nghiên cứu ở trình độ khoa học cao.
+
+Đằng sau những trang viết của mỗi tác phẩm, người ta có thể thấy sự chăm chỉ, không phải lúc nào cũng thú vị nhưng có mục đích và bền bỉ - công việc mang lại sự hài lòng cho học sinh, vật chất tạo ra và giá trị tinh thần.
+
+Công việc sáng tạo tại các cơ sở giáo dục phi chính phủ góp phần hình thành lợi ích bền vững của trẻ em. Đối với các thành viên lớn của NOU, câu hỏi “Bạn là ai?” đã được giải quyết tương đối dễ dàng - hơn 90% ngành nghề được chọn đều gần với lĩnh vực mà họ tham gia. Điều đáng chú ý là các thành viên của các cơ sở giáo dục phi chính phủ vào học viện sẽ nhanh chóng tìm được đường vào hội sinh viên khoa học, còn những người vào làm việc trong các nhà máy sẽ sớm trở thành nhà hoạt động của VOIR.
+
+Làm việc tại các cơ sở giáo dục phi chính phủ cũng ảnh hưởng đến sự phát triển hoạt động xã hội của học sinh. Tại các trại huấn luyện hàng năm ở trại hè “Young Kurchatovets” ở thành phố Tư Mã - quê hương của Viện sĩ I.V. Kurchatov - những anh chàng không chỉ chia sẻ mà còn trao đổi kinh nghiệm làm việc, trau dồi kỹ năng tuyên truyền kiến ​​thức kỹ thuật, chính trị. Kết quả là hơn 100 giảng viên-nhà hoạt động xã hội của NOU đã lãnh đạo các câu lạc bộ ở các lớp cơ sở và thực hiện công tác tuyên truyền sâu rộng. Nhìn chung, 73% thành viên NOU đang tham gia công tác công cộng.
+
+Các em chọn dòng chữ “Chiến đấu, tìm kiếm, tìm kiếm và bảo vệ!” như phương châm của xã hội chúng ta. Và các thành viên của NOU đã đấu tranh để thực hiện những lời này trong cuộc sống suốt 15 năm nay.
+
+Nhìn lại con đường mà xã hội đã đi, đội quân học sinh Chelyabinsk được quay phim xuất sắc ước mơ đạt được nhiều thành tựu, ghi nhớ lời nói của nhà văn tuyệt vời, thành đạt, được giới trẻ yêu thích, Nikolai Ostrovsky: “Chỉ có phía trước!... Và không nơi nào khác.”
+
+T. Kuznetsova,
+Phó Chủ tịch Hội đồng Vòng tròn của NOU

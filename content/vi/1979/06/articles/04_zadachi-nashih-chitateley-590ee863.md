@@ -1,0 +1,63 @@
+---
+id: 1979-6-zadachi-nashih-chitateley-590ee863
+issue: kvant_1979_6
+year: 1979
+number: "6"
+title: Bài toán độc giả của chúng tôi
+rubric: smes
+page_first: 10
+page_last: 10
+page_labels: "8"
+tag: TTW9
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 96a47688cd16cc5099b9f4078b5c5553b2653166a2fed6387cca4aac28f09504
+prompt_sha256: draft-1
+translated_from: content/ru/1979/06/articles/04_zadachi-nashih-chitateley-590ee863.md
+source_content_sha256: d09d7170dc33c4a21f6f5bce150233629244eedfbaf633516df5bc70fdd19fe1
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 8⟧
+
+Cơm. 4.
+
+Điểm mềm thứ ba là điểm $O_i$ (nếu có nhiều tâm mềm như vậy thì chọn điểm có số thấp nhất). Để sau khi loại bỏ các nhóm trống (cho ví dụ khi các nhóm trống xuất hiện giữa các nhóm $G_1$, ..., $G_l$!) $p$ nhóm ($p \leq l$) vẫn còn. Thay đổi kích thước của chúng theo cách tùy ý, chúng ta có được một phân vùng mới $G_1^1, \dots, G_p^1$.
+
+Sau khi tìm thấy tâm của độ mềm $O_1^1, \dots, O_p^1$ nhóm sức mạnh emx $u$, lặp lại quy trình tương tự, chúng ta sẽ xây dựng một phân vùng $G_1^2, \dots, G_q^2 (q \leq p)$ và $m. \delta$. Chứng minh rằng, bắt đầu từ một bước nhất định, các phân vùng trùng nhau.
+
+Để tạo thành bài toán tiếp theo, thuận tiện là giới thiệu một ký hiệu. Đặt điểm $A$ và một tập con tùy ý $G$ là tập hợp của điểm $A_1, \dots, A_N$ trên mặt phẳng. Chúng ta đặt $I(A, G) = |AA_i|^2 + \dots + |AA_j|^2$ (tổng được lấy từ điểm từ $G$).
+
+Bài toán 5. Giả sử, giống như bài toán 4, được phân vùng ban đầu của tập hợp điểm $A_1, \dots, A_N$ thành $l$ các nhóm không trống $G_1, \dots, G_l$. Chúng ta hãy mô tả quy tắc xây dựng một phân vùng mới $G_1^1, \dots, G_p^1$ nhóm power emx $u$, lặp lại bước tương tự, chúng ta sẽ tạo một phân vùng $G_1^2, \dots, G_q^2 (q \leq p)$ và $m. \delta$. Chứng minh rằng, bắt đầu từ một bước nhất định, các phân vùng trùng nhau.
+
+Ưu điểm của các thuật toán được mô tả trong bài toán 4 và 5 so với thuật toán Trout là các thuật toán này hội tụ nhanh chóng (nghĩa là việc xây dựng phân vùng cuối cùng cần ít thời gian máy tính hơn). Tuy nhiên, nếu phân vùng ban đầu được chọn kém, các thuật toán này có thể dẫn đến phân vùng cuối cùng thành các nhóm không mấy tự nhiên. Tuy nhiên, một ví dụ như vậy được hiển thị trong Hình 4.
+
+Bài toán độc giả của chúng tôi
+
+1. Số $a$ được biểu thị là $a = m_1 + n_1 = m_2 + n_2$. Chứng minh điều đó rồi $3m_1n_1 \leq m_2^2 + m_2n_2 + n_2^2$.
+   V. Fedoiskin (Shekino)
+
+2. Cho một tam giác $ABC$, $H$ là giao điểm của các đường cao, $M$ là giao điểm của các đường trung tuyến của nó. Chứng minh rằng
+
+$$\frac{|BM|}{\sin \widehat{AMC}} = \frac{|AM|}{\sin \widehat{BMC}} = \frac{|CM|}{\sin \widehat{AMB}};$$
+
+$$\frac{|BH|}{\cos \widehat{AHC}} = \frac{|AH|}{\cos \widehat{BHC}} = \frac{|CH|}{\cos \widehat{AHB}}$$
+
+(nếu tất cả các phân số này được xác định).
+
+A. Yagubyants (Rostov-on-Don)
+
+3. Chứng minh rằng tổng là $2k (k > 1)$
+
+a) Ngày lẻ liên tiếp của số 7 chia cho 350;
+
+6) Ngay cả những ngày liên tiếp của số 7 cũng chia hết cho 2450.
+
+H. Mikhalkovich (vùng Minsk)
+
+4. Chúng ta hãy biểu thị bằng $q(n)$ số số 0 kết thúc bằng số $n!$ và bằng $s(n)$ tổng các chữ số của số $n$ trong hệ thống số ngũ phân. Chứng minh rằng $n - s(n) = 4q(n)$.
+
+B. Stovba (Zelenograd)

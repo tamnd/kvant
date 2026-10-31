@@ -1,0 +1,56 @@
+---
+id: 1979-11-zadachi-nashih-chitateley-5fc65410
+issue: kvant_1979_11
+year: 1979
+number: "11"
+title: Bài toán độc giả của chúng tôi
+rubric: smes
+page_first: 42
+page_last: 42
+page_labels: "40"
+tag: EAJ3
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: f3240eb7eb33db4443984fafc097006d2d283cfae46f2040394b989d9695d31e
+prompt_sha256: draft-1
+translated_from: content/ru/1979/11/articles/12_zadachi-nashih-chitateley-5fc65410.md
+source_content_sha256: 4071fb53883437e4d8d0c21987b6cd3acb7dd231a7a52fae6acaabece519b6bd
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 40⟧
+
+tốt, hoặc hai ngang qua vết nứt. Cột làm bằng ống kim loại đồng đều, không có vết nứt.
+
+Điều gì giải thích điều này?
+
+Vì thủy tinh là chất dẫn nhiệt kém nên quá trình đông cứng của nước trong ống thủy tinh diễn ra rất chậm và không đồng đều. Trong một thời gian dài, hai hoặc ba cột băng được hình thành và liên kết với nhau. Các vết nứt xuất hiện ở các khớp.
+
+Trong một ống kim loại có thành có tính dẫn nhiệt tốt, toàn bộ khối nước đóng băng nhanh chóng và đồng đều. Cột băng hóa ra là nguyên khối.
+
+6. Đổ đầy nước vào một hộp hình chữ nhật (nhựa hoặc kim loại) có kích thước 70x50x20 mm. Cắt một cái nắp cho chiếc hộp này từ bìa cứng lớn đến mức nó hơi nhô ra ngoài các cạnh. Từ giữa tấm bìa cứng, vẽ một hình tròn có đường kính nhỏ hơn chiều rộng của lõi một chút.
+
+Bài toán
+độc giả của chúng tôi
+
+1. Qua điểm $K$ bên trong một tam giác có độ dài cạnh $a, b, c$, người ta vẽ các đường thẳng song song với các cạnh. Độ dài của các đoạn giữa các cạnh tương ứng bằng $a_1, b_1, c_1$. Chứng minh rằng
+
+a) $\frac{a_1}{a} + \frac{b_1}{b} + \frac{c_1}{c} = 2$;
+
+b) $\frac{4}{3} \leq \frac{a_1^2}{a^2} + \frac{b_1^2}{b^2} + \frac{c_1^2}{c^2} \leq 2$.
+
+2. Qua điểm $K$ bên trong tam giác $ABCD$ với diện tích các mặt $S_a, S_b, S_c$ và $S_d$, bốn mặt phẳng được vẽ song song với các mặt của tam giác. Diện tích của các phần thu được tương ứng bằng $S_1, S_2, S_3, S_4$. Chứng minh rằng
+
+a) $\sqrt{\frac{S_1}{S_a}} + \sqrt{\frac{S_2}{S_b}} + \sqrt{\frac{S_3}{S_c}} + \sqrt{\frac{S_4}{S_d}} = 3$;
+
+b) $\frac{S_1}{S_a} + \frac{S_2}{S_b} + \frac{S_3}{S_c} + \frac{S_4}{S_d} \geq \frac{9}{4}$.
+
+3. Qua điểm $K$ bên trong tam giác, các đường thẳng được vẽ song song với các cạnh $|BC| = a, |AC| = b, |AB| = c, |AD| = d_1, |BD| = d_2, |CD| = d_3$ của nó. Độ dài của các đoạn thẳng này nằm giữa các mặt tương ứng bằng $a', b', c', d_1', d_2', d_3'$. Chứng minh rằng
+
+$\frac{a'}{a} + \frac{b'}{b} + \frac{c'}{c} + \frac{d_1'}{d_1} + \frac{d_2'}{d_2} + \frac{d_3'}{d_3} = 3$.
+
+E. Yasinovy
+(Kuibyshev)

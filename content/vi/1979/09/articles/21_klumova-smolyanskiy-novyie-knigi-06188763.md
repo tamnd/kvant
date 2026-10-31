@@ -1,0 +1,54 @@
+---
+id: 1979-9-klumova-smolyanskiy-novyie-knigi-06188763
+issue: kvant_1979_9
+year: 1979
+number: "9"
+title: Sách mới
+authors:
+  - Клумова И. Н.
+  - Смолянский М. Л.
+rubric: retsenzii-bibliografiya
+rubric_sub: Рецензии, библиография
+page_first: 62
+page_last: 62
+page_labels: "60"
+tag: DTTP
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 8994d00c536221263c07e7e795fed878ff30e860364a00b52209fe3f0d9cf309
+prompt_sha256: draft-1
+translated_from: content/ru/1979/09/articles/21_klumova-smolyanskiy-novyie-knigi-06188763.md
+source_content_sha256: 0e12e672efd1e1a4cd0a4f762e433b9154a99e4637c70ac652f7c6bbead633fe
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 60⟧
+
+Sách mới
+
+Trong số này, chúng tôi xuất bản bản tóm tắt ngắn gọn các cuốn sách về toán học và vật lý xuất bản vào quý 3 năm 1979.
+
+Toán học
+
+Nhà xuất bản "Nuka"
+1. Grzegorczyk A. Locika phổ biến. Bản dịch từ ấn bản thứ 3 của Ba Lan. Tập 5 l., phát hành 100.000 bản, giá 30 kopecks.
+Cuốn sách của Andrzej Grzegorchot nhằm mục đích thỏa mãn mối quan tâm ngày càng tăng về logic hình thức của những người không phải là chuyên gia về toán học hoặc logic. Ngày nay, ngành khoa học này đã có được ý nghĩa ứng dụng quan trọng nhất. Lý thuyết về máy kỹ thuật số điện tử và các máy tự động “thông minh” khác, nghiên cứu cấu trúc ngôn ngữ, các câu hỏi triết học sâu sắc về nền tảng của toán học và các ngành khoa học khác - đây là phạm vi ứng dụng của logic hình thức. Logic hình thức là một khoa học thiết lập các phương pháp chung (quy tắc, sơ đồ) để suy luận chính xác. Suy luận đóng vai trò quan trọng hơn trong toán học: tất cả các lý thuyết toán học đều dựa trên những chứng minh chính xác dựa trên đạo hàm của các khía cạnh toán học sau. Vì vậy, không có gì đáng ngạc nhiên khi các nhà khoa học đã phát hiện ra nhiều sơ đồ (phương pháp) nhất để suy luận chính xác khi phân tích lý luận toán học. Vì lý do này, logic hình thức hiện đại được gọi là logic toán học, vì trước hết nó nghiên cứu lý luận toán học. Cô ấy thực hiện điều này bằng cách sử dụng các ký hiệu logic; Vì vậy, logic công thức hiện đại còn được gọi là ký hiệu câu lệnh. Sử dụng ví dụ của cô ấy, tác giả cho thấy dựa trên những sơ đồ logic hiện đại nào của tuyên bố đúng và phân tích toán học của trò chơi mười lăm.
+
+Cuốn sách có thể được sử dụng cho cả học sinh trung học và giáo viên để nghiên cứu độc lập làm nền tảng cho một môn học tự chọn.
+
+3. Ershov A.P. Ba bài học về đại số. Tập 5 l., phát hành 100.000 bản, giá 20 kopecks.
+Cuốn sách này dành cho người mới bắt đầu làm quen với thuật toán và chứa tất cả thông tin cần thiết để “đọc” đại số. Việc trình bày được thực hiện theo trình tự sau: bài học đầu tiên là phần mô tả phức tạp về các cấu trúc cơ bản của ngôn ngữ; bài thứ hai trình bày những trường hợp đặc biệt và những trường hợp ngoại lệ so với quy tắc chung của bài thứ nhất; Bài thứ ba là các ví dụ hoặc xây dựng các trường hợp quan trọng nhất của việc sử dụng một số cấu trúc nhất định.
+
+Cuốn sách có thể hữu ích cho những ai muốn học đại số.
+
+4. Saltykov A. I., Selyushko G. A. Lập trình cho mọi người. Tập 10 l., phát hành 100.000 bản, giá 40 kopecks.
+Cuốn sách trình bày những kiến ​​thức cơ bản về lập trình máy tính. Các vấn đề liên quan đến việc biểu diễn lời giải toán học bài toán dưới dạng thuật toán và chương trình được xem xét. Các ví dụ cơ bản về lập trình và xây dựng thuật toán.
+
+Cuốn sách này dành cho nhiều đối tượng độc giả và có thể được sử dụng như một cuốn sách độc lập về lập trình.
+
+Nhà xuất bản "Prosveshcheniye"
+5. Berezina L. Yu. Đồ thị và ứng dụng của chúng Tập 9 l., phát hành 40.000 bản, giá 30 kopecks.
+Tác giả giới thiệu đến người đọc những định nghĩa, phương pháp và ứng dụng cơ bản của lý thuyết đồ thị. Việc trình bày, lựa chọn các bài tập và ứng dụng mang lại sự hiểu biết đầy đủ về các ý tưởng và phương pháp chính của lý thuyết đồ thị cũng như các ứng dụng thú vị nhất của nó.

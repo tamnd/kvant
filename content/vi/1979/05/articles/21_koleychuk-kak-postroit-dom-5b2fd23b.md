@@ -1,0 +1,41 @@
+---
+id: 1979-5-koleychuk-kak-postroit-dom-5b2fd23b
+issue: kvant_1979_5
+year: 1979
+number: "5"
+title: Làm thế nào để xây dựng một ngôi nhà?
+authors:
+  - Колейчук В. Ф.
+rubric: raznoe
+rubric_sub: Разное
+page_first: 56
+page_last: 56
+page_labels: "54"
+tag: BLDI
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 817113a7bdee6265bf2e47da633689509c3d6a46e676ccec7d872b8848478067
+prompt_sha256: draft-1
+translated_from: content/ru/1979/05/articles/21_koleychuk-kak-postroit-dom-5b2fd23b.md
+source_content_sha256: 69231956f7e03ed671adac64b8d1be0acb757ed00482211c52d175df3c5ada2f
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 54⟧
+
+Làm thế nào để xây dựng một ngôi nhà?
+(đến trang bìa thứ hai)
+
+Hãy tưởng tượng một công trường xây dựng trên núi hoặc trong không gian, nơi rất khó để đặt cần cẩu cao. Làm thế nào để xây dựng một ngôi nhà trong tình huống như vậy? Hình 1 cho thấy một trong các phương pháp. Các tấm hình vuông được kết nối với nhau bằng bản lề. Ngoài ra, chúng được kết nối bằng dây cáp. Nếu bạn bắt đầu “chọn” các dây cáp bằng tời được lắp ở giữa bộ (Hình 2), thì một ngôi nhà sẽ xuất hiện (Hình 3).
+
+V. Koleichik
+
+Khối mười hai mặt giao nhau
+(đến trang bìa thứ tư)
+
+Ở «Kvant» số 1 trên trang. 27 là bức ảnh chụp một khối đa diện, là sự kết hợp của gót các hình khối nội tiếp trong một khối mười hai mặt. Có bao nhiêu khối mười hai mặt khác nhau có thể được mô tả xung quanh một khối lập phương? Không khó để đồng ý rằng có hai. Trong bức ảnh này, bạn thấy một khối đa diện là sự kết hợp của hai khối mười hai mặt như vậy. Rõ ràng là khối đa diện này có dạng bán chính quy như nhau: đối với bất kỳ cặp mặt nào của nó, người ta có thể chỉ định một độ dịch chuyển sao cho chính khối đa diện đó sẽ chiếm vị trí trước đó và mặt thứ nhất sẽ di chuyển sang mặt thứ hai. Hình vẽ cho thấy elure thu được từ khối đa diện này: (Nó là gì và cách sử dụng elure đã được mô tả ở «Kvant» Số 3 trên trang 50, 53.) Khi sao chép elure, cần lưu ý rằng hình ngũ giác ABCDE là đều.)
+
+V. Gamayunov

@@ -1,0 +1,48 @@
+---
+id: 1979-6-mogilin-dremina-moskovskiy-institut-inzhenerov-geodezii-aerofotosemki-i-kartografii-9f5d14ce
+issue: kvant_1979_6
+year: 1979
+number: "6"
+title: Viện kỹ sư trắc địa, chụp ảnh trên không và bản đồ Moscow
+authors:
+  - Могилин А.
+  - Дремина В.
+rubric: ekzamenatsionnye-materialy
+page_first: 50
+page_last: 50
+page_labels: "48"
+tag: IGXW
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 260e6df54fdcdb43cf4c02b4e5c7a5fc729d5107b69e2ec1d88db08428375878
+prompt_sha256: draft-1
+translated_from: content/ru/1979/06/articles/21_mogilin-dremina-moskovskiy-institut-inzhenerov-geodezii-aerofotosemki-i-kartografii-9f5d14ce.md
+source_content_sha256: f0fa41f686db8b1664e2c5df32bcf39a978547c5ab4a9ac01b3a2e8bb85c4731
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 48⟧
+
+Cuối cùng, cái gọi là bộ phận trường học đã hoạt động tại viện trong nhiều năm, trong đó học sinh từ lớp 7 đến lớp 10 ở Moscow và khu vực Moscow theo học. Sinh viên của khoa trường trải qua kỳ nghỉ đông tại khu địa chất MGRI gần Moscow, nơi họ kết hợp các bài học thực tế về địa chất với thời gian nghỉ ngơi hợp lý. Nhiều đại diện giảng viên của trường tham gia thí nghiệm địa chất của viện hè.
+
+Đại diện giảng viên của trường tham gia nghiên cứu chuyên sâu các chuyên ngành trong thí nghiệm địa chất của viện hè.
+
+Có một khoa dự bị tại MGRI và các khóa dự bị trả phí đang hoạt động: các khóa học sáu tháng để chuẩn bị nhập học vào các khoa toàn thời gian (từ ngày 7 tháng 2) và các khóa học ba tháng để chuẩn bị nhập học vào khoa buổi tối (từ ngày 1 tháng 10). Ngoài ra, các khóa học dự bị miễn phí được tổ chức hàng ngày cho tất cả các ứng viên từ ngày 1 tháng 7 đến ngày 30 tháng 7.
+
+Toán học
+Bài thi viết
+Tùy chọn 1
+
+1. Trong 12 giờ, một máy kéo cày được nhiều hơn một con ngựa 2 ha. Một con ngựa có thể cày được bao nhiêu ha trong 12 giờ và một máy kéo có thể cày được bao nhiêu ha trong thời gian này, nếu máy kéo cày 1 ha nhanh hơn ngựa 3 giờ?
+
+2. Cho hàm $2xy = 16+x^2$. Yêu cầu
+
+a) tiến hành nghiên cứu bằng cách sử dụng một bài tập tùy ý và xây dựng biểu đồ;
+b) tìm diện tích của hình được giới hạn bởi đồ thị của hàm số này và phương trình tuyến tính bằng phép toán tùy ý trong ba ngày tại khoa buổi tối (từ ngày 1 tháng 10). Ngoài ra, các khóa học dự bị miễn phí được tổ chức hàng ngày cho tất cả các ứng viên từ ngày 1 tháng 7 đến ngày 30 tháng 7.
+
+Viện kỹ sư trắc địa, chụp ảnh trên không và bản đồ Moscow
+
+Chúng tôi đã viết về MIIGAiKe (xem «Kvant», 1977, số 6 và 1978, số 6).

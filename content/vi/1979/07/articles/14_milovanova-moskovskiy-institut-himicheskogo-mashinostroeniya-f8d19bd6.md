@@ -1,0 +1,78 @@
+---
+id: 1979-7-milovanova-moskovskiy-institut-himicheskogo-mashinostroeniya-f8d19bd6
+issue: kvant_1979_7
+year: 1979
+number: "7"
+title: Viện Kỹ thuật Hóa học Moscow
+authors:
+  - Милованова Л. Н.
+rubric: ekzamenatsionnye-materialy
+page_first: 48
+page_last: 48
+page_labels: "46"
+tag: Y7KU
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: fb734f9fac856fc605423d29466b6e91c16afdafa6b0e29ca540937d534d6332
+prompt_sha256: draft-1
+translated_from: content/ru/1979/07/articles/14_milovanova-moskovskiy-institut-himicheskogo-mashinostroeniya-f8d19bd6.md
+source_content_sha256: 4e3dc755f3c260ec25ea669cd48f8bae1d13c19242f0da02e60f5e370e9bfbf3
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 46⟧
+
+2. Trong một khối lập phương có cạnh là $a$, tâm của mặt trên được nối với các đỉnh của đáy. Tìm tổng bề mặt của kim tự tháp thu được.
+3. Giải phương trình
+$$\frac{\lg x}{\lg(3-4x)} = 2.$$
+4. Giải phương trình
+$$\sin^2 x + \cos x + 1 = 0.$$
+5. Các hàm $f(x) = 4 - 15x^2 - 2x^3$ và $\varphi(x) = 2x^3 + 18x + 1$ được đưa ra. Với những giá trị nào của $x$ thì bất đẳng thức sẽ được thỏa mãn?
+$$\frac{f'(x)}{\varphi'(x)} > 0$$?
+Tùy chọn 2
+1. Để thanh toán cho việc gửi bốn bưu kiện, hãy sử dụng 4 tem bưu chính khác nhau với tổng số tiền là 2 rúp. 80 kop. Xác định giá trị của những con tem mà người gửi mua nếu các giá trị này tạo thành một cấp số cộng và con tem đắt nhất đắt gấp 2,5 lần so với chính cái cây.
+2. Tính tỉ số diện tích của hình vuông, hình tam giác đều và hình lục giác đều nội tiếp trong một hình tròn.
+3. Tìm miền xác định của hàm
+$$f(x) = \sqrt{\lg(3x^2 - 2x)}$$
+4. Giải phương trình
+$$2\sin 2x + 3tg x - 5 = 0.$$
+5. Tiếp tuyến của parabol $y = x^2 + 4x - 17$ tạo với điểm $M(2,5; -0,75)$ một góc bằng bao nhiêu với trục x? Viết phương trình tiếp tuyến này.
+
+Kiểm tra miệng
+Bi yo 1
+1. Tính chất của hàm $y = tg x$ và đồ thị của nó.
+5. Định lý cosine.
+3. Tìm số hạng thứ tám của cấp số nhân $(b_n)$ nếu $b_1 = 729$ và $q = \frac{2}{3}$.
+4. Giải phương trình
+$$\frac{\log_5 0,7}{\log_3 (-2x - 1) - \sqrt{2}} > 0.$$
+Bi yo 2
+1. Điều kiện cực trị của hàm số là đủ.
+2. Một dấu hiệu phân phối lại của hai mặt phẳng.
+3. Giải phương trình
+$$\left| \frac{2}{x - 4} \right| > 1.$$
+4. Giải phương trình
+$$3^{x-5} = 7.$$
+
+Vật lý
+Bài thi vấn đáp
+1. Hai phương tiện tự động đang di chuyển về phía nhau, một phương tiện có tốc độ ban đầu là $\vec{v}_1 = 36$ km/h và gia tốc $\vec{a}_1 = 0,3$ m/s$^2$, và phương tiện thứ hai có tốc độ ban đầu là $\vec{v}_2 = 54$ km/h và gia tốc $\vec{a}_2 = 0,5$ m/s$^2$. Sẽ mất bao lâu để các xe tự hành gặp nhau và mỗi xe sẽ đi được quãng đường bao nhiêu trước khi gặp nhau, nếu khoảng cách ban đầu giữa các xe tự hành là s=250 m?
+2. Chi tiết Otlig được làm bằng hợp kim sắt và các bộ phận bên dưới. Xác định bao nhiêu phần trăm thể tích là sắt và các phần bên dưới, cũng như thể tích của toàn bộ phần, nếu phần đó nặng $\vec{P}_1 = 33,52$ N trong không khí và $\vec{P}_2 = 29,60$ N trong nước. Mật độ của sắt là $\rho_1 = 7,8$ g/cm$^3$, phần dưới là $\rho_2 = 8,8$ g/cm$^3$.
+3. Một vật có khối lượng $m=1$ kg trượt xuống một mặt phẳng nghiêng có chiều dài $l = 22$ m, tạo một góc $\alpha = 30^\circ$ với đường chân trời. Vận tốc của vật ở chân núi là $\vec{v}| = 4$ m/s. Lượng nhiệt Q tỏa ra khi một vật cọ sát vào một mặt phẳng nếu vận tốc ban đầu của vật bằng 0?
+4. Một quả cầu đồng có đường kính $d=1$ cm được đặt trong dầu. Mật độ dầu $\rho = 8 \cdot 10^2$ kg/m$^3$, hằng số điện môi $\varepsilon = 5$. Giá trị của zagadsha là bao nhiêu nếu quả bóng lơ lửng trong dầu trong điện trường đều? Điện trường hướng thẳng đứng lên trên và hướng của nó là $\vec{E}| = 4 \cdot 10^6$ B/m.
+5. Một người bơi lội, lặn với đôi mắt mở, nhìn từ dưới nước một vật thể phát sáng nằm phía trên đầu anh ta ở độ cao $h=75$ cm so với mặt nước. Chiều cao biểu kiến ​​$H$ của vật trên mặt nước sẽ là bao nhiêu? Chỉ báo giả định nước $n=4/3$.
+T. Esina,
+V. Puzacheva
+
+Viện Kỹ thuật Hóa học Moscow
+Bạn có thể đọc thêm về viện này trong «Kvant», 1978, số 7.
+
+Matematika
+Bài thi viết
+Tùy chọn 1
+1. Giải phương trình
+$$\cos x = tg x \cdot (1 + \cos 2x).$$
+2. Giải phương trình
+$$\log_{100} x^2 + \log_{100} x \leq 2.$$

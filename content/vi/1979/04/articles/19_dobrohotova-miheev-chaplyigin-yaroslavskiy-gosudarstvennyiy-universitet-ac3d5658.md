@@ -1,0 +1,103 @@
+---
+id: 1979-4-dobrohotova-miheev-chaplyigin-yaroslavskiy-gosudarstvennyiy-universitet-ac3d5658
+issue: kvant_1979_4
+year: 1979
+number: "4"
+title: Đại học bang Yaroslavl
+authors:
+  - Доброхотова М. А.
+  - Михеев Н. В.
+  - Чаплыгин В. Ф.
+rubric: ekzamenatsionnye-materialy
+page_first: 55
+page_last: 55
+page_labels: "53"
+tag: IMLX
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 264b00decbbffc09883f7bad1111ae9cf0dba6f602d8701ed56e63b7c96d27a8
+prompt_sha256: draft-1
+translated_from: content/ru/1979/04/articles/19_dobrohotova-miheev-chaplyigin-yaroslavskiy-gosudarstvennyiy-universitet-ac3d5658.md
+source_content_sha256: 77be0b9bdefdf686afcbaadb27862a0b059d187d809cb5e0e9a4c06fb98d39b4
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 53⟧
+
+5. Các bánh xe của đầu máy hơi nước có bán kính $R_0 = 1$ m tại $0^\circ$ C. Xác định kích thước số vòng quay của bánh xe vào mùa hè ở nhiệt độ $t_1 = 25^\circ$ C và vào mùa đông ở nhiệt độ $t_2 = -25^\circ$ C trên đường không gian bánh xe $l = 100$ km (hệ số giãn nở tuyến tính tellian $\alpha = 1,2.10^{-5}$ K$^{-1}$).
+
+6. Một động cơ điện chạy bằng pin có EMF bằng $\beta = 12$ V. Động cơ thực hiện công cơ học nào trong thời gian $t = 1$ s khi dòng điện $I = 2$ A chạy qua cuộn dây của nó, nếu khi phần ứng được hãm hoàn toàn thì dòng điện $I_0 = 3$ A chạy qua mạch điện?
+
+7. Trong nguồn điện, các điện trở được mắc theo mạch như hình vẽ.
+
+Nguồn điện được bật ở điểm 1 và 2, và trong một thời gian có thể đun sôi $m_1 = 500$ g nước. Hỏi có thể đun sôi bao nhiêu nước trong cùng một thời gian nếu bật nguồn điện ở điểm 1 và 3? Nhiệt độ nước ban đầu là như nhau trong cả hai trường hợp. Yêu cầu bồi thường tổn thất nhiệt.
+
+8. Thông qua một đèn hai điện cực (diode) có các điện cực phẳng, dòng điện chạy qua $I = 10$ mA. Hiệu điện thế trên đèn là $U = 100$ V. Với lực $|\vec{F}|$ nào thì các điện cực rơi trên đèn sẽ tác dụng lên các vật dị thường nếu tốc độ của chúng gần cực âm bằng 0? Tỷ lệ điện tích trên khối lượng của nó là $e/m = 1,76 \times 10^{11}$ KL/kg.
+
+9. Trong một từ trường đều có cảm ứng $|\vec{B}| = 0,125$ T, một cuộn dây được đặt sao cho mặt phẳng của nó vuông góc với các đường sức từ. Cuộn dây được nối với một điện kế. Tổng điện tích chạy qua điện kế với một số vòng quay của cuộn dây là $q = 8.10^{-2}$ CL. Cuộn dây đã quay một góc bằng bao nhiêu nếu diện tích của nó là $S = 5.10^3$ cm$^2$ và điện trở của cuộn dây là $R = 1$ Ohm?
+
+10. Một gương cầu lõm tạo ra ảnh thật của một nguồn chính xác nằm trên trục quang và cách gương $d = 50$ cm. Tiêu cự của gương là $F = 25$ cm. Gương được cắt làm đôi và hai nửa của nó được dịch chuyển ra xa nhau một khoảng $a = 1$ cm theo hướng vuông góc với trục quang học. Ảnh tạo bởi hai nửa gương có mối liên hệ với nhau như thế nào?
+
+V. Vishnevsky,
+O. Sokolov,
+A. Khasanov
+
+Đại học bang Yaroslavl
+
+Giới thiệu về Đại học Bang Yaroslavl, xem «Kvant», 1978, Số 6, tr. 73.
+
+Matematika
+(thi viết)
+
+Khoa Toán
+
+Tùy chọn 1
+
+1. Tìm chiều cao của đường thẳng tam giác có thể tích lớn nhất nội tiếp trong quả cầu có bán kính $R$.
+
+2. Có bao nhiêu số có sáu chữ số khác nhau có thể được tạo ra từ các chữ số 1,2,3,4,5,6,7 sao cho các số đó không lặp lại và bội số là số chẵn?
+
+3. Giải bất đẳng thức
+
+$$\log_{x^2-1}(x+1) < 1.$$
+
+4. Giải phương trình
+
+$$\cos^2\left(\frac{\pi}{3}\cos x - \frac{8}{3}\pi\right) = 1.$$
+
+Tùy chọn 2
+
+1. Một primogol song song được ghi trong một hình cầu có bán kính $R$. Tìm các bề mặt của hình song song nếu nó có thể tích lớn nhất có thể.
+
+2. Có bao nhiêu số có sáu chữ số khác nhau có thể được lập từ các số 1,2,3,4,5,6,7 sao cho các số đó không lặp lại và tổng các số tận cùng là số có hai chữ số?
+
+3. Giải bất đẳng thức
+
+$$\log_{x^2+3x}(x+3) < 1.$$
+
+4. Giải phương trình
+
+$$2\cos\left[\frac{\pi}{6}\left(\sin x - 13 + \frac{\sqrt{2}}{2}\right)\right] = \sqrt{3}.$$
+
+Khoa Vật lý
+
+Tùy chọn 1
+
+1. Phần nào của bề mặt hình vuông bị cắt bởi một parabol đi qua hai đỉnh liền kề của hình vuông và chạm vào cạnh của nó ở giữa?
+
+2. Giải bất đẳng thức
+
+$$2C_n^5 > 11C_n^3-2,$$
+
+trong đó $C_n^k$ là số lần kết hợp của các phần tử $n$ với $k$.
+
+3. Giải phương trình
+
+$$9^x - 2^{x+\frac{1}{2}} = 2^{x+\frac{3}{2}} - 3^{2x-1}.$$
+
+4. Giải phương trình
+
+$$2 + \cos 4x = 5\cos 2x + 8\sin^6 x.$$

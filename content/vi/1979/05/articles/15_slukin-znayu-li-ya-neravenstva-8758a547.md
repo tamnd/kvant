@@ -1,0 +1,64 @@
+---
+id: 1979-5-slukin-znayu-li-ya-neravenstva-8758a547
+issue: kvant_1979_5
+year: 1979
+number: "5"
+title: Tôi có biết sự bất bình đẳng không?
+authors:
+  - Слукин Л.
+rubric: smes
+page_first: 45
+page_last: 45
+page_labels: "43"
+tag: IMY3
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: d7e8eac5bcefb5fa7adac4da5972adc9ce6e8b94e3f545567d273d9fbdb1d5b9
+prompt_sha256: draft-1
+translated_from: content/ru/1979/05/articles/15_slukin-znayu-li-ya-neravenstva-8758a547.md
+source_content_sha256: a70b8187974f035fcf2be6d820975378951a24816f1d63a44194750d4252812e
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 43⟧
+
+4) chùm tia $P_1P$ tới trên các sọc của gương $P$ bị phản xạ đối xứng so với trục quang chính $OP$.
+
+Chúng ta hãy nhìn vào điều này bài toán:
+
+Bài toán 5. Đã biết vị trí của vật $A$ và ảnh của nó $A'$ so với trục chính $MN$ của gương cầu (Hình 13). Tìm tiêu điểm của gương bằng cách dựng nó.
+
+Giao điểm của đường thẳng đi qua các điểm $A$ và $A'$ với trục $MN$ tạo thành tâm của gương cầu (Hình 14).
+
+Tôi có biết sự bất bình đẳng không?
+
+Với sự trợ giúp của bài toán đơn giản, bạn có thể kiểm tra xem mình có hiểu rõ phần “Bất bình đẳng” hay không. Để làm điều này, bạn cần giải tám câu bài toán được đề xuất trong thời gian không quá 25 phút. Đã lật đổ kết quả đáp số với câu trả lời cho p. 62, bạn có thể cho điểm ngay lập tức (sử dụng hệ thống năm điểm), tính điểm bằng công thức
+
+$$k = \left[ \frac{n}{2} + 1 \right],$$
+
+trong đó $n$ là số đúng lời giải bài toán.
+
+Bạn đã sẵn sàng chưa? Đã đến lúc... Hãy bắt đầu!
+
+Thiết lập bất đẳng thức:
+
+1. $x^{-2} < x^{-3}$.
+2. $\frac{(x+3)(x+4)}{x+3} > 0$.
+3. $\log_{\sqrt{x}} x > 1$.
+4. $\left( \frac{1}{\sqrt{2}} \right)^x < 3$.
+5. $\sin x > \cos x$.
+6. $\sin x \leq \log_2 3$.
+7. Cái nào lớn hơn: $\log_6 \cos 6$ hay $\sqrt{\cos 6}$?
+8. Rút gọn biểu thức $| - a| + \sqrt{a^2}$ bằng $a < 0$.
+
+Nếu bạn (không vượt quá thời hạn) đạt điểm “A”, bạn có thể chuyển sang nhiệm vụ tiếp theo khó hơn. Tuy nhiên, nếu điểm của bạn là “bốn” và bạn nhận ra lỗi lầm của mình, hãy cố gắng nhận ra chính mình. Hãy dành thời gian của bạn: thời gian bây giờ là không giới hạn.
+
+Giải bất đẳng thức:
+
+1. $\log_{\sqrt{2}} - 0,5 \left( x^2 (x - 3 \sqrt{2}) + 2 (3x - \sqrt{2}) \right) < 6$.
+2. $\frac{\arcsin \left( x^2 - 3x + 3 \right)}{x^3 - x^2 + x + \log_x x^2} > 0$.
+
+L. Slukin
