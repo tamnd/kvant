@@ -49,7 +49,7 @@ P3. Có bốn điểm không thẳng hàng (tức là ba điểm bất kỳ tron
 
 ⟦figure⟧
 
-Hình 2
+Cơm. 2
 
 3. Hãy xây dựng một mô hình khác của mặt phẳng xạ ảnh vô hạn. Giả sử $¡^{3}$ là một không gian Euclide ba chiều thông thường và O là một điểm nào đó trong đó. Chúng ta hãy biểu thị bằng 3 tập hợp tất cả các đường thẳng đi qua O. Một điểm trong 3 là bất kỳ đường thẳng nào được vẽ, và một đường thẳng là tập hợp các đường thẳng đi qua O và nằm trong một mặt phẳng nhất định. Tập 3 sẽ thỏa mãn các tiên đề P1 – P3 (kiểm tra cái này!), do đó, nó là mặt phẳng xạ ảnh. Từ Ví dụ 2, rõ ràng là trong một trường hợp cụ thể của hình học xạ ảnh hữu hạn, số điểm bằng số đường thẳng. Có vô số hình học affine hữu hạn (sẽ được làm rõ dưới đây trong các bài toán), và tất cả chúng đều có thể được hoàn thành theo cùng cách như đã thực hiện trong trường hợp bốn điểm. Số điểm và đường có trùng nhau không? Đáp số câu sau đây trả lời câu hỏi này. Mệnh đề 1. Gọi 3 là mặt phẳng xạ ảnh. Sau đó tập hợp &, phần tử-
 
@@ -61,9 +61,9 @@ có các phần tử là các đường thẳng trong 3, gọi là các điểm 
 
 HÌNH HỌC CUỐI CÙNG
 
-Hình 42
+Cơm. 42
 
-Hình 43
+Cơm. 43
 
 để chỉ ra sự thất bại của P2, chúng ta có thể lấy hình học affine tùy ý. Trường hợp P3 không giữ được trình bày trên Hình 43. 9. Chứng minh rằng nếu loại bỏ một đường thẳng khỏi mặt phẳng xạ ảnh thì sẽ thu được một mặt phẳng affine. Lời giải. Hãy loại bỏ đường thẳng a khỏi mặt phẳng xạ ảnh 3. Hãy chứng minh rằng các tiên đề A1–A3 thỏa mãn trong mặt phẳng kết quả. Thật vậy, chúng ta lấy các điểm A và B trong mặt phẳng mới và cho A c và B c là cùng một điểm trong mặt phẳng xạ ảnh 3. Rõ ràng A c và B c không thuộc về a. Theo A1, tồn tại một đường thẳng duy nhất l c sao cho A c, B c l c. Theo câu trước, l c z a, có nghĩa là l c sẽ đi vào một tập hợp khác rỗng l . Vì A c, B c l c nên A, B l. Vì l c là duy nhất nên có nghĩa là l là duy nhất vì chúng ta đã loại bỏ a. Vậy là A1 đã xong. Hãy kiểm tra A2. Lấy một đường thẳng l tùy ý và một điểm X l in. Giả sử khi bỏ đường thẳng a thì đường thẳng lc tiến về l, và điểm X c tiến về X. Rõ ràng l c z a và X c a. Do đó, theo A2 tồn tại duy nhất M c l c a. Qua A1 tồn tại một đường thẳng duy nhất m c sao cho X c, M c m c. Nếu X c l c, thì m c l c và do đó, m c l c M c. Vì việc loại bỏ a sẽ loại bỏ M c, nên m l , trong đó m và l là ảnh của m c và l c trong mặt phẳng. Điều này có nghĩa là m song song với l, và vì X c m c nên X m. Ngoài ra, m c là duy nhất, có nghĩa là m cũng duy nhất, và do đó A2 đúng. Nếu X l thì X c l c, nghĩa là m c l c. Chính xác một điểm M c bị loại bỏ khỏi m c và l c, do đó m l có thể được viết là m P l. Vì m c là duy nhất nên m cũng là duy nhất và một đường thẳng song song với đường thẳng đã cho đi qua một điểm trên đường thẳng một cách duy nhất. Như vậy A2 được chứng minh hoàn toàn. Hãy kiểm tra A3. Theo P3 chọn 4 điểm không thẳng hàng. Chúng ta quan tâm đến trường hợp hai trong số chúng nằm trên đường dây từ xa, vì trong các trường hợp khác A3 thỏa mãn (vì không thể có nhiều hơn hai người trong số chúng trên đường dây từ xa).
 
@@ -73,7 +73,7 @@ bốn điểm). Cho A, B, C, D là 4 điểm và A, B a. Hãy thực hiện tr�
 
 ⟦figure⟧
 
-Hình 44
+Cơm. 44
 
 11. Một đường thẳng trong mặt phẳng xạ ảnh 3 chứa n 1 điểm. Có bao nhiêu điểm trong 3? Có bao nhiêu dòng? Lời giải. Chúng ta lấy một đường thẳng a trong mặt phẳng 3 với các điểm $A_{1}, A_{2}$, … $, A_{n} 1$. Theo tiên đề P3, tồn tại điểm B sao cho B a. Hãy cùng thực hiện $BA_{1}, BA_{2}$,… $, BA_{n} 1$. Trong trường hợp này, tất cả các điểm sẽ được tham gia. Thật vậy, chẳng hạn, nếu C không thuộc a, thì BC cắt a tại một trong các điểm $A_{k}$ và do đó, điểm C đã được tính đến. Vậy tổng cộng ta được n 1 1 n 1 1 n 2 n 1 điểm trong 3. Vì qua mỗi điểm (cũng như qua B) có n 1 đường thẳng và mỗi đường thẳng được xét n 1 lần trong phép tính này (có n 1 điểm trên đó) nên sẽ có n 2 n 1 n 1 đường thẳng
 
@@ -85,7 +85,7 @@ HÌNH HỌC CUỐI CÙNG
 
 ⟦figure⟧
 
-Hình 48
+Cơm. 48
 
 gai (Hình 48 bên trái). Hãy gọi các đường thẳng có một trong các hướng như trong hình và đi qua các nút lưới. (Bạn có thể tưởng tượng như một mô hình hình trụ có lưới như trong Hình 48 bên phải.) Hãy chứng minh rằng có nhiều nhất một đường thẳng đi qua điểm 1 và bất kỳ điểm nào khác. Ngược lại, cho hai đường thẳng đi qua điểm 1 và X, trong đó X là điểm ở hàng thứ k. Khoảng cách giữa giao điểm của các đường thẳng này với đường thẳng đầu tiên là n p. Khi đó khoảng cách giữa các nút lưới biểu thị điểm X mà các đường này đi qua bằng kn. Vì p là số nguyên tố nên k p, n p nên kn không chia hết cho p nên hai nút này không phải là một điểm. Các đường thẳng đi qua điểm 1 cũng đi qua tất cả các điểm còn lại. Thật vậy, qua điểm 1 có p 1 đường thẳng, trên mỗi đường thẳng, trừ điểm 1 còn có thêm p 1 điểm, không có 2 điểm nào trùng nhau, tổng số điểm là $p 1 p 1 p^{2} 1$. Q.E.D. Nếu chúng ta vẽ tất cả các đường thẳng đi qua bất kỳ điểm nào trên mặt phẳng, chúng ta sẽ có được hình ảnh giống như đối với điểm 1. Do đó, A1 được chọn. Có p điểm trên một đường thẳng. Xét điểm B bên ngoài đường này; p 1 đường thẳng đi qua nó. Trong số này, p đường thẳng cắt một đường thẳng cho trước tại p điểm, nhưng người ta không thể cắt nó, vì chỉ có thể vẽ một đường thẳng đi qua điểm này và bất kỳ điểm nào khác. Do đó, qua mỗi điểm có thể vẽ được đúng một đường thẳng song song với đường thẳng đã cho, điều đó thỏa mãn tiên đề A2. Tiên đề A3 cũng thỏa mãn vì có 3 điểm không thẳng hàng. Do đó, mặt phẳng được xây dựng là affine.
 
@@ -109,7 +109,7 @@ tori sẽ không hoạt động - mặc dù chất điện môi dẫn dòng đi�
 
 ⟦figure⟧
 
-Hình 6. Điện trở cố định
+Cơm. 6. Điện trở cố định
 
 Điện trở của điện trở không cản trở tất cả những điều kỳ diệu này. Nhân tiện, khái niệm “màng rời” được sử dụng cho các màng mỏng không có chất nền. Đã đến lúc chúng ta nhìn vào đối tượng câu chuyện của mình. Bức ảnh trong Hình 6 cho thấy một số điện trở màng khác nhau. Ở hàng đầu tiên là các điện trở, điện trở được xác định với độ chính xác rất cao và được ghi trên đó. Ở hàng thứ hai bên trái là một lực cản kỳ lạ, và câu hỏi đặt ra là: tại sao lại có một chiếc đàn accordion ở đó? Hơn nữa, đáp số hiển nhiên là không chính xác. đáp số hiển nhiên này đúng với điện trở ở bên phải, trên đó lớp phủ dẫn điện được cắt theo hình xoắn ốc. Ở hàng thứ ba có một số điện trở, điện trở của chúng đã được thay đổi (họ nói là “điều chỉnh”) sau khi sơn. Trong hình tiếp theo (Hình 7) có các điện trở cực cao (trên $–^{10}$ GOhm), màng điện trở - carbon, nhà sản xuất đã hàn chúng vào thủy tinh, vì điện trở của sơn (về cơ bản được kết nối song song với toàn bộ điện trở) sẽ không đủ cao. Hãy chú ý đến bảng đầu cuối màu trắng ở bên trái - nó được làm bằng Teflon hoặc PTFE-4, một chất điện môi có điện trở suất cao kỷ lục. Nhân tiện, liên quan đến những điện trở và lớp sơn này, có một vấn đề khác. Để đơn giản, hãy để độ dày của màng điện trở và lớp sơn bằng nhau. Điện trở suất bao nhiêu lần
 
@@ -119,7 +119,7 @@ P R O B L E
 
 Tuy nhiên, phương pháp duy nhất được sử dụng rộng rãi là đo biến dạng. Để đo độ biến dạng, một sợi dây được dán vào vật mà chúng ta đang kiểm tra và đo điện trở của nó. Khi kích thước của một vật thay đổi, chiều dài của dây, tiết diện và điện trở suất của vật liệu thay đổi. Do đó, điện trở mà chúng tôi đo được sẽ thay đổi. Để đo áp suất trong chất khí, chất lỏng và chất rắn, một sợi dây được đặt trong môi trường đang nghiên cứu hoặc bên trong vật thể... bạn đã biết phần còn lại. Và đừng quên cách ly dây điện với vật thể. Về lý do chính của chúng ta về sự mất ổn định của điện trở, tức là sự phụ thuộc của điện trở suất vào nhiệt độ, thì ở trường người ta thường nói rằng sự phụ thuộc này là tuyến tính và họ cũng đề cập đến tính siêu dẫn. Tình hình thực tế phức tạp hơn nhiều và do đó thú vị hơn. Sự phụ thuộc của điện trở vào nhiệt độ không tuyến tính và ngoài ra có thể có sự thay đổi nhiệt độ khi mạng được sắp xếp lại. Hình 8 biểu diễn đồ thị giãn nở nhiệt của sắt. Các mũi tên chỉ điểm Curie (mất tính sắt từ
 
-Hình 8. Sắt nở ra như thế nào
+Cơm. 8. Sắt nở ra như thế nào
 
 LỊCH SỬ PHẢN HỒI
 
@@ -147,18 +147,18 @@ LỊCH SỬ PHẢN HỒI
 
 ⟦figure⟧
 
-Hình 16. Phần tử điện trở có thể di chuyển được nhưng tiếp điểm không bò từ vòng này sang vòng khác mà trượt dọc theo dây
+Cơm. 16. Phần tử điện trở có thể di chuyển được nhưng tiếp điểm không bò từ vòng này sang vòng khác mà trượt dọc theo dây
 
 ⟦figure⟧
 
-Hình 14. Biến trở bất thường
+Cơm. 14. Biến trở bất thường
 
 Điện trở ở mức $рисунке^{14}$ để tăng phạm vi điều khiển, tức là để mở rộng phạm vi điều khiển trong vùng có giá trị nhỏ, phần tử điện trở được cấu tạo từ ba phần, với sự phụ thuộc khác nhau của điện trở vào góc quay. Phần đầu tiên được làm bằng băng đồng, phần thứ hai được làm bằng băng điện trở có tiết diện nhỏ hơn và phần thứ ba được làm bằng dây điện trở có tiết diện nhỏ hơn. Hai $рисунка,^{15} и^{16,}$ tiếp theo minh họa tính tương đối của chuyển động. Thông thường phần tử điện trở đứng yên, trong hai trường hợp này thì ngược lại, nó có thể di chuyển được và trong trường hợp thứ hai, chuyển động được tổ chức sao cho độ rời rạc của các vòng quay không thành vấn đề, vì tiếp điểm trượt dọc theo dây. Tùy chọn cuối cùng này có thể được coi là tiền thân của chiết áp nhiều vòng, tuy nhiên, phần tử điện trở đứng yên.
 
 ⟦figure⟧
 
-Hình 17
+Cơm. 17
 
 Và kết luận - một chút về vẻ đẹp $(рис.^{17).}$
 
-Hình 15. Phần tử điện trở đang chuyển động
+Cơm. 15. Phần tử điện trở đang chuyển động
