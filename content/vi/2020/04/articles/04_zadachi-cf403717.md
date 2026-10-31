@@ -1,0 +1,64 @@
+---
+id: 2020-4-zadachi-cf403717
+issue: kvant_2020_4
+year: 2020
+number: "4"
+title: Bài toán
+rubric: konkurs-imeni-a-p-savina
+rubric_sub: Конкурс имени А. П. Савина
+page_first: 29
+page_last: 29
+tag: 9H5V
+lang: vi
+source: kvant_digital
+extraction: native
+content_sha256: 2529467d71c388edfd1885fb110050398dccdee46e187eca502f166666c3a0cb
+prompt_sha256: draft-1
+translated_from: content/ru/2020/04/articles/04_zadachi-cf403717.md
+source_content_sha256: 115130c76ed93f5580adbdb8fb494c8d902bb72660127c01973c7c74781efafa
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+KONKU RS TÊN NI A. P. S AVINA
+
+Chúng tôi đang hoàn thành một cuộc thi khác về lời giải toán bài toán. Chúng chủ yếu nhắm đến học sinh từ lớp 7 đến lớp 9, nhưng chúng tôi hoan nghênh học sinh ở mọi lứa tuổi tham gia. Cuộc thi được tổ chức chung với tạp chí «Kvant». Gửi lời giải bài toán mà bạn có thể xử lý bằng e-mail đến địa chỉ: savin.contest@gmail.com hoặc bằng thư thông thường đến địa chỉ: 119296 Moscow, Leninsky Prospekt, 64-A, «Kvant» (được đánh dấu “Cuộc thi mang tên A.P. Savin”). Ngoài họ và tên của bạn, hãy cho biết thành phố, trường học và lớp nơi bạn học cũng như địa chỉ bưu điện gửi về của bạn. Chúng tôi hoan nghênh việc tham gia cuộc thi không chỉ của từng học sinh mà còn của các đội (trong trường hợp này, một tác phẩm sẽ được gửi kèm theo danh sách những người tham gia). Bạn có thể tham gia bắt đầu từ bất kỳ chuyến tham quan nào. Những người chiến thắng sẽ nhận được bằng tốt nghiệp từ tạp chí «Kvant» và các giải thưởng. Bài tập, lời giải và kết quả được xuất bản trên Sites.google.com/view/savin-contest Chúng tôi chúc bạn thành công!
+
+29. Các số dương x và y thỏa mãn 1 > 3 2 + 5 4 +........... 2017 2016 + 2019 2018 + 2020 + x
+
+1
+
+>
+
+.
+
+3
+
+2 +
+
+4 +
+
+5...............................
+
+2016 +
+
+2017 2019 2018 + 2020 + y
+
+Cái nào lớn hơn: x hay y?
+
+S.Dvoryaninov
+
+30. Các số 1, 2, ......, 2020 được viết trên bảng. Hỏi số số nhỏ nhất phải xóa là bao nhiêu để với hai số còn lại a và b bất kỳ thì tổng a + + b không chia hết cho hiệu a – b? Văn hóa dân gian
+
+⟦column⟧
+
+31. Một 1000-giác được ghi trong một vòng tròn; các đỉnh của nó được tô màu xen kẽ đỏ và xanh. Số đỉnh màu đỏ lớn nhất có thể có các góc nhỏ hơn $179^\circ$ là bao nhiêu? B.Frenkin
+
+32. Xét một mặt phẳng có tọa độ Descartes. Có thể chia nó thành các đa giác sao cho có một điểm có tọa độ nguyên bên trong mỗi đa giác, đồng thời sao cho a) diện tích của mỗi đa giác nhỏ hơn 0,9; b) tồn tại một d sao cho mỗi đa giác có đường kính nhỏ hơn d và diện tích nhỏ hơn 0,9; c) Có tồn tại một d sao cho mỗi đa giác có đường kính nhỏ hơn d và diện tích nhỏ hơn 1 không? (Đường kính của đa giác là khoảng cách lớn nhất giữa hai điểm trên ranh giới của nó. Ví dụ: đường kính của hình vuông có cạnh 1 là 2.) E. Bakaev
+
+Để thu hút sự chú ý của độc giả của chúng tôi
+
+Kể từ năm 2017, tạp chí «Kvant» đã trở thành tạp chí hàng tháng và 12 số tạp chí được xuất bản mỗi năm. Bạn có thể đăng ký tạp chí của chúng tôi từ bất kỳ số nào tại bất kỳ bưu điện nào. Chỉ số đăng ký của chúng tôi trong danh mục “Báo chí Nga” là 90964. Bạn có thể mua tạp chí «Kvant» trong cửa hàng “Sách toán học” của nhà xuất bản MCMNO (địa chỉ cửa hàng trực tuyến: biblio.mccme.ru), cũng như tại các hiệu sách ở Moscow “Biblio-Globus”, “Young Guard”, “Moscow House of Books” và trong tòa soạn tạp chí. Kho lưu trữ các số đã xuất bản của tạp chí «Kvant» có ​​sẵn trên trang web http://kvant.ras.ru

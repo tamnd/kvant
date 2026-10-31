@@ -1,0 +1,50 @@
+---
+id: 2020-7-starshov-svoenravnyiy-volchok-0d6d4304
+issue: kvant_2020_7
+year: 2020
+number: "7"
+title: Đỉnh cao bướng bỉnh
+authors:
+  - Старшов М. А.
+rubric: raznoe
+rubric_sub: Разное
+page_first: 43
+page_last: 43
+tag: WZMO
+lang: vi
+source: kvant_digital
+extraction: native
+content_sha256: 222b8e76daaeb1b762f72766660ce37a56e0a9c50eff8cd6c4a66ce49596d38f
+prompt_sha256: draft-1
+translated_from: content/ru/2020/07/articles/05_starshov-svoenravnyiy-volchok-0d6d4304.md
+source_content_sha256: 919e6df583f0273cc13a00bb7a3a41a6cf56cc7945ed04edb8fc40fcc625a149
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+QUAN SÁT CỦA CHÚNG TÔI
+
+Đỉnh cao bướng bỉnh
+
+M.STARSHOV
+
+Có thể nói, CÔNG CỤ ĐƠN GIẢN NÀY được gọi là máy quay (Hình 1), đã được phổ biến khắp thế giới và thậm chí có người còn gọi nó là “đồ chơi văn phòng phải có trong năm 2017”. Trên thực tế, trong một thời gian, hầu hết mọi người trẻ cho đến khoảng một phần tư thế kỷ đều có một chiếc máy quay và vô thức ngưỡng mộ vòng quay đầy mê hoặc của nó. Nhưng thời trang luôn thay đổi và bây giờ thật khó để nhớ lần cuối cùng tôi nhìn thấy một chiếc máy quay trong tay ai đó là khi nào. Một chiếc đầu như vậy được thừa kế từ cháu trai của ông cho ông nội của ông, và ông bắt đầu tìm kiếm một công dụng mới cho món đồ chơi này. Trước hết, khả năng hồi chuyển của bàn xoay là rõ ràng. Do đó, nảy sinh ý tưởng làm cho nó quay không phải bằng tay mà dựa trên một số loại hỗ trợ. Thật vậy, máy quay cho cảm giác dễ chịu, chẳng hạn như trên một miếng nạp bút bi được cố định theo chiều dọc
+
+⟦figure⟧
+
+Cơm. 1
+
+DOI: https://doi.org/10.4213/kvant20200705
+
+⟦column⟧
+
+(miễn là quán tính quay của nó là đủ). Sau đó, một hình dáng thu nhỏ của phuộc bánh trước của xe đạp được uốn cong từ một chiếc kẹp giấy lớn. Trong cách cầm này, đồ chơi xoay tốt. Nhưng quan trọng nhất, người ta có thể cảm nhận được áp lực lên các ngón tay khi thay đổi hướng quay của nó. Rõ ràng là một con quay hồi chuyển! Và ngày hôm qua, ý tưởng gắn chong chóng vào thước đã xuất hiện và treo cấu trúc trên một sợi dây (Hình 2). Hóa ra thú vị, người cai trị đang quay. Nhưng tôi nhanh chóng muốn loại bỏ cây thước đi, hoặc ít nhất là làm cho nó nhẹ hơn.
+
+⟦figure⟧
+
+Cơm. 2
+
+Trong “thùng rác hữu ích” có một dải getinax có các khe dọc. Thông qua một trong số chúng, con quay được ép vào getinax bằng một vít nhỏ và qua khe thứ hai, toàn bộ vật được treo trên một sợi mỏng (Hình 3). Và đây là nơi điều thú vị nhất xảy ra - khi con quay quay nhanh, tấm bắt đầu quay chậm quanh trục thẳng đứng. Hướng quay này phụ thuộc vào hướng quay của chính mặt trên, hơn nữa, khi hướng quay thay đổi thì bản chất quay của tấm cũng thay đổi. Trong một trường hợp, đó là một vòng quay chậm đơn giản, và trong trường hợp khác, tấm đĩa quay theo bước nhảy ba mươi độ, một loại lượng tử. Theo thời gian, tốc độ này tăng lên một chút, $а^{Рис.} 3$

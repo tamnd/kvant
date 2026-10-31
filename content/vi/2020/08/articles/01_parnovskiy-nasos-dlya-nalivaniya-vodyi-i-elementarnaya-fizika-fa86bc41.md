@@ -1,0 +1,48 @@
+---
+id: 2020-8-parnovskiy-nasos-dlya-nalivaniya-vodyi-i-elementarnaya-fizika-fa86bc41
+issue: kvant_2020_8
+year: 2020
+number: "8"
+title: Máy bơm nước và vật lý cơ bản
+authors:
+  - Парновский С. Л.
+rubric: osnovnye-stati
+page_first: 11
+page_last: 14
+page_labels: "12"
+tag: 0U65
+lang: vi
+source: kvant_digital
+extraction: native
+content_sha256: b67372828f17def8bf71e0c2cb1f7affae4086a4993e30b3fb72248108c8031c
+prompt_sha256: draft-1
+translated_from: content/ru/2020/08/articles/01_parnovskiy-nasos-dlya-nalivaniya-vodyi-i-elementarnaya-fizika-fa86bc41.md
+source_content_sha256: 3ae736f713f5100713fa7ef48a5dac222ff1db0c9f84b260f5bb125939f500af
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+Máy bơm nước và vật lý cơ bản
+
+S. PARNOVSKY
+
+BƠM TRONG BẾP? ĐIỀU NÀY LÀ HIẾM trừ khi nó là thứ gì đó trong hệ thống ống nước hoặc một phần của bộ lọc lọc nước. Nhưng bạn vẫn có thể nhớ những thiết bị nhà bếp sử dụng máy bơm. Ở dạng đơn giản nhất, nó được thiết kế để rót nước uống thông thường được đựng trong các chai lớn (Hình 1). Một vài lần nhấn vào nắp, đóng vai trò là tay cầm của máy bơm tay, và nước đã đổ vào thùng chứa đã đặt. Nguyên lý vật lý đằng sau điều này rất đơn giản: một máy bơm đẩy không khí vào chai nhựa, tạo ra áp suất không khí dư thừa ở phần trên, phía trên mặt nước. Áp suất này được truyền vào nước và sau khi vượt quá một giá trị nhất định, nước bắt đầu có hình 1. Chai nước bị rò rỉ ra khỏi ống. Máy bơm để rót $принципе^{ния}$ còn vận hành một máy bơm thủ công trong bình giữ nhiệt - một thiết bị làm nóng nước và giữ nóng (một loại kết hợp giữa phích nước và ấm đun nước; Hình 2). Nhiệt độ nước hoàn toàn không ảnh hưởng đến hoạt động của máy bơm, vì vậy bạn có thể yên tâm hạn chế trường hợp đơn giản nhất là đổ nước ở nhiệt độ phòng. Áp suất không khí dư tối thiểu cần thiết là bao nhiêu? Nếu bạn quen thuộc với công thức Pascal về áp suất bên trong chất lỏng, thì đáp số p U gh sẽ xuất hiện ngay lập tức.
+
+DOI: https://doi.org/10.4213/kvant20200801
+
+⟦column⟧
+
+Không có câu hỏi nào với hai yếu tố đầu tiên: U là mật độ của chất lỏng; trong trường hợp của nước, U 1000 kg $м^{3} ; g 9,8$ m $с^{2}$ là gia tốc trọng trường. Nhưng bao nhiêu được coi là chiều cao mực nước dâng h? Có vẻ như đây là sự chênh lệch về chiều cao giữa mặt cắt ngang của ống nước, tức là chiều cao tối đa mà nước dâng lên trong máy bơm và mực nước trong máy bơm, nhưng ở đây có một sắc thái nhất định. Để hiểu điều này, chúng ta hãy nhớ siphon là gì. Vì mục đích này, chúng ta hãy trích dẫn từ cuốn sách của William Seabrook "Robert Wood. Một phù thủy hiện đại của phòng thí nghiệm vật lý" (M.: Nauka, 1980): "Một khám phá khác khiến ông được nâng cao trong mắt các cậu bé là việc áp dụng nguyên lý siphon, mà ông đã học được từ cuốn sách cũ của cha mình. Vào tháng Giêng, có một đợt băng tan và một cái ao nhỏ hình thành dưới cầu trượt, các cậu bé đang trượt xuống. Điều này thật tệ vì khi bạn trượt xuống băng, bạn thu được rất nhiều Sau đó, chiếc xe trượt tuyết rơi xuống một vũng nước và bạn bị tạt nước bẩn. Các cô gái trượt xuống đồi chậm hơn trên chiếc xe trượt tuyết cao của họ, và mọi thứ diễn ra tốt đẹp với họ. Nhưng không một cậu bé nào ngồi trên chiếc xe trượt tuyết như vậy vì tự hào. Mọi người tiếp tục lăn xuống, nằm sấp, ướt sũng và đầy bùn. Xung quanh vũng nước có độ cao hơn một foot, và mọi người đều biết rõ rằng nước không chảy lên dốc. Rob đặt vòi xuống đất, bảo một cậu bé dùng ngón tay bịt đầu lại và anh ta bắt đầu đổ nước vào vòi kia cho đến khi đầy toàn bộ vòi.
+
+⟦folio 12⟧
+
+KVANT 2020/№8
+
+ki có liên quan đến áp suất khí quyển. Chính điều này đã ngăn cản sự hình thành một phần bên trong ống không chứa đầy bất cứ thứ gì hoặc thậm chí không được lấp đầy bằng chân không mà bằng hơi nước với áp suất rất thấp. Nhưng áp suất khí quyển tương đương với áp suất 10,33 m nước. Khi bạn cố gắng nâng vòi lên độ cao lớn hơn, một khoảng trống sẽ hình thành trong đó và chất lỏng sẽ ngừng chảy qua ống hút. Đã hiểu nguyên lý hoạt động của siphon, chúng ta hãy nói về máy bơm nước. Tuy nhiên, chiều cao của nó rõ ràng là dưới 10 mét và ống hút ở phía trên hoạt động rất tốt. Vì vậy, chúng ta cần nâng nước lên ngang với lỗ mà nó chảy ra. Sau đó, ống hút sẽ vận chuyển nước qua phần cao hơn của ống cong và điều này sẽ không cần thêm áp suất dư thừa. Chính xác hơn, nó sẽ cần thiết, nhưng chỉ để đổ đầy nước vào ống hút khi phần nước đầu tiên đi qua. Khi nước ngừng chảy, nó sẽ tràn ra khỏi siphon. Mực nước trong ống sẽ gần bằng mức lỗ mà nước được đổ vào thùng thay thế. Kết quả là, để nước bắt đầu chảy từ máy bơm, cần phải tạo ra một áp suất dư trong đó, áp suất này tính bằng milimét của cột nước bằng hoặc lớn hơn chiều cao của phần nằm ngang, cao nhất của ống trong máy bơm so với mức chất lỏng. Và khi nó ngừng chảy, áp suất dư sẽ bằng với chiều cao của lỗ mà nước chảy ra, so với mực nước mới giảm xuống khi đổ. Cái gì đã nâng nước lên trong ống? Áp suất không khí quá mức trong tàu là kết quả của việc bơm bên trong tàu bằng máy bơm. Chiều cao của mực nước dâng có thể được tìm thấy bằng cách sử dụng cùng một công thức Pascal. Hoặc bạn có thể chỉ cần đo áp suất vượt quá tính bằng milimét cột nước, sau đó cứ mỗi 10 mm nước dư thừa. Nghệ thuật. sẽ đảm bảo mực nước dâng lên 1 cm. Nếu chúng ta mở một chai nước mới và lắp một máy bơm vào đó, thì nước phải được nâng lên một độ cao tương đối nhỏ, chẳng hạn như 10 cm. Giả sử thêm 5 cm nữa
+
+⟦column⟧
+
+sẽ cần thiết để đổ đầy siphon. Đối với tất cả điều này, nó đủ để cung cấp áp suất dư khoảng 150 mm nước. Nghệ thuật. trong một lượng nhỏ không khí cao hơn mực nước trong chai. Điều này có thể đạt được bằng cách nhấn mạnh vào máy bơm. Khi nước được tiêu thụ, mức độ của nó giảm đi. Khi có ít nước trong chai và mực nước cao hơn đáy một chút, bạn phải nâng nước lên độ cao lớn hơn - khoảng 50 cm. Theo đó, cần có áp suất vượt quá 550 mm nước. Nghệ thuật. Áp suất này gấp khoảng bốn lần áp suất khi bắt đầu vận hành chai, nhưng vẫn nhỏ so với áp suất khí quyển tương đương 10330 mm nước. Nghệ thuật. Rõ ràng là một chai thủy tinh thông thường có thể dễ dàng chịu được áp suất vượt quá 5% áp suất khí quyển. Khoảng áp suất tương tự được tạo ra bằng cách đổ nước vào chai. Có một yếu tố khác liên quan đến việc đổ chai. Chúng ta không chỉ phải tạo ra áp suất dư lớn hơn mà còn phải cung cấp cho nó một thể tích lớn hơn đáng kể với một chai gần như rỗng khoảng 20 lít. Kết quả là, khi rót từ một chai gần như trống rỗng, chúng ta không thể làm gì nếu không nhấn vài lần vào máy bơm. Bạn sẽ cần nhiều hơn nữa chỉ để nước bắt đầu chảy từ ống. Điều này dễ dàng được chứng minh bằng thực nghiệm. Nếu nước được đổ vào chai gần đầy thì chỉ cần nhấn một lần là có thể đổ một ít nước vào bình thay thế. Nếu mức thấp hơn mức trung bình một chút thì việc này sẽ cần ba lần nhấp chuột. Nếu lượng nước ít thì phải bơm thêm. Đương nhiên, bạn không nên tạm dừng giữa các lần bơm - xét cho cùng, bình không được kín và áp suất dư thừa giảm dần do không khí rò rỉ ra ngoài. Và thế là nước bắt đầu chảy, nhưng không hiểu sao nó lại không vội dừng lại. Dừng lại, chúng ta chỉ phải đổ 100 gram nước nhưng ly vẫn tiếp tục đầy. Than ôi, đây là khoản thanh toán cho lượng không khí cuối cùng được dẫn vào bên trong tàu chỉ bằng một lần nhấn. Chúng ta hãy xem thể tích chất lỏng đổ vào phụ thuộc như thế nào vào mức của nó trong chai. Để làm điều này, chúng ta hãy làm một số việc đơn giản

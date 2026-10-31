@@ -1,0 +1,54 @@
+---
+id: 2020-10-zadachi-93a25b66
+issue: kvant_2020_10
+year: 2020
+number: "10"
+title: Bài toán
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 19
+page_last: 19
+tag: SHGS
+lang: vi
+source: kvant_digital
+extraction: native
+content_sha256: 719fd8ca730c7ae2eaf185d918fc886432ccbc897facf6afc1db73397fee088b
+prompt_sha256: draft-1
+translated_from: content/ru/2020/10/articles/01_zadachi-93a25b66.md
+source_content_sha256: 85e2deb145167cfd14e598016863a402dec837f98b5a28fad22a287b219f90de
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+“SỐ LƯỢNG” CHO HỌC SINH NHỎ
+
+Bài toán
+
+1.
+
+Một học sinh viết sai phương trình lên bảng:
+
+⟦column⟧
+
+màu đỏ - để các hình vuông có một cạnh chung được sơn các màu khác nhau. Có thể có bao nhiêu hình vuông màu xanh?
+
+4.
+
+Xóa một dòng để làm cho đẳng thức đúng.
+
+2.
+
+Minh họa của D. Grishukova
+
+Tích của hai số tự nhiên liên tiếp có thể bằng tích của hai số chẵn liên tiếp không?
+
+Có 100 thẻ. Dù bạn lấy 50 thẻ nào, trong số đó bạn có thể chọn 30 thẻ sao cho dù bạn lấy 20 thẻ nào, bạn có thể chọn 10 thẻ trong số đó sao cho dù bạn lấy 5 thẻ nào thì trong số đó sẽ có ít nhất 3 thẻ đỏ. Đồng thời, dù bạn lấy 80 lá bài nào trong số 100 lá bài, trong số đó bạn có thể chọn 20 lá bài sao cho
+
+3.
+
+Mỗi mặt của khối lập phương được chia thành 4 hình vuông. Mỗi hình vuông được sơn bằng một trong ba màu - xanh lam, vàng hoặc bất cứ 10 màu nào bạn lấy, sẽ có ít nhất 2 thẻ xanh trong số đó. Có bao nhiêu lá bài màu đỏ và bao nhiêu lá bài màu xanh trong bộ bài?
+
+Tác giả của bài toán này là V.V. Proizvolov
