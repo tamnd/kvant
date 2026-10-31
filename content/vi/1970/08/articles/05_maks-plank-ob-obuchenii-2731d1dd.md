@@ -12,37 +12,15 @@ tag: 8CHP
 lang: vi
 source: kvant_digital
 extraction: vision
-content_sha256: 27685bfd585e0431815b583c753ea0383507fdc5ce70a55b6c96fc127b6aeef5
+content_sha256: 5079e1cab9810c06402bbcc33b3fbebac53f118b6c4748237cb9b0dd9776efd5
 prompt_sha256: 3ec6b8aabd9b98576af76503cd8a2902b9f5d18e01ee867dfb1228f59c6d52d8
 translated_from: content/ru/1970/08/articles/05_maks-plank-ob-obuchenii-2731d1dd.md
-source_content_sha256: de1989c7cb75a8b3fb86272855a9ed54b75e843be3f7cf79d18735b9e8c4fefe
+source_content_sha256: e05e38510345207429c541289cf856b7c6b13febf902f9926f108b1463440c49
 translation_model: gpt-5-6-mini
 translation_run: m10-1970-vi
 ---
 
 ⟦folio 20⟧
-
-— là tập hợp các phân số thích hợp. Tính chất rất tinh tế này không thể không gây xúc động cho bất cứ độc giả nào yêu thích những con số.
-
-Nếu đối với số α và phân số $\frac{p}{q}$, hệ số lợi ích $\lambda = \frac{1}{2|q\alpha - p|}$ lớn hơn so với mọi phân số có giá trị nhỏ hơn, thì $\frac{p}{q}$ là phân số thích hợp của α.
-
-Ví dụ. Từ chính bảng đó đối với số π có thể thấy rằng phân số $\frac{22}{7}$ cho phép xấp xỉ π với hệ số lợi ích lớn hơn so với các phân số có giá trị 1, 2, 3, 4, 5, 6. Do đó, ngay cả khi chưa biết khai triển π thành phân số liên tục, dựa trên định lý cuối cùng, ta có thể kết luận rằng $\frac{22}{7}$ là một phân số thích hợp.
-
-Còn có nhiều định lý khác thuộc loại này. Tất cả chúng, từ những góc độ khác nhau, đều xác nhận cùng một điều: nếu cần xấp xỉ một số thực bằng những số hữu tỉ đơn giản, thì có lợi nhất là sử dụng các phân số thích hợp.
-
-Đó chính là chiếc chìa khóa quý giá dẫn đến những bí ẩn được nói đến trong bài viết đầu tiên.
-
-Bài tập.
-
-1. Biểu diễn (dưới dạng phân số liên tục) tỉ số giữa đáy và cạnh bên trong một tam giác cân có góc 120°.
-
-2. Tìm giá trị của phân số liên tục trong công thức (1.2). Tìm cos 36°.
-
-3. Tìm giá trị của phân số liên tục trong công thức (1.4). Biểu diễn $a_{10}$ qua R. Tìm sin 18°.
-
-4. Biết khai triển thành phân số liên tục (hữu hạn hoặc vô hạn) của số α, hãy tìm khai triển của số $\frac{\beta}{\alpha}$.
-
-5. Trong bài viết có nói rằng các giá trị của các phân số thích hợp tăng dần (các bất đẳng thức (3.3)). Có thể nói điều tương tự về tử số không?
 
 MAX PLANCK
 VỀ GIÁO DỤC

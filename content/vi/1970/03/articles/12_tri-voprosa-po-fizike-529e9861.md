@@ -12,21 +12,15 @@ tag: A7CW
 lang: vi
 source: kvant_digital
 extraction: vision
-content_sha256: 56a02c51b09ea3ab2d04aa789d2790a5a0322e10e1b8e9d0f4218050dcf882b7
+content_sha256: 0e0502d7628fb4eebf763344b8ceca0dcfee83ded2ade4b3551aeb7db156bbd2
 prompt_sha256: 3ec6b8aabd9b98576af76503cd8a2902b9f5d18e01ee867dfb1228f59c6d52d8
 translated_from: content/ru/1970/03/articles/12_tri-voprosa-po-fizike-529e9861.md
-source_content_sha256: 851c7df706aed8f79fa70a7367e3c050e5dd33573f205b389f126e593b22d531
+source_content_sha256: ff0a7a859009e805ad2a64beb66250026bfb0bb914cc6c29f23b1894e3e8d52d
 translation_model: gpt-5.6-terra
 translation_run: vi-codex-2026-10-30
 ---
 
 ⟦folio 47⟧
-
-F16. Một ô tô có trọng lượng $P$, cả hai trục đều là trục chủ động, bắt đầu chuyển động. Động cơ ô tô làm việc với công suất không đổi $W$, hệ số ma sát trượt của bánh xe với mặt đường bằng $k$. Hãy tìm sự phụ thuộc của vận tốc ô tô vào thời gian và vẽ đồ thị của sự phụ thuộc này. Bỏ qua sức cản không khí và ma sát trong các cơ cấu.
-
-A. T. Drozdov
-
-F17. Giữa các bản của một tụ điện phẳng bị nối tắt, người ta đặt một bản mang điện tích $q$. Bản này được dịch chuyển song song với chính nó một khoảng $x$ (hình 6). Khi đó điện tích nào đi qua mạch ngoài của tụ điện, nếu khoảng cách giữa các bản của nó bằng $d$?
 
 BA CÂU HỎI
 VỀ VẬT LÍ

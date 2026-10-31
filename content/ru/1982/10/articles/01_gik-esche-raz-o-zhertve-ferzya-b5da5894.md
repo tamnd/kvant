@@ -14,14 +14,10 @@ tag: SAAJ
 lang: ru
 source: kvant_digital
 extraction: vision
-content_sha256: df6262c16f32733b98836ffe228a8b0baa90d4199d4c2c0f1da2bc514a95dee1
+content_sha256: 25e9f50445e72d017c44ba8b45bcf8aedd1e7108af438793e30c33459bc7bd2f
 ---
 
 ⟦folio none⟧
-
-Шахматная страница
-
-Консультирует — чемпон мира по шахматам, международный гроссейстер А. Карпов. Ведет страничку мастер спорта СССР по шахматам, кандидат технических наук Е. Гик.
 
 ЕЩЕ РАЗ О ЖЕРТВЕ ФЕРЗЯ
 

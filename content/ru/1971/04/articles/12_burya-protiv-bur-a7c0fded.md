@@ -12,38 +12,10 @@ tag: BOWO
 lang: ru
 source: kvant_digital
 extraction: vision
-content_sha256: 6692cc307cef192e74a0cf47cfff2bcbf2eaff52927e055a2e0ac6b34971de0a
+content_sha256: 9e1481a08b544f3dd90fefbbbbbded994fd290081603a87a92c8d77618bf32e7
 ---
 
 ⟦folio 50⟧
-
-удовлетворяот следующие значения $x$: во-первых, $1 < x < \frac{\pi}{2}$, во-вторых
-$$\frac{\pi}{4} + k\pi < x < \frac{\pi}{2} + k\pi$$
-где $k$ — целое положительное число, то есть $k = 1, 2, 3, \dots$.
-
-Собирая все значения $x$, найdenные при рассмотрении обих слуаев, получаем следующий окончательный ответ:
-
-$$0 < x_1 < \frac{\pi}{4},$$
-$$1 < x_2 < \frac{\pi}{2},$$
-$$\frac{\pi}{4} + k\pi < x_3 < \frac{\pi}{2} + k\pi$$
-($k = 1, 2, 3, \dots$).
-
-В заключение приводим ряд примеров для самостоятельного решения.
-
-Решите неравенства:
-
-1. $\cos x \geq \frac{1}{2}$.
-2. $\sin 2x < \frac{1}{\sqrt{2}}$.
-3. $\sin \frac{x}{5} \geq -\frac{1}{2}$.
-4. $\lg(3x - 1) < \frac{1}{\sqrt{3}}$.
-5. $|\lg x| \geq \sqrt{3}$.
-6. $|\cos x| < \frac{1}{2}$.
-7. $\sin^2 x < \frac{1}{4}$.
-8. $\lg^2 x \geq \frac{1}{3}$.
-9. $2\sin^2 x \leq \sin x$.
-10. $2\cos^2 x + \cos x < 1$.
-11. $\log_3(\lg x) \geq \frac{1}{2}$.
-12. $\log_{\frac{1}{2}}(\cos x) \leq 1$.
 
 БУРЯ ПРОТИВ БУРЬ
 

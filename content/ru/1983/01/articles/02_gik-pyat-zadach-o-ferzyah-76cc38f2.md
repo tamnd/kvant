@@ -14,14 +14,10 @@ tag: BV90
 lang: ru
 source: kvant_digital
 extraction: vision
-content_sha256: c59c561c9ef7859dd7698e2bc422fb8f4916f2fbf14bdf7b1eb1825e7f2f2b34
+content_sha256: a71f74fc4361c6c8cfc6dd8054e1ec99410f0a8c8e0ac2b1afb65809ef1db515
 ---
 
 ⟦folio none⟧
-
-Шахматная страница
-
-Консультирует — чемппон мира по шахматам, международный гроссейстер А. Карпов. Ведет страничку мастер спорта СССР по шахматам, кандидат технических наук Е. Гик.
 
 ПЯТЬ ЗАДАЧО О ФЕРЗЯХ
 

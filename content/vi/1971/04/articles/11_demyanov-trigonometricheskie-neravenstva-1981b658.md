@@ -9,16 +9,16 @@ authors:
 rubric: praktikum-abiturienta
 rubric_sub: Практикум абитуриента
 page_first: 45
-page_last: 51
-page_labels: 43-49
+page_last: 52
+page_labels: 43-50
 tag: DE7Y
 lang: vi
 source: kvant_digital
 extraction: vision
-content_sha256: 76fc7f17de4a2d7927ee5d2d8f025bb8ae8c306ced15f8e762273aca1c4bb3d3
+content_sha256: 85bfb2753cecdfdc7f9a91c99b6173af5a99bfcca83dc7463a9e3fa4b2c8772f
 prompt_sha256: 3ec6b8aabd9b98576af76503cd8a2902b9f5d18e01ee867dfb1228f59c6d52d8
 translated_from: content/ru/1971/04/articles/11_demyanov-trigonometricheskie-neravenstva-1981b658.md
-source_content_sha256: be22fd8b14520e67b515e808e65c37a4445e096255be259631b019c78a8a46b9
+source_content_sha256: 5f6558d13eaba12d914dd6c05975be07e6696d3a29dae4b831d91183ce1b7fe6
 translation_model: gpt-5.6-terra
 translation_run: vi-codex-2026-10-31
 ---
@@ -260,3 +260,33 @@ $$\frac{\pi}{4} + k\pi < x < \frac{\pi}{2} + k\pi$$
 ($k = 0, \pm 1, \pm 2, \dots$).
 
 Bây giờ xét điều kiện $x > 1$. Từ hình 5 ta thấy rằng cả hai bất đẳng thức $x > 1$ và $tg x > 1$ đồng thời
+
+⟦folio 50⟧
+
+thỏa mãn các giá trị $x$ sau đây: thứ nhất, $1 < x < \frac{\pi}{2}$, thứ hai
+$$\frac{\pi}{4} + k\pi < x < \frac{\pi}{2} + k\pi$$
+trong đó $k$ — số nguyên dương, tức là $k = 1, 2, 3, \dots$.
+
+Tập hợp tất cả các giá trị $x$ tìm được khi xét cả hai trường hợp, ta nhận được đáp số cuối cùng sau đây:
+
+$$0 < x_1 < \frac{\pi}{4},$$
+$$1 < x_2 < \frac{\pi}{2},$$
+$$\frac{\pi}{4} + k\pi < x_3 < \frac{\pi}{2} + k\pi$$
+($k = 1, 2, 3, \dots$).
+
+Cuối cùng, chúng tôi đưa ra một loạt ví dụ để tự giải.
+
+Giải các bất đẳng thức:
+
+1. $\cos x \geq \frac{1}{2}$.
+2. $\sin 2x < \frac{1}{\sqrt{2}}$.
+3. $\sin \frac{x}{5} \geq -\frac{1}{2}$.
+4. $\lg(3x - 1) < \frac{1}{\sqrt{3}}$.
+5. $|\lg x| \geq \sqrt{3}$.
+6. $|\cos x| < \frac{1}{2}$.
+7. $\sin^2 x < \frac{1}{4}$.
+8. $\lg^2 x \geq \frac{1}{3}$.
+9. $2\sin^2 x \leq \sin x$.
+10. $2\cos^2 x + \cos x < 1$.
+11. $\log_3(\lg x) \geq \frac{1}{2}$.
+12. $\log_{\frac{1}{2}}(\cos x) \leq 1$.

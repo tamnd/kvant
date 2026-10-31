@@ -12,25 +12,15 @@ tag: I6RR
 lang: vi
 source: kvant_digital
 extraction: vision
-content_sha256: ff30e690cb71fcedc6d6546b9fe7d01ce7cae370a92a2fbf147ce7d15f601822
+content_sha256: 9404f25fdf2cb755d6abccb16f18b5c7ef877aa8101e466cdf499577737a4e6a
 prompt_sha256: 3ec6b8aabd9b98576af76503cd8a2902b9f5d18e01ee867dfb1228f59c6d52d8
 translated_from: content/ru/1970/01/articles/08_maks-born-obyasnyaet-teoriyu-otnositelnosti-7c39d947.md
-source_content_sha256: c656e80ac6732d280919ef4b1ef8856169b99c3c082b1d35624d4390c3e6c580
+source_content_sha256: 0687ca9bd85cc70ca26b67a02e520e4d5978f86ba7512f6835cbde1d4886dc38
 translation_model: gpt-5-6-mini
 translation_run: m10-1970-vi
 ---
 
 ⟦folio 43⟧
-
-mà lực tác dụng lên thanh gỗ tạo với phương ngang. Lực tác dụng lên thanh gỗ nhỏ hơn trọng lượng của thanh gỗ, còn góc thay đổi từ 0 đến $\frac{\pi}{2}$.
-
-5. Những ống bị gãy trong khi khoan có thể được nâng lên bằng thiết bị chỉ ra trên hình. Các thanh $AB$ và $AC$ được gắn bản lề vào dây cáp tại điểm $A$. Việc nâng ống được thực hiện nhờ ma sát của các thanh với ống. Hãy tìm điều kiện để với một thiết bị như vậy có thể nâng các ống có trọng lượng bất kỳ. Dây cáp, tất nhiên, đủ bền.
-
-6. Một khối lập phương nhỏ khối lượng $m$ nằm trên mặt phẳng nhám, nghiêng với phương ngang một góc $\alpha$. Hệ số ma sát $k=2tg\alpha$. Xác định lực nhỏ nhất $F$ (xem hình) cần tác dụng để đẩy khối lập phương bắt đầu chuyển động.
-
-7. Một bánh đà bán kính $R=20$ cm được lắp trên trục nằm ngang bán kính $r=2$ cm. Cố định trục, có thể tháo bánh đà ra nếu kéo nó bằng lực $F=100$ kG. Để tháo bánh đà dễ hơn, người ta tác dụng vào vành bánh đà lực $F_1=8$ kg, tạo ra mômen quay đối với trục. Khi đó cần kéo bánh đà dọc theo trục với lực nhỏ nhất $F_2$ bằng bao nhiêu?
-
-8. Vì sao cánh cửa được bôi trơn kém lại kêu cót két?
 
 MAX BORN
 GIẢI THÍCH LÝ THUYẾT

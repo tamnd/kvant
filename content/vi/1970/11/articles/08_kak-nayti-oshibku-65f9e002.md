@@ -12,37 +12,15 @@ tag: QVQB
 lang: vi
 source: kvant_digital
 extraction: vision
-content_sha256: 894c9cda7bec199a35038aa0065fb3edb0daa0aadd53b314e82250ac6927705e
+content_sha256: aa6da2a3c54dd1455ba17f8c74c0df3088cf8212461d80c7cfaeaf6e513f7fd9
 prompt_sha256: 3ec6b8aabd9b98576af76503cd8a2902b9f5d18e01ee867dfb1228f59c6d52d8
 translated_from: content/ru/1970/11/articles/08_kak-nayti-oshibku-65f9e002.md
-source_content_sha256: 386342da7ee40fa43dbaa8358cf3d2ec96454a13baae8590d8174cb08e209c92
+source_content_sha256: 047f0462fcc9fecaba27dc957dad934bd013ae2c96bb4df8bac4d0aab3cd3180
 translation_model: gpt-5.6-terra
 translation_run: vi-codex-2026-10-31
 ---
 
 ⟦trang 26⟧
-
-đại lượng. Do đó, ta có một chuỗi bất đẳng thức
-
-$$\frac{a_1 + a_2 + \ldots + a_n}{n} \geq \sqrt[n]{a_1 a_2 \ldots a_n} \geq \frac{n}{a_1 + \frac{1}{a_2} + \ldots + \frac{1}{a_n}}.$$
-
-Hãy tự chứng minh bất đẳng thức cuối cùng.
-
-Cuối cùng, lưu ý rằng trong toán học cao cấp có phương pháp tìm cực đại và cực tiểu của hàm số bằng phép vi phân. Tuy nhiên, các bất đẳng thức đã xét tỏ ra thuận tiện hơn để tính trên máy tính điện tử các giá trị lớn nhất và nhỏ nhất của một số loại biểu thức. Các phương pháp này được gọi là quy hoạch hình học.
-
-Bài tập
-
-1. Trong các quạt tròn có chu vi cho trước $P$, hãy tìm quạt có diện tích lớn nhất.
-
-2. Trong đường tròn đã cho, hãy tìm dây nhỏ nhất đi qua điểm $A$ nằm bên trong đường tròn.
-
-3. Hãy tìm giá trị nhỏ nhất của biểu thức
-
-$$2x^3 + \frac{3}{\sqrt{x}}.$$
-
-4. Chứng minh rằng nếu tổng các biến dương $x_1, x_2, \ldots, x_n$ là không đổi, thì tích $x_1^{k_1} x_2^{k_2} x_3^{k_3} \ldots x_n^{k_n}$, trong đó $k_1, k_2, \ldots, k_n$ là các số nguyên dương cho trước, đạt giá trị lớn nhất khi các biến tỉ lệ với các số mũ của chúng: $\frac{x_1}{k_1} = \frac{x_2}{k_2} = \frac{x_3}{k_3} = \ldots = \frac{x_n}{k_n}$.
-
-Chứng minh rằng điều đó cũng đúng đối với các số hữu tỉ dương $k_1, k_2, \ldots, k_n$.
 
 CÁCH TÌM LỖI
 

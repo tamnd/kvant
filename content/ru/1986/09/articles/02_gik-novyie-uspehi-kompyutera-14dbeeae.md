@@ -14,12 +14,10 @@ tag: UJ2L
 lang: ru
 source: kvant_digital
 extraction: vision
-content_sha256: 849b024258f58c39574b476e34c17c8cb4388b6185c6ebc06971cf7c0982a854
+content_sha256: 71b89921dd174bbd267b1cb615393be915b4a4edeeef8b7148d52f25aebfc99d
 ---
 
 ⟦folio none⟧
-
-Консультирует — экс-чемпion мира по шахматам, международный гроссейстер А. Е. Карпов. Ведет страничий мастер спорта СССР по шахматам, кандидат технических наук Е. Я. Гик.
 
 НОВЫЕ УСПЕХИ КОМПЫОТЕРА
 

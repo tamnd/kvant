@@ -8,16 +8,16 @@ authors:
   - Слободецкий И. Ш.
 rubric: osnovnye-stati
 page_first: 39
-page_last: 44
-page_labels: 37-42
+page_last: 45
+page_labels: 37-43
 tag: C7KG
 lang: vi
 source: kvant_digital
 extraction: vision
-content_sha256: 6622f0532b7c45adcc08dad83afa2166a657d570f3003a6177c30c2fc04b5ecd
+content_sha256: 4305c798791805dcae51fdc9ed82272aff43f371900efe44512c497832194170
 prompt_sha256: 3ec6b8aabd9b98576af76503cd8a2902b9f5d18e01ee867dfb1228f59c6d52d8
 translated_from: content/ru/1970/01/articles/07_slobodetskiy-suhoe-trenie-656883e0.md
-source_content_sha256: fe523294cb829299d21da38337957c4d441fa6891316fad4d7e54978f7554d86
+source_content_sha256: 8bc1c481f88d77f2d9c36a0fe6c8f5f3b2464a6f260617002103d029405cccd1
 translation_model: gpt-5.6-terra
 translation_run: vi-codex-2026-10-30
 ---
@@ -143,3 +143,15 @@ BÀI TẬP
 3. Vẽ đồ thị sự phụ thuộc của lực ma sát tác dụng lên một khối gỗ nằm trên mặt phẳng nghiêng vào góc nghiêng của mặt phẳng so với phương ngang.
 
 4. Vẽ đồ thị sự phụ thuộc của lực ma sát tác dụng lên một khối gỗ nằm trên mặt phẳng ngang vào góc,
+
+⟦folio 43⟧
+
+mà lực tác dụng lên thanh gỗ tạo với phương ngang. Lực tác dụng lên thanh gỗ nhỏ hơn trọng lượng của thanh gỗ, còn góc thay đổi từ 0 đến $\frac{\pi}{2}$.
+
+5. Những ống bị gãy trong khi khoan có thể được nâng lên bằng thiết bị chỉ ra trên hình. Các thanh $AB$ và $AC$ được gắn bản lề vào dây cáp tại điểm $A$. Việc nâng ống được thực hiện nhờ ma sát của các thanh với ống. Hãy tìm điều kiện để với một thiết bị như vậy có thể nâng các ống có trọng lượng bất kỳ. Dây cáp, tất nhiên, đủ bền.
+
+6. Một khối lập phương nhỏ khối lượng $m$ nằm trên mặt phẳng nhám, nghiêng với phương ngang một góc $\alpha$. Hệ số ma sát $k=2tg\alpha$. Xác định lực nhỏ nhất $F$ (xem hình) cần tác dụng để đẩy khối lập phương bắt đầu chuyển động.
+
+7. Một bánh đà bán kính $R=20$ cm được lắp trên trục nằm ngang bán kính $r=2$ cm. Cố định trục, có thể tháo bánh đà ra nếu kéo nó bằng lực $F=100$ kG. Để tháo bánh đà dễ hơn, người ta tác dụng vào vành bánh đà lực $F_1=8$ kg, tạo ra mômen quay đối với trục. Khi đó cần kéo bánh đà dọc theo trục với lực nhỏ nhất $F_2$ bằng bao nhiêu?
+
+8. Vì sao cánh cửa được bôi trơn kém lại kêu cót két?

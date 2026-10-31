@@ -8,8 +8,8 @@ authors:
   - Хапланов М. Г.
 rubric: osnovnye-stati
 page_first: 26
-page_last: 28
-page_labels: 24-26
+page_last: 29
+page_labels: 24-27
 tag: OA6W
 lang: ru
 source: kvant_digital

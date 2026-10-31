@@ -15,16 +15,10 @@ tag: DL38
 lang: ru
 source: kvant_digital
 extraction: vision
-content_sha256: e95737788ac20e696c8d206412c6853c2c53e2d3e734ce30737ffc83450711e6
+content_sha256: 9df8c4d330b34c4323d87d4165fbc788aa9fda5f10e9067b9b7c46dc79ba2ddb
 ---
 
 ⟦folio none⟧
-
-УГОЛОК КОЛЛЕКЦИОНЕРА
-
-JAHRE DER RUHIGEN SONNE 1964/1965
-YEARS OF THE QUIET SUN 1964/1965
-ГОДЫ СПОКОЙНОГО СОЛНЦА 1964-1965 ГГ
 
 МАРКИ, ПОСВЯЩЕННЫЕ МЕЖДУНАРОДНОМУ ГОДУ
 СПОКОЙНОГО СОЛНЦА

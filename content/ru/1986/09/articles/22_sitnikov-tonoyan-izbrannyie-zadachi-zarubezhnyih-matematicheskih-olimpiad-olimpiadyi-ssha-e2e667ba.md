@@ -10,13 +10,13 @@ authors:
 rubric: olimpiady
 rubric_sub: Олимпиады
 page_first: 62
-page_last: 66
+page_last: 67
 page_labels: 60-64
 tag: JW9T
 lang: ru
 source: kvant_digital
 extraction: vision
-content_sha256: 7536d124ff3321e087f30345fe43f17aaeff622390b346dcc147b5f857e0c31b
+content_sha256: 4b969bcec48ef91fea815cb9cb047dbc3931a6515e7e0e41e5ab2079577eeba0
 ---
 
 ⟦folio 60⟧
@@ -271,3 +271,7 @@ T-11649 Вумала 70×108/16
 по делам издаелств, полигraphии
 и книжной торговли
 142300 г. Чехов Московской области
+
+⟦folio none⟧
+
+Консультирует — экс-чемпion мира по шахматам, международный гроссейстер А. Е. Карпов. Ведет страничий мастер спорта СССР по шахматам, кандидат технических наук Е. Я. Гик.

@@ -9,13 +9,13 @@ authors:
 rubric: praktikum-abiturienta
 rubric_sub: Практикум абитуриента
 page_first: 45
-page_last: 51
-page_labels: 43-49
+page_last: 52
+page_labels: 43-50
 tag: DE7Y
 lang: ru
 source: kvant_digital
 extraction: vision
-content_sha256: be22fd8b14520e67b515e808e65c37a4445e096255be259631b019c78a8a46b9
+content_sha256: 5f6558d13eaba12d914dd6c05975be07e6696d3a29dae4b831d91183ce1b7fe6
 ---
 
 ⟦folio 43⟧
@@ -255,3 +255,33 @@ $$\frac{\pi}{4} + k\pi < x < \frac{\pi}{2} + k\pi$$
 ($k = 0, \pm 1, \pm 2, \dots$).
 
 Учитем теперь условия $x > 1$. Из рисунка 5 мы видим, что обом неравенств $x > 1$ и $tg x > 1$ одновременно
+
+⟦folio 50⟧
+
+удовлетворяот следующие значения $x$: во-первых, $1 < x < \frac{\pi}{2}$, во-вторых
+$$\frac{\pi}{4} + k\pi < x < \frac{\pi}{2} + k\pi$$
+где $k$ — целое положительное число, то есть $k = 1, 2, 3, \dots$.
+
+Собирая все значения $x$, найdenные при рассмотрении обих слуаев, получаем следующий окончательный ответ:
+
+$$0 < x_1 < \frac{\pi}{4},$$
+$$1 < x_2 < \frac{\pi}{2},$$
+$$\frac{\pi}{4} + k\pi < x_3 < \frac{\pi}{2} + k\pi$$
+($k = 1, 2, 3, \dots$).
+
+В заключение приводим ряд примеров для самостоятельного решения.
+
+Решите неравенства:
+
+1. $\cos x \geq \frac{1}{2}$.
+2. $\sin 2x < \frac{1}{\sqrt{2}}$.
+3. $\sin \frac{x}{5} \geq -\frac{1}{2}$.
+4. $\lg(3x - 1) < \frac{1}{\sqrt{3}}$.
+5. $|\lg x| \geq \sqrt{3}$.
+6. $|\cos x| < \frac{1}{2}$.
+7. $\sin^2 x < \frac{1}{4}$.
+8. $\lg^2 x \geq \frac{1}{3}$.
+9. $2\sin^2 x \leq \sin x$.
+10. $2\cos^2 x + \cos x < 1$.
+11. $\log_3(\lg x) \geq \frac{1}{2}$.
+12. $\log_{\frac{1}{2}}(\cos x) \leq 1$.

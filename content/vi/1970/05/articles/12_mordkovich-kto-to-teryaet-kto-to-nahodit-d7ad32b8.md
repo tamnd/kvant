@@ -9,16 +9,16 @@ authors:
 rubric: praktikum-abiturienta
 rubric_sub: Практикум абитуриента
 page_first: 50
-page_last: 52
-page_labels: 48-50
+page_last: 53
+page_labels: 48-51
 tag: B39Q
 lang: vi
 source: kvant_digital
 extraction: vision
-content_sha256: aea699680c73a8f0b62d150adb178d6205ef5d0637d15f592dada47f6bae2fed
+content_sha256: c5d8b43e4ce7e330ee38966b4751a4c6014d9f6b97f5d1b5fb1283f3a8d04f51
 prompt_sha256: 3ec6b8aabd9b98576af76503cd8a2902b9f5d18e01ee867dfb1228f59c6d52d8
 translated_from: content/ru/1970/05/articles/12_mordkovich-kto-to-teryaet-kto-to-nahodit-d7ad32b8.md
-source_content_sha256: 4e3e14af07ebf92f80a7d0d7361db96a1d25250e24b1dab9b9d9b30980b26f32
+source_content_sha256: 96ab34872b6a93e1a5a38e4f6e28a49c3c150a45358367e4dcbbf4faae62e823
 translation_model: gpt-5.6-terra
 translation_run: vi-codex-2026-10-30
 ---
@@ -141,3 +141,26 @@ Từ đó suy ra rằng $Y \subset X$, tức là ĐKXĐ của phương trình (1
 Bây giờ nảy sinh một câu hỏi quan trọng: điều gì đã dẫn đến việc thu hẹp miền xác định? Phân tích lời giải của ví dụ 6 cho thấy rằng việc sử dụng các công thức tang của tổng đã dẫn đến việc thu hẹp miền xác định, trong ví dụ của chúng ta công thức thuộc tập $X$, nhưng không thuộc tập «hẹp hơn» $Y$, $(Y \subset X)$.
 
 Nguyên nhân thứ hai là chia cả hai vế của phương trình cho cùng một hàm. Giả sử $x_1$ — một nghiệm của phương trình (11), nhưng hoàn toàn không nhất thiết thỏa mãn phương trình (10). Như vậy,
+
+⟦folio 51⟧
+
+do đó, việc chia cả hai vế của phương trình cho cùng một hàm có thể dẫn đến mất nghiệm (cụ thể là các nghiệm của hàm-chia).
+
+THAY CHO KẾT LUẬN
+
+Vậy khi giải phương trình cần theo quy tắc chung nào? Chỉ một quy tắc: giải bất kỳ phương trình nào một cách có ý thức, không máy móc, không bỏ qua sự chú ý đối với bất kỳ bước chuyển đáng ngờ nào, nơi có thể xuất hiện nghiệm ngoại lai hoặc mất nghiệm. Trước khi bắt đầu giải phương trình, nên ghi ra mọi điều kiện xác định ĐKXĐ (thậm chí không nhất thiết phải giải chúng theo ẩn); chẳng hạn, khi giải phương trình (3) chỉ cần ghi ra các điều kiện: $x^2 + 3x - 4 > 0$ và $2x + 2 > 0$; khi kiểm tra, thấy ngay rằng một trong các nghiệm đã tìm được $x_2 = -3$ không thỏa mãn điều kiện $2x + 2 > 0$. Nếu trong quá trình giải phải thực hiện những bước chuyển mà có thể xuất hiện nghiệm ngoại lai, thì cuối cùng cần kiểm tra, và trong trường hợp này việc kiểm tra là một phần của lời giải bài toán, chứ không chỉ là sự kiểm soát bổ sung. Đôi khi trong quá trình giải, thuận tiện là chia tập giá trị của biến thành hai hoặc vài phần và nghiên cứu phương trình riêng trên mỗi phần; chẳng hạn, phương trình (14) khi $60 - 3x < 0$ hiển nhiên không có nghiệm, còn khi $60 - 3x \ge 0$ việc bình phương cả hai vế sẽ không dẫn đến xuất hiện nghiệm mới, vì cả hai vế của phương trình đều không âm (nghiệm ngoại lai $x_2 = 362$ tự động bị loại, vì không thỏa mãn điều kiện $60 - 3x \ge 0$).
+
+Lời giải của mỗi phương trình phải có dạng một chứng minh định lý rằng phương trình đã cho được thỏa mãn bởi những số, và chỉ những số, được viết trong đáp số; đồng thời “cuộc đấu tranh” với nghiệm ngoại lai và với việc mất nghiệm khi biến đổi phải linh hoạt.
+
+Bài tập
+
+Giải các phương trình sau:
+
+1. $\frac{x}{2x-1} + \frac{25}{4x^2-1} = \frac{1}{27} - \frac{13}{1-2x}$.
+2. $\frac{x^2 - 3x + 2}{x} \left( \frac{x}{3^2 - 1} - 1 \right) = 0$.
+3. $\sqrt{x+1} = 1 - \sqrt{2x+3}$.
+4. $\sqrt{(x+16)(x-5)} + \sqrt{x^2 - 5x} + \sqrt{x^2 - 5x} + x = 40$.
+5. $\log_{5x-2} 2 + 2 \log_{5x-2} x = \log_{5x-2} (x+1)$.
+6. $\frac{\lg 2 + \lg (4 - 5x - 6x^2)}{\lg \sqrt{2x-1}} = 3$.
+7. $tg x + tg 2x = tg 3x$.
+8. $3 tg 2x + 2 ctg x + 3 = 0$.

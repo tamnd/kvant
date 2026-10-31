@@ -14,14 +14,10 @@ tag: 7ZA7
 lang: ru
 source: kvant_digital
 extraction: vision
-content_sha256: 733e6d9f4083f8aaac92624c3c363350525f53fface2c58833aa33468bcb8347
+content_sha256: deeba58961ac0ce3360dcf2dacdf25ec15aa56df755d2cf4690bc3cea4d74229
 ---
 
 ⟦folio none⟧
-
-Шахматная страница
-
-Консультирует — чемпион мира по шахматам, международный гроссейстер А. Е. Карпов. Ведет страничку мастер спорта СССР по шахматам, кандидат технических наук Е. Я. Гик.
 
 РЕШИЛ ЖРЕБИЙ
 

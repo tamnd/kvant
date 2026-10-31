@@ -8,16 +8,16 @@ authors:
   - Лившиц М. С.
 rubric: osnovnye-stati
 page_first: 13
-page_last: 17
-page_labels: 11-15
+page_last: 18
+page_labels: 11-16
 tag: 9LVI
 lang: vi
 source: kvant_digital
 extraction: vision
-content_sha256: 904527c3f470883a2241366c0483c093256f56306a569bf1f172958c677615c8
+content_sha256: 30118956ff41316202d4a49777c04e2702f3400fd502334bf5e59312e6b590c7
 prompt_sha256: 3ec6b8aabd9b98576af76503cd8a2902b9f5d18e01ee867dfb1228f59c6d52d8
 translated_from: content/ru/1971/07/articles/03_livshits-paradoksyi-reaktivnogo-dvizheniya-25d2a392.md
-source_content_sha256: 075efeba6bf26b3470da84dbfbed3e8d45edcb78d91022992bcd61cfe26b693d
+source_content_sha256: ae3584af88a799031d58dc318c2a3f2ced347f22242b5a0b339e4bbf1c6b1ec5
 translation_model: gpt-5.6-terra
 translation_run: vi-codex-2026-10-31
 ---
@@ -140,3 +140,11 @@ Vậy lời giải cho các nghịch lí đã nêu là gì?
 1. «Nghịch lý» thứ nhất, tức là việc công suất do lực đẩy phát triển tăng liên tục khi vận tốc tên lửa tăng và tại $v > \frac{u}{2}$ trở nên lớn hơn công suất chuyển động của tên lửa, được giải thích, như thấy từ định nghĩa thứ nhất của hiệu suất ngoài, bởi sự có mặt của phần trao đổi mà công suất của nó đang được xét. Nó cũng tăng khi vận tốc tên lửa tăng. Như vậy, khi vận tốc tên lửa tăng, các khí rời tên lửa trở nên, có thể nói, ngày càng «giàu» hơn và truyền cho tên lửa một lượng ngày càng lớn (tuyệt đối, chứ không phải tương đối) của năng lượng $\frac{\mu v^2}{2}$ mà chúng có trước khi chảy ra khỏi tên lửa. Các khí bay ra từ vòi phun của tên lửa truyền cho tên lửa phần năng lượng đã được tích trữ từ trước. Chính điều đó dẫn đến việc công suất do lực đẩy phát triển tăng liên tục và tại $v > \frac{u}{2}$ trở nên lớn hơn lượng nhận được nhờ năng lượng hóa học của nhiên liệu.
 
 2. «Nghịch lý» thứ hai cũng được giải thích khá đơn giản. Khi vận tốc tên lửa trở nên lớn hơn hai lần vận tốc chảy ra của khí ($v > 2u$), năng lượng do khí mang đi tăng đến mức dòng khí chảy ra không chỉ mang đi toàn bộ năng lượng được tạo ra tại thời điểm ấy bởi chuyển động của tên lửa, mà còn một phần năng lượng mà hệ «tên lửa — khí» đã có trước thời điểm đó (được tích lũy trong «lịch sử» bay trước đó). Hoặc, nếu tiếp cận ý nghĩa vật lý của «nghịch lý» này theo một cách hơi khác: sự giảm động năng của tên lửa do khối lượng của nó giảm (do «gầy đi») lớn hơn sự giảm động năng do vận tốc tên lửa giảm. Vậy nên, động cơ tên lửa nên được đặc trưng bằng lực đẩy của nó. Điều này khác hẳn tình huống quen thuộc, chẳng hạn, đối với ô-tô-
+
+⟦folio 16⟧
+
+của động cơ ô tô hoặc máy bay, dùng để bảo đảm chuyển động trong môi trường có lực cản.
+
+Trong trường hợp sau, chính công suất của động cơ là đặc trưng quan trọng nhất của nó, vì động cơ càng mạnh thì nó càng có thể duy trì tốc độ chuyển động lớn hơn của vật thể đã cho, bảo đảm sự phù hợp với lực cản ngày càng tăng của môi trường, tức là bù đắp tổn thất năng lượng để thắng lực cản của môi trường.
+
+Trong quá trình tên lửa bay với động cơ đang hoạt động, động năng tương đối (động năng trên một đơn vị khối lượng) của phần tên lửa còn lại liên tục tăng cùng với tốc độ (hiệu quả của quá trình này được đặc trưng bởi hiệu suất bay theo định nghĩa thứ nhất), mặc dù động năng của tên lửa với lượng nhiên liệu mới (còn lại) ở tốc độ $v > 2u$ nhỏ hơn động năng của tên lửa có nhiên liệu trước khi khối khí bị phun ra rời khỏi tên lửa.

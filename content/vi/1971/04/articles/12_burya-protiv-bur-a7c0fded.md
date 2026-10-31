@@ -12,43 +12,15 @@ tag: BOWO
 lang: vi
 source: kvant_digital
 extraction: vision
-content_sha256: a34aeb0c217c006d5016f4f95e0b3dbd730ec26e5499fbb5ab759d74f27fa6c0
+content_sha256: a57e5e7ff9967d7cbd619476281ae563970d8918a9fa2f5282702c7e42b436a9
 prompt_sha256: 3ec6b8aabd9b98576af76503cd8a2902b9f5d18e01ee867dfb1228f59c6d52d8
 translated_from: content/ru/1971/04/articles/12_burya-protiv-bur-a7c0fded.md
-source_content_sha256: 6692cc307cef192e74a0cf47cfff2bcbf2eaff52927e055a2e0ac6b34971de0a
+source_content_sha256: 9e1481a08b544f3dd90fefbbbbbded994fd290081603a87a92c8d77618bf32e7
 translation_model: gpt-5.6-terra
 translation_run: vi-codex-2026-10-31
 ---
 
 ⟦folio 50⟧
-
-thỏa mãn các giá trị $x$ sau đây: thứ nhất, $1 < x < \frac{\pi}{2}$, thứ hai
-$$\frac{\pi}{4} + k\pi < x < \frac{\pi}{2} + k\pi$$
-trong đó $k$ — số nguyên dương, tức là $k = 1, 2, 3, \dots$.
-
-Tập hợp tất cả các giá trị $x$ tìm được khi xét cả hai trường hợp, ta nhận được đáp số cuối cùng sau đây:
-
-$$0 < x_1 < \frac{\pi}{4},$$
-$$1 < x_2 < \frac{\pi}{2},$$
-$$\frac{\pi}{4} + k\pi < x_3 < \frac{\pi}{2} + k\pi$$
-($k = 1, 2, 3, \dots$).
-
-Cuối cùng, chúng tôi đưa ra một loạt ví dụ để tự giải.
-
-Giải các bất đẳng thức:
-
-1. $\cos x \geq \frac{1}{2}$.
-2. $\sin 2x < \frac{1}{\sqrt{2}}$.
-3. $\sin \frac{x}{5} \geq -\frac{1}{2}$.
-4. $\lg(3x - 1) < \frac{1}{\sqrt{3}}$.
-5. $|\lg x| \geq \sqrt{3}$.
-6. $|\cos x| < \frac{1}{2}$.
-7. $\sin^2 x < \frac{1}{4}$.
-8. $\lg^2 x \geq \frac{1}{3}$.
-9. $2\sin^2 x \leq \sin x$.
-10. $2\cos^2 x + \cos x < 1$.
-11. $\log_3(\lg x) \geq \frac{1}{2}$.
-12. $\log_{\frac{1}{2}}(\cos x) \leq 1$.
 
 BÃO CHỐNG LẠI BÃO
 

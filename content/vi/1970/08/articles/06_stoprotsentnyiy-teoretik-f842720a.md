@@ -12,25 +12,15 @@ tag: SZDI
 lang: vi
 source: kvant_digital
 extraction: vision
-content_sha256: 3aef7fcf18ac764edcc67cf355cd0ca6bf2e90504e6879901667e70f82619d68
+content_sha256: a933d8b4c3c6cd3fa2bc43d91028d9f644d7f5241c194ebb0c8411e0952efaea
 prompt_sha256: 3ec6b8aabd9b98576af76503cd8a2902b9f5d18e01ee867dfb1228f59c6d52d8
 translated_from: content/ru/1970/08/articles/06_stoprotsentnyiy-teoretik-f842720a.md
-source_content_sha256: b327bd3ffb7aa035a5a2dc35b3835fe027aef68a3a316124e78a2bee7bfcdff6
+source_content_sha256: 35c8c993239b22d7804b2f268a29ac7c5eaa15b4ce90c4b10fff9885f18508d8
 translation_model: gpt-5-6-mini
 translation_run: m10-1970-vi
 ---
 
 ⟦folio 25⟧
-
-vẫn đúng. $A$ — là hệ số không thứ nguyên, phụ thuộc vào hình dạng của vật thể. Ví dụ, đối với quả cầu, $A = 0,2$, đối với đĩa $A = 0,6$. Hệ số này được xác định bằng thực nghiệm.
-
-Từ công thức đối với bất kỳ lực cản nào có thể tìm được áp suất do dòng chảy tác dụng lên mặt trước của vật thể. Nó bằng $\frac{F}{S} = A\rho_0v^2$.
-
-Xung quanh vật thể, áp suất thay đổi từ điểm này đến điểm khác. Ví dụ, đối với quả cầu, hiệu giữa áp suất ở bề mặt và áp suất tĩnh ở xa bề mặt thay đổi như được chỉ ra trên hình 5.
-
-Chế tạo mô hình giọt nước, có thể đưa nó vào ống khí động học và thay đổi áp suất xung quanh nó (hình 6). Các thí nghiệm cho thấy rằng đối với giọt nước sáu milimét, áp suất ở đáy cũng giống như của đĩa ($A = 0,6$). Khi đó áp suất ở đáy lớn hơn áp suất khí quyển $4,6 \cdot 10^{-4}$ am, còn áp suất ở đỉnh nhỏ hơn áp suất khí quyển $2,1 \cdot 10^{-4}$ am, nghĩa là hiệu áp suất ở đáy và ở đỉnh bằng $6,7 \cdot 10^{-4}$ am.
-
-Lực cản của không khí không chỉ đảm nhận việc giữ cân bằng cho thanh $AB$ (hình 3). Vì hiệu áp suất ở đáy và ở đỉnh lớn hơn độ chênh áp suất cần thiết cho chuyển động đều của thanh $AB$, nên để khôi phục cân bằng của giọt nước, một phần chất lỏng phải chuyển từ vùng đỉnh xuống đáy, và đỉnh giọt nước phải có độ cong lớn hơn đáy. Còn đáy, do áp suất khí động học lớn tác dụng lên nó, phải gần như phẳng. Hình dạng như vậy cũng là hình dạng của các giọt nước trong ảnh.
 
 «NHÀ LÝ THUYẾT TRĂM PHẦN TRĂM»
 

@@ -12,27 +12,15 @@ tag: MJMN
 lang: vi
 source: kvant_digital
 extraction: vision
-content_sha256: 38b432c699f7b20abd70523a15ef69a2c040e5ee4760ca2f8d9aa9d9ffd03a64
+content_sha256: 2f4dde4c0e2058770b991d0f5b055bc985f5352f91ec502542b988d54caa769d
 prompt_sha256: 3ec6b8aabd9b98576af76503cd8a2902b9f5d18e01ee867dfb1228f59c6d52d8
 translated_from: content/ru/1971/02/articles/12_esche-raz-o-teoreme-pifagora-8703cbdc.md
-source_content_sha256: 64b89ad72b55d53477d67f03cad3927da525593f53e2a1724f3a7af6a753303e
+source_content_sha256: 46b86fe4e1158bde598006ea010283a70114bfdaa644a109c749c93a68ed1d93
 translation_model: gpt-5.6-terra
 translation_run: vi-codex-2026-10-31
 ---
 
 ⟦folio 53⟧
-
-những con số được lấy từ cuốn sách “Chuyến bay của tia chớp”. Số cơn giông trung bình trên địa cầu là 16 000 000. Mỗi giây trên Trái Đất lóe lên khoảng 100 tia chớp.
-
-Sự phóng điện chuyển động trong không khí với tốc độ từ 100 đến 100 nghìn kilômét một giây. Việc nghiên cứu động lực học của quá trình như vậy là một nhiệm vụ phức tạp. Về cách nó đã được giải quyết và cách ghi nhận sự phát triển của tia chớp, các bạn có thể đọc trong cuốn sách này.
-
-Một trong những vấn đề thú vị nhất của điện học khí quyển là vấn đề phân bố điện tích trên các đám mây. Hóa ra, trong phần lớn trường hợp, phần dưới của mây mang điện tích âm. B. Shonland mô tả chi tiết điện trường thay đổi như thế nào trong quá trình phát triển của tia chớp, điện tích chuyển từ mây xuống đất như thế nào. Trong sách có những trang (đáng tiếc là rất ít) dành cho hiện tượng đến nay vẫn bí ẩn nhất và ít được hiểu nhất — chớp hòn.
-
-Bạn đọc sẽ biết về các loại phóng điện khác nhau trong không khí, về sự ion hóa khí và sự nhiễm điện của mây diễn ra như thế nào, về vai trò của các giọt nước và tinh thể băng trong những quá trình này. Những trang cuối sách dành cho các hiện tượng khác nhau đi kèm giông bão. Tác giả kể chi tiết về “khí quyển” (các sóng vô tuyến phát ra khi có giông), giải thích vì sao điện tích trên bề mặt Trái Đất vẫn không đổi.
-
-Cuốn sách được viết bằng ngôn ngữ tốt. Trong một dung lượng nhỏ tập trung một số lượng lớn các sự kiện vật lí được suy nghĩ nghiêm túc và, điều cũng quan trọng, nhiều thông tin lịch sử hữu ích. Cách trình bày hoàn toàn dễ hiểu đối với học sinh. Chỉ tiếc là sách được xuất bản với số lượng in nhỏ.
-
-Yu. M. Bruk
 
 MỘT LẦN NỮA VỀ ĐỊNH LÍ PYTHAGORE
 

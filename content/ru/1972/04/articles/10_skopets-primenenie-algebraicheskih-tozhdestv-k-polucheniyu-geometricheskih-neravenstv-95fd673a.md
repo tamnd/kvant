@@ -9,13 +9,13 @@ authors:
 rubric: matematicheskiy-kruzhok
 rubric_sub: Математический кружок
 page_first: 38
-page_last: 40
+page_last: 41
 page_labels: 36-38
 tag: 52NA
 lang: ru
 source: kvant_digital
 extraction: vision
-content_sha256: af048f2f7ad4ebbbdb519272de45d4065618dbc264fa13ee8fe7a3c195644c3a
+content_sha256: c85c9baf41a8064edec57255887c04a8335818eb3188fb478db6c536ecd98ad4
 ---
 
 ⟦folio 36⟧
@@ -107,3 +107,23 @@ $$\frac{S_{ABC}}{R^2} \leqslant \cos A \sin 2A + \cos B \sin 2B + \cos C \sin 2C
 IV. Задачи для самостояльного решения.
 Задание 1. Вывести из точкиства $a^2 - b^2 = (a+b)(a-b)$ неравенство $2OM \cdot AB \geqslant OA^2 - OB^2,$ где $M$ — середина $AB, O$ — начало координат, $a, b$ — числа, соответствующие точкам $A, B$. Выяснить, когда оно обращается в равенство.
 Задание 2. Вывести из точкиства $a^3(b-c) + b^3(c-a) + c^3(a-b) = -(a+b)(a-b)(b-c)(c-a)$ нера-
+
+⟦folio none⟧
+
+венство $OH \leq \frac{R^2}{2r}$, где $O$ — центр окружности, описанной около треугольника, $R$ — радиус этой окружности, $H$ — ortоцентр треугольника, $r$ — радиус вписанной окружности. (Ортоцентр треугольника называется точка пересечения его высот или их продолжей.)
+
+Задание 3. Доказать, что $AB \cdot CD + BC \cdot DA \geq CA \cdot BD$, где $A, B, C, D$ — произвольные точки плоскости.
+
+Задание 4. Доказать, что $AB \cdot AM \cdot BM + BC \cdot BM \cdot CM + CA \cdot CM \cdot MA \geq AB \cdot BC \cdot CA$.
+
+Задание 5. Вывести из точки десства $\frac{a}{(a-b)(a-c)(a-d)} + \frac{b}{(b-c)(b-d)(b-a)} + \frac{c}{(c-d)(c-a)(c-b)} + \frac{d}{(d-a)(d-b)(d-c)} = 0$ неравенство $OA \cdot BC \cdot BD \cdot CD + OB \cdot CA \cdot CD \cdot AD + OC \cdot AB \cdot AD \cdot BD \geq OD \cdot AB \cdot BC \cdot CA$, где $O, A, B, C, D$ — произвольные (различные) точки плоскости.
+
+Указания
+
+1) Равенство имеет место для точек $O, A, B$, расположенных на одной прямой.
+
+2) Воспользоваться тем, что если $H$ — ortоцентр треугольника $ABC$, а центр окружности, описанной около треугольника, совпадает с началом координат, то $h = a + b + c$ ($a, b, c, h$ — комплексные числа, соответствующие точкам $A, B, C, H$). Заметить, что $h - a = k_1(b + c)$, $h - b = k_2(c + a)$, $h - a = k_3(a + b)$, где $k_1, k_2, k_3$ — вещественные числа. Из этой системы следует, что $k_1 = k_2 = k_3 = 1$.
+
+3) Рассмотреть точдество $(m - a)(b - c) + (m - b)(c - a) + (m - c)(a - b) = 0$.
+
+4) Рассмотреть точдество $(m - a)(m - b)(a - b) + (m - b)(m - c) \times (b - c) + (m - c)(m - a)(c - a) = (a - b)(b - c)(c - a)$.

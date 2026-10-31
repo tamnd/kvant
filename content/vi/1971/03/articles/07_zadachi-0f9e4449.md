@@ -7,16 +7,16 @@ title: Bài toán M71—M75; F83—F87
 rubric: zadachnik-kvanta
 rubric_sub: Задачник «Кванта»
 page_first: 32
-page_last: 32
-page_labels: "30"
+page_last: 33
+page_labels: 30-31
 tag: O0TS
 lang: vi
 source: kvant_digital
 extraction: vision
-content_sha256: 96e77655079a44ab25a28ed1a6ee69341d8d567dfe78aa14443edd83e72a2a07
+content_sha256: 0621b7cdbceec378ead24db5e9646b6149bd69d4c81d284ce1bbc435979997a0
 prompt_sha256: 3ec6b8aabd9b98576af76503cd8a2902b9f5d18e01ee867dfb1228f59c6d52d8
 translated_from: content/ru/1971/03/articles/07_zadachi-0f9e4449.md
-source_content_sha256: bec3bb19ec547fa5e382189dae7f08dd98d64ddd23522303e382e851f84429d9
+source_content_sha256: a7e752263324f510f1fa606597ca5d60db8b640b3b32254fe07efc77c3600904
 translation_model: gpt-5.6-terra
 translation_run: vi-codex-2026-10-31
 ---
@@ -62,3 +62,23 @@ A. G. Kushinirenko
 Ф83. Một tấm ván khối lượng $m$ và chiều dài $l$ nằm trên sàn nằm ngang. Hệ số ma sát của tấm ván với sàn bằng $k$. Cần thực hiện công nào để quay tấm ván trong mặt phẳng nằm ngang một góc nhỏ $\alpha$ quanh một trong các đầu của nó?
 
 Ф84. “Hộp đen” (một hộp có mạch điện chưa biết ở bên trong) có hai cặp đầu nối. Nếu đặt điện áp $U$ vào các đầu nối I, thì
+
+⟦folio 31⟧
+
+Hình 1.
+
+vôn kế có điện trở trong rất lớn, nối với các đầu ra II, chỉ điện áp $\frac{U}{2}$. Nếu đặt điện áp $U$ vào các đầu ra II, thì vôn kế nối với các đầu ra I chỉ $U$. Sơ đồ điện nào ở trong “hộp”?
+
+S. G. Xêmênchinski
+
+Ф85. Có thể thực hiện với khí lí tưởng một quá trình kín (chu trình) sao cho các điểm $A$ và $B$ (hình 1) nằm trên cùng một đường đẳng nhiệt không?
+
+Các nhiệt độ $T_1$ và $T_2$, tương ứng với các đường đẳng nhiệt vẽ trên hình 1, và thể tích $V_1$ (hoặc $V_3$) đã cho.
+
+B. B. Bukhovtsev
+
+Ф86. Trong thí nghiệm Millikan, vị trí của một giọt có trọng lượng $10^{-5}$ g được xác định bằng kính hiển vi với độ chính xác đến 10 micrômet. Sai số trong việc xác định vận tốc của nó là bao nhiêu?
+
+Ф87. Nguồn sóng cầu chuyển động trên mặt nước với vận tốc $u$. Hãy vẽ hình ảnh sóng trên mặt nước khi vận tốc sóng lớn hơn và nhỏ hơn vận tốc của nguồn.
+
+L. G. Aslamaov

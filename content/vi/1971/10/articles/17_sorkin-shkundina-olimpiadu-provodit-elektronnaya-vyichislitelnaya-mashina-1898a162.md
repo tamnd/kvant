@@ -16,52 +16,16 @@ tag: O7TJ
 lang: vi
 source: kvant_digital
 extraction: vision
-content_sha256: 888b986a7be9c3aca226d2332e423f508c98a691603971b8d01e7cbf4525bd3d
+content_sha256: 7ddb11d425f03c8c7c3dbafa2b7af2ce2880f1e5f42a60fd1d9c4ac961741ef0
 prompt_sha256: draft-1
 translated_from: content/ru/1971/10/articles/17_sorkin-shkundina-olimpiadu-provodit-elektronnaya-vyichislitelnaya-mashina-1898a162.md
-source_content_sha256: 69f98d458f126ddd9dacfb4713c302181fcb2cc896988e75d684faa7ba5cf768
+source_content_sha256: d92357caa469f9d6c0982c03e5af43a773538b8a1e16df91a8d674cc6002877e
 translation_model: draft
 translation_run: vi-draft-2026-10-31
 translation_quality: draft
 ---
 
 ⟦folio 58⟧
-
-2. Vores stad har tre store biografer.
-Có ba rạp chiếu phim lớn trong thành phố của chúng tôi.
-3. Loftferne, der er i vores hus, er store.
-Căn gác mái mà chúng tôi có trong nhà rất lớn.
-4. Vores stad har en stor biograf.
-Có một rạp chiếu phim lớn ở thành phố của chúng tôi.
-5. Loftet af vores hus er stort.
-Căn gác mái của nhà chúng tôi rất rộng.
-
-Bài tập 1. Dịch các cụm từ sau sang tiếng Đan Mạch:
-1. Các rạp chiếu phim ở thành phố của chúng tôi rất lớn.
-2. Nhà của chúng tôi có ba căn gác lớn.
-3. Rạp chiếu phim ở thành phố của chúng tôi rất lớn.
-
-Nhiệm vụ 2. Chia nhỏ từ loftferne và viết ý nghĩa của từng phần.
-
-II. Về việc ghi âm:
-Vuchuk... mất... giờ này...
-Người ta biết rằng nó được lấy từ một cụm từ tiếng Nga đúng ngữ pháp gồm bốn từ bằng cách cắt bỏ một số chữ cái cuối cùng (không quá 3 chữ cái cho mỗi từ). Hơn nữa, chỉ có phần cuối bị cắt và ngoài ra, các chữ cái của một số từ có thể không bị cắt.
-
-Nhiệm vụ đ. Xác định xem một bản ghi như vậy có thể được tạo thành từ bao nhiêu câu.
-
-III. Một đoạn từ bảng cửu chương của Nhật Bản được đưa ra:
-futatsu × eotsu = yatsu
-itsutsu × itsutsu = nijugo
-yatsutsu × kokontsu = shichijuni
-itsutsu × yatsu = yonju
-mitsu × mitsu = duhachi
-kokontsu × mitsu = nijusti
-kokontsu × mutsu = ?
-kokontsu × ? = hachijuchi
-Yotsu × ? = sanjuni
-futatsu × nanatsu = ?
-
-Nhiệm vụ đ. Điền vào những chỗ có dấu “?”.
 
 OLYMPICS ĐƯỢC TIẾN HÀNH BẰNG MÁY TÍNH ĐIỆN TỬ
 
