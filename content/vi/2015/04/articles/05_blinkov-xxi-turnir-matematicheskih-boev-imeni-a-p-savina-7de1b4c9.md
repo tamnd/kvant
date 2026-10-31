@@ -1,0 +1,49 @@
+---
+id: 2015-4-blinkov-xxi-turnir-matematicheskih-boev-imeni-a-p-savina-7de1b4c9
+issue: kvant_2015_4
+year: 2015
+number: "4"
+title: Giải đấu toán học XXI mang tên A.P. Savin
+authors:
+  - Блинков А. Д.
+rubric: konkurs-imeni-a-p-savina
+rubric_sub: Конкурс имени А. П. Савина
+page_first: 30
+page_last: 30
+page_labels: "28"
+tag: 8EQA
+lang: vi
+source: kvant_digital
+extraction: native
+content_sha256: 3562c6b69af527a2e8fdd1694c316acdc75147d1f321af0d5975963d561552e2
+prompt_sha256: draft-1
+translated_from: content/ru/2015/04/articles/05_blinkov-xxi-turnir-matematicheskih-boev-imeni-a-p-savina-7de1b4c9.md
+source_content_sha256: 5ffcd3cc953c73c4d7e26b3349a73dad7d09ff6d11e91e2babc081019cf918a0
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 28⟧
+
+KVANT 2015/№4
+
+số lượng căn hộ lớn hơn ở tầng 4 trước đó là 80, vì vậy tầng của Colin có thêm 3 căn hộ nữa. Tổng cộng chúng ta nhận được: 4EK + 16 + 3 = 83, từ đó EK = 16. Đã chỉ định cho Viti số lượng lối vào tương tự thông qua B, sử dụng lý luận tương tự, chúng ta nhận được: 4EV + 8 + 1 = 169, từ đó EV = 40. Vì vậy, giá trị mong muốn của E là ước số của các số 16 và 40. Chúng có bốn ước số chung: 1, 2, 4 và 8. Nhưng vì Kolya sống ở tầng 5 thì E chắc chắn không nhỏ hơn 5. Do đó, khả năng duy nhất còn lại là: E = 8, tức là nhà có 8 tầng. Cả một nhóm tác giả đã làm việc để tạo ra bài toán tiếp theo (T. Golenishcheva-Kutuzova, V. Gurovits, P. Kozhevnikov, I. Yashchenko): Không có đủ không gian để xây một ngôi nhà tiêu chuẩn. Kiến trúc sư đã thay đổi dự án: bỏ 2 lối vào và thêm 3 tầng. Đồng thời, số lượng căn hộ ngày càng tăng. Ông rất vui mừng và quyết định dỡ bỏ thêm 2 lối vào và xây thêm 3 tầng nữa. Có thể có ít căn hộ hơn dự án tiêu chuẩn? Vâng, giả sử theo thiết kế ban đầu, tòa nhà có lối vào P, tầng E và K căn hộ trên mỗi địa điểm. Sau đó có hai câu lệnh theo sau điều kiện: ( P $- 2 ) \cdot ($ E $+ 3 ) \cdot$ K > PEC,
+
+( P $- 4 ) \cdot ($ E $+ 6 ) \cdot$ K < PEC. Từ bất đẳng thức thứ nhất 3P – 2E > 6 và từ bất đẳng thức thứ hai 3P – 2E < 12. Vì vậy, vẫn chọn các giá trị (nếu có thể) của P và E sao cho 6 < 3P – 2E < 12. Điều này không khó - ví dụ: P = 5 và E = 4, vì vậy nếu trong dự án ban đầu có 5 lối vào và 4 tầng,
+
+⟦column⟧
+
+thì tình huống được mô tả có thể xảy ra. Đồng thời, số lượng căn hộ trên khu vực hoàn toàn không đóng vai trò gì vì nó bị giảm đi trong quá trình chuyển đổi. Chúng tôi hy vọng người đọc sẽ cảm nhận được lời giải được trình bày bài toán. Đã đến lúc cung cấp một vài bài toán tương tự cho một lời giải độc lập. Đúng, chúng có một đặc điểm: để người đọc hài lòng hơn, một cái bẫy nhỏ được chèn vào mỗi bài toán, điều này có thể dẫn đến một dấu vết sai. Vì vậy hãy cẩn thận! Đầu tiên là bài toán. Cư dân của tất cả các căn hộ đối diện với cùng một tầng đã quyết định gắn số mới lên cửa và liên hệ với hợp tác xã với yêu cầu sản xuất 7 chữ số cần thiết cho việc này. Hóa ra những người hợp tác tính phí sản xuất mỗi chữ số bằng giá trị của chữ số này (ví dụ: hai số được sản xuất với giá 2 rúp mỗi chữ số và số 0 nói chung là miễn phí). Người dân đã thu được 3 rúp từ mỗi căn hộ và thế là đủ đối với họ. Có bao nhiêu và số nào đã được đặt hàng? Thứ hai bài toán. 17 học sinh đã tập trung tại thang máy ở tầng 1 của tòa nhà 18 tầng và cần đi lên, tất cả đều lên các tầng khác nhau. Người điều hành thang máy đồng ý chỉ thực hiện một chuyến bay lên bất kỳ tầng nào, sau đó cho họ đi bộ (thang máy đủ rộng và có thể chứa tất cả mọi người). Người ta biết rằng tất cả học sinh đi xuống một tầng với tâm trạng khó chịu như nhau và đi lên một tầng với tâm trạng khó chịu gấp đôi. Họ nên chọn tầng nào để ít bất mãn nhất?
+
+Giải đấu toán học XXI mang tên A.P. Savin
+
+Từ ngày 26 tháng 6 đến ngày 2 tháng 7 năm 2015, giải đấu toán học thường niên được tổ chức tại trung tâm giải trí Berendeyev Polyany (Sudislavl, vùng Kostroma). Ngày và địa điểm của giải đấu từ lâu đã trở thành truyền thống. Giải đấu vừa qua quy tụ 36 đội học sinh tốt nghiệp lớp 5–9 đến từ Moscow, St. Petersburg, Izhevsk, Lãnh thổ Lena (Cộng hòa Sakha) và Yaroslavl. Vào ngày khai mạc giải đấu, trò chơi khởi động “Hình vuông toán học” được tổ chức và ngày hôm sau đội thi hùng biện Olympic được tổ chức. Dựa trên kết quả của nó và có tính đến độ tuổi của học sinh, những người tham gia được chia thành sáu giải đấu cho các trận chiến toán học: giải cao nhất và giải nhất gồm 6 lớp, giải 7, 8 và 9 lớp, cũng như giải 7–8 lớp. Lần đầu tiên sau nhiều năm, chỉ có các đội đến từ Moscow nằm trong số những đội vô địch giải đấu: ở giải đấu hàng đầu 6 - các đội từ FMS 2007 (do N. Volkova đứng đầu) và nhà thi đấu 1514 (do L. Bychkova đứng đầu), ở giải đầu tiên 6 - một đội khác từ nhà thi đấu 1514 (do D. Shainskaya đứng đầu), ở giải 7 - một đội từ trường 9 (do K. Skoptsov đứng đầu), ở giải 8 và 7–8 - đội thể dục 1543 (thủ lĩnh - O. Orel và A. Zaslavsky), ở giải 9 - đội FMS 2007 (thủ lĩnh - E. Lysenok). Là một phần của giải đấu, một cuộc thi Olympic miệng cá nhân cũng được tổ chức song song theo truyền thống. Đơn vị tổ chức chính của giải đấu là “Quỹ Giáo dục và Khai sáng Toán học” và Chương trình Giáo dục
+
+“Thay đổi lớn” (trưởng ban tổ chức – S.I. Komarov). Việc lựa chọn bài toán và tổng hợp các phương án được thực hiện bởi một ủy ban về phương pháp luận. Năm nay, các thành viên của nó bao gồm E. Akopyan, M. Artemyev, V. Arutyunov, E. Bakaev, A. Bannikova, A. Blinkov (chủ tịch), Y. Blinkov, E. Gorskaya, A. Zaslavsky, O. Zaslavsky, Y. Kotelnikova, N. Nakonechny, I. Raskina, A. Khachaturyan, P. Chulkov, A. Yurkov. Ban giám khảo của giải đấu bao gồm tất cả các lãnh đạo đội tuyển của trường quan tâm. Dưới đây là một số giải đấu bài toán (trong ngoặc đơn sau số bài toán cho biết nó được cung cấp cho hạng nào).
+
+NHIỆM VỤ CHỌN
+
+1 (6–7). Trên mỗi ô vuông của bàn cờ có một người lùn - kẻ nói dối hoặc hiệp sĩ (kẻ nói dối luôn nói dối, hiệp sĩ luôn nói sự thật). Những người hàng xóm được coi là thần lùn trong các phòng giam có chung một mặt. Số người lùn lớn nhất trên bàn cờ có thể nói câu “Trong số những người hàng xóm của tôi, có nhiều kẻ nói dối hơn hiệp sĩ”? A. Shapovalov
+
+2 (7). Khóa học hè kéo dài 11 ngày. 10% số người tham gia cho muỗi ăn mỗi ngày. Đối với bất kỳ

@@ -1,0 +1,61 @@
+---
+id: 2015-5-6-agahanov-lvi-mezhdunarodnaya-matematicheskaya-olimpiada-2e5d8fc0
+issue: kvant_2015_5-6
+year: 2015
+number: 5-6
+title: Olympic Toán quốc tế LVI
+authors:
+  - Агаханов Н. Х. и др.
+rubric: olimpiady
+rubric_sub: Олимпиады
+page_first: 66
+page_last: 66
+page_labels: "64"
+tag: RNQ2
+lang: vi
+source: kvant_digital
+extraction: native
+content_sha256: 395f7c398fc396211c75c0b1e5208e59429bbc2b3121f0be76ff92d93bedfaf9
+prompt_sha256: draft-1
+translated_from: content/ru/2015/05-06/articles/11_agahanov-lvi-mezhdunarodnaya-matematicheskaya-olimpiada-2e5d8fc0.md
+source_content_sha256: 09641ca240555f9ebc77df3c8f7f45c57d1debd011cb210e505ab2ded4c0859b
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 64⟧
+
+KVANT 2015/№5-6
+
+Xác định điện trở $R_{AC}$ giữa các điểm A và C. Các điện trở $R_{AB}$ và $R_{AC}$ sẽ thay đổi như thế nào nếu không thay đổi độ dày của các tấm, kích thước của chúng và kích thước của các lỗ tăng lên 2 lần? E. Savinov
+
+Bài toán 3. Ống phản ứng Ở giữa một ống dài, hở cả hai đầu, một lò sưởi dạng lưới vonfram mỏng được cố định vuông góc với trục của nó. Hệ ở trong không khí ở nhiệt độ $t = 20 ^\circ C$, tổng khối lượng của nó là m = 17 g. Tại thời điểm ban đầu, ống được truyền tốc độ $v_{0} = = 1$ cm/s dọc theo trục của nó, công suất q = 20 W bắt đầu được cấp cho lò sưởi và ống bắt đầu tăng tốc. Ống sẽ đạt tốc độ bao nhiêu dọc theo đường tăng tốc s = = 20 m? Bỏ qua sức cản của không khí. Giả sử áp suất bên trong ống là như nhau; không tính đến trọng lực và sự truyền nhiệt qua thành ống. Xét rằng sự thay đổi động năng của luồng không khí khi đi qua lưới là nhỏ so với sự thay đổi nội năng của nó. Coi không khí là khí hai nguyên tử có khối lượng mol M = 29 g/mol. A. Gudenko
+
+⟦column⟧
+
+Bài toán 4. Vật thể không gian Một vật thể không gian chuyển động dọc theo một đường thẳng nhất định với tốc độ không đổi sẽ phát ra các xung vô tuyến định kỳ. Nhà thiên văn học nhận thấy rằng trong thời gian quan sát $\Delta t$ hướng biểu kiến ​​của vật thể này thay đổi một góc nhỏ $\Delta \phi$ và khoảng thời gian giữa thời điểm các xung vô tuyến đến đã thay đổi từ T thành $T + \Delta T$, trong đó $\Delta T$ ≪ T. Tìm khoảng cách từ người quan sát đến vật thể. Tốc độ của xung vô tuyến bằng tốc độ ánh sáng c. I.Vorobiev
+
+Bài toán 5. “Millicar” Một chiếc ô tô rất nhỏ, có kích thước bằng con kiến, chạy trên một mặt phẳng nằm ngang dọc theo trục quang chính của một thấu kính thu có tiêu cự F. Một nguồn sáng điểm S, nằm trên trục quang chính của thấu kính, được cố định trên nóc của nó. Vận tốc của ô tô thay đổi sao cho tốc độ ảnh $S_{1}$ của nguồn điểm S không đổi và bằng $v_{0}$. Xác định khoảng cách từ ống kính đến chuyển động như vậy của "millicar" là có thể. Hệ số ma sát giữa bánh xe và mặt đường là $\mu$. S. Varlamov
+
+Những người chiến thắng ở chặng cuối của Olympic
+
+lớp 9
+
+Nikolay Chikin - Moscow, Zakhar Ykovlev - St. Petersburg, Dmitry Sadykov - Kazan, Vladimir Malinovsky - St. Petersburg, Ykov Andreev - St. Petersburg, Artem Sheremet - Moscow, Boris Bilic - Vùng Zhukovsky Moscow, Vladimir Golod - Moscow, Artem Petrov - St. Petersburg, Vsevolod Pukhov - Moscow;
+
+lớp 10
+
+Maxim Eliseev – Cộng hòa Mordovia, Ilya Zykov – Cộng hòa Mordovia,
+
+Dmitry Norkin - Moscow, Anton Malinsky - Ufa, Nikita Semenin - Yugra, Alexander Artemyev - Kirov, Vasily Yugov - Perm;
+
+lớp 11
+
+Maxim Sokolov - Samara, Kirill Kazarnovsky - Dolgoprudny, khu vực Moscow, Artem Stoyan - Astrakhan, Ivan Uteshev - Cộng hòa Mordovia, Kirill Voronin - Magnitogorsk, Nikita Gladkov - Tomsk, Kirill Dubovitsky - Moscow, Alexey Krasnikov - Bugulma. Ấn phẩm được biên soạn bởi V. Slobodyanin
+
+Olympic Toán quốc tế LVI
+
+Từ ngày 4/7 đến ngày 16/7/2015, Kỳ thi Olympic Toán quốc tế LVI (IMO) đã được tổ chức tại Chiang Mai (Thái Lan). 577 nhà toán học trẻ từ 104 quốc gia đã tham gia. Nhóm của chúng tôi bao gồm bốn sinh viên tốt nghiệp: Ivan Bochkov (Izhevsk), Nikita Gladkov (Tomsk), Alexander Zimin (Ulyanovsk) và Alexander Kuznetsov (St. Petersburg), cũng như hai học sinh lớp 10 đến từ Moscow - Ruslan Salimov và Ivan Frolov. Phiên bản Olympic năm nay hóa ra rất khó - chỉ một số người tham gia Olympic vượt qua được cột mốc 4 người giải được bài toán. Kết quả của các thành viên đội tuyển Nga khá tốt và khá đồng đều, nhưng nhìn chung kém thành công hơn những năm gần đây - tất cả các chàng trai đều nhận được huy chương bạc. Một trong những nguyên nhân khiến màn trình diễn không mấy sáng sủa là do cấu trúc của phiên bản năm nay: nhiệm vụ đẹp mắt và phức tạp về mặt tư tưởng.
+
+Hạng 3 và 6 ở mỗi vòng trong số hai vòng của Olympic đều được bắt đầu bằng bài toán khó về mặt kỹ thuật, đòi hỏi nhiều thời gian và công sức. Đây là bảng ghi kết quả hoạt động của nhóm chúng tôi (mỗi bài toán được tính trên tổng số 7 điểm):
