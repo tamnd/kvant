@@ -1,0 +1,50 @@
+---
+id: 1970-11-hrustalev-takaya-li-pomosch-nuzhna-postupayuschim-52ba4489
+issue: kvant_1970_11
+year: 1970
+number: "11"
+title: 申请者需要这样的帮助吗？
+authors:
+  - Хрусталев А. Ф.
+rubric: retsenzii-bibliografiya
+rubric_sub: Рецензии, библиография
+page_first: 61
+page_last: 61
+page_labels: "59"
+tag: GDW9
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 6337ee4eddf24acfbe93d27eee03c18ce95f9c37ee0d6a161cef804e8c894ac8
+prompt_sha256: draft-1
+translated_from: content/ru/1970/11/articles/15_hrustalev-takaya-li-pomosch-nuzhna-postupayuschim-52ba4489.md
+source_content_sha256: 870136e183715d4001e8d5b8c5994b5f628513ad1e767303d38cb26f018142ed
+translation_model: draft
+translation_run: zh-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 59⟧
+
+来自编辑
+
+这样的
+李
+帮助
+需要
+我来了-
+垫片？
+
+通过对一本供大学申请者使用的数学教科书进行A.F. Khrustalev教授的审查并完全同意他的负面评价，编辑们希望提请人们注意这样一个事实：近年来此类手册的数量急剧增加，这使得特定考试的任务看起来像是一门特殊的“科学”，如果没有特殊指导，掌握这些教科书是不可能的；这往往对学校数学教学实践产生不良影响，迫使教师适应这种竞争性的发明，这些发明与未来学生数学训练的实际要求无关，背离了学校数学新课程的精神，而且往往在科学性方面较低。
+
+A·F·赫鲁斯塔列夫
+
+对进入高等教育机构的知识要求不断提高，导致对中学学科特别是数学的深入学习教具的需求量很大。这些出版物的平均版本具有很高的教学价值，并以成功的材料准备而著称。然而，可悲的是，出版商和书籍的编写都很粗心，存在严重的逻辑缺陷，有时甚至是严重错误。据信，这些建议的作者在向准备入学考试的年轻人提出不周全的建议时，并没有感到自己所承担的重大责任。
+
+知识社会的列宁格勒组织出版了一本数学手册*)，供那些进入高等技术教育机构的人使用。正如前言所指出的，本书的作者非常注重理论要点，指出了解决多个实例和难度增加的问题的方法和技巧。
+
+我们现在不会讨论作者的一些一般方法指南或在手册中包含某些部分的建议（特别是与入学考试计划和申请人要求水平不一致的部分）。由于作者在解决许多例子时所犯的相当多的不准确甚至错误，引起了对这本书的非常严重的批评。
+
+因此，在例 89（第 100 页）中，给出了论证 x + arcctg x = π/2 的观点的以下“证明”：“令 arctan x = α，则 tan α = x。令 arctan x = β，则 ctg β = x。从这些方程得出 tan α = cot β，即 α 和 β 是附加的
+
+*) P. V. Grigoriev、P. A. Sobolev、I. S. Serebryansky、N. V. Travin 和《青年知识》。 （帮助那些进入高等教育机构的人。） 数学，《知识》，列宁格勒，1970年，230页，发行量215,500册，售价44戈比。

@@ -1,0 +1,73 @@
+---
+id: 1970-11-savin-maksimum-minimum-i-teorema-o-srednih-b9df3da7
+issue: kvant_1970_11
+year: 1970
+number: "11"
+title: 最大、最小和平均定理
+authors:
+  - Савин А. П.
+rubric: osnovnye-stati
+page_first: 26
+page_last: 26
+page_labels: "24"
+tag: B5MV
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 40d3259e58428898488f12aed4794d0997a39a80055d4d71fba5d9cf5216dbde
+prompt_sha256: draft-1
+translated_from: content/ru/1970/11/articles/07_savin-maksimum-minimum-i-teorema-o-srednih-b9df3da7.md
+source_content_sha256: a7dd1c1f832a57617c4df11ff17d90f0d60d29e646e4201b6872d2be06ca38b2
+translation_model: draft
+translation_run: zh-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 24⟧
+
+最大、最小和平均定理
+
+A.P.萨文
+
+在数学中，通常将这样的陈述称为定理，这些陈述可以重复用于推导其他陈述，特别是在解决问题时。我想谈谈以下定理的应用：
+
+几个正数的算术平均值不小于它们的几何平均值，并且只有当所有给定的数字都相等时才满足这些平均值的相等性：
+
+$$\frac{a_1 + a_2 + \dots + a_n}{n} \geq \sqrt[n]{a_1 a_2 \dots a_n}$$
+
+或者
+
+$$\left(\frac{a_1 + a_2 + \dots + a_n}{n}\right)^n \geq a_1 a_2 \dots a_n.$$
+
+这一说法有许多不同的证明，您可以在 S. T. Berkolaiko 和 S. B. Katok 的文章中阅读其中之一 *)。这个定理适用于哪里？
+
+当然知道了，想要平均值更接近的话可以用算术平均值，想要更小的可以用几何平均值。例如，计算班级的平均成绩。这当然是一个笑话。如果它是基于服务器的怎么办？
+
+事实证明，利用这个定理你可以找到多代数表达式的最多或最多的值。让我们从最简单的开始。
+
+*) S. T. Berkolaiko，S. B. Katok，关于证明不等式的一种归纳方法，«Kvant»，第 8 期，第 11 页。 33.
+
+示例 1. 多项式 $2x - x^2$ 的最高有效值是多少？
+
+解决方案。让我们将多项式变换如下：$2x - x^2 = x (2 - x)$并用$y$表示$2 - x$。
+
+由定理
+
+$$2x - x^2 = xy \leq \left(\frac{x + y}{2}\right)^2 = \left(\frac{x + 2 - x}{2}\right)^2 = 1.$$
+
+由此可见，多项式的最大值为 1，并且在$x = 2 - x$，即$x = 1$处达到最大值（很容易检查$x$和$2 - x$不能同时为负；因为我们正在寻找最大值，所以只有当它们都是正数时才考虑它们就足够了）。
+
+示例 2. 对于正值$x$，表达式 $x + \frac{1}{x}$ 的最高有效值是多少？
+
+解决方案。让我们用 $y$ 表示 $\frac{1}{x}$。由定理
+
+$$x + \frac{1}{x} = 2 \left(\frac{x + y}{2}\right) \geq 2 \sqrt{xy} = 2 \sqrt{\frac{x}{x}} = 2.$$
+
+因此，最大值为 2，在 $x = \frac{1}{x} = 1^*$ 处实现。
+
+*）在学校里，他们教授隔离完整正方形的方法，这两个例子都可以解决这个问题：
+
+1) $2x - x^2 = 1 - (1 - x)^2 \leq 1$;
+2) $x + \frac{1}{x} = \left(\sqrt{x} - \frac{1}{\sqrt{x}}\right)^2 + 2 \geq 2$.
+
+但例 3 不能通过选择一个完整的正方形来解决。
