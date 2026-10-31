@@ -1,0 +1,38 @@
+---
+id: 2023-7-kolmogorov-pismo-s-g-kreynu-o-fmsh-mgu-25b24d79
+issue: kvant_2023_7
+year: 2023
+number: "7"
+title: '[Thư gửi S. G. Kerin về Trường Vật lý và Cơ học của Đại học Tổng hợp Moscow]'
+authors:
+  - Колмогоров А. Н.
+rubric: raznoe
+page_first: 26
+page_last: 26
+page_labels: "24"
+tag: PHPD
+lang: vi
+source: kvant_digital
+extraction: native
+content_sha256: 8a9c1b54b19c9bc5ad00ca4b39e2ce26797fa55096e0034b0a25830f7722c868
+prompt_sha256: draft-1
+translated_from: content/ru/2023/07/articles/01_kolmogorov-pismo-s-g-kreynu-o-fmsh-mgu-25b24d79.md
+source_content_sha256: b1e8da34c12aa5311890cb845e2669ff2677040d6e766e885814ca72cd3cbdc2
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 24⟧
+
+KVANT 2023/№7
+
+khả năng của anh ấy và một số thứ đến với anh ấy một cách dễ dàng một cách bất thường, khi đó anh ấy có thể được tăng bài toán, nhưng không phải theo hướng đơn phương ép buộc anh ấy học toán, mà theo hướng phát triển chung với một triển vọng rõ ràng đối với anh ấy, để đạt đến đỉnh cao của ngành khoa học mà anh ấy đam mê nhanh hơn một chút. Viết những gì bạn nghĩ về những gì đã được nói? A. Kolmogorov
+
+Thư từ SG Crane 1 (1968)
+
+⟦column⟧
+
+gram (tạp chí “Toán học ở trường”), xuất bản rất nhiều tài liệu (cùng một tạp chí, xuất bản 300.000 bản). Các bộ sưu tập tài liệu đặc biệt đang được chuẩn bị (chẳng hạn như các chương bổ sung của sách giáo khoa và bộ bài toán, cũng với số lượng phát hành là 300.000 bản). Đối với tôi, dường như trách nhiệm đầu tiên của mọi trường đại học và viện sư phạm là giúp phát triển hình thức công việc này trong thành phố và khu vực của họ (các bài giảng và hội thảo dành cho giáo viên, ấn phẩm địa phương, bài giảng trên truyền hình, làm việc trực tiếp tại trường học sinh dưới hình thức thực hành giảng dạy mới, tổ chức các trường toán và vật lý mùa hè ở địa phương trong trại dành cho học sinh trung học). B. Quy định về các lớp tự chọn quy định rằng ở các trường nhiều lớp, nếu có điều kiện thích hợp, có thể gộp 6 giờ học chính khóa và 2 giờ học tự chọn theo một trong các song song thành một môn học duy nhất. Nhưng ở đây chúng ta vẫn đang nói về việc làm việc với khoảng 30% học sinh mà không có nhiều sự lựa chọn, ít cạnh tranh hơn nhiều. Q. Các trường học chuyên về máy tính chưa bị ai bãi bỏ, nhưng có một mong muốn khá mạnh mẽ là chỉ cho phép những trường này ở những nơi chuyên môn của họ là thực tế và được hỗ trợ về mặt kỹ thuật. Cho đến khi bài toánA, B và bài toánD (sẽ được thảo luận sau) được giải quyết thỏa đáng, tôi có xu hướng bảo vệ mạnh mẽ các trường học hiện có chuyên ngành điện toán, thậm chí
+
+Selim Grigorievich thân mến! Lưu ý từ E.M. Tôi sẽ xem xét Semenov và sau đó tôi sẽ trả lời tác giả về cô ấy. Trong lúc chờ đợi, tôi đang trả lời những câu hỏi của bạn về các vấn đề ở trường. 1. Một số bộ sách giáo khoa tiếng Pháp được biết đến ở Mátxcơva và người ta đề xuất dịch một số bộ sách đó. Hiện đã có khá nhiều thợ săn cho doanh nghiệp này, bao gồm cả những người từng làm việc ở Algeria. Sự lựa chọn không hề đơn giản, và câu hỏi có nên dịch những tác phẩm “hiện đại” nhất hay không lại càng khó hơn. Trong mọi trường hợp, sách giáo khoa của Briard, vốn nhận được lời tựa khen ngợi $Лихнеровича^{2}$, có những lỗi nghiêm trọng đến mức bản thân Likhnerovich rõ ràng đã không đọc chúng. Tuy nhiên, tôi sẵn sàng làm quen với những đề xuất cụ thể và có động lực (liên quan đến sự lựa chọn) của B.P. Pugachev$^{3}$ và gửi chúng đến nhà xuất bản để so sánh với những người khác. 2. Có một số cuộc thảo luận ngầm ở phần trên liên quan đến các trường dạy toán. Ví dụ, Bộ trưởng Bộ Giáo dục Liên Xô và Bộ trưởng RSFSR rõ ràng giữ những vị trí hơi khác nhau. Tôi sẽ trình bày tình hình theo thứ tự bề rộng của các hoạt động khác nhau. A. Chắc chắn đã nhận thấy nhu cầu phát triển các lớp học tự chọn do học sinh lựa chọn. Đối với họ, chúng tôi đã biên soạn gần đúng pro-A.N. Kolmogorov nói chuyện với học sinh

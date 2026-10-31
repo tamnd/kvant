@@ -1,0 +1,52 @@
+---
+id: 2023-7-zadachi-0f9a84f3
+issue: kvant_2023_7
+year: 2023
+number: "7"
+title: Bài toán
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 37
+page_last: 37
+tag: VPB2
+lang: vi
+source: kvant_digital
+extraction: native
+content_sha256: 74c11c748eaa8819d15c992a82031e3471db6acf28e4cf89e38bf81d872bd3ec
+prompt_sha256: draft-1
+translated_from: content/ru/2023/07/articles/05_zadachi-0f9a84f3.md
+source_content_sha256: 4e73aa14ae3476c08e41d594d317bf58c348d8b96f6316f6431afb87f66a6305
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+“SỐ LƯỢNG” CHO HỌC SINH THI
+
+Có bảy phân số tối giản khác nhau có mẫu số từ 2 đến 6 và tổng bằng 4 không? A. Shapovalov
+
+2.
+
+Vanya gấp một khối lập phương $3^{u} 3^{u} 3$ từ các thanh có kích thước màu đỏ và xanh lam $1^{u} 1^{u} 3.$ Sau đó, anh ấy bắt đầu vẽ những gì mình có. Khi Tanya đến, Vanya chỉ có thời gian để tô màu 8 trong số 27 ô trên bề mặt nhìn thấy được của khối lập phương. Nhìn vào bức vẽ, Tanya nói rằng cô chỉ biết màu của một ô chưa sơn. Vanya trả lời rằng ô này có màu đỏ. Hoàn thành bức vẽ của Vanya (đánh dấu các ô màu xanh bằng chữ “C”, chữ “K”
+
+Bài toán 1, 3, 4 đã được đưa ra tại Cuộc thi hùng biện Moscow, bài toán 2 – tại Lễ hội Toán học.
+
+⟦column⟧
+
+màu đỏ, có dấu “?” một ô có màu mà Tanya không thể khôi phục). M. Evdokimov, T. Kazitsyna
+
+3. Bên trong một đa giác lồi có một điểm nằm ở giữa mỗi cạnh ngoại trừ một điểm.
+
+Điều này có nhất thiết đúng với bên còn lại không? A. Peshnin
+
+4.
+
+Các học sinh đã viết Olympic trong hai hội trường. Không có hội trường nào có ba cái tên trùng nhau. 100 học sinh có hai người trùng tên ở một phòng khác. 144 học sinh có ít nhất một người trùng tên trong mỗi hội trường. Có bao nhiêu học sinh có đúng một tên ở mỗi hội trường? (Hãy nhớ rằng những người trùng tên là những người có cùng tên.) A. Shapovalov
+
+Minh họa của D. Grishukova
+
+1.
+
+Bài toán
