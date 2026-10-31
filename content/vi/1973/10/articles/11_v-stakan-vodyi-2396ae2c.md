@@ -1,0 +1,50 @@
+---
+id: 1973-10-v-stakan-vodyi-2396ae2c
+issue: kvant_1973_10
+year: 1973
+number: "10"
+title: Ly nước
+authors:
+  - В. Б.
+rubric: smes
+page_first: 43
+page_last: 43
+page_labels: "41"
+tag: RO6H
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 9b74f18269dae6785616e4b054f9a2d7970c19dc14def4108253a1f42fa0ddd7
+prompt_sha256: draft-1
+translated_from: content/ru/1973/10/articles/11_v-stakan-vodyi-2396ae2c.md
+source_content_sha256: ba1d90c586338149585c371e364d3578ff5f0cc404a17472fa578dc53b48d951
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 41⟧
+
+Sức căng bề mặt
+
+$$\alpha = \frac{W}{S_1} = \frac{W' S_{CB}}{2S} = \frac{W' N_{CB}}{2} = \frac{3 \cdot 10^{-19} \cdot 10^{19}}{2} = 1,5 \left( \frac{\partial \chi}{\partial m^2} \right).$$
+
+Tinh thể NaCl có $\alpha \approx 0,35 \frac{\partial \chi}{\partial m^2}$.
+
+Bằng cách xem xét sự tương tác giữa các ion, chúng tôi có thể ước tính bậc độ lớn của độ bền kéo, mô hình đàn hồi, năng lượng liên kết và hệ số sức căng bề mặt. Vì vậy, chúng tôi tin chắc rằng các lực tương tác giữa các ion của mạng tinh thể, tức là các lực tác dụng trong “thế giới vi mô”, xác định các tính chất vĩ mô của chất rắn.
+
+Bạn cũng có thể làm ngược lại - sử dụng các đặc tính thực nghiệm tìm được về tính chất cơ học của tinh thể, xác định độ lớn của lực tương tác cơ học. Ví dụ: ước tính độ lớn của lực tương tác cơ học từ giá trị đã biết của mô hình đàn hồi $E = 10^{11} \pi / m^2$.
+
+Những ước tính mà chúng tôi đưa ra được thực hiện với giả định rằng tinh thể đang được đề cập có cấu trúc mạng lý tưởng. Trong tinh thể dung dịch, tính đều đặn của mạng bị phá vỡ. Tính đến thực tế này là một điều kiện quan trọng để tính toán lý thuyết về các đặc tính vật lý của tinh thể. Một số ước tính mà chúng tôi thực hiện đối với các tinh thể lý tưởng khác biệt đáng kể so với dữ liệu thu được từ các thí nghiệm.
+
+Ly nước
+
+Ly nào ổn định - đầy nước hay vơi một nửa?
+
+Nếu bạn có hai vật có hình dạng giống hệt nhau thì vật có trọng tâm thấp hơn sẽ ổn định hơn. Có lẽ bạn biết điều này. Vì vậy, để làm cho một cốc chứa đầy nước ổn định, chỉ cần uống một vài ngụm từ nó là đủ. Trong trường hợp này, trọng tâm, tương đương với tâm của kính, sẽ hạ xuống. Cần để lại bao nhiêu nước trong cốc để nó ở vị trí ổn định nhất?
+
+Rốt cuộc, nếu bạn uống hết nước, thì trọng tâm sẽ ở cùng một chỗ (chúng ta sẽ coi phần đáy là không trọng lượng). Điều này có nghĩa là tại một thời điểm nào đó trọng tâm chiếm vị trí thấp nhất. Làm thế nào khi biết tất cả các cốc rỗng và đầy, xác định được mực nước trong cốc ổn định nhất là bao nhiêu?
+
+Những người quen thuộc với toán học cao hơn đã báo cáo rằng với lời giải, chỉ cần biểu thị chiều cao của trọng tâm của thủy tinh thông qua vị trí của mực nước trong đó là đủ, và sau đó, tiếp tục chức năng này, đánh đồng đạo hàm bằng 0 và do đó tìm ra mức tối thiểu. Tuy nhiên, cũng có một lời giải đơn giản hơn trong số bài toán này mà không cần bất kỳ phép toán cao hơn nào. Hãy cố gắng tìm nó.
+
+V.B.

@@ -1,0 +1,46 @@
+---
+id: 1973-2-vlazhnost-i-klimat-d6121473
+issue: kvant_1973_2
+year: 1973
+number: "2"
+title: Độ ẩm và khí hậu
+rubric: smes
+page_first: 75
+page_last: 75
+page_labels: "73"
+tag: F594
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 5c0027cf8bcfdfde820b13fd16c454b65932f4f43a7a6743cfde2cfe97512517
+prompt_sha256: draft-1
+translated_from: content/ru/1973/02/articles/19_vlazhnost-i-klimat-d6121473.md
+source_content_sha256: d145ffa5ead4be2f182c89911492b09efd1d02804fbc1c7f291c38ea86b3999f
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 73⟧
+
+một bài học khách quan khẳng định câu tục ngữ cổ của Nga về giấy, nó sẽ luôn trường tồn. Nhưng Volodya có ở một mình không? Ai có thể đánh giá thiệt hại do các nhà xuất bản của danh mục này gây ra? Ai sẽ trả lại cho độc giả cuốn sách này những giờ phút quý giá đã bị lãng phí? Ai biết được, có lẽ Newoton trong tương lai đã không đi thi tại Đại học quốc gia Moscow và không đi chỉ vì anh ta không thể giải được các ví dụ do ai đó viết lại sai và đăng trên ấn phẩm chính thức.
+
+Sự bất cẩn trong việc biên soạn thư mục liên quan đến những người nộp đơn vào năm 1972 cũng được thể hiện rõ trong danh sách khuyến nghị tài liệu (tr. 179), trong đó liệt kê những cuốn sách tương đối lâu đời về toán học, chủ yếu dành cho những người nộp đơn vào các trường đại học (lưu ý rằng Đại học Tổng hợp Mátxcơva hoàn toàn không phải là một trường cao đẳng!. Đồng thời, không có một cuốn sách nào viết riêng về tài liệu thi tuyển sinh tại Đại học Quốc gia Mátxcơva được chỉ ra. Đặc biệt, không có cuốn sách chính nào mà trong những năm gần đây đã trở thành cuốn phổ biến nhất trong giới sinh viên tốt nghiệp và đã tóm tắt lại kinh nghiệm phong phú về các kỳ thi tuyển sinh tại Đại học Tổng hợp Mátxcơva trong 10-15 năm qua, - "Cẩm nang toán học dành cho thí sinh vào các trường đại học" của G. V. Dorofeev, M. K. Potapov và N. Kh Rozova, cuốn sách này đã được Bộ Giáo dục Đặc biệt Trung học và Đại học Liên Xô phê duyệt làm tài liệu hỗ trợ giảng dạy cho nhân viên các khoa dự bị của các cơ sở giáo dục đại học.
+
+Trên kệ của tôi có một số ấn bản không còn xuất bản của “Sổ tay dành cho ứng viên vào Đại học Moscow”. Tôi đã mua nó từ năm 1969 - kể từ khi chúng bắt đầu bao gồm đầy đủ các bài viết về toán học được cung cấp tại Đại học Tổng hợp Moscow. Sau đó, cuốn sách tham khảo này trở nên phổ biến không chỉ với những người đăng ký MSU mà còn với nhiều giáo viên đại học và giáo viên toán. Và nếu các nhân viên của Nhà xuất bản Đại học Mátxcơva bất cẩn trong việc xuất bản những biến thể này như năm 1972, thì họ sẽ bằng lòng mộc mạc với những ứng viên, và chủ yếu là những người sống xa các thành phố lớn.
+
+- Còn Volodya thì sao? - bạn hỏi. Anh vào Đại học Moscow và là một sinh viên giỏi. Tôi ước rằng trong tương lai những sự việc như vậy sẽ xảy ra không phải vì những câu hỏi đối với những ấn phẩm đã tiêm vào nước tiểu của người nộp đơn mà là nhờ chúng.
+
+P. A. Serpov
+
+Độ ẩm và khí hậu
+
+Biết rằng nước có nhiệt dung lớn hơn không khí. Khi đun nóng nước lên 1°C, nhiệt lượng cần tỏa ra gấp 3000 lần so với khi đun nóng cùng một khối lượng không khí.
+
+Nhiệt độ bề mặt trung bình của các đại dương trên thế giới là 17,4° C, trong khi nhiệt độ không khí trung bình trên toàn cầu là 14° C. Vì vậy, vào mùa đông, các đại dương trên thế giới đóng vai trò như một loại “lò sưởi” khổng lồ sưởi ấm trái đất.
+
+Đúng, sự trao đổi nhiệt giữa nước và không khí diễn ra khá kịp thời. Có một số cách để hỗ trợ không khí: độ ẩm không khí đóng một vai trò quan trọng. Chúng ta hãy trích dẫn đứa trẻ rất được yêu mến này từ nhật ký của một trong những người tham gia thí nghiệm trên Elbrus vào tháng 8 năm 1927.
+
+"Vào ngày 23 tháng 8, sau 5 giờ, một người trong chúng tôi mang một xô nước cho nhu cầu gia đình của những người phụ nữ từ con suối chảy ra từ sông băng Maly Azay. Đến 6 giờ, nước đã được bao phủ bởi một lớp băng ở nhiệt độ không khí +8,8°, cho thấy bức xạ mặt đất lớn do hàm lượng nước trong khí quyển thấp."
+
+Trên thực tế, chúng ta nên nói những từ hoa mỹ “bức xạ mặt đất lớn” thay vì những từ chính xác hơn - “bốc hơi tích phân”. Chẳng hạn, trong những điều kiện như ở Murmansk, sự “ấm lên” của khí hậu chắc chắn đi kèm với sự gia tăng độ ẩm. Điều này xảy ra vì khí hậu của Murmansk được quyết định bởi dòng hải lưu ấm áp của Vịnh, làm nóng vùng nước ven biển của Biển Barents. Ít người biết rằng nếu nước trong quá trình trao đổi nhiệt với không khí mất nhiệt thêm 1 độ nữa thì nhiệt độ không khí trung bình ở Murmansk sẽ tăng thêm 10 độ!

@@ -1,0 +1,60 @@
+---
+id: 1973-6-raznyie-zadachi-f2998230
+issue: kvant_1973_6
+year: 1973
+number: "6"
+title: Khác nhau bài toán
+rubric: smes
+page_first: 15
+page_last: 15
+page_labels: "13"
+tag: X91Y
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: db1692635e9789ce19b8d84305cb117d67ef17a8b8eb5c467fce3d1abdb9db4d
+prompt_sha256: draft-1
+translated_from: content/ru/1973/06/articles/03_raznyie-zadachi-f2998230.md
+source_content_sha256: fa75dfb120f6302fc235767435f38ef829e53e2257ddfc55cc836f458b0638dd
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 13⟧
+
+niah) các định lý “hai chiều” và “một chiều”.
+
+Cuối cùng, chúng tôi lưu ý (đối với người đọc đã quen với các khái niệm về hình học đa chiều) rằng công thức tổng quát ở trên của định lý Gülden có thể áp dụng cho không gian ενClidean $n$ chiều - chỉ cùng với mặt phẳng trên, chúng ta mới xem xét mặt phẳng $(n-1)$ chiều, và vì $l$ chúng ta phải lấy mặt phẳng $(n-2)$ chiều. Số $k$ trong định lý này (trong trường hợp không gian $n$ chiều) có thể thuộc bất kỳ giá trị nào trong các giá trị 1, 2, . . . , $n$.
+
+Và để không làm khó chịu những độc giả không quen thuộc với các khái niệm hình học đa chiều, chúng tôi xây dựng định lý kết quả cho $n=2$ (nghĩa là đối với trường hợp mặt phẳng).
+
+Định lý Gylden trên mặt phẳng. Cho có một hình $(k-1)$ chiều $F$ (ở đây $k$ là bất kỳ số nào trong số 1, 2) nằm trên một đường thẳng về một phía của điểm $O$. Bằng $S$, chúng ta biểu thị thể tích $(k-1)$ chiều của hình $F$ và bằng $R$, chúng ta biểu thị khoảng cách từ tâm của nó đến điểm $O$. Khi xoay hình $F$ quanh điểm $O$, thu được hình $k$ chiều, thể tích $k$ chiều được tính theo công thức
+
+$$V = S \cdot 2\pi R.$$
+
+Đặc biệt, $k$ cho $k=1$ (nghĩa là trong trường hợp hình $F$ bao gồm nhiều đoạn, Hình 10), công thức này cho phép bạn tính tổng diện tích của một số bánh xe đồng tâm.
+
+Khác nhau bài toán
+
+1. Loại bỏ $x, y, z$ khỏi phương trình
+   $$xy (x+y)=c,$$
+   $$yz (y+z)=a,$$
+   $$zx (z+x)=b,$$
+   $$xyz=d.$$
+
+2. Vẽ một tam giác $ABC$ ($BC>AB>CA$) khi biết góc $A$ và tổng độ dài các cạnh $AB+BC$ và $AB+AC$.
+
+3. Giải hệ phương trình
+   $(ax)^{1/2}a=(by)^{1/2}b,$
+   $b^{1/2}x=a^{1/2}y.$
+
+4. Tìm thương số chia cho $p-1$ của một số được viết trong hệ số $p$ sử dụng đơn vị $p-1$ (tức là số 111...1). Thương số này được viết như thế nào trong hệ thống số $p$-ary?
+
+5. Ba điểm $A, B$ và $C$ nằm trên cùng một đường thẳng. Một đường tròn có tâm tại điểm $A$ được dựng. Tìm vị trí hình học của giao điểm của các đường nối các điểm $B$ và $C$ với các điểm động đối diện của đường tròn.
+
+6. Ba đường tròn đi qua các điểm $M$ và $N$. Tìm quỹ tích các điểm $P$ sao cho các tiếp tuyến $PA, PB$ và $PC$ vẽ từ điểm $P$ đến các đường tròn này ($A, B, C$ là các điểm tiếp tuyến) thỏa mãn hệ thức $PA \cdot PB = k \cdot PC^2$.
+
+7. Chứng minh rằng nếu $p$ là số nguyên tố thì $C_{p-1}^m$ chia cho $p$ có ​​số dư là $(-1)^m$.
+
+8. Chứng minh rằng nếu $p$ là số nguyên tố lớn hơn ba thì $\frac{1}{2} C_{p/2}^p - 1$ chia hết cho $p^3$.

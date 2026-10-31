@@ -1,0 +1,53 @@
+---
+id: 1973-12-venetskiy-sorkin-iv-matematicheskaya-olimpiada-mesi-742995c5
+issue: kvant_1973_12
+year: 1973
+number: "12"
+title: Olympic Toán MESI lần thứ IV
+authors:
+  - Венецкий И. Г.
+  - Соркин Ю. И.
+rubric: raznoe
+rubric_sub: Разное
+page_first: 51
+page_last: 51
+page_labels: "49"
+tag: TUYK
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: da5629c776a4481cbb998fb00ec92c934d2c4e9a26e8eb298e879747b32ac4dc
+prompt_sha256: draft-1
+translated_from: content/ru/1973/12/articles/16_venetskiy-sorkin-iv-matematicheskaya-olimpiada-mesi-742995c5.md
+source_content_sha256: 43424ffcb71e1377025f73e8994df82b2f2cad5c3507787aae0e18d840f603b8
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 49⟧
+
+Olympic Toán MESI lần thứ IV
+
+Viện Thống kê Kinh tế Mátxcơva hiện đứng đầu cả nước về đào tạo các chuyên gia về xử lý thông tin máy tính và ứng dụng các phương pháp toán học trong kinh tế. Đó là lý do toán học có vai trò đặc biệt quan trọng đối với những người bước vào MESI. Trong ba năm qua, các kỳ thi tuyển sinh môn toán và vật lý đều được thực hiện bằng máy tính điện tử Minsk-32. Năm nay, MESI tổ chức Olympic Toán học sinh lần thứ 4.
+
+Olympic được tổ chức thành 2 vòng: vòng 1 - thư giãn và vòng 2 - toàn thời gian.
+Những học sinh so sánh thành công nhiệm vụ của vòng đầu tiên và gửi lời giải chậm nhất là ngày 25 tháng 1 năm 1974 (theo dấu bưu điện) sẽ được tham gia vòng thứ hai, được tổ chức tại MESI.
+Mỗi người tham gia Olympic được vào vòng 2 sẽ biết điều này. Để đẩy nhanh việc nhận đáp số từ viện, hãy đính kèm một phong bì có ghi địa chỉ của bạn vào thư. Thành công trong Olympic sẽ được tính đến khi vào học viện của chúng tôi.
+Địa chỉ MESI: 119435, Moscow, ngõ B. Savvinsky, 14, “Olympiad-74”.
+Lời giải bài toán biểu diễn bằng tiếng Nga trong sinh viên terdini. Tất cả các tác phẩm gửi đến Olympic sẽ được kiểm tra bằng máy tính. Vì vậy, chúng tôi yêu cầu bạn đặt đáp số ở cuối terdini cho các nhiệm vụ, hãy điền vào bảng sau
+
+| Những con số bài toán | 1 | 2 | 3 | 4 | 5 |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Đáp số | | | | | |
+
+Nhiệm vụ vòng 1
+1. Tìm số dư khi chia số 1973$^5$ - 1973 cho 1680.
+2. Tính toán không cần bảng
+   $3 \text{ ctg}^6 80^\circ - 27 \text{ ctg}^4 80^\circ + 33 \text{ ctg}^2 80^\circ$
+3. Tìm tổng các nghiệm thực của phương trình
+   $x^4 - 8 x^2 - 3200 x = 159984$.
+4. Một hình tròn được vẽ trong tứ giác $ABCD$ với tâm ở giữa cạnh $AD$ và tiếp xúc với ba cạnh còn lại. Tìm cạnh $AD$ nếu $AB = 12$ cm, $CD = 75$ cm.
+5. Từ giữa độ cao của một cạnh bên phải một đường vuông góc được thả xuống cạnh bên bằng 4,2 cm và vuông góc với cạnh bên bằng 3 cm. Tìm thể tích của paramid.
+
+I. G. Venetsky, Yu. I. Sorkin

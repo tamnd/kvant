@@ -1,0 +1,33 @@
+---
+id: 1973-12-leshkovtsev-pervaya-raketa-k-marsu-5a0db33d
+issue: kvant_1973_12
+year: 1973
+number: "12"
+title: Tên lửa đầu tiên tới sao Hỏa
+authors:
+  - Лешковцев В. А.
+rubric: raznoe
+page_first: 67
+page_last: 67
+tag: XRX0
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: ed43fc9042faac8d11e16fa7b8a2844b7da4e67d0b13b669729ad5ba0a37ede4
+prompt_sha256: draft-1
+translated_from: content/ru/1973/12/articles/03_leshkovtsev-pervaya-raketa-k-marsu-5a0db33d.md
+source_content_sha256: 9505ee1a3d9367d81a0a07e7129484b76fe4d72c8d8eb561936e8ad711c6adb7
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+Tên lửa đầu tiên tới sao Hỏa
+
+Sao Hỏa là một trong những hành tinh thú vị nhất trong hệ mặt trời. Với anh ta, một người trên DEXDU đã được kết nối với một cuộc gặp gỡ thân thiết với những sinh vật thông minh khác. Trong một thời gian dài, sao Hỏa đã hỏi các nhà khoa học hết câu đố này đến câu đố khác. Đây là các “kênh” sao Hỏa được nhà thiên văn học Ilyan Schipapelli chú ý lần đầu tiên vào năm 1877 và giả thuyết của nhà vật lý thiên văn Liên Xô I. S. Shklovsky rằng một trong những vệ tinh của Sao Hỏa [Phobos] là nhân tạo và hơn thế nữa. Tuy nhiên, các nghiên cứu quang học chủ động và thậm chí cả các phương pháp đo thiên văn vô tuyến cũng không cung cấp kết quả chính xác. đáp số cho vô số câu hỏi liên quan đến bản chất của hành tinh bí ẩn này.
+
+Bước đầu tiên và rất quan trọng hướng tới việc khám phá Sao Hỏa với sự trợ giúp của tàu vũ trụ có khả năng tiếp cận nó ở khoảng cách tương đối ngắn, trở thành vệ tinh của nó và cung cấp thiết bị khoa học, và trong tương lai, con người, lên bề mặt của nó, đã được thực hiện ở Liên Xô. Mười một năm trước, vào ngày 1 tháng 11 năm 1962, trạm thiên văn liên hành tinh đầu tiên trên thế giới, Mars-1, bắt đầu cuộc hành trình. Kể từ đó, các nhà khoa học đã thu được một lượng lớn dữ liệu khoa học có giá trị về bản chất của Sao Hỏa. Những bức ảnh tuyệt vời về một số khu vực trên bề mặt Sao Hỏa đã được các trạm thiên văn Mariner của Mỹ thu được. Các trạm liên hành tinh Mars-2 và Mars-3 của Liên Xô đã biến thành vệ tinh nhân tạo của Sao Hỏa. Cuộc hạ cánh nhẹ nhàng của trạm thiên văn sao Hỏa trên bề mặt hành tinh này đã được thực hiện thành công. Bây giờ trạm thiên văn “Mars-4” và “Mars-7” đang tiếp cận Sao Hỏa.
+Để tưởng nhớ sự ra mắt của trạm thiên văn liên hành tinh đầu tiên, tem bưu chính đặc biệt đã được phát hành trên một số trang. Ở đây chúng tôi sẽ sao chép các con tem của Liên Xô, Ba Lan, Hungary, Tiệp Khắc, Mông Cổ và Cuba mô tả trạm Mars-1.
+V. A. Leshkovce

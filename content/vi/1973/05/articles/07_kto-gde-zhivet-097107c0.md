@@ -1,0 +1,58 @@
+---
+id: 1973-5-kto-gde-zhivet-097107c0
+issue: kvant_1973_5
+year: 1973
+number: "5"
+title: Ai sống ở đâu?
+rubric: smes
+page_first: 39
+page_last: 39
+page_labels: "37"
+tag: 9ZXJ
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: adb7f1f19613d7b4c0e9a403408b30df8d97296c2e315122ce30b5ffbd9f6203
+prompt_sha256: draft-1
+translated_from: content/ru/1973/05/articles/07_kto-gde-zhivet-097107c0.md
+source_content_sha256: 43d81ab102adf4e15f91c49d8b4adb97de0edae1a940ed5dfdbca06defa522d4
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 37⟧
+
+Chia cả hai vế của đẳng thức cho $\Delta t$, ta được
+
+$$a \left( \frac{M}{R} \right)^{\frac{\alpha+1}{2}} = \frac{1}{2} \gamma \frac{Mm}{R^2} \frac{\Delta R}{\Delta t},$$
+
+trong đó $\frac{\Delta R}{\Delta t}$ là tốc độ tiếp cận Trái đất của vệ tinh - một giá trị không đổi. Hãy để chúng tôi phân tích sự bình đẳng kết quả. Nó phải thực thi đối với mọi giá trị của biến $R$. Để làm được điều này, điều cần thiết là số mũ của $R$ ở cả hai vế của đẳng thức phải giống nhau, nghĩa là
+
+$$-\left( \frac{\alpha+1}{2} \right) = -2,$$
+
+từ đâu $\alpha = 3$.
+
+F182. Ước tính xem bạn có thể nhảy cao bao nhiêu trên Mặt trăng.
+
+bài toán này khó giải quyết triệt để.
+
+Hầu hết độc giả đã gửi cho chúng tôi lời giải trong số bài toán này đều lý luận như thế này. Khi nhảy trên Trái đất, trọng tâm của một người tăng lên độ cao $h_3$. Điều này có nghĩa là người đó làm việc $A = mgh_3$. Công việc tương tự có thể được thực hiện bởi một người nhảy lên Mặt trăng. Nhưng trên Mặt trăng, gia tốc trọng trường bằng $1/6$ một phần của Trái đất: $g_{\text{л}} = \frac{1}{6} g_3$.
+
+Đặt ra từ sự bình đẳng trong công việc
+
+$$mg_{\text{л}}h_{\text{л}} = mg_3h_3$$
+
+Theo đó, trên Mặt trăng, một người có thể nhảy lên độ cao gấp 6 lần so với trên Trái đất ($h_{\text{л}} = h_3g_3/g_{\text{л}}$). Nếu trên Trái đất, khi nhảy, trọng tâm của một người tăng lên độ cao $h' = 60$ cm thì trên Mặt trăng bạn có thể nhảy lên độ cao 3,6 m.
+
+Tuy nhiên, lời giải này không tính đến một chi tiết thiết yếu. Hãy nhớ lại cách chúng ta nhảy trên Trái đất: chúng ta ngồi xổm xuống, sau đó duỗi thẳng chân. Để một người hạ thấp trọng tâm của mình xuống $h'' = 50$ cm trong khi nhảy và nâng nó lên $h' = 60$ cm (so với vị trí của trọng tâm khi một người chỉ đứng) trên Trái đất và lên độ cao $h$ trên Mặt trăng. Giả sử rằng trong khi nhảy, một người thực hiện công như nhau trên Trái đất và trên Mặt trăng*), tức là
+
+$$mg_3(h' + h'') = mg_{\text{л}}(h'' + h).$$
+
+Từ đây
+
+$$h = 6h' + 5h'' = 6,1 \text{ м.}$$
+
+Tôi. Sh. Slobodetsky
+
+*) Điều này tương đương với giả định rằng cùng một lực tác dụng lên cơ thể từ chân.

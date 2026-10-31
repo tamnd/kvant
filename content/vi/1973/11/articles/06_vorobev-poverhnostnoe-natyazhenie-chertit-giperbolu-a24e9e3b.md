@@ -1,0 +1,63 @@
+---
+id: 1973-11-vorobev-poverhnostnoe-natyazhenie-chertit-giperbolu-a24e9e3b
+issue: kvant_1973_11
+year: 1973
+number: "11"
+title: Sức căng bề mặt tạo ra một sự cường điệu
+authors:
+  - Воробьёв И. И.
+rubric: laboratoriya-kvanta
+rubric_sub: Лаборатория «Кванта»
+page_first: 34
+page_last: 34
+page_labels: "32"
+tag: 8LMD
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 8845a1d771ca2ce05805a0aef87285cbc8d961a21c6d4508215f7a9c6ddd3988
+prompt_sha256: draft-1
+translated_from: content/ru/1973/11/articles/06_vorobev-poverhnostnoe-natyazhenie-chertit-giperbolu-a24e9e3b.md
+source_content_sha256: 5f1becf40432ad2f87ca4c3482f6f8e3347ba1edf99ce333fc333d04f4ef09f1
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 32⟧
+
+Sức căng bề mặt vẽ ra một hyperbol
+
+I. I. Vorobiev
+
+Một phương pháp đo hệ số căng bề mặt của chất lỏng dựa trên việc nâng cột chất lỏng làm ướt trong mao quản. Tuy nhiên, ống mao dẫn và microcoppes không phải lúc nào cũng có sẵn để xác định đường kính bên trong của chúng.
+
+Hóa ra các mao mạch có thể được thay thế hoàn toàn bằng hai tấm kính. Đặt các tấm vào một bình chứa nước và dần dần đưa chúng lại gần nhau song song hơn. Nước dâng lên giữa các tấm - nó bị hút vào bởi lực của bề mặt căng (Hình 1).
+
+Dễ dàng tính được hệ số căng bề mặt σ từ độ cao mực nước y và khe hở giữa các bản d. Lực bề mặt của bề mặt căng là F = 2 σL, trong đó L là chiều dài của tấm (cả hai xuất hiện do nước tiếp xúc với thể tích của tấm). Lực này giữ một lớp nước có khối lượng m = ρLdy,
+
+trong đó ρ là mật độ của nước. Như vậy,
+
+2 σL = ρLdy.
+
+Từ đó ta tìm được hệ số căng bề mặt
+
+σ = 1/2 ρgdy. (1)
+
+Nhưng sẽ thú vị hơn khi làm điều này: cuộn các tấm lại với nhau ở một đầu và chừa một khoảng trống nhỏ ở đầu kia (Hình 2). Nước dâng lên và tạo thành một bề mặt đều đặn đáng kinh ngạc giữa các tấm (tất nhiên là nếu kính sạch và khô).
+
+Có thể dễ dàng nói rằng tiết diện của bề mặt này theo mặt phẳng Hertical là một hyperbol. Trên thực tế, chỉ cần thay d vào công thức (1) cùng với biểu thức mới cho khoảng trống tại một vị trí nhất định là đủ. Từ sự giống nhau của các hình tam giác tương ứng (xem Hình 2)
+
+d = D x/L Ở đây D là khoảng cách cuối cùng,
+
+L vẫn là chiều dài của tấm, x là khoảng cách từ điểm tiếp xúc của các tấm đến nơi xác định khe hở và chiều cao ngang. Như vậy,
+
+σ = 1/2 ρgdy D x/L,
+
+hoặc
+
+y = 2σL/ρgD · 1/x. (2)
+
+Phương trình (2) là số thực và là phương trình hyperbol.
+
+Để tiến hành thí nghiệm có thể lấy đĩa 10×

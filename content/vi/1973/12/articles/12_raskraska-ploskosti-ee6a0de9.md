@@ -1,0 +1,28 @@
+---
+id: 1973-12-raskraska-ploskosti-ee6a0de9
+issue: kvant_1973_12
+year: 1973
+number: "12"
+title: Màu máy bay
+rubric: smes
+page_first: 40
+page_last: 40
+page_labels: "38"
+tag: FLN3
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: b2925edfe319ed0df9ebd924fe4c18104969659dc005d97469ace7f12e29d587
+prompt_sha256: draft-1
+translated_from: content/ru/1973/12/articles/12_raskraska-ploskosti-ee6a0de9.md
+source_content_sha256: d66e820d6641e01046eeb10a8fd0db9e7cfdbb8ff25ef1802190c8f37b4473b6
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 38⟧
+
+Hầu hết tất cả độc giả đã gửi lời giải bài toán F203—F210 đều hoàn thành xuất sắc nhiệm vụ F203, F204, F207, F210. lời giải còn lại bài toán chính xác đã được gửi (số in đậm sau họ có nghĩa là chữ số cuối cùng của số bài toán): S. Akmertsev (Magnitogorsk) 8; D. Alekseev (Moscow) 6; S. ALEXIN (LIpetsk) 9; P. AITSIFEROV (Fatezh, vùng Kursk) 9; R. BASIROV (N. KARAKTIYANY TASSR) 9; V. BENKHAN (Kalinin) 7; M. BERMAN (Kapustin Yar, vùng Astrakhan) 3; L. BRADINSKY (Frunze) 5; Yu. BRIL (Dnepropetrovsk) 8; P. BUKHARINOV (Berezniki, vùng Perm) 8; M. VALONIN (Baku) 8, 9; O. VASYLENKO (Vùng Izim, Kharkov) 5; M. VASICHOV (Kyiv) 9; Yu. VIZEIN (Leningrad) 9; A. Tiếng Đức (Voronezh) 9; S. Goncharov (NIKOPOL, vùng Dnepropetrovsk) 8; A. Gurevich (Minsk) 9; V. Duntsov (Dushanbe) 9; V. DYACHENKO (Gadyach, vùng Poltava) 5; V. IENAMYEV (Volgograd) 5; A. KALOTSIN (Moscow) 9; M. KANEEV (Samarkand) 6; S. Karpenko (Kyiv) 8, 9; D. Karpov (Pavlograd) 8; M. KACHANOVSKY (D. VISHEVIN, vùng Brest) 6, 9; L. KODAN (Chernivtsi) 8; S. Kornilov (Grozny) 8, 9; V. KORIKOV (Kalinerrad, khu vực Moscow) 8; L. Kofman (Tallinn) 9; G. Koyava (Tskhinvalli) 7; A. Krenitsky (Engels) 8; A. Kutsman (Chernivtsi) 8; I. Kutsik (Yaroslavl) 6, 9; A. Lodman (Tashkent) 6; V. Lysenko (Sosnovka, vùng Lviv) 6; A. Malakov (Nijingniy Tagil) 9; A. Maltsev (Sverdlovsk) 9; V. Malosky (Kramatorsk, vùng Donetsk) 6; G. Mamedov (Baku) 8; V. Maranov (Ramenskoye, vùng Moscow) 6; O. Marbin (Perm) 9; N. Mironov (Vyksy, vùng Gorky) 9; A. Murinets (Magnitogorsk) 8; A. Nikolaev (Moscow) 5, 8; R. Ospanov (Liên Xô Bairat-Ali Turkmenistan) 8; S. Pak (Tashkent) 8; A. Parovichnikov (Obninsk) 8; Yu. Pinelis (Kzyl-Orda) 5; A. Pobladuev (Vinnitsa) 6; A. Polyansky (Chelyabinsk) 8; N. Popov (Leningrad) 9; V. Pshenichnikov (làng Klyuchevka, vùng Orenburg) 9; A. Remeev (Tashkent) 6; V. Reshetnik (Kyiv) 8; L. Rudtser (Kharkov) 5; M. Rumyansky (Magnitogorsk) 9; E. Sander (Tarmakla, vùng Omsk) 9; A. Satmarov (V. Chukaevo TASSR) 8; A. Sereev (Podolsk, khu vực Moscow) 9; Vâng. Simkin (Moscow) 8; A. Sinovsky (Dushanbe) 9; R. Siroma (Kharkov) 8; V. Skripkin (Manturovo, vùng Kostroma) 5; Yu. Smolentsov (Essentuki) 9; V. Spiridonov (làng Marshinova, vùng Nikolaev) 8; V. Susloarov (Kungur, vùng Perm) 6; Ch. Tarshcheerdiev (Sizan Az. Liên Xô) 6; N. Fedin (Omsk), 5, 8; E. Fedorov (Magnitogorsk) 8; N. Filimonsv (Lida, vùng Grodno) 8; D. Fushman (Chernivtsi) 9; V. Khatsylovsky (Krasnoirsk) 6; M. Horoshin (Chernigov) 8; V. Chernyshov (vùng Penza) 9; V. Chernovy (Dolinsk, vùng Sakhalin) 9; S. Shevchuk (Starokonstantinov, vùng Khmelnitsky) 9; E. Shafirovich (Noginsk, khu vực Moscow) 8; A. Yablonsky (Volgograd) 8, 9.
+
+R. G. Mint

@@ -1,0 +1,62 @@
+---
+id: 1973-12-aleksandrov-matematika-na-podgotovitelnyih-otdeleniyah-vuzov-c8912efd
+issue: kvant_1973_12
+year: 1973
+number: "12"
+title: Toán ở khoa dự bị đại học
+authors:
+  - Александров В. В.
+rubric: raznoe
+rubric_sub: Разное
+page_first: 52
+page_last: 52
+page_labels: "50"
+tag: L25G
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 1b5879722c3a1a1cf2da06641b2ff1a26ed2b65fd51c50166472df1cedeebce5
+prompt_sha256: draft-1
+translated_from: content/ru/1973/12/articles/17_aleksandrov-matematika-na-podgotovitelnyih-otdeleniyah-vuzov-c8912efd.md
+source_content_sha256: 16bdcd26d6280f17257e98b876213120ff4bdc1c71a1af693d38ae7004ebae51
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 50⟧
+
+Toán ở khoa dự bị đại học
+
+Từ năm 1969, theo Nghị quyết của Ủy ban Trung ương CPSU và Hội đồng Bộ trưởng Liên Xô, các khoa dự bị cho lao động và thanh niên nông thôn đã được mở tại các cơ sở giáo dục tính toán. Các khoa này đã được giao trách nhiệm bài toán - đảm bảo nâng cao trình độ đào tạo giáo dục phổ thông cho công nhân trẻ, nông dân tập thể và những người xuất ngũ khỏi Quân đội Liên Xô, tạo cho họ nền tảng kiến ​​thức vững chắc để học đại học thành công hơn nữa.
+
+Hôm nay chúng tôi đăng một bài viết của V.V. Aleksandrov, giáo viên toán cao cấp tại khoa dự bị của Đại học quốc gia Moscow mang tên M.V. Lomonosov.
+
+Toán học là một trong những môn học chính được học sinh của hầu hết các khoa dự bị nghiên cứu. Suy cho cùng, nếu không có kiến ​​​​thức vững chắc về môn toán thì không thể học thành công ở các khoa khoa học tự nhiên của các trường đại học, trường kỹ thuật hay viện kinh tế.
+
+Học toán ở các khoa dự bị khác biệt đáng kể so với học toán ở trường trung học hoặc các khóa dự bị. Sự khác biệt này trước hết bao gồm thực tế là trong một khoa đã được chuẩn bị sẵn, những người đã hoàn thành chương trình giáo dục trung học đã được nghỉ ngơi (và đôi khi là một thời gian đáng kể) trong quá trình học tập của họ sẽ được đào tạo trong một khoảng thời gian giới hạn.
+
+Việc giảng dạy toán học Posenic ở các khoa dự bị bao gồm việc tổng hợp lặp lại khóa học ở trường, trau dồi kiến ​​thức tích cực và làm chủ sáng tạo các kỹ năng vận hành với các đối tượng toán học. Trọng tâm chính là những vấn đề đó, sự hiểu biết sâu sắc và đầy đủ về những vấn đề này đặc biệt quan trọng khi học toán cao hơn.
+
+Hầu như không cần thiết phải chứng minh rằng sách giáo khoa là tài liệu cần thiết của khoa dự bị cho chuyên gia. Nó phải bao gồm một khóa học lý thuyết được viết rõ ràng và cô đọng (có tính đến tất cả các đặc điểm của khoa dự bị) của toán tiểu học, được minh họa phong phú với các lời giải bài toán điển hình và đơn giản, cũng như đủ số lượng bài tập khác nhau.
+
+Về bản chất, các khoa dự bị có thể được chia thành hai loại: a) vật lý và toán học (nhóm dự bị cơ học và toán học, khoa vật lý và khoa toán tính toán của các trường đại học, khoa toán ứng dụng của các trường đại học kỹ thuật và một số khoa tự nhiên khác của các trường đại học, trường đại học kỹ thuật và kinh tế và các trường khác). Đương nhiên, mỗi loại nhóm dự bị này đều cần có sách giáo khoa toán riêng.
+
+Thật không may, vẫn chưa có sách giáo khoa đặc biệt cho các khoa dự bị. Học sinh phải sử dụng sách giáo khoa toán học của trường và một số tài liệu hỗ trợ dành cho người nộp đơn vào đại học.
+
+Ở đây nó được gọi một cách thích hợp trong toán học sơ cấp, vốn đã được chứng minh theo cách tốt nhất và được ứng dụng rộng rãi trong việc thực hành các đề xuất ở các khoa dự bị:
+
+a) đối với ngành vật lý và toán học
+— V. G. Boltyansky, Yu. V. Sidorov, M. I. Shabunn. Bài giảng và bài tập về toán tiểu học. M., “Khoa học”, 1971;
+- G. V. Dorofeev, M. K. Potapov, N. Kh. Rozov. Cẩm nang toán dành cho ứng viên đại học. Các câu hỏi chọn lọc của toán tiểu học. M., “Khoa học”, 1972;
+6) đối với nghề kỹ thuật
+– V.V. Zaitsev, V.V. Ryzhkov, M.I. Skanavi. Toán tiểu học (khóa học lặp lại). M., “Khoa học” (đang chuẩn bị xuất bản năm 1974);
+- M.I. Scanavi và những người khác. Tuyển tập các bài tập toán cho các kỳ thi cạnh tranh ở các trường đại học. M., "Trường trung học", 1972.
+
+Việc sử dụng những cuốn sách này làm công cụ hỗ trợ giảng dạy cho học sinh trong các chương trình dự bị hóa ra lại rất hữu ích. Tuy nhiên, cần lưu ý rằng không có cuốn sách nào được đề cập được viết riêng cho các khoa dự bị.
+
+Hiện tại, một số lượng lớn sách hướng dẫn về toán tiểu học và tuyển tập các bài thi bài toán cạnh tranh dành cho các ứng viên vào các trường đại học và sinh viên các khoa dự bị đã được xuất bản. Bản thân nó, sự phong phú của các hướng dẫn sử dụng như vậy là gần như cần thiết, đặc biệt là vì nhiều hướng dẫn sử dụng này không có “cá tính”, cấp phép riêng và lặp lại những gì đã biết mà không có bất kỳ đổi mới nào. Thông thường, sách hướng dẫn chứa các tài liệu rõ ràng không tương ứng với “Chương trình thi tuyển sinh môn toán” hiện hành.
+
+Hoàn toàn không thể chấp nhận được việc một số sổ tay mắc phải những sai sót rõ ràng về phương pháp luận và một số lượng lớn các lỗi cơ bản. Tạp chí «Kvant» đã thu hút sự chú ý đến những sự kiện tương tự (xem số 11 cho năm 1970, số 10 cho năm 1971, số 6 cho năm 1972).
+
+V. V. Alexandrov

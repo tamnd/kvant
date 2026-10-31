@@ -1,0 +1,27 @@
+---
+id: 1973-8-o-pentamino-c2c398b5
+issue: kvant_1973_8
+year: 1973
+number: "8"
+title: '[Giới thiệu về pentomino]'
+rubric: smes
+page_first: 84
+page_last: 84
+tag: AORD
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 6af42d0d5503d52fbeb586bc4a863e4f8604b5d10051c4ec4d06ed50cc1ddf2a
+prompt_sha256: draft-1
+translated_from: content/ru/1973/08/articles/01_o-pentamino-c2c398b5.md
+source_content_sha256: 6b9635d706690120ea1f08943904d6fcc3f80ebd8651a06f9a22cde597fdd49d
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+Trong bài viết của A. Yu Soifer “Bảng rô và đa giác” (“Quant”, 1972 số 11), ông nói về đa thức và các vấn đề khác nhau liên quan đến chúng. Hãy nhớ lại rằng polymine là một hình bao gồm một số lượng ô hữu hạn và các ô có thể viền ở một đỉnh hoặc một bên và từ mỗi ô bạn có thể đến bất kỳ ô nào khác (bạn chỉ có thể đi từ một ô đến một ô có một cạnh chung với nó). Chúng ta sẽ gọi hai polymine là giống nhau nếu chúng được kết hợp bằng sự chồng chất.
+
+Pentomine là một polymine bao gồm một đốm tế bào. Có chính xác hàng tá pentomino khác nhau (hãy xem thử!). Nhà toán học người Mỹ S. W. Golomb đã sắp xếp được một bàn cờ thành 13 khối đa giác, trong đó có hàng chục khối ngũ giác khác nhau.

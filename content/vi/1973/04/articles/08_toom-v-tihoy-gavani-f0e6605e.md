@@ -1,0 +1,46 @@
+---
+id: 1973-4-toom-v-tihoy-gavani-f0e6605e
+issue: kvant_1973_4
+year: 1973
+number: "4"
+title: Ở nơi trú ẩn yên tĩnh
+authors:
+  - Тоом А. Л.
+rubric: raznoe
+page_first: 36
+page_last: 36
+page_labels: "34"
+tag: 62GV
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 66a1aa3a1d88dfd9812ccbcc513be4158f7947b39abe553b84ae2aa70a3e90eb
+prompt_sha256: draft-1
+translated_from: content/ru/1973/04/articles/08_toom-v-tihoy-gavani-f0e6605e.md
+source_content_sha256: 49a4557c8089bca4182c2e3ef73cd83a1dea6408de870f8cb0b33d1b07df4fa8
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 34⟧
+
+tại một thời điểm, vị trí được đặt tên của điểm sẽ tương ứng với điểm mong muốn trên máy tính bảng; nếu không, bạn sẽ lại nhận được một tam giác lỗi, nhưng ít hơn lỗi đầu tiên, liên quan đến việc bạn có thể đánh dấu vị trí của điểm mong muốn với độ chính xác cao hơn. Những hành động như vậy được lặp lại cho đến khi các hướng chải kỹ giao nhau tại một điểm.
+
+Ghi chú. Sau khi nhận được tam giác lỗi thứ hai, bạn có thể nối các đỉnh cùng tên của chúng bằng các đường thẳng; tại giao điểm của những đường này, điểm mong muốn $m$ trên máy tính bảng sẽ được định vị. Điểm thu được theo cách này được sử dụng để định hướng mới cho máy tính bảng và điểm thứ ba còn lại được dùng để định hướng.
+
+Danh sách A.P. Bolotov. lời giải bài toán Poteota ban đầu, vẫn không mất đi ý nghĩa thực tiễn cho đến ngày nay, được đề xuất bởi A.P. Bolotv (1803-1853) (danh sách này đặc biệt gần với hình học lời giải được mô tả ở trên).
+
+Với phương pháp này, một mặt cầu có các điểm $a, b$ và $c$ trên địa hình, tương ứng với các điểm $A, B$ và $C$ trên địa hình, được lắp đặt phía trên điểm $M$ của địa hình (Hình 6). Phủ sáp (giấy can) lên máy tính bảng và đánh dấu một điểm $m$ trên đó, nằm gần phía trên điểm mong muốn $M$ của khu vực. Sau đó, qua điểm $m$ trên sáp, người ta ngắm tuần tự các điểm $A, B$ và $C$ của khu vực và các hướng khác $mA, mB$ và $mC$. Sau đó, sáp được di chuyển dọc theo bảng cân sao cho hướng $mA, mB$ và $mC$ đọc trên đó đi qua các điểm $a, b$ trên bảng. Nếu bây giờ, giữ sáp ở vị trí này và đâm vào điểm $m$, thì vị trí thực sự của điểm mong muốn sẽ thu được trên máy tính bảng.
+
+Để kiểm soát các hành động được thực hiện, bạn nên kiểm tra hướng của máy tính bảng tại điểm $A, B$ hoặc $C$ cách xa nó nhất.
+
+Ở nơi trú ẩn yên tĩnh
+
+Tripirata chia sẻ chiến lợi phẩm bao gồm 10 pistres, 10 dvolons và một thùng rượu. Họ có những thùng để rót rượu, nhưng than ôi, mỗi tên cướp biển đều có quan điểm riêng của mình về giá trị so sánh của pistres, dvolons và rượu.
+
+Tuy nhiên, mọi người đều đồng ý rằng một thùng rượu có giá trị hơn bốn pistre và hơn bốn dvolons.
+
+Chứng minh rằng có thể chia chiến lợi phẩm sao cho mỗi tên cướp biển được một phần mà theo ý kiến ​​của hắn, có giá trị không kém phần của mỗi tên cướp biển khác.
+
+A. Tom

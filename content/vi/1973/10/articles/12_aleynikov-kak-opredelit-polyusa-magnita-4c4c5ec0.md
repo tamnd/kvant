@@ -1,0 +1,43 @@
+---
+id: 1973-10-aleynikov-kak-opredelit-polyusa-magnita-4c4c5ec0
+issue: kvant_1973_10
+year: 1973
+number: "10"
+title: Làm thế nào để xác định các cực của nam châm?
+authors:
+  - Алейников Б. И.
+rubric: laboratoriya-kvanta
+rubric_sub: Лаборатория «Кванта»
+page_first: 44
+page_last: 44
+page_labels: "42"
+tag: TCIT
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: a52eb43249f53a0cedfe9e0381cecc46de71d0f976ba85e76ff783aa6c38a859
+prompt_sha256: draft-1
+translated_from: content/ru/1973/10/articles/12_aleynikov-kak-opredelit-polyusa-magnita-4c4c5ec0.md
+source_content_sha256: 12df273a1f3b712c9ee7d491c145d8073de6dc4417a9a64e89b515deb0f4ef2d
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 42⟧
+
+Làm thế nào để xác định các cực của nam châm?
+
+B. I. Aleinikov
+
+Câu hỏi này hoàn toàn không đơn giản như thoạt nhìn. Rốt cuộc, chúng tôi không tin tưởng rằng các cực của nam châm không được sơn bằng các màu khác nhau chỉ để trải chúng ra, tức là không có mối liên hệ nào với từ tính thực sự của chúng. Ngoài ra, nam châm có thể không được đánh dấu gì cả.
+
+Để thực hiện thí nghiệm, bạn cần hai thứ - một nam châm vĩnh cửu hình móng ngựa, không nhất thiết phải sơn hai màu (sẽ thú vị hơn nếu các cực của nam châm không được đánh dấu trước) và... một chiếc tivi. Tốt nhất nên thực hiện thí nghiệm vào buổi sáng hoặc buổi chiều, khi tivi phát sóng lưới để điều chỉnh tivi.
+
+Hãy đưa nam châm vào màn hình tivi đang bật như hình. Hình ảnh sẽ không bị biến dạng từ từ. Có một vòng tròn nhỏ ở giữa lưới. Nó sẽ di chuyển lên hoặc xuống đáng chú ý, tùy thuộc vào cách đặt các cực của nam châm.
+
+Hình ảnh trên màn hình TV tạo ra một chùm tia điện tử tìm kiếm từ độ sâu của ống đến eritel. Nam châm của chúng ta làm chệch hướng các electron đang chuyển động, do đó hình ảnh sẽ dịch chuyển. Hướng tác dụng của từ trường lên một điện tích chuyển động được xác định bởi bên phải của bàn tay trái. Bạn cần đặt lòng bàn tay sao cho các đường thoát nước đi vào và duỗi các ngón tay ra để chỉ hướng của dòng điện; khi đó ngón tay uốn cong một góc 90° cho biết hướng dịch chuyển của điện tích dẫn động. Đường dây điện chạy từ nam châm máy chủ đến cực nam. Và chiều của dòng điện theo quy tắc bàn tay trái được coi là chiều “kỹ thuật” - từ pliosa đến phút. Đây là cách các điện tích dương sẽ di chuyển. Nhưng các electron di chuyển trong phim và bay về phía chúng ta. Điều này tương đương với việc các điện tích dương đang bay ra xa chúng ta. Do đó, hãy duỗi các ngón tay của bàn tay trái về phía màn hình. Phần còn lại là rõ ràng. Bằng sự dịch chuyển của vòng tròn trung tâm của lưới tivi, chúng ta xác định được dải nam châm nào được đưa lên màn hình, hướng bắc hay hướng nam. Vì vậy, bằng cách sử dụng TV, bạn có thể dễ dàng và nhanh chóng xác định vị trí các cực của một nam châm không được đánh dấu.
+
+TV cũng có thể giúp xác định dấu cực của pin không được đánh dấu. Đối với thí nghiệm này, bạn cần có pin, nam châm điện có lõi kép, TV, điện trở và dây dẫn.
+
+Chúng ta nối một nam châm điện và một điện trở nối tiếp với pin, chọn sao cho dòng điện không vượt quá giá trị cho phép. Khi đưa một nam châm điện lên màn hình tivi, chúng ta xác định các cực của nó bằng quy tắc bàn tay trái. Tiếp theo, sử dụng quy tắc gimlet, chúng ta sẽ tìm được hướng của dòng điện và do đó tìm được dấu của các cực của pin.

@@ -1,0 +1,44 @@
+---
+id: 1973-9-pobediteli-konkursa-kvanta-17436470
+issue: kvant_1973_9
+year: 1973
+number: "9"
+title: Người chiến thắng cuộc thi «Kvant»
+rubric: zadachnik-kvanta
+page_first: 26
+page_last: 26
+page_labels: "24"
+tag: 3AMA
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 5bfd59ace91ccf6d34f65b94ec15fd3198c83f644902c442839e4996eda25385
+prompt_sha256: draft-1
+translated_from: content/ru/1973/09/articles/07_pobediteli-konkursa-kvanta-17436470.md
+source_content_sha256: 198cb232260175fd54b32a99c924185093129d3d2b2c34845447a6072c7e859f
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 24⟧
+
+NGƯỜI CHIẾN THẮNG
+"QUANTA"
+
+Ban biên tập tạp chí «Kvant» đã thành lập các giải thưởng đặc biệt dành cho lời giải bài toán thú vị nhất được đặt trong “Sách Vấn Đề Kvant”.
+Các biên tập viên của tạp chí đã nhận được cho năm 1972-1973. khoảng 4000 chữ cái có đáp án bài toán, được đặt trong phần “Sổ bài toán lượng tử”. Trong số các tác giả của những bức thư này, bộ sưu tập xã luận đã chọn ra những học sinh thường xuyên gửi lời giải đặc biệt độc đáo và thành công. Chúng chứa đầy tạp chí «Kvant» đặt mua hàng năm cho năm 1974.
+Theo quyết định của Ban tổ chức Olympic toàn Liên đoàn, các học sinh này đã được vào vòng khu vực Olympic toàn Liên đoàn năm 1974 cùng với người đoạt giải Olympic toán và vật lý khu vực.
+
+1. VALKOV ALEXEY (Tashkent, làng số 110, lớp 9)
+2. VOYNOVA OLGA (SSR Kyrgyzstan, làng Kosh-Tegirmen, đường làng số 1, hạng 9)
+3. ALEXANDER GRIGORYAN (Baku, làng số 211, lớp 9)
+4. ZASLAVSKY ALEXANDER (Kalinin, làng số 20, lớp 9)
+5. KOGAN YAN (Glazov, làng số 3, lớp 8)
+6. LUTINGER HERMAN (Chernivtsi, đường cao tốc nông thôn số 14, hạng 9)
+7. MAKARICHEV ALEXANDER (Lvov, làng số 14, lớp 9)
+8. SLESARENKO ANATOLY (Rubtsovsk, vùng Altai, Xa lộ nông thôn số 11, hạng 9)
+9. SOLENTSEV YURY (Essentuki, làng số 3, lớp 9)
+10. SHENDRIK VIKTOR (Alma-Ata, RFMSH, lớp 9)
+11. SHMELEV YURY (Yaroslavl, đường cao tốc nông thôn số 20, hạng 7)
+12. SHERBINA NIKOLAY (Dnepropetrovsk, làng số 80, hạng 9)
