@@ -1,0 +1,35 @@
+---
+id: 1977-4-zadachi-f3d43872
+issue: kvant_1977_4
+year: 1977
+number: "4"
+title: Bài toán
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 45
+page_last: 45
+page_labels: "43"
+tag: RI36
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 6c2f1428bd72b9e6e1b3b87cd51474423627af2a4e51fe4f5d2779188d131f51
+prompt_sha256: draft-1
+translated_from: content/ru/1977/04/articles/16_zadachi-f3d43872.md
+source_content_sha256: 5bbb112f4ef59ca0d87d651050e5cabc7f16c43ba920e17e7f125644d74f52e7
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 43⟧
+
+Nhiệm vụ
+
+1. Để di chuyển bằng tàu điện ngầm và xe điện, Kolya yêu cầu đổi một số tiền nhất định, nhận số tiền đó bằng đồng xu 3 và 5 kopecks. Kolya tính toán rằng có $k$ cách trao đổi như vậy. Số tiền tối đa mà Kolya có thể có là bao nhiêu?
+
+2. Trong ví dụ về phép nhân, một số số được biến đổi bằng các chữ cái (xem hình): các số giống nhau - có cùng các chữ cái, các số khác nhau - có các chữ cái khác nhau; ở vị trí của dấu hoa thị có thể có bất kỳ số nào, kể cả những số được mã hóa bằng chữ cái. Hãy thử giải mã một ví dụ!
+
+3. Trong hình, bạn thấy năm “sự đẳng thức” được tạo ra từ các que diêm. Nhưng tất cả những “sự bình đẳng” này đều sai. Sắp xếp lại một trận đấu trong mỗi trận đấu để tất cả “các đẳng thức” trở thành đẳng thức thực sự.
+
+4. Trong chiếc xe buýt này (xem hình) các con số được bao phủ bởi các hình vẽ. Các số giống nhau tương ứng với các số giống nhau, các số khác nhau - các số khác nhau, không một số nào bắt đầu bằng số 0. Giải mã rebus.

@@ -1,0 +1,56 @@
+---
+id: 1977-2-kushnirenko-26-27-c05c2c4c
+issue: kvant_1977_2
+year: 1977
+number: "2"
+title: 26 = 27?!
+authors:
+  - Кушниренко А. Г.
+rubric: smes
+page_first: 61
+page_last: 61
+page_labels: "59"
+tag: KJUL
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 01bececbe6468fd8a9467a395b262502d59eb5a752c12b9ae555ba451d215102
+prompt_sha256: draft-1
+translated_from: content/ru/1977/02/articles/22_kushnirenko-26-27-c05c2c4c.md
+source_content_sha256: e085641aa2c7b1a378febfae0a6dae901aabf69a50f6540eb840bb87d2ebbd3f
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 59⟧
+
+Đã có một cuộc thảo luận về vấn đề này, giống như trường hợp toán học, với sự xao lãng hoàn toàn khỏi chủ đề. Thật dễ hiểu khi các tàu có thể được thay thế, chẳng hạn như xe tự động hoặc đàn voi.
+
+Trên thực tế, chúng ta đang nói về khả năng quy giản chứng minh của một mệnh đề nào đó thành chứng minh của một mệnh đề đơn giản hơn.
+
+Trong toán học, những tình huống như vậy xảy ra rất thường xuyên, và những “cầu nối” cho phép thực hiện được điều này được gọi là bổ đề.
+
+Trong phiên bản “mạch máu”, tôi đã đề xuất bổ đề này trong “Giáo dục toán học”, nơi nó được xuất bản ở số 6 năm 1961.
+
+Tuyên bố của bạn đáng được chú ý nhiều hơn: “Xét cho cùng, nếu là tiểu học thì học sinh có thể nghiên cứu toán học toàn thời gian,” điều mà ngay cả bây giờ cũng khó có thể gọi là tiểu học.
+
+Một hình tam giác đều mười bảy cạnh được khắc trên tượng đài của Gauss - một sự tôn vinh cho định lý “trường học” đầu tiên của ông. Lý thuyết mục tiêu được đặt theo tên của Gaus. Hiện nay ở Liên Xô, chúng tôi có một số học sinh viết các bài báo khoa học (không nhất thiết là các bài báo tiểu học).
+
+Để làm được điều này bạn cần phải biết và làm việc chăm chỉ. Trân trọng
+
+26 = 27?!
+
+Hãy lấy một ví dụ về một hình tam giác. Hãy chia mỗi cạnh của nó thành ba phần có cùng chiều dài và nối các điểm chia như trong Hình 1. Chúng ta thấy rằng trong tam giác ban đầu có ba hình tam giác bằng nhau, hai hình tam giác này cắt nhau bằng một hình tam giác nhỏ. Tất cả các hình tam giác này đều giống với hình ban đầu: hình lớn - có hệ số tương tự $2/3$, hình nhỏ - có hệ số tương tự $1/3$. Diện tích của tam giác ban đầu được ký hiệu là $S$; thì diện tích của mỗi hình tam giác lớn sẽ là $(2/3)^2 S$, và diện tích của mỗi hình tam giác nhỏ sẽ là $(1/3)^2 S$. Diện tích $S$ của tam giác ban đầu có thể được biểu thị bằng tổng diện tích của các tam giác lớn trừ đi tổng diện tích của các tam giác nhỏ - chúng tôi đã đếm chúng hai lần. Chúng tôi cũng có nó.
+
+$$S = 3 \cdot \left(\frac{2}{3}\right)^2 S - 3 \left(\frac{1}{3}\right)^2 S.$$
+
+Bây giờ chúng ta hãy thực hiện một cách xây dựng tương tự cho paramid thể tích tam giác $V$ (Hình 2). Sẽ có bốn paramid lớn (một ở mỗi đỉnh), âm lượng của mỗi paramid sẽ là $(2/3)^3 V$ (Hình 2 hiển thị hai trong số bốn paramid này). Mỗi hai paramid như vậy giao nhau dọc theo một paramid khối lượng nhỏ $(1/3)^3 V$, tổng cộng sẽ có sáu paramid như vậy (một ở mỗi cạnh)
+
+Cơm. 1.
+
+Cơm. 2.
+
+$V \neq 0$, rồi $26=27$. Nếu người đọc tin rằng $26 \neq 27$, thì anh ta phải chấp nhận rằng thể tích của một tham số tam giác tùy ý bằng 0.
+
+A. Kushirienko

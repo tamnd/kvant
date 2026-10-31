@@ -1,0 +1,42 @@
+---
+id: 1977-7-zadachi-nashih-chitateley-e4607d24
+issue: kvant_1977_7
+year: 1977
+number: "7"
+title: Bài toán độc giả của chúng tôi
+rubric: smes
+page_first: 47
+page_last: 47
+page_labels: "45"
+tag: JOTO
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 2813855ae764cd47e9c7c608f559fd8c5d2ba582805b6400a6588700725caae3
+prompt_sha256: draft-1
+translated_from: content/ru/1977/07/articles/12_zadachi-nashih-chitateley-e4607d24.md
+source_content_sha256: 39a311a9359efbd980bbccd0af81dcd59edbdf2926d629a400f8ea702d2ed6fc
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 45⟧
+
+yếu tố tự nhiên $y$ từ $Y$, $y=f(x)$. $X$ là miền định nghĩa của hàm và tập hợp $\{f(x) | x \in X\}$ là tập hợp các giá trị của hàm. Nói chung, đối với các tập hợp tùy ý, từ “hàm” được ưu tiên hơn thuật ngữ tương đương “bản đồ”. Ví dụ: các phép biến đổi hình học xác định ánh xạ của một tập hợp các điểm của mặt phẳng (hoặc không gian) lên chính chúng. Bằng cách liên kết mỗi tam giác với một đường tròn nội tiếp trong đó, chúng ta thu được ánh xạ của một tập hợp các tam giác lên một tập hợp các đường tròn và bằng cách liên kết một tam giác với diện tích của nó, chúng ta thu được ánh xạ của một tập hợp các tam giác lên một tập hợp các số mặt phẳng. Các hàm được Leibniz và Bernoulli, Euler, Lobachevsky và Dirichlet xem xét là ánh xạ của một tập hợp số này lên một số khác (ví dụ: hàm $y=\sqrt{R^2-x^2}$, $-R \leq x \leq R$, ánh xạ đoạn $[-R; R]$ tới đoạn $[0; R]$). Chúng được gọi là hàm số.
+
+Chúng ta đã theo dõi sự phát triển của khái niệm chức năng từ nguồn gốc của nó cho đến những khái quát hóa hiện đại. Với cách tiếp cận chung đối với khái niệm hàm số, hiện đã được chấp nhận, thật khó để hiểu nguồn gốc của nó từ bài toán vật lý, thiên văn học và hình học. Tuy nhiên, thực tế cơ bản vẫn là đối với một giá trị nhất định của một đại lượng vật lý nào đó, đại lượng đó phụ thuộc vào nó và có một định nghĩa hoàn hảo về giá trị. Đây chính xác là điều khiến người ta có thể sử dụng hàm phụ thuộc cuối cùng cả khi tính toán chuyến bay của tàu vũ trụ liên hành tinh và khi nghiên cứu các lực tác dụng trong hạt nhân nguyên tử cũng như khi chọn phương án tùy ý có lợi nhất.
+
+Bài tập
+của chúng tôi
+độc giả
+
+Dãy $(a_n)$ được định nghĩa như sau: $a_1 = \frac{1}{2}, a_2 = \frac{1}{3}$, $a_{n+1}$ bằng phân số cuối cùng trong khai triển $a_{n-1} + a_n$ thành phân số nguyên. Ví dụ,
+
+$$a_1 + a_2 = \frac{1}{2} + \frac{1}{3} = \frac{1}{1 + \frac{1}{5}},$$
+
+a) $a_{1000}$ bằng bao nhiêu?
+
+b) $a_k$ có luôn là số đảo của số nguyên tố không?
+
+P. Kirey (Nikolaev)

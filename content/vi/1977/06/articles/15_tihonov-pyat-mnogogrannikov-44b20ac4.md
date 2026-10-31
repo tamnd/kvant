@@ -1,0 +1,54 @@
+---
+id: 1977-6-tihonov-pyat-mnogogrannikov-44b20ac4
+issue: kvant_1977_6
+year: 1977
+number: "6"
+title: năm khối đa diện
+authors:
+  - Тихонов В.
+rubric: smes
+page_first: 62
+page_last: 62
+page_labels: "60"
+tag: DKW1
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: c7b8b255dd4f03787f3a7be9c519fff906a2549ecb7bd348ccac1f11e247fbc0
+prompt_sha256: draft-1
+translated_from: content/ru/1977/06/articles/15_tihonov-pyat-mnogogrannikov-44b20ac4.md
+source_content_sha256: da6905cb0d5385bf1d86d2f864e659f807f331bc2143afb110a2164a22b2c218
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 60⟧
+
+... > z_N, $z_i = 1 - x - y_i$ (song song $\Pi_x, \tau$, tức là số $x$, được cố định cho chúng ta). Theo những gì đã được chứng minh, tại $\Pi_y$ hoặc tại $\Pi_z$, $f$ có một khoảng cách không nhỏ hơn $\frac{\varepsilon}{2}$, do đó, khi đi qua các vĩ tuyến $2N$ này từ nam tới bắc, chúng ta thu được $f > \frac{2}{\varepsilon} \cdot \frac{\varepsilon}{2} = 1$ (vì $f$ không âm), điều này là không thể. Điều này có nghĩa là giả định rằng $f$ không cố định trên ít nhất một đường song song là không chính xác.
+
+Do đó, $f$ thực tế chỉ phụ thuộc vào $x$, trong đó $0 \leq x \leq 1$ và chúng ta có thể đi từ hàm $f$, được xác định trên hình cầu, đến hàm $g$, được xác định trên đoạn $[0, 1]$: $g(x) = f(X)$, trong đó $X \in \Pi_x$. Ở trên chúng ta đã chứng minh rằng nếu $x + y + z = 1$ thì $g(x) + g(y) + g(z) = 1$. Nhưng thật dễ dàng để báo cáo rằng $g(x) + g(1 - x) = 1$; do đó $1 - g[1 - (x + y)] = g(x + y)$. Từ đây chúng ta có được điều đó
+
+$$g(x) + g(y) = g(x + y)$$
+
+với tất cả $x$ và $y$ sao cho $x + y \leq 1$, $x \geq 0$, $y \geq 0$.
+
+Lời giải bài toán g)
+
+Bằng cách giải bài toán c), chúng ta đã chứng minh được rằng $g(x) \leq g(y)$ nếu $x \leq y$. Ngoài ra, $g(1) = 1$. Hãy chứng minh rằng hàm đơn điệu (không giảm) và bị chặn
+
+$$g(x) = x$$
+
+teler đã cho tùy ý $x$. Hãy nhớ rằng $g(x) = f(X)$, trong đó $X \in \Pi_x$, chúng ta thu được $f(X) = x$ cho tất cả $X \in \Pi_x$, nghĩa là hàm $f(M)$ trùng với hàm được thảo luận trong bài toán a).
+
+Năm
+
+khối đa diện
+
+Trong hình này bạn thấy đường đi của khối đa diện; tất cả các mặt của chúng đều là đa giác đều. Các khối đa diện nằm ở các góc của bức tranh được lấy từ một hình lục giác (khối lập phương) bằng cách sử dụng cùng một thao tác, chỉ có điều nó được áp dụng khác nhau trong các trường hợp khác nhau.
+
+Bạn nghĩ đây là loại hoạt động gì?
+
+Tính độ dài cạnh của tất cả các khối đa diện nếu độ dài cạnh của một hình lục giác là 1.
+
+V. Tikhonov

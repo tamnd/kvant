@@ -1,0 +1,39 @@
+---
+id: 1977-2-zadachi-05b6a52c
+issue: kvant_1977_2
+year: 1977
+number: "2"
+title: Bài toán
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 40
+page_last: 40
+page_labels: "38"
+tag: O9VP
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 02742be54052c9ca57bffb5fa5da1d450e451bc86648d1deae59c541841893b7
+prompt_sha256: draft-1
+translated_from: content/ru/1977/02/articles/14_zadachi-05b6a52c.md
+source_content_sha256: ddd5049655e43c4d07107ca4f0840481d336ce317164cabc822e6a04f27566f2
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 38⟧
+
+Nhiệm vụ
+
+1. a) Hai kẻ lệch tâm vẽ một đường đứt nét trên một tờ giấy vô hạn trong một hình vuông, lần lượt nối mỗi cạnh một cạnh có độ dài 1 và không được đi qua cùng một đoạn hai lần. Kẻ lập dị không thể di chuyển sẽ thua cuộc. Chứng minh rằng kẻ lập dị thứ nhất không thể thua và kẻ lập dị thứ hai không thể thua.
+
+6) Hai kẻ lập dị tiếp tục chơi. Bây giờ họ lần lượt từ chối lưới bóng chuyền $n \times n$ ô, mỗi lần cắt một nitke. Kẻ lập dị cắt lưới thành hai mảnh sẽ thua cuộc. Ai thắng?
+
+2. Một số số khi chia cho 1976 và 1977 thì có số dư là 76. Số này khi chia cho 39 thì có số dư là bao nhiêu?
+
+3. Quân cờ nhân mã di chuyển như một hiệp sĩ, nhưng không thể di chuyển hai ô lên và một ô sang phải, hoặc hai ô xuống và một ô sang phải. Liệu một nhân mã có thể đi vòng quanh toàn bộ bàn cờ, đánh vào mỗi ô chỉ một lần và quay lại ô ban đầu không?
+
+4. Ở trường bên trái của sọc ca rô $1 \times 1977$ có ba nút. Sasha và Lucy chơi trò chơi sau: mỗi người trong số họ có thể di chuyển bất kỳ nút nào (nhưng chỉ một lần di chuyển) sang bên phải tới bất kỳ số trường nào. Người không có nơi nào để đi sẽ thua cuộc. Chứng minh rằng Lucy, bắt đầu, có thể đảm bảo chiến thắng cho chính mình.
+
+5. Có một phần hình vuông bên trái ở cạnh 1 km. Rừng bao gồm những cây có đường kính 50 cm. Tanya phát hiện ra rằng không thể đi xuyên qua khu rừng này theo đường thẳng từ bên này sang bên kia. Chứng minh rằng có ít nhất hai nghìn cây trong rừng.

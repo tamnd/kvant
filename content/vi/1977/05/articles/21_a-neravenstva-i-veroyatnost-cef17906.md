@@ -1,0 +1,46 @@
+---
+id: 1977-5-a-neravenstva-i-veroyatnost-cef17906
+issue: kvant_1977_5
+year: 1977
+number: "5"
+title: Bất đẳng thức và... xác suất
+authors:
+  - А. Р.
+rubric: smes
+page_first: 58
+page_last: 58
+page_labels: "56"
+tag: 5QQI
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: faf15bedce83eeabc2abec4f9be71b28dc947df3983ace96f36d1f3201d4e581
+prompt_sha256: draft-1
+translated_from: content/ru/1977/05/articles/21_a-neravenstva-i-veroyatnost-cef17906.md
+source_content_sha256: 71b3f6a82f94e0ef986688f019bd2ef32ea974c4ba62d6bfa5292d8f43f2dfe8
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 56⟧
+
+Bất đẳng thức và... xác suất
+
+bài toán sau đây đã được đề xuất trong đội thế hệ Đội Liên Xô tại một trong các Thế vận hội Olympic quốc tế: nếu $p + q = 1$, $0 < p < 1$, $m$, $n$ là các số tự nhiên lớn hơn 1, chúng ta có thể
+
+$(1 - p^m) + (1 - q^n) > 1$.
+
+bài toán này rất khó nghiên cứu bằng đại số. Nhưng hóa ra nó có thể được giải quyết một cách đơn giản và đẹp đẽ bằng lý thuyết xác suất.
+
+Giả sử có một bảng gồm $n$ hàng và $m$ cột; Trong mỗi ô, số 0 hoặc số 1 được đặt và xác suất để số 0 được đặt là $p$ (khi đó số 1 được đặt với xác suất là $q$). Rõ ràng rằng $1 - p^m$ là xác suất có ít nhất một số 1 ở một hàng cố định nào đó và $(1 - p^m)^n$ là có ít nhất một số 1 trong mỗi hàng: Tương tự, $(1 - q^n)^m$ là xác suất mà mỗi cột chứa ít nhất một số 0. Tuy nhiên, một trong những sự kiện này chắc chắn sẽ xảy ra (nếu có một hàng số 0 và một cột số 1, thì giao điểm của chúng là gì?). Do đó, tổng xác suất của các sự kiện này không nhỏ hơn 1 (kiểm tra xem đối với $m > 1$, $n > 1$ tổng này phải lớn hơn 1).
+
+Chà, nếu bạn không biết xác suất là gì thì sao? Hóa ra có thể dễ dàng dịch lời giải này sang ngôn ngữ của máy tính. Để làm điều này, chúng ta cần xét trường hợp $p = r/s$ là số hữu tỷ. Đối với mỗi ô của bảng, chúng tôi sẽ lấy các số từ $r$ 0 và $s$ 0 và chúng tôi sẽ tạo ra tất cả các phần điền có thể có của bảng. Xác suất được thay thế bằng số bảng và cụm từ “một trong những sự kiện này chắc chắn sẽ xảy ra” được thay thế bằng “sự kết hợp của hai bộ bảng này là tất cả các bộ”. Hãy xem xét cách loại bỏ giả định rằng $p$ là hợp lý.
+
+Bây giờ hãy giải các tổng quát hóa bài toán.
+
+1. Đặt $0 < p_{ij} < 1$ ($1 \leq i \leq m$, $1 \leq j \leq n$) và $q_{ij} = 1 - p_{ij}$. Sau đó $(1 - p_{11} \dots p_{1m}) \cdot (1 - p_{21} \dots p_{2m}) \cdot \dots \cdot (1 - p_{n1} \dots p_{nm}) + (1 - q_{11} \dots q_{n1}) \cdot (1 - q_{12} \dots q_{n2}) \times \dots \cdot (1 - q_{1m} \dots q_{nm}) \geq 1$, trong đó $m \geq 1$, $n \geq 1$.
+
+2. Cho $0 < p_{i} < 1$ ($i = 1, 2, \dots, k$), $p_1 + \dots + p_k = 1$, $m_i$ là các số tự nhiên. Sau đó $(1 - (p_2 + \dots + p_k)^{m_2} \dots m_k)^{m_1} + \dots + (1 - (p_1 + \dots + p_k - 1)^{m_1} \dots m_k - 1)^{m_2} \geq 1$ (“khái quát hóa đa chiều”).
+
+A.R.

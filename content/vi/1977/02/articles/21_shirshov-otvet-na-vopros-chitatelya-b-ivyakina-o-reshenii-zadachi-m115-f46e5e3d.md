@@ -1,0 +1,50 @@
+---
+id: 1977-2-shirshov-otvet-na-vopros-chitatelya-b-ivyakina-o-reshenii-zadachi-m115-f46e5e3d
+issue: kvant_1977_2
+year: 1977
+number: "2"
+title: '[Đáp số gửi câu hỏi của độc giả B. Ivyakin về lời giải bài toán M115]'
+authors:
+  - Ширшов А. И.
+rubric: raznoe
+page_first: 60
+page_last: 60
+page_labels: "58"
+tag: 22Z5
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: c1e8b4be17ac18385b88828f0930891c727ae21109c77489ff332d1a147916aa
+prompt_sha256: draft-1
+translated_from: content/ru/1977/02/articles/21_shirshov-otvet-na-vopros-chitatelya-b-ivyakina-o-reshenii-zadachi-m115-f46e5e3d.md
+source_content_sha256: ed0b18678873a9e957f2286d048787523af853184209b360da401e667e5454d3
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 58⟧
+
+Hỏi - chúng tôi trả lời
+
+Người biên tập nhận được một lá thư của học sinh lớp 10 B. Ivachin. Trong đó ông viết:
+
+“Nhìn qua các số cũ «Kvant», tôi nhận thấy dòng tái bút ở cuối lời giải bài toán M115 “... bài toán này lần đầu tiên xuất hiện trong một trong những tác phẩm của nhà đại số hiện đại nổi tiếng A. I. Shirshov. Anh ấy cần nó để xây dựng một lý thuyết toán học dựa trên máy chủ. Integrano tìm hiểu xem nó như thế nào lời giải? Việc tính toán toán học được sử dụng cho mục đích này hay lời giải ý chí của phần tử? Suy cho cùng, nếu là sơ cấp, các chu trình của tôi có thể được viết ra theo ý muốn của nghiên cứu toán học phía máy chủ.”
+
+Chúng tôi đã hỏi Thành viên tương ứng của Viện Hàn lâm Khoa học Liên Xô A.I. Shirshov để trả lời những câu hỏi này.
+
+Borya thân mến!
+
+Bạn không cần phải xem qua các số «Kvant» cũ để tìm ra những ý tưởng toán học thú vị. Họ ở xung quanh chúng ta.
+
+Bạn quan tâm đến bài toán M115. Hãy để tôi nhắc bạn về điều kiện của nó:
+
+MRI của tàu chứa đầy toàn bộ lít nước. Bất kỳ chiếc bình nào cũng được cắt để đổ lượng nước bằng với lượng nước mà nó đã chứa từ bất kỳ chiếc bình nào khác. Để chứng minh rằng có nhiều cực đại bị tràn, một trong các bình có thể được thả ra. (Các bình đủ lớn: người ta có thể gánh hết nước cùng nhau).
+
+Có một lần tôi tìm thấy những gì được nêu dưới đây lời giải.
+
+Đặt $(n, p, q)$ là trạng thái ban đầu nào đó của mạch và $\gamma$ là số tự nhiên nhất sao cho ít nhất một trong các số $n+p$, $n+q$, $p+q$ chia hết cho $2^\gamma$. Rõ ràng là $\gamma > 0$. Đặt $n+p=2^\gamma (2s+1)$, $n=2^\alpha (2t+1)$, $p=2^\beta (2r+1)$. Giả sử $\alpha=\beta$. Sau đó $\alpha<\gamma$. Nếu $n>p$ thì chúng tôi sẽ truyền máu $(n, p, q) \Leftrightarrow (n-p, 2p, q)$; nếu $n<p$ thì truyền máu $(n, p, q) \Leftrightarrow (2n, p-n, q)$. Vì $n-p=2^{\alpha+1}(t-r)$ và $2p=2^{\alpha+1}(2r+1)$, tại một số bước được hiển thị khi hai số trở nên khác nhau hoặc các số tương ứng trở nên bằng nhau. Vì vậy, chúng ta có thể giả sử rằng $\alpha>\beta=\gamma$. Nếu $n<p$, thì chúng tôi sẽ thực hiện một số lần truyền $(n, p, q) \Rightarrow (2n, p-n, q) \Rightarrow \dots$ cho đến khi $n_i$ lớn hơn $p_i$ (β sẽ không thay đổi, nhưng $\alpha$ sẽ tăng). Vì vậy, $n>p$, $\alpha>\beta=\gamma$. Nếu $p<q$, $(n, p, q) \Leftrightarrow (n, 2p, q-p)$ và $n+2p=2^{\gamma+1}m$, tức là số γ tăng lên. Nếu $p>q$, $(n, p, q) \Leftrightarrow (n-p+q, 2(p-q), 2q)$ và $2(p-q)+2q=2p$. $\gamma$ tiếp tục tăng. Vì $\gamma$ không thể tăng vô thời hạn nên đến một lúc nào đó sẽ nhận được một bình rỗng.
+
+Thật dễ hiểu nếu tôi đã quyết định thì tôi cũng sẽ như vậy. Tất cả các bình đều có thể được làm trống, ngoại trừ hai bình.
+
+Tất nhiên, trong tác phẩm của tôi (Bộ sưu tập toán học 45:2, 1958), không hề nói đến bình chứa.

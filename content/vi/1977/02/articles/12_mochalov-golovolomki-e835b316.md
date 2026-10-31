@@ -1,0 +1,52 @@
+---
+id: 1977-2-mochalov-golovolomki-e835b316
+issue: kvant_1977_2
+year: 1977
+number: "2"
+title: '[Câu đố]'
+authors:
+  - Мочалов Л. П.
+rubric: smes
+page_first: 36
+page_last: 36
+page_labels: "34"
+tag: JOD8
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: b76fa6c6185e31995919420086062cb69b99d97208ac5bb2110c0b457f916f50
+prompt_sha256: draft-1
+translated_from: content/ru/1977/02/articles/12_mochalov-golovolomki-e835b316.md
+source_content_sha256: eb36daca85161dc3842332f6d31a485aa825b7817abd1df0148c18db339fcaf6
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 34⟧
+
+Cơm. 8.
+
+hai $|OQ^*| \leq |OP^*|$, mở $|OQ'| \leq |OP'|$, $|OQ| \leq |OP|$, và cái đã cho được giải. Vì vậy, hãy chứng minh rằng $|OQ^*| \leq |OP^*|$. Đặt $|OP_1^*| \leq |OP_2^*|$ (Hình 8, a). Chúng ta tiếp tục đoạn $P_1'P_1^*$, vuông góc với đoạn $OP_1^*$, cho đến khi nó cắt các tia $OQ'$ và $OP_2'$ tại các điểm $A$ và $B$ (trường hợp $|OP_1^*| > |OP_2^*|$ được thể hiện trên Hình 8, b). Lưu ý rằng $|P_1'A| : |AB| = \mu:\lambda$. Chúng ta hãy vẽ qua điểm $A$ một đường thẳng song song với $OP_2'$ (nếu $|OP_1^*| > |OP_2^*|$ thì một đường thẳng song song với $OP_1'$); nó sẽ cắt đoạn $P_1'P_2'$ tại điểm $R$, thuộc đoạn $Q'P_2'$ và $|P_1'R| : |RP_2'| = \mu:\lambda$, do đó, để chiếu $R^*$ lên đường màu đỏ sẽ có $|OR^*| = \lambda |OP_1^*| + \mu |OP_2^*|$ và $|OR^*| \geq |OQ^*|$, tiết lộ rằng $|OQ^*| \leq |OP^*|$.
+
+Văn học
+
+1. Bách khoa toàn thư về toán tiểu học (EEM), quyển 5 - hình học, M., "Nauka", 1966.
+2. V. Blaschke, Krue i shar, M., “Khoa học”, 1967.
+3. L. A. Lyusternik, số liệu và đa tạp Vipuclice, M., “Khoa học”, 1966.
+4. I. M. Yaglom, V. G. Boltyansky, các nhân vật Vipuklitsa, M., “Khoa học”, 1951.
+5. I. M. Yaglom, Bài toán mười ba quả bóng, Kyiv, “Trường học Vishcha”, 1975.
+
+sự di chuyển của ngựa
+
+Quân mã đi vòng quanh bàn cờ và trở về ô vuông ban đầu. Khôi phục toàn bộ tuyến đường nếu chỉ biết số lượng mười sáu ô vuông của bàn cờ (theo thứ tự hiệp sĩ đi qua chúng).
+
+Hình vuông chính xác
+
+“Anh ấy vẫn sai.”
+
+Cụm từ này đã trở thành chủ đề suy nghĩ sâu sắc của một người yêu câu đố: liệu có thể thay thế các chữ cái trong đó bằng các số (giống - giống, khác - khác) để mỗi từ trở thành bình phương của một số tự nhiên nhất định?
+
+Tuy nhiên, lời giải người Nhật hiện tại bài toán cần sự giúp đỡ của bạn.
+
+L. Mochalov

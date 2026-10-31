@@ -1,0 +1,83 @@
+---
+id: 1977-8-shterenberg-zadachi-poslednie-tsifryi-6c433d82
+issue: kvant_1977_8
+year: 1977
+number: "8"
+title: Bài toán "Chữ số cuối cùng"
+authors:
+  - Штеренберг М.
+rubric: smes
+page_first: 28
+page_last: 28
+page_labels: "26"
+tag: CW3A
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: fdb3d25ecc9fd987b3d4d88cfd10c0722e8693d7261aa2e0b98c3a2edbed8ade
+prompt_sha256: draft-1
+translated_from: content/ru/1977/08/articles/07_shterenberg-zadachi-poslednie-tsifryi-6c433d82.md
+source_content_sha256: 1be7410f508e178ca25287ce98fcfaa36dccb986e24358f82ca55771fecd8fa6
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 26⟧
+
+Do đó, đồ thị của phương trình (10) là một hình elip và thu được từ hình elip mà chúng ta tìm được bằng cách dịch $\vec{r}(-1; 2)$ rồi quay $R_0^{-30^\circ}$.
+
+Vì vậy, nếu $A \neq 0$ và $B \neq 0$, thì chúng ta có thể loại bỏ các số hạng $Dx$ và $Ey$. Nếu $A=0$ (hoặc $C=0$), thì số hạng $Dx$ (hoặc $Ey$) vẫn giữ nguyên, nhưng sau đó nếu $D \neq 0$ (hoặc $E \neq 0$), thì $F$ có thể bị hủy bằng cách chuyển $\vec{r}\left(\frac{F}{D}; 0\right)$ (hoặc $\vec{r}\left(0; \frac{F}{E}\right)$).
+
+Như vậy, chúng ta đã học được các tính chất của phương trình $f(x, y)=0$ bậc hai đối với một trong các loại sau:
+
+| dạng phương trình (9) | kết quả chuyển nhượng |
+| :--- | :--- |
+| $A \neq 0, B \neq 0$ | $Ax^2 + By^2 + F = 0$ |
+| $A \neq 0, B=0, E \neq 0$ | $Ax^2 + Ey = 0$ |
+| $A \neq 0, B=0, E=0$ | $Ax^2 + F = 0$ |
+| $A=0, B \neq 0, D \neq 0$ | $By^2 + Dx = 0$ |
+| $A=0, B \neq 0, D=0$ | $By^2 + F = 0$ |
+
+Và chúng tôi đã phân tích tất cả các phương trình viết bên phải - đây là những trường hợp một phần của phương trình (1) (công thức (2) - (4)). Như vậy, chúng ta đã giải được bài toán đã cho.
+
+Cũng lưu ý rằng phương trình (26) có thể được rút gọn thành dạng (2a) và phương trình (46) thành dạng (4a). Để làm được điều này, cần thực hiện phép quay $R_0^{90^\circ}$, trong đó đồ thị của phương trình $f(x, y)=0$ hiển thị trong đồ thị của phương trình $f(y, -x)=0$. Hãy thử chứng minh điều này và giải các câu sau bài toán.
+
+Trận chiến
+
+Vẽ đồ thị các phương trình sau:
+
+1. $5x^2 + 8xy + 5y^2 - 18x - 18y + 9 = 0$;
+2. $4x^2 - 4xy + y^2 - 16x + 6y + 22 = 0$;
+3. $x^2 - 4xy + y^2 + 4\sqrt{2}x -$
+$-2\sqrt{2}y + 11 = 0$.
+
+Nhiệm vụ "Những con số cuối cùng"
+
+1. Giả sử số $a$ không chia hết cho 2 hay 5.
+Chứng minh rằng khi số $A=a^{5 \cdot 10^{n-2}}$ lũy thừa tự nhiên thì các chữ số cuối cùng của $n$ không thay đổi ($n \geq 4, a \in \mathbb{N}$).
+2. Cho số $b$ không chia hết cho 2 mà chia hết cho 5.
+a) Chứng minh rằng khi số $B=b^{2^{n-1}}$ ($n \in \mathbb{N}$) lũy thừa tự nhiên thì chữ số cuối $n$ của nó không thay đổi.
+6) Đặt $r, q, n \in \mathbb{N}$, $r \geq n$. Chứng minh rằng các chữ số cuối cùng của $n$ của biểu thức $b^{2^{n-1}q+r}$ và $b^r$ lần lượt bằng nhau.
+3. Cho số $c$ chia hết cho 2 nhưng không chia hết cho 5.
+a) Chứng minh rằng khi số $C=c^{4 \cdot 5^{n-1}}$ lũy thừa tự nhiên thì các chữ số cuối cùng của $n$ không thay đổi.
+
+6) Đặt $r, q, n \in \mathbb{N}$, $r \geq n$. Chứng minh rằng các chữ số cuối cùng của $n$ của biểu thức $c^{4 \cdot 5^{n-1}q+r}$ và $b^r$ lần lượt bằng nhau.
+4. Hãy để $m \in \mathbb{N}$. Chứng minh rằng khi số $M=m^{10^{n+1}}$ lũy thừa tự nhiên thì các chữ số cuối cùng của $n$ không thay đổi.
+5. Tìm ba chữ số cuối của biểu thức $3^{105}+4^{105}$.
+6. Chứng minh rằng hiệu $3^{999}-2^{999}$ hóa ra là các chữ số 1979.
+7. Chứng minh rằng nếu biểu thức
+$$11^{10^8} - 6^{5^3}$$
+cân bằng bất kỳ sức mạnh tự nhiên nào thì hơn 200.000 chữ số cuối cùng của nó sẽ không thay đổi.
+8. Chứng minh rằng với mọi số tự nhiên $n$ thì hiệu
+$$n^{n^n}-n^{n^n}$$
+chia thành một trăm.
+
+9. Tìm bảy chữ số cuối
+$$9999^{999}999$$
+
+10. Trong cuốn sách “Tiểu thuyết toán học” của M. Gardner (M., “Mir”, 1974) ở trang 349 có 3376 chữ số của số Mersen thứ hai mươi ba $2^{11213}-1$, được in bằng máy tính của Đại học Shita Ilinois. Cuốn sách cho biết: “Khoa toán của trường đại học rất tự hào về ngày khai trương vào ngày 23 của Mersen đến mức họ đã dán một con tem đặc biệt lên phong bì”. Tuy nhiên, chữ số thứ tư từ cuối là không chính xác. Chứng minh rằng số này phải là 2191 chứ không phải 8191.
+
+Hơn nữa, chúng còn được liên kết với các số automata (xem «Kvant», 1971, Số 10, trang 39; 1973, Số 1, trang 33 và 1973, Số 7, trang 55).
+
+M. Stereber
