@@ -7,13 +7,13 @@ title: Как определить объём кита, плавающего у 
 rubric: kvant-ulybaetsya
 rubric_sub: «Квант» улыбается
 page_first: 63
-page_last: 66
+page_last: 67
 page_labels: 62-64
 tag: 5FLW
 lang: ru
 source: kvant_digital
 extraction: vision
-content_sha256: 7827c9a4e6babe6ece89752af52728ce4a5907725af77c97d3cad297eefb9cef
+content_sha256: 87acb174c8b586aad3b72ac35f3ee55a111e1d11887e53e8122a88c685edb650
 ---
 
 ⟦folio none⟧
@@ -169,3 +169,9 @@ $$\Sigma(a^2) = 1 \ 4 \ 9 \ 7 \ 7 \ 9 \ 13 \ 10 \ 9.$$
 по делам издаательств, полигraphии
 и книжной торговли
 г. Чехов Московской области
+
+⟦folio none⟧
+
+Шахматная страница
+
+Консультирует — чемпрон мира по шахматам, международный гроссейстер А. Карпов. Ведет страничку мастер спорта СССР по шахматам, кандидат технических наук Е. Гик.

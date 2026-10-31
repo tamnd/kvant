@@ -14,14 +14,10 @@ tag: ZZBY
 lang: ru
 source: kvant_digital
 extraction: vision
-content_sha256: 3d9849db89f17ea3a8e35e138122199f0db6a025cdd1edc21ffdb35017a75bad
+content_sha256: cb9415ee92c690ea9c91fa19b589d32a467359d97e414185be700fff9a1fac1a
 ---
 
 ⟦folio none⟧
-
-Шахматная страница
-
-Консультирует — чемпином мира по шахматам, международный гроссейстер А. Карпов. Ведет страничку мастер спорта СССР по шахматам, кандидат технических наук Е. Гик.
 
 ФИГУРЫ В БЕЗОПАСНОСТИ
 

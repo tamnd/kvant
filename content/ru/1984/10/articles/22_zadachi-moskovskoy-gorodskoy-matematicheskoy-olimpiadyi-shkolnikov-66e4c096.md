@@ -7,13 +7,13 @@ title: Задачи Московской городской математиче
 rubric: olimpiady
 rubric_sub: Олимпиады
 page_first: 62
-page_last: 66
+page_last: 67
 page_labels: 60, 61, 64
 tag: 9FAS
 lang: ru
 source: kvant_digital
 extraction: vision
-content_sha256: b472a946b529ffa86784c33304ba18ebe60e2e53d91c8793f79d20aec38bae89
+content_sha256: d88ee8918a413d89216d1e0689f19f358be2dc9ea7d3464eabfd97849a493dab
 ---
 
 ⟦folio 60⟧
@@ -222,3 +222,9 @@ $$\begin{cases} x+y=35, \\ y=2(x-y-x). \end{cases}$$
 3. Самые нижние части закрани (реборд) колес движутся в направлении, противоположном направлению движения.
 
 64
+
+⟦folio none⟧
+
+Шахматная страница
+
+Консультирует — чемппон мира по шахматам, международный гроссейстер А. Е. Карпов. Введет страничку мастер спорта СССР по шахматам, кандидат технических наук Е. Я. Гик.

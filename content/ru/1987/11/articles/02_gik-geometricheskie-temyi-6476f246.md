@@ -14,12 +14,10 @@ tag: AWAH
 lang: ru
 source: kvant_digital
 extraction: vision
-content_sha256: 96609ddced3e0d0b30c98fa1408ef270078339218a11c7f2a5a1c9a0c2f86175
+content_sha256: ac21a11f77cb9994df4244cd3f822a8d6dd10befeaf7cc22f44a293acb5248ce
 ---
 
 ⟦folio 22⟧
-
-Консультирует — экс-чемпион мира по шахматам, международный гроссейстер А. Е. Карпов. Ведет страничку мастер спорта СССР по шахматам, кандидат технических наук Е. Я. Гик.
 
 ГЕОМЕТРИЧЕСКИЕ ТЕМЫ
 

@@ -13,17 +13,10 @@ tag: XRX0
 lang: ru
 source: kvant_digital
 extraction: vision
-content_sha256: 8bde206049c9004dd59c61b05652845a8f496ebd7e15f3869001d0fbefc885a1
+content_sha256: 9505ee1a3d9367d81a0a07e7129484b76fe4d72c8d8eb561936e8ad711c6adb7
 ---
 
 ⟦folio none⟧
-
-УГОЛОК
-КОЛЛЕКЦИОНЕРА
-
-МЕЖЛЛАНЕТНАЯ АВТОМАТИЧЕСКАЯ СТАНДИЦИЯ·МАРС-Р-IXI-1962
-10 коп.
-СССР ПОЧТА
 
 ПЕРВАЯ РАКЕТА К МАРСУ
 

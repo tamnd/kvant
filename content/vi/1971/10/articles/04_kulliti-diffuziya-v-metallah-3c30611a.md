@@ -8,16 +8,16 @@ authors:
   - Куллити Б.
 rubric: osnovnye-stati
 page_first: 12
-page_last: 16
-page_labels: 10-14
+page_last: 17
+page_labels: 10-15
 tag: CA5M
 lang: vi
 source: kvant_digital
 extraction: vision
-content_sha256: 28b894f4887e5464805937bd5801a6480c80a75a5d3afad214011c78aca68e50
+content_sha256: 613de109886a030bb41d2b3514757b730fbe37d2e0ca99576f633a6a3d682fe0
 prompt_sha256: draft-1
 translated_from: content/ru/1971/10/articles/04_kulliti-diffuziya-v-metallah-3c30611a.md
-source_content_sha256: 7feb72df7dceeff23b406b6c5e74287a6af28365d34c4503cbb13b037d2a0fdd
+source_content_sha256: 864f60428896dbdb05a5d8e5c40fc613f40e33dd8ef1d12979093f8170bd14af
 translation_model: draft
 translation_run: vi-draft-2026-10-31
 translation_quality: draft
@@ -80,3 +80,15 @@ Cơm. 3. Sự khuếch tán cacbon trong sắt không phụ thuộc vào sự c�
 Cơm. 4. Sự cứng lại bề mặt của thép xảy ra do sự khuếch tán cụ thể của các nguyên tử carbon vào nó. Phần giữa của hình vẽ là một bức ảnh vi mô hoặc cấu trúc về sự phân bố cacbon trong một miếng thép có bề mặt tiếp xúc với hydrocarbon. Đường cong trên cùng biểu thị phần trăm cacbon theo khoảng cách đến bề mặt của miếng thép. Đường cong phía dưới đặc trưng cho cường độ của thép ở các phần khác nhau của chi tiết.
 
 Cơm. 4. Sự cứng lại bề mặt của thép xảy ra do sự khuếch tán cụ thể của các nguyên tử carbon vào nó. Phần giữa của hình vẽ là một bức ảnh vi mô hoặc cấu trúc về sự phân bố cacbon trong một miếng thép có bề mặt tiếp xúc với hydrocarbon. Đường cong trên cùng biểu thị phần trăm cacbon theo khoảng cách đến bề mặt của miếng thép. Đường cong phía dưới đặc trưng cho cường độ của thép ở các phần khác nhau của chi tiết.
+
+⟦folio 15⟧
+
+như một lỗi thử nghiệm. Để thuyết phục những người nghi ngờ, Kirkendile, cộng tác với A. Smigelax, đã tiến hành một loạt thí nghiệm mới. Họ chỉ phủ một lớp đồng lên các mặt đối diện của gốc đồng thau, và giữa đồng và đồng thau ở cả hai mặt của gốc đồng thau, họ đặt dây molypden để cố định ranh giới giữa đồng và đồng thau. Sau đó, mẫu được đun nóng đến nhiệt độ cao. Nếu các nguyên tử đồng đi vào thanh đồng nhanh như khi các nguyên tử kẽm thoát ra khỏi nó thì kích thước ban đầu của thanh đồng sẽ không thay đổi. Điều này sẽ được biểu thị bằng vị trí đứng yên của dây molypden. Nhưng trên thực tế, sợi dây molypden đã dịch chuyển, và sự lệch vị trí của nó cho thấy thanh đồng đã co lại; nghĩa là các nguyên tử kẽm thoát ra khỏi gốc cây nhanh hơn các nguyên tử đồng đi vào. Dưới kính hiển vi, có thể làm phẳng các lỗ chân lông khá lớn hình thành trên bề mặt do xuất hiện một số lượng lớn các chỗ trống phát sinh nơi các nguyên tử kẽm nhanh chóng thoát ra khỏi lỗ chân lông.
+
+Những kết quả này được công bố vào năm 1947, và cái mà ngày nay được gọi là “hiệu ứng Kirkendyle” đã tạo ra một chấn động thực sự đối với các nhà luyện kim và tất cả các nhà nghiên cứu nghiên cứu tính chất của chất rắn.
+
+Các thí nghiệm cũ đã được thử nghiệm và những thí nghiệm mới được thực hiện.
+
+Vì hiệu ứng Kirkendile được phát hiện ngay lập tức trong nhiều hợp kim nên không còn nghi ngờ gì nữa là nó thực sự tồn tại.
+
+Không còn nghi ngờ gì nữa, việc nghiên cứu hiện tượng khuếch tán sẽ giúp chúng ta hiểu sâu hơn về các tính chất của chất rắn và tất cả các quá trình kỹ thuật trong đó khuếch tán đóng vai trò chính.

@@ -14,39 +14,10 @@ tag: JNSE
 lang: ru
 source: kvant_digital
 extraction: vision
-content_sha256: 342afcdc2785968e4f0f58b324892fa1a47231fc9761d1be98d61e476493363c
+content_sha256: 100279dae639ad169cd35990a99d48b773755a8af4358fb419a61bb098682803
 ---
 
 ⟦folio none⟧
-
-УГОЛОК
-
-ПЕРВАЯ В МИРЕ
-ЖЕНЩИНА-КОСМОНАВТ
-ВАЛЕНТИНА
-ТЕРЕШКОВА
-
-КОЛЛЕКЦИОНЕРА
-
-1Q ПОЧТА СССР
-
-СUBA-CORREOS 1972 3
-
-VALENTINA PESHKOVA PRIMERA MUJER COSMONA TA JUNIU 1963
-
-DM 5.00
-
-DDR
-
-20
-
-КОСМЧЕСКИЙ КОВАБАЛ
-ВОСТОКОБ
-18-VI-1963
-
-DDR
-
-10
 
 МАРКИ, ПОСВЯЩЕННЫЕ
 ПЕРВОЙ ЖЕНЩИНЕ-КОСМОНАВТУ

@@ -7,16 +7,16 @@ title: Lời giải bài toán M70—M73; F79—F82
 rubric: zadachnik-kvanta
 rubric_sub: Задачник «Кванта»
 page_first: 28
-page_last: 35
-page_labels: 26-33
+page_last: 36
+page_labels: 26-34
 tag: AZFB
 lang: vi
 source: kvant_digital
 extraction: vision
-content_sha256: ac00c61ecd9d70884ef40663ef067ac54971b9ea3412c02df24717b8f24e5421
+content_sha256: 77d97f750e51867e952070e58a7d4c5fdb2594d4c79938a8d97d9cafc701b567
 prompt_sha256: draft-1
 translated_from: content/ru/1971/11/articles/08_resheniya-291918e0.md
-source_content_sha256: bf8e615cab5f9cdfc2da0f78d06ebf0766136e2ba0dd1c96bec7ebe01a78d8b6
+source_content_sha256: 80e96e1f08f3a4f0944de1269a59fe58d575212f36a9a6fca2c527936bf59ce8
 translation_model: draft
 translation_run: vi-draft-2026-10-31
 translation_quality: draft
@@ -345,3 +345,39 @@ $$v = \frac{v_0 (1 - \cos \beta)}{2} = v_0 \sin^2 \frac{\beta}{2}.$$
 lời giải chính xác được gửi bởi P. Belykov (Moscow).
 
 B. B. Bukhovtsev
+
+⟦folio 34⟧
+
+F81
+
+Hiện nay, các cuộn dây điện từ có cuộn dây siêu dẫn được sử dụng. Những cuộn dây điện từ như vậy có thể tạo ra từ trường trong thời gian dài mà không tiêu tốn năng lượng. Tuy nhiên, nếu bất kỳ phần nào của cuộn dây mất đi đặc tính siêu dẫn thì sẽ xảy ra tai nạn. Ở khu vực này, nhiều colic Tella sẽ được giải phóng và một vụ nổ sẽ xảy ra.
+
+Hãy nghĩ ra thiết bị đơn giản nhất để ngăn ngừa những tai nạn như vậy.
+
+Sơ đồ có rơle không phù hợp - thời gian so sánh của chúng quá dài. Một vụ nổ sẽ xảy ra trước chuyến đi tiếp sức. Do đó, lối thoát duy nhất là làm đoản mạch nút điện từ tới điện trở. Đây là cách họ thường làm điều đó. Dây điện từ được gia cố bằng đồng. Nếu mất đi tính siêu dẫn, phần ứng sẽ đóng vai trò như một bộ đệm để dòng điện xuất hiện và sự giải phóng cơ thể sẽ được phân bổ khắp mạch điện.
+
+lời giải chính xác được gửi bởi S. Chernikov (Semipalatinsk). N. Efimov (Voronezh), V. Skvortsov (Leningrad).
+
+F82
+
+Tìm điều kiện để không có dòng điện chạy qua điện trở $r$ nối tại các điểm $A$ và $B$ của mạch điện như hình 12.
+
+Vì vậy, nó sẽ không vượt qua ngưỡng kháng cự $r$ nếu hiệu điện thế giữa các điểm $A$ và $B$ bằng không. Chúng ta coi thế năng của điểm $F$ bằng 0. thì thế năng của điểm $C$ bằng $E_1$, và thế năng của điểm $D$ bằng $E_2$. Dòng điện $I = \frac{E_1}{r_1 + r_3}$ chạy qua điện trở $r_1$,
+
+Cơm. 12.
+
+và do đó độ sụt điện áp trên điện trở $r_1$ bằng $U_1 = Ir_1 = E_1 \frac{r_1}{r_1 + r_3}$, và điện thế của điểm $A$ bằng
+
+$$\varphi_A = E_1 - E_1 \frac{r_1}{r_1 + r_3} = E_1 \frac{r_3}{r_1 + r_3}.$$
+
+Tương tự, ta tìm thế của điểm $B$:
+
+$$\varphi_B = E_2 \frac{r_4}{r_2 + r_4}.$$
+
+Từ điều kiện $\varphi_A = \varphi_B$ ta thu được
+
+$$E_1 \frac{r_3}{r_3 + r_1} = E_2 \frac{r_4}{r_2 + r_4}.$$
+
+Đây là điều kiện chung cho việc không có điểm xuyên qua lực cản $r$. Nó cũng bao gồm trường hợp rất đối xứng $r_1 = r_2$, $r_3 = r_1$ và $E_1 = E_2$.
+
+Tôi. Sh. Slobodetsky

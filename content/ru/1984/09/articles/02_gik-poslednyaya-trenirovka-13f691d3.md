@@ -14,14 +14,10 @@ tag: ALY5
 lang: ru
 source: kvant_digital
 extraction: vision
-content_sha256: 47131d6463a257b5ff30f7a044ad2ab6b05cd3ac7f15facf7d0d482c0e801f6b
+content_sha256: 47acc9bc9999c8c09613eac7d8ab0ebd87dba9564afe51f8e1796f3c058dd33b
 ---
 
 ⟦folio none⟧
-
-Шахматная страница
-
-Консультирует — чемпон мира по шахматам, международный гроссейстер А. Е. Карпов. Ведет страничку мастер спорта СССР по шахматам, кандит технических наук Е. Я. Гик.
 
 ПОСЛЕДНЯЯ ТРЕНИРОВКА
 

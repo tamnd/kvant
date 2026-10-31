@@ -10,13 +10,13 @@ authors:
 rubric: praktikum-abiturienta
 rubric_sub: Практикум абитуриента
 page_first: 57
-page_last: 66
+page_last: 67
 page_labels: 55, 59, 60, 61, 63, 64
 tag: HHSB
 lang: ru
 source: kvant_digital
 extraction: vision
-content_sha256: 2950b8262987af589ab2937f287b324253a0992902c0b38bedcc0f6ddfe1a824
+content_sha256: e61525f535a3f7d38d67a8fea805770dfdb3cace51e928dd78e81c989ee8a4aa
 ---
 
 ⟦folio 55⟧
@@ -391,3 +391,9 @@ Matematika
 Государственное комитета СССР
 по делам издательств, полиграфии и книжной торговли
 г. Чехов Московской области
+
+⟦folio none⟧
+
+Шахматная страница
+
+Консультирует — чемппон мира по шахматам, международный гроссейстер А. Карпов. Ведет страничку мастер спорта СССР по шахматам, кандидат технических наук Е. Гик.

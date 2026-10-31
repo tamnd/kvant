@@ -9,16 +9,16 @@ authors:
 rubric: raznoe
 rubric_sub: Разное
 page_first: 62
-page_last: 62
-page_labels: "60"
+page_last: 63
+page_labels: 60-61
 tag: OZRZ
 lang: vi
 source: kvant_digital
 extraction: vision
-content_sha256: 73f1968b54adca6222fe0ebe11ba2aa5b7e86b0e12a269db3bf41c9c066889ff
+content_sha256: 6cc741573ccf0d7c631897507e7155a346d1e53ace50b098f45aee3a9ea4c947
 prompt_sha256: 3ec6b8aabd9b98576af76503cd8a2902b9f5d18e01ee867dfb1228f59c6d52d8
 translated_from: content/ru/1971/07/articles/11_altyikis-marki-posvyaschennyie-marii-i-peru-kyuri-d90419a7.md
-source_content_sha256: 2b5dd12b25332317b73a3352b00970c067ab0be5d1b368bd73a4195e2ef48995
+source_content_sha256: 191fef9d4ccebb4893ade3d5be09353e132f6b5b1e131fa17b56a6f0a7b5730e
 translation_model: gpt-5.6-terra
 translation_run: vi-codex-2026-10-31
 ---
@@ -41,3 +41,15 @@ Vì những công trình của mình, có vai trò to lớn trong việc tạo r
 Con tem đầu tiên có chân dung Maria Curie được phát hành năm 1935 ở Thổ Nhĩ Kỳ. Năm 1938, nhân kỷ niệm 40 năm phát hiện những tem xuất sắc ở Pháp, các thuộc địa Pháp (21 nước), Afghanistan và Cuba, có hình Maria và Pierre Curie đang xem một ống nghiệm chứa radi do họ phát hiện (hình vẽ trên tất cả các tem đều giống nhau; trong ảnh là tem Pháp).
 
 Một con tem có chân dung Maria và Pierre Curie được Công quốc Monaco phát hành năm 1938. Chân dung Maria Curie cũng được in trên tem của Suriname (phát hành năm 1950). Nhiều tem kỷ niệm Maria Curie đã được phát hành tại quê hương bà, ở Ba Lan. Những con tem đầu tiên trong số đó có chân dung Maria Curie
+
+⟦folio 61⟧
+
+(1947) bạn thấy trên ảnh (con tem màu xanh lam cũng được đưa vào bộ tem dành cho những nhân vật xuất sắc của văn hóa Ba Lan). Các tem có chân dung Maria Curie cũng được phát hành ở Ba Lan vào các năm 1951, 1963 và 1967 (hai tem cuối được đưa trên ảnh). Ngoài ra, tại Ba Lan vào các năm 1955 và 1967 đã phát hành các tem có hình tượng đài Maria Curie ở Warszawa và một tem dành cho việc bà được trao giải Nobel vào các năm 1903 và 1911.
+
+Trên ảnh cũng có các tem chân dung Maria Curie, được phát hành tại Pháp và CHDC Đức nhân kỷ niệm 100 năm ngày sinh.
+
+Các tem dành cho Maria và Pierre Curie được phát hành ở Panama, và vào năm 1963 được phát hành ở Afghanistan. Năm 1956, nhân 50 năm ngày mất của Pierre Curie, tại Liên Xô và Bulgaria đã phát hành tem có chân dung ông. Trên ảnh cũng có tem Thụy Điển, phát hành năm 1963 và dành cho những người đoạt giải Nobel năm 1903 — Pierre và Maria Curie cùng Henri Becquerel.
+
+A. V. Almyks
+
+Phê bình. Thư mục

@@ -8,16 +8,16 @@ authors:
   - Эйнштейн А.
 rubric: osnovnye-stati
 page_first: 37
-page_last: 39
-page_labels: 35-37
+page_last: 40
+page_labels: 35-38
 tag: CMX0
 lang: vi
 source: kvant_digital
 extraction: vision
-content_sha256: 0a285938e387ed8e0ff1d03c71f05b797a1f1624e778bd7185f63cb4139b07ab
+content_sha256: 13adf39c483c1ad03c0536e680318efe6bd762e101234edb6a84fca94bbdd912
 prompt_sha256: 3ec6b8aabd9b98576af76503cd8a2902b9f5d18e01ee867dfb1228f59c6d52d8
 translated_from: content/ru/1970/05/articles/06_eynshteyn-elementarnaya-teoriya-poleta-i-voln-na-vode-6dcda7d4.md
-source_content_sha256: f5b9f207ba3f86f689550e1f10514474d43da459b03664040c1bd9636cc37312
+source_content_sha256: d895d4208973e26e191e83cee6a78668d521578ee159bec9be49881515549211
 translation_model: gpt-5-6-mini
 translation_run: m10-1970-vi
 ---
@@ -75,3 +75,11 @@ Nếu chúng ta thử mô tả toàn bộ quá trình từ quan điểm của m�
 Do đó, khả năng xuất hiện các quá trình tạo sóng dựa trên việc các chênh lệch áp suất tĩnh và động, xuất hiện giữa các điểm có độ cao khác nhau, triệt tiêu lẫn nhau.
 
 Hoàn toàn tương tự là cách giải thích các nguyên nhân dẫn đến sự xuất hiện lực nâng của cánh. Giả sử trong dòng chất lỏng hoặc không khí đặt một bức tường rắn, nằm song song với...
+
+⟦folio 38⟧
+
+và vuông góc với mặt phẳng bản vẽ (hình 5), trên mặt trên của nó có dạng một mặt phẳng. Nếu không có chỗ lồi này thì trên bề mặt thành, nếu không kể đến ma sát không thể tránh khỏi, sẽ không tác dụng lực nào. Nhưng chỗ lồi sẽ ảnh hưởng đến dòng chảy của chất lỏng cả ở mặt trên lẫn mặt dưới của thành, và do đó tạo ra áp suất phụ.
+
+Đối với dòng chảy bao quanh thành ở phía dưới, chỗ lồi tạo ra sự tăng cục bộ tiết diện ngang và do đó làm chậm dòng chảy; kết quả là áp suất tại điểm U tăng lên. Còn ở mặt trên, ngược lại, chỗ lồi có nghĩa là làm giảm tiết diện ngang, do đó làm tăng cục bộ vận tốc dòng chảy và vì thế làm giảm áp suất tại điểm O. Như vậy, các lực áp suất động do dòng chảy gây ra tạo nên một lực tác dụng lên thành và hướng lên trên. Rõ ràng, để xuất hiện lực này chỉ cần miếng thành đủ lớn đến mức cần thiết để làm cong dòng chất lỏng một cách đáng kể. Ta thu được một cánh máy bay hoặc cánh chim không tồn tại (của một con chim không vỗ cánh khi bay).
+
+Ngay từ những lập luận đơn giản nhất này có thể thấy rằng để bay chỉ cần một công suất nhất định, vì cần phải thắng lực cản của ma sát không thể tránh khỏi. Nếu không có ma sát, chim có thể bay những khoảng cách tùy ý theo phương ngang mà không tiêu tốn bất kỳ công nào.

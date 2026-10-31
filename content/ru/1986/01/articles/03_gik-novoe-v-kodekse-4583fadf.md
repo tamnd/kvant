@@ -14,14 +14,10 @@ tag: J3QP
 lang: ru
 source: kvant_digital
 extraction: vision
-content_sha256: 522d60c4f0c8dfb66ce49fe60c8f64fd62657043cfbcb2f2acbb1dfc16244a6b
+content_sha256: 9d4927c97d7d4eaf07f532f8765182b807628d30a36370d9f99d6d109d6aa22f
 ---
 
 ⟦folio none⟧
-
-Шахматная страница
-
-Консультурет — экс-чемпilon мира по шахматам, международный гроссейстер А. Е. Карпов. Ведет страничку мастер спорта СССР по шахматам, кандидат технических наук Е. Я. Гик.
 
 НОВОЕ В КОДЕКСЕ
 

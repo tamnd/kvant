@@ -9,13 +9,13 @@ authors:
 rubric: retsenzii-bibliografiya
 rubric_sub: Рецензии, библиография
 page_first: 60
-page_last: 66
+page_last: 67
 page_labels: 58, 60, 61, 62, 63, 64
 tag: N5QC
 lang: ru
 source: kvant_digital
 extraction: vision
-content_sha256: 1055baea7897c21813834f93385abd87a3070ad8c62910bb2236d74021c1000b
+content_sha256: 6db11923a70f8c2240a0673385942c0c5f2d4b06eefcfbd1629ab31b8dd09eff
 ---
 
 ⟦folio 58⟧
@@ -383,3 +383,9 @@ $$2S_q = C_q^{q-1} p^q + \sum_{j=1}^{q-1} (-1)^j C_q^{q-i-j} p^{q-j} S_j,$$
 Задание 1. 1. Ла2! b4 2. Ла5! d4 3. Крd7! Кр:f6 4. С:d4×.
 
 Задание 2. 1. e8С! Кр:d6 2. c8Л! Кр6 3. Лlc6 × (1...Кр:f6 2. g8Л! Кр6 3. Лg6×).
+
+⟦folio none⟧
+
+Шахматная страница
+
+Консультирует — чемппон мира по шахматам международный гроссейстер А. Карпов. Ведет страничку мастер спорта СССР по шахматам, кандидат технических наук Е. Гик.

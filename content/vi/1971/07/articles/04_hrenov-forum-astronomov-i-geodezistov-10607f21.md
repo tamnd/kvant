@@ -14,21 +14,15 @@ tag: G5NP
 lang: vi
 source: kvant_digital
 extraction: vision
-content_sha256: 45f161e13a78db5230c52fc7e27e0e8ddba5db50b07d06a46a8924005d622bda
+content_sha256: 05f84a88c6ec1641e06f014339fb48d97cd09870b723a039ed73be8b36164f96
 prompt_sha256: 3ec6b8aabd9b98576af76503cd8a2902b9f5d18e01ee867dfb1228f59c6d52d8
 translated_from: content/ru/1971/07/articles/04_hrenov-forum-astronomov-i-geodezistov-10607f21.md
-source_content_sha256: 08a908ec10de72a46e4bb021bf9216435b12e7bc24bab5e20d39bd9779231cc1
+source_content_sha256: 8a67e13f5175c3b638bb9af5baa50e6148e43161ed391e0fcff7f3b9f68821a7
 translation_model: gpt-5.6-terra
 translation_run: vi-codex-2026-10-31
 ---
 
 ⟦folio 16⟧
-
-của động cơ ô tô hoặc máy bay, dùng để bảo đảm chuyển động trong môi trường có lực cản.
-
-Trong trường hợp sau, chính công suất của động cơ là đặc trưng quan trọng nhất của nó, vì động cơ càng mạnh thì nó càng có thể duy trì tốc độ chuyển động lớn hơn của vật thể đã cho, bảo đảm sự phù hợp với lực cản ngày càng tăng của môi trường, tức là bù đắp tổn thất năng lượng để thắng lực cản của môi trường.
-
-Trong quá trình tên lửa bay với động cơ đang hoạt động, động năng tương đối (động năng trên một đơn vị khối lượng) của phần tên lửa còn lại liên tục tăng cùng với tốc độ (hiệu quả của quá trình này được đặc trưng bởi hiệu suất bay theo định nghĩa thứ nhất), mặc dù động năng của tên lửa với lượng nhiên liệu mới (còn lại) ở tốc độ $v > 2u$ nhỏ hơn động năng của tên lửa có nhiên liệu trước khi khối khí bị phun ra rời khỏi tên lửa.
 
 DIỄN ĐÀN CÁC NHÀ THIÊN VĂN VÀ TRẮC ĐỊA
 

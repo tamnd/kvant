@@ -14,28 +14,10 @@ tag: VK2R
 lang: ru
 source: kvant_digital
 extraction: vision
-content_sha256: 7baeadc3371c2aa888179d8cddf28ed7abda07b35e49b433dc14281126bf1903
+content_sha256: f44e7a19d902ce4df9b05269e1862d509cde20875dde66c9b16927ec7a12b86e
 ---
 
 ⟦folio none⟧
-
-Уголок коллекционера
-
-ПОБЕДА В ВЕЛИКОЙ ОТЕЧЕСТВЕННОЙ
-50
-героичных
-милы
-ПОЧТА
-СССР
-4
-ХУД. КОК КОРОЛЕН (1965)
-
-НАРОДУ ARMИЯ
-НЕПОБЕДИМЫ!
-12к
-1945
-1965
-ПОЧТА СССР
 
 МАРКИ, ПОСВЯЩЕННЫЕ
 ДНЮ ПОБЕДЫ

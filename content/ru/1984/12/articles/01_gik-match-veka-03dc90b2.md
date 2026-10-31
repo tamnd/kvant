@@ -14,14 +14,10 @@ tag: G4Y2
 lang: ru
 source: kvant_digital
 extraction: vision
-content_sha256: a05b9bd0d1417de3f9e57244ab2b0658fe43de132aacea7c92c7d29a4778402f
+content_sha256: fa9df0bdfc9ff4f509394cb48c4a2bfc884ec2c844835e0b12d51d3f7d4729ed
 ---
 
 ⟦folio none⟧
-
-Шахматная страница
-
-Консультурет — чемпilon мира по шахматам, международный гроссмейстер А. Е. Карпов. Ведет страничку мастер спорта СССР по шахматам, кандидат технических наук Е. Я. Гик.
 
 МАТЧ ВЕКА
 

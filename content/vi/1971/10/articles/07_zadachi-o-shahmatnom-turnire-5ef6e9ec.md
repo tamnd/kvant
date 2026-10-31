@@ -12,22 +12,16 @@ tag: OUQN
 lang: vi
 source: kvant_digital
 extraction: vision
-content_sha256: a02e4829487325924deba026cfe264a3113acc019ce42af72de690b017ea6ba8
+content_sha256: 2311d36199b3bc0bd018dabf9e68c0b48ed37e2e4b751fe37a4b94cae9c5c94c
 prompt_sha256: draft-1
 translated_from: content/ru/1971/10/articles/07_zadachi-o-shahmatnom-turnire-5ef6e9ec.md
-source_content_sha256: 931cedbe9a4ca1a3ce895fc0daa9d20b91ae5c7feda499e520ab1b1180f50348
+source_content_sha256: 2c7cc765494534cbc221662ba1345661c27104aa81dfc94365ac7eb9cac99ec8
 translation_model: draft
 translation_run: vi-draft-2026-10-31
 translation_quality: draft
 ---
 
 ⟦folio 25⟧
-
-Cơm. 10.
-
-Bạn có thể tiến hành một thử nghiệm thú vị với đầu của Thomson. Nếu bạn chạy phần trên trên bề mặt được phủ một lớp bột mỏng, lớp bột sẽ để lại dấu vết trên bề mặt phần trên - quỹ đạo của điểm tiếp xúc của phần trên với mặt phẳng. Dấu vết này được thể hiện trong Hình 10. Đường trên cùng xoắn lại thành hình xoắn ốc, nhưng tại đường xích đạo của quả bóng trên cùng, nó bắt đầu quay theo hướng ngược lại. Tại sao điều này lại xảy ra? Định luật bảo toàn xung lượng góc yêu cầu mặt trên quay cùng chiều, cả ở vị trí ban đầu và vị trí ngược chiều của nó. Chúng ta hãy khởi động phần trên theo chiều kim đồng hồ (nếu bạn nhìn từ trên xuống). Nếu mặt trên quay không ngừng quanh trục của nó thì ở trạng thái đảo ngược, nó sẽ quay ngược chiều kim đồng hồ. Do đó, để thỏa mãn định luật bảo toàn mômen động lượng, đỉnh tại một thời điểm nào đó phải ngừng quay quanh trục của nó, đi qua chân của nó rồi bắt đầu quay theo hướng ngược lại. Đánh giá theo Hình 10, đây là điều xảy ra tại thời điểm đỉnh nằm nghiêng.
-
-Đối với việc tính toán kích thước của đỉnh, nó có thể là bất cứ thứ gì, nhưng sao cho khối tâm của nó không trùng với tâm hình học của hình cầu mà nó được tạo ra.
 
 NHIỆM VỤ
 GIỚI THIỆU VỀ CỜ VƯƠNG

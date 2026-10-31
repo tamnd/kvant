@@ -14,14 +14,10 @@ tag: 6BDJ
 lang: ru
 source: kvant_digital
 extraction: vision
-content_sha256: af63e4514a5d8cfbcf623275db5d2c44ecf833be7c53cd69e90c4ca3c8c3e9fb
+content_sha256: f2092be4b077c9d32bffb460a00a626e9118914c067399cb02d76808569fe840
 ---
 
 ⟦folio none⟧
-
-Шахматная страница
-
-Консультирует — чемппон мира по шахматам международный гроссейстер А. Карпов. Ведет страничку мастер спорта СССР по шахматам, кандидат технических наук Е. Гик.
 
 ПАТОВЫЕ РЕКОРДЫ
 

@@ -11,13 +11,13 @@ authors:
 rubric: ekzamenatsionnye-materialy
 rubric_sub: Экзаменационные материалы
 page_first: 60
-page_last: 66
+page_last: 67
 page_labels: 58, 59, 61, 62, 63, 64
 tag: HVIZ
 lang: ru
 source: kvant_digital
 extraction: vision
-content_sha256: 48787221613f915aeac52accb4fe271f63ad02e25ccf0de65759b91a9a28fd6d
+content_sha256: 3de24197b6c5cdb1cc19852584fc5094791a322b1370196b4be272566538acac
 ---
 
 ⟦folio 58⟧
@@ -491,3 +491,9 @@ $$\{(a, b, c) : a + b + c = 0; ab + bc + ca \geq 0\} \equiv \{(a, b, c) : a + b 
 Государственное комитета СССР
 по делам издательств, полигraphии и книжной торговли
 142300 г. Чехов Московской области
+
+⟦folio none⟧
+
+Шахматная страница
+
+Консультирует — экс-чемппон мира по шахматам, международный гроссейстер А. Е. Карпов. Введет страничку мастер спорта СССР по шахматам, кандидат технических наук Е. Я. Гик.

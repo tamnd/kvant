@@ -9,13 +9,13 @@ authors:
 rubric: retsenzii-bibliografiya
 rubric_sub: Рецензии, библиография
 page_first: 76
-page_last: 77
+page_last: 78
 page_labels: 74-75
 tag: US23
 lang: ru
 source: kvant_digital
 extraction: vision
-content_sha256: 8be9f5bb961116f391fb75936843a889d6108a9d4d1ce453ad66af3d0c9bfe5b
+content_sha256: 581366f95788ce5d856df189ecc077232376ab01d39560d05475fbe5b5e882dd
 ---
 
 ⟦folio 74⟧
@@ -53,3 +53,11 @@ content_sha256: 8be9f5bb961116f391fb75936843a889d6108a9d4d1ce453ad66af3d0c9bfe5b
 Мы рекомендуем нашим читателем эту интерсную и полезную книгу.
 
 М. П. Шаскольская
+
+⟦folio none⟧
+
+УГОЛОК КОЛЛЕКЦИОНЕРА
+
+JAHRE DER RUHIGEN SONNE 1964/1965
+YEARS OF THE QUIET SUN 1964/1965
+ГОДЫ СПОКОЙНОГО СОЛНЦА 1964-1965 ГГ

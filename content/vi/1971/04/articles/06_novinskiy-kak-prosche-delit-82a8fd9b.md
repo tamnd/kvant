@@ -8,46 +8,21 @@ authors:
   - Новинский Г. Д.
 rubric: smes
 page_first: 22
-page_last: 30
-page_labels: 22, 25, 26, 28
+page_last: 31
+page_labels: 22, 25, 26, 28, 29
 tag: 396J
 lang: vi
 source: kvant_digital
 extraction: vision
-content_sha256: 2a34ad0706c9774c6e9b1490a1e310f5cd51e5fd0ace74829ba51655f4783136
+content_sha256: 97114e5d156eac9ac8ceacd2b501f5347fe5b0f575e81f50fe719e4ffb621aab
 prompt_sha256: 3ec6b8aabd9b98576af76503cd8a2902b9f5d18e01ee867dfb1228f59c6d52d8
 translated_from: content/ru/1971/04/articles/06_novinskiy-kak-prosche-delit-82a8fd9b.md
-source_content_sha256: f620c1c3b630df5c890e906bd57eb6fe04c7d610eb903bf84e8582b4a6dda757
+source_content_sha256: 5e4a85609e8485fe20ba3ad24ee4c90b3015d4d22983a418777240417de8e252
 translation_model: gpt-5.6-terra
 translation_run: vi-codex-2026-10-31
 ---
 
 ⟦folio none⟧
-
-2. Một sinh viên đến thi trước một máy khảo thí tự động. Trên màn hình của máy hiện ra năm câu hỏi, mỗi câu đều yêu cầu trả lời “có” hoặc “không”.
-Sau khi trả lời tất cả các câu hỏi (muốn vậy phải nhấn các nút tương ứng), máy, chấm mỗi câu trả lời đúng 1 điểm, sẽ cho điểm tổng kết của kỳ thi. Sinh viên đã đọc kỹ tất cả các câu hỏi và buồn bã buộc phải thừa nhận rằng mình không biết đáp án của bất kỳ câu nào.
-Toàn bộ kiến thức của anh ta chỉ gồm những điều sau:
-1) câu hỏi thứ nhất và cuối cùng đòi hỏi các câu trả lời trái ngược nhau;
-2) ngược lại, câu hỏi thứ hai và thứ tư phải có các câu trả lời giống nhau;
-3) nếu ít nhất một trong hai câu hỏi đầu đòi hỏi câu trả lời “có”, thì câu hỏi thứ năm đòi hỏi câu trả lời “không”.
-Ngoài ra, kinh nghiệm sinh viên mách bảo anh ta rằng số câu hỏi đòi hỏi trả lời “có” luôn nhiều hơn số câu hỏi đòi hỏi trả lời “không”.
-Tình hình thật ảm đạm. Nhưng sinh viên không tuyệt vọng. Anh ta biết môn này kém, nhưng lại rất giỏi giải các bài toán logic. Nhanh chóng làm vài tính toán trên một tờ giấy, anh ta vui mừng phát hiện rằng 4 điểm đã được đảm bảo, còn nếu may mắn, anh ta sẽ đạt đủ 5 điểm. Sinh viên đã làm những tính toán gì?
-3. Các nhà văn A, B, C, D viết dưới các bút danh X, Y, Z, W. Cần xác định mỗi nhà văn dùng chính xác bút danh nào, nếu biết rằng:
-1) nếu D không phải X, thì B là X;
-2) nếu B không phải X và không phải W, thì A là X;
-3) nếu C không phải W, thì B là Z;
-4) nếu D là Y, thì B không phải X;
-5) nếu A không phải X, thì C không phải Y.
-
-Để làm quen đầy đủ hơn với đại số mệnh đề, cũng có thể giới thiệu các tài liệu sau:
-
-Л. А. Калужин, Что такое математическая логика. M., “Nauka”, 1964, chương 1 và 2.
-И. М. Яглом, Необыкновенная алгебра. Loạt “Các bài giảng phổ thông về toán học”, M., “Nauka”, 1968.
-Р. Р. Столл, Множества, логика, аксиоматические теории. M., “Prosveshchenie”, 1968, chương 11, §§ 2.1—2.4.
-П. С. Новиков, Элементы математической логики. M., “Fizmatgiz”, 1959.
-А. Гжегорчик, Популярная логика. M., “Nauka”, 1965.
-А. Б. Трахтенброт, Алгоритмы и машинное решение задач. M., “Fizmatgiz”, 1960.
-Х. Фрейденталь, Язык логики. M., “Nauka”, 1969.
 
 CHIA THẾ NÀO DỄ HƠN?
 
@@ -168,3 +143,37 @@ Hình 12.
 Vào đầu trên của ống nhô ra khỏi nước, người ta lắp một ống tay bằng quả cầu cao su, nhờ đó có thể bơm không khí vào ống và đẩy nước ra khỏi nó. Bóp nhanh quả cầu, ta đẩy một cột nước ra khỏi đoạn ống nằm ngang và làm điều đó sao cho không khí gần chạm tới đầu dưới của ống, nhưng không thoát ra khỏi đó với số lượng lớn. Cột nước, thoát vào chất lỏng xung quanh đứng yên, cuộn thành một vòng xoáy. Đồng thời cùng với nước sẽ bị đẩy ra vài bọt khí, và vòng xoáy sẽ thấy rõ: nó sẽ được tạo thành như từ những hạt ngọc trai lấp lánh. Chạy dọc theo cả bể, vòng xoáy đập vào thành đối diện và ở đây, nở rộng ra, biến mất.
 
 Với dụng cụ của chúng ta, ta có thể biểu diễn rõ ràng sự phản xạ của các vòng xoáy từ mặt thoáng của nước. Muốn vậy chỉ cần xoay ống sao cho đầu dưới của nó hướng hơi lên trên. Vòng xoáy, chạy đến mặt thoáng của chất lỏng, bị nó phản-
+
+⟦folio 29⟧
+
+giảm, hơn nữa góc tới bằng góc phản xạ.
+
+Vì các chất lỏng thực có độ nhớt và cọ xát vào thành các bình chứa mà chúng chuyển động trong đó, nên trong quá trình chuyển động chúng luôn luôn được lấp đầy bởi các ống xoáy. Helmholtz đã chỉ ra rằng khối chất lỏng trong mọi chuyển động tưởng tượng có thể được xem là được lấp đầy liên tục bởi các ống xoáy, và dùng làm phương tiện nghiên cứu chuyển động của các ống này.
+
+Những thông tin ngắn về các nhà khoa học được nhắc đến trong bài giảng của N. E. Zhukovsky.
+
+Euler là nhà toán học lớn nhất thế kỷ XVIII, viện sĩ Viện Hàn lâm Petersburg, một trong những người sáng lập cơ học giải tích. Laplace gọi Euler là cha đẻ của giải tích toán học hiện đại.
+
+Poinsot là nhà khoa học Pháp, nhà toán học và nhà cơ học. Năm 1834, ông đã tìm được lời giải hình học thanh nhã cho một số vấn đề của động lực học quay.
+
+Helmholtz là nhà vật lý và toán học Đức xuất sắc của thế kỷ XIX. Ông nổi tiếng, đặc biệt, nhờ các công trình về âm học (các bộ cộng hưởng Helmholtz) và về nhiệt động lực học. Ông cũng là người sáng lập lý thuyết xoáy.
+
+Cauchy là nhà khoa học Pháp cuối thế kỷ XVIII — nửa đầu thế kỷ XIX, người được coi là một trong những người sáng lập toán học hiện đại. Ông để lại hơn 800 chuyên khảo về những ngành rất khác nhau của toán học.
+
+Shvedov V. F. là giáo sư Đại học Odessa, chuyên gia nổi tiếng về thủy động lực học chất lỏng nhớt (nửa sau thế kỷ XIX).
+
+Teg là giáo sư vật lý ở Edinburgh (Anh, nửa sau thế kỷ XIX).
+
+Reynolds là giáo sư Trường Cao đẳng Owens ở Manchester (Anh, nửa sau thế kỷ XIX). Ông nổi tiếng nhờ các công trình về thủy động lực học.
+
+2. Cần chia 28 cho 59. 5+1=6.
+
+$$\frac{28}{24} \cdot \frac{6}{4} - \frac{44}{42} \cdot \frac{6}{7}$$
+
+$$\frac{27}{24} \cdot \frac{6}{4} - \frac{34}{30} \cdot \frac{6}{5}$$
+
+Vậy, $$\frac{28}{59} = 0.4745$$
+
+Cách chia này đơn giản hơn cách được chấp nhận rộng rãi và dễ thực hiện hơn. Nó được nhà toán học Đức G. Spitzer đề xuất năm 1847. Nhưng chẳng bao lâu người ta đã quên nó.
+
+G. D. Novinsky

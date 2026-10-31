@@ -14,26 +14,16 @@ tag: 47JO
 lang: vi
 source: kvant_digital
 extraction: vision
-content_sha256: 4c7e6e1759b1f44b51bfc4dd1f6bc6567ee9d4027febe54b7ac693e955299765
+content_sha256: dd5428c962d892921dfa841a29413f3315b8182639d75311fc0ea27326bcc51e
 prompt_sha256: draft-1
 translated_from: content/ru/1971/10/articles/05_limanov-risunok-eshera-9fb95894.md
-source_content_sha256: a27eb6318b7575e9be0c272b2edf85dceba98d7d4ae9dfeef0fe23c7e726e140
+source_content_sha256: 74f4bd7c8b064765e644eb3aa438c10569d99dd8d3604923c74fa65ec1611667
 translation_model: draft
 translation_run: vi-draft-2026-10-31
 translation_quality: draft
 ---
 
 ⟦folio 15⟧
-
-như một lỗi thử nghiệm. Để thuyết phục những người nghi ngờ, Kirkendile, cộng tác với A. Smigelax, đã tiến hành một loạt thí nghiệm mới. Họ chỉ phủ một lớp đồng lên các mặt đối diện của gốc đồng thau, và giữa đồng và đồng thau ở cả hai mặt của gốc đồng thau, họ đặt dây molypden để cố định ranh giới giữa đồng và đồng thau. Sau đó, mẫu được đun nóng đến nhiệt độ cao. Nếu các nguyên tử đồng đi vào thanh đồng nhanh như khi các nguyên tử kẽm thoát ra khỏi nó thì kích thước ban đầu của thanh đồng sẽ không thay đổi. Điều này sẽ được biểu thị bằng vị trí đứng yên của dây molypden. Nhưng trên thực tế, sợi dây molypden đã dịch chuyển, và sự lệch vị trí của nó cho thấy thanh đồng đã co lại; nghĩa là các nguyên tử kẽm thoát ra khỏi gốc cây nhanh hơn các nguyên tử đồng đi vào. Dưới kính hiển vi, có thể làm phẳng các lỗ chân lông khá lớn hình thành trên bề mặt do xuất hiện một số lượng lớn các chỗ trống phát sinh nơi các nguyên tử kẽm nhanh chóng thoát ra khỏi lỗ chân lông.
-
-Những kết quả này được công bố vào năm 1947, và cái mà ngày nay được gọi là “hiệu ứng Kirkendyle” đã tạo ra một chấn động thực sự đối với các nhà luyện kim và tất cả các nhà nghiên cứu nghiên cứu tính chất của chất rắn.
-
-Các thí nghiệm cũ đã được thử nghiệm và những thí nghiệm mới được thực hiện.
-
-Vì hiệu ứng Kirkendile được phát hiện ngay lập tức trong nhiều hợp kim nên không còn nghi ngờ gì nữa là nó thực sự tồn tại.
-
-Không còn nghi ngờ gì nữa, việc nghiên cứu hiện tượng khuếch tán sẽ giúp chúng ta hiểu sâu hơn về các tính chất của chất rắn và tất cả các quá trình kỹ thuật trong đó khuếch tán đóng vai trò chính.
 
 VẼ ASCHER
 

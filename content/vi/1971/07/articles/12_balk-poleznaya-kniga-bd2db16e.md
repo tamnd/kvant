@@ -15,25 +15,15 @@ tag: P31L
 lang: vi
 source: kvant_digital
 extraction: vision
-content_sha256: aae86f6432193106df1f20326a0a2ba2d85eadb06f453c59b19501cacb120d48
+content_sha256: fd81210e540b39a865d44aa07c917bf6bcfcee045eb6ef55a265a8b23a44e1c7
 prompt_sha256: 3ec6b8aabd9b98576af76503cd8a2902b9f5d18e01ee867dfb1228f59c6d52d8
 translated_from: content/ru/1971/07/articles/12_balk-poleznaya-kniga-bd2db16e.md
-source_content_sha256: eadbd8a90d92ec7c019ad34c5c4a21913a8f7be356fb32fac87163880a1ad9ca
+source_content_sha256: 90f1ded843f38dd55183132e2025e8ce017a8219b19cef2b99a0f7491d8bfcc4
 translation_model: gpt-5.6-terra
 translation_run: vi-codex-2026-10-31
 ---
 
 ⟦folio 61⟧
-
-(1947) bạn thấy trên ảnh (con tem màu xanh lam cũng được đưa vào bộ tem dành cho những nhân vật xuất sắc của văn hóa Ba Lan). Các tem có chân dung Maria Curie cũng được phát hành ở Ba Lan vào các năm 1951, 1963 và 1967 (hai tem cuối được đưa trên ảnh). Ngoài ra, tại Ba Lan vào các năm 1955 và 1967 đã phát hành các tem có hình tượng đài Maria Curie ở Warszawa và một tem dành cho việc bà được trao giải Nobel vào các năm 1903 và 1911.
-
-Trên ảnh cũng có các tem chân dung Maria Curie, được phát hành tại Pháp và CHDC Đức nhân kỷ niệm 100 năm ngày sinh.
-
-Các tem dành cho Maria và Pierre Curie được phát hành ở Panama, và vào năm 1963 được phát hành ở Afghanistan. Năm 1956, nhân 50 năm ngày mất của Pierre Curie, tại Liên Xô và Bulgaria đã phát hành tem có chân dung ông. Trên ảnh cũng có tem Thụy Điển, phát hành năm 1963 và dành cho những người đoạt giải Nobel năm 1903 — Pierre và Maria Curie cùng Henri Becquerel.
-
-A. V. Almyks
-
-Phê bình. Thư mục
 
 MỘT CUỐN SÁCH HỮU ÍCH
 

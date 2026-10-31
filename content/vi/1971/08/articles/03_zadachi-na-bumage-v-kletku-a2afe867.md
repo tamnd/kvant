@@ -12,25 +12,15 @@ tag: 7MH7
 lang: vi
 source: kvant_digital
 extraction: vision
-content_sha256: 4c0e0a248668c86edcb7cb9849f77fb8ef60631ad551d7db467ee7ef6943f0e9
+content_sha256: b209f4dd5f5cd591dc2ddacbe88ccd034536b8678f00c27cc556e4df89593fdd
 prompt_sha256: 3ec6b8aabd9b98576af76503cd8a2902b9f5d18e01ee867dfb1228f59c6d52d8
 translated_from: content/ru/1971/08/articles/03_zadachi-na-bumage-v-kletku-a2afe867.md
-source_content_sha256: 80bffc514a2b7c597d890ce2111640e55270ea8c8742e1650cbbb311a7d6e34a
+source_content_sha256: 08a6bdf4dbc38ea4ef8d6afa862dd0db249a55326c426b1c87aa55ea58abe4ed
 translation_model: gpt-5.6-terra
 translation_run: vi-codex-2026-10-31
 ---
 
 ⟦folio 16⟧
-
-Hình 4.
-
-khối lượng Trái Đất. Giả thuyết sau phải dẫn đến kết luận rằng Trái Đất luôn nóng lên chứ không nguội đi,— một kết luận mà khó có thể tin cậy. Để tránh khó khăn này, Stẹrt giả định rằng chất phóng xạ không phân bố đều bên trong Trái Đất, mà chỉ nằm trong lớp bề mặt mỏng của nó. Nếu giả định rằng rađi phân bố đều trong lớp này, thì có thể dễ dàng chỉ ra rằng độ dày của lớp ấy vào khoảng 70 km.
-
-Giả sử rằng rađi chứa trong lớp bề mặt sâu 70 km, ta dễ dàng tính được nhiệt độ của Trái Đất. Kết quả tính toán được trình bày trên hình 4.
-
-Ở độ sâu 70 km, nhiệt độ phải tăng đến khoảng 1500 °С. Nhiệt độ bên trong khối Trái Đất dưới độ sâu 70 km phải gần như không đổi và bằng 1500 °С.
-
-Tôi hy vọng rằng bây giờ các bạn đã hiểu rõ việc nghiên cứu tính phóng xạ đã làm thay đổi sâu sắc quan điểm của chúng ta về phần bên trong của Trái Đất như thế nào. Những kết luận mới hoàn toàn không phải là cuối cùng, nhưng những điều đã làm khiến ta phải nghi ngờ tính đúng đắn của các lý thuyết cũ về nguồn gốc của Trái Đất và về sự biến đổi phần bên trong của nó.
 
 BÀI TOÁN
 TRÊN GIẤY
