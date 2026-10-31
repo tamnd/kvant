@@ -1,0 +1,45 @@
+---
+id: 1975-11-volodin-otvet-na-vopros-chitatelya-a-venediktova-o-vyiraschivanii-kristallov-soli-i-sahara-7e2676b0
+issue: kvant_1975_11
+year: 1975
+number: "11"
+title: '[Answer to a question from reader A. Venediktov about growing salt and sugar crystals]'
+authors:
+  - Володин А. П.
+rubric: raznoe
+page_first: 72
+page_last: 72
+page_labels: "70"
+tag: C31T
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: d1cad1dab26b89985653df0a61adaa8f80d6b8eb5422527149e66543c9633847
+prompt_sha256: draft-1
+translated_from: content/ru/1975/11/articles/23_volodin-otvet-na-vopros-chitatelya-a-venediktova-o-vyiraschivanii-kristallov-soli-i-sahara-7e2676b0.md
+source_content_sha256: cdc57920aaa4dbee293c4e5d4bbfcdfc7808c141d397035203bd08f18dd5e7db
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 70⟧
+
+Ask - we answer
+
+The editor of the magazine received a letter from our reader A. Venediktov from the city of Serpukhov, Moscow region. He asks how you can grow salt or sugar crystals at home. Since the editor receives many letters with similar questions, we asked A. Volodin, consultant of the physics department of the journal «Kvant», to respond to this letter.
+
+Ionic crystals (including salt crystals NaCl) are usually grown from appropriate solutions, reaching their supersaturation by changing the temperature of the solution or the slow evaporation of the solvent. Growing high-quality crystals is usually not an easy task. A number of conditions must be met, such as constant concentration and temperature of the solution, constant composition and pressure of gases above the solution, and the presence of high-quality seed crystals. The starting materials must be sufficiently pure. Therefore, it is natural that it is not always possible to grow a good crystal at home (the quality of a crystal, for example, can be characterized by its productivity, shape and size).
+
+For experiments on growing salt crystals at home, we can recommend the following simplified version of the well-known method of evaporating the solution.
+
+To prepare a saturated solution you need:
+a) clean water, preferably distilled (you can use clean rainwater, or, in extreme cases, boiled water);
+b) table salt, also as pure as possible, for example, “Extra” grade.
+The salt is dissolved in heated water until the dissolution process stops (undissolved salt remains at the bottom of the sauce). Then the warm solution is carefully poured into another vessel. (In this case, it is necessary to ensure that the unmelted salt does not fall into the second vessel; it is better to pour the solution, filtering it.) With slow melting, regular salt crystals will fall to the bottom of the glass. They will be seed crystals, that is, when water evaporates from the solution, salt will crystallize on them.
+
+Cover the glass with the solution and seed crystals with a paper filter (blotting paper) and place it in a place where the temperature is more or less constant. As the water evaporates, the crystals will increase in size. Be careful when overfilling the solution; grown crystals can be removed. To grow a larger crystal, place one of the resulting crystals in a new saturated solution and continue evaporating the solution.
+
+It is impossible to grow sugar crystals in this way at home. The fact is that sugar is an organic substance and, when dissolved in water, forms so-called solvates (compounds of sugar molecules with water molecules). When the sugar solution is evaporated, a thick viscous mass is formed. It is the high viscosity that favors the growth of crystals, since to grow them from a solution, sufficient mobility of the molecules or ions of the dissolved substance is necessary.
+
+More details about growing crystals can be read in the article by M. O. Klia “How to grow a crystal” («Kvant», 1970, No. 5).

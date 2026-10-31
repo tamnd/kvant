@@ -1,0 +1,40 @@
+---
+id: 1975-10-lenin-o-nauke-70fa86e5
+issue: kvant_1975_10
+year: 1975
+number: "10"
+title: Lenin on science
+rubric: raznoe
+page_first: 6
+page_last: 6
+page_labels: "4"
+tag: IDG9
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 0d87a7430e3ddcb01e4e6699c634dab66619a907511b875673de15832f18242d
+prompt_sha256: draft-1
+translated_from: content/ru/1975/10/articles/06_lenin-o-nauke-70fa86e5.md
+source_content_sha256: 4550cd537b456c313bc10341fc6c8bea7e2862e4e0dcd5e9ff8960051ef9a729
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 4⟧
+
+Lenin on science
+
+Below are statements by V.I. Lenin, borrowed from his works or the memoirs of his contemporaries.
+
+...Only the social will free science from its bourgeois shackles, from its enslavement to capital, from its work in front of the interests of civil capitalist self-interest. Only social welfare can be widely disseminated and truly subordinated to social production and distribution of products according to scientific reports on how to make the life of all workers as easy as possible, bringing them prosperity. (V.I. Lenin. Complete works, T. 36, p. 381).
+
+...I am personally deeply interested in science and attach great importance to it. Whenever you need anything, contact me directly. (From the memoirs of Academician S. F. Oldenburg)
+
+...After all, if only we can defeat all these interventions, all these internal uprisings of the kulaks, landowners and bourgeoisie, and then we will organize the activities of social production and the distribution of products according to scientific reports on how to make the life of all workers as easy as possible, providing them with exigible research opportunities, to create the best laboratories, with the best possible research and delivery of work on pressing scientific issues. (From a conversation with A. M. Gorky)
+
+...If science in the future is to give what you believe in - the renewal of life, then it is necessary that those broad masses who are now close to power, who now have the opportunity to regulate life, so that they understand the meaning of science. You must make accessible and understandable to them the meaning of those abstract truths that individual people understand, but which the masses, who have not been given the opportunity to come close to this science, do not yet understand. (From the speech of Academician S. F. Oldenburg at the II All-Union Congress of Soviets)
+
+...Keep in mind that now the broad masses, having shaken off the old government, have taken their lives into their own hands, they are the arbiters of life, in which you, the representative of science, take a corresponding place. But this place and, in general, the emergence of proper scientific work will depend on how much the significance of science will be understood by the masses, how much they will be able to look at it not as an idle, unnecessary pastime for life, but as difficult, complex, necessary and productive work. We, I and others, of course, understand the importance of science, but now the matter is not in our understanding, but in the understanding of the masses. It is natural, therefore, that first of all the state’s attention will be drawn to those sciences that help us identify and use our natural resources, especially needed by a country devastated by wars, i.e. natural, mathematical and economic sciences. (From the report of Academician S. F. Oldenburg at the General Meeting of the Academy of Sciences on January 22, 1927)
+
+...To find out about the agreement of the Vice-President of the Academy of Sciences, Academician V.A. Steklov, to cooperate with the Soviet government, V.I. Lenin said: “Like this, one by one, we will overtake all the Russian and European Archimedes, then the world, whether it wants or not, will turn over!” (From the speech of Academician A.V. Topchev at the research of the Academy of Sciences, dedicated to the 90th anniversary of the birth of V.I. Lenin, April 21, 1960)

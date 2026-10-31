@@ -1,0 +1,48 @@
+---
+id: 1975-9-gik-teorema-pifagora-na-shahmatnoy-doske-dce5c5fe
+issue: kvant_1975_9
+year: 1975
+number: "9"
+title: Pythagorean theorem on a chessboard
+authors:
+  - Гик Е. Я.
+rubric: smes
+page_first: 25
+page_last: 25
+page_labels: "23"
+tag: ARWQ
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 4737abbc85c31fb39b4ba3323630a0908411998fd8b1d06501f4e822f4e910bc
+prompt_sha256: draft-1
+translated_from: content/ru/1975/09/articles/05_gik-teorema-pifagora-na-shahmatnoy-doske-dce5c5fe.md
+source_content_sha256: 23a3f175927507682445feb9ef8747c1405a03ebb1d34f152f9d5eb05c7616c7
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 23⟧
+
+solve problems, but also compose music. I'm most likely Gershwin, or maybe Kalman...
+
+— Mikhail Nekhemievich, my last question will still be connected not with music or even with mathematics, but with chess. You have already talked about the beauty of chess. How do you personally understand the beauty of chess?
+
+— For some, the beauty of chess is a triumph of logic. A beautiful design, according to them, is a magnificent classical design with impeccable proportions, in which every element, every brick stands in its place. And although I also often “had” to win purely positional games, I am more impressed by the triumph of algorithmicity, irrationality, and absurdity: there is a furious struggle on the board, subordinated to some idea, a struggle to implement a certain plan, and the outcomes are cut by an innocent pawn that has nothing to do with the main motive of the drama. In mathematical terms, I like it better when in chess the leg ends up being the length of the hypotenuse.
+
+Pythagorean Theorem
+on the chessboard
+
+On the chessboard we break the square, as shown in figure 1. The board is divided into this square and four congruent right triangles. Now let's look at figure 2
+On it we see the same four triangles as on figure 1. This means that the triangles in the general drawings occupy the same area. Consequently, in general cases the same area is occupied by the remaining parts of the chessboard without triangles. So, the area of ​​a square built on the hypotenuse of a right triangle is equal to the area of ​​two squares built on squares -
+
+Fig. 1.
+
+“Pythagorean pants are equal in all directions”!
+
+Perhaps grandmaster M. Tal had in mind precisely this proof of the Pythagorean theorem.
+
+(Of course, strictly speaking, our reasoning does not prove the Pythagorean theorem, since only some parts of the case have been studied, but only excludes it. But such a proof passes without using a chessboard - for any right-angled triangle, you can choose a square that divides it in a similar way.)
+
+E. Ya. Geek
