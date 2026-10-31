@@ -43,11 +43,11 @@ Hãy bắt đầu. Chúng ta dựng một góc có đỉnh A. Trên các cạnh 
 
 Hãy nhớ điều chúng ta muốn: khoảng cách giữa các đỉnh D và E phải bằng khoảng cách giữa các đỉnh khác. Do đó, không thay đổi khoảng cách của la bàn, chúng ta đặt một chân của nó tại một điểm D nào đó trên một cung (điều này sẽ chẵn
 
-Cơm. 1.
-Cơm. 2.
+Hình 1.
+Hình 2.
 
 ⟦figure⟧
-Cơm. 3.
+Hình 3.
 
 đỉnh ngược của ngôi sao) và vẽ một đường tròn (4) sẽ cắt một đường tròn khác (3) tại điểm $E$. Chúng tôi đã đạt được đỉnh thứ năm. Hãy kết nối các điểm kết quả với các phân đoạn. Vậy thì sao? Độ dài của các đoạn bằng nhau nhưng ngôi sao rõ ràng không đều.
 
@@ -64,7 +64,7 @@ Hãy thử “bằng mắt” vẽ một góc $72^\circ$ trên một đường t
 ⟦column⟧
 
 ⟦figure⟧
-Cơm. 4.
+Hình 4.
 
 không khó để đặt sang một bên trong $60^\circ$, vì độ dài của dây cung phụ nó bằng bán kính của hình tròn. Việc xây dựng một cung trong $90^\circ$ thậm chí còn dễ dàng hơn. Hãy đánh dấu các điểm cuối của cung “cần thiết” (tại $72^\circ$) - các điểm $A$ và $B$ (Hình 4).
 
@@ -94,9 +94,9 @@ Bạn có thể tự mình nghĩ ra một lưới xây dựng được chỉ đ�
 Cuộc thảo luận
 Một số độc giả sẽ hỏi: “Tại sao lại nói về
 
-Cơm. 5.
+Hình 5.
 
-Cơm. 6.
+Hình 6.
 
 công trình gần đúng, nếu có công trình chính xác?” Nhưng tại sao.
 

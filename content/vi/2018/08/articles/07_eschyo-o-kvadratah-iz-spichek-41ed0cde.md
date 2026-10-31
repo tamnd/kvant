@@ -28,7 +28,7 @@ KVAN T 2018/Số 8
 
 ⟦figure⟧
 
-Cơm. 3
+Hình 3
 
 zika." Bản dịch từ tiếng Anh do A.S. Akhmatov biên tập. Phần II. – M.: Nauka, 1973, trang 9 và 10), bạn có thể tìm thấy một bản vẽ chính xác, rất giống với bức ảnh (Hình 3). Dòng chữ ở trang 9 cho biết: “Hình vẽ một thước đo có một đầu ngâm trong nước sạch. Sự đứt gãy rõ ràng ở thước kẻ giao với mặt nước chỉ có thể được giải thích bởi thực tế là có điều gì đó đang xảy ra ở đây với ánh sáng chiếu từ thước vào máy ảnh.” Nhưng ở Mỹ, nước còn có một điều kỳ lạ khác: đáng chú ý là nó phóng to đồng xu nằm ở phía dưới lên 20% (Hình 4). Dòng chữ tương ứng ở trang 10 cũng gây ngạc nhiên: “Bên phải là bức ảnh chụp một đồng xu nằm dưới đáy một chiếc cốc rỗng. Ở bên trái, chúng ta thấy bức ảnh chụp cùng một đồng xu nằm dưới đáy bình, chứa đầy
 
@@ -38,7 +38,7 @@ zika." Bản dịch từ tiếng Anh do A.S. Akhmatov biên tập. Phần II. �
 
 ⟦figure⟧
 
-Cơm. 4
+Hình 4
 
 lại và do đó nó có vẻ cao hơn mốc 30 một chút. Giữa chúng ta, tác dụng của một cây gậy gãy đã khiến con người bối rối từ xa xưa, và việc xây dựng đường đi chính xác của tia vẫn còn gây khó khăn.
 
@@ -50,20 +50,20 @@ Chúng ta hãy nhớ lại bài toán từ «Kvant» Số 12 cho năm 2017. Tron
 
 ⟦figure⟧
 
-Cơm. 3
+Hình 3
 
 ⟦figure⟧
 
-Cơm. 1
+Hình 1
 
 ⟦figure⟧
 
-Cơm. 2
+Hình 2
 
 với các trận đấu. Người ta đề xuất sắp xếp lại hai que diêm để tạo thành một hình vuông.
 
 ⟦figure⟧
 
-Cơm. 4
+Hình 4
 
 Hình 2 và 3 cho thấy hai phương pháp mà chúng tôi đã trình bày trước đó. Tác giả bài toán Sergey Kostin đã nói với chúng tôi một phương pháp khác mà ông đã nghĩ ra với các học sinh của mình (Hình 4). Đó là cách các hình vuông khác nhau!

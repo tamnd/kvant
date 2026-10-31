@@ -44,9 +44,9 @@ Kết quả hoàn toàn bất ngờ và rất ấn tượng. Hóa ra màu sắc 
 
 ⟦folio 4⟧
 
-Cơm. 3. Ngắm phong cảnh xanh qua cặp kính xanh lam.
+Hình 3. Ngắm phong cảnh xanh qua cặp kính xanh lam.
 
-Cơm. 4. Cuộc sống đời thường không phải do Newton thực hiện. Khi ánh sáng trắng đi qua một nêm hỏa kế, các tia màu lục và đỏ sẽ vẫn còn trong quang phổ.
+Hình 4. Cuộc sống đời thường không phải do Newton thực hiện. Khi ánh sáng trắng đi qua một nêm hỏa kế, các tia màu lục và đỏ sẽ vẫn còn trong quang phổ.
 
 Các trận chiến thực sự là một tấm kính xanh, độ dày của nó tăng dần từ đầu này sang đầu kia. Nêm di chuyển trong một trục gá kim loại có độ lệch để quan sát thân đèn sợi đốt. Thang đo nhiệt độ được đánh dấu dọc theo mép của nêm, với nhiệt độ tăng dần từ đầu mỏng của nêm đến đầu dày. Sau khi chỉ điểm từ chối của trục gá vào thân nóng, cần phải di chuyển nêm trong trục gá cho đến khi xảy ra sự thay đổi về màu sắc nhìn thấy được của thân. Sau đó, trên thang đo được chỉ định, nối với trục gá, bạn có thể đọc được nhiệt độ của vật nóng.
 
@@ -80,9 +80,9 @@ Nếu Buger được thừa kế tham gia vào lĩnh vực biển, thì anh ta �
 
 ⟦folio 6⟧
 
-Cơm. 5. Minh họa việc áp dụng định luật Bouguer để giải thích sự thay đổi màu sắc của dây tóc đèn sợi đốt khi số lượng thấu kính xanh tăng lên.
+Hình 5. Minh họa việc áp dụng định luật Bouguer để giải thích sự thay đổi màu sắc của dây tóc đèn sợi đốt khi số lượng thấu kính xanh tăng lên.
 
-Cơm. 6. Con mắt tinh tường của người nghệ sĩ Nga cổ đại đã nhận thấy sự thay đổi màu sắc ở độ sâu của các nếp gấp của vải, xảy ra do sự phản xạ lặp đi lặp lại.
+Hình 6. Con mắt tinh tường của người nghệ sĩ Nga cổ đại đã nhận thấy sự thay đổi màu sắc ở độ sâu của các nếp gấp của vải, xảy ra do sự phản xạ lặp đi lặp lại.
 
 gọi đồng hồ bấm giờ để xác định ai chạm đích đầu tiên.
 

@@ -44,7 +44,7 @@ Vé 1
 
 1. Khoảng cách tối đa đến Mặt trời mà sao chổi của Galileo đang di chuyển ra xa là bao nhiêu? Chu kỳ nó quay quanh Mặt trời là 76 năm; khoảng cách tối thiểu mà nó đi từ Mặt trời là $1,8 \cdot 10^8$ km. Bán kính quỹ đạo của Trái đất là $1,5 \cdot 10^8$ km.
 
-Cơm. 1.
+Hình 1.
 
 2. Một piston có thể chuyển động trong một hình trụ nằm ngang, với khí lý tưởng ở bên trái và chân không ở bên phải (Hình 1). Một lò xo nằm giữa piston và nhà xi lanh. Tại thời điểm ban đầu, pít-tông được cố định và lò xo ở trạng thái không biến dạng. Piston sau đó được thả ra. Sau khi thiết lập trạng thái cân bằng, thể tích chiếm giữ của khí lớn gấp đôi thể tích ban đầu và nhiệt độ bằng (10/11) so với ban đầu. Xác định nhiệt lượng mol của khí ở thể tích không đổi $C_V$. Hằng số khí phổ quát $R = 8,3 \partial \chi / (\text{моль} \cdot \text{эрад})$.
 
@@ -52,7 +52,7 @@ Cơm. 1.
 
 ⟦folio 59⟧
 
-Cơm. 2.
+Hình 2.
 
 trong đó định luật Ohm không có giá trị và phụ thuộc chủ yếu vào toka $I$ (tính bằng ampe) vào điện áp đặt vào $U$ (tính bằng vôn) có dạng $I = 0,01 U^3$. Các khu vực còn lại của nơi này có cùng điện trở $R = 4$ ohm. Pin ngoài có thể được cân bằng ở mức nào?
 
@@ -64,7 +64,7 @@ Vé 2
 
 2. Nhiệt kế khí là một ống trụ đo có thể tích $V_1 = 100$ cm$^3$, được nối bằng một ống mỏng với đồng hồ đo áp suất, thể tích của không gian làm việc
 
-Cơm. 3.
+Hình 3.
 
 mà $V_2 = 10$ cm$^3$. Nhiệt kế chứa đầy đồng vị helium He$^3$. Ở nhiệt độ $t_0 = 27$ °C, đồng hồ đo áp suất hiển thị áp suất $p_0 = 300$ mm rm. cm. Thể tích đo được ngâm trong gel lỏng. Tìm nhiệt độ của gel lỏng nếu đồng hồ đo áp suất hiển thị áp suất $p = 3,3$ mm rm. cm. Đồng hồ đo áp suất vẫn ở nhiệt độ phòng.
 

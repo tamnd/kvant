@@ -168,7 +168,7 @@ Từ điểm P tùy ý trên SB kẻ PQ vuông góc với AC; thì hình chiếu
 
 $$PC^2 = \frac{c^2}{4} + 13x^2 - 2\frac{c}{2} \cdot x \sqrt{13} \cos \Rightarrow CBP.$$
 
-Cơm. 13.
+Hình 13.
 
 Từ $\triangle SCB$ chúng tôi tìm thấy
 

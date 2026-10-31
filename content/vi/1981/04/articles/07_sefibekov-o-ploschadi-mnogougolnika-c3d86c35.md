@@ -37,7 +37,7 @@ d) Diện tích thay đổi bao nhiêu lần trong quá trình biến đổi $x'
 Thực tế này (aditivity), cùng với kết quả của bài tập 3 và 12 a), 6) (bất biến của các phép tịnh tiến tương đối, tính đối xứng và phép quay) cho phép lấy số (2) làm xác định diện tích của đa giác.
 15. Đặt tất cả các cạnh của đa giác $A_1B_1A_2B_2...A_mB_m$ là $A_k(a_k; b_k), B_k(a_k+1; b_k), k=1, ..., m$, với $B_m(a_1; b_m)$. Viết công thức diện tích của một đa giác như vậy.
 
-Cơm. 5. Các con số cho biết đa giác đi bao nhiêu lần (có tính đến hướng) xung quanh vectơ của mỗi mảnh.
+Hình 5. Các con số cho biết đa giác đi bao nhiêu lần (có tính đến hướng) xung quanh vectơ của mỗi mảnh.
 
 nikka. Hãy kiểm tra để tìm hình lục giác có các đỉnh $(-1; 0), (2; 0), (2; 5), (3; 5), (3; 7), (-1; 7)$. (Công thức này hữu ích với chúng tôi trong lời giải bài toán M608 - xem «Kvant», 1980, Số 11.)
 16. Tìm ra công thức (2) cho bất kỳ điểm $n$ nào của mặt phẳng $A_1, A_2, ..., A_n$.
@@ -59,9 +59,9 @@ Nếu bạn đã giải quyết được bài toán này đến cùng, bạn s�
 
 ⟦folio 21⟧
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 5.
+Hình 5.
 
 Bài 2. Chứng minh công thức (1) cho tứ giác lồi.
 Gợi ý. Chia hình tứ giác thành hai hình tam giác (sử dụng đường chéo - xem Hình 4) và áp dụng bài toán 1.
@@ -75,8 +75,8 @@ Bài 4. Chứng minh công thức (1) cho tứ giác tùy ý.
 Nhiệm vụ 5*. Chứng minh công thức (1) cho n-dự trữ tùy ý.
 Gợi ý. Chứng minh rằng trong không gian n bất kỳ có thể vẽ được một đường chéo nằm hoàn toàn bên trong nó và áp dụng phương pháp quy nạp toán học.
 
-Cơm. 2.
+Hình 2.
 
-Cơm. 3.
+Hình 3.
 
-Cơm. 4.
+Hình 4.

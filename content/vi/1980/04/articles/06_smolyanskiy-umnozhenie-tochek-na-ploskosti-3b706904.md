@@ -55,7 +55,7 @@ Hãy viết ra các thuộc tính này chi tiết hơn:
 
 Pa. Tính liên kết. Đối với bất kỳ điểm nào $A, B, C: A(BC) = A(BC)$.
 
-Cơm. 1.
+Hình 1.
 
 ⟦folio 20⟧
 
@@ -106,7 +106,7 @@ Chúng ta hãy áp dụng thực tế này cho bốn vectơ nối điểm $O$ v�
 
 ⟦folio 21⟧
 
-Cơm. 3.
+Hình 3.
 các điểm của trục thực) $A, B, C, D$ sao cho đẳng thức thỏa mãn:
 $$A + BX + CX^2 + DX^3 = 0$$
 (1)
@@ -130,7 +130,7 @@ $$(B_1 + B_2X) + Y(B_3 + B_4X) = 0.$$ (2)
 
 Lưu ý rằng trong mặt phẳng chứa 0, 1, $X$ tồn tại điểm $Y_0$ thỏa mãn (2).
 
-Cơm. 4.
+Hình 4.
 Pravanice có 6. Viết nó dưới dạng $C_1 + C_2X$ và tìm $C_1$ và $C_2$ bằng cách sử dụng các phương trình $DX^2 + C'X + B' = 0$.
 
 Nhưng sau đó $(Y - Y_0)(B_3 + B_4X) = 0$, từ đó $Y = Y_0$, tức là điểm $Y$ nằm trong mặt phẳng bên ngoài nơi nó được chọn. Sự mâu thuẫn. Không có phép nhân trong không gian mà chúng ta cần!
@@ -151,7 +151,7 @@ U pravanice 7. Rút ra các công thức này từ các định nghĩa hình h�
 
 ⟦folio 22⟧
 
-Cơm. 5.
+Hình 5.
 
 Các công thức này cho thấy điểm của chúng ta, phép cộng và phép nhân của chúng là mô hình hình học của số phức *). Thật dễ dàng để thu được một thực tế đáng chú ý như vậy: bất kỳ phương trình $AX^2 + BX + C = 0$ nào (trong đó $A, B, C$ là các điểm của mặt phẳng và $A \neq 0$) bị cắt - có một điểm trên mặt phẳng biến nó thành một đẳng thức. Trên thực tế, bất kỳ phương trình đại số nào cũng có thể được cắt trên mặt phẳng (xem «Kvant», 1980, số 2, trang 17).
 
@@ -165,7 +165,7 @@ Như bạn đã biết, đối với các số thực và do đó đối với m
 
 *) Xem «Kvant», 1980, số 2, tr. 17.
 
-Cơm. 6.
+Hình 6.
 
 giống như tất cả các vòng tròn khác có tâm bằng 0, biến thành chính nó, tuyên bố của chúng tôi là đúng. Nhìn lại, chúng ta đã có một cách mới để ghi lại một phép quay - bằng cách nhân với điểm tương ứng.
 

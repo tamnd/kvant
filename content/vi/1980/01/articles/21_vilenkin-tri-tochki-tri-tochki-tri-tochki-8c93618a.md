@@ -38,7 +38,7 @@ Vì lời giải của phương trình $\varphi(x) = \psi(x)$ tương đương v
 
 "Phương trình này có một lời giải. Hơn nữa, vì theo định nghĩa của logarit, các hàm $y = \left(\frac{1}{16}\right)^x$ và $y = \log_{\frac{1}{16}} x$ nghịch đảo với nhau nên đồ thị của chúng đối xứng âm."
 
-Cơm. 1.
+Hình 1.
 
 so với đường $y = x$, và do đó giao điểm của đồ thị nằm trên đường này. Điều này có nghĩa là để tìm được nó, chúng ta cần giải phương trình $\left(\frac{1}{16}\right)^x = x$. Nhưng tôi không biết giải quyết thế nào.”
 
@@ -56,7 +56,7 @@ Hóa ra với $a = \frac{1}{16}$ đồ thị của các hàm đang xét dẫn đ
 
 ⟦folio 49⟧
 
-Cơm. 2.
+Hình 2.
 
 bản thân bạn khôn ngoan hơn nhiều (Hình 2): trên khoảng $0; \frac{1}{4}$ [trên đây là đồ thị của hàm $y = \log_{\frac{1}{16}} x$, trên khoảng $]\frac{1}{4}$; $b$ [hàm $y = \left(\frac{1}{16}\right)^x$ “dẫn đầu”, trong khoảng $]\beta; \frac{1}{2}$ [đồ thị của hàm $y = \log_{\frac{1}{16}} x$ lại cao hơn và chỉ trên tia $[\frac{1}{2}; +\infty[$ hàm $y = \left(\frac{1}{16}\right)^x$ cuối cùng trở thành người dẫn đầu - trên toàn bộ tia này, đồ thị của nó cao hơn đồ thị của hàm $y = \log_{\frac{1}{16}} x$.
 
@@ -83,7 +83,7 @@ $*)$ Ví dụ, điều này tiếp theo từ đoạn 84 của sách giáo khoa �
 
 ⟦folio 50⟧
 
-Cơm. 4.
+Hình 4.
 
 đồ thị $y = e^{-kx}$ và $y = x$. Tại thời điểm này $e^{-kb} = b = -\frac{\ln b}{k}$, và do đó $kb = -\ln b$. Tại $x = \frac{1}{k}$, hàm số $e^{-kx}$ bằng $\frac{1}{e}$, hàm số $y = x$ lấy giá trị $\frac{1}{k}$ nên do điều kiện $k > e$ hoành độ của giao điểm của đồ thị hàm số $y = e^{-kx}$ và $y = x$ lớn hơn $\frac{1}{k}$ (Hình 3), tức là $b > \frac{1}{k}$. Nhưng sau đó $kb > 1$, và do đó
 

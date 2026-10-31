@@ -71,7 +71,7 @@ Bài toán 4. Khung hình vuông ở cạnh $a$ được đặt trong một từ
 
 Sự thay đổi từ thông khi khung được thay đổi thành từ trường bằng $\Delta \Phi_0 = Ba^2$, và do đó $Q = \Delta \Phi_0/R = Ba^2/R$, từ đó $B = QR/a^2$.
 
-Cơm. 3.
+Hình 3.
 52
 
 ⟦folio 53⟧
@@ -98,7 +98,7 @@ $$E_{\text{инд}} = \frac{\Delta \Phi}{\Delta t} = Bl v$$
 
 Dưới ảnh hưởng của e.m. Với. trong con-
 
-Cơm. 4.
+Hình 4.
 
 loại dòng điện chạy qua
 

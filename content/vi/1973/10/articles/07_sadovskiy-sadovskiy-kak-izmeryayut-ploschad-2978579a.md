@@ -38,11 +38,11 @@ Hãy nhớ rằng hình vuông có cạnh bằng một đơn vị chiều dài t
 
 *) Tính chất cộng của một số đại lượng đã được đề cập trong bài: Ioni và Yu. I. Intergal. «Kvant», 1972, số 9 và Smorodinsky Ya. A. Khối lượng trơ. «Kvant», 1972, số 3.
 
-Cơm. 1.
+Hình 1.
 
 ⟦folio 23⟧
 
-Cơm. 2.
+Hình 2.
 
 $F_k$ bao phủ hoàn toàn hình $F$ và thậm chí có thể mở rộng ra ngoài đường viền của nó $C$. Diện tích $F_k$, theo tiên đề cộng tính, bằng tổng $S_k$ diện tích của các hình vuông này (nó tỷ lệ thuận với số hình vuông tạo thành $F_k$). Điều tự nhiên là lấy giá trị $S_k$ gần đúng với giá trị diện tích của hình $F$ (có phần dư).
 
@@ -74,7 +74,7 @@ Lý luận được thực hiện ở đây hoàn toàn giống với lý luận
 
 ⟦folio 24⟧
 
-Cơm. 3.
+Hình 3.
 
 đề cập đến một đường được nghiên cứu bởi nhà toán học người Pháp Camille Jordan (1838-1922). Đây được gọi là đường cong Jordan. Nếu đường cong Jordan được coi là quỹ đạo chuyển động (trong mặt phẳng) của một điểm, thì tọa độ hình chữ nhật $x$ và $y$ của nó có thể được chỉ định là các hàm liên tục
 
@@ -114,9 +114,9 @@ Các điều kiện là gán (nhìn từ $B$ đến $A$) cho khu vực này mộ
 
 Khi tính đến quy tắc này, rõ ràng là tổng diện tích được thay thế bởi một đoạn do kiểu chuyển động đầu tiên bằng 0.
 
-Cơm. 4a.
+Hình 4a.
 
-Cơm. 46.
+Hình 46.
 
 Đương nhiên, diện tích được thay thế khi di chuyển một phần ba loại bằng 0. Chỉ có diện tích của hình chữ nhật, được thay thế trong quá trình chuyển động tịnh tiến của loại thứ hai, hóa ra khác 0; nó bằng $lh$ (cùng giá trị bằng diện tích hình bình hành $B_1A_1AB$).
 
@@ -130,7 +130,7 @@ Hãy nhớ rằng bánh xe có thể được đặt ở bất kỳ điểm nào
 
 ⟦folio 26⟧
 
-Cơm. 5.
+Hình 5.
 
 Nếu chu vi của bánh xe được chia thành một số phần nhất định và đồng hồ đo được cố định trên thanh thì có thể theo dõi xem bánh xe quay được bao nhiêu. Một cơ chế đơn giản sẽ phát sinh. Chúng tôi nhận thấy ngay rằng cái thứ hai không phải lúc nào cũng bị thiếu (sau vòng tròn) mà hóa ra lại lớn hơn cái thứ nhất (trước vòng tròn), tất cả phụ thuộc vào hướng bánh xe quay. Nếu bạn di chuyển thanh từ vị trí $A_0B_0$ đến vị trí $AB$, sau đó đưa thanh về vị trí ban đầu thì kết quả sẽ không thay đổi, tức là con trỏ sẽ đứng cùng một vạch chia ở đầu và cuối của hai chuyển động này. Điều này là tự nhiên, vì thanh cắt nhau hai lần trên hình bình hành $B_1A_1AB$; một lần diện tích được gán dấu dương, lần khác là dấu âm.
 
@@ -154,11 +154,11 @@ thiết kế hành tinh
 
 Hình 9 đưa ra ý tưởng về diện mạo chung của hành tinh vùng cực. Cần cực p và cần bypass l được nối với nhau bằng bản lề b và có thể tách rời nhau; Ở cuối cần gạt có một chốt nhọn F để vạch ra ranh giới của khu vực và một điểm dừng f để bảo vệ bản vẽ khỏi bị hư hại do ghim. Cánh tay cực quay quanh đầu (cực), được gắn bản lề vào tấm nặng Π (nó không cho phép dải di chuyển). Cơ cấu đếm (Hình 10) được kết nối với cần gạt. Nó có thể được di chuyển dọc theo cần gạt này và được cố định ở vị trí mong muốn bằng vít q. Cơ cấu đếm nằm trên bánh xe điều chỉnh R và con lăn hỗ trợ bổ sung C, giúp thiết bị ổn định. Chuyển động quay của bánh xe R được truyền qua hành trình đến đĩa đếm Z. Một vòng quay hoàn toàn của bánh xe sẽ làm cho đĩa quay theo một trong mười vạch chia được đánh dấu trên đó. Chu vi của trống đếm T nối với con lăn được chia thành một trăm ô nhỏ. Sử dụng chiếc Vergebra V nằm bên cạnh, bạn có thể đếm được mười nhịp của trống bẫy T.
 
-Cơm. 9. Người hành tinh vùng cực
+Hình 9. Người hành tinh vùng cực
 
 ⟦folio 28⟧
 
-Cơm. 10. Cơ chế đếm của máy đo địa cực.
+Hình 10. Cơ chế đếm của máy đo địa cực.
 
 Mỗi báo cáo là một số có bốn chữ số: đầu tiên là số vạch chia đầy đủ trên đĩa Z, sau đó là số vạch chia chính trên trống T, sau đó là số vạch chia nhỏ hoàn chỉnh trên đó và cuối cùng là số phần mười của vạch chia nhỏ.
 
@@ -170,7 +170,7 @@ Máy đo kế hoạch tự chế
 
 Có một thang đo kế hoạch trung bình cực kỳ đơn giản. Đây được gọi là “Máy đo kế hoạch giá” (1886). Nó có thể được làm từ một đoạn dây dẫn khách quan, có dạng chữ P kéo dài (Hình 11). Một trong các đầu cong k nhọn và đóng vai trò như một chốt rẽ nhánh, đầu còn lại T nằm ở vị trí trông giống như một cái rìu, lưỡi dao nằm trong cùng mặt phẳng với đầu. Điểm k được lắp tại một điểm O nhất định bên trong diện tích thay đổi (tốt nhất là hướng về trọng tâm của hình đã phác thảo). Vị trí của điểm T₀ tiếp xúc của lưỡi rìu với bản vẽ bị lệch; sau đó, cầm chiếc rìu để đáp lại, họ dẫn lưỡi dao đến viền, khoanh tròn toàn bộ đường viền và quay về điểm xuất phát O. Đồng thời, chiếc rìu mô tả một đường cong nhất định (nếu không có lưỡi rìu thì hóa ra là
 
-Cơm. 11.
+Hình 11.
 
 ⟦folio 29⟧
 

@@ -56,9 +56,9 @@ Do đó, C0 ở giữa của dây AB đi đến giao điểm C2 của đường 
 
 3. thái giám
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
 M332. Có thể tạo một khối có kích thước k×k×k từ cốc trắng và đen 1×1×1 sao cho mỗi khối có hai khối lân cận có cùng màu với chính nó không? (Hai hình lập phương được coi là liền kề nếu chúng có cạnh chung.)
 
@@ -70,11 +70,11 @@ Giả sử rằng ngay cả với k lẻ vẫn có thể tạo thành lập phư
 
 ⟦folio 41⟧
 
-Cơm. 3.
+Hình 3.
 
 M333. Ba người đàn ông bò dọc theo các cạnh của tam giác ABC sao cho tâm của những người đàn ông được tạo bởi tam giác vẫn ở một chỗ. Chứng minh rằng nó trùng với tâm của tam giác ABC nếu biết rằng một trong hai người đã bò dọc theo toàn bộ đường biên của tam giác. (Tâm chồng gọi là giao điểm của các đường trung tuyến của nó.)
 
-Cơm. 4.
+Hình 4.
 
 M334. Cho một đa thức P(x):
 a) với các hệ số tự nhiên,
@@ -132,7 +132,7 @@ F343. Ueol, theo đó Mặt trời có thể nhìn thấy được từ Trái đ
 
 Với máy móc. Thể tích của quả bóng được tính theo công thức $V = \frac{4}{3} \pi R^3$, trong đó $R$ là bán kính của quả bóng.
 
-Cơm. 8.
+Hình 8.
 
 F344. Điện tích Q được phân bố đều trên một vòng điện môi mỏng nằm trên mặt phẳng ngang chính. Cảm ứng của từ trường vuông góc với mặt phẳng của vòng thay đổi từ 0 đến $B_0$. Tốc độ điều trị hiệu quả với vòng này là bao nhiêu? Khối lượng của chiếc nhẫn là $m$.
 

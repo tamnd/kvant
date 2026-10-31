@@ -25,7 +25,7 @@ translation_quality: draft
 
 ⟦folio 42⟧
 
-Cơm. 1. Ảnh chụp bằng máy ảnh Zenit, trong đó ống kính được thay thế bằng một mảnh giấy đen có chữ bác bỏ. Đường kính loại bỏ 0,2 mm, độ nhạy phim 65 đơn vị, tốc độ màn trập 5 giây.
+Hình 1. Ảnh chụp bằng máy ảnh Zenit, trong đó ống kính được thay thế bằng một mảnh giấy đen có chữ bác bỏ. Đường kính loại bỏ 0,2 mm, độ nhạy phim 65 đơn vị, tốc độ màn trập 5 giây.
 
 Quang học hình học dựa trên ý tưởng về tính thẳng của tia sáng. Thực hành dạy chúng ta điều này. Bản thân bạn có thể dễ dàng kiểm tra thí nghiệm xác nhận tính thẳng của sự truyền ánh sáng. Thay ống kính máy ảnh bằng một mảnh giấy đen có đâm một miếng từ chối nhỏ vào đó. Một “máy ảnh lỗ” (được gọi là camera obscura) như vậy có thể tạo ra ảnh chụp các vật thể được chiếu sáng rực rỡ, tương tự như bức ảnh được hiển thị trong Hình 1. Hình ảnh trên phim tương ứng chính xác với hình chiếu trung tâm của các điểm của vật thể với các đường thẳng đi qua vùng bác bỏ, đây là một lập luận mạnh mẽ cho ý tưởng coi các tia sáng là đường thẳng.
 
@@ -39,7 +39,7 @@ Hiện tượng trong đó nó được tìm thấy
 
 ⟦folio 43⟧
 
-Cơm. 3. Nhiễu xạ từ một dây mỏng. Chụp ở ánh sáng trắng qua bộ lọc màu đỏ. Đường kính dây 1,2 mm. Khoảng cách từ dây đến phim là 0,5 m.
+Hình 3. Nhiễu xạ từ một dây mỏng. Chụp ở ánh sáng trắng qua bộ lọc màu đỏ. Đường kính dây 1,2 mm. Khoảng cách từ dây đến phim là 0,5 m.
 
 Hóa ra ánh sáng không truyền theo các định luật quang học hình học, gọi là nhiễu xạ. Lý do của họ nằm ở bản chất sóng của ánh sáng. Sự mô tả chính xác sự truyền ánh sáng được đưa ra không phải bằng cấu trúc của tia mà bằng mô hình truyền sóng.
 
@@ -49,7 +49,7 @@ Do đó, trong quá trình truyền sóng, có thể có cả hai trường hợ
 
 ⟦folio 44⟧
 
-Cơm. 5. Lắp đặt để quan sát và chụp ảnh các mẫu nhiễu xạ. 1 - đèn, 2 - thấu kính chiếu, 3 - nhiễu xạ chính xác với màn chắn ánh sáng, 4 - giá đỡ với thấu kính difrakini, 5 - ống bảo vệ ánh sáng, 6 - máy ảnh không có thấu kính.
+Hình 5. Lắp đặt để quan sát và chụp ảnh các mẫu nhiễu xạ. 1 - đèn, 2 - thấu kính chiếu, 3 - nhiễu xạ chính xác với màn chắn ánh sáng, 4 - giá đỡ với thấu kính difrakini, 5 - ống bảo vệ ánh sáng, 6 - máy ảnh không có thấu kính.
 
 Trong quang học, chúng thường xử lý lớp thứ nhất, vì bước sóng của ánh sáng khả kiến ​​rất ngắn (từ 0,7 μm đối với ánh sáng đỏ đến 0,4 μm đối với ánh sáng tím), nhưng ở khoảng cách lớn từ một lỗ nhỏ hoặc từ một sợi dây mỏng, lớp thứ hai cũng có thể xuất hiện.
 
@@ -65,7 +65,7 @@ Bạn có thể sẽ muốn chụp ảnh các mẫu nhiễu xạ. Điều này r
 
 ⟦folio 45⟧
 
-Cơm. 6. Chụp ảnh với quả bóng. Cổ phần bên ngoài được đặt. Đường kính bóng 4 mm. Chiều cao biểu tượng 1 mm. Phạm vi này có được bằng cách chụp ảnh một chữ cái được vẽ bằng mực trên giấy trắng trên một tấm phim tương phản.
+Hình 6. Chụp ảnh với quả bóng. Cổ phần bên ngoài được đặt. Đường kính bóng 4 mm. Chiều cao biểu tượng 1 mm. Phạm vi này có được bằng cách chụp ảnh một chữ cái được vẽ bằng mực trên giấy trắng trên một tấm phim tương phản.
 
 chiếu trực tiếp lên mặt phẳng phim. Để các vân nhiễu xạ trong ảnh rõ hơn và số lượng của chúng nhiều hơn, những vật chịu trách nhiệm đóng vai trò là nguồn sáng phải được phủ một bộ lọc ánh sáng, loại có màu đỏ tốt nhất, vì có nhiều tia đỏ trong quang phổ của đèn sợi đốt. Đối với phim thông thường, thời gian phơi sáng từ 5-10 giây là đủ. Để tránh làm lộ phim, phải đặt một ống bên trong màu đen giữa thiết bị và vật thể.
 

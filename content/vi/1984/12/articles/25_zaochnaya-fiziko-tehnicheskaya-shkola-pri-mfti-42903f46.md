@@ -76,19 +76,19 @@ Giáo viên của các vùng Amur, Irkutsk, Kamchatka, Sakhalin và Chita, Krasn
 
 ⟦folio 55⟧
 
-Cơm. 10.
+Hình 10.
 lykh. Chỉ có việc chỉ định (tạo ra mối đe dọa 4x3) ở điểm 1 mới dẫn đến chiến thắng.
 
 10. Loại nhẹ nhất trong loại bài toán thứ hai.
 
 11. Lợi ích dễ thấy bằng cách tạo ra chỉ định kép ở điểm 2 (ngã ba 4x3 ở điểm B và C) không đạt được do sự phòng thủ của Trắng ở điểm A. Điểm này có màu đỏ và
 
-Cơm. 11.
+Hình 11.
 đôi khi phương pháp bảo vệ duy nhất được gọi là phản bảo vệ. Điều này phải được ghi nhớ khi tấn công. Ở đây, chiến thắng ngắn nhất đạt được bằng các ký hiệu liên tiếp 1 và 3. Nếu Trắng đi nước thứ hai tại điểm B thì Đen thắng với nước đi D và C.
 
 12. Rất khó bài toán. Ở vị trí này, thực tế là không thể theo dõi sự phát triển của cuộc tấn công đến cùng và chỉ có trực giác tốt dựa trên một góc nhìn lớn mới có thể
 
-Cơm. 12.
+Hình 12.
 đề nghị một động thái mạnh mẽ. Sự đối xứng được nhiều người tham gia cuộc thi nhận thấy là chưa hoàn chỉnh do khoảng cách giữa các cạnh của bến tàu là khác nhau. Do đó, nước đi 1 là nước đi duy nhất không chỉ củng cố đáng kể vị trí của Đen mà còn tạo cho anh ta không gian để phát triển đòn tấn công hơn nữa. Động thái ở điểm A, được những người tham gia cuộc thi ưa chuộng, đã bị người phòng thủ ở điểm B bác bỏ.
 
 N. N. Alexandrov,
@@ -193,7 +193,7 @@ Lời giải F. Nazarov, người mà ông đã nhận được giải thưởng
 
 ⟦folio 58⟧
 
-Cơm. 7.
+Hình 7.
 
 trong đó chỉ số “0” chỉ bề mặt Trái đất, chỉ số “1” tương ứng với nhiệt độ $T_1$ và “2” đến $T_2$. Như sau từ điểm 6),
 
@@ -281,7 +281,7 @@ Tại $f \rightarrow 0$ hoặc $f \rightarrow \infty$ $\delta \rightarrow 1$ và
 
 ⟦folio 59⟧
 
-Cơm. 8.
+Hình 8.
 
 $z_2 \rightarrow \infty$; d) $z_4 \rightarrow \infty$, và $z_1$ và $z_2 \rightarrow \infty$. Cũng tính đến việc δ phải lớn hơn 0, chúng ta có thể tìm thấy các giá trị của $f$ và δ cho tất cả các mạch đã cho.
 
@@ -308,9 +308,9 @@ $$\tau_2 = \frac{1}{\text{tg} \alpha} \approx 1,55 \cdot 10^{-3} \text{ c}.$$
 
 Có thể coi đó là
 
-Cơm. 9.
+Hình 9.
 
-Cơm. 10.
+Hình 10.
 
 ⟦folio 60⟧
 
@@ -322,7 +322,7 @@ Cơm. 10.
 4. Hình 15 cho thấy hai lời giải có thể xảy ra.
 5. Khi bạn nhấn một nút, chuông sẽ reo và đèn phía trên nút sẽ sáng lên.
 
-Cơm. 11. Hình 12.
+Hình 11. Hình 12.
 $$\tau = \frac{\tau_1 + \tau_2}{2} \approx 1.6 \cdot 10^{-3} \text{ с.}$$
 Sau đó
 $$R = \frac{\tau}{C} \approx 16 \text{ кОм.}$$

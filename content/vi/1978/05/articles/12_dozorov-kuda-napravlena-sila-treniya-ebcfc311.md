@@ -34,8 +34,8 @@ Một người đi ngang bằng nhau, vận tốc của người đó hướng v
 
 Nếu lực ma sát đủ để một người nhấp mạnh mà không có lực tác động ngược lại, hoặc lực ma sát nhỏ thì điều ngược lại bắt đầu: đế di chuyển về phía sau, đầu vẫn giữ nguyên, mất thăng bằng và người đó ngã. Hãy cố gắng đi nhanh hơn trên băng mịn!
 
-Cơm. 1.
-Cơm. 2.
+Hình 1.
+Hình 2.
 
 ⟦folio 37⟧
 
@@ -53,9 +53,9 @@ Khi xuống dốc nhẹ nhàng và khi leo núi (Hình 4, b) không cần phanh;
 
 Còn nhiều điều ngạc nhiên hơn nữa phản ánh sức mạnh của ma sát khi xem xét
 
-Cơm. 4.
+Hình 4.
 
-Cơm. 5.
+Hình 5.
 
 bóng lăn (Hình 5). Một mặt, nếu không có hiện tượng trượt thì điều này có nghĩa là lực ma sát đủ để quả bóng “đẩy” khỏi mặt đất (lực ma sát $\vec{F}_{\text{тр1}}$ tác dụng lên quả bóng), và đối với quả bóng, “lực đẩy” này sẽ xảy ra liên tục.
 
@@ -65,4 +65,4 @@ Mặt khác, một quả bóng lăn sẽ đảo ngược chuyển động của 
 
 Hãy nghĩ xem bạn có thể nói đến những điều bất ngờ nào khác trong hành trạng của lực ma sát?
 
-Cơm. 3.
+Hình 3.

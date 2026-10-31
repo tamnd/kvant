@@ -34,7 +34,7 @@ Bạn có thể nghĩ bức vẽ này đến từ đâu không? Có thể “nh�
 Bản vẽ này có thể đến từ đâu?
 Yu. kotov
 
-Cơm. 1.
+Hình 1.
 
 Gương cong
 

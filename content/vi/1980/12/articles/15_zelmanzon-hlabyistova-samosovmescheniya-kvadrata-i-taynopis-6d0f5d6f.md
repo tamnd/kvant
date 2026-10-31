@@ -78,7 +78,7 @@ Cô giáo quay lưới tản nhiệt
 đường tròn tâm hình vuông ở 90°
 theo chiều kim đồng hồ. Các chàng trai tiếp tục đọc ghi chú. Sau đó, anh ấy xoay vỉ nướng 90° một lần nữa, rồi lại quay lại.
 
-Cơm. 1.
+Hình 1.
 
 ⟦folio 33⟧
 

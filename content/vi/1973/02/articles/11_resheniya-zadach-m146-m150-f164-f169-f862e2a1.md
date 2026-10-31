@@ -56,7 +56,7 @@ Có thể chứng minh rằng một phát biểu mạnh hơn cũng đúng: đố
 
 ⟦folio 48⟧
 
-Cơm. 3.
+Hình 3.
 
 khẳng định theo giả định bổ sung rằng 4 và 5 thuộc cùng một tập hợp con. Các trường hợp khác cũng tương tự.
 
@@ -178,7 +178,7 @@ cộng chúng với nhau (và trừ cái này với cái kia), chúng ta tìm th
 
 ⟦folio 50⟧
 
-Cơm. 8.
+Hình 8.
 
 Từ sự bình đẳng
 $$x_1 + x_2 + y_1 = x_2 + x_3 + y_2 = x_2 + x_1 + y_2$$
@@ -190,7 +190,7 @@ N. B. Vasiliev
 
 M150. Từ các số 1, 2, ..., $k$ tạo ra tất cả các tập hợp có thể có $(a_1, a_2, ..., a_n)$ có độ dài $n$ (dễ dàng nhận thấy có $k^n$ trong số đó). Chọn tối đa hai điều ước $P$ và $Q$ (nên đưa cùng một bộ vào $P$ và $Q$). Được biết, nếu chúng ta lấy một tập hợp tùy ý $(p_1, p_2, ..., p_n)$ từ $P$ và một tập hợp tùy ý $(q_1, q_2, ..., q_n)$ từ $Q$, thì chúng sẽ trùng nhau ít nhất ở một chỗ (có thể là $p_i = q_i$ đối với một số $i$). Khi đó có nhiều nhất $k^{n-1}$ bộ trong $P$ hoặc $Q$.
 
-Cơm. 10.
+Hình 10.
 
 Chứng minh tuyên bố này
 a) cho $k = 2$ và bất kỳ $n$ nào;
@@ -201,14 +201,14 @@ Hãy thử tìm các hạn chế khác về số lượng phần tử trong các
 
 a) $k = 2$. Chúng ta gọi tập hợp $\bar{d}$ đối diện với tập hợp $d$ nếu $\bar{d}$ thu được từ $d$ bằng cách thay tất cả 1 bằng 2 và 2 bằng 1. Gọi $\bar{M}$ biểu thị tập hợp tất cả các tập hợp đối diện với tập hợp $M$. Bộ $d$ và $\bar{d}$ không trùng nhau ở bất kỳ chỗ nào. Do đó, nếu $d$ được đưa vào $P$ thì $\bar{d}$ không thể được đưa vào $Q$. Điều này có nghĩa là $\bar{P}$ và $Q$ không chứa các bộ giống hệt nhau. Do đó, $\bar{P}$ hoặc $Q$ chứa không quá một nửa tổng số bộ. Nhưng $P$ và $\bar{P}$ có cùng số bộ. Điều này có nghĩa là $P$ hoặc $Q$ chứa không quá một nửa tổng số bộ, tức là không quá $2^{n-1}$ bộ.
 
-Cơm. 9.
+Hình 9.
 
 6) Đối với $n = 1$ mệnh đề là hiển nhiên.
 Đối với $n = 2$ bài toán có thể được biểu diễn như sau: $k^2$ các điểm được đặt trên mặt phẳng tại các nút của mạng vuông $(k-1) \times (k-1)$ (Hình 10). Một số điểm này cần được sơn màu đỏ, một số - màu xanh lam để bất kỳ điểm đỏ và xanh nào nằm trong cùng một cột hoặc trên cùng một đường thẳng (nghĩa là tình huống c) là không thể). Tuy nhiên, một điểm có thể được sơn bằng cả hai màu (trường hợp d). cần phải
 
 ⟦folio 54⟧
 
-Cơm. 13.
+Hình 13.
 
 giảm nhẹ của các quốc gia. Xi lanh Melloisoller từ môi trường.
 
@@ -288,7 +288,7 @@ F167. Chúng tôi kết nối một ampe kế lý tưởng với đầu ra của
 
 ⟦folio 55⟧
 
-Cơm. 14.
+Hình 14.
 
 Một mạch điện bên trong không thể chỉ bao gồm điện trở. Thật vậy, hãy xem xét mạch hiển thị trong Hình 14, trong đó $R$ là điện trở của “cái hộp”.
 Khi kết nối một nguồn, dòng điện phải chạy qua bộ khuếch đại
@@ -315,7 +315,7 @@ nhưng điều này là không thể.
 
 Việc kết nối một điện trở song song với đầu vào hoặc đầu ra của hộp cũng không giúp ích được gì. (Cho nó xem!). Do đó, mạch bên trong phải bao gồm phần tử “hoạt động” - nguồn dòng điện.
 
-Cơm. 15.
+Hình 15.
 
 Chúng ta hãy xem xét một trong các sơ đồ khả thi được hiển thị trong Hình 15 và chỉ ra rằng nó thỏa mãn điều kiện bài toán.
 
@@ -357,7 +357,7 @@ $$\frac{mg}{\alpha mg} > \sqrt{3}.$$
 
 ⟦folio 56⟧
 
-Cơm. 17.
+Hình 17.
 
 Từ đây chúng ta tìm được hệ số ma sát phải là:
 

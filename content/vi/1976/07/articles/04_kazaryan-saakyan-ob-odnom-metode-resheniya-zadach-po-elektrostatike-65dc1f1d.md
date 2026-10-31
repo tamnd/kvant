@@ -60,7 +60,7 @@ $$q_i = C_{i1} \varphi_1 + C_{i2} \varphi_2 + \dots + C_{in} \varphi_n = \sum_{k
 
 ⟦folio 11⟧
 
-Cơm. 5.
+Hình 5.
 
 được nối đất và điện thế của dây dẫn thứ $k$ bằng 1. Giả sử điện tích của dây dẫn thứ $i$ bằng $q'_i$ và điện thế của nó $\varphi'_i$. Chúng ta hãy nhân số hạng đẳng thức (4) với $\varphi'_i$:
 
@@ -137,7 +137,7 @@ $$q'_1 = -q \frac{\varphi}{\varphi_1}. \tag{8}$$
 
 ⟦folio 13⟧
 
-Cơm. 7.
+Hình 7.
 
 Chúng ta tìm thấy điện tích $q'_2$ cảm ứng trên quả cầu bên ngoài với điều kiện tổng đại số của các điện tích nằm bên trong bề mặt nối đất bằng 0:
 
@@ -157,7 +157,7 @@ $$q'_2 = -q \frac{r_2 d_1}{(r_1 + d_1)(d_1 + d_2)}.$$
 
 Lời giải bài toán 3. Nó theo ngay sau lời giải bài toán 2, vì hai mặt phẳng vô hạn song song có thể
 
-Cơm. 8.
+Hình 8.
 
 coi chúng là hai mặt cầu đồng tâm có bán kính vô cùng lớn.
 

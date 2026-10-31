@@ -58,8 +58,8 @@ lớp 9
 
 3. Tìm điện trở giữa hai điểm A và B của mạch điện như hình 2; R = 12 Ôm, r = 3 Ôm.
 
-Cơm. 1.
-Cơm. 2.
+Hình 1.
+Hình 2.
 
 ⟦folio 59⟧
 

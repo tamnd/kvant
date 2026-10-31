@@ -45,7 +45,7 @@ Thông tin chung
 
 ⟦figure⟧
 
-Cơm. 1
+Hình 1
 
 DOI: https://doi.org/10.4213/kvant20221106
 
@@ -59,7 +59,7 @@ Nó cho thấy rằng bán kính cong của đầu càng nhỏ và cường đ�
 
 ⟦figure⟧
 
-Cơm. 5
+Hình 5
 
 cây hạt được tích điện ở điện áp cao (khoảng 15 kV) (được gọi là hiệu ứng Kirlian). Thí nghiệm được thực hiện vào năm 2020 tại Lyceum số 15, thành phố Saratov bởi M. Lednik (lớp 11). Những bức ảnh tương tự có thể thu được bằng cách sử dụng thiết bị nhìn đêm dùng để theo dõi rò rỉ trên đường dây điện. Đối với thí nghiệm trình diễn tiếp theo, một đầu dò được sử dụng (sẽ nói thêm về điều đó sau) và thiết kế đơn giản nhất của thiết bị Chizhevsky - máy ion hóa không khí gia đình (Hình 6). Một phần quan trọng của thiết bị này là một đầu nhỏ duy nhất cho phép bạn ion hóa không khí. Ở vị trí bình thường đầu dò
 
@@ -67,7 +67,7 @@ cây hạt được tích điện ở điện áp cao (khoảng 15 kV) (được
 
 ⟦figure⟧
 
-Cơm. 6
+Hình 6
 
 không phát hiện ra trường, nhưng khi thiết bị được bật, đầu dò bắt đầu phát hiện điện trường và khi nó tiến đến đầu, đèn điốt sáng hơn. Và gần đỉnh bạn có thể cảm nhận được sự trong lành rõ ràng của không khí. Các máy ion hóa loại này đã được các tác giả của bài báo sử dụng trong nhiều năm để ion hóa một khu vực nhỏ trong căn hộ, chẳng hạn như trong phòng ngủ. Aeroion hóa khi sấy quần áo. Các vật thể tạo ra một trường không đồng nhất đáng kể với cường độ cao xung quanh chúng thậm chí có thể là những giọt nhỏ hình thành trong quá trình bay hơi của đồ giặt đang sấy. Đây là hiệu ứng bóng điện. Đầu tiên, chúng tôi phơi đồ giặt khô và kiểm tra xem nó có bị tích điện nhỏ không. Sau khi giặt và vắt đồ giặt, chúng tôi phơi đồ và sau một thời gian, sau khi nước đã rút hết, chúng tôi bắt đầu quan sát. Bây giờ điện tích bề mặt có thể dễ dàng cố định. Các thí nghiệm được thực hiện trong các năm khác nhau bởi các sinh viên của Lyceum Khoa học Ứng dụng và Lyceum Vật lý và Kỹ thuật số 1 của Saratov, D. Ykovlev (2010) và A. Aleshin (2022). Để phát hiện điện trường của hơi nước bão hòa, ban đầu chúng tôi sử dụng một máy đo điện trường học thông thường có một quả bóng nhỏ trên đầu que thu. Điện tích được thu từ bề mặt của miếng vải khô vào một quả bóng kim loại có tay cầm cách điện và chuyển đến đầu của máy điện nghiệm. Trong Hình 7, thiết bị cho thấy hiệu điện thế lớn hơn 600 V. Tuy nhiên, sau đó chúng tôi đã từ bỏ máy nghiệm điện để chuyển sang dùng một đầu dò điện tử được sử dụng khi tìm kiếm hệ thống dây điện ẩn. Đầu dò này có hình dạng của một tuốc nơ vít với đèn LED, diode hiệu ứng trường và pin. Khi đầu dò được đưa vào vùng có điện trường mạnh, diode
 
@@ -93,19 +93,19 @@ Gọi số A ít nhất là 222 lần. Có người viết A ít nhất ba lần
 
 ⟦figure⟧
 
-Cơm. 1
+Hình 1
 
 đầu tiên trong số đó là $равен^{360} q^{:} 6^{60} q$ (Hình 1). Ở bên phải một chút, góc đầy đủ $в^{360q}$ được tạo thành từ $угла^{60q}$ đã biết và hai góc bằng nhau hơn - do đó, chúng tương ứng
 
 ⟦figure⟧
 
-Cơm. 2
+Hình 2
 
 đặt ở 150q (Hình 2). Một cái khác được tính theo cách tương tự
 
 ⟦figure⟧
 
-Cơm. 3
+Hình 3
 
 góc: anh $равен^{360} q^{150} q^{:} 2^{105} q$ (Hình 3). Góc cuối cùng của ô có thể được tính bằng cách sử dụng thực tế là tổng các góc của tứ giác là $равна^{360q}$ hoặc bằng cách sử dụng một đỉnh khác của bức tranh khảm (Hình 4):
 
@@ -123,7 +123,7 @@ Bài toán
 
 ⟦figure⟧
 
-Cơm. 4
+Hình 4
 
 360 q 150 q 2  60 q: 2
 
@@ -135,7 +135,7 @@ Bình luận. 1) Cũng lưu ý rằng một trong các đường chéo chia viê
 
 ⟦figure⟧
 
-Cơm. 5
+Hình 5
 
 2) Việc phân chia một mặt phẳng thành các đa giác không có lỗ hoặc chồng lên nhau được gọi là tessellation. Tessellations có thể là định kỳ (có hai hướng khác nhau, với một sự dịch chuyển trong mỗi hướng mà tessellation được kết hợp với chính nó) và không định kỳ (không có sự dịch chuyển nào như vậy). Trong bài toán có một phần của mặt phẳng lát không định kỳ với các ô hình tứ giác như vậy, được phát minh bởi Gabor Damaszdi. Nhưng bạn có thể xếp một mặt phẳng với các hình tứ giác như vậy theo định kỳ (hãy nghĩ xem nhận xét 1 sẽ giúp ích như thế nào). Có một đa giác nào có thể được sử dụng để xếp một mặt phẳng không theo định kỳ không? Nó chưa được biết! 4. 338, 336, –332, –342. Hãy phân tách 2022 thành số nguyên tố $множители:^{2022} 2 ^{3} ^{337}$, nghĩa là trong năm số được nhân, chỉ có ba số có mô đun lớn hơn 1. Các số còn lại phải bằng mô đun 1; có đúng hai số như vậy (1 và –1) nên năm 2022 thu được $как^{1} ^{1}$ $r^{2}$ $r^{3}$ $r^{337}$. Cần lưu ý rằng dấu “–” phải xuất hiện trước một trong các số 2, 3, 337 hoặc trước cả ba số - tổng cộng có 4 tùy chọn và theo đó, có 4 số tiền có thể có: 338, 336, –332, –342.
 

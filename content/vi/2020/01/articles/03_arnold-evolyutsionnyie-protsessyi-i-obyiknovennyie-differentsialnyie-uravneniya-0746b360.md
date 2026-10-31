@@ -45,7 +45,7 @@ Trạng thái quá trình
 
 Để nghiên cứu bất kỳ quy trình nào, trước hết bạn phải có khả năng mô tả nhiều trạng thái có thể có của quy trình này. Hãy xem cách thực hiện điều này bằng các ví dụ. 1. Chuyển động của một điểm trên một đường thẳng. Kinh nghiệm cho thấy để xác định chuyển động
 
-Cơm. 1. Chuyển động theo đường thẳng
+Hình 1. Chuyển động theo đường thẳng
 
 ⟦folio 30⟧
 
@@ -55,11 +55,11 @@ KVANT 2020/№1
 
 ⟦figure⟧
 
-Cơm. 2. Dao động của con lắc
+Hình 2. Dao động của con lắc
 
 Trạng thái nào của con lắc sẽ lại là một mặt phẳng? Không thực sự. Thực tế là khi góc T thay đổi 2S thì con lắc sẽ trở về vị trí cũ. Do đó, tập hợp các trạng thái ở đây là một bề mặt hình trụ (xem Hình 2). 3. Vị trí của xe trên hai con đường. Thành phố A đến B được nối với nhau bằng hai con đường không giao nhau, trên mỗi đường có một chiếc xe đẩy; chúng tôi quan tâm đến vị trí tương đối của họ. Vị trí của xe trên con đường đầu tiên (Hình 3) có thể được xác định bằng số -
 
-Cơm. 3. Bài toán về hai chiếc xe chạy trên hai con đường
+Hình 3. Bài toán về hai chiếc xe chạy trên hai con đường
 
 ⟦column⟧
 
@@ -73,7 +73,7 @@ NHÂN VIÊN VẤN ĐỀ
 
 ⟦figure⟧
 
-Cơm. 2
+Hình 2
 
 Trong Hình 2, chế độ này tương ứng với phần ab, trong đó giá trị của U và I U thay đổi từ $U_{a} = 20$ V, $I_{a} = 0$ đến $U_{b} | 10$ V, $I_{b} | 120$ mA. Mỗi điểm của phần này tương ứng với một điểm ổn định
 
@@ -85,6 +85,6 @@ trạng thái (những thay đổi nhỏ về dòng điện trong mạch dẫn �
 
 ⟦figure⟧
 
-Cơm. 3
+Hình 3
 
 Điều gì sẽ xảy ra nếu bạn lấy một điện trở có điện trở nằm trong vùng 80 Ohm < < R < 100 Ohm (giá trị R | 80 Ohm tương ứng với các điểm b và c trong Hình 2, giá trị R | 100 Ohm tương ứng với các điểm e và d trong Hình 3) và nối nó với nguồn? Điện áp và dòng điện trong mạch sẽ như thế nào? Để trả lời câu hỏi này, bạn cần biết các thông số mạch như độ tự cảm của dây dẫn và điện dung giữa các cực điện trở. Ví dụ, nếu độ tự cảm của dây dẫn lớn (dây dài) và điện dung giữa các dây nhỏ, thì tại thời điểm điện trở được nối với nguồn, dòng điện sẽ nhỏ (tác dụng của điện cảm), và sau đó nó sẽ tăng lên - chế độ trong mạch sẽ được thiết lập theo Hình 2. Nếu điện dung giữa các dây nối với nguồn lớn và độ tự cảm của dây nhỏ thì tại thời điểm đầu tiên, dòng điện sẽ lớn và sẽ trở thành

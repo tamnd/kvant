@@ -82,9 +82,9 @@ Lời giải bài toán 1
 
 Vì trong số các hình bình hành có chiều dài cố định, hình bình hành hình chữ nhật có diện tích cạnh lớn nhất và trong số các hình bình hành có chiều dài cạnh cố định, hình bình hành hình chữ nhật có thể tích lớn nhất, nên đối với lời giải bài toán 1, chỉ cần xem xét hình bình hành hình chữ nhật là đủ.
 
-Cơm. 2.
+Hình 2.
 
-Cơm. 3.
+Hình 3.
 
 Nếu độ dài các cạnh của một hình bình hành phải được biểu thị bằng $a_1, a_2, a_3$, thì bất đẳng thức nổi tiếng giữa trung bình số học và trung bình hình học
 
@@ -114,7 +114,7 @@ Công thức (1) ngay lập tức gợi ý đặt lời giải bài toán 2': b�
 
 ⟦folio 24⟧
 
-Cơm. 4.
+Hình 4.
 AD (Hình 3) nên chọn sao cho diện tích của tam giác BEF rộng nhất có thể.
 
 Để đạt được điều này, trước tiên chúng tôi đảm bảo rằng chu vi của nó càng rộng càng tốt. Chúng ta hãy khai triển các mặt ABFD, FDCE, CEB lên mặt phẳng, chiếu tứ giác ABCD lên mặt phẳng P. Trong hệ kết quả là hình phẳng (Hình 4), độ dài cạnh $B_1B_2$ bằng chu vi của tam giác BFE, do đó rõ ràng chu vi này sẽ rộng nhất trong trường hợp các đoạn AD, DC, CB tạo thành một góc $\alpha = \arccos \frac{h}{2p-h}$ tính từ cạnh AB (Hình 5). Do đó, có thể thu được một tứ giác không gian tính từ cạnh $AB = h$ và chu vi $2p$, trong đó tam giác BEF có chu vi rộng nhất, nhờ vào cấu trúc sau: một hình chữ nhật tính từ cạnh $AB_1 = h$ và đường chéo $AB_2 = 2p - h$ được gấp thành lăng trụ tam giác sao cho các điểm $B_1$ và $B_2$ trùng nhau, và cạnh bên của nó là đoạn thẳng $AB_1$. Trong trường hợp này, đường thẳng $B_1ADCB_2$ trở thành tứ giác không gian ban đầu.
@@ -180,7 +180,7 @@ Cho điểm M di chuyển dọc theo một khung đơn giản. Khi đó các đo
 
 Sử dụng đoạn văn đến giới hạn, có thể chứng minh rằng thể tích của một vật trải dài trên một khung đơn giản nhẵn cũng được tính
 
-Cơm. 7.
+Hình 7.
 
 được tính theo công thức (1), trong đó S lúc này biểu thị diện tích của hình được giới hạn bởi hình chiếu của khung lên mặt phẳng Π. Bản chất của việc chuyển sang giới hạn rất rõ ràng về mặt trực giác: cần phải thay thế khung trơn “gần” với nó bằng khung bị hỏng; tuy nhiên, việc thực hiện các phép tính chính xác là một vấn đề khá thận trọng.
 

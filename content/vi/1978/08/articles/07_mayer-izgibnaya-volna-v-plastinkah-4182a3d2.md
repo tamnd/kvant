@@ -48,9 +48,9 @@ Bây giờ hãy làm như sau. Từ Dioral dày 1,5-2 mm, cắt một đĩa có 
 
 *) Trên thực tế, trong mỗi ống có thể kích thích không chỉ một dao động mà là cả một bộ dao động. Dao động có tần số thấp nhất xác định theo công thức (1) được gọi là dao động đơn âm cơ bản. Tất cả các tần số khác là bội số của tần số chính; dao động có nhiều tần số gọi là âm bội.
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
 ⟦folio 27⟧
 

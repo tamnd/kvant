@@ -41,7 +41,7 @@ Tuy nhiên, bài toán của chúng tôi về cơ bản là hình học - trong 
 
 *) Xem bài viết của A. I. Orlov “Priitsip Dirichlet”, «Kvant», 1971, số 7.
 
-Cơm. 1.
+Hình 1.
 
 Việc sử dụng tính lồi của đa giác là khi phát biểu rằng một mặt có m cạnh kề với m mặt. Điều này có nghĩa là mỗi cạnh của một mặt của đa giác liền kề với chính xác một mặt và các cạnh khác nhau của mặt này liền kề với các mặt khác nhau. Tuy nhiên, điều này không đúng với các đa giác nhỏ - trong Hình 1, các cạnh a, b liền kề với cùng một mặt α nên được tính hai lần trong số mặt và cách suy luận trên trở nên không chính xác.
 
@@ -79,7 +79,7 @@ Một số độc giả của lời giải của họ suy ra từ công thức 2
 
 ⟦folio 21⟧
 
-Cơm. 2.
+Hình 2.
 
 và bạn là những con số hoàn hảo *). lời giải như vậy là không đầy đủ: xét cho cùng, chưa ai chứng minh được rằng không có số hoàn hảo lẻ.
 
@@ -109,7 +109,7 @@ giống nhau - do đó, các góc giữa hai tia phân giác sẽ đồng thời
 
 *) Xem «Kvant», 1971, số 8, tr. 2.
 
-Cơm. 3.
+Hình 3.
 
 Nếu $OL$ là tia nằm trong mặt phẳng $p$, $OM$ là tia không vuông góc với mặt phẳng này, $OM'$ là hình chiếu của tia $OM$ lên mặt phẳng $p$ thì góc $LOM$ là nhọn, thẳng hay tù tùy theo góc nhọn, vuông hay tù $LOM'$; thực, nếu qua điểm $O$ mặt phẳng $q$ được vẽ vuông góc với tia $OL$ thì các điểm $M$ và $M'$ luôn nằm cùng một phía của mặt phẳng $q$ (xét cho cùng, $MM' \perp p$ và $q \perp p$, xem Hình 2). Gọi $OA, OB, OC$ là các cạnh của một góc tam diện; $OK, OL, OM$ — nhị phân của các góc $AOB, BOC, COA$; $p$ là mặt phẳng đi qua $OK$ và $OL, OA', OB', OC', OM'$ là hình chiếu của tia $OA, OB, OC, OM$ lên mặt phẳng $p$.
 
@@ -161,7 +161,7 @@ Hãy chứng minh rằng không con châu chấu nào có thể tới được �
 
 ⟦folio 23⟧
 
-Cơm. 7.
+Hình 7.
 
 Hãy nhập tọa độ trên mặt phẳng sao cho 3 điểm mà con châu chấu nằm ở đầu nhận được tọa độ: (0, 0), (0, 1) và (1, 0).
 
@@ -183,9 +183,9 @@ Vì vậy, $s = S/2$ chỉ khi LN || AD hoặc KM || AB là điều cần chứn
 
 Có thể thực hiện mà không cần thông báo đơn điệu (tuy nhiên, trọng số thu được) và chỉ cần biểu thị tỷ lệ diện tích s/S theo độ dài của các đoạn $|BC| = |AD| = a, |AB| = |CD| = b, |AM| = x_1$.
 
-Cơm. 9.
+Hình 9.
 
-Cơm. 10.
+Hình 10.
 
 ⟦folio 25⟧
 
@@ -257,7 +257,7 @@ G. A. Galperin, A. B. Khodulyev
 
 **M230. Chứng minh rằng từ bất kỳ hình chữ nhật lồi đều (nhưng không nhất thiết phải đúng) nào, bạn có thể cắt một hình tam giác đều, một trong các cạnh của nó trùng với cạnh của hình chữ nhật (Hình 20).
 
-Cơm. 20.
+Hình 20.
 
 Giả sử rằng đối với một số hình chữ nhật lồi đều $ABCDE$ có cạnh bằng một, câu lệnh bài toán là sai. Chúng ta có thể giả sử rằng trên đường chéo lớn nhất là AD, các điểm $A$ và $D$ nằm trên đường ngang (D ở bên phải của $A$), các điểm $B$ và $C$ nằm ở nửa mặt phẳng trên của nó và $C$ không gần đường $AD$ hơn $B$ (Hình 2). 21). Rõ ràng là $1 < |AD| < |AE| + |ED| = 2$.
 
@@ -267,7 +267,7 @@ Chúng ta hãy đánh dấu trên đoạn $AD$ các điểm $B_1$, $C_1$ và tr�
 
 ⟦folio 28⟧
 
-Cơm. 22.
+Hình 22.
 
 suy ra rằng $\triangle C_1DC_2$ nằm ở bên trái của $\triangle B_1C_3C_4$, do đó cung $C_1C_2$ nằm ở bên trái của cung $C_3C_4$. Chúng tôi có một sự mâu thuẫn. Điều này có nghĩa là các góc $BAD$ và $CDA$ không thể đồng thời nhỏ hơn $60^\circ$ và có ít nhất một tam giác đều (được tạo ở cạnh $AB$, hoặc trên $BC$ hoặc trên $CD$), sẽ không bị giao nhau bởi đường viền của hình ngũ giác.
 
@@ -279,7 +279,7 @@ F233. Khi xuống dốc ở tốc độ cao, người trượt tuyết trượt 
 
 Chúng ta hãy xem xét chuyển động của một vận động viên trượt tuyết, chiếu tất cả các lực tác dụng lên anh ta lên trục tọa độ, hướng song song
 
-Cơm. 23.
+Hình 23.
 
 mặt phẳng nghiêng, tạo thành một độ dốc và vuông góc với nó (Hình 23).
 

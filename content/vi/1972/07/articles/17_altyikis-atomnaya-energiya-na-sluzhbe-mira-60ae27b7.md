@@ -57,7 +57,7 @@ Do đó, $\frac{p}{q} = \frac{k}{m}$ được biểu thị dưới dạng tỷ l
 2. $y = A_2 (2\cos^2\omega t - 1) = A_2 \left(2 \frac{x^2}{A_1^2} - 1\right).$
 Đây là một phần của parabol có đỉnh tại điểm $y = -A_2$ và trục của nó dọc theo trục $Y$ (xem Hình 1).
 
-Cơm. 1.
+Hình 1.
 
 Về bài viết “Định lý Cosine và các hệ quả của nó”
 
@@ -89,7 +89,7 @@ Sau đó sử dụng bất đẳng thức phổ biến $\frac{a + m}{b + m} \geq
 
 13. Hãy cắt cạnh bên $ABCD$ theo vectơ $BC$ đến vị trí $CF$
 
-Cơm. 2.
+Hình 2.
 
 (Hình 2). Chúng ta có hình tam giác $CDF$. Cần xác định góc $\alpha = \Rightarrow FCD.$
 Dựa vào tính chất cạnh của tứ giác ngoại tiếp ta có: $AB + CD = a + b,$
@@ -203,7 +203,7 @@ $u = \frac{1}{x + y}, v = \frac{1}{x - y}$.
 
 Giải bất đẳng thức này bằng cách giảm vế phải về mẫu số chung, ví dụ, phương pháp tích phân.
 
-Cơm. 1.
+Hình 1.
 
 5. $\frac{2h^2}{\sin 4\alpha}$. Gợi ý và e. Hoàn thiện hình thang AMNB thành tam giác vuông ABC (xem Hình 1). Khi đó AB có thể biểu diễn qua MP = h và các góc CAB và MBA:
 

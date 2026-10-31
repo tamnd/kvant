@@ -82,7 +82,7 @@ Chúng ta hãy xem xét một ví dụ về một trong những sơ đồ khả 
 
 Điện áp răng cưa và điện áp đầu vào $U_{bx}$ được cung cấp cho hai đầu vào của mạch trùng khớp, tại thời điểm trùng khớp (Hình 2, e) tạo ra một xung (Hình 2, e), khóa bộ đếm. Số lượng tên đếm
 
-Cơm. 2.
+Hình 2.
 
 các xung (Hình 2, g) đi vào bộ đếm sẽ tỷ lệ thuận với khoảng thời gian giữa đồng hồ và các xung chặn, và khoảng thời gian này tỷ lệ thuận với giá trị của điện áp đầu vào $U_{bx}$.
 

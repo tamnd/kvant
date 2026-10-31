@@ -94,7 +94,7 @@ Nếu có nhiều đường tròn đồng tâm, các bậc hai của chúng tạ
 
 ⟦folio 31⟧
 
-Cơm. 8.
+Hình 8.
 
 gressio, cắt một số đường tròn γ thì các dây chung (với γ) của các đường tròn này song song và cách nhau một khoảng như nhau (Hình 7).
 
@@ -120,7 +120,7 @@ F547. Các tế bào quang học gồm các khối hình cầu plasma phát sán
 
 F548. Sự nông phản ứng có khối lượng m chúng ta mô tả một khối lượng chết dọc theo một đường tròn thẳng đứng bán kính R với tốc độ tuyến tính không đổi v. Lực yêu cầu thực hiện bao nhiêu công khi di chuyển vận chuyển từ vị trí thấp nhất đến vị trí cao nhất? Hệ số chênh lệch giữa đường nông và đường bằng μ.
 
-Cơm. 12.
+Hình 12.
 
 Chiều rộng tối đa của dải rõ ràng được xác định bởi đường kính D của bó. Nếu Γ = |$\frac{F}{F-L}$| là độ phóng đại của máy ảnh thì D = $\frac{d}{Γ}$. Để tránh xuất hiện trên phim, vận tốc v của chùm cần phải sao cho trong thời gian t, chùm sẽ di chuyển một quãng đường không quá D. Nếu thời gian trôi qua từ lúc ảnh xuất hiện cho đến khi chùm ảnh dừng hẳn thì tại thời điểm ảnh xuất hiện, tốc độ của chùm là |v| = |a| t và thỏa mãn điều kiện
 
@@ -167,7 +167,7 @@ O. Savigan
 F549. Hai quả bóng có khối lượng $m_1$ và $m_2$ được nối với nhau bằng một lò xo có độ cứng $k$; lò xo được đặt đúng vị trí và không bị biến dạng. Các quả bóng đồng thời có tốc độ $\vec{v}_1$ và $\vec{v}_2$, như trong Hình 13, với $|\vec{v}_1| = |\vec{v}_2| = v$.
 Tìm độ cao cực đại của hệ và độ biến dạng cực đại của lò xo.
 
-Cơm. 13.
+Hình 13.
 
 Khối tâm của hệ (cm) sẽ chuyển động giống như một vật có khối lượng $M = m_1 + m_2$, được ném nghiêng một góc so với đường chân trời với xung lực ban đầu $\vec{p}_0$ bằng tổng các xung lực ban đầu của các quả bóng:
 
@@ -272,7 +272,7 @@ F552. Đặc tính điện áp-ampe của đèn neon được thể hiện trong
 
 Khi đóng chìa khóa, tụ điện bắt đầu tích điện. Khi điện áp trên tụ điện và do đó trên đèn bằng 110 V thì đèn sẽ sáng. Kể từ thời điểm này, dòng điện chạy qua đèn sẽ tăng lên, điện áp trên đèn và do đó trên tụ điện sẽ giảm - tụ điện sẽ tích điện. Nếu trong quá trình sạc, tụ điện nhỏ hơn 80 V, đèn sẽ tắt - dòng điện trong mạch nhỏ hơn dòng định mức chạy qua đèn khi sạc ~80 V (xem Hình 16). Vì vậy, để đèn không bị tắt thì điện áp trên tụ không được trong quá trình
 
-Cơm. 16. Hình 17.
+Hình 16. Hình 17.
 
 phóng điện giảm xuống dưới 80 V. Trong trường hợp giới hạn $U_C = 80$ V, điện áp trên điện trở là 40 V, dòng điện chạy qua điện trở bằng dòng điện chạy qua đèn (1 µA), và do đó điện trở của điện trở là $R = 40$ ohm. Với giá trị điện trở thấp hơn $U_C < 80$ V thì đèn không sáng.
 

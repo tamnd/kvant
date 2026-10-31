@@ -33,7 +33,7 @@ KHI NÓNG, CƠ THỂ MỞ RỘNG, mọi người đều đồng ý với điều
 
 ⟦figure⟧
 
-Cơm. 1. Sự giãn nở nhiệt của vòng: a) hình dạng ban đầu của vòng; b và c) “sưng” và “căng”
+Hình 1. Sự giãn nở nhiệt của vòng: a) hình dạng ban đầu của vòng; b và c) “sưng” và “căng”
 
 Một số biểu thị sự giãn nở nhiệt dưới dạng “sự giãn nở” của vật thể được làm nóng theo mọi hướng (xem Hình 1, b), trong khi một số khác - là sự “kéo dài” của nó theo mọi hướng (xem Hình 1, c). Có lẽ, cái trước, khi vẽ, hãy tưởng tượng một vết mực lan rộng, và cái sau, một màng cao su trải dài ra mọi hướng. Câu hỏi đặt ra: hình ảnh nào trong số này truyền tải chính xác sự thay đổi hình dạng của vật thể trong quá trình giãn nở nhiệt? Công thức nổi tiếng không cung cấp cho chúng ta đáp số cho câu hỏi này: nó chỉ cho chúng ta biết về độ dài của các thanh và không cho biết gì về bán kính cũng như độ dày của các vòng. Để tìm hiểu cách trả lời những câu hỏi như vậy, chúng ta cần cố gắng xây dựng định luật giãn nở nhiệt trong hiện trường.
 
@@ -55,7 +55,7 @@ SỰ MỞ RỘNG
 
 ⟦figure⟧
 
-Cơm. 4
+Hình 4
 
 đầu của đoạn ban đầu để tạo thành một hình duy nhất - một hình tam giác. Chúng ta biết hệ số giãn nở tuyến tính (đây là tỷ lệ chiều dài hình ảnh của đoạn đó với chiều dài của chính đoạn đó), vì vậy chúng ta có thể dựng một tam giác “nóng”. Và vì chúng ta biết vị trí của một trong các cạnh của nó (đây là hình ảnh của đoạn ban đầu), chúng ta có thể đặt hình tam giác “nóng” một cách chính xác trên mặt bàn. Trong trường hợp này, vị trí mới của điểm C được xác định hoàn toàn.
 
@@ -71,11 +71,11 @@ NHIỆT
 
 ⟦figure⟧
 
-Cơm. 6
+Hình 6
 
 chuyển động tuyến tính. Ví dụ: nếu bạn đặt các tấm hình vuông và hình chữ nhật trên một bàn ngang gần nhau (Hình 6, a) và làm nóng chúng, thì sau khi các tấm nguội đến nhiệt độ trước đó, chúng sẽ bị dịch chuyển so với vị trí ban đầu. Xác định độ lớn dịch chuyển của điểm A và kích thước của khoảng cách hình thành giữa các tấm trong thí nghiệm được mô tả. Để tính toán, giả sử rằng cạnh của hình vuông tăng thêm 'a 1 mm khi được nung nóng. Bài toán 3. Ba đĩa được xếp thành một hàng sao cho khoảng cách giữa các đĩa liền kề bằng d 0,5 mm (Hình 6, b). Khi đun nóng, bán kính của mỗi đĩa tăng thêm ' a 1 mm. Điểm cực trị A của đĩa ngoài cùng bên phải dịch chuyển bao nhiêu khi bị nung nóng? Bạn có hiểu “thủ thuật” của bài toán này là gì không? Trong quá trình chuyển động nhiệt, bản thân các vật thể và cùng với đó là các điểm cố định của chúng có thể thay đổi trong quá trình hoạt động. Vì vậy, trong bài toán 2, hình vuông và hình chữ nhật, khi được nung nóng, hoạt động giống như một hình chữ nhật lớn và điểm cố định trong quá trình nung nóng là tâm của hình chữ nhật lớn này - điểm O (Hình 7, a). Khi làm mát, hình vuông và hình chữ nhật co lại thành các hình riêng biệt và tâm riêng lẻ của chúng là các điểm cố định (Hình 7,b). Và ngược lại, ở bài toán 3, các đĩa lần đầu tiên được làm nóng “riêng lẻ”, và sau đó - như một khối lớn.
 
-Cơm. 7
+Hình 7
 
 SỰ MỞ RỘNG
 
@@ -95,7 +95,7 @@ NHIỆT
 
 ⟦figure⟧
 
-Cơm. 9
+Hình 9
 
 tal mặt phẳng sao cho đường phân chia của các mặt phẳng chạy chính xác ở giữa tấm (Hình 9, a). Nửa mặt phẳng bên trái nhẵn $( P_{1} 0 ),$ nửa mặt phẳng bên phải thô $( P_{2}$! 0). Tấm được nung nóng sao cho kích thước bên của nó (khoảng cách giữa các điểm A và B) tăng ' a = 1 mm. Tìm độ dịch chuyển của các điểm A và B, với điều kiện độ tăng kích thước của tấm nhỏ hơn nhiều so với kích thước của nó. Độ dịch chuyển của những điểm này sẽ là bao nhiêu nếu tấm được mở rộng một cách đáng kinh ngạc, ví dụ, nếu kích thước của nó tăng lên 16 lần? Bài toán 7. Ở góc bên phải được tạo bởi $( P_{1}$ 0) mịn và $( P_{2}$ thô! 0), đặt một tấm vuông (Hình 9, b). Khi đun nóng, kích thước của tấm tăng thêm ' a = 1 mm. Các đỉnh của hình vuông – điểm A và B – dịch chuyển bao nhiêu trong trường hợp này? Kích thước được hiển thị trong hình ảnh. Bài toán giải theo giả định rằng độ tăng kích thước của tấm nhỏ hơn nhiều so với kích thước của nó.
 
@@ -109,11 +109,11 @@ SỰ MỞ RỘNG
 
 ⟦figure⟧
 
-Cơm. 10
+Hình 10
 
 điểm của tấm - điểm A. Để tính toán, giả sử rằng cạnh của hình vuông tăng khi bị nung nóng bởi ' a = 1 mm và không có ma sát tại các điểm tiếp xúc của tấm và đinh tán. Bài toán 9. Giải bài toán tương tự cho một đĩa có chuyển động bị giới hạn bởi hai điểm dừng tạo thành một góc 60q (Hình 10, b). Giả sử bán kính của đĩa tăng lên 1 mm khi bị nung nóng. Điều xảy ra là sự hiện diện của các điểm dừng không chỉ dẫn đến sự dịch chuyển mà còn dẫn đến chuyển động quay của vật thể! Bài toán 10. Tấm hình vuông được cố định trên trục $Г_{1}$, đi qua gần giữa mặt dưới và một điểm dừng $Г_{2}$ được dẫn vào gần giữa mặt bên (Hình 11, a). Tấm sẽ quay một góc bao nhiêu khi bị nung nóng, nếu biết kích thước của nó tăng 0,2% khi bị nung nóng? Không có ma sát giữa tấm, trục và điểm dừng. Lời giải. Điểm dừng $Г_{2}$ khiến bạn không thể mở rộng tấm một cách đơn giản - mặt bên “chạy qua” nó (Hình 11, b). Tuy nhiên, nếu tấm quay nhẹ (Hình 11, c) thì có thể giãn nở.
 
-Cơm. 11
+Hình 11
 
 ⟦folio 17⟧
 
@@ -127,7 +127,7 @@ Nếu bạn đã giải được hai bài toán trước đó, thì chắc chắ
 
 ⟦figure⟧
 
-Cơm. 14
+Hình 14
 
 Sự giãn nở tốt nhất của vật liệu được thể hiện bằng các đường thẳng. Một tấm hình chữ nhật được cắt ra khỏi tấm này sao cho hướng giãn nở tốt nhất tạo thành một góc 45° với đáy của tấm và nó được nung nóng đến cùng nhiệt độ (Hình 14, b). Chiều dài các cạnh của một tấm hình chữ nhật sẽ tăng lên bao nhiêu phần trăm khi đun nóng? diện tích tấm bìa sẽ tăng lên bao nhiêu phần trăm?
 

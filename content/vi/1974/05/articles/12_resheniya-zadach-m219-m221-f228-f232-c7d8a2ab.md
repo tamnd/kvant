@@ -46,7 +46,7 @@ Trong số tám đỉnh của một hình bình hành, bốn đỉnh không nằ
 
 ⟦folio 51⟧
 
-Cơm. 4.
+Hình 4.
 
 được kết nối với điểm $B''$ - và cả hai mặt cứng, và do đó, hình bình hành, sẽ được xác định duy nhất. Tổng cộng, trong trường hợp này có thể xây dựng được 12 cặp song song.
 
@@ -62,7 +62,7 @@ Bây giờ chúng ta hãy trình bày lời giải bài toán thứ hai (sau đ�
 
 ⟦folio 52⟧
 
-Cơm. 5.
+Hình 5.
 
 thẳng, dễ dàng dựng được hình bình hành - chỉ cần vẽ các đường thẳng song song đi qua các điểm này. Tổng cộng có ba đường thẳng cách đều ba điểm đã cho (chúng đi dọc theo đường giữa của tam giác với các đỉnh tại các điểm đã cho). Bạn có thể chọn hai trong số chúng theo ba cách (Hình 5).
 
@@ -80,7 +80,7 @@ Thật dễ dàng để thấy cách xây dựng tất cả các mặt phẳng n
 
 Ba trong số bảy mặt phẳng chúng ta có thể chọn theo $C_3^7 = \frac{7 \cdot 6 \cdot 5}{1 \cdot 2 \cdot 3} = 35$ cách. Cả ba đều thỏa mãn điều kiện 1°; hệ thống để tìm ra có bao nhiêu trong số ba đường thẳng này là “xấu”, không thỏa mãn điều kiện 2°, tức là song song với một đường thẳng.
 
-Cơm. 6.
+Hình 6.
 
 Sử dụng thực tế là đường giao nhau của hai trong số bảy mặt phẳng nối trung điểm của hai cạnh đối diện của tứ diện KLMN (có ba trường hợp như vậy trong đó - giao điểm của hai mặt phẳng), hoặc song song với một trong các cạnh của tứ diện (và ba trong số bảy mặt phẳng song song với mỗi cạnh), chúng ta thu được rằng có nhiều đường "xấu" bằng sáu cạnh trong tứ diện.
 
@@ -94,7 +94,7 @@ Nhà vua thực hiện 64 nước đi. Vì mỗi ô vuông của nước đi b�
 
 ⟦folio 53⟧
 
-Cơm. 7. Hình 8. Hình 9.
+Hình 7. Hình 8. Hình 9.
 
 Trong Hình 9, bạn có thể thực hiện được chính xác 28 nước đi “trực tiếp”.
 
@@ -110,7 +110,7 @@ Vì vậy, vòng tròn đầu tiên được xây dựng sẽ được chứa tr
 
 **F228.** Ở cuối khối có chiều dài $L$ và khối lượng $M$ có ​​một khối khối lượng ngắn $m$ (Hình 11). Bảng có thể trượt mà không gặp vấn đề gì dọc theo mặt phẳng ngang. Hệ số yêu cầu đối với khối trượt trên bề mặt doxie là $m$. Tốc độ $v_0$ phải được truyền tới doxa để nó trượt ra khỏi khối gật đầu?
 
-Cơm. 11.
+Hình 11.
 
 Vì doxa chỉ được phép trượt bởi cục nên tại thời điểm ban đầu khối sẽ trượt so với mặt phẳng và doxa có tốc độ $v_0$. Theo hướng chân trời, chỉ có các lực yêu cầu trượt $F_{tr.}$ và $F_{tr.6}$ tác dụng lên khối và doxa. Giữa chúng (Hình 12). Các lực này có giá trị tuyệt đối bằng nhau $\mu m g$ và truyền gia tốc cho khối và doxa bằng giá trị tương ứng
 
@@ -124,7 +124,7 @@ Nếu tốc độ ban đầu của doxie không bắt đầu thì một thời g
 
 ⟦folio 54⟧
 
-Cơm. 12.
+Hình 12.
 
 di chuyển như một tổng thể, nghĩa là ở cùng một tốc độ. Nếu sự khác biệt giữa biến của khối và bảng tại thời điểm này bằng với chiều dài của khối (Hình 12), thì khối sau đó sẽ di chuyển, nằm trên cạnh của bảng. Khối sẽ trượt khỏi bảng nếu chênh lệch này của biến lớn hơn $L$.
 
@@ -176,7 +176,7 @@ Do đó, hãy đặt quãng đường mà quả bóng đi được trước khi 
 
 F230. Trên một hệ gồm hai quả bóng có khối lượng $m$ được nối với nhau bằng một lò xo, có bề mặt nằm ngang phía trên, chúng ta bay vào một quả bóng có khối lượng $M$ từ bên trái (Hình 15). Bằng cách tìm kiếm bất kỳ cú đánh đàn hồi tuyệt đối nào. Tỷ lệ khối lượng theo kinh nghiệm nhất
 
-Cơm. 14.
+Hình 14.
 
 $$\gamma = \frac{m}{M}, \text{ при котором уdar произойдет раз.}$$
 
@@ -224,7 +224,7 @@ Bi 1 và 2 sẽ va chạm lại nếu đạt được đẳng thức $x_1 = x_2$
 
 $$v_0 t \frac{1-\gamma}{1+\gamma} = \frac{v_0 t}{1+\gamma} \left(1 + \frac{1}{\omega t} \sin \omega t\right),$$
 
-cơm. 17.
+hình 17.
 
 hoặc
 

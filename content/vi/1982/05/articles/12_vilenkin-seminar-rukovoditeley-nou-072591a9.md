@@ -193,7 +193,7 @@ Tùy chọn 1
 1. $\{5\} \cup [4 + \sqrt{2}; +\infty[$. Bình luận. Nhiều ứng viên đã hoàn thành xuất sắc
 
 $$F_{cm}$$
-Cơm. 1.
+Hình 1.
 
 đây là nhiệm vụ Tuy nhiên, một số người đã mất điểm $x = 5$, nhầm tưởng rằng bất đẳng thức ban đầu tương đương với hệ
 $$\begin{cases} \sqrt{x} - 5 \geqslant 0 \\ \log_{\sqrt{2}}(x - 4) - 1 > 0, \end{cases}$$
@@ -280,7 +280,7 @@ Tùy chọn 5
 
 ⟦folio 58⟧
 
-Cơm. 12.
+Hình 12.
 
 2. $\left\{ \frac{\sqrt{2}-1+\sqrt{3+2\sqrt{2}}}{2}, \frac{\sqrt{2}-1-\sqrt{3+2\sqrt{2}}}{2} \right\}$. Quét. Đã đoán (dùng định lý Vieta) rằng phương trình bậc hai $t^2+(1-\sqrt{2})t-\sqrt{2}=0$ có nghiệm $\sqrt{2}$ và $-1$, hoặc áp dụng đẳng thức dễ kiểm chứng $\sqrt{3+2\sqrt{2}}=\sqrt{2}+1$, đáp số có thể viết dưới dạng $\left\{ \frac{1}{10}, 10^{\sqrt{2}} \right\}$.
 
@@ -401,9 +401,9 @@ Xét trường hợp $|AO| \neq 0$ và $tg \alpha = 2$ ($\alpha$ là góc mà ti
 5. $2 \arcsin \frac{\sqrt{10}}{5} = \arccos \frac{1}{5} = 2 \arctg \frac{\sqrt{6}}{3}$.
 Gợi ý. Vẽ các đường thẳng song song với nó đi qua các đỉnh của tam giác $ABC$
 
-Cơm. 13.
+Hình 13.
 
-Cơm. 14.
+Hình 14.
 
 các mặt đối diện; chúng ta hãy biểu thị bằng $A'$ điểm giao nhau của các đường được vẽ qua $B$ và $C$; $B'$ và $C'$ được giới thiệu tương tự nhau. Khi đó góc giữa các mặt phẳng $SA'C'$ và $SA'B'$ là góc cần thiết. Các dạng khác nhau của đáp số tương ứng với các cách xác định giá trị khác nhau của nó.
 
@@ -425,7 +425,7 @@ trong đó $h$ là khoảng cách từ điểm tới của chùm tia
 
 ⟦folio 60⟧
 
-Cơm. 15.
+Hình 15.
 
 với trục, $l$ là chiều dài của hình trụ. Đối với trường hợp ánh sáng truyền từ thủy tinh qua không khí, chúng ta có thể viết
 
@@ -549,4 +549,4 @@ Nếu $F = F_1$ thì $d_1 = 0,7$ m và $d_2 = 0,3$ m. Nếu $F = F_2$ thì sẽ 
 1. Khối lượng của quả bóng là 20 g, con cá là 30 g, hình nón là 50 g. Hệ thống được đưa vào trạng thái cân bằng bằng các quả bóng, hoặc bằng một con cá và một cây gậy, hoặc bằng một quả bóng và hai cây gậy.
 2. 60 phút = 20 + 10 + 15 + 15 (xem Hình 20).
 
-Cơm. 20.
+Hình 20.

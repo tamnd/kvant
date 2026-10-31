@@ -130,11 +130,11 @@ Nhiệm vụ 5. (2). Trong một bình hình trụ có bán kính $R$, được 
 
 Phích cắm có dạng hình trụ có bán kính $r$, chiều dài lớn hơn $l$. Bỏ qua việc đào tạo. Bình đủ cao để nước không tràn ra ngoài.
 
-Cơm. 1.
+Hình 1.
 
 ⟦folio 49⟧
 
-Cơm. 2.
+Hình 2.
 
 Bài toán 6. (3) Điểm treo từ tính có chiều dài $l$ ngay lập tức chuyển động theo hướng nằm ngang với tốc độ không đổi $v$, sau đó sau khi di chuyển một khoảng $a$ nó ngay lập tức dừng lại. Trước khi phong trào bắt đầu, nam châm đã tích lũy. Ở tốc độ nào thì hệ thống treo từ tính xuất hiện khi chuyển động bắt đầu dừng lại ngay sau khi dừng? Góc lệch của nam châm so với phương thẳng đứng được coi là nhỏ.
 
@@ -142,7 +142,7 @@ Bài toán 7. (3) Có một chùm hạt nhân giống hệt nhau song song chuy�
 
 Bài toán 8. (3) Con bọ được chụp ở hai tỷ lệ, đưa máy ảnh đến khoảng cách $l$, lúc đầu bằng gấp ba rồi đến năm lần tiêu cự của thấu kính. Phải thay đổi đường kính nhiễu xạ của thấu kính bao nhiêu lần để độ sáng của ảnh trên phim trong cả hai trường hợp là như nhau? Giả sử rằng đường kính của vật nhỏ hơn nhiều so với $l$.
 
-Cơm. 3.
+Hình 3.
 
 Bài toán 9. (4) Trong mạch (Hình 2) dòng điện là dòng điện không đổi. Chìa khóa đã được mở khóa. Sau khoảng thời gian xấp xỉ bao nhiêu thì điện tích trên tụ giảm đi $\frac{1}{1000}$ giá trị ban đầu?
 

@@ -193,13 +193,13 @@ Hãy xếp tất cả các điểm theo thứ tự dọc theo bờ hồ: 1, 2, 3
 
 Lưu ý rằng lý luận của chúng tôi đưa ra một hạn chế (một điều kiện cần thiết!) về khả năng có số điểm: n chẵn và n ≥ 4.
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
-Cơm. 3
+Hình 3
 
-Cơm. 4.
+Hình 4.
 
 ⟦folio 50⟧
 

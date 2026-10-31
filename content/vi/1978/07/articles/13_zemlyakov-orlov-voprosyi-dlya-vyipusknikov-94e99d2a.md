@@ -73,12 +73,12 @@ a) $\varphi = 0^\circ$; 6) $\varphi = 90^\circ$; b) $\varphi = 180^\circ$; d) $0
 
 10. Hai góc phẳng của một góc tam giác là $\alpha = 120^\circ$ và $\beta = 150^\circ$. Giá trị của góc tam giác $\gamma$ có ​​thể nằm trong giới hạn nào?
 
-Cơm. 1.
-Cơm. 2.
+Hình 1.
+Hình 2.
 
 ⟦folio 45⟧
 
-Cơm. 3.
+Hình 3.
 
 a) $0^\circ < \gamma < 90^\circ$; b) $0^\circ < \gamma < 180^\circ$; c) $30^\circ < \gamma < 270^\circ$; d) $30^\circ < \gamma < 180^\circ$; e) $30^\circ < \gamma < 90^\circ$.
 
@@ -120,15 +120,15 @@ d) không có đáp số nào đúng.
 
 ⟦folio 46⟧
 
-Cơm. 4.
+Hình 4.
 
-Cơm. 5.
+Hình 5.
 
-Cơm. 6.
+Hình 6.
 
-Cơm. 7.
+Hình 7.
 
-Cơm. 8.
+Hình 8.
 
 như hình 7. Hệ số ma sát của vật trên mặt bàn là 0,3. Đồ thị nào trên Hình 8 thể hiện sự phụ thuộc của lực ma sát $F_{tr}$ giữa khối và mặt bàn theo thời gian?
 

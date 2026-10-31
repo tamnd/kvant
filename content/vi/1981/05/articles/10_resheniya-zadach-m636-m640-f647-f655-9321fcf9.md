@@ -44,26 +44,26 @@ Yu. Nesterenko
 
 M637. Cho tam giác đều ABC. Một đường thẳng song song với đường thẳng AC cắt các đường thẳng AB, BC lần lượt tại M và P. Điểm D là tâm tam giác PMB, điểm E là trung điểm đoạn AP. Tính các góc của tam giác DEC.
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
-Cơm. 3.
+Hình 3.
 
-Cơm. 4.
+Hình 4.
 
 ⟦folio 23⟧
 
-Cơm. 5.
-Cơm. 6.
+Hình 5.
+Hình 6.
 MỘT)
 B=M=P=D
 x=0
 b)
 x=1
-Cơm. 7.
+Hình 7.
 x=1
-Cơm. 8.
+Hình 8.
 
 M638. Một số ô của một tờ giấy ca rô vô hạn được tô màu đỏ, các ô còn lại màu xanh lam, sao cho mỗi hình chữ nhật gồm 6 ô có kích thước 2x3 chứa đúng hai ô màu đỏ. Một hình chữ nhật gồm 99 ô có kích thước 9x11 có thể chứa bao nhiêu ô màu đỏ?
 
@@ -105,11 +105,11 @@ Tiếp theo, trong hình chữ nhật bên phải phải có ít nhất một ô
 
 ⟦folio 24⟧
 
-Cơm. 1. Hình 2.
+Hình 1. Hình 2.
 
-Cơm. 3.
+Hình 3.
 
-Cơm. 4.
+Hình 4.
 
 M639. Trong tứ diện ABCD (AC) ⊥ (BC) và (AD) ⊥ (BD). Chứng minh rằng cosin của góc giữa hai đường thẳng AC và BD nhỏ hơn |CD|/|AB|.
 
@@ -181,9 +181,9 @@ B. Belonukin
 
 F648. Cấu trúc bản lề bao gồm ba hình thoi, các cạnh có tỷ lệ 3:2:1 (Hình 1). Đỉnh $A_3$ di chuyển theo hướng ngang với tốc độ $v_0$. Xác định vận tốc của các đỉnh $A_1, A_2, B_1$ tại thời điểm mọi công trình đều thẳng.
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
 F649. Trong xô có hỗn hợp nước và đá. Khối lượng của hỗn hợp là 10 kg. Chiếc xô được mang vào phòng và họ ngay lập tức bắt đầu thay đổi nhiệt độ của hỗn hợp. Đồ thị kết quả của sự phụ thuộc $t(\tau)$ được hiển thị trong hình. Nhiệt độ riêng của nước $c_B = 4200$ J/(kg K) và nhiệt độ của nước đá $\lambda = 3,4 \cdot 10^5$ J/kg đã được biết. Xác định xem có bao nhiêu đá trong xô khi nó được mang vào phòng. Bỏ qua nhiệt dung của thùng.
 
@@ -291,7 +291,7 @@ F652. Mạch điện trong hình bao gồm hai điện trở giống hệt nhau 
 
 F653. Một số phần tử Z, được nối với pin có emf $\varepsilon = 10\text{ B}$ và điện trở trong $r = 10\text{ K}\Omega$, được nối với nguồn dòng điện bên ngoài như trong Hình 1. Đặc tính điện áp-điện áp của mạch như vậy được thể hiện trong Hình 2 (đường cong màu đen). Vẽ đặc tính vôn kế của phần tử Z.
 
-Cơm. 1. Hình 2. $I_6(U)$
+Hình 1. Hình 2. $I_6(U)$
 
 F654. Giá đỡ khối lượng M được đặt trên bàn chính. Một quả cầu khối lượng m được gắn vào một giá ba chân bằng một sợi dây mảnh có chiều dài l. Sợi chỉ bị lệch một góc nhỏ a và được thả ra (Hình 1). Narip
 
@@ -329,7 +329,7 @@ V. Mozhaev
 
 tương ứng với biểu đồ tốc độ của shativa theo thời gian. Quả bóng va chạm với đế của shativa hoàn toàn đàn hồi.
 
-Cơm. 1.
+Hình 1.
 $$\begin{align*}
 |AO|: |OB| &= m : M; \\
 A'O'|: |O'B| &= m : M \\
@@ -338,7 +338,7 @@ A'O'| + |O'B| &= l
 
 $$\Rightarrow |O'B| = l \frac{M}{m+M}.$$
 
-Cơm. 2. $\tau = \frac{\pi}{2} \sqrt{\frac{l}{g} \frac{M}{m+M}}$.
+Hình 2. $\tau = \frac{\pi}{2} \sqrt{\frac{l}{g} \frac{M}{m+M}}$.
 
 F655. Hiện nay, các cuộn dây điện từ có cuộn dây siêu dẫn được sử dụng. Những cuộn dây điện từ như vậy có thể tạo ra từ trường trong thời gian dài mà không tiêu tốn năng lượng. Tuy nhiên, nếu vì lý do nào đó mà một phần của cuộn dây điện từ mất đi đặc tính siêu dẫn thì sẽ xảy ra tai nạn. Tại khu vực này, một lượng lớn dòng điện sẽ được giải phóng và một vụ nổ sẽ xảy ra. Hãy nghĩ ra thiết bị đơn giản nhất để loại bỏ những tai nạn như vậy (đừng cố nghĩ ra bất kỳ mạch nào có rơle mở mạch - chúng sẽ không giúp ích gì).
 

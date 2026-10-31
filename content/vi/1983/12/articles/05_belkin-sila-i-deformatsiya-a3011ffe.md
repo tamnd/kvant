@@ -58,7 +58,7 @@ Chúng ta hãy giả sử rằng một lực không đổi $\vec{F}$ tác dụng
 
 $$m \quad F$$
 
-Cơm. 1
+Hình 1
 
 Vì vậy, khi xem xét trường hợp một vật thể, dưới tác dụng của một lực tác dụng lên nó, nó chuyển động với gia tốc và đồng thời bị biến dạng. Việc cơ thể bị biến dạng tất nhiên là “có lỗi” do lực $\vec{F}$, nhưng nó không phát huy được vai trò của nó. Cơ thể bị biến dạng khi các điểm khác nhau của nó di chuyển tương đối với nhau. Thực tế là vai trò của lực trong quá trình biến dạng chỉ là gián tiếp được thể hiện rõ ràng từ thực tế là độ lớn và tính chất của biến dạng không được xác định duy nhất bởi lực tác dụng mà phụ thuộc vào vật liệu của thanh và tính đồng nhất của nó trong mặt cắt ngang và thành phần. Gia tốc của thanh được xác định duy nhất bởi lực tác dụng lên nó.
 

@@ -56,10 +56,10 @@ Tại $\eps=\dfrac13$ Câu khẳng định sai.
 Nói cách khác, *không có hệ thống "khăn ăn" nào có thể đóng vai trò là ví dụ bắt buộc cho $\eps=\dfrac13$, tức là bất kỳ hệ thống "khăn ăn" nào cũng chứa một hệ thống con gồm các "khăn ăn" không chồng chéo bao phủ một phần của "bàn" $o$ có chiều dài $\dfrac13$* $\Big($ trở lên $\dfrac13\Big)$.
 
 ⟦figure⟧
-Cơm. 1
+Hình 1
 
 ⟦figure⟧
-Cơm. 2
+Hình 2
 
 Cho một hệ thống các đoạn $K$ bao phủ đoạn $o$ có độ dài 1. Chúng ta hãy chọn đoạn lớn nhất từ ​​$K$ và biểu thị nó là $i_1$. Bây giờ chúng ta hãy xóa khỏi hệ thống $K$ tất cả các đoạn của lớp phủ giao nhau với đoạn đã chọn $i_1$ (chúng bao gồm một đoạn có độ dài không quá $3|i_1|$, trong đó $|i|$ là độ dài của đoạn $i$). Từ các phân đoạn phủ sóng còn lại, chúng tôi lại chọn phân đoạn lớn nhất (chúng tôi ký hiệu là $i_2$) và loại bỏ tất cả các phân đoạn giao nhau với $i_2$ (chúng bao gồm một đoạn có độ dài không quá $3|i_2|$), v.v., cho đến khi chúng tôi sử dụng hết tất cả các phân đoạn phủ sóng. Hệ thống con được chọn gồm các đoạn rời rạc $i_1$, $i_2$, $\ldots$ sao cho $$
 3|i_1|+3|i_2|+\ldots\ge1,
@@ -91,7 +91,7 @@ Bài tập 4. Chứng minh định lý tương tự cho “cái bàn” - đư�
 Năm 1928, nhà toán học nổi tiếng người Hungary Tibor Rado (T. Radó) đã báo cáo trong một bức thư gửi biên tập viên tạp chí toán học hàng đầu Ba Lan Fundamenta Mathematicae, người đứng đầu trường toán học Ba Lan, Wacław Sierpinski, rằng ông không thể giải được bài toán hình học có vẻ đơn giản bài toán liên quan đến lý thuyết hàm số nhiều biến. Sau khi phác thảo những cân nhắc và kết quả mà chúng tôi đã biết về việc bao phủ một phân khúc theo các phân đoạn, T. Rado đặt ra câu hỏi về việc thu được các ước tính tương tự cho “hai chiều” bài toán, trong đó “khăn ăn” là *hình vuông* (có kích thước khác nhau) và “bảng” chẳng hạn là *hình vuông* (hoặc *hình chữ nhật*) của khu vực 1 và các cạnh của khăn ăn song song với các cạnh của bàn (Hình 3).
 
 ⟦figure⟧
-Cơm. 3
+Hình 3
 
 Vì vậy, sự khác biệt giữa bài toán của Rado và bài toán M321 (Brailov) chỉ ở dạng “khăn ăn”: trong M321 chúng có thể là bất kỳ hình chữ nhật nào, nhưng trong Rado, chúng chỉ có thể là hình vuông. Nhưng sự khác biệt “nhỏ” này, như thường lệ, đã thay đổi hoàn toàn vấn đề.
 
@@ -140,7 +140,7 @@ Trước tiên chúng ta hãy chứng minh một định lý thú vị như vậ
 Bằng chứng. Hãy cắt một tờ giấy ca rô thành các ô riêng biệt và xếp tất cả các ô có thể chứa ít nhất một phần của hình lại thành một chồng (từ Hình 4, *a* hãy chuyển sang Hình 4, *b*). Vì tổng diện tích của các phần trong hình của chúng ta lớn hơn $n-1$ nên một số điểm trong ngăn xếp sẽ được bao phủ bởi ít nhất $n$ phần của hình. Hãy dùng kim đâm vào một trong những điểm này; Sẽ có một vết thủng trên mỗi mảnh. Nếu bây giờ chúng ta đặt các ô xếp chồng lên nhau trên mặt phẳng theo cùng một thứ tự (tất nhiên, chúng ta giả sử rằng các ô được kết hợp bằng cách chuyển song song), thì các vết thủng sẽ được đặt “theo cách chính xác” - tại các đỉnh của lưới hình vuông mới có cạnh 1 (Hình 4, *c*). Vẫn phải di chuyển hình song song sao cho các lỗ này thẳng hàng với các nút (Hình 4, *d*).
 
 ⟦figure⟧
-Cơm. 4
+Hình 4
 
 Bài tập 6. Chứng minh rằng nếu diện tích của một hình nhỏ hơn $n+1$ thì có thể di chuyển hình đó sao cho nó chạm không quá $n$ nút lưới ($n$ là số nguyên).
 

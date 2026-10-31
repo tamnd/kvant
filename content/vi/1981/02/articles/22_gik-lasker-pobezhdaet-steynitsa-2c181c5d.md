@@ -81,7 +81,7 @@ Tương tự:
 5. $21_{10} \times 3_{10} = 131_{10}$.
 6. $7431_{10}$.
 
-Cơm. 1.
+Hình 1.
 Viện Vật lý và Công nghệ Moscow
 
 Toán học

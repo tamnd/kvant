@@ -66,9 +66,9 @@ M606. Hàm $f$ sao cho đối với mọi $x$ $f(x+1)+f(x-1)=\sqrt{2}f(x)$ thự
 
 M607. a) Cắt hình vuông thành các hình thang đều. b) Cắt một tam giác vuông đều thành hình thang đều. c) Chứng minh rằng mọi đa giác đều có thể cắt thành hình thang đều.
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2. Hình 3.
+Hình 2. Hình 3.
 
 $n(n+1)+1$ điểm cố định. Điều này có nghĩa là có ít nhất $n(n+1)+1$ điểm trong $F$. Ví dụ: sẽ đạt được chính xác số điểm cố định này nếu chúng ta lại lấy $2n+1$ điểm trên một đường thẳng có tọa độ nguyên $-n$, $-(n-1)$, ..., $-1$, 0, 1, 2, ..., $n-1$, $n$. Với tất cả các cách có thể để đặt $n$ “trừ” trước một số trong số chúng, giá trị lớn nhất của tổng các số này là $2 \cdot (1+2+\dots+n)=n(n+1)$, giá trị nhỏ nhất là $-n(n+1)$ và tổng có thể nhận bất kỳ giá trị chẵn nào giữa các số $-n(n+1)$ và $n(n+1)$ - tổng giá trị $n(n+1)+1$.
 
@@ -134,9 +134,9 @@ F608. Một tàu vũ trụ có khối lượng $M=12$ t di chuyển quanh Mặt 
 1) Phải tiêu tốn bao nhiêu nhiên liệu để khi kích hoạt chuyển động phanh tại điểm A trên quỹ đạo tàu sẽ lao xuống Mặt Trăng tại điểm B (Hình 1)?
 2) Trong phương án hạ cánh thứ hai, một xung được truyền tới tàu tại điểm A theo hướng tâm Mặt trăng để đưa tàu vào quỹ đạo chạm vào Mặt trăng tại điểm C (Hình 2). Cần tiêu thụ bao nhiêu nhiên liệu trong trường hợp này?
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
 1) Khi một con tàu di chuyển quanh Mặt trăng theo quỹ đạo tròn, gia tốc hướng tâm của con tàu được truyền bởi lực hấp dẫn. Bởi vì
 

@@ -260,7 +260,7 @@ Vì vậy, cũng có thể sắp xếp trong trường hợp các phím lấy gi
 
 Khi chọn phương pháp sắp xếp, điều quan trọng là sử dụng mọi kiến ​​thức bạn có về tổ chức hoặc thứ tự của các tập hợp dữ liệu cần sắp xếp. Về vấn đề này, đặc trưng nhất là phương pháp quay. Nó được sử dụng để sắp xếp một tập hợp các phần tử thu được bằng cách kết hợp hai hoặc nhiều bộ sưu tập đã được sắp xếp theo cùng một khóa. Những tình huống như vậy xảy ra thường xuyên. Ví dụ, từ danh sách tất cả các lớp 10 của các trường được sắp xếp “theo bảng chữ cái” (nghĩa là theo thứ tự từ điển), cần lập danh sách chung các học sinh tốt nghiệp nhưng vẫn giữ nguyên thứ tự từ điển. Hãy xem xét một chương trình quay hai tệp danh sách như vậy f1 và f2
 
-Cơm. 1.
+Hình 1.
 
 (Hình 1). Do đó chúng ta đang nói về việc sắp xếp bên ngoài. Tuy nhiên, phương pháp quay hầu như chỉ được sử dụng trong việc sắp xếp bên ngoài. Người đọc có thể hiểu phương pháp quay, chạy chương trình quay để sắp xếp bên trong như một điều khiển độc lập - để sắp xếp các mảng chứ không phải các tệp.
 

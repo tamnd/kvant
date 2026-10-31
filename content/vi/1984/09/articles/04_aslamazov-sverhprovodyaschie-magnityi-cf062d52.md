@@ -67,7 +67,7 @@ Nhà máy rượu Abrikosovskie
 
 Năm 1957, nhà vật lý Liên Xô A. A. Abrikosov về mặt lý thuyết đã chỉ ra rằng tính siêu dẫn trong hợp kim có thể bị phá hủy
 
-Cơm. 2. Hình 3. Hình 4.
+Hình 2. Hình 3. Hình 4.
 
 ⟦folio 5⟧
 
@@ -79,7 +79,7 @@ Mỗi cấu trúc của đường cảm ứng từ trường trong chất siêu 
 
 Lần đầu tiên người ta phát hiện ra bức tranh vô học về sự phá hủy chất siêu dẫn bởi từ trường trong hợp kim
 
-Cơm. 5.
+Hình 5.
 
 ⟦folio 6⟧
 

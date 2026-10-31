@@ -113,9 +113,9 @@ Nghịch ngợm bài toán
 
 1. $(-\frac{\pi}{2} + 2\pi n)^2, n \in \mathbb{N}$. 2. Nếu $a > 0$ thì $x \geq -b/a$. Nếu $a < 0$ thì $x \leq -b/a$. Nếu $a = 0$ và $b \geq 0$ thì $x$ có thể là bất cứ thứ gì. Nếu $a = 0$ và $b < 0$, lời giải không xuất hiện. 3. $(x; y): x \geq 0, y = 0$. 4. $] - \infty; 0[$.
 
-Cơm. 1. Hình 2. Hình 3.
+Hình 1. Hình 2. Hình 3.
 
-Cơm. 4. Hình 5
+Hình 4. Hình 5
 
 ⟦folio 59⟧
 
@@ -315,7 +315,7 @@ Vật lý
 (xem «Kvant» số 4)
 1. Trong trường hợp đầu tiên - với bất kỳ sự tương ứng nào về bán kính, trong trường hợp thứ hai - không một bánh răng nào phải quay cùng một lúc... theo hai hướng ngược nhau (xem Hình 18).
 
-Cơm. 18.
+Hình 18.
 
 2. Khoảng cách là ba hình vuông liền kề với một trong các đỉnh của khối lập phương. Rõ ràng, tất cả chúng đều phải có màu khác nhau. Tuyên bố bài toán xuất phát từ nhận xét này.
 3. $+\frac{85679}{171358}$.

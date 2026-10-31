@@ -86,7 +86,7 @@ $$|O_1A_1| = |O_2A_2| = R.$$
 
 ⟦folio 23⟧
 
-Cơm. 7.
+Hình 7.
 
 Các điểm $A_1$ và $A_2$ có thể di chuyển dọc theo đường tròn bán kính $R$ có ​​tâm $O_1$ và $O_2$. Lưu ý rằng giá trị lớn nhất có thể có của khoảng cách $|A_1A_2|$ là $2(l + R)$ (Hình 5,a) và giá trị bằng nhau nhất là $2(l - R)$ (tại $l \geq R$) hoặc $0$ (tại $l \leq R$) (Hình 5,a, 6). Theo đó, để tồn tại cơ chế Watt, điều cần thiết là các tham số $d$, $R$ và $l$ phải thỏa mãn các bất đẳng thức
 $$l - R \leq d \leq l + R.$$

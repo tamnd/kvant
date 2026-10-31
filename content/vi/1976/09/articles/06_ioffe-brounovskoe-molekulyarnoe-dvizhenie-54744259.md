@@ -42,7 +42,7 @@ sưởi ấm, điện khí hóa, chiếu sáng, v.v. Chuyển động này khôn
 
 Thật dễ dàng để biết tại sao cần có các hạt vi quang để phát hiện chuyển động nhiệt. Hơn nữa, trong một chất tương đối hiếm, ở dạng khí, trong điều kiện bình thường sẽ có 2,7 1019 phân tử trong mỗi cm khối; tất cả những phân tử này di chuyển với tốc độ rất lớn theo mọi hướng có thể. Do đó, số lượng cú sốc mà một vật thể có cùng kích thước phải trải qua lớn đến mức chúng ta không những không có thời gian để nhận thấy một cú sốc riêng lẻ mà còn không nhận thấy sự vượt trội ngẫu nhiên của các cú sốc theo một hướng so với các cú sốc theo hướng ngược lại. Cơ thể càng nhỏ thì càng chịu ít cú sốc và đối với các hạt bụi vi mô, số lượng cú sốc mà nó chịu không còn lớn đến mức ưu thế của các cú sốc từ hướng này hoặc hướng ngẫu nhiên khác là không đổi và hạt bụi bị ném từ bên này sang bên kia. Một hạt bụi như vậy sẽ chứa thêm hàng triệu phân tử nữa, nên chuyển động ngẫu nhiên của nó mà chúng ta nhìn thấy bản thân nó không phải là chuyển động phân tử; chúng ta không chỉ nhận thấy một phân tử đơn lẻ mà chỉ nhận thấy phần lớn các cú sốc theo một hướng nào đó; nhưng hạt bụi này là dấu hiệu chắc chắn về sự tồn tại của chuyển động phân tử, giống như hình ảnh một con tàu lắc lư trên biển cho thấy sự tồn tại của sóng.
 
-Cơm. 1.
+Hình 1.
 
 Để hiểu được các đặc điểm hỗn loạn của chuyển động Brown, hãy xem xét bản vẽ của Perrin, người đã nghiên cứu chi tiết hiện tượng này (Hình 1). Hình vẽ cho thấy vị trí của cùng một hạt trong trường microsoppal cứ sau 1/2 phút. Các đường nhận nối các vị trí này không tương ứng với đường đi thực tế của hạt trong suốt 1/2 phút. Ngược lại, hãy để hình ảnh giữa hai vị trí phức tạp và phức tạp như một bức vẽ cân nặng. Mỗi dấu vết của một hạt với một phân tử chất lỏng xung quanh sẽ thay đổi một chút hướng chuyển động của nó và có tới 1012 vệt như vậy trong vòng 1 giây. Chúng ta không thể mô tả đường đi thực tế của hạt; Tuy nhiên, ngay cả những vị trí quan sát được của hạt tại những thời điểm nhất định cũng đã bộc lộ những đặc điểm điển hình không xoắn của chuyển động nhiệt.
 
@@ -62,8 +62,8 @@ Với mọi góc φ giữa AB và BC ta có AC2 = AB2 + BC2 - 2AB·BC·cos φ. T
 
 cos φ = cos(180° - α) = — cos α,
 
-cơm. 2.
-cơm. 3.
+hình 2.
+hình 3.
 
 ⟦folio 23⟧
 

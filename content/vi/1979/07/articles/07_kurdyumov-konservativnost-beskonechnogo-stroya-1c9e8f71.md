@@ -42,7 +42,7 @@ Chúng ta hãy mô tả những người tái cổ điển, những người s�
 
 Trước khi trình bày chứng minh ở dạng tổng quát, chúng ta xét một trường hợp đặc biệt để minh họa. Giả sử có đúng bảy lần phân loại lại còn lại và tất cả chúng đều đứng thành một hàng. Sự phát triển của một hệ thống như vậy theo thời gian được thể hiện trong Hình 2. Chúng ta thấy rằng sau 12 giây không còn lại phần tái phân loại nào. Tương tự,
 
-Cơm. 1.
+Hình 1.
 
 ⟦folio 34⟧
 
@@ -52,10 +52,10 @@ một trong những người cánh tả tồi tệ nhất. Chúng ta sẽ gọi 
 Những học sinh lớp một không vào đảo hoặc đầm lầy được gọi là biển (Hình 3).
 Bổ đề 1 (hiển nhiên). Nếu bên phải của học sinh lớp 1 A đứng im lặng bên phải của học sinh lớp 1 thì A luôn là mak và ta đúng (Hình 4).
 
-Cơm. 2.
+Hình 2.
 biển
 đầm lầy
 hòn đảo
 biển
 
-Cơm. 3.
+Hình 3.

@@ -49,7 +49,7 @@ Tất nhiên, thật thú vị khi hiểu không chỉ đường đi của chim 
 
 ví dụ: học cách xác định vị trí của các điểm Aₙ và Bₙ theo số n. Trong lời giải, chúng tôi cũng sẽ nhận được đáp số cho câu hỏi này. Trong tương lai, cùng với từ “blukha” chúng ta sẽ thường xuyên sử dụng từ “điểm”.
 
-Cơm. 1.
+Hình 1.
 
 ⟦folio 26⟧
 
@@ -58,9 +58,9 @@ Việc bắt đầu bằng một thử nghiệm là điều tự nhiên:
 vẽ hai đường thẳng, trang bị cho mình một vòng tròn (thậm chí tiện lợi hơn là mét) và lấy một điểm nào đó $A_0$ làm điểm bắt đầu, xem “quỹ đạo” của đồ thị trông như thế nào. Một ví dụ như vậy được xây dựng trong Hình 1: các điểm $A_0$, $B_0$, $A_1$, $B_1$, ... được kết nối tuần tự bằng các đoạn màu đỏ và đầu (có mũi tên) chỉ đường dẫn của lỗi. Bạn có thể lặp lại thí nghiệm này bằng cách chụp một góc khác giữa các đường thẳng hoặc một điểm bắt đầu khác. Sau nhiều lần trì hoãn, rõ ràng là các điểm $A_n$ (và $B_n$) rơi về một bên hoặc về phía bên kia của giao điểm $K$ của các đường $a$ và $b$. Đúng, không có tính định kỳ nghiêm ngặt ở đây:
 ví dụ: trong Hình 1, đốm sáng xuất hiện trên mỗi tia có đỉnh $K$, đôi khi hai lần liên tiếp, đôi khi ba lần. Và tất nhiên, thử nghiệm không cho phép chúng tôi tìm hiểu xem blog sau vài bước có kết thúc ở điểm xuất phát hay không $A_0$: suy cho cùng, chúng tôi chỉ có thể thực hiện các công trình xây dựng bằng phép tính gần đúng, vì vậy từ hình vẽ, chúng tôi sẽ không thể nắm bắt được sự khác biệt giữa xấp xỉ hợp lý và xấp xỉ vô tỷ.
 
-Cơm. 2.
+Hình 2.
 
-Cơm. 3.
+Hình 3.
 
 phế liệu. (Chỉ trường hợp góc đúng là rõ ngay; Hình 2.)
 
@@ -84,7 +84,7 @@ Lấy một điểm $O$ trên mặt phẳng và đặt tất cả các vectơ c�
 
 ⟦folio 27⟧
 
-Cơm. 4.
+Hình 4.
 
 (2) hoãn lại từ thời điểm này. Chúng ta ký hiệu các vectơ này bằng sự tương ứng của vectơ dãy (2), như sau:
 
@@ -176,7 +176,7 @@ $$\cup C_n C_{n+1} = 2\gamma.$$
 
 ⟦folio 30⟧
 
-Cơm. 10.
+Hình 10.
 
 Lực căng 4. Đảm bảo rằng phép biến đổi $S_p \circ S_q$ là phép quay theo góc $(-2\gamma)$, tức là phép quay $2\gamma$ theo chiều kim đồng hồ (xem tổng hợp trong Hình 4). Do đó, nếu góc $\gamma$ khác với góc 0 hoặc góc vuông thì $S_p \circ S_q \neq S_q \circ S_p$.
 
@@ -230,7 +230,7 @@ $$2\gamma n = 360^\circ p,$$ trong đó $p$ là số nguyên, nên $C_n = C_0$.
 
 ⟦folio 31⟧
 
-Cơm. 11.
+Hình 11.
 
 Để kết luận, một lần nữa chúng tôi khuyên bạn nên cải thiện khả năng “nhảy, rẽ và đối xứng”.
 

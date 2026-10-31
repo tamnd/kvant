@@ -43,7 +43,7 @@ Theo lý thuyết của Bohr, nguyên tử của bất kỳ nguyên tố nào c�
 
 Khoảng cách giữa các dòng $\Delta E$
 
-Cơm. 1. Dải năng lượng của lượng tử trường điện từ có trong tự nhiên.
+Hình 1. Dải năng lượng của lượng tử trường điện từ có trong tự nhiên.
 
 ⟦folio 8⟧
 

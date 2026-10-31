@@ -28,9 +28,9 @@ Lời giải bài toán
 
 M645. Có ba hành lang ở tầng hầm (Hình 1; $|OA| = |OB| = |OC| = l$), tất cả các lối ra đều bị đóng. Thanh tra Warnicke và một người đại diện đang ở đó. Warnicke thay thế người đại diện nếu khoảng cách giữa họ không vượt quá $r$. Anh ta biết rằng tốc độ tối đa của người đại diện bằng một nửa tốc độ tối đa của chính anh ta. Lúc đầu, thanh tra viên đang ở điểm $O$ và không nhìn thấy người đại diện. Warnicke nên hành động như thế nào để chắc chắn bắt được người đại diện nếu $a) r = l/3, 6) r = l/4, \text{в})^* r > l/5, \text{в}) r > l/7$. Bỏ qua chiều rộng của hành lang và kích thước của người. (Warnicke phải đưa ra một kế hoạch hành động sao cho dù người đại diện có biết trước về việc đó thì anh ta vẫn không thể thực hiện được dịch vụ).
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
 1. Lời giải bài toán tại $r > l/5$ (một phần, tại $r = l/3$ và $r = l/4$).
 Đầu tiên, Warnicke “lược” hành lang $OC$. Sau khi chắc chắn rằng người đại diện không có ở đó, Warnicke rút lui về hành lang $OA$ ở khoảng cách $2r$ rồi quay lại điểm $O$, di chuyển với tốc độ tối đa (sau đây sẽ coi như thanh tra luôn di chuyển với tốc độ tối đa). Giả sử sau khi quay lại điểm $O$, thanh tra viên không gặp người đại diện; Anh ta biết gì trong trường hợp này về nơi ở có thể có của người đại diện?
@@ -59,7 +59,7 @@ Hãy tìm công thức của $y_n$. Vì $y_n + 1 = \frac{y_n + 3r}{2}, 3r - y_n 
 
 ⟦folio 22⟧
 
-Cơm. 3.
+Hình 3.
 
 $$y_n = 3r - \frac{r}{2^{n-1}}.$$
 
@@ -118,9 +118,9 @@ I. Klumova
 
 **M648. Chứng minh rằng nếu các đường chéo của một tứ giác nội tiếp là các đường vuông góc thì trung điểm các cạnh của nó và đáy của các đường chéo đó rơi từ giao điểm của đường chéo của nó lên các cạnh nằm trên cùng một đường tròn.**
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
 Trước hết, chúng ta lưu ý rằng nếu $ABCD$ là một tứ giác nội tiếp có các đường chéo vuông góc (Hình 1), thì các tam giác đồng dạng $AKB$ và $CKD$ (K là giao điểm của các đường chéo) được đặt sao cho phần kéo dài của đường cao hạ xuống cạnh huyền của một trong số chúng là đường trung bình của tam giác kia. (Thực tế này, ngay sau sự bằng nhau của các góc được đánh dấu trong Hình 1, về cơ bản đã được sử dụng trong lời giải bài toán M546 và M592 - xem «Kvant», 1980, Số 1, 8.)
 
@@ -138,15 +138,15 @@ $$= \frac{1}{4} \left((|AK| + |KC|)^2 + (|BK| + |KD|)^2\right) =$$
 
 ⟦folio 24⟧
 
-Cơm. 3.
+Hình 3.
 
-Cơm. 4.
+Hình 4.
 
-Cơm. 5.
+Hình 5.
 
-Cơm. 6.
+Hình 6.
 
-Cơm. 7.
+Hình 7.
 
 $$\frac{1}{4}(|AB|^2 + |CD|^2 + 2(|AK| \cdot |KC| + |BK| \cdot |KD|)) =$$
 
@@ -270,10 +270,10 @@ a) Trong tháng sẽ ghi gì vào bảng kê nếu tổng số tập là n=3, n=
 b) Chứng minh rằng nếu tổng số tập là n=k(k+1)/2, trong đó k là số tự nhiên thì bắt đầu từ một ngày nhất định, câu lệnh sẽ có các mục giống nhau.
 c) Tìm hiểu xem điều gì sẽ xảy ra sau nhiều ngày làm việc đối với các giá trị khác của n.
 
-Cơm. 1.
+Hình 1.
 n=3, m=3, T=2
 
-Cơm. 2.
+Hình 2.
 
 Khi n=3 chỉ có ba cách sắp xếp:
 (1,1,1) - ba chồng một tập;

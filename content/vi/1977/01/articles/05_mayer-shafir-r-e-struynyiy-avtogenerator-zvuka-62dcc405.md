@@ -35,4 +35,4 @@ Trên ngọn lửa nhiên liệu khô hoặc bếp gas, căng một ống thủy
 
 Đặt ống thủy tinh đã sản xuất vào lỗ của nút cao su và cắm nút vào ống cao su có đường kính phù hợp (Hình 1). Nối ống với vòi nước và cho nước chảy qua nó. Trong trường hợp này, từ khi mở ống thủy tinh sẽ có một dòng nước mỏng, trong đó có thể phân biệt được hai vùng. Phần tia gần lỗ nhất là hoàn hảo và có vẻ bất động, bên dưới tia
 
-Cơm. 1.
+Hình 1.

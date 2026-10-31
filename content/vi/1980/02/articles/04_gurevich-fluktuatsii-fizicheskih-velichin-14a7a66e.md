@@ -119,7 +119,7 @@ Làm thế nào có thể di chuyển số lượng phân tử khí đã chỉ �
 
 Điều gì xảy ra khi piston chuyển động? Di chuyển sang trái, piston nén khí ở phía bên trái của bình và giãn nở ở bên phải. Kết quả là áp suất ở bên trái tăng lên và áp suất ở bên phải giảm đi. Lực tác dụng lên pít-tông bằng tích của diện tích $S$ và chênh lệch áp suất giữa phần bên trái và bên phải của bình. Theo các điều kiện, $n$ nhỏ hơn $N$ rất nhiều, nghĩa là khoảng cách mà piston đi được nhỏ so với kích thước của bình. Do đó, theo phép tính gần đúng đầu tiên, chênh lệch áp suất có thể được coi là tỷ lệ thuận với đường dẫn này. (Hãy cố gắng tự đánh giá tính chính xác của nhận định này.) Sau đó, hãy làm việc $A_{\min}$
 
-Cơm. 3.
+Hình 3.
 
 ⟦folio 14⟧
 
@@ -165,7 +165,7 @@ $$\frac{n}{\sqrt{n^2}} = \sqrt{\frac{2A_{\min}}{kT}}.$$
 
 Hệ thức (8) có nghĩa là mỗi công thức tương ứng với một số công cần thiết để tạo ra độ lệch công thức đã cho với sự trợ giúp của các ngoại lực! Nguồn gốc của công việc này trong trường hợp các công thức tự phát là năng lượng nhiệt được lưu trữ trong hệ thống. Trong ví dụ của chúng tôi, đây là năng lượng chuyển động tinh tế của các phân tử khí. Càng làm nhiều $A_{\min}$ thì công thức càng ít có khả năng xảy ra (7)
 
-Cơm. 4.
+Hình 4.
 
 ⟦folio 15⟧
 

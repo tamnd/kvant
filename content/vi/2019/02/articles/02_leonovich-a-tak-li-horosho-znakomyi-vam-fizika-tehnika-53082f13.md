@@ -162,7 +162,7 @@ Bài toán 3. Bình thông (1) Trong bình thông có chiều cao 2h và diện 
 
 ⟦figure⟧
 
-Cơm. 2
+Hình 2
 
 chất lỏng được đóng lại bằng một piston không trọng lượng, được treo trên một lò xo không trọng lượng có độ cứng k. Lúc đầu cả hai bình đều đầy một nửa. Nhiều chất lỏng có mật độ $U_{1} ( U_{1} U ),$ được thêm vào bình bên phải đến mức bình chứa đầy lên trên. Xác định chuyển vị của piston. Chất lỏng không trộn lẫn. K. Kutelev
 
@@ -172,11 +172,11 @@ Bài toán 2. Bản lề treo Các thanh đồng nhất AB và BC được nối
 
 ⟦figure⟧
 
-Cơm. 3
+Hình 3
 
 ⟦figure⟧
 
-Cơm. 1
+Hình 1
 
 Thanh AB được giữ cố định bằng một sợi dây thẳng đứng. Thanh BC có đầu C tựa trên một mặt phẳng nằm ngang nhẵn. Điểm A và C cùng nằm trên một đường thẳng đứng. Sợi dây chia thanh AB theo tỉ số nào? Nơi gắn sợi chỉ vào thanh được thể hiện theo quy ước trong hình. M. Zamyatnin nhiệt độ cuối cùng của các quả bóng và tỷ lệ thể tích của chúng. M. Zamyatnin
 
@@ -196,7 +196,7 @@ Bài toán 3. Truyền nhiệt Một mạch kín gồm một nguồn dòng lý t
 
 Bài toán 4. Nguồn hiện tại Một nguồn dòng không đổi lý tưởng duy trì dòng điện $I_{0}$ thông qua bất kỳ nguồn nào
 
-Cơm. 4
+Hình 4
 
 ⟦column⟧
 

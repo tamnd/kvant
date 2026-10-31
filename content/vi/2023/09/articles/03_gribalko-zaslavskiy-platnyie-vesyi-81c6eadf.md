@@ -69,7 +69,7 @@ Tài liệu do A. Leonovich chuẩn bị
 
 ⟦figure⟧
 
-Cơm. 2. Tín hiệu và việc cắt tín hiệu
+Hình 2. Tín hiệu và việc cắt tín hiệu
 
 KVANT 2023/№9
 
@@ -81,9 +81,9 @@ Việc tạo ra bàn đạp của chúng tôi bắt đầu bằng việc tìm ki
 
 ⟦figure⟧
 
-Cơm. 4. Nguyên mẫu đầu tiên của bảng trên bìa cứng
+Hình 4. Nguyên mẫu đầu tiên của bảng trên bìa cứng
 
-Cơm. 3. Mạch bàn đạp hiệu ứng guitar Fuzz đã được sửa đổi
+Hình 3. Mạch bàn đạp hiệu ứng guitar Fuzz đã được sửa đổi
 
 ⟦folio 37⟧
 
@@ -91,11 +91,11 @@ PHÒNG THÍ NGHIỆM
 
 ⟦figure⟧
 
-Cơm. 5. Ván trong quá trình sản xuất sử dụng công nghệ sắt-laser
+Hình 5. Ván trong quá trình sản xuất sử dụng công nghệ sắt-laser
 
 thuận tiện hơn cho điều kiện gia đình bằng công nghệ sắt-laser. Trước hết, chúng tôi đã thiết kế một khuôn tô cho bảng mạch in trong tương lai trong hệ thống thiết kế có sự hỗ trợ của máy tính Altium Designer. Tiếp theo, bản vẽ stencil thu được trên bảng của chúng tôi được in trên giấy bóng từ tạp chí bằng máy in laser (do đó có từ “laser” trong tên của phương pháp). Trên một tấm sợi thủy tinh đã chuẩn bị trước
 
-Cơm. 6. Bàn đạp xong
+Hình 6. Bàn đạp xong
 
 "QUANTA"
 

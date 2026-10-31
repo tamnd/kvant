@@ -99,11 +99,11 @@ Vé số 1
 
 2. Cảm ứng điện từ. Sự xuất hiện của chuyển động điện của lực cảm ứng. Định luật Lenz.
 
-Cơm. 1.
+Hình 1.
 
 ⟦folio 42⟧
 
-Cơm. 2.
+Hình 2.
 
 3. Đối với vật có khối lượng $m_1=10$ e, được treo bằng hai sợi dây, một sợi ngang và sợi còn lại tạo thành một góc $\alpha=60^\circ$ với phương thẳng đứng, một vật nặng khác có khối lượng $m_2=20$ e được gắn vào các sợi dây (Hình 1). Xác định gia tốc $a_2$ của khối lượng $m_2$ ngay sau khi đốt cháy sợi dây ngang. Các chủ đề được coi là không thể kéo dài.
 

@@ -40,7 +40,7 @@ Việc tăng độ sáng của chùm tia*) sẽ diễn ra trong khoảng thời 
 
 *) Khi chúng ta nói về sự gia tăng độ sáng của vụ nổ, chúng tôi muốn nói đến sự gia tăng sức mạnh của bức xạ tia X do vụ nổ phát ra. Và hơn nữa, khi nói về bức xạ tia X mà mắt không nhìn thấy được, chúng ta sẽ sử dụng những thuật ngữ quen thuộc tương tự như đối với ánh sáng khả kiến.
 
-Cơm. 1. Sự phụ thuộc điển hình của độ sáng của chùm tia vào thời gian.
+Hình 1. Sự phụ thuộc điển hình của độ sáng của chùm tia vào thời gian.
 
 ⟦folio 14⟧
 
@@ -90,9 +90,9 @@ Hiện tượng này được ghi nhớ ngay khi vụ nổ được mở ra; cá
 
 ⟦folio 19⟧
 
-Cơm. 3. Sơ đồ sao xung tia X (sự bồi tụ trong từ trường, phát xạ các điểm nóng). 1 - đường sức từ; 2 — trục y tế của sao neutron; 3 - trục từ của ngôi sao; 4 - các hạt lơ lửng rơi về phía cực từ; 5—điểm nóng gần cực.
+Hình 3. Sơ đồ sao xung tia X (sự bồi tụ trong từ trường, phát xạ các điểm nóng). 1 - đường sức từ; 2 — trục y tế của sao neutron; 3 - trục từ của ngôi sao; 4 - các hạt lơ lửng rơi về phía cực từ; 5—điểm nóng gần cực.
 
-Cơm. 4. Sơ đồ Barstra (bồi tụ, gia nhiệt và bức xạ từ toàn bộ bề mặt).
+Hình 4. Sơ đồ Barstra (bồi tụ, gia nhiệt và bức xạ từ toàn bộ bề mặt).
 
 à các ngôi sao. Tất cả 124 cụm sao cầu đã biết trong Thiên hà đều chứa hơn 10 triệu ngôi sao, chiếm một phần nghìn tổng số sao trong Thiên hà. Từ đó có thể thấy rằng barstra chắc chắn thích xuất hiện giữa các ngôi sao của cụm sao cầu. Lý do cho sự ưu tiên này vẫn chưa được hiểu. Tại sao một ngôi sao neutron trong một số trường hợp lại biểu hiện dưới dạng barstra, còn trong những trường hợp khác lại là một pulsar?
 

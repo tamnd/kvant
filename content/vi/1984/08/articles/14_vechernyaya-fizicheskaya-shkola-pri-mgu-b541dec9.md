@@ -32,7 +32,7 @@ quá, cuối cùng đã cân bằng? Hãy chỉ ra tất cả những điểm nh
 
 8. Thanh được làm từ một số lượng lớn các đoạn xen kẽ có cùng chiều dài, nhưng từ hai vật liệu khác nhau. Ở một vật liệu, tốc độ âm thanh là $v_1$, ở vật liệu kia là $v_2$. Tìm tốc độ trung bình của âm thanh trong thanh.
 
-Cơm. 2
+Hình 2
 
 9. Một động cơ đang phát triển công suất $N$ hoạt động với hiệu suất $n$. Xác định tốc độ dòng nước thứ hai để làm mát động cơ nếu nó có nhiệt độ $T_0$ ở lối vào hệ thống làm mát và $T$ ở đầu ra. Nhiệt dung riêng của nước $c$.
 

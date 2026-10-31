@@ -58,9 +58,9 @@ Chúng ta hãy xem xét trường hợp góc giữa các đường $l_1$ và $l_
 
 11. Hãy xem xét hệ thống cơ khí sau đây. Trong mặt phẳng thẳng đứng có hai đường tròn đồng tâm có tâm $O$ bán kính $r$ và $R$. Trong cùng một mặt phẳng có một thanh cứng có thể quay không ma sát quanh điểm $O$ (Hình 2). Gắn vào các điểm $C$ và $D$ của thanh $OP$ ($|OC|=r$, $|OD|=R$) lần lượt là hai sợi không trọng lượng và không co giãn được luồn qua các khối tại các điểm $A$ và $B$. Các trọng lượng giống hệt nhau được gắn vào các đầu của sợi.
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
 Bài toán xác định vị trí cân bằng của hệ cơ học này tương đương với bài toán hình học của chúng ta. Điều kiện để thanh $OP$ cân bằng là tổng mômen của các lực căng của sợi tác dụng lên thanh này bằng 0. Từ đây chúng ta thu được điều kiện cho vị trí độc quyền của địa điểm $CD$: $r \sin \alpha = R \sin \beta$.
 

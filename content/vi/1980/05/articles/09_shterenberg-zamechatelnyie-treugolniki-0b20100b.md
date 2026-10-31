@@ -55,9 +55,9 @@ b) Suy ra công thức tính $a_{n4}$ và $a_{n5}$.
 
 2. Bây giờ chúng ta hãy cùng nhau viết các số tạo thành hình tam giác.
 
-Cơm. 1
+Hình 1
 
-Cơm. 2.
+Hình 2.
 
 hình vuông trong Hình 1, các chữ số cuối cùng của chúng. Ta sẽ được tam giác số như hình 2. Chứng minh tam giác này có các tính chất đáng chú ý sau:
 

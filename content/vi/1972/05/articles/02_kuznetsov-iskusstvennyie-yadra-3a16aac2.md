@@ -49,7 +49,7 @@ Công thức này thu được nếu chúng ta giả sử rằng mật độ v�
 
 $$r \approx 10^{-4} \text{Å}$$
 
-Cơm. 1.
+Hình 1.
 
 ⟦folio 4⟧
 
@@ -83,7 +83,7 @@ Nhà vật lý thực nghiệm bắt đầu lên kế hoạch cho một thí ngh
 
 ⟦folio 5⟧
 
-Cơm. 4.
+Hình 4.
 
 tại Viện Nghiên cứu Hạt nhân ở thị trấn Dubna gần Moscow (Hình 4), và tại máy gia tốc tuyến tính hạt nhân nguyên tử ở Berkeley, Hoa Kỳ.
 

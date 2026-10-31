@@ -43,11 +43,11 @@ Với sự trợ giúp của thiết bị thể hiện trong Hình 1, một số
 
 Nhưng trước tiên, về bản thân thiết bị. Phần chính của nó là bộ phát âm. Ví dụ, nó có thể được dán lại với nhau bằng nhựa hoặc thủy tinh, hoặc bạn có thể sử dụng hộp làm sẵn từ một số loại vật liệu.
 
-Cơm. 1.
+Hình 1.
 
 ⟦folio 19⟧
 
-Cơm. 2.
+Hình 2.
 
 Kiểm tra 1. Nếu khung được lắp đặt ở góc 45° so với phương thẳng đứng thì điểm $A$ (Hình 2) sẽ nhìn thấy được trong tầm nhìn (dọc theo hai sợi tóc), trùng với vạch chia 52 m của thang milimet, tức là $a = 52$ mm. Chiều cao $h$ trục quay của khung cũng là 52 mm. Do đó, kinh nghiệm xác nhận rằng trong một môi trường đồng nhất, ánh sáng truyền thẳng.
 

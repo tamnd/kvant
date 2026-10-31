@@ -39,13 +39,13 @@ $$1 + \frac{1}{2} + \frac{1}{4} + \frac{1}{8} + \frac{1}{16} + \dots$$
 
 Chúng ta lấy một hình chữ nhật tùy ý có diện tích 2. Cắt nó thành hai hình chữ nhật có kích thước bằng nhau (cùng diện tích) có diện tích đơn vị như trong Hình 1. Cắt một trong các hình chữ nhật này lại thành hai phần bằng nhau; chúng ta thu được hình chữ nhật có diện tích $\frac{1}{2}$. Làm tương tự với một trong số chúng một lần nữa - chúng ta có hai hình chữ nhật có diện tích
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
 ⟦folio 21⟧
 
-Cơm. 3.
+Hình 3.
 
 $n$ - số tự nhiên) bằng $\frac{n}{m-n}$: đối với điều này, bạn cần giữ nguyên $n$ - $m$ hình chữ nhật đơn vị không thay đổi và mỗi hình chữ nhật $m$ của khu vực 1 lại được cắt thành $n$ phần bằng nhau (Hình 3). Sau đó, giữ nguyên các dải $n$ - $m$, diện tích $\frac{m}{n}$ của mỗi dải và cắt lại từng khu vực $m^2$ hình chữ nhật $\frac{1}{n}$ thành $n$ phần bằng nhau. Bạn đã đồng ý phải làm gì tiếp theo chưa? Đưa việc xây dựng này đến “kết thúc” và biện minh cho nó.
 

@@ -76,7 +76,7 @@ Nói cách khác, khoảng cách giữa ảnh của một điểm nhỏ hơn kho
 
 ⟦folio 29⟧
 
-Cơm. 1.
+Hình 1.
 
 một số ánh xạ co $f$:
 $|a; b| \rightarrow |a; b|$ của tích phân vào chính nó có một điểm cố định.
@@ -124,7 +124,7 @@ Khi đó, với mọi $n, m > n_0$, bất đẳng thức (6) ngay lập tức h�
 
 ⟦folio 30⟧
 
-Cơm. 2.
+Hình 2.
 
 chúng ta cần bất đẳng thức (5) (kiểm tra!). Tính chất (K) đã được chứng minh.
 
@@ -235,4 +235,4 @@ Rõ ràng là theo các điều kiện của định lý trên bản đồ lư�
 Nhiệm vụ 4. Áp dụng thuật toán mô tả ở trên cho phương trình lời giải gần đúng
 $$g(x) = x^3 + 3x + x \cos^2 x - \sin(\cos x) = 0,$$
 
-Cơm. 4.
+Hình 4.

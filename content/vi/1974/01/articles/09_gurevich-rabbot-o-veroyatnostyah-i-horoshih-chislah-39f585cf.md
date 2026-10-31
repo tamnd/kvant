@@ -111,7 +111,7 @@ g) $p((A \setminus B) \cdot B) = 0$.
 
 ⟦folio 38⟧
 
-Cơm. 1.
+Hình 1.
 
 sự kiện trong ngoặc bên dưới và tìm:
 a) $p(\overline{A})$; b) $p(\overline{B})$; c) $p(A + B)$; d) $p(A \cdot B)$;

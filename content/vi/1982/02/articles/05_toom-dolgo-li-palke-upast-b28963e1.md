@@ -51,7 +51,7 @@ Nếu thanh được coi là đồng nhất thì
 
 ⟦folio 11⟧
 
-Cơm. 1.
+Hình 1.
 
 $$K = \int_{0}^{2l} \frac{m(v(y))^2}{2l \cdot 2} \, dy = \frac{m}{2l} \int_{0}^{2l} \frac{(\omega y)^2}{2} \, dy = \left( \frac{4}{3} m l^2 \right) \frac{\omega^2}{2}.$$ (00)
 
@@ -73,7 +73,7 @@ $$\frac{dt}{d\alpha} = \frac{1}{\omega} = \frac{1}{2} \sqrt{\frac{I}{m g l}} \cd
 
 Biểu hiện này có ý nghĩa không? Tích phân của các hàm giới hạn liên tục được dạy ở trường. Ở đây, dưới dấu tích phân có một hàm không xác định tại $\alpha = 0$ và tiến tới vô cùng tại $\alpha \to 0$. Một "đường nho cong" giữa trục $\alpha$, các đường $\alpha = 0$ và $\alpha = \frac{\pi}{2}$ và đồ thị của hàm này
 
-Cơm. 2.
+Hình 2.
 
 tsini, vô hạn (Hình 2). Làm thế nào chúng ta có thể nói về diện tích của hàm vô hạn? Hóa ra là có thể, và với một định nghĩa hợp lý, diện tích này đôi khi thậm chí còn hữu hạn. Tích của một hàm không giới hạn thuộc loại như (1) được gọi là không đúng và, theo định nghĩa, được coi là bằng phần mở đầu của một liên liên thông thường, “đúng” với sự thay đổi phù hợp trong ranh giới của nó*). Trong trường hợp này
 
@@ -146,7 +146,7 @@ $$\omega = 2 \sin \frac{\alpha}{2} \sqrt{\frac{g}{R}},$$
 
 trong đó $R$ là khoảng cách từ đầu thanh đến tâm khối lượng của quả bóng (công thức này trùng với công thức của chúng ta ở $l = R, I = mR^2$), và xa hơn nữa: "Với một α cho trước, $R$ càng lớn thì nó càng nhỏ. Do đó, thanh sẽ rơi nhanh hơn nếu nó được đặt ở đầu $B$" (tr. 227). Lập luận này không đúng, bởi vì, như chúng ta đã thấy, tích phân của công thức viết ở trên là vô hạn với mọi $R > 0$. Có ý nghĩa gì không khi nói rằng một vô cực lớn hơn các vô cực khác? Điều gì sẽ xảy ra trong một số
 
-Cơm. 3.
+Hình 3.
 
 ⟦folio 13⟧
 

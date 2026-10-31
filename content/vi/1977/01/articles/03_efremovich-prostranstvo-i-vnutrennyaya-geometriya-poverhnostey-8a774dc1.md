@@ -61,7 +61,7 @@ Nhưng hóa ra, nói chung, không dễ để xây dựng hình học cho một 
 
 ⟦folio 6⟧
 
-Cơm. 1.
+Hình 1.
 
 bằng chứng đầu tiên trong phép đo mặt phẳng!
 Thuận tiện nhất là xây dựng hình học trên các bề mặt “đồng nhất” và “đẳng hướng”.
@@ -82,11 +82,11 @@ Chúng ta hãy xem xét giữa các điểm A và B trên bề mặt tên tự n
 
 Đây là một ví dụ đơn giản. Hãy cuộn lại (không kéo dài hoặc cuộn) một tờ giấy
 
-Cơm. 2. Hình 3.
+Hình 2. Hình 3.
 
 ⟦folio 7⟧
 
-Cơm. 4.
+Hình 4.
 
 nhà ảo thuật trên một hình trụ tròn thẳng. Các đường thẳng của tấm này, khi uốn cong theo cách này, tạo ra ba loại trắc địa: một số trong số chúng sẽ không uốn cong chút nào và sẽ nằm trên đường sinh của hình trụ; những người khác biến thành vòng tròn; cuối cùng, những đường khác biến thành đường xoắn ốc (Hình 4). Chỉ đối với trắc địa loại 1, bất kỳ đoạn nào của nó sẽ ngắn nhất trên bề mặt; đối với trắc địa loại 2 và loại 3, chỉ cần không lâu hơn nữa, các đoạn của chúng sẽ thực sự là ngắn nhất.
 

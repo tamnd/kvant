@@ -151,7 +151,7 @@ Hãy để chúng tôi mô tả cấu hình được đề cập trong các đi�
 
 Đoạn cần tìm $AB$ là cạnh huyền của một tam giác vuông
 
-Cơm. 8.
+Hình 8.
 
 ⟦folio 55⟧
 

@@ -30,9 +30,9 @@ M528, M529; F538 — F541
 
 M528. Có một quân cờ trên mỗi ô vuông của bàn cờ. Các chip phải được sắp xếp lại sao cho khoảng cách giữa mỗi cặp chip không giảm so với khoảng cách giữa chúng tại vị trí ban đầu. Có bao nhiêu cách có thể thực hiện được điều này? (Hãy xem xét khoảng cách giữa các mã thông báo được nén giữa tâm của các ô mà chúng chiếm giữ.)
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
 Trước hết, chúng ta hãy chứng minh rằng việc sắp xếp lại các token là cần thiết để duy trì khoảng cách giữa hai token bất kỳ. Điều này có thể được thực hiện theo nhiều cách khác nhau.
 
@@ -107,9 +107,9 @@ Chúng ta hãy vẽ các lực $\vec{T}_C$ theo thang đo thuận tiện tùy ý
 
 ⟦folio none⟧
 
-Cơm. 7.
+Hình 7.
 
-Cơm. 8.
+Hình 8.
 
 phần tiếp tuyến tại điểm $B$, ta tìm được lực $\vec{T}_B$. Bây giờ không khó để tìm hình chiếu của lực $\vec{T}_B$ lên trục thẳng đứng. Nó được xác định bởi độ dài của đoạn $KE$, có tính đến tỷ lệ mà chúng ta đã vẽ lực $\vec{T}_C$. Trong trường hợp của chúng tôi $T_{By} \approx 22$ N.
 
@@ -143,7 +143,7 @@ A. Zilberman
 
 F540. Hai cuộn dây điện cảm $L_1$ và $L_2$ được mắc song song. Cuộn dây sẽ có điểm cực đại trong cuộn dây nếu một tụ điện có điện dung $C$ (Hình 10), được sạc trước đến điện áp $U$?
 
-Cơm. 10.
+Hình 10.
 
 Vì các cuộn dây được mắc song song nên điện áp trên chúng bằng nhau: $U_{L_1} = U_{L_2}$. Nhưng $U_{L_1} = L_1 \frac{\Delta I_1}{\Delta t}$, $U_{L_2} = L_2 \frac{\Delta I_2}{\Delta t}$.
 
@@ -175,7 +175,7 @@ O. Savigan
 
 F541. Khe hở của bộ tạo tia lửa điện (Hình 11) được điều chỉnh theo điện áp $U$ và điện trở $R$ của điện trở được chọn ở mức tối đa; Xác định công suất trung bình được giải phóng trên điện trở nếu tụ điện được phóng điện thành công trong quá trình sạc.
 
-Cơm. 11.
+Hình 11.
 
 Để nguồn phát tia lửa hoạt động ổn định, việc phóng điện trong khe hở tia lửa điện không được ảnh hưởng đến quá trình nạp tụ điện. Điều này có thể xảy ra trong trường hợp thời gian nạp tụ điện qua khe phóng điện nhỏ hơn nhiều so với thời gian nạp tụ điện từ nguồn đến điện áp $U$.
 

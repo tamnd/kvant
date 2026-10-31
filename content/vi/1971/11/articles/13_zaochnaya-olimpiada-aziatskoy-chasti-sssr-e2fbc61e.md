@@ -70,7 +70,7 @@ Có thể bao phủ các hình vuông $15 \times 15, 25 \times 25, 35 \times 35$
 
 5. Vẽ một dây cung được chia cho hai bán kính cho trước
 
-Cơm. 1.
+Hình 1.
 
 của đường tròn trong quan hệ này $k_1:k_2:k_3$. (9-10)
 
@@ -108,13 +108,13 @@ Không có sự trượt. Tất cả các kích cỡ được đưa ra. (8-9)
 
 6. Tại sao các nan hoa của bánh xe đạp lại được đặt hơi xiên chứ không phải hướng tâm? (Hình 2) (9)
 
-Cơm. 2.
+Hình 2.
 
 7. Cho biết hướng của lực ma sát tác dụng lên bánh trước và bánh sau của xe số tự động nếu chỉ dẫn động bánh sau. (8)
 
 8. Ở dưới đáy của một chiếc bình kín, dẫn nước lên trên, tìm thấy hai cái giống hệt nhau
 
-Cơm. 3.
+Hình 3.
 
 bong bóng khí (Hình 3). Áp suất ở đáy là $p$. Một trong những bong bóng nổi lên. Áp suất ở phía dưới sẽ là bao nhiêu? (9-10)
 
@@ -122,7 +122,7 @@ bong bóng khí (Hình 3). Áp suất ở đáy là $p$. Một trong những bon
 
 10. Một chiếc hộp được gắn vào xe có khối lượng $M$, khối lượng của nó bị bỏ qua.
 
-Cơm. 4.
+Hình 4.
 
 ⟦folio 61⟧
 
@@ -135,7 +135,7 @@ các dao động nhỏ của con lắc. (9-10)
 11. Hai quả cầu đồng tâm với
 bán kính $R_1$ và $R_2$ được nối đất (Hình 5).
 
-Cơm. 5.
+Hình 5.
 
 Giữa các quả cầu ở khoảng cách $r$ từ
 Tâm điểm chung của chúng là điện tích $q$.
@@ -145,7 +145,7 @@ hình cầu. (10)
 12. Trên andee triode phẳng
 Các điện cực giữ hướng $u$ (Hình 6). Cực âm của đèn được nối đất và lưới điện được cách điện. Quảng trường
 
-Cơm. 6.
+Hình 6.
 
 các tấm $S$, khoảng cách giữa anome và cực âm $L$, giữa cực âm và lưới - $l$. Khi điện tích trên lưới thì dòng điện qua đèn dừng lại? (10)
 

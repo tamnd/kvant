@@ -83,12 +83,12 @@ Hình $(\alpha\beta)\gamma=\alpha(\beta\gamma)$ được ký hiệu phù hợp l
 
 ⟦folio 13⟧
 
-Cơm. 1.
-Cơm. 2.
-Cơm. 3.
-Cơm. 4.
-Cơm. 5.
-Cơm. 6.
+Hình 1.
+Hình 2.
+Hình 3.
+Hình 4.
+Hình 5.
+Hình 6.
 (C) Phép nhân các số có tính phân phối đối với phép cộng của chúng:
 $(\alpha + \beta)\gamma = \alpha\gamma + \beta\gamma$
 (Hình 6).

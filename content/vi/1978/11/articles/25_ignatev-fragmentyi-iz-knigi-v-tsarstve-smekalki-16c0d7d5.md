@@ -106,7 +106,7 @@ Con cò thuận cổ và dùng mỏ vẽ một đường, bên cạnh cũng là 
 
 Kết quả là những gì được hiển thị trong Hình 1.
 
-Cơm. 1.
+Hình 1.
 
 Ngỗng uống ngay vào bờ, đi ra, lạch bạch trên bãi cát, nhìn nhưng không hiểu gì.
 
@@ -124,7 +124,7 @@ Ngỗng uống ngay vào bờ, đi ra, lạch bạch trên bãi cát, nhìn như
 - Khỏe! Hãy xóa điểm tượng trưng cho bạn, con ngỗng, trong bức vẽ của chúng ta và chỉ ra rằng còn lại 99 con ngỗng.
 Con cò dùng mũi vẽ trên cát những gì được minh họa trong Hình 2.
 
-Cơm. 2.
+Hình 2.
 
 “Bây giờ cô ấy nói,” con cò tiếp tục, “một phần tư stan và nửa stan - đó sẽ là bao nhiêu phần tư?”
 Ngỗng suy nghĩ một lúc, nhìn những đường nét trên cát và nói:

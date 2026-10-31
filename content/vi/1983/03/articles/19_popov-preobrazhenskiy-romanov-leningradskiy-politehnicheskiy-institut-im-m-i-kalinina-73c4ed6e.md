@@ -246,9 +246,9 @@ Khoa Vật lý, Cơ học và Vật lý phóng xạ
 6) $\Delta U = 3(p_2V_2 - p_1V_1) = 0$; b) $Q = A + \Delta U = A = 450$ kJ.
 2. $\vec{E} = \frac{\rho}{3\varepsilon_0}\vec{a}$ (Hình 2); $E = \frac{\rho a}{3\varepsilon_0}\approx 85$ V/m.
 
-Cơm. 2.
-Cơm. 3.
-Cơm. 4.
+Hình 2.
+Hình 3.
+Hình 4.
 Gợi ý. Tại một điểm tùy ý $A$ bên trong hộp, điện trường là sự chồng chất của hai trường: trường $\vec{E} = \frac{\rho}{3\varepsilon_0}\vec{r}$, phân bố với mật độ $\rho$ trên toàn bộ quả bóng và trường $\vec{E'} = \frac{-\rho}{3\varepsilon_0}\vec{r'}$, phân bố với mật độ $-\rho$ trên toàn bộ hộp cầu.
 3. $x = 1$ m; $a_x = E_xq/m = -2 \cdot 10^{-3}$ m/s². Gợi ý. Ở khoảng cách 0,5 m tính từ gốc tọa độ, hạt chuyển động trong trường gia tốc, và sau đó, lên khoảng cách 1 m, trong trường gia tốc (Hình 3).
 4. $l = \sqrt{\frac{3kT}{m}} \frac{deN_A\varrho}{j\mu} \approx 1,5 \cdot 10^7$ m, trong đó $k = 1,38 \cdot 10^{-23}$ J/K là hằng số Boltzmann, $T = 300$ K là nhiệt độ phòng, $m = 9,1 \cdot 10^{-31}$ kg là khối lượng của electron, $e = 1,6 \cdot 10^{-19}$ K là điện tích của nó, $N_A = 6,02 \times 10^{23}$ mol$^{-1}$ là số Avogadro. Gợi ý. Để ước tính, chúng ta có thể giả sử rằng tốc độ chuyển động nhiệt trung bình của các electron (lớn hơn vài bậc độ lớn so với tốc độ chuyển động có hướng trung bình của các electron trong điện trường) bằng với tốc độ bình phương trung bình gốc của chuyển động nhiệt của các phân tử của một loại khí lý tưởng, nghĩa là $\sqrt{\frac{3kT}{m}}$.

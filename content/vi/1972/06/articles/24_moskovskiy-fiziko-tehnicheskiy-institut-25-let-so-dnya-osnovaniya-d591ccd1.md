@@ -243,7 +243,7 @@ Khoa cơ khí Matematiko
 
 2. Lời giải. Đặt $OC$ là đường trung bình của tam giác $OAB_1$ (Hình 1). Khi tiếp tục đoạn $OC$ cho điểm $C$, chúng ta lấy điểm $D$ vì vậy,
 
-Cơm. 1.
+Hình 1.
 
 cái gì $OC = CD$; thì $OB_1DA$ là hình bình hành. Vì $OA = OA_1$, $AD = OB_1 = OB$ và $\Rightarrow OAD = \Rightarrow A_1OB$ (giống như nụ cười có các cạnh vuông góc trùng nhau), nên $\triangle AOD = \triangle A_1OB$. Tiếp theo, $\triangle OPA = \triangle OQA_1$ và $\Rightarrow APO = 90^\circ$ (đối với $AD \parallel OB_1$ và $OB_1 \perp OB$); do đó $OC \perp A_1B$. Mệnh đề thứ hai bài toán 3. $x_1 = 3, y_1 = (2k + 1)\pi$ được chứng minh tương tự, trong đó $k = 0, \pm 1, \pm 2, \ldots, 0 < x_2 < 1, y_2 - \text{любое вещественное число}.$ I.e. được chỉ định. Hãy để $z = \log_3 x$; thì bất đẳng thức đề xuất được viết là
 
@@ -301,7 +301,7 @@ $$\begin{align*}
 
 ⟦folio 78⟧
 
-Cơm. 1.
+Hình 1.
 
 có dạng:
 tại điểm $A$
@@ -325,7 +325,7 @@ $$E_{инд} = \frac{\Delta\Phi}{\Delta t} = \frac{B r^2}{2} \frac{\Delta\varphi
 
 Điện trở của mạch gồm điện trở của hai đường thẳng
 
-Cơm. 2.
+Hình 2.
 
 các đường của một cung tròn:
 $$R = (\varphi + 2) r\rho.$$
@@ -335,7 +335,7 @@ Theo định luật Lenz, chiều của dòng điện cảm ứng cũng dễ dà
 
 4. Trong quá trình chuyển động ổn định, gia tốc của bình và chất lỏng trong đó bằng $a = g \sin \theta$. Bề mặt chất lỏng trong bình chuyển động song song với mặt phẳng nghiêng. Chúng ta hãy xác định đường đi của chùm tia trong tàu (Hình 3).
 
-Cơm. 3.
+Hình 3.
 
 Dựa vào định luật khúc xạ ánh sáng $n \sin \theta = \sin \varphi$ ta thu được $\varphi = 60^\circ$ và $\varphi - \theta = 30^\circ$. Hãy vẽ tia $OH$ song song với tia $AB$. Các chùm tia $OH$ và $BH$ được tập hợp tại một điểm trên mặt phẳng tiêu điểm. Sự pha trộn của $HF$ của chùm $AB$ là $f \cdot tg(\varphi - \theta) = 5,8 \text{ cm}$.
 
@@ -364,9 +364,9 @@ Về bài viết "Định luật Ohm cho phần không đồng nhất của mạ
 2. 0.
 3. Điện thế của các điểm đối diện theo đường kính của vòng (xem Hình 1) không bằng nhau.
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
 Mối quan hệ giữa chúng được xác định bởi sự tương ứng giữa $R$ và $r$ và hướng của e. d.s. cảm ứng. In the case when $\varphi_A > \varphi_B$, the graph of the potential distribution along the ring has the form shown in Figure 2 ($l_0$ is the circumference of the ring).
 

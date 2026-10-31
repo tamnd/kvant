@@ -61,7 +61,7 @@ Trước tiên, bạn cần chọn hướng di chuyển dương (tùy ý) trong 
 ⟦folio 52⟧
 
 ⟦figure⟧
-Cơm. 1.
+Hình 1.
 
 biện pháp - xả và sạc pin.
 
@@ -77,12 +77,12 @@ $$|U_{12}| = |\mathscr{E}| - |I|r.$$
 \*) Nếu có các nguồn khác trong mạch đang được xem xét, được kết nối tương ứng, thì trường hợp $U_{12}>0$ có thể xảy ra.
 
 ⟦figure⟧
-Cơm. 2.
+Hình 2.
 
 ⟦column⟧
 
 ⟦figure⟧
-Cơm. 3.
+Hình 3.
 
 Điện áp bằng e. d.s. nguồn trừ đi điện áp rơi trên điện trở tiết diện.
 
@@ -99,10 +99,10 @@ Bây giờ chúng ta hãy xem xét một số bài toán cụ thể.
 Bài 1. *Hai phần tử có suất điện động là $\mathscr{E}_1 = 6$v và $\mathscr{E}_2 = 4$v và điện trở trong $r_1 = 0{,}25$ ohm và $r_2 = 0{,}75$ ohm,*
 
 ⟦figure⟧
-Cơm. 4.
+Hình 4.
 
 ⟦figure⟧
-Cơm. 5.
+Hình 5.
 
 *được kết nối theo mạch hiển thị trong Hình 3. Hiệu điện thế giữa điểm 1 và điểm 2 là bao nhiêu? Bỏ qua điện trở của các dây nối.*
 
@@ -198,7 +198,7 @@ Công suất thường xuyên $P_T = I^2r$ là lượng nhiệt tỏa vào thể
 
 *) Động cơ nối tiếp là động cơ điện có các cuộn dây mắc nối tiếp.
 
-Cơm. 6. a) $E_1 > E_2$, $r_1 < r_2$; b) $E_1 = E_2$, $r_1 = r_2$.
+Hình 6. a) $E_1 > E_2$, $r_1 < r_2$; b) $E_1 = E_2$, $r_1 = r_2$.
 
 cuộn trong một đơn vị thời gian. Số hạng thứ hai trong biểu thức (8) biểu thị công suất cơ học $P_{mex}$. Hãy biểu thị cường độ hiện tại $I$ từ (7):
 
@@ -212,4 +212,4 @@ $$P_{mex} = |I| |E| = \frac{|U| |E| - E^2}{r}.$$
 
 $$P_m = \frac{U^2}{4r} = 180 \text{ bm}.$$
 
-Cơm. 7. a) $E_1 > E_2$; b) $E_1 = E_2$.
+Hình 7. a) $E_1 > E_2$; b) $E_1 = E_2$.

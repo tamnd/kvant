@@ -47,7 +47,7 @@ Cơ chế thay đổi nhiệt độ trong quá trình đoạn nhiệt
 
 Giả sử có một lượng khí lý tưởng trong xi lanh dưới piston (Hình 2). Chuyển động của piston $AB$ cho phép bạn tùy ý lăn xuống và giãn nở
 
-Cơm. 1.
+Hình 1.
 
 ⟦folio 27⟧
 

@@ -54,7 +54,7 @@ Vé 2
 1. Ước mơ làm việc. Năng lượng cơ học. Mối quan hệ giữa công và sự biến đổi năng lượng. Đơn vị đo năng lượng và công.
 2. Phản ứng dây chuyền. Sự giải phóng năng lượng khi phân hạch hạt nhân nặng.
 
-Cơm. 5.
+Hình 5.
 3. Chuyển động của điểm được chỉ định bởi biểu đồ tốc độ (Hình 5). Xác định vận tốc trung bình và gia tốc trung bình của điểm trong 5 giây. Sử dụng đồ thị vận tốc của một điểm này, hãy xây dựng đồ thị gia tốc.
 
 Vé 3

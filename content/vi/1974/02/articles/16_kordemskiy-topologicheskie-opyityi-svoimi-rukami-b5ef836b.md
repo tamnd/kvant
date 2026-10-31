@@ -37,7 +37,7 @@ Bốn màu: không ít, không cần nhiều hơn
 
 — Vadim, hãy nhìn vào tấm thẻ tôi nhận được để cắt (Hình 1). Nó phải được tô màu sao cho các vùng lân cận không trở thành một sao (các vùng chỉ có một điểm chung không được coi là lân cận;
 
-Cơm. 1.
+Hình 1.
 
 màu nào được gọi là thường xuyên). Có vẻ như năm màu là đủ đối với tôi.
 
@@ -73,7 +73,7 @@ Vài ngày sau, Vadim hỏi Ole đã tô xong bản đồ bằng bốn màu chư
 
 *) Có lẽ Vadim đã đọc về điều này trong cuốn sách: Harar and F. Graph Theory. M., “Mir”, 1973, tr. 158, 162.
 
-Cơm. 2.
+Hình 2.
 
 lacti. Tôi đã thử các điều kiện bài toán và vẽ chính xác tám khu vực với mỗi màu. Hãy tưởng tượng - nó đã hoạt động!
 

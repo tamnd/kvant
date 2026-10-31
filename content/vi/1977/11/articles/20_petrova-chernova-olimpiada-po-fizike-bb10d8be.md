@@ -46,9 +46,9 @@ lớp 8
 
 2. Hai tảng băng đang di chuyển về phía trước với cùng một tốc độ tuyệt đối: một về phía bắc, một về phía tây. Hóa ra là tại bất kỳ thời điểm nào trên cả hai tảng băng đều có thể sắp xếp đồng hồ sao cho tốc độ của các đầu kim giây so với Trái đất sẽ bằng nhau và đối với mỗi thời điểm, sự sắp xếp như vậy là duy nhất. Xác định quãng đường di chuyển của tảng băng mỗi ngày nếu chiều dài mỗi kim giây là 1 cm. Các mặt đồng hồ được đặt theo chiều ngang.
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
 ⟦folio 66⟧
 
@@ -64,17 +64,17 @@ lớp 9
 
 3. Trong máy phát tĩnh điện cao áp, các điện tích được truyền bằng băng điện môi và tích điện vào điện cực hình cầu điện áp cao có bán kính $R=1,5$ m (Hình 5). Ước tính giá trị tối đa
 
-Cơm. 3.
+Hình 3.
 
-Cơm. 4.
+Hình 4.
 
-Cơm. 5.
+Hình 5.
 
-Cơm. 6.
+Hình 6.
 
-Cơm. 7.
+Hình 7.
 
-Cơm. 8.
+Hình 8.
 
 ⟦folio 68⟧
 

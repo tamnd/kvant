@@ -50,11 +50,11 @@ Một quả cầu có bán kính đơn vị nội tiếp tam giác đều parami
 
 Lời giải (Hình 3). Chúng ta hãy lưu ý ngay rằng dữ liệu ban đầu hoàn toàn xác định paramida của chúng ta.
 
-Cơm. 3.
+Hình 3.
 
-Cơm. 4.
+Hình 4.
 
-Cơm. 5.
+Hình 5.
 
 Ví dụ, hãy tính chiều dài cạnh của đế. Với mục đích này, chúng ta hãy xem xét một phần đi qua chiều cao của paramidus SK và cạnh bên SB. (Phần như vậy thường được sử dụng trong lời giải bài toán trên một paramid thông thường.) Phần này giao với mặt ASC dọc theo trung điểm SL (Hình 4a); điểm O trên đó là tâm của quả cầu nội tiếp. Vì bây giờ điểm M và N được xác định duy nhất bởi các điều kiện bài toán. Vì mặt phẳng của đế cũng chạm vào quả bóng nên điều kiện bài toán là |MK| = |KN| (bằng chứng!). Hãy |AM| = x. Vậy thì 尼 trước là |CN| = x, hoặc |BN| = x (chứng minh!).
 
@@ -88,7 +88,7 @@ $$|AB|^2 + |CD|^2 = |BC|^2 + |AD|^2.$$ (2)
 
 Bây giờ chúng ta hãy lợi dụng thực tế là tổng chiều dài các cạnh lồi của một tứ giác chuyên dụng, tất cả các cạnh đều chạm bóng, đều bằng nhau. (Bạn hãy tự chứng minh tính chất tương tự của tính chất rút ra của tứ giác đã mô tả.) Áp dụng nhận định này cho tứ giác không gian
 
-Cơm. 6. Hình 7.
+Hình 6. Hình 7.
 
 $ABCD$ từ phía $AB, BC, CD$ và $DA$, chúng ta nhận được
 $$|AB| + |CD| = |BC| + |AD|.$$ (3)
@@ -112,9 +112,9 @@ Nhiệm vụ 5 (BMK, 1977). Trong tham số $SABC$, một đường thẳng cắ
 
 Lời giải. Chúng ta hãy biểu thị bằng $K$ và $N$ giao điểm của đường vuông góc chung với các cạnh $AC$ và $SB$ với các cạnh này (Hình 9).
 
-Cơm. 8.
+Hình 8.
 
-Cơm. 9.
+Hình 9.
 
 Rõ ràng là lời giải bài toán phải bắt đầu bằng việc phân tích những điều kiện không liên quan đến vị trí của điểm $M$. Từ kích thước bằng nhau của các mặt $ASB$ và $BSC$, suy ra rằng các điểm $A$ và $C$ có cùng khoảng cách tính từ cạnh $SB$.
 

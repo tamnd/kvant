@@ -50,15 +50,15 @@ Hãy theo dõi các tập hợp con
 
 Hãy xem xét tập hợp $M_4$, bao gồm bốn quả bóng khác nhau - quần vợt, bóng chuyền, bóng đá và bóng rổ (Hình 2). Hãy tìm tất cả các tập con của nó (bao gồm cả tập trống $\varnothing$ và tất cả đám đông $M_4$), nhóm
 
-Cơm. 1. Hình 2.
+Hình 1. Hình 2.
 
 Ozelementov 1 phần tử 2 phần tử 3 phần tử 4 phần tử
 
-Cơm. 3.
+Hình 3.
 
 ⟦folio 46⟧
 
-Cơm. 4.
+Hình 4.
 
 phân loại chúng theo số lượng phần tử (Hình 3) và viết ra một dòng có bao nhiêu tập hợp con polluchils trong mỗi nhóm:
 
@@ -72,11 +72,11 @@ Hãy kiểm tra lại điều này để biết $n=0, 1, 2$. Thật vậy, mọi
 
 Ví dụ: hãy xem cách thu được số lượng tập hợp con 2 phần tử $M_4$. Để làm điều này, hãy tạm thời giấu một quả bóng tennis trong túi của chúng ta - polluch bộ $M_3$. Nó đã có ba tập con 2 phần tử:
 
-Cơm. 5.
+Hình 5.
 
 Để có phần còn lại, bạn cần lấy một quả bóng tennis ra khỏi túi và thêm nó vào các tập con 1 phần tử $M_3$:
 
-Cơm. 6.
+Hình 6.
 
 Chúng tôi nhận được $3+3=6$, như mong đợi theo luật chuyển tiếp. Rõ ràng là lý do này mang tính tổng quát; có thể tiến hành tìm quy luật chuyển đổi sang số tập con phần tử $k$ của phần tử $n$ cho bất kỳ $k \leq n$ nào.
 
@@ -114,9 +114,9 @@ Tính chất của tam giác Pascal
 
 Bằng cách loại bỏ các số 0, bảng của chúng ta có thể được viết lại dưới dạng tam giác, đối xứng hơn:
 
-Cơm. 7.
+Hình 7.
 2. Có bao nhiêu a) hai chữ số b) có ba chữ số, các chữ số được sắp xếp theo thứ tự giảm dần?
 3. Số tam giác là số điểm trong các tam giác có kiểu như trên Hình 8. Làm thế nào để tìm các số tam giác trong tam giác Pascal?
 
-Cơm. 8.
+Hình 8.
 4. Biểu thị dưới dạng tổng của các đơn thức a) $(a-b)^6$; 6) $(x-2y)^5$.

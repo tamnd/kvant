@@ -89,5 +89,5 @@ Chúng ta có: $\frac{\sqrt{3}}{2}\sin x + \frac{1}{2}\cos x = 1$, tức là $\s
 
 Rồi những thứ khác. Nói đúng ra, cần phải chứng minh phương trình (2) suy ra từ phương trình (1). Hãy thể hiện nó. Từ phương trình (2) suy ra $S_{ACD} + S_{DCB} = S_{ACB}$, do đó $|AD| + |DB| = |AB|$, và điều này được viết trong phương trình (1).
 
-Cơm. 1.
-Cơm. 2.
+Hình 1.
+Hình 2.

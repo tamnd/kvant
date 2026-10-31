@@ -42,7 +42,7 @@ Cân bằng có nghĩa là tổng các lực tác dụng lên mỗi điện tíc
 
 ⟦folio 66⟧
 
-Cơm. 2.
+Hình 2.
 
 cân bằng:
 $$\vec{F}_4 - \vec{F}_1 \cos 45^\circ - \vec{F}_2 \cos 45^\circ - \vec{F}_3 = 0,$$
@@ -63,9 +63,9 @@ Bài toán 3. Một khối đồng nhất có khối lượng $m$ đứng trên 
 Từ các thông điệp đối xứng, rõ ràng độ giãn dài $\Delta l$ của cả ba dây là như nhau. Theo định luật Hooke, lực kéo của dây thép và dây đồng lần lượt bằng nhau
 $$|\vec{F}_c| = \frac{\Delta l}{l_0} SE_c \text{ и } |\vec{F}_M| = \frac{\Delta l}{l_0} SE_M,$$
 
-cơm. 3.
+hình 3.
 
-cơm. 4.
+hình 4.
 
 ⟦folio 68⟧
 

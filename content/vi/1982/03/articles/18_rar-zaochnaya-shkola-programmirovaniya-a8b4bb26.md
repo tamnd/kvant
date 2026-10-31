@@ -57,14 +57,14 @@ Chúng ta hãy áp dụng các công cụ ngôn ngữ mà chúng ta vừa xem x�
 
 ⟦folio 55⟧
 
-Cơm. 3.
+Hình 3.
 Kho
 mới
 105 48
 112 55
 893 11 nil
 
-Cơm. 4.
+Hình 4.
 mới
 sự chuyển đổi
 sau đó
@@ -72,7 +72,7 @@ sau đó
 112 55
 893 11 nil
 
-Cơm. 5.
+Hình 5.
 mới
 sự chuyển đổi
 sau đó
@@ -81,7 +81,7 @@ sau đó
 200 13
 nil
 
-Cơm. 6.
+Hình 6.
 mới
 sự chuyển đổi
 sau đó
@@ -94,7 +94,7 @@ sau đó
 mới
 200 13
 
-Cơm. 7.
+Hình 7.
 sự chuyển đổi
 sau đó
 105 48
@@ -105,19 +105,19 @@ sau đó
 nil
 sau đó
 mới
-Cơm. 8.
+Hình 8.
 105 48
 112 55
 893 11
 900 13 nil
 
-Cơm. 9
+Hình 9
 
 55
 
 ⟦folio 56⟧
 
-Cơm. 10.
+Hình 10.
 
 người = ghi tên họ:
 array [1..40] of char;

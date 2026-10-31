@@ -43,7 +43,7 @@ DOI: https://doi.org/10.4213/kvant20210106
 
 ⟦figure⟧
 
-Cơm. 1
+Hình 1
 
 luồn vào một ống tròn (Hình 1). Một nam châm chuyển động tạo ra dòng điện cảm ứng vòng trong thân ống. Dòng điện của vòng sơ cấp tương tác với nam châm và làm nó chậm lại. Trong trường hợp này, tại thời điểm đạt tốc độ không đổi, lực hấp dẫn của nam châm được cân bằng bởi lực từ. Khó khăn trong việc đánh giá bằng số các kết quả thí nghiệm là làm thế nào để mô tả từ trường của cột nam châm vĩnh cửu và làm thế nào để ước tính độ lớn của dòng điện cảm ứng. Rõ ràng là trong thiết kế kỹ thuật, cần phải sử dụng các công thức khá phức tạp, trong đó không thể thực hiện được nếu không chia không gian chiếm giữ của dây dẫn và ống thành các phần tử vô hạn và tích hợp thêm trên chúng. Điều này được giảng dạy trong các trường đại học và cao đẳng kỹ thuật. Tuy nhiên, trong những trường hợp phức tạp, các nhà vật lý thường trước khi tính toán,
 
@@ -59,21 +59,21 @@ KVA NT 2021/№1
 
 ⟦figure⟧
 
-Cơm. 6
+Hình 6
 
 ⟦figure⟧
 
-Cơm. 4
+Hình 4
 
 các đầu của thanh ngang dài 24 cm, được cố định đối xứng trên trục thẳng đứng (Hình 4). Trục quay với tốc độ góc $Z_{1} 7 c^{1}$, chiều dài mỗi thanh là L 37 cm. Trong trường hợp này, lực căng của mỗi thanh bằng $T_{1} 49$ N. Lực căng sẽ bằng bao nhiêu nếu tốc độ quay giảm xuống các giá trị $Z_{2} 6 c^{1}$ hoặc $Z_{3} 5 c^{1}$? Bỏ qua sức cản của không khí, lấy gia tốc trọng trường trong bài toán bằng g 9,8 m $с^{2}. 2$ (vật lý phân tử). Chất lỏng làm việc của động cơ nhiệt là một lượng heli không đổi. Sơ đồ trong tọa độ “năng lượng bên trong – lượng nhiệt mà helium được trao đổi với các vật thể xung quanh” cho thấy một chu kỳ của chất lỏng làm việc (Hình 5). Ở đây $E_{0}$ là một ít năng lượng và thời gian ở vị trí 1. Bao nhiêu nhiệt sẽ tỏa ra trong điện trở sau khi phím được chuyển sang vị trí 2? Được biết, E 12 V, C 10 μF thì điện trở trong của pin bằng nhau và nhỏ hơn điện trở của điện trở n 3 lần. Điện trở của dây dẫn cũng như độ tự cảm của mạch có tụ điện là không đáng kể. 4 (quang học). Một chùm tia sáng song song hẹp thông thường rơi vào đế của một lăng kính cân trong suốt (Hình 7). Góc ở đáy lăng kính D 65 q,
 
 ⟦figure⟧
 
-Cơm. 7
+Hình 7
 
 ⟦figure⟧
 
-Cơm. 5
+Hình 5
 
 $Q_{к} 4 3 ln 4 | 2,15. E_{0} 3$ Tìm hiệu suất của chu trình. Áp suất tối đa lớn nhất trong chu trình lớn hơn áp suất tối thiểu bao nhiêu lần? Phương trình đoạn nhiệt cho khí lý tưởng đơn nguyên tử: $pV^{5} 3$ const. 3 (điện và từ). Trong mạch điện ở Hình 6, chìa khóa là chiết suất của vật liệu của nó n 2. Hai chùm tia sáng nhất ló ra khỏi lăng kính sẽ hợp với phương ban đầu một góc bằng bao nhiêu? Xin lưu ý rằng khi tia tới bình thường từ bên trong lên bất kỳ mặt nào của lăng kính, cả tia truyền qua và tia phản xạ đều được quan sát thấy. 5 (quang học). Sử dụng một thấu kính mỏng, thu được ảnh sắc nét của một vật nhỏ trên màn với độ phóng đại ngang $|*_{1} | 2.$ Vật được dịch chuyển s 3 cm mà không di chuyển thấu kính. Để có được hình ảnh sắc nét trở lại, tôi phải di chuyển màn hình. Trong trường hợp này, độ phóng đại ngang hóa ra bằng $|*_{2} |^{5.}$ Màn hình phải được di chuyển bao nhiêu sc? Ấn phẩm được chuẩn bị bởi K. Parfenov
 
@@ -97,4 +97,4 @@ GIẢI PHÁP
 
 Thứ hai lời giải. Bạn đứng ở vị trí thứ k bên trái sẽ gọi tên số 20 k nên tổng các số được bạn trai gọi tên bằng $200 S_{m}$, trong đó $S_{m}$ là tổng các vị trí của chúng. Bạn đứng ở vị trí thứ n bên trái sẽ gọi số n là 1 nên tổng các số được bạn gái gọi tên bằng $S_{d} 10$, trong đó $S_{d}$ là tổng các vị trí của bạn gái. Vẫn còn phải kiểm tra xem $200 S_{m} S_{d} 10$. Nhưng điều này thực sự là như vậy, vì $S_{m} S_{d} 1 2$ ... 20 210. 9. Gợi ý đến lời giải đầu tiên. Chứng minh rằng nếu đổi chỗ hai thao tác liền kề (thêm một đồng vàng và bớt một đồng bạc) thì tổng các số trên tờ giấy sẽ thay đổi như nhau (tăng giảm một số). Thứ hai lời giải. Giả sử có n đồng bạc ở đầu và m đồng vàng ở cuối. Chúng ta sẽ miêu tả tình huống tại từng thời điểm theo điểm k; l trên mặt phẳng tọa độ (k là số đồng vàng trên bàn, l là số đồng bạc). Mỗi hành động - dịch chuyển một bên sang phải hoặc xuống dưới - sẽ được thể hiện bằng phân đoạn tương ứng. Kết quả sẽ là một đường đứt đoạn nối các điểm (0; n) và (m; 0) (Hình 6). Khi dịch sang phải, trên tờ đầu tiên ghi số bằng diện tích cột nằm dưới đoạn vẽ, $при_{Рис.} 6$ dịch xuống tờ thứ hai, ghi số bằng diện tích thanh nằm bên trái đoạn vẽ. Do đó, cuối cùng tổng các số trên mỗi tờ giấy sẽ bằng diện tích giới hạn bởi đường đa giác được vẽ và các trục tọa độ. Nhiệm vụ này và các nhiệm vụ khác lời giải trong đó cách tiếp cận tương tự sẽ giúp ích được mô tả trong bài viết của E. Bakaev “Con trai, con gái, bảng, biểu đồ…” trong «Kvant» Số 3 cho năm 2015. 10. Đầu tiên lời giải. Xét 4 ô nằm ở giao điểm của hai hàng và hai cột (Hình 7). Không khó để xác minh (ví dụ, bằng cách liệt kê các trường hợp) rằng trong số các ô A và D, về mặt chẵn lẻ, có nhiều ô màu đen như trong số các ô B và C. Điều này có nghĩa là nếu hai quân đồng thời di chuyển từ ô A và D đến ô B và C, thì số chẵn lẻ của số ô đen mà quân xe nằm trên đó sẽ không thay đổi. Bây giờ chúng ta hãy chỉ ra cách sử dụng những hành động như vậy, chúng ta có thể giảm vị trí của các quân xe xuống vị trí mà tất cả các quân xe đều nằm trên đường chéo chính. Chúng ta có thể nhận thức được những hành động chúng ta thực hiện
 
-Cơm. 7
+Hình 7

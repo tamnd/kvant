@@ -46,8 +46,8 @@ Trước khi đọc lời giải tiếp theo, hãy thử tự mình giải bài 
 
 Vì vậy, hoàn toàn là hình học lời giải. Chúng ta hãy mô tả một đường tròn xung quanh tam giác $ABC$ (Hình 2) và tiếp tục bissertis cho đến khi nó giao với đường tròn này tại điểm $E$. Theo định lý nổi tiếng $mn = l \cdot DE$. Ngoài ra, từ sự giống nhau của các tam giác $BCE$ và $ABD$ suy ra $\frac{a}{l} = \frac{l + DE}{b}$, từ đó $ab = l^2 + l \cdot DE$. Thay $l \cdot DE$ bằng $mn$, ta được kết quả cần tìm.
 
-Cơm. 1.
-Cơm. 2.
+Hình 1.
+Hình 2.
 
 ⟦folio 46⟧
 
@@ -144,7 +144,7 @@ Nếu bạn một lần nữa xem xét cẩn thận các ví dụ được đưa
 
 ⟦folio 49⟧
 
-Cơm. 9.
+Hình 9.
 
 bài toán sử dụng phương pháp đại số, chúng ta không nên quên rằng đây chính xác là phép đo phẳng bài toán, chứ không phải đại số, nghĩa là, nhiều phép tính hình học không thể được thông qua, vì chúng thường bỏ qua lời giải. Mặt khác, bạn có thể biến bài toán hình học đơn giản nhất thành một đại số phức tạp hơn, chẳng hạn như trường hợp của lời giải của bài toán sau đây với các tác giả của cùng một sổ tay tuyển sinh.
 

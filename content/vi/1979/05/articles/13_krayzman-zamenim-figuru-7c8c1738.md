@@ -50,7 +50,7 @@ Lời giải. Nếu chúng ta tính đến $\frac{S_1}{S_2} = \left( \frac{r_1}{
 
 ⟦folio 35⟧
 
-Cơm. 4. Hình 5. Hình 6.
+Hình 4. Hình 5. Hình 6.
 
 $$\widehat{O_2CD} = \frac{1}{2} \widehat{ACD} = \frac{3\pi}{16};$$
 do đó $$\frac{S_1}{S_2} = \text{ctg}^2 \frac{3\pi}{16}.$$
@@ -103,11 +103,11 @@ Vì $D_1 \in (DD_1C_1)$ và $(DD_1C_1) \parallel (AA_1B_1)$, bất kỳ đườn
 
 *) bài toán này được đưa ra vào năm 1969 trong kỳ thi tuyển sinh vào Khoa Vật lý của Đại học Quốc gia Moscow.
 
-Cơm. 7.
+Hình 7.
 
-Cơm. 8.
+Hình 8.
 
-Cơm. 9.
+Hình 9.
 
 ⟦folio 37⟧
 

@@ -162,9 +162,9 @@ Nhưng đây chỉ là một bài tập (xem (3) và (6)):
 $$\frac{s' + (q')^2}{s + q^2} = \frac{s'}{s} \Rightarrow s' + (q')^2 =$$
 $$= \frac{s'}{s} \cdot (s + q^2) \Rightarrow t^2 = \frac{s'}{s} \cdot (s + q^2)^2.$$
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
 ⟦folio 37⟧
 
@@ -334,9 +334,9 @@ Lưu ý rằng $v_{yct}$ không phụ thuộc vào tốc độ ban đầu $v_0$.
 
 F315. Một sợi dây xoắn ốc nối với hệ thống chiếu sáng thành phố được tích điện. Một nửa hình xoắn ốc bắt đầu được làm mát (ví dụ bằng nước). Điều này sẽ ảnh hưởng như thế nào đến lượng kim loại được giải phóng bởi nửa đường xoắn ốc này? Tất cả các hình xoắn ốc? Điện áp bảy được coi là không thay đổi.
 
-Cơm. 14.
+Hình 14.
 
-Cơm. 15.
+Hình 15.
 
 Chúng ta hãy biểu thị điện trở của mỗi nửa xoắn ốc trước khi bắt đầu nguội là $R$ (Hình 14). Vì điện trở của kim loại phụ thuộc vào nhiệt độ (tăng khi nóng lên và giảm khi nguội) nên việc làm lạnh một nửa của hình xoắn ốc sẽ dẫn đến điện trở của nửa này giảm xuống một giá trị nhất định $R_1 < R$. Vì điện áp nguồn $U$ không thay đổi nên điều này sẽ làm tăng dòng điện trong mạch và do đó làm nóng thêm nửa còn lại của cuộn dây. Điện trở của nửa này sẽ tăng lên và bằng $R_2 > R$ (Hình 15).
 

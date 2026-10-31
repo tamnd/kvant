@@ -114,11 +114,11 @@ $$F_1 = \frac{mg}{2}\cdot\frac{1}{\sin\alpha}.$$
 
 Từ tam giác $ABC$ $\cos\alpha = \frac{D - d}{2d}$
 
-Cơm. 2.
+Hình 2.
 
 ⟦folio 80⟧
 
-Cơm. 3.
+Hình 3.
 
 Sau đó
 

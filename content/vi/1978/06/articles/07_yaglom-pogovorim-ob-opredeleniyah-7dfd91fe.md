@@ -35,7 +35,7 @@ Cùng với đó, các định nghĩa đóng một vai trò cơ bản trong toá
 
 *) Một nhóm các nhà toán học người Pháp, hợp nhất dưới bút danh “Nicolas Bourbaki”, tự đặt mục tiêu viết một chuyên luận hoàn chỉnh về toán học hiện đại. Chuyên luận đã được xuất bản thành nhiều ấn bản riêng ở Paris từ năm 1939. Ở nước ta, bản dịch chuyên luận bắt đầu được xuất bản vào năm 1958. Chuyên luận vẫn chưa hoàn thành. Vì toán học cũng đang tiến lên trong khi viết luận văn nên có thể nó sẽ không bao giờ được hoàn thành.
 
-Cơm. 1.
+Hình 1.
 
 ⟦folio 33⟧
 
@@ -65,7 +65,7 @@ Hãy xem xét hai định nghĩa về số 0 của sự đối xứng trung tâm
 
 ⟦folio 34⟧
 
-Cơm. 2.
+Hình 2.
 
 Bài toán 1. Chứng minh rằng ánh xạ của một mặt phẳng lên chính nó khi và chỉ nếu là đối xứng có tâm $O$ khi điểm cố định duy nhất của nó là điểm $O$ (tức là $O'=O$ và với $A \neq O$ ta có $A' \neq A$), nó biến đổi bất kỳ đường thẳng nào thành đường thẳng song song và tồn tại một điểm $B$ $|B'O|=|BO|$.
 

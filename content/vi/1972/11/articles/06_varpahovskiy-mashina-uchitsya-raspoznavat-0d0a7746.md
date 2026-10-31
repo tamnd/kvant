@@ -39,7 +39,7 @@ Có thể dễ dàng tưởng tượng để sản xuất ra một cuộn băng 
 
 ⟦folio 20⟧
 
-Cơm. 3.
+Hình 3.
 
 trong 10 ô nhớ liên tiếp, như trong Hình 3.
 

@@ -34,7 +34,7 @@ G. L. Komkin
 
 F121. Ước tính lực lớn nhất mà đường kính sẽ thể hiện khi gắn vào các mặt phẳng bao phủ bán cầu Magdeburg (bán cầu) có bán kính
 
-Cơm. 3.
+Hình 3.
 
 $R=20$ cm (Hình 3). Hai bán cầu kéo dài theo hướng ngược nhau là $F$. Áp suất khí quyển là 1 atm.
 
@@ -48,15 +48,15 @@ Tìm lỗi
 
 Như đã biết, tại một điểm, tổng khoảng cách từ vỏ đến các đỉnh của một tứ giác cho trước là nhỏ nhất,
 
-Cơm. 1.
+Hình 1.
 
 là giao điểm của các đường chéo của nó (Hình 1). Chúng ta sẽ giảm một trong các cạnh của tứ giác, ví dụ: $BC$ (Hình 2), cho đến cạnh $BC$
 
-Cơm. 2.
+Hình 2.
 
 sẽ không biến thành một điểm. Trong trường hợp này, điểm $O$ sẽ tiếp cận $BC$ và hợp nhất với điểm đó trong Hình 3.
 
-Cơm. 3.
+Hình 3.
 
 Điều này có nghĩa là điểm có tổng khoảng cách từ lớp vỏ đến các đỉnh của một lượng giác nhất định là nhỏ nhất là một trong các đỉnh của nó. Nhưng có một định lý phát biểu rằng điểm như vậy là điểm mà từ đó nhìn thấy cả ba cạnh của tam giác với một góc $120^\circ$ chứ không phải một trong các đỉnh.
 

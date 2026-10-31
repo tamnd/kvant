@@ -59,7 +59,7 @@ Bài toán 4. Từ đầy đến trống-1 Trong một khay hình chữ nhật c
 
 ⟦figure⟧
 
-Cơm. 1
+Hình 1
 
 đổ đầy nước thì khối lượng của hình lập phương bằng $m_{2} = 1,7$ kg. Xác định khối lượng riêng U của vật liệu làm nên khối lập phương đó. Mật độ của nước là $U_{в} 1,0$ g $см^{3}$. (8.5) V. Slobodyanin
 
@@ -67,11 +67,11 @@ Bài toán 3. Nhiệt kế nhanh Hình 2 thể hiện thang đo của bốn nhi�
 
 ⟦figure⟧
 
-Cơm. 3
+Hình 3
 
 ⟦figure⟧
 
-Cơm. 2
+Hình 2
 
 giá chia lớn nhất và nó bằng bao nhiêu. Nhiệt kế nào hiện nay cho nhiệt độ cao nhất và bằng bao nhiêu? Nhiệt kế được mang vào phòng. Sau một giờ, nhiệt độ trong đó bắt đầu tăng dần và ở những khoảng thời gian bằng nhau với cùng một lượng. Xác định tốc độ tối đa tối đa và tối thiểu sẽ khác nhau bao nhiêu lần
 
@@ -131,13 +131,13 @@ Bảng 4 về các phép đo trải chiếu tatami bao gồm dữ liệu của h
 
 Bài toán 2. Cân bằng-3 Xem bài toán 2 cho lớp 9, và hình không phải là 4 mà là 7. (5,3)
 
-Cơm. 7
+Hình 7
 
 Bài toán 3. Sự phân ly Một khí hai nguyên tử lý tưởng, nằm trong một bình kín có thể tích $V_{0}$, được nung nóng từ nhiệt độ
 
 ⟦figure⟧
 
-Cơm. 8
+Hình 8
 
 gắn vào xương sườn AE (Hình 8,a); b) song song với đường chéo nhỏ AC (Hình 8, b). (2.1) I.Iogolevich
 

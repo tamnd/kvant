@@ -29,7 +29,7 @@ M456—M460; F472—F477
 
 M456. Tại mỗi đỉnh của đa tạp lồi có 3 cạnh hội tụ. Được biết, mỗi mặt của nó là một đa giác xung quanh có thể mô tả một vòng tròn. Hãy để chúng tôi chứng minh rằng một hình cầu có thể được mô tả xung quanh đa tạp này.
 
-Cơm. 1.
+Hình 1.
 
 Đặt $A$ là đỉnh của đa giác, $AB, AC, AD$ các cạnh đi ra khỏi nó. Vì các điểm $A, B, C, D$ không nằm trong cùng một mặt phẳng nên có thể vẽ một hình cầu qua chúng; chúng ta hãy biểu thị hình cầu này bằng $S_A$ (Hình 1).
 
@@ -41,7 +41,7 @@ I. Bernistey
 
 M457. Một đa giác khép kín không tự cắt được cho trên mặt phẳng; không có ba đỉnh nào của đa giác cùng nằm trên một đường thẳng. Việc đặt cược vào các liên kết không liền kề là đặc biệt nếu phần tiếp theo của một trong số chúng giao với liên kết kia. Chứng minh rằng số cặp đặc biệt là số chẵn.
 
-Cơm. 2.
+Hình 2.
 
 Hãy xem xét hai liên kết liên tiếp $AB$ và $BC$ của một đường gãy. Hãy tiếp tục vang lên vượt xa đỉnh cao $B$; chúng ta thu được tia $BK$ và $BL$ (Hình 2). Chúng ta hãy gọi vòng tròn của hai tia như vậy là một nút thắt. Một góc như vậy có thể được dựng ở mỗi đỉnh của một đường đứt nét. Dễ hiểu là số cặp đặc biệt bằng số giao điểm của các mắt xích với các góc. Ta khẳng định rằng mọi góc đều cắt đường đứt nét tại một số điểm chẵn. Trên thực tế, nếu nó đi từ một đường gãy liền kề với đỉnh $B$ $A$ đến một đỉnh lân cận khác $C$ từ $B$, chúng ta thấy rằng đường gãy của chúng ta đi vào trong góc nhiều lần như khi nó đi từ nó (vì các điểm $A$ và $C$ đều nằm bên ngoài góc). Điều này có nghĩa là số lượng các cặp vòng đặc biệt cũng là số chẵn.
 
@@ -59,7 +59,7 @@ Số lượng, v.v. (tổng cộng 9 bước). Nếu đa thức kết quả khô
 
 Nếu đa thức $f(x)$ không kết thúc bằng phân đoạn $[a,b]$, chúng ta sẽ tăng giá trị của các số dấu hiệu, thì với phi lịch sử $c \in [a,b]$ nó sẽ trở thành $b = f(c)=0$
 
-Cơm. 3.
+Hình 3.
 
 M459. Ở một số quốc gia, bạn có thể đi từ thành phố này đến bất kỳ thành phố nào khác trong vài phút đến các thành phố còn lại. Chi phí của mỗi chuyến đi được biết trước. Hai ma trận đã được biên soạn cho các thành phố của đất nước. Trong mỗi tuyến đường mẫu này, mỗi thành phố được nhập chính xác một lần. Khi biên soạn tuyến đường mẫu đầu tiên, chúng tôi được hướng dẫn theo nguyên tắc sau: điểm bắt đầu của tuyến đường mẫu được chọn ngẫu nhiên và tại mỗi nhà gỗ tiếp theo trong môi trường thành phố mà tuyến đường mẫu chưa đi qua, địa điểm có chuyến tàu đến comorbium từ thành phố trước đó có chi phí thấp nhất sẽ được chọn (nếu có một số thành phố tối đa thì bất kỳ thành phố nào trong số đó sẽ được chọn), v.v. Khi biên soạn tuyến đường mẫu thứ hai, thành phố bắt đầu có thể được chọn tùy ý và tại mỗi căn nhà gỗ tiếp theo trong môi trường thành phố mà tuyến đường mẫu chưa đi qua, thành phố có chuyến tàu đến comorb từ thành phố trước đó có chi phí thấp nhất sẽ được chọn. Hãy để chúng tôi chứng minh rằng tổng chi phí của dự án sử dụng mẫu hệ chính xác không lớn hơn tổng chi phí của dự án sử dụng mẫu hệ chính xác.
 
@@ -82,9 +82,9 @@ Trong trường hợp này, vé mặt đất $a$ của mẫu hệ đầu tiên l
 
 F472. Vẽ đồ thị gần đúng của số chỉ vôn kế theo thời gian sau khi mở công tắc K (Hình 7). Vôn kế và đá điện cảm là lý tưởng, R=100Ohm, U=300V.
 
-Cơm. 7.
+Hình 7.
 
-Cơm. 8.
+Hình 8.
 
 F473. Hình 9 được lập bằng công thức hoạt nghiệm cho chuyển động của hai quả cầu thép có cùng đường kính nhưng khối lượng khác nhau. Mũi tên trong hình thể hiện hướng chuyển động của một trong các quả bóng va chạm.
 

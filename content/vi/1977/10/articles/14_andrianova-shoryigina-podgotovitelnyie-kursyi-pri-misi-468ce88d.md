@@ -199,4 +199,4 @@ Bài toán bài kiểm tra viết toàn thời gian
 
 11. Xác định điện trở của dây xích giữa các điểm $A$ và $B$ (Hình 2). Điện trở của mỗi chất lỏng là $r$.
 
-Cơm. 1.
+Hình 1.

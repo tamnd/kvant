@@ -66,7 +66,7 @@ Hoạt động này được gọi là di chuyển em.
 6) sắp xếp các thẻ theo thứ tự bất kỳ.
 11. Chứng minh rằng không phải thứ tự bài nào cũng có thể lấy được sau 4 nước đi.
 
-Cơm. 1.
+Hình 1.
 
 Chúng ta có thể (vì chúng ta chứng minh bằng quy nạp) coi phát biểu của mình đã được chứng minh với các số $A$ không vượt quá $M_{n-2}$. Bằng cách sử dụng điều này, chúng ta thu được biểu diễn (*) cho bất kỳ số nguyên $A$ nào từ khoảng (1). Thật vậy, $A=2^n$ hoặc $1 \leqslant A-2^n \leqslant M_{n-2}$ hoặc $1 \leqslant 2^n-A \leqslant M_{n-2}$. Bằng cách cộng biểu diễn của số $A-2^n$ với $2^n$ hoặc trừ biểu diễn của số $2^n-A$ khỏi nó, chúng ta thu được biểu diễn (*) cho $A$.
 
@@ -170,9 +170,9 @@ F657. Bán kính cong của hai bong bóng xà phòng giống hệt nhau quay ng
 
 giữa các bong bóng lonnyla, một bong bóng có bán kính $R_1$ đã được hình thành. Tìm áp suất khí quyển. Hệ số căng bề mặt của dung dịch xà phòng là σ.
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2. $\overrightarrow{OAB} = 30^\circ$;
+Hình 2. $\overrightarrow{OAB} = 30^\circ$;
 $$|OB| = \frac{1}{2}|OA| = \frac{1}{2}R;$$
 $$r = \sqrt{R^2 - \frac{R^2}{4}} = \frac{R\sqrt{3}}{2};$$
 $$h = |OD| - |OB| = R - \frac{R}{2} = \frac{R}{2}.$$

@@ -24,7 +24,7 @@ translation_quality: draft
 
 ⟦folio 41⟧
 
-Cơm. 2.
+Hình 2.
 biệt hiệu $N$ trong $n$ lần. Và như chúng tôi đã trình bày (xem (*)), $U=q^2/2C$; Điều này có nghĩa là dung lượng $C'$ nhỏ hơn $n$ lần so với dung lượng $C$.
 
 Vì vậy, khi kích thước của dây dẫn giảm $n$ lần thì điện dung của nó cũng giảm đi một lượng tương ứng.

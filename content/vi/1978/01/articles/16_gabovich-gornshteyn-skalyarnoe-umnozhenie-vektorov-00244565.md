@@ -112,9 +112,9 @@ Bài toán 4 (Đại học bang Ural, 1971). Tam giác $AOB$ được quay trong
 
 Lời giải. Đặt $C$ ở giữa $[AB']$ (Hình 4). Hãy để chúng tôi chứng minh rằng $\overrightarrow{OC} \perp \overrightarrow{A'B}$, tức là $\overrightarrow{OC} \cdot \overrightarrow{A'B} = 0$; chúng tôi có
 
-Cơm. 4.
+Hình 4.
 
-Cơm. 5.
+Hình 5.
 
 ⟦folio 51⟧
 
@@ -137,7 +137,7 @@ Lưu ý rằng $(\overrightarrow{MD}, \overrightarrow{DQ}) = \frac{2}{3}\pi$ và
 
 Có tính đến những điều trên, chúng tôi nhận được
 
-**Cơm. 6.**
+**Hình 6.**
 
 $$\cos \varphi = \frac{-\frac{a^2}{8} + \frac{a^2}{4} + \frac{a^2}{3} - \frac{4a^2}{9}}{\frac{a}{2} \cdot \frac{a}{2}} = \frac{1}{18}.$$
 

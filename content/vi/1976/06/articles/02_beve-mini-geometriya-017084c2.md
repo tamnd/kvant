@@ -56,7 +56,7 @@ Tiên đề A3. *Có ba điểm không thẳng hàng*
 3. Mọi thông tin về bất kỳ đường thẳng nào đều chứa trong danh sách các điểm nằm trên đường thẳng đó; Do đó, quan điểm này về sự vật là hoàn toàn có thể chấp nhận được (mặc dù không hề cần thiết): mặt phẳng là một tập hợp hữu hạn các điểm, các đường thẳng là các tập hợp khác nhau của các điểm này.
 
 ⟦figure⟧
-Cơm. 1. a) Hình học “thoái hóa” (vi phạm Tiên đề A3!). b) Một mặt phẳng có bốn điểm và sáu đường thẳng. Các đường $AC$ và $BD$ song song với nhau!
+Hình 1. a) Hình học “thoái hóa” (vi phạm Tiên đề A3!). b) Một mặt phẳng có bốn điểm và sáu đường thẳng. Các đường $AC$ và $BD$ song song với nhau!
 
 Mặt phẳng nhỏ tối thiểu thỏa mãn ba tiên đề của chúng ta chứa bốn điểm và sáu đường thẳng; hình ảnh thông thường của nó được hiển thị trong Hình 1, *b*. Quy ước của hình vẽ này và nhiều hình vẽ khác trong chuyên luận của chúng tôi là trong đó các điểm thông thường tương ứng với các điểm của một mặt phẳng hữu hạn, các đường thông thường tương ứng với các đường thẳng của một mặt phẳng hữu hạn, và quan hệ thông thường thuộc về (“nằm trên” hoặc “thuộc về”) tương ứng với quan hệ thuộc về một mặt phẳng hữu hạn. Nhưng các cấu hình của một mặt phẳng hữu hạn không phải lúc nào cũng được gắn vào một mặt phẳng thông thường mà không có bất kỳ vi phạm nào, đôi khi buồn cười, đối với cấu trúc Euclide của nó. Ví dụ: trong Hình 1, *b* các đường chéo của “hình vuông” $ABCD$ song song với nhau!
 
@@ -73,7 +73,7 @@ $\square$ Theo định nghĩa, các đường thẳng song song không thể có
 $\square$ Để ba điểm $A$, $B$ và $C$ không nằm trên cùng một đường thẳng (Tiên đề A3; Hình 2); thì ba đường thẳng $a$, $b$ và $c$ đi qua Tiên đề A1 qua các cặp điểm $(B,C)$, $(A,C)$ và $(A,B)$ lần lượt cắt nhau theo cặp: đường thẳng $a$ và $b$ - tại điểm $C$, đường thẳng $a$ và $c$ - tại điểm $B$, các đường thẳng $b$ và $c$ - tại điểm $A$. $\blacksquare$
 
 ⟦figure⟧
-Cơm. 2. Ba đường thẳng $a$, $b$ và $c$ cắt nhau tại ba điểm.
+Hình 2. Ba đường thẳng $a$, $b$ và $c$ cắt nhau tại ba điểm.
 
 Định lý A6. *Nếu đường thẳng $a$ song song với đường thẳng $b$ và đường thẳng $b$ song song với đường thẳng $c$ thì $a$ và $c$ song song.*
 
@@ -104,7 +104,7 @@ Sự định nghĩa. *Bậc của mặt phẳng affine hữu hạn là số đi�
 *Thứ tự* là đặc tính số quan trọng nhất của mặt phẳng affine. Như chúng ta sẽ thấy, không khó để xây dựng một mặt phẳng có thứ tự bằng bất kỳ số nguyên tố nào được xác định trước; Việc xây dựng một mặt phẳng có bậc bằng lũy ​​thừa của một số nguyên tố sẽ khó hơn (và chúng ta sẽ không thể dành chỗ cho vấn đề này trong chuyên luận của mình). Biết rằng không có mặt phẳng cấp 6 và cũng không biết có mặt phẳng cấp 10 hay không.
 
 ⟦figure⟧
-Cơm. 3. a) Một tập hợp các đường thẳng song song. b) Số đường thẳng đi qua điểm $A$ bằng số lượng điểm trên đường thẳng $a$, cộng một.
+Hình 3. a) Một tập hợp các đường thẳng song song. b) Số đường thẳng đi qua điểm $A$ bằng số lượng điểm trên đường thẳng $a$, cộng một.
 
 Định lý mà bây giờ chúng ta chuyển sang, theo một nghĩa nào đó, là một ảnh ngược của A9: trong đó các điểm và mặt phẳng đã hoán đổi vị trí cho nhau. Các định lý như vậy được gọi là *kép* với nhau.
 
@@ -119,10 +119,10 @@ Bài toán 2. Chứng minh rằng điều kiện bài toán M364 («Kvant», 197
 $\square$ Giả sử $e$ là một đường thẳng tùy ý thì một trong ba đường thẳng, ví dụ $a$, của Định lý A5 cắt đường thẳng $e$ tại điểm $E$. Rõ ràng là qua bất kỳ điểm nào trên đường thẳng $a$, ngoại trừ điểm $E$, sẽ có một đường thẳng song song với đường thẳng $e$ (A2) và ngược lại (Hình 4), bất kỳ đường thẳng nào song song với đường thẳng $e$ sẽ cắt đường thẳng $a$ tại một điểm nào đó (xem A6). Chúng ta đã thiết lập sự tương ứng một-một giữa các điểm của đường thẳng $a$ và các đường thẳng của bó đường thẳng song song mà đường thẳng $e$ thuộc về. $\blacksquare$
 
 ⟦figure⟧
-Cơm. 4. Một tập hợp các đường thẳng song song với $e$ được dựng từ các điểm của đường $a$.
+Hình 4. Một tập hợp các đường thẳng song song với $e$ được dựng từ các điểm của đường $a$.
 
 ⟦figure⟧
-Cơm. 5. Hai cây bút chì có các đường thẳng song song cắt nhau cho biết tất cả các điểm của mặt phẳng.
+Hình 5. Hai cây bút chì có các đường thẳng song song cắt nhau cho biết tất cả các điểm của mặt phẳng.
 
 Định lý A12. *Bất kỳ mặt phẳng thứ tự $n$ nào cũng chứa $n^2$ điểm và $n^2+n$ đường.*
 
@@ -165,7 +165,7 @@ Như người đọc đã biết, điều này vẫn chưa chứng minh được
 Định lý cứng 2 được chứng minh tương đối gần đây (1949); nó cho phép bạn loại trừ vô số số khỏi việc xem xét, ví dụ: các số 77 và 78. Hình 6 hiển thị một trăm số tự nhiên đầu tiên, được tô màu ba màu: màu xanh lam là những số mà theo Định lý 1, có một mặt phẳng có thứ tự thích hợp, màu đỏ là các số mà theo Định lý 2, mặt phẳng đó không tồn tại và đối với các số màu đen, cả khả năng thứ nhất và thứ hai vẫn còn mở.
 
 ⟦figure⟧
-Cơm. 6. Bảng số “tốt”, “xấu” và “chưa biểu hiện”.
+Hình 6. Bảng số “tốt”, “xấu” và “chưa biểu hiện”.
 
 Terra incognita của các số màu đen bắt đầu bằng số 10 (mặc dù $10=2\cdot4+2$, nhưng $10=2\cdot5$, và cả 2 và 5 khi chia cho 4 đều không có số dư là 3). Kể từ khi phát hiện ra hình học affine hữu hạn (đầu thế kỷ XX), đã có nhiều nỗ lực xây dựng một mặt phẳng có trật tự này, bao gồm cả những nỗ lực gần đây - với sự trợ giúp của các máy tính hiện đại nhất, nhưng tất cả đều kết thúc không thành công: không ai có thể xây dựng được hơn sáu họ đường thẳng song song với mặt phẳng đang được tìm kiếm, mặc dù theo (A12) phải có chính xác mười một họ như vậy!
 
@@ -176,12 +176,12 @@ Terra incognita của các số màu đen bắt đầu bằng số 10 (mặc dù
 Vì vậy, hãy sắp xếp $n^2$ các điểm dưới dạng hình vuông $n\times n$ tại các nút của tờ giấy ca rô, như đã thực hiện trong Hình 7 cho $n=5$. Chúng ta hãy đánh số lại các hàng nút dọc và ngang với các số nguyên từ $0$ đến $n-1$ và gán cho mỗi điểm trên mặt phẳng cuối cùng trong tương lai một cặp tọa độ $(x,y)$, trong đó $y$ là số ngang và $x$ là số chiều dọc của hai hàng tại giao điểm mà điểm này nằm.
 
 ⟦figure⟧
-Cơm. 7. Đây là cách giới thiệu tọa độ trên mặt phẳng affine (ví dụ: điểm $A$ có tọa độ $(2,2)$). Ngược lại, từ một tập hợp $n^2$ điểm ($n=5$) cho bởi tọa độ, người ta có thể dựng một mặt phẳng affine.
+Hình 7. Đây là cách giới thiệu tọa độ trên mặt phẳng affine (ví dụ: điểm $A$ có tọa độ $(2,2)$). Ngược lại, từ một tập hợp $n^2$ điểm ($n=5$) cho bởi tọa độ, người ta có thể dựng một mặt phẳng affine.
 
 Những đường thẳng nào được coi là đường thẳng của mặt phẳng? Tất nhiên, bất kỳ hàng nút ngang hoặc dọc nào. Ngoài ra, bất kỳ tập hợp (ít nhất hai) nút nào nằm trên cùng một đường Euclide trong hình vuông $n\times n$. Chúng ta chỉ đồng ý “trả lại” bất kỳ đường thẳng nào như trong Hình 8.
 
 ⟦figure⟧
-Cơm. 8
+Hình 8
 
 Bài toán 6. Chứng minh rằng sau một số lần “nhảy” nhất định như vậy, chúng ta sẽ lại về dòng ban đầu và số nút mà chúng ta sẽ “vượt qua” không vượt quá $n$.
 
@@ -217,7 +217,7 @@ $$
 Sử dụng tập hợp $\mathrm F_p$ và các phép toán được giới thiệu trên đó, giờ đây chúng ta xác định một mặt phẳng affine hữu hạn có cấp $p$. Các điểm của mặt phẳng này sẽ được gọi là các cặp số $(x,y)$, trong đó $x$, $y\in\mathrm F_p$; Tổng cộng có $p^2$ cặp như vậy. Đường thẳng của mặt phẳng này sẽ là tập hợp bất kỳ các cặp như vậy có tọa độ thỏa mãn một số phương trình có dạng $x=s$, trong đó $s$ là một phần tử của tập hợp $\mathrm F_p$ hoặc một phương trình có dạng $y=a\otimes_px\oplus_pb$, trong đó cả hai số $a$, $b$ đều thuộc tập hợp $\mathrm F_p$.
 
 ⟦figure⟧
-Cơm. 9. Bảng cộng, nhân của trường hữu hạn bốn phần tử.
+Hình 9. Bảng cộng, nhân của trường hữu hạn bốn phần tử.
 
 Chúng tôi cung cấp cho người đọc sự xác minh tính hợp lệ của các Tiên đề A1–A3 với định nghĩa về điểm và đường này. (Để chứng minh một mệnh đề tương đương, chẳng hạn với (A1), cần chỉ ra rằng hai điểm bất kỳ $A=(c,d)$ và $B=(e,j)$ chỉ có thể thỏa mãn một phương trình có dạng $x=s$ hoặc dạng $y=a\otimes_px\oplus_pb$; khi kiểm tra, ta nên sử dụng tính chất của các phép toán $\oplus_p$ và $\otimes_p$ được lập trong Định lý A1-A9.) Điều này sẽ hoàn thành việc chứng minh điều đó.) một phần của Định lý 1, liên quan đến các giá trị nguyên tố cấp $n$ của mặt phẳng.
 
@@ -228,7 +228,7 @@ Thật hữu ích khi hiểu rằng đối với cách xây dựng của chúng 
 Dưới đây là ví dụ về trường hữu hạn có 4 phần tử: $\mathrm F_4=\{0,1,2,3\}$, các phép toán của nó được xác định theo các bảng trong Hình 9. Mặt phẳng affine hữu hạn tương ứng bậc 4 với lưới tọa độ “đỏ-xanh” được hiển thị trong Hình 10. Đồng thời, hình này đóng vai trò là giải pháp cho vấn đề đã được đề cập (epicgraph to § 2) bài toán khoảng 16 nhà du hành vũ trụ: mỗi họ đường song song là một phép chia trong số 16 phi hành gia cho 4 phi hành đoàn, mỗi dòng của một gia đình như vậy là một phi hành đoàn.
 
 ⟦figure⟧
-Cơm. 10. Mỗi họ song hành đều có màu sắc riêng; đối với ba họ (xanh, đen, chấm), mỗi hình thể hiện một đường thẳng.
+Hình 10. Mỗi họ song hành đều có màu sắc riêng; đối với ba họ (xanh, đen, chấm), mỗi hình thể hiện một đường thẳng.
 
 Chúng tôi trình bày mà không cần chứng minh định lý chính về trường hữu hạn.
 

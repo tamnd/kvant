@@ -33,7 +33,7 @@ Lỗi quan sát
 Cạnh của mảnh đất hình vuông là 1,4 m. Nửa chu vi p và diện tích S của nó là bao nhiêu (Hình 1)?
 Lời giải là tự định hướng: $p = 1,4 + 1,4 = 2,8$ ($m$), $S = 1,4 \times 1,4 = 1,96$ ($m^2$). Nhưng điều này chính xác đến mức nào đáp số? Hoàn toàn chính xác nếu độ dài cạnh của mặt cắt được xác định chính xác. Điều gì sẽ xảy ra nếu nó không được chỉ định, nhưng, ví dụ, được đo bằng thước dây decimet? Khi đó, điều tự nhiên là giả định rằng 1,4 m là độ chia của thước dây, gần với chiều dài thực của cạnh được đo của địa điểm. Từ đây chỉ rõ rằng chiều dài chính xác khác với 1,4 m không quá 0,05 m, nghĩa là giá trị tuyệt đối của sai số quan sát (nó được gọi là giá trị tuyệt đối)
 
-Cơm. 1.
+Hình 1.
 
 của giá trị đo x và được chỉ định $\Delta_x$) không vượt quá 0,05 m.
 

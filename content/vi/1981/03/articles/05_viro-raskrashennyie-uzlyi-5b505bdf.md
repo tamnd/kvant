@@ -74,7 +74,7 @@ nhưng hãy xem xét "hướng như nhau". Biểu diễn trực quan này của 
 
 ⟦folio 10⟧
 
-Cơm. 5.
+Hình 5.
 
 Tam giác liên quan đến việc xác định đồng vị cơ bản phải được coi là một quỹ đạo biến dạng.
 
@@ -97,15 +97,15 @@ Cho đến khi chúng tôi có thể trả lời câu hỏi này, tất cả cá
 
 Chúng ta biết rằng những nút thắt rất phức tạp có thể trở nên tầm thường
 
-Cơm. 6.
+Hình 6.
 
-Cơm. 7.
+Hình 7.
 
 10
 
 ⟦folio 11⟧
 
-Cơm. 8.
+Hình 8.
 
 Tuy nhiên, việc đưa ra những bất biến này và nhiều bất biến tương tự không giúp giải quyết những câu hỏi cũ mà dẫn đến việc hình thành những câu hỏi mới. Vấn đề là việc tính toán những bất biến này gây ra những khó khăn tương tự như việc chứng minh một nút thắt không tầm thường.
 
@@ -133,9 +133,9 @@ Hệ quả 1. Nếu sơ đồ nút cho phép tô màu đúng thì phần đượ
 
 Hệ quả tất yếu này ngay lập tức cho phép chúng ta giải quyết vấn đề được nêu trong Bài tập 4 (các nút được thảo luận ở đó là trivalny). Nhưng điều quan trọng hơn nhiều là một hình ba lá không tầm thường và nhiều nút khác bắt nguồn từ nó.
 
-Cơm. 9.
+Hình 9.
 
-Cơm. 10.
+Hình 10.
 
 ⟦folio 12⟧
 

@@ -112,7 +112,7 @@ Một lò xo có chiều dài bằng không hiệu dụng - HDPE - là một lò
 
 ⟦figure⟧
 
-Cơm. 1. Sự phụ thuộc của lực F vào chiều dài lò xo L
+Hình 1. Sự phụ thuộc của lực F vào chiều dài lò xo L
 
 chiều dài L đối với HDPE, trong đó độ dốc đặc trưng cho độ cứng k của lò xo. HDPE được sử dụng trong địa chấn và cho phép đo rất chính xác những thay đổi về gia tốc do trọng lực g. Ở đây và bên dưới, chúng tôi xem xét một loại nhựa HDPE đồng nhất có lực hấp dẫn Mg vượt quá $kL_{0}$. Hãy giới thiệu hệ số không thứ nguyên $D kL_{0} Mg 1$, hệ số này đặc trưng cho độ cứng tương đối của lò xo. Một món đồ chơi lò xo trơn có thể là một ví dụ về PND như vậy (nhưng không nhất thiết phải như vậy).
 
@@ -136,17 +136,17 @@ Hành vi hệ thống mà bạn đã khám phá trong A5 là cơ chế lấy né
 
 ⟦figure⟧
 
-Cơm. 4. Năm electron trong điện trường xoay chiều
+Hình 4. Năm electron trong điện trường xoay chiều
 
 giữa cực dương và cực âm tại một thời điểm nào đó (các đường trường không đổi không được hiển thị). Vị trí của năm electron tại thời điểm này được ký hiệu là $А,^{B,} C, D$ và E. Hãy chỉ ra trên bảng tính đáp số electron nào trong số này đang trôi về phía cực dương, electron nào đang trôi về phía cực âm và electron nào đang trôi theo hướng vuông góc với bán kính tại thời điểm này. (1,2 điểm)
 
 Hình 5 cho thấy các đường sức điện xen kẽ giữa cực dương và cực âm tại một thời điểm nào đó.
 
-Cơm. 5. Sáu electron ở cùng một khoảng cách tính từ cực âm
+Hình 5. Sáu electron ở cùng một khoảng cách tính từ cực âm
 
 ⟦figure⟧
 
-Cơm. 6. Tập trung điện tử
+Hình 6. Tập trung điện tử
 
 A6. Vẽ các nan còn lại tại thời điểm này trên tờ đáp số. Sử dụng mũi tên để chỉ hướng quay của chúng. Tính vận tốc góc Z của chúng. (0,8 điểm)
 
@@ -164,7 +164,7 @@ NGUYÊN VẬT LIỆU
 
 ⟦figure⟧
 
-Cơm. 6
+Hình 6
 
 (Hình 6). Tìm tốc độ biến thiên của cảm ứng từ trường nếu điện tích của dãy tụ điện là Q = 10 nC. (15 điểm)
 
@@ -176,19 +176,19 @@ Vòng loại
 
 ⟦figure⟧
 
-Cơm. 7
+Hình 7
 
 và điểm A cho bài tập thực hành và trong phòng thí nghiệm (được biết rằng chúng được thực hiện bởi cùng một học sinh). Một số giá trị trong bảng được định dạng màu trắng trên nền trắng (điều này vừa xảy ra...). Dựa trên dữ liệu bảng, hai sơ đồ đã được biên soạn (Hình 8): do
 
 ⟦figure⟧
 
-Cơm. 5
+Hình 5
 
 nếu biết rằng hiệu suất của chu trình Carnot, được thực hiện trong cùng một phạm vi nhiệt độ, là 64% và với sự giãn nở đẳng áp thì thể tích của khí tăng gấp 2 lần. (25 điểm) 6. Một cuộn dây có số vòng N = 100, đường kính d = 1 cm được đặt trong một từ trường đều song song với trục của nó. Cảm ứng trường tăng đều với tốc độ $B_{0}$. Hai đầu của cuộn dây được nối với một cục pin gồm ba tụ điện giống nhau, mỗi tụ có điện dung C = 1 µF
 
 ⟦figure⟧
 
-Cơm. 8
+Hình 8
 
 phạm vi B2:B5, bên phải – dọc theo C2:C5. Sử dụng các hình vẽ, hãy đánh dấu những phát biểu đúng trong số những phát biểu dưới đây. A. Không có nhiều hơn hai người nhận được hai điểm A. B. Số người hoàn thành bài được chia thành 2, 3 và 4. C. Chắc chắn có ít nhất một học sinh đạt điểm D ở cả hai bài. D. Điểm trung bình của bài tập trong phòng thí nghiệm cao hơn điểm trung bình của bài tập thực hành.
 
@@ -200,7 +200,7 @@ club) trong nước mắt: anh ấy sao chép từ bảng một chương trình 
 
 ⟦figure⟧
 
-Cơm. 12
+Hình 12
 
 Vòng chung kết
 
@@ -208,11 +208,11 @@ Vòng chung kết
 
 ⟦figure⟧
 
-Cơm. 13
+Hình 13
 
 Hai hàm dựng sẵn được sử dụng ở đây: CONCATENATE kết hợp hai hàm đã cho trong
 
-Cơm. 14
+Hình 14
 
 NGUYÊN VẬT LIỆU
 

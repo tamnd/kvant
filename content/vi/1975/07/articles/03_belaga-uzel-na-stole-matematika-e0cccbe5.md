@@ -33,7 +33,7 @@ Sách của các nhà sử học cổ đại đã lưu giữ cho chúng ta một
 
 Chúng ta nên ngưỡng mộ Alexander hay nên nhớ rằng với cùng một nhát kiếm, ông đã tự tước đi cơ hội trở thành người sáng lập ra lý thuyết về nút thắt, do cảm thấy tội lỗi?
 
-Cơm. 1. Một bộ sưu tập nhỏ các nút thắt biển.
+Hình 1. Một bộ sưu tập nhỏ các nút thắt biển.
 
 ⟦folio 7⟧
 
@@ -63,11 +63,11 @@ Căn chỉnh là một tập hợp gồm hai hoặc nhiều đường cong khôn
 
 Hình vẽ của tất cả các nút thắt mà chúng tôi đã kiểm tra đều chứa nhiều điểm – những điểm mà tại đó một số đoạn của đường biểu thị nút thắt giao nhau. Những điểm như vậy trong hình vẽ các nút thắt được gọi là điểm giao nhau - gấp đôi, gấp ba
 
-Cơm. 2. Phép nhân đôi toán học của một số hải lý.
+Hình 2. Phép nhân đôi toán học của một số hải lý.
 
 ⟦folio 8⟧
 
-Cơm. 3. Một bộ sưu tập nhỏ các bánh răng.
+Hình 3. Một bộ sưu tập nhỏ các bánh răng.
 
 hoặc $n$-gấp nếu chúng chứa hai, ba hoặc $n$ dòng. Tất cả các điểm giao nhau trong Hình 2 đều là gấp đôi; Điều này không phải ngẫu nhiên: luôn có thể tránh được ba điểm và các điểm có bội số cao hơn, cũng như sự trùng khớp của các đường và những “sự bất thường” khác của hình ảnh phẳng của một nút bằng cách chọn một “vị trí” thích hợp từ nơi chúng ta “nhìn” vào nút khi Hình 2).
 
@@ -79,11 +79,11 @@ Tất nhiên, đối với mỗi điểm giao nhau trên sơ đồ nút, cần p
 
 Kinh nghiệm hàng ngày cho chúng ta biết rằng bất kỳ nút thắt nào, thậm chí là nút thắt rất phức tạp, đều có thể được tháo gỡ bằng một chút kiên nhẫn. Nhưng hãy nhớ: khi tháo một nút thắt, theo quy luật, chúng ta sẽ thao túng các đầu của nó. Các nút thắt “trừu tượng” của chúng ta không có điểm kết thúc, và chúng ta nên kỳ vọng rằng nếu không bẻ “sợi dây” mà nút thắt được “kết nối”, chúng ta sẽ không thể tháo hầu hết các nút thắt mà chúng ta đã xem xét.
 
-Cơm. 4. Nút thắt đơn, nơ và áo len được dệt từ một sợi.
+Hình 4. Nút thắt đơn, nơ và áo len được dệt từ một sợi.
 
 ⟦folio 9⟧
 
-Cơm. 5. Chiếc thang của Jacob có phải là một nút thắt tầm thường?
+Hình 5. Chiếc thang của Jacob có phải là một nút thắt tầm thường?
 
 Theo định nghĩa, một vòng tròn cũng phải được coi là một nút - nút đơn giản nhất trong tất cả các nút, hay còn được gọi là nút tầm thường.
 
@@ -105,10 +105,10 @@ Chúng ta có nên xem xét các đường cong khép kín được mô tả tro
 
 *) Phương pháp thắt nút này trên các ngón tay của hai bàn tay và các chi tiết khác về “trò chơi xâu dây” có thể được tìm thấy trong cuốn sách “Truy cập toán học” của M. Gardir, M., “Mir”, 1972, chương 22.
 
-Cơm. 6. Hai nút thắt hoang dã. “Khung” màu sẽ có ích sau này.
+Hình 6. Hai nút thắt hoang dã. “Khung” màu sẽ có ích sau này.
 
 ⟦figure⟧
-Cơm. 7. Thắt nút trước gương.
+Hình 7. Thắt nút trước gương.
 
 Hình 6, a, b? Và chúng có phải là đường cong không? Không đi sâu vào chi tiết *), chúng ta phải nhận ra những cấu trúc kỳ lạ này có quyền được gọi là các đường cong và do đó là các nút. Nhưng với những nút thắt “hoang dã”, trái ngược với những nút thắt “thủ công”, tương tự như những nút thắt dây thông thường.
 
@@ -141,7 +141,7 @@ Bài tập 2. Chứng minh rằng nút thắt thẳng (Hình 2, c) là đồng v
 ⟦folio 11⟧
 
 ⟦figure⟧
-Cơm. 8. Chín cuộc triển lãm nữa từ Kunstkamera của chúng tôi.
+Hình 8. Chín cuộc triển lãm nữa từ Kunstkamera của chúng tôi.
 
 Định nghĩa thứ hai. Hai nút được cho là tương đương hoặc cùng loại nếu chúng đồng vị hoặc nếu một trong số chúng đồng vị với ảnh phản chiếu của nút kia.
 
@@ -161,7 +161,7 @@ Các nút được phân biệt theo tiêu chí nào? Chỉ cảm nhận rằng 
 
 ⟦folio 12⟧
 
-Cơm. 9. Nút này có phải là một đường gãy năm liên kết khép kín không?
+Hình 9. Nút này có phải là một đường gãy năm liên kết khép kín không?
 
 Những đặc điểm như vậy được gọi là bất biến nút *).
 
@@ -185,11 +185,11 @@ Pravante có 4.1. Chứng minh rằng M(A) = 0 khi và chỉ nếu nút A là h�
 
 B. “Độ đứt” của nút Theo định nghĩa về nút thắt tay (§ 4), chúng ta hãy tưởng tượng nút A
 
-Cơm. 10. Nút thắt nhỏ trên quả cầu, lá klever trên chiếc bánh rán và hình số tám trên chiếc bánh quy xoắn.
+Hình 10. Nút thắt nhỏ trên quả cầu, lá klever trên chiếc bánh rán và hình số tám trên chiếc bánh quy xoắn.
 
 ⟦folio 13⟧
 
-Cơm. 11. Quả cầu có tay cầm và dây tori.
+Hình 11. Quả cầu có tay cầm và dây tori.
 
 ở dạng một đường đứt nét khép kín với số lượng liên kết nhỏ nhất có thể. Hãy gọi số này là I (A) là “độ hỏng” của nút A.
 
@@ -209,7 +209,7 @@ Bất biến K(A) không có mục đích chung. Chúng tôi sẽ gọi đây l�
 
 ⟦folio 14⟧
 
-Cơm. 13. “Nút viền” của hình cầu có tay cầm.
+Hình 13. “Nút viền” của hình cầu có tay cầm.
 
 nhưng hãy chứng minh rằng đối với bất kỳ nút nào cũng có ít nhất một hình cầu có tay cầm mà trên đó nút này có thể được đặt mà không có điểm tự giao nhau.
 
@@ -221,11 +221,11 @@ Bài tập 7. Hãy nghĩ cách xây dựng một hình cầu như vậy có tay 
 
 Ngược lại, khi xây dựng, có lẽ, hữu ích nhất trong số các bất biến số, chúng ta xem xét chính xác các hình cầu với sự sắp xếp tùy ý của các tay cầm (các tay cầm có thể đan xen, buộc và khóa liên động); và một hạn chế được áp đặt đối với phương pháp đặt một nút trên một bề mặt như vậy: họ yêu cầu rằng sau khi cắt dọc theo nút, bề mặt này sẽ vỡ thành hai phần. Ví dụ, rõ ràng là sau khi cắt hình xuyến và “bánh quy xoắn” dọc theo các nút trong Hình 10, 6, 8 (hãy kiểm tra xem!) bạn chỉ nhận được
 
-Cơm. 14. Việc thay đổi vị trí của các nút không làm thay đổi thành phần của chúng.
+Hình 14. Việc thay đổi vị trí của các nút không làm thay đổi thành phần của chúng.
 
 ⟦folio 15⟧
 
-Cơm. 15. Các dạng khác nhau của một nút.
+Hình 15. Các dạng khác nhau của một nút.
 
 một “mảnh” bề mặt. Những chiếc bánh quy xoắn, được cắt dọc theo các đường viền nút trong Hình 13, a, b, mỗi phần chia thành hai phần - phần trên, hướng về phía chúng ta và phần dưới (phần đầu tiên là lá kleve và phần thứ hai là hình số tám).
 
@@ -301,7 +301,7 @@ Vì vậy, hãy chứng minh rằng đối với một nút nhất định luôn
 
 ⟦folio 18⟧
 
-Cơm. 16. Phim hai mặt, căng trên một tờ keo và sơn mỗi mặt bằng một màu khác nhau.
+Hình 16. Phim hai mặt, căng trên một tờ keo và sơn mỗi mặt bằng một màu khác nhau.
 
 một quả cầu có tay cầm trên đó có thể đặt nút này để nó chia toàn bộ bề mặt thành hai “mảnh”. Hãy lấy nút thắt của chúng ta và “kéo” một bề mặt hai mặt lên trên nó (giống như màng xà phòng trên khung dây); một trong những phương pháp “kéo” như vậy được mô tả trong chương 9 của cuốn sách đã được đề cập bởi M. Gardner (xem skoku ở trang 9). Cách thực hiện điều này, ví dụ, đối với lá kleve, có thể được xem trong Hình 16, b-g.
 
@@ -315,7 +315,7 @@ Bài tập 13. Chứng minh rằng cạnh của một hình cầu có số tay c
 
 ⟦folio 19⟧
 
-Cơm. 17. Quả cầu có tay cầm được uốn cong như thế nào?
+Hình 17. Quả cầu có tay cầm được uốn cong như thế nào?
 
 Từ bài tập 12 và 13, có thể thấy rằng loại của bất kỳ nút nào cũng là một số nguyên.
 
@@ -323,6 +323,6 @@ Sau khi loại bỏ sự mơ hồ trong định nghĩa về loại của một n
 
 Không khó để chứng minh bất đẳng thức P (A ≠ B) ≤ P (A) + P (B): lấy hai quả cầu có tay cầm 2P (A) và 2P (B) và các nút A và B nằm trên chúng được “cắt”, và nối các quả cầu thành một “quả tạ” có 2 tay cầm (P(A) + P(B)) sao cho các nút tạo thành bố cục A # B (xem hình 17 chẳng hạn). Rõ ràng, nút A#B cắt “quả tạ”.
 
-Cơm. 18. Cách “điều chỉnh” hai bề mặt có nút A và B từ một bề mặt có nút A#B
+Hình 18. Cách “điều chỉnh” hai bề mặt có nút A và B từ một bề mặt có nút A#B
 
 2* 19

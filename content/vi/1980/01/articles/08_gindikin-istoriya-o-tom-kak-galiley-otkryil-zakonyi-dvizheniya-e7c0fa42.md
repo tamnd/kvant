@@ -93,11 +93,11 @@ Galileo gọi đây là sự hạn chế chuyển động (ngược lại với 
 
 *) Niccolo Tartaglia (1500-1557). Bạn có thể đọc thêm về nó, chẳng hạn như trong bài viết “Nghệ thuật vĩ đại” của S. Gindikin («Kvant», 1976, số 9).
 
-Cơm. 4. Hình 5. Hình 6.
+Hình 4. Hình 5. Hình 6.
 
 ⟦folio 24⟧
 
-Cơm. 7.
+Hình 7.
 
 ném theo một góc so với đường chân trời, nó bao gồm một chuyển động hình chữ nhật đều, sẽ xảy ra nếu không có trọng lực và rơi tự do. Kết quả là cơ thể di chuyển dọc theo một parabol (Hình 7). Chúng ta hãy lưu ý rằng sự xa lánh này về cơ bản sử dụng định luật quán tính – định luật Galileo.
 

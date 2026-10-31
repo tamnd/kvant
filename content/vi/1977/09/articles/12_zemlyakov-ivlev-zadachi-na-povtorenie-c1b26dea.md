@@ -37,7 +37,7 @@ lớp IX
 
 1. Có thể để lại bao nhiêu mũi tên trong Hình 1 để chúng xác định một hàm có miền xác định $X \subset \{x_1, x_2, x_3\}$? (Hãy liệt kê tất cả các khả năng.)
 
-Cơm. 1.
+Hình 1.
 
 Đáp số. a) Chỉ 3; 6) tất cả 6; b) từ 0 đến 3; d) từ 0 đến 6; d) từ 3 đến 6.
 

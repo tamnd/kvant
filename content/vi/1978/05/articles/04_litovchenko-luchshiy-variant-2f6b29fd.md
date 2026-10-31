@@ -46,7 +46,7 @@ Một nhiệm vụ tương tự như nhiệm vụ được phân tích được 
 
 ⟦folio 14⟧
 
-Cơm. 1.
+Hình 1.
 
 Bạn có cần nuôi cáo Bắc Cực và cáo Bắc Cực sao cho chi phí trung bình cho một bộ da là tối thiểu nếu chi phí nuôi một con cáo là 45 rúp và một con cáo Bắc Cực là 25 rúp?
 
@@ -78,7 +78,7 @@ Hãy giải quyết thêm một câu nữa bài toán: người vận chuyển �
 
 ⟦folio 15⟧
 
-Cơm. 3.
+Hình 3.
 
 vị trí của giá trị trên các đường đi qua gốc tọa độ. Chúng ta cần tìm một trong những đường thẳng này cắt đa giác F và trên đó giá trị của hàm z là nhỏ nhất. Cũng như trên, rõ ràng đường thẳng này không chứa các điểm bên trong của đa giác F. Do đó, chỉ cần so sánh các đường OA và OB với nhau là đủ. TRẢ LỜI: $x=3000$ và $y=8500$.
 

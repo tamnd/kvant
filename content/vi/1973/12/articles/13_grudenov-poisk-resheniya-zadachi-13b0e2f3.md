@@ -42,7 +42,7 @@ Bài toán 1. Chứng minh rằng trong một góc vuông, góc phân giác củ
 
 Chúng tôi nghiên cứu các điều kiện. Chúng tôi vẽ một bản vẽ (Hình 2), biểu thị một số góc bằng các con số. Chúng ta chọn dữ liệu ($\angle ABC = 90^\circ$, $BO \perp AC$, $AM = MC$, $\angle ABK = \angle KBC$) và dữ liệu bắt buộc (chứng minh rằng $\angle 2 = \angle 3$). Chúng tôi kiểm tra trước rằng cách sắp xếp các phần tử trong Hình 2 là cách duy nhất có thể thực hiện được (đường phân giác nằm giữa đường trung tuyến và chiều cao); điều này dễ dàng được chứng minh bằng cách sử dụng điểm giữa của cung AC ngoại tiếp khoảng $\Delta ABC$ của đường tròn.
 
-Cơm. 1. Hình 2.
+Hình 1. Hình 2.
 
 ⟦folio 40⟧
 
@@ -123,7 +123,7 @@ c) Hãy nhớ những định lý được sử dụng tại lời giải mà tr
 
 ⟦folio 43⟧
 
-Cơm. 6.
+Hình 6.
 
 Gợi ý 26. $KO = \frac{1}{3} KC$, do đó $S_{\Delta KPC} = 9 S_{\Delta KOT}$.
 
@@ -135,7 +135,7 @@ Gợi ý 1. Đặt $PABCD$ là một tham số thông thường, $PO$ chiều ca
 
 Gợi ý 2 a. Để sử dụng dữ liệu bài toán khi chứng minh bất đẳng thức $\frac{R}{r} \geq \sqrt{2} + 1$, chúng tôi biểu diễn $R$ và $r$ thông qua các phần tử của paramida. Điều này dễ thực hiện hơn nếu một phần tử là tuyến tính, phần tử thứ hai là một góc. Đặt $BC = a$, $\triangle PKO = \alpha$, trong đó $K$ là phần giữa của $CB$, $\triangle PCO = \beta$. Lưu ý rằng $R$ và $r$ dễ thể hiện qua $a$ và $\alpha$ hơn là qua $a$ và $\beta$.
 
-Cơm. 7.
+Hình 7.
 
 Gợi ý 26. $T$ là tâm của quả bóng được mô tả trong paramidus thông thường và $\triangle PKO$ là góc tuyến tính của góc nhị diện $BC$, do đó $TK$ là phân giác của các góc $OKP$ và $r = OT = \frac{a}{2} \cdot tg \frac{\alpha}{2}$.
 

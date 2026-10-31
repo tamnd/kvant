@@ -46,4 +46,4 @@ Một ví dụ điển hình của trường hợp này là sự rơi tự do c�
 
 Một hệ thống báo cáo cố định có thể được liên kết với một số vật thể không thay đổi, chẳng hạn như với Mặt trời. Nhưng bạn có thể làm điều đó dễ dàng hơn mà không cần rời khỏi Trái đất. Rốt cuộc, có những điểm trên bề mặt Trái đất không tham gia vào quá trình quay của nó. Đây là những bề mặt của Trái đất mà trục quay đi qua. Vì vậy, để tìm giá trị gia tốc của một vật rơi so với hệ quy chiếu đứng yên thì cần phải thay đổi gia tốc trọng trường ở cực Trái đất. Để làm điều này, bạn có thể lắp một thước có các vạch chia trên cột (Hình 1) và, ví dụ, sử dụng phương pháp strokosoppic, thay đổi gia tốc của vật rơi dọc theo thước. Thước và hệ tọa độ đi kèm với nó sẽ là hệ thống báo cáo cố định cho chúng ta. Vì nó miễn phí
 
-Cơm. 1. Hình 2.
+Hình 1. Hình 2.

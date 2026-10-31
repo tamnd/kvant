@@ -34,7 +34,7 @@ sti, tức là hình nón tương ứng là một hình trụ và các mặt c�
 
 ⟦figure⟧
 
-Cơm. 9
+Hình 9
 
 PHÒNG THÍ NGHIỆM
 
@@ -52,11 +52,11 @@ DOI: https://doi.org/10.4213/kvant20210907
 
 ⟦figure⟧
 
-Cơm. 1
+Hình 1
 
 ⟦figure⟧
 
-Cơm. 2
+Hình 2
 
 bề mặt trước và sau của nó, nghiêng với trục thấu kính, ở các góc khác nhau - Hình 3, tình huống 1, tia 1. Tất nhiên, ngoại trừ trường hợp tia sáng đi qua tâm thấu kính và đến lần gần đúng thứ nhất, rơi trên cả hai bề mặt ở cùng một góc.
 
@@ -64,7 +64,7 @@ bề mặt trước và sau của nó, nghiêng với trục thấu kính, ở c
 
 ⟦figure⟧
 
-Cơm. 3
+Hình 3
 
 KVANT 2021/№9
 
@@ -80,7 +80,7 @@ PHÒNG THÍ NGHIỆM
 
 ⟦figure⟧
 
-Cơm. 4
+Hình 4
 
 rons – tình huống 7. Chúng ta quan sát một vật thể do thiết bị của chúng ta (mắt, máy ảnh, v.v.) nhận được bức xạ của chính vật thể đó hoặc bức xạ bị nó tán xạ từ các nguồn khác. Vị trí chúng ta nhìn thấy một vật thể được xác định chính xác bởi các tia này - não nhận được tín hiệu từ mắt và tái tạo lại đường đi của các tia và nói rằng vật thể đó nằm ở nơi các tia tiếp tục đi vào mắt giao nhau. Đây là lý do tại sao kính lúp “phóng đại” - các tia tới từ một vật ở gần nó tỏa ra và sự tiếp nối của chúng giao nhau ở khoảng cách lớn hơn so với trục và vật OB có vẻ được phóng đại. Nhưng tất nhiên, đây chỉ là ảnh IZ (còn gọi là "ảo") - tình huống 8. Từ tình huống 7 trong Hình 3, rõ ràng là các tia sáng phát ra từ một vật thể trong một chiếc quạt rộng hơn, sau khi khúc xạ trong kính phẳng, thậm chí còn phân kỳ rộng hơn và sự tiếp nối của chúng giao nhau gần hơn với người quan sát. Phần kéo dài của tia nhóm C cắt nhau tại điểm C¢, phần kéo dài của tia nhóm B - tại điểm B¢, phần kéo dài của tia nhóm A - tại điểm A¢. Do đó, quạt tia mà chúng ta chặn càng rộng thì vật thể sẽ xuất hiện càng gần chúng ta. Đúng, “kính lúp” này sẽ yếu và kém ở điểm đó - vì nó sẽ thu thập các tia của tất cả các nhóm nên hình ảnh sẽ bị mờ. Mắt hoặc ống kính máy ảnh càng gần vật thể thì quạt càng rộng
 

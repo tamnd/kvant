@@ -71,7 +71,7 @@ Khi chúng ta học cách vẽ đồ thị, thì trong kính vạn hoa của nh�
 
 *) Bản dịch của K. Balmonta.
 
-Cơm. 1.
+Hình 1.
 
 ⟦folio 6⟧
 
@@ -111,9 +111,9 @@ Hãy xét hình chiếu tâm từ một điểm O nào đó của ảnh trên m�
 
 khi giao nhau hoặc song song, chúng ta kết hợp hai tính chất cuối cùng thành một, coi tất cả các đường thẳng song song với nhau đều giao nhau tại một “điểm vô cùng xa”; các tia khác nhau của đường thẳng song song cho các điểm khác nhau ở vô cực; tất cả các điểm ở vô cực trên mặt phẳng sẽ lấp đầy “đường thẳng ở vô cực”. Nếu chúng ta chấp nhận những thỏa thuận này thì hai đường thẳng khác nhau bất kỳ (không loại trừ những đường thẳng song song) sẽ cắt nhau tại một điểm. Tuyên bố rằng qua điểm $A$ nằm ngoài đường thẳng $m$ người ta có thể chứng minh đường thẳng duy nhất song song với $m$ có thể được phát biểu lại như sau: qua điểm chung $A$ và điểm xa vô cùng (tương ứng với họ đường thẳng song song với $m$) tồn tại một đường thẳng duy nhất - kết quả là, trong những điều kiện mới, không có bất kỳ hạn chế nào, khẳng định đúng là qua hai điểm khác nhau ở đó là một đường thẳng (ở vô cùng nếu cả hai điểm đều ở vô cùng). Chúng ta thấy rằng đã thu được một lý thuyết rất hay, nhưng điều quan trọng đối với chúng ta là với phép chiếu tâm, giao điểm của các đường thẳng (theo nghĩa tổng quát) biến thành giao điểm. Điều quan trọng là phải suy nghĩ xem việc đưa các phần tử ở vô cực đóng vai trò gì trong phát biểu này (trong những điều kiện nào thì điểm giao nhau tiến đến điểm ở vô cực khi
 
-Cơm. 2.
+Hình 2.
 
-Cơm. 3.
+Hình 3.
 
 Có, một đường thẳng đi thành một đường thẳng ở vô cực và ngược lại). Không chú trọng đến việc Desargues sử dụng thông điệp đơn giản này, chúng ta sẽ thảo luận cách thay thế nó bằng Pascal.
 
@@ -121,7 +121,7 @@ Năm 1640, V. Pascal xuất bản tác phẩm “Olt trên các phần ốc xà 
 
 ⟦folio 9⟧
 
-Cơm. 4.
+Hình 4.
 
 thẻ tiêu đề. Khi đó các điểm P, Q, R cùng nằm trên một đường thẳng *).
 
@@ -139,7 +139,7 @@ Pascal bắt đầu nghiên cứu “Công trình hoàn chỉnh về các phần
 
 ⟦folio 10⟧
 
-Cơm. 6.
+Hình 6.
 
 điểm (6) của phần cuối cùng, khác với (5). Trong ký hiệu của định lý Pascal, điểm $P$ là giao điểm của (1, 2) và (4, 5), $Q$ là giao điểm của (2, 3) và $m$, $R$ là giao điểm của (3, 4) và $PQ$, khi đó (6) được định nghĩa là giao điểm của (1, $R$) và $m$.
 

@@ -23,9 +23,9 @@ translation_quality: draft
 
 ⟦folio 38⟧
 
-Cơm. 6.
+Hình 6.
 
-Cơm. 7.
+Hình 7.
 
 trong trường hợp này có một vòng quay $R_0^{2(\alpha-\pi)}$ hoặc $R_0^{2(\pi-\alpha)}$. Chấm $C = R_0^{2(\alpha-\pi)}$ (A) hoặc $C = R_0^{2(\pi-\alpha)}$ (A). Đỉnh góc của cung $ABC$ bằng 2 ($\pi-\alpha$) (điểm $A$ đi đến điểm $C$, di chuyển dọc theo cung $ABC$) và cung $AnC$, trên đó có góc nội tiếp $ABC$ tựa vào, có đỉnh góc là 2$\pi$-2 ($\pi-\alpha$) = 2$\alpha$. Định lý đã được chứng minh.
 

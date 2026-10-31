@@ -59,9 +59,9 @@ lớp 8
 
 2. Để thay đổi sự phân bố tốc độ gió theo độ cao, hãy sử dụng bóng bay có tốc độ nâng thẳng đứng không đổi. Khi tung một quả bóng như vậy, người ta đã phỏng đoán độ cao của quả bóng so với đường chân trời là hàm số của thời gian (Hình 1). Nếu tốc độ gió trên bề mặt Trái đất bằng 0 và khoảng cách từ điểm phóng quả bóng đến điểm quan sát là 1 km (Hình 2), hãy xác định độ cao bay lên của quả bóng 7 phút sau khi phóng và tốc độ gió ở độ cao này.
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
 ⟦folio 50⟧
 

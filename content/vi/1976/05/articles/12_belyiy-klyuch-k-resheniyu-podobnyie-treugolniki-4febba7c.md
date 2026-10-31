@@ -52,7 +52,7 @@ Từ sự giống nhau của các tam giác $AB'B$ và $AC'C$ (xem Hình 2), suy
 
 ⟦folio 60⟧
 
-Cơm. 8.
+Hình 8.
 
 Bài toán 8 (MIPT, 1970). Cho ABCD (AB và CD là các đáy) AB = a, CD = b (a < b). Đường tròn đi qua các đỉnh A, B, C tiếp xúc với cạnh AD. Tìm đường chéo AC.
 

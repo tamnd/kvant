@@ -96,7 +96,7 @@ Ví dụ, đối với một khối lập phương, chỉ có 48 cách tự sắ
 
 ⟦folio 26⟧
 
-Cơm. 1.
+Hình 1.
 Vị trí của khối lập phương được chia). Hình lập phương có 6 mặt, mỗi mặt có 4 cạnh, mỗi cạnh có 2 đầu, tổng cộng có $6 \times 4 \times 2 = 48$ cách.
 
 Tích $c = a \circ b$ của phép tự sắp xếp $a$ và $b$ của khối đa diện đều $\Delta$ được định nghĩa là thành phần tổng quát của các phép dịch chuyển: đầu tiên $b$ được thực hiện và sau đó là $a^*$). Kiểm tra xem $(a \circ b) \circ c = a \circ (b \circ c)$ đối với ba cách tự sắp xếp $a, b, c$ bất kỳ từ bộ $\Gamma (\Delta)$ của tất cả các cách tự sắp xếp của cơ thể $\Delta$ (tính kết hợp; so sánh với mô tả của nhóm ở trang 8 và tiên đề của nhóm III ở đó).
@@ -105,7 +105,7 @@ Bài tập 3. Chứng minh rằng việc thực hiện tuần tự hai phép qua
 
 *) Thứ tự ghi này thuận tiện ở chỗ hình ảnh $(a \circ b)(M)$ của điểm $M$ khi được ánh xạ $a \circ b$ sẽ là $a(b(M))$.
 
-Cơm. 2.
+Hình 2.
 Bài tập 4. Chứng minh rằng chỉ có 4 cách thẳng hàng khác nhau của đường thẳng trong không gian (Hình 3): giống nhau $e$, quay $a$ quanh $AB$, $b$ – quanh $CD$, $c$ – quanh $EF$, và $a^2 = b^2 = c^2 = e$, $a \circ b = b \circ a = c$, $b \circ c = c \circ b = a$, $a \circ c = c \circ a = b$.
 
 Phần dư của đẳng thức bài toán 4 có thể viết dưới dạng bảng cửu chương sau:
@@ -123,7 +123,7 @@ $a \circ a^{-1} = a^{-1} \circ a = e$.
 
 ⟦folio 27⟧
 
-Cơm. 5.
+Hình 5.
 
 Bây giờ chúng ta có thể xác định bất kỳ mức độ nguyên nào $a^k$ của việc tự căn chỉnh $a$:
 $$a^0 = e, a^1 = a, a^2 = a \circ a, \dots, a^{k+1} = a \circ a^k, a^{-k-1} = a^{-1} \circ a^{-k}.$$
@@ -147,12 +147,12 @@ Bài toán 8*. Chứng minh rằng bất kỳ sự thay thế nào từ $S_n$ đ
 
 *) bài toán này đã được cung cấp cho độc giả «Kvant» (xem «Kvant», 1975, số 11, M355, và cả «Kvant», 1976, số 8, trang 39).
 
-Cơm. 6.
+Hình 6.
 
 ⟦folio 28⟧
 
-Cơm. 7.
-Cơm. 8.
+Hình 7.
+Hình 8.
 
 Số lượng (và theo thứ tự thích hợp) thay thế
 $$\begin{pmatrix}
@@ -208,7 +208,7 @@ Và hình minh họa 2 (hình học). Thứ tự của nhóm $\Gamma(D)$ tự s�
 
 Và hình minh họa 3 (số học). Bài toán vì số chia hết thường rất đẹp; Ví dụ, hãy thử chứng minh rằng các số $7^8-1$, $11^8-1$, $13^8-1$, $17^8-1$, $19^8-1$, $23^8-1$, $29^8-1$ chia hết cho 30. Khi tìm thấy lời giải, bạn sẽ rất vui khi biết rằng thực tế này là một trong những hệ quả của định lý Lagrange.
 
-Cơm. 9.
+Hình 9.
 
 Ta biểu thị bằng $\Phi(m)$ tập hợp các số tự nhiên nhỏ hơn $m$ và nguyên tố cùng nhau với $m$. Hãy để chúng tôi giới thiệu trên bộ $\Phi(m)$ phép toán "" của phép nhân modulo $m: a * b$ bằng phần còn lại của phép chia tích chung $a \cdot b$ của các số $a$ và $b$ cho $m$ (ví dụ: nếu $m = 30$, thì $7 \cdot 17 = 29$, vì $7 \cdot 17 = 119 = 3 \cdot 30 + 29$).
 

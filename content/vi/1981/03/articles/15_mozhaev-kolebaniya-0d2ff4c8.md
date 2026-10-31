@@ -39,8 +39,8 @@ Bài toán 1. Một tải trọng khối lượng m đặt trên mặt ngang ch�
 
 1) Giả sử tại một thời điểm t tải ở một điểm có tọa độ x (Hình 1, b). Hãy viết phương trình chuyển động của tải dọc theo trục X. Theo hướng này chỉ có một lực tác dụng lên tải trọng - lực đàn hồi của lò xo $\vec{F}$ hướng về vị trí cân bằng ($x=0$). Hình chiếu của lực này là $F=-kx$ nên phương trình chuyển động của tải trọng có dạng
 
-Cơm. 1.
-Cơm. 2.
+Hình 1.
+Hình 2.
 
 ⟦folio 47⟧
 
@@ -86,7 +86,7 @@ Như vậy, hỗn hợp hàng hóa thay đổi theo thời gian theo quy luật
 
 $$x = A_0 \cos \sqrt{\frac{k}{m}} t.$$
 
-Cơm. 3.
+Hình 3.
 
 2) Vận tốc (chính xác hơn là hình chiếu của nó) là tọa độ tùy ý đầu tiên trong thời gian, vì vậy nó phụ thuộc vào thời gian:
 
@@ -118,7 +118,7 @@ Bài tập 2. Một vòng mỏng có bán kính $r$ lăn không trượt trên m
 
 ⟦folio 48⟧
 
-Cơm. 4.
+Hình 4.
 
 Từ lời giải bài toán trước, rõ ràng là để tìm tần số $\omega$ của hệ dao động hoặc chu kỳ $T(T=2\pi/\omega)$ chỉ cần lập một phương trình chuyển động và rút gọn nó về dạng (2). Khi đó hệ số của số hạng thứ hai sẽ cho bình phương tần số.
 
@@ -133,7 +133,7 @@ $$E_{\kappa2}=\frac{mv^2}{2}=E_{\kappa1}.$$
 $$E_{\pi}=mg((R-r)-(R-r)\cos \varphi)=
 =mg(R-r)(1-\cos \varphi)=\frac{mg(R-r)\varphi^2}{2}$$
 
-Cơm. 5.
+Hình 5.
 
 (bình đẳng gần đúng cuối cùng được viết có tính đến độ nhỏ của góc $\varphi$: $1-\cos \varphi=2\sin^2\varphi/2=\varphi^2/2$).
 
@@ -158,7 +158,7 @@ Bài 3. Trong một hình trụ thẳng đứng có tiết diện $S$, một pis
 
 ⟦folio 49⟧
 
-Cơm. 6.
+Hình 6.
 từ vị trí cân bằng. Áp suất khí quyển là $p_0$, khí lý tưởng và nhiệt độ khí không đổi.
 
 Để tại một thời điểm nào đó piston di chuyển xuống dưới một lượng nhỏ $x$. Thể tích khí dưới pít-tông giảm sẽ bằng $\Delta V = Sx$, điều này sẽ làm áp suất khí tăng $\Delta p$. Hãy tìm mối liên hệ giữa $\Delta V$ và $\Delta p$. Bởi vì quy trình sản xuất cuộn dây là $pV = \text{const}$ và $\Delta(pV) = 0$. Do đó, $V\Delta p + p\Delta V = 0$ hoặc $\Delta p = -\frac{\Delta V}{V} p = -\frac{Sp}{V} x$.
@@ -205,7 +205,7 @@ $$u = \frac{\delta}{r} \sqrt{\frac{L}{C}} \sin \sqrt{\frac{1}{LC}} t.$$
 
 ⟦folio 50⟧
 
-Cơm. 7.
+Hình 7.
 
 Tại sợi
 

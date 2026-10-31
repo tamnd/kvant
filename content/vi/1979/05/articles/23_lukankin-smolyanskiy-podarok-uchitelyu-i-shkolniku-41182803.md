@@ -75,13 +75,13 @@ Xây dựng ảnh của thấu kính và gương cầu
 
 2. Trục quang bên OD, song song với tia trên của chùm tia, cắt mặt phẳng tiêu cự phía trước tại điểm D (Hình 2). Chùm BA và OD, youSED
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
-Cơm. 3.
+Hình 3.
 
-Cơm. 4.
+Hình 4.
 
 những tia từ thấu kính song song với nhau, trước khi gặp nó, cắt nhau ở mặt phẳng tiêu cự phía trước của thấu kính; do đó, sự tiếp tục của đường thẳng BD xác định đường đi của tia BA tới thấu kính. Tương tự, ta tìm tia tới tương ứng với tia ra CA.
 
@@ -115,7 +115,7 @@ Giải bất đẳng thức $\frac{1}{12} \leq \frac{1}{3} \cdot \frac{x}{2} \cd
 
 Bán kính $r_1$ của hình tròn nội tiếp tam giác $AHE$ bằng (bài toán 10 đến trang 112 của “Hình học 8”) $$\frac{S_{\triangle AHE}}{p_{\triangle AHE}} = \frac{\sqrt{2} - 1}{2}$$. Sự miêu tả
 
-Cơm. 6. Hình 7.
+Hình 6. Hình 7.
 
 từ điểm $H$ vuông góc $HK$ đến $BC$ (Hình 7). Theo định lý ba đường vuông góc $OK \perp BC$. Vì vậy, $|OK| = 1$. Bán kính của hình tròn $r_2$ nội tiếp trong tam giác $HOK$ là $$\frac{S_{\triangle HOK}}{p_{\triangle HOK}} = \frac{3 - \sqrt{5}}{4}$$. Thật dễ dàng để kiểm tra điều đó $r_2 < r_1$.
 
@@ -167,15 +167,15 @@ Gợi ý. Đường đi của tia biên, chưa bị phần bên trong quả bón
 Bài tập-đánh giá
 1. Năng lượng $mgh$ tích lũy khi rơi từ độ cao $h$ được sử dụng cho công $A \sim |\vec{F}| l$ chống lại lực trung bình $\vec{F}$ tác dụng lên chân ($l$ – đường đi của tâm
 
-Cơm. 12.
+Hình 12.
 
-Cơm. 13.
+Hình 13.
 
-Cơm. 14.
+Hình 14.
 
-Cơm. 15.
+Hình 15.
 
-Cơm. 16.
+Hình 16.
 
 trọng lực trong suốt thời gian tác dụng lực, xấp xỉ bằng chiều dài của chân). Như vậy,
 
@@ -292,9 +292,9 @@ $$R_{1max} = \frac{1}{e|\vec{B}|} \sqrt{2em_1(U_0 + \Delta U)}$$
 
 4. $T_p = T_e \frac{m_p}{m_e}$.
 
-Cơm. 17.
+Hình 17.
 
-Cơm. 18.
+Hình 18.
 
 ⟦folio 64⟧
 
@@ -323,11 +323,11 @@ trò chơi domino
 (xem “Quant” số 4, trang 56)
 Xem hình 19, 20, 21.
 
-Cơm. 19.
+Hình 19.
 
-Cơm. 20.
+Hình 20.
 
-Cơm. 21.
+Hình 21.
 
 Phòng đã được chuẩn bị:
 A. Vilenkin, I. Klumova, T. Petrova,

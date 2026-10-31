@@ -100,6 +100,6 @@ Khái niệm lượng tử năng lượng ánh sáng giải thích đầy đủ 
 
 Hình 2 cho thấy ở dạng logarit dốc sự phân bố năng lượng trong quang phổ của vật đen tuyệt đối trong một phạm vi nhiệt độ rất lớn, bắt đầu từ độ không tuyệt đối đến 50.000 K. Trục hoành biểu thị logarit của bước sóng tính bằng cm và tọa độ hiển thị logarit của giá trị tỷ lệ với cường độ bức xạ. Các đường sóng thực tế được biểu thị ở thang đo thấp hơn tính bằng micron. Với hình ảnh này, cực đại của phổ phát xạ nằm trên một đường thẳng, như được biểu thị bằng đường chấm trong hình. Từ hình này, có thể thấy ngay rằng, chẳng hạn, ở nhiệt độ của cơ thể con người (khoảng 310 K), bức xạ cực đại của vật đen tuyệt đối tương ứng với bước sóng khoảng 10 μm, xa hơn là ở phần hồng ngoại của quang phổ. Độ phát quang tối đa ở nhiệt độ nhiệt thông thường của chúng ta
 
-Cơm. 2. Trục hoành biểu thị giá trị log λ([λ] = cm), trục tọa độ biểu thị giá trị log 2I_λ ([I] = Bt/cm³). I là cường độ bức xạ, tức là công suất bức xạ trên một đơn vị thể tích của vật đen tuyệt đối.
+Hình 2. Trục hoành biểu thị giá trị log λ([λ] = cm), trục tọa độ biểu thị giá trị log 2I_λ ([I] = Bt/cm³). I là cường độ bức xạ, tức là công suất bức xạ trên một đơn vị thể tích của vật đen tuyệt đối.
 
 Mỗi đường cong tương ứng với một nhiệt độ cơ thể đen nhất định (các con số trên đường cong là giá trị T, K).

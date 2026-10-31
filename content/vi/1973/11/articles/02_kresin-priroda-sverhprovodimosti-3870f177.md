@@ -46,7 +46,7 @@ Kamerlingh Onnes đã chỉ ra khả năng dẫn dòng điện của kim loại 
 
 *) Ở đây và bên dưới chúng tôi đưa ra các giá trị nhiệt độ theo thang Kelvin.
 
-Cơm. 1.
+Hình 1.
 
 ⟦folio 3⟧
 
@@ -88,7 +88,7 @@ Hiện tượng siêu dẫn được giải thích như thế nào?
 
 Tính siêu dẫn được phát hiện, như đã đề cập ở trên, vào năm 1911. Việc phát hiện ra Kamerlingh Onnes đã thu hút sự quan tâm lớn. Nhiều nhà vật lý đã thử bằng nhiều cách khác nhau để giải thích sự biến mất của điện trở và các đặc tính khác của trạng thái siêu dẫn. Trong số đó có A. Einstein, người hồi năm 1920 đã ghi nhận sự tương tự giữa chất siêu dẫn và chất sắt từ; một trong những người sáng tạo ra cơ học lượng tử W. Heisenberg, tra tấn
 
-Cơm. 2.
+Hình 2.
 
 đòi hỏi tính siêu dẫn phải ở độ tuổi tĩnh điện đặc biệt. Chỉ đến năm 1957, công trình của các nhà vật lý người Mỹ D. Bardeen, L. Cooper và D. Schriefer mới xuất hiện, trong đó lý thuyết về tính siêu dẫn được vạch ra.
 
@@ -131,7 +131,7 @@ Trong kim loại bình thường, khí điện tử có thể tăng năng lượ
 
 *) Chi tiết hơn về bản chất của lực cản được mô tả trong bài viết của M. I. Kaganov và G. L. Lyubarsky “Electron chuyển động có ma sát” («Kvant», 1973, số 6).
 
-Cơm. 3.
+Hình 3.
 
 ⟦folio 7⟧
 
@@ -185,7 +185,7 @@ Trong chất siêu dẫn, mọi thứ trông hoàn toàn khác. Như chúng ta �
 
 Hãy đặt chất siêu dẫn trong từ trường ngoài. Các electron nằm ở lớp bề mặt (trường không xuyên qua độ dày của mẫu) bắt đầu chuyển động và tạo ra dòng điện siêu dẫn. Trong trường hợp này, electron chuyển động do tác động trực tiếp của từ trường bên ngoài lên nó và dưới tác động của các electron khác liên kết với nó, cũng chịu tác động của trường. Do đó, dòng điện phát sinh ở một vị trí nhất định của chất siêu dẫn không chỉ được xác định bởi giá trị của trường ngoài tại vị trí này,
 
-Cơm. 7. Độ dẫn nhiệt χ của kim loại thường được đánh dấu trên hình bằng các vạch màu xanh, độ dẫn nhiệt của chất siêu dẫn được đánh dấu bằng các vạch màu đỏ.
+Hình 7. Độ dẫn nhiệt χ của kim loại thường được đánh dấu trên hình bằng các vạch màu xanh, độ dẫn nhiệt của chất siêu dẫn được đánh dấu bằng các vạch màu đỏ.
 
 mà còn có ý nghĩa của nó trong một lĩnh vực nhất định. Mối liên hệ như vậy giữa dòng điện và trường bên ngoài, trái ngược với trường hợp của kim loại thông thường, được gọi là không tiêu điểm.
 

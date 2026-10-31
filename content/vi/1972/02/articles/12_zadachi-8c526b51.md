@@ -72,13 +72,13 @@ G. L. Komkin
 
 ⟦folio 45⟧
 
-Cơm. 1.
+Hình 1.
 
 đường thẳng $l_1$ sao cho trùng với $l_2$ ($0^\circ < l_1 < l_2 < 180^\circ$). Nếu các đường $l_1$ và $l_2$ song song hoặc trùng nhau, thì theo định nghĩa, $\Rightarrow (l_1, l_2) = 0$. Xác minh rằng đối với hai điểm bất kỳ $U$ và $V$ và một góc cho trước $\alpha$ ($0^\circ < \alpha < 180^\circ$), tập hợp các điểm $X$ mà $\Rightarrow (UX, VX) = \alpha$ sẽ được làm tròn (nói đúng ra, loại trừ chính các điểm $U$ và $V$); nói cách khác, những điểm nào $U, V, X_1$ và $X_2$ nằm trên cùng một đường tròn moeda và mokomoeda, koeda $\Rightarrow (UX_1, VX_1) = \Rightarrow (UX_2, VX_2) \neq 0$ (Hình 3, a; so sánh hình 3, a và 3, b giải thích ưu điểm của phương pháp xác định góc mới).
 
 Hãy quay trở lại bài toán của chúng tôi. Bây giờ phát biểu rằng năm điểm $C, N, P', S, R'$ nằm trên cùng một đường tròn (do đó có kết quả như sau)
 
-Cơm. 2.
+Hình 2.
 
 các cú đánh $R'$ trùng với $S$) suy ra từ các đẳng thức
 
@@ -89,9 +89,9 @@ $= \Rightarrow (MN, P'N) = \Rightarrow (CN, P'N)$.
 
 Những đẳng thức này rất dễ kiểm tra một cách hình thức mà không cần dựa vào hình vẽ - bạn chỉ cần nhớ điểm nào nằm trên cùng một đường thẳng và điểm nào nằm trên cùng một đường tròn; Ngoài định lý in nghiêng ở trên còn dùng $Q'Q \parallel MM' \parallel l$. (Tất nhiên, chúng ta vẫn cần phân tích các trường hợp “được biểu thị” khi hai điểm bất kỳ xác định đường thẳng trong các đẳng thức này trùng nhau; chúng đều khá rõ ràng và chúng ta sẽ không làm như vậy)
 
-Cơm. 3. Các đường màu xanh lam hiển thị tập hợp các điểm: a) $(UX, VX) = \alpha$ (hình bên trái) và b) $UXV = \alpha$ (hình bên phải).
+Hình 3. Các đường màu xanh lam hiển thị tập hợp các điểm: a) $(UX, VX) = \alpha$ (hình bên trái) và b) $UXV = \alpha$ (hình bên phải).
 
-Cơm. 4. Một công thức khác của bài toán M84: nhờ ba ánh xạ hiển thị trong hình, từ điểm $X$ chúng ta thu được $Y = f(X)$; nếu bạn làm tương tự cho điểm $Y$, thì kết quả là $f[Y] = X$.
+Hình 4. Một công thức khác của bài toán M84: nhờ ba ánh xạ hiển thị trong hình, từ điểm $X$ chúng ta thu được $Y = f(X)$; nếu bạn làm tương tự cho điểm $Y$, thì kết quả là $f[Y] = X$.
 
 ⟦folio 46⟧
 
@@ -111,11 +111,11 @@ M86
 
 Hãy tính hộp thành các hình vuông có kích thước $1 \times 1$ và đánh dấu những hình vuông nằm ở vị trí lẻ trong các con lợn lẻ (xem Hình 5). Lưu ý rằng mỗi ô $1 \times 4$ bao gồm bốn ô vuông ở dưới cùng của hộp sẽ
 
-Cơm. 5
+Hình 5
 
-Cơm. 6.
+Hình 6.
 
-Cơm. 7.
+Hình 7.
 
 Cần phải che một số ô vuông chẵn mà chúng ta đã dịch chuyển (hai hoặc không có ô nào) và ô $2 \times 2$ luôn bao phủ chính xác một ô vuông bị dịch chuyển. Do đó, nếu các ô được phủ hoàn toàn vào hộp thì số ô $2 \times 2$ có cùng số chẵn lẻ với tổng số ô vuông bù trừ ở đáy hộp. Do đó, nếu số ô $2 \times 2$ đã thay đổi một (hoặc thậm chí là một số lẻ), thì việc điền lại vào ô sẽ không thể thực hiện được.
 
@@ -133,9 +133,9 @@ Cho cả ba đường tròn bán kính $r$ có tâm $O_1, O_2$ và $O_3$ cắt n
 
 ⟦folio 47⟧
 
-Cơm. 8.
+Hình 8.
 
-Cơm. 9.
+Hình 9.
 
 $$AO_1 = AO_2 = AO_3 = r$$, do đó bán kính đường tròn ngoại tiếp tam giác $B_1B_2B_3$ cũng bằng $r$, đây là điều cần chứng minh.
 
@@ -179,7 +179,7 @@ $$ma_1 = F - F_{TP}$$
 
 ⟦folio 48⟧
 
-Cơm. 10.
+Hình 10.
 
 Vòng không chỉ di chuyển theo chiều ngang mà còn quay quanh tâm. Gia tốc của chuyển động quay được truyền cho nó bởi cùng các lực $F$ và $F_{TP}$, nhưng trong trường hợp này chúng tác động “hòa hợp”, quay vòng theo một hướng. Gia tốc chuyển động quay của vòng trong hệ tọa độ liên kết với tâm của nó*) được ký hiệu là $a_2$. Sau đó chúng ta có thể viết rằng
 
@@ -271,7 +271,7 @@ Khi khí dốc dọc theo isobar 4-1 phát huy tác dụng
 
 ⟦folio 50⟧
 
-Cơm. 13.
+Hình 13.
 
 đã xảy ra phía trên chất khí. Nó bằng nhau
 $$A_2 = P_1 (V_2 - V_1) = R (T_4 - T_1).$$
@@ -333,7 +333,7 @@ $$I = \frac{E_1 - E_2}{R_1 + R_2}.$$
 
 Hiệu điện thế giữa các điểm $A'$ và $A''$ rõ ràng bằng hiệu $E_1$ và pa-
 
-Cơm. 16.
+Hình 16.
 
 chênh lệch điện áp ở mạch II (hoặc chênh lệch giữa $E_2$ và độ sụt điện áp ở mạch I; trong cả hai trường hợp, chúng ta sẽ nhận được kết quả như nhau)
 
@@ -397,7 +397,7 @@ Hãy sạc tụ điện 1 một lần nữa đến hiệu điện thế E và n�
 
 Bằng cách lặp lại thao tác này nhiều lần, bạn có thể sạc tụ điện 2 đến hiệu điện thế tùy ý gần bằng 2E. Bây giờ nối nguồn và cả hai tụ nối tiếp, chúng ta có được sự khác biệt
 
-Cơm. 17.
+Hình 17.
 52
 
 thế năng càng gần 4E càng tốt.

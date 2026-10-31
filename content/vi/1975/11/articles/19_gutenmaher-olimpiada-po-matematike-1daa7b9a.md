@@ -54,7 +54,7 @@ Hình 1 thể hiện 32 vectơ thỏa mãn điều kiện a) - b): đây là b�
 Lớp 9, bài toán Số 1.
 Trong hình sáu hàm lồi $A_1A_2A_3A_4$ $A_5A_6$ trung điểm của các đường chéo $A_6A_2$, $A_1A_3$, $A_2A_4$, $A_3A_5$, $A_4A_6$, $A_5A_1$ được ký hiệu bằng các ký hiệu tương ứng là $B_1$, $B_2$, $B_3$, $B_4$, $B_5$, $B_6$. Hãy chứng minh rằng nếu hình sáu hàm $B_1B_2B_3B_4$ $B_5B_6$ lồi thì diện tích của nó nhỏ hơn diện tích $A_1A_2A_3A_4$ $A_5A_6$ 4 lần.
 
-Cơm. 1.
+Hình 1.
 
 ⟦folio 61⟧
 
@@ -74,7 +74,7 @@ và $c (c - a) (c - b) \geq 0$.
 
 Cộng hai bất đẳng thức này ta được bất đẳng thức mong muốn.
 
-Cơm. 2.
+Hình 2.
 
 Tại Olympic Toán học Quốc tế lần thứ sáu, bài toán sau đây đã được đề xuất:
 

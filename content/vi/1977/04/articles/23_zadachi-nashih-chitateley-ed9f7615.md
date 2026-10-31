@@ -101,7 +101,7 @@ $$\begin{cases} \cos(\pi \sqrt{x-4}) = 1, \\ \cos(\pi \sqrt{x}) = 1, \\ \cos(\pi
 3. $F = f/3 = 8$ xem
 4. $K = \frac{F^2}{(d-F)^2 - (l/2)^2}$.
 
-Cơm. 1.
+Hình 1.
 
 ⟦folio 61⟧
 
@@ -158,7 +158,7 @@ Nếu bạn đứng gần đường ray, bạn có thể thấy đường ray h�
 "Đắp đất nung"
 (xem «Kvant» số 1, trang 59)
 
-Cơm. 4.
+Hình 4.
 
 Đến các nhiệm vụ
 (xem «Kvant» số 2, trang 9)
@@ -244,11 +244,11 @@ Câu hỏi kiểm soát
 3. adach và
 1. Nhược điểm được xây dựng trên các trường có số lẻ, cả chiều ngang và chiều dọc.
 
-Cơm. 5.
+Hình 5.
 
 ⟦folio 63⟧
 
-Cơm. 6.
+Hình 6.
 
 2. Điểm trừ xuất hiện trên các trường trong đó chênh lệch giữa số ngang và số dọc chia hết cho 3.
 3. Trên sân sẽ bị trừ nếu tổng các số ngang và dọc khi chia cho 3 dư 1.
@@ -321,6 +321,6 @@ và phân số $$\frac{1}{n + 1}$$ là tối giản.
 "Khung domino"
 (xem “Quant” số 3, trang 11)
 
-Cơm. 7.
+Hình 7.
 
 64

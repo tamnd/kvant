@@ -38,7 +38,7 @@ Năm 2018, chúng ta đã nói về các khối đa diện bán đều, tức l�
 
 DOI: https://doi.org/10.4213/kvant20190304
 
-Cơm. 2
+Hình 2
 
 ⟦column⟧
 
@@ -46,7 +46,7 @@ tny ngay cả với người Hy Lạp cổ đại. Không giống như các kh�
 
 ⟦figure⟧
 
-Cơm. 1
+Hình 1
 
 hình dạng của khối tứ diện bằng cách xoay “nắp” (Hình 1). “Nắp” này được gọi là mái vòm có n dốc, trong đó n là số cạnh của mặt trên của nó. Và điều gì sẽ xảy ra nếu bạn xoay “nắp” của một khối đa diện bán đều đặn khác - khối mười hai mặt hình thoi (Hình 2)? Kết quả hơi đáng thất vọng: khối đa diện thu được thậm chí còn xa “độ chính xác” hơn so với khối đa diện bán thông thường. Anh ta vẫn có bốn đa giác đều hội tụ ở mỗi đỉnh - một hình tam giác, hai hình vuông và một hình ngũ giác, nhưng theo một thứ tự khác. Đối với một số đỉnh, thứ tự vẫn là 3,4,5,4, trong khi đối với các đỉnh khác, thứ tự trở thành 3,4,4,5. Tuy nhiên, tại sao không xét khối đa diện nửa đều theo nghĩa yếu: yêu cầu điều đó đối với mỗi câu
 
@@ -62,12 +62,12 @@ Tìm kiếm của chúng tôi mang lại 6 khối đa diện đều mới, trong
 
 ⟦figure⟧
 
-Cơm. 3
+Hình 3
 
-Cơm. 5
+Hình 5
 
 ⟦figure⟧
 
-Cơm. 4
+Hình 4
 
-Cơm. 6
+Hình 6

@@ -68,7 +68,7 @@ Vấn đề. Cậu bé sống trên bờ Vịnh OR MOR (Hình 3). Bờ vịnh t�
 
 ⟦folio 33⟧
 
-Cơm. 6.
+Hình 6.
 
 lịch sử từ đó đến điểm $A$ bằng $|AE| = v \cdot \Delta t_1$ ($|AE| = |AE'|$). Có thể dễ dàng xác minh rằng theo thời gian $\Delta t$ mặt trước sẽ là một đường cong $M'K'KM$, trong đó $M'K'$ và $KM$ là tiếp tuyến của hình bán nguyệt bán kính $u \cdot \Delta t$. tập trung tại $A$. Các tiếp tuyến này tạo một góc $\alpha$ với bờ sao cho $\sin \alpha = u/v$. (Trong tương lai, mặt trước sẽ là một đường cong $M'K'KM$ và một hình tròn có bán kính $AM$ ($AM'$) với tâm tại điểm $A$, nằm trên bờ. Nhưng chúng tôi chỉ quan tâm đến phần mặt trước nằm trong vùng “sông”. Tại bất kỳ thời điểm nào khác, mặt trước sẽ giống với mặt trước $M'K'KM$ mà chúng tôi đã xây dựng.
 

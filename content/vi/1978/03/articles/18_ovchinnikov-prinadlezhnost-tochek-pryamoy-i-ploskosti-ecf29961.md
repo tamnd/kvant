@@ -62,9 +62,9 @@ $$\overrightarrow{OC} = \alpha \overrightarrow{OA} + (1 - \alpha) \overrightarro
 
 đối với một số α điều cần thiết và đủ điều kiện là các điểm A, B và C ($A \neq B$) thuộc cùng một đường thẳng. Đồng thời $\overrightarrow{BC} = \alpha \overrightarrow{BA}$.
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
 ⟦folio 49⟧
 
@@ -80,9 +80,9 @@ Giải hệ thu được, ta tìm được $\alpha_1 = \frac{10}{11}, \alpha_2 =
 $$\overrightarrow{CO} = \alpha_1 \overrightarrow{CM} = \frac{10}{11} \overrightarrow{CM},$$
 Ở đâu
 
-Cơm. 3.
+Hình 3.
 
-Cơm. 4.
+Hình 4.
 
 ⟦folio 50⟧
 
@@ -104,7 +104,7 @@ Chứng minh 1) Tính đầy đủ. Giả sử (2) được thỏa mãn. Chúng 
 
 *) bài toán này được đề xuất bởi I. Sharygin.
 
-Cơm. 5.
+Hình 5.
 
 ⟦folio 52⟧
 
@@ -122,7 +122,7 @@ $$\begin{cases} \alpha = S_{BDC}: S_{ABC}, \\ \beta = S_{ADC}: S_{ABC}, \\ 1 - \
 
 ⟦folio 53⟧
 
-Cơm. 8.
+Hình 8.
 
 Chứng minh (Hình 8). Như sau từ chứng minh Định lý 2 $\vec{CD} = \alpha \vec{CA} + \beta \vec{CB}$. Hãy đặt $\vec{CK} = \alpha \vec{CA}$, $\vec{CL} = \beta \vec{CB}$. Từ Hình 8 có thể thấy rằng $S_{ADC} : S_{ABC} = \beta$ và $S_{BDC} : S_{ABC} = \alpha$. Từ những đẳng thức này dễ dàng suy ra $S_{ADB} : S_{ABC} = 1 - \alpha - \beta$.
 

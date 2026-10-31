@@ -144,7 +144,7 @@ Một cerrok có trên bảng $n \times n$ một số lượng nhất định c�
 a) $n=4, 6$ $n=10, b)$ $n=10, b)$ $n=10$
 b) số tự nhiên bất kỳ
 
-Cơm. 1.
+Hình 1.
 
 Chúng ta hãy liên kết mỗi chiều ngang với một điểm màu đỏ và chiều dọc với một điểm màu xanh lam (đỉnh của biểu đồ) và đối với mỗi ô của tập hợp A (trong Hình 2, chúng được biểu thị bằng dấu hoa thị), chúng ta kết nối với một cạnh một cặp điểm tương ứng với chiều dọc và chiều ngang của nó (Hình 2). Ta được đồ thị có 2n đỉnh và 2n-2 cạnh. Một biểu đồ như vậy không thể được kết nối (xem «Kvant», 1981, Số 6, trang 10) - nó nhất thiết phải chia thành hai hoặc nhiều phần riêng biệt. Các cạnh của một trong các phần được kết nối có thể được coi là tập B (xem Hình 2), phần còn lại - là tập C. (Tất nhiên, việc giải cấu trúc này có thể được phát biểu mà không cần sử dụng thuật ngữ của lý thuyết đồ thị.) Vì vậy, trong trường hợp (1) đáp số: $2n-1$.
 
@@ -298,7 +298,7 @@ và góc tạo $\vec{v}_{\text{гр}}$ với đường chân trời là $\beta =
 
 ⟦folio 32⟧
 
-Cơm. 1. Hình 2.
+Hình 1. Hình 2.
 
 Do đó, vật nặng chuyển động dọc theo đường thẳng tạo một góc $\beta = (\pi - \alpha)/2$ với đường chân trời; gia tốc của vật so với mặt đất là
 
@@ -391,10 +391,10 @@ Như vậy,
 $$U_{\max}^2 = \frac{8kd^3}{27\varepsilon_0 S}, \quad |U_{\max}| = \frac{2d}{3} \sqrt{\frac{2kd}{3\varepsilon_0 S}}.$$
 D. Pavlov
 
-Cơm. 1.
+Hình 1.
 F697. Giữa hai môi trường có chiết suất $n_0 > 1$ và $n_1 = 1$ có ​​một lớp không đồng nhất có chiều cao $h = H \left(1 - \frac{1}{n_0^2}\right)$, trong đó $H = \text{const}$, bên trong có chiết suất thay đổi theo độ cao theo định luật $n = n_0 \sqrt{1 - \frac{y}{H}}$ (xem hình). Một chùm ánh sáng đi vào lớp không đồng nhất từ ​​môi trường có chiết suất $n_0$. Ở giá trị nào của vận tốc a thì chùm tia sẽ quay trở lại môi trường chiết quang hơn? Tại giá trị nào của el $a_0$ khoảng cách giữa điểm vào và điểm ra của chùm tia là lớn nhất?
 
-Cơm. 2.
+Hình 2.
 F697. Giữa hai môi trường có chiết suất $n_0 > 1$ và $n_1 = 1$ có ​​một lớp không đồng nhất có chiều cao $h = H \left(1 - \frac{1}{n_0^2}\right)$, trong đó $H = \text{const}$, bên trong có chiết suất thay đổi theo độ cao theo định luật $n = n_0 \sqrt{1 - \frac{y}{H}}$ (xem hình). Một chùm ánh sáng đi vào lớp không đồng nhất từ ​​môi trường có chiết suất $n_0$. Tại giá trị nào của el $a_0$ khoảng cách giữa điểm vào và điểm ra của chùm tia là lớn nhất?
 
 Từ định luật khúc xạ ánh sáng, suy ra rằng khi chiết suất của môi trường thay đổi, góc φ của độ lệch của chùm tia so với những thay đổi bình thường (đối với giao diện giữa các điều kiện của các phần của môi trường có các giá trị khác nhau $n$), và

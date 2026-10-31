@@ -51,7 +51,7 @@ $$\ln b = \begin{cases} \int \frac{1}{x} dx, \text{ если } b > 1, \\ 0, \tex
 
 ⟦folio 31⟧
 
-Cơm. 1.
+Hình 1.
 Nếu có thể, nó được viết theo cách có thể hiểu được các sự kiện cơ bản liên quan đến tính chất của logarit và số mũ, chỉ sử dụng những ý tưởng ngây thơ về số thực, tính liên tục, giới hạn, v.v. mà không đi sâu vào sự tinh tế liên quan đến các định nghĩa chặt chẽ của các khái niệm này.
 
 2. Quảng trường
@@ -63,7 +63,7 @@ Một trong những khái niệm cần được xác định chặt chẽ là kh
 2) diện tích của các hàm bằng nhau (đồng dạng) là bằng nhau;
 3) nếu một hàm được cắt thành hai phần, với mỗi phần được xác định diện tích thì tổng các diện tích này bằng diện tích của tất cả các hàm;
 
-Cơm. 2.
+Hình 2.
 4) diện tích của hình chữ nhật ở các cạnh $a$ và $b$ bằng $ab$.
 
 Chúng tôi sẽ không mô tả loại hàm mà hàm $S$ như vậy có thể được xác định, nhưng chúng tôi sẽ chứng minh rằng theo điều kiện 1–4 thì diện tích $S$ của “hình thang cong” $a \leq x \leq b$; $0 \leq y \leq \frac{1}{x}$ (Hình 2) được xác định duy nhất.

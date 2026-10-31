@@ -70,7 +70,7 @@ Trên thực tế, phát biểu sau đây đúng trong mọi trường hợp: đ
 
 ⟦folio 54⟧
 
-Cơm. 3. Sự biến thiên thế năng tương tác của vật 1 và vật 2 được xác định bởi công của các lực $F_{12}$ và $F_{21}$ tác dụng lên các chuyển vị $\Delta s_1$ và $\Delta s_2$.
+Hình 3. Sự biến thiên thế năng tương tác của vật 1 và vật 2 được xác định bởi công của các lực $F_{12}$ và $F_{21}$ tác dụng lên các chuyển vị $\Delta s_1$ và $\Delta s_2$.
 
 $$A = (F_{12}\Delta s_1) + (F_{21}\Delta s_2) = -[\Pi(r_2) - \Pi(r_1)] = -\Delta \Pi,$$
 
@@ -118,11 +118,11 @@ Không thể chọn Ptak cấp 0 sao cho năng lượng tối thiểu bằng 0. 
 
 ⟦folio 55⟧
 
-Cơm. 4. Sự phụ thuộc thế năng của lò xo P vào biến dạng Δl.
+Hình 4. Sự phụ thuộc thế năng của lò xo P vào biến dạng Δl.
 
-Cơm. 5. Sự phụ thuộc thế năng P của sự tương tác của một hòn đá với Trái đất vào độ cao h của hòn đá so với bề mặt Trái đất.
+Hình 5. Sự phụ thuộc thế năng P của sự tương tác của một hòn đá với Trái đất vào độ cao h của hòn đá so với bề mặt Trái đất.
 
-Cơm. 6. Sự phụ thuộc của thế năng P của tương tác giữa hai khối lượng chính xác vào khoảng cách r giữa chúng.
+Hình 6. Sự phụ thuộc của thế năng P của tương tác giữa hai khối lượng chính xác vào khoảng cách r giữa chúng.
 
 điểm bằng nhau
 
@@ -201,8 +201,8 @@ Công của một lực tác dụng lên một vật (biểu thức (1)) đượ
 
 ⟦folio 57⟧
 
-Cơm. 7. Khi một hòn đá rơi xuống Trái đất, lực hấp dẫn tác dụng lên Trái đất không tác dụng.
-Cơm. 8. Công của lực $F_1$ tác dụng lên hòn đá bằng bàn tay có độ lớn bằng nhau và ngược dấu với công của lực $F_2$ tác dụng lên hòn đá ở bàn tay.
+Hình 7. Khi một hòn đá rơi xuống Trái đất, lực hấp dẫn tác dụng lên Trái đất không tác dụng.
+Hình 8. Công của lực $F_1$ tác dụng lên hòn đá bằng bàn tay có độ lớn bằng nhau và ngược dấu với công của lực $F_2$ tác dụng lên hòn đá ở bàn tay.
 
 chúng ta không thể làm được điều này nếu chúng ta không biết chuyển động của các vật thể khác.
 
@@ -236,7 +236,7 @@ $$\Delta K_1 = (F_{12} \Delta s_1) + (F_{13} \Delta s_1),$$
 $$\Delta K_2 = (F_{21} \Delta s_2) + (F_{23} \Delta s_2),$$
 $$\Delta K_3 = (F_{31} \Delta s_3) + (F_{32} \Delta s_3).$$ (16)
 
-Cơm. 9. Tương tác giữa hệ thống I và II, tách biệt với thế giới bên ngoài.
+Hình 9. Tương tác giữa hệ thống I và II, tách biệt với thế giới bên ngoài.
 
 ⟦folio 58⟧
 
@@ -294,7 +294,7 @@ Chúng ta hãy tìm sự thay đổi động năng trong một hệ gồm một 
 
 Trong thời gian $t$, động vật ăn thịt sẽ di chuyển một khoảng cách $s$ so với mặt đất và trượt
 
-Cơm. 10. Công âm trên đường $s$ công dương lớn trên đường $s-l$.
+Hình 10. Công âm trên đường $s$ công dương lớn trên đường $s-l$.
 
 ⟦folio 59⟧
 

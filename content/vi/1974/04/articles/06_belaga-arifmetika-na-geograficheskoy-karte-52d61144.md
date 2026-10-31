@@ -55,9 +55,9 @@ Chúng ta sẽ gọi bản đồ trên một hình cầu là bất kỳ sự ph�
 Rõ ràng là mỗi đoạn này cùng nhau tạo nên ranh giới của bản đồ, là một phần biên giới của hai quốc gia (hoặc toàn bộ biên giới này); Chúng tôi cũng sẽ gọi các nước láng giềng. Nhân tiện, chúng ta hãy lưu ý rằng việc chứng minh chặt chẽ cho phát biểu bắt đầu ở trên bằng từ “rõ ràng là…” và được gọi là định lý Jordan là cực kỳ cồng kềnh, bất chấp vẻ ngoài rất rõ ràng của nó.
 Thật thuận tiện khi vẽ bản đồ hình cầu dưới dạng một “lục địa” được chia thành các quốc gia, được bao quanh bởi một “đại dương” - một trong các quốc gia (trong Hình 1).
 
-Cơm. 1. Bản đồ (các nước từ A đến N), được tô màu chính xác bằng bốn màu.
+Hình 1. Bản đồ (các nước từ A đến N), được tô màu chính xác bằng bốn màu.
 
-Cơm. 2. Bản đồ trong đó số phần không liên kết của đồ thị ranh giới (số lượng “đảo” trong “đại dương” A) bằng trem (Krp = 3).
+Hình 2. Bản đồ trong đó số phần không liên kết của đồ thị ranh giới (số lượng “đảo” trong “đại dương” A) bằng trem (Krp = 3).
 
 ke 1 nước A; Có thể có một số “lục địa”, như trong Hình 2). Nước M và E trong Hình 1 không phải là nước láng giềng dù có chung một điểm biên giới; quốc gia D và E thậm chí còn có hai phần riêng biệt trên một đường biên giới chung.
 
@@ -82,7 +82,7 @@ Như có thể thấy từ định nghĩa và tính chất 1) - 3) của bản �
 
 Màu của bản đồ có thể được thay thế bằng màu của các đỉnh của đồ thị vốn và đường của bản đồ này; tính đúng đắn của việc tô màu có cùng ý nghĩa nếu các điều kiện là hai đỉnh của bất kỳ đồ thị nào
 
-Cơm. 3. Bản đồ đồ thị ranh giới.
+Hình 3. Bản đồ đồ thị ranh giới.
 
 các vòng tròn, bản đồ mà chúng tạo thành có thể được tô màu chính xác bằng hai màu.
 
@@ -90,13 +90,13 @@ b) Tạo điều kiện cần và đủ để bản đồ được tô đúng ha
 
 Kết quả của nhiều năm làm việc ngắn ngủi, người ta đã chứng minh được rằng bất kỳ bản đồ nào chứa không quá 41 quốc gia đều có 4 màu chính xác. Từ đó, rõ ràng là nếu có một ví dụ bác bỏ giả thuyết của chúng tôi thì rất khó để xây dựng nó. Đồng thời, tồn tại 5 màu thông thường cho bất kỳ bản đồ hình cầu nào. Thử
 
-Cơm. 4. Các nước từ A đến N, thủ đô và đường sá của các nước đó.
+Hình 4. Các nước từ A đến N, thủ đô và đường sá của các nước đó.
 
-Cơm. 5. Đồ thị thủ đô và bản đồ đường đi và 4 màu thông thường.
+Hình 5. Đồ thị thủ đô và bản đồ đường đi và 4 màu thông thường.
 
 ⟦folio 26⟧
 
-Cơm. 6. Các đường màu đỏ mô tả các cạnh; đồ thị thủ đô, đường của bản đồ Hình 1 đủ để đạt tới đồ thị tam giác; Các cạnh này có thể được xây dựng theo một cách khác (ví dụ: ME cùng với NI, v.v.).
+Hình 6. Các đường màu đỏ mô tả các cạnh; đồ thị thủ đô, đường của bản đồ Hình 1 đủ để đạt tới đồ thị tam giác; Các cạnh này có thể được xây dựng theo một cách khác (ví dụ: ME cùng với NI, v.v.).
 
 fa được coi là liền kề khi chúng được nối với nhau bằng một cạnh.
 
@@ -122,7 +122,7 @@ Chúng ta hãy xem xét một tứ diện neoctor, trong đó bốn đỉnh củ
 
 ⟦folio 27⟧
 
-Cơm. 8. Quá trình chồng bề mặt của một khối bát diện lên trên bề mặt của một khối tứ diện.
+Hình 8. Quá trình chồng bề mặt của một khối bát diện lên trên bề mặt của một khối tứ diện.
 
 được sơn bốn màu giống nhau. Do đó, mỗi đỉnh của nó tương ứng với một đỉnh của tứ diện và bất kỳ hai đỉnh lân cận nào cũng khác nhau. Và điều này có nghĩa là mỗi cạnh và mỗi mặt của đồ thị tương ứng với một cạnh nhất định và một mặt nhất định của tứ diện: một cạnh của đồ thị là một cạnh của tứ diện, các đỉnh của chúng được sơn hai màu giống như các đỉnh của cạnh đồ thị, và các mặt của đồ thị là một mặt được xác định tương tự của tứ diện. Chúng ta có thể hình dung sự tương ứng này như sự chồng chất của bề mặt tam giác được tô màu của một hình cầu lên bề mặt tứ diện của một khối tứ diện, các đỉnh của chúng tượng trưng cho bốn màu tô. Sự chồng chéo này có thể được tìm thấy với bất kỳ đỉnh tam giác nào được tô màu bằng một số màu bằng cách kết hợp nó với một đỉnh tứ diện cùng màu. Di chuyển đến đỉnh liền kề của tam giác và kết hợp nó với đỉnh màu tương ứng của tứ diện (luôn khác với đỉnh đầu tiên!), chúng ta đồng thời thu được sự thẳng hàng của cạnh của tam giác với cạnh của tứ diện. Theo cách tương tự, chúng ta kết hợp mặt tam giác với mặt tứ diện, sau đó, từng bước thêm lớp phủ mong muốn.
 

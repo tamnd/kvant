@@ -43,7 +43,7 @@ $$F(n) \leq n-2.$$
 
 Nếu, trong một sự sắp xếp gồm $F(n)$ quân hậu, trong đó mỗi ô được chiếm, không có quân hậu nào ở cạnh bàn cờ, thì các ô cạnh $4(n-1)$ tạo thành bàn cờ phải là quân hậu từ bên trong khung này. Vì mỗi quân hậu sẽ ở cùng một hướng nên sẽ có chính xác 8 ô của khung này. Ngay cả khi tất cả các quân hậu đều là những hình vuông khác nhau của khung, thì vẫn cần phải có $$\frac{4(n-1)}{8} = \frac{n-1}{2}$$
 
-Cơm. 1.
+Hình 1.
 
 Ba quân hậu là đủ (Hình 1), hai quân hậu là không đủ.
 
@@ -64,9 +64,9 @@ $$F(n) \geq \frac{1}{2}n - \frac{1}{2}. \quad (2)$$
 
 Từ (2) $F(11) \geq 5$. Trong đoạn 1, chúng tôi đã chỉ ra rằng $F(11) \leq 5$. Vì vậy, $F(11) = 5$. $F(10) = 5$ thu được tương tự. Điều đáng tò mò là không thể đạt được đẳng thức $F(9) = 5$ theo cách này. Hãy tự mình chứng minh điều đó!
 
-Cơm. 3.
+Hình 3.
 
-Cơm. 4. $k = 3, l = 1$.
+Hình 4. $k = 3, l = 1$.
 
 Bây giờ chúng ta hãy cải thiện giới hạn trên (1).
 
@@ -115,7 +115,7 @@ Vì số đường chéo trống trong một quãng tám là $\varphi(n)$ nên c
 
 ⟦folio 26⟧
 
-Cơm. 9. $k = 3, l = 2$.
+Hình 9. $k = 3, l = 2$.
 
 Vì thế,
 $$F(n) \leqslant W_0 + 2\varphi(n).$$

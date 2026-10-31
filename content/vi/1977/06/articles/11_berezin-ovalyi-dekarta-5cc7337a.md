@@ -43,11 +43,11 @@ $$m' |MF_1| \pm n' |MF_2| = a',$$
 $$m'' |MF_2| \pm n'' |MF_3| = a''$$
 là cùng một tập hợp điểm. Tiêu điểm $F_3$ được đặt tại giao điểm của đường $F_1F_2$ với đường tròn đi qua các điểm $F_2$. $M_1$ và $M_2$ (Hình 2). Bằng chứng và nghiên cứu về sự thật thú vị này được cung cấp dưới dạng sau:
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
-Cơm. 3.
+Hình 3.
 
 Hãy thư giãn nhé người đọc (sự giống nhau của các hình tam giác có thể giúp bạn điều này).
 

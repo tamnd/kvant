@@ -155,9 +155,9 @@ $$v = v_0 \sqrt{m / (M + m)}.$$
 
 Phân tích lỗi. Khi một viên đạn bắn trúng một chiếc hộp, một phần động năng ban đầu của nó được chuyển thành Tello; do đó $(M + m) v^2 / 2 < m v_0^2 / 2$. Để tìm vận tốc của hộp, ta cần áp dụng định luật bảo toàn động lượng
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
 ⟦folio 55⟧
 

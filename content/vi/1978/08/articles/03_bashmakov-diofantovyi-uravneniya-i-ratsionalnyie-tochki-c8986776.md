@@ -70,7 +70,7 @@ Câu hỏi nảy sinh: có những đường cong vô tỷ không? Làm thế n�
 
 ⟦folio 5⟧
 
-Cơm. 6.
+Hình 6.
 
 các đường cong tự nhiên ở bất kỳ mức độ nào, nhưng tất cả các đường cong có mức độ lớn hơn hai đều có một đặc thù - điểm tự giao nhau, điểm tự chạm, v.v. (Hình 5).
 
@@ -106,7 +106,7 @@ Cho rằng $y_3 = kx_3 + b$, $b = \frac{y_2 x_1 - y_1 x_2}{x_1 - x_2}$, ta thấ
 
 ⟦folio 6⟧
 
-Cơm. 7.
+Hình 7.
 
 Bình luận. Khoảng cách phía trên phương trình bậc ba có thể có gốc trùng khớp. Điều này có nghĩa là đường thẳng và đường cong của chúng ta chạm vào nhau.
 

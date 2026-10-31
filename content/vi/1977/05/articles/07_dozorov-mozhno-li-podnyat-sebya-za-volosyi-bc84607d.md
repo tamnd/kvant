@@ -57,7 +57,7 @@ Và biết các giá trị $\vec{u}$ và $\vec{F}$, không khó để tìm ra s�
 
 Vì vậy, sự hiện diện của lực ma sát của thuyền trên mặt nước dẫn đến các đặc điểm sau:
 
-**Cơm. 1.**
+**Hình 1.**
 
 1) vận tốc của thuyền sau khi hòn đá chạm vào tấm chắn sẽ hướng theo hướng ném;
 2) lực càng lớn thì tốc độ “giật ngược” của thuyền giết chết càng nhanh, $\vec{v}_{\pi t}$ càng nhỏ, do đó tốc độ cuối cùng của toàn bộ hệ thống càng lớn.

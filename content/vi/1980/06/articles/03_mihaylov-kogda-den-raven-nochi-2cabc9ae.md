@@ -39,7 +39,7 @@ Trước hết, chúng tôi lưu ý rằng thời điểm mặt trời mọc (ho
 
 Vẫn còn những tác động đáng kể khác trong việc tăng độ dài của ngày. Đây là khúc xạ thiên văn. Hãy để chúng tôi giải thích bản chất của nó.
 
-Cơm. 1.
+Hình 1.
 
 ⟦folio 3⟧
 
@@ -61,7 +61,7 @@ Chúng ta hãy quay trở lại câu hỏi về độ dài của ngày và đêm
 
 Ở Mátxcơva, có vĩ độ gần 56°, đường xích đạo trời nghiêng so với đường chân trời một góc 90°—56°=34°. Ở đây Mặt trời mọc lúc bình minh và lặn xiên lúc hoàng hôn nên độ cao của nó thay đổi chậm. Trong một đường thẳng gần 56°, đường xích đạo thiên cầu nghiêng với đường chân trời một góc 90°—56°=34°.
 
-Cơm. 4.
+Hình 4.
 
 Điều này tương ứng với thời gian là 6,08 phút. Từ bảng cho thấy thời gian mặt trời mọc và mặt trời lặn bao gồm những thời điểm xảy ra vào mùa xuân và muộn hơn vào mùa thu. Nói cách khác, sự bình đẳng giữa ngày và đêm thực sự xảy ra vào các ngày 18-19/3 và 25-26/9 (chứ không phải vào ngày 21/3 và 23/9).
 

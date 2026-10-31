@@ -56,7 +56,7 @@ Chỉ hơn nửa thế kỷ sau, Newton, trong cuốn sách tuyệt vời “Cá
 
 **) Newton đã giải được nghịch đảo bài toán: lực hấp dẫn của hành tinh đối với Mặt trời phải phụ thuộc như thế nào vào khoảng cách giữa hành tinh và Mặt trời để hành tinh chuyển động theo hình elip? Ông đã chỉ ra rằng nó phải tỷ lệ nghịch với bình phương khoảng cách.
 
-Cơm. 1. $r_1 - r = 2c, r_1 + r = 2a$.
+Hình 1. $r_1 - r = 2c, r_1 + r = 2a$.
 
 ⟦folio 15⟧
 
@@ -88,7 +88,7 @@ $$\left(\frac{v}{v_0}\right)^2 r + r = \frac{2\alpha}{v_0^2}.$$
 
 *) Chúng ta hãy nhớ rằng thế năng được coi là bằng 0 đối với $r$ vô cùng lớn. Do đó, trong trường hợp lực hấp dẫn, thế năng hóa ra là âm. Ở giá trị tuyệt đối, thế năng lớn hơn động năng - hành tinh không thể “tách ra” khỏi Mặt trời.
 
-Cơm. 2.
+Hình 2.
 
 Chúng tôi nhận được một công thức đơn giản
 $$\sqrt{ru^2 + r} = 2a. \quad (*)$$
@@ -166,7 +166,7 @@ $$\frac{\alpha}{r} = \frac{v^2 + v_0^2}{2}.$$
 
 Chúng ta hãy thay biểu thức này thành (8), chia cả hai vế cho $v_0^2/2$, chuyển sang biến mới $u = v/v_0$ và biểu thị
 
-Cơm. 4.
+Hình 4.
 
 có nghĩa là vectơ $\vec{2A}/v_0^2$ đến $\vec{2c}$:
 
@@ -228,11 +228,11 @@ Ghi chú cuối cùng
 
 Trên thực tế, chúng ta đã thu được tất cả các công thức mô tả chuyển động của hành tinh dọc theo một hình elip. Tất cả, ngoại trừ một - chúng ta không biết vị trí của hành tinh trên quỹ đạo thay đổi như thế nào theo thời gian. Đây là một bài toán phức tạp hơn và chúng tôi sẽ không nhớ nó. Ít nhất là bây giờ.
 
-Cơm. 6.
+Hình 6.
 
 ⟦folio 19⟧
 
-Cơm. 7.
+Hình 7.
 
 Vì vậy, chúng ta sẽ giả định rằng
 $$\Delta r = v \Delta t,$$

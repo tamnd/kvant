@@ -51,7 +51,7 @@ Nếu $1 \leqslant \gamma < 2$, tức là $\gamma=1+\gamma'$, trong đó $0 \leq
 
 Quét. Thuộc tính $2^\circ$ mở rộng đến bất kỳ số hạng hữu hạn nào: $[x_1+x_2+\ldots+x_n] \geqslant [x_1]+[x_2]+\ldots+[x_n]$.
 
-Cơm. 1. Hình 2.
+Hình 1. Hình 2.
 
 ⟦folio 44⟧
 
@@ -72,8 +72,8 @@ $$\left[\frac{10t + 39}{40}\right] = t.$$
 Từ định nghĩa của phần nguyên, suy ra $0 \leqslant \frac{10t + 39}{40} - t < 1$. Giải các bất đẳng thức này, ta tìm được
 $$-\frac{1}{30} < t \leqslant 1, 3.$$
 
-Cơm. 3.
-Cơm. 4.
+Hình 3.
+Hình 4.
 
 ⟦folio 46⟧
 
@@ -143,7 +143,7 @@ Hãy vẽ đường chéo $OB$ của hình chữ nhật của chúng ta; phươn
 
 Mặt khác, sử dụng phương pháp mô tả ở nhiệm vụ 6, chúng ta thấy rằng số điểm này bằng tổng $$\left[ \frac{q \cdot 1}{p} \right] + \left[ \frac{q \cdot (p-1)}{p} \right],$$ và do đó, đẳng thức phải được chứng minh.
 
-Cơm. 6.
+Hình 6.
 
 Bài tập
 

@@ -39,7 +39,7 @@ Chúng ta hãy đồng ý gọi các phương án khác nhau để lắp ráp m�
 
 ⟦folio 23⟧
 
-Cơm. 1. Trạng thái không. Khối góc ẩn có số 9, khối góc ẩn có số 10, 11, 12. Trên các cạnh ẩn, các mũi tên thẳng hàng với các mũi tên trên các cạnh đối xứng với chúng so với tâm của khối.
+Hình 1. Trạng thái không. Khối góc ẩn có số 9, khối góc ẩn có số 10, 11, 12. Trên các cạnh ẩn, các mũi tên thẳng hàng với các mũi tên trên các cạnh đối xứng với chúng so với tâm của khối.
 
 nói cách khác, bạn có thể nhận được bao nhiêu màu sắc khác nhau của khối ma thuật bằng cách xoay các mặt của nó? Số lượng trạng thái không kết nối theo cặp tối đa là bao nhiêu? Trước hết chúng ta hãy tìm hiểu nó
 
@@ -75,7 +75,7 @@ B. Khi bất kỳ mặt thẳng đứng nào được quay một góc $\pm 90^\c
 
 ⟦folio 24⟧
 
-Cơm. 2. Sau khi xoay bên phải 90° theo chiều kim đồng hồ. Đây $\tau(1)=2$, $\tau(4)=1$, $\tau(2)=3$, $\alpha(1)=\alpha(3)=120^\circ$, $\alpha(2)=\alpha(4)=240^\circ$, $\beta(1)=\beta(2)=\beta(3)=\beta(4)=180^\circ$.
+Hình 2. Sau khi xoay bên phải 90° theo chiều kim đồng hồ. Đây $\tau(1)=2$, $\tau(4)=1$, $\tau(2)=3$, $\alpha(1)=\alpha(3)=120^\circ$, $\alpha(2)=\alpha(4)=240^\circ$, $\beta(1)=\beta(2)=\beta(3)=\beta(4)=180^\circ$.
 
 góc quay của hai cốc góc còn lại được cộng thêm 240°.
 

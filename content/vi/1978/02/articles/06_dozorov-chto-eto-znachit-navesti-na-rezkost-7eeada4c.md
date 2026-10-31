@@ -37,7 +37,7 @@ Nói cách khác, khi khoảng cách $d$ từ vật đến người quan sát (c
 
 ⟦folio 16⟧
 
-Cơm. 3. Ảnh hưởng của độ rộng chùm sáng đến độ sâu trường ảnh của ảnh. Chùm tia càng hẹp thì ảnh của các điểm A và C trên màn càng kém sắc nét.
+Hình 3. Ảnh hưởng của độ rộng chùm sáng đến độ sâu trường ảnh của ảnh. Chùm tia càng hẹp thì ảnh của các điểm A và C trên màn càng kém sắc nét.
 
 nia. Hơn nữa, nếu bạn lấy mắt ra khỏi thị kính thì không phải tất cả các tia phát ra từ thị kính đều đi vào mắt; các điểm thực tế được quan sát (có thể nhìn thấy hình ảnh sắc nét) nếu góc nhìn α, tại đó có thể nhìn thấy vòng tròn, có thứ tự $1' \approx 3 \cdot 10^{-4}$ rad. Rõ ràng chúng ta sẽ nhìn hình ảnh từ khoảng cách có tầm nhìn tốt hơn $l_0 = 25$ cm. Khi đó đường kính cho phép của hình tròn
 

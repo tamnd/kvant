@@ -23,7 +23,7 @@ translation_quality: draft
 
 ⟦folio 21⟧
 
-Cơm. 4. Kinh nghiệm của Đê. Hình vẽ sơ đồ cho thấy vị trí của mũi tên, ghi lại độ xoắn của sợi có giá trị xoắn.
+Hình 4. Kinh nghiệm của Đê. Hình vẽ sơ đồ cho thấy vị trí của mũi tên, ghi lại độ xoắn của sợi có giá trị xoắn.
 
 Sv vào các thời điểm khác nhau trong ngày nếu $m_r \neq m_i$. Dưới đây là biểu đồ giả định về số đọc mũi tên trong một thí nghiệm như vậy.
 

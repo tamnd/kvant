@@ -34,7 +34,7 @@ Trong lưu ý này, chúng tôi sẽ chứng minh tính tổng quát hóa cực 
 
 Định lý tô màu. Hãy tô mỗi ô của một tờ giấy ca rô vô hạn bằng một trong N màu. Sau đó, đối với bất kỳ tập hợp ô $a_1, \dots, a_l$ nào cũng có một tập hợp các ô có màu giống hệt nhau $b_1, \dots, b_l$, tương tự như tập hợp ô đầu tiên theo nghĩa (xem Hình 1) $B_i B_j = d A_i A_j$ với tất cả i, j=1, ..., l, $e d e A_1, \dots, A_l, B_1, \dots, B_l$ lần lượt là tâm của các ô $a_1, \dots, a_l, b_1, \dots, b_l$ và d là một số tự nhiên nào đó; nói cách khác, các hình được tạo bởi tâm của các ô $b_1, \dots, b_l$ và $a_1, \dots, a_l$ tương ứng với d.
 
-Cơm. 1.
+Hình 1.
 
 Hơn nữa, một tập hợp ô như vậy có thể được tìm thấy trong bất kỳ hình vuông $m \times m$ nào, trong đó m là một số đủ lớn tùy thuộc vào số lượng màu N và tập hợp $a_1, \dots, a_l$ đã cho.
 
@@ -54,9 +54,9 @@ tô màu hình vuông bằng $N$ màu, trong đó tất cả các ô của tất
 
 Chuyển sang phần chứng minh định lý tô màu, các điều kiện cần xem xét không phải là các tập ô $a_1, \dots, a_l$ tùy ý mà là các lưới “chuẩn” - chẳng hạn như trong Hình 3. Rõ ràng là điều này sẽ không xây dựng tính tổng quát, bởi vì bất kỳ tập hợp ô nào cũng có thể được hoàn thành thành một “tiêu chuẩn” và nếu câu lệnh
 
-Cơm. 2.
+Hình 2.
 
-Cơm. 3.
+Hình 3.
 
 Nếu định lý được chứng minh cho tập bổ sung - “tiêu chuẩn” - thì nó cũng sẽ hoàn chỉnh cho tập ban đầu. Tập hợp các ô tương tự như tập hợp “chuẩn”, gọi là hệ số tương tự - hệ số chuỗi; chuỗi hình vuông sẽ được gọi là tập hợp các ô vuông tắc nghẽn bao gồm các ô của bảng vô hạn của chúng ta, các ô phía dưới bên trái tạo thành một chuỗi (rõ ràng, bất kỳ ô tương ứng nào của các ô vuông như vậy cũng tạo thành một chuỗi). Cuối cùng, hai hình vuông có màu đồng nhất được gọi là có màu giống hệt nhau, nghĩa là màu sắc của chúng trùng nhau trong quá trình chuyển song song kết hợp các hình vuông.
 
@@ -70,7 +70,7 @@ Rõ ràng, đối với $l=1$, chúng ta có thể lấy $m(N, 1)=1$ và đối 
 
 ⟦folio 37⟧
 
-Cơm. 4.
+Hình 4.
 
 $b_{2,2}, \dots, b_{l+1,l+1}$ (chuỗi có khung) và $b_{1,l+1}, b_{2,l+1}, \dots, b_{l+1,l+1}$ (“sê-ri màu hồng”) tất cả các ô, có lẽ ngoại trừ ô cuối cùng, đều được liên kết đơn và các ô ngoài cùng là hai trong số các ô $b_{1,1}, b_{1,l+1}$ và $b_{l+1,l+1}$ (chúng được đặt trong hình *)). Do đó, nếu trong số ba ô này, chúng ta tìm thấy hai ô được liên kết đơn, chúng ta sẽ nhận được một chuỗi liên kết đơn có độ dài $l+1$. Điều này chắc chắn sẽ đúng, theo nguyên lý Dirichlet, trong trường hợp có hai màu. Trong trường hợp có $N$ màu, cần phải xem xét không phải thiết kế hai giai đoạn mà là thiết kế $N$ (trong các hình vuông lớn, chọn một loạt các hình vuông nhỏ hơn, trong các hình vuông đó - thậm chí là các hình vuông nhỏ hơn, v.v. $N$ lần cho đến khi bạn nhận được các ô). Trong trường hợp này, kích thước của hình vuông ban đầu sẽ cho phép ở mỗi “giai đoạn” xác định chuỗi hình vuông $l+1$ tiếp theo, trong đó có những hình vuông được liên kết đơn - đây là lúc mà giả định quy nạp sẽ hữu ích.
 

@@ -82,9 +82,9 @@ Phương trình (5) có hình thức khác với phương trình (1) bởi sự 
 
 Các phép biến đổi được đưa ra từ phương trình (1) sang phương trình (4) cũng được áp dụng cho phương trình (5). Bạn chỉ cần nhớ rằng vị trí cân bằng của ma trận trong hệ quy chiếu phi quán tính được cho bởi hướng của trục dọc mới; Góc lệch của ma trận so với vị trí cân bằng cũng được đo từ phương thẳng đứng này; tốc độ của ma trận (trọng lượng) là tốc độ của nó so với hệ thống báo cáo chuyển động với gia tốc $\vec{b}$.
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2
+Hình 2
 
 Khi sử dụng quan hệ năng lượng (định luật bảo toàn cơ năng) trong hệ thống báo cáo phi quán tính, chúng ta có thể sử dụng ký hiệu công thức
 $$m\vec{g}'h' + \frac{m(v')^2}{2} = \text{const},$$

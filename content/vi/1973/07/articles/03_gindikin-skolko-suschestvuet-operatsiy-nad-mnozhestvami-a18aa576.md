@@ -139,7 +139,7 @@ Nếu cho hai bộ $A$ và $B$ thì tập phổ quát $I$ được chia thành b
 
 *) Tất nhiên, $A \bigcirc B$, như $A$ và $B$ phải có trong tập phổ quát $I$.
 
-Cơm. 11.
+Hình 11.
 
 trong $A \bigcirc B$, hoặc nó không được bao gồm. Nói cách khác, $A \bigcirc B$ là sự kết hợp của một số lát cắt nhất định. Việc chia hàng hóa thành các phần được minh họa bằng sơ đồ mà chúng tôi đã vẽ (trong Hình 11, các khu vực tương ứng được tô màu khác nhau); đây là lý do tại sao sơ ​​đồ lại hữu ích trong hoạt động học tập.
 
@@ -162,7 +162,7 @@ Lưu ý rằng các hoạt động bao gồm việc hình thành các tiểu th�
 
 *) Để biểu thị các thao tác mà chúng ta gọi một cách phù phiếm là “phân vùng thành các lát”, có một thuật ngữ hoàn toàn nghiêm túc “dạng phân biệt hoàn hảo” và các lát cắt được gọi là “các liên kết cơ bản chính quy hoàn chỉnh”.
 
-Cơm. 12.
+Hình 12.
 
 Hãy để chúng tôi chỉ ra một cách thể hiện khác của các hoạt động thông qua ba điều này. Hãy gọi phép cộng vào lát cắt là phần phụ. Theo (3), trọng số bổ sung tương ứng với các phép toán $\overline{A} \cup \overline{B}$, $A \cup B$, $A \cup \overline{B}$, $\overline{A} \cup B$. (Điều này cũng dễ dàng xác minh bằng bản vẽ). Bằng cách chỉ định thao tác $A \bigcirc B$, ngoài việc liệt kê những phân đoạn nào được bao gồm trong $A \bigcirc B$, có thể chỉ ra những phân đoạn nào không được bao gồm trong đó và khi đó $A \bigcirc B$ sẽ là giao điểm của các trọng số tương ứng với các phân đoạn này. Ví dụ: $\overline{A} \cap B = (A \cup B) \cap (\overline{A} \cup \overline{B}) \cap (\overline{A} \cup B)$ hãy tự mình xem các ví dụ khác. Việc biểu diễn các phép toán dưới dạng giao điểm của các trọng số *) có thể thu được từ việc biểu diễn dưới dạng kết hợp các lát cắt bằng cách sử dụng luật đối ngẫu (hãy làm đi!).
 
@@ -187,7 +187,7 @@ Từ định nghĩa của thao tác, mỗi thao tác $f(A_1, \dots, A_n)$ là m�
 
 ⟦folio 9⟧
 
-Cơm. 13.
+Hình 13.
 
 đặt σ, chúng ta đặt nó tương ứng với 1 hoặc 0, tùy thuộc vào việc phần này có được đưa vào $f(A_1, \dots, A_n)$ hay không. Kết quả của thao tác là một tập hợp có độ dài gấp đôi $2^n$ (tức là có bao nhiêu lát), nghĩa là có $2^{(2n)}$ các thao tác khác nhau trên các tập hợp. Vì trong mọi trường hợp $f(A_1, \dots, A_n)$ là hợp của các phân đoạn, nên chúng ta đồng thời thu được rằng mỗi phép toán được thể hiện thông qua hợp, giao và phần bù. Chúng ta có một ý tưởng khác nếu xem xét hai và ba thao tác trên các bộ phận, chúng có dạng $A_1^{\sigma_1} \cup \dots \cup A_n^{\sigma_n}$. Bất kỳ hoạt động nào cũng có thể được biểu diễn dưới dạng giao điểm của trọng lượng bổ sung.
 

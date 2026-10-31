@@ -25,7 +25,7 @@ translation_quality: draft
 
 ⟦folio 6⟧
 
-Cơm. 4.
+Hình 4.
 
 Chúng ta hãy gọi một lớp là một tập hợp các ô có tâm nằm trong mặt phẳng song song với một trong các mặt của đế và một đường thẳng - một tập hợp các ô có tâm nằm trên một đường thẳng song song với một cạnh; một lớp bao gồm $n^2$ ô, một dòng - gồm $n$ ô. Hãy vẽ hình chiếu của bến tàu lên một trong các mặt, chẳng hạn như trên mặt phẳng $Ox_1x_2$ (mặt trước) và trên mỗi trường của bến tàu kết quả $n \times n$, chúng ta viết số lớp mà quân xe xuất hiện, chiếu lên trường này. Khi đó, việc sắp xếp các quân xe như trong Hình 3 sẽ được viết như trong Hình 4 (chúng ta sẽ không gặp phải tình huống có nhiều hơn một quân xe trên một dòng, vì vậy dockki $n \times n$ sẽ viết không quá một số trên mỗi ô vuông). Lưu ý rằng trong Hình 4, đối với mỗi trường trống trong hàng và cột tại giao điểm của nó, tất cả các số sẽ xuất hiện: 1, 2 và 3. Điều này có nghĩa là mọi trường dock $3 \times 3 \times 3$ không theo hướng $x_3$ sẽ theo hướng $x_1$ hoặc theo hướng $x_2$.
 

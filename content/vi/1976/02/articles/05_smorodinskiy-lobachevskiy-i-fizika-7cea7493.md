@@ -47,7 +47,7 @@ Với việc phát hiện ra thuyết tương đối đặc biệt, người ta 
 Giả sử rằng chúng ta đang quan sát từ ngọn hải đăng một con tàu đang di chuyển ra xa với tốc độ không đổi $\bm{u}$. Tên lửa được bắn thẳng đứng lên trên từ tàu với các tốc độ khác nhau $\bm{v}_i$ so với tàu ($i=1$, 2, 3, $\ldots$). Làm thế nào để tìm vận tốc của tên lửa so với ngọn hải đăng (tức là vận tốc của tên lửa $\bm{v}_i'$ trong hệ quy chiếu gắn liền với ngọn hải đăng)?
 
 ⟦figure⟧
-Cơm. 1
+Hình 1
 
 Theo quan điểm của cơ học Newton
 $$
@@ -71,7 +71,7 @@ Chúng ta hãy một lần nữa lưu ý đến thực tế là chúng ta sử d
 Hình ảnh hình học nào có thể được so sánh với không gian vận tốc trong cơ học tương đối tính? Hóa ra không gian Lobachevsky có thể đóng vai trò là hình ảnh hình học này. Nhưng sự chuyển đổi từ các đại lượng vật lý sang hình ảnh hình học của chúng trong trường hợp tương đối tính không đơn giản như trong trường hợp cổ điển. Bằng cách mô tả vận tốc trên mặt phẳng Euclide (trên một tờ giấy), chúng ta vẽ các đoạn có độ dài (theo thang tuyến tính nhất định) bằng vận tốc. Để hình dung cách chuyển từ vận tốc sang các đoạn trên mặt phẳng Lobachevsky, chúng ta hãy quay lại bài toán về ngọn hải đăng, con tàu và tên lửa.
 
 ⟦figure⟧
-Cơm. 2
+Hình 2
 
 Vì vậy, đối với tốc độ $\bm{v}'$ của tên lửa trong hệ quy chiếu gắn với ngọn hải đăng, thuyết tương đối đặc biệt cho đáp số (**). Hóa ra trên mặt phẳng Lobachevsky, các vận tốc $\bm{u}$, $\bm{v}$, $\bm{v}'$ tương ứng với một tam giác vuông, độ dài các cạnh của chúng bằng giá trị của một hàm phi tuyến nào đó $f$ của các vận tốc $u$, $v$, $v'$. Chúng ta sẽ giả sử rằng tam giác $BAD$ (Hình 2) được vẽ trên mặt phẳng Lobachevsky,
 $$
@@ -80,7 +80,7 @@ $$
 Việc tìm tốc độ $\bm{v}'$ được rút gọn thành việc tìm, theo các quy tắc hình học Lobachevsky, cạnh $d$ của tam giác $BAD$ sử dụng hai cạnh đã biết $a$ và $b$ và góc vuông giữa chúng. Góc $\beta$ của tam giác $BAD$ là góc mà vận tốc $\bm{v}'$ tạo với đường chân trời. Quy tắc xây dựng cạnh $d$ là quy tắc tam giác mà chúng ta đã quen thuộc. Tuy nhiên, các công thức cho phép chúng ta xác định độ dài cạnh $d$ trong hình học Lobachevsky khác với trong hình học Euclid (ví dụ: trong bài toán mà chúng ta đang xem xét, định lý Pythagore không áp dụng được). Nhưng trong trường hợp khi tốc độ $u$ và $v$ nhỏ hơn nhiều so với $c$, thì những công thức này thực tế trùng khớp với các công thức của hình học Euclide. Chúng ta có thể nói rằng STR có cùng mối quan hệ với cơ học cổ điển của Newton cũng như hình học của Lobachevsky có mối quan hệ tương tự với hình học Euclid.
 
 ⟦figure⟧
-Cơm. 3
+Hình 3
 
 Trong bài toán mà chúng ta đã xem xét, chúng ta có thể đưa ra một biểu diễn “vật lý” của khái niệm hình học về sự song song. Tốc độ của tên lửa $\bm{v}_i$ càng lớn thì góc $\alpha$ mà tốc độ $\bm{v}_i'$ tạo ra với đường chân trời càng lớn. Trong cơ học cổ điển, tốc độ $\bm{v}_i$ có thể cao như mong muốn. Tại $v_i\to\infty$ $\alpha\to90^\circ$. Nghĩa là, trong trường hợp giới hạn này, hướng $\bm{v}_i$ và $\bm{v}_i'$ gần như song song. Do đó, các đường thẳng song song của hình học Euclide theo quan điểm vật lý là vectơ vận tốc của một tên lửa cực nhanh, được xem xét từ các hệ quy chiếu khác nhau, chuyển động tương đối với nhau đều với tốc độ hữu hạn (Hình 3, *a*).
 
@@ -106,10 +106,10 @@ Sống trong không gian ba chiều, ở một mức độ nào đó chúng ta �
 Mặc dù Lobachevsky không tìm thấy những sai lệch so với các định luật Euclide, nhưng chính ý tưởng cho rằng thế giới chúng ta đang sống có thể không phải là Euclide đã thực sự mang tính cách mạng.
 
 ⟦figure⟧
-Cơm. 4. Trong mặt phẳng đi qua Mặt trời, tổng các góc của một tam giác lớn có các đỉnh là các ngôi sao lớn hơn $180^\circ$.
+Hình 4. Trong mặt phẳng đi qua Mặt trời, tổng các góc của một tam giác lớn có các đỉnh là các ngôi sao lớn hơn $180^\circ$.
 
 ⟦figure⟧
-Cơm. 5. Thí nghiệm này được thực hiện trong thời gian nhật thực toàn phần. Theo tính toán, ngôi sao lúc đó nằm ngoài rìa Mặt trời. Tuy nhiên, do sự bẻ cong của các tia sáng phát ra từ ngôi sao trong trường hấp dẫn của Mặt trời, ngôi sao được quan sát ở một khoảng cách nào đó so với đĩa mặt trời (khi nhật thực, ánh sáng mặt trời bị Mặt trăng “chặn” và các ngôi sao nằm gần Mặt trời trở nên nhìn thấy được). Theo thuyết tương đối rộng, độ dịch chuyển góc của các ngôi sao trực tiếp ở rìa Mặt trời phải là $\approx1''\mathord,75$ ($1''$ là góc mà hộp diêm có thể nhìn thấy được từ khoảng cách $\sim10$ km). Các thí nghiệm được thực hiện trong thời gian nhật thực cho giá trị lớn hơn một chút. Tuy nhiên, những kết quả này chắc chắn xác nhận độ cong của không gian.
+Hình 5. Thí nghiệm này được thực hiện trong thời gian nhật thực toàn phần. Theo tính toán, ngôi sao lúc đó nằm ngoài rìa Mặt trời. Tuy nhiên, do sự bẻ cong của các tia sáng phát ra từ ngôi sao trong trường hấp dẫn của Mặt trời, ngôi sao được quan sát ở một khoảng cách nào đó so với đĩa mặt trời (khi nhật thực, ánh sáng mặt trời bị Mặt trăng “chặn” và các ngôi sao nằm gần Mặt trời trở nên nhìn thấy được). Theo thuyết tương đối rộng, độ dịch chuyển góc của các ngôi sao trực tiếp ở rìa Mặt trời phải là $\approx1''\mathord,75$ ($1''$ là góc mà hộp diêm có thể nhìn thấy được từ khoảng cách $\sim10$ km). Các thí nghiệm được thực hiện trong thời gian nhật thực cho giá trị lớn hơn một chút. Tuy nhiên, những kết quả này chắc chắn xác nhận độ cong của không gian.
 
 Hơn 150 năm đã trôi qua kể từ khi Lobachevsky tạo ra hình học của mình, khoa học đã đạt được một bước tiến lớn trong việc tìm hiểu thế giới thực. Và giai đoạn quan trọng nhất trên con đường này là việc Einstein tạo ra thuyết tương đối rộng. Cô đã thiết lập mối liên hệ giữa lực hấp dẫn phổ quát và các tính chất của không gian. Kết luận chính rút ra từ Thuyết tương đối rộng là không gian chúng ta đang sống bị cong. Ví dụ, ở gần các vật nặng, gần Mặt trời, cơ học trở thành phi Newton và hình học của không gian trở thành phi Euclid (xem Hình 4).
 

@@ -50,8 +50,8 @@ Phát biểu 1. Cho có k máy chiếu nằm bên trong một góc có độ l�
 
 Để chứng minh phát biểu này bằng chỉ thị trên k, ta có thể sử dụng bổ đề số học sau đây. Nếu $s_1, s_2, \dots, s_k$ là số nguyên không âm và $s_1 \geqslant 1$,
 
-Cơm. 1.
-Cơm. 2.
+Hình 1.
+Hình 2.
 
 ⟦folio 29⟧
 
@@ -87,7 +87,7 @@ Phát biểu 2. Nếu một mặt phẳng được cho $n$ điểm $A_1, A_2, \d
 
 Xét các vectơ $\vec{e}_i = \frac{1}{h_i} \overrightarrow{OH_i}$. Rõ ràng là $|\vec{e}_i| = \frac{1}{h_i}$ (Hình 5).
 
-Cơm. 6.
+Hình 6.
 
 máy chiếu $a_p$ chiếu sáng điểm $N$, nhưng máy chiếu $a_q$ không chiếu sáng.
 

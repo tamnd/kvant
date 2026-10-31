@@ -79,7 +79,7 @@ x_{34} = \frac{11}{8} \pi + 2\pi t.
 
 Từ ($3_1$), ($3_2$), ($3_3$) rõ ràng, theo quan điểm trên, chỉ cần kiểm tra các số 0, $\pi$, $\frac{\pi}{4}$, $\frac{5}{4}\pi$, $-\frac{\pi}{8}$, $\frac{3}{8}\pi$, $\frac{7}{8}\pi$, $\frac{11}{8}\pi$. Bạn chỉ cần thay thế 8 số này thành (1). Tuy nhiên, sẽ đơn giản hơn khi nói rằng phương trình (1) tương đương với một “hệ hỗn hợp”.
 
-Cơm. 1.
+Hình 1.
 
 ⟦folio 35⟧
 

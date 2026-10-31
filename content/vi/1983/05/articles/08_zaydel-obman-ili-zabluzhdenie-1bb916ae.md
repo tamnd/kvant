@@ -40,7 +40,7 @@ kinh nghiệm của Buffon
 
 *) Xem thêm về điều này trong ghi chú của A. Vilenkin “Số “pi” và lý thuyết xác suất” (Kvant, 1977, số 5).
 
-Cơm. 1.
+Hình 1.
 
 ⟦folio 25⟧
 

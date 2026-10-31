@@ -51,7 +51,7 @@ Những tiếng đại bác của cuộc cách mạng vang rền trên đường
 
 - Bây giờ hãy xác định lực tối đa có thể tác dụng.
 
-Cơm. 1.
+Hình 1.
 
 ⟦folio 18⟧
 
@@ -108,10 +108,10 @@ $$\begin{cases} R_1 \leqslant 1, \\ R_2 \leqslant 1, \\ \frac{2}{3}R_1 - \frac{1
 ⟦folio 19⟧
 
 ⟦figure⟧
-Cơm. 2.
+Hình 2.
 
 ⟦figure⟧
-Cơm. 3.
+Hình 3.
 
 - Không còn lại nhiều đâu. Hãy mô tả những bất bình đẳng này bằng đồ họa. Hãy để chúng tôi giới thiệu các trục tọa độ $R_1$ và $R_2$ (Hình 2).
 
@@ -185,7 +185,7 @@ Nhưng còn sự biện minh vật lý của bài toán Fourier thì sao? Ông c
 
 Thiết bị này bao gồm hai nguồn EMF, ba điện trở và ba thiết bị, được gọi là
 
-Cơm. 4.
+Hình 4.
 
 đại diện cho bí mật nghề nghiệp của nhà phát minh. Chúng tôi chỉ phát hiện ra rằng thiết bị số 1 yêu cầu dòng điện ít nhất là 2 A, thiết bị số 2 - ít nhất là 1 A và trên thiết bị số 3, điện áp phải ít nhất là 1,5 V. Mọi thứ đã sẵn sàng để bắt đầu thử nghiệm khi phát hiện ra khó khăn cần thiết: Viti và Kolya chỉ có 5 pin với mỗi pin có 1 suất điện động. Nỗ lực bật chúng một cách khoa học đã không dẫn đến thành công: các thiết bị không bị hỏng. Các nhà phát minh đã đi vào ngõ cụt, nhưng sau đó Kolya nhớ đến quy hoạch tuyến tính và bắt đầu suy luận.
 
@@ -205,7 +205,7 @@ $$2I_2 + I_3 = E_2.$$
 
 ⟦folio 22⟧
 
-Cơm. 5.
+Hình 5.
 
 Cuối cùng, tính đặc thù của các thiết bị bí mật đòi hỏi dòng điện và điện áp trong chúng phải chịu những hạn chế.
 $I_1 \geq 2, I_2 \geq 1, |U_3| \geq 1, 5$. (11)
@@ -219,7 +219,7 @@ $$\begin{cases} 3E_1 + E_2 \geq 10, \\ E_1 + 2E_2 \geq 5, \\ |-2E_1 + E_2| \geq 
 $E_2 - 2E_1 \geq 7, 5; E_2 - 2E_1 \leq -7, 5,$
 - Kolya gửi. — Bây giờ, hãy vẽ các đường thẳng tương ứng với tất cả các bất đẳng thức-ràng buộc (xem Hình 5) và thu được hai vùng chấp nhận được $\Omega_1$ và $\Omega_2$ ($E_1$ và $E_2$ dương)
 
-Cơm. 6.
+Hình 6.
 
 và đường thẳng tương ứng với hàm mục tiêu. Có thể thấy từ hình vẽ rằng lời giải tối ưu đạt được tại điểm $A$, tại đó $E_1 = 4, E_2 = 0, 5$.
 

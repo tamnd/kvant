@@ -56,7 +56,7 @@ Trước khi bạn bắt đầu nghiên cứu thực nghiệm về mắt, hãy t
 
 Là mẫu thấu kính của mắt, bạn có thể sử dụng chùm tia kép có độ phóng đại 2-3,5 (được gọi là chùm tia đồng hồ và vẫn có bán ở các cửa hàng ảnh). Ở khoảng cách 10-20 cm so với chùm tia, đặt đèn pin nối với pin. Nhìn vào chùm tia từ phía bóng đèn, bạn sẽ thấy hai hình ảnh của nó.
 
-Cơm. 2.
+Hình 2.
 
 Zhenya: thẳng và đảo ngược (Hình 2). Cố gắng di chuyển bóng đèn vuông góc với trục quang của chùm tia - bạn sẽ nhận thấy hình ảnh bị dịch chuyển theo các hướng khác nhau.
 

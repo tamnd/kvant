@@ -100,7 +100,7 @@ Rút ra một hệ quả từ điều này
 
 ⟦folio 7⟧
 
-Cơm. 12, A.
+Hình 12, A.
 
 Bài 4. Chứng minh $(A_3)$ nếu
 a) $\lambda$ là số nguyên dương,

@@ -41,7 +41,7 @@ A. Kolotov
 
 M558. Có $k > 1$ khu vực màu đen trong vòng tròn, bất kỳ khu vực nào trong số đó nhỏ hơn $180^\circ / (k^2 - k + 1)$. Chứng minh rằng đường tròn có thể quay quanh tâm O sao cho tất cả các cung đen đều đi vào phần trắng của đường tròn.
 
-Cơm. 1.
+Hình 1.
 
 Đặt hai vòng tròn được gấp lại với nhau, trên một trong số đó có r cung màu đen với các góc ở tâm $a_1, a_2, \dots, a_r$, mặt khác - s các cung màu xanh lam có các góc $\beta_1, \beta_2, \dots, \beta_s$ (Hình 1). Chúng ta hãy cố gắng tìm những điều kiện phù hợp để có thể xoay vòng tròn có các phần màu xanh lam theo một góc sao cho $\varphi$ ($0 < \varphi < 2\pi$) sao cho không có phần màu xanh nào giao nhau với các phần màu đen.
 
@@ -49,7 +49,7 @@ Thật thuận tiện khi đánh dấu các góc quay $\varphi$ trên một vòn
 
 *) Tổng $\sum_{i,j} \text{ произвольных } i = 1, 2, \dots, r, j = 1, 2, \dots, s$.
 
-Cơm. 2.
+Hình 2.
 
 ⟦folio 29⟧
 
@@ -103,11 +103,11 @@ a) đáy hộp là hình vuông $4 \times 4$, và có lỗ như Hình 1.
 
 b) đáy hộp là hình vuông $n \times n$ ($n$ là số lẻ) và lỗ nằm ở giữa (Hình 2).
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
-Cơm. 3.
+Hình 3.
 
 14 ở dạng hình bát giác lồi, bao gồm các hình vuông và hình tam giác trên (được đánh dấu ở Hình 3), luôn bao phủ hình vuông $A_1$. Vì vậy, nó là một ngoại lệ.
 
@@ -123,15 +123,15 @@ Hình 5 hiển thị hình $M$, luôn bao phủ hình vuông trung tâm $A$. Di�
 
 ⟦folio 31⟧
 
-Cơm. 5.
+Hình 5.
 
 M561. Hai hình tam giác $A_0B_0C_0$ và $A_1B_1C_1$, có diện tích là $S_0$ và $S_1$, được sắp xếp sao cho các tia $A_0B_0$ và $A_1B_1$, $B_0C_0$ và $B_1C_1$, $C_0A_0$ và $C_1A_1$ song song nhưng ngược chiều nhau. Tìm diện tích tam giác có các đỉnh tại trung điểm của các đoạn $A_0A_1$, $B_0B_1$, $C_0C_1$.
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
-Cơm. 3.
+Hình 3.
 
 bằng $n$, nghĩa là mức tối thiểu có thể. Vì vậy, đây là rào cản mong muốn.
 
@@ -181,7 +181,7 @@ $4^\circ$. Việc dữ liệu bài toán là hình tam giác là không đáng k
 
 ⟦folio 32⟧
 
-Cơm. 4.
+Hình 4.
 
 F568. Khi mục tiêu phía trước bị bắn phá bằng proton có năng lượng ít nhất 1,88 MeV, phản ứng hạt nhân có thể xảy ra
 

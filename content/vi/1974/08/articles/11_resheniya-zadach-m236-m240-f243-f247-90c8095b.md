@@ -74,7 +74,7 @@ B. D. Ginzburg
 
 ⟦folio 48⟧
 
-Cơm. 6.
+Hình 6.
 
 **M238.** Chứng minh rằng tổng $C_n^1 + C_n^3 \cdot 1973 + C_n^5 \cdot (1973)^2 + C_n^7 \cdot (1973)^3 + \dots$ chia hết cho $2^{n-1}$. (Ở đây $C_n^k$ là các hệ số nhân của số nhân)
 
@@ -130,7 +130,7 @@ Chúng ta đặt $\alpha_n = x_n \cdot \frac{\pi}{2}$ ($x_n$ là tỷ lệ giữ
 
 $$ x \rightarrow f(x) = |2x - 1|, x \in [0, 1], $$
 
-cơm. 7.
+hình 7.
 
 ⟦folio 51⟧
 
@@ -146,7 +146,7 @@ Hình ảnh sắc nét do thấu kính của một mắt không hoàn hảo tạ
 
 Tương tự, việc tăng độ sâu trường ảnh (nghĩa là diện tích
 
-Cơm. 10.
+Hình 10.
 
 trở nên sắc nét trên phim ảnh) bằng cách giảm đường kính lỗ của vật thể. Thật vậy, trống rỗng, chúng ta muốn tạo thành đồng thời hai điểm nằm cách nhau một khoảng (Hình 10). Nếu thiết bị được hình thành trên một vật thể nào đó giữa hai điểm này (thấu kính cho hình ảnh sắc nét của vật thể này trên phim ảnh), thì hình ảnh của điểm trên phim ảnh sẽ bị mờ, nhưng đường kính của từng điểm - được mô tả bằng các chấm - phụ thuộc vào đường kính lỗ của vật thể, giảm khi đường kính này giảm.
 
@@ -198,7 +198,7 @@ $$\frac{3}{2} n_1RT_1 + \frac{3}{2} n_2RT_2 = \frac{3}{2} n_1RT + \frac{3}{2} n_
 
 ⟦folio 53⟧
 
-Cơm. 13.
+Hình 13.
 
 Từ đây
 

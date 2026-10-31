@@ -58,7 +58,7 @@ Xổ số và cờ vua có điểm gì chung? Nhưng nhìn này. Hãy viết t�
 
 Chúng ta sẽ nói rằng số $ab$ sẽ là số $cd$ nếu $ab$ được điểm khi $cd$ được lấy ra khỏi túi, tức là nếu $a=c$ hoặc $b=d$. Hãy nhìn vào bảng của chúng tôi. Mỗi cái có những con số đứng cạnh nó trên cùng một đường ngang hoặc dọc. Chúng ta đã biết rằng nếu 10 số khác nhau (ví dụ: 00, 11, 22, ..., 99) thì bất kỳ số nào từ 0 đến 99 sẽ trùng với một trong 10 số đó hoặc là hai số được chọn. trong obonkh
 
-Cơm. 1.
+Hình 1.
 
 trường hợp bộ của chúng tôi nhận được 500 điểm. Và bạn không thể ghi ít hơn mười con số và 250 điểm. Vậy là chúng ta đã trả lời được câu hỏi về xổ số. Chỉ còn lại một điều mơ hồ.
 
@@ -80,7 +80,7 @@ Bây giờ chúng ta giả sử rằng chúng ta muốn đặt các quân xe kh�
 
 ⟦folio 47⟧
 
-Cơm. 2.
+Hình 2.
 
 Bí quyết của bài toán này là khi đế quay, chúng ta không thể phân biệt cách sắp xếp này với cách sắp xếp đối xứng tâm với nó.
 

@@ -44,11 +44,11 @@ Thí nghiệm thú vị này có thể được thực hiện với bóng đèn 
 
 ⟦folio 57⟧
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
-Cơm. 3.
+Hình 3.
 
 Mô tả hiện tượng này thường có thể được quan sát vào mùa đông gần các biển báo của thành phố. Khi có tuyết trên mặt đất, bóng có thể nhìn thấy rõ trên đó, màu sắc của nó bổ sung cho màu của biển hiệu được chiếu sáng.
 

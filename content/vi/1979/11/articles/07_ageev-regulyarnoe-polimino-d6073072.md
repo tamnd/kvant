@@ -44,9 +44,9 @@ Cho một đường dẫn Γ nối các nút A và B của lưới. Tất nhiên
 
 *) “Polymino” (M., “Mir”, 1975)
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
 ⟦folio 23⟧
 

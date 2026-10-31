@@ -53,7 +53,7 @@ Sau khi giải được vài chục hệ có dạng (1), tôi bắt đầu nghi 
 
 Định lý 1. Số lượng hệ lời giải khác 0 (1) là vô hạn hoặc không vượt quá một nửa diện tích đa giác Newton của nó.
 
-Cơm. 1. $N(T_n) = 4$, $B(T_n) = 4$, $V(T_n) = n/6$.
+Hình 1. $N(T_n) = 4$, $B(T_n) = 4$, $V(T_n) = n/6$.
 
 ⟦folio 14⟧
 
@@ -93,7 +93,7 @@ $V(F) = pqr$.
 
 ⟦folio 15⟧
 
-Cơm. 4 $N(F) = (p+1)(q+1)$, $N(2F) = (2p+1)(2q+1)$, $S(F) = pq$.
+Hình 4 $N(F) = (p+1)(q+1)$, $N(2F) = (2p+1)(2q+1)$, $S(F) = pq$.
 
 cho các tam giác vuông (có hai chân song song với các trục).
 
@@ -125,7 +125,7 @@ Chúng ta sẽ xét Φ đã xử lý trong tập số thực - các hàm trên t
 
 ⟦folio 16⟧
 
-Cơm. 6. "Dọc". $T(x, y) = (x+y; y);$
+Hình 6. "Dọc". $T(x, y) = (x+y; y);$
 $T(1; 3) = (4; 3)$.
 Mỗi đường thẳng nằm ngang $\{(x; y)|y=c\}$, dưới tác dụng của “độ lệch” $T$, bị dịch chuyển dọc theo chính nó một khoảng $c$. Mỗi đường thẳng đứng “cong vênh” giống như trục $y$ biến thành một đường chấm.
 
@@ -228,11 +228,11 @@ Bây giờ đặt $F$ là một đa giác nguyên tùy ý. Chia $F$ theo đườ
 
 Thật vậy, chúng ta hãy chia hình chữ nhật $F$ như vậy theo đường chéo $I$ thành các hình tam giác $F_1$ và $F_2$. Sau đó $h(F) = h(F_1) + h(F_2)$. Giả sử $h(F) = 0$, thì $h(F_1) + h(F_2) = 0$. Hãy để chúng tôi chứng minh rằng $h(F_1) = h(F_2)$. Đặt $F'_1$ là một tam giác đối xứng với $F_1$ so với một trong các trục tọa độ và $F'_2$ là một tam giác đối xứng với $F_2$ so với trục tọa độ còn lại. Vì $h$ là bất biến đối với tính đối xứng nên chúng ta thu được $h(F_1) = h(F_1')$, $h(F_2) = h(F_2')$. Nhưng $F'_1$ có thể được dịch sang $F'_2$ pa-
 
-Cơm. 9.
+Hình 9.
 
 ⟦folio 20⟧
 
-Cơm. 10.
+Hình 10.
 
 do đó, chuyển giao rappel, do đó $h(F_1') = h(F_2')$. Do đó $h(F_1) = h(F_2)$ và do đó, $h(F_1) = h(F_2) = 0$.
 

@@ -49,7 +49,7 @@ Nhược điểm cơ bản của chất siêu dẫn là cần phải làm lạnh
 
 *) Xem bài viết của L. G. Aslamazov “Máy tính trên chất siêu dẫn” trong «Kvant» Số 11 năm 1983.
 
-Cơm. 1.
+Hình 1.
 
 ⟦folio 19⟧
 

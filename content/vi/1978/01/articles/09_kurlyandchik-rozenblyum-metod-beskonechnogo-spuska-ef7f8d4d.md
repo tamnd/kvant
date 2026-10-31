@@ -35,7 +35,7 @@ Bằng chứng đầu tiên
 
 Giả sử rằng số $\sqrt{2}$ là số vô tỉ. Về mặt hình học, điều này có nghĩa là đường chéo của một hình vuông có độ dài $c$ tương xứng với cạnh có độ dài $a$, tức là sẽ tìm một đoạn có độ dài $d$ và các số nguyên $m$ và $n$ sao cho $c=dm$, $a=dn$. Chúng ta hãy đánh dấu $m-1$ điểm trên đường chéo $AC$ và $n-1$ điểm ở cạnh $DC$, chia các đoạn này thành các đoạn có chiều dài $d$. Chúng ta hãy đặt đoạn $AK: |AK|=|AD|;$ tại $|AC|$ và đoạn $DE: |DE|=|KC|$ tại $|DC|$ sang một bên. Điểm $K$ và $E$ sẽ rơi vào điểm bù trừ
 
-Cơm. 1.
+Hình 1.
 
 Chứng minh hai
 

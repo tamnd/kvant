@@ -132,9 +132,9 @@ S. Berkolaiko
 
 b) cho bốn số và c) bốn vectơ trong không gian ba chiều, tổng của chúng bằng 0.
 
-**Cơm. 5.**
+**Hình 5.**
 
-**Cơm. 6.**
+**Hình 6.**
 
 Bây giờ chúng ta sẽ chỉ giải bài toán a) (tại Olympic, bài này được cung cấp cho học sinh lớp 9-10); lời giải và bài toán b) và c) sẽ là chủ đề của một ghi chú mà chúng tôi sẽ đăng trên một trong những số tiếp theo của tạp chí.
 
@@ -216,7 +216,7 @@ F399. Ba quả cầu kim loại nhỏ giống hệt nhau đặt trong chân khô
 
 Mạch chuyển đổi đèn được hiển thị trong Hình 8. Khi phím $K_1$ đóng và phím $K_2$ mở, cả ba đèn được bật nối tiếp và do đó chúng cháy với nhiệt không hoàn toàn. Khi cả hai công tắc được đóng đồng thời, đèn $J_1$ bật sáng và đèn $J_2$ và $J_3$ được mắc song song với một đoạn mạch có rất ít điện trở. Ví dụ, không có đủ trên chúng và đèn không sáng. Khi một phím $K_2$ được đóng, chỉ có đèn $J_1$ bật.
 
-Cơm. 8.
+Hình 8.
 
 Khi mỗi quả bóng được nối với một dây dẫn ở xa, điện thế F được giữ không đổi thì điện thế của quả bóng bằng F.
 

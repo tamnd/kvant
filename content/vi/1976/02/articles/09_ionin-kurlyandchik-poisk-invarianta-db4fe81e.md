@@ -66,17 +66,17 @@ Chứng minh rằng nếu kết quả của một số thao tác như vậy ch�
 
 *) Đây là bài toán M338 từ “Bài toán Kvant, xem «Kvant», 1975, số 8.
 
-Cơm. 1.
-Cơm. 2.
-Cơm. 3.
+Hình 1.
+Hình 2.
+Hình 3.
 
 Lời giải. Chúng ta hãy biểu thị bằng $x_0, x_1, x_2$ số lượng số 0, số một và số hai tương ứng. Bằng cách thực hiện thao tác được phép một lần, chúng ta sẽ thay đổi từng số này thành 1 và do đó thay đổi tính chẵn lẻ của cả ba số. Khi còn lại một chữ số trên bảng, hai trong số $x_0, x_1, x_2$ trở thành số 0 và số thứ ba trở thành một. Điều này có nghĩa là ngay từ đầu, hai số trong số này có một số chẵn lẻ và số thứ ba có số chẵn lẻ khác. Do đó, bất kể thứ tự phân xử của các sterem là gì, cuối cùng đoàn kết chỉ có thể bằng một trong các số $x_0, x_1, x_2$, số này ngay từ đầu đã không giống như hai số còn lại.
 
 Từ lời giải đã cho, rõ ràng là nếu các số $x_0, x_1, x_2$ có cùng tính chẵn lẻ thì chúng ta sẽ không thể đảm bảo rằng trên bảng chỉ còn một chữ số. Chứng minh rằng nếu các số $x_0, x_1, x_2$ vừa chẵn vừa lẻ, ngoài ra có ít nhất hai số khác 0 thì tồn tại thứ tự như vậy
 
-Cơm. 4.
-Cơm. 5.
-Cơm. 6.
+Hình 4.
+Hình 5.
+Hình 6.
 
 ⟦folio 34⟧
 

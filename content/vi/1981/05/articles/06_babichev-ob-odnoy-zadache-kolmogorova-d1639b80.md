@@ -38,7 +38,7 @@ A. N. Kolmogorov lưu ý rằng lời giải vấn đề này cũng có ý nghĩ
 
 Bài viết đưa ra một phần lời giải bài toán Kolmogorov.
 
-Cơm. 1.
+Hình 1.
 
 Đối với một số loại góc và vị trí của điểm O bên trong góc, tôi đã tìm được các hình không phải là đường tròn và thỏa mãn các điều kiện do A. N. Kolmogorov đặt ra. Việc xây dựng các số liệu như vậy có thể được thực hiện như sau:
 
@@ -52,7 +52,7 @@ Khi xoay hình ngũ giác từ vị trí như ở Hình 2, a, đến vị trí n
 
 ⟦folio 15⟧
 
-Cơm. 2.
+Hình 2.
 
 sẽ tạo ra một đường cong nhất định (xem Hình 2, a-f). Khi hình ngũ giác được xoay hoàn toàn, bút chì sẽ vẽ một "ngôi sao" trên đó, điều này sẽ hạn chế đáng kể hình dạng mong muốn do chính phương pháp xây dựng.
 
@@ -60,7 +60,7 @@ Những loại đường cong nào tạo thành đường viền của hình nà
 
 Để hiểu điều này, chúng ta sẽ làm như sau: chúng ta sẽ để hình ngũ giác đứng yên và chúng ta sẽ quay mặt phẳng với hướng của góc trên nó và cái đinh tại điểm O. Chúng ta
 
-Cơm. 3.
+Hình 3.
 
 Đã lưu ý rằng khi xoay theo các giá trị từ 0 đến 2π/5, góc của chúng ta sẽ nằm trên đường chéo BE; do đó, phần trên của nó sẽ trượt dọc theo cung tròn như trong Hình 3.
 

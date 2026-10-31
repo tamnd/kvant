@@ -79,13 +79,13 @@ $$a_{n+1} = \frac{b - a_n}{2}.$$
 
 (2)
 
-Cơm. 2.
+Hình 2.
 
 *) E. B. Dynkin, S. A. Molchanov, A. L. Rosenthal, A. K. Tolygu, “Toán học bài toán”, ed. Lần thứ 3, “Khoa học”, 1971, bài toán 147.
 
-Cơm. 3. Các số hạng của dãy $a_n$, được xác định bởi điều kiện $a_0 = a$, $a_{n+1} = \left| \frac{a_n - b}{2} \right|$ là các hoành độ của các đỉnh của đường đứt nét được bao quanh bởi màu xanh lá cây. Các liên kết của đường đứt nét này lần lượt song song với các trục $Ox$, $Oy$, các đỉnh của nó lần lượt nằm trên đường thẳng có phương trình $y = x$ và trên đồ thị của hàm số $y = \left| \frac{x - b}{2} \right|$.
+Hình 3. Các số hạng của dãy $a_n$, được xác định bởi điều kiện $a_0 = a$, $a_{n+1} = \left| \frac{a_n - b}{2} \right|$ là các hoành độ của các đỉnh của đường đứt nét được bao quanh bởi màu xanh lá cây. Các liên kết của đường đứt nét này lần lượt song song với các trục $Ox$, $Oy$, các đỉnh của nó lần lượt nằm trên đường thẳng có phương trình $y = x$ và trên đồ thị của hàm số $y = \left| \frac{x - b}{2} \right|$.
 
-Cơm. 4.
+Hình 4.
 
 Phương trình $x = \frac{b - x}{2}$ có một lời giải $x = \frac{b}{3}$. Do đó, nếu có giới hạn trên chuỗi $\{a_n\}$ thì nó bằng $\frac{b}{3}$.
 
@@ -99,7 +99,7 @@ $$\delta_{n+1} = -\frac{\delta_n}{2}$$
 
 ⟦folio 44⟧
 
-Cơm. 5.
+Hình 5.
 
 Thật không may, một số độc giả viết: “Vì chuỗi không đơn điệu nên nó không có xu hướng đến giới hạn”.
 Tất nhiên, lý do này là không chính xác. Chúng ta hãy chứng minh, bằng cách sử dụng định nghĩa giới hạn, rằng
@@ -112,7 +112,7 @@ Vậy (4) được chứng minh.
 
 Tất nhiên, giới hạn bằng $\frac{b}{3}$ ngay cả trong trường hợp $a_m = \frac{b}{3}$ - trong trường hợp này, tất cả các số hạng tiếp theo cũng bằng $\frac{b}{3}$. Chúng ta hãy tìm hiểu xem trường hợp này xảy ra với giá trị nào của $a$. Nếu $m = 0$ thì $a = \frac{b}{3}$. Nếu $m = 1$ và $a_1 = \frac{a - b}{2} = \frac{b}{3}$ thì $a = \frac{5b}{3}$.
 
-Cơm. 6.
+Hình 6.
 
 Nói chung, nếu $a_m = \frac{b}{3}$ thì $a = a_0$ thu được từ $a_m = \frac{b}{3}$ sau khi áp dụng công thức $a_{n-1} = 2a_n + b$ $m$ lần. Do đó, để dễ kiểm tra, các giá trị $a$ mà $a_m = \frac{b}{3}$ tạo thành chuỗi $\frac{b}{3}, \frac{5b}{3}, \frac{13b}{3}, \ldots, \frac{(2^k - 3)b}{3}$,... Đối với những giá trị này (và chỉ những giá trị này) $a$, chuỗi hóa ra là đơn điệu (và từ một điểm nào đó không đổi).
 
@@ -160,9 +160,9 @@ $$(1+x+x^2)^n = \sum_{k=0}^{2n} B_n^k x^k$$
 
 (các thao tác gần giống như trong bài “Số học hệ số biomp”, “Quant” số 6, 1970). Ví dụ, ngay lập tức rõ ràng rằng $\sum_{k=0}^{2n} B_n^k = 3^n$, $\sum_{k=0}^{2n} (-1)^k B_n^k = 1$, và không khó để chứng minh điều đó $\sum_{k=0}^{n} (B_n^k) = B_{2n}^n$ (xem bài toán 61 trong cuốn sách của A. M. và I. M. Yaglomov “Không sơ cấp bài toán trong một bài thuyết trình sơ cấp”, Gostekhidat, 1954). Kiểm tra xem
 
-**Cơm. 7.**
+**Hình 7.**
 
-Cơm. 8.
+Hình 8.
 
 nếu $p$ là số nguyên tố, $s < p$ và $r < p$, thì
 
@@ -244,7 +244,7 @@ $$I = \frac{u}{r_2 + \frac{r_1 r}{r_1 + r}}.$$ (1)
 
 $$u_1 = \frac{u}{r_2 + \frac{r_1 r}{r_1 + r}}.$$ (1)
 
-Cơm. 11.
+Hình 11.
 
 ⟦folio 49⟧
 
@@ -294,7 +294,7 @@ Do đó, góc tiếp tuyến với đường cong màu đỏ và bán kính vẽ
 
 ⟦folio 51⟧
 
-Cơm. 14.
+Hình 14.
 
 tới và khúc xạ của tia sáng đối với mỗi mặt phẳng, chúng ta thu được rằng góc mà tia truyền đi trong mỗi mặt phẳng giống như khi ánh sáng chiếu vào nó từ không khí
 
@@ -362,7 +362,7 @@ $$P = \rho_B g h_B'$$
 
 ⟦folio 52⟧
 
-Cơm. 15.
+Hình 15.
 
 Trong trường hợp của chúng tôi, áp suất ở phía dưới cũng không thay đổi. Nhưng bây giờ nó bằng tổng áp suất của bao nhiêu nước và dầu hỏa
 

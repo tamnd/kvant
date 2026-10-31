@@ -50,7 +50,7 @@ Trong trường hợp này, khái niệm mặt cắt ngang có một cặp cạn
 
 Như bạn có thể đã nhận thấy, có một mối quan hệ thú vị giữa tập $T$ hình thang và tập $C$ gồm bốn nghệ sĩ có tính chất (1): $T \subset C$. Thay vì ký hiệu như vậy *), chúng ta có thể nói: tập hợp những kẻ gian lận sở hữu tài sản (1) rộng hơn,
 
-Cơm. 1.
+Hình 1.
 
 hơn nhiều hình thang. Điều tương tự có thể được diễn đạt bằng cách nói khác: khái niệm mặt dây chuyền có một cặp cạnh song song là sự khái quát hóa của khái niệm hình thang, hoặc: hình thang là trường hợp đặc biệt của mặt dây chuyền có một cặp mặt song song.
 
@@ -78,7 +78,7 @@ Cả hai khái niệm đều không: tứ giác có một cặp hình bình hàn
 - Styopa nhắc lại với chính mình. “Thà làm quá còn hơn là làm quá ít.”
 Và khi Pyotr Ivanovich quay sang hỏi anh ta hình bình hành là gì, Styopa buột miệng: “Hình bình hành là một tứ giác có các tính chất sau:
 
-Cơm. 2.
+Hình 2.
 
 các cạnh đều và một tứ giác có một cặp cạnh đối không đều không phải là sự tổng quát của tứ giác kia, vì $C \neq H$, $H \neq C$. Giao của tập $C$ và $H$ không trống, nó bao gồm các hình thang. Các bộ $T$, $C$ và $H$ được mô tả bằng cái gọi là “vòng tròn Euler” trong Hình 2; để rõ ràng, hình vẽ hiển thị hình ảnh của các hình tứ giác thuộc các bộ này.
 
@@ -108,7 +108,7 @@ Vì vậy, nếu bất kỳ thuộc tính nào của một khái niệm là hệ
 
 Vì vậy, thông thường trong định nghĩa
 
-Cơm. 3.
+Hình 3.
 
 khái niệm chỉ bao gồm những thuộc tính độc lập, tức là những thuộc tính không phải là hệ quả của những thuộc tính khác.
 
@@ -145,7 +145,7 @@ Bài toán 8. Đối xứng trục là một chuyển động có đặc tính c
 
 a) Hoàn thành bảng trang 73 (hai dòng cách thực hiện).
 
-Cơm. 4.
+Hình 4.
 
 6) Chứng minh khái niệm chuyển động có tính chất (1) là tổng quát của khái niệm chuyển động có tính chất (1) và (2).
 

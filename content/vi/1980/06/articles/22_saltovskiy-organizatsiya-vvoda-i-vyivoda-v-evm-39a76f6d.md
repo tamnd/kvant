@@ -72,7 +72,7 @@ Hoạt động của thiết bị trên không được điều khiển bằng c
 
 ⟦folio 51⟧
 
-Cơm. 1.
+Hình 1.
 
 - loại (thường là số) thiết bị trên không mà người lập trình dự định làm việc;
 - tính chất công việc - các luồng khí, theo quy luật, có thể hoạt động ở các chế độ khác nhau;
@@ -139,7 +139,7 @@ Xếp hạng miễn phí
 Dấu hiệu
 Quầy tính tiền
 0 18 31 32 36 48 63
-Cơm. 4.
+Hình 4.
 KÊNH
 Micro giây
 Không vận số 1
@@ -149,7 +149,7 @@ Không vận số 3
 Thanh ghi lệnh
 Lựa chọn kênh
 tới Lực lượng Không quân số 2
-Cơm. 5a.
+Hình 5a.
 
 ⟦folio 54⟧
 

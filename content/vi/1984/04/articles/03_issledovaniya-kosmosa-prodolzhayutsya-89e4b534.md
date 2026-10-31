@@ -71,7 +71,7 @@ Xét một vòng dây có bán kính $r$ có tiết diện $\pi l^2$ có điện
 
 $$W \approx \mu_0 \frac{B^2_{\max}}{2} \cdot \frac{4}{3} \pi r^3 \quad (\mu_0 = 4\pi \times 10^{-7} \Gamma_{\mathrm{H}} \cdot \mathrm{m}).$$
 
-Cơm. 1. Từ trường của Trái đất (a) ở bên ngoài giống như từ trường của nam châm vĩnh cửu. Tuy nhiên, bản chất của các lĩnh vực này là khác nhau. Từ tính của nam châm được giải thích bằng tính chất lượng tử phức tạp của các hạt tạo nên vật rắn. Từ trường Trái đất được tạo ra bởi dòng điện chạy trong lõi chất lỏng. Về vấn đề này, từ trường của trái đất tương tự như từ trường của nam châm điện (b).
+Hình 1. Từ trường của Trái đất (a) ở bên ngoài giống như từ trường của nam châm vĩnh cửu. Tuy nhiên, bản chất của các lĩnh vực này là khác nhau. Từ tính của nam châm được giải thích bằng tính chất lượng tử phức tạp của các hạt tạo nên vật rắn. Từ trường Trái đất được tạo ra bởi dòng điện chạy trong lõi chất lỏng. Về vấn đề này, từ trường của trái đất tương tự như từ trường của nam châm điện (b).
 
 ⟦folio 6⟧
 
@@ -89,7 +89,7 @@ Nguyên nhân là do môi trường đang chuyển động. Chuyển động c�
 
 Khi bị đóng băng, toàn bộ chuyển động của plasma mang theo các đường sức từ. Chuyển động của một số phần của plasma so với các biến dạng khác của đường sức từ: chúng giãn ra và uốn cong. Đường từ trường ban đầu đi qua hai phần gần nhau của plasma, sẽ tiếp tục đi qua các hạt giống nhau, tức là đi theo chuyển động của chúng (Hình 2). Số lượng đường sức từ hình thành nên một khu vực bất kỳ, bao phủ một vòng khép kín gồm các hạt chất lỏng chuyển động, không thay đổi (ở mức $\varrho = 0$). Cảm ứng từ $B$ của trường có thể xảy ra trong quá trình biến dạng, khi các khu vực có cùng hướng từ trường đến gần nhau và yếu đi khi các khu vực có hướng ngược lại của trường đến gần hơn. Điều này có thể được nhìn thấy từ
 
-Cơm. 2. Từ trường thay đổi khi di chuyển một phần của plasma dẫn điện lý tưởng từ vị trí 1 - 2 sang vị trí 1' - 2'.
+Hình 2. Từ trường thay đổi khi di chuyển một phần của plasma dẫn điện lý tưởng từ vị trí 1 - 2 sang vị trí 1' - 2'.
 
 ⟦folio 7⟧
 
@@ -134,13 +134,13 @@ Bạn có thể sử dụng một đường dây từ làm vạch xuất phát, 
 
 ⟦folio 10⟧
 
-Cơm. 6. Lớp plasma quay với mật độ giảm dần lên trên. Sự quay của toàn bộ lớp sẽ truyền thêm tốc độ bắt cho dòng xoáy dâng lên và phồng lên.
+Hình 6. Lớp plasma quay với mật độ giảm dần lên trên. Sự quay của toàn bộ lớp sẽ truyền thêm tốc độ bắt cho dòng xoáy dâng lên và phồng lên.
 
 vòng tròn quay). Điều này có nghĩa là xoáy được truyền thêm một vòng quay bổ sung do chuyển động quay chung của lớp gây ra.
 
 Rõ ràng, tác động của sự xuất hiện của một chuyển động quay chung là giống nhau đối với tất cả các thao tác nâng xoáy - cả thuận tay phải và tay trái. Trên một xoáy đi xuống và do đó lướt đi, chuyển động quay chung tác động theo hướng ngược lại, nhưng dấu của vinata sẽ giống như dấu của xoáy nâng lên. Vitor, hành động xoay chung của con cú
 
-Cơm. 7. Tác động kết hợp của chuyển động quay cấp độ thấp và chuyển động xoắn ốc lên từ trường. Xoay từ trường ban đầu ($B_0$) xoắn trường phương vị ($B_\varphi$). Chuyển động xoắn ốc nâng các vòng của trường này lên, chúng mở, xoay, kéo dài và hợp nhất, tạo ra một trường mới, hướng song song hoặc phản song song với trường ban đầu $B_0$.
+Hình 7. Tác động kết hợp của chuyển động quay cấp độ thấp và chuyển động xoắn ốc lên từ trường. Xoay từ trường ban đầu ($B_0$) xoắn trường phương vị ($B_\varphi$). Chuyển động xoắn ốc nâng các vòng của trường này lên, chúng mở, xoay, kéo dài và hợp nhất, tạo ra một trường mới, hướng song song hoặc phản song song với trường ban đầu $B_0$.
 
 sự phong phú của xoáy ở lớp bên dưới sẽ dẫn đến thực tế là sẽ có nhiều vít có dấu hiệu do chuyển động quay chung quyết định. Nhưng một tình huống với các xoáy thuận tay trái chiếm ưu thế so với các xoáy thuận tay phải, như có thể dễ dàng xác minh, sẽ không còn có tính chất đối xứng gương nữa.
 

@@ -35,7 +35,7 @@ Vé 1
 2. Sự chuyển động của điện tích trong điện trường. Khái niệm về tiềm năng. Điện thế trường điện tích chính xác (không có đầu ra).
 3. Trong một ống, đóng một phía và đóng nghiêng một góc $\alpha = 30^\circ$ so với phương ngang, có một pít-tông có khối lượng $m = 1$ kg (Hình 1). Diện tích mặt cắt ngang của ống là $S = 8$ cm$^2$.
 
-Cơm. 1.
+Hình 1.
 Pít-tông được di chuyển, làm tăng thể tích không khí bên dưới nó lên $n = 2$ lần. Tìm gia tốc ban đầu của piston sau khi nó được thả ra. Bỏ qua việc đào tạo. Áp suất không khí bên ngoài $p_0 = 760$ mm rm. cm.
 
 Vé 2

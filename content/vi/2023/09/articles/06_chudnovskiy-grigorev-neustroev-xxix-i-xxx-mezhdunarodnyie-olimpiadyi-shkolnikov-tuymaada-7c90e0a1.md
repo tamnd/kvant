@@ -88,7 +88,7 @@ Bài toán 4. Làm nóng cầu điện Năm điện trở được làm từ cá
 
 ⟦figure⟧
 
-Cơm. 1
+Hình 1
 
 được nối với nguồn điện áp không đổi. Trong mỗi thí nghiệm trong số bốn thí nghiệm được mô tả dưới đây, hãy tìm sự chênh lệch giữa nhiệt độ tối đa và tối thiểu của các điện trở nếu nhiệt độ của điện trở trung tâm tại cùng thời điểm cao hơn nhiệt độ phòng ' $T_{5}^{10}$ mK. Đối với đáp số, hãy nhập các giá trị số được làm tròn đến số nguyên milikelvin gần nhất. 1) Đường kính của tất cả các đoạn dây đều giống nhau và chiều dài tỷ lệ thuận với số điện trở. Tất cả nhiệt độ được đo một thời gian ngắn sau khi đóng mạch. 2) Đường kính của tất cả các đoạn dây đều giống nhau và chiều dài tỷ lệ thuận với số điện trở. Tất cả nhiệt độ được đo một thời gian dài sau khi đóng mạch. 3) Chiều dài của tất cả các đoạn dây đều như nhau và đường kính tỷ lệ thuận với số điện trở. Tất cả nhiệt độ được đo một thời gian ngắn sau khi đóng mạch. 4) Chiều dài của tất cả các đoạn dây đều như nhau và đường kính tỷ lệ thuận với số điện trở. Tất cả nhiệt độ được đo một thời gian dài sau khi đóng mạch. S. Varlamov
 
@@ -122,7 +122,7 @@ HƯỚNG DẪN
 
 ⟦figure⟧
 
-Cơm. 1
+Hình 1
 
 đường dày, nó chia thành năm hình chữ nhật có kích thước 1 x 3. 4. Vì có số lượng hình khác nhau nên một số hình được sử dụng nhiều hơn những hình khác. Hãy gọi nó là cái chính. Nếu có ít nhất hai hình có hình dạng khác thì mỗi tù nhân sẽ xem hình nào là hình chính. Nếu mọi người đều rút ra thì trong số đó sẽ có người đoán đúng. Giả sử điều này không xảy ra và, ví dụ, hình chính là hình vuông, số tiếp theo là hình tròn và có đúng một hình tròn ít hơn hình vuông. Khi đó, những tù nhân có hình vuông trên trán sẽ nhìn thấy số hình tròn và hình vuông như nhau và không thể xác định chắc chắn hình chính (những người còn lại, như trước, sẽ xem hình nào là hình chính và có thể vẽ hình đó). Có một số thuật toán tiết kiệm cho trường hợp này. Đầu tiên là gọi tên người gần nhất theo chiều kim đồng hồ trong hai ứng cử viên cho nhân vật chính. Hãy chứng minh rằng ít nhất có người có thể đoán được. Chúng tôi sẽ chỉ tính đến các hình vuông và hình tròn, bỏ qua các tù nhân còn lại. Mỗi hình vuông có thể được theo sau bởi một hình tròn theo chiều kim đồng hồ không? Không, vì có nhiều hình vuông hơn. Người tù có hình vuông theo sau là hình vuông theo chiều kim đồng hồ sẽ đoán đúng và cứu được mọi người. Thuật toán ngược lại cũng hoạt động: trong số hai ứng cử viên cho các số liệu chính, hãy đặt tên cho số liệu gần nhất theo chiều kim đồng hồ. Để chứng minh điều này, chúng ta cũng sẽ chỉ xét hình tròn và hình vuông. Ở ít nhất một nơi, tù nhân có hình vuông được theo sau bởi tù nhân có hình tròn theo chiều kim đồng hồ. Người bị giam cầm với một hình vuông này sẽ vẽ hình của mình một cách chính xác.
 

@@ -32,7 +32,7 @@ Khi độc giả «Kvant» làm quen với hoạt động của thiết bị đi
 
 Mã hoạt động Trường địa chỉ thứ nhất Trường địa chỉ thứ 2 Trường địa chỉ thứ 3
 
-Cơm. 1.
+Hình 1.
 
 Trường địa chỉ đầu tiên chứa địa chỉ của toán hạng đầu tiên của thao tác đang được thực hiện và trường địa chỉ thứ hai chứa địa chỉ của toán hạng thứ hai. Trường địa chỉ thứ ba là địa chỉ kết quả. Cả ba địa chỉ đều có cùng độ dài. Định dạng lệnh này không cần thiết đối với máy BESM-2 ba địa chỉ cho đến ngày nay. Ví dụ: lệnh 01 0257 1023 0016 trong BESM-2 có nghĩa là thêm (mã thao tác - 01) giá trị được lưu trong từ máy tại địa chỉ 0257 với giá trị nằm trong từ máy tại địa chỉ 1023 và đặt kết quả vào từ máy có địa chỉ 0016.
 
@@ -42,7 +42,7 @@ Lệnh của máy unicast có dạng khác (Hình 2).
 
 Mã giao dịch Trường địa chỉ
 
-Cơm. 2.
+Hình 2.
 
 Chỉ có thể chỉ định một địa chỉ trong trường địa chỉ của lệnh đó. Làm cách nào bạn có thể đặt địa chỉ của toán hạng thứ hai trong trường hợp này? Tôi nên gửi kết quả ở đâu? Để trả lời những câu hỏi này, bạn cần biết rằng trong máy địa chỉ đơn có một thanh ghi đặc biệt có độ dài bằng một từ máy. Thanh ghi này được gọi là bộ cộng. Anh ta tham gia thực hiện các nhiệm vụ thực tế của máy chỉ huy. Ví dụ: trong mã của một “ông nội” khác của máy tính tiên tiến - máy địa chỉ đơn "Ural-2" - việc cộng hai số được lưu trong bộ nhớ tại địa chỉ 0257 và 1023 và gửi kết quả đến địa chỉ 0016 được thực hiện bằng các lệnh sau:
 
@@ -75,7 +75,7 @@ Chắc hẳn sau đó người đọc sẽ thấy ngạc nhiên về một chi�
 
 Tuy nhiên, trong các máy sau này, các thanh ghi dùng để xác định địa chỉ toán hạng lại có những cách sử dụng khác. Trong các máy lớn, địa chỉ liên quan đến lệnh trực tiếp tại thời điểm thực thi (cái gọi là “địa chỉ thực thi” không trùng với giá trị của trường địa chỉ mà được tính bằng giá trị của một số hàm. Hàm như vậy thường trông giống như tổng của giá trị được ghi trong trường địa chỉ (được gọi là khung) và nội dung của một thanh ghi (cơ sở) được chỉ định trong lệnh hoặc hai thanh ghi (cơ sở và chỉ mục). Ví dụ, trong máy BESM-6 (nếu chúng ta lạc đề từ một số chi tiết không quan trọng), định dạng của hầu hết các lệnh như trong Hình 3.
 
-Cơm. 3.
+Hình 3.
 
 Các số trong trường lệnh trong Hình 3 cho biết độ dài của trường tương ứng, được đo bằng hai chữ số. RAM BESM-6 chứa 32K=2$^{15}$ từ máy và số lớn nhất được ghi trong trường địa chỉ, trong mọi trường hợp, nhỏ hơn 2$^{13}$. Và ở đây, một trong mười sáu thanh ghi cơ sở $(2^4=16)$ đã được giải cứu, chính xác là thanh ghi có số (địa chỉ) được chỉ định trong trường thanh ghi cơ sở. Địa chỉ thực thi của các lệnh là tổng của giá trị mười lăm hàng được lưu trong thanh ghi cơ sở đã chỉ định và giá trị offset mười hai hàng. Ví dụ, lệnh
 
@@ -93,11 +93,11 @@ Thậm chí còn có nhiều khả năng đánh địa chỉ tiên tiến hơn t
 | Mã hoạt động | P1 | P2 |
 | :--- | :--- | :--- |
 
-Cơm. 4.
+Hình 4.
 
 lệnh hoạt động trên các số được lưu trong thanh ghi P1 và P2 và ghi kết quả vào địa chỉ P1. Định dạng thứ hai là “điện trở - bộ nhớ” (Hình 5). Ở đây Địa chỉ 2-20 operad
 
-Cơm. 5.
+Hình 5.
 
 địa chỉ của một trong các toán hạng (thứ hai) được chỉ định trong bộ nhớ. Địa chỉ điều hành có được bằng cách thêm hỗn hợp CM2 với các giá trị được lưu trong thanh ghi cơ sở B2 và thanh ghi chỉ số I2. Cuối cùng, trong các lệnh chuyển từ bộ nhớ sang bộ nhớ (Hình 6), cả hai toán hạng đều nằm trong bộ nhớ chính. Đối với mỗi người trong số họ, địa chỉ điều hành có được bằng cách thêm hỗn hợp với giá trị của thanh ghi cơ sở. Ngoài ra (đây là một tính năng của máy dòng EC), định dạng này chỉ định độ dài D1 và D2 ​​của các trường toán hạng, giúp nó có thể hoạt động không chỉ với các từ máy có một kích thước duy nhất mà còn với dữ liệu có độ dài dẫn xuất.
 
@@ -114,7 +114,7 @@ Chiều dài 2-20 hoạt động
 
 ⟦folio 54⟧
 
-Cơm. 7.
+Hình 7.
 
 (trong tiếng Anh “stack” đồng nghĩa với “stack”). Bạn chỉ có thể thêm sách vào chồng sách này bằng cách đặt cuốn sách cuối cùng mà bạn quan tâm lên trên cùng của chồng sách. Cuốn sách này, được đặt cuối cùng, hóa ra cũng là cuốn sách đầu tiên có sẵn. Tiếp theo, bạn cần một số cuốn sách ở giữa chồng sách, sau đó cuốn sách đầu tiên cần lấy trong quá trình tìm kiếm này sẽ là cuốn sách cuối cùng được đặt trên đầu chồng sách. Ngăn xếp là một nhóm các từ máy trong đó chỉ có một từ có sẵn tại một thời điểm, cụ thể là từ được viết lần cuối. Từ có sẵn này trên ngăn xếp được gọi là đỉnh của ngăn xếp và phần còn lại của ngăn xếp được gọi là phần thân của nó. Thêm một từ vào ngăn xếp có nghĩa là tạo một đỉnh mới; phần trên cùng trước đó trở thành phần tử thứ hai của ngăn xếp, một phần của phần thân. Việc lấy một từ ra khỏi ngăn xếp sẽ làm cho phần tử trên cùng của ngăn xếp trở thành phần tử ngay sau đỉnh ngăn xếp trước khi thao tác được thực hiện.
 

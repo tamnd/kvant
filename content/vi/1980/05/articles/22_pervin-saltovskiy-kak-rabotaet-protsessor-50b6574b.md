@@ -63,7 +63,7 @@ Theo phép tính gần đúng đầu tiên, hoạt động của máy tính có 
 
 — sau khi các thiết bị thực hiện công việc được giao, chúng sẽ báo cáo việc này cho Bộ điều khiển; sau đó các từ điều khiển tiếp theo sẽ được lấy từ bộ nhớ hoặc hai
 
-Cơm. 2. Định dạng gần đúng của lệnh ba địa chỉ.
+Hình 2. Định dạng gần đúng của lệnh ba địa chỉ.
 
 Nhiều luồng thông tin vào máy tính sẽ bị đình chỉ.
 
@@ -101,7 +101,7 @@ Trong quá trình thực hiện lệnh, các công tắc điều khiển điều
 
 ⟦folio 59⟧
 
-Cơm. 4a. Lựa chọn các lệnh. Cơm. 46. ​​​​Giải mã mã hoạt động. Cơm. 4c. Chuyển học kỳ 1 sang ALU.
+Hình 4a. Lựa chọn các lệnh. Hình 46. ​​​​Giải mã mã hoạt động. Hình 4c. Chuyển học kỳ 1 sang ALU.
 
 Với sự trợ giúp của bộ biến tần, hình ảnh thông tin “âm bản” (Hình 3c) đặc biệt được sử dụng để thực hiện thao tác trừ.
 

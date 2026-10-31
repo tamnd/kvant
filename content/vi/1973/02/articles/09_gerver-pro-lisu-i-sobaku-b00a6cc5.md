@@ -86,7 +86,7 @@ Theo điều kiện bài toán con chó chạy thẳng về phía con cáo (theo
 
 Cho đến cxx, chúng ta đã vẽ điểm $C$ ở cùng một vị trí trên mặt phẳng $(x, y)$. Hình 6 cho thấy tốc độ thu được phụ thuộc như thế nào vào vị trí của điểm $C$. Càng nhiều
 
-Cơm. 6.
+Hình 6.
 
 góc giữa các vectơ cộng lại thì vectơ vận tốc thu được càng ngắn. Nếu bạn đặt điểm $C$ trên bán trục âm của trục $y$, thì các vectơ cộng lại sẽ có hướng ngược nhau và tốc độ thu được sẽ bằng 0. Tất nhiên, nó phải như thế này: nếu con chó đi đúng hàng với con cáo, thì nó sẽ đuổi theo nó, không đến gần hoặc tụt lại phía sau, tức là nó ở vị trí của hệ thống $x, y$.
 
@@ -114,7 +114,7 @@ và bình phương của khoảng cách này bằng
 
 ⟦folio 42⟧
 
-Cơm. 7.
+Hình 7.
 
 $(y + a)^2$. Đối với các điểm cách đều $O$ và $d$, sự tương ứng được thỏa mãn
 
@@ -144,7 +144,7 @@ $$\begin{align*}
 y &= \frac{x^2 - b^2}{2b} \\
 \end{align*}$$
 
-Cơm. 8.
+Hình 8.
 
 Nếu cả hai parabol được nhấn thì sự tương ứng sẽ được thực hiện
 

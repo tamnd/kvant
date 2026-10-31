@@ -37,10 +37,10 @@ TÔI ĐÃ SỬ DỤNG NHIỀU NĂM một cuốn sách xuất sắc của nhà v�
 
 ⟦figure⟧
 
-Cơm. 1
+Hình 1
 
 ⟦figure⟧
 
-Cơm. 2
+Hình 2
 
 có thể hữu ích; ít nhất nó dạy bạn đọc và xem cẩn thận. Một cái gì đó thú vị và hữu ích có thể khiến nhiều chuyên gia chướng mắt trong nhiều năm và không ai thấy điều gì kỳ lạ. Đúng, phải thừa nhận rằng trong một cuốn sách giáo khoa vật lý khác cũng ở Mỹ (“Phys.

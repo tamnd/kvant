@@ -83,7 +83,7 @@ Các đề xuất được trình bày cho phép, với sự trợ giúp của c
 
 *) Như đã biết, định luật bảo toàn này liên quan đến định luật thứ hai của Kepler.
 
-Cơm. 1.
+Hình 1.
 
 ⟦folio 4⟧
 
@@ -163,7 +163,7 @@ Bài tập
 
 $$h = r_0 \sin^2 \alpha_0 = \frac{1}{2} r_0 (1 - \cos 2\alpha_0)$$
 
-cơm. 5).
+hình 5).
 
 Xác minh rằng công thức này suy ra trực tiếp từ tính chất “quang học” của parabol: một chùm tia phẳng hướng vào gương parabol song song với trục của nó, sau khi phản xạ từ gương, sẽ tập trung tại tiêu điểm của nó.
 

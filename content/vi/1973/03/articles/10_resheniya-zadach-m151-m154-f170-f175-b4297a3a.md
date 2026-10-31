@@ -40,7 +40,7 @@ Tất nhiên, có ít nhất ba số nguyên đi qua một trong những điểm
 
 Người đọc chỉ ra một sự khái quát hóa tự nhiên bài toán: thay vì hình vuông, ta xét một 2n-giác có đối diện
 
-Cơm. 1. Hình 2.
+Hình 1. Hình 2.
 
 các cạnh đối diện là các đường thẳng song song, mỗi cạnh chia 2n giác này thành hai (n + 2)-giác có diện tích cố định.
 
@@ -314,7 +314,7 @@ nghĩa là áp suất của một chất khí tỉ lệ nghịch với bình ph�
 
 $$A = \sum \frac{\beta R}{V_i^2} \Delta V_i,$$
 
-cơm. 8.
+hình 8.
 
 Hơn nữa, các phần $\Delta V_i$ càng nhỏ thì tổng được viết tương ứng với lượng công mà khí thực hiện càng chính xác.
 
@@ -390,7 +390,7 @@ $$S = \sqrt{24 \times 9 \times 8 \times 7} = 24 \sqrt{21} (cm^2).$$
 
 Khi đó MO vuông góc với mặt phẳng đáy là điều hợp lý.
 
-Cơm. 2.
+Hình 2.
 
 Di chuyển qua tâm của vòng tròn được mô tả gần đáy (Hình 2). Theo đó, chiều cao của paramid bằng bán kính của hình tròn được mô tả xung quanh đáy. Theo công thức nổi tiếng $R = \frac{abc}{4S}$. Có nghĩa,
 
@@ -497,7 +497,7 @@ $$AO = \frac{m}{V^2}.$$
 
 b) Nếu bạn kết nối các phần tử được yêu cầu và đã cho bằng hình học
 
-Cơm. 3.
+Hình 3.
 
 không thể chuyển đổi thì nên xem xét các giá trị sau, có thể có vai trò tương ứng.
 
@@ -609,7 +609,7 @@ Bài tập 5. Một điện tích chính xác Q được đặt trong mạch đi
 
 a) Trên bề mặt bên trong và bên ngoài của một vật hình cầu, các điện tích sẽ được cảm ứng, cùng độ lớn và khác nhau về dấu (toàn bộ quả cầu không nhiễm điện). Từ các báo cáo về tính đối xứng cầu, rõ ràng là các điện tích cảm ứng được phân bố đều trên các quả cầu. Các điện tích này phải sao cho tổng trường trong dây dẫn bằng 0 (Hình 8). Theo nguyên lý chồng chất, trường nằm ở bất kỳ điểm nào của lớp vỏ (hình cầu bên ngoài, như sau từ lời giải bài toán 4, trường không được tạo ra bên trong chính nó). Trường của một quả cầu tích điện đều ở bên ngoài giống như trường của một điện tích chính xác đặt ở giữa; do đó, điều kiện bù trường tại điểm a sẽ được thỏa mãn nếu điện tích bên trong quả cầu bằng -Q. Vì toàn bộ vỏ không được tích điện nên điện tích +Q sẽ được tạo ra ở bề mặt bên ngoài. Bây giờ, sử dụng nguyên lý xếp chồng, chúng ta có thể kết luận,
 
-Cơm. 8.
+Hình 8.
 
 rằng trường bên trong và bên ngoài vỏ bằng điện trường của điện tích Q đặt tại tâm của nó.
 

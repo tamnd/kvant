@@ -103,13 +103,13 @@ Bây giờ chúng ta sẽ mô tả một phương pháp xây dựng đồ thị 
 
 Lấy hàm lồi $n$-gon $A = (A_1, A_2, \dots, A_n)$. Bên trong nó, chúng ta đặt $n$-gon $B = (B_1, B_2, \dots, B_n)$. Bằng cách nối trung điểm của các cạnh liền kề của $n$-giác $B$, chúng ta thu được $n$-giác $C = (C_1, C_2, \dots, C_n)$, trong đó $C_i$ là trung điểm của $B_i B_{i+1}$, $i = 1, 2, \dots, n-1$; $C_n$ - giữa $B_n B_1$.
 
-Cơm. 3.
+Hình 3.
 
-Cơm. 4.
+Hình 4.
 
 ⟦folio 14⟧
 
-Cơm. 5.
+Hình 5.
 
 Bằng cách nối trung điểm của các cạnh nối của $n$-giác $C$, ta thu được $n$-gon $D = (D_1, \dots, D_n)$, trong đó $D_i$ là trung điểm của $C_{i-1}C_i$, $i = 2, \dots, n$; $D_1$ là điểm giữa của cạnh $C_nC_1$. Bây giờ kết nối $A_i$ với $B_i$, $B_{i+1}$ và $C_i$ và $B_i$ với $D_i$, chúng ta thu được biểu đồ bậc 5 với $4n$ đỉnh. Một ví dụ về cách xây dựng đồ thị có 20 đỉnh (cho $n = 5$) được hiển thị trong Hình 5.
 
@@ -135,7 +135,7 @@ Chứng minh rằng không tồn tại đồ thị bậc 4 có 7 đỉnh. Để 
 
 Xét một đỉnh A tùy ý của đồ thị nguồn và các đỉnh A₁, A₂, A₃, A₄ mà từ đó nó được kết nối. Hai đỉnh còn lại của chúng tôi
 
-Cơm. 9. Hình 10.
+Hình 9. Hình 10.
 
 Chúng ta biểu thị đồ thị thứ hai bằng A' và A''. Có hai trường hợp có thể xảy ra.
 

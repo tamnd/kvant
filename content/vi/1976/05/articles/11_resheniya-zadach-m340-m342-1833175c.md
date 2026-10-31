@@ -106,9 +106,9 @@ N. Vasiliev
 
 ⟦folio 54⟧
 
-Cơm. 7. Giải vô địch bóng chuyền $n=8$, $k=3$. Các đội 6, 7, 8 là châu Âu; Nhà vô địch Euro - đội 6. Đã thêm đội $A$ và $B$.
+Hình 7. Giải vô địch bóng chuyền $n=8$, $k=3$. Các đội 6, 7, 8 là châu Âu; Nhà vô địch Euro - đội 6. Đã thêm đội $A$ và $B$.
 
-Cơm. 8. a) Các đội châu Âu - 5 và 6. Vô địch châu Âu - đội 5. b) Các đội châu Âu - 4 và 5. Vô địch châu Âu - đội 4.
+Hình 8. a) Các đội châu Âu - 5 và 6. Vô địch châu Âu - đội 5. b) Các đội châu Âu - 4 và 5. Vô địch châu Âu - đội 4.
 
 Đối với $l \geq 4$, giá trị nguyên nhất của $k$ thỏa mãn (3) bằng $2l-5$; thật vậy, với $k=2l-5$ bất đẳng thức đúng và với $k \geq 2l-4$ vế trái của nó là dương (hãy đảm bảo điều này).
 
@@ -169,7 +169,7 @@ M342. a) Chứng minh rằng từ các chữ số 1 và 2 có thể tạo thành
 
 6) Chứng minh rằng không thể tạo được nhiều hơn $2^{n+1}$ số tối đa $2^n$ chữ số.
 
-Cơm. 9.
+Hình 9.
 
 Chúng ta sẽ giải bài toán này bằng phương pháp quy nạp toán học. Cơ sở và chỉ số. Với $n = 1$, cứ hai trong số bốn số có hai chữ số 11, 12, 21, 22 khác nhau ít nhất một chữ số.
 

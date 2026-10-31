@@ -45,7 +45,7 @@ Một parabol bậc ba có các tính chất cơ bản sau:
 Thật dễ dàng để biết thêm đồ thị của hàm số trông như thế nào
 $$y = ax^3,$$ (3)
 
-Cơm. 1. Hình 2.
+Hình 1. Hình 2.
 
 ⟦folio 27⟧
 

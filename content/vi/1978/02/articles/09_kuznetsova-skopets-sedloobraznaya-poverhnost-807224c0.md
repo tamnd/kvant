@@ -45,7 +45,7 @@ Chúng ta sẽ biểu thị một ngã rẽ có trục $l$ bằng $R_l$, một n
 
 ⟦folio 21⟧
 
-Cơm. 1.
+Hình 1.
 
 Để mô tả tập hợp các điểm của chúng ta (ký hiệu là $F$), chúng ta cần một số phát biểu về phép quay. Chúng tôi sẽ xây dựng chúng khi cần thiết dưới dạng bổ đề và cách chứng minh tất cả các bổ đề được đưa ra ở cuối bài viết. Sẽ rất hữu ích cho người đọc khi tự mình chứng minh các bổ đề này.
 
@@ -53,7 +53,7 @@ Cơm. 1.
 
 Đặt $m$ và $n$ là dữ liệu của đường giao nhau và điểm $A$ cách đều chúng. Chúng ta hãy biểu thị bằng $A_1$ và $A_2$ các hình chiếu trực giao của điểm này lên các đường thẳng $m$ và $n$ tương ứng (Hình 3). Giả sử $l$ vuông góc với mặt phẳng $A_1AA_2$ đi qua điểm $A$. Chúng ta hãy xoay không gian xung quanh trục $l$ sao cho điểm $A_1$ tiến tới điểm $A_2$. Khi đó đường thẳng $m$ sẽ biến thành đường thẳng $m_1$, đi qua điểm $A_2$ và vuông góc với đường thẳng $AA_2$. Tiếp theo, bạn có thể thực hiện hai phép quay với trục $AA_2$ sao cho đường thẳng $m_1$ biến thành đường thẳng $n$: $R_{AA_2}$ và $R'_{AA_2}$. Do sự kết hợp của các lượt $R_l$ và $R_{AA_2}$ ($R_l$ và $R'_{AA_2}$), đường thẳng $m$ sẽ biến thành đường thẳng $n$. Hoá ra bổ đề sau đây là đúng: hợp của hai phép quay quanh hai trục cắt nhau là một phép quay quanh trục đi qua giao điểm của chúng. Do đó, tồn tại một đường thẳng $u$ đi qua điểm $A$ sao cho $R_{AA_2} \circ R_l = R_u$. Tương tự, có một đường thẳng $v$ đi qua $A$ sao cho $R'_{AA_2} \circ R_l = R_v$.
 
-Cơm. 2.
+Hình 2.
 
 từ điểm $A$ đến đường thẳng $n$.
 
@@ -87,7 +87,7 @@ Do đó, các đường thẳng $u$ và $v$ không song song cũng không cắt 
 
 ⟦folio 23⟧
 
-Cơm. 5.
+Hình 5.
 
 c) Cho trục $u$ thuộc lớp thứ nhất và trục $v$ thuộc lớp thứ hai. Hãy chứng minh rằng các đường $u$ và $v$ cắt nhau. Thật vậy, khi di chuyển $R^{-1}_v \circ R_u$, đường thẳng $m$ sẽ biến thành chính nó với sự thay đổi hướng. Do đó, chúng ta thu được một phép biến đổi của đường $m$ - đối xứng đến một điểm nhất định $C \in m$ (bằng chứng!). Do đó $R^{-1}_v \circ R_u(C) = C$ và $R_v(C) = R_u(C) = D$. Từ $R_u(C) = D, R_v(C) = D$ suy ra rằng tất cả các điểm của đường thẳng $u$ và $v$ đều cách đều các điểm $C$ và $D$. Nhưng khi đó $u$ và $v$ nằm trong cùng một mặt phẳng (xem Hình 1). Do đó, nếu $u$ và $v$ không giao nhau thì chúng song song. Vì $u \parallel xOz$ và $v \parallel yOz$, nên từ $u \parallel v$ sẽ dẫn đến $u \parallel z$. Nhưng điều này là không thể, vì $z \perp m$. Do đó, $u$ và $v$ cắt nhau.
 

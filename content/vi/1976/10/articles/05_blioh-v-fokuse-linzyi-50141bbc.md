@@ -114,7 +114,7 @@ Tất nhiên, giả định thứ hai là đúng và lý do hạn chế hình �
 
 ⟦folio 17⟧
 
-Cơm. 4.
+Hình 4.
 
 Chúng ta sẽ trình bày lại công thức tính độ lợi của thấu kính, nhưng lần này có tính đến hiện tượng nhiễu xạ. Hãy quan sát Hình 4. Đây là một chùm tia song song phát ra từ một nguồn rất xa. Các tia bị khúc xạ trong thủy tinh sao cho sau khi đi qua thấu kính, chúng đều hội tụ tại một điểm - tiêu điểm. Quá trình lấy nét tương tự có thể được giải thích theo cách khác, không xem xét sự giao nhau của các tia mà là sự tương tác của các sóng truyền từ mỗi điểm của khẩu độ thấu kính. Lý luận của chúng tôi dựa trên cái gọi là nguyên tắc Huygen. Theo nguyên lý này, mỗi điểm trong không gian nơi sóng tự lan truyền sẽ trở thành nguồn phát sóng thứ cấp. Những sóng này phân kỳ từ khẩu độ theo mọi hướng. Chúng cũng rơi vào tiêu điểm của ống kính. Điểm $F$ (tiêu điểm của ống kính) khác với tất cả các điểm khác trong không gian ở chỗ các pha của sóng đến từ bất kỳ vị trí nào trên khẩu độ - từ các cạnh, từ giữa, v.v. - trùng khớp với nhau. Tính chất cùng pha của sóng tại điểm $F$ đạt được nhờ công thức thủy tinh được chọn lọc đặc biệt. Trên thực tế, đây chính là mục đích của việc tập trung: khi các dao động có pha trùng nhau được thêm vào, chúng tăng cường lẫn nhau và cường độ sóng tại điểm $F$ là cao nhất.
 

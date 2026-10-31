@@ -47,11 +47,11 @@ lớp 8
 
 ⟦folio 51⟧
 
-Cơm. 2.
-Cơm. 3.
-Cơm. 4.
-Cơm. 5.
-Cơm. 6.
+Hình 2.
+Hình 3.
+Hình 4.
+Hình 5.
+Hình 6.
 
 theo đường chân trời, hình trụ và hình nêm chuyển động chạm vào nhau (Hình 1). Tìm lực mà nêm ép lên hình trụ. Khối lượng của hình trụ là $m_1$, khối lượng của hình nêm là $m_2$.
 

@@ -60,9 +60,9 @@ Những từ được gạch chân bằng đường thẳng (một hoặc hai) s
 
 *) Nếu cụm từ này có vẻ không rõ ràng đối với bạn, chúng tôi khuyên bạn nên đọc chương “Định luật bảo toàn động lượng” trong sách giáo khoa “Vật lý 8”.
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
 được đánh dấu bằng đường lượn sóng sẽ “biến mất” vì lý do này. Ở đây và xa hơn nữa, chúng ta sẽ coi tất cả các số gia - $\Delta t$, $\Delta v$, $\Delta M$ và các số khác - là rất nhỏ, do đó tích của chúng thuộc loại $\Delta M \cdot \Delta v$ sẽ rất nhỏ, hoặc, như các nhà toán học nói, thuộc bậc nhỏ thứ hai. Vậy định luật bảo toàn động lượng còn lại gì? Đây là sự bình đẳng:
 
@@ -134,7 +134,7 @@ Hiện tại, khả năng tăng tốc bài toán và phóng khối lượng đư
 
 Tuy nhiên, chúng ta hãy phân tích quá trình này ở dạng đơn giản hóa, tuy nhiên, điều này cho phép chúng ta rút ra nhiều kết luận. Để hiểu rõ hơn, chúng tôi sẽ tổng hợp một số cái mới dành cho nhiều độc giả.
 
-Cơm. 3.
+Hình 3.
 
 dễ hiểu - chẳng hạn như dòng khối, dòng động lượng và dòng năng lượng *). Chúng thường được sử dụng trong vật lý.
 
@@ -232,7 +232,7 @@ $$\mu \Delta u = -\Delta p.$$
 
 Bạn có thể ngồi xuống và lắng nghe: mọi thứ ở đây đều là động lực của dòng khí lý tưởng ổn định! Nhưng đây là điều thú vị. Khi các phương trình được viết dưới dạng quan hệ đại số tổng quát:
 
-Cơm. 4.
+Hình 4.
 
 2 «Kvant» № 9
 

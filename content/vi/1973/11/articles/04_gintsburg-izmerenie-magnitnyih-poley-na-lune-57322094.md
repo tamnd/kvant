@@ -35,7 +35,7 @@ Từ trường tuy rất yếu - yếu hơn trên Trái đất khoảng 6000 l�
 
 Từ kế thông lượng SG (tên thiết bị Liên Xô của chúng tôi thuộc loại này) đã được lắp đặt trên vệ tinh Trái đất nhân tạo thứ ba của Liên Xô (nó đo từ trường
 
-Cơm. 1.
+Hình 1.
 
 ⟦folio 18⟧
 
@@ -69,12 +69,12 @@ Luna 2 được Liên Xô phóng vào ngày 12/9/1959 và tới Mặt Trăng và
 
 ⟦folio 19⟧
 
-Cơm. 2.
+Hình 2.
 
 năm. Một từ kế SG được lắp trên tên lửa.
 
 Hình 2 cho thấy số đọc của cả ba cuộn dây từ kế khi các gói hàng rơi xuống Mặt trăng. Mô hình (giá trị tuyệt đối) của trường $B = \sqrt{B_x^2 + B_y^2 + B_z^2}$ được hiển thị ở trên cùng. Độ nhạy của thiết bị là 30γ. Như có thể thấy trong Hình 2, thiết bị không phát hiện được trường không đổi lớn hơn 100γ. Nếu một trường như vậy tồn tại trên bề mặt Mặt trăng thì với một ứng dụng nhạy cảm
-cơm. 3.
+hình 3.
 
 boron 30γ nó đã được phát hiện. Thiết bị đã truyền số liệu cuối cùng của nó từ độ cao 55 km so với bề mặt mặt trăng. Do đó, không có trường cố định nào vượt quá 100γ trên diện tích bề mặt nơi gói hàng được thanh toán.
 
@@ -92,7 +92,7 @@ thì năng lượng trung bình của các hạt tạo nên tia vũ trụ mặt 
 
 ⟦folio 20⟧
 
-Cơm. 4.
+Hình 4.
 
 Nona lái xe là hiện tại. Dòng điện trong từ trường chịu tác dụng của một lực F vuông góc với hướng của từ trường và vectơ vận tốc.
 
@@ -106,7 +106,7 @@ Tuy nhiên, không thể “xuyên thủng” lá chắn từ nên gió mặt tr
 
 Phía sau Trái đất, từ quyển tạo thành đuôi từ của Trái đất. Các đường sức biến dạng của trường Trái đất trong này
 
-Cơm. 5.
+Hình 5.
 
 ⟦folio 21⟧
 

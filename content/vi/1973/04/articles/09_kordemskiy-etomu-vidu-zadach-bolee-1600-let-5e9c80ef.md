@@ -43,7 +43,7 @@ Hoặc có thể $c$ là 10 $p$. 01 $\kappa$., số tiền này một số ngư�
 
 Nghiệm của phương trình này cũng cho chúng ta biết về những điểm trên đường thẳng
 
-Cơm. 1.
+Hình 1.
 
 $5x+3y=1001$ (xem hình), cả hai tọa độ đều là số tự nhiên (hoặc số nguyên - trong một số bài toán khác).
 

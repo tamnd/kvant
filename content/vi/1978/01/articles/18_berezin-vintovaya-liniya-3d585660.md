@@ -37,9 +37,9 @@ Hình 1 cho thấy một cách khác để có được một đường xoắn �
 
 Để xác định đường có khoảng cách ngắn nhất giữa hai điểm M₁ và M₂ trên bề mặt hình trụ (gọi là trắc địa), bạn cần lật bề mặt hình trụ lên một mặt phẳng, vẽ [M₁M₂] và đưa bề mặt về chế độ định vị. Đường trắc địa hóa ra là một đoạn của đường xoắn ốc.
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
 Hình chiếu của đường xoắn ốc lên mặt phẳng xOz là hình sin (bằng chứng).
 

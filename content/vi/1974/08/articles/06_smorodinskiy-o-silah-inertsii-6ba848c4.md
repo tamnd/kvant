@@ -84,7 +84,7 @@ Nhân tiện, chúng ta hãy lưu ý rằng Trái đất hữu ích cũng có th
 
 ⟦folio 31⟧
 
-Cơm. 1.
+Hình 1.
 
 Nếu chúng ta xem xét chuyển động của một vật thể trong các hệ thống báo cáo phi quán tính, thì chúng ta không thể quên rằng ngoài các lực tương tác thông thường, lực quán tính còn tác dụng lên các vật thể. Để viết phương trình chuyển động của một vật, bạn phải xác định được tất cả các lực. Lực của cơ thể phụ thuộc vào vị trí tương đối của cơ thể và vận tốc tương đối của chúng. Các lực quán tính do gia tốc chuyển động của hệ thống báo cáo gây ra rõ ràng cũng phụ thuộc vào bản chất chuyển động của chính hệ thống báo cáo.
 

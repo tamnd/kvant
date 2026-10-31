@@ -30,9 +30,9 @@ M421—M425; F432—F437
 
 M421. Với m và n tự nhiên nào (m < n) các ô không đồng dạng của một tờ giấy ca rô vô hạn có thể được sơn màu đen Mak sao cho bất kỳ hình chữ nhật nào có kích thước m × n chỉ chứa đúng một ô màu đen?
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
 (Hình 6). Khí đi qua thành ống được bơm ra khỏi bình C. Hãy ước tính tỉ số giữa nồng độ $^{235}$UF$_6$ và $^{238}$UF$_6$ trong khí được bơm. Khối lượng nguyên tử tương đối của flo là 19. (10cl.)
 
@@ -62,7 +62,7 @@ Bây giờ hãy xem xét một hình vuông n×n có hình vuông màu đen ở 
 
 M424. Qua cùng một đỉnh của hình tứ diện, vẽ một mặt phẳng chứa tâm của đường tròn ngoại tiếp mặt đối diện và vuông góc với mặt đối diện. Hãy chứng minh rằng bốn mặt phẳng này cắt nhau tại một điểm.
 
-Cơm. 7.
+Hình 7.
 
 M425. Có một số nagural $N$ nào sao cho bất kỳ số hữu tỉ nào giữa 0 và một đều có thể được biểu diễn dưới dạng tổng của $N$ nghịch đảo của các số nagur không?
 
@@ -116,7 +116,7 @@ N. Vasiliev
 
 F432. Quả cầu thủy tinh có khả năng tạo ra bong bóng hình cầu. Cần phải tìm cách đo đường kính của bong bóng. Quả bóng phải còn nguyên. Phương pháp này nên được mô tả càng ít càng tốt.
 
-Cơm. 8.
+Hình 8.
 
 Trước hết, chúng ta hãy tìm hiểu tâm của bong bóng khí nằm ở đường kính nào của quả bóng. Để làm điều này, đặt quả bóng trên một bề mặt nằm ngang và đợi cho đến khi nó ngừng lắc lư. Ở vị trí cân bằng ổn định của quả bóng, tâm bong bóng nằm trên đường kính thẳng đứng, phía trên tâm quả bóng (Hình 8).
 

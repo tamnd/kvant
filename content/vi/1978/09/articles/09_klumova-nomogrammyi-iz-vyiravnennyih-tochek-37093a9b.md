@@ -54,7 +54,7 @@ Chúng ta hãy sửa $\alpha$, $\beta$ tùy ý và xem xét tất cả các phư
 
 ⟦folio 31⟧
 
-Cơm. 3.
+Hình 3.
 
 ý kiến
 

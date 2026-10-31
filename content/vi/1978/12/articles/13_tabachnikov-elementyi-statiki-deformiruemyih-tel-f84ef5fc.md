@@ -42,7 +42,7 @@ Khi xem xét các điều kiện cân bằng của một vật thể biến dạ
 
 ⟦folio 44⟧
 
-Cơm. 4.
+Hình 4.
 Tôi ăn $\sigma_{\text{доп}}$. Chúng tôi giả sử một điện áp được xác định bằng thực nghiệm. Do đó, các điều kiện cường độ mẫu có thể được viết như sau:
 $$\sigma \leq \sigma_{\text{доп}}.$$
 Hãy giải quyết vấn đề cụ thể hơn một chút.
@@ -79,7 +79,7 @@ $$|\vec{R}_1| = |\vec{R}_2| = |\vec{R}| = \frac{m|\vec{g}|}{2\cos \alpha}.$$
 
 ⟦folio 45⟧
 
-Cơm. 6.
+Hình 6.
 
 Các lực đàn hồi $\vec{N}$ phát sinh trong mỗi thanh có độ lớn bằng các phản lực:
 

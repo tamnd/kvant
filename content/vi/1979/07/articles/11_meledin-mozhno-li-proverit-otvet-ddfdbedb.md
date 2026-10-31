@@ -48,7 +48,7 @@ Hãy kiểm tra kích thước. Tích của các khối lượng chia cho tổng
 
 Do đó, trong bài toán 1, độ căng của sợi không phụ thuộc vào tải nặng hơn ở bên trái hay bên phải của khối vị trí và chỉ số nào trong hai chỉ số - 1 hoặc 2 - biểu thị khối lượng của nó. Điều này có nghĩa là đáp số không nên thay đổi khi $m_1$ được thay thế bằng $m_2$ và $m_1$. Nói cách khác, biểu thức về độ căng chỉ phải đối xứng với $m_1$ và $m_2$. Tặng đáp số cho hành động này
 
-Cơm. 1.
+Hình 1.
 
 ⟦folio 42⟧
 
@@ -84,7 +84,7 @@ Bài toán 3. Một lực $\vec{F}$ hướng xuống dưới một góc $\alpha$
 
 $$\vec{a} = \frac{|\vec{F}| \cos \alpha - k (mg + |\vec{F}| \sin \alpha)}{m x}.$$
 
-Cơm. 3.
+Hình 3.
 
 ⟦folio 43⟧
 

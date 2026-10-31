@@ -38,7 +38,7 @@ lớp VIII
 
 1. Bất đẳng thức nào sau đây xác định tập hợp được hiển thị trong Hình 1 bằng cách gạch chéo?
 
-Cơm. 1.
+Hình 1.
 
 A) $y \leq x - 1$; B) $y \geq x - 1$; B) $y \leq 1 - x$; D) $y \geq 1 - x$; D) $y \leq x + 1$.
 
@@ -66,7 +66,7 @@ A) với mọi $x$; B) tại $x \neq 0$; B) tại $x > 0$; D) tại $x = 1$; D) 
 
 6. Hình 2 thể hiện bản phác thảo đồ thị của ba hàm số mũ $y = a^x$, $y = b^x$, $y = c^x$. Sự tương ứng giữa các cơ sở $a$, $b$ và $c$ là gì?
 
-Cơm. 2.
+Hình 2.
 
 A) $c < a < b$; B) $b < a < c$; B) $a < b < c$; D) $c < b < a$; D) $a < c < b$.
 
@@ -78,7 +78,7 @@ A) $\cos \alpha > 0$, $\sin \alpha > 0$; B) $\cos \alpha > 0$, $\sin \alpha < 0$
 
 8. Sự tương ứng giữa độ dài cạnh $a$ và $c$ của tam giác vuông $ABC$ với góc nhọn $\hat{A} = \alpha$ (Hình 3) là gì?
 
-Cơm. 3.
+Hình 3.
 
 A) $c = a \cos \alpha$; B) $c = \frac{a}{\cos \alpha}$; B) $c = a \sin \alpha$; D) $c = \frac{a}{\sin \alpha}$; D) $c = a \mathrm{tg} \alpha$.
 
@@ -86,7 +86,7 @@ A) $c = a \cos \alpha$; B) $c = \frac{a}{\cos \alpha}$; B) $c = a \sin \alpha$; 
 
 A) góc nhọn; B) chạy thẳng; B) góc tù; D) về chiều dài.
 
-Cơm. 5.
+Hình 5.
 
 37
 
@@ -97,7 +97,7 @@ A) tại $x \in \{x_1, x_2, x_3, x_4\}$; B) tại $x \in \{x_1, x_2, x_3, x_4\}$
 A) $6(x^5 + 1)^5$; B) $5x^4 \times (x^5 + 1)^5$; B) $30x^4(x^5 + 1)^5$; $\Gamma)$ $(5x^4)^6$; $\Delta)$ $6(5x^4)^5$.
 6. Hình 6 biểu diễn đồ thị của hàm bậc hai neoctor. Đồ thị nào A), B), B), $\Gamma$ nằm bên dưới nó?
 
-Cơm. 6.
+Hình 6.
 có thể là đồ thị đạo hàm của hàm số này?
 $\Delta)$ không có biểu đồ nào phù hợp.
 
@@ -106,13 +106,13 @@ Hình học
 A) nhất thiết phải lai giống; B) nhất thiết phải song song; B) nhất thiết phải giao nhau; $\Gamma)$ chéo hoặc song song; $\Delta)$ có thể cắt nhau, cắt nhau, song song.
 8. Điểm $A, B, C, D$ được lấy trên bề mặt của hình song song, như trong Hình 7 ($A, B, C$ là các đỉnh, $D$ là giữa cạnh). Vị trí tương đối trong không gian của các đường $AB$ và $CD$ là gì?
 
-Cơm. 7.
+Hình 7.
 đỉnh, $D$ là điểm giữa của cạnh). Vị trí tương đối trong không gian của các đường $AB$ và $CD$ là gì?
 
 A) giao nhau; B) lai giống; B) song song; $\Gamma)$ giao nhau hoặc cắt nhau; $\Delta)$ có thể cắt nhau, cắt nhau, song song.
 9. Điểm $M$ là điểm giữa của cạnh $CC_1$ song song với cạnh $ABCDA_1B_1C_1D_1$ (Hình 8). Sự phân tách vectơ $BM$ thành vectơ $a = AB, b = AD,$ $c = AA_1$ là gì?
 
-Cơm. 8.
+Hình 8.
 A) $\vec{a} + \vec{b} + \frac{1}{2}\vec{c}$; B) $\vec{a} + \vec{b} - \frac{1}{2}\vec{c}$; B) $\vec{b} + \frac{1}{2}\vec{c}$; $\Gamma)$ $\vec{b} - \frac{1}{2}\vec{c}$; $\Delta)$ $\vec{a} + \frac{1}{2}\vec{c}$.
 10. Tập hợp tất cả các giá trị có thể có của tích vô hướng $c = a \cdot b$ là gì nếu độ dài của vectơ $a$ và $b$ được biết là 2 và 3?
 A) $2 \leq c \leq 3$; B) $2 \leq c \leq 6$; B) $0 \leq c \leq 6$; $\Gamma)$ $-6 \leq c \leq 6$; $\Delta)$ $c$ có thể là bất kỳ số thực nào.

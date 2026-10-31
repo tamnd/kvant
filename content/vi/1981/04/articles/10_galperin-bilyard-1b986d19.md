@@ -45,7 +45,7 @@ Trong bida thật có ma sát; Khi một quả bóng chạm vào, nó sẽ mất
 
 Hình 2 cho thấy đường đi khái niệm mà một quả bóng sẽ di chuyển sau khi bị đánh vào một cái cơ. Quỹ đạo có thể kết thúc nếu quả bóng rơi vào túi, nó có thể
 
-Cơm. 1.
+Hình 1.
 
 ⟦folio 35⟧
 
@@ -61,7 +61,7 @@ Hóa ra quỹ đạo của một quả bóng bi-a giải quyết được câu h
 
 ⟦folio 36⟧
 
-Cơm. 5.
+Hình 5.
 
 chứa đầy chất ngọt tương ứng.) Đáp số được hiển thị trong Hình 5. Trong hình này, một đường chuyển động khác (tùy ý “không phải bi-a”) của con ong cũng được hiển thị bằng màu tương tự; sau khi phản xạ, nó biến thành một đường đứt nét màu xanh $AXYZB'''$ có chiều dài lớn hơn độ dài đoạn $AB'''$ - “quỹ đạo thẳng” của quả bi-a.
 
@@ -81,7 +81,7 @@ Bắt đầu di chuyển từ một điểm $B$, sau một số lượng bóng n
 
 ⟦folio 37⟧
 
-Cơm. 7.
+Hình 7.
 
 bây giờ giả sử rằng độ lớn bước nhảy bằng γ. Bằng cách lặp lại quy trình được mô tả $k$ lần, chúng ta thu được giá trị bước nhảy không quá $\frac{\alpha}{2^k}$. Nhưng đối với $k$ lớn, giá trị $\frac{\alpha}{2^k}$ trở nên rất nhỏ, do đó chúng ta chắc chắn sẽ có bất kỳ giá trị nhỏ tùy ý nào được chọn trên vòng tròn.
 

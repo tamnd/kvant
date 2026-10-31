@@ -134,12 +134,12 @@ M569. Một số số hiện đã được gửi đến. Được phép gán cho
 a) số 1/5;
 b) bất kỳ số hữu tỉ nào trong khoảng từ 0 đến 1.
 
-Cơm. 4.
+Hình 4.
 
 $$\frac{1}{3} = \frac{\frac{1}{2} + \frac{3}{8} + \frac{1}{8}}{3};$$
 $$\frac{1}{5} = \frac{\frac{1}{2} + \frac{1}{4} + \frac{1}{8} + \frac{3}{32} + \frac{1}{32}}{5}$$
 
-Cơm. 2.
+Hình 2.
 
 Hãy bắt đầu bằng việc biểu diễn số 1/5 và 1/q nói chung. Các số 1/2, 1/4, 3/4 rất dễ có được:
 
@@ -180,15 +180,15 @@ M. Serov
 
 F578. Đầu A và B của thanh AB trượt dọc theo các cạnh của góc vuông (Hình 1). Gia tốc ở giữa thanh (điểm C) phụ thuộc như thế nào vào góc α tạo bởi thanh ở một phía của góc này, nếu đầu B của thanh chuyển động với tốc độ không đổi $v$?
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
 F580. Trong mạch điện như hình vẽ, suất điện động của pin là E, điện trở trong là r, điện trở của điện trở là R. Khi khóa K1 đóng, kim điện kế lệch một góc α. Kim điện kế lệch đi một góc bao nhiêu nếu phím K1 đóng và phím K2 đóng? Độ lệch của kim tỷ lệ thuận với điện tích truyền qua điện kế.
 
-Cơm. 3.
+Hình 3.
 
-Cơm. 4
+Hình 4
 
 ◆
 

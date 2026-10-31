@@ -42,6 +42,6 @@ M2806. Có thể vẽ một đường đứt nét 20 khâu khép kín trên mộ
 
 ⟦figure⟧
 
-Cơm. 1
+Hình 1
 
 các đỉnh $A_{1}$ và $A_{12}$ sẽ đồng thời ở bên trong hoặc đồng thời bên ngoài đường viền C. Hơn nữa, liên kết $A_{12} A_{13}$ cắt đường viền C đúng một lần, có nghĩa là các đỉnh $A_{12}$ và $A_{13}$ nằm ở các phần khác nhau của mặt phẳng so với đường viền C: một ở bên trong, một ở bên ngoài. Chúng ta suy luận tương tự với các cặp đỉnh $A_{13}$ và $A_{14}, A_{14}$ và $A_{15}$, …, $A_{20}$ và $A_{1}$. Hóa ra $A_{12}, A_{14}$, …, $A_{20}$ nằm ở một phần của mặt phẳng so với đường viền C, và $A_{13}, A_{15}$, …, $A_{19}, A_{1}$ – ở một phần khác. Nhưng điều này mâu thuẫn với kết luận trước đây của chúng tôi rằng $A_{1}$ và $A_{12}$ nằm trong cùng một phần của mặt phẳng đối với C. Điều này hoàn thành lời giải. Đây là sơ đồ của một lời giải khác. Chúng ta hãy sử dụng định lý nổi tiếng sau đây về cách tô màu các miền (thực ra nó khái quát hóa các khái niệm “bên ngoài” và “bên trong” cho các đường đứt nét tự giao nhau).

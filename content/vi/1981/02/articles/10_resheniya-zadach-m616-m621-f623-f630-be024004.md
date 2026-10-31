@@ -35,11 +35,11 @@ M616. Có thể chia các số 1, 2, ..., 30 thành các nhóm a) năm số, b) 
 
 c) Với n và k nào thì có thể chia các số 1, 2, ..., nk thành n nhóm, mỗi nhóm k số sao cho tổng các số trong tất cả các nhóm đều bằng nhau?
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
-Cơm. 3.
+Hình 3.
 
 Chúng ta gọi một phân vùng thỏa mãn điều kiện bài toán là chính xác. Đáp số cho câu hỏi chung c) bài toán đưa ra
 
@@ -233,9 +233,9 @@ L. Ashkinazi
 
 F628. Trong một ống thẳng đứng dài $H=152$ cm, bịt kín ở đầu dưới, có rất nhiều không khí cao $h=76$ cm, bị nhốt trong rất nhiều thủy ngân (Hình 1). Áp suất khí quyển là $10^5$ Pa, và nhiệt độ là $t_0=17^\circ$ C. Không khí trong ống phải tăng đến nhiệt độ nào $t_1$ để toàn bộ thủy ngân biến mất?
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
 Áp suất không khí ban đầu trong ống là tổng áp suất thủy tĩnh của lượng thủy ngân có chiều cao $H-h=76$ cm và áp suất khí quyển. Áp suất khí quyển theo điều kiện bằng $10^5$ Pa≈76 cm thủy ngân. Nghệ thuật. Do đó, áp suất không khí ban đầu trong ống xấp xỉ bằng hai lần áp suất khí quyển.
 
@@ -269,7 +269,7 @@ $$T(z) = T_0 \frac{(3H-2z)z}{H^2}.$$
 
 ⟦folio 31⟧
 
-Cơm. 3.
+Hình 3.
 
 F629. Một quả cầu có khối lượng m được treo vào một lò xo có độ cứng k (lò xo nam châm). Điểm treo của lò xo thực hiện dao động điều hòa theo phương thẳng đứng có biên độ a và tần số $\omega$. Quả bóng chuyển động như thế nào khi dao động đều?
 

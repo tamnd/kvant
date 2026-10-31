@@ -112,7 +112,7 @@ $$\varphi = 2\pi \frac{l_0}{2b} = 2\pi \frac{a}{b} \text{tg} \alpha$$
 
 ⟦folio 4⟧
 
-Cơm. 7.
+Hình 7.
 
 miệng với bội số nguyên của 2π, tức là $n\varphi = 2\pi m$ hoặc $\frac{a}{b} \mathrm{tg} \alpha = \frac{m}{n}$ là số vô tuyến. Nếu số $(a/b) \mathrm{tg} \alpha$ là vô tỷ thì quỹ đạo trên hình xuyến sẽ mở - không tuần hoàn. Các điểm giao nhau của quỹ đạo với mỗi kinh tuyến cố định đều nằm trên đó `всюду пломно`, tức là sao cho chúng rơi vào bất kỳ vùng lân cận nào của bất kỳ điểm nào của nó*).
 
@@ -154,9 +154,9 @@ Vì vậy, hơn nữa chúng ta sẽ chỉ xem xét những bề mặt (tập h�
 
 Hai bề mặt như vậy được coi là tương đương (tương đương về mặt toán học)
 
-Cơm. 8.
+Hình 8.
 
-Cơm. 9.
+Hình 9.
 
 ⟦folio 6⟧
 
@@ -198,7 +198,7 @@ Trong trường hợp này, tia vẽ qua điểm tương ứng $M'$ (sao cho $|A
 
 ⟦folio 8⟧
 
-Cơm. 15.
+Hình 15.
 
 nên di chuyển cùng hướng dọc theo tam giác $Q$: quỹ đạo liên hợp trong $Q$ sau khi phản xạ sẽ cho một quỹ đạo bi-a trong tam giác $T$. Lý do tương tự cũng được áp dụng trong tất cả các trường hợp khác, bất kể tam giác nào $T_i$ quỹ đạo sẽ rời đi, vượt ra ngoài ranh giới của tam giác $Q$. Do đó, như trên (trong đoạn 1), quỹ đạo bi-a trong tam giác $T$ tương ứng với quỹ đạo của một quả bóng chuyển động cùng hướng bên trong tam giác $Q$ và nhảy - khi chạm tới các cạnh $Q$ - tới các điểm cản tương ứng của các bên (điểm bắt đầu của một trong các quỹ đạo này được thể hiện trong Hình 156).
 

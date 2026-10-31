@@ -39,11 +39,11 @@ translation_quality: draft
 
 10. Có hai mạch dao động có cuộn dây và tụ điện giống hệt nhau. Một lõi sắt được đưa vào cuộn dây ở một trong các mạch điện, làm tăng độ tự cảm của nó.
 
-Cơm. 3.
+Hình 3.
 
-Cơm. 4.
+Hình 4.
 
-Cơm. 5.
+Hình 5.
 
 hoạt động $n=4$ lần. Tìm tỉ số giữa tần số cộng hưởng của mạch và năng lượng của chúng nếu điện tích cực đại trên các tụ điện bằng nhau.
 

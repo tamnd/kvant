@@ -70,7 +70,7 @@ c) Chứng minh kết luận tương tự nếu cho phép đổi dấu đồng t
 
 **G. L. Komkin**
 
-Cơm. 2. Hình 3.
+Hình 2. Hình 3.
 
 **F119.** Một hộp diêm $AB$ với một quả bóng có khối lượng $M$ được treo vào hộp diêm $BC$ với một quả bóng có khối lượng $m$ (Hình 2). Điểm $A$ dao động theo phương nằm ngang với chu kỳ $T$. Tìm độ dài của sợi chỉ $BC$ nếu biết rằng sợi chỉ $AB$ luôn thẳng đứng. (10 lớp)
 
@@ -84,7 +84,7 @@ Cơm. 2. Hình 3.
 
 **F122.** Ba vật có khối lượng $m_1$, $m_2$ và $m_3$ có thể trượt dọc theo mặt phẳng ngang mà không ma sát (Hình 4), và $m_1 \gg m_2$ và $m_2 \ll m_3$. Xác định vận tốc cực đại mà hai vật cực đại có thể đạt được nếu tại thời điểm ban đầu
 
-**Cơm. 4.**
+**Hình 4.**
 
 cả hai đều không tích lũy được, nhưng cơ thể trung bình có tốc độ $v$. Các tác động được coi là hoàn toàn đàn hồi. (9 lớp)
 
@@ -156,7 +156,7 @@ Người thợ kim hoàn được đặt mua một chiếc nhẫn vàng có chi�
 
 Không khó để chứng minh rằng thể tích của một vòng hình cầu - vật thể thu được bằng cách biểu thị đoạn $AB$ xung quanh đường kính $MN$, không cắt đoạn này - bằng $$\frac{\pi}{6} AB^2 \cdot A_1B_1,$$ trong đó $A_1B_1$ là hình chiếu của dây cung $AB$ lên đường kính $MN$. Ví dụ, công thức này được đưa ra trong cuốn sách “Hình học cơ bản” của J. Adam, phần II, chương. IV, 500.
 
-Cơm. 4.
+Hình 4.
 
 ⟦folio 38⟧
 

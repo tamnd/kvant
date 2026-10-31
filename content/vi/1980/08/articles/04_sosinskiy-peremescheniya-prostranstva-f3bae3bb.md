@@ -51,7 +51,7 @@ Ngoài ra còn có hai hướng trong không gian: một hướng được đặ
 
 Các nhà toán học không thực sự thích nói về gimlet - họ thích xác định hướng của không gian bằng cách chỉ ra bộ ba vectơ không phẳng $(\vec{a}; \vec{b}; \vec{c})$.
 
-Cơm. 1.
+Hình 1.
 
 ⟦folio 3⟧
 
@@ -68,15 +68,15 @@ Vì vậy, việc xác định bộ ba vectơ không phẳng sẽ xác định m
 
 Nếu phép dịch $f$ biến đổi một bộ ba vectơ đã chọn thành bộ ba cùng dấu (có thể chứng minh rằng khi đó nó bảo toàn dấu của một trong hai bộ ba!), thì chúng ta sẽ nói rằng nó bảo toàn hướng; nếu không chúng ta sẽ tự nhiên
 
-Cơm. 2.
-Cơm. 3.
-Cơm. 4.
+Hình 2.
+Hình 3.
+Hình 4.
 
-Cơm. 5.
+Hình 5.
 
 ⟦folio 4⟧
 
-Cơm. 6.
+Hình 6.
 
 nói rằng việc di chuyển $f$ sẽ thay đổi hướng.
 
@@ -108,7 +108,7 @@ Dễ dàng nhận thấy thành phần của chuyển vị là chuyển vị (đ
 
 ⟦folio 5⟧
 
-Cơm. 7.
+Hình 7.
 
 Trong những ví dụ này, bố cục dẫn đến sự dịch chuyển mà chúng ta đã biết trước đây. Nhưng tất nhiên điều này không phải lúc nào cũng đúng - ví dụ như việc di chuyển
 
@@ -126,7 +126,7 @@ $$5^\circ. \text{Композиция поворота } R_{l,\varphi} \text{ и
 
 Chúng tôi sẽ sớm cần tuyên bố này; Hãy chứng minh điều đó Với mục đích này, chúng tôi phân tách vectơ $c$ thành tổng $\vec{c} = \vec{c}_1 + \vec{c}_2$, trong đó vectơ $\vec{c}_1$ hướng dọc theo trục $l$ và $\vec{c}_2$ vuông góc với trục này. Thành phần của các bản dịch song song tương ứng với tổng các vectơ, do đó $\vec{c} = \vec{c}_2 \circ \vec{c}_1$, do đó nhờ vào (3)
 
-Cơm. 8.
+Hình 8.
 
 $$\vec{c} \circ R_{l,\varphi} = (\vec{c}_2 \circ \vec{c}_1) \circ R_{l,\varphi} = \vec{c}_2 \circ (\vec{c}_1 \circ R_{l,\varphi}) = \vec{c}_2 \circ (R_{l,\varphi} \circ \vec{c}_1) = (\vec{c}_2 \circ R_{l,\varphi}) \circ \vec{c}_1.$$ (4)
 

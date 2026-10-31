@@ -367,7 +367,7 @@ Những điều bất ngờ trong năm mới 12
 3. $T=2\pi\sqrt{(L\cos\alpha)/g}$.
 4. $x_M \geqslant \mu(M+m)g/k$.
 
-Cơm. 1.
+Hình 1.
 
 Olympic Vật lý quốc tế lần thứ XIII
 
@@ -379,7 +379,7 @@ b) Độ lệch pha được xác định từ điều kiện $tg\varphi = \omeg
 d) Khi tiếp điểm trong bộ khởi động mở ra, một điện áp cảm ứng cao xuất hiện trên cuộn cảm, đủ để đốt cháy đèn (điện áp lưới điện nhỏ hơn điện áp đánh lửa).
 e) Sự phụ thuộc của quang thông vào thời gian được thể hiện trên Hình 2.
 
-Cơm. 2.
+Hình 2.
 
 e) Thời gian tái hợp của các ion và electron trong quá trình phóng điện khí khá dài - đó là lý do tại sao đèn luôn sáng.
 g) Điện dung của tụ điện có điện dung $C=4,7$ µF bằng $1/\omega C=677,3$ Ohm. Tổng điện trở của hệ thống trong trường hợp này là
@@ -398,7 +398,7 @@ $$I = I_0 + ms^2.$$
 Từ phương trình (1) và (2) chúng ta có
 $$I_0 + ms^2 = \left(\frac{T}{2\pi}\right)^2 mgs,$$
 
-Cơm. 3.
+Hình 3.
 
 trong đó $s = s_a$, $s_6$ và $s_B$ (Hình 3). Phương trình bậc hai này có thể có nhiều nhất hai lời giải khác nhau. Vì $s_B > 21_{cm} > s_a + s_6 = 10$ cm nên chỉ $s_a$ và $s_6$ có thể bằng nhau. Đó là lý do tại sao
 $$s_a = s_6 = 5 \text{ cm}, \quad s_B = \sqrt{21^2 + 5^2} \text{ cm} = 21,6 \text{ cm}.$$
@@ -433,7 +433,7 @@ d) Đối với những chênh lệch nhỏ về chiều cao (10 m so với 843 
 Nhiệm vụ 4.
 a) Để xác định tiêu cự $F$, thấu kính được đặt trên gương và cố định một cây bút chì vào ổ cắm. Thấu kính và gương chuyển động cho đến khi người nhìn vuông góc với vật quan sát thấy cây bút chì và ảnh của nó nằm cạnh nhau (Hình). Vì gương phản chiếu các tia sáng nên chúng truyền qua thấu kính hai
 
-Cơm. 4.
+Hình 4.
 
 Razza và chúng tôi nhận được một hình ảnh tương ứng với hình ảnh trong trường hợp lắp hai ống kính đằng sau ống kính kia:
 $$\frac{1}{d} + \frac{1}{f} = \frac{2}{F}.$$
@@ -442,7 +442,7 @@ $$\frac{1}{d} + \frac{1}{f} = \frac{2}{F}.$$
 $$\frac{1}{F} = (n - 1) \frac{2}{r}.$$
 Bán kính cong $r$ của một thấu kính đối xứng có thể tìm được như sau. Nếu bạn đổ một ít nước lên gương và đặt một thấu kính thủy tinh lên trên mặt nước, thì một thấu kính nước lõm phẳng sẽ hình thành giữa gương và gương (Hình.). Một trong các bán kính cong của nó bằng bán kính của thủy tinh
 
-Cơm. 5.
+Hình 5.
 linzy, còn cái kia thì vô cùng lớn. Đối với ống kính này
 $$\frac{1}{F_B} = (n_B - 1) \left( -\frac{1}{r} \right),$$
 Và
@@ -482,7 +482,7 @@ $$\parallel \parallel \parallel IV \cdot VIII = XXXII$$
 
 2. Bạn có thể: bạn cần thắt chặt một trong các nút thắt và kéo nó qua nút thứ hai (Hình 7).
 
-Cơm. 7.
+Hình 7.
 
 3.
 
@@ -506,7 +506,7 @@ lớp 8
 
 1. Đáp số: $r_1 r_2$. Lời giải. Đường thẳng $O_1 O_2$ là trục đối xứng của góc $MO_1 K$ và cả hai đường tròn nên tứ giác $MO_1 KO_2$ được đường này chia thành hai tam giác bằng nhau và $S_{MO_1 KO_2} = 2 S_{O_1 MO_2}$. Hơn nữa, nếu bán kính $O_1 M$ được lấy làm đáy của tam giác $O_1 MO_2$, thì chiều cao của nó sẽ là bán kính $O_2 H$ của hình tròn thứ hai được vẽ đến điểm tiếp tuyến $H$ (Hình 8). Tất cả những gì còn lại là sử dụng công thức tính diện tích hình tam giác.
 
-Cơm. 8.
+Hình 8.
 
 2. Đáp số: ba số. Lời giải. Hãy viết ra một số thuật ngữ đầu tiên
 $$(a_n) = 1, 2, 3, 5, 8, 13, ...$$
@@ -528,7 +528,7 @@ hoặc đến vào Chủ Nhật, khi không có II, hoặc vào thứ Bảy, khi
 $$\gamma = \pi - \alpha - \beta, \delta = \alpha + \beta, \varepsilon = 2\pi - 2\alpha - 2\beta = 2\gamma.$$
 Chúng ta hãy nối $M$ với tâm của hình bình hành $O$.
 
-Cơm. 9.
+Hình 9.
 
 Điểm $O$ cách đều các đường thẳng $AD$ và $AM$, $BC$ và $BM$, $AD$ và $BC$ và do đó với $AM$ và $BM$ - MO là đường phân giác của góc $AMB$.
 
@@ -543,7 +543,7 @@ $$\frac{1/2x + 1/4x}{2} \geq \sqrt{1/2x \cdot 1/4x} = 5x.$$
 Từ hai bất đẳng thức này ta có chứng minh sau.
 7. Bằng chứng. Hãy xem xét hình 12 ô được hiển thị trong Hình 11. Nó
 
-Cơm. 10. Hình 11.
+Hình 10. Hình 11.
 
 có tính chất là mỗi ô của nó được bao quanh bởi ít nhất bốn ô có cùng hình dạng. Vì vậy, ô của hình trong đó số nhỏ nhất của hình này được ghi sẽ là ô mong muốn (có thể có một số ô như vậy).
 

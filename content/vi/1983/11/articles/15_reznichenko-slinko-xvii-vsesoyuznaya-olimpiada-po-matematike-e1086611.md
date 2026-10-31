@@ -51,7 +51,7 @@ lớp 8
 
 1. Trong lưới hiển thị ở Hình 1, mỗi ô có kích thước 1x1. Lưới này có thể được biểu diễn dưới dạng hợp của các bộ sau: a) tám đường đứt nét, mỗi đường có chiều dài 5; b) gãy gót, mỗi gót có chiều dài 8? (M824).
 
-Cơm. 1.
+Hình 1.
 
 2. Ba số nguyên được viết lên bảng. Sau đó, một trong số chúng bị xóa và tổng của hai số còn lại, giảm đi một, được viết lại với nhau. Những hoạt động này được lặp đi lặp lại nhiều lần do thu được
 
@@ -100,7 +100,7 @@ lớp 8
 
 7. Có thể sắp xếp các số nguyên trong các ô của một tờ giấy ca rô vô hạn sao cho trên mỗi đường thẳng các dấu chia trên đó cũng có kích thước bằng nhau không? Diện tích của một hình tứ giác là bao nhiêu nếu diện tích của một hình tam giác là 1 cm²? (M827)
 
-Cơm. 2.
+Hình 2.
 
 lớp 9
 

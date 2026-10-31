@@ -104,7 +104,7 @@ Hãy tưởng tượng rằng một màng siêu dẫn được lắng đọng tr
 
 ⟦folio 8⟧
 
-Cơm. 2.1 - màng kim loại; 2 - lớp điện môi; 3 - chất nền.
+Hình 2.1 - màng kim loại; 2 - lớp điện môi; 3 - chất nền.
 
 Trước tiên chúng ta hãy thảo luận về trường hợp màng kim loại ở trạng thái bình thường (không siêu dẫn). Các electron từ một màng kim loại (Hình 3a) có thể di chuyển sang màng khác không? Có vẻ như không - lớp điện môi cản trở chúng. Để rời khỏi kim loại, một electron phải có năng lượng lớn hơn hàm công và ở nhiệt độ thấp thực tế không có electron nào có năng lượng như vậy. Hình 3.6 biểu diễn đồ thị thế năng W của electron theo tọa độ x (trục X vuông góc với mặt phẳng sandwich). Trong kim loại, electron chuyển động tự do và thế năng của nó bằng không. Để đi vào chất điện môi, cần phải thực hiện hàm công W_B, lớn hơn động năng và do đó lớn hơn năng lượng tổng của electron W_9*). Do đó, họ nói rằng các electron trong màng kim loại có chung một rào thế, chiều cao của nó là W_B-W_9.
 
@@ -128,7 +128,7 @@ Các tiếp điểm đường hầm làm bằng kim loại thông thường đư
 
 Như đã đề cập, các electron ở màng trên có năng lượng dư thừa $eU$ so với các electron ở màng dưới. Chúng thu được năng lượng này bằng cách được gia tốc bởi điện trường trong lớp điện môi mà chúng xuyên qua. Khi ở trong màng dưới, chúng phải giải phóng năng lượng dư thừa và chuyển sang trạng thái cân bằng. Nếu màng ở trạng thái bình thường thì điều này sẽ dễ thực hiện - chỉ cần một vài va chạm với mạng tinh thể kim loại là đủ và năng lượng dư thừa của các electron cuối cùng sẽ chuyển sang trạng thái cân bằng.
 
-Cơm. 4.
+Hình 4.
 
 bước đi trong sự ấm áp. Nhưng màng ở trạng thái siêu dẫn và các electron không thể truyền năng lượng cho mạng! Vì vậy, tất cả những gì còn lại là các electron phát ra năng lượng này dưới dạng lượng tử bức xạ điện từ có năng lượng $h\omega$. Do đó, một phần của bức xạ $\omega$ liên quan đến điện áp đặt vào $U$ đơn giản bằng mối quan hệ
 
@@ -154,7 +154,7 @@ Từ kế lượng tử đơn giản nhất bao gồm một bóng đèn siêu d�
 
 *) Điều tò mò là nếu trong tiếng Nga đầy đủ, tên được thay thế bằng từ “thiết bị” bằng từ “máy dò” (và điều này chỉ làm rõ tên, nó sẽ cho biết việc sử dụng các thiết bị này làm máy ghi âm), thì tên viết tắt sẽ phát ra giống nhau trong cả tiếng Nga và tiếng Anh.
 
-Cơm. 5.
+Hình 5.
 
 tuy nhiên, giá trị tối đa cho phép của dòng điện siêu dẫn đối với tiếp điểm (nó được gọi là dòng điện tới hạn của tiếp điểm $I_k$. Ở cùng một giá trị tới hạn, chất siêu dẫn trong tiếp điểm bị phá hủy và xuất hiện điện áp trên nó (hiệu ứng Josephson trở nên không cố định).
 
@@ -188,13 +188,13 @@ Khi trường ngoài tăng thêm, dòng điện trong bóng đèn bắt đầu g
 
 ⟦folio 12⟧
 
-Cơm. 6.
+Hình 6.
 
 Cấu trúc của từ kế lượng tử thực sự phức tạp hơn nhiều. Do đó, nó thường sử dụng không phải một mà là một số kết nối yếu được kết nối song song - sự giao thoa đặc biệt của dòng điện siêu dẫn dẫn đến tăng độ chính xác của phép đo (đó là lý do tại sao các thiết bị này còn được gọi là thiết bị giao thoa). Phần tử độ nhạy của thiết bị được ghép cảm ứng với cuộn dây của mạch dao động, trong đó các xung từ thông được chuyển đổi thành các xung điện áp, sau đó bị tắt dần. Nhưng nói về tất cả những điều tinh tế này nằm ngoài phạm vi của bài viết này.
 
 Lưu ý rằng từ kế siêu nhạy ngày nay đo từ trường với độ chính xác $10^{-15}$ T đã là sản phẩm công nghiệp được sử dụng rộng rãi trong công nghệ đo lường. Ví dụ như ngày đó không còn xa nữa
 
-Cơm. 7.
+Hình 7.
 
 khi đo từ tâm đồ*), được thực hiện bằng SQUID, thực hiện thay đổi định lượng đối với nguồn hiện tại bằng EMF $\mathcal{E}$. Một dòng điện sẽ xuất hiện trong vòng, dòng điện này sẽ luôn tăng lên. Trong trường hợp này, tốc độ thay đổi của dòng điện $\Delta I/\Delta t$ phải sao cho emf tự cảm ứng $\mathcal{E}_{is} = -L\Delta I/\Delta t$ bù cho emf bên ngoài $\mathcal{E}$ (điện trở của chất siêu dẫn và do đó điện áp rơi trên nó bằng 0):
 

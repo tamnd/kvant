@@ -28,11 +28,11 @@ F270. Trong một ống nghiệm dài, cách đầu bịt kín $l_1$ có một b
 
 F271. Tính mật độ trung bình $\rho$ của điện tích trong khí quyển nếu biết hướng của trường điện tử trên bề mặt Trái đất là 100 $\beta \cdot m^{-1}$, và ở độ cao $h = 1,5$ km hướng này giảm xuống còn 25 $\beta \cdot m^{-1}$.
 
-Cơm. 4.
+Hình 4.
 
 F272. Một ma trận có chiều dài $l$ được treo trên một bức tường nghiêng một góc $\alpha$ so với phương thẳng đứng (Hình 5). Mô mềm bị lệch trong mặt phẳng vuông góc với tường một góc nhỏ $\beta$ so với phương thẳng đứng và được thả ra. Tìm chu kỳ dao động của ma trận nếu $\beta > \alpha$ và va chạm của quả bóng lên tường là đàn hồi tuyệt đối.
 
-Cơm. 5.
+Hình 5.
 
 Lời giải bài toán
 
@@ -66,7 +66,7 @@ Phương pháp này rất dễ khái quát hóa và khi đó, thực tế là d�
 
 **M213. Cho một nút có đỉnh O và một đường tròn tiếp xúc với đường thẳng của nó trong các tu sĩ A và B. Một tia được vẽ từ điểm A song song với OB,**
 
-Cơm. 4.
+Hình 4.
 
 ⟦folio 34⟧
 

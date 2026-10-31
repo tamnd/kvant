@@ -62,7 +62,7 @@ Vì mỗi công nhân chất gạch trong một giờ nên số công nhân đư
 
 ⟦folio 41⟧
 
-Cơm. 1.
+Hình 1.
 
 (đối với hàng nghìn mảnh), sẽ được biểu thị bằng đẳng thức
 $$x = 6t_1 + 7t_2 + \ldots + 0t_{12} + 0t_{13},$$
@@ -83,11 +83,11 @@ Bao lồi của tập $M$ là tập lồi nhỏ nhất chứa $M$ (Hình 4). Vì
 
 Để chứng minh rằng tập có thể tới được $A_1$ là bao lồi của tập $\{\alpha_1, \alpha_2, \ldots, \alpha_{13}\}$, chúng ta đưa ra một định nghĩa khác cho khái niệm bao lồi.
 
-Cơm. 2.
+Hình 2.
 
-Cơm. 3.
+Hình 3.
 
-Cơm. 4. Trong cả hai cặp, tập bên phải là bao lồi của tập bên trái.
+Hình 4. Trong cả hai cặp, tập bên phải là bao lồi của tập bên trái.
 
 *) Từ tiếng Latin conprhius (“lồi”).
 

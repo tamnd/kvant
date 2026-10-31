@@ -96,7 +96,7 @@ kg - hơn ba tấn.
 
 ⟦folio 38⟧
 
-Cơm. 2.
+Hình 2.
 
 dài và có diện tích lớn (Hình 1) thì rõ ràng chỉ cần chứng minh các bất đẳng thức a), 6) cho một tứ giác lồi là đủ. Vì vậy, chúng ta sẽ chỉ xét các tứ giác lồi.
 
@@ -140,7 +140,7 @@ Một lưu ý nữa. Bạn có nghĩ rằng điều kiện cần và đủ (5) �
 
 ⟦folio 39⟧
 
-Cơm. 4.
+Hình 4.
 
 Dễ dàng kiểm tra (Hình 5) rằng điều kiện (5) tương đương đơn giản như sau: tứ giác ABCD là vipsan và AC⊥BD.
 
@@ -148,7 +148,7 @@ Bây giờ chúng ta có thể phát biểu kết quả như sau: để thỏa m
 
 (Đồng thời, chúng ta cũng đã chứng minh được rằng với các tứ giác như vậy thì điều kiện (7) được thỏa mãn. Hãy nhớ cách thực hiện điều này!).
 
-Cơm. 5.
+Hình 5.
 
 Ngoài lời giải với “đảo nghịch tam giác”, một bất đẳng thức đơn giản khác lời giải bài toán 6) dựa trên bất đẳng thức Pmolemy, tức là dựa trên định lý sau (xem “Lượng tử” số 4, 1972, trang 45, lời giải M99):
 
@@ -330,7 +330,7 @@ F155
 
 Một mol khí được hớt sao cho thể tích của nó trong quá trình hớt bọt tỷ lệ thuận với nhau
 
-Cơm. 10.
+Hình 10.
 
 áp suất $V = \alpha P$. Áp suất khí tăng từ $P_1$ lên $P_2$. Tìm hệ số $\alpha$ nếu nhiệt dung của khí này ở thể tích không đổi là $c_V$ và trong quá trình đó lượng nhiệt bị mất từ ​​không khí được truyền vào khí:
 
@@ -425,7 +425,7 @@ $$a_D = a_ц = \frac{(v_0 + at)^2}{R}.$$
 
 ⟦folio 47⟧
 
-Cơm. 12.
+Hình 12.
 
 F158
 

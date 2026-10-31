@@ -39,9 +39,9 @@ $$\begin{cases} x^2 + y^2 + z^2 = R^2 \\ x^2 + y^2 = Rx \end{cases}$$
 
 Pis. 1.
 
-Cơm. 2.
+Hình 2.
 
-Cơm. 3.
+Hình 3.
 
 đại diện cho một cung paravola.
 

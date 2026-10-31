@@ -118,11 +118,11 @@ Gợi ý. Sử dụng vectơ dia-
 
 ⟦folio 60⟧
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
-Cơm. 3.
+Hình 3.
 
 gam dòng điện và điện áp như trong Hình 1.
 
@@ -258,7 +258,7 @@ U=1+2ε/ε Q₀/C₀=250 B.
 P₂′=4P₁²P₂/(P₁+P₂+P₃)²=16 ​​​​Wt;
 P₃′=4P₁²P₃/(P₁+P₂+P₃)²=32 Trọng lượng.
 
-Cơm. 4
+Hình 4
 
 8. Eₘ=2πfnSB≈62,8 B.
 9. x=F/2. Gợi ý. Xem hình. 4, trong đó S₁ là hình ảnh nguồn thực và S₂ là hình ảnh tối thiểu.
@@ -292,7 +292,7 @@ $$10 \text{ PIENTI}1000: 10T = 9abc9\text{ deg.}$$
 $$10T \cdot 9abc9\text{ deg} = 10 \text{ PIENTI}1000$$
 chia hết cho $1000 = 2^3 \cdot 5^3$. Điều này có nghĩa là một trong những số này là số lẻ nhưng chia hết cho 125,
 $$3074258916.$$
-Cơm. 5.
+Hình 5.
 
 Lượng tử dành cho học sinh nhỏ tuổi
 (xem «Kvant» số 1)

@@ -25,7 +25,7 @@ translation_quality: draft
 
 ⟦folio 17⟧
 
-Cơm. 3. Cực Newton trong ánh sáng phản xạ.
+Hình 3. Cực Newton trong ánh sáng phản xạ.
 
 theo giả thuyết của Huygen, nó di chuyển trong nhiều môi trường khác nhau.
 

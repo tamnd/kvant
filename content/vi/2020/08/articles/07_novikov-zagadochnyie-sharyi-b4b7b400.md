@@ -68,11 +68,11 @@ khả năng đồng thời bắt đầu di chuyển xuống. Trong trường h�
 
 ⟦figure⟧
 
-Cơm. 1
+Hình 1
 
 ⟦figure⟧
 
-Cơm. 2
+Hình 2
 
 mà không cố gắng làm xáo trộn trạng thái bất động. Lúc này đường trắng trên thân quả bóng không song song với đường thẳng đứng mà hướng vuông góc với mặt phẳng nghiêng. Trong trường hợp này, quả bóng có thể đứng yên trên một mặt nghiêng
 
@@ -88,13 +88,13 @@ quả bóng sẽ quay theo hướng khác. Điều gì có thể là lý do cho 
 
 ⟦figure⟧
 
-Cơm. 4
+Hình 4
 
 ổ cắm để kết nối nó với pin AA. Nếu kết nối như vậy được thực hiện, quả bóng bắt đầu rung và bàn chải bắt đầu di chuyển theo một hướng nhất định. Khi thay đổi cực của pin, hướng chuyển động của bàn chải và quả bóng sẽ bị đảo ngược. Tại sao?
 
 Giải thích thí nghiệm
 
-Cơm. 3
+Hình 3
 
 Thí nghiệm 1. Đáp số “nằm trên mặt phẳng”: khối lượng của một quả bóng lớn hơn khối lượng của quả bóng kia. Quả bóng nhẹ hơn sẽ lăn xuống mặt phẳng nghiêng nhanh hơn; trong trường hợp của chúng tôi, nó trống rỗng. Một quả bóng lớn có mômen quán tính lớn hơn một quả bóng rỗng và nó cần nhiều năng lượng hơn để quay. Để chứng minh thí nghiệm này, chúng tôi đặt một miếng cao su xốp có gắn một số lượng lớn các viên bi chì khổng lồ vào bên trong quả bóng thứ hai. Thí nghiệm 2. Có thể có chất lỏng bên trong quả bóng. Khi quả bóng lăn, chất đó từ từ di chuyển từ vị trí cao hơn đến vị trí thấp hơn. Điều này làm chậm chuyển động của quả bóng xuống mặt phẳng nghiêng. Trong phiên bản của chúng tôi, những viên chì nhỏ (đường kính không quá 1 mm) đã được sử dụng cho việc này.
 
@@ -148,9 +148,9 @@ KVA NT 2020/Số 8
 
 ⟦figure⟧
 
-Cơm. 4
+Hình 4
 
-Cơm. 5
+Hình 5
 
 ⟦column⟧
 
@@ -170,7 +170,7 @@ NGUYÊN VẬT LIỆU
 
 ⟦figure⟧
 
-Cơm. 6
+Hình 6
 
 Được biết, tất cả các số, ngoại trừ số 49, đều xuất hiện trong số những số được nhập hai lần (không nhất thiết phải liên tiếp). Số thứ 49 là bao nhiêu nếu chúng ta biết số thứ 11 là 200 và số 77 là số 3, và kết quả là chương trình xuất ra 55?
 
@@ -182,7 +182,7 @@ Cơm. 6
 
 ⟦figure⟧
 
-Cơm. 7
+Hình 7
 
 các ô được rào lại bởi những không gian bị chiếm dụng từ không gian dành cho người ăn táo. Người ăn táo được đặt ở góc trên bên trái - một ô có tọa độ (1, 1) - của một mảng ngăn xếp có kích thước 2n + 1 x 2n + 1, 1 < n < 1000, trong đó ở “cột” ở giữa và ở “hàng” ở giữa, tất cả các ô ngoại trừ ba ô ở giữa đều bị chiếm giữ. a) Người ăn táo sẽ chiếm xong cái giá ở ô nào khi n = 4? b) Người ăn táo sẽ hoàn thành việc chiếm được cái giá ở ô nào tại n = 789?
 
@@ -214,7 +214,7 @@ $( A \int ( ÿ A > B ) ) Ÿ ( B \int ( B Æ A ) )$.
 
 ⟦figure⟧
 
-Cơm. 8
+Hình 8
 
 cú trong miền. Có bao nhiêu bit thông tin về giá trị của X mà thông báo “Các truy vấn “dứa & tình trạng hỗn loạn” và “dứa & sừng” trả về cùng một số kết quả” chứa, với điều kiện là giá trị của Y được biết và nằm trong phạm vi từ 25 đến 35?
 

@@ -49,9 +49,9 @@ Nhiệm vụ 2 (MAI, 1973). Cơ sở của paramid là các hình bình hành, d
 
 *) Xem “Hình học 10”, § 50.
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
 ⟦folio 49⟧
 
@@ -75,7 +75,7 @@ $$S_{60k} = 2(S_{\triangle EAD} + S_{\triangle BAC}) =$$
 $$= 2(S_{\triangle EAD} + S_{\triangle E_1AD_1}) =$$
 $$= 2\left[S_{\triangle EAD} + S_{\triangle EAD} \cos\left(\frac{\pi}{2} - \beta\right)\right] =$$
 
-Cơm. 3.
+Hình 3.
 
 Bài toán 4 (KPI, 1975). Một quả bóng được ghi theo đúng hình dạng của kim tự tháp; mặt bên của kim tự tháp này đóng vai trò là đáy của một kim tự tháp khác, đỉnh của kim tự tháp này nằm ở tâm của quả bóng và obtem của kim tự tháp này bằng $1/6$ obtema của kim tự tháp này. Xác định các giá trị của góc hai chiều ở đáy và góc phẳng ở đỉnh của hình chóp nằm phía trên.
 
@@ -91,7 +91,7 @@ Bài toán 5 (LSU, 1968). Thiết lập mối liên hệ giữa cosin
 
 ⟦folio 50⟧
 
-Cơm. 5.
+Hình 5.
 
 mi các góc α và β tạo thành một tam giác đều cạnh giữa mặt bên với mặt phẳng đáy và với mặt bên liền kề.
 

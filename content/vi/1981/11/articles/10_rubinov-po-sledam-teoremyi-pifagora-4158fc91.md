@@ -58,16 +58,16 @@ Kết hợp các cung và hình tròn, lỗ và hình tam giác cung, chúng ta 
 
 *) Ta nói rằng các hình đồng dạng $F_a, F_b, F_c$ được dựng trên các cạnh $a, b, c$ của tam giác ABC nếu, với độ tương tự $F_x \rightarrow F_y$, cạnh $x$ đi về cạnh $y$ ($x, y \in \{a, b, c\}$).
 
-Cơm. 1. a)
+Hình 1. a)
 b)
 
 a)
 b)
 
 $\frac{\pi a^2}{4} + \frac{\pi b^2}{4} = \frac{\pi c^2}{4}$
-Cơm. 3.
-Cơm. 4
-Cơm. 5. a)
+Hình 3.
+Hình 4
+Hình 5. a)
 b)
 
 $\frac{a^2}{4} + \frac{b^2}{4} = \frac{c^2}{4}$
@@ -75,13 +75,13 @@ $s = \frac{a^2}{4}$
 
 ⟦folio 35⟧
 
-Cơm. 13.
+Hình 13.
 
-Cơm. 15.
+Hình 15.
 
-Cơm. 14.
+Hình 14.
 
-Cơm. 16.
+Hình 16.
 
 một lần nữa tổng diện tích của hình màu xanh bằng diện tích của hình màu đỏ.
 
@@ -89,6 +89,6 @@ Hình 9-12 hiển thị ba hình có kích thước bằng nhau: trong Hình 9 -
 
 Để kết luận, chúng tôi đề nghị bạn chứng minh rằng tổng diện tích của ba hình tam giác cong màu xanh lam dựng trên các cạnh của một hình thang hình chữ nhật, có đường chéo vuông góc với một cạnh (Hình 17), bằng diện tích của hình thang đó
 
-Cơm. 17.
+Hình 17.
 
 cùng một hình tam giác được xây dựng trên một đáy lớn hơn. Bây giờ bạn sẽ cần không quá hai phút để làm điều này!

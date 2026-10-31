@@ -98,9 +98,9 @@ Chúng tôi sẽ trình bày hai lời giải trong số bài toán này: cái t
 
 CA và AB), các đoạn AA₁, BB₁ và CC₁ cắt nhau tại một điểm P. Chứng minh rằng các đường thẳng nối trung điểm của các cạnh AB và A₁B₁, BC và B₁C₁, CA và C₁A₁ cắt nhau tại một điểm P, Q và tâm tam giác ABC cùng nằm trên một đường thẳng.
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
 việc thỏa mãn hai điều kiện: điều kiện $\frac{|AB_1|}{|B_1C|} = \frac{c}{a}$, đảm bảo rằng trọng tâm thuộc đường thẳng BB₁ và điều kiện $\frac{|AC_1|}{|C_1B|} = \frac{b}{a}$, đảm bảo rằng trọng tâm thuộc về đường thẳng CC₁. (Khi đó $\frac{|BA_1|}{|A_1C|} = \frac{c}{b}$; qua đó ta đã chứng minh thành công định lý Ceva:
 
@@ -122,11 +122,11 @@ Gọi X₂, Y₂ và Z₂ là trung điểm của các đoạn AP, BP và CP. V�
 
 ⟦folio 27⟧
 
-Cơm. 3.
+Hình 3.
 
-Cơm. 4.
+Hình 4.
 
-Cơm. 5.
+Hình 5.
 
 Mặt khác, nếu $S$ là trọng tâm của tam giác $ABC$ (tức là giao điểm của các đường trung tuyến của nó) thì trọng tâm của hệ điểm $\{A, B, C, P\}$ nằm trên đoạn $PS$. Ở trên chúng ta đã chỉ ra rằng trọng tâm của hệ này nằm ở điểm $Q$; có nghĩa là $Q \in [PS]$. Hơn nữa, vì để tìm trọng tâm của hệ $\{A, B, C, P\}$ theo cách cuối cùng, chúng ta phải đặt một khối lượng ba đơn vị tại điểm $S$, điểm $Q$ chia đoạn $PS$ theo tỷ lệ 3:1.
 
@@ -153,9 +153,9 @@ F. Vayshtein, N. Vasiliev
 M493. Chứng minh bất đẳng thức
 $0,785n^2 - n < \sqrt{n^2 - 1} + \sqrt{n^2 - 2^2} + \dots + \sqrt{n^2 - (n - 1)^2} < 0,79n^2$.
 
-Cơm. 6.
+Hình 6.
 
-Cơm. 7.
+Hình 7.
 
 Hãy lấy một phần tư hình tròn có bán kính đơn vị: $O$ là tâm hình tròn, $[OA]$ là bán kính, $|OA| = 1$ (Hình 6). Chúng ta hãy chia đoạn $OA$ thành $n$ phần tắc nghẽn ($n$ là số tự nhiên tùy ý). Trên các đoạn chia $n - 1$ đầu tiên thu được (tính từ điểm $O$), chúng ta dựng một đường thẳng dài sao cho ở đỉnh cao nhất, các đỉnh trên của tất cả các hình chữ nhật nằm trên cung của hình tròn $BA$, giới hạn “một phần tư hình tròn” của chúng ta (xem Hình 6). Chúng ta nhận được $n - 1$ hình chữ nhật, tổng diện tích của chúng nhỏ hơn một phần tư hình tròn có bán kính đơn vị, tức là nhỏ hơn $\frac{\pi}{4} < 0,79$.
 
@@ -239,7 +239,7 @@ Từ đây là
 
 F505. Khoảng cách từ mạch sạc tụ điện đến pin (Hình 11). Tụ điện được sạc đến điện áp pin $U$, năng lượng ven biển $\frac{C_1 U^2}{2}$ và sạc $q = C_1 U$. Khoản phí này được lấy từ pin, komorai, châm ngôn, chúng tôi thực hiện công việc $q U = C_1 U^2$. Hệ số hiệu quả là 1/2. Tên của tụ điện sạc để tạo điện áp cho ắc quy có hiệu suất cao. Không có lý do gì để sử dụng các nguồn năng lượng bổ sung.
 
-Cơm. 10.
+Hình 10.
 
 $$\omega_1^2 = \frac{|\vec{g}|}{l} (2 \pm \sqrt{2}),$$
 $$\omega_1 = \sqrt{\frac{|\vec{g}|}{l}} (2 + \sqrt{2}),$$
@@ -303,9 +303,9 @@ Trong thời gian này, pin sẽ hoạt động $\frac{CU^2}{2}$, một phần $
 
 F506. Dưới pít-tông của hình trụ có một thùng chứa rumv, chiếm thể tích $V_p$ và k mol khí lý tưởng. Diện tích bề mặt của piston là $S$. Piston và đáy xi lanh được làm bằng vật liệu được làm ướt một cách lý tưởng bởi xi lanh. Thể tích dưới pít-tông đối xứng với trục xi-lanh có dạng như hình 15. Lực $F$ tác dụng lên pít-tông. 1) Suy ra phương trình trạng thái của hệ rumv + eaz có dạng $p = f(V, T)$, thực phẩm $p$ – áp suất, $T$ – nhiệt độ tuyệt đối, $V$ – thể tích phần bình đặt dưới pít-tông. 2) Được đặt tên theo $p = 0$. Bề mặt của bề mặt tự nhiên σ. Chúng ta không tính đến sức mạnh của sự dịu dàng. Chúng ta hãy chấp nhận rằng thể tích của căn phòng và diện tích bề mặt σ của nó được xây dựng (nghĩa là chúng không phụ thuộc vào $T$ và $p$) và $h \ll r$.
 
-Cơm. 15.
+Hình 15.
 
-Cơm. 16.
+Hình 16.
 
 Các lực tác dụng lên piston là lực $\vec{F}_p$ của áp suất chất lỏng và lực $\vec{F}_r$ của áp suất khí. $|\vec{F}_p| = p_p S_p$, $|\vec{F}_r| = p_r (S - S_p)$, trong đó $p_p$, $p_r$ – áp suất của rượu rumv và khí, $S_p$ – diện tích của piston, được bao phủ bởi rượu rum.
 

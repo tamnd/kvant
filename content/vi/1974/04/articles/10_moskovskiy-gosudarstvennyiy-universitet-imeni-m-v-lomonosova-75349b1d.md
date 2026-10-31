@@ -128,7 +128,7 @@ Vé 3
 
 3. Thông lượng cảm ứng từ. Cảm ứng điện từ. Sức điện động cảm ứng. Định luật Lenz. Hiện tượng tự chuyển động.
 
-Cơm. 1.
+Hình 1.
 
 ⟦folio 49⟧
 

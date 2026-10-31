@@ -54,11 +54,11 @@ $$\cos x - \cos 17x = 1 + 2 \sin 8x \cdot \sin x - \cos 16x.$$
 2. Giải phương trình
 $$\sqrt{1 + \log_2 x} + \sqrt{2\log_2 x - 2} = 4.$$
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
-Cơm. 3.
+Hình 3.
 
 3. Tại giá trị nào của tham số $a$ thì hệ phương trình
 $$\begin{cases} ax - 4y = a + 1, \\ 2x + (a + 6)y = a + 3 \end{cases}$$

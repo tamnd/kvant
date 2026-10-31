@@ -43,7 +43,7 @@ Một số nhà khoa học, tin vào sự biện minh về cấu trúc trong tư
 
 ⟦folio 6⟧
 
-Cơm. 2. Các loại quỹ đạo trong bài toán của hai vật thể
+Hình 2. Các loại quỹ đạo trong bài toán của hai vật thể
 
 “di chuyển chậm”, hyperbol - “nhanh” nhất.
 
@@ -89,7 +89,7 @@ Kiểu chuyển động của con đười ươi (Hình 3, e) rất kỳ lạ kh
 
 Dựa trên sự phân loại này, đối với trường hợp ba vật thể, các khái niệm bắt giữ một phần và toàn bộ được xác định. Chúng ta nói đến việc nắm bắt một phần nếu trong quá khứ chuyển động thuộc loại hyperbol và trong tương lai nó thuộc loại hyperbol-elliptic.
 
-Cơm. 3. Phân loại chuyển động theo bài toán ba vật
+Hình 3. Phân loại chuyển động theo bài toán ba vật
 
 ⟦folio 9⟧
 
@@ -107,7 +107,7 @@ K. A. Sitnikov: có thể chiếm được một phần!
 
 Năm 1952, K. A. Sitnikov đã chế tạo mồi phân tích thu giữ một phần, và vào năm 1956, V. M. Alekseev - ví dụ về trao đổi. Hóa ra những ví dụ như vậy hoàn toàn không đại diện cho những trường hợp ngoại lệ biệt lập - những thay đổi nhỏ trong thông số của các thiên thể không dẫn đến sự thay đổi trong bức tranh định tính của hiện tượng này.
 
-Cơm. 4. Ví dụ về bắt giữ và phân rã một phần
+Hình 4. Ví dụ về bắt giữ và phân rã một phần
 
 ⟦folio 10⟧
 
@@ -129,7 +129,7 @@ Những biến động như vậy cũng có thể xảy ra với phạm vi khôn
 
 Ví dụ này chứng minh sự tồn tại của chuyển động dao động trong bài toán ba vật.
 
-Cơm. 5. Cân bài toán của ba vật
+Hình 5. Cân bài toán của ba vật
 
 ⟦folio 11⟧
 
@@ -145,7 +145,7 @@ Như thường lệ, những bước cuối cùng là khó khăn nhất. Tất c
 
 Kết quả của Alekseev đã chấm dứt nhiều năm tranh luận về phát biểu của Shazi: hóa ra nó sai hoàn toàn! Sự kết hợp gây tranh cãi nhất của các loại không đồng nhất từ ​​phân loại Shazi, mô tả sự chuyển động của ba vật thể trong quá khứ và tương lai, hóa ra lại khả thi và nhận được sự biện minh tương tự về cấu trúc.
 
-Cơm. 6. Sự biến đổi thảm khốc của sao chổi Kirnca-Kwi năm 1855 và sự phát triển quỹ đạo của nó (theo tính toán của E. I. Kazimirchak-Polonskaya)
+Hình 6. Sự biến đổi thảm khốc của sao chổi Kirnca-Kwi năm 1855 và sự phát triển quỹ đạo của nó (theo tính toán của E. I. Kazimirchak-Polonskaya)
 
 Sao chổi Kirnca-Qui: bị Sao Mộc bắt giữ?
 

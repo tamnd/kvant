@@ -148,7 +148,7 @@ Loại bỏ $m_1, m_2, V$ và $g$ khỏi các phương trình này, ta thu đư�
 
 ⟦folio 56⟧
 
-Cơm. 3.
+Hình 3.
 
 chất lỏng (dung dịch đồng sunfat):
 
@@ -410,11 +410,11 @@ Sokok A. (Talgar, ssh. Số 1).
 
 ⟦folio 63⟧
 
-Cơm. 1.
-Cơm. 2.
-Cơm. 3.
+Hình 1.
+Hình 2.
+Hình 3.
 
-Cơm. 4.
+Hình 4.
 
 2. Theo luật chơi, mỗi cặp tàu phải cách nhau ít nhất một ô vuông. Hãy bao quanh mỗi con tàu với chiều rộng bằng nửa cánh đồng (Hình 3); Hình chữ nhật thu được được gọi là một con tàu mở rộng. Hãy tìm diện tích của bảy con tàu mở rộng mà chúng ta cần đánh chìm. Diện tích của catarrh mở rộng là 4 ô (2×2), diện tích của espressor là 6 ô (3×2), cải xoong là 8 ô (4×2). Tổng diện tích là 36 ô. Diện tích của bảng mở rộng cũng là 36 ô vuông, tức là các tàu mở rộng bao phủ hoàn toàn nó. Từ đó, các khu vực góc của bảng 5x5 nhất thiết phải bị tàu chiếm giữ (nếu không thì khu vực góc của bảng mở rộng “biến mất”). Bây giờ thật dễ dàng để duyệt qua tất cả các tàu được mở rộng có thể. Chỉ có năm người trong số họ (Hình 4, a) - e); chúng tôi không tính đến sự xoay và phản ánh của bảng).
 
@@ -460,9 +460,9 @@ Chúng ta hãy nhìn vào hai chữ số cuối cùng của bậc ba. Ta đượ
 03, 09, 27, 81, 43, 29, 87, 61, 83, 49, 47, 41, 23, 69, 07, 21, 63, 89, 67, 01, 03,...
 Chúng ta thấy rằng trong số hai mươi độ treika đầu tiên thực sự không có cái nào như vậy
 
-Cơm. 5.
+Hình 5.
 
-Cơm. 6.
+Hình 6.
 trong đó chữ số hàng chục là số lẻ. Tuy nhiên, bắt đầu từ ngày 21, số trong tập hợp của chúng ta sẽ được lặp lại. Vì vậy, đây sẽ là trường hợp của tất cả các cấp độ trika.
 4. Đáp số. Phải.
 Hãy tạo bảng sau:

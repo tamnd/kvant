@@ -68,7 +68,7 @@ trong đó $h_l, h_{l_1}$ và $h_{l_2}$ là sai số tuyệt đối khi đo chi�
 
 Bạn có muốn đạt được $\varepsilon_{\rho_1/\rho_2}$ không? Các giá trị của $h_l, h_{l_1}$ và $h_{l_2}$ được xác định bởi độ chính xác của dụng cụ đo (thước đo). Từ biểu thức (3), rõ ràng là chênh lệch về độ dài $l$ và $l_1, l$ và $l_2$ càng nhỏ thì sai số đo tương đối càng lớn. Theo đó, để tăng độ chính xác của các phép đo, khối nhôm nên được hạ xuống trong các bình chứa chất lỏng chứ không phải trọng lượng thép, vì khối lập phương có thể tích lớn nên một lực Archimedean lớn sẽ tác dụng lên nó, do đó, sẽ dẫn đến sự khác biệt lớn hơn về độ dài $l, l_1$ và $l_2$. Với cùng mục đích, nên chọn chiều dài vai $l$ càng dài càng tốt. Sẽ không có ý nghĩa gì nếu sản xuất một số loại bán buôn với các tay đòn khác nhau, lần lượt hạ cả hai vật nặng vào chất lỏng, rồi giảm kết quả, vì điều này sẽ làm giảm hoàn toàn độ chính xác của phép đo. Một số học sinh, khi chuyển một tải từ chất lỏng này sang chất lỏng khác, đo lực vai $l$ $mg + F_A$. Điều này dẫn đến công thức tính toán phức tạp hơn và các lỗi đo lường bổ sung, làm tăng khả năng xảy ra lỗi tính toán.
 
-Cơm. 1.
+Hình 1.
 
 ⟦folio 77⟧
 

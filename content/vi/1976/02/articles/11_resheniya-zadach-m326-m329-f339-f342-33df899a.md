@@ -141,7 +141,7 @@ A. Khoduliev
 
 M329. Một không gian n lồi được đặt trong một hình vuông có cạnh 1. Chứng minh rằng ta tìm được ba đỉnh A, B, C của đường thẳng n và diện tích tam giác ABC nhỏ hơn 8/n2.
 
-Cơm. 5.
+Hình 5.
 
 Chúng ta hãy biểu thị bằng $a_1, a_2, \dots, a_n$ độ dài của cạnh của dụng cụ mở n và bằng $\alpha_1, \dots, \alpha_n$ các giá trị của các góc ngoài của nó. Gọi $S_i$ là diện tích của tam giác thứ i (tính từ các cạnh $a_i$ và $a_{i+1}$ - xem Hình 5, $i = 1, 2, \dots, n-1$), $S_n$ là diện tích của tam giác tính từ các cạnh $a_n$, $a_1$. Chúng ta có: $2S_i = a_i a_{i+1} \sin \alpha_i$, $i = 1, \dots, n-1$, $2S_n = a_n a_1 \sin \alpha_n$. Gọi $S$ là diện tích nhỏ nhất của các tam giác này. Sau đó
 
@@ -203,7 +203,7 @@ $$\frac{|v_y'|}{|v_x'|} = \mathrm{tg} \beta = \frac{1}{\sqrt{3}}.$$ (*)
 Sau khi cắt bóng, tốc độ của bóng thay đổi như thế nào khi va chạm với vợt đang chuyển động. Để làm điều này, hãy xem xét chuyển động trong hệ tọa độ liên kết với vợt, chuyển động tương đối so với hệ tọa độ cố định với tốc độ không đổi $w$ (vì khối lượng của vợt lớn hơn quả bóng rất nhiều nên tốc độ của vợt thực tế không thay đổi sau một va chạm). Vì hệ là quán tính nên sự phản xạ sẽ xảy ra theo định luật “góc tới bằng góc phản xạ”.
 Tốc độ của quả bóng trong hệ thống này trước khi va chạm bằng $u = v$ - $w$ (xem Hình 7, $\theta$). Các thành phần vận tốc $u_x$ và $u_y$ bằng $u_x = v_x - w$, $u_y = v_y$ tương ứng. Trong khi va chạm, thành phần $u_y$ không đổi ($u_y' = u_y = v_y$) và thành phần $u_x$ đổi hướng theo hướng ngược lại: $u_x' = -u_x = -v_x + w$.
 
-Cơm. 7.
+Hình 7.
 
 ⟦folio 42⟧
 

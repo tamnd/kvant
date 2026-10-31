@@ -385,7 +385,7 @@ Cơ học
 
 11. Tại chân của mặt phẳng nghiêng có chiều cao $H=1,2$ m và góc nghiêng so với đường chân trời là $\alpha=45^\circ$, một tấm thép lớn được cố định. Một vòng đệm bằng thép bắt đầu trượt từ đỉnh mặt phẳng nghiêng mà không có vận tốc ban đầu. Đến độ cao bao nhiêu
 
-Cơm. 4. Hình 5. Hình 6.
+Hình 4. Hình 5. Hình 6.
 
 quả bóng có nâng lên sau một tác động đàn hồi lên giải đấu không nếu hệ số ba giữa quả bóng và mặt phẳng nghiêng là $\mu=0,2$?
 
@@ -492,7 +492,7 @@ Danh sách độc giả gửi đúng lời giải
 đ) ] 1; +∞ [; g) ] $ \frac{3-\sqrt{5}}{2} $ ; $ \frac{1}{2} $ [U] 1;
 $ \frac{3+\sqrt{5}}{2} $ [; 3) $ x=\frac{\pi}{2}+2\pi k $ (k=7, 8, 9, ...);
 i) ] $ \frac{1}{2} $ ; 1 [; j) $ \left[-\frac{\pi}{6}+2\pi k ; \frac{7}{6}\pi+2\pi k \right] $ (k∈Z); k) ] $ \pi k ; \frac{\pi}{2}+2\pi k $ [(k∈Z). 11. a) Xem
-cơm. 1; 6) Xem hình. 2; c) Xem hình. 3.
+hình 1; 6) Xem hình. 2; c) Xem hình. 3.
 12. a) $ -\sqrt{21}, \sqrt{21} $; 6) ] $ -\infty; -25 $ [U] 1;
 +∞ [. 13. a=-3, b=2. 14. a) ] $ -1; +∞ $ [;
 6) ] $ -\infty; 0 $ [. 15. a) [2; 4 [U] 4; 5 [;

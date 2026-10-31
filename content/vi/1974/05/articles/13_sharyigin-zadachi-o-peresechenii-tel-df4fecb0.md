@@ -48,9 +48,9 @@ Bây giờ chúng ta hãy xem lăng kính thứ ba, có đáy nằm ở các m�
 
 Do đó, phần $4 \times 1/16 = 1/4$ bị cắt khỏi paramid. Âm lượng của phần chung của tất cả các nhận dạng thứ ba là 3/4 âm lượng của phần chung của nhận dạng thứ nhất và thứ hai, bằng $\frac{a^3}{3}$, tức là bằng $\frac{a^3}{4}$.
 
-Cơm. 2.
+Hình 2.
 
-Cơm. 3.
+Hình 3.
 
 Bài 2. Cho hai paramida tam giác đều có thể tích $V$, nằm đối xứng với điểm $O$. Tìm thể tích phần chung của hai paramida này nếu điểm $O$ nằm ở độ cao của một trong số chúng và chia chiều cao này theo tỷ lệ tương đối là 2:1, tính từ paramid.
 
@@ -81,8 +81,8 @@ Chúng ta hãy biểu thị các đỉnh của khối lập phương này bằng
 
 Hãy cùng tìm xem cạnh DCC₁D₁ chứa những gì. Hãy đề xuất ngay đáp số: môi trường là D₁LPD paramid (xem Hình 5), trong đó D₁L = D₁K = C₁P và đáy của các đường vuông góc giảm từ điểm L và K xuống B₁D,
 
-Cơm. 4.
-Cơm. 5.
+Hình 4.
+Hình 5.
 
 ⟦folio 61⟧
 
@@ -94,7 +94,7 @@ $$MN = LN \cdot \text{ctg} \frac{\alpha}{2} = \frac{x\sqrt{2}}{2} \cdot \text{ct
 
 $$B_1N = B_1D_1 - ND_1 = a\sqrt{2} - \frac{x\sqrt{2}}{2}.$$
 
-Cơm. 6.
+Hình 6.
 
 Rất dễ dàng tìm thấy $D_1T$ từ $\triangle B_1D_1D$: $D_1T = a\sqrt{\frac{2}{3}}$. Từ sự giống nhau của các tam giác $B_1NM$ và $B_1D_1T$ ta thu được:
 

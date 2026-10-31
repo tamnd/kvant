@@ -45,7 +45,7 @@ Thật vậy, gọi SO là chiều cao của hình chóp (Hình 2); thì OA và 
 
 ⟦folio 59⟧
 
-Cơm. 7.
+Hình 7.
 
 là cực và các góc nghiêng của các mặt bên ASB và BSC với mặt phẳng của đế bằng nhau. Xác định thể tích của hình chóp nếu AB = 15, AC = 13, BC = 14, SB = 10,5.
 
@@ -65,7 +65,7 @@ Do đó thể tích của hình chóp là V_SABC = 84.
 
 Bài 3. Trong hình chóp tam giác SABC, các cạnh bên SB và SC bằng nhau, các góc nghiêng của các mặt bên ASB và ASC với mặt phẳng đáy bằng nhau. Xác định thể tích của hình chóp nếu AB = 15, BC = 14, AC = 13, AS = 18 (Hình 8).
 
-Cơm. 8.
+Hình 8.
 
 Đáy O của đường cao SO sẽ là giao điểm của đường vuông góc với cạnh BC ở chính giữa và các đường phân giác AO của góc BAC (xem câu 2 và 3). Vì AB≠AC nên các đường thẳng này cắt nhau tại một điểm duy nhất, là trung điểm của cung BC của đường tròn ngoại tiếp tam giác BAC. Tiếp theo chúng ta tìm thấy: S_△ABC = 84 (theo công thức Heron) và R_△ABC = \frac{abc}{4S} = \frac{65}{8}. Do đó OK = R - \sqrt{R^2 - KC^2} = 4, OC^2 = OK^2 + KC^2 = 65, sin ∠OAC = sin ∠OCK = \frac{OK}{OC} = \frac{4}{\sqrt{65}}, cos ∠OAC = \frac{7}{\sqrt{65}}, và theo định lý cosin từ △AOC ta tìm được AO: AO = 2\sqrt{65} (dễ dàng chứng tỏ rằng ta cần lấy nghiệm lớn hơn của phương trình bậc hai thu được). Teler OS = \sqrt{AS^2 - AO^2} = 8, V_SABC = \frac{1}{3} \cdot 84 \cdot 8 = 224.
 

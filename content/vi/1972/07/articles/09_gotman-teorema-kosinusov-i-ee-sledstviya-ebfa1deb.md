@@ -183,7 +183,7 @@ Từ đây chúng ta thấy ngay rằng với AM = AN thì đoạn MN có độ 
 
 ⟦folio 32⟧
 
-Cơm. 3.
+Hình 3.
 
 Độ dài đoạn AM dễ tính vì $S = AM^2 \sin A = \frac{1}{2} bc \sin A,$
 

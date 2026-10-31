@@ -48,11 +48,11 @@ Thiết bị được cân bằng, bồn tắm đổ đầy nước đến độ
 
 Lắp thiết bị sao cho kích thích sóng phẳng với khoảng cách giữa các đỉnh khoảng 5 cm. Các sóng sẽ phân kỳ khỏi nguồn sóng để mô phỏng sóng.
 
-Cơm. 1. Bể tạo sóng mô phỏng sóng.
+Hình 1. Bể tạo sóng mô phỏng sóng.
 
 1 - bộ giữ nguồn sáng; 2 — hộp bảo vệ; 3—trách nhiệm về ánh sáng; 4 — động cơ rung (1,5 e); 5 — đèn mờ; 6 — khung nhà kính; 7 - gương phản xạ parafin; 8 — kẹp và lò xo thép để điều chỉnh tốc độ xe máy; 9 — màn hình; 10 — dấu ngoặc đơn; 11 - xà ngang.
 
-Cơm. 2. Các bộ phận của máy tạo sóng.
+Hình 2. Các bộ phận của máy tạo sóng.
 
 1 - trục đi qua lỗ trên vít; 2 - giá đỡ bằng dải cao su; 3 - trọng lượng điều chỉnh biên độ dao động; 4 — động cơ rung, cố định bằng dây đeo màu trắng; 5 - quả bóng trên dây (có thể vặn nhỏ xuống để thu được nguồn sóng chính xác).
 
@@ -64,13 +64,13 @@ nick vào mép trước của bồn tắm và được hấp thụ ở đó. Đ�
 
 Thay tấm parafin bằng một tấm kính rộng 15 cm và dài 30 cm. Lắp đặt sao cho bề mặt trên cách đáy bồn tắm 1 cm. Đổ nước vào bồn sao cho khoảng cách từ kính đến mặt nước là 2-3 mm và tạo ra một loạt sóng phẳng. Xem sóng thay đổi như thế nào khi chúng vượt qua mép kính và chạm vào vùng nước nông. Do sự thay đổi về tốc độ, sóng sẽ lan truyền theo một hướng mới trên kính, giống như một hàng lính di chuyển từ đất liền sang đường đất (Hình 5). Ở chế độ này, sóng bị lệch khỏi hướng đầu tiên do khúc xạ, một hiện tượng được quan sát thấy ở mọi loại sóng khi chúng truyền theo một góc từ môi trường này sang môi trường khác, trong đó chúng truyền với tốc độ khác nhau. Sóng trên mặt nước được phân biệt ở chỗ chúng thay đổi tốc độ truyền khi độ sâu của môi trường thay đổi. Gần đúng, chúng ta có thể giả sử rằng tỷ lệ vận tốc truyền sóng ở vùng nước nông và sâu tỷ lệ thuận với tỷ lệ độ sâu của nước. Tỷ lệ này thực sự không gì khác hơn là chiết suất ở mặt phân cách của hai môi trường. Tốc độ truyền ánh sáng
 
-Cơm. 3. Chi tiết giá đỡ bồn tắm và bộ hấp thụ sóng.
+Hình 3. Chi tiết giá đỡ bồn tắm và bộ hấp thụ sóng.
 1 - bộ giữ nguồn sáng; 2 — giá đỡ thanh có động cơ; 3 — khung kim loại; 4 - nước; 5 - kính; 6 - mastic; 7 — giá đỡ bằng nhôm; 8 - bộ hấp thụ sóng; Vết thương 9 bit trên lưới.
 
 và sóng âm thay đổi tùy thuộc vào mật độ của môi trường.
 
 Sự phản xạ khi chuyển từ nước sâu sang nước nông có thể giảm
-Cơm. 4. Phản xạ sóng.
+Hình 4. Phản xạ sóng.
 1 - nguồn sóng; 2 - gương phản xạ; 3 - vuông góc với gương phản xạ; 4 - sóng thẳng; 5 - sóng phản xạ.
 
 ⟦folio 24⟧
@@ -79,7 +79,7 @@ cực đại và nút phát sinh. Sin của góc đạt cực đại bằng $n\l
 
 Rào cản không nhất thiết phải liên tục. Một mạng lưới các chân cách đều nhau cũng phản xạ sóng (Hình 9). Khi sóng phẳng tác động liên tiếp vào một cách tử, từ mỗi sóng
 
-Cơm. 9. Mặt cắt ngang của một mạng lưới các chốt.
+Hình 9. Mặt cắt ngang của một mạng lưới các chốt.
 1 - ghim; 2 - đế lưới nhựa.
 
 Sóng tròn phân kỳ khỏi chốt, chúng giao thoa và lại tạo thành sóng phẳng. Ví dụ: biên độ sóng tương ứng là $n$ - một số nguyên, $\lambda$ - bước sóng, $d$ - khoảng cách giữa các hàng liền kề của cách tử (chu kỳ lưới) (Hình 10). Sự tương ứng này được gọi là công thức Bragg-Wolfe.
@@ -88,7 +88,7 @@ Sử dụng bồn tạo sóng, bạn có thể nghiên cứu hiệu ứng Dopple
 
 *) Chi tiết hơn về hiệu ứng Doppler được mô tả trong bài viết của L. G. Aslamazov “Hiệu ứng Doppler”, «Kvant» Số 4, 1971.
 
-Cơm. 10. Phản xạ từ cách tử.
+Hình 10. Phản xạ từ cách tử.
 1 - hàng ghim; 2 - phía trước sóng trực tiếp; 3 - hướng truyền sóng trực tiếp; 4 - hướng truyền sóng phản xạ; 5—phía trước sóng phản xạ.
 
 các ngôi sao hướng về trái đất về phía phần màu xanh của quang phổ - những hiện tượng có cùng bản chất. Cả hai hiện tượng này là do các nguồn sóng chuyển động có thể triệt tiêu và đôi khi còn lấn át sóng mà chúng phát ra. Để chứng minh hiệu ứng Doppler trong bồn tắm, hãy lấy một ống nhỏ, sử dụng một màng, được điều khiển bởi một bộ điện từ, dẫn các phần không khí vào bồn tắm đều đặn, đồng thời di chuyển qua bồn tắm với tốc độ nhất định. (Bạn có thể quan sát một số đoạn đường ray đồ chơi ở mép bồn tắm và lắp ống vào xe kéo đồ chơi). Khi ống di chuyển với tốc độ làm thay đổi tốc độ của sóng, các đỉnh phía trước nó xuất hiện thường xuyên hơn và phía sau chúng - hiếm hơn.

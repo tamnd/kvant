@@ -55,7 +55,7 @@ Hình ảnh giao thoa được tạo ra bằng một phương tiện thậm chí
 
 ⟦folio 14⟧
 
-Cơm. 1.
+Hình 1.
 ở chỗ nó thực sự thuộc về bản chất của đối tượng được đề cập…”
 II. "Bản chất của ánh sáng không phải là một chủ đề quá quan trọng theo quan điểm vật chất, liên quan đến cuộc sống và thực tiễn, nhưng ở nhiều khía cạnh khác, chủ đề này rất thú vị, vì nó làm phong phú thêm kiến ​​thức của chúng ta về bản chất của các giác quan và của Vũ trụ nói chung. Nghiên cứu về việc tạo ra màu sắc và sự phong phú của các sắc thái của chúng trong bột gắn liền với lý thuyết về các tính chất và nguyên tắc quan trọng nhất của chúng. Nhiều hiện tượng trong số này sẽ giúp chúng ta hình thành ý tưởng về tự nhiên và nguồn ánh sáng nói chung."
 
@@ -95,4 +95,4 @@ Nếu bạn thay thế không khí giữa các ly bằng nước hoặc chất l
 *) Điều này sẽ xảy ra do sự thay đổi pha ngược lại khi phản xạ từ một chất có chiết suất cao.
 **) Cái gọi là “Vòng Newton”.
 
-Cơm. 2. Hình ảnh giao thoa thu được bằng cách phản xạ ánh sáng từ một màng xà phòng mỏng. Ảnh được chụp: dưới ánh sáng trắng; trong đèn đỏ; cũng vượt đèn đỏ nhưng có phần muộn hơn lần trước.
+Hình 2. Hình ảnh giao thoa thu được bằng cách phản xạ ánh sáng từ một màng xà phòng mỏng. Ảnh được chụp: dưới ánh sáng trắng; trong đèn đỏ; cũng vượt đèn đỏ nhưng có phần muộn hơn lần trước.

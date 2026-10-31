@@ -104,17 +104,17 @@ Theo nghĩa này, các phản ứng (1) và (2), các phản ứng biến đổi
 
 Lịch sử khám phá neutrino là một trong những trang khoa học rực rỡ nhất của thế kỷ 20 và xứng đáng với điều đó.
 
-Cơm. 1. Hình chiếu quỹ đạo bên trong của electron được thể hiện bằng màu đỏ.
+Hình 1. Hình chiếu quỹ đạo bên trong của electron được thể hiện bằng màu đỏ.
 
 ⟦folio 13⟧
 
-Cơm. 2. Phổ beta của neutron tự do.
+Hình 2. Phổ beta của neutron tự do.
 
 Không cần thiết phải nói về nó một cách ngắn gọn. Sự tồn tại của neutrino được W. Pauli dự đoán về mặt lý thuyết là kết quả của những nỗ lực tìm hiểu một sự thật kỳ lạ được phát hiện trong phân rã beta của hạt nhân. Các phép đo năng lượng của các electron phát ra trong quá trình phân rã β cho thấy các electron không có năng lượng cố định đặc trưng cho sự biến đổi β này. Có một phạm vi rộng, hay nói cách khác, một phổ năng lượng, kéo dài từ 0 đến một giá trị tối đa nhất định.
 
 Năng lượng của các electron được đo bằng các thiết bị đặc biệt - máy quang phổ beta, trong đó các electron có năng lượng khác nhau khác nhau về quỹ đạo trong từ trường hoặc điện trường, hoặc theo biên độ của các xung điện phát sinh trong máy dò loại quang phổ (ví dụ, trong máy đếm nhấp nháy). Hình 1 thể hiện sơ đồ của một máy quang phổ từ đơn giản có trường liên tục. Các electron từ nguồn Và rơi vào từ trường được hình thành bởi điện từ C. Quỹ đạo của electron trong trường như vậy được biểu diễn bằng một đường xoắn ốc có trục song song với trục của Soleno *). Có thể chứng minh rằng các electron, bạn
 
-Cơm. 3. Phổ beta của đồng vị vàng phóng xạ.
+Hình 3. Phổ beta của đồng vị vàng phóng xạ.
 
 đến từ một nguồn có kích thước đủ nhỏ với cùng năng lượng, chúng tập trung gần một điểm nhất định, nơi lắp đặt nhiễu xạ D, phía sau có bộ đếm Sch. Quỹ đạo của bộ phận có năng lượng khác sao cho các hạt này không đi qua nhiễu xạ D. Từ tác động trực tiếp của các electron (dọc theo đường sức điện trường) trong phản ứng, các nhiễu xạ D được bảo vệ bởi các nhiễu xạ vòng K. Bằng cách thay đổi độ lớn của từ trường (dòng điện trong đế), do đó người ta có thể “xem” có bao nhiêu electron phát ra từ nguồn có năng lượng này hoặc năng lượng khác, nghĩa là khám phá phổ năng lượng của chúng.
 

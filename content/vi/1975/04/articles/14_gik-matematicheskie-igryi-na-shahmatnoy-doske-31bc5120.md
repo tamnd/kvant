@@ -68,7 +68,7 @@ Bằng chứng trên cho thấy nếu Trắng chơi đúng thì chắc chắn s�
 
 Học sinh trung học của Đại học bang mexmata Moscow thích thú với trò chơi vượt rào và vượt rào sau đây. Trên tờ giấy ca rô có hình dạng bất kỳ (thậm chí là “vô tận”), hai người thay phiên nhau đặt những cây thánh giá và những hình chấm bi.
 
-Cơm. 1. Phần kết có quà tặng.
+Hình 1. Phần kết có quà tặng.
 
 Người chiến thắng là người đầu tiên đặt năm biểu tượng của mình liên tiếp (theo chiều dọc, chiều ngang hoặc đường chéo). Tương tự như cờ đôi và cờ vua không có zugschang, có thể chứng minh rằng ở đây, người mới bắt đầu chơi hoàn hảo cũng không thua. Đúng, bằng chứng trong trường hợp này phức tạp hơn trong ván cờ.
 
@@ -80,7 +80,7 @@ Lý thuyết tặng quà khá phương Đông và khác hoàn toàn với luật
 
 ⟦folio 56⟧
 
-Cơm. 2. Con đường của hiệp sĩ đi qua tất cả các ô vuông của bảng thể tích 4x4x4.
+Hình 2. Con đường của hiệp sĩ đi qua tất cả các ô vuông của bảng thể tích 4x4x4.
 
 băn khoăn theo sau 7. Ca8—h1!, và Trắng loại bỏ quân tượng.
 
@@ -112,10 +112,10 @@ Nói chung, từ một tấm bảng thông thường, người ta có thể tạ
 4
 
 ⟦figure⟧
-Cơm. 3. Chiếu tướng trong 1 nước đi.
+Hình 3. Chiếu tướng trong 1 nước đi.
 
 ⟦figure⟧
-Cơm. 4. Chiếu hết trong 4 nước đi.
+Hình 4. Chiếu hết trong 4 nước đi.
 
 Khi chuyển sang bảng hình trụ, không thể giải được một số bài toán có lời giải trên bảng thông thường. Ví dụ, bài toán nổi tiếng về cách sắp xếp tám con hậu, được Gauss nghiên cứu, có 92 lời giải trên một bảng thông thường và không có con nào trên một bảng hình trụ!
 
@@ -175,7 +175,7 @@ loạt 14 chiêu sau: a4, h4, Ra3, Rhh3, Nc3, Nf3, Rb3, Rg3, d4, Qd3, Qe4, Rb7, 
 Bài tập 5. Xếp 10 maharajas lên bảng $10\times10$ sao cho chúng không va vào nhau (trên các bảng nhỏ hơn không thể sắp xếp chúng theo cách yêu cầu).
 
 ⟦figure⟧
-Cơm. 5. Bàn cờ là nơi trưng bày triển lãm của các nghệ sĩ tiên phong.
+Hình 5. Bàn cờ là nơi trưng bày triển lãm của các nghệ sĩ tiên phong.
 
 ## Ngựa cổ tích
 
@@ -195,7 +195,7 @@ Trò chơi này là sự kết hợp giữa cờ vua và cờ đam, được ph�
 
 Hình 6 cho thấy một trong những đường đi khép kín của con lạc đà đi qua tất cả các ô trên bàn cờ. Được biết, có thể xếp tối đa 32 quân mã trên bàn cờ mà không đe dọa lẫn nhau (có thể đặt toàn quân trắng hoặc toàn quân).
 
-Cơm. 6. Đường đi khép kín của con lạc đà trên bàn cờ.
+Hình 6. Đường đi khép kín của con lạc đà trên bàn cờ.
 
 trường màu đen). Số lượng lạc đà “yên bình” tối đa trên bàn cờ là 16, tức là chúng cũng có thể chiếm một nửa số ô. Lạc đà có thể được đặt trên các ô vuông có cả bốn hoặc tất cả các số lẻ trong Hình 6. Do đó, mẫu này cho lời giải hai bài toán trên bàn cờ. Bạn có thể tìm thấy câu chuyện chi tiết hơn về cờ vua (đặc biệt là việc sắp xếp các quân cờ trước khi bắt đầu ván đấu) trong cuốn sách thứ hai được đề cập của M. Gardner.
 

@@ -46,7 +46,7 @@ Trước hết chúng ta hãy tìm hiểu tốc độ truyền sóng thay đổi
 
 ⟦folio 25⟧
 
-Cơm. 3.
+Hình 3.
 
 Theo kinh nghiệm của tôi với các cơn bão ở Nam Thái Bình Dương, tôi thấy rằng điều này có thể xác định khoảng cách đến cơn bão, có thể là 2.000 dặm hoặc hơn.
 
@@ -90,4 +90,4 @@ Phương pháp chuyển động ảo
 
 2. Giải bài toán 5 khi biết khối lượng của mỗi khớp là $M$.
 
-Cơm. 6.
+Hình 6.

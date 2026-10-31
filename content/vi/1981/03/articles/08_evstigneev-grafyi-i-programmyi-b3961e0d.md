@@ -56,9 +56,9 @@ Bài tập 1. Vẽ đồ thị $p$ tương ứng với sơ đồ khối phần m
 
 Nếu chương trình $P$ được viết bằng bất kỳ ngôn ngữ thuật toán nào,
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
 ⟦folio 19⟧
 
@@ -68,9 +68,9 @@ Một ví dụ khác về biểu đồ $p$ được hiển thị trong Hình 4. 
 
 Trên một đồ thị $p$ cho trước $G = (X, U)$ (và nói chung trên bất kỳ đồ thị nào) thường được coi là một đường đi nếu các đỉnh của nó không được lặp lại, một đường viền nếu $a = b$ và một đường dẫn đơn giản nếu $a = b$, nhưng không có sự lặp lại các đỉnh nào khác. Vì vậy, trong Hình 4, đường dẫn $(x_1, x_3, x_6, t)$ là một đường dẫn đơn giản, $(x_1, x_4, x_6, x_3, x_6, t)$ không phải là một đường dẫn đơn giản, $(x_3, x_6, x_3)$ là một đường dẫn đơn giản, $(x_3, x_6, x_3, x_6, x_3)$ là một đường dẫn, nhưng không đơn giản, $(x_2, x_7, x_6)$ thậm chí không phải là một đường dẫn.
 
-Cơm. 3.
+Hình 3.
 
-Cơm. 4.
+Hình 4.
 
 Bài tập 2. Liệt kê tất cả các đường đơn giản và tất cả các đường viền đơn giản của đồ thị $p$ được xây dựng theo lời giải của Bài tập 1.
 
@@ -88,7 +88,7 @@ Ví dụ, trong các trường hợp phức tạp, trong các chương trình l�
 
 ⟦folio 20⟧
 
-Cơm. 5.
+Hình 5.
 
 Bài tập 4. Tìm tất cả các đường dẫn đơn giản kết nối đầu vào của đồ thị $p$ với đầu ra của nó.
 
@@ -111,7 +111,7 @@ $s x_1 x_4 x_6 t$
 $s x_2 x_7 t$
 $s x_2 x_5 x_7 t$
 
-Cơm. 6.
+Hình 6.
 
 ⟦folio 21⟧
 
@@ -145,9 +145,9 @@ $$p(x) = \max_{1 \leq s \leq k} \{p(y_s) + s - 1\}$$
 $$q(x) = q(y_1)q(y_2) \dots q(y_k)x,$$
 và nhập các giá trị tìm thấy vào cột thứ hai và thứ ba của hàng được đề cập. Hãy chuyển sang bước 3.
 
-Cơm. 8.
+Hình 8.
 
-Cơm. 9.
+Hình 9.
 
 Bây giờ chúng ta sẽ mô tả một trong các thuật toán để xây dựng các cấu trúc như vậy, được gọi là *thuật toán Redrzejewski*.
 

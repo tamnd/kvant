@@ -134,7 +134,7 @@ Bốn lực tác dụng lên cơ thể: lực $\vec{F}$, lực hấp dẫn $mg$,
 
 ⟦folio 81⟧
 
-Cơm. 7.
+Hình 7.
 
 Hãy viết định luật II Newton dưới dạng hình chiếu theo trục ngang và trục dọc (xem Hình 7):
 

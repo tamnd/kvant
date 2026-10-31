@@ -32,7 +32,7 @@ Có mười lăm con chip trong các vòng tròn của hình tam giác phía tr�
 3) Một nước đi cũng được coi là một chuỗi các bước nhảy khi một quân cờ (theo đoạn 2) lần lượt thực hiện các bước nhảy (nhưng không phải các chuyển động).
 Bạn sẽ phải di chuyển bao nhiêu lần để giải được bài toán này?
 L. Mochalov
-Cơm. E. Nazarova
+Hình E. Nazarova
 
 SỐ HỌC LẠI
 

@@ -34,11 +34,11 @@ TRẺ HƠN
 
 ⟦figure⟧
 
-Cơm. 3
+Hình 3
 
 ⟦figure⟧
 
-Cơm. 4
+Hình 4
 
 một quả bóng, nhưng trên một tên lửa họ chế tạo. Cái tên Gak là phụ âm với Chuk và Gek của Gaidar, nhưng Burtik đến từ đâu? Chúng tôi khuyên bạn nên tự mình tìm ra điều này.
 
@@ -56,7 +56,7 @@ TRẺ EM HỌC SINH
 
 ⟦figure⟧
 
-Cơm. 5
+Hình 5
 
 Đừng nghĩ rằng lưỡi chỉ lan tới đồ chơi trẻ em. Từ năm 1910, cọc ván Larsen đã được sử dụng trong xây dựng (Hình 3). Tất cả các lưỡi ở đây đều giống nhau, cái này được kết nối với cái kia bằng một chiếc khóa, giống như những chiếc vòng mở được nối thành một chuỗi có độ dài bất kỳ. Nếu dây xích chặt thì không thể tháo được một chiếc vòng nào. Cọc ván Larsen được sử dụng để gia cố bờ hồ chứa, kè, hố; nó tạo thành một bức tường thẳng đứng vững chắc (Hình 4). Trong trường hợp này, sự kết nối của các ngôn ngữ riêng lẻ cũng tương tự như sự kết nối của các mảnh ghép, khi cái này lồng vào cái kia (Hình 5). Những câu đố như vậy xuất hiện vào năm 1909.
 

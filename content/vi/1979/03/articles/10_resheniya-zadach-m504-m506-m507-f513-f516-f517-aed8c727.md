@@ -33,15 +33,15 @@ $c) n^2/3$.
 
 Có thể có được ước tính mạnh mẽ hơn nữa cho một số $n$ không?
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
 Cái lồng này phải được tự do
 
-Cơm. 3.
+Hình 3.
 
-Cơm. 4.
+Hình 4.
 
 Để có $x$ ô tự do.
 
@@ -242,7 +242,7 @@ Bằng cách đo khoảng cách giữa vật thể và màn hình, giữa ngón 
 
 G. Solovyanok
 
-Cơm. 5.
+Hình 5.
 
 F516. Một đĩa nặng bán kính R lăn trên hai sợi dây không dãn quấn quanh nó. Các đầu tự do của sợi chỉ được cố định (Hình 7). Các luồng liên tục được tham gia khi đĩa di chuyển. Tại một số thời điểm, tốc độ của đĩa là $\omega$ và tốc độ giữa các luồng là $\alpha$. Tốc độ của tâm đĩa lúc này là bao nhiêu?
 

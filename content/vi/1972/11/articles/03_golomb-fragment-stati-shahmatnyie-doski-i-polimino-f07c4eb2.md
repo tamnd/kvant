@@ -58,11 +58,11 @@ Do đó, người ta xác định rằng để có thể che phủ, monoomino nh
 
 ⟦folio 4⟧
 
-Cơm. 4. Hình 5.
+Hình 4. Hình 5.
 
-Cơm. 6.
+Hình 6.
 
-Cơm. 7.
+Hình 7.
 
 ki là những phần được tô bóng trong Hình 4. Và từ Hình 5, theo đó, nếu một monomino bao phủ một trong các ô này thì phần còn lại của monomino thực có thể được bao phủ bởi các mảnh cắt thẳng.
 
@@ -92,7 +92,7 @@ Giả sử rằng không có số nào $m, n$ chia hết cho $k$, và bảng $m 
 
 Một bảng được tô màu theo cách này có một đặc tính thú vị: bất kể $k$-mino tuyến tính được đặt trên đó như thế nào, ngang hay dọc, nó bao phủ chính xác một hình vuông của mỗi màu $k$. Vì vậy, theo giả định, bảng được bao phủ bởi một $k$-mino tuyến tính và mỗi $k$-mino bao gồm cùng một số ô vuông của mỗi màu (mỗi ô một ô)
 
-Cơm. 8. Tô màu đường chéo ở $k=3$.
+Hình 8. Tô màu đường chéo ở $k=3$.
 
 ⟦folio 6⟧
 
@@ -125,7 +125,7 @@ $$S_1 \equiv S_2 \equiv \dots \equiv S_k \pmod{k},$$
 
 trong đó $S_1(l=1, 2, \dots, k)$ là một số
 
-**Cơm. 9. Tô màu cột ở $k=4$.**
+**Hình 9. Tô màu cột ở $k=4$.**
 
 các ô có màu $l$ có trong bảng.
 
@@ -170,7 +170,7 @@ $$t_{kq+1} \equiv r_2 \pmod{k}.$$
 
 ⟦folio none⟧
 
-Cơm. 11.
+Hình 11.
 
 Mặt khác, rõ ràng là $k$-mino phát triển từ cột thứ $(kq+1)$ sẽ “phát triển” ra ngoài hình chữ nhật, từ đó $t_{kq+1} = 0$ xuất hiện. Ở đây chúng ta cũng đi đến mâu thuẫn, chứng tỏ rằng để tồn tại bố cục bảng $m \times n$ $k$-mino, ít nhất một trong các số $m, n$ phải chia hết cho $k$.
 
@@ -182,11 +182,11 @@ Bài toán 2. Có một bàn cờ hình chữ nhật $m \times n$ và một bàn
 
 Đối với $k = 1$, rõ ràng, $M$ trùng với tập hợp tất cả các ô vuông trên bảng. Giả sử rằng $k = 2$. Giả sử rằng một hình vuông được cắt ra từ một hình chữ nhật và hình thu được $F$ được trình bày dưới dạng domino; sau đó $(mn-1)$ —
 
-Cơm. 12.
+Hình 12.
 
-Cơm. 13.
+Hình 13.
 
-Cơm. 14.
+Hình 14.
 
 ⟦folio none⟧
 
@@ -274,12 +274,12 @@ Bảng ca rô torid có những ưu điểm khác. Ví dụ: hãy giải câu b�
 Nhiệm vụ 4.
 a) Tìm tất cả các số tự nhiên $n$ sao cho bảng vuông $n \times n$ có thể xếp thành hình chữ nhật như Hình 19.
 
-Cơm. 17.
-Cơm. 18.
+Hình 17.
+Hình 18.
 
 ⟦folio 10⟧
 
-Cơm. 19, 20, 21.
+Hình 19, 20, 21.
 
 6) Các số tự nhiên nhất cũng là $n$, do đó, bảng đạo đức thu được từ hình vuông của bảng $n \times n$ có thể được sắp xếp bằng cách sử dụng các quân cờ như trong Hình 19.
 
@@ -289,7 +289,7 @@ Tất nhiên, một hình chữ nhật có kích thước $2 \times 3$ có thể
 
 Chứng minh rằng hình vuông $3 \times 3$ không thể vừa với các mảnh ghép của chúng ta. Đối với một bảng hình xuyến được dán lại với nhau từ hình vuông $n \times n$, nó có thể được đặt dưới dạng một tấm trang trí cho bất kỳ $n$ nào chia hết cho 3.
 
-Cơm. 22.
+Hình 22.
 
 Để chứng minh điều này, chúng ta còn phải chứng minh rằng bảng hình xuyến $3 \times 3$ có thể được sắp xếp thành một hình tam giác. Hình 22 cho thấy khả năng sắp xếp như vậy (khi dán các hình xuyến lại với nhau, các ô màu đỏ sẽ kết hợp với nhau để tạo thành một mảnh ghép thuộc loại yêu cầu).
 
@@ -315,7 +315,7 @@ Tìm chiến lược trò chơi cho một trong những người chơi cho phép
 
 6) Nếu $m \neq n$, thì từ bảng $m \times n$ bạn có thể dán hai dải Mobius khác nhau. Có thể một trong số chúng có thể được đặt bằng k-mino tuyến tính, còn cái kia thì không?
 
-Cơm. 23.
+Hình 23.
 
 6. Một tấm bảng hình chữ nhật (trên đó có một hạt ca rô ở cả hai đường) được uốn cong và dán lại, như trong Hình 23. Kết quả là một dải Möbius.
 

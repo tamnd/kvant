@@ -43,7 +43,7 @@ Người ta biết được từ các nhà quan sát quang phổ rằng có mộ
 
 ⟦folio 14⟧
 
-Cơm. 1.
+Hình 1.
 
 gần như tất cả các hành tinh của hệ mặt trời.
 

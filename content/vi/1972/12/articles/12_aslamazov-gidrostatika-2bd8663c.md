@@ -56,7 +56,7 @@ $$F_2 = \frac{\rho g a^3}{2}.$$
 
 Bài 2. Một pittông có chiều dài ống thẳng đứng đường kính d=0,05 m được đưa vào một bình hình trụ có đường kính D=0,2 m (Hình 3). Lực tối đa là lực thứ ba giữa piston và thành bình $F_{tp} = 100$ n. Sau tháng thứ ba, bình chứa đầy thi thể. Xác định mực nước trong H thứ ba mà piston bắt đầu. Nó sẽ bằng bao nhiêu
 
-Cơm. 1. Hình 2.
+Hình 1. Hình 2.
 
 ⟦folio 54⟧
 
@@ -92,7 +92,7 @@ Sự phụ thuộc của áp suất trong ống uốn vào chiều cao được 
 
 Như đã biết, lực nổi tác dụng lên một vật ngâm trong chất lỏng. Lực này là lực cân bằng của áp suất chất lỏng tác dụng lên cơ thể. Ví dụ, chúng ta hãy tìm lực nổi tác dụng lên một khối lập phương có cạnh $a$, được ngâm hoàn toàn trong chất lỏng có mật độ $\rho$. Lực ép từ chất lỏng lên mặt trên của khối lập phương bằng $F_1=\rho g h^2$, trong đó $h$ là khoảng cách từ mặt này đến bề mặt chất lỏng (để đơn giản, chúng ta giả sử rằng mặt phẳng của mặt trên của khối lập phương song song với bề mặt chất lỏng). Lực $F_2=\rho g(h+a) a^2$ tác dụng lên mặt dưới của hình lập phương. Lực ép lên các mặt bên của khối lập phương cân bằng
 
-Cơm. 8.
+Hình 8.
 
 nhau. Lực ép bằng nhau, tức là lực nổi, bằng $F=F_2-F_1=\rho g a^3$ và hướng thẳng đứng lên trên. Chúng ta đã nhận được định luật Archimedes: lực nổi bằng lực hấp dẫn tác dụng lên chất lỏng bị vật chiếm chỗ.
 

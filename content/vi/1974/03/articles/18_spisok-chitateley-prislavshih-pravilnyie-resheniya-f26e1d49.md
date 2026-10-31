@@ -107,7 +107,7 @@ $$E = \frac{\Phi}{DF \cdot d} = E_0 \frac{AB}{DF}$$
 
 ⟦folio 44⟧
 
-Cơm. 11.
+Hình 11.
 
 (DF·d là diện tích phần tương ứng của màn hình).
 

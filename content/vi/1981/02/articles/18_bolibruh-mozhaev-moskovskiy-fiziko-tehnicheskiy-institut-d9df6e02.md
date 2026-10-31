@@ -201,9 +201,9 @@ Tùy chọn 1
 
 3. Một chùm tia song song gồm các phần tích điện âm rơi vào hai lưới phẳng song song, giữa đó đặt một hiệu điện thế $U_0$, ở một góc $\alpha = 60^\circ$ (Hình 6). Các hạt có thể đi qua lưới ở mức năng lượng nào nếu điện tích của bộ phận đó là $q$?
 
-Cơm. 4.
+Hình 4.
 
-Cơm. 5.
+Hình 5.
 
 ⟦folio 51⟧
 
@@ -227,7 +227,7 @@ Tùy chọn 3
 
 ⟦folio 52⟧
 
-Cơm. 13.
+Hình 13.
 
 3. Mạch điện bao gồm hai tụ điện có xương $C_1$ và $C_2$ và một cuộn dây có độ tự cảm $L$, ban đầu mở (Hình 10). Tụ điện có xương $C_1$ được tích điện đến hiệu điện thế $U$, còn tụ điện có xương $C_2$ vẫn không được tích điện. Xác định dòng điện cực đại trong mạch sau khi đóng phím $K$. Điện trở hoạt động của cuộn dây bị đánh giá thấp.
 

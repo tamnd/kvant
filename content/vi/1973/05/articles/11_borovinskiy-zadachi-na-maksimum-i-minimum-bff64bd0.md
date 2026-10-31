@@ -128,7 +128,7 @@ Từ lời giải này bài toán người ta có thể rút ra một kết lu�
 
 ![Рис. 2.](image)
 
-Cơm. 3.
+Hình 3.
 
 ⟦folio 46⟧
 
@@ -146,7 +146,7 @@ Sự thay đổi về thời gian là
 
 $$\Delta t = t' - t = -\frac{\Delta x}{v_1} + \frac{\sqrt{l^2 + (x + \Delta x)^2} - \sqrt{l^2 + x^2}}{v_2} = -\frac{\Delta x}{v_1} + \frac{l^2 + (x + \Delta x)^2 - l^2 - x^2}{v_2[\sqrt{l^2 + (x + \Delta x)^2} + \sqrt{l^2 + x^2}]} = \left\{ \frac{2x + \Delta x}{v_2[\sqrt{l^2 + (x + \Delta x)^2} + \sqrt{l^2 + x^2}]} - \frac{1}{v_1} \right\} \Delta x.$$
 
-Cơm. 4.
+Hình 4.
 
 Vì $\Delta x \ll x$, biểu thức của $\Delta t$ có thể bị ngủ quên. Sau đó
 

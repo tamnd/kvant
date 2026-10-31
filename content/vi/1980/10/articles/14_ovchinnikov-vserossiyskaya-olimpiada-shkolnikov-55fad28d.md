@@ -76,7 +76,7 @@ b) tổng các số ở mỗi cột có giống nhau không?
 
 ⟦folio 54⟧
 
-Cơm. 4. Hình 5.
+Hình 4. Hình 5.
 
 Quả bóng đang ở vị trí thăng bằng không ổn định trên một mặt phẳng nằm ngang cứng và rất gồ ghề. Sau một cú đẩy nhẹ, anh ta bắt đầu ngã. Xác định hình chiếu thẳng đứng và nằm ngang của vận tốc của quả bóng tại thời điểm nó chạm vào bề mặt.
 

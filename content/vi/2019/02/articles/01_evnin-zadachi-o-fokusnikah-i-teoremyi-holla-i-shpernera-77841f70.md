@@ -39,13 +39,13 @@ DOI: https://doi.org/10.4213/kvant20190202
 
 ⟦figure⟧
 
-Cơm. 1
+Hình 1
 
 $V_{1}$ (tức là, với mọi đỉnh từ $V_{1}$ đều có một cạnh đi ra khỏi đỉnh đó trong kết quả khớp). Ví dụ: Hình 2 hiển thị biểu đồ có lượt chia sẻ $V_{1}$ ^ $x_{1}, x_{2}, x_{3}$ ` và
 
 ⟦figure⟧
 
-Cơm. 2
+Hình 2
 
 $V_{2}$^$y_{1}, y_{2}, y_{3}, y_{4}$`. Các cạnh $x_{1} y_{1}, x_{2} y_{2}$ và $x_{3} y_{4}$ tạo thành sự kết hợp hoàn hảo từ $V_{1}$ đến $V_{2}$. Cho G là đồ thị có tập đỉnh V và A là tập con của V. Môi trường của tập A là tập
 
@@ -127,7 +127,7 @@ Thay vì xem xét các ô, chúng ta sẽ xem xét các trung tâm của chúng,
 
 ⟦figure⟧
 
-Cơm. 1
+Hình 1
 
 các nút đen hoặc trắng rơi vào $K_{0}$; trong Hình 1, chúng được mô tả bằng màu thứ ba - đỏ.) Nếu dòng này không chứa các nút khác của mẫu, thì chúng ta sẽ xoay dòng theo chiều kim đồng hồ cho đến khi một nút khác thuộc $K_{0}$ rơi vào nó. Chúng tôi đã tìm thấy cho mẫu của mình cái gọi là đường thẳng tham chiếu l, chứa ít nhất hai nút mẫu, sao cho tất cả các nút mẫu nằm trong cùng một nửa mặt phẳng L so với đường thẳng l. Bây giờ chúng ta hãy di chuyển song song đường thẳng l cùng với nửa mặt phẳng L sao cho nửa mặt phẳng bao phủ mọi thứ ban đầu
 
@@ -135,7 +135,7 @@ các nút đen hoặc trắng rơi vào $K_{0}$; trong Hình 1, chúng được 
 
 ⟦figure⟧
 
-Cơm. 2
+Hình 2
 
 các nút đen (Hình 2). Trong trường hợp này, đường thẳng l đã đi vào một đường thẳng m nào đó, song song với đường thẳng l. Hãy để chúng tôi chứng minh rằng tất cả các nút trắng ban đầu nằm trong nửa mặt phẳng đối diện với m sẽ luôn giữ nguyên màu trắng. Giả sử điều ngược lại và xem xét thời điểm nút A đầu tiên chuyển sang màu đen. Điều này có nghĩa là nó được bao phủ bởi độ dịch chuyển K của mẫu của chúng tôi. Vẽ đường thẳng a qua A song song với đường thẳng l. Ở một bên của a, tất cả các nút vẫn có màu trắng (vì A là nút duy nhất có thể được tô màu lại), có nghĩa là a là đường tham chiếu cho K. Nhưng sau đó, phép dịch đưa K đến $K_{0}$ đưa đường a đến l, do đó, trên đường a, ngoài A, còn có ít nhất một nút nữa thuộc về K. Như chúng ta thấy, tại thời điểm đổi màu nút A, mẫu K bao phủ ít nhất hai nút trắng. Ta thu được mâu thuẫn hoàn thành lời giải bài toán. Bình luận. Như chúng ta thấy từ lời giải, mẫu có thể tùy ý, do đó tính liên thông của đa giác M từ điều kiện bài toán là không quan trọng. Ngoài ra, từ lời giải bài toán dễ dàng suy ra rằng nếu mẫu không vừa với hàng ngang hoặc hàng dọc thì quá trình sơn lại sẽ là hữu hạn (tức là cuối cùng sẽ có số ô hữu hạn trên mặt phẳng). Lưu ý rằng bài toán có sự khái quát hóa tự nhiên thành một mạng không gian (trong một quy trình tương tự, người ta được phép đổi màu hai nút trắng) hoặc một mạng của không gian hữu hạn chiều. D. Zakharov
 

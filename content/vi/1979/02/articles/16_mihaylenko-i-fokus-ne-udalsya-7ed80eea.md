@@ -33,7 +33,7 @@ Bây giờ hãy đốt một que diêm và đốt hình xoắn ốc cho đến k
 
 Cắt hai dải nhỏ từ vật liệu cứng và uốn cong một trong số chúng sao cho có một khe hở không khí dày 1-3 mm giữa các dải. Trong khoảng thời gian này, thêm một vài giọt dung dịch muối. Chọn nồng độ của dung dịch sao cho khi đóng mạch điện, bóng đèn mắc nối tiếp với pin và chất điện phân cháy gần như không đáng kể.
 
-Cơm. 3.
+Hình 3.
 
 Đun nóng chất điện phân (dùng que diêm nóng) sẽ thấy bóng đèn cháy sáng hơn (Hình 2).
 

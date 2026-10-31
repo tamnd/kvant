@@ -82,7 +82,7 @@ Tìm tỉ số cạnh của một tam giác mà một trong các đường trung
 
 Gọi $BK$ là đường trung bình của tam giác $ABC$ - đường tròn nội tiếp được chia thành các đoạn bằng nhau $BM = MN = NK = x$, $AB = c$, $BC = a$, $CA = b$ và $T$ - điểm tiếp tuyến của đường tròn nội tiếp trên cạnh $BC$ (Hình 2).
 
-Cơm. 2.
+Hình 2.
 
 Hai trận đấu ABC sau đây là cần thiết nhất:
 
@@ -232,7 +232,7 @@ $$U = E \frac{R}{R_1 + R + r} = \frac{100}{3} \theta \approx 33,3\theta.$$
 
 ⟦folio 45⟧
 
-Cơm. 8.
+Hình 8.
 
 Do đó, với sơ đồ kết nối tải với nguồn như vậy, sự thay đổi điện áp trên tải lớn hơn 2%.
 

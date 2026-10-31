@@ -184,7 +184,7 @@ $$\frac{T}{T_0} = \frac{v_0}{v} = \frac{v_0 t}{v t} = \frac{N_0}{N} = \frac{N_0}
 
 Bằng cách vẽ đồ thị sự phụ thuộc của $T/T_0$ vào $L$ và $(T/T_0)^2$ vào $L$, chúng ta có thể tin rằng $T \sim \sqrt{L}$.
 
-Cơm. 10.
+Hình 10.
 
 Đối với điều này, bài toán số điểm tối đa đã được nhận bởi V. Barzykin (làng Chernogolovka, khu vực Moscow), G. Grigoriev (Kyiv), A. Sevastyanov (Severodvinsk), L. Feldman (Saratov), ​​​​D. Yên (Yerevan).
 

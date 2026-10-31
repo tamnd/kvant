@@ -168,7 +168,7 @@ Ngay từ khi còn trẻ, lobachevsky đã quan tâm đến nền tảng của h
 
 ⟦folio 10⟧
 
-Cơm. 1.
+Hình 1.
 
 các đường thẳng nếu đi tiếp thì nhất thiết phải cắt nhau.
 
@@ -184,7 +184,7 @@ Alexis-Claude Clairaut (Pháp, thế kỷ 18) đã xây dựng lý thuyết về
 
 Nhưng tất cả những mở rộng này hóa ra tương đương với định đề thứ năm của Euclid hoặc thậm chí là một định đề mạnh hơn: thông qua một điểm nằm ngoài một đường thẳng nhất định, người ta có thể vẽ trong mặt phẳng của chúng một và chỉ một đường thẳng không cắt đường thẳng đã cho. Và câu lệnh cuối cùng tương đương với
 
-Cơm. 2.
+Hình 2.
 
 nhưng tổng các góc của bất kỳ tam giác nào cũng là 180°.
 
@@ -208,17 +208,17 @@ Từ giả định thoạt nhìn hoàn toàn ngu ngốc này, Lobachevsky bắt 
 
 Hãy bắt đầu với thực tế là tổng các góc của một tam giác trong đó luôn nhỏ hơn 180°; rằng tập hợp tất cả các điểm của mặt phẳng nằm trong một nửa mặt phẳng và cách đều một đường thẳng cho trong đó - “cơ sở” - hoàn toàn không phải là một đường thẳng mà là một đường thẳng đặc biệt gọi là đường cách đều; rằng qua ba điểm không nằm trên một đường thẳng, người ta có thể vẽ một đường tròn, một đường cách đều hoặc một đường trung gian giữa chúng - một “horocycle”.
 
-Cơm. 3. Thông qua điểm $C$, nằm bên ngoài đường $AB$, Lobachevsky đề xuất có thể vẽ ít nhất hai đường thẳng $a$ và $b$ không giao nhau với đường $AB$ (để rõ ràng, “các đường thẳng” $a$ và $b$ được hiển thị ở đây dưới dạng loại trừ). Tương tự như vậy, đường thẳng $AB$ và đường thẳng $m$, $n$, $p$ đi qua điểm $C$ không cắt nhau.
+Hình 3. Thông qua điểm $C$, nằm bên ngoài đường $AB$, Lobachevsky đề xuất có thể vẽ ít nhất hai đường thẳng $a$ và $b$ không giao nhau với đường $AB$ (để rõ ràng, “các đường thẳng” $a$ và $b$ được hiển thị ở đây dưới dạng loại trừ). Tương tự như vậy, đường thẳng $AB$ và đường thẳng $m$, $n$, $p$ đi qua điểm $C$ không cắt nhau.
 
-Cơm. 4. Tổng các góc của một tam giác nhỏ hơn hai đường thẳng.
+Hình 4. Tổng các góc của một tam giác nhỏ hơn hai đường thẳng.
 
-Cơm. 5. Trực giao cách đều trên mọi đường thẳng vuông góc với đáy.
+Hình 5. Trực giao cách đều trên mọi đường thẳng vuông góc với đáy.
 
 Qua một điểm nằm trong một góc, không phải lúc nào cũng vẽ được đường thẳng cắt hai cạnh của góc đó. Cuối cùng, không có đa giác nào như vậy trong hình học này.
 
 ⟦folio 12⟧
 
-Cơm. 6. Tử vi trực giao với bút chì có các đường thẳng song song.
+Hình 6. Tử vi trực giao với bút chì có các đường thẳng song song.
 
 Lobachevsky cũng xem xét hình học của không gian. Bằng cách xoay một vòng tròn, hình cầu và vật cách đều xung quanh các đường thẳng trực giao với chúng, người ta có thể thu được trong trường hợp thứ nhất là một hình cầu, trong trường hợp thứ hai - một quả cầu, trong trường hợp thứ ba - một bề mặt cách đều, tức là quỹ tích hình học của các điểm trong không gian cách đều mặt phẳng. Hóa ra hình học trên mặt cầu trùng với hình học của mặt cầu nhật thực, hình học trên tử quyển trùng với hình học của mặt phẳng nhật thực, và hình học trên mỗi trong số hai khoang của bề mặt cách đều cùng loại với hình học của mặt phẳng lobachevsky.
 
@@ -234,7 +234,7 @@ Hình học Euclide có thể được coi là trường hợp giới hạn củ
 
 Sau khi thiết lập nền tảng của hình học mới và các quan hệ lượng giác trong các tam giác của hình học này, Lobachevsky đã đưa tọa độ vào hình học này và giải số lượng lớn bài toán của hình học giải tích và bài toán để tính diện tích và thể tích, với sự trợ giúp của nó trước tiên
 
-Cơm. 7. Nếu điểm $A$ nằm phía bên kia của “đường thẳng” song song với hai cạnh của góc thì qua đó không thể kiểm tra được đường thẳng cắt hai cạnh của góc.
+Hình 7. Nếu điểm $A$ nằm phía bên kia của “đường thẳng” song song với hai cạnh của góc thì qua đó không thể kiểm tra được đường thẳng cắt hai cạnh của góc.
 
 tính được một dãy tích phân xác định.
 
@@ -246,7 +246,7 @@ Cùng lúc với Lobachevsky, một số nhà toán học khác đã khám phá 
 
 Vào ngày 23 tháng 2 năm 1826, tại một cuộc họp của khoa khoa học vật lý và toán học của Đại học Kazan, Lobachevsky, 33 tuổi, đã báo cáo về khám phá của mình và yêu cầu giới thiệu tác phẩm viết bằng tiếng Pháp để xuất bản.
 
-Cơm. 8. Trên mỗi bề mặt của một hyperbolon như vậy, hình học lobachevsky được hiện thực hóa nếu khoảng cách $d$ giữa các điểm $A(x_1; y_1, z_1)$ và $B(x_2; y_2; z_2)$ được xác định bởi công thức $d^2 = (x_2 - x_1)^2 + (y_2 - y_1)^2 - (z_2 - z_1)^2$. Một không gian có khoảng cách giữa các điểm được xác định theo cách này được gọi là giả Euclide.
+Hình 8. Trên mỗi bề mặt của một hyperbolon như vậy, hình học lobachevsky được hiện thực hóa nếu khoảng cách $d$ giữa các điểm $A(x_1; y_1, z_1)$ và $B(x_2; y_2; z_2)$ được xác định bởi công thức $d^2 = (x_2 - x_1)^2 + (y_2 - y_1)^2 - (z_2 - z_1)^2$. Một không gian có khoảng cách giữa các điểm được xác định theo cách này được gọi là giả Euclide.
 
 Những người có mặt tại cuộc họp đều không thể hiểu được công việc; Một ủy ban gồm ba chuyên gia đã được chỉ định để xem xét chi tiết bài luận được gửi. Tuy nhiên, cả cộng sự Nikolai Dmitrievich Brashman, sau này là một nhà khoa học lỗi lạc, một trong những người sáng lập Hiệp hội Toán học Moscow, cũng như giáo sư Aleksandr Ykovlevich Kupfer, cũng như bạn cũ và bạn cùng lớp của Nikolai Ivanovich, một nhà khoa học lỗi lạc thời bấy giờ, Ivan Mikhailovich Simonov, đều không thể hiểu được ý nghĩa vật lý sâu sắc nhất của hình học mới. Tháng này qua tháng khác, năm này qua năm khác, không nhận được phản hồi nào từ ủy ban khoa học và công trình vô giá vẫn được lưu trữ.
 
@@ -260,7 +260,7 @@ Gauss viết: “Tôi bắt đầu đọc tiếng Nga trôi chảy hơn và cả
 
 ⟦folio 14⟧
 
-Cơm. 9. Cách giải thích Beltrami-Klein có thể đạt được bằng cách chiếu một hình cầu có bán kính tối thiểu trong không gian giả Euclide từ tâm của nó lên một mặt phẳng tiếp tuyến với nó.
+Hình 9. Cách giải thích Beltrami-Klein có thể đạt được bằng cách chiếu một hình cầu có bán kính tối thiểu trong không gian giả Euclide từ tâm của nó lên một mặt phẳng tiếp tuyến với nó.
 
 Theo sáng kiến ​​của Gauss, Lobachevsky được bầu làm thành viên tương ứng của Hiệp hội Hoàng gia Goettigen. Trong Bằng tốt nghiệp gửi cho Kazan, ông được gọi là “một trong những nhà toán học xuất sắc nhất bang Nga”. Tuy nhiên, “vua của các nhà toán học” không xuất hiện trên báo in với sự công nhận của công chúng đối với công lao của Lobachevsky, hoặc ông sợ những người cùng thời với mình không thể hiểu được. Trong suốt cuộc đời của lobachevsky, chỉ có một đồng nghiệp của ông—giáo sư Đại học Kazan P.I. Kotelnikov—đã công bố ý nghĩa khoa học và giáo dục to lớn của khám phá của mình.
 
@@ -270,21 +270,21 @@ Trong không gian Euclide “thông thường” của chúng ta, Beltrami đã 
 
 *) Một đường nối hai điểm của một bề mặt nhất định được gọi là đường trắc địa trên đó nếu nó được biểu diễn dưới dạng một đường ngắn.
 
-Cơm. 10. Theo cách giải thích của Beltrami-Klein, mặt phẳng Lobachevsky luôn được mô tả bên trong vùng bên trong của đường tròn; các đường thẳng được thể hiện bằng các dây của đường tròn này.
+Hình 10. Theo cách giải thích của Beltrami-Klein, mặt phẳng Lobachevsky luôn được mô tả bên trong vùng bên trong của đường tròn; các đường thẳng được thể hiện bằng các dây của đường tròn này.
 
-Cơm. 11. Giải thích Poincaré có thể thu được bằng cách chiếu một hình cầu có bán kính tối thiểu trong không gian giả Euclide từ một trong các thềm của nó lên mặt phẳng xích đạo.
+Hình 11. Giải thích Poincaré có thể thu được bằng cách chiếu một hình cầu có bán kính tối thiểu trong không gian giả Euclide từ một trong các thềm của nó lên mặt phẳng xích đạo.
 
 khoảng cách nhỏ nhất (dọc theo một bề mặt) giữa hai điểm đủ gần.
 
 ⟦folio 15⟧
 
-Cơm. 12. Theo cách giải thích của Poincaré, mặt phẳng lobachevsky luôn được mô tả là vùng bên trong của đường tròn; các đường thẳng được biểu diễn bằng hai đường tròn trực giao với chu vi của một đường tròn. Mọi góc độ vẫn tự nhiên.
+Hình 12. Theo cách giải thích của Poincaré, mặt phẳng lobachevsky luôn được mô tả là vùng bên trong của đường tròn; các đường thẳng được biểu diễn bằng hai đường tròn trực giao với chu vi của một đường tròn. Mọi góc độ vẫn tự nhiên.
 
 Lobachevsky là tác giả của một số công trình trong các lĩnh vực toán học khác. Một số công trình liên quan đến hình học của nó - ví dụ, công việc tính toán các khoảng nhất định, công việc ước tính đáng tin cậy về những gì quan sát được khi đo tổng các góc của một tam giác có các cạnh rất lớn. Các công trình khác liên quan đến đại số và giải tích: “Đại số hoặc phép tính hữu hạn” (1834), “Về sự biến mất của các chuỗi lượng giác” (1834), “Về sự hội tụ của chuỗi vô hạn” (1841), v.v. Lobachevsky là một trong những người đầu tiên đưa ra định nghĩa tổng quát về hàm số, hình thành khái niệm tính liên tục và khả vi của hàm số và xác lập sự khác biệt giữa các khái niệm này mà trước ông thường bị nhầm lẫn.
 
 Nhưng công lao chính của Lobachevsky, đóng góp quý giá nhất của ông cho kho tàng khoa học thế giới, là sự hoàn thiện những ý tưởng truyền thống và không thể bác bỏ bằng trực giác - sự bác bỏ định đề thứ năm và tạo ra một hình học tổng quát, trong đó hình học Euclid chỉ là một trường hợp cực kỳ đặc biệt. Con đường mà Lobachevsky lần đầu tiên đi, ở một mức độ lớn
 
-Cơm. 13. Tam giác theo cách giải thích của Poincare. Rõ ràng là tổng các góc của nó nhỏ hơn 180°,
+Hình 13. Tam giác theo cách giải thích của Poincare. Rõ ràng là tổng các góc của nó nhỏ hơn 180°,
 
 đã xác định bộ mặt của toán học hiện đại.
 

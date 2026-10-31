@@ -34,7 +34,7 @@ Trở lại năm 1808, nhà khoa học người Pháp Etienne-Louis Malus đã p
 
 Chúng ta hãy nhìn qua kính phân cực một khối ánh sáng phản chiếu từ một tấm kính ở một góc lớn. Bằng cách xoay bản phân cực quanh trục của nó, bạn có thể đảm bảo rằng chùm tia phản xạ bị phân cực một phần với hướng dao động chính vuông góc với mặt phẳng
 
-Cơm. 1.
+Hình 1.
 
 ⟦folio 23⟧
 
@@ -48,7 +48,7 @@ Vì ánh sáng phản xạ từ ranh giới của hai chất điện môi bị p
 
 ⟦folio 24⟧
 
-Cơm. 2.
+Hình 2.
 
 những vùng có sọc hoặc đốm màu không đều. Thật thuận tiện khi sử dụng một chân làm bằng tấm thủy tinh làm bản phân cực phản chiếu.
 
@@ -60,7 +60,7 @@ Sự phân cực của ánh sáng tán xạ cũng có thể được quan sát t
 
 Lấy bất kỳ bình nào có thành trong suốt với hình dạng bất kỳ: ly hình trụ, bình hình cầu hoặc bình có thành phẳng, bình thủy tinh nửa lít hoặc lít. Bạn cũng có thể lấy một chai làm bằng thủy tinh không sơn. Đổ đầy Goda vào bình, sau đó thêm một vài giọt mực hoặc mực vào đó và khuấy đều. Chiếu sáng bình bằng một số nguồn tạo ra chùm ánh sáng định hướng, ví dụ, đèn pin điện tử hoặc máy chiếu trên cao. Các hạt nhỏ lơ lửng trong nước sẽ tán xạ ánh sáng rõ rệt. Tàu là tốt nhất
 
-Cơm. 3.
+Hình 3.
 
 đặt nó càng gần nguồn sáng càng tốt để đường kính chùm tia là tối thiểu. Để tránh ánh sáng chói từ thành bình gây cản trở quan sát, tốt nhất nên dán màng giấy lên đèn pin hoặc máy chiếu sao cho kích thước ngang của chùm sáng nhỏ hơn vài lần đường kính của bình.
 

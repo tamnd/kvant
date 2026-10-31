@@ -45,7 +45,7 @@ Hãy lấy ví dụ sau. Khoảng cách là một tập hợp bao gồm một đ
 
 ⟦folio 39⟧
 
-Cơm. 6.
+Hình 6.
 
 thỏa mãn điều kiện bài toán. Hãy để chúng tôi chứng minh rằng không thể thêm một điểm nào vào nó (điều này gần như rất indo). Trong thực tế, nếu một điểm nằm bên trong hình bán nguyệt trên đường kính của nó (Hình 3, điểm X), thì luôn có thể tìm được điểm C trên hình bán nguyệt sao cho tam giác ACX nhọn. Điều tương tự cũng đúng với tất cả các điểm nằm trong không phải hình bán nguyệt hoặc bên trong nhưng nằm ngoài đường kính của nó (Hình 4, các điểm X' và X''; các điểm tương ứng B', C' và B''', C'' được chọn "đủ gần"). Nếu điểm được chọn trên đường kính không phải hình bán nguyệt (Hình 5, điểm M), thì sẽ xảy ra sự đảo ngược - trong Hình 5, các điểm M, N, K nằm trên cùng một đường thẳng.
 
@@ -76,7 +76,7 @@ $$\begin{align*}
 
 Khi di chuyển từ đa giác $N_h$ sang đa giác $N_{h+1}$, các điểm $B_1$ và $C_1$ vẫn là các đỉnh của nó nhưng không còn liền kề nữa: một đỉnh mới $A_1$—giữa đoạn $[B_2C_2]$—xuất hiện giữa chúng. Do đó, đa giác $N_{h+1}$ được lấy từ đa giác $N_h$ bằng cách thêm một hình tam giác loại $B_1A_1C_1$ vào mỗi cạnh của nó $[B_1C_1]$.
 
-Cơm. 8.
+Hình 8.
 
 ⟦folio 41⟧
 
@@ -102,11 +102,11 @@ Cho sư tử chạy đoạn $AA_1 = x_1$. Chúng ta hãy xoay vectơ của nó (
 
 Hãy cùng theo dõi chuyển động của tâm đấu trường - điểm $O$. Đầu tiên, điểm $O$ quay vectơ của điểm $A_1$ theo góc $\alpha_1$, sau đó quay vectơ của điểm $A_2$ theo góc $\alpha_2$, v.v. Mỗi lần tâm của đấu trường $O$ cách tâm quay không quá 10 $m$, vì tâm quay là con sư tử nằm bên trong đấu trường. Do đó, trong lần quay đầu tiên, điểm $O$ sẽ di chuyển không quá $\alpha_1 \cdot 10(m)$, trong lần quay thứ hai - không quá $\alpha_2 \cdot 10(m)$, v.v. ($\alpha_1, \dots, \alpha_{k-1}$ được đo bằng radian). Tất cả các điểm $O$ di chuyển
 
-Cơm. 10.
+Hình 10.
 
 ⟦folio 42⟧
 
-Cơm. 11.
+Hình 11.
 
 không quá $(\alpha_1 + \dots + \alpha_{k-1}) \cdot 10(m)$, tức là
 $$O'O'' \leq (\alpha_1 + \dots + \alpha_{k-1}) \cdot 10(m)$$

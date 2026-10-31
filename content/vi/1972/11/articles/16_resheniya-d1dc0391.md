@@ -56,7 +56,7 @@ Chúng ta chỉ cần chứng minh rằng có thể thu được dₘ lít là �
 
 ⟦folio 44⟧
 
-Cơm. 3.
+Hình 3.
 
 phải nằm trên biên của tập hợp $V$; không ai trong số chúng có thể ở bên trong $V$: xét cho cùng, $V$ được chứa trong mỗi sọc $\Pi_{ij}$.
 
@@ -84,7 +84,7 @@ Hãy chứng minh 1°. Khi chuyển sang $\overrightarrow{A_i A_j}$, sọc $\Pi_
 
 Thay đổi 2° diễn ra sau 1°: chỉ cần thay thế $V_j$ thu được từ $V_i$ bằng cách dịch chuyển sang vectơ $\overrightarrow{A_i A_j}$ (Hình 4).
 
-Cơm. 4.
+Hình 4.
 
 $$3^\circ \text{ следует из более общого факта: если } ABC \text{ — три точки выпуклого многогранника, } W \text{ и } W' \text{ — многогранник, полученный из } W \text{ растяжением в 2 раза с центром в точке } A, \text{ то четыряя вершина } D \text{ параллелограмма } ABDC \text{ (то есть точка, получшаяся из } C \text{ сдигром на вектор } \overrightarrow{AB}) \text{ принадлежит } W'.$$
 
@@ -121,7 +121,7 @@ Cho $n$ các số $x_1, x_2, \dots, x_n$ được viết xung quanh một vòng 
 a) Chứng minh rằng $n$ là bình phương của một số nguyên.
 b) Có bộ số $n$ như vậy cho $n = 16$ không?
 
-Cơm. 8.
+Hình 8.
 
 ⟦folio 46⟧
 
@@ -175,7 +175,7 @@ Một trong những sinh vật đa bào đơn giản nhất - tảo "sói" - là
 
 ⟦folio 47⟧
 
-Cơm. 9.
+Hình 9.
 
 là một lớp vỏ hình cầu được gấp lại thành một hình bảy cạnh chính, hình lục giác và hình ngũ giác với các ô (nghĩa là các ô có bảy, sáu hoặc năm ô lân cận; ba ô hội tụ ở mỗi “đỉnh” (Hình 9). Có những mẫu vật có cả ô tứ giác và hình bát giác, nhưng các nhà sinh học nhận thấy rằng nếu không có ô “không chuẩn” như vậy (nhỏ hơn ở cạnh thứ năm và lớn hơn bảy cạnh), thì hình ngũ giác luôn lớn hơn các ô hình bảy cạnh đúng 12 lần (hình tổng số ô có thể lên tới vài trăm, thậm chí hàng nghìn).
 
@@ -193,7 +193,7 @@ M134
 
 Tập hợp điểm nào được lấp đầy bởi ba hình tam giác có ba đỉnh lần lượt nằm trên ba cạnh $AB, BC$ và $AC$ của tam giác đã cho $ABC$?
 
-Cơm. 10.
+Hình 10.
 
 Sẽ thuận tiện cho chúng ta khi xem xét không chỉ các tam giác đầy đủ mà còn cả các tam giác suy biến. Trước tiên chúng ta hãy chứng minh rằng bất kỳ điểm nào của hình lục giác màu xanh đều là trọng tâm của tam giác nội tiếp (Hình 10). Đối với điều này, chúng tôi cần như vậy
 
@@ -203,11 +203,11 @@ Bây giờ dễ dàng chứng minh được rằng mọi điểm của lục gi�
 
 ⟦folio 48⟧
 
-Cơm. 11.
+Hình 11.
 
 trọng lực và một số tam giác nội tiếp. Thật vậy, chỉ cần chứng minh điều này cho các đỉnh của nó là đủ và sau đó sử dụng bổ đề - với sự trợ giúp của nó, chúng ta có thể di chuyển từ các đỉnh đến biên và sau đó đến bất kỳ điểm bên trong nào. Nhưng đối với các đỉnh, những tam giác như vậy được xây dựng không gặp khó khăn: đây là những tam giác có các đỉnh nằm ở các đỉnh của tam giác chính và hai đỉnh hợp nhất thành một.
 
-Cơm. 12.
+Hình 12.
 
 Vẫn còn phải chứng minh rằng các điểm nằm bên trong các tam giác $AB_1C_1$, $A_1BC_2$, $A_2B_2C$ không thể là trọng tâm của các tam giác nội tiếp. Thật vậy, giả sử một số điểm $O$ của tam giác $AB_1C_1$ được gọi là tam giác $KLM$, mà nó là trọng tâm (Hình 12). Nhưng sau đó nó chia đoạn $KN$ theo tỷ lệ 1:2, điều này là không thể.
 
@@ -219,7 +219,7 @@ F148
 
 Một hạt nhân có khối lượng $M$, bay với tốc độ $v$, vỡ thành hai mảnh giống hệt nhau. Nội năng của hạt nhân là $E_1$, nội năng của mỗi ổ cắm là $E_2$ ($E_1 > 2E_2$). Xác định góc lớn nhất có thể có giữa vectơ vận tốc của một trong các ổ cắm và vectơ $v$.
 
-Cơm. 13.
+Hình 13.
 
 Trong hệ tọa độ liên kết với khối tâm của lõi và chuyển động tương đối với Trái đất với tốc độ $v$, các hạt cói được tách ra theo các hướng ngược nhau với tốc độ bằng nhau. Động năng của các mảnh này bằng hiệu giữa nội năng của hạt nhân và
 
@@ -259,7 +259,7 @@ Do đó, lực tương tác giữa các quả bóng tỷ lệ với $\frac{1}{R^
 
 $$\frac{F_1}{F_2} = \frac{\frac{4\alpha q^2 r}{R^5}}{\frac{4\alpha q^2 r}{(2R)^5}} = 2^5 = 32.$$
 
-Cơm. 14.
+Hình 14.
 
 F150
 
@@ -318,7 +318,7 @@ Không khó để chỉ ra rằng các tia đi tới gương $II$ tới “ngu�
 
 ⟦folio 51⟧
 
-Cơm. 16.
+Hình 16.
 
 Điểm $S_3$ là nguồn tối thiểu cho ống kính. Hãy cùng tìm hình ảnh của nó $S_4$. Để làm điều này, hãy viết lại công thức thấu kính:
 

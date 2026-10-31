@@ -53,7 +53,7 @@ x_4 & x_5 & x_6 \\
 x_7 & x_8 & x_9
 \end{bmatrix}$$
 
-Cơm. 1.
+Hình 1.
 
 ⟦folio 28⟧
 
@@ -85,7 +85,7 @@ trong đó $\Pi$ là tích của các số được viết trong một hàng ho�
 
 Hãy để chúng tôi giải thích điều này bằng một ví dụ. Để thuận tiện cho việc trình bày, chúng tôi đánh số các ô trong bảng (Hình 2) và viết trò chơi dưới dạng một dòng gồm chín số có chỉ số, trong đó chỉ số biểu thị số ô,
 
-**Cơm. 2.**
+**Hình 2.**
 
 ⟦folio 29⟧
 

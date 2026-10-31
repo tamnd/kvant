@@ -54,7 +54,7 @@ Tứ diện $MNKL$ đúng vì mỗi cạnh của nó bằng $2x$. Các mặt c�
 
 ⟦folio 62⟧
 
-Cơm. 3.
+Hình 3.
 
 Lời giải. Đặt $P$ và $P_1$ là tâm của paramid bị cắt cụt chính, $DD_1$ trung điểm của nó (Hình 3). Chúng ta hãy biểu thị các cạnh chính bằng $x$ và $y$. Từ hình thang $AA_1D_1D$ là
 
@@ -82,7 +82,7 @@ Nhiệm vụ 5 (MIPT, 1968). Đánh giá cao hình cầu được mô tả xung 
 
 62
 
-Cơm. 4.
+Hình 4.
 
 Chúng ta đang ở khoảng cách $a$ tính từ mặt bên $u$ ở khoảng cách $b$ tính từ cạnh bên. Tìm bán kính của hình cầu.
 

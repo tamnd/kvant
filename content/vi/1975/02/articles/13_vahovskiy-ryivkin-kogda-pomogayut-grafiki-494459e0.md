@@ -83,7 +83,7 @@ Lý do trên không phải là không có cơ sở, nhưng thật không may, n�
 
 Khi $1+m=0$, tức là $m=-1$, phương trình trở thành $3x-4=0$. Gốc $x=4/3$ của nó không thỏa mãn điều kiện bài toán; nó không nằm giữa 2 và 5.
 
-Cơm. 1.
+Hình 1.
 
 Nếu $1+m \neq 0$ thì vế trái của phương trình là tam thức bậc hai và đồ thị của nó là parabol. Vì tam thức phải có nghiệm thực, nên $D \geq 0$, tức là $9m^2-16m(m+1) \geq 0$. Do đó $0 \geq m \geq -16/7$.
 
@@ -142,7 +142,7 @@ Bây giờ đặt $D_2 = 0$, tức là $\alpha = -\frac{2}{3}$. lời giải b�
 Bây giờ chúng ta có thể giả sử rằng $D_1 > 0$ và $D_2 > 0$. Để một hệ thống nhất định có một lời giải duy nhất, điều cần thiết và đủ là các tích phân $[x_1, x_2]$ và $[x'_1, x'_2]$ lời giải có một điểm chung duy nhất. Điều này có thể xảy ra ở $x'_2 = x_1$ hoặc $x_2 = x'_1$.
 Đồ thị ở phía bên trái của (7) là một parabol từ đỉnh abscissa $x_0 = -1$, và đồ thị ở phía bên trái (8) là một parabol từ đỉnh abscissa $x'_0 = 2$.
 
-Cơm. 4.
+Hình 4.
 Do đó, nếu $\alpha$ thỏa mãn điều kiện bài toán thì các parabol nằm chính xác như trên Hình 4. Do đó, khả năng duy nhất còn lại là $x_2 = x'_1$, tức là $-1 + \sqrt{1-\alpha} = 2 - \sqrt{4+6\alpha}$. Giải phương trình vô tỉ này, chúng ta tìm ra nghiệm duy nhất của nó $\alpha = 0$ (giá trị $\alpha = \frac{48}{49}$, cũng có thể thực hiện được trong quá trình lời giải - nghiệm được xây dựng). Vì vậy, $\alpha = 0$.
 Đáp số: 0; 1.
 Bài toán 5 (NSU, Cơ học và Toán học, 1968). Với mỗi thực là một môi trường của tất cả các thùy của mặt phẳng, các tọa độ comorbix $x$, $y$ thỏa mãn hệ bất đẳng thức
@@ -157,9 +157,9 @@ $$\begin{cases} y \geqslant f(x), \\ y \leqslant \varphi(x), \end{cases}$$
 
 Đồ thị $y = f(x)$ là đường thẳng đi qua gốc tọa độ và mọi điểm trên mặt phẳng thỏa mãn bất đẳng thức (9) đều không thấp hơn đường thẳng này. Như vậy, với mỗi $a$ phải tìm được một điểm của parabol $y = \varphi(x)$ nằm không thấp hơn đường thẳng $y = 2x$ và có thứ tự lớn nhất. Có hai trường hợp có thể xảy ra về vị trí tương đối của parabol và một đường thẳng: đỉnh của parabol không nằm thấp hơn đường thẳng $y = 2x$, hoặc nó nằm dưới đường thẳng này (xem Hình 5). Trong trường hợp đầu tiên, nghiệm bài toán sẽ là điểm $(x_0, y_0)$, là đỉnh của parabol, trong trường hợp thứ hai - điểm $(x_1, y_1)$, tọa độ của nó thỏa mãn đồng thời phương trình của đường thẳng và parabol. Phương trình của parabol giúp bạn dễ dàng tìm được tọa độ đỉnh của nó: $x = a$, $y = a + 1$. Chúng ta thấy rằng tất cả các đỉnh của parabol $y = \varphi(x)$ tại
 
-Cơm. 5.
+Hình 5.
 
-Cơm. 6.
+Hình 6.
 
 các giá trị khác nhau của tham số $a$ nằm trên đường $y = x + 1$ và ngược lại, mỗi điểm $(x_0, y_0)$ của đường $y = x + 1$ tương ứng với một parabol $y = \varphi(x)$, có đỉnh trong đó - chỉ cần lấy $a = x_0$. Hãy vẽ các đường thẳng $y = x + 1$ và $y = 2x$ trên một biểu đồ (Hình 6). Giao điểm của hai đường này là điểm (1, 2). Tại $a \leqslant 1$ đường $y = x + 1$ sẽ nằm phía trên đường $y = 2x$ và nghiệm của bài toán sẽ là điểm $(a, a + 1)$. Nếu $a > 1$ thì nghiệm là điểm $(x, y)$, thỏa mãn hệ
 $$\begin{cases} y - 2x = 0, \\ -x^2 + 2ax - a^2 + a + 1 - y = 0; \end{cases}$$

@@ -96,7 +96,7 @@ $$|AB|^2 + |CD|^2 = |BC|^2 + |AD|^2.$$
 
 ⟦folio 24⟧
 
-Cơm. 5.
+Hình 5.
 
 4. Tổng bình phương chiều dài các đường chéo của hình thang bằng tổng bình phương chiều dài các cạnh bên của nó và nhân đôi chiều dài của các đáy.
 

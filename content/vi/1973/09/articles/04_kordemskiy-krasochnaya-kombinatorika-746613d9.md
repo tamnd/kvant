@@ -78,7 +78,7 @@ Tìm hiểu điều gì là quan trọng nhất
 
 ⟦folio 22⟧
 
-Cơm. 9.
+Hình 9.
 
 Bài toán 10. Xác định số lượng dừa tối thiểu mà năm thủy thủ đổ bộ lên đảo sau một vụ đắm tàu ​​có thể thu thập được, nếu họ chia số quả dừa như sau: người đầu tiên thu hoạch một quả martin và lấy $1/5$ một phần số quả còn lại; mạnh mẽ, lần lượt 4 thủy thủ còn lại cũng chấp nhận; Sau Emodo, lần thứ sáu, họ thu hoạch một hạt từ martynika và chia đều phần còn lại cho mình.
 

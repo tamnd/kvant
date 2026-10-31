@@ -70,7 +70,7 @@ bài toán này có thể được giải chỉ bằng định luật Newton. Nh
 
 *) Thường thì phần mở đầu đầu tiên được gọi là sự tương ứng tổng quát hơn (1).
 
-Cơm. 1.
+Hình 1.
 lời giải như vậy thực tế không thể thực hiện được trong khuôn khổ một khóa học ở trường.
 Hãy sử dụng định luật bảo toàn năng lượng.
 Ban đầu vòng có thế năng $mgh$ (m là khối lượng của vòng); Đến cuối đường đi dọc theo mặt phẳng nghiêng, toàn bộ năng lượng này đã chuyển thành động năng, gồm năng lượng của chuyển động tịnh tiến $\frac{mv^2}{2}$ (v là tốc độ cuối cùng của khối tâm vòng) và năng lượng của chuyển động quay. Vì vòng không trượt nên tốc độ tuyến tính của tất cả các điểm của nó bằng tốc độ chuyển động tịnh tiến của toàn bộ vòng, tức là $v$. Do đó, động năng của chuyển động quay cũng như chuyển động tịnh tiến bằng $\frac{mv^2}{2}$.
@@ -136,7 +136,7 @@ Bài toán 4. Một tụ điện có công suất $C_1 = 1$ uF được tích đ
 
 ⟦folio 33⟧
 
-Cơm. 3.
+Hình 3.
 
 Một tụ điện không tích điện có xương $C_2 = 2$ µF được nối với nó thông qua diode D và độ tự cảm L (Hình 3). Menchalas sẽ bị tính phí chênh lệch bao nhiêu sau khi đóng khóa K? Điện trở của dây không đáng kể. Điện trở của diode theo hướng thuận có thể được coi là bằng 0 và theo hướng ngược lại, nó có thể được coi là vô cùng lớn. Giá trị của độ tự cảm L đủ lớn để quá trình nạp điện diễn ra chậm.
 
@@ -168,7 +168,7 @@ Vì vật chịu trách nhiệm nhỏ và hệ số hấp thụ nhỏ nên mỗi
 
 ⟦folio 34⟧
 
-Cơm. 5. Hình 6.
+Hình 5. Hình 6.
 
 chất rắn hoặc sẽ bị các bức tường hấp thụ, theo quy luật, sẽ đi qua khoang thu nhiều lần theo nhiều hướng khác nhau. Vì hướng của ánh sáng được xác định bởi các yếu tố ngẫu nhiên nên các dòng năng lượng theo các hướng khác nhau phải được cân bằng. Bức xạ đẳng hướng (phân bố đều theo mọi hướng) xảy ra trong buồng.
 

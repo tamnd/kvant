@@ -50,7 +50,7 @@ M170. a) Gọi $M$ và $N$ là điểm tiếp tuyến của đường tròn nộ
 
 6) Chứng minh một thực tế tổng quát hơn: nếu điểm $O$ nằm bên trong tam giác $ABC$ sao cho $\angle BOC = \angle BAO = 90^\circ$, $M$ và $N$ là đáy của các đường vuông góc hạ từ điểm $O$ sang các cạnh $AB$ và $AC$, $P$ là giao điểm của các đường thẳng $BO$ và $MN$, sau đó là $\angle BPC = 90^\circ$ (Hình 2).
 
-Cơm. 2.
+Hình 2.
 
 F180. Một bình lập phương kín có cạnh 1 cm chứa $n$ phân tử khí. Các chồng khối lập phương sao cho các phân tử khí khi va vào tường sẽ ở trên đó trong $10^{-2}$ s. Ước tính có bao nhiêu phân tử khí trên tường.
 
@@ -66,7 +66,7 @@ Tốc độ truyền âm trong nước là $V$. Đáy nằm ngang.
 
 F182. Một quả cầu kim loại được đưa vào một điện trường đều có hướng bằng $E$. Người ta biết rằng mật độ bề mặt điện tích tại “cực” của quả bóng tại điểm $A$ (Hình 3) bằng $\sigma_0$. Xác định mật độ bề mặt của điện tích tại điểm $B$, hướng tính từ tâm
 
-Cơm. 3.
+Hình 3.
 
 quả bóng tạo một góc $\alpha$ với hướng của điện trường ngoài.
 

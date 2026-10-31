@@ -55,5 +55,5 @@ Vilet số 2
 
 4. Bên trong ống mao dẫn thủy tinh có một chất khí ở áp suất thấp, trong đó có sự phóng điện làm cho toàn bộ cột khí là nguồn bức xạ tán xạ. Ở góc tối đa φmax so với bán kính thì chùm sáng có thể xuyên qua thành ngoài của mao quản là bao nhiêu? Bán kính trong và ngoài của mao quản lần lượt là r=2 mm và R=4 mm.
 
-Cơm. 1.
+Hình 1.
 64

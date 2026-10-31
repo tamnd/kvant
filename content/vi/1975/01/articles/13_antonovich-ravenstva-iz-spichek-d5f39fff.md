@@ -24,7 +24,7 @@ translation_quality: draft
 ---
 
 ⟦figure⟧
-Cơm. 2.
+Hình 2.
 
 Tương tự như vậy chúng ta nhận được
 

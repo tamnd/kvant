@@ -65,7 +65,7 @@ dao động chỉ xảy ra trong một mạch có tần số tự nhiên $v_0$. 
 
 $$u(t) = A \sin(2\pi v_0 t + \varphi) = A \sin(\omega_0 t + \varphi),$$
 
-cơm. 1.
+hình 1.
 
 dao động chỉ xảy ra trong một mạch có tần số tự nhiên $v_0$. Rõ ràng, đối với các mạch dao động như vậy, quá trình tuần hoàn $u_3(t)$ là đơn giản nhất, vì nó chỉ gây ra sự kích thích ở một tần số bằng $v_0$. Quá trình này chắc chắn quen thuộc với bạn; nó đại diện cho cái gọi là dao động hình sin, hay dao động điều hòa, được mô tả bằng sự tương ứng
 
@@ -81,7 +81,7 @@ Do đó, tín hiệu được biểu thị dưới dạng tổng của sóng hì
 
 ⟦folio 5⟧
 
-Cơm. 3.
+Hình 3.
 
 nén biên độ của các sóng hài dọc riêng lẻ thành các đoạn có độ dài thích hợp. Quang phổ như vậy là đường thẳng và hài hòa. Điều thứ hai có nghĩa là có nhiều sự tương ứng đơn giản giữa các tần số hài. Nếu quá trình không tuần hoàn thì nó cũng có thể được biểu diễn bằng tổng các hình sin, nhưng phổ của quá trình đó sẽ không hài hòa. Tập hợp các đại lượng $\varphi_h$ được gọi là phổ pha. Khi phân tích tín hiệu, trong hầu hết các trường hợp, chỉ cần biết phổ biên độ là đủ. Do đó, để nhân lên, phổ biên độ được gọi là phổ đơn giản, đó là điều chúng ta sẽ làm trong tương lai.
 
@@ -103,13 +103,13 @@ Những âm thanh không liên tục như tiếng trống hay tiếng gõ cá c�
 
 Một phổ như vậy, phổ tiếng ồn của máy nén, được thể hiện trong Hình 6. Nó chứa nhiều thành phần tần số khác nhau. Phổ tiếng ồn rộng hơn và phong phú hơn đáng kể so với phổ âm nhạc. Điều này có thể được xác minh dễ dàng bằng cách thực hiện, ví dụ, một thí nghiệm đơn giản với các buồng cắt có tần số dao động tự nhiên khác nhau. Chỉ một trong các buồng phản ứng với âm thanh dài của một giai điệu âm nhạc thuần khiết. Nếu bạn đánh trống thật gần, nhiều khoang sẽ bắt đầu chơi. Nghĩa là, một âm thuần có thể được biểu thị bằng một tần số và nhịp trống có thể được biểu thị bằng một số lượng lớn tần số.
 
-Cơm. 4.
+Hình 4.
 
 giảm xuống, do đó phổ thực tế của một tấn nhạc có tương đối ít hài âm. Vai trò của những hòa âm này trong việc cảm nhận cảm xúc về âm nhạc là rất lớn. Họ xác định âm sắc của âm thanh âm nhạc. Chơi cùng một nốt nhạc trên các nhạc cụ khác nhau, chúng ta thu được âm thanh có số lượng hài âm khác nhau và sự tương ứng khác nhau giữa biên độ của chúng. Sự tương ứng và quang phổ của những âm thanh này sẽ khác nhau, nhờ đó chúng ta đã phân biệt được âm thanh nào
 
-Cơm. 5.
+Hình 5.
 
-Cơm. 6.
+Hình 6.
 
 ⟦folio 7⟧
 

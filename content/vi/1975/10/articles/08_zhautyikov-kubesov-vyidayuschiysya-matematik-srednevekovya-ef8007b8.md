@@ -48,7 +48,7 @@ Al-Farabi có nhiều công lao trong việc phát triển hình học, đặc b
 
 Chúng ta hãy trình bày một trong hai cách xây dựng parabol theo điểm, rõ ràng là do al-Farabi đề xuất lần đầu tiên. Ông gọi Paraboly là “hình mẫu của một tấm gương gây cháy”. Ông viết: "Nếu chúng ta muốn chế tạo một chiếc gương (gây cháy), thì trước tiên chúng ta sẽ xây dựng một mẫu xác định gương. Để làm điều này, chúng ta hãy vẽ một vòng tròn có giá trị nhận được bằng khoảng cách mà chúng ta muốn chiếu sáng vật thể. (Tâm của vòng tròn là điểm E, xem Hình 1.) Chúng ta hãy vẽ đường kính AB của nó. Hãy đặt nó trên đường BE từ điểm B.
 
-Cơm. 1.
+Hình 1.
 
 nhiều đoạn bằng nhau. Các phân đoạn này càng nhỏ thì mẫu sẽ càng tốt và chính xác hơn. Gọi đây là các đoạn BC, CD và DE. Vẽ các đường thẳng đi qua các điểm C, D và E vuông góc (với BE) rồi vẽ tiếp theo cả hai hướng đến các điểm K, L và M. Nối B và K, B và L, B và M. Vẽ đường thẳng CN bằng đường thẳng BK, đường thẳng DO bằng đường thẳng BL, đường thẳng EP bằng đường thẳng BM. Hãy nối các điểm B, N, O và P và tạo một mẫu dọc theo đường này. (Chứng minh tính đúng đắn của việc xây dựng!)
 

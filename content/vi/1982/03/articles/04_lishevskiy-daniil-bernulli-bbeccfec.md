@@ -62,7 +62,7 @@ Daniel Bernoulli là người đầu tiên cho rằng áp suất khí là do chu
 
 “Hãy tưởng tượng một chiếc bình hình trụ được đặt thẳng đứng
 
-Cơm. 1.
+Hình 1.
 
 ADCB (Hình 1) và trong đó có một nắp di động EF, trên đó có một tải P. Giả sử không gian EDCF chứa các hạt cực nhỏ chuyển động cực nhanh theo các hướng khác nhau; Do đó, các hạt, va vào nắp và giữ nó với các tác động lặp đi lặp lại liên tục của chúng, tạo thành một chất lỏng đàn hồi, khi trọng lượng P được loại bỏ hoặc giảm đi, sẽ nở ra và khi tăng lên, co lại...
 
@@ -74,7 +74,7 @@ Chúng ta hãy xem xét một chất lỏng lý tưởng chảy qua một đư�
 
 ⟦folio 9⟧
 
-Cơm. 2.
+Hình 2.
 
 chất lỏng, tức là
 $$\varrho v_1 s_1 t = \varrho v_2 s_2 t.$$

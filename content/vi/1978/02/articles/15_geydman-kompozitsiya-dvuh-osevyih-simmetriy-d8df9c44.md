@@ -43,15 +43,15 @@ Thành phần của hai đối xứng qua trục l và m cắt nhau tại điể
 3) góc giữa hai đường thẳng nằm trong khoảng: 0°<α<90°;
 4) bất kỳ phép quay nào được đặc trưng bởi một góc nằm trong giới hạn: -180°<α≤180°.
 
-Cơm. 1. Hình 2.
+Hình 1. Hình 2.
 
 ⟦folio 37⟧
 
-Cơm. 3.
+Hình 3.
 
-Cơm. 4.
+Hình 4.
 
-Cơm. 5.
+Hình 5.
 
 Lennoy Chúng ta sẽ giả sử rằng góc định hướng từ đường thẳng l đến đường thẳng m có modulo bằng tổng góc giữa chúng và dấu của nó là dương; nếu, với một phép quay đủ nhỏ quanh điểm giao nhau O ngược chiều kim đồng hồ, đường thẳng l nằm trong góc nhọn (hoặc góc vuông) được tạo bởi các đường thẳng này. Nếu đường thẳng l nằm trong một góc nhọn (hoặc góc phải) với một góc quay nhỏ theo chiều kim đồng hồ quanh điểm O, thì góc từ đường thẳng l đến đường thẳng m là âm và mô đun của nó bằng tổng góc giữa các đường thẳng. Góc từ đường thẳng này đến chính nó được coi là bằng 0°. Như vậy, giá trị góc định hướng α từ đường thẳng l đến đường thẳng m lấy các giá trị sau: -90°<α≤90°; mỗi ngày
 

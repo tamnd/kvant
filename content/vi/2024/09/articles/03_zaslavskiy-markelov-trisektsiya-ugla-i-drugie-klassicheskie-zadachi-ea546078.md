@@ -46,7 +46,7 @@ Bài toán 1. Chia góc đã cho thành ba phần bằng nhau bằng cách sử 
 
 ⟦figure⟧
 
-Cơm. 1
+Hình 1
 
 Sự định nghĩa. Cho điểm chuyển động đều dọc theo tia quay với vận tốc góc không đổi xung quanh gốc tọa độ của nó. Khi đó đường cong mà nó mô tả được gọi là đường xoắn ốc Archimedes.
 

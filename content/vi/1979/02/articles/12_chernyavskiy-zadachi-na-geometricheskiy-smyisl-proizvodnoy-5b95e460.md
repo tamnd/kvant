@@ -49,11 +49,11 @@ Nhiệm vụ 2. Mặt cắt của địa điểm ô tô có dạng parabol (Hìn
 
 Lời giải. Lưu ý rằng độ dốc bão hòa là độ dốc của các đoạn tiếp tuyến
 
-Cơm. 1.
+Hình 1.
 
 ⟦folio 41⟧
 
-Cơm. 2.
+Hình 2.
 
 tương ứng với parabol tại các điểm $A$ và $B$. Chúng ta hãy chọn một hệ tọa độ như được chỉ ra trong Hình 2. Khi đó parabol trong hệ này được cho bởi một phương trình có dạng $y = ax^2 + 10$. Vì điểm $A(60; 0)$ nằm trên parabol nên $a = -\frac{1}{360}$.
 
@@ -65,7 +65,7 @@ Tại điểm $B$: $tg\beta = y'(60) = -\frac{1}{3}$, $\beta = \pi - \arctg\frac
 
 Đôi khi bạn cần kiểm tra xem một đồ thị thẳng đã cho có liên quan đến một hàm đã cho hay không. Để làm được điều này, chỉ cần kiểm tra hai điều kiện cần thiết sau đây và
 
-Cơm. 3.
+Hình 3.
 
 tổng hợp và đủ để chạm vào:
 

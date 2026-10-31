@@ -44,7 +44,7 @@ Trong phần OA sự phụ thuộc của σ (ε) là tuyến tính. Mô hình n�
 
 ⟦folio 4⟧
 
-Cơm. 1. Biểu đồ ứng suất - biến dạng.
+Hình 1. Biểu đồ ứng suất - biến dạng.
 
 các vấn đề của “vùng đàn hồi” của sơ đồ cho đến khi ứng suất vượt quá giới hạn đàn hồi $\sigma_{\text{упр}}$. Hằng số $E$ được gọi là mô hình đàn hồi. Đối với hầu hết các kim loại, $E$ có ​​độ lớn là $10^{10}-10^{11}$ N/m$^2$ và bậc $\sigma_{\text{упр}}$ thường là $10^7-10^8$ N/m$^2$; do đó, biến dạng đàn hồi tối đa thường có độ lớn $10^{-3}$, tức là một phần trăm. Đặc điểm chính thức của biến dạng đàn hồi là tính thuận nghịch của nó: biến dạng biến mất khi dỡ tải và mẫu trở về kích thước và hình dạng ban đầu. Nhân tiện, điều này có nghĩa là, dưới bất kỳ ứng suất nào không vượt quá $\sigma_{\text{упр}}$, kim loại sẽ ghi nhớ hình dạng ban đầu của nó và phục hồi ngay sau khi loại bỏ ứng suất. Ví dụ, điều gì sẽ xảy ra nếu chúng ta tăng ứng suất và ứng suất vượt quá $\sigma_{\text{упр}}$ và ứng suất vượt quá $\varepsilon_{\text{упр}}^{\max}$? Biến dạng đàn hồi tiếp tục tăng tỷ lệ thuận với giá trị ứng suất ngày càng tăng (theo định luật Hooke), nhưng thành phần biến dạng thứ hai xuất hiện - dẻo. Tổng lượng biến dạng tương ứng với một điểm nhất định $B$ trong Hình 1 bây giờ bao gồm $\varepsilon_{\text{упр}}$, sẽ biến mất trong quá trình dỡ tải (đường dỡ tải $BC$ xuất hiện song song với phần đàn hồi $AO$) và $\varepsilon_{\text{ост}}$ - biến dạng dư còn lại khi loại bỏ ứng suất. Từ Hình 1, rõ ràng là $\varepsilon_{B\text{упр}}^{\max}$ lớn hơn $\varepsilon_{\text{упр}}^{\max}$, vì vậy ký hiệu “max” ở đây không có nghĩa là không thể thu được biến dạng đàn hồi lớn hơn giá trị. Điều đó chỉ có nghĩa là nếu tổng biến dạng vượt quá $\varepsilon_{\text{упр}}^{\max}$ thì nó sẽ không còn thuần túy đàn hồi nữa và hình dạng của vật sau khi dỡ tải sẽ khác với hình dạng ban đầu.
 
@@ -60,7 +60,7 @@ Khi họ nói: “uốn cong nó như một cái sừng cừu đực”, họ mu
 
 Để hiểu rõ hơn về bản chất của khả năng ghi nhớ hình dạng hiệu quả trong kim loại, cần phải hiểu cơ chế biến dạng dẻo của chúng. Chính xác hơn, chúng ta chỉ cần xem xét khía cạnh hình học của cơ chế này. Là chất kết tinh, kim loại dẻo bị biến dạng khi bị cắt
 
-Cơm. 3. Biến dạng dẻo xảy ra do lực cắt. Bức ảnh cho thấy một tinh thể tuần hoàn sau khi bị biến dạng dẻo nghiêm trọng (×50).
+Hình 3. Biến dạng dẻo xảy ra do lực cắt. Bức ảnh cho thấy một tinh thể tuần hoàn sau khi bị biến dạng dẻo nghiêm trọng (×50).
 
 dọc theo các mặt phẳng nguyên tử nhất định trong mạng (Hình 3). Điều này tương tự như sự dịch chuyển của một chồng tiền xu hoặc một bộ bài. Chúng ta không thể tăng kích thước bộ bài bằng cách kéo tất cả các lá bài cùng một lúc theo một hướng liên tục, nhưng chiều dài của bộ bài sẽ tăng lên nếu chúng ta trượt từng lá bài dọc theo nó. Tương tự như vậy, khi thanh kim loại bị kéo căng, các lớp kim loại liền kề sẽ dịch chuyển ra xa nhau. Để đảm bảo tính liên tục của kim loại không bị xáo trộn, các lớp được ngăn cách bởi các mặt phẳng cắt được quay dần theo hướng của tải trọng. Những thay đổi này, như chúng ta đã biết, là không thể đảo ngược được; chúng gây ra biến dạng dư.
 
@@ -73,7 +73,7 @@ Có quá trình cắt nào trong kim loại có thể xảy ra mà không cần 
 
 G.V. Kurdimov đã dự đoán và vào năm sau, cùng với cộng tác viên của mình là L.G. Khandros (nay là Tiến sĩ Khoa học Vật lý và Toán học), đã quan sát bằng thực nghiệm một loại biến đổi tốt nhất mới ở đồng nhôm. Năm 1980 nó được tuyên bố mở cửa. Các tác giả của khám phá này đã nhận được bằng tốt nghiệp tương ứng và bản thân hiện tượng này được gọi là “hiệu ứng Kurdimov”. Bản chất của nó là như sau. Dưới sự kết hợp thuận lợi của một số điều kiện nhất định (đặc biệt, sự chênh lệch về thể tích pha phải nhỏ), quá trình biến đổi austenite (A) thành marstestite (M) thu được các tính năng đặc biệt. Nó trở thành, như G.V. Kurdimov gọi nó là “nhiệt đàn hồi”. Thuật ngữ này phản ánh nhiều đặc điểm chưa được báo trước của một sự biến đổi lớn nhất như vậy. Đặc biệt, ông ủng hộ thực tế rằng nếu bạn ngừng làm mát, quá trình biến đổi ngay lập tức dừng lại ở giai đoạn mà nó bị dừng bởi nhiệt độ dừng và nếu bạn bắt đầu làm nóng mẫu, thì quá trình biến đổi sẽ sớm bắt đầu đi theo hướng ngược lại. Điều này có nghĩa là martestite một lần nữa biến thành austenite, tất cả sự pha trộn cắt của các nguyên tử đều đi theo hướng ngược lại và bản thân các nguyên tử trở lại chính xác vị trí ban đầu tương ứng với mạng austenite.
 
-Cơm. 4. Sự biến đổi Martestin trong quá trình làm lạnh (a) và dưới tác dụng của ngoại lực tăng dần (b).
+Hình 4. Sự biến đổi Martestin trong quá trình làm lạnh (a) và dưới tác dụng của ngoại lực tăng dần (b).
 
 Trong các hợp kim đã trải qua quá trình biến đổi nhiệt đàn hồi, việc áp dụng ứng suất bên ngoài có thể làm tăng nhiệt độ của quá trình biến đổi lớn nhất, nhưng điều quan trọng chính là trong các hợp kim này, sự hiện diện của tải trọng bên ngoài làm thay đổi đặc biệt hình ảnh hình học của sự biến đổi. Nếu đặt điện áp như trong Hình 4, b, thì tỷ lệ tinh thể 1, trong đó hướng của các nguyên tử cắt phù hợp với hướng của tải, sẽ tăng và tỷ lệ tinh thể 2 giảm. Trong trường hợp giới hạn, trong quá trình chuyển đổi A → M, chỉ có một phiên bản trộn nguyên tử được thực hiện (Hình 4, b) và chúng ta thu được biến dạng tổng thể đáng kể của mẫu, tương ứng với biến dạng tương đối từ 10% trở lên.
 
@@ -95,7 +95,7 @@ Tất nhiên, hợp kim bộ nhớ cũng có nhiều ứng dụng trên Trái đ
 
 Đặc tính tương tự này của hợp kim bộ nhớ đã được ứng dụng trong việc tạo ra các khớp nối theo cách thay thế hàn, hàn điện và các phương pháp truyền thống khác. Giả sử chúng ta cần kết nối hai ống để tạo ra đường dẫn nhiên liệu động cơ máy bay. Chúng tôi lấy một ống lót làm bằng hợp kim nhớ nhiệt độ thấp, đường kính bên trong nhỏ hơn 4% so với đường kính ngoài của khớp nối ba mảnh (Hình 5). Trong nitơ lỏng (-196 °C), chúng tôi làm biến dạng ống lót sao cho đường kính bên trong của nó lớn hơn 4% so với đường kính ngoài của ống lót ba lỗ. Bây giờ chúng ta có thể lắp ống lót vào các đầu của ba mảnh, khi làm nóng đến nhiệt độ phòng, chúng sẽ nhớ lại hình dạng trước đó, uốn cong và nén các đầu của ba mảnh, tạo ra một kết nối kín chắc chắn. Ở đây, hoàn hảo từ quan điểm kỹ thuật, đặc biệt là các biểu hiện của bộ nhớ kim loại được sử dụng. Xét cho cùng, tất cả đều bình thường, tức là những kim loại “quên”, khi đun nóng sẽ nở ra theo mọi hướng. Và chúng tôi đã làm cho hợp kim nhớ co lại khi bị nung nóng! Tất nhiên, nó chỉ bị nén dọc theo hai trục và dọc theo trục thứ ba - dọc theo trục tam giác - nó bị kéo giãn, vì khối lượng vật liệu trong quá trình biến đổi $M \rightarrow A$ thay đổi rất ít. Nhưng trong trường hợp này nó
 
-Cơm. 5. Sơ đồ thu được kết nối bằng khớp nối hợp kim bộ nhớ.
+Hình 5. Sơ đồ thu được kết nối bằng khớp nối hợp kim bộ nhớ.
 
 ⟦folio 9⟧
 

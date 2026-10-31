@@ -43,11 +43,11 @@ $$Ax^2 + 2Bx + C \geq 0. \quad (1)$$
 
 Những điều kiện này được tìm thấy rất dễ dàng. Đầu tiên, điều cần thiết là $A$ phải dương, vì đối với $A < 0$ luôn có các giá trị ​$x$ mà bất đẳng thức (1) không phụ thuộc (điều này tất nhiên là rõ ràng, từ thực tế là đối với $A < 0$ parabol hoặc cắt trục hoành hoặc mọi thứ đều nằm bên dưới trục). Lấy ví dụ: $x = x_0 = m + \sqrt{m^2 + m}$, trong đó $m$ được chọn
 
-Cơm. 1.
+Hình 1.
 
 ⟦folio 15⟧
 
-Cơm. 2.
+Hình 2.
 
 $$AC = B^2, \text{ и именно при } x = -\frac{B}{A} \text{ (рис. 2 и 3).}$$
 
@@ -81,7 +81,7 @@ Bất đẳng thức (4) gọi là bất đẳng thức Cauchy (Augustin Louis C
 
 ⟦folio 16⟧
 
-Cơm. 4.
+Hình 4.
 
 thì bất đẳng thức Cauchy đơn giản nhất (5) được biểu diễn dưới dạng
 $$|\vec{a}|^2 \cdot |\vec{b}|^2(\cos \alpha \cos \beta + \sin \alpha \sin \beta)^2 \leqslant \frac{|\vec{a}|^2 \cdot |\vec{b}|^2}{c_1^2}, \dots, \frac{|\vec{a}|^2 \cdot |\vec{b}|^2}{c_N^2}.$$

@@ -32,7 +32,7 @@ F2702. Để đào mương bằng xẻng lưỡi lê (Hình 1), Vasya (khối l�
 
 ⟦figure⟧
 
-Cơm. 1
+Hình 1
 
 80kg) dùng chân ấn lên bậc thang (phần trên của lưỡi xẻng cong vuông góc) và khi xẻng dừng lại thì 50% trọng lượng của người đó rơi xuống bậc thang này. Trong trường hợp này, lưỡi xẻng đâm (cắt) nửa lưỡi lê xuống đất - khoảng 15 cm. Để xé lớp đất đã cắt ra khỏi bề mặt của xẻng, bạn cần thực hiện khối lượng công việc tương đương để đưa lưỡi lê xuống đất. Độ dày của “lát” cắt trung bình là 5 cm. Tính công cần thực hiện để đào một cái hố hình lập phương có cạnh 1,5 m. Đất có độ chặt trung bình U 1,5 g $см^{3}$. Phần nào của công việc này sẽ được yêu cầu để phá hủy tính toàn vẹn của đất và phần nào sẽ được yêu cầu để nâng “mảnh” lên ngang với mép của hố? Chúng ta sẽ coi xẻng là không trọng lượng. V. Lopatin
 
@@ -56,23 +56,23 @@ chính xác bằng 112,5q và 22,5q. Chứng minh rằng trong tam giác này c�
 
 ⟦figure⟧
 
-Cơm. 10
+Hình 10
 
 Bổ đề về ba đường phân giác KP là đường phân giác ngoài thứ hai. Từ đó xây dựng: ta nối các điểm A, K, P. Cho AKP D. Qua điểm K tạo thành một góc D với KP ta vẽ đường thẳng t cắt tia AP tại đỉnh B. Ta có KAB 180 q A. Khi đó cũng có một góc A. Qua đỉnh A tạo một góc bằng A ta vẽ tia tới cạnh AB. Nó cắt đường thẳng t tại đỉnh bị thiếu C. Bài toán 10 (L. Carroll). Trên các cạnh AC và AB của tam giác ABC, dựng các điểm F, N sao cho đoạn FN song song với cạnh BC và thỏa mãn đẳng thức BN CF BC. Lời giải. Giả sử các điểm F và N như vậy được xây dựng và cũng cho FN || BC, x y a (Hình 11). Phân tích cho thấy rằng nếu chúng ta tìm thấy
 
 ⟦figure⟧
 
-Cơm. 11
+Hình 11
 
 Nếu trên BC có điểm T sao cho CT y thì BT x. Vì ' CFT là cân (CF CT y) nên 1 2. Nhưng 2 3 (nội bộ nằm ngang với các đường thẳng song song FN và BC). Tương tự, 4 5 ( BN BT x ) và 5 6 ( FN || BC ). Khi đó FT và NT là hai đường phân giác ngoài của AFN. Theo bổ đề, AT trùng với phân giác trong của góc A trong tam giác AFN. Hãy chuyển sang xây dựng. Vẽ đường phân giác AT của ABC. Trên cạnh CA, chúng ta đặt đoạn CF CT và trên cạnh BA - đoạn BN BT. Chúng tôi kết nối F và N. Đoạn FN là đoạn bắt buộc. Bài toán 11. Trong tam giác ABC, giá trị các góc tại đỉnh A và B tương ứng
 
 ⟦figure⟧
 
-Cơm. 12
+Hình 12
 
 đi qua Q. Từ ' AHB ta có HAB 90 q 22,5 q 67,5 q. Hãy tiếp tục CA vượt quá điểm A. Khi đó DAB 180 q 112,5 q 67,5 q. Trong AHC, đoạn CP trùng với phân giác trong AB – với phân giác ngoài. Điều này có nghĩa là, theo bổ đề về ba đường phân giác, HP là đường phân giác ngoài thứ hai và AHP BHP 45 q. Nhưng cũng có ACB 45 q ( 180 q 112,5 q 22,5 q ). Do đó APHC là hình thang. Theo cái gọi là bổ đề hình thang (giao điểm của các đường chéo, giao điểm của phần kéo dài của các cạnh bên và trung điểm của các đáy của bất kỳ hình thang nào nằm trên cùng một đường thẳng), tia BQ đi qua giữa AC - điểm M. Và điều này có nghĩa là đường cao AH, đường trung tuyến BM và đường phân giác CP cắt nhau tại một điểm - điểm Q. Bài toán 12 (D. Shvetsov). Các đường phân giác AL và BK của tam giác vuông ABC ( C 90 q ) cắt nhau tại điểm I, Q là tâm đường tròn ngoại tiếp tam giác CKL. Chứng minh rằng QI A AB. Bằng chứng. Vì 'KCL là hình chữ nhật nên điểm Q là trung điểm của KL. Hãy thực hiện KN A AB và LT A AB (Hình 13). Rõ ràng CK KN và CL LT (bất kỳ điểm nào trên đường phân giác đều cách đều hai cạnh). Sau đó
 
-Cơm. 13
+Hình 13
 
 ⟦folio 36⟧
 
@@ -82,21 +82,21 @@ KVAN T 2022/Số 4
 
 ⟦figure⟧
 
-Cơm. 2
+Hình 2
 
 ⟦figure⟧
 
-Cơm. 1
+Hình 1
 
 nó là gần đúng và không chính xác. Bây giờ bạn, giống như một cậu học sinh ngoan ngoãn, vẽ tất cả các lực (Hình 1, a), viết các phương trình: “tổng lực theo chiều ngang”, “tổng lực theo phương thẳng đứng” và “tổng mô men so với trọng tâm” đều bằng 0. Và - nỗi kinh hoàng của nỗi kinh hoàng - bạn có ba phương trình và bốn ẩn số. Các trình biên dịch của bài toán có một cách để giải quyết tình huống này - “bóp nghẹt” một ẩn số, trong trường hợp này là tuyên bố rằng không có ma sát ở điểm tiếp xúc phía trên: hệ số ma sát P 0 (Hình 1, b). Đương nhiên, điều này làm tắt một trong các lực, nhưng bạn đã thấy ở đâu một bức tường không có ma sát? Nhân tiện, rõ ràng nếu bạn khai báo P 0 ở điểm thấp nhất thì có thể nguy hiểm đến tính mạng. bài toán này là một trong nhiều "không xác định tĩnh bài toán". Đây là tên gọi của bài toán thống kê, trong đó số lượng ẩn số lớn hơn số lượng phương trình. Ở trường, họ thường xem xét các thống kê bài toán phẳng - chỉ vì hình ảnh đối với họ rất dễ vẽ trên một bề mặt phẳng: trên giấy, bảng hoặc màn hình. Trong những bài toán như vậy có ba phương trình - hai phương trình về tổng lực dọc theo trục tọa độ và một phương trình về tổng mô men. Khi rảnh rỗi, hãy nghĩ xem sẽ có bao nhiêu phương trình cho thống kê bài toán ba chiều. Rõ ràng là trong cuộc sống thực, bất kể vật thể được làm gì, bất kể chúng được đặt ở vị trí nào, cuối cùng thì mọi lực đều có ý nghĩa nào đó. “Tính không thể giải quyết được” của bài toán này phát sinh do chúng ta đã bỏ qua điều gì đó, nhưng đối với lời giải chúng ta cần tính đến “điều gì đó” này. Nhưng hãy nhớ - nếu chúng ta tính đến “thứ gì đó” này và bài toán nhận được lời giải, thì điều này có nghĩa là chúng ta đã giải quyết bài toán này chỉ trong phép tính gần đúng này. Trong trường hợp của chúng tôi, “cái gì đó” là sự biến dạng của các phần tử hệ thống. Khi xem xét bất kỳ bài toán nào khác hoặc ngay cả khi tăng yêu cầu
 
 ⟦figure⟧
 
-Cơm. 3
+Hình 3
 
 ⟦figure⟧
 
-Cơm. 4
+Hình 4
 
 Để đạt được độ chính xác lời giải có thể cần phải tính đến những điều khác. Hãy xem một ví dụ đơn giản và sau đó quay lại cầu thang của chúng ta. Để dầm treo trên hai dây cáp và bạn cần tìm lực căng của chúng (Hình 2). Bài toán tầm thường: không có lực ngang nên có hai phương trình và hai ẩn số. Chúng tôi gắn sợi cáp thứ ba (Hình 3) và... bộ phận bảo vệ xuất hiện. Chúng ta hãy thử tính đến các biến dạng - nhưng của ai? Biến dạng của dây cáp trong trường tuân theo định luật Hooke nhưng không thể tính được biến dạng của dầm trong trường. Vì vậy, chúng tôi sẽ giới hạn ở dây cáp; biến dạng của chúng được thể hiện trong Hình 4 một cách có điều kiện ở dạng lò xo. Chúng ta sẽ cộng sáu đại lượng đã biết: độ dài ban đầu và các hệ số trong định luật Hooke, ba ẩn số: độ dài cuối cùng và ba phương trình: sự phụ thuộc của độ dài dây vào lực căng, tức là các phương trình của định luật Hooke, nhưng không ở dạng F kx, mà ở dạng $L L_{0} N k$, trong đó $L_{0}$ là độ dài ban đầu, N là lực căng, k là hệ số độ cứng. Tuy nhiên, giống như chúng ta đã thiếu một phương trình, hiện tại chúng ta vẫn còn thiếu nó. Bạn có thể thấy một phương trình khác trong hình không? Các phương trình loại này được gọi là phương trình tương thích biến dạng. Quả thực, sự biến dạng của các phần tử kết cấu có mối liên hệ nào đó; kích thước của các phần tử kết cấu không thể tùy ý. Ví dụ, nếu các điểm gắn của các dây cáp trên dầm nằm trên cùng một đường thẳng thì chúng sẽ nằm trên cùng một đường thẳng, còn nếu biến dạng nhỏ thì các dây cáp song song và chiều dài cuối cùng có liên hệ với nhau bằng một phương trình tầm thường. Đây sẽ là phương trình thứ bảy mà chúng ta còn thiếu. Bài toán cũng có thể giải được đối với những biến dạng lớn, chỉ là lời giải sẽ dài hơn. Chúng ta cũng có thể xem xét một phạm vi rộng các hệ số độ dài và độ cứng ban đầu, và trong trường hợp này, chúng ta có thể viết một chương trình sẽ treo chùm tia trên cáp trực tiếp trên màn hình và cho chúng ta thấy hành vi khi thay đổi các giá trị ban đầu.
 
@@ -116,7 +116,7 @@ nếu tất cả các cạnh của nó bằng nhau và tất cả các góc củ
 
 7. (10) Trong năm nút giấy ca-rô thông thường bất kỳ, chắc chắn sẽ có hai nút, đoạn giữa cũng là một nút giấy ca-rô. Số lượng nút lưới tối thiểu của các hình lục giác đều (Hình 3) phải được lấy để
 
-Cơm. 3
+Hình 3
 
 ⟦column⟧
 

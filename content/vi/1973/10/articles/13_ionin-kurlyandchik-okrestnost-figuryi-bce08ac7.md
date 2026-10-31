@@ -49,7 +49,7 @@ Hãy chọn vòng tròn lớn nhất trong số các vòng tròn này và biểu
 
 ⟦folio 44⟧
 
-Cơm. 2.
+Hình 2.
 
 bán kính của nó. Nếu diện tích hình tròn này không nhỏ hơn $\frac{1}{9}$, bài toán lời giải. Giả sử rằng $\pi R_1^2 < \frac{1}{9}$. Vì bán kính của các vòng tròn còn lại không lớn hơn $R_1$, nên tâm của những đường tròn giao nhau với vòng tròn đã chọn nằm trong vùng lân cận $R_1$ của vòng tròn này. Bản thân các vòng tròn nằm trong vùng lân cận $2R_1$ của vòng tròn đã chọn (Hình 2). Vì diện tích của vùng lân cận $2R_1$ này, bằng $9\pi R_1^2$, nhỏ hơn 1, nên có các vòng tròn không giao nhau với vòng tròn được chọn từ các vòng tròn đó. Nếu $\pi R_1^2 + \pi R_2^2 \geq \frac{1}{9}$, bài toán lời giải. Do đó, nếu $\pi R_1^2 + \pi R_2^2 < \frac{1}{9}$ thì $9\pi R_1^2 + 9\pi R_2^2 < 1$ có một đường tròn có tâm nằm ngoài vùng lân cận $R_1$ của đường tròn thứ nhất và nằm ngoài vùng lân cận $R_2$ của đường tròn thứ hai và do đó không giao nhau với các đường tròn này. Chúng ta hãy biểu thị bằng $R_3$ bán kính của đường tròn lớn nhất không giao nhau với một trong hai đường tròn đã chọn. Nếu $\pi R_1^2 + \pi R_2^2 + \pi R_3^2 \geq \frac{1}{9}$, bài toán lời giải, nếu không thì chúng ta lặp lại lý luận. Do đó, mỗi lần chúng ta tìm thấy một số vòng tròn rời rạc theo cặp, tổng của chúng không nhỏ hơn $\frac{1}{9}$ hoặc chúng ta tìm thấy một vòng tròn khác không giao nhau với bất kỳ vòng tròn nào được tìm thấy. Điều thứ hai cuối cùng sẽ trở nên không thể thực hiện được vì có số lượng vòng tròn hữu hạn.
 
@@ -69,7 +69,7 @@ Chúng ta hãy tìm hiểu lân cận $\varepsilon$ của một đa giác lồi 
 
 ⟦folio 45⟧
 
-Cơm. 4.
+Hình 4.
 
 hình xuyến ở mỗi đỉnh của đa giác bù với góc trong của đa giác ở đỉnh này lên tới 180°. Do đó, tổng của tất cả các góc ở tâm bằng 180° $n$ - 180° ($n$ - 2) = 360°, ($n$ là số cạnh của đa giác, 180° ($n$ - 2) là tổng các góc trong của đa giác). Điều này có nghĩa là bằng cách sắp xếp các phần không chồng lên nhau và căn chỉnh tâm của chúng, chúng ta sẽ có được một vòng tròn có bán kính $e$. Bây giờ thật dễ dàng để tính diện tích vùng lân cận $\varepsilon$ của một đa giác lồi. Nó bằng $S + P\varepsilon + \pi e^2$, trong đó $S$ là diện tích của đa giác, $a$ là chu vi của đa giác.
 

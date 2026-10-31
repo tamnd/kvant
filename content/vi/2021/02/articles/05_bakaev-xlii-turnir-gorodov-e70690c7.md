@@ -100,7 +100,7 @@ Bài toán 2. Cuộc thi đo nhiệt lượng (10 điểm) Một cục nước �
 
 ⟦figure⟧
 
-Cơm. 5
+Hình 5
 
 sự phụ thuộc của chênh lệch nhiệt độ t trong nhiệt lượng kế vào thời gian W. Thật không may, thang đo của trục chênh lệch nhiệt độ không được bảo toàn và các điểm ngắt trong biểu đồ tương ứng với thời gian $W_{1}, W_{2}, W_{3}, W_{4}$. Giải thích những quá trình vật lý nào tương ứng với từng phần tuyến tính của đồ thị. Xác định: 1) công suất lò sưởi P; 2) khối lượng $m_{1}$ và $m_{2}$ mảnh băng; 3) nhiệt độ ban đầu và nhiệt độ cuối cùng của các tảng băng; 4) chênh lệch nhiệt độ tại thời điểm $W_{1}$. Số liệu tham khảo: nhiệt dung riêng của nước đá $c_{л} 2100$ J kg qC, nhiệt dung riêng của nước $c_{в} 4200$ J kg qC, nhiệt dung riêng của nước đá O 330 kJ kg. A. Evseev
 
@@ -126,7 +126,7 @@ Khi đã vào trong hình nón, những mảnh nhựa nhỏ được đặt bên
 
 ⟦figure⟧
 
-Cơm. 13
+Hình 13
 
 Gương phẳng được dán vào các bức tường đối diện từ bên trong. Một tia laser được gắn vào thành bên của hộp, chùm tia này bị phản xạ nhiều lần từ gương sẽ chạm vào tế bào quang điện, luôn chuyển động trong cùng một mặt phẳng nằm ngang. Khi hình nón rơi vào bên trong hộp, chùm tia laser đảm bảo sẽ bị chặn lại và điện áp trên tế bào quang điện thay đổi. Khoảng cách từ chùm tia laser phía trên đến mặt phẳng tạo bởi chùm tia laser phía dưới là 23,0 r 0,5 cm. Các tế bào quang điện được nối thành mạch điện nối tiếp với nhau và được kết nối với máy hiện sóng USB, giúp chuyển đổi giá trị của tổng điện áp trên các tế bào quang điện thành dạng kỹ thuật số và truyền đến máy tính xách tay. Máy tính xách tay được cài đặt chương trình hiển thị biểu đồ điện áp theo thời gian với độ chính xác 0,5 ms. Sử dụng biểu đồ $полученного^{Рис.} 14$, bạn có thể xác định thời gian chuyển động của hình nón giữa hai giao điểm của chùm tia laze. Để xác định khối lượng của hình nón 9 người ta sử dụng cân điện tử 1. Để thay đổi khối lượng
 
@@ -138,17 +138,17 @@ K V A N T 2021/No. 2
 
 khó khăn, đau thương cho băng phủ. Băng đóng băng trên bờ - khi cái lạnh mùa đông tràn vào, đất nguội nhanh hơn nước và băng tiếp xúc với nó đông cứng nhanh hơn. Ở đây anh bất động. Và cách xa bờ biển, thủy triều vẫn tiếp tục dao động trong băng, cùng với mực nước lên xuống hai lần một ngày. Đúng vậy, lớp băng phủ liên tục hạn chế một chút những chuyển động này: ở hầu hết các khu vực của Biển Trắng, nơi chụp những bức ảnh được trình bày trong bài báo và trên trang thứ tư của bìa tạp chí, phạm vi dao động giảm đi hàng chục hoặc hai cm, nhưng ở độ cao thủy triều 1,5–2 m, mức giảm này gần như không thể nhận thấy. Và khi đó số phận của băng có thể phát triển rất khác nhau, tùy thuộc vào nhiều điều kiện địa phương: độ cao của thủy triều, địa hình đáy biển ven biển, dòng hải lưu, nhiệt độ không khí, v.v. Lớp băng tương đối mỏng có thể biểu hiện một số độ đàn hồi, nhưng lớp băng dày hơn sẽ vỡ dưới áp lực của sóng thủy triều, tạo ra các vết nứt chạy dọc bờ biển. Thông qua những vết nứt này, nước có thể tràn vào bề mặt ven biển hay còn gọi là băng nhanh. Nếu áp lực của sóng thủy triều đủ mạnh thì băng bắt đầu vỡ vụn gần đứt gãy, các tảng băng được hình thành, có thể bị ném lên bề mặt băng nhanh, bị đẩy xuống dưới hoặc đứng trên đầu, tạo thành cái gọi là ropakas (tảng băng riêng lẻ đứng thẳng đứng hoặc xiên) hoặc toàn bộ các rặng ven biển. Trong một số trường hợp (ví dụ, khi có dòng chảy), các polynya không đóng băng được hình thành dọc theo bờ biển. Có lẽ, ở một mức độ nào đó, những quá trình này có thể được so sánh với sự hình thành của sự nhẹ nhõm
 
-Cơm. 2
+Hình 2
 
 ⟦column⟧
 
 ⟦figure⟧
 
-Cơm. 3
+Hình 3
 
 bề mặt trái đất, chỉ xảy ra trong thời gian ngắn hơn nhiều. Nhưng các địa hình biển mùa đông thú vị nhất hình thành xung quanh những tảng đá nằm ở vùng nước nông, lộ ra ở vùng nước thấp và ẩn bên dưới bề mặt khi mực nước biển dâng cao. Khi sương giá nghiêm trọng xảy ra, khi băng đóng băng trong vài giờ trong khi những viên đá ẩn dưới nước, khi thủy triều xuống, nó sẽ chìm và vỡ ra trên đỉnh của những viên đá. Băng dường như sẽ mở ra thành những cánh hoa xung quanh hòn đá (Hình 2). Thông qua các vết nứt hình thành xung quanh viên đá, những phần nước mới sẽ được đổ lên bề mặt băng, tạo nên một “sân trượt băng” tuyệt đẹp xung quanh viên đá. Trong những đợt sương giá nghiêm trọng, nước bốc hơi từ những vết nứt này sẽ ngưng tụ trên đá và các cánh băng xung quanh, dẫn đến sự phát triển của một lớp băng (còn gọi là băng thăng hoa). Chiều cao của chiếc lều như vậy có thể đạt tới chiều cao của con người (Hình 3) hoặc thậm chí hơn. Và trong các hang băng trên các bức tường cánh hoa của lều có tảo đông cứng trong đó (Hình 4). Và giờ đây toàn bộ bề mặt vịnh biển được bao phủ bởi những “đụi chuột chũi” khổng lồ lấp lánh dưới nắng mùa đông…
 
-Cơm. 4
+Hình 4
 
 ⟦folio 57⟧
 
@@ -176,7 +176,7 @@ lớp 10–11
 
 ⟦figure⟧
 
-Cơm. 23
+Hình 23
 
 tương ứng với các điểm $A_{1}$, … $, A_{9}$, tương ứng (so với đường thẳng $X_{1} X_{10} ).$ Rõ ràng, điểm $X_{i}$ nằm trên dây cung $B_{i} 1 A_{i}$ và trên dây $B_{i} A_{i} 1 (i 2,$ …, 9), vì khi phản xạ sẽ xuất hiện các góc thẳng đứng (góc ở đáy của một tam giác cân và bằng một góc của tam giác phản xạ cạnh đó). Đó là lý do tại sao
 

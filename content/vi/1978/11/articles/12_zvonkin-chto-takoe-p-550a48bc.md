@@ -64,7 +64,7 @@ Trước tiên hãy đưa ra một số định nghĩa xấu.
 
 ⟦folio 29⟧
 
-Cơm. 1.
+Hình 1.
 
 một dãy đa giác nội tiếp tự do.
 
@@ -78,7 +78,7 @@ Hóa ra định nghĩa này là phi oretic. Hình 1 cho thấy một chuỗi $(\
 
 *) Tức là $\varphi(n)$ tiêu chuẩn càng lớn càng tốt.
 
-Cơm. 2.
+Hình 2.
 
 2, trong đó $\lim_{n \to \infty} P_n$ không tồn tại (hãy xây dựng nó!).
 
@@ -135,6 +135,6 @@ Chữ π là chữ cái đầu tiên của từ Hy Lạp περιphera (“vòng
 
 *) “Đại số và nguyên lý giải tích 9”, đoạn 32.
 
-Cơm. 3.
+Hình 3.
 
-Cơm. 4.
+Hình 4.

@@ -35,7 +35,7 @@ Chúng ta hãy xác định khoảng cách từ ô P đến ô Q là số lượ
 
 Tác giả, một nhà toán học người Mỹ, đã viết bài này cho «Kvant» bằng tiếng Anh. Bản dịch do A. Sosinsky biên tập.
 
-Cơm. 1.
+Hình 1.
 
 Mer, khoảng cách từ đầu O(0;0) đến ô E(1;0) bằng khoảng cách từ đầu đến ô F(3;6) - cả hai đều bằng 3. Hàm q, được xác định trên một tập hợp các cặp (P, Q) ô, có ba thuộc tính cơ bản về khoảng cách*):
 
@@ -72,7 +72,7 @@ Trường hợp đầu tiên: ô $P(a; b)$ nằm trong dải ngang của đai th
 
 * Chúng tôi đưa ra bằng chứng, hơi khác so với của tác giả (ed.)
 
-Cơm. 2.
+Hình 2.
 Dưới đây là các thuộc tính của hàm $d$:
 $$d((a; b))=d((b; a)),$$
 (1)
@@ -87,8 +87,8 @@ Nói một cách đại khái, đai thứ $n$ có dạng ranh giới hình vuôn
 
 Vì vậy, nếu chúng ta bỏ qua sự nhầm lẫn tồn tại gần gốc tọa độ, bức tranh hình học của thước đo hiệp sĩ sẽ trở nên rõ ràng hơn. Tuy nhiên, điều này là chưa đủ đối với chúng tôi: chúng tôi muốn tìm hiểu cách tìm $d((a; b))$ hoàn toàn tương tự - sử dụng các số $a$ và $b$. Tóm lại, chúng ta cần
 
-Cơm. 3.
-Cơm. 4.
+Hình 3.
+Hình 4.
 
 ⟦folio 15⟧
 

@@ -102,7 +102,7 @@ Mỗi axit amin được ký hiệu bằng một chữ cái trong bảng chữ c
 
 Dưới ảnh hưởng của một số thuốc thử hóa học (enzym) mô hình phân tử
 
-Cơm. 2.
+Hình 2.
 
 *) Tiếp theo, máy in tất cả các protein chứa cấu hình AV và vị trí của nó, theo cùng một sơ đồ.
 
@@ -174,7 +174,7 @@ Tác phẩm kinh điển thứ ba, Anina Vaishtein (Novosibirsk), đã nói về
 
 *) Một bài báo về hệ thống Shpara, do các nhà phát triển của nó viết, sẽ được đăng trên một trong những số sắp tới của tạp chí.
 
-Cơm. 3.
+Hình 3.
 
 ⟦folio 43⟧
 

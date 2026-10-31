@@ -83,7 +83,7 @@ V. A. Lenikotsev
 
 ⟦folio 79⟧
 
-Cơm. 2.
+Hình 2.
 phiên bản Nói chung là rõ ràng
 $$\frac{1}{a} + \frac{1}{b} = \frac{1}{x},$$
 trong đó $x$ lấy tập hợp các điểm (2) và (3).
@@ -147,7 +147,7 @@ Văn bản sau đây được mã hóa:
 
 1. Bài toán cho phép tạo ra một hình học thú vị lời giải dựa trên định lý Pythagore. Hình vẽ cho lời giải cho $n = 3$.
 
-Cơm. 3.
+Hình 3.
 
 Độ dài đoạn nét đứt vẽ màu đỏ là vế trái của bất đẳng thức, độ dài đường chéo là vế phải. Dấu bằng chỉ xuất hiện khi thỏa mãn các điều kiện sau:
 

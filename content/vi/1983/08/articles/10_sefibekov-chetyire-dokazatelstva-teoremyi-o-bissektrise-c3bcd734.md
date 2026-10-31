@@ -63,9 +63,9 @@ $$\frac{|CD|}{|AD|} = \frac{|CB|}{|AB|}.$$
 Bằng chứng thứ tư (lớp 7-8). Thực hiện đối xứng trục S của tam giác ABC đối với (BD) (Hình 2), ta thu được
 $$S_{(BD)}(A) = A_1, S_{(BD)}(C) = C_1 \text{ и } S_{(BD)} = B.$$
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
 Chứng minh đầu tiên (dành cho lớp 7).
 Chúng ta vẽ qua điểm C (Hình 1) một đường thẳng m song song với (BD). Sau đó

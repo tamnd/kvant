@@ -84,7 +84,7 @@ Chìa khóa đơn giản của trò chơi (2) được đưa ra bởi bản mở
 
 ⟦folio 8⟧
 
-Cơm. 1.
+Hình 1.
 
 $$v = (9 - x - y)(x - y + 1).$$
 
@@ -125,7 +125,7 @@ Về lý thuyết, điểm yên ngựa của người chơi $(x^*; y^*)$ thườ
 
 ⟦folio 9⟧
 
-Cơm. 2.
+Hình 2.
 
 Khách du lịch và nhà leo núi
 

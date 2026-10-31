@@ -44,12 +44,12 @@ $$v_r = gt,$$
 
 trong đó $g$ là gia tốc trọng trường và $t$ là thời gian, tương ứng với
 
-Cơm. 1.
-Cơm. 2.
+Hình 1.
+Hình 2.
 
 ⟦folio 20⟧
 
-Cơm. 3.
+Hình 3.
 
 Newton và định luật vạn vật hấp dẫn, giá trị tuyệt đối của gia tốc này bằng
 
@@ -75,7 +75,7 @@ Từ Hình 5, rõ ràng bây giờ gia tốc hướng tâm liên quan đến chu
 
 Rõ ràng là gia tốc $\omega^2 r$ ở vĩ độ $\varphi$ nhỏ hơn gia tốc $\omega^2 R$ ở xích đạo. Dễ dàng nhận thấy ở bất kỳ vĩ độ nào $\varphi$ tỷ lệ $r/R$
 
-Cơm. 5.
+Hình 5.
 
 bằng φ, do đó $r = R$ cos $\varphi$ và $\omega^2 r = \omega^2 R$ cos $\varphi$. So khớp, $g' = g - \omega^2 R$ cos $\varphi$ *).
 

@@ -42,7 +42,7 @@ Do tốc độ chuyển động của các bộ phận khác nhau trong cơ th�
 
 ⟦folio 49⟧
 
-Cơm. 5.
+Hình 5.
 
 và $\overrightarrow{BD}$ ($\overrightarrow{BC} = -\overrightarrow{BD}$) và biểu thị $|\overrightarrow{BC}| = |\overrightarrow{BD}| = v_0$. Định luật bảo toàn năng lượng toàn phần và định lý tổng bình phương các đường chéo của hình bình hành bằng tổng bình phương các cạnh của nó dẫn đến hệ thức
 

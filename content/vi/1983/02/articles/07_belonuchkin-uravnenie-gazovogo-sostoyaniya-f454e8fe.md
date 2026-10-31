@@ -46,7 +46,7 @@ Như có thể thấy trên hình, áp suất tăng tuyến tính khi nhiệt đ
 
 Với một thể tích không đổi, áp suất không chỉ tăng khi nhiệt độ tăng mà còn tăng tỷ lệ thuận với nhiệt độ. Và đồ thị tỷ lệ thuận với các đồ thị tuyến tính khác ở chỗ nó đi qua gốc tọa độ. Do đó, trong sơ đồ ở tọa độ $p-T$, đường đẳng cự là một đường thẳng đi qua gốc tọa độ.
 
-Cơm. 1. Hình 2.
+Hình 1. Hình 2.
 
 Chúng ta hãy vẽ các đường đẳng lượng qua giao điểm của điểm 1 và 2 (Hình 2). Isochores thì khác; Điều này có nghĩa là ở trạng thái 1 và 2, âm lượng là khác nhau. Cái nào lớn hơn? Cách dễ nhất để xác định điều này là bằng biểu đồ. Hãy kết nối hai đường đẳng nhiệt này, ví dụ: bằng đường đẳng nhiệt 1-3 (hoặc đường đẳng nhiệt 1-4, hoặc bất kỳ đường đẳng nhiệt hoặc đường đẳng nhiệt nào khác). Trong phần 1–3, nhiệt độ tăng ở áp suất không đổi. Rõ ràng là âm lượng sẽ tăng lên.
 

@@ -46,7 +46,7 @@ quyết định địa điểm gặp mặt.
 
 Ví dụ 1. Đặt $a = 0$, $b = 1000$ m, $y = 100 + 0,7x$. Nếu $x = 0$ thì $y = 100$; nếu $x = 1000$, thì $y = 800$ - cái đầu tiên đã đi vòng quanh! Phương trình 100+
 
-Cơm. 1
+Hình 1
 
 ⟦folio 6⟧
 
@@ -111,7 +111,7 @@ về một điểm cố định
 
 ⟦folio 8⟧
 
-Cơm. 4.
+Hình 4.
 
 Tuy nhiên, điều đó không đúng với mọi $M$:
 
@@ -141,7 +141,7 @@ Bây giờ chúng ta hãy chứng minh định lý Browser cho trường hợp $
 
 *) Bổ đề này chỉ là một phần trường hợp dấu của bổ đề do nhà toán học người Đức Sperer đưa ra.
 
-Cơm. 5.
+Hình 5.
 
 ⟦folio 9⟧
 

@@ -58,7 +58,7 @@ PHÒNG THÍ NGHIỆM
 
 ⟦figure⟧
 
-Cơm. 2. Cộng các dao động trong quá trình giao thoa sóng của hai nguồn điểm. Đường màu đỏ là bướu, đường màu xanh là chỗ lõm. Các vòng cung dày lên cho thấy các sóng tạo thành
+Hình 2. Cộng các dao động trong quá trình giao thoa sóng của hai nguồn điểm. Đường màu đỏ là bướu, đường màu xanh là chỗ lõm. Các vòng cung dày lên cho thấy các sóng tạo thành
 
 được phát ra từ các nguồn cùng một lúc. Từ hình vẽ có thể thấy rằng các sóng có cùng số lượng đồng thời đến trên một đường cách đều các nguồn. Điều này có thể hiểu được vì các đường truyền giống nhau đến các điểm của sóng trực tiếp này. Dựa trên nguyên tắc chồng chất, chúng ta có thể kết luận rằng trên đường này cả chiều cao của bướu và độ sâu của chỗ lõm sẽ tăng gấp đôi. Bên phải và bên trái của đường này là các điểm mà tại đó các đỉnh của hệ thống sóng này trùng với các đáy của hệ thống sóng khác. Trong khi sóng từ một nguồn sẽ gây ra sự lệch hướng lên tại những điểm này, thì sóng từ nguồn khác tại cùng thời điểm sẽ gây ra sự lệch hướng xuống tại những điểm này. Tổng độ lệch tại các điểm này sẽ gần bằng 0. Hãy kết nối tất cả các điểm như vậy bằng một đường màu đen liên tục. Nếu bạn đánh số các chỗ lồi và lõm, bạn có thể dễ dàng kết luận rằng tới tất cả các điểm trên đường bên phải, các sóng bên trái truyền một đường dài hơn một nửa bước sóng so với các sóng bên phải. Đối với đường bên trái, sóng bên phải trễ một nửa bước sóng. Bên phải và bên trái của đường số 0 là giao điểm của bướu thứ nhất với bướu thứ hai,
 
@@ -88,17 +88,17 @@ KVAN T 2020/№2
 
 ⟦figure⟧
 
-Cơm. 7
+Hình 7
 
 ⟦column⟧
 
 ⟦figure⟧
 
-Cơm. 9
+Hình 9
 
 ⟦figure⟧
 
-Cơm. 8
+Hình 8
 
 Bằng chứng của nhận định này đã xuất hiện nhiều lần trên các trang «Kvant», chẳng hạn như trên trang đầu tiên của bài viết [3]. Chúng tôi sẽ không sao chép nó ở đây. Trang bị đường thẳng Simson, chúng ta quay trở lại chứng minh Định lý 1. Trong Hình 8, chúng ta thấy rằng các điểm $A_{1}, B_{1}$ và P là hình chiếu của điểm I lên các đường thẳng chứa các cạnh của tam giác A c B c C. Vì các điểm $A_{1}, B_{1}$ và P nằm trên cùng một đường thẳng nên theo Định lý 2, điểm I nằm trên đường tròn ngoại tiếp tam giác A c B c C. Vì CI là phân giác của góc C và I là đường tròn ngoại tiếp tam giác A c B c C. trung điểm của cung A c IB c thì P là trung điểm của A c B c (IP là đường cao trong tam giác cân A c IB c ). Do đó, việc sử dụng đường thẳng Simson cho phép chúng ta có cái nhìn mới về lời giải bài toán 1. Lưu ý rằng đường thẳng Simson ẩn như vậy trong các bài toán không phải là chuyện hiếm gặp.
 

@@ -36,7 +36,7 @@ Những người tham gia vào những cuộc phiêu lưu này cho rằng mọi 
 Kẻ lang thang vĩnh cửu
 Đây là cách người kể chuyện đầu tiên cay đắng tự gọi mình và chỉ cho chúng tôi “bản đồ lộ trình” về những chuyến lang thang của anh ta (Hình 1). Ngôi nhà của ông (D) nằm ở tam giác trung tâm của “sơ đồ địa hình” đã phác thảo. Các số đặt trong các hình tam giác còn lại hướng dẫn người du hành rời khỏi hình tam giác phải thực hiện số bước như được chỉ ra trong hình tam giác này (một bước được gọi là
 
-Cơm. 1.
+Hình 1.
 
 chuyển sang bất kỳ tam giác liền kề nào qua cạnh của nó, nhưng không qua đỉnh của nó). Vì vậy, khi đã đi vào tam giác có số 4 (ở đầu “sơ đồ địa hình”), người du hành phải thực hiện 4 bước - ví dụ như di chuyển qua các tam giác 7, 8, 1 vào tam giác có số 2; từ đây thực hiện 2 bước (ví dụ: vào hình tam giác 1, 6), v.v.
 
@@ -64,17 +64,17 @@ Hình 3 thể hiện sơ đồ bố trí tầng 1 của nhà kho. Sự ngắt qu
 
 Trong quá trình cải tạo kho đã bổ sung thêm 2 cửa bên ngoài.
 
-Cơm. 2.
+Hình 2.
 
-Cơm. 3.
+Hình 3.
 
 ⟦folio none⟧
 
 ⟦figure⟧
-Cơm. 4.
+Hình 4.
 
 ⟦figure⟧
-Cơm. 5.
+Hình 5.
 
 (Hình 4), và bây giờ người trông coi không thể đi qua tất cả các phòng, đi qua từng cửa một lần, bất kể anh ta bắt đầu đi bộ ở đâu.
 

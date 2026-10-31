@@ -73,7 +73,7 @@ Quả bóng trên đĩa quay
 
 Rõ ràng, đối với một quả bóng đứng yên, có một quả bóng nằm trên một đĩa chuyển động với vận tốc không đổi $v_{рад}$ theo một đường thẳng. Khoảng cách đó
 
-Cơm. 1.
+Hình 1.
 
 quả bóng đi dọc theo đĩa từ tâm của nó đến thời điểm $t$, bằng $v_{рад}t$.
 
@@ -103,7 +103,7 @@ Nếu trong ví dụ của chúng tôi, hệ thống báo cáo quay ngược chi
 
 ⟦folio 6⟧
 
-Cơm. 3.
+Hình 3.
 
 các vectơ được định vị như trong Hình 4. Từ những hình này, rõ ràng lực Corolis trong cả hai trường hợp đều vuông góc với mặt phẳng chứa các vectơ $\omega$ và $v$. Họ nói rằng các vectơ $F_K$, $v$ và $\omega$ (trong chuỗi này) tạo thành một hệ vectơ thuận tay phải (đó là lý do tại sao tay phải được hiển thị trong Hình 2).
 

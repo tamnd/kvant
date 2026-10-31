@@ -35,5 +35,5 @@ Bạn có thể có thể trả lời những câu hỏi này ngay lập tức. 
 
 Cắt một đoạn xoắn ốc dài khoảng 1 cm; Ở phần cuối của đoạn này, chèn các dây đồng sao cho chúng tiếp xúc tốt với hình xoắn ốc. Mắc một đoạn mạch gồm một cuộn dây, một cục pin và một bóng đèn mắc nối tiếp.
 
-Cơm. 1.
-Cơm. 2.
+Hình 1.
+Hình 2.

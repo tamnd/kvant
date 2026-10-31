@@ -90,7 +90,7 @@ Những khó khăn gặp phải trong việc tạo ra một hàm ước lượng
 
 Các chức năng đánh giá được sử dụng trong các chương trình cờ vua thực tế thường bao gồm hai thành phần - chất liệu và vị trí. Tính toán thành phần vật liệu đơn giản và tùy ý
 
-Cơm. 2.
+Hình 2.
 
 Một đứa trẻ theo thang giá trị tương đối của một hàm được người chơi cờ áp dụng. Đối với thành phần vị trí, có thể xem xét các đánh giá vị trí khác nhau và như thực tế cho thấy, việc thể hiện hợp lý trọng lượng tính năng không ảnh hưởng đến cường độ chơi của máy. Điều quan trọng hơn nhiều là việc tính đến yếu tố vị trí này hay yếu tố vị trí khác.
 
@@ -155,7 +155,7 @@ PV là một sơ đồ tìm kiếm không từ chối với các quy tắc riên
 
 ⟦folio 17⟧
 
-Cơm. 4. Bogolyubov-Capablanca (New York, 1924).
+Hình 4. Bogolyubov-Capablanca (New York, 1924).
 
 Không phải tất cả đều được lấy đi mà chỉ những thứ giữ lại vật liệu ít nhất ở mức giới hạn dưới của chúng.
 

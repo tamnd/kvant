@@ -23,7 +23,7 @@ translation_quality: draft
 
 ⟦folio 8⟧
 
-Cơm. 4.
+Hình 4.
 
 Điểm mềm thứ ba là điểm $O_i$ (nếu có nhiều tâm mềm như vậy thì chọn điểm có số thấp nhất). Để sau khi loại bỏ các nhóm trống (cho ví dụ khi các nhóm trống xuất hiện giữa các nhóm $G_1$, ..., $G_l$!) $p$ nhóm ($p \leq l$) vẫn còn. Thay đổi kích thước của chúng theo cách tùy ý, chúng ta có được một phân vùng mới $G_1^1, \dots, G_p^1$.
 

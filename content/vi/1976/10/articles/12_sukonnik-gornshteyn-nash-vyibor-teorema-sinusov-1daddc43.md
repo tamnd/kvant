@@ -62,11 +62,11 @@ Vì tam giác $BOC$ nội tiếp trong đường tròn ban đầu nên sử dụ
 
 $$R = \frac{|BC|}{2 \sin \widehat{BOC}} =$$
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
-Cơm. 3.
+Hình 3.
 
 Bài toán 3 (MSU, vật lý, 1962; UrSU, vật lý, 1973). Trong một tam giác cân, góc đáy là $\alpha$. Chiều cao hạ xuống chân đế lớn hơn bán kính của dốc treo $m$. Xác định đáy của tam giác và bán kính của đường tròn chính.
 
@@ -156,7 +156,7 @@ $$\hat{ABM} = 20^\circ, \hat{ACM} = 40^\circ, \hat{CMB} = 140^\circ,$$
 
 và sau đó $\hat{AMB} = 220^\circ - x$. Theo điều kiện và định lý sin của tam giác AMB và AMC
 
-Cơm. 7. Hình 8. Hình 9.
+Hình 7. Hình 8. Hình 9.
 
 ⟦folio 50⟧
 

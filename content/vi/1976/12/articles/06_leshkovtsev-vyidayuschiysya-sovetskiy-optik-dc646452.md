@@ -59,7 +59,7 @@ Nhưng trở lại năm 1862, nhà vật lý người Pháp Leroux, khi truyền
 
 ⟦folio 12⟧
 
-Cơm. 1.
+Hình 1.
 
 chúng ta thấy một loạt vạch tối trong đó - chúng được gọi là vạch hấp thụ. Hóa ra ở gần những đường này chiết suất của sóng dài hơn cao hơn chiết suất của sóng ngắn hơn. Một hiện tượng tương tự được quan sát thấy khi ánh sáng đi qua hơi natri (Hình 1) và các chất khác có vạch hấp thụ nằm trong vùng khả kiến ​​của quang phổ. Hiện tượng này được gọi là sự phân tán dị thường. Lý thuyết về sự phân tán dị thường được nhà vật lý người Đức Sellmeyer đưa ra vào năm 1871, nhưng trong một thời gian dài không có xác minh thực nghiệm đáng tin cậy nào. Việc xác định chiết suất gần các vạch hấp thụ đã được chứng minh là cực kỳ khó khăn do sự hấp thụ ánh sáng mạnh.
 
@@ -79,7 +79,7 @@ Thực hiện ý tưởng của mình, Rozhdestvensky đã thực hiện một p
 
 D. S. Rozhdestvensky đã có đóng góp lớn cho lý thuyết về microcospa. Được phát minh vào thế kỷ 17, microcosop đã sớm tìm ra nhiều ứng dụng. Tuy nhiên, lý thuyết về thiết bị quang học quan trọng này chỉ được tạo ra vào đầu thế kỷ của chúng ta. Quang học hình học cho phép bạn tính toán độ phóng đại của kính hiển vi. Nhưng cô ấy không thể đưa ra đáp số cho câu hỏi kích thước cơ thể tối đa vẫn có thể nhìn thấy bằng kính hiển vi là bao nhiêu. (Rốt cuộc, chẳng hạn, chúng ta biết rằng một kính hiển vi thông thường không cho phép chúng ta nhìn thấy các nguyên tử và phân tử.) Nó cũng không thể cho chúng ta biết bất cứ điều gì về đặc điểm và nguồn gốc của các vân nhiễu xạ và vân giao thoa,
 
-Cơm. 2. Vòng tròn giao thoa gần hạt tinh bột khoai tây trong nước. Đường kính hạt là 9 micron.
+Hình 2. Vòng tròn giao thoa gần hạt tinh bột khoai tây trong nước. Đường kính hạt là 9 micron.
 
 kèm theo (và làm biến dạng) hình ảnh của các vật thể trong kính hiển vi (Hình 2). Để làm được điều này, chúng ta cần một lý thuyết tính đến sự tương tác của các sóng ánh sáng phản xạ bởi các vật thể được nhìn thấy trong vũ trụ vi mô. Tác giả của lý thuyết đầu tiên như vậy là nhà vật lý quang học người Đức Abbe. Nhưng lý thuyết của Abbe áp dụng cho một hiện tượng đặc biệt khi vật được đề cập được chiếu sáng bởi các tia cưỡng bức. Những tia như vậy có cùng bước sóng và độ lệch pha dao động không đổi. Trong thực tế, người hầu này thường không được nhận ra. Một khái niệm hạn chế khác trong lý thuyết vũ trụ vi mô được Viện sĩ vật lý Liên Xô L.I. Mandelstam. Trong trường hợp này, vật đang được nghiên cứu tự phát sáng với ánh sáng không mạch lạc. Cả hai lý thuyết đều chỉ tính đến hiện tượng nhiễu xạ. D. S. Rozhdestvensky đã tạo ra lý thuyết về một microcospa hoạt động trong điều kiện ánh sáng xung quanh. Nó cũng tính đến các hiệu ứng nhiễu. Đồng thời, ông tìm ra những cách thiết thực để tăng hiệu quả nghiên cứu vũ trụ vi mô.
 

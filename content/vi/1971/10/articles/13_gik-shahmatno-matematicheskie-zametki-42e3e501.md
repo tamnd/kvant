@@ -31,7 +31,7 @@ Trong phần trước của ghi chú*) chúng tôi đã xác định rằng quâ
 
 Bài toán đi ngang một bàn cờ thông thường với các quân cờ khác được giải quyết đơn giản hơn nhiều. Ví dụ: đối với Lada, tuyến đường như vậy được hiển thị trong Hình 1. Ở đây
 
-Cơm. 1.
+Hình 1.
 
 Xe được thêm vào mục tiêu của nó, thực hiện 14 lượt trên đường đi. Chứng minh rằng số này không thể giảm được.
 
@@ -41,7 +41,7 @@ Con đường được chỉ định (nhân tiện, nó cũng phù hợp với n
 
 Cũng có thể đề xuất một tuyến đường khép kín (Hình 2). Xe đang ở đây
 
-Cơm. 2.
+Hình 2.
 
 mong muốn từ trường cuối cùng trong hành trình của họ - a2 có thể quay trở lại trường ban đầu - a1. Hãy tự mình nhận thấy rằng trên một bảng số lẻ (ví dụ: 7x7 hoặc 9x9), một đường dẫn kín cho phím đàn không còn tồn tại nữa.
 
@@ -53,7 +53,7 @@ matic bài toán trên bàn cờ. Những bài toán này được liên kết v
 
 Nhìn 8 quân hậu trên bàn cờ
 
-Cơm. 3.
+Hình 3.
 
 để không có hai người nào chạm vào nhau*).
 
@@ -83,7 +83,7 @@ Nếu bàn cờ được coi như một nhà tù (xin người chơi cờ tha th
 
 Hóa ra 5 quân hậu hoàn toàn có khả năng đương đầu với toàn bộ “nhà tù” cờ vua (Hình 5). Về cơ bản, chúng tôi đã xác định số lượng ổn định bên ngoài của các nữ hoàng là bằng 5 (không khó để chỉ ra rằng vẫn chưa đạt được bốn giờ). Người ta đã chứng minh rằng có 4860 phương pháp có thể được xem xét
 
-Cơm. 5.
+Hình 5.
 
 5 nữ hoàng canh gác. Nhân tiện, trong ví dụ của chúng tôi, các nữ hoàng có một đặc tính thú vị khác: bản thân họ không cắt đứt lẫn nhau.
 
@@ -95,7 +95,7 @@ Nếu đặt 9 quân hậu lên bàn cờ thì ít nhất hai trong số đó s�
 
 Đặc biệt dễ dàng tìm thấy bài toán để giải quyết cho quân xe - có lẽ, tính đơn giản của nó đã thể hiện rõ. Bạn phải có lính gác
 
-Cơm. 6.
+Hình 6.
 
 8, chỉ cần đặt chúng dọc hoặc ngang bất kỳ là đủ. Cũng dễ dàng chứng minh rằng số ổn định nội tại của một quân xe là 8 và có 8 vị trí tương ứng! — số hoán vị của 8 phần tử *) (n!=1·2·····n). Vị trí trên Hình 6 thỏa mãn yêu cầu chung.
 
@@ -109,9 +109,9 @@ Chứng minh rằng nếu các quân xe được xếp bằng nhau, tức là kh
 
 Chứng minh rằng số lượng các thỏa thuận giám mục được chấp nhận trên một cơ sở tùy ý
 
-Cơm. 7.
+Hình 7.
 
-Cơm. 8.
+Hình 8.
 
 bảng bằng bình phương của một số nhất định.
 
@@ -125,17 +125,17 @@ Số lượng ổn định bên ngoài cho ngựa là 12 (Hình 10). Bây giờ 
 
 Số ổn định bên ngoài cho các vị vua
 
-Cơm. 9.
+Hình 9.
 
 bên phải 9 (Hình 12). Mỗi trong số 9 hình chữ nhật được tô sáng ở Hình 12 có một hình vuông chỉ có thể bị đe dọa bởi một vị vua đứng trên hình vuông của cùng một hình chữ nhật. Vì vậy, để tất cả các ô đều có nguy cơ thì mỗi ô trong số 9 phần phải có ít nhất một quân Vua, số yêu cầu là 9.
 
-Cơm. 11.
+Hình 11.
 
-Cơm. 12.
+Hình 12.
 
 Rõ ràng, hai con tốt không thể đe dọa lẫn nhau cùng một lúc. Tuy nhiên, nếu ở câu hỏi 1 (tr. 50) thay từ “nhau” bằng từ “ít nhất một cái khác” và các hang động được phép đứng trên đường ngang đầu tiên thì câu hỏi 1 và 2 cũng đúng đối với các hang động. Đáp số là số 32 và vị trí của các quân Tốt ở Hình 12.
 
-Cơm. 13.
+Hình 13.
 
 Sunke 13 đáp ứng được yêu cầu chung.
 

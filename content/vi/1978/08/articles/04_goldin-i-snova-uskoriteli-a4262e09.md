@@ -105,19 +105,19 @@ Trong máy gia tốc có khả năng tăng tốc mạnh, nam châm điện đư�
 
 ⟦folio 13⟧
 
-Cơm. 4. Đến thiết bị synchrotron. 1 - cực từ, 2 - buồng chân không, 3 - đường sức từ trường.
+Hình 4. Đến thiết bị synchrotron. 1 - cực từ, 2 - buồng chân không, 3 - đường sức từ trường.
 
 nhưng hãy hiểu từ Hình 5. Khi xem xét hình này, bạn cần tưởng tượng rằng trước tiên hạt sẽ bay qua trường được mô tả bằng màu đỏ, sau đó qua trường “xanh”, rồi lại qua trường “đỏ”, v.v.
 
 Các hạt lệch khỏi quỹ đạo chính theo phương thẳng đứng sẽ chịu tác dụng của lực từ trường “xanh” đưa chúng trở lại mặt phẳng ngang trung bình. Và các hạt lệch trong mặt phẳng ngang hoặc tăng bán kính quỹ đạo của chúng (nếu chúng lệch về phía ngoại vi của buồng chân không và rơi vào trường yếu hơn) hoặc giảm quỹ đạo (nếu chúng lệch về phía trục máy gia tốc và rơi vào trường mạnh hơn). Do đó, các trường “xanh lam”, cung cấp thiết bị hướng tâm cần thiết, sao chép các hạt theo chiều dọc, nhưng làm lệch tiêu điểm của chúng một cách triệt để. Ngược lại, trong trường “đỏ”, các hạt lệch theo bán kính sẽ quay trở lại quỹ đạo chính.
 
-Cơm. 6.
+Hình 6.
 
 rini và các hạt lệch theo chiều dọc sẽ di chuyển ra xa mặt phẳng ngang trung bình.
 
 Từ trường tập trung và làm lệch tiêu điểm tác động lên quỹ đạo của các hạt giống như thấu kính hội tụ và tán xạ - lên các tia sáng (chúng ta đã nói về sự tương tự này). Vì vậy, một hệ thống tương tự của một hệ thống gồm các trường “đỏ” và “xanh lam” làm mất tiêu điểm có thể được coi là một hệ thống quang học bao gồm các thấu kính thu thập và tán xạ làm mờ. Sự khác biệt là các trục quang học trong hầu hết các trường hợp đều là trục thẳng (hoặc chúng là một số đoạn, tại các giao điểm của chúng có lăng kính) và quỹ đạo chính của các hạt trong synchrotron (trục linns từ tính) được đóng thành một vòng. Chúng ta hãy làm thẳng trục của các đường dây từ và mô tả từ trường như một chuỗi các đường dây thu thập và phân tán. Hình 6a thể hiện hình ảnh khử màu trong mặt phẳng nằm ngang (fo-
 
-Cơm. 5.
+Hình 5.
 
 ⟦folio 14⟧
 
@@ -139,9 +139,9 @@ tác động phá hủy của một hệ thống bao gồm chúng.
 
 Bây giờ chúng ta hãy quay trở lại hệ thống quang học, bao gồm không phải hai đường truyền mà là một chuỗi vô hạn các đường thu và tán xạ liên kết với nhau. Các tia sáng riêng lẻ (quỹ đạo của các hạt được gia tốc) truyền đi những đường khác nhau trong hệ quang học (trong hệ đường sức từ), tùy thuộc vào các điều kiện ban đầu - vào khoảng cách đến trục quang, vào góc nghiêng với trục. Việc theo dõi từng cung riêng lẻ này là rất khó khăn và ít hữu ích. Điều quan trọng hơn là phải xem xét “vỏ của chùm tia” - đường ngăn cách khu vực tràn ngập ánh sáng với vùng không được lấp đầy (đường viền của chùm hạt). Rõ ràng là loại đường bao chùm tia phụ thuộc vào các điều kiện ban đầu. Tuy nhiên, khi đi qua hệ thống quang học, mỗi chùm tia sẽ trở thành phụ âm theo thời gian - hình dạng đường bao của nó giữa bất kỳ quá trình thu thập liên tiếp nào.
 
-Cơm. 8.
+Hình 8.
 
-Cơm. 9. Phụ âm bao của chùm hạt (dầm dọc).
+Hình 9. Phụ âm bao của chùm hạt (dầm dọc).
 
 (hoặc khuếch tán) thấu kính giống nhau. Tương tự, bất kỳ chùm hạt nào quay xung quanh máy gia tốc trong một thời gian đủ dài đều trở thành phụ âm theo thời gian. Chính xác là chùm tia như vậy (đường bao của nó) được mô tả trong Hình 9. Đúng như mong đợi của chúng ta, kích thước của chùm tia tăng lên ở những đường thu thập và giảm đi ở những đường tán xạ. Vì vậy, hiệu ứng tổng thể của hệ thấu kính là định hình - nó giữ chùm tia ở gần trục trong toàn bộ thời gian tăng tốc.
 
@@ -173,7 +173,7 @@ Tuyên bố này được thể hiện độc lập bởi hai nhà khoa học - 
 
 ⟦folio 17⟧
 
-Cơm. 10. Thiết kế hệ thống từ tính của máy gia tốc Serpukhov.
+Hình 10. Thiết kế hệ thống từ tính của máy gia tốc Serpukhov.
 
 Phần kết luận
 
@@ -183,4 +183,4 @@ Bất cứ ai, ngoài bài viết này, đã đọc bài viết đã được đ
 
 Việc xây dựng các máy gia tốc lớn tốn kém đến mức ngay cả các nước lớn cũng không đủ khả năng chi trả. Các quốc gia là thành viên của CMEA (Hội đồng hỗ trợ kinh tế lẫn nhau) tham gia hỗ trợ tài chính cho công việc tăng tốc tại Viện nghiên cứu hạt nhân chung ở Dubna. Các nước phương Tây đã thành lập Trung tâm Nghiên cứu Hạt nhân Châu Âu, được xây dựng ở biên giới Thụy Sĩ và Pháp. Trung tâm này chứa các máy gia tốc lớn nhất ở châu Âu – một máy gia tốc proton có năng lượng 400 GeV và các vòng lưu trữ với các điểm va chạm của proton có năng lượng 2×30 GeV.
 
-Cơm. 11.
+Hình 11.

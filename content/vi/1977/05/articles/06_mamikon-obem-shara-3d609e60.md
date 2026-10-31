@@ -85,19 +85,19 @@ Hãy đặt nó trên một đường thẳng $AB$ Blevо từ điểm $A$ đo�
 
 ⟦folio 12⟧
 
-Cơm. 2.
+Hình 2.
 
 thay đổi độ lớn khi $x$ thay đổi). Bằng cách thay đổi $x$ từ 0 thành $2R$, tức là khoảng cách của toàn bộ các phần có thể thay đổi của ba vật thể, theo đó, chúng ta sẽ cân bằng từng phần (xem Hình 2). Kết quả là, tại điểm $T$, tất cả các phần của quả bóng và hình nón được treo ở bên trái và tất cả các phần của hình trụ ở bên phải (Hình 3). Archimedes viết *): “Nếu bây giờ, cũng lấy các đường tròn, chúng ta lấp đầy cả hình trụ và quả bóng bằng hình nón, thì hình trụ, giữ nguyên vị trí, sẽ cân bằng đối với điểm $A$ với quả bóng và hình nón lấy cùng nhau, nếu chúng ta chuyển chúng sang đòn bẩy ở $T$ và đặt chúng sao cho trọng tâm của chúng nằm dưới $T$.” Nhưng trung tâm
 
 *) Chính trong những xem xét này, người ta thấy sự kết hợp chặt chẽ giữa nguyên lý mặt cắt ngang với quy luật cân bằng cơ học của đòn bẩy.
 
-Cơm. 3.
+Hình 3.
 
-Cơm. 4.
+Hình 4.
 
 ⟦folio 13⟧
 
-Cơm. 5.
+Hình 5.
 
 Xoay Hình 4 quanh trục thẳng đứng AB, chúng ta thu được một quả cầu có bán kính R, một hình trụ ngoại tiếp quả bóng và một hình nón tròn “kép” nội tiếp trong hình trụ với đỉnh ở tâm quả cầu O. Hình 5 cho thấy ba vật này.
 

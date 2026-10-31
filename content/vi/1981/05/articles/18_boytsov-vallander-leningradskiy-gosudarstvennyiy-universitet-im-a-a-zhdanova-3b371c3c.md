@@ -40,11 +40,11 @@ Khoa Toán và Sinh học
 
 4. Sử dụng một thấu kính mỏng, người ta thu được ảnh thật của một vật phóng đại gấp hai lần. Khi đó thấu kính dịch chuyển một đoạn a=10 cm thì thu được ảnh nhỏ có cùng kích thước. Xác định tiêu cự F của thấu kính.
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
-Cơm. 3.
+Hình 3.
 
 5. Đối với kim loại này, hiệu ứng quang điện bắt đầu ở tần số ánh sáng v₀=6·10¹⁴ Hz. Xác định tần số v của sự chiếu xạ kim loại nếu các quang điện tử phát ra từ bề mặt kim loại bị chặn hoàn toàn bởi một lưới có điện thế so với kim loại là φ = 3 V.
 

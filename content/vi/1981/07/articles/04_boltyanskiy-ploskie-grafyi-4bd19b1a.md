@@ -39,8 +39,8 @@ Chúng ta hãy đưa ra hai ví dụ về đồ thị không thể nhúng vào m
 
 Ví dụ 1 (“nhà và giếng”). Sáu điểm được cho trên mặt phẳng: $D_1, D_2, D_3$ (nhà) và $K_1, K_2, K_3$ (giếng); Có thể vẽ đường nhiệt đới trên mặt phẳng từ mỗi nhà đến từng giếng sao cho không có hai đường nhiệt đới nào giao nhau không?
 
-Cơm. 1.
-Cơm. 2.
+Hình 1.
+Hình 2.
 
 ⟦folio 13⟧
 
@@ -98,7 +98,7 @@ dòng băm nhỏ. Định lý Jordan là bất kỳ đường khép kín đơn g
 
 Người ta không nên nghĩ rằng định lý Jordan phát biểu điều gì đó hoàn hảo. Mỗi “sự hiển nhiên” của nó chỉ được giải thích bởi thực tế là những đường rất đơn giản thường xuất hiện trong đầu bạn (hình tròn, đường viền của đa giác lồi, v.v.). Trong trường hợp tổng quát, phát biểu
 
-Cơm. 8.
+Hình 8.
 
 Phần cuối của định lý Jordan không rõ ràng lắm. Hình 8 cho thấy một đường đa tuyến khép kín đơn giản (có thể kiểm tra điều này bằng cách vẽ một đường bằng bút chì). Tuy nhiên, không hề rõ ràng rằng mặt phẳng bị đường này cắt thành hai vùng; ví dụ, không thể xác định ngay được điểm $a, b, c, d$ nằm ở khu vực nào (bên trong hay bên ngoài).
 

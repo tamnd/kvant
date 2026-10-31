@@ -53,9 +53,9 @@ Khi một tấm thạch anh, được cắt theo một cách nhất định từ
 Từ quan điểm của kỹ thuật vô tuyến, một tấm áp điện tương đương với một mạch cộng hưởng chung chứa điện cảm và điện dung, nhưng khác với nó ở chỗ cộng hưởng rất rõ. Đặc tính này của thạch anh áp điện từ lâu đã được sử dụng trong kỹ thuật vô tuyến để ổn định tần số máy phát trong máy phát vô tuyến. Đặc tính tương tự của thạch anh áp điện—sự ổn định cao của tần số dao động của chính nó—được sử dụng để tạo ra đồng hồ thạch anh thiên văn. Thành phần chính của đồng hồ như vậy là máy phát điện.
 trika.
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
 dao động điện từ, được ổn định bằng áp điện. Mạch máy phát điện được thể hiện trong hình 3.
 
@@ -65,7 +65,7 @@ Tấm quarium, thông qua các điện cực đặt vào các mặt đối diệ
 
 ⟦folio 4⟧
 
-Cơm. 4.
+Hình 4.
 
 thiết lập mạch anode cộng hưởng với các dao động tự nhiên của tấm, kèm theo những thay đổi đồng bộ về độ lớn điện tích trên các điện cực của nó. Và điều này gây ra sự dao động về điện thế của lưới điều khiển dòng điện cực dương. Các xung của dòng điện anode hỗ trợ (do năng lượng của pin B) dao động độc lập trong mạch anode và trong bản cực.
 
@@ -111,7 +111,7 @@ Trong trường hợp không có từ trường bên ngoài, các vectơ cảm �
 
 ⟦folio 6⟧
 
-Cơm. 5.
+Hình 5.
 
 đường sức từ bên ngoài. Nếu sau khi thực hiện công chống lại lực tương tác giữa con trỏ và từ trường, con trỏ bị lệch một góc nhất định và thả ra, thì dưới tác dụng của các lực này, nó sẽ trở về vị trí ban đầu sau một vài dao động. Vị trí cân bằng này ổn định vì nó tương ứng với giá trị tối thiểu của thế năng của mũi tên - ở bất kỳ vị trí nào khác, thế năng của nó lớn hơn lượng công dành cho việc thay đổi hướng ban đầu.
 
@@ -121,9 +121,9 @@ Nói cách khác, việc đặt nguyên tử mục tiêu vào từ trường bê
 
 Sự chuyển đổi của các nguyên tử $E_2 \rightarrow E_1$ (từ cấp dưới $E_2$ sang cấp dưới $E_1$) đi kèm với bức xạ và các chuyển đổi $E_1 \rightarrow E_2$ đi kèm với sự hấp thụ sóng có tần số $v_0 = \frac{E_2 - E_1}{h} = \frac{\Delta E}{h}$. Sự chênh lệch năng lượng $E_2 - E_1$ không lớn và tần số $v_0$ nằm trong dải sóng vô tuyến.
 
-Cơm. 6.
+Hình 6.
 
-Cơm. 7.
+Hình 7.
 
 Giá trị $\Delta E$ phụ thuộc rất ít vào tác động bên ngoài. Do đó, bức xạ có tần số $v_0 = \frac{\Delta E}{h}$ có thể được sử dụng làm tham chiếu. Nhưng để thực hiện điều này trong thực tế, cần phải “sắp xếp” các nguyên tử theo năng lượng.
 
@@ -145,7 +145,7 @@ Phía sau bộ cộng hưởng có một vùng từ trường bậc thấp $B_2$
 
 *) V. A. Fabrikant. "Chuyện gì xảy ra ở trại heli-neon." («Kvant», 1978, số 6.)
 
-Cơm. 8.
+Hình 8.
 
 ⟦folio 8⟧
 

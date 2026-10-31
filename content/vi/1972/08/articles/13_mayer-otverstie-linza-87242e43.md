@@ -53,14 +53,14 @@ trong đó $\lambda$ là bước sóng của ánh sáng tới.
 
 Điều này có nghĩa là sóng tới điểm $A$ với ranh giới của sóng lân cận
 
-Cơm. 1. Sự phân bố ánh sáng trong quá trình nhiễu xạ ánh sáng trên bề mặt hình tròn.
+Hình 1. Sự phân bố ánh sáng trong quá trình nhiễu xạ ánh sáng trên bề mặt hình tròn.
 a) Khoảng cách từ cửa ra đến mặt phẳng quan sát là tối thiểu; Sự bất thường trong mô hình nhiễu xạ do sự bất thường ở cạnh phản ứng là đáng chú ý.
 b, c, d) Khi khoảng cách đến mặt phẳng quan sát tăng lên, các vết sáng và vết tối lần lượt thay đổi ở tâm của giản đồ nhiễu xạ.
 d) Khi khoảng cách càng tăng thì một điểm sáng vẫn còn ở giữa.
 
 ⟦folio 51⟧
 
-Cơm. 2. Xây dựng vùng Fresnel.
+Hình 2. Xây dựng vùng Fresnel.
 
 các vùng có độ lệch đường đi λ/2, nghĩa là chúng ở nghịch pha. Khi đó, đối với mỗi điểm của bất kỳ vùng nào, sẽ có một điểm trong vùng lân cận sao cho sóng từ các điểm này đến tâm của mô hình nhiễu xạ ngược pha. Các vùng được xây dựng theo cách này được gọi là vùng Fresnel.
 
@@ -94,7 +94,7 @@ Cho một sóng ánh sáng máy bay từ
 
 *) Lord Rayleigh (1842-1919) là một nhà vật lý xuất sắc người Anh, công trình chính của ông là nghiên cứu các dao động và sóng có tính chất khác nhau.
 
-Cơm. 3. Thủ thuật lỗ tròn.
+Hình 3. Thủ thuật lỗ tròn.
 
 nguồn sáng chính xác ở xa vô hạn S. Chúng ta hãy tìm các điểm trên trục quang chính nơi đặt tâm ảnh của nguồn sáng.
 
@@ -134,9 +134,9 @@ $$N = \frac{500\lambda}{D^2}.$$
 
 Giả sử bước sóng ánh sáng là $\lambda = 6 \cdot 10^{-4}$ mm và chọn hai giá trị cho đường kính lỗ: $D_1 = 0,1$ mm và $D_2 = 0,2$ mm. Thay thế các giá trị này vào công thức (4), chúng tôi thấy rằng mức tăng tối đa,
 
-Cơm. 4.
+Hình 4.
 
-Cơm. 5. Các lỗ có đường kính 0,2 được xuyên qua một mảnh giấy bạc làm kính lúp; 0,3 và 0,4 mm. Một lưới có kích thước ô $0,5 \times 0,5$ mm đã được sử dụng làm đối tượng.
+Hình 5. Các lỗ có đường kính 0,2 được xuyên qua một mảnh giấy bạc làm kính lúp; 0,3 và 0,4 mm. Một lưới có kích thước ô $0,5 \times 0,5$ mm đã được sử dụng làm đối tượng.
 
 a) Khoảng cách tới mắt lưới 140 mm. Các lỗ cho hình ảnh gần như giống hệt nhau.
 
@@ -160,7 +160,7 @@ Hãy thử thí nghiệm này với tất cả các lỗ bạn đã tạo.
 
 Hình 6 cho thấy thiết kế quang học của kính thiên văn “Hole”, trong đó thấu kính là một lỗ tròn được xuyên qua một tấm giấy bạc và thị kính là một kính lúp có tiêu cự khoảng 2-5 cm. Khẩu độ của “thấu kính” của kính thiên văn như vậy nhỏ nên chỉ có thể nhìn được những vật rất sáng qua nó, chẳng hạn như dây tóc của đèn điện sợi đốt.
 
-Cơm. 6.
+Hình 6.
 
 Sau khi tạo ra một ống kính quan sát Hole-in-one, bạn sẽ thấy rằng nó có thể được sử dụng như một kính hiển vi và một chiếc điện thoại! Để phạm vi phát hiện “lỗ” hoạt động như một kính hiển vi, việc đưa vật thể đến gần “thấu kính” của nó là đủ. Nếu vật thể được lấy ra khỏi “ống kính”, thì ống kính ngắm sẽ hoạt động giống như một chiếc điện thoại (Hình 7).
 
@@ -170,17 +170,17 @@ Sau khi đã chắc chắn rằng lỗ trống đóng vai trò như một thấu
 
 Một lỗ khoét trên màn chắn mờ E1 tạo ra một R1 thực ngược và một ảnh R2 trực tiếp tối thiểu của vật R (Hình 8). Ảnh của những ảnh này sử dụng thấu kính L có thể thu được trên màn trắng E2.
 
-Cơm. 7. Hình ảnh dây tóc đèn điện thu được qua kính thiên văn “lỗ”:
+Hình 7. Hình ảnh dây tóc đèn điện thu được qua kính thiên văn “lỗ”:
 a) quan sát bóng đèn tới “thấu kính” 2 m,
 b) nhìn từ dây tóc của cùng một đèn đến “thấu kính” 60 mm.
 
 ⟦folio none⟧
 
-Cơm. 8.
+Hình 8.
 
 Là vật phẩm $R$, bạn có thể sử dụng dây tóc phát sáng của đèn điện. Đèn phải được đặt trong vỏ và tạo một lỗ có đường kính 40-80 mm trên một trong các bức tường của vỏ. Ở khoảng cách một mét từ đèn, bạn cần đặt một màn hình mờ đục (ví dụ: một tấm ván ép) có lỗ có đường kính khoảng 10 mm. Lỗ này phải được che bằng một miếng giấy bạc có đục một lỗ trên đó (màn hình $\partial_1$). Để thử nghiệm, bạn có thể sử dụng thấu kính $L$ có ​​tiêu cự 5-10 cm. Màn hình trắng $\partial_2$ (khoảng cách của tờ giấy trắng dày) nằm cách màn hình $\partial_1$ 1-2 mét.
 
-Cơm. 9.
+Hình 9.
 
 Khi bắt đầu thử nghiệm, hãy tháo thấu kính $L$ khỏi màn hình $\partial_1$ đến một khoảng vượt quá tổng tiêu cự của lỗ và thấu kính, sau đó gắn nó vào màn hình $\partial_1$. Trên màn hình trắng $\partial_2$ bạn sẽ quan sát hình ảnh của vật được tạo bởi lỗ $R_1$ (Hình 9, a), sau đó là hình ảnh sắc nét của lỗ trên màn hình $\partial_1$
 

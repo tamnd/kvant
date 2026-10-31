@@ -38,7 +38,7 @@ Khi nhật thực, Mặt Trăng quay về phía Trái Đất với vùng tối
 
 ⟦folio 21⟧
 
-Cơm. 1.
+Hình 1.
 
 bên con đẻ và đang ở trong trạng thái mới
 Lunia. Trong cả năm sẽ có
@@ -77,7 +77,7 @@ Mặt trời và mặt trăng chạm nhau. Giả sử chúng là hình tròn có
 đơn vị góc), chúng ta thu được bằng
 tam giác đùi LΩS có đáy |LS|=32′ và góc i=5°8′.
 
-Cơm. 2.
+Hình 2.
 
 Từ tam giác này (coi nó
 phẳng), chúng tôi tìm thấy giới hạn cần thiết-
@@ -121,7 +121,7 @@ Nếu nói về Trái đất nói chung thì nhật thực hoàn toàn không ph
 
 Có thể dự đoán trước nhật thực không? Hóa ra là bạn đã có thể dự đoán ngày xảy ra nhật thực sắp tới từ thời cổ đại, khi chu kỳ xen kẽ được chỉ định
 
-Cơm. 3. T - diện tích nhật thực toàn phần; K - vùng nhật thực đại học.
+Hình 3. T - diện tích nhật thực toàn phần; K - vùng nhật thực đại học.
 
 ⟦folio 23⟧
 
@@ -139,7 +139,7 @@ Năm 1981 được đánh dấu bằng hai lần nhật thực - nhật thực t
 
 ⟦folio 24⟧
 
-Cơm. 5. Quá trình nhật thực ở Moscow.
+Hình 5. Quá trình nhật thực ở Moscow.
 
 sẽ đi một chút về phía bắc Tselinograd và Pavlodar, giữa Novosibirsk và Barnaul, qua Leninsk-Kuznetsky, phía nam Krasnoyarsk, qua Taishet, Bratsk, Severo-Baikalsk và Tynda, nơi thời lượng của pha tổng sẽ đạt 120 giây và chiều rộng của dải nhật thực toàn phần sẽ là 110 km ở độ cao của Mặt trời trên đường chân trời 53°. Dải này sẽ băng qua phần phía bắc của Thủy lợi Tatar tại Dekastri và đi qua Aleksadrovsk-Sakhalinsky và Biển Okhotsk, bao phủ một hòn đảo nhỏ khác của sườn núi Kuril và không ảnh hưởng đến các vùng đất rộng lớn, kết thúc ở Thái Bình Dương. Ở Liên Xô, toàn bộ quãng đường dài khoảng 7400 km sẽ bao phủ bóng tối của mặt trăng trong 101 phút.
 

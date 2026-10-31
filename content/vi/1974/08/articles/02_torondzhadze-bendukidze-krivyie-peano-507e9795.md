@@ -68,7 +68,7 @@ $$x = \varphi(t), y = \psi(t)$$
 
 food $\varphi(t)$ và $\psi(t)$ là các hàm liên tục trên khoảng [0, 1].
 
-Cơm. 1.
+Hình 1.
 
 Bây giờ phương pháp xác định đường này được gọi là tham số (với tham số $t$).
 
@@ -124,7 +124,7 @@ Nếu điểm $t_0$ trùng với bất kỳ điểm phân chia nào, tức là c
 
 ⟦folio 16⟧
 
-Cơm. 2.
+Hình 2.
 
 Chúng tôi mời người đọc chứng minh rằng việc đánh số như vậy luôn có thể thực hiện được. Hình 2 cho thấy các ô vuông của ba hàng đầu tiên, với đường đứt nét màu đỏ biểu thị đường đi dọc theo các ô vuông được đánh số (bắt đầu từ ô vuông phía dưới bên trái).
 

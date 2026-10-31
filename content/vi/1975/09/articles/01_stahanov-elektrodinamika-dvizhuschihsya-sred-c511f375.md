@@ -49,9 +49,9 @@ Trong các vấn đề khác, cũng có những giá trị không phụ thuộc 
 
 Không giống như điện tích, nhiều đại lượng vật lý quan trọng khác,
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
 ⟦folio 4⟧
 

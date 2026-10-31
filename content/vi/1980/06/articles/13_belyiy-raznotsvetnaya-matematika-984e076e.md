@@ -32,7 +32,7 @@ Toán học đầy màu sắc
 
 Nhà toán học nổi tiếng người Anh Godfrey Harold Hardy đã nói: "Sự sáng tạo của một nhà toán học cũng giống như sự sáng tạo của vẻ đẹp như sự sáng tạo của một họa sĩ hay một tư thế - tổng thể của một ý tưởng, giống như tổng thể của những bức vẽ hay ngôn từ, phải có sự hài hòa bên trong. Vẻ đẹp là tiêu chuẩn đầu tiên cho một ý tưởng toán học; không có chỗ nào trên thế giới cho thứ toán học xấu xí"
 
-Cơm. 1.
+Hình 1.
 
 Tuy nhiên, cũng có những mối liên hệ rõ ràng hơn giữa toán học và hội họa: nhà toán học rất thường xuyên giúp đỡ… tô màu. Vâng, vâng - màu sắc! Chắc chắn, đã hơn một lần trong các bài học hình học, giáo viên toán của bạn đã sử dụng phấn màu, dùng chúng để đánh dấu các đoạn bằng nhau, các hình có kích thước bằng nhau, các góc bằng nhau... Hãy xem Hình 1, ví dụ. Ở đó, hình tam giác hình chữ nhật ở giữa được tô màu đỏ và sáu hình tam giác bằng nhau khác được tô màu đỏ. Bây giờ dễ dàng thấy rằng tổng diện tích của hai hình vuông được bảo vệ bởi màu xanh lá cây bằng diện tích của hình vuông được nó bảo vệ. Định lý Pythagore đã được chứng minh!
 
@@ -64,7 +64,7 @@ Sau tất cả những gì đã nói, bạn sẽ không còn ngạc nhiên khi b
 
 *) Về bài toán bốn màu, xem «Kvant»: 1972, số 4, tr. 33; 1974, № 2, c. 58; 1974, № 4, c. 23 và 1977, № 1, c. 60.
 
-Cơm. 7.
+Hình 7.
 
 “Bất kỳ bản đồ nào trên mặt phẳng đều có thể được tô màu không quá bốn màu để hai quốc gia láng giềng bất kỳ được tô màu khác nhau” (các quốc gia được coi là láng giềng nếu có một phần biên giới chung); những nước chỉ có một vài điểm chung không được coi là láng giềng). bài toán này lần đầu tiên được đề cập đến trong một bức thư gửi Hamilton của nhà toán học người Anh De Morgan (1852). Sau đó, nó được hình thành từ diễn đàn của Hiệp hội Địa lý Anh bởi nhà toán học xuất sắc người Anh Arthur Calley (1878). Kể từ đó, bài toán bốn màu đã làm đau đầu các học giả và nhà toán học. Trong gần một trăm năm nó dường như không thể xuyên thủng. Kết quả của nhiều năm làm việc chăm chỉ, người ta đã chứng minh được rằng bất kỳ bản đồ nào chứa không quá 41 quốc gia đều có thể được tô bằng bốn màu theo cách yêu cầu; nhưng điều này tất nhiên không giải quyết được tất cả các vấn đề. Chỉ mới gần đây, vào tháng 9 năm 1976, trên tạp chí “Bản tin của Hiệp hội Toán học Hoa Kỳ” của Hiệp hội Toán học Hoa Kỳ, một thông báo xuất hiện từ các nhà toán học người Mỹ Apel và Haken, những người đã chứng minh tầm quan trọng của giả thuyết này (điều đáng chú ý là bằng chứng “đã tham gia” và một phần rất quan trọng trong máy tính).
 

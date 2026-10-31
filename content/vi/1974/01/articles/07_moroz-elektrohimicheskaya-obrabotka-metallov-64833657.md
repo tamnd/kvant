@@ -48,7 +48,7 @@ Trong quá trình điện phân, các điện cực kim loại được ngâm tr
 
 Trong thực tế công nghiệp, khắc điện hóa và đánh bóng điện phân kim loại từ lâu đã được sử dụng rộng rãi. Đầu tiên là để làm sạch bề mặt kim loại khỏi màng oxit, thứ hai là để cải thiện chất lượng bề mặt, tạo độ sáng bóng cho bề mặt. Cả hai quá trình này đều dựa trên thực tế là trong quá trình điện phân, kim loại sẽ bị hòa tan.
 
-Cơm. 1.
+Hình 1.
 
 ⟦folio 28⟧
 

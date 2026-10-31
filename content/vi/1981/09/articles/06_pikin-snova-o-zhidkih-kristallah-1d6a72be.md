@@ -35,7 +35,7 @@ Dịch mật
 
 Cấu trúc của chất lỏng cholesteric (cholesteric) về nhiều mặt tương tự như chất lỏng chuyên dụng, nhưng có một điểm khác biệt đáng kể. Chúng ta có thể nói rằng cholesteric có trạng thái chuyên đề sau, nghĩa là nó bao gồm một chồng các lớp chuyên đề (Hình 1, a). Nhưng nếu các lớp song song với nhau được xoay theo một góc nhất định và đối với hai lớp liền kề thì góc này có giá trị nhỏ $\alpha \approx 0,5^\circ$. Khoảng cách giữa các lớp liền kề xấp xỉ bằng kích thước ngang của các phân tử $a$. Nếu chúng ta di chuyển dọc theo trục $Z$, vuông góc với mặt phẳng của các lớp (xem Hình 1, a), thì sau số lớp $N = \pi/a$, hướng của các phân tử sẽ giống như ở lớp đầu tiên (hướng $\vec{n}$ và $\vec{n}$ là tương đương về mặt vật lý). Khoảng cách $h = a \cdot 2\pi/a$, qua đó sự định hướng của các phân tử trong không gian được lặp lại, được biểu thị bằng chu kỳ gấp đôi của một mạng đặc biệt (Hình 1, b). Giá trị $h$ thường được gọi là cao độ của đường xoắn ốc, được hình thành trong không gian bởi các đầu của các phân tử nằm thành các lớp liên tiếp.
 
-Cơm. 1. Tinh thể lỏng Cholesteric. a) chuỗi xoắn mật; b) Sự phản xạ có chọn lọc ánh sáng bởi cholesterol.
+Hình 1. Tinh thể lỏng Cholesteric. a) chuỗi xoắn mật; b) Sự phản xạ có chọn lọc ánh sáng bởi cholesterol.
 
 ⟦folio 7⟧
 
@@ -47,7 +47,7 @@ Hình dạng phân tử này ảnh hưởng như thế nào đến trật tự �
 
 Do đó, chúng ta đi đến kết luận rằng các phân tử bất đối xứng sẽ tạo thành một chồng các từ chuyên đề và từ lớp này sang lớp khác, các phân tử sẽ quay theo một góc α nhất định. Vza-
 
-Cơm. 2. Phân tử cholesteron. a) cấu trúc nguyên tử; b) hướng trong các lớp liền kề.
+Hình 2. Phân tử cholesteron. a) cấu trúc nguyên tử; b) hướng trong các lớp liền kề.
 
 ⟦folio 8⟧
 
@@ -78,7 +78,7 @@ Tinh thể lỏng - phân tán
 
 Trạng thái tinh thể lỏng cũng có thể thu được bằng cách hòa tan các chất thích hợp trong dung môi, ví dụ như nước, bản thân dung môi này không tạo thành tinh thể lỏng. Điều này tạo ra nhiều loại tinh thể lỏng. Nếu các phân tử của chất bị hòa tan ở dạng que thì thu được chất lỏng nematic; nếu các phân tử hình que có quá trình - chất lỏng cholesteric. Các trạng thái phức tạp hơn cũng có thể thu được.
 
-Cơm. 3. Sự phụ thuộc của hướng của phân tử vào mật độ của chúng.
+Hình 3. Sự phụ thuộc của hướng của phân tử vào mật độ của chúng.
 $a$) mật độ thấp; $\delta$) mật độ cao.
 
 Trong những tinh thể lỏng như vậy, vai trò quan trọng không chỉ của lực hút giữa các phân tử mà chúng ta đã thảo luận mà còn bởi lực đẩy của các phân tử ở khoảng cách gần. Vai trò của lực đẩy của các phân tử ở khoảng cách gần. Vai trò của lực đẩy của các phân tử ở khoảng cách gần. Vai trò của lực đẩy của các phân tử tác dụng một góc trong không gian. Nhưng để trong trường hợp xảy ra mọi loại hư hỏng, các phân tử không giao thoa với nhau, không giao thoa với nhau thì mỗi phân tử phải có một thể tích nhất định trong chất lỏng. Khối này là một khối lập phương có kích thước cạnh xấp xỉ bằng chiều dài của các phân tử $l$; trong một khối lập phương có thể tích $l^3$, phân tử thực sự có thể được định hướng theo góc (Hình 3, $a$).
@@ -97,7 +97,7 @@ Một phần rắn
 tinh thể lỏng
 Cấu trúc của các phân tử đặc biệt được mô tả ở trên giải thích sự đa dạng về cấu trúc của tinh thể lỏng.
 
-Cơm. 4. Dung dịch nước là tinh thể lỏng. $a$) phân tử lưỡng cực; $b$) một chồng các lớp chất lỏng (smectic).
+Hình 4. Dung dịch nước là tinh thể lỏng. $a$) phân tử lưỡng cực; $b$) một chồng các lớp chất lỏng (smectic).
 
 Tallov - rastor. Ví dụ, khi xác định nồng độ của các phân tử như vậy trong nước, có thể thu được tinh thể lỏng trong đó các phân tử không chỉ có cùng hướng mà còn tạo thành một mạng tinh thể cứng. Chỉ có điều mạng này chỉ giống một phần với mạng thông thường của vật rắn, tuần hoàn theo ba hướng vuông góc lẫn nhau. Chỉ có thể có hai hoặc thậm chí một hướng như vậy trong các tinh thể lỏng đặc biệt.
 
@@ -113,4 +113,4 @@ Cấu trúc của tinh thể lỏng - raster - có tầm quan trọng lớn đ�
 
 Ví dụ đầu tiên có liên quan đến cụm từ “cholesterol trong máu”, được cả bác sĩ và người không chuyên sử dụng để chỉ một căn bệnh biểu hiện ở sự tắc nghẽn dịch máu. Đây chính xác là trường hợp khi một tinh thể lỏng cholesteric “tốt” (nghĩa là có cấu trúc hoàn hảo) được hình thành do bệnh tật là một triệu chứng phẳng. Thật vậy, chúng tôi đã lưu ý rằng cholesteric chỉ có tính lưu động tốt dọc theo các lớp chuyên đề, trong khi theo hướng ngang, nó giống một vật thể rắn hơn. Do đó, khi ở trạng thái tuần hoàn, các mảnh xoắn ốc cholesteric được sắp xếp sao cho dòng máu phải chảy qua các mạch máu, sức cản đối với dòng chảy này tăng lên rất nhiều - mạch máu bị tắc.
 
-Cơm. 5. Mạng tinh thể tuần hoàn theo hai hướng. a) các “sợi” lỏng trong dung dịch; b) “sợi” chất lỏng của các phân tử đĩa.
+Hình 5. Mạng tinh thể tuần hoàn theo hai hướng. a) các “sợi” lỏng trong dung dịch; b) “sợi” chất lỏng của các phân tử đĩa.

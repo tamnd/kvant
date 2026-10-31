@@ -43,7 +43,7 @@ Hành động của các thập giá rất giống với hành động của s�
 
 Phiên bản đơn giản nhất của trò chơi này là thế này: người mới bắt đầu đặt một cây thánh giá, người thứ hai đặt ba ô trên ba ô trống bất kỳ, sau đó người đầu tiên đặt
 
-Cơm. 1. Hình 2. a) Hình 6)
+Hình 1. Hình 2. a) Hình 6)
 
 ⟦folio 25⟧
 

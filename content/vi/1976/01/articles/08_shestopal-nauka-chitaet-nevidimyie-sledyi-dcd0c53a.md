@@ -80,7 +80,7 @@ Hiện nay, những chuyên gia làm chủ các phương pháp nghiên cứu kho
 ⟦column⟧
 
 ⟦figure⟧
-Cơm. 2. Hình ảnh một cuốn sách làm việc có văn bản được phủ mực và cùng một cuốn sách có văn bản được hiển thị bằng tia hồng ngoại.
+Hình 2. Hình ảnh một cuốn sách làm việc có văn bản được phủ mực và cùng một cuốn sách có văn bản được hiển thị bằng tia hồng ngoại.
 
 văn bản bằng thuốc thử có chứa đồng vị phóng xạ, sau đó tạo bản in ghi lại bức xạ của chúng (ví dụ: lại sử dụng màn hình huỳnh quang), bạn sẽ nhận được hình ảnh âm bản của các bản ghi “mờ”.
 
@@ -92,7 +92,7 @@ Bây giờ chúng ta hãy nói một chút về việc sử dụng một trong n
 
 ⟦folio 38⟧
 
-Cơm. 3. Sơ đồ chuyển đổi quang điện tử. 1 - vật được chiếu sáng bằng tia hồng ngoại; 2 — thấu kính; 3 - photocathode (lớp cảm quang); 4 - hình ảnh ánh sáng; 5—5′—điện cực hội tụ; 6 - hình ảnh điện tử; 7 - màn phát quang (α - màng nhôm bảo vệ photocathode khỏi bức xạ tinh thể, δ - lớp tinh thể, ε - chất nền thủy tinh); 8 - mắt người quan sát.
+Hình 3. Sơ đồ chuyển đổi quang điện tử. 1 - vật được chiếu sáng bằng tia hồng ngoại; 2 — thấu kính; 3 - photocathode (lớp cảm quang); 4 - hình ảnh ánh sáng; 5—5′—điện cực hội tụ; 6 - hình ảnh điện tử; 7 - màn phát quang (α - màng nhôm bảo vệ photocathode khỏi bức xạ tinh thể, δ - lớp tinh thể, ε - chất nền thủy tinh); 8 - mắt người quan sát.
 
 Lê, chì mà chúng được tạo ra có nhiều tạp chất khác nhau. Lượng tạp chất này trong các mẻ dobi khác nhau, mặc dù rất không đáng kể nhưng vẫn khác nhau. Để nghiên cứu kỹ lưỡng những trường hợp như vậy, phân tích quang phổ được sử dụng. Mỗi nguyên tố hóa học có phổ phát xạ riêng và duy nhất và theo đó là phổ hấp thụ. Ví dụ, nếu một mảnh chì mà từ đó tạo ra dobe được ném vào ngọn lửa của hồ quang điện, thì trong quang phổ, người ta có thể nhìn thấy “dấu vết” của tạp chất dưới dạng các vạch đen tương ứng trên nền của phổ bức xạ hồ quang liên tục. Bằng “cường độ” của những đường màu đen này, người ta có thể đánh giá được lượng tạp chất. Bằng cách này, danh tính về các thành phần hóa học của dobins được tìm thấy trong cơ thể của người đàn ông bị sát hại và những thứ thu được từ một trong những nghi phạm đã được xác định, tức là người thực hiện vụ giết người đã được tìm thấy.
 

@@ -77,7 +77,7 @@ M185. Trên kafman có diện tích 1, 5 ngọn lửa được đặt, diện t�
 
 ⟦folio 49⟧
 
-Cơm. 1.
+Hình 1.
 
 Chúng ta hãy biểu thị bằng $x_k$ diện tích của phần caftan được bao phủ bởi các miếng vá $k$ ($k = 0, 1, \dots, 5$). Theo điều kiện, diện tích của caftan là 1 và tổng diện tích của các miếng vá là $\frac{5}{2}$:
 $$S_0 = x_0 + x_1 + x_2 + x_3 + x_4 + x_5 = 1,$$
@@ -107,7 +107,7 @@ Ngược lại, nếu tại một điểm nào đó $C$ góc
 
 ⟦folio 50⟧
 
-Cơm. 3.
+Hình 3.
 
 VSD là trực tiếp, do đó, rõ ràng, ΔAA'B = ΔCBD và AA' = BC. Vì vậy, chỉ cần tìm tập hợp các điểm C thỏa mãn điều kiện (1) (B và D là các điểm cố định). Tập hợp này, như đã biết, là một đường tròn có đường kính BD.
 
@@ -127,7 +127,7 @@ $$\frac{AE_1}{BE_1} = \frac{AE_2}{BE_2} = 2$$
 
 *) Xem thêm sách: Vasiliev N.B., Gutenacher V.L. Đường thẳng và đường cong. M., “Khoa học”, 1970, tr. 22, 102 và Gelfand I.M., Glagoleva E.G., Kirillov A.A. Phương pháp tọa độ. M., “Khoa học”, 1968, tr. 32.
 
-Cơm. 5.
+Hình 5.
 
 d) Từ điểm B1, chính giữa cạnh AC, hạ đường vuông góc B1K xuống đường thẳng AB. Tất nhiên, CC' = 2B1K, do đó điều kiện CC' = BB1 tương đương với điều kiện này (Hình 5): BB1 = 2B1K (chân bằng đa giác của cạnh huyền). Do đó, ∠B1BK = 30°. Do đó, quỹ tích của điểm B1 là bốn tia phát ra từ điểm B tạo thành các góc 30° và 150° với đoạn AB. Tập hợp các điểm C thu được từ nó bằng cách giãn nở với hệ số 2 và tâm tại điểm A.
 
@@ -157,19 +157,19 @@ M189. Ba đoạn thẳng AB, EF và CD đi qua một điểm O, điểm E nằm 
 
 Chúng ta sẽ lợi dụng thực tế là độ dài đường phân giác trong một tam giác không vượt quá một nửa tổng độ dài các cạnh bao quanh nó (chứng minh điều này!). Giả sử đoạn EF dài hơn Δ so với đoạn AB, CD (max(AB, CD)). Đặt $\Rightarrow AOE \neq EOC$ - nếu không thì EF $\leq \frac{AB+CD}{2}$ và EF không thể có độ dài tối đa (AB, CD). Hãy để định nghĩa $\Rightarrow AOE > EOC$. Do đó, đoạn E1F1 (xem Hình 10) sao cho $\Rightarrow E1OE = EOC$. Rõ ràng điểm E1 thuộc đoạn AC và điểm F1 thuộc đoạn BD. EF $\leq \frac{CD+E1F1}{2}$, vậy nên E1F1 có chiều dài tối đa là 2Δ (AB, DC). Do đó, chúng ta có thể chuyển từ một phân đoạn “lớn hơn Δ” sang một phân đoạn “lớn hơn 2Δ”, trong đó Δ là một số dương. Sau khi lặp lại quá trình chuyển đổi này k lần, chúng ta thu được đoạn E1F1, dài hơn ít nhất 2^k·Δ so với max(AB, CD). Bằng cách chọn k đủ lớn, chúng ta có thể làm cho đoạn E1F1 có độ dài lớn hơn AB+CD, điều này là không thể. Mâu thuẫn thu được cho thấy đoạn EF không thể lớn hơn max(AB, CD). Nhiệm vụ lời giải.
 
-Cơm. 7.
+Hình 7.
 
 ⟦folio 52⟧
 
-Cơm. 8.
+Hình 8.
 
-Cơm. 9.
+Hình 9.
 
-Cơm. 10.
+Hình 10.
 
 Đây là lời giải bài toán M189 thứ hai. Vẽ các đường thẳng đi qua E và F vuông góc với EF. Ta tiếp tục các đoạn OA, OB, OC, OD cho đến khi chúng cắt các đường thẳng này và có ký hiệu như trên Hình 11. Cho điểm A nằm bên trong dải giữa các đường thẳng đó, C - bên ngoài nó; thì D phải nằm bên trong dải (nếu không thì rất indo, CD > EF) và B phải nằm bên ngoài. Từ không
 
-Cơm. 11.
+Hình 11.
 
 sự bình đẳng
 
@@ -193,7 +193,7 @@ Một trong số đó là sự phụ thuộc của lực ma sát vuông góc v�
 
 ⟦folio 54⟧
 
-Cơm. 13.
+Hình 13.
 viết như thế này:
 
 $$2 + \left( k + \frac{1}{k} \right).$$
@@ -258,7 +258,7 @@ Mỗi phần của vật chất chuyển động sẽ chuyển động với t�
 
 *) Dung lượng pin là mức sạc tối đa có thể đạt được khi xả pin.
 
-Cơm. 15.
+Hình 15.
 
 Trong thời gian $\Delta t$, pít-tông sẽ di chuyển đến một khoảng cách $v \Delta t$, và những hạt có thể tích $v \Delta t \pi r^2$ sẽ bắt đầu chuyển động và mật độ của các hạt này bằng $\rho_0$ (các hạt còn lại, có mật độ $\rho - \rho_0$, đang chuyển động với tốc độ c). Vì tốc độ của mỗi hạt bằng c nên động lượng mà các hạt vật chất thu được trong thời gian $\Delta t$ bằng $v \Delta t \rho_0 c \pi r^2$. Xung lực này, như chúng ta đã nói, bằng xung lực F. Do đó,
 

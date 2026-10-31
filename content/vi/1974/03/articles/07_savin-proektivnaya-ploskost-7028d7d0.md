@@ -35,11 +35,11 @@ Còn bản vẽ thì sao? “Cần có tài năng,” bạn nói. Chà, không n
 
 Lần đầu tiên, các nghệ sĩ thời Phục hưng, đặc biệt là Albrecht Duer (1471-1528) và Leonardo da Vinci (1452-1519), bắt đầu quan tâm đến việc khắc họa chính xác các nhân vật. Sau đó, đến lời giải các nhà toán học bài toán này đã có mặt và tạo ra một hình học thiết kế - khoa học tuyệt đẹp, nền tảng của nó được đặt ra bởi Gerard Desart (1593-1661) và Blaise Pascal (1623-1662).
 
-Cơm. 1. Hình 2.
+Hình 1. Hình 2.
 
 ⟦folio 10⟧
 
-Cơm. 3.
+Hình 3.
 
 Nhìn ra ngoài cửa sổ. Bạn sẽ thấy phong cảnh. Bây giờ hãy tưởng tượng rằng đây không phải là một cửa sổ mà là một bức tranh. Rõ ràng không thể trách “tác giả” của bức ảnh này có góc nhìn không tốt. Hãy thử lặp lại bức tranh này, chẳng hạn như dùng phấn trực tiếp trên kính cửa sổ. Hãy cài đặt nó và đưa nó vào cửa sổ. Và sau đó “bức tranh” bắt đầu thay đổi - các vật thể mới sẽ xuất hiện trên đó và những vật thể ở đó sẽ bắt đầu trộn lẫn và thay đổi hình dạng của chúng. Tuy nhiên, chúng ta hãy đi lên cửa sổ và cố gắng khắc họa những gì chúng ta nhìn thấy. Xảy ra lỗi: đầu cử động nhẹ và hình ảnh thay đổi, hình ảnh di chuyển sang nơi khác. Phải làm gì?
 
@@ -55,11 +55,11 @@ Zhashikh trong mặt phẳng ngang $Q$, trên mặt phẳng thẳng đứng $P$ 
 
 Và đường nào trên mặt phẳng $Q$ tương ứng với đường “ngang” $l_1$ trên mặt phẳng $P$ - “đường ngang”? Không có đường dây trực tiếp như vậy. Đồng thời, đối với bất kỳ đường thẳng nào khác trong mặt phẳng $P$ đều có một đường thẳng trong mặt phẳng $Q$ tương ứng với nó (chọn). Mặt khác, đối với đường thẳng $l_2$ giao điểm của mặt phẳng $Q$ với mặt phẳng $R$ (R song song với mặt phẳng $P$ và đi qua điểm $O$, xem Hình 8) và chỉ đối với đường thẳng này không có hình ảnh nào trên mặt phẳng $P$ cho bất kỳ điểm nào của nó và thậm chí cả hình ảnh của các đường thẳng song song với $l_2$ và nằm trong $Q$ không cắt nhau trên $P$. Mong muốn loại bỏ sự “phân biệt đối xử” như vậy đã dẫn đến việc tạo ra khái niệm về mặt phẳng xạ ảnh.
 
-cơm. 5.
-cơm. 7.
+hình 5.
+hình 7.
 
-cơm. 6.
-cơm. 8.
+hình 6.
+hình 8.
 
 ⟦folio 12⟧
 
@@ -84,9 +84,9 @@ Trong trường hợp này, các góc giữa các đường thẳng cũng đư�
 
 Định lý Desagre. Đặt dữ liệu là các đường thẳng cắt nhau tại điểm $O$. Đặt các điểm $A$ và $A_1$ nằm trên một dòng, $B$ và $B_1$ trên một dòng khác, và $C$ và $C_1$ trên dòng thứ ba. Khi đó giao điểm của đường $AB$ và $A_1B_1$,
 
-Cơm. 9.
+Hình 9.
 
-Cơm. 10.
+Hình 10.
 
 ⟦folio 13⟧
 
@@ -113,7 +113,7 @@ Một mô hình như vậy gần như đã được xây dựng. Cụ thể, ch�
 
 ⟦folio 14⟧
 
-Cơm. 13.
+Hình 13.
 Đường thẳng sẽ tương ứng với mặt phẳng ngang - “đường thẳng” và tương ứng với các điểm ở vô cực – các đường thẳng nằm trong mặt phẳng ngang (ví dụ: $ON_1$ trong Hình 7) - “điểm”. Trong mô hình này, sự bằng nhau của tất cả các điểm và đường thẳng của mặt phẳng xạ ảnh được thể hiện rõ ràng nhất.
 
 Mô hình thu được rất tốt cho việc nghiên cứu các tính chất của mặt phẳng thiết kế, nhưng tôi muốn có một mô hình trong đó các điểm là điểm và các đường thẳng sẽ là đường thẳng. Hóa ra không khó để có được một mô hình như vậy từ mô hình trước đó. Hãy thêm một bán cầu khác có tâm tại điểm $O$, tiếp tuyến với mặt phẳng $Q$ (đáy của bán cầu song song với mặt phẳng $Q$). Khi đó, mỗi đường nối điểm $O$ với một điểm trên mặt phẳng $Q$ sẽ tương ứng với một điểm trên bán cầu - chính là điểm mà tại đó đường thẳng này giao với bán cầu. Trong trường hợp này, đỉnh của mặt phẳng pháp tuyến sẽ tương ứng với một hình bán nguyệt trên bán cầu, đi qua các điểm chiếu đường kính của đường viền của bán cầu. Họ các đường thẳng song song trên mặt phẳng $Q$ sẽ tương ứng với hai điểm được chiếu đường kính trên ranh giới của bán cầu (Hình 11), và đường thẳng ở vô cực sẽ tương ứng với ranh giới của bán cầu.

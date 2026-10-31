@@ -113,7 +113,7 @@ Trong Hình 1-4, các khu vực có màu xanh lam được giới hạn bởi ha
 
 ⟦folio 29⟧
 
-Cơm. 5. Bằng cách xoay $45^\circ$ theo chiều kim đồng hồ, hình này tạo ra Hình 6 (nhưng ở tỷ lệ khác).
+Hình 5. Bằng cách xoay $45^\circ$ theo chiều kim đồng hồ, hình này tạo ra Hình 6 (nhưng ở tỷ lệ khác).
 
 Hơn nữa, nếu nó có cấu trúc bất đẳng thức (“ít hơn”) thì lời giải bốn; nếu một trong số chúng trở thành đẳng thức thì hai, nếu nó (điều này chỉ có thể thực hiện được nếu $a = b = 0$), thì có một điều.
 
@@ -221,7 +221,7 @@ Nếu một piston thực hiện 50 hành trình trong 1 phút thì một hành 
 
 ⟦folio 32⟧
 
-Cơm. 11.
+Hình 11.
 
 ma khí. Do đó, trong trường hợp này, chuyển động của piston sẽ không làm thay đổi tốc độ tan băng.
 
@@ -291,7 +291,7 @@ Một tấm matnik $AB$ với một quả bóng có khối lượng $M$ được
 
 Vì sợi dây $AB$ vẫn thẳng đứng nên không có lực ngang nào tác dụng lên quả bóng có khối lượng $M$ trong quá trình hệ chuyển động. Điều này có nghĩa là lực ngang không tác dụng lên hệ gồm hai quả bóng, $M$ và $m$, và các quả bóng phải chuyển động sao cho khối tâm của chúng không chuyển động theo hướng nằm ngang. Do đó, một quả bóng có khối lượng $m$ chuyển động như thể nó được gắn vào một sợi dây có chiều dài $x$, trong đó $x$ là khoảng cách từ quả bóng đến tâm khối lượng của hệ.
 
-Cơm. 12.
+Hình 12.
 
 Chúng tôi. Chu kỳ dao động của một matnik như vậy bằng $2\pi \sqrt{\frac{x}{g}}$. Khoảng thời gian này rất dài, bằng dao động của điểm $A$, tức là $T$:
 

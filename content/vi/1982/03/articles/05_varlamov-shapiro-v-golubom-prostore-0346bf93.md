@@ -90,6 +90,6 @@ Thực tế là các đám mây bao gồm những giọt nước hoặc tinh th�
 
 Bây giờ hãy cùng nhau hòa vào hình dạng của những đám mây. Đỉnh mây trong ảnh -
 
-Cơm. 2.
+Hình 2.
 
-Cơm. 3.
+Hình 3.

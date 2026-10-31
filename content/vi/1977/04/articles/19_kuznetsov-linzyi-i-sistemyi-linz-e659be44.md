@@ -69,9 +69,9 @@ $$\frac{n_1}{F_1} = \frac{n - n_1}{R_1} + \frac{n - n_2}{R_2}.$$
 
 *) Về nguyên tắc, có thể tạo ra các bề mặt khúc xạ mà điều kiện paraxity của tia là không bắt buộc. Tuy nhiên, bề mặt hình cầu là dễ sản xuất nhất.
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
 dụng cụ mài sắc, trong trường hợp đầu tiên ở bên trái ống kính và trong trường hợp thứ hai từ trái sang phải. Một phần, khi có không khí ở cả hai bên thấu kính (n₁=n₂=1),
 
@@ -131,7 +131,7 @@ Bây giờ chúng ta cần tìm $d_1, d_2, f_1$ và $f_2$. Theo công thức đ�
 
 ⟦folio 53⟧
 
-Cơm. 4.
+Hình 4.
 
 và từ điều kiện bài toán $d+f=L$. Loại bỏ $d$, ta thu được phương trình bậc hai
 $$f^2 - fL + FL = 0,$$

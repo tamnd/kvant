@@ -47,7 +47,7 @@ Tất nhiên, tính chất đầu tiên cho khoảng cách của tôi được t
 
 *) Rõ ràng, Styopa đang đề cập đến cuộc trò chuyện được nêu trong bài viết "Bạn có thể chứng minh điều đó không? "Bạn không thể chứng minh điều đó!" («Kvant», 1978, số 1).
 
-Cơm. 1.
+Hình 1.
 
 ⟦folio 49⟧
 

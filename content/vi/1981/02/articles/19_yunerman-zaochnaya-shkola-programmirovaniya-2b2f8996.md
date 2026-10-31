@@ -94,13 +94,13 @@ Tất nhiên, |F(C)|<0,001 không có nghĩa là F(C)=0; do đó "gốc của ph
 
 ⟦folio 56⟧
 
-Cơm. 3.
+Hình 3.
 không nhất thiết phải là gốc.
 Hãy xem xét trường hợp khi có chính xác một nghiệm của phương trình trên đoạn này (để cô lập một đoạn như vậy, có các phương pháp đặc biệt; một trong số chúng sẽ được thảo luận dưới đây) và các số F(A) và F(B) có các giá trị khác nhau. Đối với định nghĩa, giả sử F(A) < 0, F(B) > 0 (Hình 3). Trung điểm của đoạn [A; B] có hoành độ C = (A + B)/2. Hãy tính |F(C)| và so sánh nó với 0,001. Nếu hóa ra |F(C)| < 0,001 thì C là số cần tìm. Nếu |F(C)| ≥ 0,001, ta tiến hành như sau: từ các đoạn [A; C] , [C; B] chọn cái ở cuối mà hàm F lấy giá trị của các ký hiệu khác nhau; Bây giờ chúng ta hãy biểu thị nó bằng [A; B]. Đảm bảo rằng đoạn mong muốn có thể được chọn bằng câu sau:
 IF F(C)*F(B) < 0 TO C -> A ELSE C -> B ALL;
 Do xây dựng, đối với phân khúc mới [A; B] tương ứng công bằng F(A) < 0, F(B) > 0. Người đọc có thể đã quyết định phải làm gì tiếp theo. Chúng ta hãy xem xét lại phần giữa của đoạn [A; B], ta tính giá trị của hàm F trong đó rồi so sánh
 
-Cơm. 5.
+Hình 5.
 mô đun của giá trị này là 0,001. Nếu giá trị mới của C thỏa mãn điều kiện |F(C)| < 0,001 thì đây là con số mong muốn. Ngược lại, lại từ hai đoạn [A; C] và [C; B] bạn cần chọn cái ở cuối mà hàm F nhận giá trị của các ký hiệu khác nhau. Quá trình được mô tả phải được tiếp tục cho đến khi tìm thấy số lượng mong muốn.
 
 Một độc giả chú ý có thể nhận thấy rằng phương pháp này không phải lúc nào cũng cho kết quả đáp số như mong muốn: trường hợp đã lấy được gốc “giả” ở bước đầu tiên được hiển thị trong Hình 4.
@@ -111,5 +111,5 @@ Phương pháp quay lui
 Chúng ta hãy xem xét lại bài toán việc tìm kiếm nghiệm của phương trình F(X) = 0 với độ chính xác 0,001 trên khoảng [A; B], nhưng lần này chúng ta sẽ không đưa ra bất kỳ giả định nào về sự hiện diện của nghiệm trên đoạn thẳng.
 Xét đoạn [A; A + H], trong đó H là số “nhỏ” tùy ý
 
-Cơm. 4.
-Cơm. 6.
+Hình 4.
+Hình 6.

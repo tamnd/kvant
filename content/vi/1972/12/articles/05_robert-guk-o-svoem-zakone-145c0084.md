@@ -86,7 +86,7 @@ $$a^{\Delta t} - 1 \approx \Delta t \cdot tg \varphi,$$
 
 và sai số tương đối của đẳng thức gần đúng (2) giảm -
 
-Cơm. 1.
+Hình 1.
 
 giảm khi $\Delta t$ và có xu hướng bằng 0 khi $\Delta t \rightarrow 0$ (hãy nhớ rằng tiếp tuyến được xác định là vị trí giới hạn của cát tuyến). Đẳng thức gần đúng (2) vẫn hợp lệ đối với các giá trị âm của $\Delta t$, malch trong giá trị abscissa.
 
@@ -100,7 +100,7 @@ Mối quan hệ (3) tương tự như mối quan hệ (1) và hoàn toàn trùng
 
 Tuy nhiên, khi mô tả các quy trình, sẽ thuận tiện hơn nhiều khi sử dụng cùng một cơ số và hệ số tỷ lệ $k$ được tính đến một cách rõ ràng trong số mũ. Đối với điều này, chúng tôi chọn cái này
 
-Cơm. 2.
+Hình 2.
 
 ⟦folio 21⟧
 
@@ -202,9 +202,9 @@ $$I(t) = I_0 e^{-\frac{R}{L} t}.$$
 
 Đối với một mạch bao gồm một cuộn dây $L$, điện trở $R$ và một ví dụ: nguồn. d.s. $(E)$ (Hình 6), định luật Ohm sẽ có dạng $IR \approx E - L \frac{\Delta I}{\Delta t}$. Để tại thời điểm này phím $t=0$ $K$ được đóng lại
 
-Cơm. 6.
+Hình 6.
 
-Cơm. 7.
+Hình 7.
 
 (trước đó, mục tiêu được coi là mở). Sau khi quá trình trở nên ổn định, sẽ có dòng điện $I_0 = \frac{E}{R}$ trong mạch, nhưng trước khi điều này xảy ra, dòng điện thu được trong mạch có dạng tổng đại số của dòng điện $I_0$ và ngược lại, được xác định theo công thức (6). Vì vậy, trong điều kiện nhất thời, dòng điện thu được được cho bởi
 
@@ -244,7 +244,7 @@ Do đó vận tốc của thuyền thay đổi theo quy luật
 
 $$v = v_0 e^{-\frac{k}{m} t}.$$
 
-Cơm. 8.
+Hình 8.
 
 7. Sự suy yếu cường độ thay đổi khi đi qua môi trường hấp thụ
 

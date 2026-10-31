@@ -67,7 +67,7 @@ Bây giờ chúng tôi sửa các điểm $A, B$ và $C$ trên $l$. Đặt gốc
 
 ⟦folio 4⟧
 
-Cơm. 5.
+Hình 5.
 
 6) $(BACD) = (ABDC) = (CDBA) = (DCAB) = \frac{1}{\omega}$;
 7) $(BDAC) = (DBCA) = (ACBD) = (CADB) = 1 - \omega$;
@@ -89,7 +89,7 @@ $$\frac{|A'C'|}{|C'B'|} : \frac{|A'D'|}{|D'B'|} = \frac{|AC|}{|CB|} : \frac{|AD|
 
 Vì các điểm $A, B, C, D$ trên $l$ và $A', B', C', D'$ trên $l'$ có cùng thứ tự nên các quan hệ nguyên tố $(ABC)$ và $(A'B'C')$, $(ABD)$ và $(A'B'D')$ có cùng dấu. Vì vậy, $(A'B'C'D') = (ABCD)$.
 
-Cơm. 6.
+Hình 6.
 
 Bộ ba Pascal
 
@@ -151,7 +151,7 @@ phần ốc xà cừ
 
 Bây giờ chúng ta hãy sử dụng ví dụ về đường tròn để xem hình chiếu trung tâm làm biến dạng hình dạng của các hình ở mức độ nào. Chúng ta hãy xem xét một đường tròn S nằm trên mặt phẳng π và một điểm P phía trên mặt phẳng này (Hình 15). Vòng tròn S sẽ trở thành gì?
 
-Cơm. 15.
+Hình 15.
 
 Tất nhiên, khi chiếu tâm từ điểm P, điều đó phụ thuộc vào vị trí của mặt phẳng π′ mà chúng ta đang chiếu lên đó. Hình vẽ thể hiện bốn tin đồn (các mặt phẳng π′1, π′2, π′3, π′4); điều này tạo ra một sự tương ứng, một hình elip, một parabol, một hyperbol và một cặp đường thẳng giao nhau. Hình vẽ cho thấy rõ rằng tổng số các đường thẳng chiếu tạo thành một hình nón; Vì vậy, các đường cong được liệt kê được gọi là mặt cắt hình nón.
 

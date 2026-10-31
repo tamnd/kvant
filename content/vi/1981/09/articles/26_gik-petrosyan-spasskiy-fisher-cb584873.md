@@ -78,12 +78,12 @@ $$S = 15 + \frac{x + y + z}{3}.$$
 $S$ nhận giá trị tối thiểu khi $x + y + z = 1 + 2 + 3 = 6$ và giá trị tối đa khi $x + y + z = 7 + 8 + 9 = 24$; do đó, $S_{\min} = 17$, $S_{\max} = 23$.
 Dễ dàng nhận thấy rằng $S$ không thể bằng 18. Thật vậy, nếu $S = 18$ thì $x + y + z = 9$. Lấy một trong bốn hình tam giác (từ cạnh 2) chứa 9; đặt các số còn lại trong đó là $x, y$ và $t$ (Hình 2). Khi đó $x + y + t + 9 = 18$, do đó $t = z$ là mâu thuẫn.
 
-Cơm. 1.
-Cơm. 2.
-Cơm. 3.
-Cơm. 4.
-Cơm. 5.
-Cơm. 6.
+Hình 1.
+Hình 2.
+Hình 3.
+Hình 4.
+Hình 5.
+Hình 6.
 
 Các vị trí số tương ứng với các giá trị $S = 17,19$ và 20 được hiển thị trong Hình 3-5. Vị trí tương ứng với các giá trị $S = 23$ và 21 được lấy từ Hình 3 và 4 bằng cách thay thế từng số $A$ bằng số 10—A. Không có vị trí cho $S = 22$, cũng như cho $S = 18$.
 4. Nó bị cấm. Trong thực tế, chúng ta hãy giả sử rằng việc tô màu như vậy có thể được thực hiện. Chúng ta hãy chọn một hình vuông $ABCD$ có kích thước $3 \times 3$ từ lưới của chúng ta và đánh số các ô của nó bằng các số 1, 2, ..., 9 (Hình 6). Trong hình chữ nhật $MBCN$ và $ABEF$, các ô đánh số 3, 6 và 7, 8 được sơn hai màu giống nhau. Nhưng trong hình chữ nhật $AGKD$ chắc chắn sẽ có hai ô cùng màu: ô số 6 được tô màu giống ô 7 hoặc giống ô 8. Một sự mâu thuẫn.

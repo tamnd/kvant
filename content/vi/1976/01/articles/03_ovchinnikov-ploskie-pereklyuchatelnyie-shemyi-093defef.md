@@ -33,9 +33,9 @@ Bạn có thể dễ dàng hiểu mạch chuyển mạch là gì từ Hình 1. C
 
 Khi tạo ra các thiết bị kỹ thuật sử dụng mạch chuyển mạch, yêu cầu các kết nối giao nhau phải được cách ly với nhau. Trong các thiết bị thông thường, các kết nối được thực hiện bằng dây dẫn và do đó yêu cầu này dễ dàng được đáp ứng. Một ví dụ về thiết bị như vậy là mạch chuyển mạch,
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
 ⟦folio 13⟧
 
@@ -70,7 +70,7 @@ Ví dụ, hoán vị trong Hình 5 không thể thực hiện được bằng 2:
 
 ⟦folio 14⟧
 
-Cơm. 5.
+Hình 5.
 
 kết nối (2, 5) và (3, 4) giao nhau. Đối lập về ý nghĩa với khái niệm lớp là khái niệm bó. Một tập hợp con các liên kết được gọi là một bó nếu có hai liên kết bất kỳ từ tập hợp con này giao nhau. Độ dày của một bó là số lượng trái phiếu có trong đó. Chúng ta sẽ coi mỗi liên kết là một chùm có độ dày 1.
 

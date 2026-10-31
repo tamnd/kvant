@@ -40,7 +40,7 @@ Tại sao loài côn trùng này không chết đuối? Và làm sao nước có
 
 Hóa ra toàn bộ vấn đề nằm ở lớp chất lỏng có hại. Anh ấy là
 
-Cơm. 1.
+Hình 1.
 
 ⟦folio 41⟧
 
@@ -54,7 +54,7 @@ Vì vậy, không chỉ đồng hồ nước, mà cả những vật thể đặ
 
 Đúng, nếu bạn lấy kim ngày càng dày hơn, thì bắt đầu từ một điểm nhất định, sức mạnh
 
-Cơm. 2.
+Hình 2.
 
 trọng lực và lực căng bề mặt không liên tục, và cây sẽ chìm xuống. (Điều thú vị là chiều dài của kim hầu như không đóng vai trò gì.)
 
@@ -106,4 +106,4 @@ Làm thế nào để bạn trả lời câu hỏi nổi tiếng: có thể đ�
 
 Bạn đã thấy rằng chất lỏng không làm ướt sẽ không lan ra khắp bề mặt mà sẽ đọng lại thành từng giọt, và càng ít chất lỏng thì
 
-Cơm. 8.
+Hình 8.

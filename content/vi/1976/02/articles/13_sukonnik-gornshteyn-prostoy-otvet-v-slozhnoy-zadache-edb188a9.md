@@ -79,7 +79,7 @@ Bài toán 2. Cho tam giác ABC. Vẽ một đường tròn tiếp xúc với c�
 
 Chúng ta hãy biểu thị đường kính của vòng tròn loại trừ bằng x: $|DF| = x$ và độ dài của dây cung $KE$ bằng y: $|KE| = y$.
 
-Cơm. 2.
+Hình 2.
 
 Áp dụng các định lý cho tiếp tuyến và cát tuyến, cũng như trên hai cát tuyến vẽ đường tròn đi từ một điểm (C và A, tương ứng), chúng ta thu được
 
@@ -114,7 +114,7 @@ $$|DF| = \frac{b^2}{2h}.$$
 
 ⟦folio 48⟧
 
-Cơm. 3.
+Hình 3.
 
 Thông thường, phương pháp đại số lời giải hình học bài toán dẫn đến các phương trình vô tỉ phức tạp. Đôi khi, nhờ có thêm tin nhắn, điều này có thể tránh được. Đây là hai bài toán điển hình.
 
@@ -156,7 +156,7 @@ $$x^4 - 6x^3 + 2x^2 + 96x - 144 = 0.$$
 
 ⟦folio 49⟧
 
-Cơm. 5.
+Hình 5.
 
 Đa thức thu được ở vế trái được phân tích thành tích của hai tam giác vuông: $x^2 + 2x - 6$ và $x^2 - 8x + 24$. Vì vậy $(x^2 + 2x - 6)(x^2 - 8x + 24) = 0$.
 

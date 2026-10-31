@@ -40,7 +40,7 @@ Lời giải. Gọi $2a$ là độ dài dây cung của đoạn và $h$ chiều 
 
 Ký hiệu bằng $x$ nửa chiều dài đáy của hình chữ nhật nội tiếp
 
-Cơm. 1.
+Hình 1.
 
 Vì vậy, hãy tìm độ dài của cạnh thứ hai:
 
@@ -92,7 +92,7 @@ Nếu hợp âm của một đoạn nhất định nằm trên cả hai hợp â
 
 Cuối cùng, nếu hợp âm của một đoạn nhất định nằm trên cả hai hợp âm đã chọn thì $h > R$ và $a \leqslant \frac{2\sqrt{5}}{5} R$; trong trường hợp này, hình chữ nhật nội tiếp có chu vi lớn nhất có dây cung này làm đáy (Hình 4).
 
-Cơm. 5.
+Hình 5.
 
 Bài toán 2. Từ một hình chữ nhật có phần “đường đi” bị cắt (Hình 5), cần cắt một hình chữ nhật có diện tích phẳng nhất, song song với các cạnh của hình chữ nhật này.
 
@@ -187,7 +187,7 @@ Vấn đề tương tự sẽ nảy sinh trong trường hợp khoảng thời g
 Tại nhà vợ
 1. Trong một đoạn parabol, dây cung vuông góc với trục đối xứng của các parabol (Hình 12), nội tiếp một hình chữ nhật có chu vi lớn nhất. (Độ dài hợp âm là $2a$, chiều cao là $h$).
 
-Cơm. 12.
+Hình 12.
 
 2. Trong một tam giác có đáy $a$ và chiều cao $h$, hãy nội tiếp một hình chữ nhật có chu vi lớn nhất, hai đỉnh của nó nằm trên đáy của tam giác.
 

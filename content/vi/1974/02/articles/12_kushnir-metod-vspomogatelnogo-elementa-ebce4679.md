@@ -77,7 +77,7 @@ $$HF = \frac{1}{2} (a + x),$$
 
 $$EH = \frac{1}{2} (a - x), h = HF \mathrm{tg} \beta =$$
 
-Cơm. 2.
+Hình 2.
 
 $$= \frac{1}{2} (a + x) \mathrm{tg} \beta = EH \mathrm{tg} \alpha =$$
 
@@ -131,7 +131,7 @@ Hãy xem bài toán, trong đó phần tử phụ là âm lượng.
 
 ⟦folio 50⟧
 
-Cơm. 8.
+Hình 8.
 
 các hàm đo góc, sau đó một góc phụ được đưa vào. Sau đó, vận dụng định lý sin hoặc cosin, giải tam giác tìm các thành phần để viết một điều kiện nhất định dưới dạng phương trình.
 
@@ -147,7 +147,7 @@ Nhiệm vụ 9 (MIPT, 1967). Tại đáy của trục thẳng ABCD vẽ một m�
 
 Phần đường chéo $DBB_1D_1$ của hình bình hành (Hình 9) sẽ đi qua tâm của các quả bóng $O$ và $O_1$. Gọi $L$ và $L_1$ là điểm tiếp xúc của các quả bóng và đáy của hình bình hành, $N$ và $N_1$ là điểm tiếp xúc của các quả bóng với một mặt phẳng cho trước (chúng ta chưa biết liệu chúng có nằm trong hình bình hành hay không)
 
-Cơm. 9.
+Hình 9.
 
 ⟦folio 51⟧
 
@@ -165,7 +165,7 @@ Chúng ta thả các đường vuông góc từ các điểm $B$ và $C$ lên c�
 
 Hãy giới thiệu góc phụ $\star BAS = \alpha$ và vẽ trung điểm SK
 
-Cơm. 10.
+Hình 10.
 
 kim tự tháp. Rõ ràng là $AB = 2AK = 2b \cos \alpha$. Do đó, đối với lời giải bài toán chỉ cần tính $\cos \alpha$ là đủ. Vì $\alpha < 90^\circ$, nên từ tam giác $BAD$ ta có $\alpha = \arcsin \frac{BD}{AB}$.
 

@@ -40,7 +40,7 @@ $(p - 2b)x - ay = -2ab$ (phương trình đường thẳng MP) và $bx + ay = ab
 
 Hãy nhân phương trình thứ hai với 2 và cộng nó với phương trình thứ nhất. Chúng tôi nhận được (cho $x = x_0, y = y_0$) $px_0 + ay_0 = 0$. Do đó, độ dốc của đường NQ bằng $\frac{y_0}{x_0} = -\frac{p}{a}$,
 
-cơm. 1. Hình 2.
+hình 1. Hình 2.
 
 M157. Tổng của n số dương $x_1, x_2, x_3, \dots, x_n$ bằng 1. Gọi S là số lớn nhất
 

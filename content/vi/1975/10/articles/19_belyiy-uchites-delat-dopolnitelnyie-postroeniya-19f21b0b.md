@@ -45,8 +45,8 @@ Chúng ta hãy vẽ một đường thẳng đi qua đỉnh C, song song với �
 
 Như bạn có thể thấy, bài toán này khá đơn giản, khó khăn chính với
 
-Cơm. 1.
-Cơm. 2.
+Hình 1.
+Hình 2.
 
 ⟦folio 49⟧
 
@@ -65,10 +65,10 @@ Bài toán 5. Qua giao điểm các đường trung tuyến của tam giác ABC 
 Gọi O là giao điểm của các đường trung tuyến của tam giác, AD là đường trung tuyến (Hình 5). Vẽ các đường vuông góc BM, DL, CN, AK lên đường thẳng l. Dễ dàng nhận thấy DL là đường trung bình của hình thang BMNC, $DL = \frac{BM + CN}{2}$, và $\Delta AKO \sim \Delta DLO$ nên $\frac{DL}{AK} = \frac{DO}{OA} = \frac{1}{2}$ và $AK = 2DL = BM + CN$.
 
 ⟦figure⟧
-Cơm. 6.
+Hình 6.
 
 ⟦figure⟧
-Cơm. 7.
+Hình 7.
 
 Bài toán 6. (MSU, Cơ học và Toán học, 1973). *Trong một hình thang, các đường chéo là 3 và 5, đoạn nối trung điểm của hai đáy là 2. Tìm diện tích của hình thang.*
 

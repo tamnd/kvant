@@ -53,7 +53,7 @@ Ví dụ 1. Biết rằng trung điểm hai đáy của hình thang và giao đi
 
 ⟦folio 15⟧
 
-Cơm. 2.
+Hình 2.
 
 biệt danh MNPQ và B giữa, Với sự ủng hộ của nó
 Vì các cạnh đối diện MN và PQ nằm trên cùng một đường thẳng nên MNPQ là hình thang hoặc hình bình hành (Hình 3).
@@ -84,7 +84,7 @@ Ví dụ 2. Về phía ON của hình bình hành AMNO và trên đường chéo
 
 ⟦folio 16⟧
 
-Cơm. 4.
+Hình 4.
 
 Các aeonals OM cũng lấy các điểm B và C, lần lượt là $\overrightarrow{OB} = \frac{1}{n} \overrightarrow{ON}$ và $\overrightarrow{OC} = \frac{1}{n+1} \overrightarrow{OM}$ (Hình 5). Chứng minh rằng các điểm A, B, C thẳng hàng.
 
@@ -126,7 +126,7 @@ Các vectơ $\overrightarrow{AB}$ và $\overrightarrow{AC}$ rất dễ biểu di
 
 ⟦folio 18⟧
 
-Cơm. 8.
+Hình 8.
 
 Vì $\overrightarrow{AB} = \overrightarrow{AO} - \overrightarrow{BO}$ và $\overrightarrow{AB} = \overrightarrow{CB} - \overrightarrow{CA}$, chúng ta nhận được
 $$\overrightarrow{b} - \overrightarrow{a} = x(\beta \overrightarrow{b} - \overrightarrow{a}) - y(\alpha \overrightarrow{a} - \overrightarrow{b}),$$
@@ -151,7 +151,7 @@ Nhiệm vụ và
 
 ⟦folio 19⟧
 
-10. Cơm. 10.
+10. Hình 10.
 
 11. Chứng minh rằng nếu giao điểm các đường trung bình của tứ giác ABCD thuộc đường chéo AC thì đường chéo BD chia đôi đường chéo AC. Định lý ngược lại có đúng không?
 

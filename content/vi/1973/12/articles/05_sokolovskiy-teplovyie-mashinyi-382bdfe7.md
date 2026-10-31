@@ -35,9 +35,9 @@ Lưu ý rằng điều ngược lại bài toán—để tỏa đi năng lượn
 
 Loại thiết bị này đã được tổ tiên xa xôi của chúng ta biết đến, những người biết cách tạo ra lửa bằng ma sát. Cần phát minh ra động cơ nhiệt
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
 ⟦folio 13⟧
 
@@ -47,9 +47,9 @@ Chúng ta hãy thử tưởng tượng chế tạo một động cơ nhiệt đ�
 
 Khi chất khí dẫn nhiệt (nghĩa là được bao quanh bởi lớp vỏ dẫn nhiệt), nó nguội đi trong quá trình giãn nở phụ thuộc và công được thực hiện nhờ nội năng của nó ($A = -\Delta U$). Nhưng nếu các thành của hình trụ được giữ đủ tốt
 
-Cơm. 3.
+Hình 3.
 
-Cơm. 4.
+Hình 4.
 
 nhiệt được tạo ra và bản thân xi lanh nằm trong bộ điều nhiệt, khi đó nhiệt độ và do đó nội năng của khí được duy trì không đổi - công được thực hiện nhờ nhiệt lượng được cung cấp ($A_1 = q_1$). Ở đây đã có sự biến đổi nhiệt thành công, nhưng đây chưa phải là chuyển động nhiệt, vì công việc của nó không có tính tuần hoàn.
 
@@ -63,7 +63,7 @@ $A_3$ - bộ giảm chấn điều chỉnh (dẫn nhiệt cơ thể) di chuyển
 
 ⟦folio 14⟧
 
-Cơm. 5.
+Hình 5.
 
 này. Chỉ ở trạng thái cân bằng chất khí mới tuân theo phương trình Mendeleev-Clapeyron. Tại điểm cao nhất của sự thay đổi, một phần tải trọng được loại bỏ, điều này một lần nữa đảm bảo sự cân bằng gần đúng của piston trong quá trình lăn ở nhiệt độ thấp hơn (và do đó áp suất thấp hơn).
 
@@ -83,7 +83,7 @@ Thật vậy, theo định luật nhiệt động lực học thứ nhất, côn
 
 ⟦folio 15⟧
 
-Cơm. 6.
+Hình 6.
 
 Cải tiến bộ số hóa nhiệt
 

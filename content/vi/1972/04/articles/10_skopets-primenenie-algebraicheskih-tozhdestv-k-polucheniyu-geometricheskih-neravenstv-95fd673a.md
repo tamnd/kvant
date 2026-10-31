@@ -34,15 +34,15 @@ Các điểm đại số, hợp lệ với một số ngoại lệ nhất địn
 
 I. Mẫu số phức $a=x+iy$ là số không âm $\sqrt{x^2+y^2}$ bằng khoảng cách
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2. $OM=MA$; $A_1M=MA_2$
+Hình 2. $OM=MA$; $A_1M=MA_2$
 
-Cơm. 3. $OM=MA_1$; $A_2M=MA$
+Hình 3. $OM=MA_1$; $A_2M=MA$
 
 ⟦folio 37⟧
 
-Cơm. 4. Hình 5.
+Hình 4. Hình 5.
 
 chúng tôi có
 
@@ -74,7 +74,7 @@ Lưu ý nếu số $a$ tương ứng với điểm $A$ có tọa độ $x, y$ th
 
 ⟦folio 38⟧
 
-Cơm. 7.
+Hình 7.
 
 2. Thật dễ dàng để kiểm tra các điểm sau:
 $$a^2(b-c) + b^2(c-a) + c^2(a-b) = -(b-c)(c-a)(a-b).$$
@@ -92,7 +92,7 @@ Như vậy, tỉ số tùy ý của ba cạnh của một tam giác với tổng
 $$(b-c)(b+c)^2 + (c-a)(c+a)^2 + (a-b)(a+b)^2 = (a-b)(a-c)(b-c).$$
 Chúng ta hãy biểu thị lần lượt bằng $k_1, k_2, k_3$ khoảng cách từ tâm vòng tròn được mô tả về tam giác $ABC$ đến cạnh $BC, CA, AB$ (Hình 8). Tâm của đường tròn này là
 
-Cơm. 8.
+Hình 8.
 meme cho nguồn gốc. Sau đó
 $$|b+c| = 2k_1, |c+a| = 2k_2, |a+b| = 2k_3.$$
 Từ thời điểm này nó theo sau

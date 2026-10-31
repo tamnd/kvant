@@ -84,9 +84,9 @@ Anh ta hỏi: không phải việc tìm ra điểm $E$ là nghiệm của một 
 
 Chúng ta đặt $AE=x, BE=y, CE=z$ và biểu thị bán kính của hình tròn $\epsilon$ bằng $e$. Sau đó (Hình 3) $x+a=y+b=z+c=e$. Do đó $x+y+a+b=2e$, tức là $x+y+AB=2e$. Nó cũng được xác định rằng $x+z+AC=y+z+BC=2e$. Các đại lượng $x+y+AB, x+z+AC$ và $y+z+BC$ là chu vi của hình tam giác $AEB, AEC$
 
-Cơm. 2.
+Hình 2.
 
-Cơm. 3
+Hình 3
 
 ⟦folio 15⟧
 
@@ -190,13 +190,13 @@ Về giới hạn. Cho $Q$ là một đường tròn có tâm $O$ bán kính $R$
 
 *) Savin A.P., Đảo ngược và bài toán Apollo. «Kvant», 1971, số 8.
 
-Cơm. 4.
+Hình 4.
 
-Cơm. 5.
+Hình 5.
 
 ⟦folio 17⟧
 
-Cơm. 6.
+Hình 6.
 
 $\Pi$, nằm cách $r$ một khoảng dương $O$, đi đến điểm $M'$, nằm trên tia $OM$ cách $r'$ cách $O$ sao cho $rr' = R^2$; $O$ gọi là tâm nghịch đảo, $R^2$ là hệ số nghịch đảo.
 
@@ -216,7 +216,7 @@ d) đường tròn không đi qua $O$ đi vào đường tròn không đi qua $O
 
 *) Tức là chúng biến thành gì sau khi đảo ngược.
 
-Cơm. 7.
+Hình 7.
 
 Đối với những người lần đầu tiên tìm hiểu về nghịch đảo, chúng tôi khuyên bạn nên tự mình chứng minh các tính chất được liệt kê hoặc đọc bài viết nêu trên của A.P. Savin.
 

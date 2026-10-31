@@ -130,13 +130,13 @@ Công thức này bao gồm hai biến
 
 ⟦folio 63⟧
 
-Cơm. 2.
+Hình 2.
 
-Cơm. 3a.
+Hình 3a.
 
-Cơm. 36.
+Hình 36.
 
-Cơm. 4.
+Hình 4.
 
 (R và H), nhưng sử dụng điều kiện là những cái được tạo thành có độ dài l, có thể loại bỏ một trong các biến. Chính xác thì cái nào? Về nguyên tắc thì không có gì khác biệt, nhưng trong thực tế chúng ta phải tính đến việc chúng ta sẽ phải cắt dữ liệu khỏi phương trình $V'=0$, vì vậy tốt hơn là nên để biến mà qua đó V được biểu thị đơn giản nhất. Trong trường hợp này, chúng ta có: $R^2+H^2=l^2$, do đó $R^2=l^2-H^2$ và cả $H^2=l^2-R^2$. Chúng tôi nhận được:
 

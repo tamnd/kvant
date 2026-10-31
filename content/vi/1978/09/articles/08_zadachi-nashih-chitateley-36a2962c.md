@@ -23,7 +23,7 @@ translation_quality: draft
 
 ⟦folio 29⟧
 
-Cơm. 8.
+Hình 8.
 
 chuyển parabol phân biệt.
 

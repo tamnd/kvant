@@ -50,7 +50,7 @@ $$\vec{F} = m\vec{a},$$
 
 trong đó $\vec{F}$ là lực tác dụng lên cơ thể, $m$ là khối lượng của cơ thể và $\vec{a}$ là gia tốc mà cơ thể thu được. Nếu biết tất cả các lực tác dụng, thì sử dụng định luật này người ta có thể tìm ra gia tốc của vật, từ đó tìm được tốc độ và tọa độ tại bất kỳ thời điểm nào.
 
-Cơm. 1.
+Hình 1.
 
 ⟦folio 39⟧
 
@@ -95,7 +95,7 @@ Bài toán 3. Dọc theo “đường xích đạo” của mặt trong của m�
 
 Vì các ngoại lực không tác dụng lên hệ quả cầu nên khối tâm của hệ này phải chuyển động (điều này xảy ra ngay sau đó).
 
-Cơm. 3.
+Hình 3.
 
 Cú đánh từ định luật Newton). Điều này có nghĩa là không chỉ quả bóng chuyển động mà cả quả cầu cũng chuyển động và cả hai đều quay quanh một trục đi qua khối tâm của hệ.
 

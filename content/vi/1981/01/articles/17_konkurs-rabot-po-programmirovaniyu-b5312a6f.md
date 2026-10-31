@@ -50,7 +50,7 @@ Gợi ý. Vẽ tiếp tuyến của đồ thị vận tốc với góc
 
 tìm hệ số bằng 3. Tìm hoành độ của các điểm tiếp tuyến.
 
-Cơm. 10.
+Hình 10.
 
 ⟦folio 54⟧
 

@@ -48,7 +48,7 @@ Với lời giải bài toán, trước hết, cần phải hiểu loại lực 
 
 Bài toán 1. Hai thanh khối lượng $M_1 = 7$ kk và $M_2 = 10$ kk, ​​​​nối một nửa, nằm trên một bàn ngang. Một nim khác, gắn vào một khối có khối lượng $M_1$, được ném lên một khối gắn trên cạnh bàn và một tải trọng có khối lượng $m = 1$ kk được treo vào khối đó (Hình 1). Hệ số ma sát giữa thanh và bàn là $\mu = 0,1$. Xác định độ bền hai bên và lực ma sát tác dụng lên mỗi thanh.
 
-Cơm. 1.
+Hình 1.
 
 Đầu tiên, chúng ta hãy tìm hiểu xem các thanh có chuyển động hay không. Chúng có thể bắt đầu chuyển động dưới tác dụng của lực căng $\vec{T}_1$ của sợi bên phải và nó, ở giá trị tuyệt đối, không thể vượt quá trọng lực của một tải trọng có khối lượng $m$:
 
@@ -68,7 +68,7 @@ Bây giờ hãy xem xét riêng các thanh có khối lượng $M_1$ và $M_2$. 
 
 ⟦folio 49⟧
 
-Cơm. 2.
+Hình 2.
 
 Giá trị lực ma sát tối đa
 $$|\vec{F}_{\text{тр. 1 max}}| = \mu M_1 |\vec{g}| = 7 \text{ H} < |\vec{T}_1| = 10 \text{ H},$$
@@ -92,7 +92,7 @@ giữa một khối và một tấm ván $\mu$, khối lượng của khối $m$
 
 Trong trường hợp này, lực ma sát tĩnh $\vec{F}_{\text{тр. п.}}$ được cân bằng bởi lực $\vec{F}$ - thành phần lực hấp dẫn của khối, hướng dọc theo mặt phẳng nghiêng:
 
-Cơm. 4.
+Hình 4.
 
 $$|\vec{F}_{\text{тр. п.}}| = |\vec{F}| = m |\vec{g}| \sin \alpha.$$
 Khi góc $\alpha$ tăng, lực ma sát tĩnh tăng và ở một góc nhất định $\alpha_0$ nó đạt giá trị cực đại
@@ -104,19 +104,19 @@ Khi góc tăng thêm $\alpha$ vật trượt dọc theo tấm ván và lực ma 
 $$|\vec{F}_{\text{тр. ск.}}| = \mu |\vec{N}| = \mu m |\vec{g}| \cos \alpha.$$
 Đồ thị biểu diễn sự phụ thuộc giá trị tuyệt đối của lực ma sát vào góc nghiêng
 
-Cơm. 5.
+Hình 5.
 
 bảng $\alpha$ được thể hiện trên Hình 5: đến góc $\alpha_0$ lực ma sát quay trở lại theo định luật sin, và tiếp tục tiêu diệt theo định luật cosin.
 
 ⟦folio 50⟧
 
-Cơm. 6.
+Hình 6.
 
 Nhiệm vụ 3. Một khối hình chữ nhật có kích thước như hình 6 được dùng dây thừng đè đều dọc theo mặt phẳng ngang; góc nghiêng của thành phần $\alpha$ có thể được thay đổi. Hệ số ma sát giữa vật và mặt phẳng là $\mu$. Tại giá trị nào $\alpha_0$ khối bắt đầu tăng lên?
 
 Hãy xem xét tất cả các lực tác dụng lên khối. Đó là lực căng dây $\vec{T}$, lực hấp dẫn $\vec{mg}$, phản lực tựa $\vec{N}$ (có giá trị tuyệt đối bằng lực ép thông thường) và lực trượt $\vec{F}_{\text{тр. ск.}}$ (vì khối đang chuyển động). Ở góc nghiêng $\alpha_0$, khi khối bắt đầu nâng lên, màu xanh lam
 
-Cơm. 7.
+Hình 7.
 
 ly $\vec{N}$ và $\vec{F}_{\text{тр. ск.}}$ đi qua điểm $A$ (Hình 7).
 
@@ -154,7 +154,7 @@ $$s_0 = H/\sin \alpha.$$
 
 Công $A$ bằng số với diện tích
 
-Cơm. 8.
+Hình 8.
 
 tam giác tô đậm trong Hình 8:
 

@@ -212,7 +212,7 @@ nếu $-\sqrt{8} \leq a \leq -2$ thì
 
 ⟦folio 24⟧
 
-Cơm. 3.
+Hình 3.
 
 $$x = \pm \arccos(\sqrt{2})^{a \pm \sqrt{2}a^2 - 8} + 2\pi n.$$
 

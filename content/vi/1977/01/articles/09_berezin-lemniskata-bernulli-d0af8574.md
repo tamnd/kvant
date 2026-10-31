@@ -43,11 +43,11 @@ Bạn có thể nhận được lemniscate bằng cách sử dụng cùng một 
 
 Bạn có thể xây dựng một lemniscate bằng các công cụ vẽ. Để làm điều này, hãy thực hiện một số cách dựng bổ sung trong Hình 1. Hãy vẽ NF song song với OM, cũng như AC (trong đó C là tâm của đường tròn).
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
-Cơm. 3.
+Hình 3.
 
 sti) và NM vuông góc với OM (Hình 2). Kể từ |OC| = 1/2 |OF| thì |AC| = 1/2 |ED| = 1/2 |MN|. Ngoài ra, |LA| = 1/2 |LM'| = 1/2 × |OM|. Do đó hai tam giác LAC và OMN đồng dạng. Độ dài của đoạn |ON| = 2 |LC| = hằng số. Đây là cơ sở cho phương pháp xây dựng một lemniscate, được minh họa trong Hình 3. Ở đây, hai hình vuông và một hình tròn có bán kính |QF| được sử dụng. Đường thẳng của một trong các hình vuông phải chứa đoạn NF. Điểm M thuộc lemniscate.
 

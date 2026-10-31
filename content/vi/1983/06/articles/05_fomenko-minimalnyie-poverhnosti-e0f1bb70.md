@@ -52,7 +52,7 @@ Bề mặt tối thiểu - mô hình màng xà phòng
 
 Nguyên lý vật lý làm cơ sở cho sự hình thành màng xà phòng và điều chỉnh hành vi cũng như tính chất của chúng cực kỳ đơn giản: một hệ vật lý chỉ giữ lại một cấu hình nhất định khi nó không thể dễ dàng thay đổi nó sang vị trí có giá trị năng lượng thấp hơn. Năng lượng
 
-Cơm. 1.
+Hình 1.
 
 2*
 
@@ -62,9 +62,9 @@ bề mặt (màng xà phòng), thường được mô tả dưới dạng sức 
 
 Do đó, mô hình toán học của màng xà phòng là một bề mặt nhẵn có diện tích tối thiểu bao bọc một đường viền cho trước: các nhà toán học gọi nó là bề mặt tối thiểu. Lý thuyết toán học cổ điển của các bề mặt này thuộc về cái gọi là phép tính biến phân, một lĩnh vực phân tích phát sinh vào thế kỷ 18. Ngày nay, các phương tiện cấu trúc liên kết và hình học vi phân hiện đại hơn được sử dụng để phát triển lý thuyết này. Tất nhiên, sử dụng toán học “trường học” không thể trình bày được lý thuyết; nhưng kết quả của nó rất dễ hình dung và thậm chí có thể được xác minh bằng thực nghiệm. Tuy nhiên, hình học tuyệt đẹp bài toán đã nảy sinh ở đây trong quá trình thực hiện, có thể được giải bằng toán tiểu học.
 
-Cơm. 5.
+Hình 5.
 
-Cơm. 6.
+Hình 6.
 
 ⟦folio 21⟧
 
@@ -92,9 +92,9 @@ Bài toán 2. a) Nối ba điểm bằng các đoạn sao cho tổng độ dài 
 
 Điều thú vị là những nỗ lực xây dựng một bộ phim tối thiểu trong đó số lượng tấm lớn hơn ba sẽ hội tụ ở bất kỳ khoảng đơn lẻ nào đều thất bại. Điều này được giải thích bởi sự cản trở hình học đơn giản. Giả sử rằng trên một đoạn nào đó có bốn tấm phim ghép lại với nhau. Xét một bề mặt trực giao với điều này
 
-Cơm. 7.
+Hình 7.
 
-Cơm. 8.
+Hình 8.
 
 ⟦folio 22⟧
 

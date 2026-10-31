@@ -48,11 +48,11 @@ Khối lập phương rút ra sự phát triển của nó
 
 Đặt khối lập phương lên hình vuông có tâm M (Hình 1); và sau đó xoay khối lập phương 90° quanh cạnh AB của nó, trùng với cạnh của hình vuông. Khối lập phương có một mặt mới trên một hình vuông có tâm N. Việc quay (quay) này có thể được xác định bằng mũi tên MN. Chúng ta hãy thực hiện năm lần rẽ liên tiếp được xác định bởi đường đứt nét MNRSPQ. Khi di chuyển, khối lập phương sắp xếp tuần tự thành sáu ô vuông
 
-Cơm. 1.
+Hình 1.
 
 ⟦folio 37⟧
 
-Cơm. 2.
+Hình 2.
 vị trí như trong Hình 2, a. Một viên xúc xắc có thể bỏ qua tất cả các trường của lưới nếu lớp grana có số ba bị cấm trên bất kỳ trường nào của nó không?
 
 Khối lập phương tô màu mặt phẳng

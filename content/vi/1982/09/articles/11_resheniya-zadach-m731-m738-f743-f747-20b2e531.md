@@ -202,9 +202,9 @@ B. Klyachiin
 
 F746. Pin điện sử dụng phóng xạ β là một quả cầu kim loại, bên trong đặt một mảnh chất phóng xạ được phân lập từ nó (Hình 1). Vatoms đang tan vỡ mỗi ngày. Giả sử rằng năng lượng của các electron sinh ra trong quá trình phân rã được phân bố đều từ giá trị tối thiểu $W_{\min}$ đến giá trị tối đa $W_{\max}$, hãy xác định suất điện động của pin. Dòng điện tối đa mà pin như vậy có thể tạo ra là bao nhiêu? Điện trở bên ngoài tối đa bao nhiêu thì pin có thể được coi là máy phát điện?
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
 Để các cực của pin được nối tắt đến tải và điện áp trên các cực của pin là $U$. Hãy tìm dòng điện chạy qua tải, nghĩa là chúng ta sẽ thiết lập đặc tính dòng điện-điện áp của pin.
 

@@ -38,12 +38,12 @@ Chúng ta hãy tạo một “tam giác vuông”: chúng ta chỉ viết một 
 
 Bây giờ chúng ta hãy khoanh tròn các số nguyên tố, giống như trong Hình 3.
 
-Cơm. 1. Hình 2.
+Hình 1. Hình 2.
 
 ⟦folio 22⟧
 
 ⟦figure⟧
-Cơm. 3.
+Hình 3.
 
 ⟦folio 23⟧
 

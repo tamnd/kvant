@@ -55,7 +55,7 @@ Tại lời giải những bài toán này, các đội có hai giờ để gử
 
 3. “Hiệu ứng Doppler”. Nguồn và bộ tạo dao động âm thanh (bộ lặp và micrô) được gắn ở hai đầu của mặt phẳng, được treo trên bo mạch chủ và có thể dao động (một hình có dạng chữ T ngược được tạo thành). Tín hiệu đến loa từ bộ tạo âm thanh được đưa đến các tấm $X$ của máy hiện sóng. Tín hiệu khuếch đại từ micrô được cung cấp cho các tấm $Y$ của máy hiện sóng. Do đó, trên màn hình máy hiện sóng, sử dụng phương pháp hình elip, bạn có thể quan sát độ lệch pha giữa tín hiệu của bộ tạo âm thanh và tín hiệu micrô được khuếch đại. Trước đây, khi con lắc đứng yên, bằng cách thay đổi một chút tần số của máy phát, sẽ thu được hình ảnh của một đường thẳng nghiêng trên màn hình máy hiện sóng. Sau đó, với con lắc dao động tự do, sự biến đổi tuần hoàn của đường thẳng thành hình elip được quan sát trên màn hình dao động ký (nếu con lắc nằm trong mặt phẳng dao động).
 
-Cơm. 4.
+Hình 4.
 
 3. "Cỗ máy thảm họa của Zieman." Giải thích một cách định tính đường cong thảm họa của máy Ziman sẽ thay đổi như thế nào nếu dây thun $L1$ bị rút ngắn (để biết mô tả về máy Ziman, xem nhiệm vụ của cuộc thi tương ứng).
 
@@ -119,9 +119,9 @@ Gợi ý. Tiếp tục trung tuyến $AM$ (Hình 3) đến khoảng cách $|MO'|
 b) $S_n=\frac{n(n+1)(n+4)}{4}$.
 Gợi ý. a) Đặt $a_k=k(k+1)$. Lưu ý rằng $k(k+1)(k+2)-(k-1)k(k+1)=3k(k+1)=3a_k$.
 
-Cơm. 1.
-Cơm. 2.
-Cơm. 3.
+Hình 1.
+Hình 2.
+Hình 3.
 
 ⟦folio 63⟧
 

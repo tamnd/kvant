@@ -28,13 +28,13 @@ Câu đố
 
 1. Trong các vòng tròn của hình này (Hình 1), hãy sắp xếp 13 số liên tiếp sao cho tổng của bốn số nằm ở các đỉnh của hình thoi đều bằng nhau
 
-Cơm. 1.
+Hình 1.
 
 và sẽ bằng 1977. Biết rằng một trong những số này là 496, và nó nằm trong vòng tròn trung tâm.
 
 2. Trong các vòng tròn của hình vẽ ở Hình 2, hãy sắp xếp hai số tự nhiên liên tiếp sao cho tổng của các số lớn nhất và số thứ tư là
 
-Cơm. 2.
+Hình 2.
 
 Các vòng tròn xung quanh vòng tròn nhỏ, cũng như tại các đỉnh của hình vuông trung tâm đã chọn, giống hệt nhau và bằng sáu mươi.
 

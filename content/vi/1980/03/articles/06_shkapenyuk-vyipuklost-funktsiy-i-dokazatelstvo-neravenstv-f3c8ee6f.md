@@ -56,9 +56,9 @@ I. Nếu $f$ lồi lên trên $[a; b]$ thì với mọi điểm (khác nhau)
 
 $$f\left(\frac{1}{2}(x_1 + x_2)\right) > \frac{1}{2}(f(x_1) + f(x_2)).$$
 
-Cơm. 1 một
+Hình 1 một
 
-Cơm. 1 6
+Hình 1 6
 
 ⟦folio 22⟧
 

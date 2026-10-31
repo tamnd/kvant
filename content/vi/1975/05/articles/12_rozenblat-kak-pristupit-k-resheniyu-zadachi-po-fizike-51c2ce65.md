@@ -54,9 +54,9 @@ Phân tích. 1) Hệ quy chiếu được nối với Trái đất, nghĩa là n
 
 Vì vậy, chúng tôi đã thiết lập những luật nào có thể được sử dụng cho lời giải và bài toán. Nhưng điều này không có nghĩa là tất cả các luật này cần phải được áp dụng. Không có định luật bảo toàn nào liên quan đến áp suất của các phần của khối, vì vậy bạn nên cố gắng giải bài toán, sử dụng
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
 sử dụng diamics và động học cơ thể cứng nhắc.
 

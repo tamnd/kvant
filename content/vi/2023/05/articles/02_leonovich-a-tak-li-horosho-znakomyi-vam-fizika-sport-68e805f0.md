@@ -78,22 +78,22 @@ sy góc ngoài tam giác ABC (tức là kề với các góc C và A của nó).
 
 ⟦figure⟧
 
-Cơm. 15
+Hình 15
 
 ⟦figure⟧
 
-Cơm. 14
+Hình 14
 
 chu vi là 12 cung có kích thước $по^{360} q^{12} 30 q$, và do đó tất cả các góc nội tiếp dựa trên các cung đó đều bằng 15q (Hình 14). Do đó, điểm L là giao điểm của các đường chéo AB và CQ của hình mười giác này (Hình 15). Hãy đánh dấu trung điểm O của đoạn BK để sau đó chứng minh BO CL. Giao điểm của đường chéo nào là điểm O? Nó nằm trên đường trung trực của đoạn BC, tức là trên đường chéo RS. Chúng ta hãy xem cặp đường chéo AB và CQ và cấu trúc của cặp đường chéo SR và BP như thế nào. Họ lần lượt rời xa nhau! Có thể lưu ý rằng cả hai cặp đều có đường chéo
 
 ⟦figure⟧
 
-Cơm. 13
+Hình 13
 
 ta cần chứng minh BK 2CL. Hình này giống một tam giác vuông có $углом^{60q}$: trong đó các cạnh tỷ lệ 1: 2. Từ đây ta có thể đoán được cấu trúc sau: ta di chuyển đoạn BK song song sao cho K đi vào C, nói cách khác, ta hoàn thiện tam giác BKC thành hình bình hành BKCE. Cho tam giác LCE có góc LCE $равен^{60q}$ và ta cần chứng minh EC 2LC. Để làm điều này, chúng ta sẽ chứng minh rằng tam giác này là vuông góc, tức là $ELC^{90} q$. Vì CBE BCK 90 q nên đủ chứng tỏ các điểm C, L, B, E cùng nằm trên một đường tròn! Dễ dàng tính được các góc: LBE $LCE^{120} q^{60} q^{180} q$, và do đó thử nghiệm đối với tứ giác nội tiếp CLBE được thỏa mãn. Cũng có thể làm ngược lại - chuyển đoạn CL sang BK chứ không phải BK sang CL. Lời giải 8 (do A. Avdeev đề xuất). Xét đường tròn ngoại tiếp của tam giác và kéo dài các đường phân giác cho đến khi chúng giao nhau với nó. Vì các góc của tam giác và các góc giữa các cạnh và các đường phân giác là bội số của 15q, nên tất cả các điểm này sẽ rơi vào các đỉnh của 12 cạnh đều - chúng chia cho khoảng.
 
 ⟦figure⟧
 
-Cơm. 16
+Hình 16
 
 Các đường được vẽ như trong Hình 16 - chúng nối các đầu của nhóm hai, ba, ba và bốn cạnh. Khi các cặp đường chéo này kết hợp lại thì các đoạn BO và CL tương ứng với nhau nên các đoạn này bằng nhau. Có nhiều lời giải khác, mang tính kỹ thuật hơn - sử dụng định lý Pythagore, định lý lượng giác, thậm chí bạn có thể sử dụng công thức tính độ dài của một đường phân giác... Chúng tôi cũng đưa ra khái quát về điều này bài toán: Nếu trong tam giác ABC có góc bằng $C равен^{60q}$ thì các đường phân giác của góc A và B tỉ lệ nghịch với các cạnh đối diện. Chúng tôi mời bạn xem xét cách phát triển một số lời giải đã cho để chứng minh sự khái quát hóa này. Biến thể của nó đã được cung cấp tại I.F. Sharygin Olympiad năm 2012, tác giả bài toán – B. Frenkin.

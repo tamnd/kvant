@@ -69,7 +69,7 @@ Chúng ta hãy giới thiệu các ký hiệu sau: $CD = a$, $\rightarrow ACD = 
 
 ⟦folio 41⟧
 
-Cơm. 1.
+Hình 1.
 
 AC ngoài điểm C đến đoạn CEₙ = CBₙ. Chúng ta vẽ cung CBₙD cung DFₙ bằng cung CBₙ. Rõ ràng, ⇒CDFₙ = α và DFₙ = CBₙ = CEₙ. Do đó, khi tính đến sự tương ứng ⇒AₙCD = ⇒CDFₙ, chúng ta thu được CDFₙEₙ là hình bình hành và EₙFₙ = CD = α. Hơn nữa, ⇒CAₙFₙ = ⇒CDFₙ, vì chúng nằm trên một cung CFₙ; do đó ⇒EₙAₙFₙ = α.
 
@@ -79,7 +79,7 @@ EₙFₙ = FₙAₙ = α,
 
 Có thể các tam giác E₁F₁A₁ và E₂F₂A₂ bằng nhau theo tiêu chí thứ nhất.
 
-Cơm. 2.
+Hình 2.
 
 Sau đó
 E₁A₁ = E₂A₂,
@@ -127,7 +127,7 @@ a) Hiển nhiên diện tích của hình chữ nhật đó là $28 \cdot 3 \cdo
 
 ⟦folio 43⟧
 
-Cơm. 7.
+Hình 7.
 
 Nó lớn hơn 10 và nhỏ hơn 42 (nếu không thì hệ số thứ hai không lớn hơn 10).
 

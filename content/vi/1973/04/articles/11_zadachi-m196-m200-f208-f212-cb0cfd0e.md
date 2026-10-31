@@ -43,7 +43,7 @@ A. T. Kolomov
 M197. Một bảng hình chữ nhật gồm m hàng và n cột chứa mn số dương tùy ý. Hãy tìm tích các số ở mỗi cột rồi tìm tổng S của tất cả n tích đó. Chứng minh rằng nếu
 
 $$S = 84$$
-Cơm. 1.
+Hình 1.
 
 M199. a) Chứng minh rằng tổng
 $$C_n^0 - C_{n-1}^1 \frac{1}{4} + C_{n-2}^2 \frac{1}{4^2} - \cdots + (-1)^i C_{n-i}^i \frac{1}{4^i} + \cdots$$
@@ -70,11 +70,11 @@ F209*. Bạn có thể mô phỏng quỹ đạo của một hạt tích điện 
 
 M200. a) Hình 3 cho thấy sáu điểm nằm trên bốn đường thẳng. Chứng minh rằng
 
-Cơm. 6.
+Hình 6.
 
 ⟦folio 45⟧
 
-Cơm. 7.
+Hình 7.
 
 quỹ đạo của một proton có năng lượng 1 MeV bay vào từ trường vuông góc với các đường sức từ?
 

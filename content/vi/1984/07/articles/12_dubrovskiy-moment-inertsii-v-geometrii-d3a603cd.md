@@ -59,7 +59,7 @@ $$\overrightarrow{PZ}=\frac{1}{m}(m_1\overrightarrow{PA}_1+...+m_n\overrightarro
 
 (1)
 
-Cơm. 1.
+Hình 1.
 
 3) (định lý nhóm) khi thay một phần vật liệu của các điểm của hệ $m_1A_1, ..., m_nA_n$, ví dụ các điểm $m_1A_1, ..., m_kA_k$, bằng khối tâm $C$, trong đó tổng khối lượng của chúng $m'=m_1+...+m_k$ được đặt, vị trí khối tâm của toàn hệ không thay đổi, tức là khối tâm của hệ $m'C, m_{k+1}A_{k+1}, ..., m_nA_n$ và $m_1A_1, ..., m_nA_n$ trùng nhau.
 
@@ -135,7 +135,7 @@ Công thức (5)–(7) được gọi là công thức Laerang; mọi thứ xa h
 
 *) Dấu này cho phép chúng ta viết ngắn gọn tổng từ nhiều số hạng: cùng với $A_1 + A_2 + A_3 + \dots + A_n$ chúng ta viết $\sum_i A_i$ hoặc đơn giản là $\sum_i A_i$ (khi số số hạng $n$ rõ ràng trong ngữ cảnh). Tương tự, $\sum_i m_i r_i^2$ là viết tắt của $m_1 r_1^2 + m_2 r_2^2 + \dots + m_n r_n^2$, v.v.
 
-Cơm. 2.
+Hình 2.
 
 Toán học - đây là một phép tính được gọi là những thứ giống nhau và giống nhau - khác nhau
 

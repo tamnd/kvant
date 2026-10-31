@@ -91,9 +91,9 @@ $$kH = R,$$
 
 $$k = \frac{R}{H}.$$
 
-Cơm. 9.
+Hình 9.
 
-Cơm. 10.
+Hình 10.
 
 ⟦folio 20⟧
 

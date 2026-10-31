@@ -35,7 +35,7 @@ Học sinh lớp 10 Oleg Morozov từ Chelyabinsk đã gửi cho chúng tôi cá
 
 Bề mặt $x^2y^2 + x^2z^2 + y^2z^2 + xyz = -0,001$ bao gồm bốn phần khép kín không giao nhau, cũng không giao nhau với bất kỳ mặt phẳng tọa độ nào. Các “nadins” trên đó dường như giao nhau và biến mất tại các điểm giao nhau.
 
-Cơm. 3.
+Hình 3.
 
 Các biên tập viên đã liên hệ với tác giả của ghi chú, Yu. Kotov, yêu cầu anh bình luận về bức thư này. Đến lượt mình, Yury Vladimirovich quay sang đồng nghiệp của mình, máy tính EC-1022, với yêu cầu vẽ các bề mặt cần thiết. Kết quả là máy tính đưa ra hai bản vẽ (Hình 3 và 4), và tác giả của ghi chú đã trả lời độc giả của chúng tôi như thế này:
 
@@ -43,6 +43,6 @@ Oleg thân mến, về cơ bản bạn đã tưởng tượng chính xác các b
 
 Nhưng chúng ta cần làm rõ một số phần: bốn phần mà bề mặt nằm ở $T < 0$ là những phần chính, chúng không có các cạnh như trong hình của bạn. Không có cạnh nào ngăn cách “nadins” với phần còn lại của bề mặt trong $T > 0$. Mặt cắt ngang của “sự phát triển” tiếp cận khi đủ xa gốc tọa độ.
 
-Cơm. 4.
+Hình 4.
 
 Yu. kotov

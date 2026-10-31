@@ -36,13 +36,13 @@ Bây giờ chúng tôi mời bạn giải bốn bài toán - một về giải �
 
 1. $n$ Các kỳ thủ đang tham gia cúp thành phố. Cúp của các quận sẽ được đọc trước (trong thành phố có $p$ quận có số người chơi cờ là $n_1, n_2, \dots, n_p$), và những người chiến thắng sẽ tranh cúp chính của thành phố. Cả hai giai đoạn hoàn thành đều được thực hiện theo hệ thống sau: những kỳ thủ chưa có trình độ cao được chia thành từng cặp bằng cách bốc thăm và đối thủ chơi một cặp.
 
-Cơm. 1. Trận đấu giữa các đối thủ nam.
+Hình 1. Trận đấu giữa các đối thủ nam.
 
-Cơm. 2. Trận đấu của các tay vợt nữ.
+Hình 2. Trận đấu của các tay vợt nữ.
 
-Cơm. 3. I. Maizelis. Đồ lót bắt đầu và chiến thắng.
+Hình 3. I. Maizelis. Đồ lót bắt đầu và chiến thắng.
 
-Cơm. 4. B. Gurgenidze, V. Korolkov. Đồ lót bắt đầu và chiến thắng.
+Hình 4. B. Gurgenidze, V. Korolkov. Đồ lót bắt đầu và chiến thắng.
 
 ⟦folio 62⟧
 
@@ -77,7 +77,7 @@ $$S(a) = \int_1^2 \left( \sqrt{\frac{2y}{a}} - \sqrt{\frac{y}{a}} \right) dy = \
 
 5. $]^{1/3}; 2 + \sqrt{15}[$.
 
-Cơm. 1.
+Hình 1.
 
 Khoa Tâm lý học
 
@@ -246,7 +246,7 @@ Làm khó độc giả của chúng tôi
 1. $b_n = 2 \cdot \frac{10^{6n-3}-1}{9}$, $n = 1, 2, 3, \dots$.
 3. Chúng ta có: $S = 2xy$ (về các ký hiệu, xem Hình 1). Hãy cùng tìm sản phẩm $xy$. Hãy xây dựng một hình. 4.
 
-Cơm. 4.
+Hình 4.
 
 $[O_1E] \perp [AB]$, trong đó $|AE| = |EB|$ (Hình 1). Sau đó theo điều kiện $|O_1B| = R$, $|O_2A| = r(O_2 = [AO] \cap [O_1E])$. Do đó, tam giác $AO_2E, O_1BE$ và BOC tương tự nhau
 

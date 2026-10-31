@@ -39,7 +39,7 @@ Khám phá của Lobachevsky đã khiến người ta có thể gọi ông là �
 Lịch sử của vấn đề được lobachevsky giải quyết kéo dài hai thiên niên kỷ. Vào thế kỷ thứ ba trước Công nguyên, bản thảo Cơ sở của Euclid xuất hiện ở Alexandria, trong đó hình học được trình bày dưới một dạng hệ thống chặt chẽ, không khác nhiều so với dạng được chấp nhận trong sách giáo khoa hình học cho đến tận thời gian gần đây. Cách xây dựng của Euclid dựa trên một số phát biểu ban đầu (*tiên đề*) chưa được chứng minh. Tất cả các phát biểu khác (*định lý*) đều được suy ra một cách logic từ các tiên đề. Trong số tất cả các tiên đề của Euclid, “*tiên đề song song*” nổi bật: *Hai đường thẳng $a$ và $b$, cắt nhau bởi một đường thẳng thứ ba, cắt nhau ở phía mà tổng các góc một bên $\alpha$ và $\beta$ nhỏ hơn tổng hai góc vuông* (Hình 1).
 
 ⟦figure⟧
-Cơm. 1
+Hình 1
 
 Vị trí này đã thu hút sự chú ý của những người kế nhiệm và các nhà bình luận của Euclid vì nhiều lý do. Thứ nhất, nó phức tạp hơn tất cả các tiên đề khác - ví dụ như “Một đường thẳng đi qua hai điểm” hoặc “Tất cả các góc vuông đều bằng nhau”. Thứ hai, khẳng định ngược lại “*Tổng hai góc của một tam giác nhỏ hơn hai đường thẳng*” đã được chứng minh dễ dàng. Và do đó đã nảy sinh ý kiến ​​cho rằng “tiên đề song song” Euclide là có thể chứng minh được, nhưng bằng chứng này vẫn cần phải được tìm ra.
 
@@ -58,7 +58,7 @@ Vì vậy, các tiên đề, giống như mọi kết quả của tri thức, đ
 Chúng ta hãy quay lại Hình 1, giả sử để đơn giản rằng góc $\alpha$ là thẳng (Hình 2). Qua điểm $B$ ta vẽ được nhiều tia khác nhau trong nửa mặt phẳng bên phải cắt đường thẳng $a$. Khi chúng ta quay ngược chiều kim đồng hồ, cuối cùng chúng ta sẽ gặp tia đầu tiên không giao nhau; nó được gọi là *song song* với dòng $a$; Góc mà tia này tạo với tia $BA$ được gọi là *góc song song*. Đường thẳng $b$ chứa tia như vậy còn được gọi là *song song* $a$.
 
 ⟦figure⟧
-Cơm. 2
+Hình 2
 
 Tất cả những điều trên đều đúng bất kể tiên đề Euclid, trong đó phát biểu rằng góc song song là một đường thẳng, sao cho tại $\beta\lt d$ tia $b$ cắt đường thẳng $a$. Nếu không chấp nhận tiên đề này, thì chúng ta sẽ phải giới hạn mình trong một phát biểu tổng quát hơn và ít xác định hơn rằng *góc song song $\Pi$ không vượt quá $d$*. Lobachevsky đưa ra lý luận sâu hơn của mình dựa trên giả định này.
 
@@ -67,7 +67,7 @@ Nếu $\Pi=d$, thì tiên đề Euclid được tuân theo và tất cả các m
 Nhiều định lý về hình học “tưởng tượng” mà Lobachevsky đưa ra, rõ ràng mâu thuẫn với những ý tưởng thông thường của chúng ta, và cần có sức mạnh tư duy lớn lao để không chấp nhận những mâu thuẫn này là logic. Lobachevsky sở hữu sức mạnh này và đã phát triển hình học của mình một cách hoàn hảo, hoàn thiện nó bằng cách xây dựng một loại lượng giác (ngày nay thường được gọi là *hyperbolic*).
 
 ⟦figure⟧
-Cơm. 3
+Hình 3
 
 Một phần quan trọng trong hình học của Lobachevsky là học thuyết về tổng các góc của một tam giác. Xét tam giác $ABC$ (Hình 3), chúng ta sẽ xoay đường thẳng $BC$ ($b$) ngược chiều kim đồng hồ quanh điểm $B$. Nếu chúng ta không chấp nhận các tiên đề của Euclid, thì chúng ta phải giả sử rằng đường thẳng $b$ sẽ “tách ra” khỏi đường thẳng $a$ và trở nên song song với nó ngay cả trước khi tổng các góc $\alpha+\beta$ bằng $2d$. Mặt khác, dễ dàng chứng minh rằng khi đường thẳng $b$ quay thì giá trị của góc $\gamma$ tại điểm $C$ có xu hướng bằng không. Suy ra rằng tại một số vị trí của đường thẳng $b$ tổng các góc $\alpha+\beta+\gamma$ sẽ nhỏ hơn $2d$. Cũng có thể chứng minh rằng bất đẳng thức $\alpha+\beta+\gamma\lt2d$ đúng với mọi tam giác, do đó *trong hình học Lobachevsky, tổng các góc trong của một tam giác nhỏ hơn hai đường thẳng*.
 
@@ -102,7 +102,7 @@ Tại sao chính xác là quan sát thiên văn? Có, bởi vì thiên văn họ
 Hãy xem xét một trong số họ. Đặt $B$ là điểm mà Trái đất tọa lạc và $B'$ là một điểm khác mà nó đến sau sáu tháng, sao cho $|BB'|=2|AB|$ là đường kính quỹ đạo trái đất, $A$ là tâm quỹ đạo và $|AB|$ là bán kính (Hình 4). Giả sử rằng có một ngôi sao cố định tại điểm $C$ và để đơn giản, chúng ta hãy giả sử rằng đường thẳng $CA$ vuông góc với mặt phẳng quỹ đạo của trái đất (đường hoàng đạo). Nếu $(BM)$ cũng vuông góc với mặt phẳng này thì góc $\eps=\widehat{CBM}$ được gọi là *thị sai hàng năm* của ngôi sao $C$ - nói cách khác, một nửa góc $2\eps$ được gọi là thị sai, theo đó tia nhìn di chuyển từ người quan sát trên trái đất đến một ngôi sao cố định bị lệch trong sáu tháng. (Trong sách giáo khoa thiên văn học, thị sai là góc mà từ một ngôi sao có thể nhìn thấy bán kính quỹ đạo của trái đất; nhưng chỉ có thể quan sát được góc $\eps$ và định nghĩa như vậy giả định trước rằng không gian là Euclide.)
 
 ⟦figure⟧
-Cơm. 4
+Hình 4
 
 Chúng ta hãy dựng một tia $BN$ song song với tia $AC$ và gọi *khiếm khuyết song song* là góc $\delta=d-\Pi$, góc này bù cho góc song song $\Pi$ thành một góc vuông. Khuyết tật song song biến mất nếu không gian là Euclide và trong mọi trường hợp đều thỏa mãn bất đẳng thức
 $$

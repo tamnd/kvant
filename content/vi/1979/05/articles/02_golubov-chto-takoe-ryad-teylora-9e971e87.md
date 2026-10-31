@@ -59,7 +59,7 @@ $$\lim_{n \to \infty} \frac{x^n}{n!} = 0,$$
 
 trong đó $x$ là số thực bất kỳ. Hãy chứng minh điều đó. Cho $x$, chúng ta hãy tìm một số tự nhiên $N$ sao cho $\frac{|x|}{N+1} \leq y=f(x)$
 
-Cơm. 5. $S = \int_a^b f(x) \, dx$.
+Hình 5. $S = \int_a^b f(x) \, dx$.
 
 $\leq \frac{1}{2}$. Khi đó với mọi $n > N$ các bất đẳng thức sẽ được thỏa mãn
 
@@ -135,7 +135,7 @@ Vì $e > 1$, thì $1 \leq e^t \leq e^a$ cho tất cả $t \in [0; a]$. Giải th
 
 $$x + \frac{x^2}{2!} \leq e^x - 1 \leq x + e^a \frac{x^2}{2!},$$
 
-Cơm. 6.
+Hình 6.
 
 ⟦folio 6⟧
 

@@ -32,7 +32,7 @@ Bài toán 1. Một khối lập phương có cạnh a được quay 90° quanh 
 
 Hãy đánh dấu đường dẫn lời giải. Đặt $M$ và $N$ là trung điểm của hai cạnh song song không thuộc cùng một mặt.
 
-Cơm. 1.
+Hình 1.
 
 Khối Ber (Hình 1). Chúng ta hãy cắt hình lập phương có mặt phẳng chéo vuông góc với đoạn $MN$. Chúng ta sẽ nhận được hai lời thú tội. Sau khi xoay, phần chung của mỗi lăng kính và hình ảnh của nó sẽ bao gồm một hình bình hành hình chữ nhật, đáy của nó là hình vuông có cạnh $a$ và một tham số tứ giác đều có cùng đáy và đỉnh tại điểm $M$ hoặc $N$ (Hình 2), do đó thể tích cần thiết $V$ của phần chung của các hình khối bằng hai lần tổng của các hình bình hành chung và lăng kính. Tìm độ dài chiều cao $AA_1$ của hình bình hành
 
@@ -52,7 +52,7 @@ Giả sử $ABCDA_1B_1C_1D_1$ là một khối đã cho và lấy khối thứ h
 
 ⟦folio 46⟧
 
-Cơm. 3.
+Hình 3.
 
 được đặt $BD_1$ và xoay quanh trục $BD_1$ 60° (Hình 3). Bạn có thể xoay nó trước và sau đó di chuyển nó. Sau khi quay, điểm $B_1$ xuất hiện trong mặt phẳng $BA_1D_1$ (bạn hãy tự chứng minh điều này) nên dễ dàng nhận thấy sau khi dịch đoạn $OB_1$ (ảnh của đoạn $BB_1$) sẽ cắt đoạn $A_1D_1$ tại điểm $L$ sao cho $|LD_1| = 3a/4$. Tổng phần của các hình lập phương sẽ được tạo thành từ hai cặp hình tam giác $D_1KLM$ và $OKLM$, các cạnh bên của mỗi cặp tạo thành các góc vuông theo cặp và độ dài của các cạnh này bằng $3a/4$. Từ đây chúng ta nhận được đáp số:
 

@@ -52,7 +52,7 @@ Sự quay của bình làm cho sợi dây treo trên đó bị xoắn. Trong tr�
 
 ⟦folio 20⟧
 
-Cơm. 1. Bình thí nghiệm. 1 - bình hình trụ; 2 - phễu; 3 - cao su mềm trên đế cứng; 4 - sợi chỉ; 5 - dây đôi cho cầu lông.
+Hình 1. Bình thí nghiệm. 1 - bình hình trụ; 2 - phễu; 3 - cao su mềm trên đế cứng; 4 - sợi chỉ; 5 - dây đôi cho cầu lông.
 
 điều này cuối cùng dẫn đến sự quay của bình với nước giảm dần theo thời gian, khi đó đến một lúc nào đó, tác dụng của mômen lực Corolis được bù đắp bằng tác dụng của mô men lực biến dạng, và sau đó lực biến dạng chiếm ưu thế hơn lực Corolis. Kết quả là tốc độ quay của tàu giảm nhưng tàu vẫn quay theo hướng quay của Trái đất.
 

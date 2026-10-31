@@ -80,9 +80,9 @@ D. B. Fuchs
 
 đoạn mi và đoạn màu xanh lam 2k - đến đoạn màu xanh lam (không có ba đoạn nào giao nhau tại một điểm). Chứng minh rằng có ít nhất k giao điểm của đoạn màu đỏ và đoạn màu xanh.
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
 F808. Một chiếc thuyền máy đặt tại điểm A cách bờ hồ một khoảng R, bắt đầu chuyển hướng, chuyển động với vận tốc v=18 km/h dọc theo một đường tròn bán kính r=R/2; Tại thời điểm ban đầu, vận tốc của thuyền hướng vào bờ. Sóng từ thuyền vào bờ tại thời điểm t=3 phút sau khi bắt đầu rẽ. Vận tốc truyền sóng từ thuyền dọc theo mặt nước là u=9km/h. Tìm khoảng cách R
 
@@ -196,9 +196,9 @@ F811. Trong mạch tổng quát của bộ chỉnh lưu nửa sóng (Hình 1) $C
 1) độ lớn của hệ số gợn sóng điện áp $k = \frac{\Delta U}{U}$ trên điện trở $R$;
 2) Hệ số $k$ sẽ giảm bao nhiêu lần nếu một cuộn cảm $L = 100$ Hz mắc nối tiếp với điện trở?
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
 1) Với thông số đã chọn $C$ và $R$, điện tích của tụ thay đổi không đáng kể nên dòng phóng điện của tụ có thể coi là không đổi. Sau đó
 

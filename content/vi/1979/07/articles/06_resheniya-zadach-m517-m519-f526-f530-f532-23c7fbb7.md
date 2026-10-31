@@ -64,15 +64,15 @@ $$S = (S_{OB_1A_2} + S_{OA_2B_2}) + \dots + (S_{OB_n-1A_n} - S_{OA_nB_n}) + (S_{
 
 V. Dubrovsky
 
-**Cơm. 3.**
+**Hình 3.**
 
 **M518. Các số $x_1, x_2, \dots, x_n$ thuộc đoạn $[a; b]$ và $0 < a < b$. Bằng chứng về sự bất đẳng thức**
 
 $$\left( x_1 + x_2 + \dots + x_n \right) \times \left( \frac{1}{x_1} + \frac{1}{x_2} + \dots + \frac{1}{x_n} \right) \leq \frac{(a+b)^2}{4ab} n^2.$$
 
-**Cơm. 4.**
+**Hình 4.**
 
-**Cơm. 5.**
+**Hình 5.**
 
 Trước tiên chúng ta hãy phác thảo ý tưởng hình học của một trong những bằng chứng ngắn nhất.
 
@@ -159,7 +159,7 @@ A. Stasenko
 
 F530. Trong sơ đồ hiển thị ở Hình 10, $\%_0 > \%_1$. Xác định điện tích mà pin sẽ đọc và điện trở của viên sỏi bằng không. Diode là lý tưởng (điện trở thuận của nó bằng 0, điện trở ngược của nó là vô cùng); Tụ điện không được tích điện trước khi đóng công tắc.
 
-Cơm. 10.
+Hình 10.
 
 Chúng ta sẽ giả sử rằng diode bắt đầu dẫn dòng điện khi điện thế ở cực dương lớn hơn điện thế ở cực âm. Trong trường hợp này, điện trở của diode sẽ bằng 0 và điện áp rơi trên nó cũng sẽ bằng 0.
 
@@ -211,9 +211,9 @@ V. Skorovarov
 
 F531. Mạch nước phun có thể được coi là các hồ chứa ngầm lớn chứa đầy nước ngầm và được làm nóng bởi bề mặt trái đất (Hình 12). Lối ra từ chúng đến bề mặt trái đất là qua một con kênh hẹp, trong thời kỳ “yên tĩnh” gần như chứa đầy nước. Xem xét rằng thời kỳ “hoạt động” bắt đầu khi chúng ta đổ đầy nước vào hồ chứa dưới lòng đất và trong quá trình phun trào, kênh chứa đầy hơi nước màu trắng đục thoát ra ngoài, chúng ta có thể ước tính phần nước mà hồ chứa nóng lên trong một vụ phun trào một vùng. Độ sâu kênh $h = 90$ m; nhiệt độ nước $\lambda = 2,26 \cdot 10^6$ J/kg; nhiệt độ nước $c = 4,2 \cdot 10^3$ J/(kg K). Sự phụ thuộc của áp suất nước bão hòa vào nhiệt độ được thể hiện trên Hình 13.
 
-Cơm. 12.
+Hình 12.
 
-Cơm. 13.
+Hình 13.
 
 ⟦folio 31⟧
 
@@ -227,9 +227,9 @@ S. Kozel
 
 F532. Chất làm mềm là một thanh nhẹ có chiều dài l có tải trọng khối lượng M ở cuối. Gắn vào đầu kia của thanh là một ống lót hình trụ nhẹ a có bán kính trong r đặt trên trục thẳng đứng b (Hình 14). Hệ số ma sát giữa ống lót và trục xe là μ. Xác định góc lệch của thanh so với phương thẳng đứng ở vị trí cân bằng.
 
-Cơm. 14.
+Hình 14.
 
-Cơm. 15.
+Hình 15.
 
 Rõ ràng, khi trục b quay ngược chiều kim đồng hồ, tải trọng M dịch chuyển sang bên phải đường thẳng O'O đi qua tâm trục. Trong trường hợp này, điểm A (Hình 15), tại đó ống bọc từ tiếp xúc với trục, được dịch chuyển từ điểm trên cùng của trục theo hướng ngược lại với hướng quay của trục. Hãy thể hiện nó.
 

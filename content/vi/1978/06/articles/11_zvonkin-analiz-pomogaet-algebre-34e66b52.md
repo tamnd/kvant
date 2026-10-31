@@ -42,13 +42,13 @@ Sử dụng một biểu đồ tùy ý, chúng ta vẽ đồ thị của hàm $y
 
 *) Việc đường thẳng thực sự cắt đồ thị như trên hình vẽ được rút ra từ đoạn 84 SGK “Đại số và sự khởi đầu của phép phân tích 10”. Thật vậy, hàm $x \rightarrow x^3 - 3x$ liên tục và đơn điệu trên mỗi khoảng $] -\infty, -1]$, $[-1, 1]$, $[1, +\infty]$; do đó, tập hợp các giá trị của nó trên mỗi khoảng này là một khoảng; do đó, ví dụ, với bất kỳ $a \in [-2; 2]$ nào cũng có một $x_0 \in [-1; 1]$ sao cho $f(x_0) = a$, và do tính đơn điệu của hàm $f$ trên khoảng $[-1; 1]$, nên $x_0$ đó là duy nhất. Trong các ví dụ sau, người đọc có thể dễ dàng tự mình xác minh lý do này.
 
-Cơm. 1.
+Hình 1.
 
 ⟦folio 54⟧
 
-Cơm. 2.
+Hình 2.
 
-Cơm. 3.
+Hình 3.
 
 không ít hơn cùng với $a^x$ chúng ta thay thế $x$, chúng ta nhận được $x = \frac{1}{\ln a}$. Chúng ta thay giá trị kết quả $x$ vào phương trình đầu tiên:
 $$a^{\frac{1}{\ln a}} = \frac{1}{\ln a};$$

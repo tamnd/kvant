@@ -37,11 +37,11 @@ Có phải luôn luôn có thể tìm được một tứ giác lồi có các �
 *) Nhớ lại rằng một đa giác được gọi là lồi nếu cùng với hai điểm, nó chứa một đoạn nối chúng.
 **) Bao lồi của một tập hợp các điểm trên mặt phẳng là đa giác lồi tối thiểu chứa chúng. Vì giao điểm của hai đa giác lồi là đa giác lồi nên định nghĩa này đúng.
 
-Cơm. 1.
+Hình 1.
 
 ⟦folio 27⟧
 
-Cơm. 2.
+Hình 2.
 quỹ tích của tập hợp $N \setminus K$ - tập hợp thu được bằng cách loại bỏ khỏi $N$ tập con $K$ của nó và qua $M$ - tập hợp $(N \setminus K) \setminus L$.
 
 Chúng ta hãy xem xét các khả năng sau: 1) tập $M$ trống; 2) tập $M$ bao gồm một điểm duy nhất; 3) tập $M$ chứa ít nhất hai điểm.
@@ -50,7 +50,7 @@ Chúng ta hãy xem xét các khả năng sau: 1) tập $M$ trống; 2) tập $M$
 
 2) Tập $M$ chứa một điểm duy nhất; hãy biểu thị nó bằng $P$. Nếu $L$ là một tứ giác thì bằng cách vẽ một trong các đường chéo của nó, chúng ta chia nó thành hai hình tam giác; điểm $P$ nằm bên trong một trong số chúng (Hình 3). Chúng ta hãy biểu thị các đỉnh của tam giác này bằng các chữ cái $A, B, C$. Nếu $L$ là một hình tam giác thì chúng ta biểu thị
 
-Cơm. 3.
+Hình 3.
 
 các đỉnh của nó đi qua $A, B, C$; điểm $P$ nằm bên trong tam giác này.
 
@@ -68,11 +68,11 @@ thể hiện hai cạnh đối diện của tứ giác $L$.
 
 Ví dụ: để tia $EF$ giao nhau với cạnh $AB$ và tia $FE$ giao nhau với cạnh $CD$ (Hình 6). Hãy vẽ các tia $FA$, $FB$, $EC$ và $ED$. Cùng với đoạn $EF$ họ chia mặt phẳng thành 4 phần. Nếu bên trong góc $AFB$ (là một trong bốn phần này) có hai đỉnh của đa giác $K$, và do đó cũng có cạnh kia $TR$ của đa giác $K$, thì các điểm $A$, $F$, $B$, $T$, $R$ là các đỉnh của một hình ngũ giác lồi (Hình 7). Do đó, bên trong góc $AFB$ có nhiều nhất một đỉnh của đa giác $K$. Tương tự, bên trong góc $CED$ có nhiều nhất một đỉnh của đa giác $K$. Đối với hai phần còn lại, các đỉnh của đa giác $K$ không thể nằm trong đó (nếu không, cùng với các điểm $A$, $F$, $E$, $D$ hoặc $B$, $F$, $E$, $C$, chúng sẽ được hình thành bởi một hình ngũ giác lồi, Hình 6).
 
-Cơm. 5.
+Hình 5.
 
-Cơm. 6.
+Hình 6.
 
-Cơm. 7.
+Hình 7.
 
 hóa ra $K$ có không quá hai đỉnh (mỗi đỉnh nằm trong các góc $AFB$, $CED$), điều này là không thể, vì $K$ là một hình tam giác hoặc một hình tứ giác.
 

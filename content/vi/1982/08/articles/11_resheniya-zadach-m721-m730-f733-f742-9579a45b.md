@@ -123,7 +123,7 @@ M726. Một điểm bên trong không gian 2n thông thường được nối v�
 
 Vì trong một đa giác đều, độ dài tất cả các cạnh bằng nhau nên đủ để chứng minh rằng tổng chiều dài các chiều cao của các tam giác màu đỏ bằng tổng chiều dài các chiều cao của các tam giác đầu (xem Hình 1). Chia các tam giác thành các cặp cạnh đối diện, ta thu được ngay mệnh đề bài toán.
 
-Cơm. 1. Hình 2
+Hình 1. Hình 2
 
 Nếu n là số lẻ, tiếp tục các cạnh “đỏ” của tay áo 2n, chúng ta thu được tay áo n đúng (Hình 2). Đế chữ N đầu được làm theo cách tương tự bị tắc nghẽn đến màu đỏ. Diện tích của đầu n-tay áo bằng tổng chiều dài của chiều cao của các hình tam giác đầu nhân với một nửa chiều dài cạnh của nó. Điều tương tự cũng đúng với n-người lính đỏ. Điều này ngụ ý sự bằng nhau của tổng chiều dài chiều cao của đầu và các hình tam giác màu đỏ, đồng thời, câu lệnh bài toán.
 
@@ -200,9 +200,9 @@ V. Shevelev
 
 F733. Một quả tạ có chiều dài $l$ nằm trên “nửa khung” có bán kính đáy $R$ (Hình 1). Tìm chu kỳ dao động nhỏ của quả tạ.
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
 Xoay quả tạ một góc nhỏ $\alpha$ so với vị trí cân bằng (Hình 2); điểm $B$ là điểm tiếp xúc của thanh với lõi nhận; $A\hat{O}B = \alpha$ (bề mặt nhám, tạ không bị trượt). Những khoảnh khắc lực xuất hiện có xu hướng đưa quả tạ về vị trí cân bằng. Vì góc $\alpha$ nhỏ nên chúng ta có thể giả sử rằng các quả tạ sẽ chuyển động dọc theo các cung tròn có bán kính
 $$r_1 \approx \frac{l}{2} - |AB| = \frac{l}{2} - R\alpha, \quad r_2 = \frac{l}{2} + R\alpha.$$
@@ -227,7 +227,7 @@ Xét chuyển động tại thời điểm sợi dây
 
 (k là số nguyên). Một zruz được gắn vào đầu tự do của vervika. Tải trọng có tốc độ v hướng dọc theo bán kính của hình trụ (Hình 1). Sẽ mất bao lâu để tất cả các sợi dây được quấn quanh hình trụ một lần nữa? Xi lanh được cố định trên bề mặt chính.
 
-Cơm. 1.
+Hình 1.
 
 hoàn toàn được tháo ra khỏi xi lanh và tải ở điểm C (Hình 2). Trong khoảng thời gian ngắn Δt, tải sẽ di chuyển đến điểm C'. Vì Δt nhỏ nên góc α tại đó toàn bộ sợi dây sẽ quay nhỏ và
 
@@ -235,7 +235,7 @@ $$\alpha = \frac{v \cdot \Delta t}{l} = \frac{\Delta l}{r} \Rightarrow rv \cdot 
 
 Từ đẳng thức cuối cùng, chúng ta tìm được thời gian mà toàn bộ sợi dây có chiều dài l được quấn quanh hình trụ:
 
-Cơm. 2.
+Hình 2.
 
 $$t = \frac{l^2}{2rv}.$$ Trong cùng một khoảng thời gian, sợi dây được tháo ra khỏi hình trụ và tải trọng chuyển đến điểm B (xem Hình 2). Thời gian để tải di chuyển từ điểm B đến điểm C là τ = πl/v.
 
@@ -429,9 +429,9 @@ Sóng cầu lan truyền từ một nguồn sáng chính xác $S$, tức là m�
 
 Khi một bình chứa đầy chiết suất (chiều cao) thay đổi, hướng của mặt sóng trong không gian sau khi truyền qua bình sẽ thay đổi. Để tìm mặt trước trong trường hợp này, chúng tôi sử dụng
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
 ⟦folio 48⟧
 

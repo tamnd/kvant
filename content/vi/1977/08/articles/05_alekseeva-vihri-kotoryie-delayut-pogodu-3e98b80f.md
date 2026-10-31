@@ -57,9 +57,9 @@ Lưu ý rằng gần xích đạo trong dải vĩ độ 5° ở cả hai phía, 
 
 Trong hệ thống đầu ra của lốc xoáy, mọi thứ lại diễn ra ngược lại: áp suất tăng lên, đạt mức tối đa ở trung tâm của đầu ra. Các luồng khí đi xuống hiện diện trong xoáy thuận đang phát triển. Ồ-
 
-Cơm. 1. Các mũi tên chỉ hướng gió trong lốc xoáy.
+Hình 1. Các mũi tên chỉ hướng gió trong lốc xoáy.
 
-Cơm. 2.
+Hình 2.
 
 Khi ăn mòn, khí nóng lên và chuyển ra khỏi trạng thái bão hòa hơi nước. Vì vậy, xoáy thuận có đặc điểm là thời tiết trong xanh, có mây một phần. Antticlones quay theo chiều kim đồng hồ ở Bắc bán cầu và ngược chiều kim đồng hồ ở Nam bán cầu. Hướng quay của xoáy thuận cũng được xác định bởi tác dụng xoắn của lực Corilis.
 
@@ -83,13 +83,13 @@ Tại tâm lốc xoáy, áp suất giảm rất thấp nên lốc xoáy
 
 ⟦folio 18⟧
 
-Cơm. 5.
+Hình 5.
 
-Cơm. 6.
+Hình 6.
 
 “hút” nhiều vật thể khác nhau, đôi khi rất nặng vào mình, sau đó chúng vận chuyển chúng đi một quãng đường dài. Những người ở trung tâm của cái chết đã chết. Vì vậy, không có quan sát nào về khoang của nó từ bên trong. Nhưng cô ấy được nhìn thấy màu xám xịt khi cơn lốc xoáy lướt qua đầu người quan sát. Hình 5 là ảnh chụp bên trong khoang Mertz, chụp từ trên xuống.
 
-Cơm. 7.
+Hình 7.
 
 Theo lời kể của các nhà siêu nhiên, khoang của cơn lốc xoáy giống như bên trong của một hình trụ rỗng màu đen, được chiếu sáng từ bên trong bởi ánh sáng chói lòa giữa các bức tường. Trong một số trường hợp, tia sét quan sát được không được nhìn thấy.
 

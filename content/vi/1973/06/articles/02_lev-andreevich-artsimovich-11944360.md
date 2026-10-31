@@ -69,7 +69,7 @@ Do các định lý Golden không được chứng minh trong khóa học ở tr
 
 *) Xem bài viết của V. G. Boltyansky trên trang. 9.
 
-Cơm. 1.
+Hình 1.
 
 Không. Nhưng có thể dự đoán lời giải cơ bản sẽ đạt được đáp số nhanh hơn bằng cách sử dụng định lý Golden mà không cần che giấu sự quen thuộc của bạn với định lý này và không có gì đáng trách trong việc này. Kiến thức về đáp số đòi hỏi phải tính toán lâu dài và rườm rà, và quan trọng nhất là bao gồm sự tự tin trong công việc.
 
@@ -135,7 +135,7 @@ Mặt khác, từ Hình 4, không khó để thấy lời giải bài toán than
 
 *) N. A. Rybkin, Bộ sưu tập bài toán về lượng giác, M., Uchredgiz, 1956, § 23, bài toán 7.
 
-Cơm. 4.
+Hình 4.
 
 $BC'$ bằng bề mặt quay của đoạn $BC$ (các bề mặt này đối xứng với mặt phẳng vuông góc với trục quay và đi qua điểm $B$). Bề mặt quay của các đoạn $DC$ và $D'C'$ cũng bằng nhau (chúng được kết hợp bằng phép dịch song song). Vẫn còn phải tìm bề mặt bên của hình nón với hệ tọa độ AM:
 
@@ -147,7 +147,7 @@ Bài toán 4. Hình chữ nhật quay quanh một trục đi qua đỉnh của n
 
 ⟦folio 8⟧
 
-Cơm. 5.
+Hình 5.
 
 Ở đây diện tích của hình chữ nhật là $\frac{d^2}{2}\sin\varphi$, chu vi của nó bằng
 
@@ -173,7 +173,7 @@ Bài 6. Hình vuông ABCD cạnh a được sửa quanh một trục đi ra ngo�
 
 ⟦folio 10⟧
 
-Cơm. 2. Hình 3.
+Hình 2. Hình 3.
 
 Ở đâu
 $$r^* = \frac{(n-1)r + r_n}{n} = \frac{r_1 + r_2 + \dots + r_{n-1} + r_n}{n}.$$

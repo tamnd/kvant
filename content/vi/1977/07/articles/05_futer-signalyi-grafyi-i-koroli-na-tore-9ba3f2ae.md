@@ -122,7 +122,7 @@ Chứng minh rằng mọi n. N. Đồ thị $M$ $P_2^2$ có thể được rút 
 
 Ghi chú. Sự đối xứng theo đường chéo (0; 0) $(n-1; n-1)$ của hình vuông có thể được viết bằng công thức $(x; y) \rightarrow (y; x)$. CDviz tuần hoàn có thể được viết như sau: $(x, y) \rightarrow (x+s; y+t)$, nhưng sẽ có một điểm thiếu chính xác trong công thức này. Tôi muốn đặt các số $n$ và $0$, $h+1$ và $1$, v.v. sang một bên. Để làm điều này, các biểu tượng $\equiv$ và $(mod n)$ được sử dụng. Họ nói rằng $a$ có thể so sánh với $b$ modulo $n$ và viết $a \equiv b$ $(mod n)$ nếu $a$ và $b$ khi chia cho $n$ cho số dư bằng nhau. Chúng ta hãy biểu thị bằng $a$ $(mod n)$ phần dư của phép chia $a$ cho $n$. Sau đó, chúng ta có thể nói rằng phần tử $(x; y)$ đi vào phần tử $((x+s) (mod n); (y+t) (mod n))$ dưới sự biến đổi tuần hoàn của đồ thị và khi được đặt đối với đường thẳng $x=a$ - vào phần tử $(2a-x) (mod n); y)$.
 
-Cơm. 6.
+Hình 6.
 
 Tất cả những gì được biết
 
@@ -140,7 +140,7 @@ Bàn cờ toric có kích thước $n \times n$ còn được gọi là dịch b
 
 ⟦folio 19⟧
 
-Cơm. 7.
+Hình 7.
 
 Các bus biểu đồ $P^k_n$ có thể được vẽ bằng một tập hợp các số nguyên $k$: $(x_1; x_2; \dots; x_k)$, trong đó mỗi số $x_i$ nằm trong khoảng từ 0 đến $n-1$.
 

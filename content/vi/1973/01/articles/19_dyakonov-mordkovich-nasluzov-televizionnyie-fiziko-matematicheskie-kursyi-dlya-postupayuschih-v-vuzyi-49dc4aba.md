@@ -86,7 +86,7 @@ CÔNG TÁC KIỂM SOÁT SỐ 1
 $$\left[ \frac{5}{8} + 2,708 (3) \right] : 2,5$$
 $$[1,3 + 0,7 (6) + 0, (36)] \cdot \frac{110}{401}$$
 
-Cơm. 1.
+Hình 1.
 
 2. Chứng minh rằng nếu $a_1, a_2, \dots, a_n$ là số dương và $a_1 \cdot a_2 \dots a_n = 1$ thì $(1 + a_1)(1 + a_2) \dots (1 + a_n) \geq 2^n$.
 

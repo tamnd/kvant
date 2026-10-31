@@ -61,9 +61,9 @@ $$40 = \Sigma (2x_i + 2y_i) \geqslant 4\Sigma c_i,$$
 
 từ đâu $\Sigma c_i \leqslant 10$ (ở đây tổng $\Sigma$ được lấy trên tất cả các phần của phân vùng).
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
 Nếu $c_i^2 < 0,01$ (nghĩa là $c_i < 0,1$) với tất cả $i$, thì $1 = \Sigma c_i^2 < \Sigma 0,1c_i = 0,1\Sigma c_i$, do đó $\Sigma c_i > 10$. Sự mâu thuẫn. Rõ ràng, ước tính 18 là chính xác: với đoạn 18/18 có độ dài 1, hình vuông của chúng ta có thể được chia thành 100 hình vuông giống hệt nhau có diện tích 0,01 mỗi hình.
 
@@ -176,10 +176,10 @@ b) 8 chấm đỏ;
 c) một chấm đỏ và 6 chấm xanh;
 e) hai chấm xanh?
 
-Cơm. 1.
-Cơm. 2.
-Cơm. 3.
-Cơm. 4.
+Hình 1.
+Hình 2.
+Hình 3.
+Hình 4.
 
 F668. Thông qua một khối peroxid hóa cố định có một sợi dây không trọng lượng. Một khối lượng $m_1$ được gắn vào một đầu của sợi chỉ. Đến đầu bên kia của một con suối
 

@@ -33,7 +33,7 @@ M296 — M299; F303 — F311, F299
 **M296.** Một bảng n × n chứa n2 số có tổng không âm. Chứng minh rằng bạn có thể sắp xếp lại các cột của bảng sao cho tổng n số theo đường chéo đi từ dưới bên trái lên trên bên phải không âm.
 
 ⟦figure⟧
-Cơm. 1.
+Hình 1.
 
 **M299.**\*) Để làm gì n có thể đặt một n-giác đều trên một tờ giấy thành một đường thẳng sao cho tất cả các đỉnh đều nằm trên các đường thẳng đó? (Các đường thẳng là các đường thẳng song song có khoảng cách bằng nhau.)
 
@@ -56,7 +56,7 @@ Như vậy, chỉ với n này mới có thể đặt một n-giác thông thư�
 N. B. Vasiliev
 
 ⟦figure⟧
-Cơm. 2.
+Hình 2.
 
 ---
 *) Lời giải bài toán M297 có trong ghi chú của V. M. Fishman “Lời giải bài toán sử dụng các phép biến đổi hình học”, bài toán M298 - trong ghi chú của V. N. Vaguten “Đóng phân số”, sẽ được xuất bản vào «Kvant» Số 8, 1975.
@@ -72,7 +72,7 @@ Gọi $F'F''$ là tiêu cự của thấu kính. Chúng ta hãy vẽ một trụ
 Trong trường hợp của chúng ta, nguồn của thấu kính sẽ là ảnh của nguồn $S$ trong gương phẳng. Để hình ảnh này
 
 ⟦figure⟧
-Cơm. 3.
+Hình 3.
 
 ở điểm $S'$, gương phải đặt ở giữa đoạn $SS'$ vuông góc với nó. Đường đi của tia được minh họa trên Hình 3.
 
@@ -81,7 +81,7 @@ Cơm. 3.
 **F304.** *Máy bơm cung cấp khối lượng $m$ nước mỗi giờ lên độ cao $H$ thông qua một đường ống có đường kính $d$. Công suất của máy bơm $N$ là bao nhiêu? Có thể cung cấp khối lượng $m$ nước mỗi giờ lên độ cao $H$ bằng máy bơm có công suất thấp hơn không?*
 
 ⟦figure⟧
-Cơm. 4.
+Hình 4.
 
 ⟦column⟧
 
@@ -155,14 +155,14 @@ Vì vậy, toàn bộ nước sẽ chảy ra khỏi bình qua mao quản nếu
 $$6{,}7°C < T < 36{,}7°C.$$
 
 ⟦figure⟧
-Cơm. 7.
+Hình 7.
 
 F306. Hình 7 thể hiện sơ đồ của một oát kế nhiệt $(r_1 \ll r,\ r_1 \ll R_{\mathrm{н}})$. Một sợi dây mỏng $AB$, được làm nóng bởi dòng điện, được ném qua một khối được kéo lên bởi một lò xo. Có một mũi tên gắn vào khối sẽ quay khi bạn xoay khối. Chứng minh rằng độ quay của mũi tên thiết bị tỉ lệ thuận với dòng điện $P$ tiêu thụ bởi tải $(R_{\mathrm{н}})$.
 
 Hãy xem xét rằng: 1) lượng nhiệt mà dây nóng tỏa ra môi trường tỷ lệ thuận với chênh lệch nhiệt độ giữa dây và môi trường; 2) sự thay đổi điện trở của các đoạn dây $AB$ do độ giãn dài và sự thay đổi nhiệt độ của chúng là không đáng kể.
 
 ⟦figure⟧
-Cơm. 8.
+Hình 8.
 
 ⟦column⟧
 
@@ -223,11 +223,11 @@ Trước tiên chúng ta hãy xem xét trường hợp tốc độ của máy ba
 
 Thú vị lời giải trong trường hợp máy bay siêu thanh ($v > c$). Phương trình (2) chỉ có nghiệm thực cho $\cos \phi < \frac{c}{v}$ và cả hai nghiệm ($tg\phi > 0$) đều dương cùng một lúc. Điều này có nghĩa là gì? Hãy xem xét điều này chi tiết hơn.
 
-Cơm. 11.
+Hình 11.
 
 Điểm nào trên quỹ đạo của máy bay là nguồn phát ra sóng âm hình cầu. Đường bao của các mặt sóng là một bề mặt hữu hạn (Hình 10), chuyển động về phía trước với tốc độ máy bay $v$. Người được quan sát sẽ nghe thấy âm thanh lần đầu tiên vào thời điểm người đó đi đến điểm $O$
 
-Cơm. 12.
+Hình 12.
 
 từ các mặt sóng. Nếu mặt phẳng lúc này đang ở điểm $A_0$, thì người quan sát sẽ nghe thấy âm thanh truyền về phía mình từ điểm $B_0$ (Hình 11). Từ Hình 11 có thể thấy rằng $\sin \alpha_0 = \cos \phi_0 = \frac{ct}{vt} = \frac{c}{v}$. Khi máy bay di chuyển ra xa, góc $\phi$ tăng và $\cos \phi$ giảm (do đó, thực sự, người ta nghe thấy máy bay ở các góc $\phi$ sao cho $\cos \phi \leq \frac{c}{v}$).
 
@@ -283,7 +283,7 @@ $$\frac{4I_1}{I_2} = \frac{I_2}{I_1},$$ hoặc $I_2 = 2I_1 = 40$ st.
 
 F309. Con rắn bò được nửa đường vào một ống hẹp cố định nằm trên máy bay. Nửa đường nối của con rắn ngọ nguậy tùy ý dọc theo mặt phẳng. Coi con rắn là một cuộn phim mỏng, đồng đều có chiều dài $l$, hãy tìm xem tâm mềm của toàn bộ con rắn có thể nằm ở khu vực nào.
 
-Cơm. 13.
+Hình 13.
 
 Trọng tâm của nửa con rắn nằm trong ống nằm cách mép ống một khoảng $\frac{l}{4}$. Tọa độ của nó $(x_1, y_1)$ bằng nhau (Hình 13)
 

@@ -42,11 +42,11 @@ NGƯỜI HY LẠP CỔ ĐÃ Quen thuộc với những hình mà ngày nay chún
 
 ⟦figure⟧
 
-Cơm. 1
+Hình 1
 
 ⟦figure⟧
 
-Cơm. 2
+Hình 2
 
 1
 
@@ -56,11 +56,11 @@ DOI: https://doi.org/10.4213/kvant20241003
 
 ⟦figure⟧
 
-Cơm. 3
+Hình 3
 
 ⟦figure⟧
 
-Cơm. 4
+Hình 4
 
 m với parabol tại điểm X. Tính chất tiêu điểm của parabol có thể được sử dụng như sau. Nếu bạn tạo một gương phản xạ có hình paraboloid và đặt một bóng đèn vào tiêu điểm, bạn sẽ thu được một điểm sáng: tất cả các tia phản xạ sẽ song song với trục của paraboloid.
 
@@ -78,11 +78,11 @@ b
 
 ⟦figure⟧
 
-Cơm. 15
+Hình 15
 
 ⟦figure⟧
 
-Cơm. 13
+Hình 13
 
 từ $S_{W}$ tất cả các khu vực $w_{1i}$ sẽ bị trừ (Hình 14, b). Do đó, hiệu $S_{W} S_{B}$ sẽ giảm theo diện tích của vùng Z w 1. Vì đa giác này là đều nên tất cả các vùng của nó đều có diện tích bằng nhau. Do đó, khi một cặp đoạn màu đen được đổi màu thành màu trắng thì độ chênh lệch $S_{W} S_{B}$ sẽ không đổi.
 
@@ -90,7 +90,7 @@ b)
 
 ⟦figure⟧
 
-Cơm. 14
+Hình 14
 
 13. Giả sử có một chu trình trong biểu đồ và để nó đi dọc theo đoạn ngang $a_{1}$. Lấy một hình thoi cạnh cạnh $a_{1}$ và đánh dấu cạnh song song là 2 trong đó. Lấy một hình thoi cạnh cạnh a 2 và đánh dấu cạnh song song $a_{3}$ trong đó. Và vân vân. Chuỗi kim cương tương tự có thể được xây dựng theo hướng khác. Kết quả là một chuỗi các viên kim cương cắt xuyên qua hình lục giác của chúng ta. Xe đạp phải vượt qua vạch này, đi theo các hướng khác nhau, điều này là không thể. 14. Hãy giới thiệu hệ tọa độ sao cho đường thẳng mới là trục OY. Hãy xem xét điểm giao nhau ngoài cùng bên trái của một số đường. Bây giờ chúng ta hãy xét các tia của những đường này đi từ điểm giao nhau này sang bên trái. Hãy chọn một số hai cái lân cận (Hình 15, a). Nếu chỉ có hai đường thẳng đi qua một điểm và một trong hai đường thẳng đó song song với OY thì xét tia trên của nó (Hình 15, b). Lưu ý rằng các tia này không có giao điểm với các đường khác (nếu không sẽ có giao điểm ở bên trái của chúng ta hoặc có cùng tọa độ OX nhưng cao hơn). Điều này có nghĩa là góc này được tạo bởi hai tia, tức là tất cả các điểm của nó đều bị tô bóng.
 

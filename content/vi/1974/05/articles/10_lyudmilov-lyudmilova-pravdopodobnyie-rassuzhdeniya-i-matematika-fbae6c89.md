@@ -48,8 +48,8 @@ Trong cuốn sách của P. Yu. Germanovich “Bộ sưu tập bài toán về t
 
 Kênh rộng 3,5 m có lối rẽ (Hình 1). Làm thế nào để tổ chức vượt qua nó nếu có hai
 
-Cơm. 1.
-Cơm. 2.
+Hình 1.
+Hình 2.
 
 ⟦folio 44⟧
 
@@ -78,9 +78,9 @@ Có thể giao nhau nếu bất đẳng thức được thỏa mãn
 
 $$3,5\sqrt{2} - 1,5 \leq 3$$
 
-Cơm. 3.
+Hình 3.
 
-Cơm. 4.
+Hình 4.
 
 hoặc 3.5\sqrt{2} \leq 4.5, từ đó 7\sqrt{2} \leq 9, nhưng điều này không chính xác. Do đó trong thực tế CD > 3 m!
 
@@ -92,11 +92,11 @@ Từ Hình 3, rõ ràng giả thuyết 1 là đúng: thực vậy, nếu một t
 
 Không khó để khẳng định giả thuyết 3: nếu tấm CD thứ hai không vuông góc với AB (xem Hình 4) thì nó sẽ phải dài hơn.
 
-Cơm. 5.
+Hình 5.
 
 ⟦folio 45⟧
 
-Cơm. 6.
+Hình 6.
 
 Vẫn còn phải kiểm tra giả thuyết 2.
 Thoạt nhìn, có vẻ như giả thuyết này đã được xác nhận. Thật vậy, hãy xem xét hai vị trí của bảng đầu tiên (Hình 5): $MN$ ($\Rightarrow MNO = 45^\circ$) và $AB$ ($\Rightarrow ABO \neq 45^\circ$). Đặt $CD \perp MN$, $CP \perp AB$, $K$ là giao điểm của $CP$ và $MN$. Rõ ràng là $CP > CD$, vì $CP > CK$ và $CK > CD$ (cạnh huyền lớn hơn chân).

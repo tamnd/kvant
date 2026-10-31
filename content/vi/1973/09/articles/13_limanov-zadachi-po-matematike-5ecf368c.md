@@ -133,7 +133,7 @@ Tiếp theo, $\text{AOC} = 180^\circ - \text{AB}_1C$, $\text{BOC} = 180^\circ - 
 
 ⟦folio 49⟧
 
-Cơm. 1.
+Hình 1.
 
 $BOA + BC_1A = AB_1C + BA_1C + BC_1A = 180^\circ$. Do đó, điểm $O$ nằm trên đường tròn ngoại tiếp $\Delta ABC_1$. Mệnh đề (a) bài toán đã được chứng minh.
 
@@ -147,4 +147,4 @@ Bây giờ chúng ta hãy xem xét một số trường hợp.
 
 2. $c < 0$. Khi đó $a + c \leq cx^2 + a \leq a$, Do đó $a + c - |b| \leq cx^2 + a + bx \leq a + |b|$. Nhưng $-1 \leq a + c - |b|$ và $a + |b| \leq 1 - c \leq 2$. Do đó, bất đẳng thức $|cx^2 + bx + a| \leq 2$ luôn đúng. Khi nhìn lại, chúng ta thấy rằng nếu đối với một số $x_0$ đẳng thức $|cx^2 + bx + a| = 2$ được thỏa mãn thì $c = -1$, $cx^2 + bx + a = 2$ và $x_0 = 0$ (hãy nhớ rằng chúng ta có $a \geq 0$), do đó $a = 2$ và $b = 0$ (kể từ $a + c = 1$).
 
-Cơm. 2. Hình 3.
+Hình 2. Hình 3.

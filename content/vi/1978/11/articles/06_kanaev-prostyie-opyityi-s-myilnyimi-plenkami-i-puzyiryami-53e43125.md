@@ -60,7 +60,7 @@ Thực tế là thấu kính xà phòng về cơ bản là thấu kính không k
 
 a) Đổ đầy nước vào một phần ống nghiệm. Lấy một dải giấy và sau khi làm ẩm nó bằng dung dịch xà phòng, chuyền nó dọc theo đầu ống nghiệm - đầu ống nghiệm sẽ được phủ một lớp màng. Để làm cho màng vừa khít bên trong ống nghiệm, hãy nghiêng ống nghiệm và bắn một ít nước qua màng. Nước bay lên cao bao nhiêu thì màng sẽ chìm xuống bấy nhiêu.
 
-Cơm. 2.
+Hình 2.
 
 6) Đổ một ít nước vào ống nghiệm và đun sôi bằng nến hoặc đèn cồn. Di chuyển lò sưởi, che lỗ bằng màng xà phòng. Sau một thời gian, bạn sẽ thấy màng phim sẽ dần rơi vào bên trong ống nghiệm.
 

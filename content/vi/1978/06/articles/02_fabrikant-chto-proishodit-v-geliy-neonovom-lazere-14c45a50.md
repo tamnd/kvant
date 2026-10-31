@@ -86,11 +86,11 @@ Bây giờ chúng ta có thể giải thích tại sao các môi trường khác
 
 Để thu được môi trường khuếch đại, cần phải tạo ra sự đảo ngược quần thể nguyên tử ở các mức năng lượng – để tạo ra tình huống trong đó có nhiều nguyên tử ở mức trên hơn ở mức thấp hơn (Hình 5). Khi đó tác dụng phát xạ cưỡng bức sẽ lấn át tác dụng hấp thụ và do sự phát xạ cưỡng bức nên sự hấp thụ ánh sáng sẽ xảy ra. Hãy xem cách đảo ngược
 
-Cơm. 4. Phân bố bình thường của nguyên tử theo mức năng lượng.
+Hình 4. Phân bố bình thường của nguyên tử theo mức năng lượng.
 
 ⟦folio 6⟧
 
-Cơm. 7. Sự phân bố electron theo năng lượng.
+Hình 7. Sự phân bố electron theo năng lượng.
 
 Tất cả các electron đều có cùng năng lượng, bằng năng lượng trung bình $E$ của chuyển động nhiệt của chúng, khi đó không có electron nào có thể kích thích nguyên tử. Ở một nhiệt độ nhất định (ở một giá trị nhất định $E$), năng lượng $\frac{mv^2}{2}$ của chuyển động nhiệt của từng electron khác với giá trị $E = \frac{mv^2}{2}$ - như người ta nói, có sự phân tán năng lượng của electron. Hình 7 thể hiện đồ thị phân bố năng lượng của electron ở một nhiệt độ nhất định. Có thể thấy chỉ một phần nhỏ electron có năng lượng trên ngưỡng kích thích của nguyên tử.
 
@@ -100,13 +100,13 @@ Hình 8a thể hiện các phương pháp quản lý sơ đồ xen kẽ ở các
 
 *) Cũng có thể xảy ra trường hợp sau: một nguyên tử, đã kết hợp với một electron và chuyển đến mức kích thích, trong suốt thời gian tồn tại của nó sẽ va chạm với một electron thứ hai và chuyển lên mức cao hơn (sự kích thích như vậy được gọi là từng bước). Tuy nhiên, nồng độ của các nguyên tử bị kích thích là nhỏ (do tuổi thọ của các nguyên tử ở trạng thái kích thích rất ngắn), và do đó, trong điều kiện bình thường, xác suất xảy ra sự kiện như vậy là không có.
 
-Cơm. 8a.
+Hình 8a.
 
-Cơm. 86.
+Hình 86.
 
 ⟦folio 8⟧
 
-Cơm. 11.
+Hình 11.
 
 Kết quả là các photon tuyết lở gặp phải một trong các gương laser và sau khi bị phản xạ sẽ quay trở lại môi trường hoạt động, đi kèm với đó là sự gia tăng tuyết lở. Sau đó, sự phản chiếu xảy ra từ tấm gương thứ hai và một lần nữa trận tuyết lở lại phát triển, v.v. Với sự trợ giúp của một tấm gương, chúng ta dường như mở rộng môi trường hoạt động. Tuy nhiên, người ta không nên nghĩ rằng ngay cả với những chiếc gương lý tưởng phản chiếu tất cả các photon rơi vào chúng, trận tuyết lở sẽ phát triển vô tận. Bản thân trận tuyết lở đã làm hỏng các điều kiện tăng trưởng. Ở mật độ thông lượng photon đủ cao, chúng sẽ “hạ gục” các nguyên tử bị kích thích xuống mức năng lượng thấp hơn nhanh đến mức sự nghịch đảo dân số sẽ biến mất. Nhưng cùng với sự phát xạ kích thích, quá trình hấp thụ và phát xạ tự phát cũng diễn ra. Trong quá trình phát xạ tự phát, các photon mới nổi lan truyền đồng đều trong không gian theo mọi hướng và sự đóng góp của chúng vào vụ tuyết lở photon là rất nhỏ và đại diện cho ánh sáng không lõi. Sự phát xạ tự phát của các nguyên tử tạo ra một lượng nhỏ cái gọi là “nhiễu” trong tia laser. Khi, do sự biến mất của nghịch đảo dân số, trạng thái cân bằng xảy ra giữa số lượng tác dụng hấp thụ và số lượng tác dụng phát xạ tự phát và kích thích, thì quá trình khuếch đại ánh sáng tiếp theo sẽ chấm dứt. (Theo định luật bảo toàn năng lượng, năng lượng giải phóng trong quá trình phát xạ trở thành năng lượng cung cấp để kích thích nguyên tử Ne.)
 
@@ -154,9 +154,9 @@ Do đó, cả độ sáng sóng và lượng tử của ánh sáng đều xuất
 
 ⟦folio 10⟧
 
-Cơm. 12.
+Hình 12.
 
-Cơm. 13. “Độ sắc nét của sự điều chỉnh” của các nguyên tử không giống như sự cộng hưởng của gương.
+Hình 13. “Độ sắc nét của sự điều chỉnh” của các nguyên tử không giống như sự cộng hưởng của gương.
 
 Bây giờ chúng ta hãy nhận ra rằng trên thực tế chúng ta đã quen thuộc với bức xạ có tần số cụ thể $v_0$ (Hình 12, a), chúng ta phải chọn kích thước của cộng hưởng - khoảng cách $L$ giữa các gương - sao cho tần số tự nhiên của cộng hưởng (được xác định bởi các điều kiện hình thành sóng thải) chính xác bằng $v_0$. Và khoảng cách này sẽ phải được duy trì với độ chính xác đến từng phần nhỏ của chiều dài bức xạ. Trong thực tế rất khó có thể đáp ứng được yêu cầu này. May mắn thay, điều này bài toán giúp mọi việc trở nên dễ dàng hơn vì trên thực tế, tần số bức xạ của một nguyên tử không chính xác bằng $v_0$, mà nằm trong một phạm vi giá trị nhất định $v_0 \pm \Delta v$. Tuy nhiên, lý do tại sao điều này xảy ra là do chuyển động nhiệt của các nguyên tử. Vì tốc độ của từng nguyên tử có thể lớn hơn hoặc nhỏ hơn tốc độ chuyển động nhiệt nên năng lượng của các nguyên tử ở một mức năng lượng nhất định không chính xác bằng $E_n$ mà nằm trong một phạm vi giá trị nhất định $E_n \pm \Delta E$ (Hình 12, b). Một số giá trị của tần số tự nhiên cộng hưởng rơi vào khoảng tần số $|(v - \Delta v), (v + \Delta v)|$ (Hình 13). Do đó, đối với một tần số bức xạ nhất định, chùm tia laze mạnh sẽ thu được bằng cách điều chỉnh cộng hưởng thành tập tần số không phải bát phân (tương ứng với các giá trị khác nhau của số nguyên $n$ trong điều kiện (4)). Nếu không thực hiện các biện pháp đặc biệt, tia laser helian-neon sẽ phát ra toàn bộ tập hợp tần số này, mặc dù tập trung ở một vùng khá hẹp (độ rộng của vạch phổ của nguyên tử neon).
 

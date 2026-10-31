@@ -58,9 +58,9 @@ Tạo áp suất cao
 
 Thiết bị tạo áp suất “cao” - máy bơm thực phẩm quen thuộc đến mức nào? Nếu chúng ta kết nối nó với buồng bóng chuyền và thêm bộ thay đổi áp suất (ví dụ: đồng hồ đo áp suất tự động), thì chúng ta sẽ có mô hình lắp đặt áp suất cao (Hình 1), bao gồm ba thành phần chính: máy tạo áp suất (máy bơm), bình áp suất cao.
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2. Máy ép cơ khí.
+Hình 2. Máy ép cơ khí.
 
 Lenya (buồng) và đồng hồ đo áp suất đo áp suất được tạo ra.
 
@@ -88,9 +88,9 @@ Chất lỏng nén có ít năng lượng hơn và ít khả năng hớt bọt h
 
 Cách lắp đặt đơn giản nhất để thu được áp suất cao trong chất rắn là pyzometer, được minh họa trong Hình 5. Piston hình trụ làm bằng hợp kim cứng được đẩy bằng máy ép thủy lực vào bình áp suất cao gọi là ma trận. Ma trận chứa chất dẻo mềm
 
-Cơm. 5. Nhiệt kế kế.
+Hình 5. Nhiệt kế kế.
 
-Cơm. 6. Bộ máy cuối.
+Hình 6. Bộ máy cuối.
 
 (indi, chì hoặc bạc vảy), bên trong đó đặt mẫu thử. Áp suất trong đồng hồ đo áp suất như vậy được xác định bởi độ lớn của lực tác dụng trên một đơn vị diện tích mặt cắt ngang của kênh súng áp suất. Áp suất tối đa có thể đạt được trong một thiết bị như vậy được xác định bởi độ bền kéo của piston trong quá trình lăn và thường không vượt quá 40-50 nghìn atm.
 
@@ -100,7 +100,7 @@ Những thiết bị như vậy cho phép bạn đạt được áp suất lên 
 
 ⟦folio 13⟧
 
-Cơm. 7. Bộ máy khối.
+Hình 7. Bộ máy khối.
 
 piston ical, cũng có xu hướng phát triển ma trận. Các nhà khoa học và nhà thiết kế đã tìm ra cách thoát khỏi khó khăn đã tạo ra. Nếu ma trận không thể chịu được, hãy vứt nó đi và thay thế bằng thứ gì đó có thể chịu được áp lực như vậy - các piston tương tự, cũng phải được di chuyển bằng máy ép thủy lực. Đây là cách tạo ra quá trình cài đặt sáu giai đoạn (Hình 7). Một khối lập phương làm bằng vật liệu nhựa, bên trong chứa mẫu đang nghiên cứu, được ép bằng pít-tông - chày, mỗi chày được ép vào một cạnh của khối.
 
@@ -110,7 +110,7 @@ Có thể đạt được áp suất cao hơn bằng cách sử dụng nguyên l
 
 Thậm chí có thể đạt được nhiều áp lực hơn trong các lớp mỏng của chất bằng cách ép nó vào giữa các đe (Hình 8). Mẫu đang nghiên cứu ở dạng đĩa mỏng được đặt trong một vòng đá vôi - catlinit. Đá vôi có hệ số ma sát cao và không cho chất được hớt lọt ra khỏi thiết bị. Trong những thiết bị như vậy, được làm từ chính những vật liệu đó, các nhà khoa học thu được áp suất 0,5 triệu atm. Thậm chí còn có áp suất lớn hơn - lên tới 10-15 triệu atm - bằng các phương pháp động: cho nổ vật chất bằng một vụ nổ. Nếu khu vực có chất thử được bao quanh tất cả các phía bởi một chất nổ, chẳng hạn như tol, và chất ổn định này bị phá hủy khỏi bề mặt, thì mặt trước của vụ nổ sẽ lan đến trung tâm và sóng nổ từ mọi phía sẽ tạo ra một khu vực có áp suất cực lớn trong một phần giây.
 
-Cơm. 8. Nén giữa đe.
+Hình 8. Nén giữa đe.
 
 ⟦folio 14⟧
 
@@ -119,9 +119,9 @@ Cơm. 8. Nén giữa đe.
 Cách đơn giản nhất để đo áp suất là cân bằng áp suất đo được với trọng lượng của cột chất lỏng. Chất lỏng càng nặng thì chiều cao của cột càng thấp để cân bằng áp suất tương tự. Tuy nhiên, ngay cả khi sử dụng chất lỏng nặng nhất, rutin (mật độ 13,6 $e/cm^3$), để đo áp suất hàng trăm atm sẽ dẫn đến chiều cao cột hàng trăm mét (hãy nhớ rằng 0,76 m $pm. cm.=1$ atm). lời giải ban đầu của vấn đề này được D. I. Mendeleev đề xuất vào năm 1872. Áp kế của nó bao gồm một số khuỷu chứa đầy rutin và nước (Hình 9). Số đo áp suất sẽ bằng tổng chiều cao của cột rutin ($H_1+H_2+H_3$) nhân với mật độ của rutin, trừ đi tổng chiều cao của cột nước ($h_1+h_2$) nhân với mật độ của nước. Nhưng mặc dù tăng đáng kể về kích thước, áp kế chính xác của thiết kế như vậy cho 200 atm là cấu trúc bên trong gồm 9 khuỷu tay cao 18 mét.
 
 Một loại dụng cụ đo áp suất khác là áp kế pít-tông tự do, được thể hiện dưới dạng sơ đồ trong Hình 10. Chất bị nén có xu hướng đẩy pít-tông ra ngoài, pít-tông chuyển động tự do trong một xi-lanh thép. Áp suất này được cân bằng
-Cơm. 9. Áp kế Mendeleev.
+Hình 9. Áp kế Mendeleev.
 
-Cơm. 10. Áp kế có piston tự do.
+Hình 10. Áp kế có piston tự do.
 
 được thay thế bằng trọng lượng của tải $G$ và khi biết diện tích của piston $S$, có thể xác định được số đo áp suất $P=\frac{G}{S}$.
 
@@ -133,7 +133,7 @@ Kỷ lục đo áp suất cao theo cách này được nắm giữ bởi các nh
 
 ⟦folio 15⟧
 
-Cơm. 11. Đồng hồ đo áp suất lò xo.
+Hình 11. Đồng hồ đo áp suất lò xo.
 
 sẽ kéo giá đỡ và xoay trục mà mũi tên được gắn vào. Đồng hồ đo áp suất như vậy được sử dụng lên tới 10-16 nghìn atm.
 
@@ -145,4 +145,4 @@ trong đó $k$ là hệ số ($k \approx 0,5 \times 10^6$ bar), được biết 
 
 *) Mangiin là hợp kim của 86% Cu, 11% Mn, 3% Ni.
 
-Cơm. 12. Tinh thể và chuỗi NaCl.
+Hình 12. Tinh thể và chuỗi NaCl.

@@ -79,7 +79,7 @@ $$mv = mv_1 + MV_1,$$
 
 Trước lễ kỷ niệm Sau lễ kỷ niệm
 
-Cơm. 2.
+Hình 2.
 
 và theo định luật bảo toàn năng lượng:
 
@@ -187,7 +187,7 @@ $^*$ Xem bài viết của D. A. Frank·Kamenetsky “Điện trở là một hi
 
 ⟦folio none⟧
 
-Cơm. 3.
+Hình 3.
 
 Các nguyên tử trở nên bị kích thích và bắt đầu phát ra ánh sáng, điều này giải thích sự phát sáng của đèn phóng điện trong khí. Thậm chí có thể đánh bật các electron bên trong (sự không hóa của các nguyên tử), dẫn đến sự gia tăng $N$. Trong mỗi va chạm không đàn hồi, electron mất năng lượng nhiều hơn so với va chạm đàn hồi. Nhiệt Joule chỉ là một phần của tổng công suất hiện tại. Đôi khi nhiệt Joule thậm chí còn nhỏ không đáng kể so với $jE$.
 

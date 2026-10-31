@@ -132,6 +132,6 @@ Không có toán học thì không thể thành thạo và vận hành thành c�
 Không có ích gì khi tiếp tục danh sách này nữa.
 Viện sĩ hàn lâm A. N. Krylov, một nhà toán học và thợ đóng tàu nói trên, đã nói về chuyên môn của mình rằng đó là “... việc ứng dụng toán học vào các vấn đề khác nhau của hàng hải”. Người thuyền trưởng cũng vậy!
 
-Cơm. 3.
+Hình 3.
 
 12

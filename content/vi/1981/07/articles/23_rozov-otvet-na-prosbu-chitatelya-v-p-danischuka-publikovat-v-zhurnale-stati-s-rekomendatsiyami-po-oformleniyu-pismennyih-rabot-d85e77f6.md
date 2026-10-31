@@ -84,7 +84,7 @@ từ đâu $m_1 = 1, m_2 = 7$.
 
 ⟦folio 60⟧
 
-Cơm. 4. Hình 5.
+Hình 4. Hình 5.
 
 độ dài cạnh $\triangle ABC$. Do đó, trong một tam giác thu được từ $\triangle BOO'$ bằng cách tương tự với hệ số $\frac{3}{2}$, độ dài các cạnh sẽ bằng độ dài các đường trung tuyến $\triangle ABC$ (có nghĩa đây là độ dài mong muốn $\triangle A_1B_1C_1$) và độ dài các đường trung tuyến $-\frac{3}{4}$ của nó sẽ bằng độ dài của cạnh $\triangle ABC$.
 
@@ -94,7 +94,7 @@ c) Bằng cách xây dựng $S_{\triangle A_2B_2C_2} = \frac{9}{16} S_{\triangle
 
 9. Rõ ràng là $S_{AMC} = \frac{1}{2}$ (xem Hình 4). Để tìm $S_{LKMC}$ chỉ cần tìm diện tích tam giác $AKL$ và trừ nó khỏi $\frac{1}{2}$ là đủ. Hãy thực hiện $[MP] \parallel (AC)$; $\triangle AKL$ rõ ràng là đồng dạng với $\triangle PMK$ và do đó $(PM - \text{средняя линия в } \triangle BLC) |AL| = \frac{1}{3} |AC|$. Vì vậy, $S_{AKL} = S_{ALB} - S_{AKB} = \frac{1}{3} - \frac{1}{4} = \frac{1}{12}$, $S_{KLMC} = \frac{1}{2} - \frac{1}{12} = \frac{5}{12}$.
 
-Cơm. 6.
+Hình 6.
 
 10. Gọi $P$ là chu vi $\triangle ABC$. Vì $\triangle ACD \sim \triangle CBD \sim \triangle ABC$ nên chu vi của chúng liên hệ với nhau như các cạnh bằng nhau. Do đó (xem Hình 5) $\frac{b}{P_1} = \frac{a}{P_2} = \frac{c}{P}$. Do đó $\frac{P_1}{P} = \frac{b}{c}$, $\frac{P_2}{P} = \frac{a}{c}$. Bằng cách bình phương các tỷ lệ kết quả và cộng chúng, chúng ta nhận được
 
@@ -261,7 +261,7 @@ Lựa chọn
 4. P = UI - I2R = 36 kW.
 5. Q = Mm|vec|²/2(M+m) + mgH = 164,7 J.
 
-Cơm. 8.
+Hình 8.
 
 Bài toán thi vấn đáp
 1. h = |vec|²/2g(1 + μ ctg α) = 1,56 m.

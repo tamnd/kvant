@@ -51,7 +51,7 @@ Nhưng để làm được điều này, thậm chí không đáng kể lắm, n
 
 ⟦folio 11⟧
 
-Cơm. 2. Hai giai đoạn của sét: hình thành kênh phóng ion hóa (a) - b) và sự truyền xung dòng điện chính (e) - e)).
+Hình 2. Hai giai đoạn của sét: hình thành kênh phóng ion hóa (a) - b) và sự truyền xung dòng điện chính (e) - e)).
 
 ánh sáng và ozone." Khí nở ra - chúng ta nghe thấy tiếng sấm.
 
@@ -81,13 +81,13 @@ Cơ chế tiếp theo rất giống với cơ chế trước, nhưng ở đây c
 
 Cuối cùng, cơ chế sự cố thứ ba được gọi là sự mất ổn định của điện cực. Sự bất ổn là gì và theo biểu đồ, nó phát triển như thế nào? Sự bất ổn trong vật lý nói chung cũng giống như sự bất ổn trong cơ học - một độ lệch nhỏ so với trạng thái cân bằng tăng lên (một quả bóng nằm trên đỉnh một quả cầu, bị lệch một chút, không quay trở lại mà lăn xa hơn). Trong trường hợp này, sự mất ổn định phát sinh như sau. Điện trở của chất cách điện tuy cao nhưng vẫn không phải là vô hạn. Một số dòng điện đi qua nó, và do đó chất cách điện nóng lên. Khi bị nung nóng, điện trở của chất cách điện giảm (giải số lượng hạt mang điện tự do -
 
-Cơm. 3. Đồ thị biểu diễn sự phụ thuộc điện năng của tinh thể ion nguyên vẹn vào năng lượng liên kết của mạng tinh thể.
+Hình 3. Đồ thị biểu diễn sự phụ thuộc điện năng của tinh thể ion nguyên vẹn vào năng lượng liên kết của mạng tinh thể.
 
 *) Sự hấp thụ (từ tiếng Latin sorbeo - hấp thụ) - sự hấp thụ bởi chất rắn hoặc chất lỏng của bất kỳ chất nào từ môi trường.
 
 ⟦folio 13⟧
 
-Cơm. 4. Sự cố bề mặt.
+Hình 4. Sự cố bề mặt.
 
 một quá trình như vậy: lực tĩnh điện thu hút điện cực này sang điện cực khác xé ra một hạt gắn yếu vào điện cực (bụi, vết khía sau quá trình xử lý cơ học, tinh thể được ngăn cách bởi một vết nứt vi mô). Phần bị rách đi qua khe hở và khi chạm vào điện cực đối diện, nó sẽ bốc hơi. Các hạt trong hơi của vật liệu gây ra sự cố.
 

@@ -155,7 +155,7 @@ Vật lý
 1. Độ căng chỉ sẽ lớn hơn trong trường hợp thứ hai.
 2. Xem hình. 1 ($\alpha_0 - \gamma \theta$, tại đó tải bắt đầu trượt dọc theo mặt phẳng).
 
-Cơm. 1.
+Hình 1.
 
 3. $T = \sqrt{6\pi / (\gamma \rho)} \approx 160$ phút.
 
@@ -246,7 +246,7 @@ $\alpha_2(V_2^3 - V_1^3)/3$.
 
 ⟦folio 60⟧
 
-Cơm. 2.
+Hình 2.
 
 5. $f = \frac{Rd}{2d - R} = 15$ cm (xem Hình 2);
 $\Gamma = \frac{f}{d} = 5$.
@@ -398,9 +398,9 @@ chúng tôi tìm thấy: $7 \cdot 28 \cdot 10 = 1960$. Vì vậy, Vadim và Koly
 
 4. Cộng các số 3, 17 và 18, xếp cùng một hàng, ta được tổng 38. Khi đó giữa các số 3 và 16 phải có 19, giữa 16 và 10 - số 12, v.v., cho đến khi ta có được số điền như Hình 4. Hãy tìm các số $a, b$ và $c$, biểu thị trong hình này. Vì $10 + a + b + 1 + 18 = 38$, chúng ta nhận được $a + b = 9$, và từ đó,
 
-Cơm. 3.
+Hình 3.
 
-Cơm. 4.
+Hình 4.
 
 Bài toán độc giả của chúng tôi
 (xem trang 8, 15)

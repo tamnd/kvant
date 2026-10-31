@@ -102,7 +102,7 @@ Khoa Cơ học và Toán học và Khoa Toán tính toán và Điều khiển h�
 
 ⟦folio 56⟧
 
-Cơm. 7. Hình 8. Hình 9.
+Hình 7. Hình 8. Hình 9.
 
 Các dây dẫn nước được đặt trong cùng một mặt phẳng và nằm trong từ trường không đổi, cảm ứng của nó hướng vuông góc với mặt phẳng của đường viền được tạo thành bởi các dây dẫn và $|\vec{B}|=1$ ml. Tìm điện áp $U_1$ giữa các bản của tụ điện có điện dung $C_1$.
 

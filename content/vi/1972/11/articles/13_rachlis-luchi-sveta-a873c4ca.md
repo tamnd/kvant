@@ -46,7 +46,7 @@ Trong một ống như vậy, một chiếc đèn pin tạo ra một chùm ánh 
 
 ⟦folio 35⟧
 
-Cơm. 2.
+Hình 2.
 
 Có một cách khác: nếu ai đó trong gia đình hút thuốc, hãy yêu cầu anh ta thổi khói vào chùm tia phản xạ. Các hạt bụi hoặc khói trong không khí phản chiếu ánh sáng về phía mắt và chùm tia trở nên nhìn thấy được.
 
@@ -66,13 +66,13 @@ Vì vậy, chỉ có mắt trên bề mặt mới có thể tạo ra sự phản
 
 ⟦folio 36⟧
 
-Cơm. 3.
+Hình 3.
 
 Tại sao một hình ảnh phản chiếu hình thành trên bề mặt? Giả sử ai đó nhìn xuống nước, cố gắng nhìn thấy hình ảnh phản chiếu của một vật nhỏ A trong đó (Hình 4). Trong ảnh, mắt B của người đang nhìn được phóng to lên rất nhiều - điều này cho phép chúng ta hiểu rõ hơn điều gì đang xảy ra với ánh sáng. Giả sử tia sáng mặt trời chiếu vào vật A và bị nó phản xạ.
 
 Theo quy định, các vật thể không có mắt như bề mặt nước tĩnh lặng hoặc gương. Nói chung, nếu có những điểm bất thường trên bề mặt vật thể chỉ bằng 1/25.000 centimet thì đây đã là
 
-Cơm. 4.
+Hình 4.
 
 đủ để phản chiếu ánh sáng theo mọi hướng. Hãy tưởng tượng vật A có những bất thường như vậy. Ví dụ, hãy xem xét các tia sáng mặt trời B và Γ phản xạ từ một vật thể. Chúng sẽ đến từ mặt nước, như được thể hiện bằng chữ D và E, và cuối cùng sẽ đi vào mắt của B.
 
@@ -118,9 +118,9 @@ Sự mâu thuẫn này là hiển nhiên và rất dễ giải thích nếu bạ
 
 Người được quan sát không thể biết chùm ánh sáng thực sự đến từ đâu. Chùm tia đi vào mắt theo hướng GV, nghĩa là người ta quan sát thấy ánh sáng truyền theo đường thẳng, hơi truyền về phía G, tức là từ một nơi nào đó từ điểm D. Ở đó, theo thực đơn của ông, là điểm cuối của cây gậy.
 
-Cơm. 6.
+Hình 6.
 
-Cơm. 7.
+Hình 7.
 
 Xin lưu ý rằng điểm D nằm phía trên điểm B, đó là lý do tại sao cây gậy dường như bị cong lên trên. Ngoài ra, cây gậy trông có vẻ ngắn hơn thực tế. Hai quy tắc này áp dụng cho mọi vật ngâm trong nước. Nếu một vật chỉ chìm một phần trong nước thì phần dưới nước của nó luôn có vẻ ngắn hơn. Hơn nữa, tất cả các vật thể trong nước dường như ở gần bề mặt hơn thực tế.
 

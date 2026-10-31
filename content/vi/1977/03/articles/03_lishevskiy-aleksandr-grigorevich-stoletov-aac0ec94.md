@@ -51,7 +51,7 @@ Cả năm 1870 được dành cho nỗ lực xây dựng phòng thí nghiệm v�
 
 ⟦folio 10⟧
 
-Cơm. 2.
+Hình 2.
 
 Theo chân họ, Galvax đã đơn giản hóa thí nghiệm bằng cách sử dụng các tia lửa điện cùng với sự “phóng điện im lặng” của một điện cực được tích điện trước. Bằng cách kết nối một máy đo điện với điện cực này, Galvax phát hiện ra rằng việc chiếu sáng bằng tia cực tím khiến điện cực phóng điện.
 

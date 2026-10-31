@@ -49,11 +49,11 @@ Bài toán 1 (MSU, khoa vật lý, 1977). Cho một hình thang bằng nhau có 
 
 Lời giải. Giả sử $ABCD$ là một hình thang cho trước (Hình 1). Hãy vẽ đường chéo $BD$ và chiều cao $BE$. Chúng tôi biểu thị $DAB$ bằng $x$, $ADB$ bằng $y$. Bằng cách hạ thấp đường vuông góc từ tâm $O$ dọc theo vòng tròn xe trượt băng (chúng ta biểu thị bán kính của nó bằng $R$) xuống $BD$ và tiếp tục như vậy cho đến khi nó giao với vòng tròn này, chúng ta có thể thấy rằng $|BD|=2R \cdot \sin x$. (1)
 
-Cơm. 1.
+Hình 1.
 
 ⟦folio 44⟧
 
-Cơm. 4.
+Hình 4.
 
 Vì vậy, $\frac{|CE|}{|EA|} = \frac{4}{5}, \frac{|CE|}{|CA|} = \frac{4}{9}$. Vì $[BK]$ là tổng chiều cao của hình tam giác $BCE$ và $BCA$,
 

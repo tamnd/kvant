@@ -35,7 +35,7 @@ M.DIDIN, P.KOZHEVNIKOV
 
 Cho tam giác ABC và một điểm X trên mặt phẳng. Chúng ta ký hiệu hình chiếu của điểm X lên các cạnh BC, CA, AB lần lượt là $X_{a}, X_{b}, X_{c}$. Như đã biết, các điểm $X_{a}, X_{b}, X_{c}$ sẽ nằm trên cùng một đường thẳng khi và chỉ khi X nằm trên đường tròn ngoại tiếp tam giác ABC (trong trường hợp này, đường thẳng $X_{a} X_{b} X_{c}$ được gọi là đường thẳng Simson). Tiếp theo, giả sử X không nằm trên đường tròn (ABC), sau đó vẽ đường tròn đi qua các điểm $X_{a}, X_{b}, X_{c}$ - gọi là đường tròn bàn đạp của điểm X (Hình 1). Chúng ta biểu thị giao điểm thứ hai của đường tròn $X_{a} X_{b} X_{c}$ với các cạnh của tam giác là $Y_{a}, Y_{b}, Y_{c}$. Chúng ta gọi các đoạn bàn đạp của một điểm X là các đoạn $X_{a} Y_{a}, X_{b} Y_{b}, X_{c} Y_{c}$. Trong bài viết ngắn này chúng ta sẽ nghiên cứu xem đoạn bàn đạp nào sẽ đạt hiệu suất tối đa
 
-Cơm. 1
+Hình 1
 
 DOI: https://doi.org/10.4213/kvant20210603
 

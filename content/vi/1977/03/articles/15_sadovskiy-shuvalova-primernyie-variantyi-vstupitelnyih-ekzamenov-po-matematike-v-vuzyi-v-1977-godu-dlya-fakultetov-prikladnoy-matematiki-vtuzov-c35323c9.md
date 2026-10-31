@@ -26,7 +26,7 @@ translation_quality: draft
 
 ⟦folio 51⟧
 
-Cơm. 5.
+Hình 5.
 
 qua trọng tâm $O$ của nêm (Hình 5).
 Ngoài ra, chúng ta lưu ý rằng để quả bóng nảy lên theo phương ngang sau khi va chạm thì góc nêm $\alpha$ phải có giá trị sóng phụ thuộc vào khối lượng của quả bóng và nêm.

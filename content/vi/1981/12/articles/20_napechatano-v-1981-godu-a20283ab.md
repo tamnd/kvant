@@ -27,7 +27,7 @@ Phát triển khối
 (xem trang 53)
 Xem Hình 6.
 
-Cơm. 6.
+Hình 6.
 Gần như số nguyên tố
 (xem «Kvant» Số 9, trang 16)
 Đối với lời giải bài tập 1-6, chúng tôi sử dụng các khai triển sau:

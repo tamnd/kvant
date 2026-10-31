@@ -43,7 +43,7 @@ Trong thực tế, đối với lời giải bài toán Potenot, tương tự *)
 
 *) Tương tự đầu tiên lời giải được đề xuất vào năm 1616 bởi nhà chiêm tinh và toán học người Hà Lan W. Snegl ius (1580-1626), sau đó, vào năm 1692, nhà toán học người Pháp L. Potenot (1660-1732) đã đề xuất thành công hơn một lời giải cái này bài toán, cái sau cũng được gọi chính xác là cơ sở này bài toán anh ta.
 
-Cơm. 1. Hình 2.
+Hình 1. Hình 2.
 
 ⟦folio 31⟧
 
@@ -69,9 +69,9 @@ Nếu bảng tỷ lệ đặt tại điểm $M$ chỉ có hướng gần đúng 
 
 *) Phương án đầu tiên được đề xuất vào năm 1592 bởi Sisiutti người Mexico (Nhà khảo sát Canada, 1936).
 
-Cơm. 3.
+Hình 3.
 
-Cơm. 4.
+Hình 4.
 
 Nếu thước đo được đặt ở một điểm nhất định thì kích thước của tam giác sai số sẽ càng nhỏ. Vị trí này đã được I. Lehman (1765-1811) sử dụng trong đồ họa lời giải bài toán Potenot, đề xuất một phương pháp gần đúng sử dụng chụp hình nam giới trong thực tế.
 

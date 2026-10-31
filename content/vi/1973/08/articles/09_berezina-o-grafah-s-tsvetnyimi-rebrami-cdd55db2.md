@@ -46,7 +46,7 @@ Nhiệm vụ 1. Sáu người đi xe đạp tham gia một ván cờ được ch
 
 Lời giải. Bất kỳ hai người tham gia chuyến tham quan nào cũng luôn có một trong hai mối quan hệ với nhau: họ đã chơi một trò chơi với nhau hoặc chưa chơi. Chúng tôi chỉ định mỗi người tham gia một đỉnh của đồ thị. Nối các đỉnh theo cặp với các cạnh có hai màu
 
-Cơm. 1a. Cơm. 16. Hình. Thế kỷ 1
+Hình 1a. Hình 16. Hình. Thế kỷ 1
 
 ⟦folio 50⟧
 
@@ -93,7 +93,7 @@ Nhiệm vụ 4. Một nhóm thực vật đồng đẳng được coi là “đ�
 
 ⟦folio 52⟧
 
-Cơm. 8. Ngược lại, họ không hề biết nhau. Chứng minh rằng trong số những người tình cờ gặp nhau sẽ luôn có hai nhóm đồng nhất, mỗi nhóm gồm ba người, và không có ai thuộc nhóm thứ nhất được xếp vào nhóm thứ hai.
+Hình 8. Ngược lại, họ không hề biết nhau. Chứng minh rằng trong số những người tình cờ gặp nhau sẽ luôn có hai nhóm đồng nhất, mỗi nhóm gồm ba người, và không có ai thuộc nhóm thứ nhất được xếp vào nhóm thứ hai.
 
 Nói cách khác, chúng ta đang cố gắng chứng minh rằng trong một đồ thị có tám đỉnh và các cạnh cùng màu sẽ luôn có hai hình tam giác không nối nhau với các cạnh đồng nhất.
 

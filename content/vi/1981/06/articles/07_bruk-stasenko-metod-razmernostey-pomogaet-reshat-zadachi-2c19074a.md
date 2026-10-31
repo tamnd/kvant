@@ -154,7 +154,7 @@ Bài toán Rayleigh về dao động của một giọt hình cầu
 
 Hãy để một giọt chảy ra khỏi lỗ tròn. Hoàn toàn tự nhiên khi cho rằng ở trạng thái cân bằng, giọt nước phải có dạng hình cầu - năng lượng bề mặt là tối thiểu và bất kỳ hệ thống nào cũng có xu hướng chuyển sang trạng thái có năng lượng tối thiểu. Hơn nữa, những biến dạng rất nhỏ của giọt nước sẽ dẫn đến thực tế là các lực căng bề mặt sẽ “ép” nó dao động - hình dạng của giọt nước sẽ có tính tuần hoàn.
 
-Cơm. 2.
+Hình 2.
 
 thay đổi về thể chất. Chúng ta giả định rằng các dao động tiếp tục trong thời gian dài và độ suy giảm của chúng nhỏ. Chúng tôi quan tâm đến câu hỏi về tần suất (hoặc thời gian) của quá trình. Tần số này có thể phụ thuộc rất nhiều vào độ lớn của sức căng bề mặt của chất lỏng $\sigma$, mật độ của chất lỏng $\rho$ và bán kính giọt nước $r^*$. Chúng ta sẽ tìm sự phụ thuộc này dưới dạng
 
@@ -235,7 +235,7 @@ Hãy giới thiệu các đơn vị đo khoảng cách dọc và ngang riêng bi
 
 $$[g] = M_y c^{-2}, [v_0] = M_x c^{-1}, [H] = M_y, [x_0] = M_x.$$
 
-Cơm. 3.
+Hình 3.
 
 ⟦folio 18⟧
 

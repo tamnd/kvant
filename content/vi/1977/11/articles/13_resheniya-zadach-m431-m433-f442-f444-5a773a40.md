@@ -35,7 +35,7 @@ Gọi $a_1, \dots, a_n$ là độ dài đoạn thẳng của sợi dây, và $b_
 
 A. Altschiller
 
-Cơm. 1.
+Hình 1.
 
 M432. Có hình vuông hoàn hảo nào có tổng các chữ số bằng
 a) 1977;
@@ -71,7 +71,7 @@ BE, cạnh DE - đường chéo
 Phía AC và AE -
 đường chéo BD (Hình 2). Chứng minh rằng cạnh AB song song với đường chéo CE.
 
-Cơm. 2.
+Hình 2.
 
 Đặt $F = [AD] \cap [BE]$, $G = [AC] \cap [BE]$ và $K = [BD] \cap [AC]$ (xem Hình 2).
 
@@ -121,7 +121,7 @@ I. Klumova, E. Turkevich
 
 F442. Các quả bóng có khối lượng 1, 2, 3 và 4 ke được nối với nhau bằng các thanh nhẹ, mỗi thanh dài 1 m. Các thanh được buộc chặt sao cho tạo thành hình chữ thập (Hình 3). Hệ có thể quay tự do trong trục xung quanh đi qua điểm O vuông góc với mặt phẳng hình vẽ. Tìm biên độ dao động của hệ nếu tại thời điểm ban đầu thanh nối các quả bóng với các khối lượng $m_2=2$ke và $m_4=4$ke thẳng đứng và các quả bóng đứng yên.
 
-Cơm. 3.
+Hình 3.
 
 F443. Như bạn đã biết, quả địa cầu thực hiện một vòng quay hoàn toàn quanh trục của nó trong 23 giờ 56 phút 4 giây. Vì vậy, vào ban ngày, tất cả những chiếc đồng hồ có mặt số được chia thành 24 giờ đều phải hoạt động được gần 4 phút. Con số này gần như là một vòng quay hoàn chỉnh quanh trục của nó trong 23 giờ 56 phút 4 giây. Do đó, trên mỗi trái đất, người ta vẫn quan sát thấy rằng các ngôi sao trên bầu trời trong thời gian $T$ thực hiện một vòng hoàn chỉnh quanh trục của chúng trong 23 giờ 56 phút 4 giây, Mặt trời “quay quanh” Trái đất trong 24 giờ (và chính xác là 24 giờ, liên quan đến điều này, mặt số của tất cả các đồng hồ trên trái đất được chia ra).
 

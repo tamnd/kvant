@@ -73,7 +73,7 @@ Lưu ý rằng phương pháp do Torricelli chỉ ra để dựng các tiếp tu
 
 ⟦folio 24⟧
 
-Cơm. 1. Lốc xoáy.
+Hình 1. Lốc xoáy.
 
 Ở Pháp, cơn lốc xoáy độc lập với Gaul được phát hiện bởi Mersenne (1588-1648); ở đây nó được gọi là roulette hoặc trochoid. Các nhà khoa học vĩ đại nhất của Ý và Pháp (Torriceli, Vivanni (1622-1703), Fermat (1601-1665), Descartes (1596-1650), Roberval) đã giải quyết nhiều vấn đề khác nhau. bài toán về cơn lốc xoáy. Có lẽ Vivanni là người đã xây dựng đường tiếp tuyến đầu tiên của cơn lốc xoáy. Tuy nhiên, vì xoáy thuận được định nghĩa về mặt động học, nên việc tìm cách xây dựng một tiếp tuyến của nó thu được từ các thông điệp động học là điều đương nhiên. Điều này được thực hiện bởi Roberval và Torricelli.
 
@@ -83,7 +83,7 @@ $\cdot$ Chúng ta có $c = \frac{2\pi R}{T}$, trong đó $R$ là bán kính củ
 
 ⟦folio 25⟧
 
-Cơm. 4.
+Hình 4.
 
 (trong trường hợp này là hình thoi) chúng ta tìm được tốc độ cần thiết $\dot{r}(t)$, và do đó là tiếp tuyến với xoáy thuận.
 
@@ -99,7 +99,7 @@ Vì vậy, chúng ta thấy rằng nơi cơn bão hướng tới, tốc độ c�
 
 Pháp tuyến của đường cong tại điểm $A$ là đường thẳng đi qua $A$ vuông góc với tiếp tuyến tại điểm đó.
 
-Cơm. 5.
+Hình 5.
 
 Từ nhiệm vụ 3, pháp tuyến đến xoáy thuận đi qua điểm dưới của vòng tròn tạo ra (điểm $E$ trong Hình 3; góc $DKE$ là đường thẳng vì nó nằm trên đường kính).
 
@@ -107,7 +107,7 @@ Lốc xoáy rút ngắn
 
 Cho đến nay chúng ta mới chỉ đi theo một điểm ranh giới (cố định) của vòng tròn sản xuất; tuy nhiên, rõ ràng là các điểm biên khác sẽ di chuyển theo cùng một xoáy thuận, chỉ thẳng hàng dọc theo đường thẳng $l$ (Hình 5). Bây giờ chúng ta hãy theo dõi quỹ đạo của các điểm bên trong của đường tròn. Các đường cong thu được được gọi là lốc xoáy rút ngắn (Hình 6); chúng được đặc trưng bởi tỷ lệ $k = \frac{\rho}{R}$, trong đó $R$ là bán kính của vòng tròn tạo ra, $\rho$ là khoảng cách từ tâm
 
-Cơm. 6. Lốc xoáy rút ngắn.
+Hình 6. Lốc xoáy rút ngắn.
 
 ⟦folio 26⟧
 
@@ -179,7 +179,7 @@ Quỹ đạo chuyển động của các điểm bên trong (tương ứng, bên
 ⟦folio 29⟧
 
 ⟦figure⟧
-Cơm. 9. Epicycloid.
+Hình 9. Epicycloid.
 
 ⟦folio 30⟧
 
@@ -195,6 +195,6 @@ Bài toán 5'. Để các phép quay được mô tả ở bài toán 5 xảy ra
 
 Hãy để tôi nhấn mạnh trong phần kết luận rằng chúng tôi đã không đặt ra mục tiêu chứng minh một cách nghiêm ngặt tất cả các kết quả mà chúng tôi thu được từ các thông điệp động học. Trong một số trường hợp, điều này rất dễ thực hiện: lý luận cơ học được thay thế bằng lý luận toán học. Gần như tự động (đối với điều này, chỉ cần thay thế tốc độ bằng đạo hàm là đủ). Trong các trường hợp khác, khó tìm thấy "chất thay thế" hơn (ví dụ: khi xem xét chuyển động của các tấm hoặc lực thay đổi). Tuy nhiên, những cân nhắc thuần túy về mặt toán học không thể thay thế hoàn toàn cách giải thích máy móc, điều này trong nhiều trường hợp khiến người ta có thể thấy một đáp số đơn giản và màu đỏ.
 
-Cơm. 11. Epicyclops rút ngắn và kéo dài.
+Hình 11. Epicyclops rút ngắn và kéo dài.
 
 Bài toán 5. Cho điểm $A$ quay đều quanh điểm $O_1$, rồi lần lượt quay đều quanh điểm $O; |OO_1| = r_2, |O_1A| = r_1$. Để cả hai phép quay xảy ra theo chiều kim đồng hồ; $v_1$ và $v_2$ là giá trị của tốc độ tuyến tính. Chứng minh rằng chuyển động của điểm $A$ sẽ xảy ra dọc theo một loại bách khoa toàn thư nào đó (có thể rút ngắn hoặc mở rộng). Những mối quan hệ xác định bản chất của đường cong?

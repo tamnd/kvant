@@ -37,7 +37,7 @@ Tùy chọn 3
 
 3. Một vật có khối lượng $m$ được gắn vào hai đầu của hai lò xo có độ cứng không hấp dẫn $k_1$ và $k_2$ để nó có thể chuyển động dọc theo đoạn thẳng AB không ma sát (Hình 7). Đầu A của lò xo bên trái được giữ chặt. Trong khi giữ cơ thể tại chỗ, đầu B của lò xo bên phải được rút lại một khoảng $|BB_1| = a$ và đóng lại tại điểm $B_1$, sau đó cơ thể được thả ra. Tìm tốc độ cao nhất của cơ thể.
 
-Cơm. 7.
+Hình 7.
 
 Bài tập - điểm
 

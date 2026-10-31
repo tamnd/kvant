@@ -88,7 +88,7 @@ Vòng tròn cho trong điều kiện được vẽ bằng màu xanh lam (Hình 4
 
 ⟦figure⟧
 
-Cơm. 5
+Hình 5
 
 điểm F. Điều này suy ra trực tiếp từ thực tế là góc BDE dựa trên đường kính BE, và do đó là đường thẳng. Do đó, góc BDF cũng là góc vuông và vì góc nội tiếp BAF cùng chung một cung nên góc nội tiếp BAF cũng là góc vuông.
 
@@ -100,7 +100,7 @@ Cách 5. Đường tròn tùy ý cộng hai đường thẳng
 
 Như trong phương pháp trước, chúng ta muốn dựng điểm F đối xứng đường kính B trong đường tròn màu xanh lam đã cho. Nhưng chúng tôi sẽ làm điều đó hoàn toàn khác. Bước đầu tiên là lấy tâm C tùy ý và vẽ một đường tròn có bán kính CB (Hình 5). Nếu D là giao điểm thứ hai của nó với một đường tròn cho trước và E là điểm cuối thứ hai của đường kính BC thì đường thẳng DE sẽ cắt đường tròn màu xanh tại điểm mong muốn.
 
-Cơm. 6
+Hình 6
 
 ⟦folio 27⟧
 
@@ -114,11 +114,11 @@ Hãy để chúng tôi chứng minh rằng trong cách xây dựng này đúng l
 
 ⟦figure⟧
 
-Cơm. 8
+Hình 8
 
 ⟦figure⟧
 
-Cơm. 7
+Hình 7
 
 đi qua tâm B của đường tròn $Z_{2}$. Đường thẳng EF cắt $Z_{1}$ lần thứ hai tại điểm G. Chứng minh rằng GAB 90 q.
 
@@ -126,7 +126,7 @@ Bằng chứng. Giả sử GA cắt $Z_{3}$ lần thứ hai tại điểm H (Hì
 
 ⟦figure⟧
 
-Cơm. 9
+Hình 9
 
 Lưu ý rằng trong lời giải E–G–H–E đã cho là trường hợp đặc biệt của một quỹ đạo khép kín đi qua các điểm giao nhau theo cặp của các đường tròn đi qua một điểm (Hình 9).
 

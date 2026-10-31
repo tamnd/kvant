@@ -37,7 +37,7 @@ Nhìn qua vết nứt
 
 Trong bài toán này, bạn phải giải thích kết quả của một thí nghiệm mà chính bạn phải làm. Hình 1 cho thấy một mạng lưới các đường thẳng đứng và nằm ngang. Lấy một miếng bìa cứng, dùng dao cạo dọc theo nó và nhìn bức vẽ bằng một mắt qua một khe mỏng trên bìa cứng. Giữ khe bên cạnh mắt và đặt nó theo chiều ngang. Khoảng cách từ mắt đến hình vẽ phải là 30-40 cm. Bạn sẽ thấy rằng chỉ có những đường thẳng đứng được giữ nguyên trong mạng, còn những đường ngang đã biến mất. Họ đã đi đâu?
 
-Cơm. 1.
+Hình 1.
 
 Thí nghiệm của bạn có thất bại không? Bạn có thể nhìn thấy toàn bộ lưới tản nhiệt? Hoặc ngược lại, bạn không thấy gì cả? Trong trường hợp đầu tiên, khoảng cách của bạn quá rộng, trong trường hợp thứ hai, nó quá hẹp. Bạn cần mày mò một chút: thử uốn cong bìa cứng một chút để chiều rộng của khe hở thay đổi (tối ưu là khoảng 1-10 micron). Thí nghiệm hoạt động tốt hơn nếu lưới được chiếu sáng tốt và các cạnh của tấm bìa cứng hướng về mắt không được chiếu sáng chút nào.
 

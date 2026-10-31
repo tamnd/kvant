@@ -94,9 +94,9 @@ $$\vec{MK}_1 + \vec{MK}_2 + \vec{MK}_3 + \vec{MK}_4 = \frac{4}{3} \vec{M}O,$$
 
 $O$ của nó là tâm của khối đa diện.
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
 a) Vẽ các đường thẳng song song với các cạnh của tam giác đi qua điểm $M$ và chỉ định giao điểm của các đường này trên cạnh của tam giác, như trên Hình 1.
 
@@ -154,9 +154,9 @@ Thật thuận tiện để giải quyết bài toán từ cuối. Rõ ràng là
 
 lưới niyam). Liệu người thứ hai có thể đặt a) với k=1; 6)* với k=2; 8)* với một số k>2?
 
-Cơm. 1. Gọi vị trí cho cerraq đầu tiên a) cho k ≥1 tùy ý; 6) tại k=1. Các ô được hợp nhất bởi các khung không có màu đỏ cũng không có màu xanh. Một dấu hoa thị được đặt trên ô cuối cùng, được sơn bằng lông vũ.
+Hình 1. Gọi vị trí cho cerraq đầu tiên a) cho k ≥1 tùy ý; 6) tại k=1. Các ô được hợp nhất bởi các khung không có màu đỏ cũng không có màu xanh. Một dấu hoa thị được đặt trên ô cuối cùng, được sơn bằng lông vũ.
 
-Cơm. 2.
+Hình 2.
 
 Hãy giải thích K nên chơi như thế nào để có được những vị trí này.
 
@@ -218,9 +218,9 @@ F819. Ba vật thể nhỏ có khối lượng tỉ lệ 3:4:5 (khối lượng 
 
 F820. Quá trình A-B-C-A được thực hiện trên một mol khí đơn nguyên tử lý tưởng (Hình 1). Xác định hiệu suất của chu trình.
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
 Để lượng nhiệt tỏa ra lớn nhất phải thỏa mãn các điều kiện sau:
 

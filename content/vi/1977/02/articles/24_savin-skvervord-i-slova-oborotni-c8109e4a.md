@@ -46,7 +46,7 @@ A. Savin
 
 ⟦folio 64⟧
 
-Cơm. 2.
+Hình 2.
 
 9. $R = \frac{0,1}{P} \left( \frac{U}{1,1} \right)^2 = 0,2$ ồ.
 

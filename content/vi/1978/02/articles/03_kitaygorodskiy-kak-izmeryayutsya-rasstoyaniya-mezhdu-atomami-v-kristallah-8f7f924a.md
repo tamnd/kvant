@@ -59,7 +59,7 @@ $$\frac{1}{d^2} = \frac{h^2}{a^2} + \frac{k^2}{b^2}.$$
 
 ⟦folio 5⟧
 
-Cơm. 4.
+Hình 4.
 
 một công thức logic cho mạng ba chiều, ô của nó là một hình song song xiên.)
 
@@ -87,11 +87,11 @@ Trong trường hợp của chúng ta, mạng nghịch đảo là mạng có ô 
 
 *) 1 angstrom = 1 Å = 10⁻¹⁰ m.
 
-Cơm. 6.
+Hình 6.
 
 ⟦folio 7⟧
 
-Cơm. 7.
+Hình 7.
 
 bằng phương pháp chụp ảnh hoặc sử dụng máy ảnh khởi tạo, bộ đếm Geiger hoặc thiết bị khác ghi lại quá trình khởi tạo nghiên cứu.
 
@@ -99,7 +99,7 @@ Tất nhiên, bây giờ tất cả điều này được thực hiện tự đ�
 
 Một tờ giấy nằm trước mặt nhà nghiên cứu và anh ta bắt đầu xây dựng một mạng lưới đối ứng. Tôi đặt vị trí của pháp tuyến sang mặt phẳng phản xạ và vẽ giá trị $n/d$ trên đường pháp tuyến này, giá trị này được xác định duy nhất từ ​​phương trình Bragg. Khi công việc này hoàn thành (ngày xưa nó chiếm không gian, nhưng bây giờ máy đo nhiễu xạ tự động thực hiện nó nhanh hơn hàng trăm lần), nhà vật lý đã thu được hình ảnh của một mạng nghịch đảo. Từ quán bar của cô, anh ngay lập tức phát hiện ra
 
-Cơm. 8.
+Hình 8.
 
 số đo của tế bào tinh thể và mỗi phản xạ có thể được gán số vị trí mạng đối ứng, và do đó chỉ số $h$ và $k$ cũng như thứ tự phản xạ $n$.
 

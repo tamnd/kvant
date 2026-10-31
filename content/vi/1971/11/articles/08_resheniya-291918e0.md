@@ -78,9 +78,9 @@ Nhưng nếu $a = 1$, tức là nếu $f(x) = x + b$, thì $f$ bảo toàn kho�
 
 Bài toán M70 và lời giải của chúng ta đã được thiết lập lại mà không có bất kỳ thay đổi nào đối với trường hợp các đường thẳng không nằm trên một mặt phẳng mà nằm trong không gian (các đường ở giữa của chúng cũng có thể giao nhau). Trong trường hợp này, $p_k$ có nghĩa là phép chiếu lên đường $l_k$ trong không gian: một ánh xạ tương ứng với từng điểm mà đáy của đường vuông góc thả từ điểm này lên đường $l_k$.
 
-Cơm. 2. Ánh xạ gán mỗi điểm trên một đường thẳng hình chiếu của nó lên một đường thẳng khác được viết dưới dạng hàm tuyến tính.
+Hình 2. Ánh xạ gán mỗi điểm trên một đường thẳng hình chiếu của nó lên một đường thẳng khác được viết dưới dạng hàm tuyến tính.
 
-Cơm. 3. Điểm $X_1$, đối với $f(X_1) = X_1$, trên thực tế có thể dễ dàng tìm ra phương pháp xấp xỉ liên tiếp: bắt đầu từ một điểm tùy ý $X$, hạ đường vuông góc với các đường thẳng đã cho và tìm đường vuông góc liên tiếp sau mỗi “chu kỳ” của điểm $X' = f(X)$ $X'' = f(X')$, v.v. Không khó để chứng minh rằng các khoảng cách $|X - X_1|, |X' - X_1|, |X'' - X_1|$, ... tạo thành một cấp số nhân giảm vô hạn với giá trị $|a| < 1$, do đó bằng cách lặp lại việc xây dựng nhiều lần, chúng ta có thể tìm thấy vị trí của điểm $X_1$ với bất kỳ độ chính xác nào. Một phương pháp tương tự rất hữu ích để tìm các phương trình lời giải có dạng $f(X) = X$; nó sẽ được áp dụng khi hàm $f$ giảm khoảng cách giữa hai điểm bất kỳ. Trong trường hợp của chúng ta, khi $f$ là một hàm tuyến tính, có thể tìm thấy chính xác lời giải của phương trình $f(X) = X$ (hãy nghĩ về cách tìm điểm $X_1$ nếu biết $X, X'$ và $X''$).
+Hình 3. Điểm $X_1$, đối với $f(X_1) = X_1$, trên thực tế có thể dễ dàng tìm ra phương pháp xấp xỉ liên tiếp: bắt đầu từ một điểm tùy ý $X$, hạ đường vuông góc với các đường thẳng đã cho và tìm đường vuông góc liên tiếp sau mỗi “chu kỳ” của điểm $X' = f(X)$ $X'' = f(X')$, v.v. Không khó để chứng minh rằng các khoảng cách $|X - X_1|, |X' - X_1|, |X'' - X_1|$, ... tạo thành một cấp số nhân giảm vô hạn với giá trị $|a| < 1$, do đó bằng cách lặp lại việc xây dựng nhiều lần, chúng ta có thể tìm thấy vị trí của điểm $X_1$ với bất kỳ độ chính xác nào. Một phương pháp tương tự rất hữu ích để tìm các phương trình lời giải có dạng $f(X) = X$; nó sẽ được áp dụng khi hàm $f$ giảm khoảng cách giữa hai điểm bất kỳ. Trong trường hợp của chúng ta, khi $f$ là một hàm tuyến tính, có thể tìm thấy chính xác lời giải của phương trình $f(X) = X$ (hãy nghĩ về cách tìm điểm $X_1$ nếu biết $X, X'$ và $X''$).
 
 ⟦folio 28⟧
 
@@ -194,7 +194,7 @@ Như đã biết, 8 trong số 64 ô có thể được chọn theo $C_{64}^8=\f
 
 $^*$) Ví dụ, hãy xem bài viết của N. Ya. Vilenkin “Tổ hợp” trong «Kvant» Số 1, 1971.
 
-Cơm. 6. Hồng cầu là người chiến thắng; 8 ô chúng tôi đã chọn được đánh dấu bằng dấu chéo. Trong hình này $k=2$, $8-k=6$.
+Hình 6. Hồng cầu là người chiến thắng; 8 ô chúng tôi đã chọn được đánh dấu bằng dấu chéo. Trong hình này $k=2$, $8-k=6$.
 
 các phương pháp trong đó $k$ ô được chọn từ 8 ô được đánh dấu và $8-k$ từ 56 ô không được đánh dấu. Do đó nó bằng $C_{8}^k\cdot C_{56}^{8-k}$. Để tìm thời gian mong muốn $f_k$ - xác suất đoán chính xác $k$ ô, bạn cần nhân xác suất của một phương pháp với số này. chúng tôi nhận được
 
@@ -212,7 +212,7 @@ Chính thức là bài toán lời giải, nhưng từ quan điểm thực tế 
 
 ⟦folio 31⟧
 
-Cơm. 7. Các số $f_k$ được hiển thị ở đây – xác suất đoán $k$ ô ($k = 0, 1, 2, \dots, 8$). Tại $k \geq 4$ giá trị $f_k$ rất gần bằng 0.
+Hình 7. Các số $f_k$ được hiển thị ở đây – xác suất đoán $k$ ô ($k = 0, 1, 2, \dots, 8$). Tại $k \geq 4$ giá trị $f_k$ rất gần bằng 0.
 
 Trước tiên, hãy tính tỷ lệ của số thứ $(k+1)$ của các số này với số thứ $k$:
 
@@ -274,13 +274,13 @@ Khối lập phương chịu tác dụng của trọng lực P = mg, phản lự
 
 Chúng ta hãy xem xét các thành phần của lực dọc theo mặt phẳng. Xuống bên cạnh
 
-Cơm. 8.
+Hình 8.
 
 độ dốc xuống nhanh nhất (trục y) chịu ảnh hưởng của thành phần trọng lực F = mg sinα; theo hướng ngược với tốc độ, lực ma sát F_tp = kN = kmg cosα tác dụng. Theo điều kiện, k = tanα nên F_tp = tanα kmg cosα = mg sinα = F.
 
 Do đó, bài toán có nghĩa là xem xét chuyển động của khối lập phương dưới tác dụng của hai lực có độ lớn bằng nhau. Một trong số chúng luôn hướng theo tốc độ của khối lập phương, cái còn lại dọc theo trục y.
 
-Cơm. 9.
+Hình 9.
 
 Giả sử tại một thời điểm nào đó tốc độ v tạo một góc φ với trục y (Hình 9). Gia tốc tiếp tuyến (hướng tiếp tuyến với quỹ đạo) a của hình lập phương được xác định bởi lực F_tp = F và hình chiếu F cosφ của lực F về cùng một phương:
 
@@ -364,7 +364,7 @@ Tìm điều kiện để không có dòng điện chạy qua điện trở $r$ 
 
 Vì vậy, nó sẽ không vượt qua ngưỡng kháng cự $r$ nếu hiệu điện thế giữa các điểm $A$ và $B$ bằng không. Chúng ta coi thế năng của điểm $F$ bằng 0. thì thế năng của điểm $C$ bằng $E_1$, và thế năng của điểm $D$ bằng $E_2$. Dòng điện $I = \frac{E_1}{r_1 + r_3}$ chạy qua điện trở $r_1$,
 
-Cơm. 12.
+Hình 12.
 
 và do đó độ sụt điện áp trên điện trở $r_1$ bằng $U_1 = Ir_1 = E_1 \frac{r_1}{r_1 + r_3}$, và điện thế của điểm $A$ bằng
 

@@ -50,24 +50,24 @@ GIẢI PHÁP
 
 ⟦figure⟧
 
-Cơm. 5
+Hình 5
 
 biến thành chính nó khi quay quanh $O на^{120\infty} ).$ Bài toán của việc xây dựng một hình tam giác bằng cách sử dụng những dữ liệu này đã biết (ví dụ: xem số 2495 trên trang web zadachi.mccme.ru). Thứ ba lời giải. Dựng một đường tròn tâm O bằng đường tròn nội tiếp một tam giác đều cạnh a, vẽ các tiếp tuyến với nó từ A, B, C (Hình 6). Vì họ
 
 ⟦figure⟧
 
-Cơm. 3
+Hình 3
 
 ⟦figure⟧
 
-Cơm. 6
+Hình 6
 
 biến đổi lẫn nhau khi tam giác quay quanh $O на^{120\infty}$ thì tại giao điểm chúng tạo thành một tam giác đều. Thứ tư lời giải. Chúng ta hãy dựng một tam giác đều ở đâu đó cạnh cạnh a và nó
 
 ⟦figure⟧
 
-Cơm. 4
+Hình 4
 
 – AKC = – AOC $= 120 \infty$. Hãy dựng một tam giác đều có tâm O và đỉnh K, nó sẽ là tam giác mong muốn. Thứ hai lời giải. Điểm K cũng có thể có được từ các xét sau: trong tam giác ACK ta biết – $K =^{120} \infty$, cạnh AC = b, hiệu các cạnh AK – KC = a (giả sử rằng chúng ta đang xây dựng một cấu trúc
 
-Cơm. 7
+Hình 7

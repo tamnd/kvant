@@ -26,7 +26,7 @@ translation_quality: draft
 
 ⟦folio 43⟧
 
-Cơm. 1.
+Hình 1.
 
 $H = 5$ m, nếu nằm ngang nó đã bay được quãng đường $s = 10$ m.
 
@@ -42,9 +42,9 @@ $H = 5$ m, nếu nằm ngang nó đã bay được quãng đường $s = 10$ m.
 
 7. Một ấm điện có hai cuộn dây. Khi bạn bật một trong số chúng, nước trong ấm sẽ sôi sau $t_1 = 1500$ giây, khi bạn bật cái còn lại - sau $t_2 = 3000$ giây. Sẽ mất bao lâu để nước trong ấm sôi nếu các cuộn dây được bật: a) mắc nối tiếp; b) song song?
 
-Cơm. 2.
+Hình 2.
 
-Cơm. 3.
+Hình 3.
 
 8. Một electron, được gia tốc bởi hiệu điện thế $U = 1000$ V, biến thành một từ trường đều vuông góc với hướng chuyển động của nó. Cảm ứng trường $|\vec{B}| = 1,19 \times 10^{-3}$ T. Tìm bán kính cong của quỹ đạo electron và chu kỳ quay của nó quanh vòng tròn.
 
@@ -110,7 +110,7 @@ Tùy chọn 1
 
 1. Định luật phản xạ ánh sáng. Xây dựng ảnh trong gương cầu. Gương tập trung.
 
-Cơm. 1.
+Hình 1.
 
 2. Để chuẩn bị cho các phi hành gia khỏi tình trạng quá tải, máy ly tâm đặc biệt được sử dụng. Ở phần nào trong quá trình quay của máy ly tâm có bán kính $R = 5$ m, lưng ghế ép lên phi công với cùng một lực xảy ra khi tên lửa tăng tốc $|\vec{a}| = 3g$?
 

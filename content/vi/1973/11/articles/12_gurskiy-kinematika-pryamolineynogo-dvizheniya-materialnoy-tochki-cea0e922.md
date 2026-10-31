@@ -165,6 +165,6 @@ Trong thực tế
 
 6. Một vật được ném lên cao với vận tốc 20m/s. Độ cao của điểm mà vật đi qua hai lần trong khoảng thời gian 3 s là bao nhiêu? Bỏ qua sức cản của không khí.
 
-Cơm. 3.
+Hình 3.
 
 7. Biểu đồ gia tốc theo thời gian được đưa ra (Hình 3). Xây dựng đồ thị biểu diễn sự phụ thuộc của độ lớn chuyển động vào tốc độ.

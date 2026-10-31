@@ -100,7 +100,7 @@ Bài toán 2. Một máy làm lạnh lý tưởng có một bình chứa nước
 
 ⟦folio 52⟧
 
-Cơm. 3.
+Hình 3.
 
 nhiệt dung riêng bay hơi của nước $L = 2260$ kJ/kg.
 

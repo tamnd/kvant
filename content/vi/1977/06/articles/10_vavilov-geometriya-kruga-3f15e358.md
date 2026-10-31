@@ -106,7 +106,7 @@ Bài toán 4. Hai họ đường x=const và y=const song song với các đư�
 
 Nhiều bạn đã nghe (hoặc đọc) về hình học Lobachevsky, nó khác với hình học thông thường (Euclide) trên mặt phẳng ở chỗ nó không thỏa mãn tiên đề song song.
 
-Cơm. 4.
+Hình 4.
 
 ⟦folio 41⟧
 
@@ -124,17 +124,17 @@ Chúng ta hãy dựng ba tam giác mới thu được từ tam giác Δ đối x
 
 ⟦folio 42⟧
 
-Cơm. 9.
+Hình 9.
 
-Cơm. 10.
+Hình 10.
 
-Cơm. 11.
+Hình 11.
 
 Sau đó, mỗi tam giác trong số ba tam giác mới thu được sẽ được hiển thị đối xứng với hai cạnh không phải là cạnh của tam giác Δ (Hình 9); chúng ta có sáu hình tam giác “thế hệ thứ hai”.
 
 Sau khi thực hiện bốn bước xây dựng tương tự, chúng ta thu được một phần của hình mô-đun như trong Hình 10.
 
-Cơm. 12.
+Hình 12.
 
 Bài tập
 

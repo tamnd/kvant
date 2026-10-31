@@ -73,7 +73,7 @@ $$y = e^{-E/kT}.$$
 
 (Người đọc nên tin tưởng vào công thức này - việc rút ra nó ít nhiều nhất quán sẽ khiến chúng ta lạc lối.) Dạng định tính của sự phụ thuộc của đại lượng y vào nhiệt độ T đối với các giá trị khác nhau
 
-Cơm. 2. Tỷ lệ phân tử hoạt động ở các năng lượng kích hoạt khác nhau ($E_1 < E_2 < E_3$) tùy thuộc vào nhiệt độ.
+Hình 2. Tỷ lệ phân tử hoạt động ở các năng lượng kích hoạt khác nhau ($E_1 < E_2 < E_3$) tùy thuộc vào nhiệt độ.
 
 ⟦folio 13⟧
 
@@ -113,13 +113,13 @@ Do chức năng giải phóng nhiệt không bị giam giữ mạnh nên có th�
 
 ⟦folio 14⟧
 
-Cơm. 3. Sự phụ thuộc của nhiệt tỏa ra $P_+$ và dòng nhiệt $P_-$ vào nhiệt độ.
+Hình 3. Sự phụ thuộc của nhiệt tỏa ra $P_+$ và dòng nhiệt $P_-$ vào nhiệt độ.
 
 một gốc; ở một số nhiệt độ môi trường xung quanh (ví dụ: $T_0^{(2)}$) có thể có ba điểm giao nhau. Đẳng thức $P_+(T)$ và $P_-(T)$ tương ứng với điều kiện cân bằng nhiệt (đứng yên) - toàn bộ năng lượng giải phóng sẽ bị loại khỏi hệ ra môi trường. Bằng cách suy luận đơn giản (bài toán 2), chúng ta có thể chỉ ra rằng các điểm giao nhau thuộc loại $a$ (đường cong dòng nhiệt dốc hơn đường cong tỏa nhiệt) là ổn định và các điểm thuộc loại $b$ không ổn định.
 
 Bây giờ chúng ta hãy xem xét hành vi của hệ thống phản ứng theo thời gian. Để tại thời điểm ban đầu $t=0$ chất đó có nhiệt độ $T_0^{(1)}$ bằng nhiệt độ môi trường (điểm $A$ trong Hình 3). Vì lúc này $P_+ > P_-$, cơ thể bắt đầu nóng lên. Trên hình 4, quá trình này sẽ tương ứng với chuyển động của hệ dọc theo đường cong 1. Có thể thấy, nhiệt độ tăng chậm dần theo thời gian. Điều này là do sự chênh lệch $P_+ - P_-$ giảm trong quá trình gia nhiệt, quyết định sự tăng nhiệt độ. Quá trình gia nhiệt sẽ kết thúc tại điểm $B$ (xem Hình 3), ổn định. Sự phụ thuộc tương tự (đường cong 2 trong Hình 4) của nhiệt độ vào thời gian sẽ dẫn đến nhiệt độ ban đầu cao hơn $T_0^{(2)}$. Hệ thống được làm nóng đến nhiệt độ cuối cùng cao hơn một chút so với trường hợp đầu tiên và sẽ đạt đến trạng thái ổn định.
 
-Cơm. 4. Sự thay đổi nhiệt độ theo thời gian đối với chế độ dưới tới hạn (đường cong 1 và 2) và siêu tới hạn (đường cong 3).
+Hình 4. Sự thay đổi nhiệt độ theo thời gian đối với chế độ dưới tới hạn (đường cong 1 và 2) và siêu tới hạn (đường cong 3).
 
 Bằng cách tăng nhiệt độ môi trường xung quanh (và theo đó, nhiệt độ ban đầu của chất), chúng ta sẽ đạt được một chế độ gia nhiệt khác về chất lượng. Chúng ta hãy xem quá trình gia nhiệt diễn ra như thế nào ở nhiệt độ ban đầu $T_0^{(3)}$ (đường cong 3 trong Hình 4). Khi bắt đầu quá trình, sự phụ thuộc $T(t)$ tương tự như hai trường hợp trước: chênh lệch $P_+ - P_-$ giảm dần theo thời gian nên sự tăng nhiệt độ được thay thế. Hệ thống đi qua một khe hẹp giữa đường cong tỏa nhiệt và dòng nhiệt trong một thời gian rất dài - vào sự phụ thuộc vào nhiệt độ $T(t)$ điều này tương ứng với một phần gần như nằm ngang. Sau khi chênh lệch $P_+ - P_-$ vượt qua mức tối thiểu, nhiệt độ bắt đầu tăng mạnh (nhanh hơn theo cấp số nhân). Một quá trình tự giải phóng năng lượng sẽ diễn ra nhanh hơn. Sự tự tăng tốc nhiệt của phản ứng hóa học tỏa nhiệt này được gọi là vụ nổ nhiệt.
 

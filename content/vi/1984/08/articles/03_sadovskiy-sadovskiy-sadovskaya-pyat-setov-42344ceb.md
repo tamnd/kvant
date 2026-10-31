@@ -48,7 +48,7 @@ Nếu một bên sau khi ghi điểm đầu tiên, ghi điểm thứ hai cho đ�
 *) Trò chơi quần vợt lần đầu tiên được mô tả trong văn học Nga bởi L.N. Tolstoy trong tiểu thuyết “Anna Karenina”.
 **) Chúng tôi không dừng lại ở cái gọi là “trò chơi đôi”, trong đó hai người chơi.
 
-Cơm. 1.
+Hình 1.
 
 điểm nếu máy chủ thắng (thua) rất nhiều sau khi tỷ số “chính xác”; “trò chơi” của máy chủ, nếu máy chủ thắng ngay sau điểm “nhiều hơn”; “trò chơi” của người nhận, nếu có số điểm “ít hơn” thì máy chủ sẽ mất thêm một điểm. Diễn biến có thể có của điểm số trong trò chơi có thể được theo dõi trong Hình 2.
 
@@ -152,7 +152,7 @@ Ai sẽ thắng set này?
 
 Bây giờ, bằng cách sử dụng sơ đồ tương tự, sử dụng Hình 3 cùng với Hình 2, người đọc có thể đếm độc lập
 
-Cơm. 4.
+Hình 4.
 
 xác định xác suất thắng một set (partini) của tác giả (hoặc độc giả). Trong Hình 3, các ô hình chữ nhật cho biết số lượng trò chơi trong bộ (“trạng thái”); xác suất chiến thắng trò chơi của tác giả là $p' = 0,736$, người đọc - $q' = 0,264$ ($p'$ và $q'$ là “xác suất chuyển đổi” cho “chuỗi Markov” mới; giống như $p, q$ trong chuỗi trước, chúng không những không phụ thuộc vào nền mà chúng chỉ đơn giản là không đổi). Bạn nên nhận được
 

@@ -47,9 +47,9 @@ $$S = 3 \cdot \left(\frac{2}{3}\right)^2 S - 3 \left(\frac{1}{3}\right)^2 S.$$
 
 Bây giờ chúng ta hãy thực hiện một cách xây dựng tương tự cho paramid thể tích tam giác $V$ (Hình 2). Sẽ có bốn paramid lớn (một ở mỗi đỉnh), âm lượng của mỗi paramid sẽ là $(2/3)^3 V$ (Hình 2 hiển thị hai trong số bốn paramid này). Mỗi hai paramid như vậy giao nhau dọc theo một paramid khối lượng nhỏ $(1/3)^3 V$, tổng cộng sẽ có sáu paramid như vậy (một ở mỗi cạnh)
 
-Cơm. 1.
+Hình 1.
 
-Cơm. 2.
+Hình 2.
 
 $V \neq 0$, rồi $26=27$. Nếu người đọc tin rằng $26 \neq 27$, thì anh ta phải chấp nhận rằng thể tích của một tham số tam giác tùy ý bằng 0.
 

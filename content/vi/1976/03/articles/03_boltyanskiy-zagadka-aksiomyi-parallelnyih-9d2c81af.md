@@ -90,10 +90,10 @@ Tại một thành phố, một hiệp hội các nhà sưu tập đã được 
 Thật thuận tiện khi đặt chúng trên một vòng tròn (Hình 1) sao cho sau 37 “tiếp theo” có số 1. Bây giờ chúng ta sẽ gọi các cặp số là “dòng” và chỉ những cặp có các số nằm cạnh nhau hoặc nối tiếp nhau trên vòng tròn này. Ví dụ: “dòng” sẽ là các cặp $(1;3)$, $(4;5)$, $(37;2)$; nhưng cặp $(3;6)$ sẽ không phải là một “đường thẳng” - các số ở quá xa nhau.
 
 ⟦figure⟧
-Cơm. 1
+Hình 1
 
 ⟦figure⟧
-Cơm. 2
+Hình 2
 
 - Tôi nghĩ tôi hiểu anh muốn gì. Trong mô hình này, như bạn đã nói, có 37 “người”, tức là một số lẻ (tiên đề 1). Mỗi dòng kết nối chính xác hai người (tiên đề 2), vì một cặp bao gồm hai số. Ngoài ra, rõ ràng trong mỗi “người” có đúng bốn dòng (tiên đề 3); điều này có thể được giải thích bằng sơ đồ trong Hình 2. Điều này có nghĩa là trong mô hình này tất cả các tiên đề 1, 2, 3 đều thỏa mãn. Tuy nhiên, tại sao điều này lại đảm bảo tính nhất quán của các tiên đề đang được xem xét?
 
@@ -116,10 +116,10 @@ Cơm. 2
 - Điều này đã là bất thường rồi. Chúng tôi lấy những đường cong rõ ràng và tuyên bố chúng là “thẳng”. Nhưng tại sao lại thế này?
 
 ⟦figure⟧
-Cơm. 3
+Hình 3
 
 ⟦figure⟧
-Cơm. 4
+Hình 4
 
 — Ví dụ: hãy vẽ một “đường thẳng” đi qua hai điểm $A$ và $B$. Làm thế nào để làm điều này?
 
@@ -136,10 +136,10 @@ Cơm. 4
 — Bây giờ hãy nhìn vào Hình 5. Nó hiển thị một hình tam giác $ABC$. Để tìm tổng các góc của tam giác này, chúng ta có thể lấy tổng các góc đã đánh dấu tại điểm $O$. Và các góc này hợp lại tạo thành một góc thẳng. Điều này có nghĩa là trong mô hình này *tổng các góc của một tam giác là* $2d$.
 
 ⟦figure⟧
-Cơm. 5
+Hình 5
 
 ⟦figure⟧
-Cơm. 6
+Hình 6
 
 - Tuyệt vời!
 
@@ -160,7 +160,7 @@ Cơm. 6
 — Theo những gì tôi biết, anh ấy đã xây dựng một hình học trong đó có thể vẽ nhiều đường thẳng song song với một đường thẳng cho trước qua một điểm (Hình 7).
 
 ⟦figure⟧
-Cơm. 7
+Hình 7
 
 - Phải. Và mặc dù tất cả lý luận của lobachevsky đều hoàn hảo về mặt logic, nhưng trong suốt cuộc đời, ý tưởng của ông chưa bao giờ được công nhận. Kết luận quá bất thường.
 
@@ -169,10 +169,10 @@ Cơm. 7
 - Ví dụ, các đường thẳng song song sẽ xích lại gần nhau hơn (Hình 8). Bạn thậm chí có thể xây dựng một “tam giác vô hạn”, các cạnh của chúng song song theo cặp (Hình 9). Và mặc dù Hình 9 biểu diễn những đường cong, nhưng trong hình học của Lobachevsky có những đường thẳng nằm chính xác như thế này. Hơn nữa, tổng các góc của một tam giác luôn nhỏ hơn $2d$, v.v., v.v.
 
 ⟦figure⟧
-Cơm. 8
+Hình 8
 
 ⟦figure⟧
-Cơm. 9
+Hình 9
 
 - Nhưng điều này không hẳn là đúng!!!
 
@@ -205,23 +205,23 @@ Cơm. 9
 - Không. Ví dụ, đây là cách xây dựng mô hình do nhà toán học xuất sắc người Pháp Henri Poincaré tìm ra. Trong mô hình này, chỉ những điểm nằm bên trong một số vòng tròn $K$ mới được xem xét. “Đường thẳng” được định nghĩa như sau: một đường tròn (hoặc đường thẳng) được lấy cắt chu vi của đường tròn $K$ một góc vuông và phần của đường tròn này nằm bên trong $K$ được khai báo là “đường thẳng”. Hình 10 cho thấy một số “đường thẳng” trong mô hình này.
 
 ⟦figure⟧
-Cơm. 10
+Hình 10
 
 - Mô hình này hơi giống mô hình hình học Euclid mà chúng ta đã nói trước đó. Ở đó, các vòng tròn cũng được coi là “đường thẳng”.
 
 ⟦figure⟧
-Cơm. 11
+Hình 11
 
 ⟦figure⟧
-Cơm. 12
+Hình 12
 
 - Và xin lưu ý, trong mô hình này cũng có thể chứng minh được chỉ có một “đường thẳng” đi qua hai điểm. Bạn có thể xem xét các hình tam giác trong mô hình này (Hình 11). Và Hình 12 cho thấy rằng thông qua một điểm nằm ngoài “đường” $a$ người ta có thể vẽ *vô số* “đường” không giao nhau với “đường” $a$. Hai trong số chúng (những điểm tiếp xúc với đường thẳng $a$ trên ranh giới của đường tròn $K$, tức là như thể tại “điểm ở vô cực”) song song với đường thẳng $a$. Chà, Hình 13 cho thấy một “tam giác vô hạn”, các cạnh của nó song song theo cặp. Nói tóm lại, đây chính xác là mô hình hình học lobachevsky. Tất nhiên, tôi chưa mô tả đầy đủ mô hình này: cần chỉ ra cách đo độ dài, xác định những hình nào được coi là bằng nhau (đồng dư), v.v. Nhưng nhìn chung, mô hình được xây dựng chính xác như thế này.
 
 ⟦figure⟧
-Cơm. 13
+Hình 13
 
 ⟦figure⟧
-Cơm. 14
+Hình 14
 
 —Có các nhà khoa học khác mà bạn kể tên đã xây dựng mô hình tương tự không?
 

@@ -55,7 +55,7 @@ $$1,57...\approx \frac{\pi}{2}\leq\lambda\leq\sqrt{3}\approx1,73...$$
 
 ⟦folio 3⟧
 
-Cơm. 1.
+Hình 1.
 
 dán từ đầu đến cuối) và tôi sẽ cố gắng giải thích tại sao không thể tính λ chính xác hơn.
 
@@ -69,7 +69,7 @@ Các nhà toán học gọi các bề mặt có thể được tạo ra từ m�
 
 ⟦folio 4⟧
 
-Cơm. 5. Hình 6.
+Hình 5. Hình 6.
 
 Có lẽ; các nhà toán học gọi đây là "sự phân loại" (đáp số do Leonhard Euler). Tôi sẽ không trình bày ở đây lý thuyết chung về các bề mặt có thể phát triển được: bất kỳ lý thuyết tổng quát nào cũng nhàm chán. Tôi sẽ chỉ đưa ra một số tính chất của các bề mặt có thể phát triển được cần thiết cho phần tiếp theo. Định nghĩa trực quan của chúng tôi không cho phép chúng tôi chứng minh chúng, vì vậy chúng tôi sẽ phải coi những tính chất này là sự thật thực nghiệm (lấy một tờ giấy và đảm bảo rằng chúng là sự thật).
 
@@ -101,11 +101,11 @@ Hãy lấy bất kỳ máy phát điện nào trong gia đình chúng ta, chẳn
 
 ⟦folio 6⟧
 
-Cơm. 9.
+Hình 9.
 
-Cơm. 10.
+Hình 10.
 
-Cơm. 11.
+Hình 11.
 
 Chúng có chiều dài bằng nhau, song song và hướng theo cùng một hướng.
 
@@ -153,7 +153,7 @@ Vì vậy, nếu chúng ta muốn (đối với các băng không có tự giao)
 
 ⟦folio 9⟧
 
-Cơm. 18.
+Hình 18.
 
 theo một nghĩa nào đó, nó không đơn giản hơn ba chiều. Thật không may, tôi không thể biện minh cho những gì tôi vừa nói ở đây, vì vậy tôi yêu cầu bạn hãy tin lời tôi.
 

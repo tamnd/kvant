@@ -38,11 +38,11 @@ TỪ lý do trên, suy ra rằng nếu $m$ và $n$ có cùng số chẵn lẻ v�
 
 A. Savin
 
-Cơm. 1.
+Hình 1.
 
 M362. Chúng ta chia một hàng của tứ giác lồi $ABCD$ thành ba phần bằng nhau và nối các đoạn tương ứng với các điểm trên các hàng liên kết với nhau. Chứng minh rằng phần xa “trung bình” của tứ giác nhỏ hơn phần xa của tứ giác $ABCD$ 9 lần.
 
-Cơm. 2.
+Hình 2.
 
 Chúng ta sẽ gọi các ô ở cột hàng dọc và các ô ở hàng hàng ngang. Lưu ý rằng sau khi gạch bỏ một cột (hàng), các ô còn lại có thể được coi là nằm trong một hình chữ nhật trong đó số cột (tương ứng là hàng) ít hơn một. Từ Hình 1, rõ ràng là tùy thuộc vào cột (hoặc hàng) nào bị gạch bỏ, do đó chúng ta có thể giả định rằng đây là một trong các cột (hoặc hàng) bên ngoài.
 
@@ -161,7 +161,7 @@ Chiếc nhẫn được đặt theo chiều dọc
 
 nhưng chất lỏng cũng được lấp đầy, ngoại trừ một khu vực nhỏ gần điểm A (Hình 8), trong đó có đường dẫn phía trên. Bong bóng bắt đầu nổi. Đây là vận tốc của người đó lúc đi qua điểm B. Độ dài quãng đường là l. Bỏ qua áp suất của nước tác dụng lên thành bình.
 
-Cơm. 8.
+Hình 8.
 
 F371. Chúng ta bắn một viên đạn đại bác có khối lượng M = 200 kg với một viên đạn đại bác có khối lượng m = 20 kg nghiêng một góc α = 30° so với phương ngang. Điện tích của bột là r = 0,5 kg *), nhiệt độ của nó là q = 1000 kcal. Vào thời điểm viên đạn rời khỏi khẩu pháo, Nam tước Monhausen nhìn vào nó. Khối lượng của nó là μ = 70 kg. Viên đạn đại bác với Monhausen sẽ rơi gần đến mức nào với cùng một lượng thuốc súng? Bạn cần tăng lượng thuốc súng bao nhiêu để Monhausen bắn trúng đúng vị trí mà đạn đại bác đã bắn trúng trước emodo? K. n. d. khả năng chấp nhận bắn bằng η = 10%. Giả sử súng nằm trên một bề mặt mềm dẻo, trên đó súng có thể trượt không ma sát.
 
@@ -261,9 +261,9 @@ Khi thay đổi khoảng cách từ predmeta đến hệ thống (đối tượn
 
 ⟦folio 54⟧
 
-Cơm. 9.
+Hình 9.
 
-Cơm. 10.
+Hình 10.
 
 Có thể thấy rằng nếu tia $AB$ sau khi đi qua hệ thấu kính mà truyền song song với trục quang thì kích thước của ảnh sẽ không phụ thuộc vào khoảng cách từ vật đến hệ (Hình 10). Nhưng điều này chỉ có thể xảy ra trong trường hợp tia $AB$, đi qua $\varGamma_1$, cắt tiêu điểm của thấu kính $\varGamma_2$, tức là khi tiêu điểm bên phải của thấu kính thứ nhất trùng với tiêu điểm bên trái của thấu kính thứ hai. Như vậy,
 

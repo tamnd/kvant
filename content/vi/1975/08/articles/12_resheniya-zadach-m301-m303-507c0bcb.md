@@ -27,17 +27,17 @@ translation_quality: draft
 theo hướng thuận nó bằng 0 và theo hướng ngược lại nó lớn vô cùng).
 (lớp 9-10)
 
-Cơm. 2.
+Hình 2.
 
 F351. Khi một quả bóng đá chạm nhẹ vào tường, nó sẽ bị biến dạng, như trong Hình 3. Trong trường hợp này, độ biến dạng $x$ của quả bóng nhỏ hơn nhiều so với bán kính của nó, và chúng ta có thể, với một xấp xỉ tốt, giả sử rằng áp suất $p$ của tác động lên quả bóng không thay đổi trong quá trình va chạm.
 
 Bỏ qua độ đàn hồi của lốp, ước tính thời gian quả bóng va vào tường. Tiến hành tính toán số cho trường hợp khối lượng của quả bóng là $m=0,5$ kg, áp suất trong nó là $p=2$ atm và bán kính là $R=12,5$ cm. (10 ô)
 
-Cơm. 3.
+Hình 3.
 
 F352. Để điều chỉnh điện áp trên tải, một mạch điện được lắp ráp như hình 4. Điện trở của tải và điện trở điều chỉnh bằng $R$. Tải được kết nối với điện trở polyvin. Điện áp $U_{bx}$ ở đầu vào của mạch tăng gấp đôi. Làm thế nào để thay đổi vị trí của điện trở sao cho điện áp trên tải không đổi? (8 lớp)
 
-Cơm. 4.
+Hình 4.
 
 Lời giải bài toán
 M301—M303
@@ -78,7 +78,7 @@ A. L. Toom, N. B. Vasiliev
 
 M302. Gọi $O$ là giao điểm của các đường chéo của ranh giới $ABCD$ (($AB$)||(CD)), $A'$ và $B'$ các điểm đối xứng với các điểm $A$ và $B$ đối với phân giác của nút $AOB$. Hãy để chúng tôi chứng minh rằng $\triangle ACA' \cong \triangle BDB'$ (Hình 4).
 
-Cơm. 4.
+Hình 4.
 
 M303. Hình chữ nhật $300 \times 1000$ được cắt thành hình vuông $1 \times 1$ và các ký hiệu giống hệt nhau được đặt ở khoảng 30 góc của hình vuông. Hãy để chúng tôi chứng minh rằng có thể chọn hai nhóm đực giống không giao nhau - mỗi nhóm không quá 10 con - sao cho trọng tâm của chúng trùng nhau.
 
