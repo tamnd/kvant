@@ -10,16 +10,16 @@ authors:
 rubric: praktikum-abiturienta
 rubric_sub: Практикум абитуриента
 page_first: 52
-page_last: 56
-page_labels: 50-54
+page_last: 57
+page_labels: 50-55
 tag: YENX
 lang: vi
 source: kvant_digital
 extraction: vision
-content_sha256: d682bf17bd2396e5c113312d367cf52dc9a9ae0c0ad84c9b6d35ecb2f18ec9ab
+content_sha256: f2d2a651d8fa0417f54581bf1e71c3785680d79d33dc278a39b5b072b5b8e847
 prompt_sha256: draft-1
 translated_from: content/ru/1972/03/articles/15_margulis-radunskiy-uchites-rabotat-s-logarifmami-fc3b830c.md
-source_content_sha256: 74254246adfedc0364dd1a2a0f4cb49193d018b6df43250a60d923a4b45cc7e1
+source_content_sha256: 746a80a55cbfb2ad5cdcc9777c72ae441553aa8c434e9707c8cbe2fc3432e429
 translation_model: draft
 translation_run: vi-draft-2026-10-31
 translation_quality: draft
@@ -249,3 +249,40 @@ $$\log_{n}(n+1) > \log_{n+1}(n+2).$$
 Ví dụ, từ đây suy ra rằng
 
 $$\log_{2}3 > \log_{3}4 > \dots > \log_{k+1}(k+2).$$
+
+⟦folio 55⟧
+
+Lễ tân 13. (MSU, Khoa Ngữ văn, 1969). Chứng minh rằng $\log_2 3 > \log_3 5$ mà không cần dùng bảng.
+
+Lời giải. Phương pháp được sử dụng trong hai ví dụ trước không thể được áp dụng trực tiếp (đánh dấu vào phần này). Vì vậy, chúng tôi sẽ làm điều này: $\log_2 3 = \log_8 27$;
+
+$$\log_3 5 = \log_9 25, \text{ а } \frac{27}{8} > \frac{25}{9}.$$
+
+Tiếp theo, $\log_8 \frac{27}{8} > \log_9 \frac{27}{8} > \log_9 \frac{25}{9}$ hoặc $\log_8 27 - 1 > \log_9 25 - 1$, do đó $\log_2 3 > \log_3 5$.
+
+Bài tập
+
+Rút gọn các biểu thức sau:
+
+1. $\frac{1}{5} \left( 2a^{\log_2 b} + 3b^{\log \sqrt{2}} \sqrt{a} \right)$.
+2. $\left[ 1 + 2^{\frac{\lg a}{\lg \sqrt{2}}} - a^{1 + \frac{1}{\log_4 a^2}} \right]^{\frac{1}{2}} - 3 \log_3 2 \times \log_4 3 \cdot \log_5 4 \cdot \log_6 5 \cdot \log_7 6 \cdot \log_8 7$.
+3. $\sqrt{\log_a b + \log_b a + 2 \cdot \log_{ab} a} \cdot \log_a^2 b$.
+
+Tính toán không dùng bảng:
+
+4. $2^{\sqrt{\log_2 3}} - 3^{\sqrt{\log_3 2}}$.
+5. (MSU, Khoa Tâm lý học, 1971).
+$$\frac{\log_3 135}{\log_{15} 3} - \frac{\log_3 5}{\log_{405} 3}$$.
+6. Tính $\log_6 32$ nếu $\log_12 2 = a$.
+7. Tính $\log_5 0,18$ nếu $\lg 2 = a$, $\lg 3 = b$.
+8. Tính $\log_{25} 24$ nếu $\log_8 15 = \alpha$, $\log_{12} 18 = \beta$.
+Không cần dùng bảng, hãy xác định cái nào lớn hơn:
+
+9. $\log_2 3$ hay $\log \frac{1}{4}$?
+10. $\log_4 5$ hay $\log \frac{1}{16}$?
+11. $\log_5 7$ hay $\log_8 3$?
+12. $\log_2 3$ hay $\log_5 8$?
+13. (MSU, cơ chế, 1971). $3 \log_{16} 1862 + \log_{16} 1866$ hay $\log_2 1863$?
+14. (MSU, Khoa Hóa học, 1969). $\log_{189} 1323$ hay $\log_6 147$?
+15. (MSU, Khoa Tâm lý học, 1969). Chứng minh rằng $\log_3 16 > \log_16 729$ mà không cần dùng bảng.
+16. (MSU, Khoa Ngữ văn, 1969). Chứng minh rằng $\log_5 14 > \log_7 18$ mà không cần dùng bảng.
