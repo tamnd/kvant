@@ -1,0 +1,37 @@
+---
+id: 1973-12-k-teorii-ohotyi-kak-poymat-lva-v-pustyine-d70492ab
+issue: kvant_1973_12
+year: 1973
+number: "12"
+title: 狩猎理论（如何在沙漠中捕捉狮子）
+rubric: smes
+page_first: 53
+page_last: 53
+page_labels: "51"
+tag: QK93
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: bb42071f2764f84d65ee6aefe852f22c07f19867d35747fc379325144b846f37
+prompt_sha256: draft-1
+translated_from: content/ru/1973/12/articles/18_k-teorii-ohotyi-kak-poymat-lva-v-pustyine-d70492ab.md
+source_content_sha256: d3da62ad28b59948ea09290030eda061676b8851d6ba19229f963442107a4234
+translation_model: draft
+translation_run: zh-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 51⟧
+
+狩猎理论
+（如何在荒野中捕捉狮子）
+
+1. 我们用一条从南到南的荒线穿过它。狮子位于村庄的东部或西部。为了清楚起见，我们假设它位于西部。我们用一条从西向东的线切割它。狮子座要么在北方，要么在南方。为了定义起见，我们假设它位于南部，我们用一条从北到南的线切割它。让我们假设这个过程是无限的，每一步之后都会沿着分界线影响一个强大的格子。连续获得的区域面积趋于零，这样狮子最终发现自己被一个周长任意小的格子包围。
+
+2. 我们注意到撒哈拉沙漠中的野生狮子是难以观察到的威严。因此，在撒哈拉沙漠中观察到的所有狮子都是驯服的。我们把捕捉驯服的狮子留给读者作为一项独立的练习。
+
+3. 无论如何，狮子本人最终被关在笼子里的概率是正的、非零的。坐下来等待。
+
+4. 我们将在空隙中拉伸一层半透膜，除了狮子之外，一切都可以通过。
+
+5. 让我们用慢中子照射荒地。狮子体内会产生放射性，狮子就会开始分解。如果你等待的时间足够长，狮子将无法做出任何抵抗。
