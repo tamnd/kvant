@@ -1,0 +1,86 @@
+---
+id: 1984-4-kondratev-nazarov-leningradskiy-gosudarstvennyiy-universitet-imeni-a-a-zhdanova-df9b6eeb
+issue: kvant_1984_4
+year: 1984
+number: "4"
+title: Đại học bang Leningrad được đặt theo tên của A. A. Zhdanov
+authors:
+  - Кондратьев А. С.
+  - Назаров С. А.
+rubric: ekzamenatsionnye-materialy
+rubric_sub: Экзаменационные материалы
+page_first: 55
+page_last: 55
+page_labels: "53"
+tag: G2KK
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: f0bd2e9be66568f01c9a1f623843f77b6d686f33ec5f8738d57f9bed2d5c22df
+prompt_sha256: draft-1
+translated_from: content/ru/1984/04/articles/20_kondratev-nazarov-leningradskiy-gosudarstvennyiy-universitet-imeni-a-a-zhdanova-df9b6eeb.md
+source_content_sha256: 964d10cebf4ee59fc73c21d49b1bb2fc61095a88ab4adbbb43d37d99ddbd14c1
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 53⟧
+
+Dưới đây là tài liệu được xuất bản từ kỳ thi tuyển sinh đại học năm 1983.
+
+Đại học bang Leningrad được đặt theo tên của A. A. Zhdanov
+
+Toán học
+Bài thi viết
+Tùy chọn 1
+(Khoa Toán-Cơ và Toán ứng dụng - Quy trình điều khiển)
+1. Cho một hình tứ giác đều và một hình cầu, diện tích bề mặt của chúng tỉ lệ s:1. Có thể đặt một quả bóng vào một khối nếu a) s = 2√3, 6) s = 3?
+2. Giải phương trình tan 7x = sin 4x + tan 3x.
+3. Đường chéo góc tù α của một hình thang bằng nhau chia cạnh lớn a theo tỷ lệ 1:2. Diện tích của hình thang là gì?
+4. Giải hệ phương trình
+
+$$\begin{cases}
+8 \sqrt{\frac{1}{4} (3 \log_8 x + \log_5 (y+1))^3} - \\
+-7 \sqrt{\frac{1}{4} (\log_8 x^3 + 3 \log_5 (y+1))} = 1, \\
+11 \sqrt[4]{\log_8 x^3 \cdot \log_5 (y+1)} - \\
+-5 \sqrt[5]{\log_8 x \cdot \log_5 (y+1)} = 6.
+\end{cases}$$
+
+3. Tìm tất cả a mà bất kỳ bất đẳng thức lời giải nào
+$$|1+a|x-ax^2 \geqslant \frac{9}{16} \left| \frac{7}{16} a+1 \right| - \frac{1}{8}$$
+
+cũng thỏa mãn bất đẳng thức
+$$1-tg^2(ax) < -\frac{1}{\cos(ax)}$$
+
+Tùy chọn 2
+(Khoa Vật lý)
+1. Một chiếc thuyền đi từ điểm B đến điểm A, nằm ở vị trí cao hơn trên sông, đồng thời một chiếc thuyền đi từ A đến B. Thuyền đến B, quay đầu lại và trôi về A rồi quay đầu, v.v. Vận tốc của thuyền và thuyền khi nước yên lặng lần lượt là v và 14v/209. Khi thuyền đi được nửa quãng đường từ A đến B thì có một chiếc thuyền thứ hai đi từ A đến B về phía A. Xác định vận tốc của dòng sông nếu tại thời điểm chiếc thuyền thứ hai đi được nửa đường thì chiếc thuyền đó đã tới B tám lần.
+
+2. Góc α nhọn, góc β tù và
+$$\cos \alpha = \frac{2}{\sqrt{13}}, \ tg^2 \beta = 51 - 10\sqrt{26}.$$
+
+Chứng minh rằng α + 2β = 9π/4.
+3. Chọn tập hợp các điểm trên mặt phẳng có tọa độ x và y thỏa mãn bất đẳng thức $a^{y+3}|x| < 1 + 2a^{-y-3}|x|$, trong đó a là số dương.
+4. Giải phương trình
+$$\frac{6}{7} \sqrt{1+tg^2 y} + 4 \cos^2 \frac{y}{2} = 5.$$
+5. Bậc và đáy giếng có độ sâu H được gia cố bằng lớp bê tông dày h. Mặt cắt ban đầu của giếng là một tam giác đều cạnh a. Tìm khối lượng bê tông đã sử dụng.
+
+Tùy chọn 3
+(Khoa Tâm lý học; Khoa Điều khiển học kinh tế, Khoa Kinh tế; Khoa Ngôn ngữ học Toán, Khoa Ngữ văn)
+
+1. Một ô tô rời thành phố M đến thành phố L và sau t giờ một ô tô rời từ L đến M. Họ gặp nhau T giờ sau. Tìm thời gian vận chuyển của mỗi ô tô nếu tốc độ của chúng không đổi và chúng đến đích cùng một lúc.
+2. Giải phương trình
+$$\frac{4}{25^{-x}+8+16 \cdot 25^x} - \frac{5^x}{1+4 \cdot 25^x} + \frac{\sqrt{15}}{4} = \frac{\sqrt{23}}{5} + \frac{1}{100}.$$
+3. Một tam giác đều nội tiếp trong hai đường tròn đồng tâm có bán kính 1 và 2. Tìm diện tích mà chúng ta chia hình tròn lớn bằng các đường thẳng chứa các cạnh của tam giác.
+4. Giải bất đẳng thức
+$$\frac{1}{(32 \sin^8 x)} + 4 \sin^6 x \leqslant 1 - \sin^4 x.$$
+5. Giải hệ phương trình
+$$\begin{cases} \log |y| x^2 + \log_x^2 |y| = 2, \\ x^4 + yx^2 = 10+y. \end{cases}$$
+
+Vật lý
+Bài thi viết
+Khoa Vật lý
+Tùy chọn 1
+1. Viên đạn đập vào một quả bóng đứng yên dọc theo một đường thẳng, đi qua tâm của nó. Các đặc tính của quả bóng và viên đạn được điều chỉnh sao cho có thể xảy ra ba kết quả: a) viên đạn xuyên qua quả bóng hoàn toàn, thực tế mà không làm thay đổi khối lượng của nó; b) bị kẹt trong bóng; b) Bị bóng bật trở lại. Xác định chính xác những gì được quan sát trong thí nghiệm, trong đó tốc độ của viên đạn khi va chạm đã giảm một nửa độ lớn và tỷ lệ của vòng báo hiệu được chọn so với mạng năng lượng điều khiển học ban đầu bằng 8.
+2. Trong một hình trụ kín thẳng đứng có hai pít-tông có thể chuyển động mà không cần ba pít-tông (Hình 1). Các phần A, B và C của bình cách nhau bằng pít-tông chứa cùng số mol khí lý tưởng. Ở một nhiệt độ nào đó, như nhau trong toàn bộ hình trụ, tỷ số thể tích bằng $V_A:V_B:V_C = 5:3:1$. Khi đó nhiệt độ trong xi lanh thay đổi và tỷ lệ thể tích mới là $V_A':V_B':V_C' = x:2:1$. Xác định giá trị của x. Nhiệt độ thay đổi bao nhiêu lần?

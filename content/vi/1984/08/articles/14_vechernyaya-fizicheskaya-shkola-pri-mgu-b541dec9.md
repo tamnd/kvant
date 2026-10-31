@@ -1,0 +1,51 @@
+---
+id: 1984-8-vechernyaya-fizicheskaya-shkola-pri-mgu-b541dec9
+issue: kvant_1984_8
+year: 1984
+number: "8"
+title: Trường thể chất buổi tối tại Đại học quốc gia Moscow
+rubric: informatsiya
+rubric_sub: Информация
+page_first: 62
+page_last: 62
+page_labels: "60"
+tag: UA1E
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: f3e8452a34857a968baca780434f241a22742c04a192bcb56b8ea09dc8f116f4
+prompt_sha256: draft-1
+translated_from: content/ru/1984/08/articles/14_vechernyaya-fizicheskaya-shkola-pri-mgu-b541dec9.md
+source_content_sha256: b3f58d0953e75f12d643cd34ae40abeb45c15c369e9adf0ecead2c605ff27065
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 60⟧
+
+quá, cuối cùng đã cân bằng? Hãy chỉ ra tất cả những điểm như vậy.
+
+6. Một quả bóng được ném xuống dưới với tốc độ $v$, nảy ra khỏi sàn và chạm tới trần của phòng tập. Cậu bé nên ném quả bóng xuống từ độ cao $h$ với tốc độ bao nhiêu để quả bóng chạm tới trần nhà lần nữa?
+
+7. Một vận động viên thực hiện động tác “quay lưng hai lần rưỡi” lao xuống nước từ bục cao 10 mét. Lúc kết thúc vòng quay thứ hai thì nó ở độ cao bao nhiêu so với mặt nước?
+
+8. Thanh được làm từ một số lượng lớn các đoạn xen kẽ có cùng chiều dài, nhưng từ hai vật liệu khác nhau. Ở một vật liệu, tốc độ âm thanh là $v_1$, ở vật liệu kia là $v_2$. Tìm tốc độ trung bình của âm thanh trong thanh.
+
+Cơm. 2
+
+9. Một động cơ đang phát triển công suất $N$ hoạt động với hiệu suất $n$. Xác định tốc độ dòng nước thứ hai để làm mát động cơ nếu nó có nhiệt độ $T_0$ ở lối vào hệ thống làm mát và $T$ ở đầu ra. Nhiệt dung riêng của nước $c$.
+
+10. Các xi lanh có tiết diện $S_1$ và $S_2$ được nối với nhau bằng một ống và được bao bọc bởi các piston, được liên kết chắc chắn với nhau (Hình 2). Áp suất $p_0$ trong xi lanh bằng áp suất khí quyển và thể tích của nó là $V_0$. Piston sẽ di chuyển bao xa nếu áp suất khí quyển thay đổi và bằng $p$? Nhiệt độ được coi là không đổi.
+
+11. Bộ phận chính của phong vũ biểu aneron là một hộp kim loại để bơm không khí ra ngoài. Khi áp suất khí quyển thay đổi, nắp hộp bị biến dạng và độ dịch chuyển của nó được truyền tới mũi tên con trỏ. Tại sao bạn cần bơm không khí ra khỏi hộp? Có vẻ như một hộp kín chứa không khí cũng sẽ phản ứng với những thay đổi của áp suất khí quyển, và việc chế tạo phong vũ biểu sẽ được đơn giản hóa rất nhiều nếu không khí không được bơm ra ngoài.
+
+Trường thể chất buổi tối tại Đại học quốc gia Moscow
+
+Trường Vật lý buổi tối (VPS) thuộc Khoa Vật lý, Đại học quốc gia Mátxcơva thông báo tuyển sinh lớp 8, 9 và 10 cho năm học tới.
+
+Mục tiêu chính của VFS là giúp học sinh nghiên cứu vật lý sâu hơn trong khuôn khổ chương trình giảng dạy ở trường. Các lớp học tại trường được thực hiện dưới hình thức các bài giảng hai tuần một lần và các buổi hội thảo hàng ngày. Ngoài ra, sinh viên sẽ được tham quan các phòng thí nghiệm khoa học của khoa và làm quen với những hướng đi chính của vật lý hiện đại qua bài giảng của các nhà khoa học hàng đầu. Các lớp tự chọn môn toán được tổ chức cho học sinh lớp 10. Những người hoàn thành khóa đào tạo sẽ nhận được chứng chỉ hoàn thành VFS.
+
+Việc xét tuyển vào VFS dựa trên kết quả của đơn đăng ký, sẽ được tổ chức bắt đầu từ ngày 26 tháng 9. Thanh niên đi làm được ghi danh mà không cần cạnh tranh. Để đăng ký vào trường, bạn phải đích thân điền đơn đăng ký tại Ủy ban Vật lý Komsomol của Đại học Tổng hợp Moscow (kèm theo hai điểm yếu tố có kích thước $3\times 4$ cm). Đơn đăng ký có thể được nộp từ ngày 5 tháng 9 đến ngày 24 tháng 9 hàng ngày, trừ phiên, từ 16 đến 18 giờ.
+
+Địa chỉ VFS: 119899, ​​​​Moscow, Lenin Hills, Đại học quốc gia Moscow, Khoa Vật lý, VFS. Điện thoại: 139-26-56.

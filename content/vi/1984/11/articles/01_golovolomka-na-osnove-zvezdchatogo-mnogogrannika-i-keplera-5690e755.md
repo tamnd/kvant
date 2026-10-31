@@ -1,0 +1,30 @@
+---
+id: 1984-11-golovolomka-na-osnove-zvezdchatogo-mnogogrannika-i-keplera-5690e755
+issue: kvant_1984_11
+year: 1984
+number: "11"
+title: '[Câu đố dựa trên khối đa diện hình sao của J. Kepler]'
+rubric: igry-i-golovolomki
+rubric_sub: Игры и головоломки
+page_first: 68
+page_last: 68
+tag: KA33
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 46c96296368eef4ba5d0767d96e656dd302a35bfc227675af6d36880fbdbfa0a
+prompt_sha256: draft-1
+translated_from: content/ru/1984/11/articles/01_golovolomka-na-osnove-zvezdchatogo-mnogogrannika-i-keplera-5690e755.md
+source_content_sha256: f8071d71f1f9106ea4372962cce996e269f4af9c9593975924944674fa53340c
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+TRÒ CHƠI VÀ CÂU ĐỐ
+
+Ngôi sao 24 mặt màu xanh lam, như trong hình bên phải, được nhà thiên văn học và toán học Judan Kepler phát hiện vào năm 1619. Ông gọi nó là Stella octangula (sao bát giác) do 24 mặt của nó nằm trên 8 mặt phẳng. Nhìn kỹ, bạn có thể thấy rằng bát giác Stella của Kepler là sự kết hợp của hai tứ diện đều giao nhau, các đỉnh của chúng tạo thành một khối lập phương.
+
+Khối đa diện ngôi sao của Kepler có thể được cắt thành bốn phần bằng nhau (ở bên trái trong hình) và biến thành một câu đố thú vị. Mỗi bộ phận được cắt từ bìa cứng mỏng hoặc giấy dày theo mẫu trong hình bên dưới và dán lại với nhau. Câu đố là lắp ráp một khối đa diện Kepler từ bốn mảnh như vậy. Igor Glitskov từ Obkinsk đã gửi nó cho chúng tôi.

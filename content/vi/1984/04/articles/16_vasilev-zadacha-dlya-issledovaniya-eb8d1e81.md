@@ -1,0 +1,55 @@
+---
+id: 1984-4-vasilev-zadacha-dlya-issledovaniya-eb8d1e81
+issue: kvant_1984_4
+year: 1984
+number: "4"
+title: Bài toán cho nghiên cứu
+authors:
+  - Васильев Н. Б.
+rubric: smes
+page_first: 51
+page_last: 51
+page_labels: "49"
+tag: SRMR
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 2e8ba0060a3101f1175fdea334d249a758ea3c990525512bdd3102680bbe8b2b
+prompt_sha256: draft-1
+translated_from: content/ru/1984/04/articles/16_vasilev-zadacha-dlya-issledovaniya-eb8d1e81.md
+source_content_sha256: 4b6c310703b6465cf1a716d0ae23677360a1ab9e359e81d119a0c600310f076b
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 49⟧
+
+Vì vậy nhiệt lượng của khí
+$$C = C_V + \frac{p}{v} \frac{\Delta V}{\Delta T} = C_V + R/2.$$
+Bài tập
+1. Một mol khí đơn nguyên tử lý tưởng từ trạng thái có nhiệt độ ban đầu $T_1 = 300$ K được nung nóng đẳng tích và sau đó được làm lạnh đẳng áp đến nhiệt độ cuối cùng nhất định. Tìm nhiệt độ này nếu biết lượng sản phẩm nhiệt là $Q = 1500$. J cung cấp cho isochore có giá trị tuyệt đối bằng lượng nhiệt sản phẩm được lấy ra khỏi khí trong phần đẳng áp.
+2. Một mol khí lý tưởng hoàn thành một chu trình khép kín (Hình 5). Đầu tiên, khí là đẳng áp nên thể tích của nó tăng: $V_2/V_1 = n$. Sau đó nó nguội đi nhanh chóng để áp suất của nó giảm: $p_2/p_1 = m$. Cuối cùng, khí adnabate trở về trạng thái ban đầu. Sử dụng những dữ liệu này, hãy xác định công của khí trong phần adnabate nếu biết nhiệt độ ban đầu $T_1$ và nhiệt độ mol $C_V$ của nó.
+3. Một khối khí lý tưởng đơn nguyên tử nằm trong một khối bọt đặt trong buồng chân không. Tìm nhiệt dung riêng (mỗi mol) của khí khi đun nóng. Độ dày của màng và sự phụ thuộc của hệ số căng bề mặt của chất lỏng vào nhiệt độ là những tuyên bố. Gợi ý. Áp suất khí $p$ liên quan đến bán kính bong bóng $r$ và hệ số sức căng bề mặt $\sigma$ theo công thức $p = 4\sigma/r$.
+
+Vấn đề
+cho nghiên cứu
+
+phân số tiếp tục
+và phân đôi
+Trình tự nghiêm khắc
+
+Hãy xem Bảng 1. Ở dòng trên cùng, dòng “không” có hai phân số $\frac{0}{1}$ và $\frac{1}{1}$.
+
+Để có được bất kỳ dòng tiếp theo nào, bạn cần lấy dòng trước đó và chèn một phân số có giá trị bằng tổng của các tử số và mẫu số bằng tổng các mẫu số của chúng vào giữa mỗi chiều dài của chúng. Ở dòng thứ $n$ sẽ có các số $2^n + 1$, chúng ta sẽ biểu thị bằng $a_{n,0}, a_{n,1}, \dots, a_{n,2^n}$.
+
+Điều tò mò là trong quá trình biên soạn bảng 1, bảng 2 giống nhau sẽ xuất hiện lặp đi lặp lại dưới dạng phân số, được hình thành bởi mẫu số của các phân số trong bảng 1 (bảng 2 được gọi là “dãy Stern phân đôi”). Bảng 1 có một đặc tính đáng chú ý mà tôi đã nói đến trong bài viết “Phân số gần” của V. N. Baguten («Kvant», 1975, số 8):
+
+mọi phân số tối giản $\frac{m}{n}$,
+$0 < \frac{m}{n} < 1$ xuất hiện trong bảng này không muộn hơn dòng thứ $(n-1)$ và xuất hiện đúng một lần trong tất cả các dòng tiếp theo. Như độc giả A. Odes của chúng tôi đã lưu ý,
+
+Sky, bằng cách sử dụng các phân số liên tục, bạn có thể nhận được công thức rõ ràng cho số $a_{n,p}$; chứng minh rằng mỗi số $p \leq 2^n$ có thể được biểu diễn dưới dạng hoàn thành các dạng tổng quát rút gọn cho các phân số liên tục (ví dụ, xem «Kvant», 1983, số 5, trang 18).
+
+Ngoài ra, hãy cố gắng tìm ra dòng nào và đặt phân số $\frac{m}{n}$ xuất hiện đầu tiên trong bảng 1. Hãy viết cho chúng tôi về các mẫu và công thức thú vị khác mà bạn tìm thấy trong bảng này.
+
+N. B. Vasiliev

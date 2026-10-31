@@ -1,0 +1,59 @@
+---
+id: 1984-4-vot-takie-myisli-0c5b2b34
+issue: kvant_1984_4
+year: 1984
+number: "4"
+title: Đây là những suy nghĩ
+rubric: kvant-ulybaetsya
+rubric_sub: «Квант» улыбается
+page_first: 47
+page_last: 47
+tag: EI5A
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 7f4717d3dd94881674d2861c1cc77e0f6dff2ef164e55cb1c1429475fd826a22
+prompt_sha256: draft-1
+translated_from: content/ru/1984/04/articles/14_vot-takie-myisli-0c5b2b34.md
+source_content_sha256: e6650a5542853540fb493561f35d9cfbe265f642bc41784e0873474bca00c7da
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+NỤ CƯỜI SỐ LƯỢNG
+
+Đây là những suy nghĩ
+
+(trong số đáp số độc giả cho số 530
+"Câu lạc bộ tò mò")
+
+Tôi không biết “solenond” là gì, nhưng tôi nghĩ rằng một phản ứng kim loại lớn đã xảy ra với cùng một Solenond này dưới tác dụng của dòng điện và do dòng điện thấp, không phải với tất cả kim loại mà chỉ với một phần, tức là với bề mặt.
+
+(H. R., Tselinograd)
+
+Phong trào hiện tại là sự di chuyển một chiều từ nguồn đến người tiêu dùng. Khi có dòng điện chạy qua kim loại sẽ sinh ra nhiệt năng. Nhưng làm thế nào để cô ấy vượt qua được hầu hết? Từ dưới lên trên! Điều này có nghĩa là năng lượng nhiệt từ chuyển động của dòng điện giảm dần lên. Với sự gia tăng năng lượng nhiệt, chuyển động tăng tốc và sẽ đến lúc một trạng thái kết tụ của kim loại được thay thế bằng trạng thái khác, đó là tinh thể - chất lỏng. Trọng lực sẽ làm cho thép bay ra ngoài.
+
+(O.P., Mozdok)
+
+Tôi nghĩ rằng nếu đánh nhau nổ ra ngay tại chỗ thì người hoặc bất kỳ ai khác sẽ ở giữa để không bị văng ra khỏi chỗ. Các nguyên tử trong chất dẫn điện cũng hoạt động theo cách tương tự, nhưng nếu bạn thêm năng lượng vào các ống dẫn thì chúng sẽ tan chảy.
+
+(N. N., Perm)
+
+Khi vật thể, trong trường hợp này là một vật thể lớn, nóng lên, phạm vi dao động sẽ tăng lên nhiều đến mức trật tự sắp xếp các bộ phận trong tinh thể sẽ bị phá vỡ. Nhưng Solenond khi bắt đầu hoạt động sẽ phát ra sóng từ và những sóng từ này sẽ duy trì trật tự của các bộ phận trong tinh thể chỉ theo quỹ đạo tròn và trong một số lớp nhất định (điều này phụ thuộc vào Solenond). Nhưng điều này sẽ không ảnh hưởng đến những con voi bên trong, và do đó kim loại sẽ chảy ra khỏi con voi lớn hơn. Tất cả những gì còn lại là kim loại mà Solenond tác động lên, tức là thành phẩm - một chiếc ống.
+
+(P.K., Baku)
+
+Với hợp đồng nhóm, công việc được hoàn thành trong 150 phút.
+
+(KR, Ritsa)
+
+Thôi, để người thứ mười xếp thành phẩm vào hộp.
+
+(P. M., vùng Dzhambul)
+
+Kết quả là một mạng lưới các con đường, từ đó thấy rõ có rất nhiều thứ không cần thiết. Vì vậy tốt nhất là nên tạo một khu vực giữa các doanh nghiệp và trải nhựa hết.
+
+(AP riêng)

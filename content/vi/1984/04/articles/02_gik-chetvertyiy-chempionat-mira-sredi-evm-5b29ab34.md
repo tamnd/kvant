@@ -1,0 +1,58 @@
+---
+id: 1984-4-gik-chetvertyiy-chempionat-mira-sredi-evm-5b29ab34
+issue: kvant_1984_4
+year: 1984
+number: "4"
+title: Giải vô địch máy tính thế giới lần thứ tư
+authors:
+  - Гик Е. Я.
+rubric: shahmatnaya-stranichka
+rubric_sub: Шахматы
+page_first: 67
+page_last: 67
+tag: OKMB
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: ba20e2f13fa85c32089c6026ecbcbbaafcdf9ab5e491e990f7f08f3824d4fbf2
+prompt_sha256: draft-1
+translated_from: content/ru/1984/04/articles/02_gik-chetvertyiy-chempionat-mira-sredi-evm-5b29ab34.md
+source_content_sha256: c3f35d8e79f24638d71c5a6406aea8ad3f03ab0980a602794ae75573d46c628e
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+GIẢI VÔ ĐỊCH MÁY TÍNH THẾ GIỚI LẦN THỨ TƯ
+
+Trong «Kvant» chúng ta đã nói về ba chức vô địch thế giới giữa các máy tính. Lần thứ tư diễn ra vào mùa thu năm ngoái ở New York. Giống như tất cả những lần trước, nó được tổ chức theo hệ thống Thụy Sĩ; 22 chương trình đã tranh chức vô địch ở vòng thứ năm. Hai nhà vô địch thế giới đầu tiên - “Kanisa” và “Cờ vua” - đã không tham gia cuộc thi lần này.
+
+Người chiến thắng là chương trình “Krayblitz” (Mỹ). Nhà vô địch mới thi đấu trên cỗ máy mạnh nhất với tốc độ hơn 100 triệu phép tính mỗi giây đã ghi được 4,5 điểm. “Bebe” (Mỹ) và “Evit” (Canada) kém nửa điểm. Trước vòng chung kết, Krablitz hơn nhà vô địch thế giới trước đó Bell nửa điểm, và mọi chuyện đã được định đoạt trong trận chiến giữa họ. Trận đấu này hóa ra là thú vị nhất trong giải đấu.
+
+"Chuông" - "Crablitz"
+Phòng thủ Sicilia
+1.e4 c5 2.c3 d5 3.ed Q:d5
+4. Nf3 e6 5.d4 Kf6 6.Cd3 Kc6 7.0—0 Ce7 8.Ce3 0—0 9.dc.
+Sau 9...C:c5 10.C:h7+, 11.F:d5 và 12.C:c5 Trắng sẽ chỉ còn lại một con tốt. Điều gây tò mò là trên cơ sở tùy chọn này, Bách khoa toàn thư về ghi nợ cờ vua thực hiện chuyển đổi quân đen. Tuy nhiên, “Crayblitz” tìm được nước đi trung gian mạnh mẽ với quân Xe.
+9...Jld8 10.Kd4 C:c5 11.c4 Q:d6 12.Kc6 bc 13.C:c5 Q:d3. Nhờ cải tiến mới, Đen đã có được một ván cờ hay, và đã đến lúc Trắng phải lo lắng về sự bình đẳng. 14.F:d3 R:d3 15.Kc3 Ca6 16.Jad1 C:c4 17.J:d3 C:d3 18.Jld1 Cc4 19.C:a7 phù hợp với một trận hòa sát nút, nhưng mặt khác, trong tình hình thể thao hiện tại, chỉ có một chiến thắng mới loại bỏ Bell, và nó phải tránh sự đơn giản hóa. Tuy nhiên, những sắc thái tâm lý như vậy khó có thể học được
+đang lái chiếc xe đó. 14.Fa4 Ke4 15.Bb6. Một cách khéo léo để giải quyết vấn đề phát triển phía nữ hoàng. Tuy nhiên, con voi trắng hóa ra lại đang thả rông. 15...Jld7 16.Ca5. Không phải lúc này, cũng như bất kỳ lúc nào khác, không thể chiến đấu với sb do cuộc tấn công của giám mục vào b7. 16...B7. 16...Jlb8 năng động hơn, và nỗi lo của White về việc phối hợp quân cờ của mình vẫn chưa kết thúc. 17.Kc3 Kc5 18.Fb4 Qd4.
+
+17.Kd2 đáng được quan tâm! Trận hòa cuối cùng 17...K:d2 18.C:d2 sắp đến gần (18...Q:d2? 19.Jad1), và trong trường hợp 17...Kc5 18.B4 Qd4 19.Kf3! Người da đen lẽ ra đã phải suy nghĩ về các phương trình. Ở f3 hiệp sĩ tốt hơn nhiều so với ở c3. 19.Jad1 Kd3 20.Fa4 Qg4. Một lần nữa Đen lại không chính xác. Thông minh hơn nhiều là 20...c5. Mây đang khô trên tọa độ trắng. 21.c5! Qf5. 21...Kf4 không nguy hiểm do 22.g3. 22.b4! Cuối cùng, phe nữ hoàng của White đã ổn định, và Bishop a5, ở vị trí hơi lúng túng, tham gia gián tiếp vào cuộc chiến giành d-file. Nhưng chẳng phải Trắng đã lỡ cái nĩa của mình sao?
+
+22...Kb2 23.Jld7! “Chuông” trộn lẫn việc hiến tế của nữ hoàng, rất tốt, điều này đã được máy tính định trước. 23...K:a4 24.K:a4 Qc2 25.Jld7 Q:a4 26.K:a1? Đây chính là thời điểm vương miện cờ vua chuyển từ “Bell” sang “Crablitz”. “Bell” đã kiểm tra chiến thuật chiến đấu khá đầy đủ, nhưng khi chơi theo vị trí, cô ấy thấy mình hoàn toàn bối rối.
+
+Xin vui lòng, một nước cờ như vậy chỉ có thể được thực hiện bởi một người chơi cờ mới bắt đầu bảo vệ từng con tốt của mình. Nhiệm vụ của Trắng là kết nối các quân xe càng nhanh càng tốt và quân tốt a2 không liên quan gì đến việc đó. Sự tiếp tục bình thường là 26.h3 và nếu 26...Q:a2 thì 27.Jld1. Trong những trường hợp cực đoan, quân xe giao bóng đến d-file sau Rbd7 sơ bộ, và trong một ván đấu khó, Trắng vẫn có thể tin tưởng vào thành công. 26...e5 27.f3? Một nước đi khác mà bất kỳ người chơi cờ có kinh nghiệm nào cũng sẽ từ chối mà không cân nhắc một lựa chọn nào. 27...Qc2 28.Jlc7 Qd3. Không chỉ đe dọa Qd4+ mà còn bắt được d-lich, thứ mà Trắng đã để đối thủ quá dễ dàng. 29.Jlf1 Qd5 30.a3 g5 31.Jle7 f6 32.Jlc7 h5. Quân của Trắng rải rác và dù đất nước thế nào đi nữa, Đen vẫn đang xây dựng, tiến lên. Họ quyết định kết quả của trận chiến. 33.h3 Kph8 34.Kph2 a6 35.Jle1 Jle8 36.Jle4 f5 37.Jle2 g4 38.hg fg 39.fg hg 40.Jlf2
+
+e4 41.Jlff7. Những băn khoăn gặp nhau nhưng đã quá muộn. 41...Qe5+ 42.g3 e3 43.Jlh7+ Kpg8 44.b5. Con voi tham gia phòng thủ nhưng không thể thay đổi được điều gì. 44...cb 45.Ce1 Qb2+ 46.Kpg1 Qa1 47.Kpg2. Hy vọng của White về việc kiểm tra vĩnh viễn sẽ không thành hiện thực. 47...Jld8 48.Jlhd7. Tăng tốc độ phân giải. 48...Jlf8. Một kỳ thủ còn sống có thể được ưu tiên bởi 48...Jld7 và 49...Q:e1, nhưng máy tính nói rằng việc chiếu tướng quân Xe sẽ dễ dàng hơn. 49.Jld6 Qb2+ 50.Kpg1 Qb1 51.Kph2 Qc2+ 52.Kpg1 Qf5. Sau khi chắc chắn rằng việc chiếu tướng là không thể tránh khỏi, “Bell” đã chơi một trò chơi, chúc mừng cô đã giành được danh hiệu vô địch thế giới.
+
+Đánh giá qua các ván đấu của giải vô địch thế giới vừa qua, sức mạnh của các kỳ thủ cờ vua điện tử vẫn ở mức thấp trong vài hiệp đấu, nhưng điều này không ảnh hưởng đáng kể đến đẳng cấp của trò chơi. Để có bước nhảy vọt về chất, rõ ràng họ cần có sự đổi mới có mục tiêu, khác với việc tìm kiếm đầy đủ các lựa chọn, vốn là nền tảng cho hầu hết các hoạt động của chương trình.
+
+Nhiệm vụ thi đấu
+Nhiệm vụ ở giữa đáng chú ý là các chương trình của Bell đã giải quyết được nó.
+
+7. Trắng bắt đầu và thắng.
+
+8. Trắng bắt đầu và thắng.
+Hạn chót gửi lời giải là ngày 25 tháng 6 năm 1984 (có ghi chú trên phong bì “Cuộc thi cờ vua Kvata, bài toán 7, 8)”).

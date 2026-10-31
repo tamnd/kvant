@@ -1,0 +1,64 @@
+---
+id: 1984-4-zaochnaya-fizicheskaya-shkola-pri-mgu-00efcf2c
+issue: kvant_1984_4
+year: 1984
+number: "4"
+title: Trường Vật lý Tương ứng tại Đại học quốc gia Moscow
+rubric: informatsiya
+rubric_sub: Информация
+page_first: 54
+page_last: 54
+page_labels: "52"
+tag: 25VA
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 8d8a6b4b18ea07a30cc2993675bddfc7c0ecc8932af055ec5b476b57709612fb
+prompt_sha256: draft-1
+translated_from: content/ru/1984/04/articles/19_zaochnaya-fizicheskaya-shkola-pri-mgu-00efcf2c.md
+source_content_sha256: 69247b35cc4e3ca9a1f3a5796dae711e8cf7b48b732e0e12179942ae196c808c
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 52⟧
+
+Trường Vật lý Tương ứng tại Đại học quốc gia Moscow
+
+Trường Vật lý Tương ứng (3FS) thuộc Khoa Vật lý của Đại học quốc gia Moscow. MV Lomonosov thông báo tuyển sinh lớp 9 và lớp 10 cho năm học tiếp theo.
+
+Mục tiêu chính của 3FS là giúp học sinh trung học nghiên cứu vật lý sâu hơn trong phạm vi chương trình giảng dạy ở trường, cũng như chuẩn bị tốt hơn cho kỳ thi đầu vào vật lý vào giáo dục đại học, chủ yếu là Khoa Vật lý của Đại học Tổng hợp Moscow.
+
+Việc tuyển sinh vào 3FS được thực hiện dựa trên kết quả của nhiệm vụ giới thiệu lời giải, phải được gửi trước ngày 10 tháng 9 đến địa chỉ: 119899, ​​​​GSP, Moscow, Leninskie Gory, Đại học quốc gia Moscow, Khoa Vật lý, 3FS. Vui lòng gửi kèm theo hai bản sao của bảng câu hỏi trong thư, viết trên tờ giấy dày có kích thước 7x12 cm và điền theo mẫu sau:
+
+Họ, tên, chữ viết tắt
+Lớp 3ФШ
+Nghề nghiệp của cha mẹ và
+vị trí nắm giữ
+Địa chỉ nhà chi tiết
+248016, Kaluea, st. Karla Libknesta, 4, thích hợp. 73
+Số trường và địa chỉ
+trường số 10, st. Puskin, 3.
+
+Lời giải Hội đồng tuyển sinh 3FS sẽ được thông báo tuyển sinh trước ngày 15 tháng 10. Giấy tờ tuyển sinh đã được kiểm tra sẽ không được gửi lại.
+
+Trong năm, những học sinh đăng ký vào 3FS sẽ được gửi các bài phát triển phương pháp luận và bài tập kiểm tra về các phần vật lý khác nhau đã học ở trường trung học. Các bài tập đã giải được đánh giá, giải và trả lại cho học sinh. Cuối năm học, học sinh lớp 9 3FS được chuyển lên lớp 10 dựa trên số điểm nhận được cho bài kiểm tra lời giải. Những người hoàn thành khóa đào tạo sẽ nhận được chứng chỉ hoàn thành 3FS.
+
+Nhiệm vụ giới thiệu
+
+Việc xét tuyển vào lớp 9 của 3FS được quyết định bởi bài toán 1-4, và việc xét tuyển vào lớp 10 được quyết định bởi bài toán 4-7.
+
+1. Hai Cathars bơi với tốc độ khác nhau và cùng hướng dọc theo con sông. Khi họ lên ngang tầm, một chiếc phao cứu sinh được ném xuống nước từ một trong số họ. Một thời gian sau, cả hai Cathar đồng loạt quay lại và với cùng tốc độ so với mặt nước, hướng về nơi ném vòng tròn. Cái nào đã gặp vòng tròn trước đó?
+
+2. Hai thanh có khối lượng $M_1$ và $M_2$ được nối với nhau bằng một sợi dây không hòa tan nằm trên mặt phẳng nằm ngang. Các lực $\vec{F}_1$ và $\vec{F}_2$ tác dụng lên chúng, tạo thành các góc $\alpha$ và $\beta$ với đường chân trời. Hệ số ma sát của các thanh trên mặt phẳng bằng nhau và bằng $\mu$. Lực $\vec{F}_1$ và $\vec{F}_2$ nhỏ hơn trọng lượng của các thanh ở giá trị tuyệt đối. Tìm gia tốc của hệ và lực căng của sợi dây nếu hệ chuyển động theo hướng của lực $\vec{F}_1$.
+
+3. Một số chỉ tác dụng một vật có khối lượng $m=16$ kg lên một mặt phẳng nghiêng nhẵn có chiều dài $l=3,1$ m và độ nghiêng $\alpha=30^\circ$ so với đường chân trời. Tốc độ của vật tại chân mặt phẳng nghiêng là $v_0=0,6$ m/s, và ở cạnh trên của nó - $v=3,1$ m/s. Lực đó đã thực hiện công gì?
+
+4. Hai xe giống hệt nhau, trên có hai cần gạt nước giống hệt nhau, chuyển động theo quán tính với cùng vận tốc song song với nhau. Tại một thời điểm nào đó, tuyết bắt đầu rơi thành dòng đồng đều trên các xe đẩy. Người gác cổng đứng trên một trong những chiếc xe đẩy liên tục ném tuyết đi và người gác cổng đang ngủ trên chiếc xe thứ hai. Xe đẩy nào sẽ đi được quãng đường tương tự nhanh nhất?
+
+5. Hai giọt nước giống hệt nhau, mỗi giọt có thêm một electron và lực đẩy điện của các giọt nước được cân bằng bởi lực hấp dẫn lẫn nhau của chúng. Bán kính của các giọt là gì?
+
+6. Hai hình trụ giống hệt nhau chứa khí ở nhiệt độ $t=0^\circ C$ được nối với nhau bằng một ống hẹp nằm ngang có đường kính $d=5$ mm, sau đó là một giọt rutga. Giọt nước chia trọng lượng của bình thành hai phần bằng nhau về thể tích $V=200$ cm$^3$ mỗi phần. Giọt nước sẽ di chuyển bao xa nếu một quả bóng được làm nóng lên $\Delta t=2^\circ C$ và quả bóng kia được làm lạnh bằng cùng một lượng? Bỏ qua sự thay đổi thể tích của bình.
+
+7. Một electron chuyển động với tốc độ $v_0$ vào khoảng trống giữa các bản của một tụ điện phẳng (qua một lỗ ở tấm dưới) một góc $\alpha$ so với mặt phẳng của các bản. Khoảng cách giữa các bản là $d$, hiệu điện thế là $U$, bản dưới tích điện dương, bản trên tích điện âm. Electron chuyển động theo đường cong nào? Nó sẽ ở gần tấm trên cùng như thế nào? Bỏ qua sức mạnh.

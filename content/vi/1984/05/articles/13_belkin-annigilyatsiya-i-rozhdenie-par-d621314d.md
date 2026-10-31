@@ -1,0 +1,58 @@
+---
+id: 1984-5-belkin-annigilyatsiya-i-rozhdenie-par-d621314d
+issue: kvant_1984_5
+year: 1984
+number: "5"
+title: Sự hủy diệt và sự ra đời của các cặp vợ chồng
+authors:
+  - Белкин И. К.
+rubric: shkola-v-kvante
+page_first: 37
+page_last: 37
+page_labels: "35"
+tag: O3AK
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: b809ee18d83f3edee1ac258433607e6677269a2be22386dbe2b314601cbebe6d
+prompt_sha256: draft-1
+translated_from: content/ru/1984/05/articles/13_belkin-annigilyatsiya-i-rozhdenie-par-d621314d.md
+source_content_sha256: 333e7d62ab5ec49c975414590c9dfff59bab72ce073b555b16680d5e8bebd8c4
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 35⟧
+
+Tốc độ trộn được xác định theo công thức
+
+$$j_{\text{cm}} = \varepsilon_0 \frac{\Delta E}{\Delta t}.$$
+
+Trong ví dụ của chúng ta, điện trường trong tụ điện đang tắt và tốc độ thay đổi của trường là âm. Điều này có nghĩa là dòng điện hỗn hợp trong trường hợp này chạy theo hướng ngược lại với điện trường, trong khi dòng điện thông thường chạy theo hướng của điện trường. Như có thể thấy từ các công thức (1) - (3), mật độ của dòng điện trộn và dòng điện khối có độ lớn giống nhau. Do đó, tổng mật độ dòng điện và tổng từ trường bằng 0 (như nó phải ở trong bài toán này).
+
+Hóa ra công thức (3) không chỉ đúng cho việc phóng điện của tụ điện hình cầu mà còn đúng trong trường hợp tổng quát nhất. Cảm ứng từ trường luôn được xác định bằng tổng mật độ dòng điện lớn (chẳng hạn như độ dẫn điện) và mật độ dòng điện trộn liên quan đến tốc độ thay đổi của điện trường theo công thức (3).
+
+Sự hủy diệt và sự ra đời của các cặp vợ chồng
+
+Sách giáo khoa “Vật lý 10” nói rằng khi một positron gặp một electron, các hạt này biến mất (tiêu hủy), tạo ra các photon năng lượng cao ở vị trí của chúng. Quá trình ngược lại cũng có thể xảy ra – sự hình thành cặp electron-positron.
+
+Chúng ta hãy xem xét các quá trình này chi tiết hơn. Ví dụ, chúng ta hãy chứng minh rằng trong quá trình hủy cặp, một photon không thể được tạo ra.
+
+Chúng ta hãy tưởng tượng rằng trong một hệ thống báo cáo nào đó, một electron đứng yên và một positron tấn công nó với tốc độ $v_0$. Sau đó chúng ta sẽ chuyển sang hệ thống báo cáo chuyển động với tốc độ không đổi $v_0/2$ (bạn có thể chuyển sang bất kỳ hệ thống báo cáo quán tính nào khác theo nguyên lý tương đối của Galileo, được trình bày chi tiết trong sách giáo khoa “Vật lý 8”). Trong hệ thống này, tốc độ của positron là $v_0/2$, nhưng electron không còn đứng yên nữa - tốc độ của nó là $v_0/2$. Do đó, trong hệ thống báo cáo đã chọn, cả hai hạt đều chuyển động với vận tốc bằng nhau nhưng ngược chiều nhau. Vì electron và positron có cùng khối lượng $m$ nên tổng động lượng $m\vec{v}_0/2 - m\vec{v}_0/2$ của chúng bằng không.
+
+Bây giờ đã rõ tại sao chỉ một photon không thể được sinh ra do sự hủy diệt. Xét cho cùng, photon là một lượng tử ánh sáng và tốc độ của nó trong tất cả các hệ thống báo cáo quán tính là như nhau và bằng $c$. Do đó, trong hệ báo cáo mà chúng ta đã chọn, photon cũng sẽ có động lượng khác 0. Điều này có nghĩa là định luật cơ bản của tự nhiên sẽ bị vi phạm - định luật bảo toàn động lượng, định luật chi phối mọi quá trình xảy ra trong một hệ kín. Nhưng mọi chuyện sẽ đâu vào đấy nếu chúng ta giả sử rằng trong quá trình hủy cặp, hai photon sinh ra bay theo hai hướng ngược nhau (xem hình). Khi đó tổng động lượng của chúng cũng bằng 0 và định luật bảo toàn động lượng không bị vi phạm.
+
+Áp dụng định luật bảo toàn năng lượng, chúng ta có thể tìm được tần số và bước sóng của bức xạ tương ứng. Chúng ta sẽ giả sử rằng tốc độ của hạt được so sánh với tốc độ ánh sáng. Khi đó nguồn cung cấp năng lượng chính của họ là năng lượng nghỉ, được xác định theo công thức Eischstein $E = mc^2$. Đánh đồng năng lượng nghỉ của một hạt với năng lượng $hv$ của bức xạ lượng tử, chúng ta thu được
+
+$$2mc^2 = 2hv,$$
+
+Ở đâu
+
+$$v = \frac{mc^2}{h} \approx 1,3 \cdot 10^{20} \text{ Гц},$$
+
+$$\lambda = \frac{c}{v} = \frac{h}{mc} \approx 2,4 \cdot 10^{-12} \text{ м},$$
+
+tương ứng với bức xạ gram.
+
+Tương tự, có thể chứng minh rằng một lượng tử γ bay trong chân không không thể tự nó sinh ra một cặp electron-positron. Để làm điều này, bạn cần một phần ba (ví dụ: lõi), có thể được cung cấp một xung lực "bổ sung". Quá trình tạo cặp cũng có thể xảy ra khi hai photon va chạm nhau.

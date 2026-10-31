@@ -1,0 +1,60 @@
+---
+id: 1984-3-skolko-vodyi-v-kolbah-f8f983ac
+issue: kvant_1984_3
+year: 1984
+number: "3"
+title: Có bao nhiêu nước trong các bình?
+rubric: smes
+page_first: 37
+page_last: 37
+page_labels: "35"
+tag: 0QFE
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: eed7d0d78366653a3461ad01aa97d0dea79c12076c57c73fc056f167e055acb9
+prompt_sha256: draft-1
+translated_from: content/ru/1984/03/articles/12_skolko-vodyi-v-kolbah-f8f983ac.md
+source_content_sha256: 717dc538a0ed2753a6aa50022103a95c46e370e839d139df1dc6e4b236b4b446
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 35⟧
+
+Đã giải quyết
+Eratosthenes
+
+Viện sĩ A. N. KOLMOGOROV
+
+Hình thức sàng tuyệt đẹp này của Eratosthenes*) được mượn từ cuốn sách “Tài liệu toán học” của M. Gardner (Nhà xuất bản “Mir”, 1972). Tất cả các số không bị gạch bỏ (màu đỏ hoặc xanh) đều là số nguyên tố, ngoại trừ số 121. Hãy giải thích tại sao!
+
+Bài toán 1. Để có được danh sách các số nguyên tố nhỏ hơn 1000, bạn cần “loại bỏ” những số chia hết cho 2, 3, 5, 7, 11,.... Bạn có thể dừng lại ở số nguyên tố nào?
+
+đáp số sẽ thay đổi như thế nào trong trường hợp biên soạn bảng số nguyên tố nhỏ hơn 10.000?
+
+Các cặp số nguyên tố “sinh đôi**” được đánh dấu trong bảng bằng dấu chấm than. Có mười người trong số họ trong bảng của chúng tôi.
+
+Biết rằng có vô số số nguyên tố. Nhưng không ai biết liệu có vô số cặp sinh đôi hay hữu hạn.
+
+Bài toán 2. Hai cặp sinh đôi đầu tiên (3, 5) và (5, 7) có phần tử chung (5). “Khoảng cách” giữa cặp sinh đôi thứ hai và thứ ba (11, 13) là
+
+11 — 7 = 4.
+
+Khoảng cách giữa thứ ba và thứ tư (17, 19)
+
+17 — 13 = 4,
+
+giữa thứ tư và thứ năm (29, 31)
+
+29 — 19 = 10.
+
+Chứng minh rằng khoảng cách cho trước giữa các cặp sinh đôi cạnh nhau không nhỏ hơn 4.
+
+*) Xem «Kvant», 1973, số 4, tr. 71.
+**) Xem «Kvant», 1973, số 5, tr. 56.
+
+Có bao nhiêu nước trong các bình?
+
+Sáu bình trong suốt đựng nước được xếp thành hai hàng ba bình song song trong mỗi nhà. Trong Hình 1, bạn có thể thấy ba bình biến đổi và trong Hình 2 - quy tắc hai bên. Thông qua cách phát âm của thành bình, mực nước trong mỗi bình nhìn thấy được và trong tất cả các bình đứng phía sau nó sẽ được xem. Xác định lượng nước trong mỗi bình.

@@ -1,0 +1,91 @@
+---
+id: 1984-4-daneliya-spichechnyiy-korobok-i-ekstremum-70d03606
+issue: kvant_1984_4
+year: 1984
+number: "4"
+title: Hộp diêm và cực chất
+authors:
+  - Данелия Р. Ш.
+rubric: raznoe
+page_first: 53
+page_last: 53
+page_labels: "51"
+tag: JRES
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 1d6d4f777fa1d90ba3b0d0b6e8109f83cd4a37fb24b0ca653eadb460779c1438
+prompt_sha256: draft-1
+translated_from: content/ru/1984/04/articles/18_daneliya-spichechnyiy-korobok-i-ekstremum-70d03606.md
+source_content_sha256: ce791749b8ccffe3de4e7d41ad62034e1d7a6bf161fc3e9f0fad13cc4eb52478
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 51⟧
+
+Que diêm và cực đoan
+R. S. DANELIA
+
+bài toán này xuất hiện trong đầu tôi khi tôi đang xem bộ sưu tập hộp diêm của bạn tôi. Anh ta không chỉ sưu tầm nhãn mác như nhiều người vẫn làm mà còn sưu tập cả vỏ. Bạn có thể thấy lớp vỏ có nhiều hình dạng và kích cỡ khác nhau. Trong khi xem qua các khu trưng bày nút chai, tôi đã nghĩ: kích thước nút chai “có lãi” nhất là bao nhiêu? Suy cho cùng thì đây chỉ là một câu hỏi toán học thuần túy; nó có thể được đưa ra công thức nghiêm ngặt sau đây:
+
+Giá trị trung bình của tất cả các lớp vỏ phù hợp có thể tích V cho trước của thiết kế đã công bố (nghĩa là bao gồm lớp vỏ có thể thu vào, mở ở phía trên và phần bên ngoài mở ở hai bên; xem Hình 1), tìm hình dạng (nghĩa là tỷ lệ của các gân x:y:z) đảm bảo chi phí vật liệu thấp nhất trong quá trình sản xuất (không tính độ dày của vật liệu).
+
+Đối với lời giải bài toán này chúng ta cần Bổ đề sau. Nếu tích của ba biến dương a, b, c được xây dựng thì tổng của chúng có giá trị nhỏ nhất khi a = b = c.
+
+Bằng chứng. Do sự bất đẳng thức giữa trung bình số học và trung bình hình học
+
+$$\frac{a+b+c}{3} \geq \sqrt[3]{abc},$$
+
+(1)
+
+sự tương ứng abc = k = const cho a+b+c ≥ 3√k, và sự bằng nhau chỉ đạt được khi a = b = c.
+
+Mặc dù chứng minh của bất đẳng thức (1) được đưa ra trong nhiều sách giáo khoa, nhưng sẽ không sai khi giới thiệu cho người đọc một chứng minh khác về nó - khác với những chứng minh truyền thống.
+
+Nếu chúng ta giới thiệu ký hiệu
+
+$$x_1 = \frac{a}{\sqrt[3]{abc}}, \quad x_2 = \frac{b}{\sqrt[3]{abc}},$$
+
+$$x_3 = \frac{c}{\sqrt[3]{abc}},$$
+
+thì ta yêu cầu bất đẳng thức được viết như sau:
+
+$$x_1 + x_2 + x_3 \geq 3,$$
+
+(2)
+
+Hơn nữa, đẳng thức chỉ đạt được khi x_1 = x_2 = x_3 = 1. Vì vậy, nếu tích x_1x_2x_3 bằng 1 thì tổng x_1 + x_2 + x_3 không nhỏ hơn 3 và chỉ bằng 3 nếu x_1 = x_2 = x_3 = 1.
+
+Trong thực tế, hãy xem xét hai trường hợp có thể xảy ra:
+
+1. Cả ba x đều bằng nhau, tức là x_1 = x_2 = x_3 = 1. Rõ ràng trong trường hợp này x_1 + x_2 + x_3 = 3.
+
+2. Không phải tất cả x đều bằng nhau. Vì tích của chúng bằng 1, nên nếu cái này lớn hơn 1 thì cái kia nhỏ hơn 1. Để định nghĩa, hãy đặt: x_1 > 1, x_2 < 1. Chúng ta có:
+
+$$(x_1 - 1)(x_2 - 1) < 0 \iff x_1x_2 + 1 < x_1 + x_2 \iff x_1 + x_2 + x_3 > x_1x_2 + x_3 + 1.$$
+
+(3)
+
+Nhưng x_1x_2x_3 = 1, và do đó
+
+$$x_1x_2 + x_3 + 1 = \frac{1}{x_3} + x_3 + 1 = \frac{1}{x_3} + x_3 - 2 + 3 = \frac{(x_3 - 1)^2}{x_3} + 3 \geq 3.$$
+
+Điều này, theo (3), cho x_1 + x_2 + x_3 > 3, đây là điều cần chứng minh.
+
+Bây giờ chúng ta có thể chuyển sang lời giải bài toán của chúng ta.
+
+Gọi kích thước của vỏ là x, y, z (Hình 1). Hình hộp gồm có hai phần, với diện tích bề mặt của phần thứ nhất là S_1 = xy + 2xz + 2yz và phần thứ hai là S_2 = 2xy + 2xz. Tổng diện tích - tổng của chúng - sẽ là S = 2yz + 3xy + 4xz.
+
+Rõ ràng vật liệu cần để làm vỏ tỉ lệ thuận với S, tức là ta phải chọn x, y, z sao cho S nhỏ nhất. Để làm điều này, chúng ta biểu diễn S dưới dạng sau:
+
+$$S = xyz \left( \frac{2}{x} + \frac{3}{z} + \frac{4}{y} \right)$$
+
+hoặc, với đẳng thức xyz = V,
+
+$$S = V \left( \frac{2}{x} + \frac{3}{z} + \frac{4}{y} \right).$$
+
+Tích của các số hạng trong ngoặc là không đổi (nó bằng 24/V), do đó, theo bổ đề, giá trị nhỏ nhất đạt được khi các số hạng bằng nhau, do đó x:y:z = 2:3:4.
+
+Như vậy, việc tiêu hao nguyên liệu sẽ ít nhất khi chiều dài, chiều rộng và chiều cao của vỏ theo tỷ lệ 4:2:3. Lưu ý rằng thường thì các nhà máy không tuân thủ tỷ lệ này (Hình 2), nhưng cũng có những loại vỏ được chế tạo đặc biệt có tính đến điều kiện này (Hình 3).
