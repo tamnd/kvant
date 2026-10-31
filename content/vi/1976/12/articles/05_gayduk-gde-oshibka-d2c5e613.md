@@ -1,0 +1,78 @@
+---
+id: 1976-12-gayduk-gde-oshibka-d2c5e613
+issue: kvant_1976_12
+year: 1976
+number: "12"
+title: Sai lầm ở đâu?
+authors:
+  - Гайдук Ю. М.
+rubric: smes
+page_first: 11
+page_last: 11
+page_labels: "9"
+tag: 6P3B
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 7f96d9bcc23c1e87a8e35a9e02876e3b764f6c19b0a9038329fbc933bd98ebbf
+prompt_sha256: draft-1
+translated_from: content/ru/1976/12/articles/05_gayduk-gde-oshibka-d2c5e613.md
+source_content_sha256: b8885937860282c8d793510ba1b7ccaba45320aed5ed39f10f51a3a4e8dac793
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 9⟧
+
+thỏa mãn điều kiện bài toán (tức là có thể xây dựng tất cả các đoạn nguyên từ 1 cm đến chiều dài mới của thước).
+
+Vẫn còn phải tìm hiểu xem $l$ có thể lớn đến mức nào bằng cách thay đổi $m$ (số lượng phân chia $k$ là cố định). Để làm điều này, chúng ta viết công thức cho $l$ ở dạng
+
+$$l = \frac{(k+1)(k+5)}{4} - \left( m - \frac{k+1}{2} \right)^2.$$
+
+Từ đó chúng ta có thể thấy rằng $l$ sẽ rộng nhất khi $\left( m - \frac{k+1}{2} \right)^2$ nhỏ nhất.
+
+Điều này có nghĩa là nếu $k$ là số lẻ thì chúng ta phải đặt $m = \frac{k+1}{2}$, và nếu $k$ là số chẵn thì chúng ta phải đặt $m = \frac{k}{2}$ hoặc $m = \frac{k+2}{2}$.
+
+Vì thế,
+
+$$l \geq \frac{(k+1)(k+5)}{4} - \frac{1}{4} = \frac{k^2+6k+4}{4}.$$
+
+Thay vì $l$ bạn có thể thay thế $n$. Bây giờ biểu thị $k$ theo $n$, chúng ta có:
+
+$$k \leq \sqrt{4n+5} - 3$$ (nếu số này không phải là số nguyên thì bạn cần số nguyên lớn hơn gần nó nhất).
+
+Hình 8 hiển thị một bảng trong đó với $n$ từ 1 đến 15 các giá trị đã cho $k(n)$—số cách chia nhỏ nhất thỏa mãn điều kiện bài toán; ước tính mà trước đây chúng ta thu được từ công thức $n \geq (k+2)(k+1)/2$ cho ước tính thấp hơn và ước tính cao hơn mà chúng ta vừa rút ra. Có thể thấy rằng các giá trị này khác nhau rất ít, nhưng khi tăng $n$ thì sự khác biệt này càng lớn.
+
+Việc tìm ra công thức nối giá trị chính xác của $k$ với $n$ có vẻ khá khó khăn. Thậm chí còn không rõ liệu hàm $k(n)$ có ​​đơn điệu hay không, tức là, nếu đối với một đoạn có độ dài $n$ có đủ $k$ phép chia thì liệu có đủ chúng cho một đoạn có độ dài $n-1$ không?
+
+Như bạn có thể thấy, từ trường học bài toán đến máy chủ và các bài toán khó chỉ là một bước.
+
+Hãy thử sức mình với lời giải trong số những vấn đề này. Chúng tôi đang chờ đợi thư của bạn.
+
+Sai lầm ở đâu?
+
+Hãy để chúng tôi chứng minh rằng $1=2$. Một mặt,
+
+$$1 = \frac{2}{3-1}. \tag{1}$$
+
+Chúng ta thay 1 biểu thức $\frac{2}{3-1}$ vào vế phải của đẳng thức (1). chúng tôi nhận được
+
+$$1 = \frac{2}{3-\frac{2}{3-1}}. \tag{2}$$
+
+Thực hiện việc “thay thế” này một lần nữa, chúng ta nhận được
+
+$$1 = \frac{2}{3-\frac{2}{3-1}}. \tag{3}$$
+
+Ở phía bên kia,
+
+$$2 = \frac{2}{3-2}. \tag{4}$$
+
+Hãy thay biểu thức $\frac{2}{3-2}$ vào vế phải của đẳng thức (4) cùng với 2. Ta được
+
+$$2 = \frac{2}{3-\frac{2}{3-2}}. \tag{5}$$
+
+Vế phải của đẳng thức (3) và (6) bằng nhau. Do đó, các phần ile phải bằng nhau: $1=2$.
+
+Yu. Gaiduk

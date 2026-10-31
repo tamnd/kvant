@@ -1,0 +1,48 @@
+---
+id: 1976-11-petrova-chernova-olimpiada-po-fizike-e39f1357
+issue: kvant_1976_11
+year: 1976
+number: "11"
+title: Olympic Vật lý
+authors:
+  - Петрова Т. С.
+  - Чернова Л. В.
+rubric: raznoe
+rubric_sub: Разное
+page_first: 64
+page_last: 64
+page_labels: "62"
+tag: PUXQ
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 0647590ef645019f463562d78378623d7a99395c9fe417661fca136240e12721
+prompt_sha256: draft-1
+translated_from: content/ru/1976/11/articles/19_petrova-chernova-olimpiada-po-fizike-e39f1357.md
+source_content_sha256: d9abd5e9b7f2da4ceb7b17781f808ddb6b193f7e6f46501d9095ac39c58d560b
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 62⟧
+
+Olympic Vật lý
+
+Vòng chung kết Olympic Vật lý toàn Liên minh lần thứ X diễn ra năm nay tại Minsk, thủ đô của Cộng hòa Xã hội chủ nghĩa Xô viết Belarus. Những người tham gia nó là những người chiến thắng trong Thế vận hội Phục sinh, đồng thời là bậc thầy của Thế vận hội Toàn Liên minh trước đó. Tổng cộng có 144 học sinh đến Minsk: 42 học sinh lớp 8, 48 học sinh lớp 9 và 54 học sinh lớp 10.
+
+Ngày 15/4, lễ khai mạc vòng chung kết Olympic Vật lý toàn Liên đoàn X đã diễn ra tại Trường Âm nhạc Mỹ thuật Nội trú Cộng hòa. Những người tham gia đã chúc thành công trong cuộc đấu tranh sắp tới: thay thế Bộ trưởng Bộ Giáo dục của BSSR R.I. Sernov, đại diện cho ban giám khảo Olympic bởi người đứng đầu Khoa Vật lý Hạt nhân của Đại học Bang Belarus, Giáo sư S.S. Shushkevich; Đại diện Bộ Giáo dục Liên Xô M. V. Grabilenkov đọc lời giới thiệu của Bộ trưởng Bộ Giáo dục Liên Xô M. A. Prokofiev.
+
+Ngày 16/4, vòng lý thuyết đầu tiên của Olympic đã diễn ra. Như thường lệ, học sinh lớp 8 được tặng 4 bài toán, học sinh lớp 9 và học sinh lớp 10 được tặng 5 bài toán mỗi em. Đối với lời giải bài toán học sinh lớp 8 và 9 mỗi học sinh có 4 giờ, học sinh lớp 10 - 5 giờ.
+
+Vào ngày 17 tháng 4, các chàng trai đã chia tay. Và bồi thẩm đoàn đã kiểm tra công việc. Sau khi kiểm tra, chúng tôi phát hiện ra rằng khó nhất đối với học sinh lớp 8 là bài toán số 3 (chỉ có 2 người giải được), và dễ nhất là bài toán số 1 (văn bản bài toán được đưa ra ở cuối bài viết). Trong số 9 học sinh lớp 10 cổ điển, bài toán Số 5 chỉ có 2 người giải được và hầu hết đều hoàn thành xuất sắc bài toán số 3. Trong số 10 học sinh lớp 10 cổ điển, bài toán Số 3 là người giải được nhiều nhất (chỉ có 4 người giải được), và bài toán Số 2 giải được rất nhiều.
+
+Vào ngày 18 tháng 4, vòng thử nghiệm thứ hai của Olympic đã diễn ra. Như năm ngoái, tất cả những người tham gia Olympic đều đã hoàn thành các nhiệm vụ thử nghiệm. Tuy nhiên, không giống như các kỳ Olympic trước, lần này 2 bài toán thử nghiệm được cung cấp cho mỗi lớp.
+
+Ngày 19/4 có lẽ là ngày khó khăn nhất đối với các thành viên ban giám khảo. Một lần nữa, tất cả các công trình lý thuyết đều được xem xét, kết quả của công việc thực nghiệm đã được thảo luận, và sau khi phân tích và cân nhắc cẩn thận, những công trình tốt nhất đã được nêu tên.
+
+Vào ngày 20 tháng 4, tại lễ bế mạc Olympic Vật lý toàn Liên minh X, lời giải công trình thí nghiệm đã được công bố cho những người tham gia, và sau khi phân tích và cân nhắc cẩn thận, những công trình tốt nhất đã được xướng tên.
+
+Vào ngày 20 tháng 4, tại lễ bế mạc Olympic Vật lý toàn Liên minh X, lời giải công trình thí nghiệm đã được công bố cho những người tham gia, và sau khi phân tích và cân nhắc cẩn thận, những công trình tốt nhất đã được xướng tên.
+
+E. Ponomarov (làng Chernogolovka, vùng Moscow). Đăng ký tạp chí «Kvant» cho năm 1977 có rất nhiều học sinh lớp tám: D. Zakharov (làng Palatka, vùng Magadan), A. Dik (làng Lebedinovka Kyrgyz SSR), S. Kanja (làng Gura MoldSSR), I. Vaisburd (Tomsk), A. Spiridonava (Kurgan), S. Rusanov (làng Novopokrovskaya, Krasnodar Lãnh thổ).

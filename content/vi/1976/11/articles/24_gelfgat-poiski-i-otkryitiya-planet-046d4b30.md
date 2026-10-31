@@ -1,0 +1,41 @@
+---
+id: 1976-11-gelfgat-poiski-i-otkryitiya-planet-046d4b30
+issue: kvant_1976_11
+year: 1976
+number: "11"
+title: Tìm kiếm và khám phá các hành tinh
+authors:
+  - Гельфгат Б. Е.
+rubric: retsenzii-bibliografiya
+rubric_sub: Рецензии, библиография
+page_first: 72
+page_last: 72
+page_labels: "70"
+tag: 941F
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 0da4c6d4260d3c642e6053102860ab3d9e80bd833bd1846c51c95db19fa7f685
+prompt_sha256: draft-1
+translated_from: content/ru/1976/11/articles/24_gelfgat-poiski-i-otkryitiya-planet-046d4b30.md
+source_content_sha256: a4cd41f89107774942f9a4e4a12efab38a0d3d757d8e15ec3408303ce81805c5
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 70⟧
+
+Ponski
+và những khám phá
+hành tinh
+
+"Khi chúng tôi bắt đầu viết cuốn sách, mong muốn ban đầu của chúng tôi là cho người đọc biết Adams và Le Verrier đã phát hiện ra những kỹ năng tiên tiến nhất trong lịch sử khám phá Sao Hải Vương như thế nào. Người đọc quan tâm đến các vấn đề toán học thuần túy trong các tác phẩm của Adams và Le Verrier sẽ không bỏ qua các phụ lục trong đó các tác giả trình bày dưới dạng xử lý các phép tính của Adams và Le Verrier, cuối cùng dẫn đến việc phát hiện ra Sao Hải Vương. Ông cũng sẽ được công nhận với công trình thực sự khổng lồ được mở rộng bởi Lovel và Tombaugh, đồng tác giả của khám phá kéo dài hàng thập kỷ về hệ mặt trời - Sao Diêm Vương.
+
+Chúng tôi có thể nói một cách an toàn rằng số lượng độc giả áp đảo sau khi bắt đầu đọc “Ponski và những khám phá về các hành tinh” sẽ không rời khỏi cuốn sách cho đến khi các thiên thể có quyền được gọi là thành viên của hệ hành tinh của chúng ta đã được nghiên cứu và chúng ta có thể tấn công điều tương tự…”
+
+Lời nói đầu như vậy đã được các tác giả của cuốn sách “Ponski và những khám phá về các hành tinh”* quy định). Họ tự đặt cho mình nhiệm vụ cố gắng kể cho nhiều độc giả về các sự kiện liên quan đến việc khám phá hệ hành tinh sơ khai trong thế kỷ 19 và 20, đồng thời tiết lộ vai trò của các sự kiện, cho thấy tầm quan trọng của chúng đối với sự phát triển ý tưởng của chúng ta về cấu trúc của Hệ Mặt trời. Người đọc cuốn sách này không chỉ biết được về sự phát triển của các đề xuất khoa học về số phận của những khám phá và các nhà khoa học, mà còn nhiều hơn thế nữa.
+
+Cuốn sách này hướng đến nhiều đối tượng độc giả (bắt đầu từ học sinh trung học), dành cho tất cả những ai quan tâm đến lịch sử khoa học nói chung và lịch sử thiên văn học nói riêng.
+
+V.Gelfam
