@@ -1,0 +1,93 @@
+---
+id: 2008-1-petrunin-origami-i-postroeniya-a1156cf6
+issue: kvant_2008_1
+year: 2008
+number: "1"
+title: Origami và các công trình xây dựng
+authors:
+  - Петрунин А.
+rubric: matematicheskiy-kruzhok
+rubric_sub: Математический кружок
+page_first: 40
+page_last: 40
+page_labels: "38"
+tag: JEMD
+lang: vi
+source: kvant_digital
+extraction: native
+content_sha256: b88f6f4e2a337a712b173c50b2d7eddd55e2813180c434356c8d9244ed87c9a2
+prompt_sha256: draft-1
+translated_from: content/ru/2008/01/articles/08_petrunin-origami-i-postroeniya-a1156cf6.md
+source_content_sha256: dddbce4fc2dbf99b587a7407fd7eb0bfd5a3c9d8cb9da6fab8339938398d388e
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 38⟧
+
+KVANT 2008/№1
+
+VÒNG TRÒN TOÁN HỌC
+
+Origami và các công trình xây dựng
+
+⟦column⟧
+
+1. Cho hai điểm A và B, sau đó có thể gấp tờ giấy lại sao cho hai điểm này nằm trên đường gấp (hình2). 2. Cho hai điểm, sau đó có thể gấp tờ giấy lại sao cho điểm này nối với điểm kia (hình3).
+
+A.PETRUNIN
+
+Gửi Ni-cô-đem con trai tôi
+
+HÃY tưởng tượng rằng bạn đang ngồi trong lớp và bạn đang buồn chán và thực sự muốn thực hiện các công trình hình học: chẳng hạn như vẽ một hình tam giác, tìm tâm của các đường tròn nội tiếp và ngoại tiếp cũng như trực tâm trong đó, vẽ đường Euler và tất cả những thứ đó. Nhưng vấn đề ở đây là: la bàn và thước kẻ lại bị bỏ ở nhà. Đây là tình huống mà hai nhà origami, Benedetto Skimemi người Ý và Hamyaki Hujita người Nhật, có lẽ đã gặp phải vào 15 năm trước. (Những người theo chủ nghĩa origami là những người yêu thích nghệ thuật origami cổ xưa của Nhật Bản - gấp nhiều loài động vật, chim, đèn lồng, v.v. từ một tờ giấy.) Đột nhiên họ chợt nhận ra: “Nhưng nếp gấp của một tờ giấy là thẳng.” Ví dụ: nếu bạn lấy một đoạn trên một tờ giấy và uốn tờ giấy sao cho các đầu của đoạn đó nối với nhau, sau đó vuốt phẳng tờ giấy một cách cẩn thận trên bàn, thì phần uốn cong sẽ tạo thành một đường trung tuyến vuông góc với đoạn ban đầu (hình1,a). Cấu trúc thông thường của đường vuông góc trung tuyến (hình1, b) dài hơn. Nó đòi hỏi cả la bàn và thước kẻ (một
+
+⟦figure⟧
+
+Hình 2
+
+3. Cho hai dòng l và m, sau đó tờ giấy có thể được gấp lại sao cho dòng này đi vào dòng kia (hình4).
+
+⟦figure⟧
+
+Hình 4
+
+4. Cho một đường thẳng l và một điểm A thì tờ giấy có thể được gấp lại sao cho điểm rơi vào nếp gấp và đường thẳng đó biến thành chính nó (tức là đường gấp sẽ vuông góc với nó) (hình5).
+
+⟦figure⟧
+
+Hình 5
+
+⟦figure⟧
+
+Hình 1
+
+Bạn không thể sử dụng thước kẻ), nhưng bạn không cần bất kỳ công cụ nào ở đây. Để tiếp tục, họ phải đưa ra một bộ quy tắc cho kiểu đội hình mới này. Ví dụ, trong xây dựng thông thường sử dụng compa và thước kẻ, cho phép thực hiện các phép tính sau: 1. Vẽ đường thẳng đi qua hai điểm cho trước. 2. Vẽ một đường tròn có tâm và bán kính cho trước. 3. Tìm giao điểm của hai đường thẳng cho trước, giao điểm của một đường thẳng với một hoặc hai đường tròn.$^{1}$ Benedetto và Hamyaki cần một cái gì đó tương tự. Để làm được điều này, họ đã mô tả một cách toán học các kỹ thuật mà các nhà origami đã sử dụng từ lâu. Đây là những quy tắc.
+
+Quy tắc gấp
+
+Chúng ta sẽ nói rằng một đường thẳng được cho nếu tờ giấy có nếp gấp tương ứng. Trong các hình bên dưới, các nếp gấp được thể hiện bằng các đường chấm.
+
+1 Các điểm giao nhau như vậy không phải lúc nào cũng tồn tại; quy tắc chỉ nói rằng nếu một điểm như vậy tồn tại thì nó “có thể” được tìm thấy.
+
+⟦figure⟧
+
+Hình 3
+
+⟦figure⟧
+
+Hình 6
+
+5. Cho một đường thẳng p và cho hai điểm A, B rồi gấp tờ giấy $можно^{2}$ sao cho điểm A nằm trên đường gấp và điểm B nằm trên đường thẳng p (hình6). 6. Cho hai đường thẳng p, q và hai điểm A, B rồi gấp tờ giấy $можно^{2}$ sao cho điểm A nằm trên đường thẳng p, điểm B nằm trên đường thẳng q (hình7).
+
+⟦figure⟧
+
+Hình 7
+
+⟦figure⟧
+
+Hình 8
+
+7. Cho hai đường thẳng p, q và một điểm A thì tờ giấy có thể được gấp lại sao cho điểm A nằm trên đường thẳng p và đường thẳng q đi vào chính nó (tức là đường gấp sẽ vuông góc với nó) (hình8).
+
+2 Không phải lúc nào nếp gấp như vậy cũng tồn tại; quy tắc chỉ nêu rõ rằng nếu một nếp gấp như vậy tồn tại thì nó “có thể” được tìm thấy.

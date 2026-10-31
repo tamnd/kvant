@@ -1,0 +1,54 @@
+---
+id: 2008-1-zadachi-6db80901
+issue: kvant_2008_1
+year: 2008
+number: "1"
+title: Bài toán
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 27
+page_last: 27
+tag: U9PM
+lang: vi
+source: kvant_digital
+extraction: native
+content_sha256: 55b59d28740817286b786d8673bd6f49f9c96ab741e7e8ba6bacc369aa789965
+prompt_sha256: draft-1
+translated_from: content/ru/2008/01/articles/04_zadachi-6db80901.md
+source_content_sha256: 42f06151e5749c2918f6480137040e1596c1ab0f5faaf9b314fcc9853af09eea
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+KMS
+
+Bài toán
+
+1.
+
+Trao 6 đồng nhẹ và 6 đồng nặng. Về ngoại hình, chúng không thể phân biệt được. Khi cân bất kỳ bộ đồng xu nào, bạn có thể biết được trong đó có bao nhiêu đồng xu nặng. Làm thế nào để tìm được hai đồng xu trong hai lần cân, một đồng nhẹ và một nặng? A. Shapovalov
+
+⟦column⟧
+
+4.
+
+Với số tự nhiên nào x và y thì đẳng thức $1 + 2^{1} + 2^{2} +_{K} + 2^{x} = 3^{y}$ đúng? V. Người gửi
+
+5.
+
+2.
+
+Vasya nghĩ về ba số tự nhiên. Với mỗi cặp số, ông tìm ra hiệu giữa tích và tổng của chúng. Hóa ra một trong những khác biệt này là tiêu cực và cái còn lại là tích cực. Dấu hiệu của sự khác biệt thứ ba là gì? B.Frenkin
+
+Ở một đất nước mà mọi cư dân đều là hiệp sĩ hoặc kẻ dối trá (như bạn biết, các hiệp sĩ luôn nói sự thật và kẻ dối trá luôn nói dối), một đại đội gồm 19 thổ dân tập trung tại một bàn tròn. Mỗi người tụ tập đều tuyên bố rằng cả hai người hàng xóm của mình đều là những kẻ nói dối. Một vụ bê bối nổ ra khiến một bộ phận của công ty phải rời bữa tiệc. Sau đó, mỗi người còn lại hài lòng tuyên bố rằng giờ đây cả hai người hàng xóm của anh đều là hiệp sĩ. “Và trên thực tế, bây giờ không có một kẻ nói dối nào trong số các bạn,” những người cuối cùng rời công ty đồng ý với họ. Trong khi đó, những “kẻ phản bội” ​​lại tổ chức một cuộc họp mới tại bàn tròn. Mỗi người ngồi vào bàn này đều nói rằng trong số những người hàng xóm của mình có đúng một hiệp sĩ. Có bao nhiêu người vẫn ngồi yên tại chỗ sau khi công ty chia tách? V. Letsko
+
+3.
+
+Những bài toán này chủ yếu dành cho học sinh lớp 6 – 8.
+
+Minh họa của D. Grishukova
+
+Trong một tam giác vuông, một chân dài gấp đôi chân kia. Cắt nó thành 5 hình tam giác giống hệt nhau. R. Sarbash
