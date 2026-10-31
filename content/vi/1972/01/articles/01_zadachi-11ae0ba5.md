@@ -1,0 +1,40 @@
+---
+id: 1972-1-zadachi-11ae0ba5
+issue: kvant_1972_1
+year: 1972
+number: "1"
+title: '[Bài toán]'
+rubric: kvant-dlya-mladshih-shkolnikov
+page_first: 75
+page_last: 75
+tag: W1P7
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: d5656e85e0662794e0a767b616644b6261ca6a0998288862bb714ac1c08637b4
+prompt_sha256: draft-1
+translated_from: content/ru/1972/01/articles/01_zadachi-11ae0ba5.md
+source_content_sha256: 54ae612da3fc2526c2de515650b69737ac70f38683178098c0616ecb5b82c8e2
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+QUANTUM
+DÀNH CHO TRẺ EM TRUNG HỌC
+
+1. Có một bộ tản nhiệt sưởi ấm bằng hơi nước dưới cửa sổ dựa vào tường. Các đường ống dẫn nước nóng vào pin và xả nước lạnh được đặt ở bên trái. Ở phía bên phải của pin có các lỗ được đóng bằng phích cắm bắt vít. Một người đàn ông mạnh mẽ đảm nhận việc siết chặt các phích cắm này bằng cờ lê. Trong trường hợp nào anh ta sẽ siết chặt các phích cắm này chặt hơn: khi ren trên chúng thuận tay phải hay khi ren thuận tay trái?
+
+Các phích cắm được siết chặt bằng cách ấn nhẹ vào phím thay vì nhấn vào.
+
+2. Có bao nhiêu số 0 được thêm vào tích của tất cả các số từ 1 đến 100?
+
+3. Có năm bóng đèn 110 V có công suất 40, 40, 40, 60 và 60 W. Làm thế nào để bật chúng trong ánh sáng có điện áp 220 V để chúng cháy hết nhiệt?
+
+4. Con tàu từ Kyiv đến Kherson mất ba ngày và từ Kherson đến Kyiv bốn ngày (đi thẳng). Mất bao lâu để đi bè từ Kiev đến Kherson?
+
+5. Khi đi, con vịt lăn từ bên này sang bên kia, còn con gà thì không. Tại sao?
+
+6. Tại sao sương giá xuất hiện trên tường nhà gạch vào mùa đông khi có sự nóng lên đột ngột? Tại sao sương giá hiếm khi xuất hiện trên tường nhà gỗ?

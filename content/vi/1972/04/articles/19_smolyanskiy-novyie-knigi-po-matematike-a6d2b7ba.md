@@ -1,0 +1,78 @@
+---
+id: 1972-4-smolyanskiy-novyie-knigi-po-matematike-a6d2b7ba
+issue: kvant_1972_4
+year: 1972
+number: "4"
+title: '[Sách mới về toán học]'
+authors:
+  - Смолянский М. Л.
+rubric: retsenzii-bibliografiya
+page_first: 72
+page_last: 72
+page_labels: "70"
+tag: F8S2
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: ec1d3dda6436af8b3ad1ef8bef399239ef6ff4b09d22a7009e96611d554d0590
+prompt_sha256: draft-1
+translated_from: content/ru/1972/04/articles/19_smolyanskiy-novyie-knigi-po-matematike-a6d2b7ba.md
+source_content_sha256: bb8907377a679fae5cdc9a68f2fe9635459a4139d726465c61ea68adce07f07e
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 70⟧
+
+SÁCH MỚI
+
+Bắt đầu từ số này, các biên tập viên sẽ cung cấp các chú thích một cách có hệ thống về những cuốn sách được xuất bản trong năm nay và được độc giả của chúng tôi quan tâm. Những cuốn sách sau sẽ được xuất bản vào quý 1 và quý 2 năm 1972. (Có thể gửi đơn đặt hàng đến địa chỉ: Moscow, K-50, Medvedeva St., 1, cửa hàng số 8 Moskovitsy, bộ phận “Sách qua thư”. Sách sẽ được gửi bằng tiền mặt khi giao hàng.)
+
+TOÁN HỌC
+
+Nhà xuất bản "Khoa học"
+
+1. S. G. Gindikn. Allebra loedica gặp vấn đề. (tập 18 tờ in, phát hành 50.000 bản, giá 77 kopecks)
+Cuốn sách mô tả chi tiết một số vấn đề của logic toán, bao gồm: đại số của mệnh đề, các phần tử của logic vị từ, các vấn đề toán học của lý thuyết mạch chuyển tiếp, logic xác suất.
+Tất cả tài liệu được trình bày được chia thành các chu kỳ bài toán, hoàn chỉnh với các giải thích, chỉ dẫn, câu trả lời cần thiết và trong một số trường hợp là giải pháp chi tiết.
+Hầu hết các câu hỏi được trình bày ở cấp độ dễ tiếp cận đối với học sinh lớp 9-10 ở các trường vật lý và toán học.
+2. V. A. Kretschmar. Bài tập Allebra. (In tập 21 tờ, phát hành 100.000 bản, giá 69 kopecks)
+Cuốn sách chứa bài toán độ khó tăng dần về đại số và lượng giác.
+Các nhiệm vụ đều có phụ đề, câu trả lời và trong hầu hết các trường hợp đều có giải pháp chi tiết. Tất cả các nhiệm vụ được hệ thống hóa thành các phần. Các thông tin lý thuyết cần thiết được cung cấp ở đầu mỗi phần.
+Trước hết, cuốn sách được thiết kế dành cho những người đã sẵn sàng cho các kỳ thi đại học đầy tính cạnh tranh.
+3. I. G. Bashmanov. Phương trình Diophantus và Diophantine. (In tập 3 tờ, phát hành 25.000 bản, giá 10 kopecks)
+Cuốn sách nhỏ kể chi tiết về công trình của một trong những nhà toán học vĩ đại nhất Hy Lạp - Diophantus.
+
+Bằng các ví dụ cụ thể, tác giả trình bày các phương pháp của Diophantus ở hàng lời giải bài toán.
+Nó cũng phác thảo một số khái niệm và phương pháp phân tích Diophantine hiện đại.
+Cuốn sách nhỏ này dành cho nhiều đối tượng độc giả.
+
+Nhà xuất bản "Mir"
+
+4. M. Người làm vườn. Câu đố toán học, nghịch lý, thợ kim hoàn, thủ thuật. (Quyển 25 tờ in, phát hành 100.000 bản, giá 1 chà. 47 kopecks)
+Cuốn sách này được viết bởi một nhà phổ biến khoa học nổi tiếng người Mỹ. Có lẽ bạn đã đọc cuốn sách trước đây của anh ấy, Câu đố toán học và trò vui.
+Bằng hình thức sinh động và hấp dẫn, tác giả kể nhiều điều thú vị từ nhiều ngành toán học khác nhau.
+Những người yêu thích câu đố sẽ có thể sử dụng sức mạnh của mình trong các nghịch lý lời giải và bài toán, cũng như thực hiện các thủ thuật toán học.
+Cuốn sách có thể tiếp cận được với nhiều đối tượng độc giả.
+5. L. Carroll. Câu chuyện về những nút thắt. (Quyển 23 tờ in, phát hành 150.000 bản, giá 1 chà. 15 kopecks)
+Tên tác giả cuốn sách này đã được nhiều độc giả biết đến. Các cuốn sách “Alice ở xứ sở thần tiên” và “Alice qua gương soi” của ông đã được xuất bản nhiều lần ở Liên Xô.
+Lần đầu tiên ở nước ta, cuốn sách mới xuất bản tất cả những câu đố và câu đố bài toán thú vị nhất dưới ngòi bút của nhà văn tuyệt vời này.
+Cuốn sách dành cho nhiều đối tượng độc giả.
+
+Nhà xuất bản "Vyshaya Shkola"
+
+6. Tuyển tập bài toán môn toán dùng để thi các trường cao đẳng kỹ thuật.
+Ed. M. M. Skana trong i. (Số lượng 25 tờ in, phát hành 300.000 bản, giá 68 kopecks)
+Bộ sưu tập này là một hướng dẫn cho những người bước vào giáo dục đại học.
+Bộ sưu tập bao gồm hai phần: “Nhiệm vụ cho bài kiểm tra viết (giờ I) và bài toán cho bài kiểm tra vấn đáp và bài toán bổ sung (giờ II). Tổng cộng, bộ sưu tập chứa khoảng 5.000 bài toán.
+Tất cả bài toán phần của cây bút được chia thành ba nhóm tùy theo mức độ khó của chúng.
+Tất cả bài toán đều được cung cấp hướng dẫn hoặc giải pháp chi tiết.
+
+Nhà xuất bản "Prosveshcheniye"
+
+7. W. Sawyer. Mở đầu cho toán học. (In tập 17 tờ, phát hành 40.000 bản, giá 70 kopecks)
+Cuốn sách của nhà toán học và nhà phổ biến khoa học nổi tiếng người Mỹ W. Sawyer giới thiệu đến người đọc những ý tưởng cơ bản của toán học hiện đại. Một cách sinh động và thú vị, tác giả nói về nhận thức của học sinh về tư duy toán học, về vẻ đẹp và sức mạnh của các phương pháp toán học cũng như về nguồn gốc của các xu hướng chính trong toán học.
+Bạn có thể đọc thêm về cuốn sách này trên tạp chí «Kvant» Số 1 năm 1972.
+Cuốn sách dành cho nhiều đối tượng độc giả.
+M. L. Smolyansky

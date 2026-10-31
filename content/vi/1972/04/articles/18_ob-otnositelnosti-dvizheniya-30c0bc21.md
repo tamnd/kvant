@@ -1,0 +1,48 @@
+---
+id: 1972-4-ob-otnositelnosti-dvizheniya-30c0bc21
+issue: kvant_1972_4
+year: 1972
+number: "4"
+title: Về tính tương đối của chuyển động
+rubric: smes
+page_first: 70
+page_last: 70
+page_labels: "68"
+tag: I2L5
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: e810d040bca56dc4c510cfa5c3adcd0c701dddb117fa679bb140598eb822eb2f
+prompt_sha256: draft-1
+translated_from: content/ru/1972/04/articles/18_ob-otnositelnosti-dvizheniya-30c0bc21.md
+source_content_sha256: 3d8ad422f72eb27eeff2a9a2720c9c50dc28f9a0714299d9f2111fe2e5094985
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 68⟧
+
+Cơm. 2.
+
+áp suất, truyền khí từ xi lanh này sang xi lanh khác có chênh lệch áp suất $\Delta p \geq 80$ cm·pm·cm. Một xi lanh chứa đầy khí, ở nhiệt độ $t_1 = 17^\circ$ C có áp suất $P = 760$ mm·pm·cm., trong xi lanh kia có chân không. Áp suất nào sẽ được thiết lập trong các bình nếu chúng được nung nóng đến nhiệt độ $t_2 = 109^\circ$ C?
+
+8. Dòng điện $I$ chạy qua một diode có các điện cực phẳng. Điện áp đèn $U$. Với lực nào $F$ các điện cực chạm vào nó tác dụng lên cực dương của đèn, nếu chúng ta giả sử rằng tốc độ của chúng ở cực âm bằng 0? Tỷ lệ điện tích trên khối lượng của nó là $\frac{e}{m} = \lambda$.
+
+9. Hai cuộn dây (I và II-III) được quấn trên lõi sắt và cuộn thứ hai (II-III) có ba đầu cuối (xem Hình 2). Khi cuộn dây I nối vào mạng điện xoay chiều, điện áp ở phần II của cuộn dây thứ hai là $U_2 = 20$ $\theta$, và ở phần III - $U_5 = 100$ $\theta$. Nếu đầu cuối 2-2 được kết nối với cùng một mạng thì điện áp trên cuộn dây I sẽ là $U_1 = 13,3$ $\theta$. Cuộn dây tôi có $N_1 = 300$ vòng. Tìm số vòng $N_2$ và $N_3$ của đoạn II và III của cuộn dây thứ hai. Bỏ qua sự tiêu tán dòng chảy.
+
+10. Một bếp điện có hai cuộn dây có điện trở $R_1 = 10$ ohm và $R_2 = 20$ ohm. Với các cuộn dây nối song song, khi nối vào lưới điện, bếp nóng lên khoảng $\Delta T_1 = 300^\circ$. Quá trình gia nhiệt tiếp tục dừng lại vì lượng nhiệt tỏa ra bằng với lượng nhiệt tỏa ra trên cuộn dây. Bếp sẽ nóng lên bao nhiêu độ ($\Delta T_2$) nếu được nối vào cùng một mạng bằng các cuộn dây nối nối tiếp? Nhiệt hóa $Q = k \cdot \Delta T$, trong đó $k = \text{const}$ và $\Delta T$ là sự chênh lệch giữa nhiệt độ phòng và nhiệt độ bếp.
+
+11. Xác định bán kính $R$ của gương cầu lõm nếu cho ảnh thật nhỏ hơn vật $m = 2$ lần và khoảng cách giữa vật và ảnh là $d = 0,75$ m.
+
+12. Có một nguồn sáng chính xác ở khoảng cách $d = 10$ cm từ màn hình. Hỏi độ sáng ở giữa màn thay đổi bao nhiêu lần $k$ nếu nguồn được di chuyển ra xa màn một khoảng $2d$ và một màn lõm có bán kính cong $R = 20$ cm được đặt phía sau nguồn một khoảng $d$ từ nó? Hệ số phản xạ của màn là 1. Nguồn, tâm màn và tâm màn nằm trên cùng một đường thẳng.
+
+VỀ SỰ TƯƠNG ĐỐI CỦA CHUYỂN ĐỘNG
+
+Khi Huygens nghĩ về định luật tác động của các quả bóng, ông đã tiến rất gần đến một nguyên lý quan trọng của cơ học hiện đại - nguyên lý chuyển động tương đối, tức là sự độc lập của các định luật va chạm với chuyển động đều của hệ (chúng ta đang nói về nguyên lý Galileo, nhưng Galileo không sử dụng nó cho lời giải bài toán).
+
+Giả sử rằng một thí nghiệm với stolnov gồm những quả bóng giống hệt nhau được thực hiện bởi một người đứng trên một chiếc thuyền trôi theo dòng mismo của một người khác đang đứng trên bờ (hình vẽ được lấy từ cuốn sách của W.I. Frankfurt và A.M. Frank “Christan Huygens”, M., nhà xuất bản của Viện Hàn lâm Khoa học Liên Xô, 1962). Người trên thuyền chắp tay như thế này
+
+rằng các quả bóng bắt đầu chuyển động đều với tốc độ bằng, chẳng hạn như $\pm v$, trong đó $v$ là tốc độ của thuyền.
+
+Quả bóng trong tay $A$ sẽ chuyển động so với vật thể quan sát được trên bờ trước khi va chạm, và quả bóng trong tay $B$ sẽ chuyển động so với vật thể quan sát được trên bờ với tốc độ $2v$. Sau va chạm, các quả bóng poly sẽ thay đổi: quả bóng $B$ giữ nguyên và quả bóng $A$ sẽ chuyển động theo chuyển động của thuyền với tốc độ gấp đôi $2v$. Như vậy, từ bài tập về tác động của các quả bóng giống nhau chuyển động về phía một quả bóng khác, lời giải bài toán suy ra về tác dụng của một vật đang chuyển động lên một vật ban đầu đứng yên.

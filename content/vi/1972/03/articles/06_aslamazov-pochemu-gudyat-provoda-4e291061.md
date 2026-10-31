@@ -1,0 +1,42 @@
+---
+id: 1972-3-aslamazov-pochemu-gudyat-provoda-4e291061
+issue: kvant_1972_3
+year: 1972
+number: "3"
+title: Tại sao dây có tiếng ồn?
+authors:
+  - Асламазов Л. Г.
+rubric: osnovnye-stati
+page_first: 24
+page_last: 24
+page_labels: "22"
+tag: Q3M7
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: dcc2fa4088cc5800c8eda203d3fb3c70f38896acebdda4d8b037915c7350578f
+prompt_sha256: draft-1
+translated_from: content/ru/1972/03/articles/06_aslamazov-pochemu-gudyat-provoda-4e291061.md
+source_content_sha256: e47ce2a9b8af9d2b5978009b369ecc33b8f5e14821741730eb5e4acd5434df7e
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 22⟧
+
+Ngay cả người Hy Lạp cổ đại cũng nhận thấy rằng một sợi dây căng ra trong gió đôi khi bắt đầu phát ra âm thanh trẻ trung - để hát. Có lẽ đàn hạc Elov đã được biết đến từ lâu, được gọi như vậy với cái tên thần gió Eolla. Đàn hạc Aeilian bao gồm một khung trên đó có nhiều dây được căng; nó được đặt ở nơi mà dây chuyển động nhờ gió. Ngay cả khi bạn giới hạn bản thân ở một dây, bạn vẫn có thể có được nhiều âm sắc khác nhau. Một cái gì đó tương tự, nhưng với ít âm sắc đa dạng hơn, sẽ truyền qua khi gió di chuyển dây điện báo.
+
+Trong một thời gian khá dài, hiện tượng này và nhiều hiện tượng khác liên quan đến dòng không khí và nước xung quanh cơ thể vẫn chưa được giải thích. Chỉ có Newton, người sáng lập cơ học hiện đại, đưa ra cách tiếp cận khoa học đầu tiên cho lời giải như vậy bài toán.
+
+Theo định luật cản trở chuyển động của các vật trong chất lỏng hoặc chất khí do Newoton phát hiện, lực cản tỉ lệ với bình phương vận tốc: $F = k\rho v^2S$.
+
+Ở đây $v$ là tốc độ của vật thể, $S$ là diện tích mặt cắt ngang của nó vuông góc với hướng truyền tốc độ, $\rho$ là mật độ của chất lỏng.
+
+Sau này chúng tôi phát hiện ra rằng công thức Newton không phải lúc nào cũng đúng. Trong trường hợp tốc độ chuyển động của một vật nhỏ so với tốc độ chuyển động Tellan của các phân tử thì định luật cản trở của Newton không còn giá trị. Khi chuyển động chậm, lực cản tỷ lệ thuận với tốc độ của cơ thể chứ không phải bình phương của nó như khi chuyển động nhanh. Ví dụ, tình huống như vậy sẽ phát sinh khi những giọt mưa nhỏ di chuyển trong một khu vực hoặc khi trầm tích lắng đọng trong kính. Tuy nhiên, trong công nghệ hiện đại với tốc độ nhanh chóng, định luật cản trở của Newton thường có hiệu lực.
+
+Có vẻ như vì đã biết các định luật về lực cản, nên có thể giải thích được tiếng vo ve của dây điện hoặc tiếng hát của đàn hạc. Nhưng điều đó không đúng. Rốt cuộc, nếu cường độ lực cản không đổi thì gió sẽ chỉ làm căng sợi dây và không kích thích âm thanh của nó.
+
+Có chuyện gì vậy? Để giải thích âm thanh của một sợi dây, những ý tưởng đơn giản về lực cản mà chúng ta vừa thảo luận sẽ không đủ. Chúng ta hãy thảo luận chi tiết hơn về một số loại chất lỏng chảy xung quanh một vật thể đứng yên (điều này thuận tiện hơn so với việc xem xét chuyển động của một vật thể trong một chất lỏng đứng yên, và đáp số tất nhiên sẽ giống nhau).
+
+Nhìn vào Hình 1. Đây là trường hợp vận tốc chất lỏng thấp. Các đường thẳng đi theo hình trụ (mặt cắt ngang được thể hiện trong hình) và tiếp tục trơn tru phía sau nó. Dòng kháng cự này là tầng. Lực cản trong trường hợp này truyền qua ma sát trong chất lỏng - trọng lực và tỷ lệ với $V$. Tốc độ của chất lỏng tại bất kỳ nơi nào cũng như lực cản không phụ thuộc vào thời gian (dòng chảy đứng yên). Vụ này chúng tôi không quan tâm.

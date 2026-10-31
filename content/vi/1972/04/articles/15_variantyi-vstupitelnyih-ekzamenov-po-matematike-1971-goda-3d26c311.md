@@ -1,0 +1,57 @@
+---
+id: 1972-4-variantyi-vstupitelnyih-ekzamenov-po-matematike-1971-goda-3d26c311
+issue: kvant_1972_4
+year: 1972
+number: "4"
+title: Các lựa chọn thi tuyển sinh môn Toán năm 1971
+rubric: praktikum-abiturienta
+rubric_sub: Практикум абитуриента
+page_first: 62
+page_last: 62
+page_labels: "60"
+tag: FWZ0
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: f4b6a390985979a37ae9c170e317a2bf3c7b352b1210586d1fda66c8af3eb81c
+prompt_sha256: draft-1
+translated_from: content/ru/1972/04/articles/15_variantyi-vstupitelnyih-ekzamenov-po-matematike-1971-goda-3d26c311.md
+source_content_sha256: 50358ed02789f9322fb8321b56bad189b1cae9c59928643a2d68a9c6dd5b7e35
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 60⟧
+
+CÁC LỰA CHỌN THI ĐẦU VÀO
+TRONG TOÁN 1971
+
+Đại học quốc gia Moscow
+được đặt theo tên của M.V. Lomonosov
+
+Khoa Cơ học và Toán học
+
+1. Giải phương trình:
+$$x^2 \log_3(x^2) - (2x^2 + 3) \log_9(2x + 3) = 3 \log_3\left(\frac{x}{2x + 3}\right).$$
+2. Tìm tất cả $x$ từ đoạn $0 \leq x \leq \pi$ thỏa mãn bất đẳng thức
+$$\sin 2x + \sin x - \sqrt{2} \cos x < \frac{1}{\sqrt{2}}.$$
+3. Các mặt bên của hình chóp tứ giác là các hình tam giác đều bằng nhau, ở đáy hình chóp là một hình thoi, một đường chéo dài gấp đôi đường chéo kia. Tìm thể tích $V$ của hình chóp nếu biết diện tích bề mặt bên là 6, cạnh bên ở giữa có hai cạnh tạo thành một góc tù.
+4. Tìm tất cả các giá trị của $\alpha$ mà hệ bất phương trình
+$$\begin{cases} x^2 + 4x + 3 \leq \alpha, \\ x^2 - 2x \leq 3 - 6\alpha \end{cases}$$
+có một lời giải.
+5. Một đường tròn có thể nội tiếp trong tứ giác $ABCD$ và có thể vẽ một đường tròn xung quanh nó. Đường chéo $AC$ chia diện tích của hình tứ giác làm đôi. Tìm độ dài đường chéo $BD$ nếu bán kính của hình tròn nội tiếp là $r$ và chu vi của tứ giác là $p$.
+
+Khoa Ngôn ngữ học kết cấu và ứng dụng, Khoa Ngữ văn
+
+1. Bốn nhà ngôn ngữ học (mỗi nhà riêng biệt) đang tham gia xử lý văn bản toán học. Mỗi người trong số họ làm việc với sự ngẫu nhiên liên tục. Nếu ba phần đầu tiên hoạt động trong một giờ và phần thứ tư trong hai giờ, thì họ sẽ cùng nhau xử lý 26 trang văn bản. Nếu cái thứ ba hoạt động trong hai giờ và cái còn lại trong một giờ, thì 32 trang văn bản sẽ được xử lý. Nếu cái thứ hai hoạt động trong hai giờ và cái khác hoạt động trong một giờ, thì 40 trang văn bản sẽ được xử lý. Có bao nhiêu trang văn bản sẽ được xử lý nếu trang đầu tiên chạy trong ba giờ, trang thứ hai trong năm giờ và trang thứ ba trong bảy giờ?
+2. Cạnh dài của hình chữ nhật là $d$. Một hình tròn được vẽ có tâm ở một trong các đỉnh của hình chữ nhật và bán kính bằng cạnh ngắn hơn của nó. Phần chung với hình tròn thu được sẽ bị xóa khỏi hình chữ nhật.
+Tại giá trị nào của chiều dài nhỏ hơn cạnh thì diện tích phần còn lại sẽ lớn nhất?
+3. Xác định có bao nhiêu số nguyên lời giải có bất đẳng thức
+$$(n^2 - 2)(n^2 - 22)(n^2 - 52)(n^2 - 152) < 0.$$
+4. Xác định xem $a$ bất đẳng thức $\log_{a(a+1)}(|x|+4) > 1$ đúng với mọi số thực $x$.
+5. Trung bình cộng của các số phức $z$ tìm tất cả những số phức
+$$\log_2(1 + |z^2 - i|) + \log_{16}\frac{1}{(1 + |z^2 + i|)^4} = 0.$$
+6. Khám phá và giải hệ phương trình:
+$$\begin{cases} x^7y^{31} = a, \\ x^2y^9 = b. \end{cases}$$
+7. Chứng minh rằng nếu $p$ và $q$ là số nguyên và $p^2 - 7q^2 = 2pq$ thì $p=q=0$.

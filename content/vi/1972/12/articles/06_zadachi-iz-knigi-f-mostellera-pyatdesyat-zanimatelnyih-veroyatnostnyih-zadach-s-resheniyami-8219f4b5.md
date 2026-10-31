@@ -1,0 +1,60 @@
+---
+id: 1972-12-zadachi-iz-knigi-f-mostellera-pyatdesyat-zanimatelnyih-veroyatnostnyih-zadach-s-resheniyami-8219f4b5
+issue: kvant_1972_12
+year: 1972
+number: "12"
+title: '[Bài toán từ cuốn sách “Năm mươi xác suất giải trí bài toán với các giải pháp” của F. Mosteller]'
+rubric: smes
+page_first: 27
+page_last: 27
+page_labels: "25"
+tag: NFDX
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 6b634cce2a1f3bcbb9762fd1abff4176cf5cee44b2517eb40851647dad5419ab
+prompt_sha256: draft-1
+translated_from: content/ru/1972/12/articles/06_zadachi-iz-knigi-f-mostellera-pyatdesyat-zanimatelnyih-veroyatnostnyih-zadach-s-resheniyami-8219f4b5.md
+source_content_sha256: 2eef5de7aab443d64bf6e065e319328bf28b6483f0c5a65d086bf6a8d62e386f
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 25⟧
+
+Sau khi truyền bá đẳng thức này đến cơ số $e$, chúng ta nhận được
+
+$$A = \frac{m}{\mu} RT \ln \frac{V}{V_0}.$$
+
+Ở đây $V_0$ là giá trị ban đầu của âm lượng, $V$ là giá trị cuối cùng.
+
+9. Nhiệm vụ của Tsiolkovsky
+
+Chúng ta hãy xem xét chuyển động của một tàu vũ trụ nằm ở một khoảng cách rất xa so với khối lượng hấp dẫn. Rõ ràng là nếu động cơ không hoạt động thì con tàu sẽ kết thúc hoặc chuyển động đều và theo một đường thẳng; chúng ta sẽ cho rằng anh ấy đã hoàn thành, $v_0 = 0$. Do định luật bảo toàn, sau khi bật động cơ, lượng chuyển động của hệ “khí thải tàu” không đổi vì không có ngoại lực nào tác dụng lên hệ này.
+
+Ta ký hiệu bằng $m$, $v$ khối lượng của tàu cùng với nhiên liệu và tốc độ của nó tại thời điểm $t$, $u$ - tốc độ của khí thải thải ra so với tàu (một giá trị không đổi). Sau đó $mv = (m - \Delta m) \times (v + \Delta v) - \Delta m (u - v)$, từ đó $\Delta m = -\frac{\Delta v}{u - \Delta v} m$. Hãy tìm sự phụ thuộc của $m$ vào $v$. Đối với $\Delta v$ nhỏ, xét rằng $u$ là một hằng số, $u \neq 0$, chúng ta có $u - \Delta v \approx u$, do đó
+
+$$\Delta m \approx -\frac{1}{u} m \cdot \Delta v,$$
+
+và, do đó,
+
+$$m = m_0 e^{-\frac{v}{u}}.$$
+
+Lấy Prologarit về cơ số $e$ và rút gọn, ta có
+
+$$v = u \ln \frac{m_0}{m}.$$
+
+Suy ra, tốc độ của tàu hoàn toàn được xác định bởi tốc độ ban đầu, tốc độ tương đối của một phần khí thải và lượng nhiên liệu tiêu thụ và không phụ thuộc vào quy luật tiêu hao nhiên liệu.
+
+Ở trang 61, a lời giải được F. Mosteler đặt trong cuốn sách “Xác suất năm mươi người chiếm giữ bài toán”. Chúng tôi trình bày một số bài toán từ cuốn sách của F. Mosteler.
+
+Tàu điện ngầm kỳ lạ
+
+Marvin hoàn thành công việc từ 15:00 đến 17:00. Mẹ anh và vợ sắp cưới của anh sống ở hai phía đối diện của thành phố. Chàng trai lên chuyến tàu đầu tiên đến gần sân ga, đi theo bất kỳ hướng nào và ăn trưa với người phụ nữ mà anh ta đến. Mẹ của Marvin rất buồn vì anh hiếm khi đến thăm bà, nhưng chàng trai trẻ khẳng định rằng cơ hội ăn tối với bà và với cô dâu là như nhau. Marvin ăn trưa với mẹ hai lần trong suốt 20 ngày làm việc. Giải thích hiện tượng này.
+
+Băng Duz thiếu kiên nhẫn
+
+Doozles trong thành phố Thận trọng hiếm khi kết thúc bằng một kết cục đáng buồn. Thực tế là mỗi người thắt nút đến địa điểm hẹn vào một thời điểm ngẫu nhiên, từ 5 đến 6 giờ sáng và sau khi tiếp tục với người gác cổng trong 5 phút, họ rời đi. Trong trường hợp thời gian lưu trú trong năm phút này bị trì hoãn. Bộ phận nào của cơ thể kết thúc trong một cuộc đấu tay đôi?
+
+(Để kết thúc, xem trang 48)

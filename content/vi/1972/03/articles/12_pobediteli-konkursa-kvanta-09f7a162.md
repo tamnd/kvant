@@ -1,0 +1,75 @@
+---
+id: 1972-3-pobediteli-konkursa-kvanta-09f7a162
+issue: kvant_1972_3
+year: 1972
+number: "3"
+title: Người chiến thắng cuộc thi «Kvant»
+rubric: zadachnik-kvanta
+page_first: 38
+page_last: 38
+page_labels: "36"
+tag: A48U
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 3d865fac24ddc081b40adc90c86b87b3cbfcecbf1a2678216cf51388826a13ec
+prompt_sha256: draft-1
+translated_from: content/ru/1972/03/articles/12_pobediteli-konkursa-kvanta-09f7a162.md
+source_content_sha256: 9269dce916cc924e9690104a30803c5d3a66deb4b57ef6d08834a614ccc5e1b4
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 36⟧
+
+Chúng tôi đã báo cáo (xem «Kvant» Số 1 cho năm 1970 và 1971) rằng những học sinh được giao nhiệm vụ đặc biệt nguyên bản và hoàn thành lời giải bài toán “Nhiệm vụ «Kvant», sẽ nhận được quyền tham gia vào lĩnh vực của ba Thế vận hội Vesegoiznoy cùng với những người chiến thắng trong Thế vận hội khu vực và thành phố. Trong suốt năm 1971, các biên tập viên đã nhận được nhiều hơn một nghìn rưỡi lá thư kèm theo quyết định và chọn ra những tác giả chính xác và thú vị nhất lời giải.
+
+Dưới đây chúng tôi công bố danh sách học sinh lớp 7–10 đã nhận được quyền tham gia Olympic thành phố Moscow và Leningrad, cũng như các Olympic khu vực, khu vực và nguồn lực (ở Cộng hòa xã hội chủ nghĩa Xô viết tự trị và đồng nguồn lực không phân chia khu vực).
+
+Những đối tượng sau đây được phép tham gia Olympic Toán:
+
+A. Blyukhin - Kiselevsk, vùng Kemerovo, phía bắc sh. 27;
+S. Buubatryn - Khuôn mẫu. Liên Xô, khu định cư Glodyany, phía bắc sh. 2;
+L. Bratsisky - Frunze, s.sh. 61;
+A. Brevdo - Minsk, s.sh. 10;
+A. Butsay - Izyaslav, s.sh. 5;
+A. Viner - Làng Gorodkovka, vùng Vinnytsia, phía bắc sh. 1;
+A. Volber - Leningrad, s.sh. 239;
+G. Vysotskaya - Krasnoyarsk, s.sh. 81;
+A. Golber - Moscow, s.sh. 2;
+A. Gordenko - làng Poltavenskoye, quận Kushevsky, Lãnh thổ Krasnoarsk, phía bắc sh. 37;
+A. Grigoryan - Baku, s.sh. 211;
+V. Gritsevich - Chortkiv, vùng Ternopil, phía bắc sh. 1;
+E. Gundar - Voroshilovgrad, s.sh. 17;
+L. Dachevi - Leningrad, s.sh. 38;
+A. Zhumadildaev - Alma-Ata, trường học - int. 56
+V. Zaporozhskaya - Sositsa, vùng Cherngov;
+A. Zaslavsky - Kalinin, s.sh. 20;
+I. Ienatyev - làng Sarmanovo TASSR;
+
+M. Illartsionov - Voronezh, s.sh. 58;
+I. Kashapov - Moscow, Khoa Cơ và Toán, Đại học Quốc gia Moscow;
+Yu. Kisin - Staraya Russa, s.sh. 1;
+T. Kislitsina - tr. Sharanga, vùng Gorky;
+L. Knizerman - Moscow, s.sh. 259;
+S. Konyazin - Sapatov, s.sh. 19;
+V. Kopylov - Ufa, s.sh. 7;
+V. Korenyako - Voronezh, s.sh. 58;
+H. Kornienko - Minsk, s.sh. 50;
+R. Kosoy - Odessa, s.sh. 116;
+A. Karimov - Moscow, Khoa Khoa học Y tế tại Đại học Tổng hợp Moscow
+A. Kumukov - Baku, s.sh. 151;
+L. Lazareva - Leningrad, s.sh. 298;
+V. Lodinov - Moscow, s.sh. 91;
+V. Luzin - Matxcova, Khoa Cơ và Toán, Đại học Tổng hợp Matxcơva;
+S. Lyagushin - Dnepropetrovsk, s.sh. 23;
+A. Makariev - Lvov, s.sh. 14;
+G. Makarov - Zlagoust, s.sh. 25;
+A. Merkuryev - Leningrad, fms;
+M. Perelmuter - Kyiv, s.sh. 145;
+M. Praeger - Tomsk, s.sh. 51;
+A. Pukhalsky - Moscow, s.sh. 2;
+A. Redchenko - tr. Novopetrovka, quận Belopolsky, vùng Sumy, đường cao tốc phía bắc Kuyanovskaya;
+M. Rozov - Minsk, s.sh. 50;
+A. Sboev - làng Medvedok, quận Nolinsky, vùng Kirov;

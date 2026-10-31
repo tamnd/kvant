@@ -1,0 +1,52 @@
+---
+id: 1972-11-sorokin-nesostoyavshiysya-obed-8504054f
+issue: kvant_1972_11
+year: 1972
+number: "11"
+title: Bữa trưa thất bại
+authors:
+  - Сорокин А. С.
+rubric: smes
+page_first: 23
+page_last: 23
+page_labels: "21"
+tag: K570
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 291dd68df755b550949e0d73ede6909433a1138d5d609934e620e7b45877e5f9
+prompt_sha256: draft-1
+translated_from: content/ru/1972/11/articles/07_sorokin-nesostoyavshiysya-obed-8504054f.md
+source_content_sha256: 169eac8fec0d4cb6ef9af56b442a63cff1a269fd727ac7104cb31792d1a1e4be
+translation_model: draft
+translation_run: vi-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 21⟧
+
+các điểm sẽ gần với một số nhất định $l_1$ và độ dài của dấu gạch ngang sẽ gần với một số nhất định $l_2$. Nếu chúng ta tìm thấy hai số $l_1$ và $l_2$ này và đặt $l = \frac{l_1 + l_2}{2}$, thì chúng ta có thể mong đợi rằng hầu hết tất cả các dấu chấm đều ngắn hơn $l$ và hầu hết tất cả các dấu gạch ngang đều ngắn hơn $l$. Để xác định các số $l_1$ và $l_2$, máy “xem qua” một đoạn văn bản lớn và loại bỏ các ký tự dài có trong đó. Ví dụ: trong trường hợp văn bản ở Hình 2, máy được đặt ở vị trí 4 lần, độ dài 2 - 3 lần, độ dài 3 - 1 lần, độ dài 4 - 3 lần, độ dài 5 - 1 lần:
+
+| Độ dài ký tự | 1 | 2 | 3 | 4 | 5 |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Số ký tự | 4 | 3 | 1 | 3 | 1 |
+
+Hóa ra ký hiệu ngắn cụ thể nhất là ký hiệu có độ dài 1, và ký hiệu dài cụ thể nhất có độ dài 4. Hai số này máy “lấy” là $l_1$ và $l_2$ rồi tính toán $l = \frac{1 + 4}{2} = 2,5$.
+
+Lúc này máy sẽ đếm tất cả các ký tự có độ dài nhỏ hơn 2,5 là dấu chấm, còn tất cả các ký tự còn lại sẽ coi là dấu gạch ngang. Đôi khi, để có độ tin cậy cao hơn, máy có thể phân phối lại ngẫu nhiên các số $l_1$, $l_2$ và $l$.
+
+Phương pháp nhận dạng dấu chấm và dấu gạch ngang này (với một số thuộc tính đã học) đã được thử nghiệm trên một máy cụ thể và cho kết quả xuất sắc: máy đọc chính xác hơn 90% ký tự.
+
+Tất nhiên, thành công mang tính quyết định trong lĩnh vực này vẫn chưa đến; nhưng điều gì đó đã được thực hiện và các nhà khoa học tiếp tục làm việc tích cực trong lĩnh vực này. Nhiệm vụ dạy máy đọc hấp dẫn nhiều nhà nghiên cứu được coi là một trong những nhiệm vụ quan trọng, thú vị và khó khăn nhất. bài toán trong điều khiển học hiện đại **).
+
+*) Tất cả độ dài được làm tròn đến số nguyên gần nhất.
+
+**) Để biết thêm chi tiết, hãy xem cuốn sách của M. M. Bongard “Vấn đề về sự công nhận” (M., nhà xuất bản Nauka, 1967).
+
+Bữa trưa thất bại
+
+Dorofey Martyanch Dubodumov, sau khi chuyển đến căn nhà gỗ của mình vào mùa hè, đã quyết định tổ chức bữa tối và mời cả tám người hàng xóm của mình.
+
+“Anh đang nói gì vậy?” họ vẫy tay với anh. “Bạn không biết rằng Porfiry Apollinarivich sẽ không bao giờ nhận lời mời nếu bạn mời Afanasy Methodevich hoặc Ambrose Evlamppevich, hoặc nếu Avdotya Pafnutyevna và Nikodim Gavrilovich được mời cùng lúc.” Tuy nhiên, Ambrose Evlamppevich và Afanasy Mefodevich sẽ không phản đối bất kỳ lời mời nào, khi đó Avdotya Pafnutyevna sẽ chỉ đến nếu Nikodim Gavrilovich cũng được mời, người sẽ không nhận lời nếu Afanasy Mefodevich có mặt tại bữa tối. Rosalia Leopoldovna thoa kem tươi chỉ có Akaki Akakievchi đi kèm. Cleopatra Ivanovna sẽ không phản đối lời mời của Rosalia Leopoldovna chỉ khi Porfiry Apollinarovich được mời, nhưng nếu Nikodima Gavrilovich không được mời. Để mời Akaki Akakievchi thì cần phải mời Avdotya Pafnutyevna hoặc Cleopatra Ivanovna, hơn nữa, anh ta sẽ từ chối lời mời nếu Nikodim Gavrilovich đến ăn tối mà không có Porfiry Apollinarivchi, và việc Akaki Akakievchi sẽ không đến nếu Afanasy Mefodevichi hoặc Ambrose Evlampevichi được mời cũng không có gì đáng nói.
+
+(Cuối cùng xem trang 39)
