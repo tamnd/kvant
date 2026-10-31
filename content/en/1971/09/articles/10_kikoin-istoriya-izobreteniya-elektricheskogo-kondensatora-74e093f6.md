@@ -1,0 +1,45 @@
+---
+id: 1971-9-kikoin-istoriya-izobreteniya-elektricheskogo-kondensatora-74e093f6
+issue: kvant_1971_9
+year: 1971
+number: "9"
+title: History of the invention of the electric capacitor
+authors:
+  - Кикоин А. К.
+rubric: raznoe
+page_first: 58
+page_last: 58
+page_labels: "56"
+tag: USB0
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 48f88da84949d7f1fd96c5c4bed7c584b7adb5a5571336efc4adc430fd68a973
+prompt_sha256: draft-1
+translated_from: content/ru/1971/09/articles/10_kikoin-istoriya-izobreteniya-elektricheskogo-kondensatora-74e093f6.md
+source_content_sha256: f3f24ee61a6fcd402331068b9258cbe6757a7312c0b6a93d0b6844516dd75765
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 56⟧
+
+HISTORY OF INVENTION
+ELECTRICAL CAPACITOR
+
+A. K. Kikoin
+
+The first half of the 18th century was a time of rapid accumulation of experimental facts about electrical phenomena. It was at this time, for example, that it became clear that there were two electricity sources.
+
+One thing is the electrification of bodies; the nature of electricity remained completely mysterious. It was generally believed that electricity is a special vitality that contains a charged body in every body. And the observed decrease in charge on natural bodies was interpreted as the “evaporation” of this electric liquid. An equally natural idea was to try to prevent such “evaporation” by placing a charged body in ... a bottle, using water as the charged body.
+
+This is exactly the experiment that Jurgen von Kleist carried out in one of the cathedrals in Pomerania in 1745 (according to other sources, the experiment was carried out with the aim of obtaining charged water, supposedly beneficial for health). He filled the bottle with water, closed it with a cork, and through the cork a metal rod (simply a bunch) into the water. By connecting the outer end of the rod to an electric machine, which in those days was a rotating glass ball against which the experimenter’s hand rubbed, Kleist imparted a significant electric charge to it. And then the unexpected happened. Taking the bottle with one hand, he had the imprudence to touch the end of the nail protruding from the cork with the other hand, and in doing so he made a strong blow to his arms and shoulders, which caused the mouse to become numb. The necessary case was shimmy, he reported this in a letter to one of his friends.
+
+By coincidence, almost the same experiment and almost at the same time was carried out in the Dutch city of Leiden by university professor Muschenbrock. Only together with the walled bottle did Muschenbrock use a thin-walled glass jar. Having charged the water and taken the jar in one hand, he also brought it with the other hand to the metal rod that served to supply the charge to the water. At the same time, Muschenbrock made such a strong blow to his arms, shoulders and chest that he lost consciousness. and came to his senses for two days. Reporting this “adventure” in a letter to his French correspondent, Muschenbrock adds that he would not agree to repeat the experience, even if he were promised the French kingdom!
+
+At first, the observations of Kleist and Muschenbrock were understood as manifestations of the so-called “living electricity”, since human hands played such an important role in these experiments. But pretty soon it became clear that the hand holding the jar and the charged liquid in it were, as we now say, the plates of a capacitor and that an even more effective device would be obtained if the outer and inner surfaces of the walls of the jar were covered with a layer of metal, for example, tin foil.
+
+This is how the first electric capacitor was born, which the French physicist Jean Nollet called the Leyden jar - a name that has not been forgotten to this day.
+
+Probably, an echo of the then prevailing ideas about electricity and the “bottle” origin of the capacitor remained the word denoting the main characteristic of the capacitor - capacitance.

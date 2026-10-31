@@ -1,0 +1,45 @@
+---
+id: 1972-1-korotko-ob-eksponente-3faef166
+issue: kvant_1972_1
+year: 1972
+number: "1"
+title: Briefly about the exhibitor
+rubric: smes
+page_first: 76
+page_last: 76
+tag: I94I
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 935e6a019353d50d73dd4c2722dfacaa22277ed567400b94a096ab390881ea15
+prompt_sha256: draft-1
+translated_from: content/ru/1972/01/articles/02_korotko-ob-eksponente-3faef166.md
+source_content_sha256: a39c43a2f804ea4a2cc56a37a462337f61838bb5e2e04d9fae29bb0dcbef7a7b
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+BRIEFLY ABOUT THE EXHIBITOR
+
+Very often we encounter quantities whose changes are proportional to these quantities themselves. For example, the change in the number of bacteria in a colony (under constant conditions) is proportional to their number. The change in atmospheric pressure with altitude is proportional to the pressure value. The number of atoms of a radioactive substance decaying per unit time is proportional to the number of atoms in the sample. Population growth on earth is proportional to the population size, etc. Mathematically, all quantities that change in this way are expressed by a function that has the following important property: the tangent of the tangent to the x-axis at each point is proportional to the value of the function at that point (see figure).
+
+The exponential function $y=a^x$ has this property.
+
+The special case of this function is important when $a=e$:
+
+$$y=e^x.$$
+
+This function has a special name - exponent.
+
+The number $e$ is an irrational number equal to 2.718...
+
+Of all the exponential functions, it is distinguished by the fact that the tangent of the angle of inclination of the tangent to the graph of the exponential at any point is not proportional, but is equal to the value of the function at this point. For those who know what an arbitrary function is, let’s also say this: an arbitrary function $e^x$ is equal to $e^x$. Readers of our magazine will have to meet with the exhibitor very often.
+
+Here are some of its properties:
+
+1. $e^{x_1}+x_2=e^{x_1}e^{x_2}$.
+2. If $x_1<x_2$, then $e^{x_1}<e^{x_2}$.
+3. For $x\ll1$ one can use the approximate formula $e^x\approx1+x$.

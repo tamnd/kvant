@@ -1,0 +1,59 @@
+---
+id: 1972-3-belonuchkin-variantyi-vstupitelnyih-ekzamenov-po-fizike-1971-goda-v-moskovskiy-fiziko-tehnicheskiy-institut-cf763c25
+issue: kvant_1972_3
+year: 1972
+number: "3"
+title: Options for entrance exams in physics in 1971 at the Moscow Institute of Physics and Technology
+authors:
+  - Белонучкин В. Е.
+rubric: ekzamenatsionnye-materialy
+rubric_sub: Экзаменационные материалы
+page_first: 66
+page_last: 66
+page_labels: "64"
+tag: EY1R
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 8eeaccf0883ad61d0eaa5411652b041cd141d74a9f47ba8778cae552c9e47d63
+prompt_sha256: draft-1
+translated_from: content/ru/1972/03/articles/19_belonuchkin-variantyi-vstupitelnyih-ekzamenov-po-fizike-1971-goda-v-moskovskiy-fiziko-tehnicheskiy-institut-cf763c25.md
+source_content_sha256: 8e24f20cbe1ea3745455c9b1ddb50117a63ba33853f466de9ab37006b9070f3c
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 64⟧
+
+OPTIONS FOR ENTRANCE EXAMINATIONS
+IN PHYSICS 1971 AT THE MOSCOW PHYSICAL AND TECHNICAL INSTITUTE
+
+At the written exam in physics at MIPT, as always, 4 problems were offered. On each ticket, one of the tasks, according to the compiler's menu, is the most difficult, marked with asterisks. The opinions of applicants sometimes turned out to be different.
+
+To receive a “satisfactory” grade, one had to cope with any two problems; “good” was given for three tasks; “excellent” was given to those who solved all four problems correctly.
+
+Let us take as an example two tickets from those offered during the exam.
+
+Ticket No. 1
+
+1. From two guns they shoot at a matchbox lying at a distance of l=30 cm from the edge of the table. A bullet of mass m=1 e, flying horizontally with a speed v₀=150 m/sec, hits the box and flies out of it with a speed v=v₀/2. Box weight M=50 e. At what values ​​of the coefficient of friction between the box and the table will the boxes fall off the table?
+
+2. Two vertical cylindrical communicating vessels are filled with water and closed by pistons of mass M₁=2 ke and M₂=3 ke (Fig. 1). When a weight of mass m=1 ke was placed on the first piston, then in the equilibrium position it settled at h=10 cm below the second piston. When this weight was moved to the second piston, it turned out to be 10 cm lower than the first. How will the pistons be positioned in the absence of a weight?
+
+3*. In order for a nuclear reaction to occur between two α-particles, it is necessary that the distance between them does not exceed r=4·10⁻¹³ cm. What minimum kinetic energy Emin must be imparted to one of the α-particles so that it enters into a nuclear reaction with another α-particle,
+
+![Graph](image)
+
+Vilet No. 2
+
+1*. The plane lands on the deck of the carrier, having a speed of v=108 km/hour. Having caught on the braking rope, he runs a distance of S=30 m until he comes to a complete stop. Determine the maximum weight of the pilot during landing (overload), assuming that the elasticity coefficient of the rope does not change as it stretches. Pilot mass m=70 ke.
+
+2. The vessel contains a mixture of nitrogen and hydrogen. At temperature T, when nitrogen is completely dissolved into atoms, and hydrogen can still be dissected, the pressure is P. At temperature 2T, when both gases are completely dissected, the pressure in the vessel is 3P. What is the ratio of the numbers of gram atoms of nitrogen and hydrogen in the mixture?
+
+3. In an old battery consisting of n series-connected cans, the internal resistance of one of the cans sharply increased and became equal to r = 10 r. Considering e. d.s. all banks are the same, determine at what load resistance R the power released at this resistance does not change when the damaged bank is short-circuited. The internal resistance of a normal jar is r.
+
+4. Inside the glass capillary tube there is a gas at low pressure, in which an electric discharge is applied, so that the entire column of gas is a source of scattered radiation. At what maximum angle φmax to the radius can a light beam exit through the outer wall of the capillary? The inner and outer radius of the capillary are r=2 mm and R=4 mm, respectively.
+
+Fig. 1.
+64

@@ -1,0 +1,76 @@
+---
+id: 1971-11-yankelevich-neprivodimyiy-sluchay-bdc90a82
+issue: kvant_1971_11
+year: 1971
+number: "11"
+title: '"Irreducible" case'
+authors:
+  - Янкелевич В. Г.
+rubric: osnovnye-stati
+page_first: 22
+page_last: 22
+page_labels: "20"
+tag: 6BS0
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 5d36c561c33da9f061ff06e05474a89cb0c3b98393025aecc104b3f4d8ed88e3
+prompt_sha256: draft-1
+translated_from: content/ru/1971/11/articles/04_yankelevich-neprivodimyiy-sluchay-bdc90a82.md
+source_content_sha256: 14442e66a19a0ba9a1ae5f763e3c415e96021d33360f96d79e3e14c3a3a5edf6
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 20⟧
+
+V. G. Yankelevich
+
+Our reader, seventh grader Misha Balkin, asks: “I saw in the reference book the Cardan formula for solving the cubic equation $x^3 + px + q = 0$:
+
+$$x = \sqrt[3]{\frac{q}{2} + \sqrt{D}} + \sqrt[3]{\frac{q}{2} - \sqrt{D}},$$
+
+where $D = \left(\frac{p}{3}\right)^3 + \left(\frac{q}{2}\right)^2$.
+
+But it seems to me that this formula cannot always be used. For example, if we want to find the roots of the equation $x^3 - x = 0$ ($p = -1, q = 0$) using this formula, we get
+
+$$x = \sqrt[3]{\sqrt{-\frac{1}{27}}} + \sqrt[3]{-\sqrt{-\frac{1}{27}}}.$$
+
+This is some kind of minimum number, and the equation has three crowns: 0, 1 and -1. How to establish this contradiction?>
+
+The editors believe that the answer to this question will be of interest to many of our readers. We are publishing an article by V. G. Yankelevch, a 10th grade student from the city of Kustanay, who tells how cubic equations can be solved in the case when the Kardanov formula produces negative numbers under the square root sign.
+
+Back in the 16th century, a general formula was found that made it possible to express the solution to a third-degree equation
+
+$$x^3 + px^2 + qx + r = 0$$
+
+(1)
+
+through its coefficients using arithmetic operations and knowledge of the roots. This formula (it is called the Del Ferro formula or the Tartaglia-Cardano formula) can be written as follows:
+
+$$x = \sqrt[3]{\frac{c}{54} + \sqrt{\frac{D}{108}}} + \sqrt[3]{\frac{c}{54} - \sqrt{\frac{D}{108}}} - \frac{p}{3},$$
+
+(2)
+
+where $c = 2p^3 - 9pq + 27r$; $D = p^2q^2 - 4q^3 - 4p^3r + 18pqr - 27r^2$. Afterwards, as soon as the concept of a complex number took shape, it became clear that this formula allows us to obtain all solutions to equation (1) with any (complex) coefficients $p, q, r$. But, unfortunately, even if all the coefficients of the equation are general action numbers, then to find (hereinafter action!) solutions using formula (2) you have to extract the numbers; this difficulty arises when $D > 0$ (this is precisely the case when the equation has three different real roots).
+
+Consider the cubic equation (1) with real and positive discriminants $D^*$).
+
+We will show that any equation (1) can be reduced to an equation of the form
+
+$$ay^3 - 3by^2 - 3ay + b = 0,$$
+
+(3)
+
+where $a$ and $b$ are real numbers and $a \neq 0$.
+
+First we prove that equation (3) has roots
+
+$$y_1 = \tg \frac{\varphi}{3},$$
+
+$$y_2 = \tg \frac{\varphi + 2\pi}{3},$$
+
+$$y_3 = \tg \frac{\varphi + 4\pi}{3},$$
+
+*) $D$ is called the discriminant of the polynomial $x^3 + px^2 + qx + r$. It can be shown that $D = (x_1 - x_2)^2 (x_2 - x_3)^2 (x_3 - x_1)^2$, where $x_1, x_2, x_3$ are the roots of equation (1). If the coefficients $p, q, r$ are real and $D < 0$, then the equation has two conjugate complex roots and one real one, which is immediately found by formula (2).

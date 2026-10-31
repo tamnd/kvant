@@ -1,0 +1,36 @@
+---
+id: 1971-6-igra-eskotta-bc312505
+issue: kvant_1971_6
+year: 1971
+number: "6"
+title: Escott's game
+rubric: smes
+page_first: 68
+page_last: 68
+tag: 4MC6
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: ba0c275e4eb2f07eb5856141129f07ae28971585715c691e48009299e5c61ab9
+prompt_sha256: draft-1
+translated_from: content/ru/1971/06/articles/01_igra-eskotta-bc312505.md
+source_content_sha256: 23edeb86d386cdebad63c4e23369985ad7406f1125c850f6754e4b37e0707e6f
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+PRICE 30 kopecks.
+INDEX 70465
+
+kvasht 6
+
+start
+
+end
+
+ESCOTT'S GAME
+
+This problem was proposed in August 1938 by the American mathematician Edward Brind Escott. The task is to move the blocks one at a time in a rectangle until blocks 1 and 2 are placed in places with blocks 7 and 10 as shown at figure. Rotating blocks is not cut, even if there is room for it. The shortest known solution contains 66 moves. Write to us if you can solve the problem in a shorter way.

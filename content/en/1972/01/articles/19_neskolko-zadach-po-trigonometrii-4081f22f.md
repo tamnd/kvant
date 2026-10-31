@@ -1,0 +1,59 @@
+---
+id: 1972-1-neskolko-zadach-po-trigonometrii-4081f22f
+issue: kvant_1972_1
+year: 1972
+number: "1"
+title: Several trigonometry problems
+rubric: smes
+page_first: 67
+page_last: 67
+page_labels: "65"
+tag: 7QXO
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 9d5b096eed07b7396c8acbe13a7551290208ac2c877c539a033e7b19e2cf7620
+prompt_sha256: draft-1
+translated_from: content/ru/1972/01/articles/19_neskolko-zadach-po-trigonometrii-4081f22f.md
+source_content_sha256: d083ce945246d9bdbc4ef09004a9cda0f2f953634c3b2337637814a45a1c9a7f
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 65⟧
+
+6. At what values ​​of $a$ the system of equation
+$$\begin{cases} x^2 - 4y^2 = 1 \\ ax + y = b \end{cases}$$
+has real solutions for any values ​​of $b$?
+
+7. 24 chess players took part in the international tournament in Palma de Mallorca. To fulfill the grandmaster norm, you had to score at least $14\frac{1}{2}$ points. How many chess players could fulfill this norm? (In chess tournaments, the winner receives one point; if the game ends in a draw, each player receives $\frac{1}{2}$ points).
+
+8. Solve the equation
+$$\sqrt{45x^2 - 30x + 1} = 7 + 6x - 9x^2.$$
+(Only non-negative values ​​of the radical are considered).
+
+9. All plane angles of a trihedral angle are equal to $\alpha$. Point $M$ is located inside the angle at the same distance from all its faces. Find this distance if the distance from the point $M$ to the vertex of the angle is $d$.
+
+10. Find the smallest value of an expression
+$$\frac{1 + x^4}{1 + x^2}.$$
+
+ANSWERS TO THE CROSSWORD (see page 31)
+Vertical: 1. Vampire.
+2. Nuance. 3. Opera. 4. Carbon. 5. Kober.
+9. Pine. 10. Weight. 12. Scale.
+15. Krulier. 16. Flood. 18. Auntie. 19. Ninny.
+
+Several trigonometry problems
+
+1. Given a triangle $ABC$ with side $a, b, c$. Prove that
+1) if $C = \frac{\sqrt{ab}}{a - \sqrt{ab} + b}$, then
+$$\frac{tg A}{tg B} = -\frac{a}{b} \sqrt{\frac{a}{b}}$$;
+2) if $tg C, tg A, tg B$ form a geometric progression, then its value is equal to $b^2/c^2$, and $A \leqslant \frac{\pi}{3}$;
+3) if $tg \frac{C}{2}, tg \frac{A}{2}, tg \frac{B}{2}$ form a geometric progression, then its value is $b/c$, and $A \leqslant \frac{\pi}{3}$.
+2. Let $tg \alpha, tg \beta, tg \gamma$ be the roots of the equation $ax^3 + 3bx^2 + 3cx + d = 0$. Write an equation having roots $tg \alpha$ tg $(\beta + \gamma), tg \beta$ tg $(\alpha + \gamma), tg \gamma$ tg $(\alpha + \beta)$.
+3. Let $\alpha + \beta + \gamma$ be a multiple of $\pi$ and $x^2\sin r\alpha + y^2\sin r\beta + z^2\sin r\gamma$ to zero at $r = 1$ and $r = 2$. Prove that this expression is equal to zero for all natural values ​​of $r$.
+4. On the sides $BC, CA, AB$ of the spherical triangle $ABC$ equal lengths $BA_1, CB_1, AC_1$ are laid out. Prove that the locus of the intersection points of the medians of the triangle $A_1B_1C_1$ is a great circle.
+5*. Let the points $A, B, C, D$ lie on the sphere, $P$ a point distinct from them on this sphere, and $\pi$ the plane tangent to the sphere at the point $P$. Let us denote by $\alpha$ the angle formed by the intersection of the planes $PAC$ and $PBC$ with the plane $\pi$, and by $\beta$ the angle formed by the intersection with the plane $PAD, PBD$. Prove that $|\alpha - \beta|$ does not depend on the choice of point $P$.
+
+*) This is the problem of the famous chess player E. Lasker.

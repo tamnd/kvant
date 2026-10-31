@@ -1,0 +1,65 @@
+---
+id: 1971-11-skoblin-naydite-oshibku-158318b5
+issue: kvant_1971_11
+year: 1971
+number: "11"
+title: Find the error
+authors:
+  - Скоблин А. А.
+rubric: smes
+page_first: 27
+page_last: 27
+tag: FH19
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: da8b296b71e0d9edd7493cd53a1f7bf85d6e43dc78afc806d18d5673bea3aa97
+prompt_sha256: draft-1
+translated_from: content/ru/1971/11/articles/07_skoblin-naydite-oshibku-158318b5.md
+source_content_sha256: 4af99592b22487b79831374224ee4cd6069836e6bcb49cced23426cfe735635d
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+will reach the screen if the cube is moved at speed $v$? The speed of light in air is $c$, the refractive index of the stack is $n$ ($v \ll c, n \gg 1$).
+
+G. V. Meledin
+
+F120. There is water in a cylinder with a piston, inside of which at the initial moment there is a cavity of volume $V$. The gas pressure in the cavity is negligible. The piston exerts constant pressure $P$ on the water. What kinetic energy will the water acquire at the moment when the cavity disappears? The initial speed of water is zero. The force of gravity can be ignored.
+
+G. L. Komkin
+
+F121. Estimate the maximum force that the diameter will show when attached to the planes covering the Magdeburg hemispheres (hemispheres) with a radius
+
+Fig. 3.
+
+$R=20$ cm (Fig. 3). The hemispheres stretch in opposite directions as $F$. Atmospheric pressure is 1 atm.
+
+F122. A ball is thrown into a glass of water, rotating around its axis, and floats on the surface of the water. Where on the surface will the ball be located?
+
+Amendment
+
+In «Kvant» No. 8 for 1971 on page 3, due to the fault of the editors, “a portrait from the bronze medal of Euclid” was mistakenly placed. In fact, images of Euclid's mathematics have not reached our time. The image placed appears to be a portrait of the philosopher Euclid of Megara.
+
+Find the error
+
+As is known, by a point, the sum of the distances from the bark to the vertices of a given quadrilateral is minimal,
+
+Fig. 1.
+
+is the point of intersection of its diagonals (Fig. 1). We will reduce one of the sides of the quadrilateral, for example, $BC$ (Fig. 2), until the side $BC$
+
+Fig. 2.
+
+will not turn into a point. In this case, the point $O$ will approach $BC$ and at figure 3 will merge with it.
+
+Fig. 3.
+
+This means that the point whose sum of distances from the crust to the vertices of a given trigon is minimal is one of its vertices. But there is a theorem that states that such a point is the point from which all three sides of the triangle are visible at an angle $120^\circ$, and not one of the vertices.
+
+Where is the mistake?
+
+A. Skovlin

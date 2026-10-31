@@ -1,0 +1,41 @@
+---
+id: 1971-10-raskin-lingvistika-i-matematika-vstrechayutsya-na-olimpiade-4351c52b
+issue: kvant_1971_10
+year: 1971
+number: "10"
+title: Linguistics and mathematics meet at the Olympiad
+authors:
+  - Раскин В. В.
+rubric: informatsiya
+rubric_sub: Информация
+page_first: 58
+page_last: 58
+page_labels: "56"
+tag: RQ9A
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 47f7a10c59d0fac98435c2c6c451c96d1f7ac3c87b09dc9e74233e904cfff9dd
+prompt_sha256: draft-1
+translated_from: content/ru/1971/10/articles/16_raskin-lingvistika-i-matematika-vstrechayutsya-na-olimpiade-4351c52b.md
+source_content_sha256: b0483c493cb435b33106985f2616ed05b12e9e8dbffe7eca984de13f3f717d65
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 56⟧
+
+Linguistics and mathematics meet at the Olympiad
+
+V. V. Raskin
+
+On Sunday, December 13, 1970, the VII traditional Olympid in linguistics and mathematics ended with the analysis of problems of type II, the presentation of certificates and divisions of book prizes. Olympiads in linguistics and mathematics have been held daily since 1965 by the Department of Structural and Applied Linguistics of the Faculty of Philology of Moscow State University. These are Olympids not in two different “subjects”, as the name implies, but in a single, very new and interesting “subject” - structural and applied linguistics.
+
+Structural and applied linguistics is a direction in the ancient and venerable science of linguistics, which has developed in recent years and strives to introduce into this science precise formulations, precise descriptions and precise methods for studying language and, in connection with this, deals with the application of linguistic knowledge in practice: in machine translation, information retrieval and other important modern problems related to the automatic processing of information and the “society” of a person with an electronic computer. Structural and applied linguistics thus turns out to be a science adjacent to mathematics, cybernetics, computer science (have you heard of such a new science?), psychology and other sciences.
+
+Great successes in these Olympids are invariably added to by successful mathematical specialists and other schoolchildren who are clearly endowed with mathematical abilities. At the same time, unfortunately, they do not always boast of good preparation in a foreign language (although sometimes they write in solving the only Olympiad problem that tests knowledge of a “school” foreign language: “i knows English veri vel”) or great general erudition. However, these successes are not accidental.
+
+The fact is that at school they do not study a special subject - linguistics (or linguistics, or linguistics - these are all synonyms). Therefore, the tasks of Olympids in linguistics and mathematics are of a completely special nature: they cannot rely on any definition of a sum of knowledge, they cannot check that the student knows, what he has learned, and what he “knew but forgot.” Unlike problems on mathematical, physical, chemical, even literary olympids and olympids in general in “school subjects,” linguistic problems themselves contain everything necessary for their solution, and are solved by careful analysis and systematization of data, clear logical reasoning, often using certain mathematical techniques, involving, of course, linguistic accounting and the linguistic intuition of the decider. No prior knowledge required!
+
+And it turns out that such a strict restriction on the form of linguistic problems, discussed by the peculiarity of the school curriculum, turns out to be an advantageous side: organizing and systematizing these tasks, reasoning logically, discovering and recording certain patterns, independently “inventing” a method for solving the problem, the student, without knowing it, imitates, although, of course, the weights approximately and conditionally, on specially selected material, but still implements the work structuralist linguist.

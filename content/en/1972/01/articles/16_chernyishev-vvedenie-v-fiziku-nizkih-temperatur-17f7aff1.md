@@ -1,0 +1,47 @@
+---
+id: 1972-1-chernyishev-vvedenie-v-fiziku-nizkih-temperatur-17f7aff1
+issue: kvant_1972_1
+year: 1972
+number: "1"
+title: Introduction to Low Temperature Physics
+authors:
+  - Чернышёв Ю. М.
+rubric: raznoe
+rubric_sub: Разное
+page_first: 60
+page_last: 60
+page_labels: "58"
+tag: PXJ8
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 42613b9a38238e22c7065697f5f18310ab877b13b5e1f3b875f24bcbd1b7b7dd
+prompt_sha256: draft-1
+translated_from: content/ru/1972/01/articles/16_chernyishev-vvedenie-v-fiziku-nizkih-temperatur-17f7aff1.md
+source_content_sha256: fc9d6c699391e6037368b0adf5ecf258c511a1a4ab8efefe6b468361cfbf0355
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio 58⟧
+
+Introduction
+to physics
+low temperatures
+
+Typically, the story about the physics of low temperatures begins in 1911, when the Dutch scientist Kamerlingh Onnes discovered a fundamentally new phenomenon - the disappearance of the resistance of mercury at very low temperatures. To do this, first of all, it was necessary to create these low, or, as they often say, “helium” temperatures. The book, which will be discussed below, begins with a story about the properties, starting from the third century earlier. It is called “On the way to absolute zero” *), its author is Professor Kurt Mendelson, a leading English experimental physicist, a member of the Royal Society of London. This book is intended for the general reader and covers a very wide range of problems in low temperature physics.
+
+The physics of low temperatures is developing extremely intensively these days. It would not be an exaggeration to say that much of the benefit of the physics of a solid body is generally due primarily to the fact that we have learned to expect gases and work with them at very low temperatures.
+
+The first chapters of the book talk about the main stages of cryogenic (low-temperature) research that preceded
+
+*) K. Mendelson, On the way to absolute zero, Atomizdat, M., 1971.
+
+open superconductivity.
+
+The first reports of successful attempts to wait for oxygen in the walls of the Paris Academy of Sciences at the end of 1877. Two scientists managed to accomplish this practically at the same time. One of them was a mining engineer, corresponding member of the Paris Caltet Academy, the second was physicist Raoul Pictet from Geneva. Weeks after his first message, Kalte announced that he was waiting. The significance of these wholesalers is primarily that the problem of obtaining liquid air was solved. No less important is the fact that thanks to them, intensive work began on studying the physics of waiting for gases and creating more advanced expectants. K. Mendelssohn spoke in detail about the predecessors and followers of Kalte and Pictet.
+
+After reading the second chapter of the book, the reader will receive comprehensive information about the physical picture of condensation and will be able to gain a good understanding of the principles of operation of suction agents. Mendelssohn remained in detail on Andrews's experimental research, talking about the Van Deer Waals control and state diagrams of matter.
+
+An important step in the development of low temperature physics is the study of research from this new field of science. Many of the studies over the years have still not lost their significance. Mendelssohn spoke in detail about the first studies of superconductivity, poncks and doubts

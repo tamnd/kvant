@@ -1,0 +1,40 @@
+---
+id: 1972-1-zadachi-11ae0ba5
+issue: kvant_1972_1
+year: 1972
+number: "1"
+title: '[Tasks]'
+rubric: kvant-dlya-mladshih-shkolnikov
+page_first: 75
+page_last: 75
+tag: W1P7
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 81b4cc7f89466b3d42c6b0acc47af51f6b5a5ec218a00553e2ba489f177bdc7b
+prompt_sha256: draft-1
+translated_from: content/ru/1972/01/articles/01_zadachi-11ae0ba5.md
+source_content_sha256: 54ae612da3fc2526c2de515650b69737ac70f38683178098c0616ecb5b82c8e2
+translation_model: draft
+translation_run: en-draft-2026-10-31
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+QUANTUM
+FOR JUNIOR SCHOOLCHILDREN
+
+1. There is a steam heating radiator under the window against the wall. The pipes through which hot water is supplied to the battery and cold water is discharged are located on the left. On the right side of the battery there are holes closed with screwed-in plugs. A strong man undertakes to tighten these plugs with a wrench. In which case will he tighten these plugs more tightly: when the threads on them are right-handed or when the threads are left-handed?
+
+The plugs are tightened by gently pressing the key rather than hitting it.
+
+2. How many zeros are added to the product of all numbers from 1 to 100?
+
+3. There are five 110 V light bulbs with a power of 40, 40, 40, 60 and 60 W. How should they be turned on in a light with a voltage of 220 V so that they all burn at full heat?
+
+4. The ship from Kyiv to Kherson takes three days, and from Kherson to Kyiv four days (non-stop). How long will it take the rafts to travel from Kyiv to Kherson?
+
+5. When walking, a duck rolls from side to side, but a chicken does not. Why?
+
+6. Why does frost appear on the walls of brick houses in winter when there is sudden warming? Why does frost rarely appear on the walls of wooden houses?
