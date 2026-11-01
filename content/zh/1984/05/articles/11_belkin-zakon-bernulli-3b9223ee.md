@@ -1,0 +1,75 @@
+---
+id: 1984-5-belkin-zakon-bernulli-3b9223ee
+issue: kvant_1984_5
+year: 1984
+number: "5"
+title: 伯努利定律
+authors:
+  - Белкин И. К.
+rubric: shkola-v-kvante
+page_first: 35
+page_last: 35
+page_labels: "33"
+tag: G2C4
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 453774ebb0a725081f527ac892fe6e077879fe94900e8c1d62cdc2a2f1280b80
+prompt_sha256: draft-1
+translated_from: content/ru/1984/05/articles/11_belkin-zakon-bernulli-3b9223ee.md
+source_content_sha256: 0dcd288acfa7b4c83ed7361367bc37d34fe1a4f17aeaea900a8b146641c0d473
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 33⟧
+
+物理 8, 9, 10
+
+下面发布的注释“伯努利定律”适用于八年级学生，“混合电流”适用于九年级学生，“反细胞和配对繁殖”适用于九年级学生。
+材料由 I.K. 准备。贝尔金。
+
+伯努利定律
+
+教科书《物理8》讲到流体的压力$p$与其运动速度$v$的依赖性。让我们推导出一个定量连接这些量的公式。
+
+我们假设液体流经的管道有一个宽截面和一个窄截面。管道水平放置，因此重力场中液体的势能在流动过程中不发生变化。让我们选择受截面$S_1$和$S_2$限制的流体体积，其中流体速度分别为$v_1$和$v_2$（参见图）。随着液体流动，该体积将向右移动。经过一段时间$\Delta t$后，它将占据$S'_1$和$S'_2$之间的位置，如图虚线所示。
+
+由于流体不可压缩，管道宽截面中流体体积的减少量等于窄截面中流体体积的增加量：
+
+$$S_1v_1\Delta t = S_2v_2\Delta t,$$ 或 $S_1v_1 = S_2v_2$。
+
+但是液体不可压缩是什么意思呢？当他们这样说时，只是意味着液体体积的变化相对较小。液体总会有轻微的变形，正是它们导致了压力——液体滚动的弹力的出现。
+
+选定体积的液体受到来自两侧的压力——来自其后面的液体和来自前面的液体。当移动这个体积时，压力起作用。根据动能定理，压力所做的总功等于流体动能的变化：
+
+$$A = E_{k2} - E_{k1}.$$
+
+我们来计算压力的功$A$。在$S_1$部分，流体压力为$p_1$，压力为$F_1 = p_1S_1$。在时间$\Delta t$期间，该部分向右移动距离$v_1\Delta t$，因此，沿位移方向的力$F_1$起作用
+
+$$A_1 = F_1v_1\Delta t = p_1S_1v_1\Delta t.$$
+
+在部分 $S_2$ 中存在压力 $\vec{F}_2(F_2 = p_2S_2)$，其方向与位移相反。该力所做的功为负：
+
+$$A_2 = -F_2v_2\Delta t = -p_2S_2v_2\Delta t.$$
+
+压力的总功
+
+$$A = A_1 + A_2 = (p_1v_1S_1 - p_2v_2S_2)\Delta t.$$
+
+该功等于液体动能方程。
+
+现在让我们找出选定体积的液体运动前后的动能之间的差异。显然，$S'_1$和$S_2$之间的流体能量没有变化。因此，能量的总变化将与 $S_1$ 和 $S'_1$ 之间包含的部分流体取代了 $S_2$ 和 $S'_2$ 之间包含的流体相同。
+
+液体质量$m_1$在时间$\Delta t$流过截面$S_1$（即截面$S_1$和$S'_1$之间的体积中的液体）的动能等于
+
+$$E_{k1} = \frac{m_1v_1^2}{2} = \varrho v_1\Delta t \cdot S_1 \frac{v_1^2}{2},$$
+
+其中$\varrho$是液体的密度。对于第 $S_2$ 部分，相应部分的动能等于
+
+$$E_{k2} = \varrho v_2\Delta t \cdot S_2 \frac{v_2^2}{2}.$$
+
+因此，在时间$\Delta t$期间，分配的液体体积的动能变化如下值：
+
+$$E_{k2} - E_{k1} = (\varrho v_2S_2 \frac{v_2^2}{2} - \varrho v_1S_1 \frac{v_1^2}{2})\Delta t.$$

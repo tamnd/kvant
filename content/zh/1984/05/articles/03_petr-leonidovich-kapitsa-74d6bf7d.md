@@ -1,0 +1,31 @@
+---
+id: 1984-5-petr-leonidovich-kapitsa-74d6bf7d
+issue: kvant_1984_5
+year: 1984
+number: "5"
+title: 彼得·列昂尼多维奇·卡皮察
+rubric: osnovnye-stati
+page_first: 4
+page_last: 4
+tag: 50SF
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 37adda50fb0f7391187bfced48cfc4043da9bb06b2304b6b046f06ea42f7425f
+prompt_sha256: draft-1
+translated_from: content/ru/1984/05/articles/03_petr-leonidovich-kapitsa-74d6bf7d.md
+source_content_sha256: fbef823f61fa8b200cf69e753d898ff01f0276f92d6f32a790aa1831a71a1c29
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+彼得·列昂尼多维奇·卡皮察
+
+1984年4月8日，我们这个时代最伟大的物理学家、苏联科学的杰出组织者、苏联科学院院士、物理问题研究所所长、两届社会主义劳动英雄、该刊创办人之一逝世，享年90岁。 «Kvant» 其编辑委员会成员是院士彼得·列昂尼多维奇·卡皮察 (Pyotr Leonidovich Kapitsa)。
+
+P. L. Kapitsa 对磁现象物理学、物理学和技术温度以及物理电子学的发展做出了重大贡献。他是伦敦科波尔学会会员，美国、瑞典、丹麦、波兰、印度等多个国家科学院外籍院士，苏联国家奖和诺贝尔奖获得者。
+
+P. L. Kapitsa 积极参与科学家争取和平的帕古什运动。他热爱年轻人，是莫斯科物理技术学院的创始人之一。他的光辉记忆将永远载入苏联科学史册。

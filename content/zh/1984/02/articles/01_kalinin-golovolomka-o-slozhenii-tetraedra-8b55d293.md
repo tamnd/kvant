@@ -1,0 +1,33 @@
+---
+id: 1984-2-kalinin-golovolomka-o-slozhenii-tetraedra-8b55d293
+issue: kvant_1984_2
+year: 1984
+number: "2"
+title: 【四面体加法拼图】
+authors:
+  - Калинин А. Т.
+rubric: smes
+page_first: 68
+page_last: 68
+tag: W93K
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 7e1134a1243a1e2f21f79baac0adde14061b098d8046000063442bcc3ebaea41
+prompt_sha256: draft-1
+translated_from: content/ru/1984/02/articles/01_kalinin-golovolomka-o-slozhenii-tetraedra-8b55d293.md
+source_content_sha256: 1f5ca73ee36ce8206d34e2a83eef00026dfba20437a75cb110f86ab7fd258d90
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+价格40戈比。
+指数70465
+
+用 20 个单独的同步球组装 图 所示的四面体非常简单。但在拟议的仿真omka中，球被固定在四个刚性组（4、4、6、6）中，绘制在左侧，并且必须由这四个元素组装相同的（仅多种颜色的）四面体。试试吧！
+球可以用粘土（或橡皮泥）制成，也可以使用旧珠子；它们可以用胶水、金属丝或细木棍固定在一起。
+
+A.K.
