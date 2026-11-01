@@ -1,0 +1,48 @@
+---
+id: 1985-4-sviridov-ryibnaya-lovlya-glazami-uchenogo-4ebe78aa
+issue: kvant_1985_4
+year: 1985
+number: "4"
+title: 通过科学家的眼睛钓鱼
+authors:
+  - Свиридов В. А.
+rubric: kvant-ulybaetsya
+rubric_sub: «Квант» улыбается
+page_first: 49
+page_last: 49
+tag: PLAO
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 5d568c2718bfc112a3ddfdb8128d2a2836626b6214c779b5b4f1abe84cf51e31
+prompt_sha256: draft-1
+translated_from: content/ru/1985/04/articles/18_sviridov-ryibnaya-lovlya-glazami-uchenogo-4ebe78aa.md
+source_content_sha256: a570f5b99d4f94169a29f75f3c07c91b87c46fcc948a8cffc48ca4ac64cada16
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+量子微笑
+
+通过科学家的眼睛钓鱼
+
+那是很久以前的事了，当时我刚刚大学毕业，来到了未来的杜布纳——四面环水的伊万科沃小村庄工作。当然，周围丰富的水资源引发了人们对水上旅游和钓鱼的普遍热情。
+
+我更喜欢皮划艇，但周围的鱼太多了，我的朋友说服我把整个假期都用来钓鱼，这很大程度上是因为我们的行政总监决定为研究所的其他员工购买一艘退役的旧轮船。我买了莫斯科最昂贵的旋转鱼竿，在一家商店里很难找到当时罕见的旋转渔线轮，并储备了各种闪光物，从适合初学者钓鱼者的套装到钓鱼时的闪光物。
+
+最后，圣玛丽亚号（我们杜布纳船的名字）的船舱钥匙在我的口袋里。我每天从日出到晚上都需要撒上闪光的东西。我已经认识了莫斯科海底的所有柯基犬，我的光芒永远留在它们身上。但收获并不令人鼓舞。三个星期内，我找到了 3 条鱼：一条鱼和两条鲈鱼，鲈鱼用鱼鳍被鱼钩钩住。事实证明，鱼对时间的闪烁和开始旋转的闪烁都不感兴趣。它不小心被我的钩子钩住了。
+
+至此我钓鱼完毕，开始计算。如果鱼钩与鱼的相互作用是偶然发生的，那么这种碰撞的概率，就像在核物理学中一样，可以用一个称为过程横截面的值来表征。当然，有一个预付款，即鱼钩与鱼相互作用的横截面σ等于一条鱼在垂直于光运动方向的平面上投影的平均面积。知道了我发现的鱼的平均大小，并添加了光亮自由通过的长度 λ（光亮在与下一个窗口碰撞之前在水中所覆盖的平均路径），λ≈5·10⁶ 厘米，我根据三周实验的结果计算了莫斯科海中鱼类的平均密度：
+
+$$n = \frac{1}{\lambda \sigma} = \frac{1}{S \cdot 10^6 \text{ cm} \cdot 30 \text{ cm}^2} = \frac{1}{10^{-8} \text{ cm}^{-3}}.$$
+
+有几种方法可以验证这个数字。 “圣玛丽亚”旁边是科纳科沃钓鱼中心。第二天早上，我在阿特尔工头的长艇上估算了网子梳理的水量（$V \approx 10^{11} \text{ cm}^3$），并数了下网子里捕获的鱼的数量（$N \approx 10^3$）。鱼类密度
+
+$$n = \frac{N}{V} = 10^{-8} \text{ cm}^{-3}$$
+
+与光泽数据的估计一致。实验完成了。事实证明，我的带有旋转绕线轮的新旋转竿并不能吸引鱼。
+
+V·A·谢吉里多夫

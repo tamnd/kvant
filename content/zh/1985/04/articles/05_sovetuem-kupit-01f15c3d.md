@@ -1,0 +1,66 @@
+---
+id: 1985-4-sovetuem-kupit-01f15c3d
+issue: kvant_1985_4
+year: 1985
+number: "4"
+title: 我们建议您购买
+rubric: smes
+page_first: 13
+page_last: 13
+page_labels: "11"
+tag: LHYJ
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 63d68cfcb9354c1002f65f8543ac128d864382e946856c51c8814f668af093b9
+prompt_sha256: draft-1
+translated_from: content/ru/1985/04/articles/05_sovetuem-kupit-01f15c3d.md
+source_content_sha256: 3f3aac2eb61d4476a1540543c644f5ec4cc72ef2e1986deac0b735644cedc434
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 11⟧
+
+图 4.
+
+现在让我们看看落在 Δx 区域上的水质量是多少。令半径位于从r到r+Δr的区间内的液滴的数量等于Δn(r)。我们将选择较小的 Δr 值，以便可以认为液滴的质量相同且等于 m(r) = $\frac{4}{3} \pi r^3 \varphi$。那么这些水滴带到地面的水的质量等于
+
+$$\Delta M = m(r) \cdot \Delta n(r) = \frac{4}{3} \pi r^3 \varphi \cdot \Delta n(r).$$
+
+最后，我们制定了液滴均匀性的要求：
+
+$$\frac{\Delta M}{\Delta x} = -\frac{4 \pi r^3 \varphi r^3}{6 uh} \frac{\Delta n(r)}{\Delta r} =$$
+
+$$= -\frac{2 \pi \varphi}{3 uh} r^6 \frac{\Delta n(r)}{\Delta r} = C,$$
+
+(5)
+
+其中 C 是常数。但极限 ($\Delta r \rightarrow 0$) 中的 $\frac{\Delta n(r)}{\Delta r}$ 是我们正在寻找的液滴在其半径上的分布函数！
+
+所以，$f(r) = \lim_{\Delta r \rightarrow 0} \frac{\Delta n(r)}{\Delta r} = K \frac{1}{r^6}$，即$f(r) \sim r^{-6}$。
+
+这是一个非常大的瘾。假设我们在对应小（$r_1$）和大（$r_2$）液滴的两个不同值附近选择了两个相同的液滴半径Δr区间。让它们的半径相差两倍：$r_2 = 2r_1$。然后从
+
+(6) 结论如下：在这个区间Δr内，水滴的数量Δn(r)应该比大水滴的数量($\Delta n(r_2)$)大$(r_2/r_1)^6 = 2^6 = 64$倍。
+
+现在，知道了灌溉区域的长度 L = x_max - x_min（参见图 4），您可以使用公式（4）求出水滴的最小和最大半径 r_min 和 r_max、它们的总数（公式（2））以及源头每单位时间“发出”的水的总质量（部分地，公式（5）中的常数 C 还包括区域的宽度 - 毕竟，很明显，总水量水的质量应该与被灌溉区域的宽度成正比，但是为了摆脱这种琐碎的想法，我们可以假设我们以单位宽度或单位管道长度进行计算。所有这些实际计算都可以完成，因为我们已经找到了液滴尺寸分布函数的性质。不一定是用于灌溉的水滴：它可以溶解以对抗有害的昆虫或杂草，或悬浮小种子，或滴油漆以覆盖大面积，或......
+
+因此，我们找到了设计者应使用一组喷嘴“提供”的液滴尺寸分布函数。
+
+我们在决定中没有教导什么？很多事情：例如，风并不总是均匀地吹，而是阵风；即使是均匀的，它离地高度的速度也会以某种方式发生变化；每个物理模型都有自己的框架，在这个框架内它是有效的，超出这个框架则需要更多的规范、更多的条件，甚至可能根本“不起作用”。
+
+我们建议您购买
+
+1985年，“Nuka”出版社在小学生科普丛书“图书馆«Kvant»”中出版了以下书籍：
+
+卷。 37.G.S.沃罗诺夫。袭击热核堡垒。
+
+卷。 39.V.V.布拉金斯基，A.G.波尔纳列夫。惊人的重力。
+
+卷。 40.S.S.希尔科维奇。物理学就在我们身边。
+
+卷。 41.G.A.兹韦尼哥罗德斯基。第一节编程课。
+
+（结局见第53页）

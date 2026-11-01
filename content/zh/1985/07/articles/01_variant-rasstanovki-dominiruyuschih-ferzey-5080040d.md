@@ -1,0 +1,25 @@
+---
+id: 1985-7-variant-rasstanovki-dominiruyuschih-ferzey-5080040d
+issue: kvant_1985_7
+year: 1985
+number: "7"
+title: 【统治女王的地位】
+rubric: smes
+page_first: 68
+page_last: 68
+tag: HMHA
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: a2dd8aeb25a55a5f782883f7e1a90f638dcbdba020855c244004c66333db01e3
+prompt_sha256: draft-1
+translated_from: content/ru/1985/07/articles/01_variant-rasstanovki-dominiruyuschih-ferzey-5080040d.md
+source_content_sha256: 7628a00a8e9ad7cd92f2d5e3b361494787597267c487a88213892a5bdc4dd69b
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+站在这个“30x31棋盘”上的第十七个黑皇后统治着它，也就是说，它们无一例外地突破了它的所有930个方格。你可以检查一下！这种巧妙的皇后排列是由 V.G. 发明的。契瓦诺夫；它只是“n×n 棋盘上的统治问题”的无数解决方案之一 - 即，对于 n=(7m-1)/2、m=9、n=31 的情况。这个棘手的设置源自第 17 个皇后（13 个黑色，4 个白色）沿第 1-1、2-2、3-3 行的简单设置。这些皇后并没有突破棋盘上的所有方格（到底是哪些方格？），但是在 4 个白皇后（沿着红色箭头）的 db 之后，最终的 17 个黑皇后系统已经解决了 30x31 棋盘上的统治问题。但是，您可以向该板添加另外 31 个单元（在什么位置？）并获得 31x31 板问题的解决方案。您可以在本期 V. G. Chvanov 的文章中阅读有关这些结构的更多信息。

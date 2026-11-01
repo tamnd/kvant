@@ -1,0 +1,66 @@
+---
+id: 1985-6-cherepanov-dve-zadachi-o-diofantovyih-uravneniyah-5342ed3e
+issue: kvant_1985_6
+year: 1985
+number: "6"
+title: 【关于丢番图方程的两个问题】
+authors:
+  - Черепанов О. А.
+rubric: smes
+page_first: 21
+page_last: 21
+page_labels: "19"
+tag: 0G3I
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 760fa43ae32785df117eb8bf2e7c116b54077914befad90c8044d903b98da4b5
+prompt_sha256: draft-1
+translated_from: content/ru/1985/06/articles/04_cherepanov-dve-zadachi-o-diofantovyih-uravneniyah-5342ed3e.md
+source_content_sha256: 0c24ef5dbccd0a8d838084d4ca6b2c81eeecd155ef041bc8995064be85e15c6a
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 19⟧
+
+晶格的垂直轴 (图 2)。但有时裂纹的方向可能会改变，并且会在列子类型相同的平面内沿对角线延伸（图3）。
+
+在这种情况下，在裂缝的一个表面上，在分裂后立即没有任何迹象，而在另一个表面上则相反。事实上，当静电探针沿着裂缝表面移动时，命运也被发现了。
+
+但当样本被分成不等的部分时，发现各个部分的电荷不平等明显更大。事实上，让一个边长为$a$、长度为$l \gg a$（图 4）的方形晶体分成两部分，其厚度分别为$b$和$a-b$。若$\varrho$为整个晶体自身空间电荷的平均密度，则表皮的电荷面由电荷总和为零的条件计算：
+
+$$Q_{\text{кристалла}} + Q_{\text{шкурики}} = 0.$$
+
+让两端的面积小并且皮肤的电荷
+
+$$4a\sigma + \varrho la^2 = 0.$$
+
+从这里开始是皮肤的电荷：
+
+$$\sigma = -a\varrho/4.$$
+
+假设左右部分的空间电荷密度相同（且相等） $\varrho$），例如，我们发现左侧的电荷等于体积电荷和表面电荷之和：
+
+$$\varrho abl - \frac{\varrho a l}{4}(a + 2b) = \frac{\varrho a l}{2}(b - \frac{a}{2}) < 0,$$
+
+这是在实验过程中发现的。
+
+......当然，这并不是关于电气化机制的全部内容。可以提出许多有趣的问题，例如晶体分离时的裂纹（电子可以从一个壁“跳跃”到另一个壁），关于海泡“精选”的缺失（电子可以转移到它），最后，关于电介质与金属摩擦期间的起电机制，关于滚动晶体时的起电机制，等等。其中一些问题已经得到解答。其余的人都在等待时机。也许还有你。
+
+锻炼
+我们的读者
+
+1. 证明不存在自然数$x, y, z$使得$x^{p-1} + y^{p-1} = z^{p-1}$（其中$p$是素数）、$p > 3$以及$x$和$y$不能被$p$整除。
+提示：应用小定理
+
+桁架：$a^{p-1} \equiv 1$ (mod $p$)，其中 $a$ 是自然的，$(a, p) = 1$（参见 «Kvant»，1978 年，第 10 期，第 7 页）。
+
+2. 证明对于 $p=3$ 丢番图方程的任意解
+
+$$x^{p-1} + y^{p-1} = z^{p-1},$$
+
+由两两互质的自然数组成，包含一个 3 的倍数。
+
+O·A·切列帕诺夫

@@ -1,0 +1,48 @@
+---
+id: 1985-3-i-v-plutovatosti-pochastu-uprazhnyalis-b9a889e2
+issue: kvant_1985_3
+year: 1985
+number: "3"
+title: '...并且经常作弊'
+rubric: kvant-ulybaetsya
+rubric_sub: «Квант» улыбается
+page_first: 51
+page_last: 51
+tag: TD8F
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: d42dee2e038e9d61cae02b52ba5d1e3001f1661b6dc3a5ce64252fec09231d0b
+prompt_sha256: draft-1
+translated_from: content/ru/1985/03/articles/21_i-v-plutovatosti-pochastu-uprazhnyalis-b9a889e2.md
+source_content_sha256: 2662e8d00317b5a26ad46b54478d1a9b5da04661c616a86facbd089d39966d48
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+量子他妈的完蛋了
+
+...并且经常作弊
+
+有时，用斜体教授的单词比用罗马字体教授的单词更难使用......
+显然，即使在古代，他们也有相当大的写作倾向，并且经常作弊。
+科兹玛·普鲁特科夫
+
+其他“历史”材料已经被驳斥过多次，以至于一提到它们就被视为笑话。
+因此，在«Kvant»（1984年第9期，第30页）中，“阿基米德定律”一文的题词是用斜体字印刷的：
+“……他把皮袋做成一个大球，用烟给它充气，拖着它，从中飞出一只苍蝇，坐在里面，一股疯狂的力量把它举得比白桦树还高……
+（关于 1731 年 Kryakutny 在梁赞升空的故事）。
+
+据称，这一“信息”是上世纪初“克里亚库特尼的孙子”（实心引号）在一份古代手稿中发现的。这是关于一位牧师的热气球飞行，据说这发生在蒙戈尔菲兄弟飞行之前很久。作为真实证据持续了一百多年，作为事实进入服务器产品，甚至反映在邮票上（1956 年“飞行 225 周年”），此信息随后在特殊和流行出版物中反复反驳。例如，我们可以推荐诸如“俄罗斯航空史”（P.D. Duz，M.：Prosveshchenie，1981）之类的一般著作或“自行车的传奇”文章（科学与生活，1983年，第6期），其中提到了梁赞飞行以及其他众所周知的传说。
+
+然而，由于有些读者«Kvant»总是接受题词，所以我们回到了这个问题。
+
+同时，我们注意到，在揭露这个骗局的过程中，物理学再次发挥了重要作用：在物理学中，在红外线中，写在文字上面的字母后来清晰地出现了！
+
+编辑们利用这次谈话鼓励漫画家 A. A. Orekhov 幻想空中“毛皮”的主题。这就是他所做的，为我们绘制了这一整页。
+
+2×2=5
+2×2=4
