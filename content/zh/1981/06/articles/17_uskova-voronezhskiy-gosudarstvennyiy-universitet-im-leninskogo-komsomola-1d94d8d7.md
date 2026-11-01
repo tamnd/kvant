@@ -1,0 +1,90 @@
+---
+id: 1981-6-uskova-voronezhskiy-gosudarstvennyiy-universitet-im-leninskogo-komsomola-1d94d8d7
+issue: kvant_1981_6
+year: 1981
+number: "6"
+title: 沃罗涅日国立大学由此得名。列宁共青团
+authors:
+  - Ускова О. Ф.
+rubric: ekzamenatsionnye-materialy
+page_first: 52
+page_last: 52
+page_labels: "50"
+tag: NEG5
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 33b32fa2682bc51b20a9f7b48ec4086fbf689ef84c3f91c8ec30d47eb4c92e61
+prompt_sha256: draft-1
+translated_from: content/ru/1981/06/articles/17_uskova-voronezhskiy-gosudarstvennyiy-universitet-im-leninskogo-komsomola-1d94d8d7.md
+source_content_sha256: 1b917b994633f8aae8094e7ad50c245d58ef7d9e5731c16f253e1b31d9f671b4
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 50⟧
+
+沃罗涅日国立大学由此得名。列宁共青团
+
+数学
+
+笔试
+
+选项1
+（数学学院、应用数学与力学学院）
+
+1. 如果已知切线经过点$M(a, b)$，求曲线$y = \frac{x+1}{x}$的切线方程。根据$M(a, b)$的选择，有多少种解？找到这些解决方案。
+
+2. $lg a, lg b, lg c$和$lg a - lg2b, lg2b - lg3c, lg3c - lg a$这两个三个数字中的每一个都是一个论证级数。数字$a, b, c$可以作为三角形的边长吗？如果是这样，它会是什么样的三角形？求这个三角形的角（如果存在）。
+
+3. 解方程
+$$\left(\frac{4}{9}\right)^{\sqrt{x}} = (2,25)^{\sqrt{x}-4}.$$
+
+4. 给定一个直角三角形特征$ABCA_1B_1C_1$，其中$ABC$和$A_1B_1C_1$是边$b$上的正三角形，分别是该特征的下底和上底。在边 $[BC]$ 上取点 $K$，从而形成角度 $KAC = \alpha$、$\alpha < \frac{\pi}{3}$。已知三角形的表面积为$\frac{3}{2}a^2$，求三角形的面积$AKC_1$。
+
+选项2
+（物理学院）
+
+1. 从城市$A$到城市$B$，麻疹之间的距离为120公里，骏马向大海出发。一小时后，第二辆赛马骑着一辆电动自行车离开了$A$，这辆电动自行车在呼叫了第一辆电动自行车并向他传递了命令后，立即以相同的速度返回，并在第一个进入$B$的时刻返回到$A$。如果第二匹马的速度是 50 公里/小时，那么第一匹马的速度是多少？
+
+2. 在半径为 10 cm 的圆上给出点 $A$。应在距点 $A$ 多远的距离处检查移动 $[BC]$ 是否平行于点 $A$ 的切线，以便三角形 $ABC$ 的面积最准确。
+
+3. 解决不平等问题
+$$\log \frac{1}{3}(3x+4) > \log \frac{1}{3}(x^2+2).$$
+
+4. 证明同样的手势
+$$\frac{1}{2}(\cos t + \sqrt{3}\sin t) = \cos \left(\frac{\pi}{3} - t\right).$$
+
+选项3
+（地质学院、地理学院水文系）
+
+1. 在直角三角形$ABC$中，其中$\widehat{C} = 30^\circ$，中线$[BK]$是从直角$B$的顶点绘制的。如果边$[AB]$的长度为4厘米，求三角形$BCK$的面积。
+
+2. 确定二次方程$x^2 + px + q = 0$的系数，使其根等于$p$和$q$。
+
+3. 梯形$ABCD$的对角线相交于点$O$。如果角度 $AOB$ 的余弦等于 7/25，则确定角度 $AOD, DOC, COB$ 的正弦和余弦。
+
+4. 解决不平等问题
+$$\frac{2x+3}{\varphi'(x)} > 0,$$
+其中$\varphi(x) = \ln(x^2+3x-10)$。
+
+口试作业
+数学学院和应用数学与力学学院
+
+1. 简化表达式
+$$S = \log_2 3 + \log_2 3^3 + \log_2 3^5 + \ldots + \log_2 3^{801}.$$
+
+2. 这条曲线的切线必须经过曲线$y = -x^2 + 2x$上的哪一点$A$，才能使切线和直线$x=0, y=0, x=1$形成的梯形面积最小？
+
+3. 为所有$x \neq 0$和$f(x) + 3f\left(\frac{1}{x}\right) = x^2$定义$f(x)$。找到$f(2)$。
+
+4. 求解方程组
+$$\begin{cases} |x+y| = 1, \\ |x|+|y| = 1. \end{cases}$$
+
+5. 解决不平等问题
+$$\sqrt{1-x} + \sqrt{2x-3} < 5.$$
+
+物理学院
+
+6. 对于函数$y = \ln x^2$的图像，构造一条平行于直线$y = -x$的切线。一条垂直于另一条射线的垂线落在它上面，一条垂直于 $[AB]$ 的垂线从它的底边垂下，等等。找出所得无限折线的长度。
