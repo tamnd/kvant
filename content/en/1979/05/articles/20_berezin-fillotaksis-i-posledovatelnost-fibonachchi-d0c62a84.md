@@ -1,0 +1,87 @@
+---
+id: 1979-5-berezin-fillotaksis-i-posledovatelnost-fibonachchi-d0c62a84
+issue: kvant_1979_5
+year: 1979
+number: "5"
+title: Phyllotaxis and the Fibonacci sequence
+authors:
+  - Березин В. Н.
+rubric: raznoe
+rubric_sub: Разное
+page_first: 55
+page_last: 55
+page_labels: "53"
+tag: ZFZO
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 2c90db6cf6719388237f414e4f16c848d9eacedf521f340d44b7b97f74fd48f0
+prompt_sha256: draft-1
+translated_from: content/ru/1979/05/articles/20_berezin-fillotaksis-i-posledovatelnost-fibonachchi-d0c62a84.md
+source_content_sha256: 2046ece6b149fd4da814c8ea9d4493bbb9570e350123356fb64fcb0a666ebacf
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 53⟧
+
+Phylotaxis and Fibonacci sequence
+
+Figure on the first page of the cover can be considered as a simplified image of a sunflower inflorescence, the seeds of which are grown one after another, in a checkerboard pattern. Real sunflower inflorescences (see figure on this page) also contain two families of logarithmic spirals (about these spirals read «Kvant», 1977, no. 4, p. 42). The spirals of one family twist toward the center counterclockwise, the other - along the clockwise direction. In rich also, the combination of two families of spirals is called phylotaxis (translated from the Greek word this means “leaf arrangement”).
+
+It turns out that the numbers of spirals in sunflower inflorescences are approximately equal to two neighboring members of the so-called Fibonacci sequence: 34 and 55 or 89 and 144.
+
+Sunflower phylotaxis is one of many unexpected encounters with the Fibonacci sequence. It was first encountered by the French mathematician Edouard Lucas last century. Reading the book “The Art of the Abacus” by the famous Intayan mathematician of the Renaissance Leonardo of Pisa, best known for producing Fibonacci, and solving one of Leonardo’s problems, Luca composed the sequence 0, 1, 1, 2, 3, 5, 8, ..., in which
+
+$$a_n = a_{n-1} + a_{n-2}.$$
+
+An unexpected encounter with this sequence consists of seyatsas and us. Let's assume that $\alpha^2 = 1 - \alpha$.
+
+Let us express the values ​​of the degree $\alpha^3, \alpha^4, \alpha^5, ...$ in terms of $1 = \alpha^0$ and $\alpha$:
+
+$$\alpha^3 = \alpha \cdot \alpha^2 = 2\alpha - 1,$$
+
+$$\alpha^4 = 2 - 3\alpha,$$
+
+$$\alpha^5 = 5\alpha - 3, \dots$$
+
+Did you recognize the Fibonacci sequence in the ratios, starting with the term $a_1$? Apparently, for any $n$ we can write the formula
+
+$$\alpha^n = (-1)^n (a_{n-1} - a_n \alpha),$$
+
+where $a_{n-1}$ and $a_n$ are the terms of the Fibonacci sequence. Let's prove this using mathematical induction:
+
+$$\alpha^{n+1} = (-1)^n (a_{n-1} \alpha - a_n \alpha^2) = (-1)^n (-a_n + (a_{n-1} + a_n) \alpha) = (-1)^{n+1}(a_n - a_{n+1} \alpha).$$
+
+The equation $\alpha^2 = 1 - \alpha$ has two roots: positive $\alpha_1 = \frac{-1 + \sqrt{5}}{2}$ and negative $\alpha_2 = -\frac{1 + \sqrt{5}}{2}$. As we have seen,
+
+$$\begin{cases} (-1)^n \alpha_1 = a_{n-1} - a_n \alpha_1 \\ (-1)^n \alpha_2 = a_{n-1} - a_n \alpha_2. \end{cases}$$
+
+Solving this system for $a_n$, we obtain that
+
+$$a_n = \frac{1}{\sqrt{5}} \times \left[ \left( \frac{1 + \sqrt{5}}{2} \right)^n - \left( \frac{1 - \sqrt{5}}{2} \right)^n \right].$$
+
+And this result is quite complicated - the sequence is integer, and its common term is expressed in terms of square radicals.
+
+We get the next surprise if we calculate $\lim_{n \to \infty} \frac{a_n}{a_{n+1}} = \frac{\sqrt{5} - 1}{2}$. This is the meaning of the “golden ratio” (about it, see, for example, «Kvant», 1973, No. 8, p. 22 et seq.). A beautiful object with such an observing attitude is pleasing to the eye.
+
+There are many formulas that are connected by members of the Fibonacci sequence. Here are some of them:
+
+$$a_{n+2} = a_0 + a_1 + a_2 + \dots + a_n + 1$$
+
+$$a_{2n+2} = a_1 + a_3 + a_5 + \dots + a_{2n-1}$$
+
+$$a_{2n+1} = 1 + a_2 + a_4 + \dots + a_{2n}$$
+
+$$a_{2n-2} + 1 = a_1 - a_2 + a_3 - a_4 + \dots + a_{2n-1}$$
+
+$$a_{2n}^2 = a_1 a_2 + a_2 a_3 + \dots + a_{2n-1} a_{2n}$$
+
+$$a_{2n-1} = a_n^2 + a_n^2 - 1.$$
+
+Try to prove them.
+
+You can read about the Fibonacci sequence in N. N. Vorobyov’s semi-partial and intersessive book “Fibonacci Numbers” (M., “Hayka”, 1978). About phylotaxis - in another interesting book: G. S. M. Coxter “Introduction to Geometry” (M., “Hayka”, 1966).
+
+V. Berezin

@@ -1,0 +1,76 @@
+---
+id: 1979-9-sovetuem-kupit-308ca19c
+issue: kvant_1979_9
+year: 1979
+number: "9"
+title: We advise you to buy!
+rubric: smes
+page_first: 11
+page_last: 11
+page_labels: "9"
+tag: U8C7
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 7f21e1c814e92c94158693fead5f8e4b5f337c3f8df7b77c68522df01588b8a2
+prompt_sha256: draft-1
+translated_from: content/ru/1979/09/articles/04_sovetuem-kupit-308ca19c.md
+source_content_sha256: c9dedf235be8bbb31fb54e0e7aab5bf81e15b17d85180117cac439cb871bb64c
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 9⟧
+
+We advise you to buy!
+
+Mathematics
+
+Boltyansky V.G., Sidorov Yu.V., Shabunin M.I. Lectures and problems in elementary mathematics, 2nd ed. (M., “Nuka”, 1974), 576 pp., 81 copies.
+
+Lidsky V. B., Ovsyannikov L. V., Tulaikov A. N., Shabunin M. I. Problems in elementary mathematics, 7th ed., revised. and additional (M., “Nuka”, 1973), 416 pp., 70 k.
+
+Lurie M.V., Aleksandrov B.I. Problems for composing equations (M., “Nuka”, 1976), 80 pp., 12 k.
+
+Physics
+
+Gursky I.P. Elementary physics with examples of solving problems, 2nd ed., rev. and additional (M., “Nuka”, 1976), 94 k.
+
+Zubov V. G., Shalov V. P. Problems in physics. A manual for self-education, 10th ed., stereotype. (M., “Nuka”, 1975), 280 pp., 47 copies.
+
+Pinsky A. A. Problems in physics (M., “Nuka”, 1977), 288 pp., 65 k.
+
+Bakanina L.P., Belonuchkin V.E., Kozel S.M. et al. Collection of problems in physics, 3rd ed., revised. (M., “Nuka”, 1975), 416 pp., 67 copies.
+
+Bukhovtsev B. B., Krivchenko V. D., Myakishev G. Ya., Saraeva I. M. Collection of problems in elementary physics. A manual for self-education, 4th ed., printed. (M., “Nuka”, 1974), 416 pp., 72 copies.
+
+Seleznev Yu. A. Fundamentals of elementary physics, 4th ed., isperab. (M., “Nuka”, 1974), 544 pp., 92 copies.
+
+Physics, trans. from English
+
+Part I. Universe (M., “Nuka”, 1973), 432 pp., 1 rub. 30 k.
+
+Part II. Ontika (M., “Nuka”, 1973), 400 pp., 1 rub. 18 k.
+
+Part III. Mechanics (M., “Nuka”, 1974), 432 pp., 1 rub. 22 k.
+
+Part IV. Electricity and structure of atoma (M., “Nuka”, 1974), 528 pp., 1 rub. 42 k.
+
+Elementary textbook of physics, ed. academic G. S. Landsberg, 9th ed., stereotype. (M., “Nuka”, 1975).
+
+Vol. I. Mechanics. Tellota. Molecular physics, 656 pp., 1 rub. 11 k.
+
+Vol. II. Electricity and magnetism, 528 pp., 91 k.
+
+Vol. III. Oscillations and waves. Ontika. The structure of atoma, 640 pp., 1 rub. 13 k.
+
+Elluit L., Wilox W. Physics, trans. from English (M., “Nuka”, 1975), 736 pp., 1 rub. 94 k.
+
+Yavorsky B. M., Pinsky A. A. Fundamentals of Physics, 2nd ed. processed (M., “Nuka”, 1974). Volume 1 - 98 books, volume II - 1 rub.
+
+Yavorsky B. M., Seleznev Yu. A. A reference guide to physics for university applicants and self-education (M., “Nuka”, 1975), 624 pp., 1 rub. 15 k.
+
+The books listed above can be purchased at Knigotor, Tsentrokopping and Academica stores, which distribute literature from the Nuka publishing house.
+
+Books will be sent cash on delivery, without assignment.

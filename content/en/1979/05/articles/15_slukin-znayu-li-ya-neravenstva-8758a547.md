@@ -1,0 +1,64 @@
+---
+id: 1979-5-slukin-znayu-li-ya-neravenstva-8758a547
+issue: kvant_1979_5
+year: 1979
+number: "5"
+title: Do I know the inequalities?
+authors:
+  - Слукин Л.
+rubric: smes
+page_first: 45
+page_last: 45
+page_labels: "43"
+tag: IMY3
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: c2e8fb5c5f8a07757fe1ad81718d773d3cc2e1ab4d318f0fc1fba8784427cf2b
+prompt_sha256: draft-1
+translated_from: content/ru/1979/05/articles/15_slukin-znayu-li-ya-neravenstva-8758a547.md
+source_content_sha256: a70b8187974f035fcf2be6d820975378951a24816f1d63a44194750d4252812e
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 43⟧
+
+4) the beam $P_1P$ incident on the stripes of the mirror $P$ is reflected symmetrically relative to the main optical axis $OP$.
+
+Let's look at the following problem:
+
+Problem 5. The location of the object $A$ and its image $A'$ relative to the main optical axis $MN$ of the spherical mirror (Fig. 13) is known. Find the focus of the mirror by constructing it.
+
+The intersection of the line passing through the points $A$ and $A'$ with the axis $MN$ gives the center of the spherical mirror (Fig. 14).
+
+Do I know the inequalities?
+
+With the help of a simple task you can check whether you have understood the section “Inequalities” well. To do this, you need to solve eight proposed problems in no more than 25 minutes. Having overthrown the resulting answers with the answers to p. 62, you can immediately give yourself a grade (using a five-point system), calculating it using the formula
+
+$$k = \left[ \frac{n}{2} + 1 \right],$$
+
+where $n$ is the number of correct solutions to problems.
+
+Are you ready? Time it... Let's start!
+
+Setting the inequality:
+
+1. $x^{-2} < x^{-3}$.
+2. $\frac{(x+3)(x+4)}{x+3} > 0$.
+3. $\log_{\sqrt{x}} x > 1$.
+4. $\left( \frac{1}{\sqrt{2}} \right)^x < 3$.
+5. $\sin x > \cos x$.
+6. $\sin x \leq \log_2 3$.
+7. Which is greater: $\log_6 \cos 6$ or $\sqrt{\cos 6}$?
+8. Simplify the expression $| - a| + \sqrt{a^2}$ with $a < 0$.
+
+If you (without exceeding the time limit) earned an “A”, you can move on to the next, more difficult task. However, if your score is “four” and you realize your mistakes, try to realize yourself. Take your time: time is now unlimited.
+
+Solve inequalities:
+
+1. $\log_{\sqrt{2}} - 0,5 \left( x^2 (x - 3 \sqrt{2}) + 2 (3x - \sqrt{2}) \right) < 6$.
+2. $\frac{\arcsin \left( x^2 - 3x + 3 \right)}{x^3 - x^2 + x + \log_x x^2} > 0$.
+
+L. Slukin

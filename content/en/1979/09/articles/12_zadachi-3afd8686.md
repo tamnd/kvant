@@ -1,0 +1,38 @@
+---
+id: 1979-9-zadachi-3afd8686
+issue: kvant_1979_9
+year: 1979
+number: "9"
+title: Tasks
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 35
+page_last: 35
+page_labels: "33"
+tag: R9V3
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 41fb67cd81dbe97ac539e0b4fdd80542ea1a67571e104e8e6d956651af23b36b
+prompt_sha256: draft-1
+translated_from: content/ru/1979/09/articles/12_zadachi-3afd8686.md
+source_content_sha256: f509f1991c06153bf60e9748b8559ca23cdda17db24d679eb0e10c1fd4e06887
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 33⟧
+
+Quests
+
+1. If Anya walks to school and takes the bus back, then she spends a total of one and a half hours on the road. If she takes a round trip bus, the whole journey takes her thirty minutes. How much time does Anya spend on the road if she walks both to and from school?
+
+2. Can the sum 1+2+3+...+p for any p end in 1979?
+
+3. 35 crows flew to the collective farm yard. Suddenly afraid of something, the crows took off and split into two flocks: the first flock sat on the branches of an old poplar, and the other on the roof of the water tower. After some time, 5 crows flew from the poplar to the roof, and the same crow flew off the roof completely, after which there were twice as many crows left on the poplar as on the roof. How many crows were there in both flocks initially?
+
+4. Find a piece
+$$\left(1 - \frac{1}{4}\right)\left(1 - \frac{1}{9}\right)\left(1 - \frac{1}{16}\right)\cdot \dots \cdot \left(1 - \frac{1}{225}\right).$$
+
+5. The task is focus. Take a three-digit number. Write the numbers in reverse order (for example, 347→743, 525→525); you get another three-digit number. Subtract the smaller number from the larger number. Give the last digit of the difference as a guess. The guesser names the difference. How does he do it?

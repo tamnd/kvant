@@ -1,0 +1,93 @@
+---
+id: 1979-6-virchenko-moskovskiy-aviatsionnyiy-tehnologicheskiy-institut-im-k-e-tsiolkovskogo-f3d8b18c
+issue: kvant_1979_6
+year: 1979
+number: "6"
+title: Moscow Aviation Technological Institute named after. K. E. Tsiolkovsky
+authors:
+  - Вирченко Ю. и др.
+rubric: ekzamenatsionnye-materialy
+page_first: 48
+page_last: 48
+page_labels: "46"
+tag: 7SC1
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 79f71bc5c6036268366faf825817b66dfaa1a2f5deaf8d9d1d8004904fbe3f88
+prompt_sha256: draft-1
+translated_from: content/ru/1979/06/articles/19_virchenko-moskovskiy-aviatsionnyiy-tehnologicheskiy-institut-im-k-e-tsiolkovskogo-f3d8b18c.md
+source_content_sha256: 2668fd688076bf33d364fdc04c02368bb577017a2ce23dbf73e7cbfc38f9d8ea
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 46⟧
+
+Yes? The relative molecular weight of oxygen is 16 times greater than the relative molecular weight of hydrogen.
+
+3. A small ball is suspended on a thin thread in the space between the plates of a flat capacitor, the plates of which are horizontal. Ball charge $q=10^{-9}$ Cl. When the capacitor was charged with a charge of $Q=2 \cdot 10^{-5}$ C, the tension of the filament doubled. Determine the mass of the ball. The area of ​​the capacitor plates is $S=200 \text{ cm}^2$.
+
+4. Linear power transmission has a resistance of $R=250$ Ohm. What voltage must the generator have so that when transmitting power $P=25$ kW through this line to the consumer, the losses in the line do not exceed 4% of the power transmitted to the consumer?
+
+5. An inductance coil $L=3 \cdot 10^{-5}$ Г is connected to a parallel-plate capacitor with plate area $S=100 \text{ cm}^2$. The distance between the capacitor plates is $d=0,1$ mm. What is the dielectric constant of the medium filling the space between the plates of the capacitor if the circuit resonates at a wavelength of $\lambda=750$ m?
+
+B. Adafonov,
+V. Prozhorenko,
+V. Chudov
+
+Moscow Aviation Technical Institute named after. K. E. Tsiolkovsky
+
+At the Moscow Aviation Technical Institute named after. K. E. Tsiolkovsky (MATI) trains 10 thousand students in 12 specialties and 15 specialties related to the aviation industry. Engineers who have graduated from the institute work in workshops, laboratories, technical and design bureaus of pilot and serial plants, as well as in industry research institutes. MATI has the following faculties:
+
+The Faculty of Innovation and Technology trains metallurgical engineers in metallurgy, equipment and technological processing of metals, metal production of ferrous and non-ferrous metals, metal forming, metallurgy and technological welding production.
+
+The Faculty of Engineering and Technology prepares metallurgical engineers for independent installation of equipment and technological processing of metals, metal production of ferrous and non-ferrous metals, metal forming, metallurgy and technological welding production.
+
+Competitive admission to this faculty is carried out separately for persons living in Moscow and the Moscow region (within a radius of 50-60 km), and for persons living outside the specified area. (At the Faculty of Innovation and Technology, the competition is general.)
+
+The Faculty of Radioelectronic Equipment trains metallurgical engineers in advanced instrumentation and radiotechnological engineers in the design and production of radio equipment, as well as metallurgical engineers in metallurgical science, equipment and technological processing of metals, metallurgy and technological welding production, metal forming, metallurgical production of ferrous and non-ferrous metals.
+
+Only persons living in Moscow and the Moscow region (within a radius of 50-60 km) are accepted into the last two faculties.
+
+Mathematics
+Written exam
+
+Option 1
+
+1. Prove the truth
+
+$$\text{tg} 4\alpha + \sec 4\alpha = \frac{\cos 2\alpha + \sin 2\alpha}{\cos 2\alpha - \sin 2\alpha}.$$
+
+2. Solve the equation
+
+$$2x^2 + 3x - 5\sqrt{2x^2 + 3x + 9} + 3 = 0.$$
+
+3. A triangle is given side $a$ and adjacent angles $\beta$ and $\gamma$. Determine the volume of the body obtained by rotating the triangle around the other side.
+
+4. Solve the equation
+
+$$\sin 5x \cdot \cos 3x = \sin 6x \cdot \cos 2x.$$
+
+5. Find the cone of smallest volume circumscribed about a ball of radius $R$.
+
+Option 2
+
+1. Prove the truth
+
+$$\frac{\cos 4\alpha + 1}{\text{ctg} \alpha - \text{tg} \alpha} = \frac{1}{2} \sin 4\alpha.$$
+
+2. Solve the equation
+
+$$\log_2 (x - 1)^2 - \log_{0,5} (x - 1) = 9.$$
+
+3. The basis of the parameters is a rectangle whose area is $S$. Two opposite faces are inclined to the base plane at an angle $\alpha$, and two - at an angle $\beta$. Find the lateral surface area.
+
+4. Solve the equation
+
+$$\cos 2x + \sin 2x = \cos x + \sin x.$$
+
+5. Where does the function return
+
+$$f(x) = -x^3 - x^2 - 7x - \sqrt{3}?$$
