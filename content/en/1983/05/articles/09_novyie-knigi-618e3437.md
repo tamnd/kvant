@@ -1,0 +1,66 @@
+---
+id: 1983-5-novyie-knigi-618e3437
+issue: kvant_1983_5
+year: 1983
+number: "5"
+title: New books
+rubric: smes
+page_first: 30
+page_last: 30
+page_labels: "28"
+tag: ZR5V
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: aedbc3b0a5fee4ebd364f34bdb84c29c92bc89b92b3dd0846bb4466ecc7390e9
+prompt_sha256: draft-1
+translated_from: content/ru/1983/05/articles/09_novyie-knigi-618e3437.md
+source_content_sha256: db180e4ae5c39a4672097e73bb737cb683512b618727c9da019065fe294fa1d7
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 28⟧
+
+Write it in the form
+
+$$a \leq \frac{l}{2} \sin \varphi.$$
+
+What possible result of our experiment corresponds to a point on the plane with coordinates $(a; \varphi)$, lying inside a rectangle bounded by the coordinates of the axes and straight lines $a = \frac{h}{2}$ and $\varphi = \frac{\pi}{2}$ (Fig. 2).
+
+The points of the rectangle lying under the curve $a = \frac{l}{2} \sin \varphi$ correspond to the following intersections of the needle with the straight line: points lying above this curve correspond to the case when the intersection does not take place. Now the problem can be formulated as follows: a point is visited in the rectangle $\{0 \leq \varphi \leq \pi/2; 0 \leq a \leq h/2\}$; What is the probability that this point is under the sinusoid $a = (l/2) \sin \varphi$?
+
+The word “at random” here replaces the requirement of equality*) of all positions of the needle equations. Its structural meaning can be attributed in different ways. The simplest way to say is that the probability of a selected point falling into any square $\{\varphi_1 \leq \varphi \leq \varphi_2; a_1 \leq a \leq a_2\}$ ($\varphi_2 - \varphi_1 = a_2 - a_1 = d$) on a given side does not depend on the position of this square inside the rectangle (although, of course, it depends on the length $d$ of its side).
+
+For example, the probability of a point being inside the squares $K_1$ or $K_2$ on figure 2 are the same. From here it is easy to deduce that the probability of getting inside any figure lying in our rectangle is proportional to its area, and, therefore, equal to the ratio of this area to the area of ​​the entire rectangle.
+
+In particular, the area of ​​the curve of the new trapezoid bounded by the sinusoid under consideration is equal to
+
+$$S_1 = \int_0^{\pi/2} \frac{l}{2} \sin \varphi d\varphi = \frac{l}{2} \left( -\cos \frac{\pi}{2} \right) - \left( -\cos 0 \right) = \frac{l}{2}.$$
+
+And since the area $S$ of the rectangle is equal to $\pi h/4$, to avoid obtaining the value
+
+$$p = \frac{S_1}{S} = \frac{2l}{\pi h}.$$
+
+*) We prefer not to talk about “even confidence”, because the probability that the angle will take some exact fixed position is simply zero.
+
+Reviews, bibliography
+
+New books
+
+In 1984, the Nauka publishing house plans to release the following books in the Library «Kvant» series (the price of each book is 40 kopecks):
+
+1. V. V. Braginsky, A. G. Polnarev. Amazing gravity.
+2. G. S. Voronov. Assault on the thermonuclear fortress.
+3. V. I. Goldansky, R. P. Kuzmin. Mossbauer effect.
+
+4. V. N. Dubrovsky, Ya. A. Smorodinsky, E. L. Surkov. Relativistic world.
+5. V. A. Zaimovsky, T. L. Kolupaeva. Non-educational properties of common metals.
+6. Interesting about physics and mathematics. (Compiled by S. S. Krotov, A. P. Savin.)
+7. M. E. Levinshtein, G. S. Simin. Introduction to receiving a book.
+8. A. P. Purmal, E. M. Slyubodtskaya, S. O. Travin. How substances are transformed.
+9. S. S. Khilkovich. Physics vokg us.
+10. A. D. Chernin. Stars and physics.
+
+We advise all interested readers to place orders for these books in bookstores or in the “Book by mail” departments.

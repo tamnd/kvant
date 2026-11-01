@@ -1,0 +1,42 @@
+---
+id: 1983-7-zadachi-6c7e25a2
+issue: kvant_1983_7
+year: 1983
+number: "7"
+title: Tasks
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 41
+page_last: 41
+page_labels: "39"
+tag: F4WY
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: fce8272ea66430dcdf85601110c8879a9111c2de6b558c8c9884f61fd068565e
+prompt_sha256: draft-1
+translated_from: content/ru/1983/07/articles/06_zadachi-6c7e25a2.md
+source_content_sha256: 691c7eb5f77a71d75afe1b9fc04091d1573fe5a2850a52139530d4a698e9bf4d
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 39⟧
+
+Tasks
+
+1. There are 5 light bulbs in the lubra. The switch has 6 positions, in which each time a different number of light bulbs are lit - from 0 to 5. One day, several light bulbs burned out. What is the least number of times you need to flip the switch to find out which ones?
+
+2. Find all three-digit numbers that are equal to the product of the number expressed by its last two digits and the number expressed by its last digit.
+
+3. The numbers 1,2,...,9 were placed in the cells of a 3x3 square. Then, in each circle, the arithmetic mean of the four numbers surrounding it was written down. After this, the arithmetic mean of the resulting four numbers was calculated. What is the largest number that can be obtained?
+
+4. There are 18 liters of gasoline in a barrel. There are two buckets with a volume of 7 liters, in which you need to fill 6 liters of gasoline. In addition, there is a 4-liter scoop. How can a spill be carried out?
+
+5. Why is it that during the day, from a room whose window is covered with a tulle curtain, objects on the street are clearly visible, but objects in the room are not visible from the street?
+
+These tasks were offered to us
+A. I. Azamov, G. A. Galperin,
+V. V. Proizvolov, S. V. Dvoryaninov,
+A. P. Savin.

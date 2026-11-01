@@ -1,0 +1,40 @@
+---
+id: 1983-5-shevelev-razlozhenie-na-razlichnyie-mnozhiteli-81e2793c
+issue: kvant_1983_5
+year: 1983
+number: "5"
+title: Factorization into various factors
+authors:
+  - Шевелёв В. С.
+rubric: smes
+page_first: 39
+page_last: 39
+page_labels: "37"
+tag: 94JA
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 2e86da5a0e5111a350b892f8ad8e47736c92c38505a56222ae1cb17a6b74291b
+prompt_sha256: draft-1
+translated_from: content/ru/1983/05/articles/12_shevelev-razlozhenie-na-razlichnyie-mnozhiteli-81e2793c.md
+source_content_sha256: 420f87fadba93a0cf5a5b5b4e08c185dee72fd9ba182b91554d22fa81aaf4eb0
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 37⟧
+
+Factorization into various factors
+
+In the decomposition of a natural number into prime factors, generally speaking, combinators are repeated: $4 = 2^2$, $12 = 2^2 \cdot 3$, etc.
+
+Let us denote by $B$ the set of natural numbers such that every natural number $n > 1$ not included in $B$ can be uniquely expressed! — represent it as a product of different numbers from $B$.
+
+1. Construct such a set $B$; prove that it is uniquely defined. a) What is the form of decomposition into prime factors of numbers from $B$? Let us denote by $b_n$ the $n$-th largest element of the set $B$. It is easy to see that $b_1 = 2$, $b_2 = 3$, $b_3 = 4$, $b_4 = 5$, $b_5 = 7$, $b_6 = 9$.
+
+2. Let us consider representations of natural numbers in the form of a product of numbers from $B$ (for numbers $b \in B$ we will consider such representations of the equality $b = b$). For example, $2 = 2$, $10 = 2 \cdot 5$, $12 = 3 \cdot 4$, $30 = 2 \cdot 3 \cdot 5$, $90 = 2 \cdot 5 \cdot 9$, $120 = 2 \cdot 3 \cdot 4 \cdot 5$. For $b \in B$ we denote by $v_b(n)$ the number of numbers not exceeding $n$, the mentioned representation of which includes the factor $b$. For example, $v_2(2) = v_2(3) = v_2(4) = v_2(5) = 1$, $v_2(6) = v_2(7) = 2$, $v_2(8) = v_2(9) = 3$, $v_2(10) = 4$. Prove that for each $b \in B$ a) $\lim_{n \to \infty} \frac{v_b(n)}{n} = \frac{1}{b+1}$; b) there are infinitely many $n$ such that $\frac{v_b(n)}{n} = \frac{1}{b+1}$.
+
+3. Let us put $m < n$ if every factor from the above-mentioned representation of the number $m$ is included in the representation of the number $n$. For example, $2 < 2$, $2 < 10$, $30 < 120$, but not $30 < 90$. Let us also put $1 < n$ for all $n$. How many $m$ are there such that $m < n$, if $n$ is decomposed into the product of the number $k$ of numbers from $B$? We call a number $n$ harmonious if it is equal to the sum of all $m < n$ such that $m < n$. For example, the numbers 6 and 90 are harmonious: $6 = 2 \cdot 3 = 1 + 2 + 3$, $90 = 2 \cdot 5 \cdot 9 = 1 + 2 + 5 + 9 + 10 + 18 + 45$. a) Find a few more harmonious numbers (the author does not know whether they are finite or set). b) Prove that any harmonic number is even. Find numbers that are both harmonious and perfect.
+
+V. S. Shevelev

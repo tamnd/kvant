@@ -1,0 +1,62 @@
+---
+id: 1983-3-gik-figuryi-v-bezopasnosti-816454dd
+issue: kvant_1983_3
+year: 1983
+number: "3"
+title: The figures are safe
+authors:
+  - Гик Е. Я.
+rubric: shahmatnaya-stranichka
+rubric_sub: Шахматы
+page_first: 67
+page_last: 67
+tag: ZZBY
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: ed43a01e9f5287a454373a8a48815b486d907e6ef404978e63e34c4bb2e0a435
+prompt_sha256: draft-1
+translated_from: content/ru/1983/03/articles/02_gik-figuryi-v-bezopasnosti-816454dd.md
+source_content_sha256: cb9415ee92c690ea9c91fa19b589d32a467359d97e414185be700fff9a1fac1a
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+FIGURES IN SAFETY
+
+One of the most popular combinators of problems on a chessboard is to place on it the greatest number of certain pieces that do not threaten each other, as well as counting the number of indicated arrangements. Both of these problems are posed not only for a general 8x8 board, but also for any square board of size nxn. The solutions to some of these problems are well known, others are very complex and have not yet been solved.
+
+Queens. On a common board, you can place 8 queens so that they do not threaten each other. The number of arrangements is 92, of which 12 are basic (I talk about this in «Kvant», 1983, No. 1).
+
+Obviously, there are n×n more than n queens on the board that do not threaten each other, so we can arrange as much as possible. It turns out that for all n except n=2 and n=3, the maximum number of queens that is safe is equal to n (on a 2x2 board there is one queen, on a 3x3 board there are two queens). The proof of this fact is not very simple; it can be found in various books on mathematics. The numbers of corresponding solutions are known only for n≤14, and computers were used to find them.
+
+Frets. The maximum number of rooks that do not threaten each other is also n, and the number of formations is n!=1·2···n.
+
+Elephants. The maximum number of bishops that do not threaten each other on an n×n board is 2n-2 (n>1). Bishops can be placed along the entire first horizontal line and on the last, excluding the corners.
+
+There are 2^n arrangements in total.
+
+Connie. Obviously, placing 32 knights on one white or one black square on a common board, we will get two placements of knights that do not threaten each other. Let's make sure that it is possible to arrange more than sweets that have these properties, and that it has all two options. Let the knights be placed in the required manner on the board. Let's take advantage of the fact that on an 8x8 board there is a closed knight route across the entire board. Since in this route, after each square with a knight from our arrangement there must be a free square, knights cannot occupy more than half of the board! If the millstone of the board is filled with knights, then these 32 knights must follow one through the chosen route, i.e., they are located on fields of the same color.
+
+Similarly, it is proved that for even n it is possible to place on the board at most n^2/2 knights that do not threaten each other, and for odd n—(n^2+1)/2 knights. In the first case, two one-piece formations are possible, and in the second, only one (the knights stand on squares of the color that is larger on the board).
+
+Kings. Let's represent the number n in the form n=2k or, accordingly, n=2k-1. It can be proven that on an n×n board there are fewer k^2 kings that are not threatening each other, that is, not standing next to each other. On a common board, 16 kings (k=4) are placed in the required manner in 287571 ways. Kings can be placed, for example, on all single-link squares of even or odd ranks. The general formula for the number of arrangements on the board n×n is unknown.
+
+Pawns. Let us again represent the number n in the form n=2k or n=2k-1. Then on an n×n board you can place nk pawns, none of which will attack the other. You can use pawns to fill the horizontals (through one) or the verticals (through one), but there may be other arrangements. Try to find the number of allowable arrangements yourself (at least on an 8×8 board).
+
+The following arrangement of figures, created by G. Duden, is unique.
+
+The maximum number of queens, rooks and bishops that do not threaten each other is simultaneously reduced on the board. There are also 21 knights on the board (they do not attack each other), and on the free black squares of the board you can also place 8 kings, which will not attack each other.
+
+Competition problems
+
+In the Matrovsky issue of the magazine, according to tradition, we offer two problems composed by married chess composers. It is curious that the authors of both positions rationalized them when they were in school.
+
+5. (K. Saghatelyan, 1957). Checkmate in 3 moves.
+
+6. (L. Vyshinskaya, 1964). Checkmate in 2 moves.
+
+The deadline for sending solutions is May 25, 1983 (with a note on the envelope: “Chess competition «Kvant», tasks 5, 6”).

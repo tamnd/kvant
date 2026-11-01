@@ -1,0 +1,82 @@
+---
+id: 1983-7-vallander-postoyannaya-stanovitsya-peremennoy-5de94cba
+issue: kvant_1983_7
+year: 1983
+number: "7"
+title: Constant becomes variable
+authors:
+  - Валландер С. С.
+rubric: zadachnik-kvanta
+rubric_sub: Задачник «Кванта»
+page_first: 54
+page_last: 54
+page_labels: "52"
+tag: EDAA
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 4f92dae87625e2e33ce78149a94a970d1c5847cc2734cea00cfd237f0c7de0af
+prompt_sha256: draft-1
+translated_from: content/ru/1983/07/articles/11_vallander-postoyannaya-stanovitsya-peremennoy-5de94cba.md
+source_content_sha256: aa142840595db544ede946332118c704b55b3b782c9456ee648956ba1812bb4f
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 52⟧
+
+Constant becomes variable
+
+S. S. WALLANDER
+
+Explain the asymptotic behavior of the solution for $12 \rightarrow \infty$.
+
+(G. J. Lipkin, from the collection “Physicists Are Joking”, M., “Mir”, 1966)
+
+In serious mathematical works, the following idea is often encountered in modern different situations: fix variable quantities and change constants. In this note we will show how this idea solves problem M7996):
+
+Find two solutions to the equation
+$$3^x + 3^{x^2} = 2^x + 4^{x^2}$$
+
+and prove that he has no other solutions.
+
+This apparently effective equation seems to be poorly suited to solution by elementary methods. Obviously an equation of this kind can be solved from monotonicity messages. For example, consider the solution to problem M799a): Find one solution to the equation $3^{x+1} + 100 = 7^{x-1}$ and prove that it has no other solutions.
+
+The root you are looking for is easy to guess: $x=4$ (check it!). And there are no other solutions, because by dividing both sides of the equation by $3^{x-1}$:
+
+$$9 + 100 \cdot 3^{-x+1} = (7/3)^{x-1},$$
+
+we get a decreasing function of $x$ on the left side, and an increasing one on the right side.
+
+However, applying monotonicity messages to equation (1) appears to be difficult (although one cannot, of course, rule out the possibility that more subtle reasoning of this type may achieve the goal). Indeed, equation (1) has two solutions - $x=0$ and $x=1$. How can one prove that he has no other solutions?
+
+Let's try to take advantage of the fact that the left and right sides of the equation have a positive structure $a^x + b^x$, and the sum of the bases in both sides is the same $(a+b=6)$ - thanks to this, the equation has a solution $x=1$. Let us write equation (1) in the form
+$$3^x + (6-3)^{x^2} = 2^x + (6-2)^{x^2}$$
+
+and consider the function $f(t) = t^x + (6-t)^{x^2}$ (This is the decisive point: in the original equation we fix the variable and begin to change the constants). We must prove that equality (3), that is, $f(3) = f(2)$, is impossible for $x \neq 0$ and $x \neq 1$. To do this, it is enough to establish that for every value of $x$, except 0 and 1, the function $f(t)$ is monotonous, at least on the interval $2 \leq t \leq 3$.
+
+Let us find an arbitrary (with respect to $t!$) function $f: f'(t) = xt^{x-1} - x^2(6-t)^{x^2-1}$ and show that it preserves its sign on the interval [2; 3] (at $x \neq 0$; 1). Let's look at three cases separately - $x<0$, $0 < x < 1$ and $x > 1$.
+
+At $x < 0$, obviously $f'(t) < 0$; therefore, $f(t)$ kills $f(2) > f(3)$ too.
+
+For $0 < x < 1$ and $t \leq 3$ we have $6-t \geq 3$ and $x^2(6-t)^{x^2-1} < x(6-t)^{x^2-1} \leq x3^{x^2-1} < xt^{x^2-1}$, that is, $f'(t) > 0$ and $f(3) > f(2)$.
+
+Finally, at $x > 1$ and $t \leq 3$
+$$x^2(6-t)^{x^2-1} > x(6-t)^{x^2-1} \geq x3^{x^2-1} > xt^{x^2-1}$$
+that is, $f'(t) < 0$ and $f(2) > f(3)$.
+
+So, equation (3) (or (1)) has no roots other than 0 and 1.
+
+In the same way, we can prove that any equation of the form $a^x + (2k-a)^{x^2} = b^x + (2k-b)^{x^2}$ with $0 < a < b \leq k$, and $k > 1$ has exactly two solutions - 0 and 1 (in our problem $b=k=3$, $a=2$).
+
+Let us present another solution problem M7996), based on the same idea. (Some readers found it).
+
+The absence of negative roots of equation (1) follows from the fact that at $x < 0$ $3^x < 2^x$ and at the same time $3^{x^2} < 4^{x^2}$. For $0 < x < 1$, consider the function $g(t) = (t+1)^{x-1} - t^{x-1}$. Because $g'(t) = x((t+1)^{x-1} - t^{x-1}) < 0$, function $g(t)$ kills. Therefore, $g(3) = 4^x - 3^x < g(2) = 3^x - 2^x$. And since $4^x - 4^{x^2} = 4^x(4^x - 1) > 3^x(3^x - 1) = 3^x - 3^{x^2}$, the inequality is true
+$$3^x - 2^x > 4^x - 3^x > 4^{x^2} - 3^{x^2}.$$
+
+Pozny $3^x + 3^{x^2} > 2^x + 4^{x^2}$. The structure $x > 1$ can be analyzed in a similar way - with the difference that in (4) instead of the signs > we get the signs <.
+
+In conclusion, let us formulate a similar but more complex problem:
+
+How many solutions does the equation $3^x + 3^{x^2} = 4^x + 2^{x^2}$ have?

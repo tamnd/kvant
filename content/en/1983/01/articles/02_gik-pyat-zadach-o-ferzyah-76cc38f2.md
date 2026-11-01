@@ -1,0 +1,68 @@
+---
+id: 1983-1-gik-pyat-zadach-o-ferzyah-76cc38f2
+issue: kvant_1983_1
+year: 1983
+number: "1"
+title: Five problems about queens
+authors:
+  - Гик Е. Я.
+rubric: shahmatnaya-stranichka
+rubric_sub: Шахматы
+page_first: 67
+page_last: 67
+tag: BV90
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 2534e9bb13ca8afa42634b14f96cb58198348c98823f9a84b620a886fda1a6ac
+prompt_sha256: draft-1
+translated_from: content/ru/1983/01/articles/02_gik-pyat-zadach-o-ferzyah-76cc38f2.md
+source_content_sha256: a71f74fc4361c6c8cfc6dd8054e1ec99410f0a8c8e0ac2b1afb65809ef1db515
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+FIVE PROBLEM ABOUT QUEENS
+
+1. In how many ways can a number of queens be placed on the board so that they do not cancel each other out, that is, no two of them stand on the same vertical, horizontal and diagonal?
+
+This is one of the most significant mathematical problems on the chessboard. It is called the louse queens problem. In the last century, the great mathematician Carl Gauss was interested in it. It is interesting that both the problem and its solution are sometimes mistakenly attributed to Gauss himself. In fact, it was first staged in 1848 by the German chess player M. Bezzel, and all the arrangements (92 of them) were found by Dr. F. Science in 1850.
+
+One of the formations is: a3, b7, c2, d8, e5, f1, g4, h6. From it you can get seven more by rotating the board by 90°, 180° and 270°, as well as by symmetries around the lines dividing the board in half. Similarly, other arrangements are divided into groups, in each of which all arrangements are obtained from one by rotations and symmetries. There are 12 groups in total - 11 of 8 formations and one of 4 formations (in which a 180° turn leads to the same position). Taking one arrangement from each group, we get a “main” set of 12 arrangements; the rest are obtained from them by rotations and symmetries.
+
+2. Arrange the most (n) number of queens on the board so that each of them has exactly n queens.
+
+The problem of queens allows for many generalizations; we will present one of the most interesting. Uslo
+
+outside p=0 means queens should not attack each other. It has been proven that for p=1 (each queen has one queen under attack) n=10 (a8, b3, b5, c7, d2, e7, f2, g4, g6, h1), and for p=2 we have n=14 (a2, a3, a5, b1, c7, c8, d1, e8, f1, g1, h1, h4, h6, h8). For large values ​​of p, the problem has not yet been completely solved. For p=3, an arrangement of 16 queens (the first and last ranks) was found, and for p=4 - 20 queens (the entire board border except squares a1, a8, c8, d8, e8, f8, h8, h1).
+
+3. Can one white queen on a 4x3 board change the black king from the lower left a1 to the upper right d3? The queen is on square c2.
+
+The goal is achieved in ten moves.1. Qs3+ Kd2 2. Qs1 Kb3 3. Q1 Kc2 4. Q2+ Kd3 (4...Kd2 “loses” the quick: 5. Qb3 Kd2 6. Qb1 Kd3 7. Q2 Kd3) 5. Qb1 Kd2 6. Qb2+ Kd1. A position arose that was centrally symmetrical to the original one, with the difference, however, that the king now needed to be driven into a close corner of the board. 7. Fa2! (the thinnest part of the solution) 7......Krs1 8. Qb3 Kd2 9. Qb1 Krs3 10. Q2 Krs3.
+
+In order to drive the king from the original position to the corner square a3, you should immediately use the idea of ​​​​the given solution: 1. Qd2! Kb1 2. Qs3 Kra2 3. Qs1 Kb3 4. Qd2 Kra3.
+
+The queen can drive the king to any corner of the m×n board, unless m≠n. Surprisingly, on square boards, luring the king to corner squares close to the original one without removing it - the king wanders between two diagonal opposite corners of the board, and the queen is not able to change its trajectory.
+
+4. Arrange a number of queens on the board so that most of its squares are outside the queens' field of vision.
+
+The required number of fields is 11, and with the help of a computer it was possible to establish that there are seven main solutions (not obtained from each other by rotating and reflecting the board).
+
+The most symmetrical of them is shown in the next figure (unattacked fields are marked with dots).
+
+5. Place as many queens on the board as possible with the condition that when any of them is removed, exactly one unattacked square appears.
+
+This problem is related to the previous one... general answer! You can place 11 queens on the board, for example: a1, a3, a4, c1, c2, d1, f1, g1, g2, g3, g4.
+
+Competition problems
+
+This issue marks the start of our new chess competition, which is on sale throughout the year. The winners, as always, will be awarded chess literature with authors from the leading chess page.
+
+1. Checkmate in 8 moves.
+
+2. White starts from there and wins.
+
+The deadline for sending the decision is March 25, 1983 to the address: 103006, Moscow, K-6, st. Gorkoo, 32/1, editorial office of the magazine «Kvant» with help on the envelope “Chess competition, tasks 1, 2”.

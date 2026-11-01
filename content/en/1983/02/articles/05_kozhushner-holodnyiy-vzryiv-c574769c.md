@@ -1,0 +1,48 @@
+---
+id: 1983-2-kozhushner-holodnyiy-vzryiv-c574769c
+issue: kvant_1983_2
+year: 1983
+number: "2"
+title: Cold Explosion
+authors:
+  - Кожушнер М. А.
+rubric: novosti-nauki
+rubric_sub: Новости науки
+page_first: 22
+page_last: 22
+page_labels: "20"
+tag: AO98
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 2191114667696325496dd89603911eeadaec9dc57f3aed8d8b18f8e3f41460b7
+prompt_sha256: draft-1
+translated_from: content/ru/1983/02/articles/05_kozhushner-holodnyiy-vzryiv-c574769c.md
+source_content_sha256: 3e5ad80ba640d9401ad38070a992d315697055f442738f3ef3031bc2b0ece3f5
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 20⟧
+
+Cold Explosion
+
+Doctor of Physical and Mathematical Sciences
+M. A. KOZHUSHNER
+
+In 1980, researchers from the Institute of Chemical Physics of the USSR Academy of Sciences discovered a new interesting phenomenon: a mixture capable of chemical reactions exploded not when heated, but when cooled.
+
+The explosion of a mixture of methylcyclohexane and chlorine occurred at a temperature of about 10 K.
+
+Everyone knows that cold slows down chemical processes, and intense reactions - explosions - occur when heated. A chemical reaction leading to a massive thermal explosion, as a rule, proceeds through a chain mechanism: the mixture is heated and at a certain temperature, as a result of the interaction of molecules, the number of reacting particles (radicals) in the mixture returns like an avalanche. At the same time, the heat release decreases even more rapidly. If the heat released during the reaction does not have time to be removed, the temperature of the mixture will increase so quickly that the reaction will take on the character of an explosion.
+
+The cold explosion followed the same chain mechanism. The initial radicals - chemically active atoms of chlorine - were created using a laser: a quantum of light broke chlorine molecules into two atoms. The mixture then cools rapidly, forming an amorphous glass. In the temperature range from 60 K to 10 K, an explosion begins. The lower the underlying concentration of radicals, the lower the temperature the mixture will explode
+
+las. High heating slowed down the reaction.
+
+What is the reason for such a paradoxical phenomenon? The authors of the experiment declare its presence in the sample of skatium deformations, which arise both during the rapid freezing of the mixture and during the reaction itself.
+
+It is known that at high temperatures the energy of chemically active particles is increased and they can come together so much that chemical interaction between them becomes possible. In solids, it is possible to achieve cohesion between chemically active particles due to deformations. Moreover, the higher the temperature, the faster the deformations resolve (relax). Their energy turns into warm energy. At a lower temperature, the deformations, on the contrary, do not have time to relax, but heat up like an avalanche, and the reaction begins to proceed at an increasing speed. A cold explosion occurs (it could be called a deformation explosion).
+
+But how can relaxing molecules react at low temperatures (only a few degrees above absolute zero!)? After all, when they collide, they begin to repel, but near absolute zero, the movement of molecules slows down and their energy is not enough to overcome the repulsive forces. There is, as they say, an energy barrier, to overcome which requires kinetic energy. However, at low temperatures, everything in the behavior of the particle is regular, in particular the so-called tunnel effect. It lies in the fact that particles can overcome energy barriers without having energy exceeding such barriers; figuratively speaking, they pass not on top of the barrier, but through it, as if through a tunnel, converging to a distance at which the reaction begins. This effect apparently makes a cold explosion possible.

@@ -1,0 +1,88 @@
+---
+id: 1983-2-novosibirskiy-gosudarstvennyiy-universitet-im-leninskogo-komsomola-79bc47ba
+issue: kvant_1983_2
+year: 1983
+number: "2"
+title: Novosibirsk State University named after. Lenin Komsomol
+rubric: praktikum-abiturienta
+rubric_sub: Практикум абитуриента
+page_first: 58
+page_last: 58
+page_labels: "56"
+tag: PCTW
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: f2d14a1d20ece750586a4aa3ed8d1035dfe23004e3d556d5297513a31d266ba0
+prompt_sha256: draft-1
+translated_from: content/ru/1983/02/articles/15_novosibirskiy-gosudarstvennyiy-universitet-im-leninskogo-komsomola-79bc47ba.md
+source_content_sha256: 9039234e330a6171edc4c9261d7afd520a6eacf2bf2fb9dbbdb292f2128b8c60
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 56⟧
+
+Applicant's workshop
+
+Below are published materials from university entrance exams in 1982.
+
+Novosibirsk State University named after. Lenin Komsomol
+
+Mathematics
+Written exam
+
+5 hours were given to complete the work.
+
+Option 1
+(faculties of mechanics and mathematics, physics and economics)
+
+1. Solve the equation
+$$14x - 2x^2 = |x - 7|.$$
+
+2. Solve the equation
+$$4 + 2\cos^2 x = 7\sin 2x.$$
+
+Find all the roots of the equation that belong to the segment $$\left[ \frac{\pi}{4}; \frac{3\pi}{2} \right].$$
+
+3. Given a rhombus ABCD. A circle of radius R is circumscribed about triangle ABD and passes through the center of the circle inscribed in triangle CBD. Determine the area of ​​the rhombus.
+
+4. Find all values ​​of a for each of which exactly one root of the equation $x^2 + 2(a - 1)x + 3a + 1 = 0$ satisfies the inequality $x < -1$.
+
+5. Given a regular tetrahedron ABCD with edge 1. Point M is the midpoint of edge CD, N is the midpoint of edge BC, point P belongs to edge AB, and $|AP| = 3|BP|$. The sphere touches the planes ABC and ACD, and the points of its tangency with the planes lie, respectively, on the lines NP and AM. Find the radius of the sphere.
+
+Option 2
+(Faculty of Geology and Geophysics and Faculty of Natural Sciences)
+
+1. Find the domain of definition and set of values ​​of the functions $f(x) = \sqrt{6x - x^2} - 5$.
+
+2. Solve the inequality
+$$\log_2(4x^4 + 3x^2 + 6) + \log_2\left(\frac{x^2 + 1}{2}\right) \geq \log_2(3x^2 + 6).$$
+
+3. The angle between the vectors $\vec{a} = \left( \alpha; 1; \sqrt{\frac{6}{5}} \right)$ and $\vec{b} = \left( 3; 1; 0 \right)$ is equal to $$\frac{\pi}{4}.$$ Find α (the basis is rectangular).
+
+4. Solve the equation
+$$\sin \left( 4x + \frac{\pi}{4} \right) \cdot \sin 6x = \sin \left( 10x - \frac{\pi}{4} \right).$$
+
+5. At the base of the triangular paramid SABC lies the regular triangle ABC from side 1, the planes of the faces SAB and ABC are perpendicular, $|SA| = |SB|$, the height of the paramid is 1. Point M is chosen on the edge SA so that $|MA| = 2|SM|$, point N is the midpoint of the edge SC. Plane α passes through points B, M and N. Find the distance from point A to plane α.
+
+Physics
+Written exam
+Faculty of Physics
+
+Each option consists of five problems of three types. Five hours were given to solve the problems.
+
+The first three tasks are computational, of varying difficulty: from standard ones to comparatively complex ones, requiring ingenuity, deep knowledge, and the ability to understand an unusual or conventional physical situation.
+
+The fourth task is an assessment task. To solve it, you need to understand the physical phenomenon under consideration, form a simple (since only an estimate is needed) physical model of this phenomenon, select reasonable numerical values ​​of physical quantities, and finally obtain a numerical result that more or less corresponds to reality. The text of the problem stated that the applicant, having a good understanding of the phenomenon, can himself choose the physical quantities and their numerical values ​​necessary for solving the problem.
+
+The fifth task is a demonstration task, in which you need to explain a physical phenomenon demonstrated in the classroom. Here it is important to understand the existing phenomena and highlight the main one among various factors.
+
+The assessment work depends on the amount of points scored (for a sum from four to twelve points a score of “three” was given, from thirteen to twenty-one “four”). Below, after the text of each problem, the score for its complete solution and the percentage of those who solved it are indicated (in this case, the problem was considered solved if at least half of the total number of points was assigned for it).
+
+Option 1
+
+1. The circuit consists of a capacitor of capacitance C, diodes D1 and D2 and inductors L1 and L2, assembled as shown in figure 1. Find the period of the wheel direction across the capacitor in this circuit. (4 6.; 64%)
+
+2. A heat-conducting cylinder of mass m, closed at the ends, is partitioned by a movable piston of mass M. On both sides of the piston there is one mole of an ideal gas, the internal energy of which is U = cT. With a short blow, the cylinder is imparted a speed v directed along its axis. How much will the gas temperature change after the wheel piston damps? There is no friction between the piston and cylinder. (7 6.; 40%)
