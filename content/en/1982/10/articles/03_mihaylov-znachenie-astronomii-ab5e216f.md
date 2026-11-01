@@ -1,0 +1,38 @@
+---
+id: 1982-10-mihaylov-znachenie-astronomii-ab5e216f
+issue: kvant_1982_10
+year: 1982
+number: "10"
+title: The meaning of astronomy
+authors:
+  - Михайлов А. А.
+rubric: osnovnye-stati
+page_first: 4
+page_last: 4
+page_labels: "2"
+tag: 6ACL
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: d3480509a28add64ae56949af7a899ab4f21541b98029f5b1896e045afea3498
+prompt_sha256: draft-1
+translated_from: content/ru/1982/10/articles/03_mihaylov-znachenie-astronomii-ab5e216f.md
+source_content_sha256: 5acc70a280447a8bdf2f5fa2eed80df2490ad772acafb632fda945c94d0e0486
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 2⟧
+
+The meaning of astronomy
+
+The importance of astronomy and its role in human history is often underestimated. It is believed that astronomy helped develop rules for measuring time and orienting to
+
+A. Mikhailov
+
+Earth and discovered a lot of interesting things in the starry sky, but all this is not so important compared to what other sciences, such as physics and chemistry, have given us. Only in our cosmic age has the importance of astronomy become more obvious. However, it can be argued that if there had been no astronomy, then world history would have been different.
+
+To substantiate such a statement, let us assume that the entire sky is constantly covered with thick clouds, making it impossible to see the Sun, Moon, planets and the starry sky in general. Nevertheless, the change of day and night would occur, it would be noticeable that the nights are periodically lighter, that this phenomenon has some connection with the sea tides. To explain all this, they would come up with ingenious theories, most likely - scales that are far from actionable.
+
+Thanks to astronomy, more than two thousand years ago they learned that the Earth is a ball. This followed from the change in the midday altitude of the Sun and the culmination altitude of stars when moving in the meridian direction. This is also shown by the round shadow of the Earth when it falls on the Moon during lunar eclipses. The first successful attempt to determine the circumference of the globe, undertaken by Eratosthenes in the 3rd century BC, has reached us. e. Given the invisibility of the heavenly bodies, all this could not -

@@ -1,0 +1,42 @@
+---
+id: 1982-9-zadachi-923125dc
+issue: kvant_1982_9
+year: 1982
+number: "9"
+title: Tasks
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 51
+page_last: 51
+page_labels: "49"
+tag: CEE3
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 2f64a4f4fb6ffda65f9ba207d7ef779c16c2961003380f01139d2b82ab4b25d2
+prompt_sha256: draft-1
+translated_from: content/ru/1982/09/articles/14_zadachi-923125dc.md
+source_content_sha256: b5fd5d97f4c81665c717737c1da7642fb06cfffc19bca5c9d3553d70c7946159
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 49⟧
+
+Exercise
+
+1. The dividend is 6 times the divisor, and the divisor is 6 times the quotient. What are the dividend, divisor and quotient equal to?
+
+2. From a piece of paper 1 cm wide, a cylindrical ring with a circle 4 cm long was glued together as shown in figure. Is it possible to make a square from this ring a) with an area of ​​1 cm²; 6) area 2 cm²? The paper is cut like a corner fold, but, of course, you can’t cut it.
+
+3. Schoolchildren Vadik and Sasha saw everything and weighed their briefcases on them. They all showed that the masses of the briefcases were 3 kg and 2 kg. When they bet on both briefcases, the whole thing showed 6 kg.
+- How so? - Sasha exclaimed. - Two plus three does not equal six!
+-Can't you see? — Vadik answered. - Your arrow is just shifted.
+So how much did the briefcases actually weigh?
+
+4. Any triangle can be cut into four identical triangles similar to the original one, as shown in figure. Find a triangle that can be cut into three identical triangles similar to it.
+
+These tasks were offered to us
+V. Aleksadrov, Y. Alenkov, V. Proizvolov,
+L. Shteingari

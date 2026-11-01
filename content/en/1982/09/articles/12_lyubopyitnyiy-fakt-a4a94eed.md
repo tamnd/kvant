@@ -1,0 +1,74 @@
+---
+id: 1982-9-lyubopyitnyiy-fakt-a4a94eed
+issue: kvant_1982_9
+year: 1982
+number: "9"
+title: Interesting fact
+rubric: smes
+page_first: 48
+page_last: 48
+page_labels: "46"
+tag: ZQVT
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 7915c0f72a980882f95030d817b697a77a7014f2fe7329519ab0e10a82777f64
+prompt_sha256: draft-1
+translated_from: content/ru/1982/09/articles/12_lyubopyitnyiy-fakt-a4a94eed.md
+source_content_sha256: 4d8d855038b20164bc5e6fd182a77a0081aea377310727a61ee45433d384de31
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 46⟧
+
+F747. During the launch of the spacecraft into orbit, the astronauts noticed at a certain height $H_0$ a thin luminous layer (total internal reflection of light in the atmosphere). How can you determine the dependence of the refractive index of the atmosphere $n$ on the distance $R$ to the center of the Earth $H_0$ from the graph (Fig. 1)?
+
+Let the layer in which total internal reflection of light occurs be located at a distance $R_0$ from the center of the Earth (point $O$ on figure 2) and have a thicker $\Delta R$. The refractive index of the atmosphere for this layer is denoted by $n_0$ (since the layer is thin, we can assume that at a distance of $\Delta R$ the value $n$ is constant).
+
+Let us consider the ray $AB$, which is directed to the upper boundary of the layer along the tangent to its lower boundary at point $A$. If this ray experiences total internal reflection at the upper boundary of the layer (at point $B$), then any other ray that hits the selected layer is reflected from
+
+Fig. 1.
+
+Fig. 2.
+
+upper border.
+
+Let us write down the condition for total internal reflection for the ray $AB$:
+
+$$\frac{\sin \alpha}{1} = \frac{n_0 + \Delta n}{n_0} = 1 + \frac{\Delta n}{n_0},$$
+
+where $n_0 + \Delta n$ is the refractive index of the atmosphere beyond the upper boundary of the selected layer. Since the layer is thin, we can assume that
+
+$$\sin \alpha = \frac{R_0}{R_0 + \Delta R} = 1 - \frac{\Delta R}{R_0} \approx 1 - \frac{\Delta R}{R_0},$$
+
+and therefore
+
+$$1 + \frac{\Delta n}{n_0} = 1 - \frac{\Delta R}{R_0},$$
+
+where
+
+$$\frac{\Delta n}{n_0} = -\frac{\Delta R}{R_0},$$
+
+or
+
+$$\frac{\Delta n}{\Delta R} = -\frac{n_0}{R_0} = n'(R_0).$$
+
+Thus, the tangent to the graph $n(R)$ at the point corresponding to the values ​​$n_0$ and $R_0$ must be inclined at an angle $\varphi$ such that $tg \varphi = -\frac{n_0}{R_0}$, that is, this tangent must be parallel to the line passing through the points with coordinates $(0, n_0)$ and $(R_0, 0)$ (Fig. 3).
+
+The height of $H_0$ is
+
+$$H_0 = R_0 - R_3.$$
+
+O. Batitsev
+
+Interesting fact
+
+On October 7, 1959, the Luna 3 station formed a figurative view of the side of the Moon, invisible from Earth, and retransmitted the images to Earth. 15 years later, senior researcher
+
+BLYKONUR
+
+V. Pimenov of the Dnepropetrovsk Historical Museum found in the newspaper “Moskovskie Provincial Gazette” for 1848 a chronicle article that spoke of the decision of “the tradesman Nikifor Nikitin to be exiled to the village of Baikonur for seditious speeches about a flight to the Moon.”
+
+(From the book by Y. Golovanov “The Road to the Cosmodrome”)
