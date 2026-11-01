@@ -1,0 +1,40 @@
+---
+id: 1980-12-zadachi-0ba5fbb0
+issue: kvant_1980_12
+year: 1980
+number: "12"
+title: 任务
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 33
+page_last: 33
+page_labels: "31"
+tag: CFYB
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 474d9bdb1449e45e647e485bc58c892cd2f2a40ce750500c5f7d6183b3d5d7f9
+prompt_sha256: draft-1
+translated_from: content/ru/1980/12/articles/14_zadachi-0ba5fbb0.md
+source_content_sha256: 2a6adeb84c0b7719c792b5799100abc4a0145729f6bb7301a606354a64e9ffff
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 31⟧
+
+任务
+
+1. 在所画正方形的方格中填入自然数，使该正方形的每一行、每一列以及对角线上的数字之和都相同（这样的正方形称为匹配正方形）并且等于1980。
+
+2. 这是一个什么样的数字，将它加到任意一个自然数的末尾，我们就得到这个数字加上相同的数字，以及这个数字与这个数字的乘积？
+
+3. 取八根火柴和一个纽扣，将它们组成一条鱼，如图图所示。现在重新排列三根火柴和一个按钮，使鱼看起来完全相同，但燃烧方向相反。
+
+4. 有三个以上的自然数写在一个圆圈里，它们的和是37。已知任意三个连续数的和都相等。圆圈里写着什么数字？
+
+5. 闹钟除了时针和分针外，还有钟针。一位制表师发明了一种机制，借助该机制，这只指针开始均匀移动，使其始终平分时针和分针之间的角度。
+这样的箭头每天要转多少圈？
+
+这些任务是由 A. Baboyan、F. Bargenev、S. Bely、A. Cabrizon、A. Savin 向我们建议的

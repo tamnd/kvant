@@ -1,0 +1,48 @@
+---
+id: 1980-12-kotov-vidoizmenenie-poverhnosti-shteynera-557267fc
+issue: kvant_1980_12
+year: 1980
+number: "12"
+title: Steiner 表面的修改
+authors:
+  - Котов Ю. В.
+rubric: raznoe
+page_first: 32
+page_last: 32
+page_labels: "30"
+tag: I4V3
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 9924fa247a5211d27c7c8bed67e3dea2f537300265408ef2470e6415d7e4737a
+prompt_sha256: draft-1
+translated_from: content/ru/1980/12/articles/13_kotov-vidoizmenenie-poverhnosti-shteynera-557267fc.md
+source_content_sha256: 7e34395b4fd44f0a9e01ad4a0a0994bb617bfa954327435778e44df28044737f
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 30⟧
+
+Steiner 表面的修改
+
+今年第一期«Kvant»的封面是计算机生成的斯坦纳曲面图。在关于该主题的注释中，要求读者绘制并描述从施泰纳曲面获得的曲面，方法是用 ±0.001 替换其方程右侧的零，即曲面
+
+$$x^2y^2 + x^2z^2 + y^2z^2 + xyz = \pm 0,001.$$
+
+来自车里雅宾斯克的十古典学家奥列格·莫罗佐夫（Oleg Morozov）向我们发送了他的图纸（参见图 1和2）以及对表面的描述：表面$x^2y^2 + x^2z^2 + y^2z^2 + xyz = 0,001$是双面的，开放的，因为它在无穷远的坐标轴附近有“产物”。坐标平面的表面截面为 Zigrov（总共 12 个分支）。表面上的“nadins”彼此不接触，也不接触坐标轴（...）。
+
+表面$x^2y^2 + x^2z^2 + y^2z^2 + xyz = -0,001$由四个密集闭合的不相交部分组成，它们也不与任何坐标平面相交。其上的“nadins”似乎彼此相交，并在交点处消失。
+
+图 3.
+
+编辑联系了这篇文章的作者 Yu。科托夫请他对这封信发表评论。尤里·弗拉基米罗维奇 (Yuri Vladimirovich) 又向他的同事 EC-1022 计算机请求绘制所需的曲面。结果，计算机呈现了两张图（图3和4），笔记的作者是这样回复我们的读者的：
+
+亲爱的奥列格，您基本上正确地想象了所讨论的表面，并非常令人信服地描绘了它们，并注意到了它们的基本几何特性。在我们看来，如果我们考虑时变表面$x^2y^2 + x^2z^2 + y^2z^2 + xyz = T$，这里$T$是一个参数，那么斯坦纳表面出现的“过零”过渡时刻就很有趣。此刻，无尽的“生长物”“消失”，表面分裂成四层。
+
+但我们需要澄清一下：$T < 0$处的曲面所在的四个部分是主要部分，它们不具有Vaschy图中描绘的边缘。对于$T > 0$，没有边缘将“nadins”与表面的其余部分分开。当距坐标原点足够远时，“产物”的横截面就会接近。
+
+图 4.
+
+于。科托夫
