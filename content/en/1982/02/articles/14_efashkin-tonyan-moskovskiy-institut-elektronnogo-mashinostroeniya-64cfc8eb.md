@@ -1,0 +1,82 @@
+---
+id: 1982-2-efashkin-tonyan-moskovskiy-institut-elektronnogo-mashinostroeniya-64cfc8eb
+issue: kvant_1982_2
+year: 1982
+number: "2"
+title: Moscow Institute of Electronic Engineering
+authors:
+  - Ефашкин Г. В.
+  - Тонян В. А.
+rubric: ekzamenatsionnye-materialy
+page_first: 45
+page_last: 45
+page_labels: "43"
+tag: 5O7Q
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 25a6fed1c64f2aa7181e3d5a6c721697eede6c2d3227a4353cf66369dc86673e
+prompt_sha256: draft-1
+translated_from: content/ru/1982/02/articles/14_efashkin-tonyan-moskovskiy-institut-elektronnogo-mashinostroeniya-64cfc8eb.md
+source_content_sha256: 669d7fefe0bf61eb8b19d5e5e44a0dd436944411b90fa594747e2f108edc0a35
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 43⟧
+
+Moscow Institute of Electronic Engineering
+
+Mathematics
+Written exam
+Option 1
+
+1. Solve the system of equations
+$$\begin{cases} x^2 = (x-a)y \\ y^2 - xy = 9ax. \end{cases}$$
+
+2. Solve the equation
+$$(6x-5)|\ln(2x+2,3)| = 8\ln(2x+2,3).$$
+
+3. Solve the equation
+$$\frac{3\cos 5x-2(\cos 6x+\cos 4x)}{3\sin 5x-2(\sin 6x+\sin 4x)} = \mathrm{tg} 17x.$$
+
+4. In a cube $ABCDA_1B_1C_1D_1$ with an edge of length $a$, point $K$ is the midpoint of edge $AB$, point $L$ is the midpoint of edge $DD_1$. Find the sides of triangle $A_1KL$ and determine in what ratio the volume of the cube is divided by the plane passing through the vertices of this triangle.
+
+5. Draw on the plane a set of points $(x; y)$ whose coordinates satisfy the system of inequalities
+$$\begin{cases} 2y \geq x^2 \\ y \leq -2x^2 + 3x. \end{cases}$$
+
+Prove that for any such point $(x; y)$ the inequality $x^2 + y^2 \leq 2$ holds.
+
+Option 2
+
+1. Solve the equation
+$$\lg(x-a) - \lg 2 = 3\lg(x-1).$$
+
+2. Solve the equation
+$$\sqrt{2\cos^2 x + 4\sin(x+1)} = \sqrt{4\sin x \cdot \cos 1 - \sin 2x}.$$
+
+3. Find the most and most values ​​of the function
+$$f(x) = (3x^2 - 7x + 7)e^x$$
+on the segment $[0; \frac{2}{3}]$.
+
+4. In the cube $ABCDA_1B_1C_1D_1$ the midpoints of the edges $AA_1, A_1B_1, B_1C_1, C_1C, CD, DA$ and $AA_1$ are connected in series. Prove that the resulting function is a regular hexagon and determine its area along the edge of the cube $a$.
+
+5. For which numbers from the set $A=\{1, 2, 3\}$ the inequality
+$$2\sin x \cdot \cos y \cdot \sin z - \cos x \cdot \sin y \cdot \cos z \leq a$$
+holds for all values ​​of $x, y, z$?
+
+Physics
+Oral exam objectives
+
+1. Two weights of the same mass $M=400$ g are connected by a weightless thread, thrown over a block of mass $m=100$ g, and are at the same distance from the block (Fig. 1). An overload of mass $m$ is placed on one of the loads. At what speed $v$ will the rim of the block move when the distance between the loads is $h=1$ m, if each of the weights $M$ is subject to the same average resistance force $F_c=0,17$ N? Assume that the mass of the block is concentrated in its rim. The forces of resistance acting on the block, thread and overloads, claim. There is no slipping between the block and the thread.
+
+2. A rod of length $l$ and mass $m$ rests against a vertical wall with one end, and its other end is held by a thread whose length is equal to the length of the rod (Fig. 2). At what angles $a$ will the rod be located after equilibrium is established if the gas temperature remains unchanged? The volume of each half of the cylinder is $V=1$ l, the cross-section of the cylinder is $S=100$ cm², and $m=2M$.
+
+3. The two halves of the cylinder, separated by a piston, contain equal masses of $M$ nitrogen at the same temperature. Then the mass of nitrogen in one of the halves of the cylinder increases by $m$. At what distance $d$ from the first initial position will the piston be located after equilibrium is established, if the gas temperature remains unchanged? The volume of each half of the cylinder is $V=1$ l, the cross-section of the cylinder is $S=100$ cm², and $m=2M$.
+
+4. A spherical Jedeva drop of radius $R=2$ mm falls to the ground with a constant speed $v$. How much does the temperature of the drop increase in a time of $t=10$ s, if all of the liquid that is released above when moving is used to heat it, and the resistance force of the impact is described by the expression $F_c=0,24\pi R^2v^2$ (in SI units)?
+
+5. Three point capacitors of capacity $C_0=1$ µF each are connected in series. The capacitors are charged and disconnected from the source. The charge of this battery is $Q_0=10^{-4}$ Cl. Then the space between the plates of one of the capacitors is completely dipolarized by di-
+
+Fig. 1. Fig. 2.

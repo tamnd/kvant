@@ -1,0 +1,73 @@
+---
+id: 1982-3-kalinichenko-rudenko-tsikunov-moskovskiy-inzhenerno-fizicheskiy-institut-f3a5620b
+issue: kvant_1982_3
+year: 1982
+number: "3"
+title: Moscow Engineering Physics Institute
+authors:
+  - Калиниченко Д. Ф.
+  - Руденко А. И.
+  - Цикунов В. Н.
+rubric: ekzamenatsionnye-materialy
+page_first: 48
+page_last: 48
+page_labels: "46"
+tag: CYOP
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 0cb5d053ed14b50b631ee5aa7af57d12e28b08487f90d9ce428eb80f32937f34
+prompt_sha256: draft-1
+translated_from: content/ru/1982/03/articles/14_kalinichenko-rudenko-tsikunov-moskovskiy-inzhenerno-fizicheskiy-institut-f3a5620b.md
+source_content_sha256: 9061f402de2b0741e7b8ee533aaf78144c3a194811c292ac9a84b5dc6449618b
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 46⟧
+
+Moscow Engineering Physics Institute
+
+Mathematics
+Written exam
+
+Option 1
+
+1. There are two alloys of copper and silver, and in the first alloy the percentage of copper (by weight) is 45% greater than in the second. By fusing a piece of the first alloy containing 6 kg of copper with a piece of the second alloy containing 12 kg of copper, an ingot containing p% copper was obtained. Determine the percentage of silver in the first alloy.
+
+2. In a regular triangle, take $SABC |SC| = l$ and the edge $[SC]$ makes an angle of magnitude $\alpha$ with the plane of the base. At the height $[SO]$ of the landing, a point $S_1$ is taken such that the sum of the distances from this point to the vertex $S$ and to the point $C_1, A_1, B_1$ is the midpoint of the side $[AB], [BC], [CA]$. the triangle lying at the base of the pond has the smallest value. Determine the volume of the wash $S_1A_1B_1C_1$.
+
+3. Find all values ​​of $a \in R$ for which the inequality holds
+
+$$\sum_{-1}^{2a} \frac{dx}{x+a} \geq \log_a(2^{\log_2 e}).$$
+
+4. Find $f'(x)$ and critical points of the function
+
+$$f(x) = \frac{2}{3} \sqrt{\sin^3 2x} + x + 0,25 \sin 4x + \ln \frac{1}{3}.$$
+
+Option 2
+
+1. From the same point, located on a straight path, two pedestrian codes were simultaneously sent in the same direction at different but constant speeds. After two hours, the distance between them was $s$ km. After this, the pedestrians walked faster and began to spend 10 minutes less on each kilometer of the path. After another 2 hours, the distance between them became 3s km. Determine the path taken by pedestrians during the first 2 hours of movement.
+
+2. A regular hexagonal prim is inscribed in a right circular cone with generatrix $l$ and height $H$ so that the lower base of the prim lies in the plane of the base of the cone, and the vertices of the upper base belong to the finite surface. Find the area of ​​the base of the prism if it is known that the total surface area of ​​this prism is the largest of all possible.
+
+3. Evaluate the integrals $I_1 = \int_4^8 \frac{dx}{2x}$ and $I_2 = \int_4^{169} \frac{dx}{\sqrt{1-x}}$ and determine the sign of the difference $I_2 - I_1$ (without the help of tables).
+
+4. Find $f'(x)$ and critical points of the function
+
+$$f(x) = 5x + \ln 2 + \log_2 \sin^3 \frac{x}{3} + 3 \log \frac{1}{2} \left( \sin \frac{4}{3} x - \sin \frac{2}{3} x \right).$$
+
+Physics
+
+Oral exam objectives
+
+1. A spring with a stiffness of $k = 300$ N/m (Fig. 1) is attached to a block of mass $m = 12$ kg lying on a horizontal surface. The friction coefficient between the block and the surface is $\mu = 0,4$. At first the spring is not deformed. Then, applying a force $\vec{F}$ to the free end of the spring, directed at an angle $\alpha = 30^\circ$ to the horizon, they slowly moved the block to a distance of $s = 0,4$ m. What work was done?
+
+2. Two small bodies with masses $m_1 = 2$ kg and $m_2 = 6$ kg are connected by a thread and placed on a smooth cylindrical surface as shown in figure 2, and the value $\alpha$ is unknown. If the bodies are released in this position, they begin to move with an acceleration of $a = 6$ m/s². With what acceleration will the bodies move if they are placed symmetrically on a cylindrical surface (Fig. 2, 6)?
+
+3. Capacitors having capacitances $C_1 = 20$ µF and $C_2 = 60$ µF, charges up to some voltages $U_1$ and $U_2$ respectively. Then the negatively charged plates of the capacitors were connected with a conductor whose resistance can be considered negligible, and the positive plates are connected through a resistance of $R = 80$ Ohm (Fig. 3). At the moment the key $K$ is closed, a current $I = 0,2$ A flows through the resistor. How much heat will be released in the resistor by the time the current flows in the circuit?
+
+4. Puukok protons in the region of a single-wire magnetic field with an indication of $B = 0,1$ T. The direction of the field is perpendicular to the beam velocity. In this field, protons move along a circular arc with a radius of $r = 0,2$ m and fall on a grounded plug. Find the thermal power released in the target. The current in the beam is $I = 0,1$ mA. Specific charge of a proton (charge to mass ratio) $e/m = 10^8$ C/kg.
+
+5. Along two parallel metal slats located in a horizontal plane at a distance of $l = 1$ m from each other,

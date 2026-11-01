@@ -1,0 +1,48 @@
+---
+id: 1982-2-gik-mashina-ugadyivaet-schet-cd047eed
+issue: kvant_1982_2
+year: 1982
+number: "2"
+title: The machine guesses the score
+authors:
+  - Гик Е. Я.
+rubric: shahmatnaya-stranichka
+rubric_sub: Шахматы
+page_first: 67
+page_last: 67
+tag: F02V
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: b71b61b2e552dd8b00d66b4296af41111db974fd9f9240122acb6cc3e6e0e4f7
+prompt_sha256: draft-1
+translated_from: content/ru/1982/02/articles/03_gik-mashina-ugadyivaet-schet-cd047eed.md
+source_content_sha256: 31b7337cd8c4dd8f4fe9c7c46b874c53a90b936ba1dd96c4a8e824bb40030725
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+THE MACHINE GUESSES THE SCORE
+
+Before the start of the 30th anniversary match for the World Chess Championship, all forecasts unanimously predicted the victory of A. Karpov. But the computer indicated the score more accurately than anyone else - 6:2. However, there is no easy wrestling in world championship mats, and therefore, before the comparison in Merano, Karpov carried out fundamental preparation with his coaches, international grandmasters I. Zaitsev and Yu. Balashov. Already the first game of the match showed that the world champion was in excellent athletic shape.
+
+V. Korchoi - A. Karpov Queen's Gambit
+
+1. c4 e6 2. Kc3 d5 3. d4 Ce7 4. Kf3 Kf6 5. Cg5 h6 6. Ch4 0–0 7. e3 b6 8. Jlc1 Cb7 9. Ce2. The first game of the match in Bagno began in the same way. Then after 9…dc 10. C:c4 Kbd7 11. 0—0 c5 12. dc K:c5 the sides’ chances were equalized and an agreement for nothing soon followed. This time Karpov avoids quick simplifications. 9…Kbd7 10. cd ed 11. 0—0 c5 12. dc bc 13. Qc2 Jlc8 14. Jfd1 Qb6 15. Qb1. White is already in trouble. 15…Jfd8 16. Jlc2 Qe6 17. Cg3 Kh5 18. Jlcd2 K:g3 19. hg Kf6 20. Qc2 g6 21. Qa4 a6 22. Cd3 Kpg7 23. Cb1 Qb6. The movement of the white queen and bishop does not produce an impression, and the move with the pawn leads to disaster for White. 24. a3 d4!! An effective break that cuts the board in half. On one part of it there is a single king, on the other there is a forgotten queen. 25. Ke2. Equivalent to capitulation, in case 25. ed Black still had to find several
+
+strong moves. 25…de 26. fe c4 27. Ked4 Qc7 28. Kh4 Qe5 29. Kph1 Kpg8 30. Kdf3 Q:g3 31. Jl:d8+C:d8 32. Qb4 Ce4! 33. C:e4 K:e4 34. Jld4 Kf2+35. Kpg1 Kd3 36. Qb7 Jlb8 37. Qd7 Cc7 38.Kph1 Jl:b2 39.Jl:d3 cd 40.Q:d3 Qd6 41.Qe4 Qd1+ 42.Kg1 Qd6 43.Khf3 Rb5. White deals.
+
+After the 14th game the score became 5:2 in the world champion's attempt and it was felt that the matter was coming to an end. The number of journalists accredited to the match has increased even more. Karpov did not make them wait long for the outcome. The 18th game was the last.
+
+A. Karpov - V. Korchoi Spanish Party
+
+1. e4 e5 2. Kf3 Kc6 3. Cb5 a6 4. Ca4 Kf6 5. 0—0 K:e4 6. d4 b5 7. Cb3 d5 8. de Ce6 9. Kbd2 Kc5 10. c3 d4 11. C:e6 K:e6 12. cd Kc4. In the theory of a good known continuation 13. K:d4 Ф:d4. It met back in 1914 in the Capablanca-Lasker game. Karpov used two new abbreviations here at once. In the 14th game came 13. Ke4! The challenger thought for 78 minutes and after 13…Ce7 14. Ce3 K:f3+ 15.Q:f3 0—0 16. Jlfd1 Qe8 17.Kf6+! C:f6 18. ef Qc8 19. fg Jld8 20. h4 White confidently brought the match to victory. In the next “black” game, Korchoi played stronger - 14...Kf5 and saved the shelf. And here is the 18th game. 13. a4!! The answer came only after 50 minutes, but Black could not find a decent defense.
+
+3. An. Kuznetsov, 1964. White starts and wins.
+
+4. M. Liburkin, 1932. White starts and wins.
+
+The deadline for sending the decision is April 25, 1982 (with a mark on the envelope “Chess competition “Quaita”, tasks 3, 4)).

@@ -1,0 +1,39 @@
+---
+id: 1981-12-spisok-chitateley-prislavshih-pravilnyie-resheniya-0b66c502
+issue: kvant_1981_12
+year: 1981
+number: "12"
+title: List of readers who sent correct solutions
+rubric: zadachnik-kvanta
+rubric_sub: Задачник «Кванта»
+page_first: 38
+page_last: 38
+page_labels: "36"
+tag: RK8K
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 56a825a6e12c6d7296eb21aff990caa82ebc4a7454dfa19e72040f437e1e8307
+prompt_sha256: draft-1
+translated_from: content/ru/1981/12/articles/10_spisok-chitateley-prislavshih-pravilnyie-resheniya-0b66c502.md
+source_content_sha256: 8d8e12b7a68e7ade3890564d8ad10ca550d4230a3b760ad5958ce270e02e94a6
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 36⟧
+
+List of readers who sent correct solutions
+
+In this issue we publish the names of those who added the correct solutions to problems M661 - M675 and F678 - F691 [bold numbers after the last name are the last digits of the numbers of solved problems].
+
+Mathematics
+
+Most of the readers who submitted their solutions successfully completed problems M661, M662, M663, M671, M672. The remaining problems were solved by: E. Abasov (Sumgant) 67; A. Abdulaev (village Karapapakh Az. SSR) 66, 67; V. Alexandrov (Saratov) 66; M. Alekseev (Moscow) 73; V. Arabidze (Tbilisi) 73; M. Araslanov (Zaporozhye) 66, 75; S. Assev (Nikolaev) 66, 68; R. Akhmedov (village of Khosrekh Dag. ASSR) 73; E. Akhmedov (Baku) 67; A. Ashurbekov (village of Pilich Dag. Autonomous Soviet Socialist Republic) 67; Y. Basaliy (Donetsk) 66-69; V. Barabanov (Sevastopol) 66; Yu. Barkadan (Penza) 66; A. Belous (Vinnitsa) 66; Yu. Bespalov (Shostka) 65, 66, 69, 73; I. Binus (Penza) 66; V. Budovsky (Kharkov) 66; V. Valev (Tula) 73; I. Vaslenenko (Tselinograd) 67; V. Vermul (Dushanbe) 67; I. Gayovich (Kyiv) 66; G. Garezin (Yerevan) 67; O. Garifullin (Penza) 66; A. Hasanov (village B. Kolatan Az. SSR) 66, 69; V. Geshkenbein (Moscow) 65; G. Golovin (Slavyansk) 66, 69; V. Goldfarb (Moscow) 67; A. Gordienko (Dimitrov) 66-68, 73; A. Gokhbere (Donetsk) 66-69, 73; A. Grizhebovskaya (Stavropol) 69; O. Hryniv (Kyiv) 65, 66, 68, 73, 74; N. Grishko (Kyiv) 65-69; E. Gutman (Kyiv) 66-69; D. Demin (Vinnitsa) 66, 67; O. Dobrovadnykh (Beloretsk) 66; O. Dranko (Kyiv) 73, 74; A. Dubitsak (Taurare) 64, 68, 73-75; M. Eliseev (Novovoronezhsky village, Voronezh region) 73; O. Emchenko (Beloretsk) 66; O. Eroshkin (Dnepropetrovsk) 65-68, 73; I. Zhukov (Leningrad) 65, 66, 73, 75; V. Zaltsman (Khabarovsk) 65; M. Zaslavsky (Kharkov) 66, 73; I. Zyabrev (Krolevets) 66, 68, 69; V. Ivlev (Dzhezkagan) 68; I. Itenbere (Leningrad) 68, 73; A. Kazmeruk (Kyiv) 73, 74; Yu. Kakulov (Tsalka village, GSSR) 67, 69; D. Kalyuzhny (Odessa) 66-69; D. Kamutavichus (Vilnos) 65, 73; A. Karpovich (Kyiv) 68, 73; A. Kach (Tashkent) 67, 68, 73; V. Kvartsanin (Koutansi) 67; A. Kernerman (Kyiv) 73; V. Kisl (Odessa) 65, 66, 73, 74; S. Kodryan (Kyiv) 66-69; G. Kozlov (Aprelevka) 69; V. Kozlovsky (village N. Dvor, Grodno region) 66; S. Komkov (Moscow) 69; A. Kornilov (Rostov-on-Don) 65, 68, 75; D. Korotkin (Leningrad) 65, 73, 74; D. Korushkov (Novosibirsk) 73; I. Kudryashov (Leningrad) 66, 67; I. Landzhev (Burgas, NRB) 67, 69; L. Leytsin (Chernigov) 66, 69, 73, 74; M. Mantsev (Stavropol) 67; O. Marchinkovsky (Odessa) 66; S. Makhmedov (Baku) 66, 67; V. Mikhailov (Opochka) 66; A. Mikhaleva (Vetka) 73; D. Mustafin (Osh) 66; A. Naimov (Kharkov) 66; Yu. Nikolaevsky (Kharkov) 65, 67, 73; A. Nikonov (Moscow) 73; M. Ovetsky (Donetsk) 66—69, 73, 74; O. Odurtsov (Leningrad) 66; R. Orujov (Baku) 66, 69; S. Paliy (Odesca) 67; G. Perelman (Leningrad) 65, 66, 68, 69, 73-75; A. Popov (Novovoronezhsky village, Voronezh region) 67; IN. Poyarkov (Nikolaev) 66; K. Pulyatov (Tashkent) 67; S. Putintsev (Nevinomyssk) 66-69, 73-75; A. Razin (nivitsy village, Lviv region) 66; A. Rodionov (Moscow) 66, 73; N. Rosenain (Kyiv) 66, 68; V. Romanok (village of Kusnishche, Volna region) 66; A. Savkin (Leningrad) 66, 67, 69; R. Samborsky (Ternovol) 73; A. Semenov (Saratov) 65; A. Sixa (Kyiv) 66-68, 73; S. Sirosh (Kotovsk) 66, 67; N. Smolin (Turovets village, Vologda region) 66, 67; T. Sokova (Beloretsk) 74; A. Sokhet (Kharkov) 66, 67, 73; S. Stetanyan (Baku) 66, 67; N. Titarenko (Vinnitsa) 66; A. Toporova (Dushanbe) 73; O. Tretyakov (Omsk) 66; G. Trunov (Moscow) 73; E. Tyurin (Vilnos) 66, 67, 69; R. Uerinovsky (Khmelnitsk) 66, 67, 69; T. Utelov (Alma-Ata) 73; N. Fedin (Omsk) 67, 69; V. Finogenov (Moscow) 69, 73; D. Fomin (Leningrad) 65-68, 73; V. Henkin (Simferopol) 69; S. Hirshan (Kyiv) 66, 67; A. Khokhlov (Moscow) 66, 69, 73; S. Tsvetkov (Leningrad) 66; P. Tsvetkov (Podolsk) 66, 67, 69, 74; R. Zouf (Prague, Czechoslovakia) 73, 75; O. Chalykh (Vitebsk) 66-69, 73; N. Chernikova (Leningrad) 67; G. Chkhendze (Tbilisi) 73; V. Shabunin (Khokholsky village, Voronezh region) 69; V. Shevchitsyn (Lvov) 65; A. Shzaraev (Sibay) 68; L. Epremidze (Tbilisi) 66, 67, 69; F. Efrendtsev (Baku) 66, 73, 74; S. Yurovsky (Mytshi) 66; Yu. Yuryev (Nickel) 66, 73.
+
+Physics
+
+Almost all readers who submitted their solutions coped with problems F678 and F683. The remaining problems were solved by: I. Alekseev (Moscow) 84, 85, 87-91; E. Aliyev (Baku) 86, 88, 91; Z. Ali-Zade (Baku) 89; T. Arakelyan (Yerevan) 81; M. Arayan (Yerevan) 87; D. Asmus (Chelyabinsk) 81, 86, 88, 91; A. Astakhov (Zheleznodorozhny, Moscow region) 91; O. Akhremov (Vilnos) 81, 85, 87, 89; A. Babayev (Baku) 81, 91; E. Baddasaryan (Baku) 91; Y. Basaliy (Donetsk) 80-82, 86-88, 90; Yu. Baykin (Aktobe village, Tatar ASSR) 82; Yu. Babryshev (Voronlensk region) 85; S. Bochko (Bratsk) 88; B. Weizmann (Odessa) 80-85, 87, 88-91; Yu. Voevodov (Gomel) 82; K. Grizorshin (Zaporozhye) 79—81, 86, 87, 89, 91; D. Gritsoriev (Moscow) 81, 82, 85-87; I. Gurovin (Odessa) 87, 91; M. Dogadov (Arzamas) 81; I. Dotsenko (Moscow) 84-87, 89-91; V. Evstratov (Leningrad) 81, 84, 87-90; S. Egorov (Leningrad) 79, 81, 84; M. Jakonis (Kaunas) 88, 90; T. Kadyev (Moscow) 88, 99; E. Kaspersky (Dolgoprudny) 89; A. Kolezhuk (Kyiv) 80, 81, 84, 88, 91; L. Kudryavtsev (Neftekamsk) 81; A. Kuznetsov (village of Shurskoy, Yaroslavl region) 88, 89; A. Kuzmenko (Kyiv) 88, 89; A. Latinin (Kyiv) 80, 81, 88, 90; I. Lomako (Minsk) 81;
+
+(For the end see p. 45)

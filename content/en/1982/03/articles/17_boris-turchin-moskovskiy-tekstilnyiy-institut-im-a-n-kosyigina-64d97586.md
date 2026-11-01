@@ -1,0 +1,105 @@
+---
+id: 1982-3-boris-turchin-moskovskiy-tekstilnyiy-institut-im-a-n-kosyigina-64d97586
+issue: kvant_1982_3
+year: 1982
+number: "3"
+title: Moscow Textile Institute named after. A. N. Kosygina
+authors:
+  - Борис М.
+  - Турчин И.
+rubric: ekzamenatsionnye-materialy
+page_first: 53
+page_last: 53
+page_labels: "51"
+tag: WQAY
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 5b2a9a4fa3e968ad8046c3a096b5881c258b522eeac26b76df58e213511f0c87
+prompt_sha256: draft-1
+translated_from: content/ru/1982/03/articles/17_boris-turchin-moskovskiy-tekstilnyiy-institut-im-a-n-kosyigina-64d97586.md
+source_content_sha256: 3178c0484b12d37a15ca54e5fab09d94067cdcc60e3eb93c1b7af01937a9b368
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 51⟧
+
+roof of the building (point B). As a result, the image appears double. How many centimeters are the images shifted relative to each other if the antenna, station and roof of the building are located at the distances indicated in figure 3. The width of the TV screen is $l=50$ see Note. Please note that the image in a TV frame is decomposed into 625 lines and 25 frames are transmitted per second. The return time of the rays can be neglected.
+
+10. What amount of uranium $^{235}_{92}$ U is consumed per day at a nuclear power plant with a capacity of $P=5000$ kW? Take the efficiency equal to $\eta=17\%$. Assume that each decay event releases energy $E_0=200$ MeV. Avogadro's number is $N_A=6,02 \cdot 10^{23}$ mol$^{-1}$.
+
+The publication was prepared by P. Grudina, N. Sarnavsky
+
+Moscow Textile Institute named after. A. N. Kosygina
+
+Matematika
+Written exam
+Option 1
+
+1. Simplify the expression
+$$A = \frac{\left(\frac{4\sqrt{bc^3} + 4\sqrt{a^2bc}}{\sqrt{c} + \sqrt{a}}\right)^2 + bc + 3}{\sqrt{bc} + 3}.$$
+
+2. Solve the inequality
+$$\frac{8 - 5x}{2 - \log_{\frac{1}{2}}x} > 0.$$
+
+3. Solve the equation
+$$-\sin 5x + \cos \left(\frac{3}{2}\pi + x\right) = 2\cos (3x - 2\pi).$$
+
+4. Calculate the area of ​​the figure enclosed between lines $y=8+2x-x^2$ and $2x-y+4=0$.
+
+5. Calculate the obtuse angle formed by the medians drawn from the vertices of the acute angles of an isosceles right angle triangle.
+
+Option 2
+
+1. Reduce to a form convenient for logarithm
+$$A = \text{tg} \alpha + 2 \text{tg} 2\alpha + 4 \text{ctg} 4\alpha.$$
+
+2. Find an arithmetic product whose sum of the first three terms is 27, and the sum of the squares of these three terms is 275.
+
+3. Solve the inequality
+$$\frac{1}{3^x + 5} < \frac{1}{3^{x+1} - 1}.$$
+
+4. A circle is circumscribed around a square whose side is $a$, and a regular hexagon is circumscribed around the circle. Determine the area of ​​the hexagon.
+
+5. Find the equation of the tangent to the graph of the function $y=e^{-x}$ at the point with the absissa $x=0$. Find the angle between the tangent and the $Ox$ axis.
+
+Oral exam objectives
+
+1. Solve the equation
+$$x^{\lg x-1} = 100.$$
+
+2. Solve the inequality
+a) $9x-14-x^2 > 0,$
+b) $\log_{0.5}\frac{2-x}{3} < 0.$
+
+3. Calculate
+$$\lim_{x \to 0} \frac{\sqrt{6+x} - \sqrt{6-x}}{x}.$$
+
+4. Graph the Function
+a) $y = \left|\log_{\frac{1}{4}}\frac{x}{4}\right|,$
+b) $y = \cos \left(x + \frac{\pi}{6}\right).$
+
+5. Find an arbitrary function
+$$y = \log_2(2x^2 - 3x + 1).$$
+
+6. Find the monotonicity intervals of the function
+$$y = 3 + 8x + 4x^4.$$
+
+7. Calculate $\int_0^{\frac{\pi}{4}} 2\cos 3x \, dx.$
+
+8. Find the area of ​​the figure bounded by the lines
+a) $y = (x-1)^2$, $y=0$, $x=2$, $x=3$
+b) $y=2\sin x$, $y=0$, $x=\frac{\pi}{4}$.
+
+9. Prove using vectors that the middle line $\Delta ABC$ is parallel to the triangle and equal to half of it.
+
+Physics
+Oral exam objectives
+
+1. When bodies of masses $m_1=200$ g, $m_2=300$ g and $m_3=400$ g are connected by threads thrown over blocks, as shown in figure. Friction coefficient between the surface of the second body and the support $\mu=0,2$. Find the acceleration of the body and the tension force of the threads.
+
+2. A gun with a mass of $m_1=1000$ kg, moving at a speed of $v_1=10$ km/h, fired in the direction of movement at an angle of $\alpha=30^\circ$ to the horizon. How did the speed of the gun change? The mass of the projectile is $m_2=5$ kg, and its speed at departure is $v_2=100$ m/s.
+
+(For the end see p. 56)
