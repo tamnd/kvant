@@ -1,0 +1,140 @@
+---
+id: 1986-11-samedov-geometricheskiy-vyivod-kosinusa-summyi-4584898c
+issue: kvant_1986_11
+year: 1986
+number: "11"
+title: 总和余弦的几何推导
+authors:
+  - Самедов Г. Г.
+rubric: smes
+page_first: 59
+page_last: 59
+page_labels: "57"
+tag: WHGF
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 58ec3827e228451edceb6229611676e783d392311fe12bf0650ac5343d68a980
+prompt_sha256: draft-1
+translated_from: content/ru/1986/11/articles/17_samedov-geometricheskiy-vyivod-kosinusa-summyi-4584898c.md
+source_content_sha256: 46c8e354325d04c67deae504986d37fb95057b353ecc3a1982f8c5568254c6a9
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 57⟧
+
+物理
+
+第一学位文凭
+
+获得 8 个等级
+Mazurenko A.（明斯克，s.sh. No. 50），
+梅德韦杰夫 M.（高尔基，s.sh. No. 40），
+Pushkin A.（莫斯科，s.sh. No. 57），
+Sadaydak R.（切尔卡瑟地区，Matusovskaya s.sh. No. 1）；
+
+9个年级 -
+Velits A.（戈梅利，s.sh. No. 24），
+Vobylev S.（别列兹尼基，s.sh. No. 9），
+Vudko D.（别尔哥罗德，s.sh. No. 3），
+Karklin P.（莫斯科，s.sh.No.47）；
+
+10 节课 -
+沃尔科夫 O.（高尔基，s.sh. No. 23），
+Gutsin A.（新西伯利亚，新西伯利亚国立大学物理学院第 165 号）。
+
+二级学位文凭
+
+获得 8 个等级
+Knyashko K.（科穆纳尔斯克，s.sh.No.6），
+Legotin V.（库尔干，第 48 号），
+Malkin A.（列宁格勒，s.sh. No. 30），
+Mikhailovsky N.（克拉斯诺尔斯克，s.sh.No.20），
+Sibirkov A.（托木斯克，s.sh.No.3），
+Stepanov S.（基辅，KSU 第二物理学院），
+Todoshenko I.（彼尔姆，s.sh.No.16）；
+
+9个年级 -
+Anisimov A.（基辅，KSU 第二物理学院），
+Vibikov A.（莫斯科，莫斯科国立大学第 18 物理学院），
+Vinklyas G.（维尔纽斯，第 45 名），
+Glushenkov D.（列宁格勒，s.sh.No.239），
+Goldian A.（基辅，KSU 第二物理学院），
+Karasev D.（莫斯科州图奇科沃村，北部1号公路），
+Tretyakov G.（诺夫哥罗德，s.sh.No.21），
+Shteta V.（Chuguev，s.sh.No.1），
+Yanovich A.（车里雅宾斯克，s.sh.No.32）；
+
+10 节课 -
+Belopolsky A.（基辅，s.sh. No. 145），
+博罗夫斯基于. （基辅，KSU 第二物理学院），
+Vulatov O.（斯塔夫罗波尔，北线 1 号），
+Gezzna G.（维尔纽斯，北线7号），
+
+Karpovets E.（里加，第 9 名），
+Lebedev D.（加特契纳，s.sh.No.3），
+Matytsin A.（莫斯科，s.sh. No. 91），
+Myadtsilov S.（敖德萨，s.sh. No. 16），
+Nikolashvili G.（第比利斯，科马罗夫物理学院），
+Sverdlov M.（明斯克，s.sh. No. 50），
+Totrov M.（列宁格勒，s.sh.No.30），
+Erd Y.（塔林，s.sh.No.1）。
+
+III级文凭
+
+获得 8 个等级
+Belousov S.（列宁格勒，列宁格勒国立大学第 45 物理学院），
+Bilbin A.（博罗维奇，s.sh.No.1），
+Golovin D.（坦波夫，s.sh. No. 29），
+Ezersky A.（明斯克，s.sh. No. 50），
+Zhurkov V.（马加丹，s.sh.No.1），
+Klyaramez M.（Piarnu，s.sh.No.1），
+Sazonov S.（克里莫夫斯克，s.sh.No.5）；
+
+9个年级 -
+瓦西里耶夫·尤. （安加尔斯克，s.sh.No.10），
+Efremov D.（巴库，s.sh. No. 6），
+Ivashkevich E.（普罗科皮耶夫斯克，s.sh.No.72），
+Komarov O.（阿拉木图，RFMSH），
+Kurzenkov A.（科夫罗夫，s.sh.No.1），
+纳亚科夫·尤. （萨拉托夫，第 13 号），
+Pidarev A.（乌兰乌德，北线9号），
+Rosenberg A.（乌法，s.sh. No. 91），
+西佐年科·尤. （利沃夫，s.sh.No.4），
+Stepurin V.（文尼察，s.sh.No.17），
+Terpurov V.（托木斯克，s.sh.No.150），
+Sherbakov A.（奥布宁斯克，s.sh.No.10）；
+
+10 节课 -
+Bakaryan T.（埃里温，埃里温国立大学第一物理学院），
+Vedov K.（车里雅宾斯克，s.sh.No.138），
+Zharikov A.（基辅，第 157 号），
+Zinderman V.（撒马尔罕，第 51 号），
+Irtegov D.（伊尔库茨克，s.sh.No.19），
+Kalachkiy V.（索利戈尔斯克，s.sh.No.2），
+克拉克 P.（图拉，s.sh. 第 36 号），
+Kurachev A.（新西伯利亚，s.sh. No. 9），
+Nikitin I.（莫斯科，莫斯科国立大学第 18 物理学院），
+Senatorov P.（莫斯科，s.sh. No. 52），
+Chernyshev A.（Kimry，s.sh.No.1）。
+
+余弦和公式的几何选择
+
+为了找到角度 a 和 β 之和的余弦表达式，其中 α+β<180°，我们进行如下操作。考虑三角形 ABC，其中 A=α，B=β，C=γ=180°-(α+β)。由余弦定理
+$$c^2+a^2+b^2-2ab\cos\gamma.$$ (1)
+
+根据正弦定理
+$$c=2R\sin\gamma, a=2R\sin\alpha, b=2R\sin\beta,$$
+其中 R 是三角形外接圆的半径。
+
+将这些表达式代入（1）并除以 4R²，我们得到
+$$\sin^2\gamma=\sin^2\alpha+\sin^2\beta-2\sin\alpha\sin\beta\sin\gamma$$
+将 $\sin^2\gamma$ 替换为 1−$\cos^2\gamma$，我们得到 cos γ 的二次方程。求解，我们发现
+$$\cos\gamma=\sin\alpha\sin\beta$$
+记住 $\gamma=180^\circ-(α+β)$，即 cos γ = −cos (α+β)，我们得到
+$$\cos (α+β)=\cos\alpha\cos\beta+\sin\alpha\sin\beta.$$
+构造了第二个根（+号）（想想为什么），我们得到了总和的余弦公式。
+
+G·G·萨梅多夫

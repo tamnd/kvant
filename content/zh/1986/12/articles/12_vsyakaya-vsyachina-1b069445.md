@@ -1,0 +1,57 @@
+---
+id: 1986-12-vsyakaya-vsyachina-1b069445
+issue: kvant_1986_12
+year: 1986
+number: "12"
+title: 各种各样的事情
+rubric: kvant-ulybaetsya
+rubric_sub: «Квант» улыбается
+page_first: 41
+page_last: 41
+tag: QYFX
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 1492825d2e306c0808fc37fbaa79aa4daeee15bcc2b65e4ecd2cda37afabfe9c
+prompt_sha256: draft-1
+translated_from: content/ru/1986/12/articles/12_vsyakaya-vsyachina-1b069445.md
+source_content_sha256: f22c3bad82f3adedff03169c889991f90a0198dd8091d5a63994287eda56dcae
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+AVVIDIM
+阿尔巴特斯
+
+一切
+所有的事情
+
+问与答
+- 蒸汽机中的工作流体是什么？
+- 科切塔尔。
+- 质量取决于速度和时间，因此在高速下每秒测量一次。
+- 您的质量是用什么单位测量的？
+- 我的体重以公斤为单位。
+
+申请人在标牌上写下：“生命法则”
+举一个强制回收的例子。
+例如，在 NSS 前面清洗重物。
+举一个扩散的例子。
+- 厨房里煎着馅饼，美味的食物就出来了。
+- 如果导体断了，电阻是多少？
+- 通过导体的电流会发生什么变化？
+- 那么电流就会短路。
+在此之前？
+
+四级护士
+读者：
+恒星与行星有何不同？
+化学：
+因为行星是圆的，
+星星是五角形的。
+
+于先生提供的材料。赫。帕兰杜赞
+和 A.科尔什科夫

@@ -1,0 +1,32 @@
+---
+id: 1986-12-spisok-chitateley-prislavshih-pravilnyie-resheniya-9ffdc9b8
+issue: kvant_1986_12
+year: 1986
+number: "12"
+title: 发送正确答案的读者名单
+rubric: zadachnik-kvanta
+rubric_sub: Задачник «Кванта»
+page_first: 40
+page_last: 40
+page_labels: "38"
+tag: 59W3
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 30f23219cd674a60d5c1cc00defe21b9a3f3bab382e364c157161547c84e64e8
+prompt_sha256: draft-1
+translated_from: content/ru/1986/12/articles/11_spisok-chitateley-prislavshih-pravilnyie-resheniya-9ffdc9b8.md
+source_content_sha256: c712b1039b27b5a7197caa450e45739a5d3404519270b9cc5422d95ac054dfbb
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 38⟧
+
+发送正确解决方案的读者名单
+
+大多数写出问题M971—M985、F983—F997解决方案的读者，都处理过问题M971、M973、M974、M976、M977、M981、M984、 F984、F987、F988、F992—F994、F996。下面我们公布剩余问题发送正确答案的人的名字（姓氏后面的数字是已解决问题编号的最后一位数字）。
+
+数学
+N. Azamov（安让地区巴尔奇科夫村）72、78、79、83； V. Hakobyan (埃里温) 72； A.阿列克谢尤克（敖德萨）72； M.Alt（敖德萨）72； F. Arzykulov（安让地区巴尔奇科夫村）82； D. Arotser（基辅）72、78； S. Arshava（北顿涅茨）72、82、83； R.阿萨杜拉耶夫（Masally）72； T. Akhmedov（阿兹苏维埃社会主义共和国博拉迪加赫村）72； V. Bazutkin (Krivoy Rog) 82, 83; I.巴尔（阿拉木图）72； A.巴拉巴诺夫（基辅）72、78 - 80、82、85； I.别洛泽罗夫（谢尔普霍夫）72、75、82； D. Berzin（卡卢加）72、78-80、83、85； V. Berinde（拜亚马普，SRR）72； M. Bona（匈牙利塞克什白瓦尔）72； E. Buzaev（莫斯科）72； I. Bugershiy（基辅）72； A. Burshtein（基辅）72、75； V.Bykov（基辅）72； S.瓦卡林（基辅）82； Y. Varshavsky（哈尔科夫）72、75、78、79、82、83、85； A. Vdovina（赫梅利尼茨基）72； V.维尔扎科夫（鲁德尼）72、83； A. Vintsok（基辅）72； S. 沃尔科夫 (Нijingy Tagil) 83, 85; V.沃洛茨基（鄂木斯克）72、75、78、79、82、83、85； P. Wolfbein（基辅）72、78； T. Gamidov（阿兹苏维埃社会主义共和国博拉迪加赫村）72、82；什。哈萨诺夫 (Yardimly AzSSR 村) 72, 78; O.Gevorkov（第比利斯）72、78、83； R. Gendler（塔什干）72、78、79、82、83； O.古佩尔（德累斯顿，东德）78； A.格拉佐夫斯基（雅罗斯拉夫尔）83； A. Glutsok（哈尔科夫）72、78、79、82、83、85；于。格纳托克 (卡梅内茨-波多尔斯基) 72, 78; M. Goldshade（车里雅宾斯克）72、75、78—80、82、85； I.冈恰洛夫（巴甫洛格勒）72、75、83； A.戈罗霍夫斯基（基辅）72、78—80、82、83； V. Gravit（北迪尼斯）72、83、85； R. Gripiv（利沃夫）72、75、78、79、83； D. Grncharov（索非亚，NRV）83； A. Davydov（高尔基地区 Elfimovo 村）72、82； R. Dadashov（阿兹苏维埃社会主义共和国博拉迪加赫村）72；什。达达绍夫（阿兹苏维埃社会主义共和国博拉迪加赫村）72； A.达尼连科（伏尔加格勒）72； Z. Dzhabtseva（Makhmudavar AzSSR 村）72； D. Jabadov（Makhmudavar AzSSR 村）72； O. Jabadov（阿兹苏维埃社会主义共和国沃拉迪加村）72； M. Dolaberidze (第比利斯) 72; A. Donchenko（基辅）75、82； E. Dostseev（巴库）72；于。德罗兹德（基辅）72、83； I.季宁科夫（朱可夫斯基）78、79、82、85； G. Dyatlov（新西伯利亚）72； E.叶戈罗夫（奔萨）83； S. Zhelezovskaya（萨拉托夫）80； D. Zaitsev（基辅）72、75、78—80、82、83、85； I.扎鲁宾（哈尔科夫）72；五区（哈尔科夫）72、82； I.伊萨耶娃（巴甫洛格勒）72； A. 加里宁 (萨拉托夫) 72, 82; V.卡利尼茨基（加里宁格勒）82； E. Kamyshnaya（巴甫洛格勒）72；于。卡尔采夫（乌里扬诺夫斯克）83； T.卡苏莫夫（巴库）72、82、83； O.基里索夫斯基（文尼察）83； A. Kozinsky (Gaivoron) 78, 82, 83； V. Kolega（切尔文格勒）82； G. Kolesikov（马格尼托哥尔斯克）72； D.Konovalenko（塞瓦斯托波尔）72、75、78、80； A. Kononenko（基辅）72、79、83、85；于。科罗廖夫（喀山）72、83、85； A. Korytko（基辅）72； V.克鲁柳科夫（哈尔科夫）72、75、78、79、82、83； O.库兹涅佐娃（尤什卡尔-奥拉）78、83； M.库克斯（利沃夫）72、75、80； D. Kutsemako（萨拉托夫）83； I. Kutsugurin（新乌连戈伊）82； I. Kushlebets（莫斯科）72；和。 拉卡托什（莫斯科）80、83、85； O.利梅什科（古比雪夫）78—80、82、83； M.利特维-

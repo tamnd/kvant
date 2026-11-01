@@ -1,0 +1,44 @@
+---
+id: 1986-12-vozvraschayas-k-napechatannomu-a79a9471
+issue: kvant_1986_12
+year: 1986
+number: "12"
+title: 返回打印
+rubric: smes
+page_first: 52
+page_last: 52
+page_labels: "50"
+tag: 06GS
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: e858d4fd28fa49c1dcb7ca1c3425ada47df0c4eb891fc8e6c3b457c4f2244e8e
+prompt_sha256: draft-1
+translated_from: content/ru/1986/12/articles/16_vozvraschayas-k-napechatannomu-a79a9471.md
+source_content_sha256: 5d4fb64adb941f29f817c147b7fa7c40d314691230080bc75f4c89110e8b136d
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 50⟧
+
+返回打印
+
+编辑们收到了几封信，指出读者在 V. A. Kaimin 的文章中看到的“算法错误”（«Kvant»，第 10 期，第 47 页）。这让我们有理由思考一个重要问题：哪些算法被认为是正确的？
+
+如果算法严格按照任何可接受的初始数据的要求（问题陈述或场景描述）生成结果，我们称该算法为“正确”。因此，如果可以指定这种可接受的初始数据，而该数据会产生不满足指定要求的结果，则算法包含错误；或者根本得不到结果。在没有明确说明问题的情况下，为算法或程序中出现错误做好准备是没有意义的。
+
+一个不正确的实际算法的例子可以在提到的文章中找到：不幸的是，在计算环面积的算法中（第48页），在第$S_2 := \pi \cdot r^2$行之后缺少第$S := S_1 - S_2$行。对此，编辑向读者致歉。
+
+另外就是近似解算法
+
+方程 $f(x) = 0$ （除以二分之一的方法，第 50 页）。文章（由于篇幅限制）没有提供问题的陈述，因此正式提出该算法的正确性问题是不合法的。然而，我们注意到，在作者的作品中有：
+
+要求：$x_0$——近似解；
+
+通讯：$x_1 \leq x_0 \leq x_2$，
+$|x_1 - x_2| < e$,
+$f(x_1) \cdot f(x_2) \leq 0$.
+
+对于此设置，给定的算法是正确的。当然，你可以用不同的方式提出问题，例如，要求$|f(x_0)| < e$，然​​后需要不同的算法。哪种表述更好是另一个纯粹的数学问题。
