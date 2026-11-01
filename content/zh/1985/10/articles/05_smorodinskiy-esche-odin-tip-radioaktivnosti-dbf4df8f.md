@@ -1,0 +1,70 @@
+---
+id: 1985-10-smorodinskiy-esche-odin-tip-radioaktivnosti-dbf4df8f
+issue: kvant_1985_10
+year: 1985
+number: "10"
+title: 另一种类型的放射性
+authors:
+  - Смородинский Я. А.
+rubric: novosti-nauki
+rubric_sub: Новости науки
+page_first: 16
+page_last: 16
+page_labels: "14"
+tag: LBZW
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 0b859db0cdf5245b1d566e5f4f038cda2075f4bd3171f1f3c72b16c539b156f0
+prompt_sha256: draft-1
+translated_from: content/ru/1985/10/articles/05_smorodinskiy-esche-odin-tip-radioaktivnosti-dbf4df8f.md
+source_content_sha256: ed42e615c629cc64c1a31a176360b5edb9c423c8cb164aab2699efa6cefe1a51
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 14⟧
+
+穿孔卡上的外围设备。 ABC 的运营从未成功，这是本世纪最悲惨的事件——第二次世界大战——所造成的戏剧性后果之一。然而，应该指出的是，包括 J. Mauchly 在内的许多科学家都知道 J. Atanasov 在电子计算机方面的想法和工作。
+
+与 J. Atanasov 在电子计算机方面的工作有关的事实直到 60 年代才广为人知，不久之后他的优先权才得到正式承认。
+
+1945年第一台功能电子计算机出现后，电子计算技术进入了快速发展的时期。这一时期的历史是另一个讨论的话题。在这篇文章的结尾，我们想提醒您第一台苏联电子计算机“MESM”。它于 1951 年在院士 Sergei Alekseevich Lebedev（1902-1974）的领导下建造，顺便说一下，它是欧洲第一台电子计算机。
+
+自然界中发现的另一种众所周知的重核放射性转变类型（α和β衰变、原子核自发裂变等），添加了一种新类型 - 比凝胶核（α粒子）重的碳同位素核的辐射衰变。
+
+最近，今年，联合核研究所（杜布纳）的员工以及一群美国物理学家发现了另一种类型的衰变，其辐射来自更重的核——氖核。
+
+例如，质量数为 233 的铀同位素衰变：
+
+$$\begin{align*}
+233U &\rightarrow 209Pb + 24Ne \\
+233U &\rightarrow 208Pb + 25Ne
+\end{align*}$$
+
+— 衰变随着质量数为 24 或 25 的氖同位素的发射而发生。目前尚不清楚这是一种什么样的衰变过程。
+
+这种衰变的概率非常低：大约每 10^{12} 个发射的 α 粒子到达氖核。如果没有铀的α衰变，铀核平均会存活约10^{17}年，等待其氖衰变（具有α粒子辐射的铀233同位素的半衰期为1.62×10^5年）。
+
+另一种铀同位素也会衰变 - 质量数为 232：
+
+$$\begin{align*}
+232U &\rightarrow 208Pb + 24Ne \\
+232U &\rightarrow 208Pb + 25Ne
+\end{align*}$$
+
+在这种情况下，氖核逃逸的概率也大约比 α 粒子逃逸的概率小 10^{12} 倍。
+
+发现了另一个原子核的相同衰变 - 镤原子核：
+
+$$\begin{align*}
+231Pa &\rightarrow 207Tl + 24Ne \\
+231Pa &\rightarrow 207Tl + 24Ne
+\end{align*}$$
+
+生成的 207 铊转化为 207 铅（铊 207 的平均寿命为 6.8 分钟）并发射电子（β 衰变）。镤的氖衰变概率大约比其 α 衰变概率小 10^{11} 倍。
+
+正如我们所见，所有新发现的衰变都以铅同位素结束，铅同位素也结束了所有天然放射性系列——铀、钍和锕族。大自然找到了另一种解决方法，可以将各种元素转化为稳定的铅。
+
+我同意。

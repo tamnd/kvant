@@ -1,0 +1,109 @@
+---
+id: 1986-3-pobediteli-konkursa-zadachnik-kvanta-914a4094
+issue: kvant_1986_3
+year: 1986
+number: "3"
+title: “问题书«Kvant»”竞赛获奖者
+rubric: zadachnik-kvanta
+page_first: 32
+page_last: 32
+page_labels: "30"
+tag: N51N
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: c61223345a550fa30fd1e1666b53fe0b60e2791772e9fd0616fcf2e49fa158d7
+prompt_sha256: draft-1
+translated_from: content/ru/1986/03/articles/13_pobediteli-konkursa-zadachnik-kvanta-914a4094.md
+source_content_sha256: 2fec0560703f9bc9b10535cf5313590fbec6049e8fa81ca4a50dadac317ea6c7
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 30⟧
+
+“Quaita Problem Book”竞赛获奖者
+我们的杂志每年都会在小学生中举办一场竞赛，以解决《安静问题书》中的问题。
+以下是 1985 年“Quaita Problem Book”竞赛的获奖者名单。
+他们将获得 Dillom 奖章和《Quait》杂志颁发的徽章，并获得立即参加 1986 年世界奥林匹克运动会第四轮（供应前）的权利：
+
+在数学方面
+A. AKSENOV - Velikie Luki，p。二. 7号、9号细胞。
+M. 亚历山德罗夫 - 莫斯科，p。二. 542号，10个单元。
+Y. ARGENTOV - 阿拉木图，ROFMSH，十年级。
+J. VARSHAVSKY - 哈尔科夫，p。二. 27号，8格。
+T. GAZARYAN - 埃里温，YSU 物理和音乐学校十年级。
+D. GAMARNIK - 第比利斯，以物理学校命名。 V. M. Komarova，十年级。
+O. GEVORKOV - 第比利斯，以物理和音乐学校命名。 V. M. Komarova，九年级。
+R. GENDLER - 塔什干，p。二. 110号，9个单元。
+N.格里戈里耶夫 - 安德罗波夫，p。二. 33号，10格。
+A. GRIGORYAN - 埃里温，YSU 物理和音乐学校十年级。
+A. DAVTYAN - 埃里温，YSU 物理和音乐学校十年级。
+D. DOVRITSYN - 莫斯科，第 14 页二. 91号，9个单元格。
+A. DYNNIKOV - 茹科夫斯基，第 14 页二.第1名，10个等级。
+D. ZAITSEV - 基辅，p。二. 145号，9个单元。
+A. IVANOV - Pervomaisk，p。二. 15号、10号电池。
+S. ISMAILOV - 巴库，第一物理学校，十年级。
+V.卡波维奇 - 哈巴罗夫斯克，p。二. 2号，10格。
+O. 基尔纳索夫斯基 - 文尼察，p。二. 15号，8号电池。
+A. KISELEV - 列宁格勒，第 14 页二. 30号，10格。
+A. KONONENKO - 基辅，第 14 页二. 145号，9个单元。
+V.克鲁格利科夫 - 哈尔科夫，p。二. 149号，9个单元。
+M. KURINNOY - 哈尔科夫，p。二. 27号，10号细胞。
+N. KUSHLEVICH - 莫斯科，第 14 页二. 91号，9个单元格。
+S. KYARAS - Moletai，p。二. 2号，10格。
+O. LIMESHKO - 古比雪夫，p。二. 16号、9号电池。
+K. MAMUROV - 杜尚别，第 14 页二. 53号，10格。
+V. MEKHRABOV - 巴库，第 14 页二. 20号，10格。
+G. 米哈尔金 - 列宁格勒，第 14 页二. 30号，10格。
+M. MUNKIN - 阿拉木图，ROFMSH，十年级。
+D. MURALASHVILI - 第比利斯，以物理和音乐学校命名。 V. M. Komarova，十年级。
+I. 拉斯金纳 - 维捷布斯克，第 14 页二. 31号，10号细胞。
+M. RZAEV - 巴库，p。二. 94号，9个单元。
+I. 萨莫沃尔 - Gayvoron，第 14 页二. 5号、9号细胞。
+R. SIVILEV - 列宁格勒，p。二. 30号，10格。
+I. SIMONENKO - Velikie Luki，第 14 页二.第1名，10个等级。
+D. 塔玛金 - 高尔基，第 14 页二. 17号9号牢房。
+K. TISHENKO - 明斯克，p。二. 65号，10格。
+Y. SHAMRUK - 格罗德诺地区 Novy Dvor 村，8 级。
+V. EPIKTETOV - 阿拉木图，ROFMSH，十年级。
+
+在物理学中
+A. 阿巴诺夫 - 克拉斯诺亚尔斯克，p。二. 170号，10个单元格。
+M. AKHMEDOV - Sumgayt，p。二. 23号，10格。
+K. VEDOV - 车里雅宾斯克，p。二. 138号，10个单元格。
+A. VERENGOLYTS - 基希讷乌，第 14 页二. 3号，10格。
+O. VESMAN - 阿拉木图，ROFMSH，十年级。
+A. VESPALOV - 第比利斯，p。二. 37号，10格。
+A. BYSHKO - 列宁格勒，第 14 页二. 239号，9个单元。
+A. 沃洛申 - 伊万诺夫卡·柯尔格。苏维埃社会主义共和国，p。二. 2号，10格。
+A. GAMAYUNOV - 波尔塔瓦，p。二. 6号、9号细胞。
+V. DOVROVOLYSKY - 第比利斯，第 14 页二. 42号，10格。
+A. DODA - Korsun-Shevchenkosky，第 14 页二. 4号、10号电池。
+D. EZHIKOV - 明斯克，第 14 页二. 32号，9格。
+A.扎里科夫 - 基辅，p。二. 157号，10个单元格。
+K. ZAKHAROV - 伏龙芝，第 17 页二. 61号，10号细胞。
+N. ZAKHAROVA - 阿拉木图，ROFMSH，十年级。
+V. ZINGERMAN - 撒马尔罕，p。二. 51号，10号细胞。
+S. IVANOV - 乌法，p。二. 12号、10号电池。
+V.卡拉茨基 - 索利戈尔斯克，p。二. 2号，10格。
+M. KELLMANSON - 莫斯科，p。二. 47号，10格。
+P. 卢什尼科夫 - 莫斯科，第 17 页二. 47号，10格。
+A.马克西莫夫 - 塔什干，p。二. 110号，10个单元格。
+Y.马克林 - 莫斯科，p。二. 57号，10格。
+V. MELIK-ALAVERDYAN - 埃里温，埃里温国立大学物理和音乐学院，十年级。
+G. NIKOLAISHVILI - 第比利斯，以物理和音乐学校命名。 V. M. Komarova，十年级。
+I. 奥比扎耶夫 - 塔什干，第 14 页二. 50号、10号电池。
+A. PARETSKY - 明斯克，p。二. 23号，10格。
+S.拉哈莫夫 - 喀山，p。二. 131号，10个牢房。
+A. ROSENWINE - 基辅，p。二. 206号，9个单元。
+E. ROSNOSCHHIK - 基辅，第 17 页二. 206号，9个单元。
+S. ROSYA - 明斯克，p。二. 76号，10号牢房。
+R. SADIKOV - 伏龙芝，第 14 页二. 61号，10号细胞。
+V. TARNETSKY - 阿拉木图，ROFMSH，十年级。
+S. TUZHANSKY - 文尼察，s。二. 33号，10格。
+R. ULMASOV - 杜尚别，p。二. 8号、10号电池。
+G. FINKELSTEIN - Chernogolovka 村，莫斯科，p。二. 82号，9号牢房。
+G. SHVETS - 基辅，p。二. 145号，10个单元格。
+A. SHULYAK - 切尔卡瑟地区，Molodetsia 村。二、九年级。
