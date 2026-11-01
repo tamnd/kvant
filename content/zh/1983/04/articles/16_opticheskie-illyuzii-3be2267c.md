@@ -1,0 +1,49 @@
+---
+id: 1983-4-opticheskie-illyuzii-3be2267c
+issue: kvant_1983_4
+year: 1983
+number: "4"
+title: 视错觉
+rubric: smes
+page_first: 54
+page_last: 54
+page_labels: "52"
+tag: OIBP
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 7ce9b954dc812ab11ca457dd80ff6ca0378b85b083891ec39e661f36ee265823
+prompt_sha256: draft-1
+translated_from: content/ru/1983/04/articles/16_opticheskie-illyuzii-3be2267c.md
+source_content_sha256: 07cf0fa1241ce19d9b493af76b0135601cdd6aa3bb33245b91781e2c2907f46a
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 52⟧
+
+工程师 V.V.西内夫教授物理课。
+
+震撼着人类的精神世界。沉中心十五年的经验表明，小学生感知数学之美和逻辑的能力极高，在IAE科学家——应用数学领域的专家、理论物理学家、研究所计算机中心解决问题的数学支持开发人员——的指导下，孩子们的刻苦努力，让我们的许多毕业生选择了数学作为自己的职业。
+
+更不用说SHEN经常接触并徘徊在车里雅宾斯克、纳文等城市的科学社团和物理数学学校上空，马——
+
+克里米亚科学院的荣誉。利益和计划的交流是有益的。在会议上，莫斯科居民会见他们的“同事”，IAE 科学家为这些城市的孩子们讲授课程。
+
+学校活动的成果如何？
+
+她的大多数学生从事科学技术工作，尽管有些学生成为了医生和经济学家。许多人大学毕业后来到IAE。其中已有科学候选人。我们的一些毕业生自己也成为了沉老师。
+
+在共青团第十九次代表大会上，共青团中央第一书记帕斯图霍夫说：
+
+索莫尔原子能研究所以 I.V. 命名库尔恰托夫经营着一所自然科学学院，有 300 名莫什乔沃学童饶有兴趣地学习，在该国不同城市的五所学校中，有超过 1000 名学生。著名科学家在前线讲学。如果库尔恰托夫派有更多的追随者，教育事业将会如何受益。”
+
+读者«Kvant»可能明白，通往科学的道路始于提出和解决问题的能力。跟随小伙子们去SHEN，测试一下你的能力。
+
+V.D.库利亚津，
+K·P·切切罗夫
+
+视错觉
+
+图片显示了一个正方形中的一个正方形、一个圆和两对水平平行线。所应用的线会导致对其形状变形的评估。

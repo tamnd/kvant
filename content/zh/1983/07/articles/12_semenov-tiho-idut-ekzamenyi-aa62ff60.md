@@ -1,0 +1,58 @@
+---
+id: 1983-7-semenov-tiho-idut-ekzamenyi-aa62ff60
+issue: kvant_1983_7
+year: 1983
+number: "7"
+title: 安静的！考试来了！
+authors:
+  - Семёнов А. И.
+rubric: kvant-ulybaetsya
+page_first: 57
+page_last: 58
+page_labels: 55-56
+tag: D6S9
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: c49df4021b1aa2541fb375c28b0a4198ccb58c09778cecdced5b0224a495b8fc
+prompt_sha256: draft-1
+translated_from: content/ru/1983/07/articles/12_semenov-tiho-idut-ekzamenyi-aa62ff60.md
+source_content_sha256: 1bb1200f874c0ce9551ce48e2820a1251c5be7658b4989d167604bb8bf80fcf2
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 55⟧
+
+请注意，$\vec{O D}$（terzer $A' B' C' D'$ 的面 $A' B' C'$ 的向量）也是 terzer $O A' B' C'$ 的面 $A' B' C'$ 的向量。事实上，点$O$和$D'$位于平面$A' B' C'$的同一侧（否则$\vec{O A}' + \vec{O B}' + \vec{O C}' + \vec{O D}'$之和将不等于$\vec{O}$），因此向量$\vec{O D}$指向三元组$O A' B' C'$的外侧。根据“jezhe”定理，向量 - $\vec{O D}$ 等于 terzer $O A' B' C'$ 的面 $O A' B'$、$O B' C'$ 和 $O C' A'$ 的向量之和。但这个 terzar 的构造方式与任务 $a$ 中的 terzar $P A' B' C'$ 完全相同（直到并行传输），因此是 $\vec{O D}' = -k(\vec{D A} + \vec{D B} + \vec{D C})$，其中 $k = 3V/4$。同样$O A'' = -k(\vec{A B} + \vec{A C} + \vec{A D})$，所以$D'' A'' = \vec{O A}' - \vec{O D}' = k(\vec{D A} + \vec{D B} + \vec{D C} - \vec{A B} - \vec{A C} - \vec{A D}) = k \cdot 4 \vec{D A} = 3V \cdot \vec{D A}$。同理证明$D'' B'' = 3V \cdot \vec{D B}$，$D'' C'' = 3V \cdot \vec{D A}$。这意味着 terzers $A'' B'' C'' D''$ 和 $ABCD$ 的准备系数为 3V。
+
+紧接着，对于任何四个非共平面向量加起来为$\vec{O}$，都有一个独特的terzar，直到平行平移，这些向量用作面向量。 （如果给定向量$\vec{O A}$、$\vec{O B}$、$\vec{O C}$和$\vec{O D}$，并且$\vec{O A'}$、$\vec{O B'}$、$\vec{O C'}$、$\vec{O D'}$是terzer$ABCD$的面向量，则准备好所需的terzar$A' B' C' D'$。）该语句是所谓明可夫斯基问题的一个非常特殊且简单的情况：给定一组非共面零和向量，是否有可能构造一个凸流形并将它们用作面向量？这样的品种只会有一种吗？这个问题是由德国著名数学家赫尔曼·闵可夫斯基在上世纪末提出并（积极地）解决的。
+
+锻炼
+9. 在 terzarra $ABCD$ 中，面 $ABC$ 和 $ABD$，以及 $CDA$ 和 $CDB$ 大小相等。证明连接边$AB$和$CD$的线段是它们的公垂线。
+
+10. 证明 terzarra 的以下性质是等价的*)： 1) 所有面全等； 2）所有面的大小相等； 3）外接球的中心与重心重合（重心是由从它引向terzar顶点的向量之和为$\vec{O}$来确定的）。
+
+*) 本任务中讨论的术语称为等面体。本期杂志中 V. E. Matizen 的文章对它们进行了详细描述；另请参见上面问题 8，d。
+
+⟦folio 56⟧
+
+量子微笑 量子微笑
+
+数学学院
+
+航空学院
+——我的战友有着优秀的特性，他有飞行经验……
+
+物理学院
+— 你还记得万有引力定律吗？
+
+师范学院
+- 那么，你来上课了。
+来吧，把事情整理好！
+
+电化学研究所
+——……是的，你的实践能力比较薄弱。
+
+56

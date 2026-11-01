@@ -1,0 +1,42 @@
+---
+id: 1983-7-zadachi-6c7e25a2
+issue: kvant_1983_7
+year: 1983
+number: "7"
+title: 任务
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 41
+page_last: 41
+page_labels: "39"
+tag: F4WY
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 92bc75572a52a48fee796f993d4a5ef1ec18cf7b1d8f64f3732496b07f33df16
+prompt_sha256: draft-1
+translated_from: content/ru/1983/07/articles/06_zadachi-6c7e25a2.md
+source_content_sha256: 691c7eb5f77a71d75afe1b9fc04091d1573fe5a2850a52139530d4a698e9bf4d
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 39⟧
+
+任务
+
+1. lubra 中有 5 个灯泡。开关有 6 个位置，每次点亮的灯泡数量不同 - 从 0 到 5。有一天，几个灯泡烧坏了。您至少需要按动开关多少次才能找出哪些？
+
+2. 找到所有等于最后两位数字表示的数字与最后一位数字表示的数字的乘积的三位数。
+
+3. 数字 1,2,...,9 被放置在 3x3 正方形的单元格中。然后，在每个圆圈中，写下其周围四个数字的算术平均值。之后，计算所得四个数字的算术平均值。能得到的最大数是多少？
+
+4. 一桶汽油有18升。有两个容量为7升的桶，需要在其中加注6升汽油。此外，还有一个4升的勺子。如何进行泄漏？
+
+5. 为什么白天在窗户挂着薄纱窗帘的房间里，街道上的物体清晰可见，但从街道上看不到房间里的物体？
+
+这些任务交给了我们
+A. I. 阿扎莫夫、G. A. 加尔佩林、
+V.V.普罗兹沃洛夫、S.V.德沃里亚尼诺夫、
+A.P.萨文.

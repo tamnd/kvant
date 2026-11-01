@@ -1,0 +1,100 @@
+---
+id: 1983-5-o-o-bumazhnyih-zvezdochkah-b66df7d3
+issue: kvant_1983_5
+year: 1983
+number: "5"
+title: '[关于纸星星]'
+authors:
+  - О. М.
+rubric: smes
+page_first: 22
+page_last: 22
+page_labels: "20"
+tag: IDJ3
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: c93ad55057a42ec012da1859c994f9b16a1c6d8cc7dadef0638371fa3cbf9425
+prompt_sha256: draft-1
+translated_from: content/ru/1983/05/articles/06_o-o-bumazhnyih-zvezdochkah-b66df7d3.md
+source_content_sha256: 24172399600df1cea1c66c4be35266e556e565f4238ecabc5c4d949b77e41bdb
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 20⟧
+
+99/70 近似 $\sqrt{2}$，精度优于 0.0001。
+
+示例 2. 具有距离的周期连分数
+[2; 1, 1, 1, 4, 1, 1, 1, 4, 1, 1, 1, 4, ...].
+
+简而言之，它可以写成这样：
+[2; $\overline{1, 1, 1, 4, 1, 1, 1, 4, 1, 1, 1, 4, ...}$].
+
+让我们找到它匹配的数字。如果这个数字用$\alpha$表示，那么就满足等式（为什么？）
+
+$$\alpha = 2 + \frac{1}{|1|} + \frac{1}{|1|} + \frac{1}{|1|} + \frac{1}{|2+a|}$$
+
+或者，转换后，
+
+$$\alpha = \frac{21+8\alpha}{8+3\alpha}$$
+
+由此得出$\alpha^2 = 7$，从$\alpha > 2$我们得到$\alpha = \sqrt{7}$。
+
+很容易看出，该方法可用于求任意周期连分式的值。
+
+最佳近似和连分数
+
+数字 $\alpha$ 的最佳近似是分数 $\frac{p}{q}$ ($q > 0$)，使得
+
+$$|q' \alpha - p'| > |q \alpha - p|$$
+
+对于所有$1 \leq q' < q$和所有$p'$。公平的
+
+定理。 $\alpha$ 的每个最佳近似都是合适的分数 $\alpha$；对于 $k > 1$ ，反之亦然，即 $k > 1$ 的任何合适的分数 $\frac{p_k}{q_k}$ 都提供了数字 $\alpha$ 的最佳近似值。
+
+这个定理的证明并不困难，我们把它留给读者。 （如果很难证明无法克服，那么你可以转向S. Lang的书“Introduction to the Theory of Diophantine Approximations”（M., Mir, 1970）。
+
+数当量
+
+两个数字 $\alpha$ 和 $\beta$ 被认为是等价的，如果
+
+$$\alpha = \frac{a\beta + b}{c\beta + d},$$
+
+其中 $a, b, c, d$ 是整数，$ad - bc = 1$ 或 - 1。
+
+让我们用$\sigma$和$\sigma_k$（其中$k$是一个整数）来表示定义如下的操作：
+
+$$\sigma \alpha = \frac{1}{\alpha}, \quad \sigma_k \alpha = k + \alpha.$$
+
+很明显，通过将 $\sigma$ 和 $\sigma_k$ 应用于数字 $\alpha$，我们总是能获得等价的数字。还清楚的是，使用形式的操作
+
+$$\sigma \sigma_k \alpha = \frac{1}{\alpha + k}, \quad \sigma_k \sigma_\alpha = k + \frac{1}{\alpha} = \frac{k\alpha + 1}{\alpha}$$
+
+还给出了相当于 $\alpha$ 的数字示例。
+
+锻炼
+
+7. 证明如果$\alpha$和$\beta$等价，那么数字$k_1, k_2, \dots, k_j$的目标与$\beta = \sigma_k1 \sigma_k2 \dots \sigma_kj \alpha$相同。
+
+8. 让数字$\alpha$和$\beta$具有相同的连分式展开式，从一些数字$k$和$S$开始，即
+
+$$\alpha = r_0 + \frac{1}{|r_1|} + \frac{1}{|r_2|} + \dots + \frac{1}{|r_k|} + \frac{1}{|d_1|} + \frac{1}{|d_2|} + \dots,$$
+
+$$\beta = h_0 + \frac{1}{|h_1|} + \frac{1}{|h_2|} + \dots + \frac{1}{|h_s|} + \frac{1}{|d_1|} + \frac{1}{|d_2|} + \dots$$
+
+证明然后数字$\alpha$和$\beta$是等价的。
+
+9. 证明如果数 $\alpha$ 和 $\beta$ 相等，则它们的连分数具有 (3) 的形式。
+
+（下期继续）
+
+我们的封面
+
+封面第一页上显示的纸星星不仅仅是首日假期的装饰图。它们与数学及其分支的发展有关。一方面，这是一个星型多面体模型，在«Kvant»（1973，No.5，p.26）中已经写过，因此它们与空间对称理论（几何、群论）相关。另一方面，这些恒星与结理论（见«Kvant»，1975年，第7期，第6页或1981年，第3期，第8页）以及所谓的理论有联系。
+
+辫子 在辫子理论中，使用代数方法来研究编织扭曲或条状辫子的技术，而我们的星星是由纸条精确编织而成的。我们将在即将出版的杂志中讨论如何做到这一点。
+
+O.M.
