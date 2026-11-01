@@ -1,0 +1,71 @@
+---
+id: 1986-6-fuks-formulyi-dlya-sin-nx-i-cos-nx-496f4dbd
+issue: kvant_1986_6
+year: 1986
+number: "6"
+title: Formulas for sin nx and cos nx
+authors:
+  - Фукс Д. Б.
+rubric: shkola-v-kvante
+page_first: 27
+page_last: 27
+page_labels: "25"
+tag: A6YA
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: e752c1f4e4854c8ef3f290bb364ac4b66835ba8b63d1912322b9572b3fa98058
+prompt_sha256: draft-1
+translated_from: content/ru/1986/06/articles/10_fuks-formulyi-dlya-sin-nx-i-cos-nx-496f4dbd.md
+source_content_sha256: 58395d83c49d768d1bc203714af5b14f08b28ae72127bf189f3faf7c3e88be84
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 25⟧
+
+Mathematica 9, 10
+
+The note published below is intended for real classics and ten classics. It will also be useful to those who are preparing for university entrance exams.
+
+Formulas for sin nx and cos nx
+
+Collections of problems for those building universities are replete with sines and cosines of “multiple angles,” that is, expressions like sin 7x, cos 9x, etc. Not always, but quite often it is useful to write these expressions as functions of sin x and cos x. In principle, this can be done completely automatically using the formula for the sine and cosine of a sum, but with repeated use of even the simplest formula, no one is safe from errors; besides, it can be time-wasting. Below is a simple, easy to remember and reliable way to write the formula for sin nx and cos nx.
+
+Pascal's triangle. It is quite possible that the reader knows what it is; Nevertheless, let us recall the definition. Pascal's triangle is a number table whose nth row contains n+1 natural numbers. In this case, in the top line there are two units and for each n in the nth line there are units at the edges, and in other places there are the sums of consecutive pairs of adjacent numbers from the (n-1)th line (Fig. 1).
+
+Fig. 1.
+
+The most remarkable property of Pascal's triangle is that the numbers from its nth row are the coefficients of the polynomial $(x+1)^n$:
+$(x+1)^1=x+1,$
+$(x+1)^2=x^2+2x+1,$
+$(x+1)^3=x^3+3x^2+3x+1,$
+$(x+1)^4=x^4+4x^3+6x^2+4x+1,$
+$(x+1)^5=x^5+5x^4+10x^3+10x^2+5x+1$
+
+They used to do this in school, but now they don’t.
+
+Formulas. Write the nth row of Pascal's triangle. (By the way, in order to find the nth line, you do not need to count the lines: in the nth line there is n in second place.) Sew $\cos^n x$, $\cos^{n-1}x \sin x$, $\cos^{n-2}x \sin^2x$, ..., $\sin^n x$ to the numbers from this line in sequence. In the resulting chain, underline the expressions that are in even places: second, fourth, etc. Write out unstressed expressions and underlined expressions in two separate lines. In each of the resulting two lines, put a minus before the second expression, a minus before the third, a minus before the fourth, etc. Everything is ready - in the top line you wrote the expression for cos nx, in the bottom line - for sin nx.
+
+Examples of measures. For n=2, the row of Pascal's triangle looks like 1, 2, 1. We write:
+
+$$\cos^2x \ 2\cos x \sin x \sin^2x$$
+
+$$\cos 2x=\cos^2x-\sin^2x,$$
+
+$$\sin 2x=2\cos x \sin x.$$
+
+For n=3 we write:
+
+$$\cos^3x \ 3\cos^2x \sin x \ 3\cos x \sin^2x \sin^3x$$
+
+$$\cos 3x=\cos^3x-3\cos x \sin^2x,$$
+
+$$\sin 3x=3\cos^2x \sin x-\sin^3x.$$
+
+The reader will find several formulas for cos nx and sin nx obtained in this way on figure 2; along the red broken lines on this figure you can read the lines of Pascal's triangle.
+
+Exercise. Knowing the nth row of Pascal's triangle, it is easy to write a formula expressing tg nx in terms of tg x. Try this.
+
+Proof of the formula. In fact, these formulas are a consequence of the “Moivre Formula” («Kvant», 1983, No. 2, p. 19, articles by L. S. Pontryagin “Complex numbers”). But, in order not to refer to something not included in the program,

@@ -1,0 +1,41 @@
+---
+id: 1986-5-zadachi-32884ff9
+issue: kvant_1986_5
+year: 1986
+number: "5"
+title: Tasks
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 27
+page_last: 27
+page_labels: "25"
+tag: R55Z
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: dfd3270ec7e47bd71e17b5f418d5a3f44beb1e857c0484f16046462ff9c7dd6d
+prompt_sha256: draft-1
+translated_from: content/ru/1986/05/articles/11_zadachi-32884ff9.md
+source_content_sha256: 0a51dbd723d179d663692f118db306c7a09080f8856aa993d6639ee995f68dde
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 25⟧
+
+Quests
+
+1. Petya has three to take. The first is three years older than him, the second is three years younger than him, the third is young, Petya is the second. But the second father is older than Petya. Together they are 95 years old. How old is everyone?
+
+2. Solve a number puzzle
+$$\text{USA} + \text{USSR} = \text{PEACE}.$$
+The same letter corresponds to the same numbers, different letters correspond to different numbers.
+
+3. Our river is small. Usually I cross it, plunging no more than across the field. The bottom is LISTED, and your feet will fall in or up to your ankles. One day, after the strong Jedi, the water in the river rose greatly. Now, crossing the river, I sank into the water up to my cheek. Interestingly, at the same time, the legs stopped screaming in the air. Why?
+
+4. The pentagon is cut into 11 parts (see figure). Arrange the numbers 1, 2, ..., 11 in them so that the sums of the numbers are equal in all triangles, all of whose vertices are the vertices of a pentagon.
+
+5. On the table are three red sticks of different lengths, the sum of the lengths being 30 cm, and five blue sticks, the sum of the lengths also being 30 cm. Is it possible to saw both sticks so that they can then be arranged in pairs, and in each stick the lengths of the sticks are the same, but the colors are different?
+
+These tasks were suggested to us by V.D. Vyun, a 9th grade student. 149 schools in Kharkov Boris Kruglnikov, A.P. Savin, V.P. Chuchin, V.V. Proizvolov.
