@@ -1,0 +1,83 @@
+---
+id: 1987-8-skolko-stoit-dyinya-2a113cfd
+issue: kvant_1987_8
+year: 1987
+number: "8"
+title: 一个甜瓜多少钱？
+rubric: smes
+page_first: 38
+page_last: 38
+page_labels: "36"
+tag: 3C9Y
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 971d04bfd81a3d84fca122a697efa8b887a0ede6facd7653c66dcd4a553bc28c
+prompt_sha256: draft-1
+translated_from: content/ru/1987/08/articles/09_skolko-stoit-dyinya-2a113cfd.md
+source_content_sha256: cb448f0490081be4e9ea25276dcd8e46ff9ba5838c87a628de856f9fad226644
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 36⟧
+
+一个甜瓜多少钱？
+
+一旦霍贾纳斯-
+雷丁和他的朋友阿里，捐赠
+最后要付的钱
+他们捕鱼的土地
+瓜瓜们，我们走吧
+布哈拉集市有卖
+收成。阿里有104
+纳斯雷丁有 17 个瓜。
+
+在他们的城门口
+被警卫拦住
+并要求缴税
+用于将瓜类进口到布哈拉。
+
+要知道
+税额
+以及每个瓜的价格
+在布哈拉基地
+黎明，阿里给了
+给警卫
+在缴纳税款时
+19个瓜，重新
+付款于
+这个
+坦噶
+
+从我这里得到它
+三个瓜...
+
+斯泰亚
+更多的
+一
+坦噶
+
+我不会付钱
+为你献上一首探戈，但是
+我会把你从
+欠一坦噶·阿里的债。
+
+尊敬的。
+最伟大的！多少
+这个瓜值得吗？
+我有力量去寻找
+你的答案，水壶
+我的想法
+节目
+底部。
+
+亲爱的读者们！
+明年，和以前一样，杂志«Kvant»将只在
+订阅。如果您想成为我们的订阅者，您可以注册
+在 Soyuzpechat 机构、邮局或邮局订阅，开始
+任意数量（但不晚于预订阅空间的第一天）。
+
+Soyuzpechat 目录中的期刊索引 «Kvant» 70465，一期价格
+40戈比。

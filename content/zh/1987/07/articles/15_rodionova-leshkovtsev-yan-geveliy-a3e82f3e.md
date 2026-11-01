@@ -1,0 +1,38 @@
+---
+id: 1987-7-rodionova-leshkovtsev-yan-geveliy-a3e82f3e
+issue: kvant_1987_7
+year: 1987
+number: "7"
+title: 简·赫维留斯
+authors:
+  - Родионова Ж. Ф.
+  - Лешковцев В. А.
+rubric: raznoe
+rubric_sub: Разное
+page_first: 55
+page_last: 55
+page_labels: "53"
+tag: AFMP
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: fd349d3498cc0a1055315abbd922da26cf0e5ced49e6f8724dea88095b6652f8
+prompt_sha256: draft-1
+translated_from: content/ru/1987/07/articles/15_rodionova-leshkovtsev-yan-geveliy-a3e82f3e.md
+source_content_sha256: 53c62da4d6816fb9bff8ae8f3c50c318acbe4d35cf82aaaa1222d7a7c7d95fa6
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 53⟧
+
+简·赫维留斯
+
+1987年，在联合国教科文组织（联合国教育、科学及文化组织）的倡议下，被宣布为赫维留年。他是谁？他做了什么才配得上如此高的职位？
+
+Jan Hevelius 是 17 世纪的杰出使用者。他于1611年1月28日出生于格但斯克，同年1687年1月28日去世，享年76岁。他利用他父亲（一位酿酒师）继承的资金建造并装备了一座天文台，该天文台在很长一段时间内是欧洲最好的。赫维留有着异常敏锐的视力和出色的视觉记忆力。尽管他的天文台配备了他制造的望远镜，但他对恒星位置的大部分最准确的观测都没有借助望远镜的帮助。
+
+赫维留于 1647 年出版的第一部科学著作是著名的《月面学》，其中详细描述了月球表面的可见部分。赫维留在他的印刷厂印刷了这本书，为它制作了 133 个巧妙的图表，其中 60 个描绘了月球表面的各个部分以及月球各个阶段的外观。
+
+赫维留绘制月球地图的装置。
