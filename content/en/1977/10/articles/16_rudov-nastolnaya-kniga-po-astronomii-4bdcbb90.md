@@ -1,0 +1,41 @@
+---
+id: 1977-10-rudov-nastolnaya-kniga-po-astronomii-4bdcbb90
+issue: kvant_1977_10
+year: 1977
+number: "10"
+title: Handbook on astronomy
+authors:
+  - Рудов В. А.
+rubric: retsenzii-bibliografiya
+rubric_sub: Рецензии, библиография
+page_first: 64
+page_last: 64
+page_labels: "62"
+tag: 25VN
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 5330a8dd35b87812c1676473f304c143e05996ba1f569d4ac829578810a03c6b
+prompt_sha256: draft-1
+translated_from: content/ru/1977/10/articles/16_rudov-nastolnaya-kniga-po-astronomii-4bdcbb90.md
+source_content_sha256: 136b36b24f36f9ff80ae81aa1b2658cbaec598e398454c2a8bbd0e5dfe107490
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 62⟧
+
+A real book on astronomy
+
+Thirty years ago, the book “Universe” by the famous Soviet astronomer, professor at Moscow University Boris Aleksadrovich Vorontsov-Velyaminov, appeared on the shelves of bookstores. This is the first detailed Soviet popular science book about the Universe. She quickly disappeared from book shelves and gained the deserved love of readers. Since then, the book has been reprinted without donation. In 1976, the Nauka publishing house released the second, revised and expanded edition of this book, entitled “Essays on the Universe.”
+The thirty years that have passed since the publication of the first edition of the book have been a period of unusual expansion in astronomical science. During this period, a new field of astronomy was born - radio astronomy, which formed the second “window of transparency” in the spectrum of electromagnetic studies and added to the optical information about celestial bodies and phenomena a huge amount of information delivered by radio lines in the centimeter and desimeter ranges.
+Twenty years ago, with the launch of the first secular artificial Earth satellite, a new era in the study of outer space began. By lifting complex scientific equipment beyond the Earth's atmosphere, astronomers were able to record all types of electromagnetic studies and cosmic particles born in the depths of space.
+
+We can confidently say that in these three decades science has learned more about space than in the entire previous history of astronomy. Quasars, pulsars and “black holes”, galactic nuclei and galactic explosives, redict study and the solar wind - we were introduced to many amazing celestial objects and phenomena for the first time. It is almost impossible to talk about all this in equal detail in one book. This forced the author to name the latest edition of the book more modestly - “Essays on the Universe”.
+True, this does not mean at all that the author talks only about some individual interesting problems of modern astronomy. Essentially, the book by B. A. Vorontsov-Velyaminov is a kind of scientific astronomy encyclopedia of our knowledge about the Universe. It covers all sections of modern astronomical science.
+In the introduction, the author introduces readers to the main means of astronomical observations - optical telescopes, spectrographs, radio telecoms and radars, as well as methods for recording high-energy particles.
+The first part of the book is devoted to the world of solid matter. It talks about the major and minor planets of the solar system, about comets, meteorites and meteorite jedras. In the second part, which the author called “The World of Gas,” we talk about the Sun, stars and galaxies. Especially good information about nebulae, the study of which is impossible with the solved and unsolved mysteries of the Universe; it is difficult to find a more suitable book for this.
+So that the reader can independently understand the truth of what has been said above, we present here the text of a small paragraph from the solution to another book. It is called, it would seem, a little country - “Is there life on Earth?” On this occasion, the author writes: “Such a question poses not only excess, but also countries. We know that life exists around us on Earth! But intelligent inhabitants of other worlds ask themselves this question, just as we ask the question whether there is life on Mars or on other celestial bodies.
+How can they find the answer to this question?
+Of course, we reveal fi-

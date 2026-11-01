@@ -1,0 +1,38 @@
+---
+id: 1977-9-turkevich-turnirnaya-tablitsa-e7845205
+issue: kvant_1977_9
+year: 1977
+number: "9"
+title: Tournament table
+authors:
+  - Туркевич Э. И.
+rubric: smes
+page_first: 12
+page_last: 12
+page_labels: "10"
+tag: 2LKC
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 5779e9ebb848f72c8286c9feb13d75b6db16e8efea6bbd396754cacd0911ee23
+prompt_sha256: draft-1
+translated_from: content/ru/1977/09/articles/03_turkevich-turnirnaya-tablitsa-e7845205.md
+source_content_sha256: d29e1d4638a666bb6fe2587812e26d02a8dc6233b428b40ce2bb0176da7fb24e
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 10⟧
+
+viability of large programs. The ideas of so-called structured programming developed. One of the options for these new program technologies is the method of forming mechanical problems being developed in our country. Its essence is that in order to write a complex program, a language of large-block operators and conditions are created, with the help of which it is possible to write the required program quite briefly. For example, when constructing chess programs, the operators can be procedures for checking tails in a ferizi against a lone king, checkmate with a rook and king, and the presence of a passed tails or an open line can be used as a condition.
+
+A new language is then created with smaller statements and conditions, and the program is rewritten in that language. While building a series of such languages ​​and representations, at some stage they encounter a fully formed language for which there is an automatic translation system.
+
+An important direction in the development of the theory of computer systems in the 70s was the theory of multiprocessor systems and the general achievement of modern microelectronics applied to information processing inherent in the human brain. It is significant that the difference between memory and processors (ALUs) actually suffers here, and information processing occurs across the entire memory at once. This ensures the highest level of parallelization and maximum fast system recovery.
+
+Tournament table
+
+At the end of the school football tournament (one round), the guys handed Stepa Moshkin all the records and instructed him to draw up the final table. Styopa prepared a table, put the teams in it according to the places he had given and the total number of goals scored and missed, and then went to play football himself. When he got home, he saw that his younger sister had torn up all the notes, leaving only the table. Help Styopa fill it out, remembering that Styopa gave the team 2 points for a win, 1 for a draw, and 0 for a loss; If the points scored by two teams were equal, Stepa would put higher the team that had the greater difference in goals scored and goals conceded, and if these differences were equal, then the team that won the head-to-head match.
+
+E. Turkevich

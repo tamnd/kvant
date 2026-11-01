@@ -1,0 +1,43 @@
+---
+id: 1977-6-zadachi-682b84ea
+issue: kvant_1977_6
+year: 1977
+number: "6"
+title: Tasks
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 63
+page_last: 63
+page_labels: "61"
+tag: 5GLF
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 3bc12e2410ab9addff179733d983a2b892c480da997785b89d3986e4652fe61f
+prompt_sha256: draft-1
+translated_from: content/ru/1977/06/articles/16_zadachi-682b84ea.md
+source_content_sha256: 0e749bddb9fbb5949ab84a85c7611eb9ba14479fe8b61de71e15514921468815
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 61⟧
+
+«Kvant» for younger students
+
+Quests
+
+1. In actions on figure, each digit is protected by a certain letter. Decipher this entry, and then write down the letters by number in ascending order (from 0 to 9). What word did you come up with?
+
+2. How can you tell if a given piece of paper with straight edges is a square without using a ruler?
+
+3. Yesterday the number of students present in class was eight times the number absent. Two more students did not show up today, and it turned out that 20% of the students present in the class were absent.
+
+How many students are there in the class?
+
+4. “There are times when the clock opens its doors...” is sung in a popular song. And how many strokes does a clock make per day if it strikes the door of the clock (day or night) once, every two hours - twice, etc., and even once in the intervals, marking the middle of each hour?
+
+5. Find a two-digit number whose first digit is equal to the difference between this number and a number written with the same digits, but in reverse order.
+
+61

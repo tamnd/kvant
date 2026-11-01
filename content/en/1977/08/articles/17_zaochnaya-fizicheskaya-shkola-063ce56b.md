@@ -1,0 +1,49 @@
+---
+id: 1977-8-zaochnaya-fizicheskaya-shkola-063ce56b
+issue: kvant_1977_8
+year: 1977
+number: "8"
+title: Correspondence physical school
+rubric: informatsiya
+rubric_sub: Информация
+page_first: 64
+page_last: 64
+page_labels: "62"
+tag: 7IUS
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 0ec72eb9bcfdc836b6ab771d0ceaa56de3480caa0e05cf7d989ab7e64a27f907
+prompt_sha256: draft-1
+translated_from: content/ru/1977/08/articles/17_zaochnaya-fizicheskaya-shkola-063ce56b.md
+source_content_sha256: c0ad37157fe339f2116a65d6cb3e7aa21c1aee50a0abe7eb39ab04dce86f3639
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 62⟧
+
+Correspondence Physics School (3FS) at the Faculty of Physics of the Moscow Order of Lenin and the Order of the Red Replacement of Labor State University. M.V. Lomonosov announces enrollment of students in the 9th grade for the 1977/78 academic year.
+
+The main goal of 3FS is to help secondary school students study physics more deeply within the scope of the secondary school curriculum, and also better prepare for university entrance exams in physics, primarily for the Faculty of Physics of Moscow State University.
+
+Admission of students to 3FS is carried out on the basis of the results of solving the introductory task published below. The solution to the introductory assignment must be sent before September 15 to the address: 117234, Moscow, Leninskie Gory, Moscow State University, Faculty of Physics, Correspondence School of Physics. Along with the solutions to the problems, you need to put in the envelope a questionnaire filled out according to the following sample:
+
+Last name, first name, patronymic Petrov Nikolay Ivanovich
+Number and address school school No. 1, st. Lenina, 2
+Profession: parent and position: mokar, foreman, mother, accountant
+Detailed home address 246045, Gomel, Sadovaya st., 31, apt. 24
+Member of the Komsomol, CPSU member of the Komsomol
+
+Enrolled in 3FS receive assignments during the year from the Correspondence Physics School in the sections of physics studied in accordance with their high school classes. The tasks contain: a) a presentation of the main sections and methods for solving the most typical physical problems; b) tasks with detailed solutions that contribute to a deeper understanding of the main branches of physics; c) conditions of control problems, the solutions of which students must send to 3FS. The assignment is completed and sent to the students.
+
+At the end of the year, 9th grade students are transferred to 10th grade based on the grades received for solving test assignments. Those who successfully complete 3FS receive a certificate of completion from the Correspondence School of Physics at the Faculty of Physics of Moscow State University.
+
+Introductory task
+
+1. A cart (Fig. 1) rolls along a smooth plane with an angle of inclination to the horizon α. There is a body of mass m on the cart. Find the force of pressure of this body on the cart.
+
+2. A homogeneous cube of mass M stands on a horizontal rough surface. What minimum force must be applied to the middle of the upper edge of the cube so that it tips over without slipping? The coefficient of friction between the cube and the surface is μ.
+
+3. A piston is placed in the pot of a vessel filled with gas at temperature T₀ and pressure p₀, which can move inside the pot without friction (Fig. 2). On the outside, the piston is connected to a circle with stiffness k. In the initial equilibrium state, the gas occupies volume V₀. The vessel is slowly heated to temperature T₁. Find the resulting change in volume if the area of ​​the piston is S.

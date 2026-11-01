@@ -1,0 +1,60 @@
+---
+id: 1977-10-zadachi-nashih-chitateley-53df1443
+issue: kvant_1977_10
+year: 1977
+number: "10"
+title: Tasks for our readers
+rubric: smes
+page_first: 65
+page_last: 65
+page_labels: "63"
+tag: M0T2
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 5d578bb6bcfe55b9969366709f5381c6c562ab9a1db3a33bfa12286d63bb238f
+prompt_sha256: draft-1
+translated_from: content/ru/1977/10/articles/17_zadachi-nashih-chitateley-53df1443.md
+source_content_sha256: 2a3c89cc38f6450b78383dacbe136ae0a25a907a5241257e23eec49148c7d736
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 63⟧
+
+the significance of conditions on the planets, compare them with those on Earth and, based on this, conclude whether there could be life on them similar to that on Earth. A scientific solution to the problem can only be based on the experience of observing life on our Earth. It is scientifically possible to conceive of life only on the same basis as that found on Earth. For example, we know that living protein, the basis for the development of life, coagulates at high temperatures. But... one cannot fully guarantee the limit of possible adaptation of life and even the possibility of life on other bases. We will talk here about indefinitely visible traces of the development of activity. In principle, they can be seen from greater distances than intelligent beings themselves. The best images of the surface of Mars, obtained by the latest spacecraft from an altitude of less than 2,000 kilometers and allowing formations ranging in size from several hundred meters, show no traces of intelligent activity. Even though there is no intelligent life on Mars, this remains almost unchanged. But how visible is intelligent activity known to exist on Earth from afar? It is useful to clarify this question, and the American scientist Sagan was charged with it.
+
+In 1966, he and his collaborators looked at a huge number of photographs of the Earth obtained from weather satellites and giving a resolution of up to 2-0.2 kilometers. One might expect that the most visible traces of intelligent activity in this case would be seasonal changes in the appearance of large, properly delimited fields of sown agricultural crops. But the contrast in their images is small, and their seasonal changes are masked by changes in the angle of incidence of sunlight and the angle at which the list is made, containing more than 1000 kilometers.
+
+More common are large artificial structures of a rectilinear type - roads, bridges, dams, traces behind the stern of ships in the sea or white...
+
+Tasks
+our
+readers
+
+1. Solve the equation
+$$\sin^2 1917x + \frac{1}{4}\sin^2 1977x = \sin 1917x \cdot \sin^2 1977x.$$
+A. Alleyev (Penza region)
+
+2. Let $S$ be the area of the triangle $ABC$, $a = |BC|$, $b = |AC|$, $c = |AB|$, $G_a, G_b, G_c$ the points of tangency of the inscribed circle on the sides $BC$, $AC$ and $AB$ respectively, $h_a, h_b, h_c$ the lengths of the heights dropped to the same sides or their continuations. Prove that
+
+a) $S = \frac{1}{2} (ab |G_a G_b|^2 + bc |G_b G_c|^2 + ac |G_a G_c|^2)^{1/2}$;
+b) $S = \frac{1}{2} \left( \frac{|G_a G_b|^2}{\sin \hat{A}} + \frac{|G_a G_c|^2}{\sin \hat{B}} \right)$;
+b) $\frac{|G_a G_b|^2}{h_a h_b} + \frac{|G_b G_c|^2}{h_b h_c} + \frac{|G_a G_c|^2}{h_a h_c} = 1$.
+
+Y. Alley (Võru)
+
+3. The sum of two numbers is twice the size of a triangle, in which the number of tens is equal to the number of tens of the first number, and the number of ones is equal to the number of ones of the second.
+
+Prove that all these numbers are equal to each other.
+
+M. Shterebeg (Saratov)
+
+4. Find single-digit numbers $x, y$ satisfying the equation
+$$\frac{1}{x^y} = \frac{x+y}{1000}.$$
+H. Mikhalkovich (Minsk region)
+
+5. Find all natural $n$ for which
+$$9^n + 10^n > 12^n.$$
+B. Fedomov (Petrozavodsk)

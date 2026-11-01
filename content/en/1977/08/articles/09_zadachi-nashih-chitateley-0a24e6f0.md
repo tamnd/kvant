@@ -1,0 +1,96 @@
+---
+id: 1977-8-zadachi-nashih-chitateley-0a24e6f0
+issue: kvant_1977_8
+year: 1977
+number: "8"
+title: Tasks for our readers
+rubric: smes
+page_first: 39
+page_last: 39
+page_labels: "37"
+tag: 5AEQ
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: f134e3a120e3074ebec9f76bec47070754b71644677485ad2dd3c47af359e78b
+prompt_sha256: draft-1
+translated_from: content/ru/1977/08/articles/09_zadachi-nashih-chitateley-0a24e6f0.md
+source_content_sha256: 2fe0122e9ae02072e6d9d1caa9ab97eba1ea2b0ad3c303c5d3e1e584a4a3382e
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 37⟧
+
+the crowns appear when viewing a drop of blood rolled between two glass plates. In this case, the crowns appear due to diffraction on erythrocytes - red blood cells.
+
+The crowns arising from round and rectangular barriers are somewhat different from each other. The minimum condition for the crowns of rectangular barriers is expressed by correspondence (1). For crowns of round interferences it has the form:
+
+$$d \sin \varphi = 1, 22\lambda; \ 2, 23\lambda; \ \dots$$
+
+Here $d$ is the diameter of the circular screen. Using an eriometer, using formula (5) you can determine the average diameter of spores and red blood cells without a microscope!
+
+In nature, crowns are observed around the Sun, Lunya and even planets. They arise when light passes through clouds consisting of water carcasses (round barriers) or ice crystals - a sign (primangular barriers). Clearly visible crowns are obtained only when the cloud is dominated by droplets of the same diameter or crystals of the same thickness. Sometimes crowns are observed when light from a distant background passes through a layer of fog or window glass covered with frosty patterns.
+
+The right to say
+
+1. Using the known effective wavelength ($\lambda = 0, 56$ µm), use an eriometer to find the diameter of the thread elements from which nylon stockings and tapes are made.
+
+2. How can you determine by the appearance of the crowns whether a cloud consists of water droplets or ice crystals?
+
+3. The coal diameter of Lunya is 32′. Estimate the diameter of the droplets in the cloud if the angular radius of the central circle in the Ventians is four times the angular diameter of Lunya.
+
+Tasks for our readers
+
+1. Given a triangle $ABC$ of area $S$, in which $|AB| = c, |BC| = a, |CA| = b$, $p$ are the half-perimeter, $p_a = p - a, p_b = p - b, p_c = p - c; r_a, r_b, r_c$ are the radii of the outer circles, tangent respectively, $BC, CA, AB; R$ is the radius of the circumscribed circle, $r$ is the radius of the circumscribed circle,
+
+Prove that
+
+a) $$\frac{p_a}{\cos \frac{\hat{A}}{2} \sin \frac{\hat{B}}{2} \sin \frac{\hat{C}}{2}} =$$
+
+$$\frac{p_b}{\cos \frac{\hat{B}}{2} \sin \frac{\hat{C}}{2} \sin \frac{\hat{A}}{2}} =$$
+
+$$\frac{p_c}{\cos \frac{\hat{C}}{2} \sin \frac{\hat{A}}{2} \sin \frac{\hat{B}}{2}} = 4 R;$$
+
+b) $$r_a \mathrm{tg} \frac{\hat{A}}{2} \mathrm{tg} \frac{\hat{B}}{2} =$$
+
+$$r_b \mathrm{tg} \frac{\hat{C}}{2} \mathrm{tg} \frac{\hat{A}}{2} = r_c \mathrm{tg} \frac{\hat{A}}{2} \times \mathrm{tg} \frac{\hat{B}}{2} = r;$$
+
+c) $$S = r_a^2 \mathrm{ctg} \frac{\hat{A}}{2} \mathrm{ctg} \frac{\hat{B}}{2} \times$$
+
+$$\times \mathrm{ctg} \frac{\hat{C}}{2} = r_b^2 \mathrm{ctg} \frac{\hat{B}}{2} \mathrm{ctg} \frac{\hat{C}}{2} \times$$
+
+$$\times \mathrm{ctg} \frac{\hat{A}}{2} = r_c^2 \mathrm{ctg} \frac{\hat{B}}{2} \mathrm{ctg} \frac{\hat{C}}{2} \times$$
+
+$$\times \mathrm{ctg} \frac{\hat{B}}{2};$$
+
+d) $$S = p_a^2 \mathrm{tg} \frac{\hat{A}}{2} \mathrm{ctg} \frac{\hat{B}}{2} \times$$
+
+$$\times \mathrm{ctg} \frac{\hat{C}}{2} = p_b^2 \mathrm{tg} \frac{\hat{B}}{2} \mathrm{ctg} \frac{\hat{C}}{2} \times$$
+
+$$\times \mathrm{ctg} \frac{\hat{A}}{2} = p_c^2 \mathrm{tg} \frac{\hat{B}}{2} \mathrm{ctg} \frac{\hat{C}}{2} \times$$
+
+$$\times \mathrm{ctg} \frac{\hat{B}}{2};$$
+
+e) $$\frac{\mathrm{tg} \frac{\hat{A}}{2}}{r_a^2} + \frac{\mathrm{tg} \frac{\hat{B}}{2}}{r_b^2} +$$
+
+$$\frac{1}{S};$$
+
+g) $$\frac{1}{p_a p_b} + \frac{1}{p_b p_c} +$$
+
+$$+\frac{1}{p_c p_a} = \frac{1}{r^2}.$$
+
+Y. Alla (Võru)
+
+2. In the system
+
+$$\begin{cases} 2 \cdot \text{он} = \text{тук}, \\ 7 \cdot \text{трон} = \text{туктук} \end{cases}$$
+
+Different letters correspond to different non-zero numbers. Determine which four-digit number corresponds to the word “throne”.
+
+M. Shterebere (Saratov)
+
+3. Prove that for any natural number $t$ the value of the polynomial $36 t^4 + 48 t^3 + 40 t^2 + 16 t + 5$ is a composite number.
+
+G. Shaekhov (village N. Tabyn, Tat ASSR)

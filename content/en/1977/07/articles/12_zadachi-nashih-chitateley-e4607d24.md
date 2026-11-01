@@ -1,0 +1,42 @@
+---
+id: 1977-7-zadachi-nashih-chitateley-e4607d24
+issue: kvant_1977_7
+year: 1977
+number: "7"
+title: Tasks for our readers
+rubric: smes
+page_first: 47
+page_last: 47
+page_labels: "45"
+tag: JOTO
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: a917a5da49fbcf52611c20ed7e6a26925bb0523b0008382850b27f9b70ac1e35
+prompt_sha256: draft-1
+translated_from: content/ru/1977/07/articles/12_zadachi-nashih-chitateley-e4607d24.md
+source_content_sha256: 39a311a9359efbd980bbccd0af81dcd59edbdf2926d629a400f8ea702d2ed6fc
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 45⟧
+
+natural element $y$ from $Y$, $y=f(x)$. $X$ is the domain of definition of the function, and the set $\{f(x) | x \in X\}$ is the set of its values. Generally, for arbitrary sets, the word “function” is preferred to the equivalent term “map”. For example, geometric transformations define mappings of a set of points of a plane (or space) onto themselves. By associating each triangle with a circle inscribed in it, we obtain a mapping of a set of triangles onto a set of circles, and by associating a triangle with its area, we obtain a mapping of a set of triangles onto a set of plane numbers. The functions considered by Leibniz and Bernoulli, Euler, Lobachevsky and Dirichlet are mappings of one number set onto another (for example, the function $y=\sqrt{R^2-x^2}$, $-R \leq x \leq R$, maps the segment $[-R; R]$ to the segment $[0; R]$). They are called numerical functions.
+
+We have traced the development of the concept of function from its origins to modern generalizations. Given the general approach to the concept of function, which is now accepted, it is already difficult to grasp its origin from problems in physics, astronomy and geometry. But still, the fundamental fact remains that for a given value of some physical quantity, the quantity depends on it and takes on a perfect definition of value. This is precisely what makes it possible to use the function of nal dependencies both when calculating the flight of an interplanetary spacecraft, and when studying the forces acting in the atomic nucleus, and when choosing the most advantageous plan of arbitrariness.
+
+Exercise
+our
+readers
+
+The sequence $(a_n)$ is defined as follows: $a_1 = \frac{1}{2}, a_2 = \frac{1}{3}$, $a_{n+1}$ is equal to the last fraction in the expansion of $a_{n-1} + a_n$ into a whole fraction. For example,
+
+$$a_1 + a_2 = \frac{1}{2} + \frac{1}{3} = \frac{1}{1 + \frac{1}{5}},$$
+
+a) What is $a_{1000}$ equal to?
+
+b) Will $a_k$ always be the reverse of a prime number?
+
+P. Kirey (Nikolaev)

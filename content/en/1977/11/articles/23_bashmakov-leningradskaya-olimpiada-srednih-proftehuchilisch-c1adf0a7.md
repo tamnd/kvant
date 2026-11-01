@@ -1,0 +1,73 @@
+---
+id: 1977-11-bashmakov-leningradskaya-olimpiada-srednih-proftehuchilisch-c1adf0a7
+issue: kvant_1977_11
+year: 1977
+number: "11"
+title: Leningrad Olympiad of secondary vocational schools
+authors:
+  - Башмаков М. И.
+rubric: informatsiya
+rubric_sub: Информация
+page_first: 76
+page_last: 76
+page_labels: "74"
+tag: 56ZL
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 4eedb68f04e15bd81d029a8f09b47df6750e8a3b9d5c8638ac6a264494f4a72a
+prompt_sha256: draft-1
+translated_from: content/ru/1977/11/articles/23_bashmakov-leningradskaya-olimpiada-srednih-proftehuchilisch-c1adf0a7.md
+source_content_sha256: 809af3f21111e31a6730415d6e388c33d4d547c250cd46104f6616b254bb879f
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 74⟧
+
+Leningrad Olympiad of secondary vocational schools
+
+The preparation of qualified members of the working class led to the creation of a new type of educational institution - a secondary vocational technical school (vocational school). Secondary vocational schools have received especially great development in the city of Leningrad, where there are now more children studying in vocational schools than in senior secondary schools. Together with working specialized vocational school, in three years you will receive a half-grade secondary education. All paths are open to them. Many vocational school graduates continue their education in the evening and full-time departments of higher education institutions.
+
+Among the increasing number of vocational schools, there are many who love mathematics and physics. Clubs and youth schools have been created for them, lectures are given, and Olympiads are held. Leningrad University provides great assistance to vocational schools. Literally all teachers and students of the Faculty of Mathematics and Mechanics of Leningrad State University - the initiators of providing patronage assistance to vocational schools - participate in this fruitful endeavor. With the active maintenance of the dean's office, the classrooms of PTU-24 are equipped with calculating machines. Faculty professors give lectures to future turners and mechanics, and lead mathematical and astronomical circles.
+
+With the active support of the faculty, this year the third Physics and Mathematics Olympiad was held to increase the participation of vocational schools in Leningrad and the region. It admits about 75 thousand students from 136 vocational schools. About 900 people took part in the final type, which took place within the walls of Leningrad University. Among the winners of the Olympiad are future mechanics and turners, builders and drivers. The jury of the Olympiad, which included professors, teachers and students of the university, was pleased to note the interest in mathematics and physics that the participants of the Olympiad showed. For the first time, a team of 3 members was formed from the winners of the Olympiad, which took part in the final type XI of the All-Scholastic Olympiad in Mathematics. A team of vocational school students brought first and second degree commendations from this Olympiad.
+
+Unfortunately, Olympiads for vocational school students are currently held only in Leningrad. It would be extremely useful if holding Olympiads for vocational school students became the same tradition as holding All-Union Olympiads for schoolchildren.
+
+Below we present the texts of problems in mathematics of the Leningrad Olympiad of secondary vocational schools.
+
+1 course
+1. How many real roots does the equation have?
+$$x^3 - 3x = \sqrt{5}$$
+
+2. Given two crossing lines a and b. Is it possible to draw a line through any point in space intersecting lines a and b?
+
+3. Through the point M with coordinates (0; 1) a straight line is drawn intersecting the parabolic y = x² at points A and B. Prove that the product of the distances from points A and B to the ordinat axis is equal to one.
+
+4. 25 numbers are given. The sum of any four of them is positive. Prove that the sum of all numbers is positive.
+
+II course
+1. Find the range of a function
+$$y = \sin^6 x + \cos^6 x$$
+
+2. In the triangular paramid ABCD the points are marked: K - midpoint AD, M - midpoint AC, P - midpoint BD, T - midpoint BC. The planes APT and BKM were drawn, which divided the paramid into four parts. Find the volume of that of these parts that is adjacent to the edge AB if the volume of the entire paramid is equal to V.
+
+3. Prove that the four intersection points of parabolas
+$$y = x^2 + x - 40,$$
+$$x = y^2 + y - 41$$
+
+lie on the same circle.
+
+4. The number given is 51. The product of all these numbers, as well as the product of any four of them, is positive. Prove that every number is positive.
+
+III course
+1. Find the smallest value of a function
+$$y = \sin^{100} x + \cos^{100} x$$
+
+2. Given two crossing lines. What set is formed by the midpoints of all segments whose ends lie on these lines?
+
+3. Given a square triangle f(x) = x² + px + q. Prove that at least one of the three numbers f(0), f(1), f(-1) is not less than positive in modulus.
+
+4. Several cities are connected in pairs by roads. One path left each city, heading to the city closest to it. Prove that if there are an odd number of cities, then nothing will come to one of them. (Assume that the distances between cities are pairwise different.)

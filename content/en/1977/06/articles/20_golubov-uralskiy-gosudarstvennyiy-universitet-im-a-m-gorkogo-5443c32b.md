@@ -1,0 +1,79 @@
+---
+id: 1977-6-golubov-uralskiy-gosudarstvennyiy-universitet-im-a-m-gorkogo-5443c32b
+issue: kvant_1977_6
+year: 1977
+number: "6"
+title: Ural State University named after. A. M. Gorky
+authors:
+  - Голубов Э. А.
+rubric: ekzamenatsionnye-materialy
+page_first: 81
+page_last: 81
+page_labels: "79"
+tag: IUUE
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 293b77c4d91f13ba7884583fcc7846e237f1e4e84735feed45cb17d1150f3f47
+prompt_sha256: draft-1
+translated_from: content/ru/1977/06/articles/20_golubov-uralskiy-gosudarstvennyiy-universitet-im-a-m-gorkogo-5443c32b.md
+source_content_sha256: bfe23ce7da68fa4af604529f09a2fe1fc3498885a5c0aefebfb9ac63140cbcd5
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 79⟧
+
+5. Given a ball of radius $R$ and a cutting plane. It is known that the total surface area of ​​the smaller part of the ball, cut off by a given plane, is $k$ times less than the surface area of ​​the ball. Determine the distance from the center of the ball to the given cutting plane.
+
+Faculty of Geology and Department of Political Economy, Faculty of Economics
+
+1. Wanting to get to point $B$ at the right time, I automatically left point $A$ at speed $64 \text{ km/час}$. For three hours he drove at this speed. Then a traffic jam forced him to stop. Protsyarov 50 minutes, automatically decided to drive to point $B$ along the route, so his distance increased by 31 km. As a result, he arrived at point $B$ 1 hour 5 minutes late, although he drove the second part of the journey at a speed 6 km/h faster than at first. Find the shortest distance between points $A$ and $B$ along the road along which you automatically wanted to get to point $B$.
+
+2. Solve the equation
+$$16 \cos^2 x = 6 \cdot 4^{-2} \sin^2 x + 1.$$
+3. Solve inequality
+$$3x + \sqrt{5x - 1} < 1.$$
+4. Solve the equation
+$$\log_{(x+1)}(1 - 3x) = -1 + \log_{\sqrt{1-3x}}(1 - 2x - 3x^2).$$
+5. In a right triangle, one acute angle is twice the size of the other acute angle, and the sum of the lengths of the legs is $l$. Find the area of ​​the triangle.
+
+Faculty of Biology and Geography
+
+1. The team completed the work plan by 98%. Increasing the randomness of the work of each worker by 1/20 of the planned volume of work of the entire team allows, by freeing up three people to perform other tasks, to complete the work by 132%. How many people were in the brigade?
+
+2. Solve inequality
+$$\log_a x > \sqrt{\frac{6}{(\log_a x - 1) \log_x a}}.$$
+3a (For biology department only). Solve the equation
+$$\cos 3x \cdot \sin^3 \left(x + \frac{\pi}{6}\right) - \sin 3x \cdot \cos^3 \left(x + \frac{\pi}{6}\right) = -\frac{1}{8}.$$
+36 (Only for the Faculty of Geography). Solve the equation
+$$\frac{2(\cos^3 x - \cos 3x)}{3 \sin x} = 1 + 5 \cos 2x.$$
+4. An equilateral triangle $ABC$, with $|AB| = |AC|$, $\hat{A} = \alpha$ and area equal to $S$, has a square inscribed in such a way that one of its sides lies on the base of the triangle. Find the smallest distance from the vertex $A$ to the vertices of the square.
+
+5. The base of the recognition is a square from the side of length $a$, and the side edges are inclined to the plane of the base at an acute angle $\alpha$, and the projection of one of them contains the diagonal of the square. From the vertex of the square, for which the edge and the diagonal of the square passing through it form an acute angle, a secant plane is drawn parallel to another diagonal at an angle $\beta$ to the plane of the base. Find the cross-sectional area under the assumption that the section does not intersect the top with the base.
+
+V. Osinov, A. Shepelyavoy
+
+Ural State University named after. A. M. Gorky
+
+In «Kvant», 1973, No. 7, we talked about the Ural Order of the Red Banner of Labor State University named after. A. M. Gorky. In this issue we provide samples of options for a written exam in mathematics and problems for an oral exam in physics at the faculties of mathematics, mechanics and physics in 1976.
+
+Mathematics
+
+Faculty of Mathematics and Mechanics
+
+1. For what value of the parameter $m$ are the roots $x_1, x_2$ of the equation $mx^2 + x + m = 0$ real, distinct and satisfy the inequality $|x_1 - x_2| + (x_1x_2)^m + x_1 + x_2 \leq 0$?
+
+2. All faces of a paralleliped are rhombuses with side $a$ and acute angle $\alpha$. Find the volume of this paralleliped.
+
+3. Find all values ​​of $x$ satisfying the simultaneous conditions: $\cos x - \cos 11x = 0$, $\cos 2x + \sin 3x = 1$, $|x| < 3$.
+
+4. Solve the equation
+$(\log_t g_x \cos x + 2) \log_t g_x \cos x = 2 - \log_ct g_x \cos x$.
+
+Faculty of Physics
+
+1. The spacecraft $A$ was sent from Earth to the star $X$, and 12 years later - the spacecraft $B$. Both devices reached the target and, without leaving, headed towards Earth. The device $B$ returned 8 years earlier than $A$. How many years after the launch of $A$ these devices met, if at the moment when $A$ reaches $X$, $B$ has passed 9/10ths of its way to $X$? The speeds of the devices and the distance to the star are considered constant.
+
+2. The base of a right paralleliped is inscribed in a circle of radius $R$. However

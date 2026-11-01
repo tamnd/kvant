@@ -1,0 +1,78 @@
+---
+id: 1977-11-krivosheev-kak-reshit-kubicheskoe-uravnenie-5bc68b51
+issue: kvant_1977_11
+year: 1977
+number: "11"
+title: How to solve a cubic equation?
+authors:
+  - Кривошеев В.
+rubric: smes
+page_first: 54
+page_last: 54
+page_labels: "52"
+tag: LIYK
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 18bbb6a5076f82d99dd9066e53b5b99953481dbab1ba17ec3b960c5399d1f381
+prompt_sha256: draft-1
+translated_from: content/ru/1977/11/articles/14_krivosheev-kak-reshit-kubicheskoe-uravnenie-5bc68b51.md
+source_content_sha256: 8bf4a37c530b83e7c10614a9ed51941b74b7f9d38e23584c49fea5bdca118156
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 52⟧
+
+F444. A heavy box of mass M rolls down rollers forming an inclined plane (Fig. 6). The distance between the rollers is l, their radii are r and their masses are m. The angle of the plane to the horizon is equal to α. Find the speed of movement of the box if it is known that it is built. Assume that the rollers are hollow and the thickness of their walls is d << r.
+
+Fig. 6.
+
+When the wizz box moves along an inclined plane under it, the rollers begin to move and begin to unwind. The fact that the box moves at a constant speed means that a drag force $\vec{F} = -M\vec{g} \sin \alpha$ acts on it from the rollers.
+
+Let's assume that the box moves at speed $\vec{v}$ and its length is large enough so that it has time to spin the rollers to a linear speed $u = |\vec{v}|$. The roller unwinds due to the blind friction $\vec{f}$ acting on it from the side of the box until its linear speed becomes equal to $|\vec{v}|$. After this, the friction between this roller and the box disappears.
+
+From the symmetry messages it is clear that the action of the friction force on the roller is equal to the action of the same absolute value of the force $|\vec{f}|$ applied to the roller at any point tangential to the rim of the roller and “rotating” together with the roller. Since the force acting on the roller is constant in absolute value, the linear speed of rotation of the roller under the action of force $|\vec{f}|$ changes with time according to a linear law. Let Roll spin up in time $\tau$ to linear speed $u = |\vec{v}|$. The force $\vec{f}$ does the work $|\vec{f}||\vec{v}| \tau/2$ (the average speed of Rolika is $|\vec{v}|/2$, let the distance passed by the point of application of the force be $|\vec{v}| \tau/2$). This work is equal to the kinetic energy of Rolika:
+
+$$\frac{|\vec{f}| |\vec{v}| \tau}{2} = \frac{m |\vec{v}|^2}{2}.$$
+
+Since the Roller unwinds to linear speed $|\vec{v}|$ in time $\tau$, there are $N = |\vec{v}| \tau/l$ Rollers under the box the entire time, the linear speed of which is less than $|\vec{v}|$. The friction force with which these Rollers act on the box is equal to
+
+$$|\vec{F}| = N |\vec{f}| = \frac{|\vec{v}| \tau}{l} |\vec{f}| = M |\vec{g}| \sin \alpha.$$
+
+From (1) we have: $|\vec{v}| \tau |\vec{f}| = m |\vec{v}|^2$. Substituting this expression into (2), we get:
+
+$$\frac{m |\vec{v}|^2}{l} = M |\vec{g}| \sin \alpha.$$
+
+From here
+
+$$|\vec{v}| = \sqrt{\frac{M}{m} |\vec{g}| l \sin \alpha}$$
+
+T. Petrova
+
+How to solve a cubic equation?
+
+Many of you have read about the dramatic story surrounding the solution of cubic equations (see «Kvant», 1976, no. 9). Modern algebraic symbols now allow even a schoolchild to cope with this task, but in the 17th century even leading mathematicians were unable to do this. This is an elegant method offered by our reader V. Krivo Sheev (Cherkassy).
+
+It is known that any cubic equation can be reduced to the form
+
+$$y^3 + by + c = 0.$$
+
+By chance I discovered the following substitutions to solve it.
+
+a) Let $b > 0$. Let's put
+
+$$y = \sqrt{\frac{b}{3}} \left( z - \frac{1}{z} \right),$$
+
+we get (easy to check) the equation
+
+$$\frac{b}{3} \sqrt{\frac{b}{3}} \left( z^3 - \frac{1}{z^3} \right) + c = 0.$$
+
+Next we put $z^3 = t$, after reduction to a common denominator we get a quadratic relative $t$ equation.
+
+6) Let $b < 0$. Let's put
+
+$$y = \sqrt{\frac{b}{3}} \left( z + \frac{1}{z} \right)$$
+
+and further similar to point a).

@@ -1,0 +1,45 @@
+---
+id: 1977-11-tyulina-planeta-zheni-rudnevoy-76a209c6
+issue: kvant_1977_11
+year: 1977
+number: "11"
+title: Planet of Zhenya Rudneva
+authors:
+  - Тюлина И. А.
+rubric: raznoe
+rubric_sub: Разное
+page_first: 40
+page_last: 40
+page_labels: "38"
+tag: 05T7
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: eb047a3968f0eef97793543647e6a6d588be10c5d2a5c38572a8ebd64447bdb5
+prompt_sha256: draft-1
+translated_from: content/ru/1977/11/articles/08_tyulina-planeta-zheni-rudnevoy-76a209c6.md
+source_content_sha256: 1b53274a83eccbcb3afd67f3f0fc63e33e681eb72cab03a60734ec611752ab4a
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 38⟧
+
+I. Tyulina
+
+Planet
+Zhenya Rudneva
+
+In this anniversary year, one of the minor planets of the Solar system - the astrofund 1907, discovered on September 11, 1972 by L.I. Chernykh, a member of the Crimean Public Academy of Sciences of the USSR, was given the name "Rudneva" in honor of Moscow State University student Evgeniy Rudneva. What did the outstanding student of the Faculty of Mechanics and Mathematics of Moscow State University do and why was her name given to the planet?
+
+And at school, and at the university, and then during the three cruel years of the war, Zhenya passionately loved the starry sky, she loved it in a special way, as if it were her blood, for which she was responsible. Here is an entry in the diary of Zhenya, a ninth-grader:
+
+"Dark. We are blowing a light breeze from the river, spicy and spicy. The stars are shining in the sky. I haven’t given up on my dreams yet, and it seems to me that I won’t give up. Why take away happy moments from yourself? So I look at the starry sky, at Orshon, at Sirus and dream about how I will study their spectra, I see myself in the observatory... But in reality? After all, how much longer do I have to study! But how I already look at the sky as my future property.”
+Zhenya's abilities were varied. Everything was easy for her at school. She read a lot beyond the syllabus: in chemistry, literature, history, but most of all in astronomy and mathematics. At Moscow State University she went to clubs and lectures. “When I think that I am me! - I can’t be a university student, I can’t believe it, I have too much respect for the university. Most likely they won’t accept me as a fool.” She writes in her diary that a year ago there were four excellent students per place, and from year to year this number increases.
+
+Zhenya reacted vividly to all international events and to the successes of our country: events in Spain, publication of the draft Constitution, the first election to the Supreme Soviet of the USSR. After watching the film “Lenin in October” (I remember how excited everyone was about this beautifully produced film), Zhenya writes in her diary words that turned out to be prophetic:
+
+“When you look at this picture, you cannot be indifferent: you look at the screen, but think about yourself. Oh, I know very well why I live, but now I understood it, I felt it like never before: the hour will come when I can die for the cause of my people the way they died, the unknown heroes from this wonderful film. I want to devote my life to science, and I will do it: all the conditions for the creation of Soviet power are for me, so that I can realize my dream, no matter how dare it may be. But I am a Komsomol member, and the common cause is more valuable than my own personal one (this is exactly how I viewed my profession), and if the party, the working class demands this, I will forget astrophonomy for a long time, I will become a military officer, an orderly, an industrialist. Lots of films like this: they charge for a long time...”
+
+Zhenya entered the mechanic school. She studied there as a lecturer. Already in her second year she began to print works. Zhenya made several reports at the Variable Stars Department. One of them was devoted to spectroscopic double stars. Remember how she dreamed by the river that she would study the spectra of stars? That's how it all happened. Her talent was noticed by professors and students. Famous astronomer Pavel Petrovich Pare-
