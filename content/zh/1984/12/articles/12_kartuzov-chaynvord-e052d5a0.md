@@ -1,0 +1,68 @@
+---
+id: 1984-12-kartuzov-chaynvord-e052d5a0
+issue: kvant_1984_12
+year: 1984
+number: "12"
+title: 华进
+authors:
+  - Картузов И. И.
+rubric: smes
+page_first: 28
+page_last: 28
+page_labels: "26"
+tag: 42KZ
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 9d376177c13f6349760bef58e6cc2df2584b842d0158ee1318df4c0df6e21dda
+prompt_sha256: draft-1
+translated_from: content/ru/1984/12/articles/12_kartuzov-chaynvord-e052d5a0.md
+source_content_sha256: c8eb3f9eeebd83e26eb30bcbc600b8f3c788487f901f2de08c470dde271a5f19
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 26⟧
+
+找到极角（或互补角）三角形。
+
+极角*)。给定三角形角$SABC$。让我们通过其顶点 $S$ 到平面 $SBC$ 绘制一个重分配器，并在其上选择一条射线 $SA_1$（从两个可能的射线中），使角度 $ASA_1$ 为钝角。换句话说，点 $A$ 和 $A_1$ 必须位于平面 $SBC$ 的相对两侧。 （自己解释一下为什么角度 $ASA_1$ 不能是直角。）射线 $SB_1$ 和 $SC_1$ 的选择类似：$(SB_1) \perp (SAC), (SC_1) \perp (SAB)$，角度 $BSB_1$ 和 $CSC_1$ 是钝角。三面角为 $SA_1B_1C_1$，据说是极角 $SABC$。
+
+极角的许多用途都基于以下两个有趣的属性：
+
+1) uelol，极对极，与原来的tregon角重合；
+2) 对于互极三角角 $SABC$ 和 $SA_1B_1C_1$
+
+$$\alpha_1 = \pi - \hat{A}, \beta_1 = \pi - \hat{B}, \gamma_1 = \pi - \hat{C}, (4)$$
+
+$$\hat{A}_1 = \pi - \alpha, \hat{B}_1 = \pi - \beta, \hat{C}_1 = \pi - \gamma. (5)$$
+
+自己证明这些性质（参见练习 5）。
+
+第二余弦定理的证明。让我们写下给定角度 $SABC$ 的极角$SA_1B_1C_1$ 的第一个余弦定理：$$\cos \alpha_1 = \cos \beta_1 \cos \gamma_1 + \sin \beta_1 \sin \gamma_1 \cos \hat{A}_1,$$ 并使用对应关系 (4) 和 (5)。我们得到
+
+$$\cos (\pi - \hat{A}) = \cos (\pi - \hat{B}) \cos (\pi - \hat{C}) + \sin (\pi - \hat{B}) \sin (\pi - \hat{C}) \cos (\pi - \alpha),$$
+
+(3) 紧随其后。
+
+锻炼
+
+1. 证明凸二面角的比塞特是该角的点的集合，等于其面的长度。
+2. 给定一个二面角和一条与其边缘相交并穿过其内部的线 $l$。
+a) 让它不重新分布到二面角的边缘。证明可以通过线 $l$ 画一个平面，使得它是截面中半闭角的比瑟线，并且这样的平面是唯一的。
+b) 如果给定的线重新分布到边缘，在什么情况下我们可以从步骤 a) 中绘制平面？
+3. 证明以下三个平面有公共直线：
+a) 二面角或三面角的 bissertor 平面（“bissertrixes”）；
+b）穿过三角形角的边和相对平面角的二等分线（“中线”）的平面；
+b) 穿过三角形角的 hen gram 通过其 bissertrixes 重新分布的平面（“sered redistributions”）。
+
+（最后见第42页）
+
+茶沃德
+
+填写下面列表 1-12 中给出的单词的字母，记住前一个单词的最后一个字母是下一个单词的开头。把奇数的字母写在方格上，就可以得到19世纪上半叶法国一位杰出数学家的名字。究竟是哪一个？
+
+1. 立体几何图形。 2、20世纪初期杰出的苏联数学家。 3. 从三角形的顶点到对边的垂线。 4.棱锥侧面的高度。 5.数学部分。 6.法国物理学家、数学家。 7. 连接圆心和圆上一点的线段。 8.数学符号。 9. 数学符号。 10. 19世纪法国数学家、机械师。 11.三角函数。 12. 由圆弧和对着它的弦所包围的圆的一部分。
+
+卡尔图佐夫

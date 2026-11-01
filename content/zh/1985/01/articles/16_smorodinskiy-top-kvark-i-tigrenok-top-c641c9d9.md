@@ -1,0 +1,55 @@
+---
+id: 1985-1-smorodinskiy-top-kvark-i-tigrenok-top-c641c9d9
+issue: kvant_1985_1
+year: 1985
+number: "1"
+title: 顶夸克和虎崽 顶夸克
+authors:
+  - Смородинский Я. А.
+rubric: novosti-nauki
+rubric_sub: Новости науки
+page_first: 43
+page_last: 43
+page_labels: "41"
+tag: 00KM
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: d09fc33b7bbf9ec09f6c565f8271a7ae83392d21ac16bdf235a3896963904647
+prompt_sha256: draft-1
+translated_from: content/ru/1985/01/articles/16_smorodinskiy-top-kvark-i-tigrenok-top-c641c9d9.md
+source_content_sha256: 606e77acc8336808ca87e7210e71e421e5c6c26c1611afa703b3e61973ac7f40
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 41⟧
+
+顶夸克和虎崽顶
+
+去年七月，莱比锡动物园出生了一只小老虎。他被赋予“Top”这个名字，这并非偶然。就在此时，在莱比锡举行的基本粒子物理学会议上，报道了真正基本粒子的代表——第六夸克的发现。这种夸克甚至在它“诞生”之前就被称为“顶夸克”（英语中的“top”），它最终填补了夸克表中缺失的一环——核子、介子和许多其他粒子是由夸克构成的令人惊奇的粒子。
+
+因此，令人惊奇的夸克是因为它们具有分数电荷，是 1/3 的倍数（如果我们将质子的电荷算作 1）。此类颗粒从未在任何实验室进行过登记。一项至今仍无法解释的定律禁止带分数电荷的粒子以自由态出现；只有带完整电荷或根本不带电荷的粒子才能从原子核或基本粒子中飞出。
+
+现在已知三对夸克。我们提供了所有六个夸克的表格，以及它们的名称（俄罗斯和国际）和电荷值（如果将给定的电荷值乘以质子电荷 1.6 × 10⁻1⁹ C，则可以得到国际单位制中的夸克电荷）。
+
+可以为反夸克编制同一张表——它们与夸克的区别仅在于电荷符号。
+
+请注意，该表没有质量列，这并非巧合。由于夸克并不存在于自由状态，因此，严格来说，不仅不可能说出它们的静止质量，甚至无法准确确定夸克的质量意味着什么。然而，尽管自由夸克很可能在自然界中不存在，但人们对夸克了解很多。第一对夸克——u-夸克和d-夸克——是质子和中子的一部分。一个质子由两个u夸克和一个d夸克组成，一个中子由一个u夸克和两个d夸克组成。放射性中子衰变
+
+$$n \rightarrow p + e^- + \bar{v}$$
+
+夸克表
+
+| 象征 | 姓名 | 收费 |
+| :--- | :--- | :--- |
+| u | up | 2/3 |
+| d | down | -1/3 |
+| s | strange | -1/3 |
+| c | charm | 2/3 |
+| b | 底部或 | -1/3 |
+| t | beauty | -1/3 |
+| v | 顶部或 | 2/3 |
+
+*) W-玻色子在“新粒子的发现”一文中讨论过（«Kvant»，1983年，第5期）。最近，这些粒子的发现者 K. Rubbin 和 S. Van der Meyer 荣获诺贝尔奖。

@@ -1,0 +1,37 @@
+---
+id: 1985-2-obyavlenie-o-nabore-v-vechernyuyu-shkolu-pri-vmk-mgu-im-m-v-lomonosova-7094ae7c
+issue: kvant_1985_2
+year: 1985
+number: "2"
+title: 【关于莫斯科国立大学夜校招生的公告。 MV罗蒙诺索娃]
+rubric: informatsiya
+page_first: 20
+page_last: 20
+page_labels: "18"
+tag: PEFJ
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: f6450398138a3f4753c969b96691331441ed7c61cf34f9bb76bbe2f74401e2c9
+prompt_sha256: draft-1
+translated_from: content/ru/1985/02/articles/08_obyavlenie-o-nabore-v-vechernyuyu-shkolu-pri-vmk-mgu-im-m-v-lomonosova-7094ae7c.md
+source_content_sha256: a158cd5a3a5bac10157d807081ada395de2186b7d608b1b5c5eaead5d3b24086
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 18⟧
+
+在 $z=z_m$ 平面上。因此，波阵面是一个圆柱面，因此，声音的完整性随着距声源的距离与$1/R$成比例地减小，其中$R$是从声源到观察地点的距离（将这种依赖性与您之前收到的三维空间中的球形声波的完整性损失定律进行比较，以及与一维声波的情况进行比较，对于一维声波，完整性不受影响）随距离而变化）。
+
+声音衰减的另一个原因是声波在海水中传播时的衰减。由于水中的摩擦力，波浪能转化为热量。此外，声波在海洋中以各种异质性消散，其中可能包括悬浮在水中的颗粒、气泡、浮游生物甚至鱼类的气泡。这种现象特别用于使用超声波定位来检测鱼群。
+
+总之，我们注意到所描述的水下声音通道绝不是自然界中存在的波导的唯一例子。因此，仅由于无线电波在大气中沿着巨型波导传播，地面无线电台的进一步无线电广播才成为可能。在确定大气条件时，还可以为频率在光范围内的电磁波形成波导通道。然后，由于超远的海市蜃楼，在中心你可以看到一艘空帆船，突然一座城市在海洋中央升起。
+
+应用
+让我们考虑声波在两种介质之间的界面处的反射和传播问题。
+
+信息
+
+莫斯科国立大学计算数学和针织学院的夜间数学学校。 M. V. Lomonosov 宣布 7-9 年级学生春季入学。 VMS 的主要目标是深化学校课程范围、扩展数学知识、教授编程和计算机工作的基础知识。学校的课程以讲座和研讨会的形式进行。为 VMS 学生组织与教师科学家的会议。成功完成学业的学生将获得高等医学院的结业证书。根据所有者的结果随机接收，包括 3 月 10 点，地址：119889，莫斯科，Leninskie Gory，莫斯科国立大学计算机科学学院；查询电话号码 139-53-74。
