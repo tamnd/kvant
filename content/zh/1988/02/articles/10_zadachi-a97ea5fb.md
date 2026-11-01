@@ -1,0 +1,41 @@
+---
+id: 1988-2-zadachi-a97ea5fb
+issue: kvant_1988_2
+year: 1988
+number: "2"
+title: 任务
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 39
+page_last: 39
+page_labels: "37"
+tag: SY16
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 825e87478341258db0cf2e090b5e5e82472e4465eb416594868c9e5df0f6bed5
+prompt_sha256: draft-1
+translated_from: content/ru/1988/02/articles/10_zadachi-a97ea5fb.md
+source_content_sha256: 0f149163e56a0f22bc7e6c571f6458e38e95c4c9aa2445a8bb5eddb41f92b750
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 37⟧
+
+任务
+
+1. 日历表部分被上一张表覆盖（参见图）。它的哪一部分应该打开或关闭？
+
+2. 有些人对整数 $A$ 进行了立方。证明至少一个数字：$A^3-A$ 或 $A^3+A$ 能被 10 整除。
+
+3. 为什么鸟儿在寒冷的天气里要绣羽毛？
+
+4. 一个三位数以数字 7 开头。从它开始，将此数字移到该数字的末尾即可获得其他三位数。结果数字比之前少了117。你看的是什么号码？
+
+5. 将数字 1、2、...、9（每一个）写在方框中，这样乘积就是最大的。
+
+这些任务是由以下人员向我们提供的：A. M. Domashenko、G. A. Galperin、A. P. Savin、N. K. Antonovich、L. P. Motsalov。
+
+37
