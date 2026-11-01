@@ -1,0 +1,40 @@
+---
+id: 1980-9-kikoin-nauka-delo-molodyih-f3ccd374
+issue: kvant_1980_9
+year: 1980
+number: "9"
+title: Science is the work of the young
+authors:
+  - Кикоин И. К.
+rubric: otkryvayushchie-stati
+page_first: 6
+page_last: 6
+page_labels: "4"
+tag: UFYB
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: d2048a76858dc5b87d1f4387a52c2626ea508741f74af3daec9efc392d34a961
+prompt_sha256: draft-1
+translated_from: content/ru/1980/09/articles/05_kikoin-nauka-delo-molodyih-f3ccd374.md
+source_content_sha256: d9bdc3d4027b5c744af7897dd84faafebab9c5b3e727755d4b4c1b9a9d272996
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 4⟧
+
+I. Kikopin
+
+Science is the work of the young
+
+Many believe that scientific work, discoveries, and the formation of the laws of nature are the result of the work of venerable scientists, that is, people of respectable age who have accumulated knowledge and extensive experience in their specialty. In reality, as the history of science shows, this is not the case: the greatest discoveries were made by young people.
+
+Although it is easiest for me to talk about physics, I cannot help but mention the outstanding work of Vladimir Ilyich Lenin, “The Development of Capitalism in Russia.” This work was published in March 1899, therefore Lenin wrote it at the age of 28. In preparing this work, he used a total of about 600 books and articles. This is a major work in which Lenin for the first time, contrary to the generally accepted point of view at that time, proved that Russia was developing along the capitalist path, in full accordance with the teachings of Marcas. The work had a huge impact on the revolutionary movement in Russia. The further course of events led to the development of the scientific ideas of its author in the work. I will note here that before this Lenin managed to write over 30 works in which he developed the program and tactics of the party.
+
+Most people are familiar with the portrait of Galileo - an old man with a sick beard. Galileo (1564-1642) did live a long time, but he made his first major discovery in physics in 1583, when he was about 20 years old. Observing the oscillations of the logra in the cathedral and comparing the period of oscillations with the beat of his own pulse, he established that the period of oscillations of the logra does not depend on the amplitude (the law of magnetic isochronism). This discovery served as the basis for the creation of watches. At the age of 25, Galileo became a professor. Soon he experimentally established his famous laws of falling bodies under the influence of gravity.
+
+Classical mechanics, which served basic physics for more than two centuries, was created by Newton, who was born in the year of Galileo's death. Newton (1642-1727), like Galileo, made one of his largest discoveries - the discovery of the law of universal gravitation - at the age of about 20 (by coincidence, it was published much later).
+
+All ninth-graders know the name of the famous Russian physicist Emilius Khristanovich Lenz (1804-1865). The so-called Lenz rule regarding the direction of the induction electric field was formed by him in 1833 in his work “On determining the direction of galvanic currents excited by electrodynamic induction.” At this time Lenz was 29 years old. At the age of thirty he was elected academician.

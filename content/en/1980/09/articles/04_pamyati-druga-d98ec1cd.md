@@ -1,0 +1,40 @@
+---
+id: 1980-9-pamyati-druga-d98ec1cd
+issue: kvant_1980_9
+year: 1980
+number: "9"
+title: In memory of a friend
+rubric: otkryvayushchie-stati
+page_first: 5
+page_last: 5
+page_labels: "3"
+tag: 5YT9
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 87f5b169628b242400e554523c09f5fe1bf1837d9a5c5f07ad7280e34a5e208d
+prompt_sha256: draft-1
+translated_from: content/ru/1980/09/articles/04_pamyati-druga-d98ec1cd.md
+source_content_sha256: 56ed6845a37f5f48c73e684c99e306dac593ab4c1263328e7faa3f94c939292f
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 3⟧
+
+In memory of a friend
+
+The editorial collection of the magazine «Kvant» reflected a bereavement. One of the founders of the journal and its most active employees, Candidate of Physical and Mathematical Sciences Joseph Shavich Slobodetsky, tragically died.
+
+A talented, energetic, unusually hard-working person, he completely got off the job, never losing sight of the main goal - to benefit people. In his short but such a bright life, he managed to do a lot.
+
+I. Sh. Slobodetsky was born on April 28, 1941 in Kyiv. After graduating from high school, he studied at the Moscow Institute of Physics and Technology at the Faculty of General and Applied Physics, and then worked at the Institute of High Pressure Physics of the USSR Academy of Sciences. In all his scientific activities, with talent and deep professional erudition, the theoretical physicist showed a constant interest in the practical applications of theoretical research.
+
+Boundless love for children and love for science naturally led Joseph Shavich to serious work with schoolchildren. His contribution to the matter of attracting new generations of youth to science is truly invaluable. Even in his student years, I. Sh. Slobodetsky was one of the initiators of physical and mathematical optimization at MIPT. In this activity he was a true ascetic. Largely thanks to his enthusiasm and excellent organizational ability, MIPT optimization eventually grew into the All-Russian and then the All-Union Schoolchildren Optimization. He knew how to convince people, captivate them with his ideas, and persistently achieve the implementation of these ideas in specific cases. The central role of I. Sh. Slobodetsky in the creation and all subsequent work of the editorial board of the magazine «Kvant». He was the permanent head of the “Problem book «Kvant» in physics” section, an active organizer and principal judge of all the work of the physics department of the magazine. Readers also know him as a regular contributor to the magazine.
+
+Iosif Shavich devoted a lot of strength and energy to the popular science series “Library «Kvant»”, a member of the editorial collection and scientific secretary of which he was from the moment of the creation of this series. I. Sh. Slobodetsky was a scientific editor of physics textbooks for high school and a number of popular science books published by the publishing houses “Nauka”, “Mir”, and “Prosveshchenie”. Many excellent problems in physics are collected in two books, which he recently prepared for publication. I. Sh. Slobodetsky took an active part in the work of the All-Union Society “Knowledge”, where he was a member of the scientific and methodological council for the promotion of physical and mathematical knowledge.
+
+His deep scientific intuition, ebullient energy and rare gift of communication that he possesses aroused deep respect for his friends and work colleagues. With him he shared his various scientific and publishing plans, projects for his new books on physics. It is difficult to come to the conclusion that these plans do not exist.
+
+A talented physicist, an intelligent man who did so much good and usefulness to people, has passed away. His memory will long be kept in the hearts of his friends, everyone who came across this wonderful, bright man in life.

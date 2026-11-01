@@ -1,0 +1,45 @@
+---
+id: 1980-10-zadachi-ed8a4980
+issue: kvant_1980_10
+year: 1980
+number: "10"
+title: Tasks
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 39
+page_last: 39
+page_labels: "37"
+tag: FT93
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: e0bf56afbaf448e66a9312030e40873903a9dde0a4104232dee5ae96450ea980
+prompt_sha256: draft-1
+translated_from: content/ru/1980/10/articles/07_zadachi-ed8a4980.md
+source_content_sha256: 01c52e49c38950aa426a57a906a0440701856bfe9b6841d51da14ef9cc05f3d7
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 37⟧
+
+Quests
+
+1. In this multiplication example (see figure), one of the digits is replaced by an asterisk, and the rest are replaced by dots. It is known that the sum of the digits of a four-digit factor is 19. Restore the example.
+
+2. In a right-angled triangle on the hypotenuse $AB$, from the vertex $A$ we plot the segment $AD$, congruent to the leg $AC$, and from the vertex $B$ - the segment $BE$, congruent to the leg $BC$. Prove that the length of the segment $DE$ is equal to the diameter of the circle inscribed in the triangle $ABC$.
+
+3. Let's write down the first few powers of the triple: $3^1$, $3^2$, $3^3$, ..., $3^8$ (see figure). The results are numbers that have an even digit in the tens place. Is it true that this will always be the case?
+
+4. The share of bondins among the head-eyes is greater than their share among the entire population. Is it true that the proportion of head-eyes among the Bondins is greater than their proportion among the entire population?
+
+5. Let us denote by $\overline{a \dots bcd}$, $n$
+A $n$-digit number with $d$ units, $c$ tens, $b$ hundreds, and the highest digit is $a$. Find a three-digit number $\overline{abc}$ for which $(\overline{abc})^a = bc(a-1)bc$
+
+(a five-digit number on the right side has a $a-1$ in the hundreds place).
+
+These tasks were offered to us
+F. Bartenev, A. Mayorov,
+I. Mikhalkovich, A. Savin,
+A. Tolpygo

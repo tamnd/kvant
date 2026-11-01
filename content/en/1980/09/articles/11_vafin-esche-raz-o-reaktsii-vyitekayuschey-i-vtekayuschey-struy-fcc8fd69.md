@@ -1,0 +1,44 @@
+---
+id: 1980-9-vafin-esche-raz-o-reaktsii-vyitekayuschey-i-vtekayuschey-struy-fcc8fd69
+issue: kvant_1980_9
+year: 1980
+number: "9"
+title: Once again about the reaction of outflowing and inflowing jets
+authors:
+  - Вафин Ф.
+rubric: laboratoriya-kvanta
+rubric_sub: Лаборатория «Кванта»
+page_first: 29
+page_last: 29
+page_labels: "27"
+tag: FRZW
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: b72a198eb3d16872767e327ef5068973d94d165b346fc94f5d20b0ba205d5098
+prompt_sha256: draft-1
+translated_from: content/ru/1980/09/articles/11_vafin-esche-raz-o-reaktsii-vyitekayuschey-i-vtekayuschey-struy-fcc8fd69.md
+source_content_sha256: b664c7323cfd2e72ec2bad9bae98ba60c03b1119f4ee4456c24f7fd44a6f5d54
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 27⟧
+
+Once again about the reaction of outflowing and inflowing jets
+
+In September 1978, our journal published an article by V. Mayer, “Reaction of outflowing and inflowing jets.” The editors received many postcards for her.
+We bring to your attention another one of the same topics. It talks about how to make a device called a “sea dweller” or “Cartesian diver”, and how to use it to clearly demonstrate the presence of a reaction of outflowing jets and the absence of a reaction of inflowing jets.
+
+Take a glass test tube with a diameter of about 2 cm, fill it with water to approximately 3/4 of its volume and close it with a stopper. Insert two curved tubes into the cork to form a Segner wheel. You can make the tubes yourself, using
+
+An example of empty ballpoint pen refills, slightly heating the bend.
+
+Lower the test tube upwards into a tall cylindrical vessel (say, a three-liter jar), completely filled with water (see figure). The amount of water in the test tube will be adjusted so that the test tube floats in the vessel. It is most convenient to pour excess water from the test tube through one of the tubes (the test tube itself is located horizontally). When the amount of water in the test tube is adjusted, cover the portion of the sauce with a thin (but durable) rubber film.
+
+Now you can proceed directly to the experiment. Press the film with your fingers and you will see that the tube begins to descend without rotating. Remove your fingers from the film - the test tube will rise and rotate. How can this be explained?
+
+When a test tube floats, its force is balanced by the pushing force. If you press on the film, the hydrostatic pressure in the vessel increases, but the air pressure in the test tube remains the same. Under the influence of a pressure difference, it will enter the test tube through the curved tubes, the volume of air above the water in the test tube will decrease, and the pressure will increase. As the amount of water in the test tube increases, its strength will increase, but the pushing force will not change. As a result, the test tube begins to sink, but it will not rotate. This clearly indicates the absence of reaction of the inflowing jets.
+
+When you remove your fingers from the film, the hydrostatic pressure in the vessel and the excess air pressure in the test tube will cause some of the water to flow out of the test tube. Having become lighter, the test tube begins to float, rotating under the influence of the reaction of the flowing jets.

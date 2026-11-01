@@ -1,0 +1,73 @@
+---
+id: 1980-9-mett-tri-standartnyie-zadachi-606d432d
+issue: kvant_1980_9
+year: 1980
+number: "9"
+title: Three standard tasks
+authors:
+  - Метт Ю.
+rubric: praktikum-abiturienta
+rubric_sub: Практикум абитуриента
+page_first: 53
+page_last: 53
+page_labels: "51"
+tag: 3TL2
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 8fb0c43e7197a49dfc464461e83943a309a8bb4deea4874649bc0781c75a5f86
+prompt_sha256: draft-1
+translated_from: content/ru/1980/09/articles/19_mett-tri-standartnyie-zadachi-606d432d.md
+source_content_sha256: 6440acdc9aca910f4626fb7368179f9413d838ed86d2980bd8805ab08014f38d
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 51⟧
+
+IO. Matt
+
+Three standard tasks
+
+The reason for this article was the gross mistakes that schoolchildren sometimes make when solving some standard problems.
+
+Problem 1. Solve the system
+$$\begin{cases} x^4 - 1330x - 23 = 0, \\ x^4 - 1319x - 144 = 0. \end{cases}$$
+
+Sometimes such a “solution” is proposed: subtracting the second equation from the first equation of system (1), we obtain the equation $-11x+121=0$, and open $x=11$. However, it is easy to notice that the found value is not a solution to any of these equations: their free terms are not divisible by 11. What is the mistake?
+
+The point is that the equation
+$$-11x+121=0,$$
+having a unique solution $x=11$, is only a consequence of system (1), it is not equal to it: any solution to system (1), indeed, is a solution to equation (2), but not vice versa. Therefore, for now we can only make a choice: if system (1) has a solution, then it is the only solution to equation (2). Substituting $x=11$ into system (1) or reasoning as above, we make the final choice: system (1) has no solutions.
+
+Problem 2. At what values ​​of the parameter $k$ is the sum of squared roots of the equation
+$$4x^2 - 28x + k = 0$$
+equal to 22.5?
+
+Obviously the same task as above:
+
+$$x_1^2 + x_2^2 = (x_1 + x_2)^2 - 2x_1x_2.$$
+
+If $x_1$ and $x_2$ are the roots of equation (3), then by Vieta’s theorem
+$$x_1 + x_2 = 7 \text{ и } x_1x_2 = k/4.$$ Then from (4) $k=53$.
+
+But this number cannot be considered the answer to problem 2, since it was obtained in an additional proposition that roots exist, that is, that equation (3) has a solution. However, for $k=53$ the discriminant of equation (3) $14^2-4k$ is negative and the equation has no solutions. Thus, the correct answer in problem 2 is “under no circumstances.”
+
+Problem 3. At what point is the function
+$$y = (2+\sin x)(6-\sin x)$$
+
+takes the most value on the number line?
+
+One student suggested the following “elegant solution” to this problem (the only problem is that it is incorrect):
+
+As is known, if a given positive number must be decomposed into two terms so that their product is the widest, these terms must be taken to be identical (problem No. 501 in the textbook “Algebra and Basic Analysis 9”). Since
+$$(2+\sin x) + (6-\sin x) = 8,$$
+
+function (5) takes the maximum value on $R$ at $2+\sin x=6-\sin x$, that is, at $x=2$ - absurd! Therefore, this student made the choice that function (5) has no extreme values.
+
+Having solved this problem in a general way (use arbitrary), it is easy to find that function (5) has extreme values ​​at points for which $\cos x=0$, namely, $y_{\min}=7$, $y_{\max}=15$.
+
+What is the error in the first reasoning? But the fact is that in problem 3 the decision is not about numbers, but about functions, and we need a statement that generalizes the above, sounds like this: if all of the defined function $f$ takes on the value $\frac{c}{2}$ at some point $x_0$, then the function
+$$g(x) = f(x) \cdot [c-f(x)]$$
+(For the ending see p. 60)
