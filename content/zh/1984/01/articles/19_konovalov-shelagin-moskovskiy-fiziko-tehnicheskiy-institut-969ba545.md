@@ -1,0 +1,71 @@
+---
+id: 1984-1-konovalov-shelagin-moskovskiy-fiziko-tehnicheskiy-institut-969ba545
+issue: kvant_1984_1
+year: 1984
+number: "1"
+title: 莫斯科物理技术学院
+authors:
+  - Коновалов С. П.
+  - Шелагин А. В.
+rubric: ekzamenatsionnye-materialy
+rubric_sub: Экзаменационные материалы
+page_first: 58
+page_last: 58
+page_labels: "56"
+tag: T3W9
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: b25348fb955b62e2c67d804df35f06680ad363298c8a54b26044815eb04e644e
+prompt_sha256: draft-1
+translated_from: content/ru/1984/01/articles/19_konovalov-shelagin-moskovskiy-fiziko-tehnicheskiy-institut-969ba545.md
+source_content_sha256: 2a00adc1cfc4fb56a63db8f1ac188a55af67a8318446e7ca677d699a4c6a2045
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 56⟧
+
+莫斯科物理技术学院
+
+数学
+笔试
+选项1
+1. 求函数的定义域
+$$f(x) = \log_2 \sin x + \sqrt{9x - 2x^2} - 4.$$
+2. 在坐标平面上给出点$M$(2;4)。考虑三角形，其中两个顶点关于相对轴 $Oy$ 对称，并且位于由条件 $-1 \leq x \leq 1$ 识别的抛物线 $y = 3x^2$ 的弧上，并且点 $M$ 是其中一侧的中点。在这些三角形中，选择面积最大的一个。找到这个区域。
+3. 在等边梯形$ABCD$中，底角$AD$等于$30^\circ$，对角线$AC$是角$BAD$的平分线。角$BCD$的平分线与底$AD$相交于点$M$，线段$BM$与对角线$AC$相交于点$N$。如果梯形$ABCD$的面积等于$(2 + \sqrt{3}) \text{ cm}^2$，求三角形$ANM$的面积。
+4. 找到方程组的所有解
+$$\begin{cases} 5 \sin x \cdot \sin y + \frac{5}{2} \cos x \cdot \cos y = 2 \\ \cos x \cdot \sin y - 2 \sin x \cdot \cos y = \frac{6}{5}, \end{cases}$$
+满足条件$0 \leq x \leq \pi, 0 \leq y \leq \pi$。
+5. 在paramid$SABC$的边缘$SB$上，选择点$D$和$E$，以便$|SD| = |DE| = 1, |BE| = 2$。垂直于边 $SB$ 并通过点 $D$ 和 $E$ 的平面所截取的 paramid 截面的面积分别为 5 和 16，其中第一个截面是一个三角形，其中一个顶点以 2:1 的比例划分边 $SA$，从顶点 $S$ 开始计数。求出帕拉酰胺的体积。
+
+选项2
+1. 解决不等式
+$$\frac{1}{4} \cdot \left(\frac{1}{8}\right)^{x-2} < 3 \cdot \left(\frac{1}{2}\right)^{x-1} + 2^x.$$
+2. 解方程
+$$\sqrt{\frac{5}{4} - \sin^2 x + \cos \left(x + \frac{\pi}{3}\right)} = \cos x + \frac{1}{2}.$$
+3. 从典型菱形角 $ABCD$ 的顶点 $B$ 绘制高度 $BM$ 和 $BN$。半径为 1 厘米的圆内接于四边形$BMDN$。如果 $ABC = 2$ arctan 2，求菱形的边。
+
+4. 直线$ABCDA_1B_1C_1D_1$的底边有一个菱形$ABCD$，角度为$\hat{A} = 60^\circ$，直线所有边的长度为$a$。点$K$是点$B_1$在平面$DA_1C_1$上的正交投影，点$L$是点$K$在平面$DD_1C_1C$上的正交投影。求 paramid $DCLK$ 的体积。
+
+5. 求解方程组
+$$\begin{cases} 2z^2 - xz + 5xy^2 = 0 \\ xz - z^2 + 3x^2y = 9x^2y^3 \\ z^2 - 2x^2 - 5y^2z = 18x^2y. \end{cases}$$
+选项3
+1. 解方程
+$$\log_2 (x-2) + \log_2 (8-x) = 1 + 2 \log_4 \left(x - \frac{9}{2}\right).$$
+2. 解决不等式
+$$2 - 3x \leq \sqrt{4 + 9x - 9x^2}.$$
+3. 解方程
+$$\mathrm{tg} \left(\frac{6}{25} \pi \cdot \cos^2 2x\right) = \mathrm{tg} \left(2\pi \cdot \cos^2 x\right).$$
+4. 在锐角三角形$ABC$中，高$AD$、中线$BE$和平分线$CF$相交于点$O$。如果$|OE| = = 2|OC|$，则求$\hat{C}$。
+5. 正确称为 $ABCA_1B_1C_1$ 的底座边的长度为 $a$，侧边的长度为 $\frac{9}{8} a$。点$E$是边$AB$的中点，点$M$位于线段$EC$和$|EM| = = \frac{1}{4} |EC|$上。对称性的第二个认识是$ABCA_1B_1C_1$相对于直线$MC_1$的对称性。求这些识别部分的体积。
+
+物理
+笔试
+选项1
+1. 圆盘可以绕垂直于其平面 (图 1) 的垂直轴旋转。一小块质量为 $M$ 的物体位于圆盘上，距轴的距离为 $R$。在块的水平表面上有一个质量垫圈 $m$，通过螺纹连接到轴上。圆盘与块体和垫圈一起非常缓慢地增加其角速度。垫圈与块之间的滑动摩擦系数$u$。考虑到块体和圆盘之间的摩擦是不可避免的，确定块体开始从垫圈下方滑出的角速度$\omega$。
+2. 在型材修复过程中，平底艇上覆盖了一层 $d = 3$ 厘米厚的塑料。此后，船的悬垂部分减少了$h = 1,8$厘米。确定塑料的密度$q$。
+3. 无限带电平板左侧的均匀电场强度为 $\vec{E}_1$，右侧为 $\vec{E}_2$ (图 2)。确定电场作用于板单位面积上的力$f$。
+4. 使用薄透镜，获得了具有 $|AB| = |BC|$ (图 3) 的三角形 $ABCEDG$ 的图像。三角底座
