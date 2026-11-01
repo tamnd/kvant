@@ -1,0 +1,55 @@
+---
+id: 1982-5-gik-shahmatnaya-mashina-vremeni-aaf090e6
+issue: kvant_1982_5
+year: 1982
+number: "5"
+title: Chess time machine
+authors:
+  - Гик Е. Я.
+rubric: shahmatnaya-stranichka
+rubric_sub: Шахматы
+page_first: 67
+page_last: 67
+tag: C1DN
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 0fa35d86a4f9cc8fec5820b82f95b7ee74291684959faf4af53cfe5b1ae5cfc7
+prompt_sha256: draft-1
+translated_from: content/ru/1982/05/articles/03_gik-shahmatnaya-mashina-vremeni-aaf090e6.md
+source_content_sha256: a14d55f36b737550a9f1fb39c8570b568281461ff5e6a289fcf460f91c21d635
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+CHESS TIME MACHINE
+
+When chess players are asked to solve the next game, they immediately take on the white rook and wonder why everything is so simple.
+
+Checkmate in 1 move.
+1. Rh6 × ? Let's not rush to answer. Indeed, White can checkmate in one move. But what was Black's last move? The black king could not move to the h5 square with either h4 or g4 (contacts are not available for chess kings). He could not stand on the h6 square either, or then White’s previous move would have been impossible (in this position, a double check with a white lad and pawn cannot be given in one move). The h2 pawn couldn’t move either, because the h3 and g3 squares could be occupied.
+
+So, in this position we cannot indicate a single previous move of Black (this is called “retropath” of Black). Therefore, the previous move was made by White, now Black's move is decided by 1...h1Q×1.
+
+Positions, the assessment of which requires traveling into the past, that is, finding out how they can be obtained as a result of a chess game, are called retrotasks, and the corresponding genre of chess composition is called retronals. The main thing in it is to be able to distinguish the possibility from the impossible. Here are some typical examples of “non-gel” positions (they can only be artificially constructed from chess pieces; they cannot arise in a real game).
+
+To save space, we have depicted here four different impossible configurations. Each of them poses a question to which there is no answer. Where did the black pawn on a6 come from? How did the black bishop get to h8? How should White check with his queen on a1? Could Black give a double check with the queen and rook to the king on h3? These abstract positions resemble “impossible objects”, which in the drawings look completely plausible, but when you begin to visit them, you discover that in front of such an object is a ghost.
+
+But these positions, regardless of personal differences from the previous ones, are already legal. The black pawn from square c7 made the moves c7:b6 and b6:a5 (another route is excluded). The white pawn must do square h7 and made the move h7-h8C (the bishop h8 can only be promoted). The white queen has given check to the black king from square a3, and the black g2 pawn has just been promoted to a queen with a double check.
+
+Now let's look at the tasks.
+
+Restore your opponents' last moves.
+On the left in the diagram, the white pawn from square b7 took the black piece on a8 with its last move and turned into a rook - h7:a8JL+. But which piece exactly did the pawn take? It is easy to find that there is only a knight, and he got there from the c7 square. On the right, White could only give check by moving Kрg2-f2, and before that Black checked with the converted bishop - f2-f1C+.
+
+Competition problems
+The first task of this issue is a witty joke problem by H. Plaksin, which he dedicated to one of the founders of the retronalz genre, B. Korolkov (the position on the diagram looks like the letter K).
+
+9. Add a pawn and give mat in 1 move.
+The second task is double.
+
+10 a, 6. Mat in 1 move.
+The deadline for sending the decision is July 25, 1982 (with a mark on the envelope “Chess competition «Kvant», tasks 9, 10)”).

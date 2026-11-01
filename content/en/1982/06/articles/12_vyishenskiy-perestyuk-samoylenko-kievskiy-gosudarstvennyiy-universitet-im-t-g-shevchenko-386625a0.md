@@ -1,0 +1,117 @@
+---
+id: 1982-6-vyishenskiy-perestyuk-samoylenko-kievskiy-gosudarstvennyiy-universitet-im-t-g-shevchenko-386625a0
+issue: kvant_1982_6
+year: 1982
+number: "6"
+title: Kyiv State University named after. T. G. Shevchenko
+authors:
+  - Вышенский В. А.
+  - Перестюк Н. А.
+  - Самойленко А. М.
+rubric: ekzamenatsionnye-materialy
+page_first: 43
+page_last: 43
+page_labels: "41"
+tag: F1B8
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: b37884d7315c4e69aaeb9ec963bb38606d516d3a9e0c261828c1da083d30263b
+prompt_sha256: draft-1
+translated_from: content/ru/1982/06/articles/12_vyishenskiy-perestyuk-samoylenko-kievskiy-gosudarstvennyiy-universitet-im-t-g-shevchenko-386625a0.md
+source_content_sha256: 388745c97ea8bf7a98e083c34c7b6f8fa4740aa509a6e4c553a6deabd0f80b48
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 41⟧
+
+Kyiv State University named after. T. G. Shevchenko
+
+Mathematics
+Written exam
+Option 1
+(Faculty of Mechanics and Mathematics)
+
+1. A chord is drawn in a circle of radius $r$ at a distance $\frac{r}{8}$ from the center. In the smaller of the formed segments two circles of the same radius are placed so that they touch one another and each of them touches a given circle and a drawn chord. Determine the radius of these two circles.
+
+2. $SABC$ is a triangular pair, $P$ is the midpoint of edge $AB$, $Q$ is the intersection point of the medians of face $SBC$. Decompose the vector $\vec{PQ}$ into the vectors $\vec{a} = \vec{SA}$, $\vec{b} = \vec{SB}$, $\vec{c} = \vec{SC}$.
+
+3. Solve the equation
+$$4 \sin^2 \left( \frac{\pi}{4} - \frac{x}{2} \right) \cos^2 \left( \frac{\pi}{4} - \frac{x}{2} \right) + 2 \sin^2 \frac{x}{2} - \cos x \Bigg]^{\frac{1}{2}} = 3 \cos x.$$
+
+4. At what value of the parameter $c$ from the interval [1; 4] the area of ​​the figure bounded by the lines $y=0$ and $y=|x-c|$ - $\frac{c^2-c+1}{c^2-3c+3}$ will be the most?. When will this area be at its greatest? What are these two areas equal to?
+
+Option 2
+(faculties of physics and radiophysics)
+
+1. A ball of radius $R$ is inscribed in a right circular cone. The radius of the circle along which the lateral surface of the cone touches the ball is $\frac{3}{5} R$. Find the lateral surface area of ​​the cone.
+
+2. Solve the equation
+$$\log_3-x \frac{1}{|x|} > 1.$$
+
+3. Solve the system of equations
+$$\begin{cases} \sin^2 x + \sin^2 y = \frac{1}{2} \\ x-y = \frac{4\pi}{3} \end{cases}.$$
+
+4. At what $a$ is the area of ​​the figure bounded by the parabola $y=2x^2$ and the line $y=a$ equal to $\frac{20\sqrt{2}}{3}$?
+
+Option 3
+(Faculty of Economics)
+
+1. For what values ​​of $k$ do the curves $y=2x^2$ and $y=k \cdot \ln x$ have one common point?
+
+2. Solve the equation
+$$16 \cdot 9 \log \frac{1}{3} \left( \sin^2 x - \frac{7}{2} \sin 2x + \frac{7}{2} \right) = 1.$$
+
+3. Solve the inequality
+$$|\log \sqrt{2} x - 2| - |2 - \log_2 x| > 1.$$
+
+4. One vertex of an equilateral triangle coincides with the vertex of a square, and its other two vertices lie on the sides of the square. The side of the square is $\sqrt{2\sqrt{3}+3}$ cm. Find the area of ​​the triangle. Option 4
+(department of geography)
+
+1. The base parameters are a trapezoid, the sides and smaller base of which are equal to $b$, and the acute angle is equal to $a$. The lateral ribs are inclined to the base plane at an angle $φ$. Find the volume parameters.
+
+2. Solve the equation
+$$\sin^2 x + \sin^2 2x = \sin^2 3x + \sin^2 4x.$$
+
+3. Solve the inequality
+$$\lg(9^{\lg x} + 1) \geqslant \lg \frac{10}{3} + \lg x \cdot \lg 3.$$
+
+4. Calculate the area of ​​the figure bounded by the graph of the function $y = \frac{1}{2} (\sin x + \sqrt{1-\cos^2 x})$ on the interval [0; $\pi$] and the x-axis.
+
+Oral exam objectives
+
+1. Select a set of points $(x; y)$ on the coordinate plane whose coordinates satisfy the conditions.
+
+a) $\log_{xy}|x| > 1$;
+
+b) $\log_{|xy|}x^2 < 2$.
+
+2. Let $f(x) = \ln \frac{1-x}{1+x}$. For which $a$ and $b$ does the equality $f(a) + f(b) = f\left(\frac{a+b}{1+ab}\right)$ hold?
+
+3. Calculate $x_1^4 + x_2^4$, where $x_1$ and $x_2$ are the roots of equation $3x^2 - 5x - 1 = 0$.
+
+4. How many roots does the equation a) $x^4 + x^3 = 10$ have?
+
+b) $3|x| \cdot |2 - |x|| = 1$?
+
+b) $x^2 - 2x - \log_2 |1-x| = 3$?
+
+5. For what $a$ the equation a) $x^3 + ax + 2 = 0$;
+
+b) $x^2 \cdot e^x = a$;
+
+b) $|\ln x| - ax = 0$;
+
+has three roots?
+
+6. Solve the equation a) $3^x + 1 - |3^x - 1| = 2 \log_5 |6-x|$;
+
+b) $|x-1| \cdot |\lg^2 x - \lg x^2| = |x-1|^3$;
+
+b) $2\pi \cdot \cos x = |x| - |x-\pi|$.
+
+7. Solve inequality a) $\sqrt{25-x^2} \leqslant \frac{12}{x}$;
+
+b) $\log \frac{1+x^2}{2|x|} (5-x^2) \geqslant 0$.

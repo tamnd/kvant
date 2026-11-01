@@ -1,0 +1,37 @@
+---
+id: 1982-8-zadachi-953bd8a5
+issue: kvant_1982_8
+year: 1982
+number: "8"
+title: Tasks
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 51
+page_last: 51
+page_labels: "49"
+tag: F5RC
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 1f7537e7c3b31d09c11c90a1a3933170aabc34e1955205730132f2b6b09dd797
+prompt_sha256: draft-1
+translated_from: content/ru/1982/08/articles/12_zadachi-953bd8a5.md
+source_content_sha256: 3b3d18f663512c8bdc435f3a1c91f56a6911874adb2ccc67a255996084694f77
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 49⟧
+
+Exercise
+
+1. After the movie, Kostya and Vadik counted the money they had left. It turned out that Kostya had twice as many of them as Vadik. Vadik thought and said: “If you and I had twice as much money, we would buy 4 gingerbread cookies and drink a glass of “pure” carbonated water at one kopeck per glass.” The more practical Kostya replied: “There’s no point in dreaming! Let’s buy 3 candies and we still have 3 glasses of “clean” soda left.” So they did. How much money did each little boy have left if the difference in the cost of candy and gingerbread was 2 kopecks?
+
+2. The windows in subway cars have the shape shown in figure. The rounding of the upper corners of the frame and glass is usually done in the form of circular arcs. The window is opened slightly, the glass is 10 cm apart. The height of the moving part of the window is 25 cm. What is the area of ​​the open part of the window?
+
+3. In a glass vessel shaped like a cube, you need to add water to 1/3 of its volume. How to do this without having any change tools?
+
+4. Yura, Misha, Voloda, Sasha and Oleg are standing in line at the school cafeteria. Yura is standing before Misha, but after Oleg, Volodya and Oleg are not standing next to each other, and Sasha is not next to Oleg, Yura, or Volodya. What order are the guys in?
+
+These tasks were suggested to us by F. Bartenev, M. Mamikon, D. Mukushev (8th grade student of the Arkat secondary school, Abay district, Semipalatinsk region). A. Sidrshansky

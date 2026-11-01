@@ -1,0 +1,81 @@
+---
+id: 1982-5-krasnaya-tashkentskiy-gosudarstvennyiy-universitet-im-v-i-lenina-995994df
+issue: kvant_1982_5
+year: 1982
+number: "5"
+title: Tashkent State University named after. V. I. Lenina
+authors:
+  - Красная А. и др.
+rubric: ekzamenatsionnye-materialy
+page_first: 50
+page_last: 50
+page_labels: "48"
+tag: QVHS
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: bed58a47afc0d6bc795884553223964d4236caac469b264063dc7a14724a2049
+prompt_sha256: draft-1
+translated_from: content/ru/1982/05/articles/11_krasnaya-tashkentskiy-gosudarstvennyiy-universitet-im-v-i-lenina-995994df.md
+source_content_sha256: d184d3a758097382e47e443ed4306364b8fe708e113098d142863511ffe79b97
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 48⟧
+
+Tashkent State University named after. V. I. Lenina
+
+Mathematics
+Written exam
+Option 1
+(mathematics department)
+1. Solve the equation
+$$3^x + 2(\sqrt{3})^x - 3 = 0.$$
+2. Solve the inequality
+$$x - 17 \geq \frac{60}{x}.$$
+3. Solve the equation
+$$\sin x + \sin 3x = -2.$$
+4. Calculate the area of ​​the figure bounded by lines $y = 0$, $x = -\frac{\pi}{8}$, $x = \frac{\pi}{4}$ and $y = \sin 2x$.
+5. The volume of a cone inscribed in a regular quadrangular paramid is equal to $Q$. The dihedral angle formed by adjacent lateral edges of the paramid is equal to $a$. Find the length of the side of the base of the paramid.
+Option 2
+(Faculty of Applied Mathematics and Mechanics)
+1. Solve the equation
+$$\sqrt{\frac{2x}{x+1}} - \sqrt{\frac{2(x+1)}{x}} = 1.$$
+2. Solve the inequality
+$$\frac{x+1}{x-1} \geq \frac{x+5}{x+1}.$$
+3. Solve the equation
+$$3\cos^2 4x + 4\cos^2 2x - 3 = 0.$$
+4. A right triangle with hypotenuse $d$ rotates around one of its legs. What should be the acute angles of this triangle in order for the volume of the body of rotation to be maximum?
+5. The base of a straight line is a right triangle with a perimeter $2p$ and an acute angle $a$. Find the lateral surface of the prism if it is known that a ball can be inscribed into it.
+Option 3
+(Faculty of Physics)
+1. Solve the equation
+$$\log_2 x \cdot \log_2 x = \log_4 2.$$
+2. Solve the inequality
+$$\frac{x^2 - 4x + 5}{x^2 + 5x + 6} \geq 0.$$
+3. Solve the equation
+$$2\sin^2 x - 5\sin x + 2 = 0.$$
+4. Find the largest and smallest values ​​of the function $y = 2x^3 - 39x^2 + 252x + 1$ on [5; 8].
+5. From the base of the altitude of a regular triangular paramid, a perpendicular equal to $l$ is lowered onto the side edge. Find the volume of the paramid if the dihedral angle between its lateral edges is $f$.
+Oral exam objectives
+1. Find $tg\left(\frac{a}{2}\right)$ if $\sin 2a = 0,6$ and $0 < a < \frac{\pi}{4}$.
+2. Which is greater a) $\sin 3$ or $\cos 3$?
+3. Draw a graph of the function a) $y = \sin |2x|$;
+4. Prove that the roots of the equation $ax^2 + bx + c = 0$ and $cx^2 + bx + a = 0$ are simultaneous.
+5. Solve the equation a) $4^x + 6^x = 9^x$;
+6. $\sin^3 x + \sin^2 x = 1 + \sin x$.
+6. How many roots of the equation $\cos^2 x + \frac{\sqrt{3}}{2} + 1 \sin x - \frac{\sqrt{3}}{4} - 1 = 0$ are in the segment $[-\pi; \pi]$?
+7. Solve inequality a) $\frac{x^2 - 7x + 12}{x - 4} \geq 0$;
+6) $\log_{\frac{1}{2}}(x^2 - 2x + 4) > -2.$
+8. Compute $y'(0)$ if $y = \ln (2 - \sqrt{2x + 1})$.
+9. Write the equation of the tangent to the lines $y = \frac{1}{x} + 3\sqrt{x} + \frac{x}{9} - \sqrt{3}x^2$ at the abscissa $x_0 = 9$.
+10. Average all rectangles with a given area $a$ and find the one with the largest perimeter.
+11. Average all rectangles with a given perimeter $a$ and find the one with the largest area.
+12. The perimeter of the circular sector is $l$. What should the central angle of the sector be for its area to be greatest?
+13. The area of ​​the circular sector is $Q$. What should the central angle of the sector be for its perimeter to be greatest?
+14. Material point of motion according to the law $s(t) = \frac{1}{2} t^2 + 1980t + 1981 + 4 \ln (t + 1)$, $t \geq 0$. At what value of $t$ will its speed be minimal?
+15. At what value of $k$ will the area of ​​the function bounded by lines $y = x^2 - 3$ and $y = kx + 2$ be minimal? Calculate this area.
+16. Calculate the area enclosed by lines $y = \sin x$, $y = \frac{2}{\pi}x$, $0 \leq x \leq \frac{\pi}{2}$.
+17. Rotate the square on side $a$ around the round center at $45^\circ$. Find the plane

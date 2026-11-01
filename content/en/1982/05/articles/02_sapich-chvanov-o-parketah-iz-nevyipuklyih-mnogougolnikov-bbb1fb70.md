@@ -1,0 +1,30 @@
+---
+id: 1982-5-sapich-chvanov-o-parketah-iz-nevyipuklyih-mnogougolnikov-bbb1fb70
+issue: kvant_1982_5
+year: 1982
+number: "5"
+title: '[On parquets made of non-convex polygons]'
+authors:
+  - Сапич А.
+  - Чванов В. Г.
+rubric: smes
+page_first: 68
+page_last: 68
+tag: 0KJF
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 1f92aeb8986fb1ffd060bedb683d492d6b184253d744edc0bf94b191d5631565
+prompt_sha256: draft-1
+translated_from: content/ru/1982/05/articles/02_sapich-chvanov-o-parketah-iz-nevyipuklyih-mnogougolnikov-bbb1fb70.md
+source_content_sha256: 2e88351772d426b52651f2f8b9d93ba6ab5692444b1ebc2dd1461310bfe2f2b8
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+It is well known that it is possible to make a parquet on a plane from regular hexagons, equilateral triangles and squares, but it is impossible to fill a plane without gaps and overlaps with regular polygons with fifth, seven, eight or more sides. However, if we slightly weaken the conditions of regularity, allowing polygons with congruent sides and angles between straight lines containing adjacent sides (instead of angles between the most adjacent sides), then it is already possible to tile the plane with such non-convex figures. For a pentagon, such a construction is shown at figure. Consider whether there are other ways to fill the plane with the same pentagons. Is it possible to fill it with similar heptagons?
+
+A. Sapich, B. Chvanov
