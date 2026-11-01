@@ -1,0 +1,48 @@
+---
+id: 1986-4-grechko-k-chitatelyam-zhurnala-kvant-93cd988e
+issue: kvant_1986_4
+year: 1986
+number: "4"
+title: '[To the magazine readers «Kvant»]'
+authors:
+  - Гречко Г. М.
+rubric: osnovnye-stati
+page_first: 4
+page_last: 4
+page_labels: "2"
+tag: HP2X
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: d174e7e17e51ede714be01253d0363e9cc3f82b6855863cf7f2797a1775856be
+prompt_sha256: draft-1
+translated_from: content/ru/1986/04/articles/03_grechko-k-chitatelyam-zhurnala-kvant-93cd988e.md
+source_content_sha256: d0ea365c904939a0b99b83d3ce3282482316a3ce5a172c5606211ccf3fb8bc29
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 2⟧
+
+Dear friends!
+
+Today we meet the twenty-five beginnings of this captivity of man into space. A quarter of a century ago, on April 12, 1961, Yuri Gagarin was the first to set foot on the path that below became an increasingly well-trodden highway.
+
+25 years is too little and a lot. Not enough, because the events of those years were truly vivid and unforgettable, which seems recent today. A lot - because over the course of a quarter of a century, generations change both in the world of technology and among people.
+
+In the first captivities of space, he was the only one in the ship, and its main significance was testing the ship and himself in extreme conditions. During the time that the cosmos of the first set were waiting for their second plenet, the space technology itself and the tasks of the research changed so much that it was necessary to undergo retraining more than once or twice. It was simply not possible to fly twice on a similar program. Each captivity was captivity into the unknown. Work in space, scientific and technical experiments took only the first, not always confident, steps...
+
+In Serodnya, after a quarter of a century, a new generation of space technology and a new generation of space systems have emerged. Now they are not just larger in number, they are now flying larger (both longer and faster). You can always talk about the professionalism, the “reusability” of space, or the responsible school for their preparation.
+
+With the development of orbital complexes, the wider scope of scientific experimentation in the unique conditions of space has opened up. Now the space crew is a team of experimenters, where mutual assistance and assistance do not exclude in-depth specialization on individual problems.
+
+An example is the study of optical phenomena in near-Earth space. Noctilucent and mother-of-pearl clouds, luminous “whiskers” of the sum atmosphere and auroras above the horizon, the position of the Sun and twinkling stars at sunrise and sunset - this is not a complete palette of curious phenomena of the upper atmosphere. Once I was lucky enough to be a participant in an experiment on orbital stations, and the general observational material obtained during this time formed the content of many scientific works. Processing the results of these observations brings considerable benefits.
+
+And just as it is joyful to know that the result of the experiment is in need, it is also sad to hear how plans are being made to adapt the cosmos to the goals of science. It is a shame that funds are spent on military programs, and that the presence of weapons of mass destruction leads to mistrust.
+
+I would like to believe that the people of the world will overcome dangerous plans, and we will be witnesses and participants in many peaceful scientific experiments in outer space.
+
+Best regards
+
+G. M. Grechko /

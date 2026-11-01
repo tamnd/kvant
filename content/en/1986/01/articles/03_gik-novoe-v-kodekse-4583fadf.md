@@ -1,0 +1,58 @@
+---
+id: 1986-1-gik-novoe-v-kodekse-4583fadf
+issue: kvant_1986_1
+year: 1986
+number: "1"
+title: New in the code
+authors:
+  - Гик Е. Я.
+rubric: shahmatnaya-stranichka
+rubric_sub: Шахматы
+page_first: 67
+page_last: 67
+tag: J3QP
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 439151d296577f0358edada17b57446e772c51ff3adcbb94413129b193ad8c16
+prompt_sha256: draft-1
+translated_from: content/ru/1986/01/articles/03_gik-novoe-v-kodekse-4583fadf.md
+source_content_sha256: 9d4927c97d7d4eaf07f532f8765182b807628d30a36370d9f99d6d109d6aa22f
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+NEW IN THE CODE
+
+A funny incident occurred at the 52nd national championship in Riga. In the game Chernin - Eingorp after 1. d4 Kf6 2. Kf3 e6 3. c4 b6 4. g3 Ca6 5. b3 Cb4+ 6. Cd2 Ce7 7. Cg2 0-0 White made the completely unthinkable move 8. Rg1?? Such a move probably wouldn’t even occur to a chess beginner, but what can we say about Chernin, a participant in the challengers’ tournament!
+
+The solution is simple. According to the new FIDE rules adopted last year, castling must now begin with moving the king and only then move the rook through it. If the rook is taken first, move the rook.
+
+Important amendments to the chess code concern the “50-move rule”: if within 50 moves there are no exchanges on the board and none of the pawns are moved, the game ends in a draw. This rule limits the duration of a chess game and does not allow the game to continue indefinitely. The rule is correct, but it has exceptions. After all, there are positions in which it takes more than 50 moves to win. For them, the number 50 in the code increases to 100. The question is which positions should be covered by this exception. Until then, the code mentioned only two types of endings: “a king and two knights against a king and a pawn” and “a king, rook and pawn a2 against a king, a dark-squared bishop and pawn a3”. Now the stud rule also applies to endings: king, rook and bishop against king and rook.
+
+All three endings mentioned are among the most complex in theory. As you know, two knights cannot checkmate the opponent’s lone king: if he does it correctly, he will inevitably be stalemate. But if the weaker side (usually Black) has a pawn, then in some cases it can be used to the advantage of the opponent. Let's assume that the pawn is blocked by the knight. Then, having pushed the opponent's king into the corner with the help of his king and second knight, White can unpack the pawn at the appropriate moment. Further, by bringing the second knight to the black king, it is possible, in some cases, while the pawn is moving to the queen, to mate him.
+
+In this diagram, the black king is deprived of freedom and falls into a mating net: 1. Nc4! a3 2. Ke5 a2 3. Kf7+ Kpg8 4. Kh6+ Kph8 5. Kg5 a1Ф 6. Kgf7×. But try to drive the black king into the corner of the dock! Even 10 moves may not be enough for this! The considered endgame at the beginning of the fundamental section was analyzed by the outstanding Soviet stage athlete A. Troitsky. He created the mathematical theory of the ending “two knights against a pawn”, determined on which squares the presence of a pawn leads to the unconditional analyzed outstanding Soviet stage player A. Troitsky. It is established in the same way, in which position of the king and the “free” king the winnings are achieved against any pawn and even several pawns.
+
+Let's look at an example of the second ending mentioned in the code.
+
+The winners in this position are: 1. Kpb3 Kpg2 2. Kpa4 Kpf2 3. R:a3 B:a3
+
+4. K:a3 Ke3 5. Kpb4 Kpd4 6. a4 Kpd5 7. Kpb5, and the pawn slips to the queen. Is it simple? Try to achieve a similar position during the game. First you need to cut off the enemy king to the corner of the dock (or to the edge), and then quickly rush to the pawn so that the enemy king does not have time to raise it to the center.
+
+Another question arises: why can’t this endgame be played without paying attention to the pawns? But the endgame “king and rook against king and bishop” is theoretically low. Further, in those cases when the winning game of both sides is achieved in 18 moves. One of them is given in «Kvant», 1981, No. 11 (task No. 2, solution - in «Kvant», 1982, No. 1).
+
+We'll look at the rook-bishop-versus-rook endgame next time.
+
+Competition tasks
+
+Today we are starting a new chess competition. Its winners will be awarded chess literature authored by A. Karpov and a diploma from the Magazine «Kvant». Those who solve 20 problems out of 24 are assigned the 1st category, 16 problems - the 2nd category.
+
+1. Checkmate in 2 moves.
+
+2. Checkmate in 3 moves.
+
+The deadline for sending the decision is March 20, 1986 with a note on the envelope: “Chess competition «Kvant», tasks 1, 2.”

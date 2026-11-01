@@ -1,0 +1,46 @@
+---
+id: 1986-4-poleznyie-formulyi-2fea729a
+issue: kvant_1986_4
+year: 1986
+number: "4"
+title: Useful formulas
+rubric: kaleydoskop-kvanta
+rubric_sub: Калейдоскоп
+page_first: 34
+page_last: 34
+page_labels: "32"
+tag: 2X6E
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 7d4ad62769817820ff6d4744f757d50ca0528f8c558f845b8e9ff6294024fcbc
+prompt_sha256: draft-1
+translated_from: content/ru/1986/04/articles/15_poleznyie-formulyi-2fea729a.md
+source_content_sha256: a526d36edbcab43bd722458bfaa22ecdeb915d8f3fd759055c72053d5d98c093
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 32⟧
+
+Kaleidoscope «Kvant»
+Seeing that all the mathematical sciences - although their subjects are different - create among themselves in that they consider nothing more than different relations and proportions, I thought that it would be better if I began to consider only these relations in general... and then apply them to all other subjects to which they are suitable.
+Rene Descartes
+
+French mathematician and natural scientist Rene Descartes (1596-1650) is one of the founders of European science and philosophy of modern times. Descartes is part of the creation of analytical geometry; he is one of the creators of modern algebra, mechanics, and optics. Descartes was the first in modern times to pose the cosmogonic problem.
+In the person of Descartes, the organizer, a great scientist and a profound philosopher were united. As the creator of the rationalist method in science, Rene Descartes emphasized that “true science can be found in oneself or in the great book of the world.”
+
+About cool
+
+In ancient Greece, the circle and circumference were considered the crown of perfection. Indeed, at each point the circle is “structured” in the same way, which allows it to move “on its own.” On a plane, only a straight line has this property. One of the most interesting properties of a circle is that a circle, for a given perimeter, limits the maximum area.
+
+In Russian, the word “round” also means a high degree of something: “a complete excellent student,” “a complete orphan,” and even “a complete fool.”
+The circle is also associated with a classic problem that has become a symbol of an unsolvable problem. This is the task of squaring a circle, that is, constructing, using a compass and a ruler, a square equal in size to a given circle. This problem could not be solved for more than two thousand years. Only in the 19th century did several outstanding mathematicians—Lambert, Liouville, Hermit and Weierstrass—establish the Novozem system.
+
+Useful formulas
+
+It is not very difficult to find the length of the other segment and its area if the radius of the circle and the angle subtended by the arc of the segment are known. But what if these quantities are unknown?
+
+$$p \approx \frac{8l-L}{3}, S \approx \frac{2}{3}hL.$$
+Here $p$ is the arc length of the segment, $S$ is its area, $L$ is the length of the chord, $h$ is the height of the segment, $l$ is the length of the segment $AC$ (see figure). (When the angles subtended by the arc of the segment are less than $60^\circ$, these formulas give an error that does not exceed 1.5%.)

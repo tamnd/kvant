@@ -1,0 +1,27 @@
+---
+id: 1986-1-stereometricheskaya-zadacha-863e6df0
+issue: kvant_1986_1
+year: 1986
+number: "1"
+title: '[Stereometric task]'
+rubric: smes
+page_first: 68
+page_last: 68
+tag: BPL6
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 1ab9b5ca06b02dd134443f5347be0d74879da7793ae24154b89325a571dc18c4
+prompt_sha256: draft-1
+translated_from: content/ru/1986/01/articles/02_stereometricheskaya-zadacha-863e6df0.md
+source_content_sha256: 110c0ca9d8316005dca9f450d44231f976cfb0498d0a6f757ff06beca15dcd5a
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 3⟧
+
+This cover page contains the conditions of one stereometric task and a drawing for it (general view and four projections in different directions). We advise the reader who has not yet looked at the drawing properly to first write the problem on his own, without looking at our card (perhaps someone has already done this - the condition of the problem was published in «Kvant» No. 10 for the past 20 days). We hope that the publication of such “multiphysics” problems with drawings, starting in the last 20 years (see «Kvant», No. 2, 3, 5, 6, 11) will help the reader to strike the imagination space - a quality that, alas, is so lacking in some applicants for competitive exams. The solution to the problem below can be found in the next issue of the magazine.
+
+Task. There are six sentences: two identical balls of radius $R_1$, two more identical balls of radius $R_2$, a very long cylinder with base radius $r$, and a plane. They are located in space so that each of them touches the other five (the cylinder touches the remaining parts of the lateral surface). Express $R_1$ and $R_2$ using $r$.

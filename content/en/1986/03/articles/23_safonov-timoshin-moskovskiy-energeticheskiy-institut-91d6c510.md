@@ -1,0 +1,97 @@
+---
+id: 1986-3-safonov-timoshin-moskovskiy-energeticheskiy-institut-91d6c510
+issue: kvant_1986_3
+year: 1986
+number: "3"
+title: Moscow Energy Institute
+authors:
+  - Сафонов В. Ф.
+  - Тимошин М. Г.
+rubric: ekzamenatsionnye-materialy
+rubric_sub: Экзаменационные материалы
+page_first: 59
+page_last: 59
+page_labels: "57"
+tag: 20SW
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 0e1674035f5488648043ebe3ce39602913ea248856d6ca59c1eb020fab49964b
+prompt_sha256: draft-1
+translated_from: content/ru/1986/03/articles/23_safonov-timoshin-moskovskiy-energeticheskiy-institut-91d6c510.md
+source_content_sha256: 5fedf6e531121da5978790424615186f4fee70a9bf68f1f185ae0d6492408f40
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 57⟧
+
+What temperature will the products and liquid in the bath have in spring? Neglect heat losses. The specific heat capacity of the product is $c_1 = 460$ J/(kg K), liquid - $c_2 = 4100$ J/(kg K).
+
+6. At what depth is the exact light source located in the water, if light rays emerge from the surface water from a circle with a diameter of $D = 2$ m (Fig. 2)? The refractive index of water is $n = 1,333$.
+
+7. The indoor air has a temperature of $t_1 = 24$ °C and a relative humidity of $\varphi_1 = 50\%$. Determine the humidity of the air after it has cooled to $t_2 = 20$ °C. The cooling process is considered isochoric. The range of saturated water vapor at $20$ °C and $24$ °C is equal to the corresponding $p_{H2} = 2330$ Pa and $p_{H1} = 2943$ Pa.
+
+8. Before the key is closed, $K$ the resistance of a group of resistors connected according to the circuit shown in figure 3, $R = 504$ Ohm. Find the resistance of this group of resistors after the switch is closed.
+
+9. Two ions, having the same riddle and the same kinetic energy, but different masses, flew into a one-dimensional magnetic field. The first he described a circle with a radius of $r_1 = 3$ cm, and the second - $r_2 = 1,5$ cm. Calculate the ratio of the masses of the ions.
+
+10. A horizontally located disk is tapped around a vertical axis, making $n = 15$ rpm. The greatest distance from the axis of rotation at which the body is kept in balance on the disk is $r = 10$ cm. What is the coefficient of friction of the body on the disk?
+
+11. Determine the maximum kinetic energy of an electric locomotive emitted from a certain metal when it is illuminated by light with a wavelength of $\lambda = 0,345$ µm. The work output for this metal is $A = 2,45$ eV.
+
+12. The puokk of parallel rays passes through two thin collecting lines, remaining parallel. The distance between the lenses is $l = 15$ cm. Determine the form distance of the first lens if for the second lens it is $F_2 = 9$ cm.
+
+The publication was prepared
+V. A. Karasev, V. I. Marchenko
+
+Moscow Energy Institute
+
+Mathematics
+Written exam option
+
+1. Simplify the expression
+$$\frac{a+b}{(a+b)^2-4ab} \cdot (a-b) - \frac{a-b}{(a-b)^2+4ab} \times (a+b) \left[ \frac{(a^2-b^2) \cdot 10^{-1}g(a^2+b^2)}{2ab} \right.$$
+
+2. Solve the system of equations
+$$\begin{cases} x+y=\frac{21}{8}, \\ \frac{x}{y}+\frac{y}{x}=\frac{37}{6}. \end{cases}$$
+
+3. The difference of two numbers is equal to the largest value of the function $f(x)=\frac{x^3}{3}-x+1$ on the interval [0; 2], and the sum of these numbers is twice the smallest value of the same function on the indicated segment. Find these numbers.
+
+4. Find all the roots of the equation
+$(\sin x-1)[(\sin x+\sqrt{3}\cos x)\sin 4x-2]=0,$
+satisfying inequality
+$$\lg[(x+2\pi) \left(-x-\frac{3\pi}{2}\right)+1] \geq 0.$$
+
+5. Find the angles of a rhombus if you know that the area of ​​the circle inscribed in it is half the area of ​​the rhombus.
+Oral Exam Objective
+1. What property should the diagonals of parallels have so that: a) parallels can be written in a circle?
+b) was it possible to write a circle in parallel frames?
+2. What property must the sides of a triangle have so that the center of the circle inscribed in it coincides with the center of the circle circumscribed around it?
+3. Prove the inequality
+$$tg^2 \alpha+tg^2 \beta+1 \geq tg \alpha+tg \beta+tg \alpha \cdot tg \beta$$
+at $\alpha, \beta \neq \frac{\pi}{2}+\pi l, l \in Z$.
+
+4. Simplify the expression
+$$A=\sqrt{-(a+b)^2+\sqrt{ab+bc+ca}}.$$
+
+5. Find the smallest period of the function $y=5\sin x+\sin 2x$.
+
+6. Find the largest and smallest values ​​of the function $f(x)=3 \cdot \sin^2 x+4\sin x \cdot \cos x+\cos^2 x$.
+
+7. How many real roots does the equation have?
+$$1+x-x^2=|x|^3?$$
+
+8. Find the domain of a function
+$$f(x)=\frac{\sqrt{16-x^2}}{1-\sin x \cdot \sin 7x}.$$
+
+9. Plot graphs of the following functions:
+a) $y=\sqrt{-(1-x^2)^2}$; b) $y=\arcsin x+\sqrt{x^2-1}$.
+
+10. Find an arbitrary function
+$$y=\left[ \sqrt{3} \frac{1}{9}-\sqrt{3} \frac{2}{9}+\sqrt{3} \frac{4}{9} \right]^{3/2} \log_2 x^3$$
+
+11. At what value of $x$ is the function
+$$y=(x-a_1)^2+(x-a_2)^2+\dots+(x-a_n)^2$$
+reaches its lowest value?

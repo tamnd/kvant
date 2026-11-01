@@ -1,0 +1,41 @@
+---
+id: 1986-3-zadachi-4c18823d
+issue: kvant_1986_3
+year: 1986
+number: "3"
+title: Tasks
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 27
+page_last: 27
+page_labels: "25"
+tag: FXFU
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 17f9aca63d9759ed4e1a44c7010ab3f04775500126b1fd8c3ee6e0e5f9d98e8e
+prompt_sha256: draft-1
+translated_from: content/ru/1986/03/articles/11_zadachi-4c18823d.md
+source_content_sha256: d49335087ac2a2c7082fcbe657315ad0e3389f72ee9b367c0c2e6fd9f4f02e9f
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 25⟧
+
+Quests
+
+1. Ruslan bought four stamps for his collection: Cuban, Mongolian, Bulgarian and Polish. The cost of purchasing without a Cuban stamp is 40 kopecks, without a Mongolian stamp - 45 kopecks, without a Bulgarian stamp - 44 kopecks, and without a Polish stamp - 27 kopecks. How much does each stamp cost?
+
+2. If you add sixteen to twenty, you get 36—a perfect square. If you subtract sixteen from twenty, you get four - also a perfect square. Are there other numbers that become perfect squares after adding and subtracting the number 16?
+
+3. The tourists approached a small river with a log thrown across it. They need to get to the other side. The first tourist walked along a log and fell into the water, but managed to swim to the other side. Then the leader quickly ran across the log. The rest of the tourists followed him to the other side.
+
+Why is it better to run across a log than to cross?
+
+4. Points A and B, taken inside the rectangle CDEF, were connected to its vertices. Two of the resulting triangles were painted blue, two more were painted red, just like the central quadrilateral (see figure). Prove that the area of ​​the red part of the rectangle is equal to the area of ​​its blue part for any location of points A and B inside the rectangle.
+
+5. At what base does the number system have a solution (and what) is the number puzzle on figure? (For the number system, see the answer to the comic poem “An Extraordinary Girl” on p. 60.)
+
+These tasks were suggested to us by V. D. Vyon, a 7th grade student at school No. 60 in Vakuu, Nazim Shirinov, S. S. Krotov, G. A. Galperin, A. V. Shvetsov.
