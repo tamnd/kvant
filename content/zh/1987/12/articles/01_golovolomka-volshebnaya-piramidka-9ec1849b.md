@@ -1,0 +1,29 @@
+---
+id: 1987-12-golovolomka-volshebnaya-piramidka-9ec1849b
+issue: kvant_1987_12
+year: 1987
+number: "12"
+title: 【谜题“魔法金字塔”】
+rubric: smes
+page_first: 68
+page_last: 68
+tag: EP8T
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: d9367854422ad823ff0b5714b532a6c9dbd32bcf939b89aad0b2f8309891db51
+prompt_sha256: draft-1
+translated_from: content/ru/1987/12/articles/01_golovolomka-volshebnaya-piramidka-9ec1849b.md
+source_content_sha256: 1f45cebc34753e1af6eb6d242a3fc96776fffe3ffa342c4adf9c7a3a149ace11
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+“Magic Paramid”——我们关于地球仪拼图的笔记的另一部分——是在魔方之前发明的，但由于某种原因它在当时并没有受到重视。特别是体量庞大的球状地球破坏者、帕拉米德和立方体等，与前几期的不同之处在于，除了“倒立”的（见“退出”，第1、2号）之外，它们的活动部件不仅可以从一个地方移动到另一个地方，而且还可以以不同的方式“坐”在一个给定的地方。因此，在左侧 图 的 paramidon 中，有 3 种类型的块 - 4 个角块、6 个边缘块和 4 个中心块。第一个可以在同一个地方以三种方式转动，第二个可以两种方式转动，第三个可以三种方式转动；然而，中心块的旋转似乎无法区分。我们生产多种版本的 paramidka。最常见的是右图所示的那种，Paramidal 牙冠通常附着在其角块上，每个牙冠都会自行愈合。但更有趣的是带有中央区块的帕拉米达。可能没有必要解释如何处理它：可接受的重复显示为痕迹；有必要用所有 4 个轴的这种重复的 bocrus 来重新制作块，然后恢复原始颜色 - 每个轴一种颜色
+
+$$K_1 = AB^{-1}A^{-1}B$$
+
+边缘。我们已经不止一次地宣布了如何确认此类问题的解决方案。首先，考虑两匝换向器（图位于中心；匝数符号也可见）。在$K_1 = AB^{-1}A^{-1}B$的作用下，循环3个边缘块重新排列：$AB \rightarrow CB \rightarrow AC \rightarrow AB$（字母的顺序很重要！），中心块成对重新排列：$a \leftrightarrow b$，$c \leftrightarrow d$，$2d e$$a$，$b$，... - 中心BCD，CDA，...。 $K_2 = BC^{-1}B^{-1}C$：$AB \rightarrow CB \rightarrow CA \rightarrow AB$，只有 2 个区块 - CB 和 AC - 否则它会抱怨。因此，操作$K_1K_2^{-1}$会将这些块翻转到位，其余边缘块不会受到影响。如果将$K_1 : K_2^{-1}$转动3次，并且只转动中心块$a \leftrightarrow b$、$c \leftrightarrow d$，将获得另一个有用的操作。温度，您可以按以下顺序旋转块：1）角（必须旋转它们以匹配paramid每一侧的颜色），2）边缘DA，DB，DC - 您可以依次放置它们，使用开关$ABA^{-1}B^{-1}$，$B^{-1}A^{-1}BA$等，替换这些块之一3）边缘AB，BC，CA - 首先使用$K_1$或$K^{-1}$，以及然后，如有必要，将其翻转，使用$K_1K^{-1}$等，4）边缘-使用$K_3$等操作。尝试证明所指示的操作始终足以完成完整的组装（这并没有太大不同！）。 《魔方数学》（《相当》第8期，1982年）将帮助你成为。还有另一个任务：证明通过处理 paramida，你可以获得 $3^4 \cdot 6! \cdot 2^6 = 3732480$ 种不同的计算结果。

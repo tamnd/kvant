@@ -1,0 +1,50 @@
+---
+id: 1987-10-ob-otkryitii-vsesoyuznoy-zaochnoy-shkolyi-programmirovaniya-41de195f
+issue: kvant_1987_10
+year: 1987
+number: "10"
+title: 关于全联盟函授编程学院成立
+rubric: raznoe
+rubric_sub: Разное
+page_first: 50
+page_last: 50
+page_labels: "48"
+tag: WJT6
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 01ec1e48e8f13966d1a21a25354d891dd8855e42e6a03dbeaab51dba7194aca7
+prompt_sha256: draft-1
+translated_from: content/ru/1987/10/articles/17_ob-otkryitii-vsesoyuznoy-zaochnoy-shkolyi-programmirovaniya-41de195f.md
+source_content_sha256: b5750e8fd24fd735611bc98c0d028e0cc9c5f897f5759b99dc00bfd88c242df8
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 48⟧
+
+关于开业
+全方位对应
+编程学校
+
+苏联科学院软件系统研究所为中小学生和职业学校学生开设了全方位函授学校课程，信息、计算机和编程的相互实体化。学院的目标是讨论信息的问题和前景以及基本编程技术及其应用领域，展示用几种编程语言编写程序的方法。一般而言，不假定计算机科学的先验知识，但在课程作者发现将特定软件工具与算法语言进行比较是有用的情况下，学校课程“计算机科学基础和计算机科学”（9-10 年级）是在此基础上构建的，学校课程不会重复学校教科书的内容。学校的前四课将于«Kvant»出版。
+
+每节课都会包含几个问题中的问题，这些问题的解决方案应在收到作业后一个月内给出。学校的课程设计为期两年。
+
+函授学校课程是为没有计算机技术的学生设计的。尽管如此，任何有机会在可用计算机上检查解决方案正确性的人都不要忽视这个机会。
+
+那些希望参加全联盟函授编程学院工作的人必须在收到第11期期刊之前，以下列形式发送申请：
+
+语言标志
+
+A.A.杜瓦诺夫，Y.A.佩文
+
+第 1 课：海龟旅行（简单的徽标命令）
+
+— 你能控制电视吗？
+- 当然！您需要将其打开网络，选择所需的频道，调整图像和声音。
+同样容易的是，您可以控制一辆电动自行车、煤气炉、电话和其他熟悉的表演者。
+我们生活在表演者的世界里。各种机器、机构、
+
+设备，有简单的，也有复杂的。我们自己也经常扮演表演者的角色。执行者也有限制，比如邮件、肾、商店。在这个行政世界中，一种特殊的类型脱颖而出——电子计算机。他们的特殊作用是帮助管理目的和设计截然不同的其他表演者。在这种情况下，计算机充当中介者的角色。一个人通过机器远程控制，用一种特殊的人机交流语言——编程语言，为执行者设定一个动作程序。机器的任务是将这种语言的短语转换成控制信号并将其传输给表演者。
