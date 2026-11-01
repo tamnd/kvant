@@ -1,0 +1,93 @@
+---
+id: 1980-7-petrova-redkozubov-moskovskiy-oblastnoy-pedagogicheskiy-institut-im-n-k-krupskoy-182ad685
+issue: kvant_1980_7
+year: 1980
+number: "7"
+title: 莫斯科地区师范学院以此命名。 N·K·克鲁普斯卡娅
+authors:
+  - Петрова М. А.
+  - Редкозубов В. А.
+rubric: ekzamenatsionnye-materialy
+page_first: 54
+page_last: 54
+page_labels: "52"
+tag: YB5U
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: bd8053611d9e23cc02de07cf4e3c557de6427343eb58bb99272dbad735ac8ff0
+prompt_sha256: draft-1
+translated_from: content/ru/1980/07/articles/21_petrova-redkozubov-moskovskiy-oblastnoy-pedagogicheskiy-institut-im-n-k-krupskoy-182ad685.md
+source_content_sha256: 0041065a10ffbcfb4d1b811b0d364b0809a2118fb41fa43ea273fcd22c04629c
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 52⟧
+
+莫斯科地区师范学院以此命名。 N·K·克鲁普斯卡娅
+
+数学
+笔试
+选项1
+（数学系）
+
+1. 证明数字$\frac{1}{\log_3 2}, \frac{1}{\log_6 2}$、$\frac{1}{\log_{12} 2}$构成等差数列。
+
+2. 找到$\alpha$属于线段$[0; 2\pi]$且满足方程的所有值
+
+$$\int_{\pi/2}^{\alpha} \sin x \, dx = \sin 2\alpha.$$
+
+3. 三角形的两条边分别等于6厘米和8厘米。绘制到这些边的中线相互垂直。求三角形的长度。
+
+4. 求解方程组：
+
+$$\begin{cases} x + y + \sqrt{x+y} = 20, \\ x^2 + y^2 = 136. \end{cases}$$
+
+5. 正四边形直线$SABCD$的底边等于2，高为$\sqrt{2}$。求侧边 $SA$ 与底边 $BD$ 对角线之间的距离。
+
+选项2
+（物理学院）
+
+1. 找到满足方程的$a$正值集合
+
+$$\int_{0}^{a} (3x^2 + 4x - 5) \, dx = a^3 - 2.$$
+
+2. 求解方程$\sqrt{\log_2 x} - 0.5 = \log_2 \sqrt{x}$。
+
+3. 等腰梯形的侧面在延伸时以直角相交。如果梯形的面积为 $12 \, \text{cm}^2$，高为 2 厘米，请确定梯形的边长。
+
+4. 解方程
+
+$$\sin 2x = \cos^4 \frac{x}{2} - \sin^4 \frac{x}{2}.$$
+
+5. 给定一个立方体$ABCD_1B_1C_1D_1$。计算线 $BC_1$ 和 $BK$ 之间的角度，其中 $K$ 是边 $AA_1$ 的中点。
+
+物理
+
+口试作业
+（物理学院）
+
+1. 质量为 $m_1 = 3,0$ kg 的物体在绳索末端附有质量为 $m_2 = 1,0$ kg 的负载的作用下沿水平面滑动。绳子绑在一个质量为 $m_1$ 的物体上，并且会在固定块上沸腾。确定系统的加速度和绳索的张力。我们先忽略训练吧。
+
+2. 在质量为 $m_2 = 60$ kg 的船上。船以$\vec{v}_1(|\vec{v}_1| = 2 \, \text{m/c})$的速度漂浮。人从船上沿水平方向跳下，相对于船的速度为$\vec{v}(|\vec{v}| = 4 \, \text{m/c})$。将人沿着船的运动向前推，求船的速度。
+
+3. 飞机以$\vec{a}(|\vec{a}| = 5,0 \, \text{m/c}^2)$的加速度制动时，最终能以多少速度降落在长度$l = 800$米的机场着陆区？
+
+4. 当一定质量的气体在恒压下加热$\Delta T = 1$K时，该气体的质量增加了原体积的$n = 1/350$份。求气体的初始温度。
+
+5. 容量为 $V = 20$ l 的钢瓶，在$p = 1,3$ MPa 压力下，装有重量为 $m = 500$ g 的二氧化碳。确定气体的温度。
+
+6. 将一块锡放入盛有 $m_1 = 2,35$ kg $t_1 = 20^\circ \text{C}$ 水的容器中，加热至 $t_2 = 230^\circ \text{C}$。容器内的水温上升了$\Delta t = 15^\circ$。计算锡的质量$m_2$。忽略水的蒸发。水和锡的比热容分别为 $c_1 = 4,19 \cdot 10^3$ J/(kg K) 和 $c_2 = 2,5 \cdot 10^2$ J/(kg K)。
+
+7. 两个精确电荷 $q_1 = 10^{-6}$ C 和 $q_2 = -10^{-6}$ C 之间的距离等于 $r = 10$ cm。确定作用在确切电荷 $q = 10^{-7}$ C 上的力，距离第一个电荷 $r_1 = 6$ 厘米，距离第二个电荷 ($\varepsilon_0 = 8,85 \cdot 10^{-12} \, \text{Ф/m}$) $r_2 = 8$ 厘米。
+
+8. 原电池向 $R_1 = 4$ 欧姆的外部电阻提供 $I_1 = 0,2$ A 的电流。如果外部电阻等于$R_2 = 7$欧姆，则该元件给出的电流为$I_2 = 0,14$A。如果短路，它给出的电流是多少？
+
+9. 如果焦距为 $F = 18$ cm 的投影灯镜头距离屏幕$f = 6,0$ m，可提供多大的放大倍数？
+
+10. 太阳光线以太阳距地平线 $\alpha = 30^\circ$ 的角高度落在水面上。水中的光线经过折射后是什么样子的？水的折射率为$n = 1,33$。
+
+M·彼得罗娃，
+V·雷德科祖博夫

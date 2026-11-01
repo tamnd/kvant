@@ -1,0 +1,66 @@
+---
+id: 1990-1-zadachi-2b5ac1d4
+issue: kvant_1990_1
+year: 1990
+number: "1"
+title: 任务
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 51
+page_last: 51
+page_labels: "49"
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 2a18900d4e5c6c39af4b95a5cc93d5a618d17d66aa76cbc558f96dccf7af3850
+prompt_sha256: draft-1
+translated_from: content/ru/1990/01/articles/10_zadachi-2b5ac1d4.md
+source_content_sha256: 9eca9f5fb17f3eac5395d169cca17afcd4ff3be8dfd1cb5e2651e984f88e5477
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 49⟧
+
+---
+running_head:
+folio:
+---
+
+任务
+
+1. 如果一个人站在一个非常
+眼前的人比人还高，
+站在那个人后面
+ry站在你面前，是吗？
+站在你面前的人更高
+你？
+
+2. 窗边站着四个女孩
+（笑。图）。什么样的女孩才够呢？
+绝对要求转身，以便
+看看这个说法是否属实
+说道：“如果一个女孩没有戴眼镜，那么
+她的头发上有一个蝴蝶结”？
+
+3. 求两个自然数，
+其差和商为一
+和相同的整数。
+
+4. 填写方形单元格
+rata 带有字母 K、O、P、A 和 H，
+以便在每个水平方向和
+垂直行以及对角线
+Nalam 所有字母都不同。
+
+5. 它每天转多少圈？
+小时和分钟之间的平分线 -
+诺亚之箭？
+
+有问题发给编辑，我们经常
+“打扮”：改变情节、夸张、概括
+我们很抱歉。在本周年纪念刊中，我们“改变-
+李”五题，1980年出版。
+
+49
