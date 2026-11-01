@@ -1,0 +1,70 @@
+---
+id: 1984-9-ionin-fomin-izbrannyie-zadachi-50-y-leningradskoy-gorodskoy-olimpiadyi-po-matematike-4d84ff0d
+issue: kvant_1984_9
+year: 1984
+number: "9"
+title: Selected problems of the 50th Leningrad City Olympiad in Mathematics
+authors:
+  - Ионин Ю. И.
+  - Фомин С. В.
+rubric: olimpiady
+rubric_sub: Олимпиады
+page_first: 56
+page_last: 56
+page_labels: "54"
+tag: KNQ7
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 6dbf1f39da24b4d56c5a3581e817f1a410c67137fddcac9e943c2c793d71c368
+prompt_sha256: draft-1
+translated_from: content/ru/1984/09/articles/22_ionin-fomin-izbrannyie-zadachi-50-y-leningradskoy-gorodskoy-olimpiadyi-po-matematike-4d84ff0d.md
+source_content_sha256: e3e9982d4ebca2788c29e7e6edc14204b5da08b975d00e5ae77fb7dfe4d98363
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 54⟧
+
+Selected problems of the 50th Leningrad City Olympiad
+
+The task for the anniversary Leningrad Olympiad is included in the “Problem book «Kvant» of the previous and this issue (M876—M882 and M883 6).” Below we publish several more interesting problems of this Olympiad. Instructions for solving some of them are placed at the end of the issue (p. 62). The task for the Olympiad was proposed by S. A. Genkin (No. 2, 13), A. G. Goldberg (No. 5), Yu. I. Nonin (No. 3, 4, 15), A. S. Merkuryev (No. 7, 10, 12, 14, 16), S. E. Rukshiin (No. 8, 9), G. Perelman (No. 11), D. V. Fomin (No. 1), S. V. Fomin (No. 17).
+
+1. The circle is divided into 6 sectors, in which the numbers 1, 0, 1, 0, 0, 0 are located (in that order). It is allowed to simultaneously increase two adjacent numbers by 1. Prove that using such operations it is impossible to add equality to all numbers of numbers. (5 grades)
+
+2. There are 45 points on the line that lie outside the segment AB. Prove that the sum of the distances from these points to point A is not equal to the sum of the distances from these points to point B. (5-7 cells)
+
+3. Find the smallest integer that can be expressed in the form 13x+73y, where x and y are natural numbers.
+
+4. Prove that the set of numbers (2, 3, 5, 7, 8, 9, 10, 11, 13, 15) cannot be a set of the lengths of the sides and diagonals of a pentagon. (7 grades)
+
+5. Find the numbers
+$$ (1+x^2)^{-1} + (1+y^2)^{-1}, $$
+if it is known that they are equal and $x \neq y$. (7 grades)
+
+6. In the convex pentagon ABCDE the correspondence holds: $AE=AD, AB=AC, \angle CAD=\angle AEB+\angle ABE$. Prove that side CD is twice the medina AM of triangle ABE. (7 grades)
+
+7. The positive numbers $a_1,a_2,...,a_n$ and $b_1,b_2,...,b_n$ are such that $a_1+a_2+...+a_k=b_1+b_2+...+b_n$. Prove that in a rectangular table of $k \times n$ cells it is possible to arrange non-negative numbers, among which there are at least $(k-1)(n-1)$ zeros, so that the sums of the numbers in the rows are equal to $a_1,...,a_k$, and in the columns - $b_1,...,b_n$. (8-9 grades)
+
+8. Points E and H are given on sides AB and CD of a convex quadrilateral ABCD. Prove that if triangles ABH and CDE are equal in size and $AE:BE=DH:CH$, then $BC \parallel AD$. (8-9 grades)
+
+9. Two people play this game. The first player writes some number; the second player adds another number to it on the left or right; (8-9 grades)
+
+10. There are 4 points with integer coordinates on the coordinate plane. It is allowed to replace any of these points with a point symmetrical to it relative to any other of these points. Is it possible to go through several such operations from the vertices of a unit square (0; 0), (0; 1), (1; 0), (1; 1) to points with coordinates (0; 0). (1; 1), (3; 0), (2; -1)? (8-10 grades)
+
+11. Given numbers: 1 and nine zeros. You are allowed to select two numbers and replace each with the arithmetic mean. What is the smallest number that can replace one after a series of such operations? (8-10 grades)
+
+12. Prove that there is a set $A$ consisting of natural numbers such that any natural number not belonging to the set $A$ is the arithmetic mean of two different elements of the set $A$, and no number from the set $A$ has this property. (8-10 grades)
+
+13. The chip can be located at one of the $13 \times 13$ points $(x, y)$, where $x$ and $y$ are integers, $0 \leq x \leq 12$, $0 \leq y \leq 12$. A chip can find from point $(x_1,y_1)$ to point $(x_2,y_2)$ if each of the numbers $|x_1-x_2|, |y_1-y_2|, |y_1-y_2|$ is at least 2 and at most 9. Prove that it cannot go around all 169 points by raising at each of them exactly once. (8-9 grades)
+
+14. The difference of the six-digit numbers $abcdef$ and $fdebca$ is divisible by 271. Prove that $b=d$ and $c=e$. (8-10 grades)
+
+15. The numbers 1, 2,..., 100 are placed in the top 50 places. Prove that there are two numbers at the ends of one edge that do not correspond perfectly to more than 48. (10 cells)
+
+16. The integer $a$ is such that the number $3a$ is representable as $x^2+2y^2$, where $x$ and $y$ are integers. Prove that the number $a$ can also be represented in this form. (10 grades)
+
+17. After several operations of differentiation and multiplication by $x+1$, performed in any order, the polynomial $x^8+x^7$ becomes $ax+b$. Prove that the difference of the integers $a-b$ is divisible by 49.
+
+The publication was prepared by Yu. I. Nonin, S. V. Fomin

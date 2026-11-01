@@ -1,0 +1,51 @@
+---
+id: 1984-8-vechernyaya-fizicheskaya-shkola-pri-mgu-b541dec9
+issue: kvant_1984_8
+year: 1984
+number: "8"
+title: Evening physical school at Moscow State University
+rubric: informatsiya
+rubric_sub: Информация
+page_first: 62
+page_last: 62
+page_labels: "60"
+tag: UA1E
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: fb2ff99e76e4ebb34d43a3aa3827055e6a0057fcf300deb810d43066105c26db
+prompt_sha256: draft-1
+translated_from: content/ru/1984/08/articles/14_vechernyaya-fizicheskaya-shkola-pri-mgu-b541dec9.md
+source_content_sha256: b3f58d0953e75f12d643cd34ae40abeb45c15c369e9adf0ecead2c605ff27065
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 60⟧
+
+too, ended up in balance? Indicate all such points.
+
+6. A ball thrown downwards with a speed of $v$, bouncing off the floor, reaches the ceiling of the gym. At what speed should the little guy throw the ball down from a stand of height $h$ for the ball to reach the ceiling again?
+
+7. An athlete performs a “two and a half turns back bend” dive into the water from a ten-meter platform. At what height above the water is it at the moment of completion of the second revolution?
+
+8. The rod is made of a large number of alternating segments of the same length, but from two different materials. In one material the speed of sound is $v_1$, in the other $v_2$. Find the average speed of sound in the rod.
+
+Fig. 2
+
+9. An engine developing power $N$ operates with efficiency $n$. Determine the second water flow rate for cooling the engine if it has a temperature of $T_0$ at the entrance to the cooling system and $T$ at the outlet. Specific heat of water $c$.
+
+10. Cylinders with sections $S_1$ and $S_2$ are connected by a tube and covered by pistons, rigidly connected to each other (Fig. 2). The pressure $p_0$ in the cylinders is equal to atmospheric pressure, and its volume is $V_0$. How far will the piston move if the atmospheric pressure changes and becomes equal to $p$? The temperature is considered constant.
+
+11. The main part of the aneron barometer is a metal box from which air is pumped out. When atmospheric pressure changes, the lid of the box is deformed, and its displacement is transmitted to the pointer arrow. Why do you need to pump the air out of the box? It would seem that a sealed box with air would also respond to changes in atmospheric pressure, and the manufacture of a barometer would be greatly simplified if the air was not pumped out.
+
+Evening physical school at Moscow State University
+
+The Evening Physics School (VPS) at the Faculty of Physics of Moscow State University announces enrollment of students in grades 8, 9 and 10 for the next academic year.
+
+The main goal of the VFS is to help students study physics more deeply within the scope of the school curriculum. Classes at the school are conducted in the form of lectures given every two weeks and daily seminars. In addition, students will be able to visit the faculty’s scientific laboratories and get acquainted with the main directions of modern physics at lectures by leading scientists. Elective classes in mathematics are organized for tenth graders. Those who successfully complete the training receive a certificate of completion of the VFS.
+
+Admission to the VFS is based on the results of the application, which will be held starting from September 26. Working youth are enrolled without competition. To enroll in the school, you must personally fill out an application at the Komsomol Committee of Physics of Moscow State University (with the attachment of two factor points measuring $3\times 4$ cm). Applications can be submitted from September 5 to September 24, every day, except session, from 16 to 18 hours.
+
+VFS address: 119899, ​​Moscow, Lenin Hills, Moscow State University, Faculty of Physics, VFS. Phone: 139-26-56.

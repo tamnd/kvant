@@ -1,0 +1,41 @@
+---
+id: 1984-5-zadachi-86fc99b4
+issue: kvant_1984_5
+year: 1984
+number: "5"
+title: Tasks
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 42
+page_last: 42
+page_labels: "40"
+tag: JUSN
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 58602d41a2a62c2f055a30101b7bf9a6d23e2a5425f651dd02fc9685627dbf7a
+prompt_sha256: draft-1
+translated_from: content/ru/1984/05/articles/17_zadachi-86fc99b4.md
+source_content_sha256: 230f5818fe5fe22b19ba795a4c239f9b23f54a8a4760552dc17e7e0921125367
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 40⟧
+
+Tasks
+
+1. In the equality on figure, move one match so that it becomes true. Try to find three different ways.
+
+2. A smart seller received several packs of envelopes for sale, 100 envelopes per pack. He delivers 10 envelopes in 10 seconds. How many seconds will it take him to read out 60 envelopes? What about 90 envelopes?
+
+3. In the cells of the square, arrange the numbers 1, 2, 3, 4, 5, 6, 7, 8, 9 so that the five numbers, the decimal notation of which is obtained on the horizontal lines, would be squares of integers.
+
+4. After the rectangle was cut out, the figure shown in figure was formed. Draw a straight line that divides the area of ​​this figure into two equal parts.
+
+5. In winter, you can see how the automatic machine slips: one drive wheel, located on the skid, spins quickly, and the other, standing on a rougher part of the road, is stopped. If the wheels always rotated at the same speed, the car would not slip in this way. Why then are the driving wheels of the automatic transmission connected in such a way that they can rotate at different speeds?
+
+These tasks were offered to us:
+S. V. Dvoryaninov, Sasha Korshkov (5th grade student),
+V. V. Proizvolov, A. P. Savin

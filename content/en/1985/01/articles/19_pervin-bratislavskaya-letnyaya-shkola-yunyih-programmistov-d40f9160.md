@@ -1,0 +1,47 @@
+---
+id: 1985-1-pervin-bratislavskaya-letnyaya-shkola-yunyih-programmistov-d40f9160
+issue: kvant_1985_1
+year: 1985
+number: "1"
+title: Bratislava Summer School for Young Programmers
+authors:
+  - Первин Ю. А.
+rubric: informatsiya
+rubric_sub: Информация
+page_first: 53
+page_last: 53
+page_labels: "51"
+tag: W6FF
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: e431aa4c0ad0e3eb8ea73fa41d7bd51f5b95a54009d042d6119f93b6a1bc64e6
+prompt_sha256: draft-1
+translated_from: content/ru/1985/01/articles/19_pervin-bratislavskaya-letnyaya-shkola-yunyih-programmistov-d40f9160.md
+source_content_sha256: e66acc60b1310b1b4b7b34bde8ab6f4b8616d70820705176e6e99352aa54a85c
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 51⟧
+
+Brotherhood summer school for young programmers
+
+From July 1 to July 8, 1984, the first Summer School for Young Programmers in Slovakia was held in the capital of the Slovak Socialist Republic, Bratskaya. The school took place in the fraternal gymnasium named after. Yu. Gronz, where programming has been taught to senior schoolchildren for twenty years. The organizers of the Summer School are the director of the gymnasium M. Ganulya, programming teacher O. Demachek, E. Ganulova and others - bitter enthusiasts of school computer science. In the summer of 1983, a delegation of schoolchildren from the gymnasium named after. Y. Gronca, headed by O. Demachek, participated for the first time in the All-Union Summer School for Young Programmers. Based on the results of this trip, it was decided to hold a summer school at Bratskaya with the invitation of young programmers from the Soviet Union.
+
+A line of high school students gathered in Bratichesku. At the first meeting, all the guys talked about how they study programming at their school, what machines they are familiar with, what programs they use. And those gray-haired girls and boys who came to the School with the results of their programs made short reports. Schoolchildren from Banska Bistrica R. Nemec and I. Melicherczyk showed their program working with large numbers. The guys managed to calculate some of the integrals of the number with high accuracy (up to 256 digits) on scale machines with limited capabilities. In a report by R. Lasca from the gymnasium of the Slovakian city of Senite, programs for analyzing the relative positions of straight lines were proposed. I. Kudla from the University of Technology in Levice demonstrated the calculations of gear systems in BASIC.
+
+The speeches of Soviet schoolchildren were listened to with interest. P. Zemtsov (Novosibirsk, s.sh. No. 25) spoke about the programming system in the Rapier language for Soviet personal micro-computers, A. Petrov (Novosibirsk, s.sh. No. 166) - about the use of computers in lessons in advanced school subjects through the use of educational application packages.
+
+The School's curriculum was intense. In the first days, lectures were given on the Pascal language. They turned out to be relevant, since in most numerical schools where programming is taught, the teaching language is BASIC - a relatively simple, but methodologically controversial program language. The lectures at the Summer School reflected many more important problems of modern programming - operating systems, parallel algorithms, debugging software, computer graphics, artificial intelligence software.
+
+Issues of theory and methodology of programming were also discussed - proof of the correctness of the program, the basics of reciprocal mathematics and programming. These lectures were given by teachers of the gymnasium, students of fraternal universities, researchers from research institutes of the Slovak Academy of Sciences, as well as the head of the Soviet delegation, Yu. A. Pervin.
+
+Undoubtedly, the most exciting part of the School was the work of students at the computer consoles. The gymnasium provided its computer equipment for this purpose: two Czechoslovak mini-computers - ADT-4316 with 8 terminals and a programming system in BASIC and CM-3-20 with 6 terminals and the Pascal language, as well as two personal micro-computers with graphic capabilities - a new Czechoslovak-made machine PMD-85 and a small English completer Sinclair-ZX81. The participants of the School quickly got used to the technical technology that was new to them and from the very first days they were present at solving the problems offered to choose from at the very beginning of the School.
+
+The range of tasks in terms of difficulty level was extremely wide and could satisfy any taste. It is enough to name the classic programs from the toolariums of machine mathematics - matrix processing package, sparse matrix arithmetic, construction of function graphs. Those who are preparing to become a systems program were more interested in the topics of sorting, building a cross-reference table, a graphical editor, automating search information, and compiler models. A number of applied and game problems were proposed - software for managing a home budget, labyrinths, programming checkers, solving chess problems, simple interactive programs that test knowledge of history, geography, and literature. Graphics were actively used in most tasks.
+
+Each of these problems was offered to a team of 2-3 people, who spent their free time debugging the program on one of the machines. A team of Soviet schoolchildren compiled a program model of a robot ant in BASIC (described in the magazine “Nuka and Life”, 1984, No. 5), which serves as a convenient methodological tool for teaching the basics of programming to younger schoolchildren. The authors of the program did the entire dialogue with the machine in glorifying language (of course, not without the help of new friends whom the Soviet schoolchildren met in Braticheskie).
+
+The proposed School day was interesting. Most of it was taken up by an amazing excursion. Along a long, flat road, all the schoolchildren arrived at the State Meteorological Center of Slovakia, located high in the picturesque Lesser Carpathians. Programmers were interested in the computer technology that this center was based on, for example, color graphic displays with a raster of 512×512 pixels. On the screen of such a display, images of both the entire globe and the nearest region received from the satellite and processed on a computer are clearly visible. After such a walk, it seemed like we could rest. But immediately after returning to the gymnasium classes, another event began - the development of young programmers,

@@ -1,0 +1,84 @@
+---
+id: 1984-11-olhov-ob-odnom-sposobe-resheniya-nekotoryih-uravneniy-24207435
+issue: kvant_1984_11
+year: 1984
+number: "11"
+title: About one way to solve some equations
+authors:
+  - Ольхов В. Е.
+rubric: shkola-v-kvante
+page_first: 31
+page_last: 31
+page_labels: "29"
+tag: 95KQ
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 9f76bcd8db3adc682e180d1a1336340736e5720fdb9a1941036112a0d990a173
+prompt_sha256: draft-1
+translated_from: content/ru/1984/11/articles/09_olhov-ob-odnom-sposobe-resheniya-nekotoryih-uravneniy-24207435.md
+source_content_sha256: fc3509050bcc0af204455730cdcdfe797772fc0ec771e761664411e711727de2
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 29⟧
+
+Mathematics 8,9,10
+
+The note published below, “On one way to solve some equations,” presents the possibility of deduction to some extent conditionally, since each of these notes can be useful not only for students of the indicated classes.
+
+About one way to solve some equations
+
+Consider the following problem:
+1. Solve the equation
+$$ (2x-1)\sqrt{x-2}=7\sqrt{2}. $$
+(1)
+
+Traditional squaring of both sides results in a cubic equation
+$$ 4x^3-12x^2+9x-100=0, $$
+and many solvers try to find another way to solve the problem.
+
+Probably, many agreed that we can try to find one of the roots of the equation by equating the corresponding factors:
+$$ \begin{cases} 2x-1=7, \\ \sqrt{x-2}=\sqrt{2}, \end{cases} $$
+whence $x=4$.
+
+Unfortunately, they stop there and write out the answer. As a result, the solution contains a gross error, despite the correct answer: we “guessed” the (single) root of the equation, but did not prove that there are no more roots.
+
+In this case, it is easy to prove that equation (1) has no other roots, since for $x>4$ we have $2x-1>7$, $\sqrt{x-2}>\sqrt{2}$ and the left side is greater than the right, and for $x<4$ (from the domain of definition of the equation) $2x-1<7$, $\sqrt{x-2}<\sqrt{2}$, therefore the left side is less than the right.
+
+Let us emphasize once again that the solution consists of two parts:
+1) we “guess” the root (or roots) of the equation;
+2) We prove that the equation has no more roots.
+
+Note that the method of equation of roots used to solve (1) is also suitable in the case when instead of a product, a sum is taken into the equation. For example, in this problem:
+2. Solve the equation:
+$$ 2x+\sqrt{x-2}=8+\sqrt{2}. $$
+
+The number of factors (terms) in such problems can be large; in this case, some of the factors should be set equal to 1, as, for example, in the following problem:
+3. Solve the equation:
+$$ (2y-1)\sqrt{y-2}\sqrt{y-3}=7\sqrt{2}. $$
+Note that the methods for guessing roots may be different. Consider, for example, the following problem:
+4. Solve the equation:
+$$ 2a+\sqrt{a-2}+\sqrt{a-3}=9+\sqrt{2}. $$
+(2)
+
+It is natural to assume that $\sqrt{a-2}=\sqrt{2}$, hence $a=4$. After this it is easy to check that for $a=4$
+$$ 2a+\sqrt{a-3}=2\cdot4+\sqrt{1}=9. $$
+
+Let us now prove (similar to Problem 1) that equation (2) has no other roots:
+1) For $a>4$ we have $2a>8$, $\sqrt{a-2}>\sqrt{2}$, $\sqrt{a-3}>1$, so the left side is larger than the right;
+2) at $a<4$ (from the domain of definition of the equation) the left side is smaller than the right.
+
+V. E. Olkhov
+
+Three solutions to one problem
+
+It often follows that we do not finish our reasoning and abandon the ideas that arise in our minds. In this problem, using the example of one problem, it is shown how different ideas, far from each other in the initial stages, can lead to the goal if you show realness in searching for a solution.
+
+Problem. Construct a right triangle using the hypotenuze and bisection of the right angle.
+
+The problem seems relatively simple, but it was not possible to solve it “on the fly.”
+
+As you know, solving a construction problem consists of 4 points: 1) analysis,

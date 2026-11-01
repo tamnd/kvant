@@ -1,0 +1,42 @@
+---
+id: 1985-1-belkin-pravila-kirhgofa-770c087d
+issue: kvant_1985_1
+year: 1985
+number: "1"
+title: Kirchhoff's rules
+authors:
+  - Белкин И. К.
+rubric: shkola-v-kvante
+page_first: 28
+page_last: 28
+page_labels: "26"
+tag: P1IN
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 6f6125393a9f07f0b4a2b277962a38a368abcc5dc597e5b4f87bae788b27b3fa
+prompt_sha256: draft-1
+translated_from: content/ru/1985/01/articles/08_belkin-pravila-kirhgofa-770c087d.md
+source_content_sha256: 9773925df27d4f97c17269688031d42a05a68c7ec3eb12e5162953c17b1ff7c0
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 26⟧
+
+It turns out that Newton gives a direct expression for the force of gravitational attraction between two bodies.
+
+As the third law, Newton formulates a property that is common to all types of interactions: an action always has an equal and opposite reaction. So, if one body acts on the second, only to the north, then the second with the same magnitude force only the first to the south, and both of these forces act strictly along the same line.
+
+Thus, we come to the conclusion that it is impossible to say which of Newton's three laws is more important. All of them are necessary to describe the movement of a body and together they provide the fundamental possibility of a complete description of any mechanical movement. The word “principled” was added here for a reason. Only in the case of the simplest types of gravitational attraction forces can be solved accurately. Problems arising in practice due to their mathematical complexity of attraction can be solved using more complex methods using a computer. Thus, the problem of the movement of two bodies under the influence of their mutual gravitational attraction is solved relatively simply. The same problem, but for three bodies, does not have an exact solution at all, but can be solved with any degree of accuracy. With the advent of computers, obtaining a given solution accuracy requires significantly less time.
+
+Kirchhoff's rules
+
+From the textbook “Physics 9” (§ 65) we learned about Ohm’s law for a closed circuit, which allows us to find the current flowing in the simplest unbranched electrical circuit, consisting of a current source and a resistor. However, in practice, you often have to deal with complex, branched chains like the one shown at figure. They can contain several current sources and several resistors. These chains, in turn, can serve as elements of an even more complex chain. To find currents in various sections of such circuits, Kirchhoff’s rules are used, which we will consider.
+
+The points in the circuit at which three or more wires converge (points A, B, C, D, F) are called branching points, or nodes. For the sake of simplicity, the internal resistance of each current source is included in the resistance of the resistor according to the particles.
+
+First of all, let’s arrange and measure the currents flowing in each section of the circuit, arbitrarily indicating their directions. We will consider the current to be positive if it “flows” into the branch point, and negative otherwise (the validity of this choice of signs will be discussed below). It is clear that the charge can neither accumulate in the node nor disappear from it except through the supply wires. Consequently, whatever charge “flows” into a node per unit time, the same charge must also “flow out”. Thus, we came to Kirchhoff’s first rule: the allebraic sum of currents converging at any point in the branch of the circuit (at a node) is equal to zero.
+
+Now let's select in our complex circuit some simple closed circuit, for example ABCDA, and arbitrarily choose the direction of its traversal - say, clockwise, starting from point A. Let's consider section AB of this circuit. Let the direction on it be equal to U_AB. In the absence of a current source, this value was equal to the drop in the direction of I_1R_1 in the resistor (the work of moving a charge from point A to point B is equal to the amount of heat released in the resistor). If there is a current source in the area, then, depending on its polarity, it will take perfection to move the charge from point A to point B.

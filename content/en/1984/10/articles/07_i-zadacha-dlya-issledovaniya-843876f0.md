@@ -1,0 +1,50 @@
+---
+id: 1984-10-i-zadacha-dlya-issledovaniya-843876f0
+issue: kvant_1984_10
+year: 1984
+number: "10"
+title: Research problem
+authors:
+  - И. Я.
+rubric: smes
+page_first: 15
+page_last: 15
+page_labels: "13"
+tag: T14Y
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: f191a5ed8dfc887cbbd8b246581b58dc03ba4fc1830b77d9291602d72023c75d
+prompt_sha256: draft-1
+translated_from: content/ru/1984/10/articles/07_i-zadacha-dlya-issledovaniya-843876f0.md
+source_content_sha256: abd5540df10c6b01f647609699a456df1f949c311898db0a241c4b40312da15e
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 13⟧
+
+That the interaction of bodies can be characterized not only by force, but also by potential energy. For potential energy, the following theorem is valid: the change in the potential energy of interacting bodies, taken with the opposite sign, is equal to the equality of the interaction forces.
+
+Thus, we introduced three important physical quantities - the work of forces, the kinetic energy of the body's energy and the potential energy of the body's interaction.
+
+It is not difficult to show that for a system of bodies interacting with each other by forces of gravity and elasticity, the law of conservation of total energy is valid: the sum of the potential and kinetic energy of the interacting bodies, taken with the opposite sign, is equal to the equal forces of interaction.
+
+We have given a number of examples of how physical quantities are introduced. From these examples it is clear how important it is to correctly choose the physical quantities that characterize a particular phenomenon. We limited ourselves to only quantities characterizing mechanical motion.
+
+The rapid introduction of physical quantities makes it possible to discover and formulate a number of important laws of classical mechanics (Nyutov mechanics). These laws have found wide application in many areas of technology. Physical quantities are introduced using the same principles in other branches of physics.
+
+Research problem: SELECT THE VERTS OF A CONVEX k-GON
+
+The conditions call a system of points on a plane generic points if no three of these points belong to the same line. It is clear that 4 points in general position on the plane may not be the vertices of a convex 4-satellite; however, as is easy to prove, if there are 5 points on the plane, then the non-tortic 4 of them are certainly the vertices of a convex 4-satellite. 6, 7 or 8 points in general position can be placed on a plane such that no 5 of them are vertices of a convex 5-plea; however, among any 9 points in general position it is certain
+
+How to find such that they are the vertices of a convex 5-plea. The proof of this statement is not difficult, but rather cumbersome. A note by G. A. Tonoyan is dedicated to him («Kvant», 1975, No. 11, p. 26).
+
+The famous Hungarian mathematician Pál Erdős, a member of the Hungarian Academy of Sciences and many other academies and scientific societies in different countries, is responsible for the problem of determining the smallest number N=N(k) such that from N points in general position on the plane it is certainly possible to select k points that are the vertices of a convex k-pleasure. Using a rather cumbersome search of possible options for the location of points on the plane, Erdős proved that N(6) = 17: on the plane one can specify 16 points in general position such that no 6 of them are the vertices of a convex 6-pleaser; however, if there are 17 points in general position, then among them 6 vertices of the convex 6-pleasure must be found such that for a system of bodies interacting with each other by forces of gravity and elasticity, the law of conservation of total energy is valid: the sum of the potential and kinetic energy of the interacting bodies, taken with the inverse, is equal to the equal of the interaction forces.
+
+We have given a number of examples of how physical quantities are introduced. From these examples it is clear how important it is to correctly choose the physical quantities that characterize a particular phenomenon. We limited ourselves only to quantities characterizing mechanics (Nyutov mechanics). These laws have found wide application in many areas of technology. Physical quantities are introduced using the same principles in other branches of physics.
+
+This hypothesis of Erdossy looks adjacent: the formulation of its contribution. However, alas! — today there are no visible approaches to solving the problem of determining the number N(k), that is, to proving (and, perhaps, on the contrary, to refuting) the Erdős hypothesis (Erdős himself only has an estimate of the number N(k), unfortunately, quite far from the hypothetical result). It would be interesting to obtain good upper and lower bounds for N(k).
+
+AND I.
