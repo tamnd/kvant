@@ -1,0 +1,61 @@
+---
+id: 1979-5-tihonov-opyityi-s-vozdushnyimi-sharikami-d55e6b21
+issue: kvant_1979_5
+year: 1979
+number: "5"
+title: Experiments with balloons
+authors:
+  - Тихонов В.
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 34
+page_last: 34
+page_labels: "32"
+tag: GRN1
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: cd785ddf665d1b10de2c2f8ad3271efa4e5cdc10e1f59afa9226b09fcb1d9cc9
+prompt_sha256: draft-1
+translated_from: content/ru/1979/05/articles/11_tihonov-opyityi-s-vozdushnyimi-sharikami-d55e6b21.md
+source_content_sha256: 1d9fd721a49d3b6f08148e949b39d8e05caa2e03eb9e7d16aa982cd8a735e14d
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 32⟧
+
+V. Tikhonov
+
+Typically, different instruments are used to study different physical phenomena. There are, however, universal instruments that make it possible to understand many physical phenomena. However, one of such devices is... the well-known air balloon.
+
+V. Tikhonov
+
+Experiments from the air with balloons
+
+1. Inflate the balloon well and tie it. Cross the diameter of the ball with a thread (Fig. 1), place it in the refrigerator for 3-4 hours and then remove it from there.
+
+Has the size of the ball changed? Has it become a month colder? Has the temperature of the air inside the balloon changed?
+
+Having taken the air balloon out of the refrigerator, you will, of course, notice that it has somehow shrunk and wrinkled. A thread tied around the diameter of the ball will dangle on it and can be easily removed from it. This means that the volume of the ball has decreased.
+
+The rubber from which the shell of the ball is made is a good heat-insulated material, so you are unlikely to feel a change in the temperature of the ball.
+
+But the air inside the ball became colder. Try to explain why.
+
+2. Take in each hand a dry, tightly inflated ball tied to a thread. Ask your product to rub the balls (Fig. 2): once both balls are rubbed with a woolen slipper, and another time one ball is rubbed with a woolen slipper, the other with a silk slipper. Teller, bring your hands together.
+
+What will happen to the balls - will they stick or bounce?
+
+As you know, when friction occurs, bodies become electrified. If you rub both balls with a wool (or silk) slipper, they will acquire the same charges and will repel each other. If one ball is rubbed with a woolen slipper, and the other with a silk one, the charges on the balls will turn out to be different, and the balls will stick to each other.
+
+3. Inflate the balloon. Then, without tying it, pull it out in the form of a sgar (Fig. 3) and release it.
+
+What will happen to the ball?
+
+The answer to this question is very simple - by contracting, the stretched rubber shell, as it were, throws air out of the ball, as a result the ball begins to move like a rocket.
+
+4. Take an open tin can and make a small dent in the bottom. Place an inflated balloon against the jar and draw air into yourself through the rejection (Fig. 4).
+
+How will the ball behave?

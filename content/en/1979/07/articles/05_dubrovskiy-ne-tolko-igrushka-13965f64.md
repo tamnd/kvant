@@ -1,0 +1,59 @@
+---
+id: 1979-7-dubrovskiy-ne-tolko-igrushka-13965f64
+issue: kvant_1979_7
+year: 1979
+number: "7"
+title: Not just a toy
+authors:
+  - Дубровский В. Н.
+rubric: raznoe
+rubric_sub: Разное
+page_first: 23
+page_last: 23
+page_labels: "21"
+tag: E0R4
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: eabae1b1d2c2c23b48821cd3d0ed86b60ac50827266b175b49dd5ed18f8c93f1
+prompt_sha256: draft-1
+translated_from: content/ru/1979/07/articles/05_dubrovskiy-ne-tolko-igrushka-13965f64.md
+source_content_sha256: 494fed20c67024c298b22f8fd6cb3ae630f9ea222493ef11724c453057110dbb
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 21⟧
+
+Not just a toy
+
+Probably, like most readers «Kvant», you have already stopped playing with children's toys. Still, we suggest you tinker... with the constructor *). The toy in question consists of identical flexible rectangular panels; there are holes in two opposite corners of each of them, and pins in the other two (Fig. 1), which allows you to connect the panels to each other. In the hands of a math enthusiast, this construction set becomes an excellent tool for assembling surface models.
+
+Let's set arbitrary p and q (≥ 3) and start connecting the parts, taking care only that their corpus sides bound q-gons (we will call these q-gons, although this is somewhat unprivibuous, vertices), and the long sides form p-gons (we will call p-gons faces, and the parts themselves - edges). The constructions obtained in this way are called modics.
+
+An example of such a connection with p=6, q=3 is shown in figure 2. For values ​​of <p, q> equal to <6, 3>, <3, 6>, <4, 4> (Fig. 2-4), we obtain fillings of the plane with regular p-gons, for which q faces converge at each vertex. So far we have only received flat mods **). At*
+
+*) This construction set is produced in Belarus and Estonia and is sold in children's toy stores in large cities.
+
+**) These mods are correct parquets («Kvant», 1979, No. 2, p. 9).
+
+Fig. 1.
+
+Fig. 2.
+
+Fig. 3.
+
+Fig. 4.
+
+other p and q modics go into space. If we collect mods of types <5, 3>, <3, 4>, <3, 5>, <4, 3> and <3, 3>, we get “inflated” frame models of regular polyhedra: dodecadron octahedra, icosadron (Fig. 5), cube and (regular) tetrahedra, (§ 54 “Geometry 10”). These mods are called spherical.
+
+Taketeler <p, q>=<3, 7> (figure on four pages of the cover). During assembly, we will see that the structure “does not want to be flat”, but also does not round like a spherical model: the resulting surface is curved so that each section takes on a trace-like shape. In this case, in principle, we can continue the construction unlimitedly (unlike the spherical one, but like a flat servant); True, sooner or later the structure bends so much that it bumps into itself, and further assembly is only possible if self-intersection is allowed.
+
+The surface P, part of which we have slowed down, is called *pseudo-sphere*. It turns out that if the distance between two points A, B ∈ P is the distance between them, changed in this one surface, then the axioms of Lobachevsky geometry will be satisfied on P. Thus, we can say that the all-sphere is a model of the Lobachevsky plane. Modica <3, 7> is one of the simplest parquet floors on it.
+
+Another wonderful property of this model: it can be made to slide on its own, practically without deforming the edges, and any vertex can be transferred to any other vertex! In other words, our modica allows self-combination. A similar property is very convenient for plane and spherical modics: their self-alignments are simply displacements of the plane and, accordingly, rotations of the sphere. For example, the torus on the first page of the cover does not have this property.
+
+In conclusion, we propose the following problem: prove that flat modics characterize the conditions (p-2)(q-2)=4, and spherical modics characterize the conditions (p-2)(q-2)<4, and list all modics of these types.
+
+V. Dubrovsky

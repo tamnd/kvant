@@ -1,0 +1,48 @@
+---
+id: 1979-6-t-pro-svetoprovod-c5bafed1
+issue: kvant_1979_6
+year: 1979
+number: "6"
+title: About the light pipe
+authors:
+  - Т. П.
+rubric: smes
+page_first: 28
+page_last: 28
+page_labels: "26"
+tag: WE8F
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 5214a42ead5a3c167cc856e5663d5ed00d9a33eaa3f92264f47d4d9638f19e4b
+prompt_sha256: draft-1
+translated_from: content/ru/1979/06/articles/10_t-pro-svetoprovod-c5bafed1.md
+source_content_sha256: 4e177c08afa5ebd2cd962bfd4368113224b967d4a6534bdf35b72be01c57beee
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 26⟧
+
+the statement mentioned before Example 2. Since $f'(0) = 1$, point 0 is not critical (Fig. 3).
+
+The derivative $f'$ from example 3 is discontinuous at point 0 (check).
+
+Exercise
+1. Prove that if the derivative $f'$ of the function $f$ is invalid at the point $x_0$ and in any neighborhood of this point has an infinite number of critical points of the function $f$, then the point $x_0$ itself is also critical for $f$.
+2. Prove that the functions
+$$f(x) = \begin{cases} x^2(2 + \sin \frac{1}{x}), & \text{ если } x \neq 0, \\ 0, & \text{ если } x = 0, \end{cases}$$
+$$g(x) = \begin{cases} x^2(-2 + \sin \frac{1}{x}), & \text{ если } x \neq 0, \\ 0, & \text{ если } x = 0. \end{cases}$$
+
+Light guide
+
+In 1841, the Swiss physics professor Colladon demonstrated a remarkable structure - a glowing fountain. This beautiful maturation was based on the phenomenon of total internal reflection.
+
+Total internal reflection arose when light passed from an optically denser medium to an optically less dense medium (the supply index of the first medium was greater than the supply index of the second medium). When the angle of incidence of a light beam on the interface between two media becomes greater than that proposed, the beam does not pass through the interface - it is reflected from it and “returns” to an optically denser medium. If, after the first reflection, the beam hits the interface “a denser optical medium - a less dense one” again at an angle greater than the limiting one, then the total internal reflection will be condensed many times over and will not go beyond the optically denser medium - the light flux will propagate inside the medium with relatively small losses due to absorption and scattering. The limiting angle depends on the relative supply of media. For water-air interfaces, for example, this angle is equal to $49^\circ$.
+
+Now you can understand how the glowing fountain “works”. A source invisible to the observer “sends” rays of light to the internal scab. The fountain shell is curved so that these rays do not go beyond its limits - each time the rays hit the water-air boundary at an angle of $49^\circ$. Where the jet breaks up into separate sprays, this condition is violated and the details are violated.
+
+Very beautiful decorative lamps made from light guides. However, one of these lamps is on the first page of our cover.
+
+T.P.

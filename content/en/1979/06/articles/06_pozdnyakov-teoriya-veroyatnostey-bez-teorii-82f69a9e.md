@@ -1,0 +1,49 @@
+---
+id: 1979-6-pozdnyakov-teoriya-veroyatnostey-bez-teorii-82f69a9e
+issue: kvant_1979_6
+year: 1979
+number: "6"
+title: '"Probability theory" without theory'
+authors:
+  - Поздняков С. Н.
+rubric: matematicheskiy-kruzhok
+rubric_sub: Математический кружок
+page_first: 16
+page_last: 16
+page_labels: "14"
+tag: HOWC
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 6e7eca2f29907b75f4d706eb57bc308ae992de25cb4c598fc941ff5c0d3ba002
+prompt_sha256: draft-1
+translated_from: content/ru/1979/06/articles/06_pozdnyakov-teoriya-veroyatnostey-bez-teorii-82f69a9e.md
+source_content_sha256: 82e6c6b4833734dc57d676a81eab2ed0e924b1e2bf15753d9cfd7c2c7299dac1
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 14⟧
+
+S. Pozdnyakov
+
+"Theory of Probability" without theory
+
+I would like to write that in this math club lesson we will be solving problems in probability theory. But the fact is that there will be no theory here, there will be no axims, no formulas, no theorems - what we are used to in mathematics. Instead, you will have to use common sense and intuition, that is, from which in the course of the development of mathematics and educational exact mathematical concepts and axims *).
+
+Task 1. Which of the two electronic circuits shown in figure 1 is more reliable if the reliability of the diode is 0.7 (m. e. 70%), the reliability of the capacitor is 0.8, the reliability of the resistor is 0.9?
+
+Let us now recall the children's game “damaged telephone”, in which a word or sentence is passed along a chain of players playing with objects of audibility, and the last one must guess what the first one said. It turns out that in this situation we can talk about reliability (of the game or the participants). To do this, it is useful to switch from the language of games to the language of circuits.
+
+Task 2. Draw a circuit diagram corresponding to the “damaged phone” ceremony with five participants. An explanation in terms of this term states:
+
+“The more electrons in a circuit, the less reliable it is,”
+
+“The reliability of a circuit is less than the reliability of its most unreliable element.”
+
+Fig. 1.
+
+To increase the reliability of machines consisting of different devices, parallel moving devices are used. Then the machine will fail only if both motors break down and load each other. Communication means are also duplicated. Let's consider this example: a stranded wire is twisted from a patch of wires, the reliability of which is 90% against breakage. How reliable is the wire? The probability that the wire will break is 10%, i.e. 0.1. The wire will break only if all five wires break; if they break without affecting each other, the probability of this event is equal to
+
+$$0,1 \times 0,1 \times 0,1 \times 0,1 = 0,00001.$$
