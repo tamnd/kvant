@@ -1,0 +1,65 @@
+---
+id: 1978-9-toom-resheniya-zadach-vzmsh-b55a72ce
+issue: kvant_1978_9
+year: 1978
+number: "9"
+title: VZMSH问题的解决方案
+authors:
+  - Тоом А. Л.
+rubric: matematicheskiy-kruzhok
+rubric_sub: Математический кружок
+page_first: 35
+page_last: 35
+page_labels: "33"
+tag: ZMAR
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: ace04afd554d704ec3bd53abbb322408f152fba8f765cf2c08eef60d2e300c7a
+prompt_sha256: draft-1
+translated_from: content/ru/1978/09/articles/11_toom-resheniya-zadach-vzmsh-b55a72ce.md
+source_content_sha256: 9c35821a62ede9b728c2a31c0874d8ee7cfc3229ede90c79f1f61a4ba2289db6
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 33⟧
+
+VZMSH问题的解决方案
+
+本文将对1978年VZMSH的入门工作中的一些问题提供解决方案（«Kvant»，1978年，第1期）。
+
+3. if 可以取什么值
+$$|a + b| \leq 1 \quad \text{и} \quad |a - 3b| \leq 2$$
+答案：$-\frac{5}{4} \leq a \leq \frac{5}{4}$。
+
+解决这个问题最简单的方法是图形化。让我们在平面上建立一个坐标系，并找到一个由满足不等式的点 $(a; b)$ 组成的区域。很容易报告这是一个具有顶点 $(\frac{5}{4}; -\frac{1}{4}), (\frac{1}{4}; \frac{3}{4}), (-\frac{5}{4}; \frac{1}{4})$ 和 $(-1/4; -3/4)$ 的平行四边形。
+
+4. 在给定平面上有一个中心位于 O 点的正方形。此时有一个投影仪照亮顶点的 90° 角。在初始时刻，投影仪照亮一个角，该角的边经过正方形的两个顶点。然后投影仪绕O点旋转，什么时候正方形被照亮部分的面积会更大：投影仪旋转45°或72°时？
+
+被照亮部分的面积始终相同，是正方形面积的四分之一。事实上，以正方形中心为顶点的 90° 角的边及其延长线将正方形分成 4 个拥挤的部分，当旋转 90°、180°、270° 时，它们会相互转向。
+
+5. 伊万·亚历山德罗维奇·赫列斯塔科夫（Ivan Aleksandrovich Khlestakov）受到控制，三天内派出了 30,000 名信使。已知：如果第一天发送的快递数量是第二天发送的快递数量的两倍，那么第三天发送的快递数量将是第二天发送的快递数量的四次方。每天有多少快递员被送到赫列斯塔科夫？ （给出所有可能的答案。）
+
+让他们在第一天发送 x，第二天发送 y，第三天发送 z 快递。由条件可知
+$$2x + y + z = (z - y)^4.$$
+另一方面，显然
+$$30 000 \leq 2x + y + z \leq 60 000,$$
+在哪里
+$$30 000 \leq (z - y)^4 \leq 60 000.$$
+通过计数，我们确信在这个区间内只有
+$$14^4 = 38 616 \quad \text{и} \quad 15^4 = 50 625.$$
+在每种情况下，都很容易回答：
+$$\begin{cases} x = 8 616, \\ y = 10 685, \\ z = 10 699 \end{cases} \quad \begin{cases} x = 20 625, \\ y = 4 680, \\ z = 4 695. \end{cases}$$
+
+7. 找到满足方程的所有整数对 (x; y)
+$$x^2 - xy - 2y^2 = 18.$$
+左侧可以展开：
+$$(x + y)(x - 2y) = 18.$$
+请注意，左侧因子之间的差是 3。因此，18 必须分解为 2 个因子，其差可以被 3 整除。这可以通过四种方式完成，每种方式都给出自己的答案：
+$$18 = 3 \cdot 6, \quad 18 = (-3) \cdot (-6),$$
+$$18 = 6 \cdot 3, \quad 18 = (-6) \cdot (-3),$$
+$$\begin{cases} x = 4 \\ y = -1 \end{cases} \quad \begin{cases} x = -4 \\ y = 1 \end{cases} \quad \begin{cases} x = 5 \\ y = 1 \end{cases} \quad \begin{cases} x = -5 \\ y = -1. \end{cases}$$
+
+8. 给定一个矩形ABCD。在其内部取任意一点，并通过该点画两条平行于边AB和BC的直线。这些线将矩形分成 4 条较小的线。证明面积虽然

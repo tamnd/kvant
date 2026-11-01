@@ -1,0 +1,39 @@
+---
+id: 1978-9-zadachi-nashih-chitateley-36a2962c
+issue: kvant_1978_9
+year: 1978
+number: "9"
+title: 读者的任务
+rubric: smes
+page_first: 31
+page_last: 31
+page_labels: "29"
+tag: GPUO
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 7def6e5d1f99d8e97d93739a94c777c748bd647566e34acd66042e331ee40693
+prompt_sha256: draft-1
+translated_from: content/ru/1978/09/articles/08_zadachi-nashih-chitateley-36a2962c.md
+source_content_sha256: dd136f8ee8455f06f6c1a0535adec890598c2aff0127f00f73756a2d5680511e
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 29⟧
+
+图 8.
+
+判别抛物线的传递。
+
+从 (9) 可以清楚地看出，根为 $n + bi$（n 为整数）形式的方程在平面 $n$ 上对应于顶点位于判别抛物线 (图 8) 上的射线点 $p = -2n$。
+
+因此，方程 $x^2 + px + q = 0$ 具有复数根 $a + bi$，例如满足以下条件：
+$$1 < a < 2, \quad 1 < b < 2,$$
+在平面 $n$ 上有对应的点 $(p; q)$，其坐标满足不等式：
+$$\begin{cases} q > \frac{1}{4} p^2, \\ -4 < p < -2, \\ \frac{1}{4} p^2 + 1 < q < \frac{1}{4} p^2 + 4. \end{cases}$$
+
+因此，为了使用 图 8 中所示的网格列线图求解具有 $q > \frac{1}{4} p^2$ 的特定方程 $x^2 + px + q = 0$，您需要查看点 $(p; q)$ 位于平面 $n$ 上的哪些射线和哪些抛物线之间。
+
+对于感兴趣的读者，我们建议在 $n$ 平面中考虑方程 $x^3 + px + q = 0$ 和 $x^4 - x^2 + px + q = 0$ 的复数根。

@@ -1,0 +1,98 @@
+---
+id: 1978-7-krongauz-kulchitskaya-savvina-moskovskiy-institut-inzhenerov-zemleustroystva-6d313242
+issue: kvant_1978_7
+year: 1978
+number: "7"
+title: 莫斯科土地管理工程师学院
+authors:
+  - Кронгауз Л.
+  - Кульчицкая Л.
+  - Саввина Б. К.
+rubric: ekzamenatsionnye-materialy
+page_first: 57
+page_last: 57
+page_labels: "55"
+tag: E37V
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 54d7bde9a35d6fa4b4701646968ec8f284c5ac4891358b61be505db81d760f33
+prompt_sha256: draft-1
+translated_from: content/ru/1978/07/articles/20_krongauz-kulchitskaya-savvina-moskovskiy-institut-inzhenerov-zemleustroystva-6d313242.md
+source_content_sha256: f3e774515326f0d65f2dd1335a25a67113fcefdd5d5d35669cbb8cb0ca402a7d
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 55⟧
+
+3. 根据计划，一组伐木工必须在几天内收获 216 立方米木材。前三天，团队完成了计划规定的每日标准，然后每天都比计划准备8立方米，所以在截止日期的前一天，收获了232立方米的木材。根据计划，船员每天的配额是多少？
+
+4. 对于什么 α 和 β，向量 $a = (3; -1; \alpha)$ 与向量 $b = (2; \beta; 1)$ 正交（如果$|b| = 3$）？
+
+5. 体积最大的圆柱体内接于半径为 $R = 3$ cm 的球体。求这个圆柱体的体积。
+
+选项2
+
+1. 证明准确性
+
+$$\frac{1 - 2\sin^2\alpha}{2\mathrm{ctg}\left(\frac{\pi}{4} + \alpha\right)\cdot\cos^2\left(\frac{\pi}{4} - \alpha\right)} = 1.$$
+
+2. 求解方程组
+
+$$\begin{cases} 3^x \cdot 2^y = 144, \\ \log_{\sqrt{2}}(y - x) = 2. \end{cases}$$
+
+3. 火车 $A$ 10 小时后离开城市。 40分钟来到城镇$B$。如果火车每小时少跑10公里，那么它会在2点$B$到达。 8 分钟之后。确定城市之间的距离和火车的速度。
+
+4. 求表达式的极限
+
+$$\lim_{x \to 2} \frac{x - \sqrt{3x - 2}}{x^2 - 4}.$$
+
+5. 平行四边形的对角线长度之和是8厘米。求平行四边形各边长度平方和的最小值。
+
+物理
+
+1. 在匀加速运动的第五秒内，身体移动了 45 m。如果物体的初始速度为零，则计算第五秒结束时物体的速度以及五秒内行驶的距离。
+
+2. 如果铁轨长度为 $L = 12,5$ 米，悬挂在车厢中的 $l = 11$ 厘米长的摆锤以什么速度行驶时会特别强烈地摇摆？
+
+3. 如果空气温度为 22°C，相对湿度为 70%，在$10 \times 8 \times 4,5$米的房间内可以蒸发多少水？ 22°C 时饱和水蒸气密度$\rho_H = 1,94 \times 10^{-2}$ kg/m3。
+
+4. α粒子在回旋加速器中以$r = 1$米为半径，以$|\vec{v}| = 20,000$公里/秒的速度运动。使粒子保持在圆上的磁场感应强度必须是多少？ α粒子质量$m = 6,5 \cdot 10^{-27}$kg，电荷$q = 3,2 \times 10^{-19}$Cl。
+
+L·米洛瓦纳瓦
+
+莫斯科土地工程工程师学院
+
+土地工程工程师的院系和专业详情见«Kvant»，1977年第7期。
+
+Matematika
+
+1. 探索最大和最小函数
+
+$$y = x^3 + 3x^2 - 9x + 1.$$
+
+2. 解决不平等问题
+
+$$\frac{x - 2}{x^2 + 1} < -\frac{1}{2}.$$
+
+3. 解方程
+
+$$\lg \sqrt[3]{3^{x^2 - 8x}} = 0.$$
+
+4. 求 sin ($\alpha + \beta$) if sin $\alpha = -\frac{5}{13}$, $\alpha \in ]\frac{3\pi}{2}$； $2\pi [$，余弦$\beta = -\frac{3}{5}$，$\beta \in ]\pi; \frac{3\pi}{2}[$。
+
+5. 已知等腰梯形的大底$a$、高$h$和底角$\alpha$，求梯形的面积。
+
+物理
+
+1. 一辆质量为 $m = 2,0$ t 的汽车爬上坡度为 0.20 的小山。在$s = 32$米轨道路段，自动速度从$|\vec{v}_1| = 21,6$公里/小时提高到$|\vec{v}_2| = 36$公里/小时。考虑自动运动达到平衡，确定发动机的牵引力。运动阻力系数取$k = 0,020$。
+
+2. 质量为 $m = 40$ kg 的弹丸，以 $|\vec{v}| = 600$ m/s 的速度沿水平方向飞行，分裂成质量为 $m_1 = 30$ kg 和 $m_2 = 10$ kg 的两部分。大多数人开始以$|\vec{v}_1| = 900$米/秒的速度向同一方向移动。确定外部较小部分速度的大小和方向。
+
+3. 横截面 $S = 6$ mm² 需要多少度才能使其在拉力 $|\vec{F}| = 508$ N 的作用下具有相同的长度？ （附上参考表。）
+
+4. 速度为 $|\vec{v}| = 1,8 \cdot 10^4$ m/s 的电子进入应变为 $|\vec{E}| = 0,0030$ N/Kl 的均匀电场，并逆着力线运动。当电子移动 $s = 7,1$ cm 的距离时，电子的运动加速度是多​​少？其速度是多少？达到这个速度需要多长时间？在这种情况下，电子的能量会改变多少（电子的质量为 $m = 9,1 \cdot 10^{-31}$ kg，其电荷为 $e = 1,6 \cdot 10^{-19}$ C）？
+
+5. 两个质量为 $m = 1,5$ g 的球，悬浮在真空中的一点上

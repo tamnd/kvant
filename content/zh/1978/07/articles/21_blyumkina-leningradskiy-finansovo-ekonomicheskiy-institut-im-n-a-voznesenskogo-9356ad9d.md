@@ -1,0 +1,87 @@
+---
+id: 1978-7-blyumkina-leningradskiy-finansovo-ekonomicheskiy-institut-im-n-a-voznesenskogo-9356ad9d
+issue: kvant_1978_7
+year: 1978
+number: "7"
+title: 列宁格勒金融经济学院得名。沃兹涅先斯基
+authors:
+  - Блюмкина И. А.
+rubric: ekzamenatsionnye-materialy
+page_first: 58
+page_last: 58
+page_labels: "56"
+tag: AC1U
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 72555afcef43c17a87ff253455e7ea7e96cd57639230fc04eb6487b90439e31f
+prompt_sha256: draft-1
+translated_from: content/ru/1978/07/articles/21_blyumkina-leningradskiy-finansovo-ekonomicheskiy-institut-im-n-a-voznesenskogo-9356ad9d.md
+source_content_sha256: ec07c77fc949d618d16bd23bf3c77c197d47471b1e88aa277a8fd44978dbfbd9
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 56⟧
+
+丝线在受到同等大小和意义的电荷后，它们会分叉到$d = 10,0$厘米的距离，并且丝线形成$\alpha = 60^\circ$的角度。考虑负电荷，确定其大小和每个球接收的电子数量（电子电荷$e = 1,6 \cdot 10^{-19}$C）。
+
+6. 带有 e 的元素。 d.s. $E = 1,1$ V 和内阻 $r = 1,0$ Ohm 与外阻 $R = 9,0$ Ohm 接近。发现：1）链中的二氧化硅； 2）提高外电路电位； 3）提高元件内部的电位； 4) 元件的运行效率如何。
+
+7. 电子在磁场中描绘出一个半径为 $R = 4$ mm 的圆。电子速度$|\vec{v}| = 3,5 \cdot 10^6$米/秒。求磁场感应矢量。 （电子的电荷为 $e = 1,6 \cdot 10^{-19}$ C，其质量为 $m = 9,1 \times 10^{-31}$ kg。）
+
+8. 薄透镜的光焦度$D = 5$ ditr。物体放置在距镜头$d = 60$ cm 的位置。这个物体的形象在哪里、是什么？它的线性增长是多少？
+
+L·克龙高兹，
+L.库尔西卡亚，
+V·萨维纳
+
+列宁格勒金融经济学院得名。沃兹涅先斯基
+
+在列宁格勒市中心，一座立面面向萨多沃街，另一面面向格里博耶多夫运河，在巨大的铸铁墙后面矗立着一座带有六柱门廊的引人注目的建筑。它建于 18 世纪末，根据建筑师 J. Quarrenghi 的设计，而不是在分配银行所在地时建造的。现在这里是该国领先的经济机构之一——以列宁格勒金融经济学院命名的教室。 N.A.沃兹涅先斯基。
+
+如今，真正受过广泛教育、高素质的现代经济人士从它的围墙里涌现出来。除了对一般经济学科有深入的了解外，他们还接受了良好的数学教育。 LFEI的学生除了高等数学的一般课程外，还教授概率论和数理统计、运筹学、数学方法和模型在经济学各个领域的应用等专题课程。
+
+LFEI全日制系设有金融经济系、计划经济系、会计经济系、经济与物流计划系、经济学系、劳动科学组织系6个系。
+
+LFEI毕业生在企业、科研生产协会、科研设计院所工作。
+
+数学
+
+口语考试门票问题
+
+1. 求任意函数：
+a) $y = \sqrt{x + \sqrt{x}}$, $6) y = \cos^2x$,
+b) $y = \log_5 \sqrt{x}$,
+r) $y = \sqrt{2^x}$, $d) y = \frac{1}{\text{tg}x}$.
+
+2. 探索函数并构建它们的图表：
+a) $y = x^4 - 4x^2$,
+b) $y = \lg |x|$,
+b) $y = \text{tg}\left(x - \frac{\pi}{4}\right)$.
+
+3. 计算以$Ox$轴和直线为界的图形面积：
+a) $x = 4$, $x = 6$, $y = \frac{1}{x}$,
+b) $y = \cos x$, $x = \frac{\pi}{6}$, $x = \frac{\pi}{4}$,
+b) $y = 4 - x^2$.
+
+4. 动物园内用一根100m长的绳子来标记动物的围栏，其形状为等边三角形，底边是展馆的墙壁。三角形的底边应该如何设置才能使其面积最大化？
+
+5. 求展开式项
+$$\left(\frac{1}{\sqrt{a^2}} + \sqrt{a^3}\right)^{17},$$
+不包含$a$。
+
+6. 用数字 1、2、3、4、5、6、7、8、9 可以写出多少个不包含相同数字的不同五位数？
+
+7. 如果已知单位向量$a$垂直于向量$b = i + j$和$c = j + k$，则求它的坐标。
+
+I·布柳姆基纳
+
+雅罗斯拉夫尔政治学院
+
+数学
+
+选项1
+
+1. 如果四面体的每条边都等于$a$，则通过包含面$ABC$的中线$CM$并平行于直线$AD$的平面求四面体$ABCD$的横截面积。求该平面与面 $ABD$ 之间的二面角。

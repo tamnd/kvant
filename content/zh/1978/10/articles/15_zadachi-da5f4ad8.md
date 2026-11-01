@@ -1,0 +1,39 @@
+---
+id: 1978-10-zadachi-da5f4ad8
+issue: kvant_1978_10
+year: 1978
+number: "10"
+title: 任务
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 59
+page_last: 59
+page_labels: "57"
+tag: ZKP5
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 5a8547df2ea07923f00c699c1470923566f5e3d7fd2a6a48f0a30738298f7faf
+prompt_sha256: draft-1
+translated_from: content/ru/1978/10/articles/15_zadachi-da5f4ad8.md
+source_content_sha256: a718de36422bb6ee39bd00fb3ef0a38969b89f6c94f24703ded4f7ebebfe8454
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 57⟧
+
+«Kvant» 适合年龄较小的学生
+
+任务
+
+1. 现在父亲的年龄和儿子几个月大时父亲比他大9倍一样大。如果知道父亲比儿子大26岁零8个月，那么他现在多大了？
+
+2. 将一组完整的多米诺骨牌如图图所示摆出，使骨牌按照多米诺骨牌规则相碰，且每个字母中的点数之和相同。
+
+3. 礼品盒的形状是长方体（a 是盒子的长度，b 是宽度，c 是盒子的高度；盒子不是立方体！）。使用一般方法（参见图）倒回盒子需要多长的字符串？
+
+4. 商店带来了三种不同款式、三种不同颜色的连衣裙。卖家想选择三件衣服进行展示，以便展示所有款式和所有颜色。她永远都能做到这一点吗？
+
+57

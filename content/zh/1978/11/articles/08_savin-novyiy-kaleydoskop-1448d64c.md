@@ -1,0 +1,54 @@
+---
+id: 1978-11-savin-novyiy-kaleydoskop-1448d64c
+issue: kvant_1978_11
+year: 1978
+number: "11"
+title: 新万花筒
+authors:
+  - Савин А. П.
+rubric: smes
+page_first: 18
+page_last: 18
+page_labels: "16"
+tag: 0UQA
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 8e14856edef592663ecee6c5ac8697e36a4b0d622b713fa1c67269052e16f425
+prompt_sha256: draft-1
+translated_from: content/ru/1978/11/articles/08_savin-novyiy-kaleydoskop-1448d64c.md
+source_content_sha256: 151c138fed133282123c728eddee0a1b8efe8b33b31427a066ffd2acd05dcd0d
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 16⟧
+
+函数$g(x) = \frac{11}{x} - \ln x - 1$
+减少$]0; +\infty[$、$g(4) = 1,75 - \ln 4 > 0$、$g(5) = 1,2 - \ln 5 < 0$。
+（用 $3 > e > 2,5$ 的事实证明这些不等式。）
+有这么一件事 $x_0 \in ]4; 5[$，介于两者之间 $]0; x_0]$ 功能 $f$ 返回，并在 $[x_0; \infty[$ ——减少。
+这意味着我们的数字中最大的是 $f(4)$ 或 $f(5)$。仍然需要选择其中最大的一个。
+任务和
+9. 哪个数字更大：
+a) $15^{30}$ 还是 $30^{15}$？
+b) $2^{40}$ 还是 $3^{33}$？
+c) $10^{1000}$ 还是$9^{1111}$？
+10. 哪个数字更大：
+a) $5^{15} + 6^{20} + 7^{25}$ 还是 $8^{24}$？
+b) $7^{15} + 15^7$ 还是 $6^{16} + 16^6$？
+c) $5^{5555}$ 还是$6^{6666}$？
+
+新的
+万花筒
+
+我们的读者 B. Ivakin 向编辑发送了以下任务：将正六边形切割成 9 个相同的部分。
+
+问题的答案已附上，我们杂志封面第一页的中心描绘了：通过连接中心和顶点的线段，将六边形分为三个菱形，每个菱形又分为三个平行四边形。
+
+当我熟悉了这个问题后，我自然而然地开始寻找其他的解决方案。很长一段时间我都无法正确分割六边形，但最终我找到了这样的分割（但显示在封面顶部图）。之后，我想“移动”生成的五边形。结果非常出乎意料——所需的六边形划分就像从聚宝盆上掉下来一样。其中五位出现在该杂志的封面上。
+
+尝试自己尝试这个划分。如果您想出有趣的图片，请将它们发送给我们。我们将发布最好的照片。
+
+A·萨文
