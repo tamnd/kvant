@@ -1,0 +1,40 @@
+---
+id: 1980-11-zadachi-f6f4c433
+issue: kvant_1980_11
+year: 1980
+number: "11"
+title: 任务
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 31
+page_last: 31
+page_labels: "29"
+tag: YXZY
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 040c48af4b8542a075e12bc93c759b3ad518e4d61d3d1df7f9c5953dab6a3699
+prompt_sha256: draft-1
+translated_from: content/ru/1980/11/articles/09_zadachi-f6f4c433.md
+source_content_sha256: 78a430c2d6b1ecb84c97a95b4f8ccb824e77fedec0c3924e082e8619b9b6a40c
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 29⟧
+
+任务
+
+1. 桌子上有四张牌（见图）。
+众所周知，每张卡片的一面有一个字母，另一面有一个自然数。只需翻开哪些卡片即可判断句子是真是假？如果卡片的一侧有一个大写字母，那么另一侧有一个四元组 - 第四个数字？
+
+2. 四支足球队：“Start”、“Kometa”、“Raketa”和“Vympel” - 每队互相踢一场比赛。法官制作了一张包含会议结果的表格。打字员根据样本打印了一张表格及其命运部门。但事实证明，印刷机（很旧）几乎什么也没印刷（见图）。不过，裁判一致认为剩余比赛以2:0、1:1、2:2、3:1、5:3的比分结束。帮助命运填写表格！ （“球数”栏，左边记录进球数，右边记录失球数。胜一场得2分，平一场得1分。）
+
+3. 给定 1980 个连续的自然数：是否有可能对每个数字进行偶次幂，使得所得数字的总和是自然数的平方？
+
+4. 十枚相同的硬币形成一个指向“向下”的等边三角形（参见图）。排列三枚硬币，形成一个“向上”的等边三角形。
+
+这些任务交给了我们
+E.阿卜杜拉耶夫、N.尼科尔斯卡娅、
+D. 雷莫罗夫、A. 哈拉迈耶
