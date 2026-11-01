@@ -1,0 +1,71 @@
+---
+id: 1982-1-novyiy-priem-vo-vsesoyuznuyu-zaochnuyu-matematicheskuyu-shkolu-eae1c829
+issue: kvant_1982_1
+year: 1982
+number: "1"
+title: 全联盟函授数学学院新录取
+rubric: informatsiya
+rubric_sub: Информация
+page_first: 55
+page_last: 55
+page_labels: "53"
+tag: L055
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 8c36c0741920d0466f4822f5ffcfb3a7be4d26b3269e88cf36140b63bcf9a054
+prompt_sha256: draft-1
+translated_from: content/ru/1982/01/articles/19_novyiy-priem-vo-vsesoyuznuyu-zaochnuyu-matematicheskuyu-shkolu-eae1c829.md
+source_content_sha256: 501f7c3f270087dff13c02b0ea39584935270c4d880d149c1e50329f9d775e78
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 53⟧
+
+新笔记
+全部对应
+数学学校
+
+莫斯科大学苏联教育科学院全岛函授数学学院（VZMSH）招收农村班学生和职业学校学生，但居住在莫斯科、列宁格勒及其周边地区的学生除外。
+
+课程将于 1982 年 9 月 1 日开始。培训免费。入学的学生会定期收到手册，其中包含学习理论问题和需要解决的问题。在学习了手册中的材料后，VZMSH学生布置了测试测试，这些测试由VZMSH老师（莫斯科国立大学的学生、研究生和教师以及其他成年人）仔细解决。 VZMS项目与学校数学课程密切相关，旨在深入研究学校数学课程的主要问题。
+
+培训期限为三年。每个成功完成控制任务的人都将获得 VZMSH 完成证书。
+
+入门测试的任务发布如下。希望参加 VZMSH 的参赛者必须在 3 月 25 日之前提交这些问题的解决方案。在检查作品后（大约在 7 月），VZMSH 将通知所有参加比赛的参赛者申请委员会的决定。居住在农村地区和工人住区的学童将获得优先录取。
+
+尽管一些入门任务在外观上与普通学校的任务不同，但它们不需要额外的数学知识。你不必解决所有问题才能进入学校。在评估工作时，不仅要考虑解决问题的数量，还要考虑解决方案的质量。毫无根据的回答可能不会被阅读；如果一项任务有多个可能的答案，您必须全部指出。
+
+该作业必须在学生的方格笔记本上用俄语完成。它不会被发回，也不会就此发布任何决定。
+
+在与笔记本一起的信封中，您必须放入一张尺寸为14厘米×6厘米的纸，并写上申请人的完整邮政地址（这张纸将与委员会有关入学工作检查结果的通知一起粘贴在信封上）。
+
+您需要将一张格子纸粘贴到terradi的封面上，将其绘制并按照以下示例填写（否则作品将不会提交检查）：
+
+地区
+姓氏和名字
+出生年份
+班级和学校
+数学老师的姓氏、名字和父名
+工作地点和父母的职位
+完整的邮政地址
+
+莫斯科
+伊万诺夫·彼得
+1968
+克林第二学校七年级“A”
+
+尼卡诺夫·弗拉基米尔·阿列克谢耶维奇
+父亲是autoraza 1号的司机，
+母亲是家庭主妇
+123456，克林，圣。 Stroitel，1，公寓。 1
+
+测试结果
+（由检查员填写）
+
+1 2 3 4 5 6 7 8 9 10 11 12
+a 6 a 6 b g
+
+VZMSH 在苏联各个城市的大学和师范学院设有约 40 个院系和分支机构。居住在俄罗斯联邦西北部和波罗的海国家的学生必须将作业提交至以下地址：199178, Leningrad, Vasilyevsky Island, 10th line, 33, N.-W. ZMSH，用于比赛。学生生活
