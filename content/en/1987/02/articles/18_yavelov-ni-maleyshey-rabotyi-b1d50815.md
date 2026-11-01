@@ -1,0 +1,66 @@
+---
+id: 1987-2-yavelov-ni-maleyshey-rabotyi-b1d50815
+issue: kvant_1987_2
+year: 1987
+number: "2"
+title: Not the slightest bit of work!
+authors:
+  - Явелов Б. Е.
+rubric: kvant-ulybaetsya
+page_first: 53
+page_last: 53
+page_labels: "51"
+tag: HFOD
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 59262b9beceb6ebdc5f611d9455ee174a1f38c8e834828b454d0f87d7b9af055
+prompt_sha256: draft-1
+translated_from: content/ru/1987/02/articles/18_yavelov-ni-maleyshey-rabotyi-b1d50815.md
+source_content_sha256: b467656908c35359ec47b898b5c722841aa8dfb24ecf271c716f8ed4655dae96
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 51⟧
+
+the tangent component of the velocity (the so-called sectoral velocity) at this point will also become zero. Consequently, this latter must be zero and immediately after the end of the work it moves, that is, the speed $\vec{v}$ must be directed along the radius from the center of the Moon. And then the additional speed $\Delta v$ is not equal to $v - v_\kappa$, but $\sqrt{v^2 + v_\kappa^2} = 2$ km/s! Here's to you winning!
+
+And yet you can win. It turns out that the “profitable” orbit is the one whose starting point is from a circular orbit. It is a periselenium, and the “transfer” point is an aposelenium (for the Earth - Gay - this is perigee and apogee, and for the Moon - Selene - periselenium and apogee).
+
+Let's try to calculate this orbit.
+
+Problem 3. What speed should the ship have at the minimum distance from the Moon $R_1 = 2R_\pi$, if its maximum distance from the Moon is $R_2 = 22R_\pi$? (The influence of the Earth's gravity can be overcome).
+
+Let us write down for the ship at the points corresponding to the distances $R_1$ and $R_2$ the law of conservation of energy and Kepler’s second law:
+
+$$\frac{mv_1^2}{2} - G \frac{mM_\pi}{R_1} = \frac{mv_2^2}{2} - G \frac{mM_\pi}{R_2},$$
+
+$$v_1R_1 = v_2R_2.$$
+
+Solving this system of equations, we get
+
+$$v_1 = \sqrt{\frac{2GM_\pi(1/R_1 - 1/R_2)}{1 - R_1^2/R_2^2}}$$
+
+$$= \sqrt{\frac{2g_\pi R_\pi(R_\pi/R_1 - R_\pi/R_2)}{1 - R_1^2/R_2^2}} = 1,62 \text{ km/c.}$$
+
+So, together with $v_\pi - v_\kappa = 0,5$ km/s, a change in speed of $v_1 - v_\pi = 0,43$ km/s turns out to be sufficient. Translated to the question of fuel reserve, this means that together 11% you need to have 9.7%. As you can see, there is a difference, although small.
+
+However, you will be faced with another disappointment. Let's assume that the cosmonauts have reached the calculated "transfer point". The speed of the ship at this moment can be determined using the same Kepler's second law:
+
+$$v_2 = v_1R_1/R_2 = 0,15 \text{ km/c.}$$
+
+But this is the speed relative to the Moon! And the Moon itself moves relative to the Earth. The ship fell into the sphere of gravity of the Earth - it broke away from the Moon. But how close will he be able to get to Earth? How much more fuel will it take to finally get there? These questions are presented as an exercise for you to solve on your own.
+
+Exercises
+1. Find the speed of the ship (see problem 3 in the article) relative to the Earth when crossing the Earth.
+2. The “transition” point is the apothecary of the spacecraft’s orbit. How close to Earth does it come in the period? The influence of the Moon's gravity can be overcome.
+3. What additional fuel supply must be on the ship in order to reach the Earth, that is, go into orbit, the perigee of the ship is on the earth's surface? (It is assumed that the transition to a new orbit occurs by briefly turning on the engine at the apogee of the old one, that is, immediately after entering the Earth’s sphere of gravity.)
+
+{"Quanti" conditional"
+
+Not the slightest bit of work!
+In the late 1990s, R. Wood worked as an assistant to University of Wisconsin professor W. Snow, who was a great enthusiast of lecture demonstrations. Wood says:
+
+“Illustrating the difference between force and work, which is defined as the product of forces and path, Snow will explain that he rested against the edge of the lecture table and only pulled out the forces. “I press, I press, I press, I press! — his face became

@@ -1,0 +1,38 @@
+---
+id: 1987-6-smorodinskiy-antiproton-v-lovushke-0d84dbfa
+issue: kvant_1987_6
+year: 1987
+number: "6"
+title: Antiproton trapped
+authors:
+  - Смородинский Я. А.
+rubric: novosti-nauki
+rubric_sub: Новости науки
+page_first: 9
+page_last: 9
+tag: 3ZNQ
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 7ff09f11728af5444572660cfca03a9e3c06d80a971f7bb19ac22a41267aca68
+prompt_sha256: draft-1
+translated_from: content/ru/1987/06/articles/02_smorodinskiy-antiproton-v-lovushke-0d84dbfa.md
+source_content_sha256: 3b3eeeec2bf1ea70a7de535eb92b0bd9206686529a7da138a25d7795cf6ed87d
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+Antiproton trapped
+
+Just a hundred years ago, many did not believe in the reality of the existence of atoms. “What cannot be seen cannot exist” - approximately this argument was considered undeniable. Now it is simply absurd, since not only atoms, but even individual elementary particles have now become real subjects of research.
+
+Counters in laboratories for recording neutrons, photons, electrons, etc. Installations made up of a large number of special detectors hidden high up in Edison - but what would your replacement fluid be stored in?” So it is with the electron. It is clear that it will not be able to live in a vessel, even if the maximum possible vacuum is created there - the electron will simply “stick” to the wall.
+
+And yet, an electron, as well as an antielectron - a positron - can be stored, and stored for a long time. A trap for an electron or positron can be created using electric and magnetic fields. In a magnetic field, an electron moves in a circle or spiral. The electric field created in specially shaped capacitors prevents a charged particle from escaping in a spiral. By combining both fields, it is possible to “catch” the charged part of the particle: the exact change in its mass, magnetic moment, etc. Finally, it will be possible to “plant” a positron in the trap and make an anti-atom - antihydrogen.
+
+You can come up with many other interesting experiences, you just need to overcome the difficulties that still remain a little. Scientists hope that the “trapped antiproton” will soon be an attractive exhibit in the physics laboratory.
+
+I'M WITH.

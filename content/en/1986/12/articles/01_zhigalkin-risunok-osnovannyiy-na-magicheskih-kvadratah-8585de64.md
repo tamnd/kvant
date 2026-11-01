@@ -1,0 +1,38 @@
+---
+id: 1986-12-zhigalkin-risunok-osnovannyiy-na-magicheskih-kvadratah-8585de64
+issue: kvant_1986_12
+year: 1986
+number: "12"
+title: '[Figure, based on magic squares]'
+authors:
+  - Жигалкин С. А.
+rubric: smes
+page_first: 68
+page_last: 68
+tag: DP2B
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 705de0c6ba7fffc6284746fe0c5210a4e812132e11d7fb7b99e0a80cb5ec1c72
+prompt_sha256: draft-1
+translated_from: content/ru/1986/12/articles/01_zhigalkin-risunok-osnovannyiy-na-magicheskih-kvadratah-8585de64.md
+source_content_sha256: 92dc4eb59e019a885450a3e0a202aa8ec46c07f2932b4a7212863b6ce43dd3b3
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+Figure, which you see in front of you, was created using a computer. The construction algorithm, written in the Fortra language, is output to the computer, and a graphic device connected to the computer performs the construction. The algorithm creates a human, calculates and draws - a computer.
+
+Feminine appearance - 15.
+Note that if we have developed construction algorithms, this does not mean that we know what figure constructed according to this algorithm will look like, or how the lines will interact with each other. For example, the shapes and figures of moire are given
+
+The algorithm for constructing this figure is based on two (shown above and below) magic squares. A magic square is a square table of numbers whose sums in each row, each column and two diagonals are equal. For the image at the top of the square the sum is 6, for the image
+
+but figure depends not only on some parameters of the algorithm, but even on the thickness of the pen they are drawn with.
+
+Showing us the final form of figure (which is most often impossible to build manually) is a computer task.
+
+S. A. Zhizalkin

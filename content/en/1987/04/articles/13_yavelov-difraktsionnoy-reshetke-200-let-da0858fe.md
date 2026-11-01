@@ -1,0 +1,48 @@
+---
+id: 1987-4-yavelov-difraktsionnoy-reshetke-200-let-da0858fe
+issue: kvant_1987_4
+year: 1987
+number: "4"
+title: Diffraction grating - 200 years
+authors:
+  - Явелов Б. Е.
+rubric: raznoe
+rubric_sub: Разное
+page_first: 39
+page_last: 39
+page_labels: "37"
+tag: PQ3S
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: eb692709a78483dba67271f84a7cef470c32ab4a7d0d9906213579d8b11b8c17
+prompt_sha256: draft-1
+translated_from: content/ru/1987/04/articles/13_yavelov-difraktsionnoy-reshetke-200-let-da0858fe.md
+source_content_sha256: 475f195a79202340c52bc3157f04c62bcbb113d143e6f0a1616842c36bd6da0c
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 37⟧
+
+This principle probably did not satisfy Dalton very much. Literally a few lines after determining the composition of water, he writes: “In the end, we must admit the possibility that water may be a ternary compound. In this case, if two atoms of hydrogen combine with one atom of oxygen, the oxygen atom must weigh 14 times as much as the hydrogen atom...
+
+Dalton did not go further than this. Moreover, he was extremely hostile to all attempts by other researchers to move or clarify his results. But he did not leave scientific secrets until the very end of his life. On July 27, 1844, a few hours before his death and already approaching, John Dalton climbed the meting tower for the last time and with a trembling hand made the last of 200,000 entries in his diary...
+
+Dalton's mistakes were corrected during his lifetime by the remarkable Swedish chemist Jacob Berzelius. Being a convinced supporter of Dalton’s atomic theory, Berzelius at the same time wrote: “Dalton’s numbers lack the precision necessary for the practical application of his theory.” In 1826, following the ideas of the English scientist, Berzelius compiled a table of atomic weights, which is essentially no different from the modern one.
+
+Diffraction grating - 200 years
+
+Hardly any device in modern physics is as capable as a diffraction grating, which allows one to accurately and reliably determine the wavelengths of light.
+
+Spectral instruments using diffraction gratings were first started to be built by the distinguished German optician I. Fraunhofer (1787-1826) in the twenties. And for more than a hundred years it was believed that it was he who invented the diffraction grating. But when in 1932 the United States was preparing to commemorate one of the founders of physics and astronomy in the New World, D. Rittenhouse (1732-1796), it was unexpectedly discovered that this scientist had manufactured and studied a diffraction grating back in 1786.
+
+The biography of Davida Rittenhouse is quite well known. Since childhood, he was interested in constructive various mechanisms and devices. Later, “natural physics” was added to these hobbies, which he built by studying the work of the great Newton. The manufacture of physical and astronomical instruments, research and observation with their help became his life's work. Original in design and excellent in technical use, Rittenhouse's chronometers, thermometers, planetariums, optical systems and other instruments belonged to the most advanced research tools of his era. Rittenhouse studied the skimmability of water and the thermal expansion of wood, studied the assimilation of lightning rods and experimented with magnets. As stated, it turned out that in his understanding of the nature of magnetism in solids, he was almost a hundred years ahead of his contemporaries.
+
+Rittenhouse's scientific achievements did not go unnoticed.
+knowledge - he served as professor and rector of the University of Pennsylvania, was an honorary member of the Royal Society of London, after the death of the famous B. Franklin (1706-1790) he was elected president of the American Philosophical Society, and at the end of his life he was appointed manager of the Mint.
+
+One day in March 1785, Rittenhouse received a letter from a lawyer he knew that was unusually offensive to him. “Dear sir! - the letter said. — I took the liberty of drawing your attention to the next question from optics. I believe this question is completely new, and the answer to it will be satisfactory for you and will be honorable for me. One evening last summer, sitting at the door of my house, I took a silk handkerchief out of my pocket, held it tightly in my hands, and began to look through it at the street lamp standing about 90 m from the house. I expected to see a close-up of the fabric of the scarf. And dey-
+
+A diffraction pattern obtained in monochromatic light using a diffraction grating.

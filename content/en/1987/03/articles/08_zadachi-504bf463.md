@@ -1,0 +1,41 @@
+---
+id: 1987-3-zadachi-504bf463
+issue: kvant_1987_3
+year: 1987
+number: "3"
+title: Tasks
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 33
+page_last: 33
+page_labels: "31"
+tag: G8ON
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 14e1758b92f7a19f5c491ec26242595627a47ca3df42ca7fb5be44c3987c584f
+prompt_sha256: draft-1
+translated_from: content/ru/1987/03/articles/08_zadachi-504bf463.md
+source_content_sha256: c79d8898147bb43db3fcce7abd44195920958b7bbce4d521327cd80247fd6d6a
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 31⟧
+
+Quests
+
+1. There are two plastic cubes of the same size. The first one floats in the water, sinking 2 cm into the water, and the second one - 1 cm. How much will the bottom cube sink into the water if the first cube is placed on the second? What if the second is for the first?
+
+2. Mademoiselle Dubya loves pets. All but two of her animals are dogs, all but two are cats, all but two are parrots, and the rest are cockroaches. How many animals does malademoiselle Dubya have?
+
+3. Two identical paper convex quadrangles were cut: the first along one of the diagonals, and the second along the other diagonal. Prove that the resulting parts can be used to form a parallelogram.
+
+4. It is known that “copper” coins of 1, 2, 3 and 5 kopecks. they weigh 1, 2, 3 and 5 g, respectively. Among the four “copper” coins (one of each denomination), one is defective: it differs in weight from normal. How to determine a defective coin by weighing on a scale without a grim?
+
+5. Replace the letters in the inequalities with figure with numbers so that all inequalities become true. (Identical letters are replaced with identical numbers, different ones with different ones.)
+
+These tasks were suggested to us by N.P. Dolbili, A.I. Rudinskaya, V.V. Proizvol, a student of the 8th grade of school No. 5 in Gaivoron G. Tartakovsky, L.P. Mochalov.
+
+DESIGN

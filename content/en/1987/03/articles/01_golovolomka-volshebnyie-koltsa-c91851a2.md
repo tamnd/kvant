@@ -1,0 +1,27 @@
+---
+id: 1987-3-golovolomka-volshebnyie-koltsa-c91851a2
+issue: kvant_1987_3
+year: 1987
+number: "3"
+title: '[Magic Rings Puzzle]'
+rubric: smes
+page_first: 68
+page_last: 68
+tag: 9TRT
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 85249e8e3ad2da1f812b2850201279bb9211b140cd2f30b93938428159bba841
+prompt_sha256: draft-1
+translated_from: content/ru/1987/03/articles/01_golovolomka-volshebnyie-koltsa-c91851a2.md
+source_content_sha256: 274ae2da985f752fc691a67fc515948ec725b93665a837c6ebe02fb73143ceb9
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+The Rubik's Cube, like a battering ram, punched a certain hole through which ten, if not hundreds, more or less related puzzles poured out at the person. Many of them were invented a long time ago, but only now have they managed to gain sustained popularity. Among them is “Magic Rings”. You can see them on our map. This puzzle was patented in England
+
+At the end of the century, it was revived not so long ago in Hungary. We produce it in Leningrad, Bryansk (in a slightly different version) and other cities. Moving balls of four colors along two intersecting spiky grooves, you must place them as on figure 1 (previously guide the balls along the moving ones). It is not difficult to pick up the balls on the outer soul of one of the coluche, say the left one (Fig. 2), but then difficulties arise. For those who cannot overcome them on their own, here is a hint. Let $J^n$ ($J^{-n}$) be the repetition of the left ring on the balls counterclockwise; $\Pi^{\pm n}$ similar repetitions of the right ring. Operation $A = J^6 \Pi^5 J^{-5} \Pi^{-5} J^{-1}$ (performed from left to right: $J^6, J^5, \dots$) swaps balls a and b, c and d (Fig. 2). By rotating the right ring, you can put any of its balls in place d without tripling a, b and c. If a and b are one-dimensional, then their rearrangement actually does not change anything, so in this case the operation A can be exchanged with any ball of the right ring. In “magic rings” there are only 4 types of balls, but the same operation A allows you to obtain an arbitrary permutation of them even when they are all changed differently. Think about how to do this, and also how to solve the puzzle for an arbitrary number of balls in the rings.

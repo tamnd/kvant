@@ -1,0 +1,39 @@
+---
+id: 1986-12-zadachi-9e3b95a5
+issue: kvant_1986_12
+year: 1986
+number: "12"
+title: Tasks
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 23
+page_last: 23
+page_labels: "21"
+tag: QN3Z
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 172a861249d64555665f9384f4deec4d94f5a964685b95ed6cc070c03e6c04f6
+prompt_sha256: draft-1
+translated_from: content/ru/1986/12/articles/07_zadachi-9e3b95a5.md
+source_content_sha256: fa299674fef8fa473f43efe07af2ee0bcb5080845d0edfdd97a6d1b142d15d03
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 21⟧
+
+Quests
+
+1. Check that $(3^2+5^2)^2=16^2+30^2$ and try to prove that the square of the sum of two squares of different numbers is always the sum of two squares.
+
+2. Solve the arithmetic puzzle: THREAD+THREAD=FABRIC. Identical letters correspond to identical numbers, different numbers correspond to different ones.
+
+3. An avid climber for Seryozha tells us that twilight in the mountains is noticeably shorter than on the plain. What do you think is the reason for this?
+
+4. To get home from the Palace of Pioneers, I can get off either at the Mathematical metro station, or at the next one - Fizicheskaya station. From the Matematicheskaya station it takes me three times longer to get home than from the Fizicheskaya station, and while the train approaches the Fizicheskaya station, I manage to cover a third of the way from the Matematiskaya station to the house. In which case will I get home faster?
+
+5. figure shows part of the fortress wall. One of the stones of the wall has a pillar of a bizarre shape, so that if you pull it out of the wall and put it in another way, the wall will become one-story (see figure; two stones have been moved at figure). Draw this stone.
+
+These tasks were offered to us by: 8th grade student from Voroshilovgrad Misha Kravchenko, V. A. Goncharuk, A. I. Buzdin, V. D. Vyon, A. M. Domashenko.

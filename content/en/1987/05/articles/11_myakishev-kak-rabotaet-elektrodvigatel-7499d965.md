@@ -1,0 +1,68 @@
+---
+id: 1987-5-myakishev-kak-rabotaet-elektrodvigatel-7499d965
+issue: kvant_1987_5
+year: 1987
+number: "5"
+title: How does an electric motor work?
+authors:
+  - Мякишев Г. Я.
+rubric: shkola-v-kvante
+page_first: 41
+page_last: 41
+page_labels: "39"
+tag: Y5F8
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 1a738262c8ad22aa533a4824716b8aaa3a41c20bf0d8354b70ad3979bd9b67b4
+prompt_sha256: draft-1
+translated_from: content/ru/1987/05/articles/11_myakishev-kak-rabotaet-elektrodvigatel-7499d965.md
+source_content_sha256: 8c9382c7c7c25e855e3b891a967401055cf3ab46d15f7b2baca316f4bab0b77c
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 39⟧
+
+accounts
+
+$$\Delta E'_k = A'.$$
+
+Thus, when moving from one reporting system to another, not only the kinetic energy changes, but also the change in kinetic energy. But the change in kinetic energy is always equal to the work of forces in this reporting system.
+
+It is not difficult to determine how kinetic energy changes depending on the reporting system, but calculating changes in the work of a city is more difficult. Let's consider this problem.
+
+The cube slides without friction from an inclined plane of height $h$ (Fig. 3, a). At the base of the plane the kinetic energy is $E_{k2} = mv^2/2$ and the initial energy is $E_{k1} = 0$. The change in kinetic energy is equal to the work done by gravity:
+
+$$\Delta E_k = E_{k2} - E_{k1} = \frac{mv^2}{2} = mgh.$$
+
+Let us consider the movement of the cube from the point of view of an inertial reporting system moving relative to an inclined plane with a speed $v = \sqrt{2gh}$ (Fig. 3, b). In this system, the initial speed of the cube is $v = \sqrt{2gh}$ and the final speed is zero, so
+
+$$\Delta E'_k = E'_{k2} - E'_{k1} = -\frac{mv^2}{2} \neq mgh.$$
+
+According to the kinetic energy theorem,
+
+$$\Delta E'_k = -mgh = A'$$
+
+- the work turns out to be negative. The fact is that in a moving reporting system, the reaction force of the plane is not perpendicular to the movement of the cube. It is she who does negative work (along with the positive work of gravity), which reduces the kinetic energy of the cube. However, it is difficult to calculate it directly, without resorting to the law of conservation of energy and weight.
+
+Law of conservation of momentum. The force impulse is independent of the reporting system. Therefore, the change in the momentum of the body is the same in all inertial reporting systems:
+
+$$\Delta P = F \Delta t.$$
+
+In this case, everything is very simple - the impulse of the body changes when moving from one reporting system to another, but the change in impulse remains the same.
+
+G. Ya. Myakshtsev
+
+How does an electric motor work?
+
+The question is not as simple as it seems at first glance. The natural answer with reference to Ampere's law for the force acting on a current-carrying conductor from the magnetic field does not fully explain the essence of the matter.
+
+Where does Ampere's power come from? It will arise due to the fact that the magnetic Lorentz force acts on the electrodes moving in the conductors (metallic). Her model
+
+$$F = evB \sin \alpha,$$
+
+where $e$ is the charge of a particle having speed $\vec{v}$, $\vec{B}$ is magnetic induction, $\alpha$ is the angle between vectors $\vec{v}$ and $\vec{B}$. The force $\vec{F}$ is perpendicular to $\vec{v}$ and $\vec{B}$, and its direction is determined by the right of the left hand. It would seem that if this force is perpendicular to the speed at any moment of time, then it cannot do work. However, it is the magnetic force of the electric motor.
+
+Equally “mysterious” is the operation of the generator, which converts mechanical energy into electrical energy. If an EMF is induced in the rotating armature of a generator,

@@ -1,0 +1,37 @@
+---
+id: 1987-5-zadachi-b9f479ee
+issue: kvant_1987_5
+year: 1987
+number: "5"
+title: Tasks
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 33
+page_last: 33
+page_labels: "31"
+tag: PSGX
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: f262834f4ee5aa664fd7c4f075df441126c56524207de503b5c6dc0964eb6649
+prompt_sha256: draft-1
+translated_from: content/ru/1987/05/articles/07_zadachi-b9f479ee.md
+source_content_sha256: 07990c0fbfd52d7ebe16a5311e94f21e48dcf41346cd5e024cce637996897772
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 31⟧
+
+Quests
+
+1. Which semicircles, shown in figure, have a greater sum of length - the upper ones or the lower ones?
+2. Why is it not recommended to water plants during the day, especially in sunny weather?
+3. Make the journey from point P to point E (see figure). To do this, replace the letters with numbers so that all equalities become true (identical letters are replaced with identical numbers, different ones with different ones). Have a nice trip!
+4. A rectangle is laid out from six dominoes so that it corresponds to an example for addition (see figure). Fold six dominoes (maybe others) into the same rectangle so that the sum (i.e., the number on the bottom line) is the smallest.
+5. In the children's cafe there are identical round and identical square tables, on which there are identical round and identical square napkins. It is known that a round table can be covered with four square napkins, and a square table with four round napkins. Show that the diameter of a round napkin is not less than half the diagonal of a square table, and the side of a square napkin is not less than the radius of a round table.
+
+These tasks were suggested to us by 8th grade student Yu. Faizullaev from the collective farm “Pravda” of the Shavat district of the Khorezm region, A.P. Savin, L.P. Motsalov, Tran Quang Dat (SRV), V.V. Proizvolov.
+
+Smegiroven!
