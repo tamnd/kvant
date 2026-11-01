@@ -1,0 +1,57 @@
+---
+id: 1981-9-gik-pyat-pobed-karpova-ecefdac3
+issue: kvant_1981_9
+year: 1981
+number: "9"
+title: 卡尔波夫五次胜利
+authors:
+  - Гик Е. Я.
+rubric: shahmatnaya-stranichka
+rubric_sub: Шахматы
+page_first: 67
+page_last: 67
+tag: CCO4
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: b0f9dfb66385bf3d8fa38a05d533f3be9f00c1e535ab55c6ed13c319c2c7091a
+prompt_sha256: draft-1
+translated_from: content/ru/1981/09/articles/02_gik-pyat-pobed-karpova-ecefdac3.md
+source_content_sha256: 2958db96bc0502ea938f470b4d2399027435c08ea051d8636a76c799c04e66ef
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+国际象棋比赛
+
+五胜
+卡波娃
+
+莫斯科国际象棋巡回赛于今年四月举行。他在几个方面都很出色。首先，这次巡回赛的参与者组成非常出色：十四位重要的大师，包括世界冠军、两位复制品——T. Petrosyan和V. Smyslov，过去和现在的世界王冠的竞争者——L. Portsh、E. Geller、L. Polugaevsky、U. Andersson，以及可能的未来竞争者——Y. Balashov、A. Belyavsky、G. Kasparov、J. Timman。对于卡尔波夫来说，完美就像是世界冠军赛前的彩排，自然地，他被迫克制比赛，不透露时间创伤中的秘密（也许这就是为什么世界冠军只以1.e2 - e4的任何一步开始比赛的原因）。然而，“特殊”的条件并没有阻止卡尔波夫再次取得辉煌的胜利，以一分半的优势击败了最接近的对手（第二至第四名由G.卡斯帕罗夫、L.波鲁加耶夫斯基和V.斯梅斯洛夫并列）。这不仅仅是一等奖和明显的领先优势，而是世界冠军这场意义非凡的比赛，他五场比赛未尝败绩，每场胜利都是真正的国际象棋艺术作品。在第一种类型中。卡尔波夫在技术上超越了他的特技选手之一于。 Balashov，第三个他在与E. Geler的游戏中创造了一个小杰作。
+
+卡尔波夫-盖勒
+31.JL：f7！！有效的车牺牲。白棋棋盘上几乎没有棋子，以少量兵力结束了战斗。
+
+31...Kp:f7 32.Q:g6+ Kpf8
+33.问：h6+。黑棋被将死是不可避免的。
+
+凭借出色的位置风格，特级大师 A. Belyavsky 和 ​​V. Smyslov 被击败，最终这位世界冠军优雅地完成了与他在巡回赛上的宿敌荷兰人 J. Timman 的对决。
+
+2. 白棋开始并获胜。
+
+卡尔波夫-蒂曼
+28.d5!! Qs7 (28...C:d5 29.JL:d5 ed 30.Kd7+ 和 31.Qh8×) 29.de JL:d1
+30.Kg6+！黑棋已经辞职，他的国王无法将他从将死中拯救出来。
+
+现在，您自己从 A. Karpov 的游戏中找到四种组合。
+
+*
+
+发送决定的截止日期为1981年10月30日（信封上注明“国际象棋比赛第9-81号”）。
+
+3. 白棋开始并获胜。
+
+4. 白棋开始并获胜。

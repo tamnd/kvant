@@ -1,0 +1,49 @@
+---
+id: 1982-1-gik-igrayut-kompyuteryi-9f2afa12
+issue: kvant_1982_1
+year: 1982
+number: "1"
+title: 电脑正在玩
+authors:
+  - Гик Е. Я.
+rubric: shahmatnaya-stranichka
+rubric_sub: Шахматы
+page_first: 67
+page_last: 67
+tag: 7ZC4
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 610da5ff5fc15f5ee0fa17f4200ef9747560ef73d2899556f26b30574d82e7e6
+prompt_sha256: draft-1
+translated_from: content/ru/1982/01/articles/03_gik-igrayut-kompyuteryi-9f2afa12.md
+source_content_sha256: 0109e525f20e1a42c0a433485987a01d632ffeaed25a6d860833ecf1ba97d4fc
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+电脑玩
+
+在第 «Kvant» 页上，我们已经讨论了现代计算机国际象棋程序中嵌入的原理以及计算机如何分析国际象棋残局。这里我们要讲的是国际象棋世界锦标赛中由计算机进行的两场比赛。
+
+让我们提醒您，这样的锦标赛已经举办过三届。 1974年，在斯德哥尔摩，苏联项目“Kanssa”成为第一个世界冠军。三年后在加拿大举行的第二届锦标赛中，她失去了对美国国际象棋项目的重要性。非训练案例将发生在第一个类型中。
+
+“达西斯”-“堪萨斯州”
+白棋刚刚在 a8 上与皇后延长了棋子。突然，“Kanssa”放弃了一整辆车 - 34...Re8。解说员们一脸困惑，尴尬地向观众解释说，国际象棋程序还远未达到完美，一切都还可以期待。当“Kansa”用以下选项解释其“呼叫”时，这是多么普遍的研究：34...Kg7 35.Qf8+！ Kf:f8 36.Ch6+ 和 37.Rs8+ 不可避免的搭档！正如英国国际象棋杂志所写，出席锦标赛的“白棋”棋手没有发现这种有效的皇后牺牲。不知道Dutch是否看到了这个组合，但从这个位置的纯粹实用信息来看，应该选择34...Kg7这手棋，因为没有车的比赛绝对没有希望，而且不是每个程序（也不是每个大师！）都能找到35.Qf8+这手棋。如果白棋要回应 34...Kg7 以 35.g5 赢得一颗棋子，那么他就会挺身而出（35...K:e3 36.gf+ Qf6 37.fe Qg5+ 和 Qb5，黑棋的决定性棋步）。因此，“堪萨斯”是其自身战术警惕的受害者。必须指出的是，cida 产生的实用消息允许简单的软件实现。
+
+比赛结束后是 35.Q:e8+ Kg7 36.g5 Bd8，黑棋走了几步后。
+
+第三届世界计算机锦标赛于1980年底在奥地利举行。最先冲过终点的是两档美国节目《贝尔》和《混沌》。他们之间的一场附加赛取得了胜利，并获得了贝尔计划的冠军头衔。这是决定性的决定。
+
+《钟声》-《混沌》
+ALEXina 的保护
+1.e4 Kf6 2.e5 Kd5 3.d4 d6 4.Kf3 德 5.K:e5 g6 6.g3 Cf5 7.c4 Kb4 8.Fa4+ K4c6 9.d5。每当黑棋失子时，他都会找到一种机智的防守。 9...Cc2 10.Fb5 Qd6 (更好 10...Cg7) 11.K:c6 K:c6 12.Kc3 (12.B:b7 Qb4+，节省一块) 12...Cg7 13.F:b7 0—0 14.F:c6 (14.dc C:c3+ 15.bc Qd1×) 14...Qb4 15.Kpd2。白棋赢得了马，但对手迫使其王留在中间并继续顽强抵抗。15...Ce416.Jlg1 Jlfb8 17. Ch3 Ch6+ 18. f4 Qa5 19.Jle1 f5 20.Fe6+ Kpf8 21.b3 Cg7 (黑棋错过了战术打击的机会 - 21...R:b3！) 22.Cb2 Cd4 23. g4 Jlb6 24.Fd7 Jld6 25.Fa4 Qb6 26.Ca3 C:c3+ 27.Kp:c3 Jldd8 28.Jad1 Qf2 29.gf Qc2+ 30.Kpd4 gf 31.Fc6
+
+1. 4步即可将死。
+
+2. 3步即可将死。
+
+发送决定书的截止日期为1982年3月10日（信封上注明：“国际象棋比赛«Kvant»，任务1、2）”）。
