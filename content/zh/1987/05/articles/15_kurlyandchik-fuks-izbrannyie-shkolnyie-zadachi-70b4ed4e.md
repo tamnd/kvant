@@ -1,0 +1,75 @@
+---
+id: 1987-5-kurlyandchik-fuks-izbrannyie-shkolnyie-zadachi-70b4ed4e
+issue: kvant_1987_5
+year: 1987
+number: "5"
+title: 选定的学校问题
+authors:
+  - Курляндчик Л. Д.
+  - Фукс Д. Б.
+rubric: shkola-v-kvante
+rubric_sub: Школа в «Кванте»
+page_first: 51
+page_last: 51
+page_labels: "49"
+tag: 3JMS
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 32f01eb3a153940cd18362fe5251cc685cf336e49e8233afd524e311ee462716
+prompt_sha256: draft-1
+translated_from: content/ru/1987/05/articles/15_kurlyandchik-fuks-izbrannyie-shkolnyie-zadachi-70b4ed4e.md
+source_content_sha256: 7f771082f9c704ab796085afb2772c5e7327f12dfe42e8430ee943e5b5920b5b
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 49⟧
+
+其中$k=1, 2, ..., N-1$； $P(0)=1$，$P(N)=0$。点 $M_k(k; P(k))$ 和 $k=0,1, ..., N$ 位于什么位置？第一个问题的答案是$P(k) > 1-k/N$。要回答第二个问题，您可以交换 prolistas 和 cypolilinos。证明答案是由数字 $P(N-k) - k/N$ 给出的。
+
+任务8.几个拉杆，如图7a)—2)所示。在点 1 有一条毛毛虫。 A、B点涂上胶水。毛毛虫按照以下定律移动。如果它击中 A 点或 B 点，则它会停留在该点。如果她位于其中有 m 个棒出现的点（A 和 B 除外）之一，那么她以 1/m 的概率选择这些棒中的一根并飞到其末端，然后按照所描述的进行。毛毛虫粘在A点的概率是多少？
+
+选定的学校问题
+
+八年级
+1. 求解方程组
+$$\begin{cases} x^2 + xy + y^2 = 7, \\ x^2 + xz + z^2 = 21, \\ y^2 + yz + z^2 = 28. \end{cases}$$
+
+2. 证明在凸四边形的边上构造的圆（如直径一样）覆盖该四边形。
+
+3. 由自然数组成的变数级数有以数字 3 结尾的项，但没有以数字 5 结尾的项。它有以数字 7 结尾的项吗？
+
+4. 需要从采石场清除 870 吨花岗岩块。证明如果每块重量不超过8吨，那么17个平台，每个平台的承载能力为58吨，就足以运输。
+
+5. 证明有无数个整数是完全平方数，并且在右侧添加一个单位（以十进制表示）后仍然如此。
+
+九年级
+6. 数字$x, y, z$满足对应关系$x+y+z=a$、$\frac{1}{x}+\frac{1}{y}+\frac{1}{z}=\frac{1}{a}$。证明至少有一个数字$x, y, z$等于$a$。
+
+7. 将数字 1987 除以自然数之和，使这些数字的乘积最大。
+
+8. 在三角形 ABC 的边 BC、CA、AB 上，取点 $A_1, B_1, C_1$ 使得 $BA_1:A_1C=CB_1:B_1A=AC_1:C_1B=1:2$。当线段$AA_1, BB_1, CC_1$相交时，形成一个三角形。求这个三角形的面积与三角形ABC的面积之比。
+
+9. 在任意三角形的三边上，向外构建等边三角形作为底。证明它们的中心是等边三角形的顶点。
+
+10. 多项式
+a) $ax^2+bx+c$,
+b) $ax^3+bx^2+cx+d$
+取任意整数 $x$ 的整数值。它的系数可能是多少（例如，它们是否必须是整数）？
+
+十年级
+11. 求解方程组
+$$\begin{cases} x=y^2+ay+b, \\ y=x^2+ax+b. \end{cases}$$
+
+12. 证明等式$\sqrt[3]{20+14\sqrt{2}}+\sqrt[3]{20-14\sqrt{2}}=4$。
+
+13. 给定圆中放置的哪个三角形的周长最大？
+
+14. 给定几个正数，其和为 3，其平方和为 1。证明在这些数中你可以找到三个其和不小于 1。
+
+15. 证明空间非平面四边形的内角和小于360°。
+
+出版物已准备好
+L.D. Kurlyandchik 和 D.V. Fuks

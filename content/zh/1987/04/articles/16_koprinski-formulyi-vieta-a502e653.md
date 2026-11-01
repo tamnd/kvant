@@ -1,0 +1,80 @@
+---
+id: 1987-4-koprinski-formulyi-vieta-a502e653
+issue: kvant_1987_4
+year: 1987
+number: "4"
+title: 维埃塔公式
+authors:
+  - Копрински С. Ц.
+rubric: shkola-v-kvante
+page_first: 43
+page_last: 43
+tag: "2753"
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 15625587f9c90db6852f499925b85bb8707900386fbbdee1c2779c145149aa47
+prompt_sha256: draft-1
+translated_from: content/ru/1987/04/articles/16_koprinski-formulyi-vieta-a502e653.md
+source_content_sha256: 562a2714e4187c3fcb23c90f2648f9d688ed5a171760be9acd4e4b7ef4394971
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+由于 AFC 线段位于矩形内部，因此我们得到整数不等式：
+$$0 < S_{AFC} < S_{ABCD},$$
+$$0 < \frac{1}{2} x - \frac{1}{2} \sin x < \frac{x^3}{2},$$
+$$0 < 1 - \frac{\sin x}{x} < x^2$$
+（在区间 0 < x < $\frac{\pi}{2}$）。
+
+现在我们注意到函数$\frac{\sin x}{x}$是偶数，因此不等式（*）在区间$-\frac{\pi}{2} < x < 0$内也有效，即它对于满足条件$0 < |x| < \frac{\pi}{2}$的所有$x$都有效。
+
+由于$x^2 \rightarrow 0$适用于$x \rightarrow 0$，因此对于任何$\varepsilon > 0$，可以指定一个邻域，使得对于来自该邻域的所有$x$，$x \neq 0$将满足不等式$x^2 < \varepsilon$。考虑到 (*)，我们得出对于来自该邻域的所有 $x$，$x \neq 0$，我们有
+$$1 - \frac{\sin x}{x} = \left| 1 - \frac{\sin x}{x} \right| < \varepsilon.$$
+
+这意味着$\lim_{x \rightarrow 0} \frac{\sin x}{x} = 1$——我们的定理被证明了。
+
+G·A·索罗金
+
+维埃塔公式
+
+在学校代数课程中（参见“代数 7”，第 23 段），Vieta 定理针对给定的二次方程得到了证明。然而，类似的定理对于三次方程、四次方程以及一般的 $n$ 次任意代数方程都是有效的，并且首项系数（$x^n$处）不一定等于 1。
+
+对于$n=1$，我们得到线性方程$ax+b=0$，如果$x_1$是它的根，则$ax_1+b=0$，由此而来
+$$x_1 = -\frac{b}{a}.$$
+
+设一个二次方程$ax^2+bx+c=0$($a \neq 0$)，并令$x_1$为其根。然后
+$$ax_1^2+bx_1+c=0.$$
+
+从方程$ax^2+bx+c=0$中减去恒等式$ax_1^2+bx_1+c=0$，我们得到
+$$a(x-x_1)^2+b(x-x_1)=0,$$
+在哪里
+$$(x-x_1)(ax+ax_1+b)=0.$$
+
+由于$x_1$是方程$x-x_1=0$的根，那么二次方程的二次根$x_2$满足方程
+$$ax_2+ax_1+b=0.$$
+
+方法，
+$$x_1+x_2 = -\frac{b}{a}.$$
+
+这是维塔的第一个二次方程公式。下一个，
+$$x_1^2 + \frac{b}{a}x_1 + \frac{c}{a} = 0,$$
+或者
+$$x_1^2 - (x_1+x_2)x_1 + \frac{c}{a} = 0,$$
+我们得到第二个 Vieta 公式
+$$x_1x_2 = \frac{c}{a}.$$
+
+请注意，在推导两个 Vieta 公式时，我们没有遇到任何二次方程根的公式。 （顺便说一句，它们可以很容易地从 Vieta 的公式中找到。）
+
+利用Vieta公式，我们可以证明一个有用的定理：如果$x_1$和$x_2$是二次三项式$f(x)=ax^2+bx+c$的根，则$f(x) = a(x-x_1)(x-x_2)$。实际上，
+$$f(x) = ax^2+bx+c = a(x^2 - \left(-\frac{b}{a}\right)x + +\frac{c}{a}) = a(x^2 - (x_1+x_2)x + x_1x_2) = a((x^2-x_1x) - (x_2x-x_1x_2)) = a(x-x_1)(x-x_2).$$
+
+对于三次方程的根，Vieta 公式的推导方式完全相同，但为了让读者更好地理解技术技巧，我们将再次介绍整个步骤顺序。
+
+对于$n$次代数方程的一般情况，熟悉完全数学归纳法的读者将能够自行推导Vieta公式。这里我们只写出这些公式。
+
+让这个方程
+$$a_0x^n + a_1x^{n-1} + a_2x^{n-2} + \dots + a_nx^n = 0.$$
