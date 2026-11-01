@@ -1,0 +1,86 @@
+---
+id: 2024-8-rusanov-kubok-sinkfilda-910d6a38
+issue: kvant_2024_8
+year: 2024
+number: "8"
+title: Cúp Sinquefield
+authors:
+  - Русанов А. В.
+rubric: shahmatnaya-stranichka
+rubric_sub: Шахматы
+page_first: 67
+page_last: 68
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: e7c17c826a205cc8d131d3391abb6db03e2ce5d184c1a5ce5423f9365b6ac00e
+prompt_sha256: draft-1
+translated_from: content/ru/2024/08/articles/01_rusanov-kubok-sinkfilda-910d6a38.md
+source_content_sha256: 4bb050ec8cae2493b05a12c4bd2fbe3bcab1592693350f7253ea4b236087dc02
+translation_model: draft
+translation_run: vi-draft-gaps-2026-11-02
+translation_quality: draft
+---
+
+⟦folio 8⟧
+
+---
+running_head:
+folio:
+---
+
+Tách
+SINHFIELD
+
+Alireza Firouzja, đại diện cho Pháp, đã giành vị trí đầu tiên trong giải đấu kiểm soát cổ điển dành cho Sinkfield Cup, một phần của chuỗi Grand Chess Tour 2024. Chiến thắng này giúp anh đứng đầu bảng xếp hạng chung loạt trận và giành được sự công nhận vững chắc.
+
+A. Firouzja – A. Giri
+Thánh Louis, 2024
+1. e4 e5 2. f3 c6 3. c4 f6 4. d3 c5 5. 0-0 d6 6. c3 a5 7. h3 0-0 8. b3 h6 9. e1 e8 10. bd2 e6 11. a4 b8. Đen đang chuẩn bị tấn công b5. 12. c6!? (trong trường hợp mẫu 12. d4, Đen được kích hoạt bằng cách hy sinh các đầu: 12…b5! 13. cd ba 14. a4 e7) bc 13. f1 b6 14. g3 a4 15. d4 a7 16. e3 a5 17. c1 h7 18. h4 g8 19. hf5 c5?
+
+20. à?! Với nước đi trước, Đen đã cắt quân hậu khỏi cánh vua, Trắng có thể tận dụng lợi thế bằng cách hy sinh hai quân: 20. g7!! g7 21. d5 d7 22. h6!+ h6 23. g5+ f8 24. h5 g8 25. e3 c4 26. f3 b5. Trong phần bình luận, Firouzja lưu ý rằng đáng lẽ anh phải tính toán trước vị trí này nhưng không tìm được mat: 27. f7+! f7 28. g7×! 20…f5 21. f5 de 22.c4! (chặn giám mục) ad8 23. d1 a8 24. d5 c6 25. d8 d8 26. c2 a6 27. c1 d7 28. a3 f6 29. e2
+
+c8 30. c2 a6 31. c3 a5 32. b4 ab 33. b3 c7 34. g3 a6 35. g2 d8 36. a1 c8 37. c2 d7 38. b1 a5 39. c5 d3 40. d3 d3 41. b7? (41. f3!, giữ con tốt ở e4) e4 42. e3 g6? Sai lầm quyết định: 42…a3! 43. f7 g6 44. f8 d2! Đen được phép đơn giản hóa thế cờ của mình bằng cách loại bỏ hầu hết các điểm yếu của mình. 43. e7+ f6 44. c6 d2 45. f7+ e6 46. e7+ d6 47. d7+ d7 48. e5+ d6 49. d3 e3 50. fe d2 51. c5+ d5 52. a4 c4 53. f3 g5 54. e4+ d4 55. e5! d3 56. e6 e5+ 57. g2 c6 58. a5, Đen đã ổn định.
+
+Fabino Carana đứng thứ hai trong giải đấu và loạt trận.
+
+Vâng. Nepomniachtchi – F. Karuna
+Thánh Louis, 2024
+1. e4 c5 2. f3 g6 3. d4 cd 4. d4 g7 5. c3 c6 6. e3 f6 7. c4 0-0 8. b3 d6 9. f3 a5 10. d3!? (thường họ chơi 10. d2 d4 11. d4 e6 12. 0-0-0 b5) e5 11. d2 d7 12. 0-0-0 fc8 13. b1 c4 14. c4 c4 15. g4 (chính xác hơn là 15. b3!? a6 16. e5! e8! 17. d5 với cơ hội chung) e6 16. b3?! a6 17. d4 ac8 18. g5?? Tính toán sai lầm lớn. Cần thiết 18. e3! b5 19. g5 d7 20. g7 g7 21. d5 có đẳng thức.
+
+18…e4! 19. fe d4 20. d4 c3! Một sự hy sinh chất lượng điển hình cho biến thể rồng. 21. a3 (21. bc a2+ 22. c1 a1×) c4 22. b3 c5 23. c1 a3
+
+24. h4 8c5 25. cf1 b3! Đen thắng quân hậu bằng vũ lực sau 26. cb b3+ 27. b3 b3+ 28. a1 c2, vì vậy Trắng đã chia bài.
+
+Ding Lihen tiếp tục thể hiện phong độ nguy hiểm trước trận tranh đai - nhà đương kim vô địch thế giới chỉ về đích thứ hai đến cuối cùng của giải đấu. Một trong những người phạm tội của anh ta là Maxime Vashchier-Lagrave, người nhờ anh ta đã đánh bại kỷ lục 25 trận hòa liên tiếp và chia sẻ vị trí thứ 3 trong bảng chung cuộc.
+
+M. Vachier-Lagrave – Ding Lihan
+Thánh Louis, 2024
+1. e4 e5 2. f3 c6 3. b5 a6 4. a4 f6 5. d3 b5 6. b3 c5 7. c3 d6 8. g5 h6 9. h4 a7 10. 0-0 a5 11. c2 c5 12. bd2 g5 13. g3 h5 14. h3 b8 15. h1 b7 16. h2 f4 17. g4 h5 18. e3 g4 19. h4 g6 20. e1.
+
+20…f8?! (nhiều năng lượng hơn 20…c4!? 21. f5 cd 22. d3 f4) 21. f3 c4 22. dc? Thay vì giành thế chủ động với tỷ số 22. d5, Trắng lại để đối thủ giành thế chủ động. 22…e3! 23. e3 c4 24. c4 bc 25. b4 gf 26. f3 g4 27. f2 g7 28. a4 e8 29. d1 d7 30. a5 f4?? Một sai lầm đơn giản về chất lượng, không phải điển hình cho các cuộc thi ở cấp độ này. 30…d1 31. ad1 e6 cuối cùng, toàn bộ trận chiến đang ở phía trước. 31. a4 d3 32. b6 e6 33. d7 d7 34. a6 e2 35. f5 g6 36. h2 d5 37. g5, Đen đã chia bài.
+
+A. Rusanov
+
+⟦folio none⟧
+
+---
+running_head:
+folio:
+---
+
+Chỉ số 90964
+MƯA BĂNG
+Hóa ra hiện tượng tự nhiên tuyệt đẹp này không chỉ có thể được quan sát,
+mà còn giải thích nó từ quan điểm của các định luật vật lý.
+ALER NOBEL
+450 RSFA
+Prémio Nobel
+da Fisica
+Wilhelm Wien
+(1864 - 1928)
+GUINÉ-BISSAU
+Sản phẩm có tính chất vật lý
+ISSN 0130-2221 24008
+9 770130 222245
+(THÊM + TRÊN TR. 35 BÊN TRONG TỔ CHỨC)

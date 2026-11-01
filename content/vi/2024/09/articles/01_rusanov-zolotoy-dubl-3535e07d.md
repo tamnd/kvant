@@ -1,0 +1,73 @@
+---
+id: 2024-9-rusanov-zolotoy-dubl-3535e07d
+issue: kvant_2024_9
+year: 2024
+number: "9"
+title: Đôi vàng
+authors:
+  - Русанов А. В.
+rubric: shahmatnaya-stranichka
+rubric_sub: Шахматы
+page_first: 67
+page_last: 68
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: ce551df7d35855f95d5a4c486dda49f40c2bad2f197d35b34a6ddb9b2a35efbc
+prompt_sha256: draft-1
+translated_from: content/ru/2024/09/articles/01_rusanov-zolotoy-dubl-3535e07d.md
+source_content_sha256: 002f88205b50d45fcc2d301b0348f665d975f6a73f3a2680d1afeb421d83e014
+translation_model: draft
+translation_run: vi-draft-gaps-2026-11-02
+translation_quality: draft
+---
+
+⟦folio 75⟧
+
+---
+running_head:
+folio:
+---
+
+GẤP ĐÔI
+
+Olympic Cờ vua lần thứ 45 được tổ chức tại Hungary đã kết thúc với chiến thắng kép dành cho đội tuyển Ấn Độ. Đội nam đặc biệt nổi bật: đội cờ vua Ấn Độ chỉ thua một ván trong tổng số 44 ván và hơn đội bám đuổi gần nhất 4 điểm. Trong số các thành viên của nó, Arjun Erigaysi có thành tích ấn tượng nhất - 10 điểm ghi được sau 11 hiệp đấu giúp anh vươn lên vị trí thứ ba trong danh sách xếp hạng FIDE hiện tại.
+
+J. Subely – A. Erigaisi
+Budapest, 2024
+1. e4 d5 2. ed d5 3. c3 d6 4. d4 f6 5. f3 g6 6. b5 b6 7. a4 a6 8. a3 e6 9. c4 c4 10. c4 g7 11. 0-0 0-0 12. c3?! (12. a5!? c7 13. g3, chuẩn bị f4).
+
+12...c5! 13.a5 c7 14. dc c5 15. d4?! Chính xác hơn là 15. b3. Sau khi trao đổi quân hậu, quân Đen sẽ không gặp vấn đề gì. 15...c8 16. e5?! (16. b3 hoặc c2, tránh sự lưu chuyển của một con tốt bị cô lập trên d4) e6 17. a4 d4 18. cd c6 19. c6 c6 20. g5 d8 21. d1 d7 22. f1 d5 23. e2 h6 24. e3 e7 25. d3 cd6 26. d2 f5! 27. c4 g5 28. f4 g4 29. b4. Trắng đồng ý tách quân tốt d4 để bù đắp cho hoạt động của quân xe. 29...d5 30. d5 d5 31. b6! f7 32. d3! e7 33. db3 d4 34. d4?! Trắng đã đánh giá sai các sắc thái của tàn cuộc của quân xe mới nổi. Cái cuối cùng chính xác là 34. b7! e3 35. e3 a5 36. h3 Trắng có sự đền bù rõ ràng cho quân Tốt. 34...d4 35. b7 e4+ 36. d3 f4 37. e7+ e7 38. b7+? Sai lầm quyết định. Cần phải tạo đoạn văn của riêng bạn trên dòng “a” sau 38. b6 f2 39. a6 b2. 38...f6 39.b4 f2 40. b6 g2 41. a6 h2 42. a8 a2. Có nhiều quân tốt đen hơn và họ thành công sớm hơn. 43. b5 g3 44. a6 h5 45. e3 h4 46. g8 h3 47. g3 h2 48. h3 a3+ 49. f4 e5 bạn ơi.
+
+D. Gukesh - Ngụy Nghị
+Budapest, 2024
+
+Kết quả của một cuộc chiến phức tạp sẽ xuất hiện một kết thúc bất thường, về mặt lý thuyết thì không sao, nhưng hãy chơi proshebel, vì Đen phải luôn cảnh giác với những chiếc nĩa hiệp sĩ. 35...c1 36. b5 c2+ 37. f1 f7 38. fd4 c1+ 39. e2 f6 40. d6 c3 41. 6b5 c1 42. e3 g1 43. f2 c1 44. e2 b1 45. bc3 b3 46. a4 e5 47. g3 b6 48. e3 b4 49. d3 h6 50. e3 b3 51. d3 b4 52. g1 b8 53. f3+ f6 54. d4 d8 55. e3 c8 56. d3 d8 57. ce2 b8 58. f4 b1 59. d5+ e5 60. c3 h1 61. f3+ d6 62. h4 h3! 63. e2 f4 64. fg1 h1 65. gf h4 66. f3 h1 67. f5. Đen phòng thủ tích cực, và tốt f là hy vọng chiến thắng cuối cùng của Trắng. 67...h5?! 68. c3 h4 69. e4+ d7 70. e5+ d8 71.f6 h3? Sai lầm quyết định. Biến thể này đã được lưu bởi biến thể, gần như không thể tìm thấy cho tài liệu: 71...d1+! 72. e2 d5! 73. g6 f5! 74. h4 f4 75. g6
+
+e4+ 76. d3 a4 77. f7 f4! 78. f4 e7. 72. f7 f1 73. g5 h2 74. gf3 e7 75. h2 a1 76. hg4! Nước đi chiến thắng duy nhất là hiệp sĩ bảo vệ con tốt h6. 76...a3+ 77. d2 a4 78. h6! a2+ (78...f4 79. g6+ fork) 79. e3 a3+ 80. e4, và không có biện pháp phòng thủ nào trước séc từ g6 nên Đen đã chia bài.
+
+Đại kiện tướng Vladimir Fedoseev, người đã chơi cho Slovenia từ năm 2023, đã thể hiện sự nổi bật: anh ấy đã tự mình ghim Magnus Carlesn bằng quân đen.
+
+M.Carlesen – V.Fedoseev
+Budapest, 2024
+
+27. d5? Lẽ ra vua phải tiến lên: 27. f7! g2 28. f6 f3 29. h4, và đường đi của Trắng bù đắp cho những con tốt trung tâm của Đen bằng khả năng hòa. 27...b6 28. f4 d7 29. g4?? (29. fe) fg?? "Lịch sự" trong đáp số cho một cái ngáp. Sau 29...c2! Màu trắng chỉ có thể chống lại các mối đe dọa giao phối với cái giá phải trả là tổn thất vật chất: 30. gf g4! 31. f6 f4 32. b5 e3+ 33. e5 b4. 30. fe fe 31. e4 f3 32. c5+ bc 33. g3 d6+ 34. c5 d2 35. c1? (35. h3! g2 36. e5! hg hòa) e6! (đen thắng, vì vua hỗ trợ quân tốt) 36. c4 f5 37. a4 h2 38. h2 h2 39. a7 b2 40. a4 c2+ 41. b5 g3 42. g7 f4 43. a5 b2+ 44. c6 a2 45. b6 e4 46. a6 e3 47. f7+ e4 48. e7+ f3 49. f7+ g2 50. a7 e2 51. e7 f2 52. f7+ e3 53. e7+ d2 54. d7+ c1 55. c7+ b1, Trắng đã chia bài.
+
+A. Rusanov
+
+⟦folio 29⟧
+
+---
+running_head:
+folio:
+---
+
+Chỉ số 90964
+THÊM TỐT HƠN ĐỂ XEM MỘT LẦN
+HƠN NGHE MỘT TRĂM LẦN
+Dễ dàng nhận thấy điều này khi “ghé thăm” Bảo tàng
+khoa học zametelovaya ở thành phố Nalchik.
+Sản phẩm và công ty
+ISSN 0130-2221 24009
+9 770130 222245
+(THÊM CHI TIẾT – TRÊN TR.29 BÊN TRONG TẠP CHÍ)

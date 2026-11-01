@@ -1,0 +1,84 @@
+---
+id: 2024-4-rusanov-samyiy-molodoy-pretendent-37cd367a
+issue: kvant_2024_4
+year: 2024
+number: "4"
+title: Ứng viên trẻ nhất
+authors:
+  - Русанов А. В.
+rubric: shahmatnaya-stranichka
+rubric_sub: Шахматы
+page_first: 67
+page_last: 68
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: b84531f0e8c12bec123cf0aaab66724145088fce1f2f75b3517fcfefad5236c7
+prompt_sha256: draft-1
+translated_from: content/ru/2024/04/articles/02_rusanov-samyiy-molodoy-pretendent-37cd367a.md
+source_content_sha256: e9923ea6ab0864e7feb30aada6cf59109df63a12cb27f1a961374a9d2a0ef884
+translation_model: draft
+translation_run: vi-draft-gaps-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 8⟧
+
+---
+running_head:
+folio:
+---
+
+Hầu hết
+TRẺ
+ĐỐI TƯỢNG
+
+Kỳ thủ 17 tuổi người Ấn Độ Dommaraju Gukesh đã vô địch giải đấu thách đấu ở Toronto và trở thành ứng cử viên trẻ nhất cho danh hiệu thế giới trong lịch sử. Bây giờ anh ấy phải đối mặt với nhà vô địch thế giới Ding Lijken trong một trận đấu.
+
+Ba kỳ thủ cờ vua đến từ Ấn Độ thi đấu ở giải thách đấu; họ đã có một số chiến thắng nổi bật và chúng tôi sẽ phân tích những trận đấu thú vị nhất hiện nay.
+
+R.Praginandaha – D.Gukesh
+Toronto, 2024
+
+1. d4 d5 2. c4 e6 3. f3 f6 4. g3 b4+ 5. c3 dc 6. g2 0-0 7. 0-0 c6 8. a3 e7 9. e4 a6 10. e3 b5 11. e2 b7 12. ad1 a5 13. d5 ed 14. e5?! Cố vấn máy tính khuyên bạn nên cẩn thận và cầm đồ ở d5, nhưng Trắng có ý định chơi theo phong cách gambit. 14...e8 15. e6 f5 16. e5 f6 17. c2 c6 18. f5 e8 19. f7?! Lần đầu thiếu chính xác, mạnh hơn 19. h3 c8 20. c6! c6 21. d5 d5 22. d5 h6 23. e4 với ý tưởng d7 và đòn tấn công mạnh mẽ. 19...c8 20. fe1 b7 21. g5.
+
+21...a7! Một ý tưởng phòng thủ tuyệt vời - quân xe di chuyển ra khỏi đường chéo lớn và bảo vệ hàng sau. 22. f6 f6 23. d5 cd 24. d5 e7
+
+25. g4?! (chính xác hơn là 25. h6+, và trò chơi có thể kết thúc trong tình trạng kiểm tra vĩnh viễn sau 25...h8 26. f7+ g8) d8! 26. d8 d8 27. d4 b7 28. e4 f6 29. e3 e7 30. h4 c6 31. h5 c5! 32. g5 e6 33. h6 f2, Trắng từ chức.
+
+S.Vidit – R.Praginandaha
+Toronto, 2024
+
+1. e4 e5 2. f3 c6 3. b5 a6 4. a4 f5 (Janisch Gambit cải tiến là khách mời hiếm hoi trong trò chơi của các đại kiện tướng) 5. d4! ed 6. e5 b5 7. b3 a5. 8. d4 b7 9. f5?! b3 10. ab d6! 11. e2 d7! 12. e6 c6 13. g5!?
+
+13...g6 (tất nhiên, không phải 13...g2??, và Trắng đặt thảm đỏ: 14. g7+ g7 15. h5+ f8 16. f7×) 14. e3 h6 15. f4 e7 16. c4 b4! 17. g4 c5 18. 0-0 g7 19. d2 0-0-0? (bạn cần nhập thành hướng khác, tôi sẽ cản trở sự xâm lược của hiệp sĩ ở d5) 20. h4? (bắt buộc 20. d5! d5 21. e7! d7 với sáng kiến ​​nguy hiểm) de8 21. ad1 b2 22. d5 d5 23. cd d5 24. e7+? (không giống như biến thể được chỉ ra trong ứng dụng di chuyển 20, ý tưởng này không áp dụng ở đây; 24. fe1 là cần thiết, bảo vệ con tốt) b8 25. e3 b5 26. c4 c3 27. d4 hg8? (27...h7, tấn công quân tốt từ bên cạnh; cả hai đối thủ đều bị giữ, xảy ra một loạt lỗi) 28. c3 bc 29. d4?! (29. a3!) b7?! (29...a8!)
+
+30. c3 e7 31. a5! (tấn công giám mục b7) e5 32. b4? Sai lầm quyết định. Ở thế mở quân tượng mạnh hơn quân mã nên đổi: 32. b7! không có cơ hội nào do sự yếu kém của vua đen. 32...g5 33. h5 g4 34. fe1 g3! 35. b7 gf+ 36. f2 b7 37. f3 eg5 38. b7+ b7 39. g4 g4 40. e6 h4 41. h6 g5 42. h7 hh5 43. d7 c8 44. e7 e5 45. g7 hf5+, Trắng từ chức.
+
+H. Nakamura – S. Vidit
+Toronto, 2024
+
+1. e4 e5 2. f3 c6 3. b5 f6 4. d3 c5 5. c3 0-0 6. 0-0 d6 7. h3 e7 8. d4 c6!? (Mới khai trương!) 9. d3 (9. dc cb 10. cd g6 11. d3 e6 với ý tưởng h5-f4 và phản đòn) b6 10. de de 11. e5.
+
+11...h3! 12. c4. Nạn nhân rên rỉ để được chấp nhận – 12. gh b8! 13. f4 c7 14. g3 e5 15. f4 với cơ hội ngang nhau. 12...g4 13. c2 c7 14. e5 d7 15. h7+ h8 16. d3 b5 17. e3 e5 18. e2? Sai lầm quyết định. Cần phải có 18. g4 g4 19. g3 f5 20. g5, ngăn chặn cuộc tấn công của Đen vào cánh vua và phát triển cánh hậu của mình. 18...f5 19. f4 b6 20. f2 d5 21. h1+ g8 22. fe g5 23. e1 e3 24. g4 g4 25. e3 e3 26. e2 g3+ 27. d2 ad8+ 28. c1 g5 29. b3 f1+!, bất kỳ sự vắng mặt nào của vua sẽ dẫn đến một ngã ba với g3, vì vậy Trắng đã cho lên.
+
+A. Rusanov
+
+⟦folio none⟧
+
+---
+running_head:
+folio:
+---
+
+Chỉ số 90964
+1ST
+Leonardo da Vinci
+Sản phẩm có tính chất vật lý
+HỆ THỐNG MẠCH
+NGƯỜI VÀ CÂY
+Những gì được thảo luận và những gì là
+sự khác biệt cơ bản?
+ISSN 0130-2221 24004
+9 770130 222245
+(THÊM – TRÊN TR. 8 BÊN TRONG TẠP CHÍ)
