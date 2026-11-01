@@ -1,0 +1,71 @@
+---
+id: 1983-3-orehov-risunki-letat-byistree-i-dalshe-i-izvlechenie-kornya-e2b363e0
+issue: kvant_1983_3
+year: 1983
+number: "3"
+title: 【图“飞得更快更远”和“拔根”】
+authors:
+  - Орехов А. А.
+rubric: smes
+page_first: 58
+page_last: 58
+page_labels: "56"
+tag: W2U9
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 3e0c5566f96537cd987ff99fa1254eb01c39fe4f4a1fcc329a2bf7f1bcfc3565
+prompt_sha256: draft-1
+translated_from: content/ru/1983/03/articles/17_orehov-risunki-letat-byistree-i-dalshe-i-izvlechenie-kornya-e2b363e0.md
+source_content_sha256: 5c35f795c85f4d284628ecfe2e371c62adf9320723c38f73235eaec529c99894
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 56⟧
+
+然而，它仍然无法在“乘客”不完整的情况下“起飞”。
+
+在某些编程语言（例如algor、PL/1）中，可以分配所需的动态内存量，首先计算N，然后执行指令“分配N个内存元素”。
+但显然，在任何语言中，动态配置程序（即在执行期间配置程序）所需数组大小的最快方法是一种可以称为使用不完整数组的技术。
+
+当使用不完整数组时，所有数组都用边距描述，并且仅使用数组的必要部分。
+
+本例中的描述和输入如下所示（程序的其余部分已被省略）：
+
+```pascal
+const k: = 100; m: = 100 {k — максимальное элемент}
+var a: array [1..k] of real;
+i, n: integer; s: real;
+begin readln(n);
+for i: = 1 to n do read(a[i]);
+```
+
+或者
+begin n:=0; while NOT (eof(input)) do
+begin n:=n+1; read(a[n]) end;
+
+在程序的第一个版本中，在源数据数组开始之前，他放置了一张带有这次所需元素数量的穿孔卡，在第二个版本中，在数组之后，他放置了一个穿孔卡“文件末尾”。
+程序的其余部分保持不变：
+
+所有循环的执行都是将参数从 1 更改为 n。
+
+我应该买入什么股票？在每个具体问题中，这通常是已知的：TU-134 中的乘客不超过 72 名，一组学生不超过 30 名，等等。如果需要多维数组，那么我们会做同样的事情：我们描述一个二维矩阵，每个变化都有一个边距，并使用它的“西北”角。
+
+最后，如果库存不足，则采用静态调整。这让人想起一般的无线电接收器：我们通过转动旋钮在范围内进行调整，并使用开关来改变范围。
+
+测试任务*)
+
+6.1.输入并打印一个大小为 n×m 的“不完整”矩阵 A 的元素值，假设其元素占据这个大小为 n'×m' 的矩阵 A' 的左上角，其中 n'>n，m'>m。维度 n 和 m 在输入矩阵 A 之前输入。矩阵每行的值必须首先在新行中输入，然后在新行中打印。
+
+L·F·斯滕伯格
+
+*) 这是“标准编程技术”系列中的最后一个任务。
+
+量子正在杀人
+
+“飞得又快又远”
+《拔根》
+
+图 A.A.奥雷霍娃

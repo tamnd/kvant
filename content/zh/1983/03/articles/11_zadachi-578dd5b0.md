@@ -1,0 +1,46 @@
+---
+id: 1983-3-zadachi-578dd5b0
+issue: kvant_1983_3
+year: 1983
+number: "3"
+title: 任务
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 40
+page_last: 40
+page_labels: "38"
+tag: XI9Z
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: b029fe2ee947be2b52c689140faa5f07e87b8cc1a870c64301d2782b759ae2eb
+prompt_sha256: draft-1
+translated_from: content/ru/1983/03/articles/11_zadachi-578dd5b0.md
+source_content_sha256: e44a06f6a33b9d5a2474f3598173dfc4372b4ac32d3ca1e63adab0dee21dca6c
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 38⟧
+
+克瓦什特
+对于年轻的学生
+
+任务
+
+1. 莱尼亚和科利亚去看望博拉，但他们忘记了他的公寓号码。 Kolya 说，如果你在这个数字上加上 10，你会得到一个精确的立方，而 Lenya 说，如果你从公寓号码中减去数字 10，你会得到一个精确的平方。 Borya住在什么公寓？
+
+2. 玛莎需要20号缝纫线。她没有这种线，但有40号和10号史诗线。她该怎么办？ （车牌的定义是线的长度（以米为单位）与其质量（以克为单位）的比率，也就是说，它在数值上等于 1 克片材的长度（以米为单位）。）
+
+3. 气球充满空气，在天平上称重。然后他们将其充气得更多并再次称重。秤的读数会一样吗？
+
+4. 与“？”一起放置的数字是什么？序列为 10, 11, 12, 13, 14, 15, 16, 17, 20, 22, 24, 31, 100, ?, 10,000？
+
+5. 三角形 ABC 的顶点 A 通过线段连接到三角形对边上的点 M。顶点 B 连接到三角形与顶点 B 相对的一侧的点 K。线段 AM 和 BK 可以相交和平分吗？
+
+这些任务交给了我们
+N.V.瓦西里耶夫，A.N.维伦金，
+S.V.卡扎科夫、L.Z.卡列林、A.P.萨文
+
+38

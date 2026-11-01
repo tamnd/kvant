@@ -1,0 +1,37 @@
+---
+id: 1982-10-rudov-yubiley-znamenatelnogo-sobyitiya-86f301b5
+issue: kvant_1982_10
+year: 1982
+number: "10"
+title: 重大事件的周年纪念日
+authors:
+  - Рудов В. А.
+rubric: raznoe
+page_first: 68
+page_last: 68
+tag: 868L
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 1461139ef60d2f0c49a95018afcf9e6a601aa27f09d7bd7f8552056c926f832d
+prompt_sha256: draft-1
+translated_from: content/ru/1982/10/articles/02_rudov-yubiley-znamenatelnogo-sobyitiya-86f301b5.md
+source_content_sha256: 340e37ab7e9e9210b83ad5e8e64e83d18ed69c02cebc270b300d6147a683610b
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+重大事件的周年纪念日
+
+自第一颗人造地球卫星发射开启人类太空之旅以来，已经过去了25年。这颗卫星是在苏联杰出科学家科罗廖夫院士的领导下设计和发射的，向全世界令人信服地展示了苏联科学发展的高水平。
+
+在过去的四分之一个世纪里，人们在外层空间、月球和太阳系行星的研究领域做了大量的工作。空间研究成果被史里科用来解决国民经济中的许多重要问题。
+
+我国为国际航天合作发展做出了巨大贡献。来自经济互助委员会成员的社会主义国家的宇航员成功地在苏联礼炮6号空间站上工作。第一位法国宇航员参与了礼炮七号空间站的研究。苏联积极与印度、瑞士和其他一些国家合作实施太空计划。
+
+发射第一颗人造地球卫星；太空集邮简介。现在它拥有数千张专门纪念太空英雄和各种太空主题的邮票。印有第一颗卫星图像的邮票继续发行。我们在我们的选择中复制了其中一些。
+
+V·鲁多夫

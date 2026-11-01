@@ -1,0 +1,39 @@
+---
+id: 1982-9-spisok-chitateley-prislavshih-pravilnyie-resheniya-dd989e32
+issue: kvant_1982_9
+year: 1982
+number: "9"
+title: 发送正确答案的读者名单
+rubric: zadachnik-kvanta
+rubric_sub: Задачник «Кванта»
+page_first: 49
+page_last: 50
+page_labels: "48"
+tag: 7G90
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 46a3ae46a8a8b21f5b04b51febbf16855715a69a97d91212579506175d54f7c7
+prompt_sha256: draft-1
+translated_from: content/ru/1982/09/articles/13_spisok-chitateley-prislavshih-pravilnyie-resheniya-dd989e32.md
+source_content_sha256: ed59f78416472b95c0ac2e233fe4011b7308275013266bd7cfd67e6681e8f5f9
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+发送正确答案的读者名单
+
+本期我们公布M706 - M720和F723 - F747添加正确答案的人的名字（姓氏后面的数字是已解决问题数的最后一位）。
+
+数学
+大多数提交解决方案的读者都完成了问题M706、M707、M711、M712、M717 和M720。其余问题由以下人员解决：Z. Avalian（巴统）16； M. Alekseev（莫斯科）13、18、19； S.阿米辛斯基（列宁格勒）08、16、19； V.阿拉比泽（第比利斯）18； M.阿拉斯拉诺夫（扎波罗热）18； V.巴拉巴诺夫（基辅）16、19； A.巴罗诺夫（罗斯托夫）18； A.鲍里斯金（莫斯科）16、18； M.布罗迪茨基（基希讷乌）08； B. 魏茨曼 (敖德萨) 16, 19; G. 维纳 (斯维尔德洛夫斯克) 08, 13, 19; I. Voltsen（别洛雷茨）16； G. Ganeev（白俄罗斯扬博尔）16、18、19； R.Geortsev（Yambol，NRB）16、18、19；于。贡扎伦科（基辅）16、18、19； A. Gokhbere（奥杰茨卡）08、13、15、16、18、19； O.格里尼夫（基辅）08； A.格罗莫夫（列宁格勒）13； I.季米特洛夫（Yambol，NRB）16、18、19； A. 多布林（基辅）16、18、19； A. 杜比卡斯 (Taureg) 08, 09, 13, 15, 16, 18, 19; O. 埃罗什金 (第聂伯罗彼得罗夫斯克) 13, 15, 16, 18, 19; P.祖斯马诺维奇（阿拉木图）16； A.伊夫琴科（莫吉廖夫-波多尔斯基）13、16、18； T.卡德谢夫（莫斯科）18； V.卡勒（基辅）16、19； D. Kalyuzhny (Odetska) 18, 19; V.卡马耶夫（古比雪夫）16； D. Kamutavitso (维尔诺斯) 18, 19; A.卡尔波维奇（基辅）13、15、16、19； N. Katsenko（基辅）18； D.基里亚诺夫（克拉斯诺菲姆斯克）19； V.基西尔（奥杰茨卡）08； E.克列巴诺夫（戈尔洛夫卡）19； D. Korshunov (新西伯利亚) 16, 19; E.科钦（Volzhsky）18； L.Leytsin（切尔尼戈夫）08； P. Lisovek（奥洛莫克，捷克斯洛伐克）19；什。 Lyung（利沃夫）16； D. Makarov（莫斯科地区 Chernogolovka 村）18； S. Mamedov（巴库）08、16； A.马尔科维奇（贝尔格莱德，南联盟）16、18、19； O.马特夫（斯维尔德洛夫斯克）19；于。尼古拉耶夫斯基（哈尔科夫）08、13、15； I. Nikolov（白俄罗斯扬博尔）16、18、19； A. 尼科洛夫 (基洛夫格勒) 08, 15; O. Notyts（基辅）16； M.奥维奇金（第聂伯斯克）08、15； R. Orujeev (巴库) 16; G.佩雷尔曼（列宁格勒）08、09； D. Persheev（莫斯科）18； S. Putintsev (涅温诺梅斯克) 13, 15; A. Rodtsovov（莫斯科）18； L. Rudyin（摩尔曼斯克地区基洛夫斯克）16、19； A. Syksa（基辅）08、15； A.Sokhet（哈尔科夫）15、16、19； V. Titenko（明斯克州布卢扎村）08； V.托尔斯蒂赫（克麦罗沃）18； G.特鲁诺夫（莫斯科）08； E.托林（维尔诺斯）08； R. Uerinovsky (Khmilnik) 08, 16; N.费丁（鄂木斯克）16；于。哈尔科维奇（沃林斯克州洛巴切夫卡村）16； A.赫尔瓦斯（基辅）13； S.希尔曼（基辅）13、15、16； A. Khokhlov（莫斯科）08、19； V.赫里奇科夫（塞瓦斯托波尔）16、18、19； P.茨维特科夫（波多利斯克）08； I. Shaptsev（Yambol，NRB）16、18、19； Z. Shebzukhov（莫斯科）08； L. Erdely（匈牙利布达佩斯）16、18； P. Etingof (基辅) 16, 19; S.尤罗夫斯基（Mytshits）08； V.亚罗什（列宁格勒）08； I.亚奇科维奇（萨拉托夫）16。
+
+物理
+大多数提交解答的读者都完成了问题F723—F725、F731、F738、F740和F743。其余问题由以下人员解决：E. Absimov（V. Berezovka 村，东哈萨克斯坦地区）26-28, 35, 36； Y. Abdulyaev (Geokai) 35; M. Avdeev（新西伯利亚）34-37； A. Hayrapetyan（埃里温）28、29； T. Hakobyan（埃里温）34-36； I.阿列克谢耶夫（莫斯科）27、28、32-37； E.阿利耶夫（巴库）27； A. Ambartsumyan（卡凡）27、35、37； O，安德烈耶夫（基辅）28、29、35、37、39、44、45； E. Antonyan（埃里温）39、44、45； A. Aslayann (埃里温) 29; A. ASTakhov (Zheleznodorozhny) 27, 30; A. 巴巴耶夫（巴库）26、27； E. Baddasarian（巴库）26；于。巴达诺夫（新西伯利亚）39、44、45； Y.Bazaliy（顿涅茨克）26.27； F. Baykabulov (塔什干) 39, 41; V.巴拉诺夫（塞瓦斯托波尔）39、45； G.巴拉诺夫（顿涅茨克）28、30、34、36、37、39、42、44、45、47； D.巴萨拉耶夫（切尔诺沃尔斯克）33、36、44、45； S.别列日诺伊 (Krivoy Rog) 39, 44;于。贝斯帕洛夫（基辅）26； A. Blazdodrev（奔萨）45； A.博伊科（哈巴罗夫斯克）45； A.布雷兹古诺夫（新西伯利亚）39；于。布里尔（第聂伯罗彼得罗夫斯克）39、41、42、44、47； V.布德洛夫（基洛沃-切佩茨克）26、27、39； V.布多夫斯基（哈尔科夫）33、34、36； V. 布利亚瓦斯 (Paneevisk) 36, 45; O. Vazhevsky（莫斯科）36、44、45； V. Vainitsok（加里宁）45； V.瓦西里耶夫（塔甘罗格）39、44、45； B.魏茨曼（奥德茨卡）26-30、33、35-37、42； G.沃林采夫（符拉迪沃斯托克）36； R.Vtorbanov（Tvervel，NRB）26、27、33-37； S.维格兰（扎波罗热）26、27； S. Vylezhanin（克里米亚地区 Zolotoye Pole 村）26、33、35、37； A.Vyshkavar（列宁格勒）42； I. Gavrikov（莫斯科）28、35、37； I. 加约维奇（基辅）27, 34—36, 45； D.盖斯勒（莫斯科）26-28、32、39、41； A.吉内茨（维尼察）26； V. Gomoz（埃里温）41； D. Gorokhovsky (切尔卡瑟) 28, 32; M.戈斯特夫（利佩茨克）38、44、45； S. Grebentsikov（莫斯科地区 Chernogolovka 村）33、44、45； A. Grienko (Konotop) 28； O. Grishin（图拉）27、35、45； K.古利亚耶夫（沃斯克列先斯克）44、45； I.古罗维奇（Odetska）26； T. Daddaev（希林）29； A.德什科夫斯基（巴拉诺维奇）26； L. Dorosinsky（莫斯科地区 Chernogolovka 村）41、44、45； I. Dotsenko（莫斯科）26-28、30、32； A. Dunaevsky（基辅）26、33-37、39、41、42、44-47； O.德劳登（巴拉宾斯克）26； M. Dyachkov（莫斯科地区切尔诺戈洛夫卡村）26—30、32、34、36、41、44、45； V. 埃夫斯特拉托夫 (列宁格勒) 26, 28-30; S. Efimov (巴库) 44, 45; V. 日托米尔斯基（哈尔科夫）33, 34, 36, 39, 41, 44, 45； N.佐霍夫（Aleksaandrov）34； G.朱可夫（Shumerlya）26； M.扎科尼斯（Couns）26-30、33、34、36、37； R. Zhlamatis（维尔诺斯）26-30、32、37、39、41、44-46； A. Zabolotny (乌兰努德) 44, 45; V. Zaitsev（莫斯科）39、44、45； D.扎伊采夫（高尔基）36、39、45；于。赞达罗夫 (库尔干泰亚) 33, 37;于。兹维钦采夫（哈尔科夫）33—37、39、42、44、46； E. Zvenitsorodsky（基辅）28； B. Iritsann（贝尔格莱德、南联盟）27、29； R。 伊斯肯德罗夫（贾利拉巴德）26、27； A. Ishkhanyan（杰尔穆克）35； M. Iyutov（白俄罗斯索非亚）39、41； E.卡巴科夫（列宁格勒）33、34、39、41； T.卡比雪夫（莫斯科）26-29、39、42； A.卡马采夫（伊热夫斯克）35、41； V.卡拉塞夫（Velikie Luki）27； D. Karmansky（Tselinograd地区Shortandy村）
+
+⟦folio 48⟧
+
+36； A.卡尔瑙霍夫（伊热夫斯克）41、44； E.卡巴斯基（多尔戈普鲁德内）28、32； S.卡斯泰利（博尔格勒）26, 33, 34, 36, 39, 44-46； V.卡迪诺克（梁赞）41, 44-47； S.基亚诺夫（列宁格勒）35-37、41、42、44、45； S. Kiyashko（克拉斯诺达尔）35； N.克莱茨基（Zhodino）26、28、30； M. Kozachenko (罗夫诺) 44, 45; M.科尔宾（斯维尔德洛夫斯克）27； V. 科莫夫 (Aleksadrov) 26, 28-30, 32, 33, 35, 37; R.科诺诺夫（新西伯利亚）44-46； A. Kortsatsin（克拉斯诺阿尔梅斯克，莫斯科地区）26-30、33-36、39、41、45； N.科斯马托夫（莫斯科）39、45； G. Kostyshin（明斯克）26、27、35-37； V.克里曼（文尼察）26、28、32、33、37、39、45、46； E.克雷洛夫（Velikiye Luki）28； I.克雷洛夫（古比雪夫）44； S.克里科夫斯基（符拉迪沃斯托克）26； A. 库比什金（基辅）26-28、30、33、35-37； O.库兹涅佐夫（图伦）26； E.库兹涅佐夫（利佩茨克）35、37、44； V.库兹明（戈尔洛夫卡）44； O.库兹明（塔什干）26； O.库兹米诺娃（Electrostal）41； I.库科廖夫（Syzan）26、30； F.库尔巴诺夫（列宁村，苏维埃社会主义共和国）26； N.库哈金（莫斯科）38、45； A. Lavrentyev（莫斯科地区 Chernogolovka 村）45； G. Landsberg（莫斯科地区 Protvino 村）28、30、33、35、36、39、41、44-46； D.拉齐奥诺夫（切博克萨雷）39； I. Lintscit（文尼察）28、32、39； S. Likhansky (赫尔松) 42, 45; A.利哈切夫（巴尔瑙尔）44； S.洛古诺夫（大卢基）26-28； D. Loktsin（莫斯科）45、46； O.洛宾（伏龙芝）33—35、44、45；于。卢皮娜 (Kokchetav) 27, 29, 39, 45； D. Makarov（莫斯科地区 Chernogolovka 村）33、45； L. Makova（盖辛）37； M. Malovichko (Severodonets) 26-28, 30; A. 马科维茨（贝尔格莱德，南联盟）28、30、32-37、41、44、45； L.马科维茨（布雷斯特）33-37、39、42-47； I.梅德科夫（莫斯科）28、34； R.米卡洛夫 (Geokchay) 35, 41; V.米哈伊洛夫斯基（马格尼托哥尔斯克）45； I.莫基耶夫（安加尔斯克）36； V. Molchanov（基辅）26、27、39； E.莫罗佐夫（扎波罗热）34-39、42、45-47； P.莫罗佐夫（图拉）35-37, 42； S. Moskvalenok（基辅）28、30； S. Moskvatsev（卡卢加地区 Zarechye 村）26； D. Mukshev（塞米巴拉金斯克地区阿尔卡特村）26、27； B.穆尔扎赫梅托夫（Dzhezkagan）28； S.穆萨耶夫（巴库）35、36、39、44、45； D.纳布托夫斯基（新西伯利亚）36、39； A. Nakas（维尔纽斯）33, 35-42； S. Nekrasov（切尔波韦茨）28； O. Neniporenko（克拉斯诺达尔地区 Severskaya 车站）35、42； K. Nikashev（萨拉瓦特）27； A.诺斯科夫（莫斯科）34、36、37； I.奥斯塔舍夫斯基（车里雅宾斯克）34； S.Ocheretyanny（日托米尔）41； E.Palanker（埃里温）26； I. Parbiy（基辅）39； E. Parbets（基辅）39、45； S. Parfenov (莫斯科) 34, 39; V. Pekar（基辅）35、36、44、45； V. Pentezov（基辅）26、27； K.Perushin（塔什干）39； T. Petrusha（奇尔奇克）35； I.皮尔尼科夫（坦波夫）27、30、36、37、39、45； S.皮尔蒂（安加尔斯克）26、27、30； A. Pirozhenko (Mytshits) 26, 27; A. Pozolotin (沃罗涅日) 33-37; V.波利亚科夫（Krivoy Rog）42； M. Pustylnik (斯维尔德洛夫斯克) 26, 28-46; A. Radtsov（n. Nikolskoye，列宁格勒地区）26-29, 31, 32； M. Rakhmanov（阿拉木图）26-32； M. Rozenbere（列宁格勒）26、33、34、36、45； I. Rosenbain（基辅）30、32、34、35、37、39、42、45； S. Rozyskov（刻赤

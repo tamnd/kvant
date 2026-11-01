@@ -1,0 +1,27 @@
+---
+id: 1982-11-shahmatnaya-doska-podvergnutaya-inversii-c744479d
+issue: kvant_1982_11
+year: 1982
+number: "11"
+title: '[棋盘颠倒]'
+rubric: smes
+page_first: 68
+page_last: 68
+tag: 6S20
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: b62a4b432dd9d323e71562c3850ccc58e266202c2a4b1f5b45ae6fd93fb85367
+prompt_sha256: draft-1
+translated_from: content/ru/1982/11/articles/01_shahmatnaya-doska-podvergnutaya-inversii-c744479d.md
+source_content_sha256: e60c3f28ba43d9db508c76da15cf373923088fe23e0b020815928d762a0f5827
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+在这个图上，我们的艺术家成功地将棋盘翻了个底朝天。为此，他使用了相对红色圆圈的反转变换。 （相对圆反转 (O; R) 是平面的变换，将点 $M \neq O$ 带到射线 $OM$ 上的点 $M'$，满足关系 $|OM| \cdot |OM'| = R^2$。您可以在 «Kvant»，1977 年，第 6 期，第 38 页中阅读有关此显着变换的更多信息。）
+
+细心的读者会注意到，这里描绘的棋盘由 49 个方格（而不是 64 个）组成 - 这导致了具有大对称轴的配置。

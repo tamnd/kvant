@@ -1,0 +1,42 @@
+---
+id: 1982-9-zadachi-923125dc
+issue: kvant_1982_9
+year: 1982
+number: "9"
+title: 任务
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 51
+page_last: 51
+page_labels: "49"
+tag: CEE3
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: f3f1aa98aa5b496049a8833eb4ccb7859380e66fd6eb6a593cde57e741c4a899
+prompt_sha256: draft-1
+translated_from: content/ru/1982/09/articles/14_zadachi-923125dc.md
+source_content_sha256: b5fd5d97f4c81665c717737c1da7642fb06cfffc19bca5c9d3553d70c7946159
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 49⟧
+
+锻炼
+
+1. 被除数是除数的6倍，除数是商的6倍。被除数、除数和商分别等于多少？
+
+2. 将一张 1 厘米宽的纸粘成一个长 4 厘米的圆柱环，如图 图 所示。是否可以用这个环制作一个面积为 1 cm2 的正方形 a); 6) 面积 2 平方厘米？纸张被剪成角折，但是，当然，你不能剪它。
+
+3. 学生瓦迪克和萨沙看到了一切，并把公文包放在他们身上。均显示公文包的质量分别为3公斤和2公斤。当他们对两个公文包进行投注时，整个公文包的重量为6公斤。
+- 为何如此？ - 萨沙惊呼道。 - 二加三不等于六！
+-你看不出来吗？ ——瓦迪克回答道。 - 你的箭头刚刚移动了。
+那么公文包的实际重量是多少？
+
+4. 任意三角形都可以被分割成四个与原来相似的相同三角形，如图所示。找到一个可以分割成三个与它相似的相同三角形的三角形。
+
+这些任务交给了我们
+V. Aleksadrov、Y. Alenkov、V. Proizvolov、
+L·施泰因加里
