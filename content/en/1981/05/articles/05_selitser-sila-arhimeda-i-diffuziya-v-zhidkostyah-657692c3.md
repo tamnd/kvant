@@ -1,0 +1,56 @@
+---
+id: 1981-5-selitser-sila-arhimeda-i-diffuziya-v-zhidkostyah-657692c3
+issue: kvant_1981_5
+year: 1981
+number: "5"
+title: Archimedes' force and diffusion in liquids
+authors:
+  - Селицер С. И.
+rubric: osnovnye-stati
+page_first: 15
+page_last: 15
+page_labels: "13"
+tag: 59AC
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 3f6a5d7fe0598b75f3dbdfcc08ab6019c45d9219e74755c7458ef4512efd473d
+prompt_sha256: draft-1
+translated_from: content/ru/1981/05/articles/05_selitser-sila-arhimeda-i-diffuziya-v-zhidkostyah-657692c3.md
+source_content_sha256: 50cd160b9895c9ac3b09c9c8b59c0de035b498b2ec42db7cafb3f388ca10024e
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 13⟧
+
+lose directional speed by colliding with host atoms (which are always there) or with other violations of the ideal crystal structure. This explains the resistance to current.
+
+It seems clear why helium is an insulator and lithium is a conductor. Let's try to apply our ideas to the next element - beryl. And then there was a misfire, the model didn’t work. Beryllium has four electrons, and it would seem that the first and second zones should be completely occupied, and the third should be empty. It turns out to be an insulator, while berylnium is a metal.
+
+The fact is that if the width of the zones is large enough, then they can overlap each other. This phenomenon is said to be that the zones overlap. This is what happens in beryllium: the minimum energy of electrons in the third zone is less than the maximum in the second. Therefore, it turns out to be energetically favorable for electrons to leave the empty part of the second zone and occupy the third virus state. This is how metal turns out.
+
+What will happen to the other elements? It is impossible to say in advance whether the zones are interrupted or not; this requires cumbersome computer calculations, and it is not always possible to obtain a reliable answer. But here's the thing: from our diagram it follows that if we take elements with an odd number of electrons, then we should always get a metal, unless the structural unit in the crystal is a separate atom. But hydrogen, for example, nitrogen and fluorine, do not want to crystallize into such a lattice. They prefer to first unite in pairs, and then the molecules containing an even number of electrons protrude into the crystal. And the laws of quantum mechanics do not prevent it from being a dielectric.
+
+So, we now know what a metal is from the point of view of physics, and we have understood the very day of the phenomenon, understanding why, in principle, insulators and conductors exist. We have seen that there is no simple way to explain why a particular substance is an insulator or a metal. This can be done only if armed with the full power of the apparatus of modern quantum mechanics and computer technology, but this is already a task for specialists.
+
+Archimedes' force and diffusion in liquids
+
+Take a quart glass jar and fill it halfway with salt water. The concentration of table salt in the solution should be such that a chicken egg floats in it, submerging approximately nine-tenths of its volume.
+
+Remove the egg from the jar, and carefully place a paper circle on the surface of the salted water, covering all the water. Now carefully pour water into the press jar and remove the paper circle (it is best to do this with tweezers).
+
+Fig. 1.
+
+After 5-10 minutes, lower the egg into the jar. You see that it seems to hang on the border of two layers, almost without plunging into the bottom layer (Fig. 1).
+
+Over time, as a result of diffusion, the boundary of the fresh and salty layers will move in the jar. Together
+
+Fig. 2.
+
+the egg will move with the border. After two or three days, when the boundary between the layers completely disappears, the egg rises to the surface of the water and floats to the surface (Fig. 2).
+
+Think about what practical applications the phenomenon described above could have.
+
+S. Seltzer

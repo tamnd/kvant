@@ -1,0 +1,84 @@
+---
+id: 1981-6-peredunova-pugachev-volgogradskiy-politehnicheskiy-institut-77c8a08d
+issue: kvant_1981_6
+year: 1981
+number: "6"
+title: Volgograd Polytechnic Institute
+authors:
+  - Передунова Л.
+  - Пугачёв В.
+rubric: ekzamenatsionnye-materialy
+page_first: 57
+page_last: 57
+page_labels: "55"
+tag: MEL6
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 299c20d977e070464430e1cbc94e74afc0c475e1fac28d29e7565d54eb81c273
+prompt_sha256: draft-1
+translated_from: content/ru/1981/06/articles/22_peredunova-pugachev-volgogradskiy-politehnicheskiy-institut-77c8a08d.md
+source_content_sha256: a51e563bda6ba0e7e2eab96cd7e39f952e1ebce4e1e93917671bfb9399e05f46
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 55⟧
+
+4. Find the limit
+$$\lim_{n \to \infty} \frac{7n^2 - 3}{\sqrt{n^4} + 5}.$$
+
+Physics
+
+Oral exam assignment
+
+1. How will the matrix oscillation period change when crossing it from Earth to Mars, if the mass of Mars is 9.3 times less than the mass of the Earth, and the radius of Mars is 1.9 times less than the radius of the Earth?
+2. The height of the ice floe above ocean level is $h = 2$ m. Determine the thickness of the entire ice floe if the density of ice is $q_1 = 900$ kg/m$^3$, and the density of ocean water is $q_2 = 1050$ kg/m$^3$.
+3. Two vessels with volumes $V_1 = 60$ l and $V_2 = 30$ l respectively contain gas at the same temperature but at different pressures. After connecting the vessels, a pressure of $p = 1000$ kPa was established in them. What was the initial pressure in the large vessel if it is $p_2 = 800$ kPa in the smaller one? The temperature did not change.
+4. The coil, covering a flat $S = 2$ cm$^2$, is located perpendicular to the lines of a uniform magnetic field. What EMF is induced in the coil if the magnetic induction uniformly kills from $|\vec{B}_1| = 0,5$ T to $|\vec{B}_2| = 0,1$ T in a time of $\Delta t = 0,05$ s?
+5. What is the longest wavelength of light at which the photoelectric effect is still observed if the work done by an electron from the metal is $A = 3,3 \cdot 10^{-19}$ J?
+
+A. Kvitko
+
+Volgograd Polytechnic Institute
+
+Mathematics
+
+Written exam
+Option 1
+
+1. A regular triangular paramida is inscribed in a ball, the sides of the base are equal to $a$, the side edges are inclined to the plane of the base at an angle $\phi$. Find the surface of the ball.
+2. Solve the inequality $f'(x) + g'(x) < 0$, where $f(x) = \frac{x^2 - 1}{x - 3}$, $g(x) = \frac{1}{x - 3}$.
+3. Simplify an expression
+$$4 \sin \left( 4\alpha - \frac{\pi}{2} \right)$$
+$$\text{ctg}^2 \left( 2\alpha - \frac{3\pi}{2} \right) - \text{tg}^2 \left( 2\alpha + \frac{3\pi}{2} \right)$$
+4. Solve the equation
+$$\log_2 (9^{x-1} + 7) = 2 + \log_2 (3^{x-1} + 1)$$
+5. The triangle $ABC$, which has $\hat{B} = 60^\circ$, is inscribed in a circle with center $O$ and radius 2.
+
+Find the scalar product of the vectors $\vec{OA}$ and $\vec{OC}$.
+
+Option 2
+
+1. In a truncated cone, the diagonals of the main section are mutually perpendicular, and the generatrix is ​​equal to $l$ and makes an acute angle $\alpha$ with the plane of the base. Find the lateral surface of the truncated cone.
+2. Examine the extremum function
+$$y = x \cdot e^{x+1}.$$
+3. Solve the equation
+$$\sin^2 2x + \sin^2 3x = 1.$$
+4. Solve inequality
+$$\log_0,3 \log_6 \frac{x^2+x}{x+4} > 0.$$
+5. The body falls according to the law $h(t) = 4 + 8t - 5t^2$, where $h$ is the height of the fall in meters, $t$ is the time in seconds. Find the speed of the body at the moment of contact with the ground.
+
+Physics
+
+Oral exam assignment
+
+1. The driver automatically braked sharply at a speed of $|\vec{v}| = 72$ km/h. After what time will $T$ automatically stop if the friction coefficient is $\mu = 0,6$? What will be the braking distance $l$ automatically?
+2. Two bodies are thrown vertically upward with different initial velocities. The first body reached four times greater height than the second. How many times was its initial speed $|\vec{v}_1|$ greater than the initial speed $|\vec{v}_2|$ of the second body?
+3. Investigate the mass $M$ of the Sun, knowing that the average linear speed of the Earth in orbit is $V = 30$ km/s, and the radius of the Earth's orbit is $R = 1,5 \cdot 10^8$ km. Gravitational constant $G = 6,7 \cdot 10^{-11}$ N m$^2$/kg$^2$.
+4. A log with a length of $l = 3,5$ m and a diameter of $d = 0,3$ m floats in water. What is the mass of $M$ a person who can stand on a log without getting his feet wet? Wood density $q = 0,7 \times 10^3$ kg/m$^3$.
+5. In an ideal heat engine, the gas transferred 67% of the heat received from heating to the refrigerator. Determine the temperature $T_2$ of the refrigerator if the heating temperature is $T_1 = 430$ K.
+6. What is the current flow in the circuit of an electric boiler if a volume of $V = 5$ liters of water boils within $\tau = 30$ minutes? Initial water temperature $t_1 = 20^\circ$C, network voltage $U = 220$ V, boiler efficiency $\eta = 80\%$, specific water temperature $c = 4,2 \times 10^3$ J/(kg K).
+7. An electric kettle has two windings. When you turn on one of them, the water in the kettle boils in $\tau_1 = 10$ minutes, when you turn on the other - in $\tau_2 = 20$ minutes. How long will it take for the water in the kettle to boil if the windings are turned on: a) in series, b) in parallel?
+8. The plane flies horizontally at a speed of $|\vec{v}| = 900$ km/h. Determine the induced emf $\epsilon$ that appears at the ends of the aircraft’s wings if their span is $l = 24$ m, and the model of the vertical component of the induction of the Earth’s magnetic field is $B_B = 5 \cdot 10^{-5}$ T.

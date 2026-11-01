@@ -1,0 +1,93 @@
+---
+id: 1981-6-gamayunov-holmanskih-o-golovolomke-shest-bruskov-8b2782a2
+issue: kvant_1981_6
+year: 1981
+number: "6"
+title: '[About the “six bars” puzzle]'
+authors:
+  - Гамаюнов В. Н.
+  - Холманских А.
+rubric: smes
+page_first: 2
+page_last: 3
+page_labels: "1"
+tag: KC9G
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 9ed3b5390b06a8a74ac1b74ac5b6c4d3953e98f8131600937d2ce02aa677ad08
+prompt_sha256: draft-1
+translated_from: content/ru/1981/06/articles/02_gamayunov-holmanskih-o-golovolomke-shest-bruskov-8b2782a2.md
+source_content_sha256: 1afaf13a49f7c831d576228c5203709223c702245c817fca5e1e0d75c48b6ba0
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+In the center of this figure the Russian folk puzzle "six bars" is shown in a semi-assembled form $\textcircled{2}$. When assembled $\textcircled{4}$ this structure of each is completely rigid, although the bars are not glued, knocked down or screwed to each other. It is not easy to guess which bars and in which direction you need to pull in order to disassemble it.
+The puzzle is made up of six identical bars with a square section and two transverse cuts $\textcircled{1}$. Using the development $\textcircled{3}$ you can find the exact dimensions of the cuts and either glue the bars from thin cardboard or make them from wood.
+Another version of this puzzle, with round blocks, is shown on the front cover.
+
+V. Gamayunov, A. Kholmanskikh
+
+⟦folio 1⟧
+
+6
+1981
+
+Founded in 1970
+
+POPULAR SCIENTIFIC PHYSICS AND MATHEMATICS JOURNAL
+USSR ACADEMY OF SCIENCES and USSR ACADEMY OF PEDAGOGICAL SCIENCES
+
+PUBLISHING HOUSE SCIENCE
+MAIN EDITORIAL OFFICE OF PHYSICAL AND MATHEMATICAL LITERATURE
+
+IN THE ROOM:
+
+Scientists educate the youth
+2 V. Ambartsumyan. In the name of the flourishing of science in our Motherland
+* * *
+5 V. Boltyansky. Graph topology
+11 Y. Bruk, A. Stasenko. The dimensional method places problems to be solved
+20 A. Mikhailov. About solar eclipses in general and specifically about the eclipse of July 31, 1981
+
+Laboratory «Kvant»
+25 P. Kanaev. Several experiments with a hollow transparent ball
+
+Math circle
+27 N. Vasiliev, T. Malikov. Let's consider the difference
+
+Problem «Kvant»
+31 Problem M686 — M690; F698 — F702
+33 Solutions to problems M641 - M644; F657 — F662
+41 List of readers who sent correct solutions
+
+«Kvant» for younger students
+43 Problems
+44 G. Topadze. In the magical world of numbers
+
+Applicant's workshop
+45 N. Beryuleva. Interference of light
+
+Options for university entrance exams in 1980
+50 Voronezh State University
+51 Azerbaijan State Pedagogical Institute
+52 Kyiv State Pedagogical Institute
+53 Leningrad State Pedagogical Institute
+53 Moscow State Pedagogical Institute
+54 Odessa State Pedagogical Institute
+55 Volgograd Political Institute
+56 Leningrad Political Institute
+57 Moscow Architectural Institute
+
+Information
+59 A. Savin. International mathematics competitions for schoolchildren
+60 Chess page
+61 Answers, directions, solutions
+Blend (10)
+Science News (19)
+
+© Nauka Publishing House. Main editorial office of physical and mathematical literature, «Kvant», 1981

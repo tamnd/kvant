@@ -1,0 +1,48 @@
+---
+id: 1981-3-sobolev-na-shkolnoy-parte-bud-issledovatelem-d177fb6d
+issue: kvant_1981_3
+year: 1981
+number: "3"
+title: Be a researcher at school
+authors:
+  - Соболев С. Л.
+rubric: raznoe
+rubric_sub: Разное
+page_first: 4
+page_last: 4
+page_labels: "2"
+tag: FUR6
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 98d44d4ca06ed2286479b8c01429c3e14a349ee42c1b2bea0b01511d1b3b314d
+prompt_sha256: draft-1
+translated_from: content/ru/1981/03/articles/03_sobolev-na-shkolnoy-parte-bud-issledovatelem-d177fb6d.md
+source_content_sha256: 3ba1246ddbe84ccd1012735b2c954ba3d2402466951b1a69845998c3a984ec86
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 2⟧
+
+S. Sobolev
+
+At school
+desk
+be
+researcher
+
+Lately, a lot of attention has been paid to choosing a path in life, to how to find your right path. Otherwise it can be so difficult to do! After all, many things in life seem interesting and exciting, don’t they? It happens that a young man loves poetry and music most of all, but with enthusiasm he solves difficult mathematical problems, and is able to sit with a soldering iron until late at night, building his own radio receiver.
+
+But other school graduates don’t care where to go, they are not interested in anything. Mathematics, in particular, they argue, is boring. History is even worse, just look at the chronological tables and the abundance of historical names...
+
+The life path of a scientist begins early. Even during his school years, a couple of years later, his thirst for knowledge awakens. One young man is fascinated by complex mathematical constructions, the beauty and harmony of mathematical theories. Another is drawn to the world of chemical or physical phenomena, a third is passionate about studying Egyptian neroglyphs.
+
+It is during the school years that the future researcher accumulates the first stock of knowledge, will, character, perseverance are forged and, finally, the love for his work is strengthened.
+
+At a school desk, on a hiking trip, on a collective farm field, in a sweatshirt, you, young friend, should be constantly worried about questions: how, why, report? Isn't it fascinating, for example, to find out in future mathematics what forces a jet plane experiences from the air it cuts? Why do high-speed aircraft have curved
+
+Academician Sergei Lvovich Sobolev - Hero of Socialist Labor, director of the Institute of Mathematics of the Siberian Branch of the USSR Academy of Sciences.
+
+The article is reprinted from the collection “Lenin. Science. Youth", published in 1980 by the Nauka publishing house.

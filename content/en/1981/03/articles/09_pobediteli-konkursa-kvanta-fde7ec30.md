@@ -1,0 +1,86 @@
+---
+id: 1981-3-pobediteli-konkursa-kvanta-fde7ec30
+issue: kvant_1981_3
+year: 1981
+number: "3"
+title: Competition winners «Kvant»
+rubric: zadachnik-kvanta
+page_first: 25
+page_last: 25
+page_labels: "23"
+tag: MBEA
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 2b66eb99a74092d2cabaa8cced2c38f2a5a8fc5bd939f5dccad17c761fa62a2a
+prompt_sha256: draft-1
+translated_from: content/ru/1981/03/articles/09_pobediteli-konkursa-kvanta-fde7ec30.md
+source_content_sha256: b7f667f0e88268119144e6bbf3155d20ad139e7fa0c10036f88ac0fd0e797279
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 23⟧
+
+Winners of the Kvaenta competition
+
+Every year our magazine holds a competition among schoolchildren to solve problems from the Quaenta Problem Book. In accordance with the decision of the organizing committee of the All-Olympiad, schoolchildren who won this competition receive the right to participate in the fourth (republican) round of the All-Olympiad.
+
+Below is a list of the winners of the 1980 Quaenta competition who received the right to participate in the 1981 Republican Olympics.
+
+Mathematics
+
+E. ABDULLAYEV - Masally, s.sh. No. 2, 10 cells.
+A. BARG - Kyiv, Physics School No. 2 at KSU, 10th grade.
+Y. BELOTSERKOVSKY - Minsk, s.sh. No. 64, 10 cells.
+V. BEREZHNOY - Kyiv, Physics School No. 2 at KSU, 10th grade.
+A. BRUDNY - Yaroslavl, s.sh. No. 33, 10 cells.
+M. GAISINSKY - Tashkent, s.sh. No. 103, 10 cells.
+D. GRIGORIEV - Moscow, s.sh. No. 57, 10 cells.
+O. EROSHKIN - Dnepropetrovsk, s.sh. No. 15, 8 cells.
+A. ZEGE - Minsk, s.sh. No. 50, 10 cells.
+A. ZOLOTYKH - Moscow, Physics School No. 18 at Moscow State University, 10th grade.
+Z. IBRAGIMOV - Masally, s.sh. No. 2, 10 cells.
+A. KAGARMANOV - Moscow, Physics School No. 18 at Moscow State University, 10th grade.
+S. KIM - Bektemir, s.sh. No. 2, 10 cells.
+I. KOLPAKOV - Moscow, Physics School No. 18 at Moscow State University, 10th grade.
+D. KOROTKIN - Leningrad, Physics School No. 45 at Leningrad State University, 9th grade.
+S. LAMIKHOV - Tashkent, s.sh. No. 103, 10 cells.
+L. MERKEVICHIUS - Lentvaris, s.sh. No. 2, 11 cells.
+Y. NAZARENKO - Kyiv, Physics School No. 2 at KSU, 10th grade.
+P. OVCHINNIKOV - Vyazniki, s.sh. No. 11, 10 cells.
+M. OKROYAN - Yerevan, Physics and Music School at Yerevan State University, 10th grade.
+V. ROMANYUK - p. Kusishe, Volinskaya region, 10th class.
+B. RUBLEV - Kyiv, Physics School No. 2 at KSU, 10th grade.
+A. SPIVAK - Moscow, Physics School No. 18 at Moscow State University, 9th grade.
+S. SPICHAK - Kyiv, Physics School No. 2 at KSU, 10th grade.
+E. STEPANYAN - Baku, s.sh. No. 5, 10 cells.
+V. TITENKO - village of Bluzha, Minsk region, 9th grade.
+R. UGRINOVSKY - Khmilnik, s.sh. No. 3, 9 cells.
+O. FONAREV - Sumgant, s.sh. No. 11, 10 cells.
+A. KHARITONSKY - Kyiv, s.sh. No. 145, 10 cells.
+O. CHALKH - Moscow, Physics School No. 18 at Moscow State University, 9th grade.
+L. ELKUN - Tashkent, s.sh. No. 189, 10 cells.
+
+Physics
+
+V. AVETISOV - Baku, s.sh. No. 145, 10 cells.
+V. BEREZHNOY - Kyiv, Physics School No. 2 at KSU, 10th grade.
+V. VASILIEV - Velikiye Luki, s.sh. No. 3, 10 cells.
+B. WEITZMAN - Odessa, s.sh. No. 53, 9 cells.
+I. GUBIN - Yerevan, Physics and Music School at Yerevan State University, 10th grade.
+I. ELISHEVICH - Chernigov, s.sh. No. 3, 10 cells.
+M. ZEIFMAN - Vologda, s.sh. No. 9, 10 cells.
+I. KOMPANEYTSEV - Alma-Ata, RFMSH, 10th grade.
+A. LYAPIN - Moscow, Physics School No. 18 at Moscow State University, 10th grade.
+O. MANUYLENKO - Kyiv, Physics School No. 2 at KSU, 10th grade.
+A. OSIPOV - Sosnovy Bor, s.sh. No. 5, 10 cells.
+V. PENTEGOV - Kyiv, s.sh. No. 145, 9 cells.
+A. PONOMARENKO - Kyiv, Physics School No. 2 at KSU, 10th grade.
+A. SANZHUR - Kyiv, s.sh. No. 145, 10 cells.
+A. SMIRNOV - Kurgan, s.sh. No. 28, 10 cells.
+Y. TALDENKO - Sumy, s.sh. No. 10, 9 cells.
+V. FEDYUKOVICH - Kyiv, Physics School No. 2 at KSU, 10th grade.
+A. TSEKHANSKY - village Zaprudnya, Moscow region, northern sh. No. 1, 10 grades.
+I. SHKRADIUK - Noginsk, s.sh. No. 83, 10 cells.
