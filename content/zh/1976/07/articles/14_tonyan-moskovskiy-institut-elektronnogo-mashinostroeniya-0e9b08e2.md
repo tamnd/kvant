@@ -1,0 +1,85 @@
+---
+id: 1976-7-tonyan-moskovskiy-institut-elektronnogo-mashinostroeniya-0e9b08e2
+issue: kvant_1976_7
+year: 1976
+number: "7"
+title: 莫斯科电子工程学院
+authors:
+  - Тонян В. А.
+rubric: ekzamenatsionnye-materialy
+page_first: 41
+page_last: 41
+page_labels: "39"
+tag: RZT4
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 4e4a69202b4b5214541d17106121654f247d9e292b041a99cf663052a8d028cd
+prompt_sha256: draft-1
+translated_from: content/ru/1976/07/articles/14_tonyan-moskovskiy-institut-elektronnogo-mashinostroeniya-0e9b08e2.md
+source_content_sha256: 36240967d28e67cf775663d0260ab6638a6e26955aa0f04dfbcc2994a2ecb28a
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 39⟧
+
+农场，开发生产、消费和储蓄的数学模型。学生科学会议定期举行。
+
+以下是 1975 年 MIU 数学入学笔试的选项。
+
+选项1
+1. 在直角三角形ABC中，斜边是$AB = a, A = \alpha$。求与三角形ABC 的边AC、斜边AB 和外接圆相切的圆的半径。
+2. 解方程
+$$4x + \sqrt{x^2 - 2} - 5 \cdot 2x - 1 + \sqrt{x^2 - 2} = 6.$$
+3. 解决不等式 ($a > 1$)
+$$\log_a^2 (x^{\sqrt{x}}) > \log_a (a^{4x} \cdot x^{3x}).$$
+4. 解方程
+$$(\sin 2x + 3)\sin^4 x - (\sin 2x + 3)\sin^2 x + 1 = 0.$$
+5. 如果两个数的几何平均值与算术平均值之比为 $3/5$，则求这两个数的比率。
+
+选项2
+1. 点 M 取于角度 $\alpha$ 内。它在角两侧的投影 P 和 Q 在距离 $OP = p$ 和 $OQ = q$ 处从顶点移除。找到 MP 和 MQ。
+2. 解方程
+$$\log_x (125x) \cdot \log_{25}^2 x = 1.$$
+3. 解决不平等问题
+$$|x^2 - |x| + 3| < 5.$$
+4. 解方程
+$$\sec x = 4 \sin x + 6 \cos x.$$
+5. 证明如果$a > 0, b > 0$，则
+$$\frac{2\sqrt{ab}}{\sqrt{a} + \sqrt{b}} \leq \frac{4\sqrt{ab}}{3}.$$
+V. Mashurtsev、I. Sharyzin
+
+莫斯科电子工程学院
+我们在«Kvant»第7期详细介绍了1973年的莫斯科电子工程学院。本期我们介绍了1975年莫斯科电子工程学院数学入学笔试的选择。
+
+选项1
+1. 解方程
+$$3x \log_5 1 - \frac{2}{3} = |5x \log_3 1 - 24|.$$
+
+2. 具有正项的等差级数的第三项和第六项的乘积是 13.5，第四项和第五项的和是 7.5。找到这个进展。还确定所有具有正项的算术级数的指示总和的最小可能值，其中第三项和第六项的乘积等于 13.5。
+
+3. 在正四边形 paramid 中，其高度 $H$ 与侧边形成角度 $\alpha$，通过底面对角线绘制一个平面，与底面平面成 $\beta$ 角。确定截面的面积。
+
+4. 解方程
+$$\frac{a \sin x - 2}{a - 2 \cos x} = \frac{a \cos x - 2}{a - 2 \sin x}$$
+
+并确定其在线段[20π,29π]上的根数。
+
+5. 解决系统
+$$\begin{cases} x - y = 10a, \\ \frac{1}{x} + \frac{1}{y} = \frac{2}{a^2 - 25} \end{cases}$$
+
+并证明对于任意整数$a \neq \pm 5$、$a \neq 0$，系统有两个解$(x_1, y_1)$和$(x_2, y_2)$，使得乘积$x_1x_2y_1y_2$是900的整数倍。
+
+选项2
+1. 解决不平等问题
+$$\log_3 (1 - x) < \log \frac{1}{3} (x + 2).$$
+2. 圆锥体轴截面顶点处的角度为2α。从圆锥体的侧面通过内切于该圆锥体的球的切圆绘制的平面位于圆锥体的哪个相对区域？
+3. 数字150被除以余数后分成几个正整数。然后我们将除数加上 2，并用新除数除 151 的余数。事实证明，第二个商比第一个商小 5。原除数是多少？
+4. 解方程
+$$\sqrt{\frac{2 \sin x + 1}{-\cos x - 2}} = \sqrt{\frac{2 \cos x + 1}{-\sin x - 2}}.$$
+5. 解决系统
+$$\begin{cases} \frac{x}{a + 3} - \frac{y}{a + 2} + 1 = 0, \\ \frac{y}{x} - \frac{2}{y - 2} = 1 \end{cases}$$
+
+($a > 0$) 并证明如果$a$是一个整数，那么对于给定数系的每个解$(x, y)$，$1 + xy$是该数的平方。相反的说法正确吗？

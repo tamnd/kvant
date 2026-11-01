@@ -1,0 +1,30 @@
+---
+id: 2024-7-pamyati-sergeya-petrovicha-novikova-f6d47488
+issue: kvant_2024_7
+year: 2024
+number: "7"
+title: 纪念谢尔盖·彼得罗维奇·诺维科夫
+rubric: matematicheskiy-mir
+rubric_sub: Математический мир
+page_first: 17
+page_last: 17
+tag: 1O4S
+lang: zh
+source: kvant_digital
+extraction: native
+content_sha256: 39eea18e1da00cee60ae4cc058721bf3d838480326f25bc8c5cf7a593ff4c5bd
+prompt_sha256: draft-1
+translated_from: content/ru/2024/07/articles/01_pamyati-sergeya-petrovicha-novikova-f6d47488.md
+source_content_sha256: 96969d8ee8499a83c06a31388f4796b09a49db7dd488314381e2f6fff104a1f8
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+谢尔盖·彼得罗维奇·诺维科夫
+
+(20.03.1938 – 06.06.2024)
+
+2024年6月6日，杰出数学家、俄罗斯科学院院士、《«Kvant»》杂志长期编委会和编委会委员、《«Kvant»》杂志第一副主编（1990年-2007年）去世。谢尔盖·彼得罗维奇出生于一个著名的数学家家庭：他的父亲彼得·谢尔盖耶维奇·诺维科夫院士是集合论、数理逻辑、算法理论和群论领域的主要专家，他对逆位势问题的唯一性的研究开辟了应用数学的重要方向，他的母亲柳德米拉·弗谢沃洛多芙娜·凯尔迪什教授因在几何拓扑和集合论方面的工作而闻名于数学界，并在其中提供了解决方案解决这些领域中一些最困难的问题。谢尔盖·彼得罗维奇的外祖父弗谢沃洛德·米哈伊洛维奇·凯尔迪什被所有国内百科全书称为俄罗斯钢筋混凝土的创造者，而他的叔叔，即他母亲的兄弟姆斯季斯拉夫·弗谢沃洛维奇·凯尔迪什，是应用数学领域的主要专家，并多年来担任苏联科学院院长。 S.P.诺维科夫的哥哥列昂尼德·韦尼亚米诺维奇·凯尔迪什是一位杰出的理论物理学家，固体物理、半导体物理和量子放射物理领域的专家。谢尔盖·彼得罗维奇·诺维科夫是世界著名科学家，几何学、拓扑学、动力系统理论、量子场论和固体物理等多个现代领域的创始人。 S.P.诺维科夫的最高成就之一是证明了庞特里亚金有理类的拓扑不变性（1965）——这一基本结果在很大程度上决定了拓扑学的进一步发展。谢尔盖·彼得罗维奇（Sergei Petrovich）在共边理论和流形上的光滑结构理论中取得了突破性成果，开创了代数和微分拓扑的新方向。这些作品荣获列宁奖（1967年）和国际数学联盟最高奖菲尔兹奖（1970年）。

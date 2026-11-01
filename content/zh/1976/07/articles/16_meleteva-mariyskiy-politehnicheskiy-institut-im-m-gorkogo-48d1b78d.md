@@ -1,0 +1,79 @@
+---
+id: 1976-7-meleteva-mariyskiy-politehnicheskiy-institut-im-m-gorkogo-48d1b78d
+issue: kvant_1976_7
+year: 1976
+number: "7"
+title: 以马里理工学院命名。高尔基
+authors:
+  - Мелетьева Г.
+rubric: ekzamenatsionnye-materialy
+page_first: 45
+page_last: 45
+page_labels: "43"
+tag: PIS6
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: c682298c42fc4e65dc695e1743d531ceadd87a9f3dfdc57ed1509d31b4748e2d
+prompt_sha256: draft-1
+translated_from: content/ru/1976/07/articles/16_meleteva-mariyskiy-politehnicheskiy-institut-im-m-gorkogo-48d1b78d.md
+source_content_sha256: 5513124da6d162ed36351890935a6e92d0872a1634a967bc8f650c4308026819
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 43⟧
+
+门票2
+1. 平行六面体；其面和对角线的性质，长方体的对角线与其尺寸之间的对应关系。
+2. 列出并指出十进制对数的属性。
+3. 三项式$y = 3x + 5 - 2x^2$ $x$ 的值是多少
+   a) 具有最重要的意义；
+   b) 变为零；
+   c) 积极的？
+4. 解方程
+   $$\cos x = \cos 2x \cdot \cos 3x.$$
+门票3
+1. 证明关于三角形中线性质的定理。
+2. 推导 sin($\alpha \neq \beta$) 的公式。
+3. 解决不平等问题
+   $$\frac{x}{3} - \frac{4}{x} > \frac{4}{3}.$$
+4. 计算
+   $$\frac{\sin x + \cos x}{\sin x - \cos x},$$
+如果 sin $x$ cos $x = 0,4$。
+
+物理
+1. 使用焦距为 $F=10$ cm 的聚光透镜将高度为 $h=5$ cm 的照明狭缝投影到距离透镜$f=12$ cm 的屏幕上。求屏幕上狭缝图像的大小。
+2. 如果电流源在 $U=1000$ V 电压下产生的功率不超过 $P=6$ kW，那么安装在二阶导数线路末端的哪一个功率最大，电阻为 $R=10$ 欧姆？
+3. 使用功率为 800 W 的电热水壶，您可以在$t=20$ 分钟内以$t_1=20^\circ\text{C}$ 的温度烧开$V=1,5$ 升水。求水壶的效率。
+
+S.热丹诺夫。 Z·菲勒
+
+马里理工学院
+他们。高尔基
+数学笔试，1975年
+选项1
+1. 参数的基础是具有锐角$\alpha$的菱形。侧面与基面倾斜角度$\varphi$。如果挂入菱形的圆的半径为 $r$，请确定参数的体积。
+2. 解方程
+   $$\lg 2 + \lg (4x^2 + 9) = 1 + \lg (2x^2 + 1).$$
+3. 解方程
+   $$\sin 3x + \sin 2x = \sin x.$$
+4. 解决不平等问题
+   $$\frac{x^2 - 5x + 4}{x + 1} > 0.$$
+5. 简化表达式
+   $$2 \left(x^2 + \sqrt{x^4 - 1}\right) \times \left[\sqrt[3]{(x^2 + 1) \sqrt{1 + \frac{1}{x^2}}} + \sqrt[3]{(x^2 - 1) \sqrt{1 - \frac{1}{x^2}}}\right]^{-2}.$$
+选项2
+1. 圆锥体的母线沿 $60^\circ$ 平行线与圆锥体内接的球相切。如果球的半径为 2，求圆锥体的体积。
+2. 解方程
+   $$4x^2 - 17 \cdot 2x^4 = 0.$$
+3. 解方程
+   $$\cos 4x = -2 \cos^2 x.$$
+4. 解决不平等问题
+   $$\lg (35 - x^3) / \lg (5 - x) > 0.$$
+5. 简化表达式
+   $$\left[(a - b) \cdot \sqrt{\frac{a + b}{a - b}} + a - b\right] \times \left[(a - b) \cdot \left(\sqrt{\frac{a + b}{a - b}} - 1\right)\right].$$
+G·梅莱米耶娃
+
+雅罗斯拉夫尔理工学院
+雅罗斯拉夫尔理工学院在1974年«Kvant»第7号中有详细介绍。1975年，土木工程学院首次举办新专业“Hydromeloration”招生。我们提供了数学入学考试的选项以及 1975 年 YAPI 物理考试门票中的问题。

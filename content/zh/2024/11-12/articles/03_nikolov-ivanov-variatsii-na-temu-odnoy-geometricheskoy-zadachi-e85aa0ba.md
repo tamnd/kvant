@@ -1,0 +1,58 @@
+---
+id: 2024-11-12-nikolov-ivanov-variatsii-na-temu-odnoy-geometricheskoy-zadachi-e85aa0ba
+issue: kvant_2024_11-12
+year: 2024
+number: 11-12
+title: 几何问题主题的变奏
+authors:
+  - Николов Н.
+  - Иванов А. Д.
+rubric: zadachnik-kvanta
+rubric_sub: Задачник «Кванта»
+page_first: 30
+page_last: 30
+page_labels: "28"
+tag: TPIO
+lang: zh
+source: kvant_digital
+extraction: native
+content_sha256: 84991fea563dcbc4a45a57ccddd4746dbff568a549a7caa1953387fee13285b8
+prompt_sha256: draft-1
+translated_from: content/ru/2024/11-12/articles/03_nikolov-ivanov-variatsii-na-temu-odnoy-geometricheskoy-zadachi-e85aa0ba.md
+source_content_sha256: 5b5873ad3c045b4afa30efff3f0390b8f6c43b304b6f151c008865126e41cee7
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 28⟧
+
+科万特 2024/号11-12日
+
+因此，在一个周期的运动过程中，珠子达到最大距离$r_{0}$ 3 次，最小距离$r_{0} 3$ 3 次。因此，绕孔轴旋转一周的轨迹从半径为 $r_{0}$ 的圆到半径为 $r_{0} 3$ 的圆并返回 3 次，并且在较大圆的公共点附近，珠子沿半径移动（轨迹接触半径），在较小圆的公共点处，珠子的径向速度以非零角速度变为零 - 珠子垂直于半径移动，其轨迹在公共点处接触较小的圆。使用此信息，可以相当正确地描述轨迹类型 (图 3)。 A.阿波隆斯基、K.帕尔费诺夫
+
+几何问题主题的变奏
+
+N. 尼科洛夫 (索菲亚), A. 伊万诺夫 (普列文)
+
+在本文中，我们将讨论与第 73 届保加利亚国家奥林匹克竞赛中提供的几何 ���题 M2809 相关的图。
+
+让我们看看这个简单的设计。设点M和N分别位于三角形ABC(图1)的边AC和BC上。让线段 AN 和 BM 相交于 O 点。接下来，我们将使用三角形元素的标准符号：BC = a，AC = b，ACB J。此外，我们将 CM = m，CN = n，AOM T。
+
+⟦column⟧
+
+⟦figure⟧
+
+图 3
+
+⟦figure⟧
+
+图 1
+
+让我们从以下任务开始，原则上 7-8 年级的学生可以完成该任务。问题1. 设ACB 90 q，并已知AM = BC，CM = BN。寻找 OM。
+
+练习 1. 找出在极限情况 AC = BC 和 AC = 2BC 下问题 1 的答案是什么。
+
+解决方案。让我们将三角形 AMB 完成为平行四边形 AMBP (图 2)。然后是 BC。
+
+图 2

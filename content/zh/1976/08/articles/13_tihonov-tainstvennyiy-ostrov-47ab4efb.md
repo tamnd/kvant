@@ -1,0 +1,55 @@
+---
+id: 1976-8-tihonov-tainstvennyiy-ostrov-47ab4efb
+issue: kvant_1976_8
+year: 1976
+number: "8"
+title: 神秘的岛屿
+authors:
+  - Тихонов В.
+rubric: smes
+page_first: 37
+page_last: 37
+page_labels: "35"
+tag: S43G
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 932c8120c0a523534c4e4681fb97e8b3df6860ee2afe8bd5e38b824c7a3cf4df
+prompt_sha256: draft-1
+translated_from: content/ru/1976/08/articles/13_tihonov-tainstvennyiy-ostrov-47ab4efb.md
+source_content_sha256: d20740e790f0905d426ddfa161b548db804f76d4e3fba207e4296ae00137a734
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 35⟧
+
+坦斯特夫尼岛
+当然，你认识儒勒·凡尔纳的小说《Tannestvennaya Isle》的插图吗？沙子里的钉子是由无所不知、聪明绝顶的工程师赛勒斯·史密斯（Cyrus Smith）在杆子阴影的末端锤打出来的。记者Gedon Spilett拿着手表站在那里……但有一个细节你可能已经忘记了：小说中所描述的事件发生的岛屿位于南纬30°以南。
+雕刻家 J. Barban 和艺术家 P. Ferat，J. Verne 的插图小说通常完美地完成了他们的任务。
+但在这种情况下...
+尝试回答以下问题：
+1. 插图中的阴影描绘正确吗？
+2. 可以通过钉子底部拉出的凸面覆盖物应该放置在哪个方向 - 从杆子还是朝向杆子？
+3. 钉子是从左到右的吗？
+尝试绘制一个阴影来描述白天不同纬度的杆子阴影的末端。极点的方向与地球自转轴平行。
+
+V·吉洪诺夫
+
+孪生问题
+棋手们都熟悉所谓的“孪生问题”，其条件略有不同，解决方案也完全不同。这是两个孪生数学问题的有趣示例。
+A 和 B 之间发生了以下对话。
+答：你有孩子吗？
+B·(1)：是的，有。
+B·(2)：是的，三个。
+答：几岁了？
+B：他们年龄的乘积是36岁出头，总和就是那栋房子的窗户数量。
+
+A（想了想）：我无法确定他们的年龄。
+B：我补充一下：最大的是个男孩。
+答：现在一切都清楚了。
+第一个问题（（1）和（2））的两个答案选项需要确定儿童的数量和年龄。最令人惊讶的是，虽然答案不同，但两个案例中都有三个孩子。
+
+V·沙拉夫季诺夫
+（新西伯利亚）

@@ -1,0 +1,48 @@
+---
+id: 1976-8-esayan-evm-oprovergaet-19b020b3
+issue: kvant_1976_8
+year: 1976
+number: "8"
+title: 电脑反驳
+authors:
+  - Есаян А.
+rubric: osnovnye-stati
+page_first: 30
+page_last: 30
+page_labels: "28"
+tag: DST1
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 4a5cabd9d6399277e09da0adf83bea9038213c70c46cf3e44200f8f47626354b
+prompt_sha256: draft-1
+translated_from: content/ru/1976/08/articles/09_esayan-evm-oprovergaet-19b020b3.md
+source_content_sha256: 42e2d5cd4c0d1ae20a0215bc8a2af2813db26bad0b72ee02751394d32312a88e
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 28⟧
+
+电脑
+反驳
+
+伟大的数学家 L. Euler 拥有以下问题：
+
+与你的马一起绕棋盘上的所有方格走一圈，每个方格一次抬高一个方格。
+
+1823年，Varisdorf在《马走法问题的最简单和最通用的解决方案》小册子中提出了以下遍历棋盘的规则：
+
+每次移动，骑士都会在面具方格上下注，从该方格可以向尚未覆盖的方格进行最少的移动次数。如果有多个单元掩码，您可以选择其中任何一个。
+
+请注意，瓦里斯多夫规则不是算法，因为它并不总是清楚地指示骑士的下一步行动（请参阅规则的第二个短语）。
+
+例如，如果一个马从方格 d4 开始移动，Warisdorff 规则允许它首先移动到任何方格 b3、b5、c2、e2 (图 1)。 （但是，如果马从方格 c2 开始移动，那么即使在第一步移动，Warisdorff 规则也清楚地告诉他该去哪里 - 方格 a1！）
+
+瓦里斯多夫指出：无论马从哪个方格开始移动，任何满足其规则的路径最终都会导致棋盘的完整循环（即欧拉问题的解决）。直到最近，尚不清楚这一说法是否属实。时间回到 1971 年，E. Ya. Gik 在«Kvant»（第 9 期，第 53 页）中写道，Varisdorf 的说法“在实践中总是合理的……尽管在理论上并未得到证实”。
+
+为计算机“Promin-2”编译了一个程序来枚举一组特定的马路。第一个对策在不到一分钟的时间内就建立起来了。尝试了6464条路径后，计算机收到了对策
+
+图 1.
+图 2.

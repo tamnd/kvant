@@ -1,0 +1,89 @@
+---
+id: 1976-7-shadrin-moskovskiy-gosudarstvennyiy-pedagogicheskiy-institut-im-v-i-lenina-1adda521
+issue: kvant_1976_7
+year: 1976
+number: "7"
+title: 莫斯科国立师范学院以此命名。 V·I·列宁娜
+authors:
+  - Шадрин Г. А.
+  - Мур Д. М.
+rubric: ekzamenatsionnye-materialy
+page_first: 46
+page_last: 46
+page_labels: "44"
+tag: 3LI0
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: eb3342b00e11eb2bb02ef03b43c06a291524a8c5869da8f32d76e5c04ed34434
+prompt_sha256: draft-1
+translated_from: content/ru/1976/07/articles/18_shadrin-moskovskiy-gosudarstvennyiy-pedagogicheskiy-institut-im-v-i-lenina-1adda521.md
+source_content_sha256: 708da312bbf4b0ff5f1ab19927ba77909680478f422ec5a5ddb50e85917c0113
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 44⟧
+
+数学
+
+选项1
+1. 圆柱内接正四棱柱。棱镜的对角线与侧面形成$\alpha$角，棱镜的高度为$h$。求圆柱体的侧面。
+2. 解方程
+$$|1 + \log \frac{1}{3}x| = 3 + |2 - \log \frac{1}{3}x|.$$
+3. 求函数的定义域
+$$y = \sqrt[4]{\left(\frac{2}{5}\right)^{x^2 - 3x} - 2,5} + \frac{1}{\sqrt{\log_3 x - \log_2 x}}.$$
+4. 解方程
+$$\sin^2 2x - 4 \cos^4 x = \sin 4x.$$
+选项2
+1. 直棱柱的底面是直角三角形，其外接圆半径等于$R$。求最大和最小侧面的对角线与底边所成截面的面积，如果对角线与底面倾斜角度为$\alpha$和$3\alpha$。
+2. 求解方程组
+$$\begin{cases} \sqrt{\frac{x}{y}} + \sqrt{\frac{y}{x}} = \frac{7}{\sqrt{xy}} + 1, \\ x \sqrt{xy} + y \sqrt{xy} = 78. \end{cases}$$
+3. 解决不平等问题
+$$\log_4 (2x^2 + x + 1) - \log_2 (2x - 1) \leq -tg \frac{7}{4}\pi.$$
+4. 解方程
+$$\sqrt{1 + \sin 2x} = \sqrt{2} \cos 3x,$$
+如果$\pi < x < \frac{3}{2}\pi$。
+
+物理
+1. 在一座长山的表面与地平线成$\alpha = 30^\circ$角的情况下，以$v_0 = 20$米/秒的速度向水平方向投掷一块石头。确定石块飞行的时间$t$。忽略空气阻力。
+2. 垂直放置的均匀带电无限平面的表面电荷密度为$\sigma = 1,73 \cdot 10^{-4} \text{ к/м}^2$。质量为 $m = 1$ e 的球悬挂在该平面场中的一根失重线上。球的电荷为 $q = 3$ 个单位。 SGSE 收费。螺纹与平面形成什么角$\alpha$？电常数$\varepsilon_0 = 8,85 \cdot 10^{-12} \text{ф/м}$。
+
+3. 在感应强度为 $B = 0,02 \text{ mл}$ 的均匀磁场中，有一个长度为 $l = 10 \text{ cm}$ 的导体垂直于磁感应线。电流$I = 2 \text{ a}$流过导体，其值保持恒定。在场力的影响下，导体移动了$s = 5 \text{ cm}$的距离。找工作$A$现场部队。
+4. 发光点位于曲率半径$R = 72 \text{ cm}$的凸面镜的主光轴上。点到镜子的距离$d = 150 \text{ cm}$。求该点的像到镜子的距离$f$。建立一个形象。
+
+V.科尔帕科夫、N.拉赫曼诺娃
+
+莫斯科国立师范学院
+他们。 V·I·列宁娜
+
+关于以莫斯科列宁勋章和劳动红旗勋章命名的国立师范学院。六、 «Kvant»第7期对1973年和1974年的列宁有详细的描述。
+在此，我们发布了 1975 年莫斯科国立师范学院物理系数学笔试选项和物理口试问题样本。六、列宁。
+
+Matematika
+选项1
+1. 在截锥体中，轴向截面的对角线互相垂直，母线与下底面所成的角$\alpha$等于1。求截锥体的体积。
+2. 解方程
+$$\cos 2x - 3 \cos x = 4 \cos^2 \frac{x}{2}.$$
+3. 求解方程组 ($a > 0, b > 0$)
+$$\begin{cases} \log_a x + \log_a y = 2, \\ \log_b x - \log_b y = 4. \end{cases}$$
+4. 解决不平等问题
+$$0 < \frac{x}{3 - x} < 1.$$
+选项2
+1. 底部是一个直四角正棱柱。棱镜的对角线与侧面形成$\alpha$角，棱镜的高度为$h$。求圆柱体的侧面。
+2. 解方程
+$$|1 + \log \frac{1}{3}x| = 3 + |2 - \log \frac{1}{3}x|.$$
+3. 求函数的定义域
+$$y = \sqrt[4]{\left(\frac{2}{5}\right)^{x^2 - 3x} - 2,5} + \frac{1}{\sqrt{\log_3 x - \log_2 x}}.$$
+4. 解方程
+$$\sin^2 2x - 4 \cos^4 x = \sin 4x.$$
+选项2
+1. 直棱柱的底面是直角三角形，其外接圆半径等于$R$。求最大和最小侧面的对角线与底边所成截面的面积，如果对角线与底面倾斜角度为$\alpha$和$3\alpha$。
+2. 求解方程组
+$$\begin{cases} \sqrt{\frac{x}{y}} + \sqrt{\frac{y}{x}} = \frac{7}{\sqrt{xy}} + 1, \\ x \sqrt{xy} + y \sqrt{xy} = 78. \end{cases}$$
+3. 解决不平等问题
+$$\log_4 (2x^2 + x + 1) - \log_2 (2x - 1) \leq -tg \frac{7}{4}\pi.$$
+4. 解方程
+$$\sqrt{1 + \sin 2x} = \sqrt{2} \cos 3x,$$
+如果$\pi < x < \frac{3}{2}\pi$。
