@@ -1,0 +1,59 @@
+---
+id: 1983-7-v-esche-odno-opredelenie-ravnogrannogo-tetraedra-a6082a5b
+issue: kvant_1983_7
+year: 1983
+number: "7"
+title: 等面四面体的另一个定义？
+authors:
+  - Дубровский В. Н.
+rubric: smes
+page_first: 53
+page_last: 53
+page_labels: "51"
+tag: QJ78
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 076020c331b538757fa8d1a008d71845bc51306dfa57f92a64b056a4a38dff72
+prompt_sha256: draft-1
+translated_from: content/ru/1983/07/articles/10_v-esche-odno-opredelenie-ravnogrannogo-tetraedra-a6082a5b.md
+source_content_sha256: 5d403e200030ed87c948b44cbf4332c417173832ad468fdc68a6de716b31d493
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 51⟧
+
+$$k = \frac{\Delta U_1}{U} = \frac{1}{8} \frac{T^2}{LC} = 5 \cdot 10^{-4}.$$
+所以，连接电感时，纹波可以是$\frac{4 \cdot 10^{-2}}{5 \cdot 10^{-4}} = 80$倍。
+
+A·R·齐伯曼
+
+F812。最后一条线代表了成功的玻璃锥体的一半。假设该指示符是栈n；线路尺寸在 图 上标明。一束平行光线落在线上，垂直于线侧面的平坦部分。屏幕应与光束轴成什么角度放置在线条后面，以便光束在屏幕上的图像是一条直线？
+
+对于入射到直线表面上的任何光线，该直线具有双重效应。在平行于底面的平面中，端线的作用类似于普通的圆柱线。但圆柱线的焦距是由其侧面的曲率半径决定的。对于最终线，该半径随高度变化，因此最终线的光功率随高度变化。在垂直于底面的平面中，端线作为顶角$\varphi = \arctg \frac{R}{H}$的识别。很容易证明它假设光线角度为$\beta = \varphi(n-1)$。
+
+让我们引入一个坐标系，将其原点放置在直线底部的中心，并将 $X$ 轴沿着射线束，将 $Y$ 轴沿着直线的高度。位于水平面$y' = \cos t$的光线，在$O$点的集合面上预填充后，坐标为$(x, y)$，坐标$x$等于$y'$高度处直线的焦距，即等于$\frac{r(y')}{n-1}$，其中$r(y')$为该高度处圆锥体侧面的半径$y'$。从$r(y') = R \left(1 - \frac{y'}{H}\right)$开始，
+
+$$x = \frac{R}{n-1} \left(1 - \frac{y'}{H}\right).$$
+
+坐标$y$由到达点$O(x, y)$的光线与轴$X$形成角度$\beta = (n-1)\arctg \frac{R}{H}$的条件确定：
+
+$$\frac{y'-y}{x} = \mathrm{tg} \left((n-1)\arctg \frac{R}{H}\right).$$
+
+从方程（1）和（2）中消去$y'$，我们得到光线聚焦线的方程：
+
+$$y = H - x \left(A + \frac{n-1}{R} H\right)$$
+
+（为了简洁起见，这里我们引入了符号$\mathrm{tg} \left((n-1)\arctg \frac{R}{H}\right) = A$）。
+
+从表达式 (3) 可以看出，屏幕必须以与轴 $X$ 成$\alpha = \arctg \left(A + \frac{n-1}{R} H\right)$ 的角度安装 - 在这种情况下，聚焦线将清晰。
+
+A.A.兰UDEC
+
+相等四面体的另一个定义？
+
+本期V. E. Matizen的文章“等面体和框架四面体”提供了等面体四面体的21个性质，这些性质与他的定义（包括定义本身）等效。它们的平均值是面的周长、面的面积、面的外接圆半径的相等（性质（11）、（12）、（15））。奇怪的是，“面内切圆的半径相等”属性并不在此列表中。你认为具有这种性质的四面体一定是相等的吗？
+
+V.D.
