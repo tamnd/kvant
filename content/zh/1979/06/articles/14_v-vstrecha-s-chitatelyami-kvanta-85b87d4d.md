@@ -1,0 +1,38 @@
+---
+id: 1979-6-v-vstrecha-s-chitatelyami-kvanta-85b87d4d
+issue: kvant_1979_6
+year: 1979
+number: "6"
+title: 与读者见面«Kvant»
+authors:
+  - Лешковцев В. А.
+rubric: smes
+page_first: 40
+page_last: 40
+page_labels: "38"
+tag: GAYL
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 4891992cc629743129f57f62b766bf10c490bbb498f9aae9f8955e368bd40ec5
+prompt_sha256: draft-1
+translated_from: content/ru/1979/06/articles/14_v-vstrecha-s-chitatelyami-kvanta-85b87d4d.md
+source_content_sha256: a49d3269615bf5c902eb6e9aa22a8dece49359c65430d5aa85b8dec559beea00
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 38⟧
+
+按下半径为 4、4 和 5 的三个球。每个球都接触另外两个球和圆锥体的一些母线。如果已知底面与母线的夹角等于2 arc tan$\frac{1}{4}$，求圆锥底面的半径。
+
+4（BMK，1977）。在 $SABC$ 中，面 $ASC$、$BSC$ 和 $ASB$ 大小相等。从边$BC$的中间到面$ASB$和$ASC$的距离之和小于从顶点$S$降低的底面高度的一倍半。棱体内部有一个点 $M$，到顶点 $A$、$B$ 和 $C$ 的距离的一半等于到棱体所有面的距离之和。如果边的长度 $AS$ 等于 $\sqrt{\frac{31}{11}}$，则找到 prim 的平坦表面。
+
+5（BMK，1978）。凸四边形$ABCEH$的底是凸四边形$ABCE$，它被对角线$BE$分成两个大小相等的三角形。边$AB$的长度等于1，边$BC$和$CE$的长度相等。边$AH$和$EH$的长度之和为$\sqrt{2}$。饵料体积$1/6$。找出所有适合 $ABCEH$ 的球中半径最常见的球的半径。
+
+与关读者会面
+
+10. 一月寒假期间，«Kvant»与莫斯科小学生见面。会议在全联“知识”学会中央报告厅举行。大约有一千名学生参加。编委会成员谈论了宇宙中的黑洞和太空文明的深处、希尔伯特第三个问题和康威数、中小学奥林匹克和大学入学考试。教育科学院院士 V. A. Fabrikant（见图）分享了他对杰出的苏联物理学家列昂尼德·伊萨科维奇·曼德尔施塔姆的回忆，今年将庆祝他的生日。出席会议的还有教育科学研究院通讯员V. G. Boltyansky、亚教授。 A. Smorodinsky，副主编 V. A. Leshkovtsev，物理和数学科学候选人 N. B. Vasilyev，L. G. Makar-Limanov，N. Kh.罗佐夫，A.P.萨文。会议以解决问题比赛结束，获胜者获得了令人难忘的礼物。
+
+V.L.

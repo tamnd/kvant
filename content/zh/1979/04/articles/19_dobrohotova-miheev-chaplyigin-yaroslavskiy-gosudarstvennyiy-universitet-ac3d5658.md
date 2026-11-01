@@ -1,0 +1,103 @@
+---
+id: 1979-4-dobrohotova-miheev-chaplyigin-yaroslavskiy-gosudarstvennyiy-universitet-ac3d5658
+issue: kvant_1979_4
+year: 1979
+number: "4"
+title: 雅罗斯拉夫尔国立大学
+authors:
+  - Доброхотова М. А.
+  - Михеев Н. В.
+  - Чаплыгин В. Ф.
+rubric: ekzamenatsionnye-materialy
+page_first: 55
+page_last: 55
+page_labels: "53"
+tag: IMLX
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: fb79debc81a06077b377d2983779e10d158002c44ab20a2fb299eccde31274b7
+prompt_sha256: draft-1
+translated_from: content/ru/1979/04/articles/19_dobrohotova-miheev-chaplyigin-yaroslavskiy-gosudarstvennyiy-universitet-ac3d5658.md
+source_content_sha256: 77be0b9bdefdf686afcbaadb27862a0b059d187d809cb5e0e9a4c06fb98d39b4
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 53⟧
+
+5. 蒸汽机车的车轮在 $0^\circ$ C 时的半径为 $R_0 = 1$ m。确定夏季 $t_1 = 25^\circ$ C 温度下和冬季 $t_2 = -25^\circ$ C 温度下轮距路径 $l = 100$ km 下车轮转数的尺寸（线性膨胀系数 $\alpha = 1,2.10^{-5}$ K$^{-1}$）。
+
+6. 由电池供电的电动机，其电动势为$\beta = 12$V。如果当电枢完全制动时，电流$I_0 = 3$A流过电路，当电流$I = 2$A流过电动机的绕组时，电动机在$t = 1$秒的时间内完成什么机械功？
+
+7. 在电源中，电阻连接在图所示的电路中。
+
+在点 1 和点 2 处打开电源，在一段时间内可以将 $m_1 = 500$ g 的水煮沸。如果在1点和3点接通电源，同时可以煮沸多少水？两种情况下的初始水温相同。热损失索赔。
+
+8. 通过具有扁平电极的双电极灯（二极管），电流为 $I = 10$ mA。灯上的电压为 $U = 100$ V。如果电极在阴极附近的速度为零，则落在其上的电极会以多大的力 $|\vec{F}|$ 作用于异常现象？电极电荷与其质量之比为$e/m = 1,76 \times 10^{11}$KL/kg。
+
+9. 在感应强度为 $|\vec{B}| = 0,125$ T 的均匀磁场中，线圈的放置方式使其平面垂直于磁力线。线圈连接到检流计。随着线圈的一定旋转，流经检流计的总电荷为 $q = 8.10^{-2}$ CL。如果线圈面积为 $S = 5.10^3$ cm$^2$，线圈电阻为 $R = 1$ 欧姆，则线圈转动的角度是多少？
+
+10. 凹面镜产生位于光轴上距离镜子 $d = 50$ cm 的精确光源的真实图像。镜子的焦距为$F = 25$cm。镜子被切成两半，并且其两半在垂直于光轴的方向上彼此移动$a = 1$cm的距离。镜子的两半所产生的图像是如何相互定位的？
+
+V·维什涅夫斯基，
+奥·索科洛夫，
+A·卡萨诺夫
+
+雅罗斯拉夫尔国立大学
+
+关于雅罗斯拉夫尔州立大学，请参见«Kvant»，1978 年，第 6 期，第 17 页。 73.
+
+Matematika
+（笔试）
+
+数学学院
+
+选项1
+
+1. 求半径为 $R$ 的球内切体积最大的三角形直线的高度。
+
+2. 1、2、3、4、5、6、7可以组成多少个不同的六位数，使数字不重复且倍数为偶数？
+
+3. 解决不平等问题
+
+$$\log_{x^2-1}(x+1) < 1.$$
+
+4. 解方程
+
+$$\cos^2\left(\frac{\pi}{3}\cos x - \frac{8}{3}\pi\right) = 1.$$
+
+选项2
+
+1. Primogol 平行六面体内接于半径为 $R$ 的球体中。如果平行六面体的体积尽可能大，请求它的表面积。
+
+2. 1、2、3、4、5、6、7可以组成多少个不同的六位数，使得这些数字不重复，且极值之和为两位数？
+
+3. 解决不平等问题
+
+$$\log_{x^2+3x}(x+3) < 1.$$
+
+4. 解方程
+
+$$2\cos\left[\frac{\pi}{6}\left(\sin x - 13 + \frac{\sqrt{2}}{2}\right)\right] = \sqrt{3}.$$
+
+物理学院
+
+选项1
+
+1. 穿过正方形的两个相邻顶点并在其中间接触其边的抛物线截断了正方形面积的哪一部分？
+
+2. 解决不平等问题
+
+$$2C_n^5 > 11C_n^3-2,$$
+
+其中$C_n^k$是$n$元素与$k$的组合数。
+
+3. 解方程
+
+$$9^x - 2^{x+\frac{1}{2}} = 2^{x+\frac{3}{2}} - 3^{2x-1}.$$
+
+4. 解方程
+
+$$2 + \cos 4x = 5\cos 2x + 8\sin^6 x.$$

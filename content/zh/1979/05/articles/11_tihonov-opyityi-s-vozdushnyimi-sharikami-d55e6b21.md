@@ -1,0 +1,61 @@
+---
+id: 1979-5-tihonov-opyityi-s-vozdushnyimi-sharikami-d55e6b21
+issue: kvant_1979_5
+year: 1979
+number: "5"
+title: 气球实验
+authors:
+  - Тихонов В.
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 34
+page_last: 34
+page_labels: "32"
+tag: GRN1
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: c7ce1174e6766609b1154aa9566ad182b77dd2b61f1620d4921c6345adfc9e5d
+prompt_sha256: draft-1
+translated_from: content/ru/1979/05/articles/11_tihonov-opyityi-s-vozdushnyimi-sharikami-d55e6b21.md
+source_content_sha256: 1d9fd721a49d3b6f08148e949b39d8e05caa2e03eb9e7d16aa982cd8a735e14d
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 32⟧
+
+V·吉洪诺夫
+
+通常，不同的仪器用于研究不同的物理现象。然而，有一些通用仪器可以让我们理解许多物理现象。然而，这样的装置之一就是……众所周知的气球。
+
+V·吉洪诺夫
+
+用气球进行空中实验
+
+1. 将气球充好气并系好。用螺纹（图1）穿过球的直径，将其放入冰箱中3-4小时，然后将其从那里取出。
+
+球的大小改变了吗？是不是冷了一个月了？气球内空气的温度有变化吗？
+
+将气球从冰箱中取出后，您当然会注意到它已经收缩并起皱了。绑在球直径上的线会悬挂在球上，并且可以轻松地从球上取下。这意味着球的体积减小了。
+
+制成球壳的橡胶是一种良好的隔热材料，因此您不太可能感觉到球的温度变化。
+
+但球内的空气变得更加寒冷。尝试解释原因。
+
+2. 每只手各拿一个用线绑紧的干燥、充气的球。让您的产品摩擦球（图2）：一次用羊毛拖鞋摩擦两个球，另一次用羊毛拖鞋摩擦一个球，用丝绸拖鞋摩擦另一个球。柜员，双手合十。
+
+球会发生什么——它们会粘住还是弹起？
+
+如您所知，当发生摩擦时，身体就会带电。如果您用羊毛（或丝绸）拖鞋摩擦两个球，它们将获得相同的电荷并相互排斥。如果用羊毛拖鞋摩擦一个球，用丝质拖鞋摩擦另一个球，球上的电荷会不同，球会相互粘在一起。
+
+3. 给气球充气。然后，不打结，将其以糖状（图3）的形式拉出并释放。
+
+球会发生什么？
+
+这个问题的答案非常简单——通过收缩，拉伸的橡胶壳可以将空气从球中排出，结果球开始像火箭一样移动。
+
+4. 拿一个打开的锡罐，在底部压出一个小凹痕。将一个充气的气球靠在罐子上，通过排斥将空气吸入体内 (图 4)。
+
+球将如何表现？

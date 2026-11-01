@@ -1,0 +1,41 @@
+---
+id: 1979-4-zadachi-f0e8cba4
+issue: kvant_1979_4
+year: 1979
+number: "4"
+title: 任务
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 39
+page_last: 39
+page_labels: "37"
+tag: STWW
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 45080180ebbdc4522db15f6c153b890d01534372d02fb137781e61c5e9e72fa1
+prompt_sha256: draft-1
+translated_from: content/ru/1979/04/articles/14_zadachi-f0e8cba4.md
+source_content_sha256: a9be19f6717be71e457ecc71a808bb71f2afcc6f7f17615519784c198a3fbbf5
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 37⟧
+
+任务
+
+1. 数字拉比。在第一个画图中，数字由数字保护，其余的由字母和星号保护（参见图）。相同的数字和字母对应相同的数字，不同的数字对应不同的数字；星号可以是任何数字。没有数字以零开头。解开谜题。
+
+2. 解方程组：
+a) $\overline{xyz} = (\overline{xy})^2 + (\overline{zz})^2$,
+b) $\overline{xxyy} = (\overline{xx})^2 + (\overline{yy})^2$
+
+（$ab$表示两位数，有$b$个位和$a$十位；$cdab$表示四位数字，有$b$个位，$a$十位，$d$百位和$c$千位）。
+
+3. 数轮。将前两个奇数素数放入图所示的数轮的圆圈中，使得沿直径的任意三个数之和都是素数。证明中心可以是这些素数中的任何一个，除了数字 3。
+
+4. 平行四边形由三个等边三角形组成，其中不存在拥挤的三角形。求出它的角度值。
+
+5. 两个男孩玩这个游戏：他们轮流将车放在棋盘上。棋盘上的所有方格都被放置的棋子占据的一方获胜。如果她尽力发挥最佳水平，谁会在这场比赛中获胜？

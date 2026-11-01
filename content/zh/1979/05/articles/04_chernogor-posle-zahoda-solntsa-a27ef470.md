@@ -1,0 +1,54 @@
+---
+id: 1979-5-chernogor-posle-zahoda-solntsa-a27ef470
+issue: kvant_1979_5
+year: 1979
+number: "5"
+title: 日落之后
+authors:
+  - Чёрногор Т.
+rubric: osnovnye-stati
+page_first: 17
+page_last: 18
+page_labels: 15-16
+tag: FFSM
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: d188dbed61b1898b4d92e42f2be6844492aa2d0cd369390f82b791142abab5b2
+prompt_sha256: draft-1
+translated_from: content/ru/1979/05/articles/04_chernogor-posle-zahoda-solntsa-a27ef470.md
+source_content_sha256: 9c4df3443df27757bbd1aa98f3ed3af5aff84c3d938e088e72eef942f9b8df7f
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 15⟧
+
+T·切尔诺沃尔
+
+日落之后
+
+肉眼可以看到人造地球卫星吗？这个问题的答案似乎很方便：当然不是。毕竟，为了让眼睛看到远处的物体，该物体的角度大小 f (图 1) 必须不小于 $\varphi_{\min} \approx 1' \approx 10^{-4}$ rad。这意味着距离地球表面$R \approx 500$公里的卫星，只要其线性尺寸$d$不小于$R \varphi_{\min} \approx 50$米，肉眼就可以看到！所以不可能通过人造卫星用肉眼观察地球。然而...
+
+让我们尝试估计恒星的角大小。我们假设到恒星的距离是$R \approx 10^{16}$米（在
+
+⟦folio 16⟧
+
+日落（或日出前）。事实上，日落在地平线水平的时刻和在地平线以上某个高度的日落时刻之间存在一个时间间隔。如果在卫星所在的高度，太阳尚未落下，但对于观察到的$H$来说，它已经落下（图2），那么在轨道的$CC'$部分，卫星会为这样的观察者发光。很明显，自地平线日落以来经过的时间越短，可以观测到发光卫星的轨道部分就越大。
+
+我们说“观察”。但如何呢？肉眼能看到发光的卫星吗？让我们来看看。
+
+眼睛有一个能量可见度阈值：如果进入眼睛的辐射功率至少为 $P_{\min} \approx 3 \cdot 10^{-17}$ W，则眼睛会对光辐射做出反应。让我们估计进入眼睛的卫星的辐射功率。更准确地说，是从卫星反射的太阳辐射的能量进入观察者的眼睛。
+
+我们将单位时间内穿过单位面积的辐射能量的积分度称为积分度。
+
+在近地空间，太阳辐射的积分度等于$I_0 \approx 1,4 \cdot 10^3$W/m²。如果卫星的表面积为$s \approx 10$m²，则入射到卫星上的太阳辐射的功率为
+
+$$P_c = I_0 s \approx 1,4 \cdot 10^4$$ 周二。该能量的一部分（大约 0.1）从卫星表面反射*)。因此我们可以将卫星视为功率为 $P_\pi = kP_c \approx 1,4 \cdot 10^3$ W 的辐射源（$k=0,1$ 是反射率）。
+
+距离卫星$R$处的辐射强度等于$I_R = P_\pi/4\pi R^2$（$4\pi R^2$是卫星“包围”卫星的球体面积；卫星发出的$P_\pi$辐射的功率经过这个区域；所以$P_\pi/4\pi R^2$恰恰是单位面积下降的辐射功率，即积分度）。如果卫星距离地球表面$R \approx 500$公里，则进入观测眼的辐射强度为$I_R \approx 0,4 \cdot 10^{-9}$W/m²。假设观看屏幕面积约为 0.3 cm²，则进入观看眼睛的辐射为 $P \approx 10^{-14}$ W。
+
+因此，$P \gg P_{\min}$。这意味着从地球上观察可以看到
+
+*) 太阳能的哪一部分从卫星表面反射（换句话说，反射系数）取决于该表面的状态及其处理。这是由卫星的预期用途决定的。因此反射系数的值在很大范围内波动。对于我们的估计，我们将取值 0.1。
