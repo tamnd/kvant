@@ -1,0 +1,107 @@
+---
+id: 1985-3-pobediteli-konkursa-zadachnik-kvanta-c3154914
+issue: kvant_1985_3
+year: 1985
+number: "3"
+title: Winners of the “Problem Book «Kvant»” competition
+rubric: zadachnik-kvanta
+page_first: 26
+page_last: 26
+page_labels: "24"
+tag: 9NIA
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 5e962fd047f82e356d26c37cb07bd77669465297ead85e475bf80343a986d9af
+prompt_sha256: draft-1
+translated_from: content/ru/1985/03/articles/12_pobediteli-konkursa-zadachnik-kvanta-c3154914.md
+source_content_sha256: d647e793974ddba7e75bbda1330416ae6348d9d66f30ccad48df6157701b02b4
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 24⟧
+
+Competition winners
+"Problem "Quenta"
+
+Every year our magazine holds a competition among schoolchildren to solve a problem from the Quaenta Problem Book.
+Lists of winners of the “Quaenta Problem” competition are published below
+1984.
+Awarded with a Diploma and a badge from the magazine “Quant”
+and receive the right to participate immediately in the fourth (republican) round of the 1985 All-Olympiad:
+
+In mathematics
+M. ALEXANDROV - Moscow, s.sh. No. 542, 9 cells.
+A. ASRYAN - Yerevan, Physics School No. 1 at Yerevan State University, 10th grade.
+R. VABAEV - Baku, s.sh. No. 145, 10 cells.
+S. VELESKO - Minsk, s.sh. No. 103, 9 cells.
+E. VELIMETOV - Baku, Physics School No. 1, 10th grade.
+L. VERTGEIM - Novosibirsk, s.sh. No. 25, 10 cells.
+D. GAMARNIK - Tbilisi, Physics School named after. V. M. Komarova, 9th grade.
+R. GENDLER - Tashkent, s.sh. No. 110, 8 cells.
+A. GRIGORYAN - Yerevan, Physics School No. 1 at Yerevan State University, 9th grade.
+A. DAVTYAN - Yerevan, Physics School No. 1 at Yerevan State University, 9th grade.
+S. DEMYANCHENKO - Moscow, s.sh. No. 315, 10 cells.
+V. DZYUVA - Odessa, s.sh. No. 100, 10 cells.
+A. DYNNIKOV - Zhukovsky, s.sh. No. 1, 9 cells.
+I. DYNNIKOV - Zhukovsky, s.sh. No. 10, 8 cells.
+V. ELISTRATOV - Donetsk, s.sh. No. 17, 10 cells.
+V. ZHURAVLEV - Gayvoron, s.sh. No. 2, 8 cells.
+S. ZEINALOV - Baku, Physics School No. 1, 10th grade.
+L. ZOSIN - Kyiv, s.sh. No. 145, 10 cells.
+V. KAPOVICH - Khabarovsk, s.sh. No. 2, 9 cells.
+I. KAPOVICH - Khabarovsk, s.sh. No. 2, 9 cells.
+T. KOVDIKOV - Pavlodar, s.sh. No. 3, 10 cells.
+M. KURINNOY - Kharkov, s.sh. No. 27, 9 cells.
+S. LAUSMAA - Koktla-Jarve, northern latitude No. 15, 6 cells.
+M. MAKAROV - Sevastopol, northern sh. No. 3, 9 cells.
+T. MISIRPASHAYEV - Moscow, s.sh. No. 57, 9 cells.
+A. MOLOTKOV - Leningrad, s.sh. No. 366, 10 cells.
+V. POGREBNYAK - Vinnitsa, s.sh. No. 6, 10 cells.
+I. SAMOVOL - Gayvoron, s.sh. No. 5, 8 cells.
+R. SIBILEV - Leningrad, s.sh. No. 30, 9 cells.
+A. TRUCHAN - Minsk, s.sh. No. 116, 10 cells.
+E. FINK - Leningrad, s.sh. No. 239, 9 cells.
+Y. SHAMRUK - village of Novy Dvor, Grodno region, 7th class.
+
+In physics
+O. AVRAMENKO - Kherson, s.sh. No. 30, 10 cells.
+V. APALKOV - Kharkov, s.sh. No. 16, 10 cells.
+G. ARVELADZE - Tbilisi, s.sh. No. 37, 9 cells.
+A. BAIRAMOV - Baku, Physics School No. 1, 10th grade.
+A. BEGLAROV - Tbilisi, s.sh. No. 42, 9 cells.
+E. BONDARENKO - Poltava, s.sh. No. 6, 10 cells.
+R. BOTASHEV - Frunze, s.sh. No. 61, 10 cells.
+E. WEINSTEIN - Tashkent, s.sh. No. 71, 10 cells.
+M. GOTMAN - Kyiv, s.sh. No. 145, 10 cells.
+A. DODA - Korsun-Shevchenkovsky, s.sh. No. 4, 9 cells.
+S. DUBOVIK - Brest, s.sh. No. 1, 10 grades.
+S. ZHILINSKAS - Vilnius, s.sh. No. 9, 11 cells.
+G. KLIMOVICH - Bolshevo, s.sh. No. 3, 10 cells.
+D. KUCHULORYAYA - Tbilisi, Physics and Music School named after.
+V. M. Komarova, 9th grade.
+A. LICHTSINDER - Tashkent, v.sh. No. 49, 10 cells.
+K. LOPIN - Frunze, s.sh. No. 61, 9 cells.
+D. LUNTZ - Saratov, s.sh. No. 13, 10 cells.
+Y. MAKHLIN - Moscow, s.sh. No. 57, 9 cells.
+V. MENKOV - Moncherorsk, s.sh. No. 3, 10 cells.
+A. MIKALYKEVICHS - Panavezys, s.sh. them. Y. Balchikonis, 11th class.
+O. MOROZ - Alma-Ata, ROFMSH, 10th grade.
+A. ONUFRIEV - Moscow, s.sh. No. 91, 10 cells.
+Y. PUGAI - Alma-Ata, ROFMSH, 10th grade.
+S. RAKHAMOV - Kazan, s.sh. No. 131, 9 cells.
+A. RZHEVSKY - Novosibirsk, s.sh. No. 149, 10 cells.
+R. RIVKIN - Minsk, s.sh. No. 16, 10 cells.
+M. RUDIK - Vinnitsa, s.sh. No. 33, 10 cells.
+M. SAVCHENKO - Belgorod, s.sh. No. 3, 10 cells.
+V. SAKBAEV - Alma-Ata, ROFMSH, 9th grade.
+M. SKOROVOGATOV - Kyiv, s.sh. No. 208, 10 cells.
+S. STEPANYANTS - Yerevan, Physics School No. 1 at Yerevan State University, 10th grade.
+V. SULEIMANOV - Baku, Physics School No. 1, 10th grade.
+S. TUZHANSKY - Vinnitsa, s.sh. No. 33, 9 cells.
+L. FEDICHKIN - Moscow, s.sh. No. 91, 10 cells.
+S. FERANCHUK - Minsk, s.sh. No. 1, 10 grades.
+S. CHERNYSHEV - Tashkent, s.sh. No. 50, 10 cells.
+A. SHEGOLEV - Chernogolovka village, Moscow region, northern sh. No. 82, 10 cells.

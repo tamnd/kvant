@@ -1,0 +1,48 @@
+---
+id: 1985-4-sviridov-ryibnaya-lovlya-glazami-uchenogo-4ebe78aa
+issue: kvant_1985_4
+year: 1985
+number: "4"
+title: Fishing through the eyes of a scientist
+authors:
+  - Свиридов В. А.
+rubric: kvant-ulybaetsya
+rubric_sub: «Квант» улыбается
+page_first: 49
+page_last: 49
+tag: PLAO
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 6985b74ee2f5f8141c3c7d101a6eb28bd9ffaf8d96d485c9405596d456f08bdc
+prompt_sha256: draft-1
+translated_from: content/ru/1985/04/articles/18_sviridov-ryibnaya-lovlya-glazami-uchenogo-4ebe78aa.md
+source_content_sha256: a570f5b99d4f94169a29f75f3c07c91b87c46fcc948a8cffc48ca4ac64cada16
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+QUANTUM SMILES
+
+Fishing through the eyes of a scientist
+
+It was a long time ago, when I had just graduated from college and came to work in the future Dubna - the small village of Ivankovo, surrounded on all sides by water. Naturally, the abundance of water around has led to a general passion for water tourism and fishing.
+
+I preferred a kayak, but there were so many fish around that my friends persuaded me to devote my entire vacation to fishing, which was largely due to the decision of our administrative director to purchase an old decommissioned steamer for the rest of the institute’s employees. I bought the most expensive spinning rod in Moscow, had difficulty finding a spinning reel that was rare at that time in one of the stores, and stocked up on all sorts of shines, from a set for a beginner fisherman to shines for catching time.
+
+Finally, the keys to the cabin on the Santa Maria (that’s the name of our Dubna ship) were in my pocket. I needed to throw glitter every day from sunrise until evening. I already knew all the corgis at the bottom of the Moscow Sea, on which my glitter remained forever. But the catch was not encouraging. In three weeks I looked for 3 fish: one fish and two perches, and the perches were caught on the hook with their fins. It turned out that the fish were not interested in either the flashes of the timing or the flashes of the beginning spinning. It got caught on my hook by accident.
+
+At this point I finished fishing and started doing calculations. If the interaction of the hook with the fish occurred by chance, then the probability of such a collision, as in nuclear physics, could be characterized by a value called the cross section of the process. Naturally, there was an advance payment that the cross-section of the interaction of the hook with the fish σ is equal to the average area of ​​​​the projection of one fish onto a plane perpendicular to the direction of movement of the shine. Knowing the average size of the fish I found and having added the length of the free passage of the shine λ (the average path covered by the shine in the water before colliding with the next window), λ≈5·10⁶ cm, I calculated from the results of three-week experiments the average density of fish in the Moscow Sea:
+
+$$n = \frac{1}{\lambda \sigma} = \frac{1}{S \cdot 10^6 \text{ cm} \cdot 30 \text{ cm}^2} = \frac{1}{10^{-8} \text{ cm}^{-3}}.$$
+
+There were several ways to verify this figure. Next to the “Santa Maria” there was the Konakovo fishing artel. The next morning, from the artel foreman’s longboat, I estimated the volume of water being combed by the net ($V \approx 10^{11} \text{ cm}^3$) and counted the number of fish caught in the net ($N \approx 10^3$). Fish density
+
+$$n = \frac{N}{V} = 10^{-8} \text{ cm}^{-3}$$
+
+coincided with the estimate from the gloss data. The experiment was completed. It was proven that my new spinning rod with a spinning reel did not attract fish.
+
+V. A. Segiridov

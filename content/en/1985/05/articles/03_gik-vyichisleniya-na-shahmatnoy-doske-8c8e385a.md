@@ -1,0 +1,68 @@
+---
+id: 1985-5-gik-vyichisleniya-na-shahmatnoy-doske-8c8e385a
+issue: kvant_1985_5
+year: 1985
+number: "5"
+title: Calculations on a chessboard
+authors:
+  - Гик Е. Я.
+rubric: shahmatnaya-stranichka
+rubric_sub: Шахматы
+page_first: 67
+page_last: 67
+tag: 3ZHO
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 742af4b9f1180500d381cf9bf6b89814fc8422df12203e951bafd4771a593b65
+prompt_sha256: draft-1
+translated_from: content/ru/1985/05/articles/03_gik-vyichisleniya-na-shahmatnoy-doske-8c8e385a.md
+source_content_sha256: 05e8b1b25e488d12f709e448fbce520d591785f902d4c1debe14a40421aa89e3
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 10⟧
+
+CALCULATIONS ON THE CHESS BOARD
+
+Among the unusual chess problems and puzzles, a significant place is occupied by problems that require certain calculations. Having become acquainted with this topic, today’s “page” is sent today.
+
+The fastest checkmate in a chess game is possible already on the second move, and it is announced by the black queen: 1. f3 e5 2. g4 Qh4×.
+
+Here, please, it is worth citing one funny incident that happened to M. Taimanov in a game with a microcomputer. The grandmaster played 1. f3, and in response to 1...e5 went 2. g4. The little robot made a good developing move - 2...d5. The move was really not bad, but checkmate with the queen on h4 seemed to be a little stronger. Taimanov continued the experiment: 3. Nc3, and the machine kept centralizing the pieces - 3...Kc6, then 4...Cd6, 5...Ce6. And only after Black had completely finished mobilizing his pieces did he decide to declare mate - Qd8 - h4×. Yes, the computer plays well, but sometimes it’s too correct. An indicative game that shows the difference between the game of people and computers!
+
+So, the fastest mating game lasts two moves, but the shortest? The increase may cause confusion; there will be no difference between “fast” and “short”. Let's clarify the task.
+
+Come up with a game that ends in checkmate, in which the length of all moves made is minimal.
+
+Obviously, the unit of length should be taken to move the figure one field along the vertical or horizontal, and the diagonal shift is √2.
+
+The first impression is that the fastest game should also be the geometrically shortest, but this is not so. Game 1. f3 e6 2. g4 Qh4× consists of four pawn moves vertically and four queen moves - in one move - diagonally, totaling 4+4√2≈9.66. The record belongs, oddly enough, to a four-move game: 1. d3 e6 2. Qd2 Ke7 3. Qe3 e5 4. Q:e5×, its length is 7+√2≈8.41.
+
+Here are two more similar chess construction problems. Come up with the geometric shortest sequence of moves leading to check. Same question for double check.
+
+Solutions: 1. e3 b6 2. Ke2 Ca6+ or 1. b3 e6 2. Cb2! Kre7 3. Ca3+, both of length 3+2√2. And the record double check is placed on the third move: 1. e4 d6! 2. Kre2 d5 3. Kd3 de++, its length is 5+2√2.
+
+Geometric calculation is often found in composition. In the genre of fairy double chess, maximization problems are popular, in which Black is required to make the geometric longest moves. General maximers are used in “processing mats”. In processing checkmate problems, the opponent is more forced to checkmate their king. Here is a small task on this topic.
+
+P. Moutesidis, 1965. Reverse mate in 5 moves when black moves and 6 moves when white moves (maximumer).
+
+When Black moves: 1...Qf8 (the longest is 5√2) 2. e7 Qf1 (no way back) 3. e8J! Qa6 4. Re2! (preventing the return of the queen to f1 and preparing to block my king) 4... Qh6+ 5. Ke1 Qc1×.
+
+When White moves: 1. e7 Qh3 (now this is the longest move) 2. e8Q Qc8 (longer than Qa3, 5√2>7) 3. Qd7
+
+Qc1+ (the diagonal is blocked and comes to move vertically) 4. Ke2 Qh6 5. Qd2 Qa6+ 6. Ke1, and, no matter how Black resists, he is forced to declare mate 6... Qf1×.
+
+And finally, a task in which only one queen is involved. What is the geometric longest path that does not intersect itself that the queen can take in five moves, starting from square d1?
+
+The path you are looking for is shown at figure. More often they offer another solution: Qd1—h1—h8—a1—a8—g8. The field number in this case is real (32>30), and this path is shorter than the geometric one, although the difference is only hundredths.
+
+Competition problems
+
+9. White's move. Evaluate the position.
+
+10. In this position, White made a “window”, fearing for his first rank - 22. a3. Meanwhile, they had at their disposal the move 22. Nb6 with a fork. Determine whether this maneuver is successful.
+
+The deadline for sending the decision is July 25, 1985 (marked on the envelope: “Chess competition «Kvant», given 9, 10”).

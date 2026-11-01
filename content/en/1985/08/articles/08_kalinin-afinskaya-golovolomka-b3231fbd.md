@@ -1,0 +1,42 @@
+---
+id: 1985-8-kalinin-afinskaya-golovolomka-b3231fbd
+issue: kvant_1985_8
+year: 1985
+number: "8"
+title: Athens puzzle
+authors:
+  - Калинин А. Т.
+rubric: smes
+page_first: 23
+page_last: 23
+page_labels: "21"
+tag: TKD8
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: f6111c21a89e161d98922acc131895c0b9c41fc0a137229940bf5826004f29f4
+prompt_sha256: draft-1
+translated_from: content/ru/1985/08/articles/08_kalinin-afinskaya-golovolomka-b3231fbd.md
+source_content_sha256: 281ab5c9eabda61d4af77dc714c679341fee8e850f7859bdb81a07b3780974ca
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 21⟧
+
+when you add boiling water to the heater, the steam room becomes drier, which means the relative humidity decreases (and the absolute humidity, of course, increases). Why is this happening? When small amounts of water are thrown into the stove with force, it splashes into small droplets. When they fall on stones heated to temperatures of hundreds of degrees, the droplets instantly evaporate and turn into steam, the temperature of which is comparable to the temperature of the stones themselves. Hot steam escapes from the stove, the overall temperature of the air in the steamy surface. A higher temperature corresponds to a higher saturated vapor density, and, therefore, even taking into account an increase in absolute humidity, the relative humidity may decrease. This is actually happening.
+
+It is clear why you need to throw water in small portions. A large portion will fall onto the stones in a relatively large “drop”. Such a “drop” will not be able to evaporate as quickly as a small one, but will simply begin to boil, forming steam with a temperature of 100 °C or maybe a little higher. But this will not suit us. The secret is in the speed of the process! For the same reason, you should not throw cold water. After all, the stone has a rather low thermal conductivity, so even a small drop, while heating up to 100 °C, will have time to somewhat cool the part of the stone with which it comes into contact, which means the temperature of the resulting steam will drop.
+
+So, we answered questions 3, 4 and 5. Question 6 is now easy for us. Near the beams the temperature is below the dew point. Therefore, the “waste” steam coming out of the steam room begins to quickly condense, as they say, “sit” in a puddle. In a good steam room, the door and the pestle are located at different ends: the hot steam generated at the heater, flowing through the entire steam room, cools and condenses at the outlet.
+
+And finally, the last question: why does fresh steam displace old air in the steam room?
+
+Let us remember that when “cleaning” the steam room, several cabinets were thrown into the oven, so even a small drop, while heating up to 100 °C, will have time to somewhat cool the part of the stone with which it comes into contact, which means the temperature of the resulting steam will drop.
+
+Well, now that everything has become clear with physics, you can start practical exercises. It's easy time, dear reader!
+
+African headwash
+
+Games and puzzles with strings have been very popular in Africa since ancient times. We would like to offer you one of these heads - they love it in Gambia. This headband consists of straps with three holes, a lace threaded through the central hole as shown in figure, and closed at the edges, and a peg, the highest, say, on the left loop. You need to move the stake along the entire lace to the right, without tearing the lace off the planks. (The lace is about four times as long as the plank, and the stake is larger than the central hole in the plank.)

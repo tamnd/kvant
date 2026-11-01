@@ -1,0 +1,43 @@
+---
+id: 1985-5-zadachi-b29a7c85
+issue: kvant_1985_5
+year: 1985
+number: "5"
+title: Tasks
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 39
+page_last: 39
+page_labels: "37"
+tag: IC5M
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: fd8ed6cafb544c6a3e91d3aa20ef6febec9d361a0b0a703385d2c92644e02586
+prompt_sha256: draft-1
+translated_from: content/ru/1985/05/articles/19_zadachi-b29a7c85.md
+source_content_sha256: 10398b03800b523fd69e907c2c2732e979c613549ff953d8aeed876cdb336580
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 37⟧
+
+Tasks
+
+1. Find all two-digit numbers that are divisible by each of the digits in their notation.
+
+2. Once in Artek, five guys from Moscow, Leningrad, Gorky, Perm and Sverdlovsk found themselves at a round table - Yura, Tolya, Lesha, Kolya and Vitya.
+
+Moskovich sits between Sverdlovsk and Vitya, Leningrader sits between Yura and Tolya, and opposite him sits Perm and Lesha. Kolya had never been to Leningrad, Yura had been to Gorky, but not to Sverdlovsk, and the Sverdlovsk resident and Tolya regularly corresponded. Determine which of the guys lives where.
+
+3. Find the smallest four-digit number whose square root is equal to the number formed by the first two digits plus the square root of the number formed by its last two digits.
+
+4. To open a bottle with a printer stopper sitting in it, it is recommended to heat the neck of the bottle. What is this recipe based on?
+
+5. Replace the missing digits in the equations on figure.
+
+These tasks were suggested to us by: V. F. Lev, M. A. Rollova, N. K. Antonovich, A. P. Savin, S. N. Oleksnik.
+
+37
