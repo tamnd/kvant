@@ -1,0 +1,39 @@
+---
+id: 1985-8-yavelov-otkryitie-rentgenovskih-luchey-8a2444c8
+issue: kvant_1985_8
+year: 1985
+number: "8"
+title: Discovery of X-rays
+authors:
+  - Явелов Б. Е.
+rubric: raznoe
+rubric_sub: Разное
+page_first: 27
+page_last: 27
+page_labels: "25"
+tag: LV60
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: b4995f53af41de2d5389dd09d18ce45aea24371fba16f53d1597115df215c8a2
+prompt_sha256: draft-1
+translated_from: content/ru/1985/08/articles/10_yavelov-otkryitie-rentgenovskih-luchey-8a2444c8.md
+source_content_sha256: e9a725fa668193b75697d40e7df5c39f703e53b801613c0b17f93db3cd01ed7a
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 25⟧
+
+Discovery of RENT gene rays
+
+By the 90s, the centenary professor at the University of Worzburg (Germany), Wilhelm Conrad Roentgen, was already well known in scientific circles.
+
+On the evening of Friday November 8, 1895, while teaching, Roentgen was experimenting in the laboratory - alone, as always. For several weeks now, the object of his research has been the then hot varieties of long rays. Now we know that this is a stream of rapidly rushing electrons. But in those days, this was the name for radiation of an unknown nature emitted by the cathode of a discharge tube (a glass container evacuated to a high vacuum, usually of an elongated shape, in which metal electrodes were plugged in at the ends) when high voltage was applied to its electrodes. Where the cathode rays hit the walls of the tube, the glass glows with green light.
+
+The X-ray worked in a darkened room, and the discharge tube was placed in a black, light-transmitting case. Near her on the laboratory table lay a lominescent screen - a piece of paper covered with platinum synerdite barrem (such screens, emitting visible light when invisible radiation - ultrafuret or cathode rays - were applied to them, were then widely used in laboratory practice). Unexpectedly, the scientist noticed that with each discharge through the tube onto the screen... there was a bright flash.” X-ray immediately made sure that it was the discharge tube, the source of invisible radiation, that could not be either ultrafureth or cathode rays. In fact, flashes on the screen are observed and require discharge and cathode rays - an aluminum plate 15 mm thick, a thick book of 1000 pages, and finally, your own hand. And it became clear to Roentgen that he was lucky enough to make an interesting discovery - to discover a new type of rays, which, moreover, had an inexplicable propicatory ability.
+
+Whether Roentgen's discovery was completely coincidental or whether some intuitive messages led him to the source of the film adaptation in a dark room is unknown. There are many versions on this matter - from dubious to convincing. But they were all unfinished: the taciturn scientist did not tell anything, and there were very few people. But what is well known is that Roentgen spent the next seven weeks after November 8 in complete seclusion in the laboratory (he even ordered a folding bed to be placed there), day and night, almost without rest, conducting more and more new screens, rechecking and varying previous experiments. The period of intense work turned out to be extremely productive - Roentgen found out how the absorption of new rays depends on the thickness and density of various materials; established that the beam can be “soft” (strongly absorbed) and “hard” (weakly absorbed); studied their photographic action; showed that they are not deflected by screen and magnetic fields and ionize the impact; designed a discharge tube,
+
+(For the end see page 27)

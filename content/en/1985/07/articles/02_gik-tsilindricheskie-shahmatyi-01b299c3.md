@@ -1,0 +1,71 @@
+---
+id: 1985-7-gik-tsilindricheskie-shahmatyi-01b299c3
+issue: kvant_1985_7
+year: 1985
+number: "7"
+title: Cylindrical chess
+authors:
+  - Гик Е. Я.
+rubric: shahmatnaya-stranichka
+rubric_sub: Шахматы
+page_first: 67
+page_last: 67
+tag: B1OO
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 702db82f2d2804ccb37887528654dcf136666b4dd62651149fa6a062761e0fa7
+prompt_sha256: draft-1
+translated_from: content/ru/1985/07/articles/02_gik-tsilindricheskie-shahmatyi-01b299c3.md
+source_content_sha256: 3058957fb356da725184d6303f467fbd1c4385bbf8a4f3716ed555f5c0c15f86
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+CYLINDRICAL CHESS
+
+The task listed below the first diagram will certainly surprise readers.
+
+V. Khutornoy, 1985
+Checkmate in 0 moves.
+
+Meanwhile, real checkmate is given in 0 moves, and in two ways at once! White doesn't move any of his pieces, but... he rolls the board into a cylinder! From one board you can build two cylindrical ones - horizontal and vertical. In each of them, the black king is immediately checkmated.
+
+On a horizontal cylinder this is clearly visible to the naked eye, on a vertical cylinder the distance itself.
+
+In cylindrical chess, on the one hand, new possibilities open up, but on the other hand, things that are easily achieved on a common board become impossible. So, on a cylindrical board the king with rooks is not able to checkmate the head of the king; there are not a single distance of 8 queens that do not threaten each other (on a common board, as is known, there are 92 such distances).
+
+Checkmate in 2 moves on a vertical cylindrical board.
+
+In cylindrical chess, the corresponding boundaries are usually cut off from the board, which is what we see on this figure. On a standard board, the task is unfulfilled - the king is free to move, and if the rook moves, then the move with the pawn a6-a5 is taken out. An amazing maneuver solves the cylinder: 1. La5—a5! The rook ran around the horizontal circle and returned to its place. Now everything is clear - 1...Kpc1 2.La1×.
+
+Let's look at more complex problems.
+
+A. Mandler, 1962. Checkmate in 3 moves on a vertical cylindrical board.
+
+1. Bb7. Occupying the c8-a6-a5-d1 diagonal with the bishop and threatening 2. Qf4+ Ke(g)1 3. Qf8× (from the f8 square the queens hold the d2, e1 squares along the f8-a6-a5-e1 diagonal, and the g1, h2 squares along the f8-a3-a2-g1 diagonal). 1...d3. Now after 2. Qf4+Ke1 3.Qf8+ there is a defense 3...d2. But the a7-g1 diagonal is dangerously overextended, which decides the matter. 2.Qa5+ (diagonal check d8—a5—a4—e1) 2...Ke3 3.Qa7×! As you can easily see, all the white squares near the black king are held by the bishop, and all the black squares are held by the queens (including e3 - along the diagonal b8-a7-a6-a1).
+
+D. Nixon, 1936. Checkmate in 5 moves on a vertical cylindrical board.
+
+On a common board, in order to mate the enemy king with two bishops, he is first driven into a corner. There are no corners on a cylinder at all! But this does not matter - the strength of the complexes here has a significant impact, and you can checkmate on the edge of the board.
+
+1.Ch4 Kpf8 2.Kph7 Ke8 3.Kpg6 Kpf8 4.Ca3+ Ke8 5.Ch3×.
+
+By playing this position “free-for-all” (without a board), you will give your geometric imagination a good workout!
+
+In the next problem, as in the very first one, it turns out to be more complicated, better.
+
+B. Ryabkin, 1983 White: Krs2; Black: Ke2, p. g7. Nice.
+
+White's chances of a draw, frankly speaking, are not very high. The black pawn seems to be constantly moving forward until it becomes a queen. In the absence of white glue the first and last horizontal lines of the board to each other, turning it into a horizontal cylinder! As a result, the pawn is completely and unexpectedly deprived of all prospects—the promotion to a queen is cancelled. Perpetuum—mobile...
+
+Competition problems
+
+13. White: Kh5, Qh6, Bc6; black: Cre7. Checkmate in 3 moves.
+
+14. White: Npf3 Qf7, Bb4; black: Kpb8. Checkmate in 3 moves on a vertical cylindrical board.
+
+The deadline for sending the decision is September 25, 1985 (with a note on the envelope “Kvata Chess Competition, tasks 13, 14”).

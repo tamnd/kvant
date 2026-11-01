@@ -1,0 +1,26 @@
+---
+id: 1985-6-stereometricheskaya-zadacha-81bd24b7
+issue: kvant_1985_6
+year: 1985
+number: "6"
+title: '[Stereometric task]'
+rubric: smes
+page_first: 68
+page_last: 68
+tag: DMTV
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 41461a73e24204fa8ffaad737755f0cac52b378e77ee8c02ef988402bfe0c8a1
+prompt_sha256: draft-1
+translated_from: content/ru/1985/06/articles/01_stereometricheskaya-zadacha-81bd24b7.md
+source_content_sha256: 213e8ef746a9bbcaa1026016baa7dd215cbd43b1ca1308abb748326ab4e2ed95
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+In several previous issues of «Kvant» (second, third and fifth), we devoted page 4 of the cover to drawings for stereometric problems, recognized to help readers develop spatial imagination. In solving the problem, the drawings played a mainly auxiliary, 纵ostrative role. In the problem presented here, a clear representation of the configuration, correct and accurate drawings, please, constitute half of the solution. Therefore, we recommend that readers and users first imagine this configuration and draw it themselves, without looking at our drawings. You will find the complete solution in the answers under the heading “Our Cover”.
+Task. At the height of a regular triangular paramid lowered onto its base, an arbitrary point O is selected. The second paramid is symmetrical to the given relative point. At what position of point O will the volume of intersection of these paramides be the greatest?

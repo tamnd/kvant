@@ -1,0 +1,31 @@
+---
+id: 1985-11-stereometricheskaya-zadacha-c7b57158
+issue: kvant_1985_11
+year: 1985
+number: "11"
+title: '[Stereometric task]'
+rubric: smes
+page_first: 68
+page_last: 68
+tag: CZAD
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: b84fd4e0354e56225e1b7f2efc8d9c75cbc33a9494c847d0ee0ce0874c356adb
+prompt_sha256: draft-1
+translated_from: content/ru/1985/11/articles/01_stereometricheskaya-zadacha-c7b57158.md
+source_content_sha256: 2f892a36924cf2d2bc2a9d2e810f326d7e1933ecec00ef6ce03c2c3192124a0b
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+We continue the publication of “multiphysics” stereometric problems with drawings, which began in «Kvant» No. 2 for this year (see also covers of issues 3, 5 and 6). Here we present a problem that was proposed at the application exams at the Moscow Physiological Institute in 1984 and caused considerable difficulties among applicants. Her solution will be available in the next issue «Kvant».
+
+Task. The parameters SABCD are based on the rectangle ABCD, in which |AC| = 2 |AB|. The height parameters pass through the intersection point of the diagonal rectangle. The sphere touches plane ABCD and all lateral edges parameters. Find the volume parameters if the radius of the sphere is equal to R and the angle SCD is equal to α.
+
+The plane passes through the point S, touches the indicated sphere and intersects the lines BD and AC, respectively, at points P and Q (|DP| > |BP|, |AQ| > |CQ|). Find the relation |BP|: |BD|, if
+a) |BP| = |CQ|,
+b) |CQ| = 3 |AC|.

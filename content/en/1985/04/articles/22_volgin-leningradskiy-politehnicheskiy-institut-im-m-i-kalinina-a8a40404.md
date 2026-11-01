@@ -1,0 +1,93 @@
+---
+id: 1985-4-volgin-leningradskiy-politehnicheskiy-institut-im-m-i-kalinina-a8a40404
+issue: kvant_1985_4
+year: 1985
+number: "4"
+title: Leningrad Polytechnic Institute named after. M. I. Kalinina
+authors:
+  - Волгин Ю. Н. и др.
+rubric: ekzamenatsionnye-materialy
+rubric_sub: Экзаменационные материалы
+page_first: 58
+page_last: 58
+page_labels: "56"
+tag: SHCZ
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 1238f735a236642ab85b007e77dde41b80d5118f15e0c92a8b41096d9d91f720
+prompt_sha256: draft-1
+translated_from: content/ru/1985/04/articles/22_volgin-leningradskiy-politehnicheskiy-institut-im-m-i-kalinina-a8a40404.md
+source_content_sha256: 8c387b6fbd9af11bd19f2c372445159fa2e7c656894f57a344621573c1fb6b16
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 56⟧
+
+we had to change the temperature. How did the gas temperature change in the second cylinder if it changed $m$ times in the first? Pistons can be considered weightless.
+
+3. What conditions must be satisfied by the EMF and internal resistance $r$ of two identical current sources so that they can be determined using one voltmeter with a measurement limit $U$ and internal resistance $R$?
+
+4. A narrow parallel beam of light from a laser propagating in water is focused onto a screen located at a distance $F$ from the collecting line. On the path of the beam to the line at a distance $a$ from it there appears a bubble of air in the form of a sphere of radius $r$, which is much less than the distance $a$, but much larger than the radius of the beam. Where should you move the screen to see the dot on it again?
+
+5. Theoretical question: photo effect.
+
+Oral exam assignment
+
+Faculty of Mathematics and Mechanics, Faculty of Applied Mathematics - Control Processes, Faculty of Chemistry and Geology
+
+1. A body floats in water so that 1/3 of its volume is under water. What part of the body is immersed in water if the vessel with water in which the body floats moves upward with root $a$?
+
+2. The glass balloon was cocked three times: a) evacuated, b) filled with air at normal atmospheric pressure, c) filled with an unknown gas at a pressure of $p=1,5$ atm. The corresponding scale readings were equal to $m_1=200$g, $m_2=204$g, $m_3=210$g. The theoretical remained constant. Determine the molar mass of the gas.
+
+3. In the cylinder under the piston there is a certain mass of ideal gas at a temperature of $t=30^\circ\text{C}$, occupying a volume of $V=8$ liters at a pressure of $p=2$ atm. By how much is the temperature of the gas increased when its volume has decreased at a constant pressure so much that $A=50$ J of work has been done?
+
+4. An electron flies into a flat capacitor with a speed $\vec{v} (v=2 \cdot 10^7 \text{ m/c})$, directed parallel to the plates of the capacitor. How far from its original direction will the electron be displaced during its flight inside the capacitor if the distance between the plates is $d=2$ cm, the length of the capacitor is $L=5$ cm and the potential difference between the plates is $U=200$ V? The ratio of an electron's charge to its mass is $e/m=1,76 \cdot 10^{11}$ C/kg.
+
+5. From a source with a voltage of $U=750$ V it is necessary to transmit a power of $P=5$ kW over a certain distance. What is the maximum resistance a transmission line can have so that the power loss in it does not exceed 10%
+
+from the transmitted power, that is, the power that reached the consumer?
+
+6. Two lines with a focal length of $F=30$ cm are located at a distance of $l=15$ cm from each other. Under what conditions does this system produce a valid image of an object?
+
+7. The red border of the photoeffect for the factorate material is $\lambda_{\max}=700$ nm. The ratio of the velocities of emitted electrons when illuminated by light with wavelengths $\lambda_1$ and $\lambda_2$ is equal to $k=3/4$. Determine $\lambda_2$ if $\lambda_1=600$ nm.
+
+The publication was prepared by A. E. Kuchma, V. F. Osipov, V. N. Skrebov
+
+Leningrad Polytechnic Institute named after. M. I. Kalinina
+
+Mathematics
+
+Written exam
+
+Option 1
+(physical-mechanical and radiophysical faculties)
+
+1. Simplify the expression:
+
+$$\frac{(\sqrt{5}a^{4/3})^{3/2}}{(\sqrt{5}a^{4})^{3}}: \frac{(\sqrt{a^3a^2b})^{-4}}{(\sqrt{3}a\sqrt{b})^{-6}}.$$
+
+2. Find the domain of functions $f(x)=\sqrt{(x^2-3x-10)}\lg^2(x-3).$
+
+3. At the base of the three-headed example $SABC$ lies a regular triangle $ABC$ with side length $\sqrt{3}$, edge $SA$ has length 6. Find the volume of the example if it is known that its lateral faces have equal areas.
+
+4. Prove that for the angles $A, B, C$ of an absent equilateral triangle the following inequality holds:
+
+$$1 < \sqrt{\cos A} + \sqrt{\cos B} + \sqrt{\cos C} < \frac{11}{5}.$$
+
+Option 2
+(faculty of technical cubicle netics)
+
+1. Solve the equation
+
+$$2\log_2x-2\log_2\frac{1}{\sqrt{2}}=3\sqrt{\log_2x}.$$
+
+2. Solve the equation
+
+$$\cos x+\cos 2x+\cos 3x=0.$$
+
+3. Find the domain of definition, range of values ​​and intervals of monotonicity of functions
+
+$$f(x)=\left(\frac{1-\sqrt{x^3}}{1-\sqrt{x}}-3\sqrt{x}\right)^{0.5}.$$

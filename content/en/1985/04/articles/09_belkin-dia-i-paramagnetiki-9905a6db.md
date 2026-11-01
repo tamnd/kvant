@@ -1,0 +1,46 @@
+---
+id: 1985-4-belkin-dia-i-paramagnetiki-9905a6db
+issue: kvant_1985_4
+year: 1985
+number: "4"
+title: Dia- and paramagnets
+authors:
+  - Белкин И. К.
+rubric: shkola-v-kvante
+page_first: 21
+page_last: 21
+page_labels: "19"
+tag: EKL8
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 32c03f326f6fc2ff01d1692933dda1f1a2369b5978d7ee5bba67fe7b5c6ae7b3
+prompt_sha256: draft-1
+translated_from: content/ru/1985/04/articles/09_belkin-dia-i-paramagnetiki-9905a6db.md
+source_content_sha256: 6040cd8a79d141d930072c6936fc4fd969d5a34eb598040b5dc90a4609fb81ca
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 19⟧
+
+Dia- and parametrics
+
+As is known, the induction of a magnetic field in a substance can be heard or weakened compared to a vacuum. In the first case, the substance is called parametric, in the second - diamagnet.*) What is the reason for para- and diamagnetism?
+
+Briefly, the nature of parametricism can be explained as follows. In atoms (or molecules), electrons move along closed trajectories (orbits). These tiny electrical dots, called molecular dots, create a magnetic field. In the absence of an external magnetic field, due to the thermal motion of atoms, the orbital planes are randomly oriented, therefore the induction of the own magnetic field created by all atoms is, on average, zero.
+
+When a substance is placed in an external magnetic field, the planes of electron orbits (like frames with current) are partially rotated so that the induction vectors of the fields created are added to the induction vector of the external field. As a result, the total magnetic induction turns out to be greater than the induction of the external field.
+
+The period of diamagnetism is more complex. To understand it, let us recall the phenomenon of electromagnetic induction (*Physics 9*, § 92, 93). When the magnetic flux changes through an electrical circuit, an induced electric current appears in it. According to Lenz's rules, this current has such a direction that the magnetic field it creates changes the magnetic flux. In a circuit that does not have electrical resistance, for example in a superconducting circuit or in a “circuit” formed by an electron moving in its orbit in the atom, the induced current does not decay. It persists as long as an external magnetic field exists. The magnetic field of the induced current is directed opposite to the external field, so that the total magnetic induction in the substance is reduced.
+
+Each substance exhibits both effects. On the one hand, the external magnetic field orients the orbits of electrons and the overall effect of this is reduced. On the other hand, it changes the speed of electrons in their orbits and the overall effect of this, in accordance with the laws of electromagnetic induction, is weakened.
+
+The decrease in the magnetic field is usually very small, and therefore diamagnetism appears only in those substances whose atoms do not create their own magnetic field (and in which, therefore, there is no parametric efficiency).
+
+The simplest diamagnetic atom can be imagined as follows: two electrons rotate around the nucleus in the same orbit, but in opposite directions. In this case, the magnetic fields created by the electrons compensate each other, and rotation of the orbital plane does not lead to a decrease in the magnetic field. But diamagnetic efficiency is fully manifested. Let's look at it in more detail.
+
+Let each electron in an atom, in the absence of an external magnetic field, move in a circular orbit of radius $R$ with a speed $v_0$. When the magnetic field is turned on, an electric field will appear, which changes the speed of the electron. Suppose it is now $v$. If we assume that the magnetic induction vector $\vec{B}$ is perpendicular to the orbital plane, then the Lorentz force, equal in magnitude to $F_{\vec{L}}evB$, acts on the electron in the magnetic field state.
+
+Let's write down Newton's second law for the motion of an electron in orbit before and after turning on the magnetic floor

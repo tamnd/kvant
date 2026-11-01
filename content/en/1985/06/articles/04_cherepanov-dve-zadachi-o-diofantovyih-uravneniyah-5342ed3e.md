@@ -1,0 +1,66 @@
+---
+id: 1985-6-cherepanov-dve-zadachi-o-diofantovyih-uravneniyah-5342ed3e
+issue: kvant_1985_6
+year: 1985
+number: "6"
+title: '[Two problems on Diophantine equations]'
+authors:
+  - Черепанов О. А.
+rubric: smes
+page_first: 21
+page_last: 21
+page_labels: "19"
+tag: 0G3I
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 85a251360347930c5d2c3cf45452b68fcb4d97578b3b6e1e8ef78418bf9a3074
+prompt_sha256: draft-1
+translated_from: content/ru/1985/06/articles/04_cherepanov-dve-zadachi-o-diofantovyih-uravneniyah-5342ed3e.md
+source_content_sha256: 0c24ef5dbccd0a8d838084d4ca6b2c81eeecd155ef041bc8995064be85e15c6a
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 19⟧
+
+perendicular axes of the crystal lattice (figure 2). But sometimes the direction of the crack can change, and it will go diagonally in the plane in which the lietons are of the same type (figure 3).
+
+In this case, on one surface of the crack immediately after the split there are nones of one sign, and on the other - the opposite. And indeed, when the electromet probe moved along the surface of the split, fates were also discovered.
+
+But a significantly greater inequality of charges of individual pieces was discovered when the sample was split into unequal parts. Indeed, let a crystal with a square end on the side equal to $a$ and length $l \gg a$ (figure 4) split into two parts, the thicknesses of which are $b$ and $a-b$. If $\varrho$ is the average density of the own space charge of the whole crystal, then the charge surface of the skin is calculated from the condition that the sum of charges is equal to zero:
+
+$$Q_{\text{кристалла}} + Q_{\text{шкурики}} = 0.$$
+
+Let the area of ​​the ends be small and the charge of the skin
+
+$$4a\sigma + \varrho la^2 = 0.$$
+
+From here is the charge of the skin:
+
+$$\sigma = -a\varrho/4.$$
+
+Assuming that the space charge densities of the left and right parts are identical (and equal $\varrho$), we find the charge, for example, on the left side, equal to the sum of the volume and surface charges:
+
+$$\varrho abl - \frac{\varrho a l}{4}(a + 2b) = \frac{\varrho a l}{2}(b - \frac{a}{2}) < 0,$$
+
+which was discovered during the experiment.
+
+... Of course, this is not all that can be said about the mechanisms of electrification. Many interesting questions can be asked about the moment when a crack separates the crystal (electrons can “jump” from wall to wall), about the absence of a samphire “handpick” (electrons can transfer to it), finally, about the mechanism of electrification during friction of a dielectric on metal, about the mechanism of electrification when rolling crystals, and so on. Some of these questions have already been answered. The rest are waiting for their time. And maybe you.
+
+Exercise
+our readers
+
+1. Prove that there are no natural numbers $x, y, z$ such that $x^{p-1} + y^{p-1} = z^{p-1}$, where $p$ is a prime, $p > 3$, and $x$ and $y$ are not divisible by $p$.
+Hint: Apply the Little Theorem
+
+Truss: $a^{p-1} \equiv 1$ (mod $p$), where $a$ is natural and $(a, p) = 1$ (see «Kvant», 1978, no. 10, p. 7).
+
+2. Prove that for $p=3$ any solution of the Diophantine equation
+
+$$x^{p-1} + y^{p-1} = z^{p-1},$$
+
+consisting of pairwise relatively prime natural numbers, contains a number that is a multiple of 3.
+
+O. A. Cherepanov

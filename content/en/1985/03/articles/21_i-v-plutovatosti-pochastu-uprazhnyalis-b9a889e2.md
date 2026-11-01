@@ -1,0 +1,48 @@
+---
+id: 1985-3-i-v-plutovatosti-pochastu-uprazhnyalis-b9a889e2
+issue: kvant_1985_3
+year: 1985
+number: "3"
+title: '...and often practiced cheating'
+rubric: kvant-ulybaetsya
+rubric_sub: «Квант» улыбается
+page_first: 51
+page_last: 51
+tag: TD8F
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 7652f4a116fa2afe554e091d27894cbfd5c09dee00674899c2bec0bf6d160e21
+prompt_sha256: draft-1
+translated_from: content/ru/1985/03/articles/21_i-v-plutovatosti-pochastu-uprazhnyalis-b9a889e2.md
+source_content_sha256: 2662e8d00317b5a26ad46b54478d1a9b5da04661c616a86facbd089d39966d48
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+QUANTUM IS FUCKING FUCKED
+
+...and often practiced cheating
+
+Sometimes words taught in italics are much more difficult to use than those taught in roman font...
+It is evident that even in ancient times they had a considerable inclination towards writing and often practiced cheating.
+Kozma Prutkov
+
+Other “historical” materials have already been refuted so many times that the very mention of them is regarded as a joke.
+So in «Kvant» (No. 9 of 1984, p. 30) the epigraph to the article “Archimedes’ Law” was printed in italics:
+“... he made the furvin (bag) like a big ball, inflated it with smoke and dragged it, made a fly from it, sat down in it, and a frantic force lifted it higher than a birch tree...
+(story about the flight of the lifting Kryakutny in Ryazan in 1731).”
+
+This “information” was allegedly discovered by the “grandson of Kryakutny” (solid quotation marks) at the beginning of the last century in an ancient manuscript. It is about a balloon flight by a certain clergyman, which supposedly took place long before the flight of the Montgolfier brothers. Having lasted for more than a hundred years as truthful evidence, entering server products as a fact and even being reflected on a postage stamp (in 1956 for the “225th anniversary of the flight”), this information was then repeatedly refuted in both special and popular publications. We can recommend, for example, such general works as “The History of Aeronautics and Aviation in Russia” (P.D. Duz, M.: Prosveshchenie, 1981) or the articles “The Legend of the Bicycle” (Science and Life, 1983, No. 6), in which the Ryazan flight is mentioned among other well-known legends.
+
+Since, however, some readers «Kvant» took the epigraph always, we returned to this issue.
+
+At the same time, we note that in exposing the hoax, physics again played an important role: in physics, in infrared rays, letters written on top of the text later appeared clearly!
+
+The editors used this conversation to encourage cartoonist A. A. Orekhov to fantasize about the theme of aerial “furvins.” Which is what he did, drawing us this entire page.
+
+2×2=5
+2×2=4

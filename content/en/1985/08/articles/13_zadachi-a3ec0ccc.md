@@ -1,0 +1,43 @@
+---
+id: 1985-8-zadachi-a3ec0ccc
+issue: kvant_1985_8
+year: 1985
+number: "8"
+title: Tasks
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 31
+page_last: 31
+tag: OW6L
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: cfba291f8af3f6ad8a6d190dff6ad9e93e236f03901c04b0456fa4d8ff0fea9d
+prompt_sha256: draft-1
+translated_from: content/ru/1985/08/articles/13_zadachi-a3ec0ccc.md
+source_content_sha256: 51f293d5520a0ee67646d2c3ce11273ac3872054654fdfb78584aa5cf28c718e
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+KBANM
+FOR JUNIOR SCHOOL CHILDREN
+
+Quests
+
+1. Enter the numbers from 1 to 9 in the squares (see figure) so that the indicated inequalities are satisfied.
+
+2. Decipher the number puzzle:
+
+3. Masha and Pavlik each bought a portion of ice cream and brought it home. Pavlik put his ice cream in a saucer on the table, and Masha put her ice cream under the fan. Whose ice cream should not melt?
+
+4. Kolya and Vitya, walking through the park, came across a large clearing surrounded by linden trees. Kolya walked around the clearing, counting the trees. Vitya did the same, but started from a different tree (although he went in the same direction). The tree that was Kolya’s seventh was Vitya’s seventh, and the tree that Kolya was seventh was Vitya’s ninety-fourth. How many trees grew around the clearing?
+
+5. Figures A) and B) show closed traversals of squares on two pieces by a chess knight. Using these figure, construct a closed traversal with a chess knight of all the cells of the figure depicted in figure B).
+
+These tasks were offered to us
+L. P. Motsalov, S. N. Olekhnin, A. P. Savin,
+G. A. Galperin, N. I. Avilov.

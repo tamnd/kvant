@@ -1,0 +1,48 @@
+---
+id: 1985-11-zadacha-dlya-issledovaniya-84cc2718
+issue: kvant_1985_11
+year: 1985
+number: "11"
+title: Research problem
+rubric: smes
+page_first: 21
+page_last: 21
+page_labels: "19"
+tag: 8Q85
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: cc59d993a268148cd0de4c34cc4b9888f852077e68246ddcf56278567003f301
+prompt_sha256: draft-1
+translated_from: content/ru/1985/11/articles/07_zadacha-dlya-issledovaniya-84cc2718.md
+source_content_sha256: 0fa0fdc577188558a0c7c13ca77f2d3150f073ea22e3f7b8e029fc4240abf1d7
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 19⟧
+
+wound systems that introduce medicinal substances in strictly controlled quantities into blood vessels directly through the skin where they are glued. Sticker capsules with nitroglycerne for heart patients have already appeared.
+
+Many large research and production associations are engaged in improving the membrane technologically. More and more new methods for producing semi-permeable films are being born. So, several years ago they began to be made using...heavy nuclear accelerators. Under a beam of such nuclei there are synthetic films
+
+Research problem
+
+Black and white areas
+
+The number of black and white squares on the chessboard is the same. If there are several straight lines on a plane, then all the parts into which they divide the plane can also be painted in two colors - black and white - so that parts that have common sides are shown in different colors. However, the number of blacks and whites in the area will not necessarily be the same.
+
+How many times can the number of blacks in an area exceed the number of whites? This task was posed last year at a seminar at Moscow State University by Corresponding Member of the USSR Academy of Sciences I. V. Arnold. (This problem is related to the following: by how many can the number of maxima of a polynomial of degree $n$ in two variables exceed the number of its minima?)
+
+More precisely, it is assumed that $n$ lines in the plane are in general position (no two are parallel and no three pass through the same point), and it is required to find the maximum value that the ratio of the number of black and white areas takes under these conditions.
+
+In problem No. 4 for grade 10 at the last All-Union Olympiad (see p. 53), it was proposed to prove that the number of blacks in the region does not exceed twice the number of whites. In fact, as the young Moscow mathematician Yu. V. Chekanov proved, as the number of lines $n$ increases, the maximum ratio of the number of blacks in the region to the number of whites tends to 2; his proof is based on some messages from the theory of elliptic curves (the energy level line of a system with cubic potential), which are described in the article “Like the sugar of a tree” from the book “Mathematical Flower Garden” (M., 1982, pp. 117-129). Try to find the exact values of the maximum ratio of the number of black and white areas for at least some values of $n$ ($n=4, 5, 6, \dots$) and construct a series of examples for which, as $n$ increases, this ratio remains greater than a certain number greater than 1. (The exact value of the maximum ratio for $n=2^k$ lines is our Leningrad mathematician P. Yu. Suvorov; intercorresponds that both Pavel Suvorov and Yura Chekanov, like Vladimir Igorevich Arnold, are former winners of mathematical optimization.)
+
+A question close to the problem of black-and-white regions is: what is the most admissible fraction among the regions on which the $n$ line divides the triangles?
+
+Similar questions are also interesting for black-and-white coloring of areas on which $n$ straight lines break up triangles?
+
+Amendment
+
+We publish here two figure that were misspelled on p. 35 “Kvata” No. 10 due to the fault of the printing house. Figure placed here should be the third column from the top left on p. 35 numbers 10, and figure on the right is the last (bottom) in the same column. Note also that references to figure 3 and 4 should be placed in places in the text.
