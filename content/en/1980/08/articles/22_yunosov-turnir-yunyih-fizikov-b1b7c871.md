@@ -1,0 +1,81 @@
+---
+id: 1980-8-yunosov-turnir-yunyih-fizikov-b1b7c871
+issue: kvant_1980_8
+year: 1980
+number: "8"
+title: Tournament of young physicists
+authors:
+  - Юносов Е. Н.
+rubric: informatsiya
+rubric_sub: Информация
+page_first: 59
+page_last: 59
+page_labels: "57"
+tag: VP4X
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: c2c35c2a96ec6c92bb8e33290323abba52de9dd4c1df1637e74e471965bc2cac
+prompt_sha256: draft-1
+translated_from: content/ru/1980/08/articles/22_yunosov-turnir-yunyih-fizikov-b1b7c871.md
+source_content_sha256: aeb2bd7a2060fa94d5f42a9fe69c5dfa59f19187a074e9e2b058dfeba75b3cbe
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 57⟧
+
+Tournament of young physicists
+
+Despite the fact that general turirs were more dangerous than single states, they have always enjoyed great success among fishermen.
+
+W. Scott. Ivanhoe
+
+From February 20 to March 28, the Young Physicists Tour was held in Moscow. It was attended by high school students from eleven Moscow schools - Nos. 2, 7, 18, 47, 52, 57, 91, 179, 201, 444 - and school No. 82 in the village of Chernogolovka near Moscow.
+
+The tournament was held in three rounds: an absentee collective competition, semi-final physical competitions and a final physical competition.
+
+The first round began on February 20 and ended on March 12. Lists of 17 tasks were sent to all participating schools. Anyone could solve these problems. After collective discussion, the decisions were submitted to the Turir jury.
+
+Most of the problems in the correspondence competition can be characterized as problem problems. Here are some examples:
+
+Task "Strudka". A thin stream flows out of the water tap. Water completely fills the tap tube with a radius of about 2 mm. At the bottom, the chips dry out and then break up into separate drops. Why does the chips dry out? At what distance from the tap does it break up into drops?
+
+Interesting solutions were sent by N. Kvasov (school No. 52) and V. Shmidt (school No. 179).
+
+Problem "Ball". On earth only slem is saturated with Japanese. A steel ball with a radius of 5 cm falls freely from a height of 1 m. To what depth will the ball cut into the sand?
+
+This task caused, unfortunately, the greatest difficulties.
+
+Problem "Pencil". The sharply missing pencil was placed sharply on the table, and it remained idle for two months. Prove that the pencil stuck into the table.
+
+What does “acutely missing pencil” mean? How can it stand on the table surface? What will get him out of this situation? These and many other questions were answered in detail by D. Germushni (school No. 57), K. Kondratyev and A. Chamav (school No. 2).
+
+"Experimental task". Investigate the dependence of the circular stiffness coefficient of a thin nylon thread on the length and thickness of the thread in the region of a length of the order of 10 cm and a thickness of the order of 10 mm.
+
+Very interesting research was carried out by I. Nyrkova (school No. 2), N. Kvasov (school No. 52), A. Kulyagin and M. Novikov (school No. 18).
+
+Such problems are not yet included in the assignments, and they are problematic even for specialists, but these are precisely the problems that life itself poses to physicists every day. The jury members were very interested to see how the guys approached solving the problem, what qualitative explanation they gave, what model of the phenomenon they chose, what assumptions they made, what and how experimental studies were carried out.
+
+The winners in the first round were schools Nos. 2 and 179, which sent substantiated solutions to the most appropriate number of problems. If we talk about individual author's solutions, then P. Kalugin (school No. 444) had the most of them.
+
+The second round of Turir (receiving physical bonds) took place on March 19 in three groups, schools No. 2 and 52, in group B - 18, 57 and 201 and in group C - 91, 179 and 444.
+
+Physical combat (physical combat) is a collective state of young physicists to solve complex problems, convincingly present their solutions and argue. In the semi-finals, physiognomies were carried out according to the given significant competition. Each team consists of ten students from grades 8 to 10, and the ten grades were no more than six.
+
+Please, the most dry physio-eating teams take turns acting as a speaker, an opponent and a decision-maker. First, a representative of the reporting team will tell his solution to the problem. Then the opponent asks the speaker questions and expresses his criticisms. In this case, controversy will naturally arise. Finally, the decision maker evaluates the performance of both the speaker and the opponent. Both the opponent and the solver can present their solutions if they find them more surprising. The jury evaluates the teams' performances in points. In the semi-finals, for example, the following system was adopted: the maximum score for the speaker is 10 points, the opponent is 5 points and the decider is 2 points.
+
+The winners of the teams received physical education were school nos. 2, 18 and 91. Based on the sum of points in two rounds, teams from school nos. 2, 57 and 179 advanced to the Tourir finals.
+
+The final physics competition took place as part of the Young Physics Festival on its closing day, March 28, on the premises of the Physics Institute named after. P. N. Lebedev Academy of Sciences of the USSR (FIAN).
+
+Physical exercise participants were presented with two types of tasks. Let's call them “big” and “small” tasks. They were given 1 hour to solve the “big” problem, and 10 minutes to solve the “small” problem. All tasks were of a research nature. The fight was carried out according to the scheme: the speaker and two opponents.
+
+Here are the task type conditions:
+
+Superball challenge. Estimate the time of impact of the superball (prizayutsezo ball) with the floor when put on from a height of 1 m.
+
+Problem "Lens". Measure the optical power of this line.
+
+"Spiral" task. Study and explain the behavior of an incandescent lamp on the right when exposed to λεktrized bodies.

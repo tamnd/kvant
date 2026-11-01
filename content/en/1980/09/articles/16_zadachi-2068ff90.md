@@ -1,0 +1,42 @@
+---
+id: 1980-9-zadachi-2068ff90
+issue: kvant_1980_9
+year: 1980
+number: "9"
+title: Tasks
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 43
+page_last: 43
+page_labels: "41"
+tag: O3I7
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 6d404f7f8faaa3ee1d6132cf9c3d92a4488c6c4432143785411e98b95314dea0
+prompt_sha256: draft-1
+translated_from: content/ru/1980/09/articles/16_zadachi-2068ff90.md
+source_content_sha256: d8ac25ceddc4e0d5794549291e5bb7cd27a0cb341ce6eb2b98e90a1b873f2319
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 41⟧
+
+Quantum
+for younger students
+
+Quests
+
+For 17 years now, the city club KS² has existed in Europe - the Club of the Compassionate and Smart. This club is led by school No. 8 teacher Vladimir Aleksandrovich Slavinn. Club members solve problems together and separate together. In this issue we offer our junior schoolchildren several tasks of the KS² club.
+
+1. Five numbers are given: $a_1=1, a_2=-1, a_3=-1, a_4=1, a_5=-1$. The sixth number is equal to the product of the first by the second, the seventh is the product of the second by the third, the eighth is the product of the third by the fourth, and so on. What number would you get in 1980th place?
+
+2. The cards shown on figure are made from cards with numbers written on them. Volodya suggested that Sasha lay out the cards so that the figure remained the same, but each card concerned only new neighbors. Sasha is still solving this problem and cannot solve it. What advice would you give him?
+
+3. It is known that in January there are four Mondays and four Fridays. What day of the week is January 1st?
+
+4. In the hundredth number 1234567890 1234567890123...7890, I crossed out all the numbers in odd places. In the resulting fiftieth number, I again crossed out the numbers in odd places. The deletion continued until there was nothing left. What was the last number crossed out?
+
+5. Is it possible to color the cells of a square grid $5 \times 5$ in five colors so that each row and column contains cells of all five colors, and the fields of each color can be bypassed by moving a chess knight, beating each of the five such fields exactly once?

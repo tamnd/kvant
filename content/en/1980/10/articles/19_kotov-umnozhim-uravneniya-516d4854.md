@@ -1,0 +1,69 @@
+---
+id: 1980-10-kotov-umnozhim-uravneniya-516d4854
+issue: kvant_1980_10
+year: 1980
+number: "10"
+title: Let's multiply the equations
+authors:
+  - Котов Ю. В.
+rubric: raznoe
+rubric_sub: Разное
+page_first: 64
+page_last: 64
+page_labels: "62"
+tag: C9QZ
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 34b6b387a1c1537a44a548c3f0225ecdbab80130ad977b4ffe69dbed3c54646a
+prompt_sha256: draft-1
+translated_from: content/ru/1980/10/articles/19_kotov-umnozhim-uravneniya-516d4854.md
+source_content_sha256: a0f0307468385530ccfd41fb5889f8b8f47d9bc7febc0be2d27aafb480b40f23
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 62⟧
+
+Let's multiply the equations
+
+Classical scholars know that the equation of a straight line on a plane has the form $y = kx + b$. Is it possible to define two or three prims with one equation?
+
+Let the equation of the first line be $y = k_1x + b_1$, the second one $y = k_2x + b_2$. Let us intersect all the terms on the left side in both equations: $y = k_1x - b_1 = 0$ and $y = k_2x - b_2 = 0$. Now let’s equate the product of the left sides to zero:
+
+$$(y - k_1x - b_1)(y - k_2x - b_2) = 0.$$
+
+(1)
+
+It is clear that equation (1) will be satisfied if at least one factor is equal to zero. The points belonging to the first and second original lines are reduced to zero by the first, then the second factor. Having opened the brackets, we come to the well-known fact that in a partial case, an equation of the second degree can specify two parallel or two intersecting lines.
+
+In a similar way, you can overcome three or four equations. For example, you can equalize the equations of two circles or a line and a circle:
+
+$$(y - kx - b)((x - a)^2 + (y - c)^2 - R^2) = 0$$
+
+(2)
+
+(here $a$ and $c$ are the coordinates of the circle’s center, $R$ is its radius). Equation (2) specifies a tertbero order curve that “breaks up” into a straight line and a circle. By choosing coefficient correspondences, you can ensure that these figures touch or intersect.
+
+By multiplying the equations of other lines, more complex combinations can be formed.
+
+Let us now have some equation given by a line - simple or consisting of several components. If we slightly change one of the coefficients in the equation, we will obtain geometrically close objects. Thus, by changing the parameter $b$ in the equation of the line, we obtain a line parallel to it that is close to it. Let us now try in the equations obtained by multiplying simpler equations, substituting small values ​​- positive and negative - together with the zeros on the right side. As a result, we will obtain line families that gradually move away from the original ones (as the abscille value of the value on the right side increases) and are located on one or another “side” of them depending on the sign of the addition.
+
+If we perform the indicated operation with equation (1) of two intersecting lines, we obtain hyperbolas for which the original lines are asymptotes.
+
+Fig. 1.
+
+Fig. 2.
+
+Using the hyperbola graph to help, let us construct curves in this way based on equation (2), given by the intersecting circle and the straight line. On Fig. 1 the curves corresponding to positive “additives” are shown in red, and negative ones in blue. All of them do not have special points.
+
+From a family of lines on a plane, it is not difficult to construct a surface in space - you just need to enter the third coordinate (z) together with the “family parameter” (that is, our “additive”). Try to imagine the shape of a surface constructed using the family shown in Fig. 1!
+
+On figure these three circles located in the plane $z = \text{const} = 0$ are shown, on figure they are not shown. The surface itself is represented by lines with a section of the plane $y = \text{const}$. It is curious that at the points where the circles intersect, the surface is smooth.
+
+Instead of z, you can substitute $z^2, -z^2, \text{или } z^n, -z^n$ on the right side of the equation. Think about what shape the surface shown in figure 2 will have if there is $z^2$ on the right side.
+
+The fourth page of the cover shows a fairly close surface obtained by substituting the expression $A - z^2$ into the right side of the same equation, where $A$ is some constant. (Both visible and invisible parts of the lines of intersection of the vertical lines of the plane are depicted on the surface, but the lines between adjacent visible sections of the lines are colored). Changes $A$, you can get slightly different surfaces - without “holes” or split into three separate components. The configuration of the surface also changes depending on the relative position of the original circles.
+
+Similar issues were discussed in the article “Oval, top, two ovals” («Kvant», 1979, No. 8).
