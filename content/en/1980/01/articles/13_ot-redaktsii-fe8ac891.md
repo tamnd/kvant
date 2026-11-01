@@ -1,0 +1,45 @@
+---
+id: 1980-1-ot-redaktsii-fe8ac891
+issue: kvant_1980_1
+year: 1980
+number: "1"
+title: '[Editor''s note]'
+rubric: zadachnik-kvanta
+rubric_sub: Задачник «Кванта»
+page_first: 32
+page_last: 32
+page_labels: "30"
+tag: 3IQT
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 5f3ecc3e3b6b1b7be205495c00b746de4f6af555d2d3c8041103582d10e28964
+prompt_sha256: draft-1
+translated_from: content/ru/1980/01/articles/13_ot-redaktsii-fe8ac891.md
+source_content_sha256: cd3e1a7ebaffccaa6dfda389c9a0431aafa416dc544145416ab1e3a7e17284d1
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 30⟧
+
+Problem book
+quantum
+
+We have been running this section from issue to issue for 10 years now - since the founding of the magazine. It publishes problems whose solutions we expect to receive from readers. Among them are tasks close to optimization that require extensive thought. Along with relatively easy problems, there are also those that are not easy for specialists to solve. The most difficult tasks are helped by stars.
+
+If a task interests you, but doesn’t work out right away, don’t give up, try to return to it in a day, in a week. Don’t put it off even after it’s done - think about how to write down the solution in the most rational and convincing way, how to generalize the problem to its result, what related problems it allows you to solve.
+
+In the second part of the section we post the solution to the problems (approximately 8-10 months after the publication of the conditions) taking into account the letters sent by readers. Each solution is essentially a short, stand-alone article. We advise those who did not write out «Kvant» last year or did not solve problems to understand them.
+
+We, the regulator, publish the names of readers who sent us decisions. Schoolchildren who send interesting and complete solutions receive the right to participate in resourceikan rounds of All-Optimization (the results, on the basis of which the winners of the Problem Book «Kvant» competition receive an invitation to optimization, are summed up in December).
+
+For students of the All-Russian Correspondence Mathematics School, the correct solution of problems from the Problem Book is considered the completion of optional tasks.
+
+Of course, not all of our problems are published for the first time. After formation, we usually indicate who proposed the task to us. Coming up with a new original problem—making a small independent “discovery”—is, unfortunately, even more difficult than solving someone else’s ready-made one. If you are comfortable with this, send us the problem along with a short solution. However, we publish more interesting problems in the Problem Book or other sections of the magazine. We will receive new problems, as well as solutions and comments to problems from the Problem Book, not only from schoolchildren, but also from adult readers of the magazine.
+
+Our address: 113035, Moscow, M-35, B. Ordynka, 21/16, editorial office of the magazine «Kvant».
+On the envelope, in the “To” column, write: “Problem book «Kvant»” - and indicate the solutions to which problems you are sending (for example: “No. 1 (1980), M602, M605, a, 6”), or mark “New problem in mathematics (physics).” Send solutions to problems in different subjects or from different issues of the journal in different envelopes. Formulations of new tasks (as well as any materials intended for publication) must be sent in two copies. We try to respond to all our correspondents. Please prepare solutions carefully to facilitate the work of the editors and consultants of the Problem Book section «Kvant». At the beginning of the letter, be sure to write your last name, first name, patronymic, home address; For schoolchildren, please also indicate the class and school (and the “number” or address of the film, if you study at VZMSH).
+
+The deadline for sending answers to problems in this issue is March 15, 1980.

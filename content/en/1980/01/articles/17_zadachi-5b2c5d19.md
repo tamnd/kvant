@@ -1,0 +1,46 @@
+---
+id: 1980-1-zadachi-5b2c5d19
+issue: kvant_1980_1
+year: 1980
+number: "1"
+title: Tasks
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 43
+page_last: 43
+page_labels: "41"
+tag: DQDO
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 1d63bc09ad13869455dde36442b53acedd0b79f372bdafc82924bca5505f88f1
+prompt_sha256: draft-1
+translated_from: content/ru/1980/01/articles/17_zadachi-5b2c5d19.md
+source_content_sha256: 42216f6b5047e1cc213e5c0ed86ce52114ac5d9eed86923a61a3ff268ed4ee50
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 41⟧
+
+Quests
+
+1. Of the twenty boys in our class, fourteen have brown eyes, fifteen have dark hair, seventeen boys weigh more than 40 kg and 18 boys are taller than 1 m 60 cm. Prove that at least four boys have all the listed characteristics.
+
+2. If you subtract 7 from a certain number and multiply the remainder by 7, you get the same result as if you subtract 11 from a given number and multiply the remainder by 11. Find this number.
+
+3. There are 5 sheets of paper. Some of them were torn into 5 pieces each. Some of the resulting pieces were again torn into 5 pieces. And so on. Is it possible, by continuing this operation, to obtain 1980 leaves?
+
+4. There are a number of weights whose mass does not exceed 10 kg. It is known that if all the weights are somehow divided into two piles, then the mass of one of the piles must not exceed 10 kg. Find the most common mass of all weights.
+
+5. Decipher the rebus:
+$$(\Pi C)^n = \text{ИКС}.$$
+
+6. The four-digit number $A = \overline{abcd}$ is the square of the two-digit number $B$. The four-digit number $A' = \overline{dcba}$ is the square of some two-digit number that is a multiple of the number $B$. Find the number $A$ and $B$.
+
+7. Does the equation
+$$x^2 + y^2 + z^2 = 1980$$
+solution in natural numbers?
+
+$$(\Pi C)^n = \text{ИКС}$$

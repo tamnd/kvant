@@ -1,0 +1,34 @@
+---
+id: 1979-11-zadachi-d6f8829a
+issue: kvant_1979_11
+year: 1979
+number: "11"
+title: Tasks
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 38
+page_last: 38
+page_labels: "36"
+tag: GFSI
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 9f2726e523f2a78bf9a3cb8bd52b78763a384885eea112255ff511718b9ef220
+prompt_sha256: draft-1
+translated_from: content/ru/1979/11/articles/10_zadachi-d6f8829a.md
+source_content_sha256: 644eeadcf231a5da86eea81936d4d06e02c115c0a762795e44cc3bea18cfc7aa
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 36⟧
+
+Exercise
+1. Cut a paper rectangle 1.5 cm x 4 cm into two parts so that you can paste over a cube with an edge of 1 cm.
+2. The sum of all natural numbers from 1 to any number ending in 5 is itself divisible by 5. Prove.
+3. Eighty matches were arranged in five piles. From the first pile they took a fifth of the matches that had been struck in it and put them into the second pile. Then, from the second pile, the fifth part ended up in it after moving the matches and moved it to the third pile, and so on. Finally, from the fifth pile, a fifth of the matches were transferred to the first pile. After that, there was an equal number of matches in each pile. How many matches were in each pile before moving?
+4. Is there a triangle whose altitudes are 1, 2, and 3 respectively?
+5. A tourist wants to cook two soft eggs for breakfast and hard boil another four to take on the road. Scrambled eggs are boiled for 2 minutes, hard-boiled eggs are boiled for 4 minutes (the eggs are placed in boiling water). What is the shortest time in which a tourist can raw eggs if he has a potato, totaling four eggs?
+
+36

@@ -1,0 +1,65 @@
+---
+id: 1979-10-leshkovtsev-proshin-na-puti-k-energetike-buduschego-c496acb7
+issue: kvant_1979_10
+year: 1979
+number: "10"
+title: On the way to the energy of the future
+authors:
+  - Лешковцев В. А.
+  - Прошин М.
+rubric: osnovnye-stati
+page_first: 17
+page_last: 18
+page_labels: 15-16
+tag: YK4J
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 15d6bf6ca3bc6a8627da06ac564dc442d3a1a8b2b038ab02aed72baec791075f
+prompt_sha256: draft-1
+translated_from: content/ru/1979/10/articles/08_leshkovtsev-proshin-na-puti-k-energetike-buduschego-c496acb7.md
+source_content_sha256: f701dc7d6586bcf1089def6e9e236bd3d8b68afa7c864e53b6cead41d8ce652f
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 15⟧
+
+On the way to the energy of the future
+
+The development of civilization is inextricably linked with an increase in energy production. A more tempting way is to use the energy of fusion of heavy hydrogen nuclei, the reserves of which are necessarily large (see “Physics-10”, § 145). The following reactions will occur:
+
+$$\text{1H}^2 + \text{1H}^2 \rightarrow \text{2He}^3 + \text{0n}^1,$$
+
+(1)
+
+$$\text{1H}^2 + \text{1H}^2 \rightarrow \text{1H}^3 + \text{1H}^1.$$
+
+(2)
+
+In the first of them, two heavy hydrogen nuclei are transformed into a light gel nucleus and a neutron, in the second - into a superheavy hydrogen nucleus and a proton. A large amount of energy is released at the same time. Even more energy can be obtained through the reaction between heavy hydrogen and artificially created super-heavy hydrogen:
+
+$$\text{1H}^2 + \text{1H}^3 \rightarrow \text{2He}^4 + \text{0n}^1.$$
+
+(3)
+
+Since atomic nuclei have positive electrical charges and repel each other, fusion reactions can only occur in a substance whose nuclei have high kinetic energy, enough to do work against repulsive forces. This means that these reaction nuclei can be realized when the substance is heated to a very high temperature. Therefore, such reactions are called thermonuclear. To carry out integrated thermonuclear reactions (1-2), it is necessary to heat heavy hydrogen to several hundred million degrees and maintain this temperature for at least a few seconds. Reaction (3) can be observed at a temperature of about 100 million degrees. At such temperatures, the substance goes into a plasma state - hydrogen atoms disintegrate into their constituent electrons and atomic nuclei. To prevent the heated plasma from “escaping” onto the cold walls of the vessel surrounding it, it must be placed in a magnetic field. In this case, the Lorentz wave acting on each charged particle will force it to “wind” on the magnetic induction line, preventing the part from leaving the walls of the vessel (see “Physics-9”, § 93).
+
+Creating a thermonuclear reactor is an extremely complex scientific and technical task. Scientists and engineers have been working on ways to solve it for almost thirty years. A more tempting way is to use the energy of fusion of heavy hydrogen nuclei, the reserves of which only need one revolution. This coil is formed by a closed annular chamber in the shape of a torus (donut). The chamber is filled with hydrogen at low pressure. By passing a high current through the primary winding of such a transformer, it causes an electrical breakdown in the gas filling the chamber. The hydrogen is NONized and the secondary current flowing through it heats it to a very high temperature. The ring current, under the influence of magnetic forces, is contracted into a thin plasma noise, since parallel, identically directed currents are bent (see “Physics-9”, § 88). To successfully isolate hydrogen plasma, an additional magnetic field is used, which is created by an electromagnet, the coils of which are wound on the outer surface of the torus. The word “tokamak” is derived from the first slots of the named main elements of the installation (TORONDAL CHAMBER in a MAGNETIC FIELD). There are now more than 50 tokamaks operating in various countries.
+
+There is a fundamental concept of a path to controlled thermonuclear reactions. Thermonuclear fusion can be carried out on the basis of periodic microversions of small portions of solid thermonuclear fuel (hydrogen). Beams of a powerful laser or dense beams of electrons accelerated to speeds close to the speed of light, in principle, can dissolve and heat a solid minion with thermonuclear fuel to such high values ​​of density and temperature at which a thermonuclear reaction succeeds in taking place in the mine substance in fractions of nanoseconds. This path is also being explored by Soviet scientists.
+
+In our country, work on controlled thermonuclear reactions is carried out on a wide front. This photo essay will tell you about some thermonuclear research carried out at the I.V. Kurchatov Institute of Atomic Energy. The photographs were taken by V. Obodzinsky.
+
+Readers who would like to learn more about the issues discussed here are encouraged to become:
+
+V. Kadomtsev. The path to thermonuclear energy. “Science and Life”, 1976, No. 1, p. 44; V. Kadomtsev. Physics of tokamaks. "Nature", 1979, No. 2, p. 21.
+
+⟦folio 16⟧
+
+Fig. 1. One of the world's largest thermonuclear installations is Tokamak-10, which came into operation in 1975. The plasma temperature in it will reach 13 million degrees. The plasma density is close to its value in future technical thermonuclear reactors. To create such reactors, in principle, it is sufficient to significantly increase the size of the torid chamber. Therefore, Tokamak-10 can be considered a prototype of future thermonuclear power plants.
+
+Fig. 2. Recently, a method of additional heating of plasma has been developed by “searching” for hydrogen nuclei into it, accelerated to high speeds in special accelerator devices. In high-temperature plasma, particles also form an even hotter component.
+
+When they collide with particles of a cooler component, they give them part of their kinetic energy, thereby increasing the temperature of the plasma. A similar method of plasma heating is being studied at the Tokamak-11 installation shown here with two engineers (searching for) accelerated hydrogen nuclei.
