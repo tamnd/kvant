@@ -1,0 +1,41 @@
+---
+id: 1977-10-zadachi-628ae2d1
+issue: kvant_1977_10
+year: 1977
+number: "10"
+title: 任务
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 52
+page_last: 52
+page_labels: "50"
+tag: TOBM
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 2621d9fc5fd398e3e16568fa57f65899e973bcc2dae515a585def8f58cb36961
+prompt_sha256: draft-1
+translated_from: content/ru/1977/10/articles/11_zadachi-628ae2d1.md
+source_content_sha256: 7aec817dbb329e5fbafdd2bb0435415a8d64df6f8cca71f7827cf57c97f069b6
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 50⟧
+
+任务
+
+1. a) 在一个三位数中，我把左边的第一位数字划掉，然后将得到的两位数乘以7，结果就是原来的三位数。找到这样一个数字。
+
+6) 在一个三位数中，我划掉了中间的数字，得到的数字小了 6 倍。求这样一个三位数。
+
+c) 找出当中间的数字被划掉后，减少 7 倍、9 倍的所有三位数。
+
+2. 桌子上一排有四个形状：三角形、菱形、圆形、正方形。这些图形的颜色是：绿色、黄色、蓝色、红色。图形按什么顺序排列，每个图形的颜色是什么，如果红色图形位于绿色和蓝色之间，黄色图形的右侧有一个菱形，圆形位于三角形和菱形的右侧，三角形不位于边缘，最后，蓝色图形不位于黄色图形旁边？
+
+3. Tamara 的年龄为 1977 年，即她出生年份的数字之和。她是哪一年出生的？
+
+4. 方表$n \times n$填充了从1到$n^2$的自然数，第一行包含从1到$n$的连续数字，第二行包含从$n + 1$到$2n$的连续数字，依此类推。
+
+证明如果你从这个表中切出一个正方形$m \times m$，那么其中的数字之和将被$m^2$整除。

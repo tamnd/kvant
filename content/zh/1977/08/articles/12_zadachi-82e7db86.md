@@ -1,0 +1,41 @@
+---
+id: 1977-8-zadachi-82e7db86
+issue: kvant_1977_8
+year: 1977
+number: "8"
+title: 任务
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 53
+page_last: 53
+page_labels: "51"
+tag: 2EPM
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 3ab87f37108adb564e34fbc6747fd94efe1baa50cfc91ced45c17bd3635d0b02
+prompt_sha256: draft-1
+translated_from: content/ru/1977/08/articles/12_zadachi-82e7db86.md
+source_content_sha256: 8e0f892fca71fde7fc6e6517f23b4d7d5f577078ca53f982408f8647058975df
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 51⟧
+
+任务
+
+1. 有一天，我摘了蘑菇！ - 我好不容易才完成它。但我带的几乎只有水——新鲜蘑菇含有90%的水。当蘑菇孵化时，它们的重量减轻了 15 公斤——现在它们含有 60% 的水。
+
+我从森林里带了多少蘑菇？
+
+2. 重新排列十个杯子的原始形状（见图），使其形状保持不变，但每个立方体只能容纳新杯子。
+
+3. 找到能被 36 整除的最小自然数，其中包含从 1 到 9 的所有数字。
+
+123456789
+
+4. 在乘法示例中，相同的数字被相同的字母替换，不同的数字被不同的字母替换。结果如图所示。恢复示例的个人外观。
+
+5. A、B、C 村位于正三角形的三个顶点。 A 村有 30 名小学生，B 村有 20 名，C 村有 10 名。该秤应该建在哪里，才能使小学生从家到秤的总距离最小？

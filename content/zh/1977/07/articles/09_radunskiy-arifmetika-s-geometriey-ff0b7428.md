@@ -1,0 +1,58 @@
+---
+id: 1977-7-radunskiy-arifmetika-s-geometriey-ff0b7428
+issue: kvant_1977_7
+year: 1977
+number: "7"
+title: 算术与几何
+authors:
+  - Радунский В.
+rubric: smes
+page_first: 33
+page_last: 33
+page_labels: "31"
+tag: CGHA
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 70637b41c468bd43da374283be52ee47e91a1808d86b1051036b768297cf3d66
+prompt_sha256: draft-1
+translated_from: content/ru/1977/07/articles/09_radunskiy-arifmetika-s-geometriey-ff0b7428.md
+source_content_sha256: 80442a2ea5bd4c189a295f8010877403ba61a7c2619a63b7c38cd4416e345ecc
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 31⟧
+
+..., $a_n$ 具有最长的总和。
+
+练习 10. 证明来自 $B$ 的所有向量“看向同一方向”，即它们与某个轴形成锐角。
+
+如果 $p$ 和 $l$ 之间的角度是锐角，我们将向量 $p$ 在轴 $l$ 上的*伪投影*称为通常的投影，否则称为数字 $0$。我们修复一些轴$l_0$。令 $l_\alpha$ 为与 $l_0$ 轴形成角度 $\alpha$ 的轴。让我们把
+
+$$g(x) = \begin{cases} \cos x, & \text{ если } \cos x > 0, \\ 0, & \text{ если } \cos x \leq 0. \end{cases}$$
+
+练习 11. 检查 $\int_0^{2\pi} g(\varphi - \alpha) d\alpha = 2$ 对于任何 $\varphi$。
+
+如果 $\varphi$ 是向量 $p$ 与轴 $l_0$ 之间的角度，则该向量在轴 $l_\alpha$ 上的伪投影等于 $|p|g(\varphi - \alpha)$。
+
+让我们用 $f(\alpha)$ 表示向量 $a_1, a_2, \ldots, a_n$ 在轴 $l_\alpha$ 上的伪投影之和。
+
+练习 12. 证明函数 $f$ 在区间 $[0; 2\pi]$ 上的平均值等于 $\frac{1}{\pi}$。
+
+练习 13. 证明可以选择 $l_\alpha$ 轴，使得这些向量在该轴上的伪投影之和不小于 $\frac{1}{\pi}$。
+
+练习 14. 证明问题 4 的陈述。
+
+问题4中的常数$\frac{1}{\pi}$不能被任何更大的常数替代。这可以通过取足够大的 $n$ 和沿着正则 $n$ 边形的向量来验证。
+
+如果在问题 4 中我们将 $\frac{1}{\pi}$ 替换为 $\frac{1}{4}$，则相应的陈述对于空间向量也成立。
+
+算术与几何
+
+a) 求图所示的正方形和等边三角形的边长，如果在表示边长的公式中，每个字母代表某个数字。
+
+b) 对下一个图所示的一个菱形解决同样的问题。
+
+V·拉敦斯基

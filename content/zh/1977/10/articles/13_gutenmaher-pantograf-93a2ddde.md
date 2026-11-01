@@ -1,0 +1,54 @@
+---
+id: 1977-10-gutenmaher-pantograf-93a2ddde
+issue: kvant_1977_10
+year: 1977
+number: "10"
+title: 受电弓
+authors:
+  - Гутенмахер В. Л.
+rubric: smes
+page_first: 57
+page_last: 57
+page_labels: "55"
+tag: 1HFQ
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: b1f63d1ad53ad8e3d1db1c7c3b99f49a9b0cd94d9a8090328bc7239b9e0a26bf
+prompt_sha256: draft-1
+translated_from: content/ru/1977/10/articles/13_gutenmaher-pantograf-93a2ddde.md
+source_content_sha256: 5e3ccd2acb3cb429c5239f498eb2fdc6a80d32078a0332e12e47ac5cea3b8b7b
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 55⟧
+
+图 10.
+
+在该位移中反映了直线a(图8)、圆F、正方形ACDE、点A₁、角度KPT。
+
+6) 构建 图 9 中所示的圆形和条形图像。
+
+受电弓
+
+根据需要，在初始位置，点A、X和Y在同一条直线上就足够了。那么在任何其他位置，它们也将在同一条直线上，并且Y点的轨迹将是X点轨迹的起点。因此，如果一个具有X点的物体是某个图形的轮廓，那么Y点将画出一个相似图形的轮廓。
+
+显然，读者自己回答我朋友的问题，比较他的受电弓和教科书上的受电弓的稳定性，并回答测试题也不难。
+
+1. 如果 Y 点的轨迹与 X 点的轨迹相似
+   1°) a=5, b=3, c=10, d=6;
+   2°) a=3, b=5, c=10, d=6?
+
+在考察受电弓的工作原理时，自然会出现一个问题：它能画出多大尺寸的图形？
+
+2. 教科书图186中画的艺术家犯了一个小错误。找出艺术家的错误（字母放置正确吗？）。
+
+3. 如果 b=3, c=5，求 X 点的集合。
+
+4. 证明如果 b=5，c=3，则点 X 的集合与给定集合重合。
+
+开始研究受电弓的工作原理后，我们高兴地进行了询问，发现受电弓显然是早在1635年克里斯坦·沙伊纳（Christan Scheiner）在《Pantographia seu Ars delineandi res quaslibet》一书中就有描述的，而“受电弓”一词翻译过来就是“绘制一切”。
+
+V·古登马赫
