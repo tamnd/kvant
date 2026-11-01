@@ -1,0 +1,41 @@
+---
+id: 1980-6-mamikon-dve-zadachi-045db801
+issue: kvant_1980_6
+year: 1980
+number: "6"
+title: '[Two tasks]'
+authors:
+  - Мамикон М.
+rubric: smes
+page_first: 67
+page_last: 67
+tag: NM16
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: e45a56dfe07b8c0d4a58789feb69926b36a07cb20cecff8e95380416bfe6950c
+prompt_sha256: draft-1
+translated_from: content/ru/1980/06/articles/01_mamikon-dve-zadachi-045db801.md
+source_content_sha256: 83ae8572bf006bc774976ee7fd78213ce5e46c95ff963981b14450c0d79fc48d
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+1. TWO-POINT COIN. My daughter has a piggy bank, but I cut it up to collect only copper coins (so as not to go broke). One day I needed a two-kopeck coin on time to make a call, and I wanted to break the piggy bank.
+
+“Don’t do this unless you are sure that there is probably a two-kopeck coin in the piggy bank to ring, and I wanted to break the piggy bank.
+
+“You’re right,” I agreed and, as soon as I looked at the entry on the piggy bank, I broke it.
+
+How did I agree that there would probably be at least one two-kopeck coin in the piggy bank?
+
+2. LIGHT BULBS. Every day, every evening, firewood is taken from the barn. To light up the barn, you need to turn on the light for a short time. When you turn on the light, extra short circuit currents occur in the network, as a result of which the light bulb can overheat. When turning the light on and off every day, the average lifespan of a light bulb is a month.
+
+The electricity in the barn is free, therefore, in order to save light bulbs, the light in the barn can be left on at all. However, even then, due to random current fluctuations in the network, the light bulb burns out on average again within a month.
+
+Thus, in a variety of modes of using light in a barn, a light bulb fails on average within a month. How can you extend the average life of a light bulb and what is the maximum life?
+
+M. Mamikon

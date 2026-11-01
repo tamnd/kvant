@@ -1,0 +1,54 @@
+---
+id: 1980-5-gayduk-zabyitaya-teorema-sofizm-shutka-21eae21c
+issue: kvant_1980_5
+year: 1980
+number: "5"
+title: Forgotten theorem (sophistry-joke)
+authors:
+  - Гайдук Ю. М.
+rubric: smes
+page_first: 19
+page_last: 19
+page_labels: "17"
+tag: FS17
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: ab4b58bad4e5487e38ca89a258cdb6547427fc3f81c0c784a349aebd9d5d48ac
+prompt_sha256: draft-1
+translated_from: content/ru/1980/05/articles/06_gayduk-zabyitaya-teorema-sofizm-shutka-21eae21c.md
+source_content_sha256: f36fcd1197e6dde08a3af6f374030ac90f24ebc3bf2ce52d4daceeacec3ade51
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 17⟧
+
+establishing the permissibility of plastic deformations of high-explosive fragmentation shells when fired. This result was tested by shooting and led to the creation of new forms of strength, which already in 1943 made it possible to radically expand the production of shells from viscous steels without heat treatment and worn-out cast iron. The use of low-alloy steels for the manufacture of projectiles significantly reduced the cost and increased their production, which was especially important when working under evacuation conditions.
+
+When studying the stability of visco-plastic flows, the number of fragments and their size during slug rupture were determined, and based on these studies, proposals were made for the optimal design of slugs. For the first time in research practice, methods for modeling the production of aerial bombs into the ground and strength analysis were applied. These methods made it possible to solve defense technology problems at an accelerated pace. At the beginning of the war, a speed test method was proposed for the installation of ferroalloys for the tank industry. And in 1942, an approximation was given to determine the control angle of torpedo firing based on the rate of change of the plenum and a corresponding device was made.
+
+A complex mathematical problem on the stability of longitudinal-rotational movements of projectiles and the calculation and determination of the most advantageous criticality for cutting tableware was solved by Corresponding Member of the USSR Academy of Sciences N. G. Chetaev. He, together with Professor A. A. Kosmodemyasky and Professor N. D. Moiseev, solved an important practical problem about the stability of the aircraft when moving on the ground (this problem arose during the frequent relocation of aircraft to new undeveloped airfields). It is clear what exceptional importance the traffic police time service had during the war years, ensuring the transmission of accurate radio time signals for the needs of the front. Professor N.D. Moiseev, who led this service, made a significant contribution to its uninterrupted work. Academician A. Yu. Ishlinsky, Corresponding Member of the USSR Academy of Sciences B. V. Bulgakov and Professor Ya. N. Roitenberg carried out a lot of theoretical and practical work to improve and increase the accuracy of marine gyroscopic devices and artillery fire control devices on ships of the USSR Navy.
+
+Professor M.A. Kreines took an active part in solving the problem of choosing regular complex gear schemes for tank control mechanisms.
+
+Not all defense-related work that was successfully carried out by faculty scientists is listed here. This work by students of the Faculty of Mechanics and Mathematics was awarded by many governments and State Prizes of the USSR.
+
+Forgotten Theorem
+
+(sophistry-joke)
+
+Here is a “theorem” forgotten by the authors of geometry textbooks:
+
+Through any n points you can draw a straight lily (n is an arbitrary natural number).
+
+Let us prove this theorem using the method of mathematical induction.
+
+For n=1 and n=2 the theorem is valid (due to the well-known axiom of geometry). It remains to prove the theorem for large values ​​of n.
+
+Let us assume that the theorem is valid for some n=k, and show that in this case it will remain valid for n=k+1.
+
+So, let there be arbitrary k+1 points M1, M2,..., Mk, Mk+1. By virtue of the induction hypothesis, some line l passes through k points M1, M2,..., Mk. By virtue of the same assumption, some line l' also passes through k points M2,..., Mk, Mk+1. These two straight lines have at least two common points M2 and Mk. But two points define a single straight line. The values ​​l and l' must therefore coincide. Consequently, the line l passing through the points M1, M2,..., Mk also passes through the points Mk+1 - and the theorem is proven.
+
+Yu. Gaiduk

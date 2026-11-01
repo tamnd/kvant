@@ -1,0 +1,112 @@
+---
+id: 1980-5-olhov-kak-pridumat-geometricheskoe-neravenstvo-01b1ff97
+issue: kvant_1980_5
+year: 1980
+number: "5"
+title: How to come up with a geometric inequality
+authors:
+  - Ольхов В. Е.
+rubric: matematicheskiy-kruzhok
+rubric_sub: Математический кружок
+page_first: 35
+page_last: 35
+page_labels: "33"
+tag: UD32
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: f1717b9b7c6811d75613e8af66e786efe9872bf15d4f0e7bc8e3808f05ceb9bb
+prompt_sha256: draft-1
+translated_from: content/ru/1980/05/articles/11_olhov-kak-pridumat-geometricheskoe-neravenstvo-01b1ff97.md
+source_content_sha256: dc29ea4db9f6d51ee1e554b5610177c9ac8eb13add776e86b1db4d7cbde42fdf
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 33⟧
+
+How to come up with a geometric inequality
+
+“Coming up with a new, original problem - making a small independent “discovery”, please, is even more difficult than solving someone else’s ready-made one.” These words appear in the preface to the Assignment «Kvant» in the first issue of the magazine. Many guys ask: how can you come up with a problem yourself?
+
+I'll tell you how I once came up with several geometric inequalities.
+
+I started by proving two well-known inequalities:
+
+$$a^4 + b^4 + c^4 \geqslant 16S^2,$$
+$$a^2 b^2 + a^2 c^2 + b^2 c^2 \geqslant 16S^2,$$
+
+in which $a, b, c$ are the lengths of the sides of the triangle, and $S$ is its area. I proved them like this.
+
+By writing the formula for the area of ​​a triangle
+
+$$S = \frac{1}{2} ab \sin \gamma$$
+
+and the cosine theorem
+
+$$c^2 = a^2 + b^2 - 2ab \cos \gamma,$$
+
+I found sine and cosine
+
+$$\sin \gamma = \frac{2S}{ab},$$
+$$\cos \gamma = \frac{a^2 + b^2 - c^2}{2ab}$$
+
+and substituted their values ​​into the trigonometric identity $$\sin^2 \gamma + \cos^2 \gamma = 1.$$ It turned out
+
+$$\frac{4S^2}{a^2 b^2} + \frac{a^4 + b^4 + c^4 + 2a^2 b^2 - 2a^2 c^2 - 2b^2 c^2}{4a^2 b^2} = 1,$$
+
+or
+
+$$16S^2 = 2(a^2 b^2 + a^2 c^2 + b^2 c^2) - a^4 - b^4 - c^4.$$
+
+Hence, use the algebraic inequality (prove it)
+
+$$a^4 + b^4 + c^4 \geqslant a^2 b^2 + a^2 c^2 + b^2 c^2,$$
+(5)
+
+I got inequalities (1) and (2).
+
+After thinking a little, I decided to try to use another trigonometric identity. Instead of $$\sin^2 \gamma + \cos^2 \gamma = 1$$ I wrote
+
+$$\sqrt{3} \sin \gamma + \cos \gamma = 2 \sin (\gamma + 30^\circ),$$
+$$\sqrt{3} \sin \gamma + \cos \gamma \leqslant 2,$$
+
+substituted correspondences (3) and (4) into the last inequality and after transformation received
+
+$$c^2 - a^2 - b^2 + 4ab \geqslant 4\sqrt{3} S.$$
+
+Noticing that the lengths $a, b, c$ are included in (6) “non-ismetrically”, I wrote two more versions of this inequality
+
+$$a^2 - b^2 - c^2 + 4bc \geqslant 4\sqrt{3} S,$$
+$$b^2 - a^2 - c^2 + 4ac \geqslant 4\sqrt{3} S.$$
+
+and adding them up I got
+
+$$(4ab + ac + bc) - (a^2 + b^2 + c^2) \geqslant 12\sqrt{3} S.$$
+
+Looking at (7), I decided to use the inequality
+
+$$a^2 + b^2 + c^2 \geqslant ab + ac + bc$$
+
+and obtained, as in the proof of (1) and (2), two red (but, unfortunately, quite well known!) inequalities
+
+$$a^2 + b^2 + c^2 \geqslant 4\sqrt{3} S,$$
+$$ab + bc + ca \geqslant 4\sqrt{3} S.$$
+
+After this, it was already clear to me how many more geometric inequalities could be obtained.
+
+Urazhenya
+
+1. Prove the inequality
+$$2ab + 2bc - b^2 \geqslant 4\sqrt{3} S$$
+Find out when it turns into equality.
+
+2. Prove that for an equilateral triangle inequality (7) becomes an equality. Is the opposite true?
+
+3. Apply the trigonometric inequality $$\sin^2 \gamma + \cos^2 \gamma \leqslant \sqrt{2},$$ and prove that
+
+$$c^2 - a^2 - b^2 + 2\sqrt{2}ab \geqslant 4S,$$
+$$\sqrt{2}(ab + bc) - b^2 \geqslant 4S,$$
+
+and examine when they turn into equalities

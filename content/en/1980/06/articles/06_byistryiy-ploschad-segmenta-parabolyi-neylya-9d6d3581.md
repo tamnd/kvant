@@ -1,0 +1,80 @@
+---
+id: 1980-6-byistryiy-ploschad-segmenta-parabolyi-neylya-9d6d3581
+issue: kvant_1980_6
+year: 1980
+number: "6"
+title: Area of ​​a segment of a Neil parabola
+authors:
+  - Быстрый И. М.
+rubric: osnovnye-stati
+page_first: 16
+page_last: 16
+page_labels: "14"
+tag: V8LA
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 4fe29fd826617e8ecc818e9b40b8ab16d032efde1cfd2349a48833129e2e2ee6
+prompt_sha256: draft-1
+translated_from: content/ru/1980/06/articles/06_byistryiy-ploschad-segmenta-parabolyi-neylya-9d6d3581.md
+source_content_sha256: d7766c52de411272b9a32de330b210da952b0d2cf323b56066e07a255e035116
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 14⟧
+
+I. Bystry
+
+Area of ​​a segment of a Neil parabola
+
+In 1657, a twenty-year-old student at Oxford University, William Neil (1637–1670), found the arc length of a "semicubic parabola" $y = a^3\sqrt{x^2}$. This discovery allows contemporaries, and in memory of the talented mathematician who died early, the semi-cubic parabola is called the Neil parabola.
+
+Nowadays, Neil's parabola can be found not only in a university analysis course, but also in a school textbook *). And recently, at a lecture for applicants, I received the following note:
+
+How to find the area of ​​a figure orangiated by curve $y = 3\sqrt{x^2}$ and tangent to it at point $x = -8$?
+
+This is what I answered then.
+
+This task, despite its simplicity, is associated with identifying difficulties.
+
+The first difficulty arose in finding the tangent to the Neil parabola
+
+$$f_1(x) = 3\sqrt{x^2}$$
+
+at point $x = -8$. As is known, the tangent equation is determined by the formula
+
+$$y - f_1(-8) = f'_1(-8)(x + 8).$$
+
+Here
+
+$$f_1(-8) = 12,$$
+
+*) “Algebra and principles of analysis 9”, problems 438, 4746, “Algebra and principles of analysis 10”, problem 393a.
+
+$$f'_1(-8) = 3\left(\frac{2}{3}\right)' \mid_{x = -8} = -3 \cdot \frac{2}{3}x^{-1} \mid_{x = -8} = 2 \cdot (-8)^{-1/3}.$$
+
+This means that the derivative does not exist (since the expression $(-8)^{-1/3}$ does not make sense), therefore, the tangent to curve (1) does not exist either.
+
+Meanwhile, from the drawing it is clear that the choice is incorrect: the straight line $(AB)$ is a tangent! What's the matter? How to find the slope of a tangent? The point is that the formula
+
+$$(\sqrt[n]{x^m})' = \left(x^{\frac{m}{n}}\right)' = \frac{m}{n}x^{\frac{m}{n}-1},$$
+
+true for $x \geq 0$, does not apply here. To calculate the derivative (at $x < 0$), you should use the formula
+
+$$(\sqrt[n]{x^m})' = \frac{m}{n}\frac{\sqrt[n]{x^m}}{x},$$
+
+$x \neq 0, n \in \mathbb{N}, m \in \mathbb{Z},$
+
+(which, of course, also applies to positive $x$). In accordance with it we have
+
+$$f'_1(-8) = (3\sqrt{x^2})' \mid_{x = -8} = -3 \cdot \frac{2}{3}\frac{\sqrt[n]{(-8)^2}}{(-8)} = -1.$$
+
+Substituting $f_1(-8) = 12$ and $f'_1(-8) = -1$ into equality (2), we obtain the desired tangent equation:
+
+$$y = 4 - x.$$
+
+Exercise 1. Find the intersection points of lines $f_1(x) = 3\sqrt{x^2}$ and $f_2(x) = 4 - x$.
+
+Now that the abscissa of the point $B$ is known, it is easy to find the area of ​​the curve of the linear triangle AOB. How

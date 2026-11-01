@@ -1,0 +1,72 @@
+---
+id: 1980-5-shterenberg-zamechatelnyie-treugolniki-0b20100b
+issue: kvant_1980_5
+year: 1980
+number: "5"
+title: Wonderful Triangles
+authors:
+  - Штеренберг М.
+rubric: smes
+page_first: 33
+page_last: 33
+page_labels: "31"
+tag: V214
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 6b2c9a28e5fd57a8c95f59fe6cd5f3b6d28e444f2974853b6d1584cfb25b3bff
+prompt_sha256: draft-1
+translated_from: content/ru/1980/05/articles/09_shterenberg-zamechatelnyie-treugolniki-0b20100b.md
+source_content_sha256: a8de099d0e0978085215913a90b2c7982511eefc32196ca9af30888847f7513b
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 31⟧
+
+When the rear tire goes flat at high speed, it is very difficult to control the car.
+
+The following fact is also interesting. From the above messages it is clear that to improve the stability of the automatic, it is desirable that the center of gravity be located as close as possible to the front axle (that is, it is necessary that the condition $k_1 a < k_2 b$ be satisfied; if $k_1 \approx k_2$, then the smaller the ratio $a/b$, the better).
+
+In an automatic transmission with a rear-mounted engine, this condition is not met. (The engine is very heavy, and the automatic’s center of gravity “mixes” towards the engine.) For such automatics, this disadvantage is compensated by lowering the pressure in the front tires (this reduces $k_1$).
+
+At one time, for a Fiat small automatic with a rear-mounted engine, it was proposed to set the pressure in the front tires three times higher than in the rear. But even under such conditions, the automatic vehicle had a critical speed of 40 km/h and its operation was practically impossible.
+
+On cargo trucks, stability worsens when they are heavily loaded, since in this case the center of gravity moves back and the mass $m$ of the truck increases. This decrease in stability is compensated by the fact that most trucks have double rear tires, and this doubles the resistance to rear axle slip.
+
+For those trucks that have the same rear wheels as the front (such trucks also exist), the situation with stability when fully loaded is worse. Such automatic vehicles have to carefully monitor the pressure in the rear tires. A further slight decrease in pressure can in this case lead to instability.
+
+Wonderful Triangles
+
+1. Consider a triangle similar to Pascal's triangle (Fig. 1). The first three units are specified in it, and each subsequent number is obtained by summing those standing above, which together with the desired one form a parallelogram (for numbers located on the sides of the triangle, the parallelogram degenerates into a segment).
+
+Let us denote by $a_{ij}$ the element of the $i$th row of this triangle, the $j$th element from the beginning of the line.
+
+a) Prove the formulas:
+$$a_{n1} = 2^{n-2}, \text{ где } n \geq 2;$$
+$$a_{n2} = n \cdot 2^{n-3}, \text{ где } n \geq 2;$$
+$$a_{n3} = 2^{n-5}(n^2 + n - 4),$$
+$$\text{ где } n \geq 3.$$
+
+b) Derive a recurrence relation connecting the element $a_{nk}$ with its predecessors whose second index is less than $k$.
+
+b) Derive formulas for calculating $a_{n4}$ and $a_{n5}$.
+
+2. Let us now write together the numbers that form the triangle.
+
+Fig. 1
+
+Fig. 2.
+
+square at figure 1, their last digits. We will obtain the number triangle shown in figure 2. Prove that this triangle has the following remarkable properties:
+
+1°. The triangle can be divided into rhombuses $5 \times 5$ heels of various types (not counting the upper rhombus), in which in the upper corner and, accordingly, on the lower sides of this figure are 0, 2, 4, 6 or 8 (see Fig. 2).
+
+2°. If you put together each rhombus a number in its lower corner, you get a numerical triangle, a width different from that given in the first three lines.
+
+3°. Each diamond either has all its digits as zeros, or has an equal number of zeros located on its longest line in second and fourth places.
+
+4°. The number in the center of any rhombus is equal to each of the two numbers located adjacent to it below the line.
+
+M. Shterebere (Saratov)

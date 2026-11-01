@@ -1,0 +1,64 @@
+---
+id: 1980-3-o-polupustoe-ravno-polupolnomu-57389431
+issue: kvant_1980_3
+year: 1980
+number: "3"
+title: Half empty equals half full
+authors:
+  - О. М.
+rubric: smes
+page_first: 42
+page_last: 42
+page_labels: "40"
+tag: 3OUX
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 6f1ad9ebcd6ae37e7126203a67445948b39b4f6915976f89269205ba060bf802
+prompt_sha256: draft-1
+translated_from: content/ru/1980/03/articles/13_o-polupustoe-ravno-polupolnomu-57389431.md
+source_content_sha256: a61d56dbfdbb766bf51717d708981e813e2e89ed078c018634891d37f2e8713f
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 40⟧
+
+Walked to achieve the goal. It is “almost” very clear that the task cannot be completed in less than 22 moves, but this must be proven.
+
+Example 3: The move indicated at figure 6 can be completed in 13 moves.
+
+Let's indicate one of the possible options:
+
+1. a2—c2;
+2. a1—c1—c3;
+3. b1—b3—d3;
+4. b2—d2—d4;
+5. c2—c4—e4, etc.
+
+In this case, as in the previous ones, we sequentially went through the same physical configurations. In the next task this will no longer happen.
+
+Task 4. Can the move indicated at figure 7 be completed in less than 18 moves?
+
+If you sequentially shuffle the entire fiche configuration as a whole, it will take 18 moves. We recommend that you first arrange all eight phische on a large diagonal, and then use the educational chain as a place to process the phische.
+
+Task 5. Solve the previous problem in less than 300 moves, if given a board of size 100x100, and the initial position of the eight pieces relative to the lower left corner of this board remains the same.
+
+Here are two more tasks that look almost identical, but require different techniques to achieve their goals.
+
+Task 6. In no more than 20 moves, move three fish squares a1, b1, c1 to squares f6 g6, h6.
+
+Task 7. In no more than 20 moves, move three fish fields a1, a2, b1 to fields g8, h7, h8.
+
+Half empty equals half full
+
+(letter to the editor)
+
+In «Kvant» No. 9, 1979, p. 34 there is a problem: given two containers: 3 liters and 5 liters - and a milk tank; How do you pour 4 liters?
+
+Our reader from Ulan-Ude, student Valya Korshunova, sent us a letter:
+
+“The problem solved there can be solved many times easier. To do this, we need to remember another problem: “There is a full barrel of water. How to pour from the uneven half?” In this case, the problem is solved in a similar way: each container must be drained evenly (see figure). As a result, $\frac{5}{2} + \frac{3}{2} = 4$ liters remain!”
+
+Note that Valino’s beautiful solution is suitable only in the case when the “containers” referred to in the conditions of the task have a certain shape, for example, the shape of a cylinder (this is exactly what happened in the figures in «Kvant»)).

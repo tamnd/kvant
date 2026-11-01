@@ -1,0 +1,67 @@
+---
+id: 1980-6-perevalov-chto-znachit-znat-1541c17e
+issue: kvant_1980_6
+year: 1980
+number: "6"
+title: What does it mean to “know”?
+authors:
+  - Перевалов Г. Е.
+rubric: praktikum-abiturienta
+rubric_sub: Практикум абитуриента
+page_first: 37
+page_last: 37
+page_labels: "35"
+tag: 457W
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 1dd350029332ea838908defdce88259081a9d4bb85db13d79dc3bfb7f7ef4fad
+prompt_sha256: draft-1
+translated_from: content/ru/1980/06/articles/14_perevalov-chto-znachit-znat-1541c17e.md
+source_content_sha256: 00d8efdd46303b1fa79846a888c3d91512039802131b4714549637ef00b70549
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 35⟧
+
+$x = a_3$ function $f$ has a discontinuity. With $x$ tending to $a_4$, the function $f$ also has a limit: $\lim_{x \to a_4} f(x) = b_4$, and $b_4 = f(a_4)$. At the point $a_4$ the function $f$ is said to be continuous. There is a limit of the function $f$ and with $x$ tending to $a_5$: $\lim_{x \to a_5} f(x) = b_5$, although the function $f$ is not defined at this point, $a_5 \notin D(f)$.
+
+Here's roughly everything you need to know about determining the limit of a function.
+
+Now we can answer the question - what does it mean to know the definition. Knowing a definition means not only being able to formulate it correctly, but also being able to illustrate it with figure or an example, show it in work, and apply it in practice. It is with this “measure” that examiners at entrance exams approach knowledge of the definition.
+
+What does it mean to know the theorem? First of all, you need to formulate it correctly. Next: you need to know the meaning of all the terms found in the formulation of the theorem, be able to clarify and define them. After all, before you prove a theorem about the properties of some mathematical object, you must, of course, understand that it is an object. For example, it is impossible to prove a theorem about an arbitrary sum of two functions without knowing the definition of an arbitrary one.
+
+It is also very useful to be able to give an example that verifies a statement derived from the theorem from
+
+Fig. 4.
+
+by throwing away any of its conditions.
+
+Exercise 1. Refute theorems:
+a) if the sequence is monotonous, then it has a limit;
+b) if the sequence is bounded, then it has a limit*).
+
+Theorems containing necessary and sufficient conditions must be able to be divided into two: so that one expresses the necessity of the condition, and the other expresses its sufficiency.
+
+Exercise 2. Perform this operation with the following theorem**): a function is invertible if and only if it takes each of its values ​​only once.
+
+*) See Weierstrass’s theorem (“Algebra and principles of analysis” 9), paragraph 31).
+**) “Algebra and the beginnings of analysis” 10,” p. 170.
+
+About Diophantine analysis
+
+(For the beginning, see p. 16)
+
+It is easy to say that in the equation $x^2 - 2y^2 = 1$ the number $x$ is odd, $x \ge 3$. Let $x = 2n + 1$ ($n \ge 1$). Then $2n(n + 1) = y^2$, which means that $y$ is an even number. Let's put $y = 2m$ ($m \ge 1$ because $y \ge 2$). Let us put $n(n + 1) = 2m^2$, that is, an equation of the form $T_n = K_m$. This means that the equation $T_n = K_m$ has an infinite number of solutions, since each solution $(x; y)$ of the equation $x^2 - 2y^2 = 1$ (and there is an infinite number of them) generates a solution to the equation $T_n = K_m$, we obtain from the formulas $n = \frac{x - 1}{2}$, $m = \frac{y}{2}$.
+
+Problem 5. Prove that solutions (in natural numbers) of the equation $T_n = K_m$ can be described in the following two ways:
+
+a) $n_{k+1} = 3n_k + 4m_k + 1$,
+$m_{k+1} = 2n_k + 3m_k + 1$,
+$n_1 = 1$, $m_1 = 1$;
+b) $n_{k+2} = 6n_{k+1} - n_k$,
+$m_{k+2} = 6m_{k+1} - m_k$,
+$n_1 = 1$, $n_2 = 8$, $m_1 = 1$, $m_2 = 6$.

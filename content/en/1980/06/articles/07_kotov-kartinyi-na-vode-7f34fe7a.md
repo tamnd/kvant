@@ -1,0 +1,57 @@
+---
+id: 1980-6-kotov-kartinyi-na-vode-7f34fe7a
+issue: kvant_1980_6
+year: 1980
+number: "6"
+title: Paintings on the water
+authors:
+  - Котов Ю. В.
+rubric: raznoe
+rubric_sub: Разное
+page_first: 17
+page_last: 17
+page_labels: "15"
+tag: 4TT9
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: fde765a10b55661c5c0004bd57d29697b33a018befcef148bc8aadf6676efc91
+prompt_sha256: draft-1
+translated_from: content/ru/1980/06/articles/07_kotov-kartinyi-na-vode-7f34fe7a.md
+source_content_sha256: 476f5a5baaa41904298d92150fded7bf7f26993a58746f69882d9a3cf72a7c60
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 15⟧
+
+It is known that this can be done using the formula
+$$S = \int_{x_A}^{x_B} [f_2(x) - f_1(x)] dx.$$
+We have
+$$S = \int_{-8}^{1} (4 - x - 3\sqrt[3]{x^2}) dx = \int_{-8}^{1} (4 - x) dx - 3\int_{-8}^{1} \sqrt[3]{x^2} dx. \quad (3)$$
+Calculating the first integral of the lower does not cause any difficulties:
+$$\int_{-8}^{1} (4 - x) dx = 4x - \frac{x^2}{2} \bigg|_{-8}^{1} = 67,5 \left(e d\right)^2. \quad (4)$$
+But calculating the second integral unexpectedly leads to the conclusion:
+$$3\int_{-8}^{1} \sqrt[3]{x^2} dx = 3\int_{-8}^{1} x^{\frac{2}{3}} dx = \frac{9}{5} x^{\frac{3}{2}} \bigg|_{-8}^{1} = 59,4 \left(e d\right)^2. \quad (5)$$
+Substituting results (4) and (5) into equality (3), we obtain
+$$S = 67,5 - 59,4 = 8,1.$$
+Urazhenya
+2. Write formula (*) in terms of a power function.
+3. Write formula (**) in terms of a power function.
+4. Calculate the area of ​​a figure bounded by lines
+$$y = 2\sqrt[4]{x^2}, y = 0,4x + 2,4.$$
+— the integral does not exist, since the expression $(-8)^{\frac{5}{3}}$ makes no sense!
+
+*) If $m < 0$, then you need to additionally require that $x \neq 0$.
+
+Our cover
+
+Paintings on the water
+You can “draw” the picture that we reproduced on the first page of the cover yourself in a few minutes.
+Pour water into a photographic book or some other vessel; in separate small containers, dilute small quantities of artistic oil paint of several colors in gasoline or turpentine (keep this away from fire and electronic devices). Then carefully drip this paint onto the surface of the water. The drops begin to spread, forming a curious floating figure on the surface. This figure can be changed by carefully placing it with a stick by blowing on it.
+Carefully beat the corners of a thick sheet of paper (drawing paper) and place it flat on the surface of the water for a second. The paint layer will be absorbed into the paper. Now remove the sheet, turn it over and leave it to dry. The picture is ready.
+The behavior of drops on the surface of the water depends on the concentration of paint in the solvent, on the sequence in which and with what interval the drops fall onto the water, and on the type of paint. The first drops, as a rule, quickly spread over the entire surface of the water. If you wait a minute for the solvent to evaporate from the surface, and then drop new paint onto the resulting film, then new drops can break the film into separate “ice pieces” scattering in different directions.
+The main role in all these phenomena is played, very clearly, by surface tension.
+
+Yu. Kotov
