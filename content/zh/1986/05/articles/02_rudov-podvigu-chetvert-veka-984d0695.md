@@ -1,0 +1,60 @@
+---
+id: 1986-5-rudov-podvigu-chetvert-veka-984d0695
+issue: kvant_1986_5
+year: 1986
+number: "5"
+title: 这一壮举已有四分之一个世纪的历史
+authors:
+  - Рудов В. А.
+rubric: smes
+page_first: 68
+page_last: 68
+tag: 76Q0
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 52975842af67397f50e9caf154c1f4bef5f05cc3b5fe936b73461d0c0f588e79
+prompt_sha256: draft-1
+translated_from: content/ru/1986/05/articles/02_rudov-podvigu-chetvert-veka-984d0695.md
+source_content_sha256: 7fcf13df60c74c9a400411e4f93e291c3db425fe61933d0c5548720d1249bc8c
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+价格40戈比。
+指数70465
+
+移动——四分之一个世纪
+
+1986 年 4 月 12 日是尤里·加扎林 (Yuri Gazarin) 太空飞行 25 周年纪念日。这些年来，来自不同国家的专门纪念这一杰出活动的邮票和邮局的流动并没有减弱。其中一些没有在我们的杂志上转载，我们在本期发表。
+
+V·鲁多夫
+
+增长的魔力
+1984
+波蒂亚德
+1934·10.A·加拉林·1968
+到 15
+
+VOSTOK
+CUBA
+1
+CORREOS
+1983
+
+蒙古航空邮件蒙古舒丹
+60¢
+BORIS VOSTOK 1984·1961-FIRST SOVIET MAN IN SPACE GUARANTEE
+
+CUBA correos 1981
+苏联
+2
+IX ANNIV. DEL PRINCIPIO HOMBRE
+EN EL ESPAÑICO CORRIMCO
+
+REPÚBLICA DEMOGRÁTICA DE SÃO TOMÉ E PRÍNCIPE
+SÃO TOMÉ E PRÍNCIPE
+60º ANIV. DA REVOLUÇÃO DE OUTUBRO 1917

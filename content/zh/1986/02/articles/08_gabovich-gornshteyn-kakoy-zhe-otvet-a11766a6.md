@@ -1,0 +1,55 @@
+---
+id: 1986-2-gabovich-gornshteyn-kakoy-zhe-otvet-a11766a6
+issue: kvant_1986_2
+year: 1986
+number: "2"
+title: 答案是什么？
+authors:
+  - Габович И. Г.
+  - Горнштейн П. И.
+rubric: shkola-v-kvante
+page_first: 28
+page_last: 28
+page_labels: "26"
+tag: AFQ8
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: b7508472de2e6cd80490d80dfab35523479a6da7b420b61f34228204ed92f7cd
+prompt_sha256: draft-1
+translated_from: content/ru/1986/02/articles/08_gabovich-gornshteyn-kakoy-zhe-otvet-a11766a6.md
+source_content_sha256: 9683c52e98c0f5a3477d6106c4ca9f0bd48cae1d91a8c256b2dfbcaf80a9c713
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 26⟧
+
+答案是什么？
+
+写这篇笔记的原因是为了完成以下任务：
+当 p 为多少时，方程
+$$\lg(x^2+2px)-\lg(8x-6p-3)=0$$
+有一个根吗？
+
+这个问题是在白俄罗斯技术学院数学入学考试中提出的。 S. M. Kirov 曾一度被收入问题集，该集于 1983 年出版第二版 *)。该集合提供了一个不完整的解决方案 - 仅考虑了一种可能的情况。
+
+为了了解这里发生的情况，我们首先看一个具有完全相同公式的更简单的示例，其中，画完图后，您可以立即看到所有内容。
+
+这是这个例子：
+当 p 为多少时，方程
+$$\frac{\lg px}{\lg(x+1)}=2$$
+有一个根吗？
+
+解决方案。该方程等效于系统
+$$\begin{cases} px>0, \\ x>-1, \\ px=(x+1)^2, \\ x>-1, \\ x^2+(2-p)x+1=0. \end{cases}$$
+第一个案例。二次方程有一个根 (图 1)。
+
+在这种情况下，方程的判别式为零，即 $(2-p)^2=4$，因此 p=0 且 p=4。由于 p=0 不适合我们，所以我们剩下 p=4。对于 p=4，有一个根 x=1。
+
+第二个案例。二次方程有两个根，较大的根落入 ODZ，较小的根则不落入 ODZ。
+
+因此，如果 $x_1$ 和 $x_2$ ($x_1<x_2$) 是二次方程的根，则必定存在 $x_2>-1$ 和 $x_1\leq-1$（参见 图 2, a, b）。这个条件等价于函数$f(x)=x^2+(2-p)x+1$必须有$f(-1)\leq0$。从这里我们发现p≤0。由于px>0，p=0是不合适的。因此，答案是
+
+*) E. A. 奥斯特洛夫斯基、I. M. Angileiko、P. V. Atrashonok、R. V. Kozlova。高考数学作业。明斯克：高等学校，c。 15.

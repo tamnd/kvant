@@ -1,0 +1,47 @@
+---
+id: 1985-12-zadachi-dlya-issledovaniya-9efc0ea4
+issue: kvant_1985_12
+year: 1985
+number: "12"
+title: 研究目标
+rubric: smes
+page_first: 47
+page_last: 47
+page_labels: "45"
+tag: 7TDW
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: f3894715cfae721423a0ad5243e0cec298196088142b500174b48dd016cee149
+prompt_sha256: draft-1
+translated_from: content/ru/1985/12/articles/12_zadachi-dlya-issledovaniya-9efc0ea4.md
+source_content_sha256: b4994de56b56fb7ac1e1ce133e7fa129896dec34dddd1f8f392ffeb4be275385
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 45⟧
+
+事实证明，其对比度比反射光低得多。
+
+练习
+
+1. 两个不同强度$I_1$和$I_2=4I_1$的相干波干涉时，所得强度$I$的极限是多少？
+
+2. 为了增加杨氏实验中干涉图案的强度，彼此平行的长狭缝与第一和第二屏幕中负责的狭缝一起使用。解释为什么这不会导致水表面苯津干涉膜和反射白光下肥皂膜的清晰度下降。为什么薄膜必须非常薄？为什么这些电影实际上是无线传输的？
+
+任务
+用于研究
+
+格子交叉点
+
+让我们在坐标平面 $Oxy$（晶格节点）上用整数坐标标记点。让我们在这个平面上放置一张厚纸，并在其上交叉节点格（以不同的颜色）。现在让我们围绕点 $O=(0;0)$ 以某些角度 $\alpha$ 旋转第二个晶格，以满足条件：晶格表面的非八角节点（不同于 $O$）与原始晶格表面的节点重合。
+
+例如，在 图 1 处，黑色格子的节点 (1; 3) 与蓝色格子的节点 (-1; 3) 重合。同时，许多其他节点重合 - 它们被标记为红色，并且两个格子本身的交集结果是一个更大的格子（在 A. L. Petelin 和 A. I. Fedoseev 的文章中，它被称为“重合节点的格子”，简称 RSU），也就是说，如果 $\overrightarrow{OM}=k\overrightarrow{p}+l\overrightarrow{q}$，则节点 $M$ 属于两个格子，其中 $k$ 和$l$ - 任何整数，$\overrightarrow{p}=(2;1)$和$\overrightarrow{q}=(-1;2)$是基向量》（红色格子的方形单元的边）。
+
+图 1.
+
+图 2.
+
+我们强烈建议在任意薄片上制作两个相同的节点格子（按照 图 2 的示例），将它们放置在彼此之上，并隐藏在红色“几乎周期性”图案后面，当一张薄片相对于另一张薄片任意位移时，这些图案会意外地相互爬入。尝试理解为什么会出现新的模式，它们在什么意义上是周期性的，它们如何相互重新排列，总之，尝试为这些现象创建一个小的“数学理论”。

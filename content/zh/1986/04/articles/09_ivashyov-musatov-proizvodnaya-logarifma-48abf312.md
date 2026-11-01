@@ -1,0 +1,74 @@
+---
+id: 1986-4-ivashyov-musatov-proizvodnaya-logarifma-48abf312
+issue: kvant_1986_4
+year: 1986
+number: "4"
+title: 对数的导数
+authors:
+  - Ивашёв-Мусатов О. С.
+rubric: shkola-v-kvante
+page_first: 27
+page_last: 27
+page_labels: "25"
+tag: IF1X
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: bf2d1e4d8127650303c158e21124a1a4b963c3e04de1d0ac91c29123b70ff53d
+prompt_sha256: draft-1
+translated_from: content/ru/1986/04/articles/09_ivashyov-musatov-proizvodnaya-logarifma-48abf312.md
+source_content_sha256: 51dda46a3886ffe83db080d598dbc62de9c184d7f7ef1b9d50dfcc1e786728f1
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 25⟧
+
+数学10
+本笔记适用于十年级学生。它概述了有关数字 e 的一些有用事实。
+
+对数的导数
+
+在教科书“代数和分析的开始 9-10”中，第 10 页。 208导出任意对数函数的公式。该公式是利用任意反函数的定理和任意指数函数的公式获得的。在本文中，我们将获得任意对数非总统函数的公式 - 找到相应的极限。
+
+不，我们将首先定义
+数字 e
+
+考虑函数 y = $\frac{1}{x}$ 的曲线图，线段 [1; t] 轴 Ox 和直线 x=1, x=t (图 1)。这个曲线梯度的面积是 t 的函数——我们用 S(t) 表示它。该函数作用于区间 [1; ∞] 返回并且是连续的。
+
+函数S(t)连续性的证明隐含在教科书《代数与分析入门9-10》第59段中：它表明函数S(t)是可微的；每个可微函数都是连续的。否则，S(t)的连续性可以直接从连续函数的定义推导出来。试试这个。
+
+由于 S(2)<1 (图 2)，并且 S(4)>1 (图 3; $\frac{1}{2} + \frac{1}{3} + \frac{1}{4} > 1$)，因此在数字 2 和 4 之间有一个数字 - 用字母 e 表示，因此 S(e)=1。
+
+我们。教科书《代数与分析入门9-10》的200中对数字e的定义不同。可以证明这两个定义是等价的。
+
+由于 e>0 且不同于 1，因此可以定义以 e 为底的对数。这些对数称为自然对数，用ln表示，即ln a=log_e a。由于 e>1，
+
+区间 ]0 上的函数 y=ln x； ∞[ 返回。
+
+两个重要的不等式
+
+现在让我们证明对于任何自然数 n，以下不等式成立：
+
+$$\left(1 + \frac{1}{n}\right)^n < e < \left(1 + \frac{1}{n}\right)^{n+1}. \quad (1)$$
+
+由不等式(1)可知
+
+$$\lim_{n \to \infty} \left(1 + \frac{1}{n}\right)^n = e$$
+
+（这就是大学数学分析课程中如何确定数字 e）。
+
+事实上，让我们取任何数字 ε>0 并设置 N=[$\frac{e}{\epsilon}$]。那么对于任何自然数 n>N，以下不等式成立：
+
+$$n > \frac{e}{\epsilon} \quad \text{и}$$
+
+$$\left| \left(1 + \frac{1}{n}\right)^n - e \right| = e - \left(1 + \frac{1}{n}\right)^n < \left(1 + \frac{1}{n}\right)^{n+1} - \left(1 + \frac{1}{n}\right)^n = \left(1 + \frac{1}{n}\right)^n \left(1 + \frac{1}{n} - 1\right) < \frac{e}{n} < \epsilon.$$
+
+让我们固定任何自然数 n，设置 q=1+$\frac{1}{n}$ 并dis-
+
+图 1.
+
+图 2.
+
+图 3.

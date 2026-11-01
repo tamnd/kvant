@@ -1,0 +1,56 @@
+---
+id: 1986-2-zadachi-aa4566de
+issue: kvant_1986_2
+year: 1986
+number: "2"
+title: 任务
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 31
+page_last: 31
+page_labels: "29"
+tag: THZM
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 1b03e7a3e699995ed811c9568f11863ed15b014fc98ee540c052682bec6a94e3
+prompt_sha256: draft-1
+translated_from: content/ru/1986/02/articles/11_zadachi-aa4566de.md
+source_content_sha256: 61a6dcf6a8f8767cecf869d1385a0e1746f9593e9c9d823212957a919f6a2b56
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 29⟧
+
+任务
+
+1. 今年我发布了我的生日。我的岁月在很多方面都是令人瞩目的。
+
+如果你从这个数字中减去2，那么它会被3除，如果你从中减去3，那么它会被2除。
+
+如果加上 4，则会除以 5；如果减去 5，则会除以 4。
+
+如果从中减去 5，则将除以 6，如果减去 6，则将除以 5。
+
+如果你加7，它会除以8，如果你加8，它会除以7。
+
+我现在几岁了？
+
+2. 将字母替换为数字，以使两个等式都成立：
+
+(OH)3=VANYA, V+A+N+I=OH
+（相同的字母应具有相同的数字，不同的字母应具有不同的数字）。
+
+3. 我们看到的烟雾是未燃烧燃料的小颗粒。它们的密度比空气的密度大很多倍。
+
+为什么这些颗粒会上升？
+
+4. 那天我正在煎煎饼。当我开始翻动其中一个时，它已经不适合原来的位置了。我们设法把煎饼放回锅里，把它们全部翻过来。
+
+证明你总是可以将煎饼放在之前放置的圆形煎锅中翻过来，并举例说明你不能翻转其中一张煎饼并将其放回原来的位置。
+
+5. 以同样的方式将两个小图形中的每一个切成四部分，这样您就可以从所得的八部分中折叠出两倍大（面积）的相似图形。
+
+这些问题是由 V.D. 提出的。维昂，一名十年级学生。伏罗希洛夫格勒地区斯拉维亚诺谢尔布斯克村。 Serzej Revkov、A. P. Savin、A. M. Abramov、L. P. Mochalov。
