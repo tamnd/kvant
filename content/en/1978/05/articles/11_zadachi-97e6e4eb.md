@@ -1,0 +1,43 @@
+---
+id: 1978-5-zadachi-97e6e4eb
+issue: kvant_1978_5
+year: 1978
+number: "5"
+title: Tasks
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 37
+page_last: 37
+page_labels: "35"
+tag: DGGX
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 52c7c643a762351ada2a07036321d5c606382faec957ac3c79bc52f8a14b178a
+prompt_sha256: draft-1
+translated_from: content/ru/1978/05/articles/11_zadachi-97e6e4eb.md
+source_content_sha256: 9a880ef1f6c4fb2d1cba82f12f08b8aa25e351dbefd4d42c8fb94919f357c2f3
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 35⟧
+
+«Kvant» for younger students
+
+Quests
+
+1. Ten people came to visit in galoshes. They left one by one, and each put on a random pair of galoshes that he could fit into (that is, no different size than his own). What is the largest number of people who could not put on galoshes?
+
+2. Having cut the figure shown on figure into two parts, fold them into a square so that the colored squares are symmetrical with respect to all symmetry axes of the square.
+
+3. For four people born in different years of the 20th century, the sums of their age numbers are the same, and the sum of all four ages is an exact cube. How old is the eldest of these people?
+
+4. Prove that if in a parallelogram ABCD the sum of angles ABD and BCA is equal to 90°, then this parallelogram is either a rhombus or a rectangle.
+
+5. What three-digit number is equal to the cube of the number written by the last digit, and at the same time the square of the number written by the second and first digits?
+
+3
+
+35

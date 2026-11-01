@@ -1,0 +1,42 @@
+---
+id: 1978-1-mayer-mamaeva-dva-fizicheskih-fokusa-dca9643a
+issue: kvant_1978_1
+year: 1978
+number: "1"
+title: Two physical focuses
+authors:
+  - Майер В. В.
+  - Мамаева Е. С.
+rubric: laboratoriya-kvanta
+rubric_sub: Лаборатория «Кванта»
+page_first: 25
+page_last: 25
+page_labels: "23"
+tag: DVRB
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 78ef08d86b5a30336385367eead909c24af0bf4b0a98b0206bfd06e48ab664c8
+prompt_sha256: draft-1
+translated_from: content/ru/1978/01/articles/08_mayer-mamaeva-dva-fizicheskih-fokusa-dca9643a.md
+source_content_sha256: 4a84b43634fc6054f1396fc9ac4dd11d776047446c1b328ff1d897dfdb6000d3
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 23⟧
+
+Two physical focuses
+
+You take a glass tube with a pipette-like end and show it to your audience. With your other hand, take a glass of water by the top edge and also show it. Place the extended end of the tube into the glass and wait until water enters it. Then you close the top hole of the tube with your finger and remove it from the glass.
+
+At the same time, viewers discover that air bubbles form at the hole in the tube (Fig. 1). They grow, break away from the walls and rise up inside the tube. But the water does not pour out of the tube!
+
+Then, having opened the top hole of the tube, you pour the water back into the glass, wave the empty tube in front of you several times and draw water from the glass into the tube. Having closed the top hole of the tube with your finger, you quickly remove it from the glass and turn it over (Fig. 2) - a powerful fountain will emerge from the tube to a height of more than a meter.
+
+The secret of these tricks will probably never be revealed. And it is very simple: in a glass there is water heated to 80-90°C, while the tube has a room temperature of about 20°C. Try to figure out the first trick yourself, and we will help you explain the second.
+
+When hot water enters the tube from a glass, the air at the top of the tube (due to its plane thermal conductivity) is practically room temperature. After you close the top hole of the tube with your finger and turn the tube over, hot water begins to flow down the walls, quickly heating the air. The air pressure in the tube returns, and the expanding air is “thrown out” through the narrow opening of the tube, which did not have time to fall down the body in the form of a fountain.
+
+In experiment, we recommend using a glass tube with a diameter of 8-12 mm and a length of 30-40 cm, the small hole of which has a diameter of about 1 mm. In the interval between tricks, the tube must be cooled properly (you can even blow into the tube), since the height of the fountain depends on the difference in temperature between the air and the water collected in the tube. The optimal amount of water drawn into the tube varies from $1/4$ to $1/3$ tube volume and is easily selected experimentally.

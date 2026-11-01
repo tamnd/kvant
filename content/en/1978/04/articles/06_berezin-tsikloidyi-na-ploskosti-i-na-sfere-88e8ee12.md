@@ -1,0 +1,50 @@
+---
+id: 1978-4-berezin-tsikloidyi-na-ploskosti-i-na-sfere-88e8ee12
+issue: kvant_1978_4
+year: 1978
+number: "4"
+title: Cycloids on the plane and on the sphere
+authors:
+  - Березин В. Н.
+rubric: osnovnye-stati
+page_first: 15
+page_last: 15
+page_labels: "13"
+tag: JPL1
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: ecdfd7a2c1d941f585209017ac1e2f4c8de887f7a5e9112cfe2466dc1da1fb72
+prompt_sha256: draft-1
+translated_from: content/ru/1978/04/articles/06_berezin-tsikloidyi-na-ploskosti-i-na-sfere-88e8ee12.md
+source_content_sha256: 43c2c9d3593aec2f9afc084db9a45865ee41fc4f2e93fa3db874c493f0d4fb73
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 13⟧
+
+Cyclops on a plane and on a sphere
+
+The properties of cyclopids have been studied by many outstanding scientists over the past year. Among them is G. Galileo (1564-1642), who gave the name Cyclopides (from the Greek khuhlos - “circle”).
+
+A flat cyclops is the trajectory of a fixed point on a circle rolling (without sliding) along a given straight line. If a movable circle rolls along a stationary circle, touching it from the outside, the fixed point of the movable circle describes an epicyclops. With $r=R$, the epicyclopda is called cardiopda («Kvant», 1977, No. 12, p. 33), with $\frac{r}{R}=\frac{1}{2}$ - nephrode («Kvant», 1977, No. 9, p. 43).
+
+Everything described in the previous paragraph happened on the plane. To go to space, to cyclopdes on a sphere, we define a flat cyclops in a different way: imagine that a movable plane is superimposed on a fixed plane, on which a circle $\Sigma_1$ is drawn, on which a circle $l$ is drawn. Sphere $\Sigma_2$ is rotated so that circle $l$ rolls (without sliding) along circle $L$. In this case, the trajectory of a fixed point of the circle $l$ will fall onto the sphere $\Sigma_1$ and the spherical cyclops $y$. figure 1 shows one turn of a spherical cyclops. If the radius of the circles is $L$
+
+Fig. 1.
+
+Fig. 2.
+
+and $l$ are incommensurable, the points of the spherical cyclops fill a strip on the sphere.
+
+Try to establish what shape the spherical cyclops has, if $\frac{r}{R}=\frac{1}{2}$.
+
+Descartes was one of the first to show how one can determine the direction of a tangent to a flat cyclops at any point. Let's replace the moving circle with a square $ABCD$ of the same perimeter and make it roll along a given straight line, following the trajectory of the point $A$ (Fig. 2). In this case, the square will alternately rotate around its vertices $D$, $C$, $B$, occupying positions $D$, $C_1$ and $B_2$, respectively. If the center of rotation at a given moment is, say, at point $C_1$, the normal (perpendicular to the tangent) at point $C$ will pass through point $C_1$. Let's replace the square with a regular pentagon, hexagon, . . . , $n$-gon of the same perimeter. The picture will be the same: the normal will pass through the vertex, near which rotation will occur at the moment. In the limit at $n \rightarrow \infty$ the regular polygon will turn into a circle, the trajectory of the point $A$ into a cyclops, and the point through which the normal must pass at a given point of the cyclops will become the point of tangency of the moving circle (according to its position) with the reference line. Having a normal, it is not difficult to prove a tangent.
+
+Similar reasoning can be proven for epicyclopda and hypopyclopda, only the “regular polygons” come from arcs of a fixed circle, and not from line segments. And again it turns out that the tangent to the epicyclope at a given point will pass through the point of contact of the movable circle in accordance with the position.
+
+St. Petersburg mathematician J. Herman (1678-1733) showed that this statement is also true for the spherical cyclops.
+
+V. Berezin

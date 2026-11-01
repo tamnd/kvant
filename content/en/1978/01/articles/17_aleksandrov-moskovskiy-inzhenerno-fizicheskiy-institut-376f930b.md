@@ -1,0 +1,69 @@
+---
+id: 1978-1-aleksandrov-moskovskiy-inzhenerno-fizicheskiy-institut-376f930b
+issue: kvant_1978_1
+year: 1978
+number: "1"
+title: Moscow Engineering Physics Institute
+authors:
+  - Александров А. и др.
+rubric: praktikum-abiturienta
+rubric_sub: Практикум абитуриента
+page_first: 55
+page_last: 55
+page_labels: "53"
+tag: 04N1
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: c46a1d0a2c59a0f7c1225c2565c31a7cd4dbc961dfc0eb772fcb3a8bbd5d21b4
+prompt_sha256: draft-1
+translated_from: content/ru/1978/01/articles/17_aleksandrov-moskovskiy-inzhenerno-fizicheskiy-institut-376f930b.md
+source_content_sha256: b99476ec26c175f1eac5de12cdc1ba9ba0c999237b821949d4bdbafd62db323c
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 53⟧
+
+Moscow Engineering Physics Institute
+
+Below are some options for the written entrance exam in Mathematics and problems for the oral exam in Physics 1977.
+
+Mathematics
+
+Option 1
+
+1. A car travels from point K to point M. From point K to point L, located between K and M, it travels at a speed of 48 km/h. At point L, he reduces his speed by V km/h (0<V<48) and at this speed travels 1/3 of the way from L to M. The rest of the way from L to M he travels at a speed that is 2V km/h higher than the initial speed of 48 km/h. At what value will V automatically travel from L to M?
+
+2. The Wissan ball has a regular triangular paramid such that the plane of the base of the paramid divides the radius of the ball perpendicular to it in the ratio of 3:7, counting from the center of the ball. Find the volume of the cone inscribed in the paramid. The radius of the ball is R.
+
+3. Find the area of ​​the figure bounded by the curve y = $\frac{3}{x}$, straight lines y=4, y=6 and the ordinat axis.
+
+4. Solve equation 11 sin²7x-3 sin 7x cos 7x+5 cos²7x=a-6.
+
+Option 2
+
+1. A p% hydrochloric acid solution was mixed with a 10% hydrochloric acid solution to obtain 600 g of a 15% solution. How many grams of each rastor were taken?
+
+2. At the base of a regular quadrangular paramid SABCD lies a square ABCD with side length equal to a. Since the lateral faces form an angle α with the plane of the base of the paramid. Points E and F are taken on sides AD and BC of the base so that |AE| = $\frac{2}{3}$ a and |CF| = $\frac{a}{3}$. Through these points a plane is drawn that makes an angle β with the plane of the base of the paramid. Find the area of ​​the resulting section.
+
+3. Find the area of ​​a figure bounded by a curve
+
+$$y = 1 + \frac{1}{3(x-1)}, \quad y = \frac{1}{6x}.$$
+
+4. Find the critical points of the function f(x)=0.5e²x+(1-a)e⁻x+sin 2.
+
+Physics
+
+1. Two satellites move around the Earth in circular orbits located in the same plane, with linear speeds v₁=7.8 km/s and v₂=7.7 km/s. Determine the time interval t through which both satellites, rotating around the Earth in the same direction, periodically merge to a minimum distance from each other. Radius of the Earth R=6400 km.
+
+2. A cylindrical test tube with a length of l=30 cm, containing a certain amount of air at a temperature of T=300 K, is completely immersed at the open end in glycerol, the density of which is ρ=1.3 g/cm³. In this case, the air inside the test tube occupies half of its volume. The test tube is removed from the glycerin so that its open end barely touches the surface of the liquid. How and by how much should the temperature of the air in the test tube be changed so that it still fills half of its volume? External pressure is p₀=760 mm pt. Art.
+
+3. A thin spherical shell of radius R₁=5.0 cm and mass m=0.015 g is charged until its potential reaches φ₁=10 kV. In this case, the shell, separated by electric repulsion, is torn into small fragments flying in different directions. Find the speed of the fragments at the moment when they turn out to be a spherical surface of radius R₂=12 cm.
+
+4. A crossbar with length l=20 cm and mass m=15 g is suspended horizontally on two thin weightless wires in a vertical magnetic field with indication |B| = 0.04 T (see figure). A current source is connected to the points where the wires are fixed, and a current of force I = 2.5 A flows through the circuit. At what angle does the wire with the crossbar deviate from the initial position?
+
+5. There is a converging lens with a focal length F=10 cm and a screen located in its focal plane. On the other side of the lens at its focus there is an exact source of light, which at some moment begins to move away from the lens with a constant acceleration |a|=4 m/s². After what period of time t after the start of movement will the radius of the light spot on the screen decrease by n=6 times?
+
+A. Alexandrov, A. Zaboev, N. Narozhny, N. Sholokhov

@@ -1,0 +1,54 @@
+---
+id: 1978-1-berezin-vintovaya-liniya-3d585660
+issue: kvant_1978_1
+year: 1978
+number: "1"
+title: Helix
+authors:
+  - Березин В. Н.
+rubric: raznoe
+page_first: 57
+page_last: 57
+page_labels: "55"
+tag: "0713"
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 05bc5d7515b04badc2fcaadaeb25b6bf8a77650bc1b9d22dd4e1352985d21b8d
+prompt_sha256: draft-1
+translated_from: content/ru/1978/01/articles/18_berezin-vintovaya-liniya-3d585660.md
+source_content_sha256: 29f6205c20016ffa668f4da589b9a984badf0c231cac27dbd563ffcba3bcb98c
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 55⟧
+
+Helix
+
+Nowadays it is difficult to find a person who is at least somewhat connected with technology and has no idea about the helix. And no wonder. In technical devices, from the most common to the most specialized, one cannot do without screws, bolts, nuts, screws, etc. The edge of the thread is a helix. It is used mainly because of its geometric property - a helical line can slide along itself. However, in architecture it is used to “minimize distances”: a spiral staircase takes up less space in a building.
+
+A helical line with varying degrees of accuracy is often found in nature. The stems of tall plants “step by step”, “turn by turn” climb up the tree trunk along a helical line. The tornado twists tree trunks along it. Think also about DNA molecules, mollusk shells, wind antelopes...
+
+Let's give a definition: a helical line l is a spatial curve described by a point M, which rotates with a constant speed v₁ around the Oz axis and simultaneously slides with a constant speed v₂ along the Oz axis (Fig. 1). When point M moves along the helical line by one turn, along the Oz axis it moves by a constant value d (screw pitch); its projection M' describes a circle.
+
+figure 1 shows another way to obtain a helix: a paper rectangular triangle ABC was glued with leg AC to the surface of the cylinder and wound around it; as a result, the hypotenuse BC is located along the helical line l. Indeed, from the definition of a helical line it follows that the tangent MN to it at any point M ∈ l forms a constant angle with the Oz axis. Consequently, the angle of the tangent MN with the plane xOy also maintains a constant value α for all points M ∈ l.
+
+To determine the line of the shortest distance between two points M₁ and M₂ on the surface of the cylinder (the so-called geodesic), you need to turn the surface of the cylinder onto a plane, draw [M₁M₂] and return the surface to position mode. A geodesic turns out to be a segment of a helix line.
+
+Fig. 1.
+
+Fig. 2.
+
+The projection of the helical line onto the xOz plane is sinusunda (proof).
+
+A development of a circle is a curve that is described by a fixed point of a straight line rolling without sliding along a fixed circle. On figure 1, point N describes just such a curve—the development of a circle (O, |OM'|).
+
+A cyclopod is a line that describes a point P of a circle (Q, a) rolling without sliding along a fixed straight line Ox
+
+a ship, roughly speaking, is a piece of a screw surface.
+
+A helical surface formed by a straight segment perpendicular to the axis of rotation is called a straight helicode (“helikond” translated from Greek as “spiral-like”). The first page of the cover shows a direct helicode model. Another model of his is a soap film stretched over a wire helix.
+
+V. Berezin

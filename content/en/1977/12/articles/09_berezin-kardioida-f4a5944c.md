@@ -1,0 +1,62 @@
+---
+id: 1977-12-berezin-kardioida-f4a5944c
+issue: kvant_1977_12
+year: 1977
+number: "12"
+title: Cardioid
+authors:
+  - Березин В. Н.
+rubric: raznoe
+page_first: 35
+page_last: 35
+page_labels: "33"
+tag: NOC7
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 8c49e910c4811faa3f0e4663875381bd946765986015a438f51936dc1d19ef17
+prompt_sha256: draft-1
+translated_from: content/ru/1977/12/articles/09_berezin-kardioida-f4a5944c.md
+source_content_sha256: 78fc2e9efc28f4017de71c78aa6433654d74ba4fb96f23bc509d99aca4434d35
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 33⟧
+
+Carduon
+
+Cardiona is the trajectory of a point M lying on a circle (O₁, a), which rolls along a stationary circle (O, a) of the same radius (Fig. 1). In the initial position, point M is located at point A of a fixed circle called the cardion strip. On figure 1 it is clear that the cardion has an island in the strip. Based on the above definition, we will show other ways to construct a cardion and some of its properties.
+
+The tangent to the cardion at its arbitrary point M passes through the point P of the moving circle, diametrically opposite to the point of its tangency Q with the fixed one (this is proven in the same way as in «Kvant», 1977, No. 3, p. 19).
+
+Due to the fact that ∪ QM and ∪ QA are loaded, the point M is symmetrical to the strip A with respect to the common tangent NQ of the moving and fixed circles. Consequently, the circle (Q, |QA|) will pass through the point M. Since the angle PMQ is prime, the tangent to the cardion PM will also be tangent to the circle (Q, |QA|). The position of the cardion can be obtained as a circumscribed family of circles (Q, |QA|) for multiple positions of the point Q on the fixed circle.
+
+The length of the segment AN is 1/2 |AM|. Therefore, point N describes the cardin, prepared exactly, which we just looked at, with the center prepared at point A and the preparation factor equal to 1/2. To draw a “small” cardion, you can use a square, one leg of which in all its positions passes through point A, and the second touches a fixed circle. Then the vertex of the right angle N will describe this cardion.
+
+Let AM ∩ (O, a) = T (Fig. 2). In the quadrilateral OO₁MT, two sides are parallel (AM || OO₁, since they have a common perpendicular NQ), the other two sides are congruent. This means that OO₁MT is an equilateral trapezoid or parallelogram. From MO₁Q = AOQ it follows that
+
+$$MO_1Q = AOQ$$
+
+Fig. 1.
+
+Fig. 2.
+
+Fig. 3.
+
+OO₁MT is a parallelogram. Therefore, the cardion can be constructed by plotting on the straight line AT (for all possible positions of the point T on a fixed circle) from the point T a segment TM of length |OO₁| = 2a. Putting it aside on both sides of T, we get the entire cardion*).
+
+Prove that the polar equation («Kvant», 1977, No. 7, p. 46) of the cardion has the form ρ = 2a (1 + cos φ), if the cardion strip A is taken behind the strip of the polar system and the polar axis is directed along AO (Fig. 2).
+
+Figure 3 requires the method of constructing a cardion, which will be discussed on the second page of the cover. Point B shows here the position of point M after the movable circle drips along the stationary circle onto the irrigation of its length. The segment PC is symmetrical to the segment PB with respect to the radius OP, since MPO₁ = 1/2 MO₁Q = 1/2 QOA = O₁PB and B ∈ (O, |OP|), C ∈ (O, |OP|). Therefore BP |= |PC|. In addition, PC is a tangent to the cardion.
+
+Let us now imagine that a light source is placed at point B. It is clear that the cardion describes the rays reflected from the circle (O, |OP|). Therefore, the cardion is a catacourt of this circle («Kvant», 1977, No. 9, p. 43).
+
+Prove that if a certain circle internally touches a circle of twice the radius, then when the “larger” circle rolls along the “smaller” circle, any point of it will describe the cardin.
+
+Express the lengths of the “blue” hods on figure 3 in terms of a.
+
+V. Berezin
+
+*) This method of constructing a cardion has already been presented without justification in the book “Pascal’s Snail” («Kvant», 1977, No. 5, p. 36)
