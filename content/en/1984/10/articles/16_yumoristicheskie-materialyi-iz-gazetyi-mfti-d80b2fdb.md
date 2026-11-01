@@ -1,0 +1,89 @@
+---
+id: 1984-10-yumoristicheskie-materialyi-iz-gazetyi-mfti-d80b2fdb
+issue: kvant_1984_10
+year: 1984
+number: "10"
+title: '[Humorous materials from the MIPT newspaper]'
+rubric: kvant-ulybaetsya
+rubric_sub: «Квант» улыбается
+page_first: 36
+page_last: 36
+tag: 4VAN
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: bcd1cc79adf9a1efe06cb4ca362b204b8e421f66ea39ad95217583e22962f7f1
+prompt_sha256: draft-1
+translated_from: content/ru/1984/10/articles/16_yumoristicheskie-materialyi-iz-gazetyi-mfti-d80b2fdb.md
+source_content_sha256: d69bf9fd53582e6d46cd6bbf958d4185d08543d1849705bfce769790c777d067
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+"For Science"
+visiting «Kvant»
+The newspaper “For Science” of the Moscow Institute of Physics and Technology has been published for more than 25 years. Every season we publish a selection of issue materials from this newspaper.
+
+Smiles of artists
+
+The uncertainty relation $\Delta E \cdot \Delta t \geq \hbar$ is understood by only a few physicists. I will not delve into this topic, otherwise the number of such people will increase tenfold.
+
+If your family asks you what elementary particles are, tell them they are just energy. They won't mind anything, but they will think well of you.
+
+Which Fresnel wheel behaves exactly the same as last semester.
+
+What's more - doing more or doing little?
+
+If we do not make this restriction, then something terrible will happen: sine will become greater than one.
+
+The operation of the device considered is simple and clear. That is why it is not used in practice. Another simple device is used, which we will spend the remaining two places studying.
+
+I explain to `второму` and the seventh faculty: a hydrogen atom consists of one electron and one proton. The fourth faculty should know this.
+
+Let me draw the infinitesimal triangles in larger detail.
+
+NEWS
+
+The 126th element of the periodic table was found in the sandwich of cafeteria No. 4. The culprits have not yet been found.
+
+Fifth-year student Mark Novodachny came up with the 317th proof of the fact that chemistry is not a science. To all doubters, he simply shows two magazines: “Nuka and Life” and “Chemistry and Life.”
+
+Announcements
+
+All students must submit holograms $3 \times 4 \times 6$ for application forms.
+
+Attention women! The Dolgo-Rudensky hairdressing salon does not only chemistry, but also physics and differential equations.
+
+Krutakki
+
+Holographics are a bathhouse for aristocrats.
+O'Henry - zero inductance.
+A music lover is a track lecturer.
+Zator is a newspaper of topologists.
+Baran is a beer hall for employees of the USSR Academy of Sciences.
+Express is a former stamper.
+Feast (French) - distance to a distant village.
+Sublimation (sports) - a competition among cab drivers.
+The locomotive is a wedding carriage.
+Monopoly is French.
+Dipole - two Frenchmen.
+Bipol - two more Frenchmen.
+
+(Chess)
+
+Turn - make a move.
+Loitering - walking on a dinago or.
+Everywhere exod is a queen.
+Window sill - a figure standing under attack from cavalry.
+Pathology is the study of dead ends.
+To dismount is to double the pawns.
+Expectation is a premonition of an imminent loss.
+
+(Ordered by a driving school)
+Karman is a car enthusiast.
+The cardan is the class of the Japanese motorist.
+Kartuz is the boss of the automobile business.
+Carnival is a conveyor belt in Tolyatti.

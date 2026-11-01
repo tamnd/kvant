@@ -1,0 +1,73 @@
+---
+id: 1984-10-olhov-esche-odin-priem-samokontrolya-a9f32aca
+issue: kvant_1984_10
+year: 1984
+number: "10"
+title: Another self-control technique
+authors:
+  - Ольхов В. Е.
+rubric: shkola-v-kvante
+page_first: 32
+page_last: 32
+page_labels: "30"
+tag: 784V
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 82eae947a9bc560c16ef73b1f6ec62df359bb58c167f7a2171c850efe5f5c271
+prompt_sha256: draft-1
+translated_from: content/ru/1984/10/articles/13_olhov-esche-odin-priem-samokontrolya-a9f32aca.md
+source_content_sha256: 650e026aa694bd10a58097d0f059e7d413cfa8fc0cb72731fdf6db8b0173bbdf
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 30⟧
+
+Mathematics 8,9,10
+Another take on self-control
+
+The note below “Where is the error?” is intended for eighth-graders, “Let’s take another step of self-control” - for ninth-graders, and “Do we need to do a test?” - tenth graders. This division is somewhat arbitrary, since each of these notes can be useful not only to students of these classes.
+
+Where is the error?
+
+As you know, rotation is one of the movements of the plane. When moving, any figure is mapped onto an equal figure. Now we will “show”, using the properties of motion, that when rotated, a triangle turns into an unequal triangle.
+
+When rotating, the vertices of the triangle slide along those concentric circles whose common center coincides with the center of rotation, and the distance between its vertices is maintained. In order to obtain the image of triangle ABC when rotated by an angle α around point O, we construct a concentric circle with a center at point O, on which points A, B and C lie. Then, on the circle containing point A, we construct point A1 so that the angle AOA1 is equal to α. Finally, on the circle containing points B and C, we construct points B1 and C1, respectively, so that A1B1=AB and A1C1=AC
+
+(see Fig.). On figure it is clearly visible that the triangle A1B1C1 we obtained is not equal to triangle ABC (for example, B1C1≠BC).
+
+Where is the error?
+
+N. I. Bovsunovsky
+
+The material in this note complements the article by V. Matizen (see «Kvant» No. 10, 1980).
+
+From my own experience I know that you can fill out one formula well and forget a similar one. Suppose, for example, you clearly remember that sin (x+y)=sin x cos y+cos x sin y (1), but you forgot what cos (x+y) is equal to. In this case, the following will help you. We can assume that in equality (1) x is a variable quantity, and y is a fixed number. Differentiating this equality (with respect to x), we obtain (sin(x+y))′= (sin x)′cos y+(cos x)′×sin y, whence cos (x+y)=cos x cos y−sin x sin y.
+
+So, the forgotten formula has been restored. Similarly, from the formula
+
+sin x cos y=1/2 (sin(x+y)+sin(x−y))
+
+(2)
+
+it is easy to obtain the formulas: a) cos x cos y=1/2 (cos(x+y)+cos(x−y)) (it is enough to differentiate equality (2) with respect to x, considering y constant);
+
+b) sin x sin y=1/2 (cos(x−y)−cos(x+y)) (it is enough to differentiate (2) with respect to y, considering x constant:
+
+−sin x sin y=1/2 (cos(x+y)−cos(x−y))
+
+and change the sign of both sides of the resulting equality).
+
+Let's give another example. The student was asked to derive a formula expressing sin 3α through sin α. He represented 3α as α+2α and used the sine of the sum formula:
+
+sin (α+2α)=sin α cos 2α+cos α sin 2α=sin α(1−2sin²α)+2sin α cos²α=3sin α−4sin³α.
+
+As a result, he obtained the correct formula:
+
+sin 3α=3 sin α−4 sin³α.
+
+After this, he was asked to obtain a similar formula for cos 3α. Without much enthusiasm, he repeated the transformations:
+
+cos 3α=cos (α+2α)=...=4 cos³α−3 cos α.

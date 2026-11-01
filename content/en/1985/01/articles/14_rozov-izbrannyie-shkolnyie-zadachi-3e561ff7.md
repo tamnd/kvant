@@ -1,0 +1,55 @@
+---
+id: 1985-1-rozov-izbrannyie-shkolnyie-zadachi-3e561ff7
+issue: kvant_1985_1
+year: 1985
+number: "1"
+title: Selected School Problems
+authors:
+  - Розов Н. Х.
+rubric: shkola-v-kvante
+rubric_sub: Школа в «Кванте»
+page_first: 36
+page_last: 36
+page_labels: "34"
+tag: I48F
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 8cf6ef7ae2406fde0b820fca56e309d4e69fdae3eb78ded48f46d04433c8c043
+prompt_sha256: draft-1
+translated_from: content/ru/1985/01/articles/14_rozov-izbrannyie-shkolnyie-zadachi-3e561ff7.md
+source_content_sha256: 0c042fd6f23d34b9ec397beefcddde215331599db4a042262a83cebfffd2e947
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 34⟧
+
+Selected School Problems
+
+Eighth grade
+1. How many zeros are there in a number equal to the product of all natural numbers from 1 to 1984 inclusive?
+2. Prove that for any numbers $a, b, c$ the following inequality holds:
+$$a^2 + b^2 + c^2 \geq ab + bc + ca.$$
+3. Some simple organisms reproduce by dividing into two organisms, which occurs after one minute. One specimen of the newly emerged organism was placed in an empty test tube and the countdown began; After 1 hour, the test tube was filled to the brim with organiza- tions. At what point in time were half the containers filled with organizations?
+4. A line and two points $A, B$ lie on the plane, located on one side of this line. Point to a straight line a point $M$ such that the sum of the distances $AM + MB$ is the smallest of all possible ones.
+5. Through the point of intersection of the diagonals of the trapezoid, a straight line is drawn parallel to the base of the trapezoid. Calculate the length of the segment of this line enclosed between the lateral sides of the trapezoid if the bases of the trapezoid have lengths $a$ and $b$.
+
+Ninth grade
+6. Prove that the number $\log_4 18$ is rational.
+
+7. Draw a graph of the function $y = \text{tg} x \cdot \text{ctg} x$.
+8. Solve the equation sin $x + \sin 2x + \dots + \sin nx = n$, where $n \in N, n > 1$.
+9. Are two plane acute angles, located in space so that their sides are perpendicular, necessarily equal to each other?
+10. How many skew lines can exist in space, any two of which are mutually perpendicular?
+
+Tenth grade
+11. Is it possible to find 1984 consecutive natural numbers such that there is not a single prime number among them?
+12. Calculate the difference $2^{\log_3 5} - 5^{\log_3 2}$.
+13. Solve the inequality $\sqrt{\sin x} + \sqrt{\cos x} > 1$.
+14. Four arbitrary points $A, B, C, D$ located in space are connected to each other by segments $AB, BC, CD, DA$; the midpoints of these segments are denoted by the corresponding $M, N, P, Q$. What figure will you get if you draw segments $MN, NP, PQ, QM$?
+15. What shape does the shadow of a cube have on a plane perpendicular to its diagonal from a beam of light rays parallel to this diagonal?
+
+Publication prepared
+N. Kh. Rozov

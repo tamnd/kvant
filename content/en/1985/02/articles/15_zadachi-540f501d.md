@@ -1,0 +1,49 @@
+---
+id: 1985-2-zadachi-540f501d
+issue: kvant_1985_2
+year: 1985
+number: "2"
+title: Tasks
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 33
+page_last: 33
+page_labels: "31"
+tag: ECAR
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 39c2616ba92f56f621723d7175e3d7556dba901dc41d9164e2e2a7bc95899926
+prompt_sha256: draft-1
+translated_from: content/ru/1985/02/articles/15_zadachi-540f501d.md
+source_content_sha256: ae9dae4a90dd805b7f49332127e54e5270c4dfbdae09663cb9c66ae2453e0be9
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 31⟧
+
+Quests
+
+1. “Nikolai Ivanovich,” Vadik asked a friend of the store seller, “how much does the notebook cost?” “16 notebooks only cost rubles, how many notebooks can you buy for 1 ruble,” the seller answered with a smile. How much does one notebook cost?
+
+2. Lately I've been walking a lot on lies. True, the day before yesterday I walked 3 km more than yesterday, and yesterday I walked 40 km less than the day before yesterday and today together. How many clients have I met on lies today?
+
+3. “Draw some polygon in your notebooks, the sides of which run along the grid lines,” said the teacher. “So. Now find the number of its sides.” “12,” said Vova. “4,” said Petya. “10,” said Andrey. They had broken polygons shown in figure. Interestingly, the rest of the schoolchildren also had polygons with an even number of sides. Why?
+
+4. What physical error is made in the following poem:
+“She lived and walked on glass,
+But suddenly she was shackled with frost,
+And a motionless piece of ice drop
+became
+And there is a tella in the world.”?
+
+These tasks were offered to us by S.R. Sefibekov, A. A. Panov, N. K. Antonovich. A. P. Savin.
+
+Running in circles
+and a long story
+
+L. CARROLL
+
+In the 7th and 8th issues of «Kvant» last year, the first two chapters of Lewis Carroll’s book “Alice in Wonderland” were published, including questions and tasks invented by the editors. Judging by the numerous letters from readers, they liked this material. Therefore, we continue to publish this wonderful book with new questions and tasks (see the next magazine spread). Readers who have this book, we ask you to send problems and questions for subsequent chapters, starting with the sixth.

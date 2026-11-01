@@ -1,0 +1,55 @@
+---
+id: 1985-1-smorodinskiy-top-kvark-i-tigrenok-top-c641c9d9
+issue: kvant_1985_1
+year: 1985
+number: "1"
+title: Top quark and tiger cub Top
+authors:
+  - Смородинский Я. А.
+rubric: novosti-nauki
+rubric_sub: Новости науки
+page_first: 43
+page_last: 43
+page_labels: "41"
+tag: 00KM
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 43412e84445a677304c5af106fff9da271938aa8cb403ff935db89461737feb2
+prompt_sha256: draft-1
+translated_from: content/ru/1985/01/articles/16_smorodinskiy-top-kvark-i-tigrenok-top-c641c9d9.md
+source_content_sha256: 606e77acc8336808ca87e7210e71e421e5c6c26c1611afa703b3e61973ac7f40
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 41⟧
+
+Top Quark and Tiger Cub Top
+
+Last July, a tiger cub was born at the Leipzig Zoo. He was given the name Top, and not by chance. Just at this time, at a conference on elementary particle physics, which takes place in Leipzig, the discovery of the sixth quark, a representative of truly elementary particles, was reported. This quark, even before its “birth”, was called “top” (“top” in English), and it finally filled in the missing link in the table of quarks - amazing particles from which nucleons, mezons and many other particles are built.
+
+Amazing quarks are therefore because they have a fractional charge, a multiple of 1/3 (if we count the charge of a proton as one). Such particles have never been registered in any laboratory. A still unexplained law prohibits particles with a fractional charge from appearing in a free state; Only particles with an intact charge or no charge at all can fly out from nuclei or from elementary particles.
+
+Three pairs of quarks are now known. We present a table of all six quarks with their names (Russian and international) and charge values ​​(if you multiply the given charge value by the proton charge 1.6 × 10⁻¹⁹ C, you can get the quark charge in the International System of Units).
+
+The same table can be compiled for antiquarks - they differ from quarks only in the sign of their charge.
+
+Note that the table does not have a mass column, and this is no coincidence. Since quarks do not live in a free state, then, strictly speaking, it is impossible not only to say what their rest masses are, but even to determine exactly what the mass of a quark means. However, although free quarks most likely do not exist in nature, a lot is known about quarks. The first pair of quarks - u-quark and d-quark - is part of protons and neutrons. A proton consists of two u-quarks and one d-quark, and a neutron consists of one u-quark and two d-quarks. Radioactive neutron decay
+
+$$n \rightarrow p + e^- + \bar{v}$$
+
+Quark table
+
+| Symbol | Name | Charge |
+| :--- | :--- | :--- |
+| u | up | 2/3 |
+| d | down | -1/3 |
+| s | strange | -1/3 |
+| c | charm | 2/3 |
+| b | bottom or | -1/3 |
+| t | beauty | -1/3 |
+| v | top or | 2/3 |
+
+*) W-bosons were discussed in the article “Discovery of a new particle” («Kvant», 1983, No. 5). Recently, the author of the discovery of these particles, K. Rubbin and S. Van der Meyer, was awarded the Nobel Prize.

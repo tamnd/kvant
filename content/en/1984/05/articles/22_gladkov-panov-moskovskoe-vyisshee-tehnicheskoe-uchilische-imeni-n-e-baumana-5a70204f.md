@@ -1,0 +1,62 @@
+---
+id: 1984-5-gladkov-panov-moskovskoe-vyisshee-tehnicheskoe-uchilische-imeni-n-e-baumana-5a70204f
+issue: kvant_1984_5
+year: 1984
+number: "5"
+title: Moscow Higher Technical School named after N. E. Bauman
+authors:
+  - Гладков Н. А.
+  - Панов В. Ф.
+rubric: ekzamenatsionnye-materialy
+rubric_sub: Экзаменационные материалы
+page_first: 58
+page_last: 58
+page_labels: "56"
+tag: 6O3R
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 619812acdfc282df552ff582c0389a50205c18a6f525ab597e0565e1325d9639
+prompt_sha256: draft-1
+translated_from: content/ru/1984/05/articles/22_gladkov-panov-moskovskoe-vyisshee-tehnicheskoe-uchilische-imeni-n-e-baumana-5a70204f.md
+source_content_sha256: 943fe970e53c23b907f6da88b093314fac9ca471bb013db355bca05a6f5d32f3
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 56⟧
+
+Moscow Higher Technical School named after N. E. Bauman
+
+Mathematics
+Written exam
+Option 1
+1. Calculate
+$$1 + \frac{\pi}{6} + \frac{\pi}{6} + \dots + \frac{\pi}{6} + \dots$$
+2. Solve the equation
+$$2 \cos 2x \cdot \cos 5x = \cos 7x + \frac{1}{2}$$
+3. Solve the equation
+$$25^{-x} + 5^{1-x} = 50$$
+4. Find the domain of functions
+$$f(x) = \sqrt{1 + \log_3 \frac{1}{x}}$$
+5. Given a cube $ABCDA_1B_1C_1D_1$ with edge $a$. Find the radius of the sphere passing through the vertices $A$ and $B_1$ and the points $K$ and $M$ on edge $CC_1$ as well as $|CK| = |KM| = |MC_1|$.
+Option 2
+1. The number 108 is represented as a product of two positive numbers so that the sum of the cube of one of them with the square of the other is the smallest.
+2. Solve the equation
+$$\sin 5x - \cos \left(x + \frac{5\pi}{2}\right) = \sin \left(2x - \frac{\pi}{2}\right)$$
+3. Solve the equation
+$$\frac{4}{2^x - 3} = 2^x$$
+4. Solve the inequality
+$$\frac{\log_3(4-x)}{x-2} < 0$$
+5. On the base of a right circular cone lie three balls of radius $r$. On them lies a fourth ball of the same radius. Each of these four balls touches the side surface of the cone and three other balls. Find the area of ​​the lateral surface of the cone.
+
+Physics
+Oral exam assignment
+1. A stream of water bursts out from a gradient (a hose with metal accumulation) located near the Earth's surface at a speed of $v_0 = 10$ m/s. the gradient is slowly expressed; around a vertical axis, at the same time the angle of its inclination to the horizon changes. Determine the maximum area that can be obtained with this gradient. Air resistance is challenging. Gravity acceleration $g = 10$ m/s².
+2. An obstacle with a mass of $M = 10$ kg, having a cylindrical radius of $R = 0,2$ m, is located on a horizontal plane (Fig. 1). A body with a mass of $m = 1$ kg with an initial horizontal speed of $v_0 = 3$ m/s rises along the cylindrical surface of the groove. Determine the speed of the body at height $R$. We'll train the applicant. Gravity acceleration $g = 10$ m/s².
+3. On an ideal smooth horizontal plane there is a block of mass $M = 1$ kg, attached to springs, the stiffness of each of which is $k = 30$ N/m (Fig. 2). A washer with a mass of $m = 0,5$ kg lies on a block. The bar-washer system is driven into oscillating motion. Determine the maximum amplitude of vibrations at which the system will move as a single whole, that is, without calcining the washer on the block. The friction coefficient between the block and the washer is $\mu = 0,4$. Gravity acceleration $g = 10$ m/s².
+4. An ideal heat engine operating under normal ambient air conditions, which is a refrigerator for it, lifts a load weighing $m = 400$ kg. The working body of the machine receives from heating with a temperature $t = 200^\circ C$ an amount of heat $Q = 80$ kJ. To what maximum height does this heat engine lift the load? We'll train the applicant. Gravity acceleration $g = 10$ m/s².
+5. A system consisting of two identical and oppositely charged balls connected by a thin insulating rod $l = 0,1$ m long is placed in a uniform horizontal electric field with an intense $E = 10^3$ V/m. The system can only rotate in a horizontal plane around a vertical axis passing through the middle of the rod. The mass and charge model of the ball are $m = 5$ g and $q = 10^{-6}$ Cl. The system is removed from a state of stable equilibrium by a short-term impact and is put into rotational motion with an initial angular velocity of $\omega_0 = 2$ s$^{-1}$. Determine the maximum rotation angle of this system. The weight of the rod is different. Balls are considered as material points.
+6. Current sources having the same internal resistance $r = 0,5$ Ohm are connected to resistors, each of which has a resistance $R$ (Fig. 3). The emf of the corresponding current sources is equal to $\varepsilon_1 = 12$ V and $\varepsilon_2 = 6$ V. Determine the value of resistance $R$ at which the current in the ABCD circuit does not flow.
+7. A flat closed metal contour with an area of ​​$S_0 = 10$ cm$^2$ is deformed in a uniform magnetic field, the induction of which is $B = 10^{-2}$ Tl. The counter area uniformly decreases over time $\tau = 2$ s (the counter plane remains perpendicular to the magnetic field

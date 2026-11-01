@@ -1,0 +1,37 @@
+---
+id: 1985-2-obyavlenie-o-nabore-v-vechernyuyu-shkolu-pri-vmk-mgu-im-m-v-lomonosova-7094ae7c
+issue: kvant_1985_2
+year: 1985
+number: "2"
+title: '[Announcement about enrollment in the evening school at the Moscow State University. M.V. Lomonosova]'
+rubric: informatsiya
+page_first: 20
+page_last: 20
+page_labels: "18"
+tag: PEFJ
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 59c100b1dac63abefbde66c07d7988380239961201d0f26d8f1d140d4a14b71c
+prompt_sha256: draft-1
+translated_from: content/ru/1985/02/articles/08_obyavlenie-o-nabore-v-vechernyuyu-shkolu-pri-vmk-mgu-im-m-v-lomonosova-7094ae7c.md
+source_content_sha256: a158cd5a3a5bac10157d807081ada395de2186b7d608b1b5c5eaead5d3b24086
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 18⟧
+
+in the $z=z_m$ plane. Therefore, the wave front is a cylindrical surface, and because of this, the integisity of sound decreases with distance from the source in proportion to $1/R$, where $R$ is the distance from the sound source to the place of observation (compare this dependence with the law of integisity loss you received earlier for a spherical sound wave in three-dimensional space, as well as with the case of a one-dimensional sound wave, for which integisity does not change with distance at all).
+
+Another reason for the attenuation of sound is the attenuation of the sound wave as it propagates in sea water. The wave energy is converted into heat due to friction in the water. In addition, the sound wave dissipates in the ocean at various heterogeneities, which can include particles suspended in water, air bubbles, plankton and even gas bubbles of fish. This phenomenon is used, in particular, to detect schools of fish using ultrasonic location.
+
+In conclusion, we note that the described underwater sound channel is by no means the only example of a waveguide that exists in nature. Thus, further radio broadcasting from terrestrial radio stations is possible only due to the propagation of radio waves in the atmosphere along giant waveguides. In determining the conditions in the atmosphere, waveguide channels can also be formed for electromagnetic waves with frequencies in the light range. Then, as a result of ultra-distant mirages, in the center you can see an empty sailing ship, and suddenly a city rises in the middle of the ocean.
+
+Application
+Let us consider the question of reflection and transmission of a sound wave at the interface between two media.
+
+Information
+
+Evening mathematical school at the Faculty of Computational Mathematics and Knibretics of Moscow State University. M. V. Lomonosov announces the spring enrollment of students in grades 7-9. The main goal of the VMS is to deepen the scope of the school curriculum and expand knowledge in mathematics, teach the basics of programming and working on a computer. Classes at the school are conducted in the form of lectures and seminars. Meetings with faculty scientists are organized for VMS students. Those who successfully complete the school receive a certificate of completion of the Higher Medical School. Reception of randomness according to the results of the owner, which consists of March at 10 o’clock at the address: 119889, Moscow, Leninskie Gory, Moscow State University, Faculty of Computer Science; phone number for inquiries 139-53-74.

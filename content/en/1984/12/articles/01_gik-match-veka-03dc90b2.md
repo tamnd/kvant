@@ -1,0 +1,57 @@
+---
+id: 1984-12-gik-match-veka-03dc90b2
+issue: kvant_1984_12
+year: 1984
+number: "12"
+title: Match of the century
+authors:
+  - Гик Е. Я.
+rubric: shahmatnaya-stranichka
+rubric_sub: Шахматы
+page_first: 67
+page_last: 68
+tag: G4Y2
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 8abd3305af49037ff84150e2038cc3a58c9c9c405d35e2c08c8b219c52eb08be
+prompt_sha256: draft-1
+translated_from: content/ru/1984/12/articles/01_gik-match-veka-03dc90b2.md
+source_content_sha256: fa9df0bdfc9ff4f509394cb48c4a2bfc884ec2c844835e0b12d51d3f7d4729ed
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+MATCH OF THE CENTURY
+
+Karpov and Kasparov played their last games before the duel in the “match of the century”: the USSR national team - the “rest of the countries” chess team. In this fascinating state, which took place on ten boards in four circles, the top looked at these sword eras with a score of 22:18, several street results (20.5:19.5) almost 15 years ago. On the first two boards, Karpov and Kasparov won their matches with the same score of 2.5:1.5 (win and three draws) respectively against Andersson and Timman after a hard fight.
+
+A. Karpov - W. Andersson New Indian Zazista
+1.d4 Kf6 2.c4 e6 3.Kf3 Cb4+ 4.Cd2 C:d2+ 5.Q:d2+ 0.6.Kc3 d5 7.e3 Kbd7 8.cd ed 9. Cd3 Jle8 10.0-0 Ke4 11.Qc2 Kdf6 12.b4. Let's not dwell too much on the opening subtleties. The pawn move is typical for such positions; it determines the so-called pawn minority attack on the queenside. Some of the initiatives belong to White, but it will turn into something real only after ...70 moves. 12...c6 13.Ke5 Cf5 14.Ka4! g6 15.Fb2 a6 16.Jlfc1 Jle7 17.Kc5 K:c5 18.bc C:d3 19.K:d3 Jle8 20.Jlc3 Jlcc7 21.Jlb3 Ke8 22.Qe2 f6 23.Qf3 Jlf7 24.Kpf1 Kg7 25.Kpf2 Jlce7 26.Kpd1! Qc8 27.Jlab1 h5 28.H3 Ke6 29. h4 Kph7 30. Qh3 Qe8 31. Kpc2 Jld7 32. Npb2 Kg7 33. Kf4 Jlfe7 34. Kpa1 Qf7 35. Jlg1 Ke6 36. Kd3 Kg7 37. g4 hg 38. Jl:g4 Kh5 39.Jlb1. Qe6 40.Qf3 Jlg7 41.Jlbg1. In this situation the party was postponed. Experts believed that Black had a better chance of a draw than White had a chance of winning. However, Karpov has a different opinion. 41...Jde7 42.Kpb2! White's task is to place the knights and exploit the vulnerability of the non-hiding pawns, but immediately 42.Kf4 is not dangerous due to the answer 42...Qf5. Anything that Black can do now is 42...f5. After 43.Jlg5 Qe4 44. Qd1 (44. Qe4 R:e4 45. R:h4 46.K:g6 Rg4 with equality) 44...Q:h4 White has nothing. However, 43.Jl4g2! is too much, and if now 43...Qe4 44.Qd1 Qh4, to 45. R:h1 Qe4 46. R:g6! (46. Kf4 Kpg8) 46... Kp:g6 (46... R:g6 47. Q:h5+ Kpg7 48. Qh8+ Kpf7 49. R:h7+) 47. Q:h5+ Kpf6 48. Kf4, and black is on the edge of sprouting; The threat of 49. Rxe1 and 50. f3 is funny. 42...Kph6 43.Kpc3 Qf7 44.Kf4 K:f4 45.Jl:f4 Re6 46.Kpd2 Qe7 47.Kpe2 Kph7 48.Kpf1 Kph6 49.Jlg3 Kph7 50.Jlfg4 Qf7 51.Jlf4. For now, the rook sacrifice doesn't work: 51. R:g6 52.F:f5 Kph6 53.Jl:g6+ Q:g6 54.F:e6 Kph5! 51...Kph6 52.Kpg1 Kph7 53.Kph2 Kph6 54.Qg2 Kph7 55.Kpg1 Re8 56.Qf3 Rf8 57.Kpf1 Qe7 58.Q:d1 Qe8 59.Qb1 Kph6 60.Kpe2 Qd8 61.Jlfg4 Rfg8 62.Kpf1 Qe8 63.Fd1 Qe6 64.Ff3 Rf7 65.Kpg1 Rfg7 66.a3 Rfe7 67.Kph2 Rf7 68.Lf4 Kph7 69.Fd1 Kph6 70.Fd3 Qe8 71.e4! de 72.Jl:e4 Qd7 73.Fe3+ Kph7 74.Jle6 Jlgg7 75.Jlf3 f5 76.h5! gh 77.Fh6+ Kpg8 78.Jlfe3.
+
+The entire game took place in positional maneuvers, but now it could end in a tactical way - 78...d4 79.Jle8+ Rf8 80.Jl:f8+ Kp:f8 81.Qh8+ Kpf7 82.Fe8+ Kpf6 83.Fe6+ Kpg5 84.Jlg3+ Kph4 (84...Kpf4 85.Fe3+ with the winning rook) 85.F:f5. Throsis is the move that decides the matter. There is a threat of mate with a queen or rook on h3, and on 85...Jl:g3 - 86.fg×.
+
+78...Qc7+. Also leading to quick death, a significant persistent move was 78...Jle7. 79.Kph3 Jle7 80.Jl:e7 Jl:e7 81.Fg6+ Kpf8 82.Ff6+ Kpe8 83.Fh8+ Kpd7 84.Jl:e7+ Kp:e7 85.Fg7+. Black deals.
+
+G. Kasparov - J. Timman Queen's Gambit
+1.d4 Kf6 2.c4 e6 3.Kf3 d5 4.Kc3 Ce7 5.Cg5 0-0 6.e3 h6 7.C:f6 C:f6 8.Fc2 c5 9.dc Qa5 10.cd ed 11.0-0-0. An unexpected decision. However, White takes the d5 pawn without exposing his king too much. 11...Ce6 12.K:d5 Jlc8. After 12...C:d5 13.Jl:d5 Q:a2 14.Cc4 Qa1+ 15.Fb1 C:b2+ 16.Kpc2 Qb1+ 17. R:b1 White is sure to convert. 13.Kpb1 C:d5. If 13...Jl:c5, then 14.b4! Jl:c2 15. K:f6+ gf 16.ba Jl:f2 17.Jd8+, and Black can’t get free. 14.Jl:d5 Kc6 15.Cc4 Kb4 16.Fd2 Jl:c5 17.Jl:c5 Q:c5 18.Jlc1 Qb6 19.Fd7! Jlf8.
+
+Passive move. Interesting variations could arise after 19...K:a2!? 20.C:f7+ Kpf8 (20...Kph7 21.Ff5+ Kph8 22.Jlc8+ Jl:c8 23.C:c8+ Cd8 24.Kp:a2 21.Kd4 (21.Jlc8+ Jl:c8 22.F:c8+ Kp:f7 23.Fc4+ Kpg6 24.F:a2 Fb5! with the required compensation for the pawn) 21...C:d4 22.ed. Teler cannot play 22...K:c1 due to 23.Ce6 and must give up the queen. 24...Kp:f7 25.Fc4+ Qe6! 26.d5 (26.F:a2 Qa2+ 27.Kp:a2 Kpe6 28.Kpb3 Kpd5 29.Kpc3 a5!, creating a separate passed pass) 26...Kc3+!! However, Kasparov was going to act calmly - 20.Jlc2! 21.Kpc1 Ke4 22.C:f7+ 21.Jlc1 Ke4 22.C:f7+ (22.F:f7+ Kph8 23.Fe6 Kd6 with Neisk play) 22...Kph8 23.Ke5!, but after 23...Qa5 the game continued.
+
+20.Qb5 Dd6 21.e4 Kc6 22.Cd5 a6 23.F:b7 Ke5 24.Jlc8 Jl:c8 25.F:c8+ Kph7 26.F:c2 Kpg8 27. Kd2 g5 28. a3 Kpg7 29. Kf1 b6 20. Kg3 Kpg6 31.Kpa2 h5 32. C0 h4 33. C8+ g8+ Cg7 34.Kh5! Black deals.
+
+Competition tasks
+
+23. White starts and wins.
+
+The deadline for sending solutions is February 25, 1985 (with a note on the envelope “Chess competition «Kvant», tasks 23, 24).
+
+⟦folio none⟧
+
+Price 40 kopecks.
+Index 70465
+
+Here is a geometric diagram of the large southern stained glass window of the Cathedral of Our Lady of Parikh, painted with random colors. The BESM-6 computer begins to plot the diagram according to the program created in 1983 by the Moscow ten-classical Aniya Sosinskaya at the VP Summer School for Young Programmers in 2. Novosibirsk.

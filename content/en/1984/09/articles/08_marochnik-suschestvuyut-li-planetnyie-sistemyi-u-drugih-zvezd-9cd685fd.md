@@ -1,0 +1,55 @@
+---
+id: 1984-9-marochnik-suschestvuyut-li-planetnyie-sistemyi-u-drugih-zvezd-9cd685fd
+issue: kvant_1984_9
+year: 1984
+number: "9"
+title: Do planetary systems exist around other stars?
+authors:
+  - Марочник Л. С.
+rubric: novosti-nauki
+rubric_sub: Новости науки
+page_first: 20
+page_last: 20
+page_labels: "18"
+tag: X68X
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 09177e43b780fe6eabd2f814967c15f96079a024c977834b752b01731a696395
+prompt_sha256: draft-1
+translated_from: content/ru/1984/09/articles/08_marochnik-suschestvuyut-li-planetnyie-sistemyi-u-drugih-zvezd-9cd685fd.md
+source_content_sha256: 1d60629022f3ca01f55fc2541cfac9aef8f68e03812bc49695fb9622a3026c69
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 18⟧
+
+Do other stars have planetary systems?
+
+Doctor of Physical and Mathematical Sciences L. S. MAROCHNIK
+
+The question of whether planetary systems exist around any other stars besides the Sun in our Galaxy has been a matter of concern for a long time. Bespocott, because without having an answer to it, it is impossible to even approach such exciting problems as the origin of life, the existence of external civilizations, etc.
+
+If not evidence, then at least gray arguments in support of the existence of a planetary (or protoplanetary) system near the star Vega (and the constellation Lyra) were recently presented by the Anglo-American-Dutch satellite IRAS (IRAS - Infra Red Astronomical Satellite).
+
+It is known that the maximum intensity in the spectrum of Vega's glow occurs in the ultraviolet cloud and that as the wavelength increases, the intensity should decrease. IRAS, however, recorded a large excess intensity in the infrared part of the spectrum. This means that IRAS's infrared detectors have detected a cold cloud of solid particles surrounding Vega, heated to a temperature of 90 K and measuring millimeters in size*, which is thousands of times larger than the size of dust grains in the normal interstellar medium.
+
+According to the scientists conducting the experiments, there must certainly be particles of larger sizes in the area, and if their distribution is the same as in the appearance of astronoids in the Solar System, then the total mass of the cloud surrounding Vega is close to 0.001 $M_C$ (mass of the Sun). But this is precisely the fraction of the mass of the Solar System that comes to the entire set of its large and small planets.
+
+The diameter of the cloud surrounding Vega is still very imprecisely determined. It is estimated to be close to 170 astronomical units. This is approximately twice the diameter of the orbit of Pluto, the last planet in the solar system.
+
+Obviously, in order not to fall on Vega, the cloud particles must roll around.
+
+So, the first evidence has been obtained of the existence of “solid materials” rotating around stars.** Specialists of the IRAS program believe that the clouds surrounding Vega are approximately the same as protoplanetary clouds would be in the relatively early stages of the solar system. This hypothesis seems attractive because Vega is quite young - it is protoplasmic 5 times younger than the Sun.
+
+*) Particles of smaller sizes should be surrounded by Vega under the influence of the pressure of its light.
+
+**) Other reasons that can be explained by the surrounding Vega under the influence of the pressure of its light.
+
+Soviet astrophysicist I. S. Shklovsky gave another red argument in support of this hypothesis. It is well known that the bulk of the solar system is concentrated in the Sun, but that the rotation of the Sun occurs much more slowly than the rotation of its planets surrounding the star. This means that if there is “solid matter” rotating around a planet (or protoplanetary) system, then the star itself must slowly. It turned out that astronomer-observers who studied nearby stars had long noticed that Vega does not rotate (or rotates very slowly), although stars of the same type (spectral class A) rotate rapidly.
+
+IRAS surveyed about 9,000 bright stars in the sky. Of these, only 450 stars were so bright in infrared light that they could be detected by IRAS detectors. According to experts, about 50 of them may turn out to be systems similar to Vega, but final confirmation has not yet been received.
+
+And this is not surprising. As one of the leaders of the experiment, George Aumann, notes, if a satellite like IRAS examined the Sun from a distance of 30 light years (the distance to Vega is approximately 26 light years), it would not be able to detect our planetary system even at the margin of fresh sensitivity. From his “infrared point of view,” the Sun would appear to be a completely normal and uninteresting star.

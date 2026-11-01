@@ -1,0 +1,60 @@
+---
+id: 1985-1-novyiy-priem-vo-vsesoyuznuyu-zaochnuyu-matematicheskuyu-shkolu-7ac5cf7a
+issue: kvant_1985_1
+year: 1985
+number: "1"
+title: New admission to the All-Union Correspondence School of Mathematics
+rubric: informatsiya
+rubric_sub: Информация
+page_first: 54
+page_last: 54
+page_labels: "52"
+tag: BPHF
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: a331e968f7fc1c38ca65386d90cd2f8718fc5aacbcbdb6017f6f6b67cca255fa
+prompt_sha256: draft-1
+translated_from: content/ru/1985/01/articles/20_novyiy-priem-vo-vsesoyuznuyu-zaochnuyu-matematicheskuyu-shkolu-7ac5cf7a.md
+source_content_sha256: cc03e30e1b3f65e47b4be93729ffe9d6a77aab028b0058140a8daa82af07b94f
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 52⟧
+
+interesting, serious, exciting and even a little gambling.
+Each participant in the perfection received two tasks. In one of them, which had to be requested in BASIC, it was necessary to display a given stylized one, composed of the characters figure, on the screen, spending a minimum number of sentences on this. The second task is to program in Pascal the calculation of the factorial so that all the digits of the result are displayed on the screen. The criterion for this task is the speed of the program. The winners were schoolchildren from Povyazhskaya Bistritsa V. Bell and Novosibirsk ninth-grader P. Zemtsov.
+
+And the next day there was a final conference, where schoolchildren told (and showed on the screens of their cars!) what had been done during this unusual week in their lives.
+
+The closing was solemn. None of the participants were left without a gift - books on programming in Slovak and Czech, and active participants of the School were awarded diplomas and memorable gifts. At the same final meeting, they joked about the triumph of the moment of Bach's prelode and fugue, Mozart's meddini performed by... the ADT-4316 computer.
+
+For Soviet young programmers traveling abroad for the first time, this School brought many vivid impressions. New friends were brought together by Pascal, Basic, Rapier...
+
+Yu. A. Pervin
+Bratislava — Moscow — Novosibirsk
+
+We will admit a new one to the All-Union Correspondence Mathematical School
+To the All-Union Correspondence Mathematical School of the USSR Academy of Pedagogical Sciences at Moscow State University. M.V. Lomonosov (VZMSH) accepts seventh grade and vocational school students, with the exception of those living in Moscow and Leningrad.
+To enter the school you need to complete a period of assignment.
+Task 1. Study the article “Pairs of numbers and operations with them” in this issue of the magazine (see p. 19) and solve problems 1-20 from this article (not necessarily all; solutions to individual points of the problems are taken into account).
+Solutions to the problem must be completed in Russian in a student's squared notebook. The tasks should go in the order they are given in the article, first the condition, then the solution. You need to paste a piece of paper onto the cover of the terradi, draw it and fill it out according to the following pattern:
+Region
+Last name, first name
+Year of birth
+Class and school
+Last name, i. O. math teacher
+Place of work and position of the parent
+Full postal address
+The deadline for sending assignment No. 1 is no later than April 5, 1985 (by postmark).
+
+Moscow
+Ivanov Petr
+1971
+7th grade “B” school No. 2
+Orlov Boris Petrovich
+Father is a driver, authors No. 3,
+mother is a nurse
+123456 Klin, st. Stroitel, 1, apt. 1.

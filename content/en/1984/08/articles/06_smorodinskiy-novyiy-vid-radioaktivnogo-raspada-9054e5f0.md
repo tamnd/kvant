@@ -1,0 +1,68 @@
+---
+id: 1984-8-smorodinskiy-novyiy-vid-radioaktivnogo-raspada-9054e5f0
+issue: kvant_1984_8
+year: 1984
+number: "8"
+title: New type of radioactive decay
+authors:
+  - Смородинский Я. А.
+rubric: novosti-nauki
+rubric_sub: Новости науки
+page_first: 40
+page_last: 40
+page_labels: "38"
+tag: JASJ
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: e78833b18bf772a02b087c5688c880e53e747c4ae305a77597be0ec232d8ad14
+prompt_sha256: draft-1
+translated_from: content/ru/1984/08/articles/06_smorodinskiy-novyiy-vid-radioaktivnogo-raspada-9054e5f0.md
+source_content_sha256: baca141a053944f3b7e1ae1e4be5c640c9545fa378cfdb554708a30957ff054a
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 38⟧
+
+Fig. 6.
+
+This theorem immediately follows from Euler’s formula, because for a point Z lying on a circumscribed circle, the area of ​​the pedal triangle is zero, that is, it degenerates into a straight line.
+
+Exercise
+If point Z serves as the center of mass of a material system point αA, βB, γC, then the three numbers α, β, γ are called barycentric coordinates of point Z relative to point A, B, C.
+
+1. Prove that for any point on the plane the barycentric coordinates are determined uniquely up to proportionality and vice versa; any triple of numbers (α, β, γ) with a non-left sum defines exactly one point on the plane.
+
+2. Prove that the barycentric coordinates of the “remarkable points” in triangle ABC relative to its vertices are equal: for the center Z of the inscribed circle - (a, b, c); for the center Z of the outer circle tangent to side BC - (-a, b, c); for the center O of the circumcircle - (sin 2A; sin 2B; sin 2C); for point H of intersection of heights - (tg A, tg B, tg C); for point G the intersection of medians is (1, 1, 1).
+
+3. Prove that the distance between points M and M' with barycentric coordinates (α, β, γ) and (α', β', γ') relative to point A, B, C with α+β+γ=α'+β'+γ'=1 can be calculated by the formula |MM'|²=-(a²k_bk_c+b²k_a+c²k_bk_b), where k_a=α-α', k_b=β-β', k_c=γ-γ'.
+
+4. Express the distances from the center of the circumcircle of the triangle to the center of the inscribed and outer circles in terms of the radius of these circles.
+
+5. Prove that (in the notation of Problem 2) |OG|²=R²-(a²+b²+c²)/9, where R is the radius of the circumscribed circle.
+
+Science News
+
+New type of radioactive decay
+
+There are many elements in nature, mostly heavy ones, that spontaneously emit alpha particles, beta particles and gamma rays.*) These elements form three natural radioactive series (families), with each subsequent member arising from the radioactive decay of the previous one.
+
+The ancestor of one series is the nucleus of 238U, an isotope of uranium with mass number 238 (uranium family), the other is the nucleus of thorium 232Th (thorium family), and the third is the nucleus of the isotope of uranium 235U, also called aktinuραn (aktinium family). All three rows of sources end with a core
+
+one or another lead isotope.*)
+
+In the family that starts with 235U, there is a radium isotope nucleus that decays with the emission of an alpha particle, turning into a radion nucleus. This decay is followed by two more similar ones - the transformation of radion into polonium and polonium into lead:
+
+223Ra → α → 219Rn → α → 215Po → α → 211Pb.
+
+Physicists have long been interested in the question: should alpha particles be released one at a time, or can they unite into a 12C carbon nucleus and fly out in one large “piece”? This process is naturally hampered by the absence of a radiocarbon nucleus in the nucleus. However, the α-particle is also not “prepared” in advance, but owes its “brothers” just before leaving the nucleus. It turns out that it is still easier for an alpha particle to do this than a carbon nucleus, and until recently I had not observed the emission of a light nucleus (except for the nucleus of a helium atom, that is, an alpha particle) from a heavy one.
+
+*) Natural radioactivity was discovered in 1896.
+
+In 1940, the spontaneous fission of heavy nuclei into two approximately identical fragments was discovered (by K. A. Petryak and G. N. Flerov), but this phenomenon is not at all similar to the emission of a light particle. Only recently was a new type of radioactive decay discovered, which occurs with the radiation of a carbon nucleus. It turns out that carbon nuclei actually fly out of radium, and not 12C, but 14C, so that three alpha particles take two more neutrons with them. In this case, as calculations show, the maximum energy gain is achieved - 32 MeV. If the nucleus of the 12C isotope were emitted, it would carry away less energy - 28 MeV.
+
+The probability of the 14C nucleus escaping is very small - it is 1010 times less than the probability of the α-decay of radium. In other words, one carbon nucleus is emitted per 10 billion alpha particles. According to estimates, the emission of the 12C nucleus is even less likely (another 106 times less). With the same probability, nuclei of other isotopes (13C, 15C) should be emitted.
+
+We can say with enlargement that a new area of ​​research has opened up for physicists. I'M WITH.

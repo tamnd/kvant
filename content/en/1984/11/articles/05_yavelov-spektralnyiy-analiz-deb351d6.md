@@ -1,0 +1,51 @@
+---
+id: 1984-11-yavelov-spektralnyiy-analiz-deb351d6
+issue: kvant_1984_11
+year: 1984
+number: "11"
+title: Spectral analysis
+authors:
+  - Явелов Б. Е.
+rubric: raznoe
+rubric_sub: Разное
+page_first: 25
+page_last: 25
+page_labels: "23"
+tag: FC19
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 70429d80d7349eb04a7648e27eba6c382c780329280df09bd8641d3bbe7dec61
+prompt_sha256: draft-1
+translated_from: content/ru/1984/11/articles/05_yavelov-spektralnyiy-analiz-deb351d6.md
+source_content_sha256: 282c7c01c3dce82221199690f40d752471aa12086706424b6f5f3614ba1c6ed5
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 23⟧
+
+Spectral analysis
+
+This year marks the 125th anniversary of spectral analysis, one of the most important physical methods for studying matter.
+
+In 1802, the English scientist W. H. Wollaston (1766–1828) first noticed narrow dark lines in the solar spectrum, but did not attach much significance to this observation. Much more comprehensive and reliable results were obtained in 1814-1815 by the German optician J. Fraunhofer (1787-1826). He showed that the spectrum of the Sun contains many dark lines (later they became known as Fraunhofer lines), and the spectrum of a flame into which table salt was introduced contains two bright yellow lines. At the same time, he also noticed that the positions of these two colored lines exactly coincide with the positions of the two dark lines (D-lines, according to Fraunhofer) of the sun
+
+Spectra of art and the position of the Sun, sodium and hydrogen. The numbers on figure are wavelength ranges (in nanometers) corresponding to different parts of the visible spectrum. The letters indicate the most intense Fraunhofers of the line.
+
+Spectra of art and the position of the Sun, sodium and hydrogen. The numbers on figure are wavelength ranges (in nanometers) corresponding to different parts of the visible spectrum. The letters indicate the most intense Fraunhofers of the line.
+
+This is the brief background of spectral analysis. Its actual history begins in October 1859, when a short article “On Fraunhofer Lines” appeared in the works of the Berlin Academy of Sciences - only two pages. The article was written by the already famous at that time professor of physics at the University of Heidelberg G. Kirchhoff (1824-1887), and it was about spectral studies that he carried out together with others - no less important - the Heidelberg chemist professor R. Bunsen (1811-1899).
+
+The most important experiment is as follows: before decomposition into a spectrum (with the help of recognized solar rays, they passed through a flame into which table salt was introduced. “In those cases when sunlight was sufficiently weakened,” Kirchhoff wrote, two light lines appeared in place of dark D-lines; if the intensity of sunlight crossed a certain boundary, then both dark D-lines were revealed with much greater clarity than in the absence of a flame with table salt). salt." Kirchhoff concluded: “We can assume that the light lines in the flame spectrum, coinciding with the D-lines, always arise from the presence of sodium in it; therefore, the dark D-lines in the solar spectrum make one think that there is sodium in the solar atmosphere."
+
+Nowadays, it is even difficult to imagine how much of an impression this choice made on his contemporaries - for the first time, terrestrial science had the opportunity to determine the chemical composition of distant celestial bodies. The very method of spectral analysis, which from the first experiments seemed to be taken into account by the Heidelberg professor, was found to be verified and established with all certainty in the subsequent works of Kirchhoff and Bunsen.
+
+Here is its basic principle: each chemical element has a specific arrangement of spectral lines that appear bright and colored when the atoms of that element emit light, and dark when they absorb light.
+
+The enormous fruitfulness of the spectral analysis method was immediately apparent. Already in 1860, Kirchhoff and Bunsen, having registered an unknown spectrum, discovered a new element - cesium. In 1861, they also discovered rubidium. Thallium and indium were soon discovered by others in a similar manner. Over time, the discovery of Kirchhoff and Bunsen turned into a standard, universal and extremely sensitive laboratory method for the qualitative and quantitative analysis of a substance. Thus, it can be used to detect impurities whose content is 10⁻⁶% of the base material.
+
+As for natural spectra and the reasons for the amazing patterns in the arrangement of spectral lines, the answer to these questions was obtained only in the first decades of our century, when quantum mechanics arose, a theory whose very creation was inseparable from the gap in “deciphering” the spectra.
+
+B. E. Yavelov

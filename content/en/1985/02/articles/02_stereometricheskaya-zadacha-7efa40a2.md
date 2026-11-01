@@ -1,0 +1,29 @@
+---
+id: 1985-2-stereometricheskaya-zadacha-7efa40a2
+issue: kvant_1985_2
+year: 1985
+number: "2"
+title: '[Stereometric task]'
+rubric: smes
+page_first: 68
+page_last: 68
+tag: ZG3N
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: ade9bde325531770f51c8a6c55ed204ba95618091a7ac46f58fefd4953d42726
+prompt_sha256: draft-1
+translated_from: content/ru/1985/02/articles/02_stereometricheskaya-zadacha-7efa40a2.md
+source_content_sha256: d9096c2f18eb490f396c2810b2005922cb60882e3e1eb054dbacb8ede6af3ad2
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+It's no secret that stereometric problems become a stumbling block in exams for many applicants. Analysis of exam papers shows that one of the principles of this is insufficient spatial imagination. To help the reader develop this important quality, we will publish drawings (and, of course, conditions) for multifunctional stereometric tasks on the fourth cover page. Solutions, along with supporting diagrams, can be found in the next issue of the magazine. Of course, the reader is first recommended to solve the problem on his own; in this case, additional constructions may be useful, which will sometimes be made on the general drawing.
+
+Emphasizing that our “beautiful” drawings are a kind of ideal that we must learn to imagine rather than reproduce on our own. In the overwhelming majority of cases, keeping the overall picture in mind, you can get by with a much more approximate drawing of the entire configuration, and more often even only with drawings of some of its sections or design.
+
+Problem. A paramid is described near the cone, the base of which is a rhombus; the lengths of the diagonals of the rhombus are 6 and 8 cm. Find the radius of the sphere touching the lateral surface of the cone and inscribed in the trihedral angles at the base of the paramid, if its height has a length equal to 1 cm.
