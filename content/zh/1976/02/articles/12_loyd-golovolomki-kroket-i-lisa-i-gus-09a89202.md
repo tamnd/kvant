@@ -1,0 +1,37 @@
+---
+id: 1976-2-loyd-golovolomki-kroket-i-lisa-i-gus-09a89202
+issue: kvant_1976_2
+year: 1976
+number: "2"
+title: '[槌球和狐狸和鹅拼图]'
+authors:
+  - Лойд С.
+rubric: smes
+page_first: 47
+page_last: 47
+page_labels: "45"
+tag: MQ45
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 62eb6b294dd10035e78989a58b2ced8325d03ef16c523cfa9152bcf5aac3f134
+prompt_sha256: draft-1
+translated_from: content/ru/1976/02/articles/12_loyd-golovolomki-kroket-i-lisa-i-gus-09a89202.md
+source_content_sha256: 96fef6f38a0157dc08c7cb9e6c94b4443df4f6a2163c211122f4dfeab9bdcb66
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 45⟧
+
+谜题
+萨姆·劳埃德
+
+“槌球”
+你在这里看到的这位年轻女士想知道如何以最少的直线击球次数使球从 A 到 Z 完成所有转弯。
+关于做什么的提示。
+
+《狐狸与鹅》
+你能用多少步来交换鹅和狐狸的位置？在最终位置，鹅应该在 3 和 4 格上，狐狸应该在 5 和 6 格上。
+开始用狐狸移动人物。每个人物一次移动到相邻的区域（圆圈）。

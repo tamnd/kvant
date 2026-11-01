@@ -1,0 +1,58 @@
+---
+id: 2023-10-zadachi-5-8-eeed2a51
+issue: kvant_2023_10
+year: 2023
+number: "10"
+title: 问题5-8
+rubric: konkurs-imeni-a-p-savina
+rubric_sub: Конкурс имени А. П. Савина
+page_first: 28
+page_last: 28
+tag: 5X4U
+lang: zh
+source: kvant_digital
+extraction: native
+content_sha256: f444cde427389e785a43125d0192d9888f65d7203d7cd2f25ea5bcfcc202edc4
+prompt_sha256: draft-1
+translated_from: content/ru/2023/10/articles/02_zadachi-5-8-eeed2a51.md
+source_content_sha256: 38f65da9f0655ed78eb0a1c07d34f1c193330dbdf79463861611deac75ea9601
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+以 A.P. SAVINA 命名的竞赛
+
+我们继续下一场竞赛来解决数学问题。这些任务主要是为 8-9 年级的学生设计的，我们建议年龄较小的学生尝试参加杂志竞赛«Kvant»（参见网站 kvantik.com）。将您可以解决的问题的解决方案发送至：savin.contest@gmail.com。除了您的名字和姓氏之外，请注明您就读的城市、学校和班级。我们不仅欢迎学生个人参加比赛，也欢迎团队参加比赛（在这种情况下，将发送一份作品并附上参赛者名单）。您可以从任何旅游团开始参加。获奖者将获得杂志«Kvant»颁发的证书和奖品。作业、解决方案和结果发布在sites.google.com/view/savin-contest 祝您成功！
+
+5. 十五个桶摆成三角形（图1），并用环形箍盖住。供应十六桶
+
+⟦column⟧
+
+⟦figure⟧
+
+图 4
+
+⟦figure⟧
+
+图 2
+
+⟦figure⟧
+
+图 1
+
+或者是方形 4 u 4 (图 2) 的形式，并且还覆盖有环形箍。比较这些箍的长度。 P·科热夫尼科夫
+
+6. 有一杯充满$на^{2} 3,$的咖啡和同样一杯充满$на^{2} 3$的牛奶。可以来回倒任意量的液体，充分混合，但不能倒出任何东西。是否可以在一个玻璃杯中以 1:1 的比例喝一杯牛奶和咖啡制成的饮料？ E·斯米尔诺夫
+
+7. Vasya 画了一个 15 u 15 正方形的图形，其中以正方形 $3 u 3 (рис.^{3).}$ 的形式切出了四个孔
+
+⟦figure⟧
+
+图 3
+
+Vasya 将这个图形切割成图形，每个图形都是$(рис.^{4).}$ 三种类型之一。众所周知，切割中存在相同数量的$2 и^{3}$ 类型图形。剪辑中每种类型有多少个人物？ S·科斯廷
+
+8. a) Petya 和 Vasya 玩这样的游戏。 Petya 在黑板上写下任何整数。 Vasya 没有看到棋盘，他的目标是猜测棋盘上当前有什么数字。 Vasya 一步步说出他的猜测，如果不正确（即与猜测时棋盘上的数字不一致），Petya 会将棋盘上的数字加 1，之后 Vasya 尝试再次猜测。 Vasya 能否始终保证在有限步数内猜出数字？ b) 同样的游戏，同样的问题，但现在Petya，每走一步后，可以自行将数字改变1（增加或减少1；数字不能保持不变）。 c) 相同的游戏和相同的问题，但现在，当 Vasya 的猜测小于棋盘上现在的数字时，Petya 将数字增加 1，如果 Vasya 的猜测更大，则将数字减少 1。 A.Gaek（11年级学生）

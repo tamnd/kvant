@@ -1,0 +1,41 @@
+---
+id: 1976-3-loyd-golovolomka-boy-scouts-puzzle-562082a9
+issue: kvant_1976_3
+year: 1976
+number: "3"
+title: '[童子军拼图]'
+authors:
+  - Лойд С.
+rubric: smes
+page_first: 27
+page_last: 27
+page_labels: "25"
+tag: IA1S
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 5c110c956a25d5d0de08e9f45316d507bef91ea2baf91fb92298fb0c3741c6e6
+prompt_sha256: draft-1
+translated_from: content/ru/1976/03/articles/06_loyd-golovolomka-boy-scouts-puzzle-562082a9.md
+source_content_sha256: c5b166b8978490a93fd8fd6133045641edad60ec6c652be6dc641f7013c3f473
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 25⟧
+
+萨姆·劳埃德的谜题
+
+Szm Loyd（1841-1911）是一位极具创造力的美国拼图设计师。
+
+他的许多难题，如果形式略有不同，就会变成有问题的数学问题，允许概括，并导致新问题。
+
+但劳埃德以一种引人入胜、有趣的方式呈现这些任务。劳埃德发表了数千个具有挑战性的问题（不仅是数学问题，还包括语言问题和国际象棋问题）。
+
+他自己为习题画图，有时还自己打字打印。我们在此展示的谜题发表在 1912 年于费城出版的 Sam Loyd's Puzzles 一书中。
+
+童子军拼图
+
+在检查这个迷你目标时，争论只集中在哪个射手击中了中心：众所周知，一切都已经完成了。
+每人发射六枪，得到 71 分。你能找出三组共 71 点的 6 个数字吗？
