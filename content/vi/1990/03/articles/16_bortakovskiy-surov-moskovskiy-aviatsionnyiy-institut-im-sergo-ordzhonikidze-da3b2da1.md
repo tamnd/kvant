@@ -1,0 +1,92 @@
+---
+id: 1990-3-bortakovskiy-surov-moskovskiy-aviatsionnyiy-institut-im-sergo-ordzhonikidze-da3b2da1
+issue: kvant_1990_3
+year: 1990
+number: "3"
+title: Viện Hàng không Moscow được đặt theo tên. Sergo Ordzhonikidze
+authors:
+  - Бортаковский А. С.
+  - Суров О.
+rubric: ekzamenatsionnye-materialy
+rubric_sub: Экзаменационные материалы
+page_first: 69
+page_last: 69
+page_labels: "67"
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 23d4e3d9afb9597b20a65469a94f11a8293d58e5504d62112d76352cbb513046
+prompt_sha256: draft-1
+translated_from: content/ru/1990/03/articles/16_bortakovskiy-surov-moskovskiy-aviatsionnyiy-institut-im-sergo-ordzhonikidze-da3b2da1.md
+source_content_sha256: 773d2962caf3e17462a604d051b079900dfdf72886a1120c57aefccf1614d5c2
+translation_model: draft
+translation_run: vi-draft-gaps-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 67⟧
+
+Viện Hàng không Moscow được đặt theo tên. Sergo Ordzhonikidze
+
+Toán học
+Bài thi viết
+
+Tùy chọn 1
+
+1. Số hạng thứ sáu của một cấp số cộng là 10 và tổng của mười sáu số hạng đầu tiên của cấp số cộng này là 200. Tìm số hạng thứ mười hai của cấp số cộng.
+
+2. Giải phương trình
+
+$$\text{tg} x + \text{tg} \left( x - \frac{\pi}{4} \right) = 1.$$
+
+3. Tìm các giá trị lớn nhất và lớn nhất có thể có của diện tích hình bình hành, tích chiều dài của hai chiều cao không bằng nhau bằng 9 và các giá trị góc trục của hình bình hành không nhỏ hơn 30° và không quá 45°.
+
+4. Giải bất đẳng thức
+
+$$\frac{\log_3(5x+1)}{\log_3(7x-1)} \leq 1.$$
+
+5. Tìm tất cả các giá trị hữu tỉ của tham số $a$ mà hàm số
+
+$$\sin \left( \frac{2ax}{a^2+\sqrt{12}} \right) \text{ и } \text{tg} \left( \frac{2x}{1-2a+\sqrt{108}} \right)$$
+
+có cùng thời kỳ.
+
+6. Đỉnh của hình nón nằm trong mặt phẳng đáy ABCD bằng diện tích tứ giác SABCD, và chu vi đáy của hình nón là một tứ giác, được tạo bởi tiết diện diện tích bởi một mặt phẳng đi qua các cạnh AD và BC của đáy của diện tích và chia cạnh SC theo tỷ lệ 3:1, tính từ đỉnh S. Tìm tỉ số giữa thể tích của hình nón và thể tích của diện tích.
+
+Tùy chọn 2
+
+1. Trên đoạn [-2; 2] tìm giá trị lớn nhất của hàm tùy ý
+
+$$y = -\frac{1}{3} x^3 + x + 1.$$
+
+2. Số $a$ được đưa ra. Tìm $\cos \left( \frac{\pi}{4} - \alpha \right) \times \sin \left( \frac{3\pi}{4} - \alpha \right)$ nếu bạn biết rằng $\sin \alpha \left( 1 - 2\sin^2 \frac{\alpha}{2} \right) = a.$
+
+3. Giải bất đẳng thức
+
+$$\frac{\log_2 \left( \frac{x}{2} \right)}{\log_2 x} - \frac{\log_2 x^2}{\log_2 x - 1} \leq 1.$$
+
+4. Các cạnh bên AB và CD của hình thang được kéo dài cho đến khi cắt nhau tại điểm E. Điểm O là tâm đường tròn ngoại tiếp tam giác ADE. Tìm các giá trị góc nhọn A của hình thang nếu biết các điểm A, B, C, D, O nằm trên đường tròn có bán kính nhỏ hơn $\sqrt{3}$ lần bán kính của đường tròn ngoại tiếp tam giác ADE.
+
+5. Giải phương trình
+
+$$\sqrt{35-2\sqrt{45-2x}} = x-5.$$
+
+6. Trong hình tam giác đều, SABC có hình cầu vissana. Tỉ số giữa diện tích đáy của paramid ABC và diện tích bề mặt của hình cầu là $q$. Một mặt phẳng song song với đáy của paramid chạm vào quả cầu và cắt paramid $SA_1B_1C_1$ khỏi SABC paramid. Tìm tỷ lệ diện tích bề mặt của paramit $SABC$ và $SA_1B_1C_1$.
+
+Vật lý
+
+Bài thi viết
+
+Tùy chọn 1
+
+1. Một điểm vật chất trên mặt phẳng thực hiện một chuyển động có dạng
+
+$$x = a \cos \omega t,$$
+
+$$y = b \cos (\omega t + \varphi_0),$$
+
+trong đó $x$ và $y$ là tọa độ của điểm tại thời điểm $t$, $a=4$ m, $b=8$ m, $\varphi_0=\pi$, $\omega=\pi c^{-1}$. Xác định quỹ đạo của điểm.
+
+2. Trên một mặt phẳng nghiêng tạo thành một góc $a$ với mặt phẳng nằm ngang, có một vật có khối lượng $M$ được giữ cho không bị trượt bởi một điểm dừng. Một viên đạn có khối lượng $m$, LET, di chuyển với tốc độ $v$ và đi theo mặt phẳng nghiêng, chạm vào khối và mắc kẹt trong đó. Sau bao lâu vật sẽ trở về vị trí ban đầu? Hệ số ma sát giữa vật và mặt phẳng nghiêng là $\mu$.
+
+3. Một chất khí lý tưởng chuyển từ từ từ trạng thái có thể tích $V_1=32$ l và áp suất $p_1=4,1 \cdot 10^5$ Pa sang trạng thái có thể tích $V_2=9$ l và áp suất $p_2=15,5 \cdot 10^5$ Pa sao cho trong quá trình lăn áp suất thay đổi tùy theo thể tích theo định luật tuyến tính $p=aV+b$, trong đó $a$ và $b$ là các hằng số. Ở thể tích nào thì nhiệt độ của khí trong quá trình này sẽ lớn nhất?

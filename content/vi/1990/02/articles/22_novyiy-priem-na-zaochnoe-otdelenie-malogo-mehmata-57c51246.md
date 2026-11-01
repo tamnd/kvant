@@ -1,0 +1,74 @@
+---
+id: 1990-2-novyiy-priem-na-zaochnoe-otdelenie-malogo-mehmata-57c51246
+issue: kvant_1990_2
+year: 1990
+number: "2"
+title: Tuyển sinh mới vào bộ phận thư tín của Maly Mekhmat
+rubric: informatsiya
+rubric_sub: Информация
+page_first: 73
+page_last: 73
+page_labels: "71"
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: a516037abe565e6570a0afbc9f446bae22e2e75eadd9991aac77d17bf44ab2a7
+prompt_sha256: draft-1
+translated_from: content/ru/1990/02/articles/22_novyiy-priem-na-zaochnoe-otdelenie-malogo-mehmata-57c51246.md
+source_content_sha256: 6a3ebba7a5753a22a9ebaf88d7b957774afb109597340241656418c1daa0d86f
+translation_model: draft
+translation_run: vi-draft-gaps-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 71⟧
+
+---
+running_head:
+folio:
+---
+
+Tuyển mới vào bộ phận thư tín khoa Cơ khí nhỏ
+
+Khoa Cơ và Toán Tiểu học - trường toán thuộc Khoa Cơ và Toán của Đại học Tổng hợp Matxcova - thông báo tuyển sinh sinh viên tốt nghiệp cùng lớp vào khoa văn. Việc xét tuyển vào Khoa Cơ học và Toán học Nhỏ (MMMF) dựa trên kết quả của bài viết giới thiệu lời giải bài toán được công bố dưới đây.
+
+Nhiệm vụ chính của Khoa Nhỏ là tiếp thu môn toán, đào sâu kiến ​​thức trong khuôn khổ chương trình học ở trường, cũng như mở rộng tầm nhìn toán học của học sinh trung học cơ sở.
+
+Lớp học hàm thụ tiểu học vào tháng 10. Giáo dục tại Cơ chế nhỏ là miễn phí. Thời gian đào tạo là ba năm. Sinh viên khoa thư tín đặc biệt hoàn thành xuất sắc tất cả các bài tập sẽ nhận được chứng chỉ hoàn thành MIMF.
+
+Đội ngũ giảng viên bộ môn thư tín của MMMF là các học viên cao học và sinh viên Khoa Cơ và Toán. Việc phát triển các tài liệu quảng cáo chuyên đề được thực hiện bởi hội đồng phương pháp của MMMF, bao gồm các giáo sư và giáo viên của Khoa Cơ học và Toán học.
+
+Mong muốn vào Malyi Mekhat phải được gửi chậm nhất là vào ngày 1 tháng 5 năm 1990 tới MMMF lời giải bài toán công việc tuyển sinh (trong trường hợp này, tất cả những học sinh đã hoàn thành lớp 9 hoặc lớp 10 không nhất thiết phải được giới thiệu vào trường tích hợp vật lý-toán học tại Đại học Tổng hợp Moscow. Học sinh, đã được cấp thành công). Công việc phải được hoàn thành vào vở học tập trong lớp học. Trên bìa cuốn sổ, dán một tờ giấy ghi chép với những thông tin sau:
+
+1) tài nguyên, vùng, miền;
+2) họ, tên của học sinh;
+3) trường, lớp (tên đầy đủ);
+4) địa chỉ nhà đầy đủ (bao gồm cả mã bưu điện);
+5) họ, tên, sự vắng mặt của cha mẹ, nơi làm việc và chức vụ.
+
+Trong tác phẩm của bạn, hãy lấy một mảnh giấy $4 \times 6$ cm², trên đó ghi địa chỉ nhà đầy đủ của bạn (ghi mã bưu điện) và khâu vào địa chỉ: 119899 Moscow, Moscow State University, Maly Mekhat.
+
+Chấp nhận
+Đối với học sinh lớp 8-11 ở Mátxcơva và vùng lân cận Mátxcơva có khoa buổi tối của MMMF. Thắc mắc qua điện thoại: 939-39-43.
+
+Bài tập nhập môn cho Tiểu khoa Cơ và Toán năm 1990
+
+1. Trong màn bắn pháo hoa lễ hội, 2 gói đã được tung ra với thời gian cách nhau 6 phút. T phút sau khi bắt đầu, gói đầu tiên ở độ cao $h_1(t) = 100\sqrt{2}t$ mét và gói thứ hai ở độ cao $h_2(t) = 100\sqrt{3}t$ mét. Gói nào sẽ cao hơn 5 phút sau khi bắt đầu gói thứ hai?
+
+2. Tìm điểm M bên trong tứ giác lồi ABCD sao cho tổng $MA + MB + MC + MD$ nhỏ nhất.
+
+3. Tìm tất cả các số nguyên dương x và y thỏa mãn phương trình $xy - 3x - 5y = 0$.
+
+4. Dựng một tam giác bằng compa và thước không chia, nếu biết các yếu tố sau, tức là được vẽ trên một tờ giấy: một đoạn bằng cạnh của tam giác này, một đoạn bằng chiều cao hạ xuống cạnh này và một góc bằng góc giữa chiều cao này và một trong các cạnh còn lại.
+
+5. Cho các số không âm x, y và z liên hệ với nhau bởi m $x + y + z = 1$. Chứng minh rằng $xy + yz + zx \leq \frac{1}{3}$.
+
+6. Độ dài các cạnh của một tam giác vuông là x, $2kx$ và $3k^2x$. Tìm tất cả có thể k.
+
+7. Có 1990 hộp trên bàn trong đó có các quả bóng: trong một hộp có một quả bóng, trong hộp kia có hai quả bóng, ở hộp thứ ba có ba quả bóng, v.v. cho đến năm 1990. Thao tác sau được cho phép: tất cả các quả bóng ra khỏi hộp bất kỳ, chẳng hạn như m và n, m ≥ n, sau đó m - n quả bóng được đặt vào một trong hai hộp này và 2(m - n) vào hộp kia. Có thể lặp lại thao tác đủ số lần để đảm bảo rằng tất cả các hộp đều trống không?
+
+8. Đối với 2 ghế trống trong hội đồng biệt đội có 4 ứng cử viên: Petya, Kolya, Sergei và Tanya. Các cuộc bầu cử diễn ra bí mật: tại cuộc tập hợp những người tiên phong có 4 họ được phân phát và mỗi người tiên phong gạch bỏ 2 họ. Theo kết quả bỏ phiếu, Petya nhận được nhiều phiếu bầu nhất - 8, và Kolya nhận được ít nhất - 5. Có bao nhiêu người tiên phong có mặt tại buổi họp mặt?
+
+9. 7 chiếc mỏ chạy ra đấu trường cirak có hình tròn bán kính 7 mét. Có nhất thiết khoảng cách giữa chúng không vượt quá 7 mét không?
+
+10. Tại sao các phương trình $x^3 + 2ax^2 + 2x + 1 = 0$ và $x^4 + (2a + 1)x^3 + (2a + 2)x^2 + 4x + 3 = 0$ có nghiệm chung?
