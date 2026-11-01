@@ -1,0 +1,46 @@
+---
+id: 1986-3-dve-zadachi-v-svyazi-s-kartinoy-i-i-levitana-mart-25a2dec7
+issue: kvant_1986_3
+year: 1986
+number: "3"
+title: '[Two tasks in connection with I. I. Levitan’s painting “March”]'
+rubric: raznoe
+rubric_sub: Разное
+page_first: 10
+page_last: 10
+page_labels: "8"
+tag: AZ3C
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 3835480816239076338e1abfc0627eed28f96dcdc27780152d3ebd29277d2df6
+prompt_sha256: draft-1
+translated_from: content/ru/1986/03/articles/04_dve-zadachi-v-svyazi-s-kartinoy-i-i-levitana-mart-25a2dec7.md
+source_content_sha256: dec958baf76040288adb457e5077f1357ca782084f6d9ad1b39641bf7e317e1b
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 8⟧
+
+quanta of a traveling electromagnetic wave) with different energies and impulses. This is the state of the hypothesis of light quanta, developed by Einstein 20 years before it was proven by quantum electrodynamics.
+
+As a result of field quantization, the concept of a particle spontaneously arose as a characteristic of the excitation of an electromagnetic wave with a certain length. This is how the problem of “wave-particle duality” was solved. An amazing idea - to perceive particles as quantum states of oscillators of a certain field - turned out to be extremely fruitful. It produced all modern theoretical physics. The field turned out to be the primary concept. Elementary particles arise as a result of its quantization.
+
+The application of quantum mechanics to fields that describe particles other than photons, such as electrons and positrons or pi-mesons, leads to a very poor result. In emptiness there are zero oscillations of the electron-positron, pon and, in general, fields of all possible particles. These zero-point oscillations manifest themselves in the fact that in a vacuum the
+“particle-antiparticle” pairs appear and disappear: electron – positron, nucleon – antinucleon... The vacuum is filled with such spontaneously born, formed and disappearing particles, they are called “virtual” from the Latin virtue - “possibility”.
+
+But as soon as two nucleons or an electron and a positron collide in a vacuum, virtual particles can turn into realizations - new particles are released during the collision.
+
+* * *
+
+We have told only about a small part of the amazing properties of emptiness. In recent years, it has become known that in a vacuum, under the influence of external fields or high temperature, transitions to other states can occur, similar to the melting of solids. But the most remarkable thing is the “zero oscillations” of the geometric properties of space, which may provide the key to understanding the connection with other forces of gravity and other forces of nature.
+
+However, more on that another time.
+
+Our cover
+
+Articles have appeared in «Kvant» more than once, the content of which was based on paintings by wonderful artists. In this issue we present to you once again to put the painting “March” by I. I. Levitan and ... to solve two problems that the artist “formulated” with his visual means.
+
+We presented the first problem in the Problem Book «Kvant» of this number - problem F987. Her decision will be published in the July issue of the magazine. But the second task: what time of day did the artist capture?

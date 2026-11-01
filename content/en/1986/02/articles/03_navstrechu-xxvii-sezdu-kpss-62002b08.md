@@ -1,0 +1,34 @@
+---
+id: 1986-2-navstrechu-xxvii-sezdu-kpss-62002b08
+issue: kvant_1986_2
+year: 1986
+number: "2"
+title: Towards the XXVII Congress of the CPSU
+rubric: osnovnye-stati
+page_first: 4
+page_last: 4
+page_labels: "2"
+tag: "6E37"
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 8bb49f952208a2b2ac127d95340c250091df6e148c372be6540aa159f307b692
+prompt_sha256: draft-1
+translated_from: content/ru/1986/02/articles/03_navstrechu-xxvii-sezdu-kpss-62002b08.md
+source_content_sha256: 6576e894863edec8c6b763f1d554df518b0d7618eef62f2e0090c0877f0087c1
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 2⟧
+
+This book is the Communist Party of the Soviet Union. The Congress will consider and approve important documents - the new edition of the CPSU Program, the CPSU Charter with proposed changes and the Main Directions of Economic and Social Development for 1986-1990 and for the period until 2000 - which were presented for public discussion.
+
+Grandiose tasks are set in these documents. In fifteen years, it will practically double all the main indicators of our economy, increase labor productivity by 2.3-2.5 times; to reach the most advanced positions in the world economy. Such accelerated development is impossible without active assistance. The analysis carried out showed that everything necessary for this had already been born during the greatest scientific and technological revolution that took place in the second half of the 20th century. Nuclear energy, big chemistry, information and computer technology, new methods of processing materials, integrated mechanization and automation of production, biotechnology, the “green revolution” in agriculture - this is the path we will follow in these years.
+
+Physics and mathematics play a decisive role in the scientific and technological revolution. They must make a huge contribution to the intensive agricultural economy and the creation of the material and technical base of a communist society. Soviet scientists are successfully working on general complexes of physical and mathematical problems, occupying leading positions in a number of areas. They made major contributions to space exploration, the study of natural elements and controlled thermonuclear reactions, laser technology, solid state physics, and high pressure and low temperature physics. Information is developing successfully. Carrying out outstanding research in many areas of modern mathematics.
+
+The accelerated development of the dough economy is associated with improved training of scientific and production personnel. And this imposes considerable demands on secondary schools and the system of vocational technical education. The reform of secondary education has been successfully implemented in our country for the second year. One of its tasks is to bring young people closer to the scientific and technological revolution, to ensure the active participation of young people in the radical restructuring of the production forces of our country.
+
+Objectives, formation of documents prepared for the congress, additions. It’s up to you, our young readers, to work on solving them. And we want to help you better prepare for these complex and interesting cases.

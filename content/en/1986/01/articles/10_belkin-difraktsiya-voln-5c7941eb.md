@@ -1,0 +1,48 @@
+---
+id: 1986-1-belkin-difraktsiya-voln-5c7941eb
+issue: kvant_1986_1
+year: 1986
+number: "1"
+title: Wave diffraction
+authors:
+  - Белкин И. К.
+rubric: shkola-v-kvante
+page_first: 29
+page_last: 29
+page_labels: "27"
+tag: 2N2X
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 022b51d97ce11bc41db36764667779429939cd6599e8265a42a42539b46e2c0c
+prompt_sha256: draft-1
+translated_from: content/ru/1986/01/articles/10_belkin-difraktsiya-voln-5c7941eb.md
+source_content_sha256: 2f3c6ccfed10b4785673d4f7fd98f003a5c0f2dceb60a0bedcae03352cad6379
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 27⟧
+
+work is done to move charges along the circuit, which manifests itself, in particular, in the heating of the conductors. The energy per unit charge that bypasses the circuit is called the electromotive force of the source.
+
+In other sources, other processes occur, other forces act, but their role is always the same as in our consideration of the Volta element.
+
+Wave diffraction
+
+Diffraction is the bending of transformation waves, their penetration into the region of a geometric shadow. This is one of the characteristics of the phenomenon for waves of any nature.
+
+Diffraction is especially noticeable when the size of the transformation is comparable to the wavelength. Sound waves, for example, are on the order of meters in length, and their diffraction is easy to detect - the sound can be heard from around a corner. But light has a wavelength of only fractions of a micrometer, and under normal conditions it is difficult to observe the diffraction of light. For a long time it was even believed that light always travels in a straight line.
+
+The qualitative phenomenon of wave diffraction is explained using Huygen's principle (Physics 10, § 38). The first theory of light diffraction was developed by the French engineer Augustin Fresnell. In 1818, he submitted his Metoire on the Diffraction of Light to a competition announced by the Paris Academy of Sciences. The following year, this memoir was awarded and later published in the proceedings of the Academy.
+
+Among the members of the commission that was tasked with reviewing Fresnell's memoirs was the famous scientist S. Poisson. Based on Fresnel's theory, Poisson continued calculations for two particular diffraction situations at various transformations, not analyzed by Fresnel, and obtained paradoxical results. In the first case, the calculation shows that in the center of the geometric shadow from a small ball placed in the path of light, a bright spot should be observed. In the second case, it turned out that after light passes through the round responsible, a dark spot may appear in the center of the diffraction pattern. Poisson's calculations were presented as proof of the falsity of Frenell's theory. However, corresponding experiments more confirmed all the conclusions of the Fresnel theory. This fact played an important role in the beginning of widespread recognition of the wave nature of light.
+
+Let us also understand the phenomenon of diffraction in more detail. Let's consider the diffraction of light on a circular plane. At figure 1, arc ABC shows the front of the wave emitted by the precise light source S, at the moment the wave reaches transformation. Each point of the front is, according to Huygen's principle, a source of secondary waves, and their interference, according to Frenell's theory, explains the diffraction pattern on the E. screen.
+
+To calculate the result of the interference of secondary waves, for example, at point D in the center of the screen, we apply the method proposed by Fresnel. The volume of the wave front is divided into zones (Fresnell zones) according to this principle: the difference in distances from the extreme points of each zone to the screen should differ by exactly half the wavelength of light:
+
+$$AD - KD = KD - LD = LD - MD = MD - BD = \lambda/2.$$
+
+Why do they do this? This allows you to take advantage of the well-known property: waves having a difference in

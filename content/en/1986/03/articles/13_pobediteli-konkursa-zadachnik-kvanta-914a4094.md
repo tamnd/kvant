@@ -1,0 +1,109 @@
+---
+id: 1986-3-pobediteli-konkursa-zadachnik-kvanta-914a4094
+issue: kvant_1986_3
+year: 1986
+number: "3"
+title: Winners of the “Problem Book «Kvant»” competition
+rubric: zadachnik-kvanta
+page_first: 32
+page_last: 32
+page_labels: "30"
+tag: N51N
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: cc92c16f83a1c4eb5741e5fc7ea84b27e2e8194d0efed49614c899ee27212c80
+prompt_sha256: draft-1
+translated_from: content/ru/1986/03/articles/13_pobediteli-konkursa-zadachnik-kvanta-914a4094.md
+source_content_sha256: 2fec0560703f9bc9b10535cf5313590fbec6049e8fa81ca4a50dadac317ea6c7
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 30⟧
+
+Winners of the “Quaita Problem Book” competition
+Every year our magazine holds a competition among schoolchildren to solve the problem of the Quiet Problem Book.
+Below are published lists of the winners of the 1985 “Quaita Problem Book” competition.
+They will be awarded with a Dillom and a badge from the magazine “Quait” and receive the right to participate immediately in the fourth (pre-supply) round of the 1986 World Olympiad:
+
+In mathematics
+A. AKSENOV - Velikie Luki, p. ii. No. 7, 9 cells.
+M. ALEXANDROV - Moscow, p. ii. No. 542, 10 cells.
+Y. ARGENTOV - Alma-Ata, ROFMSH, 10th grade.
+J. VARSHAVSKY - Kharkov, p. ii. No. 27, 8 cells.
+T. GAZARYAN - Yerevan, Physics and Music School at YSU, 10th grade.
+D. GAMARNIK - Tbilisi, Physics School named after. V. M. Komarova, 10th grade.
+O. GEVORKOV - Tbilisi, Physics and Music School named after. V. M. Komarova, 9th grade.
+R. GENDLER - Tashkent, p. ii. No. 110, 9 cells.
+N. GRIGORIEV - Andropov, p. ii. No. 33, 10 cells.
+A. GRIGORYAN - Yerevan, Physics and Music School at YSU, 10th grade.
+A. DAVTYAN - Yerevan, Physics and Music School at YSU, 10th grade.
+D. DOVRITSYN - Moscow, p. ii. No. 91, 9 cells.
+A. DYNNIKOV - Zhukovsky, p. ii. No. 1, 10 grades.
+D. ZAITSEV - Kyiv, p. ii. No. 145, 9 cells.
+A. IVANOV - Pervomaisk, p. ii. No. 15, 10 cells.
+S. ISMAILOV - Baku, Physics School No. 1, 10th grade.
+V. KAPOVICH - Khabarovsk, p. ii. No. 2, 10 cells.
+O. KIRNASOVSKY - Vinnitsa, p. ii. No. 15, 8 cells.
+A. KISELEV - Leningrad, p. ii. No. 30, 10 cells.
+A. KONONENKO - Kyiv, p. ii. No. 145, 9 cells.
+V. KRUGLIKOV - Kharkov, p. ii. No. 149, 9 cells.
+M. KURINNOY - Kharkov, p. ii. No. 27, 10 cells.
+N. KUSHLEVICH - Moscow, p. ii. No. 91, 9 cells.
+S. KYARAS - Moletai, p. ii. No. 2, 10 cells.
+O. LIMESHKO - Kuibyshev, p. ii. No. 16, 9 cells.
+K. MAMUROV - Dushanbe, p. ii. No. 53, 10 cells.
+V. MEKHRABOV - Baku, p. ii. No. 20, 10 cells.
+G. MIKHALKIN - Leningrad, p. ii. No. 30, 10 cells.
+M. MUNKIN - Alma-Ata, ROFMSH, 10th grade.
+D. MURALASHVILI - Tbilisi, Physics and Music School named after. V. M. Komarova, 10th grade.
+I. RASKINA - Vitebsk, p. ii. No. 31, 10 cells.
+M. RZAEV - Baku, p. ii. No. 94, 9 cells.
+I. SAMOVOL - Gayvoron, p. ii. No. 5, 9 cells.
+R. SIVILEV - Leningrad, p. ii. No. 30, 10 cells.
+I. SIMONENKO - Velikie Luki, p. ii. No. 1, 10 grades.
+D. TAMARKIN - Gorky, p. ii. No. 17, 9 cells.
+K. TISHENKO - Minsk, p. ii. No. 65, 10 cells.
+Y. SHAMRUK - village of Novy Dvor, Grodno region, 8th class.
+V. EPIKTETOV - Alma-Ata, ROFMSH, 10th grade.
+
+In physics
+A. ABANOV - Krasnoyarsk, p. ii. No. 170, 10 cells.
+M. AKHMEDOV - Sumgayt, p. ii. No. 23, 10 cells.
+K. VEDOV - Chelyabinsk, p. ii. No. 138, 10 cells.
+A. VERENGOLYTS - Chisinau, p. ii. No. 3, 10 cells.
+O. VESMAN - Alma-Ata, ROFMSH, 10th grade.
+A. VESPALOV - Tbilisi, p. ii. No. 37, 10 cells.
+A. BYSHKO - Leningrad, p. ii. No. 239, 9 cells.
+A. VOLOSHIN - Ivanovka Kirg. SSR, p. ii. No. 2, 10 cells.
+A. GAMAYUNOV - Poltava, p. ii. No. 6, 9 cells.
+V. DOVROVOLYSKY - Tbilisi, p. ii. No. 42, 10 cells.
+A. DODA - Korsun-Shevchenkosky, p. ii. No. 4, 10 cells.
+D. EZHIKOV - Minsk, p. ii. No. 32, 9 cells.
+A. ZHARIKOV - Kyiv, p. ii. No. 157, 10 cells.
+K. ZAKHAROV - Frunze, p. ii. No. 61, 10 cells.
+N. ZAKHAROVA - Alma-Ata, ROFMSH, 10th grade.
+V. ZINGERMAN - Samarkand, p. ii. No. 51, 10 cells.
+S. IVANOV - Ufa, p. ii. No. 12, 10 cells.
+V. KALATSKY - Soligorsk, p. ii. No. 2, 10 cells.
+M. KELLMANSON - Moscow, p. ii. No. 47, 10 cells.
+P. LUSHNIKOV - Moscow, p. ii. No. 47, 10 cells.
+A. MAKSIMOV - Tashkent, p. ii. No. 110, 10 cells.
+Y. MAKHLIN - Moscow, p. ii. No. 57, 10 cells.
+V. MELIK-ALAVERDYAN - Yerevan, Physics and Music School at Yerevan State University, 10th grade.
+G. NIKOLAISHVILI - Tbilisi, Physics and Music School named after. V. M. Komarova, 10th grade.
+I. OBIZHAEV - Tashkent, p. ii. No. 50, 10 cells.
+A. PARETSKY - Minsk, p. ii. No. 23, 10 cells.
+S. RAKHAMOV - Kazan, p. ii. No. 131, 10 cells.
+A. ROSENWINE - Kyiv, p. ii. No. 206, 9 cells.
+E. ROSNOSHCHIK - Kyiv, p. ii. No. 206, 9 cells.
+S. ROSYA - Minsk, p. ii. No. 76, 10 cells.
+R. SADIKOV - Frunze, p. ii. No. 61, 10 cells.
+V. TARNETSKY - Alma-Ata, ROFMSH, 10th grade.
+S. TUZHANSKY - Vinnitsa, s. ii. No. 33, 10 cells.
+R. ULMASOV - Dushanbe, p. ii. No. 8, 10 cells.
+G. FINKELSTEIN - Chernogolovka village, Moscow, p. ii. No. 82, 9 cells.
+G. SHVETS - Kyiv, p. ii. No. 145, 10 cells.
+A. SHULYAK - Cherkasy region, Molodetsia village. ii., 9th grade.
