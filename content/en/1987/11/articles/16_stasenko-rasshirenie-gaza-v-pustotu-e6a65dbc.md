@@ -1,0 +1,46 @@
+---
+id: 1987-11-stasenko-rasshirenie-gaza-v-pustotu-e6a65dbc
+issue: kvant_1987_11
+year: 1987
+number: "11"
+title: Expansion of gas into void
+authors:
+  - Стасенко А. Л.
+rubric: shkola-v-kvante
+page_first: 40
+page_last: 40
+page_labels: "38"
+tag: LNM5
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 42919398dcbbf1f4f7f6ea434c04ac9eafe47a46f90cb7197d32433c277a2011
+prompt_sha256: draft-1
+translated_from: content/ru/1987/11/articles/16_stasenko-rasshirenie-gaza-v-pustotu-e6a65dbc.md
+source_content_sha256: 575ef8bc9836996d83b1ed57dc7347da92346106d1b210d86c7d4c9efb734482
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 38⟧
+
+Expansion of gas into void
+
+Ask anyone what will happen to the temperature of an ideal gas that expands in a closed state of elements, calculate the force of interaction between such elements, and then add up all the forces geometrically. (In general, this is a rather cumbersome procedure, and the expression for the resulting force may turn out to be so complex that it simply cannot be written down as a finite formula.)
+
+The next 150 years were the years of real triumph of the Newtonian picture of the world. The principles of ocean tides and the connection between the acceleration of gravity and the density of rocks occurring in a given place became clear. The finest details in the movement of the planets, their satellites, and any other celestial bodies were required. In recent years, there has been a purely theoretical idea of ​​​​the existence of the eighth planet of the solar system - Neptune (1846). Moreover, the Englishman Adams and Franz Le Verrier not only imagined its existence, but also calculated at what time and where to point telexcopes in order to see it. And everything happened exactly according to their calculations. The same story happened with the discovery of the ninth planet - Pluto (1930). The movement of double stars and the shape of star clusters, the structure of the galaxy and their interaction with each other - everything obeys the law of universal gravitation discovered by Newton.
+
+The successes were so great that the illusion arose that everything in the world could be described using Newton's laws. Unfortunately (or maybe, on the contrary, fortunately), reality turned out to be much more scientific revolution of the 20th century leading to the creation of a new picture of the world, in which Newton’s laws found their exact place among other Fundamental laws of nature.
+
+E. E. Gorodetsky
+
+Expansion of gas into void
+
+Ask anyone what will happen to the temperature of an ideal gas that expands in a closed state of elements, calculate the force of interaction between such elements, and then add up all the forces geometrically. (In general, this is a rather cumbersome procedure, and the expression for the resulting force may turn out to be so complex that it simply cannot be written down as a finite formula.)
+
+The next 150 years were the years of real triumph of the Newtonian picture of the world. The principles of ocean tides and the connection between the acceleration of gravity and the density of rocks occurring in a given place became clear. The finest details in the movement of the planet, their satellites, and any other telexcopes were required to see it. And everything happened exactly according to their calculations. The same story happened with the discovery of the ninth planet - Pluto (1930). The movement of double stars and the shape of star clusters, the structure of the galaxy and their interaction with each other - everything obeys the law of universal gravitation discovered by Newton.
+
+The successes were so great that the illusion arose that everything in the world could be described using Newton's laws. Unfortunately (or maybe, on the contrary, fortunately), reality turned out to be a much more scientific revolution of the 20th century leading to the creation of a new picture of the world, in which Newton’s laws found their exact place among other Fundamental laws of nature.
+
+E. E. Gorodetsky

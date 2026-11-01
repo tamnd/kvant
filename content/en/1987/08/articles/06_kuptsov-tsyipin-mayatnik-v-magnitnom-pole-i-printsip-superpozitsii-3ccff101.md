@@ -1,0 +1,46 @@
+---
+id: 1987-8-kuptsov-tsyipin-mayatnik-v-magnitnom-pole-i-printsip-superpozitsii-3ccff101
+issue: kvant_1987_8
+year: 1987
+number: "8"
+title: Pendulum in a magnetic field and the principle of superposition
+authors:
+  - Купцов Д. А.
+  - Цыпин М. М.
+rubric: zadachnik-kvanta
+rubric_sub: Задачник «Кванта»
+page_first: 33
+page_last: 33
+page_labels: "31"
+tag: JF7Y
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 55d39e618d29b895870968f1cac2c1aa3312fad955121ce08994b49a583124c4
+prompt_sha256: draft-1
+translated_from: content/ru/1987/08/articles/06_kuptsov-tsyipin-mayatnik-v-magnitnom-pole-i-printsip-superpozitsii-3ccff101.md
+source_content_sha256: 91600deaac29ff60f1abeb644be1fe91e434ce92c57decb8b261e6bb438284f3
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 31⟧
+
+F1052. It is known that the illumination created on earth by the lunar disk during a half moon is approximately 10 times greater than the illumination from a “damaged” moon at half the lunar disk. How to explain this?
+
+The multiple decrease in illumination in the half phase of the Moon (and not double, as seems natural) is an experimental fact. Let's try to understand, at least in general terms, what phenomena may be behind it.
+
+Obviously these phenomena are explained as follows. In the half-phase, the light of the Sun falls tangentially to the part of the Moon that mainly “shines” on the Earth. At the same time, the shadows from the lunar mountains shield most of the surface of the Moon from direct sunlight; in general, the Moon turns out to be less illuminated, and it sends less light to the Earth. However, in this case, the resulting edge of the Moon should appear brighter than the rest of the "half-disk". It would seem that a more complete solution should take into account the fact that mountains shield not only the Moon from the Sun, but also the Earth from the light reflected by the Moon. In this case, the illumination should decrease at all edges of the “half-disk”. In addition, from such illumination it follows that at half moon the edge of the disk should be even darker, or there will be double shielding at the edge - the surface of the Moon from the Sun and the Earth from the Moon.
+
+In fact, during the full moon, the edge of the disk is approximately the same brightness as the center. This means that the surface of the Moon should reflect a significant portion of the light towards the incident light, and not evenly in all directions, like, say, white paper. Thus, the optical properties of the lunar surface must be complex, and the specific amount of illumination depends on the topography. For example, if parts of the mountains are missing, the surface will appear black.
+
+Note that with a partial lunar eclipse, half of the Moon's disk also creates illumination on Earth that is less than half the maximum. But the reason for this is the presence of penumbraii.
+
+L. A. Ashkinazi
+
+Softener in a magnetic field and the superposition principle
+
+problem F1046 was published in the Matrovo edition of the Kvast Problem Book. Let us remember its conditions: “A small ball of mass m, having a charge q, is suspended on a weightless inextensible thread. This mathematical matrix is ​​placed in a strong single-pod magnetic field, the induction of which is equal to B0 and is directed vertically. How long will it take for the rubber matrix plane to rotate through an angle of 2π? Phenomena associated with the rotation of the Earth are not taken into account. This seemingly artificial problem has a double, straightforward and, from our point of view, beautiful solution, based on the idea of ​​adding oscillations.
+
+Let's start with a qualitative assessment of the influence of the magnetic field on matrix oscillations. The movement of the ball is depicted in figure 1 (top view). We will assume that the charge q > 0 and the field $\vec{B}_0$ is directed upward. Let's take the ball from the equilibrium position (point O) to point A and release it. In the absence of a magnetic field (B0 = 0), the ball would come to point A′ and continue further between points A and A′. But if B0 ≠ 0, then the ball is subject to the weak Lorentz effect $\vec{F}_1$, the direction of which is shown in figure. It bends the trajectory of the ball, and as a result it comes to point B, then to point C, etc. The trajectory takes on a double intricate appearance. If the Lorentz force is small compared to the restoring force, then during the polar period the magnetic field will only slightly bend the trajectory of the ball. Then a movement based on the idea of ​​adding vibrations.

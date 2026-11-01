@@ -1,0 +1,35 @@
+---
+id: 1987-11-golovolomka-chertova-bochka-9a03e844
+issue: kvant_1987_11
+year: 1987
+number: "11"
+title: '[Devil''s Barrel Puzzle]'
+rubric: smes
+page_first: 68
+page_last: 68
+tag: Y1JI
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 03473dea6514314cb47f32ee16a26de9e339d178a7e1afbe33c973212684197c
+prompt_sha256: draft-1
+translated_from: content/ru/1987/11/articles/01_golovolomka-chertova-bochka-9a03e844.md
+source_content_sha256: 61afffc7b78aa9f9ef15957ce6527a2e4be55f4d1a13f2219b2e73116cc1de2f
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+The “Devil's Barrel” was invented by Gumney Yokoi, a manager of a Japanese company that produces central machine guns. Its general view is shown on the right, with a schematic diagram on the left. This goldsmith externally fills the well-known “varikon” and “Tower of Babel” (see «Kvant» No. 6), but the movement of the balls is carried out differently here. It is allowed: 1) using two drums to turn two “layers” of balls at once; turning the lower drum by 1/5 of a full turn in the direction of the arrow in the diagram will be denoted n, the upper drum - c; 2) move three long vertical rows of balls (5 pieces each) per ball at once - downwards if there are three “extra” balls at the top, and up if the cycle (of 7 and 5 elements), i.e. moves 12 balls at the same time. That's a lot. But simpler permutations are made from them. BAB$^{-1}$ For example, the commutator K=A$^{-1}$ moves only 7 balls: it generates a 3-cycle 5 → 4 → 7 → 5 and a pair of exchanges 1 ↔ 2, 3 ↔ 6 (the numbers are the numbers of the balls in the diagram). Now is the time to get acquainted with another useful technique for constructive good operations - repetition. If you perform K twice, then, obviously, the exchanges 1 ↔ 2 and 3 ↔ 6 will disappear, and only the 3-cycle 4 → 5 → 7 → 4 will remain. And with a triple repetition, on the contrary, the 3-cycle will disappear, but a couple of exchanges will remain. Similarly, we could extract from one of the two loops in operation A or B: check that A$^5$ is a 7-loop and A$^7$ is a 5-loop and see how the switches A$^5$B$^5$A$^{-5}$B$^{-5}$ act, A$^7$B$^7$A$^{-7}$B$^{-7}$.
+
+An attentive reader may notice that operations A and B essentially coincide with the same operations from the first number «Kvant», which are used for a flat gold hammer similar to the “devil’s barrel” (compare their diagrams!). But the “barrel” is still a round object, and you can form cycles in it by simply turning the drum around. This not-too-clever message “works” in the following two operations:
+
+$$\begin{align*}
+\downarrow H \uparrow B \downarrow H^{-1} \uparrow B^{-1} \\
+(1 \leftrightarrow 2, 5 \leftrightarrow 7, 3 \leftrightarrow 6 \leftrightarrow 4 \leftrightarrow 3; \text{cp. } c \text{ К}) \\
+\downarrow B^2 \uparrow H^2 \downarrow B^{-2} \uparrow H^{-2}
+\end{align*}$$
+
+As you can see, the savings in the number of moves are considerable!

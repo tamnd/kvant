@@ -1,0 +1,54 @@
+---
+id: 1987-11-a-tak-li-horosho-znakomo-vam-tyagotenie-127e4ccc
+issue: kvant_1987_11
+year: 1987
+number: "11"
+title: Are you so familiar with gravity?
+rubric: kaleydoskop-kvanta
+rubric_sub: Калейдоскоп
+page_first: 34
+page_last: 34
+page_labels: "32"
+tag: I6KJ
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 81cfb4d030e59e1de0962cd087a55f83c2f212d9b7e734c4a9d261aa4d584c40
+prompt_sha256: draft-1
+translated_from: content/ru/1987/11/articles/13_a-tak-li-horosho-znakomo-vam-tyagotenie-127e4ccc.md
+source_content_sha256: e6169e4d4cf68a93274b7b795cd5a9d21d9d9dabf86843b6bd900ec807e6c256
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 32⟧
+
+Kashcheyskoe, Klima"
+
+...and higher, as much as possible,
+udermizing planets in their orbits,
+should be in the opposite ratio
+their square distances
+from the centers, around the conch
+they will be limited.
+
+Isalk Newoton
+
+1. The man bends down from his chair, holding a heavy weight in his hand. With what force does it press on a person’s hand while he is in the air?
+
+2. Are the laws of Pascal and Archimedes valid in conditions of weightlessness?
+
+3. In what direction and from what side should the fly fly along the equator in order to compensate for the decrease in its weight due to the rotation of the Earth?
+
+4. What is the maximum speed of a body falling into a hypothenic shaft drilled along the axis of rotation of the globe? Ignore resistance.
+
+5. Is it possible for a satellite to move in orbit because it does not pass through the center of the Earth?
+
+8. What is the first escape velocity for a planet whose mass and radius are three times greater than that of the Earth?
+
+9. The satellite moves in a circular orbit, the radius of which is approximately equal to the radius of the spherical planet. What physical characteristic of the plane determines the period of revolution of the satellite in orbit?
+
+10. Which clock should be used to change the time in a spacecraft under zero-gravity conditions: magnetic, sand or spring?
+
+11. What should a spaceship commander do if passengers ask him to create a state of weightiness?

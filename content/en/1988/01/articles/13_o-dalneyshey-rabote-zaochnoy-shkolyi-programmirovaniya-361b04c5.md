@@ -1,0 +1,65 @@
+---
+id: 1988-1-o-dalneyshey-rabote-zaochnoy-shkolyi-programmirovaniya-361b04c5
+issue: kvant_1988_1
+year: 1988
+number: "1"
+title: About the further work of the Correspondence School of Programming
+rubric: raznoe
+page_first: 49
+page_last: 49
+page_labels: "47"
+tag: G0ZJ
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 36bf076f8a42dad1d1c1c9553c1e6ef3bda33244c8a69e4899d3db2a91aaad26
+prompt_sha256: draft-1
+translated_from: content/ru/1988/01/articles/13_o-dalneyshey-rabote-zaochnoy-shkolyi-programmirovaniya-361b04c5.md
+source_content_sha256: 2152fb0634ef2566729f63869954a4f22f5a0909223a92d9726305032442bfea
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 47⟧
+
+he caught up with the pedestrian, immediately turned back, arrived at A, immediately went to B and arrived there at the same time as the pedestrian. The pedestrian spent 6 hours traveling from A to B. How many times is the speed of the bicycle greater than the speed of the pedestrian?
+
+13. Two mutually perpendicular lines cut the circle into four arcs, the two smallest of which contain 30° and 45°. How many degrees do the other two arcs contain?
+
+14. On the movie screen, the plane's flight appears motionless. How many revolutions per second could the propeller make during filming? Filming was carried out at a frequency of 24 frames per second. The propeller has 2 blades.
+
+15. There are 5 islands in the ocean A, B, C, D, E. Some distances between them are known: AB=BC=CA=3 km, CD=DE=EC=8 km, BD=11 km. What is the AE distance?
+
+16. Three segments of length 1 pass through one point. Their ends serve as the vertices of a non-self-intersecting hexagon. Can its perimeter be: a) greater than 5? b) more than 6?
+
+17. Is there a polygon with an area of ​​one square centimeter that cannot be placed in any rectangle with an area of ​​one square kilometer?
+
+18. a) A milk carton has the shape of a triangular pyramid, all six edges of which are of length a. Describe how to cut it so that after unfolding you get a cardboard rectangle, and calculate its length and width.
+
+19. Is it possible to place nine numbers from 1 to 9 in the cells of a square table measuring 3x3 cells so that in every two adjacent (sharing a common side) cells there are two numbers from which you can make a number divisible by 7 or 13?
+
+20. Is it possible to arrange nine numbers from 1 to 9 in the cells of a square table of size 3x3 cells so that the sum of the numbers in each row and in each column is the same?
+
+About further work
+The correspondence school of programming is completing the publication of educational materials in «Kvant» and the first cycle is busy - a story about the Logo programming language. Of course, in four lessons on the pages of the magazine it was difficult to make this story complete. You learned about some types of programming mechanisms that exist, in particular, in Logo (input operations, processing of logical knowledge, file concepts, etc.) from subsequent lessons while studying other programming languages ​​(Rapier, C, Prolog).
+
+The following Correspondence School lessons will be sent to 3SHP students once a month in the form of individual brochures measuring 21x15 cm. Therefore, in your letter you should include envelopes of the appropriate size (homemade is acceptable), with a possible address and with a 10-point stamp affixed to them.
+
+The school has created 9 sections. Assignments for the 5th and subsequent lessons should be sent to the address of the corresponding section. We inform our readers of the address of the 3SHP section, indicating in brackets which districts and regions correspond to a particular section.
+
+Moscow section 3SHP: 109028 Moscow, V. Vuzovsky lane, 3/12, MIEM (Moscow and Moscow region).
+
+North-Western (Leningrad) section 3ShP: 190000 Leningrad, st. Herzen, 67, LIAP, computer department (Leningrad, Arkhangelsk, Bryn, Vologda, Kalinin, Kaluga, Murmansk, Novgorod, Pskov, Smolensk, Tula regions; Baltic resource specialists and Belarus, Karal and Komi ASSR).
+
+Southern (Simferopol) section 3ShP: 333036 Simferopol, st. Yaltinskaya, 4, Simferopol University (Kursk, Belgorod, Voronezh, Lipetsk, Tambov, Rostov regions and Krasnoarsk region; Ukraine and Moldova).
+
+Ural (Sverdlovsk) section 3ShP: 620219 Sverdlovsk, st. K. Libknesta, 9, Pedagogical Institute (Sverdlovsk, Chelyabinsk, Orenburg,
+
+Perm, Kurgan region; Bashkir and Udmurt ASSR).
+
+Volga (Gorky) section 3SHP: 603019 Gorky, Kremlin, Regional Committee of the Komsomol (Gorky, Vladimir, Ivanovo, Kostroma, Ryazan, Astrakhan, Volgograd, Ulyanovsk, Saratov, Penza, Kirov, Kuibyshev regions; Tatar, Mari, Mordovian and Chuvash ASSR).
+
+Srednetsatskaya (Alma-Ata) section 3SHP: 480051 Alma-Ata, Lenin Ave., 114, Republican Palace of Pioneers (Kazakhstan and the republics of Central Asia). Caucasian (Tbilisi) section 3SHP: 380002 Tbilisi, st. Kamo, 52, Computer Center of the Ministry of Education (Georgia, Armenia, Azerbaijan; Stavropol Territory; Dagestan, North Ossetian, Chechen-Igrush and Kalmyk Autonomous Soviet Socialist Republics).
+
+Siberian (Krasnodar) section 3SHP: 660036 Krasnodar, Akademgorodok, CC SOAN USSR (Novosibirsk, Kemerovo, Omsk, Tomensk regions; Krasnodar Territory and all territories east of the Krasnodar Territory). Pereslavl section 3SHP: 152140 Pereslavl-Zalessky, PO Box 46 (Yaroslavl region).
