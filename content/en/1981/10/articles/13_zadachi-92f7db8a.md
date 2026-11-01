@@ -1,0 +1,43 @@
+---
+id: 1981-10-zadachi-92f7db8a
+issue: kvant_1981_10
+year: 1981
+number: "10"
+title: Tasks
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 43
+page_last: 43
+page_labels: "41"
+tag: PHTZ
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 8cd0daa10b06e62ebbf20d28b365ddf809abfe02d4d80f78d678051af2f7d7f2
+prompt_sha256: draft-1
+translated_from: content/ru/1981/10/articles/13_zadachi-92f7db8a.md
+source_content_sha256: 7957d0902b6a86824d782c971f9b82febab096b9fd559751c342477b9c44a8f7
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 41⟧
+
+Quests
+
+1. The circles numbered 1, 2, ..., 5 (see figure) contain pebbles (one in each circle); in circles with numbers 7, 8, ..., 11 - shells (also one in each circle). Pebbles and shells are allowed to move along the lines to the adjacent free circle and jump (along the lines) over any neighbor to the free circle (first the circle with number 6 is free). Is it possible to ensure that pebbles and shells fit in places?
+
+2. Prove the inequality
+TWO×SIX<TWENTY.
+
+(Here, each letter represents a number, and different letters correspond to different numbers, and identical letters correspond to the same ones.)
+
+3. 15 coins are arranged in the nodes of the checkered paper as shown in figure (no coin in node #2!). A coin can move to a free node and jump along the grid lines over its neighbor, which then moves away. Is it possible for a coin to make 14 moves so that only one coin remains?
+
+4. Can you arrange all ten numbers around a circle so that the sum of any three of them in a row does not exceed a) 13, -6) 14, c) 15?
+
+5. Is there an integer whose product of digits equals 528?
+
+These tasks were offered to us
+F. Bartenev and A. Savin

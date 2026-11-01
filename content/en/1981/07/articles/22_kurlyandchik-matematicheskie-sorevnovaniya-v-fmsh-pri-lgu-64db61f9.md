@@ -1,0 +1,67 @@
+---
+id: 1981-7-kurlyandchik-matematicheskie-sorevnovaniya-v-fmsh-pri-lgu-64db61f9
+issue: kvant_1981_7
+year: 1981
+number: "7"
+title: Mathematical competitions in Physics and Mathematics School at Leningrad State University
+authors:
+  - Курляндчик Л. Д.
+rubric: informatsiya
+rubric_sub: Информация
+page_first: 58
+page_last: 58
+page_labels: "56"
+tag: MN9L
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 62720a305502ad73da61734877be1ed9d659e022809264ba1fa9fde903626c02
+prompt_sha256: draft-1
+translated_from: content/ru/1981/07/articles/22_kurlyandchik-matematicheskie-sorevnovaniya-v-fmsh-pri-lgu-64db61f9.md
+source_content_sha256: 81635f4f40b39632719d0e2a95a20cbfa67c7166d58b05c7779659ac727f3507
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 56⟧
+
+Mathematical competitions in Physics and Mathematics School at Leningrad State University
+
+School Olympids
+
+In Physics and Mathematics Boarding School No. 45 at Leningrad University, school mathematical Olympids have been held every day since 1965.
+
+In the first round of such an Olympiad, eight problems are proposed, five of which are close to the problems solved in lessons. 5 hours are allotted to solve the problems of the first round.
+
+The second round, in contrast to the “written” first round, is “oral”. Of course, no one is forced to solve problems orally; the final, “clean” solution to the problem is not written down by the student, but is told to two members of the jury. When an Olympiad participant begins to tell the solution to each problem, a “—” sign is placed next to his name, which in jury jargon is called an “approach.” If the problem is solved correctly, then the “—” is crossed out with a vertical line. If an error is found in the solution, then the participant, returning to his place, may have to correct his solution. Depending on whether the problem is solved on the first, second or third approach, the student receives a score of “+”, “±” or “†”. As a rule, more than three approaches to one task are not allowed.
+
+This form of holding the Olympics has certain advantages. After all, it often happens that a student thinks that he has solved a problem, and having written down an incorrect solution, he never returns to the problem. When the Olympiad has arrived, the participant has the opportunity to correct the wrong solution, so that in the end there is more than a correct solution to the problem. In addition, the oral Olympiad is compact: its results are summed up an hour and a half after the end of the round.
+
+Here are several problems from school olympids from different years (the number of the olympiad and the round number are indicated in parentheses).
+
+1. Find the set of centers of circles of radius 5 that intersect a given semicircle of radius 2 at two different points. (I,1).
+
+2. Prove that $\sqrt[3]{5} - \sqrt[3]{4} = \frac{1}{3} (\sqrt[3]{2} + \sqrt[3]{20} - \sqrt[3]{25})$. (II, 1)
+
+3. From the point $A$, which does not lie on the line $l$, 9 segments are drawn, the ends of which lie on $l$. Prove that by moving these segments parallel to themselves, it is impossible to form a ninth line from them. (III, 1)
+
+4. Four villages are located at the top of the square on a 10 km side. Residents want to connect the villages with a road system, but the materials at their disposal are only enough to build 28 km of roads. What should they do? (IV, 2)
+
+5. How many times a day can you tell the time using a clock if you don’t know which hand is the hour hand and which hand is the minute hand? (V, 2)
+
+6. How many digits does the smallest natural number that is a multiple of 225 have and whose digits add up to 225? (VI, 1)
+
+7. The distance from a point to a figure is the distance from this point to the closest point of the figure. Find the set of points of the plane equidistant from the contour of a given square and a segment connecting two opposite sides of this square. (VII, 1)
+
+8. There are two sand garlic clocks. It takes 7 minutes to pour sand onto one, and 11 minutes into another. Mark 17 minutes from the given time. (VIII, 1)
+
+9. Is there a function $f$ such that $D(f) = R$ and for any number $a$ the equation $f(x) = a$ has equal two roots? (IX, 1)
+
+10. Is there a function $f$ such that $D(f) = R$ and for any number $x$ $f(f(x)) = x^2 + 2$? (X, 2)
+
+11. Direct difference in segments, each of which is colored red or blue (the ends of the segments are painted in both colors). Prove that at least one of the colors is such that among the distances between points of this color there are all positive distances. (XI, 1)
+
+12. $a$ and $b$ are natural numbers. Prove that there is a natural number $n$ such that the numbers $n$ and $n$ have the same sum of digits. (XII, 2)
+
+13. Each side of a convex quadrilateral is divided into three equal parts and the dividing points are connecting, as shown in figure. Prove that $(PR) \parallel (AC)$ and $(QS) \parallel (BD)$. (XIII, 2)

@@ -1,0 +1,82 @@
+---
+id: 1981-7-antipenko-moskovskiy-avtomehanicheskiy-institut-62ff7ecf
+issue: kvant_1981_7
+year: 1981
+number: "7"
+title: Moscow Automechanical Institute
+authors:
+  - Антипенко В. С. и др.
+rubric: ekzamenatsionnye-materialy
+page_first: 47
+page_last: 47
+page_labels: "45"
+tag: MXFS
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: d7efd5918d9467927cdd6aed9c27c07cf0c019d7fdc757e760bd041488d86d79
+prompt_sha256: draft-1
+translated_from: content/ru/1981/07/articles/15_antipenko-moskovskiy-avtomehanicheskiy-institut-62ff7ecf.md
+source_content_sha256: b86225027d1c0285b2ffc9ac3b62988f2d16a61dcf9ebef8d69d0fee8a63b968
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 45⟧
+
+Problem 10. In a right triangle $ABC$, the height $CD$ is drawn from the vertex of the right angle. The perimeters of triangles $ACD$ and $CBD$ are $P_1$ and $P_2$ respectively. Find the perimeter of triangle $ABC$.
+
+Problem 11. Prove the inequality
+
+$$\sqrt[3]{6 + \sqrt[3]{6} + \sqrt[3]{6}} + \sqrt[3]{6 + \sqrt[3]{6}} < 5.$$
+
+Problem 12. Prove that for every triangle $ABC$
+a) $\cos \hat{A} + \cos \hat{B} + \cos \hat{C} \leq \frac{3}{2}$;
+b) $\cos 2\hat{A} + \cos 2\hat{B} + \cos 2\hat{C} \geq -\frac{3}{2}$.
+
+Option 2
+
+1. Find the area of ​​a figure whose polygons $(x; y)$ satisfy the system of inequalities
+$$\begin{cases} x^2 + y^2 \leq r^2 (r > 0) \\ x - y \leq 0 \\ y \geq 0. \end{cases}$$
+
+2. Solve system of equations
+$$\begin{cases} 4x = \left(\frac{1}{3}\right)^x \cdot 1728 \\ \log_4 x = \frac{1}{2} - \log_4 y + \log_4^3. \end{cases}$$
+
+3. Write the equation of parabolas symmetrical to the parabola $y = \frac{x^2}{2} - 2$ with respect to the line $x = 4$.
+
+4. Find function domains
+$$f(x) = \frac{\sqrt{2x-4}}{\sqrt[3]{x-1}-2}.$$
+
+5. Simplify an expression
+$$\frac{\sin \alpha + \mathrm{tg} \alpha}{\mathrm{tg} \alpha} + 1 - \cos \alpha$$
+and find the possibility of the value $\alpha$.
+
+Option 3
+
+1. Find the area of ​​the figure bounded by the lines $x = 1, x = 2, y = 0, \log_2 x + \log_2 y = 0$.
+
+2. Find the equation of the image of parabolas $y = x^2 + 2x + 2$ with parallel intersection $\vec{p} = \vec{i} - \vec{j}$.
+
+3. The varithmetic progressions $(a_n)$ are known as $a_8 = 11,2$ and $a_{15} = 19,6$. What is the number of terms of this progression less than 30?
+
+4. Find function domains
+$$y(x) = \sqrt{\frac{3^x - 4^x}{2x^2 - x + 5}}.$$
+
+5. Simplify an expression
+$$\frac{2 \sin \alpha + \sin 2\alpha}{2 \cos \alpha + \sin 2\alpha} \cdot \frac{1 - \cos \alpha}{1 - \sin \alpha}$$
+and find the possibility of the value $\alpha$.
+
+Task 4
+
+1. Indicate the polygons $(x; y)$ planes for which
+$$\log_1(x^2 + y^2) = -\frac{1}{2}.$$
+
+3. The number lg 283 is located between the target numbers?
+
+4. The sequence $(x_n)$ is given by the recurrent correspondence $x_1 = 2, x_{n+1} = x_n + 3$. Define the sequence by the formula of the $n$th term.
+
+5. Write the equation of the horizontal tangent to the parabola $y = x^2 - 3x + 2$.
+
+6. Find the antiderivative function
+$$\varphi(x) = \left(\sin \frac{x}{2} + \cos \frac{x}{2}\right)^2.$$

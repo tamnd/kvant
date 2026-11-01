@@ -1,0 +1,63 @@
+---
+id: 1981-9-o-dvoystvennost-0ea112bd
+issue: kvant_1981_9
+year: 1981
+number: "9"
+title: Duality
+authors:
+  - О. М.
+rubric: raznoe
+rubric_sub: Разное
+page_first: 43
+page_last: 43
+page_labels: "41"
+tag: J6HP
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: b5652ca5871bd211c4e6846bef766e785be912724b601e5eebb4016f00d8d737
+prompt_sha256: draft-1
+translated_from: content/ru/1981/09/articles/17_o-dvoystvennost-0ea112bd.md
+source_content_sha256: b29ad323b0a4634e33a38bd4d694ec311c9abcac405a1f1ac3e8d326f37f88d9
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 41⟧
+
+Geometric tasks for our readers
+
+1. Let $a, b, c$ be the lengths corresponding to sides $BC$ $CA$ and $AB$ of an arbitrary triangle $ABC$. Let $O_1$ be the point of intersection of its bicsetriss, $O_2$ be the point of intersection of its medians. Let us denote by $K, L$ and $M$ the points of intersection of line $O_1O_2$ with lines $BC, CA$ and $AB$. Finally, let $\lambda, \mu$ and $v$ be numbers for which $\overrightarrow{BK} = \lambda \cdot \overrightarrow{KC}, \overrightarrow{CL} = \mu \cdot \overrightarrow{LA}, \overrightarrow{AM} = v \cdot \overrightarrow{MB}$. Prove that $\lambda = \frac{a-c}{a-b}, \mu = \frac{a-b}{c-b}, v = \frac{c-b}{c-a}$.
+
+2. Let in triangle $ABC$ the lengths $a, b, c$ of sides $BC, CA, AB$ satisfy the correspondence $a > b$. Let $h_a = |AA_0|, h_b = |BB_0|, h_c = |CC_0|$ be the lengths of the altitudes AA$_0$, BB$_0$, CC$_0$ of the triangle, and $H_a, H_b, H_c$ be the projections of their bases A$_0, B_0, C_0$ onto the bicsetrices of angles A, B and C, respectively. Prove that the following equalities hold for plane triangles with vertices at these points:
+a) $a^3 \cdot S_{AH_aA_0} + b^3 \cdot S_{BH_bB_0} = c^3 \cdot S_{CH_cC_0}$;
+
+3. It is known that a circle can be inscribed into a quadrilateral $ABCD$. Let $E$ be the intersection point of its diagonals $AC$ and $BD$. Prove that
+$$\frac{|AE|}{|EC|} = \frac{\text{ctg} \hat{A}/2}{\text{ctg} \hat{C}/2}.$$
+U. Alla
+
+4. a) Let $ABC$ be a triangle, $M$ a point inside it, which is the common vertex of three congruent equilateral triangles, the other two vertices of each of which lie on adjacent sides of triangle $ABC$ (see Fig.). Prove that the side length of these equilateral triangles is equal to
+$$\frac{2abc}{a^2 + b^2 + c^2 + 4S\sqrt{3}}.$$
+where $S$ is the area of ​​the triangle $ABC, a, b, c$ is the length of its sides.
+
+5. Let us denote by $M_1, M_2$ and $M_3$ the projections of the point $M$ onto the sides of a given triangle (see Fig.). Prove that the triangle $M_1M_2M_3$ is equilateral.
+A. Yagubynts
+
+5. Through the center $O$ of the circle inscribed in the triangle $ABC$, a segment $MN$ is drawn with ends on the sides of the triangle, $M \in [AB]$,
+
+6. Let us denote by $M_1, M_2$ and $M_3$ the projections of the point $M$ onto the sides of a given triangle (see Fig.). Prove that the triangle $M_1M_2M_3$ is equilateral. Let us denote by $O$ the point of intersection of these bicsetrices. Prove that the midpoints of the segments $AO, BO, CO, A_1O, B_1O, C_1O, A_1B_1, B_1C_1$ and $A_1C_1$ lie on the same circle.
+
+I. Kushinr
+
+Dual
+
+The first page of the cover shows one type of regular parquets («Kvant», 1979, No. 2, p. 9) and the “dual” to it, covered planes with congested polygons. With a subtle play of colors and lines, our artist V. Lukhin was able to make a gradual transition from a parquet made of squares and regular triangles (blue and green colors at the top) to covering the plane with identical pentagons (yellow and red at the bottom).
+
+This transition is known in topology as the Poincaré dual. It allows you to move from any covering of the plane with convex polygons to another covering. Geometrically, this transition is described as follows: a point (new vertex) is placed at one of the internal points of each polygon (erani); two new vertices are connected by a (new) edge if and only if their faces have a common (old) edge. In this case, each side of the vertex will correspond to a polygon - a new face.
+
+In our case, new vertices were chosen in the center of the old faces, which ensured that all new faces were congested (why?).
+
+Look at the surface finishes you get if you apply this design to other correct parquet floors, and think about what will happen if you apply it twice in a row.
+
+O.M.
