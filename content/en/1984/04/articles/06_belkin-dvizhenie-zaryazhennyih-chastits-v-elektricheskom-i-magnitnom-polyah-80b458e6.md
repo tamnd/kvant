@@ -1,0 +1,50 @@
+---
+id: 1984-4-belkin-dvizhenie-zaryazhennyih-chastits-v-elektricheskom-i-magnitnom-polyah-80b458e6
+issue: kvant_1984_4
+year: 1984
+number: "4"
+title: Movement of charged particles in electric and magnetic fields
+authors:
+  - Белкин И. К.
+rubric: shkola-v-kvante
+page_first: 26
+page_last: 26
+page_labels: "24"
+tag: 3T2C
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: ed148376c836a7bc4da1d9cdd9ef12733b312edaac9017307f672d8946b730fb
+prompt_sha256: draft-1
+translated_from: content/ru/1984/04/articles/06_belkin-dvizhenie-zaryazhennyih-chastits-v-elektricheskom-i-magnitnom-polyah-80b458e6.md
+source_content_sha256: b0dffabc52d435197e1660fe5d46690eca5df50b84579a3ce60335a709c3996d
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 24⟧
+
+and the projection of the second ball
+
+$$u_{2x} = \frac{m_2 - m_1}{m_1 + m_2} v_2.$$
+
+It is easy to see that the projection of the velocity of the first ball is always positive, and the projection of the second can be either positive or negative. If the mass of the incident ball is less than the mass of the resting one ($m_2 < m_1$), then $u_{2x}$ is negative. This means that after a collision, the ball changes the direction of its speed (bounces off the forged ball, as shown in figure 3). With the inverse mass ratio ($m_2 > m_1$), the projection is $u_{2x} > 0$, and the direction of motion of the incident ball after the collision does not change (the forged ball bounces off). If the masses of both balls are equal ($m_1 = m_2$), then $u_{1x} = v_2$, and $u_{2x} = 0$. This means that the second ball, having collided with the first, transferred its momentum to it, and itself stopped.
+
+Thus, we obtain from the laws of conservation of energy and momentum that, knowing the velocities of bodies before the collision, we can determine their velocities after the collision. What was the situation like during the capital event, when the balls had already touched each other, but had not yet separated?
+
+When colliding, the balls become deformed. At first their deformation increases, then decreases. At the moment of greatest deformation, the balls move together at the same speed. Distance this moment in more detail. Let us denote the speed of their joint motion by $\vec{u}$ and assume, for simplicity, that the masses of the balls are the same ($m_1 = m_2 = m$). According to the law of conservation of momentum
+
+$$mv_2 = 2mu_x.$$
+
+It follows that $u_x = u = v_2/2$. Thus, the speed of both balls when they move together is equal to half the speed of one of them before the collision.
+
+As for the kinetic energy of the balls, at the moment of their movement at the same speed it is equal to $2mu^2/2 = mu^2 = mv_2^2/4$. And before the event, the obikhshariya of the balls was equal to $mv_2^2/2$. Consequently, the kinetic energy was halved. Where did she disappear to? Is there a violation of the law of conservation of energy here, as it might seem at first glance?
+
+The energy, of course, remained the same. The thing is that during the collision both balls were deformed, and therefore they have the potential energy of elastic interaction. It is by the magnitude of this potential energy that the kinetic energy of the balls decreased. At first, when the deformation grew, the potential energy increased and at the moment of joint motion of the balls it reached its maximum value (in our case, equal to half the energy object). Then the deformation decreased, and the stored potential energy turned back into kinetic energy。
+
+Movement of charged particles in electric and magnetic fields
+
+Let us first consider the motion of a particle with charge $q$ and mass $m$ in a uniform constant electric field directed $\vec{E}$. For example, the field in this case does not depend on either coordinates or time (such a field will arise, for example, in a charged flat capacitor, relative to the source). Consequently, a constant force $\vec{F} = q\vec{E}$ acts on a charged particle from the field, which imparts a constant acceleration $\vec{a} = \vec{F}/m = q\vec{E}/m$ to the particle. If the particle has an initial speed of $\vec{v}_0$, as shown in figure 1, then its motions in such a field are similar to the motions of a body thrown at an angle to the horizon in a uniform gravitational field, where the acceleration of the body is also constant and equal to $\vec{g}$. The textbook "Physics 8" shows that the trajectory of motion in such a field is similar - a parabola.
+
+When a charged particle moves in a uniform constant magnetic field, it is acted upon by the Lorentz force

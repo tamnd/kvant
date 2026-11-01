@@ -1,0 +1,40 @@
+---
+id: 1983-9-zadachi-b6e9661d
+issue: kvant_1983_9
+year: 1983
+number: "9"
+title: Tasks
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 34
+page_last: 34
+page_labels: "32"
+tag: FYIW
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: ec5e172b5ef92d53ce882b549c8fced0637cce2d7fbac67b0d3b0ba4d3c63d21
+prompt_sha256: draft-1
+translated_from: content/ru/1983/09/articles/14_zadachi-b6e9661d.md
+source_content_sha256: a11f07f151ef3d16d895d14090f6dc0b10d497b8d26b8454d639d5f2aebfdd61
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 32⟧
+
+Quests
+
+1. Gena cut out ten cards from paper and wrote a number on each of them: 0, 1, 2, ..., 9. Then he laid them out on the table in twos and discovered that the resulting two-digit numbers are related as 1: 2: 3: 4: 5. In the evening, he wanted to show his result to his father, but did not find a card with the number 0. However, after thinking, he laid out the cards so that the new numbers were also related as 1: 2: 3: 4: 5. How did Gena lay out the cards the first time and how the second time?
+
+2. At the annual “pumpkin competition” held in Great Britain, the next “champion” had a mass of 109 kilograms and 2.5 meters in girth. Will she float in water? Will a boy be able to float on it, like on a raft, if his mass is 20 kilograms? When calculating, consider the pumpkin to be a ball; the volume of a ball of radius $R$ is equal to $\frac{4\pi R^3}{3}$.
+
+3. A typical domino set has 28 tiles. How many tiles would there be in a domino whose values ​​per tile changed from 0 to 6, but from 0 to 12?
+
+4. In the triangle $ABC$ the bisector $AE$ is drawn. Compare the angles $AEB$ and $AEC$ in size, if you know that $|AB| > |AC|$.
+
+5. Kolya made a board (for a game called “Yoga”) and colored it in a chess-like manner, as shown in figure. One day he decided to go around all the fields of this board with one checker, visiting each field once and moving from field to field through the side of the corresponding square. He noticed that if he starts from a white field, then he succeeds in such a detour, but if he starts from a red field, he fails. Why?
+
+These tasks were offered to us
+A. L. Cabrizon, N. A. Rodina, A. P. Savin, L. Z. Karelin, N. I. Avilov.

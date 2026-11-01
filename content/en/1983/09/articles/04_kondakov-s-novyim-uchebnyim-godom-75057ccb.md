@@ -1,0 +1,44 @@
+---
+id: 1983-9-kondakov-s-novyim-uchebnyim-godom-75057ccb
+issue: kvant_1983_9
+year: 1983
+number: "9"
+title: Happy new school year!
+authors:
+  - Кондаков М. И.
+rubric: osnovnye-stati
+page_first: 4
+page_last: 4
+page_labels: "2"
+tag: LAVZ
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: e70da345c3ba2186238265173a1f99b9d36ebef44aac32bfc33c2fe65c115295
+prompt_sha256: draft-1
+translated_from: content/ru/1983/09/articles/04_kondakov-s-novyim-uchebnyim-godom-75057ccb.md
+source_content_sha256: 96be94cb09257f9b8a576e1c4e6d208fa48190034dd37e6447813a5bc7633392
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 2⟧
+
+Happy new school year!
+
+Dear friends!
+In the old days in Rus', the New Year was celebrated on September 1. For all of us who are associated with the school, this day still marks the new year - the school year. Let's think about why we cross the threshold of school with such joy and desire on this day? Not only because every student there will meet friends, play sports, and hear stories from friends about the summer. The main thing is that every year on September 1, millions of children go on an exciting and difficult journey to the Land of Knowledge. Knowledge is necessary for each of us because we live in an era of scientific and technological revolution, when scientific achievements are directly used in practice, when science becomes a productive force.
+
+In a speech at the June (1983) plenum of the CPSU Central Committee, General Secretary of the CPSU Central Committee Comrade. Yu. V. Andropov emphasized: “In the economic sphere, the key task is to dramatically increase labor productivity. We must strive to achieve the highest world level in this regard... The main path to high-quality productivity in the productive forces is, of course, the transition to intensive development, the combination of the advantages of our social system with the achievements of the scientific and technological revolution. Moreover, its very last stage, which is leading to a technical revolution in many areas of production.”
+The process of automation and complete mechanization of production, changing the very nature of labor requires a solid scientific base and broad erudition of performers. Therefore, the scientific training of future production specialists in our time is growing every day.
+
+Throughout your school years, you are accompanied by the “queen of sciences” - mathematics. The rapid process of mathematization of knowledge and science-based modern production places high demands on the mathematical training of school graduates. The same applies equally to physics - the basis of the natural sciences, the theoretical basis of modern engineering and technology. High physical training of schoolchildren is the key to achieving success in technology, economics, and national defense, an indispensable condition for the effective work of our society in building communications.
+
+Our society cares about people with pronounced interests, inclinations and abilities in mathematics and physics. The school helps such students demonstrate their talents through a system of club work, competitions, elective classes, and creates classes with in-depth study of physics and mathematics. The popular science magazine «Kvant» is addressed to just such a student.
+Thorough physical training of schoolchildren is always an important achievement of perfect skills. It is no coincidence that our school’s achievements in teaching mathematics and physics arouse such close interest among specialists abroad. In the final analysis, it is at school that a conscious attitude towards work is perceived and the foundations are laid for combining the advantages of the social system with the achievements of the scientific and technological revolution.
+
+So, a new academic year begins - a year of new knowledge and skills, new experiences and tasks, a year of deeper penetration into your favorite science. I congratulate you with all my heart on this graduation and wish you great success in your studies and work, in developed, conscious and purposeful preparation for adult working life!
+
+President of the USSR Academy of Pedagogical Sciences
+Academician of the Academy of Pedagogical Sciences of the USSR M. I. Kondakov

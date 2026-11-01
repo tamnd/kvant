@@ -1,0 +1,60 @@
+---
+id: 1984-2-proizvolov-turkevich-goldobin-zadachi-dlya-issledovaniya-bf80774e
+issue: kvant_1984_2
+year: 1984
+number: "2"
+title: Research objectives
+authors:
+  - Произволов В. В.
+  - Туркевич Э. И.
+  - Голдобин С. А.
+rubric: smes
+page_first: 53
+page_last: 53
+page_labels: "51"
+tag: PDCN
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 8a29bdea817697de7891a03c414a119a06488eafeed1a61c2319119496b033cf
+prompt_sha256: draft-1
+translated_from: content/ru/1984/02/articles/14_proizvolov-turkevich-goldobin-zadachi-dlya-issledovaniya-bf80774e.md
+source_content_sha256: 65deab9c7ee317b80785ab1c71be5d769c5b9354e590cd70b897177023182061
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 51⟧
+
+F846. Why should high-power DC motors be switched on via a starting rheostat?
+
+During normal operation of the motor, the current in its winding is equal to
+
+$$I = \frac{U - \mathcal{E}_n}{r_n},$$
+
+where $U$ the direction of the network, $\mathcal{E}_n$ the inductive emf that occurs when the motor armature rotates in a magnetic field, $r_n$ is the resistance of the armature winding, which is small. If the engine is connected directly to the network, without a starting rheostat, then at the moment of starting the engine, when the armature is still motionless and $\mathcal{E}_n = 0$, the starting current in the winding $I_n = U/r_n$ will far exceed the normal operating current. To reduce the value of $I_n$ and prevent overheating of the winding, a starting rheostat is introduced into the armature circuit, which is then output.
+
+A. V. Kubyshkin
+
+These intricate surfaces, invented by Yu. V. Kotov, are “films” (see the article “Classification of films” on p. 16). Determine which class each of them belongs to.
+
+Exercise
+For
+research
+
+1. There are several weights. It is known that if any of them is removed, the rest can be divided into two groups of equal mass.
+Prove that the number of weights is odd if
+
+a) masses of weights - whole numbers;
+b) masses of weights - any real numbers.
+b) What is the smallest number of weights with different integer masses that can consist of a set that satisfies the conditions of the problem?
+r) How many weights can be included in such a set?
+B. V. Proizvolov,
+E. I. Turkevich
+
+2. It is known that the square of any integer when divided by 3 leaves a remainder of 0 or 1, and when divided by 5 it leaves a remainder of 0, 1 or 4.
+a) Find all positive integers $k$ such that the remainder when dividing the square of any integer by $k$ is also a square.
+b) Try to find $k$ such that the remainder when dividing the square of any integer by $k$ is also a cube.
+
+S. A. Goldobin

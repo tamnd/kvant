@@ -1,0 +1,49 @@
+---
+id: 1983-11-c-ob-izohronnosti-kolebaniy-mayatnika-478dddd8
+issue: kvant_1983_11
+year: 1983
+number: "11"
+title: On the isochronism of pendulum oscillations
+authors:
+  - С. Г.
+rubric: raznoe
+rubric_sub: Разное
+page_first: 32
+page_last: 32
+page_labels: "30"
+tag: N8FX
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: e38384e50e67b22b02e286e3a49fcc899f3e4bf0756526fe3b4753a2c47ccba6
+prompt_sha256: draft-1
+translated_from: content/ru/1983/11/articles/09_c-ob-izohronnosti-kolebaniy-mayatnika-478dddd8.md
+source_content_sha256: fea170037e27b8a28e0ce4f2f99c51c151e464c2c6c63568bd90aad2b600566d
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 30⟧
+
+In conclusion, let us consider the interesting question of current in an oscillating circuit. Despite the fact that the circuit is open (there are no conductors between the plates of the capacitor), current flows through such an “open circuit”. Moreover, if the resistance of the coil and lead wires were zero (superconductivity), the electric current caused by the discharge of the capacitor would never stop.
+
+Oddly enough, the current in the oscillatory circuit can be considered closed. To understand this, we need to return to the phenomenon of electromagnetic induction. As Maxwell first pointed out, this phenomenon consists not in the fact that a change in the magnetic flux generates an induced current, but in the fact that a change in the magnetic field generates an electric field with closed lines of force (vortex field). Induction current is the movement of charged parts in this field. In connection with this formulation of the phenomenon of electromagnetic induction, Maxwell came up with the brilliant idea that the opposite phenomenon should also exist: a changing electric field creates a magnetic field.
+
+In our oscillatory circuit, when oscillations occur in it, there is a place where there is nothing but a changing electric field. This is a capacitor. This means that there is a magnetic field around the capacitor (Fig. 4). On the other hand, it is known that a magnetic field surrounds any electric current. It turns out that by its property of being surrounded by a magnetic field, a changing (alternating) electric field is no different from an electric current. Since the time of Maxwell, the rate of change of an alternating electric field is therefore called current, or more precisely, displacement current.
+
+Thus, we can assume that the “general” electric current (the so-called conduction current) in the conducting part of the oscillatory circuit circuit, as it were, continues in the capacitor with a current without charges - a displacement current.
+
+Our calendar
+
+On the isochronism of magnet vibrations
+
+In his declining years, Galileo Galilei (1564-1642) told his young student Vincengo Vincini how his scientific life began. However, it was in 1583 that nineteen-year-old Galileo, while in the Pisa Cathedral, watched the swinging of a large ladder. It seemed to him that the period of its oscillations did not change over time. Despite the attenuation, that is, the decrease in the amplitude of the oscillations, the duration of each oscillation remained the same. Returning home, he continued the experiment with balls suspended on threads, and came to the conclusion that the period of oscillation of the magnet actually does not depend on the maximum deviation. As we will say later, magnet oscillations are isochronous, that is, constant in time. (Galileo later discovered that the period of oscillation is related to the square roots of the length of magnets.) With this discovery of young Galileo, the chain of his great mechanical discoveries began.
+
+In the cathedral, as Vincini writes, Galileo controlled the oscillation period of the lystra based on his own pulse, carried out experiments, and used a water clock.
+
+Mechanical watches at that time left a lot to be desired. We do not know when Galileo decided to use magnet oscillations to create isochronism: whether at the dawn of his scientific activity, during the period of creating new mechanics, or at the end of his life, when, after the trial of the Inquisition, he returned to working on mechanics. There is no doubt, however, that Galileo began to work closely on the design of magnetic clocks when he was old and too lazy, and therefore could not bring his great idea to a real working mechanism.
+
+The first magnetic clock was created by Christ IAN Guilens (1629-1695). During his life, Guilens worked on their conditions and received many remarkable results in the process of this activity. In particular, he clarified that Galileo’s statement about the isochronism of magnetic oscillations is valid only for small deviations of the magnet from equilibrium.
+
+S.G.
