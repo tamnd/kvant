@@ -1,0 +1,25 @@
+---
+id: 1988-4-golovolomka-ramseya-0cc25bec
+issue: kvant_1988_4
+year: 1988
+number: "4"
+title: 拉姆齐之谜
+rubric: smes
+page_first: 84
+page_last: 84
+tag: 1N3C
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 7d2b1090c9cb9121dc522aa882c3e00b2079d85f6df968f750eb3d71bb15c9c5
+prompt_sha256: draft-1
+translated_from: content/ru/1988/04/articles/01_golovolomka-ramseya-0cc25bec.md
+source_content_sha256: bba7b8386bc076f578d699de84adc7b47b5dca3b5ab9f0010c2b1c18083d3af1
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 9⟧
+
+这里我们展示了完整图$K_{16}$的三色图，即一个有16个顶点的图，所有顶点对都通过边连接。这种着色被以下事实所取代：它不包含单个单值三角形，而具有大量顶点（例如，$K_{23}$）的完整图的任何（三角形）着色都必然包含这样的三角形。具有最少顶点数的完整图，其中在着色时必然会遇到禁止的单值配置（在本例中为三角形），称为“拉姆齐图”（对于给定的一组禁止配置）。因此，图$K_{17}$就是对应的Ramsey图。当然，对于其他数量的颜色和其他配置组，也会出现它们自己的拉姆齐图；您可以在本期 M. Gardner 的文章中阅读有关它们的内容。每个 Ramsey 图（有 n 个顶点）都有一个谜题和一个与之关联的 cgram。谜题是在不创建任何禁止配置的情况下为完整的图 $K_{n-1}$ 着色。 （所以这里给出的图就是$n=17$这个谜题的解）。 Izra 在 Ramsey 图（例如，在 $K_{17}$）上通过两条线进行，这两条线交替切割图的边缘（此处 - 用三种颜色）、已知的禁止配置（此处 - 单值三角形）；失败者是被迫创建这种配置的人。没有跪拜（为什么？）。

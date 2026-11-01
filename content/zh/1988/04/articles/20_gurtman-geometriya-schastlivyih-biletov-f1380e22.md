@@ -1,0 +1,56 @@
+---
+id: 1988-4-gurtman-geometriya-schastlivyih-biletov-f1380e22
+issue: kvant_1988_4
+year: 1988
+number: "4"
+title: “幸运”票的几何形状
+authors:
+  - Гуртман Г. Н.
+rubric: smes
+page_first: 74
+page_last: 74
+page_labels: "72"
+tag: LEMC
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 32e33334f7fe5d1a7a1a1bdba609b3266b04d6db5bbfbe709e2b3a393d9b03d7
+prompt_sha256: draft-1
+translated_from: content/ru/1988/04/articles/20_gurtman-geometriya-schastlivyih-biletov-f1380e22.md
+source_content_sha256: eeae882ac1245ba107cc1e7973d17504657852e58a5a8fda797ff170b8c2b1b1
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 72⟧
+
+任何连续的自然数。
+4. 数字 1、2、3、...、64 随机放置在棋盘的单元格中。证明至少有三个方格$2 \times 2$，每个方格中的数字之和都大于100。
+5. 证明如果$a, b, c$是任意三角形的边，则$a^2 + b^2 + c^2 < 2(ab + ac + bc)$。
+6. 有多少个平行六面体，其所有面都是相同的菱形，且具有锐角 $a$？求这些平行六面体的体积与最小的体积之比。
+信息
+1. 开发一个算法并编写（用任何编程语言）一个程序，从任意整数序列中选择，首先按升序排列所有正数，然后按降序排列所有负数。
+2. 开发一个以“库仑定律”为主题的培训控制器程序。用任何编程语言实现它。
+3. 带有内置微处理器的苏打水自动售货机应按如下方式运行：
+硬币接收器负责投下一枚或多枚总面额为 1 至 6 戈比的硬币。之后，按三个按钮之一：“不带糖浆 - 1 戈比”、“带糖浆 - 3 戈比”、“带双糖浆 - 5 戈比”。
+机器确定收到的小额零钱的数量，如果足够，它将把硬币分配到适当的箱子中（1、2、3和5戈比硬币），将玻璃杯装满水，发出零钱并恢复到原来的状态；如果钱不够，机器就会退回。
+描述内置于自动机器中的微处理器的操作算法。编写（用任何编程语言）实现该算法的程序。
+V·N·谢尔杰耶夫
+
+“幸运”票的几何形状
+
+V. G. Boltyansky 的文章“暴力程序”（«Kvant»，第 1 期）考虑了确定“幸运”彩票数量的问题，即前三位数字之和等于其余数字之和的六位数字。这个问题归结为计算给定位数S的三位数的个数。从文章中给出的算法描述可以看出，数字$K$和$L$的前两位数字必须满足以下不等式：
+$$0 \leq K \leq 9, \quad 0 \leq L \leq 9, \quad K + L \leq S, \quad K + L \geq S - 9.$$
+请注意，V. G. Boltyansky 程序中的最后一个不等式（参见第 7 页）包含一个错误的不等式；第 70 行应如下所示：
+$$70 \text{ IF } K + L > S - 10 \text{ THEN } Q = Q + 1$$
+让我们在坐标平面$OKL$上标记满足上述条件的坐标为$(K, L)$的点。如果$S \leq 9$，则相应的点形成一个三角形（图1）。如果$S > 9$（但$S$不大于17）是六边形（图2）。考虑到“有效”点的数量$Q(S)$就可以了
+$$S \quad 0 \quad 1 \quad 2 \quad 3 \quad 4 \quad 5 \quad 6 \quad 7 \quad 9 \quad 9 \quad 10 \quad 11 \quad 12 \quad 13$$
+$Q(S) = Q(S - 1) + S + 1.$
+如果$S > 9$，则应从正方形的100个点总数中减去左下（$Q(S - 10)$）和右上（$Q(S - 17)$）三角形的点数。
+
+从$Q(0) = 1$开始，我们可以依次确定$Q(1), Q(2), \dots, Q(9)$并将其写在表中。使用获得的元素，我们从 10 到 13 计算 $S$ 的 $Q(S)$ 并将其填充到表格末尾。
+
+Telery 遵循 V. G. Boltyansky 的算法，将平方 $Q(S)$ 返回到平方，对这些值求和并删除结果。别忘了减去 1——没有编号为 000,000 的彩票——我们得到的结果是：幸运彩票的数量是 55,251。目前简单的几何考虑已经减少了搜索，因此我们无需计算机即可完成！
+
+G·N·古特曼

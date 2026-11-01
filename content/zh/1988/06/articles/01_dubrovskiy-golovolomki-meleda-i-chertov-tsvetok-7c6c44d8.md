@@ -1,0 +1,37 @@
+---
+id: 1988-6-dubrovskiy-golovolomki-meleda-i-chertov-tsvetok-7c6c44d8
+issue: kvant_1988_6
+year: 1988
+number: "6"
+title: 【谜题“梅莱达”和“恶魔之花”】
+authors:
+  - Дубровский В. Н.
+rubric: smes
+page_first: 84
+page_last: 84
+tag: IOKR
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 33b9cbdc95c5f5b2f3126eab09b139e7e980c956a89ddaf566a4b5f11d306377
+prompt_sha256: draft-1
+translated_from: content/ru/1988/06/articles/01_dubrovskiy-golovolomki-meleda-i-chertov-tsvetok-7c6c44d8.md
+source_content_sha256: c6f40afb9d01235f67ce525736087c59fd39fd07eab082b59fab169c73e868d0
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+“该死的花”拼图中的任务是从“花”上取下绳圈。如果制作“花”的金属丝足够柔软，我们只需从包围它的轮子中拉出最高的“茎”（见下图），然后以同样的方式依次解读剩余的“茎”，然后就可以从容地移开绳子了。但这样的“解决方案”是被游戏特权所禁止的。如果您了解这个难题的更著名的（人们可能会说）经典版本 - Meled（图 A），那么您会更容易理解循环实际上是如何印记的。在这里，没有绳子，而是刚性的钢丝环梭，与“花”一起的是一串可垂直移动的可移动轮子。
+
+环的内部与图 A 相同。注意，只有当第$(k-1)$ 杆也穿入其中时，才能将第$k$ 杆从梭子上取下，并且可以将编号较小的杆取下（图 B）。我们将考虑一次性将环穿入梭子或从梭子上拆下轮子的操作。令 $L_k$ 和 $M_k$ 为具有 $k$ 环的梭子挂在一根杆 (图 B) 上并相应地挂在所有杆 (图 A) 上所需的最小移动次数。
+
+1) 证明$L_k=2L_{k-1}+1$，$M_k=M_{k-2}+L_{k-1}+1$。
+2) 用$k$表示$L_k$和$M_k$，写出相应的走法顺序。
+3) 如何从“该死的花”上取下绳子？
+
+以上言论将帮助您解决这些问题，答案和说明放在第 7 页。 79.
+
+V.D.

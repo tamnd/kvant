@@ -1,0 +1,43 @@
+---
+id: 1988-5-tihomirova-arhimedova-sila-v-literaturnyih-proizvedeniyah-cc019d3b
+issue: kvant_1988_5
+year: 1988
+number: "5"
+title: 阿基米德在文学作品中的力量
+authors:
+  - Тихомирова С. А.
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 45
+page_last: 45
+page_labels: "43"
+tag: 2R23
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: caa22787b63d51a09cde02bc28300a395210ec98808eb9e1da827df377ba4e84
+prompt_sha256: draft-1
+translated_from: content/ru/1988/05/articles/08_tihomirova-arhimedova-sila-v-literaturnyih-proizvedeniyah-cc019d3b.md
+source_content_sha256: bc905b0b6dc841f25bdf4e72b10ac1d89438c5b694f2dd8dc1545d129002386e
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 43⟧
+
+蜡……他用嘴唇捏住芦苇尾，消失在水下，双手举起一块牛头大小的石头。用一根细绳子绑住负载后，拉蒂博尔在手上绕了一个圈。”
+拉提博尔为何要拿起手中的重石？
+大自然提供了各种适应能力，使动物能够在水中生活和游泳。还有“报告——
+
+“攻击”动物使用各种物体来帮助游泳。我们阅读小说作品中的台词。
+N.A.涅克拉索夫，《马扎伊祖父和野兔》：
+“一根粗糙的木头飘过，十几个扎伊采夫在上面坐着，站着，平躺着。
+
+“如果我带了你，你就沉船了！”然而，这对他们来说是一种遗憾，对这个发现来说也是一种遗憾——我抓住了一根树枝上的钩子，把圆木拖到了身后……”
+
+估计野兔可以在上面游泳的木头的最小体积。自己估计一下野兔的质量有多少。
+K. G. Paustovsky，“Meshcherskaya Side”：
+“在这些河流的岸边，水鼠生活在很深的洞里。有些老鼠随着年龄的增长，颜色完全变灰了。如果你留意洞口，你可以看到老鼠如何抓鱼……为了更容易游泳，水鼠会咬掉库里的一根长茎，然后用牙齿咬住它游泳……即使是没有老鼠那么重的东西，它也能完美地抓住水。”
+为什么kuri茎具有良好的漂浮性？
+阿基米德力作用于液体和气体中的物体。为了重新
