@@ -1,0 +1,25 @@
+---
+id: 1988-8-golovolomka-zmeyka-genelya-2bbc962e
+issue: kvant_1988_8
+year: 1988
+number: "8"
+title: '[谜题“赫内尔的蛇”]'
+rubric: smes
+page_first: 68
+page_last: 68
+tag: 0JAY
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: b1e3d8a4c61c43ae7df9ec120ffa57aa7067ffdb9180620fb442daf7f695bfe9
+prompt_sha256: draft-1
+translated_from: content/ru/1988/08/articles/01_golovolomka-zmeyka-genelya-2bbc962e.md
+source_content_sha256: 33b0df03befb8ef2a4624137798e776e3de769ea51f7a280d05d5bef9779d361
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+魔蛇几乎在任何玩具店都可以找到。鲜为人知的是另一种“蛇”，由相同的杯子组成。列宁格勒人 V. S. Genel 和 S. M. Genel 成功地结合了这两种玩具的优点，并通过使用两种类型的元素（规则的四面体和规则的四面金字塔）赋予“蛇”新的品质。新的“蛇”由24对四面体金字塔组成；它们的连接图如图所示。多个消息解释了命名此类元素的选择。为了使“蛇”呈现不同的形状，相邻元素的边缘（这里是规则三角形）必须允许旋转；另外，如果每个元素具有多个这样的边界，则可以从相邻元素的一个面转移到另一面。由于该小组展示的其他四面体和“半八面体”形成了一个倾斜的三角形特征（检查！），并且可以看到这种特征没有间隙和阻塞空间，因此新的“蛇”很好地结合在一起。数学系«Kvant»的工作人员高度赞赏新难题的优点。但作者未能引起他对交易的兴趣。她让你感兴趣吗？

@@ -1,0 +1,76 @@
+---
+id: 1988-10-tomilov-yasinskiy-izbrannyie-shkolnyie-zadachi-9e596601
+issue: kvant_1988_10
+year: 1988
+number: "10"
+title: 选定的学校问题
+authors:
+  - Томилов Ю. В.
+  - Ясинский В. А.
+rubric: shkola-v-kvante
+rubric_sub: Школа в «Кванте»
+page_first: 40
+page_last: 40
+page_labels: "38"
+tag: T2BA
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 809b99423b9fd67b7d5d358af3e4013a984ad2c1fdc8a8e151908e7692a2f8e7
+prompt_sha256: draft-1
+translated_from: content/ru/1988/10/articles/10_tomilov-yasinskiy-izbrannyie-shkolnyie-zadachi-9e596601.md
+source_content_sha256: 910ca08b22173123307d56eb20feb186bd885d98c4f88ebff6ac85753cfef88a
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 38⟧
+
+从 $\beta_0 \approx 90^\circ$ 开始，我们得到
+
+$$\sin \alpha_0 = \frac{c(h)}{c_0} = 1 - ah.$$
+
+接下来，我们了解到光速随高度的变化非常小，因此光线的弯曲也非常小。因此，要计算距离$H$，射线可以被认为是直线。从图可以清楚看出$H = h \cdot tg \alpha_0$。从这里，利用折射定律，我们得到
+
+$$H = \frac{h(1 - ah)}{\sqrt{ah(2 - ah)}}.$$
+
+V.I.克利亚钦
+
+选定的学校问题
+
+八年级
+1. 数字$p$和$q$是质数。如果您知道方程 $x^4 - px^3 + q = 0$ 有整数根，请找到它们。
+2. 证明如果$xyz = 1$，则
+
+$$\frac{1}{1+x+xy} + \frac{1}{1+y+yz} + \frac{1}{1+z+zx} = 1.$$
+
+3. 两个不同半径的圆在点 $P$ 处相互接触。大圆的弦 $BC$ 在点 $A$ 处接触较少。证明$PA$是角$BPC$的平分线。
+4. 在矩形 $ABCD$ 中，垂直线 $BK$ 落在对角线 $AC$ 上。点$M$和$N$分别是线段$AK$和$CD$的中点。证明角$BMN$是正确的。
+5. 在给定的三角形$ABC$内，构造一个点$M$，使得三角形$ABM, BCM, CAM$的面积比率为$k:l:m$，其中$k, l, m$是给定的线段。
+6. 证明方程
+
+$$x^{1987} + y^{1987} = x^{1988} + y^{1988}$$
+
+具有无穷多个无线电数解。
+7. 序列$x_1, x_2, \dots, x_n$...满足对应关系$x_{n+1} = x_n^3 - 3x_n^2 + 3x_n$($n = 1, 2, \dots$)。 $x_1$ 应该是多少，才能使序列 $x_{100}$ 和 $x_{1000}$ 相等？
+8. 具有正项和分母 $q$ 的无限几何级数具有以下性质：从第二项开始，其每项都大于所有先前项的总和。 $q$可以取什么值？
+
+9. 从五边形的每个顶点，将向量绘制到与该顶点不相邻的三边的中点。证明这样构造的所有15个向量之和都等于0。
+10. 在三角形 $ABC$ 中，绘制角 $A$ 的平分线 $AF$。设$D, E$为$AF$与三角形内切圆的交点。证明$AD > EF$。
+
+第十班
+11. 解决不等式
+
+$$|x^9 - x| + |x^8 - x^7| \leq |x^9 - x^8 + x^7 - x|.$$
+
+12. 设$M$为底$ABC$四面体$SABC$的任意点。通过点 $M$ 绘制与侧边平行的线段，直到与侧边相交。令侧边的长度等于$a, b, c$，平行线和线段的长度分别等于$x, y, z$。证明$\frac{x}{a} + \frac{y}{b} + \frac{z}{c} = 1$。
+13. Dan 四面体 $ABCD$。一个球在点 $A$ 和 $C$ 处接触边 $AB$ 和 $CD$，另一个球接触边 $B$ 和 $D$。证明边 $AC$ 和 $BD$ 在穿过这些球中心的线上的投影相等。
+14. 求解方程$tg x - 2[tg x] - 3 = 0$（方括号表示数字的整数部分）。
+15. 证明对于任意 $a$ 方程
+
+$$10ax^4 - 4ax^3 + a^2x^2 + 6x - 2 = 0$$
+
+区间 [0; 中至少有一个根1]。
+
+该出版物由余编写。 V.托米洛夫、V.A.亚辛斯基
