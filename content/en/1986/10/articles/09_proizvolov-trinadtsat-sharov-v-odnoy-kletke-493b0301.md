@@ -1,0 +1,58 @@
+---
+id: 1986-10-proizvolov-trinadtsat-sharov-v-odnoy-kletke-493b0301
+issue: kvant_1986_10
+year: 1986
+number: "10"
+title: Thirteen balls in one cage
+authors:
+  - Произволов В. В.
+rubric: raznoe
+rubric_sub: Разное
+page_first: 24
+page_last: 24
+page_labels: "22"
+tag: QHZG
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 2127bab107bf78cd2e092343bb6a6b678ef45b56c3ff58957a8baf533c06c5e1
+prompt_sha256: draft-1
+translated_from: content/ru/1986/10/articles/09_proizvolov-trinadtsat-sharov-v-odnoy-kletke-493b0301.md
+source_content_sha256: 20d333b98b8f9e4d652c41ebec06440f78e74a2909bcd0954e175167a8518d87
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 22⟧
+
+Selected School Problems
+
+Eighth grade
+1. Prove that for no positive integer $n$ the number $n^4+2n^3+2n^2+2n+1$ can be a perfect square.
+2. Construct a segment with a midpoint at a given point so that its ends lie on a given line and a given circle.
+3. Find all natural numbers $n$ for which the number $n^3+3$ is divisible by $n+3$.
+4. Is there a triangle with altitudes $\sqrt{2}, \sqrt{3}, \sqrt{2}+\sqrt{3}$?
+5. A motorist is about to cross an empty road. His car consumes 1 liter of gasoline per 10 km. The motorist has 450 liters of gasoline, but can take no more than 150 liters with him. However, it can cover more than 1,500 km, leaving some gasoline along the route and returning back to replenish the gas tank. What is the widest empty space that an autonomous vehicle can cross?
+
+Ninth grade
+6. Which is greater: $7\sqrt{5}$ or $5\sqrt{7}$?
+7. Two segments of length 1 compartment from a given angle quadrilateral with the largest area.
+
+Our cover
+
+Thirteen balls in one cage
+
+It is well known that on a plane, 6 circles of the same radius can be attached to one circle of radius 1 so that they touch it and do not intersect each other (Fig. 1). In this case, the centers of six circles lie at the vertices of a regular hexagon, and the center of the first circle is the center of this hexagon. It is not very difficult to build to prove that it is impossible to apply more than 6 circles.
+
+What about in space? How many identical materials?
+
+balls can be attached to the same ball? Many people know that the answer is 12. But is it possible, as clearly and clearly as with circles, to imagine a picture of the arrangement of 12 balls attached to one ball? It turns out that it is possible (see page 4 of the cover).
+
+To begin with, imagine a ball that touches all 12 edges of a certain cube (Fig. 2). Such a ball is called *half-written* into a cube. Now let's make a “cage” for 13 balls. To do this, we divide the larger cube into 27 identical cups. The skeleton of this partition, that is, the edges of all the component cups, forms the desired “cell”. Let’s mentally paint this partition in a “checkerboard pattern” so that the central cube and those
+
+12 cups, which have one edge in common with them, and the other 14 are white. Each “black” cube will make a ball (Fig. 3). The balls touch the edges of the cells and touch each other through them. The twelve outer balls touch the central ball.
+
+12 balls can be attached to the same ball in other ways. In this regard, the question arises: is it possible to add 13? There was a debate on this issue between Isaac Newton and the English monk and mathematician Gregory. But this dispute was resolved in favor of Newton (impossible!) only in 1953 in a joint article by Schutte and Van der Waardan.
+
+V.V. Arbitrary

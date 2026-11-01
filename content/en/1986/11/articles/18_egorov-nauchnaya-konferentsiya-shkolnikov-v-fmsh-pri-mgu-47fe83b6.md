@@ -1,0 +1,65 @@
+---
+id: 1986-11-egorov-nauchnaya-konferentsiya-shkolnikov-v-fmsh-pri-mgu-47fe83b6
+issue: kvant_1986_11
+year: 1986
+number: "11"
+title: Scientific conference of schoolchildren at the Physics and Music School at Moscow State University
+authors:
+  - Егоров А. А.
+rubric: informatsiya
+rubric_sub: Информация
+page_first: 60
+page_last: 60
+page_labels: "58"
+tag: BGOL
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 430fc2024a2841473328dc36740c6744decca6c7698190437e1305fdcb5e5e76
+prompt_sha256: draft-1
+translated_from: content/ru/1986/11/articles/18_egorov-nauchnaya-konferentsiya-shkolnikov-v-fmsh-pri-mgu-47fe83b6.md
+source_content_sha256: 4966fa6a63703a34a88261d92342f3e5c533fbeff2554f885a6d900f117e762a
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 58⟧
+
+Scientific and technical conference of schoolchildren at MIPT
+
+Do you know how to design a reusable spacecraft or prove Euler's theorem? If you want to find out, then you definitely need to attend the scientific and technical conference of Schoolchildren, which is held by MIPT.
+
+In the year of the fortieth anniversary of MIPT, on the initiative of the Komsomol Committee, under the chairmanship of MIPT projector Professor D. A. Kuzmchev, the I Scientific and Technical Conference of Schoolchildren was held, the task of which is to stimulate students interested in physics and mathematics, the desire to go beyond the School curriculum, deeper into the problem being studied, independently check scientific research and solve an interesting problem.
+
+On one Sunday in April, the Large Physics Auditorium at MIPT, along with a demonstration room, was made available to schoolchildren. In addition to the name board, the speakers had at their disposal a projection apparatus and a slide projector, and all kinds of equipment for testing physical experiments. So, for example, to use Kievlin Yu. Krotov (school No. 145) “Plasty of Fresnel zones” required a laser, and Moscow and M. Aksenova (school No. 780) and N. Sergenok (school No. 2 Troitsk), reproducing Plato’s experiment on balancing a drop of Anglin in a soda solution to study surface tension forces, checked independently experimental skill.
+
+In another classroom, Schoolchildren's guilt was absorbed in mathematics. Everyone was pleased to get acquainted with the win-win strategy in the famous mathematical game, in which pebbles are played from three piles, and learned what to do if there are not three piles, but n. The solution to this problem was presented by M. Tarasok (school No. 789) and D. Stolyarov (school No. 80). Schoolchildren also responded vividly to the introduction of the basics of information and computer technology at school. In a number of reports, computer programming was actively used to solve problems and create mathematical regatta games. Thus, A. Shishov and K. Safonov (school No. 179) developed an algorithm for finding all real roots of a polynomial using a computer.
+
+The second scientific and technical conference of Shkolnikov took place at MIPT in April 1987. Any student can become a participant. To do this, you need to write an essay in which an interesting question in physics, technical mathematics or programming is independently analyzed; an interesting experiment or technical apparatus is described. One copy of the abstract must be sent before March 1, 1987 to the address: 141700 Dolgoprudny, Moscow region, MIPT, organizing committee of the II Scientific and Technical Conference of Schoolchildren. All questions on the topics of abstracts and organization of the conference can be answered by calling 3FTSH: 408-51-45. We are waiting for you, young physicists and mathematicians!
+
+A. V. Sapozhnikov, MIPT student, member of the conference organizing committee.
+
+Scientific conference of schoolchildren at the Physics and Music School at Moscow State University
+
+From March 27 to March 29, 1986, the Second Physics and Mathematics Conference of Schoolchildren was held at Physics and Mathematics School No. 18 at Moscow State University. If only Moscow schoolchildren took part in the first conference, then this time schoolchildren from six cities came to Moscow: Yerevan, Kyiv, Leningrad, Novosibirsk, Sverdlovsk and Stavropol.
+
+Opening the conference, the director of the Physics and Mathematics School at Moscow State University, candidate of physics and mathematics
+
+scientific sciences V.L. Natyaganov wished the conference participants success in their first creative steps. The famous Soviet mathematician, Academician of the Academy of Sciences of the Ukrainian SSR V.V. Gnedenko and professor of the Faculty of Physics of Moscow State University, graduate of the Physics and Mechanics School at Moscow State University N.I. Korteev spoke about the prospects for the development of mathematics and physics. From the magazine «Kvant» the conference participants were welcomed by the deputy. editor-in-chief Yu. P. Soldovev.
+
+The conference was held in eight sections, where more than 50 reports were heard. Although the reports varied in level, almost all of them were interesting and evidenced the great work done by the speakers.
+
+As a result of the work of two mathematical sections, the reports of the Physics and Mathematics School at Moscow State University student V. Mobarsky, Leningrad resident A. Kanzin (n. 470) and Moscow schoolchildren D. Kryunov (n. 179), A. Sozomonyan (n. 179), N. Zimpinov (n. 444) were recognized as the best.
+
+At 4 physics sections, the best reports were recognized by K. Ilyinsky (Physical School at Leningrad State University), V. Lyubarsky (Physical School at KSU), Moskovtsev S. Kolintsenko and N. Kopisov (s. 542), as well as a student of the Physics School at Moscow State University A. Ivanov, Yu. Prosorov, V. Sakhanenko, I. Nikitin.
+
+The reports of all participants were awarded with certificates of honor, and the best of the speakers were loaded with diplomas from the magazine «Kvant».
+
+Greater interest was generated by the “round table”, which was met with the rare play of the magazine «Kvant».
+
+As always, the mathematical KVN was fun and interesting, in which the visiting team and the host team of the conference “fought.”
+
+The conference as a whole was very good and very original, on a scientific level.
+
+A. A. Egorov
