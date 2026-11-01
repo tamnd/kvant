@@ -1,0 +1,47 @@
+---
+id: 1977-11-zadachi-4d6dfae4
+issue: kvant_1977_11
+year: 1977
+number: "11"
+title: Tasks
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 57
+page_last: 57
+page_labels: "55"
+tag: QFMK
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 214c5106438b322c5bd9bb83c0f007a60aa451e1e94f2af29fd24f37d29114cc
+prompt_sha256: draft-1
+translated_from: content/ru/1977/11/articles/16_zadachi-4d6dfae4.md
+source_content_sha256: e963d727a05fdfe30fb1150c0101c945df97ffa951d5dc3f8b9a07e1b0e387d4
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 55⟧
+
+Tasks
+
+1. a) At the next lesson of a mathematical circle devoted to the problem of four colors, six members of the circle decided to experiment - draw different maps and try to paint them in four colors so that the neighboring “countries” were painted in different colors. This required pencils of four different colors.
+
+The teacher had a lot of red, blue, yellow and green pencils, but he did not want each student to color the cards alone. He decided to distribute pencils to the children in such a way that no two schoolchildren (out of six!) would have pencils of all four colors, but any three would.
+
+Will he be able to do this?
+
+6)* Try to find out for what n it is possible to distribute pencils of n colors to six children in such a way that every three have (together) pencils of all n colors, and no two have pencils.
+
+2. What numbers need to replace the letters to make equality
+
+$$\frac{ab}{+bc} = \frac{ca}{abc}$$
+
+was carried out?
+
+3. I am now 4 times older than my sister was when she was half my age. How old is each of us now, if in 15 years we will be 100 years old together?
+
+4. Find all integers m, n satisfying the equation
+
+$$\sqrt{m + \sqrt{m}} = n.$$

@@ -1,0 +1,78 @@
+---
+id: 1977-6-karasev-vsesoyuznyiy-zaochnyiy-finansovo-ekonomicheskiy-institut-3129ffb1
+issue: kvant_1977_6
+year: 1977
+number: "6"
+title: All-Union Correspondence Financial and Economic Institute
+authors:
+  - Карасев А.
+rubric: ekzamenatsionnye-materialy
+page_first: 90
+page_last: 90
+page_labels: "88"
+tag: SB56
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: c1869467afe0ae433c145aa2910b4b024e144444b93ca77838393939e2c78f50
+prompt_sha256: draft-1
+translated_from: content/ru/1977/06/articles/25_karasev-vsesoyuznyiy-zaochnyiy-finansovo-ekonomicheskiy-institut-3129ffb1.md
+source_content_sha256: 4be15da8aee1ffa6745f7a2ba9aa0462b2f48dfe433b4d1f2ebffd021d02f01f
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 88⟧
+
+The all-purpose correspondence financial and economic institute (VZFEI) was organized in 1930. Currently, this is one of the largest universities in the country, the basic institute of correspondence economic education in our country. More than 30 thousand students study there.
+
+The Institute trains highly qualified economists in the following specialties: finance and credit (specialization: finance, credit, financing and lending of capital investments, industrial finance), accounting (specialization: industrial accounting, construction accounting, agricultural accounting), industrial planning, labor economics, statistics, national economic planning, economics and logistics planning.
+
+Educational, methodological and scientific research work at the institute is carried out by twenty departments, which include prominent Soviet economists.
+
+VZFEI students study higher mathematics in three courses: in the first - general course (analytical geometry, differential and integral calculus, series theory), in the second - probability theory and mathematical statistics, in the third - mathematical programming.
+
+The main form of training for students at VZFEI is their independent work. However, students are required to complete the classes prescribed by the curriculum.
+
+The educational process is as close as possible to the place of residence of students. It is carried out in 24 territorial divisions of the institute (branches, faculties, educational and advisory points), located in Arkhangelsk, Barnaul, Belgorod, Bryansk, Vladimir, Volgograd, Voronezh, Gorky, Kaluga, Kemerovo, Kirov, Kurskoye, Lipetskoye, Moscow, Omsk, Orel, Orenburg, Penza, Smolensk, Tula, Ufa, Khabarovsk, Chelyabinsk, Yaroslavl.
+
+Students living in these cities are regularly (two to three times a week) given lectures, practical classes, and consultations throughout the academic year. Students living in other places (“periphery”) are called to “introductory” lectures at the beginning of the academic year. Exams for all students are held twice a year (winter and summer).
+
+Applicants to VZFEI take entrance exams in mathematics (written), Russian language and literature (written), history of the USSR (ustino) and geography of the USSR (ustino).
+
+On the basis of competitive selection, first of all, persons whose nature of work corresponds to the specialty chosen by the university (if they have been working in this specialty for at least six months), graduates of secondary specialized and secondary vocational technical educational institutions entering related specialties, as well as conscripts discharged into the reserve (if no more than three years have passed since the date of transfer to the reserve) are first enrolled.
+
+Below are two versions of the task for the entrance written exam in mathematics at the VZFEI in 1976.
+
+Option 1
+
+1. Parts of the same type are processed on two stacks. The productivity of the first glass is 40% greater than the productivity of the second. How many parts were processed per shift by each glass, if the first one worked during this shift for 6 hours, and the second one worked for 7 hours, and together they processed 616 parts?
+
+2. Solve system of equations
+$$\begin{cases} 3y^9 = 81, \\ 2\lg(x+y) - \lg x = 2\lg 3. \end{cases}$$
+
+3. Solve inequality $\frac{2}{x} > \frac{1}{2}$.
+
+4. Solve the equation
+$$\sqrt[3]{x} - 1 + \sqrt[3]{x} + 2 = 3.$$
+
+5. An equilateral triangle is described around a circle, the side of which is 10 cm, the base is 12 cm. Determine the radius of the circle.
+
+Option 2
+
+1. Two organizations purchased a certain number of different vouchers, the first - for 300 rubles, the second - for 270 rubles. The second organization bought 5 less vouchers, but paid 3 rubles more for each voucher. How many vouchers did each organization buy?
+
+2. Solve the equation
+$$\left(\frac{2}{5}\right)^3 - 2x = 15 \frac{5}{8}.$$
+
+3. Solve inequality
+$$\frac{x+4}{x+2} < 2.$$
+
+4. Solve system of equations
+$$\begin{cases} 5x + 2y = 100, \\ \lg x - \lg y = \lg 1,6. \end{cases}$$
+
+5. Simplify the expression (1+cos 2α≠0, 1+cos α≠0)
+$$\frac{\sin 2\alpha}{1+\cos 2\alpha} \cdot \frac{\cos \alpha}{1+\cos \alpha}.$$
+
+A. Karasev

@@ -1,0 +1,56 @@
+---
+id: 1977-6-berezin-ovalyi-dekarta-5cc7337a
+issue: kvant_1977_6
+year: 1977
+number: "6"
+title: Descartes ovals
+authors:
+  - Березин В. Н.
+rubric: raznoe
+page_first: 45
+page_last: 45
+page_labels: "43"
+tag: N4PE
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: a5db62338d5e7704a2e45b6da3a8642ce9f8e57af5778e196a504f80cb0477a2
+prompt_sha256: draft-1
+translated_from: content/ru/1977/06/articles/11_berezin-ovalyi-dekarta-5cc7337a.md
+source_content_sha256: c8325dff71b50ff9fef4c391ad835c1e6a3b8cc07ec05837c1e97fb7fcfdee90
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 43⟧
+
+Descartes ovals
+
+The term “oval” comes from the Latin “ovitis” (egg). Ovals (in the broad sense of the word) are flat, egg-shaped curves.
+
+Descartes ovals are a set of points on a plane, the distances $r_1, r_2$ of each of which from two fixed points $F_1, F_2$ of the same plane satisfy one of the equations
+
+$$mr_1 + nr_2 = a,$$
+$$mr_1 - nr_2 = a$$
+
+$(m, n, a$ - fixed positive constants). Typically, a pair of Descartes ovals satisfying equations (1), (2) (of course, with the same parameters $m, n, a$) are considered together (at figure 1 $M_1$ is the graph point of equation (1), $M_2$ is the graph of equation (2)). For $n=0$, equations (1), (2) define a circle. This circle is depicted as a styris line on the second page of the cover.
+
+Points $F_1, F_2$ are called foci. As Chasles (1793-1880) showed, in addition to the foci $F_1, F_2$, Descartes ovals also have a third focus $F_3$, which is equal in relation to the main property of ovals with each of the foci $F_1, F_2$, i.e. for some CONSTANTS $m', n', a'$ and $m''', n''$, and the graph of the equation
+
+$$m |MF_1| \pm n |MF_2| = a,$$
+$$m' |MF_1| \pm n' |MF_2| = a',$$
+$$m'' |MF_2| \pm n'' |MF_3| = a''$$
+is the same set of points. The focus $F_3$ is placed at the intersection of the line $F_1F_2$ with the circle passing through the points $F_2$. $M_1$ and $M_2$ (Fig. 2). The proof and research of this interesting fact is provided in the following form:
+
+Fig. 1.
+
+Fig. 2.
+
+Fig. 3.
+
+Relax reader (the similarity of triangles can help you with this).
+
+Here's another task, more useful. I. Newot showed that a set of points, the ratio of the distances of each of which from two given circles is a constant, is one of the curves that make up a pair of Descartes ovals. Which one exactly?
+
+Descartes' ovals are two closed lines, one of which encloses the other (second page of the cover).

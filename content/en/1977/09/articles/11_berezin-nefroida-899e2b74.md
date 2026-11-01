@@ -1,0 +1,46 @@
+---
+id: 1977-9-berezin-nefroida-899e2b74
+issue: kvant_1977_9
+year: 1977
+number: "9"
+title: Nephroida
+authors:
+  - Березин В. Н.
+rubric: raznoe
+page_first: 45
+page_last: 45
+page_labels: "43"
+tag: WJ2D
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 5545de5750054037245cebfa3d4b249c6a6c0bd1c9dbaa62255432e902c932a2
+prompt_sha256: draft-1
+translated_from: content/ru/1977/09/articles/11_berezin-nefroida-899e2b74.md
+source_content_sha256: a0feecc2abc8099388089d11d99f6d7e3a96bd37975b4d924d74cb25a212fb1b
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 43⟧
+
+Nephroid
+
+A nephroid can be defined as the trajectory of a fixed point on a moving circle $(O_1, r)$, which is connected to the circles in circle $L$ and has a common point with $l$; 6) at each point the tangent $y_l$ and the corresponding curve from $L$ are common. In particular, if $L$ is a family of lines, then each of them must touch the envelope at some point. The envelope is often not drawn on the drawing, but, nevertheless, in the day, if there are “a lot” of curves $L$ drawn. This is exactly how the nephroid is presented on the second page of the cover - as a circle enveloping a family. What is a nephroid on the second page of the cover - like an enveloping circle of a family. What is a nephroid on the second page of the cover - like an enveloping circle of a family.
+
+Let us indicate some properties of the nephroid and use them for another construction of it. Let $RN$ be the diameter of circles $(O_1, r)$ and $T=(MR)\cap(O, 2r)$. Let, further, $U=(OT)\cap(MN)$. It can be proven that $UN$ is the tangent to the nephroid at the point $M$ (see, for example, the construction of the tangent to the delutida in «Kvant», 1977, no. 3).
+
+Triangles $O_1MR$ and $ROT$ are equilateral. So, $O_1MR=O_1RM=O_{RT}=O_{TR}$. Therefore $UT||MO_1$. Triangles $MO_1N$ and $UON$ are similar. Therefore, triangle $UON$ is equilateral and $|UO|=4r$. $UMT$ is a right triangle. Let us describe a “blue” circle $(O_2, 3r)$ around it. Then $MT=2\varphi.3r=3\varphi.2r=M_0T$. The second method of constructing a nephroid is based on this: we roll around a motionless circle $(O, 2r)$ the circle $(O_2, 3r)$, touching it as shown in figure 1. The nephroid is described by the point $M\epsilon(O_2, 3r)$.
+
+For further purposes, we introduce the concept of “envelope of the family of curves $L$”. Assessing
+
+bayoshaya is a continuous curve $l$ such that: a) each of its points belongs to one of the curves of the family $L$ and, conversely, each of the curves in $L$ has a common point with $l$; 6) at each point the tangent $y_l$ and the corresponding curve from $L$ are common. In particular, if $L$ is a family of lines, then each of them must touch the envelope at some point. The envelope is often not drawn on the drawing, but, nevertheless, in the day, if there are “a lot” of curves $L$ drawn. This is exactly how the nephroid is presented on the second page of the cover - as an envelope of a family of circles. What is a nephroid on the second cover page - like the envelope of a family of circles.
+
+Chirngauz, mentioned in the caption to the second page of the cover, studied mainly “optical” curves, among which kama-kaystics occupied a prominent place. The catacoustics of a given curve is the envelope of light rays segmented from it. Let $CP$ be one of such parallel rays coming, for example, from the Sun. If $CP$ hits a concave “blue” cylindrical surface (Fig. 2), then it is reflected from it at an angle $\theta$ equal to the angle of incidence. Let's distance the circles
+
+$(O, \frac{|OP|}{2})$ and $(O_1, \frac{|OP|}{4})$ (Fig. 2).
+
+Then $CPO=POX=OPQ=\theta$. It is clear that $OO_1M=2\theta$ and point $M$ can be obtained by projecting circle $(O_1, \frac{|OP|}{4})$ into circle $(O, \frac{|OP|}{2})$ by angle $2\theta$ from position $M_0$. Therefore, the light ray $PQ$ actually touches the nephroid at point $M$.
+
+The use of nephroid in bright sunlight can be seen in the morning over a cup of coffee. The nephroid can also be obtained as the envelope of the following family of straight lines. Let us distance the center at $O$ and its two mutually perpendicular diameters $Ox$ and $Oy$. Let us arbitrarily select a point $B$ on diameter $Oy$ and make a notch $A$ on the original circle using circle $(B, |BO|)$. For all possible points $B$, through points $B$ and $A$ we draw straight lines $BA$. The envelope of the family of these straight lines is the nephroid. Prove it.

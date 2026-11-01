@@ -1,0 +1,62 @@
+---
+id: 1977-9-peryishkin-originalnoe-dokazatelstvo-zakona-arhimeda-8b655fc3
+issue: kvant_1977_9
+year: 1977
+number: "9"
+title: Original proof of Archimedes' law
+authors:
+  - Пёрышкин А. В.
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 49
+page_last: 49
+page_labels: "47"
+tag: KKCE
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 619029ee48606052fa6df4de2577ddbc313067c214ebe131fda8c6296578f704
+prompt_sha256: draft-1
+translated_from: content/ru/1977/09/articles/15_peryishkin-originalnoe-dokazatelstvo-zakona-arhimeda-8b655fc3.md
+source_content_sha256: d59442e6de2b705e1d353f1a4818bc360e7b349e3ad2fbcc1e07aea36b223c87
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 47⟧
+
+A. Peryshkin
+
+Original proof of Archimedes' law
+(From the history of physics)
+
+Many scientists have dealt with the issues of hydroscotics, the foundations of which were laid by Archimedes. Middle - Dutch scientist Simon Stevin (1548-1620). In his book "Principles of Hydroscotics" Stevin gave a simple but very original proof of Archimedes' law. The presentation of this proof is presented by seven postulates - statements that do not require proof. Here is one of these postulates:
+
+“The body’s own weight is its weight in the air; in water the weight of the body is different"*).
+
+Next, Stevin proves the following “Proposition”: “Water holds any position in water.”
+
+Given a weightless form A containing water and placed in water BC (Fig. 1). It is required to prove that water A will not mix.
+
+Proof. If it were otherwise, and water A did not remain in place, but sank into D, then the water that would take its place would also sink for the same reason; Thus, due to the movement of A, the water would be in perpetual motion, which is absurd.
+
+In a similar way it proves
+
+*) For a long time, “everything” has been considered as a certain characteristic of the body. In this sense, “own weight” should be understood as a “pure” characteristic, not distorted in any way. One should speak of the body's own weight as all of it in a vacuum, but at that time the concepts of “air” and “vacuum” were not distinguished.
+
+it is assumed that A will not rise or move in any direction; so it will interrupt where it is placed - D, E, F, G or any other place in the BC water.
+
+Based on the proven proposition, Stevin then proves the following theorem:
+
+Any solid body in water is less than in air by the weight of an equal volume of water.
+
+Given a solid A and water BC (Fig. 2). It is required to prove that if A is placed in water BC, then all of it will be less than in air by the weight of water occupying a volume equal to the volume of A. Proof. Let D be a weightless form similar and equal in volume to body A. Fill it with water and place it in water BC. According to the “Proposition” proved above, shape D will maintain any position in water BC. Let's pour water out of mold D and place body A in it.
+
+Fig. 1. Fig. 2.
+
+Now the weight of the contents of form D will be equal to the weight of body A, reduced by the weight of the completed water. But the volume of complete water is equal to volume A, therefore, the weight of body A in water is less than in air by the weight of water occupying a volume equal to the volume of body A.
+
+* * *
+
+In conclusion, we recommend that those interested in the history of physics read the book “The Beginnings of Hydroscotics. Archimedes, Stevin, Galileo, Pascal" (State Technical Publishing House, Moscow, 1932). It presents the previous works on hydroskate of Archimedes, Stevin, Galileo, Pascal.
