@@ -1,0 +1,33 @@
+---
+id: 1988-10-dubrovskiy-golovolomka-minus-kubik-09184051
+issue: kvant_1988_10
+year: 1988
+number: "10"
+title: '[Minus Cube Puzzle]'
+authors:
+  - Дубровский В. Н.
+rubric: smes
+page_first: 68
+page_last: 68
+tag: LDHM
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 3410b780643a5ca8500226c63b6cc451afc023ef0f4281f896f574d85e3cd562
+prompt_sha256: draft-1
+translated_from: content/ru/1988/10/articles/01_dubrovskiy-golovolomka-minus-kubik-09184051.md
+source_content_sha256: 2e12b028e0e78f8c610297bf7e4ae0248b807626b43b7ca3dee45ad5ba4f419a
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+“Minus cube” (Fig. 1, 3) is a spatial version of 15: 7 cups, glued from two U-shaped halves, white and colored (Fig. 4), can be moved inside an air-tight box twice as large as the cube. You need to arrange them so that only one color is visible on each side of the box. The final, “correct” distribution of colors is shown in Figures 1 and 3 (the sides of the box that are invisible on them are colored, and the bottom is white). This simple puzzle attracted our attention because two of its seemingly identical variants - black, produced in Moscow (Fig. 1), and blue, Serdlovsky (Fig. 3) - exist relatively in complexity of the solution. The Moscow “minus cube” can be assembled, operating almost in volume, but you have to think about the Sverlov one. What's the matter?
+
+Inside the corners of the box (Fig. 2; 1st corner is empty) and lay out the correctly placed cubes, without turning them, in a row by number. The results are presented in the bottom two rows of the table: for clarity, only the dark half of each cube is left in it, and the square means that in the corresponding place the cube is located as shown in the top line. We see that the Moscow and Sverlovsky versions differ only in one place. However, this is enough for the number of cup arrangements that satisfy the conditions of the puzzle to be 12 times greater for the Moscow version than for the Sverlov version, so that the first one can be said to be 12 times simpler than the second. In addition, with correct calculation, only one of the two corners (1st or 8th) can be free in the Sverlov “minus cube”, but in the Moscow one, any one can be free.
+
+Using our table, you can describe all the ways of placing cups in a box, in which you can get the correct calculation (as in Fig. 1, 3): you need to select several - from 0 to 5 - placed cubes from the first row of the table, and among them there can be no more than one pair of identical ones, the remaining cubes must be oriented like the figures in the lower rows. It is not difficult to calculate that there are 48 different versions of the “minus cube” that allow for correct calculation.
+
+V.D.
