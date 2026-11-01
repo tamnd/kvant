@@ -1,0 +1,44 @@
+---
+id: 1988-10-vnimaniyu-nashih-chitateley-1dbc27b6
+issue: kvant_1988_10
+year: 1988
+number: "10"
+title: Attention to our readers!
+rubric: smes
+page_first: 18
+page_last: 18
+page_labels: "16"
+tag: WYBV
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 011a9c07e48110720952a9c17be0a3fec2374ff95d6bb3fbd147c4b7926d6e35
+prompt_sha256: draft-1
+translated_from: content/ru/1988/10/articles/05_vnimaniyu-nashih-chitateley-1dbc27b6.md
+source_content_sha256: 112fce96bfc04e83690d6a36ca9b4e86feacb031539002d63ba9a34663f46054
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 16⟧
+
+Attention to our readers!
+
+Store No. 1 “Akademika” in Ufa sends cash on delivery books from the publishing house “Nuka”:
+Baturin Yu. M. Law and politics in the computer circle.—1987.—40 pp.
+Ginzburg V.L. About physics and astrophysics. Stats and performances. (Nuka. Worldviews. Life).—1985.—1 r. 80 k.
+Kapitsa P. L. Experiment. Theory. Practice. Stats and performances.
+
+Ed. 4-e, rev. and additional (Nuka. Worldviews. Life).—1987.—2 r.
+Klein F. Elementary mathematics from a higher point of view: In 2 volumes. Transl. with him. T. 1. Arithmetic. Algebra. Analysis.—1987.—1 r. 40 k.—T. 2. Geometry.—1987.—1 r. 40 k.
+Klimshin I. A. Discovery of the Universe.—1987.—1 r. 50 k.
+Kozel S. M., Rashba E. I., Slavatinsky S. A. Collection of problems in physics. Training manual for calls. Ed. 2-e, reworked and additional - 1987. - 75 k.
+Marochnik L. S. Date with a comet. (Library «Kvant»).—1985.—35 k.
+Rybasenko V. D., Rybasenko I. D. Elemental functions. Formulas, tables, graphs.—1987.—2 r.
+Silin A. A. Trene and us. (Library «Kvant»).—1987.—35 k.
+Send orders for books to: 450059 Ufa, st. P. Eorde, 10, Akademika store.
+
+ra x find the point of intersection of three planes of our family, which correspond to three values ​​of x. Then each x will correspond to a point in space; the collection of these points forms the desired spatial curve.
+
+So, describing the surface of the family of planes $x^4 + px^2 + qx + r = 0$ consists of straight lines that touch a curve in space. Such developing surfaces are the main characters in the above-mentioned article by D. B. Fuchs. The surface we constructed is called a dovetail. In the article by D. B. Fuchs, this surface is depicted as it is customary to draw it in our time; on figure 15, borrowed from F. Klein’s book “Elementary Mathematics from a Higher Point of View”, it is depicted from a different perspective. Look at figure 15 and compare it to the dovetail figure from the article "Geometry of a Sheet of Paper". Do you recognize the dovetail in our picture?

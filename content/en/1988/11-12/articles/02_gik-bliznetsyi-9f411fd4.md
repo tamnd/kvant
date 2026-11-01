@@ -1,0 +1,58 @@
+---
+id: 1988-11-12-gik-bliznetsyi-9f411fd4
+issue: kvant_1988_11-12
+year: 1988
+number: 11-12
+title: Twins
+authors:
+  - Гик Е. Я.
+rubric: shahmatnaya-stranichka
+rubric_sub: Шахматы
+page_first: 99
+page_last: 99
+tag: V3OV
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: e0c5234afeeacfdd1811836f128ddc1fc183445ca078f6684013c8fbede99524
+prompt_sha256: draft-1
+translated_from: content/ru/1988/11-12/articles/02_gik-bliznetsyi-9f411fd4.md
+source_content_sha256: 8133d212e011595a689c5016ce2816dfb3417fe2403519c0e42cdff85ab4fefa
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+TWINS
+
+The evaluation of a position can be reversed if one of the pieces or pawns is moved. This is not surprising, because in chess only the material correspondence of forces matters, but also the specific location of the piece. But still, if one of the parties has an overwhelming material advantage, then rearranging the figure rarely affects the outcome of the fight. Chess problem solvers, who always like to put a topic into a non-formal form, have come up with quite a few problems in which, when moving just one piece or pawn, the result of the activity does not change, but the solution itself undergoes an amazing change. We are talking about the so-called twin problems: their external ones are almost indistinguishable from each other, and their solutions are fundamentally different.
+
+Here are four twin problems: one is the image on the diagram, the other three are obtained by rearranging the white king or pawn. In the decision, one of the pawns in the court is promoted to a queen, and the other is promoted to a queen, rook, knight or bishop! And the authors of the twins are different.
+
+1. Diagram. Checkmate in 2 moves. (O. Deler, 1925). 2. Move the pawn from c7 to g7. Checkmate in 3 moves. (X. Staudte, 1965). 3. Move (in the original position) the king from b4 to b3. Checkmate in 3 moves. (V. Shpekman, 1964). 4. Move (in the original position) the pawn from b7 to a7. Checkmate in 3 moves. (L. Kubbel, 1940).
+
+Solutions. 1) 1. c8Ф and 2. b8Ф×. 2) 1. b8J! (1. b8Q stalemate) 1... Kra7 2. g8Q Kra6 3. Qa2×. It is curious that this twin has come up with quite a few problems in which, when rearranging just one piece or pawn, the result of the activity does not change, but the solution itself undergoes an amazing change. We are talking about the so-called twin problems: their external ones are almost indistinguishable from each other, and their solutions are fundamentally different.
+
+If the solution to a slightly modified problem differed little from the solution to the original one, we would talk, using mathematical language, about the “intermittent” dependence of the solution of the problem on the position. However, in this case this dependence is discontinuous! In mathematics, continuous functions are something natural, but discontinuous functions are a special case. Twin chess problems illustrate the “discontinuity” on the chessboard, and in the most paradoxical way.
+
+The weak promotion of a pawn (not into a queen, but into another, not just a powerful piece) embellishes the problem, and often constitutes its essence. Here is another twin in which the permutations of the queen and pawn would lead to four different promotions. Currently, all problems belong to one composer and they are all two-step tasks.
+
+V. Shpekman, 1965. Checkmate in 2 moves. 1. Diagram. 2. Qf7→h7, na7→c7. 3. Qf7→g7, na7→e7. 4. Qf7→a7, na7→g7.
+
+Solutions: 1) 1. a8K! (1. a8Q stalemate) 1... Kra6 2. Qd5×. 2) 1. c8J! Kra6 2. Rs6×. 3) 1. e8C! Kra6 2. Qe5×. 4) 1. g8Q (finally) 1... Kra6 2. Qd5×.
+
+The next unique two-move combines all the twins at once!
+
+K. Hanneman, 1972 Checkmate in 2 moves. 1. Diagram. 2. nb7→c7. 3. nb7→a7. 4. Kpb6→a7. 5. Kpb6→h1. 6. Qg7→b8.
+
+Solutions. 1) 1. b8Ф+ Kra6 (a6) 2. Фgb7×. 2) 1. c8J! Kra6 2. Rs6×. 3) 1. a8C! Kra6 (a7) 2. b8Ф×. So, twice the pawn was transformed into a queen and a rook, and once each into a bishop and a knight.
+
+In the considered problems the white pawn was moved. The next four solutions are that all the pieces except the pawn are moved to other squares, but it is this white pawn that is forced to transform into a new piece each time. In this example, the rearranged figure remains in its new place, and the next one is rearranged after it.
+
+V. Shpekman, 1963. Checkmate in 2 moves. 1. Diagram. 2. Qh7→a7. 3. Next Ke6→c6. 4. Next Ke4→c4.
+
+Solutions: 1) 1. f8C! Npf6 2. Qf5×. 2) 1. f8J! Kpd6 2. Rf6×. 3) 1. f8Ф! Kpb5 2. Qfc5×. 4) 1. f8K! Kpd6 2. Qc5×.
+
+E. Ya. Gik

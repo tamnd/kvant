@@ -1,0 +1,133 @@
+---
+id: 1988-11-12-prizeryi-xxii-vsesoyuznoy-olimpiadyi-shkolnikov-po-matematike-i-fizike-da89b0cb
+issue: kvant_1988_11-12
+year: 1988
+number: 11-12
+title: Prize-winners of the XXII All-Union Olympiad for Schoolchildren in Mathematics and Physics
+rubric: olimpiady
+rubric_sub: Олимпиады
+page_first: 87
+page_last: 87
+page_labels: "85"
+tag: MAWU
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: bb303837427f255b577af7ba208d7504fcd4f8a21260471dada9046bb7a4fe3d
+prompt_sha256: draft-1
+translated_from: content/ru/1988/11-12/articles/27_prizeryi-xxii-vsesoyuznoy-olimpiadyi-shkolnikov-po-matematike-i-fizike-da89b0cb.md
+source_content_sha256: 2f1587bf61d97f89c10a04b692aa428413c0ffa51175cc615a2b64593a73ede2
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 85⟧
+
+Prize-winners of the XXII All-Union Olympiad for Schoolchildren in Mathematics and Physics
+
+Mathematics
+
+First degree diplomas
+
+in 8 grades received
+Abramov G. (Leningrad, s.sh. No. 239),
+Zarubin N. (Kharkov, s.sh. No. 27),
+Malinnikova E. (Leningrad, s.sh. No. 239),
+Pikhurko O. (Nesterovo, s.sh. No. 1),
+Simanovskie R. (Riga, Physics School No. 1),
+Smogroviec J. (Riga, Physics School No. 1);
+
+for 9 grades -
+Viro A. (Leningrad, s.sh. No. 239),
+Ivanov S. (Leningrad, s.sh. No. 239),
+Radulin V. (Moscow, Physics School No. 18 at Moscow State University);
+
+for 10 classes -
+Kokorev I. (Leningrad, Physics School No. 45 at Leningrad State University),
+Khokhlov Yu. (Leningrad, s.sh. No. 30).
+
+II degree diplomas
+
+in 8 grades received
+Arzhantsev I. (Kyiv, s.sh. No. 145),
+Baranovsky V. (Omsk, s.sh. No. 115),
+Bachurin A. (Sterlitamak, no. 20),
+Belyakina Z. (Zhodino, s.sh. No. 7),
+Gorodetsky A. (Saratov, no. 13),
+Ivanov A. (Leningrad, Physics School No. 45 at Leningrad State University),
+Mavlyutov R. (Naberezhnye Chelny, s.sh. No. 12),
+Nasyrov A. (Obninsk, s.sh. No. 11),
+Razin M. (Kyiv, Physics School No. 2 at KSU),
+Ostrik V. (Zhdanov, s.sh. No. 64);
+
+for 9 grades -
+Andrianov N. (Moscow, Physics School No. 18 at Moscow State University),
+Ivanov D. (Moscow, s.sh. No. 57),
+Protsan V. (Kyiv, Physics School No. 2 at KSU),
+Roginskaya M. (Leningrad, s.sh. No. 239),
+Skopenkov A. (Saratov, s.sh. No. 13),
+Shumakovich A. (Leningrad, s.sh. No. 239);
+
+for 10 classes -
+Anisov S. (Kharkov, s.sh. No. 142),
+Baran A. (Minsk, s.sh. No. 6),
+Varshaevsky Y. (Kharkov, s.sh. No. 27),
+Glutsok A. (Kharkov, s.sh. No. 27),
+Romanian D. (Novosibirsk, Physics School No. 165 at NSU),
+Tulyakov D. (Zhdanov, s.sh. No. 7),
+Khovanov M. (Moscow, s.sh. 57),
+Filonov N. (Leningrad, s.sh. No. 30),
+Efendiyev Y. (Baku, s.sh. No. 82).
+
+III degree diplomas
+
+in 8 grades received
+Vogdanov A. (Stary Oskol, s.sh. No. 3),
+Volchenko K. (Donetsk, s.sh. No. 17),
+Davydenko D. (Nazarov, s.sh. No. 8),
+Ozols M. (Alukene, s.sh. No. 1),
+Potapov S. (Tambov, no. 29),
+Fedotov A. (Krasnoirsk, s.sh. No. 41),
+Tseytlin L. (Kharkov, s.sh. No. 1),
+Chuzhikov V. (Vinnitsa, s.sh. No. 6),
+Shuk S. (Rzhev, s.sh. No. 10),
+Edamov A. (Gorokhovets, s.sh. No. 1);
+
+for 9 grades -
+Demchenko V. (Kazan, s.sh. No. 131),
+Dubrov V. (Minsk, no. 107),
+Goldner V. (Chisinau, no. 40),
+Zelik S. (Kramatorsk, s.sh. No. 35),
+Lee R. (Verdsk, s.sh. No. 2),
+Skvortso M. (Chernogolovka settlement, Moscow region, northern route No. 82),
+Feldman D. (Chernogolovka village, Moscow region, northern route No. 82);
+
+for 10 classes -
+Hakobyan V. (Yerevan, Physics School at Yerevan State University),
+Barris J. (Riga, Physics School No. 1),
+Verlov S. (Leningrad, s.sh. No. 239),
+Wessolicite M. (Kirov, s.sh. No. 30),
+Valilupin M. (Kazan, s.sh. No. 94),
+Vologodsky V. (Omsk, s.sh. No. 91),
+Volfovich L. (Balti, no. 16),
+Gorokhovsky A. (Kyiv, s.sh. No. 79),
+Gravit V. (Severodvinsk, s.sh. No. 27),
+Griner R. (Lvov, s.sh. No. 62),
+Zharkov I. (Sverdlovsk, s.sh. No. 130),
+Kovrizhkin O. (Maikop, s.sh. No. 7),
+Nazaryan A. (Tbilisi, no. 42),
+Prokofier D. (Leningrad, Physics School No. 45 at Leningrad State University),
+Slitinsky V. (Kyiv, s.sh. No. 206),
+Khristenko O. (Karaganda, s.sh. No. 63).
+
+Physics
+
+First degree diplomas
+
+in 8 grades received
+Gruznykh D. (Chelyabinsk, s.sh. No. 127),
+Zarubin N. (Kyiv, Physics School No. 2 at KSU),
+Chokin D. (Almaty, RFMSH),
+Shelyaov V. (Leningrad, s.sh. No. 202),
+Entin M. (Tula, s.sh. No. 36);
