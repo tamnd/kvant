@@ -1,0 +1,90 @@
+---
+id: 1977-1-tsesler-krossvord-znamenityie-uchenyie-d2e493a1
+issue: kvant_1977_1
+year: 1977
+number: "1"
+title: Crossword "Famous Scientists"
+authors:
+  - Цеслер Г.
+rubric: smes
+page_first: 66
+page_last: 68
+page_labels: "64"
+tag: 62L4
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 133fc93b81f33b25134023a438729b120c5b6f3acc843147c62af8aabe231df1
+prompt_sha256: draft-1
+translated_from: content/ru/1977/01/articles/23_tsesler-krossvord-znamenityie-uchenyie-d2e493a1.md
+source_content_sha256: cef19af74a362edda5bb82aa3ef803b763104c02ff8f662d73e9345d2c1fd188
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 64⟧
+
+4. $\alpha = \frac{\pi}{8} \pm \frac{\pi}{6} + k\pi$ ($k$ is an integer).
+
+5. $1 < x < \sqrt{2}$. Indication e. Distance separately cases $0 < x - 1 < 1$ and $x - 1 > 1$; in the second case, prove that for all $x > 2$ the inequality $x^4(x^2 - 2) > 1$ is valid.
+
+Faculty of Biology
+
+1. $x = \frac{k\pi}{2}$ ($k$ is an integer). 2. $7^{-1/3} < x < 1$.
+
+3. The weight ratio of substances $A, B$ and water in solution No. 2 is 2:3:4. 4. The area of ​​a trapezoid is $16\sqrt{1 + \frac{2\sqrt{3}}{3}}$. Direction e. Prove that the radius of the first circle is equal to 2, and the radius of the second circle lies towards the vertex when the base of the trapezoid is closer than the center of the first circle. Write down an equation indicating that the distance from the vertex at the larger base of the trapezoid to the center $O_1$ is equal to the distance from the same vertex to the center $O_2$, complex with the distance between the centers. Next, use the fact that the square of the diameter of a circle inscribed in an equilateral boundary is equal to the product of the length of the base of the trapezoid. 5. Indicate e. Distance graphs of functions $y = 2x - x^2$, $y_2 = \frac{2}{x}$ and show that for $0 < x \leq 2$ the graph of functions $y_1$ lies no higher than the straight line $y = 1$, and the graph of functions $y_2$ lies no lower than this straight line.
+
+Faculty of Chemistry
+
+1. $10 \text{ m}/\text{u}$. 2. $-1 < x < -\frac{1}{2} (\log_3 26 - 1)$, $\frac{1}{2} (\log_3 26 - 1) < x < 1$. Direction e: Note that $x^2 = |x|^2$, and denote $|x|$ by $z$. 3. $\sqrt{3}$. 4. $x = \frac{5\pi}{6} + 2k\pi$ ($k$ - whole). 5. 2.
+
+To the article “Fishing”
+
+1. From the conversation of the guys, we can conclude that two of them, including Petya, participated in one class (with Innokenty Petrovich), and the third - in another (with Nikolai Gennadievch). The guys studying in the same class understand by the window, while the one who caught the biggest fish did not have a window. Consequently, the one who caught the biggest fish of all is not Petya, and he learns from Nikolai Gennadievch. But you don’t have the biggest catch, so only Kolya can understand the biggest fish. This means you are studying with Innokenty Petrovich.
+
+2. Let us denote by $n$ the number of fish caught. The first angler took $(n-1)/3$ fish, the second $[2(n-1)/3-1]/3 = (2n-5)/9$, the third $(4n-19)/27$. We need to find the smallest natural number $n$ such that the numbers $(n-1)/3$, $(2n-5)/9$ and $(4n-19)/27$ are integers. Let's put $(4n-19)/27 = k$, then $n = (27k+19)/4$. For $k = 3$ we get the answer: $n = 25$ (for $k = 1$ and $k = 2$ we get non-integer $n$). By the way, at $k = -1$ we get $n = -2$ Dirac’s answer.
+
+CROSSWORD
+
+"Famous Scientists"
+
+Horizontal:
+
+5. One of the founders of celestial mechanics. 6. Russian mathematician, founder of one of the most important areas in probability theory. 9. Physicist who experimentally proved the existence of electromagnetic waves. 12. One of the creators of the theory of functions of a complex variable. 13. The largest mathematician of the 18th - 19th centuries. 14. Theoretical physicist, one of the creators of quantum mechanics. 17. French physicist of the 19th century. 18. Physicist and engineer who established the laws of operation of heat engines. 19. Soviet engineer who used a single-lane hyperbolide in his designs. 22. An astronomer who discovered a new planet using data from the previous Le Verrier. 23. Experimental physicist whose work laid the foundation for ultraviolet and infrared photography. 25. Famous Danish physicist. 26. Greek mathematician, engineer and inventor of the 1st century. n. e. 30. Doctor, one of the first to formulate the law of transformation and conservation of energy. 31. Founder of cybernetics. 32. An astronomer who accurately determined the radius of the Earth.
+
+The act was prepared by: V. Berezin, A. Vilenkin, I. Klumova, T. Petrova, V. Tikhomirova, Y. Shikhanovich
+
+The room was designed by: M. Dubakh, G. Krasnikov, I. Smirnova, E. Ponomareva
+
+head edited by L. Chernov
+
+art editor T. Makarova
+
+Proofreader V. Sorokina
+
+113035, Moscow, M-35, B. Ordynka, 21/16, «Kvant», tel. 231-83-62.
+Delivered as a set 25/X-76.
+Signed for publication on November 29, 1976.
+Paper 70×108/16 Phys. oven L. 4.
+Conditional oven L. 5.20. Academic ed. L. 6.45
+Price 30 kopecks. Order 2384 Circulation 294,725 copies.
+
+Chekhov Printing Plant Soelpolygraphprom under the State Committee of the USSR Council of Ministers for Publishing, Printing and Book Trade. Chekhov, Moscow region
+
+The guide is not coming back
+
+⟦folio none⟧
+
+36. French physicist and mathematician who established the law of interaction of electric currents. 37. The astronomer who first proved that our star system is not the only one in the Universe. 38. Founder of mathematical logic. 39. Physicist who proved the wave nature of RENTON RAYS. 42. German mathematician, founder of set theory. 43. Physicist, one of the inventors of a device that allows you to count individual charged microparticles.
+
+Vertical:
+1. French mathematician who was the first to use letter notation in algebra. 2. Russian theoretical physicist. 3. German physicist who developed the theory of electrical dissolution of metals. 4. English mathematician with a phenomenal memory. 7. English physicist, constructive spinatriscope. 8. Inventor of radio. 10. Indian physicist, winner of the Nobel Prize. 11. The great French mathematician who lived in the 19th century.
+
+15. Physicist who hypothesized the existence of neutrinos. 16. Outstanding English scientist of the 18th-19th centuries. 20. One of the founders of quantum electronics. 21. French physicist who formulated the law of friction. 24. One of the founders of the theory of logarithms. 27. French mathematician, one of the creators of number theory. 28. Physicist who theoretically substantiated one of the laws of black body radiation. 29. One of the founders of chemical thermodynamics and statistical mechanics. 30. English physicist who established the dependence of the wavelength of RENT RAYS on the magnitude of the nuclear charge. 33. Outstanding German mathematician of the 19th century. 34. Founder of domestic electronics. 35. Astronomer, one of the pioneers of the use of spectral analysis in astronomy. 40. Outstanding English inventor of the 18th–19th centuries. 41. Russian physicist who established the law of heat release by electric current in conductors.
+
+G. Tsesler
+
+⟦folio none⟧
+
+In this figure you see the Watt family of curves. You can read about these curves on p. 20.

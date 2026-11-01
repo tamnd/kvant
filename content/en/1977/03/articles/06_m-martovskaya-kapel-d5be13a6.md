@@ -1,0 +1,46 @@
+---
+id: 1977-3-m-martovskaya-kapel-d5be13a6
+issue: kvant_1977_3
+year: 1977
+number: "3"
+title: March drops
+authors:
+  - М. Т.
+rubric: smes
+page_first: 17
+page_last: 17
+page_labels: "15"
+tag: O5XA
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 50c8386b8dae2d71830a48886349bcf4b003e8464a4ad968cf8b0b4387f84fcc
+prompt_sha256: draft-1
+translated_from: content/ru/1977/03/articles/06_m-martovskaya-kapel-d5be13a6.md
+source_content_sha256: c4c6911382f6cb7ea33b3a8f029a6e8543140bd415b73c41c398ce845755f5f4
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 15⟧
+
+Apart from 29, only 25 is even (4·25 = 5·20), but 25-2 is a prime number.
+So, either $s_0 = 17$ or the problem has no solution.
+What kind of $p_0$ could $P$ have with $s_0 = 17$? Let's go through all the decompositions of the number 17 into the sum of two terms: $17=2+15=3+14=\dots=8+9$.
+With any product other than 4·13, $P$ would not be able to produce ($\pi_2$).
+For example, if $P$ had $p_0 = 30$, he would see both $30=2\cdot15$ and $30=5\cdot6$ among the decomposition of the number 30 into the product of two factors, but both 17 and 11 have the property ($\sigma'_1$).
+There remains only one candidate for $p_0$: 52. This candidate allows $P$ to produce ($\pi_2$): among all the product decompositions of 52
+
+March drops
+
+A visit to underground cave-halls decorated with stalaggits and stalactites leaves an indelible impression on everyone!
+Rising from the day or hanging from the ceiling, crystalline icicles, whose age is estimated at hundreds of thousands and millions of years, play with all the colors of the rainbow and create a fabulous picture of a magical kingdom.
+No less colorful, although created over just a few days, are light sculptures. Look at the photograph. Isn’t it a familiar picture that was often seen in early spring - a palisade of ice stalactites hanging from the edge of the roof. If necessary, seek out their education and ask them to answer the following questions:
+1) How does the process of ice icicle formation occur?
+2) Why does an ice icicle look like a cone pointed downwards?
+3) Why do cones come in different lengths?
+4) Why are some of them curved?
+5) Why is the ice icicle pronounced, but the snow is not cleared, although it also consists of individual transparent crystals?
+
+M. T.

@@ -1,0 +1,44 @@
+---
+id: 1977-5-zadachi-nashih-chitateley-52e5ddd8
+issue: kvant_1977_5
+year: 1977
+number: "5"
+title: Tasks for our readers
+rubric: smes
+page_first: 18
+page_last: 18
+page_labels: "16"
+tag: JUHA
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: d04d6bce03f1b5eb23b68c781ee354d0d004c3487f24f418b40c149765a751a4
+prompt_sha256: draft-1
+translated_from: content/ru/1977/05/articles/08_zadachi-nashih-chitateley-52e5ddd8.md
+source_content_sha256: 8538116b21ba7c9b51695ac3e2194ffa753b52c2abbc5c005b442cc0ddd30ae5
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 16⟧
+
+Tasks
+our
+readers
+
+1. Equilateral triangles are constructed externally on the sides of triangle ABC. Let D, E, F be the centers of gravity of the triangles. Prove that $S_{DEF} \geq S_{ABC}$.
+   A. Ermilov
+   (Kolomna)
+
+2. Three points on the plane are the ends of the diameters of three circles, and one of the circles passes through three points.
+   Prove that the area of ​​a large circle is equal to the sum of the areas of the two smaller ones.
+   M. Vasnetsov
+   (Moscow)
+
+3. On the data plane there are triangles ABC and MNK, with the straight line MN passing through the midpoints of the sides AB and AC, and at the intersection of these triangles a hexagon of area S with pairs of parallel opposite sides is formed.
+   Prove that
+   $3S < S_{ABC} + S_{MNK}$.
+   Y. Temraliev
+   (village Novy Rychan
+   Astrakhan region)

@@ -1,0 +1,95 @@
+---
+id: 1977-3-gorev-krotov-moskovskiy-gosudarstvennyiy-universitet-im-m-v-lomonosova-de384398
+issue: kvant_1977_3
+year: 1977
+number: "3"
+title: Moscow State University named after. M. V. Lomonosova
+authors:
+  - Горев И.
+  - Кротов С. С.
+rubric: raznoe
+rubric_sub: Разное
+page_first: 55
+page_last: 55
+page_labels: "53"
+tag: 5V5E
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 7c0083008636c02dd8f1d43f901f9c69e96ba00b20221aeabd021c58a9e8895c
+prompt_sha256: draft-1
+translated_from: content/ru/1977/03/articles/17_gorev-krotov-moskovskiy-gosudarstvennyiy-universitet-im-m-v-lomonosova-de384398.md
+source_content_sha256: 86e12b9bd47c1579814609ba3f5372dca7517ee48bb81630b63f262497ca8884
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 53⟧
+
+Moscow State University
+them. M. V. Lomonosova
+
+Below are examples of options for a written entrance exam in mathematics and examples of problems for an oral exam in physics for applicants to some faculties of Moscow State University in 1976.
+
+Mathematics
+
+Department of Political Economy, Faculty of Economics
+
+1. 8 days after the team of lumberjacks began to lay out the process in the taiga, a second team joined it, and together they completed the rest of the work. If the brigade was placed in roles, then the clearing would be cut 2 days faster. How many days did the teams work together if it is known that the first one can complete 10% of the total work 4 days faster than the second one?
+
+2. Solve the equation
+
+$$5 \text{tg} x = 2 \sqrt{3} \sin \frac{x}{2}.$$
+
+3. In triangle ABC, the bisector BD of angle ABC is drawn. Find the radius of the circle inscribed in triangle BDC if
+
+$$|AB| = 42, |BC| = 30, \cos \widehat{BAC} = \frac{5}{7}.$$
+
+4. Solve system of equations
+
+$$\begin{cases} (x^2 - 1)^{2/2} (\text{tg} y + 3)^3 = 32, \\ 2 \log_{(\text{tg} y + 3)} (x^2 - 1) - \log_{(\text{tg} y + 3)} 2 = 5. \end{cases}$$
+
+5. Solve the equation
+
+$$\frac{7}{2} x^2 - \frac{7x}{\sqrt{3} - x} - 22x + 3 |2 - 7x| + \frac{|2 - 7x|}{\sqrt{3} - x} = \frac{1}{2} x |2 - 7x| - \frac{2}{\sqrt{3} - x} - 6.$$
+
+Department of Planning and Economic Cybernetics, Faculty of Economics
+
+1. Solve inequality
+
+$$[\lg(x + 1)]^4 - 4 [\lg(x + 1)]^2 + 3 \leq 0.$$
+
+2. Find all solutions to a system of equations
+
+$$\begin{cases} \text{ctg}^2(x - y) - (1 + \sqrt{3}) \text{ctg}(x - y) + \sqrt{3} = 0, \\ \cos y = \frac{\sqrt{3}}{2}, \end{cases}$$
+
+satisfying the conditions 0 < x < π, 0 ≤ y ≤ 2π.
+
+3. In triangle ABC, point M, lying on side AB, is connected to vertex C by segment MC. It is known that |AM| = 1, |MB| = 3, $\widehat{ACM} = 30^\circ$, $\widehat{MCB} = 60^\circ$. Find the perimeter of triangle ABC.
+
+4. The base ABC of the triangular pair KABC is a right triangle ($\widehat{ACB} = 90^\circ$). The edge KC is perpendicular to the base ABC and its length is $\frac{4}{3} \sqrt{3}$; The area of ​​the face AKB is 5.
+
+What is the most possible base area of ​​ABC under these conditions?
+
+Faculty of Psychology
+
+1. The train, traveling first for one hour uphill, and then for 10 hours downhill, travels 840 km. If the climb were 10 km long, it would cover 153 km in two hours. Find the speed of the train when moving uphill and downhill, if it is known that the speed uphill is greater than 110% of the speed of the train uphill.
+
+2. In triangle ABC the medians AD and CE are drawn. It is known that |AD| = 5, $\widehat{AC} = \frac{\pi}{8}$, $\widehat{ECA} = \frac{\pi}{4}$. Determine the area of ​​triangle ABC.
+
+3. Solve the equation
+
+$$5 \cdot x^{\log_{15}x} - 3 \cdot 5^{\log_{15}x^2} = 0.$$
+
+Prove that all roots of this equation are rational numbers.
+
+4. Find all roots of the equation
+
+$$\text{tg} x + \sqrt{\text{tg}^2 x + 4 \text{ctg}^2 x + 4} = 4.$$
+
+5. Of all the solutions (x, y) of the equation $x^2y - x^2 + 2xy - x + 2y = 1$, find those solutions for which y takes the most value.
+
+Department of Structural and Applied Linearity, Faculty of Finance
+
+1. In 600 operations, the automatic line produces three batches of tires for automatic passenger cars and 11 batches of tires for automatic trucks. If this automatic line produces only tires for automatic trucks and produces only batches of such tires, how many operations does it take to produce a batch of tires for automatic passenger cars, then this automatic line would require at least 2727 operations.

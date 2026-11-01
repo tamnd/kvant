@@ -1,0 +1,63 @@
+---
+id: 1977-3-sadovskiy-shuvalova-primernyie-variantyi-vstupitelnyih-ekzamenov-po-matematike-v-vuzyi-v-1977-godu-dlya-fakultetov-prikladnoy-matematiki-vtuzov-c35323c9
+issue: kvant_1977_3
+year: 1977
+number: "3"
+title: '[Approximate options for entrance exams in mathematics to universities in 1977 for departments of applied mathematics at colleges]'
+authors:
+  - Садовский Л. Е.
+  - Шувалова Э. З.
+rubric: raznoe
+page_first: 53
+page_last: 53
+page_labels: "51"
+tag: 1D9Z
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 4138d92913e3f2e74c26be216f02fcaf1c64e5cbeafdbf77f76400e2577ee203
+prompt_sha256: draft-1
+translated_from: content/ru/1977/03/articles/15_sadovskiy-shuvalova-primernyie-variantyi-vstupitelnyih-ekzamenov-po-matematike-v-vuzyi-v-1977-godu-dlya-fakultetov-prikladnoy-matematiki-vtuzov-c35323c9.md
+source_content_sha256: e65246b5ba367d85bc66fe373007efa2187adaac406236d5d02b9d94a131b6a1
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 51⟧
+
+Fig. 5.
+
+through the center of gravity $O$ of the wedge (Fig. 5).
+In addition, we note that in order for the ball to bounce horizontally after impact, the wedge angle $\alpha$ must have a wave value that depends on the masses of the ball and wedge.
+
+In conclusion, we offer several tasks for you to solve yourself.
+
+Exercises
+1. A horizontal flying bullet of mass $m_2 = 10$ e hits the center of a ball of mass $m_1 = 300$ e, lying on the edge of the table, and pierces it completely. The ball falls to the floor at a distance of $s_1 = 6$ m from the table, and the bullet falls at a distance of $s_2 = 15$ m. Table height $H = 1$ m. Determine the initial speed of the bullet.
+
+2. Two particles with masses $m$ and $2m$, having momenta $p$ and $p/2$, move in mutually perpendicular directions. After collision, the particles exchange impulses (Fig. 6). Determine the amount of tellots seen upon impact.
+
+3. A bag of flour slides without initial speed from a height $H = 2$ m along a board inclined at an angle $\alpha = 45^\circ$ to the horizontal. After descent, the bag lands on a horizontal surface. The friction coefficient of the bag on the board and horizontal surface is $\mu = 0,5$. How far from the end of the board will the bag be?
+
+Examples of entrance exam options for universities in mathematics in 1977
+
+In the second issue of our magazine, a new program for university entrance exams in mathematics was published.
+Below we provide examples of options and tasks for entrance exams in mathematics conducted according to the new program.
+1. For faculties with advanced mathematical training (faculties of applied mathematics at universities).
+
+Option 1
+1. Two automatic cars are moving along two streets towards the intersection at constant speeds $40$ km/h and $50$ km/h. The streets intersect at an angle of $60^\circ$. At the initial moment of time, the car is located at a distance of $5$ km and $4$ km from the corresponding intersection. After what time will the distance between them become smaller? Consider two possible cases.
+2. How many three-digit numbers can be made from the digits 0, 1, 2, 3, 4?
+
+3. Find all values ​​of $x$ lying in the interval $] -\pi, \pi[$ and satisfying equation 4-10 $\cos^2 x = \sin 2x$.
+4. A cylinder is inscribed in a cone, the diagonals of the corresponding cross-section being parallel to the two generatrices of the cone. The generatrix of the cone makes an angle $\alpha$ with the plane of the base, its length is $l$. Find the volume of the figure bounded by the base of the cone and the lateral surfaces of the cylinder and cone.
+5. In the triangle $ABC \widehat{BAC} = 60^\circ$. Find the angle between medians $BD$ and $CF$, if $|AB| = 6$ and $|AC| = 4$.
+
+Option 2
+1. What should be the angle at the vertex of an equilateral triangle of a given area so that the radius of the circle inscribed in this triangle is the widest?
+2. Indicate on the coordinate plane a set of points whose coordinates are a solution to the system of inequalities
+   $$\begin{cases} y > x^2 - x, \\ 2x + y < 2. \end{cases}$$
+3. Find $x$ satisfying the equation
+   $$\frac{1}{C_4^x} = \frac{1}{C_5^x} + \frac{1}{C_6^x},$$
+where $C_n^x$ is the number of combinations.

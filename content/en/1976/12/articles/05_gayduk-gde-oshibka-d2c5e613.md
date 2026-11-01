@@ -1,0 +1,78 @@
+---
+id: 1976-12-gayduk-gde-oshibka-d2c5e613
+issue: kvant_1976_12
+year: 1976
+number: "12"
+title: Where is the error?
+authors:
+  - Гайдук Ю. М.
+rubric: smes
+page_first: 11
+page_last: 11
+page_labels: "9"
+tag: 6P3B
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 89f03bd8778440bec27b75b08f98d4deaf800e627831880905ed0b89b76de92c
+prompt_sha256: draft-1
+translated_from: content/ru/1976/12/articles/05_gayduk-gde-oshibka-d2c5e613.md
+source_content_sha256: b8885937860282c8d793510ba1b7ccaba45320aed5ed39f10f51a3a4e8dac793
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 9⟧
+
+match the conditions of the problem (i.e., it will be possible to construct all integer segments from 1 cm to the new length of the ruler).
+
+It remains to find out how large $l$ can be made by changing $m$ (the number of divisions $k$ is fixed). To do this, we write the formula for $l$ in the form
+
+$$l = \frac{(k+1)(k+5)}{4} - \left( m - \frac{k+1}{2} \right)^2.$$
+
+From this we can see that $l$ will be the widest when $\left( m - \frac{k+1}{2} \right)^2$ is smallest.
+
+This means that if $k$ is odd, then we must put $m = \frac{k+1}{2}$, and if $k$ is even, then we must put $m = \frac{k}{2}$ or $m = \frac{k+2}{2}$.
+
+So,
+
+$$l \geq \frac{(k+1)(k+5)}{4} - \frac{1}{4} = \frac{k^2+6k+4}{4}.$$
+
+Instead of $l$ you can substitute $n$. Now expressing $k$ in terms of $n$, we get:
+
+$$k \leq \sqrt{4n+5} - 3$$ (if this number is not an integer, then you need to be closest to it with a larger integer).
+
+On figure 8 there is a table in which for $n$ from 1 to 15 the given values ​​$k(n)$—the smallest number of divisions that satisfy the conditions of the problem; the estimate we previously obtained from the formula $n \geq (k+2)(k+1)/2$ for the lower estimate and the upper estimate we just derived. It can be seen that these values ​​differ little from each other, but with increasing $n$ this difference becomes greater.
+
+Finding a formula connecting the exact value of $k$ with $n$ seems to be quite difficult. It is even unclear whether the function $k(n)$ will be monotonic, i.e., if for a segment of length $n$ there are enough $k$ divisions, then will there be enough of them for a segment of length $n-1$?
+
+As you can see, it’s just one step from a school problem to a server problem to a difficult math problem.
+
+Try your hand at solving these problems. We are waiting for your letters.
+
+Where is the error?
+
+Let us prove that $1=2$. On the one side,
+
+$$1 = \frac{2}{3-1}. \tag{1}$$
+
+Let us substitute 1 expression $\frac{2}{3-1}$ into the right side of equality (1). We get
+
+$$1 = \frac{2}{3-\frac{2}{3-1}}. \tag{2}$$
+
+Having done this “substitution” again, we get
+
+$$1 = \frac{2}{3-\frac{2}{3-1}}. \tag{3}$$
+
+On the other side,
+
+$$2 = \frac{2}{3-2}. \tag{4}$$
+
+Let us substitute the expression $\frac{2}{3-2}$ into the right-hand side of equality (4) together with 2. We get
+
+$$2 = \frac{2}{3-\frac{2}{3-2}}. \tag{5}$$
+
+The right sides of equalities (3) and (6) are the same. Consequently, the silt parts must be equal to each other: $1=2$.
+
+Yu. Gaiduk

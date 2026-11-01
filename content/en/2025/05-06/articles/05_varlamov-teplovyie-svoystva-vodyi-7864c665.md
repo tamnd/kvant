@@ -1,0 +1,52 @@
+---
+id: 2025-5-6-varlamov-teplovyie-svoystva-vodyi-7864c665
+issue: kvant_2025_5-6
+year: 2025
+number: 5-6
+title: Thermal properties of water
+authors:
+  - Варламов С. Д.
+rubric: fizicheskiy-fakultativ
+rubric_sub: Физический факультатив
+page_first: 45
+page_last: 45
+tag: GU0Z
+lang: en
+source: kvant_digital
+extraction: native
+content_sha256: 69a91c5fce74d3dea34b23af0323ad25ea0d77a6cdb42b1457de512462d54230
+prompt_sha256: draft-1
+translated_from: content/ru/2025/05-06/articles/05_varlamov-teplovyie-svoystva-vodyi-7864c665.md
+source_content_sha256: 3e211257f450e684074bc0a191fad043091a0ced9731fe588e7c9c3141688cc0
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+PHYSICS ELECTIVE
+
+Thermal properties of water
+
+S. VARLAMOV
+
+IN WATER MOLECULES, ELECTRICAL charges are distributed so that on the oxygen atom the “unbalanced” charge is negative, and on the two hydrogen atoms attached to this oxygen atom, the “unbalanced” charges are positive and half as large as on the oxygen atom. In other words, the electrical charges are distributed unevenly throughout the water molecule, and the total charge of the molecule is zero. Figuratively speaking, a water molecule is an electric dipole in which one negative charge (2 G) on oxygen and two positive charges (G) separated in space on hydrogen atoms are located at the corners of an isosceles triangle with an angle between equal sides of 104.5q (Fig. 1). Charges of different signs attract each other, and the ordered arrangement of such charges (plus to minus) corresponds to the minimum potential energy. The depth of the potential well provided by one mole of hydrogen bonds (according to reference books) is approximately 21 kJ mol. Solid (and liquid) water is a system of molecules connected by so-called hydrogen bonds. One molecule forms with its nearest
+
+DOI: https://doi.org/10.4213/kvant20250505
+
+Fig. 1
+
+⟦column⟧
+
+⟦figure⟧
+
+Fig. 2
+
+neighbors have four such connections. In figure 2 this arrangement of molecules is shown schematically, and hydrogen bonds are depicted by dotted segments. In fact, of course, the structure is spatial, and not located (as in figure) in one plane, but the essence of the matter is reflected in this way by figure. In the solid phase (in the structure of ice) all hydrogen bonds are involved. Consequently, one mole of water molecules, which is part of the condensed substance of ice, at absolute zero temperature is located in a potential well with a depth of approximately
+
+21 4 2 kJ mol U
+
+42 U kJ mol.
+
+The second part of the potential interaction energy, designated by the letter U, is provided not by the nearest neighbors, between whom hydrogen bonds are established, but by molecules located far from each other. This is the so-called van der Waals interaction. In addition, this mole of water molecules has a thermal energy equal to C T, where C is the molar heat capacity of ice and T is its temperature. And in liquid water there are so-called clusters, consisting of a large number of molecules, in which the structure is the same as that of ice, but at the boundaries of the clusters not all hydrogen bonds are “included”. And as the water temperature rises, the proportion of those included
