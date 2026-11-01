@@ -1,0 +1,55 @@
+---
+id: 1988-2-gik-peshechnoe-protivostoyanie-ea31d56c
+issue: kvant_1988_2
+year: 1988
+number: "2"
+title: Pawn confrontation
+authors:
+  - Гик Е. Я.
+rubric: shahmatnaya-stranichka
+rubric_sub: Шахматы
+page_first: 83
+page_last: 83
+tag: 3MCB
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 25df6116a7dcb9d16a3af2d0c1f10bac10e3e05a52074611cb771a0550c2efdf
+prompt_sha256: draft-1
+translated_from: content/ru/1988/02/articles/02_gik-peshechnoe-protivostoyanie-ea31d56c.md
+source_content_sha256: 375f22f9479c09fb798f25520c6bee40029f79f34bfc5a5f43a60ef9c6274cb8
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+PAWN
+CONFRONTATION
+
+The theory of pawn endings is a specific area of ​​chess. Clear logic, almost mathematical patterns - these are the properties characteristic of such endings. As an illustration, let's look at the topic of breakthrough.
+
+On the left is a classic pawn trio (it is assumed that the kings are located away from the main scene of events). Only the breakthrough of the central pawn is decisive: 1. b6! and then 1...ab 2. c6! bc 3. a6, or 1...cb 2. a6! ba 3. c6, and in both cases the white pawn slips to the queen. If Black moves, then he prevents a breakthrough: 1...b6!, but not 1...a6? 2. c6! and not 1...c6? 2. a6!
+
+On the same figure on the right there is a pawn quartet. Here you can start with any pawn: 1. h6 gh (1...g6 2. e6!) 2. e6 fe 3. g6; 1. g6 hg (1...fg 2. h6! gh 3. f6) 2. f6 ef 3. ef gf 4. h6; similarly solves 1. e6 and 1. f6. It is easy to see that Black is unable to prevent a breakthrough even on his own move.
+
+Here on the left is an ending typical of the Spanish game when exchanging bishop b5 for knight c6. Again the only breakthrough is 1. c5!, then 2. b5! (but not 2. d5? cd 3. b5 c6!) 2...ab (2...cb 3. d5 and 4. d6) 3. d5! cd 4. c6! And this time Black, even with his move without the help of the king, cannot prevent a breakthrough.
+
+On the same figure on the right, the pawn opposition forms two hemispheres. Experts know that this character structure is for the protection of Caro-Kann. There are two solutions with three pawn sacrifices: 1. g5, then 2. f5!, forcing 2...ef 3. g6!, or 2...hg 3. f6! Possible and symmetrical 1. f5!, and then 2. g5! etc. And in this example, Black cannot place a breakthrough on his move. The last two confrontations show how important it is to take care of the placement of pawn chains in the opening, so as not to “lose your face” in the endgame.
+
+Let us now return the queens to the board and consider two real etids associated with pawn confrontation.
+
+B. Horwitz, I. Kling, 1851 WIN.
+
+In this ancient position, only 1. h5 solves! Does 1. e5 give nothing? fe 2. h5 ef! 3. hg f3, 1. f5? ef 2. h5 fe 3. hg e3, 1. g5?fg 2. h5 gf! 3. hg f3. 1...gh (or 1...g5 2. e5! fe 3. f5 e4 4. f6!) 2. e5! fe 3. f5! hg 4. f6! g3 5. f7 g2 6. f8Q+ - the queen appeared on the board with check, that's exactly the point. In practice, as we see, the role of queens is not so small.
+
+P. Catignol, 1981 WIN.
+
+We are facing a record confrontation of pawns. All eight white and eight black pawns stepped forward and were ready to engage in hand-to-hand combat. But which pawn should I start with? Here it is also necessary to take into account the position of the black king. First, White needs to blow up the center in order to make the first breakthrough on the queen's side (this will force the black king to lose time transferring blevo), and then on the king's side, where he will not have time to return. Here is this reasoning in action: 1. d5! ed 2. ed cd, and on board! - 3. a5! ba 4. b5! ab 5. cb Kre7 6. b6 Kpd7 7. b7 Kpc7, now a new lead according to the classical model - 8. g5! fg (8...hg 9. f5! gf 10. h5) 9. h5! gh 10. f5 a4 11. f6 a3 12. f7 a2 13. b8Ф+! Kp:b8 14. f8Ф+! with victory.
+
+What follows is how pawns can end up on the outermost horizontal boards of 3x8, move and be according to the general rules. Transformations are prohibited, but taken ones are required. The one who cannot make the next move wins, that is, all his remaining pawns are locked.
+
+Try to figure out who will win and what the winning strategy is, and analyze this game on a 3×n board. Next time we will return to this topic.
+
+E. Ya. Gik

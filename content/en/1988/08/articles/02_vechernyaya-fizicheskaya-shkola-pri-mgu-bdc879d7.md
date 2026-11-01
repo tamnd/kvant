@@ -1,0 +1,48 @@
+---
+id: 1988-8-vechernyaya-fizicheskaya-shkola-pri-mgu-bdc879d7
+issue: kvant_1988_8
+year: 1988
+number: "8"
+title: Evening physical school at Moscow State University
+rubric: informatsiya
+rubric_sub: Информация
+page_first: 16
+page_last: 16
+page_labels: "14"
+tag: 5H7M
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 8d61ca3a746151f6c3ebebc5c39021881aec75c4c8af6dc0a415f9638e68a751
+prompt_sha256: draft-1
+translated_from: content/ru/1988/08/articles/02_vechernyaya-fizicheskaya-shkola-pri-mgu-bdc879d7.md
+source_content_sha256: c21b988456c305b6e9ba088bd879cd6b1dba4d31b76c496935444bb2cf149746
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 14⟧
+
+Silk has no effect on fat; it crushes protein particles into smaller ones - up to 0.005 microns. Recall that at $r \to 0$ the value of $Q$ falls rapidly: like $r^4$. So with such fragmentation, the scattering of protein parts decreases by several orders of magnitude. The researchers' thoughts went even further. Due to the high nutritional value of protein, changing the protein content in milk is no less important than changing the fat content. You can try to “turn harm into benefit”: do not eliminate the scattering of protein parts, but use it to change the protein content in milk. Let us remember that large particles (these are fat globules) scatter light predominantly forward, and small ones (these are protein particles) scatter light evenly in all directions. maybe try to “play” on this effect? For example, let's do this. Let's place light receivers around the cage as shown in figure 4. Receiver 1, located at the front wall of the cage, picks up light scattered back, i.e., scattered mainly by protein particles. Receiver 2 picks up light that scatters forward. Here, both protein particles and fat particles are involved in scattering.
+
+As a result, the signal from photodetector 1 will be associated with the protein concentration, and the difference in the signals from receivers 2 and 1 will be associated with the fat concentration.
+
+In this case, of course, for accurate changes it is necessary to standardize the particle sizes of protein (as well as fat). However, it turns out that mechanical preparation does not have any effect on protein particles, and chemical standardization of the size of protein particles (alkaline crushing) reduces them so much that they practically stop scattering light. Thus, the beautiful idea of ​​simultaneously changing the fat and protein content in milk by light scattering has remained unrealized to this day. But science does not stand still, and technical capabilities are constantly expanding. Perhaps one of the young readers, having become a specialist in light scattering, will solve this problem in the future?
+
+Evening physical school at Moscow State University
+
+The Evening Physical School (VPS) at the physical school enrolls students in grades 8, 9 and 10 for the next academic year.
+
+The main goal of the VFS is to help students study physics more deeply within the scope of the school curriculum. Classes are held in the evening in the form of lectures given every two weeks and daily seminars. In addition, studying
+
+They will visit the scientific laboratories of the faculty and get acquainted with the main directions of modern physics at lectures by leading scientists. For those wishing to organize elective classes in mathematics and the basics of computer science.
+
+Admission to the VFS is based on the results of an interview, which will be held starting from September 26. To step
+
+If you are lazy at school, you must personally fill out an application at the Komsomol committee of a physicist at Moscow State University (with the attachment of two photographs measuring 3x4 cm). Applications can be submitted from September 6 to September 22 every day, except Sundays, from 16 to 18 hours. Working youth are enrolled in the competition.
+
+Those who successfully complete the training receive a certificate of completion of the VFS.
+
+Address: 119899 Moscow, GSP, Leninskie Gory, Moscow State University, Faculty of Physics, High School of Physics.
+Phone: 939-26-56.

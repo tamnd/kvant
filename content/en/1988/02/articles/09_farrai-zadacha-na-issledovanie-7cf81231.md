@@ -1,0 +1,70 @@
+---
+id: 1988-2-farrai-zadacha-na-issledovanie-7cf81231
+issue: kvant_1988_2
+year: 1988
+number: "2"
+title: Research task
+authors:
+  - Фарраи Д.
+rubric: smes
+page_first: 38
+page_last: 38
+page_labels: "36"
+tag: ZZPK
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 9d33d04f2790db99d54910189ff56ab34e592111ee4639c8e7f921223b77231c
+prompt_sha256: draft-1
+translated_from: content/ru/1988/02/articles/09_farrai-zadacha-na-issledovanie-7cf81231.md
+source_content_sha256: 04c79214d28ee30822bcfbabb35e1b1e5c8b9670f0af204eca22a52f271b84bc
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 36⟧
+
+capacitor $C_1$. The incompleteness of the circuit elements can be transformed.
+
+Fig. 1.
+
+Fig. 2.
+
+Fig. 3.
+
+$$\frac{LI^2_{\max}}{2} + \frac{C_1 U_0^2}{2} = \frac{C_1 C_2}{C_1 + C_2} \frac{U_0^2}{2} + A_1.$$
+
+The charge flowing through the battery is equal to the change in charge on the capacitor $C_1$, and
+
+$$A_1 = \Delta q \cdot U_0 = \left( C_1 U_0 - \frac{C_1 C_2}{C_1 + C_2} U_0 \right) U_0.$$
+
+Thus,
+
+$$I_{\max} = \frac{C_1 U_0}{\sqrt{L(C_1 + C_2)}}.$$
+
+The second question is a little more complicated. The sum of the voltage across the capacitor is equal to the battery voltage and is constant. Therefore, at the moment when the voltage $U_1$ on capacitor $C_1$ is maximum, the voltage $U_2 = U_0 - U_1$ on capacitor $C_2$ should be minimal (and negative), which means that at this moment the current through the coil should be zero (Fig. 3). Let's write down the law of conservation of energy again:
+
+$$\frac{C_1 U_1^2}{2} + \frac{C_2 (U_0 - U_1)^2}{2} = \frac{C_1 C_2}{C_1 + C_2} \frac{U_0^2}{2} + A_2,$$
+
+Where
+
+$$A_2 = \left( C_1 U_1 - \frac{C_1 C_2}{C_1 + C_2} U_0 \right) U_0.$$
+
+From here the maximum voltage value per capacitor $C_1$ is found:
+
+$$U_{1\max} = U_0 \left( 1 + \frac{C_1}{C_1 + C_2} \right).$$
+
+A.R. Zilberman
+
+Research problem
+
+Binomial degree transformation
+
+Prove that for odd $n$ the difference $(x + y)^n - x^n - y^n$ is represented as a polynomial $P_n(u, v)$ in two variables $v = x^2 y + y^2 x$, $u = x^2 + y^2 + xy$. (For some $n$ these polynomials are listed in the table. Note that $P_n$ has only about $n/6$ non-zero coefficients, and all of them are positive.) Derive correspondences between the coefficients of the polynomials, allowing you to calculate their sequential order; We will show one such correspondence using an example taken from the table: $196 = 2 \cdot 133 - 85 + 15$.
+
+Try to find other patterns that satisfy the coefficients of these multi-
+
+members. It would be interesting to find similar representations for even $n$, as well as for polynomials with a large number of variables.
+
+Farrai Door, Budapest

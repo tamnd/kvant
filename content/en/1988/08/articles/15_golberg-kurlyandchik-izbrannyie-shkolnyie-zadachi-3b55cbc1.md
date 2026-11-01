@@ -1,0 +1,61 @@
+---
+id: 1988-8-golberg-kurlyandchik-izbrannyie-shkolnyie-zadachi-3b55cbc1
+issue: kvant_1988_8
+year: 1988
+number: "8"
+title: Selected School Problems
+authors:
+  - Гольберг Е. М.
+  - Курляндчик Л. Д.
+rubric: raznoe
+page_first: 59
+page_last: 59
+page_labels: "57"
+tag: FHC8
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 48ea88fdd606d326fe61f4fba63e427ecc476a5cc4b721adc96e89f72b118e0d
+prompt_sha256: draft-1
+translated_from: content/ru/1988/08/articles/15_golberg-kurlyandchik-izbrannyie-shkolnyie-zadachi-3b55cbc1.md
+source_content_sha256: 67a22002ce64e0325eaedaa4eac612e06f348215ddda613e5d8e85f304e0be23
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 57⟧
+
+m≥3 there is the smallest natural number C(m) such that the environment of any C(m) points of the plane, of which no three lie on the same line, one can find m points that are the vertices of a convex m-wall.
+
+Exercise 8. Prove the Erdős-Szekers theorem.
+
+Exercise
+1. There are 17 states on planet Earth. Some of them are friends with each other, some are at enmity, and some are neutral towards each other.
+
+Selected School Problems
+
+Eighth grade
+1. Find the minimum number that can be represented in three different ways as 13a+73b, where a and b are natural numbers.
+2. Find the natural numbers k and n if it is known that the numbers kn and n^k are written (in the decimal system) with the same digits, but in reverse order with respect to each other.
+3. Let x₁ be the root of the equation x²+px+q=0 and x₂ be the root of the equation x²-px-q=0. Prove that the equation x²+2px+2q=0 has a root between x₁ and x₂.
+4. On sides BC and CD of square ABCD, points E and F are taken such that EC=2EB and FC=FD. Prove that angle AEB is equal to angle AEF.
+5. Let A, B, C, D be successive vertices of a convex quadrilateral ABCD. Prove that if AB+BD≤AC+CD, then AB≤AC.
+Ninth grade
+6. In the sequence a₁, a₂, ..., aₙ, the equalities a₁=3 and aₙ+1=aₙ²-2 hold for all n. Prove that all terms of this sequence are pairwise relatively prime.
+7. Prove that if x₁+\frac{1}{x₂}=x₂+\frac{1}{x₃}=...=xₙ+\frac{1}{x₁}, then either x₁=x₂=...=xₙ, or |x₁x₂...xₙ|=1.
+8. (Farm problem). On diameter AB we obtain simple AD which is equal to the side of the inscribed
+
+in a circle with a friend. Prove that on Zemlyama there are either three pairwise friendly states, or three pairwise hostile states, or three pairwise neutral states.
+2. 19 circles are drawn on a plane so that the environments of any four circles, some three have a common point. Prove that there are four circles that have a common point.
+3. Natural numbers from 1 to 66 are colored in four colors. Prove that among them there are three numbers x, y, z of the same color such that x+y=z.
+
+Tenth grade
+11. Prove that the number 11...122...2 (10 ones and 10 twos) is the product of two consecutive integers.
+12. Find the numbers a, b, c, d, if you know that a²+b²+c²+d²=ab-bc-cd-d+2/5=0.
+13. Inside the tetrahedron ABCD, a point O is taken such that the volumes of the tetrahedra OABC, OBCD, OACD, OABD are equal. Prove that the sum of the vectors $\overrightarrow{OA}, \overrightarrow{OB}, \overrightarrow{OC}, \overrightarrow{OD}$ is equal to 0.
+14. The base of the tetrahedron is an equilateral triangle, the areas of the lateral faces are equal to each other. It is known that the side of the base has length a, one of the side edges has length b. Find the lengths of the other two side edges.
+15. Find all solutions of the equation $\sin^3 x+\cos^3 x=\frac{1}{2}$ that belong to the interval [0; π].
+
+The publication was prepared
+E. M. Golber, L. D. Kurlyanduk

@@ -1,0 +1,88 @@
+---
+id: 1988-3-digilov-dyachenko-shvedov-moskovskiy-institut-stali-i-splavov-a262e193
+issue: kvant_1988_3
+year: 1988
+number: "3"
+title: Moscow Institute of Steel and Alloys
+authors:
+  - Дигилов М. Ю.
+  - Дьяченко О. Н.
+  - Шведов Е. А.
+rubric: ekzamenatsionnye-materialy
+rubric_sub: Экзаменационные материалы
+page_first: 59
+page_last: 59
+page_labels: "57"
+tag: 0X0X
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: e7d7f21498f5b249639f960db318f3b7d4b28f32b502164e691f0d6f56fcd77f
+prompt_sha256: draft-1
+translated_from: content/ru/1988/03/articles/22_digilov-dyachenko-shvedov-moskovskiy-institut-stali-i-splavov-a262e193.md
+source_content_sha256: c6aaae80360c13f0bd2a261127be001c6238aa9729e38c8f35c237fe92a95dab
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 57⟧
+
+Spaces where homogeneous mutually perpendicular electric and magnetic fields with $E = 10$ kV/m and $B = 0,02$ T are created. Find the acceleration of the proton at the top of the trajectory - point $A$, if $h = 0,5$ m.
+
+8. A crossbar with a length of $l = 20$ cm and a mass of $m = 24$ g is suspended horizontally on two thin fixed wires in a vertical magnetic field with an induction of $B = 0,08$ T (Fig. 6). A current source is connected to the fastening points of the wires, while a constant current of $I = 2,5$ A is maintained in the circuit. The length of the wire is $h = 0,12$ m. The wires are deflected at an angle of $\alpha = 30^\circ$ from the vertical position and released. Find the speed of the crossbar at the moment when the wire passes through the vertical position. Neglect inductance.
+
+9. Is it possible, having capacitors of capacitance $C_1 = 120$ pF and $C_2 = 156$ pF and inductors with inductance $L = 125$ μH, to obtain a flask circuit tuned to a wavelength of $\lambda = 350$ m?
+
+10. A coil with inductance $L = 0,80$ H and a resistor with resistance $R = 25$ Ohm (Fig. 7) are connected to the current source. Immediately after opening the key $K$, a thermal power of $P = 100$ W is released in the resistor. The coil winding resistance is negligible. How much heat is released in the resistor when the current in the circuit stops?
+
+The publication was prepared by A. P. Goryachev, D. F. Kalinchenko, N. A. Kudryashov, V. V. Svetozarov, M. N. Strikhanov
+
+Moscow Institute of Steel and Alloys
+
+Mathematics
+Written exam option
+
+1. Calculation
+$$\left( \frac{12}{\sqrt{15}-3} \frac{28}{\sqrt{15}-1} + \frac{1}{2-\sqrt{3}} \right)(6-\sqrt{3}).$$
+
+2. Solving the equation
+$$\sqrt{(x-2)^2} + \sqrt{(x-3)^2} = 3,4$$ at $2 < x$.
+
+3. Find the values ​​of $(x+y)^2$ if
+$$\begin{cases} \frac{2}{x} - \frac{2}{y} = 1, \\ y-x = 1. \end{cases}$$
+
+4. A 12 kg copper ingot contains 45% copper. How many kilograms of pure metal are added to this ingot so that the resulting new alloy contains 40% copper?
+
+5. Solving the equation
+$$\lg(0,5+x) = \lg 0,5-\lg x.$$
+
+6. Solution to inequality
+$$15 \cdot 25^{x-1} - 2 \cdot 5^{x+1} > 5^3.$$
+
+In your answer, write down the smallest integer solution to this inequality.
+
+7. Find the smallest integer value of the parameter $t$ such that the inequality $(t^2-1)x^2+2(t-1)x+1>0$ holds for all values ​​of $x$.
+
+8. A tangent is drawn to the parabola $y = 2x^2-3x-14$, which forms an angle $\frac{3\pi}{4}$ with the positive direction of the axis $OX$. Find the ordinate of the tangent point.
+
+9. Calculation without tables
+$$\frac{\sin^2(-120^\circ)}{\cos 420^\circ + \tg(-225^\circ)} \cdot \frac{\sin 315^\circ}{\cos 315^\circ}.$$
+
+10. Solving the equation
+$$2\sin^2x = 3\cos x.$$
+In your answer, write down the number of roots of the equation that belong to the segment $[-2\pi; \frac{\pi}{2}]$.
+
+11. A right triangle with a hypotenuse of 26 contains a circle of radius 4. Find the perimeter of the triangle.
+
+12. At the base of a quadrangular prim is a parallel gram, the acute angle of which is equal to $30^\circ$, and the height is equal to $2\sqrt{3}$. Find the volume of the base if all dihedral angles at the base are equal to $60^\circ$.
+
+Physics
+Written exam
+Option 1
+
+1. The centrifuge, expressing, makes $n = 30$ rpm. Determine the linear speed of a point lying at a distance of $l = 6$ m from the center of rotation. Give your answer in SI.
+
+2. A horizontal force $F = 5$ N is applied to a block of mass $m = 10$ kg on a horizontal plane. Determine the force in three between the block and the plane if the coefficient is three $\mu = 0,1$. The free fall acceleration is considered equal to $g = 9,8$ m/s². Give your answer in SI.
+
+3. The bullet flies with a certain initial speed. It breaks through a dock $d = 3,6$ cm thick and continues to move at a speed of 0.8 of the initial one. What is the maximum thickness of dock it can penetrate?
