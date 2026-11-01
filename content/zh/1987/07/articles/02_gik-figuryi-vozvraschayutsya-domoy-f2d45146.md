@@ -1,0 +1,75 @@
+---
+id: 1987-7-gik-figuryi-vozvraschayutsya-domoy-f2d45146
+issue: kvant_1987_7
+year: 1987
+number: "7"
+title: 数字回家
+authors:
+  - Гик Е. Я.
+rubric: shahmatnaya-stranichka
+rubric_sub: Шахматы
+page_first: 67
+page_last: 67
+tag: RS5O
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: e020555432950d9e435b2e4a044ee042f980e749b746a5e1f1e4e14174a6d5fe
+prompt_sha256: draft-1
+translated_from: content/ru/1987/07/articles/02_gik-figuryi-vozvraschayutsya-domoy-f2d45146.md
+source_content_sha256: 082be7007ce3c56c2338251dc625479901f117ebd6ab86c256d9b448fe480874
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 14⟧
+
+数字
+回家
+
+有一次我们已经讨论过这样的谜题，即所有到达棋盘上的白色棋子都在初始位置上占据原来的位置（«Kvant»，1985，No.4）。请再次回到这个引人入胜的话题。
+
+G·伊布利亚耶夫，1986
+a) 白色：Kre1、Cf1、Kg1；黑色：Kph2。
+b) 白色：Kre1、Cf1、Kg1；黑色：Kph1。
+3步即可将死。
+a) 1. Kpf2 Kph1 2. Cg2+ Kph2 3. Kf3×.
+b) 1. Kpf2 Kph2 2. Kf3+ Kph1 3. Cg2×.
+涉及两个小问题的更微妙的立场属于众所周知的苏联问题。
+R·塔瓦尔尼纳，1986
+a) 白色：Kre1、Kb1、Cf1；黑色：Kpg1。
+b) 白色：Kre1、Cc1、Cf1；黑色：Kpg1。
+4步即可将死。
+a) 1. Kd2 Kph1 2. Kpf2 Kph2 3. Kf3+ Kph1 4. Cg2×, 1...Kph2 2. Kpf2 Kph1 3. Cg2+ Kph2 4. Kf3×.
+b) 1. Kpe2 Kph1 2. Kpf2 Kph2 3. Cf4+ Kph1 4. Cg2×, 1...Kph2 2. Kpf2 Kph1 3. Cg2+ Kph2 4. Cf4×。不幸的是，第二个问题的开局棋步并不是唯一的。
+
+让我们回顾一下 S. Lloyd 提出的著名谜题。所有白方棋子都就位，黑方在 h4 上有一张王。白棋分 3 步下垫。 1. d4 Kph5 2. Qd3 和 3. Qh3×, 1...Kpg4 2. e4+ Kph4 3. g3×。奇怪的是，h4 方块是唯一一个孤独的黑王如此快速地交配的方块。 “最安全”的地方是e8，那么在第六步之前不能吃掉王。如果国王亲自帮忙，那么垫子的放置速度会快两倍——与洛伊德记录中的速度相同。
+
+A. Korotaev，1986。白方在游戏开始时拥有所有棋子和口袋，黑方在 e8 方格上拥有一张王。合作垫子只需 3 步。
+1. Kpf7！ （在“合作社”黑色开始） d3 (d4)
+2. 公斤6！ Qd2！ 3、Kph5Фg5×。
+现在来完成更多不寻常的任务。您再次面临两个半板的两个孪生问题。
+
+R·塔瓦尔尼纳，1986
+a) 白王从 b5 到 d8 需要走多少（名称）步？
+6) 白王从b5移动到h5，棋盘旋转180°。白王从a4到e1需要多少步？
+a) 八步就足够了： 1. Kpc5 h5 2. Kpd5 c5！ 3.Kpe5 Qa5 4.Kpf5 f6！ 5.Kpg6 Kpd8 6.Kpf7 Kpc7 7.Kpe8 Kpb6 8.Kpd8！
+6) 这次旅程更长了四步：1. Kpb3 Kf3 2. Kpc4 g1K！ 3.Kpb4卡3！ 4. Kpc3 Cg2 5. Kpd3 b1Ф 6. Kpe3 Cb2 7. Kpe4 Kpc1 8. Kpf4 d1C！ 9. Kpg4 Qc3 10. Kpg3 f1C！ 11.Kpf2 Kd2 12.Kpe1！
+为了快速让白王直达球门，黑棋进行了三次弱晋！
+L. Sokolov，1986 年怀特：Kre1，Cf1，第 14 页h2；黑色：Kpb8、Rh1、Kg1。 6 个动作的合作垫子。
+在这里，黑方的车和马也占据了他们通常的位置，尽管是在对手的阵营中。 1.KPC7！ h4 2.Kpd6 h5 3.Kpe5 h6 4.Kpf4 h7 5.Kpg3 h8C!!让国王到达预定的路线点。 6. Kph2 Ce5×。
+
+“哦，小卒！你知道，她很坚强，因为她变成了一头大象！” ——作者是这样评价这个问题的。
+到目前为止，白军甚至在完成战斗任务之前就占据了起跑线，但这里有一个相反的独特例子——所有白棋（棋子不算）在决策过程中返回家乡。
+
+T. Cabo，1963 年。7 个动作的反向垫子。
+与合作问题相反，黑色被放置在反面垫子上的问题中，白色迫使垫子根据他们的意愿受到质疑。 1. Kb1 ab 2. Ra1 b5 3. f5 gf 4. Kg1 f4 5. Cf1 f3 6. Qd1+ Rc2 7. Rh1！
+所有第一横线都已变得熟悉，黑方被迫下垫 - 7...f2×。
+
+竞赛任务
+
+13. 白方开始并在 2 步内到达垫子。
+
+14. 白棋开始并获胜。
+发送决定的截止日期是1987年9月20日，信封上注明：“国际象棋比赛«Kvant»，任务13、14。”

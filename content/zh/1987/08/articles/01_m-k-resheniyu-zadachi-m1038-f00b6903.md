@@ -1,0 +1,31 @@
+---
+id: 1987-8-m-k-resheniyu-zadachi-m1038-f00b6903
+issue: kvant_1987_8
+year: 1987
+number: "8"
+title: !!binary W+ino+WGs+aWueahiO+/vbmg6aKYIE0xMDM4XQ==
+authors:
+  - М. Х.
+rubric: smes
+page_first: 68
+page_last: 68
+tag: RJSX
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 3b2129275ab09befc58d337f65cd6eb8e2ac1068d09e69e5636fa8f9e24b145b
+prompt_sha256: draft-1
+translated_from: content/ru/1987/08/articles/01_m-k-resheniyu-zadachi-m1038-f00b6903.md
+source_content_sha256: e4420fcf59797a56059329c1624f06443709a63f7266c43e1de7d312fc4b111e
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+本期杂志发表的 M1038 问题的解决方案指出，任何矩形$6k \times 2n$，其中$k \geq 1$，$n \geq 3$，都可以分为三个单元格的“结”，这样“结”就不会形成小于该尺寸的单个矩形。
+该解决方案指出，在这种情况下，必然存在中心对称分区 - 其中一个显示在 图 1 上。正方形 $12 \times 12$ 的这种分区也很有趣，因为当在 $90^\circ$ 上重复时，“结”颜色的循环顺序：绿色变成红色，红色变成黄色，黄色变成蓝色，蓝色变成红色。
+图2展示了“结”的演变，之后图1变成了图3所示的环莫赞。
+
+M.X.
