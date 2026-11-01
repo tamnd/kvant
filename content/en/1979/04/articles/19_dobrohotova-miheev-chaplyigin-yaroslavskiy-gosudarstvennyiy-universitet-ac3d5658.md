@@ -1,0 +1,103 @@
+---
+id: 1979-4-dobrohotova-miheev-chaplyigin-yaroslavskiy-gosudarstvennyiy-universitet-ac3d5658
+issue: kvant_1979_4
+year: 1979
+number: "4"
+title: Yaroslavl State University
+authors:
+  - Доброхотова М. А.
+  - Михеев Н. В.
+  - Чаплыгин В. Ф.
+rubric: ekzamenatsionnye-materialy
+page_first: 55
+page_last: 55
+page_labels: "53"
+tag: IMLX
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 84a5b8e233b2aaf308981aa0cc38a6f9a34587a71043a2eeedd0aa06c6eff52f
+prompt_sha256: draft-1
+translated_from: content/ru/1979/04/articles/19_dobrohotova-miheev-chaplyigin-yaroslavskiy-gosudarstvennyiy-universitet-ac3d5658.md
+source_content_sha256: 77be0b9bdefdf686afcbaadb27862a0b059d187d809cb5e0e9a4c06fb98d39b4
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 53⟧
+
+5. The wheels of a steam locomotive have a radius of $R_0 = 1$ m at $0^\circ$ C. Determine the dimensions in the number of revolutions of the wheel in summer at a temperature of $t_1 = 25^\circ$ C and in winter at a temperature of $t_2 = -25^\circ$ C on the wheel space path $l = 100$ km (tellian coefficient of linear expansion $\alpha = 1,2.10^{-5}$ K$^{-1}$).
+
+6. An electric motor powered by a battery with an EMF of $\beta = 12$ V. What mechanical work does the motor perform in a time of $t = 1$ s when current $I = 2$ A flows through its winding, if when the armature is fully braked, current $I_0 = 3$ A flows through the circuit?
+
+7. In the power supply, the resistances are connected in the circuit shown at figure.
+
+The power supply is turned on at points 1 and 2, and in some time it is possible to bring $m_1 = 500$ g of water to a boil. How much water can be brought to a boil in the same time if the power supply is turned on at points 1 and 3? The initial water temperature is the same in both cases. Thermal loss claims.
+
+8. Through a two-electrode lamp (diode) with flat electrodes the current flows $I = 10$ mA. The voltage on the lamp is $U = 100$ V. With what force $|\vec{F}|$ do the electrodes falling on it act on the anomalies if their speed near the cathode is zero? The ratio of the electrode charge to its mass is $e/m = 1,76 \times 10^{11}$ KL/kg.
+
+9. In a uniform magnetic field with induction $|\vec{B}| = 0,125$ T, a wire coil is located in such a way that its plane is perpendicular to the magnetic lines. The coil is connected to a galvanometer. The total charge flowing through the galvanometer with some rotation of the coil is $q = 8.10^{-2}$ CL. At what angle did the coil turn if its area is $S = 5.10^3$ cm$^2$ and the resistance of the coil is $R = 1$ Ohm?
+
+10. A concave mirror produces a true image of a precise source located on the optical axis at a distance of $d = 50$ cm from the mirror. The focal length of the mirror is $F = 25$ cm. The mirror is cut in half, and its halves are moved apart from each other by a distance of $a = 1$ cm in the direction perpendicular to the optical axis. How are the images produced by the halves of the mirror located in relation to each other?
+
+V. Vishnevsky,
+O. Sokolov,
+A. Khasanov
+
+Yaroslavl State University
+
+About Yaroslavl State University, see «Kvant», 1978, No. 6, p. 73.
+
+Matematika
+(written exam)
+
+Faculty of Mathematics
+
+Option 1
+
+1. Find the height of the triangular straight line with the largest volume inscribed in a ball of radius $R$.
+
+2. How many different six-digit numbers can be made from the numbers 1,2,3,4,5,6,7 so that the numbers are not repeated and the multiples are even?
+
+3. Solve inequality
+
+$$\log_{x^2-1}(x+1) < 1.$$
+
+4. Solve the equation
+
+$$\cos^2\left(\frac{\pi}{3}\cos x - \frac{8}{3}\pi\right) = 1.$$
+
+Option 2
+
+1. A primogol paralleliped is inscribed in a sphere of radius $R$. Find the surfaces of a paralleliped if it has the largest possible volume.
+
+2. How many different six-digit numbers can be made from the numbers 1,2,3,4,5,6,7 so that the numbers are not repeated and the sum of the extreme ones is a two-digit number?
+
+3. Solve inequality
+
+$$\log_{x^2+3x}(x+3) < 1.$$
+
+4. Solve the equation
+
+$$2\cos\left[\frac{\pi}{6}\left(\sin x - 13 + \frac{\sqrt{2}}{2}\right)\right] = \sqrt{3}.$$
+
+Faculty of Physics
+
+Option 1
+
+1. What part of the area of ​​a square is cut off by a parabola passing through two adjacent vertices of the square and touching its side in its middle?
+
+2. Solve inequality
+
+$$2C_n^5 > 11C_n^3-2,$$
+
+where $C_n^k$ is the number of combinations of $n$ elements by $k$.
+
+3. Solve the equation
+
+$$9^x - 2^{x+\frac{1}{2}} = 2^{x+\frac{3}{2}} - 3^{2x-1}.$$
+
+4. Solve the equation
+
+$$2 + \cos 4x = 5\cos 2x + 8\sin^6 x.$$

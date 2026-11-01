@@ -1,0 +1,35 @@
+---
+id: 1979-3-postroyte-mnogogrannik-4f5ab8c5
+issue: kvant_1979_3
+year: 1979
+number: "3"
+title: Build a polyhedron!
+rubric: raznoe
+rubric_sub: Разное
+page_first: 52
+page_last: 52
+page_labels: "50"
+tag: WU83
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 3d62377bb9e1d15f68e04de534df6c14e316d637f3a468d9c8df3c13f049f4ff
+prompt_sha256: draft-1
+translated_from: content/ru/1979/03/articles/17_postroyte-mnogogrannik-4f5ab8c5.md
+source_content_sha256: 0f0b75e99a8be30dd19e996870ba494dd9316c498795ffd204722e356e7f8ecb
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 50⟧
+
+Build a polyhedron!
+
+Using this figure you can construct any number of polyhedral surfaces. (A photograph of one of them is shown on the second page of the cover.) They are built like this.
+
+Let's take a large piece of tracing paper and put it on figure. Let us intersect an arbitrary polygon formed by the lines of our figure. Let's mark some vertex of the polygon on tracing paper and find a point with an arc on any of the straight lines containing it. Let's rotate the tracing paper around this point by the marked angle. In this case, the edge of our polygon will necessarily coincide with the edge of some other polygon. We will also intersect it on tracing paper - it will “stick” to the first polygon from the outside. Then, on any of those straight lines containing two “free” edges of our drawing, which are adjacent to the marked vertex, we will find a point with a bow, turn the tracing paper again and copy the next polygon. We will continue to do this until, at the next turn, we get a polygon that has already been drawn. As soon as this happens, we have a development of all the faces of the surface under construction adjacent to a given vertex.
+
+Note that we will not always manage to get around with one sheet of tracing paper. If the edges at the vertex meet like an accordion, then the scan will “pour over” itself and you will have to move to another sheet of tracing paper. Do the same with the next vertex and so on. As a result, we get a development of some polygonal surface. After some practice, you will learn how to extract a wide variety of surfaces from the epiure (so called figure).
+
+(For the end see p. 53)
