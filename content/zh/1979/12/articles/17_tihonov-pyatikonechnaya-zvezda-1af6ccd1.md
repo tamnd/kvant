@@ -1,0 +1,69 @@
+---
+id: 1979-12-tihonov-pyatikonechnaya-zvezda-1af6ccd1
+issue: kvant_1979_12
+year: 1979
+number: "12"
+title: 五角星
+authors:
+  - Тихонов В.
+rubric: raznoe
+rubric_sub: Разное
+page_first: 50
+page_last: 50
+page_labels: "48"
+tag: RTBN
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 19c0efae6a62648a69fa0632a610742b9982ddc9e5fbb13a84b8025a15cc0a38
+prompt_sha256: draft-1
+translated_from: content/ru/1979/12/articles/17_tihonov-pyatikonechnaya-zvezda-1af6ccd1.md
+source_content_sha256: a4c4f7f23a737f0ed271517c2ebf1b293e9744e9f41d567b5e80f3b9f80c656f
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 48⟧
+
+本书的设计定位介于教科书和问题集之间，是同一作者于 1978 年出版的《物理学》一书的逻辑延续。
+
+本书基本上包含了介绍性版本中包含的所有材料。大量的任务有助于更好地理解材料。
+
+2. Makovets 提示 P.V.看根。有趣的问题和疑问的集合。卷18升，发行量30万册，售价80戈比。
+
+这本书现在已经是第四版了，而且它的受欢迎程度逐版增加。本书包含大量原创问题。几乎在每个问题中，您都会遇到一些惊喜，最常见的是在答案中。有时，惊喜包含在问题的提出或解决方案的线索中。这些任务的矛盾性质通过它们的法律报道和滑稽的题词得到了强调。
+
+我们的封面
+
+3. 副总统切塞维奇在天空中观察到什么以及如何观察。第五版，修订。卷20升，发行量80,000份，售价1卢布。
+
+这本书是组织业余天体观测的好工具。它包含对星空的描述、天文学和天体物理学的基本概念，并重点介绍了有关太阳系天体（月球和行星、太阳和恒星）的现代数据。
+
+本书概述了天文学爱好者可以使用的各种观测方法以及这些天体的处理。
+
+“Prosveshcheniye”出版社
+
+4. Cosmodemella 的技术更高明的是 A. A. K. E. Tsholovsky。卷8升，发行量8万册，售价25戈比。
+
+这本书讲述了杰出的俄罗斯科学家康斯坦丁·爱德华多维奇·佐洛夫斯基的生活和工作。提供了有关 Tszholowski 航空航天工作的有趣信息。
+
+五角星
+
+（见封面第2页）
+
+如果正五边形ABCDE(图1)已经构造好了，那么“五角星”这个几何图形就很容易画出来了。例如，您可以简单地继续其侧面。对于五角星$A_1B_1C_1D_1E_1$，与任何星形多边形一样，边通常被认为是线段$[A_1C_1], [B_1D_1]$等（而不是$[A_1B_1], [BB_1]$等），顶点仅为点$A_1$、$B_1$、$C_1$、$D_1$、$E_1$。五角星有五个同心角：
+
+$$A_1D_1B_1, B_1E_1C_1, \dots$$
+
+图 1.
+
+原来的五边形ABCDE是这些角的交点。当然，可以通过将五边形 ABCDE 的顶点与线段连接来获得五角星。
+
+我们在正五边形的基础上建造了一颗五角星。没有它可以吗？ 图2
+
+图 2.
+
+这种构造是使用圆规和尺子给出的。
+
+V·吉洪诺夫

@@ -1,0 +1,32 @@
+---
+id: 1979-12-gamayunov-konstruirovanie-mnogogrannikov-po-epyure-c167ae28
+issue: kvant_1979_12
+year: 1979
+number: "12"
+title: 从图表构造多面体
+authors:
+  - Гамаюнов В. Н.
+rubric: smes
+page_first: 68
+page_last: 68
+tag: M4N5
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: a5f516d6a9021bb0de651461126243356fb97486aba16d8897ed41445e04d4b3
+prompt_sha256: draft-1
+translated_from: content/ru/1979/12/articles/02_gamayunov-konstruirovanie-mnogogrannikov-po-epyure-c167ae28.md
+source_content_sha256: 36f786c6b0460d5296c99e7da6e70382bb16e798da264ba5c2791d12bbe703fa
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+建造
+根据 EPURE 的多面体
+
+本封面页显示了一个可以使用“红色”三角形规则轻松构建的图表。进一步的构造由虚线指示。利用图上的极臂，按照前面介绍的方法（见«Kvant»第3），就可以开始构造各种多面体了。其中之一“Sputnik”出现在封面的第一页上。其在图表上的面以绿色（模型顶部）和黄色（模型底部）显示。 “火炬”多面体（上模型）的面以蓝色显示；星形多面体（下模型）的面显示为红色。
+
+V·加马尤诺夫

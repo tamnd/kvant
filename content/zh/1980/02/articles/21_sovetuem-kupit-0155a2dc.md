@@ -1,0 +1,79 @@
+---
+id: 1980-2-sovetuem-kupit-0155a2dc
+issue: kvant_1980_2
+year: 1980
+number: "2"
+title: 我们建议您购买
+rubric: smes
+page_first: 57
+page_last: 57
+page_labels: "55"
+tag: AK8N
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: e608de8a05d2fc179a87e66f82bc3909ea3421f982f85e15765ce81e5664a0ef
+prompt_sha256: draft-1
+translated_from: content/ru/1980/02/articles/21_sovetuem-kupit-0155a2dc.md
+source_content_sha256: 69d270a0066588f31e871f4103e2872f7cf4e75e0ce5f2c01bff6691cfbe3f83
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 55⟧
+
+打印(A,'*',B,'=',A*B); B+1—>B全部；
+2—>B； A+1—>全部；
+
+4°。计算机图形学的有趣应用之一是卡通制作的自动化。当然，在一个循环中单独绘制书籍是很方便的。通常，帧中存在多个静止物体和一个或多个移动物体。每个移动对象都可以通过单独的过程指定，该过程的参数决定其在帧中的大小和位置。
+
+让我们举一个非常简单的例子：您需要在一棵静止的树的背景下描绘一辆移动的卡车。
+
+这样一部迷你漫画的程序是由第二位古典学家 V. Fishchev 编写的：
+
+PERC 机器 X Y； P(X,U);
+L(X,Y+15); L(X+15,Y+15);
+L(X+15,Y+25); L(X+30,Y+25);
+L(X+30,U+15); L(X+35,U+15);
+L(X+35，Y+20)； L(X+70,Y+20);
+
+任务 6.1。创建一个程序，用矩形网格填充 100 x 100 毫米的框架，沿横坐标轴的步长为 2 毫米，沿纵坐标轴的步长为 5 毫米。
+
+任务 6.2。编写一个程序来打印表达式值表
+
+$$\frac{X(X^2+1)+(X+2)(X^2-1)^2}{(X^3+4)^2}$$
+
+对于 1 到 25 的自然 X。
+
+任务 6.3。创建一个程序来绘制描绘两架飞机互相烧毁的卡通画。
+
+G·兹韦尼茨戈罗德斯基
+
+我们建议您购买
+
+数学
+
+安东诺夫 N.P.等人。初等数学问题集。 （自学手册。） 价格 90 戈比。
+Vorobiev N. N. 斐波那契数列。价格25戈比。
+Coxeter G. S. 与几何学的新会议。价格5万。
+
+物理
+
+科泽尔·S.M.等人。物理学问题的集合。价格3万。
+
+马科维茨基 P.V.看根！ （有趣的问题和问题的集合。）价格80戈比。
+
+受过教育的科学家。 （专门用于英国年轻物理学家培训的翻译合集。）价格 30 戈比。
+
+Politsuk V. R. 如何平滑分子。价格9万。
+
+费曼物理学讲座。第 6 期。电动力学。价格1擦。 54 k。
+
+费曼物理学讲座。第 8 期； 9. 量子力学。价格2擦。 40 k。
+
+费曼物理学讲座。带有答案和解决方案的作业和练习。价格2擦。 30 k。
+
+Shklovsky I.S. 宇宙、生命、心灵。价格1擦。 08 k。
+
+将订单（通过明信片）发送至以下地址：103031，Moscow，Petrovka 15，Mazazin No. 8“Technology”。

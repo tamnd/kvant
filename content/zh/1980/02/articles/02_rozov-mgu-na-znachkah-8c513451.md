@@ -1,0 +1,31 @@
+---
+id: 1980-2-rozov-mgu-na-znachkah-8c513451
+issue: kvant_1980_2
+year: 1980
+number: "2"
+title: 密歇根州立大学徽章
+authors:
+  - Розов Н. Х.
+rubric: smes
+page_first: 68
+page_last: 68
+tag: OWK3
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: d4cec2b79304b7c0e1fd7c2bccbacb9dc85fb860aba683a280220ca828791859
+prompt_sha256: draft-1
+translated_from: content/ru/1980/02/articles/02_rozov-mgu-na-znachkah-8c513451.md
+source_content_sha256: 6090bd4d833c2c710c3e8d653c1fe0ad116255facca3db4a7ae07370b2b8a28e
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+密歇根州立大学徽章
+
+列宁山上的莫斯科大学主楼是一座非凡的建筑作品，成为苏联科学和高等教育的象征，多次被描绘在艺术标志上 (1,2)。莫斯科国立大学的院系和科学部门有趣的“专业”标志。以下是其中的一些：(3) - 力学和数学学院，(4) - 计算数学和控制论学院，(5) 和 (6) - 物理学院（第一个学院有一个符号 $\sqrt{1}$ 的程式化图像，在物理学生中很受欢迎，第二个学院的想法是由阿基米德的著名短语“给我一个支点，我将移动地球！”提出的），（7） - 力学研究所，(8) - 核物理科学研究所（为SINP成立25周年颁发徽章）。莫斯科国立大学创建了第 18 号特殊体能寄宿学校；其毕业生会获得特殊徽章（9）。密歇根州立大学主办国内和国际科学会议。在这些论坛参与者的会员徽章上，经常可以看到莫斯科国立大学主楼的剪影（10）——国际理论与应用力学竞赛参与者的徽章）。最后一枚徽章 (11) 是为纪念莫斯科大学 200 周年而颁发的。
+
+N·罗佐夫

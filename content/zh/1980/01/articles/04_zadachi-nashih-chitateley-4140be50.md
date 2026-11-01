@@ -1,0 +1,54 @@
+---
+id: 1980-1-zadachi-nashih-chitateley-4140be50
+issue: kvant_1980_1
+year: 1980
+number: "1"
+title: 读者的任务
+rubric: smes
+page_first: 11
+page_last: 11
+page_labels: "9"
+tag: 4TK3
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: fd67a0ae472355fc83f4444c993c0c1f6c8ca8419d69159bd876963f1bbfce84
+prompt_sha256: draft-1
+translated_from: content/ru/1980/01/articles/04_zadachi-nashih-chitateley-4140be50.md
+source_content_sha256: cc16e703725ec6212be38fee08b227ec797c5a93e63b7599eeb55ea7ee1effcd
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 9⟧
+
+米克·谢尔盖·伊万诺维奇·瓦维洛夫。他是普通物理系的系主任。在他的领导下，人们显着掌握了一般和特殊的身体练习，并创建了许多新的讲座演示。
+
+四十年代中期，莫斯科国立大学物理系成立了核物理研究所，培养原子核、元素粒子和宇宙线物理领域的专家。与此同时，低温物理系成立，第一任系主任是A.I.沙尔尼科夫（现为院士）。
+
+近年来，物理学院成功开展了量子电子食物方面的工作，在振荡理论领域受到了良好的培训。在他所做的工作中，最著名的用户是创建具有连续变化辐射频率的参量激光器。
+
+数值激光器有一个结构化部分，这意味着
+
+*) 非线性光学研究激光产生的极高光强度下发生的光学现象。在这种条件下，介质的光学特性（例如折射率）取决于光强度。
+
+我们的读者作业
+
+导数可用于证明一个变量（«Kvant»，1979，第 10 号）和多个变量的不等式。以下是我们的读者发送的此类问题的示例：
+
+1. 证明不平等
+$$\frac{tg\beta}{tg\alpha} > \frac{\beta}{\alpha}$$
+
+对于数字 $\alpha, \beta$ 满足
+
+$$0 < \alpha < \beta < \frac{\pi}{2}.$$
+
+L·库尔扬迪克
+
+2. 证明不平等
+$$\sin^2\alpha + \sin\beta \sin\gamma \leq \frac{25}{16},$$
+
+其中$\alpha, \beta, \gamma$是三角形的内角。
+
+S·贝尔科莱科
