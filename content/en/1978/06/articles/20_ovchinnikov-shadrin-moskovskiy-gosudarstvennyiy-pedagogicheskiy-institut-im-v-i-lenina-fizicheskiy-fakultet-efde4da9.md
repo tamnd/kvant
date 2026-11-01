@@ -1,0 +1,77 @@
+---
+id: 1978-6-ovchinnikov-shadrin-moskovskiy-gosudarstvennyiy-pedagogicheskiy-institut-im-v-i-lenina-fizicheskiy-fakultet-efde4da9
+issue: kvant_1978_6
+year: 1978
+number: "6"
+title: Moscow State Pedagogical Institute named after. V. I. Lenin (Faculty of Physics)
+authors:
+  - Овчинников О. Ю.
+  - Шадрин Г. А.
+rubric: ekzamenatsionnye-materialy
+page_first: 78
+page_last: 78
+page_labels: "76"
+tag: KN1J
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 491ced6f5651b6a7e151b76cbed458a9a3ddc2e9cd6686bf850a7beb101e5546
+prompt_sha256: draft-1
+translated_from: content/ru/1978/06/articles/20_ovchinnikov-shadrin-moskovskiy-gosudarstvennyiy-pedagogicheskiy-institut-im-v-i-lenina-fizicheskiy-fakultet-efde4da9.md
+source_content_sha256: bbdf3740c399fe53ab419b540b4c9e929152afd918a9137bc92f4dd7c489d575
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 76⟧
+
+4. Find the radius of the base of the cylinder that has the smallest total surface area for a given volume $V$.
+5. Find the function $F(x)$ if $F'(x) = 3x^2 + 1$ and $F(1) = 3$, and plot it. Option 2
+1. Solve the equation
+$$2^{2x+1} + 4 = 9 \cdot 2^x.$$
+2. Solve the equation
+$$6\sin^2 x - 3\sin x \cdot \cos^2 x = 1.$$
+3. Solve inequality
+$$\log \frac{2x}{2} < 1.$$
+4. Find the height of the cone with the largest volume inscribed in a ball of radius $R$.
+5. Calculate the area of ​​a figure bounded by lines
+$$y = x + 1$$ and $$y = 5 + 3x - 2x^2.$$
+A. Ryazanovsky
+
+Moscow State Pedagogical Institute named after. V. I. Lenina
+(Faculty of Physics)
+
+Mathematics
+Option 1
+1. Find the cosines of the angles that form the vector $\vec{a} = 6i - 2j - 3k$ with the basis vectors.
+2. Solve the equation
+$$7 \cdot 10^{2x+3} - 5 \cdot 4^{2x+3} = 2 \cdot 25^{2x+3}$$
+3. Solve the equation
+$$\frac{\sin x}{1 + \cos x} = \sin \frac{x}{2}.$$
+4. Find the area of ​​the figure bounded by the curves $y = x^2$ and $y = \sqrt{3}x$.
+5. Build a graph
+$$y = x^4 - 2x^2 + 5.$$
+Option 2
+1. The vectors $\vec{a}$ and $\vec{b}$ are unit and mutually perpendicular. Find the angle between the sum and difference of the vectors $\vec{p}$ and $\vec{q}$, where $\vec{p} = 8a + 4b$ and $\vec{q} = 4a + b$.
+2. Solve the equation
+$$7 \cdot 2^x - 4^x = 10.$$
+3. Solve the equation
+$$8 \sin^2 \frac{x}{2} + 3 \sin x - 4 = 0.$$
+4. Find the area of ​​a figure bounded by curves
+$$y = e^x, y = e^{-x}, x = 1.$$
+
+5. Build a graph
+$$y = x^3 - 3x^2 + 2.$$
+Physics
+1. Compact two drops from the roof with a time interval of $\Delta t$. The distance between the drops $t_1 = 1$ s after the fall of the second of them is $l = 50$ cm. Determine $\Delta t$.
+2. A load of mass $m = 10$ kg is moved uniformly in a straight line in a horizontal plane, applying a force directed at an angle $\alpha = 30^\circ$ to the horizon. Determine the magnitude of this force if the friction coefficient is $\mu = 0,2$.
+3. Two weights with masses $m_1 = 3$ kg and $m_2 = 6,8$ kg heights at the ends of the thread are thrown over the block. The smaller load is $h = 2$ m below the larger one. The loads begin to move without an initial speed. How long does it take for them to reach the same height?
+4. When fired in the horizontal direction, the barrel of the ordium, the mass of which is $M = 500$ kg, rolls away to a distance of $l = 80$ cm. Determine the average value of the braking force in the horizontal device of the ordium. The mass of the projectile is $m = 4$ kg, its initial speed is $|\vec{v}| = 600$ m/s.
+5. An ice floe of constant thickness floats in water, protruding above the surface to a height of $h = 2$ cm. What is the mass of the ice floe if its area is 150 cm²? Ice density $\rho = 0,92$ g/cm³.
+6. The sections $S_1$ and $S_2$ communicating with the area are filled with the liquid of the plane $p$. Then the elbow of the vessel with cross-section $S_1$ was closed, and exposure to temperatures $T_0$ to temperatures $T$. Determine the temperature $T$ if the fluid level in the elbow section $S_2$ has risen by values ​​$\Delta H_2$. The initial volume of water in a closed elbow is $V_0$, atmospheric pressure is $p_0$ const, and the thermal distribution of the vessel and liquid varies.
+7. It took $\tau_1 = 15$ min to heat up from $0^\circ C$ to the sticking temperature on an electric heater. After this, it took $\tau_2 = 1$ and 20 minutes to process all this water into steam under the same conditions. Using these data, determine the specific heat of vaporization of water.
+8. Two light bulbs are connected in parallel to a grid. The resistance of the first bulb is $R_1 = 360$ Ohm, the resistance of the second is $R_2 = 240$ Ohm. Which bulb absorbs more power and by how much?
+9. Find the internal resistance of the generator if it is known that the power released in the external circuit is the same for two values ​​of external resistance $R_1 = 5$ Ohm and $R_2 = 0,2$ Ohm.
+10. At what distance from the collecting line with a focal length of $F = 12$ cm should an object be placed so that its actual image is $n = 3$ larger than the object itself?
+O. Ovchinnikov, G. Shadrin

@@ -1,0 +1,40 @@
+---
+id: 1978-9-zadachi-6bb27313
+issue: kvant_1978_9
+year: 1978
+number: "9"
+title: Tasks
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 49
+page_last: 49
+page_labels: "47"
+tag: 3QHA
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: f5c396a62d7b2417ac6e96fb12a120fc527fbae43985e3103632bea4050b53a7
+prompt_sha256: draft-1
+translated_from: content/ru/1978/09/articles/16_zadachi-6bb27313.md
+source_content_sha256: 8177097e9be19a7e8590d1dec7f84e1d63a285083796f9c33195182a3ec623fa
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 47⟧
+
+Quests
+
+1. Three teams participated in the finals of the school mathematics Olympiad - “Alpha”, “Beta” and “Gamma”. Each team must create five problems and let them solve them with their content. When supporting the results, they found out that the Alpha team was able to solve only one of the problems proposed by the Beta team, and four of the Gamma problems. Team Beta solved three problems proposed by Gamma and two problems proposed by Alpha. “Gamma” found solutions to all five of “Alpha’s” problems, but was unable to solve a single “Beta” problem.
+
+The overall place was awarded based on the results of two competitions:
+
+1) competition for the complexity (difficulty) of the compiled tasks;
+2) competition for problem solving skills.
+
+First place in each competition was awarded 2 points, second place - 1 point; third place was not judged. Determine how many points the team received in general competitions and what the final distribution of places is.
+
+2. Solve the system depicted on figure (here the letters K, O, L, I must be replaced with numbers so that both equalities are preserved: different letters must correspond to different numbers, identical letters must correspond to the same). How many solutions does the problem have?
+
+3. Having guessed for what reason the first table of numbers was compiled, put the missing number. After doing the same with the second table, remove the extra number.

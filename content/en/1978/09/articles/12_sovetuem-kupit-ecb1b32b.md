@@ -1,0 +1,95 @@
+---
+id: 1978-9-sovetuem-kupit-ecb1b32b
+issue: kvant_1978_9
+year: 1978
+number: "9"
+title: We advise you to buy!
+rubric: smes
+page_first: 36
+page_last: 37
+page_labels: 34-35
+tag: UL9D
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: aef5c8caba67fabb96bcef1548126526618c70de06fb7f78162bf5474aa9deb2
+prompt_sha256: draft-1
+translated_from: content/ru/1978/09/articles/12_sovetuem-kupit-ecb1b32b.md
+source_content_sha256: dbf7acc2c58c717b70759ff28dc8a57b7a0ff4d097f78c8caab3142a9e1bed48
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 34⟧
+
+one of the straight lines containing points A or C would not be larger than the area of ​​the original straight line.
+
+Let side AB be cut into pieces constituting parts k and 1-k from it, and side BC cut into pieces constituting parts l and 1-l from it. We need to prove that $kl \leq \frac{1}{4}$ or $(1-k)(1-l) \leq \frac{1}{4}$ for all k, l from 0 to 1.
+
+To do this, it is enough to make sure that $kl(1-k)(1-l) \leq \frac{1}{16}$. But $k(1-k) \leq \frac{1}{4}$ and $l(1-l) \leq \frac{1}{4}$ (these inequalities are derived from the inequalities $\left(k - \frac{1}{2}\right)^2 \geq 0$ and $\left(l - \frac{1}{2}\right)^2 \geq 0$).
+
+Posny $kl(1-k)(1-l)$ is really no more than $1/16$.
+
+9. Solve the system of equations:
+
+$$\begin{cases} 1 + x_1^2 = 2x_2, \\ 1 + x_2^2 = 2x_3, \\ 1 + x_3^2 = 2x_4, \\ 1 + x_4^2 = 2x_1. \end{cases}$$
+
+Adding all the equations, we get $(x_1-1)^2 + (x_2-1)^2 + (x_3-1)^2 + (x_4-1)^2 = 0$.
+
+This equality is only possible if $x_1 = x_2 = x_3 = x_4 = 1$, which gives the only answer.
+
+10. Give the student a total of 20 problems. For each correctly solved problem he is given 8 points, for each incorrectly solved problem - minus 5 points; if he does not solve the problem, he is given 0 points. As a result, the student received 13 points. How many problems did the student solve?
+
+Let a student solve x problems correctly and solve y problems incorrectly. Then
+
+$$8x - 5y = 13,$$
+
+whence 5y+13 must be divisible by 8.
+
+It is clear that y is odd. We try odd values ​​of y in a row and find matches: y=7 and y=15. Only the first fit: y=7, x=6. (For y=15, x=11 and x+y=24>20.)
+
+We advise you to buy!
+
+Matematika
+
+Kantor I. L., Solodovnikov A. S. Givercomplex numbers. Ts. 22 k. Perelman Ya. I. Living mathematics. Mathematical stories and puzzles. Ts. 30 k. Postkinov M. M. Fermat’s theorem. Ts. 20 k. Solodovnikov A. S. Systems of linear inequalities. Ts. 15 k.
+
+Physics, astronomy
+
+Butenin N.V. Introduction to analytical mechanics. Ts. 56 k. Butnikov E.I. et al. Physics for those on call. Ts. 1 r. Kitaygorodsky A.I. Introduction to physics. Ts. 1 r. 41 k. Koshkin N. I., Shirkevich M. G. Handbook of elementary physics. Ts. 69 k. Kresin V. 3. Superconductivity and superfluidity. Ts. 35 k. Mayer V.V. Simple experiments with ultrasound. Ts. 20 k. Collection of problems for the general course of physics (Mechanics). Ts. 67 k. Collection of problems for the general course of physics (Thermodynamics and molecular physics). C. 32 k.
+
+(For the end see p. 58)
+
+⟦folio 35⟧
+
+Awards «Kvant»
+In the 1977/78 academic year, the editors received more than 12 thousand letters with solutions to problems from the Problem Book «Kvant». Schoolchildren who solve the most problems or send the most original solutions are awarded a special prize established by the editorial collection of the magazine - a subscription to «Kvant» for 1979.
+
+1. BALINSKY ALEXANDER (Dublyany village, Lviv region)
+2. BARZYKIN ALEXANDER (Chernogolovka village, Moscow region)
+3. BATYREV VICTOR (Moscow)
+4. GAVRILOV MIKHAIL (Chernogolovka village, Moscow region)
+5. GRISHECHKIN SERGEY (Moscow)
+6. GUBA VICTOR (Vologda)
+7. IZMAYLOV RAUF (Baku)
+8. KULESKO ALEXANDER (Donetsk)
+9. LASHKIN VLADIMIR (Kyiv)
+10. LYUDMIRSKY DMITRY (Kyiv)
+11. MINDLIN DMITRY (Tashkent)
+12. MIRLIN ALEXANDER (Leningrad)
+13. NENASHEV ALEXANDER (Leningrad)
+14. OPARIN ANDREY (Gorky)
+15. ROZHAN LION (Moscow)
+16. TROFIMOV VLADIMIR (Moscow)
+17. FIRSOVA GALINA (Leningrad)
+18. SHWEIDEL VLADIMIR (Velikiye Luki)
+
+For successful participation in the XII All-Union Physics and Mathematics Optimization, a subscription to «Kvant» for 1979 is awarded to:
+
+1. ABDUGANIEV ABDUVALI (Tashkent region)
+2. BRACHENKO SVETLANA (farm Boyko-Ponura, Krasnodar Territory)
+3. IRMATOV ANVAR (Namangan)
+4. LUCHKO YURY (village of Slovatich, Grodno region)
+5. FAISMAN ALEXANDER (Tashkent)
+6. SHERBAKOV SERGEY (Leningrad)

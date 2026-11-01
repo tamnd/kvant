@@ -1,0 +1,51 @@
+---
+id: 1978-10-makarov-ix-prazdnik-yunyih-matematikov-v-batumi-448b05d9
+issue: kvant_1978_10
+year: 1978
+number: "10"
+title: IX celebration of young mathematicians in Batumi
+authors:
+  - Макаров Л.
+rubric: informatsiya
+rubric_sub: Информация
+page_first: 91
+page_last: 91
+page_labels: "89"
+tag: SF9U
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: ad2a310799b12f210d65e3cd2737df648e308846216ba879d72e13add992babf
+prompt_sha256: draft-1
+translated_from: content/ru/1978/10/articles/23_makarov-ix-prazdnik-yunyih-matematikov-v-batumi-448b05d9.md
+source_content_sha256: d7a7d71041155bf25f411cf1e75dedd347acc2b634d05c0decb5b60e849fc3c7
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 89⟧
+
+IX celebration of young mathematicians in Batutia
+
+From November 4 to November 9, 1977, the next mathematical conference of schoolchildren was held in Batutia. This conference has become a wonderful tradition. In addition to trampoline schoolchildren, almost 150 schoolchildren from Tbilisi, Sukhumi and other cities of Georgia, from Baku, Yerevan, Kyiv, Moscow and Riga took part in it. 28 reports were read at the conference. Five of them were awarded special certificates from the organizing committee and the jury. In addition, ten more reports were marked as interesting.
+
+The reports were very different: in some they talked about their own research, in others - about what they had read in books or in «Kvant». Generally, after the report, one of the jury members came out to the doxa, commented on the report, and talked about related issues.
+
+Some reports were related to problems that had not been fully resolved. For example, in the report of A. Alekseev (Moscow, boarding school 18) such a game was considered.
+
+Nerayum dovoe. They take turns writing into a 3x3 table of numbers from 1 to 9 (whichever number should be used). When the table is complete, two sums are calculated: the sum of $S_1$ products by columns and the sum of $S_2$ products by rows. If $S_1 > S_2$, we will withstand the beginning cerrok, if $S_1 < S_2$, we will withstand the second cerrok.
+
+The speaker studied the game using an electronic computer and taught the computer to win. One thing he failed to prove is that the strategy he found always leads to victory, that it certainly leads to victory?
+
+The mathematical KVN aroused extremely great interest among the participants and numerous spectators. The first place in it was taken by the team of the 19th Moscow school, the second - by the 208th Kyiv school and the third - by the team of the 57th Moscow school. The competition for captains was won by Moscow student Vitya Galperin (school 57), winner of fun and international Olympiads. He managed to win the Olympiad system against the other captains in the following game:
+
+From three piles of stones in one move, you can either take several stones from one pile, or an equal number of stones from two piles. I'm playing before. We withstand the cerrok who took the last stone.
+
+He was the fastest to unravel a pencil with a rope and a jacket without tearing the rope or breaking the pencil (see figure). Try to solve this puzzle. At the same time, try, taking a piece of string by the ends and then not letting them out of your hands, tie a knot on it.
+
+It is pleasant to note that the conference, which several years ago was attended only by schoolchildren from Transcaucasia, has become practically fun. This happened thanks to the energy and enthusiasm of the Batuta city of the CPSU, the Adjara obom and the city committee of the Komsomol, the Ministry of Education of the Adjara Autonomous Soviet Socialist Republic, the Adjara Profession Council, the Adjara branch of the Knowledge Society and other resource and city organizations and such enthusiasts as the mathematics teacher of the Batuta school No. 7 M. Zhgenti.
+
+We hope that the geography of the Trampoline Mathematics Festival will expand even further in the coming year. I would like the number of cities holding such conferences to also increase.
+
+We are waiting for your letters with stories about such meetings of schoolchildren. L. Makarov

@@ -1,0 +1,47 @@
+---
+id: 1978-7-lushkov-luzhkov-zvezdyi-iz-vodyanoy-kapli-0aa666e0
+issue: kvant_1978_7
+year: 1978
+number: "7"
+title: '"Stars" from a water drop'
+authors:
+  - Лушков А.
+  - Лужков Ю.
+rubric: laboratoriya-kvanta
+rubric_sub: Лаборатория «Кванта»
+page_first: 30
+page_last: 30
+page_labels: "28"
+tag: P10J
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 69e457b7a3b61cfaca9942856e605cc065fe771d2ce122dd0884049653ec3456
+prompt_sha256: draft-1
+translated_from: content/ru/1978/07/articles/06_lushkov-luzhkov-zvezdyi-iz-vodyanoy-kapli-0aa666e0.md
+source_content_sha256: ab435ffa01cee00f08fe041566af8980e95253783c0114053fb884eb50c40165
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 28⟧
+
+"Stars"
+from a water drop
+
+In the twelfth issue of our magazine last year, in the “Laboratory «Kvant»” section, an article by M. Golubev and A. Kagalenko “A Drop on a Hot Surface” was published. The editors received many postcards for this article. We bring to your attention a short note about one of the experiments conducted with a water drop on a hot surface.
+
+For the experiments, we used the far left burner (power 1500 W) with electronic “Luchch”. Using fine sandpaper, we carefully cleaned the spherical surface of the burner from dirt (the radius of curvature is 80 mm), heated it to a temperature of 400-500°C and dropped a little water (weighing 3-8 g) on ​​it.
+
+At first, the drop behaved very unstable: it rotated, stretched from side to side, and bubbles of steam appeared and burst in the center of the drop (Fig. 1). Steam was released into the surrounding space in small portions along with particles of water.
+
+After a certain decrease in the size of the drop, its behavior became more stable—stable continuous-transverse oscillations arose in the drop. As a result of such a complex oscillatory motion, a “star” of regular geometry appeared along with the spherical drop
+
+same layer. In other words, the transmittance for one layer must be squared. In this case, for the blue-green band the transmittance will decrease very much, but for the red band it remains almost unchanged.
+
+figure 2 shows how the transmittance of the red and blue-green stripes changes with successive increases in the thickness of the green layer. It is clear that for blue-green light it becomes less and less compared to the proportion of red light. Starting from a certain thickness, the greenery when exposed to light will not be green, but red.
+
+So what color is green really?
+
+If you are still confused about answering this question, we advise you to read the essay published in this issue of the magazine (ed.).

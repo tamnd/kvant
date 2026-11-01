@@ -1,0 +1,47 @@
+---
+id: 1978-9-mayer-reaktsiya-vyitekayuschey-i-vtekayuschey-struy-9bb4d312
+issue: kvant_1978_9
+year: 1978
+number: "9"
+title: Reaction of outflowing and inflowing jets
+authors:
+  - Майер В. В.
+rubric: laboratoriya-kvanta
+rubric_sub: Лаборатория «Кванта»
+page_first: 22
+page_last: 22
+page_labels: "20"
+tag: ES70
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: f586c807c5d94b40bfab5a34a191121215eb3d4860ca1e2304d54230bdaa9f53
+prompt_sha256: draft-1
+translated_from: content/ru/1978/09/articles/05_mayer-reaktsiya-vyitekayuschey-i-vtekayuschey-struy-9bb4d312.md
+source_content_sha256: 7ae4376c6dec700dc1447a3bd6a81227528cc2ae951a22cae5756206f5c5ae90
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 20⟧
+
+V. Mayer
+
+Reaction of outflowing and inflowing jets
+
+Imagine that on the raft there is a vessel with a piston filled with water, and a pipe (Fig. 1) is led out overboard from the tank. If the piston is lowered, a stream of water will come out of the pipe, and the raft will apparently start in the opposite direction to the direction of movement of the water in the stream. What happens if you raise the piston so that a stream of water enters the vessel?
+
+Fig. 1.
+
+As a physical and psychological experiment, this question was asked by a schoolchild, a physics teacher, and a university professor. In most cases, they were unanimous and said that, of course, the raft would begin to move towards the stream of liquid entering the vessel through the pipe. Is this correct?
+
+So that you feel the non-trivial nature of the question posed, then, at the end of the time, it attracted the attention of the outstanding Russian scientist N. E. Zhukovsky. Moreover, Zhukovsky solved the problem: first he approximately showed that the reaction of the liquid flowing into the vessel is very small, and only then strictly proved that it is equal to zero! The theory developed by Zhukovsky is not simple, and there is no point in considering it here.
+
+You can come up with many beautiful experiments that allow you to observe the reaction of inflowing and inflowing jets. Some of them were described by Zhukovsky.
+
+“Experiments confirm the result we found about the insignificance of the reverse reaction. We installed vessels (Fig. 2 and 3), which were supported on the water using cork floats and communicated with gutta percha tubes with a slight pump action. By blowing in and out of air, we caused water to flow out of the vessel or run into it. At the same time, it was discovered that the vessel remained motionless, no matter how much water was drawn into it, and immediately began to move as soon as the water was pushed out. So about
+
+Fig. 2.
+
+Fig. 3.

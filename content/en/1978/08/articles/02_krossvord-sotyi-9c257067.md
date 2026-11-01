@@ -1,0 +1,30 @@
+---
+id: 1978-8-krossvord-sotyi-9c257067
+issue: kvant_1978_8
+year: 1978
+number: "8"
+title: Crossword "Honeycomb"
+rubric: smes
+page_first: 67
+page_last: 67
+page_labels: "22"
+tag: P9Y9
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 352a2b7603d609adf4f67e9503ead73327039a5d67787e4c2e4cf32f0d61d463
+prompt_sha256: draft-1
+translated_from: content/ru/1978/08/articles/02_krossvord-sotyi-9c257067.md
+source_content_sha256: dad57405f340fc56d117af42a2c830ed1bac006c139d45c6551433db18d0537c
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 22⟧
+
+CROSSWORD "HONEY HONEY"
+
+Write a six-letter elephant around each number, starting from the marked cell in a clockwise direction.
+
+1. Beam deformation. 2. Artificial fiber. 3. Ancient Greek mathematician. 4. Unit of electrical embone. 5. Russian physicist, inventor of the transformer. 6, 37. American measures of fluid exchange. 7. The branch of physics that studies the properties of light. 8. Directed segment. 9. A quantity determined only by numerical value. 10. Russian metallurgist, master of blast furnace. 11. Absolute value. 12. Soviet radiophysicist, close assistant of A. Popov. 13. Elementary private. 14. Unit of work. 15. Tub for logia. 16. Number. 17. The process of transition from one type of energy to another. 18. One of the pioneers of Russian gliding. 19. Method. 20. A device that perceives influence and converts it into a signal. 21. Outstanding intellectual physicist. 22. Ceramics with high electrical permeability. 23. Unit of magnetic field strength. 24. Plastic. 25. Manner of writing. 26. Soviet mathematician, mechanic, shipbuilder. 27. Accumulation of tiny droplets in the atmosphere. 28. American inventor. 29. Part of a lathe and a musical instrument. 30. Magnetic device. 31. Soviet explorer of Central Asia. 32. Optical phenomenon in nature. 33. Constant wind in the tropics. 34. Outstanding Soviet physicist. 35, 40. Planets. 36. Part of a circle limited by radii. 37. (see 6). 38. State of matter. 39. French mathematician, professor at the Ecole Polytechnique. 40. (see 35). 41. Electric fuse. 42. Positively charged ion. 43. Polyhedron. 44. Soviet physicist, host of the telephone show “The Obvious - the Incredible.” 45. Soviet mathematician. 46. ​​Group of equatorial constellations. 47. Research method. 48. The path along which a celestial body moves.

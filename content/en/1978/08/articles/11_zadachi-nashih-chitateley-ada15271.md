@@ -1,0 +1,62 @@
+---
+id: 1978-8-zadachi-nashih-chitateley-ada15271
+issue: kvant_1978_8
+year: 1978
+number: "8"
+title: Tasks for our readers
+rubric: smes
+page_first: 49
+page_last: 49
+page_labels: "47"
+tag: J2DT
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: a60afcd66404c23ef2b1c25ec2bc5ab114de769292d5a5620c0b16a8d5c63962
+prompt_sha256: draft-1
+translated_from: content/ru/1978/08/articles/11_zadachi-nashih-chitateley-ada15271.md
+source_content_sha256: 343b2e819dec2258aa32dd91f5e925b569c1d17fe62b514b6b4cbf112909d01e
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 47⟧
+
+Fig. 8.
+
+$\Pi_1, \Pi_2, \Pi_3, \dots$ In each rectangle $\Pi_i$ there are exactly $n_i$ lines, each of which has at least $n_i$ cells shaded, so in $Q_0$ in any case $n_0^2 + n_1^2 + \dots + n_k^2 - 3$ cells are shaded. Let us introduce the notation: $m_0 = n_0, m_1 = n_0 + n_1, m_2 = n_0 + n_1 + n_2, \dots$ (see Fig. 8). Consider a ticket with number $[0m_0m_1 \dots m_{k-3}xy]$, where $x$ and $y$ are some two “digits” no less than $m_{k-3}$ (that is, the box with number $xy$ is “located” in $Q_{k-2}$). It is easy to see that this ticket can only be placed in the box numbered $xy$. Since $x$ and $y$ were chosen arbitrarily in $Q_{k-2}$, we get that all square $Q_{k-2}$ cells are shaded (there are $n_{k-2}^2$ of them). So we have at least $n_0^2 + n_1^2 + \dots + n_k^2 - 3 + n_{k-2}^2 + n_{k-2}^2$ shaded cells. Let us now note that $n_0 + n_1 + \dots + n_{k-3} + n_{k-2} = N$, and therefore there are no fewer shaded cells than $F(k-1, N)$.
+
+It remains to show that you can get by with exactly $F(k-1, N)$ boxes. Let the sum $F(k-1, N)$ correspond to the set $\{a_1, a_2, \dots, a_{k-1}\}$. Let's divide our $N$ numbers into $k-1$ groups: in the first group there are $a_1$ “digits”, in the second there are $a_2$ “digits”, etc.
+
+Let's consider all the boxes with numbers, both “digits” of which fall into the same group. There are just $a_1^2 + a_2^2 + \dots + a_{k-1}^2 = F(k-1, N)$, and each ticket can be put in one of these boxes, since among the $k$ “digits” of the ticket there are two “digits” from the same group.
+
+For $N = 10$ the corresponding values ​​of $F(k-1, 10)$ are given in the table at figure 2.
+
+Tasks for our readers
+
+1. Prove that
+a) $S_n = \frac{1}{2^2} + \frac{1}{3^2} + \dots + \frac{1}{n^2} < \frac{2}{3}$;
+b) $P_n = \frac{1}{2} \cdot \frac{3}{4} \cdot \frac{5}{6} \times \dots \frac{2n-1}{2n} > \frac{1}{\sqrt{4n+1}}$.
+
+G. Piskarev
+(Yaroslavl region)
+
+2. Let the triangle $ABC$ have side $AC$ be the longest or the shortest. Prove that then there is a real number $x$ such that $|AC|^x = |BC|^x + |AB|^x$.
+O. Lemeshev
+(Omsk)
+
+3. Is there a natural number whose square is equal to the sum of the squares of 1000 consecutive natural numbers?
+
+4. Prove that the equation
+a) $(m+1)^3 + (m+2)^3 + \dots + (m+n)^3 = 10^k + 2$;
+b) $(m+1)^5 + (m+2)^5 + \dots + (m+n)^5 = 10^k + 2$ has no integer solutions.
+
+I. Cherepinsky
+(Cherkassy)
+
+5. Given a segment $AD$ and a point $H$ belonging to this segment, and $|AH| : |HD| = 4:1$. Construct triangle $ABC$ so that segment $AD$ is its height, point $H$ is its orthometer, and the radius of the circle circumscribed around triangle $ABC$ is equal to $\frac{4}{5}|AD|$.
+
+6. Given a triangle $ABC$, $[AD]$ is its median, $M \in [AD]$, $|AM| : |MD| = 2:3$, $N \in [AB]$, $|AN| : |NB| = 5:3$. Find the ratio of the areas of triangles $AMN$ and $ABC$.
+A. Pulyaev
+(Donetsk)

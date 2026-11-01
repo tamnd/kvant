@@ -1,0 +1,34 @@
+---
+id: 1978-10-rudov-kosmicheskaya-chayka-f05a2e76
+issue: kvant_1978_10
+year: 1978
+number: "10"
+title: Space "Seagull"
+authors:
+  - Рудов В. А.
+rubric: raznoe
+rubric_sub: Разное
+page_first: 99
+page_last: 99
+tag: Q1KF
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 2ab75b895777fd839f6e663307f16dab78ec31183a4220935b74107712f612db
+prompt_sha256: draft-1
+translated_from: content/ru/1978/10/articles/02_rudov-kosmicheskaya-chayka-f05a2e76.md
+source_content_sha256: 42c786d74b1412270bf6b88617ef16021f3e0caf72e3b4e107ddb6a5deb2c86d
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+SPACE “SEAGULL”
+
+15 years ago the world learned the name of the first female astronaut. On June 16, 1963, the Vostok-6 spacecraft, piloted by Valentina Vladimirovna Tereshkova, launched from the Baikonur Cosmodrome. Her call sign was: “I am a seagull.” Two days earlier, her partner Valery Fedorovich Bykovsky ascended into space on the Vostok-5 spacecraft. Valentina Tereshkova's flight lasted 71 hours; During this time, Vostok-6 made 48 revolutions around the Earth, singing about two million kilometers in space.
+As a result of this research, valuable medical and biological information was obtained about human behavior in difficult space conditions, under the influence of overloads, vibration and weightlessness. As scientists expected, popet confirmed that a woman’s body has large reserves that make it possible to successfully overcome the difficulties associated with a person’s flight into space.
+Popet was still going on, and the Soviet post office had already put into circulation a stamp with Tereshkova’s portrait. In subsequent years, more than thirty stamps, postal blocks and other Soviet filttic materials dedicated to this event were published. More than a hundred stamps and postal blocks on the same topic were issued by postal departments of other countries.
+We present here several stamps from the USSR and socialist countries telling about the feat of Valentina Tereshkova.
+V. Rudov

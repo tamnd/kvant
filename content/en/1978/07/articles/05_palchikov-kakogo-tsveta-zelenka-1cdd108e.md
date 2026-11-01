@@ -1,0 +1,44 @@
+---
+id: 1978-7-palchikov-kakogo-tsveta-zelenka-1cdd108e
+issue: kvant_1978_7
+year: 1978
+number: "7"
+title: What color is green?
+authors:
+  - Пальчиков Е. И.
+rubric: laboratoriya-kvanta
+rubric_sub: Лаборатория «Кванта»
+page_first: 29
+page_last: 29
+page_labels: "27"
+tag: 799W
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: a113a4c9185ab975eb813a5a2dab978f20c183c944b5397ae53b96978e709593
+prompt_sha256: draft-1
+translated_from: content/ru/1978/07/articles/05_palchikov-kakogo-tsveta-zelenka-1cdd108e.md
+source_content_sha256: 5c465662baf43d70a7deac98453564ab5d93cdf227b1fa9da53aa79e03d61b98
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 27⟧
+
+E. Palchikov
+
+What color is green?
+
+Don't believe your eyes.
+K. Prutkov
+
+The same green that lubricates minor wounds and scratches? Many will probably say that it is green (and they will be right!).
+
+But look through the vial of brilliant green at some bright source of light - for example, the Sun, the filament of an incandescent light bulb, or an arc discharge. You will see that green only transmits red light. It turns out that green is red!?
+
+Take several kivets of different thicknesses, pour some green tea into them*) and look at the light. Thin layers of raster are, indeed, green in color, thicker ones take on an indefinite gray color (with a purple tint), and even thicker ones appear red. In other words, the color depends on the thickness of the coating layer. How can this be explained?
+
+It turns out that the transmission spectrum of a thin layer of greenery has two transparency bands in the visible region: a wide blue-green and a narrow red one (Fig. 1). In fact, the red band is not narrow, but simple further into the infrared region, but the human eye from this band
+
+*) It is advisable to dilute the brilliant green, otherwise you will have to use very thin kivets.
