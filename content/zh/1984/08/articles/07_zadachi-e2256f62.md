@@ -1,0 +1,44 @@
+---
+id: 1984-8-zadachi-e2256f62
+issue: kvant_1984_8
+year: 1984
+number: "8"
+title: 任务
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 41
+page_last: 41
+tag: PAFJ
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 29b860ad0c265bec8d596379a9d89b03096039dc9148c4af687dda030c762e1f
+prompt_sha256: draft-1
+translated_from: content/ru/1984/08/articles/07_zadachi-e2256f62.md
+source_content_sha256: f92f7b531785d558c55a5938672c17725bf32f5e965dd0c2f89f1d29037562dd
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+任务
+
+1. 艺术家在晚间电视节目“晚安，孩子们”的屏幕保护程序中犯了什么错误？
+
+2. 三角形的高是底边的2倍，底角之一是75°。证明三角形是等边三角形。
+
+3. 一年级学生娜塔莎被布置了一份家庭作业，要求以秒为单位表达给定的整数小时数。她在她的 terradi 中漂亮地写下了答案，然后立即关闭了它。到达学校后，娜塔莎发现两个数字已经变成了斑点。除此之外，她还准确地写下了需要用秒来表示的小时数。印迹上应该写什么数字？
+
+4. 斯拉瓦从朋友那里借了一本书三天。第一天他读了半公斤，第二天读了剩余页数的三分之一，第三天他读的页数等于第一天读的页数的一半。斯拉瓦三天内读完了这本书吗？
+
+5. 解决数字难题
+
+$(HE)^2 = SHE$
+
+$(HE$和$SHE$是英语中的“he”和“she”）。
+
+这些任务是由莫济里第 8 学校五年级学生 Sasha Korshkov 向我们建议的，
+A. N. 斯莫利亚科夫、N. K. 安东诺维奇、
+V.D.维云，A.P.萨文

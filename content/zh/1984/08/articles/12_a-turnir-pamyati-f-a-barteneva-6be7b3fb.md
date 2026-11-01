@@ -1,0 +1,58 @@
+---
+id: 1984-8-a-turnir-pamyati-f-a-barteneva-6be7b3fb
+issue: kvant_1984_8
+year: 1984
+number: "8"
+title: 纪念 F. A. Bartenev 的比赛
+authors:
+  - А. П.
+rubric: raznoe
+page_first: 60
+page_last: 60
+page_labels: "58"
+tag: 9X2Z
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: f4f657e2330c2231ff67f1e3ebefdde1298c93b8494276033a96bedc397a555b
+prompt_sha256: draft-1
+translated_from: content/ru/1984/08/articles/12_a-turnir-pamyati-f-a-barteneva-6be7b3fb.md
+source_content_sha256: be90a5994cca01b8566eb23f7545db66773778c32412a7c26badf3c742426c42
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 58⟧
+
+出于对数学奥数的“对艺术的热爱”而花费你的时间和精力。这些人——老师、学生、老师——应该在周年纪念雕像上留下他们的名字。当然，不可能一一提及50多年来为列宁格勒数学奥林匹克竞赛做出贡献的所有人。我们称他们为新演员吧。
+
+多年来，评审团的工作由 B. N. Delone、V. A. Tartakovsky、G. M. Fikhtengoltsy、I. P. Natanson、D. K. Faddeev、V. A. Zalgaller、G. P. Akilov、G. I. Natanson、A. V. Yakolyev、A. S. Merkuver 等人领导（在此，如下所示，我们尽量遵循时间顺序）序列）。 O.K.日托米尔斯基、M.K.加夫里因、S.P.奥洛夫扬辛科夫、G.V.埃皮凡诺夫、E.N.索基里安斯卡娅、I.V.罗曼诺夫斯基、A.L.维尔纳、N.M.米特罗凡诺夫、M.I.巴什马科夫、B.B.卢里、Yu。 I. Ionin, N. A. Shirkovok, S. S. 积极参与评审团的工作。沃兰德、V. E. 拉皮茨基、V. P. 费多托夫、A. G. 戈德堡、A. I. 普洛特金、I. Ya。 Verebeychik、S. V. Fomin、M. N. Gusarov、S. E. Rukshin、A. B. Aleksandrov。
+
+值得一提的是列宁格勒陪审团工作的连续性。近年来，也许其所有成员都是前奥运冠军。也许这就是为什么列宁格勒奥林匹克运动能够在 50 年来保持其原创性和数学传统。
+
+对于伟大的前奥林匹克竞赛获奖者来说，数学已经成为一种职业。他们中的一些人增加了更多的数学，他们理解了思维文化。 F. A. Bartenev 的统计和问题多次发表在《学校数学》和«Kvant»杂志上，1976 年他的书《代数中的非标准问题》由 Prosveshcheniye 出版社出版。
+
+决定每天举行的物理和数学之旅是为了纪念一位以青春为生的人。
+
+此次巡演分三个阶段为叶夫帕托里亚 5 至 7 年级的学生举办。在函授课程中，学生们解决城市报纸“Evpatoria Health Resort”上发表的问题。
+
+第二阶段是六校队的完善，六校队展现出了第一阶段最好的成绩。第一阶段表现最好的小学生和其他学校将被邀请参加这一阶段的比赛。
+
+第三阶段是根据前两个阶段的成绩，在两支最好的学校队伍之间进行比赛。
+
+我们先介绍一下第一阶段的几项任务。此次巡演分三个阶段为叶夫帕托里亚 5 至 7 年级的学生举办。在函授课程中，学生们解决城市报纸“Evpatoria Health Resort”上发表的问题。
+
+第三阶段是根据前两个阶段的成绩，在两支最好的学校队伍之间进行比赛。
+
+3. 为什么你的手可以用肥皂？
+
+6. 有条件的情况下可以使用吸油纸吗？
+
+8. 有轨电车上是否有向后移动而不是向前移动的点？
+
+10. 当水结冰时，体积会增加 1/9。当 LED 变成水时，体积会减少百分之几？
+
+11. 在第 100 个数字 123456789012345678901 ... 7890 中，我们把奇数位的所有数字都划掉了。对所得数字进行同样的操作，等等。最后划掉的是哪个数字？
+
+美联社

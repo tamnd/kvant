@@ -1,0 +1,59 @@
+---
+id: 1984-8-klimanov-origami-c1512085
+issue: kvant_1984_8
+year: 1984
+number: "8"
+title: 折纸
+authors:
+  - Климанов А. И.
+rubric: igry-i-golovolomki
+rubric_sub: Игры и головоломки
+page_first: 63
+page_last: 63
+page_labels: "61"
+tag: K87C
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 302315cceb1c6a7afc1f45407defbe416d49988e92c98ac562c63277ce2d57e4
+prompt_sha256: draft-1
+translated_from: content/ru/1984/08/articles/15_klimanov-origami-c1512085.md
+source_content_sha256: 9ecfeb7f3c9dcde079333373e8289b1a2997f00e2c991fe71405631169fa6c75
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 61⟧
+
+骆驼模型基地
+沿着虚线折叠
+沿着虚线折叠，展开并放入里面
+将下半部分向后弯曲
+模型的初始形状：骆驼、袋鼠、长颈鹿
+
+折纸
+（折纸人物）
+A·I·克利马诺夫
+用纸折叠动物和鸟类的人物是一门古老的艺术，也许在日本最受欢迎，在那里它被称为“折纸”。所有人物均由整张直纸（一张或两张）制成，无需剪刀或胶水的帮助（胶水仅用于固定由两张纸组成的人物的“一半”）。制作图形的过程如图所示。
+附图工作的初始阶段在附图中显示，并用数字表示。根据给定的图纸，制作动物和鸟类的模型，然后尝试折叠（无图纸）长颈鹿雕像（参见封面第四页的照片）。长颈鹿和骆驼的模型是由两块相同尺寸的毛坯制成的。一旦掌握了建模的“秘密”，您将学习如何创作自己的作品。
+
+骆驼模型
+正面
+对折
+做一个脖子
+将颈部末端向两侧延伸，向下一致，形成头部
+沿着虚线折叠，将两边翻到两边（顶层），得到三角形的形状
+后端
+对折
+做一个尾巴
+沿着虚线折叠，正面的部分，背面折叠
+将两个部分连接在一起
+
+袋鼠模型
+$\textcircled{1}$ 与骆驼相同 (图2)
+将中间部分向下折叠
+把里面翻出来
+对折
+做个头
+剪一刀，竖起耳朵，弯曲尾巴

@@ -1,0 +1,38 @@
+---
+id: 1984-6-zadachi-342b74d4
+issue: kvant_1984_6
+year: 1984
+number: "6"
+title: 任务
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 33
+page_last: 33
+tag: D0W8
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 781004a1104587df2a6e4b3d61b75c9ad74675a435484b15d7ca153f623e7f6e
+prompt_sha256: draft-1
+translated_from: content/ru/1984/06/articles/06_zadachi-342b74d4.md
+source_content_sha256: 91383e980540e1c0162a604eb4327b040cfac696ddafd9f17aa4844cdbdc1dbc
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+锻炼
+
+1. 将 1 到 9 的数字写入方格中，以便使用所有这 9 个数字并满足指定的等式。
+
+2. 圆形和正方形的面积相同。一个正方形挂在一个圆上，一个圆又挂在一个正方形上。圆内接正方形的面积和正方形内接圆的面积哪个更大？
+
+3. 与“？”一起放置的数字是什么？按顺序：7, 17, 37, 77, ?, 317,...?
+
+4. 找到“乱码信”的钥匙——俄罗斯以前用于外交信函的秘密文字：“Paichik tyug t “kamashmlyutoy chmaroke” - kayponili, nimeryashveya sh Mollii izsya tsinsoraki-geltoy nemenilti。”
+
+5. 一个花瓶映在一面大镜子里。丽塔将镜子移动了一米，镜子中的倒影也移动了一米。热尼亚将镜子移动了一米，倒影移动了两米。莉莉将镜子移动了一米——镜子里的倒影根本没有移动。格里沙没有碰镜子，但镜子的反射把他的LOB移动了一米。你如何解释这一切？
+
+这些任务是由以下人员向我们提供的：L. P. Mochalov、A. P. Savin、N. K. Antonovich、S. V. Dvoryaninov、N. Yu。涅楚夫塔耶夫

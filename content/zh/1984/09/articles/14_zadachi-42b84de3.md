@@ -1,0 +1,39 @@
+---
+id: 1984-9-zadachi-42b84de3
+issue: kvant_1984_9
+year: 1984
+number: "9"
+title: 任务
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 31
+page_last: 31
+page_labels: "29"
+tag: SE5C
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 44ccee6d47d9674c986c0b9d3443ccec8c25a2a116932c31a57fd1c428f72dcc
+prompt_sha256: draft-1
+translated_from: content/ru/1984/09/articles/14_zadachi-42b84de3.md
+source_content_sha256: 159349876b5df760edb0ea6c8a5903a6af89d28848fe9592713f450d5ee32b48
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 29⟧
+
+锻炼
+
+1. 是否可以在 400 位数字 84198419...8419 中划掉开头和结尾的几位数字，使剩余数字之和等于 1984？
+
+2. 将不等于 0 的数字放入 4x4 表格的单元格中，使每个 2x2、3x3 和 4x4 正方形角上的数字之和等于 0。
+
+3. 该系列中的数字为 1 2...100。两名玩家轮流将 +、- 和 × 符号放置在他们之间（下一个符号可以放置在任何空闲空间上）。证明第一个（也是最后一个）移动的玩家可以确保最终结果是奇数。
+
+4. 175 Shaltayev比125 Boltaev贵，但比126 Boltaev便宜。证明如果每个 Shaltai 和每个 Boltai 的成本均为整数戈比，则卢布不足以购买 3 个 Shaltai 和 1 个 Boltai。
+
+5. 铰接四边形 ABCD 的连杆 AB 和 CD 相交于点 O；在这种情况下AB=CD并且BC=AD。证明AO=CO 且BO=DO。
+
+这些任务是在规模最大的第 50 届列宁格勒奥林匹克竞赛中为 5 至 7 年级学生提供的。他们的作者：A. G. Goldberg、S. L. Genkin、S. V. Fomin。

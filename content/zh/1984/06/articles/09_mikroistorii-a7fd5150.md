@@ -1,0 +1,49 @@
+---
+id: 1984-6-mikroistorii-a7fd5150
+issue: kvant_1984_6
+year: 1984
+number: "6"
+title: 微观故事
+rubric: kvant-ulybaetsya
+rubric_sub: «Квант» улыбается
+page_first: 47
+page_last: 47
+tag: 7HLH
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: f80cc94dbf6ad4fd7f2b2271db96282ce2444088cfffe26c0eebe25ea34d3cb7
+prompt_sha256: draft-1
+translated_from: content/ru/1984/06/articles/09_mikroistorii-a7fd5150.md
+source_content_sha256: f73428b9f135c6fc9eb20cac2182381d16f07447db395c81c6f0db1c1ca48991
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+量子已被消灭
+微观故事
+
+W. Weiskopf 讲述的关于 N. Bor 的故事
+
+有一天，一位物理学家同行走进尼尔斯·玻尔的办公室，令他惊讶的是，他看到门上钉着一只马蹄铁。
+- 教授，你真的相信这个吗？
+“不，当然，”玻尔平静地回答，“但他们说马蹄铁可以帮助那些不相信它的人……”
+（Shelest V.P. New Kruts. M.：Atomizdat，1978 年。）
+
+后科学史
+
+1820 年 9 月 18 日，大拉普拉斯出席了巴黎科学院的一次会议，当时阿姆勒首次证明了电流的电动相互作用——当电流通过两个导体时，它们会相互位移。他们说，讲座结束后，当观众满怀感动地离开时，拉普拉斯停在门口，等待协助安培的丹尼尔·科拉登。当他走近时，性格小而多疑的拉普拉斯拍了拍科拉登的肩膀，凝视着他的眼睛，说道：“现在，年轻人，承认吧！毕竟，是你推动了电线。”
+（基于 Liushchia M. 物理史的材料。M.: Mir, 1970。）
+
+I.K. Kikon 讲述的故事
+
+这发生在20世纪20年代末的列宁格勒。电影制片厂与一群物理学家一起，负责制作一部有关物理的科普电影。这群物理学家中有艾萨克·康斯坦丁诺维奇·基科因 (Isaac Konstantinovich Kikoin)，他当时还是 RENT 物理与技术研究所的一名年轻员工。
+
+根据场景，有必要通过同类电荷的排斥来消除经验。在排练时，我拿了一个赛璐珞球，并用一根带电的硬橡胶棍放在它上面，球正确地弹了起来。之后我们就开始拍摄。电机、摄像头……将棍子拉到球上 - 没有效果。
+
+然后剧本稍作改动。实验室助理用绳子握住球，拿一根棍子放在上面，I.K.基科因站在附近，不知不觉地推了球。拍摄进行得很顺利。
+
+为什么如此简单的“真实”体验没有发生？事实是，在那些年里，摄影时使用大功率灯进行照明，发出紫外线，通过电离效应使其导电。很明显，一旦灯打开，球和棒上的电荷就会通过导电效应迅速耗尽。
