@@ -1,0 +1,52 @@
+---
+id: 1978-10-abramovich-priznaki-delimosti-na-l-f2e03b85
+issue: kvant_1978_10
+year: 1978
+number: "10"
+title: 测试可被 l 整除
+authors:
+  - Абрамович В. С.
+rubric: osnovnye-stati
+page_first: 27
+page_last: 27
+page_labels: "25"
+tag: HITX
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: dd75bedcd80228434d1056ab943d8127eb154fc846c3319972bf515754fcc32b
+prompt_sha256: draft-1
+translated_from: content/ru/1978/10/articles/08_abramovich-priznaki-delimosti-na-l-f2e03b85.md
+source_content_sha256: 42595d4813903ac0a7b9f0e09caa26eca4c0d8ed86d167b073e5dfde7f799d59
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 25⟧
+
+V·阿布拉莫维奇
+
+测试能否被 1 整除
+
+有时，在包括«Kvant»在内的各种出版物的页面上，越来越多新的、有时非常奇特的、可被各种数字整除的符号引起了读者的注意。
+
+人们常常问：可分性的新迹象是如何被发现的？是否真的有可能每次他们用数字进行一长串的大规模计算，然后，如果他们成功了，他们就会试图证明最可能的猜测？
+
+好吧，这样的道路对于任何“修补”数字的人来说都不是负担，而且如果成功的话，虽然很小但发现的道路会完全得到喜悦的回报。
+
+然而：难道没有某种通用的整除性符号方法吗？
+
+笔者对这个问题很感兴趣，并尝试回答一下。由此产生的结果，读者可以在注释中找到。
+
+早在四年级的时候，你就知道一个自然数可以被 3 整除当且仅当它的各位数字之和可以被 3 整除 *)。
+
+你可以这样想象这个问题：用通常的（十进制！）数字表示法
+
+$$n = a_1 a_2 \dots a_t = a_1 a_2 \dots a_t^{(10)}$$
+
+每块砖的编号越靠左越重要：
+
+$$n = a_t + 10 a_{t-1} + 10^2 a_{t-2} + \dots + 10^{t-1} a_1;$$
+
+*) 更准确地说：其十进制表示法的数字之和（以十进制数字系统记录）。最有可能的是，到目前为止，您只认识到十进制数字系统中的自然数，甚至还没有考虑过它。那么好吧！也许暂时“别想它”。要阅读本文，您很快就需要了解什么是 m 进制数系统（m 是大于 1 的任意自然数）。您可以在 «Kvant», 1975, No. 8, p. 中阅读有关数字系统的内容。 59 或 S. V. Fomin 的小册子“数字系统”（M.，“Hayka”，1975）。

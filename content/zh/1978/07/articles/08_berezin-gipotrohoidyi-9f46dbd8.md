@@ -1,0 +1,40 @@
+---
+id: 1978-7-berezin-gipotrohoidyi-9f46dbd8
+issue: kvant_1978_7
+year: 1978
+number: "7"
+title: 下摆轮线
+authors:
+  - Березин В. Н.
+rubric: smes
+page_first: 34
+page_last: 34
+page_labels: "32"
+tag: B9JZ
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 839880bd77af3d7bdcd3fdf9db1b7aea1c5c779a3ebc2ca5dcf400e58779805a
+prompt_sha256: draft-1
+translated_from: content/ru/1978/07/articles/08_berezin-gipotrohoidyi-9f46dbd8.md
+source_content_sha256: 9ac51ff6b0fe461111d254621da9409c5abe0c06cdcbf6e67d44fe81894c504e
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 32⟧
+
+此后，每当一条虚线落在平行四边形的一侧（直线 $y = 0, y = 5, z = 0, z = 3$）时，我们就将这一侧视为一面镜子。 （镜面反射规则的解释是，平行于原三角形边的虚线的每一段都对应着将液体从一个容器倒入另一个容器的操作，而此时第三个容器没有被接触。）从而得到解$(8, 0, 0) \rightarrow (3, 5, 0) \rightarrow (3, 2, 3) \rightarrow (6, 2, 0) \rightarrow (6, 0, 2) \rightarrow (1, 5, 2) \rightarrow (1, 4, 3) \rightarrow (4, 4, 0)$和解$(8, 0, 0) \rightarrow (5, 0, 3) \rightarrow (5, 3, 0) \rightarrow (2, 3, 3) \rightarrow (2, 5, 1) \rightarrow (7, 0, 1) \rightarrow (7, 1, 0) \rightarrow (4, 1, 3) \rightarrow (4, 4, 0)$。显然，只有当数字$a$和$b$互质时，才可以在$h = a = b + c$情况下测量任何整数升液体。
+
+下旋骨类
+
+封面第一页上的图是由计算机制作的，描绘了一系列闭合曲线 - 下旋肌。
+
+次摆线是由与圆$(O_2, r)$刚性连接的点所画的线，沿直线滚动而不滑动。当圆 $(O_2, r)$ 不是沿直线滚动，而是沿着静止圆 $(O_1, R)$ 滚动，从内部接触它时，点 $M$ 与圆 $(O_2, r)$ 刚性连接，描述了下旋肌。很明显，伦敦循环（«Kvant»，1978，第 4 期，第 13 页）是下旋软骨的特例，hypopyclonda（见同上）是下旋软骨的特例。
+
+这里在 图 上描绘了点 $M_1, M_2, M_3$，严格连接到圆 $(O_2, r)$，其中 $r = \frac{R}{3}$。这些点的位置使得 $M_1\overset{\frown}{O_2}M_2 = M_2\overset{\frown}{O_1}M_1$ 和 $|O_2M_2| - |O_2M_1| = |O_2M_3| - |O_2M_2|$。 （因此，点 $M_1, M_2$ 和 $M_3$ 位于阿基米德斜线上 - 参见 «Kvant»，1976 年，第 6 期，第三封页）。
+
+封面上显示的下旋骨科由点 $M_1, M_2, M_3, \dots, M_{10}$ 描述，以类似的方式排列。在 $|O_2M_i| < 2R/3$ 处，下转子是一条闭合的自相交线，它是一个顶点有环的凹曲线三角形。如果$|O_2M_i| > 2R/3$，那么我们得到一条形式稍有不同的闭合自相交线：它由三个凸花瓣组成，其交集是一个凸弯曲三角形。
+
+V·贝雷津

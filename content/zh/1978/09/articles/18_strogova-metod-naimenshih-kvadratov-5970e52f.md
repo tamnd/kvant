@@ -1,0 +1,76 @@
+---
+id: 1978-9-strogova-metod-naimenshih-kvadratov-5970e52f
+issue: kvant_1978_9
+year: 1978
+number: "9"
+title: 最小二乘法
+authors:
+  - Строгова А.
+rubric: raznoe
+page_first: 53
+page_last: 53
+page_labels: "51"
+tag: 3IBN
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 278550bcf35d245166fba37646f66c5606dbd3ef667f698c40191ea63b20f936
+prompt_sha256: draft-1
+translated_from: content/ru/1978/09/articles/18_strogova-metod-naimenshih-kvadratov-5970e52f.md
+source_content_sha256: 904ad1796188bb454acc77149967eac6cf623f090b2365ff397f9aacea95d10c
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 51⟧
+
+在处理测量值时使用最小二乘法来消除实验的“噪声”：在指定测量值对自变量的依赖性的性质时，此方法允许您纠正测量过程中不可避免地出现的随机误差。
+
+让我们考虑最简单的情况，当测量量 $y$ 取决于一个变量 $x$ 时。假设已经进行了$n$测量，并且对于变量$x$的值$x_1, x_2, \dots, x_n$，已经获得了$y_1, y_2, \dots, y_n$测量。该任务包括绘制一条直接适用于点 $P(x_1; y_1), P(x_2; y_2), \dots, P(x_n; y_n)$ 的直线 $y=ax+b$。
+
+当然，问题的解决取决于“最佳相邻”一词的概念，即“最佳”被认为是偏差平方和取最小值的直线，即表达式
+
+$$A_n = \sum_{i=1}^{n} (y_i - (ax_i + b))^2. \tag{1}$$
+
+在 图 上描绘了所需的线 $y=ax+b$ 和点 $P_1, \dots, P_n$。差值$y_i - (ax_i + b)$表示实验点$P_i (x_i, y_i)$相对于原始直线的偏差（沿纵轴）。
+
+如何求最小化表达式(1)的$a$和$b$的值？假设这样的值存在，并且参数$a$已经为我们找到了。为了找到$b$，我们将$A_n$重写为
+
+$$A_n = \sum_{i=1}^{n} (y_i - ax_i)^2 - \sum_{i=1}^{n} 2b (y_i - ax_i) + \sum_{i=1}^{n} b^2 - 2b \sum_{i=1}^{n} (y_i - ax_i) + \sum_{i=1}^{n} (y_i - ax_i)^2.$$
+
+![Graph of $A_n$](image)
+
+将 $A_n$ 视为 $b$ 的（二次）函数。它达到最小值
+
+$$b = \frac{1}{n} \sum_{i=1}^{n} (y_i - ax_i) = \frac{1}{n} \sum_{i=1}^{n} y_i - \frac{a}{n} \sum_{i=1}^{n} x_i.$$
+
+推杆
+
+$$\bar{x} = \frac{1}{n} \sum_{i=1}^{n} x_i; \bar{y} = \frac{1}{n} \sum_{i=1}^{n} y_i$$
+
+我们可以写 $b = \bar{y} - a\bar{x}$，从那里我们可以得到 $A_n$
+
+$$A_n = \sum_{i=1}^{n} ((y_i - \bar{y}) - a (x_i - \bar{x}))^2 = a^2 \sum_{i=1}^{n} (x_i - \bar{x})^2 - 2a \sum_{i=1}^{n} (y_i - \bar{y}) (x_i - \bar{x}) + \sum_{i=1}^{n} (y_i - \bar{y})^2.$$
+
+现在让我们将 $A_n$ 视为 $a$ 的平方函数。她的访问权限最低限度为：
+
+$$a = \sum_{i=1}^{n} (y_i - \bar{y}) (x_i - \bar{x}) / \sum_{i=1}^{n} (x_i - \bar{x})^2.$$
+
+最好的直线是直线 $y=ax+b$，其中
+
+$$\frac{\sum_{i=1}^{n} (y_i - \bar{y}) (x_i - \bar{x})}{\sum_{i=1}^{n} (x_i - \bar{x})^2}, \frac{\bar{x} \sum_{i=1}^{n} (y_i - \bar{y}) (x_i - \bar{x})}{\sum_{i=1}^{n} (x_i - \bar{x})^2}, b = \bar{y} - \frac{\sum_{i=1}^{n} (y_i - \bar{y}) (x_i - \bar{x})}{\sum_{i=1}^{n} (x_i - \bar{x})^2}.$$
+
+锻炼
+
+1. 使用高斯方法解决以下单变量非线性函数的平滑噪声问题
+a) $y=ax^2+bx+c$;
+b) $y=a \cdot \cos x+b \cdot \sin x$.
+2. 高斯方法如何在空间中“工作”（对于两个自变量）？让我们考虑飞机$z=ax+by+c^*$的问题。
+3. 找出对应的点
+a) 距三个给定点（不在同一直线上）的距离之和最小；
+b) 距三个给定圆的距离之和最小。
+
+A·斯特罗尤瓦
+
+*）封面«Kvant»第8号的第一页给出了该问题的几何图示。

@@ -1,0 +1,47 @@
+---
+id: 1978-9-mayer-reaktsiya-vyitekayuschey-i-vtekayuschey-struy-9bb4d312
+issue: kvant_1978_9
+year: 1978
+number: "9"
+title: 流出和流入射流的反应
+authors:
+  - Майер В. В.
+rubric: laboratoriya-kvanta
+rubric_sub: Лаборатория «Кванта»
+page_first: 22
+page_last: 22
+page_labels: "20"
+tag: ES70
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 971cd4f6c3a80134d3012697b0369cfc4c8664745ce7ebc5465e74ebcb63c66c
+prompt_sha256: draft-1
+translated_from: content/ru/1978/09/articles/05_mayer-reaktsiya-vyitekayuschey-i-vtekayuschey-struy-9bb4d312.md
+source_content_sha256: 7ae4376c6dec700dc1447a3bd6a81227528cc2ae951a22cae5756206f5c5ae90
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 20⟧
+
+V·迈耶
+
+流出和流入射流的反应
+
+想象一下，筏子上有一个装有活塞的容器，里面装满了水，一根管子（图1）从水箱引出船外。如果活塞下降，一股水流就会从管道中流出，筏子显然会沿着与水流中水运动方向相反的方向启动。如果抬起活塞使水流进入容器会发生什么？
+
+图 1.
+
+作为一个生理和心理实验，这个问题是由一名小学生、一名物理老师和一名大学教授提出的。在大多数情况下，他们一致表示，当然，筏将开始朝着通过管道进入容器的液体流移动。这是正确的吗？
+
+因此，您会感受到所提出的问题的非平凡性质，然后，在时间结束时，它引起了杰出的俄罗斯科学家朱可夫斯基的注意。而且，朱可夫斯基解决了这个问题：他首先近似证明流入容器的液体的反应很小，然后才严格证明它等于零！朱可夫斯基提出的理论并不简单，这里没有必要考虑它。
+
+您可以想出许多漂亮的实验来观察流入和流入射流的反应。茹科夫斯基描述了其中一些。
+
+“实验证实了我们发现的逆反应微不足道的结果。我们安装了容器（图 2和3），用软木浮子支撑在水面上，并通过轻微的泵作用与古塔胶管连通。通过吹入和吹出空气，我们使水从容器中流出或流入容器中。同时，我们发现，无论吸入多少水，容器都保持静止不动，并立即开始移动，如水一被推出来。
+
+图 2.
+
+图 3.
