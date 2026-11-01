@@ -1,0 +1,26 @@
+---
+id: 1977-4-zadacha-ob-ornamente-469f2ce1
+issue: kvant_1977_4
+year: 1977
+number: "4"
+title: 饰品问题
+rubric: smes
+page_first: 2
+page_last: 2
+tag: Y59X
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 889180dbeec26ea871fabbbf60f46f910681538d852418b14ad9dc3ab9cdd4bf
+prompt_sha256: draft-1
+translated_from: content/ru/1977/04/articles/03_zadacha-ob-ornamente-469f2ce1.md
+source_content_sha256: 1b0c5d0093e0e9ff555d8fa78297e9f3b01be21bb6b83d1e7f63261d37eaf256
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+构造这个装饰品的原理非常简单：正方形的每条边被分成两个相等的部分，所有分割点通过线段成对地相互连接。
+尝试回答与此装饰品相关的一系列问题。正方形内的线段相交于多少点？三线段、四线段、跟部等相交的交点有多少个？顶点位于交点的正方形的边上可以有多少个交点（找出最多和最多的数字）？ 图 上是否存在其他正多边形？我们正在等待您的来信和答复。

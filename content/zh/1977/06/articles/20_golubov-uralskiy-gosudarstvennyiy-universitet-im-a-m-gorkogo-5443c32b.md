@@ -1,0 +1,79 @@
+---
+id: 1977-6-golubov-uralskiy-gosudarstvennyiy-universitet-im-a-m-gorkogo-5443c32b
+issue: kvant_1977_6
+year: 1977
+number: "6"
+title: 乌拉尔国立大学由此得名。高尔基
+authors:
+  - Голубов Э. А.
+rubric: ekzamenatsionnye-materialy
+page_first: 81
+page_last: 81
+page_labels: "79"
+tag: IUUE
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: a3ba3210655b9cbf10c78a9285879cb8805adc963de08491e4d64b9f974b6057
+prompt_sha256: draft-1
+translated_from: content/ru/1977/06/articles/20_golubov-uralskiy-gosudarstvennyiy-universitet-im-a-m-gorkogo-5443c32b.md
+source_content_sha256: bfe23ce7da68fa4af604529f09a2fe1fc3498885a5c0aefebfb9ac63140cbcd5
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 79⟧
+
+5. 给定一个半径为 $R$ 的球和一个切割平面。众所周知，被给定平面截断的球的较小部分的总表面积比球的表面积小 $k$ 倍。确定从球中心到给定切割平面的距离。
+
+地质学院、经济学院政治经济系
+
+1. 为了在正确的时间到达$B$点，我自动以$64 \text{ km/час}$的速度离开$A$点。他以这样的速度开了三个小时。然后交通堵塞迫使他停下来。 Protsyarov 50分钟，自动决定沿着路线行驶到点$B$，因此他的距离增加了31公里。结果，尽管他在第二段路程的行驶速度比第一段快了6公里/小时，但还是迟到了$B$点1小时5分钟。沿着您自动想要到达点 $B$ 的道路，找到点 $A$ 和 $B$ 之间的最短距离。
+
+2. 解方程
+$$16 \cos^2 x = 6 \cdot 4^{-2} \sin^2 x + 1.$$
+3. 解决不平等问题
+$$3x + \sqrt{5x - 1} < 1.$$
+4. 解方程
+$$\log_{(x+1)}(1 - 3x) = -1 + \log_{\sqrt{1-3x}}(1 - 2x - 3x^2).$$
+5. 在直角三角形中，一个锐角是另一个锐角的两倍，边长之和为$l$。求三角形的面积。
+
+生物与地理学院
+
+1. 团队完成了工作计划的98%。将每个工人工作的随机性增加整个团队计划工作量的 1/20，通过释放三个人来执行其他任务，可以将工作完成 132%。大队里有多少人？
+
+2. 解决不平等问题
+$$\log_a x > \sqrt{\frac{6}{(\log_a x - 1) \log_x a}}.$$
+3a（仅适用于生物系）。解方程
+$$\cos 3x \cdot \sin^3 \left(x + \frac{\pi}{6}\right) - \sin 3x \cdot \cos^3 \left(x + \frac{\pi}{6}\right) = -\frac{1}{8}.$$
+36（仅适用于地理学院）。解方程
+$$\frac{2(\cos^3 x - \cos 3x)}{3 \sin x} = 1 + 5 \cos 2x.$$
+4. 等边三角形$ABC$，$|AB| = |AC|$，$\hat{A} = \alpha$，面积等于$S$，有一个内接正方形，其一条边位于三角形的底边。求从顶点 $A$ 到正方形顶点的最小距离。
+
+5. 识别的底面是一个边长为$a$的正方形，侧边与底面平面成锐角$\alpha$倾斜，其中一条投影包含正方形的对角线。从正方形的顶点（其边与穿过该正方形的对角线形成锐角）画一个割平面，该割平面与另一对角线平行，与底平面成 $\beta$ 角。假设截面不与顶部与底部相交，求横截面积。
+
+V.奥西诺夫、A.谢佩利亚沃伊
+
+乌拉尔国立大学由此得名。高尔基
+
+«Kvant»，1973年第7期，我们谈到了以乌拉尔红旗勋章命名的劳动州立大学。 A.M.高尔基。在本期中，我们提供了 1976 年数学、力学和物理学院的数学笔试选项和物理口试问题示例。
+
+数学
+
+数学与力学学院
+
+1. 对于参数 $m$ 的值，方程 $mx^2 + x + m = 0$ 的根 $x_1, x_2$ 是实数、不同的且满足不等式 $|x_1 - x_2| + (x_1x_2)^m + x_1 + x_2 \leq 0$？
+
+2. 平行六面体的所有面均为菱形，边长为 $a$，锐角为$\alpha$。求这个平行六面体的体积。
+
+3. 找到 $x$ 满足同时条件的所有值：$\cos x - \cos 11x = 0$、$\cos 2x + \sin 3x = 1$、$|x| < 3$。
+
+4. 解方程
+$(\log_t g_x \cos x + 2) \log_t g_x \cos x = 2 - \log_ct g_x \cos x$.
+
+物理学院
+
+1. 宇宙飞船$A$从地球被送往恒星$X$，12年后——宇宙飞船$B$。两台设备都到达了目标，并且没有离开，而是朝地球飞去。设备$B$比$A$早返回8年。 $A$推出后多少年，这些设备相遇了，如果在$A$达到$X$的那一刻，$B$已经通过了$X$的9/10？设备的速度和到恒星的距离被认为是恒定的。
+
+2. 直立平行六面体的底面内接于半径为 $R$ 的圆。然而

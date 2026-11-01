@@ -1,0 +1,69 @@
+---
+id: 1977-3-mochalov-golovolomki-deca0926
+issue: kvant_1977_3
+year: 1977
+number: "3"
+title: '[谜]'
+authors:
+  - Мочалов Л. П.
+rubric: smes
+page_first: 20
+page_last: 20
+page_labels: "18"
+tag: DH3P
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 8d4734e7a0f1bd565959c7b20a8200eb9749cd98c40882f85bbe9d3d3288315e
+prompt_sha256: draft-1
+translated_from: content/ru/1977/03/articles/08_mochalov-golovolomki-deca0926.md
+source_content_sha256: a457abb5c74909617a1626f614532f4f17ecf4210e08e68496dbdee75da85a62
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 18⟧
+
+图 3.
+
+播种取决于粒子的速度（其能量）和撞击距离：
+
+$$\text{ctg} \frac{\theta}{2} = Cv^2 d$$
+
+(*)
+
+（C 是一个常数，取决于原子的“类型”）。这个公式不可能直接在α粒子散射实验中得到验证——撞击距离d是无法测量的。但是使用我们的力学模型，我们可以获得散射角对撞击距离的依赖性。而如果实验数据能用类似(*)的公式很好地描述，这将再次证实我们对卢瑟福实验的力学分析的有效性。
+
+图 3 中说明了创建峰值的技术研究和可用选项之一。这里，为了创建潜在峰值，使用了薄橡胶板（2-3 毫米厚），将其固定在胶合板上，在胶合板上切有直径 20-25 厘米的圆孔（模型越大，使用越方便）。应该记住，散射角对击球距离的依赖性应该随着球速的固定值而变化。
+
+所以你应该考虑如何“发射”球（斜面、步枪手枪等）。
+
+使用固定撞击距离的简单装置（例如水平面上的导向槽），您可以对此模型进行实验，以获得散射角对粒子速度的依赖性。
+
+编辑«Kvant»要求您描述为您发明和实施的设计以及您的实验结果。
+
+来自“例子”的问题
+
+例子
+瑞默
+浸入式
+MMMER
+犯错
+右
+
+任务
+
+什么是“例子”？一个？
+
+一条蜿蜒的小路
+
+从左上角的方块开始，移动到右下角，步
+
+仅通过方块的侧面焊接（而不是通过顶点！）并将每个白色方块升高一次（您不能输入彩色方块）。
+
+魔法阵
+
+将 1 到 10 的数字放在 图 上的黑色圆圈中，使四个红色圆圈中的数字之和相同。
+
+L·莫察洛夫
