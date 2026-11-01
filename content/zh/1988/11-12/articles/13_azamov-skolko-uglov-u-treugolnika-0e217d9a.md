@@ -1,0 +1,62 @@
+---
+id: 1988-11-12-azamov-skolko-uglov-u-treugolnika-0e217d9a
+issue: kvant_1988_11-12
+year: 1988
+number: 11-12
+title: 三角形有多少个角？
+authors:
+  - Азамов А. А.
+rubric: kvant-ulybaetsya
+rubric_sub: «Квант» улыбается
+page_first: 48
+page_last: 48
+page_labels: "46"
+tag: IYXO
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 7acc51f35162052d59b79c6945a0f634d7852a44fe31b88e11ff65fe1bf35e11
+prompt_sha256: draft-1
+translated_from: content/ru/1988/11-12/articles/13_azamov-skolko-uglov-u-treugolnika-0e217d9a.md
+source_content_sha256: 4d3caff9b41ae3c1560f2401b4d1aba2f1123e361ae6f3d8749ba9ad727b7e3e
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 46⟧
+
+三角形有多少个角？
+
+- 当然是三个。它被称为三角形。
+
+- 嗯，一般来说，有三个内角。如果你数一下三角形的所有内角，包括外角，那么就有十个。
+
+- 外角与它有什么关系？
+
+- 尽管事实上他问的不是“有多少个内角？”，而是“三角形有多少个角？”三角形的外角是与通用概念“三角形的角”相关的特定概念，因此外角是三角形的角。
+
+- 我不同意。将形容词添加到名词并不总是突出特殊情况。否则，我们将不得不寻找具有两个边界的三角形的角度、立体角等。
+
+- 此外，当绘制三角形时，图像
+
+只影响内角。
+
+- 你们都错了。三角形有六个角！
+- 这是为什么？
+
+- 因为从里面看有三个角，从外面看还有三个角。他们被描绘了！
+
+- 在本例中，每个顶点有 4 个，总共有 12 个角度。
+
+- 这取决于您的计数方式：在每个顶点您最多可以看到 12 个，总共有 36 个角度。
+
+——这太过分了！
+- 一点也不。如果我们考虑到每条射线定义两个大小为 0° 和 360° 的角度，那么它们就有 60 个。六十七！
+
+— 当他们说“三角形的角”时，它的边在心理上延伸到射线。
+
+- 也许这对你来说还不够？
+- 是的！三角形的角极其暗，有无数个。
+
+（结局见第56页）
