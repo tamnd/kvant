@@ -1,0 +1,62 @@
+---
+id: 1977-12-berezin-kardioida-f4a5944c
+issue: kvant_1977_12
+year: 1977
+number: "12"
+title: 心形
+authors:
+  - Березин В. Н.
+rubric: raznoe
+page_first: 35
+page_last: 35
+page_labels: "33"
+tag: NOC7
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: ab7a5daabae08852d6c30b5695675319c9522adf52a96c33a5485bc218d60065
+prompt_sha256: draft-1
+translated_from: content/ru/1977/12/articles/09_berezin-kardioida-f4a5944c.md
+source_content_sha256: 78fc2e9efc28f4017de71c78aa6433654d74ba4fb96f23bc509d99aca4434d35
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 33⟧
+
+卡杜翁
+
+Cardiona 是位于圆 (O₁, a) 上的点 M 的轨迹，该圆沿相同半径 (图 1) 的静止圆 (O, a) 滚动。在初始位置，M 点位于称为心带的固定圆的 A 点。在 图 1 上，很明显，cardion 在条带上有一个岛。基于上面的定义，我们将展示构建 Cardion 的其他方法及其一些属性。
+
+心轴在其任意点 M 处的切线穿过运动圆的点 P，该点与它与固定圆的切线 Q 的点在直径上相对（这与 «Kvant»，1977 年，第 3 期，第 19 页中的证明方式相同）。
+
+由于加载了∪ QM 和∪ QA，M 点相对于动圆和定圆的公切线 NQ 与条带 A 对称。因此，圆(Q，|QA|)将穿过点M。由于角度PMQ是质数，所以心PM的切线也将与圆(Q，|QA|)相切。对于固定圆上点 Q 的多个位置，可以将心的位置作为外接圆族 (Q, |QA|) 来获得。
+
+线段 AN 的长度是 1/2 |AM|。因此，N点描述了我们刚才看到的精确准备的卡丁，中心在A点准备好，准备系数等于1/2。要画一个“小”心形，您可以使用一个正方形，其一条腿在所有位置都穿过 A 点，第二条腿接触一个固定的圆。那么直角N的顶点将描述这个心形。
+
+令 AM ∩ (O, a) = T (图 2)。在四边形 OO₁MT 中，两条边平行（AM || OO₁，因为它们有公共垂线 NQ），另外两条边全等。这意味着 OO₁MT 是等边梯形或平行四边形。从 MO₁Q = AOQ 可以得出
+
+$$MO_1Q = AOQ$$
+
+图 1.
+
+图 2.
+
+图 3.
+
+OO₁MT 是平行四边形。因此，可以通过在从点 T 开始的直线 AT（对于点 T 在固定圆上的所有可能位置）上绘制长度为 |OO1| 的线段 TM 来构造 Cardion。 = 2a。将其放在 T 两侧，我们得到整个 Cardion*)。
+
+证明 Cardion 的极坐标方程 («Kvant», 1977, No. 7, p. 46) 具有形式 ρ = 2a (1 + cos φ)，如果将 Cardion 条带 A 置于极系条带后面，且极轴沿 AO (图 2) 方向。
+
+图3需要构造cardion的方法，这将在封面的第二页上讨论。点 B 在此显示了可移动圆沿固定圆滴到其长度的灌溉上之后点 M 的位置。线段 PC 与线段 PB 相对于半径 OP 对称，因为 MPO₁ = 1/2 MO₁Q = 1/2 QOA = O₁PB 且 B ε (O, |OP|), C ε (O, |OP|)。因此BP |= |PC|。另外，PC是cardion的切线。
+
+现在让我们想象一下，光源放置在 B 点。很明显，cardion 描述了从圆 (O, |OP|) 反射的光线。因此，cardion 是这个圆的一个露天广场（«Kvant»，1977，第 9 期，第 43 页）。
+
+证明，如果某个圆内切一个两倍半径的圆，那么当“大”圆沿着“小”圆滚动时，它的任意点都会描述卡丁。
+
+用 a 表示 图 3 上“蓝色”棒的长度。
+
+V·贝雷津
+
+*) 这种构造 Cardion 的方法已经在《Pascal’s Snail》一书中毫无道理地提出过（«Kvant»，1977 年，第 5 期，第 36 页）

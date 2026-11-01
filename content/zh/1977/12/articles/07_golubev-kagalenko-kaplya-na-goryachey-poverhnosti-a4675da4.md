@@ -1,0 +1,43 @@
+---
+id: 1977-12-golubev-kagalenko-kaplya-na-goryachey-poverhnosti-a4675da4
+issue: kvant_1977_12
+year: 1977
+number: "12"
+title: 滴在热表面上
+authors:
+  - Голубев М.
+  - Кагаленко А.
+rubric: laboratoriya-kvanta
+rubric_sub: Лаборатория «Кванта»
+page_first: 30
+page_last: 30
+page_labels: "28"
+tag: UT7E
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: ae2bd702812999d5da1500d99cdb0daeb5f9814a24c2b7c4f81ca95fadd88073
+prompt_sha256: draft-1
+translated_from: content/ru/1977/12/articles/07_golubev-kagalenko-kaplya-na-goryachey-poverhnosti-a4675da4.md
+source_content_sha256: 5e881cdca6a3cc65ea7ab924f8dda6bfc095437c4e75bdeedf59d7b37b1b6443
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 28⟧
+
+滴在热表面上
+
+放眼世界，不禁让人惊叹。
+K·普鲁特科夫
+
+水平放置后，在上面滴一点水。如果温度在 100 °C 左右（略高于 100 °C），则不会发生任何特殊情况。水滴在鸭子的表面生长，并在几秒钟内迅速蒸发。如果温度明显超过 100 °C (350-500 °C)，图片将会有所不同。落在鸭子上的水滴会像球一样从地板上反弹（低至 1-5 毫米的高度），然后在不接触加热表面的情况下移动。这种状态的稳定性首先取决于表面温度——表面越热，液滴的行为能力就越强。此外，从滴落到完全蒸发所需的时间增加了 100-200 倍。此外，液滴蒸发的速度取决于其尺寸：较大的液滴尺寸会迅速减小至 3-5 毫米，而较小的液滴会“存活”相当长的时间而不会出现明显变化。在我们的一项实验中，直径为 3 毫米的液滴持续约 5 分钟（300 秒）直至完全蒸发。
+
+水滴表面如此奇怪的原因是什么？让我们回到实验的开始——一滴水落在炎热的表面上。初始时刻温度约为20°C。然后，在瞬间，下层加热到 100°C，并且开始剧烈蒸发，导致形成的水蒸气的压力变得大于水滴的重力。水滴跳跃，然后再次落在 utog 上。只需跳跃几次，水滴中的所有水就会升温至沸点。然后，当温度到达表面时，水滴迅速平静下来并开始在该表面上方的一定高度处移动。显然，在这种情况下，水蒸气的压力平衡了水滴的重力。在稳定状态下，下降相当稳定并且“存在”很长时间。
+
+注意水滴的形状。对于小尺寸，水滴形状。
+
+图 1. 烧瓶下降的阶段之一（拉伸最大的时刻）。中心的黑点是水滴内部形成的水蒸气气泡。
+
+图 2. 最有趣的烧瓶之一：“三角形”水滴，其中“凹陷”和“凸起”不断变换位置。
