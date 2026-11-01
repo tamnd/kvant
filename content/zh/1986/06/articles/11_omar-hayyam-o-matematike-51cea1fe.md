@@ -1,0 +1,42 @@
+---
+id: 1986-6-omar-hayyam-o-matematike-51cea1fe
+issue: kvant_1986_6
+year: 1986
+number: "6"
+title: '[奥马尔·海亚姆谈数学]'
+rubric: raznoe
+page_first: 28
+page_last: 28
+page_labels: "26"
+tag: E1Q1
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 7d05e0876d52f5c71beb9e116c0acdbb4a8f00a5b8e4cb17957ce08d18176d02
+prompt_sha256: draft-1
+translated_from: content/ru/1986/06/articles/11_omar-hayyam-o-matematike-51cea1fe.md
+source_content_sha256: f40c381e954a774763934ec6cb35ebb9dd1e45d6921dce0d35ae626e010aed46
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 26⟧
+
+图 2.
+
+mu材料，我们将通过归纳给出他们的直接证明。
+
+对于$n=2$，公式是众所周知的。令 $a_1, a_2, a_3, ..., a_n$ $a_{n+1}$ 为帕斯卡三角形的第 $n$ 行。让我们假设公式$\cos nx = a_1\cos^n x - a_3\cos^{n-2}x\sin^2x + ...,$$\sin nx = a_2\cos^{n-1}x\sin x - a_4\cos^{n-3}x\sin^3x + ...$已经被证明。使用总和 $\cos(n+1)x = \cos(nx+x) = \cos nx\cos x - \sin nx\sin x = (a_1\cos^n x - a_3\cos^{n-2}x\sin^2x + ...)\cos x - (a_2\cos^{n-1}x\sin x - a_4\cos^{n-3}x\sin^3x + ...)\sin x.$ 的余弦公式打开括号并重新排列各项，我们得到：
+
+$$\cos(n+1)x = a_1\cos^{n+1}x - (a_2+a_3)\cos^{n-1}x\sin^2x + (a_4+a_5)\cos^{n-3}x\sin^4x - ...$$
+
+同样，使用公式$\sin(n+1)x = \sin nx\cos x + \cos nx\sin x$我们得到$\sin(n+1)x = (a_1+a_2)\cos^n x\sin x - (a_3+a_4)\cos^{n-2}x\sin^2x + ....$由于$a_1, a_1+a_2, a_2+a_3, a_3+a_4, ...$是帕斯卡三角形的第$(n+1)$行，我们已经证明了$\cos(n+1)x$和$\sin(n+1)x$所需的公式。
+
+结论。用指南针和尺子建造一个规则的巴塔贡（仅供好奇的人阅读！）。让$x=2\pi/5$。然后是$5x=2\pi$和$\sin 5x=0$。根据我们的公式$\sin 5x=5\cos^4 x\sin x-10\cos^2 x\sin^3 x+\sin^5 x=\sin x(5\cos^4 x-10\cos^2 x)(1-\cos^2 x)+(1-\cos^2 x)^2=\sin x(16\cos^4 x-12\cos^2 x+1).$
+
+D·V·福克斯
+
+从表达和证明的角度来看，称为数学的哲学分支是所有分支中最简单的......这个哲学分支为我们提供了灵活性，强化了信息，教导我们讨厌未说出来的东西，因为它的起点众所周知，它的证明很容易，其中想象力有助于推理并且很少有矛盾。
+
+奥马尔·卡伊姆
