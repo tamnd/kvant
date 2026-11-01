@@ -1,0 +1,67 @@
+---
+id: 1978-11-kurlyandchik-vyisokie-stepeni-21af13af
+issue: kvant_1978_11
+year: 1978
+number: "11"
+title: High degrees
+authors:
+  - Курляндчик Л. Д.
+rubric: matematicheskiy-kruzhok
+rubric_sub: Математический кружок
+page_first: 15
+page_last: 15
+page_labels: "13"
+tag: VWL9
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 596985dbdc7e237fcb997fc1d673e317cc47a9078e23626cf289489ccd08333f
+prompt_sha256: draft-1
+translated_from: content/ru/1978/11/articles/07_kurlyandchik-vyisokie-stepeni-21af13af.md
+source_content_sha256: 2f294b9158e9d295baa598b769a1508ba553b2abbd723a3786231bc564a92a2e
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 13⟧
+
+In this article we will compare numbers with each other. The constant question will be: which number is greater? Some of you may be thinking: “What is there to cope with! It is clear to everyone that ten is more than five, and one hundred is less than a thousand.” Well, after reading this note, you will probably agree that the answer to this question can be very, very difficult.
+
+Let's start with this task.
+
+Problem 1. Which number is greater: $2^{3100}$ or $3^{2100}$?
+
+Solution. Let us prove that $2^{3100} > 3^{2100}$. Indeed, $2^{3100} = 4^{\frac{3}{2}}$. Therefore, it is enough to prove that $\frac{3}{2} > 2^{100}$ or that $(\frac{3}{2})^{100} > 2$. But already $(\frac{3}{2})^2 > 2$, so $(\frac{3}{2})^{100}$ is even more than 2. From our solution it is clear that $2^{32} > 3^{22}$. From this fact (it is not difficult to verify directly) it is easy to derive another solution to the problem.
+
+The next task is a little more difficult.
+
+Problem 2. Which number is greater: $5^{10} + 6^{10}$ or $7^{10}$?
+
+First decision. Let us prove that $5^{10} + 6^{10} < 7^{10}$. Since $5^{10} + 6^{10} < 2 \cdot 6^{10}$, it is enough to prove that $(\frac{7}{6})^{10} > 2$. After it, the inequality follows from Bernulin’s inequality (“Algebra and the beginnings of analysis 9”, paragraph 2):
+
+$$\left(\frac{7}{6}\right)^{10} = \left(1 + \frac{1}{6}\right)^{10} > 1 + 10 \cdot \frac{1}{6} > 2.$$
+
+Second solution. Note that $5^3 + 6^3 = 341 < 343 = 7^3$.
+
+Therefore $\left(\frac{5}{7}\right)^3 + \left(\frac{6}{7}\right)^3 < 1$. Since $\left(\frac{5}{7}\right)^{10} < \left(\frac{5}{7}\right)^3$ and $\left(\frac{6}{7}\right)^{10} < \left(\frac{6}{7}\right)^3$; we get $\left(\frac{5}{7}\right)^{10} + \left(\frac{6}{7}\right)^{10} < 1$. So, $5^{10} + 6^{10} < 7^{10}$.
+
+Problem 3. Which of the ten numbers $1^{10}, 2^9, 3^8, 4^7, 5^6, 6^5, 7^4, 8^3, 9^2, 10^1$ is the largest?
+
+Solution. Obviously $2^9 > 1^{10}$. Let us prove that $3^8$ is greater than $2^9$. Indeed, $3^8 = 9^4 > 8^4 = 2^{12} > 2^9$. Now let's compare $4^7$ and $3^8$: $4^7 > 3^8 \Rightarrow \left(\frac{4}{3}\right)^7 > 3$. It remains to note that $\left(\frac{4}{3}\right)^7 = \left(1 + \frac{1}{3}\right)^7 > 1. + 7 \cdot \frac{1}{3} > 3$.
+
+So, of the first four numbers, the largest is $4^7$.
+
+Let us now prove that $4^7 > 5^6 > 6^5 > 7^4 > 8^3 > 9^2 > 10^1$. From $4^7 > 5^6 \Leftrightarrow \left(\frac{5}{4}\right)^6 < 4$ and $\left(\frac{5}{4}\right)^6 = \left(\frac{125}{64}\right)^2 < 2^2 = 4$ it follows $4^7 > 5^6$.
+
+Inequalities $5^6 > 6^5$ and $6^5 > 7^4$ are proved in a similar way.
+
+The $7^4 > 8^3 > 9^2 > 10^1$ inequalities are very visible.
+
+Thus, at most among them we will return to this problem once again and give a less “calculative” solution.
+
+Problem 4. Which number is greater: $1^n + 2^n + 3^n + \dots + 9^n$ or $10^n$?
+
+Solution. It is easy to see that for small $n$ $1^n + 2^n + \dots + 9^n$ is greater than $10^n$. Indeed, $1 + 2 + \dots + 9 > 10$; $1^2 + 2^2 + 3^2 + \dots + 9^2 > 10^2$; $1^3 + 2^3 + \dots + 9^3 > 9^3 + 8^3 = 729 + 512 > 1000 = 10^3$.
+
+Before considering other values ​​of $n$, we note that if for some $n$ $1^n + 2^n + \dots + 9^n < 10^n$, then for all $m > n$ even more so $1^m + 2^m + \dots + 9^m < 10^m$. Indeed, when moving to larger values,

@@ -1,0 +1,39 @@
+---
+id: 1978-10-zadachi-da5f4ad8
+issue: kvant_1978_10
+year: 1978
+number: "10"
+title: Tasks
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 59
+page_last: 59
+page_labels: "57"
+tag: ZKP5
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 52ead260874365c530e166ce7f00ff7a4c460833111b2c39c8bed1f9650b418c
+prompt_sha256: draft-1
+translated_from: content/ru/1978/10/articles/15_zadachi-da5f4ad8.md
+source_content_sha256: a718de36422bb6ee39bd00fb3ef0a38969b89f6c94f24703ded4f7ebebfe8454
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 57⟧
+
+«Kvant» for younger students
+
+Quests
+
+1. Now the father is as old as the son was months old when his father was 9 times older than him. How old is the father now if it is known that he is 26 years 8 months older than his son?
+
+2. Lay out a complete set of domino tiles as shown on figure, so that the tiles touch according to the domino rules, and the sums of points in each letter are the same.
+
+3. The confer box has the shape of a rectangular parallelepiped (a is the length, b is the width, c is the height of the box; the box is not a cube!). What length of string is enough to rewind the box using the general method (see figure)?
+
+4. The store brought dresses in three different styles and three different colors. The seller wants to choose three dresses for the display so that all styles and all colors are represented. Will she always be able to do this?
+
+57

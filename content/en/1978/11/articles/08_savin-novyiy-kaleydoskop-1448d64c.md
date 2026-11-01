@@ -1,0 +1,54 @@
+---
+id: 1978-11-savin-novyiy-kaleydoskop-1448d64c
+issue: kvant_1978_11
+year: 1978
+number: "11"
+title: New kaleidoscope
+authors:
+  - Савин А. П.
+rubric: smes
+page_first: 18
+page_last: 18
+page_labels: "16"
+tag: 0UQA
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 84ceb78b9b59ebd1065089cddfcfd27810d53c28ea7adea4ed4accf5950314e1
+prompt_sha256: draft-1
+translated_from: content/ru/1978/11/articles/08_savin-novyiy-kaleydoskop-1448d64c.md
+source_content_sha256: 151c138fed133282123c728eddee0a1b8efe8b33b31427a066ffd2acd05dcd0d
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 16⟧
+
+Function $g(x) = \frac{11}{x} - \ln x - 1$
+decreases by $]0; +\infty[$, and $g(4) = 1,75 - \ln 4 > 0$, $g(5) = 1,2 - \ln 5 < 0$.
+(Prove these inequalities using the fact that $3 > e > 2,5$.)
+Posibly there exists $x_0 \in ]4; 5[$ such that on the interval $]0; x_0]$ the function $f$ returns, and on $[x_0; \infty[$ it decreases.
+This means that among our numbers the largest is either $f(4)$ or $f(5)$. It remains to choose the largest of them.
+Task and
+9. Which number is greater:
+a) $15^{30}$ or $30^{15}$?
+b) $2^{40}$ or $3^{33}$?
+c) $10^{1000}$ or $9^{1111}$?
+10. Which number is greater:
+a) $5^{15} + 6^{20} + 7^{25}$ or $8^{24}$?
+b) $7^{15} + 15^7$ or $6^{16} + 16^6$?
+c) $5^{5555}$ or $6^{6666}$?
+
+New
+kaleidoscope
+
+Our reader B. Ivakin sent the following task to the editor: cut a regular hexagon into 9 identical parts.
+
+The answer to the problem was attached, it is depicted in the center of the first page of the cover of our magazine: by segments connecting the center with the vertices, the hexagon is divided into three rhombuses, each of which is divided into three parallelograms.
+
+When I became familiar with this problem, I naturally began to look for other solutions. For quite a long time I was unable to split the hexagon correctly, but finally I found such a split (but shown at the top figure on the cover). After that, I wanted to “move” the resulting pentagons. The result was very unexpected - the required divisions of the hexagon fell as if from a cornucopia. Five of them are featured on the cover of the magazine.
+
+Try experimenting with this division yourself. If you come up with interesting pictures, send them to us. We will publish the best pictures.
+
+A. Savin

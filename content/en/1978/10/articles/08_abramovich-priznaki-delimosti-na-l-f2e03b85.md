@@ -1,0 +1,52 @@
+---
+id: 1978-10-abramovich-priznaki-delimosti-na-l-f2e03b85
+issue: kvant_1978_10
+year: 1978
+number: "10"
+title: Tests for divisibility by l
+authors:
+  - Абрамович В. С.
+rubric: osnovnye-stati
+page_first: 27
+page_last: 27
+page_labels: "25"
+tag: HITX
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: cb8968577a255202f73e60832be95d7a453fb19ce553d9ccadc8353c70ac3796
+prompt_sha256: draft-1
+translated_from: content/ru/1978/10/articles/08_abramovich-priznaki-delimosti-na-l-f2e03b85.md
+source_content_sha256: 42595d4813903ac0a7b9f0e09caa26eca4c0d8ed86d167b073e5dfde7f799d59
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 25⟧
+
+V. Abramovich
+
+Tests for divisibility by 1
+
+From time to time, on the pages of various publications, including «Kvant», more and more new, sometimes very exotic, signs of divisibility by various numbers are brought to the attention of readers.
+
+People often ask: how are new signs of divisibility discovered? Is it really possible that every time they carry out a long series of wholesale calculations with numbers, and then, if they are successful, they try to prove the most probable guess?
+
+Well, such a path for anyone “tinkering” with numbers is not burdensome, and in case of success, the path of a small, but discovery, is completely repaid with joy.
+
+And yet: is there not some general method of signs of divisibility?
+
+The author was interested in this question and tried to answer it. What came out of this, the reader will find in the note.
+
+Back in the fourth grade, you learned that a natural number is divisible by 3 if and only if the sum of its digits is divisible by 3 *).
+
+You can imagine the matter this way: with the usual (decimal!) notation of a number
+
+$$n = a_1 a_2 \dots a_t = a_1 a_2 \dots a_t^{(10)}$$
+
+Each brick number is more significant the further to the left:
+
+$$n = a_t + 10 a_{t-1} + 10^2 a_{t-2} + \dots + 10^{t-1} a_1;$$
+
+*) More precisely: the sum of the digits of its decimal notation (records in the decimal number system). Most likely, until now you have perceived natural numbers only in the decimal number system and have not even thought about it. Well then! Maybe “don’t think about it” for a while yet. To read this article, you will soon need an understanding of what the m-ary number system is (m is an arbitrary natural number greater than 1). You can read about the number system in «Kvant», 1975, No. 8, p. 59 or in the brochure by S. V. Fomin “Number Systems” (M., “Hayka”, 1975).

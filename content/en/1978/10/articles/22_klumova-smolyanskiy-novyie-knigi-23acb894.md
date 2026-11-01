@@ -1,0 +1,83 @@
+---
+id: 1978-10-klumova-smolyanskiy-novyie-knigi-23acb894
+issue: kvant_1978_10
+year: 1978
+number: "10"
+title: New books
+authors:
+  - Клумова И. Н.
+  - Смолянский М. Л.
+rubric: retsenzii-bibliografiya
+rubric_sub: Рецензии, библиография
+page_first: 88
+page_last: 88
+page_labels: "86"
+tag: MG44
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 2097a2a8283f4cfa9b88ac8f513e68123c18fb3717741f04b030b9e55589421c
+prompt_sha256: draft-1
+translated_from: content/ru/1978/10/articles/22_klumova-smolyanskiy-novyie-knigi-23acb894.md
+source_content_sha256: 3341170d2ded1c4944d4446bc31a86cdca50ddd53c52fd07dba00f813f2c0b3a
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 86⟧
+
+New books
+
+In this issue we publish short annotations on books on mathematics and physics published in the fourth quarter, accessible and interesting to our readers.
+
+Mathematics
+
+Publishing house "Science"
+
+1. Coxter G. S. M., Greitzer S. L. New encounters with geometry. Translation from English. Volume 13 l., circulation 50,000 copies, c. 87 k.
+
+This book introduces the reader to the beautiful results and methods of geometry discovered both in ancient times and in more recent times. It contains results that are directly applicable to the school geometry course (nine-point circle, Ceva's theorem, geometric transformations), and ideas leading to inverse and projective geometries.
+
+The book extremely successfully expands and complements the school curriculum in geometry. Pozmotu “New Meetings with Geometry” is an excellent tool for school math circles, especially since after each section there is a large number of problems.
+
+We published one of the chapters of this book in «Kvant» - see «Kvant», No. 7, article “The Problem of Three Jugs”.
+A simple and accessible presentation makes the book interesting to a wide range of readers, who will be able, thanks to it, to become acquainted with the beauty and richness of the idea of ​​geometry.
+
+Publishing house "Prosveshcheniye"
+
+2. Vilenkin N. Ya. Functions in nature and mechanics. Volume 10 l., circulation 100,000 copies, c. 30 k.
+
+The book talks about various applications of the elements of function studied at school, about the development and application of differential and integral calculus, and about how mathematicians search for optimal solutions to problems.
+
+The book will be useful for high school students who want to learn more about the functions studied at school.
+
+Physics
+
+Publishing house "Science"
+
+1. Urban China A.I. Physics for everyone. Fomons, etc. Volume 10 l., circulation 200,000 copies, c. 38 k.
+
+The book was conceived as the final part of “Physics for Everyone” by L. D. Landdu and A. I. Kitaigorodsky, which was published several times in our country and translated into many languages ​​of the world. The book contains basic information concerning electromagnetic waves, thermal radiation, and the doctrine of spectra; examples of the most common lasers are given; Much attention is paid to nuclear physics. Separate sections are devoted to the mechanics of fast movements (special theory of relativity) and the movement of small particles (wave mechanics).
+
+2. Shaskolskaya M. P. Crystals. Volume 10 l., circulation 100,000 copies, c. 38 k.
+
+3. Shaskolskaya M. P. Essays on the properties of crystals. Volume 10 l., circulation 100,000 copies, c. 38 k.
+
+These books are separate parts of the full-length edition of the book "Crystals", published in 1944 and 1957.
+
+The first book talks about the simplicity of crystals in nature - underground, in the depths of the seas, in caves, in mineral deposits, in the clouds - and about growing crystals in laboratories. The second book is about the structure of crystals and the influence of structure on the properties of crystals.
+
+A simple and engaging form of presentation makes the books accessible and interesting to many readers. High school students will read them with interest.
+
+4. Timofeev A. V. Robots and artificial intelligence. Volume 10 l., circulation 100,000 copies, c. 38 k.
+
+The book examines various functions of IONAL robot circuits and the current state of intelligence modeling problems. An idea is given of the principles, algorithms and means of cleaning and controlling robots. Particular attention is paid to the problem of creating elements of robot intelligence. The issues of using robots and artificial intelligence systems in industry, space and underwater research are discussed.
+
+5. Kazotinsky V.V., Komarov V.I. Exploding Universe. Volume 16 l., circulation 50,000 copies, c. 70 k.
+
+The book examines the main things of the revolution in modern astronomical science, the theories, controversies and discussions that accompany new ideas about the Universe associated with the discoveries of recent years: the activity of galactic nuclei, quasars, pulsars, “black holes”. The authors make an attempt to clarify the principles that lead to the fact that in a number of cases, historically, contrary scientific sources are given. The question of what contribution the new picture of the Universe will make to the scientific worldview is also considered.
+
+The book, written in a lively and interesting manner, appeals to a wide range of readers interested in modern astronomy.
+
+6. Lishevsky V.P. Popular mechanics. Ob-

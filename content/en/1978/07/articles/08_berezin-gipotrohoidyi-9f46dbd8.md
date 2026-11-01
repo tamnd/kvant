@@ -1,0 +1,40 @@
+---
+id: 1978-7-berezin-gipotrohoidyi-9f46dbd8
+issue: kvant_1978_7
+year: 1978
+number: "7"
+title: Hypotrochoids
+authors:
+  - Березин В. Н.
+rubric: smes
+page_first: 34
+page_last: 34
+page_labels: "32"
+tag: B9JZ
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: c90824b5a3c970aacc46017d9f3679415608f39147686dd0251b3da7e62db412
+prompt_sha256: draft-1
+translated_from: content/ru/1978/07/articles/08_berezin-gipotrohoidyi-9f46dbd8.md
+source_content_sha256: 9ac51ff6b0fe461111d254621da9409c5abe0c06cdcbf6e67d44fe81894c504e
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 32⟧
+
+After this, whenever a broken line falls on one of the sides of our parallelogram - straight lines $y = 0, y = 5, z = 0, z = 3$ - we consider this side as a mirror. (The rule of mirror reflections is explained by the fact that each segment of the broken line parallel to the side of the original triangle corresponds to the operation of pouring liquid from one vessel into another, while the third vessel is not touched at this time.) Thus we obtain solution $(8, 0, 0) \rightarrow (3, 5, 0) \rightarrow (3, 2, 3) \rightarrow (6, 2, 0) \rightarrow (6, 0, 2) \rightarrow (1, 5, 2) \rightarrow (1, 4, 3) \rightarrow (4, 4, 0)$ and solution $(8, 0, 0) \rightarrow (5, 0, 3) \rightarrow (5, 3, 0) \rightarrow (2, 3, 3) \rightarrow (2, 5, 1) \rightarrow (7, 0, 1) \rightarrow (7, 1, 0) \rightarrow (4, 1, 3) \rightarrow (4, 4, 0)$. It is clear that it is possible to measure any integer number of liters of liquid in the situation $h = a = b + c$ only if the numbers $a$ and $b$ are coprime.
+
+Hypotrochonds
+
+Figure on the first page of the cover, made on a computer, depicts a family of closed curves - hypotrochonds.
+
+Trochoid is a line drawn by a point rigidly connected to the circle $(O_2, r)$, rolling without sliding in a straight line. When circle $(O_2, r)$ rolls not in a straight line, but along a stationary circle $(O_1, R)$, touching it from the inside, then point $M$ is rigidly connected to circle $(O_2, r)$, describing the hypotrochond. It is clear that the London cycle («Kvant», 1978, No. 4, p. 13) is a special case of hypotrochonda, hypopyclonda (see ibid.) is a special case of hypotrochonda.
+
+Here on figure the points $M_1, M_2, M_3$ are depicted, rigidly connected to the circle $(O_2, r)$, where $r = \frac{R}{3}$. These points are located such that $M_1\overset{\frown}{O_2}M_2 = M_2\overset{\frown}{O_1}M_1$ and $|O_2M_2| - |O_2M_1| = |O_2M_3| - |O_2M_2|$. (Thus, points $M_1, M_2$ and $M_3$ lie on the sprail of Arichimedes - see «Kvant», 1976, No. 6, third cover page).
+
+The hypotrochond family shown on the cover is described by the points $M_1, M_2, M_3, \dots, M_{10}$, arranged in a similar manner. At $|O_2M_i| < 2R/3$ the hypotrochondum is a closed self-intersecting line, which is a concave curvilinear triangle with loops at the apexes. If $|O_2M_i| > 2R/3$, then we obtain a closed self-intersecting line of a slightly different form: it consists of three convex petals, the intersection of which is a convex curved triangle.
+
+V. Berezin

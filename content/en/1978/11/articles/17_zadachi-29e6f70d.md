@@ -1,0 +1,45 @@
+---
+id: 1978-11-zadachi-29e6f70d
+issue: kvant_1978_11
+year: 1978
+number: "11"
+title: Tasks
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 40
+page_last: 40
+page_labels: "38"
+tag: XLL4
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: edf86a769e2dd44bf16212595fda5d5b43d5b560d1f8c84d374c5814241eee21
+prompt_sha256: draft-1
+translated_from: content/ru/1978/11/articles/17_zadachi-29e6f70d.md
+source_content_sha256: fd954c89988545217ca2852bd9869056721f1a3086b2eb9ec472ba22081da4fa
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 38⟧
+
+Quests
+
+1. a) Prove that if you add it to an arbitrary number with an odd number of digits again, then the resulting number will be divided by eleven.
+
+6) Prove that if you add to an arbitrary number a number written in the same digits, but in reverse order, then the resulting number will also be divided by eleven.
+
+2. For what natural numbers $n$ is the number $n^4+n^2+1$ prime?
+
+3. Seven schoolchildren decided to visit seven cinemas on Sunday. Each cinema has eight sessions. In different cinemas, screenings begin at the same time. For each screening, six schoolchildren went together, and the seventh (not necessarily the same) went to a different theater. By evening, each student visited each cinema theater. Prove that in each cinema there was a session at which none of these schoolchildren was present.
+
+4. Talking to guests at the end of 1975, the owner joked that people often don’t like to tell their age.
+
+— For example, when asked about age, I would say that my age is a divisor of my year of birth.
+
+“Even though I am much younger,” said one of the guests, “I can say the same about my age.”
+
+They further found out that the owner’s son could have said the same about himself in 1961, and one of the grandchildren, who had recently received an office rank, in 1963. But the owner’s late father could have said the same about himself in 1962.
+
+In what years were these persons born?

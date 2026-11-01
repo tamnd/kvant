@@ -1,0 +1,59 @@
+---
+id: 1978-11-komarov-v-laboratorii-vselennoy-9ad63bf4
+issue: kvant_1978_11
+year: 1978
+number: "11"
+title: In the laboratory of the Universe
+authors:
+  - Комаров В. Н.
+rubric: raznoe
+rubric_sub: Разное
+page_first: 59
+page_last: 59
+page_labels: "57"
+tag: 8N9D
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 7f0c8aacc96f21ee77d24e597467ae5a997f6092f9e9664c8edfcb299fa2a560
+prompt_sha256: draft-1
+translated_from: content/ru/1978/11/articles/27_komarov-v-laboratorii-vselennoy-9ad63bf4.md
+source_content_sha256: 2c558131bd866c09351ad6692552bbcb92f45c672e1e208a1c5a3766f43d2a91
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 57⟧
+
+In the laboratory of the Universe
+
+Several years ago, the famous Soviet physicist Academician L. A. Artsimovich appeared in print with the article “The Future Belongs to Astrophysics.” What was this forecast based on?
+
+The fact is that scientific and technological progress requires an increasingly widespread deployment of fundamental scientific research to study the fundamental patterns of the world around us. However, one of the most important areas of such research is the study of the structure of matter at all levels of its existence - from elementary particles to giant cosmic worlds and their systems. Much has already been done in this direction, but even more is expected to be done.
+
+In order to penetrate into the unknown today, general research is no longer enough: it is necessary to study matter in limiting, extreme states. Temperatures of ten and hundreds of millions of degrees; pressures of ten and hundreds of millions of atmospheres; Surprising energies equivalent to the energy of the explosion of a thermonuclear charge with a mass equal to tens and hundreds of thousands of masses; colossal densities of ten and hundreds of billions of tons of matter in the Cuban cantidade - this is not a complete list of phenomena and conditions that attract the attention of modern physicists.
+
+It is practically impossible to reproduce such conditions in terrestrial erasers.
+
+A laboratory where such conditions are realized exists. This is the laboratory of the Universe. Here one can study such physical processes, such states of materials, such energy sources that are completely inaccessible by ordinary earthly research.
+
+《In the “Space Laboratory” you can observe the manifestation of hypantic gravitational forces and study matter under conditions of gravitational and magnetic fields that are not feasible on Earth. At the same time, studying the world of stars and galaxies enriches us with new knowledge about the structure of the Universe, and this is important for the formation of a scientific worldview...》 - this is what the famous popularizer of astrophotics E.P. Levitan writes in his new book “Astrophysics for Schoolchildren” *).
+
+This book, as is clear from its title, is addressed to schoolchildren, interested in astrophysics and physics - these two sciences are theonically connected with each other.
+
+“Astrophysics for schoolchildren” is not a textbook; it does not repeat the school course on astrophotics, although it teaches its construction and its basic ideas. This is a book for reading, in-depth, interested, demanding attention and provoking thought.
+
+Levitan's book introduces the reader to the basics of physical theory and principles of astrophysics, with evolutionary ideas that will allow modern astrophysicists to study unexpected discoveries, being at the forefront of astrophysics of the 20th century.
+
+*) M., “Enlightenment”, 1977.
+
+In particular, separate books are devoted to the activity of galactic nuclei, which eject huge amounts of matter and release colossal amounts of energy; quasarms - the amazing properties of objects, the like of which neither astrophysicists nor physicists knew until recently; neural stars (pulsarms) with nuclear density, as well as completely non-teachable objects “constructed” by theorists - the so-called black holes, capable of absorbing surrounding matter and, at the same time, not releasing either particles or electromagnetic radiation.
+
+The chapter devoted to the geometry of the Universe and the structure of the Metagalaxy, as well as the modern understanding of the origin and evolution of the Universe, will be read with interest. This is the cutting edge of modern astrophysics—the discoveries that have been made in this area in recent decades still require theoretical and physical understanding.
+
+One of the main advantages of Levitan's book is that astronomical knowledge is presented to the reader not as complete, indestructible truths - the science of the Universe is presented in its development and formation. Complex and unsolved problems are discussed, different points of view are presented, and ways and prospects for further research are outlined.
+
+A lively and interestingly written book, small in volume but rich in content, will undoubtedly contribute to a deeper understanding of the world around us, to the perfection of the state of science about the Universe, and to the formation of a dialect-materialistic worldview.
+
+V. Komarov

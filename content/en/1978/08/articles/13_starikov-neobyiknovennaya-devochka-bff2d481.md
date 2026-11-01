@@ -1,0 +1,50 @@
+---
+id: 1978-8-starikov-neobyiknovennaya-devochka-bff2d481
+issue: kvant_1978_8
+year: 1978
+number: "8"
+title: Extraordinary girl
+authors:
+  - Стариков А. Н.
+rubric: smes
+rubric_sub: Смесь
+page_first: 51
+page_last: 51
+tag: F6UW
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 84270ddb4645295513e7c61bebc88e030338dc7817ad6b72a05f1c4579b8a75a
+prompt_sha256: draft-1
+translated_from: content/ru/1978/08/articles/13_starikov-neobyiknovennaya-devochka-bff2d481.md
+source_content_sha256: e5c09f6e0a81f0ef66127898f49ccb11460e8062b3eefdeb7b038714bad4a37e
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+«Kvant» for younger students
+
+This riddle poem was sent to us by A. Starikov from Krivoy Rog. Read it and try to understand why the girl turned out to be so extraordinary.
+
+A. Starikov
+EXTRAORDINARY GIRL
+
+She was a thousand and one hundred years old
+She went to this first grade,
+She carried a hundred books in her briefcase -
+This is all true, not nonsense.
+When, drinking ten feet,
+She walked along the road
+The puppy was always running after her
+With one tail, but one hundred-legged.
+She caught every sound
+With your ten ears,
+And ten tanned hands
+They held the briefcase and leash.
+And ten dark blue eyes
+We looked at the world with a blind eye...
+But everything will become completely normal,
+When you listen to our story.

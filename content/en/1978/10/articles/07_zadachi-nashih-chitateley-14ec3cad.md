@@ -1,0 +1,69 @@
+---
+id: 1978-10-zadachi-nashih-chitateley-14ec3cad
+issue: kvant_1978_10
+year: 1978
+number: "10"
+title: Tasks for our readers
+rubric: smes
+page_first: 26
+page_last: 26
+page_labels: "24"
+tag: R5HO
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 389cb166b7de190edb7b2f00d4ed0bc90fa12fed309403c8274255ae79415baf
+prompt_sha256: draft-1
+translated_from: content/ru/1978/10/articles/07_zadachi-nashih-chitateley-14ec3cad.md
+source_content_sha256: c547131e3003a8d767d06748eba66b4994885bae52f2ad6f93abd7813649eb54
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 24⟧
+
+does not produce zoom, and the linear dependence in (1) in plan is acceptable. There is practically no such large number of parties in modern times. The only exception can be a world variable match, held according to the new system (without limiting the number of games). Apparently, in this case, the match should be divided into separate segments of no more than 25 games in length, and after each of them the partners’ coefficients should be adjusted.
+
+So, the system of individual Elo coefficients is designed quite reasonably and is practically very convenient. Its best confirmation is the reliability of the forecast.
+
+Currently, Elo coefficients are used widely, for example, for assigning international
+native chess titles. Depending on $K_T$, there are 15 categories of “difficulty” of tours, each of which has its own percentage standards, and to be awarded the title of international masset or international grandmaster, access to a rating of 2400 or 2500 is required, respectively.
+
+Based on his system, Elo made a number of interesting calculations. In particular, he calculated the odds of all the greatest chess players since Morphy. In 1963, he published the results of his calculations (Table 2). For each “classic” of chess, Elo calculated the average rating characterizing the result of his performance over the “best” period of five years. By 1963, there were 28 chess players leading the Elo list (rating 2600 or higher).
+
+Over the past 15 years, the list could have been replenished with ten more top-class grandmasters, including the last four world champions - T. Petrosyan, B. Spassky, R. Fischer and A. Karpov.
+
+After winning the title of world champion, R. Fischer had the highest rating in the entire history of chess - 2780. But since, according to FIDE rules, a chess player who does not compete in the modern three years in a row is not included in the so-called FIDE rating-LIST, in 1975 it was headed by the new world champion A. Karpov.
+
+Tasks
+our readers
+
+1. Find pairs of numbers $m, n$ that meet the pattern
+
+a) $3 = \frac{2 \cdot 3}{1 \cdot 2} = \frac{9 \cdot 10}{5 \cdot 6} = \dots = \frac{m(m+1)}{n(n+1)} = \dots = \frac{6887 \cdot 6888}{3976 \cdot 3977} = \dots$
+
+b) $2 = \frac{3 \cdot 4}{2 \cdot 3} = \frac{20 \cdot 21}{14 \cdot 15} = \dots =$
+
+$$\frac{m(m+1)}{n(n+1)} = \dots$$
+
+S. Suslov
+(Sverdlovsk)
+
+2. If you add a trace of a number one greater to a two-digit number, then the resulting number will be a perfect square. Find the original number.
+
+I. Mikhalkovich
+(Minsk region)
+
+3. Prove the inequality
+
+$$\sum_{k=1}^{n} \frac{1}{k^2 + k - 1} > \frac{1}{k^2 + 2k - 2}$$
+
+4. Let $O$ be the center of the circle circumscribed about the triangle $ABC, AA_0, BB_0, CC_0$, its altitude. $A_1, B_1$ and $C_1$ are the projections of the points $A_0, B_0$ and $C_0$ onto the lines $AO; BO$ and $CO$, respectively. Prove that then one of the quantities
+
+$$|A_0A_1| \cdot BC|^4, |B_0B_1| \cdot |AC|^4, |C_0C_1| \cdot |AB|^4$$
+
+equal to the sum of the other two.
+
+Y. Alla
+(Võru)

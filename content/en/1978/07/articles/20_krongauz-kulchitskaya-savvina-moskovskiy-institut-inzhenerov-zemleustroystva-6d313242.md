@@ -1,0 +1,98 @@
+---
+id: 1978-7-krongauz-kulchitskaya-savvina-moskovskiy-institut-inzhenerov-zemleustroystva-6d313242
+issue: kvant_1978_7
+year: 1978
+number: "7"
+title: Moscow Institute of Land Management Engineers
+authors:
+  - Кронгауз Л.
+  - Кульчицкая Л.
+  - Саввина Б. К.
+rubric: ekzamenatsionnye-materialy
+page_first: 57
+page_last: 57
+page_labels: "55"
+tag: E37V
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: e5dbf1adb9eca8328e792960a76ad8be0c2a9968b31ed24b4fc5b720921a873e
+prompt_sha256: draft-1
+translated_from: content/ru/1978/07/articles/20_krongauz-kulchitskaya-savvina-moskovskiy-institut-inzhenerov-zemleustroystva-6d313242.md
+source_content_sha256: f3e774515326f0d65f2dd1335a25a67113fcefdd5d5d35669cbb8cb0ca402a7d
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 55⟧
+
+3. According to the plan, a team of lumberjacks must harvest 216 m³ of wood in a few days. For the first three days, the team fulfilled the daily norm established by the plan, and then every day they prepared 8 m³ above the plan, so the day before the deadline, 232 m³ of wood was harvested. What is the crew's daily quota according to the plan?
+
+4. For what α and β is the vector $a = (3; -1; \alpha)$ orthogonal to the vector $b = (2; \beta; 1)$ if $|b| = 3$?
+
+5. A cylinder with the largest volume is inscribed in a sphere of radius $R = 3$ cm. Find the volume of this cylinder.
+
+Option 2
+
+1. Prove accuracy
+
+$$\frac{1 - 2\sin^2\alpha}{2\mathrm{ctg}\left(\frac{\pi}{4} + \alpha\right)\cdot\cos^2\left(\frac{\pi}{4} - \alpha\right)} = 1.$$
+
+2. Solve system of equations
+
+$$\begin{cases} 3^x \cdot 2^y = 144, \\ \log_{\sqrt{2}}(y - x) = 2. \end{cases}$$
+
+3. The train leaves the city $A$ and after 10 hours. 40 min. comes to town $B$. If the train traveled 10 km less per hour, it would arrive at $B$ at 2 o'clock. 8 min. Later. Determine the distance between cities and the speed of the train.
+
+4. Find the limit of an expression
+
+$$\lim_{x \to 2} \frac{x - \sqrt{3x - 2}}{x^2 - 4}.$$
+
+5. The sum of the lengths of the diagonals of a parallelogram is 8 cm. Find the minimum of the sum of the squares of the lengths of all sides of the parallelogram.
+
+Physics
+
+1. In the fifth second of uniformly accelerated motion the body travels 45 m. Calculate the speed of the body at the end of the fifth second and the distance traveled in five seconds if the initial speed of the body is zero.
+
+2. At what train speed does a pendulum $l = 11$ cm long, suspended in a carriage, sway especially strongly if the length of the rails is $L = 12,5$ m?
+
+3. How much water can evaporate in a room measuring $10 \times 8 \times 4,5$ m if the air temperature is 22°C and the relative humidity is 70%? Density of saturated water vapor at 22°C $\rho_H = 1,94 \times 10^{-2}$ kg/m³.
+
+4. Alpha particle moving in a cyclotren in a circle with a radius of $r = 1$ m at a speed of $|\vec{v}| = 20,000$ km/s. What must be the magnetic field induction to keep the particle on the circle? Alpha particle mass $m = 6,5 \cdot 10^{-27}$ kg, charge $q = 3,2 \times 10^{-19}$ Cl.
+
+L. Milovanava
+
+Moscow Institute of Land Engineering Engineers
+
+Details about the faculties and specialties of land engineering engineers in «Kvant», 1977, No. 7.
+
+Matematika
+
+1. Explore the maximum and minimum functions
+
+$$y = x^3 + 3x^2 - 9x + 1.$$
+
+2. Solve inequality
+
+$$\frac{x - 2}{x^2 + 1} < -\frac{1}{2}.$$
+
+3. Solve the equation
+
+$$\lg \sqrt[3]{3^{x^2 - 8x}} = 0.$$
+
+4. Find sin ($\alpha + \beta$) if sin $\alpha = -\frac{5}{13}$, $\alpha \in ]\frac{3\pi}{2}$; $2\pi [$, cos $\beta = -\frac{3}{5}$, $\beta \in ]\pi; \frac{3\pi}{2}[$.
+
+5. Knowing the great base of the isosceles trapezoid $a$, its height $h$ and the angle $\alpha$ at the base, find the area of ​​the trapezoid.
+
+Physics
+
+1. A car with mass $m = 2,0$ t climbs up a hill with a slope of 0.20. On the track section $s = 32$ m, the automatic speed increased from $|\vec{v}_1| = 21,6$ km/h to $|\vec{v}_2| = 36$ km/h. Considering the automatic motion to be equilibrium, determine the traction force of the engine. The motion resistance coefficient is taken equal to $k = 0,020$.
+
+2. A projectile with a mass of $m = 40$ kg, flying in a horizontal direction at a speed of $|\vec{v}| = 600$ m/s, breaks into two parts with masses of $m_1 = 30$ kg and $m_2 = 10$ kg. Most of them began to move in the same direction at a speed of $|\vec{v}_1| = 900$ m/s. Determine the magnitude and direction of the velocity of the smaller part outside.
+
+3. How many degrees does the cross-section $S = 6$ mm² take so that it takes the same length as under the action of a tensile force $|\vec{F}| = 508$ N? (Reference tables are attached.)
+
+4. An electron with a speed of $|\vec{v}| = 1,8 \cdot 10^4$ m/s enters a uniform electric field with a strain of $|\vec{E}| = 0,0030$ N/Kl and moves against the lines of force. With what acceleration will the electron move and what will its speed be when it travels a distance of $s = 7,1$ cm? How long will it take to reach this speed? How much will the energy of the electron change in this case (the mass of the electron is $m = 9,1 \cdot 10^{-31}$ kg, its charge is $e = 1,6 \cdot 10^{-19}$ C)?
+
+5. Two balls of mass $m = 1,5$ g each, suspended in a vacuum at one point on
