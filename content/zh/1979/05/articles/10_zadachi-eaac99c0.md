@@ -1,0 +1,37 @@
+---
+id: 1979-5-zadachi-eaac99c0
+issue: kvant_1979_5
+year: 1979
+number: "5"
+title: 任务
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 33
+page_last: 33
+page_labels: "31"
+tag: VMHU
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 2b302a85198fce42a474911b691d4057ba9585a1207a181a423c6066384ca289
+prompt_sha256: draft-1
+translated_from: content/ru/1979/05/articles/10_zadachi-eaac99c0.md
+source_content_sha256: 23ceb4f4003c97a8d937d676e313a494e7c315b46c523d2a39653889f9361d94
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 31⟧
+
+锻炼
+
+1. 图 描绘了一片森林（由火柴制成）和小红帽（印度教徒对祖母的称呼）。重新安排两场比赛，让小红帽回来。
+
+2. 给出一个三位数。我们来求它的数字的乘积。然后我们求结果的数字的乘积。原数和两个结果的乘积可以分别表示为图（相同的数字代替相同的数字）。原来的号码是多少？问题有多少种解法？
+
+3. 用自然数填充六边形的空单元格，使其包含从 1 到 19 的所有数字，并且在三个方向（垂直和两个倾斜）中的每一个方向的所有五行中，同一行中的数字之和将相同。
+
+4. 学生瓦迪姆和科利亚正在下国际象棋。科利亚（Kolya）的妹妹娜迪亚（Nadya）经过。当被问及娜迪亚的年龄时，科利亚回答说：“如果你将今天的星期几乘以娜迪亚的生日号码和她出生地的号码，你就会得到娜迪亚的出生年份。”瓦迪姆和科利亚在一周中的哪一天下棋？
+
+5. 泰斯特教授进行了一系列测试，并根据这些测试给受试者打出平均分。在回答完最后一次测试后，约翰意识到，如果他在最后一次测试中得到了 97 分，那么他的平均得分将为 90 分。另一方面，如果他在上次测试中只得到 73 分，那么他的平均得分将为 87 分。 Tester 教授的系列中有多少个测试？

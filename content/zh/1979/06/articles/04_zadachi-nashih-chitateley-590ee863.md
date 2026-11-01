@@ -1,0 +1,63 @@
+---
+id: 1979-6-zadachi-nashih-chitateley-590ee863
+issue: kvant_1979_6
+year: 1979
+number: "6"
+title: 读者的任务
+rubric: smes
+page_first: 10
+page_last: 10
+page_labels: "8"
+tag: TTW9
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: adff6020f575f56de220eae536095e467ce5059113aa4a9da68e59b6bbed06eb
+prompt_sha256: draft-1
+translated_from: content/ru/1979/06/articles/04_zadachi-nashih-chitateley-590ee863.md
+source_content_sha256: d09d7170dc33c4a21f6f5bce150233629244eedfbaf633516df5bc70fdd19fe1
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 8⟧
+
+图 4.
+
+第三个柔软点是点$O_i$（如果有多个这样的柔软中心，则选择编号最小的一个）。丢弃空组后（举个例子，当组$G_1$，...，$G_l$！中出现空组时），剩下$p$组（$p \leq l$）。以任意方式重新调整它们的尺寸，我们获得一个新的分区$G_1^1, \dots, G_p^1$。
+
+找到柔软度中心$O_1^1, \dots, O_p^1$幂emx组$u$后，重复相同的过程，我们将构建分区$G_1^2, \dots, G_q^2 (q \leq p)$和$m. \delta$。证明，从某个步骤开始，分区是重合的。
+
+为了形成下一个问题，引入一个符号是很方便的。设点$A$和任意子集$G$为平面上点$A_1, \dots, A_N$的集合。让我们输入$I(A, G) = |AA_i|^2 + \dots + |AA_j|^2$（总和取自$G$的点数）。
+
+问题 5. 如问题 4 所示，将点集 $A_1, \dots, A_N$ 初始划分为 $l$ 非空组 $G_1, \dots, G_l$。让我们描述构建新分区$G_1^1, \dots, G_p^1$幂emx组$u$的规则，重复相同的过程，我们将构建分区$G_1^2, \dots, G_q^2 (q \leq p)$和$m. \delta$。证明，从某个步骤开始，分区是重合的。
+
+问题 4 和问题 5 中描述的算法与 Trout 算法相比的优点是这些算法收敛速度快（即构建最终分区需要更少的计算机时间）。然而，如果初始划分选择不当，这些算法可能会导致最终的分组划分不太自然。然而，在这样的例子中，给出了图4。
+
+读者的任务
+
+1. 数字$a$表示为$a = m_1 + n_1 = m_2 + n_2$。然后证明$3m_1n_1 \leq m_2^2 + m_2n_2 + n_2^2$。
+   V.费多伊斯金（Shekino）
+
+2. 给定一个三角形$ABC$，$H$是其高度的交点，$M$是其中线的交点。证明
+
+$$\frac{|BM|}{\sin \widehat{AMC}} = \frac{|AM|}{\sin \widehat{BMC}} = \frac{|CM|}{\sin \widehat{AMB}};$$
+
+$$\frac{|BH|}{\cos \widehat{AHC}} = \frac{|AH|}{\cos \widehat{BHC}} = \frac{|CH|}{\cos \widehat{AHB}}$$
+
+（如果定义了所有这些分数）。
+
+A. Yagubyants（顿河畔罗斯托夫）
+
+3. 证明总和为 $2k (k > 1)$
+
+a) 数字7的连续奇数天除以350；
+
+6) 即使数字 7 的连续天数也能被 2450 整除。
+
+H.米哈尔科维奇（明斯克地区）
+
+4. 让我们用$q(n)$表示以数字$n!$结尾的零的数量，用$s(n)$表示五进数系统中数字$n$的数字之和。证明$n - s(n) = 4q(n)$。
+
+B.斯托夫巴（泽列诺格勒）
