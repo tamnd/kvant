@@ -1,0 +1,95 @@
+---
+id: 1981-9-premii-kvanta-791c10af
+issue: kvant_1981_9
+year: 1981
+number: "9"
+title: Awards «Kvant»
+rubric: zadachnik-kvanta
+rubric_sub: Задачник «Кванта»
+page_first: 32
+page_last: 32
+page_labels: "30"
+tag: WFUJ
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 78b38bef19b08de3b0dfa754e02f543cafec8c37164d580d2dd172e97b315fe7
+prompt_sha256: draft-1
+translated_from: content/ru/1981/09/articles/11_premii-kvanta-791c10af.md
+source_content_sha256: 94589cc23c319e26253f422a09a015fa0238318bd8556758164a75a6901bc8bc
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 30⟧
+
+Awards «Kvant»
+
+In the 1980/81 academic year, the editors received more than 13 thousand letters with solutions to the problem from the Problem Book «Kvant». Schoolchildren who solve the most problems or submit the most original solutions are awarded special prizes established by the editorial collection of the magazine.
+
+Books in the “Library «Kvant»” series with author names are awarded to:
+
+ABDULAEV Elmar (Masally, s.sh. No. 2)
+AKHMEDZYANOV Askat (Uralsk, s.sh. No. 6)
+BRUDNY Alexander (Yaroslavl, northern route No. 33)
+GRIGORIEV Dmitry (Moscow, s.sh. No. 57)
+GUTIN Alexander (Klintsy, s.sh. No. 2)
+EVDOKIMOV Serrey (Vitebsk, s.sh. No. 3)
+ZEIFMAN Mikhail (Vologda, s.sh. No. 9)
+IBRAGIMOV Zahid (Masalli, s.sh. No. 2)
+KIM Surrey (Bektemir, s.sh. No. 2)
+KOZLOV Surrey (Moscow, Physics School No. 18 at Moscow State University)
+MERKEVICHUS Liaonas (Lentvaris, s.sh. No. 2)
+OVCHINNIKOV Pavel (Vyazniki, s.sh. No. 11)
+ROMANYUK Victor (Kusnishche village, Volna region)
+SMIRNOV Alexey (Kurgan, s.sh. No. 28)
+FONAREV Oleg (Sumgant, s.sh. No. 11)
+FROLOV Alexander (Tula, s.sh. No. 36)
+
+A subscription to the magazine «Kvant» for 1982 is awarded to:
+
+BAGDASARYAN Emin (Baku, no. 46)
+WEITZMAN Boris (Odesca, s.sh. No. 53)
+EROSHKIN Oleg (Dnepropetrovsk, s.sh. No. 15)
+ZHUKOV Igor (Leningrad, s.sh. No. 227)
+ZVEGINTSEV Yuliy (Kharkov, s.sh. No. 118)
+KOROTKIN Dmitry (Leningrad, Physics School No. 45 at Leningrad State University)
+PENTEGOV Vsevolod (Kyiv, s.sh. No. 145)
+SOKOL Aleksandr (Chernogolovka village, Moscow, s.sh. No. 82)
+SPIVAK Alexander (Moscow, Physics School No. 18 at Moscow State University)
+TALDENKO Yuri (Sumy, s.sh. No. 10)
+TITENKO Vladimir (village of Bluzha, Minsk region)
+UGRINOVSKY Roman (Khmelnik, s.sh. No. 3)
+
+CHALKH Oleg (Moscow, Physics School No. 18 at Moscow State University)
+
+For successful participation in the XV All-Union Physics and Mathematics Olympiad, a subscription to «Kvant» for 1982 is awarded to:
+
+ABDRAFIKOV Nadezhda (Beloretsk, s.sh. No. 14)
+AVDIYEV Marat (Mary, s.sh. No. 5)
+ASLANYAN Ashot (Yerevan, Physics and Music School)
+VIKTOROV Victor (Ryazan, s.sh. No. 45)
+DESHKOVSKY Alexander (Baranovichi, s.sh. No. 6)
+ZHITOMYRSKY Victor (Kharkov, s.sh. No. 27)
+KIM Surrey (Alexadr, s.sh. No. 15)
+Andrey KOLPAKOV (Pochet settlement, Krasnoyarsk Territory, village No. 1)
+KUDINOV Oleg (Zarinsk, s.sh. No. 2)
+KUDYA Andrey (r. p. Talovaya, Voronezh region, s.sh. No. 51)
+MAXIMUK Mikhail (Toropets, s.sh. No. 2)
+MALYSHEV Vladimir (Irkutsk, s.sh. No. 21)
+Oksana MARCHENKO (Talas, rural school No. 2)
+MATCHANOV Khojabai (collective farm named after Khamsa, Khorezm region)
+MELNIK Yuri (Edintsy, s.sh. No. 1)
+MILENINA Natalya (Kropotkin, s.sh. No. 45)
+MOSKALENKO Lyudmila (Sterlitamak, s.sh. No. 27)
+PUKLINA Elena (Kyiv, s.sh. No. 24)
+RODIONOV Yuri (Novoaltaysk, s.sh. No. 12)
+SANGAJI-GORYAEV Baatr (village of Iki-Burul, Kalmyk Autonomous Soviet Socialist Republic, northern route No. 1)
+STAKHOVSKY Vitaly (Kapustin-Yar, s.sh. No. 231)
+SULEIMANOV Rustam (Yangiabad, s.sh. No. 10)
+SUKHORUCHKIN Mikhail (Kirov, s.sh. No. 37)
+TETERINA Irina (Angren, s.sh. No. 33)
+SHMELEV Evgeniy (Nadezhny settlement, Yakta Autonomous Soviet Socialist Republic, s.sh. No. 19)
+SHUMILOV Pavel (Minsk, no. 50)
+Republican FMS (Tashkent)

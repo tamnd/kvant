@@ -1,0 +1,43 @@
+---
+id: 1981-11-zadachi-bf3d44bf
+issue: kvant_1981_11
+year: 1981
+number: "11"
+title: Tasks
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 33
+page_last: 33
+page_labels: "31"
+tag: PGFW
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: c24e80c9632806f7d14d3e72e53a5f3e71fd9720d326c40270a839fc4f9aaf27
+prompt_sha256: draft-1
+translated_from: content/ru/1981/11/articles/09_zadachi-bf3d44bf.md
+source_content_sha256: d31ec1d3ab5defc8c7c62f3461a1314cd1239a14c4912746997b52e2be632b45
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 31⟧
+
+Exercise
+
+1. The table cell $n \times n$ contains the numbers -1, 0 and 1. Is it possible that the sums of numbers in rows, columns and major diagonals are all different?
+2. How many triangles does the figure shown at the top figure contain?
+3. How many revolutions does the Earth make around its axis in one year? (The length of the year is considered to be 365 days.)
+4. There are four straight lines on the plane (see figure). The angles between some of them are known: $\alpha = 110^\circ$, $\beta = 60^\circ$, $\gamma = 80^\circ$. Find the angles between the remaining pairs of straight lines.
+5. Find all two-digit numbers that are divisible by the product of their digits.
+6. The film package says: “Process under red light.” Would this film produce the pirate flag shown at figure on the left? And the flag pictured on the right?
+
+These tasks were offered to us
+T. Voloshik, student
+7th grade school No. 3
+Beloozersk,
+F. Bartenev, G. Kotkin,
+B. Mukushev, A. Savin
+
+31

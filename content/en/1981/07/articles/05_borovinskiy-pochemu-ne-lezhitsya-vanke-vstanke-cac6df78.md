@@ -1,0 +1,53 @@
+---
+id: 1981-7-borovinskiy-pochemu-ne-lezhitsya-vanke-vstanke-cac6df78
+issue: kvant_1981_7
+year: 1981
+number: "7"
+title: Why doesn’t Vanka-Vstanka lie down?
+authors:
+  - Боровинский Л. А.
+rubric: osnovnye-stati
+page_first: 19
+page_last: 19
+page_labels: "17"
+tag: X6C5
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 43b6be557143e510374ba06c2c88e61f255a3f18e2d22efa71fb8c34d03ee625
+prompt_sha256: draft-1
+translated_from: content/ru/1981/07/articles/05_borovinskiy-pochemu-ne-lezhitsya-vanke-vstanke-cac6df78.md
+source_content_sha256: cc39adc35541569b4741242e3852893ac79fe5013ed1ca415d2416fcfcbc987a
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 17⟧
+
+L. Borovinsky
+
+Why doesn’t Vanka-Vstanika lie down?
+
+Probably, many of you remember from early childhood or recently read to your younger brothers and sisters the funny poems of Samuchil Yakovlevich Marshak about the neva-lyashka doll - Vanka-Vstanyka:
+
+The calves fell asleep, the chickens fell asleep,
+You can’t hear the cheerful starlings from the nest.
+There is only one boy named Vanka,
+According to Vstanyka, he doesn’t sleep at all.
+Vanka and Vstanyka have unhappy nannies:
+They will begin to put Vanka to bed,
+But Vanka doesn’t want to - he’ll lie down and jump up,
+He lies down again and gets up again.
+They will cover him with a blanket on cotton wool -
+In a dream he will throw the blanket away
+And again, as before, he stands on the bed,
+The child stands on the bed all night.
+He was treated by a doctor from a children's hospital.
+He said these words to the big one:
+- That’s why it doesn’t suit you, dear,
+That your head is too light!
+
+So, “a doctor from children’s hospitals,” according to the post, found the reason for Wang’s strange behavior.
+
+2 «Kvant» № 7

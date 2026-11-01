@@ -1,0 +1,85 @@
+---
+id: 1981-7-nazaretov-tkachev-shadrin-moskovskiy-gidromeliorativnyiy-institut-e91ca8f7
+issue: kvant_1981_7
+year: 1981
+number: "7"
+title: Moscow Irrigation Institute
+authors:
+  - Назаретов А.
+  - Ткачёв Г.
+  - Шадрин Г. А.
+rubric: ekzamenatsionnye-materialy
+page_first: 48
+page_last: 48
+page_labels: "46"
+tag: K0J5
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 4b3d2d6df36e5216928dba8599f9ebc458c0b1a96cde06bf222ccfdf0b09d77b
+prompt_sha256: draft-1
+translated_from: content/ru/1981/07/articles/16_nazaretov-tkachev-shadrin-moskovskiy-gidromeliorativnyiy-institut-e91ca8f7.md
+source_content_sha256: af6df4cd4c0f9f282f35a9d27f26492c2379e6c796b721c1669cbadd226c9115
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 46⟧
+
+7. Knowing that $\sqrt{2} \approx 1,41$ and $\sqrt[3]{3} \approx 1,44$, calculate $\sqrt[6]{72}$.
+
+8. For what $a$ does the graph of the function $y = ax^2 - 6x + 7$ have no common points with the $Ox$ axis?
+
+Physics
+
+Oral exam assignment
+
+1. Two homogeneous balls of mass $m_1 = 3$ kg and $m_2 = 5$ kg with radii $R_1 = R_2 = R = 5$ cm are connected by a homogeneous rod with mass $m_3 = 2$ kg and length $l = 30$ cm. Find the center of gravity of the system.
+
+2. A cube with a mass of $m = 2$ kg and a volume of $V = 10^3$ cm$^3$ is located in a lake at a depth of $H = 5$ m. Assuming the density of water to be $ρ = 10^3$ kg/m$^3$, determine what work is done when lifting the cube to a height of $h = 5$ m above the lake level. The surfaces are surface ice $\lambda = 3,35 \cdot 10^5$ J/kg.
+
+3. In a time of $\tau_1 = 20$ minutes of operation, the refrigerator cools $V = 1,5$ liters of water placed in the freezer compartment, from $t_1 = 16^\circ C$ to $t_2 = 4^\circ C$. Find the mass of ice formed in the chamber if the cooling process was continued for another $\tau_2 = 60$ min under the same conditions. Specific heat of water $c = 4,2 \times 10^3$ J/(kg K). Specific heat of melting of ice $\lambda = 3,35 \cdot 10^5$ J/kg.
+
+4. A car with a power of $N = 76,5$ kW, having an efficiency coefficient of $\eta = 32\%$, when moving at a constant speed along a path of $s = 120$ m, consumes $m = 64$ g of bezine. Determine the speed of movement of the automation if the heat of gasoline is $q = 4,6 \cdot 10^7$ J/kg.
+
+5. The distance between the charges $q_1 = 2 \cdot 10^{-8}$ Kl and $q_2 = 1,6 \cdot 10^{-7}$ Kl is $R = 5$ cm. Find the direction of the field at a point distant from the first charge by a distance of $R_1 = 3$ cm and from the second charge by a distance of $R_2 = 4$ cm.
+
+6. In the circuit shown at figure, the potential between points $A$ and $B$ is equal to $U = 250$ V. The electrical capacity of the capacitors is $C_1 = 1,5$ µF, $C_2 = 3$ µF, $C_3 = 4$ µF. Determine the total charge on the capacitor plates.
+
+7. On the light bulb for a flashlight it is written: $U = 3,5$ V, $I = 0,28$ A. Filament temperature init $t = 425^\circ C$, resistance init at zeroaudus Celsius $R_0 = 4$ Ohm. Determine the temperature coefficient of resistance init.
+
+8. What mass of ice, having a temperature of $t = -10^\circ C$, can be removed in $t = 10$ minutes in an electric boiler operating from a network with a voltage of $U = 220$ V and a current strength of $I = 3$ A? The efficiency of the electric boiler is $\eta = 80\%$. Specific heat of ice $c = 2,1 \cdot 10^3$ J/(kg K); specific heat of melting of ice $\lambda = 3,35 \cdot 10^5$ J/kg.
+
+9. A ray of light, the angle of incidence of which on the interface between two media is equal to $\alpha = 30^\circ$, is transformed in the second medium so that the angle between the refraction and reflected rays is $\gamma = \pi/2$ rad. Determine the refractive index $n_2$ of the second medium if the refractive index of the first medium is $n_1 = 2,4$.
+
+10. Find the image of a point located at a distance of $d = 2,8$ m from a spherical concave mirror on the main optical axis. The radius of curvature of the mirror is $R = 90$ cm.
+
+V. Antitenko, M. Bodunov,
+A. Ryazanovsky, B. Yarov
+
+Moscow Hydromelorative Institute
+
+Matematika
+
+Written exam
+
+Option 1
+
+1. In the Cartesian rectangular coordinate system $Oxy$ on the curve $y = x^2$ two points $A$ and $B$ are given such that $\overrightarrow{OA} \cdot \overrightarrow{i} = 1$ and $\overrightarrow{OB} \cdot \overrightarrow{i} = -2$, where $\overrightarrow{i}$ is the unit vector of the $Ox$ axis. Find the length of the vector $12\overrightarrow{OA} - 3\overrightarrow{OB}$.
+
+2. Find all solutions of the equation $\frac{2x^2 - 5|x| + 2}{x + 2} = 0$ that belong to the domain of definition of the functions $y = \frac{x}{4x^2 - 1}$.
+
+3. In the Cartesian rectangular coordinate system $Oxy$, a figure $F$ is given, bounded by an axis $Ox$, a curve $y = 2x^2$ and a tangent to the curve $y = 2x^2$ at the point $A(x_0; y_0)$, where $x_0 = 2$. Find the area of ​​the figure $F$.
+
+4. Calculate $\sin^2\left(\frac{12\pi}{8} + \frac{3}{2}\alpha\right) - \sin^23(\pi + 0,5\alpha)$ given $\alpha = \frac{7\pi}{12}$.
+
+Option 2
+
+1. In the Cartesian rectangular coordinate system $Oxy$ on the part of the curve $y = x^2 - 2x + 3$ lying in the first four points $A(x_1; y_1)$ with abscissa $x_1 = 1$ and points $B(x_2; y_2)$ with ordinate $y_2 = 11$. Find the scalar product of the vectors $\overrightarrow{OA}$ and $\overrightarrow{OB}$.
+
+2. Solve inequality $\log_2\log_3\frac{x-1}{x+1} < \log_2\log_3\frac{x+1}{x-1}$.
+
+3. Find all solutions of equation $3^{2x+1} - 4 \cdot 3^x + 1 = 0$ that satisfy conditions $\sin \frac{9+x}{x+0,5} > 0$.
+
+4. Of all the cones inscribed in a ball of radius $R$, find the one with the largest flat surface.

@@ -1,0 +1,91 @@
+---
+id: 1981-11-govoryat-studentyi-050d6301
+issue: kvant_1981_11
+year: 1981
+number: "11"
+title: Students say
+rubric: smes
+page_first: 41
+page_last: 41
+page_labels: "39"
+tag: JIGL
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 1e3e5281fdc47882b576389e049876559931932e8495638b8c343d9c4cc19d0e
+prompt_sha256: draft-1
+translated_from: content/ru/1981/11/articles/12_govoryat-studentyi-050d6301.md
+source_content_sha256: dbe15a80efe3ff7e52e551f2a519a5681a2e21cb1f6aa06472f0172c131ac797
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 39⟧
+
+Students say
+
+The newspaper of the Moscow Institute of Physics and Technology “For Science” dated January 23, 1981 published students’ answers to the questions of the MIPT questionnaire. We think that this material will also be of interest to our readers - future students.
+
+They are different in age and character, in attitude to learning and difficulties. Some of their responses are server-based, others are reciprocal. Conversation sheet into sex: it’s who was in the mood.
+
+So, physicists answer the questionnaire questions:
+Why did you go to physical education?
+— I wanted to test my strength - my ability to do server work.
+- Out of principle. I had to prove it to someone.
+— I really liked physics at school. Well, I carefully pushed the boyish side to where it was more difficult.
+— I studied at ZFTSH and was interested in mathematics. I chose Physics and Technology in the 8th grade.
+Were the entrance exams difficult?
+- No. And this was the first thing that shocked me at the gym.
+“Then they seemed difficult to me.”
+— Passing a good exam is not difficult.
+- In physics - no, in mathematics - yes.
+— Entrance exams are nonsense compared to the first sex.
+What helped you get in?
+- Self-confidence and knowledge.
+— ZFTSH and interest in physics.
+— First of all, luck; Well... I was getting ready.
+- I'm desperately lucky!
+First impressions (the brightest event)?
+— Master of Sports of the USSR badge on the chest of the physics examiner.
+— The very atmosphere of the gym.
+
+On the first day, the busy worker, having spent 5 hours, received a pass to the mini-computer room.
+— The first three in my life.
+Is it difficult to study for physical education?
+— It’s more difficult than not studying.
+- Yes. We have to understand such sciences that in the future only reports will be prepared. And we study what really interests you on our own, in our free time.
+— If you study, then not very well.
+- Very. Because of sex.
+- It's difficult. A grade in school didn't stop any work. Everything is learned by comparison.
+- It must be difficult. But when you like it, you don’t see it.
+What do you do in your free time?
+— I am engaged in literary activities.
+“I tried to grow above myself.”
+- Lyublyuchity. But the main thing is dance classes. I consider dancing to be both a department and a job at the same time. They help me penetrate the world of art.
+- Strange question! I study quantum mechanics.
+- Nothing. That's why it's free.
+What is most characteristic of MIPT and its students?
+— Work in pulse mode; the ability to “take on”, “strain” and shape any material.
+— Modesty is definitely not typical for them.
+- There is no prior admiration for anything.
+Do you think there is a “spirit of fizek”?
+- Exists. This is the desire to be the first in any business you undertake.
+— Phystech students are not afraid of difficult problems.
+- Without a doubt. For example, he has a manner of solving problems “from symmetry messages,” that is, from the most vague and complicit initial proposals.
+- They say it exists. At the beginning of this two, maybe it’s good, but in general I don’t like him.
+
+Aktega
+
+Dear reader!
+To improve the work of the magazine and better satisfy your interests, the editors ask you to answer the following questions (send your answers on a separate piece of paper, keep the numbering of the questions). For some questions, it is enough to list the headings or write “date” or “no”; for others, it is advisable to give a detailed answer. The editors will be very grateful to you if, in addition, you write your general opinion about the magazine, give examples of when it helped you (and how), indicate what interests you most in the magazine, and how else it could help you.
+
+Please send the questionnaire before February 1, 1982 to the address: 113035, Moscow, M-35, B. Ordynka, 21/16, Questionnaire «Kvant».
+
+1. Your last name, first name, patronymic, age, place of study (city, school, class) or work (profession, specialty), range of interests (mathematics, physics).
+2. Since what year have you been reading «Kvant»?
+3. How many people read your numbers «Kvant»?
+4. Materials from which sections of the magazine interest you most and are available to you? Which ones are you not interested in or don’t like?
+5. Name 2-3 best stats (for 1979-1981) from different sections of the magazine.
+6. Do you solve the problem from the Problem Book «Kvant»? Name the numbers of the 10 best tasks, the conditions or solutions of which were published in 1980-1981.
+7. What topics would you like to see covered in the magazine in 1982?

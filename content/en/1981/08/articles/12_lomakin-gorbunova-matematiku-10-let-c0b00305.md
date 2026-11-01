@@ -1,0 +1,69 @@
+---
+id: 1981-8-lomakin-gorbunova-matematiku-10-let-c0b00305
+issue: kvant_1981_8
+year: 1981
+number: "8"
+title: '"Mathematics" - 10 years'
+authors:
+  - Ломакин Ю. В.
+  - Горбунова В. А.
+rubric: smes
+page_first: 51
+page_last: 51
+page_labels: "49"
+tag: PDRI
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 2e63e109fb2c00da506cafc3bd297c0615366ad0ea03c69d4cf41cf26cb0713e
+prompt_sha256: draft-1
+translated_from: content/ru/1981/08/articles/12_lomakin-gorbunova-matematiku-10-let-c0b00305.md
+source_content_sha256: 22fcfb49d29c7a94cec8cf550d02ce5199ab2fce56292de7c4e084cce377d53d
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 49⟧
+
+In this case, the problem is easy to solve.
+
+However, things can happen differently. We can, for example, pack sand tightly into the body, adding “jamming” of the sand when no amount of shaking will help - the force of pressure on the wall can be many times greater.
+
+If we pour sand slowly and carefully, in a cone, and then carefully fill the edges and carefully avoid shaking, then the pressure force may be significantly less than in the “hydrostatic” case. In general, statically indeterminate problems have many correct (and non-correct, of course) solutions.
+
+A reasonable choice of model can greatly facilitate the solution of a serious problem when carried out in Mathematics - 80.
+
+1. A sheet of paper with an area of ​​60 cm² is covered with three multi-colored blots with an area of ​​30 cm². Prove that there are two blots whose total area is at least 10 cm².
+
+2. The magician invites you to write down any three-digit number. Then he comes up and, looking at the written number, immediately adds three digits so that the resulting six-digit number is divisible by 37. How does he do this?
+
+3. Find all pairs of integers whose sum is equal to their product.
+
+4. The number of years of a certain person in 1962 was equal to the sum of the digits of his year of birth. What year was he born?
+
+5. Find the most particular value of a number whose first three digits form a number representing a perfect square, and the last three digits form a perfect cube.
+
+6. It is known that $x + 1/x$ is an integer. Prove that then the number $x^8 + 1/x^8$ is also an integer.
+
+7. It is known that $a + b + c < 0$ and that the equation $ax^2 + bx + c = 0$ has no real roots. What sign does the number $c$ have?
+
+8. It is known that $a, b, c$ are distinct numbers, and $a^3 + b^3 + pc + q = 0$; $c^3 + pc + q = 0$. Prove that $a + b + c = 0$.
+
+9. Given an acute angle and a point $A$ inside it. Construct a triangle $ABC$ of minimum perimeter, the vertices $B$ and $C$ of which lie on the sides of the given angle.
+
+10. There are three types of angles in a quadrilateral. Prove that the larger of its two diagonals is the one drawn from the vertex of the acute angle.
+
+11. Point $M$ is the center of a circle inscribed in triangle $ABC$. Prove that the center of the circle passing through the points $A, M, C$ lies on the bisector of the angle $B$.
+
+12. At what value of $k$ do equations $x^3 + kx + 1 = 0$ and $x^4 + kx^2 + 1 = 0$ have a common root? Find this root.
+
+13. Prove that a number written in 81 units is divisible by 81.
+
+14. For what $c$ does the equation $4x^3 - 3x = c$ have one, two, three roots?
+
+15. Prove the validity of inequality $(n \in N)$
+
+$$\frac{2}{\sqrt{n+1} + \sqrt{n-1}} > \frac{1}{\sqrt{n}}.$$
+
+Yu. Lomakin, V. Gorbunova

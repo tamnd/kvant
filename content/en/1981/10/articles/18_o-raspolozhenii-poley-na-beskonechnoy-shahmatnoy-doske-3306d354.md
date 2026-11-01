@@ -1,0 +1,66 @@
+---
+id: 1981-10-o-raspolozhenii-poley-na-beskonechnoy-shahmatnoy-doske-3306d354
+issue: kvant_1981_10
+year: 1981
+number: "10"
+title: '[On the arrangement of fields on an infinite chessboard]'
+rubric: raznoe
+page_first: 59
+page_last: 59
+page_labels: "57"
+tag: K4HB
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 8f7bf64f45d00039dd41e8711ed90fe478693dbef55a49f12a79b2be906d70a1
+prompt_sha256: draft-1
+translated_from: content/ru/1981/10/articles/18_o-raspolozhenii-poley-na-beskonechnoy-shahmatnoy-doske-3306d354.md
+source_content_sha256: 1f3c8ce12c1ff573e7916c1650c079a3c71c84bc6902546168a6334d1771c593
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 57⟧
+
+Let's start with the result. The number n is entered.
+
+program remainders (output, in put);
+var n, sum: integer;
+begin
+read(n);
+summa:=n mod 2+n mod 3+
++n mod 5;
+writeln('SUM=', summa)
+task 15.1. Natural numbers satisfying the recurrence relation $\phi_{n+1}=\phi_n+\phi_{n-1}$ with $\phi_0=0$ and $\phi_1=1$ are called Fibonacci numbers: 1, 1, 2, 3, 5, 8, 13, ...
+*) For more details, see, for example, N. N. Vorobyov “Fibonacci Numbers” (Series “Popular Lectures on Mathematics”, M., “Nauka”, 1978) or «Kvant», 1979, No. 5, p. 53.
+
+Write a program that, based on the values ​​of two neighboring numbers $\phi_1$ and $\phi_2$, obtains the following three numbers - $\phi_3$, $\phi_4$, $\phi_5$. Print all five numbers—two original numbers and three results. The numbers $\phi_1$ and $\phi_2$ are output.
+
+What will the program print if the original numbers are 8 and 13?
+Task 15.2. figure 8 shows a cross-section of a piston - the fields of a cylinder with three annular grooves and a final recess on the end surface. The piston dimensions are shown in figure. Write a program to calculate the volume of this part. The volume of a cylinder can be found by the formula $v_u=\pi R^2 h$, and the volume of a cone - $v_k=\frac{1}{3}\pi R^2 h$, where $R$ is the radius of the base, and $h$ is the height of the cylinder and cone. Provide values ​​$R$ and $h$.
+
+Dictionary
+program - program
+begin - beginning
+end - end
+const - constant
+var - variable
+type - type
+boolean - logical
+integer - whole
+char - letter (sign)
+real - real
+false - false
+true - true
+AND - and
+OR - or
+NOT - not
+
+N. Yunerman
+
+Our cover
+
+How are the squares located on an infinite chessboard in which “knight 2-3” can get from a given “central” square $O$ in $n$ moves ($n=1, 2, 3, \dots$)? (“Knight 2-3” makes a move with the letter $\Gamma$ on 2 squares in one direction and 3 in the perpendicular direction.) Let’s call the minimum number of moves that this knight can take from $O$ to the square $X$, the distance from $O$ to $X$. On the first page of the cover, the fields located at a distance $n$ from the center $O$ are colored in different colors (see figure).
+
+You can check figure on the cover by sequentially marking on a large sheet of checkered paper the cells in which knight 2-3 can get from the central square in 1 move, then in 2 moves, in 3 moves, etc. You will be convinced that for knight 2-3 the picture turns out to be much more complex than for the usual knight 1-2 (the “distance” for such a knight is described in the article by D. Cohen, published in this issue): only towards the village move are the “internal holes” filled, and it becomes possible to trace the general pattern that will be preserved during the next moves. Try to answer these questions. How many cells are at a distance $n$ from $O$ for $n \geq 8$ (for $n \leq 7$ you can make a table, use the cover, and for $n \geq 8$ you can write a general formula)? What is the distance (in the “cond 2-3” metric) between cells (0;0) and (x;y) (for $x \leq 12$ and $y \leq 12$ this can be found out from the cover)?
