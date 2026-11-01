@@ -1,0 +1,60 @@
+---
+id: 1987-6-gik-chempionat-mikrokompyuterov-1e41485e
+issue: kvant_1987_6
+year: 1987
+number: "6"
+title: 微机锦标赛
+authors:
+  - Гик Е. Я.
+rubric: shahmatnaya-stranichka
+rubric_sub: Шахматы
+page_first: 67
+page_last: 67
+tag: ZTAN
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 606d6594d3e441c39272fd196deb1f7a53744b5f76c650b6e1901697710bfd89
+prompt_sha256: draft-1
+translated_from: content/ru/1987/06/articles/01_gik-chempionat-mikrokompyuterov-1e41485e.md
+source_content_sha256: aabe66d3214f1be204b563548399bde8934b2b03de0fc40a145d1a267483d976
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 12⟧
+
+微型计算机锦标赛
+
+上一期讲的是第五届大型计算机世界国际象棋锦标赛。第六届微机锦标赛也按照瑞士赛制进行：14台机器经过七轮角逐“桂冠”。 “墨菲斯托”获得6分，连续第三次获胜。有人可能会说，这一次的冠军本质上是个人和团队的。三台“Mephisto”（德国）、三台“Fidelity”（美国）——前三届冠军得主、三台“Rekom”（荷兰）、三台“Cyrus”（英格兰）以及各一台“Chess Monster”（美国）和“Kemplen Aatri”（匈牙利）参与了这场争论。同一公司的代表没有会面。在团体冠军以及个人赛中，“墨菲斯托”均获得冠军（第一名、第三名和第五名）。
+
+哪些机器播放速度较慢 - 大机器还是小机器？通用计算机能够解决各种各样的问题，在内存容量和速度方面超越了微型竞争对手。国际象棋微型计算机很特殊——它们的硬件是专门为下棋而设计的，这些机器不能做其他任何事情。然而，最近实现某些国际象棋功能的附加微处理器和硬件模型已连接到大型机器上，并且通过使用更先进的微电路来改进小型计算机的参数。结果，机器分类的差异减少了，微型计算机与功能更强大的计算机处于同等地位。他们的小同事参加了第五届世界锦标赛的全能选手，
+
+而且，“墨菲斯托”微型冠军仅落后“克雷闪电战”超级冠军一分。
+
+让我们来介绍一下上届世锦赛上微机的几场比赛。
+
+《忠诚》——《墨菲斯托》为ALEXin辩护
+
+1. e4 Kf6 2. e5 Kd5 3. Kc3 K:c3 4. dc d6 5. Kf3 Kc6 6. Cf4（通常是 6. Cb5 的延续） 6...Qd7！？电脑祸害登场！该理论考虑 6...g6、6...Cg4 或 6...de。黑后打算跳到f5，可以用7.Bd3来反击。 7.Bb5 a6 8.Ca4 b5 9.Cb3 Qf5 10.Cd5 Cb7 11.g3？是谁削弱了大对角线？对于三届世界冠军来说这是不可原谅的。 11...de 12. K:e5 0—0—0！ 13.0-0。 13.Qf3之后，g2-g3这一步棋的后果立即出现：13...Jl:d5！ 14.Q:d5 K:e5 15.Q:e5 Q:e5 16.C:e5 C:h1。 13...g5？显然，在 13...e6 之后，计算机认为骑士棋子的行进会给它更多的材料来征服。 14.c4？是的，有很多错误。现在 14. C:c6 (14. Qf3 Jl:d5 15. Q:d5 gf 16. Q:f7 Q:e5 17. Qe8+ Kd8 18. Jad1 Cd5) 14...Jl:d1 15. Jlf:d1 C:c6 16. K:c6 gf 17. Jld8+ Kpb7 18 更加持久。 Ka5+ 具有可靠的 18...Kpb6？ 19.Jlb8+ Kpb7 20.Kc6× 或 19...Krp:a5 20.a4!!, 19...Kpc5 20.Jld1。确实，18...Kpa7 之后！ 19.Kc6+ Kpb6 20.Kd4 Qf6 白方毫无防御能力。
+
+14...bc 15. K:f7 Jl:d5 16. Qh5 gf 17. Q:f5 Jl:f5 18. K:h8 Cg7，黑方获胜。
+
+《墨菲斯托》-《Recom》皇后弃兵
+
+1. c4 e6 2. Kc3 d5 3. d4 c5 4. cd ed 5. Kf3 Kc6 6. g3 Kf6 7. Cg2 Ce7 8. 0—0 0—0 9. Cg5 cd 10. K:d4 h6 11. Ce3 Cg4。塔拉什防御法在微编译中不仅在机器中流行，而且在人类中也很流行。让我们回顾卡斯帕罗夫继续
+
+这里 11...Re8。最有可能的是，Recom 的创建者没有时间更新计算机的首次亮相库。 12.Qb3 Ka5 13.Qc2 Jlc8 14.h3 Cd7 15.Kf5 Cc5 16.C:c5 Jl:c5 17.Jad1 b5 18.Qd3 Kc4 19.K:d5 K:b2 20.Kfe7+ Kph8 21.Qd4 Jl:d5 22.K:d5 K:d1 23. Jl:d1 Ce6 24. K:f6？经过多次交换，位置变得简单了很多，但现在继续24.e4，白方由于中路的优势仍然保持着明显的优势。 24...Q:f6 25.Q:a7 Qb2 26.e3 C:a2 27.Qc5 Je8。由于 b 兵的通过，黑方的机会已经更高。 27..​​.Kpg8 更可靠。 28.CC6 Je5?? Rekom不是拥有最好的特性吗？难道它的程序中不可能包含“FV”方法吗？ 29.Jld8+ Kph7 30.Ce4+！ Jl：e4。也许机器从远处观察着 30...g6 棋并切断了 Varanite，没有注意到安静的棋 31.Qf8 不可避免地将死。 31. Qf5+ g6 32. Qxe4，发黑牌。
+
+“Cirus”-“Mephisto” 在这场比赛中，黑人玩家是冠军第五名的“Mephisto”的复制品。但显然，对于公司的所有代表来说，战术警惕都是相同的。
+
+17...Jl：d4！简单而有效的一击立即点缀了所有的“1”。 18.Qxd4 Bb7 19.f3。 19.Cd5 Kxd5 20.Cg3（或20.Jldc1）20...Kc3！等等 19...Cc5 20. Jld1 C:d4+，就是这样。
+
+竞赛任务
+
+11. 白色：Kph6、Ce3、c2 项；黑色：Kpe2，项目a3。白棋开始并获胜。
+
+12. 白色：Kpc8，第 a2、f4 页；黑色：Kph6、Kh3。白棋开始并获胜。
+
+发送决定的截止日期是 1987 年 8 月 20 日，信封上注明：“国际象棋比赛“Kvata”，任务 11、12。”

@@ -1,0 +1,38 @@
+---
+id: 1987-4-12-aprelya-den-kosmonavtiki-206dd9d9
+issue: kvant_1987_4
+year: 1987
+number: "4"
+title: 4 月 12 日 — 航天日
+rubric: osnovnye-stati
+page_first: 4
+page_last: 4
+page_labels: "2"
+tag: GXGJ
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 6c90375b4cd3f59ea8a7ca28d635ee14580e141f862f6914afca1dcf14ef7320
+prompt_sha256: draft-1
+translated_from: content/ru/1987/04/articles/02_12-aprelya-den-kosmonavtiki-206dd9d9.md
+source_content_sha256: 48a1e546220ab891d03f511953d8bcaff498a93e5c031e5f1146cf841cd02b04
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 2⟧
+
+4 月 12 日 — 航天日
+
+时间无情地向前移动，让我们远离地球上第一个居民升入太空的那个值得纪念的日子。尤里·加加林的死不仅仅是他个人的壮举。这是许多苏联人的壮举，他们计算、设计、建造和测试了东方一号航天器，并为宇航员的飞行做好了准备。此后，我国继续成功地为和平目的探索和利用外层空间。
+
+1986年2月20日，和平号轨道研究站首次发射升空。它基于六个对接节点，代表了创建具有特殊轨道模型的多功能筏综合体的基本块 - 一个真正的轨道科学技术研究所。现在宇航员宇。 Romanenko 和 A. Laveikin 在和平号空间站工作。
+
+苏联航天的一项杰出成就是 Bega-1 和 Bega-2 空间站对哈雷彗星的自动探测。由RENTen电话建立的苏联太空轨道观测站“Astron”于1987年2月下旬调查了一种独特的天体现象——我们邻近星系——大麦哲伦星云中的超新星爆炸。未来 - 新项目。
+
+1988年夏天，计划发射两艘旨在探索火星及其卫星火卫一的航天器。在保加利亚、叙利亚和法国太空科学家的参与下，联合太空机组人员的飞行准备工作正在进行中。
+
+苏联正在积极扩大太空国际合作范围。贝加站使用的设备由来自保加利亚、匈牙利、东德、波兰、捷克斯洛伐克、澳大利亚、法国和德国的科学家开发。
+
+我们是太空十亿化的积极反对者。因此，我们坚持消除威胁人类生存的美国星球大战计划。在这场斗争中，我们得到了更伟大的干员的支持。

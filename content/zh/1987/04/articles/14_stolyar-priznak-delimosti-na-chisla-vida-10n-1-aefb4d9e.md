@@ -1,0 +1,56 @@
+---
+id: 1987-4-stolyar-priznak-delimosti-na-chisla-vida-10n-1-aefb4d9e
+issue: kvant_1987_4
+year: 1987
+number: "4"
+title: 10n ± 1 形式的数字的整除性测试
+authors:
+  - Столяр В. Г.
+rubric: shkola-v-kvante
+page_first: 41
+page_last: 41
+page_labels: "39"
+tag: QWTZ
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: fb9f65823a35762c6fddbf61f2b652dfc89b0a32655ce9279855ef906b338e4f
+prompt_sha256: draft-1
+translated_from: content/ru/1987/04/articles/14_stolyar-priznak-delimosti-na-chisla-vida-10n-1-aefb4d9e.md
+source_content_sha256: 8ef34f33f6576a4556236fcc3fb2034ba9f420e16770af83bac6015c339b3a4a
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 39⟧
+
+数学 8、9、10
+
+下面发布的注释“被 10n±1 形式的数字整除的测试”适用于八年级学生，注释“第一外交官极限”适用于九年级和十年级学生，注释“维特公式”适用于八年级学生。
+
+10n±1 形式的数字的整除性测试
+
+1884年，在基辅出版的《基础数学杂志》的其中一期中，该杂志的创始人V.P.教授发表了一篇文章。叶尔马科夫，《数的整除性的标志》出版。该文章通过 10n±1 形式的数字显示了如下所述的整除性迹象。
+
+要找出给定数字 N 是否可以被数字 m=10n+1 整除，您需要：
+A.丢弃数字N中的最后一位；
+B.从结果数中减去被丢弃的数字与n的乘积；
+B. 用结果数执行操作 A 和 B；
+D. 如此进行，直到（最后一次操作B）剩下一个小于或等于0的数字；
+D、若剩余数为0，则N除以m=10n+1；否则 N 不能被 m 整除。
+让我们证明一下。如果 k 是 N 的最后一位数字，则操作 A 和 B 将 N 转换为数字
+$$\frac{N-k}{10} - kn = \frac{N-k-10kn}{10} = \frac{N-km}{10}.$$
+显然，当且仅当 N 能被 m 整除时，这个数才能被 m 整除。进一步的操作会减少数字，但不会改变其被 m 整除的能力，这就是 D 后面的位置。
+
+示例
+
+$$N = 11934, m = 51:$$
+$$11934 \rightarrow 1193 \rightarrow 1173 \rightarrow 117 \rightarrow 102 \rightarrow 10 \rightarrow 0$$
+
+$$N = 15314, m = 61:$$
+$$15314 \rightarrow 1531 \rightarrow 1507 \rightarrow 150 \rightarrow 108 \rightarrow 10 \rightarrow 38$$
+
+我们看到 11,934 可以被 51 整除，但 15,314 不能被 61 整除。
+
+请注意，在可整除的情况下，如果我们以相反的顺序写入丢弃的数字，我们会得到部分

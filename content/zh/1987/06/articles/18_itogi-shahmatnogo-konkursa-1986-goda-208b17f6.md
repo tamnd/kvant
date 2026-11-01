@@ -1,0 +1,43 @@
+---
+id: 1987-6-itogi-shahmatnogo-konkursa-1986-goda-208b17f6
+issue: kvant_1987_6
+year: 1987
+number: "6"
+title: 1986年国际象棋比赛成绩
+rubric: informatsiya
+rubric_sub: Информация
+page_first: 60
+page_last: 60
+page_labels: "58"
+tag: 4X1F
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 7a6b69f966572b40eb3cce3577185838ed85354d2e1e2b8e3b3530247ce817fa
+prompt_sha256: draft-1
+translated_from: content/ru/1987/06/articles/18_itogi-shahmatnogo-konkursa-1986-goda-208b17f6.md
+source_content_sha256: 0ea697378ad8b1cf06e29a51173e755182b4f3718bfefc61b83b92aa9cffb1e0
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 58⟧
+
+主题包括计算机图形、音乐、LISP、计算机体系结构、电子表格。编程是在 Pravets PC 上用 Pascal 进行的。
+除了实践课程外，还采用了理论课程：为学生开设了Pascal编程语言的讲座课程，还开设了数理逻辑、数论和逻辑编程语言Prolog的小课程。
+学校的学生们非常渴望看到和了解一切！阳光明媚的天气和靠近湖泊都无法让学童远离电脑。在学校关闭前举行的科学会议上，这些家伙谈论了他们最有趣的作品。小学生们在电脑上展示了自己的卡通节目《猫利奥波德的夏天》、《猫和狗的故事》等。
+但孩子们在学校度过的日子并不仅仅是用来学习的。体育比赛和 KVN、罗斯托夫-维尔基尼游览以及与《青年技术》杂志编辑的会面、“记忆之战”之旅，与青年人紧密相连
+
+1986年国际象棋比赛成绩
+
+1986年的国际象棋比赛意外地打破了所有记录——编辑收到了超过3000封关于第一个任务的来信。显然，卡斯帕罗夫和卡尔波夫的世界冠军赛之后，人们对国际象棋的兴趣有所增加，«Kvant»的读者中出现了更多的棋手。随着比赛的进行，任务变得更加具体，参与者的数量当然也减少了。但仍然有数百名读者坚持到了最后！最初，计划奖励 II 类和 I 类最佳解决方案，然而，我们发现，大多数解决了规则（超过 16 项任务）的人已经获得了第二类，甚至是第一类。因此，决定将一等奖授予所有 40 名比赛获胜者（其中一些是第二次获奖！）。
+在比赛参与者中，有很多人甚至不需要打开信封——邮局的决定可能是正确的。这些都是经验丰富的求解者，如 A. Ryabov、I. Kvasha、V. Medvedev、V. Moskalenko、M. Germanov、D. Krasikov、A. Boyko 等。他们多次在比赛中获胜，分别获得杂志文凭、奖品和一等奖。这一次，我们将那些名气不太大的参与者纳入了获奖者名单。
+以下是本次比赛的 40 名获奖者：V. Alferov（克麦罗沃）、M. Andrukhin（顿涅茨克）、H. Anmitsa（顿涅茨克地区克列缅涅夫卡村）、D. Borisenko（莫斯科）、S. Bulatov（莫斯科地区拉门耶村）、Y. Velikiyov（高尔基）、V. Gasnikov（莫斯科地区加里宁格勒）、O. Glauberman (顿涅茨克)、A. Goncharenko (伊万诺沃)、M. Gumberidze (Mukedi GSSR 村)、A. Davydov (高尔基州 Elfimovo 村)、A. Zholkover (Lyubertsy)、V. Ivanov (图拉)、S. Katarrin (奥穆廷斯克)、M. Kuperman (莫斯科)、Y. Lavrenok (基辅)、Yu。 Litvinenko (奥德卡)、N. Lobzhanidze (第比利斯)、R. Malk (伏罗什尔格勒)、I. Maedov (Khanlk AeSSR)、A. Melnikkov (莫斯科)、V. Moiseev (莫斯科)、D. Moiseev (莫斯科)、A. Molchanov (日丹诺夫)、E. Musazharov (卡拉干达)、V. 和 T. Ojagverdiev (别洛坎)、D. Popadis (涅维诺夫斯基)、I. Potekhin (莫斯科)、V. Pshenichny (杰米扬斯克)、V. Rastorguev (莫斯科)、I. Savchenko (列宁格勒)、A. Sergushev (明斯克)、M. Sidorenk (加里宁格勒，莫斯科地区)、S. Tasmuratov (阿斯特拉罕)、R. Torgovniky（莫斯科）、V. Chebasov（古比雪夫）、A. Chernyavsky（莫斯科）、E. Chuglazova（扎拉夫山）、N. Yazdanov（瓦什自治苏维埃社会主义共和国基尔奇罗沃村）、V. Yakubovsky（弗拉基米尔地区萨多维村）以及编辑的祝贺，我们向他们寄送文凭和杂志。徽章、由 A. Karpov 和 E. Gik 撰写的国际象棋文献以及第一类写作文件。
+
+一个周期内施工
+1. 圆$S_1$（减去点$O$）是与圆$S$与直线$AB$上的点的关系对称的点的轨迹；圆$S_2$是与圆$S$与线$CD$的点的关系对称的点的轨迹。因此，点$P$相对于圆$S$对称，既与直线$AB$的点又与直线$CD$的点对称，即$P'$是直线$AB$和$CD$的公共点。请注意，当且仅当圆 $S_1$ 和 $S_2$ 有一个公共点 $O$ 时，线 $AB$ 和 $CD$ 平行，即它们在点 $O$ 相交，并且当且仅当它们与圆重合时，线 $AB$ 和 $CD$ 重合$S_1$ 和 $S_2$。
+2. 请参阅问题 6 和 4 的解决方案。
+3. 写入其中的正六边形的边长等于圆的半径。因此，$A$和$C$是正六边形中相对的顶点，即圆的直径相对的点。这意味着$AC$是直径，即点$C$位于射线$AB$和$AC=2AB$上。
+
+58
