@@ -1,0 +1,54 @@
+---
+id: 1979-9-klumova-smolyanskiy-novyie-knigi-06188763
+issue: kvant_1979_9
+year: 1979
+number: "9"
+title: 新书
+authors:
+  - Клумова И. Н.
+  - Смолянский М. Л.
+rubric: retsenzii-bibliografiya
+rubric_sub: Рецензии, библиография
+page_first: 62
+page_last: 62
+page_labels: "60"
+tag: DTTP
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: d26fd934a2ec7db6d03928c1993bc59c7a002fc7be81a73b50ff2272ceced0e1
+prompt_sha256: draft-1
+translated_from: content/ru/1979/09/articles/21_klumova-smolyanskiy-novyie-knigi-06188763.md
+source_content_sha256: 0e12e672efd1e1a4cd0a4f762e433b9154a99e4637c70ac652f7c6bbead633fe
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 60⟧
+
+新书
+
+本期我们发表 1979 年第三季度出版的数学和物理书籍的简要摘要。
+
+数学
+
+出版社“努卡”
+1. Grzegorczyk A. 流行的位置。翻译自波兰语第三版。卷5升，发行量10万册，售价30戈比。
+Andrzej Grzegorczyk 的这本书旨在满足非数学或逻辑专家对形式逻辑日益增长的兴趣。如今，这一科学分支已经获得了最重要的应用意义。电子数字机器和其他“智能”自动机的理论、语言结构的研究、数学和其他科学基础的深层哲学问题——这是形式逻辑的应用范围。形式逻辑是一门为正确推理建立通用方法（规则、方案）的科学。推论在数学中发挥着更重要的作用：所有数学理论都建立在以下数学方面的推导基础上的精确证明之上。因此，科学家在分析数学推理时发现最多正确推论的方案（方法）也就不足为奇了。正因为如此，现代形式逻辑被称为数理逻辑，因为它首先研究数学推理。她使用逻辑符号来做到这一点；因此，现代公式逻辑又称为陈述符号。作者用她的例子展示了正确陈述的现代逻辑方案的基础，以及十五人游戏的数学分析。
+
+本书既可供中学生自学，也可供教师作为选修课的基础。
+
+3. Ershov A.P. 代数三课。卷5升，发行量10万册，售价20戈比。
+本书面向初次熟悉该算法的读者，包含“阅读”代数所需的所有信息。演示按以下顺序进行：第一课是对语言基本结构的复杂描述；第二课介绍第一课一般规则的特殊情况和例外情况；第三课是例子，或者构建使用某些结构的最重要的案例。
+
+这本书对任何想学习代数的人都有用。
+
+4. Saltykov A. I.，Selyushko G. A. 面向所有人的编程。卷10升，发行量10万册，售价40戈比。
+本书概述了计算机编程的基础知识。考虑与以算法和程序的形式表示数学问题的解决方案相关的问题。编程和算法构建的基本示例。
+
+本书面向广泛的读者，可以作为一本独立的编程书籍。
+
+“Prosveshcheniye”出版社
+5. Berezina L. Yu.图及其应用。卷9升，发行量4万册，售价30戈比。
+作者向读者介绍了图论的基本定义、方法和应用。演示、练习和应用的选择使人们对图论的主要思想和方法及其最有趣的应用有一个全面的了解。

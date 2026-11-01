@@ -1,0 +1,78 @@
+---
+id: 1979-10-zadachi-nashih-chitateley-9da50912
+issue: kvant_1979_10
+year: 1979
+number: "10"
+title: 读者的任务
+rubric: smes
+page_first: 59
+page_last: 59
+page_labels: "57"
+tag: GWFI
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: d7d847519d3e3b173cc6d2b7e3aa2621a82e78b99d087fd44a815abcad66249a
+prompt_sha256: draft-1
+translated_from: content/ru/1979/10/articles/19_zadachi-nashih-chitateley-9da50912.md
+source_content_sha256: ca0ae7ad80cb7285667a59f350b9217a3c6a9e0b0682ac0bb6762c586cb7abd8
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 57⟧
+
+例如，如果您在机器人 RD-1 的终端上键入指令 CALL CHANGE PROCEDURE；
+然后机器人开始按数字顺序使用程序中包含的所有指令：打开窗户、弄湿牛肚等等。
+
+CHANGE 过程可以称为更短：
+带来改变；
+或者简单地：
+：改变;
+
+在描述过程时使用每条指令之前指示的数字的机制允许您纠正错误并插入程序的缺失部分。
+
+如果您在输入“完成”一词之前发现错误，则要更正它，您只需重新输入需要更正的处方（以及旧号码）。建议不要连续提供数字，而是在 10 之后提供数字，以便有空间插入缺失的指令。
+
+如果在过程描述已经完成时替换错误，则需要键入指令“CORRECT THE PROCEDURE”，其语法图在其表中给出。
+
+此后，您可以再次输入更正，就好像过程的描述仍在进行中一样。完成该过程后，您需要再次键入“FINISH”一词。
+
+我们将在学校接下来的课程中详细讨论纠正程序文本的内容。
+
+过程中包含的指令称为语句。与在终端上键入后立即执行的指令不同，运算符不会执行，而是在键入后寻求帮助。只有在调用相应的过程后，计算机或机器人才会教他们执行这些操作。
+
+几乎所有语句（包括过程调用）都可以用作运算符和指令。但是，也有例外：指令 FINISH、REMEMBER、CORRECT 不能用作运算符。
+
+任务 3.2。思考机器人“厨师”和“司机”的指令系统，并使用程序为它们编写两个程序。
+
+G·兹韦尼茨戈罗德斯基
+
+我们的读者作业
+
+1. 如果我们知道 $\sum_{i=1}^{n} a_i = S$ 和 $a_i > 0$，请找到总和 $\sum_{i=1}^{n} \left( a_i + \frac{1}{a_i} \right)^2$ 的最小值。 $a_i$达到什么程度？
+
+V·柳比莫夫
+（莫斯科）
+
+2. 设$a_1, a_2, \dots, a_n$为任意同号数，其中也有不同数。证明
+$$\left( \sum_{i=1}^{n} a_i \right)^2 \cdot \sum_{i=1}^{n} \frac{1}{a_i^2} > n^3.$$
+T·莱科夫
+（保加利亚）
+
+3. 证明以下估计：
+a) $1 + \frac{a}{2+0,5a} <
+\sqrt{1+a} < 1 + \frac{a}{2+0,4a}$,
+其中$0 < a < 1$；
+b) $1 + \frac{a}{3+a} < \sqrt{1+a} <
+\sqrt{1+a}$;
+< 1 + $\frac{a}{3+0,9a}$，其中 $0 < a < \frac{1}{2}$。
+使用估计 6)，计算近似值 $\sqrt[3]{2}$。
+S·贝尔科拉尤克
+（诉别尔哥罗德州科托沃）
+4. 证明对于 $0 < x < \frac{\pi}{2}$
+$$\sin^m x \cdot \cos^n x \leq
+\sqrt{m^m n^n} / (m+n)^{m+n}.$$
+J·苏科尼奇
+（基辅）

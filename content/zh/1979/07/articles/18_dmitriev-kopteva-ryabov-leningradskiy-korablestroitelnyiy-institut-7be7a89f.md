@@ -1,0 +1,76 @@
+---
+id: 1979-7-dmitriev-kopteva-ryabov-leningradskiy-korablestroitelnyiy-institut-7be7a89f
+issue: kvant_1979_7
+year: 1979
+number: "7"
+title: 列宁格勒造船学院
+authors:
+  - Дмитриев Г.
+  - Коптева Н.
+  - Рябов Л.
+rubric: ekzamenatsionnye-materialy
+page_first: 56
+page_last: 56
+page_labels: "54"
+tag: YKHP
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: c49ca8116e5cd2c682ccb6f3f0d86d794bcdf741b0e79650fd6f79ccc72099d8
+prompt_sha256: draft-1
+translated_from: content/ru/1979/07/articles/18_dmitriev-kopteva-ryabov-leningradskiy-korablestroitelnyiy-institut-7be7a89f.md
+source_content_sha256: b63ae767e378a97c80d19a8b88a56abb70a26bfab9030b070b27fd6f6bc6d119
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 54⟧
+
+选项2
+
+1. 简化表达式
+$$\left(1 - \frac{1+ab}{1+\sqrt{ab}}\right); \left[\sqrt{ab} \left(1 - \sqrt[3]{ab}\right) - \frac{(1-ab)\left(\sqrt[3]{ab}-1\right)}{1+\sqrt{ab}}\right]^3 - ab.$$
+
+2. 解方程
+$$\cos \frac{\pi-2x}{2} + \sin \frac{5\pi+2x}{2} = \mathrm{tg} \frac{13\pi}{4}.$$
+
+3. 解决不平等问题
+$$2\sqrt{x^2} \geq (x-1)^2 + 2.$$
+
+4. 证明平等
+$$C_{n+1}^2 + 2C_{n+2}^2 + C_{n+3}^2 = C_{n+4}^2.$$
+
+5. 将数字 12 分成两项，使这两项的立方和最小。
+
+物理
+
+口试作业
+
+1. 如果振动幅度为 2 cm，则基体负载进行和谐振动的周期的哪一部分距离平衡位置在 1 cm 以内？
+
+2. 在体积为$V=10$l、温度为$t_1=20^\circ\text{C}$的容器中，空气湿度为$r=80\%$。气温降至$t_2=5^\circ\text{C}$。所有凝结的水分都聚集在球形水滴中。必须向液滴施加什么电荷才能使其电势等于 $\varphi=1$ V？温度$t_1$和$t_2$下的饱和蒸气密度分别等于$\rho_1=17,3 \text{ г/m}^3$和$\rho_2=6,8 \text{ г/m}^3$。水的密度是$\rho_B=1 \text{ г/cm}^3$。
+
+3. 电动势源串联连接到两个相同的串联扁平空气电容器。如果将介电常数$\varepsilon=9$的电介质引入其中一个极板并完全填充整个电容器，其中一个极板之间的电场电压将如何变化？
+
+4. 求玻尔氢原子中电子的势能 $W_\pi$ 与其动能 $W_K$ 之比。
+
+5. 质子沿着中心线接近铀$^{238}\text{U}$的双重还原原子。如果质子以最小距离$R=0,5 \text{ Å}$接近铀，其初始速度是多少？质子的电荷和质量分别为 $q=1,6 \cdot 10^{-19} \text{ K}$ 或 $m=1,67 \cdot 10^{-27} \text{ кг}$。
+
+6. 在电浴中，零件上涂有墨水。已知电极间电压$U$、电源电阻率$\rho$、电极间距离$l$，求出涂布速度（即墨水层厚度$h$的增加率）。墨水的电化学当量为$k$，墨水的密度为$\rho_H$。
+
+7. 在水面上方$h$的高度处有一个点光源$S$。当垂直向下看时，由容器的平面镜底部给出的该源的图像 $S'$ 将位于哪里？盛有水的容器的深度为$d$，水的折射率为$n=4/3$。
+
+8. 点光源放置在聚光透镜的光轴上，距透镜$d=25$ cm。在镜头的另一侧 - 一次在 $a=27$ cm 的距离处，另一次在 $b=48$ cm 的距离处 - 放置了一个屏幕。在这两种情况下，屏幕上光点的照明中心是相同的。确定镜头的焦距$F$。
+
+9. 袖珍辐射剂量计是一个充电至一定电位差的空气电容器。在辐射的影响下，气体被调节，离子混合到电容器板，增加电势差。当用1瑞烯辐照时，正常条件下每立方厘米空气中会形成$n_0=2 \cdot 10^9$蒸气。如果电容器容量为 $C=3 \cdot 10^{-12}$ F，电位差为 $\varphi_1=180$ V 到 $\varphi_2=160$ V，剂量计会显示多少折返？腔室容积$V=1,8 \text{ cm}^3$。
+
+10. 多少个波长为 $\lambda=0,6$ µm 的焦点在平行光束中的总冲量等于$T=300$ K 温度下原子凝胶热运动的平均冲量？原子凝胶的质量为 $m=6,65 \times 10^{-27}$ kg，普朗克常数为 $h=6,62 \times 10^{-34}$ J s，玻尔兹曼常数为 $k=1,38 \cdot 10^{-23}$ J/K。
+
+A. Beuunkova、T. Vinogradova、V. Kobushkin、I. Nikitina、N. Strelyaeva、T. Fedorova
+
+列宁格勒造船学院
+
+列宁格勒勋章造船学院是该国最大和领先的大学，培养造船工程师，是列宁格勒最重要的高等教育机构之一。
+
+造船学院培养造船工程师设计和建造海船、坦克、集装箱船、破冰船、动态支撑推进船舶（水翼船和气垫船）以及海洋探索技术的新手段。该学院还培养水电、船舶结构强度、自动化、机械学等领域的研究工程师。

@@ -1,0 +1,38 @@
+---
+id: 1979-9-zadachi-3afd8686
+issue: kvant_1979_9
+year: 1979
+number: "9"
+title: 任务
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 35
+page_last: 35
+page_labels: "33"
+tag: R9V3
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: b72a02ddff459010e2737cb74ce9d42533f1daaf781f267511cfa6be53f3c090
+prompt_sha256: draft-1
+translated_from: content/ru/1979/09/articles/12_zadachi-3afd8686.md
+source_content_sha256: f509f1991c06153bf60e9748b8559ca23cdda17db24d679eb0e10c1fd4e06887
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 33⟧
+
+任务
+
+1. 如果 Anya 步行去学校并乘坐公共汽车返回，那么她总共要在路上花费一个半小时。如果她乘坐往返巴士，全程需要三十分钟。如果 Anya 步行上下学，她会花多少时间在路上？
+
+2. 任意 p 的和 1+2+3+...+p 能在 1979 年结束吗？
+
+3. 35只乌鸦飞到了集体农庄的院子里。突然，乌鸦们害怕了什么，飞走了，分成了两群：第一群落在一棵老杨树的树枝上，另一群落在水塔的屋顶上。过了一段时间，5只乌鸦从杨树上飞到了屋顶上，同一只乌鸦完全从屋顶上飞了出来，之后杨树上剩下的乌鸦数量是屋顶上的两倍。最初两群乌鸦共有多少只？
+
+4. 找一块
+$$\left(1 - \frac{1}{4}\right)\left(1 - \frac{1}{9}\right)\left(1 - \frac{1}{16}\right)\cdot \dots \cdot \left(1 - \frac{1}{225}\right).$$
+
+5. 任务就是专注。取一个三位数。以相反的顺序写出数字（例如，347→743、525→525）；你会得到另一个三位数。从较大的数字中减去较小的数字。给出差异的最后一位数字作为猜测。猜测者指出了差异。他是怎么做到的？

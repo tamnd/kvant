@@ -1,0 +1,37 @@
+---
+id: 1979-8-zadachi-ca329fa5
+issue: kvant_1979_8
+year: 1979
+number: "8"
+title: 任务
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 51
+page_last: 51
+page_labels: "49"
+tag: 8F3L
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: a79417a45f1a590b11ad0c9e5db8d0b31306d8fa3cd3e247e289fec7e66a3287
+prompt_sha256: draft-1
+translated_from: content/ru/1979/08/articles/19_zadachi-ca329fa5.md
+source_content_sha256: d790c9e1891171becfb71f6a4e6a4735247d87b82ca39b66b59233f8cdc0553c
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 49⟧
+
+任务
+
+1. 两个完全平方数的差以 2 结尾。如果被减数的最后一位数字大于减数的最后一位数字，被减数和减数的结尾分别是多少位？
+
+2. 查找所有具有三位数$a0b$是原数的倍数属性的两位数$ab$。
+
+3. 在足球锦标赛中，每对球队必须相遇一次。周三，下一轮比赛结束后，博里亚计算出，有七支球队的比赛场次仍然是偶数！这可能吗？如果是的话，是否可以确定该队参加单杠的时间是多长？ （当然，比赛日程的设计方式是每轮不超过一支球队有空。）
+
+4. Kolya 在早上 6:00 到 9:00 之间的某个时间去采蘑菇，此时他的手表指针已经对齐。他在下午两点到三点之间回到家。与此同时，他的手表指针指向了完全相反的方向。 Kolya 的步行持续了多长时间？
+
+5. 三个红、三个白、三个蓝九个拥挤方块可以有多少种方式排列成方块$3 \times 3$，使得每一行每一列都有所有颜色的方块？

@@ -1,0 +1,30 @@
+---
+id: 1979-8-aleksey-ivanovich-markushevich-95d7eb94
+issue: kvant_1979_8
+year: 1979
+number: "8"
+title: 阿列克谢·伊万诺维奇·马库舍维奇
+rubric: osnovnye-stati
+page_first: 4
+page_last: 4
+page_labels: "2"
+tag: 32CY
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: f1b59aab2cbede833517561b0fae1344dea385e83c611f07089979a7b9b038dd
+prompt_sha256: draft-1
+translated_from: content/ru/1979/08/articles/02_aleksey-ivanovich-markushevich-95d7eb94.md
+source_content_sha256: 9c6f02b7fb1299b6e336d1db078bec0cd59e8c0205f91a6dbe1be8b8fbbc9ee2
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 2⟧
+
+阿列克谢·伊万诺维奇·马库舍维奇
+
+1979年6月4日，《«Kvant»》杂志编委、苏联著名数学家、教师、我国著名的公共教育组织者、苏共委员、苏联教育科学院院士、莫斯科大学教授阿列克谢·伊万诺维奇·马库舍维奇去世，享年72岁。
+
+A. I. Markushevich 拥有大量关于复变函数理论、数学历史和方法论的文章、专着和教科书。 A. I. Markushevich 对科学普及投入了大量精力。着有《面积与对数》、《复数与共形映射》、《循环数列》、《系列》等多本小学生书籍。在他的积极参与下，编写出版了《少儿百科全书》、《初等数学百科全书》、《俄罗斯数学史》等著名出版物。阿列克谢·伊万诺维奇（Alexey Ivanovich）在流行科学和数学期刊«Kvant»的组织中发挥了重要作用，并且自该期刊创刊以来作为编辑委员会成员，不断为其出版提供了重要帮助。 A. I. 马库舍维奇多年来担任俄罗斯联邦教育部第一副部长、俄罗斯联邦教育科学院和苏联教育科学院副院长，为苏联学校和教育科学的发展做出了显着贡献。
