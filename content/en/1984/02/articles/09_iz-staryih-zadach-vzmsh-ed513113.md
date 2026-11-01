@@ -1,0 +1,49 @@
+---
+id: 1984-2-iz-staryih-zadach-vzmsh-ed513113
+issue: kvant_1984_2
+year: 1984
+number: "2"
+title: From old VZMSH problems
+rubric: smes
+page_first: 34
+page_last: 34
+page_labels: "32"
+tag: UOKG
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 04bcd7f2d1bd0821cc1774baf2ac7c6e0c82b0aff16cb70a46e426ce82bc4911
+prompt_sha256: draft-1
+translated_from: content/ru/1984/02/articles/09_iz-staryih-zadach-vzmsh-ed513113.md
+source_content_sha256: 7d26e03e71670c50d143417d15783ba6435ee470de03b4bfd6c41b2635243f2a
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 32⟧
+
+and what he must do to solve the problem correctly.
+
+For example, the following task was given: “Is there a triangle whose all heights are less than 1 cm and whose area is greater than 100 cm²?” One student wrote in the solution: “Yes, it exists. We take the base as large as possible, and the height is 2-3 mm, then the other heights will be less than 1 cm, since the angle is close to 180°.” Such texts present a difficult problem for reviewers because they can neither be simply accepted nor simply rejected. Although this student is undoubtedly a communicator, he still needs to be taught and taught how to write down his thoughts. The examiner wrote in the margin: “What you wrote is a good estimate, which should have shown you what sides and angles your triangle might have. You were waved to write or keep this estimate to yourself. But the answer should have looked like this: “put a=...cm, b=...cm, c=...cm. Then the triangle on this side satisfies the conditions of the problem. Proof: ...". And without this, the problem is not solved!”
+
+The checked works are sent to the students for the contract - of course, not as a punishment, but so that they go through the comments that were made to them and draw as much benefit from them as possible.
+
+A considerable difficulty in teaching mathematics in general, and especially during distance learning, is due to the specificity of mathematics as a science. Mathematics works with abstractions, and the work also requires compliance with special “rules of the game.” Those pedestrians, factories, swimming pools and combines that are discussed in school problems are as qualitatively different from their specific namesakes as a chess king is different from living kings. The correspondence is also unusual in the language of mathematics. Mathematical texts are replete with not only formal notation, but also such unusual expressions as “how much angle is greater”, “arbitrary”, “if and only if”, “for any A there is a B”, expressing complex logical constructions. The criterion for understanding statements is the ability to handle them: draw conclusions from them, formulate opposite statements, test them in particular cases, generalize, move on to clear ideas, etc. To successfully work with mathematical abstractions, it is necessary to be fluent and correct in mathematical language, as well as the ability is best acquired in direct communication with an interlocutor who is cultured in this regard. Thus, we need some kind of hybrid forms of training, a combination of this and correspondence forms.
+
+For this purpose, VZMS accepts “collective students” - groups of schoolchildren working on assignments under the guidance of their teacher. This is a very flexible and convenient form of lesson, which has received a positive assessment from many teachers and students. Here is a typical review: “You are doing a tremendous job, influencing the concrete, living content in the work of thousands of mathematical circles.”
+
+Let us wish further success to all employees of the Correspondence School - teachers, students, scientists engaged in a common cause - breeding talents and acquiring them for science.
+
+A. L. Toom
+
+From old problems
+VZMSH
+
+This figure is inspired by the following task from the old meeting work of VZMSH:
+
+Is it possible to fill a 4x4 table with the letters B, Z, M and W, surround them with frames of four types (square, rhombus, triangle, circle) and color the table cells in four colors so that the following condition is met:
+
+1) in each row and in each column all letters, all flowers and all types of frames must appear;
+2) each letter must appear once in each color cell;
+3) should each type of frame contain every letter and every color?

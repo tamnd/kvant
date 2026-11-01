@@ -1,0 +1,62 @@
+---
+id: 1983-10-yavelov-effekt-meysnera-fbf896b3
+issue: kvant_1983_10
+year: 1983
+number: "10"
+title: Meissner effect
+authors:
+  - Явелов Б. Е.
+rubric: raznoe
+rubric_sub: Разное
+page_first: 18
+page_last: 18
+page_labels: "16"
+tag: M4AQ
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: db2bb543d46030b5a42687f2a4177d6be75723ca9013998f8c578413ccb16561
+prompt_sha256: draft-1
+translated_from: content/ru/1983/10/articles/05_yavelov-effekt-meysnera-fbf896b3.md
+source_content_sha256: 74490f374588ec3f1ea73d6110301d7966e63afe62593281ed8feffba74f7435
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 16⟧
+
+brothers in this phenomenon can be solved by solving problem 7 at the end of the article.
+
+The Corilis force leads to the deflection of padai bodies to the east. (Try to explain this effect yourself.) In 1833, the German physicist Ferdinand Reich conducted experiments in the Freiburg mine and found that when freely falling bodies from a height of 158 m, their average deviation (according to 106 experiments) was 28.3 mm. This served as one of the first experimental proofs of Corilis' theory.
+
+Tasks
+
+1. In the back of the truck lies a wooden box loaded with bricks. The bottom of the box is square on the side $l=1$ m; The mass of the box is negligible compared to the mass of the brick. It is known that the box begins to slip if the truck is subjected to acceleration greater than $a=6$ m/s². To what height can a brick be placed in a box without fear that it will tip over at such an acceleration?
+
+2. During a vertical takeoff, the rocket moves with an acceleration of 2g. What is the period of oscillation of a pendulum of length $l$ located in the rocket cabin? What will be the period of oscillation of the pendulum when the rocket descends vertically with the same acceleration of 2g?
+
+3. The soft clock is installed in the natural train, which departs from the station and returns back after a while. How will the readings of the station clock and the clock on the train differ? Please note that when braking and accelerating, the train accelerates.
+
+4. A homogeneous rod of length $2l$ and mass $m$ rotates with angular velocity $\omega$ in a horizontal plane around an axis passing through its middle. Determine how the tension of the rod changes depending on the distance to the center of rotation. Find the maximum value of this tension.
+
+5. A metal chain of length $l$ and mass $m$, the ends of which are connected, is mounted on a disk. The disk rotates in a horizontal plane, making $n$ revolutions per unit time. Determine the tension of the chain $T$.
+
+6. A razor blade is placed in a narrow radial groove located on the surface of a horizontal disk. In what direction - towards or against the rotation - will the blade fall when turning the disc (the blade can slide along the groove)?
+
+7. A river in the northern hemisphere flows south. The width of the channels in the Shipoteka is $d$, the flow speed is $v$. Derive a formula for the difference in water levels on the eastern and western banks of the river. Estimate this value for the Volga River. Will this effect be observed if the river flows along a parallel? What happens if a river crosses the equator?
+
+Our calendar
+
+Meissner effect
+(or How discoveries are made)
+
+In the fall of 1933, an outstanding discovery was made: it was discovered that the magnetic field does not penetrate deep into superconductors, in other words, the magnetic induction in superconductors is zero.
+
+How was this discovery made? A prominent specialist in low temperature physics, W. Meissner and his collaborator R. Ochsenfeld, decided to experimentally test the calculation of the famous physicist, Nobel Prize winner M. Laue. Laue calculated the distribution of the magnetic field around superconductors using a simple geometric formula. It came from the following messages. When a magnetic field is turned on in a superconductor, non-damping output points should appear as a result of electromagnetic induction. According to Lenz's rules, the magnetic flux of the field created by these currents is equal to the magnetic flux of the turned-on field, but has the opposite sign. Consequently, the total magnetic field in a superconductor is zero. Thus, the switched-on magnetic field should not penetrate into the superconductor.
+
+Meissner and Ochsenfeld changed the distribution of the magnetic field around the magnetic field and ensured that Laue's calculations were accurate. Then they decided to use the experiment operation. First, a magnetic field was turned on, and the sample under study was placed in this constant magnetic field at room temperature. Then it was cooled and thereby changed into a superconductor state. Again we repeated the measurements of the distribution of the magnetic field around the magnetic field in around the magnetic field flowing out of the sample as it transitioned to the superconductor state. This clearly contradicted Laue’s calculations.
+
+This is how a functional property of superconductors was discovered, which cannot be “derived” from the equality of electrical resistance to zero. This phenomenon of the “impenetrability” of a superconductor to a magnetic field is of fundamental importance for the physics of superconductivity. It was called the “Meissner effect”.
+
+B. E. Yavelov

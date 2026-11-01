@@ -1,0 +1,48 @@
+---
+id: 1984-4-parshin-volnyi-kristallizatsii-a0311871
+issue: kvant_1984_4
+year: 1984
+number: "4"
+title: Waves of crystallization
+authors:
+  - Паршин А. Я.
+rubric: novosti-nauki
+rubric_sub: Новости науки
+page_first: 18
+page_last: 18
+page_labels: "16"
+tag: Y71V
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 0ef376c80b8b193c0d84f22712fff15f89c9543e8a6544e0d05053d2421070a7
+prompt_sha256: draft-1
+translated_from: content/ru/1984/04/articles/05_parshin-volnyi-kristallizatsii-a0311871.md
+source_content_sha256: c4893f320538f8588d2074519eee273589a50f086a6698842d7a00da266f5cc0
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 16⟧
+
+Waves of crystallision
+
+Candidate of Physical and Mathematical Sciences
+A. Y. PARSHIN
+
+Is it possible to excite waves on the surface of a solid body, similar to ordinary waves on water? The surface of a liquid, as we know, can mix and experience simple vibrations due to the flow. In a solid body such a process is impossible (not even solids!). However, it turns out that it is possible to make the surface of a solid body, such as a crystal, move, while leaving the body itself motionless. To do this, it is enough for the crystal to grow or float - in this case, its surface is continuously mixed, although the substance itself in the volume of the crystal remains completely motionless.
+
+But are you aware that in this way it is possible to excite free vibrations of the crystal surface, caused by the periodic change of processes of melting and crystallization? Imagine, for example, the flat surface of an ice crystal in equilibrium with water at 0°C. What happens if you disrupt equilibrium in some place by making a hole (or protrusion) on the surface? Will waves of crystallization (melting) arise in this case, similar to the waves formed by a stone falling into water?
+
+It turns out - no, this is impossible in ordinary substances. The fact is that the waves that interest us, like any free oscillations in general, can only exist under conditions where irreversible energy losses are sufficiently small. These losses cause the vibrations to damp, and the vibration energy turns into heat. If the losses are high, the movement becomes aperiodic, that is, oscillations do not occur at all. The growth and floating of ordinary crystals is always accompanied by very large energy losses (caused mainly by the high specific heat of fusion). Therefore, in our imaginary experiment together with crystallization waves, we would observe only a very slow overgrowing of the first initial hole.
+
+And yet crystallization waves exist! True, they can only be observed at temperatures close to absolute zero (below 1 K) and only in helium, a substance completely unique in its physical properties. These properties are a topic for a very careful conversation, but here we will only mention two of them that are most directly related to the question of crystallization waves.
+
+Firstly, helium is the only substance that can remain in a liquid state down to absolute zero and crystallizes only at elevated pressures (above 25 atm). Secondly, the growth and floating of crystalline
+
+Fishing for gelae at very low temperatures is accompanied by low energy losses, and the lower the temperature, the smaller the losses. Therefore, gel crystals can grow and melt at fantastic, by general standards, speeds and, what is very important, even under extremely weak external influences. And this is the main condition necessary for the existence of crystallization waves.
+
+Look at the gel crystal shown in the photo. A crystal about 3 mm in size, grown at a temperature of 0.5 K, hangs on the wall of the experimental chamber, “aiming” at it with its left side. On all other sides it is surrounded by liquid gel under a pressure of 25 atm. Exciting crystallization waves on such a crystalline column is as simple as exciting waves in a glass of water—all you need to do is shake the camera a little. This is exactly the moment captured in the photograph.
+
+It is curious that not all crystal surfaces have the ability to undergo ultrafast crystallization. Parts defined as oriented relative to the crystallometric axes (three such “particulars” of orientation are currently known) look like ideally flat faces and perfectly motionless ostatrics, that is, they behave like the surface of an ordinary crystal that has a natural facet. By the way, the presence of these “special” edges clearly shows that we are really dealing with a crystal, and a high-quality crystal at that. All other areas of the surface are kriglen and quickly vibrate at the slightest external influence (in this case, the oscillation period is about 0.01 s, and their amplitude is ~ 0.1 mm).

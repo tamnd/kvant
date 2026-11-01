@@ -1,0 +1,38 @@
+---
+id: 1983-9-bibliotechka-kvant-b786c12e
+issue: kvant_1983_9
+year: 1983
+number: "9"
+title: Library «Kvant»
+rubric: retsenzii-bibliografiya
+rubric_sub: Рецензии, библиография
+page_first: 59
+page_last: 59
+tag: HWMC
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 0a6bf43fe1c403a3955bc6f1792cb798b6552e572c308bff9d3ce6b1d5013e85
+prompt_sha256: draft-1
+translated_from: content/ru/1983/09/articles/21_bibliotechka-kvant-b786c12e.md
+source_content_sha256: 5e2bcd530b4ce0a4b99be5301ea707385a6f9a96a92a0b56f579f9d1dca9075f
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+Library «Kvant»
+
+Since 1981, the Nauka publishing house of the USSR Academy of Sciences has been publishing a series of popular science books, Library «Kvant», specifically for schoolchildren. The authors of these books are famous scientists working in various fields of physics and mathematics. They talk in an interesting and accessible way about the science of today, about new ideas, experiments and, of course, about the practical use of science. The books in this series are distinguished by the fact that they not only describe facts and phenomena, set out theorems and physical laws, but where this can be done, they give in-depth explanations, make qualitative and sometimes quantitative assessments. So books not only inform the reader, but also teach him to think, form correct physical, mathematical, and worldview ideas. Among the books in the series there are also ones that delve in depth into the issues of school courses in physics and mathematics. Several problem books with interesting non-standard problems have been published. About 30 issues of the series have now been published. We would like to talk about some books that the reader can get acquainted with in 1984.
+
+Is it possible to imagine an automatic vehicle whose body, after an accident, regains its shape if it is simply heated? It would seem difficult. Meanwhile, such an automatic vehicle can already be made from special metal alloys that “remember” its original shape. This effectiveness of the “memo” of metals, new materials, and superelasticity is described in the book by V. A. Zaimovsky and T. L. Kolupaeva “Non-teaching properties of object metals.”
+
+The book by M.E. Levinshtein and G.S. Simin “Introduction to Semiconductors” talks about many interesting efficiencies in semiconductors, as well as how they can be used to change temperature, deformation, and magnetic fields.
+
+From A. D. Chernin’s book “Stars and Physics” the reader will learn about amazing astrophysical objects recently discovered by scientists - pulsars, quasars, flaring RENTEN stars, about the latest hypotheses, about the mysteries of astrophysics that scientists have yet to solve.
+
+The magazine «Kvant» has been running a section «Kvant» for primary schoolchildren for many years. It publishes articles that require 6-7 grade knowledge of physics and mathematics to understand. The best articles from this section are displayed for the collection “Informative about physics and mathematics” (compiled by S. S. Krotov and A. P. Savin). The book also includes about 100 interesting problems and descriptions of elegant experiments that readers can reproduce at home.
+
+In total, in 1984, the Nauka publishing house plans to release 10 books in the Library «Kvant» series. Orders for them can be placed in bookstores.

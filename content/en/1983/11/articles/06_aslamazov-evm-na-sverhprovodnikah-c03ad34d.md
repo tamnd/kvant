@@ -1,0 +1,44 @@
+---
+id: 1983-11-aslamazov-evm-na-sverhprovodnikah-c03ad34d
+issue: kvant_1983_11
+year: 1983
+number: "11"
+title: Computers on superconductors
+authors:
+  - Асламазов Л. Г.
+rubric: novosti-nauki
+rubric_sub: Новости науки
+page_first: 26
+page_last: 26
+page_labels: "24"
+tag: KBOA
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 72918c79f37594582b29b50a3a65d237197dd1af7877bf927dae6f7e106e7049
+prompt_sha256: draft-1
+translated_from: content/ru/1983/11/articles/06_aslamazov-evm-na-sverhprovodnikah-c03ad34d.md
+source_content_sha256: 003f22021c699c16d3c98072cde78cfc870b931849b7c95b74dfa2081c48c51f
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 24⟧
+
+Computers on superconductors
+
+Doctor of Physical and Mathematical Sciences
+L. G. ASLAMAZOV
+
+The term “generation” has become firmly established in computing. Each next generation of computers must have greater speed (the number of operations per unit of time), a larger memory capacity, and a smaller size. Is there a limit to this path, and what will computers become in the future? Many leading experts in the world now believe that computers should become superconducting.
+
+Every schoolchild now knows what superconductivity is: at very low temperatures, non-tortic metals and alloys lose their resistance, and electric current flows through such conductors without loss. The idea of ​​using superconductivity to record information in a computer has a long history. At the dawn of the era of computer technology, in the 50s, superconducting memory elements - cryotrons - were developed. The principle of their operation is based on the fact that a magnetic field destroys superconductivity. A closed quantity from a superconductor can be in two stable states: when a continuous superconducting current circulates through it, and when, when the magnetic field is turned on, the superconductivity is destroyed and the loop goes into a normal state. This way you can “write” “0” and “1”, that is, create the simplest element of computer memory.
+
+The main advantage of superconducting cryotrons compared to semiconductor memory elements is that in the superconducting state there is no separation of the body. After all, during operation the computer heats up, and the larger the memory capacity, the more is allocated. If you remember the huge amount of computer content, it becomes clear why this problem is of paramount importance.
+
+It seems that there is no alternative - supercomputers must be superconducting. However, it turns out that the switching time of cryotrons cannot be less than $10^{-8}$ s, and for modern computers even billions of fractions of a second are not such a small value. At the same time, it turns out to be much more difficult to make a computer using superconducting cryotrons than using semiconductors. And it would have to be cooled to very low temperatures - to the temperatures of a liquid gel (only under such conditions do metals become superconducting). Therefore, superconducting cryotrons were abandoned for some time, and it seemed that this was a dead-end branch in the computer eulucinimum.
+
+But in 1962, the English physicist Josephson discovered a remarkable effect called after him (you can read about this effect, for example, in the article “What is SQUID?” in «Kvant» No. 10 for 1981). And as often happens, a new physical effect opened up new technical possibilities. Although the principle of operation of the memory element remained essentially the same, so-called josulars were developed (the maximum possible value is two orders of magnitude smaller).
+
+Semiconductor memory elements can no longer compete with such record holders. The advantages of Josephon cryotrons outweigh the costs of cooling, design difficulties, and many other disadvantages of superconducting computers. Currently, intensive work is underway all over the world to create such computers. And although there are still a lot of unsolved problems on this path, scientists believe that the day when the first computer using superconductors will work is not far off.

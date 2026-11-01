@@ -1,0 +1,89 @@
+---
+id: 1983-12-napechatano-v-1983-godu-aae16b89
+issue: kvant_1983_12
+year: 1983
+number: "12"
+title: Published in 1983
+rubric: raznoe
+page_first: 58
+page_last: 58
+page_labels: "56"
+tag: O0ZS
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 67b5b050341de047ba4f9b6d183ed036a7758f2f40dd29567dbdcee6a02a4459
+prompt_sha256: draft-1
+translated_from: content/ru/1983/12/articles/16_napechatano-v-1983-godu-aae16b89.md
+source_content_sha256: 4c7c7413066942a36c52e0a167939c638396a7eec07991ad4d5dc4dab07bc977
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 56⟧
+
+Published in 1983
+
+Reader 1 2
+Kondakov M.I. Happy new school year!
+
+* * *
+Gnedenko B.V. Mathematics and arbitrariness 1 3
+Ershov A.P. Programming is the second literacy 2 2
+Kikopin I. K. Physics and scientific and technological progress 3 2
+5 2
+
+* * *
+Rudolf Mössbauer answers questions from the magazine's editors «Kvant» 3 6
+Unique laboratorium (interview with USSR pilot-cosmonaut A. A. Serebrov) 4 7
+Conversation with Andrei Nikolaevich Kolmogorov 4 12
+
+* * *
+Gindikin S. G. Leonard Euler 10 17
+Kadanov M. I. Outstanding theoretical physicist of the 20th century (L. D. Landdu) 11 17
+Kikopin I.K. He ruined the happiness of life (I.V. Kurchatov) 1 7
+Kikopin I. K. Anatoly Petrovich Alexandrov 2 8
+Lishevsky V. P. Revolutionary in science and life (G. Monge) 7 17
+N. N. Luzin (on the centenary of his birth)
+
+Math stats
+Anokhin A. I., Lomakina Z. D. Mathematics for a seafarer 8 7
+Boltyansky V.G. Method of integration 3 16
+Vinokurov V. A., Mitin B. S. Mathematics and technology in space 4 2
+Vladimirov V. S., Mitsenko A. S. The role of mathematical physics in modern science 12 2
+Galilin R.V. How crystals are structured 11 10
+Gindikin S. G. On the benefits of “sophistical popstin” 6 10
+
+Zaidel A. N. Deception or delusion? (About one method of calculating l.) 5 24
+Krein M. G., Nudelman A. A. Borsuk-Ulam theorem 8 20
+Matveev S. V. Straightening structures on a plane 4 22
+Mitsenko A. S., Soloviev Yu. P. Quaternions 9 10
+Nesterenko Yu. V., Nikshin E. M. Essay on continued fractions 5 16
+6 26
+Pontglezin L. S. Complex numbers 2 16
+Feldman N. I. Algebraic and transcendental numbers 7 2
+10 57
+Fomenko A. T. Minimal surfaces 6 18
+
+Physics stats
+Aslamazov L. G. Meanders of rivers 1 17
+Aslamazov L. G. Non-inertial systems report 10 9
+Bronshten V. A. Tunguska metorite - in the laboratorium physics 7 9
+Blyako A. V. What is the atmosphere 6 2
+Blyako A.V. Thorny trails of Toro 12 20
+Gubankov V. N. Solitons 11 2
+Zhitkovsky Yu. Yu. Physicists study hydrospace 8 2
+Zaimovsky V. A. Do metals have memory?! 9 3
+Kudryavtseva E. N., Khilkevich S. S. Why does water pour out of a bucket? 9 16
+Mitrofanov A. V. Problems P. L. Kapit 5 21
+Pegoev A. N. What was used with the light bulb? 8 26
+Samarsky Yu. A. Mössbauer effect (or resonant nuclear absorption of γ-quanta in crystals) 3 7
+Smorodinsky Ya. A. Black holes 12 13
+Fabrikant V. A. Birth of a quantum 2 11
+Falkovsky L. A. Surface physics 10 2
+Chernin A. D. Flaring RENTen stars 8 13
+Shur A. A. These different radio waves 5 9
+
+Science News
+Aslamazov L. G. Computers based on superconductors 11 24

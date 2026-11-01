@@ -1,0 +1,64 @@
+---
+id: 1983-9-gik-reshil-zhrebiy-c31cbd61
+issue: kvant_1983_9
+year: 1983
+number: "9"
+title: The lot has been decided
+authors:
+  - Гик Е. Я.
+rubric: shahmatnaya-stranichka
+rubric_sub: Шахматы
+page_first: 67
+page_last: 67
+tag: 7ZA7
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 6265886a61d799ecf139d5ed2e0b491611561fe992e0bcf9e42e10dc7ef9f60a
+prompt_sha256: draft-1
+translated_from: content/ru/1983/09/articles/03_gik-reshil-zhrebiy-c31cbd61.md
+source_content_sha256: deeba58961ac0ce3360dcf2dacdf25ec15aa56df755d2cf4690bc3cea4d74229
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+THE DECISION OF THE LOTS
+
+Just recently, so many major chess fortunes ended simultaneously that we simply could not stay away from them. Last time it was reported that Kasparov had won his fourth final challenger match. And now you probably already know the results of the two semifinal matches G. Kasparov - V. Korchnoi and V. Smyslov - Z. Riblin. It is curious that for the first time in the history of the fight for the world crown, the “fight” is a lot-together. The match between Smyslov and Huber gave an equal score 5:5, the position did not change and four additional matches ended in a draw. The winners must be determined by lot. The roulette was used - Smyslov bet on red, Huber - on black. The West German grandmaster failed the test and went home. Smyslov courageously desired the decision of fate and personally proceeded to the draw.
+
+Those who have seen roulette (a simplified version called “Carcel”, sold in toy stores) know that there are two no-man’s areas on the playing field, called “ZERO” (zero is written on them). If the ball falls into these zones, then no one wins. The probability of such an event is very small, for example, in Carselli it is equal to 1/50 (zero is written in two zones out of 100), and yet...
+
+You probably already agreed that after the roulette was spun and the ball was left in the neutral zone, and the score became
+
+7 1/2:7 1/2! Another additional "batch", and this time the ball chooses red. Meanings in the semi-final!
+
+Although the readers of «Kvant» should root for the young chess players due to their impact, we must pay tribute to the 62-year-old grandmaster, who showed him an excellent example of a creative debtor.
+
+Look with what youthful enthusiasm Smyslov played the final ataky in the fourth game of the match.
+
+V. Smyslov - R. Huber
+
+27.e5! fe 28.de C:e5 29.Ce4 g6 30.C:g6 Qa8+31. Kpg1 Cg8 32.C:h7 Jl:h7 33.Kg6+Kpg7 34.Fd7+Jlf7 35.Jl:f7+C:f7 36.K:e5 Qd5 37.F:a7 Jlh5 38.K:f7 Q:f7 39.Cd4+K:d4 40.F:d4+Kph7 41. Qe4+ Kpg7 42.Jlf1 Qa7+ 43. Jlf2 Qc5 44.Kpf1 c3 45.bc bc 46.Fe6 Qg5 47.Jlf7+Kph8 48.Fc8+. Black folded due to inevitable checkmate.
+
+Let us recall the pairs of applicants that received: N. Alexandria - I. Levitina, N. Ioselina - L. Semenova. Thus, the further distribution of the chess crown among women has again become our internal matter.
+
+While the contenders are finding out which of them is more worthy, the world champion took part in the anniversary, 50th national championship. At the beginning of the tournament, A. Karpov, as was often the case with him, stayed in the shadows, but then increased his speed and confidently won the gold medal.
+
+A. Karpov - E. Geller
+Spanish Party
+1.e4 e5 2.Kf3 Kc6 3.Cb5 a6 4.Ca4 Kf6 5.0—0 Ce7 6.Jle1 b5 7.Cb3 0—0 8.d3 Cb7 9.Kbd2 h6 10.Kf1 Jle8 11.Ke3 Cf8 12.Cd2 d6 13.a4 Kd7 14.c3 Ke7 15.Fb1 Kc5 16.Cc2
+
+d5. Every chess player has learned from childhood that if White acts timidly in a Spanish game, then Black seizes the initiative with a counterattack on d6-d5. But this party is an exception to the rule. Before the black checks of this programmatic promotion had time, their position began to fall apart before our eyes. 17.ed K:d5 18.Kg4! The knight seems to be hanging in the air, because the white h-pawn does not support it in the old way. 18…Kf4 19.C:f4 ef 20.Kge5 Cd6 21.d4. 13 moves saddle the white “d” pawn of its hour. Now that she has taken her rightful place, even the queen on b1 is in action, one of the threats is 22.Ch7+Kph8 23.K:f7×.
+
+21...C:e5 22.K:e5 Qg5 23.f3 Lad8 24.ab ab 25.Jla7! Cd5 26.Jl:c7 Ka6 27.Jla7 Kc5 28. Ch7+Kpf8 29.b4 Ka4 30.Fd3 Cc4 31.F:c4! Effective ending: White sacrifices queens, and Black trades in response.
+
+Competition tasks
+
+17. Black's move. Evaluate the position.
+
+18. White's move. Evaluate the position.
+
+The deadline for sending the solution is November 25, 1983 (marked on the envelope: “Chess competition”, tasks 17, 18]).

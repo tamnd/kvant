@@ -1,0 +1,39 @@
+---
+id: 1983-10-antonovich-geometricheskiy-krossvord-052fd4df
+issue: kvant_1983_10
+year: 1983
+number: "10"
+title: Geometric crossword
+authors:
+  - Антонович Н. К.
+rubric: smes
+page_first: 68
+page_last: 68
+tag: LTCF
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: bacddb3f8df9f5f7e89252fa6d77a6cdaf89aa58f1f6a4a4b01a2644a8ef06e7
+prompt_sha256: draft-1
+translated_from: content/ru/1983/10/articles/01_antonovich-geometricheskiy-krossvord-052fd4df.md
+source_content_sha256: 4ca8ce36b7139b88c8420119b3aa4a317db33b7188f2f0ac2db26ead08c09464
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+GEOMETRIC CROSSWORD
+
+Horizontal
+5. Part of a polygon. 6. Part rectangle.
+8. Part of a plane inside a circle. 9. Geographic coordinate. 10. One of the basic concepts of geometry. 13. Ancient Greek scientist - physicist, mathematician. 14. Proposal accepted without proof. 17. A segment in a triangle. 18. Mathematical operation.
+19. The result of an arithmetic operation.
+20. Flat curve. 23. Quadrangle.
+24. Geometric representation of a function.
+
+Vertical
+1. Geometric body. 2. Right triangle element. 3. Great Russian mathematician. 4. A segment in a circle. 5. A line that has at least two common points with the hook. 7. Quadrangle. 11. Second order curve. 12. Geometric locus of points. 15. A prima line intersecting the data at a right angle. 16. Closed broken line. 19. Unit of time. 21. Two loops emanating from one point. 22. The distance between the ends of the segment.
+
+N. Aktonovich

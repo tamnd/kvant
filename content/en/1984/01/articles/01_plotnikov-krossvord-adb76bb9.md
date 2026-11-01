@@ -1,0 +1,33 @@
+---
+id: 1984-1-plotnikov-krossvord-adb76bb9
+issue: kvant_1984_1
+year: 1984
+number: "1"
+title: Crossword
+authors:
+  - Плотников Г. Н.
+rubric: smes
+page_first: 68
+page_last: 68
+tag: BZ08
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: dd66989d9e2f18545fc71b5c630bab1f2893077181e479e5905e7a82024cad30
+prompt_sha256: draft-1
+translated_from: content/ru/1984/01/articles/01_plotnikov-krossvord-adb76bb9.md
+source_content_sha256: 320e0a7ea140f9d9fe56f91dfff00853c09b53e1560f11eb1bb21698a51433d8
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+CROSSWORD
+
+Horizontally. 5. Simple mechanism. 6. Crystal, a type of carbon. 9. Telephone transmitting tube. 11. Sinusoidal component of a periodic oscillation of a complex shape with a frequency higher than the fundamental tone. 12. Radioactive chemical element. 13. Device for emitting and receiving electron waves. 15. Typesetting machine. 16. Switching device. 17. A substance consisting of macromolecules. 20. Expanded pipe. 23. A device for measuring areas on plans and maps. 24. One of the first Russian pilots. 25. Scientific connection. 27. Fuel. 29. The city where the world's first nuclear power plant was built. 30. Otic system, in which the devices are mathematical aberration. 31. Inert gas. 32. Ancient River scientists.
+
+Vertical. 1. Electrical measuring device. 2. Electromagnetic field quantum. 3. Physical quantity. 4. Formation of a cavity in the liquid as a result of a local decrease in pressure. 7. German physicist and engineer who created the first industrial installation for air dehumidification. 8. Rubber with a large admixture of sulfur. 10. A person who breaks new ground in any field of activity. 13. Device, device. 14. Existence, an inherent property of an object. 18. Measure of length in astronomy. 19. Gaseous shell of the earth. 21. Great Russian scientist, founder of Moscow University. 22. Protective weapons made of metal plates. 26. Negative electrode. 28. Constellation of the Southern Hemisphere. 29. The simplest device for determining the direction of the vertical.
+
+Compiled by G. N. Plotnikov

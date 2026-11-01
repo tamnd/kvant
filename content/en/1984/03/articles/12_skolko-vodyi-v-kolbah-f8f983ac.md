@@ -1,0 +1,60 @@
+---
+id: 1984-3-skolko-vodyi-v-kolbah-f8f983ac
+issue: kvant_1984_3
+year: 1984
+number: "3"
+title: How much water is in the flasks?
+rubric: smes
+page_first: 37
+page_last: 37
+page_labels: "35"
+tag: 0QFE
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 3bb7841a113e42c8a4f9136281af548b7de065ba545d2116dab0bd09dc3a591e
+prompt_sha256: draft-1
+translated_from: content/ru/1984/03/articles/12_skolko-vodyi-v-kolbah-f8f983ac.md
+source_content_sha256: 717dc538a0ed2753a6aa50022103a95c46e370e839d139df1dc6e4b236b4b446
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 35⟧
+
+Solved
+Eratosthenes
+
+Academician A. N. KOLMOGOROV
+
+This beautiful form of the sieve of Eratosthenes*) was borrowed from the book “Mathematical Documents” by M. Gardner (Publishing House “Mir”, 1972). All numbers that are not crossed out (in red or blue) are prime, except for the number 121. Explain why!
+
+Problem 1. To get a list of prime numbers less than 1000, you need to “weed out” the numbers that are divisible by 2, 3, 5, 7, 11,... What prime number can you stop at?
+
+How will the answer change for the case of compiling a table of prime numbers less than 10,000?
+
+Pairs of prime numbers “twins**” are marked in the table with an exclamation mark. There are ten of them in our table.
+
+It is known that there are infinitely many prime numbers. But no one knows whether there are finitely or infinitely many pairs of twins.
+
+Problem 2. The first two pairs of twins (3, 5) and (5, 7) have a common element (5). The "distance" between the second and third pair of twins (11, 13) is
+
+11 — 7 = 4.
+
+Distance between third and fourth (17, 19)
+
+17 — 13 = 4,
+
+between fourth and fifth (29, 31)
+
+29 — 19 = 10.
+
+Prove that the given distance between neighboring pairs of twins will not be less than four.
+
+*) See «Kvant», 1973, No. 4, p. 71.
+**) See «Kvant», 1973, No. 5, p. 56.
+
+How much water is in the flasks?
+
+Six transparent flasks with water are arranged in two parallel rows of three flasks in each house. On figure 1 three variable flasks are visible and on figure 2 two lateral rules are visible. Through the pronunciation of the wall of flasks, the water levels in each visible flask and in all the flasks standing behind it will be viewed. Determine how much water is in each flask.

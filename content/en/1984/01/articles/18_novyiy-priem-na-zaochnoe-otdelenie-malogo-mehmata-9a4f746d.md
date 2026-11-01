@@ -1,0 +1,65 @@
+---
+id: 1984-1-novyiy-priem-na-zaochnoe-otdelenie-malogo-mehmata-9a4f746d
+issue: kvant_1984_1
+year: 1984
+number: "1"
+title: New admission to the correspondence department of the Small Faculty of Mechanics and Mathematics
+rubric: informatsiya
+rubric_sub: Информация
+page_first: 56
+page_last: 56
+page_labels: "54"
+tag: XIYD
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 8e54d6e358fa2bfa997eedc6159d46c6ca7277901804d749336687d0d1195aa5
+prompt_sha256: draft-1
+translated_from: content/ru/1984/01/articles/18_novyiy-priem-na-zaochnoe-otdelenie-malogo-mehmata-9a4f746d.md
+source_content_sha256: cae2592f0f195fa57e16f0489ff2b2ce24d454f8a7dbab22a8acb1a10e1ccd90
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 54⟧
+
+Correspondence Physics and Technology School at MISiS
+
+The branch of the All-Union Correspondence Mathematical School - the Correspondence Physics and Technology School at the Moscow Institute of Steel and Alloys of the Order of the October Revolution and the Order of the Red Banner of Labor - announces enrollment of eighth and ninth grade students for the 1984/85 academic year.
+
+The goal of the school is to assist students in in-depth study of secondary school program material in physics and mathematics.
+
+The mathematics curriculum is fully consistent with the VZMS course. The physics course was developed by teachers of the Department of General Physics and the Department of Theoretical Physics of the Moscow Institute of Steel and Alloys and meets the level of requirements for university entrance exams, primarily at MISiS.
+
+The work of the school is organized as follows. Four to five times a year, students are sent test assignments in physics and mathematics, along with brief information on the theory and examples of problem solving. Test papers sent to students are checked and sent to students along with grades and comments. As an annual assignment, students in tenth grade are sent the mathematics of the Entrance Examinations to MISiS for past years.
+
+Classes at ZFTSH (MISIS) will begin on October 1, 1984. To enroll in a school, you must send an application indicating the last name, first name, patronymic, full home address, profession and position of the parents, and also attach a certificate from the school indicating the class and annual grades in physics and mathematics. The application and certificate must be sent no later than March 1 to the address: 117049, Moscow, Leninsky Prospekt, 4, MISiS, 3FTSH.
+
+The first assignment in mathematics is written in the article “New admission to the All-Union Correspondence School of Mathematics” (see p. 53).
+
+New trick
+for correspondence department
+The Small Mechanical Faculty of Moscow State University announces admission to the correspondence department for students of the seventh grade of secondary schools in the European part of the RSFSR and Belarus (with the exception of schoolchildren from Moscow and Leningrad).
+
+Classes at the Mali Mechanical Faculty (abbreviated MMMF) are carried out based on the results of solving the problems of the introductory work published below.
+
+The main task of the Maligo Mechanical Faculty is conducted in the following steps:
+
+1. Training at Malim Mechanical Faculty. Correspondence students who have successfully completed grades 8 and 9 are recommended for admission to physico-mathematical boarding school No. 18 at Moscow State University. Students who successfully complete all tasks receive a certificate of completion of the MMMF.
+
+2. The teachers at the correspondence department of MMMF are students and graduates of the Faculty of Mechanics and Mathematics. The development of thematic brochures is carried out by the Methodological Council of the MMMF, consisting of professors and teachers of the Faculty of Mechanics and Mathematics.
+
+3. Those wishing to enroll in the Maliy Mehaniyat must send solutions to the MMMF no later than April 15, 1984 on the possibilities of a large number of problems in the introductory work. The work must be completed in the school grounds in a cage. On the cover of the terradi you must paste a piece of paper with the following data:
+
+1. Republic, region, region
+2. Last name and first name of the student
+3. School and class (full name)
+4. Last name, first name and patronymic of mathematics teacher
+5. Full home address
+
+RSFSR. Moscow region
+Osipov Andrey
+Ramenskaya secondary school No. 27, class 7 “B”
+Babenko Valentina Ivanovna
+140191, Ramenskoye, Moscow region, st. Kosmonavtov, 3, apt. 36

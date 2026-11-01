@@ -1,0 +1,55 @@
+---
+id: 1984-4-vasilev-zadacha-dlya-issledovaniya-eb8d1e81
+issue: kvant_1984_4
+year: 1984
+number: "4"
+title: Research problem
+authors:
+  - Васильев Н. Б.
+rubric: smes
+page_first: 51
+page_last: 51
+page_labels: "49"
+tag: SRMR
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 99c88d92edc7156d5174c349a6b8fbcd6bc273e2816c4656951fed0d77c500da
+prompt_sha256: draft-1
+translated_from: content/ru/1984/04/articles/16_vasilev-zadacha-dlya-issledovaniya-eb8d1e81.md
+source_content_sha256: 4b6c310703b6465cf1a716d0ae23677360a1ab9e359e81d119a0c600310f076b
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 49⟧
+
+Thus, the heat of gas
+$$C = C_V + \frac{p}{v} \frac{\Delta V}{\Delta T} = C_V + R/2.$$
+Exercises
+1. A mole of an ideal monatomic gas from a state with an initial temperature $T_1 = 300$ K is heated isochorically and then isobarically cooled to a certain final temperature. Find this temperature if it is known that the amount of heat products is $Q = 1500$. J supplied to the isochore is equal in absolute value to the amount of heat product removed from the gas in the isobaric section.
+2. A mole of an ideal gas completes a closed cycle (Fig. 5). First, the gas is isobaric, so its volume increases: $V_2/V_1 = n$. It then cools down rapidly, so that its pressure decreases: $p_2/p_1 = m$. Finally, the gas adnabate returns to its original state. Using these data, determine the work of the gas in the adnabate section if its initial temperature $T_1$ and molar temperature $C_V$ are known.
+3. An ideal monatomic gas is located in a mass bubble placed in a vacuum chamber. Find the specific heat (per mole) of the gas when it is heated. The thickness of the film and the dependence of the coefficient of surface tension of the liquid on temperature are claims. Note. The gas pressure $p$ is related to the bubble radius $r$ and the surface tension coefficient $\sigma$ by the formula $p = 4\sigma/r$.
+
+Problem
+for research
+
+Continued fractions
+and dichotomous
+Stern sequence
+
+Take a look at Table 1. In its top, “zero” line there are two fractions $\frac{0}{1}$ and $\frac{1}{1}$.
+
+To get any of the subsequent lines, you need to take the previous line and between each length of its two adjacent fractions insert a fraction whose numerical value is equal to the sum of their numerators, and the denominator is equal to the sum of their denominators. In the $n$th line there will be $2^n + 1$ numbers, which we will denote by $a_{n,0}, a_{n,1}, \dots, a_{n,2^n}$.
+
+It is curious that in the process of compiling table 1, the same table 2 will appear repeatedly in numeral fractions, formed by the denominators of fractions from table 1 (table 2 is called the “dichotomous Stern sequence”). Table 1 has a remarkable property, which I talk about in the article by V. N. Baguten “Near Fractions” («Kvant», 1975, No. 8):
+
+every irreducible fraction $\frac{m}{n}$,
+$0 < \frac{m}{n} < 1$ appears in this table no later than in the $(n-1)$th line and appears exactly once in all subsequent lines. As our reader A. Odes noted,
+
+Sky, using continued fractions you can obtain an explicit formula for the number $a_{n,p}$; prove that each number $p \leq 2^n$ can be represented in the form of completing abbreviated generalizations for continued fractions (see, for example, «Kvant», 1983, No. 5, p. 18).
+
+Also try to find out in which line and place the fraction $\frac{m}{n}$ first appears in table 1. Write to us about other interesting patterns and formulas that you find in this table.
+
+N. B. Vasiliev
