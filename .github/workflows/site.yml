@@ -2,8 +2,11 @@ name: Site
 
 # The corpus published as a static site, twice:
 #
-#   https://kvant.tamnd.com/       Cloudflare Pages, everything, including the
-#                                  page by page sheets of every issue.
+#   https://kvant.tamnd.com/       Cloudflare, everything, including the page
+#                                  by page sheets of every issue: packed into
+#                                  R2 by kvant deploy and served by the
+#                                  kvant-site Worker with ranged reads, since
+#                                  the site is past what Pages takes in files.
 #   https://tamnd.github.io/kvant/ GitHub Pages, a mirror without the sheets
 #                                  or the rough draft translations,
 #                                  because GitHub stops a site at a gigabyte
@@ -45,7 +48,7 @@ env:
 
 jobs:
   cloudflare:
-    name: cloudflare pages
+    name: cloudflare
     runs-on: ubuntu-latest
     steps:
       # Without the two secrets this job says so and stops green, so a fork or
@@ -85,25 +88,24 @@ jobs:
         run: go build -o "$RUNNER_TEMP/kvant" ./cmd/kvant
         working-directory: solver
 
-      # The free plan takes 20,000 files and 25 MiB a file. The budget leaves
-      # room under the first; nothing the site writes comes near the second.
       - name: publish
         if: steps.secrets.outputs.ok
         run: |
           "$RUNNER_TEMP/kvant" publish --corpus corpus --out site \
             --site-url https://kvant.tamnd.com/ \
             --canonical-url https://kvant.tamnd.com/ \
-            --max-files 19500 \
             --report "$RUNNER_TEMP/refused.md"
           cat "$RUNNER_TEMP/refused.md" >> "$GITHUB_STEP_SUMMARY"
 
+      # Uploads only the packs the live deploy does not have, then switches
+      # the manifest, so a failed upload leaves the site as it was.
       - name: deploy
         if: steps.secrets.outputs.ok
-        uses: cloudflare/wrangler-action@v3
-        with:
-          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          command: pages deploy site --project-name=kvant --branch=main --commit-dirty=true
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        run: |
+          "$RUNNER_TEMP/kvant" deploy --dir site --bucket kvant-site --workers 24 | tee -a "$GITHUB_STEP_SUMMARY"
 
   github:
     name: github pages
