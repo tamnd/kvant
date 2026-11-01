@@ -1,0 +1,74 @@
+---
+id: 1987-2-vinokur-lishnie-usloviya-v-konkursnyih-zadachah-3f95283b
+issue: kvant_1987_2
+year: 1987
+number: "2"
+title: 竞争问题中的附加条件
+authors:
+  - Винокур Р. Ю.
+rubric: shkola-v-kvante
+page_first: 44
+page_last: 44
+page_labels: "42"
+tag: 1FQZ
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: efcf78aaa95637cd22ff7545de460886aff7e2c382cfefa2d1cd2464bab1c995
+prompt_sha256: draft-1
+translated_from: content/ru/1987/02/articles/14_vinokur-lishnie-usloviya-v-konkursnyih-zadachah-3f95283b.md
+source_content_sha256: 170a52df3820f371dcda40d440ccd61cc590f6e1ad42744d7089528d17431197
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 42⟧
+
+图 3. 图 4.
+
+（图3）。因此，根据性质 III $\angle BMC=2\angle A=140^\circ$。
+
+示例 2. 在三角形 ABC 中：AB=AC，$\angle BAC=40^\circ$。在三角形 ABC 外部，但在角 ABC 内部，取点 M 使得 $\angle AMB=30^\circ$，$\angle BMC=20^\circ$ (图 4)。找到$\angle ABM$。
+
+解决方案。根据性质 IV，A 点是三角形 BCM 的外接圆的圆心。因此AB=AM且$\angle ABM=\angle AMB=30^\circ$。
+
+例2可以推广到任何三角形ABC，其中AB=AC，$\angle BAC=2\angle BMC$，$\angle AMB=\alpha$。然后$\angle ABM=\alpha$。
+
+问题 3. 在三角形 ABC 中：AB=BC，$\angle ABC=80^\circ$。点 M 位于三角形内部，且$\angle MAC=10^\circ$、$\angle MCA=30^\circ$。求 $\angle BMC$ (图 5)。
+
+解决方案。角度 BAC 和 BCA 为 50°。设 O 为三角形 AMC 的外接圆的圆心。再由性质 III $\angle AOM=60^\circ$ 可知三角形 AOM 正确。此外，BO 是线段 AC 的垂直平分线（因为 AB=BC 且 AO=OC）。 Primogol 三角形 ABK 和 AOK 全等，因为 $\angle OAK=60^\circ-10^\circ=50^\circ=\angle BAK$。因此，AB=AO，但AO=AM，所以AB=AM。在等腰三角形ABM中，角ABM和AMB相等(180°-40°):2=70°。最后，$\angle BMC=360^\circ-140^\circ-70^\circ=150^\circ$（参见图5）。
+
+总之，我们提供了五项任务供您自行解决。
+
+任务 1. 在三角形 ABC 中：$\angle A=50^\circ$，$\angle B=60^\circ$。在 AB 和 BC 边上选择点 D 和 E，使得 $\angle DCA=\angle EAC=30^\circ$。找到$\angle CDE$。
+
+2. 在三角形 ABC 中：$\angle A=30^\circ$，$\angle B=80^\circ$。点 M 位于三角形内部，$\angle MAC=10^\circ$，$\angle MCA=30^\circ$。找到$\angle BMC$。
+
+3. 在三角形 ABC 中：$\angle A=20^\circ$，$\angle C=30^\circ$。 K 点位于三角形内部，$\angle KAC=\angle KCA=10^\circ$。找到$\angle BKC$。
+
+4. 在三角形ABC中：AB=BC，$\angle C=40^\circ$。在三角形 ABC 外，但在角 BAC 内，取点 M 使得 $\angle AMC=50^\circ$，$\angle ABM=\angle ACM$。找到$\angle BCM$。
+
+5. 在三角形 ABC 中：$\angle A=84^\circ$，$\angle C=78^\circ$。在AB和BC边上选择点D和E，使得$\angle ACD=48^\circ$，$\angle CAE=63^\circ$。找到$\angle CDE$。
+
+D·F·伊扎克
+
+竞争问题中的额外条件
+
+在这篇笔记中，我们讨论两个鲜为人知的数学问题，它们是在 MEPhI 和 MIPT 当时（1971 年）提出的，并于 1972 年在«Kvant» 中连同解决方案一起发布。这些是任务：
+
+任务 1（MEPhI，1971 年；«Kvant»，1972 年，第 6 号，第 52 页，75-76）。如果将一个两位数除以它的各位数字之和，则得到商 4 余数 3。如果将此数字除以它的各位数字的乘积，则得到商 3 余数 5。求这个数。
+
+任务 2（MIPT，1971 年；«Kvant»，1972 年，第 5 期，第 43 页）。一个两位数除以各位数字上的乘积，商为3，余数为9。用这个数的各位数字之和的平方减去各位数字上的乘积，就得到这个数。找到这个号码。
+
+事实上，解决问题1只需知道第二个条件就足够了，而解决问题2则需要知道第一个条件。
+
+事实上，将所需的数字写成 10x+y (1≤x≤9, 1≤y≤9) 的形式，在问题 1 中，根据第二个条件，我们得到
+
+10x+y=3xy+5 (xy≠0).
+
+让我们用 y 来表示 x：
+
+$$x = \frac{5-y}{10-3y}.$$
+
+（最后见第47页）

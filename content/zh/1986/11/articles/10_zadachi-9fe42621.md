@@ -1,0 +1,39 @@
+---
+id: 1986-11-zadachi-9fe42621
+issue: kvant_1986_11
+year: 1986
+number: "11"
+title: 任务
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 25
+page_last: 25
+page_labels: "23"
+tag: AUA9
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 3b76b5ecbac8e15d1faa74b8952e1625e3cbae5e07a258826a145d4804de70ae
+prompt_sha256: draft-1
+translated_from: content/ru/1986/11/articles/10_zadachi-9fe42621.md
+source_content_sha256: 325a9a85903d362f60f2959c7c0fd44d2ad055812a6f49d6598382934c8c714b
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 23⟧
+
+任务
+
+1. 如何将图所示的图形切成三等份？
+
+2. 铁路钢轨固定在枕木上，以防止钢轨移动到侧面。睡眠者还发挥什么其他重要作用？
+
+3. 在条目 ***+***=*** 中，将星号替换为数字，以便在将纸（其上写有文字）旋转 180° 后，等式有意义且正确。
+
+4. 结果发现，将坚果带到市场上出售的卖家的杠杆秤和公斤重量是错误的。为了回答买家购买 2 公斤坚果的问题，他曾经用坚果平衡重量，将其放在秤的右盘上，另一次用坚果平衡该重量，将其放在秤的左盘上。原来，结果他回答了超过2公斤的坚果（展示这个）。卖家应该怎么做才能准确回答2公斤坚果？
+
+5. 在一个圆上画三个弦AB、BC、CD，并标记它们的中点：M、N、K。证明角BMN 和NKC 相等。
+
+这些任务是由 M. Babikov、A. P. Savin、A. V. Shvetsov、N. Kh. 向我们建议的。罗佐夫，G.A.加尔佩林。
