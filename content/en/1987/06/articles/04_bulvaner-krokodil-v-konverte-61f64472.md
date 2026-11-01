@@ -1,0 +1,45 @@
+---
+id: 1987-6-bulvaner-krokodil-v-konverte-61f64472
+issue: kvant_1987_6
+year: 1987
+number: "6"
+title: Crocodile in an envelope
+authors:
+  - Бульванер В. З.
+rubric: kvant-ulybaetsya
+rubric_sub: «Квант» улыбается
+page_first: 16
+page_last: 16
+page_labels: "14"
+tag: W3SU
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 32e5a23e1e61a823877066254766e5f740990887c7e043c64442a765454825f3
+prompt_sha256: draft-1
+translated_from: content/ru/1987/06/articles/04_bulvaner-krokodil-v-konverte-61f64472.md
+source_content_sha256: 0c561a655b4abbab8fddc1e98578ea83710c7f40b34b9ae7f9b4357a2a10306e
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 14⟧
+
+Crocodile in an envelope
+
+Olga Ieronimovna Kapitsa smiled with a kind motherly smile. The letter came from Petya. True, he is no longer Petya, but Pyotr Kapitsa, a 27-year-old physicist who was recently accepted for an internship at Cambridge, in the Rutherfor laboratory. Having opened the envelope and looking at the date, October 25, 1921, she began to read. First, a calm description of my stay in Cambridge. And suddenly “... the relationship with Rutherfort, or, as I call him, the “crocodile,” becomes worse.” What is this - mischief? Boyhood? Well, okay at school - all the clicks the kids give their teachers. But Petya is far from a schoolboy! A world-famous scientist, a mentor, whom we managed to get to with such difficulty, and suddenly call him a CROCODILE!! After all, if the staff found out, the professor himself found out! He will kick you out, my word, he will kick you out!
+
+They knew everything. Rutherfort knew too. And he didn’t kick me out. He, too, was not without a sense of comora. A year later, in a conversation with Rutherfort, Kapitsa reminded the boss of the first day of their meeting. Then Rutherfort said that all 30 places in the laboratory were filled. Pyotr Leonidovich asked what accuracy does the professor allow in scientific work? Having received the answer - 2 - 3%, Kapitsa said that one employee in addition to 30 is only about 3% and that this does not go beyond the required accuracy. The professor hid his smile into his mustache... and acknowledged the young physicist. Recalling this, Rutherfort added that he was very happy about it.
+
+So why "crocodile"?
+
+Peter Leonidovich explained it this way: “This animal does not turn back anywhere and therefore can symbolize Rutherford’s productivity and his desire to move forward.”
+
+In 1931, Krokodil spent 15 thousand pounds sterling on the construction and equipment of a special laboratory building for Kapitsa. In February 1933, the laboratory was inaugurated in Cambridge. On the end wall of a 2-story building there was a huge crocodile carved in stone, covering the entire wall. It was commissioned by Kapitsa and made by the famous sculptor Eric Gill. Rutherfort himself explained that it was him. The front door was opened with a gilded key in the shape of a crocodile.
+
+About 60 years have passed, and when today a group of tourists walks along the building of this laboratory, when asked about the crocodile, the guide tags: “This is a minimal joke of one of Professor Rutherfort’s students.” But this is not a “cute joke”, but a Monument. A monument to friendship between teacher and student, the English physicist Rutherfor and the Soviet physicist - founder and first director of the Institute of Physical Problems Leonidovich Kapitsa.
+
+This is what a guide in Cambridge might talk about, leading a mismo group of a laboratory building with a crocodile crawling along the wall.
+
+V. Z. Bulvanker

@@ -1,0 +1,83 @@
+---
+id: 1986-12-nasha-anketa-623282f8
+issue: kvant_1986_12
+year: 1986
+number: "12"
+title: Our profile
+rubric: raznoe
+page_first: 66
+page_last: 66
+page_labels: "64"
+tag: 9INX
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: b6331e30a81163fad1d6698dcdc8ed88c3d68376c28bff987811d400e55f4941
+prompt_sha256: draft-1
+translated_from: content/ru/1986/12/articles/19_nasha-anketa-623282f8.md
+source_content_sha256: a7ba0e0191def69d94a1f06e897c576d18484381f2f848a9ba0aef8a98ed8846
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 64⟧
+
+Dear readers! For the better work of the journal, we would like to know the above opinion about the materials published in «Kvant» in 1986. Please answer the questions in our questionnaire.
+
+Write your answers on a separate sheet of paper, save the number of questions until February 20, 1987.
+Our address: 103006 Moscow K-6, st. Gorky, 32/1, «Kvant», “Questionnaire”.
+
+1. Place of study (city, village, class, course) or work (profession, specialty) and age.
+
+5. What sections of the magazine do you like, and what new sections should be published?
+
+2. What do you think are the most and least interesting math articles this year?
+
+6. What materials from this year helped with your studies that you were looking for in «Kvant» in 1986 but didn't find?
+
+3. The most and least interesting articles in physics this year.
+
+7. What would you like to read about on the pages of the magazine in 1987?
+
+4. The most successful and unsuccessful, in your opinion, magazine cover this year.
+
+Editor-in-Chief - Academician Yu. A. Osipyan
+First Deputy Editor-in-Chief - Academician A. N. Kolmogorov
+Deputy editors-in-chief: A. A. Leonovich, V. A. Leshkovtsev, Yu. P. Solovyov
+Editorial collection: A. A. Abrikovov, M. I. Bashmakov, V. E. Belonuchkin, V. G. Boltyansky, A. A. Borovoy, Yu. M. Bruk, V. V. Vavilov, A. A. Varlamov, N. V. Vasiliev, S. M. Voronin, V. V. Gnedenko, V. L. Gutenkhacher, N. P. Dolbilin, V. N. Dubrovsky, A. N. Zemlyakov, A. R. Zilberman, S. M. Kozel, S. S. Krotov, L. D. Kudryavtsev, E. M. Nikkishin, S. P. Novikov, M. K. Potapov, V. G. Razumovsky, N. A. Rodina, N. H. Rozov, A. P. Savin, Ya. A. Smorodinsky, A. V. Sosinsky, V. M. Uroev, V. A. Fabrikant
+Editorial Board: A. M. Baldin, S. T. Belyaev, V. V. Bukhovtsev, E. P. Velikov, I. Ya. Verchenko, V. V. Vozdvizhenny, G. V. Dorofeev, N. A. Erpmolaeva, A. P. Ershov, Yu. V. Ivanov, V. A. Kirillin, G. L. Kotkin, R. N. Kuzmin, A. A. Logunov, V. V. Mozhaev, V. A. Orlov, N. A. Patrikeva, R. Z. Sagdeev, S. L. Sobolev, A. L. Stasenko, I. K. Surin, E. L. Surkov, L. D. Faddeev, V. V. Firsov, G. N. Yakovlev
+
+The number was prepared:
+A. A. Varlamov, A. N. Vilenkin, A. A. Egorov, I. N. Klomova, T. S. Petrova, A. V. Sosinsky, V. A. Tikhomirova
+
+The number was issued:
+Yu. A. Vashchenko, M. V. Dubakh, S. A. Zhigalkin, S. V. Ivanov, D. A. Krymov, E. V. Nazarov, A. M. Ponomareva, I. E. Smirnova, E. K. Tenchurina, P. I. Chernusky, V. V. Yudin
+
+Editorial Head L. V. Chernova
+
+Art Editor
+S. V. Ivanov
+
+Artistic editor T. M. Makarova
+
+Proofreader N. D. Khrapko
+
+103006 Moscow K-6,
+st. Gorky, 32/1, «Kvant»,
+tel. 250-33-54
+
+Delivered to set 10.22.86. Signed for publication on November 24, 1986.
+T-23901. Vumaga 70×108/16.
+Offset printing. Conditional cr.-ott. 23.8.
+Conditional oven l. 5.6. Academic ed. l. 7.79.
+Circulation 195,669 copies.
+Price 40 kopecks. Order 2846
+
+Order of the Red Banner of Labor
+Chekhov Printing Plant
+VO "Soyuzpolygraphifrom"
+State Committee of the USSR
+for publishing and printing affairs
+and book trade
+142300, Chekhov, Moscow region

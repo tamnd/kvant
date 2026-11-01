@@ -1,0 +1,47 @@
+---
+id: 1987-5-myakishev-zakonyi-sohraneniya-i-sistemyi-otscheta-5fafbf16
+issue: kvant_1987_5
+year: 1987
+number: "5"
+title: Conservation laws and frames of reference
+authors:
+  - Мякишев Г. Я.
+rubric: shkola-v-kvante
+page_first: 39
+page_last: 39
+page_labels: "37"
+tag: F1KW
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: c9b8b5f1b9602888e3fa1561253e079760ee6df6dcec2c8972d931366ead2072
+prompt_sha256: draft-1
+translated_from: content/ru/1987/05/articles/10_myakishev-zakonyi-sohraneniya-i-sistemyi-otscheta-5fafbf16.md
+source_content_sha256: 96da26fc921c4475062eee447d6502dc605f1d39d6f83325c4ceab4770b5455a
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 37⟧
+
+Physics 8, 9, 10
+The published book note “Conservation Laws and Reporting Systems” is intended for the eight-year-old book, “How does an electric motor work?” - a ninth-grader, “Physics of Musical Harmony” - a tenth-grader.
+
+Conservation laws and reporting systems
+
+There is a reliable way to check whether you understand the laws relating to the motion of bodies well - consider the phenomenon in various inertial reporting frames. Often paradoxes are immediately discovered, indicating that you do not yet have real understanding. This is often due to the fact that the teacher and the authors of textbooks and problem books carefully choose a reporting system where the process looks most simple. This technique is largely justified: why go into complex explanations if you can make it simpler. However, all this is good for the time being. In a non-standard situation, it is impossible to do without a thorough analysis and real understanding.
+
+All of the above directly relates, first of all, to the law of conservation of energy.
+
+Potential energy and work. Here's the simplest task. A stretched spring with a ball at the free end is attached to the degree. When compressed, the spring does work equal to the change in potential energy taken with a minus sign:
+
+$$A = -\Delta E_p = \frac{kx^2}{2}$$
+
+(*) (k is the stiffness of the arm, x is its initial distance).
+
+Work - the product of the model of force vectors and displacement by the coesine of the angle between these vectors - depends on the reporting system, since with a constant force, the movement of the body is different in different reporting systems. At the same time, potential energy (and therefore its change) - a function of the distance between bodies or their parts - cannot depend on the reporting system.
+
+What happens to equality (*) if we go to the driving reporting system? The work will change, but the potential energy will not?
+
+The misunderstanding is resolved very simply. In fact, the change in potential energy $\delta\omega x$ is mutually

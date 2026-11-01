@@ -1,0 +1,54 @@
+---
+id: 1987-3-arhipov-moskovskiy-inzhenerno-fizicheskiy-institut-2447c90b
+issue: kvant_1987_3
+year: 1987
+number: "3"
+title: Moscow Engineering Physics Institute
+authors:
+  - Архипов В. И. и др.
+rubric: ekzamenatsionnye-materialy
+rubric_sub: Экзаменационные материалы
+page_first: 57
+page_last: 57
+page_labels: "55"
+tag: XF9L
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: d8b644550084a81f710df9c1ef2a9328d37c7d379f66b41efde4e4c420e4709e
+prompt_sha256: draft-1
+translated_from: content/ru/1987/03/articles/16_arhipov-moskovskiy-inzhenerno-fizicheskiy-institut-2447c90b.md
+source_content_sha256: f4743bf0c15dcbf66257b901aeee166dee5f6ccdae7185089c8d7abc1f6af8d8
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 55⟧
+
+Moscow Engineering Physics Institute
+
+Mathematics
+Written exam
+Option 1
+1. Solve the inequality
+$$\sqrt{x^3+x^2-2x}>x-1.$$
+2. For what $a \in R$ is it possible to solve the equation
+$$4\cos^2x=a^2-6 \text{ и } 1-\cos 2x=\frac{a}{6}$$
+match?
+3. The radius of a sphere circumscribed about a rectangular circular cone with vertex $P$ is $R$. A straight line drawn in the plane of the base of the cone intersects the diameter $AC$ of the base circle at an angle $\varphi\left(0<\varphi<\frac{\pi}{2}\right)$, and the circle at points $B$ and $D$. Determine the volume of the paramid $PABCD$ if it is known that the angle in the main section of the cone at the vertex $P$ is equal to $a$, and the triangles $APC$ and $DPB$ are equal.
+4. From points $A$ and $B$, the distance between them is 1 m, two bodies begin to move simultaneously along straight line $AB$. The first body begins to move with a constant speed from point $A$ towards point $B$, and the second body begins to move in the same direction with an initial speed of 16 m/s and some constant acceleration. It is known that 1 s after the start of movement the second body is at a distance of no more than 15 m from point $A$, and after another 1 s - no less than 25 m. Determine the speed of the first body if 3 s after the start of movement the distance between the bodies is 2 m.
+
+Option 2
+1. Solve the inequality
+$$\frac{2}{2+\log_2 x}+\frac{1}{\log_2 2x}\left(\frac{1}{2+\log_2 x}-1\right) \geq 0.$$
+2. With teams working together, they can complete some work in $a$ days. If the first team works for 2 days, and then the second and third teams work for 1 day, then 1/3 of this work will be completed. How long will it take the first team to complete the job?
+3. Solve the system of equations
+$$\begin{cases} \sqrt{\sin x-\cos y}=\cos x, \\ \sin x+\cos y=\sin^2 x. \end{cases}$$
+4. The lateral edge $SA$ of the regular quadrangular paramid $SABCD$ has length $l$ and makes an angle of $a$ with the plane of the base. This paramid is inscribed with a regular quadrangular feature such that all the vertices of the upper base of the paramid lie on the lateral edges of the paramid, and all the vertices of the lower one lie on the base $ABCD$ of the paramid. Find the area of ​​the base of a feature if it is known that the total surface area of ​​this feature has the greatest possible value.
+
+Physics
+Oral exam objectives
+1. A ball with a mass of $m=0,1$ kg was closed on the floor with two identical springs with a stiffness of $k=15$ N/m each (Fig. 1). In the initial state, the springs are not deformed and have a length of $l_0=40$ cm. The ball is raised vertically to a height of $h=30$ cm and lowered. What impulse does the ball transfer to the floor during an absolutely elastic impact?
+2. A daughter lies on a smooth horizontal surface with a length of $l=1,2$ m and a mass of $M=1,6$ kg (Fig. 2). A small body weighing $m=0,4$ kg was placed on the edge of the doxy. The trey coefficient between the body and the board is $\mu=0,3$. At what minimum speed $v_0$ should the board be sharply pushed to the right so that the body aligns with it?
+3. The pylindrical vessel is located horizontally and is divided into two parts by a piston with an area of ​​$S=10$ cm², which is pressed to the left end of the vessel by a spring with a stiffness of $k=2 \cdot 10^3$ N/m. Initially, in both parts of the vessel there is air at an atmospheric pressure of $p_0=10^5$ Pa, while the spring is not deformed and has a length of $l_0=20$ cm. Then the entire

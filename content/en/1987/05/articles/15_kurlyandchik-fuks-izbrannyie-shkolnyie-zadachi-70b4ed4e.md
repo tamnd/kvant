@@ -1,0 +1,75 @@
+---
+id: 1987-5-kurlyandchik-fuks-izbrannyie-shkolnyie-zadachi-70b4ed4e
+issue: kvant_1987_5
+year: 1987
+number: "5"
+title: Selected School Problems
+authors:
+  - Курляндчик Л. Д.
+  - Фукс Д. Б.
+rubric: shkola-v-kvante
+rubric_sub: Школа в «Кванте»
+page_first: 51
+page_last: 51
+page_labels: "49"
+tag: 3JMS
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 489ed24ae7c0106a35e0a2d39044e0877fed6a8c251a9c6ad66c8bc6b30490cc
+prompt_sha256: draft-1
+translated_from: content/ru/1987/05/articles/15_kurlyandchik-fuks-izbrannyie-shkolnyie-zadachi-70b4ed4e.md
+source_content_sha256: 7f771082f9c704ab796085afb2772c5e7327f12dfe42e8430ee943e5b5920b5b
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 49⟧
+
+where $k=1, 2, ..., N-1$; $P(0)=1$, $P(N)=0$. How are the points $M_k(k; P(k))$ and where $k=0,1, ..., N$ located? The answer to the first question is $P(k) > 1-k/N$. To answer the second question, you can swap prolistas and cypolilinos. Show that the answer is given by the number $P(N-k) - k/N$.
+
+Task 8. Several tie rods as shown in Figures 7 a)—2). At point 1 there is a caterpillar. Points A and B are smeared with glue. The caterpillar moves according to the following law. If it hits point A or point B, then it sticks at that point. If she is at one of the points (other than A and B) from which m rods come out, then she chooses one of these rods with probability 1/m and flies to its end, and then proceeds as described. What is the probability of the caterpillar sticking to point A?
+
+Selected School Problems
+
+Eighth grade
+1. Solve the system of equations
+$$\begin{cases} x^2 + xy + y^2 = 7, \\ x^2 + xz + z^2 = 21, \\ y^2 + yz + z^2 = 28. \end{cases}$$
+
+2. Prove that circles constructed on the sides of a convex quadrilateral, as on diameters, cover this quadrilateral.
+
+3. A varithmetic progression made up of natural numbers has a term ending with the number 3, but no term ending with the number 5. Does it have a term ending with the number 7?
+
+4. 870 tons of granite blocks need to be removed from the quarry. Prove that if each block weighs no more than 8 tons, then 17 platforms, each with a carrying capacity of 58 tons, are sufficient for transportation.
+
+5. Prove that there are an infinite number of integers that are perfect squares and remain so after adding a unit to the right (in decimal notation).
+
+Ninth grade
+6. The numbers $x, y, z$ satisfy the correspondences $x+y+z=a$, $\frac{1}{x}+\frac{1}{y}+\frac{1}{z}=\frac{1}{a}$. Prove that at least one of the numbers $x, y, z$ is equal to $a$.
+
+7. Divide the number 1987 into the sum of natural numbers in such a way that the product of these numbers is maximum.
+
+8. On sides BC, CA, AB of triangle ABC, points $A_1, B_1, C_1$ are taken such that $BA_1:A_1C=CB_1:B_1A=AC_1:C_1B=1:2$. When the segments $AA_1, BB_1, CC_1$ intersect, a triangle is formed. Find the ratio of the area of ​​this triangle to the area of ​​triangle ABC.
+
+9. On the sides of an arbitrary triangle, equilateral triangles are built outward as a base. Prove that their centers are the vertices of an equilateral triangle.
+
+10. Polynomial
+a) $ax^2+bx+c$,
+b) $ax^3+bx^2+cx+d$
+takes an integer value for any integer $x$. What could its coefficients be (for example, do they have to be integers)?
+
+Tenth grade
+11. Solve the system of equations
+$$\begin{cases} x=y^2+ay+b, \\ y=x^2+ax+b. \end{cases}$$
+
+12. Prove the equality $\sqrt[3]{20+14\sqrt{2}}+\sqrt[3]{20-14\sqrt{2}}=4$.
+
+13. Which of the triangles placed in a given circle has the most perimeter?
+
+14. Given several positive numbers, the sum of which is 3 and the sum of the squares of which is 1. Prove that among these numbers you can find three whose sum is not less than 1.
+
+15. Prove that the sum of the angles of a spatial non-planar quadrilateral is less than 360°.
+
+The publication was prepared
+L. D. Kurlyandchik and D. V. Fuks
