@@ -1,0 +1,35 @@
+---
+id: 1982-3-a-izobrazhenie-prostyih-kompleksnyih-chisel-s-pomoschyu-evm-59e94f0b
+issue: kvant_1982_3
+year: 1982
+number: "3"
+title: '[Image of prime complex numbers using a computer]'
+authors:
+  - А. П.
+rubric: smes
+page_first: 68
+page_last: 68
+tag: 57GP
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 9215398fdc05619a3d419498658470abe65b38dbcee032af5854b861d2623c42
+prompt_sha256: draft-1
+translated_from: content/ru/1982/03/articles/01_a-izobrazhenie-prostyih-kompleksnyih-chisel-s-pomoschyu-evm-59e94f0b.md
+source_content_sha256: 33840fc9a069d1c1f6caeb08c6708d56c2dad3a09dff3e1cf081e3a2b8cd9cb9
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+The article by Academician L. S. Pontryagin, published in this issue of the journal, talks about complete numbers. The averages are integer complete numbers, that is, numbers of the form $a+bi$, where $a$ and $b$ are integers (they also include ordinary integers - at $b=0$).
+
+For example, a complete number is such an integer complete number, when represented as a product of two integer complete numbers, one of the factors will be equal to $1$, or $-1$, or $+i$, or $-i$.
+
+Gauss proved that a prime number is both a prime complete number if it is represented as $4k+3$, and a composition otherwise.
+
+It is curious that the Dutch scientist Van der Pol, while studying high-frequency fields, encountered patterns described by Gaussian numbers. Figure on the cover of the magazine, obtained by Van der Pol using a computer, depicts prime complete numbers in the form of squares on the complex plane.
+
+A.P.

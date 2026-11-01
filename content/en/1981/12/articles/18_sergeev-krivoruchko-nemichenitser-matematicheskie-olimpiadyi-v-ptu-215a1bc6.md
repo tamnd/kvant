@@ -1,0 +1,72 @@
+---
+id: 1981-12-sergeev-krivoruchko-nemichenitser-matematicheskie-olimpiadyi-v-ptu-215a1bc6
+issue: kvant_1981_12
+year: 1981
+number: "12"
+title: Mathematical Olympiads in vocational schools
+authors:
+  - Сергеев В. Н.
+  - Криворучко А. И.
+  - Немиченицер М.
+rubric: raznoe
+rubric_sub: Разное
+page_first: 56
+page_last: 56
+page_labels: "54"
+tag: QD9Y
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 07ffe6c536d6cea929d066a4f83d1e33dc97cafae6e34e32c9823ee9b0277655
+prompt_sha256: draft-1
+translated_from: content/ru/1981/12/articles/18_sergeev-krivoruchko-nemichenitser-matematicheskie-olimpiadyi-v-ptu-215a1bc6.md
+source_content_sha256: 05c12fb96130e3f558bf3e06c33e5f4945fd24bd2a682f09a35283381eea928f
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 54⟧
+
+Mathematical Olympids in vocational schools
+
+The task now facing the vocational education system can be formatted as follows: in vocational schools everything should be like in school, but better. That is why in recent years, more and more often, boys and girls from vocational technical schools are studying in non-governmental educational institutions, performing at Olympids, and in essay competitions.
+
+The Omsk Regional Department of Vocational Education has been conducting subject Olympids for a number of years. The Olympids in physics turned out best; Competitions in other subjects cover relatively few students and have not been particularly popular.
+
+On the other hand, students of the VZV Olympids, members of the laboratory of forms and methods of Komsomol work at the Komsomol OK have already accumulated solid experience in organizing various mathematical Olympids for schoolchildren (see «Kvant», 1979, No. 12 and 1980, No. 8). They also had a desire to expand their scope of action. Pozmot turned out to be logical that in 1980, the methodological office of the region’s vocational education department and members of the laboratory decided to conduct an experimental team Olympiad for the region’s vocational schools in mathematics.
+
+Of course, there were doubts. Will the participants cope with the task? Will team competitions be of interest to vocational school students? This could only be known from experiment.
+
+In March 1980, the Olympics took place, and both the participants and the organizer liked its results. Of course, the first recognized ones could not count on winning the cup of the traditional school city Olympiad, but they took places in the top twenty. And most importantly, 160 people from 30 schools took part in the Olympiad; The preparation for the Olympiad itself was very lively and active at the vocational school. It was necessary to continue the experiment and turn it into a tradition. Next year, students under the guidance of teachers from pedagogical and polytechnic institutes already held six subject team Olympiads - in mathematics, chemistry, drawing, English and German, public.edu. About 800 boys and girls from vocational schools took part in them.
+
+What’s special about all of these Olympids is the clearly applied nature of the tasks offered. During the Olympics, students and teachers gave popular science lectures and talked about interesting problems. The analysis of tasks for each Olympiad was carried out twice - separately for Olympiad participants and separately for their teachers.
+
+The attitude towards the Olympids can also be seen from the following fact: a number of schools entered the Olympids with 3-5 teams, and the recognition was divided into ten shares of the okan. Teams from vocational schools No. 23, 15, 69 perform more successfully in the Olympics.
+
+For many guys, studying at the Olympiad became the path to a path to the NOU Krupnik during the Omsk exercises. In their classes, as a rule, they were selected to work in which they had to apply mathematics to their chosen specialty: draw up nomograms, calculate the optimal load of machine tools, etc. Thus, the greatest interest at the traditional NOU conference was aroused by the report of V. Shem and V. Zhdan from Vocational School No. 46. The guys generalized the problem of a brigade, proposed at the Olympiad, and then solved it in several ways.
+
+We also tried out new laboratory tasks. In the same vocational school No. 46, a discussion “Mathematics and the modern worker” was held, prepared by members of the laboratory. Two teams of students from the same group expressed their (opposite) opinions, using for evidence the books they read, examples from their own lives, and the answers of the workers, craftsmen, and engineers they interviewed.
+
+The future worker needs mathematics - this is the conclusion of the discussion. And this was the basis of a new tradition in Omsk - the system of non-state educational institutions in professional education.
+
+Let us now present individual problems of the vocational school mathematical olympids.
+
+1. On what line are the centers of circles inscribed in all possible triangles with a common side AB located?
+2. For four women born in different years of the 20th century, the sums of their age numbers are the same, and the sum of all four ages is an exact cube. How old is the eldest of these ladies?
+3. The total resistance of two conductors connected in parallel is a Om, and those connected in series is b Om. Is it possible to find the resistance of each conductor from this data?
+4. The technical system has three types of temperature scales: Celsius, Fahrenheit and Reaumur (°C, °F, °R). The ice formation temperature is assumed to be 0°C, 32°F and 0°R. The interval from this point to the boiling point of water is divided into 100 (Celsius), 180 (Fahrenheit) and 80 (Reaumur) parts, which are called degrees Celsius, Fahrenheit and Reaumur, respectively.
+
+Let the same temperature be characterized by x°C, y°F, z°R. Derive the formulas: y=f(x), z=φ(y), z=ψ(x).
+
+5. In some experiments we find the values ​​of the functions y(x). It is known that it should be linear: y=kx, but due to experimental errors, the points M1(x1; y1), M2(x2; y2), ..., Mn(xn; yn) on the coordinate plane xOy do not fit on the same straight line.
+
+a) It is customary to select the angular coefficient k in such a way that
+
+$$S(k) = \sum_{i=1}^{n} (y_i - kx_i)^2$$
+
+hit the smallest. Derive a formula for finding k.
+
+6) Suggest other ways to find k and derive the corresponding formula.
+
+(For the end see p. 56)

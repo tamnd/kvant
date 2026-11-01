@@ -1,0 +1,56 @@
+---
+id: 1982-3-spisok-chitateley-prislavshih-pravilnyie-resheniya-f96e4c10
+issue: kvant_1982_3
+year: 1982
+number: "3"
+title: List of readers who sent correct solutions
+rubric: zadachnik-kvanta
+rubric_sub: Задачник «Кванта»
+page_first: 39
+page_last: 39
+page_labels: "37"
+tag: 24YS
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 72672966919f00cb415005b97dc23832be02785a7aad0f94e21d77c45283c1c4
+prompt_sha256: draft-1
+translated_from: content/ru/1982/03/articles/11_spisok-chitateley-prislavshih-pravilnyie-resheniya-f96e4c10.md
+source_content_sha256: 658009b6d19fd8332be1c67b1b0dcbdde97205857d247138f9ee7774df41231b
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 37⟧
+
+1) At what distance from the focus should the photographic plastic be located?
+2. What size will the image of the artificial satellite be?
+3) What will be the diameter of the resulting blurry (unfocused) images of stars on photoplastics?
+
+equals
+$$\Delta x = f - F = F^2/L = 8 \text{ см.}$$
+
+The photographic plastic should be installed at this distance from the focus.
+2) The size of the satellite image is
+$$l = \frac{f}{L} d \approx \frac{F}{L} d = 10^{-1} \text{ см.}$$
+
+3) Images of distant stars must be located in the focal plane of the object. In the photoplastic plane,
+
+being at a distance $\Delta x$ from the focal plane, the images of the stars appear blurred out of focus (out of focus). As can be seen from figure, the diameter of the blurred image of stars on photographic plastic (P) is equal to
+$$\delta = D \frac{\Delta x}{F} = 1,25 \cdot 10^{-1} \text{ см.}$$
+
+Let us evaluate the influence of diffraction. Due to diffraction, distant stars should be depicted in the focal plane not as points, but as diffraction spots, the radius of which is determined by the expression $\rho = \frac{\lambda}{D}$. In our case, the order of this quantity is $10^{-3}$. Since $\rho \ll \delta$, diffraction turns out to be insignificant, and the size of unfocused star images is determined practically only by the geometric divergence of the beams.
+
+S. Kozel
+
+List of readers who sent correct solutions
+
+In this issue we publish the names of those who sent correct solutions to problems M676—M690; F692—F707 (bold numbers after the last name are the last digits of the numbers of solved problems).
+
+Mathematics
+
+Most of the readers who submitted their solutions coped with problems M676, M681, M686, M687. The remaining problems were solved:
+T. Alavidze (Moscow) 88; M. Alekseev (Moscow) 78, 84, 85, 89; I. Altman (Odeska) 88; S. Aseev (Nikolaev) 88; V. Barabanov (Sevastopol) 78; Yu. Barkaan (Penza) 78; Yu. Bespalov (Shostka) 82, 85, 88; I. Binus (Penza) 78, 85, 89; V. Baluev (Tula) 78; L. Gareev (Ufa) 85; A. Gokhbere (Donetsk) 77, 78; O. Griniv (Kyiv) 77, 84; I. Grishko (Kyiv) 78, 79, 84; A. Dubickas (Tuarag) 78, 82, 83, 88-90; M. Eliseev (Novovoronezhsky village, Voronezh region) 78, 84, 85, 88-90; O. Eroshkin (Dnepropetrovsk) 78, 83, 85, 88, 89; I. Zhukov (Leningrad) 78, 83—85, 89; M. Zaslavsky (Kharkov) 78;
+
+P. Zustaanovich (Alma-Ata) 90; I. Itenberg (Leningrad) 78, 82-85, 88, 90; A. Kazmeruk (Kyiv) 89; D. Kalyuzhny (Odeska) 78, 80, 89; V. Kisil (Odeska) 77—79, 82, 84, 85; A. Korsukov (Achinsk) 78, 82, 83, 85; I. Kudryashov (Leningrad) 77-79, 83-85, 88; I. Laskin (Aleksin) 77; L. Leytsin (Chernigov) 82, 84, 85, 89; S. Mamedov (Baku) 78; D. Milyuntskov (Moscow) 77, 78, 80; A. Milman (Odeska). 77, 78, 82, 88-90; Yu. Nikolaevsky (Kharkov) 78; A. Nikolov (Kirovograd) 77, 78, 80, 84, 89; M. Ovetsky (Donetsk) 77; A. Payak (Lodz, Poland) 79; K. Pankratov (Kuibyshev) 83; G. Perelman (Leningrad) 77-80, 82-85, 89; V. Poyarkov (Nikolaev) 78, 89; S. Putintsev (Nevinomyssk) 77-80, 84, 85; A. Rodtsonov (Moscow) 78; P. Savelyev (Chernogolovka village, Moscow region) 79, 84, 85; E. Sazonov (Moscow) 79; A. Syksa (Kyiv) 78; I. Solodovnikova (Dolgorudny) 79; S. Spitsak (Pripyat) 89; E. Stetanyan (Baku) 89; V. Titenko (village of Bluza, Minsk region) 82-85; G. Trunov (Moscow) 85; E. Tyurin (Vilnius) 77, 78; R. Uerinovsky (Khmilnik) 77, 79, 82, 88; Yu. Usaev (Kyiv) 77; V. Freer (Volsk) 82, 83, 89; A. Khokhlov (Moscow) 78, 83-85, 88-90; T. Khuseyov (Dushanbe) 78; P. Tsvetkov (Podolsk) 77, 89, 90; R. Zouf (Prague, Czechoslovakia)

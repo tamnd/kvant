@@ -1,0 +1,60 @@
+---
+id: 1990-3-zhurnal-chitatel-zhurnal-78c553d3
+issue: kvant_1990_3
+year: 1990
+number: "3"
+title: Magazine - reader - magazine
+rubric: raznoe
+page_first: 74
+page_last: 74
+page_labels: "72"
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 69b56f4fa9805b7b92b58d20ab9f1e1fe0c856747d1ee69df9b7aa0adfd43d0c
+prompt_sha256: draft-1
+translated_from: content/ru/1990/03/articles/19_zhurnal-chitatel-zhurnal-78c553d3.md
+source_content_sha256: e6a6e5b54ea094484f1f2df30499c249f1fde946da738d8f59fa1731d1878bfa
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 72⟧
+
+---
+running_head:
+folio:
+---
+
+First of all, we want to say a big thank you to all the readers who sent answers to our questionnaire. Of course, we have a larger and very representative editorial collection and editorial council, which includes people associated with great science and school, with students and with teachers. But we cannot do without feedback, without the reader’s live response and knowledge of his current interest.
+What are the questionnaires about?
+The largest part of our readership is ten-classics (according to the new “numbering”). True, we learned later that graduate readers did not respond very actively to our questionnaire (most likely due to being busy). If so, it’s a pity - we would really like to know what other help we could provide to future applicants. At the same time, we received quite a lot of feedback from schoolchildren in grades 5-7, there are letters from fourth-graders and even from... first-grader Alyosha Romanov from Yaroslavl).
+Of course, behind each questionnaire there is a separate person, with his own interests, opinion, and assessment. But the total mass of responses creates a fairly objective analysis of the magazine and, it seems to us, a fairly objective image of our reader. So what do readers like and dislike about «Kvant»? What, in his opinion, needs to be changed, what new needs to be introduced?
+The range of interests of readers covers all the topics that we consider ours: physics, mathematics, astronomy, astronautics, computer science. Among the headings, “School in «Kvant»” is in the widest demand, then there are “Quantum Problems” and “Kaleidoscope”, then “Options for entrance exams” and “Mathematical circle”, etc.
+Among the articles published in the magazine in 1989, the most interesting were:
+“Bubbles in a Puddle” (author A. Mitrofanov, No. 6),
+“XX years later. Always with K. P. Feoktistov” (No. 7),
+“The priest had a dog...” (S. Tabachnikov, No. 6),
+“From zero to decallion” (N. Vilenkin, No. 3),
+“One shuttle, two shuttles...” (V. Nikolaev, No. 4),
+“Criminal Geometry, or the Matter of Principle” (D. Fomin, No. 8),
+“Lucky Numbers” (R. Feynman, No. 7),
+“How do Indians throw a tomahawk?” (V. Davydov, No. 11).
+The best covers of the past year were the covers of numbers 9, 1 and 6, which most readers voted for. There were a lot of positive responses to the 2nd page of the cover of number 2 (reproduction of S. Dali’s painting “The Solar Table”) and number 6（《Harlequin》 by V. Vasarely).
+We were somewhat puzzled by the fact that we encountered quite sharp negative reviews in letters about the drawings in the magazine. Many people write that they are “formal, abstract.” Of course, we do not consider the design of the magazine to be ideal, and in general this is largely a matter of taste. But on one thing, the authors, the artists, and the editors, as a rule, agree: illustrations for articles (those called splash pages) carry a semantic load, are, as it were, an artistic reflection of the meaning
+
+From letters from readers
+
+The lessons even in a specialized physics and mathematics class are too simple to use your articles for. (10th grade, Krasnochensk village, Dalnegorsk district, Primorsky region)
+
+I believe that this magazine is very necessary for schoolchildren, as well as their teachers. Thanks to this magazine, at one time he graduated from the Krasnoy film ZFTSH at MIPT, and entered Mex-mat. Samarkand University. (subscriber since 1972, mathematician-programmer, teacher, Samarkand).
+
+...all this is for graduate students, not for schoolchildren...
+In nine cases out of ten years, everything except the vartans is scrapped. (teacher, Moscow)
+
+Selected questions on elementary mathematics and physics and the application of questions in problems turn the magazine into an encyclopedia for the advanced work of teachers in any corner of our Motherland. (teacher of mathematics, physics and fine arts, village of Yakokut, Adana region, Yakut Autonomous Soviet Socialist Republic)
+
+Do not publish an article on information... Do not publish fiction. (9th grade, Tula)
+
+Dear Quant! Please write popular science fiction stories, preferably with space adventures. (7th grade, Derbent, Dagestan Autonomous Soviet Socialist Republic)
