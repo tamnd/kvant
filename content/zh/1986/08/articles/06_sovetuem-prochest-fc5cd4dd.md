@@ -1,0 +1,62 @@
+---
+id: 1986-8-sovetuem-prochest-fc5cd4dd
+issue: kvant_1986_8
+year: 1986
+number: "8"
+title: 我们推荐阅读
+rubric: smes
+page_first: 9
+page_last: 9
+page_labels: "7"
+tag: IYW9
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 363eb9cb837bf849388cbd7989ad90b2cbcb49c44f9e114e858ccf4d2ee0fc11
+prompt_sha256: draft-1
+translated_from: content/ru/1986/08/articles/06_sovetuem-prochest-fc5cd4dd.md
+source_content_sha256: aa7bcc01d782075f9f94ef4b264beae69f82044292297261bc81ebb6b39e97ec
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 7⟧
+
+图 4.
+
+经过榄香碱变换我们最终得到
+
+$$\frac{x_0 x}{a^2} + \frac{y_0 y}{b^2} = 1$$
+
+- 我们看到正切方程与椭圆方程有点相关。
+
+了解这项工作的读者可能会预见到这一切：毕竟，我们正在考虑一个椭圆 - 一条二阶曲线，以及该曲线方程的乘积 - 线性函数。
+
+虽然方程（3）是在$0 < |x_0| < a$条件下推导的，但在$x_0 = 0$和$|x_0| = a$的情况下，方程（3）给出的直线将与椭圆相切 - 请确保这一点。
+
+总之，我们注意到椭圆的切线方程可以利用椭圆是通过圆压缩获得的事实来找到。椭圆(1)的点$(x_0; y_0)$是从圆$x^2 + y^2 = a^2$的点$(x_0; t^{-1} y_0)$向横坐标轴以系数$t = \frac{b}{a}$滚动得到的。圆在点 $(x_0; t^{-1} y_0)$ 处的切线由到达该点的半径重新分布。半径坡度为$\frac{t^{-1} y_0}{x_0}$；这意味着圆的切线的角度系数是$-\left(\frac{t^{-1} y_0}{x_0}\right)^{-1} = -\frac{tx_0}{y_0}$。当以系数$t$滚动到横坐标轴时，圆的切线变成椭圆的切线，其角度系数减小$t$倍，即变得相等
+
+$$-\frac{t^2 x_0}{y_0} = -\frac{b^2 x_0}{a^2 y_0}.$$
+
+然而，这种推理使用了椭圆的一个非常特殊的几何特性——它与圆的关系。读者可以通过简化笛卡尔方法来验证其通用性：用该方法求出抛物线$y^2 = 2px$（在点$(x_0; y_0)$）的切线方程。
+
+由正多边形制成的镶木地板
+
+（关于开始，请参见第 3 页）
+
+我们的第一个任务是找到方程（1）的所有解，其中整数$m_i > 0$。式（1）减去$2d$，可以方便地写成以下形式
+
+$$\sum m_i \left(1 - \frac{2}{i}\right) = 2.$$
+
+对于方程（2）的每个解，有必要检查应用于顶点的多边形的相应排列。例如解$m_3 = 1, m_4 = 2; m_6 = 1,$
+
+$$\left(1 - \frac{2}{3}\right) + 2 \left(1 - \frac{2}{4}\right) + \left(1 - \frac{2}{6}\right) = 2,$$
+
+对应于包含 1 个三角形、2 个正方形和 1 个六边形的顶点。它们可以很容易地以两种截然不同的方式排列（图5，a和b）。但很容易证明（证明）位置 $\sigma$ 不对应于下部的常规镶木地板。
+
+给出的指示就足够了。开始工作吧！
+
+推荐阅读
+
+在“Nauka”出版社的“Viblotechka «Kvant»”系列中，“关于物理和物理的故事”（第53期）一书正在准备出版。本书收录了 I.K. 院士在不同年份为本杂志读者撰写的文章。 Kikoin，«Kvant»首任主编。我们相信，熟悉“故事……”对于当今的学童来说将是有用且有趣的。

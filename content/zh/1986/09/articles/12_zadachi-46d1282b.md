@@ -1,0 +1,41 @@
+---
+id: 1986-9-zadachi-46d1282b
+issue: kvant_1986_9
+year: 1986
+number: "9"
+title: 任务
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 33
+page_last: 33
+page_labels: "31"
+tag: 2P7N
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 8f79e010baba75ceb56350fdac0b7c23056c1940cebfca325f1fa2a3f61081e1
+prompt_sha256: draft-1
+translated_from: content/ru/1986/09/articles/12_zadachi-46d1282b.md
+source_content_sha256: d8cce38253eddde8bdcc09b31ff35c0192f8d1bbc14ff7eb529aaf817978bae0
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 31⟧
+
+任务
+
+1. 已经是晚上了，顾客都回家了，年轻的蔬菜店店员娜塔莎距离下班还有半个小时。柜台上放着三头卷心菜、两个西瓜、一个甜瓜和一个甜菜。为了打发时间，娜塔莎开始称这些蔬菜的重量，惊讶地发现卷心菜的三头重量相同，两个西瓜的重量也相同。更令人惊讶的是图中描绘的另外三个案例的平衡。现在回答：一个瓜比一个甜菜重多少倍？
+
+2. 恢复被星号替换的数字（参见图）。
+
+3. 电灯泡的前身煤油灯有时会冒烟，这就是为什么它上方的天花板上有一个黑点。但即使是在带有电灯泡的灯上方，天花板上有时也会出现黑点。电灯也会冒烟吗？
+
+4. 可以用来支付从 1 戈比到 1 卢布任意金额且不找零的最少硬币数量是多少？
+
+5. 当我们关掉沸腾的水壶下的煤气时，锅盖下就会冒出一团团蒸汽。为什么？
+
+这些任务由 V. D. Vyun、A. A. Nikanorekov、N. P. Dolbilin、A. P. Savin、E. S. Parilis 提出
+
+31
