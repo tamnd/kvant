@@ -1,0 +1,78 @@
+---
+id: 1983-9-belkin-prostoy-sposob-opredeleniya-razmerov-molekul-82f63110
+issue: kvant_1983_9
+year: 1983
+number: "9"
+title: 确定分子大小的简单方法
+authors:
+  - Белкин И. К.
+rubric: shkola-v-kvante
+page_first: 31
+page_last: 31
+page_labels: "29"
+tag: G2LF
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: dc228ab0cb303e285ec01fe04b81c621dd5b9ef145516a94cbf7303f555f389e
+prompt_sha256: draft-1
+translated_from: content/ru/1983/09/articles/11_belkin-prostoy-sposob-opredeleniya-razmerov-molekul-82f63110.md
+source_content_sha256: 5229206d8cd298a9f41f6048258c367f7022d50cf14720db63c6a92228917f4d
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 29⟧
+
+物理 8, 9, 10
+
+从本期开始，“«Kvant»的学校”版块开始为8-10年级的学生发布物理小笔记。他们将澄清一些问题。读者还将学习如何以不同的方式导出著名的学校公式。有些文章将专门讨论学校教科书中不包含的问题。编辑发现这些材料将作为教科书的补充，帮助读者更好地理解学校课程。
+
+下面发表的笔记“关于坐标轴的选择”是针对第八经典学生的，笔记“一种确定分子大小的简单方法”是针对第九经典学生的，笔记“论振动运动定律”是针对第十经典学生的。
+
+材料由 I.K. 准备。贝尔金。
+
+关于选择坐标轴
+
+当考虑点的直线运动时，X坐标轴通常沿着运动方向，即沿着位移矢量（图1）的方向。
+
+图 1.
+
+图 2.
+
+那么向量 $\vec{S}$ 在空间轴上的投影 $S_x$ 等于该向量的模 $S$：
+
+$$S_x = x_2 - x_1 = S.$$
+
+在图1所示的情况下，
+
+$$S = 8\text{ м} - 2\text{ м} = 6\text{ м}.$$
+
+但你不需要认为这样的轴选择是强制性的。 $X$ 轴可以以任何方式定向，与 $\vec{S}$ 向量的方向成任何角度。例如，如图 2 所示，其中轴$X$ 与向量$\vec{S}$ 形成角度$\alpha = 60^\circ$。因此，结果（位移矢量的模）不能改变。由 图 2 可知
+
+$$S_x = x_2 - x_1,$$
+
+一个
+
+$$\frac{x_2 - x_1}{S} = \cos \alpha,$$
+
+或$x_2 - x_1 = S \cos \alpha,$
+
+在哪里
+
+$$S = \frac{x_2 - x_1}{\cos \alpha}.$$
+
+在我们的例子中
+
+$$S = \frac{4\text{ м} - 1\text{ м}}{0,5} = 6\text{ м}.$$
+
+因此，结果不取决于坐标轴的指向。轴方向的选择仅出于方便考虑。
+
+确定分子大小的简单方法
+
+在分子物理学中，主要的“参与者”是分子，即构成世界上所有物质的不可思议的小粒子。显然，要研究许多现象，了解它们是什么分子很重要。特别是它们的尺寸是多少。
+
+当谈论分子时，它们通常被认为是小而有弹性的硬球。因此，知道分子的大小就意味着知道它们的半径。
+
+尽管分子尺寸很小，物理学家还是能够

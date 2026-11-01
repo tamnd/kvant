@@ -1,0 +1,37 @@
+---
+id: 1983-9-teorema-o-27-pryamyih-na-kubicheskoy-poverhnosti-8b94a3ad
+issue: kvant_1983_9
+year: 1983
+number: "9"
+title: '[关于立方面上27条线的定理]'
+rubric: raznoe
+rubric_sub: Разное
+page_first: 53
+page_last: 53
+page_labels: "51"
+tag: 6VFB
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 4cf6028a75aa53a11bc3963e789dbb5a982acc71dfc3ff237bfc090970db69ed
+prompt_sha256: draft-1
+translated_from: content/ru/1983/09/articles/19_teorema-o-27-pryamyih-na-kubicheskoy-poverhnosti-8b94a3ad.md
+source_content_sha256: 571b16f92b4da876a0fbc44acee255604b8aa47973f60926cf101c695e1280dd
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 51⟧
+
+在封面的第一页上，您可以看到三阶曲面（立方曲面）的石膏模型的照片 - 由三个变量的三次多项式定义的曲面。它并没有显示 27 朵报春花完全躺在上面。
+
+定理指出，在一般情况下，在任何立方体表面上都会有 27 个新的原数（如果我们也算上“最小”和“无限远”的原数），该定理将出现在其中一本“几何页面”上，从下一期开始，该定理将定期印在«Kvant»中。在每个这样的页面上，除了带有解释的绘图之外，还会有任务 - 图形和数学。
+
+几何页面可以装饰学校的数学教室，或者通过学生独立的图形和数学作业来丰富，出现在学校的墙报上。
+
+27素数定理一度引起了数学界的轰动。英国数学家 A. Henderson 在他的书中对此写道：“1849 年，凯利和萨蒙发现了 27 个原体。1869 年，克里斯坦·维纳制作了一个立方体表面模型，上面显示了 27 个活性原体。杰出的几何学家西尔维斯特认为，维纳的工作属于“将 1869 年铭刻在《哈伊卡年鉴》中的众多发现”。永恒。”在 1894 年芝加哥世界博览会上，克莱因展示了一套完整的立方曲面，其中包括 X. 维纳曲面。
+
+从那时起，这种感觉引起了轰动，石膏表面也出现了一种流行趋势——我们拍摄的标本现在被认为是独一无二的（它保存在莫斯科国立大学数学系微分几何力学系）：正如苏联数学家于。 I. Manin 今天写道，“亨德森的书出版于 1911 年，当时西尔维斯特的红色和石膏模型随着维多利亚时代一起消失。”
+
+但27个普里莫斯在这个时代发现的美却是永恒的。

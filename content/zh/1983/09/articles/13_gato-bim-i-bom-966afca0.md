@@ -1,0 +1,52 @@
+---
+id: 1983-9-gato-bim-i-bom-966afca0
+issue: kvant_1983_9
+year: 1983
+number: "9"
+title: 比姆和博姆
+authors:
+  - Гато Г. А.
+rubric: smes
+page_first: 33
+page_last: 33
+page_labels: "31"
+tag: TPUW
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 719d8bf5876ede89fad1f3ccfcad37f906187c7f861acad090510c805651facb
+prompt_sha256: draft-1
+translated_from: content/ru/1983/09/articles/13_gato-bim-i-bom-966afca0.md
+source_content_sha256: ff0c87dba399a682133e011bfce092b702d97adef7b5f8e778a7fa28a059d94a
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 31⟧
+
+有时，你必须使用微分学，求解微分方程（参见“物理10”）。该定律可以通过更简单的方式获得。让我们展示一下。
+
+让某个矩阵点$M$在其他点（图1）的影响下沿半径为$A$的圆移动。弹簧安装在可以绕点 $O$ 旋转的杆上。一端连接到连接点$M$，另一端固定到杆的边缘。如果杆以$\omega$角频率旋转，则压力增加$A$长度，并产生弹力，作用在点$M$上。该力将为该点提供等于 $\omega^2 A$ 的向心加速度，其中 $A$ 是该点将沿其移动的圆的半径。众所周知，弹力的模量为$k A$，其中$k$是其他的刚度。所以，根据牛顿第二定律，
+
+$$m\omega^2 A = k A,$$
+
+在哪里
+
+$$\omega^2 = \frac{k}{m}, \text{ и } \omega = \sqrt{\frac{k}{m}}. \quad (*)$$
+
+点旋转一圈的时间称为该点的旋转周期，用字母$T$表示。将$2\pi A$的周长除以速度$v$，我们就可以很容易地得到$T$的值，它可以用$\omega$：$v = \omega A$来表示，这样
+
+$$T = \frac{2\pi A}{\omega A} = \frac{2\pi}{\omega}.$$
+
+因此，根据等式(*)，点$M$的旋转周期等于
+
+**Bim 和 Bom**
+
+马戏场上有一位名叫比姆（Bim）的非凡计算器，他可以在减少数字的情况下表演。他刚刚在一群惊讶的观众面前将二的二十九次方提高了。结果是一个九位数字，其中所有数字都不同。 Bim 有十张卡片，上面写着所有十个数字。比姆从九张牌中列出了他在竞技场上需要的数字，然后将十张放进了口袋。演出结束回到家，比姆将上面写的一切告诉了他的弟弟、数学家博姆，并准备从口袋里掏出卡片，但博姆阻止了他：
+
+“虽然我数得不如你，但我可以说你口袋里有一个四。”
+
+没有计算出九位数，Bim 是如何知道这一点的呢？
+
+加托
