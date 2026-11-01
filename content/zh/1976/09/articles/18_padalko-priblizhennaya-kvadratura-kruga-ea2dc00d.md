@@ -1,0 +1,58 @@
+---
+id: 1976-9-padalko-priblizhennaya-kvadratura-kruga-ea2dc00d
+issue: kvant_1976_9
+year: 1976
+number: "9"
+title: 圆的近似平方
+authors:
+  - Падалко А.
+rubric: smes
+page_first: 60
+page_last: 60
+page_labels: "58"
+tag: NZXC
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: eaad3321d295c3e76a53005878277e33d75b8abd976331d5962519ad9a82d607
+prompt_sha256: draft-1
+translated_from: content/ru/1976/09/articles/18_padalko-priblizhennaya-kvadratura-kruga-ea2dc00d.md
+source_content_sha256: b24458ff020db856d1cdf98ae9a73b6efdc0b96c914221b5eefb7ec32131741c
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 58⟧
+
+让我们提出几个这样的问题*)。
+
+4°。数据是一条直线$l$和$l$一侧的两个点$P$和$Q$。在$l$线上找到一点$R$，使得三角形$PQR$的周长最大。 （六年级）
+
+*) 在上述A. Zemlyakov的文章“台球数学”，«Kvant»，1976年，第5期中，讨论了台球轨迹的极值性质的一般问题；特别是，那里提出了与我们提出的问题类似的问题。
+
+5°。证明在给定底和高的所有三角形中，等边三角形的周长最大。 （六年级）
+
+6°。道路 $AB$ 以锐角穿过河流 $BC$（参见 图 5）。信使位于$ABC$内角$P$点。马口渴了，使者急忙上路$AB$。为了尽快上路，应该在河里的什么地方给马浇水？ （六年级）
+
+7°。给定一个锐角 $ABC$ 和其中的一个点 $P$。构造一个周长最小的三角形，其中一个顶点与点 $P$ 重合，另外两个顶点位于给定角的边上。 （六年级）
+
+如果在 6° 和 7° 的条件下将锐角替换为直角或钝角，问题的解会如何变化？
+
+8°。在直煤台球$ABCD$上有两个球$M$和$N$。您应该如何推动球$M$，使其从侧面$AB$和$BC$反射，击中球$N$？ （六年级）
+
+圆的近似平方
+
+使用圆规和尺子找到与给定圆大小相等的正方形的问题在 19 世纪已得到充分证明。但近似问题很容易解决。首先，我们求出正方形对角线与圆直径的比：$S_{кр} = \pi R^2$，等正方形的边长$a = \sqrt{\pi R^2} = R\sqrt{\pi}$，正方形对角线（根据毕达哥拉斯定理）$l = R\sqrt{2\pi}$，由此
+
+$$\frac{l}{2R} = \frac{R\sqrt{2\pi}}{2R} = \frac{\sqrt{2\pi}}{2}.$$
+
+通过选择该数字所寻求的近似值，我们获得了化圆为方问题的近似解。例如，让我们把
+
+$$\frac{l}{2R} = \frac{\sqrt{2\pi}}{2} \approx \frac{\sqrt{2\cdot 3,1416}}{2} \approx \frac{5,013}{4} \approx \frac{5}{4},$$
+
+即$l = \frac{5R}{2}$（参见图），则正方形面积的相对误差等于
+
+$$\delta = \frac{\left|\pi R^2 - \frac{1}{2} l^2\right|}{\pi R^2} = \frac{\left|\pi - 2\left(\frac{l}{2R}\right)^2\right|}{\pi} \approx 0,0053.$$
+
+A.帕达尔科（斯沃博德内）

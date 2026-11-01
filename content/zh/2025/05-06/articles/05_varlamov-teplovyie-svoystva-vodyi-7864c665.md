@@ -1,0 +1,52 @@
+---
+id: 2025-5-6-varlamov-teplovyie-svoystva-vodyi-7864c665
+issue: kvant_2025_5-6
+year: 2025
+number: 5-6
+title: 水的热性质
+authors:
+  - Варламов С. Д.
+rubric: fizicheskiy-fakultativ
+rubric_sub: Физический факультатив
+page_first: 45
+page_last: 45
+tag: GU0Z
+lang: zh
+source: kvant_digital
+extraction: native
+content_sha256: e253a683f665ea575f3355ce9e0c21a8d3c44377f8c587b65ce0b44101ea3fc4
+prompt_sha256: draft-1
+translated_from: content/ru/2025/05-06/articles/05_varlamov-teplovyie-svoystva-vodyi-7864c665.md
+source_content_sha256: 3e211257f450e684074bc0a191fad043091a0ced9731fe588e7c9c3141688cc0
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+物理选修课
+
+水的热性质
+
+瓦尔拉莫夫
+
+在水分子中，电荷的分布使得氧原子上的“不平衡”电荷为负，而与该氧原子相连的两个氢原子上的“不平衡”电荷为正，且电荷大小是氧原子的一半。换句话说，电荷在整个水分子中分布不均匀，分子的总电荷为零。形象地说，水分子是一个电偶极子，其中氧上的一个负电荷（2G）和氢原子上在空间上分开的两个正电荷（G）位于等腰三角形的角上，等腰三角形的等边角为104.5q（图1）。不同符号的电荷相互吸引，这些电荷的有序排列（正到负）对应于最小势能。一摩尔氢键提供的势阱深度（根据参考书）约为21 kJ mol。固态（和液态）水是通过所谓的氢键连接的分子系统。一个分子与其最近的分子形成
+
+DOI: https://doi.org/10.4213/kvant20250505
+
+图 1
+
+⟦column⟧
+
+⟦figure⟧
+
+图 2
+
+邻居有四个这样的联系。在图2中示意性地显示了这种分子排列，并且氢键由虚线部分描绘。当然，事实上，该结构是空间性的，并不位于（如图）在一个平面上，但图以这种方式反映了物质的本质。在固相中（在冰的结构中）所有氢键都参与其中。因此，一摩尔水分子（冰凝结物质的一部分）在绝对零温度下位于深度约为
+
+21 4 2 kJ 摩尔 U
+
+42 U kJ 摩尔。
+
+潜在相互作用能的第二部分，用字母 U 表示，不是由最近的邻居提供的，它们之间建立了氢键，而是由彼此远离的分子提供的。这就是所谓的范德华相互作用。此外，这摩尔水分子的热能等于C T，其中C是冰的摩尔热容，T是其温度。在液态水中存在所谓的簇，由大量分子组成，其结构与冰相同，但在簇的边界处，并非所有氢键都被“包含”。并且随着水温的升高，其中所含的比例
