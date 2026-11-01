@@ -1,0 +1,102 @@
+---
+id: 1978-6-dobrohotova-yaroslavskiy-gosudarstvennyiy-universitet-5e0e2b4d
+issue: kvant_1978_6
+year: 1978
+number: "6"
+title: 雅罗斯拉夫尔国立大学
+authors:
+  - Доброхотова М. А.
+rubric: ekzamenatsionnye-materialy
+page_first: 75
+page_last: 75
+page_labels: "73"
+tag: MZ4Q
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: f2fb0949d6e265cd8fcc1ab95b810e53f99aa253ba60f113c9eaf27192a67690
+prompt_sha256: draft-1
+translated_from: content/ru/1978/06/articles/17_dobrohotova-yaroslavskiy-gosudarstvennyiy-universitet-5e0e2b4d.md
+source_content_sha256: a1c9f84068bb9c66c65d94d05dc6f9cf39ed2c6e681274a4cbc14d7d77c2b863
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 73⟧
+
+由函数图界定的平面图形的初圆 $y=1$
+
+$$y = 1 + \cos^2 x$$
+
+在区间 $[-\frac{\pi}{2}; \frac{\pi}{2}]$ 和这条线上。
+
+15. 会有一致性吗？
+
+$$a_n = \frac{n^2 - n + 1}{n^2 + n + 1}$$
+
+单调？
+
+16. 证明对于任意自然数$n \geq 2$
+
+$$\left(1 - \frac{1}{4}\right)\left(1 - \frac{1}{9}\right)\left(1 - \frac{1}{16}\right) \cdot \dots \cdot \left(1 - \frac{1}{n^2}\right) = \frac{n+1}{2n}.$$
+
+17. 计算极限
+
+$$\lim_{n \to \infty} \sqrt[n]{3^n + 5^n}.$$
+
+18. 有多少个五位数中每个后续数字都大于前一个数字？
+
+19. 线 $l_1, l_2, l_3$ 平行且不在同一平面上。 $l_1$、$l_2 - n$ 点和$l_3 - k$ 点分别取$m$ 点。顶点位于这些点的三角形有多少个？
+
+20. 正多边形的所有边长和所有对角线长度的平方和等于$n^2r^2$，其中$n$是多边形的边数，$r$是外接圆的半径。证明一下。
+
+21. 证明三角形中线长度的平方和与其边长的平方和的比值等于$\frac{3}{4}$。
+
+22. 如果等腰梯形的高度为 $h$ 并且从外接圆中心以角度 $\alpha$ 可以看到其边，请计算等腰梯形的面积。
+
+23. 是否可以用与三角形中线全等的线段构造三角形？
+
+24. 如果已知$\|\vec{p}\| = 2\sqrt{2}, \|\vec{q}\| = 3$和$(\vec{p}, \vec{q}) = \frac{\pi}{4}$，则计算在向量$\vec{a} = 5\vec{p} + 2\vec{q}$和$\vec{b} = \vec{p} - 3\vec{q}$上构造的平行对角线的长度。
+
+V. 维申斯基、N. 佩列斯秋克、A. 萨莫伊连科
+
+雅罗斯拉夫尔国立大学于 1918 年根据 V.I. 签署的法令成立。列宁。由于内战后国家局势困难，1924年改组为师范学院。 1970年，即列宁诞辰一百周年之际，大学恢复运作。现在大学有5个院系：数学、物理、经济学、生物和心理学、历史和法学。
+
+数学学院有两个系——数学系和应用数学系。
+
+物理学院的学生专注于理论物理、固体物理和放射物理。
+
+数学
+
+数学学院
+
+1. 从发情期 $P$ ($-3; 9$) 开始，曲线 $y=x^2$ 的垂线在坐标轴上被省略。从x轴开始计算，曲线$y=x^2$以什么比例除以这些垂线和坐标轴形成的矩形的面积？
+
+2. 一个等边三角形的内切角应该是多少，才能使其周长最大？
+
+3. 解方程
+
+$$x + 4)\log_4(x + 1) - (x - 4)\log_2(x - 1) = \frac{8}{3}\log_2(x^2 - 1).$$
+
+4. 证明不平等
+
+$$n^{n+1} > (n+1)^n (n \geq 3, n \in \mathbb{N}).$$
+
+物理学院
+
+1. 寻找
+
+$$\lim_{x \to \sqrt{2}} \frac{x^4 - 4x^2 + 4}{x^3 - 2x}.$$
+
+2. 正四边形线的侧面积等于$a^2$。找出这条线中最大的一条。
+
+3. 解决不等式：
+
+$$\frac{2 - 4\log_9 x}{\sqrt{2x^2 - x - 6}} \geq 0.$$
+
+4. 解方程：
+
+$$81(\sin 2x - 1)\cos 3x - 9(\sin x - \cos x)^2 = 0.$$
+
+M·多布罗霍托娃

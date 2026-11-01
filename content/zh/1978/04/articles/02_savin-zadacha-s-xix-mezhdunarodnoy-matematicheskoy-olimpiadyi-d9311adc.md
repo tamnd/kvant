@@ -1,0 +1,41 @@
+---
+id: 1978-4-savin-zadacha-s-xix-mezhdunarodnoy-matematicheskoy-olimpiadyi-d9311adc
+issue: kvant_1978_4
+year: 1978
+number: "4"
+title: 【第十九届国际数学奥林匹克竞赛题】
+authors:
+  - Савин А. П.
+rubric: smes
+page_first: 68
+page_last: 68
+tag: HZTH
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: d1fc74ff91043f191047565cb4284f13519cef267af95784b11f23ec6c1f3c03
+prompt_sha256: draft-1
+translated_from: content/ru/1978/04/articles/02_savin-zadacha-s-xix-mezhdunarodnoy-matematicheskoy-olimpiadyi-d9311adc.md
+source_content_sha256: d0c6488ce52288594b6160470f0a80bfb1dc1547c67016597c283a9b7df959f9
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+伟大的挪威数学家尼尔斯·亨里克·阿贝尔曾经说过：“几何是从糟糕的图画中进行良好推理的艺术。”确实，不可能画出绝对正确的图。此外，如果我们谈论的是任意三角形，并且您将其绘制为等边或矩形，那么这可能会导致您得到仅适合部分情况的解决方案。
+
+但是，如果我们讨论的是具有预定属性的图形，那么您需要构建并使绘图更加精确。清晰的绘图通常会提出解决问题的想法。
+
+这是针对第十九届国际数学奥林匹克竞赛的以下问题的绘图：
+
+在这个正方形ABCD内构造等边三角形ABK、BCL、CDM、DAN。
+
+证明 KL、LM、MN、MK 4 个线段的中点，以及 AK、KB、BL、LC、CM、MD、DN、NA 8 个线段的中点是正十二边形的顶点。
+
+（她的决定之一可以在今年的«Kvant»第2号中看到）
+
+一边看图，一边在心里尝试解决这个问题。
+
+A·萨文

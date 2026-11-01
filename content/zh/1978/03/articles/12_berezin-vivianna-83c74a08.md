@@ -1,0 +1,50 @@
+---
+id: 1978-3-berezin-vivianna-83c74a08
+issue: kvant_1978_3
+year: 1978
+number: "3"
+title: 维维安娜
+authors:
+  - Березин В. Н.
+rubric: raznoe
+page_first: 42
+page_last: 42
+page_labels: "40"
+tag: JBZF
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 5a4fb8eff9d1e72a4c662b9359463b484df64f4d3854a6630edb6eede45793fd
+prompt_sha256: draft-1
+translated_from: content/ru/1978/03/articles/12_berezin-vivianna-83c74a08.md
+source_content_sha256: 49cd2278a51a930f92408f426ac1d607fcc23cc3e28c59d36dcf74f63c3c5083
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 40⟧
+
+维维安娜
+
+正如封面四页标题中所定义的，这条曲线有时被称为“维维安曲线”，有时被称为“维维安窗户”，有时简称为“维维安”，有时因其形状而简称为“斜八”。这条空间曲线首先由伊利安数学家 Vinchenko Viviana (1622-1703) 提出，他有幸成为 G. Galileo 的学生和 E. Torricelli 的朋友。 1692年，维维安娜写信给一些数学家，建议他们在“圆顶”（半球）上制作（当然是推测性的）两个窗户，这样中空的冲天炉的表面就等于可以在冲天炉的直径上建造的正方形。事实证明，如果沿 Viviana 进行杯形切割，则满足该问题的条件。被维维安的问题所吸引的中产阶级科学家有I.伯努利、G.W.莱布尼茨和J.P.罗伯瓦尔。
+
+莱布尼茨利用积分，以最快的速度完成了维维安的问题——一天之内。维维安自己在没有积分帮助的情况下解决了他的问题。
+
+薇薇安可以在圆柱体表面构造一个指南针；只需要扩大圆柱体直径的长度，即球体的半径（图1）。为了证明封面四页标题中所示的 Vivianna 的两个定义的等价性，考虑图 2，其中$O$是球体的中心，$M$是 Vivianna 的当前点，$A$是 Vivianna 与自身相交的点，$N$是点$M$的投影到气缸底部。现在从等式$|OM| = |OA| = r$可以得出$\frac{r \cos \alpha}{\cos \beta} = r$，即$\alpha = \beta$。
+
+在笛卡尔坐标中，Viviana 由两个方程组确定
+
+$$\begin{cases} x^2 + y^2 + z^2 = R^2 \\ x^2 + y^2 = Rx \end{cases}$$
+
+小便。 1.
+
+图 2.
+
+图 3.
+
+代表抛物线弧。
+
+现在让我们考虑 Vivianna 从球体不同点在不同平面上穿过中心的中心投影。如果将投影中心取为点 $B$，则 Vivianna 在平面 $Oxy$ 上的投影就是构造的（«Kvant»，1977，第 2 期，第 43 页）。如果我们以点$A$为投影中心，那么薇薇安娜在平面$Oyz$上的投影将构造为一条双曲线（该曲线通常用于演示反比例性）。最后，如果我们离开相同的投影平面，并选择球体的点$A'$作为投影中心，径向投影到点$A$，那么薇薇安的图像将位于伯努利中（«Kvant»，1977，No.1，p.25）。
+
+V·贝雷津

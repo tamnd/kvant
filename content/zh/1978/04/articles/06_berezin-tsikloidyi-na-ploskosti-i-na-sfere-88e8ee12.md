@@ -1,0 +1,50 @@
+---
+id: 1978-4-berezin-tsikloidyi-na-ploskosti-i-na-sfere-88e8ee12
+issue: kvant_1978_4
+year: 1978
+number: "4"
+title: 平面上和球面上的摆线
+authors:
+  - Березин В. Н.
+rubric: osnovnye-stati
+page_first: 15
+page_last: 15
+page_labels: "13"
+tag: JPL1
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 62bafd5a594f2bcdbfee426c912dea79ca710f698392ae02237ef34448c82c97
+prompt_sha256: draft-1
+translated_from: content/ru/1978/04/articles/06_berezin-tsikloidyi-na-ploskosti-i-na-sfere-88e8ee12.md
+source_content_sha256: 43c2c9d3593aec2f9afc084db9a45865ee41fc4f2e93fa3db874c493f0d4fb73
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 13⟧
+
+平面和球体上的独眼巨人
+
+在过去的一年里，许多杰出的科学家对摆线的性质进行了研究。其中包括伽利略 (G. Galileo)（1564-1642），他给这个名字起了个名字：Cyclopides（来自希腊语 khuhlos - “圆”）。
+
+扁平独眼巨人是圆上固定点沿着给定直线滚动（不滑动）的轨迹。如果一个可动圆沿着一个静止圆滚动，从外部接触它，则可动圆的固定点就描述了一个外圆。具有 $r=R$ 的表环动物被称为心足动物 («Kvant», 1977, No. 12, p. 33)，具有 $\frac{r}{R}=\frac{1}{2}$ - 肾动物 («Kvant», 1977, No. 9, p. 43)。
+
+上一段描述的一切都发生在飞机上。为了进入太空，到球体上的独眼巨人，我们用不同的方式定义一个扁平的独眼巨人：想象一个可移动的平面叠加在一个固定的平面上，在这个平面上画了一个圆$\Sigma_1$，在这个平面上画了一个圆$l$。球体 $\Sigma_2$ 旋转，使得圆 $l$ 沿着圆 $L$ 滚动（不滑动）。在这种情况下，圆$l$定点的轨迹将落在球体$\Sigma_1$和球形独眼巨人$y$上。 图 1 显示球形独眼巨人的一圈。如果圆的半径是$L$
+
+图 1.
+
+图 2.
+
+和 $l$ 不可通约，球形独眼巨人的点填满了球体上的一条带。
+
+如果$\frac{r}{R}=\frac{1}{2}$，尝试确定球形独眼巨人的形状。
+
+笛卡尔是第一个展示如何确定平面独眼巨人在任意点的切线方向的人之一。让我们将移动的圆替换为周长相同的正方形 $ABCD$ ，并使其沿着给定的直线滚动，遵循点 $A$ (图 2) 的轨迹。在这种情况下，正方形将交替绕其顶点$D$、$C$、$B$旋转，分别占据位置$D$、$C_1$和$B_2$。如果给定时刻的旋转中心位于点 $C_1$，则点 $C$ 处的法线（垂直于切线）将穿过点 $C_1$。让我们用正五边形、六边形替换正方形。 。 。 , $n$-边形的周长相同。图片将是相同的：法线将穿过顶点，此时在顶点附近将发生旋转。在$n \rightarrow \infty$的极限下，正多边形将变成圆，点$A$的轨迹将变成独眼巨人，而法线在独眼巨人给定点处必须经过的点将成为移动圆（根据其位置）与参考线的切点。有了法线，证明切线就不难了。
+
+对于外环动物和内环动物也可以证明类似的推理，只是“正多边形”来自固定圆的弧，而不是来自线段。再次证明，给定点处的外圆弧的切线将根据该位置穿过可动圆的接触点。
+
+圣彼得堡数学家 J. Herman（1678-1733）表明，这种说法对于球形独眼巨人来说也是正确的。
+
+V·贝雷津

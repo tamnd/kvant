@@ -1,0 +1,62 @@
+---
+id: 1978-3-rekstin-rebusyi-dc60abc2
+issue: kvant_1978_3
+year: 1978
+number: "3"
+title: 画谜
+authors:
+  - Рекстин Э.
+rubric: smes
+page_first: 12
+page_last: 12
+page_labels: "10"
+tag: H3GV
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: ef68993621b18b58ca11a4d5e5bd90c19a047a7607401e3cbd3d34815b471ba3
+prompt_sha256: draft-1
+translated_from: content/ru/1978/03/articles/04_rekstin-rebusyi-dc60abc2.md
+source_content_sha256: e5a7632acb155b0b8e6ac18017c999f26ed966d26c3acd422cdceb97aa0e1d1c
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 10⟧
+
+PL。 $ACD = x - a - d$；
+Pl. $DAB = x - b - d$;
+Pl. $CEA = x - c - a$.
+
+将这些表达式代入式（4），我们得到
+$$ad - (x - b - d)(x - c - a) + e(x - a - d) = 0,$$
+即方程(3)。
+
+11. 莫比乌斯还建议证明，如果四个顶点$ABCD$、$BCDE$、$CDEA$、$DEAB$、$EABC$的面积（有向！）分别相等，则$\alpha$、$\beta$、$\gamma$、$\delta$、$\varepsilon$，那么面积$x$五元组$ABCD$就是二次方程的根
+$$x^2 - x(\alpha + \beta + \gamma + \delta + \varepsilon) + (\alpha \beta + \beta \gamma + \gamma \delta + \delta \varepsilon + \varepsilon \alpha) = 0$$
+（“相同”，莫比乌斯说，如方程 3 所示）。
+
+读者独立检查这个证明。解决莫比乌斯问题的“延续”将会更加困难：
+
+证明如果有向三角形的面积
+$$ACD, BDE, CEA, DAB, EBC$$（分别）等于$p, q, r, s, t$，则五元组$ABCD$的面积$x$就是二次方程的根
+$$x^2 = (p + q + r + s + t)^2 - 4(pr + rt + tq + qs + sp).$$
+
+12. 最后让我们注意这样一个事实：莫比乌斯问题及其“延续”都是此类问题的特例。
+
+在有向五顶点$ABCD$的边$AB, BC, \dots$上取点$A', B', C', D', E'$，使得$AA' = \lambda AB; BB' = \lambda BC; \dots$。如果给定三角形$ABCDE$、$BCD', \dots$的面积分别等于$a', b', c', d', e'$，则需要构造一个满足五边形$ABCD$面积$x$的方程。 （当$\lambda = 0$是莫比乌斯问题；如果$\lambda = 1$是它的“延续”）。
+
+对于$\lambda = 1/3$的情况，得到了完全出乎意料的答案；这里是：
+$$x = \frac{3}{5}(a' + b' + c' + d' + e').$$
+
+更令人意想不到的是，对于任意给定的 $\lambda$（但不等于 $1/3$），问题有一个令人惊讶的……丑陋的答案：
+$$x^2(1 - \lambda - \lambda^2) - x(a' + b' + c' + d' + e')(1 - \lambda) + (a' + b' + c' + d' + e')^2\left[\frac{1 - 2\lambda + 2\lambda^2}{(2 - \lambda)^2} - \frac{(1 - \lambda)^2(1 - 3\lambda)^2}{[(1 - \lambda)^5 + 1](2 - \lambda)} \right] + [(1 - \lambda)(a'b' + b'c' + c'd' + d'e') + e'a') - \lambda^2(a'c' + c'e' + e'b' + b'd') + d'a')] \frac{(2 - \lambda)(1 - 3\lambda)^2}{(1 - \lambda)^5 + 1} = 0.$$
+
+令人欣慰的是，对于 $\lambda = 0$ 和 $\lambda = 1$，该公式仍然导出方程 (3) 和 (6)。导出公式（7）的另一个动机是（对于真正的读者！）它提供了以下问题的解决方案：在数字$\lambda$（$\lambda = 1/3$除外）的值是多少时，五边形$A'B'C'D'E'$的面积是通过指定面积$a', b', c', d', e'$唯一确定的？
+
+最后，是否有可能在不首先推导“丑陋”公式的情况下解决最后一个问题？
+
+画谜
+
+尝试解读以下乘法示例，每个示例中相同的字母代表相同的数字，不同的字母代表不同的数字，并且没有数字以零开头。
