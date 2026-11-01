@@ -1,0 +1,30 @@
+---
+id: 1988-3-kalinin-golovolomka-tri-bruska-3615743c
+issue: kvant_1988_3
+year: 1988
+number: "3"
+title: 【三杠拼图】
+authors:
+  - Калинин А. Т.
+rubric: smes
+page_first: 68
+page_last: 68
+tag: 01J6
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 43765c010b5b4fdb75f11212654fa2a7d8049358c7cf5c17ab2391f76754239c
+prompt_sha256: draft-1
+translated_from: content/ru/1988/03/articles/01_kalinin-golovolomka-tri-bruska-3615743c.md
+source_content_sha256: b747a6a6ac0a4f1240a5fb406da1aed57e0ff1b6416760378df00c65eb0883e7
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+三根钢筋如何交叉连接？我们的祖先早在远古时期就开始建造第一批住宅时就必须解决这个问题。从那时起，人们发明了数百种不同的方法：将钢筋绑在一起、用钩子钩住、敲在一起、用螺丝固定、用胶合、焊接。有些很久以前发明的联系是如此新颖和巧妙，以至于它们变成了有趣的谜题。我们建议您可以轻松地用方形截面木块自己制作其中两个。钢筋上的切割必须准确、仔细——只有在这种情况下，组装好的单元才会坚固。在我们最后发布的关于谜题的笔记中，我们主要讲了谜题的结构和解题算法。可以说讨论的是“代数之谜”的问题。
+现在我们向读者提供一项来自读者的任务。在第一个版本中，十字架由三根具有不同切口配置的杆组装而成。在 图 上，它们显示在左侧。秘密在于其中一根杆可以绕纵轴旋转。因此，可以组装和拆卸该单元。在第二个版本中，十字架由三个相同的杆组成（右上图）。但无论我们如何将其中两个相加，都不可能再将第三个相加。因此，有必要同时将所有三个杆组装到结的中心。 “几何拼图”拼图的元素。尝试想出一种方法将三个带有切口的圆棒交叉连接。上面提出的切口设计不适合于此。该组件必须是可折叠的，由三个元件组成，外观如右侧图所示，没有额外的可见切割线。在各种解决方案中，最好考虑节点内部空白空间较少的解决方案。我们承认我们不知道这个问题是否已经解决。
+
+A.K.

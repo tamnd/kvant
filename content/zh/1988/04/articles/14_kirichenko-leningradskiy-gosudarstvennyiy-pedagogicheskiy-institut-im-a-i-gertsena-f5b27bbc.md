@@ -1,0 +1,117 @@
+---
+id: 1988-4-kirichenko-leningradskiy-gosudarstvennyiy-pedagogicheskiy-institut-im-a-i-gertsena-f5b27bbc
+issue: kvant_1988_4
+year: 1988
+number: "4"
+title: 列宁格勒国立师范学院以此命名。 A·I·赫尔岑
+authors:
+  - Кириченко Т. Ф.
+rubric: ekzamenatsionnye-materialy
+rubric_sub: Экзаменационные материалы
+page_first: 65
+page_last: 65
+page_labels: "63"
+tag: 2PD8
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: eeca388d982fa7f0c147bbda11d4fdd98f580df3160b0b3ab786f66488e145b9
+prompt_sha256: draft-1
+translated_from: content/ru/1988/04/articles/14_kirichenko-leningradskiy-gosudarstvennyiy-pedagogicheskiy-institut-im-a-i-gertsena-f5b27bbc.md
+source_content_sha256: db8659bc645292ce212fe60b56e65fefbd18fa24a18172386f03c7a12b824fea
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 63⟧
+
+4. 在锐角三角形 ABC 中，绘制了高度 CD 和 AE。已知AD=BC=4，AB=6，求高度AE的长度。
+
+5. 计算正三角形paramid的体积，已知顶点处的平面角为a，侧面外接圆的半径为r。
+
+选项5
+（心理学系和经济学系）
+1. 一辆货车从A点出发前往B点。1小时后，一辆客车从A点出发前往B点，与一辆货车同时降落在B点。如果一辆货车和一辆客车同时从A点和B点出发，相向行驶，它们将在出发后1小时12分钟相遇。货物龙贝尔从 A 地到 B 地行驶了多长时间？
+
+2.1. （政治经济学系）
+求解方程 $x=1+\sqrt{7-x}$。
+
+2.2.解方程
+$$\sqrt{7x+1}-\sqrt{3x-18}=\sqrt{2x+7}.$$
+
+3.1. （经济学院）
+解决不等式
+$$x^2\lg x \geq 10x.$$
+
+3.2. （心理学学院）
+解方程
+$$2\sin x+2\cos x+1=\sin 2x+4(\sin^3 x+\cos^3 x).$$
+
+4. 直角三角形外接圆。如果已知从斜边两端到直角三角形顶点处圆的切线的距离等于 a 和 b，则求该三角形的边。
+
+5.1. (心理学系及经济系)
+球心与圆锥底面中心重合，其半径等于圆锥底面半径。如果圆锥体的高度 H 及其横截面角度 a 已知，求球体与圆锥体表面相交的圆的半径。
+
+5.2. （政治经济学系）
+在平面上画出 $2|x-y-2| \leq 3-x^2-y^2$ 的点集 $M(x,y)$。
+
+选项6
+（生理学部数学线性系）
+1. 从普里斯蒂格A出发，一艘船和一艘木筏同时向下游出发。船顺流而下96公里，14小时后掉头返回A地。在水流的快艇中找到滞留的快艇，如果已知该船在返回途中在距离A 24公里处遇到了木筏。
+
+2. 解方程
+$$\log_{1+x}(2x^3+2x^2-3x+1)=3.$$
+
+3. 找出不等式的所有解
+$$\sqrt{\frac{1}{2}-\cos 2x}>\sin x-\cos x,$$ 满足条件 0 \leq x \leq \pi。
+
+4. 在正方形ABCD外给出一点O。如果已知OA=OB=5，DO=\sqrt{13}，求正方形的面积。
+
+5. 在正四边形帕拉米德中，底边的二面角等于 a。求侧边的二面角。
+该出版物由 A. S. Merkuryev 编写
+
+列宁格勒国立师范学院以此命名。 A·I·赫尔岑
+
+数学
+口语考试目标
+数学学院
+
+1. 无需表格即可计算
+$$\sin 6^\circ-\sin 42^\circ-\sin 66^\circ+\sin 78^\circ.$$
+
+2. 解方程
+a) $(x^2+x+1)(2x^2+2x-3)=-3(1-x-x^2)$;
+b) $(\sin x-\cos x)(1+\tg^2x)=4\sin x(1-\tg^2x)$.
+
+3. 解不等式：
+$$4\log_3(4x-5)-\log_3(x+1) \geq 0,25\log_327-2.$$
+
+4. 找到函数的极值
+$$f(x)=x-\cos 2x.$$
+
+5. 证明如果从三角形一个顶点引出的中线和高将三角形的角分成三等分，则该三角形是一条直线。
+
+6. 证明三角形一个角的比三边形的平方等于各边的乘积与展开线段的乘积之差。
+
+7. 在梯形 ABCP 之外的底 AB 和 CP 上构造正方形。证明连接它们中心的线经过梯形对角线的交点。
+
+8. 帕拉酰胺的底面为直梯形，较大边为12°，较小角为30°。帕拉酰胺的所有侧面均等地倾斜于展开平面。侧面积为 90。求出 paramid 的体积。
+
+9. 立方体的边等于a。求立方体的对角线与不相交的面之间的距离。
+
+物理、工业教学、化学学院
+
+10. 指定数字$\log_{0.3}\left(\frac{10}{7}(\log_2 5-1)\right)$的符号。
+
+11. 给定 lg 64=k，求 lg $\sqrt[3]{25}$。
+
+12. 对于 a 的哪些值，该等式成立？
+$$\frac{a+5}{a-5}\sqrt{a^2-10a+25}=-5-a?$$
+
+13. 证明准确性
+$$2(\sin^6x+\cos^6x)-3(\sin^4x+\cos^4x)+1=0.$$
+
+14. 解方程
+a) $|1-|x||-2|=1$;
+b) $\log_2\left(\frac{x^2}{8}\right)=8$.
