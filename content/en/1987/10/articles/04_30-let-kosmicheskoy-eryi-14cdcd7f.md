@@ -1,0 +1,40 @@
+---
+id: 1987-10-30-let-kosmicheskoy-eryi-14cdcd7f
+issue: kvant_1987_10
+year: 1987
+number: "10"
+title: 30 years of the space age
+rubric: osnovnye-stati
+page_first: 4
+page_last: 4
+page_labels: "2"
+tag: PROK
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: c9e25b48f325df6e616b87a92937e22b06f1a1f25e05814631b41a89e2e89868
+prompt_sha256: draft-1
+translated_from: content/ru/1987/10/articles/04_30-let-kosmicheskoy-eryi-14cdcd7f.md
+source_content_sha256: 5a86fd56bca48e0a232083eeb39438b0e1ecb712651ffed9cef4f62686e43a18
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 2⟧
+
+30 years of the space age
+
+In the history of the greatest scientific and technical information, the event that occurred on October 4, 1957, occupies a special place. On this day, with the launch of the First Artificial Earth Satellite, man was welcomed into a new era - the era of the liberation and use of outer space.
+
+With all the enormity of the subsequent achievements of astronautics, not a single one of them, by universal recognition, had such a huge impact on the minds and feelings of people in all corners of the planet as the launch of the “simplest satellite” (as they called it themselves). But launching a satellite is not only about creating a device capable of functioning in space flight conditions. This is the development and construction of a huge rocket and space complex.
+
+The fact that priority in its creation belongs to the Soviet Union is an indicator of the powerful scientific and technical potential of our country, the ability to mobilize efforts and resources to solve the most complex problems. Domestic cosmonautics today occupies leading positions in many areas of the study and use of outer space. Much credit for its development belongs to S.P. Korolev, M.V. Keldysh, V.P. Glushko, M.K. Yangel, V.N. Chelomey, N.A. Pillogin and many other types and designers.
+
+Currently, astronautics is increasingly acquiring international characteristics. Dozens of countries take part in space programs, some of them are creating their own rocket and space systems.
+
+Without space technology, neither scientific nor economic activity is unthinkable. Spacecraft explore the Earth and distant planets, serve geologists and agricultural workers, provide communications and detect disasters, and help create new materials and medicines.
+
+This is today. And tomorrow? There are new projects and new routes ahead, because space is a road without end!
+
+2

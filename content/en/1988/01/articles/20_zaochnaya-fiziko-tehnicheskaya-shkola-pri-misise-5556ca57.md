@@ -1,0 +1,66 @@
+---
+id: 1988-1-zaochnaya-fiziko-tehnicheskaya-shkola-pri-misise-5556ca57
+issue: kvant_1988_1
+year: 1988
+number: "1"
+title: Correspondence Physics and Technology School at MISiS
+rubric: informatsiya
+rubric_sub: Информация
+page_first: 61
+page_last: 61
+page_labels: "59"
+tag: MD8O
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 7724ad530e51f76f8e89c06d66c941fda8f7997479ee4309a839aacc5dd36af0
+prompt_sha256: draft-1
+translated_from: content/ru/1988/01/articles/20_zaochnaya-fiziko-tehnicheskaya-shkola-pri-misise-5556ca57.md
+source_content_sha256: 5bea73b968f1af7036b32bc5a14359361d1ea7c28875d99f079db9beb992abe8
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 59⟧
+
+later on April 15, send solutions to the problems of the introductory work to the address of the Moscow Institute of Mathematics and Mathematics (all problems do not have to be solved). The work must be completed in a checkered school notebook. On the cover of the notebook, paste a piece of paper with the following information:
+1) resources, region, region;
+2) last name, first name of the student;
+3) school and class (full name);
+4) full home address (including post office code);
+
+5) last name, first name, parent's name, place of work and position.
+
+In the work you need a piece of paper 4x6 cm, on which write your full home address (indicating the post office code) and sew it to the address: 119899 Moscow, Moscow State University, Malyi Mekhat.
+
+Moreover
+1. For schoolchildren in grades 7–10 in Moscow and the surrounding Moscow region, there is an evening department of MMMF. Inquiries by phone: 939-39-43.
+2. For schoolchildren in Kazakhstan and Moldova there are
+
+The assignment of the introductory work at the Malya Faculty of Mechanics and Mathematics in 1988
+1. Find the smallest natural number $x>1$ which, when divided by 2, 3, 4, 5 and 6, leaves a remainder of 1 in each case.
+2. Which is greater: $\sqrt{3}$ or $\sqrt{5}$?
+3. Solve the system of equations
+$$\begin{cases} xy + vz = 1987, \\ yz + zx = 1988, \\ xy + zx = 1989. \end{cases}$$
+
+4. Prove that if $a+b>2$ then $a^8+b^8>2$.
+5. The equation $x_1^{11} + x_2^{11} + \dots + x_{1987}^{11} = 1988$ is given.
+a) Find all solutions in natural numbers.
+b) Prove that there are many integer solutions to infinity.
+6. Find a point on the hypotenuse of a right triangle such that the sum of the squares of its distances to the legs is the smallest.
+
+7. A group of 11 7th grade students, including boys and girls, went to a disco. They danced, standing evenly in a circle and throwing streamers at each other. Prove that there is a boy and his two friends (or a girl and her two friends) from whom he (or she) can be connected by paper strips of equal length.
+
+8. Prove that if in a quadrilateral each of the angles is greater than $89^\circ$, then each of them is less than $93^\circ$.
+
+9. Two circles are drawn with center $O$ and radii $r$ and $R$: OKR $(O, r)$ and OKR $(O, R)$, and $R>r$. Rays $OA_1$, $OA_2$ and $OA_3$ are released from point $O$: ray $OA_3$ lies inside the acute angle between $OA_1$ and $OA_2$. Let OKR $(O, r) \cap OA_1 = E$, OKR $(O, R) \cap OA_2 = B$, OKR $(O, r) \cap OA_3 = D$, OKR $(O, R) \cap OA_2 = C$, and the points $B, D$ and $C$ lie on the same straight line. Find the ratio $COD:EDB$.
+
+10. What is the penultimate digit of the square of an integer if the last digit is equal to five?
+
+Correspondence School of Physics and Technology at MISiS
+The branch of the All-Union Correspondence Mathematical School - the Correspondence Physics and Technology School at the Moscow Institute of Steel and Alloys - announces enrollment of students in the eighth, ninth and tenth grades for the 1988/89 academic year.
+The purpose of the school is to assist students in in-depth study of the curriculum of secondary school material in physics and mathematics, as well as in professional training in mathematics, which is fully consistent with the VZMS course. The physics course was developed by teachers from the Department of General Physics and the Department of Theoretical Physics at MISiCa.
+The work of the school is organized as follows. Tests in physics and mathematics are sent to students four to five times a year along with summaries of the theory and application of problem solving and design of matter. Work submitted by students is checked and sent to students along with grades and comments.
+Students who successfully complete school in full receive a certificate that gives premium upon admission to MISiS.
+Classes at ZFTSH will begin on October 1. To enroll in the school, you must send an application indicating your last name, first name,

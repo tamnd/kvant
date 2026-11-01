@@ -1,0 +1,40 @@
+---
+id: 1988-1-k-nashim-chitatelyam-b421353c
+issue: kvant_1988_1
+year: 1988
+number: "1"
+title: To our readers
+rubric: osnovnye-stati
+page_first: 4
+page_last: 4
+page_labels: "2"
+tag: 0AXX
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 2f37a10325e937f9bd5b227ea2292b98cac2db529a462d25caddf5797b3acf2c
+prompt_sha256: draft-1
+translated_from: content/ru/1988/01/articles/03_k-nashim-chitatelyam-b421353c.md
+source_content_sha256: 5eabbac77981ef53aaaeaa9a67e31fc59c93f0187876f06bd1421e142f47e22c
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 2⟧
+
+Dear readers!
+
+Many of you are well familiar with our magazine, with its sections and materials. But there are also those who became subscribers «Kvant» for the first time this year. We hope that each of you will find something useful and interesting for yourself in the magazine.
+
+In each issue we talk about the achievements of science and its practical applications, about the fundamental concepts of physics and mathematics. In the “Science News” section we publish messages about the latest scientific achievements. For those who love physical experiments and want to learn how to make simple instruments, the materials in the “Laboratory «Kvant»” section are intended. For a fan of math problems, read the article “Math Mug.” In the “School in «Kvant»” section you will find articles that will clarify the most difficult to understand issues of the school course.
+
+Every month we offer the reader non-standard, in our opinion, problems in physics and mathematics. Solving these problems, placed under the heading “Problem «Kvant»”, requires the ability to think independently and creatively. Every year the magazine holds a competition for the best solution to the problem from “Problem «Kvant». The winners of the competition are awarded a Diploma «Kvant» and receive the right to participate in resource tours of the All-Union Physics and Mathematics Optimization for Schoolchildren.
+
+Many of the magazine's materials are intended for future applicants. This is an article in the “Applicant Practice” section and tasks in the “Entrance Exam Options” section.
+
+In each issue of the magazine you will find a section «Kvant» for junior schoolchildren. Here we give challenging tasks that require not so much specific knowledge as communication, attentiveness, and the ability to think logically. The statistics published in this section are, as a rule, of interest to high school students.
+
+Materials regularly appear in the magazine, telling about the optimization of schoolchildren and vocational school students, information about correspondence and evening schools in various regions of the country...
+
+The volume of our magazine is quite large, and it is difficult to talk briefly about its contents. Today you are getting acquainted with the first issue. Will you like him? WHAT do you get from the magazine? What would you like to read about on its pages? We hope to learn this from your letters.

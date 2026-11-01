@@ -1,0 +1,68 @@
+---
+id: 1987-9-goncharov-zadachi-na-issledovanie-14cd25d1
+issue: kvant_1987_9
+year: 1987
+number: "9"
+title: Research tasks
+authors:
+  - Гончаров А. Б.
+rubric: smes
+page_first: 22
+page_last: 22
+page_labels: "20"
+tag: PHR9
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 65cb74382b04d8726960632bb5dc2d3a50b298cd2ebe38f769d99f8300e062ba
+prompt_sha256: draft-1
+translated_from: content/ru/1987/09/articles/06_goncharov-zadachi-na-issledovanie-14cd25d1.md
+source_content_sha256: a7e67ada983262c5fe8adf5b9cbadfd1fe434ee17a777fb61ed5921facc83541
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 20⟧
+
+Descartes answered the questions this way: with the help of “imaginary” roots one can construct a general theory of algebraic equations.
+
+In Geometry, Descartes also outlined his theory of algebraic equations. He began it by pointing out that it is most convenient to write them in the form that has now become familiar to us - with the right side equal to zero:
+
+$$a_0 + a_1x + a_2x^2 + \dots + a_nx^n = 0.$$
+
+He stated the theorem that an algebraic equation of degree $n$ has exactly $n$ roots, given positive, negative, and complex (“imaginary”) roots. This is the main theorem of algebra, which was stated before Descartes, at the beginning of the 17th century, by P. Rothe and A. Girard.
+
+Descartes was the first to denote given quantities by the initial letters of the alphabet $a, b, c$, and unknown quantities by the last letters $x, y, z$. He forgave the designation of the degree, and it took on the familiar form $a^3, x^2$, etc.
+
+Distribution and influence of "Geometry"
+
+The essay “Discourse on Method” was published in 1637 in French. Descartes' contemporaries received his Geometry with great enthusiasm. It was soon translated into Latin, the international language of science of that era. In a short time, Geo-riter went through four editions. In the eighteenth century it was the book of every creative working mathematician.
+
+Descartes believed that mathematics should study only curves defined by algebraic equations, because there is no general method for studying other lines. An example of an algebraic curve is a Cartesian sheet. Its equation is $x^3 + y^3 - 3ax y = 0, a \neq 0$. Meanwhile, in mathematics, non-algebraic (transcendental) curves also play a greater role: the Archimedes spiral, quadratrix, tractis, cyclops and others. Descartes did not include them in his Geometry.
+
+This limitation of Descartes was provided by Newton and Leibniz, who developed general examples of the study of transcendental curves in the second half of the 17th century. Using the coordinate method, they began to study sine, logarithmetic, exponential and other functions.
+
+The planar coordinate method develops further. Soon the ordinat axis appeared, and in the 18th century, stereometry; “multidimensional” geometry arose in the 19th century, and “infinite-dimensional” geometry in the 20th century. Today, it is impossible to imagine either mathematics or physics without the coordinate method.
+
+The works of Descartes, his philosophical, mathematical and cosmological ideas are of deep interest and discussion today. This is his greatness as a scientist.
+
+Research assignments
+
+We offer the reader several problems about the average values ​​of projections of polygons and polyhedra. With their help, it is possible, in particular, to solve problems M1030, which is different from the one placed in «Kvant» No. 6.
+
+a) Let $p_M(l)$ denote the length of the projection of the convex polygon $M$ onto the line $l$. Prove that the average value of $p_M(l)$ over all straight projections through a given point is equal to $p/\pi$, where $p$ is the cavern of the polygon $M$. (By definition, this average is $\frac{1}{2\pi} \int_0^{2\pi} p_M(l_u) da$,
+
+where $l_u$ is a straight line, component with a fixed axis $l_0$ angle $a$.)
+
+The next two problems consider averages in all directions in space; I talk about what is placed under them in the article by Yu. Ionin and A. Plotchin “The average value of a function” («Kvant», 1977, No. 7, p. 26).
+
+Let us denote by $s_M(P)$ and $t_M(l)$ the corresponding projection of the convex polygon $M$ onto the plane $P$ and the length of its projection onto the line $l$.
+
+6) What is the value of $s_M(P)$ averaged over all planes $P$ passing through a given point?
+
+c*) What is the value of $t_M(l)$ averaged over all planes $P$ passing through a given point?
+
+Hint: it is not difficult to understand that the answer in tasks a) - c) has the dimensions cm, cm², cm³ of the corresponding one. What "geometric quantities" associated with a polygon or polyhedron have this dimension?
+
+A. V. Goncharov

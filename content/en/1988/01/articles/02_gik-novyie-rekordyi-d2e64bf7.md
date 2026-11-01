@@ -1,0 +1,51 @@
+---
+id: 1988-1-gik-novyie-rekordyi-d2e64bf7
+issue: kvant_1988_1
+year: 1988
+number: "1"
+title: New records
+authors:
+  - Гик Е. Я.
+rubric: shahmatnaya-stranichka
+rubric_sub: Шахматы
+page_first: 67
+page_last: 67
+tag: M3IU
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: f5f66e82d697b9d2c73f0cb1ab0eab18b2c7e4baa462e3041bc725d4846f94f8
+prompt_sha256: draft-1
+translated_from: content/ru/1988/01/articles/02_gik-novyie-rekordyi-d2e64bf7.md
+source_content_sha256: 12574ab03c5e812dd504f76fae6293a67029d492c043a4aba5adfd3ee83e7271
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+NEW RECORDS
+
+Let us first recall several records related to the classics of chess mathematics. On a regular board, you can arrange so that the same-named pieces do not threaten each other, at most 8 queens, or 8 rooks, or 14 bishops, or 16 kings, or 32 knights. These records are absolute, that is, they cannot be broken. However, a number of interesting questions arise related to the arrangement of certain record positions on one diagram. The grandmaster is occupied by a new mathematician G. Dudenny came up with a position that combines three records at once: 8 queens, 8 rooks and 14 bishops can fit on the board at the same time. In addition, there are also 21 knights and 8 kings (both of them do not threaten each other). So, we have three records (for queens, rooks and bishops), and in total there are 59 pieces on the board. This achievement has been maintained since the last century and was considered unshakable. And only in 1986, V. Popov managed to place 8 queens, 8 rooks, 14 bishops and 21 knights on one board (so far everything, like Dudenny), but there were one more kings - 9, and the total number of pieces - 60. Four unoccupied squares were on one diagram, which gave the position a kind of symmetry.
+
+After this publication, the editor received many letters in which readers proposed their positions, increasing the total number of figures. Let’s say right away that V. Popov’s record was not broken; with 8 queens, 8 rooks and 14 bishops (Dudenny’s requirement), the number of remaining pieces could not be increased (60).
+
+Many record holders refused to have three records on one diagram at once, this allowed them to increase the total number of figures to 61, 62 or even 63. But even with the theme of records (though for a different set of figures), many positions containing 61 or 62 figures were sent. The super record was set by Babamurat Kurbanov from Tajikistan.
+
+We still have 8 queens and 8 rooks, and the third record was set not for bishops, but for kings - 16. There are the same number of knights as Dudenny and Popov - 21, and 10 more bishops. In total, there are 63 pieces on the board!
+
+Summing up the discussion on Dudenny's position, we note that there are still many questions left.
+
+1. Is it possible to increase the total number of pieces (60) while maintaining the three records for pieces, rooks and bishops?
+2. Is it possible to increase the number of records presented on one chart (instead of three, four or all five)?
+3. Is it possible to fill the entire board with pieces (pieces of the same name should not threaten each other)?
+In order to fill all the boards, you can get a reduced number of records (instead of three - two or one) or abandon them altogether.
+
+Here are two more records set by readers of the magazine. The following two problems were published in «Kvant», 1987, no. 7.
+
+The author of the position, V. Frangen, believed that this was the only solution (turns and mirror reflections of the board do not count). However, after summing up the results of the competition, he found a fundamental solution. Symmetrum from the board of white pieces e2 and together with it we will add black to h5. Now let's change the color of all the figures and as a result we will get another record position.
+
+Maybe the reader will be able to find other arrangements of 19 figures?
+
+E. Ya. Gik

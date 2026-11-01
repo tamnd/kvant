@@ -1,0 +1,77 @@
+---
+id: 1987-7-baybulatova-geller-vesti-s-ekzamenov-cb70abea
+issue: kvant_1987_7
+year: 1987
+number: "7"
+title: News from exams
+authors:
+  - Байбулатова С.
+  - Геллер Б. И.
+rubric: smes
+page_first: 60
+page_last: 60
+page_labels: "58"
+tag: 3OVQ
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 41db812795fe73778bc15f9ddc954059a27ddbf85c42f75d195da98565048599
+prompt_sha256: draft-1
+translated_from: content/ru/1987/07/articles/17_baybulatova-geller-vesti-s-ekzamenov-cb70abea.md
+source_content_sha256: 941ecbdc6fbc72a7ca46bcdd112411bc9ac0d8f7ba2f574aa274f85aa47f0a0d
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 58⟧
+
+Mathematics in life
+
+In the city of Dolgoprudny, where the Moscow Institute of Physics and Technology is located, there are only two bus routes: No. 368 (connecting the city with Moscow) and No. “K” (circular). However, one of the MIPT students managed to prove the following statement.
+
+Buses with all route numbers greater than or equal to 368 run throughout the city of Dolgoprudny.
+
+The proof is carried out by induction. To do this, you need to check the validity of the following two statements.
+
+1. The statement is valid for n=368.
+2. From the validity of the statement for n=k−1 it follows that it is valid for n=k.
+3. The first statement is true, because there is route No. 368 in the city of Dolgoprudny.
+4. The second is also true, since route No. “K” also exists.
+5. Thus, the statement is proven.
+
+A.P.
+
+News from copies
+
+Gases can be compressed more strongly because the force is celestial space, and the liquid is water, which when you squeeze it, it flows out.
+
+Why can gases be compressed larger than liquids? Because gas is invisible, but liquid is visible.
+
+Prislada S. Baybulatova
+
+Superconductivity is when conduction occurs with great speed and force.
+
+Superconductivity is when resistance suddenly disappears altogether. Either it is there or it is not.
+
+Metals are called hard alloys.
+
+Metals rust at low temperatures and melt at high temperatures.
+
+Metal is an alloy of iron.
+
+Solids are dense and highly ordered media.
+
+The temperature of the metal depends on its resistance.
+
+Prislada B. I. Geller
+
+Ugenye is light, and...
+
+“I like you,” the circle said to the triangle.
+
+- But you and I are not a couple, my dear. After all, I am so versatile, besides, I have three peaks, and you are monotonously round,” came the answer.
+
+In his simplicity, he did not know that a circle fits into any triangle.
+
+J. F. Shklar
