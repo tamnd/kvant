@@ -1,0 +1,81 @@
+---
+id: 1979-9-dmitriev-ivlev-elektricheskaya-tsep-izvlekaet-kvadratnyie-korni-1a85587a
+issue: kvant_1979_9
+year: 1979
+number: "9"
+title: 提取平方根的电路
+authors:
+  - Дмитриев Н.
+  - Ивлев В.
+rubric: smes
+page_first: 18
+page_last: 18
+page_labels: "16"
+tag: 11VG
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: fba1431e4380399340612ee88e8370d8e511271f978492aa96eb459cefdf3cd8
+prompt_sha256: draft-1
+translated_from: content/ru/1979/09/articles/06_dmitriev-ivlev-elektricheskaya-tsep-izvlekaet-kvadratnyie-korni-1a85587a.md
+source_content_sha256: 778ee06817ec2f78b767342d773f4b664884a7a4c39c733ed696cbbe308c7fe0
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 16⟧
+
+服务站）。内部深色的kolyu常被称为绉纱，其内缘被严重侵蚀。
+
+目前，赤道面和土星环与黄道面（地球轨道面）倾斜28°，并且这种倾斜会持续很长一段时间（100年内倾斜度仅减少47°）。因此，在土星绕太阳公转的期间，即29.5个地球年，赤道平面和行星环在太空中保持其方向，就像地球自转轴的方向和地球赤道平面在地球每年公转期间保持不变一样。因此，调节器每14.7个地球年（时间间隔等于土星轨道周期的一半），行星环就会面向地球边缘，并且由于其厚度微不足道而不可见。只能将环体上的一小部分替换到行星盘上。当它们的平面指向太阳时，环也会变得不可见。
+
+这种现象被称为 Colsatrin 插入-消失，将发生在 1979 年秋天和 1980 年春天。从 1979 年 9 月地球早晨可见度开始到 1980 年 6 月，ringatrin 将不可见。只有在十二月、一月和五月，在具有不低于有意义的放大倍数的望远镜中，才有可能注意到极细光带形式的秋醋甙。
+
+环沙林的消失非常罕见，我们强烈建议任何对天文学感兴趣的人在几乎整个学年的时间里观察这颗行星。
+
+提取平方根的电路
+
+在 N. Goldfarb 编辑的《物理学问题集》中，给出了以下问题：电路由无限多个单元组成，由三个相同的电阻 r (图 1) 组成。求该电路的电阻。
+
+为了解决这个问题，我们首先计算第一个电池的电阻 R1（开路端子 K1、L1）。显然，R1=3r。端子K1、L1和开路的端子K2、L2再次闭合，我们求两节电池的电阻R2：
+
+$$R_2 = 2r + \frac{rR_1}{r + R_1}.$$
+
+同样地，
+
+$$R_3 = 2r + \frac{rR_2}{r + R_2}, \dots,$$
+
+$$R_n = 2r + \frac{rR_{n-1}}{r + R_{n-1}}.$$
+
+其中 Rn 是开路端子 Kn、Ln 时的电路电阻，n=1, 2, 3, ... (图 1)。对于无限链我们得到
+
+$$R_\infty = 2r + \frac{rR_\infty}{r + R_\infty}.$$
+
+让我们求解 R_\infty 的方程：
+
+$$R_\infty = r(1 + \sqrt{3}).$$
+
+为了使该计算正确，需要在考虑 van 和极限的情况下证明 lim Rn=R_\infty。但根据我们的假设，这来自维尔斯特拉斯定理（“代数和分析的开始 9”，第 32 段）；事实上，序列 (Rn) 以数字 (1+√3) r) 为界，并且单调杀死（检查一下！）。
+
+从收到的答案可以清楚地看出，该电路允许您在到达大量电池时通过改变链的电阻来计算 √3 的值。
+
+将跳线中的电阻值设置为2r，我们得到
+
+$$R_\infty = r(1 + \sqrt{5}).$$
+
+对于值 3r
+
+$$R_\infty = r(1 + \sqrt{7}),$$
+
+对于值 nr（n 是任何自然数）
+
+$$R_\infty = r(1 + \sqrt{2n+1}).$$
+
+我们的链“取根”任何奇数！
+
+可以证明，对于任意实数a≥1，可以选择跳线上的电阻，使得无限电路的电阻等于r(1+√a)。
+
+我们将此声明作为作业留给读者。
+
+N.德米特里耶夫、V.伊夫列夫

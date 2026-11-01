@@ -1,0 +1,37 @@
+---
+id: 1979-10-rudov-yubiley-atomnoy-energetiki-1f7c71fd
+issue: kvant_1979_10
+year: 1979
+number: "10"
+title: 核能周年纪念日
+authors:
+  - Рудов В. А.
+rubric: raznoe
+rubric_sub: Разное
+page_first: 67
+page_last: 67
+tag: Z7ZS
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 9b9dbab932427d23458ae00c2b8a6fbf565f177224e0627fa940a16aa184a058
+prompt_sha256: draft-1
+translated_from: content/ru/1979/10/articles/03_rudov-yubiley-atomnoy-energetiki-1f7c71fd.md
+source_content_sha256: 04e8e07b9c625fe99cff6019e9cec44a163d80f8801108f331186512868e6a99
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+周年纪念日
+核能
+
+世界上第一座核电站启动已有 25 年了。这是人类历史上各种原子反应堆的杰出事件。我国为其他社会主义国家发展核能提供了大量援助。与此同时，制造核车辆的大量工作正在进行中。三艘强大的核破冰船已经投入使用——列宁号、西伯利亚号和北极号。它们从根本上改变了北冰洋的航行条件。 1977年8月17日，北极号破冰船在航海史上首次到达地球北极。
+
+我国在和平利用原子能领域的成功体现在报道集邮上。 1956年1月，发行了一系列三枚邮票来纪念第一座核电站。其中两个复制在我们选择的顶部。 1958年和1978年，发行了印有核破冰船图案的邮票。我们还看到古巴邮票上的破冰船“列宁”号被复制在这里。奇怪的是，他旁边画的是不在北极的企鹅。
+
+1958年、1962年和1963年发行了用于邮政流通的邮票，致力于纪念各国人民为禁止原子武器和仅将原子能用于和平目的而进行的斗争。其中一些在我们的选择中显示，并附有为纪念北极袭击北极而发行的编号邮政区块。
+
+V·鲁多夫

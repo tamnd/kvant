@@ -1,0 +1,65 @@
+---
+id: 1979-7-begunkova-leningradskiy-institut-tochnoy-mehaniki-i-optiki-4cfe35fd
+issue: kvant_1979_7
+year: 1979
+number: "7"
+title: 列宁格勒精密机械与光学研究所
+authors:
+  - Бегункова А. и др.
+rubric: ekzamenatsionnye-materialy
+page_first: 55
+page_last: 55
+page_labels: "53"
+tag: 1UT6
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 5d500645b1bdef364bdd26768c2e646ddd0e9b6d55b7f4ff1854d8e7e3a245c7
+prompt_sha256: draft-1
+translated_from: content/ru/1979/07/articles/17_begunkova-leningradskiy-institut-tochnoy-mehaniki-i-optiki-4cfe35fd.md
+source_content_sha256: f899504ce0deb6d365c28029fb34f38088e63d03c766fb436ae0da2398070a10
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 53⟧
+
+3. 解方程
+$$\left(1 + \sin 2x\right) \left(\cos x - \sin x\right) = 1 - 2 \sin^2 x.$$
+
+4. 在二项式$\left(x \sqrt{x} + \frac{1}{x^4}\right)^n$的展开中，第二项的生物系数比第一项的系数大44。查找不包含 $x$ 的术语。
+
+物理
+口试作业
+1. 雪橇沿着$l=100$米长的斜坡从$h=8$米高的山上滑下来。有中心的雪橇质量为 $m=90$ kg。如果雪橇下降结束时的速度为 $|\vec{v}|=11$ m/s，则雪橇运动的平均阻力是多少？
+2. 弹丸的钢莎草从$h=500$米的高度落下，在地球表面的速度为$|\vec{v}|=50$米/秒。莎草落下时温度会升高多少度？假设全身都用来加热莎草。钢的比热容为$c=460$J（kg·K）。
+3. 如果氢原子中的电子轨道速度为 $v=2,2 \cdot 10^6$ m/s，那么它距原子核中心的距离是多少？原子核在轨道各点产生的场的方向是什么？电子电荷为$e=1,6 \cdot 10^{-19}$C，电子质量为$m=9,1 \cdot 10^{-31}$kg。
+4. 将电灯泡从筏中心放入水中$h=10$米的深度。筏的最小尺寸（长度和宽度）必须是多少，才能保证灯泡发出的任何光线都不能穿过水面？水的绝对折射率为$n=1,33$。
+
+A.Balueva、V.Sirota、V.Shabut
+
+列宁格勒精密机械与光学研究所
+
+为研究、测量或控制目的而设计的现代仪器是非常复杂的设备。它们结合了物理学、电子学、光学、计算机技术、经验和设计原理的最新成果，以及近年来的技术发展。
+
+在这方面，需要培养新型仪器工程师，他们必须具备设计、研究、组织和测试信息化测量系统所需的生理科学领域的深厚知识。列宁格勒精密机械与光学研究所 (LITMO) 成立于 1930 年，是该领域领先的技术仪器制造机构，培养研究工程师、设计师和技术仪器制造系统。学院拥有以EC系列机器为基础的大型计算机中心，以及小型计算机，学院所有学生都在其中接受培训。
+
+该国最大的光学学院培养光学仪器工程师：光学系统的计算和研究、设计和技术仪器（天体测量、导航、摄影仪器、高速电影设备、电视光学、水文摄影设备等）。
+
+该学院的毕业生作为与其专业相对应的工程师，在仪器制造厂和各种类型的研究机构工作。
+
+该学院有两个夜校和一个预科系。每年 10 月 1 日至 8 月 1 日为所有申请者举办预科课程。
+
+数学
+笔试
+选项1
+1. 简化表达式
+$$h \left[ \frac{a^4 \sqrt{a} + \sqrt{a^2 b^3}}{4 \sqrt{a^3} + \sqrt{a^2 b}} - \sqrt{a b} \right)$$
+$$\because \left( \sqrt{a} - \sqrt{b} \right) - \sqrt{a} = -4.$$
+2. 解方程
+$$\sqrt{\lg(1-x)} + 5 \lg(1-x) = 6.$$
+3. 解方程
+$$\sin \frac{10x + 9\pi}{2} + \sin 3(x + \pi) + \sin \frac{3\pi - 2x}{2} = \cos \frac{15}{2}\pi.$$
+4. 写出曲线 $y = x(x - 1)$ 在其与轴 $Ox$ 交点处的切线方程。
+5. 找到包含 $x^6$ 的展开项 $\left(x + \frac{1}{2} y\right)^9$。
