@@ -1,0 +1,88 @@
+---
+id: 1980-12-egorov-smolyanskiy-novyie-knigi-b8492339
+issue: kvant_1980_12
+year: 1980
+number: "12"
+title: New books
+authors:
+  - Егоров А. А.
+  - Смолянский М. Л.
+rubric: retsenzii-bibliografiya
+rubric_sub: Рецензии, библиография
+page_first: 58
+page_last: 58
+page_labels: "56"
+tag: G6VJ
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 820b451f9666db81611d08db7f0bba8dd45fd82acd51584e0b817bf0060eb00e
+prompt_sha256: draft-1
+translated_from: content/ru/1980/12/articles/21_egorov-smolyanskiy-novyie-knigi-b8492339.md
+source_content_sha256: ca5a26186cc95475240f8d29c5149f6625fc1af7df6db31b53789697d68a181e
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 56⟧
+
+New books
+
+We continue to publish summaries of books on mathematics and physics that are accessible and interesting to our readers. In this issue we talk about books published in the fourth quarter of 1980.
+
+Mathematics
+
+Publishing house "Science"
+
+1. Pontryagin L. S. Analysis of endocrine small ones. Volume 15 l., circulation 100,000 copies, price 55 kopecks.
+
+Written by the outstanding Soviet mathematician Academician L. S. Pontryagin, this book is devoted to presenting some issues of mathematical analysis in a form accessible to schoolchildren. The originality of the book lies in its simultaneous presentation of the theory of functions of a real and complex variable.
+
+2. Fomin S.V. Number systems (Popular lectures on mathematics). 4th edition. Volume 2 l., circulation 100,000 copies. price 10 k.
+
+The brochure provides a fascinating account of the history of the origin, properties and application of various number systems.
+
+In connection with the dual number system, some information about computers is provided.
+
+3. Lurie M.V., Aleksandrov B.I. Problems for composing equations. 2nd edition. Volume 5 l., circulation 300,000 copies, price 15 kopecks.
+
+The book breaks down methods for solving so-called word problems. These tasks are classified by the authors into several main types. Each type of such task is described in detail. All problems described in this book are taken from versions of written entrance exams in mathematics at various faculties of Moscow State University in 1967-1978.
+
+The book contains a large number of problems for independent solution with answers.
+
+Publishing house "Mir"
+
+4. Rena A. Triloedy about mathematics. Per. from Hungarian. Volume 20 l., circulation 15,000 copies, price 1 rub. 40 k.
+
+The book outlines previously published works in Russian by the leading Hungarian mathematician A. Rena “Dialogues on Mathematics” (M., “Mir”, 1969) and “Letters on Probability” (M., “Mir”, 1970), as well as “Diary (records on information theory), published in the homeland by the authors posthumously and published in the USSR for the first time.
+
+The book also includes several aids to help the reader become familiar with some of the functions of computer science and the functions of modern mathematics.
+
+Physics
+
+Publishing house "Science"
+
+1. Levantovsky V.I. Mechanics of space flight in an elementary presentation. 3rd edition, corrected and expanded. Volume 32 l., circulation 20,000 copies, price 1 rub. 30 k.
+
+In an accessible form, without the use of complex mathematical apparatus, the book consistently lays out the fundamentals of the theory of space flight. It tells about near-Earth flights, flights to the Moon, inside the Solar System and flights beyond its limits. Flights of manned spacecraft and orbital stations are especially considered. An idea is given of the methods of research and design of space trajectories, of launching satellites into orbit. The third edition provides additional information about all new achievements in astronautics. The book was awarded the prize of the Knowledge Society.
+
+Publishing house "Mir"
+
+2. Lieber D.-E. Relative theory with compass and ruler. Translation from German. Volume 7 l., circulation 50,000 copies, price 40 kopecks.
+
+This small book provides a geometric interpretation of the basic concepts and correspondences of the special theory of relative displacements.
+
+3. Symmetry patterns. Translation from English. Volume 12 l., circulation 50,000 copies, price 1 rub. 20 k.
+
+In the book, based on the material of the Symmetry Festival (Northampton, USA), the level of presentation of symmetry problems is accessible to the reader. The main direction of the book is to extract the global meaning of symmetry as a general purpose of harmony in molecules, crystals, living nature, and works of art. The modernity of a relaxed connection with the sources of material. The illustrations are executed with great grace.
+
+4. Beckert M. World of metals. Translation from German. Volume 20 l., circulation 50,000 copies, price 2 rubles. 90 k.
+
+The book by the GDR scientist, Professor Manfred Beckerta is a vividly written, fascinating and richly used history of metals and their role in human life and human development in society from ancient times to the present day. It also tells about the outstanding achievements of modern science in the study of the properties and structure of metals, and about the prospects for “space metallurgy” of the future.
+
+5. Gordon J. Designs, or Why Things Don't Break. Translation from English. Volume 22 l., circulation 50,000 copies, price 1 rub. 50 k.
+
+The author of the book, an English scientist, Professor George Gordon, speaks lively and interestingly, using extensive materials, about structures, structural materials and their analyzes in nature.
+
+A. Egorov, M. Smolyansky

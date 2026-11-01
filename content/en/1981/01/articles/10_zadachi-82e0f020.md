@@ -1,0 +1,43 @@
+---
+id: 1981-1-zadachi-82e0f020
+issue: kvant_1981_1
+year: 1981
+number: "1"
+title: Tasks
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 35
+page_last: 35
+page_labels: "33"
+tag: QJ7T
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: ee0e0b42d1e1766bb024ed06fb82850853d228449283e1cdcaf0273da83596de
+prompt_sha256: draft-1
+translated_from: content/ru/1981/01/articles/10_zadachi-82e0f020.md
+source_content_sha256: 5dedc7b9b2e3087e86e17ba0c4c55a188c5d1e9e13ec0a27b4b9a30ab6bc3226
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 33⟧
+
+Quests
+
+1. Cut out the shapes shown in figure from cardboard. Try folding a square using a) each of them, except the square, once; b) all five figures once; c) each figure twice. (The numbers 1 and 2 on figure indicate the relative sizes of the figures.)
+
+2. Find what MINUS is equal to in the example of multiplication depicted by figure (same letters correspond to the same numbers, different numbers correspond to different ones).
+
+3. Forty-five circles folded into triangle ABC (see figure) contain numbers from 1 to 9 (each number is repeated five times, and no two identical numbers are adjacent). There are 256 different routes from top A to side BC. But only one of them goes through all two digits. Find this path.
+
+Try also to find similar paths from vertices B and C to side AC and BC respectively.
+
+4. Find all five-digit numbers with the following property: each digit of the number is strictly greater than the sum of the digits to the right of it (in particular, the fourth digit is greater than the fifth).
+
+5. The population of the Soviet Union is 260 million. It would seem that a map of the USSR with a scale of 1:1,000,000 (1 centimeter is 10 kilometers) can accommodate a million times fewer people than the entire territory of the country, that is, 260 people can fit. However, we know from experience that it will not be easy for even five dozen people to do this. Why?
+
+These tasks were offered to us
+N. Antonovich, G. Galperin,
+B. Dubrovsky, A. Shvetsov

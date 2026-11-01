@@ -1,0 +1,75 @@
+---
+id: 1980-11-krivosheev-magicheskie-vosmiugolniki-917ff67e
+issue: kvant_1980_11
+year: 1980
+number: "11"
+title: Magic octagons
+authors:
+  - Кривошеев Е.
+rubric: raznoe
+rubric_sub: Разное
+page_first: 39
+page_last: 39
+page_labels: "37"
+tag: PJ70
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 2b6e1cd2da6f5d078922ad61584574fd337bee7af332e890f746e8b5262f0c38
+prompt_sha256: draft-1
+translated_from: content/ru/1980/11/articles/12_krivosheev-magicheskie-vosmiugolniki-917ff67e.md
+source_content_sha256: 558b219ae2fbd1196dfc78f8a4edd22f66fa85a918d384b8187dbc0b093abf8a
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 37⟧
+
+{a₁; a₂; a₃}, {a₁; a₂; a₄}, {a₁; a₃; a₄}, {a₂; a₃; a₄}.
+
+Thus, the set $A$ has even subsets, the set $B$ has eight subsets, and the set $C$ has 16 subsets.
+
+Subset records, we arranged them in increasing order of the number of elements. Trying to calculate the number of a subset of an arbitrary finite set in this way, we come to the more difficult task of counting the number of a subset with a given number of elements. However, there is another way to solve the problem.
+
+Let a $A = \{a_1; a_2; ...; a_n\} — n$-element set. The choice of an arbitrary subset $B$ of the set $A$ can be divided into the following steps: in the first step we decide whether to include the element $a_1$ in the subset $B$, in the second step we decide whether to include the element $a_2$ in $B$, etc., in the last, $n$th step we decide whether to include in subset $B$ element $a_n$. Since at each step, regardless of the decisions made at the previous steps, we have the opportunity (to include the next element in $B$ or not), then according to the product rule, the number of the subset of the set $A$ is equal to the product of $n$ two, that is, equal to $2^n$. So, a $n$-element set has $2^n$ different subsets.
+
+This statement will help us in solving the next problem.
+
+Problem 8. In how many ways can 15 boys and 15 girls be seated in fifteen parties so that each boy sits in the same party as the girls?
+
+Let's remember the solution: we have $(15!)^2$ possibilities, on the second there are $2^{15}$ possibilities. According to the rules of the product, we get the answer: $(15!)^2 \cdot 2^{15}$.
+
+Exercise 12. How many ways can 9 different coins be placed in two pockets?
+
+Our cover
+
+Magical waxers
+
+The fourth page of the cover depicts 25 “magical waxers.” The nodes of each of them contain four “blue” and four “green” numbers, and a “red” number is written in the center (all numbers are between 1 and 25).
+
+If we add the red number with the four blue (or green) numbers of “our” voskmutolnik, we get the magic sum 65. Take, for example, a voskmutolnik with the number 13 in the center: $13 + (19 + 5 + 7 + 21) = 13 + (10 + 22 + 16 + 4) = 65$. (It is curious that here the magic sum is also made up of two neighboring numbers added to diametrically opposite ones: $13 + (22 + 5) + (4 + 21) = 13 + (5 + 16) + (21 + 10) = 13 + (16 + 7) + (10 + 19) = 13 + (7 + 4) + (19 + 22) = 65$. Several of them have the same properties. We have the opportunity (to include another element in $B$ or not), then according to the product rule, the number of a subset of the set $A$ is equal to the product of $n$ two, that is, equal to $2^n$. So, in A $n$-element set has $2^n$ different subsets.
+
+Let us now take, starting from the top row, the green number:
+
+15 7 4 21 18
+17 14 6 3 25
+24 16 13 10 2
+1 23 20 12 9
+8 5 22 19 11
+
+Again we get a magic square with a sum of 65.
+
+Remaining green numbers:
+
+23 9 20 1 12
+7 18 4 15 21
+16 2 13 24 10
+5 11 22 8 19
+14 25 6 17 3
+
+form a magic square again. The same is true for blue numbers.
+
+So, we found one red square, one multi-colored one (within frames), two green ones and one blue one... Find another blue square yourself.
+
+E. Krivoshcheev

@@ -1,0 +1,63 @@
+---
+id: 1980-12-rekstin-neokonchennaya-kriptogramma-4380bf8b
+issue: kvant_1980_12
+year: 1980
+number: "12"
+title: Unfinished cryptogram
+authors:
+  - Рекстин Э.
+rubric: smes
+page_first: 31
+page_last: 31
+page_labels: "29"
+tag: 4PBW
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 4a85c9759316433af4f7d2f794f488cd5bfc676c5f545bfe2756a6f017709656
+prompt_sha256: draft-1
+translated_from: content/ru/1980/12/articles/12_rekstin-neokonchennaya-kriptogramma-4380bf8b.md
+source_content_sha256: 36a95856cb2d4b823002ac60be1f39b38475973e9c7486f937e69deb84f9bfd6
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 29⟧
+
+Solving equations (1) and (2) together, we find
+$$l_1 = l^3\sqrt{2}, \quad d_1 = d^3\sqrt{4}.$$
+I. Slobodetsky
+
+F617. The newspaper text is photographed twice:
+1) from the shortest distance allowed for this lens $a = 0,5$ m;
+2) after connecting the object to the camera through an extension ring with a height of $h = 25$ mm (also from the minimum possible distance).
+Find the ratio of the sizes of images obtained on photographic film in these two cases.
+
+To solve the problem, we use the lens formula
+$$\frac{1}{d} + \frac{1}{f} = \frac{1}{F},$$
+where $d$ is the distance from the photographed object to the object, $f$ is the distance from the object to the image, $F$ is the focal length of the object (see figure).
+When photographing the text in the first case (without the eraser ring) $d_1 = a$, and a sharp image is obtained at a distance
+$$f_1 = \frac{aF}{a-F}.$$
+The linear size of the image in this case is equal to (see figure).
+$$l_1 = L \frac{f_1}{a} = L \frac{F}{a-F}.$$
+When connecting an object to the camera through an extension ring with a height of $h$, a sharp image and text are obtained at a distance
+$$f_2 = f_1 + h = \frac{aF}{a-F} + h$$
+from the object. The minimum possible distance from the object at which text can be located when photographing is in this case equal to
+$$d_2 = \frac{f_2F}{f_2-F} = \frac{(aF + h(a-F))F}{F^2 + h(a-F)}.$$
+The image size in this case
+$$l_2 = L \frac{f_2}{d_2} = L \left( \frac{F}{a-F} + \frac{h}{F} \right).$$
+Thus, the ratio of the sizes of images obtained on photographic film in two cases is equal to
+$$\frac{l_2}{l_1} = \frac{h(a-F)}{F^2} + 1 = 5,5.$$
+V. Derzhkin
+
+Endless cryptography
+
+Here is a cryptograph that can be read using a certain lattice (you will find out what this is by reading the article “Self-alignment of a square and cryptography” on p. 31), applying it to the following problem:
+1) from the shortest distance allowed for this lens $a = 0,5$ m;
+2) after connecting the object to the camera through an extension ring with a height of $h = 25$ mm (also from the minimum possible distance).
+Find the ratio of the sizes of images obtained on photographic film in these two cases.
+
+Decrypt the protected message.
+
+E. Rekstin
