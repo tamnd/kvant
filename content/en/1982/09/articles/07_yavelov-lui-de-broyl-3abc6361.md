@@ -1,0 +1,46 @@
+---
+id: 1982-9-yavelov-lui-de-broyl-3abc6361
+issue: kvant_1982_9
+year: 1982
+number: "9"
+title: Louis de Broglie
+authors:
+  - Явелов Б. Е.
+rubric: o-lyudyah
+page_first: 30
+page_last: 30
+page_labels: "28"
+tag: LECG
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 20261d198f66d728517f6b0d2ff24783c70a22bbef26ccaefa6f139f2c1c4d33
+prompt_sha256: draft-1
+translated_from: content/ru/1982/09/articles/07_yavelov-lui-de-broyl-3abc6361.md
+source_content_sha256: bbf851f6095985e218d13360f16bad04f4247c7d2e2307654009399930395211
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 28⟧
+
+B. Yavelov
+
+Louis de Broglie
+
+Ninety years ago, in the small town of Dieppe on the French coast of the English Channel, Louis de Broglie, one of the founders of quantum theory, was born. The de Broglie family is a very old, aristocratic family, its numerous representatives became famous as military leaders, diplomats, and high-ranking dignitaries.
+
+But the young Louis de Broglie, as well as his brother Maurice (who was 17 years older), enjoyed little laurels from their ancestors - they both became scientists. By the end of the first decade of the Nivenian century, Maurice de Broglie had gained a reputation as one of the most authoritative physicists in France. His younger brother, who graduated from high school in Paris in 1909, initially decided to devote himself to the humanities and in 1910 received a licentiate (the lowest academic degree in France) in history at the University of Paris (at the Sorbonne). But the craving for physics and mathematics - which developed not without the influence of his brother - prevailed, and in 1913, Louis de Broglie at the same Sorbonne received another licentiate, this time - a licentiate of exact sciences.
+
+In 1914, the First World War began, and the future Great Physicist was mobilized and assigned as a radio operator to a radio station that was located in the Eiffel Tower. For six years he studied radio, or, as they said then, “wireless telephone,” and only in 1920 did he get the opportunity to return to physics. He began working in his brother's private laboratory, where he began experimenting with high-frequency electromagnetic research (in particular, with RENT RAYS). Deeply interested in the problems of quantum theory, closely related to this work, which were then at the center of attention of physics, Louis de Broglie already at the beginning of 1922 began theoretical attempts to advance the understanding of the essence of quantum phenomena.
+
+In 1924, de Broglie completed his doctoral dissertation, which was called “Research on the Theory of Quantums.” De Broglie's scientific consultant was Paul Langevin (1872-1946), an outstanding French physicist, a man of advanced scientific and political views (Langevin was a great friend of our country; in 1944 he joined the French Communist Party). In this work, de Broglie put forward the idea of ​​the wave properties of matter: he suggested that any material part, along with corpuscular properties, also has wave properties. If the mass of a particle is $m$, its speed is $v$, then this particle corresponds to a wave, the length of which is determined by the formula
+
+$$\lambda = \frac{h}{mv},$$
+
+where $h$ is Planck’s constant.
+
+At an electron energy of 200 eV, the corresponding wave has a length of $\sim 10^{-10}$ m, that is, the same as the wavelength of the Genetene radiation. One might expect that if electrons really have wave properties, then when electrons pass through a crystalline resource, diffraction should occur - as when Genetian rays pass through a crystal.
+
+Indeed, in 1927, the diffraction pattern was observed for the first time when electrons passed through metal foil.

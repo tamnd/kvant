@@ -1,0 +1,38 @@
+---
+id: 1982-9-narodnoe-obrazovanie-v-sssr-17f6ad82
+issue: kvant_1982_9
+year: 1982
+number: "9"
+title: Public education in the USSR
+rubric: otkryvayushchie-stati
+page_first: 5
+page_last: 5
+page_labels: "3"
+tag: 6ZHR
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 201331c2386267023fab46a6808b04d51e9bd893bff248470be9a3d806335e9f
+prompt_sha256: draft-1
+translated_from: content/ru/1982/09/articles/04_narodnoe-obrazovanie-v-sssr-17f6ad82.md
+source_content_sha256: edfabff86e1c2afa1bbb10f456b264cdacb45ef041b27e3b4fbdc02c2e2a29dd
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 3⟧
+
+Public education in the USSR
+
+Since its inception, the Soviet school has always been a faithful supporter of the Party in communist construction. Over the 60 years of the Union of Soviet Socialist Republics, each five-year period left its own unique mark in the field of public education.
+
+The country's path from almost complete illiteracy before the October Revolution to universal secondary education was not easy. The Soviet nation-wide state took upon itself the solution of all problems of school construction, the creation of the material base of the school and their financing, the training and maintenance of teaching staff, and the provision of schools with the necessary educational materials and aids. Our state daily allocates billions of rubles for the needs of education and stimulates its development with all means available to it.
+
+This year marks 10 years since the adoption by the Central Committee of the CPSU and the Council of Ministers of the USSR of the resolution “On the completion of the transition to comprehensive secondary education for youth and the further development of secondary schools.” It noted that all conditions are being created in the country to complete the transition to comprehensive secondary education as one of the important prerequisites for the further socio-political and economic development of our society along the path to communism, posta socialist consciousness and culture of the working people.
+
+Summarizing the results of school development over the 10 years since the adoption of the resolution, it should be noted that during this time 37.5 million people received secondary education, which is almost half of all people who received secondary education during the entire existence of Soviet power.
+
+The implementation of general, special and vocational technical secondary education has incited generations and has historical and international significance. In our country, a unified system of public education is successfully developing and improving, which provides broad educational training for young people, serves their spiritual, moral and physical development well and reliably, provides the opportunity to enter at any age, as well as preparation for work in all spheres of the national economy. Such a democratic system of public education is one of the greatest achievements of Soviet power.
+
+In the report of the CPSU Central Committee to the XXVI Congress of the Communist Party of the Soviet Union, there is a high assessment of the public education system worthy of Soviet sociality. General Secretary of the CPSU Central Committee L.I. Brezhnev in his report to the party congress said: “An important milestone has been reached - the transition to compulsory universal secondary education has been completed.”

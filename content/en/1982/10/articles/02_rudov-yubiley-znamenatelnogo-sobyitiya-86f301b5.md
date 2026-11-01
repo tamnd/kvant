@@ -1,0 +1,37 @@
+---
+id: 1982-10-rudov-yubiley-znamenatelnogo-sobyitiya-86f301b5
+issue: kvant_1982_10
+year: 1982
+number: "10"
+title: Anniversary of a significant event
+authors:
+  - Рудов В. А.
+rubric: raznoe
+page_first: 68
+page_last: 68
+tag: 868L
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: b8f5f9c9a3c8f142a0543027fd3747f31d764624339ae624daaac462a3d2428c
+prompt_sha256: draft-1
+translated_from: content/ru/1982/10/articles/02_rudov-yubiley-znamenatelnogo-sobyitiya-86f301b5.md
+source_content_sha256: 340e37ab7e9e9210b83ad5e8e64e83d18ed69c02cebc270b300d6147a683610b
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+Anniversary of a significant event
+
+It's been 25 years since the launch of the first artificial Earth satellite, which opened up man's journey into space. Designed and launched under the leadership of the outstanding Soviet scientist Academician S.P. Korolev, the satellite convincingly demonstrated to the whole world the high level of development of Soviet science.
+
+Over the past quarter century, a huge amount of work has been done in the field of studying outer space, Lun, and the planets of the solar system. The results of space research are used by the Shriko to solve many important problems in the national economy.
+
+Our country makes a huge contribution to the development of international cooperation in space. Cosmonauts from the socialist countries that are members of the Council for Mutual Economic Assistance successfully worked on the Soviet space station Salyut-6. The first French cosmonaut participated in the research carried out at the Salyut-7 station. The USSR actively cooperates in the implementation of space programs with India, Switzerland and a number of other states.
+
+Launch of the first artificial Earth satellite; introduction to space philately. Now it has thousands of stamps dedicated to space heroes and various space subjects. Stamps with the image of the first satellite continue to be issued. We reproduce some of them in our selection.
+
+V. Rudov

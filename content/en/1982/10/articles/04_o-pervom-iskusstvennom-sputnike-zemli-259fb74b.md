@@ -1,0 +1,42 @@
+---
+id: 1982-10-o-pervom-iskusstvennom-sputnike-zemli-259fb74b
+issue: kvant_1982_10
+year: 1982
+number: "10"
+title: '[About the first artificial satellite of the Earth]'
+rubric: smes
+page_first: 6
+page_last: 6
+page_labels: "4"
+tag: CB9D
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: add02db09d3be92ba6313e2c94eef175e84697a933d95eb75cc62230fa8dd666
+prompt_sha256: draft-1
+translated_from: content/ru/1982/10/articles/04_o-pervom-iskusstvennom-sputnike-zemli-259fb74b.md
+source_content_sha256: ee4aff03295952d453ccc98bdc0becb08aa7d3dc39e8e3ca31f58dd42d4a1c65
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 4⟧
+
+So, in fact, the theodolite will not change the concept of the horizon, but the angle, the value of which can rotate by several degrees from α. This method of changing curvature is very unreliable and cannot provide evidence of the sphericity of the Earth, especially since it can only be used on the sea surface, where the horizon appears to be a straight line and the height can be confidently recorded.
+
+Another way that would seem to reveal the sphericity of the Earth is, as we have already said, a change in the spherical excess at the corners of triangles. The sum of the angles of a triangle whose sides are the arcs of the great circles of the ball turns out to be more than 180 degrees. Mathematical calculation shows that this difference - it is called the spherical excess - is equal to
+
+$$\varepsilon = 206265 S/R^2$$ arcseconds,
+
+where $S$ is the area of ​​the triangle, $R$ is the radius of the ball. Let us assume that it was possible to change the corners of a huge triangle on Earth from a side of 100 km (its vertices, obviously, could only be high mountains). The area of ​​such an equilateral triangle is $S = 4330$ km$^2$ and $\varepsilon = 22\%$. This value can be “caught” well with a theodolite, but instruments were also created for astronomical purposes; For much more “rough” land surveying work, such precision was not needed. Thus, this method would not be feasible.
+
+Perhaps someone will say: radio astrooming does not cover the cloudy sky and can develop even in the absence of visibility of celestial objects. But radioastrooming has only existed for about fifty years, and it arose and developed thanks to its older “relative”, even “progenitor” - optical astronomy.
+
+Our cover
+
+25 years ago, on October 4, 1957, the first artificial Earth satellite was launched in the USSR. The heroic work of Soviet scientists, engineers, and workers opened the way to space for man. A new era has begun in the history of science and technology - the era of space flights.
+
+The front cover shows Sputnik 1 mounted on a display stand. Sputnik 1 is the first artificial celestial body launched into an elliptical orbit in near-Earth space. The evolution of the movement of this satellite under the influence of the upper atmosphere allows its basic physical characteristics.
+
+To date, more than 1,400 artificial satellites have been launched in the USSR.
