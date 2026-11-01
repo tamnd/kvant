@@ -1,0 +1,67 @@
+---
+id: 1978-3-zemlyakov-kak-vyiglyadit-parabola-44ebb483
+issue: kvant_1978_3
+year: 1978
+number: "3"
+title: What does a parabola look like?
+authors:
+  - Земляков А. Н.
+rubric: po-stranitsam-shkolnyh-uchebnikov
+rubric_sub: По страницам школьных учебников
+page_first: 40
+page_last: 40
+page_labels: "38"
+tag: S7E3
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: d08b9f2b9f062aaf8323876e571c00d92558c9792d9465f865df18d748005f31
+prompt_sha256: draft-1
+translated_from: content/ru/1978/03/articles/11_zemlyakov-kak-vyiglyadit-parabola-44ebb483.md
+source_content_sha256: f0ce7cb970bfc85e6913c38142d078e4f6be2eafde8d28e6d92ace136f7a25e4
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 38⟧
+
+What does a parabola look like?
+
+Try to apply various signs.
+
+A. Zemlyakov
+
+What does a parabola look like?
+
+Try to apply various signs.
+
+A. Pushkin
+
+Have you ever wondered why the parabolic graph of the quadratic function $y=x^2$ is drawn on the coordinate plane as shown in figure 1,a? Why isn’t it drawn like in Figures 1b or 1c?
+
+You can answer that if you draw a graph of $y=x^2$ by points (Fig. 2), you will get “as in figure 1,a”. However, it is impossible to take an infinite number of trial points, and it is not clear how to continue the graph for large values ​​of $x$. We will present two different arguments showing that the graphs in Figures 1,b and 1,continued are incorrect.
+
+Algebraic reasoning
+
+Prime $y=kx$ can intersect with paraboly $y=x^2$ at most two points (Fig. 3,a; explain). The graphs in Figures 1, b and 1, in some of these lines intersect at three or even more points (Fig. 3, b, c).
+
+Analytical reasoning
+
+The angle coefficient of the tangent to the graph of the differentiable function $y=f(x)$ at points with abscissa $x$ is equal to $k(x)=f'(x)$ (“Algebra and on-
+
+beginning of analysis 9", paragraph 52). If, as $x$ increases, the coefficient $k(x)$ increases, then the tangent forms an increasingly larger angle with the $Ox$ axis, and the graph becomes steeper (in the case of $k(x)>0$; see Fig. 4). For the quadratic function $f(x)=x^2$, the slope of the tangent $k(x)=2x$ has exactly this property, and the graph $y=x^2$ becomes steeper at $x>0$ (Fig. 5,a). On the contrary, the angular coefficients of the tangents to graph 1,b and 1,c decrease on intervals from $a$ to $b$; see figure 5b, c. (In this argument, the geometric meaning of the tangent is significantly used - see substitution 3 from the mentioned paragraph 52 of the textbook and the article “Geometric meaning of an arbitrary one,” «Kvant», 1977, No. 2).
+
+Comment
+
+Algebraic, as well as analytical, reasoning is applicable not only to the parabola, but also to other graphs of the function, as can be seen by solving the problems proposed below. The second reasoning, which analyzes the nature of the behavior of a tangent to a graph, also leads to the important concept of convexity of a function (their graphs) (see “Algebra and science 10,” paragraph 79). Note that the increase or decrease of the slope $k(x)=f'(x)$ can be set using an arbitrary function: $k'(x)=f''(x)$, and $k(x)$ increases or decreases depending on the sign of the second arbitrary function $f$.
+
+Task 1
+
+1. Which of the graphs shown in figure 6 can answer function $y=x^5$?
+
+2. Figures 7, a, b show two graphs of the degree of the function $y=x^\alpha$, where $\alpha>0$. For each of the graphs $\alpha>1$, and for each $\alpha<1$?
+
+(Give both analytical and algebraic reasoning in given 1, 2.)
+
+3. (10th grade). As a rule, draw graphs $y=a^x$ and $y=\log_a x$ at $a>1$ - as in Figures 8, a, 9, a, or as in Figures 8, b, 9, b? (Justify your answer.)

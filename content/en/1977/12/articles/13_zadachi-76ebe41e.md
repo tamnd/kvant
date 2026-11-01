@@ -1,0 +1,50 @@
+---
+id: 1977-12-zadachi-76ebe41e
+issue: kvant_1977_12
+year: 1977
+number: "12"
+title: Tasks
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 46
+page_last: 46
+page_labels: "44"
+tag: 5XU7
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 544e64260c3bba1769081e74b629c33ee4c48549f667c79daa0c4dc0aea7a634
+prompt_sha256: draft-1
+translated_from: content/ru/1977/12/articles/13_zadachi-76ebe41e.md
+source_content_sha256: be58e4e52a05c3bd05f287923ff950699a4265705f9cd0fa49ab2edaa4162320
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 44⟧
+
+«Kvant» for younger students
+
+Quests
+
+1. When a three-digit number, the first two digits of which are the same and the third is equal to 5, was divided by a single-digit number, the remainder was 8. Find the dividend, divisor and quotient.
+
+2. Write in the cells at figure number by number so that you get two division examples completed correctly (one after the other).
+
+3. Find the smallest pair of natural numbers $a$ and $b$ that satisfy the condition $5a^2=2b^5$.
+
+4. In each of the following examples, some numbers are encrypted in letters. Decipher the examples!
+
+a) THREE +TWO
+TWO YARD
+FIVE
+
+b) THREE·THREE=SIX
+
+c) GIVE - WATER
+PASHA
+
+5. The number $A$ is a natural number, and in its notation only the numbers 1, 9, 7, 6 appear, each 1977 times. Is it possible for the number $\sqrt[3]{A}$ to be an integer?
+
+44
