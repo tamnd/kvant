@@ -1,0 +1,97 @@
+---
+id: 1982-6-levischenko-slepkan-kievskiy-gosudarstvennyiy-pedagogicheskiy-institut-im-a-m-gorkogo-d431214e
+issue: kvant_1982_6
+year: 1982
+number: "6"
+title: 基辅国立师范学院以此命名。高尔基
+authors:
+  - Левищенко С.
+  - Слепкань З. И.
+rubric: ekzamenatsionnye-materialy
+page_first: 47
+page_last: 47
+page_labels: "45"
+tag: "1448"
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 00362d47214d7a2e4f97c541a923256db6c5dd48cbc5440361407ac009870b5e
+prompt_sha256: draft-1
+translated_from: content/ru/1982/06/articles/17_levischenko-slepkan-kievskiy-gosudarstvennyiy-pedagogicheskiy-institut-im-a-m-gorkogo-d431214e.md
+source_content_sha256: 93fb0d49150d501fd18efe323ec43b8b5841374cb24865c162a5a562ac7a6d62
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 45⟧
+
+每个电路的分数是多少（以安培/欧姆为单位）？忽略导线电阻。
+
+6. 外部带有直流源的电路，外部电阻与内部电阻之比为多少时，能释放最大功率？
+
+7. 空气分子的提名能量为$E_H=2,4 \cdot 10^{-20}$ J。如果电子以$v=2,5 \cdot 10^6$ m/s 的速度飞行，其质量为$m=9,1 \times 10^{-31}$ kg，是否会引起空气提名？
+
+8. 两个电子飞入均匀磁场，感应力为 $B_1=0,1$ T 和 $B_2=0,2$ T 垂直于感应线。比较它们在磁场中描述的圆中的旋转周期。
+
+9. 精确的光源位于焦距为$F=10$cm的会聚透镜的焦点处。屏幕放置在距镜头 $l=1$ m 的位置，垂直于其主光轴。比较不带镜头和带镜头的屏幕上光点中心的照度。忽略光损失。
+
+10. 假设 75 瓦白炽灯消耗的能量中有 $\eta=1/25$ 转化为可见光，那么 75 瓦白炽灯在 1 秒内会发射多少个可见光光子？可见光的波长取$\lambda=5,5 \cdot 10^{-7}$米。普朗克常数为 $h=6,62 \cdot 10^{-34}$ J s，光速为 $c=3 \cdot 10^8$ m/s。
+
+该出版物由 A. Prokaza、V. Rombach 编写
+
+基辅国立师范学院以此命名。高尔基
+
+数学
+笔试
+选项1
+（物理与数学学院）
+
+1. 两块黄铜的质量为 30 公斤。第一块含有5公斤纯铜，第二块含有4公斤。如果第二块黄铜的铜含量比第一块多 15%，那么第一块黄铜的铜含量是多少？
+
+2. 基本参数是一个等腰三角形，其边长为$a$，形成角度$a$。底边各边的二面角都等于$b$。确定总表面积参数。
+
+3. 给定：$|\vec{a}|=2, |\vec{b}|=1, (\vec{a}, \vec{b})=60^\circ$。求向量 $\vec{a}+\vec{b}$ 和 $\vec{a}-\vec{b}$ 之间的角度。
+
+4. 检查函数 $f(x)=\frac{6(x-1)}{x^2+3}$ 是否有极值。
+
+5. 求以线 $y=0$ 和 $y=2+x-x^2$ 为界的 funkura 面积。
+
+选项2
+（一般技术学科系）
+
+1. 摩托艇逆流而上16公里返回，往返时间40分钟。小于逆流路径。如果知道河流的速度为 2 公里/小时，请求静水中的速度。
+
+2. 球内接于圆锥体，其形状与底面之间的角度为 φ。确定圆锥体体积与球体体积之比。
+
+3. 检查函数 $f(x)=\frac{1}{2}x^2-3x$ 是否有极值。
+
+4. 求以线 $y=\frac{1}{x^2}, y=0, x=1$ 和 $x=2$ 为界的 funkura 面积。
+
+5. 求解方程 $2 \cdot 3^x+1-4 \cdot 3^{x-2}=150$。
+
+该出版物由 S. Levitsenko、Z. Slenkan 编写
+
+莫斯科航空学院以它的名字命名。谢尔戈·奥尔忠尼启则
+
+Matematika
+笔试
+选项1
+（应用数学学院）
+
+1. 求解不等式$8^x+\frac{1}{3}-9 \cdot 4^x+2^x \ge 0$。
+
+2. 求解方程 $\log_2(\text{ctg}x+\text{tg}3x)-1=\log_2(\text{tg}3x)$。
+
+3. 绘制函数 $y=2\cos^2x+sin^2x$ 的图形。找到该图与线 $y=\frac{5}{4}$ 的交点。
+
+4. 在正四边形 paramidium $SABCD$ 的底部，正方形 $ABCD$ 位于边 $a$ 上。帕拉酰胺的侧面与基底平面成45°角倾斜。圆锥的顶点与$S$点重合，圆锥的底面圆与Paramid的底面平面相切，圆心位于边[SA]上。求出该圆锥体积的最大可能值。
+
+5. 找到 $a \in \mathbb{R}$ 的所有值，其中方程 $a^3+a^2 \cdot [a+x]+|a^2x+1|=1$ 至少有四个不同的整数解。
+
+选项2
+（其他院系的代数和分析原理考试）
+
+1. 给出等效方程的定义。陈述并证明维塔逆定理。
+
+2. 求解方程 $\sqrt{x^2+8}=2x+1$。

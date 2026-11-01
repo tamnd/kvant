@@ -1,0 +1,78 @@
+---
+id: 1982-2-prohorenko-chudov-moskovskiy-energeticheskiy-institut-0952c0e8
+issue: kvant_1982_2
+year: 1982
+number: "2"
+title: 莫斯科能源研究所
+authors:
+  - Прохоренко В. И.
+  - Чудов В. Л.
+rubric: ekzamenatsionnye-materialy
+page_first: 47
+page_last: 47
+page_labels: "45"
+tag: 8W4L
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 2cda94263e0c7c00d92e28fe8dfc57579c417ee163c7e45747e3bfb9e0931be8
+prompt_sha256: draft-1
+translated_from: content/ru/1982/02/articles/16_prohorenko-chudov-moskovskiy-energeticheskiy-institut-0952c0e8.md
+source_content_sha256: 3593e0ebfba0fb6eae20e654945679c6f8faeac1f2919cfebc2a6d39a46f6354
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 45⟧
+
+为什么线会在下部位置断线？
+
+3. 两个相同质量的物体从同一高度$h$落到地上。第一个物体的撞击是无弹性的，撞击后第二个物体上升到 0.2 $h$ 的高度。更多热量在哪一点逸出？多少次？
+
+4. 体积为 $V = 10^{-1}$ m3 的密闭容器中含有一定量的水：在 $t = 30$ °C 时，水的体积为 $V_B = 10^{-3}$ m3。如果分子之间的张力消失，容器中的压力是多少？
+
+5. 由失重的可移动活塞封闭的气缸在正常情况下含有 $V = 1$ m3 的空气。空气被加热$\Delta t = 1$°C时会做多少功？
+
+6. 为了将 $V = 4$ 升水从 $t_1 = 10$ °C 加热到 $t_2 = 100$ °C 并将 $k = 3\%$ 水转化为蒸汽，在效率为 $\eta = 32\%$ 的 primus 炉中消耗多少煤油？煤油的热为$q = 4,6 \cdot 10^4$kJ/kg，水的比热为$c = 4,2$kJ/(kg·K)，水的汽化比热为$\lambda = 2,26 \cdot 10^3$kJ/kg。
+
+7. 将电动势为 $\delta = 2,8$ V 的电池组连接到目标，如 图 所示。这里$R_1 = 1,8$欧姆，$R_2 = 2$欧姆，$R_3 = 3$欧姆，安培数显示$I = 0,48$ A. 确定电池的内阻。可以通过电阻来克服安培器。
+
+8. 如果发电机端子电压保持在$U_0 = 133$V，并且从发电机到房间的接线采用总长$l = 150$米、横截面$S = 15$mm²的铝线，一个房间内可以安装多少盏功率$P = 200$W、额定电压$U = 127$V的白炽灯？总耗电量是多少？铝电阻率$\rho = 2,9 \cdot 10^{-8}$欧姆·米。
+
+9. 两个灯笼悬挂在距离地面相同高度$h = 3$米的两根杆子上。其中之一的发光强度为$I_1 = 200$kD。另一个灯笼的发光强度应该是多少，才能使柱子之间的距离为$l = 8$米，柱子中间的地面照度至少为$E = 15$勒克斯？
+
+10. 如果已知放置在透镜前面 $d = 50$ cm 处的物体的图像最小并缩小 3 倍，则确定透镜的光焦度。这是什么镜头？
+
+该出版物由 S. Filonovich、M. Chernetsov 编写
+
+莫斯科能源研究所
+
+数学
+
+笔试
+选项1
+
+1. 简化表达式并求极限$\lim_{x \to 1} \left( \frac{3x^2 - 4x + 1}{1-x} + \frac{\sqrt{x} - x}{(\sqrt{x})^{-1} - 1} \right)^{-2}$。
+
+2. 求函数 $f(x) = 1 + 3x^2 - x^3$ 在区间 $[-1; 3]$ 上的定义域，并在指定区间上构造函数的图。
+
+4. 找出方程 $\cos^4 x - \sin^4 x = \sin 4x$ 位于区间 $0; \frac{\pi}{2}$[ 内的所有根。
+
+5. 如果脊的底面积为$S$且脊的对角线与脊的侧边形成角度$\alpha$，求右侧四边形脊的侧面面积。
+
+选项 2。
+
+1. 简化$f(x)$的表达式，如果$f(x) = \left( \frac{x^5 + x^4 \cdot 3\sqrt{2} + 3\sqrt{4x^9}}{\sqrt{1 - 2x^3 + x^6} - 1} - 2\log_4(x^3 - 1)^2 - \log_2(x - \sqrt{2}) \right)^{-1}$则求$f'(x)$。
+
+2. 求解方程 $(3 - \lg x)^2 \cdot (3 + \lg x)^2 = (4 - \lg^2 x)^2 - 7\lg^2 x + 50$。
+
+3. 将数字 10 想象为两个正项的和，这样第一项的平方与第二项的立方之和最小。
+
+4. 找到方程 $\cos x \cdot \mathrm{tg} \left( \frac{\pi}{2} - x \right) + \sin x \cdot \mathrm{tg} \left( \frac{\pi}{2} + x \right) = \cos x + \sin x$ 满足 $\sqrt{x - 5} + \log_2 2 > 0$ 的所有根。
+
+5. 在颗粒$ABCD$中，较大底边$[AD]$处的角度等于$\alpha$和$\beta$，连接顶点$A$与边$[CD]$中间的线段的长度为$m$。如果 $|AC| = |AD|$，求 $\vec{BA} \cdot \vec{CD}$ 的点积。
+
+物理
+
+根据所描述的教师，摘要需要参加笔试或口试物理考试。

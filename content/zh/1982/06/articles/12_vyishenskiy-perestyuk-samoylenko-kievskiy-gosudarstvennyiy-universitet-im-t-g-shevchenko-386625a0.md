@@ -1,0 +1,117 @@
+---
+id: 1982-6-vyishenskiy-perestyuk-samoylenko-kievskiy-gosudarstvennyiy-universitet-im-t-g-shevchenko-386625a0
+issue: kvant_1982_6
+year: 1982
+number: "6"
+title: 基辅国立大学由此得名。舍甫琴科
+authors:
+  - Вышенский В. А.
+  - Перестюк Н. А.
+  - Самойленко А. М.
+rubric: ekzamenatsionnye-materialy
+page_first: 43
+page_last: 43
+page_labels: "41"
+tag: F1B8
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 4b079167406826c6655f039a5c080793446759149a3c02e0eb6063b3b3836a65
+prompt_sha256: draft-1
+translated_from: content/ru/1982/06/articles/12_vyishenskiy-perestyuk-samoylenko-kievskiy-gosudarstvennyiy-universitet-im-t-g-shevchenko-386625a0.md
+source_content_sha256: 388745c97ea8bf7a98e083c34c7b6f8fa4740aa509a6e4c553a6deabd0f80b48
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 41⟧
+
+基辅国立大学由此得名。舍甫琴科
+
+数学
+笔试
+选项1
+（力学与数学学院）
+
+1. 在半径为 $r$、距中心距离 $\frac{r}{8}$ 的圆上绘制一条弦。在较小的形成的线段中，放置两个具有相同半径的圆，使它们彼此接触，并且每个圆都接触给定的圆和绘制的弦。确定这两个圆的半径。
+
+2. $SABC$是三角形对，$P$是边$AB$的中点，$Q$是面$SBC$中线的交点。将向量$\vec{PQ}$分解为向量$\vec{a} = \vec{SA}$、$\vec{b} = \vec{SB}$、$\vec{c} = \vec{SC}$。
+
+3. 解方程
+$$4 \sin^2 \left( \frac{\pi}{4} - \frac{x}{2} \right) \cos^2 \left( \frac{\pi}{4} - \frac{x}{2} \right) + 2 \sin^2 \frac{x}{2} - \cos x \Bigg]^{\frac{1}{2}} = 3 \cos x.$$
+
+4. 区间 [1; 中参数 $c$ 的值是多少？ 4]由直线$y=0$和$y=|x-c|$ - $\frac{c^2-c+1}{c^2-3c+3}$围成的图形面积将最大？这个区域什么时候会达到顶峰？这两个面积等于多少？
+
+选项2
+（物理和放射物理学院）
+
+1. 半径为$R$的球内接于直圆锥。圆锥体侧面与球接触的圆的半径为$\frac{3}{5} R$。求圆锥的侧面积。
+
+2. 解方程
+$$\log_3-x \frac{1}{|x|} > 1.$$
+
+3. 求解方程组
+$$\begin{cases} \sin^2 x + \sin^2 y = \frac{1}{2} \\ x-y = \frac{4\pi}{3} \end{cases}.$$
+
+4. 在$a$处，抛物线$y=2x^2$和直线$y=a$所围成的图形面积等于$\frac{20\sqrt{2}}{3}$？
+
+选项3
+（经济学院）
+
+1. 对于$k$的什么值，曲线$y=2x^2$和$y=k \cdot \ln x$有一个公共点？
+
+2. 解方程
+$$16 \cdot 9 \log \frac{1}{3} \left( \sin^2 x - \frac{7}{2} \sin 2x + \frac{7}{2} \right) = 1.$$
+
+3. 解决不等式
+$$|\log \sqrt{2} x - 2| - |2 - \log_2 x| > 1.$$
+
+4. 等边三角形的一个顶点与正方形的顶点重合，另外两个顶点位于正方形的两条边上。正方形的边长是$\sqrt{2\sqrt{3}+3}$厘米。求三角形的面积。选项4
+（地理系）
+
+1. 底参数是梯形，其边和小底等于$b$，锐角等于$a$。侧肋与基面倾斜角度$φ$。找到体积参数。
+
+2. 解方程
+$$\sin^2 x + \sin^2 2x = \sin^2 3x + \sin^2 4x.$$
+
+3. 解决不等式
+$$\lg(9^{\lg x} + 1) \geqslant \lg \frac{10}{3} + \lg x \cdot \lg 3.$$
+
+4. 计算函数$y = \frac{1}{2} (\sin x + \sqrt{1-\cos^2 x})$在区间[0;上]所包围的图形的面积$\pi$] 和 x 轴。
+
+口语考试目标
+
+1. 选择坐标平面上坐标满足条件的一组点$(x; y)$。
+
+a) $\log_{xy}|x| > 1$;
+
+b) $\log_{|xy|}x^2 < 2$.
+
+2. 让$f(x) = \ln \frac{1-x}{1+x}$。对于哪一个$a$和$b$，等式$f(a) + f(b) = f\left(\frac{a+b}{1+ab}\right)$成立？
+
+3. 计算$x_1^4 + x_2^4$，其中$x_1$和$x_2$是方程$3x^2 - 5x - 1 = 0$的根。
+
+4. 方程 a) $x^4 + x^3 = 10$ 有多少个根？
+
+b) $3|x| \cdot |2 - |x|| = 1$?
+
+b) $x^2 - 2x - \log_2 |1-x| = 3$?
+
+5. 对于 $a$ 方程 a) $x^3 + ax + 2 = 0$;
+
+b) $x^2 \cdot e^x = a$;
+
+b) $|\ln x| - ax = 0$;
+
+有三个根？
+
+6. 求解方程a) $3^x + 1 - |3^x - 1| = 2 \log_5 |6-x|$；
+
+b) $|x-1| \cdot |\lg^2 x - \lg x^2| = |x-1|^3$;
+
+b) $2\pi \cdot \cos x = |x| - |x-\pi|$.
+
+7. 解不等式a) $\sqrt{25-x^2} \leqslant \frac{12}{x}$;
+
+b) $\log \frac{1+x^2}{2|x|} (5-x^2) \geqslant 0$.

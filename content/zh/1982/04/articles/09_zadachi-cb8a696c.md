@@ -1,0 +1,37 @@
+---
+id: 1982-4-zadachi-cb8a696c
+issue: kvant_1982_4
+year: 1982
+number: "4"
+title: 任务
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 37
+page_last: 37
+page_labels: "35"
+tag: BCDD
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 289dfbef9fc47837289f9dc82330436f57a2f4c915fe80a12e54e0931f1fa6cc
+prompt_sha256: draft-1
+translated_from: content/ru/1982/04/articles/09_zadachi-cb8a696c.md
+source_content_sha256: 38b62aa06bbe32234754ad0300ec6e5e1482c4a6791cf3e43a2875d25e7bc168
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 35⟧
+
+任务
+
+1. 英国数学普及者伯纳德将这种鱼、球、锥体和棒的结构（参见图）称为“Equilabrum”，结合了“Equilibrism”和“Candlebra”这两个词。必须向“自由杆”施加多少质量（图上的符号？）才能使“平衡”达到平衡？如果知道棒子的质量是 10 克，求每个图形的质量。
+
+2. 一群游客希望在尽可能短的时间内从 A 村到达 B 村（参见图；每条路旁边都标明了完成该路段所需的时间）。游客应该走哪条路线？
+
+3. 从上红角的塔基开始，你需要走10步到下红角（参见图；一步是穿过一个通道，里面有一个数字），这样所覆盖区域的数字总和是60。如何做到这一点？
+
+4. 找到一条从 A 到 B 的路径，穿过 12x12 正方形中的圆和正方形（参见 图），使其由四个 ■ ■ ■ 组成（按此顺序）。
+
+这些问题借用自雷曼（Z. Lehman）的著作《Kurzweil durch Mathe》（柏林，1980）。

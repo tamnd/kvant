@@ -1,0 +1,89 @@
+---
+id: 1982-2-filonovich-chernetsov-moskovskiy-gosudarstvennyiy-pedagogicheskiy-institut-im-v-i-lenina-3af8e1dc
+issue: kvant_1982_2
+year: 1982
+number: "2"
+title: 莫斯科国立师范学院以此命名。 V·I·列宁娜
+authors:
+  - Филонович С. Р.
+  - Чернецов М. М.
+rubric: ekzamenatsionnye-materialy
+page_first: 46
+page_last: 46
+page_labels: "44"
+tag: VKPE
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: b74779650c2ead49f60bfaa27395ffb828356fc95d1e392e62c532faeab43cd5
+prompt_sha256: draft-1
+translated_from: content/ru/1982/02/articles/15_filonovich-chernetsov-moskovskiy-gosudarstvennyiy-pedagogicheskiy-institut-im-v-i-lenina-3af8e1dc.md
+source_content_sha256: 1941991304b1e4ee379c715a852d3355bfbdc4e6208bdb4c3da7ed7148593d57
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 44⟧
+
+介电能力$\varepsilon = 2$的电工。求这些电容器电场中存储的能量以及填充电介质后施加到电池的电压。
+
+7. 将三个功率为$P_1 = 50$W、$P_2 = 25$W和$P_3 = 50$W的灯泡，额定电压为110V，按图3所示连接，并连接到电压为220V的网络。确定每个灯泡释放的功率。
+
+8. 面积为 $S = 20$ cm²、具有 $n = 1000$ 匝数的框架，在均匀磁场中以 $f = 50$ Hz 的频率缠绕，磁感应强度为 $B = 0,1$ T，绕位于框架平面内且垂直于磁感应线的轴缠绕。框架中感应的最大电动势是多少？
+
+9. 点光源 $S$ (图 4) 位于其主光轴上集线右侧距离 $a = 3/2F$ 处（$F$ 为镜头焦距）。在透镜左侧距离$d = 7/4F$处有一个平面镜，透镜的主光轴垂直于其平面。确定真实图像和最小源图像之间的距离$x$。
+
+10. 根据图 5所示的方案测量光电流水肿电压（即光电流形成为零时的电压）对所研究材料照射的光波长的依赖性。在研究铯时，得到以下结果：当用波长为$\lambda_1 = 0,4$μm的光照射时，水肿电压为$U_1 = 1,19$V，$\lambda_2 = 0,5$ µm - $U_2 = 0,57$ B. 根据实验结果确定铯光电效应的红限和普朗克常数的值。电子电荷$e = 4,8 \cdot 10^{-10}$单位。 SGSE 收费。
+
+该出版物由 G. Efashkin、V. Tonyan 编写
+
+莫斯科国立师范学院以此命名。 V·I·列宁娜
+
+数学
+
+笔试
+
+选项1
+
+1. 计算由函数图形包围的图形的面积
+
+$y = \frac{1}{9}x^2$ 和 $y = -\frac{1}{3}x + 2$。
+
+2. 解方程
+
+$tg^2\left(\frac{7}{2}\pi-x\right) - 8\sin^2(x-9\pi) = 1$.
+
+3. $ABCDA_1B_1C_1D_1$——平行六面体。 $A(2; -1; 1), B(1; 3; 4), D(6; 0; 1), A_1(2; 0; 0)$。求对角线 $AC_1$ 的长度。
+
+4. 参数$SABC$的底是等边三角形$ABC$。侧面$SAB$垂直于底座，另外两个与底座倾斜$\alpha$角度。求底面与侧边之间的角度 $SC$。
+
+5. 一支拖拉机队必须犁耕 240 公顷，而另一队则比第一队大 35%。每天比第二队少耕3克，第一队仍比第二队早2天完成工作。每个旅每天耕犁多少赫克勒？
+
+选项2
+
+1. 探索该功能
+
+$y = \frac{1}{3}x^3 - x$
+
+并绘制它。
+
+2. 解决不等式
+
+$2x^2 - 20x \leq \frac{1}{2}$.
+
+3. 解方程
+
+$\sin 4x = \cos^4 x - \sin^4 x$.
+
+4. 证明顶点为$A(6; -4; 2), B(3; 2; 3), C(3; -5; -1)$的三角形是直角三角形。
+
+5. 圆锥体的高度与形状形成角度 $\alpha$。通过圆锥体的顶部绘制一个平面，与底面的平面成 $\beta$ 角。如果圆锥体的高度为 $h$，求其横截面积。
+
+物理
+
+口语考试目标
+
+1. 垂直向上扔出的石头在 $t = 2$ 秒后被压实。确定石子在 $t' = 1$ 秒和 $t = 2$ 秒内的路径和运动。石头沿着整个路径的平均速度是多少？
+
+2. 一个球绑在一根$l = 30$厘米长的线上，在垂直平面内均匀旋转。当球经过下部位置时，螺纹转动，经过 $t = 1$ c 后，球落到距旋转轴 $d = 9,3$ 米（水平）的地面上。球在绳子上的旋转速度是多少？
