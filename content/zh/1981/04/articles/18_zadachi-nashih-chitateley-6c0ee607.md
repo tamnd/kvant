@@ -1,0 +1,62 @@
+---
+id: 1981-4-zadachi-nashih-chitateley-6c0ee607
+issue: kvant_1981_4
+year: 1981
+number: "4"
+title: 读者的任务
+rubric: smes
+page_first: 59
+page_last: 59
+page_labels: "57"
+tag: GQ3C
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 0bd52da09997212505cd3832ecc3fbb328d7a82971eac081bdf53cea66d6f298
+prompt_sha256: draft-1
+translated_from: content/ru/1981/04/articles/18_zadachi-nashih-chitateley-6c0ee607.md
+source_content_sha256: c0f903f5ef29b4e280e1d5436f6c2b41c355def51e6484764a11509d7741e4dc
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 57⟧
+
+集会期间大厅里有表演。
+
+创新者和设计师。以下是它的主要特点：
+
+年轻的技术工人在学习之余，在俱乐部工作（96%），大多充满激情（85%）；此外，他们经常在家独立制作工艺品（51%）。更喜欢与技术对象一起工作（98%），将技术圈的学习与未来职业的选择联系起来（90%）。他具有依赖性强的品质：他可以心无旁骛地完成无趣但必要的工作（84%），比起简单的工作更喜欢困难的工作（75%），不惜一切代价尝试自己完成工作（50%），或者在极端情况下向经理寻求建议（43%）。
+
+根据首先工作地点在技术俱乐部和体育方面花费的时间，然后学习，然后阅读艺术
+
+文学（主要是奇幻和冒险），社会工作以及参观剧院和音乐会排在最后。
+
+年轻的技术学生在学校学习没有任何特殊困难（80%）；最喜欢的科目是物理和数学（86%），但即使在这些科目中也很少有学生学习高级材料（15%）。
+
+善于交际，有很多朋友（80%）；他在朋友中最看重的是纯洁和诚实（100%）、幽默和乐观（99%）、独立判断（98%）和对工作的热情（94%）。
+
+我们邀请读者«Kvant»尝试自己回答这些问题，研究他们的“权威”并勾画出一个自我完善的计划。
+
+V·奥尔洛夫
+摄影：A.卡齐米罗夫
+
+任务
+我们的读者
+
+1. 数字 X、SHEET 和 SPOONS 是某个数字的平方、立方和四次方。 ICS 等于什么？
+
+2. 数字 OSA、BAKU 和 SUROC 是某个数字的平方、立方和四次方。找到这个号码。
+
+3. 关于“物理学家”和“作词家”的由来已久的争论可以通过以下等式来结束：
+
+$$\text{ЛИРИК} = \frac{1}{2} \cdot \text{ФИЗИКА}$$
+
+解密它。
+
+根据“作词者”的说法，这个画谜可以“翻个底朝天”：
+
+$$\text{ФИЗИК} = \frac{1}{2} \cdot \text{ЛИРИКА}$$
+
+V·拉敦斯基
