@@ -1,0 +1,57 @@
+---
+id: 1977-3-zadachi-nashih-chitateley-4c2936b7
+issue: kvant_1977_3
+year: 1977
+number: "3"
+title: 读者的任务
+rubric: smes
+page_first: 29
+page_last: 29
+page_labels: "27"
+tag: E6EL
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 1770a8061213c79951c9d5ef69ef1a09338ef4b2e567e804b0e57aab306557cb
+prompt_sha256: draft-1
+translated_from: content/ru/1977/03/articles/10_zadachi-nashih-chitateley-4c2936b7.md
+source_content_sha256: 63e85780429145951530a13a6d82c5f3519db678c7477975622ba13e04f73f5f
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 27⟧
+
+装饰品。在 图 9 上描绘了三个不同类型的线性装饰品 - 具有不同的对称组（解释其差异是什么）。
+
+问题 2. 列出所有可能的线性装饰类型（并证明没有其他可能的类型！）。
+
+我们报告答案：不同线性晶族的数量是 7。
+
+B) 列出淤泥镶木地板的规则。
+
+镶木地板是将平面分割成多边形，其中每两个多边形要么不相交，要么只有一个公共顶点，要么有公共边，所有多边形的边的并集是一种平面装饰。如果分区的所有多边形都是规则的（可能具有不同的边数），并且拼花地板的任何顶点都可以通过将整个拼花地板映射到其自身的某种平移来转移到任何其他顶点，则拼花地板被称为规则的。 图10 中描绘的分区 A) 和 B) 根本不是上面定义的意义上的镶木地板；分区 C) 和 D) 是镶木地板，但不是常规镶木地板，最后，分区 D) 和 E) 是常规镶木地板（请解释）。
+
+问题 3. 找到所有可能的规则镶木地板。
+
+这个问题在«Kvant»中已经形成：A. N. Kolmogorov 的文章“Parquets from Regular Polygons”（«Kvant»，1970，No. 3）。本文概述了列出所有正确镶木地板的可能方法。我们报告答案：不同且相似的常规镶木地板的数量为 11。
+
+文学
+
+G. S. M. Coxter，*几何导论*，第 3、4 和 15 章（M.，“Nauka”，1966）。
+
+G. Weil，*对称性*，第三讲（M.，“科学”，1968）。
+
+D. Gilbert 和 S. Kohn-Fosen，*背部几何*，第二章（M. - 列宁格勒，GTTI，1951）。
+
+读者的任务
+
+证明锐角三角形ABC的各元素之间的关系如下：
+
+$$\frac{|C_0A_0| \cdot |A_0B_0|}{h_a^2} + \frac{|A_0B_0| \cdot |B_0C_0|}{h_b^2} + \frac{|B_0C_0| \cdot |A_0C_0|}{h_c^2} = 1,$$
+
+其中$A_0, B_0$和$C_0$分别是顶点$A, B, C$省略的高度的底； $h_a, h_b, h_c$是相应高度的长度。
+
+乌阿赖耶
+（沃鲁，爱沙尼亚苏维埃社会主义共和国）

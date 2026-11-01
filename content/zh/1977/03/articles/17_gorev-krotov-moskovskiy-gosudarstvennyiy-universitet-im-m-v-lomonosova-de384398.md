@@ -1,0 +1,95 @@
+---
+id: 1977-3-gorev-krotov-moskovskiy-gosudarstvennyiy-universitet-im-m-v-lomonosova-de384398
+issue: kvant_1977_3
+year: 1977
+number: "3"
+title: 莫斯科国立大学以它的名字命名。 M·V·罗蒙诺索娃
+authors:
+  - Горев И.
+  - Кротов С. С.
+rubric: raznoe
+rubric_sub: Разное
+page_first: 55
+page_last: 55
+page_labels: "53"
+tag: 5V5E
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 88576bc652df0b5ef7a844cf8258011fc2214e439b30192d5fbd23f9ca6f3070
+prompt_sha256: draft-1
+translated_from: content/ru/1977/03/articles/17_gorev-krotov-moskovskiy-gosudarstvennyiy-universitet-im-m-v-lomonosova-de384398.md
+source_content_sha256: 86e12b9bd47c1579814609ba3f5372dca7517ee48bb81630b63f262497ca8884
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 53⟧
+
+莫斯科国立大学
+他们。 M·V·罗蒙诺索娃
+
+以下是 1976 年莫斯科国立大学某些院系申请者的数学笔试入学考试选项示例和物理口试问题示例。
+
+数学
+
+经济学院政治经济学系
+
+1. 伐木工团队开始在针叶林中布置工作流程 8 天后，第二支团队也加入其中，共同完成了剩余的工作。如果该旅被分配角色，那么清理工作将缩短两天。如果已知第一个团队可以比第二个团队快 4 天完成总工作的 10%，那么团队需要合作多少天？
+
+2. 解方程
+
+$$5 \text{tg} x = 2 \sqrt{3} \sin \frac{x}{2}.$$
+
+3. 在三角形ABC中，画出角ABC的平分线BD。求三角形 BDC 内切圆的半径，如果
+
+$$|AB| = 42, |BC| = 30, \cos \widehat{BAC} = \frac{5}{7}.$$
+
+4. 求解方程组
+
+$$\begin{cases} (x^2 - 1)^{2/2} (\text{tg} y + 3)^3 = 32, \\ 2 \log_{(\text{tg} y + 3)} (x^2 - 1) - \log_{(\text{tg} y + 3)} 2 = 5. \end{cases}$$
+
+5. 解方程
+
+$$\frac{7}{2} x^2 - \frac{7x}{\sqrt{3} - x} - 22x + 3 |2 - 7x| + \frac{|2 - 7x|}{\sqrt{3} - x} = \frac{1}{2} x |2 - 7x| - \frac{2}{\sqrt{3} - x} - 6.$$
+
+经济学院计划与经济控制论系
+
+1. 解决不平等问题
+
+$$[\lg(x + 1)]^4 - 4 [\lg(x + 1)]^2 + 3 \leq 0.$$
+
+2. 找到方程组的所有解
+
+$$\begin{cases} \text{ctg}^2(x - y) - (1 + \sqrt{3}) \text{ctg}(x - y) + \sqrt{3} = 0, \\ \cos y = \frac{\sqrt{3}}{2}, \end{cases}$$
+
+满足条件 0 < x < π, 0 ≤ y ≤ 2π。
+
+3. 在三角形 ABC 中，AB 边上的点 M 通过线段 MC 连接到顶点 C。众所周知|AM| = 1, |MB| = 3，$\widehat{ACM} = 30^\circ$，$\widehat{MCB} = 60^\circ$。求三角形 ABC 的周长。
+
+4. 三角形对 KABC 的底 ABC 是直角三角形 ($\widehat{ACB} = 90^\circ$)。边KC垂直于底ABC，其长度为$\frac{4}{3} \sqrt{3}$；人脸AKB的面积为5。
+
+在这种条件下ABC最可能的根据地面积是多少？
+
+心理学学院
+
+1. 火车先上坡1小时，下坡10小时，行程840公里。如果爬升长度为10公里，那么两个小时就可以爬完153公里。求火车上坡和下坡时的速度，如果已知上坡速度大于火车上坡速度的110%。
+
+2. 在三角形 ABC 中，绘制中线 AD 和 CE。众所周知|AD| = 5，$\widehat{AC} = \frac{\pi}{8}$，$\widehat{ECA} = \frac{\pi}{4}$。确定三角形ABC的面积。
+
+3. 解方程
+
+$$5 \cdot x^{\log_{15}x} - 3 \cdot 5^{\log_{15}x^2} = 0.$$
+
+证明该方程的所有根都是有理数。
+
+4. 找到方程的所有根
+
+$$\text{tg} x + \sqrt{\text{tg}^2 x + 4 \text{ctg}^2 x + 4} = 4.$$
+
+5. 在方程 $x^2y - x^2 + 2xy - x + 2y = 1$ 的所有解 (x, y) 中，找到 y 取最大值的解。
+
+金融学院结构与应用线性系
+
+1. 该自动线在600台作业中，生产了3批次自动乘用车轮胎和11批次自动卡车轮胎。如果这条自动线只生产自动卡车轮胎，并且只生产批次，那么生产一批自动客车轮胎需要多少工序，那么这条自动线至少需要2727道工序。

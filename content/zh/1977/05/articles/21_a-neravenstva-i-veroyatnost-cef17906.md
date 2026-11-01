@@ -1,0 +1,46 @@
+---
+id: 1977-5-a-neravenstva-i-veroyatnost-cef17906
+issue: kvant_1977_5
+year: 1977
+number: "5"
+title: 不等式和...概率
+authors:
+  - А. Р.
+rubric: smes
+page_first: 58
+page_last: 58
+page_labels: "56"
+tag: 5QQI
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 1ac48fc0434bf576b11ad30cc025b3b996e4d82e19e822351e85aaceae8db6b1
+prompt_sha256: draft-1
+translated_from: content/ru/1977/05/articles/21_a-neravenstva-i-veroyatnost-cef17906.md
+source_content_sha256: 71b3f6a82f94e0ef986688f019bd2ef32ea974c4ba62d6bfa5292d8f43f2dfe8
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 56⟧
+
+不等式和...概率
+
+在一次国际奥运会上向苏联队的生成队提出了如下问题：如果$p + q = 1$，$0 < p < 1$，$m$，$n$是大于1的自然数，我们可以
+
+$(1 - p^m) + (1 - q^n) > 1$.
+
+这个问题很难用代数方法来研究。但事实证明，使用概率论可以简单而完美地解决这个问题。
+
+设一个表有$n$行和$m$列；每个单元格中要么放置 0，要么放置 1，放置 0 的概率为 $p$（则放置 1 的概率为 $q$）。显然，$1 - p^m$是某个固定行中至少有一个1的概率，$(1 - p^m)^n$是每一行中至少有一个1的概率：同样，$(1 - q^n)^m$是每一列中至少包含一个0的概率。然而，其中一个事件肯定会发生（如果有一行 0 和一列 1，那么它们的交点是什么？）。因此，这些事件的概率总和不小于 1（检查对于 $m > 1$、$n > 1$，该总和必须大于 1）。
+
+好吧，如果你不知道什么是概率怎么办？事实证明，很容易将这个解决方案翻译成计算学语言。为此，我们需要考虑 $p = r/s$ 是有理数的情况。对于表格的每个单元格，我们将从 $r$ 零和 $s$ 零中获取数字，并组成表格的所有可能填充。概率被替换为表号，短语“其中一个事件肯定会发生”被替换为“这两组表的并集是所有集合”。考虑如何摆脱 $p$ 是有理数的假设。
+
+现在也解决泛化问题。
+
+1. 令 $0 < p_{ij} < 1$ ($1 \leq i \leq m$, $1 \leq j \leq n$) 和 $q_{ij} = 1 - p_{ij}$。然后$(1 - p_{11} \dots p_{1m}) \cdot (1 - p_{21} \dots p_{2m}) \cdot \dots \cdot (1 - p_{n1} \dots p_{nm}) + (1 - q_{11} \dots q_{n1}) \cdot (1 - q_{12} \dots q_{n2}) \times \dots \cdot (1 - q_{1m} \dots q_{nm}) \geq 1$，其中$m \geq 1$，$n \geq 1$。
+
+2. 令 $0 < p_{i} < 1$ ($i = 1, 2, \dots, k$), $p_1 + \dots + p_k = 1$, $m_i$ 为自然数。然后$(1 - (p_2 + \dots + p_k)^{m_2} \dots m_k)^{m_1} + \dots + (1 - (p_1 + \dots + p_k - 1)^{m_1} \dots m_k - 1)^{m_2} \geq 1$（“多维”概括）。
+
+A.R.

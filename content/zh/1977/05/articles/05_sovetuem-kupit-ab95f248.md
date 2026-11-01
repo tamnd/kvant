@@ -1,0 +1,51 @@
+---
+id: 1977-5-sovetuem-kupit-ab95f248
+issue: kvant_1977_5
+year: 1977
+number: "5"
+title: 我们建议您购买！
+rubric: smes
+page_first: 11
+page_last: 11
+page_labels: "9"
+tag: RVDQ
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 555bcd68a0f433e5255e8fc933dbbf8b31218feceddf92bfe23caf9d222f7870
+prompt_sha256: draft-1
+translated_from: content/ru/1977/05/articles/05_sovetuem-kupit-ab95f248.md
+source_content_sha256: c022d5959454bc8f11f3fd6f187e3f243053d1419e04e3b58271628d7e73907c
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 9⟧
+
+与面积的情况一样，存在唯一性定理成立。
+
+在不讨论其他方法的情况下，让我们考虑使用积分和卡瓦列里体积原理来计算体积。
+
+给定空间坐标系，取某个图形$F$，其在横坐标轴上的投影由某个线段$[a, b]$表示。 $S(x)$表示由垂直于横坐标轴并经过线段$[a, b]$的点$x$的平面从$F$切出的图形的面积。接下来，用 $V(x)$ 表示图形中$F$ 部分的体积，该部分位于绘制平面 (图 15) 的左侧。那么等式$V'(x) = S(x)$为真，即$V$是函数$S$的反导数。这种相等性的证明与面积的情况相同。
+
+当然，为了让证明通过，必须做出一些假设。图形$F$必须是立方体，其截面必须是正方形。
+
+图 15.
+
+图 16.
+
+公认。此外，还必须对体边界$F$的特性做出一些假设（其推理类似于图10中所示的推理）。例如，在X年级教科书中，当$F$是特殊类型的旋转图形时，等式$V'(x) = S(x)$是有效且合理的。我们不止于此。从等式 $V'(x) = S(x)$ 可以看出，对于图形 $F$ 的体积，该公式是有效的
+
+$$V(F) = \int_a^b S(x) dx.$$
+
+最后，根据该公式，遵循物体的卡瓦列里原理：如果任何平行于固定平面的平面与空间图形$F$和$H$沿着具有相同面积（图16）的图形相交，则图形$F$和$H$相等：$V(F) = V(H)$。 M. Mamikon 在本期发表的注释中给出了将卡瓦列里原理应用于体积计算的一个优雅示例。
+
+我们建议您购买！
+
+Vilenkin N.Ya。流行的组合学。 C.35 k。
+维戈斯基·M·雅。初等数学手册。 C.35 k。
+科什金 N.I.基础物理手册。 TS。 97 k。
+Polya D. 数学发现。 TS。 1 河。 62 k。
+
+将订单发送至地址：103031，Moscow，Petrovka，15。8号商店“技术书”。

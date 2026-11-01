@@ -1,0 +1,39 @@
+---
+id: 1977-2-zadachi-05b6a52c
+issue: kvant_1977_2
+year: 1977
+number: "2"
+title: 任务
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 40
+page_last: 40
+page_labels: "38"
+tag: O9VP
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 468f9126d3c59c2394b363b0c40868bdc5eb474334e3a8a3750b7331f3328ded
+prompt_sha256: draft-1
+translated_from: content/ru/1977/02/articles/14_zadachi-05b6a52c.md
+source_content_sha256: ddd5049655e43c4d07107ca4f0840481d336ce317164cabc822e6a04f27566f2
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 38⟧
+
+任务
+
+1. a) 两个偏心轮在正方形的无限张纸上构建一条折线，从两侧依次添加一条长度为 1 的边，并且禁止同一条线段经过两次。无法出手的怪人就输了。证明第一个怪人不能输，第二个怪人也不能输。
+
+6) 两个怪人继续玩耍。现在他们轮流拒绝排球网 $n \times n$ 格，每次切一个缺口。将网劈成两半的怪人就输了。谁赢了？
+
+2. 有些数字除以 1976 年和 1977 年余数为 76。这个数字除以 39 余数是多少？
+
+3. 半人马棋子像骑士一样移动，但不能向上移动两个方格，向右移动一个方格，或者向下移动两个方格，向右移动一个方格。半人马能绕整个棋盘一周，只击中每个方格一次，然后回到原来的方格吗？
+
+4. 在方格条纹$1 \times 1977$的最左侧区域有三个按钮。 Sasha 和 Lucy 玩以下游戏：他们每个人都可以将任何按钮（但只能移动一次）向右移动到任意数量的字段。无处可去的人就输了。证明露西首发就能确保自己的胜利。
+
+5. 左侧边长1公里有一个方形路段。森林由直径50厘米的树木组成。坦尼娅发现，从一侧到另一侧，不可能以任何直线穿过这片森林。证明森林里至少有两千棵树。
