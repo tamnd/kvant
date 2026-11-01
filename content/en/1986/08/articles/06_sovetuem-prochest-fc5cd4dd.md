@@ -1,0 +1,62 @@
+---
+id: 1986-8-sovetuem-prochest-fc5cd4dd
+issue: kvant_1986_8
+year: 1986
+number: "8"
+title: We recommend reading
+rubric: smes
+page_first: 9
+page_last: 9
+page_labels: "7"
+tag: IYW9
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: e1b451c67f16b030f9bb648a9b746bcf70ebb6f82d93d2647e17fe017ce0dd96
+prompt_sha256: draft-1
+translated_from: content/ru/1986/08/articles/06_sovetuem-prochest-fc5cd4dd.md
+source_content_sha256: aa7bcc01d782075f9f94ef4b264beae69f82044292297261bc81ebb6b39e97ec
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 7⟧
+
+Fig. 4.
+
+After elematrine transformations we finally obtain
+
+$$\frac{x_0 x}{a^2} + \frac{y_0 y}{b^2} = 1$$
+
+- we see that the tangent equation is kind of related to the ellipse equation.
+
+A reader who knows the work could have foreseen all this: after all, we were considering an ellipse - a second-order curve, and the product of the equation of such a curve - linear functions.
+
+Although equation (3) was derived under the condition $0 < |x_0| < a$, but also in the case of $x_0 = 0$ and $|x_0| = a$ the straight line given by equation (3) will be tangent to the ellipse - make sure of this.
+
+In conclusion, we note that the equation for the tangent to an ellipse can be found using the fact that the ellipse is obtained by compression from a circle. Point $(x_0; y_0)$ of ellipse (1) is obtained by rolling with a coefficient $t = \frac{b}{a}$ to the abscissa axis from point $(x_0; t^{-1} y_0)$ of circle $x^2 + y^2 = a^2$. The tangent to the circle at point $(x_0; t^{-1} y_0)$ is redistributed by the radius going to this point. The radius slope is $\frac{t^{-1} y_0}{x_0}$; This means that the angular coefficient of the tangent to the circle is $-\left(\frac{t^{-1} y_0}{x_0}\right)^{-1} = -\frac{tx_0}{y_0}$. When rolling to the abscissa axis with a coefficient of $t$, the tangent to the circle turns into a tangent to the ellipse, and its angular coefficient decreases by $t$ times, that is, it becomes equal
+
+$$-\frac{t^2 x_0}{y_0} = -\frac{b^2 x_0}{a^2 y_0}.$$
+
+However, this reasoning uses a very particular geometric property of the ellipse - its relationship with a circle. The reader can verify the generality of Descartes' method by making it more simple: using this method, find the equation of the tangent to the parabola $y^2 = 2px$ (at point $(x_0; y_0)$).
+
+Parquets made of regular polygons
+
+(For the beginning, see p. 3)
+
+Our first task is to find all solutions to equation (1) with integers $m_i > 0$. Equation (1), reducing by $2d$, can be conveniently written in the form
+
+$$\sum m_i \left(1 - \frac{2}{i}\right) = 2.$$
+
+For each solution to equation (2), it is necessary to examine the corresponding arrangements of the polygons applied to the vertex. For example, solution $m_3 = 1, m_4 = 2; m_6 = 1,$
+
+$$\left(1 - \frac{2}{3}\right) + 2 \left(1 - \frac{2}{4}\right) + \left(1 - \frac{2}{6}\right) = 2,$$
+
+corresponds to vertices containing one triangle, two squares and one hexagon. They can be easily arranged in two significantly different ways (Fig. 5, a and b). But it is easy to show (prove) that the location $\sigma$ does not correspond to the lower regular parquet.
+
+The indicated given is sufficient. Get to work!
+
+Recommends reading
+
+In the series “Viblotechka «Kvant»” of the publishing house “Nauka” the book “Stories about Physics and Physics” (issue 53) is being prepared for publication. This book contains articles written in different years for the readers of our magazine by Academician I.K. Kikoin, the first editor-in-chief of «Kvant». We are confident that getting acquainted with “Stories...” will be useful and interesting for today’s schoolchildren.

@@ -1,0 +1,46 @@
+---
+id: 1986-11-chivilev-kinematika-vraschatelnogo-dvizheniya-4b5b1b23
+issue: kvant_1986_11
+year: 1986
+number: "11"
+title: Kinematics of rotational motion
+authors:
+  - Чивилёв В. И.
+rubric: shkola-v-kvante
+page_first: 19
+page_last: 19
+page_labels: "17"
+tag: ASO3
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 0461c45f7c22a5abead9b60b07e181b6dc8412089ff693e943d09ecd987ab7ed
+prompt_sha256: draft-1
+translated_from: content/ru/1986/11/articles/06_chivilev-kinematika-vraschatelnogo-dvizheniya-4b5b1b23.md
+source_content_sha256: 0d872e37a8682577bb82adb4fe478eacdfef57e0cd47c317af87cfc33131f190
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 17⟧
+
+Physics 8, 9, 10
+
+The note “Kinematika of Rotational Motion” published below is intended for the eighth-classic, “The Tell Pump” for the ninth-classic, and “Nomograms in Geometric Optics” for the ninth-classic.
+
+Kinematika of rotational movement
+
+Having slowly passed the intersection, the trolleybus began to move along the street, gradually increasing its speed...
+
+The movement of a trolleybus wheel is just one of many examples of complex mechanical movement in the world around us. It turns out that any complex movement can be represented as the sum of two simple movements - translational and rotational. This should be understood this way: it is always possible to select such a translational moving reporting system, in relation to which the movement looks only like a rotation around a fixed axis.
+
+In our case, what kind of reporting system should we choose so that the trolleybus wheel makes a clean movement in it? What physical quantities describe this movement, how are these quantities related to each other and how does it depend on time? Such questions can arise not only at a pedestrian crossing, but also during a lesson, an exam, or when solving a specific problem.
+
+The first question is easy to answer; we agreed that the progressive moving reporting system can be connected to the trolleybus itself (its body). Before answering the rest of the questions, then, in our example, the wheel rotates unevenly - the speed model of any point on the wheel changes over time.
+
+Let us consider a certain point $M$ of a wheel located at a distance $r$ from the axis of rotation and having at some instant of time a speed $\vec{v}$ and an acceleration $\vec{a}$ (Fig. 1). From physical messages, it is reasonable to imagine acceleration $\vec{a}$ as the sum of two components: one of them $\vec{a}_\pi$ is directed radially to the center of the circle - centripetal acceleration, the second $\vec{a}_\kappa$ is directed tangentially to the circle - tangential acceleration. Both of these accelerations have a certain physical meaning - tangential acceleration characterizes the speed of change in the velocity pattern, and centripetal acceleration characterizes the speed of change in the direction of speed. It can be shown that the model of centripetal acceleration is $a_\pi = v^2/r$ (“Physics 8”, § 16), and the model of tangential acceleration is $a_\kappa = \Delta v/\Delta t$, where $\Delta v$ is the change in the model $v$ of the speed of a point on the slide angularly small $\Delta t$.
+
+Linear and angular quantities. As already mentioned, we need to maintain such physical quantities that would characterize the uneven rotation of the wheel (in the reporting system associated with the trolleybus). Let's try to do this by analogy with rectilinear uneven movements.
+
+Let's follow the point $M$ of the wheel for a short period of time $\Delta t$. During this time, the point will travel along a circular arc along the path $s$ and will have a speed $v$ and a tangential acceleration $a_\kappa$ (Fig. 2). When the values ​​$s, v$ and $a_\kappa$, called linear quantities, characterize the movements of the point $M$, but cannot serve to describe the rotation

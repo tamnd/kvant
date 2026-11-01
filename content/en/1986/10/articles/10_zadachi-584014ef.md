@@ -1,0 +1,39 @@
+---
+id: 1986-10-zadachi-584014ef
+issue: kvant_1986_10
+year: 1986
+number: "10"
+title: Tasks
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 25
+page_last: 25
+page_labels: "23"
+tag: 4G6S
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: ba5401ddfbaef439c6117316563ba7fe420de2152f61f456f10496dcdc015f6e
+prompt_sha256: draft-1
+translated_from: content/ru/1986/10/articles/10_zadachi-584014ef.md
+source_content_sha256: 54acb26f442bcaa828d36de37ead76ae5bcc32a7eed8de29c57a1d12fcb43f8f
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 23⟧
+
+Quests
+
+1. How can you draw a broken BDEFG (see figure) in triangle ABC so that all five resulting triangles have the same area?
+
+2. The product of a billion natural numbers is equal to a billion. What is the maximum value that the sum of all these numbers can take?
+
+3. Is it possible to add four more digits to the right of the number 9999 so that the resulting eight-digit number becomes the square of an integer?
+
+4. Two identical kettles with water of the same temperature were placed on identical heat sources. After some time, the water in both kettles began to boil (see figure). In which kettle did the water boil faster?
+
+5. Winnie the Pooh and Piglet went to visit each other at the same time. But since Winnie the Pooh was just making up another “noisemaker” all the way, and Piglet was counting the flying jackdaws, they did not notice each other when they met. After the meeting, Piglet arrived at Winnie the Pooh's house four minutes later, and Winnie the Pooh approached Piglet's house after one minute. How many minutes was each of them on the way?
+
+These tasks were suggested to us by A. P. Savin, G. A. Galperin, L. D. Kurlyandchik, V. D. Vyon, S. R. Sefibekov.
