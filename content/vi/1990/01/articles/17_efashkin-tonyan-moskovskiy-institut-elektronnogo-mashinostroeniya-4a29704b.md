@@ -1,0 +1,91 @@
+---
+id: 1990-1-efashkin-tonyan-moskovskiy-institut-elektronnogo-mashinostroeniya-4a29704b
+issue: kvant_1990_1
+year: 1990
+number: "1"
+title: Viện Kỹ thuật Điện tử Moscow
+authors:
+  - Ефашкин Г. В.
+  - Тонян В. А.
+rubric: ekzamenatsionnye-materialy
+rubric_sub: Экзаменационные материалы
+page_first: 71
+page_last: 72
+page_labels: 69-70
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 49c94c25b763733155a454cb8a28e8528680ec853978d39ead1830a2101e4cdb
+prompt_sha256: draft-1
+translated_from: content/ru/1990/01/articles/17_efashkin-tonyan-moskovskiy-institut-elektronnogo-mashinostroeniya-4a29704b.md
+source_content_sha256: dd363b0a302eb7db631f0a1940fbfc3e2835a6907982e35f40c077983b88b140
+translation_model: draft
+translation_run: vi-draft-gaps-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 69⟧
+
+Viện Kỹ thuật Điện tử Moscow
+
+Toán học
+Bài thi viết
+Tùy chọn 1
+1. Vẽ đồ thị hàm số
+$$y = \frac{(3x+1)|x-1|+3x^2-2x-1}{|x|+2x+1}.$$
+2. Giải phương trình
+$$\sqrt{1-\sqrt{3}} \sin x + \sqrt{10} \cos x=0.$$
+3. Trong hình lập phương $ABCDA'B'C'D'$ có cạnh $a$, điểm $M$ là trung điểm của cạnh $BC$, điểm $N$ là trung điểm của cạnh $C'D'$, điểm $P$ là trung điểm của cạnh $AA'$. Tìm chu vi của tam giác $MNP$. Phần nào trong hai phần mà khối lập phương được chia cho mặt phẳng $MNP$ có thể tích lớn hơn?
+4. Nếu với việc mở rộng khu đất trung tâm của trang trại tập thể, số lượng nhà một chữ số tăng lên
+
+⟦folio 70⟧
+
+---
+running_head:
+folio:
+---
+
+tăng 28 lần và số nhà hai tầng tăng 10 lần thì tổng số nhà sẽ lớn hơn 84. Nếu số nhà một chữ số tăng 14 lần và số nhà hai tầng tăng 20 lần thì tổng số nhà sẽ nhỏ hơn 90. Khu trung tâm có bao nhiêu ngôi nhà một chữ số, nếu số nhà một chữ số ít hơn nhà hai tầng?
+
+5. Giải phương trình
+$$\sqrt{a^2 - x^2} + x - 1 = 0.$$
+Tùy chọn 2
+1. Với $a = 2$ giải hệ
+$$\begin{cases} x - y = a + 1, \\ 2xy + 2y = -a^2 - 4. \end{cases}$$
+Hệ thống này có lời giải cho các giá trị khác $a$ không?
+2. Giải $x$ phương trình
+$$\frac{a - 3 \sin x}{a \cos x - 3} = \frac{a - 3 \cos x}{a \sin x - 3}$$
+và xác định số nghiệm của nó bằng [40π; 49π].
+
+3. Thế nào là paramida chính xác? Chứng minh rằng trong một tam giác đều các góc nhị diện ở các cạnh bên bằng nhau.
+
+4. Để đặt trình biên dịch tạp chí, chỉ cần mua 13 kệ tiêu chuẩn là đủ. Tuy nhiên, có những kệ giảm giá có ít hơn 7 tạp chí so với kệ tiêu chuẩn nên tôi phải mua 27 kệ và kết quả là vẫn còn chỗ trống cho 3 tạp chí. Có bao nhiêu tạp chí trong bộ?
+
+5. Cho sự bất bình đẳng
+$$\sqrt{1 - (x + 2a)^2} \geq \frac{4}{3} x.$$
+Đối với $a = 0$, hãy giải quyết nó và đảm bảo rằng tập hợp lời giải của nó là một phân đoạn. Với những giá trị nào của $a$ thì tập lời giải của bất đẳng thức này là một đoạn có độ dài $\frac{9}{5}$?
+
+Vật lý
+Bài thi vấn đáp
+1. Ở hai đầu sợi dây, được ném qua một khối đứng yên, hai quả nặng có trọng lượng $m = 300$ g mỗi quả được treo. Phải đặt thêm trọng lượng nào lên một trong các quả nặng để mỗi quả nặng chuyển động trong thời gian $t = 0,5$ s dọc theo một đường đi $l = 50$ cm? Liệu thời gian cần thiết để di chuyển con đường này có thay đổi nếu đặt thêm một vật nặng lên một vật nặng khác không? Tìm áp suất lên trục khối. Khối lượng của khối và sợi chỉ được coi là $g = 10$ m/s$^2$.
+
+2. Một vật có khối lượng $m = 5$ kg rơi từ một độ cao nhất định, có vận tốc ban đầu bằng $v_0 = 2$ m/s và hướng thẳng đứng xuống dưới. Tính công thực hiện chống lại lực cản trong $t = 10$ s, nếu biết rằng vào cuối khoảng thời gian này vật có vận tốc $v = 50$ m/s. Xét lực cản không đổi.
+
+3. Bóng cao su được bơm căng trên bờ đến áp suất bình thường ($p_0 = 10^5$ Pa). Hỏi phải hạ thùng nước xuống độ sâu bao nhiêu để thể tích của nó giảm đi một nửa? Nhiệt độ không khí trên bờ $t_1 = 27$ °C, nhiệt độ nước $t_2 = 4$ °C, mật độ nước $\rho = 10^3$ kg/m$^3$. Xác định khối lượng không khí trong buồng nếu thể tích ban đầu của nó là $V_1 = 2$ l, khối lượng mol của không khí là $M = 29 \cdot 10^{-3}$ kg/mol, hằng số khí phổ quát là $R = 8,31$ J/(mol K).
+
+4. Trong một bình hình trụ đặt dưới một piston chuyển động nhẹ có $m = 3$ kg nước ở $t_0 = 20$ °C. Khi đun nước, lượng nhiệt tỏa ra là $Q = 1017$ kJ. Cái này tạo ra bao nhiêu hơi nước? Piston sẽ tăng cao bao nhiêu? Áp suất khí quyển $p_0 = 10^5$ Pa, diện tích mặt cắt ngang của piston $S = 3$ dm$^2$, nhiệt dung riêng của nước $c = 4,19$ kJ/(kg K), nhiệt dung riêng của sự hóa hơi $r = 2,26 \cdot 10^6$ J/kg, khối lượng mol của nước $M = 18 \cdot 10^{-3}$ kg/mol, hằng số khí phổ quát $R = 8,31$ J/(mol K). Bỏ qua sự phân bố nhiệt của nước.
+
+5. Một tấm parafin lấp đầy toàn bộ khoảng trống giữa các bản của tụ điện tấm phẳng. Điện dung của parafin $\varepsilon = 2,0$. Điện dung của tụ điện có parafin là $C = 4,0$ mKF, điện tích của nó là $q = 0,2$ mKL. Phải thực hiện bao nhiêu công để tháo tấm ra khỏi tụ điện?
+
+6. Hai bóng đèn giống hệt nhau có công suất $P_1 = 50$ W, mỗi bóng đèn có điện áp định mức $U = 10$ V, được mắc song song và nối với một cục pin có điện trở trong $r = 0,5$ Ohm. Tuy nhiên, một trong những bóng đèn bị cháy và nó được thay thế bằng một bóng đèn khác, được thiết kế cho cùng điện áp, nhưng có công suất $P_2 = 25$ W. Hiệu suất của pin thay đổi bao nhiêu lần?
+
+7. Các đường dây điện của nhà máy điện đồng nhất và từ trường được phân phối lại cho nhau. Trường nhà máy điện tích điện $E = 1$ kV/m, cảm ứng từ trường $B = 1$ mT. Hướng và mô hình tốc độ của electron phải như thế nào để chuyển động của nó trong các trường này là thẳng?
+
+8. Thấu kính cho độ phóng đại $\Gamma = 3,0$ đối với một vật nằm cách nó $d = 40$ cm. Tìm công thức khoảng cách của thấu kính. Hiển thị đường đi của tia.
+
+9. Ánh sáng đơn sắc có bước sóng $\lambda = 4,13 \cdot 10^{-7}$ m chiếu vào một tấm kim loại. Dòng quang điện tử do ánh sáng này phát ra từ bề mặt kim loại làm trì hoãn hoàn toàn sự chênh lệch điện thế $U = 1$ V. Xác định công năng của các electron trong kim loại và bước sóng của ánh sáng tương ứng với ranh giới màu đỏ của hiệu ứng quang điện. Hằng số Planck $h = 6,62 \cdot 10^{-34}$ J s, điện tích $e = 1,6 \cdot 10^{-19}$ C, khối lượng electron $m = 9 \cdot 10^{-31}$ kg, tốc độ ánh sáng $c = 3 \times 10^8$ m/s. Liệu hiệu ứng quang điện có được quan sát thấy nếu bước sóng của ánh sáng tới là $\lambda_1 = 7 \cdot 10^{-7}$ m?
+
+10. Kết quả của phản ứng nhiệt hạch là năng lượng $^2\text{H} + ^3\text{H} \rightarrow ^2\text{He} + ^1\text{n}$ được giải phóng. Phần nào của năng lượng giải phóng được neutron mang đi? Động năng của hạt nhân hoạt động và tritium không thể kết hợp được. Chúng ta hãy phân biệt giữa khối lượng neutron và proton.
+
+Đã chuẩn bị xuất bản
+G. Efashkin, V. Tonyan

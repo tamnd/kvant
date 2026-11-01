@@ -1,0 +1,60 @@
+---
+id: 1990-3-zhurnal-chitatel-zhurnal-78c553d3
+issue: kvant_1990_3
+year: 1990
+number: "3"
+title: Tạp chí - độc giả - tạp chí
+rubric: raznoe
+page_first: 74
+page_last: 74
+page_labels: "72"
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: b6980c327526a8730281615ea82f67bf64e128af62b7f1ee2c57831743d57ceb
+prompt_sha256: draft-1
+translated_from: content/ru/1990/03/articles/19_zhurnal-chitatel-zhurnal-78c553d3.md
+source_content_sha256: e6a6e5b54ea094484f1f2df30499c249f1fde946da738d8f59fa1731d1878bfa
+translation_model: draft
+translation_run: vi-draft-gaps-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 72⟧
+
+---
+running_head:
+folio:
+---
+
+Trước hết, chúng tôi muốn gửi lời cảm ơn chân thành đến tất cả những độc giả đã gửi đáp số câu hỏi khảo sát của chúng tôi. Tất nhiên, chúng tôi có một bộ sưu tập biên tập và hội đồng biên tập lớn hơn và rất mang tính đại diện, bao gồm những người có liên quan đến khoa học và trường học lớn, với học sinh và giáo viên. Nhưng chúng tôi không thể làm gì nếu không có phản hồi, nếu không có phản hồi trực tiếp của người đọc và hiểu biết về mối quan tâm hiện tại của họ.
+Các câu hỏi về nội dung gì?
+Phần lớn độc giả của chúng tôi là mười tác phẩm kinh điển (theo cách “đánh số” mới). Đúng vậy, sau này chúng tôi biết rằng những độc giả sau đại học không phản hồi tích cực với câu hỏi của chúng tôi (rất có thể là do bận rộn). Nếu vậy thì thật đáng tiếc - chúng tôi thực sự muốn biết chúng tôi có thể cung cấp trợ giúp nào khác cho những người đăng ký trong tương lai. Đồng thời, chúng tôi nhận được khá nhiều phản hồi từ học sinh lớp 5-7, có thư của học sinh lớp 4 và thậm chí của... học sinh lớp một Alyosha Romanov đến từ Yaroslavl).
+Tất nhiên, đằng sau mỗi câu hỏi đều có một con người riêng biệt, có những sở thích, quan điểm, đánh giá riêng. Nhưng tổng số phản hồi tạo ra một phân tích khá khách quan về tạp chí và đối với chúng tôi, dường như đó là một hình ảnh khá khách quan về độc giả của chúng tôi. Vậy độc giả thích và không thích điều gì ở «Kvant»? Theo ông, điều gì cần thay đổi, cần bổ sung những gì mới?
+Phạm vi quan tâm của độc giả bao gồm tất cả các chủ đề mà chúng tôi coi là của chúng tôi: vật lý, toán học, thiên văn học, du hành vũ trụ, khoa học máy tính. Trong số các tiêu đề, “Trường học ở «Kvant»” có nhu cầu rộng rãi nhất, sau đó là “Bài toán lượng tử” và “Kính vạn hoa”, sau đó là “Các lựa chọn cho kỳ thi tuyển sinh” và “Vòng tròn toán học”, v.v.
+Trong số các bài báo đăng trên tạp chí năm 1989, bài thú vị nhất là:
+“Bong bóng trong vũng nước” (tác giả A. Mitrofanov, số 6),
+“XX năm sau. Luôn bên K. P. Feoktistov” (số 7),
+“Linh mục có một con chó…” (S. Tabachnikov, số 6),
+“Từ số 0 đến decallion” (N. Vilenkin, số 3),
+“Một con thoi, hai con thoi…” (V. Nikolaev, số 4),
+“Hình học hình sự, hay vấn đề nguyên tắc” (D. Fomin, số 8),
+“Những con số may mắn” (R. Feynman, số 7),
+“Người da đỏ ném tomahawk như thế nào?” (V. Davydov, số 11).
+Những trang bìa đẹp nhất năm qua là những trang bìa số 9, 1 và 6 được độc giả bình chọn nhiều nhất. Đã có rất nhiều phản hồi tích cực đối với trang thứ 2 của trang bìa số 2 (bản sao lại bức tranh “The Solar Table” của S. Dali) và số 6（《Harlequin》 của V. Vasarely).
+Chúng tôi hơi bối rối khi gặp phải những đánh giá tiêu cực khá gay gắt trong thư về các bức vẽ trên tạp chí. Nhiều người viết rằng chúng “trang trọng, trừu tượng”. Tất nhiên, chúng tôi không coi thiết kế của tạp chí là lý tưởng và nhìn chung đây phần lớn là vấn đề sở thích. Nhưng có một điều, các tác giả, nghệ sĩ và biên tập viên, như một quy luật, đều đồng ý: hình minh họa cho các bài viết (được gọi là trang giật gân) mang tải ngữ nghĩa, có thể nói là sự phản ánh nghệ thuật về ý nghĩa.
+
+Từ những lá thư của độc giả
+
+Các bài học ngay cả trong lớp vật lý và toán học chuyên ngành cũng quá đơn giản để bạn có thể sử dụng bài viết của mình. (Lớp 10, làng Krasnochensk, huyện Dalnegorsk, vùng Primorsky)
+
+Tôi tin rằng tạp chí này rất cần thiết đối với học sinh cũng như giáo viên của các em. Nhờ tạp chí này, có một lần anh đã tốt nghiệp bộ phim Krasnoy ZFTSH tại MIPT và vào Mex-mat. Đại học Samarkand. (người đăng ký từ năm 1972, nhà toán học-lập trình viên, giáo viên, Samarkand).
+
+...tất cả những điều này là dành cho sinh viên đã tốt nghiệp, không phải dành cho học sinh...
+Chín trường hợp trong số mười năm, tất cả mọi thứ ngoại trừ vartans đều bị loại bỏ. (giáo viên, Mátxcơva)
+
+Những câu hỏi chọn lọc về toán tiểu học, vật lý và cách ứng dụng các câu hỏi vào bài toán đã biến tạp chí trở thành một bộ bách khoa toàn thư về công việc nâng cao của các giáo viên ở bất kỳ nơi nào trên Tổ quốc. (giáo viên toán, vật lý và mỹ thuật, làng Yakokut, vùng Adana, Cộng hòa xã hội chủ nghĩa Xô viết tự trị Yakut)
+
+Không xuất bản một bài báo về thông tin... Không xuất bản tiểu thuyết. (lớp 9, Tula)
+
+Quan thân mến! Hãy viết những câu chuyện khoa học viễn tưởng phổ biến, tốt nhất là về những cuộc phiêu lưu ngoài không gian. (Lớp 7, Derbent, Cộng hòa xã hội chủ nghĩa Xô viết tự trị Dagestan)

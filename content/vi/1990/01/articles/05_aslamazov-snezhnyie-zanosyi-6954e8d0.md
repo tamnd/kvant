@@ -1,0 +1,50 @@
+---
+id: 1990-1-aslamazov-snezhnyie-zanosyi-6954e8d0
+issue: kvant_1990_1
+year: 1990
+number: "1"
+title: Tuyết trôi
+authors:
+  - Асламазов Л. Г.
+rubric: osnovnye-stati
+page_first: 17
+page_last: 17
+page_labels: "15"
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 6942557ba6d54629a0e8b72bf67fff2bb1c3967c3570ba5297a5682cf940f72b
+prompt_sha256: draft-1
+translated_from: content/ru/1990/01/articles/05_aslamazov-snezhnyie-zanosyi-6954e8d0.md
+source_content_sha256: 1fedd3d993672f02aa2004c2fede3c78eea39532292d1c69594074e0bfee9658
+translation_model: draft
+translation_run: vi-draft-gaps-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 15⟧
+
+---
+running_head:
+folio:
+---
+
+Bác sĩ
+khoa học vật lý và toán học
+L. ASLAMAZOV
+
+Những đoạn đường sắt hoặc đường cao tốc đi qua các vùng trũng được bao phủ bởi tuyết, ngay cả khi không có tuyết rơi. Tại sao điều này lại xảy ra? Thoạt nhìn, đáp số rất rõ ràng: tuyết bị gió cuốn đi. Tuy nhiên, để hiểu chi tiết cơ chế của quá trình này, cần phải có cả một nghiên cứu.
+
+Năm 1936, nhà vật lý người Anh Bangold đã nghiên cứu sự vận chuyển cát bằng gió trong một ống khí động học.
+
+Hóa ra nếu tốc độ gió nhỏ hơn một tốc độ nhất định $v_1$ thì cát không chuyển động. Khi tốc độ gió lớn hơn $v_1$, không nhỏ hơn một số tốc độ khác $v_2$, cát cũng có thể đứng yên. Nhưng nếu cùng lúc đó không có người thượng cổ trong khối cát bất động, thì một số người thượng cổ khác cũng sẽ bị thổi bay bởi cú đánh của nó. Những người cát này bị gió cuốn đi, rơi xuống, khiến những người cát khác chuyển động và kết quả là cát bị cuốn theo gió. Ở tốc độ gió lớn hơn $v_2$, cát bay lên, tạo thành luồng không khí cát có mật độ khá cao nhưng giảm dần đi lên. hình 1 đưa ra ý tưởng về quỹ đạo của những người thượng cổ.
+
+Bây giờ chúng ta có thể giải thích tại sao có tuyết trong gió
+
+Vâng điều này được notch. Tại thời điểm sâu hơn, dòng chảy mở rộng (điều này ngay lập tức được nhìn thấy từ hình ảnh của dòng điện tuyến tính ở hình 2), và do đó tốc độ của nó giảm xuống. Kết quả là, sự cân bằng giữa các hạt được đưa lên trên và các hạt rơi xuống bị phá vỡ: nhiều hạt rơi vào vùng trũng hơn là bay lên từ đó và vùng trũng dần dần bị tuyết lấp đầy.
+
+Các quá trình tương tự xảy ra khi tuyết bị gió cuốn đi gặp một số chướng ngại vật trên đường đi, chẳng hạn như cây cối. Phía trước thân cây, phía có gió thổi, xảy ra một chuyển động đi lên của không khí. Nó dẫn đến sự hình thành một vết lõm sâu ở phía đón gió của thân cây và ở hai bên bề mặt tuyết. Trước
+
+Hình 1.
+
+Hình 2.
