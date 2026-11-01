@@ -1,0 +1,62 @@
+---
+id: 1984-5-gladkov-panov-moskovskoe-vyisshee-tehnicheskoe-uchilische-imeni-n-e-baumana-5a70204f
+issue: kvant_1984_5
+year: 1984
+number: "5"
+title: 以 N.E. 鲍曼命名的莫斯科高等技术学校
+authors:
+  - Гладков Н. А.
+  - Панов В. Ф.
+rubric: ekzamenatsionnye-materialy
+rubric_sub: Экзаменационные материалы
+page_first: 58
+page_last: 58
+page_labels: "56"
+tag: 6O3R
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: bf4daacad95cb6fea16182b83f6d7e162ae4eb31a173b3700589941361abec9d
+prompt_sha256: draft-1
+translated_from: content/ru/1984/05/articles/22_gladkov-panov-moskovskoe-vyisshee-tehnicheskoe-uchilische-imeni-n-e-baumana-5a70204f.md
+source_content_sha256: 943fe970e53c23b907f6da88b093314fac9ca471bb013db355bca05a6f5d32f3
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 56⟧
+
+以 N.E. 鲍曼命名的莫斯科高等技术学校
+
+数学
+笔试
+选项1
+1. 计算
+$$1 + \frac{\pi}{6} + \frac{\pi}{6} + \dots + \frac{\pi}{6} + \dots$$
+2. 解方程
+$$2 \cos 2x \cdot \cos 5x = \cos 7x + \frac{1}{2}$$
+3. 解方程
+$$25^{-x} + 5^{1-x} = 50$$
+4. 求函数的定义域
+$$f(x) = \sqrt{1 + \log_3 \frac{1}{x}}$$
+5. 给定一个立方体$ABCDA_1B_1C_1D_1$，边为$a$。求通过顶点 $A$ 和 $B_1$ 以及边 $CC_1$ 和 $|CK| = |KM| = |MC_1|$ 上的点 $K$ 和 $M$ 的球体半径。
+选项2
+1. 数字 108 表示为两个正数的乘积，因此其中一个正数的立方与另一个正数的平方之和最小。
+2. 解方程
+$$\sin 5x - \cos \left(x + \frac{5\pi}{2}\right) = \sin \left(2x - \frac{\pi}{2}\right)$$
+3. 解方程
+$$\frac{4}{2^x - 3} = 2^x$$
+4. 解决不等式
+$$\frac{\log_3(4-x)}{x-2} < 0$$
+5. 在直圆锥的底部有三个半径为 $r$ 的球。它们上面有第四个相同半径的球。这四个球中的每一个都接触圆锥体和其他三个球的侧表面。求圆锥体侧面的面积。
+
+物理
+口试作业
+1. 一股水流从靠近地球表面的梯度（有金属堆积的软管）中以$v_0 = 10$米/秒的速度喷出。梯度缓慢表达；绕垂直轴旋转，同时其与地平线的倾斜角度发生变化。确定使用该梯度可获得的最大面积。空气阻力具有挑战性。重力加速度$g = 10$米/秒²。
+2. 质量为 $M = 10$ kg、圆柱半径为 $R = 0,2$ m 的障碍物位于水平面 (图 1) 上。质量为$m = 1$ kg、初始水平速度为$v_0 = 3$ m/s 的物体沿凹槽的圆柱面上升。确定物体在高度 $R$ 时的速度。我们将对申请人进行培训。重力加速度$g = 10$米/秒²。
+3. 在理想的光滑水平面上，有一个质量为 $M = 1$ kg 的块，附有弹簧，每个弹簧的刚度为 $k = 30$ N/m (图 2)。质量为 $m = 0,5$ kg 的垫圈位于一块块上。杆清洗机系统被驱动进行振荡运动。确定系统作为一个整体移动时的最大振动幅度，即不煅烧块上的垫圈。块体与垫圈之间的摩擦系数为$\mu = 0,4$。重力加速度$g = 10$米/秒²。
+4. 在正常环境空气条件下运行的理想热机（它的冰箱）可提升 $m = 400$ kg 的负载。机器的工作体从温度$t = 200^\circ C$的加热中接收$Q = 80$kJ的热量。该热机将负载提升到最大高度是多少？我们将对申请人进行培训。重力加速度$g = 10$米/秒²。
+5. 将一个由两个相同且带相反电荷的球组成的系统，通过一根$l = 0,1$米长的细绝缘棒连接起来，放置在强度为$E = 10^3$V/m的均匀水平电场中。该系统只能在水平面内围绕穿过杆中部的垂直轴旋转。球的质量和电荷模型为 $m = 5$ g 和 $q = 10^{-6}$ Cl。通过短期冲击，系统脱离稳定平衡状态，并以初始角速度$\omega_0 = 2$s$^{-1}$进行旋转运动。确定该系统的最大旋转角度。杆的重量不同。球被视为物质点。
+6. 具有相同内阻$r = 0,5$欧姆的电流源连接到电阻器，每个电阻器的电阻为$R$（图3）。相应电流源的电动势等于$\varepsilon_1 = 12$V和$\varepsilon_2 = 6$V。确定ABCD电路中电流不流过时的电阻$R$值。
+7. 面积为$S_0 = 10$cm$^2$的平坦封闭金属轮廓在均匀磁场中变形，其感应强度为$B = 10^{-2}$Tl。相对面积随着时间 $\tau = 2$ s 均匀减小（相对平面保持垂直于磁场

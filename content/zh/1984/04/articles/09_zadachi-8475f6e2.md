@@ -1,0 +1,40 @@
+---
+id: 1984-4-zadachi-8475f6e2
+issue: kvant_1984_4
+year: 1984
+number: "4"
+title: 任务
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 31
+page_last: 31
+page_labels: "29"
+tag: O7SB
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 8bfbb147be691720d24e4c4c90904a3b9ff6c0943be8de86c49c8f8979dca74e
+prompt_sha256: draft-1
+translated_from: content/ru/1984/04/articles/09_zadachi-8475f6e2.md
+source_content_sha256: 0eac5d04d6c37ef3e509baabaf79c6f9adfe37fc2cb5725078ed99b74b13914c
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 29⟧
+
+锻炼
+
+1. 上方图所示的系统将以多大的齿轮半径比旋转？那么下一个图的系统呢？
+2. 解决数字难题：
+
+$$\frac{ВАГОН}{+ВАГОН}$$
+
+$$\frac{СОСТАВ}{COSTAB}$$
+
+3. 立方体的每一面都分为 4 个正方形，每个正方形都被三种颜色之一包围：蓝色、黄色或红色，因此具有公共边的正方形被不同的颜色包围。蓝色、红色和黄色的方块一共有多少个？
+4. 让我们考虑一些两位数，例如 13。将该数字乘以 20 并添加到原始数字 - 我们得到数字 273。将所得数字乘以 481 - 我们得到数字 131,313，在这种表示法中，原始数字 13 重复了 3 次。这个惊人的性质适用于任何两位数。为什么？
+5. 电子钟上刻有时间：小时和分钟。每天至少在一个地方刻数字 2 的时间是多少？找出剩余数字对应的时间：0、1、3、4、...、9。
+
+这些任务是由以下人员向我们提供的：P. V. Molodchik、S. N. Oleksnik、V. V. Proizvolov、A. P. Savin、V. P. Chichin。

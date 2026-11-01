@@ -1,0 +1,40 @@
+---
+id: 1984-5-medal-i-konvert-vyipuschennyie-v-svyazi-s-200-letiem-so-dnya-smerti-l-eylera-494fa552
+issue: kvant_1984_5
+year: 1984
+number: "5"
+title: '[为纪念欧拉逝世200周年而颁发的奖章和信封]'
+rubric: smes
+page_first: 68
+page_last: 68
+tag: 878X
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 79c6af2363f041b7fed299d5c55eff7a3b58f0f89790d315899c34b3eff20e57
+prompt_sha256: draft-1
+translated_from: content/ru/1984/05/articles/01_medal-i-konvert-vyipuschennyie-v-svyazi-s-200-letiem-so-dnya-smerti-l-eylera-494fa552.md
+source_content_sha256: f99eb8f4372ff51a4fb7bdde493961ece388bb39dd66bfec190c73b4268da64e
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+1983年9月，全世界庆祝圣彼得堡伟大数学家莱昂纳多·欧拉（Leonardo Euler，1707-1783）逝世200周年。东德科学院专门成立的欧拉委员会定于当天举行了一次有外国数学家参加的科学会议。会议开幕时，发行了一枚由medienschcode瓷器制成的纪念章（见下图），一张印有欧拉肖像和他最重要的公式e—k+f=2之一的邮票，出版了印有他签名传真和浮雕肖像的信封，并组织了专门的邮政报纸。这样的信封是阿丫寄到编辑部的。哈拉米泽（Halamizer）是纪念欧拉的会议的参与者。
+
+学院
+DER
+WISSENSCHAFTEN
+DER DDR
+EULER-KOMITEE
+BERLIN 1983
+
+苏联
+103006 菠萝
+英石。戈尔布科戈 32/1
+登记博物馆
+“量子”
+
+L. Culen

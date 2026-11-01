@@ -1,0 +1,68 @@
+---
+id: 1984-5-belkin-toki-smescheniya-9e80c7e8
+issue: kvant_1984_5
+year: 1984
+number: "5"
+title: 偏置电流
+authors:
+  - Белкин И. К.
+rubric: shkola-v-kvante
+page_first: 36
+page_last: 36
+page_labels: "34"
+tag: WXQN
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 08b3b05ff83bb1908b122114b4ece8253000a80d4d85ff9f93b57ed788b2c18f
+prompt_sha256: draft-1
+translated_from: content/ru/1984/05/articles/12_belkin-toki-smescheniya-9e80c7e8.md
+source_content_sha256: fcab48531fb80bc157be8803c0828267c62b913ee2fee2165857bdfb0f49fe2c
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 34⟧
+
+让我们将这种差异等同于工作$A$：
+
+$$\frac{q v_2 S_2}{2} - \frac{q v_1 S_1}{2} = p_1 v_1 S_1 - p_2 v_2 S_2.$$
+
+由于工作任意截面上的横截面积与速度的乘积相同，因此书面等式可以减少值$S_1 v_1 = S_2 v_2$。结果我们得到
+
+$$p_1 - p_2 = \frac{q v_2^2}{2} - \frac{q v_1^2}{2}.$$
+
+成员的交集在一个方向上指的是部分$S_1$，在另一个方向上指的是部分$S_2$：
+
+$$p_1 + \frac{q v_1^2}{2} = p_2 + \frac{q v_2^2}{2}.$$
+
+这个等式表达了压力和流体速度之间的关系。这就是所谓的伯努利定律。根据该定律，流体流速越大，压力越小，反之亦然。请注意，数量 $\frac{q v^2}{2}$ 是单位体积液体的动能。因此，在工作中的任何地方，单位体积液体的压力和动能之和是相同的。
+
+偏置电流
+
+在“电振动。振荡电路”注释中的“«Kvant»学校”部分（参见«Kvant»，1983年，第11期）中已经说过，磁场出现的原因不仅可以是移动的电荷（toks），还可以是交变电场。麦克斯韦磁场的第二个来源称为位移。位移电流的存在是电动力学的基本定律之一。因此，我们将更详细地考虑这个问题。让我们用一个具体的例子来说明位移电流何时出现及其大小。
+
+![Diagram of magnetic field around a cylinder](image)
+
+想象一下，两个同心导电球体之间的空间充满了导电介质（参见图），两个同心导电球体充满了相同模型的电荷，但符号相反（球形电容器）。然后，在这种介质中，电流沿着半径流动，电容器放电。电容器放电时产生的磁场是如何“排列”的？
+
+在这个问题中，没有优选的方向，也不可能破坏满足对称条件的磁力线系统。这意味着什么？只是球形电容器放电时根本不会产生磁场。为什么电流有流动，但没有磁场？这意味着还有另一个“源”，即产生的磁场，可以补偿电流产生的磁场。
+
+让我们计算距球心$r$处单位横截面积的电流强度，即电流密度。总电流$i$等于电容器电荷的变化率：
+
+$$i = \frac{\Delta Q}{\Delta t}.$$
+
+该电流均匀分布在半径为$r$的球体区域；因此，电流密度
+
+$$j = \frac{i}{S} = \frac{1}{4\pi r^2} \frac{\Delta Q}{\Delta t}.$$
+
+电容器放电时电场如何变化？球形电容器极板之间的场与放置在球体中心的精确电荷 $Q$ 的场相同，因此距横向场中心距离 $r$ 由以下公式确定
+
+$$E = k \frac{Q}{r^2} = \frac{Q}{4\pi \varepsilon_0 r^2}.$$
+
+那么方向性的变化率等于
+
+$$\frac{\Delta E}{\Delta t} = \frac{1}{4\pi \varepsilon_0 r^2} \frac{\Delta Q}{\Delta t}.$$
+
+我们来比较一下公式（1）和（2）。可以看出，电流密度和电场变化率成正比。如果我们假设交变电场就像普通电流一样产生磁场，那么我们可以通过磁场的相互补偿来解释电容器中不存在磁场。我们先来介绍一下密度的概念

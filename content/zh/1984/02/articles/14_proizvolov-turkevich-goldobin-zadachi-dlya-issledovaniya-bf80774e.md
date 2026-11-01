@@ -1,0 +1,60 @@
+---
+id: 1984-2-proizvolov-turkevich-goldobin-zadachi-dlya-issledovaniya-bf80774e
+issue: kvant_1984_2
+year: 1984
+number: "2"
+title: 研究目标
+authors:
+  - Произволов В. В.
+  - Туркевич Э. И.
+  - Голдобин С. А.
+rubric: smes
+page_first: 53
+page_last: 53
+page_labels: "51"
+tag: PDCN
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 44eba50d69341553b51faba5d4d3f1b8b0fa3807fb12aac86a9da13a7b13b01b
+prompt_sha256: draft-1
+translated_from: content/ru/1984/02/articles/14_proizvolov-turkevich-goldobin-zadachi-dlya-issledovaniya-bf80774e.md
+source_content_sha256: 65deab9c7ee317b80785ab1c71be5d769c5b9354e590cd70b897177023182061
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 51⟧
+
+F846。为什么大功率直流电机要通过启动变阻器启动？
+
+电机正常工作时，其绕组中的电流等于
+
+$$I = \frac{U - \mathcal{E}_n}{r_n},$$
+
+其中$U$为网络方向，$\mathcal{E}_n$为电机电枢在磁场中旋转时产生的感应电动势，$r_n$为电枢绕组的电阻，较小。如果发动机直接接入网络，不加启动变阻器，那么在发动机启动的瞬间，当电枢静止不动且$\mathcal{E}_n = 0$时，绕组$I_n = U/r_n$中的启动电流将远远超过正常工作电流。为了减小$I_n$的值，防止绕组过热，在电枢电路中引入启动变阻器，然后输出。
+
+A·V·库比什金
+
+这些复杂的表面是由 Yu 发明的。 V. Kotov，是“电影”（参见第 16 页的“电影分类”一文）。确定他们每个人属于哪个类。
+
+锻炼
+为了
+研究
+
+1. 有几种权重。众所周知，如果去掉其中任何一个，剩下的就可以分成质量相等的两组。
+证明权重的数量是奇数如果
+
+a) 重物的质量 - 整数；
+b) 重量的质量——任何实数。
+b) 能够组成满足问题条件的集合的具有不同整数质量的最小权重是多少？
+r) 这样的一组中可以包含多少个重量？
+B.V.普罗伊兹沃洛夫，
+E·I·图尔克维奇
+
+2. 我们知道任何整数的平方除以 3 的余数为 0 或 1，除以 5 的余数为 0、1 或 4。
+a) 找到所有正整数$k$，使得任意整数的平方除以$k$所得的余数也是平方。
+b) 尝试找到$k$，使得任何整数的平方除以$k$ 的余数也是立方。
+
+S·A·戈登宾

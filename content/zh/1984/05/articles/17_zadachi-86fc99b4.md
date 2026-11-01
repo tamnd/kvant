@@ -1,0 +1,41 @@
+---
+id: 1984-5-zadachi-86fc99b4
+issue: kvant_1984_5
+year: 1984
+number: "5"
+title: 任务
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 42
+page_last: 42
+page_labels: "40"
+tag: JUSN
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 6ff9f6714c199835e5f14b57004df173229bd4625981b3cdf08571b069a1900d
+prompt_sha256: draft-1
+translated_from: content/ru/1984/05/articles/17_zadachi-86fc99b4.md
+source_content_sha256: 230f5818fe5fe22b19ba795a4c239f9b23f54a8a4760552dc17e7e0921125367
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 40⟧
+
+任务
+
+1. 在 图 的等式中，移动一根火柴，使其变为真。尝试寻找三种不同的方法。
+
+2. 一位聪明的卖家收到了几包待售的信封，每包 100 个信封。他在 10 秒内送出了 10 个信封。他读完 60 个信封需要多少秒？ 90个信封怎么样？
+
+3. 在正方形的方格中，排列数字 1、2、3、4、5、6、7、8、9，使得在水平线上获得十进制数的这五个数字将成为整数的正方形。
+
+4. 矩形被剪下来后，就形成了图所示的图形。画一条直线，将该图形的面积分成两等份。
+
+5. 在冬天，您可以看到自动机器是如何打滑的：位于滑道上的一个驱动轮快速旋转，而另一个位于道路较崎岖的地方则停止转动。如果车轮始终以相同的速度旋转，汽车就不会以这种方式打滑。那么为什么自动变速器的驱动轮要以不同速度旋转的方式连接呢？
+
+向我们提供了这些任务：
+S. V. Dvoryaninov，Sasha Korshkov（五年级学生），
+V.V.普罗兹沃洛夫、A.P.萨文
