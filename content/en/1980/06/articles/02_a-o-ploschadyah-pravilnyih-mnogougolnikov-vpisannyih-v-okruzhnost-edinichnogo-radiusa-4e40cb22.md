@@ -1,0 +1,29 @@
+---
+id: 1980-6-a-o-ploschadyah-pravilnyih-mnogougolnikov-vpisannyih-v-okruzhnost-edinichnogo-radiusa-4e40cb22
+issue: kvant_1980_6
+year: 1980
+number: "6"
+title: '[On the areas of regular polygons inscribed in a circle of unit radius]'
+authors:
+  - А. П.
+rubric: smes
+page_first: 68
+page_last: 68
+tag: Y9B4
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 2bcff656d21cd7b5831ce8928dd9a237cc36dc53cecce1c2ddda7d179720ffa9
+prompt_sha256: draft-1
+translated_from: content/ru/1980/06/articles/02_a-o-ploschadyah-pravilnyih-mnogougolnikov-vpisannyih-v-okruzhnost-edinichnogo-radiusa-4e40cb22.md
+source_content_sha256: ab91b6c00cad1e25e20f5af27229514ea9a739a2371ba3a2ae237f7cdb07b82a
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+What do you think: how many regular polygons inscribed in a circle of unit radius have an area whose magnitude is expressed by a rational number? It turns out that all for b are a square and a dodecagon; their areas are equal to two and three, respectively. A very beautiful proof that the area of ​​a regular dodecagon inscribed in a unit circle is equal to that belongs to the Hungarian mathematician, the active organizer of the Hungarian mathematical Olympiads for schoolchildren, J. Kürszák (1864-1933). The proof follows from the drive figure, where the square on side 2 is so divided into regular triangles and isosceles triangles with angles 15°, 15° and 150° that some of them replace the area of ​​a regular dodecagon, and on the other hand, the same set of triangles replaces three squares of unit area. This proof is also a nice demonstration of the Bolle-Gerwin theorem that any two polygons of equal area can be partitioned into pairwise congruous parts.
+
+A.P.

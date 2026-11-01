@@ -1,0 +1,49 @@
+---
+id: 1980-3-zadachi-786a0a01
+issue: kvant_1980_3
+year: 1980
+number: "3"
+title: Tasks
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 39
+page_last: 39
+page_labels: "37"
+tag: ERT0
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: fdd7e678661fc14a9bdec8f30fba0b96a7256ac8a718c0b07451a76312370ff9
+prompt_sha256: draft-1
+translated_from: content/ru/1980/03/articles/11_zadachi-786a0a01.md
+source_content_sha256: 004a820158fe92fcf7d8837ef11a53ee1081020c29f756698aecf9063fb6ec2b
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 37⟧
+
+Kvasht
+for younger students
+
+Quests
+
+1. Two schoolchildren came to buy their ABC books. One lacked seven kopecks, the other - a penny. They put their money together, but there was still not enough money. How much does a primer cost?
+
+2. Is it possible to place seven white bishops on the black squares of a chessboard (remember: the bishop moves diagonally) so that they are not each other? And eight such elephants?
+
+3. A rectangle is divided by a straight line into two polygons. Then one of them is divided by a straight line into two parts. Then one of the three polygons is again divided into two parts, etc. The operation of cutting polygons is repeated 100 times. After the operation was completed, the calculation showed that the resulting polygons contained a total of 302 vertices (the vertices of each polygon were counted separately). Could this be possible?
+
+4. Calculate 1+2—3—4+5+6—7—8+9+10—11—12+13+14—... ...+301+302.
+
+5. In the squares in the pictures, fill in the empty cells with the letters H, O, P, M, A so that in each line, in each column and in each of the two diagonals of the square, all these letters appear, each one once.
+Is it possible to fill the cells of one square and get the rest of the squares filled automatically?
+
+NOVEL
+NORM
+NORM
+NORM
+NORM
+
+37

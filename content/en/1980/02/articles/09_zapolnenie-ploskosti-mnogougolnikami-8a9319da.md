@@ -1,0 +1,34 @@
+---
+id: 1980-2-zapolnenie-ploskosti-mnogougolnikami-8a9319da
+issue: kvant_1980_2
+year: 1980
+number: "2"
+title: Filling the plane with polygons
+rubric: raznoe
+page_first: 27
+page_last: 27
+page_labels: "25"
+tag: AQKF
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: b8333621207d0097282cce31494dd9eb1586990467132d2eafef9860884d0c6e
+prompt_sha256: draft-1
+translated_from: content/ru/1980/02/articles/09_zapolnenie-ploskosti-mnogougolnikami-8a9319da.md
+source_content_sha256: f471a8de92c6b1018d32986c98b473b8fbc3dcae92b125e4f7e36b7302991569
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 25⟧
+
+FILLING
+PLANES
+POLYGONS.
+
+Look closely at the configuration shown on the first cover: it is made up of a large number of congested pentagons. These pentagons are non-convex; their irregular shape resembles the Latin letter S (see cover). It turns out that the configuration can be continued indefinitely; at the same time, the pentagons continue to unfold in a “double spiral” and fill the entire plane (without gaps or overlaps with each other). This was proven in 1937 by its creator, the German mathematician H. Wordenburr.
+
+The problem of filling the plane of a polygon has been discussed more than once on the pages of our magazine. In part, in «Kvant» 1979, No. 2, p. 9 the classification of parquets was given, in «Kvant» 1972, No. 8, p. 41 — kaleidoscopes. Unlike our configuration, parquets and kaleidoscopes have simple properties of regularity and periodicity. In part, all their vertices are structured identically; they can be folded into themselves with the help of various changes. Our configuration has a set of vertices of different types (adjacent to them are 18, 7, 6 or 5 polygons) and only one non-identical movement (which one?) transfers the figure into itself.
+
+Try to come up with similar crossing planes using identical polygons yourself. If this topic interests you or if you produce red paintings, write to us. We will then return to these issues.

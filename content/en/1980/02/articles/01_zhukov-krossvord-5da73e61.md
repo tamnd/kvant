@@ -1,0 +1,33 @@
+---
+id: 1980-2-zhukov-krossvord-5da73e61
+issue: kvant_1980_2
+year: 1980
+number: "2"
+title: Crossword
+authors:
+  - Жуков А. В.
+rubric: smes
+page_first: 67
+page_last: 67
+tag: D43I
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 420a4f2172e882fd99c4e7f17699cebfccf5bf26a5fcb4c8cb995d208b67a36d
+prompt_sha256: draft-1
+translated_from: content/ru/1980/02/articles/01_zhukov-krossvord-5da73e61.md
+source_content_sha256: 6a9ef704f8f35a010593a2899f4074a3022c9dabd72c5874f354185ec82eabd4
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+CROSSWORD
+
+Horizontal: 5. Magnetoelectric alternating current generator. 7. French mathematician and mechanic of the 18th–19th centuries. 11. A line segment connecting two vertices of a polygon that do not lie on the same side. 12. Device for measuring distance. 13. One of the main initial concepts of geometry. 14. French physicist and mathematician, one of the founders of electrodynamics. 15. Norwegian mathematician of the 19th century. 16. Trinometric function. 18. The simplest device for fixing the direction of an object. 22. German astronomer who discovered the laws of planetary motion. 24. American mathematician of the 20th century. 27. Diffusion of solvent through a semi-permeable MEMbrane separating solvent and solvent. 29. English theoretical physicist, one of the founders of quantum mechanics. 30. French physicist, in whose honor the unit quantity of electricity in the international system of units is named. 31. The largest or smallest value of a function. 32. Artificial production of a radioactive element of the antinoid family. 33. Mathematical symbol for the action of extracting a root. 34. Determining the location of an object by the reflection of sound from it.
+
+Vertical: 1. French physicist of the 17th century. 2. An expression of the form $a_0x^n + a_1x^{n-1} + \dots + a_{n-1}x + a_n$, where $x$ is a variable. 3. The point of intersection of the altitudes of the triangle. 4. Polish physicist-theorist. 6. Unit of mass. 8. The first letter of the Greek alphabet. 9. One of the programming languages. 10. The place occupied by a number when writing a number. 17. Abbreviated name for programming languages. 19. Chemical element of group VIII of the periodic system of Mendeleev. 20. Branch of mathematics that studies spatial relationships and shapes. 21. A line intersecting a given line at an acute angle. 23. A segment connecting a point on a circle to its center. 24. General name of the particles that form the atoms of the nucleus. 25. Hydraulic mechanism for lifting heavy piece goods. 26. A hypothetical world consisting of anti-processions. 28. A closed surface, all points of which are equally distant from one point. 30. French physicist, one of the founders of thermodynamics.
+
+A. Zhukov

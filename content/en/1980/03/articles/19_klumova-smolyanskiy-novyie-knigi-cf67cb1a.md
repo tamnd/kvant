@@ -1,0 +1,76 @@
+---
+id: 1980-3-klumova-smolyanskiy-novyie-knigi-cf67cb1a
+issue: kvant_1980_3
+year: 1980
+number: "3"
+title: New books
+authors:
+  - Клумова И. Н.
+  - Смолянский М. Л.
+rubric: retsenzii-bibliografiya
+rubric_sub: Рецензии, библиография
+page_first: 59
+page_last: 59
+page_labels: "57"
+tag: D9PX
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 1ad2f4296b60edc1780bf5d7c9ed964c36eb32f5503145c57905d55c19f638eb
+prompt_sha256: draft-1
+translated_from: content/ru/1980/03/articles/19_klumova-smolyanskiy-novyie-knigi-cf67cb1a.md
+source_content_sha256: c71d3e894c596bc0a509e8e1d911d5875fed2ff1e06a833467ec4fff469f7f52
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 57⟧
+
+New books
+
+We continue to publish summaries of books on mathematics and physics that are accessible and interesting to our readers. In this issue we talk about books published in the first quarter of 1980.
+
+Mathematics
+
+Publishing house "Science"
+
+1. Berman G. N. Cyclops. 3rd edition. Volume 6 l., circulation 100,000 copies, price 20 kopecks.
+
+A cyclops is a curve described by a point on a circle that rolls in a straight line without slipping. This book is dedicated to the study of the properties of this remarkable curve and some related curves.
+
+What is so remarkable about Cyclopdas? First of all, its exceptional significance for technology. According to their practical value, cyclopdal curves can be placed next to the ellipse, parabola, and ballistic trajectory.
+
+Secondly, cyclopdal curves were touchstones on which new mathematical ideas were tested, new methods of calculation that arose in the 17th century and were formed by the end of this century into differential and integral calculus. The names associated with the study of Cyclops are familiar to any schoolchild: Galileo, Torriceli, Huygens were involved in it.
+
+The presentation in the book is completely elementary, the distances are close to the reasoning of the great and French mathematicians who studied Cyclops. For example, citing Huygen’s reasoning, which answered the question along which curve a point should be selected so that its flask period does not depend on the amplitude (this curve turns out to be a cyclops), the author writes: “We present Huygen’s reasoning, somewhat simplifying it and expressing it in modern terms. At the same time, our presentation is more accessible, but very lacks in expressiveness - it is only “...from a living picture, the list is pale.”
+
+A bright, talented book by Georgy Nikolaevich Berman, in addition to interesting mathematical and physical facts, contains a lot of source information. Of course, its readers will get comfortable ones.
+
+2. Pontryagin L. S. Mathematical analysis for cyclops. Volume 6 l., circulation 100,000 copies, price 25 kopecks.
+
+This booklet includes material covering all areas of calculus taught in school. It covers arbitrary polynomials, trigonometric functions, exponential and logarithmic functions. An interval is defined as the inverse operation of a differential, as the area under a graph and as the limit of finite sums. Exercises are given at the end of each paragraph. The book focuses not on the rigor of presentation, but on the technique of calculations.
+
+Publishing house "Mir"
+
+3. Loeyd S. Mathematical mosaic. Translation from English. Volume 18 l., circulation 100,000 copies, price 1 rub. 30 k.
+
+The collection of engaging mathematical problems and puzzles is compiled from two books belonging to the class of this genre, the famous American mathematician Sam Loeyd. His puzzles are very popular all over the world. They are also known to fans of mathematics puzzles.
+
+Physics
+
+"Atomizat"
+
+1. Imyanitov I., Tikhii D. Beyond the laws of science. 2nd edition, revised. Volume 10 l., circulation 50,000 copies, price 40 kopecks.
+
+Ball lightning is a rare meteorological phenomenon that always attracts human attention. Why will it arise? What are its properties? How does it interact with the environment?
+
+There are many difficulties in the way of studying this phenomenon, and the most important of them is the lack of reliable scientific information.
+
+Publishing house "Prosveshcheniye"
+
+2. Siegel F. Yu. Starry alphabet. Volume 10 l., circulation 100,000 copies, price 50 kopecks.
+
+The book contains basic information about the Earth and the celestial sphere, about planets, comets and meteors. A description of the simplest astronomical instruments and methods of observation is given.
+
+I. Klumova, M. Smolyansky

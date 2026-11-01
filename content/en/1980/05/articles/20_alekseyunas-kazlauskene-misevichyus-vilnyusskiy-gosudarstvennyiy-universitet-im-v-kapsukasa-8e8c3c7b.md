@@ -1,0 +1,95 @@
+---
+id: 1980-5-alekseyunas-kazlauskene-misevichyus-vilnyusskiy-gosudarstvennyiy-universitet-im-v-kapsukasa-8e8c3c7b
+issue: kvant_1980_5
+year: 1980
+number: "5"
+title: Vilnius State University named after V. Kapsukas
+authors:
+  - Алексеюнас Б.
+  - Казлаускене А.
+  - Мисевичюс Э.
+rubric: ekzamenatsionnye-materialy
+page_first: 57
+page_last: 57
+page_labels: "55"
+tag: UJ0X
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 2a7564d230ceb2e7434c1db7109f095c5a56214bc87071dc8105ad4cd6a0d64a
+prompt_sha256: draft-1
+translated_from: content/ru/1980/05/articles/20_alekseyunas-kazlauskene-misevichyus-vilnyusskiy-gosudarstvennyiy-universitet-im-v-kapsukasa-8e8c3c7b.md
+source_content_sha256: ad3c450b31154d12c394a27d8666d14da32f27da4db19eb32302318d1e9e3256
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 55⟧
+
+Vilnius
+state university
+them. V. Kapsuka
+
+Mathematics
+Written exam
+Option 1
+(mathematics department)
+
+1. The area of ​​triangle $ABC$ is equal to 1. Find the area of ​​triangle $PQR$ if the points $P, Q, R$ belong to the corresponding medians $AK, BL, CN$ and $\frac{|AP|}{|PK|} = 1, \frac{|BQ|}{|QL|} = \frac{1}{2}, \frac{|CR|}{|RN|} = \frac{5}{4}$.
+
+2. Solve inequality
+$$\sqrt{x+3} < \sqrt{x-1} + \sqrt{x-2}.$$
+
+3. Solve the equation
+$$\cos \frac{3x}{2} \cos \frac{x}{2} - 1 = \frac{1+\sqrt{3}}{2} \cos x.$$
+
+4. Find all values ​​of the parameter $a$ for which the inequality
+$$(a-1)x^2 - (a+1)x + (a+1) > 0$$
+satisfied for all real $x$.
+
+Option 2
+(Faculty of Physics)
+
+1. The area of ​​the convex quadrilateral $ABCD$ is equal to 1. Find the area of ​​the hexagon $AKLCMN$ if the points $K, L, M, N$ belong to the corresponding sides $AB, BC, CD, AD$ and $\frac{|AK|}{|KB|} = 2, \frac{|BL|}{|LC|} = \frac{1}{3}, \frac{|CM|}{|MD|} = 1, \frac{|DN|}{|NA|} = \frac{1}{5}$.
+
+2. Solve inequality
+$$\sqrt{4-\sqrt{1-x}} - \sqrt{2-x} > 0.$$
+
+3. Solve the equation
+$$2\sin 3x \cdot \sin x + (3\sqrt{2}-1)\cos 2x = 3.$$
+
+4. Find all values ​​of the parameter $a$ for which the equation
+$$\cos x = \frac{a-1,5}{2-0,5a}$$
+has a solution.
+
+Physics
+Written exam
+Faculty of Medicine
+Option 1
+
+1. Uniform movement in a circle. Linear and angular speeds; connecting between them. Unit of angular velocity. Centripetal acceleration.
+
+2. AC. Alternator. Period and frequency of alternating current. Effective values ​​of voltage and current. Using a diode to rectify alternating current.
+
+3. In a meter there is $m_1 = 0,4$ kg of water at a temperature of $t_1 = 10^\circ\text{C}$. $m_2 = 0,6$ kg of ice is placed in water at a temperature of $t_2 = -40^\circ\text{C}$. What temperature is set in the meter if its thermal capacity is negligible? The specific heat of water is $c_1 = 4,2$ kJ/(kg K), the specific heat of ice is $c_2 = 2,1$ kJ/(kg K), the specific heat of melting of ice is $\lambda = 0,33$ MJ/kg.
+
+4. The distance between the light source located on the optical axis of the lens and the screen is $l = 0,5$ m. The lens gives a clear image of the source in two of its positions, the distance between which is $a = 0,1$ m. What is the focal length of the lens? Show the path of rays.
+
+Option 2
+
+1. The work of moving a charge in an electric field. The concept of potential. Unit of potential. Precise charge field potential (without output). Potential difference. Relationship between potential difference and stress for a uniform field.
+
+2. Dispersion of light. Spectrum. Spectroscope. Infrared and ultraviolet parts of the spectrum. Emission spectra. Absorption spectra. The concept of spectral analysis.
+
+3. A tourist left a point located 2 km east and 1 km north of the intersection and covered a distance of $s=5$ km in $t=1$ hours. A straight line drawn in the eastern direction makes an angle of $\alpha = 135^\circ$ with the direction of movement of the tourist. Determine where the tourist was after an hour of travel.
+
+4. Determine the resistance of underwater wires from a source with a voltage of $U = 120$ V if, during a short circuit, a fuse made of lead wiring with a cross-section of $S = 1$ mm² and a length of $l = 2$ cm melts in $t = 0,03$ s. Initial temperature fuse $t_0 = 27^\circ\text{C}$. Specific heat of lead $c = 0,13 \cdot 10^3$ J/(kg·K), melting point $T = 600$ K, density $D = 11,3 \times 10^3$ kg/m³, specific resistance $\rho = 2,1 \cdot 10^{-7}$ Ohm·m, specific heat of fusion $\lambda = 0,25 \cdot 10^5$ J/kg.
+
+B. Aleksejunas, A. Kazlauske, E. Misevitso
+
+WE RECOMMEND BUYING
+Kitaygorodsky A.I. Physics for everyone. Photons and nuclei. Price 40 k.
+Ruubakh Kh. Z. Mysteries of molecules. Price 50 k.
+Send orders (by postcards) to: 103031, Moscow, Petrovka 15, Shop No. 8
+"Technique".

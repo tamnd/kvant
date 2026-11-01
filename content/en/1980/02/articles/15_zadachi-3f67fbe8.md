@@ -1,0 +1,40 @@
+---
+id: 1980-2-zadachi-3f67fbe8
+issue: kvant_1980_2
+year: 1980
+number: "2"
+title: Tasks
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 45
+page_last: 45
+page_labels: "43"
+tag: WTDJ
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: b84c384e1d07c81ad903010042b3e7cd0ff97ada2c3aaf400c8c91f85f453b11
+prompt_sha256: draft-1
+translated_from: content/ru/1980/02/articles/15_zadachi-3f67fbe8.md
+source_content_sha256: 5f22381ba1ffdcc33c6280cf4f0e3b67b9f6572bd8719769d60593de611b6619
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 43⟧
+
+Exercise
+
+1. a) Two natural numbers differ by 2, and their squares differ by 100. What numbers are these?
+6) The squares of two consecutive natural numbers differ only by rearranging the last two digits. Find these numbers.
+
+2. To number the pages of the book, only 1392 digits were required. How many pages are there in this book?
+
+3. On the street, standing in a circle, 4 girls are talking: Anya, Valya, Galya and Nadya. The girl in the green robe (not Anya or Valya) stands between the girl in the blue robe and Nadya. The girl in the white shawl stands between the girl in the pink shawl and Valya. What dress does each girl wear?
+
+4. If the puzzle you solved before you solved this one was harder than the puzzle you solved after you solved the puzzle you solved before you solved this one, then was the puzzle you solved before you solved this one harder than this one?
+
+5. Cut the parallelogram along a straight line passing through its center so that the resulting two pieces can be folded into a rhombus.
+
+43
