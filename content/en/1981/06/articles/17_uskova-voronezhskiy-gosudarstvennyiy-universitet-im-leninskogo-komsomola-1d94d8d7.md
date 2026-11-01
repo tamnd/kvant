@@ -1,0 +1,90 @@
+---
+id: 1981-6-uskova-voronezhskiy-gosudarstvennyiy-universitet-im-leninskogo-komsomola-1d94d8d7
+issue: kvant_1981_6
+year: 1981
+number: "6"
+title: Voronezh State University named after. Lenin Komsomol
+authors:
+  - Ускова О. Ф.
+rubric: ekzamenatsionnye-materialy
+page_first: 52
+page_last: 52
+page_labels: "50"
+tag: NEG5
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 9bc06dfb583826bfcb96d54ff4649e6d38ff57c578e4135f9a8ed04707f8dadb
+prompt_sha256: draft-1
+translated_from: content/ru/1981/06/articles/17_uskova-voronezhskiy-gosudarstvennyiy-universitet-im-leninskogo-komsomola-1d94d8d7.md
+source_content_sha256: 1b917b994633f8aae8094e7ad50c245d58ef7d9e5731c16f253e1b31d9f671b4
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 50⟧
+
+Voronezh State University named after. Lenin Komsomol
+
+Mathematics
+
+Written exam
+
+Option 1
+(Faculty of Mathematics and Faculty of Applied Mathematics and Mechanics)
+
+1. Find the equation of the tangent to the curve $y = \frac{x+1}{x}$ if it is known that the tangent passes through the point $M(a, b)$. How many solutions are there depending on the choice of point $M(a, b)$? Find these solutions.
+
+2. Each of the two three numbers $lg a, lg b, lg c$ and $lg a - lg2b, lg2b - lg3c, lg3c - lg a$ is an argumentative progression. Can the numbers $a, b, c$ serve as the lengths of the sides of a triangle? If so, what kind of triangle will it be? Find the angles of this triangle, if it exists.
+
+3. Solve the equation
+$$\left(\frac{4}{9}\right)^{\sqrt{x}} = (2,25)^{\sqrt{x}-4}.$$
+
+4. Given a right triangular feature $ABCA_1B_1C_1$, where $ABC$ and $A_1B_1C_1$ are regular triangles on the side $b$, which are the lower and upper bases of this feature, respectively. On the side $[BC]$ the point $K$ is taken so that the angle $KAC = \alpha$, $\alpha < \frac{\pi}{3}$. Given that the surface area of ​​the triangle is $\frac{3}{2}a^2$, find the area of ​​the triangle $AKC_1$.
+
+Option 2
+(Faculty of Physics)
+
+1. From the city $A$ to the city $B$, the distance between the measles is 120 km, the courser set off for the sea. After one hour of this, a second courser left $A$ on a motorized bike, which, having called the first one and passed on an order to him, immediately moved back at the same speed and returned to $A$ at the moment at which the first access $B$. What is the speed of the first courser if the speed of the second is 50 km/h?
+
+2. A point $A$ is given on a circle of radius 10 cm. At what distance from point $A$ should the move $[BC]$ be checked parallel to the tangent at point $A$, so that the area of ​​triangle $ABC$ is most accurate.
+
+3. Solve inequality
+$$\log \frac{1}{3}(3x+4) > \log \frac{1}{3}(x^2+2).$$
+
+4. Prove the same gesture
+$$\frac{1}{2}(\cos t + \sqrt{3}\sin t) = \cos \left(\frac{\pi}{3} - t\right).$$
+
+Option 3
+(Faculty of Geology and Department of Hydrology, Faculty of Geography)
+
+1. In a right triangle $ABC$, where $\widehat{C} = 30^\circ$, the median $[BK]$ is drawn from the vertex of the right angle $B$. Find the area of ​​triangle $BCK$ if the length of leg $[AB]$ is 4 cm.
+
+2. Determine the coefficients of the quadratic equation $x^2 + px + q = 0$ so that its roots are equal to $p$ and $q$.
+
+3. The diagonals of the trapezoid $ABCD$ intersect at the point $O$. Determine the sines and cosines of angles $AOD, DOC, COB$, if the cosine of angle $AOB$ is equal to 7/25.
+
+4. Solve inequality
+$$\frac{2x+3}{\varphi'(x)} > 0,$$
+where $\varphi(x) = \ln(x^2+3x-10)$.
+
+Oral exam assignment
+Faculty of Mathematics and Faculty of Applied Mathematics and Mechanics
+
+1. Simplify an expression
+$$S = \log_2 3 + \log_2 3^3 + \log_2 3^5 + \ldots + \log_2 3^{801}.$$
+
+2. Through what point $A$ on curve $y = -x^2 + 2x$ must the tangent to this curve pass so that the trapezoid formed by the tangent and lines $x=0, y=0, x=1$ has the smallest area?
+
+3. Let $f(x)$ be defined for all $x \neq 0$ and $f(x) + 3f\left(\frac{1}{x}\right) = x^2$. Find $f(2)$.
+
+4. Solve system of equations
+$$\begin{cases} |x+y| = 1, \\ |x|+|y| = 1. \end{cases}$$
+
+5. Solve inequality
+$$\sqrt{1-x} + \sqrt{2x-3} < 5.$$
+
+Faculty of Physics
+
+6. To the graph of the function $y = \ln x^2$, construct a tangent parallel to the line $y = -x$. A perpendicular to another ray is dropped onto it, a perpendicular to $[AB]$ is dropped from its base, etc. Find the length of the resulting infinite broken line.

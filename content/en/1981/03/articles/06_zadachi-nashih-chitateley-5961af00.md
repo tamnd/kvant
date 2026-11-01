@@ -1,0 +1,51 @@
+---
+id: 1981-3-zadachi-nashih-chitateley-5961af00
+issue: kvant_1981_3
+year: 1981
+number: "3"
+title: Tasks for our readers
+rubric: smes
+page_first: 17
+page_last: 17
+page_labels: "15"
+tag: 5TYM
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: b77fb78bf3736ba8f6221e1f017f32337515efc348cb9a68f1b29801bef0ec5a
+prompt_sha256: draft-1
+translated_from: content/ru/1981/03/articles/06_zadachi-nashih-chitateley-5961af00.md
+source_content_sha256: 417073b0a9fa1cd1d834f54bca571c5898d2b05c93caba80ca81d9989dd6f8a9
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 15⟧
+
+While Ziman Nezhota was taking his wallet out of his pocket, he was completely upset by Adams’s remark at the end of this story:
+- By the way, I would like to know how you can prove this without invariants?
+Based on the invariant described in the article by O. Viro, he proves
+Fig. 3. a) 6)
+Let's face it, an amoeba in a jacket can't untangle his fingers.
+Let's mentally draw two closed curves: a blue one - along the jacket around the right arm (sleeve) and a red one, connecting the thumbs and index fingers of the right and left hands inside the amoeba (Fig. 3,a). These two curves form a linkage (Fig. 3, b), isotopic to the one depicted in figure 4,2 on p. 9. If amoeba could separate her hands, then she could take off her jacket. But this is impossible, since the engagement figure 4,2 cannot be disengaged (see Exercise 8 on p. 12).
+O.V.
+
+Tasks
+our readers
+
+1. a) Take the number 16. Between one and six we insert the number 15 - we get the number 1156. In the middle of this number we insert 15 again - we get 111556, etc. Prove that all such numbers (of the form 11...155...56) are squares of integers.
+6) The same about the numbers 4489, 444889, ..., obtained from 49 by inserting 48 into the middle.
+
+2. a) N zeros were inserted between the digits of the number 961. Prove that for any n the result is a square of an integer.
+6) Find other three-digit numbers that have the same properties.
+
+3. a) Prove that the fractions
+$$\frac{19}{95}, \frac{199}{995}, \frac{199}{995}, \dots, \frac{199}{995}$$
+
+you can “reduce”, “cross out” all nines.
+6) Are there any other fractions that can be treated like this?
+N. Suev
+
+4. Let us denote by S(n) the sum of the digits of the number n. Prove that the sequence S(1979), S(1979²), S(1979³), ... is unbounded.
+A. Kelarev

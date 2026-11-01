@@ -1,0 +1,81 @@
+---
+id: 1981-2-chvanov-igrayut-polifiguryi-f100b5ce
+issue: kvant_1981_2
+year: 1981
+number: "2"
+title: Polyfigures play
+authors:
+  - Чванов В. Г.
+rubric: raznoe
+rubric_sub: Разное
+page_first: 34
+page_last: 34
+page_labels: "32"
+tag: HCLS
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: ecce42f4bc72414df124c10f83ff58a2c8469a6adb3309d28d3cd6e068abca90
+prompt_sha256: draft-1
+translated_from: content/ru/1981/02/articles/11_chvanov-igrayut-polifiguryi-f100b5ce.md
+source_content_sha256: 0a469bb129cd0638137545f1cbf8202033e0e65a85777d12ec02d58b09256fdd
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 32⟧
+
+Polyfigures play
+
+In "Kvanita" (1978, no. 11, p. 37) groups of knights living on an (infinite) chessboard according to the law of mutual protection were already considered. Let us recall that a set of knights occupying a certain position is called an active ekladron if, by moving them (at each move, according to chess rules, one of the knights of the set moves), we can reach with one of the knights any direction of the assigned square, and both at the initial moment and after each move, any knight is protected by at least one knight from the set. An example of an active ekladron of five knights is shown in figure 1 (proof - «Kvant», 1978, No. 12, p. 61).
+
+A natural generalization of the active ekladron is a polyfigure Π(n,k)—a set of n identical pieces, by moving which (at each move, according to chess rules, one of the pieces in the set moves), we can reach one of the pieces in any direction of the assigned field, and both at the initial moment and after each move, any piece is protected by at least k pieces from the set*). For knights, the corresponding polyfigure will be called the ekladron E(n,k) (for example, the active ekladron on figure 1 is E(5,1)), for queens - the clan K(n,k), for queens - the fraction Φ(n,k) and for rooks - lyoY L(n,k).
+
+Problem 1. Prove that liza, fraクcey, ekladron and clan are possible only for k=1, k≤3, k≤2 and k≤2, respectively.
+
+figure 2 shows L(3,1), F(2,1), F(3,2),
+
+*) In this case, the pieces are considered “opaque”: for example, two rooks La2 and La3 defend the rook La1 not twice, but once.
+
+Fig. 1.
+
+L (3.1)
+
+F (3.2)
+
+K(2.1)
+
+Fig. 2.
+
+K(4.2)
+
+Fig. 3.
+
+Fig. 4.
+
+Fig. 5.
+
+K(2,1) and K(4,2). It is easy to check that, when k is fixed, these polyfigures are minimal in n (by the number of figures).
+
+figure 3 shows the minimum (by n) fraction Ф(n,3): for it n=6.
+
+Problem 2. Check that the polyfigure on figure 3 is real and is a fraction Ф(6,3) and prove its minimality in n (for K=3).
+
+Instruction: moving all factions by one square is a six-move move!
+
+The polypieces described above can be played (for example, on an 8x8 board) if you agree on the rules; Below we will formulate three rules that allow you to set game tasks.
+
+1. Players take turns, moving one of their pieces onto a free field on each move (taking other people’s pieces is prohibited) so as not to spoil their polypieces.
+
+2. A polyfigure Π(n,k) is considered destroyed by a move of a polyfigure Π′(n′,k′) if the polyfigure Π violates the “condition for multiple protection” by this move. Destroyed polyfigure from the board. (For example, the ekladron E(5,1) on figure 4 destroyed the Frakutsa F(6,3), destroying the mutual defense of the two leftmost queens.)
+
+III. Clan K(n,k) is declared in check (respectively checkmate) if it is declared to each of the clan's queens. (At figure 5 it is shown how faction F(3,2) declared checkmate to clan K(2,1).)
+
+Problem 3. Will Frakutsy F(2,1) deliver a formed checkmate to clan K(2,1) on an 8x8 board? And the Frakutsy F(3,2) - the clan K(2,1)?
+
+Under these rules, neither the clan nor the ekladron can be destroyed. Think about how to rework rules II so that the ekladron can also be destroyed.
+
+In conclusion, we invite you to play multi-piece chess on your own. If you have any interesting questions, write to us.
+
+V. Chvanov

@@ -1,0 +1,63 @@
+---
+id: 1981-4-ryizhik-zadacha-kak-zadacha-c51bf54b
+issue: kvant_1981_4
+year: 1981
+number: "4"
+title: Task as a task
+authors:
+  - Рыжик В. И.
+rubric: po-stranitsam-shkolnyh-uchebnikov
+rubric_sub: По страницам школьных учебников
+page_first: 40
+page_last: 40
+page_labels: "38"
+tag: G05B
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: a7c7cf920b35bca7dbcba77a9e6c14d62b67a9314e2a06c80671791f0282ff39
+prompt_sha256: draft-1
+translated_from: content/ru/1981/04/articles/11_ryizhik-zadacha-kak-zadacha-c51bf54b.md
+source_content_sha256: 829104f47127874348fb4310451d34bdd1f0ebfa3c5716eccae5cf6c986119b0
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 38⟧
+
+Problem as a task
+
+In some schools, ninth-graders solved the problem: In a regular tetrahedron PABC, point M is taken on edge PC, K is the midpoint of side AB. A plane parallel to straight line PB is drawn through K and M. Express the perimeter of the section in terms of the distance |PM| if the length of the edge of the tetrahedron is 1. Calculate its largest and smallest values.
+
+Vasya Nulikov was called to the board. “Well, well! The problem is like a problem - for the free program, Vasya thought. With geometric content. They say these happen during exams.”
+
+“Let us draw a line from point K parallel to line PB,” he began. — Since both point K and line PB belong to the plane APB, the drawn line will also lie in the plane APB. Let us denote the point of intersection of the drawn line with the edge AP by L (see figure). From point M we also draw a parallel line (PB). The point of its intersection on the side BC is denoted by N. From (KL) || (PB) and (MN) || (PB) follows (KL) || (MN). This means that the lines KL and MN lie in the same plane, that is, KLMN is a flat quadrilateral. This is the section referred to in the problem statement. Let |PM| = x. Obviously, 0 ≤ x ≤ 1.”
+
+Afterwards the following appeared on the board:
+
+$$|KL| = \frac{1}{2}, |PL| = \frac{1}{2},$$
+$$|LM| = \frac{1}{2} \sqrt{4x^2 - 2x + 1},$$
+$$|MN| = |CM| = 1 - x,$$
+$$|BN| = x, |KB| = \frac{1}{2}, |KN| = |LM|,$$
+$$P_{KLMN} = \frac{3}{2} - x + \sqrt{4x^2 - 2x + 1}.$$
+
+“Perimeter has been expressed,” said Vasya. “Now consider the function $\Phi(x) = \frac{3}{2} - x + \sqrt{4x^2 - 2x + 1}$.”
+
+Differentiating and bringing to a common denominator
+
+$$\Phi'(x) = \frac{4x - 1 - \sqrt{4x^2 - 2x + 1}}{\sqrt{4x^2 - 2x + 1}},$$
+
+Vasya noted that the denominator does not vanish, and began to solve the equation $\Phi'(x) = 0$:
+
+$$4x - 1 - \sqrt{4x^2 - 2x + 1} = 0,$$
+$$4x - 1 = \sqrt{4x^2 - 2x + 1},$$
+$$\left\{(4x - 1)^2 = 4x^2 - 2x + 1, \right.$$
+$$4x - 1 \geq 0,$$
+$$\left\{12x^2 - 6x = 0, \right.$$
+$$x \geq \frac{1}{4},$$
+$$x = \frac{1}{2}.$$
+
+“Left is less, right is more,” said Vasya, apparently comparing the arbitrary one with zero. — Moreover, the function $\Phi$ is continuous at $x = \frac{1}{2}$. This means that $x = \frac{1}{2}$ is its minimum point. Let us now count the values ​​of the function $\Phi$ at its only extremum point $x = \frac{1}{2}$ and at the ends of the segment
+
+$$[0; 1] : \Phi\left(\frac{1}{2}\right) = 2, \Phi(0) = \frac{5}{2}, \Phi(1) =$$

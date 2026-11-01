@@ -1,0 +1,44 @@
+---
+id: 1981-2-mayer-mamaeva-psevdolinza-roberta-vuda-9c5a4bd7
+issue: kvant_1981_2
+year: 1981
+number: "2"
+title: Robert Wood's Pseudo Lens
+authors:
+  - Майер В. В.
+  - Мамаева Е. С.
+rubric: laboratoriya-kvanta
+rubric_sub: Лаборатория «Кванта»
+page_first: 20
+page_last: 20
+page_labels: "18"
+tag: WO25
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 7949aadfdca61ccf9c4cdf2d80a6df6a92184cddb689185c66f531030d06b1ef
+prompt_sha256: draft-1
+translated_from: content/ru/1981/02/articles/07_mayer-mamaeva-psevdolinza-roberta-vuda-9c5a4bd7.md
+source_content_sha256: 03494f94f3607937bba1053ad6161145b5cf5c2323d03e37c986a830cda7780a
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 18⟧
+
+Robert Wood's Pseudo Lens
+
+Can a plane-parallel plate produce images of objects, that is, act like a converging lens? Let's reason.
+
+How is an image formed in a converging lens? A spherical wave propagates from a precise light source. In a lens, the center of the wave travels a longer path than the edges, so it lags behind the edges, and the wave becomes converging. The light rays, which are always normal to the wave surfaces, are rotated so that after leaving the lens they intersect at one point. This point is the actual image of the source.
+
+In a plane-parallel plate, rays normally incident on it travel the same paths. Therefore, at first glance, it seems that it is impossible to make a collecting lens from such a plate. Otherwise, you can do things differently. Recall that the speed of light in a substance depends on its refractive index: the higher the refractive index, the lower the speed of light. Consequently, in order to obtain a converging lens from a plane-parallel plate, it is enough to make the refractive index closest to the center of the plate and gradually decrease towards its edges.
+
+Currently, lenses with variable refractive index have found application in centimeter radio wave technology. For the optical range of electromagnetic waves, it is quite difficult to produce such a lens that could withstand competition with the obtsinal one. However, the outstanding American experimental physicist Robert Wood proposed a simple model of an optical lens with a variable refractive index, which he calls a pseudolens. We recommend you a slightly modified method of making pseudolenses, which in our opinion leads to better results.
+
+Take a test tube and pour photographic or food gelatin into it so that a layer about 2 cm thick is formed. Pour water into the test tube up to half its height and leave the gelatin to swell in water for 2-3 hours. Then drain excess water from the test tube and, heating the test tube over a dry fuel flame, completely melt the swollen gelatin. (Heat the test tube carefully so that the prepared composition does not burn.) After this, add an equal volume of glycerin to the melted gelatin.
+
+While the composition is cooling, prepare two clean plates measuring approximately 20 × 20 mm and 40 × 40 mm from thin glass (you can use glass carefully from a photoplastic emulsion, window glass or, in extreme cases, plexiglass). Also prepare two strips of cardboard measuring 4x25 mm and about 0.5 mm thick.
+
+Place a glass tube into the cooled composition and transfer a little of the composition onto a horizontal large glass plate. Try to ensure that the droplet formed is perfectly round with a diameter of 6-10 mm. If the first time you did not manage to get what you needed, you can quickly take a glass plate in running water, wipe it dry and continue again. As soon as you manage to get the desired drop, place cardboard next to the drop on the plate
