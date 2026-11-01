@@ -1,0 +1,39 @@
+---
+id: 1977-1-gorst-na-ryibalke-d8a8de18
+issue: kvant_1977_1
+year: 1977
+number: "1"
+title: Fishing
+authors:
+  - Горст Ю. Г.
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 43
+page_last: 43
+page_labels: "41"
+tag: WJ6Q
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 22cf580b85a7945000327706f693b6b254dc2414bfa8f0821f2213802613afd9
+prompt_sha256: draft-1
+translated_from: content/ru/1977/01/articles/15_gorst-na-ryibalke-d8a8de18.md
+source_content_sha256: 1d675a00192c39c9ccdf09c0dde5e6e43448142c6ebed8cad8d722bedb54f13d
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 41⟧
+
+Early on a June morning, Kolya, Petya and Vasya went fishing. On the way, a leisurely conversation ensued between them.
+“We shouldn’t return from fishing empty-handed.”
+- And you know, this is not the worst thing. Recently, in a mathematics lesson, the teacher told us that one famous physicist, solving the problem of three fishermen in an exam as a child, received two fish as an answer.
+- Yes, two fish in minutes is worse than zero. What was the task?
+- That's what it is. With the fisherman, having caught perch, we spent the night by the river. At night, one of them woke up and decided, without disturbing the goods, to go home. The number of baited fish was not divisible by three, so he selected one of them into the water, took the third of the remaining fish and left. At night, the second fisherman also woke up and, not knowing that the first one had already left, he also counted the fish, threw one out, took a third of the rest for himself and left. The third fisherman, who knew nothing about the departure of his goods, did exactly the same. The question is how many fish the fishermen caught.
+— An interesting task. Well, let's check the answer. This means that they caught “minus two” fish - it really can’t be divided by three. The first fisherman threw out one fish - it became “minus three” fish, now it is divided by three. This means that the fisherman took “minus one” fish for himself, leaving... again “minus two” fish. Well, then it’s clear: the same will happen for the other two fishermen. Look, everything is working out. What is the name of this physicist?
+- I forgot. Do you happen to remember, Petya?
+- I remember. Paul Dirac. He later became famous for predicting the existence of the antiparticle. Probably, it helped him to reduce negative “decisions”: after all, antiparticles are like “minus particles”.
+The guys walked in silence for several minutes, then the conversation resumed.
+— In fishing, a lot depends on luck. Here I am - incredulous in everything. Remember, there was the last test in physics, so I got a bad mark then. After all, both of you didn’t know me best, but you avoided bad marks. I don’t expect success in fishing either.
+“You got a bad mark because Nikolai Gennadievich gave you a task to repeat.” And our Innokenty Petrovich gave a test on what we had recently passed.

@@ -1,0 +1,114 @@
+---
+id: 1976-12-zadachi-nashih-chitateley-6af9d1f4
+issue: kvant_1976_12
+year: 1976
+number: "12"
+title: Tasks for our readers
+rubric: smes
+page_first: 56
+page_last: 56
+page_labels: "54"
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 785b3999df5de2a0fecdd3f4aeeae0a21e3595ef5a7c35cf14ab322791a1aaf4
+prompt_sha256: draft-1
+translated_from: content/ru/1976/12/articles/13_zadachi-nashih-chitateley-6af9d1f4.md
+source_content_sha256: dd46152a1fab643b88bdad0b923443c069578d8c1b46441aba809cd680124b6c
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦figure⟧
+Fig. 10.
+
+my corner). Therefore, $|AD|=|AE|=m$. Similarly, we can prove that $|BD|=|BF|=n$. Now
+$$
+|AC|=\sqrt{|AD|\cdot|AB|}=\sqrt{m^2+mn},
+$$
+$$
+|BC|=\sqrt{|BD|\cdot|AB|}=\sqrt{n^2+mn}.
+$$
+
+Exercises
+
+1 (MIPT, 1963). From the vertex of the right angle $B$ of the right triangle $ABC$ the height $BD$ is omitted. Prove that its length is equal to the sum of the radii of the circles inscribed in triangles $ABC$, $ABD$ and $BCD$.
+
+2 (MIPT, 1963). The sum of the legs of a right triangle is $l$, and the length of the altitude dropped from the vertex of a right angle is $h$. Find the area of ​​the triangle.
+
+3 (MIPT, 1971). The perimeter of a right triangle $ABC$ ($\widehat C=90^\circ$) is $72\ см$, and the difference between the lengths of the median $CK$ and the height $CM$ is $7\ см$. Find the area of ​​triangle $ABC$.
+
+4 (MSU, Faculty of Chemistry, 1973). Square $CEKM$ is inscribed in right triangle $ABC$
+
+⟦column⟧
+
+so that the point $K$ lies on the hypotenuse $AB$, and $E$ and $M$ - on the legs. The side of this square is related to the radius of the circle inscribed in the triangle $ABC$ as $(2+\sqrt2):2$. Find the angles of the triangle.
+
+5 (MSU, VMK, 1973). In the right triangle $ABC$ the bisector $CL$ of the right angle is drawn. From the vertex $A$ ($\widehat A>45^\circ$) to $[CL]$ the perpendicular $AD$ is dropped. Find the area of ​​triangle $ABC$ if $|AD|=a$, $|CL|=b$.
+
+6 (MSU, Faculty of Chemistry, 1974). In a right triangle $ABC$ with an acute angle $30^\circ$, the height $CD$ is drawn from the vertex of the right angle $C$. Find the distance between the centers of the circles inscribed in triangles $ACD$ and $BCD$, if the shorter leg of triangle $ABC$ is equal to $1$.
+
+7 (MSU, Faculty of Soil Science, 1974). In a right triangle, $ABC$ ($\widehat C=90^\circ$) $|CA|=4$. On side $CB$ the point $D$ is taken so that $|CD|=1$. A circle of radius $\frac{\sqrt5}{2}$ passes through points $C$ and $D$ and touches at point $C$ the circumcircle of triangle $ABC$. Find the area of ​​triangle $ABC$.
+
+8 (MSU, Faculty of Economics, 1974). A rectangle $MNKB$ is inscribed in an isosceles right triangle $ABC$ ($\widehat B=90^\circ$) so that its two sides $MB$ and $KB$ lie on the legs, and the vertex $N$ lies on the hypotenuse $AC$. In what ratio must the point $N$ divide the hypotenuse so that the area of ​​the rectangle is $18\%$ the area of ​​the triangle?
+
+9 (NSU, 1971). A circle of radius $r$ is inscribed in a right triangle. The radius of the circle tangent to the hypotenuse and extensions of the legs is $R$. Find the length of the hypotenuse.
+
+10. In a right triangle $ABC$, the height $CD$ is drawn from the vertex of the right angle $C$. The perimeter of triangle $ADC$ is $a$, and that of triangle $BDC$ is $b$. Find the perimeter of triangle $ABC$.
+
+Tasks
+our
+readers
+
+1. Prove that
+$$
+1^{100}+2^{100}+3^{100}+\ldots+\ldots+999\,999^{100}
+$$
+is divisible by $100\,000$.
+
+2. Prove that if $a$ is an odd digit, then
+$$
+a^{36}-1
+$$
+is divisible by $1976$.
+
+M. Shterenberg
+(Saratov)
+
+⟦column⟧
+
+3. Calculate Sum
+$$
+\sum_{x=1}^{n}\frac{1}{x^3+6x^2+11x+6}.
+$$
+
+S. Sefibekov
+(Kashkent village
+Dagestan Autonomous Soviet Socialist Republic)
+
+4. Let $a$, $b$, $c$ be the lengths of the sides of the triangle, $p$ its semi-perimeter, $p_a=p-a$, $p_b=p-b$, $p_c=p-c$; $r_a$, $r_b$, $r_c$ are the radii of excircles. Prove the following relationships between the elements of this triangle:
+
+$$
+\text{а) }\frac{p_a^2}{r_b r_c}+\frac{p_b^2}{r_c r_a}+\frac{p_c^2}{r_a r_b}=1;
+$$
+
+$$
+\text{б) }\frac{p_a p_b}{r_c^2}+\frac{p_b p_c}{r_a^2}+\frac{p_c p_a}{r_b^2}=1.
+$$
+
+U. Alla
+(Võru, Estonian SSR)
+
+5. Solve equations
+
+a) $\overline{xyz}=\overline{yz}^{\,2}$;
+
+b) $\overline{x^y}=\overline{yx}$;
+
+c) $x^{y+2}=\overline{yx}$.
+
+I. Mikhalkovich
+(Minsk region)
+
+⟦folio 54⟧

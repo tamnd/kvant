@@ -1,0 +1,77 @@
+---
+id: 1977-5-slukin-oshibki-v-oshibkah-053049fd
+issue: kvant_1977_5
+year: 1977
+number: "5"
+title: Errors in "Errors..."
+authors:
+  - Слукин Л.
+rubric: retsenzii-bibliografiya
+rubric_sub: Рецензии, библиография
+page_first: 57
+page_last: 57
+page_labels: "55"
+tag: COKE
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: f7741f51595fdea3e7a9313f9990584b0b5e33679d7df8009a745341edb99097
+prompt_sha256: draft-1
+translated_from: content/ru/1977/05/articles/20_slukin-oshibki-v-oshibkah-053049fd.md
+source_content_sha256: 1bff82fc7c123b49264f7b4fbcafe6a0357fec3dd241f736dd7693353e4a3628
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 55⟧
+
+Errors in "Errors..."
+
+Imagine that you are taking an entrance exam in mathematics. An applicant sits in front of you, asking your questions, and you must objectively and fairly evaluate his knowledge.
+
+First you ask him to solve the following problem: find the roots of the equation $\log_{3x^2}(9x^4)-\log_{x^2/3}x^2=0$. (1)
+
+The follower gives this solution.
+
+“The range of acceptable values ​​of an unknown given equation is the set of real numbers other than $x=0$. Then, he moves on to the new base of logarithms $|x|$ and having previously checked that $|x|=1$ is not a root of equation (1), the applicant receives the equation
+
+$$\frac{\log_{|x|}(9x^4)}{\log_{|x|}(3x^2)} = \frac{\log_{|x|}x^2}{\log_{|x|}\frac{x^2}{3}} = 0,$$
+
+from it
+
+$$(\log_{|x|}3+2)(1-\log_{|x|}3)=0,$$
+
+from where he finally receives the “Answer:
+
+$$x_1 = \frac{1}{\sqrt{3}}, x_2 = -\frac{1}{\sqrt{3}}, x_3 = 3, x_4 = -3.$$ (2)
+
+You will probably explain to the applicant that he made a grave mistake. In reality, the ODZ of equation (1) is:
+
+$$x \neq 0, x \neq \frac{1}{\sqrt{3}},$$
+
+and therefore the values ​​$x_1=1/\sqrt{3}$ and $x_2=-1/\sqrt{3}$ indicated in answer (2) are not the roots of equation (1). In addition, you will note that moving to a new logarithmic base $|x|$ is an extremely irrational method for solving equation (1); it is resolved orally, since $\log_{3x^2}(9x^4)=2$.
+
+Afterwards the applicant was given another task: to figure out the graph of the function
+
+$$y = \left| \frac{x-1}{x-2} \right|,$$
+
+You will notice at first glance at the graph received by the applicant (see figure) that this problem was solved incorrectly. In fact, function (3) at $x=1$ takes on a zero value, while the curve depicted in figure does not intersect with the abscissa axis.
+
+It can definitely be said that a student with such meanings will not become a student. However, at least the given erroneous solutions were taken not from the work of an unreliable applicant, but from the search for postipation $x^*$, where, oddly enough, they are presented as correct (see pp. 48-49, 99-100).
+
+*) Tupikov V. A., Errors in solving competitive problems for entrance exams in mathematics, ed. 4th, revised and expanded (Minsk “Higher School”, 1974, 144 pages, circulation 150,000 copies, price 16 kopecks).
+
+$$20\log_4x\sqrt{x}+7\log_{16x}x^3-3\log_x2^2=0$$
+
+There is a natural set $x>0$, which only by chance does not lead to an error in the future. The author's inconsistency can be illustrated by the fact that he considers $x=-6$ to be the root of the equation
+
+$$(x+5)x^2+x-2=1$$
+
+(pp. 39-40), however, $x=-3$, $y=2$ by the solution of the system
+
+$$\begin{cases} x^2=9, \\ y=\sqrt{324}=2x^2 \end{cases}$$
+
+does not recognize (pp. 50-51). It is impossible to understand from the text when checking is a mandatory part of solving an equation and when it is not necessary to check it (see p. 26; 37, 45, etc.). About the equation
+
+$$\sqrt{2x^2-8x+12}=6$$

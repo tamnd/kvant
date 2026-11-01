@@ -1,0 +1,64 @@
+---
+id: 1977-1-fiziki-v-gostyah-u-p-erenfesta-30ff6448
+issue: kvant_1977_1
+year: 1977
+number: "1"
+title: '[Physicists visiting P. Ehrenfest]'
+rubric: smes
+page_first: 41
+page_last: 41
+page_labels: "39"
+tag: 9AZV
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: df327b60701bcbfeb3c902ac05971750f98c649ffa1b1b686c1fb6c427b34127
+prompt_sha256: draft-1
+translated_from: content/ru/1977/01/articles/13_fiziki-v-gostyah-u-p-erenfesta-30ff6448.md
+source_content_sha256: b4d9cf4aab40b0a0fe28b382728c3de02d8ec4b2537680aa3cd5a5f27600d359
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 39⟧
+
+§ 4. Extrema of functions
+
+10. A) Draw a graph of an everywhere defined and continuous function so that it has exactly:
+a) 0, 6) 1, c) 2, d) 3, e) 10, f) infinitely many - extremum points.
+B) Is it possible to make sure that all extremum points lie on the segment [0,1]?
+
+11. For functions whose graphs are shown in Figures 6, a-h, indicate all maximum and minimum points, if any.
+
+§ 5. Derivative
+
+12. Figures 7, a–e show graphs of functions $y = f(x)$. In the same coordinate systems (or using the graphs of functions $y = f(x)$), draw approximate graphs of arbitrary $y = f'(x)$ (for those values ​​of $x$ for which an arbitrary function exists; recall that at the discontinuity points and at the “break” points of the graph of an arbitrary function).
+
+13. Based on the graphs of arbitrary $y = f'(x)$ shown in Figures 8, a–e, use the approximate graphs of functions $y = f(x)$. Does one such function $f$ exist in each case? In other words, can't two different functions have the same arbitrary function?
+
+14. Is it possible to say that:
+a) any even function is 1) even? 2) odd?
+b) any odd function is 1) odd? 2) even?
+b) is an arbitrary periodic function periodic?
+15. Can:
+a) an arbitrary everywhere positive function be: 1) always negative? 2) is the water positive?
+b) an arbitrary entiremente of a non-periodic function be periodic?
+b) an arbitrary entiremente of a non-periodic function that is neither even nor odd, be: 1) even? 2) odd?
+
+§ 6. Polynomials
+
+16A) Figures 9, a-e show graphs of cubic polynomials of the form $y = ax^3 + bx + c$; scale not specified. In each case, the signs of the coefficients $a, b, c$ are arbitrary.
+
+B) Could these graphs be graphs of cubic polynomials of the form $y = ax^3 + bx^2 + c$?
+
+17. What is the smallest degree polynomials can have?
+$P_n(x) = a_nx^n + a_{n-1}x^{n-1} + \dots + a_1x + a_0$ if their graphs look like those shown in Figures 10, a-b?
+
+Physicists joke
+
+Once upon a time, Niels Bohr, Wolfgang Pauli and Abram Fedorovich Iofe gathered at the home of the Dutch theoretical physicist Paul Ehrenfest. Ehrenfest, Bor and Iofe sat on the sofa, and Pauli, as he said, walked around the room from corner to corner. A little weather Bor told him:
+- Please stop walking! This annoys me!
+
+- What exactly irritates you? Pauli asked. While Bohr was pondering his answer, Ehrenfest, renowned for his wit, said:
+“He’s annoyed that you’re coming back.”

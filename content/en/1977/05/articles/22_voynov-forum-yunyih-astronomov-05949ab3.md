@@ -1,0 +1,42 @@
+---
+id: 1977-5-voynov-forum-yunyih-astronomov-05949ab3
+issue: kvant_1977_5
+year: 1977
+number: "5"
+title: Forum of young astronomers
+authors:
+  - Войнов С. С.
+rubric: informatsiya
+rubric_sub: Информация
+page_first: 59
+page_last: 59
+page_labels: "57"
+tag: 6MDB
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 15a1683175f7e5251d8675885030180dad84cec56efbbd826a978d09361c8145
+prompt_sha256: draft-1
+translated_from: content/ru/1977/05/articles/22_voynov-forum-yunyih-astronomov-05949ab3.md
+source_content_sha256: dcebeb9797a4a99c3d33c2ece04a1cacde2dd8d1137ae164697723ccc8e59091
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 57⟧
+
+Forum
+YOUNG ASTRONOMERS
+
+On August 16, 1976, a string of buses brought unusual passengers to the territory of the Shemakha Astrophysical Observatory of the Academy of Sciences of the Azerbaijan SSR. These were the owners of the colorful tent city with the romantic name “Star” - 230 boys and girls from 45 cities and villages of our country, envoys of a multi-ethnic army of astronomer lovers to the III All-Union Meeting of Young Astronomers.
+
+On August 17, the opening took place. On this day, at the ceremonial line, the children were brought twice by Hero of the Soviet Union, pilot-cosmonaut of the USSR N.N. Rukovodnik. Secretary of the Central Committee of the Komsomol of Azerbaijan V. A. Guseinov, Director of the Shemakha Observatory, Academician of the Academy of Sciences of the AzSSR G. F. Sultanov, Minister of Education resource specialists M. M. Mehti-zade, Scientific Secretary of the All-Russian Astronomy and Geodesy Society (VAGO), Candidate of Physics and Mathematics Sciences V. A. Bronshten, responsible employee of the Central Committee addressed the children with heartfelt words. Komsomol and the Ministry of Education of the USSR.
+
+Children's interests in astronomy are diverse. Therefore, the main work at the rally took place in sections. A total of 7 sections were created: “Sun”, “Comets and meteors”, “Variable stars”, “Moon and planets”, “Astrophysics”, “Telephoto construction and astrophotography” and “Sky service”. Every day, first theoretical classes were held (lectures, conversations, reports), then laboratory work, processing of observation results obtained earlier, and, of course, day-to-day observations (from 22 to 02 hours).
+
+At the sections, the guys made 79 reports, of which 28 were presented at the general conference. Such an abundance of reports is not accidental. In recent years, young astronomers have become more and more actively engaged in purposeful observational work (cases of fruitful contacts between teams of young astronomers and professional astronomical publics are not uncommon). Many guys are engaged in theoretical research. There are groups whose overall work volume is dominated by popularization activities. All this, naturally, left an imprint on the topics of the reports and their content. To be unfounded, we can name the topics of some reports. Thus, Vladimir Krupko from Omsk read a report “Organization of an astronomical circle in grades 5 and 6”, Georgy Bezrukov (Volgograd) spoke about observations of Nova in Cygnus, Eduard Missarov (Tashkent) shared with the children the results of observing variable stars, Azik Kulambaev (Alma-Ata) spoke about the methodology and results of equidinsitometry (studies of linear equal physical density) of Comet Bennett, Alexander Kazakov (Gorky) shared his experience of using television methods in the study of space objects, Sergei Guryanov and Yuri Batalov from Krasnoyarsk spoke about how they discovered the Kobayashi-Berger-Milonan comet.
+
+The children and heads of delegations took part in two press conferences. More than 80 questions were asked by astronomers. What are Saturn's rings made of? Do negative masses exist in space? Are there any plans to launch spacecraft in the near future? What are the possibilities for exploring further planets in the solar system rafted by ships? What are the prospects for space exploration in the USSR and abroad? Is there antimatter in space and how to detect it? And much more, other astronomers received complete answers to all their questions. Yes, this is not surprising, since the press conference was attended by USSR pilot-cosmonaut N. N. Leader, Moscow State University professor K. A. Kulikov, scientific secretary of VAGO V. A. Bronshten, leading scientists of the Shemakha Astrophysical Observatory O. Kh. Guseinov, S. G. Mamedov, I. A. Aslanov, S. Z. Omarov. The press conferences showed not only the great love of the guys, but also their erudition, the breadth and depth of their interests, knowledge of basic astronomy and space science.
+
+The guys communicated with scientists not only at the press conference. They met with SAO scientists several times during sectional sessions, some of which took place in the laboratories and on the instruments of the observatory. Scientists from Moscow K. A. Kulikov, E. V. Konnovich, A. V. Zasov, L. M. Gindlis, V. A. Bronshten read for the children on the most pressing issues of modern astronomy. And with what impatience everyone was waiting for the start of the debate with the intriguing title “Is there life in the Universe?” This debate was led by one of the well-known (not only in our country, but also abroad) specialists on the problem of introducing messages about the possibility and feasibility of contacts with alien intelligent beings, fantasized about life forms in the Universe

@@ -1,0 +1,53 @@
+---
+id: 2024-9-zaslavskiy-markelov-trisektsiya-ugla-i-drugie-klassicheskie-zadachi-ea546078
+issue: kvant_2024_9
+year: 2024
+number: "9"
+title: Angle trisection and other classical problems
+authors:
+  - Заславский А. А.
+  - Маркелов С. В.
+rubric: matematicheskiy-kruzhok
+rubric_sub: Математический кружок
+page_first: 37
+page_last: 37
+tag: PUDB
+lang: en
+source: kvant_digital
+extraction: native
+content_sha256: 6e39ef8adbfe2dc5758858bd496bad8be9ee1a0c2ea290e1121c63ab51841f5b
+prompt_sha256: draft-1
+translated_from: content/ru/2024/09/articles/03_zaslavskiy-markelov-trisektsiya-ugla-i-drugie-klassicheskie-zadachi-ea546078.md
+source_content_sha256: 638236dcb3c1997004b2bc0f6776e74fc52885ddeff44b306258e3e36d495d99
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+M A T H E A T I C H E K K R UZH OK
+
+Angle trisection and other classical problems
+
+A. ZASLAVSKY, S. MARKELOV
+
+We know that the problem has no solution. We want to know how to solve it. A.Strugatsky, B.Strugatsky. "Monday starts on Saturday"
+
+In school geometry, construction problems, as a rule, need to be solved with a compass and a ruler. The reason for this is historical tradition: these were the instruments that the geometers of Ancient Greece used. They formulated three problems that have become classic, one of which is trisection, or dividing a given angle into three equal parts, and the other two - doubling the cube, i.e. constructing a cube with a volume twice the given one, and squaring the circle, i.e. constructing a square whose area is equal to the area of ​​a given circle. The fact that it is impossible to solve all these problems using only a compass and a ruler without divisions was proven in the 19th century, when the problems were reformulated in algebraic language. For example, the problem of trisection of the angle M S 3 reduces to solving the cubic equation $x^{3} 3 x 1 0$. This equation has no rational roots, and it can be proven that its roots are not quadratic rationalities and cannot be constructed with a compass and straightedge (for more information on the proof of the impossibility of constructions, see [1]). However, you can try to solve the problem if a wider arsenal of tools is allowed, and also if some curve is previously drawn on the plane. The project proposed by the authors of the article at the XXXVI Summer Conference of the Tournament of Cities in August 2024 was devoted to these methods.
+
+DOI: https://doi.org/10.4213/kvant20240903
+
+Let's start with two problems known since ancient times.
+
+⟦column⟧
+
+Task 1. Divide a given angle into three equal parts using a compass and a ruler on which a unit segment is marked. The ruler can be applied to the plane so that it passes through a previously constructed point, and the ends of the segment marked on it lie on the previously drawn lines. Solution. Let us denote this angle by M and on the unit circle with center O take points A and B such that AOB M. Using a ruler with a marked unit segment, draw a straight line through B intersecting the circle and the continuation of the segment AO beyond the point O at points X, Y such that XY = 1 (Fig. 1). Then OBX OXB 2 XYA and AOB OBY OYB 3 XYA, therefore, XYA M 3.
+
+⟦figure⟧
+
+Fig. 1
+
+Definition. Let the point move uniformly along a ray rotating at a constant angular velocity around its origin. Then the curve it describes is called the Archimedes spiral.
+
+Problem 2. Let an Archimedes spiral be drawn on a plane. Divide this angle using a compass and ruler: a) into three equal parts; b) into n equal parts. Solution. a) Let us draw two rays from the center O of the spiral, forming an angle M, and find the points X, Y of their intersection with the spiral (Fig. 2). Let us plot the segment OX c OX on OY, divide the segment X c Y into three equal parts and draw through the dividing points a circle with center O intersecting the spiral at points P and Q. Then XOP POQ QOY. b) The solution is similar to the previous paragraph. The set of curves in the presence of which the trisection of an angle becomes feasible,

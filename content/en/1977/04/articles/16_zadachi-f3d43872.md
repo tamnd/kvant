@@ -1,0 +1,35 @@
+---
+id: 1977-4-zadachi-f3d43872
+issue: kvant_1977_4
+year: 1977
+number: "4"
+title: Tasks
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 45
+page_last: 45
+page_labels: "43"
+tag: RI36
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: d1e4a127c081de4ab82303b418bb09b5604ae4ecc72ad39098ce98b7f5189c35
+prompt_sha256: draft-1
+translated_from: content/ru/1977/04/articles/16_zadachi-f3d43872.md
+source_content_sha256: 5bbb112f4ef59ca0d87d651050e5cabc7f16c43ba920e17e7f125644d74f52e7
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 43⟧
+
+Quests
+
+1. For travel on the subway and tram, Kolya required the exchange of a certain amount of money, receiving it in coins of 3 and 5 kopecks. Kolya calculated that there are $k$ ways of such an exchange. What is the maximum amount of money Kolya could have?
+
+2. In the multiplication example, some numbers are pyrophized with letters (see figure): identical numbers are with the same letters, different numbers are with different letters, any numbers can be in place of the asterisks, including those cryptized with letters. Try to decipher an example!
+
+3. At figure you see five “equalities” made from matches. But all these “equalities” are wrong. Rearrange one match in each of them so that all “equalities” become real equalities.
+
+4. In this rebus (see figure) the numbers are encrypted with figures. Identical figures correspond to the same numbers, different ones - different ones, not a single number begins with a zero. Decipher the rebus.

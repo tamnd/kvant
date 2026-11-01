@@ -1,0 +1,46 @@
+---
+id: 1977-5-a-neravenstva-i-veroyatnost-cef17906
+issue: kvant_1977_5
+year: 1977
+number: "5"
+title: Inequalities and... probability
+authors:
+  - А. Р.
+rubric: smes
+page_first: 58
+page_last: 58
+page_labels: "56"
+tag: 5QQI
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: c1418860512de026de998d529deef656152e7cbcac4b460f00701cfe7b96c88e
+prompt_sha256: draft-1
+translated_from: content/ru/1977/05/articles/21_a-neravenstva-i-veroyatnost-cef17906.md
+source_content_sha256: 71b3f6a82f94e0ef986688f019bd2ef32ea974c4ba62d6bfa5292d8f43f2dfe8
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 56⟧
+
+Inequalities and... probability
+
+The following problem was proposed to the generation team of the Soviet team at one of the international Olympic games: if $p + q = 1$, $0 < p < 1$, $m$, $n$ are natural numbers greater than 1, we can
+
+$(1 - p^m) + (1 - q^n) > 1$.
+
+This problem is difficult to study algebraically. But it turns out that it can be solved simply and beautifully using probability theory.
+
+Let there be a table of $n$ rows and $m$ columns; In each cell, either a 0 or a 1 is placed, and the probability that a 0 is placed is $p$ (then a 1 is placed with a probability of $q$). It is clear that $1 - p^m$ is the probability that there is at least one 1 in some fixed row, and $(1 - p^m)^n$ is that there is at least one 1 in each row: Similarly, $(1 - q^n)^m$ is the probability that each column contains at least one zero. However, one of these events will certainly happen (if there is a row of zeros and a column of ones, then what stands at their intersection?). Therefore, the sum of the probability of these events is not less than 1 (check that for $m > 1$, $n > 1$ this sum must be greater than 1).
+
+Well, what if you don’t know what probability is? It turns out that it is easy to translate this solution into the language of compinatorics. To do this, we need to consider the case when $p = r/s$ is a rational number. For each cell of the table, we will take a supply of digits from $r$ zero and $s$ zero and will make up all possible fillings of the table. Probability is replaced by a table number, and the phrase “one of these events will certainly happen” is replaced by “the union of these two sets of the table is all sets.” Consider how to get rid of the assumption that $p$ is rational.
+
+Now solve generalization problems as well.
+
+1. Let $0 < p_{ij} < 1$ ($1 \leq i \leq m$, $1 \leq j \leq n$), and $q_{ij} = 1 - p_{ij}$. Then $(1 - p_{11} \dots p_{1m}) \cdot (1 - p_{21} \dots p_{2m}) \cdot \dots \cdot (1 - p_{n1} \dots p_{nm}) + (1 - q_{11} \dots q_{n1}) \cdot (1 - q_{12} \dots q_{n2}) \times \dots \cdot (1 - q_{1m} \dots q_{nm}) \geq 1$, where $m \geq 1$, $n \geq 1$.
+
+2. Let $0 < p_{i} < 1$ ($i = 1, 2, \dots, k$), $p_1 + \dots + p_k = 1$, $m_i$ be natural numbers. Then $(1 - (p_2 + \dots + p_k)^{m_2} \dots m_k)^{m_1} + \dots + (1 - (p_1 + \dots + p_k - 1)^{m_1} \dots m_k - 1)^{m_2} \geq 1$ (“multidimensional” generalization).
+
+A.R.

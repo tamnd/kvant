@@ -1,0 +1,47 @@
+---
+id: 2024-11-12-resheniya-zadach-m2806-m2809-f2813-f2816-6ff48fdb
+issue: kvant_2024_11-12
+year: 2024
+number: 11-12
+title: Solutions to problems M2806—M2809; F2813—F2816
+rubric: zadachnik-kvanta
+rubric_sub: Задачник «Кванта»
+page_first: 22
+page_last: 22
+page_labels: "20"
+tag: D51Y
+lang: en
+source: kvant_digital
+extraction: native
+content_sha256: 0f90aba87e7d5b07ede13a5987104d8eb00cdddfb16c39f68e63bcf765982346
+prompt_sha256: draft-1
+translated_from: content/ru/2024/11-12/articles/02_resheniya-zadach-m2806-m2809-f2813-f2816-6ff48fdb.md
+source_content_sha256: 020639a9f514bcaa7d9ba2fb3e233748d0ab18f7e04ba624043345c4cdf89a03
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 20⟧
+
+KVANT 2024/No. 11-12
+
+F2830. Charge Q is distributed uniformly over the area of ​​a non-conducting sphere of radius R. In the first experiment, a small ball with charge q was placed at a distance 2R from the center of the sphere. The force with which the field of the charged sphere acted on the ball was equal to $F_{1}$. In the second experiment, the ball was removed, and the same charge q was evenly distributed along the length of a thin non-conducting rod of length R. This rod was placed on a straight line passing through the center of the charged sphere. The point of the rod closest to the center of the sphere was at a distance of 2R from the center of the sphere. Find the force $F_{2}$ with which the field of the sphere acted on the charged rod. All experiments were carried out in a vacuum far from other bodies. Consider all forces except Coulomb forces to be negligible. V.Plis
+
+F2831. The drive wheel of a bicycle dynamo is pressed against the side of the bicycle wheel tire. The diameter of this drive wheel is d. The armature of the dynamo, containing N turns each with an area S, rotates in a uniform magnetic field with induction B. At what speed v must a cyclist ride so that the light bulb in the bicycle headlight, designed for the effective value of the voltage U, glows with normal incandescence when the dynamo is operating? The resistances of the wires of the rotor and the light bulb (at the rated voltage across it) are the same. V.Plis
+
+F2832. Three coherent monochromatic in-phase emitters are located in a vacuum far from other bodies at the vertices of an equilateral triangle with side a. The emitters operate at a frequency of Q 100 MHz. At what minimum length of the side of the triangle in the far zone on the continuation of any side of the triangle do the waves of three sources cancel each other? The speed of electromagnetic waves in a vacuum is c 3 $10^{8}$ m s. S. Varlamov, V. Plis
+
+Solutions to problems M2806–M2809, F2813–F2816
+
+⟦column⟧
+
+M2806. Is it possible to draw a closed 20-link broken line on a plane and number its links with numbers 1, 2, 3, ..., 20 in traversal order so that for each positive integer i = 1, 2, 3, ..., 10 links with numbers i and 10 + i intersect each other and do not intersect the remaining links?
+
+Answer: no. Let us assume the opposite, and let $A_{1} A_{2}$ ... $A_{20}$ be the given broken line. Let A be the intersection point of links $A_{1} A_{2}$ and $A_{11} A_{12}$. It follows from the condition that the first 10 links of the broken line do not have common points, except for the ends, then we have a closed non-self-intersecting broken line $AA_{2} A_{3} A_{4}$ ... $A_{11} A$, let's call this broken line C (Fig. 1). At the same time
+
+⟦figure⟧
+
+Fig. 1
+
+the vertices $A_{1}$ and $A_{12}$ will be either simultaneously inside or simultaneously outside the contour C. Further, the link $A_{12} A_{13}$ intersects the contour C exactly once, which means that the vertices $A_{12}$ and $A_{13}$ lie in different parts of the plane relative to the contour C: one is inside, the other is outside. We reason similarly with pairs of vertices $A_{13}$ and $A_{14}, A_{14}$ and $A_{15}$, …, $A_{20}$ and $A_{1}$. It turns out that $A_{12}, A_{14}$, …, $A_{20}$ lie in one part of the plane relative to contour C, and $A_{13}, A_{15}$, …, $A_{19}, A_{1}$ – in another. But this contradicts our previous conclusion that $A_{1}$ and $A_{12}$ are in the same part of the plane with respect to C. This completes the solution. Let's give a diagram of another solution. Let us use the following well-known theorem about coloring of domains (which actually generalizes the concepts of “outside” and “inside” for self-intersecting broken lines).

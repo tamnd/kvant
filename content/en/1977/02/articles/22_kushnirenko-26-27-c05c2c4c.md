@@ -1,0 +1,56 @@
+---
+id: 1977-2-kushnirenko-26-27-c05c2c4c
+issue: kvant_1977_2
+year: 1977
+number: "2"
+title: 26 = 27?!
+authors:
+  - Кушниренко А. Г.
+rubric: smes
+page_first: 61
+page_last: 61
+page_labels: "59"
+tag: KJUL
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: d8f1ece6cd3c4233f8e47dfe2c4c8c13e4158368fd52206e7143db01a9497fd5
+prompt_sha256: draft-1
+translated_from: content/ru/1977/02/articles/22_kushnirenko-26-27-c05c2c4c.md
+source_content_sha256: e085641aa2c7b1a378febfae0a6dae901aabf69a50f6540eb840bb87d2ebbd3f
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 59⟧
+
+There was a discussion of the issue, as is the case in mathematics, with complete distraction from the subject. It is easy to understand that the vessels can be replaced, for example, by autorollons or herds of elephants.
+
+In fact, we were talking about the possibility of reducing the proof of a certain statement to the proof of a simpler statement.
+
+In mathematics, such situations occur very often, and the “bridges” that allow this to be done are called lemmas.
+
+In the “vascular” version, I proposed this lemma in “Mathematical Education”, where it was published in No. 6 in 1961.
+
+Your statement deserves greater attention: “After all, if it is elementary, then schoolchildren could do full-time mathematical research,” which even now can hardly be called elementary.
+
+A regular seventeen-sided triangle is carved on the monument to Gauss - a tribute to his first “school” theorem. The goal theory is named after Gaus. Now in the USSR we have a number of schoolchildren writing scientific papers (not necessarily elementary ones).
+
+To do this you need to know and work hard. Sincerely
+
+26 = 27?!
+
+Let's take an example of a triangle. Let's divide each of its sides into three parts of the same length and connect the division points, as shown in figure 1. We see that in the original triangle there are three equal triangles, each two of which intersect with one small triangle. All these triangles are similar to the original one: large ones - with a similarity coefficient of $2/3$, small ones - with a similarity coefficient of $1/3$. The area of ​​the original triangle is denoted by $S$; then the area of ​​each of the three large triangles will be $(2/3)^2 S$, and the area of ​​each of the three small ones will be $(1/3)^2 S$. The area $S$ of the original triangle can be represented as the sum of the areas of the large triangles minus the sum of the areas of the small ones - we counted them twice. We got it too.
+
+$$S = 3 \cdot \left(\frac{2}{3}\right)^2 S - 3 \left(\frac{1}{3}\right)^2 S.$$
+
+Now let’s do a similar construction for the triangular paramid of volume $V$ (Fig. 2). There will be four large paramids (one at each vertex), the volume of each of them will be $(2/3)^3 V$ (at Fig. 2 two of these four paramids are shown). Every two such paramids intersect along a small volume paramid $(1/3)^3 V$, there will be six such paramids in total (one at each edge)
+
+Fig. 1.
+
+Fig. 2.
+
+$V \neq 0$, then $26=27$. If the reader believes that $26 \neq 27$, then he must accept that the volume of an arbitrary triangular paramid is equal to zero.
+
+A. Kushirienko

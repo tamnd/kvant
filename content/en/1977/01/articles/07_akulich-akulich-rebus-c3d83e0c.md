@@ -1,0 +1,56 @@
+---
+id: 1977-1-akulich-akulich-rebus-c3d83e0c
+issue: kvant_1977_1
+year: 1977
+number: "1"
+title: Rebus
+authors:
+  - Акулич В. Ф.
+  - Акулич И. Ф.
+rubric: smes
+page_first: 26
+page_last: 26
+page_labels: "24"
+tag: ZCC5
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 308b6a3a92dc8071713b739d083c75f14d89de50647acc2f166777537c156b0a
+prompt_sha256: draft-1
+translated_from: content/ru/1977/01/articles/07_akulich-akulich-rebus-c3d83e0c.md
+source_content_sha256: 5d7a6b5979158c2dd9ecb8dc41f2fcdf300003c648495f28c62d4d9440eedd24
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 24⟧
+
+Fig. 8.
+
+3°. If the constructed curve needs to be “rotated” by 90°, then at each points $O_1$ and $O_2$ of the plane we must fix the mechanism?
+
+4°. Plot “by eye” on the drawing what the Watt curve will look like if $3|MA_1| = |MA_2|$.
+
+5°. Which section of the constructed curve does point $M$ go through the fastest (slowest)? How can this be proven?
+
+3. This task can be the beginning (we hope it will be) of a real mathematical study (theoretical). Here are its program capabilities:
+
+a) find the equation of the Watt curve (in Cartesian and polar coordinates);
+
+b) determine all possible types of Watt curves in the symmetric case. By curve type we mean its shape. It turns out that there are only 12 different trajectories (their corresponding parameter values ​​are shown in the table).
+
+b) What types of curves can be produced using the mechanisms shown in figure 8?
+
+Sleep and think
+
+Each letter here represents a specific number. The sums of numbers along any verticals, horizontals and diagonals of a square are the same. Restore the numbers in the square cells.
+
+L. Mochalov
+
+Rebus
+
+In two addition examples, identical numbers were replaced by identical letters; the result is shown in figure. Try to decipher the examples.
+
+V. Akulii,
+I. Akulii

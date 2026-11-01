@@ -1,0 +1,34 @@
+---
+id: 1977-4-mochalov-golovolomki-3754fda0
+issue: kvant_1977_4
+year: 1977
+number: "4"
+title: Puzzles
+authors:
+  - Мочалов Л. П.
+rubric: smes
+page_first: 68
+page_last: 68
+tag: LPDY
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: fe3015af70f4999868187073b3afe8fec6c4e22c80816d3fd3c561fb55ccca1a
+prompt_sha256: draft-1
+translated_from: content/ru/1977/04/articles/02_mochalov-golovolomki-3754fda0.md
+source_content_sha256: c706f24fe35a299ed70d6216a0e1953793401b766d50490279fa6e601d83b987
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+PUZZLES
+
+1. Arrange all 28 domino tiles in the form of a rug (see figure) so that the sums of points along each straight line (without breaks) are the same and equal to 25 (the dominoes do not have to be placed next to each other with the same point values).
+2. The “number rug” depicted on figure is intertwined with numbers and arithmetic symbols. Add numbers to the empty spaces so that all equalities are true.
+3. Arrange 28 dominoes in the pattern shown at figure, so that the total points along all the lines are the same. At the same time, in those places where the bones touch (there are 12 such places on figure), they should have the same numbers.
+4. Take the domino set and set the 0-0 tile aside. Teleri, scattering the remaining stones as dobri (regular or irregular), place them in the spaces marked figure so that the sum of dobri in each line is equal to the number of stones in this row.
+
+L. Mochalov
