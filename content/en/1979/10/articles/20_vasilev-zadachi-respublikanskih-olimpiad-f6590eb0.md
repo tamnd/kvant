@@ -1,0 +1,90 @@
+---
+id: 1979-10-vasilev-zadachi-respublikanskih-olimpiad-f6590eb0
+issue: kvant_1979_10
+year: 1979
+number: "10"
+title: Objectives of the Republican Olympiads
+authors:
+  - Васильев Н. Б.
+rubric: raznoe
+rubric_sub: Разное
+page_first: 63
+page_last: 63
+page_labels: "61"
+tag: A0GU
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: bd10d3e10987b2632fab973c6de083b00c91f65f4f5a44d6965ad6e7f72caaa2
+prompt_sha256: draft-1
+translated_from: content/ru/1979/10/articles/20_vasilev-zadachi-respublikanskih-olimpiad-f6590eb0.md
+source_content_sha256: 4123e18a9f922c4f332047276d3069db9005cda85852beaf4e0abba98d76b5a3
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 61⟧
+
+N. Vasiliev
+
+Tasks
+republican
+Olympics
+
+A number of problems proposed this year at the Republican Mathematics Olympiads are included in Problem «Kvant» (M556—M563, M587—M590). The problems proposed at the RSFSR Olympiad are placed on p. 58. We invite the reader to also think about the following tasks proposed in other republics (we will publish instructions and answers to them in one of the following issues).
+
+After the problem, the names of the mathematicians who proposed these problems to the editors «Kvant» or the Methodological Commission of the All-Union Olympiad are indicated.
+
+1. (8) Find the smallest natural number which, when divided by 4, 5, 9 and 11, leaves the corresponding remainders 3, 4, 8 and 10.
+V. Aefonov
+
+2. (8) Prove that any number of the form 101010...101 (n zeros n + 1 ones, with n > 1) is composite.
+V. Aefonov
+
+3. (8-9) $a_1, a_2, \dots, a_{10}$ are natural numbers whose sum is 1001. What is the maximum value their GCD (greatest common divisor) can take?
+
+A. Tolpieo
+
+4. (8-9) Let $p$ be a prime $k$-digit number without a zero in its notation. Prove that all $k$ numbers obtained from $p$ cyclic permutations of digits are distinct. (Explanation: for example, from the number 2317, three more numbers are obtained by cyclic permutations of digits: 3172, 1723, 7231.)
+
+A. Slinko
+
+5. (8-10) The set $M$ consists of all numbers of the form $x^2+x$, where $x$ is every possible natural number. Prove that for any $k \geqslant 2$ in the set $M$ there are $k$ distinct numbers whose sum also belongs to $M$.
+
+V. Batyrev
+
+6. (8-9) A convex quadrilateral is cut into five triangles. Prove that one of the triangles contains entirely some side of the quadrilateral.
+
+7. (8-9) The sequence $b_n = a_{n+1} - a_y$ constructed from a given sequence $a_n$ is decreasing, and $b_1$ is less than $a_1$. Prove that then the sequence $c_n = a_n/n$ is also decreasing.
+
+3. Chanturia
+
+8. (8-10) The segments $AE$ and $CD$ are the bisectors of the angles of the triangle $ABC$. Prove that if $BDE/EDC = BED/DEC$, then the triangle $ABC$ is equilateral.
+
+A. Savin
+
+9. a) (8) The diagonals of a convex quadrilateral are mutually perpendicular. Prove that the four projections of their point of intersection onto the sides of the quadrilateral lie on the same circle.
+
+6) (9-10) Given a quadrangular paramid, the diagonals $AC$ and $BD$ of the base are perpendicular, and the base $H$ of the height coincides with the point of intersection of the diagonals. Prove that the four projections of the point $H$ onto the lateral faces lie on the same circle.
+
+V. Mikhailovsky
+
+10. (9-10) Consider all pairwise non-congestive triangles with vertices at points dividing the circle into $N$ equal arcs ($N \geqslant 3$). For which $N$: a) more than half, b) equal to half, are these triangles equilateral?
+
+N. Vasiliev
+
+11. (8-10) All cells of the rectangular table $m \times n$ contain the numbers $+1$ ($m > n \geqslant 2$). In one step, you are allowed to simultaneously change the sign of four numbers of any square $2 \times 2$. With such $m$ and $n$ from the first analogous table, in several steps you can obtain the table:
+
+a) with the sum of numbers 0?
+b) with $+1$ and $-1$ staggered?
+
+A. Egorov
+
+12. (8—10) Point $B$ lies between points $A$ and $C$. In a half-plane with boundary $AC$ the points $K$ and $H$ are taken, which are $|AK| = |KB|$, $|BH| = |HC|$, $AKB = \alpha$, $BHC = 180^\circ - \alpha$. Find the angles of the triangle $KHM$, where $M$ is the midpoint of the segment $AC$.
+
+L. Kuptsov
+
+13. (10) Prove that for $x \in [0; \pi/4]$ the inequality $x \cos x < 0.71$ holds.
+
+L. Goeoladze

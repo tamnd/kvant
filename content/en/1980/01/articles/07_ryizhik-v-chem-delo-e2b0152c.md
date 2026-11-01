@@ -1,0 +1,66 @@
+---
+id: 1980-1-ryizhik-v-chem-delo-e2b0152c
+issue: kvant_1980_1
+year: 1980
+number: "1"
+title: What's the matter?
+authors:
+  - Рыжик В. И.
+rubric: smes
+page_first: 19
+page_last: 19
+page_labels: "17"
+tag: CVFF
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 29943f37f7d205fe9bb204ae18bb3fad53109f0b647abc05caf41eced4a1d8cc
+prompt_sha256: draft-1
+translated_from: content/ru/1980/01/articles/07_ryizhik-v-chem-delo-e2b0152c.md
+source_content_sha256: 6130b97e81953b1859c44ce92a30d8e86f1a4a61c87626cf282e48490d0ae667
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 17⟧
+
+The air density on the leeward side is such that at air pressure $p_1$ the water vapor pressure is $p$. With the mass $M$ of air occupying the volume $V_1$ comes the mass $\Delta m$ of water vapor. According to the equation of state
+
+$$pV_1 = \frac{\Delta m}{\mu_0}RT_1, \quad p_1V_1 = \frac{M}{\mu}RT_1$$
+
+($\mu_0$ is the molar mass of water), from where
+
+$$\Delta m = M \frac{\mu_0 p}{\mu p_1}.$$
+
+Thus, $Q = \lambda M \frac{\mu_0 p}{\mu p_1}$.
+
+(In our previous discussions, we assumed that the entire mass $M$ of air from volume $V_1$ passes through the ridge, that is, we ignored the change in mass due to precipitation. The resulting expression for $\Delta m$ shows that such an equation is valid: $\mu_0 = 18$ g/mol, $\mu = 29$ g/mol, and $p \ll p_1$ (for example, if air humidity is 50%, then at a temperature of $18^\circ\text{C}$ and a pressure of $p_1 = 10^5$ Pa, the water vapor pressure is $p \approx 0.01 \cdot 10^5$ Pa), therefore $\Delta m/M \ll 1$).
+
+Let us now write the expression (*) in its final form:
+
+$$\lambda M \frac{\mu_0 p}{\mu p_1} = \frac{5}{2} \frac{M}{\mu} R(T_2-T_1) + \frac{M}{\mu} R(T_2-T_1) \Rightarrow \lambda \mu_0 \frac{p}{p_1} = \frac{7}{2} R(T_2-T_1).$$
+
+From here we find the expression for the temperature difference:
+
+$$T_2-T_1 = \frac{2}{7} \frac{\lambda \mu_0 p}{Rp_1}.$$
+
+Substituting $p_1 = 10^5$ Pa, $p = 0.01 \times 10^5$ Pa, $\lambda = 2.5 \cdot 10^6$ J/kg, $R = 8.3 \cdot 10^3$ J/(kmol·deg), $\mu_0 = 18$ kg/kmol, we get $T_2-T_1 \approx 15$ deg!. This is the temperature difference between the leeward and windward sides of the mountain.
+
+Residents of mountainous areas and climbers confirm the correctness of this assessment.
+
+What's the matter?
+
+In some schools, in some classes, they solved the problem: find all values ​​of the parameter $a$ for which it has a solution; then the remaining real numbers would be the answer to the problem. But this would be a long gimmick, and everyone was worked out when Fedya Krestikov proposed a graphical solution: “The function $\sqrt{x-5}$ is a parabola. The expression $a-x$ specifies families of linear functions. It is clear (see figure) that the lines of this family intersect the parabola $\sqrt{x-5}$ if and only if $a \geq 5$. So, the answer to the problem is: $a < 5$.”
+
+Everyone was happy, but then the voice of Vasya Nulikov was heard: “But the task is oral!” He was asked to oblige, and Vasya said this: “From the left side of equation (1) it is clear that if it has a solution, then $x \geq 5$. From the right side we can see that if $a-x \geq 0$ or $a \geq x$. This means that if equation (1) has a solution, then $a \geq 5$. In mathematics class we were told that the theorem “If $A$, then $B$” is equal to the theorem “If $B$ is not true, then $A$ is not true”*. This means that if $a < 5$, then equation (1) has no solution. And this is the answer. And having stood in the respectfully ensuing silence, meaningfully
+
+*) If you haven’t been told this, reader, try to prove it yourself. You can also read this in «Kvant», 1975, No. 2, p. 25.
+
+This is where the graph is unlikely to help. And this is what happened. At first everything went the same way as in yesterday’s equation: $x \geq 5$, $a \geq x$, which means $a \geq 5$; therefore, for $a < 5$ equation (2) has no solution. And just as I was processing it, I noticed that at $a = 5$ it also has no solution*). Where did this parameter value get lost with Vasya’s method?” He said and sat down.
+
+And we began to think: if Vasya is right, then how about Krestikov’s example? And if he’s wrong, then why did he get the correct answer?>
+
+What's the matter?
+
+*) Tell me why.

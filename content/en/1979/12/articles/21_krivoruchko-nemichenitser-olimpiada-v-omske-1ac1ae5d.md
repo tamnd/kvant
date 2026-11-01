@@ -1,0 +1,84 @@
+---
+id: 1979-12-krivoruchko-nemichenitser-olimpiada-v-omske-1ac1ae5d
+issue: kvant_1979_12
+year: 1979
+number: "12"
+title: Olympics in Omsk
+authors:
+  - Криворучко А. И.
+  - Немиченицер М.
+rubric: informatsiya
+rubric_sub: Информация
+page_first: 59
+page_last: 59
+page_labels: "57"
+tag: DRN7
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: bd2f0b0200227537ef5a7d073f538de45932f5b6b9b610a7ff772f2775d6c66f
+prompt_sha256: draft-1
+translated_from: content/ru/1979/12/articles/21_krivoruchko-nemichenitser-olimpiada-v-omske-1ac1ae5d.md
+source_content_sha256: df644533011df8d7ae8de194125e14997aaedd2bcd2d002a997e6d727e688320
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 57⟧
+
+Olympics in Omsk
+
+In April 1979, a meeting of the mathematical section of the Omsk City Scientific Society of Students took place. At the meeting, the results of the 2nd Team Olympiad for city schools were summed up. Olympiads of this type have been held in Omsk since 1978 by the Student Scientific Society of the Omsk Polytechnic Institute and University*). The team form of its implementation contributes to the development of new collective creative work.
+
+123 teams (5 students in grades 9-10 each) from 95 schools in the city, as well as guests from Bratsk and Angarsk, participated in this Olympiad. The jury took into account the difficulty of the problem, the completeness and number of solutions, as well as the collective team that solved the problem, so a problem solved completely gave the team more marks than several problems in which there were gaps in the solution.
+
+The best work was from the Angarsk school team; The first team of school No. 88 in Omsk was not far behind.
+
+We invite everyone to the III commander
+
+*) See «Kvant», 1978, No. 11, p. 60.
+
+Olympiad problems
+
+1. Find the sum of the first hundred numbers appearing in both arithmetic progressions 17, 21, 25, ... and 16, 21, 26, ... (3 points).
+
+2. Solve equation $x=1-5(1-5x^2)^2$ (2 points).
+
+3. Given a quadratic trinomial $y=ax^2+bx+c$. Find all values ​​of $a, b, c$ such that if $x=a$ then $y=a$, if $x=b$ then $y=b$, and if $x=c$ then $y=c$ (3 points).
+
+4. There are 4 points given on the plane. All of them are connected by straight segments. Prove that the ratio of the length of the largest segment to the length of the smallest segment is not less than $\sqrt{2}$ (6 points).
+
+5. Sequence data
+$$a_{n+1}=\frac{2}{1-a_n}+\frac{1}{b_n},$$
+$$b_{n+1}=\frac{a_n+b_n}{2},$$
+where $a_0>0$, $b_0>0$. Prove that they have a common limit of $\sqrt{a_0b_0}$ (4 points).
+
+6. Find all triples of distinct positive integers such that the sum of any two of them is divisible by a third (6 points).
+
+7. Prove that if one of the coordinates of the center of the circle were irrational, then there would be at most two points on this circle, both of whose coordinates were different (5 points).
+
+8. Two people write a 20-digit number, using only the numbers 1, 2, 3, 4, 5. The first digit is written by the first, the second by the second, the third by the first, etc. Is it possible for the second to ensure that the resulting number is divided by 9 if the first tries to put it in it? (5 points).
+
+9. For what four $n$ are there polytopes with exactly $n$ edges? (2 points). Same question for odd $n$ (4 points).
+
+10. From the numbers 1, 2, ..., 9, 4 digits are selected and from them the two values ​​that are closest to each other are made up. What is the most significant significance of the pattern of their difference? (6 points).
+
+11. On sides $AB$ and $BC$ of triangle $ABC$ the squares $ABB_1A_1$ and $CBB_2C_2$ are constructed outwards. Find the length of the segment $B_1B_2$ if the length of the medina $BE$ is $m$ (3 points).
+
+12. One of the angles of the triangle and the length of the height emerging from the vertex of this angle are known. How can the third side be drawn so that the area of ​​the triangle is minimal? (3 points).
+
+13. Prove that the equation $a^x+b^x=c^x+\alpha$, where the numbers $a, b, c$ are positive and not equal to one, has at most three different solutions (5 points).
+
+14. Solve equation $\sin^3 x \cdot \cos x - \cos^3 x \times \sin x = 1/4$ (1 points).
+
+15. In triangle $ABC$ we have: $|AC|=b$, $|AB|=c$, $|A|=2\sqrt{2}$. Find $|BC|$ (2 points).
+
+A. Krivorukyu, M. Nemchenitser
+
+List of readers who sent rules for solving problems from the Problem Book «Kvant»
+
+(For the beginning, see p. 36)
+Kova region) 51, 52; A. Streminsky (Donetsk) 56; A. Stmirskas (Chernogolovka village, Moscow region) 53, 56; S. Surov (Orenburg) 51; A. Tadaev (Novosibirsk) 51; M. Tomashpolsky (Moscow) 56; O. Trushin (Kostroma) 51; L. Umkin (Vologda) 51, 56; D. Faindauz (Leningrad) 49—51, 56; A. Farber (Baku) 56; N. Fedin (Omsk) 50, 51, 56; A. Fedokovich (Pinsk) 49; I. Fomenko (Dnepropetrovsk) 51, 52; O. Khoruzhsky (Cherpovets) 51; S. Khosid (Alma-Ata) 51;
+
+V. Tselikov (Cherpovets) 49, 56, 57; A. Chernysh (Lisogorskaya station, Stavropol region) 53, 56, 57; A. Chechel (Moscow) 56; I. Shvets (Zhovti Vody) 49, 56; A. Sheriev (Krasnodar) 56, 57; P. Shibaev (Moscow) 49, 52; A. Shirieev (village of Rozhestveno MordASSR) 51; S. Shishchin (Nevinnomysk) 50, 51; S. Shishkov (Moscow) 56, 57; A. Shostachenko (Kishinev) 56; N. Streshen (Moscow) 50; A. Ezerins (Kuzmolovo village, Leningrad region) 57; M. Efroimsky (Leningrad) 49, 51, 57; V. Yarovoy (Leningrad) 49, 51, 57.

@@ -1,0 +1,47 @@
+---
+id: 1979-12-myakishev-entsiklopediya-mikromira-70b6fa46
+issue: kvant_1979_12
+year: 1979
+number: "12"
+title: Encyclopedia of the microworld
+authors:
+  - Мякишев Г. Я.
+rubric: informatsiya
+rubric_sub: Информация
+page_first: 58
+page_last: 58
+page_labels: "56"
+tag: R3ES
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: f9be94fd54dd50f1bcec6be21c0b2d5bc7f013a5c3fe9f4f5a949bae6fbe86cf
+prompt_sha256: draft-1
+translated_from: content/ru/1979/12/articles/20_myakishev-entsiklopediya-mikromira-70b6fa46.md
+source_content_sha256: 09a334fc944a4949f8bed5d2bf8bdacd1a622ca413fe24fd753399cdb6e842eb
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 56⟧
+
+NOISE - school department store.
+
+The simultaneous game session is conducted by the master of sports A. Monseev.
+
+play various games, including checkers with the master of sports - student A. Monseev (in a simultaneous game session). The audience members were asked to take up communication tasks, and there was an organizational mathematical stage. Each success was loaded with “wisdoms”, which could be used to purchase mathematical literature with authors’ names in the SHUM (“school department store”). Among the participants in the anniversary day were many former students of the Physics and Mathematics School, who later became MIIT students and school teachers, and currently are assistants, researchers, and engineers at various institutions. To this day, they remember the Faculty of Mechanics and Mathematics at MIIT, which they loved especially because work there, as one of the veterans said, “was something we did independently, with full responsibility and without prejudice to the manifestation of our enthusiasm.”
+
+L. Sadovsky
+
+Encyclopedia of the microworld
+
+In the first quarter of 1980, the Soviet Encyclopedia publishing house will publish the book “Physics of the Microworld.” This book is a small encyclopedia dedicated to the basics of quantum physics. The book covers general material - from the Fundamental laws of nature that govern the movement and interaction of micro-objects (elementary particles, atoms, etc.) to the laws of behavior of macroscopic bodies, the properties of which are determined by the quantum characteristics of the behavior of the particles that compose them.
+
+Three large articles at the beginning of the book - “Quantum Mechanics”, “Quantum Statistics” and “Quantum Field Theory” - introduce the reader to the general picture of the physical laws of the microworld. What follows in alphabetical order are about three hundred articles telling about individual concepts, phenomena, physical objects, and some directions in the development of quantum theory. The book is supplemented by articles “Accelerators”, “Detectors”, “Spectrosoppia”, which describe experimental methods for obtaining high-energy particles, their registration, and determination of certain characteristics.
+
+The book is written popularly, but quite strictly scientifically. Famous physicists and popularizers of science took part in its compilation.
+
+“Physics of the Microworld” is intended for a wide range of readers - students, high school and vocational school teachers, technical teachers and platoons. Many of the articles in this encyclopedia will be read with great benefit by high school students interested in physics.
+
+G. Myakishchev

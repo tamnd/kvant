@@ -1,0 +1,37 @@
+---
+id: 1979-10-zadachi-9c72948a
+issue: kvant_1979_10
+year: 1979
+number: "10"
+title: Tasks
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 41
+page_last: 41
+page_labels: "39"
+tag: RXL2
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: b78e2aea968a0a2db83255c0fa98a9f0677794fb873fcc77b3d96419b136a445
+prompt_sha256: draft-1
+translated_from: content/ru/1979/10/articles/14_zadachi-9c72948a.md
+source_content_sha256: 10c1675cf5bc665b5e8324775e311a435fc274f5b72189fcce2a7bf336f99c94
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 39⟧
+
+Quests
+
+1. Tourists bought a hundred items from the store: matches (price 1 kopeck per box), pies (10 kopecks each) and canned food (price 50 kopecks per can). We paid 5 rubles for everything. How many items of each product were purchased?
+
+2. Try rotating the four pegs shown on figure so that the sum of any four numbers located on the same radius equals the same number. What number is this?
+
+3. 15 balls can be folded into a triangle, but cannot be folded into a square - one ball is missing (see figure). How many balls, not exceeding 50, can be used to form both a triangle and a square?
+
+4. Is it possible to place several non-intersecting circles in a square with a side of length 1, the sum of their radii would be equal to 1979?
+
+5. There are five coins in a row. The middle one is heads up, the rest are tails up. In one move, you can turn over any three adjacent coins. Is it possible to add so that all coins are heads up? What if only the first coin is initially upside down? What if it’s only the second one?

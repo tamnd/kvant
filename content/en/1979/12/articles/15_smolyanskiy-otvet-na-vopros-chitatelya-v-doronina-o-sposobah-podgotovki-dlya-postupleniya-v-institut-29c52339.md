@@ -1,0 +1,61 @@
+---
+id: 1979-12-smolyanskiy-otvet-na-vopros-chitatelya-v-doronina-o-sposobah-podgotovki-dlya-postupleniya-v-institut-29c52339
+issue: kvant_1979_12
+year: 1979
+number: "12"
+title: '[Answer to a question from reader V. Doronin about ways to prepare for admission to college]'
+authors:
+  - Смолянский М. Л.
+rubric: raznoe
+page_first: 47
+page_last: 47
+page_labels: "45"
+tag: 69N8
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 79f59cde9a4615cb7c58993facaccb52ac84bc2bf6f21d889706003c76b4d9a9
+prompt_sha256: draft-1
+translated_from: content/ru/1979/12/articles/15_smolyanskiy-otvet-na-vopros-chitatelya-v-doronina-o-sposobah-podgotovki-dlya-postupleniya-v-institut-29c52339.md
+source_content_sha256: a102668b3864d514aa7ae1c380e51ec100d6a2f51d8fada110a2ef2915397e30
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 45⟧
+
+Ask - we answer
+
+Dear editors!
+A schoolboy quickly looking for you comes to you.
+
+I finished school two years ago. This was the first year that the school graduated students using the new program. After school I served in a number of the Soviet Army, and now I want to continue my education. Of course, I’ve played a lot and it’s difficult for me to prepare for college on my own. Many of my peers study with tutors, but I can’t afford it. Is there any other way to prepare for college?
+
+Your reader V. Doronin
+
+The issue of tutoring is not new. This problem is seriously and acutely considered on the pages of newspapers and magazines, and is reflected in radio and television programs. Our magazine also raised the issue of tutoring.
+
+In this article we want to tell you about the system of preparing applicants for institutes, carried out by the state, the effectiveness of which is many times greater than the effectiveness of classes with tutors.
+
+1. Since 1969, preparatory departments have been opened for calculating values.
+
+Is the preparatory department accepted?
+
+tsa with completed secondary education from among the advanced workers, collective farmers and demobilized units of the Armed Forces of the USSR. Workers and collective farmers sent to the preparatory department must have at least one year of work experience, i.e., a full 12 months before the start of classes. Those sent to the preparatory department submit an application, a letter of reference from the place of work (signed by the head of the enterprise or the commander of a military unit), a document on secondary education (in the original), characteristics, 6 factors (simmok without a headdress, size 3 × 4) and a medical certificate about the state of health (form No. 286).
+
+A demobilized person who does not have a referral from the command of a military unit and returned to work at the same enterprise where he worked before being admitted to the army can enter the preparatory department in the direction of this enterprise if his total length of service (at this enterprise) is at least one year in total - before military service and after demobilization.
+
+Admission to the preparatory department is carried out through an individual oral interview, the purpose of which is not so much to find out the amount of knowledge of the person entering the department, but rather to find out his potential capabilities, general level of development, and a certain degree of consciousness of his choice of a given age. At the same time, the features are more or less close to the preparatory departments of this institute (you can read more about the preparatory departments in our magazine: «Kvant», 1978, No. 12, p. 47).
+
+2. By decision of the Ministry of Higher and Secondary Specialized Education of the USSR, in almost all calls from the country, organizations offer options and correspondence courses for preparation for institutes. These courses are usually paid, but the tuition fee is minimal (35 rubles for the entire cycle).
+
+As an example, we will talk about the work of prepared courses at MISS. Kuibyshev (trained courses work similarly at other institutes).
+
+The main objective of the courses is to help production and demobilized soldiers, who have a significant break in registration, to repeat the high school program without negative university exams, as well as to help tenth grade students more deeply understand the most difficult issues of the school curriculum.
+
+Classes are conducted according to both the new and old programs. The courses are carried out in several streams with a duration of 1 to 10 months.
+
+Mathematics and physics classes in very preparatory courses are conducted as follows. Applicants are given lectures on the main sections of the course; The focus is on questions that are often difficult to answer in exams. For each topic covered, practical classes are regularly held, during which typical problems for this section are examined, and then students submit “homework”, consisting of 20-25 problems and a list of theoretical questions. The form of “homework” is close to that of adults.
+
+Twice a year (in January - February and in May), written and oral tests are taken for prepared courses. These tests take place in circumstances
