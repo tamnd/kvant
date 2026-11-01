@@ -1,0 +1,54 @@
+---
+id: 1980-3-usov-chubarev-zakruchennyie-mnogougolniki-64e46024
+issue: kvant_1980_3
+year: 1980
+number: "3"
+title: 扭曲的多边形
+authors:
+  - Усов В.
+  - Чубарев А.
+rubric: raznoe
+rubric_sub: Разное
+page_first: 49
+page_last: 49
+page_labels: "47"
+tag: VCR4
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: dfa9f89ec346e5a0d5ff96cc649dac541bd4b0863c4afef160655d11a3f7e724
+prompt_sha256: draft-1
+translated_from: content/ru/1980/03/articles/16_usov-chubarev-zakruchennyie-mnogougolniki-64e46024.md
+source_content_sha256: cc3bd8973f35b7ecf78e287f837e4613b1a64a80d42adc39f6acd36edb6c39df
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 47⟧
+
+扭曲的多边形
+
+第二封面上的图案由“扭曲的多边形”组成。扭曲多边形由一系列直角多边形组成：每个后续多边形$M'$都内接于前一个$M$（顶点$M'$位于边$M$上），并且$M'$是子集$M$（该链的相似系数是固定的）。
+
+如果这种链是建立在一系列相同的多边形上，那么它们看起来特别有效。覆盖平面（没有重叠或延伸），例如，在一系列正方形、直角三角形或六边形上。
+
+绘制图案的计算机如何构造扭曲的多边形？机器被“赋予”初始多边形$P_1P_2...P_n$（我们称之为第一级多边形），即由坐标指定的顶点列表
+
+$$P_1(x_1; y_1), P_2(x_2; y_2), ..., P_n(x_n; y_n).$$
+
+接下来，机器使用绘图仪绘制多边形的边，并依次用线段连接顶点。然后它使用以下规则找到下一个多边形（第二级）的顶点 $P_1', P_2', ..., P_n'$ 的坐标：
+
+$$(x'_i; y'_i) = (x_i; y_{i-1}) + k(x_{i+1} - x_i; y_{i+1} - y_i)$$
+
+（建议读者画图，例如$n=6$，并确保极限公式中的系数$k$等于
+
+$$k = \frac{|P_i P'_i|}{|P_i P_{i+1}|}.$$
+
+接下来，机器依次连接顶点$P_1', P_2', ..., P_n', P'_i$，从而获得第二级多边形的图。从第二等级的多边形，计算机获得第三等级的多边形。等等。
+
+为了避免出现斑点（当小多边形向第三级多边形的中心累积时会发生这种情况），程序限制了链中多边形的数量。
+
+我们建议函授编程学院的学生用 Rappre（使用语音）创建一个程序来构造这种类型的模式，并将其作为可选作业发送给我们。
+
+V. 乌索夫、A. 丘巴列夫

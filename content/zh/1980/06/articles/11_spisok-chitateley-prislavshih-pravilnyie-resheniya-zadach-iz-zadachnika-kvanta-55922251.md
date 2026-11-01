@@ -1,0 +1,56 @@
+---
+id: 1980-6-spisok-chitateley-prislavshih-pravilnyie-resheniya-zadach-iz-zadachnika-kvanta-55922251
+issue: kvant_1980_6
+year: 1980
+number: "6"
+title: 发送正确答案的读者名单
+rubric: zadachnik-kvanta
+page_first: 30
+page_last: 30
+page_labels: "28"
+tag: FZZT
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 830c15ad175827209e67612d99e4d6d20577c606b004e1a2c52776bea93b41aa
+prompt_sha256: draft-1
+translated_from: content/ru/1980/06/articles/11_spisok-chitateley-prislavshih-pravilnyie-resheniya-zadach-iz-zadachnika-kvanta-55922251.md
+source_content_sha256: 292d14b9a2959c79a63e77bc62f6fe188fec786a983409337ada76c5bc333fc5
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 28⟧
+
+这股力量是如何引导的？一种确定磁场指向我们的技术。当棒向上移动时，由于洛伦兹力作用于自由电子而产生的电动势从左向右。当杆低于平衡位置时（加速度方向向上），杆中电流的方向与电动势的方向一致，并且电容器充电。在这种情况下，力$F$向下，即与杆的加速度$x$相反。当杆位于平衡位置之上时，电动势的方向保持不变，但杆的速度降低，因此电动势降低。在这种情况下，电容器放电，杆中的电流改变方向，因此力 $F$ 也改变方向 - 现在它的方向向上，即再次与加速度相反。考虑到杆的向下运动，我们将确信在这种情况下，力$F$的方向与杆的加速度相反。因此，
+
+$$F = -CB^2l^2x.$$
+
+现在让我们写出杆的运动方程：
+
+$$Mx = Mg - k(x + x_0) - CB^2l^2x.$$
+
+考虑到$Mg = kx_0$（见（*）），我们最终有
+
+$$Mx + CB^2l^2x = -kx.$$
+
+众所周知，这样的方程描述了谐波轮的频率
+
+$$\omega = \sqrt{\frac{k}{M + CB^2l^2}}.$$
+
+轮的振幅$A$等于杆的初始偏转，并且在任何时间点
+
+$$x(t) = A \cos \left( \sqrt{\frac{k}{M + CB^2l^2}} t \right).$$
+
+（正如我们所看到的，电容器的作用与惯性的增加相一致。）
+
+D·福托斯基
+
+发送正确答案的读者名单«Kvant»
+
+本期我们公布了发送问题F573—F587正确答案的读者姓名。
+
+几乎所有提交问题F573—F587解决方案的读者都解决了问题F573、F577、F581和F585。其余问题已正确解决：V. Abadzhaev (Lvov) 75, 76, 79, 82； A. 阿布拉莫奇金（基辅）74-76、80、82； V.阿维季索夫（巴库）83、84； M.阿列克谢耶夫（奥布宁斯克）75； E. Alisinderov（达什 AzSSR 村）74； I.阿波隆斯基（茹科夫斯基）74-76、78-80、83、84； Z. Apriamyshili（Arali 村，GrSSR）74、75、78； L.阿鲁沙诺夫（巴库）74、76、82； R. 巴巴耶夫（巴库）76、78、79、82-84； L. Balok（克里米亚地区 Zhurvki 村）74-76、78； D.巴拉杜林（基辅）82； A. Baryshnikov（莫斯科）78； V.贝洛斯（第聂伯罗彼得罗夫斯克）76, 78—80, 82； I. Belchinsky（莫斯科）74、75、82； A.贝尔廖夫（维捷布斯克）74； A.贝林斯基（塞米巴拉金斯克）76； O.别列佐夫斯基（第聂伯罗彼得罗夫斯克）74； V.别伦佐夫（车里雅宾斯克）79； A. Bessarasky（莫斯科地区 Zaprudnya 村）74-76、78-80、82-84、86、87； I.贝索诺夫（鲁托夫）74-76、78-80、82-84； A.博日科（阿拉木图）74、76； I.Bokolishili（第比利斯）82； A. Bortsev（列宁格勒）74、76； I.博尔佐夫科夫（克拉斯诺尔斯克）82； S.博哈诺夫（Novopolyuk）84； L.布拉齐斯基（伏尔加顿斯克）74、80、82、84、87； L.布拉齐斯基（基辅）78、82； V.布里丹（尼古拉耶夫）84； V.布拉科夫（乌兹洛瓦亚）80； S. Vaener (Dzhezkagan) 74、76、78-80、82-84； V.瓦西里耶夫（Velikie Luki）74、76、78-80、82； O.瓦西里耶夫（喀山）83； V.魏茨曼（Odeska）74、80、82-84、87； A. Velko（明斯克地区糖厂村）80； P. Vetruk (捷尔诺波尔) 75, 76; E. Voitenko（基辅）74、76、79、80、82； A.沃尔诺夫（基辅）84； V. 沃罗纳 (斯拉维扬斯克) 74, 75, 79, 80, 82-84; E.维罗多夫（波多利斯克）74、78-80、82-84； R. Gabdulin（Starobashevo 村，BashASSR）82、86； M. Gavrilov（莫斯科地区 Chernogolovka 村）74、76； V. Glebkin（莫斯科地区克拉斯科沃村）74、80、
+
+（续第 41 页）

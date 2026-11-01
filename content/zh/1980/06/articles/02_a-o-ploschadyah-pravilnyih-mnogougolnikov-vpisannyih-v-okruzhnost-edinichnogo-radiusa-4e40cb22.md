@@ -1,0 +1,29 @@
+---
+id: 1980-6-a-o-ploschadyah-pravilnyih-mnogougolnikov-vpisannyih-v-okruzhnost-edinichnogo-radiusa-4e40cb22
+issue: kvant_1980_6
+year: 1980
+number: "6"
+title: 【关于单位半径圆内接的正多边形的面积】
+authors:
+  - А. П.
+rubric: smes
+page_first: 68
+page_last: 68
+tag: Y9B4
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 83b2bfdad3fea8d848a5ab851ab79c23df9a13d15362eaf2128cc16939e2f2f0
+prompt_sha256: draft-1
+translated_from: content/ru/1980/06/articles/02_a-o-ploschadyah-pravilnyih-mnogougolnikov-vpisannyih-v-okruzhnost-edinichnogo-radiusa-4e40cb22.md
+source_content_sha256: ab91b6c00cad1e25e20f5af27229514ea9a739a2371ba3a2ae237f7cdb07b82a
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+你认为：单位半径的圆内接的正多边形有多少个，其面积大小用有理数表示？事实证明，b 都是正方形和十二边形；它们的面积分别等于二和三。匈牙利数学家、匈牙利中小学生数学奥林匹克竞赛的积极组织者 J. Kürszák（1864-1933）提出了一个非常漂亮的证明，证明单位圆内切正十二边形的面积等于面积。证明来自驱动图，其中边2上的正方形被分成角度为15°、15°和150°的正三角形和等腰三角形，其中一些三角形代替了正十二边形的面积，另一方面，同一组三角形代替了单位面积的三个正方形。这个证明也是 Bolle-Gerwin 定理的一个很好的证明，即任何两个面积相等的多边形都可以分割成两两全等的部分。
+
+美联社
