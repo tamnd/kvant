@@ -1,0 +1,71 @@
+---
+id: 1983-3-orehov-risunki-letat-byistree-i-dalshe-i-izvlechenie-kornya-e2b363e0
+issue: kvant_1983_3
+year: 1983
+number: "3"
+title: '[Figure "Fly Faster and Farther" and "Extracting the Root"]'
+authors:
+  - Орехов А. А.
+rubric: smes
+page_first: 58
+page_last: 58
+page_labels: "56"
+tag: W2U9
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: cd148c63e9c0e8fc7975b65db2c1668564ae49c52d553488197af4e1f3b84579
+prompt_sha256: draft-1
+translated_from: content/ru/1983/03/articles/17_orehov-risunki-letat-byistree-i-dalshe-i-izvlechenie-kornya-e2b363e0.md
+source_content_sha256: 5c35f795c85f4d284628ecfe2e371c62adf9320723c38f73235eaec529c99894
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 56⟧
+
+lation), however, it still cannot “take off” with an incomplete set of “passengers”.
+
+In some programming languages ​​(algor, PL/1, for example), it is possible to allocate the required amount of dynamic memory, first calculate N, then execute the instruction “allocate N memory elements.”
+But in any language, apparently, the fastest way to dynamically configure a program (that is, configure it during execution) to the required array sizes is a technique that can be called working with an incomplete array.
+
+When working with an incomplete array, all arrays are described with a margin, and only the necessary part of the array is used.
+
+The description and input in this case looks like this (the rest of the program has been omitted):
+
+```pascal
+const k: = 100; m: = 100 {k — максимальное элемент}
+var a: array [1..k] of real;
+i, n: integer; s: real;
+begin readln(n);
+for i: = 1 to n do read(a[i]);
+```
+
+or
+begin n:=0; while NOT (eof(input)) do
+begin n:=n+1; read(a[n]) end;
+
+In the first version of the program, before the beginning of the array of source data, he places a punched card with the number of elements he needs this time, in the second, after the array, he places a punched card “end of file”.
+The rest of the program remains unchanged:
+
+All cycles are performed changing the parameter from 1 to n.
+
+What stock should I take? In each specific problem, this is usually known: there are no more than 72 passengers in a TU-134, no more than 30 students in a group, etc. If multidimensional arrays are needed, then we do the same: we describe, say, a two-dimensional matrix with a margin for each change and use its “northwest” corner.
+
+Finally, if there is not enough stock, then we use static adjustment. This is reminiscent of a general radio receiver: we adjust within the range by turning the knob, and to change ranges we use a switch.
+
+Test task*)
+
+6.1. Enter and print the values ​​of the elements of an “incomplete” matrix A of size n×m, assuming that its elements occupy the upper left corner of this matrix A' of size n'×m', where n'>n, m'>m. The dimensions n and m are entered before entering the matrix A. The values ​​of each row of the matrix must, firstly, be entered on a new line and, secondly, printed on a new line.
+
+L. F. Sternberg
+
+*) This is the last task in the “Standard Programming Techniques” series.
+
+QUANTUM IS KILLING
+
+"Fly fast and further"
+"Root Extraction"
+
+Figure A. A. Orekhova

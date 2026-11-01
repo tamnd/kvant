@@ -1,0 +1,32 @@
+---
+id: 1983-6-kanev-test-na-proverku-prostranstvennogo-voobrazheniya-35eb3a26
+issue: kvant_1983_6
+year: 1983
+number: "6"
+title: '[Spatial Imagination Test]'
+authors:
+  - Канев В. Ф.
+rubric: smes
+page_first: 68
+page_last: 68
+tag: O6ZO
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 2f056b1c2706b08c01a113b45831ce9c83bb9e58b35971922bd45401202884dd
+prompt_sha256: draft-1
+translated_from: content/ru/1983/06/articles/01_kanev-test-na-proverku-prostranstvennogo-voobrazheniya-35eb3a26.md
+source_content_sha256: a196ee3a38674c12f33e7e0e8a2fba8c842bda4df48d8f3baae14ee846cf4e35
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+Price 40 kopecks.
+Index 70465
+
+We offer a small test to test spatial imagination. The cubes are shown on the left: the top one is cut into two identical parts, the bottom one is cut into two non-load-bearing parts. Below are fifteen cubes, each of which is cut into two parts, with all the "feather halves" designated by the numbers 1-15, and all the "second halves" designated (in a different order) by the letters a - n. For each of the halves 1-15, find its pair among a - n.
+
+V. F. KANEV

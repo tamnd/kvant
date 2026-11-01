@@ -1,0 +1,41 @@
+---
+id: 1983-6-zadachi-02afde8f
+issue: kvant_1983_6
+year: 1983
+number: "6"
+title: Tasks
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 41
+page_last: 41
+page_labels: "39"
+tag: SLYI
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: d3f87a98cd70e909a00dd3b330094f97d95039940e558f2e1d9e63d94102ba7c
+prompt_sha256: draft-1
+translated_from: content/ru/1983/06/articles/08_zadachi-02afde8f.md
+source_content_sha256: d466d51901ce58af347c84e5622cb63c8995642e9eb2d2b7b6eb7de02ce4a97a
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 39⟧
+
+Exercise
+
+1. Eight dominoes are placed on the table as shown at figure. What is the significance of the closed part of a domino tile if these tiles can be arranged in a “magic square” $4 \times 4$ (that is, so that the sum of the windows per tile in each vertical row, in each horizontal row, and along each diagonal is the same)? Achieve this position.
+
+2. Brothers Alyosha and Borya were born in August. They started going to school at the age of seven. The number of the class in which the elder brother Boris is now studying is equal to Alyosha’s age. What grade will Alyosha go to when Boris graduates from high school?
+
+3. Several points were placed on a straight line. Then another point was placed between each two adjacent points. And so on several times. Prove that after each such operation the total number of points will be odd.
+
+4. The road from home to school takes Petya 20 minutes. However, on the way to school they remembered that they had forgotten a pen at home. Pet knew that if he continued to school at the same speed, he would arrive there 8 minutes before the bell rang, and if he returned home to get the pen, then, moving at the same speed, he would be 10 minutes late for the start of class. How far did he walk?
+
+5. It is known that the direction of rotation of the Earth around its axis coincides with the direction of the Earth's orbit around the Sun. How much would the length of the Earth's day change if the Earth rotated around its axis with the same angular velocity in the opposite direction?
+
+These tasks were offered to us
+V. D. Vyon, S. V. Dvoryaninov, V. V. Egorov,
+A. P. Savin, E. D. Sergenko

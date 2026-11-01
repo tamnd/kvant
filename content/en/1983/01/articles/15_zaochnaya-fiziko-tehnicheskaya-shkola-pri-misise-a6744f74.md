@@ -1,0 +1,73 @@
+---
+id: 1983-1-zaochnaya-fiziko-tehnicheskaya-shkola-pri-misise-a6744f74
+issue: kvant_1983_1
+year: 1983
+number: "1"
+title: Correspondence Physics and Technology School at MISiS
+rubric: informatsiya
+rubric_sub: Информация
+page_first: 56
+page_last: 56
+page_labels: "54"
+tag: 49IC
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 7b6f23233619a4e9a9fba1657adcb39caae85a867bd6f6a442fbbfdf09650939
+prompt_sha256: draft-1
+translated_from: content/ru/1983/01/articles/15_zaochnaya-fiziko-tehnicheskaya-shkola-pri-misise-a6744f74.md
+source_content_sha256: 565628a16278c2aab0ef34be0d35389f47aecca231287e71db6f03479deb5e95
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 54⟧
+
+Tasks for introductory control of work at the Small Faculty of Mechanics and Mathematics in 1983
+
+1. Expand the polynomial $x^6 - 6x^4 + 9x^2 - 4$ into
+   a) two factors;
+   b) six factors.
+
+2. Prove that for any number $\alpha > 1$ the inequalities $\alpha - \frac{1}{2\alpha} < \sqrt{\alpha^2} - 1 < \alpha - \frac{1}{2\alpha}$ hold.
+
+3. A square $ABCD$ is drawn on the plane. Find the set of all points $M$ that do not lie on the sides of the square and satisfy the conditions $AMB = BMC = CMD = DMA$.
+
+4. A car ticket is considered “lucky” if the sum of the first three digits of the hexagonal number (written on the ticket) coincides with the sum of its last three digits. Can the numbers of two “lucky” tickets differ by one?
+
+5. Find all numbers $a$ for each of which the equation $a^2x - a(x+1) - 6x+3 = 0$ has no solution.
+
+6. There are five points on side 1 of a regular triangle. Prove that there are two points in the middle of them, the distance between which is not more than 1/2.
+
+7. Solve the system of equations and inequalities:
+   $x(y-z) \geq 0$
+   $y(z-x) \geq 0$
+   $z(x-y) \geq 0$
+   $x+y+z = 3$.
+
+8. A straight line is drawn through the vertex of a triangle with pairwise non-congruent sides, dividing it into two triangles.
+
+a) Prove that these triangles are non-congruent;
+
+b) Can these triangles be similar?
+
+9. In a convex quadrilateral $ABCD$, sides $[AB]$ and $[CD]$ are congruent but not parallel. Prove that the line passing through the midpoints of the diagonals $[AC]$ and $[BD]$ forms equal acute angles with the lines $(AB)$ and $(CD)$.
+
+10. On New Year's Eve, it became painful for Plyushkin to throw away the calendar for the past year, and he decided to use it in the future by adding a year in which each day of each month falls on the same day of the week as in his calendar. In how many years will he have this opportunity for the first time?
+
+Correspondence Physics and Technology School at MISiS
+
+The branch of the Weighty Correspondence Mathematical School - the Correspondence Physics and Technology School at the Moscow Institute of Steel and Alloys - announces enrollment of students in the eighth and ninth grades for the 1983/84 academic year.
+
+The goal of the school is to assist students in in-depth study of programming in high school in physics and mathematics.
+
+The mathematics curriculum is fully consistent with the VZMS course. The physics course was developed by teachers of the Department of Theoretical Physics of the Moscow Institute of Steel and Alloys and meets the level of requirements for applicants for university entrance exams, primarily at MISiS.
+
+The work of the school is organized as follows. Five times a year, students are sent test assignments in physics and mathematics, along with brief information on theory and examples of problem solving. Test papers submitted by students are checked by the institute's teachers and, along with grades and comments, statements are made to the students. As an annual assignment, students in tenth grade are sent materials from the entrance exams to MISiS for past years.
+
+Classes at 3FTSH (MISIS) will begin on October 1, 1983. To enroll in a school, you must send an application indicating the last name, first name, patronymic, full address, profession and position of the parents, as well as attach a certificate from the school indicating the class and annual grades in physics and mathematics. The application and certificate must be sent no later than March 1 to the address: 117049, Moscow, Leninsky Prospekt, 4, MISiS, 3FTSH. The first assignment and the first test in mathematics are written in the article “New admission to the Weighted Correspondence Math Scale” (see p. 52).
+
+A few words about the institute itself. The Moscow Order of the October Revolution and the Order of Labor Red Replacement Institute of Steel and Alloys trains engineering and scientific personnel for the metallurgical industry and a number of new branches of science and technology. The training is built on the multi-characteristics so that students are already involved in independent scientific work from the 3rd-4th year. While working on coursework and theses, which are usually included in the research plan of the relevant departments, students make extensive use of the institute's computer center, equipped with modern computers.
+
+By entering the Moscow Institute of Steel and Alloys, you will be able to do theoretical and experimental work in the field of physics of the creative body, the study of the properties of substances at low temperatures, the creation and research of alloys with new physical and chemical properties, metallurgy, RENTography, physics and chemical surfaces, physics of semiconductors, the creation of new semiconductor devices, computational mathematics and many other relevant and relevant problems of science and technology.

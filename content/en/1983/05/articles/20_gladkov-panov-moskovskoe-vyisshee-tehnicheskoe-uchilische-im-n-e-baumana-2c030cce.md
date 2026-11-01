@@ -1,0 +1,83 @@
+---
+id: 1983-5-gladkov-panov-moskovskoe-vyisshee-tehnicheskoe-uchilische-im-n-e-baumana-2c030cce
+issue: kvant_1983_5
+year: 1983
+number: "5"
+title: Moscow Higher Technical School named after. N. E. Bauman
+authors:
+  - Гладков Н. А.
+  - Панов В. Ф.
+rubric: praktikum-abiturienta
+rubric_sub: Практикум абитуриента
+page_first: 57
+page_last: 57
+page_labels: "55"
+tag: VEHA
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 72dabcf8b60d6be6bb9bab55eff557bc0b5b369b8548673dfbc96fec0f9dde20
+prompt_sha256: draft-1
+translated_from: content/ru/1983/05/articles/20_gladkov-panov-moskovskoe-vyisshee-tehnicheskoe-uchilische-im-n-e-baumana-2c030cce.md
+source_content_sha256: 716e1b6f343e2d3739571d69fb80cb8bab6a0010af3344355a5c3cc8647b534d
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 55⟧
+
+6. A battery of four different capacitors is connected once according to scheme a), another time according to scheme 6) (Fig. 5). Under what conditions will the capacities of these batteries be the same?
+
+7. Determine the amount of heat released by each resistor after the switch K (Fig. 6) is closed. Initially, one capacitor is charged to voltage U, the other is not charged.
+
+8. What shield should be connected to a galvenommeter with a scale of 100 divisions, a division value of $I_0=1$ µA and a resistance of $R=180$ Ohm, so that it can change currents up to $I=1$ mA?
+
+9. From a submerged submarine, the speed of an airplane flying over the submarine was determined. How many times does the apparent speed of the plane differ from the true speed?
+
+10. How many times should the exposure time be changed if the distance between the paper and the light source increases?
+
+The publication was prepared by Yu. N. Bibikov, A. S. Kondratev
+
+Moscow Higher Technical School named after. N. E. Bauman
+
+Mathematics
+Written exam
+Option 1
+
+1. The sum of the first and fourth terms of a geometric progression is related to the sum of the second and third terms as 13:4. Find the progression if its third term is 32.
+
+2. Solve the equation
+$$1 - \cos x = \mathrm{tg} x - \sin x.$$
+
+3. Solve the equation
+$$\frac{2^x}{5^{x-1}} + 3 = \frac{5^x}{2^{x-1}}.$$
+
+4. Find the domain of the functions $f(x) = \sqrt{x \cdot \log_2(x+2)}$.
+
+5. A right-hand triangle is inscribed into a cone with a base of radius $R$ and an axial section that is an isosceles right triangle.
+A forked quadrangular prism is designed so that one of its lateral edges lies on the diameter of the base, the vertices of the opposite edge lie on the lateral surface of the cone, and the remaining vertices are equidistant from the base of the cone. Find the volume of the prism.
+
+Option 2
+
+1. The tractor left the station for the village 30 minutes ahead of the truck. When the truck, having overtaken the tractor, arrived at the village, the tractor had to drive 3 km to the village. Find the speed of the tractor and the truck if it is known that the speed of the truck is 20 km/h greater than the speed of the tractor, and the distance from the station to the village is 12 km.
+
+2. Solve the equation
+$$\cos 6x + \sin^2 x = \cos^2 x.$$
+
+3. Solve the equation
+$$\log_4 \frac{32}{18-4^2x} = 2x.$$
+
+4. Solve the inequality
+$$16 \cdot \left(\frac{1}{4}\right)^{x+2} > \frac{1}{256} \cdot \left(\frac{1}{2}\right)^{2x}.$$
+
+5. A regular triangular prism of maximum volume is inscribed in a regular tetrahedron so that two lateral edges of the prism are parallel to one of the edges of the tetrahedron and equidistant from it, and all the vertices of the prism lie on the faces of the tetrahedron. Find the ratio of the volumes of the prism and tetrahedron.
+
+Physics
+Oral exam assignment
+
+1. A ball thrown at a speed of $v_0=10$ m/s at an angle of $\alpha=45^\circ$ to the horizontal hits a vertical wall located at a distance of $s=3$ m from the point of throwing. Determine the pattern and direction of the ball's speed ($v$ and angle $\beta$) after impact. The impact is assumed to be absiltonally elastic, and the angles of incidence and reflection are equal. Gravity acceleration $g=10$ m/s².
+
+2. A body with a mass of $m=2$ kg slides down a slide with a height of $H=4,5$ m along an inclined surface that smoothly turns into a cylindrical surface with a radius of $R=2$ m (Fig. 1). Determine the pressure force of the body on the cylindrical surface at its upper point $B$, if the work done by the friction forces when the body moves to this point is $A=40$ J. Gravity acceleration $g=10$ m/s².
+
+3. Determine the change in internal energy $z=0,5$ of the gas when heated

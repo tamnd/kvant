@@ -1,0 +1,59 @@
+---
+id: 1983-7-v-esche-odno-opredelenie-ravnogrannogo-tetraedra-a6082a5b
+issue: kvant_1983_7
+year: 1983
+number: "7"
+title: Another definition of an isohedral tetrahedron?
+authors:
+  - Дубровский В. Н.
+rubric: smes
+page_first: 53
+page_last: 53
+page_labels: "51"
+tag: QJ78
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 65d02409896ad82ad9eb266cff4e9c4ce8db98a3e3d1af469113b7731c345b05
+prompt_sha256: draft-1
+translated_from: content/ru/1983/07/articles/10_v-esche-odno-opredelenie-ravnogrannogo-tetraedra-a6082a5b.md
+source_content_sha256: 5d403e200030ed87c948b44cbf4332c417173832ad468fdc68a6de716b31d493
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 51⟧
+
+$$k = \frac{\Delta U_1}{U} = \frac{1}{8} \frac{T^2}{LC} = 5 \cdot 10^{-4}.$$
+So, when connecting the inductor, the ripple can be $\frac{4 \cdot 10^{-2}}{5 \cdot 10^{-4}} = 80$ times.
+
+A. R. Zilberman
+
+F812. The final line represents half of a successful glass cone. The indicator is assumed to be stack n; line dimensions are indicated on figure. A beam of parallel rays falls on the line, perpendicular to the flat part of the lateral surface of the line. At what angle to the beam axis should the screen be placed behind the line so that the image of the beam on the screen is a straight line?
+
+For any ray incident on the surface of a line, the line has a double effect. In a plane parallel to the bases, the end line acts like an ordinary cylindrical line. But the focal length of a cylindrical line is determined by the radius of curvature of its lateral surface. For the final line, this radius changes with height, therefore the optical power of the final line changes with height. In a plane perpendicular to the bases, the end line acts as a recognition with an apex angle of $\varphi = \arctg \frac{R}{H}$. It is easy to show that it assumes rays at angle $\beta = \varphi(n-1)$.
+
+Let's introduce a coordinate system by placing its origin at the center of the base of the line and directing the $X$ axis along the beam of rays, and the $Y$ axis along the height of the line. The rays lying in the horizontal plane $y' = \cos t$, after prefilling in the face of collection at the point $O$ with coordinates $(x, y)$, and the coordinate $x$ is equal to the focal length of the line at a height of $y'$, that is, equal to $\frac{r(y')}{n-1}$, where $r(y')$ is the radius of the lateral surface of the cone at the height $y'$. Since $r(y') = R \left(1 - \frac{y'}{H}\right)$,
+
+$$x = \frac{R}{n-1} \left(1 - \frac{y'}{H}\right).$$
+
+The coordinate $y$ is determined from the condition that the rays arriving at the point $O(x, y)$ form an angle $\beta = (n-1)\arctg \frac{R}{H}$ with the axis $X$:
+
+$$\frac{y'-y}{x} = \mathrm{tg} \left((n-1)\arctg \frac{R}{H}\right).$$
+
+Eliminating $y'$ from equations (1) and (2), we obtain the equation for the line in which the rays are focused:
+
+$$y = H - x \left(A + \frac{n-1}{R} H\right)$$
+
+(here we have introduced the notation $\mathrm{tg} \left((n-1)\arctg \frac{R}{H}\right) = A$ for brevity).
+
+From expression (3) it follows that the screen must be installed at an angle $\alpha = \arctg \left(A + \frac{n-1}{R} H\right)$ to the axis $X$ - in this case, the focusing line will be clear.
+
+A. A. LanUDEC
+
+Another definition of an equal tetrahedron?
+
+The article by V. E. Matizen “Equihedra and frame tetrahedra” in this issue provides 21 properties of equihedra tetrahedra that are equivalent to his definition (including the definition itself). The average of them is the equality of the perimeters of the faces, the areas of the faces, the radii of the circumscribed circles of the faces (properties (11), (12), (15)). It is strange that the property “the radii of the circles inscribed in the faces are equal” is not in this list. Do you think that a tetrahedron with this property must be equal?
+
+V.D.

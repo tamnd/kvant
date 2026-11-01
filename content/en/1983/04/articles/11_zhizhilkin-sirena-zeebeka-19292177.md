@@ -1,0 +1,55 @@
+---
+id: 1983-4-zhizhilkin-sirena-zeebeka-19292177
+issue: kvant_1983_4
+year: 1983
+number: "4"
+title: Siren Seebeck
+authors:
+  - Жижилкин И. Д.
+rubric: laboratoriya-kvanta
+rubric_sub: Лаборатория «Кванта»
+page_first: 31
+page_last: 31
+page_labels: "29"
+tag: UNNW
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 93ff9109dc131819e5d96fba02d1b36868888dacf9e66c50a5558f03428b5238
+prompt_sha256: draft-1
+translated_from: content/ru/1983/04/articles/11_zhizhilkin-sirena-zeebeka-19292177.md
+source_content_sha256: 0e2a787e3c3333480aefe1494bb463bec5141859b8dc11bebd9965ad53424622
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 29⟧
+
+Siren Seebeck
+
+I. D. ZHIZHILKIN
+
+You've probably ever heard the sharp sound of an ambulance siren rushing to a seriously ill patient, or the powerful hum of a siren installed on a lighthouse and warning ships plying the open sea of ​​danger, or some other similar signal whistle.
+
+Perhaps it is no coincidence that the source of these strong and therefore far audible sounds is called a siren. In ancient Greek mythology, sirens are half-birds, half-women, who lured sailors to dangerous and disastrous places with their song. However, this is already beyond the scope of this article.
+
+There are many different types of sirens. For example, mechanical lilacs, which use air transfer to the scab. However, the simplest one was invented by the German physicist Thomas Johann Seebeck, who lived from 1770 to 1831. (Usually the name of Seebeck is associated with his discovery of the phenomenon of thermoelectricity, but it is curious that Seebeck was the first to propose the use of iron filings to determine the shapes of magnetic lines and for their direct observation.)
+
+How such a siren works and whether it is possible to make it yourself - this is what we are talking about in the status written by Igor Zhizhilkin, a 9th grade student at Moscow School No. 147.
+
+Seebeck's siren can be made using... a home vacuum cleaner and a juice chemist.
+
+From thick cardboard you need to cut a disk with a diameter of 400-600 mm and make holes in it with a diameter of about 10 mm. (It is most convenient to punch holes using a metal tube, the edges of which are sharpened with a file.) The holes are placed at equal distances from each other along a concentric circle so that the distances between the holes are greater than their diameter.
+
+From the juice chemist, you need to remove the knife and other equipment and put a manufactured circle with holes on the shaft, securing it with a clamping screw.
+
+You need to make a nozzle on the vacuum cleaner hose such that its outlet hole also has a diameter of about 10 mm.
+
+Having turned on the juice chemist, we direct a stream of air from the vacuum cleaner perpendicular to the disk with holes. Sound out sharply. (This is why experiments with a siren should be carried out only with the consent of others!) The pitch of the sound can be changed by directing a stream of air to holes in various concentric circles.
+
+Why does the siren sound? You can answer this question like this. If you quickly rotate a disk with holes and sell air through these holes, then behind the hole the jet will be too high, representing alternating rolling and rarefaction. They cause a sound of a certain pitch.
+
+It is easy to say that the pitch can be calculated in advance; to do this, just multiply the frequency of rotation of your circle (which you can read about in the instructions for the juice chemist) by the number of holes.
+
+He advises you to carry out the suggested experiments and verify for yourself everything said above.
