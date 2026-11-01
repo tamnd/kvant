@@ -1,0 +1,33 @@
+---
+id: 1984-9-zhukov-kubicheskiy-krossvord-6dd8afa9
+issue: kvant_1984_9
+year: 1984
+number: "9"
+title: 立方填字游戏
+authors:
+  - Жуков А. В.
+rubric: smes
+page_first: 68
+page_last: 68
+tag: 92VP
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: bcbcab381cac521284d8718f6c11d20eaad20395a1899794756ba15d5802f933
+prompt_sha256: draft-1
+translated_from: content/ru/1984/09/articles/01_zhukov-kubicheskiy-krossvord-6dd8afa9.md
+source_content_sha256: 2565168d628d849d8c7ebee55a64698ff78778dac878e2a1eb025c72c579ab58
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+立方纵横字谜
+
+猜测的单词的字母将被放置在填字游戏的立方体单元中，从写有相应数字的边缘开始（沿垂直于该边缘的方向）。
+
+1. III族化学元素。 2.初级部分。 3.苏联物理学家。 4.$10^6$。 5. 告诉量的外部单位。 6.苏联物理学家。 7.苏联物理学家。 8、液体大量使用的过程。 9.$10^9$。 10. 16-17世纪意大利科学家。 11. 检查平面上的直线的工具。 12.表征形状相同的几何概念。 13. 几何概念，表示存在公切线。 14.光学器件。 15.多项式。 16. 17世纪意大利数学家。 17. 数学部分。 18. 在各个研究领域都是杰出人物。 19. 3-2世纪古希腊几何学家。到 k.e. 20.摄影图像。 21.第VII族化学元素。 22. 以数字表示的数量。 23. 现象。 24. 19世纪德国数学家。 25. 三角形中的一段引人注目的线段。 26. 4-5世纪的女数学家。 27. 第五族化学元素。
+
+A·B·朱可夫
