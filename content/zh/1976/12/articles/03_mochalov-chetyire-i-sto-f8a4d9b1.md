@@ -1,0 +1,33 @@
+---
+id: 1976-12-mochalov-chetyire-i-sto-f8a4d9b1
+issue: kvant_1976_12
+year: 1976
+number: "12"
+title: 四和一百
+authors:
+  - Мочалов Л. П.
+rubric: smes
+page_first: 84
+page_last: 84
+tag: EENY
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 6665d01e0fe93aa17fd71b0edc7bf3e9d1cb4b818d95ec47f6ed71f4376e1644
+prompt_sha256: draft-1
+translated_from: content/ru/1976/12/articles/03_mochalov-chetyire-i-sto-f8a4d9b1.md
+source_content_sha256: 143d352f9271f05efa535ef68c0778f635eac2c6d00be34e2cbdb7da8a469965
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+在一个正方形（中心被切掉）中，有 12 个项（4 个单元格的图形）和 12 个正方形（图 在顶部）。擦除将正方形与术语分开的 12 个分区，使该正方形（无中心）充满如下所示的 12 个术语（5 个单元格的形状）。
+
+四百
+
+从左上角的数字1开始，用数字9画一条虚线到右下角。在这种情况下，您只能向右或向下移动数字； “匝数”应为 4；虚线划掉的数字之和必须等于 100。
+
+L·莫察洛夫
