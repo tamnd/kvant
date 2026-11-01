@@ -1,0 +1,84 @@
+---
+id: 1986-5-mescheryakov-morozov-smirnov-moskovskiy-arhitekturnyiy-institut-a1332c76
+issue: kvant_1986_5
+year: 1986
+number: "5"
+title: Moscow Architectural Institute
+authors:
+  - Мещеряков Ю. М.
+  - Морозов Ю. А.
+  - Смирнов В. А.
+rubric: ekzamenatsionnye-materialy
+rubric_sub: Экзаменационные материалы
+page_first: 58
+page_last: 58
+page_labels: "56"
+tag: 83CY
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 2e435a8a71048107f02280c98d00e4d13fdd94878a9feb8ac2e62a99ced30fa9
+prompt_sha256: draft-1
+translated_from: content/ru/1986/05/articles/20_mescheryakov-morozov-smirnov-moskovskiy-arhitekturnyiy-institut-a1332c76.md
+source_content_sha256: 9b3f0a46ba6b56e86d10ff311a568def3a9ad41a52e071479b6d649e9213c1be
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 56⟧
+
+10. In Rutherford's experiments, α-particles hit thin gold foil with a speed of $v = 2 \cdot 10^7$ m/s. By placing the vector α-particle coincident with the straight line connecting the particle and the gold atom nucleus (primary collision), estimate the radius of the nucleus. Avogadro's number $N_A = 6 \cdot 10^{23}$ mol$^{-1}$, elementary charge $e = 1,6 \cdot 10^{-19}$ C, electric constant $\varepsilon_0 = 8,8 \cdot 10^{-12}$ f/m, charge of the gold nucleus $q = 79$е.
+The publication was prepared
+N. A. Gladkov, L. P. Parshev
+
+Moscow Architectural Institute
+
+Mathematics
+Oral exam objectives
+1. Simplify the expressions:
+a) $A = \frac{\sqrt{a+x}+\sqrt{a-x}}{\sqrt{a+x}-\sqrt{a-x}},$ if $x = \frac{2ab}{b^2+1}, a > 0, 0 < b < 1$;
+b) $A = \cos \frac{2\pi}{7} + \cos \frac{4\pi}{7} + \cos \frac{6\pi}{7}$;
+b) $A = \frac{\lg^2(x^3)}{\lg^3(x^2)} \cdot \lg \sqrt{x}$.
+2. Calculate without tables:
+a) $A = 2 \cos 20^\circ \cdot \cos 40^\circ \cdot \cos 80^\circ$;
+b) $A = \tg 1^\circ \cdot \tg 2^\circ \cdot \tg 3^\circ \cdot \dots \cdot \tg 88^\circ \times \tg 89^\circ$;
+b) $A = \frac{2 \cos 40^\circ - \cos 20^\circ}{\sin 20^\circ}$.
+3. Find:
+a) $\sin^3 x + \cos^3 x,$ if $\sin x + \cos x = a$;
+b) $\tg \alpha - \ctg \alpha,$ if $\tg \alpha + \ctg \alpha = a$.
+4. Prove accuracy:
+a) $\tg^2\left(\frac{\pi}{4} - \alpha\right) = \frac{1 - \sin 2\alpha}{1 + \sin 2\alpha}$;
+b) $32 \sin^2\alpha \cos^4\alpha = 2 + \cos 2\alpha - 2 \cos 4\alpha - \cos 6\alpha$;
+b) $\sin^2(45^\circ + \alpha) - \sin^2(30^\circ - \alpha) - \sin 15^\circ \times \cos(15^\circ + 2\alpha) = \sin 2\alpha$.
+5. Solve the equations:
+a) $\sqrt{2x+3} - \sqrt{x+1} = 1$;
+b) $7 \cdot 3^{x+1} - 5^{x+2} = 3^{x+1} - 5^{x+3}$;
+b) $2 \lg \lg x = \lg (3 - 2 \lg x)$;
+r) $\sin^4 x + \cos^4 x = \frac{5}{8}$.
+6. Solve the inequalities:
+a) $\frac{1}{2^x-1} > \frac{1}{1-2^{x-1}}$;
+b) $0,1^{\log_2 x+1}/x-3 < 10$; b) $\sqrt{24-10x} > 3-4x$.
+7. Plot graphs:
+a) $y = |x^2-4|$;
+b) $|y-2| = |x-1|$;
+b) $y = \sin |x|$.
+8. Solve the systems of equations:
+a) $\begin{cases} \log_5 x + 3^{\log_3 y} = 7, \\ x^y = 625^3; \end{cases}$
+b) $\begin{cases} (x+y)3^{y-x} = \frac{5}{27}, \\ 3 \log_5(x+y) = x-y. \end{cases}$
+
+Physics
+Oral exam objectives
+1. A ladder of mass $m$ is leaning against the wall. The center of gravity of the leaf is located at a distance of 1/3 of the length from its upper end. What horizontal force must be applied to the middle of the ladder so that its upper end exerts pressure on the wall? The angle between the stairs and the wall is $a$.
+2. A heavy ball of mass $m$ is suspended on a thread. The thread can withstand the tension $T = 2mg$. At what angle from the equilibrium position must the thread with the ball be deflected so that it breaks the thread, passing the equilibrium position?
+3. A small body slides along an inclined plane, gradually turning into a “dead loop”, from a height $H = 2R$, where $R$ is the radius of the loop (see figure). At what height will the body break away from the surface of the loop? From what height should the body slide so that separation does not occur?
+4. A collision of two absolutely elastic balls with masses $m_1$ and $m_2$ will occur. Their initial speeds are $v_1$ and $v_2$. Find the speed of the balls after impact. Consider the impact to be central: the speeds of the balls are directed along the line connecting their centers.
+5. A block of mass $m$ is pulled evenly by the top attached to it to a height $h$ along the board, the angle of inclination of which to the horizon is $a$. The rope is parallel to the board. Coefficient of friction between the block and the board $μ$. Find the energy that goes into heating the board and block.
+6. Find the work that must be done to compress a spring with a stiffness of $k = 30$ N/cm by $x = 10$ cm.
+7. A copper ball suspended in a circle makes a vertical swing. How will the flask period change if an aluminum ball of the same radius is suspended from the circle? The densities of copper and aluminum are $\rho_1 = 8,9 \cdot 10^3$ kg/m$^3$ and $\rho_2 = 2,7 \cdot 10^3$ kg/m$^3$ respectively.
+8. What is the highest possible way to lay out a massive cryptic S so that the deformation of the column remains within the limits of elasticity under the influence of only the force of gravity? What will be the most relative depth of the cryptic masonry? Young's modulus $E = 3000$ MPa, density $\rho = 1,8 \cdot 10^3$ kg/m$^3$, elastic limit $\sigma_{\text{np}} = 3$ MPa.
+9. To change the temperature of water weighing $m = 66$ g, a thermometer was immersed in it, which showed $t_1 = 32,4$ °C. What was the actual temperature of the water if the thermometer has a specific heat of $C = 1,9$ J/K and before immersion in water it shows a room temperature of $t_2 = 17,8$ °C?
+
+The publication was prepared
+Yu. M. Meshcheryakov, Yu. A. Morozov,
+V. A. Smirnov

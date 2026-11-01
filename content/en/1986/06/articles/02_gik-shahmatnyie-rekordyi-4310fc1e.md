@@ -1,0 +1,66 @@
+---
+id: 1986-6-gik-shahmatnyie-rekordyi-4310fc1e
+issue: kvant_1986_6
+year: 1986
+number: "6"
+title: Chess records
+authors:
+  - Гик Е. Я.
+rubric: shahmatnaya-stranichka
+rubric_sub: Шахматы
+page_first: 67
+page_last: 67
+tag: PCLQ
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 94305858ec63cf9dcbbde0d03e0429a131a516a10bbb4b1503c5b6226de36c46
+prompt_sha256: draft-1
+translated_from: content/ru/1986/06/articles/02_gik-shahmatnyie-rekordyi-4310fc1e.md
+source_content_sha256: 8fa946d0f70dc6baea944f81fe3bd84290816f679b3da51a7b1f7cda37b9fc45
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+CHESS RECORDS
+
+It is known that a maximum of 8 queens that do not threaten each other, 8 rooks, 14 bishops, 32 knights or 16 queens can be placed on a common 驹 (see «Kvant» 1983, no. 3). An outstanding master of puzzles, the author of many intriguing mathematical problems, including those involving chess addition, G. Dudeney came up with a position in which 8 queens, 8 rooks, 14 bishops (three maximums!), 21 knights and 8 queens are safely on the board at the same time (the pieces of the same name are not mutually exclusive). Total 59 figures. This record had stood for centuries and seemed unshakable. But just recently, magazine reader V. Popov from Donetsk broke an old record!
+
+As we can see, with 8 queens, 8 rooks, 14 bishops and 21 knights, there are now 9 queens, and the total number of pieces has increased by one - 60! It is noteworthy that four empty fields are located on the same diagonal. Who else will be able to improve the record?
+
+The following position seems to connect the two great inventors of puzzles - the American S. Lloyd and the English G. Dudeney. Loyd discovered that with the original arrangement of white pieces and a single black king, the h4 square is the only one on which he can get mate in 3 moves: 1.d4 Kpg4 2.e4+ Kph4 3.g3×, 1...Kph5 2.Fd3 Kph4(g4) 3.Fh3×.
+
+Dudeney was interested in another question: what is the fastest way for this position to get a game? Since White needs a network of 15 black pieces and pawns, and taken on the first move is impossible, the solved ones contain at least 16 moves. Dudeney came up with a game in which the position on the diagram would emerge after 16 moves by White and 16 moves by Black. The record stood for a very long time, until in 1933 V. Thompson improved it!
+
+1.Kc3 d5 2.K:d5 g6 3.K:e7 b5 4.K:g6 a6 5.K:h8 Cd7 6.K:f7 Qg5 7.K:g5 Kf6 8.K:h7 Ke4 9.K:f8 Kc3 10.K:d7 Kb1 11.K:b8 Kpf7 12.K:a6 Kpg6 13.K:c7 Kph5 14.K:b5 Ra3 15.K:a3 Kph4 16.K:b1.
+
+Unlike the previous case, this time the record is absolute, it is impossible to beat it.
+
+History remembers incredible performances when victory was achieved by only one pawn. Here are two record games.
+
+Kovardzh - Novak (Brno, 1921). Queen's Gambit. 1.d4 d5 2.c4 e6 3.Kc3 c5 4.Cf4 cd 5.C:b8 d4:c3 6.Ce5 cb. White resigned (7.C:b2 Cb4+).
+
+Borochov - Fine (Pasadena, 1932). ALEXina is protected. 1.e4 Kf6 2.e5 Kd5 3.c4 Kb6 4.d4 Kc6 5.d5 K:e5 (5...Kb4 6.c5 Kc:d5 7.a3, also winning with one pawn) 6.c5 Kbc4 7.f4. The blacks surrendered.
+
+The game usually ends with stale mate only in the middlegame or endgame; shorter games end up in the collection of courses. Here are some unique case studies.
+
+ALEXin - Alyss (Poland, 1935). Carocann is protected. 1.e4 c6 2.d4 d5 3.Kc3 de 4.K:e4 Kd7 5.Fe2 Kgf6?? 6.Kd6×! It is curious that the collection of short and paradoxical games contains ten exactly the same encounters with the knight checkmate on d6. The selected sample applies to the fact that white games are here.
+
+Granter - Gailey (Scotland, 1894). Sicilian protection. 1.e4 c5 2.Kf3 Kc6 3.d4 cd 4.K:d4 e5 5.Kb5 Kge7 6.Kd6×.
+
+Maryinovich - Zhivanov (Pancevo, 1946). Sicilian protection. 1.e4 c5 2.Kc3 Kc6 3.Kge2 g6 4.d3 Cg7 5.Ce3 Kd4 6.g3?? Kf3×.
+
+Ivanov - Martynov (Moscow, 1973). French protection. 1.e4 e6 2.d4 d5 3.Kc3 de 4.K:e4 Ke7 5.Cd3 g6 6.Kf6×.
+
+Officially, records for the number of moves are not recorded in chess, but in history there are modern famous games of marathons. The game between A. Wolf and O. Duras (Carlsbad, 1907) was considered the longest for a long time. Wolf, who played white, gave mat to the kept king on the 168th move. It is curious that the same Duras once lost to D. Yanovsky on the 161st move (San Sebastian, 1911). But the record seems to be the game between G. Pilnik and M. Chernyak (Mar del Plata, 1950). It lasted more than 22 hours and ended in a draw on the 191st move. In the USSR championships, the winner is I. Kahn - I. Bondrevsky (Leningrad, 1939), in the non-draw it was recorded on the 142nd move.
+
+Competition problems
+
+11. White starts and wins.
+
+12. White starts and wins.
+
+The deadline for sending the solution is August 20, 1986 with a note on the envelope “Chess competition «Kvant», tasks 11, 12.”

@@ -1,0 +1,73 @@
+---
+id: 1986-5-meledin-fomin-novosibirskiy-gosudarstvennyiy-universitet-im-leninskogo-komsomola-cef06035
+issue: kvant_1986_5
+year: 1986
+number: "5"
+title: Novosibirsk State University named after. Lenin Komsomol
+authors:
+  - Меледин Г. В.
+  - Фомин М. В.
+rubric: ekzamenatsionnye-materialy
+rubric_sub: Экзаменационные материалы
+page_first: 53
+page_last: 53
+page_labels: "51"
+tag: H8JC
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 9e86826b0493c1de1641640cbdfdd800c7e697e12dece8fe11f9bb300fa3536b
+prompt_sha256: draft-1
+translated_from: content/ru/1986/05/articles/17_meledin-fomin-novosibirskiy-gosudarstvennyiy-universitet-im-leninskogo-komsomola-cef06035.md
+source_content_sha256: 57322016069558df7805c60d7e8e30ee83c7af1fa7a02f87946c5da2b3976282
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 51⟧
+
+Novosibirsk State University named after. Lenin Komsomol
+
+Mathematics
+Written exam
+Option 1
+(mechanics, mathematics, physics and economics)
+1. It is known that $x_1=4x_2$, where $x_1$ and $x_2$ are the roots of the equation $x^2-(a+3)x+2a=0$. Find $a$.
+2. Solve the equation
+$$\sin 2x+\cos 6x=1-2\cos^2\left(5x+\frac{\pi}{4}\right).$$
+3. In a trapezoid ABCD with base AD and BC, the bicector of angle BAD passes through the midpoint M of side CD. It is known that $|AB|=5$, $|AM|=4$. Find the length of segment BM.
+4. Solve the inequality
+$$\frac{9-5^2}{3\cdot 5^2}-2\cdot 5^2+1 \leq 4.$$
+5. Through vertex A of the correct terradra ABCD, parallel to the edge CD, a plane β is drawn, which divides the terradra into two parts of equal volumes. Find the distance from vertex B to plane β if the edge of the terradra is 1.
+
+Option 2
+(Faculty of Geology and Geophysics and Faculty of Natural Sciences)
+1. Determine which of two numbers is greater: $7\cdot\sqrt{7}$ or
+$$2\left(\frac{5}{4}\log_8 49-\frac{1}{2}\log_1/4 7\right).$$
+2. Solve the system of equations
+$$\begin{cases} 2x^2+(y-4)^2=6, \\ 4x-xy=2. \end{cases}$$
+3. Points M and N are selected respectively based on BC and lateral side CD of trapezoid ABCD. The receivers AM and BN intersect at point K, with $|AK|=3|KN|$, $|KN|=2|BK|$. Find the ratio $|CN|:|ND|$.
+4. Solve the equation
+$$\cos x+\sin x=\sqrt{2}\cos 9x.$$
+5. In the cube ABCD'A'B'C'D', point M is the midpoint of edge C'D', point N is chosen on edge AB so that $|AN|=2|NB|$. A plane π is drawn through vertex D and points M and N. Determine the values ​​of the other angle between the plane π and the plane of the face ABCD of the cube.
+
+Physics
+Written exam
+Faculty of Physics
+Each one creates a state of five tasks of three types.
+The first three tasks are calculated, of varying difficulty: from standard ones to comparatively complex ones, requiring ingenuity, deep knowledge, and the ability to understand a non-accepting or conventional physical situation.
+
+The fourth task is an assessment task. To solve it, one must try to consider a physical phenomenon, form a simple (since only an estimate is needed) physical model of this phenomenon, select reasonable numerical values ​​of physical quantities and, finally, obtain a numerical result that more or less corresponds to reality. The text of the problem emphasized that the applicant could choose the quantities necessary to solve the problem and their numerical values.
+
+The fifth task is a demonstration task in which you need to explain a physical phenomenon demonstrated in the classroom. Here it is important to try to highlight the main phenomenon and environment of various factors.
+
+Five hours were given to solve the problem, starting from the completion of the demonstration.
+Below, after the text of each problem, the average percentage of those who solved it is indicated in parentheses.
+
+Option 1
+1. An incompressible liquid is poured into a cylinder with cross-section $S_1$, on top of which a piston (Fig. 1) is placed. Inside this piston there is a cylindrical insert with a cross-section $S_2$. The friction force between the piston and the insert can reach a value of F; There is no friction between the piston and the cylinder walls. With what minimum force must you press down on the attachment from above to force it out of the piston? Don't take force into account either. (46%)
+2. In the circuit shown at figure 2, the direction to the capacitor $C_2$ is equal to U, and the capacitor $C_1$ is not charged. Switch K is switched alternately to positions A and B. Determine how much heat is released after a very large number of switches. (39%)
+3. A rod AC (Fig. 3), on which two identical weights B and C are attached, is suspended by a point A from a very long thread DA (DA>>AC). The rod is held in the horizontal position in which the thread was vertical and then released. What will be the speed of point A at the moment when the rod passes the lowest position? Neglect the mass of the rod and thread, $AB=l$, $BC=2l$. (16%).
+4. A passenger on an airplane flying at an altitude of 10 km sees the sky rising. Estimate how long it will take for the observed person standing on the ground under the plane to see Colon. (67%)
+5. Three rollers are placed on an inclined plane at equal distances from each other. The outer rollers are easy to turn, the middle one is secured. When the block is placed on the middle and bottom roller, it slides off. When it is placed on the top and middle, it does not move. Explain the phenomenon. (33%)

@@ -1,0 +1,67 @@
+---
+id: 1986-5-u-nas-v-gostyah-stengazeta-andromeda-falta-mfti-26c97182
+issue: kvant_1986_5
+year: 1986
+number: "5"
+title: Our guest is the wall newspaper “Andromeda” of FALT MIPT
+rubric: kvant-ulybaetsya
+rubric_sub: «Квант» улыбается
+page_first: 10
+page_last: 10
+page_labels: "8"
+tag: 7NSR
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: ee131216d4a1783a7f4feda3be50175915538b3fb667880db00e485151fc0e88
+prompt_sha256: draft-1
+translated_from: content/ru/1986/05/articles/04_u-nas-v-gostyah-stengazeta-andromeda-falta-mfti-26c97182.md
+source_content_sha256: ca06d712b082f214ac60dd692a3d832bcc48f382402c54d554a2c58dc99946fa
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 8⟧
+
+Stepnewspaper is our guest
+"Andromeda" FALT MIPT
+
+FALT is the Faculty of Aeromechanics and Flight Technology of the Moscow Institute of Physics and Technology. It is described in detail in «Kvant» No. 5 for 1975. And today we provide a page of our magazine with a separate issue of the student newspaper of this faculty.
+
+About goals and achievements
+It is better to find a whole worm in a bitten apple than half of it.
+
+Announcement
+I exchange one large stone for two small ones. Sisyphus.
+
+About electronic
+If you want to turn on the light bulb, then:
+1. Insert the plug from the light bulb into the power socket.
+2. Press the switch button.
+3. Make sure the light comes on.
+4. Wait a few minutes, and then, after floating on your finger, touch the light bulb with it - if turned on correctly, it should be hot.
+
+Advice
+An electric light bulb should not burn out if the tungsten filament is lubricated with sunflower oil.
+
+How to make a barometer
+Materials:
+1. Birch stake 2. Plywood (12 mm). 3. Rope. 4. Nails.
+
+Manufacturing:
+according to the attached drawing.
+
+Principle of action.
+1. The tail will survive - the wind.
+2. The tail will not survive - there is no wind.
+3. The tail stands on end - in front of a thunderstorm.
+4. Rain is dripping from the tail.
+5. A shadow falls from the tail - it’s sunny.
+6. There is no shadow from the tail - it is cloudy.
+7. There is frost on the tail - frost.
+8. The tail is not visible - fog.
+
+News
+Small-sized wind tunnels for M=20 of continuous operation with Re up to 10⁸ have gone on sale at the Detsky Mir store of the local city industrial trade. The game will be of interest to senior and junior researchers.
+(A note for those who don’t know: M is the Mach number, equal to the ratio of the speed of gas flow to the speed of sound in this gas; Re is the Reynolds number, see the physical encyclopedic dictionary.)

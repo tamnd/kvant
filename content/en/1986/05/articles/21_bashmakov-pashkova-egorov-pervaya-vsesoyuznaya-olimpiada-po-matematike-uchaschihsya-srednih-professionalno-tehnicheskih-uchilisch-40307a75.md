@@ -1,0 +1,77 @@
+---
+id: 1986-5-bashmakov-pashkova-egorov-pervaya-vsesoyuznaya-olimpiada-po-matematike-uchaschihsya-srednih-professionalno-tehnicheskih-uchilisch-40307a75
+issue: kvant_1986_5
+year: 1986
+number: "5"
+title: The First All-Union Olympiad in Mathematics for Students of Secondary Vocational Schools
+authors:
+  - Башмаков М. И.
+  - Пашкова Л. М.
+  - Егоров А. А.
+rubric: olimpiady
+rubric_sub: Олимпиады
+page_first: 59
+page_last: 59
+page_labels: "57"
+tag: U15X
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: c12edd8cd51dafc1b72fdf557bd91949c4eee3145fad5823d3c4f0c5899e7699
+prompt_sha256: draft-1
+translated_from: content/ru/1986/05/articles/21_bashmakov-pashkova-egorov-pervaya-vsesoyuznaya-olimpiada-po-matematike-uchaschihsya-srednih-professionalno-tehnicheskih-uchilisch-40307a75.md
+source_content_sha256: 58bf5f4a48170b6c09ccaa693cf0ce140f0b8d8152ed92360107839557e0ee43
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 57⟧
+
+The First All-Union Olympiad in Mathematics for Students of Secondary Vocational Technical Schools
+
+From May 20 to 25, 1985, the first All-Union Olympid in mathematics for secondary students of secondary vocational technical schools was held in Dnepropetrovsk, one of the largest industrial centers of our country.
+
+School, city, regional, resource tourism tourism Olympids for vocational school students have become traditional in recent years in many areas and resource countries. So, in Leningrad, Georgia, Volgoda, Uzbekistan, these Olympids have been held for about ten years.
+
+Since 1985, Olympids in mathematics, physics and chemistry have been held on an All-Union scale.
+
+The form of the final round of the first Mathematical Olympiad was largely non-educational. On the first day, participants solved problems and shared their solutions with the jury. Among the tasks were those with an applied focus, requiring ingenuity, allowing non-standard solutions.
+
+The second day was experimental in nature. The day before, first- and second-year students were given a lecture on the use of microcalculators, and on the day of the Olympiad they were offered a research problem, to solve which it was necessary to turn to computing. A program was previously introduced into this device (Elektronka B3-34 and MK-54 microcalculators were used), allowing experimental data to relate to a certain physical situation (for example, the height at which the center of a ball thrown above the table with a certain initial speed is located at any given moment in time). Students were asked to find various characteristics of the experiment (for example, the moments of the ball falling, the initial speed, the radius of the ball, etc.).
+
+Third-year students were given a lecture on a new topic for them - “Geometric probabilities”, and on the day of the Olympiad they were given problems on the topic of this lecture. We propose to highlight the tasks of the second day of the Olympiad in individual countries.
+
+The results of the Olympics turned out to be replacements. Many participants solved all the problems proposed to them. The experimental round was especially active. All participants worked very enthusiastically and showed a lot of ingenuity and imagination.
+
+Of the 93 participants, 44 were loaded with diplomas of winners of I, II, III degrees. Many different special recognitions and certificates were awarded. Among the winners should be those loaded with 1st degree Diplomas.
+
+For the first year: Vlashin Oleg (SPTU No. 4, Ivanovo-Frankivsk), Gvozd Zoryana (SPTU No. 32, Lviv), Kucherov Nikolay (SPTU No. 133, Minsk), Moskovenko Sergey (SPTU No. 8, Stryi), Romanenko Valery (SPTU No. 17, Kyiv), Shuvalov Sergey (SPTU No. 120, Moscow);
+
+repeat course: Hertsber Alexander (SPTU No. 127, Leningrad), Malk Vladimir (SPTU No. 2, Kokchetav);
+
+in the third year: Kovtun Serdey (SPTU No. 4, Sinevka village, Sumy region), Konstantin Konchinsky (SPTU No. 3, Sevastopol), Rozuvaylo Oleg (SPTU No. 147, Leningrad).
+
+The Olympiad was organized very well. Hospitable farms from Dnepropetrovsk did everything to make it a bright holiday of knowledge. Various interesting meetings took place between the participants and the jury members, among whom there were many famous scientists from Moscow, Leningrad, Kyiv, Dnepropetrovsk, Kazan, and Volgograd. The work of the jury was headed by Corresponding Member of the USSR Academy of Sciences A. A. Stogniy (Kyiv).
+
+The first All-Union Olympiad for vocational school students showed that our vocational school began to develop important traditions for developing the creative abilities of future workers and their interest in science.
+
+Objectives of the 1st All-Union Olympiad in Mathematics for SPTU Students
+
+First day
+
+I year
+
+1. Two people climb down a moving expalator. The first moves along the expalator at a speed half as fast as the speed of the expalator, and the second (the same relative to the expalator) at a speed half as fast as the speed of the first. The first one counted 100 steps while descending. How many steps does the second one count?
+
+2. The point moves along the OX axis in such a way that the dependence of its coordinate x=x(t) on time t is described by a polynomial of the 3rd degree. The speed of the point is zero at times t=3 and t=7. At what point in time is the acceleration of a point equal to zero?
+
+3. A steel tile shaped like a triangle on sides 3, 4 and 5 was placed on a large piece of paper and outlined with a pencil. Using only this tile and a pencil, construct the bisector intersection point of the drawn triangle.
+
+II course
+
+1. A rectangular metal box without a lid, 50 cm high and 1 m³ in volume, was painted inside and out. The painting took 530 g of paint at a consumption of 50 g per m². Find the dimensions of the box.
+
+2. Given a square ABCD. The line segment connecting vertex B to the middle of side CD intersects diagonal AC at point K. Find angle AKB.
+
+3. The part has the shape and dimensions indicating figure. What should the height h₁ of the base of the part be so that the center of mass of the part
