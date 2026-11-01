@@ -1,0 +1,56 @@
+---
+id: 1980-3-zadachi-nashih-chitateley-0686a487
+issue: kvant_1980_3
+year: 1980
+number: "3"
+title: 读者的任务
+rubric: smes
+page_first: 10
+page_last: 10
+page_labels: "8"
+tag: G54U
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 3f9fbc4f51c578e29f95208cf813a2901bc6aade8e68e84b55b1a0cca9522cb8
+prompt_sha256: draft-1
+translated_from: content/ru/1980/03/articles/03_zadachi-nashih-chitateley-0686a487.md
+source_content_sha256: 11536a3db96f21d1e111ac8fe8df5e9012a0603367a33003dfa12b7153fb6dfb
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 8⟧
+
+每一个都是中心对称，即旋转180°就是旋转180°•5=2•360°+180°（见下面问题9）。因此，f 是中心对称性，因此 A 是该对称性的中心。如何找到A点？我们取任意点 A' 并构造点 B' = s₁(A')、C' = s2(B')、D' = s₃(C')、E' = s₄(D')、F' = s₅(E')。
+
+则f(A') = E'，即A'点和F'点相对于原点A对称(图12)，因此A是线段A'F'的中点。找到 A 后，很容易找到所需五边形的其余顶点。
+
+锻炼
+1. 有多少个平面运动可以将给定的线段 AB 转移到自身？
+2. 证明以下移动性公理：如果 |AB| = |A₁B₁|，且 A ≠ B，则恰好存在一个平移对应 A₁、B₁ 的 A、B 点的保向运动，并且恰好存在一个平移对应 A₁、B₁ 的 A、B 点的变向位移。
+3. 有多少种翻译将正多边形转化为自身？其中有多少人仍然保持方向？改变方向？笔记。利用每个运动都会将外接圆的中心移入自身的事实。
+4. 如果 f(A) = A，则 A 点称为位移 f 的不动点。定理 1 中列出的每个位移有多少个不动点？
+5. 如果 f(l) = l，则直线 l 称为位移 f 的固定线。每个原理有多少条固定线：S = 1/1 + a₁ + + 1/1 + a2 + ... + 1/1 + aₙ，其中所有数字 aᵢ 均为正数且 a₁ • a2 • ... • aₙ = 1？
+
+锻炼
+我们的读者
+
+1. 当所有数字 aᵢ 均为正且 a₁ • a2 • ... • aₙ = 1 时，和 S = 1/1 + a₁ + + 1/1 + a2 + ... + 1/1 + aₙ 可以取什么值？
+A. Ermilov
+2. 如果数字 2²k + 2ⁿ + 1 是素数，则它是数字 2²k+1 - 1 的约数。证明。 G·卡诺克
+
+3. 证明等式：
+a) cos 2π/21 + cos 8π/21 +
++ cos 10π/21 = √21 + 1/4.
+
+6) cos 8π/35 + cos 12π/35 +
++ cos 18π/35 = 1/2 cos π/5 +
++ √7/2 sin π/5.
+
+M·罗森伯格
+
+4. 弹弓上悬挂着一个重物（图1）。弹弓宽端慢慢放下。确定负载将从弹弓 φ 上滑落的倾斜角 φ、悬挂负载的螺纹长度 l。
+
+M·韦克斯曼

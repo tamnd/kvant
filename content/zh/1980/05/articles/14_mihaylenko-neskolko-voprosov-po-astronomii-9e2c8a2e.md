@@ -1,0 +1,72 @@
+---
+id: 1980-5-mihaylenko-neskolko-voprosov-po-astronomii-9e2c8a2e
+issue: kvant_1980_5
+year: 1980
+number: "5"
+title: 关于天文学的几个问题
+authors:
+  - Михайленко Н. Н.
+rubric: smes
+page_first: 44
+page_last: 44
+page_labels: "42"
+tag: TIE7
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 7da0991f788c1d8e420875f29ce4d5b56954d78bcafc18a35b9fd1a48c3e5e39
+prompt_sha256: draft-1
+translated_from: content/ru/1980/05/articles/14_mihaylenko-neskolko-voprosov-po-astronomii-9e2c8a2e.md
+source_content_sha256: 4004bc007aaca1622537da47c2aa2aa182b1d04be525fbc52e6c14e7b5902445
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 42⟧
+
+检流计针的偏转角β等于
+
+$$\beta = kq = kC \frac{r}{R+r} = a \frac{r}{R+r}.$$
+
+F581。一个男人闭着一只眼睛站在镜子前。他通过将一张纸啄到镜子上来关闭​​镜子中闭着的眼睛的图像。一个人睁开闭着的眼睛和闭上睁着的眼睛会看到什么？
+
+在 图 上，红线显示从左眼到右眼的光线路径，蓝线显示从右眼到左眼的光线路径。由于这些光线，一只眼睛的图像可以被另一只眼睛看到。由于眼睛是对称的，很明显，当一个人将一张纸贴在镜子的A区域时，他总是会在他闭上眼睛的图像的位置看到这张纸。
+
+F582。物体浮在水中，其体积的 2/3 浸入水中。如果盛有水的容器在垂直方向上以$\vec{a}$加速度混合，则身体体积的哪一部分将在水下？
+
+有两种力作用在身体上：重力 $M\vec{g}$（M 是身体的质量）和力 $\vec{F}$，它等于作用在身体表面小区域上的所有流体压力 (图 1)。根据牛顿第二定律
+
+$$\vec{F} + M\vec{g} = M\vec{a}.$$
+
+为了找到 $\vec{F}$，我们将使用以下技术。让我们选择液体中的体积$V_1$，等于浸入液体中的身体部分的体积，并且具有身体浸入部分的形状（图2）。其余液体对这个隔离体积的作用力与作用在身体上的力 $\vec{F}$ 完全相同。由于所分配的液体体积与容器一起以加速度 $\vec{a}$ 向上移动，则
+
+$$\vec{F} + m\vec{g} = m\vec{a},$$
+
+其中 $m$ 是分配的液体体积的质量。这就是为什么
+
+$$M(\vec{a} - \vec{g}) = m(\vec{a} - \vec{g}) \Rightarrow M = m.$$
+
+但是$M = \varrho_T V$和$m = \varrho V_1$，其中$V$是物体的体积，$\varrho_T$是物体的密度，$\varrho$是液体的密度。因此，
+
+$$\varrho_T V = \varrho V_1.$$
+
+从这里
+
+$$\frac{V_1}{V} = \frac{\varrho_T}{\varrho}.$$
+
+正如我们所看到的，该比率不取决于船只的加速度 $\vec{a}$，因此对于任何加速度都是相同的。因此，无论容器以多大的加速度$\vec{a}$移动，浸入水中部分的体积将是本体总体积的2/3。
+
+I·斯洛沃杰茨基
+
+关于天文学的几个问题
+
+1. 地球上是否有一些地方全年白天的长度等于夜晚的长度？
+
+2. 赤道有季节变化吗？
+
+3. 赤道一年中什么时候最热？
+
+4. 夏季日光浴当天（6 月 22 日），日中高度（太阳距地平线的最高高度）在中纬度农村地区最高，在中南纬度地区最低。那么在赤道-中间？
+
+H·米哈伊连科

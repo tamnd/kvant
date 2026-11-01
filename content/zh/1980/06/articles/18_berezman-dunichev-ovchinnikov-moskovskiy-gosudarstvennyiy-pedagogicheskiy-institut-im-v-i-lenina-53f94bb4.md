@@ -1,0 +1,100 @@
+---
+id: 1980-6-berezman-dunichev-ovchinnikov-moskovskiy-gosudarstvennyiy-pedagogicheskiy-institut-im-v-i-lenina-53f94bb4
+issue: kvant_1980_6
+year: 1980
+number: "6"
+title: 莫斯科国立师范学院以此命名。 V·I·列宁娜
+authors:
+  - Березман А. М.
+  - Дуничев К. И.
+  - Овчинников О. Ю.
+rubric: ekzamenatsionnye-materialy
+page_first: 46
+page_last: 46
+page_labels: "44"
+tag: 3YNT
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 0848892644066a63899b21c93ca35ccdb1585e3a84b3f62847e554036d4d896a
+prompt_sha256: draft-1
+translated_from: content/ru/1980/06/articles/18_berezman-dunichev-ovchinnikov-moskovskiy-gosudarstvennyiy-pedagogicheskiy-institut-im-v-i-lenina-53f94bb4.md
+source_content_sha256: 16b7faaa72b32a7c1f570c7e1eda524b46bb0f281ec430c1b284102214a8089d
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 44⟧
+
+仅包含一个点。找到这个点。
+
+13. 该图由函数图像 $y = \sqrt{x}$、直线 $y = 2$ 和 y 轴界定。应在该函数的图形中的哪一点检查其切线，以便从指示的图形中切掉面积最大的三角形？
+
+14. 点$(x; y; z)$位于平面$x + y + z = 6$上。证明$x^2 + y^2 + z^2 \geq 12$。
+
+15. 证明对于任意自然数 $n$ 等式
+
+$$\left(1 - \frac{4}{1}\right)\left(1 - \frac{4}{9}\right)\left(1 - \frac{4}{25}\right) \dots$$
+
+$$\dots \left(1 - \frac{4}{(2n-1)^2}\right) = \frac{1+2n}{1-2n}.$$
+
+16. 在三角形 $ABC$ 中绘制中线 $CM$。使$l$平行于$(CM)$，分别与$(BC)$、$(CA)$和$(AB)$相交于点$A_1, B_1$和$C_1$。证明$A_1C_1 + B_1C_1 = CA + CB$。
+
+17. 圆$K_1$在点$A$处与圆$K_2$内切，$[BC]$是圆$K_2$在点$D$处与圆$K_1$相切的弦。证明$BAD = DAC$。
+
+18. 在直角三角形中，$ABC$ [BD] 是从直角顶点到斜边 $AC$ 的高度。证明
+
+$$\frac{1}{|BD|^2} = \frac{1}{|AB|^2} + \frac{1}{|BC|^2}.$$
+
+19. 证明在任意三角形中
+
+$$\frac{1}{r} = \frac{1}{h_a} + \frac{1}{h_b} + \frac{1}{h_c},$$
+
+其中 $h_a, h_b, h_c$ 是三角形的高长，$r$ 是所画圆的半径。
+
+N.佩雷斯托克、M.亚德连科
+
+罗斯托夫国立大学
+
+（力学与数学学院）
+
+数学
+
+笔试
+
+选项1
+
+（数学系）
+
+1. 求高度为 $H$ 、底半径为 $R$ 的给定圆锥内接最大体积的圆柱体的高度。
+
+2. 解方程
+
+$$\log \frac{1}{3}\left(2\left(\frac{1}{2}\right)^x-1\right) = \log \frac{1}{3}\left(\left(\frac{1}{4}\right)^x-4\right).$$
+
+3. 解方程
+
+$$\sin^2 x + \sin^2 2x + \sin^2 3x = \frac{3}{2}.$$
+
+莫斯科国立师范学院以此命名。 V·I·列宁娜
+
+数学
+
+笔试
+
+选项1
+
+（数学系）
+
+解决以下任意五个问题：
+
+1. 求直线$y = -x^2 + 6x - 2$和$y = x^2 - 2x + 4$之间所围成的图形的面积。
+
+2. 解方程
+
+$$\frac{1-\cos 2x}{\sin 2x} = 0.$$
+
+3. 解方程
+
+$$\log_{0,1}\left(x^2+x-2\right) > \log_{0,1}(x+3).$$

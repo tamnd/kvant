@@ -1,0 +1,64 @@
+---
+id: 1980-3-o-polupustoe-ravno-polupolnomu-57389431
+issue: kvant_1980_3
+year: 1980
+number: "3"
+title: 半空等于半满
+authors:
+  - О. М.
+rubric: smes
+page_first: 42
+page_last: 42
+page_labels: "40"
+tag: 3OUX
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 789bb56f96f5b95fd9d8c904833f13d40b8ba87c0966bca13caf1542397bccf1
+prompt_sha256: draft-1
+translated_from: content/ru/1980/03/articles/13_o-polupustoe-ravno-polupolnomu-57389431.md
+source_content_sha256: a61d56dbfdbb766bf51717d708981e813e2e89ed078c018634891d37f2e8713f
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 40⟧
+
+为实现目标而行走。 “几乎”非常清楚，任务不可能在少于 22 步的时间内完成，但这必须得到证明。
+
+例3：图6所示的动作需要13步才能完成。
+
+让我们指出可能的选项之一：
+
+1. a2—c2;
+2. a1—c1—c3;
+3. b1—b3—d3;
+4. b2—d2—d4;
+5. c2—c4—e4等
+
+在这种情况下，与之前的情况一样，我们依次进行相同的物理配置。在下一个任务中，这种情况将不再发生。
+
+任务 4. 图 7 所示的动作能否在 18 步以内完成？
+
+如果按顺序将整个 fiche 配置作为一个整体进行洗牌，则需要 18 次移动。我们建议您首先将所有八个phische排列在一个大对角线上，然后使用教育链作为处理phische的地方。
+
+任务 5. 如果给定一块尺寸为 100x100 的棋盘，并且八个棋子相对于该棋盘左下角的初始位置保持不变，则用不到 300 步的步数解决上一个问题。
+
+这里还有两个看起来几乎相同的任务，但需要不同的技术来实现其目标。
+
+任务 6. 在不超过 20 步的时间内，将 3 个鱼方格 a1、b1、c1 移动到方格 f6、g6、h6。
+
+任务7. 在不超过20步的时间内，将三个鱼田a1、a2、b1移动到田地g8、h7、h8。
+
+半空等于半满
+
+（给编辑的信）
+
+«Kvant»第9期，1979年，第1页。 34 有一个问题：给定两个容器：3升和5升——以及一个牛奶罐； 4升水怎么倒？
+
+来自乌兰乌德的读者、学生 Valya Korshunova 给我们发了一封信：
+
+“在那里解决的问题可以更容易地解决。为此，我们需要记住另一个问题：“有一桶水。如何从不平坦的一半倒出？在这种情况下，问题的解决方法类似：每个容器必须均匀排水（见图）。结果还剩下$\frac{5}{2} + \frac{3}{2} = 4$升！”
+
+请注意，Valino 的漂亮解决方案仅适用于任务条件中提到的“容器”具有特定形状的情况，例如圆柱体的形状（这正是«Kvant»图中所发生的情况）。

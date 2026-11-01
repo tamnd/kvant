@@ -1,0 +1,49 @@
+---
+id: 1980-3-zadachi-786a0a01
+issue: kvant_1980_3
+year: 1980
+number: "3"
+title: 任务
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 39
+page_last: 39
+page_labels: "37"
+tag: ERT0
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 348496a35a8b2adfe64363bea093ab9a3b3d482be6bce48d3b20d81655fd8366
+prompt_sha256: draft-1
+translated_from: content/ru/1980/03/articles/11_zadachi-786a0a01.md
+source_content_sha256: 004a820158fe92fcf7d8837ef11a53ee1081020c29f756698aecf9063fb6ec2b
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 37⟧
+
+克瓦什特
+对于年轻的学生
+
+任务
+
+1. 两个小学生来买他们的 ABC 书。一个缺了七戈比，另一个缺了一分钱。他们把钱凑在一起，但钱还是不够。底漆的费用是多少？
+
+2. 是否有可能将七个白色主教放在棋盘的黑色方块上（记住：主教沿对角线移动），这样它们就不会彼此重叠？还有八头这样的大象？
+
+3. 一个矩形被一条直线分成两个多边形。然后其中之一被直线分成两部分。然后将三个多边形之一再次分成两部分，依此类推。切割多边形的操作重复100次。运算完成后，计算发现生成的多边形共有302个顶点（每个多边形的顶点是单独统计的）。这可能吗？
+
+4. 计算1+2—3—4+5+6—7—8+9+10—11—12+13+14—... ...+301+302。
+
+5. 在图片中的方块中，用字母 H、O、P、M、A 填充空白单元格，以便在每一行、每一列以及方块的两条对角线上，所有这些字母都出现，每个字母出现一次。
+是否可以填充一个方格的单元格并自动填充其余方格？
+
+小说
+规范
+规范
+规范
+规范
+
+37

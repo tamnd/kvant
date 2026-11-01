@@ -1,0 +1,73 @@
+---
+id: 1980-5-matizen-o-polze-skatyivaniya-sharikov-a85bc946
+issue: kvant_1980_5
+year: 1980
+number: "5"
+title: 关于滚球的好处
+authors:
+  - Матизен В. Э.
+rubric: laboratoriya-kvanta
+rubric_sub: Лаборатория «Кванта»
+page_first: 34
+page_last: 34
+page_labels: "32"
+tag: Y2OK
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 0f8ee76cc9bebcb0a6345b2aa0c9bb7c1d0af6f4a2bf4e96621cb11629e034a9
+prompt_sha256: draft-1
+translated_from: content/ru/1980/05/articles/10_matizen-o-polze-skatyivaniya-sharikov-a85bc946.md
+source_content_sha256: 4e28c06c754f3ea1d73092bdfe8f1659109d046a7234f74e27804f87fd22ffe6
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 32⟧
+
+V·马蒂森
+
+关于好处
+滚球
+
+将卵石扔入水中时，查看颗粒或形成的颗粒；否则这样的投掷将是空洞的乐趣......
+科兹玛·普鲁特科夫
+
+我们邀请您继续这种体验。
+
+取一块压板并将其放在桌子上。用盘子盖住肿块，然后在压力下将其擀开。板的运动应该是具有相对较小半径的圆形运动。确保板上的所有点都在桌子上方相同高度处描绘出相同半径的圆。
+
+尝试预测盘子的形状。
+
+首先，顶面和底面相等：在与板相关的报告系统中，桌子执行相同的旋转。因此，最终的物体必须由两个相同的半部分组成。
+
+其次，盘子携带的团块绕着某个点滚到桌子上。很自然地假设该板将具有允许其自由滚动的形状。特别是通过有限表面可以满足该要求。
+
+事实上，板块变成了两个圆锥体，与相对的 obshezoniya 对称。
+
+让我们用 α 表示圆锥体横截面顶点处的正角，用 r 表示圆锥体的半径，用 h 表示它们的高度（参见 图）。设板块的体积等于V，板的旋转半径等于R。让我们找出指示量之间的关系。自从
+
+$$h = \frac{R}{2\cos\alpha}, \quad r = h \mathrm{tg}\alpha \quad V = \frac{2}{3}\pi r^2 h,$$
+
+我们得到
+
+$$\frac{12}{\pi} \frac{V}{R^3} = \frac{\sin^2\alpha}{\cos^5\alpha}.$$
+
+换句话说，如果要获得给定角度 α 的圆锥体，量 V 和 R 必须在完整的对应定义中相互关联。
+
+所以，在 α = 45°
+
+$$\frac{V}{R^3} = \frac{\pi}{3\sqrt{2}}.$$
+
+如果初始板块的形状为半径为 q 的球，则
+
+$$V = \frac{4}{3} \pi q^3 \quad \frac{\varphi^3}{R^3} = \frac{1}{4\sqrt{2}}.$$
+
+从这里
+
+$$\frac{R}{\varphi} = 2^{\frac{5}{6}} \approx 2,$$
+
+即R≈2φ为板球直径近似相等时板的旋转半径。
+
+我们还注意到，不可能获得角度 α 明显小于 45° 的正锥体。不难解释原因。角度α越小，锥体母线的长度越大（板体积恒定），这意味着施加压力的表面越大。在这种情况下，事实证明实际上不可能形成圆锥体的顶点部分，因为主要压力到达靠近圆锥体区域的部分。此外，较小的角度α对应于较大的R值，此时不正确的手部动作会极大地扭曲最佳身体的形状。

@@ -1,0 +1,55 @@
+---
+id: 1980-5-meledin-penenko-novosibirskiy-gosudarstvennyiy-universitet-im-leninskogo-komsomola-0268c7d3
+issue: kvant_1980_5
+year: 1980
+number: "5"
+title: 新西伯利亚国立大学以该大学的名字命名。列宁共青团
+authors:
+  - Меледин Г. В.
+  - Пененко В. В.
+rubric: ekzamenatsionnye-materialy
+page_first: 53
+page_last: 53
+page_labels: "51"
+tag: RFG9
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 8150f879d0196f4b45d018d5e9b13555766bcfbabe7a0d841ec72a191648b452
+prompt_sha256: draft-1
+translated_from: content/ru/1980/05/articles/18_meledin-penenko-novosibirskiy-gosudarstvennyiy-universitet-im-leninskogo-komsomola-0268c7d3.md
+source_content_sha256: 29de527d5ef5028d3743deb22a14eb3c81a751dfd9a88144079037c4424d37b2
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 51⟧
+
+选项2
+（地质与地球物理学院、自然科学学院）
+
+1. 两辆车正在驶向对方，并将在 6 天后相遇。如果第一辆车持续 1.8 天，第二辆车持续 1.6 天，那么他们总共将行驶 520 公里。如果第一艘船走了第二艘船所走路线的 2/3，而第二艘船则走了第一艘船所走路线的 1/3，那么第一艘船将比第二艘船少 2 天的时间。每辆车每天行驶多少公里？
+
+2. 求解系统方程
+$$\begin{cases}
+\frac{x+y}{x-y} + 6 \frac{x-y}{x+y} = 5 \\
+xy = 2.
+\end{cases}$$
+
+3. 解方程
+$$2 \cos 2x - 2\sqrt{3} \sin 2x + 2\sqrt{3} \sin x - 6 \cos x - 1 = 0.$$
+
+4. 在小四边形 ABCD 中，角 ABC 是直角，|AB| = |BC| = a.从顶点 D 开始，与从中心开始一样，画一个圆，接触边 AB、BC 以及通过顶点 A 和 C 的线。确定由该圆界定的圆与四边形 ABCD 的交面积。
+
+5. 立方体边$ABCDA_1B_1C_1D_1$的长度等于1，$ABCD$是底边，$AC$是底边的对角线，$AA_1, BB_1, CC_1, DD_1$是侧边。点 M、N 和 K 分别位于边 $AA_1, D_1C_1$ 和 $CC_1$ 上，且$|A_1M| = \frac{\sqrt{3}}{2}, |D_1N| = \frac{\sqrt{2}}{2}, |CK| = \frac{\sqrt{3}}{3}$。线l经过点K并且平行于线MN。求直线 l 包含在立方体内部的部分的长度。
+
+物理
+
+笔试
+物理学院
+1979年，物理笔试由三类五题组成。
+
+前三个任务是计算任务，难度各异：从标准到比较，需要独创性、深厚的知识以及理解不适当或有条件的物理情况的能力。
+
+第四个任务是评估任务。要解决它，您需要了解所考虑的物理现象，制定该现象的简单（因为只需要评估）物理模型，选择合理的物理量值，
