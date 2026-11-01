@@ -1,0 +1,100 @@
+---
+id: 1982-6-karapetyants-kovalenko-shutko-rostovskiy-gosudarstvennyiy-universitet-im-m-a-suslova-bb1240c7
+issue: kvant_1982_6
+year: 1982
+number: "6"
+title: 罗斯托夫国立大学以该大学的名字命名。 M·A·苏斯洛娃
+authors:
+  - Карапетянц Н. К.
+  - Коваленко Н.
+  - Шутько В. М.
+rubric: ekzamenatsionnye-materialy
+page_first: 44
+page_last: 44
+page_labels: "42"
+tag: 32UX
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: b60c28b5b5a16990de2c9c76e143c7a00cdd6fceb9ac39e406bbff5b0b61ebc8
+prompt_sha256: draft-1
+translated_from: content/ru/1982/06/articles/13_karapetyants-kovalenko-shutko-rostovskiy-gosudarstvennyiy-universitet-im-m-a-suslova-bb1240c7.md
+source_content_sha256: aac43ceb48928227221b05fc5d5f96b323a657ae03dc397e492e36d3f5b8f7a5
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 42⟧
+
+8. 求解方程组
+$$\begin{cases} |x-y|=1 \\ |x|-|y|=1. \end{cases}$$
+
+9. 根据序列极限的定义，证明序列$a_n = \frac{n^2+1}{n^2+2}$有极限1。
+
+10. 求函数 $y = |2-x^2| - 2|$ 的单调区间和极值点。绘制该函数的图形。
+
+11. 求函数$a)$$y = x \cdot e^{-3x}$的单调区间和极值点；
+$6)$ $y = \frac{x}{\ln x}$.
+
+12. 证明对于任意$a$和$b$，函数$y = 3x^4 - 4x^3 + 6x^2 + ax + b$只有一个极值点。
+
+13. 在区间 ] 0 的什么点； $\frac{\pi}{2}$ [
+函数$y = \mathrm{tg} x + \frac{3}{4} \text{ctg } x$取最小值吗？
+
+14. 对于参数$a$的取值，函数$y = (\sqrt{3} \text{ctg } x + a^2)^3 \cdot \text{ctg } x$在区间] 0上达到最小值； $\frac{\pi}{2}$ [
+在$x = \frac{\pi}{3}$点？
+
+15. 当参数$a$取什么值时，函数$y = x^2 - 4ax - a^4$的最小值最大？
+
+16. 利用积分的几何意义，计算
+$$\int_0^2 \sqrt{2x-x^2} \, dx.$$
+
+17. 计算以函数 $y = 1 - e^{-|x|}$ 的图形和直线 $y = \frac{2}{3}$ 为界的平面函数绕 x 轴旋转所形成的空间函数的体积。
+
+18. 点$M$和$N$是三角形$ABC$的边$AC$和$BC$的中点，点$M_1$和$N_1$是三角形$A_1B_1C_1$的边$A_1C_1$和$B_1C_1$的中点。如果 $\overrightarrow{AB} = \overrightarrow{A_1B_1}$，则向量 $\overrightarrow{M_1}, \overrightarrow{N_1}$ 和 $\overrightarrow{C_1}$ 共面。证明一下。
+
+19. 在三角形 $ABC$ 中绘制中线 $CM$。让我们假设平行于$(CM)$的$l$分别与线$BC$、$CA$和$AB$相交于点$A_1$、$B_1$和$C_1$。证明三角形的边$a < b < c$构成等差数列，然后证明$ac = 6rR$，其中$r$和$R$分别是内接圆半径和外接圆半径。证明一下。
+
+20. 如果三角形边长$a < b < c$构成等差级数，则$ac = 6rR$，其中$r$和$R$分别是内切圆和外接圆的半径。证明一下。
+
+21. 通过弦 $AB$ 的点 $B$ 向圆绘制一条切线，并从点 $A$ 在其上垂下一条垂线 $AC$。证明在 linea $\frac{|AB|^2}{|AC|}$ 中不依赖于和弦 $AB$。
+
+22. 假设一个圆可以内切于 $n$ 边形。设 $r$ 为该圆的半径，$P$ 为 $n$ 边形的周长。证明$n$边形的面积为$S = \frac{1}{2} Pr$。
+
+23. 如果一个球可以内接于多面体，那么它的体积$V$和它的表面积$S$之间存在关系式$V = \frac{1}{3} Sr$（$r$是内接球的半径）。证明一下。
+
+24. 如果点$(x; y; z)$位于平面$x+y+z=3$上，则$x^2+y^2+z^2 \geq 3$。证明一下。
+
+出版物已准备好
+V.维申斯基，N.佩雷斯托克，
+A·萨莫伊连科
+
+罗斯托夫国立大学以该大学的名字命名。 M·A·苏斯洛娃
+
+Matematika
+笔试
+选项1
+（力学与数学学院数学系）
+
+1. 半径为$r$的圆内接于钝角大小为$a$的等边图形。求同一张图周围所描述的圆的长度。
+
+2. 如果您知道切线穿过坐标为 $(0; a)$ 的点，请将切线方程写到函数 $y(x) = -x^2 - 2x$ 的图像中。
+
+3. 解方程
+$$5 \sin \frac{x}{2} + \cos x - 3 = 0.$$
+
+4. 给定一个立方体$ABCDA_1B_1C_1D_1$。如果正三角形直线的侧边与底边形成的二面角等于 $a$，则求该直线的侧边之间的角度。
+
+2. 两个物体根据$s_1(t) = \frac{1}{3} t^3 + \frac{1}{2} t^2 + \frac{1}{2} t + 4$、$s_2(t) = \frac{2}{3} t^3 + \frac{5}{2} t^2 + 12t + 3$定律进行直线运动，其中$t$是以秒为单位的时间，$s_1(t)$和$s_2(t)$分别是第一个和第二个物体所走过的距离（以米为单位）。在每个时刻，从$t=0$开始计算，第一个物体的运动速度将比第二个物体的速度小四倍？
+
+3. 解方程
+$$\cos 7x + \sin^2 2x = \cos^2 2x - \cos x.$$
+
+4. 解决不等式
+$$\log_{\frac{x+3}{x-3}} 4 < 2(\log_2 \frac{1}{2} (x-3) - \log_{\frac{\sqrt{2}}{2}} \sqrt{x+3}).$$
+
+选项3
+（物理系）
+
+1. 一个圆柱体，其高度为 $H$，底半径为 $r$，内接于圆锥体。求圆锥体轴向截面顶点处的角度，在该角度下圆锥体的体积最小。

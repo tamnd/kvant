@@ -1,0 +1,44 @@
+---
+id: 1982-3-zadachi-17786ca9
+issue: kvant_1982_3
+year: 1982
+number: "3"
+title: 任务
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 41
+page_last: 41
+page_labels: "39"
+tag: EEYB
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 22ec20d3acb91b072e87296c1d33139d802c3ae3df24c5bf6c35da7e8329ac6f
+prompt_sha256: draft-1
+translated_from: content/ru/1982/03/articles/12_zadachi-17786ca9.md
+source_content_sha256: 6ec74364a757b09c53d358f1afd5e27eded473b5ece3b076cb6ec33c945c4393
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 39⟧
+
+锻炼
+
+1. 图 显示两个数字谜题。在每个字母中，相同的字母对应相同的数字，不同的数字对应不同的数字。解开这些谜题。
+
+2. 将图中所示的图形切成四个全等的部分，并将它们折叠成正方形，使红色圆圈和蓝色正方形相对于正方形的所有对称轴对称。
+
+3. 从图所示的三个“图案”中，组装三个立方体；然后将这些立方体粘在一起，形成一个长方体$1 \times 1 \times 3$。平行六面体的四个面上写有四个三位数（数字在正方形中的位置并不重要）。这些数字之和最可能的值是多少？
+
+4. 桌子上有七个盒子。中间的盒子是空的，其他六个盒子里装着两枚硬币：一小枚是五分硬币，上面是一枚“戈比币”。
+一次可以将一枚硬币转移到相邻的盒子中，但不能在“戈比片”上放一枚镍币。
+此外，第五个盒子不应包含超过三枚硬币，其余的不应超过两枚。
+是否可以重新排列硬币，以便 a) 前三个盒子各包含两个“戈比币”，后三个盒子各包含两个镍币，b) 前三个盒子各包含两个镍币，最后三个盒子各包含两个“科比币”？
+
+这些任务交给了我们
+N·阿克托诺维奇，
+F. 巴尔捷涅夫、A. 什维佐夫
+
+39

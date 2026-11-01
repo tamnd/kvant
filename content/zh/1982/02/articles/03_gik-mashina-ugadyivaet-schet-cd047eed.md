@@ -1,0 +1,48 @@
+---
+id: 1982-2-gik-mashina-ugadyivaet-schet-cd047eed
+issue: kvant_1982_2
+year: 1982
+number: "2"
+title: 机器猜分数
+authors:
+  - Гик Е. Я.
+rubric: shahmatnaya-stranichka
+rubric_sub: Шахматы
+page_first: 67
+page_last: 67
+tag: F02V
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 9ce0b85913bda2ef8030e5e30fca1a83a4d0ce3193b3239cac272048837d654d
+prompt_sha256: draft-1
+translated_from: content/ru/1982/02/articles/03_gik-mashina-ugadyivaet-schet-cd047eed.md
+source_content_sha256: 31b7337cd8c4dd8f4fe9c7c46b874c53a90b936ba1dd96c4a8e824bb40030725
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+机器猜测分数
+
+在国际象棋世界锦标赛30周年纪念赛开始前，所有预测一致预测卡尔波夫将获胜。但电脑显示的比分比任何人都准确——6:2。然而，世界冠军垫上的摔跤并不容易，因此，在梅拉诺比赛之前，卡尔波夫与他的教练、国际特级大师扎伊采夫和于进行了基础准备。巴拉绍夫。比赛的第一场比赛就显示出这位世界冠军的运动状态非常出色。
+
+V. Korchoi - A. Karpov 后弃兵
+
+1. c4 e6 2. Kc3 d5 3. d4 Ce7 4. Kf3 Kf6 5. Cg5 h6 6. Ch4 0–0 7. e3 b6 8. Jlc1 Cb7 9. Ce2。巴尼奥的第一场比赛也是这样开始的。然后在 9…dc 10. C:c4 Kbd7 11. 0—0 c5 12. dc K:c5 之后，双方机会均等，很快就达成了无协议。这次卡尔波夫避免了快速简化。 9…Kbd7 10.cd ed 11.0—0 c5 12.dc bc 13.Qc2 Jlc8 14.Jfd1 Qb6 15.Qb1.白棋已经陷入困境了。 15…Jfd8 16.Jlc2 Qe6 17.Cg3 Kh5 18.Jlcd2 K:g3 19.hg Kf6 20.Qc2 g6 21.Qa4 a6 22.Cd3 Kpg7 23.Cb1 Qb6。白后和象的走棋不会产生印象，而棋子的走棋会给白棋带来灾难。 24.a3d4!!有效的突破将木板切成两半。它的一侧有一位国王，另一侧有一位被遗忘的王后。 25.柯2。相当于投降，在情况 25 中。布莱克编者还必须找到几个
+
+强有力的举动。 25…de 26.fe c4 27.Ked4 Qc7 28.Kh4 Qe5 29.Kph1 Kpg8 30.Kdf3 Q:g3 31.Jl:d8+C:d8 32.Qb4 Ce4！ 33.C:e4 K:e4 34.Jld4 Kf2+35。 Kpg1 Kd3 36.Qb7 Jlb8 37.Qd7 Cc7 38.Kph1 Jl:b2 39.Jl:d3 cd 40.Q:d3 Qd6 41.Qe4 Qd1+ 42.Kg1 Qd6 43.Khf3 Rb5。白色交易。
+
+第14局比赛结束后，世界冠军的尝试比分变成了5：2，人们感觉事情即将结束。派驻现场观看比赛的记者数量甚至更多。卡尔波夫并没有让他们等待太久的结果。第18场比赛是最后一场。
+
+A. 卡尔波夫 - V. 科尔乔伊 西班牙党
+
+1. e4 e5 2. Kf3 Kc6 3. Cb5 a6 4. Ca4 Kf6 5. 0—0 K:e4 6. d4 b5 7. Cb3 d5 8. de Ce6 9. Kbd2 Kc5 10. c3 d4 11. C:e6 K:e6 12. cd Kc4。在众所周知的延拓理论中 13. K:d4 Ф:d4。双方在 1914 年的卡帕布兰卡-拉斯克比赛中相遇。卡尔波夫在这里同时使用了两个新的缩写。第14局来了13.Ke4！挑战者思考了78分钟，13…Ce7 14. Ce3 K:f3+ 15.Q:f3 0—0 16. Jlfd1 Qe8 17​​.Kf6+！ C:f6 18. ef Qc8 19. fg Jld8 20. h4 白队自信地赢得了比赛。在接下来的“黑色”比赛中，Korchoi 发挥更强 - 14...Kf5 并保住了架子。这是第18场比赛。 13.a4！！ 50分钟后答案才揭晓，但黑方却找不到像样的防守。
+
+3. 一个。库兹涅佐夫，1964 年。白棋先发并获胜。
+
+4. M. Liburkin，1932 年。怀特开始并获胜。
+
+发送决定的截止日期是1982年4月25日（信封上注明“国际象棋比赛“Quaita”，任务3、4））。

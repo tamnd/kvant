@@ -1,0 +1,31 @@
+---
+id: 1982-4-kotov-semeystvo-krivyih-postroennyih-evm-51d9f43e
+issue: kvant_1982_4
+year: 1982
+number: "4"
+title: '[计算机生成曲线系列]'
+authors:
+  - Котов Ю. В.
+rubric: smes
+page_first: 2
+page_last: 2
+tag: WVVN
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: abb23b4f321160df0cc29e9ff1515babda2b8e8a369340b3694df40a6ab473ec
+prompt_sha256: draft-1
+translated_from: content/ru/1982/04/articles/01_kotov-semeystvo-krivyih-postroennyih-evm-51d9f43e.md
+source_content_sha256: ebae1cf2dc7a61440996a58713a854fa5354599c12f22e8db29e85b7f69eda76
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+图 显示计算机使用参数方程绘制的一系列线条
+$$x = F(t, u), y = G(t, u),$$
+其中$0 \leq t \leq 1$和$0 \leq u \leq 1$。当$t$从0变为1时，坐标为$(x, y) = (F(t, 0), G(t, 0))$的点（绘图仪上笔的末端）沿着一定的路径移动，描述上面的曲线，而坐标为$(F(t, 1), G(t, 1))$的点沿着不同的路径移动（底部有两个环的曲线）。通过依次给出参数$u$从0到1返回的中间值，计算机用更细的笔画出了38条中间曲线。一般来说，图使用将一条路径扭曲到另一条路径的过程；你只需要想象当参数 $u$ 变化时，曲线会变化，不是跳跃，而是连续变化。您可以在本期发表的 L. Pontryagin 的文章“代数基本定理”中阅读有关路径变形的内容。
+
+于。科托夫
