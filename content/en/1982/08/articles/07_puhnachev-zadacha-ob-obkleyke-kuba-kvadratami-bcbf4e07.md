@@ -1,0 +1,55 @@
+---
+id: 1982-8-puhnachev-zadacha-ob-obkleyke-kuba-kvadratami-bcbf4e07
+issue: kvant_1982_8
+year: 1982
+number: "8"
+title: '[Problem about covering a cube with squares]'
+authors:
+  - Пухначёв Ю. В.
+rubric: raznoe
+rubric_sub: Разное
+page_first: 23
+page_last: 23
+page_labels: "21"
+tag: G9M8
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: abcaa9fbf1ac9ba21df54e3f8bcaa75557f77e3a90ad4646b7e5a49cda06daae
+prompt_sha256: draft-1
+translated_from: content/ru/1982/08/articles/07_puhnachev-zadacha-ob-obkleyke-kuba-kvadratami-bcbf4e07.md
+source_content_sha256: e8a9d6221d374af7b7a9e6709ac39c190430fab4da651954eca7f02d8d958a0b
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 21⟧
+
+Appendix II
+
+In order to find the total potential energy of a crystal, we first calculate its electrostatic energy. Consider the non sodium Na⁺, located in the center of the cubic lattice, which is depicted at figure 5. Its nearest neighbors are 6 chlorine Cl⁻, located at a distance r=a/2 from it. Each of them creates a potential -e/r=2e/a. According to the principle of superposition, the potential of the sum of charges is equal to the sum of the potential of these charges; therefore, the close connector, the close connector 12 sodium, is located at a distance of a/√2 from the one in question. Their total potential is +12√2e/a=+16.97e/a. Continuing this procedure, we can find that the third connector potential is -9.24e/a, the fourth is +6e/a, ..., the nineteenth is -3.08e/a and so on.
+
+It is clear that summing up all these terms is futile. However, the fact that the signs of the terms are crossed (oppositely charged ones connect with similarly charged ones) suggests that these terms can somehow be rearranged, and the sum we are interested in can be found in a shorter way. Such a regrouping does exist, and it is based on an electronic communication message.
+
+Let's calculate the total charge of all the ions of the cube depicted in figure 5. In this case, we will assume that the cube belongs to only half of each ison located on its face, the fourth of each ison located on the edge, and the eighth part of each ison located at the top. Such an assumption has not been made relatively. If we mentally divide the entire crystal into cubes similar to ours, then it turns out that on the edge it belongs to two cubes at once, but not to the edge - to four, and it belongs at the top - to the cubes. So, the total charge of the cube, calculated in accordance with this arrangement, turns out to be equal to zero! In other words, the proposed method allows you to break the crystal into an electronic one. Coulomb energy is
+
+th neutral cube is equal to
+
+$$-\frac{12}{2} \frac{e^2}{a} + \frac{16,97}{4} \frac{e^2}{a} - \frac{9,24}{8} \frac{e^2}{a} = -2,91 \frac{e^2}{a}.$$
+
+Now we will add one more layer of ins to each cube and again select a neutral cell. The side of this cube is equal to 2a, all of them of the original cube belong to it entirely, and the newly included ones belong to half, fourth or one eighth, depending on where they are located. The electrostatic energy of such a cube, calculated in the previous way, turns out to be equal to -3.50 e²/a. If we take the electron cube from side 3a, then its energy will be equal to -3.49 e²/a. A further increase in the volume of the cube practically does not change anything, and in the end for its energy the value obtained is approximately equal to -3.495 e²/a.
+
+Thus, a well-chosen model, based on an understanding of what is most significant in a given physical situation, allows one to reduce calculations many times over.
+
+Repulsive energy is much easier to calculate. Due to the fact that the repulsion potential kills very quickly, it can be assumed that repulsion is significant only between close connecting parameters between two parameters, and for it the expression +B/a² is immediately obtained. Here B=kb, where k is the number of pairs in the cell. The electrostatic energy of one ison, calculated above, must be multiplied by the same number k, and as a result, an expression is obtained for the total energy of the cube, which is approximated in the main text of the article.
+
+For example:
+
+a) squares on the side 1/√2?
+b) squares on the side √2 and squares on the side √2?
+c) squares on the side √2?
+
+How many squares are needed in each case? How should they be placed on the cube? Look at 4 p. for the answer. covers.
+
+Yu. Pukhnachev

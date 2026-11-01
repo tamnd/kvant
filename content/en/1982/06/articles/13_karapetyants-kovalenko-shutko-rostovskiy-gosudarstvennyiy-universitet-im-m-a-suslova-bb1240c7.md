@@ -1,0 +1,100 @@
+---
+id: 1982-6-karapetyants-kovalenko-shutko-rostovskiy-gosudarstvennyiy-universitet-im-m-a-suslova-bb1240c7
+issue: kvant_1982_6
+year: 1982
+number: "6"
+title: Rostov State University named after. M. A. Suslova
+authors:
+  - Карапетянц Н. К.
+  - Коваленко Н.
+  - Шутько В. М.
+rubric: ekzamenatsionnye-materialy
+page_first: 44
+page_last: 44
+page_labels: "42"
+tag: 32UX
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 1d38e9c36af2b1cf821368db218f89a3e565b720ad853fe3985adf4d12b46a95
+prompt_sha256: draft-1
+translated_from: content/ru/1982/06/articles/13_karapetyants-kovalenko-shutko-rostovskiy-gosudarstvennyiy-universitet-im-m-a-suslova-bb1240c7.md
+source_content_sha256: aac43ceb48928227221b05fc5d5f96b323a657ae03dc397e492e36d3f5b8f7a5
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 42⟧
+
+8. Solve the equation system
+$$\begin{cases} |x-y|=1 \\ |x|-|y|=1. \end{cases}$$
+
+9. Based on the definition of the limit of a sequence, prove that the sequence $a_n = \frac{n^2+1}{n^2+2}$ has limit 1.
+
+10. Find the monotism intervals and extrema points of the functions $y = |2-x^2| - 2|$. Plot a graph of this function.
+
+11. Find the monotality intervals and extrema points of the functions $a)$ $y = x \cdot e^{-3x}$;
+$6)$ $y = \frac{x}{\ln x}$.
+
+12. Prove that the function $y = 3x^4 - 4x^3 + 6x^2 + ax + b$ for any $a$ and $b$ has only one extremal point.
+
+13. At what point in the interval ] 0; $\frac{\pi}{2}$ [
+does the function $y = \mathrm{tg} x + \frac{3}{4} \text{ctg } x$ take the smallest value?
+
+14. For what values ​​of the parameter $a$ does the function $y = (\sqrt{3} \text{ctg } x + a^2)^3 \cdot \text{ctg } x$ reach its minimum value on the interval ] 0; $\frac{\pi}{2}$ [
+at point $x = \frac{\pi}{3}$?
+
+15. At what value of the parameter $a$ is the minimum value of the function $y = x^2 - 4ax - a^4$ greatest?
+
+16. Using the geometric meaning of the integral, calculate
+$$\int_0^2 \sqrt{2x-x^2} \, dx.$$
+
+17. Calculate the volume of the spatial function formed by rotating around the x-axis of a plane function bounded by the graph of the function $y = 1 - e^{-|x|}$ and the line $y = \frac{2}{3}$.
+
+18. Points $M$ and $N$ are the midpoints of side $AC$ and $BC$ of triangle $ABC$, and points $M_1$ and $N_1$ are the midpoints of side $A_1C_1$ and $B_1C_1$ of triangle $A_1B_1C_1$. If $\overrightarrow{AB} = \overrightarrow{A_1B_1}$, then the vectors $\overrightarrow{M_1}, \overrightarrow{N_1}$ and $\overrightarrow{C_1}$ are coplanar. Prove it.
+
+19. In triangle $ABC$ the median $CM$ is drawn. Let us assume that $l$, parallel to $(CM)$, intersects the lines $BC$, $CA$ and $AB$, respectively, at points $A_1$, $B_1$ and $C_1$. Prove that in lines the side of the triangle $a < b < c$ forms an arithmetic progression, then $ac = 6rR$, where $r$ and $R$ are the inscribed and circumscribed circle radii, respectively. Prove it.
+
+20. If the lengths of the side of a triangle $a < b < c$ form an arithmetic progression, then $ac = 6rR$, where $r$ and $R$ are, respectively, the radii of the inscribed and circumscribed circle. Prove it.
+
+21. Through the point $B$ of the chord $AB$ a tangent is drawn to the circle, and from the point $A$ a perpendicular $AC$ is dropped onto it. Prove that in linea $\frac{|AB|^2}{|AC|}$ does not depend on the chord $AB$.
+
+22. Suppose that a circle can be inscribed in a $n$-gon. Let $r$ be the radius of this circle, and $P$ the perimeter of the $n$-gon. Prove that the area of ​​the $n$-gon is $S = \frac{1}{2} Pr$.
+
+23. If a ball can be inscribed into a polyhedron, then its volume $V$ and its surface area $S$ are related by the relation $V = \frac{1}{3} Sr$ ($r$ is the radius of the inscribed ball). Prove it.
+
+24. If the point $(x; y; z)$ lies on the plane $x+y+z=3$, then $x^2+y^2+z^2 \geq 3$. Prove it.
+
+The publication was prepared
+V. Vyshensky, N. Perestok,
+A. Samoilenko
+
+Rostov State University named after. M. A. Suslova
+
+Matematika
+Written exam
+Option 1
+(Department of Mathematics, Faculty of Mechanics and Mathematics)
+
+1. A circle of radius $r$ is inscribed into an equilateral graph with an obtuse angle of magnitude $a$. Find the length of the circle described around the same graph.
+
+2. Write the equations of the tangents to the graph of the function $y(x) = -x^2 - 2x$, if you know that the tangents pass through the point with coordinates $(0; a)$.
+
+3. Solve the equation
+$$5 \sin \frac{x}{2} + \cos x - 3 = 0.$$
+
+4. Given a cube $ABCDA_1B_1C_1D_1$. Find the angle between the lateral edges of a regular triangular straight line if the dihedral angle formed by the lateral edge with the base is equal to $a$.
+
+2. Two bodies perform rectilinear motion according to the laws $s_1(t) = \frac{1}{3} t^3 + \frac{1}{2} t^2 + \frac{1}{2} t + 4$, $s_2(t) = \frac{2}{3} t^3 + \frac{5}{2} t^2 + 12t + 3$, where $t$ is time in seconds, $s_1(t)$ and $s_2(t)$ are the distances in meters covered, respectively, by the first and second bodies. At each moment of time, counting from $t=0$, the speed of movement of the first body will be four times less than the speed of the second body?
+
+3. Solve the equation
+$$\cos 7x + \sin^2 2x = \cos^2 2x - \cos x.$$
+
+4. Solve the inequality
+$$\log_{\frac{x+3}{x-3}} 4 < 2(\log_2 \frac{1}{2} (x-3) - \log_{\frac{\sqrt{2}}{2}} \sqrt{x+3}).$$
+
+Option 3
+(Physics Department)
+
+1. A cylinder whose height has length $H$ and whose base radius is $r$ is inscribed in a cone. Find the angle at the apex of the axial section of the cone at which the volume of the cone will be the smallest.
