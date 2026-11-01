@@ -1,0 +1,39 @@
+---
+id: 1979-3-zadachi-b770c437
+issue: kvant_1979_3
+year: 1979
+number: "3"
+title: 任务
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 44
+page_last: 44
+page_labels: "42"
+tag: CCKP
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 2998ba9d01e49652cb733269f62209cd4dd38c437ee1cb5c855f582c1bb16336
+prompt_sha256: draft-1
+translated_from: content/ru/1979/03/articles/13_zadachi-b770c437.md
+source_content_sha256: cdb27dfa36fcaba93f2ad0bb906799da900aedcece5105c147e94f9498f31181
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 42⟧
+
+任务
+
+1. 读出用数字写成的 14 个单词：
+   5916, 1378, 609136, 6094, 9721,
+   591, 690958, 634, 7958, 8374,
+   61274, 790968, 4242025, 79691,
+为此，请通过将字母乘以数字（相同的字母对应相同的数字）来替换用 图 给出的示例。
+
+2. 在某些圈养者的语言中，八个不同字母I、G、R、E、T、N、O、K的任意组合就是一个单词，没有其他单词。俘虏的首领得知字典的存在后，指示他的朝臣语言学家用俘虏的所有单词编写一本类似的字典。语言学家按照 I、G、R、E、T、N、O、K 的顺序写下字母，并开始按照这个字母表对单词进行排序。他必须说“YOKONTRGI”。接下来他应该写什么字？在 IYONGTCOR 这个词之后呢？在 IGCONTER 这个词之后？您能否向 Linguistit 建议一种在字典中组织单词的简单方法？顺便问一下，最后一句话是什么？
+
+3. 问题是个笑话。房间里有凳子和椅子。每个凳子有 3 个腿，每个椅子有 4 个腿。由于所有的凳子和椅子都坐满了人，房间里只有39条腿。房间里有多少张椅子和多少张凳子？
+
+4. 两个人正沿着地铁自动扶梯的台阶跑上来。一个比另一个跑得快。他们谁能数的步数更多？

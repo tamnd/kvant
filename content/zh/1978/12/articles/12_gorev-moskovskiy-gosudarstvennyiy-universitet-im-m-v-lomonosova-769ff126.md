@@ -1,0 +1,76 @@
+---
+id: 1978-12-gorev-moskovskiy-gosudarstvennyiy-universitet-im-m-v-lomonosova-769ff126
+issue: kvant_1978_12
+year: 1978
+number: "12"
+title: 莫斯科国立大学以它的名字命名。 M·V·罗蒙诺索娃
+authors:
+  - Горев И.
+rubric: praktikum-abiturienta
+rubric_sub: Практикум абитуриента
+page_first: 42
+page_last: 42
+page_labels: "40"
+tag: K7S7
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: f3f787d61df64578fa67622ed2b310ececed036fccd5991eba610fd0becb298e
+prompt_sha256: draft-1
+translated_from: content/ru/1978/12/articles/12_gorev-moskovskiy-gosudarstvennyiy-universitet-im-m-v-lomonosova-769ff126.md
+source_content_sha256: 753398334f82755941d78c353de54649b546566d1668cdf2f2d05d12c5c0e251
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 40⟧
+
+莫斯科国立大学以它的名字命名。 M·V·罗蒙诺索娃
+
+下面我们发布了 1978 年莫斯科国立大学人文学院数学入学笔试的选项。
+
+数学
+
+经济学院政治经济学系
+
+1. 解方程
+$$\log_{(2-2x^2)}(2-x^2-x^4) =
+= 2 - \frac{1}{\log_4(2-2x^2)}.$$
+
+2. 在平面中，给出一个正方形$ABCD$（具有顺序指定的顶点）和一个点$O$。据了解
+$$|OA| = |OC| = 10, \quad |OD| = 6\sqrt{2}$$
+正方形的边长不超过3。求正方形的面积。点 $O$ 位于哪里——正方形之外还是正方形之内？
+3. 查找系统所对应的参数$c$的所有值
+$$\begin{cases} -4x + cy = 1 + c, \\ (6 + c)x + 2y = 3 + c \end{cases}$$
+没有解决办法。
+4. 已经制作了一定数量的电线。如果将其缠绕在可容纳 800 m 电线的线圈上，那么一个线圈将无法完全缠绕。如果您仅使用可容纳 900 m 电线的线圈，那么您会遇到 3 个这样的线圈，并且 1 个线圈将再次无法完全缠绕。如果仅在可处理 1100 m 的线圈上缠绕接线，那么您会发现这样的线圈少了 6 个，但所有线圈都将完全缠绕。布线了多少米？
+5. 查找参数$a$的所有值，对于每个值，函数
+$$y = 5ax - \sin 8x - a \cdot \sin 3x - 3x$$
+增加并且整条线上没有临界点。
+
+经济学院计划与经济控制论系
+1. 找到方程的所有根
+$$|x^2 + 2x - 4| + 2x + 6 = 0,$$
+满足不等式$x + \sqrt{18} < 1$。
+2. 在四边形 $ABCD$ 中，顶点 $B$ 处的角的大小为 $90^\circ$，对角线 $BD$ 是该角的平分线。据了解
+$$\frac{|AB|}{2} = \frac{|BD|}{4\sqrt{2}}.$$
+求向量 $BC$ 和 $AD$ 之间角度的余弦。
+3. 解方程
+$$\log_3(x - \frac{3}{x}) = \frac{1}{\log_4(3x)} + 3.$$
+4. 共有三种合金。第一个含有 45% 锡和 55% 铅，第二个含有 10% 海拔、40% 锡和 50% 铅，第三个含有 30% 海拔和 70% 铅。有必要根据它们创建一种包含 15% 高度的新合金。这种新合金的铅含量最高和最高百分比是多少？
+5. 找到所有实数 $b$ 的集合，其中每个实数的函数
+$$f(x) = 16(b+1)\sin x - \sin 2x - (16b^2 + 32b - 10)x$$
+在整个数轴上都是递减的，并且没有临界点。
+
+心理学学院
+1. 解方程
+$$\log_3 \frac{3}{x} \cdot (\log_2 x) - \log_3 \frac{x^3}{\sqrt{3}} =
+\frac{1}{2} + \log_2 \sqrt{x}.$$
+2. 四边形 $ABCD$ 的对角线 $BD$ 是该四边形的外接圆的直径。如果$|BD| = 2$、$|AB| = 1$、$ABD : DBC = 4 : 3$，计算对角线$AC$的长度。
+3. 行人、行人、行人沿着高速公路以恒定速度向一个方向移动。当行人代码和 velichispedict 处于同一点时，moschilist 落后于他们 6 公里。当那片巨大的叶子达到大小的那一刻，行人已经在他们身后三公里处了。当真正的 mosiklist 的行人代码时，Velichispedict 超过了行人代码多少公里？
+4. 找到所有这样的实数对$(a, b)$的集合，使得对于每个实数对，对于所有$x \in \mathbb{R}$，
+$$a(\cos x - 1) + b^2 = \cos (ax + b^2) - 1.$$
+5. 众所周知，对于某些二次函数
+$$f(x) = ax^2 + bx + c, \quad a \neq 0$$
+不平等得到满足

@@ -1,0 +1,32 @@
+---
+id: 1979-3-krivosheev-magicheskiy-stereokvadrat-414af23c
+issue: kvant_1979_3
+year: 1979
+number: "3"
+title: 魔幻立体方块
+authors:
+  - Кривошеев Е.
+rubric: smes
+page_first: 67
+page_last: 67
+tag: UDPK
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: fc8785e6015ea43c0decbafc3d332b5c2b9e9356f5d0b16fbfe12b77f43ed1c6
+prompt_sha256: draft-1
+translated_from: content/ru/1979/03/articles/02_krivosheev-magicheskiy-stereokvadrat-414af23c.md
+source_content_sha256: cfe14a0dd7080685d92499b31da0a23f46a3bb361fd23b124ebac301b42631fa
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+神奇
+立体广场
+
+该立方体被分为 125 个小立方体，其中 25 个小立方体上放置有从 1 到 25 的数字。下面是标记的立方体将如何位于立方体的五个水平层中的每一层中。如果我们现在从上面看，然后从前面看，然后从侧面看，那么我们会看到完全填满的 5x5 正方形（参见上面的图），这很神奇，即每个水平行、每个垂直行以及每个这样的正方形对角线上的数字之和是相同的。
+
+E·克里沃什切夫

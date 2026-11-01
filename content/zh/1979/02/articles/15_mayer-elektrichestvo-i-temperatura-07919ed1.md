@@ -1,0 +1,39 @@
+---
+id: 1979-2-mayer-elektrichestvo-i-temperatura-07919ed1
+issue: kvant_1979_2
+year: 1979
+number: "2"
+title: 电力和...温度
+authors:
+  - Майер В. В.
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 48
+page_last: 48
+page_labels: "46"
+tag: GH08
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 359b5ef7db77298b0facc3cb6f25b51b70dc94a36c330c2184ff9c60916b8815
+prompt_sha256: draft-1
+translated_from: content/ru/1979/02/articles/15_mayer-elektrichestvo-i-temperatura-07919ed1.md
+source_content_sha256: 4b2faa9665c4c767959723098a6d8c98097f31b59105e978c78a2ab6b0db2f32
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 46⟧
+
+什么是电导体？
+你认识哪些指挥家？什么是导体电阻？导体为什么有电阻？电阻如何取决于导体的尺寸及其制造材料？
+
+您也许可以立即回答这些问题。现在我们向您提出另一个问题：当外部条件（温度和压力）发生变化时，电阻会发生什么变化？慢慢回答。我们建议您先做几个实验。
+
+1. 准备一个烧坏的电灯（功率 100 W，电压 220 V）、电池（3336L 型，4.5 V）、手电筒灯泡（电压 3.5 V、电流 0.26 A）、连接的电线和火柴。您的任务是研究金属导体（烧坏的电灯的螺旋）的电阻与温度的关系。
+
+切一段约1厘米长的螺旋；在该部件的末端插入铜线，使其与螺旋之间有良好的接触。连接由线圈、电池和灯泡串联组成的电路。
+
+图 1.
+图 2.

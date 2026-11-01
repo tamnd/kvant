@@ -1,0 +1,118 @@
+---
+id: 1978-12-halamayzer-postroyka-trakta-eb04da48
+issue: kvant_1978_12
+year: 1978
+number: "12"
+title: 道建设
+authors:
+  - Халамайзер А. Я.
+rubric: smes
+page_first: 66
+page_last: 66
+page_labels: "64"
+tag: PCPW
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: c2d824bac063875b6d5570dfc17cb165c343794a610bfe2e7ca5a3938794dc7b
+prompt_sha256: draft-1
+translated_from: content/ru/1978/12/articles/19_halamayzer-postroyka-trakta-eb04da48.md
+source_content_sha256: af26e7cce1098d6169a81ceb690ef2969b1017f0bf69ae94709a2b903e22f11f
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 64⟧
+
+格津雅.关于生命科学的活生生的故事 1 54
+Zorits I. 美丽的物理 4 56
+Zorits I. 没有轮廓的世界 9 60
+Zorits I.将成为太空技术的创造者 12 54
+科马罗夫五世。在宇宙实验室11 57
+Shaskolskaya M. 空虚为何以及如何消失 3 61
+I. R. 天文学史新书 5 56
+新书 3、6、8、10
+
+信息
+
+全联盟儿童青少年科技生产周 4 58
+IX 巴图蒂亚青年数学家庆祝活动 10 89
+
+Rabbom J. 全联盟函授数学学校 1 56
+Aslanyan V.、Kiryanov A.、Chugunova T. 函授物理技术学校 1 59
+函授体育学校 8 61
+晚上体校 8 62
+
+阿特马索夫·V.等人。雅克塔大学俄罗斯哲学学院 11 58
+Vilenkin A. 鄂木斯克国立教育机构成立 10 年 11 60
+
+Bashmakov M.、Bramus T.、Pozdnyakov S. 未来工人的数学 10 90
+
+达索夫 M. 月全食 8 48
+达索夫 M. 星雨是可能的！
+
+奥林匹克运动会
+
+国际奥林匹克运动会
+Savin A. 第十九届数学奥林匹克竞赛 2 51
+Skvortsov V.XX 数学奥林匹克 12 55
+Slobodetsky I. Kh 奥林匹克物理 8 56
+
+X11全苏联奥运会
+Rozov N.、Smodyansky M. 奥林匹克数学 10 65
+Limanov L. 奥林匹克数学题 10 70
+彼得罗娃·T·奥林匹达物理 10 71
+奥尔洛夫 V. 物理奥林匹克实验题 10 76
+第十二届奥运会获奖者 10 82
+
+莫斯科数学奥林匹克 CL 2 55 题
+1978 年共和国数学奥林匹克竞赛题 12 56
+芬兰物理奥林匹克竞赛的目标 6 84
+
+道建设
+
+很久以前，从穆顿维尔市出发，沿着一个大湖的岸边，有一条古老的道路。在这片土地附近，彼此距离相等的是阿尔布日卡 (Albzhika)、邦迪 (Bondi)、维兰古 (Vilancourt)、加布西耶 (Garbusier) 和最后的迪奥普雷 (Diopre) 等村庄，森林开始穿过这些村庄（参见封面第三页上的图）。
+
+该路线已年久失修。当然，必须将其夷为平地并用碎石铺路，这要以这五个村庄的居民为代价。五位村长齐聚穆顿维尔，协商购买石材并寻找工人。
+
+“修建这条路需要 600 名伦德人，”村长加布西耶 (Garbusier) 总结道。 “收获后，我们村子将立即贡献 120 伦多。
+
+“如果加布西耶付一百二十，那么我们就付六十，”老邦迪说。 “毕竟，通往我们村的路段正好是通往加布西耶的路段的一半。”
+
+“既然如此，我们只能引进30个伦多，”村长阿尔布日卡说。
+
+最后，长老们同意支付所需的 600 伦多，每个村庄的居民都参与支付他们在穆顿维尔提货时所使用的那部分土地的费用（从穆顿维尔到阿尔布日克的距离与相邻村庄之间的距离相同）。
+
+五个村的居民分别需要缴纳多少钱？
+
+A·哈拉米泽
+
+工作过的号码：
+A. Vilenkin、I. Klumova、T. Tsetrova、
+A. 索辛斯基，V. 吉霍米罗娃，
+于。希哈诺维奇
+
+已发出号码：
+M.杜巴赫、S.卢欣、E.纳扎罗夫、
+A. Ponomareva、E. Tenchurina、V. Chernov
+
+负责人：L. Chernov 编辑
+
+艺术编辑 T. Makarova
+
+校对员 L. Borovina
+
+113035，莫斯科，M-35，V. Ordynka，21/16，«Kvant»，电话。 231-83-62。
+交付至 28/TX—1978 年。
+1978 年 XI 月 15 日签署印刷。
+纸 70×108 1/16。物理。烤箱 L.4。
+有条件的烤箱 L. 5.60 学术版。 L.6.52 T-20144
+价格30戈比。订单 2220
+发行量301,150份。
+
+契诃夫印刷厂 Soyuzoligraphifroma
+苏联出版、印刷和图书贸易部长会议国家委员会，
+契诃夫，莫斯科地区
+
+鲁科沃迪斯不会回来

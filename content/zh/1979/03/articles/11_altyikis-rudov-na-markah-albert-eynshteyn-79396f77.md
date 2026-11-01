@@ -1,0 +1,63 @@
+---
+id: 1979-3-altyikis-rudov-na-markah-albert-eynshteyn-79396f77
+issue: kvant_1979_3
+year: 1979
+number: "3"
+title: 邮票上的——阿尔伯特·爱因斯坦
+authors:
+  - Алтыкис А. В.
+  - Рудов В. А.
+rubric: raznoe
+page_first: 42
+page_last: 42
+tag: FSE3
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 30ae7eb6cb57c07142792d84b466e770e37fc4a17993f647a8538afc67038bab
+prompt_sha256: draft-1
+translated_from: content/ru/1979/03/articles/11_altyikis-rudov-na-markah-albert-eynshteyn-79396f77.md
+source_content_sha256: bf29aeca2875e95a482a5c1be6ab1906cadcd0d2d656e1fb164f913ff39d80b9
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+沿角 $XOY$ 的二边线的直线，且绝对值相等
+
+$$\left| \vec{v}_0 \right| = \frac{u}{\cos \frac{\alpha}{2}} = \frac{\omega R}{\cos \frac{\alpha}{2}}.$$
+
+A·马特维耶夫
+
+F517。能量为 $E=1,0$ keV 的电子束穿过两个小电容器，彼此间隔 $l=20$ cm。两个电容器并联连接到一台发电机。通过改变发生器的频率，添加单声道，使得电子束通过系统时不会偏转。如果满足此条件的两个连续频率值等于 141 MHz 和 188 MHz，则确定电子的比率 $e/m$。
+
+如果在$\Delta t=l/v$时间内，电子在电容器之间的间隙中飞行（$v$是电子速度的绝对值），电容器上的电压相位变为$k\pi$，其中$k$是整数，则电容器中电子的偏差相互“补偿”。由于$\Delta \varphi=\omega \Delta t$和$\omega=2\pi \gamma$（$\gamma$为发电机频率），满足该条件的频率值由对应关系确定
+
+$$\frac{l}{v} = \frac{k\pi}{2\pi \gamma}.$$
+
+如果$\gamma_1$和$\gamma_2$是电子无偏差流过系统的发生器频率的连续值，则
+
+$$2\pi \gamma_1 l/v=k\pi, \quad 2\pi \gamma_2 l/v=[k+1]\pi.$$
+
+从这里开始是
+
+$$v=2(\gamma_2-\gamma_1)l.$$
+
+因此，飞入系统的电子具有书本能量$E=\frac{mv^2}{2}$。电子通过“初步”电势差 $u=1$ kV: $E=eu$（e 是电子的电荷）获得能量 $E=1$ keV。因此，
+
+$$\frac{mv^2}{2} = \frac{4m(\gamma_2-\gamma_1)^2l^2}{2} = eu,$$
+
+在哪里
+
+$$\frac{e}{m} = \frac{4(\gamma_2-\gamma_1)l^2}{2u} = 1.76 \cdot 10^{11} \text{KJ/kg},$$
+
+I·斯洛博杰茨基
+
+不能说阿尔伯特·爱因斯坦在他的技艺上非常幸运。与他和他的科学成就相关的邮票很少。确实，随着他在科学上的重要性日益增加，我们越来越了解他的著作的伟大之处。因此，未来可能还会出现更多的爱因斯坦品牌。
+
+我们将在这里复制两张印有爱因斯坦肖像的邮票。然而，其中一部在波兰人民共和国上映，另一部在美国上映。
+
+A.阿尔蒂基斯，
+V·鲁多夫

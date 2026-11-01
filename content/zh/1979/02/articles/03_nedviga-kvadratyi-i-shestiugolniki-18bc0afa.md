@@ -1,0 +1,33 @@
+---
+id: 1979-2-nedviga-kvadratyi-i-shestiugolniki-18bc0afa
+issue: kvant_1979_2
+year: 1979
+number: "2"
+title: 正方形和六边形
+authors:
+  - Недвига С.
+rubric: smes
+page_first: 67
+page_last: 67
+tag: 0U64
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: fbd8880dabf931e667b0c502c78abc5c12451d2a491058a4f795dca00c730823
+prompt_sha256: draft-1
+translated_from: content/ru/1979/02/articles/03_nedviga-kvadratyi-i-shestiugolniki-18bc0afa.md
+source_content_sha256: 74f366e6e030dfd5d4d13a7b421a61c763a6dacf7b47196795325121c24c81f4
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+正方形和六边形
+
+每个正方形分为四个部分，每个六边形分为六个部分。在两个部分（正方形和六边形）中有两个数字：1、2、3 或 4（不同！）。让剩下的部分（这些部分在图片中被阴影化）。每个问题都需要使用给定集合中的所有数字。在这种情况下，图形必须根据“多米诺骨牌”规则进行布局：侧面接壤的图形必须由具有相同数字的部分或阴影部分匹配。此外，必须没有带有数字的“悬挂”部件（即不与其他部件连接）。例如，图 1 所示的六个正方形集合按照图 2 的规则折叠。
+
+尝试找到图 3-8 所示组的正确位置。第一个任务很简单，第二个和第三个任务有点困难。六边形的任务要困难得多，所以如果您没有立即设法完成它，请不要签入。
+
+内德维加
