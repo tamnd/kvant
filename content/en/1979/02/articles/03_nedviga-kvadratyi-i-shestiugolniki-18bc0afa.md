@@ -1,0 +1,33 @@
+---
+id: 1979-2-nedviga-kvadratyi-i-shestiugolniki-18bc0afa
+issue: kvant_1979_2
+year: 1979
+number: "2"
+title: Squares and hexagons
+authors:
+  - Недвига С.
+rubric: smes
+page_first: 67
+page_last: 67
+tag: 0U64
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 06677cfa7e0ff3cd933529ff6687b5ee404cedf4cbf7dfdf19179097ebe71942
+prompt_sha256: draft-1
+translated_from: content/ru/1979/02/articles/03_nedviga-kvadratyi-i-shestiugolniki-18bc0afa.md
+source_content_sha256: 74f366e6e030dfd5d4d13a7b421a61c763a6dacf7b47196795325121c24c81f4
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+Squares and hexagons
+
+Each square is divided into four parts, each hexagon into six. In two parts (both squares and hexagons) there are two numbers: 1, 2, 3 or 4 (different!). Let the remaining parts (these parts are shaded in the pictures). Each problem requires using all the figures in a given set. In this case, the figures must be laid out according to “domino” rules: the figures bordering on the side must match either by parts with the same numbers or by shaded parts. In addition, it is necessary that there are no “hanging” parts with numbers (i.e., not connected to others). For example, the set of six squares shown at figure 1 is folded according to the rules at figure 2.
+
+Try to find the correct locations for the sets shown in Figures 3-8. The first task is quite simple, the second and third are a little more difficult. The task with hexagons is much more difficult, so do not check in if you do not immediately manage to do it.
+
+S. Nedviga

@@ -1,0 +1,40 @@
+---
+id: 1979-4-rudov-pervyie-sovetskie-lunniki-34a46aa4
+issue: kvant_1979_4
+year: 1979
+number: "4"
+title: The first Soviet "Lunniks"
+authors:
+  - Рудов В. А.
+rubric: raznoe
+rubric_sub: Разное
+page_first: 67
+page_last: 67
+tag: 0J72
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: ed11a387e81ff8b596c175b6c1160f4f6cb8a10a7d516f80c29edadcd9f7fb98
+prompt_sha256: draft-1
+translated_from: content/ru/1979/04/articles/03_rudov-pervyie-sovetskie-lunniki-34a46aa4.md
+source_content_sha256: 5f6c5b711d82e17d3eeedbef2f7cf0313cb1cfac1bd513fa24a822d40fcaaa86
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+FIRST
+SOVIET
+"LUNIKI"
+
+Twenty years ago, on January 2, 1959, the Soviet Union successfully launched a space rocket to the Moon. For the first time in human history, a flying vehicle was created that exceeded the second cosmic speed. The last stage of the rocket, weighing 1,472 kg, sang near the Moon and became the first artificial planet in the solar system. The scientific equipment installed on it used corpuscular radiation from the Sun, cosmic rays, meteorological particles and magnetic fields in interplanetary space.
+
+On September 12, 1959, the second Soviet space rocket launched to the Moon. On September 14, it reached the surface of the Moon. During the flight, valuable scientific information was obtained about physical phenomena occurring in near space and near space.
+
+On October 4, 1959, the third Soviet space rocket headed towards the Moon. On October 7, its scientific equipment photographed the far side of the Moon, invisible from Earth, for 40 minutes. The photographic films were processed automatically on board the rocket, and the resulting images of the lunar surface were transmitted to Earth using a special radio system. This was the beginning of the mapping of the Moon.
+
+These outstanding events are reflected in domestic and foreign philately. In the Soviet Union, the launch of the first and second rockets to the Moon was canceled by the release of series consisting of two brands. Three stamps were dedicated to the third rocket. All of them are depicted in chronological order on this page. Stamps from socialist countries telling about these flights are also placed here.
+
+V. Rudov

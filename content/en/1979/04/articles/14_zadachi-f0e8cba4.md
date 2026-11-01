@@ -1,0 +1,41 @@
+---
+id: 1979-4-zadachi-f0e8cba4
+issue: kvant_1979_4
+year: 1979
+number: "4"
+title: Tasks
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 39
+page_last: 39
+page_labels: "37"
+tag: STWW
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: bc611ad6c209bc04ba5f3f6f35a5c2bc162a6fb12bebc6435102d71678d82af0
+prompt_sha256: draft-1
+translated_from: content/ru/1979/04/articles/14_zadachi-f0e8cba4.md
+source_content_sha256: a9be19f6717be71e457ecc71a808bb71f2afcc6f7f17615519784c198a3fbbf5
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 37⟧
+
+Quests
+
+1. Numerical rabbis. In the first rebus, the numbers are protected by figures, in the rest - by letters and asterisks (see figure). Identical figures and letters correspond to identical numbers, different figures correspond to different ones; asterisks can be any numbers. No number starts with zero. Decipher the puzzles.
+
+2. Solve the equations:
+a) $\overline{xyz} = (\overline{xy})^2 + (\overline{zz})^2$,
+b) $\overline{xxyy} = (\overline{xx})^2 + (\overline{yy})^2$
+
+(the notation $ab$ means a two-digit number, which has $b$ ones and $a$ tens; the notation $cdab$ means a four-digit number, which has $b$ ones, $a$ tens, $d$ hundreds and $c$ thousands).
+
+3. Number wheel. Place the first two odd prime numbers in the circles of the number wheel shown on figure so that the sum of any three numbers located along the diameter is a prime number. Prove that the center can be any of these prime numbers, except for the number 3.
+
+4. The parallelogram is made up of three equilateral triangles, among which there are no congested triangles. Find the values ​​of its angles.
+
+5. Two boys play this game: they take turns placing rooks on a chessboard. The winner is the one in which all the squares of the board are captured by the placed pieces. Who wins in this game if she tries to play at her best?
