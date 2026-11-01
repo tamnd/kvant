@@ -1,0 +1,89 @@
+---
+id: 1983-12-napechatano-v-1983-godu-aae16b89
+issue: kvant_1983_12
+year: 1983
+number: "12"
+title: 1983年出版
+rubric: raznoe
+page_first: 58
+page_last: 58
+page_labels: "56"
+tag: O0ZS
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 360a57a14e891668b4d41995fa38412954add673dfd136c01395e5fa27316f36
+prompt_sha256: draft-1
+translated_from: content/ru/1983/12/articles/16_napechatano-v-1983-godu-aae16b89.md
+source_content_sha256: 4c7c7413066942a36c52e0a167939c638396a7eec07991ad4d5dc4dab07bc977
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 56⟧
+
+1983年出版
+
+读者 1 2
+康达科夫 M.I.新学年快乐！
+
+* * *
+Gnedenko B.V. 数学与任意性 1 3
+Ershov A.P. 编程是第二素养 2 2
+Kikopin I.K. 物理学与科技进步 3 2
+5 2
+
+* * *
+鲁道夫·穆斯堡尔回答杂志编辑的问题 «Kvant» 3 6
+独特的实验室（采访苏联飞行员 A. A. Serebrov） 4 7
+与安德烈·尼古拉耶维奇·科尔莫哥洛夫对话 4 12
+
+* * *
+金迪金 S.G.伦纳德·欧拉 10 17
+卡达诺夫 M. I. 20 世纪杰出理论物理学家 (L. D. Landdu) 11 17
+基科平 I.K.他毁了生活的幸福（I.V.库尔恰托夫）1 7
+基科平 I.K. 阿纳托利·彼得罗维奇·亚历山德罗夫 2 8
+Lishevsky V. P. 科学与生活的革命者 (G. Monge) 7 17
+N. N. Luzin（纪念他诞辰一百周年）
+
+数学统计
+Anokhin A. I., Lomakina Z. D. 海员数学 8 7
+波尔强斯基 V.G.积分方法 3 16
+Vinokurov V. A., Mitin B.S. 太空数学与技术 4 2
+Vladimirov V. S.、Mitsenko A. S. 数学物理在现代科学中的作用 12 2
+加利林 R.V.晶体的结构如何 11 10
+Gindikin S. G. 论“sophistic popstin”的好处 6 10
+
+Zaidel A. N. 欺骗还是妄想？ （关于l的一种计算方法。） 5 24
+Kerin M.G.、Nudelman A.A. Borsuk-Ulam 定理 8 20
+Matveev S.V. 平面上的矫直结构 4 22
+米岑科·A.S.，索洛维耶夫·余。 P.四元数 9 10
+涅斯捷连科·于. V., Nikshin E. M. 连分数论文 5 16
+6 26
+Pontglezin L.S. 复数 2 16
+Feldman N. I. 代数和超越数 7 2
+10 57
+Fomenko A. T. 最小表面 6 18
+
+物理统计
+阿斯拉马佐夫 L.G. 河流蜿蜒 1 17
+Aslamazov L. G. 非惯性系统报告 10 9
+Bronshten V.A. 通古斯陨石 - 在实验室物理 7 9
+Blyako A.V. 气氛如何 6 2
+布莱亚科 A.V.托罗的荆棘小径 12 20
+古班科夫 V.N.孤子 11 2
+于日特科夫斯基.于。物理学家研究水空间 8 2
+Zaimovsky V.A. 金属有记忆吗？！ 9 3
+Kudryavtseva E.N.，Khilkevich S.S. 为什么水会从桶里倒出来？ 9 16
+Mitrofanov A.V.问题 P.L.Kapit 5 21
+Pegoev A.N. 灯泡用了什么？ 8月26日
+萨马斯基·尤. A. 穆斯堡尔效应（或晶体中 γ 量子的共振核吸收） 3 7
+斯莫罗丁斯基亚。 A. 黑洞 12 13
+Fabrikant V.A. 量子的诞生 2 11
+Falkovsky L.A. 表面物理学 10 2
+Chernin A.D. Flaring RENTen 星星 8 13
+Shur A. A. 这些不同的无线电波 5 9
+
+科学新闻
+Aslamazov L. G. 基于超导体的计算机 11 24

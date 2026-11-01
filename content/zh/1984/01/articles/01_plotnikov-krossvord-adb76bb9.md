@@ -1,0 +1,33 @@
+---
+id: 1984-1-plotnikov-krossvord-adb76bb9
+issue: kvant_1984_1
+year: 1984
+number: "1"
+title: 填字游戏
+authors:
+  - Плотников Г. Н.
+rubric: smes
+page_first: 68
+page_last: 68
+tag: BZ08
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: d5fd51d532b3672c903accd60aef580bb03f4dac8bce7ed39789d283e8433e25
+prompt_sha256: draft-1
+translated_from: content/ru/1984/01/articles/01_plotnikov-krossvord-adb76bb9.md
+source_content_sha256: 320e0a7ea140f9d9fe56f91dfff00853c09b53e1560f11eb1bb21698a51433d8
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+填字游戏
+
+横向。 5、机制简单。 6. 水晶，碳的一种。 9.电话发射管。 11. 复杂形状的周期性振荡的正弦分量，其频率高于基音。 12、放射性化学元素。 13.发射和接收电子波的装置。 15.排版机。 16、开关装置。 17.由大分子组成的物质。 20.扩管。 23.一种用于测量平面图和地图上的面积的装置。 24. 第一批俄罗斯飞行员之一。 25.科学联系。 27. 燃料。 29. 世界上第一座核电站建成的城市。 30.耳科系统，其中的装置是数学畸变的。 31.惰性气体。 32.古代河流科学家。
+
+垂直的。 1、电气测量装置。 2.电磁场量子。 3、物理量。 4. 由于局部压力降低而在液体中形成空腔。 7. 德国物理学家和工程师，创建了第一个空气除湿工业装置。 8、大量掺加硫磺的橡胶。 10. 在任何活动领域开拓新天地的人。 13.装置，装置。 14. 存在，物体的固有属性。 18.天文学中的长度测量。 19. 地球的气态壳。 21、俄罗斯伟大科学家、莫斯科大学创始人。 22、金属板制成的防护武器。 26.负极。 28. 南半球星座。 29.确定垂直方向的最简单装置。
+
+G. N. Plotnikov 编译

@@ -1,0 +1,65 @@
+---
+id: 1983-11-byalko-starinnaya-vostochnaya-pritcha-b265d31b
+issue: kvant_1983_11
+year: 1983
+number: "11"
+title: 一个古老的东方寓言
+authors:
+  - Бялко А. А.
+rubric: smes
+page_first: 46
+page_last: 46
+tag: LUYY
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 5d082277b1210f239388f7075872ab485f1498a15a541bda56be8c6740a03615
+prompt_sha256: draft-1
+translated_from: content/ru/1983/11/articles/14_byalko-starinnaya-vostochnaya-pritcha-b265d31b.md
+source_content_sha256: a333c79ea319599c70fd763474c790ba18566f58019bde32935b3a3eb1326cdb
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+那是
+
+$$F_M = 2a |kx| i = a^2 ki,$$
+
+且沿着 $Z$ 轴。
+
+因此，框架的运动方程具有以下形式
+
+$$mz'' = -mg + a^2 ki = -mg - \frac{a^4 k^2}{L} z.$$
+
+该方程类似于悬挂在刚度为 $K = a^4 k^2/L$ 的弹簧上的质量体 $m$ 的振动方程：
+
+$$mz'' = -mg - Kz.$$
+
+从这个类比中可以清楚地看出，框架将围绕平衡位置沿 $Z$ 轴进行简谐振动，该平衡位置由条件确定
+
+$$\frac{a^4 k^2}{L} z_0 = -mg \quad z_0 = -\frac{mg L}{a^4 k^2}.$$
+
+振荡频率将等于
+
+$$\omega = \frac{a^2 k}{\sqrt{L m}}.$$
+
+运动开始后经过时间$t$后的帧坐标$z$等于
+
+$$z = \frac{mg L}{a^4 k^2} \left( -1 + \cos \frac{a^2 k}{\sqrt{L m}} t \right).$$
+
+欧宇.尼克希纳
+
+一个古老的东方寓言
+
+很久以前，在东方住着一位老人，他死后留下了十九匹骆驼给他的三个儿子。他给了大儿子一半，二儿子四分之一，最小的儿子五分之一。由于无法自己找到解决方案（毕竟“整头骆驼”的问题没有解决方案），兄弟俩求助于圣人。
+
+圣人啊！ - 哥哥说， - 我父亲给我们留下了19头骆驼，并命令我们将它们平均分配：最大的 - 一半，中间的 - 四只，最小的 - 五分之一。但19不能被2、4、5整除。尊者，您能减轻我们的悲伤吗？还是我们想完成父亲的遗愿呢？
+
+“没有什么比这更简单的了，”圣人回答他们。
+
+圣人是怎么想的呢？如果您没有猜对，请查看“答案、方向、解决方案”部分中寓言结尾处的内容。
+
+A·A·拜亚尔科

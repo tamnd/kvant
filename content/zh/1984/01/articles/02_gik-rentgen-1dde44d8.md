@@ -1,0 +1,52 @@
+---
+id: 1984-1-gik-rentgen-1dde44d8
+issue: kvant_1984_1
+year: 1984
+number: "1"
+title: X射线
+authors:
+  - Гик Е. Я.
+rubric: shahmatnaya-stranichka
+rubric_sub: Шахматы
+page_first: 67
+page_last: 67
+tag: 82O3
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: b4445e05949014cb84a81bc44d96aaa5f354d4e0bd1ed23634d7e9f8d4643a1f
+prompt_sha256: draft-1
+translated_from: content/ru/1984/01/articles/02_gik-rentgen-1dde44d8.md
+source_content_sha256: 53e298116710fb5689ef08f31a2cbb6791cc1686d2e8c1ba55174a0e2942f49e
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+X射线
+在 1983 年 «Kvant» 第 11 期中，我们研究了几个关于游戏中常见的组合技术的主题的示例。今天又出现了另一种技术，称为人物的贯穿动作，或者换句话说，RENTZENOM。
+
+桑迪 - 波加奇
+（匈牙利，1963 年）
+到目前为止，我们可以听到钉住的动机 - 1...C:e5 是不允许的，在 1...f6 2.Qd5+ Npf8 黑棋之后有很多威胁，但他被钉住 -3.Bb4 毁了！强招1...Qd7，继2.Qd4 Qe8 3.f4 Ce7之后！白棋已经因钉住而死亡，但 3.Qd6 R:d6 4.J:d6 应该会导致平局。但这个结果并没有消除黑棋。 1 后...Q:h2+!!敌人来投降了。第一印象是棋盘上存在某种误解，因为h2上的黑后和d6上的象之间有一个白后，即黑后不受保护。但这就是穿透的想法——主教发出的光线穿过白皇后，对于主教来说就好像不存在一样。 2.Q:h2 B:h2+ 3.Kp:h2 R:d1 黑方拥有决定性的物质优势。
+
+前面的f7点原来是黑方阵营的一个弱点，X射线组合让我们揭示了这个弱点。这是关于这个主题的一个经典例子。
+
+鲍特维尼克-维德玛
+（诺蒂根，1936）
+白主教和车穿过骑士上升到f7广场。 1.Nxf7！ R:f7 (1...Kp:f7 2.C:d5+ 获胜) 2.C:f6 C:f6 (2...K:f6 3.J:f6!C:f6 4.Q:c8+) 3.J:d5 Qc6 4.J:d6!!现在主教对 f7 棋子的目标才变得明显，4.Rs5？现在由于答案 4...C:d4+ 而失败了！ 4...Qe8 5.J:d7。黑人很高兴。
+
+萨博-多达
+（罗马尼亚，1969）
+g5上的女王将目光锁定在白王身上。沿途遇到的棋子不算数。 1...Kf3+！ 2.gf K:f5 3.Qf2 (3.ef gf+ 4.Kpf2 Qg2+) 3...g3！ 4.Qe1 (4.hg K:g3 5.Qg2 Qe3+ 6.Jf2 R:c3 威胁为 7...Ke2+) 4...gh++ 5.Kpf2 (5.Kp:h2 Kpg7 和 Rh8+) 5...Qg3+ 6.Kp2 Kd4+。白人很高兴。
+
+我们的下一期国际象棋比赛从本期开始。与之前的获奖者一样，获奖者将获得由国际象棋页面运营者撰写的国际象棋数学文献。
+
+竞赛任务
+
+1. 白棋开始并获胜。
+2. 黑棋开始并获胜。
+
+发送决定的截止日期为 1984 年 3 月 25 日，地址为：103006，Moscow，K-6，st.高尔基，32/1，«Kvant»，信封上写着“国际象棋比赛«Kvant»，任务 1、2”。
