@@ -1,0 +1,60 @@
+---
+id: 1985-1-novyiy-priem-vo-vsesoyuznuyu-zaochnuyu-matematicheskuyu-shkolu-7ac5cf7a
+issue: kvant_1985_1
+year: 1985
+number: "1"
+title: 全联盟函授数学学院新录取
+rubric: informatsiya
+rubric_sub: Информация
+page_first: 54
+page_last: 54
+page_labels: "52"
+tag: BPHF
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 579715a743e5a0b8ac382ae46089a211d8005be46287092f18bda881bf34b36d
+prompt_sha256: draft-1
+translated_from: content/ru/1985/01/articles/20_novyiy-priem-vo-vsesoyuznuyu-zaochnuyu-matematicheskuyu-shkolu-7ac5cf7a.md
+source_content_sha256: cc03e30e1b3f65e47b4be93729ffe9d6a77aab028b0058140a8daa82af07b94f
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 52⟧
+
+有趣、严肃、刺激甚至有点赌博。
+每个完善的参与者都收到了两项任务。其中一个必须在 BASIC 中请求，需要在屏幕上显示由字符 图 组成的给定风格化样式，并在此花费最少数量的句子。第二个任务是用 Pascal 编程计算阶乘，以便结果的所有数字都显示在屏幕上。这项任务的标准是程序的速度。获胜者是来自 Povyazhskaya Bistritsa V. Bell 的学生和新西伯利亚九年级学生 P. Zemtsov。
+
+第二天举行了最后一次会议，学生们讲述了（并在他们汽车的屏幕上展示了！）在他们生活中这不寻常的一周里做了什么。
+
+闭幕式隆重。所有参与者都获得了一份礼物——有关斯洛伐克语和捷克语编程的书籍，学校的积极参与者都获得了文凭和难忘的礼物。在同一次最后的会议上，他们开玩笑说，由 ADT-4316 计算机演奏的巴赫前奏曲和赋格曲、莫扎特的麦迪尼时刻的胜利。
+
+对于第一次出国旅行的苏联年轻程序员来说，这所学校给他们带来了许多生动的印象。 Pascal、Basic、Rapier 汇聚了新朋友……
+
+于。 A·珀文
+布拉迪斯拉发 — 莫斯科 — 新西伯利亚
+
+我们将招收一名新同学进入全联盟函授数学学校
+致莫斯科国立大学苏联教育科学院全联盟函授数学学院。 MV罗蒙诺索夫 (VZMSH) 接受七年级和职业学校的学生，但居住在莫斯科和列宁格勒的学生除外。
+要进入学校，您需要完成一段时间的作业。
+任务 1. 学习本期杂志中的文章“数字对及其运算”（参见第 19 页），并解决本文中的问题 1-20（不一定是全部；考虑到问题的个别点的解决方案）。
+问题的解决方案必须用俄语在学生的方形笔记本上完成。任务应该按照文章中给出的顺序进行，首先是条件，然后是解决方案。您需要将一张纸粘贴到terradi的封面上，将其绘制并按照以下图案填写：
+地区
+姓、名
+出生年份
+班级和学校
+姓氏，i。 O、数学老师
+工作地点和父母的职位
+完整的邮政地址
+发送作业一号的截止日期不晚于1985年4月5日（以邮戳为准）。
+
+莫斯科
+伊万诺夫·彼得
+1971
+七年级“B”学校第 2 号
+奥尔洛夫·鲍里斯·彼得罗维奇
+父亲是一名司机，作者第3号，
+母亲是一名护士
+123456 克林, 圣。 Stroitel，1，公寓。 1.

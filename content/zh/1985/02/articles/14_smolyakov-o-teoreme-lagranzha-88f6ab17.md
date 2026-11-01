@@ -1,0 +1,60 @@
+---
+id: 1985-2-smolyakov-o-teoreme-lagranzha-88f6ab17
+issue: kvant_1985_2
+year: 1985
+number: "2"
+title: 关于拉格朗日定理
+authors:
+  - Смоляков Л. Н.
+rubric: shkola-v-kvante
+page_first: 32
+page_last: 32
+page_labels: "30"
+tag: AVKX
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 64413216821e17e9af08aaf6af0a1840107aeceb4a85f3d3d26333b64d56c90f
+prompt_sha256: draft-1
+translated_from: content/ru/1985/02/articles/14_smolyakov-o-teoreme-lagranzha-88f6ab17.md
+source_content_sha256: cf05311bef7b010d2c27b8d1a161579a1d6684a661714932dabad669da38d76e
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 30⟧
+
+AD:BD=CF:FB。根据三角形ABC和DBF的相似性，我们有AC:CB=FD:FB，并且由于CF=FD，所以AC:BC=CF:FB。因此，AD:BD=AC:BC（两个比率都等于CF:FB）。
+
+第五证明。等高三角形的面积与相应的底有关。因此 $S_{CDA}:S_{CDB}=AD:DB$ (图 5)。另一方面，根据二等分线性质，从顶点D垂下的三角形CDA和CDB的高度相等。因此，$S_{CDA}:S_{CDB}=AC:BC$。因此，AD:BD=AC:BC=S_{CDA}:S_{CDB}。
+
+第六个证明。让我们围绕三角形 ABC 画一个圆并延伸 CD 直到它与圆相交于点 E (图 6)。由三角形ACE和DCB的相似度可得AC:AE=CD:DB，即AC·DB=AE·CD。由三角形BCE和DCA相似可得BC:BE=CD:AD，即BC×AD=BE·CD。注意到AE=BE，我们得到AC·DB=BC·AD，由此AD:BD=AC:BC。
+
+第七个证明。让我们通过点D画两条直线，其中一条平行于边AC并与边BC相交于点M，另一条平行于边BC并与边AC相交于点K（图7）。容易证明四边形KCMD是菱形。根据三角形 AKD 和 DMB 的相似性，我们有 AD:BD=DK:BM。由于DK=DM，则AD:BD=DM:BM。注意所得比例中的比例 DM:BM 与等比例 AC:BC（基于三角形 ABC 和 DBM 的相似性），我们得到
+
+所需的比例。
+
+在图 8-11 所示结构的帮助下，读者有机会获得该定理的另外四种发展。
+
+总之，我们概述了该定理的另外两个证明，供熟悉向量和几何变换的读者使用。
+
+1. 对于线段$AB\cdot CD=λ\vec{A}+(1-λ)\vec{B}$的任意点D，其中λ=DB:AB； 1-λ=AD:AB。确实，$\vec{CD}=\vec{CB}+\vec{BD}=\vec{CB}+\lambda\vec{BA}=\vec{CB}+\lambda(\vec{CA}-\vec{CB})=\lambda\vec{CA}+(1-λ)\vec{CB}$。
+
+在我们的例子中，向量$\vec{CD}$平行于向量$(1/CA)\cdot\vec{CA}+(1/CB)\cdot\vec{CB}$（参见图7），因此平行于$(1/CA):(1/CB)=λ:(1-λ)$，因此AD:DB=CA:CB。
+
+2. 让我们对 D 点进行顺序对称，准备 $H_{D}^{BD/AD}$ 和 $H_{C}^{AC/BC}$，然后对平分线 CD 进行对称（用 $H_{O}^{k}$ 表示与中心 O 和系数 k 的相似性）。结果，A 点将保持在原位，并且直线 CD 将转入自身，部分地它们之间的距离将保持不变。因此，最终的相似变换的系数为1，即$AC/BC\cdot BD/AD=1$。
+
+六、
+
+关于拉格朗日定理
+
+首先，让我们回顾一下拉格朗日定理的表述。
+
+令函数 f 在某个区间的每个点可微。那么在这个区间的任意两点a和b之间有一个点c使得
+
+$$f(b)-f(a)=f'(c)(b-a).$$
+
+该定理允许进行简单的几何解释。让我们在函数 f 的图形上取两个点 A=M(a; f(a)) 和 B=M(b; f(b))（参见 图）。直线AB的斜率等于$(f(b)-f(a))/(b-a)$，函数f的图形在横坐标x=c处的切线的斜率等于$f'(c)$。因此，写下
+
+（最后见第36页）

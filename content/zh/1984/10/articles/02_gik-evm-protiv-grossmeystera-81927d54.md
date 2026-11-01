@@ -1,0 +1,62 @@
+---
+id: 1984-10-gik-evm-protiv-grossmeystera-81927d54
+issue: kvant_1984_10
+year: 1984
+number: "10"
+title: 电脑 vs 大师
+authors:
+  - Гик Е. Я.
+rubric: shahmatnaya-stranichka
+rubric_sub: Шахматы
+page_first: 67
+page_last: 68
+tag: 4T7I
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 54eecda1b50f059b69e5e001ad76c3170de57ad1064919c887214ef30884a68c
+prompt_sha256: draft-1
+translated_from: content/ru/1984/10/articles/02_gik-evm-protiv-grossmeystera-81927d54.md
+source_content_sha256: 6bb9be90832f1589ed858dcfc82ce430dc6890d1d8cc09b989d45ba61adeccfd
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+电脑VS大师
+
+在今年的«Kvant»第6期中，我谈到了A. Karpov用微电脑进行的两款游戏。有时有大师带着大型计算机。
+
+一场有趣的比赛（一对一）在普通chashin程序“Bell”的前世界冠军和机象棋领域的前世界冠军G. Berliner之间进行。
+
+《钟声》——柏林人
+ALEXin的防守
+1.е4 Kf6 2.e5 Kd5 3.d4 d6 4.Kf3 g6 5.c4 Kb6 6.ed cd 7.Ce2 Cg7 8.0—0 0—0 9.Ce3 Kc6 10.Kc3 d5！如果到目前为止计算机可以访问开局库，那么现在它被迫做出独立的决定 - 布莱克的最后一步在理论上是新颖的。 11.c5 Kc4 12.C:c4 dc 13.Qe2 Cg4 14.Jlad1。在困难的情况下，黑方将开始有趣的复杂情况，最终加剧他们的蠕动。 14...Kd4 15.C:d4 C:d4 16.Jl:d4。在 16.Kb5 e5 17.Kb:d4 ed 18.Q:c4 C:f3 19.gf Qf6 之后，位置出现较低的轮廓。贝尔选择了对白方有利的材料比例的选项。当然，计算机很难告诉他他的马不会那么灵活。 16...Q:d4 17.K:d4 C:e2 18.Kd:e2 Jlfd8 19.b3！ （19.Jl:d1 Jl:d1 20.K:d1 Jl:c8，黑方有明显优势）。
+
+19...cb 20.ab Jl:d2 21.f4！ Jlb2 22.Kd4 Jl:d8 23.Ka4。白棋防守巧妙，如果是23.Jl:d1，那么23...f6和24...e5。 23...Jl:d2 24.Kb5 a6 25.Kbc3 Jl:c2 26.Jl:d1 Jl:dd2 27.Jl:d2 Jl:d2 28.g3 f5 29.h3 Kpf7 30.Kpf1 e5！ 31.fe Kpe6 32.Kb6 Jl:c2 33.Ke2 Kp:e5 34.Kpe1 Kpe4 35.Kc4 g5！ 36.Kpd1 Jl:c4 37.bc Kpd3 38.公斤1？
+
+尽管黑方求胜心切，机器仍然不放过任何一个平局的机会。现在我应该继续38.h4！ h6 39.hg hg 40.Kg1 Kpe3 (40...g4 41.Ke2 Kp:c4 42.Kpd2 a5 43.Kpc2) 41.Kh3 f4 42.Kg5！ fg 43.Kpc2 g2 44.Kh3 Kpd4 45.Kpd3，没有获胜。 38...g4？相互礼让，38...Kpe3 39.Ke2 a5 白棋最终落入齐旺。不仅机器会犯错误，人也会犯错误。 39.h4？白方没有利用最后的机会 - 39.hg fg 40.Ke2 Kp:c4 41.Kf4 等 39...Kpe3！ 40.Ke2 Kpf2 41.Kpd2 a5！ 42.Kpd3 a4！ 43.Kd4 a3 44.Kpc2 a2 45.Kpb2 f4 46.Kf5 fg。白棋已经发牌了。食物并非没有错误，但机器的错误本质上完全是人为的。
+
+如果计算机服务游戏中的特级大师仍然很少（最好的程序在候选大师级别上玩他们最好的游戏），那么在一场势均力敌的比赛或同时进行的比赛中，他们会不时地接管国际象棋棋手。例如，有一次，计算机击败了英国大师 M. 斯蒂恩。
+
+《国际象棋》——斯蒂恩
+范切托女王
+1.е4 b6 2.d4 Cb7 3.Kc3 c5 4.dc bc 5.ce3 d6 6.Cb5+Kd7 7.Kf3 e6 8.0—0 a6 9.C:d7+Q:d7 10.Fd3 Ke7 11.Jlad1 Jl:d8 12.Qc4 Kg6 13.Jlfe1 Ce7 14.Fb3 Qc6 15.Kph1 0—0 16.Cg5 Ca8 17.C:e7 Ke7 18.a4 Jlb8 19.a2 Jlb4 20.b3。大师是选定的开始，机器也很巧妙地引导游戏，主要是划分发展动作。因此，虽然黑棋的位置更优，但等级的差异尚未影响解法。黑方的耳后赌博是典型的极乐派对。在都灵会议上，斯蒂恩被选为更可靠的接班人。 20...f5 21.Kg5 fe 22.Kc:e4。打开大对角线和面“f”的诱惑很大，但不可能利用这种情况，黑棋的中心明显被削弱。 22...Jl:f2？失去行动。可能大师希望以 23.K:f2 Q:g2× 快速完成除法。然而，一致的 23.Jl:d6 Q:d6 24.Kd6 R:g2 25.Kge4 Jl:g4 26.Ckf5 27.h3 Kg3+ 28.Kph2 Jl:e4 29. Qf2 h6 30.K:e4 K:e4 31.Ff3，经过几步黑方发牌。
+
+对于计算机来说，游戏最困难的阶段是残局，因为选项枚举（计算机的主要武器）在这里具有非常相对的价值。然而，如果结局是战术性的、组合性的，那么机器就能发挥出它最好的品质。计算机与大师W.布朗之间的无游戏就这样结束了。
+
+布朗——“国际象棋”
+白方要下a3，之后多子的实现就不那么简单了。世界第二大勺子，即中型计算机，正在朝着目标迈进。 47...g5！ 48.fg Jle5 49.b4 a5！ 50.Kd3 Jl:g5+ 51.Kpf2 ab 52.K:b4 Jla5 53.Kpe3 (53.Kc2 a2 54.Kb4 Jla4 55.K:a2 Ce6) 53...Ce6 54.Kpd4 Kg5！ 55.Kc2 a2 56.Kb4 Jla4 57.Kpc5 Ke4+ 58.Kpb5 Cd7+ 59.Kc6 Kc3+ 60. Kpc5 C:c 几步后白方发牌。
+
+竞赛任务
+
+19. 白棋开始并获胜。
+20. 白棋开始并获胜。
+
+发送答案的截止日期是1984年12月25日（信封上注明“国际象棋比赛«Kvant»，任务19、20]）。
+
+⟦folio none⟧
+
+在这张照片中，艺术家成功地将魔方“翻过来”。更准确地说，它显示了魔方图像相对于包含它的黑色圆圈的反转。您可以在今年第 5 页的«Kvant» 中了解有关反转的信息。 26. 我曾多次写过魔方«Kvant»，最后一次是在1983年的第9期，第19页。 33.

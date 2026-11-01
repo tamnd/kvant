@@ -1,0 +1,42 @@
+---
+id: 1984-12-zadachi-f5425b92
+issue: kvant_1984_12
+year: 1984
+number: "12"
+title: 任务
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 29
+page_last: 29
+page_labels: "27"
+tag: QQHL
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: be9d37e4154568ef90e22995304c97aa49d96aa17e0ee979f14b3f88d6d7baf7
+prompt_sha256: draft-1
+translated_from: content/ru/1984/12/articles/13_zadachi-f5425b92.md
+source_content_sha256: e4fac8f417dd2c6412ad7244ee8b3b9fdccc6f5832a9dadcc7a11c9b10ce3dfa
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 27⟧
+
+锻炼
+
+1. 需要在天平左侧放置多少个绿色杯子才能使图处的天平保持平衡？
+
+2. 在方格平面上，从A点引出三条射线AB、AC和AD（见图）。使用方形网格的属性证明角度 BAC 等于角度 CAD。
+
+3. 我最近找到了去年我们学校b-min班之间的曲棍球锦标赛的桌子。上面只保存了一小部分记录。尝试恢复该表。
+
+4. 图所示的图形需要分成6等份，仅沿网格线进行切割。你有多少种方法可以做到这一点？
+
+5. 图显示了带有铃、灯泡定时和时间按钮的电路，每个按钮在自由状态下连接一对触点，在按下时连接另一对触点。电路已包含在内。当您按下其中一个按钮时，它将如何工作？
+
+提供了这些任务：
+M. Koman（捷克斯洛伐克）和 B. N. Gordeychik。
+
+27

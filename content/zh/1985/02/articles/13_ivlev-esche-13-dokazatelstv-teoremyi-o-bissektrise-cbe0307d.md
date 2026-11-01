@@ -1,0 +1,49 @@
+---
+id: 1985-2-ivlev-esche-13-dokazatelstv-teoremyi-o-bissektrise-cbe0307d
+issue: kvant_1985_2
+year: 1985
+number: "2"
+title: 平分线定理的另外 13 个证明
+authors:
+  - Ивлев Б. М.
+rubric: shkola-v-kvante
+page_first: 31
+page_last: 31
+page_labels: "29"
+tag: O707
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 18e7532da42b3c89fa0a5e1ba5e40812d9cacbfb85fb17860d3a0d8387628842
+prompt_sha256: draft-1
+translated_from: content/ru/1985/02/articles/13_ivlev-esche-13-dokazatelstv-teoremyi-o-bissektrise-cbe0307d.md
+source_content_sha256: e8136ea7cd1567e398262d0a554818a28561d2fd8029f2c8f247d46304ee620c
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 29⟧
+
+数学 8、9
+
+下面发表的笔记“bicsectrix 定理的另外 13 个证明”是写给八年级学生的。 “论拉格朗日定理”的笔记是为九年级学生准备的。当然，这些笔记中的哪些不仅对这些课程的学生有用且有趣。
+
+bicsectrix 定理的另外 13 个证明
+
+1983年第8期«Kvant»杂志上发表了S. R. Sefi-bekov的一篇笔记《bicsectrix定理的四个证明》。编辑们收到了许多读者的来信，提供了该定理的新证明。本照会的依据是 S.G. Guba 发送的材料。此外，A.V. 指出的证据。阿利亚耶夫 (Alyaev)，A.G. 戈德堡 (Goldberg)，V.N.杜波夫，A.I.莫斯托夫被使用。
+
+让我们回顾一下该定理的条件。
+在任何三角形中，内角的二等分线将相对边分成与相邻边成比例的线段。换句话说，如果三角形ABC包含二分线CD，则AD:BD=AC:BC。
+
+让我们再提出这个定理的七个证明，其中六个对于完成“图形变换”主题的七年级学生来说是很容易理解的。
+
+显然，如果AC=BC，则定理成立。因此，我们假设AC≠BC。例如，AC>BC。那么二分切线 CD 不能重新分布到边 AB，因为否则直角三角形 CAD 和 CBD 在边和相邻锐角上将相等，由此可以得出 AC = BC。
+
+第一个证明。让我们在射线 CD 上构造一个点 E，使得 AE=AD (图 1)。则∠AEC=∠ADE=∠CDB。因此，三角形 ACE 和 BCD 相似（有两个角度）。这意味着AE:BD=AC:BC。考虑到 AE=AD，我们得到 AD:BD=AC:BC。
+
+第二个证明。让我们在射线 CD 上构造一个点 E，使得 AE=AC (图 2)。那么∠AED=∠ACD，即三角形AED和BCD相似。根据它们的相似性，我们有 AD:BD=AE:BC。由于AE=AC，定理得证。构造选项 - 检查通过 A 点平行于 CB 的直线，直到它与直线 CD 相交于 E 点。
+
+第三个证明。从顶点 A 和 B，我们将重新分布 AE 和 BF 降低到直线 CD (图 3) 上。根据直角三角形ADE和BDF的相似性，我们得到AD:BD=AE:BF。同时，根据直角三角形ACE和BCF的相似性，可得AC:BC=AE:BF。在得到的比例中，右边的比例相等，因此左边的比例也相等，即AD:BD=AC:BC。
+
+第四个证明。让我们通过点 D 画一条与边 AC 平行的直线 (图 4)。那么，由广义泰勒斯定理
