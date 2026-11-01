@@ -1,0 +1,43 @@
+---
+id: 1988-5-tihomirova-arhimedova-sila-v-literaturnyih-proizvedeniyah-cc019d3b
+issue: kvant_1988_5
+year: 1988
+number: "5"
+title: Archimedes' power in literary works
+authors:
+  - Тихомирова С. А.
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 45
+page_last: 45
+page_labels: "43"
+tag: 2R23
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 78834e8a79fbcbe6b40bbb85774a1dfda5b0463999d2f80173c19be8aab7690c
+prompt_sha256: draft-1
+translated_from: content/ru/1988/05/articles/08_tihomirova-arhimedova-sila-v-literaturnyih-proizvedeniyah-cc019d3b.md
+source_content_sha256: bc905b0b6dc841f25bdf4e72b10ac1d89438c5b694f2dd8dc1545d129002386e
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 43⟧
+
+wax... Holding the end of the reed with his lips, he disappeared under the water and with both hands lifted a stone the size of a cow's head. Having tied the load with a thin rope, Ratibor made a loop for his hand.”
+Why did Ratibor take the heavy stone in his hands?
+Nature has provided various adaptations that allow animals to live in water and swim. And “report-
+
+“striking” animals use various objects to facilitate swimming. We read lines from works of fiction.
+N. A. Nekrasov, “Grandfather Mazai and the Hares”:
+“A gnarled log floated past, Sitting, standing, and lying flat, a dozen Zaitsev were saved on it.
+
+“If I took you, sink the boat!” It’s a pity for them, however, and a pity for the find too - I caught a hook on a twig and dragged the log behind me...”
+
+Estimate the minimum volume of the log that the hares could swim on it. Estimate for yourself what the mass of a hare is.
+K. G. Paustovsky, “Meshcherskaya Side”:
+“On the banks of these rivers, water rats live in deep holes. There are rats that are completely gray with age. If you keep an eye on the hole, you can see how a rat catches a fish... To make it easier to swim, water rats bite off a long stem of the kuri and swim, holding it in their teeth... It perfectly holds on the water even something that is not as heavy as a rat.”
+Why does the kuri stem have good floatability?
+The Archimedes force acts on bodies in both liquids and gases. For re-

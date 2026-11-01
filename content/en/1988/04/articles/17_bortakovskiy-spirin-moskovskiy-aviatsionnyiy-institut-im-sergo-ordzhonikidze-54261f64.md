@@ -1,0 +1,100 @@
+---
+id: 1988-4-bortakovskiy-spirin-moskovskiy-aviatsionnyiy-institut-im-sergo-ordzhonikidze-54261f64
+issue: kvant_1988_4
+year: 1988
+number: "4"
+title: Moscow Aviation Institute named after. Sergo Ordzhonikidze
+authors:
+  - Бортаковский А. С.
+  - Спирин Г. Г.
+rubric: ekzamenatsionnye-materialy
+rubric_sub: Экзаменационные материалы
+page_first: 68
+page_last: 68
+page_labels: "66"
+tag: L0E7
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: ef68e4130ea58e436974027214a8bc97d55ff5f0eca0e857c755e882aa2b7176
+prompt_sha256: draft-1
+translated_from: content/ru/1988/04/articles/17_bortakovskiy-spirin-moskovskiy-aviatsionnyiy-institut-im-sergo-ordzhonikidze-54261f64.md
+source_content_sha256: 6d389dd8441f46e3ffbba5ccd2df14634de1edeb1a826e7a0b5fc6eb9f4b1651
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 66⟧
+
+with isobaric heating from $t_1=17^\circ\text{C}$ to $t_2=104^\circ\text{C}$. Gas pressure $p=100$ kPa.
+
+6. Into a flat capacitor with area dimensions $a \times b$, a dielectric of thickness $d$, equal to the distance between the plates of the capacitor, is connected parallel to side $a$ at a constant speed $v$. In this case, the capacitor is connected to the poles of the battery, the emf of which is $\varepsilon$. Determine the current strength arising in the circuit. The dielectric constant of the dielectric is $\varepsilon$.
+
+7. Two charged balls with a mass of $m=5$ g each, suspended on non-stretchable threads $l=1$ m long in the air, repelling from each other, diverged by $d=10$ cm. The charges of the balls are equal. Find the charge on each ball. The sizes of the balls are small compared to the distance between them.
+
+8. A resistor with resistance $R$ is connected to the battery, on which power $P$ dissipates. When connecting the same resistor in parallel to this resistor, the power released in the load did not change. Determine the internal resistance of the battery.
+
+9. A monochromatic wave is normally incident on a diffraction grating having a period $d=6$ µm. Determine the wavelength if the angle between the second and third order diffraction maxima is $\alpha=3^\circ$. The deflection angles are considered small.
+
+10. Find the speed of the photodetectors released from the cycle when illuminated by ultraviolet rays with a wavelength of $\lambda=0,3$ µm, if the work of the electron leaving the cycle is $A=4$ eV.
+
+The publication was prepared by Yu. V. Vozachev, V. A. Egorov, P. P. Kargaev, G. D. Lapin, V. A. Lifshits
+
+Moscow Aviation Institute named after. Sergo Ordzhonikidze
+
+Mathematics
+Written exam
+
+Option 1
+
+1. Solve the equation
+$$\sqrt{x-2}+\sqrt{x-1}=1.$$
+
+2. Graph the function $y=\sin(x+\pi)+1$. Write the equation of the tangent to the graph at the abscissa $\pi/4$.
+
+3. The second term of a decreasing arithmetic progression is equal to 10. If the first term of the progression is increased by 2, the second is left unchanged, and the third is increased by 3, then the resulting three numbers will be consecutive terms of the geometric progression. Find the sum of four terms of an arithmetic progression.
+
+4. Solve the equation
+$$\sin 2x=\sin x(\sin x+\cos x).$$
+
+5. In triangle ABC there are two altitudes $BM$ and $CN$, and $AM:CM=2:3$. Find the ratio of the areas of triangles $BMN$ and $ABC$ if the acute angle $BAC$ is equal to $a$.
+
+6. Solve the inequality
+$$\log_x \frac{12-4x}{4-x} \leq 1.$$
+
+7. Find all real $a$ for which there are possible values ​​of $x$ satisfying the inequality
+$$x^2(x-1)-a|x|(x+2) \leq 0,$$
+is the span of the number line.
+
+8. The base of the primada is a right triangle with an acute angle equal to $a$. The lateral ribs form angles of magnitude $\beta$ with the plane of the base. Find the volume of the primada if the length of the side edge is $b$.
+
+Option 2
+
+1. Solve the equation
+$$\sqrt{5-x^2}=x-1.$$
+
+2. Find stg $\frac{\alpha}{2}$ if $\cos \alpha=a$ and $\alpha \in \left(\pi; \frac{3\pi}{2}\right)$.
+
+3. Solve the equation
+$$(\log_2 x-3)\sin x=\sqrt{1-\cos^2 x}.$$
+
+4. Find the domain of the function
+$$f(x)=\log_x(7+8x-12x^2).$$
+
+5. Solve the system of equations
+$$\begin{cases} x+y=1, \\ 3^x+3^y=4. \end{cases}$$
+
+6. The lengths of the rhombus's minor diagonal, side, and major diagonal are successive terms of a geometric progression. Find the angles of the rhombus.
+
+7. It is known that the graph of the function $y=f(x)+2g(x)$ is a straight line AB passing through points A $(-1; 3)$ and B $(1; 2)$, and the graph of the function $y=3f(x)-g(x)$ is a straight line symmetrical to the straight line AB relative to the ordinate axis. Find the functions $f(x)$ and $g(x)$ and graph them.
+
+8. In a regular triangular example $SABC$, the height of which is twice the side of the base, points M and N are taken on the side edges SB and SC so that MN is parallel to BC. The planes α and β pass through the straight line MN. The plane α is redefined to the plane of the face SBC and contains the point A, the plane β passes through the middle of the side edge SA. Find the ratio of the surface area of ​​the plane α and β.
+
+Physics
+Written exam
+Option 1
+
+1. The work of moving a charge in an electric field.
+
+2. A thin hoop with radius $R$ was spun the vector of its axis to an angular velocity $\omega_0$ and placed on a horizontal table. How long will it take for the hoop to stop if the trey coefficient between the table and the hoop is $\mu$? How many revolutions will the hoop make?
