@@ -1,0 +1,58 @@
+---
+id: 1977-7-berezin-tsissoidyi-892798ae
+issue: kvant_1977_7
+year: 1977
+number: "7"
+title: 西索德
+authors:
+  - Березин В. Н.
+rubric: raznoe
+page_first: 48
+page_last: 48
+page_labels: "46"
+tag: 9DDB
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 92a582c4489cc86dba5acc013dd4cfbf3e2d208af72949753157a1b41f65d756
+prompt_sha256: draft-1
+translated_from: content/ru/1977/07/articles/13_berezin-tsissoidyi-892798ae.md
+source_content_sha256: c99d86f6a618f010798870d1edc40586eb98c0fc5286a8cab7d7c8155f9113fe
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 46⟧
+
+西松达斯
+
+Cissonda Dioclescus *) 也许是最古老的非凡曲线。可以这样定义。考虑一个任意圆 (O, r) 和其上的点 P。设 PQ 为圆的直径，l 为穿过 Q 点的切线 (图 1)。让我们选择一个任意点 L ∈ l。设 [PL] ∩ (O, r) = N。让我们在线段 PL 上构造一个点 M，其中 |PM| = |逻辑网络|。为所有可能的点 L ∈ l 构造的点集 M 是 Dioclescus cissonde。
+
+M 点的位置可以用一对数 ⟨φ, ρ⟩ 来描述，其中 φ = LPQ, ρ = |PM|。 ⟨φ，ρ⟩对称为极坐标**（M点，φ为其极角，ρ为其极半径）。点P称为极点（类似于坐标原点），矢量PM称为地射半径矢量。在 Dioclescus cissonde 中 - π/2 < φ < π/2。
+
+您可以写出与 Dioclescus cissonde 上任意点的极坐标相关的方程：
+
+ρ = 2r/cos φ - 2r cos φ 是投探仪的极坐标方程（推导）。
+
+让我们假设 PQ 是 Dioclescus cissonde 的对称轴。当 φ 趋于 π/2（或 κ - π/2）时，M 点趋向于 L；因此，我们假设 l 是 cissonde 的渐近线。
+
+*) 戴克里先生活在公元 250 年至 100 年之间。公元前。
+
+** 极坐标系（用于描述各种螺旋）显然是由 I. Newton 在 17 世纪 70 年代首次提出的。
+
+17 世纪末，cissonde 的概念得到了推广：设 f₁、f2 为两条任意（平坦）曲线，P 为任意点：否则，按照旧方式构造是任意的：我们取任意点 L ∈ f2 并在 PL 上绘制线段 PM，其中 |PM| =|逻辑网络| （这里 N = f₁ ∩ |PL|）。所得的 M 点集称为 cissonde。
+
+例如，报告如果 f₁ = (O, u)、f2 = (O, s) 且 P = O，将获得什么 cissonde。
+
+封面的第二页显示了通过固定曲线 f₁ = (O, r) 和极点 P ε (O, r) 获得的一系列顺弦曲线，如果 f2 发生变化：f2 是通过切线 l（封面上的“红线”）平行平移 2c 获得的。 （写出这些顺子的极坐标方程——参见 图 2。当然，它取决于参数 |c|）。
+
+cissonda Dioclescus（封面上的“红色 cissonda”）在杆子上有一个点。如果直线 f2 位于圆 f1 之外，则在距 f2 最远的点处，下垂线会倒圆。如果 f2 ∩ f₁ ≠ ∅，则地探空装置的极点有一个环路。特别是，如果 f2 通过圆 f1 的中心，那么 cissonde 就会变成 strononde («Kvant», 1977, No. 2)。
+
+让我们介绍一种构造其他 cissondes 的方法（来自封面所示的 cissondes 家族），该方法属于 Newoton。让我们在平面上定义一个点 R 和一条直线 l。取任意三角形 ABC (B = 90°)，其中 |AB| =|RT| （T 是从 R 到 l 的垂线的底边）。我们将正方形（图3）混合起来，使得顶点A沿着l滑动，滚动BC“穿过”R。然后腿AB的固定点M沿着cissonde落下（特别是，点B是一个弧线。stroponds）。
+
+如何展示这一点？让我们通过 M 画一条与 AR 平行的直线。让这条线与 RT 相交于点 Pₘ。根据三角形 ABR 和 ATR 的可构造性，点 Pₘ 占据线段 RT 上的位置，该位置不依赖于三角形 ABC 的位置。通过计算|MPₘ|，我们可以验证点M描述了一个cissonde。我们将其呈现给读者（我们建议使用极坐标方程）。
+
+使用牛顿的构造，很容易确定M点处的切线的位置。让我们通过R点画一条垂直于BC的垂线，并通过A画一条垂直于l的垂线。让这些垂直线相交于H点（图3）。然后在 M 点绘制的 HM 垂线将是所需的切线。
+
+V·贝雷津
