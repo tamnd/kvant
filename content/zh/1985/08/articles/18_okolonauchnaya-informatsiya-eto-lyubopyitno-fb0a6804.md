@@ -1,0 +1,56 @@
+---
+id: 1985-8-okolonauchnaya-informatsiya-eto-lyubopyitno-fb0a6804
+issue: kvant_1985_8
+year: 1985
+number: "8"
+title: 近乎科学的信息。这很有趣！
+rubric: kvant-ulybaetsya
+rubric_sub: «Квант» улыбается
+page_first: 53
+page_last: 53
+tag: YKTH
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: ed0f3e9da600afba2bc6a3110cfcb178a1dca2f932126c98738b610ef4964405
+prompt_sha256: draft-1
+translated_from: content/ru/1985/08/articles/18_okolonauchnaya-informatsiya-eto-lyubopyitno-fb0a6804.md
+source_content_sha256: d95ee3b1a816925e76f79b0b1b24cd8b40cffd3b77f7584eec32c0c6465e5a4e
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+量子微笑
+
+教育信息
+
+学园城的科学家们发现了来自未知文明的最新信号。第 6 个信号的开始对应莫斯科时间 12 点。
+
+计量研究所批准了国际单位制中的一个新时间单位：cio 分钟。
+
+对于 Rusik 魔方的爱好者：已经证明了一个定理，可以在不超过 6 步的时间内将 CD 从任何位置带到初始状态。校样使用了 Rusik 立方体、宽画笔和一套六种颜料。
+
+数学考试时，A.E.伊万诺夫老师从学生B.彼得罗夫手中拿走了小抄，看着所需的小抄，认出了他十五年前的笔迹。
+
+出版了《作品选集》。该藏品共64件，类型为2×2=4、5×5=25、6×6=36、7×7=49等。
+
+电工们会对 I. A. Goncharov 的新书《Breakage》感兴趣。
+
+对于已完成书面文献的申请者，已出版完整的论文集。有意者可联系VRD办公室。
+
+学生 Vasya Semechkin 学会了整个自然数列。现象演示将在 215 室继续进行。
+
+这很有趣！
+
+公理 1. 用笔写的东西不能用斧子砍。
+Axioma 2. 可以用斧头砍伐森林。结果。森林是无法用笔来描述的。
+
+Axioma 3. 他们等待承诺已经三年了。
+Axioma 4. 七不等一。
+结果。如果七个人等待三年才得到所应许的，他们就得到不止一件事的应许。
+
+根据数学学院 WRD 俱乐部的材料
+NSU 和 MIPT 报纸“For Science”

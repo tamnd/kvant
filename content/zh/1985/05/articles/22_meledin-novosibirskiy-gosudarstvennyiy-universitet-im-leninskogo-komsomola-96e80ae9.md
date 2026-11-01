@@ -1,0 +1,61 @@
+---
+id: 1985-5-meledin-novosibirskiy-gosudarstvennyiy-universitet-im-leninskogo-komsomola-96e80ae9
+issue: kvant_1985_5
+year: 1985
+number: "5"
+title: 新西伯利亚国立大学以该大学的名字命名。列宁共青团
+authors:
+  - Меледин Г. В.
+rubric: ekzamenatsionnye-materialy
+rubric_sub: Экзаменационные материалы
+page_first: 53
+page_last: 53
+page_labels: "51"
+tag: MTMR
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 4d7a6dc38c188ea13c38b1b06488d388dba3b0e1f6f71101eb2958fcf4468cbd
+prompt_sha256: draft-1
+translated_from: content/ru/1985/05/articles/22_meledin-novosibirskiy-gosudarstvennyiy-universitet-im-leninskogo-komsomola-96e80ae9.md
+source_content_sha256: 8531051681bc53ca05de13d3b3ea0b30b530bc14124e9987158e134e7f9e150e
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 51⟧
+
+新西伯利亚国立大学以该大学的名字命名。列宁共青团
+
+物理
+笔试
+物理学院
+
+每个varnat由三种类型的五个问题组成。
+
+前三个任务是计算任务，难度各异：从几乎标准到相对复杂，需要独创性、深厚的知识以及理解非特权或传统物理情况的能力。
+
+第四个任务是评估任务。为了解决这个问题，您需要了解所考虑的物理现象，制定该现象的简单（因为只需要估计）物理模型，选择结果 - 物理量的数值，最后获得或多或少与现实相符的数值结果。在问题正文中，我假设申请人可以选择解决问题所需的物理量及其数值。
+
+第五个任务是演示任务，您需要解释课堂上演示的物理现象。这里重要的是要了解现有的现象并突出各种因素中的主要因素。
+
+从演示完成开始，给了五个小时的时间来解决问题。
+
+选项1
+
+1. 将 ACB 线弯曲，使 A、C、B 点形成正三角形 (图 1)。 AC和BC边的中间连接有由一半截面积的导线制成的跳线EF。将电压 U 施加到 A 点和 B 点。找出跨接器上的电压降。
+
+2. 两个横截面积等于S1和S2的固定圆柱体通过管（图2）连接。气缸上覆盖有活塞，并且彼此刚性连接。活塞限制的气体体积最初等于V，系统内部的压力等于外部大气压p0。然后大气压力变为 p1。活塞会移动多远？温度恒定。我们来索赔吧。
+
+3. 车轮配有制动器 BC，其铰接在与车轮 A 的轴相同的刚性框架上的 B 点 (图 3)。拉伸的弹簧AC将制动片C压向轮辋，使得角度ACB等于a。当车轮顺时针旋转时，刹车片产生的摩擦力为F1。垫块与轮缘之间的摩擦系数为μ。求车轮逆时针旋转时的摩擦力。
+
+4. 继续在心里沿着铅垂线（带有重物的悬挂垂直线）画一条直线。对于中型船舶，估计这条直线将经过距地球中心的距离。
+
+5. 如果将活塞插入密封气缸中，能够沿着气缸组无摩擦地滑动，并且将负载附加到其上，则活塞相对容易地滑出气缸。如果您将水喝进气缸中，尽管负载质量很大，活塞仍会保持不动。解释一下这个现象。
+
+选项2
+
+1. 由预填充指数为 n 的透明物质制成的 svetovad 的外弯曲半径应该是多少，以便在 svetovad 直径为 l 的情况下，进入截面光变量的光将传播而不通过侧面（图 4）射出？
+
+2. 空气被迫通过可变截面管 (图 5)。入口面积为S，出口面积为S1。在入口处，空气速度恒定且等于 v，即温度
