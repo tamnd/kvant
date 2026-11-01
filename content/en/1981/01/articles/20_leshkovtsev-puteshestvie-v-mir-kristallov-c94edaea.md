@@ -1,0 +1,45 @@
+---
+id: 1981-1-leshkovtsev-puteshestvie-v-mir-kristallov-c94edaea
+issue: kvant_1981_1
+year: 1981
+number: "1"
+title: Journey into the world of crystals
+authors:
+  - Лешковцев В. А.
+rubric: retsenzii-bibliografiya
+rubric_sub: Рецензии, библиография
+page_first: 62
+page_last: 62
+page_labels: "60"
+tag: Y542
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 7c2a43a24bec8558d25ea4f480d7463daa9af322cd1f6b582a5a0f5fa4645a3d
+prompt_sha256: draft-1
+translated_from: content/ru/1981/01/articles/20_leshkovtsev-puteshestvie-v-mir-kristallov-c94edaea.md
+source_content_sha256: d0ba4b4e54e22329da62baaecf0934d3f9057b14b9d99178c806fa3748e42c3a
+translation_model: draft
+translation_run: en-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 60⟧
+
+Journey into the world of crystals
+
+The world of crystals is unusually diverse. It is represented by a variety of different forms, properties and patterns. Scientists have explored this world for many centuries. But our knowledge of crystals has never expanded or deepened as quickly as in recent decades.
+
+In 1944, the publishing house “Children's Literature” published a book “Crystals” by the famous Soviet specialist in crystal physics M.P. Shasolskaya. At that time, even many scientists considered crystallography (the science of crystals) boring, dry and almost useless to anyone. The author set out to show that this is far from the case, and the book turned out to be very exciting. In 1967, under the same title, the book was published by the State Technical Data Service. At the same time, the author significantly revised it for a slightly more prepared reader familiar with the basics of school physics. Recently, the publishing house “Hayka” again presented this book to a reader. In the author's new adaptation, it is intended primarily for high school students. The book has now been published in two parts. One of them is still called “Crystals”, and the second is “Essays on the Properties of Crystals”.
+
+Over the years since the publication of the first edition, crystals, according to the author, have been improved: it has become clear that many of their properties are determined not only by the structural correctness of their structure, the clear order in the arrangement of atoms, but also by violations of this correctness. As a result, crystals always have a variety of structural defects. They are born, reproduce, move, interact with each other. It is not the immobility of an ideal crystal, but the processes of movement of its individual parts and parts that characterize the structure of a real crystal and determine many of its properties.
+
+Books by M. P. Shasolskaya introduce the reader to the modern world of crystals, enriched with new knowledge and practical applications. The first book is rich in interesting information about crystals in nature and about crystals in laboratories and factory floors. It talks in detail about how natural crystals grow and how scientists create them. The author introduces us to the fate of famous diamonds and even talks about numerous superstitions associated with crystals. crystals in caves and clouds, in salt lakes and living organisms - all this has been written about in incredibly lively and interesting ways. And further study of how to grow artificial rubles, diamonds, quartz and other materials necessary for modern technology.
+
+The second book deals with the various properties of crystals - mechanical, electrical, optical, magnetic. It also talks about different
+
+*) M. P. Shasolskaya. Crystals (M., “Hayka”, 1978), price 40 kopecks; M. P. Shasolskaya. Essays on the properties of crystals (M., “Hayka”, 1978), price 30 kopecks.
+
+knowledge, to open the door to real science, to show how scientific truth cannot be added and how much joy it brings to its discoverers. That is why we truly recommend both books by M. P. Shasolskaya to our young readers.
+
+V. Leshkovce
