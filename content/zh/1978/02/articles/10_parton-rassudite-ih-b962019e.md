@@ -1,0 +1,65 @@
+---
+id: 1978-2-parton-rassudite-ih-b962019e
+issue: kvant_1978_2
+year: 1978
+number: "2"
+title: 评判他们
+authors:
+  - Партон В.
+rubric: smes
+page_first: 26
+page_last: 26
+page_labels: "24"
+tag: CW8F
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: dfe0d5d8b62d294a38b1e27e7b8351d4299d6559c8a69ef2f06ee927ac1bc00e
+prompt_sha256: draft-1
+translated_from: content/ru/1978/02/articles/10_parton-rassudite-ih-b962019e.md
+source_content_sha256: cb17e2586f2695760028290d55715b6363dcc83ae6a465fcca3ed37edeb4eab8
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 24⟧
+
+图 6.
+
+表面 (1) 沿平面 $z = b - \text{гипербола}, a$ 沿平面 $x = ly - \text{парабола} (b \neq 0, l \neq 0$ 图 6) 的剖面。
+
+表面的“数学”名称是双曲抛物面。
+
+利用式（1），不难证明同​​一个双曲抛物面对应着不止一对斜线！
+
+对于 $k$ 和 $c$ 所依赖的任何线 $\begin{cases} y = kx \\ z = c \end{cases}$ 和 $\begin{cases} y = -kx \\ z = -c \end{cases}$
+$$p = \frac{c(1 + k^2)}{2k},$$
+
+其中 $p$ 是给定常数，我们有相同的双曲抛物线 $xy = 2pz$。因此，两对这样的线位于平行平面$z = c, z = -c$内。如果我们考虑$k = y/x$和$c = z$，然后将它们代入(2)，我们得到所有线$m$和$n$通过方程$z(x^2 + y^2) = -2pxy$形成曲面。
+
+平面$xOz$和$yOz$称为表面$F$的方向平面：“一半”。摩尔母线平行于$xOz$平面，另一“一半”平行于$yOz$平面。在我们的例子中，这些平面相互垂直，双曲抛物线称为等边。在一般情况下，这些平面形成任意角度。诚然，在一般情况下，双曲抛物线不能通过组合旋转轴来获得，但是，第 4 段中给出的构造适用于它。仅在线$O_1A$和$O_2B$上，需要连接点$A_1$和$B_1$，以便$|O_1A| = \lambda |O_2B|$，其中$\lambda \neq 1$。
+
+练习 3. $x$ 和 $y$ 轴垂直。是否还有其他相互垂直的轴对？
+
+练习 4. 证明一条不属于我们集合的线最多有两个共同点。
+
+应用。引理的证明
+
+注意，以轴$l$为轴的旋转可以通过相对于通过直线$l$的平面对称的两个平面的组合来获得。事实上，让$R_l(A) = A_1$。让我们采用任意平面$\sigma \ni l$。然后$S_\sigma(A) = A'$。现在让我们通过线 $l$ 和线段 $[A'A_1]$ 的中点绘制平面 $\pi$。举报很容易$(A'A_1) \perp \pi$。因此$S_\pi \circ S_\sigma(A) = A_1$。另一方面，$S_\pi \circ S_\sigma$ 是旋转，因为此变换仅将线 $l$ 的点留在原处。但旋转是由轴和不在轴上的任意点的图像唯一指定的。因此，$R_l = S_\pi \circ S_\sigma$。
+
+1. 让轴 $u$ 和 $v$ 相交于点 $O$。考虑包含这些线的平面 $\pi$。那么$R_u$和$R_v$可以表示为：$R_u = S_\pi \circ S_\sigma, R_v = S_\sigma \circ S_\pi$。因此 $R_v \circ R_u = (S_\sigma \circ S_\pi \circ S_\pi \circ S_\sigma)$ = $S_\sigma \circ S_\sigma$，因为 $S_\pi \circ S_\pi$ 是相同的变换。但是$\sigma_2 \ni O$和$\sigma_1 \ni O$，所以线$\sigma_1 \cap \sigma_2$穿过点$O$。
+
+2. 设$m$为一条线，$R_l(m) = m$。如果一个点是$A \in m$和$A \notin l$，则$m$穿过$A$和$R_l(A)$。这意味着$m$属于垂直于$l$的某个平面，并且我们已经得到了该平面的旋转，对此声明是显而易见的。
+
+3. 与引理1同样证明通过$u$和$v$可以画出平面。如果$\sigma_1 \parallel \sigma_2$，将获得并行传输。
+
+评判他们
+
+在进行实验室工作时，学生在屏幕上接收到穿过棱镜的白光的色谱。
+
+- 多么美丽啊！ - 艾拉惊呼道。 - 如果眼睛的视网膜代替了屏幕，那么我们会看到什么？她问道。 - 比如什么？ -玛莎回答。 - 与屏幕上相同。从光谱反射到屏幕上的彩色光线以及来自各种物体的光线穿过眼睛的晶状体，导致图像在视网膜上翻转。人类大脑“学会”翻转出现在视网膜上的图像。因此，我们看到一切都是真实的。因此，眼睛会看到白光光谱中彩色光线的一般排列。 “我认为我们看到的光谱与屏幕上可见的光谱‘相反’，”艾拉说。
+
+读者，您认为哪一个是正确的？
+
+V·帕尔蒙

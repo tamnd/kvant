@@ -1,0 +1,53 @@
+---
+id: 1978-2-bashmakova-otvet-na-vopros-chitatelya-i-i-kornisa-ob-epitafii-na-mogile-i-nyutona-ea0235c1
+issue: kvant_1978_2
+year: 1978
+number: "2"
+title: 【回答读者I. I. Kornis关于I. Newton墓志铭的问题】
+authors:
+  - Башмакова И. Г.
+rubric: raznoe
+page_first: 56
+page_last: 56
+page_labels: "54"
+tag: CB0X
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: d231233dde64989e6d56b1ebdf48222a39dfbaaec63d10125e51a8a6f1ebc1b3
+prompt_sha256: draft-1
+translated_from: content/ru/1978/02/articles/22_bashmakova-otvet-na-vopros-chitatelya-i-i-kornisa-ob-epitafii-na-mogile-i-nyutona-ea0235c1.md
+source_content_sha256: 492e6d379779e22eb473d52c29535c6bf2b20b5c8b5d30959e794cc23eb43c72
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 54⟧
+
+提问 - 我们回答
+
+亲爱的编辑们
+«Kvant»
+1977年«Kvant»第6期，I. Bashmakova的文章《艾萨克·牛顿》中有一段题词——一副对联：
+“这个世界被深深的黑暗所笼罩。
+要有光！然后牛顿出现了。”
+我记得在一本旧书中我读到，在牛顿的坟墓上，墓碑上，有一个类似的铭文，但在那本书中，它是用英文给出的。马沙克的翻译是这段铭文的翻译吗？ A. Pope 的警句和牛顿墓碑上的铭文是否相同？
+如果可以的话，请告诉我牛顿墓前的情景。
+
+I. I. Kornis, ushitel, Dzhambul
+
+亲爱的同志。 I.I.科尼斯！
+您对 I. Newton 墓碑上的铭文及其与 A. Pope 对联的联系感兴趣。
+牛顿被安葬在伦敦威斯敏斯特教堂，墓碑上的铭文写道：
+艾萨克·牛顿爵士到此结束，这位贵族以近乎神圣的头脑，第一个用数学的火炬证明了行星的运动、彗星的路径和海洋的潮汐。
+他研究了光线的差异以及所出现的颜色的各种特性，这是他以前从未怀疑过的。作为自然、古代和圣经的实用、明智和忠实的来源，他肯定了全能上帝威严的哲学，并通过法律表达了福音的简单性。让凡人为人类如此装饰品的存在而欢欣鼓舞吧。生于 1642 年 12 月 25 日，卒于 1727 年 3 月 20 日。” （参见 S.I. Vavilov、Isaac Newoton，苏联科学院出版社，M.-L.，1945 年，第 216 页）。
+1755 年在三一学院竖立的牛顿雕像上刻有卢克莱修·卡拉 (Lucretius Cara) 的题词：“Qui genus humanum ingenio superavit”（即“他的智力高于人类”）。
+正如你所看到的，无论是哪一个铭文都与教皇的对联没有任何联系，这对联在原文中听起来是这样的：
+Nature and nature's laws lay hid in night.
+God said: «Let Newton be!» And all was light.
+这些台词很快就广为人知。 S. I. Vavilov 在他的著作《艾萨克·牛顿》中引用了 M. V. Lomonosov 对它们的重新定相：
+俄罗斯多年来一直笼罩在黑暗之中。
+河神：“让彼得来吧！”俄罗斯将会有光明。
+
+尊敬的 I. Bashmakova 教授

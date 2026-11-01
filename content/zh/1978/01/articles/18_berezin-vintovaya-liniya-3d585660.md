@@ -1,0 +1,54 @@
+---
+id: 1978-1-berezin-vintovaya-liniya-3d585660
+issue: kvant_1978_1
+year: 1978
+number: "1"
+title: 螺旋
+authors:
+  - Березин В. Н.
+rubric: raznoe
+page_first: 57
+page_last: 57
+page_labels: "55"
+tag: "0713"
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: c01954b99e1bcb517a8e9bd41280dcfcabdee5a086236fb39349959b161656d5
+prompt_sha256: draft-1
+translated_from: content/ru/1978/01/articles/18_berezin-vintovaya-liniya-3d585660.md
+source_content_sha256: 29f6205c20016ffa668f4da589b9a984badf0c231cac27dbd563ffcba3bcb98c
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 55⟧
+
+螺旋
+
+如今，很难找到一个至少与技术有一定联系且对螺旋一无所知的人。这也不足为奇。在技​​术装置中，从最常见的到最专业的，都离不开螺钉、螺栓、螺母、螺钉等。螺纹的边缘是螺旋线。它的使用主要是因为它的几何特性——螺旋线可以沿着自身滑动。然而，在建筑中，它被用来“最小化距离”：螺旋楼梯在建筑物中占用的空间更少。
+
+自然界中经常发现具有不同精度的螺旋线。高大植物的茎“一步一步”、“转转”沿着螺旋线爬上树干。龙卷风使树干扭曲。还想一下 DNA 分子、软体动物壳、风羚羊......
+
+我们给出一个定义：螺旋线l是由点M描述的空间曲线，它绕Oz轴以等速v₁旋转，同时沿Oz轴以等速v2滑动（图1）。 M点沿螺旋线移动一圈，沿Oz轴移动一个常数d（螺距）；它的投影M'描述了一个圆。
+
+图1展示了获得螺旋的另一种方法：将纸质矩形ABC用边AC粘到圆柱体表面并缠绕在圆柱体表面；因此，斜边 BC 位于螺旋线 l 上。事实上，根据螺旋线的定义，任意点 M ε l 处的切线 MN 与 Oz 轴形成恒定角度。因此，对于所有点 M ∈ l，切线 MN 与平面 xOy 的角度也保持恒定值 α。
+
+要确定圆柱体表面上两点 M₁ 和 M2 之间的最短距离线（所谓的测地线），需要将圆柱体表面转为平面，绘制 [M₁M2] 并将表面返回到位置模式。测地线实际上是螺旋线的一段。
+
+图 1.
+
+图 2.
+
+螺旋线在 xOz 平面上的投影是 sinunda（证明）。
+
+圆的展开是由直线的固定点沿着固定圆滚动而不滑动来描述的曲线。在 图 1 上，点 N 描述的正是这样一条曲线——圆的发展 (O, |OM'|)。
+
+环足运动是一条线，描述圆（Q，a）的点 P 沿固定直线 Ox 滚动但不滑动
+
+一艘船，粗略地说，就是一块螺旋面。
+
+由垂直于旋转轴的直线段形成的螺旋面称为直螺旋线（“helikond”从希腊语翻译为“螺旋状”）。封面的第一页显示了直接 helicode 模型。他的另一个模型是在螺旋钢丝上拉伸的肥皂膜。
+
+V·贝雷津

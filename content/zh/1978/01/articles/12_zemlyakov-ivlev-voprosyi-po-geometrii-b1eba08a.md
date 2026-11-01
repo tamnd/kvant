@@ -1,0 +1,61 @@
+---
+id: 1978-1-zemlyakov-ivlev-voprosyi-po-geometrii-b1eba08a
+issue: kvant_1978_1
+year: 1978
+number: "1"
+title: 几何问题
+authors:
+  - Земляков А. Н.
+  - Ивлев Б. М.
+rubric: po-stranitsam-shkolnyh-uchebnikov
+rubric_sub: По страницам школьных учебников
+page_first: 38
+page_last: 38
+page_labels: "36"
+tag: 3Z35
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 2f6ca27e4f9e95038f0007c60984baaa89c69e0043b7cd5ee9d33e73cbff729c
+prompt_sha256: draft-1
+translated_from: content/ru/1978/01/articles/12_zemlyakov-ivlev-voprosyi-po-geometrii-b1eba08a.md
+source_content_sha256: 46d5eee98dd7dffb4ca61b11cc06a23cb0b3c660e3235b1589a8399cf49106f9
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 36⟧
+
+几何问题
+
+对于下面列出的每一个问题，给出 5 个答案选项（a、b、c、d、e），其中只有一个是正确的。尝试找到所有问题的正确答案。请与问题末尾给出的答案核对一下。要完成这项任务，不需要学校课程范围之外的特殊知识。
+
+A. 几何变换和向量
+
+1 (VIII)*)。有多少个平面运动将 图 上指示的第一个线段（矩形的边）映射到第二个线段（参见 图）？
+
+a) 一，6) 二，c) 三，d) 四，e) 无限多。
+2（九）。有多少空间位移可以将给定的段映射到其自身上？
+a) 一，6) 二，c) 三，d) 四，e) 无限多。
+3（八）。相似平面上相似系数为2的三角形$T_1$和$T_2$存在多少个
+
+*) 问题编号后标明了其针对的类别。
+
+三角形，现成的$T_1$，具有给定的准备中心和全等三角形$T_2$？
+a) 一，6) 二，c) 三，d) 无限多个，e) 无。
+4（九）。在空间中，给出两个非零向量$a$和$b$。有多少个长度为 1 的向量 $x$ 可以满足 $x \cdot a = 0$ 和 $x \cdot b = 0$？
+a) 无，6) 一，c) 二，d) 无限多，e) 答案取决于 $a$ 和 $b$。
+B.直线与平面的相互排列
+5（八）。平面上有三点不在同一条直线上。这个平面上有多少条线与这些点等距？
+a) 一，6) 二，c) 三，d) 无限多个，e) 无。
+6（IX，X）。与不属于同一平面的四个给定点等距的平面有多少个？
+a) 一，6) 二，c) 三，d) 四，e) 无限多。
+7（VIII，X）。有多少条线将给定的三角形分成面积相等的两部分？
+a) 一，6) 二，c) 三，d) 四，e) 无限多。
+8（IX，X）。有多少条线与给定的三对斜线中的每一条相交？
+a) 无限多，6) 无，c) 一，d) 二，e) 三。
+9（IX，X）。直角$AOB$在某个平面上的正交投影是角$A_1O_1B_1$。角度$A_1O_1B_1$可以取什么值？
+a) 仅 $90^\circ$，6) $0^\circ$ 至 $180^\circ$ 中的任何一个，c) $0^\circ$ 至 $90^\circ$ 中的任何一个，d) $90^\circ$ 至 $180^\circ$ 中的任何一个，e) $45^\circ$ 至 $135^\circ$ 中的任何一个。
+10（X）。该平面与立方体相交，但不通过其任何顶点。这个平面可以与多少条立方体边相交？
+a)3或4，6)3至5，c)3至6，d)3至7，e)3至10。
