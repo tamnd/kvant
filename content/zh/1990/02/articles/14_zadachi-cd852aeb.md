@@ -1,0 +1,45 @@
+---
+id: 1990-2-zadachi-cd852aeb
+issue: kvant_1990_2
+year: 1990
+number: "2"
+title: 任务
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 53
+page_last: 53
+page_labels: "51"
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 00cb16b08266abed4c762825cdf6f6daba13a159202c6d6e116e2e0e76c486dd
+prompt_sha256: draft-1
+translated_from: content/ru/1990/02/articles/14_zadachi-cd852aeb.md
+source_content_sha256: 94b0ca5024fe7daeee296d73b638683acf4d4a7a4428f1dc8bceb771fd43beef
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 51⟧
+
+---
+running_head:
+folio:
+---
+
+任务
+
+1. 树上栖息着一群鸟——每根树枝上有三只鸟，还有一只鸟继续绕着树飞翔。然后所有的鸟儿都搬到了树上，每根树枝有四只，而一根树枝仍然自由。那里有多少只鸟和多少根树枝？
+
+2. 在一个新年的电话别墅里，邮递员A.沃兹涅先斯基读了他的诗，诗中说，司机认为那些号码前半部分数字之和等于后半部分数字之和的车号是幸运的。数字19-82是幸运的，因为1+9=8+2。而《按征兆进行调查》系列节目中则提到，根据司机的信念，前半部分和后半部分的数字之和等于100的数字，例如19-81，因为19+81=100，就是吉利。
+
+列出所有同时满足第一和第二意义的数字。
+
+3. 数字 BAOWAB 可以被 101 整除。它是多少？
+
+4. 从所有素数的序列： 2, 3, 5, 7,... 构造另外两个序列： 5=2+3, 8=3+5, 12=5+7, ... 和 6=2·3, 15=3·5, 35=5·7,... 在第一种情况下，连续的素数相加，在第二种情况下，它们是可变的。第一个序列的任何成员是否有可能等于第二个序列的某个成员？
+
+5. 是否存在具有以下属性的斑点星：可以围绕其任何红色四边形描述一个圆（参见图）？
+
+这些任务是由 Navoi Emamberdi Eglamberdiev 的 10 年级学生 A. Shvetsov、A. Savin，以及埃里温 Aram Hakobyan 的 9 年级学生 I. Nadel 向我们建议的。
