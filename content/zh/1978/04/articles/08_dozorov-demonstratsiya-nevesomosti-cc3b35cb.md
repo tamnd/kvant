@@ -1,0 +1,44 @@
+---
+id: 1978-4-dozorov-demonstratsiya-nevesomosti-cc3b35cb
+issue: kvant_1978_4
+year: 1978
+number: "4"
+title: 零重力演示
+authors:
+  - Дозоров А. А.
+rubric: laboratoriya-kvanta
+rubric_sub: Лаборатория «Кванта»
+page_first: 24
+page_last: 24
+page_labels: "22"
+tag: 375R
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 32600f8ba19e1219ff7e8e409273a9388c47d5623750a958b38f40e6e106fd53
+prompt_sha256: draft-1
+translated_from: content/ru/1978/04/articles/08_dozorov-demonstratsiya-nevesomosti-cc3b35cb.md
+source_content_sha256: 0d5b5049c427f08186a69b8446e08b993a4271e1c20c5bbf682f74c325801477
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 22⟧
+
+零重力演示
+
+失重状态是在自由飞行中实现的。轨道上的卫星、自由飞翔的石头、跳起来的人都处于失重状态。悬挂在线上的重物在自由飞行时是失重的，因此不会在线上施加张力。制造一种能够“观察”失重状态的装置很容易。
+
+在 图 1 处给出了设备的示意图。
+
+在“正常”状态下，重物（Г）拉动螺纹，弹性板（VII）弯曲，断开电路端子（K1和K2）之间的接触。在这种情况下，电路中包含的灯(L)自然不会点亮。如果整个装置被抛起，则负载处于失重状态，因此不会拉伸线。弹片处于非弯曲位置，端子闭合，灯亮。仅当整个设备失重时，该灯才会亮起。请注意，失重状态在上升和下降时都会发生。
+
+调节螺钉 (B) 允许您设置端子，以便在设备静止时端子稍微展开。整个设备安装在一个透明盒子内。 图2显示了设备的总体视图。
+
+制作该设备的一些实用技巧。为了能够同时使用大型（扁平）电池和小型“克朗”，最好在制造过程中专注于较大的扁平电池。大多数情况下，该设备包含电池，因此应该很容易使用它；您可以将其连接到设备的损坏部分，并在外壳上打一些小孔以用于连接电线。
+
+任何弹性金属细条，甚至安全剃须刀的半片刀片，都适合用作弹性板。
+
+图 1
+图 2

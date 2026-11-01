@@ -1,0 +1,54 @@
+---
+id: 1978-3-kordemskiy-spryatannaya-arifmetika-74070a6d
+issue: kvant_1978_3
+year: 1978
+number: "3"
+title: 隐藏算术
+authors:
+  - Кордемский Б. А.
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 44
+page_last: 44
+page_labels: "42"
+tag: M784
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 6660f79da54d8e664c975ce4e66f44665e2d49054b00fc9338d5a9b28e9b5431
+prompt_sha256: draft-1
+translated_from: content/ru/1978/03/articles/14_kordemskiy-spryatannaya-arifmetika-74070a6d.md
+source_content_sha256: 339e6b8b84b7ee50dc37eeb1d9e2c930486047cf607c31a0526a44895e0a1837
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 42⟧
+
+您可能不止一次遇到算术等式，其中所有或部分数字被字母或其他符号替换。在此类问题中，需要破译每个符号的含义并恢复数字记录。
+
+在印度和中国，这种“数学娱乐”早在1000多年前就已出现。在欧洲，此类问题直到20世纪初才开始被发明。在本世纪的困难时期，此类问题被称为“cryptarthmetic”——cryptarithmie（法语）、criptarithmetic（英语）。在欧洲和美国的杂志中，这个名字已被普遍认可。 （在我们的文献中，它们通常被称为“数字谜题”或“数字谜题”。）还建立了一些加密规则：用不同的字母替换不同的数字；避免用字母 O 代替零；使用一个非字母字符（“星号”）来替换任何数字。问题最好有唯一的解决方案。
+
+密码学问题一出现，立刻就流行起来。他们的编译器表现出越来越高的独创性和复杂性。例如，出现用字母代替数字形成单词甚至短语的问题。英国著名的数学难题编者 G. E. Dueden 是第一个提出此类问题的人。历史上的第一道难题是他于 1924 年出版的两道字母和算术难题：
+
+send + more = money; *)
+(two)·(two) = three.
+
+第一个谜题风靡全球，并赢得了该类型经典的声誉。
+
+让我们看一个“隐藏”算术的例子：**
+
+锡
+× 唐
+
+和***
+
+R**
+
+**E*
+
+***基*
+
+*) 寄更多的钱 - 更多的钱来了（英语）。
+**) Inn, Don - 河（Inn - 多瑙河的支流）。

@@ -1,0 +1,77 @@
+---
+id: 1978-3-zadachi-nashih-chitateley-e18f9d9b
+issue: kvant_1978_3
+year: 1978
+number: "3"
+title: 读者的任务
+rubric: smes
+page_first: 20
+page_last: 20
+page_labels: "18"
+tag: Q2TG
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 3b10ac29f637e1f2465757d5464cd1ffc724963927692eb26dc43cfd3a3b2be4
+prompt_sha256: draft-1
+translated_from: content/ru/1978/03/articles/06_zadachi-nashih-chitateley-e18f9d9b.md
+source_content_sha256: 65e26e47aff738aa7a8efc52c9f65139ca8b2094f261d7064e05afa3a1af7875
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 18⟧
+
+发生在平衡宏观系统中的现象称为波动。波动的存在最能说明玻尔兹曼统计理论的正确性。最容易观察到的波动是布朗运动，其含义如下。液体分子对浸没在液体中的任何物体的单个表面的冲击的数量和平均力 *) 处于完全定义的（在给定液体温度下）值的统计平衡状态。然而，实际上，这些值不断地经历与统计平衡缺失相关的小波动。这些振动非常小，以至于只放置一个非常小的颗粒
+
+*) 每单位时间传输的平均脉冲。
+
+锻炼
+我们的读者
+
+1. 对于某些函数 $f$ 和所有 $x$ ，对应关系成立
+$$f(x) = f(x-a) \cdot f(x+a),$$
+其中 $a$ 是某个固定数字。证明
+a) 函数$f$是周期函数；
+$$6) f(x-5a) \cdot f(x+5a) = f(x-7a) \cdot f(x+7a);$$
+c) 求函数$f$的周期。
+O·斯维托泽斯基
+（符拉迪沃斯托克，八年级）
+
+2. 让我们一个接一个地写下所有素数（每个素数）乘以某个固定的自然数。证明在生成的数字序列中，从 0 到 9 的每个数字都会出现无限次。
+V·索博利亚
+（莫斯科，十年级）
+
+3. 证明如果$x_0$是平方三项式$a_1x^2 + b_1x + c_1$和$a_2x^2 +$的共同根
+
+$$+b_2x + c_2, \quad D_1 \text{ и } D_2 \text{ — их дискриминаенты } (D_2 \neq 0),$$
+$$\lim_{x \to x_0} \frac{a_1x^2 + b_1x + c_1}{a_2x^2 + b_2x + c_2} = \pm \frac{\sqrt{D_1}}{\sqrt{D_2}},$$
+此外，如果$x_0$是每个三项式的较大根或每个三项式的较小根，则取“加”号；如果$x_0$是一个三项式的较大根和另一个三项式的较小根，则取“减”号。
+N·瓦西里耶娃
+（r.Novocherkask，十年级）
+
+4. 第一个两位数的立方等于第二个两位数的平方。第二个数字比第一个数字大 $n$ 倍 ($n \in \mathbb{N}$)。找到这两个数字。
+N·米哈尔科维奇
+（明斯克地区）
+
+5. 在采用循环赛制的国际象棋锦标赛中（即，每个棋手与其他人对弈一次），在总结结果时，表明数字的数量形成等差级数。如果“局外人”得分$2\frac{1}{2}$分，锦标赛冠军有多少分？
+
+P·维诺库尔
+（莫斯科河）
+
+6. 是否存在一个四位数$abcd$使得
+a) $abcd = ac \cdot bd$;
+b) $abcd = ac \cdot bd + ac + bd$?
+G·戈德法恩
+（里加河）
+
+7. 找到满足等式的四位数$abcd$
+$$abcd = 8ab \cdot (c + d).$$
+M·斯特雷伯斯
+（萨拉托夫河）
+
+8. 找到三个不同的数字 $a, b$ 和 $c$ 使得
+$$abc = ba \cdot bc.$$
+E·图尔克维奇
+（切尔诺夫策河）
