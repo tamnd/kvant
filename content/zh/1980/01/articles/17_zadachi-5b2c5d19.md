@@ -1,0 +1,46 @@
+---
+id: 1980-1-zadachi-5b2c5d19
+issue: kvant_1980_1
+year: 1980
+number: "1"
+title: 任务
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 43
+page_last: 43
+page_labels: "41"
+tag: DQDO
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: a2a0c0c846716a5d6810a1eb93671b6e31f3340393a5295c297bf1143dcabf7d
+prompt_sha256: draft-1
+translated_from: content/ru/1980/01/articles/17_zadachi-5b2c5d19.md
+source_content_sha256: 42216f6b5047e1cc213e5c0ed86ce52114ac5d9eed86923a61a3ff268ed4ee50
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 41⟧
+
+任务
+
+1. 我们班二十个男生，十四个是棕色眼睛，十五个是黑头发，十七个体重超过40公斤，十八个身高超过1米60厘米。证明至少有四个男孩具有列出的所有特征。
+
+2. 如果从某个数字减去 7 并将余数乘以 7，则得到的结果与从给定数字中减去 11 并将余数乘以 11 的结果相同。找到该数字。
+
+3. 有 5 张纸。其中一些被撕成五块。一些所得碎片再次被撕成五块。等等。继续这样操作，是否可以获得1980片叶子？
+
+4. 有许多质量不超过10公斤的重物。众所周知，如果所有的重物都以某种方式分成两堆，那么其中一堆的质量不得超过10公斤。找出所有重量中最常见的质量。
+
+5. 破译谜底：
+$$(\Pi C)^n = \text{ИКС}.$$
+
+6. 四位数$A = \overline{abcd}$是两位数$B$的平方。四位数字 $A' = \overline{dcba}$ 是某个两位数字的平方，该两位数字是数字 $B$ 的倍数。找到数字 $A$ 和 $B$。
+
+7. 方程是否成立
+$$x^2 + y^2 + z^2 = 1980$$
+自然数解？
+
+$$(\Pi C)^n = \text{ИКС}$$

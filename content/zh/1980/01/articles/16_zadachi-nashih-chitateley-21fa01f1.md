@@ -1,0 +1,75 @@
+---
+id: 1980-1-zadachi-nashih-chitateley-21fa01f1
+issue: kvant_1980_1
+year: 1980
+number: "1"
+title: 读者的任务
+rubric: smes
+page_first: 42
+page_last: 42
+page_labels: "40"
+tag: 1JM5
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: f0326727c31f992859564c5240e154e59b6a7ef313b2a2bf387aba90c3fa8e17
+prompt_sha256: draft-1
+translated_from: content/ru/1980/01/articles/16_zadachi-nashih-chitateley-21fa01f1.md
+source_content_sha256: bd9de0be7e987da5ef94414e0b600ad3941d154ddff1ea68c7ddf75ddcc38b08
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 40⟧
+
+F562。阳痿电容$C_1 = 2.00$ µF和$C_2 = 3.00$ µF串联，连接到电动势$E = 120$ V的电池上，中点接地。连接电容器的导线可以使用钥匙 K 接地。按 图 指示的方向合上钥匙后，求出将通过 I-I、II-II 和 III-III 部分的电荷 $q_1, q_2$ 和 $q_3$。
+
+在开关闭合之前，两个电容器的电荷$q$相同（因为电容器串联）并且相等
+
+$$q = \frac{C_1 C_2}{C_1 + C_2}$$
+
+合上按键后，电容上的方向将变为$\frac{1}{2} E$，电容上的电荷也相等
+
+$$q' = \frac{1}{2} C_1 E \quad \text{and} \quad q'' = \frac{1}{2} C_2 E.$$
+
+因此，费用将按照给定方向通过 I-I 和 II-II 部分
+
+$$q_1 = q' - q = \frac{C_1 (C_1 - C_2)}{2 (C_1 + C_2)} E = -2.4 \cdot 10^{-5} \text{ KJ}.$$
+
+和
+
+$$q_2 = q - q'' = \frac{C_2 (C_1 - C_2)}{2 (C_1 + C_2)} E = -3.6 \cdot 10^{-5} \text{ KJ}.$$
+
+开关闭合前相互连接的电容器极板的总电荷为零，开关闭合后变为等于$q'' - q'$。这样的收费非常/不，而且比III-III节更高级，那就是
+
+$$q_3 = q'' - q' = \frac{1}{2} (C_2 - C_1) E = 6 \cdot 10^{-5} \text{ KJ}.$$
+
+I·斯洛博杰茨基
+
+锻炼
+我们的读者
+
+使用 Cauchne-Bunyakovsky 不等式
+
+$$(A_1^2 + A_2^2 + \dots + A_N^2) \times \times (B_1^2 + B_2^2 + \dots + B_N^2) \geq (A_1 B_1 + A_2 B_2 + \dots + A_N B_N)^2$$
+
+（其证明参见V. Levin的文章“抛物线和不等式” - «Kvant»，
+
+1976 年，没有。 4；对于$N = 2$和$N = 3$，这个不等式的几何意义非常明确：两个向量的长度的乘积不小于它们的标量积），解决以下问题：
+
+1. 找到表达式的最小值
+   a) $(x + y)^2 + (x + a)^2 + (y + b)^2$，其中$a$和$b$是参数；
+   b) $(x + y + z)^2 + (x + a)^2 + (y + b)^2 + (z + c)^2$，其中$a, b, c$是参数；
+
+b) $(x_1 + x_2 + \dots + x_n)^2 + (x_1 + a_1)^2 + (x_2 + a_2)^2 + \dots + (x_n + a_n)^2$，其中$a_i$是参数。
+
+这些值是在什么值下实现的？
+
+2. 证明多项式任意实根的平方
+
+$$P(x) = x^n + a_n x^{n-1} + \dots + a_1 x + a_0$$
+
+其所有系数的可变平方和。
+
+L·普扎克

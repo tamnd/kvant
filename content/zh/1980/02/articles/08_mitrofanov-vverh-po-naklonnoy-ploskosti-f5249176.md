@@ -1,0 +1,71 @@
+---
+id: 1980-2-mitrofanov-vverh-po-naklonnoy-ploskosti-f5249176
+issue: kvant_1980_2
+year: 1980
+number: "2"
+title: 沿斜面向上
+authors:
+  - Митрофанов А. В.
+rubric: laboratoriya-kvanta
+rubric_sub: Лаборатория «Кванта»
+page_first: 26
+page_last: 26
+page_labels: "24"
+tag: WSNK
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 7d932164937f21f62e013700e720ed33f373738d90ad89cc8b5194d11f04a002
+prompt_sha256: draft-1
+translated_from: content/ru/1980/02/articles/08_mitrofanov-vverh-po-naklonnoy-ploskosti-f5249176.md
+source_content_sha256: 6aae67f79dc85dff6821adf48cd0b8e8523386ac9e2333beb3ca0f0ed3dcf713
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 24⟧
+
+沿斜面向上
+
+我们为您提供一种评估旧的且非常相似的技巧的体验。
+
+以两个相同的锥体为例，由木材、塑料或金属制成（材料根本不重要）。锥体可以是实心的，也可以是空心的，只要它们不太轻即可。将圆锥体与底座牢固连接（例如，将它们粘合在一起），并使圆锥体必须重合。对于实验，您还只需要一本旧书和两根相同的长杆。
+
+将书放在桌子上，然后排列杆，使一端放在书的边缘，另一端放在桌子上，并且处于同一位置。简而言之，书的杆和边缘应该形成一种等边三角形（图1）的“斜面”。
+
+现在取出紧固的圆锥体并将它们放在杆上，而圆锥体的轴线应水平。一旦你这样做，你就会看到锥体本身，在没有推动的情况下，会出现在一个倾斜的平面上......不是呼啸，而是向上，质疑通常的经验和常识。
+
+这招的秘诀是什么？当然，这里没有奇迹。事实证明，如果满足一定的条件，在向上“滚动”的过程中，圆锥体的中心不会上升，而是下降。乍一看，正是重力造成了这种不寻常的运动。
+
+必须满足什么条件？让我们更详细地考虑这个问题。让我们用 α 表示平面与地平线的倾斜角，用 2β 表示杆之间的角度，用 2γ (图 2) 表示圆锥顶点的角度。让锥体沿着导杆从位置I向上移动到位置II，l 1 和l 2 是锥体与杆的接触点之间的相应距离。
+
+从 图 2, a 可以清楚地看出，相对于接触点，圆锥体的重心（垂直）降低了一定量
+
+$$H = \frac{l_2 - l_1}{2} \text{tg} \gamma.$$
+
+接触点本身自然上升，它们上升的高度相等（见图2，b）
+
+$$h = |MN| \sin \alpha = \frac{l_2 - l_1}{2} \text{ctg} \beta \sin \alpha.$$
+
+现在不难制定锥体在斜面上“滚动”的条件。显然，为此必须满足 H > h 的要求：
+
+$$\frac{l_2 - l_1}{2} \text{tg} \gamma > \frac{l_2 - l_1}{2} \text{ctg} \beta \sin \alpha,$$
+
+或者
+
+$$\sin \alpha < \text{tg} \beta \text{tg} \gamma,$$
+
+只有在这种情况下，随着锥体在平面上向上移动，锥体的重量才会减少。
+
+如果相反的不等式成立
+
+$$\sin \alpha > \text{tg} \beta \text{tg} \gamma,$$
+
+锥体将真正从平面上滚下来，即下降。
+
+鉴于
+
+$$\sin \alpha = \text{tg} \beta \text{tg} \gamma$$
+
+锥体将倾斜

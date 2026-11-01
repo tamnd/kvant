@@ -1,0 +1,34 @@
+---
+id: 1980-2-zapolnenie-ploskosti-mnogougolnikami-8a9319da
+issue: kvant_1980_2
+year: 1980
+number: "2"
+title: 用多边形填充平面
+rubric: raznoe
+page_first: 27
+page_last: 27
+page_labels: "25"
+tag: AQKF
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: ff65fea5cb4da5b52861ed2ecf02d85287e1fe72a8dab5ad2a64bc9063913409
+prompt_sha256: draft-1
+translated_from: content/ru/1980/02/articles/09_zapolnenie-ploskosti-mnogougolnikami-8a9319da.md
+source_content_sha256: f471a8de92c6b1018d32986c98b473b8fbc3dcae92b125e4f7e36b7302991569
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 25⟧
+
+填充
+飞机
+多边形。
+
+仔细观察第一张封面上的结构：它是由大量拥挤的五边形组成的。这些五边形是非凸的；它们的不规则形状类似于拉丁字母 S（见封面）。事实证明，配置可以无限继续下去；与此同时，五边形继续以“双螺旋”展开并充满整个平面（没有间隙或相互重叠）。 1937 年，它的创造者、德国数学家 H. Wordenburr 证明了这一点。
+
+填充多边形平面的问题已在我们的杂志上多次讨论过。部分内容，于 «Kvant» 1979 年，第 2 期，第 12 页。 9 实木复合地板的分类，参见 «Kvant» 1972 年，第 8 期，第 12 页。 41 — 万花筒。与我们的配置不同，镶木地板和万花筒具有规则性和周期性的简单属性。在某种程度上，它们的所有顶点的结构都是相同的；它们可以在各种变化的帮助下折叠成自身。我们的配置有一组不同类型的顶点（与它们相邻的是 18、7、6 或 5 个多边形），并且只有一个不相同的运动（哪一个？）将图形转移到自身。
+
+尝试自己使用相同的多边形想出类似的交叉平面。如果您对这个主题感兴趣或者您创作红色绘画，请写信给我们。然后我们将回到这些问题。
