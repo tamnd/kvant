@@ -1,0 +1,40 @@
+---
+id: 1982-10-zadachi-750a490a
+issue: kvant_1982_10
+year: 1982
+number: "10"
+title: 任务
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 46
+page_last: 46
+page_labels: "44"
+tag: L7H2
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 860d00c5dc97cfccdfe9a06a2ac3b12a0f9f0905939c6066857a04cdfbd9c866
+prompt_sha256: draft-1
+translated_from: content/ru/1982/10/articles/10_zadachi-750a490a.md
+source_content_sha256: 9647e153ef0c9dcf719126b7f247bb007f77cd0b9036ef5b14505812f134fcfc
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 44⟧
+
+锻炼
+
+1. 在幼儿园，老师把一张纸放在孩子面前，上面画着几个圆圈。
+   - 有多少个圆圈？她问。
+   “七，”孩子回答。
+   - 正确的！ - 老师说。然后她把这张纸放在另一个孩子面前并问同样的问题。
+   “五，”孩子回答。
+   - 正确的！ ——老师又说了一遍。
+   在纸上画了多少个圆圈？
+2. 喝着茶，一缕阳光映在墙上。如果我们把茶匙从上方放到茶表面的中心，兔子身上的藤会是什么样的形状？
+3. 两个五位数的组合使得每个数字在其中任何一个数字中出现一次。例如，46781 和 50239。对于这些数字中的每一个，它们的乘积将是最小的，而对于每个数字，它们的乘积将是最大的？
+4. 西瓜被刀三刀分成了7份，吃的时候桌子上有8个瓜皮。第二个西瓜用刀划了四刀，分成了10份。当我吃完的时候，桌子上还剩下12个饼皮。第三个西瓜用刀划了四刀，分成了十五份。西瓜是怎么切的，最后一个西瓜还剩下多少皮？
+
+这些任务是 A. Kalinin、G. Kotkin、V. Proizvolov、A. Savin 向我们建议的。

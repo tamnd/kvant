@@ -1,0 +1,25 @@
+---
+id: 1982-12-maket-konstruktsii-iz-zvezdchatyih-mnogogrannikov-89694ac7
+issue: kvant_1982_12
+year: 1982
+number: "12"
+title: '[星型多面体结构模型]'
+rubric: smes
+page_first: 68
+page_last: 68
+tag: MQ27
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 16ac54c5fd0982d3d6f92be6c2779adf3c04a3c911a32965c49edd0253290ff8
+prompt_sha256: draft-1
+translated_from: content/ru/1982/12/articles/02_maket-konstruktsii-iz-zvezdchatyih-mnogogrannikov-89694ac7.md
+source_content_sha256: d2d32ca055d3a60341ff080f0819c41ddd1d1d36493bd4b15b8fb647d3f50072
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+这张照片展示了一个由星形多面体构成的结构模型，诞生于 A. M. Breslavets 的想象中，并由 N. N. Malsheva 执行。它今年在莫斯科的“建筑仿生学、新形式和设计”展览上展出，其展品强调了自然形式与现代结构之间存在的深层联系。他不仅用数学的正确性，还用喜庆的表情招待我们：亲爱的读者，新年快乐！

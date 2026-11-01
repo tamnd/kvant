@@ -1,0 +1,56 @@
+---
+id: 1982-10-gik-esche-raz-o-zhertve-ferzya-b5da5894
+issue: kvant_1982_10
+year: 1982
+number: "10"
+title: 再次关于女王牺牲
+authors:
+  - Гик Е. Я.
+rubric: shahmatnaya-stranichka
+rubric_sub: Шахматы
+page_first: 67
+page_last: 67
+tag: SAAJ
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 48545eb053b981e3855769e0909e7f7dee3d7ff7c432baa29e12c40ec9d369ff
+prompt_sha256: draft-1
+translated_from: content/ru/1982/10/articles/01_gik-esche-raz-o-zhertve-ferzya-b5da5894.md
+source_content_sha256: 25e9f50445e72d017c44ba8b45bcf8aedd1e7108af438793e30c33459bc7bd2f
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+再次谈论女王的牺牲
+
+牺牲皇后的组合很有吸引力，并引起了国际象棋爱好者越来越多的兴趣。因此，在我们的“页面”上，我们不断喜爱大师捐赠的皇后收藏。他们还会听有趣的事件。下一场比赛是 1981 年伏龙芝全国锦标赛（大联盟），由两位利沃夫大师进行。 A. 米哈尔奇申 - O. 罗曼申
+
+格里恩菲尔德的防守
+1. d4 Kf6 2. c4 g6 3. Kf3 Cg7 4. Kc3 d5 5. cd K:d5 6. e4 K:c3 7. bc c5 8. Ce3。理论上，其他延续是已知的 - 8. h3、8. Ce2、8. Rb1，但所采取的行动也不会立即失败。 8...Qa5 9. Qd2 Kc6 10. Rb1 cd 11. cd 0—0 12. d5??? CC3。白棋已经发牌了。
+
+如果 Grionfeld 能看到这个立场，他会很高兴能如此完美地实现他的开局想法 - 根本不可能向这位受惊的 g7 主教要求更多！
+
+米哈奇申很快就离开了舞台。罗曼辛看上去很困惑。他自己还没有完全意识到，他给他的朋友兼教练带来了一场非常令人失望的失败。 “我能做什么？-他为自己辩解。-点击 d2 并“留下来”？”正如你所看到的，粗眼者也是人......
+
+伏龙芝全国锦标赛非常令人兴奋，这不仅仅归功于所描述的事件。参赛者的平均年龄低于历届锦标赛，这影响了比赛的国际象棋内容——几乎所有比赛都牺牲了棋子和棋子，而最终的结果是——年轻的G.卡斯帕罗夫和L.普萨基斯成为冠军，操作性能比前辈高出两分半！
+
+E. Sveshchnikov - V. Tseshkovsky
+（伏龙芝，1981）
+
+后退后 - 22...Qg6 白棋会打出 23. 0-0！ （王和车还没有动）具有决定性的优势。意想不到的后续22...c3！ Teler 捕获王后导致了最罕见的交配结构，两个黑色肩章棋子对称地守护着间接国王 - 23. hg R:h1×。白棋没有拿Q，但经过三步——23.Kb5 cb 24.Q:b2 Qg5 25.a4 C:b5——他还是发牌了，观众被剥夺了观看“原始号码”的乐趣。
+
+加里·卡斯帕罗夫在这场比赛中牺牲了很多，但从未与他的女王分开。让我们来介绍一下这位年轻的国家冠军在学生世界锦标赛上的比赛片段。
+
+J.Suny - G.卡斯帕罗夫（格蕾丝，1981）
+
+黑马刚刚从f5跳到了h4，白王就感觉不舒服了。 38. Kf3 失败，因为 38...ef 39. R:d7 fg+40。 Kpg1 Kf3×，坏38。Kf5 Q：f5 39。
+
+19. 白黑四步后如何获得这个位置？
+
+20. 白棋和黑棋四步走后，这个棋局能出现在棋盘上吗？
+
+发送答案的截止日期是1982年12月25日（信封上注明“国际象棋比赛«Kvant»，任务19、20）”）。

@@ -1,0 +1,38 @@
+---
+id: 1982-10-mihaylov-znachenie-astronomii-ab5e216f
+issue: kvant_1982_10
+year: 1982
+number: "10"
+title: 天文学的意义
+authors:
+  - Михайлов А. А.
+rubric: osnovnye-stati
+page_first: 4
+page_last: 4
+page_labels: "2"
+tag: 6ACL
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 5d56e516d10c1aa566933cb993543dc6ec8b082d438a37fb2310650e71e9b0c6
+prompt_sha256: draft-1
+translated_from: content/ru/1982/10/articles/03_mihaylov-znachenie-astronomii-ab5e216f.md
+source_content_sha256: 5acc70a280447a8bdf2f5fa2eed80df2490ad772acafb632fda945c94d0e0486
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 2⟧
+
+天文学的意义
+
+天文学的重要性及其在人类历史中的作用常常被低估。人们相信天文学帮助制定了测量时间和定位的规则
+
+A·米哈伊洛夫
+
+地球和星空中发现了很多有趣的东西，但这一切与物理和化学等其他科学给我们带来的相比并没有那么重要。只有在我们的宇宙时代，天文学的重要性才变得更加明显。然而，可以说，如果没有天文学，那么世界历史将会有所不同。
+
+为了证实这一说法，让我们假设整个天空不断被厚厚的云层覆盖，导致人们无法看到太阳、月亮、行星和星空。尽管如此，昼夜的变化还是会发生，值得注意的是夜晚会周期性地变亮，这种现象与海潮有一定的联系。为了解释这一切，他们很可能会提出巧妙的理论——远非可行的尺度。
+
+感谢天文学，两千多年前他们就知道地球是一个球。这是由于太阳正午高度和恒星沿子午线方向移动时的最高高度的变化所致。月食期间地球落在月球上时的圆形阴影也表明了这一点。公元前 3 世纪，埃拉托色尼 (Eratosthenes) 首次成功地尝试确定地球的周长，现已到达我们身边。 e.鉴于天体的不可见性，这一切都无法——
