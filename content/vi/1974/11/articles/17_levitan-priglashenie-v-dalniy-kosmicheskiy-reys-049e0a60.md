@@ -1,0 +1,49 @@
+---
+id: 1974-11-levitan-priglashenie-v-dalniy-kosmicheskiy-reys-049e0a60
+issue: kvant_1974_11
+year: 1974
+number: "11"
+title: Lời mời tham gia chuyến bay vào vũ trụ đường dài
+authors:
+  - Левитан Е. П.
+rubric: retsenzii-bibliografiya
+rubric_sub: Рецензии, библиография
+page_first: 68
+page_last: 68
+page_labels: "66"
+tag: EFDF
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 77454cced553c590b8d59acfc11eecb1e0497d196de6951016caaa8e001a72d8
+prompt_sha256: draft-1
+translated_from: content/ru/1974/11/articles/17_levitan-priglashenie-v-dalniy-kosmicheskiy-reys-049e0a60.md
+source_content_sha256: 6c3225c03e28793c9c4ada0bed192d4ec9c7860d3f61dd7ebfd2e49016ba8d01
+translation_model: draft
+translation_run: vi-draft-2026-11-03
+translation_quality: draft
+---
+
+⟦folio 66⟧
+
+Lời mời bay vào vũ trụ sâu
+
+Cuốn sách của Yu. N. Efremov “Trong sâu thẳm vũ trụ” *), mời chúng ta đến những khu vực biệt lập nhất trong không gian vô biên, khiến chúng ta suy nghĩ về lý do tại sao mọi người lại cần những cuộc hành trình bất thường như vậy. Bạn còn nhớ cuộc tranh cãi giữa các nhân vật trong phim “Chín Ngày Một Năm” không? Một số người trong số họ lập luận rằng một người không cần phải mơ vượt ra ngoài ranh giới của hệ mặt trời, và thậm chí còn hơn thế nữa, vượt ra ngoài ranh giới của thiên hà. Một người khác hô vang: “Chúng tôi vì Galaxy!” Sau khi đọc cuốn sách của Yu. N. Efremov, bạn sẽ cảm thấy mình là những người tham gia vào cuộc tranh chấp này và sẽ tìm thấy nhiều lập luận thuyết phục, đặc biệt, chỉ ra rằng các bên theo quan điểm đầu tiên có thể không chỉ “vì Thiên hà” mà còn “vì Siêu thiên hà”.
+
+Không có thứ gọi là du hành không gian dễ dàng. Cuốn sách hay mà chúng tôi khuyên bạn nên đọc cũng không phải là một cuốn sách dễ đọc. Tác giả quyết định viết nó để “dễ tiếp cận hơn với những người không chuyên và để một số trang của nó sẽ được các nhà thiên văn học quan tâm”. Và anh đã hoàn thành xuất sắc nhiệm vụ này.
+
+Cuốn sách của Yu. N. Efremov tò mò, trước hết, bởi vì tác giả của nó, trong khuôn khổ hai ý tưởng quan trọng nhất trong tác phẩm của mình, đã phác thảo rất chi tiết và chi tiết một bức tranh vĩ đại về sự hiểu biết về thế giới của các ngôi sao và thiên hà. Những ý tưởng này là gì?
+
+Ý tưởng đầu tiên: toàn bộ lịch sử tìm hiểu Vũ trụ có mối liên hệ chặt chẽ với vấn đề giãn nở khoảng cách đến các thiên thể và hệ thống của chúng. Bằng cách chứng minh điều này, tác giả gần như tuyệt đối hóa khái niệm “khoảng cách tới một thiên thể”, biến nó thành một loại đặc tính vật lý của các thiên thể. Nghe có vẻ thú vị: “khối lượng Mặt trời”, “nhiệt độ của ngôi sao”, “đường kính của Thiên hà”, v.v. Nhưng trong cuốn sách của Efremov, bạn sẽ tìm thấy “khoảng cách của Mặt trời”, “khoảng cách của các ngôi sao gần đó”, “khoảng cách của các cụm sao”, “khoảng cách của các thiên hà”. Các nhà vật lý có quyền yêu cầu hệ thống báo cáo phải được chỉ định chính xác cho họ, hoặc không có “khoảng cách của Mặt trời”, nhưng có “khoảng cách
+
+*) Efremov Yu. N. Trong sâu thẳm của vũ trụ. M., “Khoa học”, 1973. Phát hành 50.000 bản, 200 trang, giá 31 kopecks.
+
+Mặt trời đến Trái đất", "khoảng cách của các ngôi sao gần Mặt trời", v.v. Nhưng đừng vội phẫn nộ, nếu không cuốn sách của Efremov sử dụng một định nghĩa hoàn hảo về hệ thống báo cáo: trong mọi trường hợp, chúng ta đang nói về khoảng cách từ Trái đất (hoặc Mặt trời) đến tất cả các thiên thể khác. vị trí trên thế giới, hoặc biết bản chất của các thiên thể.
+
+《Hãy cho tôi khoảng cách chính xác đến các thiên thể, tôi sẽ cho bạn biết bạn tìm thấy ở đâu và có gì trên các thiên thể》—đây là ý nghĩa cốt truyện trong cuốn sách của Efremov. Nhưng khoảng cách chính xác không đạt được một cách đột ngột và không ngay lập tức. Có rất nhiều ví dụ về những tính toán sai lầm và những quan niệm sai lầm liên quan. Nhiều “khoảng cách chính xác” vẫn là chủ đề tranh luận sôi nổi và những nghi ngờ đau đớn ngày nay. Vì vậy, câu chuyện về khoảng cách biến thành một vở kịch ý tưởng hấp dẫn, làm nảy sinh những ý tưởng ngày nay của chúng ta về Vũ trụ.
+
+Ý tưởng thứ hai: việc tích lũy dữ liệu tập thể về Vũ trụ và trên hết là dữ liệu liên quan đến khoảng cách đến thiên hà, truyền vào thế kỷ 20 của chúng ta kết quả định tính quan trọng nhất. Tác giả cuốn sách đánh giá kết quả này là một cuộc cách mạng sánh ngang với cuộc cách mạng Copernicus. Copernicus chỉ ra vị trí của Trái đất trong hệ mặt trời. Những thành công của thiên văn học ngoài thiên hà là mối quan tâm vượt xa phạm vi của thiên văn học “thuần túy”. Thế kỷ chính của lịch sử này được Yu trình bày trong mười cuốn sách. N. Efremov.
+
+Sau khi đọc cuốn sách này, bạn sẽ làm quen với các phương pháp khéo léo nhất của lời giải đa sắc bài toán, thu được nhiều thông tin về các thiên hà của chúng ta và các thiên hà khác, các loại sao, sao xung và quasarch khác nhau, đồng thời có được sự hiểu biết mới về phần lớn những gì bạn đã nghe nhiều lần trước đây.
+
+Cuốn sách của Yu. N. Efremov được viết một cách hấp dẫn. Cả nội dung cuốn sách lẫn hình thức của câu chuyện đều làm tôi say mê. Phần mô tả về những vùng đất rộng lớn lạnh lẽo của vũ trụ theo người đàn ông kể chuyện Imor (người không xa lạ gì với các nhà thiên văn học!) chứa đầy những so sánh mang tính biểu tượng, những đoạn văn bổ sung và điều đặc biệt quan trọng là thấm nhuần niềm đam mê của chính tác giả - một đồng phạm trong một số nghiên cứu và khám phá thiên văn quan trọng nhất. Niềm đam mê này cần được truyền tải đến người đọc. Suy cho cùng, niềm đam mê luôn gặp chúng ta. Đây có thể là cuộc gặp gỡ với một bí ẩn, thiên nhiên, một con người, một cuốn sách...

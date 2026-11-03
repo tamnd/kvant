@@ -1,0 +1,76 @@
+---
+id: 1974-9-kovantsova-xiv-matematicheskaya-olimpiada-shkolnikov-ukrainyi-da0e0502
+issue: kvant_1974_9
+year: 1974
+number: "9"
+title: Olympic Toán học lần thứ XIV dành cho học sinh Ukraine
+authors:
+  - Кованцова Л. В.
+rubric: raznoe
+page_first: 68
+page_last: 68
+page_labels: "66"
+tag: 88VW
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: f26956aa89a02b7e5403cac2b1ac3975be0e982b3c9c23898eb3250df77d4ddd
+prompt_sha256: draft-1
+translated_from: content/ru/1974/09/articles/21_kovantsova-xiv-matematicheskaya-olimpiada-shkolnikov-ukrainyi-da0e0502.md
+source_content_sha256: 70c76f436d453a6af7601155b622e08483fdb01452e6bfbb99b1e4749215d777
+translation_model: draft
+translation_run: vi-draft-2026-11-03
+translation_quality: draft
+---
+
+⟦folio 66⟧
+
+Olympic Toán học lần thứ XIV dành cho học sinh Ukraine
+
+Từ ngày 25 tháng 3 đến ngày 30 tháng 3 năm 1974, Olympic Toán Cộng hòa lần thứ XIV được tổ chức tại thành phố Dnepropetrovsk. Những người chiến thắng trong các cuộc thi Olympic khu vực đã được mời tham dự - những người, tại các cuộc thi về chủ đề, đã thể hiện sự linh hoạt về trí óc, sự độc đáo trong tư duy toán học và khả năng đọc hiểu toán học.
+
+300 học sinh đã đến Dnepropetrovsk: 54 học sinh lớp bảy, 66 học sinh lớp tám, 86 học sinh lớp chín và 94 học sinh lớp mười.
+
+Dnepropetrovsk nồng nhiệt chào đón các nhà toán học tương lai. Olympic mở rộng diễn ra vào ngày 25 tháng 3 tại Cung điện của những người tiên phong và học sinh ở Dnepropetrovsk. Tất cả những người tham gia trình bày cuộc thi tập trung tại hội trường Cung điện. Chủ tịch Olympic XIV, hiệu trưởng Đại học bang Dnepropetrovsk, Viện sĩ Viện Hàn lâm Khoa học Cộng hòa Xã hội chủ nghĩa Xô viết Ukraine V. I. Mossakovsky, đã phát biểu chào mừng họ. Vladimir Ivanovich kể chi tiết cho các em về Đại học Dnepropetrovsk, về thành phố, chúc mừng các em bắt đầu các cuộc thi quan trọng và chúc các em thành công.
+
+Vòng đầu tiên của cuộc thi diễn ra vào ngày 26 tháng 3. Học sinh mỗi lớp được trao ba bài toán và ba bài toán được trao vào ngày thứ hai của cuộc thi vào ngày 27 tháng 3. Vào cả ngày đầu tiên và ngày thứ hai, lời giải bài toán được trả lời trong ba giờ.
+
+Công việc của zhorni, với tư cách là một giám đốc giàu kinh nghiệm, được lãnh đạo bởi đại diện Bộ Giáo dục SSR Ucraina A.P. Shatkovsky.
+
+Mọi công việc của học sinh đều được thực hiện một cách cẩn thận và tận tâm. Phân tích bài toán với phân tích chuyên sâu về các lỗi điển hình được thực hiện ngay sau khi kiểm tra công việc.
+
+Trong thời gian nghỉ giữa các chuyến tham quan và phỏng vấn bài toán học sinh được giới thiệu về Dnepropetrovsk. Những hộ gia đình tốt bụng - trường dạy học ở Dnepropetrovsk - đã đồng hành cùng khách hàng của họ đi khắp thành phố, chỉ cho họ tất cả các địa điểm yêu thích. Các em đã đến thăm Bảo tàng Vinh quang Komsomol, Nhà hát dành cho khán giả trẻ và thăm các trường học trong thành phố.
+
+Một tuần trôi qua mà không được chú ý. Cờ Olympic được hạ xuống vào ngày 30/3. Tại lễ bế mạc, kết quả được tổng kết.
+
+7 lớp đã nhận bằng cấp 1: Vladimir Vovk (trường Chervonogradskaya số 1, vùng Lviv), Ner Kalika (trường số 32, Kiev) và Mark khỏa thân (số 50, Odessa);
+
+trong 8 lớp: Dmitry Limvienko (trường số 1, Sevastopol), Serey Liftsits (trường số 27, Kharkov);
+
+trong 9 lớp: Alexander Blokha (trường số 27, Kharkov), Ilya Bakhumutsky (trường số 52, Lvov), Alexander Reznikov (trường số 145, Kiev), Ilya Yunus (trường số 27, Kharkov);
+
+trong 10 lớp: Grigory Sklyar (trường số 27, Kharkov), Nikolay Chernov (trường số 95, Krivoy Rog, vùng Dnepropetrovsk), Nikolay Sherbina (trường số 80, Dnepropetrovsk).
+
+17 người nhận bằng tốt nghiệp cấp hai và 29 người nhận bằng cấp ba. 242 người đã nhận được bằng tốt nghiệp tham gia Olympic XIV dành cho học sinh Ukraine. Ngoài ra, nhiều trẻ em đã nhận được bằng tốt nghiệp, giải thưởng và quà tặng đáng nhớ do các cơ sở giáo dục đại học của Dnepropetrovsk thành lập.
+
+Dưới đây là một số bài toán mèo được đưa ra tại Olympic.
+
+lớp 8
+
+1. Tìm giá trị nhỏ nhất của biểu thức
+$$\frac{a_1}{1 + a_2 + a_3 + \dots + a_{1974}} + \frac{a_2}{1 + a_1 + a_3 + \dots + a_{1974}} + \dots + \frac{a_{1974}}{1 + a_1 + \dots + a_{1973}},$$
+nếu $a_i \geq 0$ và $a_1 + a_2 + \dots + a_{1974} = 1$.
+
+2. Có bốn đường thẳng ở vị trí tổng quát cho trên mặt phẳng (nghĩa là cứ ba đường thẳng đó tạo thành một hình tam giác). Một trong số chúng song song với đường trung tuyến của tam giác được tạo bởi các đường thẳng còn lại. Chứng minh rằng các tính chất này cũng đúng với mọi tính chất khác.
+
+lớp 9
+
+3. Chứng minh rằng có vô số số tự nhiên không biểu diễn được dưới dạng
+$$a_1^6 + a_2^6 + \dots + a_7^6,$$
+trong đó $a_1, a_2, \dots, a_7$ là số tự nhiên.
+
+lớp 10
+
+4. $n$ tia được vẽ từ một điểm trong không gian sao cho hai tia bất kỳ tạo thành một góc ít nhất là 30°. Chứng minh rằng không có nhiều hơn 58 tia.
+
+L. V. Kovantsova

@@ -1,0 +1,57 @@
+---
+id: 1974-11-mochalov-labirint-alfavit-1fcab8b0
+issue: kvant_1974_11
+year: 1974
+number: "11"
+title: Bảng chữ cái mê cung
+authors:
+  - Мочалов Л. П.
+rubric: smes
+page_first: 18
+page_last: 18
+page_labels: "16"
+tag: NCAJ
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 811814929766ba6511b226e4192961a4bf2112b9fc5ec300c2c593fe2476772f
+prompt_sha256: draft-1
+translated_from: content/ru/1974/11/articles/06_mochalov-labirint-alfavit-1fcab8b0.md
+source_content_sha256: 0967ec7ea39fb1780a7f7bc301856b213d12bd83b3dd49b849b4efb83cfb7a72
+translation_model: draft
+translation_run: vi-draft-2026-11-03
+translation_quality: draft
+---
+
+⟦folio 16⟧
+
+cùng với những quan sát của Tycho Brahe.
+Tìm kiếm dữ liệu cần thiết trong mạng xã hội của Kepler? Tác giả đã quyết định đi một con đường đơn giản hơn.
+
+Hãy lấy một chu kỳ 284 năm. Như chúng tôi đã nói, sau khoảng thời gian như vậy, cuộc đối đầu bắt đầu với độ trễ ba ngày. Vào năm 1604, các điều kiện về tầm nhìn của Sao Hỏa phải gần với các điều kiện vào năm 1888, khi cuốn Niên lịch Hàng hải của thiên văn học người Anh đã được xuất bản. Nó nói rằng vào năm 1888, sự đối lập của sao Hỏa xảy ra vào ngày 9 tháng 4. Điều này có nghĩa là năm 1604 phải là tháng Tư. Kẻ mạo danh xuất hiện vào tháng 8 năm 1604. Do đó, trong cuộc hành quân trên shirov ở Krakow (50°), Chernigov (51°.5) và các thành phố khác mà quân đội của Kẻ giả vờ đi qua, Sao Hỏa vẫn có thể nhìn thấy vào buổi tối ở phía trên đường chân trời (độ xích vĩ của nó là khoảng -20°) và có thể dẫn đến danh hiệu vị trí của Zhabczyc.
+
+Đây là những đặc điểm biểu hiện và biểu hiện các điểm đối lập của sao Hỏa, được những người yêu thích thiên văn học ưa chuộng không kém gì nhật thực và nguyệt thực.
+
+Bảng chữ cái mê cung
+
+Các chữ cái trong bảng chữ cái được viết trong 64 ô vuông. Bắt đầu bằng chữ A ở góc trên bên trái, vẽ một đường đứt nét không giao nhau, đi qua đúng 33 chữ cái trong bảng chữ cái và kết thúc ở góc dưới bên phải bằng chữ Z. Đường đứt nét có thể cắt các cạnh của các hình vuông nhỏ, nhưng không được đi qua các đỉnh của chúng.
+
+A B N Y R D E Y
+F W M D K W F R
+E UY L M B E A
+OY V F E U E X
+CH YOSH S B G L N
+Ts F Z Sh S T Y K
+P E T B P E C H
+I V E G Z O I
+
+A H E B Y J K W
+N S P R S H O S H O
+Z E U E E M E E
+V X V I P F CH N
+SH U G L C Y D E
+A CHÚNG TÔI LÀ E C L I Z
+T F CH B E Y Y R
+J B K S G D F Y
+
+L. P. Mochalov

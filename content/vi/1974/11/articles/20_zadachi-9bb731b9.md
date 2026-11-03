@@ -1,0 +1,56 @@
+---
+id: 1974-11-zadachi-9bb731b9
+issue: kvant_1974_11
+year: 1974
+number: "11"
+title: Bài toán
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 76
+page_last: 76
+page_labels: "74"
+tag: 4GKQ
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: f5b3d8c115769d4f9f38252a753bb9f7182ae9ac33153578a11d772e938ab846
+prompt_sha256: draft-1
+translated_from: content/ru/1974/11/articles/20_zadachi-9bb731b9.md
+source_content_sha256: 9604e738b940802bc0b5b2fc29fd0167cbf6ebe8cfcc2043f81d697217857f49
+translation_model: draft
+translation_run: vi-draft-2026-11-03
+translation_quality: draft
+---
+
+⟦folio 74⟧
+
+Nhiệm vụ
+
+1. Voloda viết trên bảng đen:
+$$1*2*3*4*5*6*7*8*9=21$$
+và cùng với các ngôi sao, anh ấy đặt dấu cộng hoặc dấu trừ. Sasha đã chuyển một số dấu hiệu sang những dấu hiệu ngược lại và kết quả là cùng với số 21, anh nhận được số 20.
+
+Có thể nói rằng ít nhất một cậu bé đã mắc lỗi khi tính kết quả?
+
+2. Nhiệt độ ngọn lửa nến ~1600°C. Nhiệt độ nóng chảy của sắt là 1400°C. Tại sao móng tay không tan chảy trên ngọn nến? (Và nếu bạn đem copka sắt vào ngọn lửa trên tay cầm chịu nhiệt, nó sẽ tan chảy.)
+
+3. Khôi phục ký hiệu nhân:
+
+ODE
+CƠM
+PAT
+IND
+SOP
+THỂ THAO
+
+4. Bánh xe Segner có quay trong chân không không? (Vòng hoa hình con nhện mà bạn nhìn thấy trong hình là bánh xe Segner.)
+
+5. Tìm năm số biết rằng tổng của chúng lần lượt là 3, 5, 6, 9, 10, 10, 12, 14, 16 và 17.
+
+6. Đây là hình ảnh của một khối lập phương trên mặt phẳng. Vẽ mà không cần nhấc bút chì ra khỏi giấy, một đường thẳng liên tục giao nhau với tất cả 16 đoạn tạo nên hình.
+
+Dòng này nên bắt đầu ở đâu và kết thúc ở đâu?
+
+Hình E. Nazarova
+
+74
