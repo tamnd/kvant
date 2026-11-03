@@ -1,0 +1,34 @@
+---
+id: 1974-12-zolotaya-medal-kaissyi-fce961b1
+issue: kvant_1974_12
+year: 1974
+number: "12"
+title: Huy chương vàng "Kaissa"
+rubric: smes
+page_first: 84
+page_last: 84
+tag: M87E
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: c340ea31373a40627dfd289f8ba95a819832db2a949e8289011d85e6d1dc216f
+prompt_sha256: draft-1
+translated_from: content/ru/1974/12/articles/01_zolotaya-medal-kaissyi-fce961b1.md
+source_content_sha256: 0971f330093abfe98403a83f343e5b7611977b966942fb361e8a726acc12bdcd
+translation_model: draft
+translation_run: vi-draft-2026-11-03
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+HUY CHƯƠNG VÀNG
+"KAISS"
+
+Từ ngày 5 đến ngày 8 tháng 8 năm 1974, Giải vô địch cờ vua máy tính thế giới lần đầu tiên được tổ chức tại Stockholm. 13 chương trình từ 8 quốc gia đã tham gia. Vị trí đầu tiên thuộc về chương trình "Kanssa" của Liên Xô, được tạo ra tại Viện các vấn đề quản lý.
+
+Bản chất thể thao của cuộc thi này không được làm lu mờ ý nghĩa khoa học của nó. Các thuật toán khác nhau để chơi cờ vua được tạo ra vì những thuật toán này có thể được sử dụng trong các bài toán khác liên quan đến việc chọn lời giải trong một tình huống khó khăn. Các nhà khoa học đã chọn cờ vua làm hình mẫu cho bài toán - rất quan trọng trong quản lý, kinh tế và các lĩnh vực thực tiễn khác - bởi vì, một mặt, cờ vua có luật chơi đơn giản và chiến lược phức tạp, mặt khác, ưu điểm và nhược điểm của thuật toán được thể hiện rõ ràng trong cờ vua.
+
+Trong số cuối cùng của tạp chí đã viết về cách nói chung bạn có thể dạy một cỗ máy chơi cờ.
+
+Số này kể về sự chuẩn bị đặc biệt của Kansa cho chức vô địch.

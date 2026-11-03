@@ -1,0 +1,78 @@
+---
+id: 1974-9-dyakonov-kachanov-nasluzov-televidenie-gotovit-v-vuz-e4047bb6
+issue: kvant_1974_9
+year: 1974
+number: "9"
+title: Truyền hình chuẩn bị vào đại học
+authors:
+  - Дьяконов И. А.
+  - Качанов А. В.
+  - Наслузов И. И.
+rubric: raznoe
+page_first: 69
+page_last: 69
+page_labels: "67"
+tag: 95Z0
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 98d19b247639f8620b7e8fcf9a00cf38242f5e94e8bbed4fd2b1b93842050b1a
+prompt_sha256: draft-1
+translated_from: content/ru/1974/09/articles/22_dyakonov-kachanov-nasluzov-televidenie-gotovit-v-vuz-e4047bb6.md
+source_content_sha256: 374f0b632155961fcd91237005105767e9924f4b6779cddf51eefb1b4633dfd0
+translation_model: draft
+translation_run: vi-draft-2026-11-03
+translation_quality: draft
+---
+
+⟦folio 67⟧
+
+TV
+CHUẨN BỊ ĐẠI HỌC
+
+Vào ngày 1 tháng 9, các lớp học dự bị trên truyền hình ở Moscow dành cho các ứng viên vào các trường đại học đã bắt đầu.
+
+Mục đích chính của các khóa học dự bị truyền hình là hỗ trợ những người vào đại học. Trong năm học, các chương trình dự bị trên truyền hình được cung cấp các chương trình theo chu kỳ về vật lý, toán học và tiếng Nga, dựa trên “Chương trình thi tuyển sinh dành cho các ứng viên vào các cơ sở giáo dục đại học của Liên Xô”. Telecourses nhằm mục đích hệ thống hóa kiến ​​thức của học sinh, dạy các em áp dụng kiến ​​thức vào lời giải câu hỏi cụ thể và bài toán. Thông qua các khóa học từ xa, sinh viên sẽ được làm quen với hình thức giảng dạy trên lớp và có được kỹ năng làm việc độc lập.
+
+Các lớp học truyền hình tiếp tục trong suốt năm học. Người nghe chuẩn bị truyền hình được giao các bài tập về nhà bắt buộc với nhiều độ khó khác nhau. Định kỳ, công việc kiểm soát được thực hiện trên các phần đã ăn.
+
+Quy tắc đăng ký đáp số cho các bài tập được nêu trong chú thích của các lớp, chú thích này sẽ xuất hiện trong một phong bì gửi đến các khóa học “Mẫu đơn đăng ký”, “Thẻ đăng ký” và một phong bì có địa chỉ gửi lại.
+
+“Mẫu đơn đăng ký” được lập trên một tấm bưu thiếp, ở mặt trước bạn phải ghi địa chỉ và số điện thoại (nhà hoặc văn phòng) của mình (nếu có). Mặt sau của thẻ được thiết kế giống như trên mẫu. Ở góc trên bên phải, nhớ đặt các chữ cái tương ứng với các khoa mà bạn muốn theo học (nếu học sinh định học ở tất cả các khoa thì phải viết ba chữ cái tương ứng: “F” tương ứng với khoa vật lý, “M” - toán học, “P” - tiếng Nga và ghi rõ tên của tất cả các khoa trong văn bản ứng dụng).
+
+“Thẻ đăng ký” cũng được cấp trên bưu thiếp. Ở mặt trước ghi địa chỉ của bạn, thiết kế rõ ràng như trên mẫu. Một bức ảnh nên được dán vào góc trên bên trái (kích thước 3 cm × 4 cm). Mỗi chi nhánh sẽ điền một “Thẻ đăng ký” riêng.
+
+Trên các lá thư có đơn đăng ký các khóa học, sinh viên phải viết cả ba chữ cái (“F”, “M”, “P”), được ghi trong đơn đăng ký, ở góc trên bên trái của phong bì.
+
+M
+BẢNG CÂU HỎI ỨNG DỤNG
+
+1. Họ, tên, chữ viết tắt
+2. Năm sinh
+3. Nghề nghiệp (học tập, làm việc)
+4. Nơi làm việc, chức vụ, thời gian công tác (nếu đi làm)
+5. Anh ấy định cho nó vào trường đại học nào?
+
+Tôi xin bạn chấp nhận tôi vào khoa toán của các khóa học dự bị từ xa ở Moscow dành cho các ứng viên vào các trường đại học.
+
+Chữ ký, ngày
+
+Ảnh 3x4
+
+M
+SỰ ĐĂNG KÝ
+THẺ
+
+(khoa toán học)
+
+1. Họ, tên, chữ viết tắt
+2. Nơi học (nếu là giáo viên)
+3. Điểm toán hàng năm cuối cùng bạn nhận được ở trường hoặc cơ sở giáo dục trung học
+4. Anh ấy định cho nó vào trường đại học nào?
+
+Như kinh nghiệm của các khóa học từ xa cho thấy, hơn 90% sinh viên học tập một cách có hệ thống trong năm học đã đỗ thành công vào nhiều trường đại học trong nước.
+
+Địa chỉ của các khóa học từ xa: Moscow 113162, Shabolovka, 37, Tòa soạn chính của các chương trình giáo dục và khoa học phổ thông, các khóa học dự bị của khu truyền thông Moscow.
+
+I. A. Dyakonov, A. V. Kachanov,
+I. I. Nasluzov

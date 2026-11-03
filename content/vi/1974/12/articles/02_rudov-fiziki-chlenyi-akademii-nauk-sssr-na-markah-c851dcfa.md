@@ -1,0 +1,44 @@
+---
+id: 1974-12-rudov-fiziki-chlenyi-akademii-nauk-sssr-na-markah-c851dcfa
+issue: kvant_1974_12
+year: 1974
+number: "12"
+title: Các nhà vật lý - thành viên của Viện Hàn lâm Khoa học Liên Xô trên tem
+authors:
+  - Рудов В. А.
+rubric: raznoe
+rubric_sub: Разное
+page_first: 83
+page_last: 83
+tag: G694
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: bef2183bb4cab0208e1957da5d2b7b6070f86c4b734670872d63f6c084aacb45
+prompt_sha256: draft-1
+translated_from: content/ru/1974/12/articles/02_rudov-fiziki-chlenyi-akademii-nauk-sssr-na-markah-c851dcfa.md
+source_content_sha256: 76259d178efd2a5b7c0ddf9380a635062177909854501499378a457c1933aa21
+translation_model: draft
+translation_run: vi-draft-2026-11-03
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+Các nhà vật lý - thành viên của Viện Hàn lâm Khoa học Liên Xô trên tem
+
+Trong số gần 4.500 con tem được phát hành ở nước ta sau Cách mạng Tháng Mười vĩ đại, có sáu con tem dành tặng cho các nhà vật lý - thành viên của Viện Hàn lâm Khoa học Liên Xô. Các nhà khoa học được miêu tả trên đó là những nhà vật lý lỗi lạc và các tổ chức khoa học lớn của Liên Xô.
+
+Con tem đầu tiên được phát hành vào năm 1956. Nó khắc chân dung của viện sĩ Alexei Nikolaevich Krylov. Viện sĩ Krylov là một nhà toán học, cơ khí và chuyên gia xuất sắc về vật lý toán học. Ông cũng là người khởi xướng việc thành lập Viện Vật lý và Toán học của Viện Hàn lâm Khoa học và là giám đốc đầu tiên của viện. Viện này sau đó được chuyển đổi thành Viện Vật lý P. N. Lebedev và Viện Toán học V. A. Steklov. Năm 1963, nhân kỷ niệm 100 năm ngày sinh của A. N. Krylov, con tem thứ hai có chân dung của ông đã được phát hành.
+
+Cùng năm đó, một con tem có chân dung của viện sĩ Igor Vasilyevich Kruchatov đã được phát hành. Nó được phát hành nhân dịp kỷ niệm 60 năm ngày sinh của ông. Viện sĩ I.V. Krutatov đã thành lập và lãnh đạo một nhóm lớn các nhà khoa học Liên Xô đã giải quyết thành công các vấn đề sử dụng năng lượng nguyên tử. Theo sáng kiến ​​​​của ông, nhà máy điện hạt nhân đầu tiên trên thế giới đã được xây dựng và Viện Năng lượng nguyên tử được thành lập, mang tên nhà khoa học xuất sắc này.
+
+Năm 1961, nhân kỷ niệm 70 năm ngày sinh của Viện sĩ Sergei Ivanovich Vavilov, một con tem có chân dung của ông đã được phát hành. S.I. Vavilov nổi tiếng là chuyên gia về quang học vật lý. Cùng với hoạt động nghiên cứu, ông đã thực hiện những công việc khoa học và tổ chức to lớn. Trong nhiều năm, S.I. Vavilov là giám đốc của P.N. Viện Vật lý Lebedev thuộc Viện Hàn lâm Khoa học Liên Xô và là tổng biên tập của Bách khoa toàn thư Liên Xô vĩ đại. Từ năm 1945 đến năm 1951, ông là Chủ tịch Viện Hàn lâm Khoa học Liên Xô. Ông cũng là một trong những người sáng lập Hiệp hội Liên minh “Znanie” và là đại diện đầu tiên của tổ chức này.
+
+Năm 1974, hai con tem bưu chính nữa được xuất bản có chân dung của các nhà vật lý - thành viên của Viện Hàn lâm Khoa học Liên Xô. Một trong số đó mô tả phó chủ tịch Viện Hàn lâm Khoa học Liên Xô, học giả Mikhal Dmitrievich Millonshikov, và người còn lại - học giả Lev Andreevich Artsimovich. Cả hai người đều là thành viên ban biên tập của tạp chí «Kvant».
+
+Là học trò của Viện sĩ A. N. Kolmogorov, Viện sĩ M. D. Millonshikov là một trong những cộng tác viên thân cận nhất của I. V. Kruchatov. Ông đã có những đóng góp lớn cho một số lĩnh vực thủy động lực học hiện đại và đặc biệt là nghiên cứu các đặc tính thủy động lực học của plasma nóng. Hoạt động của M.D. Millonshikov trên cương vị phó chủ tịch Viện Hàn lâm Khoa học Liên Xô đã để lại dấu ấn sâu sắc trong sự phát triển của khoa học Liên Xô.
+
+Viện sĩ L.A. Artsimovich cũng là một trong những nhân viên thân cận nhất của Viện Hàn lâm Khoa học Liên Xô. Lĩnh vực nghiên cứu chính của ông là vật lý và điện tử vật lý. Sau cái chết của I.V. Kruchatov, L.A. Artsimovich đứng đầu nghiên cứu báo cáo trong lĩnh vực vật lý plasma nóng và các phản ứng nhiệt da có kiểm soát. Trong nhiều năm, ông giám sát công việc của nhóm các nhà khoa học lớn nhất của Viện Hàn lâm Khoa học, được giao cho Khoa Khoa học Vật lý và Toán học, sau đó là Khoa Vật lý và Thiên văn học đại cương, là thư ký viện sĩ của các khoa này.
+
+V. A. Rudov
