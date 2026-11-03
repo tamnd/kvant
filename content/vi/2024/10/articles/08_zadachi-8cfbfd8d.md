@@ -1,0 +1,61 @@
+---
+id: 2024-10-zadachi-8cfbfd8d
+issue: kvant_2024_10
+year: 2024
+number: "10"
+title: Bài toán
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 27
+page_last: 27
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 7989f03735e5e84f98165b9670644d04b950be5d26798169502e823548a4c639
+prompt_sha256: draft-1
+translated_from: content/ru/2024/10/articles/08_zadachi-8cfbfd8d.md
+source_content_sha256: 58cb3ca2e85feaecd044726267225e841f600f8d4a4283813a6cab2d0bd9d430
+translation_model: draft
+translation_run: vi-draft-gaps-2026-11-02
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+---
+running_head:
+folio:
+---
+
+DÀNH CHO TRẺ EM TRƯỜNG CƠ SỞ
+Bài toán
+
+1. Hình ở hình bao gồm
+6 hình chữ nhật giống nhau
+chu vi 1. Chu vi của nó là bao nhiêu?
+
+3. Sasha đã tìm thấy một trong lời giải
+rebus PO + SC = IT + AY = ETS. Tại sao
+có thể bằng HER trong lời giải của anh ấy?
+A. Shapovalov, A. Zaslavsky
+
+2. Robot Fedya biểu diễn với một con số
+các thao tác sau: nếu số nhỏ hơn 10 thì tăng lên 3, nếu số đó từ 10 trở lên thì giảm đi 2. Anh ấy bắt đầu từ số 1
+và thực hiện các hoạt động năm 2024. Số nào
+anh ấy đã thành công phải không?
+
+4. Đặt trên mặt phẳng 11 không
+giao nhau các hình vuông bằng nhau như vậy
+để chúng có màu sắc chính xác
+hoa trex là không đủ. Một màu sắc được gọi là đúng nếu
+cứ hai hình vuông có thể tích
+đoạn đường viền hiện tại, tô màu
+màu sắc khác nhau.
+
+Văn hóa dân gian
+
+Bài toán 1 và 2 được trình bày tại Smart
+KANGAROO". Bài toán 3 và 4 được trình bày trên Mos-
+Opitpad uống của Kovskaya.
+
+Minh họa của D. Grishukova
