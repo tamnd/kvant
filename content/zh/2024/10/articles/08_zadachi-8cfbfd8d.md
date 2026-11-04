@@ -1,0 +1,61 @@
+---
+id: 2024-10-zadachi-8cfbfd8d
+issue: kvant_2024_10
+year: 2024
+number: "10"
+title: 任务
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 27
+page_last: 27
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 6229dad00a38f37e505b63dc5b1dc971889fa8d5ba0e167129f90555244861af
+prompt_sha256: draft-1
+translated_from: content/ru/2024/10/articles/08_zadachi-8cfbfd8d.md
+source_content_sha256: 58cb3ca2e85feaecd044726267225e841f600f8d4a4283813a6cab2d0bd9d430
+translation_model: draft
+translation_run: zh-draft-2026-11-03
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+---
+running_head:
+folio:
+---
+
+适合小学生
+任务
+
+1. 图处的数字由
+6个相同的矩形
+周长 1. 它的周长是多少？
+
+3. 萨沙找到了解决方案之一
+画谜 PO + SC = IT + AY = ETS。为什么
+也许他的决定与她相同？
+A. 沙波瓦洛夫、A. 扎斯拉夫斯基
+
+2. 机器人 Fedya 与数字一起表演
+进行以下操作：如果数字小于 10，则将其增加 3，如果数字为 10 或以上，则将其减少 2。他从数字 1 开始
+并执行了 2024 年操作。什么号码
+他成功了吗？
+
+4. 放置在平面上 11 非
+相交相等的正方形所以
+这样才能正确着色
+Trex花还不够。如果满足以下条件，则认为着色是正确的：
+每两个正方形都有一个体积
+边框的当前部分，着色
+不同的颜色。
+
+民俗学
+
+问题 1 和 2 已在 Smart 上提出
+袋鼠”。问题 3 和 4 在 Mos- 中提出
+Kovskaya 口服 opitpad。
+
+插图：D. Grishukova

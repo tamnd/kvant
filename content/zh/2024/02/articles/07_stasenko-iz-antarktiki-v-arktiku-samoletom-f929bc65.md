@@ -1,0 +1,68 @@
+---
+id: 2024-2-stasenko-iz-antarktiki-v-arktiku-samoletom-f929bc65
+issue: kvant_2024_2
+year: 2024
+number: "2"
+title: 从南极洲到北极——乘飞机
+authors:
+  - Стасенко А. Л.
+rubric: shkola-v-kvante
+rubric_sub: Школа в «Кванте»
+page_first: 32
+page_last: 32
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 6a821c9ba005b85f7fcb9acd437b6715f6fff4af6b37020100f27e1a556746d8
+prompt_sha256: draft-1
+translated_from: content/ru/2024/02/articles/07_stasenko-iz-antarktiki-v-arktiku-samoletom-f929bc65.md
+source_content_sha256: b4f6cde6e15df1e1e2e3b38f756083f8d617928c514f8e4438485a9383a1b6a1
+translation_model: draft
+translation_run: zh-draft-2026-11-03
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+---
+running_head:
+folio:
+---
+
+从南极洲到北极 - 乘飞机
+斯塔先科
+
+“我们需要让他们成为彼此的朋友。”
+- 如何让他们成为朋友？ - 切布拉什卡问道。
+
+航空业还没有展示什么壮举！有人飞遍全球检查时间扭曲，有人将客轮降落在涅瓦河水面上，有人……但是其他动物协会提供了一笔拨款，将一对黑企鹅从南极洲运送到北极，以便与北极熊进行其他会面。
+
+根据比赛条款，最短距离的送货时间应该正好是一天。一个法律问题出现了：在旋转的地球系统中如何平滑飞行轨迹？ –“在飞机机翼下”及时处理国家许可证。为此，需要维护一个球面坐标系：纬度$-\frac{\pi}{2} \leq \theta \leq \frac{\pi}{2}$，经度$0 \leq \varphi \leq 360^\circ = 2\pi$，距地球中心的距离$r = R + h$，其中$h$是飞行高度，$R \gg h$是地球半径。
+
+“不稳定恒星”系统中条纹之间的最短距离是$\pi R$，一天是$T = 3600$秒/小时$\cdot 24$小时$= 8,6 \cdot 10^4$秒。这意味着飞机的平均经向速度为
+
+$$v_\theta = \frac{\pi R}{2T} = \frac{\pi \cdot 6,2 \cdot 10^6 \text{ м}}{2 \cdot 8,6 \cdot 10^4 \text{ с}} \approx 113 \text{ м/с}.$$
+
+但地球在飞行器的平面轨迹下自转，因此其表面速度的局部值为（见图）
+
+$$v_\varphi = \omega R \cos \theta = \frac{R \cdot 2\pi}{T} \cos \theta = 4v_\theta \cos \theta.$$
+
+DOI: https://doi.org/10.4213/kvant20240103
+
+因此，飞机在旋转地球上空的模型速度为
+
+$$v = v_\theta \sqrt{1 + 16 \cos^2 \theta}.$$
+
+事实证明，当飞机穿越赤道（$\theta = 0$）时，飞机在随地球旋转的大气层中的速度等于$v_{\max} = \sqrt{17}v_\theta \approx 460 \text{ м/с}$。所考虑的示例中飞机轨迹的参数具有以下形式
+
+$$\varphi = 2\theta + \pi, r = R + h.$$
+
+至此，我们终于清楚了，我们需要一架超音速飞机，或者说最大马赫数，即飞行速度与空气中的声音之比等于
+
+$$M = \frac{v_{\max}}{v_{3B}} = \frac{460 \text{ м/с}}{300 \text{ м/с}} \approx 1,5.$$
+
+与飞机的最大速度相比，信风和风向（逆风或顺风）的变化似乎微不足道。
+
+当然，这是已经出现的条件：毕竟地球不完全是一个球，一天之内它会稍微改变相对恒星的位置，并且一起$R$你可以采取$R + h$，并且不需要首先将企鹅运送到南部条纹，并且......
+
+但即使没有这些说明，在地球仪上描绘这样一架飞机的轨迹在其下方国家的小区域上的投影不是很有趣吗？例如，从南车道S出发，沿零子午线（$\varphi = 0$）向正北N以$v_\theta$的速度？
