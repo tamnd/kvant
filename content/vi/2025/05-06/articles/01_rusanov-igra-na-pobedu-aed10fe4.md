@@ -1,0 +1,78 @@
+---
+id: 2025-5-6-rusanov-igra-na-pobedu-aed10fe4
+issue: kvant_2025_5-6
+year: 2025
+number: 5-6
+title: Trò chơi để giành chiến thắng
+authors:
+  - Русанов А. В.
+rubric: shahmatnaya-stranichka
+rubric_sub: Шахматы
+page_first: 67
+page_last: 68
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 6f30db1b9798a74c2bc552f0932fbd61cdff3bf36c1888934a8a22d36b52d783
+prompt_sha256: draft-1
+translated_from: content/ru/2025/05-06/articles/01_rusanov-igra-na-pobedu-aed10fe4.md
+source_content_sha256: ce324cdcc82eb4eb2bae9e2483c1aa9afa804dde1cb265eebb32990737a050cf
+translation_model: draft
+translation_run: vi-draft-gaps-2026-11-03
+translation_quality: draft
+---
+
+⟦folio 26⟧
+
+---
+running_head:
+folio:
+---
+
+Trò chơi
+CHO CHIẾN THẮNG
+
+Giai đoạn thứ hai của giải Grand Chess Tour 2025, được tổ chức tại Bucharest, đã kết thúc vào ngày
+nỗi bất hạnh của Rameshbabu Pragnandji và làm hài lòng người yêu cờ bằng một số ván cờ trong đó ván mở màn được diễn ra
+riantsy, hiếm khi được tìm thấy trong số những người chơi ưu tú. Đây là hai trong số đó.
+
+U.So - Rameshbabu
+Pragnanji
+Bucharest, 2025
+
+1. d4 f6 2. c4 c5 3. d5 b5.
+Volzhsky Gambit là khách mời không thường xuyên ở những cuộc thi như vậy. 4. cb a6 5. e3 ab 6. b5 a5+ 7. c3 b7 8. d2 b6 9. f3 d5 10. a4 e6 11. e4 c3 12. c3 e4 13. e5.
+
+13...b7! (cách duy nhất để bảo vệ con tốt d7)
+14. h5 g6 15. g6 e4+ 16. f1 fg 17. h3 f5?! (chính xác hơn là 17... c6!? 18. e1 d5 19. g4 e7 20. g7 g8 21. c3 h5 và Đen có được thế cân bằng)
+18. g3?! (mạnh hơn 18. e3! c6 19. c6 dc 20. h4 với sự đe dọa của h3-f3) c6 19. c7 d5 20. c6 dc 21. h4 e7 22. h3 (nhưng không phải 22. g7? a4! 23. a4 d1×) f8 23. e5 f6 24. e2 d4 25. d4 cd 26. h5? (chính xác
+cô 26. a5, đổi quân tốt, Trắng làm suy yếu g-file)
+f6 27. g1 f7 28. hg+ g6 29. g3. Sai lầm quyết định. Tốt hơn là 29. f3+, khiến quân xe chủ động hơn. 29...d3! 30. d2 g4 31. a5 e4 32. h7 g8 33. h4 e2 34. c3 d2 35. d1 f8 36. h2 e4 37. f1 f3 38. c5 e1, Trắng từ chức.
+
+Ván tiếp theo diễn ra ở vòng cuối cùng, Đen chỉ bị loại bằng một chiến thắng, chiến thắng cuối cùng đã đạt được và giúp Alireza Firouzja chia nhau 1-3 suất khi về đích.
+
+B.Dyak – A.Firuja
+Bucharest, 2025
+
+1. d4 f6 2. c4 g6 3. c3 g7 4.e4 d6 5. e2 0-0 6. f3 a6. Một loại bia hiếm và do đó ít được nghiên cứu về Phòng thủ cổ, giúp kiện tướng có nhiều tự do hơn để sáng tạo. 7. 0-0 e5 8. e3 g4 9. g5 f6 10. c1 h6 11. b1! f7 12. b4 c6 13. de fe 14. c5 dc 15. a6 ba 16. bc f6? Khách quan mạnh hơn là 16... d1! 17. d1 f6, vì sự hiện diện của quân hậu trên bàn cờ chỉ giúp ích cho cuộc tấn công của Trắng. Nhưng Đen buộc phải chấp nhận rủi ro và điều kiện hóa ván cờ. 17. a4 g4 18. e1 ac8.
+
+19. e3. Nhịp độ di chuyển 19. b7! có thể sẽ dẫn đến chiến thắng của Trắng do sự yếu kém của quân tốt đen bên quân hậu. 19... c7 20. a6 g5 21. f3 (21. b7 lại mạnh hơn!) c8 22. c4+ e6 23. e2 f7 24. d1 e6 25. a6 d4 26. f2?! Chính xác hơn là 26. e2, trao đổi hiệp sĩ đen nguy hiểm. 26... d8 27. fd2 cd7?! (27... e7 28. d3 cd7) 28. e2 f8 29. d4 ed 30. d3 e7 31. a5 dd7 32. h1 h6 33. b2 e3 34. a6 h5 35. e5 e6 36. g3 h4 37. e4 h3 38. f6+?! Linen chấp nhận sự hy sinh về chất lượng, máy tính mạnh mẽ hơn 38. df2! f2 39. f6+ g7 40. f2 và Trắng sử dụng nhịp độ bổ sung cho f3-f4, tiếp tục tấn công. 38... g7 39. d7 d7 40. f1 hg+ 41. g2 f5 42. g3 g5 43. g2 d5 44. h4 e6? (cố vấn máy tính thích ý tưởng 44... f8, giải phóng ô g7 cho quân sau 45. hg g7) 45. a3? (Gần như không thể để một người “nâng” 45. a4! c4 46. c2 để điều khiển hình vuông c4) a5 46. hg f5 47. g6 b7 48. e1? (48. f2! c4 49. c1 – ở đây có ô vuông dành cho quân Xe) c4 49. d1 d3 50. d3 b1! 51. e3 h5? 51...de dẫn đến chiến thắng! 52. e3 b2+ 53. f1, và sự khác biệt về hoạt động của các quân nặng hiện lên nhanh chóng: 53... b1+ 54. e1 d3+ 55. g1 b1, thắng được quân Hậu. 52.h3. Belie bỏ lỡ con đường cứu rỗi duy nhất: 52. d3! h1+ 53. f2 de+ 54. e3 c1+ 55. d2 c5+ 56. f4 b4+ 57. f5 f8+ 58. g5 e7+ 59. f5, và Đen buộc phải đồng ý séc vĩnh viễn. 52... g5+ 53. g3 e3 54. e3 de, quân đen chuyển về quân hậu nên Trắng từ chức.
+
+A.Rusanov
+
+⟦folio none⟧
+
+---
+running_head:
+folio:
+---
+
+Chỉ số 90964
+Sản phẩm có tính chất vật lý
+TIỀM NĂNG
+Rào cản
+Tại sao trong thế giới vi mô lại có dòng điện tích
+các bộ phận có thể được đào hầm?
+ISSN 0130-2221 25005
+9 770130 222252
+(Chi tiết ở trang 9 bên trong tạp chí)

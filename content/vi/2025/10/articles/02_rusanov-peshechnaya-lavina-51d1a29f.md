@@ -1,0 +1,73 @@
+---
+id: 2025-10-rusanov-peshechnaya-lavina-51d1a29f
+issue: kvant_2025_10
+year: 2025
+number: "10"
+title: cầm đồ tuyết lở
+authors:
+  - Русанов А. В.
+rubric: shahmatnaya-stranichka
+rubric_sub: Шахматы
+page_first: 67
+page_last: 68
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 3dec007140c2a909736e422837897c1d7b07eeb652acc9506fb9669df75b50d0
+prompt_sha256: draft-1
+translated_from: content/ru/2025/10/articles/02_rusanov-peshechnaya-lavina-51d1a29f.md
+source_content_sha256: 4a58b37ec8c6fc70357496195e90b7807643e944f4a4dc6f969d0400bc2ecbfd
+translation_model: draft
+translation_run: vi-draft-gaps-2026-11-04
+translation_quality: draft
+---
+
+⟦folio 16⟧
+
+---
+running_head:
+folio:
+---
+
+cầm đồ
+AVALANCHE
+
+Tốt là linh hồn của cờ vua, và chính sự thuần thục điêu luyện của những chiến binh nhỏ bé này đã giúp người chơi cờ giành chiến thắng. Hôm nay chúng ta sẽ nói về những ví dụ mới từ thực tiễn giải đấu.
+
+Một cách diễn giải bất ngờ về khai cuộc dường như đã được nghiên cứu kỹ lưỡng đã giúp Fabinano Caruana giành chiến thắng hiệu quả trước Han-com Niemann và giành chức vô địch Mỹ lần thứ năm.
+
+H. Niemann – F. Caruana
+Thánh Louis, 2025
+
+1. e4 e5 2. f3 c6 3. c4 d6 4. c3 f5!? 5. d3 f6 6. 0-0?! Đen đang lên kế hoạch tấn công tốt ở cánh vua, vì vậy việc nhập thành có vẻ không an toàn. Chính xác hơn, việc mở trung tâm ngay lập tức: 6. eff f5 (leo thang 6... f5? thua sau 7. b3!) 7. 0-0 f6 8. e1 với lối chơi phản công. 6...f4 7. b4 (và chơi ở trung tâm vẫn tốt hơn: 7. d4 g5 8. a3 a6 9. b4 g4 10. e1) ge7 8. a4 g5! 9. b5 d8?! (lý tưởng hơn là 9... a5! 10. a2 g4 11. e1 h5, chặn quân tốt bên hậu) 10. d4 g4 11. e1 h5 12. a3 e6 13. b6 c6! Trong trường hợp 13...ab? 14. b5 d8 15. de e5 16. d3 e4 17. b3 Trắng có thế chủ động do vua Đen bị kẹt ở trung tâm. 14. a2?! Cần phải giành được một chút không gian trong khi Đen cho phép điều đó được thực hiện: 14. ba! 14...g5?! (chính xác hơn là 14...a5!, chặn phía nữ hoàng) 15. d3. Trắng bỏ lỡ cơ hội chơi chủ động: 15. c4 g6 16. ba a7 17. b6 với cơ hội ngang nhau. 15... g6 16. c4?! (quá muộn, chính xác hơn là 16. ba!) e6?! (và cái mới tốt hơn 16...a5!) 17. a3.
+
+17...c4! Động thái của một người có tổng doanh thu hàng đầu. Đen tiêu diệt quân nguy hiểm nhất của Trắng, quân cờ này có thể giúp ích cho cả việc tấn công bên cánh hậu và phòng thủ ở cánh vua. 18. c4 f3 19. g3 h4 20. c2 ab 21. ae1 d8! Việc chuyển quân xe vào h-file sẽ quyết định kết quả của trò chơi. 22. d5 d7! 23. dc bc 24. c1 dh7 25. g5 g5 26. b3 hg 27. b6 h4 28. b8+ e7, Trắng từ chức.
+
+Vincent Keimer, người đã bỏ lỡ một suất tham dự Giải đấu Ứng viên ở giải Sick Swiss cuối cùng một cách đáng thất vọng, tiếp tục thể hiện phong độ thi đấu rất cao và hiện đang chiếm vị trí kỷ lục thứ 4 trên bảng xếp hạng FIDE thế giới.
+
+V. Keimer – K. Noz
+Batumi, 2025
+
+1. f3 d5 2. g3 f6 3. g2 g6 4. c4 c6 5. b3 g7 6. b2 0-0 7. 0-0 g4 8. d4 bd7 9. bd2 a5 10. a4 b6 11. c1 fc8 12. e1 f5 13. e3 e4 14. e4 e4 15. h3! Một nước đi kỹ thuật buộc Đen phải tính trước sự đe dọa của f3 và f5, làm suy yếu vỏ bọc tốt của vua. 15...d8 16. a3 f8?!
+
+17. f3 f5 18. g4 e6 19. d3 h6 20. e2 f6 21. f4 g7 22. e4.
+
+Lối chơi thụ động của Đen cho phép Trắng tạo ra một trận tuyết lở đẹp như tranh vẽ. 22...dc 23. bc f7 24. e5 f8 25. e3 e6 26. b2 c7 27. f5 b5 28. e6. Các quân đen hoàn toàn bị hạn chế. 28...e8 29. c5 bc 30. c4 d5 31. d2 cb8 32. a3 d6 33. g2 b6 34. e4 ab8 35. d3? (35. f3!) b4? Tại ceyton, cả hai bên đều bỏ lỡ cơ hội để Đen kích hoạt quân cờ của mình thông qua sự hy sinh trao đổi tạm thời: 35...b2! 36. b2 b2 37. g3 g3 38. hg e3 có đẳng thức. 36. h3 d8 37. g3 d6 38. c1 g3+ 39. hg d5 40. c2 (40. d7 sẽ thắng ngay lập tức!) b4 41. h2 d5 42. c2 b4 43. c4 d5 44. d7! d8 (trong trường hợp 44...d7 45. ed d8 46. c6! Đen thua xe) 45. b6 b6 46. c2, Đen cam chịu.
+
+A. Rusanov
+
+⟦folio none⟧
+
+---
+running_head:
+folio:
+---
+
+Chỉ số 90964
+CHỦ ĐỀ CHÍNH CỦA VẬT CHẤT
+Thủ thuật với vật lý
+Nhưng làm sao chúng ta vẫn biết
+những nguyên tử nào tồn tại?
+ISSN 0130-2221 25010
+9 770130 222252
+(Thêm chi tiết ở trang 32 trong tạp chí)

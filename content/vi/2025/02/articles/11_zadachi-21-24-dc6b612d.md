@@ -1,0 +1,124 @@
+---
+id: 2025-2-zadachi-21-24-dc6b612d
+issue: kvant_2025_2
+year: 2025
+number: "2"
+title: Bài toán 21—24
+rubric: konkurs-imeni-a-p-savina
+rubric_sub: Конкурс имени А. П. Савина
+page_first: 43
+page_last: 46
+page_labels: "44"
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: f4af916b7b7956b62f81615ac182b1ce53b0064762361ee9095f9648aa6ec2f7
+prompt_sha256: draft-1
+translated_from: content/ru/2025/02/articles/11_zadachi-21-24-dc6b612d.md
+source_content_sha256: 20b61804e313cac95d56db9a619ed770f72471dfac8d3fb44ae0daf82a790d49
+translation_model: draft
+translation_run: vi-draft-gaps-2026-11-03
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+---
+running_head:
+folio:
+---
+
+Chúng tôi tiếp tục cuộc thi tiếp theo về lời giải toán học bài toán. Nhiệm vụ được tính toán
+Về cơ bản, trong các phần bắt đầu từ lớp 8-9, chúng tôi khuyên các học sinh nhỏ tuổi hơn
+hãy thử sức mình với cuộc thi tạp chí «Kvant» (xem trang web kvantik.com).
+Gửi lời giải bài toán xử lý được tới: savin.contest@gmail.com. Ngoại trừ
+Họ và tên cho biết thành phố, trường học và lớp mà giáo viên thuộc về.
+Chúng tôi chào đón không chỉ từng cá nhân học sinh mà còn cả các đội (trong trường hợp này
+Trong trường hợp một tác phẩm được gửi kèm theo danh sách người tham gia). Bạn có thể tham gia bắt đầu từ bất kỳ
+chuyến du lịch. Người chiến thắng sẽ nhận được bằng tốt nghiệp từ tạp chí «Kvant» và sự công nhận.
+Bài tập, lời giải và kết quả được xuất bản trên Sites.google.com/view/savin-contest
+Chúng tôi chúc bạn thành công!
+
+21. Một hình vuông được làm từ que diêm, và trên hai
+các cạnh của nó làm bằng que diêm được xây dựng bằng nhau-
+các hình tam giác cạnh. Hoá ra không phải-
+hình lục giác lồi (hình1). Nốt Rê-
+Hình1
+đặt hai que diêm vào bên trong nó để
+nó chia thành hai phần, giống hệt nhau ở
+hình dạng và kích thước. (Các trận đấu không nên
+vượt ra ngoài hình lục giác, họ
+KHÔNG phá vỡ, không chồng chéo
+ở một người bạn.)
+N. Avilov
+
+22. Bốn đứa trẻ nhận được từ các nhà giáo dục của họ
+áo vest trên đồ chơi. Sau đó cô thu thập
+bốn món đồ chơi này và lại phân phát cho bọn trẻ
+ở đó để mọi người có được món đồ chơi đó,
+điều mà trước đây anh không có.
+a) Có đúng là vậy không, bất kể
+trước đây đồ chơi được phân phát như thế nào,
+giáo viên có thể thu thập đồ chơi
+và phân phối chúng lần thứ ba để
+mọi người đã có cái mới chưa?
+b) Và lần thứ tư? Đáp số giải thích.
+M. Prasolov
+
+23. Tại mức tối thiểu n là hình vuông
+n×n có thể được cắt thành những gì được hiển thị trong
+
+hình 2 lớn, vừa và nhỏ
+các góc sao cho các góc của mỗi loại nằm trong
+Việc cắt có đồng đều không?
+S. Kostin
+
+24. Bảo tàng là một 10 than-
+biệt hiệu (không nhất thiết phải lồi). trong bảo tàng
+100 tác phẩm điêu khắc được đặt dọc theo các bức tường:
+một cách tiện lợi: mỗi bên 10 than
+nik được chia thành 10 đoạn bằng nhau, skul-
+Con chim đứng ở cuối những đoạn này. Tại
+k cao nhất có thể được đảm bảo là bao nhiêu từ bất kỳ điểm nào trong bảo tàng
+bạn có thể thấy ít nhất k tác phẩm điêu khắc không? (Ste-
+chúng tôi đang chặn tầm nhìn.)
+E. Bakaev
+
+⟦folio 44⟧
+
+---
+running_head:
+folio:
+---
+
+các lớp học. Các bài tập được biên soạn bởi các giáo viên MIPT giàu kinh nghiệm.
+Học sinh nhận được chứng chỉ sau khi hoàn thành lớp 11. Sinh viên tốt nghiệp cũng có thể cộng tối đa năm điểm dưới dạng thành tích cá nhân khi đăng ký MIPT.
+Kỳ thi tuyển sinh tất cả các khoa diễn ra từ ngày 1 tháng 4 đến ngày 12 tháng 5 năm 2025 theo hình thức tối ưu trực tuyến trên website https://zftsh.online. Bạn có thể đăng ký một hoặc nhiều môn học.
+Giáo dục cho học sinh trong khuôn khổ kế hoạch nhập học là MIỄN PHÍ. Đối với những học sinh không vượt qua cuộc thi, có thể đào tạo có trả phí.
+
+Phòng thư tín
+Trong bộ phận thư tín, việc đào tạo được tiến hành riêng lẻ. Học sinh nghiên cứu độc lập phần lý thuyết của từng bài toán, thực hiện các bài kiểm tra và bài toán trên nền tảng zftsh.online và gửi mọi thứ mà họ giải được để kiểm tra trong khung thời gian quy định. Mỗi sinh viên được phân công một giáo viên (sinh viên, nghiên cứu sinh hoặc sinh viên tốt nghiệp MIPT) kiểm tra và đánh giá bài tập của sinh viên. Sau khi xác minh, học viên sẽ có quyền truy cập vào bản quyền lời giải.
+
+Bộ phận bán thời gian
+Các nhóm tùy chọn có thể được tổ chức ở bất kỳ cơ sở giáo dục phổ thông nào ở một hoặc nhiều môn học. Các nhóm được giáo viên thành lập dựa trên danh sách học sinh đã hoàn thành xuất sắc phần nhập môn optimida của ZFTS. Các lớp học được tổ chức trên cơ sở các cơ sở giáo dục phổ thông dưới sự hướng dẫn của giáo viên.
+Khi chọn khoa này, trước tiên học sinh nên kiểm tra với giáo viên của trường xem cơ sở giáo dục này có ZFTSH tự chọn trong các môn học hay không. Nếu không có môn tự chọn như vậy và việc tổ chức nó không được lên kế hoạch thì chỉ có thể được nhận vào ZFTSH ở bộ phận thư tín.
+
+Bộ phận toàn thời gian
+Các trung tâm tư vấn buổi tối hoạt động cho sinh viên ở Moscow và khu vực Moscow theo chương trình ZFTSH.
+
+Các lớp học với học sinh được tổ chức trong các tòa nhà giáo dục của Viện Vật lý và Công nghệ Mátxcơva ở các thành phố Dolgorudny và Zhukovsky, cũng như tại trường 2107 ở Mátxcơva. Các lớp học được giảng dạy bởi sinh viên, nghiên cứu sinh và sinh viên tốt nghiệp MIPT.
+
+Khi chọn ngành này, sinh viên phải đánh giá khách quan khả năng tham gia các lớp học mỗi tuần một lần kéo dài 1 giờ 30 phút. ở lớp 8–10 và 2 giờ 15 phút. lớp 11 ở từng môn học.
+
+Tuyển sinh vào lớp 7
+Việc đào tạo diễn ra về vật lý và toán học (lần lượt là 4 và 8 nhiệm vụ mỗi năm) tại các khoa bán thời gian và bán thời gian. Học sinh được ghi danh mà không cần kiểm tra đầu vào trên cơ sở trả phí. Nếu hoàn thành xuất sắc các nhiệm vụ trong năm học, học sinh sẽ được chuyển lên lớp 8 ở những nơi bình dân (giáo dục miễn phí). Thông tin chi tiết về tuyển dụng vào lớp Selma được đăng trên trang web ZFTS.
+
+Các khóa đào tạo giáo viên
+Hai lần một năm, ZFTS mời một giáo viên vật lý, toán học và khoa học máy tính tham gia các khóa đào tạo nâng cao. Vào mùa hè, các khóa học được tổ chức theo hình thức tương tự trong các cơ sở giáo dục của MIPT, vào mùa thu - theo hình thức từ xa. Bài giảng được giảng bởi các giáo viên đến từ các khoa vật lý đại cương, toán cao cấp và khoa khoa học máy tính và toán tính toán của MIPT, những người có nhiều kinh nghiệm làm việc với trẻ có năng khiếu. Mọi thông tin về gà phát triển đều có trên trang web ZFTSH trong phần “Dành cho giáo viên”.
+
+Danh bạ
+Điện thoại: (495) 408-51-45 – phòng thư tín
+(498) 744-63-51 – bộ phận bán thời gian
+(498) 744-65-83 – bộ phận toàn thời gian
+E-mail: edu@zftsh.online
+Web: https://zftsh.online
