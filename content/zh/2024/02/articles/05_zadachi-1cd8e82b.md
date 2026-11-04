@@ -1,0 +1,44 @@
+---
+id: 2024-2-zadachi-1cd8e82b
+issue: kvant_2024_2
+year: 2024
+number: "2"
+title: 任务
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 30
+page_last: 30
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: fb6ab3e5d2dd65de7c1928e1076b86e42707723a4c94547f48fcabbd0ab81ed0
+prompt_sha256: draft-1
+translated_from: content/ru/2024/02/articles/05_zadachi-1cd8e82b.md
+source_content_sha256: 98cda47cdc73075221f0190c1451b93865ca490e626adff26b2b5b7d45b3bdf9
+translation_model: draft
+translation_run: zh-draft-2026-11-03
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+---
+running_head:
+folio:
+---
+
+适合小学生
+任务
+1. 魔术师有 10 个圆筒，其中一个圆筒里坐着一只兔子。在一个问题中，您可以指着 1 或 2 个圆柱体并询问是否有一只兔子坐在那里（我们会回答“是”或“否”）。
+能否保证在 5 题中找到带有兔子的大礼帽？
+奥·波德林斯基
+2. 钱包里有 100 卢布的 1 卢布硬币。 50人每人靠近钱包，要么拿一枚价值1卢布的硬币，要么将一枚价值2或5卢布的硬币放入钱包。钱包里最后能剩下201卢布吗？
+奥·波德林斯基
+3. 设 / 为三角形 ABC 平分线的交点。在点 / 之外的延拓上和在 B 点之外的延拓 AB 上，分别选择点 N 和 M，使得 BCNM 平行
+双线图。类似地，在点/后面的延拓C/上和在点B后面的延拓CB上，分别选择点K和L，使得BAKL是平行四边形。证明线 B/ 和 LM 垂直。
+N·阿加哈诺夫
+4. 数字 1、2、3、4……写在黑板上。
+...、99、100和102。在一次操作中，您可以选择几个数字，其算术平均值是一个整数，这些数字的幂，并将它们的算术平均值一起写在黑板上。进行多少次操作才能在棋盘上只留下一个数字？
+N·阿加哈诺夫
+这些问题是在莫斯科地区全俄数学奥林匹克竞赛的市级阶段提出的。
+D. Grishukova 的假说

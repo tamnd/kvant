@@ -1,0 +1,74 @@
+---
+id: 2024-4-zadachi-55b90a0d
+issue: kvant_2024_4
+year: 2024
+number: "4"
+title: 任务
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 29
+page_last: 29
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: ba596ba87a747dc53cc724fa4bff1551477c9813bd1ae5169c0a786372f13c50
+prompt_sha256: draft-1
+translated_from: content/ru/2024/04/articles/08_zadachi-55b90a0d.md
+source_content_sha256: 69ba3a2f400dca566a598f9f98255ff4490931df1d8b41158e1827f6bdcea4ea
+translation_model: draft
+translation_run: zh-draft-2026-11-03
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+---
+running_head:
+folio:
+---
+
+适合小学生
+任务
+1. 排列成 3x3 的正方形
+各种正整数，不超过25，因此在任意
+一侧有一对相邻的单元格
+数字可以被另一个数字整除。
+I·亚先科
+2. 总共
+P,I + T,b + D,P + O,B + E,Y
+所有数字均受字母保护
+（不同的字母 - 不同的数字）。
+事实证明，这五个术语都不是
+整数，但总和本身是整数
+P,I+T,b+D,P+O,B+E,Y
+数字。究竟是哪一个？对于每个
+写出一个可能的答案
+具有这五个术语的示例。
+解释为什么其他金额是
+你不能发光束。
+A·沙波瓦洛夫
+这些问题是在数学节上提出的。
+3. 国王决定检查法庭
+一位伟大的圣人。 “这是给你的六个盒子，”国王说，“上面刻着 1、2、
+封面上有 3、4、5、6。每个盒子里——
+克金币重一升
+所写的德拉克马数量。你
+随心所欲地排列盒子
+矩形单元 2x3。然后我
+我交换硬币不是从你那里得到的
+在两个盒子里
+侧面的相邻单元格（或两者都不
+我不会改变）。然后你指向
+一些 shatulki，我会告诉你
+其中硬币的总重量。如果之后
+这正确地确定了哪个
+我把金币转了，你就留下来
+院子里，你要是不行，我就送你走！”
+圣人如何做事
+通过测试吗？
+A·沙波瓦洛夫
+4. 剪掉第一条平行线
+将克分成三部分并将它们加在一起
+第二。
+T·戈列尼什切娃-库图佐娃
+D. Grishukova 的假说

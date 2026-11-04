@@ -1,0 +1,79 @@
+---
+id: 2024-7-rusanov-navstrechu-revanshu-f5b98cb0
+issue: kvant_2024_7
+year: 2024
+number: "7"
+title: 走向复仇
+authors:
+  - Русанов А. В.
+rubric: shahmatnaya-stranichka
+rubric_sub: Шахматы
+page_first: 67
+page_last: 68
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: c75a1e4e73897f96b0e2d6879615e4426e1f1fae9842ee3a47bcda1c0a499266
+prompt_sha256: draft-1
+translated_from: content/ru/2024/07/articles/01_rusanov-navstrechu-revanshu-f5b98cb0.md
+source_content_sha256: 95cf4f43abe967a75fb24c6c4be2e8e990b2b983a46d390e0cd02f5f77eb60d9
+translation_model: draft
+translation_run: zh-draft-2026-11-03
+translation_quality: draft
+---
+
+⟦folio 49⟧
+
+---
+running_head:
+folio:
+---
+
+向
+复仇
+
+中国国际象棋棋手谭忠义继在候选人赛中获胜后，在美国圣路易斯重新举办了现代卡里斯杯比赛，并继续期待着与她的对手鞠文群在今年年底举行的重赛，以体现世界冠军的意义。
+
+谭忠义 – A. Zatonskikh 圣路易斯，2024
+1. e4 e6 2.d4 d5 3.c3 f6 4.g5 de 5.e4 e7 6.f6 f6 7.f3 0-0 8.f6+ f6 9.d3 c5 10.dc b2 11.0-0 d7 12.b1 a2 13.b4！？
+白棋牺牲一个棋子来攻击王翼，但这个想法并不完全正确。
+
+13...d5？ （13...a5！，不允许白棋连接第二车 14. c4 h6！） 14. e1 h6 15. d2 c5？一个决定性的错误，而且还是在15...c6的情况下！ 16. g4 e5 17. b5 e6 18. g3 e4 黑方发现很难守住自己的位置。 16. e5 c6？ （黑方最后的机会是在 16...d3！17.d5 b4 18.d8 c6 19.f8 f8 20.e5！之后牺牲后，但从技术上讲，白方仍然赢得了这个位置。
+
+17. g4 d3 18. h6 g6 19. g6+ fg 20. g6+，将死是下一步，所以黑方已经发牌。
+
+安娜·穆兹丘克 (Anna Muzychuk) 凭借在终点线的两次胜利，获得了比赛的第二名。
+
+A. Kosteniuk – A. Muzychuk
+圣路易斯，2024 年
+1. e4 e5 2.f3 c6 3.c4 f6 4.d3 e7 5.0-0 0-0 6.c3 d6 7.a4 a5 8.a2 c6 9.d2 b4 10.b1 c5 11.h3 e8 12.e2 c6 13.g3 h6 14.e1 e6 15.c3 a6 16.c1 c8 17.c2？！ f8 18.b3 d5！ 19.ed d5 20.e4 b3 21.f6+f6 22.b3 a5 23.c2 cd8 24.d2 f5 25.e4？白方下了不少被动棋，少邪恶的话就下25.c4，削弱黑方，但挫败黑方的突破。
+
+25...c4！ 26.ae1。兵不能被拿走：26.dc b3！ 27. ae1 c5 28. h6 e4 29. e4 d1+!，黑棋有一个额外的交换。 26...光盘。现在黑方多了一个过兵，这在技术上是实现的。 27.d1 f6 28.b4 c6 29.b5 ab 30.ab e7 31.b3+ h7 32.f7 g6 33.c4 f5 34.h4 h4 35.g4 c8 36.a4 a8 37.d1 f5 38.h4 c5 39.f1 a2 40.a4 c2 41. g4 d7 42. e4 b5 43. h1 a8 44. e3 e3 45. e3 c3 46. h2 d5 47.h4 e4 48. fe1 c2 49. g3 d6+，白方已发牌。
+
+亚历山德拉·科斯泰纽克在比赛中表现得最为妥协，9次交手中只赢了2次，这让她在附加指标上领先了几位对手，获得了铜牌。
+
+A. Kosteniuk – N. Dzagnidze
+圣路易斯，2024 年
+1. e4 c5 2. f3 e6 3. d4 cd 4. d4 c6 5. c3 c7 6. d3 d4 7. d4 a6 8. e3 b5 9. a4 b4 10. a2 f6 11. b4 b7 12. f3 a5 （有两种变体 12...d5！？ 13. e5 b4+ 14. b4 e5 15. a3 一场困难的比赛) 13. d3 c2 14. c1 b3 15. c3 b4 (否则皇后进入方格 15...a2 16. c1 a1 17. b5) 16. b4 b4 17. b5 d4 18. d4 (黑斗篷主教控制比赛)。
+
+18...0-0 19.d2 d6 20.c7 fb8 21.hc1 e5 22.c3！ （22.e3？！d5！）h6 23.e3 d5？！黑方绝望地试图激活他的棋子，但白方精确的策略阻止了它，给他留下了一个额外的棋子。 24. e5 de 25. f6 gf 26. fe c8 27. f1 a6 28. f5 b6 29. c6 c6 30. c6 b8 31. b5 b6 32. c5 e6 33. c6 f1 34. g3 g7 35. d5 b6 36. b3，黑方时间耗尽。
+
+A·鲁萨诺夫
+
+⟦folio none⟧
+
+---
+running_head:
+folio:
+---
+
+索引 90964
+物质体的不同轨迹
+直线、圆、抛物线、独眼巨人......
+具有物理性质的产品
+伦纳德·埃米尔
+1707
+1783
+ISSN 0130-2221 24007
+9 770130 222245
+（更多详情 - 杂志内第 32 页）

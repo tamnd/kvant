@@ -1,0 +1,46 @@
+---
+id: 2024-11-12-zadachi-bcbabecb
+issue: kvant_2024_11-12
+year: 2024
+number: 11-12
+title: 任务
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 35
+page_last: 35
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: b56c95846c744b80e4e2deb31e63bfd629da74addfc0c1d2dee30a3e9cdcb554
+prompt_sha256: draft-1
+translated_from: content/ru/2024/11-12/articles/08_zadachi-bcbabecb.md
+source_content_sha256: 25b655c8cbdbf23edf187aff666b626f455bf2d38c53f86e41b6eb97c5c1b3c1
+translation_model: draft
+translation_run: zh-draft-2026-11-03
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+---
+running_head:
+folio:
+---
+
+适合小学生
+任务
+
+1. 圈子里有10个人，每个人家里都有一个水族箱。据了解，每个人的水族箱里的鱼不超过6条，其中不超过一半的人至少拥有3条鱼。这个圈子里的所有成员最多可以拥有多少条鱼？
+
+3. 是否有一个自然数的十进制位数之和是100，它的十进制位数之和是110？
+智利青少年奥运会
+2012年
+
+2. 有 12 个不同的整数，按升序排列。其中前三个是奇数，后两个是偶数，奇数的平均值紧随偶数的平均值。这12个数中有多少个奇数？
+
+4. 佩蒂亚在黑板上写下了四个不同的两位数。证明 Vasya 可以采用其中的一些，并使用四个算术运算的符号和括号创建一个值大于 1 但小于 2 的表达式。
+克诺普
+
+问题1和2是在Smart KANGARUO竞赛中提出的。问题 3 和问题 4 是在莫斯科口语奥林匹克竞赛中提出的。
+
+插图：D. Grishukova

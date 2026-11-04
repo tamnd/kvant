@@ -1,0 +1,86 @@
+---
+id: 2024-9-stasenko-kak-na-ldine-chay-vskipyatit-3e8c3e4d
+issue: kvant_2024_9
+year: 2024
+number: "9"
+title: 如何在浮冰上煮茶
+authors:
+  - Стасенко А. Л.
+rubric: shkola-v-kvante
+rubric_sub: Школа в «Кванте»
+page_first: 45
+page_last: 46
+page_labels: "44"
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: ae8af8a0edc0df0b06996c72e5a966d1f7a8c39a0e61009157f6008f54ed7808
+prompt_sha256: draft-1
+translated_from: content/ru/2024/09/articles/11_stasenko-kak-na-ldine-chay-vskipyatit-3e8c3e4d.md
+source_content_sha256: 26f4305a7c49bdda9bfc2582d07067b284e893b76a4c0050538d038293f43d7a
+translation_model: draft
+translation_run: zh-draft-2026-11-03
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+---
+running_head:
+folio:
+---
+
+就像在浮冰上一样
+煮茶
+A·斯塔森科
+
+物理学中有很多幂：下落物体的速度与时间成正比，行进的距离是时间的平方，球的体积是半径的立方，......，而发射的能量流，事实证明，与温度的四次方成正比！是的，如果任何人都知道玻尔兹曼常数$k$（路德维希·玻尔兹曼，1844-1906）、普朗克常数$h$（马克斯·普朗克，1858-1947）、光速$c$等基本常数，那么任何人都可以相信这一点。来自维度和相似性理论的信息在这里会有所帮助。
+
+因此，您需要获得能通量密度$q$、其尺寸$\frac{J}{\left(m^2 \cdot c\right)}$与温度$T$（以开尔文度K表示）的依赖关系。很明显，相应的公式必须包含$kT$，J，某些幂$m$，并且要获得J的一次幂，应将该值除以$h^{m-1}$，J·s。然后打开分母中的连字$m^2$？当然是除以光速的平方$c^2$、$m^2/c^2$。结果是$q \sim \frac{(kT)^m}{c^2 h^{m-1}}$。
+
+不，既然秒应该出现在分母中，那么应该有
+$$\frac{1}{c^2} \cdot c^{m-1} = c^{m-3} = c$$,
+从哪里$m = 4$。结果我们有
+$$q \sim \frac{(kT)^4}{c^2 h^3} \sim T^4$$.
+
+这就是著名的斯蒂芬-玻尔兹曼定律（Josef Stefan，1835-1893）。基本常数的复数，作为 $T^4$ 的因子，称为斯蒂芬-玻尔兹曼常数，其形式为
+$$\sigma = \frac{2\pi^5}{15} \cdot \frac{k^4}{c^2 h^3} \approx 40 \cdot \frac{(1,4 \cdot 10^{-23})^4 \cdot Jx^4/K^4}{(3 \cdot 10^8)^2 m^2/c^2 \cdot (6,63 \cdot 10^{-34})^3 Jx^3 \cdot c^3} = 5,67 \cdot 10^{-8} \cdot Jx/\left(m^2 \cdot c \cdot K^4\right)$$.
+
+DOI: https://doi.org/10.4213/kvant20240904
+
+（注意数字排列得有多好：5、6、7、8。）由此产生的定律描述了所谓的绝对黑体的辐射。结果，引入了小于一的黑度系数。
+
+对于许多目的来说，只有辐射体温度的四次方才是重要的。例如，可以根据能量平衡来估计太阳“表面”的温度，而无需向其发送温度计。
+
+太阳发射的全部能量等于$\sigma T_C^4 \cdot 4\pi R_C^2$，其中$R_C$是太阳的半径。它被地球圆盘截取的部分等于$\frac{\pi R_3^2}{4\pi L^2}$，这里$L$是太阳和地球之间的距离。地球发出的总能量为$\sigma T_3^4 \cdot 4\pi R_3^2$。将入射到地球盘上并由其表面发射的能量流等同起来，我们得到
+
+$$\sigma T_C^4 \cdot 4\pi R_C^2 \cdot \frac{\pi R_3^2}{4\pi L^2} = \sigma T_3^4 \cdot 4\pi R_3^2.$$
+
+可见这个方程两边都可以减少$\sigma \cdot 4\pi R_3^2$。这意味着只有第四度的温度是重要的。此外，所有行星所产生的可发生性都是相同的。态度起着重要作用
+
+$$\frac{R_C^2}{4L^2} = \frac{(2R_C)^2}{16L^2} = \left(\frac{\alpha_C}{16}\right)^2$$,
+
+其中 $\alpha_C$ 是从地球观察时太阳直径的角大小，大约等于 $10^{-2}$ 弧度。结果我们有
+
+$$\sqrt{\alpha_C} / 2 \cdot T_C = T_3, T_C = 20T_3.$$
+
+假设地球的平均温度为 300 K，我们得到 $T_C = 6000$ K。
+
+请注意，月球直径的角大小与太阳的直径相同。这使我们能够观测恒星及其日冕的日全食。
+
+不允许！ - 渔夫将鱼竿举在冰洞上方，惊呼道， - 如果每个物体都辐射能量，那么有可能，使用足够面积$S$夜晚的反射面，将冰的辐射聚焦在水壶上并将其煮沸！？我们来看看吧。
+
+地球表面太阳辐射通量密度为$q_C \approx 1000$J/$\left(m^2 \cdot c\right)$。通过将辐射聚焦在茶壶上，
+
+⟦folio 44⟧
+
+---
+running_head:
+folio:
+---
+
+受一块面积约一平方米的屏风影响，我们就有了千瓦的炉子！因此，要在 -3 °C (270 K) 的温度下从浮冰获得相同的通量，需要 $S = \left(\frac{6000}{270}\right)^4 \cdot 1\text{m}^2 \approx 25 \cdot 10^4\text{ m}^2$ 的反射表面积。因此反射器半径$R = \sqrt{\frac{S}{\pi}} \approx 300\text{ m}$。
+
+当然，当物体的温度与环境温度不同时，物体对受热物体对流的响应会增加。这可以通过增加反射器面积来补偿。然而，茶壶和这种装置的焦点（抛物线或球面镜）的高度是多少！ - 渔夫想，但随后克莱夫就走了。
+
+快乐捕捉！
