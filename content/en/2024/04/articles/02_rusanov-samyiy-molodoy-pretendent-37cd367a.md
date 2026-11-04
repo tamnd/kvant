@@ -1,0 +1,84 @@
+---
+id: 2024-4-rusanov-samyiy-molodoy-pretendent-37cd367a
+issue: kvant_2024_4
+year: 2024
+number: "4"
+title: Youngest applicant
+authors:
+  - Русанов А. В.
+rubric: shahmatnaya-stranichka
+rubric_sub: Шахматы
+page_first: 67
+page_last: 68
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: afa9cddc4b33ba0f093efffacb2679958ef0f409c2d1198aebe65dc346b9c130
+prompt_sha256: draft-1
+translated_from: content/ru/2024/04/articles/02_rusanov-samyiy-molodoy-pretendent-37cd367a.md
+source_content_sha256: e9923ea6ab0864e7feb30aada6cf59109df63a12cb27f1a961374a9d2a0ef884
+translation_model: draft
+translation_run: en-draft-2026-11-03
+translation_quality: draft
+---
+
+⟦folio 8⟧
+
+---
+running_head:
+folio:
+---
+
+Most
+YOUNG
+CONTENDER
+
+17-year-old Indian chess player Dommaraju Gukesh won the challengers tournament in Toronto and became the youngest candidate for the world title in history. Now he faces world champion Ding Lijken in a match.
+
+Three chess players from India played in the challenger tournament; they had a number of outstanding victories, and we will analyze the most interesting games today.
+
+R.Praginandaha – D.Gukesh
+Toronto, 2024
+
+1. d4 d5 2. c4 e6 3. f3 f6 4. g3 b4+ 5. c3 dc 6. g2 0-0 7. 0-0 c6 8. a3 e7 9. e4 a6 10. e3 b5 11. e2 b7 12. ad1 a5 13. d5 ed 14. e5?! The computer advisor recommends being careful and taking the pawn on d5, but White intends to play in a gambit style. 14...e8 15. e6 f5 16. e5 f6 17. c2 c6 18. f5 e8 19. f7?! First inaccuracy, stronger 19. h3 c8 20. c6! c6 21. d5 d5 22. d5 h6 23. e4 with the idea of ​​d7 and a powerful attack. 19...c8 20. fe1 b7 21. g5.
+
+21...a7! A brilliant defense idea - the rook moves away from the large diagonal and defends the back rank. 22. f6 f6 23. d5 cd 24. d5 e7
+
+25. g4?! (more precisely 25. h6+, and the game could have ended in perpetual check after 25...h8 26. f7+ g8) d8! 26. d8 d8 27. d4 b7 28. e4 f6 29. e3 e7 30. h4 c6 31. h5 c5! 32. g5 e6 33. h6 f2, White resigned.
+
+S.Vidit – R.Praginandaha
+Toronto, 2024
+
+1. e4 e5 2. f3 c6 3. b5 a6 4. a4 f5 (the improved Janisch Gambit is a rare guest in the game of grandmasters) 5. d4! ed 6. e5 b5 7. b3 a5. 8. d4 b7 9. f5?! b3 10. ab d6! 11. e2 d7! 12. e6 c6 13. g5!?
+
+13...g6 (of course, not 13...g2??, and White puts red mat: 14. g7+ g7 15. h5+ f8 16. f7×) 14. e3 h6 15. f4 e7 16. c4 b4! 17. g4 c5 18. 0-0 g7 19. d2 0-0-0? (you need to castle in the other direction, I will thwart the knight's invasion on d5) 20. h4? (required 20. d5! d5 21. e7! d7 with a dangerous initiative) de8 21. ad1 b2 22. d5 d5 23. cd d5 24. e7+? (unlike the variation indicated in the applications to move 20, this idea does not work here; 24. fe1 is necessary, defending the pawn) b8 25. e3 b5 26. c4 c3 27. d4 hg8? (27...h7, attacking the pawn from the side; both opponents are on hold, a series of mistakes follows) 28. c3 bc 29. d4?! (29. a3!) b7?! (29...a8!)
+
+30. c3 e7 31. a5! (attacking the bishop b7) e5 32. b4? Decisive mistake. In the open position, the bishop is stronger than the knight, so exchange it: 32. b7! with chances of nothing due to the weakness of the black king. 32...g5 33. h5 g4 34. fe1 g3! 35. b7 gf+ 36. f2 b7 37. f3 eg5 38. b7+ b7 39. g4 g4 40. e6 h4 41. h6 g5 42. h7 hh5 43. d7 c8 44. e7 e5 45. g7 hf5+, White resigned.
+
+H. Nakamura – S. Vidit
+Toronto, 2024
+
+1. e4 e5 2. f3 c6 3. b5 f6 4. d3 c5 5. c3 0-0 6. 0-0 d6 7. h3 e7 8. d4 c6!? (New opening!) 9. d3 (9. dc cb 10. cd g6 11. d3 e6 with the idea of ​​h5-f4 and counterplay) b6 10. de de 11. e5.
+
+11...h3! 12. c4. The victim was groaning to be accepted – 12. gh b8! 13. f4 c7 14. g3 e5 15. f4 with equal chances. 12...g4 13. c2 c7 14. e5 d7 15. h7+ h8 16. d3 b5 17. e3 e5 18. e2? Decisive mistake. It is necessary to 18. g4 g4 19. g3 f5 20. g5, stopping Black’s attack on the kingside and developing his queenside. 18...f5 19. f4 b6 20. f2 d5 21. h1+ g8 22. fe g5 23. e1 e3 24. g4 g4 25. e3 e3 26. e2 g3+ 27. d2 ad8+ 28. c1 g5 29. b3 f1+!, any absence of a king will result in a fork with g3, so White gave up.
+
+A. Rusanov
+
+⟦folio none⟧
+
+---
+running_head:
+folio:
+---
+
+Index 90964
+1ST
+Leonardo da Vinci
+Products with physics
+VASCULAR SYSTEM
+MAN AND TREE
+What is discussed and what are
+fundamental differences?
+ISSN 0130-2221 24004
+9 770130 222245
+(MORE – ON P. 8 INSIDE THE MAGAZINE)

@@ -1,0 +1,80 @@
+---
+id: 2024-3-rusanov-proryiv-v-desyatku-e633b3de
+issue: kvant_2024_3
+year: 2024
+number: "3"
+title: Breakthrough to the top ten
+authors:
+  - Русанов А. В.
+rubric: shahmatnaya-stranichka
+rubric_sub: Шахматы
+page_first: 67
+page_last: 68
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 9ed0ad15417690b1673eee02294feb3e37a14c63845e95e4f8d74f406b569d07
+prompt_sha256: draft-1
+translated_from: content/ru/2024/03/articles/01_rusanov-proryiv-v-desyatku-e633b3de.md
+source_content_sha256: 3eb20bf5cd910696c4f60c94beeed68a1d290695c2097ffa7154f6e89c6001bf
+translation_model: draft
+translation_run: en-draft-2026-11-03
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+---
+running_head:
+folio:
+---
+
+ProvyV
+IN THE TEN
+
+Uzbek chess player Nodirbek Abdusatorov became the winner of the prestigious classical chess tournament held in Prague, and broke into the top ten of the current FIDE rankings immediately to fourth place. A solid achievement for a 19-year-old chess player who already holds the titles of world rapid champion and Olympic winner as part of his country’s national team.
+
+N. Abdusatorov – P. Magsudlu Prague, 2024
+
+1. e4 c5 2. f3 d6 3. d4 cd 4. d4 f6 5. c3 a6 6. h3 e5 7. b3 e7 8. e3 e6 9. f3!
+Modern plan - White prepares a long castling and attack on the king's side. 9…bd7 10. g4 h6 11. 0-0-0 c8 12. d5 f8! (a computer move that makes it difficult for White to execute his plan) 13. d3 g6 14. he1 d7 15. b1 g5! 16. c4 0-0 17. f1 h4 18. g5 hg 19. d3 g6 20. e3 c6 21. d2 b6 22. d5 (more precisely 22. f5! winning a pawn on d6) a5 23. a4 f4 24. e3 g6 25. c3 f6 26. f3 h7 27. d5 g7 28. h4 d5 29. cd c8 30. hg h7? Stronger than 30…d7! to fight for the vertical with. 31. a6! c7 32. c1 c1+ 33. c1 g5 34. c6?! This move by White was aimed, but more precisely 34. c3!, capturing the rook file. 34…g2 35. c3 e1! 36. d2 h8 37. e3 h2 38. f1 c2 39. c3 b4.
+
+40. h2! A beautiful and forced sacrifice, since after 40. c4 f2 White loses material. 40…c6 41. dc e6. The position is equal: for the queen Abdusatorov received a passed pass and play on the white squares, and if the white knight gets to b5, the position will be won. Black is obliged to prevent this by active play. 42. c4 c7 43. f1 e8 44. d5 b5 45. e3?! Safer is 45. ab b5 46. b3 d4 47. c3 b5 with a probable score. 45...ba! 46. ​​c2 b8?! More precisely, the computer recommendation is 46…h8 47. a2 and only then b8, in order to threaten check with b3 in some variations. 47. c4 a3 48. d5 e6 49. b3?! d4?! 50. c7 h8 51. d2 h1+ 52. a2 c1 53. h2 a4!? For a draw, 53…g1 54. d2 c1 is enough, but Black will win the tour position of the game to win. 54. g5 f3 55. f2 ab+ 56. b3 d2 57. d2 d2+ 58. a3 a5+ 59. a4 a6 60. b4 b7+ 61. b5?! h7? Knich only 61…f8! with perpetual check after 10 moves, but it is practically impossible for a person to understand the ceyton in such subtleties. 62. c4 g7 63. d7 a6+ 64. b3 b7+ 65. c2 a6 66. c8 e2+ 67. b3 e4 68. g8+, Black has dealt.
+
+The 3rd round game of tourer Nodirbek Abdusatorov against Richard Rapport was replete with inaccuracies, but it may be integrative for fans of the Italian game.
+
+N. Abdusatorov – R. Rapport Prague, 2024
+
+1. e4 e5 2. f3 c6 3. c4 c5 4. c3 f6 5. d3 d6 6. b4 b6 7. a4 a5 8. b5 e7 9. bd2 0-0 10. 0-0 g6 11. d4 ed?! In this position, the correct plan is related to the development of the bishop: 11…g4! 12. c2 d7 with an equal game. 12. cd d5 13. ed d5 14. b3 c6 15. e1 b4 16. e4 cb? Opening the line is beneficial for White, as he gets an additional resource a3-b4. 17. ab f5 18. fg5 d7 19. a3?! Practical winning sacrifice: 19. f7! f7 20. g5 f8 21. f7 f7 22. a3, and Black is paralyzed. 19…ad8 20. b4 ab 21. c5 c7 22. ac1 f4 23. f7+? (too late, since Black is not obliged to accept the sacrifice) h8! 24. f3 h6 25. b7 e2+! 26. e2 b7 27. c6? Necessary is 27. h5! d4 28. h1 f6 29. e6 e6 with mutual chances. 27…d4! 28. h1.
+
+28…f7? After the exact 28…h7! 29. e6 f7 30. d8 d8 Black already wins at the expense of two bishops, but in the game they overlooked White’s stunning response. 29. d6!! It is impossible to take the rook due to mate, and White is left with an extra exchange. 29…c8 30. f7+ f7 31. d4 b3 32. b6 c2 33. f3 b2 34. b7 f8 35. dd1 c5 36. b3, Black has dealt.
+
+A. Rusanov
+
+⟦folio none⟧
+
+---
+running_head:
+folio:
+---
+
+Index 90964
+STRUCTURE ΔNK and...
+MATHEMATICAL
+Curiosities
+One of the most important discoveries
+in biology of the 20th century - discovery
+spatial structure
+ΔNA molecules. But something
+not so in this structure...
+NOBELPRIS 1915
+75
+RIGE
+WH BRAGG
+WL BRAGG
+ALERK
+NOBEL
+Products with the characteristic
+ISSN 0130-2221 24003
+9 770130 222245
+(MORE DETAILS – ON P. 24 INSIDE THE MAGAZINE)

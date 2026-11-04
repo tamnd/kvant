@@ -1,0 +1,74 @@
+---
+id: 2024-4-zadachi-55b90a0d
+issue: kvant_2024_4
+year: 2024
+number: "4"
+title: Tasks
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 29
+page_last: 29
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: ccca2d67a3a5b076f2090348484010853d019373afb4bd708ddbd18f79a87e04
+prompt_sha256: draft-1
+translated_from: content/ru/2024/04/articles/08_zadachi-55b90a0d.md
+source_content_sha256: 69ba3a2f400dca566a598f9f98255ff4490931df1d8b41158e1827f6bdcea4ea
+translation_model: draft
+translation_run: en-draft-2026-11-03
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+---
+running_head:
+folio:
+---
+
+FOR JUNIOR SCHOOL CHILDREN
+Tasks
+1. Arrange in 3x3 squares
+various positive integers, no more than 25, so that at any
+a pair of adjacent cells on one side
+number was divisible by another.
+I. Yashchenko
+2. In total
+P,I + T,b + D,P + O,B + E,Y
+all numbers are protected by letters
+(different letters - different numbers).
+It turned out that all five terms are not
+integers, but the sum itself is an integer
+P,I+T,b+D,P+O,B+E,Y
+number. Which one exactly? For each
+write one possible answer
+An example with such five terms.
+Explain why other amounts are
+you can't beam.
+A. Shapovalov
+These problems were proposed at the Mathematical Festival.
+3. The Shah decided to check the court
+a great sage. “Here are six boxes for you,” said the Shah, “with the inscriptions 1, 2,
+3, 4, 5, 6 on the covers. In each box -
+ke gold coin that weighs one liter
+as many drachmas as written. You
+arrange the boxes any way you like
+rectangular cells 2x3. Then I
+It's not from you that I swap coins
+in some two boxes standing in
+adjacent cells on the side (or neither
+which I don’t change). Then you point to
+a few shatulki, and I’ll tell you
+the total weight of the coins in them. If after
+this correctly determined which
+I transferred the coins, you will stay with
+yard If you can’t, I’ll send you away!”
+How can a sage act to
+pass the test?
+A. Shapovalov
+4. Cut the first parallel
+gram into three parts and add them together
+second.
+T. Golenishcheva-Kutuzova
+Hypostrations by D. Grishukova
