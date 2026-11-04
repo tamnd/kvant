@@ -9,18 +9,18 @@ authors:
 rubric: praktikum-abiturienta
 rubric_sub: Практикум абитуриента
 page_first: 39
-page_last: 43
-page_labels: 37-41
+page_last: 45
+page_labels: 37-43
 tag: ZWRR
 lang: en
 source: kvant_digital
 extraction: vision
-content_sha256: 467fdd709ed09edb7ab37f017d43592c8e3ebfe985d0c8845fd5132402395496
+content_sha256: a8aa28bfc0f1f5cae632c515a9c9ac8ce6a16ca5da4791b8d66e78156d9a1233
 prompt_sha256: draft-1
 translated_from: content/ru/1971/02/articles/07_mordkovich-dve-dyuzhinyi-zadach-na-progressii-b24b4c8c.md
-source_content_sha256: 149a3527e7b227745e668458f874933447a33a3945ff287d248e65fd922435f5
+source_content_sha256: 11fea8552d0c6e037451ff8cf2ba4505814c0957035cef1901e9f27f65b5a4df
 translation_model: draft
-translation_run: en-draft-2026-10-31
+translation_run: en-draft-2026-11-03
 translation_quality: draft
 ---
 
@@ -202,3 +202,78 @@ $$\begin{cases}
 2(b_2+2) = b_1+b_3, \\
 (b_2+2)^2 = b_1(b_3+9).
 \end{cases}$$
+
+⟦folio 42⟧
+
+---
+running_head:
+folio:
+---
+
+If we now express $b_2$ and $b_3$ in terms of $b_1$ and $q$, we obtain a system of two equations with two unknowns
+$$\begin{cases} 2(b_1q + 2) = b_1 + b_1q^2, \\ (b_1q + 2)^2 = b_1(b_1q^2 + 9), \end{cases}$$
+having solved which, we find $b_1$ and $q$: $$\begin{cases} b_1 = 4, \\ q = 2 \end{cases}$$ or $$\begin{cases} b_1 = \frac{4}{25}, \\ q = -4. \end{cases}$$
+Answer: 4, 8, 16 or $\frac{4}{25}, -\frac{16}{25}, \frac{64}{25}$.
+
+Task 11. For what values ​​of $x$ and $y$ is the sequence $u_1, u_2, u_3$, where $u_1 = 8^{x+\log_2 y}, u_2 = 2^{x-\log_2 y}, u_3 = 5y$, both an arithmetic and a geometric progression?
+
+Solution. Two conditions must be met simultaneously:
+
+$$2u_2 = u_1 + u_3 \text{ и } u_2^2 = u_1u_3,$$
+
+whence $(u_1 + u_3)^2 = 4u_1u_3, (u_1 - u_3)^2 = 0, u_1 = u_3$, therefore $u_1 = u_2 = u_3$.
+
+So we have to solve the system of equations
+$$8^{x+\log_2 y} = 2^{x-\log_2 y} = 5y.$$
+From the first equation $3x + 3\log_2 y = x - \log_2 y$, $x = -2\log_2 y$.
+Now from the second equation $2^{-3}\log_2 y = 5y, y^{-3} = 5y,$
+from where $y = 5^{-\frac{1}{4}}, x = \frac{1}{2}\log_2 5.$
+
+Task 12. Find the angles $\alpha, \beta, \gamma$ of the first four, if it is known that they form an arithmetic progression with a difference of $\frac{\pi}{12}$, and their tangents form a geometric progression.
+
+Solution. It follows from the condition that $tg^2\beta = tg\alpha \cdot tg\gamma$. Let's perform some transformations of this equality:
+$$\frac{2\sin^2\beta}{2\cos^2\beta} = \frac{2\sin\alpha\sin\gamma}{2\cos\alpha\cos\gamma},$$
+$$\frac{1 - \cos 2\beta}{1 + \cos 2\beta} = \frac{\cos(\gamma - \alpha) - \cos(\gamma + \alpha)}{\cos(\gamma - \alpha) + \cos(\gamma + \alpha)}.$$
+
+But according to the condition, $\alpha, \beta, \gamma$ is an arithmetic progression with difference $\frac{\pi}{12}$; this means that $\gamma + \alpha = 2\beta$ and that $\gamma - \alpha = \frac{\pi}{6}$. Then our equality can be rewritten as follows:
+$$\frac{1 - \cos 2\beta}{1 + \cos 2\beta} = \frac{\frac{\sqrt{3}}{2} - \cos 2\beta}{\frac{\sqrt{3}}{2} + \cos 2\beta}.$$
+
+It follows that $\cos 2\beta = 0$, that is, $\beta = \frac{\pi}{4}$. We finally get the answer: $\alpha = \frac{\pi}{6}, \beta = \frac{\pi}{4}, \gamma = \frac{\pi}{3}$.
+
+Exercises
+1. Prove that the numbers $\frac{1}{b+c}, \frac{1}{c+a}, \frac{1}{a+b}$ form an arithmetic progression if and only if they form an arithmetic progression of the number $a^2, b^2, c^2$.
+2. Find the conditions necessary and sufficient for the sequence
+
+⟦folio 43⟧
+
+$u_1, u_2, u_3, \text{ где } u_1 = \cos^4 \frac{x}{2}, \ u_2 = \frac{1}{2} \sin 2x, \ u_3 = -\sin^4 \frac{x}{2},$ is an argumentative progression.
+
+3. Let in argumentative progression $S_n = n^2 p, S_k = k^2 p$. Prove that $S_p = p^3$.
+
+4. Prove that
+
+$$\frac{1}{\sqrt{a_1} + \sqrt{a_2}} + \frac{1}{\sqrt{a_2} + \sqrt{a_3}} + \dots + \frac{1}{\sqrt{a_n} + \sqrt{a_{n+1}}} = \frac{\sqrt{a_{n+1}} - \sqrt{a_1}}{d}.$$
+
+5. The four numbers $a, b, c, d$ form a geometric progression. Prove that $(a-c)^2 + (b-c)^2 + (b-d)^2 = (a-d)^2$.
+
+6. Solve system of equations
+
+$$\begin{cases}
+\frac{x}{y} = \frac{y}{z} = \frac{z}{u} = \frac{u}{s} = \frac{s}{t}, \\
+x = 8u, \\
+x + y + z + u + s + t = 15\frac{3}{4}.
+\end{cases}$$
+
+7. Prove equality
+
+$$(66 \dots 6)^2 + \underbrace{88 \dots 8}_{n \text{ цифр}} + \underbrace{44 \dots 4}_{2n \text{ цифр}}.$$
+
+8. Let $x_1$ and $x_2$ be the roots of the equation $x^2 - 3x + A = 0$, and $x_3$ and $x_4$ the roots of the equation $x^2 - 12x + B = 0$. It is known that the sequence $x_1, x_2, x_3, x_4$ is an increasing geometric progression. Find $A$ and $B$.
+
+9. Solve the equation $2x + 1 + x^2 - x^3 + x^4 - \dots = \frac{13}{6}$ if $|x| < 1$.
+
+10. The sum of the terms of an infinite killing geometric progression is 4, and the sum of the cubes of its terms is 192. Find the tenth term of the progression.
+
+11. Find a three-digit number if its digits form a geometric progression, and the digits of a number less than 400 form an argumentative progression.
+
+12. Four numbers form a geometric progression. If they are reduced by 2, 1, 7, 27 respectively, then the resulting numbers will form an argumentative progression. Find these numbers.

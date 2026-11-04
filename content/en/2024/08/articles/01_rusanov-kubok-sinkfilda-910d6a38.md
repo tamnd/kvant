@@ -1,0 +1,86 @@
+---
+id: 2024-8-rusanov-kubok-sinkfilda-910d6a38
+issue: kvant_2024_8
+year: 2024
+number: "8"
+title: Sinquefield Cup
+authors:
+  - Русанов А. В.
+rubric: shahmatnaya-stranichka
+rubric_sub: Шахматы
+page_first: 67
+page_last: 68
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 5cd2d88b36fd36fd4485d836708c30b2d722c674b553876e24a3af18d41f5ff0
+prompt_sha256: draft-1
+translated_from: content/ru/2024/08/articles/01_rusanov-kubok-sinkfilda-910d6a38.md
+source_content_sha256: 4bb050ec8cae2493b05a12c4bd2fbe3bcab1592693350f7253ea4b236087dc02
+translation_model: draft
+translation_run: en-draft-2026-11-03
+translation_quality: draft
+---
+
+⟦folio 8⟧
+
+---
+running_head:
+folio:
+---
+
+Cup
+SINHFIELD
+
+Alireza Firouzja, representing France, took first place in the classical control tournament for the Sinkfield Cup, part of the Grand Chess Tour 2024 series. This victory allowed him to finish first in the overall series standings and earn solid recognition.
+
+A. Firouzja – A. Giri
+St. Louis, 2024
+1. e4 e5 2. f3 c6 3. c4 f6 4. d3 c5 5. 0-0 d6 6. c3 a5 7. h3 0-0 8. b3 h6 9. e1 e8 10. bd2 e6 11. a4 b8. Black is preparing to attack b5. 12. c6!? (in the case of the template 12. d4, Black activated by sacrificing heads: 12…b5! 13. cd ba 14. a4 e7) bc 13. f1 b6 14. g3 a4 15. d4 a7 16. e3 a5 17. c1 h7 18. h4 g8 19. hf5 c5?
+
+20. de?! With the previous move, Black cut off the queen from the kingside, which White could take advantage of by sacrificing two pieces: 20. g7!! g7 21. d5 d7 22. h6!+ h6 23. g5+ f8 24. h5 g8 25. e3 c4 26. f3 b5. In the comments, Firouzja noted that he should have calculated before this position, but could not find mat: 27. f7+! f7 28. g7×! 20…f5 21. f5 de 22.c4! (blocking the bishop) ad8 23. d1 a8 24. d5 c6 25. d8 d8 26. c2 a6 27. c1 d7 28. a3 f6 29. e2
+
+c8 30. c2 a6 31. c3 a5 32. b4 ab 33. b3 c7 34. g3 a6 35. g2 d8 36. a1 c8 37. c2 d7 38. b1 a5 39. c5 d3 40. d3 d3 41. b7? (41. f3!, keeping the pawn on e4) e4 42. e3 g6? Decisive error: 42…a3! 43. f7 g6 44. f8 d2! Black is allowed to simplify his position by getting rid of most of his weaknesses. 43. e7+ f6 44. c6 d2 45. f7+ e6 46. e7+ d6 47. d7+ d7 48. e5+ d6 49. d3 e3 50. fe d2 51. c5+ d5 52. a4 c4 53. f3 g5 54. e4+ d4 55. e5! d3 56. e6 e5+ 57. g2 c6 58. a5, Black has settled.
+
+Fabino Carana took second place in the tournament and in the series.
+
+Ya. Nepomniachtchi – F. Karuna
+St. Louis, 2024
+1. e4 c5 2. f3 g6 3. d4 cd 4. d4 g7 5. c3 c6 6. e3 f6 7. c4 0-0 8. b3 d6 9. f3 a5 10. d3!? (usually they play 10. d2 d4 11. d4 e6 12. 0-0-0 b5) e5 11. d2 d7 12. 0-0-0 fc8 13. b1 c4 14. c4 c4 15. g4 (more precisely 15. b3!? a6 16. e5! e8! 17. d5 with mutual chances) e6 16. b3?! a6 17. d4 ac8 18. g5?? Gross miscalculation. Necessary 18. e3! b5 19. g5 d7 20. g7 g7 21. d5 with equality.
+
+18…e4! 19. fe d4 20. d4 c3! A typical quality sacrifice for the dragon variant. 21. a3 (21. bc a2+ 22. c1 a1×) c4 22. b3 c5 23. c1 a3
+
+24. h4 8c5 25. cf1 b3! Black wins the queen by force after 26. cb b3+ 27. b3 b3+ 28. a1 c2, so White has dealt.
+
+Ding Lihen continues to show dangerous form ahead of the title match - the current world champion only finished second to last in the tournament. One of his offenders was Maxime Vashchier-Lagrave, who thanks to him defeated his record streak of 25 straight ties and shared 3rd place in the final table.
+
+M. Vachier-Lagrave – Ding Lihan
+St. Louis, 2024
+1. e4 e5 2. f3 c6 3. b5 a6 4. a4 f6 5. d3 b5 6. b3 c5 7. c3 d6 8. g5 h6 9. h4 a7 10. 0-0 a5 11. c2 c5 12. bd2 g5 13. g3 h5 14. h3 b8 15. h1 b7 16. h2 f4 17. g4 h5 18. e3 g4 19. h4 g6 20. e1.
+
+20…f8?! (more energetic than 20…c4!? 21. f5 cd 22. d3 f4) 21. f3 c4 22. dc? Instead of winning the position by 22. d5, White allows the opponent to seize the initiative. 22…e3! 23. e3 c4 24. c4 bc 25. b4 gf 26. f3 g4 27. f2 g7 28. a4 e8 29. d1 d7 30. a5 f4?? A simple blunder of quality, not typical for competitions of this level. The last 30…d1 31. ad1 e6 the whole battle is ahead. 31. a4 d3 32. b6 e6 33. d7 d7 34. a6 e2 35. f5 g6 36. h2 d5 37. g5, Black has dealt.
+
+A. Rusanov
+
+⟦folio none⟧
+
+---
+running_head:
+folio:
+---
+
+Index 90964
+ICE RAIN
+It turns out that this beautiful natural phenomenon can not only be observed,
+but also explain it from the point of view of the laws of physics.
+ALER NOBEL
+450 RSFA
+Prémio Nobel
+da Fisica
+Wilhelm Wien
+(1864 - 1928)
+GUINÉ-BISSAU
+Products with physics
+ISSN 0130-2221 24008
+9 770130 222245
+(MORE + ON P. 35 INSIDE THE JOURNAL)

@@ -1,0 +1,78 @@
+---
+id: 2024-9-zadachi-1-4-324bd2d5
+issue: kvant_2024_9
+year: 2024
+number: "9"
+title: Problems 1-4
+rubric: konkurs-imeni-a-p-savina
+rubric_sub: Конкурс имени А. П. Савина
+page_first: 44
+page_last: 44
+page_labels: "42"
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 9278ec5a79a6e0a7cdf530341d1830426a7877506932a22ab0777537bf94fefb
+prompt_sha256: draft-1
+translated_from: content/ru/2024/09/articles/10_zadachi-1-4-324bd2d5.md
+source_content_sha256: e325475d053c3ae75a19078655598a05d5cafd60597a89b5178c77429c48b049
+translation_model: draft
+translation_run: en-draft-2026-11-03
+translation_quality: draft
+---
+
+⟦folio 42⟧
+
+---
+running_head:
+folio:
+---
+
+she has at least ten neighbors. Can at least a) a quarter; 6) a third of all countries be influential?
+
+A. Shapovalov
+
+12 (8 grades). For a performance at a concept in Sunny City, Dunno came up with a trick. The spectators will be given six cards with the numbers 1, 2, 3, 4, 5, 6. Dunno's assistants - Vintik, Shpuntik and Donut - will receive two cards from the spectators, each will see only their own numbers. First, Vintik will have to put one of his cards number up on the table in the presence of Dunno, then Shpuntik will have to do the same, and then Donut. After this, Dunno names what number each has left. Will Dunno be able to reliably perform such a trick?
+
+A. Gribalko
+
+13 (7-8 grades). $N$ fugitives with numbers 1, 2, ..., $N$, where $N > 1$, approached the cool bank of the river. There is a square boat. It can consist of one fugitive whose number is an exact square, or two fugitives with a sum of numbers equal to an exact square. At what minimum $N$ can all the fugitives cross to the right bank?
+
+A. Shapovalov
+
+14 (8 grades). Two circles $\omega_1$ and $\omega_2$ with centers $A$ and $B$ respectively intersect at points $P$ and $Q$. The circumcircle $\Omega$ of triangle $APB$ re-intersects $\omega_1$ at $B_1$ and $\omega_2$ at $A_1$. Let $A_2$ and $B_2$ be points diametrically opposite to points $A$ and $B$ relative to $\Omega$. Prime $A_1A_2$ intersects $\omega_1$ at points $K$ and $L$, and prime $B_1B_2$ intersects $\omega_2$ at points $M$ and $N$. Prove that the points $K, L, M, N$ lie on the same circle.
+
+L.Shamunov
+
+15 (8 grades). For any natural number $n$, prove the inequality
+$$\frac{1!}{0!+1!} + \frac{1!+2!}{1!+2!} + \dots + \frac{1!+2!+\dots+n!}{(n-1)!+n!} < n.$$
+V. Novikov
+The publication was prepared by A. Gribalko
+
+COMPETITION NAMED AFTER A.P. SAVINA
+
+We will start another competition for solving mathematical problems. The tasks are designed mainly for students starting from grades 8-9, and we advise younger students to try their hand at the magazine competition «Kvant» (see website kvantik.com).
+
+Send solutions to problems you can solve to: savin.contest@gmail.com. In addition to the first and last name, indicate the city, school and class in which the teacher belongs.
+
+We welcome participation in the competition not only by individual schoolchildren, but also by teams (in this case, one work will be sent with a list of participants). You can participate starting from any tour. The winner receives diplomas from the magazine «Kvant» and is recognized.
+
+Assignments, solutions and results are published on sites.google.com/view/savin-contest We wish you success!
+
+1. The given integers $a, b, c$. It is known that each of the numbers $2a-1, 3b-1, 6c-1$ is divisible by 1001. Is $a+b+c-1$ necessarily divisible by 1001?
+
+N. Osipov, A. Skopenkov
+
+2. Petya has a set of three white weights with masses 101 g, 102 g and 103 g and the same set of three black weights. The weights are not written on the weights, and you can’t tell by looking which weight is heavier. Pet wants to break the weights into pairs of equal mass. How can he do this in two weighings on a scale with an arrow showing
+
+Which bowl should I convert to and how many grams?
+
+S. Doritsenko
+
+3. Given a square $99\times 99$, divided into unit cells. In how many ways can 99 cells be marked in it so that each square $50\times 50$ has 50 marked cells?
+
+E. Bakaev
+
+4. The regular 100-footer from side 1 is divided into $k$ regular 10-footer from side 1. Prove that $k \leq 10$.
+
+E. Bakaev

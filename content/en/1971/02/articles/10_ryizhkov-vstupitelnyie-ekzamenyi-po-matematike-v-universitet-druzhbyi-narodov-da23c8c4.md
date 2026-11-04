@@ -9,18 +9,18 @@ authors:
 rubric: raznoe
 rubric_sub: Разное
 page_first: 49
-page_last: 52
-page_labels: 47-50
+page_last: 53
+page_labels: 47-51
 tag: VSVR
 lang: en
 source: kvant_digital
 extraction: vision
-content_sha256: 41fbfff016d80aa84b8a58f6367bbb898ed0eefa2ad1d6f7dc3ca6a67c2c054d
+content_sha256: 76b272c1e8368a8281629233476b469d12f0449a2a35bb4e7826386868747d58
 prompt_sha256: draft-1
 translated_from: content/ru/1971/02/articles/10_ryizhkov-vstupitelnyie-ekzamenyi-po-matematike-v-universitet-druzhbyi-narodov-da23c8c4.md
-source_content_sha256: bbd0a361dd03020449500126f4b40642058d06fbf0608c16243c38d690701516
+source_content_sha256: 8aecfe720e2f300e2401bb575991f9160c552f4797483c96b103c4f63b19e0d5
 translation_model: draft
-translation_run: en-draft-2026-10-31
+translation_run: en-draft-2026-11-03
 translation_quality: draft
 ---
 
@@ -82,7 +82,7 @@ telial condition. Here you can already get lost.
 
 3. The problem on stereometry is standard, but quite difficult. The point is not only that problems on dihedral angles are not always solved in a decreasing way, but also that the conditions do not give a single angular value, but only the correspondence between two such values. In general, a regular quadrangular paramida is determined by one linear and one angular dimensions. The linear dimension dan is the height of the paramid, and together the angular dimension indicates the correspondence between the two angles.
 
-Many applicants have solved this problem. In other words, some of them did not understand the essence of the problem at all. Having designated one of the dihedral angles as $\alpha$ and the other as $3\alpha$, they were able to express the volume through the angle $\alpha$, without thinking that this angle was determined by the conditions of the problem.
+Many applicants have solved this problem. In other words, some of them did not understand the essence of the task at all. Having designated one of the dihedral angles as $\alpha$ and the other as $3\alpha$, they were able to express the volume through the angle $\alpha$, without thinking that this angle was determined by the conditions of the problem.
 
 Here is one possible solution to the problem. On figure 2, $\alpha$ denotes the dihedral angle at the edge of the base, and $\beta$ denotes the dihedral angle at the lateral edge of the paramid, so $BK$ and $DK$ are the heights of the lateral faces of the paramid drawn from the vertices of the base. Under condition $\beta = 3\alpha$.
 
@@ -132,7 +132,7 @@ $$V = \frac{1}{3} Ha^2 = \frac{12}{7} H^3.$$
 
 $$\text{tg}(p + q) x = \frac{\text{tg} px + \text{tg} qx}{1 - \text{tg} px \text{tg} qx}.$$
 
-This shows that either $\text{tg} px + \text{tg} qx = 0$ or $\text{tg} px \cdot \text{tg} qx = 0$. Thus, the equation is satisfied in each of three cases:
+This shows that either $\text{tg} px + \text{tg} qx = 0$ or $\text{tg} px \cdot \text{tg} qx = 0$. Thus, the equation is satisfied in each of the three cases:
 
 a) $\text{tg} px + \text{tg} qx = 0$, which is equivalent to $\sin (p + q) x = 0$; 6) $\text{tg} px = 0$; 8) $\text{tg} qx = 0$. Therefore it goes to the same place if $p + q = 0$, or $p = 0$, or $q = 0$; if none of these three equalities is satisfied, then the equation satisfies three series of solutions:
 
@@ -171,3 +171,37 @@ simultaneously executed for $x = 1$ and $x = 4$.
 3. Solve inequality
 
 $$\sin x \cdot \cos 2x \cdot \sin 3x \geq 0.$$
+
+⟦folio 51⟧
+
+---
+running_head:
+folio:
+---
+
+4. The surface of a sphere inscribed in a cone, the lateral surface of the cone, and the complete surface of the cone form a geometric progression. Find the volume of a cone if the radius of the ball inscribed in it is $R$.
+
+5. In a three-room apartment, the length of the first room is equal to the length of the second, the width of the second room is equal to the width of the third, and the diagonal of the floor of the first room is the same as in the third. The areas of the rooms are respectively $a$, $b$, $c$. Find the length and width of each room.
+
+Option 2
+
+1. Solve system of equations
+$$\begin{cases} xy^2z^3 = 108. \\ x^2y^3z = 24, \\ x^3yz^2 = 18. \end{cases}$$
+
+2. Solve inequality
+$$\log \frac{1}{2}x - 2\log \frac{1}{2}x^2 - \frac{1}{x^3} > 0.$$
+
+3. A hemisphere is inscribed in a truncated cone, the volume of which is $\frac{6}{7}$ of the volume of the truncated cone. Find the ratio of the lateral surface of the cone to the spherical surface of the hemisphere.
+
+4. For what values ​​of $\alpha$ does inequality $x^2(1 + \sin \alpha) - 2x\cos \alpha + 2\sin \alpha \geq 1$ hold for all values ​​of $x$?
+
+5. The volume of a rectangular parallelepiped is $V$. If all its edges are increased by $a$, then the volume will be equal to $V_1$, and if they are shortened by $a$, then the volume will be equal to $V_2$. Find the length of the diagonal of the parallelepiped.
+
+Assignment from other options
+
+1. Solve inequality
+$$\log_2\log_8x > \log_8\log_2x.$$
+2. Find values ​​of $tg(x + y)$ if $(3\cos x + 4\sin x)(5\sin y + 12\cos y) = 65.$
+3. Equation with real coefficients
+$$x^3 + px^2 + 2px + q = 0$$
+has root $x_1 = 1 + i$. Find all the roots of the equation.

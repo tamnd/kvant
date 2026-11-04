@@ -9,17 +9,17 @@ authors:
 rubric: osnovnye-stati
 page_first: 15
 page_last: 20
-page_labels: 13, 14, 15, 18
+page_labels: 13, 14, 15, 16, 18
 tag: RMT7
 lang: en
 source: kvant_digital
 extraction: vision
-content_sha256: ca2ccc73d8dfeb2fb66e4a23bb929b21e5ec0e7c7bf4e5d98a7e8d77283f897e
+content_sha256: 0ab905453626ce3577e526657c49faaaef92589a1de081b15c229a08f74a7c0a
 prompt_sha256: draft-1
 translated_from: content/ru/1971/01/articles/04_vilenkin-kombinatorika-392148a2.md
-source_content_sha256: ffa07a6cfcaad7123ade77cc474309bd65814a6ebeb40fc5c2340142047fe3b9
+source_content_sha256: a2e8d1a2acb10bdb1c086c0735dfbed998c27da465ef85c7324c6ee09b1cd920
 translation_model: draft
-translation_run: en-draft-2026-10-31
+translation_run: en-draft-2026-11-03
 translation_quality: draft
 ---
 
@@ -43,7 +43,7 @@ The correct work is somewhat more difficult. It deals with the selection of a pa
 
 Product rule. If we have at our disposal $m$ ways to select element $a$ and $n$ ways to select element $b$, then the pair $(a,b)$ can be selected in $mn$ ways.
 
-Thus, if there are 5 apples and 9 pears on a plate, then the pair (apple, pear) can be selected in $5\cdot 9=45$ ways.
+Thus, if there are 5 apples and 9 pears on a plate, then the pair (apple, pear) can be chosen in $5\cdot 9=45$ ways.
 
 *) Two pairs obtained from each other by rearranging elements are considered different, for example, the pair (1, 4) is considered not to coincide with the pair (4,1).
 
@@ -97,6 +97,43 @@ How many $k$-subsets are there in the set $N$ of $n$ elements?
 Here we say "$k$-subset" together with "a subset containing $k$ elements" for brevity.
 
 The choice of a subset from a given set $N$ can be found in the following way. Let's put the elements of the set $N$ into a bag, and then put our hand into this bag and pull out a subset. Of course, all $k$ elements of the subset are pulled out at once and no reasonable order can be established for them.
+
+⟦folio 16⟧
+
+---
+running_head:
+folio:
+---
+
+2. There are only $2^4$ subsets in $N$:
+$C_4^0 = 1$ 0-subset (empty),
+$C_4^1 = 4$ 1-subsets,
+$C_4^2 = 6$ 2-subsets,
+$C_4^3 = 4$ 3-subsets,
+$C_4^4 = 1$ 4-subset (the whole set $N$).
+
+Let us denote the number of $k$-subsets in a set of $n$ elements by $C_n^k$).
+
+Numbers $C_n^k$ (they are called biomial coefficients) have a number of any properties. Many of them were described in the article by D. B. Fuks and M. B. Fuks “Arithmetic of biomial coefficients” (“Quant”, No. 6, 1970). This article proved that
+$$C_n^k = C_{n-1}^{k-1} + C_{n-1}^k,$$
+(1)
+and using the method of mathematical induction, a formula for $C_n^k$ was obtained:
+$$C_n^k = \frac{n!}{k!(n-k)!}.$$
+(2)
+
+Both statements were derived from the equality $(1+x)^n = C_0^n + C_1^n x + C_2^n x^2 + \ldots + C_n^n x^n$, but they can also be proven by combinatorial reasoning.
+
+To prove, for example, equality (1), we fix one element $a$ from $N$ and divide all $k$-subsets in $N$ into two classes: containing $a$
+
+*) This number is called the number of combinations of $n$ elements by $k$ ($C$ is the first letter of the French word combinaison - combination).
+**) $n!$ denotes the product of all natural numbers from 1 to $n$. For example: $6! = 1 \cdot 2 \cdot 3 \cdot 4 \cdot 5 \cdot 6 = 720$.
+
+and not containing $a$. Check that the first class subset number is $C_{n-1}^{k-1}$ and the second class subset number is $C_{n-1}^k$. Since each $k$-subset belongs to either the first or second class, the total number of all $k$-subsets is $C_n^k$, then equality (1) is proven.
+
+To derive formula (2), let us first find out how to obtain 系数 $k$-subsets from $(k-1)$-subsets. It is clear that for this it is necessary to add elements not included in them to the $(k-1)$-subsets. Since the entire set $N$ contains $n$ elements, this $(k-1)$-subset does not contain $n - (k-1)$ elements. This means that from each $(k-1)$-subset we can obtain $n-k+1$ different $k$-subsets. But the same $k$-subset can be obtained from different $(k-1)$-subsets - we do not know which of the $k$ elements is added last. In other words, any $k$-subset can be obtained $k$ in various ways from a $(k-1)$-subset. Therefore, the total number of $k$-subsets is $k$ times less than $(n-k+1) C_{n-1}^{k-1}$. So,
+$$C_n^k = \frac{n-k+1}{k} C_{n-1}^{k-1}.$$
+
+Use this formula and method -
 
 ⟦folio 18⟧
 
