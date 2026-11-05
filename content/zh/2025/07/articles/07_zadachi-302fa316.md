@@ -1,0 +1,78 @@
+---
+id: 2025-7-zadachi-302fa316
+issue: kvant_2025_7
+year: 2025
+number: "7"
+title: 任务
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 39
+page_last: 39
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 0deae8b627fd26a93f81790426a2552cd89c1e590612ae79ef8ca4903b2ab5fd
+prompt_sha256: draft-1
+translated_from: content/ru/2025/07/articles/07_zadachi-302fa316.md
+source_content_sha256: f7bed63dd066f8fb14edbc2c5ca9ec4cdad1e59777d2dcba32dd36187d5a93cd
+translation_model: draft
+translation_run: zh-draft-2026-11-05
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+---
+running_head:
+folio:
+---
+
+适合小学生
+任务
+
+1. 集中在瑜伽的状态上，be-
+大丹犬和犀牛。其中一位是最受喜爱的
+总是说谎，另一个比其他人都大胆，
+总是说实话，第三个很快
+其中三个，既能说谎，又能说谎
+事实。他们发表了三项声明。
+禅修者：最快的比我勇敢。
+Bulldog：我比最敏捷的人还快。
+犀牛：我比最勇敢的人更有爱心。
+哪一个最慢？
+A·沙波瓦洛夫
+
+2. 瓦夏认为时间是美好的，如果
+小时数除以整数
+分钟数。例如，14:07 -
+美好的时光因为14可以整除
+7点、14:28或15:10很难看。
+瓦夏查看了电力表
+检查并注意到之间的差距
+邻近的火车是
+
+14:07
+
+这些问题在数学节上被提出。
+
+正好 50 分钟，同时有些
+连续三趟热车
+出发时间很好。什么时间
+发送给这三个人中的每一个
+火车？
+
+俄罗斯斯基克
+
+3. 数学家有一组 16 个权重：
+1/3 公斤、1/4 公斤、1/5 公斤、...、1/18 公斤。在左侧
+秤上有1公斤的重量。什么样的权重
+将其放在秤的右侧
+搬运货物吗？ （足够的
+举个例子。）
+M·叶夫多基莫夫
+
+4. 三角形ABC是等边三角形，AE = ED = DF = FB = EF。证明三角形CEF是等边三角形。
+
+俄罗斯斯基克
+
+D. Grishukova 的假说
