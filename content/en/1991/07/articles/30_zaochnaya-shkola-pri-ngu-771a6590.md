@@ -1,0 +1,76 @@
+---
+id: 1991-7-zaochnaya-shkola-pri-ngu-771a6590
+issue: kvant_1991_7
+year: 1991
+number: "7"
+title: Correspondence school at NSU
+rubric: informatsiya
+rubric_sub: Информация
+page_first: 77
+page_last: 77
+page_labels: "75"
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 581f5d1d5f6860774b457282725b7b12db0910bb575bbc06950564413ef3a10a
+prompt_sha256: draft-1
+translated_from: content/ru/1991/07/articles/30_zaochnaya-shkola-pri-ngu-771a6590.md
+source_content_sha256: 3f807ab2f966853b71f9fa38e25983fa98ace00a040f6a13e8fe24225aea9146
+translation_model: draft
+translation_run: en-draft-2026-11-06
+translation_quality: draft
+---
+
+⟦folio 75⟧
+
+---
+running_head:
+folio:
+---
+
+the amount of energy used to bring water to a boil in an electric kettle or in a saucepan heated on an electric saw, to the electrical energy consumed in the process. The electrical parameters of the kettle or stove are indicated on them, the specific heat of water is $c=4,2 \times 10^3$ J/(kg K).
+
+Theoretical problems
+9th grade
+
+1. The voltage in the socket is 220 V, but for lighting use an electric light bulb rated for 110 V, placed in series with the light bulb resistor. How many times must the resistance of this resistor be greater than the resistance of a hot light bulb for it to glow at its normal intensity?
+
+2. A movable vertical partition forms two straight-headed compartments in a rectangular vessel containing water. The partition does not allow water to pass from compartment to compartment. At the initial moment, the volume of water in each compartment is $V$. What volume of water needs to be added to the right compartment so that the distance between the partition and the left wall decreases by 2 times?
+
+3. A person holds one edge the length of the board, its second edge lies on a round barrel (Fig. 1). Pushing the board, the man walks towards the barrel. How far will he travel before he gets close to her? The board is parallel to the floor. There is no slippage between the boards and the barrel, or between the barrel and the floor. Board length $l$.
+
+4. The ball lies at the bottom of the pool. When the water in the pool reaches the level at which the center of the ball is located, it presses on the bottom 1.5 times less than at the moment when there was no water in the pool. Determine the density of the ball.
+
+10th grade
+
+1. Solve problem 4 for 9th grade.
+
+2. The train moved from the station with a rate of $a$, then, after a change in traction, it began to move with a negative rate of $a$. After a time $t$ after the start of movement, I turned back to the station. Determine the maximum distance at which you traveled from the station.
+
+3. A vertically launched projectile bursts into many sedges at the moment it stops. The speed of the sedges during the explosion is $u$, the acceleration of free fall is $g$. Determine the period of time during which the sedges
+
+Fig. 1.
+
+Fig. 2. Fig. 3.
+
+will strike the earth. Air resistance can be taken into account.
+
+4. Another ball flies onto a stationary ball. Find the ratio of the masses of the balls if, after absolute control, they begin to move with equal speeds at angles $a$ and $b$ to the direction of the first movement of the flying ball.
+
+5. The movable block hangs on a thread, the ends of which are attached to the ceiling using two non-issom springs (Fig. 2). The springs are parallel to each other, their stiffnesses are equal to $k_1$ and $k_2$. A body of mass $M$ is suspended from the block. Find the displacement values ​​of the side equilibrium position.
+
+6. A ball of mass $m_1$ (Fig. 3) is suspended from the ceiling on a non-isom thread. Another ball of mass $m_2$ is attached to this ball on the outside. Find their accelerations at the first moment after the thread is pinched.
+
+11th grade
+
+1. Solve problem 2 for class 10.
+
+2. Solve problem 4 for class 10.
+
+3. The tube, one end of which is sealed and the other closed by a piston, has two compartments with a volume of $V$ each. The compartments are separated by a fixed partition with a hole closed by a plug, which flies out when the pressure drops $\Delta p$. In both compartments it is under pressure $p_0$. The piston is slowly removed, without changing the temperature of the gas, and the plugs are left immediately after the release. Find the pressure in the tube after the plug is removed, when air movement is established.
+
+4. A body with charge - $q$ and mass $m$ is placed at a distance $L$ from the center of a uniformly charged sphere, the radius of which is $R$ and charge $Q$ ($L > R$), and is released. Determine the time it takes for the body to pass through the sphere, if it does not lose energy and passes through the walls of the sphere.
+
+5. A particle with electric charge $e$ and mass $m$ flies out through a small hole in the plate of a vertical capacitor with a speed $v$, perepidicular to the plate. The electric field of the capacitor returns the particle to the plate, but due to the presence of gravity acceleration $g$, it falls on the plate below the inlet hole by values ​​$l$. Determine the direction of the electric field of the capacitor.
+
+6. A bubble slowly floats up in the lake -

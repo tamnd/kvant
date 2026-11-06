@@ -1,0 +1,70 @@
+---
+id: 1991-9-chernoutsan-izbrannyie-shkolnyie-zadachi-po-fizike-423ef87f
+issue: kvant_1991_9
+year: 1991
+number: "9"
+title: Selected school problems in physics
+authors:
+  - Черноуцан А. И.
+rubric: shkola-v-kvante
+page_first: 41
+page_last: 41
+page_labels: "39"
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 3e8efb08abf0ea63d285bc57ced1d67b7993e9b6c868ac96834c7a731c9cb9a2
+prompt_sha256: draft-1
+translated_from: content/ru/1991/09/articles/13_chernoutsan-izbrannyie-shkolnyie-zadachi-po-fizike-423ef87f.md
+source_content_sha256: 1f70c9b9998e2a16711dcb6eca6d3db886c0754ecc2b1b677c176ce4afb18276
+translation_model: draft
+translation_run: en-draft-2026-11-06
+translation_quality: draft
+---
+
+⟦folio 39⟧
+
+---
+running_head:
+folio:
+---
+
+Selected school problems in physics
+
+9th grade
+
+1. With a horizontal wind having a speed of $v_1=10$ m/s, djedr drops fall at an angle of $a_1=30^\circ$ to the vertical. At what horizontal wind speed will the drops fall at an angle $a_2=60^\circ$ to the vertical?
+
+2. In the fifth second of rectilinear motion with constant acceleration, the body covers a path $l_5=5$ m and leaves. How far does the body travel in the second second of this movement?
+
+3. Two bodies begin to simultaneously move in a straight line towards each other with initial velocities equal to $v_{01}=10$ m/s and $v_{02}=20$ m/s, and with constant accelerations equal to $a_1=2$ m/s² and $a_2=1$ m/s² and directed opposite to the corresponding initial velocities. Determine at what maximum initial distance between the bodies they will meet during the process of divigation.
+
+4. A soccer ball is sent with an initial speed of $v_0=20$ m/s at an angle of $a=15^\circ$ to the horizontal. At a distance of $L=15$ m from the point of impact there is a vertical wall against which the ball will elastically hit. Find the distance from where you hit the ball to where it lands. Neglect air resistance and the size of the ball.
+
+5. A non-stretchable thread with identical weights at the ends is thrown through a block of radius $R=0,2$ m. The axis of the block rises at a speed of $v_1=1$ m/s, and one of the weights descends at a speed of $v_2=2$ m/s (relative to the ground). What is the angular speed of rotation of the block if the thread moves along it without slipping?
+
+10th grade
+
+6. The gas is in a cylinder under the piston and occupies a volume of $V_1=240$ cm³ at a pressure of $p_1=100$ kPa. What force must be applied perpendicular to the piston in order to push it down by $\Delta h=2$ cm, thereby reducing the volume of gas? Piston area $S=24$ cm². The gas temperature is constant.
+
+7. A heat-insulating piston divides a horizontal vessel into two equal parts containing gas at a temperature of $t=7^\circ\text{C}$. The length of each part is $L=30$ cm. When one part containing the piston has moved by $l=2$ cm. To what temperature was the gas heated?
+
+8. Carbon dioxide flows through a gas pipeline at a pressure $p=0,83$ MPa and temperature $t=27^\circ\text{C}$. What is the speed of gas flow in the pipe if $m=2,2$ kg of gas flows through a cross section of the pipe with an area of ​​$S=5$ cm² in $t=2,5$ min? The molar mass of carbon dioxide is $M=44$ kg/kmol.
+
+9. There is hydrogen in a closed container. How will the pressure in the vessel change if 50% of the hydrogen molecules dissociate into atoms at a constant temperature?
+
+10. When identical vessels containing tubes are filled with gaseous gel at a temperature of $T=40$ K. Then one of the vessels was heated to $T_1=100$ K, the other to $T_2=400$ K, and the temperature of the third vessel remained unchanged. How many times will the pressure in the system increase? The volume of the containing tubes can be neglected.
+
+11th grade
+
+11. The ball, suspended outward, was moved downwards from the equilibrium position by $x_0=3$ cm and given an initial speed equal to $v_0=1$ m/s. After this, the ball began to perform vertical harmonic oscillations with a cyclic frequency of $\omega=25$ s⁻¹. Find the amplitude of these vibrations.
+
+12. A ball of mass $m=0,1$ kg, suspended by threads, performs harmonic oscillations in the vertical plane. How many times will the oscillation frequency change if the ball is given a charge of $q=200$ µC and placed in a uniform electric field with a direction of $E=40$ kV/m, directed vertically downwards?
+
+13. The oscillating circuit consists of a coil and a capacitor. How many times will the frequency of the circuit’s own oscillations increase if there is a capacitor in series with the first content, the value of which is 3 times less than the capacity of the first?
+
+14. A charged capacitor with a capacity of $C=0,2$ mKF is connected to a coil with an inductance of $L=8$ mH. After what time from the moment of connection does the energy of the electric field of the capacitor become equal to the energy of the magnetic field of the coil?
+
+15. Two coherent sound sources vibrate in the same phases. At a point distant from the first source by $L_1=2,1$ m, and from the second by $L_2=2,27$ m, the sound is not heard. Assuming the speed of sound to be $v=340$ m/s, find the minimum vibration frequency at which this is possible.
+
+Publication prepared by A. Chernochan

@@ -1,0 +1,73 @@
+---
+id: 1991-12-strannik-v-pustyine-f5a66e07
+issue: kvant_1991_12
+year: 1991
+number: "12"
+title: Wanderer in the Desert
+rubric: smes
+page_first: 35
+page_last: 35
+page_labels: "33"
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: fcdf5a25e22387f0b9ab102198464f2255c7b94abb302a75e3507713ace3f58a
+prompt_sha256: draft-1
+translated_from: content/ru/1991/12/articles/08_strannik-v-pustyine-f5a66e07.md
+source_content_sha256: fb3a30cfffda4932b593e3fbf874a11cd272fc89285cb35fb7f1f0ba54ceb0dc
+translation_model: draft
+translation_run: en-draft-2026-11-06
+translation_quality: draft
+---
+
+⟦folio 33⟧
+
+---
+running_head:
+folio:
+---
+
+and add:
+$(hv_0)^2 - 2pchv_0 \cos \varphi + (pc)^2 = (hv)^2.$ (4)
+
+Let's square the left and right sides of equation (1):
+$(hv_0)^2 = (hv)^2 + 2hv \frac{p^2}{2m} + \left(\frac{p^2}{2m}\right)^2.$ (5)
+
+From equations (4) and (5), taking into account the equality $hv_0 = hv + p^2/(2m)$, we obtain
+$hv = \frac{(p^2/(2m))^2 - 2pc(p^2/(2m)) \cos \varphi + (pc)^2}{2(pc \cos \varphi - p^2/(2m))}.$
+
+Since $hv$ is always greater than zero, we finally find
+$pc \cos \varphi - \frac{p^2}{2m} > 0 \Rightarrow \cos \varphi > \frac{p}{2mc}.$
+
+Yu. Samarsky
+
+logic problem,
+with whom we want to introduce you,
+taken from the book by D. Bizam and J. Herzet
+"Multiple logic"
+(M.: Mir, 1978).
+
+An article about logical problems
+read in one of the first issues
+our magazine in 1992.
+
+Page in the wilderness
+
+Stranik was walking from Baghdad to Bukhara.
+Beyond one village the path split:
+one road to Bukhara,
+and the other - let it go. Which road?
+he needed to go, they only knew
+local residents. But there was a rumor about them
+that one of them always say
+only the truth, and others - only lies,
+and both are famous for their
+
+taciturnity and to all questions
+They only answer “yes” and “no.” And yet
+the pager managed to find out which of the two
+the road leads to Bukhara. For this he
+only needed to ask one
+question to the first resident
+villages
+What kind of question is this?

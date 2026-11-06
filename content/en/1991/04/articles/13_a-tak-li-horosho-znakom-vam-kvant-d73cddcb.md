@@ -1,0 +1,61 @@
+---
+id: 1991-4-a-tak-li-horosho-znakom-vam-kvant-d73cddcb
+issue: kvant_1991_4
+year: 1991
+number: "4"
+title: Is quantum so familiar to you?
+rubric: kaleydoskop-kvanta
+rubric_sub: Калейдоскоп
+page_first: 43
+page_last: 43
+page_labels: "41"
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 658bc7552809c2c3be84a95ce23e2a39606d79451b5e8137776e326c4f6aa747
+prompt_sha256: draft-1
+translated_from: content/ru/1991/04/articles/13_a-tak-li-horosho-znakom-vam-kvant-d73cddcb.md
+source_content_sha256: 4f72021cef62e2678ef8722bae266f6e74ad40530825a776c3c766b45b1f7d13
+translation_model: draft
+translation_run: en-draft-2026-11-06
+translation_quality: draft
+---
+
+⟦folio 41⟧
+
+---
+running_head:
+folio:
+---
+
+It's interesting that...
+
+...the photon is perhaps the only elementary part for which it is impossible to indicate the author of its experimental discovery.
+
+...in one second, a huge number of “solar” photons fall on a square centimeter of the earth’s surface - approximately 3·10$^{17}$. At the same time, in experiments with elementary particles, detectors resist photons one by one, and even the human eye is capable of this.
+
+...light pressure plays a huge role in nature: it, for example, interferes with the comparative star, decisively influences the formation of comet tails, and shortens the lifespan of artificial Earth satellites. Today, projects of interplanetary sailing ships driven by the “solar wind” are being discussed.
+
+...Planck, being the author of one of the most revolutionary physical theories, adhered to the weight of convergent scientific views. And Einstein, the author of the hypothesis of light quanta, to the council (in
+
+1925) read the dissertation of de Broglie, who put forward, wildly at that time, the idea that electrons have the properties of waves, said: “Read it! Although it seems like it was written by a madman, it is written solidly.”
+
+...world space is filled with millimeter radio waves, which can be considered as cold photon gas with a density of about 500 pieces per 1 cm$^3$. According to modern ideas, this study (it is called relict) arose in the early stages of the development of the Universe, when matter was at enormous temperature and pressure.
+
+...A. G. Stoletov managed, guided only by physical intuition, to establish practically all the laws of physical factors, when not only there were no filled quanta, but even the electron had not been discovered.
+
+...the fundamental law of physics, formulated by Einstein, was finally confirmed by 1916 by the remarkable experiments of Mill-
+
+What to read in «Kvant» about quanta (publications of recent years)
+
+1. “Photoelectric effect and quanta” - 1984, No. 2, p. 29;
+2. “Antiglation and the birth of couples” - 1984, No. 5, p. 35;
+3. “Three significant works of Albert Einstein” - 1985, No. 11, p. 26;
+4. “Atomic physics in problems” - 1986, No. 12, p. 43;
+5. “On the collision of balls and “serious” physics” - 1987, No. 1, p. 3;
+6. “The pressure of light” - 1988, No. 6, p. 19;
+7. “A few comments about the physical” - 1989, No. 1, p. 49;
+8. “Multiquantum processes” - 1989, No. 5, p. 23;
+9. “Space Parsi Regatta” - 1989, No. 11, p. 43;
+10. “Cooling with light” - 1990, No. 5, p. 11;
+11. “Planck distribution and cosmic microwave background radiation” - 1990, No. 8, p. 25.
