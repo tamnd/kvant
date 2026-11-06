@@ -1,0 +1,68 @@
+---
+id: 1991-2-gik-shahmatno-demokraticheskaya-zadacha-5346e19d
+issue: kvant_1991_2
+year: 1991
+number: "2"
+title: Cờ vua-dân chủ bài toán
+authors:
+  - Гик Е. Я.
+rubric: shahmatnaya-stranichka
+rubric_sub: Шахматы
+page_first: 83
+page_last: 83
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 4010350442e977c0be9bbfbfcf41cda18ce8112d5bdc0cbd426249e57158414f
+prompt_sha256: draft-1
+translated_from: content/ru/1991/02/articles/02_gik-shahmatno-demokraticheskaya-zadacha-5346e19d.md
+source_content_sha256: 9cde1fda69fff6b291ad29bbfa171f91d29d15c7334cbf3aa20f65e692e9749d
+translation_model: draft
+translation_run: vi-draft-gaps-2026-11-06
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+---
+running_head:
+folio:
+---
+
+VẤN ĐỀ DÂN CHỦ CỜ VUA
+
+Trong thời kỳ dân chủ của chúng ta, khi lời giải được một số lượng lớn phiếu bầu chấp nhận, I. Akulich từ Minsk đã đưa ra thang đo hiện tại bài toán.
+Hỏi có thể đặt tối đa bao nhiêu miếng trên bảng sao cho mỗi miếng vừa với nhau:
+a) ít nhất một nửa số còn lại;
+b) không ít hơn hầu hết những người khác;
+b) không ít hơn một người chơi chính đủ tiêu chuẩn (tức là 2/3) số người còn lại?
+Đây là lời giải bài toán, được đưa ra bởi I. Akulich.
+Vì các quân được đặt ở vị trí của quân, quân, quân vua hoặc quân tốt giữ nguyên các ô bị tấn công và thêm một số quân khác, nên chỉ cần tìm kiếm lời giải, trong đó chỉ các quân và quân mã được sử dụng (các ô mà chúng chứa không trùng nhau).
+Hãy để chúng tôi ước tính từ trên số lượng số liệu cần thiết. Giả sử chúng đã được sắp xếp và một trong các điều kiện a) - b) được đáp ứng. Hãy xem xét hình ngoài cùng bên phải của đường ngang thấp nhất có các hình. Nếu đây là những hình, thì anh ta có thể giữ không quá bốn hình dưới hỏa lực tối nghĩa (ở bên trái, phía trên, phía trên bên trái và phía trên bên phải của chính mình). Nếu đây là quân mã thì cũng không quá bốn quân (không có quân nào nằm dưới đường ngang được đề cập). Vì vậy, con số trung bình của sự sắp xếp mong muốn có ít nhất một con số, trong đó không quá bốn con số bị cháy. Khi đó đối với trường hợp a) số lượng hình còn lại không quá 4, đối với trường hợp 6) - không quá 3, đối với trường hợp b) - không quá 2. Do đó, số lượng hình tối đa trong mỗi trường hợp không vượt quá:
+a) 1+4+4=9;
+b) 1+4+3=8;
+b) 1+4+2=7.
+Trong trường hợp a) và b) đạt được tối đa. Sự sắp xếp tương ứng cho a)
+
+thể hiện trong sơ đồ, đối với 6) chỉ cần loại bỏ quân mã ở vị trí này là đủ.
+
+Tình hình phức tạp hơn với trường hợp c). Hãy cố gắng chứng minh rằng không thể sắp xếp bảy hoặc sáu chữ số sao cho thỏa mãn điều kiện bài toán. Và bạn có thể sắp xếp năm con số.
+
+Mỗi con số ở đây hài lòng không dưới 4×2/3=2,66... ​​​​phần còn lại, tức là các điều kiện được đáp ứng.
+
+Từ những lá thư của độc giả
+
+Hãy tưởng tượng mỗi bên có một quân vua và các quân cờ trên bàn cờ. Mọi người đều có tầm nhìn xa trông rộng, nhưng một tình huống như vậy có thể xảy ra (do V. Sidorov phát minh ra), trong đó cả quân trắng và quân đen, bất chấp phạm vi rộng của bàn cờ, đều không thể kiểm tra mà không bị trừng phạt.
+
+Nên đặt quân Trắng ở ô vuông nào để quân Trắng không thể ép xuống trong 1 nước đi (vị trí không được ghép)?
+
+Đáp số bất ngờ. Hình vuông duy nhất như vậy trên bảng là b8! Sau 0...K:b8 không có quân bạn trong một nước đi, không có quân bạn nào cả.
+
+Trong “nối tiếp” bài toán (chỉ các nước đi trắng), một tập hợp quân cờ nhất định phải được sắp xếp sao cho chuỗi nước đi kết thúc bằng chiếu hết càng dài càng tốt. Trong «Kvant» số 5 năm 1988, các vị trí trên bản đồ đã được kiểm tra và 22 hồ sơ đã được đưa ra. Ngay sau đó một người trong số họ đã bị học sinh lớp bảy A. Popov đánh đập.
+
+Ở vị trí này, tấm thảm được thực hiện theo 8 bước di chuyển cùng với:
+1. Rb1 2. Rl:b4 3-7. Npb3—c4—d5—e6—f7 8. Rh4×.
+
+Nhiều độc giả đã cố gắng phá kỷ lục, nhưng tất cả các vị trí khác được gửi đều bị lỗi: tấm thảm được đưa ra bằng nhiều loạt động tác khác nhau, điều này bị cấm theo chuỗi bài toán.
+
+E. Gik

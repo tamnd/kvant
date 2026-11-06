@@ -1,0 +1,57 @@
+---
+id: 1991-1-gik-ohota-na-mustanga-a069872b
+issue: kvant_1991_1
+year: 1991
+number: "1"
+title: Săn Mustang
+authors:
+  - Гик Е. Я.
+rubric: shahmatnaya-stranichka
+rubric_sub: Шахматы
+page_first: 83
+page_last: 83
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 151ca1afb91e57749606fc257beef3ed2b066a4342364e0f4a80fefe4e941237
+prompt_sha256: draft-1
+translated_from: content/ru/1991/01/articles/02_gik-ohota-na-mustanga-a069872b.md
+source_content_sha256: 02ce1b9793877bd18695a63174ecf94494b01aba71c017e73974429d71afee1d
+translation_model: draft
+translation_run: vi-draft-gaps-2026-11-06
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+---
+running_head:
+folio:
+---
+
+SĂN SĂN
+TRÊN MUSTANG
+
+Tại một trong những trung tâm điện toán, hiệu quả của các thuật toán khác nhau để phân tích các tình huống xung đột là tương đương nhau. Mô hình được sử dụng là một trò chơi xếp hình cờ vua chỉ có hai quân di chuyển trên những bàn cờ khác thường - quân này bắt được quân kia. Tôi đặc biệt yêu thích những thành tựu của máy tính trong việc phân tích các trận đấu trong đó quân Xe chiến đấu với quân Mã. “Săn Mustang” - đó là cách mà các tác giả A. Levin và O. Uskova gọi trò chơi này.
+
+Bảng truyền thống có vẻ không thú vị. Theo mẹ anh, việc cưỡi ngựa trên lưng bà là không thể, ngoại trừ một số tình huống đặc biệt không may cho anh. Khi kích thước của bàn cờ giảm đi, hiệp sĩ được hỗ trợ bởi những mối nguy hiểm ngày càng lớn hơn. Trên bàn cờ 8x5, các vị trí ban đầu lớn vẫn không là gì, nhưng trên bàn cờ 8x4, quân Xe có thể dễ dàng bắt được hiệp sĩ ở bất kỳ vị trí ban đầu nào của quân cờ.
+
+Trước mắt chúng ta là một ví dụ giáo dục về việc “săn một con Mustang”. 1. Rs3! Nd1 (1...Kh1 và 1...Kg4 thua ngay do 2. Rf3) 2. Rc2! Ke3 3. Rd2 Kf1 (3...Kc4 4. Rd3 Kb2 5. Rd4) 4. Re2 Kg3 5. Re1! - quân mã bị bắt và quân xe sẽ tiêu diệt nó ở nước đi tiếp theo. Một lựa chọn khác: 1...Ke4 2. Rf3! Kd2 3. Re3!, và sau 3...Kf1 hoặc 3...Kc4 vấn đề sẽ chuyển sang vấn đề trước đó.
+
+Hãy chuyển sang các vị trí thú vị hơn.
+
+1. LD4! Ks3. Mất nhanh hơn là 1...Ke3 2. Rd2 hoặc 1...Kb6 2. Rd2 Ka4 3. Rs2 và sau đó là Rs5-c4-d4.
+
+2. LD2! Ke4 3. Rd3. Nếu bây giờ là 3...Kc5 thì 4. Rd4 và trên 4...Kb3 - tuyến đường quen thuộc Rc4-b4-e4-e3. Trên 3...Kf2 quyết định 4. Re3 Kd1 5. Rf3 Kb2 6. Rs3 Kd1 (6...Ka4 7. Rs4 và 8. Rd4) 7. Rs2, v.v. Nếu có
+
+Ở nước đi đầu tiên của quân Xe không còn phần thắng, tuy nhiên, Mustang phải đối mặt với một cuộc đua vô cùng nguy hiểm. Đây là một trong các lựa chọn: 1. Rs4? Ke3! 2. Rf4 Kc2! (2...Kd5? 3. Rd4, 2...Kd1? 3. Rf3) 3. Re4 Ka3! 4. Re2 Kb5! (4...Kc4? 5. Rs2 Kd6 6. Rs3) 5. Rd2 Kc3!, và Trắng ở zugwang: 6. Rd4 Ke2 7. Rs4 (7. Rd3 Kf4!) 7. Kg1 (7. Kg3? 8. Rs2 Ke4 9. Re2 và 10. Rd2) 8. Re4 Kf3! 9. Rg4 Ke1! (9...Kd2? 10. Rf4 Kb3 11. Rs4) với một trận hòa.
+
+Trận chung kết bài toán khó hơn những trận trước. Lời giải chứa 15 nước đi - một ván cờ nhỏ!
+
+1. Rb3! Kf4. Các nước đi 1...Kf2 và 1...Kc5 đẩy nhanh kết quả, còn với 1...Kc1 và 1...Ke1 thì vấn đề chuyển sang phương án chính. 2. Rf3! Tiếp tục “tấn công tình yêu” tưởng chừng như vô nghĩa nhưng sai lầm lại nằm ở hướng đi của 2. Re3. 2...Kd5 3. Rf2!! 3...Kb4 4. Rd4! Ka6 5. Rd4! Kc5 6. Rd5! Ke4 7. Rd3! Kc5 (7...Kf2 8. Re3!) 8. Rd4! Vị trí này đã bị phá vỡ sau năm nước đi, nhưng lần này hiệp sĩ phải di chuyển.
+
+8...Kb3. Bây giờ đến cách hiệu quả quen thuộc với chúng ta từ vị trí thứ hai. 9. Ls4! Kd2 10. Rb4! Kf1 11. Re4! Kd2 12. Re3! Kf1 13. Re2 Kg3 14. Re1, và nước đi tiếp theo quân xe ăn thịt quân mã.
+
+Đây là kiểu đấu tranh đầy ý nghĩa có thể thực hiện được trên một tấm ván mini, ngay cả với vật liệu cứng.
+
+E. Geek

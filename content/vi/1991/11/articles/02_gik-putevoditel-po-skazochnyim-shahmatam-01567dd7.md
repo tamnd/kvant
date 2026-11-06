@@ -1,0 +1,66 @@
+---
+id: 1991-11-gik-putevoditel-po-skazochnyim-shahmatam-01567dd7
+issue: kvant_1991_11
+year: 1991
+number: "11"
+title: Hướng dẫn chơi cờ cổ tích
+authors:
+  - Гик Е. Я.
+rubric: shahmatnaya-stranichka
+rubric_sub: Шахматы
+page_first: 83
+page_last: 83
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 5ef9554d7a1c49011c6b8beef89747bc8b455d476a91af8456acaaa74ca1c472
+prompt_sha256: draft-1
+translated_from: content/ru/1991/11/articles/02_gik-putevoditel-po-skazochnyim-shahmatam-01567dd7.md
+source_content_sha256: f900ac0d0ee3c8d11ce03ecff469c2076417bb061606e055fd9ac96c0fe392be
+translation_model: draft
+translation_run: vi-draft-gaps-2026-11-06
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+---
+running_head:
+folio:
+---
+
+HƯỚNG DẪN
+CỜ TUYỆT VỜI
+
+Trò chơi cờ vua đã được tạo ra trong nhiều thế kỷ, luật chơi của nó đã thay đổi nhiều lần. Có khá nhiều loại cờ vua quốc gia được biết đến. Trò chơi cổ xưa nhất được coi là chaturanga, đến từ Ấn Độ và sau đó trở thành shatranj ở người Ả Rập và shatranj ở người Ba Tư. Họ vẫn chơi cờ Nhật (shogi), cờ Trung Quốc (tsonki), cờ Hàn Quốc (tyankein), cờ Armenia (tama), cờ Mông Cổ (shatar), v.v.
+
+Những trò chơi cờ vua kỳ lạ, khác thường được phân biệt với cờ vua thực sự bởi một bàn cờ không xác định, quân cờ không xác định hoặc quy tắc trò chơi không xác định. Tất nhiên, có thể có hai hoặc thậm chí cả ba “lời khai không khai báo” cùng một lúc.
+
+Cách dễ nhất để có được một ván cờ là tăng kích thước bàn cờ. Nhiều trò chơi toán học và trò chơi chiếm lĩnh đã được phát minh và bài toán trên bảng hình chữ nhật hoặc hình vuông và thậm chí trên bảng thịt xông khói.
+
+Trong các ván cờ thực sự, kỷ lục thuộc về bàn cờ 16x12. Mức tối đa như vậy từng được nhà vô địch thế giới X. P. Capablanca đề xuất nhằm vượt qua điều mà đối với ông dường như là “cái chết hòa” không thể tránh khỏi trong cờ vua. Trò chơi được chơi với một quân cờ bị bắt và nước đi ban đầu của quân tốt có thể được thực hiện ngay lập tức ở ô thứ tư. Để giành chiến thắng, chỉ cần giao phối với quân hậu của đối phương là đủ. Trận đấu giữa Capablanca với đại kiện tướng người Hungary Marosi ở maximachmaty diễn ra vào năm 1929 đã kết thúc với chiến thắng thuộc về tác giả ván đấu với tỷ số 3:1. Partini kéo dài hơn một trăm chiêu và kéo dài trong mười giờ. Phát minh của Capablanca không được phân phối; lời hứa “không có ai chết” hóa ra lại bị cường điệu hóa.
+
+Chúng ta cũng hãy đề cập đến bàn cờ 12x12 để chơi cờ belik, cái nôi của nó là Ấn Độ. Mỗi người chơi có 12 con tốt và quân cờ với những cái tên kỳ lạ - cá sấu, hươu cao cổ, sư tử, kỳ lân.
+
+Nhà chinh phục nổi tiếng Tamerlane, một người đam mê cờ vua, cũng cho rằng kích thước của một bàn cờ thông thường là không đủ. Đối với các mẫu cờ vua trong hệ thống cá nhân của anh ấy, một bàn cờ 11x10 đặc biệt đã được tạo ra - các quân cùng loại (chung, lạc đà, hiệp sĩ, v.v.) được xếp thành ba hàng trên đó.
+
+Nhiều trò chơi được phát minh bởi các nhà soạn nhạc và người kể chuyện cờ vua. (Thường những trò chơi này đã từng được mô tả trên trang «Kvant», chúng tôi sẽ cung cấp các liên kết tương ứng.)
+
+Trong cờ vua trên các bàn cờ song song (1985, số 8), trò chơi được chơi đồng thời trên hai bàn cờ nằm ​​song song với nhau. Việc di chuyển trên mỗi bàn cờ là bình thường, nhưng các quân cờ có thể di chuyển trong không gian từ bàn cờ này sang bàn cờ khác.
+
+Bằng các phép biến đổi hình học hoặc tôpô của một bảng tiêu chuẩn, không khó để tạo ra các bảng có hình dạng tuyệt vời nhất. Bạn có thể chơi trên bảng hình trụ (1989, số 9, 10), hình xuyến, hình nón và thậm chí trên dải Mobius.
+
+Cờ vua chiếu được chơi trên một bảng chiếu (1974, số 3). Luật chơi dựa trên tính chất của đường thẳng trong hình học xạ ảnh. Đặc biệt, bất kỳ họ giải thưởng song song nào cũng giao nhau ở điểm “vô cực”.
+
+Có rất nhiều nhân vật trong truyện cổ tích. Chúng ta chỉ nhớ lại một số trò chơi có sự tham gia của các nhân vật như: xiếc, bàn lưới, cờ vua Frankfurt, Maschesky (1989, số 9, 10).
+
+Trong ván cờ trước ván cờ đầu tiên, ai công bố chiếu trước sẽ thắng. Trong trò chơi cờ vua không có séc, việc kiểm tra bị cấm - người đầu tiên trong số đó cũng phải là người kiểm tra. Ví dụ, trong một ván cờ có séc, séc là bắt buộc - nếu có thể thì nó phải được khai báo (bằng mọi cách). Trong cờ vua hai nước, mỗi nước trắng và nước đen bao gồm hai nước đi thông thường (sau “nửa nước đi” đầu tiên), vua có thể bị chiếu). Trong quà tặng cờ vua, người chiến thắng là người đầu tiên sử dụng hiệu quả tất cả các quân bài đặc biệt, mỗi quân bài đều gây bất lợi làm thay đổi diễn biến thông thường của trận đấu. Có 72 lá bài trong bộ bài và các đối tác luôn có 5 lá bài trên tay. Đây là gợi ý chúng có thể chứa.
+
+“Hãy di chuyển, sau đó hoán đổi vị trí của tượng và hiệp sĩ của đối thủ.”
+“Nếu ba góc của bàn cờ bị chiếm, hãy đặt bất kỳ quân cờ nào của bạn vào góc thứ tư — thao tác này gợi ý sẽ thay thế nước đi thông thường.”
+“Thực hiện một nước đi, sau đó hoán đổi vị trí của vua của bạn và vua của đối phương - miễn là họ không bị chiếu.”
+Trong số các quân bài có những quân bài lặp lại, cũng như hủy bỏ hành động của đối thủ.
+
+Người đến lượt đi sẽ chọn bất kỳ lá bài nào và lật nó ra. Mục tiêu của trò chơi là giao phối với vua không quay, nhưng việc đạt được nó có thể xảy ra theo cách cần thiết nhất. Trò chơi có thể có một lá bài, sau khi trình bày quân bài đó, vua của đối phương sẽ ngay lập tức bị bắt. Bộ bài có thể được bổ sung bằng trí tưởng tượng của riêng bạn. Ở Pháp trò chơi đang trở nên khá phổ biến.
+
+E. Geek

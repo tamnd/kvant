@@ -1,0 +1,37 @@
+---
+id: 1991-6-dubrovskiy-kalinin-yaponskie-kombinatornyie-golovolomki-s-peremennoy-orientatsiey-679c0d21
+issue: kvant_1991_6
+year: 1991
+number: "6"
+title: '[Câu đố tổ hợp tiếng Nhật có định hướng thay đổi]'
+authors:
+  - Дубровский В. Н.
+  - Калинин А. Т.
+rubric: smes
+page_first: 84
+page_last: 84
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 359a20c58953ddaa2ea34e648e7040ae4cd26db56075cd4e9f60e5eead6876cd
+prompt_sha256: draft-1
+translated_from: content/ru/1991/06/articles/01_dubrovskiy-kalinin-yaponskie-kombinatornyie-golovolomki-s-peremennoy-orientatsiey-679c0d21.md
+source_content_sha256: 1f2246890620d623f23d6dbfe2492d1d0c6fe2da8fb908c1683031149b6b6d91
+translation_model: draft
+translation_run: vi-draft-gaps-2026-11-06
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+---
+running_head:
+folio:
+---
+
+Hai câu đố trong hình của chúng tôi là những câu đố tổ hợp có định hướng thay đổi.
+Trong phần đầu tiên, 4 tấm nói cần được xếp chồng lên nhau sao cho các ô riêng lẻ trên các tấm bao phủ toàn bộ hình vuông lớn hơn. Bằng cách xoay các đầu 90° hoặc 180°, bạn có thể nhận được 4³=64 tùy chọn cho vị trí tương đối của chúng (tối đa số lần quay của toàn bộ ngăn xếp). Nếu nhựa cũng được phép lật, thì số lượng các phương án khác nhau đáng kể sẽ giảm đi 2³ = 8, nhưng độ phức tạp lời giải sẽ tăng lên nhiều hơn. Bởi vì trong trường hợp này, bạn không biết liệu có thể tìm thấy lời giải cho một ngăn xếp nhất định hay không.
+Trong câu đố thứ hai, bạn cần che tất cả các phần của hình tròn bằng các lát màu cam. Số phương án cho sự sắp xếp chung của họ là 12³=1728, nhưng chỉ có một trong số đó đưa ra kết quả đúng lời giải.
+Nhựa có thể được cắt ra từ màng dày có điều hòa và có thể dán các mảnh giấy màu lên đó.
+
+D.K.

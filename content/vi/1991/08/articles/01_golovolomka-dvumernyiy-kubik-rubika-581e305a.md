@@ -1,0 +1,35 @@
+---
+id: 1991-8-golovolomka-dvumernyiy-kubik-rubika-581e305a
+issue: kvant_1991_8
+year: 1991
+number: "8"
+title: '[Câu đố khối Rubik 2D]'
+rubric: smes
+page_first: 84
+page_last: 84
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: af49e5a1f71c7f03fc6840ea07565b582c07f1a2d18e2c6e42c7177fd350504e
+prompt_sha256: draft-1
+translated_from: content/ru/1991/08/articles/01_golovolomka-dvumernyiy-kubik-rubika-581e305a.md
+source_content_sha256: f8fe24280fcb4e79829e633a37a6e798bffecacf47241b86f411dad8cb1b9f4d
+translation_model: draft
+translation_run: vi-draft-gaps-2026-11-06
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+---
+running_head:
+folio:
+---
+
+70 kopecks
+Chỉ số 70465
+
+Đồ chơi được trưng bày ở hình được gọi là khối Rubik hai chiều ở Nhật Bản. Cho đến nay, câu đố này chỉ tồn tại trên màn hình máy tính, vì vẫn chưa có ai nghĩ ra được cơ chế có thể biến bất kỳ hàng ba hình vuông ngang hoặc dọc nào thành một bảng chín ô vuông.
+Câu đố yêu cầu từ trạng thái ban đầu tùy ý phải có được một màu duy nhất cho mỗi bên của bảng trong một số lần di chuyển xác định.
+
+Có $2^9 - 2 = 510$ trạng thái bảng màu khác nhau. Tính toán của máy tính cho thấy trong số đó có 192 trạng thái, trong đó câu đố có thể giải được trong 6 nước đi (đây là những trạng thái xa nhất so với “chính xác”). Ở cuối hình là lời giải cho một câu đố hình vuông ban đầu như vậy. Ở nhà, câu đố này dễ thực hiện nhất bằng cách sử dụng các khối thông thường dành cho trẻ em và các hàng được lật “bằng tay”.

@@ -1,0 +1,63 @@
+---
+id: 1991-12-novyiy-nabor-v-zftsh-3e34db8a
+issue: kvant_1991_12
+year: 1991
+number: "12"
+title: Tuyển dụng mới tại ZFTSH
+rubric: informatsiya
+page_first: 69
+page_last: 69
+page_labels: "67"
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 734319c559c68fe90a4514862e41bd7b2824e899c5b40ae339a707370ad9ba01
+prompt_sha256: draft-1
+translated_from: content/ru/1991/12/articles/22_novyiy-nabor-v-zftsh-3e34db8a.md
+source_content_sha256: e787be6a665bed6d3620692206f50b588dbf22638150dafca1cad1891e81841e
+translation_model: draft
+translation_run: vi-draft-gaps-2026-11-06
+translation_quality: draft
+---
+
+⟦folio 67⟧
+
+---
+running_head:
+folio:
+---
+
+Trường Vật lý và Công nghệ Tương ứng (3FTSH) tại Viện Vật lý và Công nghệ Moscow (MIPT) đang tuyển sinh học sinh trung học nằm trên lãnh thổ RSFSR vào lớp 9, 10 và 11 cho năm học 1992/93.
+
+Mục tiêu của trường là giúp những học sinh yêu thích vật lý và toán học có thể đào sâu và hệ thống hóa kiến ​​thức về các môn học này. Khi đăng ký vào 3FTS, ưu tiên dành cho sinh viên sống ở khu vực nông thôn, các làng thuộc tầng lớp lao động và thị trấn nhỏ, những nơi đặc biệt cần sự hỗ trợ đó.
+
+Giáo dục ở trường là miễn phí.
+
+Ngoài các học sinh cá nhân, 3FTS còn chấp nhận các câu lạc bộ vật lý và công nghệ cũng như các môn tự chọn, có thể được tổ chức ở bất kỳ trường trung học nào bởi hai giáo viên - vật lý và toán học.
+
+Người đứng đầu vòng tròn hoặc tự chọn tuyển và ghi danh học viên (ít nhất 8-10 người) đã hoàn thành xuất sắc nhiệm vụ nhập môn của 3FTS. Một nhóm được chấp nhận vào 3FTSH nếu giám đốc trường báo cáo cho 3FTSH tên của người đứng đầu nhóm và danh sách học sinh đã thay đổi (cho biết lớp học trong năm học 1992/93 và đã hoàn thành điểm cho bài tập nhập môn vật lý và toán học). Tất cả những tài liệu này và một phong bì để đáp số được nhận vào 3FTS với địa chỉ gửi lại được gửi đến một trong những người lãnh đạo của vòng tròn hoặc cuộc bầu cử phải được gửi trước ngày 25 tháng 5 năm 1992 đến địa chỉ: 141700, Dolgoprudny, khu vực Moscow, MIPT, 3FTS, cho biết “Vòng tròn” hoặc “Tùy chọn”. (Sổ ghi chép bài tập của học sinh không cần phải gửi đến 3FTS.) Bài làm của trưởng câu lạc bộ vật lý công nghệ tương ứng và các môn tự chọn có thể được nhà trường chi trả theo yêu cầu của 3FTS tại MIPT dưới dạng các lớp tự chọn.
+
+Sinh viên của 3FTS, trưởng nhóm thể chất và kỹ thuật cũng như các môn tự chọn được người giám sát đánh giá.
+
+Học sinh Moscow nhận các lớp học vật lý và toán học hai lần một tuần theo chương trình 3FTSH tại các trung tâm tư vấn buổi tối ở một số trường học ở Moscow, việc tuyển sinh được thực hiện dựa trên kết quả của nhiệm vụ giới thiệu 3FTSH hoặc dựa trên kết quả của một cuộc phỏng vấn về vật lý và toán học. Thắc mắc qua điện thoại: 408-51-45.
+
+Mỗi học sinh hoàn thành bài tập giới thiệu về vật lý và toán học một cách độc lập. Hoàn thành tác phẩm bằng tiếng Nga và đóng cẩn thận vào tập tài liệu của trường. Giữ thứ tự bài toán giống như trong nhiệm vụ. Đậy cuốn sổ trong một phong bì lớn, xem bưu kiện (chỉ cần đừng gấp quá chặt). Cùng với quyết định, hãy nhớ thêu giấy chứng nhận của trường nơi giáo viên dạy, ghi rõ lớp học. Trợ giúp cho
+
+Vật mẫu
+
+vùng Tula
+Aleshin Nikolai Vasilievich thứ chín
+
+Số 6, đường. Trung 5, Aleksin, điện thoại: 2-73-64, giáo dục
+
+Totkal Nina Semenovna
+Tarasova Irina Anatolyevna
+
+MKShZ, máy đóng dấu
+Nhà máy hóa chất Aleksinin, Số 2 của Séc, bộ máy 301340, Aleksin, vùng Tula, st. Gornaya, 6-a, thích hợp. 74, ĐT. 2-60-93
+
+KHÔNG.
+
+F.
+
+M.

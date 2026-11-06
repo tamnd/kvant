@@ -1,0 +1,44 @@
+---
+id: 1991-4-volodin-osyazayuschie-mikroskopyi-54e31b1f
+issue: kvant_1991_4
+year: 1991
+number: "4"
+title: Kính hiển vi cảm ứng
+authors:
+  - Володин А. П.
+rubric: osnovnye-stati
+page_first: 4
+page_last: 4
+page_labels: "2"
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: e307f61f07cb3c5afc506bef9eda3db987b5d4f557c550ee84fb4cf98ead05c0
+prompt_sha256: draft-1
+translated_from: content/ru/1991/04/articles/03_volodin-osyazayuschie-mikroskopyi-54e31b1f.md
+source_content_sha256: e3ec09ad6a5bd05a59bec5c907946991aead5481b0d43b66864682d210373763
+translation_model: draft
+translation_run: vi-draft-gaps-2026-11-06
+translation_quality: draft
+---
+
+⟦folio 2⟧
+
+---
+running_head:
+folio:
+---
+
+Ứng viên Khoa học Vật lý và Toán học
+A. VOLODIN
+
+Con người luôn bị thu hút bởi thế giới vi mô - thế giới của những đồ vật không thể nhìn thấy bằng mắt. Nghiên cứu về bản chất của thế giới vi mô là vô giá. Họ đã cứu nhân loại khỏi vô số căn bệnh khủng khiếp, cho phép các kỹ sư tạo ra những điều kỳ diệu về vi điện tử và các nhà khoa học - hiểu được bản chất của hầu hết các hiện tượng xảy ra trong thế giới hữu hình của chúng ta.
+
+Nhưng để hiểu được cấu trúc của thế giới vi mô, trước tiên bạn phải nhìn thấy nó. Để nghiên cứu thế giới vô hình, nhà nghiên cứu người Đan Mạch A. Leeuwenhoek vào năm 1674 đã phát minh ra kính hiển vi quang học, ngày nay mọi học sinh đều biết đến. Nó sử dụng hệ thống các đường khúc xạ ánh sáng để hiển thị hình ảnh phóng to của một vật thể từ vùng tiêu cự. Nhiều thế kỷ đã trôi qua; Trong thời gian này, kính hiển vi quang học của thời đại ngày nay đã hoạt động trong nhiều lĩnh vực khoa học khác nhau và đã trở thành một trong những biểu tượng của nó. Tuy nhiên, khả năng của nó hóa ra còn hạn chế: nó chỉ cho phép chúng ta xem xét một thế giới có kích thước micron. Các nhà khoa học bị thu hút bởi các vật thể siêu nhỏ có kích thước hàng trăm và hàng chục nanomet. Tuy nhiên, từ microsop đầu tiên của Leeuwenhoek, người ta chỉ có thể thu được độ phóng đại 200 lần; kính hiển vi quang học hiện đại không hề kém xa - độ phóng đại của chúng không vượt quá 1000. Có chuyện gì vậy?
+
+lệnh cấm của tu viện trưởng
+Hơn 100 năm trước, nhà vật lý và nhà quang học nổi tiếng người Đức E. Abbe đã xác định rằng đối với bất kỳ kính hiển vi nào làm việc với ánh sáng hoặc bức xạ khác được hội tụ bởi thấu kính, sẽ có những hạn chế cơ bản, và hạn chế chính là do sóng đốt cháy vật thể; nó “giấu” những chi tiết nhỏ hơn một nửa bước sóng bức xạ. Và vì bước sóng của ánh sáng khả kiến ​​là một phần của micron nên không thể nhìn thấy vật thể có kích thước dưới micron trong kính hiển vi quang học.
+
+Để tiến vào thế giới hạ micro, điều hợp lý là sử dụng bức xạ có bước sóng khác nhau, chẳng hạn như RENTen hoặc dòng điện tử (hãy nhớ rằng điện tử, giống như bất kỳ hạt cơ bản nào, cũng là sóng). Vì vậy, vào những năm 30 của thế kỷ chúng ta, kính hiển vi điện tử đã xuất hiện.
+
+Các hạt bức xạ, bất kể bản chất của nó, đều có một đặc tính phổ quát - năng lượng. Năng lượng càng cao thì bước sóng càng ngắn. Một thiết bị được chế tạo dựa trên nguyên lý của kính hiển vi quang học, nhưng hoạt động với dòng điện tử, được cho là chuyên dùng cho thấu kính từ tính, được gọi là kính hiển vi điện tử. Sóng điện tử ngắn hơn sóng ánh sáng khoảng một nghìn lần nên độ phóng đại của kính hiển vi điện tử tốt nhất đạt tới một triệu. Nhưng nó khá khó khăn: kính hiển vi điện tử lớn hơn hàng nghìn lần, phức tạp hơn và đắt tiền hơn kính hiển vi quang học và có một nhược điểm đáng kể - nó phá hủy vật thể đang nghiên cứu. Thực tế là dưới tác động của các electron có năng lượng hàng chục electron, mọi sinh vật đều chết và các khuyết tật xuất hiện trong vật liệu tinh thể - vi phạm sự sắp xếp đều đặn của các nguyên tử. Tuy nhiên, kính hiển vi điện tử cho phép đạt được một bước tiến lớn trong việc nghiên cứu thế giới vi mô.

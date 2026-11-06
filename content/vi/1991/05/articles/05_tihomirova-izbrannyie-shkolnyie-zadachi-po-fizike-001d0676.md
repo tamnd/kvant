@@ -1,0 +1,67 @@
+---
+id: 1991-5-tihomirova-izbrannyie-shkolnyie-zadachi-po-fizike-001d0676
+issue: kvant_1991_5
+year: 1991
+number: "5"
+title: Trường chọn lọc bài toán môn vật lý
+authors:
+  - Тихомирова В. А.
+rubric: shkola-v-kvante
+page_first: 48
+page_last: 48
+page_labels: "46"
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 848216bd7cd0229798f378d6a128ce75fbfa7db5b6d5d7e9fdcf1787faaa70d5
+prompt_sha256: draft-1
+translated_from: content/ru/1991/05/articles/05_tihomirova-izbrannyie-shkolnyie-zadachi-po-fizike-001d0676.md
+source_content_sha256: d3c7a7d50dccb22ae0efef7a52352e01cd98ebf1b117a911038cbe152f91a360
+translation_model: draft
+translation_run: vi-draft-gaps-2026-11-06
+translation_quality: draft
+---
+
+⟦folio 46⟧
+
+---
+running_head:
+folio:
+---
+
+Trường chọn lọc bài toán môn vật lý
+
+lớp 9
+1. Hai xe đẩy nhẹ có khối lượng $m_1$ và $m_2=3m_1$ được nối với nhau bằng một lò xo (hình 1). Lò xo bị nén và buộc bằng một sợi dây. Sợi dây bị đốt cháy, lò xo duỗi thẳng và các xe di chuyển theo hai hướng ngược nhau. Tìm tỉ số vận tốc ban đầu của xe và tỉ số quãng đường mà xe đi được trước khi dừng lại. Giả sử hệ số ma sát của cả hai xe là như nhau.
+
+2. Một vật có khối lượng $m_1$ tác dụng không đàn hồi lên một vật đang đứng yên có khối lượng $m_2$. Tìm phần động năng bị mất trong trường hợp này.
+
+3. Một quả bóng có khối lượng $m_1=10$ g và tốc độ $v_1=10$ m/s va chạm với một quả bóng khác có khối lượng $m_2=20$ g đang bay về phía nó. Sau va chạm đàn hồi tuyệt đối, quả bóng thứ nhất chuyển động theo hướng ngược lại với cùng vận tốc tuyệt đối. Xác định vận tốc của quả bóng thứ hai sau va chạm.
+
+4. Một người đứng trên mặt băng nhẵn ném một hòn đá theo phương nằm ngang từ độ cao $H=1,8$ m. Hòn đá rơi trên mặt băng ở khoảng cách $l=9$ m tính từ điểm ném. Xác định công mà người ném hòn đá thực hiện.
+
+5. Một vật nhỏ trượt ra bên ngoài từ độ cao $H$ dọc theo một máng nghiêng, biến thành một “vòng chết” có bán kính $R$ (hình 2). Cơ thể sẽ rơi ra khỏi “vòng” ở độ cao nào? Bỏ bê việc đào tạo.
+
+lớp 10
+6. Một vòng tròn kim loại có bán kính $R$ quay quanh trục của nó với vận tốc góc $\omega$. Xác định số đọc của vôn kế nối với các tiếp điểm, một tiếp điểm chạm vào vòng tròn ở tâm, còn điểm kia chạm vào cạnh. Tỷ lệ điện tích của electron trên khối lượng của nó là $\gamma$. Coi điện trở của vôn kế rất cao.
+
+7. Hai thanh dẫn điện cố định song song, đặt trong mặt phẳng nằm ngang và cách nhau $l=1$ m, đặt trong một từ trường đều, cảm ứng từ của nó bằng $B=0,1$ T và hướng thẳng đứng. Một thanh kim loại có khối lượng $m=0,5$ kg đặt trên các thanh vuông góc với chúng. Xác định gia tốc của thanh này nếu dòng điện chạy qua nó là $I=50$ A và hệ số ma sát giữa các thanh là $\mu=0,2$.
+
+8. Một dây dẫn có khối lượng $m=50$ g và chiều dài $l=20$ cm được treo nằm ngang bằng hai sợi dây không mảnh buộc vào hai đầu của nó. Dây dẫn đặt trong một từ trường thẳng đứng đều, cảm ứng của nó là $B=0,75$ T. Dòng điện nào phải chạy qua dây dẫn để nó ngắt khỏi vị trí cân bằng và các sợi dây tạo thành một góc thẳng đứng $\alpha=30^\circ$ mỗi sợi?
+
+9. Một từ trường đều, cảm ứng của nó là $B=10$ mT, được đặt vuông góc với một điện trường đều có hướng $E=17$ kV/m. Ion, đi qua hiệu điện thế gia tốc $U=15$ kV và lệch về bên trái trong vùng bị trường chiếm giữ, với tốc độ vuông góc với cả hai trường, chuyển động đều và thẳng. Xác định tỉ số điện tích trên khối lượng của ion này.
+
+10. Một electron, được gia tốc trong điện trường có hướng $U=20$ kV, bay vào một từ trường đều có cảm ứng $B=0,1$ T. Vectơ vận tốc của electron tạo thành một góc $\alpha=45^\circ$ với hướng của vectơ cảm ứng từ. Xác định bước của đường xoắn ốc được mô tả bởi electron.
+
+lớp 11 (lặp lại)
+11. Trên các sợi chỉ, chúng có thể tạo ra lực căng $T=40$ N và làm quay đều một hòn đá có khối lượng $m=1$ kg trong mặt phẳng thẳng đứng. Hòn đá phải quay với tốc độ góc bằng bao nhiêu thì sợi chỉ đứt? Chiều dài chỉ $l=1$ m.
+
+12. Một vật có khối lượng $m=200$ g được ném từ mặt đất lên ban công ở độ cao $H=6$ m. Trong chuyến bay, vật thể đạt nhiệt độ cao $H'=8$ m tính từ bề mặt trái đất. Xác định công do trọng lực thực hiện khi một vật bay lên, bay xuống và bay hết quãng đường đó.
+
+13. Thể tích của khí dưới áp suất $p=8$ MPa, trong quá trình đẳng áp tăng $\Delta V=0,5$ m³. Trong trường hợp này, các khí được truyền một lượng nhiệt $Q=6$ MJ. Nội năng của khí đã thay đổi bao nhiêu? Khí nóng lên hay nguội đi?
+
+14. Các điện tích $q=10$ ncl, giống nhau về độ lớn nhưng khác dấu, nằm ở hai đỉnh của một tam giác đều có cạnh $a=1$ m. Tìm hướng của điện trường tại đỉnh thứ ba của tam giác.
+
+15. Ba điện trở có điện trở $R_1=R_2=10$ Ohm và $R_3=3$ Ohm được nối với một nguồn có suất điện động $\mathcal{E}=10$ V (hình 3). Cường độ dòng điện trong mạch là $I=1$ A. Tìm điện trở trong của nguồn và cường độ dòng điện ngắn mạch.
+
+Ấn phẩm được chuẩn bị bởi V. Tikhomirova
