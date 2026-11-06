@@ -1,0 +1,77 @@
+---
+id: 1990-6-zadachi-c1367b94
+issue: kvant_1990_6
+year: 1990
+number: "6"
+title: Tasks
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 45
+page_last: 45
+page_labels: "43"
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: e104acff8ca50d7068f9fa7700bbcc556751aed00d392f21d843b9527d8db798
+prompt_sha256: draft-1
+translated_from: content/ru/1990/06/articles/10_zadachi-c1367b94.md
+source_content_sha256: 2ccd9421ced193a5b44feb5c58f026c9c3a245e8935bf0a8b1bccbb0e5790d2b
+translation_model: draft
+translation_run: en-draft-2026-11-06
+translation_quality: draft
+---
+
+⟦folio 43⟧
+
+---
+running_head:
+folio:
+---
+
+Quests
+
+1. Dunno tailed his vision
+new abilities to multiply numbers
+la in the mind. Why check it?
+Znayka suggested that he write some
+some number, multiply it
+numbers and tell him the result.
+“2310,” Dunno immediately blurted out, only having time to write down the number.
+“It can’t be,” he answered after thinking,
+Znayka. How did he discover the error?
+without knowing the original number?
+
+2. Write everything in the boxes figure
+numbers from 1 to 10 so that you
+the indicated equalities were fulfilled.
+
+3. On the schooner of Captain Brungel
+“Victory” (and then “Trouble”) was a
+three-digit number. The number was
+notable for being a quad-
+rathom of an integer. During the curtains
+ma washed off the first digit, and the number
+became the cube of an integer. After the next
+the next storm washed away the next one
+digit, and the number became the fourth stan-
+whole number penalty. What number was it
+on a schooner?
+
+4. Segments AB, EF and CD, iso-
+those added to figure are parallel.
+Prove that $\frac{1}{EF} = \frac{1}{AB} + \frac{1}{CD}$.
+
+5. Collect almost all of them for the disco
+class - 22 people. Renata dance-
+la with seven boys, width -
+with eight, Vera - with nine and so on -
+lee to Irina, who danced with
+all boys. How many boys
+what was it like at the disco?
+
+These tasks were suggested to us by A. Savin, L. Mo-
+Chalov, 11th grade student of Physics and Mathematics School at ErSU Aram
+Hakobyan and 11th grade student of Yarak secondary school
+schools of the DASSR Gistat Magomedov.
+
+43

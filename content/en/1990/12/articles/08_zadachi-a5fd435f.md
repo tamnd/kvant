@@ -1,0 +1,77 @@
+---
+id: 1990-12-zadachi-a5fd435f
+issue: kvant_1990_12
+year: 1990
+number: "12"
+title: Tasks
+rubric: konkurs-imeni-a-p-savina
+rubric_sub: Конкурс имени А. П. Савина
+page_first: 32
+page_last: 32
+page_labels: "30"
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 767351f4e1498786d015188a1637856e6304c275cd1f03389a4c20fca1fb6fe2
+prompt_sha256: draft-1
+translated_from: content/ru/1990/12/articles/08_zadachi-a5fd435f.md
+source_content_sha256: c0d36b843dd91806796f29daafbbd1ef6da5d047e5d3377ccf52c59580e4c86f
+translation_model: draft
+translation_run: en-draft-2026-11-06
+translation_quality: draft
+---
+
+⟦folio 30⟧
+
+---
+running_head:
+folio:
+---
+
+state - current $I_0/2$ flows through the coil, and the capacitor is uncharged. After closing the key, synchronous oscillations will begin with frequency $\omega$ and current amplitude $I_0/2$:
+
+$$i_1(t) = i_2(t) = \frac{I_0}{2} \cos \omega t.$$
+
+To find full points in the coil, you need to remember the direct current $i$ and add it with the desired sign:
+
+$$I_1(t) = i_1(t) + i = \frac{I_0}{2} (\cos \omega t + 1),$$
+
+$$I_2(t) = i_2(t) - i = \frac{I_0}{2} (\cos \omega t - 1).$$
+
+A. Alekseev
+
+F1247. On the opposite walls of the room there is a ledge opposite each other, two identical round mirrors with a diameter of 1 m. The observed position is on the axis of symmetry of the optical system when looking at one of the mirrors. How many “nested” reflections can he count if the angular resolution of his eye is 1 minute? Mirrors are located at a distance of 5 m from each other. Neglect the dimensions of the applicator's head.
+
+All successive reflections are spaced $l = 5$ m apart from each other. The viewing angles on the $n$th and $(n+1)$th images (assuming $n \gg 1$) are approximately equal
+
+$$\alpha_n \approx \frac{d}{nl} \text{ и } \alpha_{n+1} \approx \frac{d}{(n+1)l},$$
+
+where $d = 1$ m is the diameter of the mirror. These two images are different if the condition is true
+
+$$\frac{1}{2} (\alpha_n - \alpha_{n+1}) > \alpha_0,$$
+
+where $\alpha_0 = 1' = \pi/(180 \cdot 60)$ rad. Solving this inequality (taking into account the previous expressions) for $n$, with the additional condition $n \gg 1$, we find
+
+$$n < \sqrt{\frac{d}{2l\alpha_0}} = 18.$$
+
+K. Zuev
+
+Competition "Matematika 6-8"
+
+The magazine «Kvant» together with the Bulgarian youth magazine “Matematika” continues a competition on solving mathematical problems for students in grades 6-8. The competition consists of 27 problems (no 3 in each issue) and will end in May next year. The winners will be awarded prizes from the magazines «Kvant» and “Matematika”.
+
+Send solutions to the problem from this issue no later than February 15, 1991 to the address: 103006, Moscow K-6, st. Gorky, 32/1, «Kvant» (with the number “Competition “Matematika 6-8”}). Don't forget to include your last name, first name, school and class.
+
+Quests
+
+10. There are 9 kilograms of cool and a cup scale with two weights of 50 g and 200 g. Try to weigh 2 kg of this cool in three weighings. Can this be done if there is only one 200g weight?
+
+V. Vyun and A. Savin
+
+11. Prove that the height of a triangle dropped to its longest side is not greater than the sum of the lengths of perpendiculars dropped from an arbitrary point on this side to the other two sides of this triangle.
+
+E. Cherniyov
+
+12. Find three nine-digit numbers in which the numbers 1, 2, 3, 4, 5, 6, 7, 8 and 9 appeared exactly once each, and the sum of some two of them was equal to the third number.
+
+G. Galverin

@@ -1,0 +1,50 @@
+---
+id: 1990-7-vnimaniyu-nashih-chitateley-9cc8b964
+issue: kvant_1990_7
+year: 1990
+number: "7"
+title: To the attention of our readers
+rubric: smes
+page_first: 46
+page_last: 46
+page_labels: "44"
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: fd3ee37552f1ed45fa45c276766e4b49e5e3f1c83eeff93138039dafcc1d0f53
+prompt_sha256: draft-1
+translated_from: content/ru/1990/07/articles/12_vnimaniyu-nashih-chitateley-9cc8b964.md
+source_content_sha256: 6586c7662ddcf4f827d5cf7978ad77cc3a17cd9d6cb608bfa237e5de3b09be15
+translation_model: draft
+translation_run: en-draft-2026-11-06
+translation_quality: draft
+---
+
+⟦folio 44⟧
+
+---
+running_head:
+folio:
+---
+
+Attention
+our
+readers
+
+Store No. 1 "Akademika" in Ufa sends COD books from the publishing house "Nauka":
+Abramov S. A., Zima E. V. Beginning of information. (Programmer's b-chka). — 1989. — 1 r.
+Kaluzhkin N. A., Sushansky V. I. Transformations and permutations. (Problems of science and technical progress). — 1985. — 55 k.
+Cybernetics. Microcalculator in tasks and tasks. (Cybernetics - unlimited possibilities and limited possibilities). — 1986. — 55 k.
+Computer and choice problems. (Cybernetics - unlimited possibilities)
+
+limitations and limitations). - 1989. - 80 k. Computers and nonlinear phenomena. Information and modern natural. (Cybernetics - unlimited possibilities and possible limitations). — 1988. — 45 k.
+Kotov Yu. V. Like a painter. - 1988. - 60 copies. Levinshtein M. E., Simin G. S. Barvery. (Open to integrated circuit). (B-chka «Kvant»). — 1987. — 75 k.
+Meledin G.V. Physics in problems. Exam problems with solutions. Study guide. Ed. 2-e, revised and additional — 1989. — 50 k.
+Popov E. P. Robotics and dental processes systems. (Problems of science and technical progress). — 1987. — 65 k.
+Prasolov V.V., Sharygin I.F. Problems on theorem. (B-chka of the mathematical circle). — 1989. — 75 k.
+
+Simple and difficult to program. (Cybernetics - unlimited possibilities and possible limitations). — 1988. — 35 k.
+Silin A. A. Trenz and us. (B-chka «Kvant»). — 1987. — 35 k.
+Frolova G.V. Pedagogical capabilities of computers. Everyday life Prospects. Problems. (Science and technological progress). — 1988. — 70 k.
+Experiment on display. The first steps of computational physics. (Cybernetics - unlimited possibilities and possible limitations). — 1989. — 80 k.
+Send orders to: 450059, Ufa, st. R. Sorge, 10, store No. 1 “Akademika”.

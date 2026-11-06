@@ -1,0 +1,43 @@
+---
+id: 1990-11-zadachi-f9f6672b
+issue: kvant_1990_11
+year: 1990
+number: "11"
+title: Tasks
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 35
+page_last: 35
+page_labels: "33"
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 9819b28f0fddde875c36bdc54c190a2671f0e9b5e8b6f786a3b008da7eb41a9e
+prompt_sha256: draft-1
+translated_from: content/ru/1990/11/articles/12_zadachi-f9f6672b.md
+source_content_sha256: a5a68e82bb6db8fc6a21470c807f88b8cd1892db63f53b2b3fcc93bbba55b339
+translation_model: draft
+translation_run: en-draft-2026-11-06
+translation_quality: draft
+---
+
+⟦folio 33⟧
+
+---
+running_head:
+folio:
+---
+
+Tasks
+
+1. The blacksmith forged one chain from two identical iron wires. The first contains 80 identical links, and the second - 100. Each of the first chain is 5 grams heavier than each link of the second chain. What was the mass of each wire?
+
+2. Show that if the expression $3a+4b+5c$ is divisible by 11 for certain values ​​$a, b$ and $c$, then the expression $9a+b+4c$ is also divisible by 11 for these values ​​$a, b$ and $c$.
+
+3. Place numbers from 1 to 11 in circles figure so that the sum of the three numbers on each of the ten segments is the same.
+
+4. The segment $AB$ is parallel to the common diameter of the two semicircles arranged as shown in figure, touches the smaller semicircle and is equal to 24 cm. What is the area of ​​​​the figure colored red?
+
+5. Two friends came to the market. Well done Veseli sold 20 cats at a price from 12 to 15 rubles and 20 bags at a price from 30 kopecks to 1 ruble. Moreover, the prices of all cats and all bags are different in pairs. Show that each of the friends can buy a pig in a poke so that they pay the same amount of money.
+
+These problems were suggested to us by A. Savin, N. Antonovich, M. Varga and K. Kokhas; Problem 4 is taken from the American magazine “Mathematics Teacher” (1990, No. 1).
