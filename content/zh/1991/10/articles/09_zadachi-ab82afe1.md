@@ -1,0 +1,43 @@
+---
+id: 1991-10-zadachi-ab82afe1
+issue: kvant_1991_10
+year: 1991
+number: "10"
+title: 任务
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 38
+page_last: 38
+page_labels: "36"
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 341db67ba9125b0157bef378e20157b6c0f70f2d15d5eafddf49a6f09886bd75
+prompt_sha256: draft-1
+translated_from: content/ru/1991/10/articles/09_zadachi-ab82afe1.md
+source_content_sha256: 2c8aa52c33855fad2a48b84730d68f100a2bc80a4ef7afbcc4b407f644f14881
+translation_model: draft
+translation_run: zh-draft-2026-11-06
+translation_quality: draft
+---
+
+⟦folio 36⟧
+
+---
+running_head:
+folio:
+---
+
+任务
+
+1. 在一个大家庭里，所有的男人都同姓，父子之间的年龄相差22岁。曾孙的名字是伊戈尔彼得罗维奇。他的名字叫米特罗凡·季莫费耶维奇。如果伊戈尔的儿子谢廖扎三岁的话，一家之主童年时的名字是什么？他多大了？
+
+2. 找到所有等于上午各数字之和的数字。
+
+3. 有 10 枚硬币：2 x 2 戈比、2 x 3 戈比、2 个镍币、2 个戈比、1 个镍币和 1 个镍币。将它们放在星星的圆圈中（参见图），以便每个五分之一的面额总和相同。
+
+4. 多年来，孟乔森男爵每天都去湖边捕鸭子。从1991年8月1日起，他每天都告诉他的厨师：“今天我射杀的鸭子比两天前多，但还不到一周前。”男爵可以念出这句话的最大天数是多少？ （不要忘记，孟乔森从不说谎。）
+
+5. 从等边三角形底边的顶点发出的两条射线将其切成四部分（参见图）。原来，红色三角形的面积等于蓝色四边形的面积。找出这些射线之间的角度。
+
+这些任务是由 V. Tarakanov、V. Popov、F. Nazarov、A. Kimartsev 和 V. Proizvolov 向我们建议的。

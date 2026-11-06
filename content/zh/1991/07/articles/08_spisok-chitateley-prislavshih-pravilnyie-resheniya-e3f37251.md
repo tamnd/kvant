@@ -1,0 +1,43 @@
+---
+id: 1991-7-spisok-chitateley-prislavshih-pravilnyie-resheniya-e3f37251
+issue: kvant_1991_7
+year: 1991
+number: "7"
+title: 发送正确答案的读者名单
+rubric: zadachnik-kvanta
+rubric_sub: Задачник «Кванта»
+page_first: 36
+page_last: 36
+page_labels: "34"
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 61c440c09dd76aa1b2cd3097ff35c4bd94597b30cd357fa8c3b7bca8ef7dd383
+prompt_sha256: draft-1
+translated_from: content/ru/1991/07/articles/08_spisok-chitateley-prislavshih-pravilnyie-resheniya-e3f37251.md
+source_content_sha256: bafa44bafc5f2efe0a97c251e0549bf2f481a38b55fb9d0126a6510a93704cee
+translation_model: draft
+translation_run: zh-draft-2026-11-06
+translation_quality: draft
+---
+
+⟦folio 34⟧
+
+---
+running_head:
+folio:
+---
+
+发送正确答案的读者名单
+
+大多数提交问题M1246—M1260、F1253—F1267解决方案的读者都完成了���题 M1246、M1256。下面我们公布对剩余问题添加正确答案的人的名字（名字后面的数字是已解决问题编号的最后一个数字）。
+
+数学
+P. Andreeva（莫斯科地区 Chernogolovka 村）47、54； D. Andreenko（基辅）47、51、54、55； A. 艾哈迈多夫（巴库）47、49、57、59、60；于。 Belous（下塔吉尔）47、48； E.贝尔科维奇（基辅）47； A.鲍罗丁（顿涅茨克）48； V. 布林 (顿涅茨克) 47-49, 51, 54; M.沃罗涅茨卡娅（伊热夫斯克）51、52、54； O.盖代（利沃夫）54；于。加蓬（Pryluki）60； M.格尔班德（Odeska）47； A. Zhellov（莫斯科）48—51、54、55、59、60； M.扎维亚洛夫（鄂木斯克）52； V.扎米亚金（基洛夫）54； K.扎尔科夫（明斯克）48、51、54、57、59； A. Zimin (伊万诺沃) 54; M. 伊万诺夫 (乌日哥罗德) 47, 54; I. Izmestye（基洛夫地区苏纳定居点）47、54； S. Ioffe（莫斯科地区 Chernogolovka 村）47、48、51、54； R.伊斯梅洛夫（列宁格勒）47-49； T.卡利塔（基辅）51； I. Katsman（基辅）51； S.科瓦岑科（文尼察）47-49； P. Kozhevnikov（卡卢加）47、48、54、57、59； A.科尔尼延科（德普罗彼得罗夫斯克）48； A. Krivenko（莫斯科地区 Chernogolovka 村）47； A. Kudryavtseva（基辅）47、48、51、54、55； D. Lapin（鄂木斯克）51、54、59； A.Lopushansky（利沃夫）47； K. Milshtein（基辅）47, 51, 53-55； K.米沙切夫（利佩茨克）47—49、51—54、59、60； A.纳西罗夫（奥宾斯克）48； E.佩雷尔曼（列宁格勒）47-49、51、54、57、59； A. Petrosyan（埃里温）47、51、54； V. Rychkov（萨马拉）54； A. Sarsembayev (Arkalyk) 47, 48; G.西洛特金（哈尔科夫）47； A.索克拉科夫（奥德斯卡）51、54； A.索洛多夫（沃罗涅日）47、48、51、52、54； A. Solodovikov (Odeska) 47, 51; A. 索洛杜什金 (托木斯克) 47, 51; M. Temkin (莫斯科) 51, 54； K. Feldman（莫斯科地区切尔诺戈洛夫卡村）47—49、51、53、55； M. Khasin（顿涅茨克）47、48、51、54； A.辛德勒（Fedosiya）47、51、54。
+
+物理
+M.阿卜杜拉耶夫（巴库）54、59、61； S. Atanasyan（列宁格勒）53-55、59、63、64、67； S. Akhmetzanova（别洛雷茨）54； Y. Babkin（基辅）53、54、62、63、65、67； S. Bazylko（北德文斯克）63、64、67； N.巴洛纳斯（维尔诺斯）54、55、57； M.巴拉什科夫（莫吉廖夫州奥西诺夫卡村）53、54、57； N.巴什罗夫 (Lenkova) 64, 67; A.Bekmambetov（莫斯科）53； D. Belovrashchin (图拉) 53, 55; V.邦达连科（库兹涅佐夫斯克）54—56、61、63、64、66； A. Borkovsky（星期五。Bogorodchany，伊万诺-弗兰科夫斯克地区）58、60、63、65、67； L.瓦西里耶夫（萨拉瓦特）53、54、61、63、66、67； G.维加斯（维尔诺斯）53-55, 57；
+
+O. Veseleva (别尔哥罗德) 64; M. Voloshina (莫斯科) 53, 55; P.沃尔佩茨（布列斯特）63、64、67； I. Voskoboynik（基辅）53、55、59、62-67； V.格拉兹科夫（科洛姆纳）53、55、63、64； P. Grebenev（库兹涅佐夫斯克）53—56、61、63、64、66； T. Grigoryan (埃里温) 53, 54; N.古利亚耶夫（下诺夫哥罗德）53-57、59-67； A.达夫列托夫（阿拉木图）53-55、59、61-64、67； I.Daykov（保加利亚卡赞勒克）53； A. Deev (图拉) 54; A.德门蒂尔（切博克萨雷）53-55、57-59、61； A. Demyanenko (托洛夫卡) 53, 54; S.约科克（文尼察）53-55、57-62； S.迪布罗夫（基辅）53-55、57、59、62-67； I.迪斯金（扎波罗热）64； S.多布罗沃尔斯基（第聂伯罗彼得罗夫斯克）53-55、57-62； A.杜博维克（布列斯特）53-55、57； D.杜沙莫夫（Shavat）67； O. Dymar (Kamenets) 55; M. Dyk（弗拉基米尔）54、55、59、62-64、66、67； M. 叶戈罗夫 (Stayy Oskol) 54, 64, 65, 67；于。叶戈罗夫（Avdeevka）54； N.埃夫雷莫夫（斯维尔德洛夫斯克）53、63、64、67； A. Echkalo（扎波罗热）53、54、57； S.雅克（泰尔诺沃尔）64、67； V. Zharina（沃罗涅日）55； A.朱可夫（沃罗涅日）63、64； V. Zhulikov（克拉斯诺达尔地区梁赞斯卡亚站）64、67； I. Zhuravlev (Stayy Oskol) 53-55, 57, 60-62, 67； I. Ichenko（基辅）53-55、58、59、61、63、64、66、67； V.卡伦斯基（塔什干）54、61、67； T.卡利塔（基辅）54； K. Kalyuzhny (Odeska) 53—55, 61, 62, 64, 67； I.卡拉林（明斯克）53-55、64、67； I. Katskin（基辅）54、59、62； A. Kashirin（Stayy Oskol）54、64、65、67； D. 基林（明斯克）64、67； E.克利姆丘克（库兹涅佐夫斯克）53—56、61、63、64、66、67； A.科瓦尔斯基（喀山）64； V. 科夫图年科（扎波罗热）53—55、58、61、62； V.科兹洛夫（Stayy Oskol）53—55、59、63、64、67； T. Koleskivova（Vishnevoe）54； M. Kolakov（克拉斯诺伊斯克地区 Pochet 村）53-55、58、61-64、66、67； D. Komissarov (阿尔扎马斯) 63, 67; T. Korzh（基辅）64、67； A. 克鲁普勒斯（图拉）53、55、58、59、63、65、67； A. Krivenko（莫斯科地区 Chernogolovka 村）54； E. Krivorotko（契诃夫，莫斯科地区）53-55、61、62、65-67； D.奶精（布雷斯特）55, 63-67； I.库兹涅佐夫卡（克拉斯诺达尔）53；于。库兹马（普罗特瓦）53—55、57、58、60； S. Kuzmyaka（基辅）53-55、61-67； P.库普林（北德文斯克）55； U.库里亚佐夫（Shavat）53； I. Kushinrov（基辅）63； M. Lazarev（n. Nikel，摩尔曼斯克地区）64-67； D.拉尔科夫（布列斯特）64； V. Lezostaev (库斯塔奈) 64, 67; D.列昂诺夫（梅伦基）67； D.洛济诺夫（图拉）53-55、57-61、63-67； D. Lunev（莫斯科地区 Chernogolovka 村）53—55, 57； K.马佐科维奇（库兹涅佐夫斯克）64、67； V.马卡洛夫（Ki-
+
+（最后见第39页）
