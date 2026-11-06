@@ -1,0 +1,35 @@
+---
+id: 1991-1-dubrovskiy-esche-raz-o-golovolomke-tsvetnyie-fishki-na-treugolnom-pole-614834ed
+issue: kvant_1991_1
+year: 1991
+number: "1"
+title: '[Once again about the puzzle “Colored chips on a triangular field”]'
+authors:
+  - Дубровский В. Н.
+rubric: smes
+page_first: 84
+page_last: 84
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: c154bfd7a7b9cbb67a3115122044a2046bc4a50cf1cd06d13698f0c8268b55de
+prompt_sha256: draft-1
+translated_from: content/ru/1991/01/articles/01_dubrovskiy-esche-raz-o-golovolomke-tsvetnyie-fishki-na-treugolnom-pole-614834ed.md
+source_content_sha256: a36c8e836684b2c231988d3790443b98b73aeda1672ed84e080ab356b015504c
+translation_model: draft
+translation_run: en-draft-2026-11-06
+translation_quality: draft
+---
+
+⟦folio 2⟧
+
+---
+running_head:
+folio:
+---
+
+After the publication of the puzzle “Colored chips on a triangular field” (see cover «Kvant» No. 8 for last year), we received letters from V. Aksenova from Leningrad, S. Zlotnikov from Gomel, V. Severiysky from Moscow, V. Talykin from Semipalatinsk and others, with its solution. Let us recall that it was necessary to place chips of n colors at the nodes of the grid formed by dividing the triangle into smaller triangles (n nodes per side), so that the colors would not be repeated on the lines of the grid. In a replacement dedicated to this puzzle («Kvant» No. 9, 1990, p. 69), we gave its more detailed solution for the baked n and invited readers to find a solution for the baked n > 4. We found out that this is not so difficult: you just need to slightly correct the solution for the baked layer. In all the answers we received, this was done differently, and we will present a certain combined option. First, let's discard the base of the triangular field. There will be a lattice with a printed number of n - 1 nodes on the side, and on it you can place chips of n - 1 colors according to the rule we know: along the vertical (Fig. 1). Let's continue these vertical verticals to the base. The lower triangles will remain unfilled. In the left corner we put the nth color (for us - the head), in the right corner - the color that has not yet been used in the bottom line, i.e. the color of the vertex of the triangle (for us - black). In this case, the ends of the right side turn out to be the same color. Let's make some amendments: we'll rearrange the two lower chips on the right, and together with the chips of the same colors on the right side and the parallel line closest to it (marked with asterisks) we'll put chips of the nth color. Obviously, after this there will be no repeating colors left (Fig. 2).
+
+Fig. 1.
+
+Fig. 2.
