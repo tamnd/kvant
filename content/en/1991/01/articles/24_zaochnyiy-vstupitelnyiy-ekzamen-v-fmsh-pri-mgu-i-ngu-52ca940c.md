@@ -1,0 +1,85 @@
+---
+id: 1991-1-zaochnyiy-vstupitelnyiy-ekzamen-v-fmsh-pri-mgu-i-ngu-52ca940c
+issue: kvant_1991_1
+year: 1991
+number: "1"
+title: Correspondence entrance exam to the Physics and Mechanics School at Moscow State University and Novosibirsk State University
+rubric: informatsiya
+rubric_sub: Информация
+page_first: 65
+page_last: 65
+page_labels: "63"
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: a3108034804b6317838a49b4d6fb5413d16564ad8661424e89fde7aad97ec49a
+prompt_sha256: draft-1
+translated_from: content/ru/1991/01/articles/24_zaochnyiy-vstupitelnyiy-ekzamen-v-fmsh-pri-mgu-i-ngu-52ca940c.md
+source_content_sha256: 22e23a62d98f7f8e828ea5016f70bff9003c82d209b09eb8ddbcff9e88ae6c65
+translation_model: draft
+translation_run: en-draft-2026-11-06
+translation_quality: draft
+---
+
+⟦folio 63⟧
+
+---
+running_head:
+folio:
+---
+
+Correspondence entrance exam to the Physics and Mechanics School at Moscow State University and Novosibirsk State University
+
+Special educational and scientific centers of Moscow State University named after. M.V. Lomonosov and NSU named after. M.A. Lavrentyeva, created on the basis of boarding schools at these universities, conduct correspondence entrance exams in mathematics and physics for students in the 9th and 10th grades of an 11-year school who are interested in mathematics and physics. By decision of the selection committee, those who successfully passed the correspondence examination will be invited to an oral examination, which will take place in May 1991 in the centers of the USSR. The work must be completed in a notebook. On the first page provide the following information:
+
+1. Last name, first name, patronymic (in full);
+2. Home address (detailed), zip code;
+3. Detailed name of the school and class.
+
+Send your work in simple parcels. Schoolchildren living in the European part of the USSR should send their work to the address: 121357, Moscow, Kremenchugskaya st., 11, Physics and Mathematics School of Moscow State University, admissions committee, correspondence exam. Schoolchildren living in Siberia, the Far East and Central Asia send their works to the address: 630090, Novosibirsk, st. Pirogova, 6, educational and scientific center of NSU, Olympic Committee. The deadline for sending works is no later than March 15, 1991 (by postmark). Works sent after this deadline will not be considered. If you cannot solve all the problems, do not be upset - they will consider working with any number of solved problems. We wish you success!
+
+9th grade
+
+1. Prove that among the numbers 2, 8, 14, ..., 2+6n, ... (n is a natural number) there is not a single square of natural numbers.
+
+2. Solve the system of equations
+
+$$\begin{cases} x(y+z)=35, \\ y(x+z)=32, \\ z(x+y)=27. \end{cases}$$
+
+3. On the sides or on the extension of the sides of the square ABCD there are points P, Q, R, S so that AP/PB=BQ/QC=RC/DR=DS/SA=1/3. The segments AQ, BR, SC, DP bound the quadrilateral KLMN. Calculate the area of ​​the quadrilateral KLMN.
+
+4. The altitude of a right triangle is 2, the difference between the projections of the legs onto the hypotenuse is 3. Find the hypotenuse and legs of this triangle.
+
+5. Find all prime numbers p for which 20p²+1 is also prime.
+
+6. A stone is thrown down from a vertical base with a certain initial speed. The stone travels the first meter in time t₁=0.2 s, and the last meter in time t₂=0.1 s. What is the height of the tower h? Gravity acceleration g=10 m/s². Air resistance claim.
+
+7. A person whose mass is M = 72 kg runs along the length of the dock with an acceleration of a₀ = 0.5 m/s² relative to the dock. The board lies on a smooth floor. Its mass is m=18 kg. With what acceleration does the dock move relative to the floor?
+
+8. Two bodies with masses m₁=2.5 kg and m₂=3.5 kg lie on a horizontal surface, attached to the ends of arms with a stiffness coefficient k=50 N/m. The length of the rukina in an undeformed state is l₀=0.2 m. At what maximum distance x can the bodies be removed from each other so that they remain at rest, if the friction coefficient between the bodies and the surface is μ=0.2?
+
+9. Three electric locomotives run along parallel tracks, spaced at equal distances from each other. Electric locomotives running along the outer tracks move in opposite directions at speeds v₁=80 km/h and v₂=40 km/h. At what speed v should an electric locomotive moving along the middle track move so that while moving it is always on the same straight line with the other two?
+
+10th grade
+
+1. Prove that among the numbers 3, 9, 15, 21, ..., 3+6n, ..., (n is a natural number) there are infinitely many squares of natural numbers.
+
+2. Solve the system of equations
+
+$$\begin{cases} x+y+xy=19, \\ y+z+yz=11, \\ z+x+zx=14. \end{cases}$$
+
+3. Find all pairs of real numbers (x, y) satisfying the conditions.
+
+$$x^{[y]} \cdot y^{[x]} = x \cdot y$$
+
+([x] is the largest integer not exceeding x).
+
+4. On the sides or extensions of the sides of the square ABCD the points P, Q, R, S are located so that AP/PB=BQ/QC=RC/DR=DS/SA=λ/μ. Line segments AQ, BR, SC and DP bound the quadrilateral KLMN. At what λ, μ is the area of ​​the quadrilateral KLMN maximum?
+
+5. Given an unequal triangle ABC. Points M, N, K are the midpoints of sides BC, AC and AB, respectively. Find the magnitude of angle C if it is known that the center of the circle circumscribed about triangle MNK lies on the bisector of angle C.
+
+6. By what amount Δm will the mass of air in the open state decrease if it is heated from a temperature t₁=0 °C to a temperature t₂=100 °C? The initial mass of air is m₁=100 g. The change in the volume of the vessel during heating is a claim.
+
+7. 56 g of nitrogen, under a pressure of 5·10⁵ Pa in a volume of 10 liters, was first heated isochorically, and then isobarically heated to a volume of 5 liters, while doing work A = 6700 J. Determine the temperature difference between the gas in the final and initial states. Molar mass of nitrogen M=0.028 kg/mol, universal gas constant R=8.31 ​​J/(mol K).
+
+8. A bullet with a mass of m=10 g, flying horizontally, pierces the pumps of a ball with a mass of M=1 kg, suspended on a thread of length l=3 m, passes through the center, and flies out

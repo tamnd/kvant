@@ -1,0 +1,69 @@
+---
+id: 1991-1-uchastnikam-nauchno-tehnicheskoy-konferentsii-v-mfti-ca4733d4
+issue: kvant_1991_1
+year: 1991
+number: "1"
+title: Participants of the Scientific and Technical Conference at MIPT
+rubric: informatsiya
+rubric_sub: Информация
+page_first: 66
+page_last: 66
+page_labels: "64"
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 84cb4cafd45e1325ab01e5952d6f2ff7f7043e399046316741ef44906bc7a770
+prompt_sha256: draft-1
+translated_from: content/ru/1991/01/articles/25_uchastnikam-nauchno-tehnicheskoy-konferentsii-v-mfti-ca4733d4.md
+source_content_sha256: f2086531d70be7d96312babf01ed4227defa61c6ffae27beb3580d1438eac002
+translation_model: draft
+translation_run: en-draft-2026-11-06
+translation_quality: draft
+---
+
+⟦folio 64⟧
+
+---
+running_head:
+folio:
+---
+
+Participant of the Scientific and Technical Conference of Schoolchildren at MIPT
+(section “Physics”)
+
+What is the physical scientific work presented at the conference? How to choose a topic for such work?
+Where to start research or how to bring existing research to a scientific level? The experience of the previous conference showed the need for some clarification of these and similar issues. Here are some tips.
+
+The basis for choosing a suitable topic for independent study for you can be a careful look at real physical situations from the world around us. (This is how the famous Capizza problems were born - see the book: P. L. Capizza. Physical problems. - M.: Znanie, 1972.) For example, also:
+
+1. Charged water droplets play a significant role in a wide variety of physical phenomena. Try to study the amount of process evaporation (condensation) of such drops depending on their radius and charge (potential). What happens if two different drops evaporate nearby?
+
+2. As you know, Hooke’s law, which connects mechanical evaporation σ with relative ε -
+
+$$\sigma = E\varepsilon$$ where $E$ = const,
+
+true only for small $\varepsilon$. Try to “expand” this law, i.e., obtain dependent $\sigma$ (ε) up to the flow limit for substances that allow large elongations (for example, rubber).
+
+3. It is known that when neokotorbix materials rub against glass, sharp, sometimes unpleasant sounds arise. Determine the frequencies and corresponding intensities of such sounds. How can we explain the fact that for the majority of people these sounds cause indirect errors?
+
+4. One of the known methods of sorting small synthetic diamonds is the production of diamond powder by air flow. Select parameters characterizing the shape of particles and evaluate the effectiveness of this sorting method. (For example, find the fraction of particles of the wrong formula, according to your parameters, remaining in a given volume at a certain point in time.)
+
+5. Rewind the movement of the ship model on the surface of the water. Try to describe the number of occurrences of encryption in this case, the wave pattern and its change depending on the speed of the ship.
+
+6. Suggest a way to accelerate small neutral particles (specks of dust, sand) to high speeds and evaluate its occurrence. How to implement your proposal?
+
+7. Is it possible to use the heat from central heating radiators to boil water? Try to come up with the most effective way.
+
+8. How should a flat pebble be thrown into water so that it reflects as many times as possible from the surface of the water? Consider how such an experiment is conducted so that it does not simply become a throwing exercise.
+
+Of course, the topic of research can also be part of a broad problem already developed by specialists. In this case, of course, you need a supervisor who will bring you up to date and help organize your work.
+
+Research on an elective topic can be both theoretical and experimental. The former require a penchant for logical reasoning and calculations, the latter require the ability to do something with your own hands, but both methods are united by the use of physical intuition - the ability to find optimal ways to solve a problem.
+
+An indispensable attribute of scientific research is conclusions containing a clear formulation of the results obtained. Moreover, even if the results do not answer the original question, they can become a starting point for a new task.
+
+Attention! You still have time to follow our advice and take part in the VI Scientific and Technical Conference - the deadline for submitting abstracts on physics has been extended until March 1 this year. G.
+
+We wish you success!
+Recommendation committee of the section "Physics"
+NTKS
