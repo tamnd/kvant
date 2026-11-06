@@ -1,0 +1,50 @@
+---
+id: 1990-7-vnimaniyu-nashih-chitateley-9cc8b964
+issue: kvant_1990_7
+year: 1990
+number: "7"
+title: 敬请读者注意
+rubric: smes
+page_first: 46
+page_last: 46
+page_labels: "44"
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: ac8cbd8762e2ea5205d590f76d564ef1e6974d201d1c2a79436a19d43ac80ce7
+prompt_sha256: draft-1
+translated_from: content/ru/1990/07/articles/12_vnimaniyu-nashih-chitateley-9cc8b964.md
+source_content_sha256: 6586c7662ddcf4f827d5cf7978ad77cc3a17cd9d6cb608bfa237e5de3b09be15
+translation_model: draft
+translation_run: zh-draft-2026-11-06
+translation_quality: draft
+---
+
+⟦folio 44⟧
+
+---
+running_head:
+folio:
+---
+
+注意力
+我们的
+读者
+
+乌法的 1 号商店“Akademika”从出版社“Nauka”发送 COD 书籍：
+Abramov S.A.，Zima E.V. 信息开始。 （程序员的b-chka）。 - 1989。 - 1 r。
+Kaluzhkin N.A.，Sushansky V.I. 变换和排列。 （科学技术进步问题）。 — 1985 年。 — 55 k。
+控制论。任务和任务中的微型计算器。 （控制论-无限的可能性和有限的可能性）。 — 1986 年。 — 55 k。
+计算机和选择问题。 （控制论-无限的可能性）
+
+限制和限制）。 - 1989。 - 80 k。计算机和非线性现象。信息现代自然。 （控制论-无限的可能性和可能的​​限制）。 — 1988 年。 — 45 k。
+科托夫·于. V. 像画家一样。 - 1988 年。 - 60 份。 Levinshtein M.E.，Simin G.S.Barvery。 （对集成电路开放）。 （B-chka «Kvant»）。 — 1987 年。 — 75 k。
+梅莱丁 G.V.问题中的物理。考试题及解答。学习指导。埃德。 2-e，修订和补充 — 1989 年。 — 50 k。
+Popov E. P. 机器人和牙科加工系统。 （科学技术进步问题）。 — 1987 年。— 65 k。
+Prasolov V.V.、Sharygin I.F.定理上的问题。 （数学界的B-chka）。 — 1989 年。 — 75 k。
+
+编程简单又困难。 （控制论-无限的可能性和可能的​​限制）。 — 1988 年。 — 35 k。
+Silin A.A. Trenz 和我们。 （B-chka «Kvant»）。 — 1987 年。— 35 k。
+弗罗洛娃 G.V.计算机的教学能力。日常生活前景。问题。 （科学技术进步）。 — 1988 年。 — 70 k。
+实验展示。计算物理学的第一步。 （控制论-无限的可能性和可能的​​限制）。 — 1989 年。 — 80 k。
+发送订单至：450059, Ufa, st. R. Sorge，10 岁，1 号商店“Akademika”。

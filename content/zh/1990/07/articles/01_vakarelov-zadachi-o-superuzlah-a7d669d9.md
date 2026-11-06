@@ -1,0 +1,47 @@
+---
+id: 1990-7-vakarelov-zadachi-o-superuzlah-a7d669d9
+issue: kvant_1990_7
+year: 1990
+number: "7"
+title: 关于“超级节点”的问题
+authors:
+  - Вакарелов Д. И.
+rubric: smes
+page_first: 84
+page_last: 84
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 9fbb87b96dffe9561f6f9697aa50e6c91b64dabdf1aed76177d187bfcf864d4b
+prompt_sha256: draft-1
+translated_from: content/ru/1990/07/articles/01_vakarelov-zadachi-o-superuzlah-a7d669d9.md
+source_content_sha256: 382cd44f42f9da34865b8cca9531a6930d8d45b66211539473c8b1e6015d3979
+translation_model: draft
+translation_run: zh-draft-2026-11-06
+translation_quality: draft
+---
+
+⟦folio 2⟧
+
+---
+running_head:
+folio:
+---
+
+如果您对“马卡洛夫海军上将之谜的转变”（第 70 页）一文中具有挑战性的“超级邪恶”问题感兴趣，请尝试解决以下问题。
+1. 提出一个具有以下算法的谜题：
+$(6z)^2, 3x, 1z, 4x, 2x, 2y, 5x, 5z, 3z, 3y^\dagger$.
+请注意，这将是对谜题 图 5（第 74 页）的改进，将其难度增加到 10。
+2. 找到解决图 1（难度 10）和 图 2（难度 12）所示谜题的算法。
+
+3. 使用解决算法创建一个谜题
+$4z, 1z, (2, 3)x, 2z, 3x, (6z)^2, 3x, 2z, (2, 3, 6)x^\dagger$.
+
+4*。是否可以在上一个问题的算法末尾添加 6y 步，并用这个或另一个复杂度为 13 的算法创建一个谜题？该问题的解决方案尚不清楚。将您的开发成果连同模型一起发送给编辑。
+也许你能发现“马卡洛夫上将之谜”的新转变，打破现有记录。
+
+D·瓦卡列洛夫
+
+图 1.
+
+图 2.
