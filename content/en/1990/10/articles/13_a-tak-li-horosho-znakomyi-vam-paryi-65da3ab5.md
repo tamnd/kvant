@@ -1,0 +1,76 @@
+---
+id: 1990-10-a-tak-li-horosho-znakomyi-vam-paryi-65da3ab5
+issue: kvant_1990_10
+year: 1990
+number: "10"
+title: Do you know the couples that well?
+rubric: kaleydoskop-kvanta
+rubric_sub: Калейдоскоп
+page_first: 42
+page_last: 43
+page_labels: 40-41
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 96b1fabb50fb44cc79df92549e6e7a6ba27186805ecc5df8e6c888ba0c030a0c
+prompt_sha256: draft-1
+translated_from: content/ru/1990/10/articles/13_a-tak-li-horosho-znakomyi-vam-paryi-65da3ab5.md
+source_content_sha256: 0a689504b71f7b73e13f5ac2dcce49f8dc23a7126c129cfc01ede5adc6c72d0a
+translation_model: draft
+translation_run: en-draft-2026-11-06
+translation_quality: draft
+---
+
+⟦folio 40⟧
+
+Are you really familiar with this?
+
+couples?
+
+Life-giving boards and running clouds, creeping fogs and graceful snow crystals - water vapor is responsible for all this. Moisture circulation is one of the main weather-forming factors, and as we all depend on it, we are reminded every day by weather reports reporting air humidity.
+Sportsmen and glazologists, designers of steam boilers and heat engines, pilots and sailors, even laundry to dry - everyone, one way or another, needs accurate knowledge about steam, or at least the results of measurements and observations of them. So we will now make several attempts to deal with pairs as objects of physical research.
+
+Questions and tasks
+1. Why does a drop of water, hitting a hot stove, begin to jump on it?
+2. Under what conditions can an increase in absolute air humidity be accompanied by a decrease in relative humidity?
+3. At what time of day in summer is relative humidity greater at the same absolute humidity?
+4. High air temperatures in desert areas are relatively easily tolerated due to low humidity. Why is heat much more difficult to bear when humidity is high?
+5. Why is there a greater supply of water in the soil around the fields of some snowy snow in the spring than far away from them?
+
+10. The liquid is poured into communicating vessels of different diameters. The wide vessel is closed with a stopper. Will the distribution change?
+
+⟦folio 41⟧
+
+---
+running_head:
+folio:
+---
+
+changes in fluid levels in the vessel elbows?
+11. In the cylinder under the piston there is saturated water vapor without air. Will this steam "spring" when skaati?
+12. A plastic bottle was filled 9/10 of its volume with boiling water and closed with a stopper. If you shake the water in a bottle, the cap may fly out. Why?
+13. Why does the fog over the river last longer after sunrise in the fall than over the land?
+14. Precipitation begins because larger droplets in clouds grow at the expense of smaller ones. How to explain this phenomenon?
+
+Microexperience
+Water is boiling in two identical kettles placed on identical burners. The lid of one kettle often bounces, while the lid of another is motionless. Why?
+
+It's interesting that...
+...if the circulation of water in nature stopped, a layer of water about 1.1 meters thick would evaporate from the surface of the World Ocean within a year.
+...if very pure steam does not mix with liquid, then it is possible to obtain supercooled, or oversaturated, steam - steam that should have long ago become a liquid. It is this kind of steam that is used in the cloud chamber to resist contaminated particles.
+
+...in 1880, the Scottish marine engineer John Pharmacy discovered that the condensation of water vapor during the formation of fog, clouds and clouds occurs on certain microsolar particles, such as sea salt, tiny dust particles, etc. Some modern work on artificially inducing dosol is based on this discovery.
+
+...the first hair gasrometer was created in 1783 by the Shevir geologist Horace de Saussure. In the same year, Saussure published an article in which he proved that at the same temperature and pressure, moist air is better than dry air.
+
+What to read in «Kvant» about couples (publications of recent years)
+1. “Gas turns into liquid” - 1984, No. 11, p. 25;
+2. “Invitation to the steam room” - 1985, No. 8, p. 18;
+3. “Observations over the fog” - 1986, No. 12, p. 13;
+4. Kaleidoscope «Kvant» - 1987, No. 3, p. 40;
+5. “Boiling of liquid” - 1987, No. 6, p. 39;
+6. “Until the kettle boils...” - 1987, No. 8, p. 9;
+7. “Vapourization. Properties of vapors" - 1988, No. 6, p. 61;
+8. “The History of Dewdrops” - 1988, No. 7, p. 24;
+9. “Simple experiments with boiling water” - 1988, No. 8, p. 48;
+10. “Gibbs phase rule” - 1989, No. 2, p. 23.

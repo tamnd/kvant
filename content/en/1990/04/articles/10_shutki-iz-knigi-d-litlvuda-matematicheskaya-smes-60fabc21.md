@@ -1,0 +1,58 @@
+---
+id: 1990-4-shutki-iz-knigi-d-litlvuda-matematicheskaya-smes-60fabc21
+issue: kvant_1990_4
+year: 1990
+number: "4"
+title: '[Jokes from D. Littlewood''s book "A Mathematical Mixture"]'
+rubric: kvant-ulybaetsya
+rubric_sub: «Квант» улыбается
+page_first: 44
+page_last: 44
+page_labels: "42"
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: b1cd1104f910ebfe3ffbe961276f4c4aa7e13860e5ec4a0a8a6c3f3dbe3ff040
+prompt_sha256: draft-1
+translated_from: content/ru/1990/04/articles/10_shutki-iz-knigi-d-litlvuda-matematicheskaya-smes-60fabc21.md
+source_content_sha256: 3c0a839239d15c8c4f89fb8b2f68f48dc199afb65c0adc71a4e523f8819e249f
+translation_model: draft
+translation_run: en-draft-2026-11-06
+translation_quality: draft
+---
+
+⟦folio 42⟧
+
+---
+running_head:
+folio:
+---
+
+English mathematician John Leathwood (1885-1977)
+lived a long life filled with intense mathematical creativity. He always appreciated the peculiar mathematical number. In this April issue «Kvant» we publish several jokes borrowed from his book “Mathematical Mixture”. They say that there is some truth in every joke. Leathwood's math number is more suited to a reworked adage: "there's a joke in every joke."
+
+About mathematical conditions
+In one mechanics book, Leathwood read: “The Ox and Oy axes are as in two dimensions, the Oz axis is vertical.” This was completely wrong for him, since he, Leathwood, always worked with his feet back in his chair and his feet up.
+
+“How would a reader draw a closed curve (such as a circle) lying entirely on one side of one of its tangents? There are 4 schoolsOLS; I belong to the one for which the curve lies to the right of the vertical tangent; I once had to describe this configuration without a drawing, but what I said turned out to be incomprehensible to representatives of the other 3 OLS schools.”
+Leathwood collaborated for many years with the Great English mathematician G. Hardy. One day, Leathwood challenged him to find a typo on one page of their collaboration. Hardy couldn't find her. The operata was in his own name: “G. H. Hardy."
+
+One of Leathwood's articles ended with the phrase: “Thus, σ should be made as many malim as possible.” This phrase was not in the printed text of the article, but there was a barely noticeable dot. The typesetters took the phrase literally and printed what is believed to be the smallest letter σ in the history of book printing.
+Classification of angles from a mountaineering book published around 1900:
+“perpendicular - 60°;
+My dear sir, absolutely perpendicular - 65°;
+overhanging - 70°.”
+
+“It was said about Jordan’s books that if he needed to introduce four analogous or related quantities (such as, for example, a, b, c, d), then he gave them the designations a, M₃, ε₂, Π''₁,₂.”
+
+Paradoxical game
+There are an infinite number of cards with a natural number written on both sides. The numbers 1 and 2 are written on the first card, 2 and 3 on the second, 3 and 4 on the third, and so on. The game is as follows: take an arbitrary card and hold it between two games so that one sees one side and the other sees the other. Each player has the right to pass, that is, to refuse the game. If both want to play, then the one who sees the larger number wins.
+
+In this country's game, one of the players must pass each time. Here is the mathematical proof of this statement. If player A sees a 1, then there is a 2 on the back of the card; therefore A must pass. If A sees 2, then there is either 1 or 3 on the back side. If there is 1, then B must pass (see above), but if B does not pass, then he sees 3 and A must pass. Further reasoning is carried out by induction.
+
+Proof, as it were, make sure. Or maybe not? Think about it...
+
+Infinity Paradox
+Balls numbered 1, 2, 3,... are placed in the box as follows. One minute before receiving, balls with numbers from 1 to 10 are put in, and the ball with number 1 is taken back. Half a minute before receiving, numbers from 11 to 20 are put in, and number 2 is taken back. A third of a minute before receiving the box, numbers from 21 to 30 are placed, and the ball with number 3 is taken back. And so on. How many balls are left in the box at noon?
+
+The answer may disappoint you: not a single one. Whatever number we assign (for example, 106), it is not in the box (as it is taken out in the 106th operation).
