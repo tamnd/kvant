@@ -1,0 +1,56 @@
+---
+id: 1990-8-panov-kombinatsiya-iz-dvuh-paltsev-b85fe58e
+issue: kvant_1990_8
+year: 1990
+number: "8"
+title: Sự kết hợp của hai ngón tay
+authors:
+  - Панов А.
+rubric: kvant-ulybaetsya
+rubric_sub: «Квант» улыбается
+page_first: 67
+page_last: 67
+page_labels: "65"
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: ed41ea44234632c63c2aa6272fd3b4bb62fa2b97f8781e84ca76be09ef99903c
+prompt_sha256: draft-1
+translated_from: content/ru/1990/08/articles/09_panov-kombinatsiya-iz-dvuh-paltsev-b85fe58e.md
+source_content_sha256: cef52cdac48d676bd19de94b2d2d566e2409808d4afadab20de19de48820ae38
+translation_model: draft
+translation_run: vi-draft-gaps-2026-11-05
+translation_quality: draft
+---
+
+⟦folio 65⟧
+
+---
+running_head:
+folio:
+---
+
+Sự kết hợp của hai ngón tay
+Trên trang thứ hai của trang bìa số cobley (Kvant, 1990, số 1), nhân kỷ niệm 20 năm thành lập tạp chí, tái hiện bức tranh “Au prime mot limbide” của Max Ernst. Thật không may, dòng văn bản ngắn kèm theo được đặt ở đó lại đánh lạc hướng người đọc. Ở đây tôi muốn đưa ra một cách giải thích khác về bức tranh và chỉ ra rằng động cơ chính của nó là nghịch lý Banach-Tarski. Trước khi chuyển sang phần lý do của bài kiểm tra này, hãy nói vài lời về bản thân nghịch lý này.
+
+Năm 1924, các nhà toán học Ba Lan Stefan Banach và Alfred Tarski đã chứng minh được phát biểu sau:
+
+bất kỳ quả bóng nào cũng có thể được chia thành một số phần hữu hạn, từ đó, không có sự chồng chéo và khoảng trống, có thể tạo ra hai quả bóng có cùng bán kính.
+
+Đây là nghịch lý cuối cùng và đáng kinh ngạc. Tuyên bố này là một nghịch lý ở cấp độ toán học, vật lý và thuần túy hàng ngày.
+
+Tuy nhiên, tôi nhắc lại một lần nữa - đây là một định lý đã được chứng minh chặt chẽ. Đến nay, số phần mà quả bóng bị gãy đã giảm xuống còn phần gót chân. Một quả bóng được làm từ hai phần và một quả bóng nữa từ ba phần còn lại - cả hai đều bằng quả bóng ban đầu. Bản thân bằng chứng cũng trở nên dễ tiếp cận hơn. Tôi nghĩ một học sinh trung học khá thực tế cũng có thể hiểu được. Tất nhiên, bạn hiểu rằng những phần mà quả bóng vỡ trong nghịch lý Banach-Tarski được sắp xếp và trộn lẫn với nhau một cách phức tạp khủng khiếp. Chúng đề cập đến những thứ có được từ con số không (In the World of Science, 1989, No. 6).
+
+Và bây giờ, bác bỏ những gì vừa nói, chúng ta sẽ trình bày về cách nhân đôi thực tế của một quả bóng thật. Sẽ tốt hơn nếu đó là một quả bóng đặc có đường kính một hoặc hai cm. Một quả bóng lăn từ nhựa cũng sẽ có tác dụng. Chúng ta hãy quay lại bức tranh của Max Ernst, cụ thể là mảnh vỡ của nó.
+
+Đặt quả bóng trên một bề mặt nằm ngang. Tốt nhất nên có một cái cho phép quả bóng danh mục trượt qua nó nhưng không trượt. Bắt chéo ngón trỏ và ngón giữa của bạn với nhau, như trong hình, và đặt các ngón tay bắt chéo bằng mu bàn chân của bạn lên quả bóng. Nhắm mắt lại và lăn bóng nhẹ -
+
+Bạn sẽ nhầm rằng quả bóng đã tăng gấp đôi.
+
+Thật không may, khi bạn mở mắt và rút ngón tay ra -
+
+hai quả bóng biến thành một.
+
+Chưa hết, không thể phủ nhận tinh thần của nghịch lý Banach-Tarski vẫn hiện diện ở đây. Tất nhiên, phân tích của chúng tôi không xem hết toàn bộ nội dung bức tranh của Max Ernst, nhưng tôi nghĩ rằng cái chính đã nắm bắt được. Nhân tiện, bức tranh có từ năm 1923, nghịch lý Banach-Tarski được xuất bản vào năm 1924 - một sự trùng hợp đáng kể!
+
+A. Panov

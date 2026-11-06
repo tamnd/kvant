@@ -1,0 +1,52 @@
+---
+id: 1990-12-krasin-krossvord-b976d771
+issue: kvant_1990_12
+year: 1990
+number: "12"
+title: trò chơi ô chữ
+authors:
+  - Красин М. С.
+rubric: igry-i-golovolomki
+rubric_sub: Игры и головоломки
+page_first: 67
+page_last: 67
+page_labels: "65"
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 489f1786215599048653c0f93499cc51d80271882eb947825fde36919806e844
+prompt_sha256: draft-1
+translated_from: content/ru/1990/12/articles/23_krasin-krossvord-b976d771.md
+source_content_sha256: 4301200a12fddeb84521295819611d223903f549759c36e4f92482f2e07869da
+translation_model: draft
+translation_run: vi-draft-gaps-2026-11-06
+translation_quality: draft
+---
+
+⟦folio 65⟧
+
+---
+running_head:
+folio:
+---
+
+Nằm ngang:
+2. Nhà vật lý Liên Xô, người cùng với L. I. Mandelstam, đã thực hiện một thí nghiệm để chứng minh tính dẫn điện của kim loại. 6. Thiết bị bán dẫn có tiếp giáp p. 7. Nhà vật lý người Nga đã thực nghiệm xác lập định luật tác dụng nhiệt của dòng điện. 11. Nguyên tử ứng dụng trong chất bán dẫn. 12. Nhà vật lý và kỹ sư điện người Nga, người sáng tạo ra phương pháp mạ điện. 15. Điện cực âm. 16. Các tầng trên của khí quyển có hàm lượng electron đáng kể. 17. Dấu hiệu điện tích của hạt nhân nguyên tử. 19. Một bộ mạch điện. 20. Nguồn DC gia đình. 21. Thiết bị điều chỉnh cường độ dòng điện. 22. Vùng trung tâm của một bóng bán dẫn lưỡng cực. 25. Phần nhỏ nhất của nguyên tố hóa học. 27. Sự hình thành electron từ các phân tử trung hòa. 28. Hướng chuyển động của hạt mang điện dưới tác dụng của từ trường bên ngoài. 30. Dây dẫn hình cầu lớn nhất dành cho thợ điện. 31. Nhà vật lý người Pháp, người sáng lập nhà máy điện. 34. Dấu vết của hạt tích điện. 35. “Thiết bị” giúp xác định hướng của lực Lorentz. 36. Thiết bị đo điện.
+
+Thẳng đứng:
+1. Thiết bị chùm tia điện tử. 3. Điện cực dương. 4. Bức xạ cần thiết để điện trở quang hoạt động. 5. Tấm mỏng hợp kim chì và thiếc dùng để chế tạo tụ điện. 6. Nhà hóa học, vật lý người Anh; thiết lập sự phụ thuộc của điện trở dây dẫn vào chiều dài và tiết diện của nó. 8. Kim loại được sử dụng trong nguyên tố Volga. 9. Chất mang tương tác điện từ giữa các hạt tích điện. 10. Nhà vật lý Liên Xô, một trong những nhà nghiên cứu đầu tiên về tính chất của chất bán dẫn. 13. Odan từ việc có một bóng bán dẫn. 14. Chất có điện tích tự do. 18. Bề mặt đẳng thế của điện tích điểm. 19. Điện cực điều khiển trong ống chân không. 22. Thiết bị đơn giản nhất giúp xác định hướng của vectơ cảm ứng từ. 23. Dấu tích điện cực. 24. Mối quan hệ ổn định giữa các hiện tượng vật chất. 26. Nhà vật lý người Mỹ; đo điện tích của điện cực với độ chính xác cao. 29. Sự kiện có thật. 30. Phạm vi giá trị năng lượng mà các electron có thể sở hữu trong chất rắn. 32. Thời điểm trong năm thuận lợi cho công việc của các thủy thủ. 33. Một điện trở mắc song song với ampe để thay đổi giá trị chia tỷ lệ.
+
+M. Krasin
+
+Để thu hút sự chú ý của độc giả của chúng tôi
+
+Mazazin "Học giả" của Kyiv, lĩnh vực sách cao nhất của nhà xuất bản "Khoa học":
+Balk M. B., Boltyansky V. G. Hình học khối lượng. (Thư viện «Kvant»). — 1987. — 30k.
+Butnikov E.I., Bykov A.A., Kondratyev A.S. Vật lý trong các ví dụ và vấn đề. Hướng dẫn học tập. Ed. Lần thứ 3, được làm lại và bổ sung — 1989. — 1 r.
+Gashkov S. B., Oleksnik S. N., Sergeev I. N. Ứng dụng toán học. — 1989. — 55k.
+Gursky I. P. Vật lý cơ bản với các ví dụ lời giải bài toán. Hướng dẫn học tập. — 1989. — 1 r. 10k.
+
+Feynman R. Bản chất của các định luật vật lý. mỗi. từ tiếng Anh Ed. Thứ 2, sửa đổi, (Thư viện «Kvant»). — 1987. — 25k.
+Chernin A.D. Vật lý thời đại. (Thư viện «Kvant»). — 1987. — 40k.
+
+Gửi đơn đặt hàng đến địa chỉ: 252208, Kyiv, Pravdy Ave., 80-a, cửa hàng “Book by mail” “Akademika”.

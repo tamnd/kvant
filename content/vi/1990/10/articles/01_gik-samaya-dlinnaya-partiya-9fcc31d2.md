@@ -1,0 +1,75 @@
+---
+id: 1990-10-gik-samaya-dlinnaya-partiya-9fcc31d2
+issue: kvant_1990_10
+year: 1990
+number: "10"
+title: Trò chơi dài nhất
+authors:
+  - Гик Е. Я.
+rubric: shahmatnaya-stranichka
+rubric_sub: Шахматы
+page_first: 83
+page_last: 83
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 6aed2b3554ad297b70b721b3ba4f288b33acd1f52720f669ec8eb9f693ed335d
+prompt_sha256: draft-1
+translated_from: content/ru/1990/10/articles/01_gik-samaya-dlinnaya-partiya-9fcc31d2.md
+source_content_sha256: 054917d4deb7e592acbf9792bc0b6067c799901023f77bcad7e239586b94655c
+translation_model: draft
+translation_run: vi-draft-gaps-2026-11-05
+translation_quality: draft
+---
+
+⟦folio 3⟧
+
+---
+running_head:
+folio:
+---
+
+DÀI NHẤT
+BUỔI TIỆC
+
+Đôi khi, trong thực tế, có những trò chơi có hơn 100 nước đi, và đôi khi lên tới gần 200. Một câu hỏi thú vị thuần túy mang tính lý thuyết là: ván cờ có thể chơi trên bàn cờ kéo dài bao nhiêu?
+
+Cho đến gần đây, kỷ lục là 5898 nước đi và quy tắc 50 nước đi đã được sử dụng để tạo ra một trò chơi tuyệt vời như vậy (xem «Kvant», 1978, số 12). Trắng và Đen có thể chơi theo ý muốn, nhưng cứ sau 50 nước đi, một bên phải bắt quân địch hoặc tiến quân tốt của mình. Và cứ như vậy cho đến khi hết tài nguyên.
+
+Những bổ sung được thực hiện cho mã cờ vua mới nhất (xem «Kvant», 1990, Số 7) trong một số trường hợp cho phép mở rộng khả năng “điều động” các quân cờ lên 75 nước đi. I. Vereshchagin đã sử dụng hoàn cảnh này của Moscow để lập kỷ lục độc nhất vô nhị. Số nước đi trong ván cờ dài nhất mà anh xây dựng được là 6074.
+
+Người đọc không cần phải lo lắng: chúng tôi sẽ không trình bày toàn bộ trò chơi để làm bằng chứng. Chỉ cần chỉ ra những thời điểm quan trọng khi một trong các bên phải thực hiện một số hành động để tránh hòa là đủ.
+
+Và đây là cách trò chơi diễn ra.
+
+Trong 49 nước đi rưỡi đầu tiên, “đối thủ” điều động hiệp sĩ của họ, chỉ sau đó mới đi theo 50...g6. Trong trường hợp này, các bên phải luôn chơi sao cho tránh lặp lại vị trí này ba lần (có đủ khoảng trống trên bàn cờ cho việc này).
+
+100...g5 150...f6 200...f5 250...f5:Kg4. Khi di chuyển quân tốt, bạn sẽ phải lấy 8 quân, điều này không thể tránh khỏi - nếu không quân trắng và quân tốt đen sẽ không thể di chuyển xa nhau. Tốt không thể bị bắt, chúng phải đạt đến cấp bậc cao nhất.
+
+300...e6 350...e5 400...d6 450...d5 500...e4 550...d4 600...c6 650...c5 700...c5:Kb4 750...b6 800...b5 850. c3. Trong một số trường hợp, thua nửa nước đi (lần đầu tiên kể từ nước đi của Trắng), những tổn thất như vậy là không thể tránh khỏi nhưng số lượng của chúng được giảm thiểu.
+
+900. c4 950. c5 1000. c6 1050. c7.
+
+Trước nước đi tiếp theo của Trắng, anh ta còn lại năm quân, hãy biểu thị chúng là F1—F5 (vua và tốt không tính). Tốt có thể được thăng lên bất kỳ quân nào, nhưng đồng thời Trắng luôn đặt một quân mới và bảy quân tùy ý vào bến; để định nghĩa, chúng tôi biểu thị chúng F6—F12.
+
+1100. c8Ф6 1150. a3 1200. a4 1250. a5 1300. a6 1350. a6:Cb7 1400. b8Ф7 1450. b2:Kc3 1500. c4 1550. c5 1600. c6 1650. c7 1700. c8Ф8 1750. d2:Kc3 1800. c4 1850. c5 1900. c6 1950. c7 2000. c8Ф9 2050. e3 2100. e3:Cf4 2150. f5 2200. f6 2250. f7 2300. f8Ф10 2350. f3 2400. f4 2450. f5 2500. f6 2550. f7 2600. f8Ф11 2650. g2:Jlf3 2700. f4 2750. f5 2800. f6 2850. f7 2900. f8Ф12.
+
+2950. :JI. Khi bắt quân, nó sẽ được chỉ định mỗi lần quân hoặc quân tốt nào bị bắt, nhưng nếu vị trí bắt quân không quan trọng thì trường tương ứng sẽ không được cung cấp.
+
+3000. :F. Một trong những quân tốt trắng không thể di chuyển cho đến khi lấy hết quân trắng và quân đen còn lại hai quân mã và sáu quân bất kỳ, chúng tôi biểu thị như sau: F1—F6.
+
+3149...g1Q1 3199...b3 3249...b2 3299...b1Q2 3349...h7:Q1g6 3399...d3 3449...d2 3499...d1Q3 3549...e3 3599...e2 3649...e1Q4 3699...b4 3749...b3 3799...b2 3849...b1Ф5 3899...a6 3949...a5 3999...a4 4049...a3 4099...a2 4149...a1Ф6 4199...g4 4249...g3 4299...g2 4349...g1K1
+
+4399...g5 4449...g4 4499...g3 4549...g2 4599...g1K2.
+
+4649...:F2 4699...:F3 4749...:F4 4799...:F5 4849...:F6 4899...:F7 4949...:F8 4999...:F9 5049...:F10 5099...:F11 5149...:F12 5199. Kp:F1 5249. Kp:F2 5299. Kp:F3 5349. Kp:F4 5399. Kp:F5 5449. Kp:F6.
+
+Sau nước đi này của Trắng, quân tốt trắng h2 và hai hiệp sĩ đen vẫn ở trên bàn cờ, vì vậy quy tắc 6) của chỉ số 10.9 của luật cờ vua có hiệu lực - giờ đây, mỗi bước tiến của quân tốt “h” đẩy kết thúc trò chơi không phải thêm 50 mà là 75 nước đi!
+
+5524. h3 5599. h4 5674. h5 5749. h6 5824. h7 5899. h8Ф! Và bây giờ kết thúc xảy ra với một quân hậu đấu với hai hiệp sĩ, và nhờ quy tắc d) chỉ số 10.9, các quân cờ di chuyển vô tư trong 75 nước đi khác.
+
+5974. :K1 6024. :K2 6074. F×. Với nước đi cuối cùng, quân hậu trắng tuyên bố chiếu tướng, màn trình diễn kết thúc và trò chơi tuyên bố được ghi vào Sách kỷ lục Guinness!
+
+Có thể đánh bại kỷ lục này? Mọi thứ phụ thuộc vào những thay đổi phát sinh trong Điều 10.9 của Bộ luật Cờ vua, tức là trong trường hợp cuối cùng, thành tích của máy tính có được tính đến khi phân tích kết quả hay không!
+
+E. Geek

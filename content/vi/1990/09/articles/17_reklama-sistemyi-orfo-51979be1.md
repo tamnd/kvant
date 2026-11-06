@@ -1,0 +1,52 @@
+---
+id: 1990-9-reklama-sistemyi-orfo-51979be1
+issue: kvant_1990_9
+year: 1990
+number: "9"
+title: '[Quảng cáo hệ thống ORFO]'
+rubric: smes
+page_first: 51
+page_last: 51
+page_labels: "49"
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 693de97005fe3d12a6cff68999d9fcb6a706862102f1c6ecd7ac0df784366558
+prompt_sha256: draft-1
+translated_from: content/ru/1990/09/articles/17_reklama-sistemyi-orfo-51979be1.md
+source_content_sha256: 0250b4995f809a136d5f7d1d87132973212f2900713686a0087e6e3de69bbf6f
+translation_model: draft
+translation_run: vi-draft-gaps-2026-11-05
+translation_quality: draft
+---
+
+⟦folio 49⟧
+
+---
+running_head:
+folio:
+---
+
+hệ thống cho các máy tính như IBM PC/XT/AT
+
+nghĩa
+thực hiện tự động
+kiểm tra ngữ pháp và sửa lỗi các từ tiếng Nga
+văn bản
+
+sẽ giúp bạn hiệu đính tiếng Nga
+
+sẽ loại bỏ văn bản của bạn về các nhà khai thác và
+lỗi chính tả, lỗi ghép từ, v.v.
+
+được trang bị từ điển tiếng Nga
+(120.000 từ) và có thể mở rộng vốn từ vựng của mình
+
+tương thích với bất kỳ văn bản nào
+daktor
+
+dễ sử dụng
+
+Liên hệ: 103104, Mátxcơva,
+St. Ostuzheva, 7, tòa nhà 2, MRNTO "Informatik". Của chúng tôi
+điện thoại: 299-99-04, 290-35-24
