@@ -1,0 +1,38 @@
+---
+id: 1990-10-spisok-chitateley-prislavshih-pravilnyie-resheniya-0651d38b
+issue: kvant_1990_10
+year: 1990
+number: "10"
+title: 发送正确答案的读者名单
+rubric: zadachnik-kvanta
+rubric_sub: Задачник «Кванта»
+page_first: 33
+page_last: 33
+page_labels: "31"
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 337f833506de32389a0d4bbb7dad5f36ba2dc18291839bb7e587446ee1517f12
+prompt_sha256: draft-1
+translated_from: content/ru/1990/10/articles/07_spisok-chitateley-prislavshih-pravilnyie-resheniya-0651d38b.md
+source_content_sha256: 52440055c4088def749a1fe47d2ef7c0dd196f5bda1d82c149c12fae91e208ef
+translation_model: draft
+translation_run: zh-draft-2026-11-06
+translation_quality: draft
+---
+
+⟦folio 31⟧
+
+---
+running_head:
+folio:
+---
+
+发送正确答案的读者名单
+大多数提交问题 M1201—M1215、F1208—F1222 解决方案的读者都解决了问题 M1202、M1206、M1208、F1208—F1212、F1214、F1215。下面我们公布写出剩余问题正确答案的人的名字（名字后面的数字是已解决问题编号的最后一位数字）。
+
+数学
+E.阿德耶夫（顿涅茨克）01； P. Andreeva（P. Chernogolovka，莫斯科地区）07, 13； D. Andreenko（基辅）04、07、11、13、15； A. 艾哈迈多夫（巴库）05、07、15； P.Baidakov（莫斯科）01；于。 Belous（Nzhinsky Tagil）07、12、14； E.贝尔科维奇（基辅）11； E.贝索诺夫（哈尔科夫）07、11； A.鲍勃科夫（巴拉科夫）11； A. 博达诺夫 (Stary Oskol) 01, 03, 07, 09, 10； D. Boldyrev（切尔克斯克）01； A.鲍罗丁（顿涅茨克）01、03、07、11-13、15； V.布里洛克（顿涅茨克）01、07、11； K.布罗茨基（车里雅宾斯克）04、05； V.布尔（Podgaitsy）07；于。伯德 (彼尔姆) 01, 07; O.瓦洛舒克（Gayvoron）03； V.瓦纳克（杰多夫斯克）07、11； L. Vasilyeva（弗拉察，NRV）07； N.瓦西里耶娃（莫斯科）01； S.瓦西里耶维奇（基辅）01、07； R.维利耶夫（巴库）07； V. Vidrashko（库尚齐）07； V. Vitashili（第比利斯）07； M.沃洛希纳（莫斯科）01； K.沃尔琴科（顿涅茨克）01、03、04、11—13、15； I. Vykhristenko（P. Chernogolovka，莫斯科地区）01, 11； O. Gaidai (利沃夫) 07, 13; M.格尔班德（Odeska）07、12、14； S. Getun（基辅）03—05、07、11、12、14、15； S. Gnedkov（ptt 帕拉特卡马加丹地区）07； S.戈尔布奇克（哈尔科夫）11； M. Gumbatov (Mingachevir) 07； A. Davydov（高尔基州Elfimovo村）07； A.达尼连科（伏尔加格勒）15； S. Dorchienko（别列戈沃，外喀尔巴阡地区）04；五、杜布罗弗（基辅）01、07； I. 埃洛罗娃（列宁格勒）03、07、11、15； R.埃尔切夫（巴库）07； D.扎尔科夫斯基（顿涅茨克）11、12； S.扎尔科夫（基辅）04； A. Zhellov（莫斯科）07, 15； O. Zherebtsov（乌辛斯克）07； A. Zadiorny（基辅）07； E. 萨莫里纳 (彼尔姆) 01, 05; E.萨莫里纳（彼尔姆）07； A. Zimin (伊万诺沃) 07; A.齐纳（莫斯科）01、04； N.Ichchenko（基辅）01、03； I. Izmestsev（ptt Suna，基洛夫地区）03、04； R. 伊斯梅洛夫（列宁格勒）04、12、15； T.卡利塔（基辅）11、13； G.卡明斯基（基辅）01； S.卡拉奇克（塔什干）07； I. Katsman（基辅）11； I. 基里洛夫 (乌斯季卡缅诺戈尔斯克) 01, 07; S.科瓦岑科（文尼察）03、05、07、11-15； O. Kovylin（伏尔加格勒）01； A.科扎奇科（文尼察）03、05、07、11-15； A. Kopylov（星期五，Chernogolovka，莫斯科地区）01； A.科尔尼延科（第聂伯罗彼得罗夫斯克）03、07、11、15；于。克拉瓦钦（基辅）07； A. Krivoluchkin (新西伯利亚) 12, 13; A. Kudryavtseva（基辅）07； P.库普奇克（Kozova）07； A.列别捷夫（克拉斯诺达尔）07； M. Leichiks（基辅）01、07； M.李（奥德卡）11；于。利特维诺娃（基辅）07； M.Loenko（巴甫洛达尔）04； A.利沃夫（莫斯科）03、05、07； M. Mailybaev（星期五，Chernogolovka，莫斯科地区）07； A.梅德韦杰夫（弗拉基米尔）01、03、04； V. 梅德尼克 (第聂伯罗彼得罗夫斯克) 01, 07; K. Milshtein（基辅）07、11、13-15； K.米沙切夫（利佩茨克）01、03、05、07、11-15； I. Mladenova（索非亚，NRV）07； A. Mukhametsini (Mamadysh) 04, 11； R. Muchink（文尼察）03、05、07、11、13、14； I. Naydenov（索非亚，NRV）07； A.纳西罗夫（奥布宁斯克）01、03、05、07、11-13； V.涅克拉舍维奇 (p. 11) Krutiye Gory 基辅地区）07； I. Nemirovskaya（基辅）11-13； D.诺米罗斯基（切尔卡瑟）01、03、04、12、13、15； M. Orujeev（马哈奇卡拉）07； A.奥西波夫（斯维尔德洛夫斯克）07； S.帕夫利科夫（叶夫帕托里亚）07； T.巴甫洛夫（基辅）01、03—05、07、11、12、14、15； V. Paskhaver（基辅）01, 03—05, 07； E.佩雷尔曼（列宁格勒）05、07、12、14； T. Petrenko（基辅）01； V.皮科斯基（基辅）07、11、13； E.Pikalyte（维尔诺斯）01； M. Plotnikov（伏尔加达）04、07、11、15； A. Pozrebnik (基辅) 01, 11-13;于。波隆斯基（维捷布斯克）01； O. Polunina（鄂木斯克）01； A. 拉辛 (Odeska) 01, 03, 07, 11-15； M. Revaev（文尼察）01、07、10、11、15； A.鲁登科（基辅）01, 03—05, 07； D. Rusaitte（维尔诺斯）01； V. 里奇科夫 (古比雪夫) 11, 15; L.Ryabova（克林）07； A.萨夫罗诺夫（托木斯克）07； V. Sevrinovsky（莫斯科）14； G. Sirotkin（哈尔科夫）07、11、13、14； A. Skorokhod（基辅）03、07； A.索洛多夫（沃罗涅日）01、07、12、14； A.索洛杜什金（托木斯克）07； I.斯普拉兰斯基（顿涅茨克）11-13、15； R.Sulzhik（基辅）07； T.塔兰（伏龙芝）07； S. Treubenko（克拉斯诺戈尔斯克，莫斯科地区）01, 07； K. Feldman（P. Chernogolovka，莫斯科地区）01、07、11、12； M. Khasin（顿涅茨克）01、03-05、07、11-13、15；于。霍罗希洛夫（车里雅宾斯克）01； V. Shevets（Ptt Novodestrovsk，切尔诺夫策地区）01； A.Shlob (Gus-Khrustalny) 01, 07; A.席勒（Fedosiya）01、04； Y. Shikhov（ptt Suna，基洛夫地区）07； A. Shnaidman（基辅）01、11、13； D. Shukin（萨拉托夫）01、07、09、15； O.Yatsun（基辅）07。
+
+物理
+A. Abdiramov（奥什地区蒙贝科沃村）20； A.阿布德里莫夫（Shavat）13； V. Azhaev（莫斯科）13、16； T. Ali-zade (巴库) 16, 17; D. Andrienko（基辅）13、21、22； O.安德鲁霍夫（罗夫诺）16； S. Ataasyan（列宁格勒）18； Y.巴布金（基辅）13； N. 巴洛纳斯 (维尔诺斯) 13, 21, 22; M. Barashkov（莫吉廖夫州奥西诺夫卡村）13、20； V.巴里辛科夫（诺夫哥罗德）17； R. Volchkin (莫斯科) 18, 21； A.博达诺（Strayny Oskol）16； V. Bolkhovatin (卡拉干达) 20; V. Bondarenko (库兹涅佐夫斯克) 16, 21; A. Borkovsky (pt. Bogorodantsy, 伊万诺-弗兰科夫斯克地区) 18, 20, 21; V. Vanchuriin（莫斯科）16； L.瓦西里耶夫（Slavavat）16、18、21； G. 维塔斯 (维尔诺斯) 13, 22; I. Voskoboynikov（基辅）13、16-18、21、22； G. Vyzon（莫斯科）13、16； K. Galchisky（北德文斯克）13、16-18、20-22； M.加塔卢因（秋明）16； A.格沃兹登科（Nizhyn）16； A.格莱兹德尔（奥金佐夫）21； S.戈洛夫科（戈尔洛夫卡）17； P. Grebnev (库兹涅佐夫斯克) 16, 21; N.古利亚耶夫（高尔基）13、16-19、21；于。胆量（里夫诺）16； A. Davletov（阿拉木图）13、17、20； A.德夫（图拉）21； A.杰门捷夫（切博克萨雷）13、16、18、20、21； A. Demyanenko (戈尔洛夫卡) 21; I.杰尼索夫（莫吉廖夫州奥西诺夫卡村）13、20、21； S. Josok（文尼察）13、16、17； S.迪布罗娃（基辅）13、16-18、21、22； R.季米特洛夫（瓦尔纳，NRV）13, 17； S.多布罗沃尔斯基（第聂伯罗彼得罗夫斯克）13、16、21； A. 杜博维克 (布列斯特) 13, 21; M. Dyak（弗拉基米尔）16-18、21、22； M.叶戈罗夫（Strayny Oskol）

@@ -1,0 +1,83 @@
+---
+id: 1990-11-obyavlenie-firmyi-borland-d01d6208
+issue: kvant_1990_11
+year: 1990
+number: "11"
+title: '[博兰公告]'
+rubric: smes
+page_first: 33
+page_last: 33
+page_labels: "31"
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: b3f6a77e193e145970746ba68f6f3a1ad2cf4e00acc1089e6f384a81a108c67b
+prompt_sha256: draft-1
+translated_from: content/ru/1990/11/articles/10_obyavlenie-firmyi-borland-d01d6208.md
+source_content_sha256: e69e8415d259647fa78d47515e9c4f74e26cd0f5262dd81a09e12d76ca5031dc
+translation_model: draft
+translation_run: zh-draft-2026-11-06
+translation_quality: draft
+---
+
+⟦folio 31⟧
+
+---
+running_head:
+folio:
+---
+
+BORLAND将帮助您走近现代信息的最前沿，并为任何惊喜做好充分准备！
+
+当今世界，软件生产已成为一个营业额巨大的独立产业。软件行业雇用了数十万高素质的专家。然而，软件开发领域最著名的公司之一是Borland International Inc.（以下简称Borland）。它由年轻而才华横溢的科学家兼企业家菲利普·卡恩 (Philip Kahn) 于 1983 年在美国创立。当时该公司推出的唯一软件产品是 Pascal 编程语言的编译器，其商业名称为 Turbo Pascal。
+
+最流行的编程语言之一的第一个专有版本基于区分任何高度文化产品的简单原则：效率、可靠性、易用性。另外，对于Borland的竞争对手来说，消息是产品的价格极低，不超过美国普通程序员的平均工资。
+
+“Turbo”是将程序员最重要的工具和工具集成在一个产品中，以相同的高水平、单一的风格执行，而且具有精美的编写、简单明了的文档，这使得 Turbo Pascal 成为与 IBM PC 共享的 PC 上最常用的编程语言。短时间内，超过百万的用户开始拥有Turbo Pascal软件包，而且很多时候这个专业的软件工具是用个人资金购买的，许多公司开始在他们的软件产品中匆忙地复制Borland首先提出的组织用户和程序员工作场所的原则。
+
+不断地在科学研究和开发上投入大量资金，1984-1988年Borland开发团队极大地扩展了耗材和产品的范围。
+
+如今，Borland 已成为世界知名的全系列程序供应商，这些程序以概念创新和高科技卓越而著称。公司的活动可分为两个领域：
+
+— 为程序员生产工具（“生产工具”）：编译器、调试程序的工具、为开发人员提供的其他工具；
+
+— 为最终用户生产软件：电子表格、数据库管理系统、办公自动化工具、文本处理器。
+
+当今最受欢迎的 Borland 产品包括：
+
+对于软件
+
+— Turbo Assembler/Debugger;
+— Turbo C/Professional（2.0 和 C++）；
+— Turbo Pascal/Professional (5.5);
+— Turbo Pascal Toolboxes;
+— Paradox 引擎等等；
+
+对于非程序员用户
+
+— 用于维护电子表格和图形数据显示 Quattro 1.0/Quattro Pro 的系统；
+
+— 数据库管理系统 Paradox 3.5、Paradox 386 (v. 2.0)、Paradox OS/2 (v. 2.0)；
+
+— 人员管理工作站自动化工具 Sidekick Plus；
+
+— Sprint 文字处理器；
+
+— Turbo Lightning控制工具（带有软件界面）和Lightning Word Wizard；
+
+— 用于科学、工程和金融计算的工具 Eureka：求解器；
+
+— Reflex 2.0 平面文件管理系统。
+
+长期以来，Borland 在苏联没有设立代表处。自1990年6月起，该公司在我国的利益由合资企业Intertekbadpo代表。 Intertekbadpo 员工正在尽一切努力在负责任的市场上成功分销 Borland 的创新、技术领先的产品并为其提供服务，并准备好协助任何希望购买该产品的组织！
+
+不要忘记：Borland 程序包含了编程领域最先进的工程技术，以计算机的速度分发，并以计算机游戏的价格出售！
+
+欲了解信息，请联系：JV“INTERQUADRO”
+莫斯科, 125130,
+Novopod-Moskovny 第 2 车道，4
+电话 150-92-01，
+电传 41 3560,
+电信207321，
+传真 9430059
+BORLAND苏联官方合作伙伴

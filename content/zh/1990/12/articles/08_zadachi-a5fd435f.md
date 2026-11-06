@@ -1,0 +1,77 @@
+---
+id: 1990-12-zadachi-a5fd435f
+issue: kvant_1990_12
+year: 1990
+number: "12"
+title: 任务
+rubric: konkurs-imeni-a-p-savina
+rubric_sub: Конкурс имени А. П. Савина
+page_first: 32
+page_last: 32
+page_labels: "30"
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 9b7757ee5efe0d02c9c2f6e6bfe4d0b7910e221082aab8b9cb3facdf55679de4
+prompt_sha256: draft-1
+translated_from: content/ru/1990/12/articles/08_zadachi-a5fd435f.md
+source_content_sha256: c0d36b843dd91806796f29daafbbd1ef6da5d047e5d3377ccf52c59580e4c86f
+translation_model: draft
+translation_run: zh-draft-2026-11-06
+translation_quality: draft
+---
+
+⟦folio 30⟧
+
+---
+running_head:
+folio:
+---
+
+状态——电流$I_0/2$流过线圈，电容器未充电。关闭按键后，同步振荡将开始，频率为$\omega$，电流幅度为$I_0/2$：
+
+$$i_1(t) = i_2(t) = \frac{I_0}{2} \cos \omega t.$$
+
+要找到线圈中的满点，您需要记住直流电 $i$ 并将其与所需的符号相加：
+
+$$I_1(t) = i_1(t) + i = \frac{I_0}{2} (\cos \omega t + 1),$$
+
+$$I_2(t) = i_2(t) - i = \frac{I_0}{2} (\cos \omega t - 1).$$
+
+阿列克谢耶夫
+
+F1247。房间相对的墙壁上有一个相对的壁架，是两个直径为 1 m 的相同圆形镜子。当观察其中一面镜子时，观察到的位置位于光学系统的对称轴上。如果他眼睛的角分辨率是 1 分钟，他能数出多少次“嵌套”反射？镜子之间的距离为 5 m。忽略涂抹器头部的尺寸。
+
+所有连续的反射彼此间隔 $l = 5$ m。第 $n$ 和第 $(n+1)$ 图像（假设$n \gg 1$）的视角大致相等
+
+$$\alpha_n \approx \frac{d}{nl} \text{ и } \alpha_{n+1} \approx \frac{d}{(n+1)l},$$
+
+其中 $d = 1$ m 是镜子的直径。如果条件为真，这两个图像是不同的
+
+$$\frac{1}{2} (\alpha_n - \alpha_{n+1}) > \alpha_0,$$
+
+其中 $\alpha_0 = 1' = \pi/(180 \cdot 60)$ rad。求解 $n$ 的不等式（考虑到前面的表达式），并附加条件 $n \gg 1$，我们发现
+
+$$n < \sqrt{\frac{d}{2l\alpha_0}} = 18.$$
+
+K·祖埃夫
+
+竞赛“Matematika 6-8”
+
+杂志«Kvant»与保加利亚青年杂志“Matematika”一起继续为6-8年级的学生举办解决数学问题的竞赛。比赛共27题（每期3题），将于明年5月结束。获奖者将获得《«Kvant»》和《Matematika》杂志颁发的奖品。
+
+不迟于 1991 年 2 月 15 日将本期问题的解决方案发送至地址：103006，Moscow K-6，st。 Gorky, 32/1, «Kvant»（编号为“竞赛“Matematika 6-8”}）。别忘了写上您的姓氏、名字、学校和班级。
+
+任务
+
+10. 有9公斤的酷和一个杯秤，有50克和200克两种重量。尝试分三次称重 2 公斤这种冷饮。如果只有一个200g的重物可以做到吗？
+
+V. Vyun 和 A. Savin
+
+11. 证明三角形到其最长边的高度不大于从该边上的任意点到该三角形的其他两条边的垂线长度之和。
+
+E·切尔尼约夫
+
+12. 找出三个九位数，其中数字 1、2、3、4、5、6、7、8 和 9 各恰好出现一次，并且其中任意两个数字之和等于第三个数字。
+
+G·加尔维林
