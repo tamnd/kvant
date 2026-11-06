@@ -1,0 +1,34 @@
+---
+id: 1990-8-dubrovskiy-kalinin-golovolomka-raznotsvetnyie-fishki-na-treugolnom-pole-cbefbe33
+issue: kvant_1990_8
+year: 1990
+number: "8"
+title: '[谜题“三角形区域上的彩色碎片”]'
+authors:
+  - Дубровский В. Н.
+  - Калинин А. Т.
+rubric: smes
+page_first: 84
+page_last: 84
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: f0841314f9c2f3180a612e30aa881d63ea9dba4593848f82730d35a97996ed85
+prompt_sha256: draft-1
+translated_from: content/ru/1990/08/articles/01_dubrovskiy-kalinin-golovolomka-raznotsvetnyie-fishki-na-treugolnom-pole-cbefbe33.md
+source_content_sha256: 8a3bada366194bcfc37c02c08d6ae37583cc213d3395c01cdd72f5021dd42457
+translation_model: draft
+translation_run: zh-draft-2026-11-06
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+---
+running_head:
+folio:
+---
+
+您在这里看到的难题，是否会造成伤害对您来说是一个难以破解的难题：您需要将 15 种颜色的跟块放置在三角形区域的节点中，这样就不会重复平行于其颜色一侧的任何一条线。然而，研究任意大小的字段（每边有 n 个字段，当然还有 n 个颜色，n=2, 3, ...）的这个难题已经是一项相当严肃的任务了。显然，对于 n=2，这个难题是无解的。 n 至少还有一个“非腐蚀性”值。找到他。这是最后一个任务：提出解决奇数 n 难题的通用方法。也许你的方法甚至适用于 n;我们不知道偶数情况的一般解决方案。
+
+D.K.

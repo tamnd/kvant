@@ -1,0 +1,43 @@
+---
+id: 1990-5-zadachi-6a0f091d
+issue: kvant_1990_5
+year: 1990
+number: "5"
+title: 任务
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 39
+page_last: 39
+page_labels: "37"
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: e9a06d0cbfa8401202b1b42c5e4aa9a003e94d313745d680379eb7522485b350
+prompt_sha256: draft-1
+translated_from: content/ru/1990/05/articles/10_zadachi-6a0f091d.md
+source_content_sha256: affcd753539db237ea723a715828e78235322ae634bdf1ccfde6ec5001732607
+translation_model: draft
+translation_run: zh-draft-2026-11-06
+translation_quality: draft
+---
+
+⟦folio 37⟧
+
+---
+running_head:
+folio:
+---
+
+任务
+
+1. 安东去了乳品店。他没有钱，但拿了一些牛奶瓶——6升（每瓶20戈比）和6个半升瓶子（每瓶15戈比）。店里只有瓶装牛奶，价格为每升22戈比。安东决定交出一些瓶子，把用收到的钱买的牛奶倒进剩下的瓶子里。他最多能带回家多少牛奶？
+
+2. 飞机中午从A市起飞，下午2点降落在B市。当地时间。他全程飞回，抵达A市时已是早上六点了。乘坐这样的飞机在这些城市之间飞行需要多长时间？
+
+3. 解决图所示的算术难题。相同的字母对应相同的数字，不同的字母对应不同的数字。 （在德语中，eins 和 fünf 分别代表一和五。）
+
+4. 用三种不同的方式将数字 1990 表示为几个（两个或多个）连续自然数的总和。
+
+5. 在正方形ABCD中，有两个相互垂直的线段MN和PQ（见图）。证明四边形APON 和CQOM 的周长之和等于四边形BNOQ 和DMOP 的周长之和。
+
+这些任务是 A. Morozov、S. Dvoryaninov、M. Safarleev、A. Savin、V. Proizvolov 向我们建议的。
