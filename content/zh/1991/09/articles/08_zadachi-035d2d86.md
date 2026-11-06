@@ -1,0 +1,48 @@
+---
+id: 1991-9-zadachi-035d2d86
+issue: kvant_1991_9
+year: 1991
+number: "9"
+title: 任务
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 31
+page_last: 31
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: a1a35b7928c38627e1bf292aba1f59e011683148240a999619216319ec39a2c1
+prompt_sha256: draft-1
+translated_from: content/ru/1991/09/articles/08_zadachi-035d2d86.md
+source_content_sha256: 9bc7455de3450d434d6aff687544db3bd7ce9a0d3551bcd222f664d9232f83d3
+translation_model: draft
+translation_run: zh-draft-2026-11-06
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+---
+running_head:
+folio:
+---
+
+任务
+
+1. 伊万·斯捷潘诺维奇在一间单间公寓里进行了很长时间的投影。出于某种原因，他喜欢他的房间是正方形的，而且边长以整数米表示。他最近将其换成了同一地区的一套两居室公寓。其中一个房间的面积为7平方米，另一个房间的边长也是正方形，以整数米表示。伊万·斯捷潘诺维奇的公寓面积有多少？
+
+2. 出于数值目的，求解方程（参见 图）。
+
+3. - 生日快乐，奶奶！
+- 谢谢你，安德烈。也祝你生日快乐！
+- 你今年多大？
+- 好吧，算一下。如果互换新年的最后两位数字，就得到我的出生年份。
+- 所以你比我大八倍。爷爷年纪还大吗？
+- 当然。他出生在革命之前，而我出生在革命之后。
+这段对话发生在哪一年？
+
+4. 迪玛坐在桌旁。面前的墙上挂着一面镜子，对面的墙上挂着一个电子钟。他照了照镜子，看到分钟显示上显示着自己的年龄。一分钟后，他再看这块牌，发现数字增加了40个。迪玛多大了？
+
+5. 证明图处标记的角度相等。
+
+这些任务是 V. Vylon, Yu 向我们建议的。 Alenkov, M. Rollova，Cheboksary Andrey Sharinenok 和 V. Proizvolov 的 11 年级学生。

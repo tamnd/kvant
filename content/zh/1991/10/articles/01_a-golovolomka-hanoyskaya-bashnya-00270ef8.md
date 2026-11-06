@@ -1,0 +1,38 @@
+---
+id: 1991-10-a-golovolomka-hanoyskaya-bashnya-00270ef8
+issue: kvant_1991_10
+year: 1991
+number: "10"
+title: '[河内塔之谜]'
+authors:
+  - А. П.
+rubric: smes
+page_first: 84
+page_last: 84
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: f1d76df7e5c3846bfa8879131fa03b93678086780bf6007366c07d49c2a98f68
+prompt_sha256: draft-1
+translated_from: content/ru/1991/10/articles/01_a-golovolomka-hanoyskaya-bashnya-00270ef8.md
+source_content_sha256: 0fd38241266cac0baa9791b87b6975b39b8ceab09bfc1a0453d6063cbfb1eb37
+translation_model: draft
+translation_run: zh-draft-2026-11-06
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+---
+running_head:
+folio:
+---
+
+该杂志的许多读者都很清楚“河内浴”拼图，它由一个社区儿童的帕拉米德和另外两个杆组成。允许将 paramidka 磁盘从一侧转移到另一侧，遵守以下规则：只能将较小的磁盘放置在较大的磁盘之上。需要将所有圆盘从第一根杆移动到第三根杆，前提是它们按尺寸降序排列。众所周知，这样的重新排列可以在 2$^n$—1 次移动中完成，其中 $n$ 是第一根杆上的圆盘数量。
+现在出售的是一个拼图阶段，其中杆被替换为
+孔、圆盘 - 正方形，圆盘的大小由正方形上的数字表示。
+V. Pinaev 老师建议稍微改变一下规则：最初的空圆盘不是按降序排列在第一根杆上，而是按某种随机顺序排列。在这种情况下是否可以根据转移规则将圆盘组装在第三根杆上？
+在 图 给出了将圆盘放置在处于初始位置的第一根杆上的选项之一。
+请在该杂志的下一期中阅读有关此品种和其他品种的“河内兔子”的信息。
+
+美联社

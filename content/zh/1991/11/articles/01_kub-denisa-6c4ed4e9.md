@@ -1,0 +1,38 @@
+---
+id: 1991-11-kub-denisa-6c4ed4e9
+issue: kvant_1991_11
+year: 1991
+number: "11"
+title: 丹尼斯的立方体
+rubric: smes
+page_first: 84
+page_last: 84
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 451c8473db5ddc099717d780814eb4800d999fb6d153293a6c52f78d3829b75b
+prompt_sha256: draft-1
+translated_from: content/ru/1991/11/articles/01_kub-denisa-6c4ed4e9.md
+source_content_sha256: 8069d4979ded97f607870e1741f2c2cdb6398331e971cf09d43f081620e3bcea
+translation_model: draft
+translation_run: zh-draft-2026-11-06
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+---
+running_head:
+folio:
+---
+
+丹尼斯立方体
+
+来自新西伯利亚的读者 A. Tsukar 询问了这个谜题的描述，他将其称为“丹尼斯魔方”。它由 64 个部分不透明的杯子组成，您需要从中折叠出一个完全不透明的立方体 $4 \times 4 \times 4$。该拼图使用 8 个不同颜色的立方体（全部显示在顶部图）。每种颜色类型在 8 个杯子中重复。
+尝试解决该谜题的以下问题：
+1. 折叠一个立方体，正面不透明。
+2. 组装立方体，使正面的所有四种颜色都相同。
+
+3. 组装一个不透明的立方体，从一侧看，你可以看到前面桌子上的 4 个杯子的所有 4 种颜色。
+4. 证明使用所选的 4 种颜色中的 8 种着色方式，不可能构造出一个所有面都明确的立方体。
+自己制作64个立方体是相当困难的，但是如果你对立方体和颜色进行编号，你就可以在一张纸上解决所有问题。更有趣的是编写一个程序并在显示屏上构建一个立方体。最后，尝试构建并解决 4 维立方体的类似问题。那么，谁能解决这个问题，就可以获得杂志特别奖«Kvant»。

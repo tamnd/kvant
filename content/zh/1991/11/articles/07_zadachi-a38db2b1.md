@@ -1,0 +1,45 @@
+---
+id: 1991-11-zadachi-a38db2b1
+issue: kvant_1991_11
+year: 1991
+number: "11"
+title: 任务
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 29
+page_last: 29
+page_labels: "27"
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 6e12a1b6f27e3ebb9406faeb3914332b5c85c8bc432324eecd964401b620ae86
+prompt_sha256: draft-1
+translated_from: content/ru/1991/11/articles/07_zadachi-a38db2b1.md
+source_content_sha256: d92daf6b36fc05f81b463f3b779466067777921e5862662889522a7f3d9da41c
+translation_model: draft
+translation_run: zh-draft-2026-11-06
+translation_quality: draft
+---
+
+⟦folio 27⟧
+
+---
+running_head:
+folio:
+---
+
+锻炼
+
+1. 一些三位数由不同的数字按升序排列组成，并且在其名称中所有单词都以相同的字母开头。相反，另一个三位数由相同的数字组成，但在其名称中所有单词都以不同的字母开头。找到这些数字。
+
+2. 立方体的侧面写有 6 个数字。 图 上看不到的数字是质数。如果已知相对面的每个面板上的数字之和相等，这些数字是多少？
+
+3. 几个棋手整天在公园里下棋。由于他们只有一套棋，所以他们制定了以下比赛顺序：下一局的胜者跳过接下来的两局，失败者跳过接下来的四局。如果这个赛事规则成功的话，有多少棋手？ （如果出现平局，则吃白棋的一方为输家。）
+
+4. 如果在某些单词中，将字母替换为字母表中这些字母的数字，则会得到数字 222122111121。这是哪个单词？
+
+5. 在凸五边形ABCDE中，角ABC和CDE等于90°，​​边BC、CD和AE等于1，边AB和DE之和等于1。证明五边形的面积等于1。
+
+这些任务是由 I. Akulich、N. Antonovich、S. Tokarev、Kh 向我们建议的。艾哈迈多夫和 V. 普罗兹沃洛夫。
+
+3*

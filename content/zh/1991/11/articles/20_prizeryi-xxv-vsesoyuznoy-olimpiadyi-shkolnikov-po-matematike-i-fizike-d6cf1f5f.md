@@ -1,0 +1,245 @@
+---
+id: 1991-11-prizeryi-xxv-vsesoyuznoy-olimpiadyi-shkolnikov-po-matematike-i-fizike-d6cf1f5f
+issue: kvant_1991_11
+year: 1991
+number: "11"
+title: 第二十五届全联盟中小学生数学物理奥林匹克竞赛获奖者
+rubric: olimpiady
+rubric_sub: Олимпиады
+page_first: 65
+page_last: 66
+page_labels: 63-64
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 8f0a955f0a75859019211bf6b0b09f735226d68a2c35e201b44c55c1241875e9
+prompt_sha256: draft-1
+translated_from: content/ru/1991/11/articles/20_prizeryi-xxv-vsesoyuznoy-olimpiadyi-shkolnikov-po-matematike-i-fizike-d6cf1f5f.md
+source_content_sha256: 3555f46c0f8906f1b4fee702e2d3366b9e49be32eac0ec99d58ad5a5614caebb
+translation_model: draft
+translation_run: zh-draft-2026-11-06
+translation_quality: draft
+---
+
+⟦folio 63⟧
+
+第二十五届全联盟中小学生数学物理奥林匹克竞赛获奖者
+
+数学
+
+第一学位文凭
+
+九年级时收到
+Bondarenko M.—圣。圣彼得堡239
+Galans A. - Olaine，s.sh。 1、
+Zvonkin D.——莫斯科，s.sh。 43、
+Kauks V.—里加，催眠 1，
+Linde G.—里加，催眠 1，
+Plotnichesk Yu.—里加，体育馆 1，
+Fedorov R.——莫斯科，s.sh。 57；
+
+10 节课 -
+Ambaynis A.—Ddugavpils，s.sh。 12、
+Arikin D.—哈尔科夫，s.sh。 132、
+布尔科夫 A.-基洛夫，s.sh。 35、
+Galans A. - Olaine，s.sh。 1、
+Kozhevnikov P.—卡卢加，s.sh。 24、
+Nodin A.——莫斯科，s.sh。 57、
+Nekrashevich V.—基辅地区，Kovshevatskaya 北部高速公路；
+
+11个年级 -
+茹霍维茨基 V.—圣。圣彼得堡北部地区239、
+Kodan M.—圣。圣彼得堡北部地区566、
+马林尼科娃 E.—圣。圣彼得堡239、
+柏林 A.—圣。圣彼得堡239、
+Temkin M.——莫斯科，s.sh。 57.
+
+二级学位文凭
+
+九年级时收到
+波格丹诺夫一号——彼尔姆，s.sh。 17、
+Vrilok V.—顿涅茨克，s.sh。 35、
+Dudko D.——基辅，s.sh。 61、
+Kukhta A.—阿穆尔河畔共青城，北部地区。 9、
+Poganov L.—里加，催眠 1，
+罗森布洛姆 E.—圣。圣彼得堡239、
+Saprikin S.-Odesca，s.sh。 36、
+Sosyka E.-克拉斯诺达尔，s.sh。 5、
+
+Khazanov A.-圣。圣彼得堡239、
+Cherukhin D.-刻赤，s.sh。 1、
+Chekidov A.—乌斯季卡缅诺戈尔斯克，s.sh。 25；
+
+10 节课 -
+Anshits U.—里加，催眠 1，
+Borodin A.——顿涅茨克，s.sh。 17、
+伊兹梅采夫 I.—基洛夫地区，Sunskaya 北部高速公路，
+Ismailov R.——圣彼得堡，s.sh。 239、
+Klimov S.—伊热夫斯克，s.sh。 30、
+Korpienko A.—第聂伯罗彼得罗夫斯克，s.sh。 36、
+Malyutin A.—圣。圣彼得堡45、
+Norvelis J.—里加，催眠 1，
+Nikulin M.—奥布宁斯克，卡卢加地区，催眠 2，
+Petrosyan A.—埃里温，物理和音乐学校，
+拉宾诺维奇 M.—莫斯科，s.sh。 57、
+Chilikov A.-基洛夫，s.sh。 35；
+
+11个年级 -
+安德森 G.—里加，催眠 1，
+Balashov O.—圣。圣彼得堡45、
+Volochenko K.——顿涅茨克，s.sh。 17、
+Grishilon M.-托木斯克，s.sh。 32、
+Zharkov S.——基辅，s.sh。 145、
+Muchnik R.-文尼察，s.sh。 17、
+Nasyrov A.—莫斯科，SUSC MSU。
+
+III级文凭
+
+九年级时收到
+别列诺夫 R.—下诺夫哥罗德，s.sh。 40、
+Bryukhov E.-车里雅宾斯克，s.sh。 31、
+古列夫 A.—诺夫哥罗德，s.sh。 1、
+Kazantseva V.—伊热夫斯克，s.sh。 30、
+Kostin V.—萨拉托夫，物理和技术人员 1，
+Laud P.——塔林，s.sh。 9、
+Poroshenko E.—阿拉木图，RSFMSHI，
+
+⟦folio 64⟧
+
+---
+running_head:
+folio:
+---
+
+Smirnov A. - 沃洛格达州别列兹尼科夫斯卡亚村。嘘，
+斯捷潘诺夫 A.​​ - 特维尔，第 14 页w。 17、
+Topchiy A. - 鄂木斯克，p。 w。 64；
+
+10 节课 -
+Elsufeev A. - 圣彼得堡，p。 w。 30、
+Zaitsev S. - 图拉，p。 w。 73、
+Krusts A. - 尤尔马拉，p。 w。 1、
+Kuzmchits S. - 明斯克，BSU 的 MSSS，
+Mailybaev A. - 莫斯科，SUSC MSU，
+于佩夫佐娃. - 圣彼得堡，p。 w。 239、
+Rymov A. - 阿拉木图，RSFMSHI，
+Sibichenkov A. - 斯摩棱斯克，体育馆，
+Tellinsky A. - 卡梅涅茨-波多尔斯基，赫梅利尼茨基地区，第 14 页。 w。 7、
+Feldman K. - Chernogolovka 村，莫斯科地区，第 14 页w。 82、
+Khasin M. - 顿涅茨克，p。 w。 17、
+Khvenkin K. - 明斯克，BSU 的 MSSS，
+Chudinov K. - 彼尔姆，第 17 页w。 17；
+
+11个年级 -
+Varsukov S. - 克拉斯诺达尔，p。 w。 4、
+Vrodsky N. - 车里雅宾斯克，p。 w。 31、
+Vidulis N.-瓦尔梅拉，p。 w。 4、
+Datsuk A. - 圣彼得堡，p。 w。 30、
+Dnestranssky A. - 梁赞，第 14 页w。 2、
+Pocket R. - 乌格雷尼，p。 w。 4、
+Kaspryavachyte R. - 维尔纽斯，p。 w。 7、
+Kozachko A. - 文尼察，s。 w。 17、
+Kopylov A. - Chernogolovka 村，莫斯科地区，第 14 页w。 82、
+Krotov D. - 新西伯利亚，p。 w。 25、
+库兹马·于. - 卡卢加地区普罗特瓦村，村庄。 w。 1、
+利沃夫 A. - 莫斯科，p。 w。 43、
+米沙切夫 K. - 利佩茨克，第 17 页w。 14、
+Naumovich A. - 明斯克，第 14 页w。 19、
+波隆斯基·余. - 维捷布斯克，p。 w。 31、
+Ryabcheva O.-基洛夫，p。 w。 8、
+索洛多夫 A. - 沃罗涅日，学院 1，
+施特劳斯大学 - 里加，体育馆 1，
+Tsybanon E. - 别洛列茨克，计算机高速公路，
+Shamsugdinov M. - 乌法，p。 w。 114、
+Jaisons M. - Sigulda，p。 w。 1.
+
+物理
+
+第一学位文凭
+
+九年级时收到
+克拉斯诺维德 A. - 格罗德诺，p。 w。 19、
+Olkhovets A. - 基辅，p。 w。 206、
+Chizirev D. - 圣彼得堡，p。 w。 566；
+
+10 节课 -
+Arbatsky D. - 圣彼得堡，第 14 页w。 239、
+巴扎罗夫一世 - 符拉迪沃斯托克，p。 w。 23、
+Gorgadze V.-纳尔奇克，p。 w。 19、
+Gulyaev N. - 下诺夫哥罗德，p。 w。 82、
+Mogrushich A. - 乌日哥罗德，s。 w。 1、
+Rashtsos A.-​​Kouns，p。 w。索莱斯，
+Shutenko T. - 马里努尔，p。 w。 41；
+
+11个年级 -
+Bashinsky S. - Sterlitamak，p。 w。 27、
+Dobrovolsky S. - 第聂伯罗彼得罗夫斯克，s。 w。 111.
+
+二级学位文凭
+
+九年级时收到
+Malyuzin V. - 乌瓦村（乌德穆尔蒂亚），第 14 页w。 1、
+Rybachuk V. - 文尼察，s。 w。 26、
+Tseiglin V. - 莫斯科，p。 w。 57、
+亚库洛夫 R. - 库兹涅佐夫斯克，p。 w。 1;
+
+10 节课 -
+Hannokh A. - 基辅，p。 w。 61、
+伊维琴科·N. - 基辅，p。 w。 145、
+Lobanov A. - 阿拉木图，RSFMSHI，
+潘科夫 S. - 图拉，p。 w。 73、
+Frolov A. - 莫斯科，p。 w。 303、
+Chisty A. - 布雷斯特，p。 w。 1、
+Shpirko O. - 基辅，p。 w。 206、9格；
+
+11个年级 -
+别列兹尼亚科夫 A. - 萨拉托夫，前 1，
+瓦维洛夫 M. - 叶卡捷琳堡，p。 w。 2、
+Dementieva A. - 切博克萨雷，p。 w。 45、
+伊万诺夫 M. G. - 图拉，第 14 页w。 73、
+Kovtunenko V. - 扎波罗热，第 14 页w。 28、
+Litvak A. - 下诺夫哥罗德，p。 w。 40、
+Lapin A.-纳尔奇克，p。 w。 9、
+普兹恩 P. - 格罗德诺，p。 w。 19、
+泰马诺夫 S. - 拉明斯科耶，第 14 页w。 4、
+Sharakin S. - 莫斯科，SUSC MSU，
+Shireva A. - 圣彼得堡，p。 w。 239.
+
+III级文凭
+
+九年级时收到
+Baburin D. - 克拉斯诺亚尔斯克，p。 w。 41、
+Belleev L. - 彼得罗巴甫洛夫斯克，p。 w。 1、
+别列兹诺夫 A.​​ - 喀山，p。 w。 131、
+Gvozdsv P. - Kotelnich，p。 w。 3、
+Golovaty A.-斯图皮诺，第 14 页w。 9、
+Kevitskinsky A. - 基辅，KSU 物理学院，
+Kokorchi M. - Aginskoye 村，赤塔地区，村庄。 w。 2、
+Malinova E. - 圣彼得堡，列宁格勒国立大学物理和数学学院，
+Sauntsuev K. - Biysk，p。 w。 18、
+Sedelnikov A. - 乌斯季卡缅诺戈尔斯克，p。 w。 17、
+Khalalyan S. - 艺术。碎片，p。 w。 16；
+
+10 节课 -
+Bellevsky O. - 阿拉木图，RSFMSHI，
+Vulvenko S. - 基辅，KSU 物理学院，
+Iyutin V. - 图拉，第 14 页w。 73、
+科兹洛夫 K. - 格拉佐夫，第 14 页w。 14、
+克罗托夫 D. - 特维尔，p。 w。 17、
+马拉文·余. -叶夫帕托里亚，p。 w。 6、
+Oviscer V. - 北德文斯克，第 14 页w。 17、
+Samoydi S. - 新西伯利亚，新西伯利亚国立大学科学研究中心；
+
+11个年级 -
+博尔科夫斯基 A. - 博戈罗达尼，p。 w。 1、
+杰尼索夫一世 - 莫吉廖夫，面部护理，
+Nenasheev A. - 新西伯利亚，SUSC NSU，
+Polshuk I. - 莫斯科，第 14 页w。 5、
+Revaev M. - 文尼察，体育馆，
+萨帕耶夫 U. - 沙瓦特，p。 w。 120、
+Subbotin D. - 莫斯科，p。 w。 57、
+Tamoshonas V. - 维尔纽斯，p。 w。 45、
+特列季亚科夫 于. - 阿拉木图，RSFMSHI，
+Usoltsev K. - 符拉迪沃斯托克，p。 w。 23、
+Kharisov A. - 乌法，p。 w。 74、
+Charushin A. - 新西伯利亚，SUSC NSU。

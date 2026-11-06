@@ -1,0 +1,35 @@
+---
+id: 1991-8-golovolomka-dvumernyiy-kubik-rubika-581e305a
+issue: kvant_1991_8
+year: 1991
+number: "8"
+title: '[2D魔方拼图]'
+rubric: smes
+page_first: 84
+page_last: 84
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: a955c8219e2437b9bd551d8a275e68546095183343f9e190fad206e8ca41be2e
+prompt_sha256: draft-1
+translated_from: content/ru/1991/08/articles/01_golovolomka-dvumernyiy-kubik-rubika-581e305a.md
+source_content_sha256: f8fe24280fcb4e79829e633a37a6e798bffecacf47241b86f411dad8cb1b9f4d
+translation_model: draft
+translation_run: zh-draft-2026-11-06
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+---
+running_head:
+folio:
+---
+
+70戈比
+指数70465
+
+图所示的玩具在日本被称为二维魔方。到目前为止，这个谜题只存在于计算机屏幕上，因为还没有人设法想出一种机制，可以转动九个正方形面板中任何水平或垂直的三个正方形行。
+该谜题需要从任意初始状态开始，以指定的移动次数获得面板每一面的单色着色。
+
+有 $2^9 - 2 = 510$ 种不同颜色的面板状态。计算机计算表明，其中有 192 个状态，其中的难题可以通过 6 步来解决（这些是距离“正确”最远的状态）。 图 的底部是这样一个原始方形拼图的解决方案。在家里，使用普通的儿童立方体最容易完成这个拼图，并且“用手”翻转每一行。
