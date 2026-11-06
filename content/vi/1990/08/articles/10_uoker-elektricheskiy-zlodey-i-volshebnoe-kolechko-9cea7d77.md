@@ -1,0 +1,55 @@
+---
+id: 1990-8-uoker-elektricheskiy-zlodey-i-volshebnoe-kolechko-9cea7d77
+issue: kvant_1990_8
+year: 1990
+number: "8"
+title: '"Kẻ phản diện điện và chiếc nhẫn ma thuật"'
+authors:
+  - Уокер Дж.
+rubric: laboratoriya-kvanta
+page_first: 72
+page_last: 72
+page_labels: "70"
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 389c97c30f6412b3f8a8cb5bbe33cb74ec0ddc4c58ea5e146b41d5db349ff6f8
+prompt_sha256: draft-1
+translated_from: content/ru/1990/08/articles/10_uoker-elektricheskiy-zlodey-i-volshebnoe-kolechko-9cea7d77.md
+source_content_sha256: e22544e8fe18c13efc8c164e7eff6f525961a407f4b09dec27f3169604098a29
+translation_model: draft
+translation_run: vi-draft-gaps-2026-11-05
+translation_quality: draft
+---
+
+⟦folio 70⟧
+
+---
+running_head:
+folio:
+---
+
+"Điện
+sol
+và huyền diệu
+nhẫn"
+
+Các câu hỏi bài toán được đưa ra cho Banim được lấy từ cuốn sách “Pháo hoa vật lý” của nhà khoa học người Mỹ J. Walker.
+(Năm ngoái, nhà xuất bản Mir đã phát hành ấn bản thứ hai của cuốn sách này và ấn bản đầu tiên đã được xuất bản trước đó mười năm.) Hầu như tất cả bài toán đều được kết nối theo cách này hay cách khác với thế giới xung quanh chúng ta. Vì vậy, bạn chỉ có thể trả lời nhiều câu hỏi bằng cách kiểm tra các quan sát hoặc thí nghiệm liên quan. Đáp số, được đưa ra ở cuối tạp chí, theo quy định, chỉ làm rõ bài toán hoặc đề xuất đường dẫn đến lời giải của nó.
+Vì vậy, hãy quan sát và thử nghiệm.
+
+Điện sinh học
+
+1. “Ghi công” cho một dây điện. Nếu bạn vô tình giật phải một sợi dây điện sao cho dòng điện chạy qua tay bạn khoảng 25 mA thì rất có thể bạn sẽ không thể rút tay ra khỏi dây điện. Tại sao? Đừng cố tự mình kiểm tra điều này - điều đó rất nguy hiểm.
+
+2. Lươn điện. Làm thế nào một con lươn điện có thể khiến bạn bị điện giật? Một con lươn lớn tạo ra điện áp lên tới 600 V với dòng điện lên tới 1 A. Nó lấy đâu ra sức mạnh đáng kinh ngạc như vậy? Liệu việc lươn xả liên tục có xảy ra qua nước biển không? Tại sao con lươn không tự sốc?
+
+Khả năng di chuyển dưới nước của nhiều loài động vật biển khác nhau từ lâu vẫn còn là một bí ẩn. Tuy nhiên, nghiên cứu trong những năm gần đây đã chỉ ra rằng một số loài động vật này phản ứng với điện trường phát sinh từ sự chuyển động của dòng hải lưu trong từ trường Trái đất. Người ta tin rằng những cánh đồng này giúp sinh vật biển định hướng dưới nước. Đầu tiên, hãy giải thích sự chuyển động của nước tạo ra điện trường như thế nào. Thứ hai, làm thế nào một con vật có thể phát hiện ra một trụ trường yếu?
+
+Tĩnh điện
+
+3. Đi trên thảm rất nguy hiểm!
+
+Đôi khi bạn có thể bị "điện giật" nếu đi trên thảm hoặc tự động xì hơi trên ghế. Rõ ràng, trong trường hợp này, câu đố bằng cách nào đó được tích lũy. Bạn có thể giải thích chi tiết hơn chính xác những gì đang xảy ra? Ví dụ, tại sao bạn bị sốc khi đi trên thảm, nhưng không bị sốc nếu bạn đứng trên đó? Tại sao những điều này lại có hiệu quả tùy thuộc vào thời gian trong năm?
+
+Các sinh viên vật lý trình diễn một thí nghiệm khác: để nhiễm điện vào các thanh thủy tinh, chúng được cọ xát mạnh với lông mèo hoặc thứ gì đó tương tự. Tại sao chúng lại bị cọ xát như vậy? Liệu chúng có truyền điện chậm hơn nếu bạn để mất chúng một cách lặng lẽ hơn? Trenium có thực sự đóng vai trò nào trong quá trình điện khí hóa không? Tại sao dấu hiệu của sự mong đợi lại pa-

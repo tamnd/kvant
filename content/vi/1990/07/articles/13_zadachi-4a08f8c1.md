@@ -1,0 +1,43 @@
+---
+id: 1990-7-zadachi-4a08f8c1
+issue: kvant_1990_7
+year: 1990
+number: "7"
+title: Bài toán
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 47
+page_last: 47
+page_labels: "45"
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: bab83f9b9aa40d2b9cbb4b74849ca50a28ccf09a381f49a08c73ae5bef3bebdf
+prompt_sha256: draft-1
+translated_from: content/ru/1990/07/articles/13_zadachi-4a08f8c1.md
+source_content_sha256: 9676416bd890901d0ea3a308c5d197c3130441cce708dd85b445dddc5ddb816d
+translation_model: draft
+translation_run: vi-draft-gaps-2026-11-05
+translation_quality: draft
+---
+
+⟦folio 45⟧
+
+---
+running_head:
+folio:
+---
+
+Bài toán
+
+1. Một thương gia nọ mỗi năm tăng tài sản của mình thêm một phần ba, giảm đi một trăm bảng Anh mà anh ta chi tiêu hàng ngày cho gia đình mình. Ba năm sau, người thương gia phát hiện ra rằng tài sản của mình đã tăng gấp đôi. Hỏi lúc đầu người buôn bán có bao nhiêu tiền?
+
+2. Giải câu đố số học hiển thị ở hình. Một chữ cái xiên tương ứng với cùng một số, các chữ cái khác nhau tương ứng với các số khác nhau.
+
+3. Cắt hình ở hình dọc theo các dòng ô thành bốn hình bằng nhau.
+
+4. Số có bốn chữ số nào có tính chất này: bản thân nó là bình phương của một số nguyên và các số tạo bởi hai chữ số đầu và hai chữ số cuối cũng là số chính phương?
+
+5. Trong thời gian ở Laputa, Guliver quan tâm đến hệ thống tiền tệ của đất nước này. Ông được biết rằng đất nước sử dụng đồng xu 1, 2 và 4 lapti, làm bằng vàng nguyên chất. Đồng xu có hình tròn và nếu bạn đặt đồng xu 1 lapti lên đồng xu 2 lapti sao cho cạnh của nó đi qua tâm của đồng xu hai lapti thì giao điểm của các cạnh của đồng xu nằm trên đường kính của đồng xu một lapti. Sự tương ứng về kích thước tương tự được quan sát thấy đối với đồng xu 2 và 4 lapti. Trọng lượng của đồng xu tỷ lệ thuận với mệnh giá của chúng. Độ dày của đồng xu một vòng là 1 mm. Độ dày của các đồng xu còn lại là bao nhiêu?
+
+Bài toán 1 thuộc về nhà toán học và vật lý học vĩ đại người Anh I. Newton; phần còn lại bài toán do I. Antonovich, V. Vyun, A. Baboyan, A. Savin gợi ý cho chúng tôi.

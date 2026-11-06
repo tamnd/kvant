@@ -1,0 +1,50 @@
+---
+id: 1990-7-vnimaniyu-nashih-chitateley-9cc8b964
+issue: kvant_1990_7
+year: 1990
+number: "7"
+title: Để thu hút sự chú ý của độc giả của chúng tôi
+rubric: smes
+page_first: 46
+page_last: 46
+page_labels: "44"
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: d05d5efc9b8a58e6198195fd2c712626a7718e8a19c61872a7633c501cd125dd
+prompt_sha256: draft-1
+translated_from: content/ru/1990/07/articles/12_vnimaniyu-nashih-chitateley-9cc8b964.md
+source_content_sha256: 6586c7662ddcf4f827d5cf7978ad77cc3a17cd9d6cb608bfa237e5de3b09be15
+translation_model: draft
+translation_run: vi-draft-gaps-2026-11-05
+translation_quality: draft
+---
+
+⟦folio 44⟧
+
+---
+running_head:
+folio:
+---
+
+Chú ý
+của chúng tôi
+độc giả
+
+Cửa hàng số 1 "Akademika" ở Ufa gửi sách COD từ nhà xuất bản "Nauka":
+Abramov S. A., Zima E. V. Bắt đầu thông tin. (Lập trình viên b-chka). — 1989. — 1 r.
+Kaluzhkin N. A., Sushansky V. I. Các phép biến đổi và hoán vị. (Vấn đề tiến bộ khoa học và kỹ thuật). — 1985. — 55k.
+Điều khiển học. Máy tính vi mô trong các nhiệm vụ và nhiệm vụ. (Điều khiển học - khả năng vô hạn và khả năng hạn chế). — 1986. — 55k.
+Lựa chọn máy tính và bài toán. (Điều khiển học - khả năng không giới hạn)
+
+hạn chế và hạn chế). - 1989. - 80k. Máy tính và hiện tượng phi tuyến. Thông tin và hiện đại tự nhiên. (Điều khiển học - những khả năng vô hạn và những hạn chế có thể có). — 1988. — 45k.
+Kotov Yu. V. Như một họa sĩ. - 1988. - 60 bản. Levinshtein M. E., Simin G. S. Barvera. (Mở mạch tích hợp). (B-chka «Kvant»). — 1987. — 75k.
+Meledin G.V. Vật lý trong các vấn đề. Kỳ thi bài toán có đáp án. Hướng dẫn học tập. Ed. 2-e, sửa đổi và bổ sung — 1989. — 50 k.
+Popov E. P. Robotics và hệ thống xử lý nha khoa. (Vấn đề tiến bộ khoa học và kỹ thuật). — 1987. — 65k.
+Prasolov V.V., Sharygin I.F. Bài toán theo lý thuyết. (B-chka của vòng tròn toán học). — 1989. — 75k.
+
+Lập trình đơn giản và khó khăn. (Điều khiển học - những khả năng vô hạn và những hạn chế có thể có). — 1988. — 35k.
+Silin A. A. Trenz và chúng tôi. (B-chka «Kvant»). — 1987. — 35k.
+Frolova G.V. Năng lực sư phạm của máy tính. Triển vọng cuộc sống hàng ngày. Vấn đề. (Tiến bộ khoa học và công nghệ). — 1988. — 70k.
+Thử nghiệm trên màn hình. Những bước đầu tiên của vật lý tính toán. (Điều khiển học - những khả năng vô hạn và những hạn chế có thể có). — 1989. — 80k.
+Gửi đơn hàng tới: 450059, Ufa, st. R. Sorge, 10 tuổi, cửa hàng số 1 “Akademika”.

@@ -1,0 +1,80 @@
+---
+id: 1990-11-akulich-monstr-brat-monstra-0d8e1f87
+issue: kvant_1990_11
+year: 1990
+number: "11"
+title: '"Quái vật" - anh trai của "quái vật"'
+authors:
+  - Акулич И. Ф.
+rubric: nam-pishut
+rubric_sub: Нам пишут
+page_first: 52
+page_last: 52
+page_labels: "50"
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: cbe647e8ce418b6db069618c679ce257ef199f936f11ee1b2fd5a949a381e9a0
+prompt_sha256: draft-1
+translated_from: content/ru/1990/11/articles/21_akulich-monstr-brat-monstra-0d8e1f87.md
+source_content_sha256: 291a5ad29598fe2a5bdef82243cc05e9a5a9f89ebaa5761a22889533cb75343c
+translation_model: draft
+translation_run: vi-draft-gaps-2026-11-05
+translation_quality: draft
+---
+
+⟦folio 50⟧
+
+---
+running_head:
+folio:
+---
+
+"Quái vật" - anh trai
+"Quái vật"
+
+Trong bài báo “Linh mục có một con chó” («Kvant» Số 6, 1989), cả một cụm từ tiếng Nga đã được xuất bản nói lên điều gì đó về chính nó. Ví dụ như thế này:
+Cụm từ này chứa hai mươi tám chữ cái và một dấu chấm.
+Điều này chắc chắn là đúng. Nhưng cụm từ này cũng có dấu chấm câu (dù chỉ có một - một dấu chấm - nhưng tuy nhiên...). Vì vậy, thật hợp lý khi đặt nó như thế này:
+Cụm từ này chứa ba mươi tám chữ cái và một dấu chấm.
+Theo tôi thì hiện tại thông tin đã đầy đủ hơn rất nhiều. Nhưng điều này là không đủ. Các từ trong tiếng Nga không được viết bằng chữ mà được phân tách bằng dấu cách hoặc dấu chấm câu. Vì vậy, thật hợp lý khi thêm một cụm từ bổ sung như thế này:
+Cụm từ này chứa sáu mươi hai chữ cái, mười dấu cách, hai dấu phẩy và một dấu chấm.
+
+Đúng, bạn có thể xả rác ở đây. Xét cho cùng, khoảng trắng không gì khác hơn là sự vắng mặt của một chữ cái, vì vậy nó tạo ra một biểu thức nghịch lý “HIỆN TẠI CỦA Vắng mặt”. Ngoài ra, việc có dấu phẩy giữa hai từ có nghĩa là không có khoảng cách giữa các từ phải không? Thật khó để nói: bạn có thể in theo cách này và cách khác, và mọi thứ sẽ chính xác. Vì vậy, có lẽ tốt hơn hết là đừng gây rối với khoảng trắng.
+Ngoài ra, bạn có thể soạn các cụm từ không chỉ sai (điều đó quá đơn giản!), mà còn trái ngược hoàn toàn với thông tin thực:
+
+Việc cụm từ này có ba mươi tám chữ cái là không đúng.
+Không đúng khi cụm từ này chứa 65 chữ cái, cũng như hai dấu phẩy và một dấu chấm.
+Nhưng tất cả điều này chỉ là suy đoán về điều chính. Cụm từ này, được gọi một cách đúng đắn là “quái vật” trong bài viết, cũng chứa thông tin không đầy đủ về bản thân nó: không nói gì về dấu câu. Vì vậy tôi đoán
+
+Một số ví dụ về phát minh tuyệt vời này bao gồm bàn chải đánh răng từ tính có thể tự làm sạch răng của bạn và một tấm thảm nhu động. Các dây điều khiển được dệt vào đế của tấm thảm này, tạo ra một làn sóng chạy trên dòng xoáy mang theo bụi và các mảnh vụn nhỏ vào thùng rác. Một tấm thảm như vậy sẽ giúp chủ nhân giảm bớt nhiều lo lắng, nhưng liệu những chú mèo có thích nó không?
+
+(Trích sách “Những phát minh của Daedalus” của D. Jones)
+
+một cụm từ không chỉ nói về các từ mà còn về tất cả các dấu câu.
+
+Câu bạn đang đọc có chứa:
+hai từ "Cụm từ"
+hai từ "cái gì"
+hai từ "bạn"
+hai từ "đọc"
+hai từ "chứa"
+hai năm chữ “vinh quang”,
+hai từ "từ"
+hai từ "dấu hai chấm"
+hai từ "dấu phẩy"
+hai từ "bởi"
+hai từ “trái”,
+hai từ “và”
+hai chữ "đúng"
+hai từ "trích dẫn"
+hai từ "a"
+hai từ "cũng"
+hai chữ "chấm"
+hai chữ “một”
+hai chữ “một”
+hai dấu phẩy, hai mươi dấu ngoặc kép trái và phải và một dấu chấm.
+
+Liệu lời đề nghị này có phù hợp với tư cách là anh em họ của “quái vật” không?
+
+I. Akulich

@@ -1,0 +1,69 @@
+---
+id: 1990-5-okunev-dvizhenya-net-2e2ffd9a
+issue: kvant_1990_5
+year: 1990
+number: "5"
+title: Không có chuyển động?
+authors:
+  - Окунев К.
+rubric: kvant-ulybaetsya
+rubric_sub: «Квант» улыбается
+page_first: 38
+page_last: 38
+page_labels: "36"
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: d38703ef83e37f87b422bfd8f8b42346b40a039b4c0aa2e06241c1031cf1dcc1
+prompt_sha256: draft-1
+translated_from: content/ru/1990/05/articles/09_okunev-dvizhenya-net-2e2ffd9a.md
+source_content_sha256: 28f05542f8f84e6c55f546dd151ba05015dcdb0eee1680ccea556f45b5821ea4
+translation_model: draft
+translation_run: vi-draft-gaps-2026-11-05
+translation_quality: draft
+---
+
+⟦folio 36⟧
+
+---
+running_head:
+folio:
+---
+
+Không có chuyển động?
+
+Không có chuyển động, nhà hiền triết có râu nói.
+Người kia im lặng và bắt đầu đi dạo xung quanh với anh ta.
+Anh không thể phản đối mạnh mẽ hơn;
+Mọi người đều khen ngợi đáp số phức tạp.
+Nhưng thưa quý vị, đây là một câu chuyện vui
+Một ví dụ khác xuất hiện trong đầu:
+Suy cho cùng, mỗi ngày mặt trời đều đi quanh chúng ta,
+Tuy nhiên, Galileo bướng bỉnh đã đúng.
+
+A. S. Pushkin. Sự chuyển động
+
+Tôi đã đọc Pushkin ở đây một lần. Anh ấy viết rất xuất sắc. Về bánh mì, về tình yêu. Về niềm kiêu hãnh...
+Và đột nhiên tôi đọc được: “Không có chuyển động…” Làm sao vậy? Chà, mọi người đều biết rằng không có công lý, nhưng không có phong trào? Nghi ngờ.
+Tôi sẽ tìm hiểu. Hóa ra 2500 năm trước có một triết gia Zelon. Và một hôm ông hỏi: “10.000 hạt là một đống, 2 hạt không phải là một đống, nhưng ranh giới ở đâu?” Chà, tự nhiên mọi người xung quanh đều xấu hổ, đáp số họ không biết. Anh ấy thông minh hơn những người khác, bạn thấy đấy! Sau đó, họ vượt qua chuyện đó và gọi trò đùa của anh ta là một sự aporia, hay một nghịch lý. Người ta thường nói kẻ ngốc có thể nghĩ ra rất nhiều câu xin lỗi mà người khôn ngoan không thể trả lời được. Cảm thấy tốt hơn.
+Nhưng Zeno không bỏ cuộc, phù hợp với điều sau - aporia sau aporia. Đặc biệt, về chuyển động: aporia của mũi tên, bức tường, Achilles.
+Hãy để mũi tên bay. Tại một thời điểm nào đó, nó là tại một thời điểm nào đó. Nếu nó ở một thời điểm nào đó, thì nó không bay. Sự mâu thuẫn. Không có chuyển động.
+Hãy để Hercules (họ có một vận động viên cử tạ như vậy) đứng cách tường một khoảng rất xa.
+
+Liệu anh có thể ở bên cô ấy ngay lập tức không? Không. Và ngay lập tức được nửa đường? Không. Và ngay lập tức được nửa đường? Không. Vì vậy, cho dù bạn có cắt nó làm đôi bao nhiêu đi chăng nữa, bạn cũng sẽ không có được con số 0 rõ ràng. Sự mâu thuẫn. Không có chuyển động.
+Đương nhiên, những người thông minh phản đối anh ta và nói rằng, bạn muốn gì ở một vận động viên cử tạ? Tất nhiên, anh ấy không tiếp thu nó nhanh chóng. Hãy nghĩ về vận động viên chạy nước rút Achilles của chúng ta, anh ấy đã chạy nhanh hơn tất cả mọi người.
+Xin hãy nói. Để anh ta vượt qua con rùa, nhưng con rùa lại đi trước, anh ta có đi không? Chúng tôi đã đồng ý. Các bạn! - nói chuyện. Khi Achilles chạy qua phần xuất phát thuận lợi này, muỗng sẽ bò dù nó muốn. Lại một sự khởi đầu thuận lợi. Hóa ra đó là một câu chuyện cổ tích về một con bò trắng. Sự mâu thuẫn. Không có chuyển động.
+Ông bày tỏ thái độ gay gắt như vậy bởi vì thời đó các triết gia có những quyền rất khắc nghiệt. Nếu điều gì đó trái ngược với logic và sự thật thì đó là không. Sự thật thậm chí còn được họ yêu quý.
+Nhưng ở thời đại chúng ta đã xuất hiện những triết gia như vậy - hãy chờ xem! Nói chung, họ nói, không có gì xảy ra mà không mâu thuẫn. Theo tôi, điều này là quá mức cần thiết. Tôi nghĩ ít nhất bạn cần phải biết gần đúng vị trí của từng lý thuyết ứng dụng. Không có lý thuyết gì cả cũng tệ.
+Tôi sẽ tìm hiểu thêm về Zeno sau. Vì vậy, sau 2200-2300 năm, Leibniz và Newoton bắt đầu dần dần chấp nhận những câu châm ngôn toán học của Zeno. Họ đã nghĩ ra phép tính vi phân và tích phân, đồng thời học cách xác định chính xác khi nào Achilles hoàn thành phần tin sốt dẻo. Chuỗi vô hạn đã học cách tính tổng, v.v.
+Tuy nhiên. Trong mọi vấn đề toán học, họ đều dựa vào lý thuyết giới hạn. Và có một nguyên tắc chính: nếu bạn có thứ gì đó vô cùng nhỏ, hãy coi nó là 0 trong giới hạn. Các bạn, điều này chỉ có nghĩa là một điều: đối với tất cả các con lừa của Zeno, hãy bỏ qua phần dưới bề mặt vật lý! Và từ aporia của mũi tên và nói chung là không rõ phải làm gì - không có toán học nào cả, chỉ có logic. Và một chút vật lý. Tất nhiên, bạn có thể gạt đi và nói rằng đây chỉ là lời nói. Nhưng các bạn! Xét cho cùng, vật lý không chỉ là toán học, trong đó cần có từ ngữ. Hơn nữa, còn có một thuật ngữ như vậy: cơ chế giải thích của một mô hình toán học.
+Tôi đến gặp anh trai tôi: anh ấy sẽ nói gì? Nói. Trước hết, hãy bỏ thuốc lá. Thứ hai, nó rõ ràng về mặt trực quan và không ai cần nó. Và thứ ba, mỗi người đều có năng suất sinh học, tức là hào quang. Hoặc có thể thậm chí không có một trong những hào quang này mà là một vài hào quang. Và với sự trợ giúp của beta và những hào quang này, bạn có thể cải thiện sức khỏe của mình và đánh giá chất lượng thực phẩm cũng như số lượng nitrat. Đây thực sự là cá nhân và những gì cần thiết. Như thế này.
+Cháu trai của Lenka cũng ủng hộ cuộc trò chuyện. Vidik nói. Và đá cứng.
+Vâng, về hào quang và đá cứng. Có lẽ. Còn Zeno thì sao?
+Và đây là điều thú vị nhất. Tôi đọc lập luận của Bohr với Einstein về nguyên lý bất định của Heisenberg và cảm thấy có gì đó giống Zeno. Các mẹ ơi, điều này cũng giống như vậy! Heisenberg đã nói như vậy: chúng ta chỉ có thể xác định tọa độ và tốc độ của một vật xảy ra đồng thời một cách gần đúng. Và tọa độ càng chính xác thì tốc độ càng kém và ngược lại. Tôi ngồi xuống và đếm. Việc tính toán còn sơ cấp, chỉ ngoài độ bất định của tọa độ và tốc độ, bạn còn cần chỉ định khối lượng của mũi tên, Hercules, Achilles và con rùa.
+Đây là công thức:
+$$\Delta x \cdot \Delta v \geq \frac{\hbar}{2m},$$
+trong đó $\hbar$ là hằng số Planck, hằng số thế giới.
+Và sau đó, bất kỳ học sinh nào cũng có thể chứng minh cho Zeno thấy mục tiêu của những câu chuyện của cậu ấy được tuyên bố ở đâu, kể từ khi cậu bước vào lĩnh vực cơ học lượng tử.
+Aporia của mũi tên phức tạp hơn một chút, nhưng cũng rõ ràng làm thế nào để đưa nó vào một dạng thuận tiện cho lời giải - để thống nhất về ý nghĩa của “Di chuyển” ($v \pm \Delta v$) và “tại một điểm nhất định” ($x \pm \Delta x$).
+(Cuối cùng xem trang 49)
