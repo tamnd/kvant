@@ -1,0 +1,34 @@
+---
+id: 1991-2-neskolko-ornamentov-po-motivam-eshera-ad1f544d
+issue: kvant_1991_2
+year: 1991
+number: "2"
+title: 几款以埃舍尔为主题的装饰品
+rubric: smes
+page_first: 47
+page_last: 47
+page_labels: "45"
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 60c9405d7d0ff3f92affc00d690520f542b7fa89a2e7bf6257e268d9f96c13cf
+prompt_sha256: draft-1
+translated_from: content/ru/1991/02/articles/15_neskolko-ornamentov-po-motivam-eshera-ad1f544d.md
+source_content_sha256: c26434f377f0407fce0b15ed65429677ad07501111fc4eefc4aaee8213ef2a1d
+translation_model: draft
+translation_run: zh-draft-2026-11-06
+translation_quality: draft
+---
+
+⟦folio 45⟧
+
+---
+running_head:
+folio:
+---
+
+装饰品
+基于
+埃舍尔
+
+著名艺术家莫里斯·埃舍尔的作品具有某种神奇的力量。 «Kvant» 反复转向他令人惊叹的、有时甚至是乡村风格的画作（例如，参见 S. Tabachnikov 的文章“埃舍尔的世界”，1990 年第 12 期）。埃舍尔的作品反映了许多数学思想。因此，它的装饰可能会让经验丰富的数学家想起晶体群。我们提供了埃舍尔主题的几种变体，由我们的读者 O. Parnasskaya 拥有。尝试用这些装饰品来满足六阶对称的想法。

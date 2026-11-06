@@ -1,0 +1,45 @@
+---
+id: 1991-5-uoker-kak-kipit-voda-40ae6ff0
+issue: kvant_1991_5
+year: 1991
+number: "5"
+title: 水如何沸腾？
+authors:
+  - Уокер Дж.
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 36
+page_last: 36
+page_labels: "34"
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 173d9ee194f6344451e50f8a2df2be4d0ac024e93c5a905dffdd4277c58f2027
+prompt_sha256: draft-1
+translated_from: content/ru/1991/05/articles/04_uoker-kak-kipit-voda-40ae6ff0.md
+source_content_sha256: adb04281c51e9064ae850d7e5e5eab04f0ce9b7ce88b4b4d9af879fa21ff913f
+translation_model: draft
+translation_run: zh-draft-2026-11-06
+translation_quality: draft
+---
+
+⟦folio 34⟧
+
+---
+running_head:
+folio:
+---
+
+J·沃克
+
+尽管它很常见，但您很可能没有注意到它所有令人惊叹的功能。其中一种在实践中不容忽视，而另一些则可以实现非常危险的把戏，这些戏法曾经被大胆的人在嘉年华上表演过。
+
+我们先从观察开始。用火焰或电热源加热一锅自来水。当水被加热时，溶解在水中的空气分子从溶液中释放出来，并聚集在锅底裂缝中的微小气泡中。 （这些区域足够小，当填充锅时，表面张力会阻止水倒入其中。）随着时间的推移，每个气泡都会膨胀，浮力也会增加。最终气泡脱离裂缝并浮到水面。由于裂缝仍然充满空气，因此另一个气泡开始在那里形成。气泡的形成表明水正在加热，但还远未沸腾。
+
+暴露在大气中的水在有时称为正常沸点$t_k$的温度下沸腾。例如，气压为 1 atm 时，$t_k = 100^\circ\text{C}$。由于锅底的水不与大气接触，因此即使加热到$t_k$几度以上，它仍然是液体。当加热和过热时，它会通过对流不断地与其余的水一起冲走（热水上升，较冷的水会将其混合）。
+
+随着锅的温度进一步升高，底层的水开始蒸发，水分子会在干燥的裂缝中聚集成小气泡。这个沸腾阶段的特点是断断续续的声音、嗡嗡声，有时还发出嗡嗡声。水几乎在歌唱，告诉我们加热是多么错误。每当一个蒸汽泡上升到较冷的水中时，它就会突然消失，因为里面的蒸汽凝结了。每次这样的消失都会产生声波——您听到的嗡嗡声。当整个水体的温度升高时，气泡要脱离裂缝并移动一部分到达水面（图1）才能消失。
+
+我们将继续发表 D. Halliday、R. Resnick 所著书中的文章。 “物理学基础”，第三版扩展版，1988 年（John Wiley & Sons，纽约）。
+
+本文由 O. Simonova 翻译。

@@ -1,0 +1,62 @@
+---
+id: 1991-1-ilichev-zabavnyie-vyiskazyivaniya-b2226701
+issue: kvant_1991_1
+year: 1991
+number: "1"
+title: 有趣的谚语
+authors:
+  - Ильичёв В. Г.
+rubric: kvant-ulybaetsya
+rubric_sub: «Квант» улыбается
+page_first: 11
+page_last: 11
+page_labels: "9"
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 3736ef20151ceb24c85c4e1d24012ec3025d98b2667e5f137aeb91adbc474f66
+prompt_sha256: draft-1
+translated_from: content/ru/1991/01/articles/05_ilichev-zabavnyie-vyiskazyivaniya-b2226701.md
+source_content_sha256: 3254eb62f8729072d660c06f5762c3c2d0c82d09447ca93f8349c9dc061c8876
+translation_model: draft
+translation_run: zh-draft-2026-11-06
+translation_quality: draft
+---
+
+⟦folio 9⟧
+
+---
+running_head:
+folio:
+---
+
+有趣的
+声明
+
+学习科学文献是攀登高山之巅的艰苦努力。因此，每一位“仁慈”的作者都认为自己有义务照顾读者的智力发展。这种“终结点”的选题是通过历史资料、奇妙的类比、妙语连珠等来暗示的。我们举几个例子，先用一个抽象的问题来介绍。
+
+1. 为什么不能说服第欧根尼搬到一栋好房子里去呢？
+
+“事实上，在任何问题上，人们都相信一个人可以以某种方式相信某件事。如果愿意，这个问题是完全没有希望的”（Tsetlin M. L. 自动机理论和生物系统建模研究，第 154 页）。
+
+2. 人们在成长过程中会玩“破手机”吗？ V.I. 证实了这一点。阿诺德.
+
+“上面考虑的定理本质上是庞加莱所知道的；A.A.安德罗诺夫数据的明确表述和证明。R.汤姆，我在 1965 年教授这个理论，开始以“E. Hotf 分岔”（Arnold V.I. 常微分方程理论附加章节，第 247 页）。
+
+3. 建立一个编写简洁电话号码的合作社是否明智？我建议这样做！
+
+“一般来说，自然语言是极其多余的。接下来，我排除后面的选择，这个骗子的可能性仍然很大”（Wetherell C. Sketches for Programming，第 63 页）。
+
+4. 上帝创造了世界，但也许世界的某些部分是由魔鬼帮助建造的！
+
+“染色体的行为就像一台计算机，将圣经中的格言“肉体是脆弱的，但精神是充满活力的”从英语（精神是健全的，但肉体是脆弱的）翻译成俄语，如下：“伏特加很烈，但肉很软”（Mednikov V.M. Aksimy 生物学，第 58 页）。
+
+5. 环面会引起辐射恐惧症吗？不排除这一点。
+
+“然而，我们注意到 LOCA 环面可以减少。elko。这一事实对于未来的热核装置非常重要”（Kosnevsky Ch. 等数拓扑基础课程，第 290 页）。
+
+6. 当作家开始写书时，他的梦想是什么？
+
+“如果读者在开始阅读这本书之前就了解这本书中包含的所有内容，那就最好了！” （Pianka E. 进化生态学，第 6 页）。
+
+V·伊尔切夫

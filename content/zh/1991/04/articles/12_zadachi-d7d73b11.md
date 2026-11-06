@@ -1,0 +1,43 @@
+---
+id: 1991-4-zadachi-d7d73b11
+issue: kvant_1991_4
+year: 1991
+number: "4"
+title: 任务
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 37
+page_last: 37
+page_labels: "35"
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: e2296a89fcf334de522cbe1f7496aca3440c76f62c5cba4ecb3d81bb7bce268d
+prompt_sha256: draft-1
+translated_from: content/ru/1991/04/articles/12_zadachi-d7d73b11.md
+source_content_sha256: 35b2e1a8fa8f5489df37876952155462510756e606e13d73262519d51099ad9e
+translation_model: draft
+translation_run: zh-draft-2026-11-06
+translation_quality: draft
+---
+
+⟦folio 35⟧
+
+---
+running_head:
+folio:
+---
+
+任务
+
+1. 四只猫——瓦斯卡、弗拉夫、巴西里奥和利奥波德——正在捕鼠。弗拉夫和利奥波德生出的老鼠数量与巴西里奥和瓦斯卡的数量一样多。瓦斯卡（Vaska）生产的老鼠比巴西利奥（Basilio）多，但瓦斯卡（Vaska）和利奥波德（Leopold）生产的老鼠比绒毛（Fluff）和巴西利奥（Basilio）少。如果绒毛生了 3 只老鼠，每只猫会生出多少只老鼠？
+
+2. 解决图所示的算术难题。相同的字母对应相同的数字，不同的字母对应不同的数字。
+
+3. 在一个等梯形中，我们从上底的顶点绘制对角线和高度（参见图）。证明黑色三角形的面积之和等于红色五边形的面积。
+
+4. 3条巴士路线经过该房屋。他们的数字都是三位数，而且都是正方形。而且，它们都写有相同的数字。巴士号码是多少？
+
+5. 棋盘上放置有 15 个棋子，因此每一横行和每一竖行中至少有一个棋子。证明可以从棋盘上移走一个棋子，使得剩余的棋子再次满足相同的要求：在每个水平行和每个垂直行中都有一个棋子。
+
+这些任务是由 S. Lyashenko、A. Alekseev、I. Nadel、A. Jafarov 和 V. Proizvolov 向我们提出的。

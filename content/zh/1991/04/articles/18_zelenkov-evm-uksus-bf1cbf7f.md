@@ -1,0 +1,53 @@
+---
+id: 1991-4-zelenkov-evm-uksus-bf1cbf7f
+issue: kvant_1991_4
+year: 1991
+number: "4"
+title: 计算机“UKSUS”
+authors:
+  - Зеленков В. И.
+rubric: kvant-ulybaetsya
+rubric_sub: «Квант» улыбается
+page_first: 57
+page_last: 57
+page_labels: "55"
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 1a7aa4dbcc263df369ba2a839c8dd854df3a3919ca79adc572f9933da5fbfaaf
+prompt_sha256: draft-1
+translated_from: content/ru/1991/04/articles/18_zelenkov-evm-uksus-bf1cbf7f.md
+source_content_sha256: d5aae632bbcafec16ce6f36245c1c7db7b0cc133d470f5bdfe5e85c49e74b058
+translation_model: draft
+translation_run: zh-draft-2026-11-06
+translation_quality: draft
+---
+
+⟦folio 55⟧
+
+---
+running_head:
+folio:
+---
+
+计算机“UKSUS”
+目前，在国内外，电力水力发电
+供应“UKSUS”型机器（计算机） - 通用设计，激发学生的稳定性
+恩塔。
+
+基于大量的实验数据，我们得到了描述这些系统运行的经验公式：F(3)=B+Γ+C，其中B是水，G是气体，C是糖浆，3是三戈比硬币。
+
+SGS 系统实验实施的理论依据。目前SI已被普遍接受，因此将开发第二位机器“UKSUS-2”，该机器将专门使用相应SI的三卢布纸币。
+
+让我们考虑一下计算机的算法和实验者的行为。
+
+首先，安装一个输出端口，它可以在“UKUSUS”类型系统中用作简单的多面
+实验室磨机。
+然后执行三戈比硬币输出语句。
+如果您还没有输入它，那么能量守恒定律需要对系统产生一些其他影响，例如，使用 BEAT 运算符，它可以位于程序中的任何位置。因此，在哥伦比亚大学的类似装置中，通常通过用左手敲击硬币兑换器来获得可口可乐。
+
+插入三戈比硬币后，“VINEGAR”开始工作，将结果（水+气体+糖浆）累积到输出端口，然后进行DRINK程序（“DRINK”）。如果发生故障 - 至少缺少一种成分（水、气体或糖浆） - 此处也应使用 BEAT 操作员。如果这没有给出所需的结果，程序将提供到不可执行语句 NICHEGO-NE-PODE-LAESH 的转换。
+
+泽连科夫
+
+55

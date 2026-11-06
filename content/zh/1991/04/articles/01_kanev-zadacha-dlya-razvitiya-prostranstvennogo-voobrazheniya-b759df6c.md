@@ -1,0 +1,51 @@
+---
+id: 1991-4-kanev-zadacha-dlya-razvitiya-prostranstvennogo-voobrazheniya-b759df6c
+issue: kvant_1991_4
+year: 1991
+number: "4"
+title: 【培养空间想象力的​​任务】
+authors:
+  - Канев В. Ф.
+rubric: smes
+page_first: 84
+page_last: 84
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: c1d396bb700b9929a587c13353a75081a182fd86fd9e9f4a2c4ecead44be1f96
+prompt_sha256: draft-1
+translated_from: content/ru/1991/04/articles/01_kanev-zadacha-dlya-razvitiya-prostranstvennogo-voobrazheniya-b759df6c.md
+source_content_sha256: b104904db587d628e8494e62d647dd7c9926ab984fd890498d55890a59a0fb12
+translation_model: draft
+translation_run: zh-draft-2026-11-06
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+---
+running_head:
+folio:
+---
+
+价格70戈比。
+指数70465
+
+这里描绘的每个图形都是两个或三个半立方体的组合（即，通过穿过中心的平面切割立方体而获得的立方体的一部分）。前三幅图是对上一期问题的回答，其中需要找到这两个部分的并集。尝试解决逆类型的问题：确定立方体的哪一半是图a）-m）的并集（所有使用的一半都显示在上一期的封面上）。
+
+V·卡佩茨
+
+4U5U6
+7U8U9
+10U11U12
+a)
+b)
+五）
+和）
+d)
+e)
+zhs)
+u)
+到）
+l)
+米）

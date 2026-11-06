@@ -1,0 +1,44 @@
+---
+id: 1991-2-skladnaya-model-shara-iz-dvuh-sistem-parallelnyih-kolets-a9c84ced
+issue: kvant_1991_2
+year: 1991
+number: "2"
+title: '[平行环两系折叠球模型]'
+rubric: smes
+page_first: 84
+page_last: 84
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: c751a4844f7ab7a4637120696d3c2af5b1852d25cd823f9b386ed91b31c189b2
+prompt_sha256: draft-1
+translated_from: content/ru/1991/02/articles/01_skladnaya-model-shara-iz-dvuh-sistem-parallelnyih-kolets-a9c84ced.md
+source_content_sha256: 5d3e3222638c7cd03fb5692509c391bd79d452832259d911a159085c0fd3ae59
+translation_model: draft
+translation_run: zh-draft-2026-11-06
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+---
+running_head:
+folio:
+---
+
+去年在«Kvant»第3期我们展示了-
+谈论如何用纸制作仓库
+马鞍形表面，并提供
+读者能否想出自己的仓库——
+纽约设计。阿列克谢·图克马科夫 来自
+加里宁格勒州斯维特利
+写了一个由两个组成的球的折叠模型
+平行圆系统。更多阅读
+如果我们替换圆圈就得到模型
+戒指，就像图 viizu 上的那样。这个型号
+不仅阅读而且同时活跃，
+而且也非常漂亮。你会看到这个
+如果你成功的话，你自己。确定时间
+措施将帮助右边的图，显示-
+沿传输线投影模型
+环平面的截面。
