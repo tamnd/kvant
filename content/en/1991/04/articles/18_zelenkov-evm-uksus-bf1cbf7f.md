@@ -1,0 +1,53 @@
+---
+id: 1991-4-zelenkov-evm-uksus-bf1cbf7f
+issue: kvant_1991_4
+year: 1991
+number: "4"
+title: COMPUTER "UKSUS"
+authors:
+  - Зеленков В. И.
+rubric: kvant-ulybaetsya
+rubric_sub: «Квант» улыбается
+page_first: 57
+page_last: 57
+page_labels: "55"
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 2d6c26099ab04ad51100c63ab4524c30624f23e9e1ee51c6843ff86b62027376
+prompt_sha256: draft-1
+translated_from: content/ru/1991/04/articles/18_zelenkov-evm-uksus-bf1cbf7f.md
+source_content_sha256: d5aae632bbcafec16ce6f36245c1c7db7b0cc133d470f5bdfe5e85c49e74b058
+translation_model: draft
+translation_run: en-draft-2026-11-06
+translation_quality: draft
+---
+
+⟦folio 55⟧
+
+---
+running_head:
+folio:
+---
+
+COMPUTER "UKSUS"
+Currently, both in our country and abroad, electric water-powered
+supplying machines (computers) of the "UKSUS" type - Universal Design, Stimulating Stability of Student
+enta.
+
+Based on numerous experimental data, we have obtained an empirical formula that describes the operation of these systems: F(3)=B+Γ+C, where B is water, G is gas, C is syrup, 3 is a three-kopeck coin.
+
+Theoretical justification for the experimental implementation of the SGS system. At present, the SI is generally accepted, so a second-position machine “UKSUS-2” will be developed, which will exclusively use the corresponding SI three-ruble notes.
+
+Let's consider the algorithm of the computer and the actions of the experimenter.
+
+First of all, an output port is installed, which can be used in a “UKUSUS” type system as a simple faceted
+laboratory mill.
+Then the three-kopeck coin output statement is executed.
+If you have not entered it, then the law of conservation of energy requires some other influence on the system, for example, the use of the BEAT operator, which can be located anywhere in the program. Thus, at a similar installation at Columbia University, Coca-Cola is usually obtained by hitting the coin changer with the left hand.
+
+After inserting a three-kopeck coin, “VINEGAR” begins to work and accumulate results (water + gas + syrup) into the output port, followed by the DRINK procedure (“DRINK”). In the event of a failure situation - at least one of the components (water, gas or syrup) is missing - the BEAT operator should be used here too. If this does not give the desired result, the program provides a transition to the non-executable statement NICHEGO-NE-PODE-LAESH.
+
+V. Zelenkov
+
+55

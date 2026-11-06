@@ -1,0 +1,48 @@
+---
+id: 1991-7-edzh-moy-anekdotariy-40254055
+issue: kvant_1991_7
+year: 1991
+number: "7"
+title: My joke
+authors:
+  - Эдж Р.
+rubric: kvant-ulybaetsya
+rubric_sub: «Квант» улыбается
+page_first: 48
+page_last: 48
+page_labels: "46"
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 38d07f9f87156a009978f049cb6752186a8c763e952995c42f72ba958571cd93
+prompt_sha256: draft-1
+translated_from: content/ru/1991/07/articles/13_edzh-moy-anekdotariy-40254055.md
+source_content_sha256: 5da9c1de4f044a8a354c6fe214ab272141c18ec975f7e6cd530eae2789f40275
+translation_model: draft
+translation_run: en-draft-2026-11-06
+translation_quality: draft
+---
+
+⟦folio 46⟧
+
+My joke
+
+The famous theorist and geophysicist Sir Harold Jeffreys was at one time a consultant to an oil company. However, he was present at a meeting in London and sat quietly in a corner while everyone was busy discussing various problems. About two hours later the discussion stopped and Sarah Harold was asked the question: “What do you think?” "I think I'll have some coffee." After the break, the specialists continued their discussions. After some time, the same question was asked again: “I think we should go to lunch,” came the answer. In the afternoon the same thing happened, only now it was time to drink tea. The meeting came to an end and Sarah Harold was asked the same question: “And now, Sir Harold, when you have dried everything to the end, what do you say about this?” “I’m glad it’s the gap and not mine,” the scientist replied.
+
+* * *
+
+Among physicists, there are also those who love practical jokes. Robert Wood was one of them. He is interested in photography and somehow wanted to use his favorite fisheye lens. But as soon as he installed the equipment, only onlookers gathered around him. Then he turned the device bright red, aimed it and rushed away as fast as he could, as if it were about to explode. The onlookers followed his example, and the device finally captured places without human figures. Another source mentions Wood and Norbert Wiener, who allegedly put a very heavy gripper in a suitcase. This gryrokop could be untwisted using a rope passed through a hole in the lid. Coming out of the varon, Wood launched the gryrokop and gave the suitcase to the researcher. Everything was going well until I suddenly turned
+
+What a fragile and unstable, at first glance, structure, like a bicycle.
+
+“And his hairstyle, he was also very well put together. It was an unknown brand, so ancient that specialists had never heard of it. The paint was peeling off, and even the rust was not visible under a layer of dirt and dust. There were almost no spokes in the wheels, but the remaining heels and sixths were enough to withstand Marten. All that was left of the wheels were the rims; when he was driving, a terrible clang of iron was heard..." (Marcel Aimé)
+
+E. Gurovich
+
+around the corner. The porter tried to follow him, and the suitcase fell on its butt, causing great remark among those approaching.
+
+* * *
+
+A remarkable story is told about Ken Grant from the University of Adeland. Using an electromagnet, he brings a large steel ball to the ceiling. During the demonstration of the experiment, the electromagnet was turned off and the ball fell into a bucket of sand placed for this purpose. Naturally, one day the students slightly pulled the bucket, and the ball fell past, leaving a significant crack in the concrete floor. The next year, Grant carefully marked with a cross the place on the floor where the ball should fall, and placed a bucket on it. For now, the students did not move the bucket, they simply erased the old crosses and drew another one not far from the first one. Grant entered the classroom, saw a cross, with a triumphant smile rearranged the bucket and... turned off the electric magnet.
+
+R. Edge

@@ -1,0 +1,47 @@
+---
+id: 1991-6-zadachi-8966fa49
+issue: kvant_1991_6
+year: 1991
+number: "6"
+title: Tasks
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 34
+page_last: 34
+page_labels: "32"
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 4f455a9569e7b7d03ca1293a4944516aafe91c7f66c8a2ddba75b19533359410
+prompt_sha256: draft-1
+translated_from: content/ru/1991/06/articles/10_zadachi-8966fa49.md
+source_content_sha256: 3961ebe21303046d12f0c60f2522e389cb6ed86a4d0aaa28ce265baf756d189d
+translation_model: draft
+translation_run: en-draft-2026-11-06
+translation_quality: draft
+---
+
+⟦folio 32⟧
+
+---
+running_head:
+folio:
+---
+
+Quests
+
+1. The stores received a ton of fruit: apples in 48 kg boxes, pears in 20 kg boxes, plums in 14 kg boxes and cherries in 10 kg boxes. At the same time, there were twice as many apples as pears, and the same number of cherries as plums. How many fruits of each type did the store receive?
+
+2. A game of checkers often ends in a draw, but can there be a draw when playing “pressure”?
+
+3. Place the numbers from 1 to 8 in the circles so that the sum of the numbers at the vertices of each blue triangle is 12, and the sum of the numbers at the vertices of the red triangle and red square is 11.
+
+4. Solve an arithmetic puzzle. Identical letters correspond to the same numbers, different ones - different ones.
+
+5. There are two batteries - one for 3 volts, and the second for 9 volts. What direction will the voltmeter show if it is connected to the plus of the first battery and to the minus of the second?
+
+These tasks were offered to us by: V. Vyon, A. Domashenko, sixth-grader Volodya Dutov, N. Antonovich and A. Savin.
+
+$$3^4 = 816^2 = 65436$$
+
+32

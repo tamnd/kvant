@@ -1,0 +1,63 @@
+---
+id: 1991-12-novyiy-nabor-v-zftsh-3e34db8a
+issue: kvant_1991_12
+year: 1991
+number: "12"
+title: New recruitment at ZFTSH
+rubric: informatsiya
+page_first: 69
+page_last: 69
+page_labels: "67"
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 7864353c1a7474fb9bad4fc1468f828d0731836589a30bf04ca8dd0d6d4a7045
+prompt_sha256: draft-1
+translated_from: content/ru/1991/12/articles/22_novyiy-nabor-v-zftsh-3e34db8a.md
+source_content_sha256: e787be6a665bed6d3620692206f50b588dbf22638150dafca1cad1891e81841e
+translation_model: draft
+translation_run: en-draft-2026-11-06
+translation_quality: draft
+---
+
+⟦folio 67⟧
+
+---
+running_head:
+folio:
+---
+
+The Correspondence Physics and Technology School (3FTSH) at the Moscow Institute of Physics and Technology (MIPT) is enrolling secondary school students located on the territory of the RSFSR in grades 9, 10 and 11 for the 1992/93 academic year.
+
+The goal of the school is to help students interested in physics and mathematics to deepen and systematize their knowledge in these subjects. When admitting to 3FTS, preference is given to students living in rural areas, working-class villages and small towns, where such assistance is especially needed.
+
+School education is free.
+
+In addition to individual students, 3FTS accepts physics and technology clubs and electives, which can be organized in any secondary school by two teachers - physics and mathematics.
+
+The leaders of a circle or elective recruit and enroll students (at least 8-10 people) who have successfully completed the introductory task of 3FTS. A group is accepted into 3FTSH if the school director reports to 3FTSH the names of its leader and a changed list of students (indicating the class in the 1992/93 academic year and completed grades for the introductory assignment in physics and mathematics). All these materials and an envelope for a response to admission to 3FTS with a return address addressed to one of the leaders of the circle or elective should be sent before May 25, 1992 to the address: 141700, Dolgoprudny, Moscow region, MIPT, 3FTS, indicating “Circle” or “Optional”. (Notebooks with student work do not need to be sent to 3FTS.) The work of the heads of correspondence physics and technology clubs and electives can be paid for by the school at the request of 3FTS at MIPT as elective classes.
+
+Students of 3FTS, the heads of physical and technical circles and electives are assessed by their supervisors.
+
+Moscow students receive classes in physics and mathematics twice a week according to the 3FTSH program at evening consultation centers in a number of Moscow schools, admission to which is carried out either based on the results of the 3FTSH introductory task, or based on the results of an interview in physics and mathematics. Inquiries by phone: 408-51-45.
+
+Each student completes the introductory assignment in physics and mathematics independently. Complete the work in Russian and carefully bind it into one school terdal. Keep the task order the same as in the assignment. Cover the notebook in a large envelope, view the postal parcel (just don’t fold it too tightly). Along with the decision, be sure to embroider a certificate from the school where the teacher is, indicating the class. Help for
+
+Sample
+
+Tula region
+Aleshin Nikolai Vasilievich ninth
+
+No. 6, st. Central 5, Aleksin, phone: 2-73-64, educational
+
+Totkal Nina Semenovna
+Tarasova Irina Anatolyevna
+
+MKShZ, stamper
+Aleksinin chemical plant, Czech No. 2, apparatus 301340, Aleksin, Tula region, st. Gornaya, 6-a, apt. 74, tel. 2-60-93
+
+No.
+
+F.
+
+M.

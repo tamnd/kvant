@@ -1,0 +1,44 @@
+---
+id: 1991-2-skladnaya-model-shara-iz-dvuh-sistem-parallelnyih-kolets-a9c84ced
+issue: kvant_1991_2
+year: 1991
+number: "2"
+title: '[Folding ball model of two systems of parallel rings]'
+rubric: smes
+page_first: 84
+page_last: 84
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 38f13dae5534cc7202490fba692737415760f98c67bbfe87d9b33b41d4672af8
+prompt_sha256: draft-1
+translated_from: content/ru/1991/02/articles/01_skladnaya-model-shara-iz-dvuh-sistem-parallelnyih-kolets-a9c84ced.md
+source_content_sha256: 5d3e3222638c7cd03fb5692509c391bd79d452832259d911a159085c0fd3ae59
+translation_model: draft
+translation_run: en-draft-2026-11-06
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+---
+running_head:
+folio:
+---
+
+Last year in «Kvant» No. 3 we dis-
+talked about how to make a warehouse out of paper
+saddle-shaped surface, and offer
+whether the reader can come up with his own warehouse-
+ny designs. Alexey Tukmakov from
+Svetly, Kaliningrad region
+wrote a folding model of a ball made of two
+systems of parallel circles. More reading
+the model is obtained if we replace the circles
+rings, like on figure viizu. This model
+not only read and at the same time active,
+but also very beautiful. You will see this
+yourself if you make it. Determine times
+measures will help figure on the right, showing-
+projecting the model along the transfer line
+sections of ring planes.

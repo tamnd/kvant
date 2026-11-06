@@ -1,0 +1,68 @@
+---
+id: 1991-11-lyashko-tihonenko-konferentsiya-v-obninske-3a5281b1
+issue: kvant_1991_11
+year: 1991
+number: "11"
+title: Conference in Obninsk
+authors:
+  - Ляшко Л.
+  - Тихоненко А.
+rubric: informatsiya
+rubric_sub: Информация
+page_first: 71
+page_last: 72
+page_labels: 69-70
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 393b50b36bf1b8bc47189e539261472af87659de51cfed99826deb00f5711a81
+prompt_sha256: draft-1
+translated_from: content/ru/1991/11/articles/24_lyashko-tihonenko-konferentsiya-v-obninske-3a5281b1.md
+source_content_sha256: 434984acdf6c9edbe17f80cc53a769312569b4c540745f8bc90f078c284f7ef9
+translation_model: draft
+translation_run: en-draft-2026-11-06
+translation_quality: draft
+---
+
+⟦folio 69⟧
+
+Conferences in Obninsk
+
+For several years now, the city of science Obninsk has been hosting scientific conferences for schoolchildren. Recently, these conferences have attracted guests from all over the country. Thus, 42 delegations from 34 cities of the Union came to the VI Obninsk student conference “Youth, Science, Culture,” which took place on April 2-6, 1991. Astrakhan, Arzamas, Barnaul, Vladikavkaz, Gorno-Altaisk, Zagorsk, Dnepropetrovsk, Ekaterinburg, Irkutsk, Shchshkar-Ola, Kaliningrad, Kaluga, Kemerovo, Kiev, Krasnodar, Kurgan, Lvov, Minsk, Moscow, Novokuznetsk, Novosibirsk, Norilsk, Obninsk are represented. Omsk, Perm, Pereslavl-Zalessky, Rostov-on-Don, Surgut, Udomlya, Ufa, Kharkov, Chamzenka, Chelyabinsk, Yakutsk.
+
+The conference program was very eventful - meetings with leading scientists, creative business games, excursions, large tables of teachers sharing work experience, etc. But the most important thing was research: mathematical, programming, physical, astronomical, chemical and others. In the schoolchildren section you
+
+⟦folio 70⟧
+
+---
+running_head:
+folio:
+---
+
+presented reports on the results of their research work.
+
+The topics of the reports were varied and quite interesting. For example, at the mathematical section, the reports of Obinsk students from the Physics and Technology School at the IATE and the person “Spiritual Revival”, carried out under the guidance of R.V. Plykin, Doctor of Physical and Mathematical Sciences, Professor of the IATE, President of the Obinsk NOU, aroused interest. These are reports by 10th grade students S. Gorpinchin “On the implementation of finite ultrametric spaces in Lobachevsky space”, R. Getmansky “Solving the equation of 3rd and 4th degree and the problem of V.I. Arnold”, A. Izotov “On equivalence and equivalence” and others.
+
+Among the guests’ reports, the works of S. Vakhmetev (Novosibirsk, UC - Physics and Mathematics School NSU) “Albert’s Problem”, Y. Oliyarik (Lvov, s.sh. No. 2) “study of the central limit theorem and verification of the law of large numbers”, D. Kudryavtsev (Novokuznetsk, s.sh. No. 44) “Transformation of coordinate systems associated with various crystallographic planes of the crystal”, etc. were noted. d.
+
+According to established tradition, the best works of schoolchildren are published in the collection of works of the Obinsk Scientific Society of Students, which, together with the center for scientific and technical creativity of students “Eureka” in Obinsk, is the main organizer of scientific conferences.
+
+It should be noted that the strongest works are presented by students from specialized schools or classes, whose teachers or scientific supervisors are, as a rule, university teachers or research workers at research institutes.
+
+Most of the works presented at the physics section of the conference were also of a creative, research nature. These were reports on the theory of relativity, nuclear physics, solid state physics, plasma physics, other areas of experimental and theoretical physics, as well as on methods of teaching physics.
+
+As a result of the work of this section, the works of students of the FTSHI at the IATE (Obinsk) K. Khazanov “Spatial-temporal characteristics in the extended relative theory”, T. Sapunova “Observable characteristics of bodies moving with relativistic speeds”, A. Timoshin “The influence of the effectiveness of relativistic thermodynamics on the movement of bodies”, A. Ivanova “Effect of muon capture in the reaction of cold thermode synthesis", as well as S. Kiseleva (Dnepropetrovsk) "study of the temperature characteristics of the electronic component of low-temperature plasma of acetylene-oxygen flame", D. Korotkova (Astrakhan) "study of domain structures of magnetic films of ferrite garnets", D. Suyatin (Kurgan, s.sh. No. 4) "Borate laser glasses", A. Redko (Novokuznetsk, s.sh. No. 44) “Some patterns in the vibrational structure of the emission and absorption spectra of benzophenol.”
+
+Summarizing the opinion of all conference participants, we express our hope that the tradition of holding Obinsk student conferences “Youth, Science, Culture” will be continued, especially since foreign delegations have expressed a desire to take part in the conference.
+
+L. Lyashko, deputy Director of the Center of National Technical University "Eureka", A. Tikhonenko, head of the physics section
+
+Dear readers!
+
+Let us remind you,
+that the magazine «Kvant» is distributed only by subscription.
+Subscriptions are accepted without restrictions at all Soyuzpechat agencies, post offices and post offices.
+You can subscribe to our magazine starting from any issue, but you need to subscribe before the first day of the order.
+
+Index «Kvant» in the Soyuzpechat catalog 70465,
+chena single zone number 1 r. 10 k.

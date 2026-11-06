@@ -1,0 +1,72 @@
+---
+id: 1991-7-gik-rekordyi-rekordyi-e5d965ca
+issue: kvant_1991_7
+year: 1991
+number: "7"
+title: Records, records...
+authors:
+  - Гик Е. Я.
+rubric: shahmatnaya-stranichka
+rubric_sub: Шахматы
+page_first: 83
+page_last: 83
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 36ee659a1552b4a6b55d78e51aaa31ccf19eb3b4eb32c52df32d4449e577c72e
+prompt_sha256: draft-1
+translated_from: content/ru/1991/07/articles/02_gik-rekordyi-rekordyi-e5d965ca.md
+source_content_sha256: c1b08d4ac403551c46cb0407aa3ec14cd9f63833ad577242948d73253a5792bc
+translation_model: draft
+translation_run: en-draft-2026-11-06
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+---
+running_head:
+folio:
+---
+
+RECORDS, RECORDS...
+
+Chess mail «Kvant» is great, and every time you start to analyze it, you find a lot of interesting ideas, proposals, records... Distance is the next portion of record positions.
+
+The fastest checkmate, provided that both sides strive for this and, moreover, make moves above the line, was invented by N. Zharkov from Rostov. 1. Kf3 Kf6. According to the Pythagorean theorem, a knight's move is longer than a pawn's move two squares forward. 2. Kd4 Kd5. 3. Ke6 Kf4 4. K:f8 Kg6 5. Ke6 Kf8 6. K:g7×. The solution, of course, allows for various permutations of moves.
+
+If you forbid the knights to checkmate, then you will have to show more ingenuity. This is what B. Zaitsev from Morozovsk suggested. 1. Kf3 Kf6 2. Kg5 Kd5 3. K:h7 Kb6 4. K:f8 R:h2 5. Ke6 Rh8 6. R:h8×.
+
+I. Vereshchagin from the Moscow region also delivered the fastest mat, but on the condition that the moves were more complex. 1. e3 a6 2. e4 a5 3. Kre2 a4 4. Kre3 a3 5. Kpf3 e6 6. Kpf4 e5+ 7. Kpf5 d6×. Kings and pawns moved one square in a straight line; there are no shorter moves. I wonder if black can get mat just as quickly?
+
+I. Vereshchagin sent us another interesting position.
+
+Who gives more swear words?
+
+Let's make a calculation. Everyone that White has 4 ways to place mat (C:c7×, J:c6×, Kc4×, Kb7×), and Black has 5 (Kfg3×, Kf2×, Khg3×, d2×, f2×). So, transfer to Black's side? Not at all.
+
+If you carefully look at the diagram, you will notice that there are nine black pawns on the board, together 8, and therefore one of them should be removed. In this case, no matter which pawn is removed from the board, a mating position will arise. As a result, the score is already in White's favor: 5 times they give mat and 4 times for Black. All swearing is legal.
+
+V. Khutornoy from Tver is the author of many original problems, here is his new invention. Place black and white pieces on the board as if you were going to play a game with someone. Now tell me, how many different positions are there that can precede this one?
+
+It is clear that the white and black knights maneuver freely around the board (some of the rooks also use the free space), and then return home safely. A close count shows that there are a total of 22,709,863 different positions from which the original arrangement of pieces could arise. If you don't believe me, check it out for yourself!
+
+A rather interesting problem was invented by P. Sotnikov from Bugulma.
+
+Reverse checkmate in 4 moves
+
+Let us recall that such a task introduces how White forces Black to give mat, although Black does not strive for this. 1. Kb2+ Kpe1 2. Kcd3+ K:d3 3. Ra1+ Kc1 4. Cg2. And what do we see now? Black has 7 queen moves, 1 rook move, 1 bishop move, 1 knight move, and 2 pawn moves. There are only 12 moves, and each of them mates! A rare case of pugwang in the reverse mat problem.
+
+The famous chess composer P. Tavarini (Tbilisi) sent his puzzle especially for «Kvant». Place 16 pieces of the same color (full set) on the board so that, firstly, they do not defend each other, and, secondly, 9 empty squares are not attacked by pieces.
+
+This position meets the general requirements. The fields a1, a3, a5, c 3, f1, f2, g1, h1, h2 are not attacked here. And here is another position invented by the author: Kph4, Qc8, Rd3, Re5, Ca4, Cb4, Kb1, Kg1, etc. a2, b2, f2, f7, g2, g7, h2, h7. Squares a1, a7, b6, f1, f4, f6, g6, h1, h6 are not attacked.
+
+Maybe readers will be able to break this record by increasing the number of unattacked fields!?
+
+At one time, we published on the “chess page” many problems on the theme “everything is in place” - in the initial position of the white piece being on its original squares. V. Aleksandrov from Ivanovo came up with a position in which the white pieces occupy their original places not only at the beginning of the game, but also at the end!
+
+Checkmate in 4 moves
+
+1. Qd7! Threats 2. Bg2×. 1...Kpf3 2. Qd5+ e4 (2...Kpg3 3. Qg2+ Kph4 4. Qh2×) 3. Qd4. Now 4. Qe3, Qf2× threatens. 3...g3 4. Qd1×!
+
+E. Gik

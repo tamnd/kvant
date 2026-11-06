@@ -1,0 +1,60 @@
+---
+id: 1991-4-byistroe-chtenie-dlya-vseh-11f43f95
+issue: kvant_1991_4
+year: 1991
+number: "4"
+title: Quick reading for everyone
+rubric: osnovnye-stati
+page_first: 21
+page_last: 21
+page_labels: "19"
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 5367546e19d66ee7cfb55d9680464e14777635691abdc48924b8ccafc956df64
+prompt_sha256: draft-1
+translated_from: content/ru/1991/04/articles/07_byistroe-chtenie-dlya-vseh-11f43f95.md
+source_content_sha256: 9822c108f7e6f6b6cb543720d691ba9d9bd27ab57bff55aaf49ff86a6d422214
+translation_model: draft
+translation_run: en-draft-2026-11-06
+translation_quality: draft
+---
+
+⟦folio 19⟧
+
+---
+running_head:
+folio:
+---
+
+Quick Read
+for everyone
+
+If you want to keep up with the times
+and will not drown in the flow of information,
+you need to learn to read quickly.
+It will help you with this
+ALL-UNION CENTER FOR TRAINING FAST TECHNIQUES
+READINGS,
+which announces the next
+recruitment of employees for correspondence courses.
+
+It will help you develop your attention, memory, and intuition.
+a unique system that has no analogues in the world
+"FAST READING TECHNIQUE"
+
+The technique guarantees a 5-fold increase in reading speed and a significant increase in the quality of reading conditions. Each case receives the only textbook in the country, “Speed ​​Reading Techniques,” and teaching aids. Additionally, sound training sems of autogenic training are sent.
+
+Anyone over 15 years of age is welcome. Upon completion of the courses, diplomas are issued. The classes will be introduced by one of the authors of the textbook “Fast Reading Techniques,” Candidate of Technical Sciences O. A. Andreev.
+Tuition fees are transferred only after receiving a special application form from us. Detailed training conditions and application forms will be sent upon request.
+
+Don't forget to include an envelope in your letter
+with your home address.
+
+Course address: 125047, Moscow, 1st Brestskaya street, building 50.
+Phone: 251-99-47.
+Phone numbers of the departments of the Veseyuz Technical Speed ​​Reading Training Center:
+Kyiv - 440-60-81,
+Leningrad - 210-49-52,
+Rostov-on-Don - 32-35-05,
+Sverdlovsk - 51-62-98.

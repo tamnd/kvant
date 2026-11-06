@@ -1,0 +1,90 @@
+---
+id: 1991-11-valdman-elementarnoe-dokazatelstvo-neravenstva-shapiro-v-chastnyih-sluchayah-b6bd8c2f
+issue: kvant_1991_11
+year: 1991
+number: "11"
+title: '[Elementary proof of Shapiro''s inequality in special cases]'
+authors:
+  - Вальдман И.
+rubric: nam-pishut
+rubric_sub: Нам пишут
+page_first: 32
+page_last: 33
+page_labels: 30-31
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 3d7f97ef085d2a70d40ebf5ef901b40af217f24d49d7018784a5ccec98be3529
+prompt_sha256: draft-1
+translated_from: content/ru/1991/11/articles/09_valdman-elementarnoe-dokazatelstvo-neravenstva-shapiro-v-chastnyih-sluchayah-b6bd8c2f.md
+source_content_sha256: d53d4bb8e35a5633726d57c592740f55d1053358ce23f092345cb1e96f4552bf
+translation_model: draft
+translation_run: en-draft-2026-11-06
+translation_quality: draft
+---
+
+⟦folio 30⟧
+
+---
+running_head:
+folio:
+---
+
+Competition "Mathematics 6-8"
+
+The magazine «Kvant» continues a competition on solving mathematical problems for students in grades 6–8. The competition consists of 24 problems (3 in each issue) and will end in April next year. The winners will be awarded prizes from the magazine «Kvant».
+Send the solution to the problem from this issue no later than February 1, 1992 to the address: 103006, Moscow K-6, st. Gorky, 32/1, «Kvant» (marked “Competition “Mathematics 6-8”). Don't forget to include your last name, first name, school and class.
+
+TASKS
+
+7. The number 1.5 is interesting because it is 4 times less than the sum of its digits. Find a number that is 8 times less than the sum of its digits.
+
+M. Varda
+
+8. Cuts were made on a sheet of paper size 3x4 so that it did not burn, but it became possible to paste over the cube.
+
+1x1x1 in two layers. How to do this?
+
+B. Provozvolov
+
+9. Three schoolchildren, each of whom had several paper rubles, approached an ice cream kiosk. Petya, who has the least of all - only 1 ruble - took two servings and left. The other two decided to buy as much ice cream as possible. It turned out that Kolya could buy 6 servings, and Vasya could buy 11 servings. If they added up their capital, they would still not have enough for 18 portions. How much does a serving of ice cream cost at this kiosk?
+
+I. Akkulch
+
+With great interest I read the article “The History of One Inequality” by L. Kurlyandik and A. Faibusovich in the magazine «Kvant» No. 4 for 1991. I want to talk about how you can use elements of calculation to prove Shapro's inequality for n=3, 4, 5 and 6.
+
+In one of the recent issues of the magazine “Biopcel” (a monthly mathematical magazine extended to qualified schoolchildren and senior students), we proposed Shapro’s inequality for n = 4 as a “prize problem”. Our reader Kristan Wei from Neustad-
+
+Dosset solved it as follows. Let's look at $a_i = \sqrt{\frac{x_i}{x_{i+1} + x_{i+2}}}$ and $b_i = \sqrt{x_i(x_{i+1} + x_{i+2})}$. Applying Cauchy's inequality to them, we get
+
+$(\Sigma x_i)^2 \leqslant (\Sigma \frac{x_i}{x_{i+1} + x_{i+2}}) \times (\Sigma x_i(x_{i+1} + x_{i+2}))$. (1)
+
+Now it is enough to show that
+
+$\frac{n}{2} \Sigma x_i(x_{i+1} + x_{i+2}) \leqslant (\Sigma x_i)^2$. (2)
+
+For n=4 this is a simple reformulation of the inequality
+
+$(x_1 - x_3)^2 + (x_2 - x_4)^2 \geqslant 0$.
+
+Later I discovered that this method also works for n=3 and n=5 (with trivial changes in calculations) and even for n=6. In the latter case I used the inequality
+
+$\Sigma(x_i - x_{i+1} + x_{i+3} - x_{i+4})^2 \geqslant 0$, (3)
+
+from which inequality (2) follows.
+
+I hope this observation will interest you, as I have not found it in the literature available to me. However, inequalities (1) and (2) cannot be useful for n>6, since in this case inequality (2), very indo, does not hold.
+
+Nohannes Waldmann, member of the editorial board of the Biopzel magazine, Jena, Germany
+
+⟦folio 31⟧
+
+---
+running_head:
+folio:
+---
+
+Physics 9, 10, 11
+
+The note “While the water is evaporating...” published below is intended for tenth graders, the note “How to emit radiovolts?” - the same as the classics.
+We also publish “Selected school problems in physics.”

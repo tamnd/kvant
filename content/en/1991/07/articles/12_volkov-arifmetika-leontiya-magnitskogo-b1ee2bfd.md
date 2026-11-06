@@ -1,0 +1,55 @@
+---
+id: 1991-7-volkov-arifmetika-leontiya-magnitskogo-b1ee2bfd
+issue: kvant_1991_7
+year: 1991
+number: "7"
+title: Arithmetic by Leonty Magnitsky
+authors:
+  - Волков А. М.
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 45
+page_last: 45
+page_labels: "43"
+lang: en
+source: kvant_digital
+extraction: vision
+content_sha256: 21caca56f8f9ac513fa11821887c954bad9344f9cc6fae17a8ca4bc2f766ffee
+prompt_sha256: draft-1
+translated_from: content/ru/1991/07/articles/12_volkov-arifmetika-leontiya-magnitskogo-b1ee2bfd.md
+source_content_sha256: 4ec63280704f4251a222a5f756f765d038b8bb8e3c9b959383d1b8305e6a8348
+translation_model: draft
+translation_run: en-draft-2026-11-06
+translation_quality: draft
+---
+
+⟦folio 43⟧
+
+---
+running_head:
+folio:
+---
+
+ARITHMETIC
+LEONTY MAGNITSKY
+
+A. VOLKOV
+
+What would you say, reader, if you had to go to school every day with textbooks weighing two to three kilograms each? You would probably wish that it was hard for you - and not figuratively, but in the literal sense of the word. So sympathize with the schoolchildren of the 18th century who actually had to carry such books.
+
+Matnitsky's arithmetic textbook was a huge volume, printed in weak font, bound in durable leather, and it weighed 6-7 feet! Here is the abbreviated title of this book:
+
+“Arithmetic, the science of numbers. It was translated from different dialects into the Slavic language, collected into one, and divided into two books. Now, by the command of our great Sovereign Peter Alekseevich, in the richly saved karstvosh city of Moscow, typographical embossing for the sake of teaching wisdom-loving Russian postcards, and of all ranks and ages of people has been brought into the world, easily from the cooperation of the world 7211.”
+
+The author's name is placed in small letters in the frame surrounding the title page, and not everyone will see it right away!
+
+Student information has been preserved about the life of the first Russian mathematician Leonty Filippovich Matnitsky. Nothing is known about its origin. He taught at the Moscow Slave-Greek-Latin Academy from 1686 to 1694, and subsequently was a teacher at the school of mathematical and navigational sciences in Moscow. Matnitsky wrote his famous textbook at the very end of the 17th and beginning of the 18th centuries, and the book was printed from February 2, 1701 to January 1, 1702. During printing, the author received “feed money” of 5 altins (1 altin = 3 kopecks) per day (these were the author’s horopairs in those days!) and for the entire time he received 49 rubles 31 altins and 4 money (49 rubles 95 kopecks). Subsequently, however, Matnitsky was better loaded for his work on education: the tsar awarded him villages in Vladimir and Tambov provinces, and a house on Lubyanka was allocated to him. Matnitsky was buried in the Church of the Grebenskaya Bogorodtsy at the Nikolsky Gate; his grave was found during the construction of the first stage of the Moscow metro.
+
+Matnitsky's work is an entire encyclopedia of mathematical and natural historical knowledge of that era. The author included in his book arithmetic, algebra, information on astronomy, navigation, physical geography, and geodesy. The main idea runs through the entire book: the study of natural phenomena using numbers and measures.
+
+Matnitsky’s work was, of course, not independent, compiled from foreign sources; the author himself reports that he used Greek, Latin, German and Italian books. But, adapting the material to the interests and understanding of the Russian reader, he added a lot of his own:
+
+How much I invent them,
+In decent places upon arrival.
+
+The influence of foreign compilers on Russian textbook compilers is clearly felt even in terminology. Almost all mathematical operations and transformations bore double names - Russian and
