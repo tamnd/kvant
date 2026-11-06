@@ -1,0 +1,53 @@
+---
+id: 1991-10-aleshin-k-resheniyu-zadachi-f1277-5ffc3d20
+issue: kvant_1991_10
+year: 1991
+number: "10"
+title: '[K lời giải bài toán F1277]'
+authors:
+  - Алешин И.
+rubric: nam-pishut
+rubric_sub: Нам пишут
+page_first: 49
+page_last: 49
+page_labels: "47"
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 465e1aeb84112298c5f991634923dda40c68314287718e959b8afc7145e40d13
+prompt_sha256: draft-1
+translated_from: content/ru/1991/10/articles/14_aleshin-k-resheniyu-zadachi-f1277-5ffc3d20.md
+source_content_sha256: 9d189d13caecc6450eb94022a8646ed8df25887dba99d3f624dbac176e4bab3a
+translation_model: draft
+translation_run: vi-draft-gaps-2026-11-06
+translation_quality: draft
+---
+
+⟦folio 47⟧
+
+---
+running_head:
+folio:
+---
+
+yah ring, “thiết lập” các chuyển động và các chuyển động bên trong của nó, các dòng chảy thứ cấp do ranh giới bên gây ra cũng đóng một vai trò cơ bản. Từ quan điểm của một người thử nghiệm đủ trình độ, ở đây có nhiều câu hỏi hơn đáp số. Và từ góc nhìn của những người không có tay nghề, nó đơn giản là đẹp...
+
+Naimplicu
+
+Trong số thứ sáu của Quat, lời giải bài toán F1277 đã được xuất bản, hướng dẫn cách tìm vị trí khối tâm của một hình bán nguyệt dây bằng cách sử dụng các thông điệp năng lượng. Kết quả tương tự có thể thu được khá đơn giản bằng một phương pháp vật lý khác - sử dụng chuyển động quay động.
+
+Đầu tiên, chúng ta lấy toàn bộ một sợi dây có khối lượng $m$ và quay nó quanh trục $O$ đến vận tốc góc $\omega$. Hãy tìm lực căng của dây $F$ bằng cách viết định luật Newton cho một phần tử nhỏ của dây tương ứng với góc ở tâm $\alpha$:
+
+$$F\alpha = \frac{m\alpha}{2\pi}\omega^2R \Rightarrow F = \frac{m\omega^2R}{2\pi},$$
+
+trong đó $R$ là bán kính của vòng tròn.
+
+Bây giờ chúng ta hãy viết định luật Newton cho hình bán nguyệt. Lưu ý rằng khối tâm của nó chuyển động theo một đường tròn có bán kính $l_\pi$ ($l_\pi$ là khoảng cách mong muốn từ khối tâm của dây đến tâm của nó), do đó chứng minh
+
+$$2F = \frac{m}{2}\omega^2l_\pi.$$
+
+Từ đây, thay biểu thức cho $F$, ta tìm được
+
+$$l_\pi = \frac{2R}{\pi}.$$
+
+I. Aleshin

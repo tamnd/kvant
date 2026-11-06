@@ -1,0 +1,90 @@
+---
+id: 1991-11-valdman-elementarnoe-dokazatelstvo-neravenstva-shapiro-v-chastnyih-sluchayah-b6bd8c2f
+issue: kvant_1991_11
+year: 1991
+number: "11"
+title: '[Chứng minh cơ bản về bất đẳng thức Shapiro trong trường hợp đặc biệt]'
+authors:
+  - Вальдман И.
+rubric: nam-pishut
+rubric_sub: Нам пишут
+page_first: 32
+page_last: 33
+page_labels: 30-31
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 2c4d501f98c3389b1f1eb110c8f749e49a3848d8b4a0ebc4d2c2fabea75f2f6f
+prompt_sha256: draft-1
+translated_from: content/ru/1991/11/articles/09_valdman-elementarnoe-dokazatelstvo-neravenstva-shapiro-v-chastnyih-sluchayah-b6bd8c2f.md
+source_content_sha256: d53d4bb8e35a5633726d57c592740f55d1053358ce23f092345cb1e96f4552bf
+translation_model: draft
+translation_run: vi-draft-gaps-2026-11-06
+translation_quality: draft
+---
+
+⟦folio 30⟧
+
+---
+running_head:
+folio:
+---
+
+Cuộc thi "Toán 6-8"
+
+Tạp chí «Kvant» tiếp tục cuộc thi về môn toán lời giải bài toán dành cho học sinh lớp 6–8. Cuộc thi bao gồm 24 bài toán (3 trong mỗi số) và sẽ kết thúc vào tháng 4 năm sau. Người chiến thắng sẽ được trao giải thưởng từ tạp chí «Kvant».
+Gửi Lời giải bài toán từ số này không muộn hơn ngày 1 tháng 2 năm 1992 đến địa chỉ: 103006, Moscow K-6, st. Gorky, 32/1, «Kvant» (được chấm “Cuộc thi “Toán 6-8”). Đừng quên ghi họ, tên, trường và lớp của bạn.
+
+NHIỆM VỤ
+
+7. Số 1,5 thú vị vì nó nhỏ hơn tổng các chữ số của nó 4 lần. Tìm một số nhỏ hơn tổng các chữ số của nó 8 lần.
+
+M. Varda
+
+8. Các vết cắt được thực hiện trên một tờ giấy cỡ 3x4 để nó không bị cháy nhưng có thể dán lên hình lập phương.
+
+1x1x1 thành hai lớp. Làm thế nào để làm điều này?
+
+B. Provozvolov
+
+9. Ba học sinh, mỗi đứa có vài đồng rúp giấy, tiến đến một quầy kem. Petya, người có ít nhất - chỉ 1 rúp - lấy hai phần ăn và rời đi. Hai người còn lại quyết định mua càng nhiều kem càng tốt. Hóa ra Kolya có thể mua được 6 phần ăn, còn Vasya có thể mua được 11 phần ăn. Nếu cộng vốn lại, họ vẫn không đủ 18 phần. Giá một phần kem ở ki-ốt này là bao nhiêu?
+
+I. Akkulch
+
+Tôi rất thích thú đọc bài báo “Lịch sử của một bất bình đẳng” của L. Kurlyandik và A. Faibusovich trên tạp chí «Kvant» Số 4 năm 1991. Tôi muốn nói về cách bạn có thể sử dụng các yếu tố tính toán để chứng minh bất đẳng thức Shapro cho n=3, 4, 5 và 6.
+
+Trong một trong những số gần đây của tạp chí “Biopcel” (tạp chí toán học hàng tháng dành cho học sinh đã qua đào tạo và học sinh cuối cấp), chúng tôi đã đề xuất bất đẳng thức Shapro cho n=4 là “bài toán cho giải thưởng”. Độc giả của chúng tôi Kristan Wei từ Neustad-
+
+Dosset đã giải quyết nó như sau. Hãy nhìn vào $a_i = \sqrt{\frac{x_i}{x_{i+1} + x_{i+2}}}$ và $b_i = \sqrt{x_i(x_{i+1} + x_{i+2})}$. Áp dụng bất đẳng thức Cauchy cho chúng ta có
+
+$(\Sigma x_i)^2 \leqslant (\Sigma \frac{x_i}{x_{i+1} + x_{i+2}}) \times (\Sigma x_i(x_{i+1} + x_{i+2}))$. (1)
+
+Bây giờ đã đủ để chứng minh điều đó
+
+$\frac{n}{2} \Sigma x_i(x_{i+1} + x_{i+2}) \leqslant (\Sigma x_i)^2$. (2)
+
+Với n=4 đây là một cách tái phát triển đơn giản của bất đẳng thức
+
+$(x_1 - x_3)^2 + (x_2 - x_4)^2 \geqslant 0$.
+
+Sau này tôi phát hiện ra rằng phương pháp này cũng áp dụng được với n=3 và n=5 (với những thay đổi nhỏ trong tính toán) và thậm chí cả với n=6. Trong trường hợp sau tôi đã sử dụng bất đẳng thức
+
+$\Sigma(x_i - x_{i+1} + x_{i+3} - x_{i+4})^2 \geqslant 0$, (3)
+
+từ đó dẫn đến bất đẳng thức (2).
+
+Tôi hy vọng nhận xét này sẽ khiến bạn quan tâm vì tôi chưa tìm thấy nó trong các tài liệu sẵn có. Tuy nhiên, bất đẳng thức (1) và (2) không thể hữu ích với n>6, vì trong trường hợp này bất đẳng thức (2), rất indo, không đúng.
+
+Nohannes Waldmann, thành viên ban biên tập tạp chí Biopzel, Jena, Đức
+
+⟦folio 31⟧
+
+---
+running_head:
+folio:
+---
+
+Vật lý 9, 10, 11
+
+Ghi chú “Trong khi nước đang bốc hơi…” được công bố dưới đây dành cho học sinh lớp 10, ghi chú “Làm thế nào để phát ra vôn phóng xạ?” - giống như kinh điển.
+Chúng tôi cũng xuất bản “Trường chọn lọc bài toán về vật lý”.

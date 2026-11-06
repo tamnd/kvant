@@ -1,0 +1,45 @@
+---
+id: 1991-11-zadachi-a38db2b1
+issue: kvant_1991_11
+year: 1991
+number: "11"
+title: Bài toán
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 29
+page_last: 29
+page_labels: "27"
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: a8a5a5d7aa8285182adf2d66c18d8c9b374155a0d3dfaddb36323796271029e1
+prompt_sha256: draft-1
+translated_from: content/ru/1991/11/articles/07_zadachi-a38db2b1.md
+source_content_sha256: d92daf6b36fc05f81b463f3b779466067777921e5862662889522a7f3d9da41c
+translation_model: draft
+translation_run: vi-draft-gaps-2026-11-06
+translation_quality: draft
+---
+
+⟦folio 27⟧
+
+---
+running_head:
+folio:
+---
+
+Bài tập
+
+1. Một số số có ba chữ số bao gồm các số khác nhau theo thứ tự tăng dần và trong tên của nó, tất cả các từ đều bắt đầu bằng cùng một chữ cái. Ngược lại, một số có ba chữ số khác bao gồm các chữ số giống nhau, nhưng trong tên của nó, tất cả các từ đều bắt đầu bằng các chữ cái khác nhau. Tìm những con số này.
+
+2. Có 6 số được viết trên các cạnh của khối lập phương. Những số không hiển thị trên hình là số nguyên tố. Đây là những số nào nếu biết tổng các số trên mỗi ô của các mặt đối diện bằng nhau?
+
+3. Một số người chơi cờ đã chơi cờ trong công viên suốt cả ngày. Vì chỉ có một bộ cờ nên họ thiết lập thứ tự chơi như sau: người thắng ván tiếp theo bỏ qua hai ván tiếp theo, và người thua bỏ qua bốn ván tiếp theo. Có bao nhiêu người chơi cờ nếu quy tắc sự kiện này thành công? (Trường hợp hòa, người chơi quân trắng là người thua cuộc.)
+
+4. Nếu trong một số từ, bạn thay thế các chữ cái bằng số của các chữ cái này trong bảng chữ cái, bạn sẽ nhận được số 222122111121. Đây là từ gì?
+
+5. Trong hình ngũ giác lồi ABCDE, các góc ABC và CDE bằng 90°, các cạnh BC, CD và AE bằng 1, tổng các cạnh AB và DE bằng 1. Chứng minh rằng diện tích của hình ngũ giác bằng 1.
+
+Những nhiệm vụ này được đề xuất cho chúng tôi bởi I. Akulich, N. Antonovich, S. Tokarev, Kh. Akhmedov và V. Proizvolov.
+
+3*

@@ -1,0 +1,41 @@
+---
+id: 1991-1-spisok-chitateley-prislavshih-pravilnyie-resheniya-217abd43
+issue: kvant_1991_1
+year: 1991
+number: "1"
+title: Danh sách độc giả gửi đúng lời giải
+rubric: zadachnik-kvanta
+rubric_sub: Задачник «Кванта»
+page_first: 31
+page_last: 31
+page_labels: "29"
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 094e243efd265b96987e7e18895c03e6a52f6f4dded35b399996b84c7b9b0f7d
+prompt_sha256: draft-1
+translated_from: content/ru/1991/01/articles/09_spisok-chitateley-prislavshih-pravilnyie-resheniya-217abd43.md
+source_content_sha256: 11174a918c075738774cb1f62e84602f7c71185cc4fa2a543b1b8f8e1e7d74b9
+translation_model: draft
+translation_run: vi-draft-gaps-2026-11-06
+translation_quality: draft
+---
+
+⟦folio 29⟧
+
+---
+running_head:
+folio:
+---
+
+Danh sách độc giả gửi đúng lời giải
+
+Hầu hết độc giả gửi lời giải bài toán M1216—M1230, F1223—F1237 đã hoàn thành các bài toán M1216, M1217, M1221, M1226, F1226. Dưới đây chúng tôi công bố họ của những người đã thêm đúng lời giải trong số bài toán còn lại (các số sau họ là chữ số cuối cùng của các số đã giải bài toán).
+
+Toán học
+
+P. Andreeva (làng Chernogolovka, vùng Moscow) 18, 24; D. Andreenko (Kyiv) 18, 22—24, 29; B. Argasov (Kyiv) 18; A. Akhmedov (Baku) 22-25, 28-30; A. Akhunova (Moscow) 29; Yu. Beluos (Nzhkiy Tagil) 22-25, 28-30; V. Beluos (Tikhvin) 28, 29; A. Beniaminov (Moscow) 24; L. Berkovich (Kyiv) 18; A. Bobkov (Balakovo) 22, 25; A. Borodin (Donetsk) 22-25, 28-30; V. Brink (Donetsk) 18, 19, 22—24, 29, 30; A. Burkov (Kirov) 22, 23; I. Busucoa (Moscow) 24; S. Vasilkovich (Kyiv) 18, 28, 30; M. Voloshina (Moscow) 30; K. Volshchenko (Donetsk) 18, 19, 22-25, 27-30; O. Gaidai (Lviv) 24; M. Gelband (Odessa) 18, 19, 22-25, 28-30; S. Getun (Kyiv) 18, 22-25, 28-30; S. Gnedkov (làng Palatka, vùng Magadan) 23; S. Golubchik (Kharkov) 30; A. Gordicenko (làng Rogan, vùng Kharkov) 24, 28, 29; S. Gudenko (Pavlograd) 23, 24; E. Davidzhan (Velorechensk) 23, 24; A. Davydov (làng Elfimovo, vùng Gorky) 29; A. Dnestransky (Ryazan) 27-30; I. Edorova (Leningrad) 20; F. Enkeeva (Tashkent) 22; A. Ermoshko (Orsha) 24; D. Zhalkovsky (Donetsk) 23, 24, 30; A. Zhellov (Moscow) 18, 19; Yu. Zabelshinsky (Kharkov) 23, 24; K. Zarkov (Minsk) 22—24, 29, 30; A. Zimin (Ivanovo) 18, 23; A. Zener (Moscow) 22, 23, 30; S. Zlotnikov (Gomel) 22; M. Ivanov (Tula) 29, 30; I. Izmestsev (làng Suna, vùng Kirov) 18, 19, 22-25, 28-30; A. Iones (Leningrad) 24; T. Kalita (Kyiv) 24, 28, 29; G. Kaminsky (Kyiv) 18, 23, 24; I. Katsman (Kyiv) 18; S. Kovatsenko (Vinnitsa) 18-20, 22-25, 28-30; P. Kozhevnikov (Kaluga) 22-24, 30; A. Kozachko (Vinnitsa) 18-20, 22-25, 28-30; M. Kopinkov (Moscow) 24, 30; A. Kornienko (Dnepropetrovsk) 22-25, 28-30; A. Kornilov (Rostov-on-Don) 29; S. Korsak (khu định cư Suvorovo, Moldova) 28, 30; A. Kogov (Odesca) 29; Yu. Kravitsky (Novosibirsk) 28; A. Kudryavtseva (Kyiv) 18, 20, 22, 24, 25, 29, 30; I. Kuznetsova (Novosibirsk) 24; E. Lazareva (Zaporozhe) 24; A. Lazarev (Krasnodar) 22-25, 27-29; I. Levin (Moscow) 24, 30; M. Leichiks (Kyiv) 22; A. Lvov (Moscow) 22, 27, 30; A. Mailybaev (làng Chernogolovka, vùng Moscow) 22, 23; A. Malafeev (Velorechensk) 24; V. Mergel (Koryukovka) 28-30; K. Milshtein (Kyiv) 18, 19, 23-25, 28-30; K. Mishaev (Lipetsk) 18-20, 22-25, 27, 29, 30; A. Mkrtchan (làng Bazmaberd ArmSSR) 28, 30; R. Muchnik (Vinnitsa) 19, 20, 22-25; A. Navruzov (Ugrench) 24; V. Naimov (Ura-Tube) 28; I. Naydenov (Sofia, Bulgaria) 24; A. Nasyrov (Obninsk) 20, 22-24, 28-30; A. Nazumovich (Minsk) 28-30; I. Nemirovskaya (Kyiv) 18, 24; A. Noyarov (Moscow) 18, 28, 29; D. Nomirovsky (Cherkasy) 22-24, 28-30; S. Pavlikov (Evpatoria) 22-24; T. Panov (Kyiv) 18, 22-25, 28-30; V. Paskhaver (Kyiv) 18; O. Pelyazov (Ufa) 28; E. Perelman (Leningrad) 18, 23, 25, 27, 29, 30; A. Petrosyan (Yerevan) 18, 23, 24, 28-30; L. Pikovskaya (Kyiv) 28; A. Pogrebnyak (Kyiv) 23; D. Pepperny (Khabarovsk) 18, 23, 24; N. Poshvenchuk (Pinsk) 24; M. Prybitk (Chernigov) 28, 30; I. Presica (Antacit) 24; A. Razin (Odessa) 18, 19, 22-25, 27-30; D. Rekalov (Kyiv) 23, 24; V. Rychkov (Kuibyshev) 24, 27-30; K. Savvidi (Yerevan) 18, 19, 22-24; A. Sarsembayev (Arkalyk) 28, 29; M. Satimov (Shavat) 24; A. Safronov (Tomsk) 22-24, 28-30; S. Safronov (Pskov) 23; V. Severinovsky (Moscow) 25, 28, 30; G. Sirotkin (Kharkov) 18, 22-25, 28, 30; M. Slavkin (Minsk) 22-24, 28-30; V. Slastinov (Kyiv) 18, 24; A. Solodov (Voronezh) 18, 22, 23, 29, 30; A. Solodushkin (Tomsk) 18, 20, 22-24, 28-30; I. Spransky (Donetsk) 23, 24; A. Tagatin (Severodvinsk) 24; M. Temkin (Moscow) 22-25, 27-30; A. Tragurenko (Vidnoe) 27-30; S. Tregubenko (Krasnogorsk, vùng Moscow) 18, 24; V. Turetsbaev (Kzyl-Orda) 24; P. Ushakov (Moscow) 24, 28; K. Feldman (làng Chernogolovka, vùng Moscow) 20, 22-24, 27-30; R. Khanmaatomedov (Derbent) 24, 28; M. Khasin (Donetsk) 18, 22-25, 30; G. Khattran (làng Berdik ArmSSR) 28, 30; A. Schindler (Feodosia) 18, 22-24, 29; D. Shukin (Saratov) 18; O. Yatsun (Kyiv) 19, 24.
+
+Vật lý
+
+M. Abdulaev (Baku) 29; E. Adeeva (Donetsk) 25, 27; E. Alaberdin (Tashkent) 32; G. Astakhov (Leningrad) 24, 27; S. Atanasan (Leningrad) 28; Y. Babkin (Kyiv) 24, 27-33, 36; S. Bazilko (Severodvinsk) 25, 32; N. Baliunas (Vilnok) 28, 29, 32—34, 36; M. Barashkov (làng Osipovka, vùng Mogilev) 24, 25, 27—30, 32, 33, 36, 37; V. Baryshnikov (Novgorod) 24, 29, 32; D. Basko (Moscow) 23, 24, 27; S. Belov (Straynoy Oskol) 28, 32, 33; M. Belomytse (Moscow) 28, 36; V. Bondarenko (Kuznetsovsk) 28, 32; L. Vasiliev (Salavat) 23, 27-30, 32; G. Veitas (Wilnok) 28, 29, 32; P. Volynets (Vilnok) 25, 29; A. Voronin (Straynoy Oskol) 24, 27; I. Voskovsky (vùng Mogilev) 24, 28, 29, 32; K. Galchisky (Severodvinsk) 23-25, 27-32; A. Gvozdenko (Nizhyn) 25; K. Genints (Pavlodar) 28; V. Glazkov (Kolomna) 25, 32; A. Gleder (Odintsovo) 24, 27-29, 34; S. Golovko (Gorlovka) 28, 35; P. Grebenev (Kuznetsovsk) 24, 27-32, 34-37; V. Gribok (làng Dolinskoe, vùng Odessa) 24; V. Guzovsky (vùng Mogilev) 24, 25, 27-33, 35-37; O. Guar (Kanev) 24, 27, 28, 30-32, 36, 37; A. Davletov (Alma-Ata) 24, 25, 27—33, 36; A. Dementier (Chebokary) 24, 25, 27-33, 36; Z. V. Demchik (Rivne) 25; I. Denisov (làng Osipovka, vùng Mogilev) 23-25, 27-30, 32, 33, 35-37; S. Josok (Vinnitsa) 23-25, 27-29, 31-33, 36; S. Dibrov (Kyiv) 23—25, 27, 28, (Cuối cùng, xem trang 46)

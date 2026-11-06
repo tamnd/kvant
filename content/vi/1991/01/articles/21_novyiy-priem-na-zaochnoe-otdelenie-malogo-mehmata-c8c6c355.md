@@ -1,0 +1,59 @@
+---
+id: 1991-1-novyiy-priem-na-zaochnoe-otdelenie-malogo-mehmata-c8c6c355
+issue: kvant_1991_1
+year: 1991
+number: "1"
+title: Tuyển sinh mới vào bộ phận thư tín của Maly Mekhmat
+rubric: informatsiya
+rubric_sub: Информация
+page_first: 60
+page_last: 60
+page_labels: "58"
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 500cfdd2f07c413a4250020cd3d35800b7f008b8cf46da9e00ec5ba76de4eb42
+prompt_sha256: draft-1
+translated_from: content/ru/1991/01/articles/21_novyiy-priem-na-zaochnoe-otdelenie-malogo-mehmata-c8c6c355.md
+source_content_sha256: f9698ed171e3d04dd8a6a21f9e5283664a6a780a4aeca0152c19cd7d6f9aa930
+translation_model: draft
+translation_run: vi-draft-gaps-2026-11-06
+translation_quality: draft
+---
+
+⟦folio 58⟧
+
+---
+running_head:
+folio:
+---
+
+đường tròn tại các điểm B và C. Khi đó $AP^2 = AB \cdot AC$ (tích này, không phụ thuộc vào việc chọn cát tuyến, được gọi là chỉ số của một điểm trong đường tròn tương đối; so sánh với Bài tập 1).
+
+12. Chứng minh tâm đường tròn mà điểm P buộc phải di chuyển ở bài 3 chính là trung điểm của Q các AB khác (hình 7).
+
+Bài toán 7. Đường tròn $S_1$ và $S_2$ cắt nhau tại điểm A và B, tâm O của đường tròn $S_1$ nằm trên đường tròn $S_2$. Dây AC của đường tròn $S_1$ cắt đường tròn $S_2$ tại điểm D (hình 10). Chứng minh rằng các đoạn OD và BC vuông góc.
+
+Một ví dụ mới cho bộ phận thư tín của Cơ chế nhỏ
+
+Khoa Cơ và Toán nhỏ - một trường toán thuộc Khoa Cơ và Toán của Đại học quốc gia Mátxcơva - công bố ví dụ học sinh học hết lớp 8 của cùng một trường phổ thông ở khoa văn. Việc được nhận vào Cơ chế nhỏ dựa trên kết quả của tác phẩm giới thiệu lời giải bài toán được xuất bản dưới đây.
+
+Nhiệm vụ chính của Khoa Cơ học và Toán nhỏ (MMMF) là đưa toán học đến gần hơn, đào sâu kiến ​​thức trong khuôn khổ chương trình học ở trường cũng như mở rộng tầm nhìn toán học của học sinh trung học cơ sở.
+
+Các lớp học tại khoa thư tín của giáo dục tiểu học tại Toán Cơ học Nhỏ là miễn phí. Thời gian học là ba năm. Sinh viên bán thời gian hoàn thành thành công tất cả các bài tập sẽ nhận được chứng chỉ hoàn thành MMMF. Những học sinh đã hoàn thành tốt lớp 9 hoặc lớp 10 được đề nghị nhập học vào Trường Tích hợp Vật lý và Toán học tại Đại học Tổng hợp Moscow.
+
+Các giáo viên tại bộ phận thư tín của MMMF là các nghiên cứu sinh và sinh viên Khoa Cơ học và Toán học của Đại học quốc gia Moscow. Việc phát triển các tài liệu quảng cáo chuyên đề được thực hiện bởi hội đồng phương pháp của MMMF, bao gồm các giáo sư và giáo viên của Khoa Cơ học và Toán học.
+
+Mong muốn uống rượu sau khi đến Small Mechanimat phải được gửi chậm nhất là vào ngày 1 tháng 5 năm 1991 tới tác phẩm giới thiệu MMMF lời giải bài toán (trong trường hợp này, không cần thiết phải giải quyết tất cả các đề xuất bài toán). Công việc phải được hoàn thành trong một cuốn sổ tay ca rô của trường. Trên bìa cuốn sổ, dán một tờ giấy ghi chép với những thông tin sau:
+
+1) tài nguyên, vùng, vùng;
+2) họ, tên riêng uchasheres;
+3) trường, lớp;
+4) địa chỉ nhà đầy đủ (bao gồm cả mã bưu điện);
+5) họ, tên, cha mẹ vắng mặt, nơi làm việc và chức vụ.
+
+Tác phẩm bao gồm một mảnh giấy $4 \times 6$ cm, trên đó ghi đầy đủ địa chỉ nhà (ghi rõ mục lục bưu điện) và thêu tại địa chỉ: 119899, ​​​​Moscow, Đại học quốc gia Moscow, Maly Mekhanimat.
+
+Chấp nhận
+
+Đối với học sinh lớp 8-11 ở Mátxcơva và vùng lân cận Mátxcơva có khoa buổi tối của MMMF. Thắc mắc qua điện thoại. 939-39-43.

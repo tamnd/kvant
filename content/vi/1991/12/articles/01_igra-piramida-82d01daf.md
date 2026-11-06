@@ -1,0 +1,46 @@
+---
+id: 1991-12-igra-piramida-82d01daf
+issue: kvant_1991_12
+year: 1991
+number: "12"
+title: '[Trò chơi "Kim tự tháp"]'
+rubric: smes
+page_first: 84
+page_last: 84
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 49012c92f3eb956e7960f01c7843f16b22d3c9c6e6ecda8ef1df218403eb995a
+prompt_sha256: draft-1
+translated_from: content/ru/1991/12/articles/01_igra-piramida-82d01daf.md
+source_content_sha256: 98733e33f2d2fd34f960a17d25faca85b018d62747038412e8233b45090404e4
+translation_model: draft
+translation_run: vi-draft-gaps-2026-11-06
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+---
+running_head:
+folio:
+---
+
+Độc giả và tác giả thường xuyên của chúng tôi, I. Akulich đã gửi cho chúng tôi chiếc cerra “Kim tự tháp” mà anh ấy đã mua trong cửa hàng và bài toán gắn liền với chiếc cerra này. Tác giả của cerra là V. Dmitriev, và thiết kế mới được đề xuất thuộc về nghệ sĩ biên tập. Hãy thử cắn vào chiếc cerra này và sau đó giải quyết bài toán I. Akulich.
+
+Quy tắc Cerra
+
+Trò chơi bao gồm một bảng chính và 12 chip gồm 2 màu, mỗi màu 6 chip. Hãy chơi.
+
+Các con chip được đặt trên các ô của hàng đầu tiên của trường trung tâm. Một người ở bên trái, người kia ở bên phải.
+
+Họ thay phiên nhau đi bộ. Người chơi có quyền thực hiện một nước đi (các nước đi dọc hoặc ngang và các nước đi bổ sung).
+
+Đột quỵ dọc. Chỉ chip hàng dưới mới có quyền thực hiện. Đồng thời di chuyển đến một trong hai ô liền kề của hàng tiếp theo.
+
+Đột quỵ ngang. Một con chip có thể di chuyển dọc theo hàng của nó tới bất kỳ số ô trống nào.
+
+Khuyến mãi bổ sung. Trong quá trình cerra, ba mảnh có thể ở vị trí hình tam giác (hai mảnh ở dưới, một mảnh ở trên). Người sở hữu chip trên cùng sau nước đi tiếp theo hoặc cùng với nó có thể tiến lên các ô của hàng tiếp theo. Người đầu tiên lên tới đỉnh kim tự tháp sẽ thắng.
+
+Bài tập: Ai sẽ thắng nếu cô ấy yêu bạn đời của mình theo cách hiện tại?
+Lời giải trích dẫn ở số tiếp theo.

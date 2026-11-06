@@ -1,0 +1,78 @@
+---
+id: 1991-5-myi-sprashivaem-nam-otvechayut-92aff2d8
+issue: kvant_1991_5
+year: 1991
+number: "5"
+title: Chúng tôi hỏi - họ trả lời chúng tôi
+rubric: raznoe
+page_first: 63
+page_last: 63
+page_labels: "61"
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 1491f0a57a87d235ce23a787fc421e8f95ae6710396222be840f7c74ca2d7a20
+prompt_sha256: draft-1
+translated_from: content/ru/1991/05/articles/08_myi-sprashivaem-nam-otvechayut-92aff2d8.md
+source_content_sha256: a6cf8c62fdd34fe707f3d0a9371b85931abd1658611e4a538bb31a72f36bfae9
+translation_model: draft
+translation_run: vi-draft-gaps-2026-11-06
+translation_quality: draft
+---
+
+⟦folio 61⟧
+
+---
+running_head:
+folio:
+---
+
+Chúng tôi đang đối phó -
+họ trả lời chúng tôi
+(dựa trên tài liệu từ “Bảng câu hỏi - 90”)
+
+Như những độc giả thường xuyên của chúng tôi có lẽ đã nhận thấy, mỗi quý một lần chúng tôi đăng một bảng câu hỏi trên tạp chí. Điều quan trọng là chúng tôi phải biết bạn thích gì và không thích gì ở tạp chí, bạn muốn đọc gì trên các trang của tạp chí, cách chúng tôi có thể giúp đỡ một học sinh, giáo viên, người nộp đơn và bất cứ điều gì khác «Kvant» chỉ là một người yêu thích vật lý hoặc toán học, du hành vũ trụ hoặc khoa học máy tính.
+
+Chúng tôi cảm ơn tất cả những người đã dành thời gian để trả lời câu hỏi của chúng tôi.
+
+Thật không may, có ít độc giả chuyển sang sử dụng Bảng câu hỏi 90 hơn đáng kể so với những năm trước, và do đó việc nói về một khuôn mẫu trở nên khó khăn hơn. Chưa hết...
+
+Đây là bức tranh nổi lên từ kết quả của Bảng câu hỏi 90.
+
+Tất nhiên, hầu hết độc giả của chúng tôi là học sinh trung học. Mặc dù trong số những người điền vào bảng câu hỏi có giáo viên và học sinh, công nhân và kỹ sư. Có những đăng ký hoàn toàn mới và những người đăng ký «Kvant» kể từ khi tạp chí ra đời.
+
+Về sự phổ biến của phiếu tự đánh giá. Độc giả luôn nhận được sự quan tâm lớn nhất từ ​​các phần “Bài toán Kvant”, “Trường học ở «Kvant»”, “Kính vạn hoa”, ít hơn một chút - “Thực hành cho ứng viên”, “Các lựa chọn thi tuyển sinh đại học”, “Phòng thí nghiệm «Kvant»”, “Câu lạc bộ toán học” và «Kvant» cho học sinh nhỏ (nhân tiện, “học sinh cuối cấp” cũng thích phần này). Đến cuối năm, mục “P for Package” và “Fiction” trở nên rất phổ biến.
+
+Bài viết được yêu thích nhất:
+M. Berkinblit, E. Glagoleva. "Matematika trong sinh vật sống".
+P. Capizza. “Về tính siêu lỏng của gel lỏng II”.
+A. Stasenko. “Sóng trên mặt nước và “Những vị khách hải ngoại” của N. Roerich.”
+A. Abrikovov. “Điều mà một vận động viên trượt tuyết không nghĩ tới.”
+A. Savin. “Sỏi và bàn cờ”, D. Fuchs. "Quả cầu có sừng của Alexander."
+M. Kaganov. "Những bức thư về Vật lý".
+K. Bogdanov. "Lớn và nhỏ đều có."
+L. Kscanfomality. "Triển vọng tìm kiếm các hành tinh chung."
+K. Foktistov. "Chuyến bay tới các vì sao."
+V. Levin. "Động đất".
+E. Narimanov. "56 triệu km tới Hành tinh Đỏ."
+Vâng. Smorodinsky. "Định luật vạn vật hấp dẫn."
+S. Tabachnikov. "Các biến thể về chủ đề của Escher".
+S. Tabachnikov. "Matematika và của chúng tôi."
+Hãy lưu ý rằng trong số những bài báo hay nhất, cái gọi là số liệu thống kê, được in lại từ các số phát hành «Kvant» năm trước, cả chúng tôi và bạn đều ghi nhận mức độ cao của chúng.
+
+Những bản cover được yêu thích:
+bìa số 3 và 9 (đối với bài “Siêu âm trong y học” và tài liệu “Hyperbolic Parabolide”).
+
+Như mọi khi, những đánh giá và mong muốn rất đa dạng, hoàn toàn trái ngược nhau (đôi khi mang tính phân loại!), chúng ta được hỏi, yêu cầu ở chúng ta:
+“Hãy để «Kvant» như trước thời điểm này,”
+“Tôi đã hy vọng điều tốt nhất, tôi đã viết nó ra một cách vô ích!”, “Vui lòng tham khảo các ấn phẩm và ấn bản cũ”, “Chủ nghĩa lịch sử và hoạt động nhiều hơn”, “Đừng che đậy cho những người theo chủ nghĩa trừu tượng!”, “Mỗi trang bìa đều hay và tương ứng với số lượng”, “Thêm nhiều thử nghiệm cho tác phẩm độc lập”, “Đặt ít nhất một bài kiểm tra để tìm ra mức độ phát triển của bạn”, “Tất cả các hình minh họa đều là A”, “Ngốc hình”, “Tôi thích tất cả các bài báo, ngoại trừ những câu chuyện khoa học viễn tưởng. Đừng xả rác tạp chí!", "Thật tuyệt vời!", "Không thể tạo «Kvant» cho các nhà hóa học và nhà sinh học sao?", "Tạp chí nên dày hơn", "Lập trình! Lập trình!"...
+
+Họ chúc chúng ta: “Ngay khi họ đọc các điều kiện bài toán trong Sách Bài tập, họ lập tức đau đầu.”
+Chúng ta đang thực hiện phần lớn những gì đã hứa với quân xâm lược. Các bài báo được đăng liên tục về những thành tựu ngày nay trong vật lý và toán học, về các nhà khoa học kiệt xuất, phỏng vấn các nhà khoa học hiện đại. Những tài liệu về “không gian” và khoa học viễn tưởng xuất hiện thường xuyên trên tạp chí. Hầu như phòng nào cũng có tài liệu dành cho những người yêu thích trò chơi và giải đố. Và bạn không thể phàn nàn về việc thiếu bài toán và thông tin cụ thể! Chỉ có bài toán trong mỗi số lên tới 100 và có tới 6 số cụ thể được công bố vào năm 1990.
+
+Có... Chúng tôi đã thực hiện một số lời hứa, nhưng chúng tôi vẫn đang suy nghĩ và thảo luận về một số câu hỏi (vì vậy, thật không may, phần vẫn chưa xuất hiện, các điều kiện được gọi là “Dành cho học sinh nhỏ tuổi nhất” cho đến khi chúng tôi nhận được tài liệu kèm theo câu trả lời cho câu hỏi của bạn từ tổng biên tập tạp chí, Viện sĩ Yu. A. Osipyan).
+
+Trong tương lai, chúng tôi dự định sẽ duy trì hình thức của tạp chí. Nhưng cuộc sống luôn tiến về phía trước và chắc chắn tạp chí của chúng ta cũng sẽ thay đổi. Dựa trên nhiều yêu cầu từ độc giả, chúng tôi muốn khôi phục mục “Thông tin và Lập trình” và mở rộng «Kvant» cho học sinh nhỏ. Chúng tôi dự định xuất bản các tài liệu về các chủ đề “vật lý và sinh học”, “toán học, khoa học máy tính và sinh học” trên tạp chí.
+
+Chúng tôi hy vọng rằng mọi độc giả sẽ tìm thấy tài liệu “của họ” trong «Kvant».
+Bảng câu hỏi của chúng tôi sẽ vẫn xuất hiện mỗi quý một lần. Và chúng tôi vẫn nhận được thư từ bạn!

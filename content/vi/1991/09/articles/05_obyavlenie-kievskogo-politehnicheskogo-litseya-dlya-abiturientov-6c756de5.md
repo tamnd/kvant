@@ -1,0 +1,58 @@
+---
+id: 1991-9-obyavlenie-kievskogo-politehnicheskogo-litseya-dlya-abiturientov-6c756de5
+issue: kvant_1991_9
+year: 1991
+number: "9"
+title: '[Thông báo của Lyceum Bách khoa Kyiv dành cho người nộp đơn]'
+rubric: smes
+page_first: 21
+page_last: 21
+page_labels: "19"
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: a4f607aa041a1c6454f940f3aa4a8b673e6ff98e3cca25dff569eddeb17ece0e
+prompt_sha256: draft-1
+translated_from: content/ru/1991/09/articles/05_obyavlenie-kievskogo-politehnicheskogo-litseya-dlya-abiturientov-6c756de5.md
+source_content_sha256: 766ebaaa880e58e6f67e383a40db84e5bf047224feae0d92712851b413376b30
+translation_model: draft
+translation_run: vi-draft-gaps-2026-11-06
+translation_quality: draft
+---
+
+⟦folio 19⟧
+
+---
+running_head:
+folio:
+---
+
+Jim thức dậy vào buổi sáng Giáng sinh với tâm trạng vui vẻ.
+- Bố ơi, bố ơi! Bố đã cho con nghịch lý cũ của mẹ con với một lớp logic trực quan mới, phải không bố? Vâng, cái có giá trị logic trung gian?
+“Bạn thấy đấy,” Scratchit nói. “Không đơn giản như vậy đâu con trai.” Anh ta đưa cho Jim chiếc hộp các tông mà anh ta cần, tìm kiếm những từ có thể ngăn tiếng hét phái sinh của Jim.
+
+- Tôi không chắc mình có làm được không.
+Đó là một khoảnh khắc may mắn. Hoặc có lẽ, hai câu nói của chính hạt dẻ đã ghé vào tai anh và thì thầm vào tai anh một điều gì đó. Bởi vì khuôn mặt của Jim sáng lên như một cây thông Noel.
+- Bố ơi, bố có thể làm được!
+Chà, thực sự, bạn có thể nghĩ ra một ý nghĩa nào đó của sự thật tùy tiện hơn những gì Scratchit đã chọn trong đáp số của mình không.
+
+Chú ý
+học sinh và người nộp đơn!
+
+TRƯỜNG ĐẠI HỌC Bách khoa Kyiv
+
+nhận học sinh từ lớp 8-11 vào các khóa học tương ứng về vật lý và toán học để chuẩn bị vào đại học.
+Đối với các khoa thư tín của Lyceum tại Viện Vật lý và Công nghệ Mátxcơva, các sách hướng dẫn độc đáo đã được phát triển trong tất cả các phần vật lý và toán học, bao gồm lý thuyết, phương pháp lời giải bài toán, nhiệm vụ kiểm tra và lời giải hơn 1500 bài thi bài toán.
+
+Việc đào tạo được thực hiện bởi các giáo sư và phó giáo sư.
+Tất cả học sinh đều được đào tạo theo chương trình đầy đủ, bất kể họ vào trường lyceum từ lớp nào.
+Tổng chi phí đào tạo ở một khoa là 216 rúp.
+Khoản phí này chỉ được trả ngay cho học sinh lớp 11, còn đối với học sinh đang học lớp 8, phí hàng ngày ở mỗi khoa sẽ là 54 rúp, lớp 9 - 72 rúp, lớp 10 - 108 rúp.
+
+Để đăng ký vào từng khoa, bạn phải đóng phí cho một năm học trong vòng một tháng bằng cách gửi bưu điện đến địa chỉ:
+252001, Kyiv, chi nhánh Pechersk của USB, p/c 1609455, Polytechnic Lyceum.
+Trên mẫu đơn đặt hàng qua đường bưu điện, hãy bao gồm địa chỉ, mặt hàng và lớp học của bạn.
+
+Để biết thông tin:
+252001, Kiev, st. Khreshchatyk 12, Bách khoa Lyceum;
+tel. 228-81-85.
