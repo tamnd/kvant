@@ -1,0 +1,54 @@
+---
+id: 1991-4-obyavlenie-moskovskogo-instituta-nefti-i-gaza-im-i-m-gubkina-dlya-abiturientov-49e90b73
+issue: kvant_1991_4
+year: 1991
+number: "4"
+title: 【莫斯科石油天然气学院公告以命名。 I. M. Gubkin 致申请人]
+rubric: smes
+page_first: 70
+page_last: 70
+page_labels: "68"
+lang: zh
+source: kvant_digital
+extraction: vision
+content_sha256: 7e4121fd67db11a2b5ed1b50b5661f64d707855545e38113f9ed509f03724d90
+prompt_sha256: draft-1
+translated_from: content/ru/1991/04/articles/25_obyavlenie-moskovskogo-instituta-nefti-i-gaza-im-i-m-gubkina-dlya-abiturientov-49e90b73.md
+source_content_sha256: 3ee874a74e2095bb724cd282f117012743800e6e52f2b9fa72f0de20eeb967cc
+translation_model: draft
+translation_run: zh-draft-2026-11-06
+translation_quality: draft
+---
+
+⟦folio 68⟧
+
+---
+running_head:
+folio:
+---
+
+2. 一块重 $m=2$ kg 的冰在温度 $t=-20^\circ\text{C}$ 下被加热，产生的热量为 $Q=1$ MJ。冰的比热容$c_\pi=2,1$ kJ/(kg K)，冰的融化比热$\lambda=330$ kJ/kg，水的比热容$c_\beta=4,2$ kJ/(kg K)，水的汽化比热$L=2,3$ MJ/kg。 a) 确定设定温度。 6）冰、水和水蒸气可以在相同温度下同时共存吗？
+
+3. 内阻$R_A=2$欧姆的电流表连接电流源，显示电流为$I=5$A；连接到同一电源的内阻为$R_V=15$欧姆的电压表显示$U=12$V。 a) 确定电源的短路电流。 6) 大约需要将多大的电阻连接到该电源才能产生短路？
+
+4. 均匀磁场和电场彼此垂直。电场电压$E=0,5$ kV/m，感应磁场$B=1$ mT。电子电荷$e=1,6 \cdot 10^{-19}$C，质量$m=9 \cdot 10^{-31}$kg。 a) 电子必须以什么速度和方向飞行才能沿直线运动？ 6）电子只能在一种电场或一种磁场中作直线运动吗？
+
+5. 一束平行光线从空气中以$\alpha=60^\circ$角度落在水面上。光束在空气中的宽度为$d=10$厘米。充水指标为$n=4/3$。 a) 确定梁在水中的宽度。 6）光也会被反射吗？
+
+出版物编写者：
+I. Deyanov、D. Kozlov、M. Maramzina、
+A.斯捷潘诺夫，S.福明
+
+如果你真诚地热爱物理和数学（不然怎么可能——毕竟你读过«Kvant»），你想做科学工作，但是！
+您还会被科学思想的工程性、实践性兴奋、“从思想到生活”的路径所吸引，
+简而言之：
+如果你不确定自己想成为什么——科学家、工程师或两者兼而有之，
+你是我们的男人！！！
+您需要进入莫斯科石油天然气学院。 I.M.古布金，专业 0906
+“采矿和石油和天然气生产的物理过程。”
+走进我们的大门 - 5.5 年内，您将成为一名高素质的研究工程师，您将进行有趣的科学工作，将想法融入全新、环保和高效的技术中（并看看它们是如何实现的！）。
+您将拥有丰富的数学、物理、流体力学知识，并且您将能够比电动剃须刀更好地使用任何级别的个人计算机。他们将在所有研究机构（包括 Reflectibles 和苏联科学院）等您。部长和代表、外国人和合作者将受到托亚的待遇，因为你是新人！
+而在学习期间，你将过着有趣的学生生活，与才华横溢的学生、机智的老师、义务院长进行交流——你还能梦想什么呢？
+我们正在等你！
+研究所地址：117296，莫斯科，列宁斯基大街65号。
+如需咨询，请致电招生办公室：135-83-06。
