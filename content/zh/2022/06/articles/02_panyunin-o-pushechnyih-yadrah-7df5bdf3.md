@@ -1,0 +1,61 @@
+---
+id: 2022-6-panyunin-o-pushechnyih-yadrah-7df5bdf3
+issue: kvant_2022_6
+year: 2022
+number: "6"
+title: 关于炮弹
+authors:
+  - Панюнин Н. М.
+rubric: iz-istorii-nauki
+rubric_sub: Из истории науки
+page_first: 24
+page_last: 24
+page_labels: "22"
+tag: ABGV
+lang: zh
+source: kvant_digital
+extraction: native
+content_sha256: d3bd281081a7ec76fd554ae5f94d85f7aaaeeb99ed8fdcda9dca5f27b26e8a31
+prompt_sha256: draft-1
+translated_from: content/ru/2022/06/articles/02_panyunin-o-pushechnyih-yadrah-7df5bdf3.md
+source_content_sha256: e769774d710917132c63150a77fd5031bd6fa61ff4d5dff204fb4786c858616a
+translation_model: draft
+translation_run: zh-draft-2026-11-01
+translation_quality: draft
+---
+
+⟦folio 22⟧
+
+科万特 2022/#6
+
+表2
+
+⟦column⟧
+
+总结果：商为139，余数为4。对于位数较多的数字，所有推理都是相似的。数字 536027 除以 图 9 的示例
+
+表 3 × 4（仅显示与除以 4 相关的条形片段）。结果：商为 134006，余数 3。
+
+⟦figure⟧
+
+图 9
+
+对于三位数被除数，例如 838，商的前两位数字以类似方式确定，即 13，余数为 5。在最后一行的数字 8 列中，我们有 - number: 9; – 余数：4。
+
+除了用于乘法和除法的工具外，还有用于进行财务计算的设备。它使得计算银行在一天内以特定利率贷记的金额成为可能。使用乘法条将所得的每日利率金额乘以天数，即可得出所有天数的总金额。 Genay-Luc 酒吧很受欢迎，但很短暂。二十世纪初，它们被机械计算设备——加法机所取代。正如他们所说，技术进步无法停止......
+
+炮弹问题
+
+（一层），形状为金字塔形，底部为正方形。
+
+法国数学家爱德华·卢卡斯因其在数论方面的工作而闻名。例如，梅森数的素数标准之一就以他的名字命名，即$2^{n} - 1, где^{n}$形式的数字——自然数。卢卡斯证明了素数$2^{127} - 1$；几十年来，它仍然是科学界已知的最大素数。在普法战争（1870-1871）期间，卢卡担任炮兵。也许正是在那个时候，他想到了下一个任务。
+
+求可以放置在正方形内的炮弹数量
+
+这个问题可以很容易地用丢番图方程的语言重新表述。
+
+找到所有 $натуральные^{k,} n$ 使得
+
+$k (^{k} + 1 ) ( 2^{k} + 1 ) = n^{2}. 6$
+
+两个$решения:^{k} 1,^{n} 1 и^{k} 24,^{n} 70$是卢克自己发现的。然而，直到 1918 年，这个问题才被椭圆函数装置彻底解决：事实证明，没有其他解决方案。 N·帕尤宁
