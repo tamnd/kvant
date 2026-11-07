@@ -1,0 +1,78 @@
+---
+id: 1992-5-obyavlenie-gosudarstvennoy-akademii-nefti-i-gaza-im-i-m-gubkina-dlya-abiturientov-47461934
+issue: kvant_1992_5
+year: 1992
+number: "5"
+title: '[Thông báo của Học viện Dầu khí Nhà nước mang tên. I. M. Gubkin dành cho người nộp đơn]'
+rubric: smes
+page_first: 69
+page_last: 69
+page_labels: "67"
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 717eef2d878361307b708ad738db818512e7e7fefd92a2ba3aa018f3711ca621
+prompt_sha256: draft-1
+translated_from: content/ru/1992/05/articles/06_obyavlenie-gosudarstvennoy-akademii-nefti-i-gaza-im-i-m-gubkina-dlya-abiturientov-47461934.md
+source_content_sha256: e1084ee72727b925eff5d4ee6e795aedee09eea2ca158abd58db1c6b4ccda10c
+translation_model: draft
+translation_run: vi-draft-gaps-2026-11-07
+translation_quality: draft
+---
+
+⟦folio 67⟧
+
+---
+running_head:
+folio:
+---
+
+khi nào thì gia tốc của quả bóng sẽ hướng theo phương ngang?
+
+3. Một khẩu súng trường có khối lượng $m=5$ kg bắn một phát. Tốc độ giật của một khẩu súng trường không áp vào vai người bắn sẽ lớn hơn bao nhiêu lần so với tốc độ giật trong trường hợp người bắn ấn chặt súng vào vai? Khối lượng của người bắn $M=80$ kg.
+
+4*. Tàu máy đang kéo một sà lan với tốc độ $v_1=9$ km/h. Trong trường hợp này, độ căng của dây kéo là $T=120$ kN và công suất động cơ là $N=400$ kW. Tốc độ (tính bằng km/h) của tàu kéo sẽ là bao nhiêu nếu nó di chuyển mà không có sà lan có cùng công suất động cơ? Coi lực cản của nước tỉ lệ thuận với vận tốc chuyển động.
+
+5. Một thanh đồng nhất mỏng được gắn bản lề ở đầu trên. Phần dưới của thanh được ngâm trong nước và đạt được trạng thái cân bằng khi thanh nằm xiên với mặt nước và một nửa thanh nằm trong nước. Mật độ của vật liệu làm nên chiếc que là bao nhiêu? Mật độ của nước là $Q_B=1000$ kg/$m^3$.
+
+6. Khí nằm trong một hình trụ thẳng đứng đặt dưới pít-tông có khối lượng $m=5$ kg. Khối lượng tải trọng nào phải được đặt lên pít-tông để nó vẫn ở chế độ vị trí khi nhiệt độ tuyệt đối của khí tăng $\alpha=2$ lần? Áp suất khí quyển $p_0=100$ kPa, diện tích piston $S=10$ cm$^2$.
+
+7. Trong quá trình sản xuất, khí đã thực hiện công $A=1000$ J. Nội năng của khí này sẽ tăng bao nhiêu nếu nó được truyền một lượng nhiệt lớn gấp đôi so với quá trình đầu tiên và quá trình này được thực hiện đẳng tích?
+
+8. Hai điện tích dương giống hệt nhau đặt cách nhau một khoảng. Lực tác dụng lên một trong các điện tích sẽ tăng lên bao nhiêu lần nếu một điện tích thứ ba có cùng độ lớn nhưng trái dấu được đặt ở giữa đường thẳng nối hai điện tích? (Các khoản phí được coi là chính xác.)
+
+9*. Mạng bao gồm một ấm đun nước điện song song và một cái chảo, công suất tiêu thụ lần lượt là $P_1=300$ W và $P_2=600$ W. Nước trong đó sôi cùng lúc sau t = 20 phút. Bao nhiêu phút sau nước sẽ sôi trong nồi so với trong ấm nếu chúng được kết nối nối tiếp vào cùng một mạng?
+
+10. Một dòng điện có cường độ $I_1=4$ Chạy dọc theo mạch tạo ra từ thông
+
+Nếu bạn chân thành yêu thích vật lý và toán học
+(làm sao có thể khác được - dù sao thì bạn cũng là độc giả «Kvant»),
+Bạn muốn làm công việc khoa học?
+
+Nhưng!
+
+bạn cũng bị thu hút bởi kỹ thuật,
+đặt câu hỏi thực tế về ý tưởng khoa học,
+con đường “từ ý tưởng đến cuộc sống”,
+
+Nói ngắn gọn:
+nếu bạn không chắc chắn
+bạn muốn trở thành ai - nhà khoa học, kỹ sư hay cả hai,
+bạn là người đàn ông của chúng tôi!!!
+
+Bạn cần phải vào Học viện Dầu khí Nhà nước mang tên. I. M. Gubkina,
+chuyên ngành 0906
+
+“Các quá trình vật lý của khai thác mỏ và sản xuất dầu khí.”
+
+Hãy bước vào cánh cửa của chúng tôi - và trong 5,5 năm nữa, bạn sẽ trở thành một kỹ sư nghiên cứu có trình độ cao, thực hiện công việc khoa học thú vị,
+để đưa các ý tưởng vào các công nghệ mới về cơ bản, sạch về mặt kinh tế và hiệu quả (và xem chúng có ý nghĩa như thế nào trong cuộc sống!).
+
+Bạn sẽ có kiến ​​​​thức tuyệt vời về toán học, vật lý, cơ học chất lỏng và bạn sẽ có thể sử dụng máy tính cá nhân thuộc bất kỳ hạng nào tốt hơn dao cạo điện. Họ sẽ đợi bạn ở tất cả các viện nghiên cứu - cả về học thuật và học thuật.
+Các bộ trưởng và đại biểu, người nước ngoài và cộng tác viên sẽ đối xử với bạn, bởi vì bạn là Con người Mới!
+Và trong suốt những năm học tập, bạn sẽ có một cuộc sống sinh viên thú vị, giao tiếp với những sinh viên tài năng, những giáo viên hóm hỉnh, những trưởng khoa bắt buộc - bạn còn mơ ước được điều gì nữa?
+
+Chúng tôi đang chờ đợi bạn!
+
+Địa chỉ học viện: 117296, Moscow, Leninsky Prospekt, 65.
+Ở bên phải, gọi đến văn phòng tuyển sinh: 135-83-06.

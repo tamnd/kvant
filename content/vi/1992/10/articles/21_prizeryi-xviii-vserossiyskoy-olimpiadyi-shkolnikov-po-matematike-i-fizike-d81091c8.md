@@ -1,0 +1,164 @@
+---
+id: 1992-10-prizeryi-xviii-vserossiyskoy-olimpiadyi-shkolnikov-po-matematike-i-fizike-d81091c8
+issue: kvant_1992_10
+year: 1992
+number: "10"
+title: Những người đoạt giải Olympic toàn Nga lần thứ XVIII dành cho học sinh về toán và vật lý
+rubric: raznoe
+rubric_sub: Разное
+page_first: 67
+page_last: 67
+page_labels: "65"
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: eda1449ecba9eb0410ce6deabb5dff1a16b1e10115cfcd7b0b20590d6859c512
+prompt_sha256: draft-1
+translated_from: content/ru/1992/10/articles/21_prizeryi-xviii-vserossiyskoy-olimpiadyi-shkolnikov-po-matematike-i-fizike-d81091c8.md
+source_content_sha256: 286501e984704d4623985fe602222e7f89e824e58f57ed6dfd23c0f21224697f
+translation_model: draft
+translation_run: vi-draft-gaps-2026-11-07
+translation_quality: draft
+---
+
+⟦folio 65⟧
+
+---
+running_head:
+folio:
+---
+
+Người đoạt giải
+ХVIII Toàn Nga
+Olympic
+trong toán học và vật lý
+Toán học
+
+Bằng cấp đầu tiên
+vào lớp 9 đã nhận được
+Vogdanov I.—Perm,
+Gilfanov S.—Izhevsk,
+Myasnikov N.—Omsk,
+Sentsov Yu.—Kaluga,
+Strelynkov O.—Volgograd;
+
+cho 10 lớp -
+Alexandrovsky I.—Novosibirsk,
+Artelykh I.—Chelyabinsk,
+Kocherova A.—Dolgoprudny,
+Kukhta A.—Komsomolsk-on-Amur,
+Semenov K.—Saratov;
+
+cho lớp 11 -
+Bobkov A.—Balakovo,
+Zaitsev S.—Tula,
+Izmesteev I. - Làng Suna, vùng Kirov,
+Kirillov M.-Novosibirsk,
+Klimov S.—Izhevsk,
+Kozhevnikov P.—Kaluga,
+Haykis D.—Izhevsk.
+
+bằng cấp II
+vào lớp 9 đã nhận được
+Borisov A.—Nizhny Novgorod,
+Kravtsov A.—Oskol đầy sao,
+Tsarev A.—Kostroma,
+Chubarov D.—Novosibirsk;
+
+cho 10 lớp -
+Alekseev M.—Nizhny Novgorod,
+Birok A.—Krasnodar,
+Gureev A.-Novgorod,
+Pogapov I.—Novosibirsk;
+
+cho lớp 11 -
+Berkolaiko G.—Voronezh,
+Kazantseva E.—Ekaterinburg,
+Mashin A.—Novokuznetsk,
+Nikulin M.—Obninsk,
+Feldman K. - làng Chernogolovka, vùng Moscow.
+
+bằng tốt nghiệp cấp III
+vào lớp 9 đã nhận được
+Aksenov Yu.—Severodvinsk,
+Derezin S.—Rostov-on-Don,
+Dychenko A.—Armavir,
+Kostrynkin S.—Angarsk,
+Tarasov A.—Ukhta;
+
+cho 10 lớp -
+Kostin V.—Saratov,
+Pavlovsky I.—Omsk,
+Piontovskaya I.-Tula,
+Sosyka E.—Krasnodar,
+Tuunov A. - Penza;
+
+cho lớp 11 -
+Vetrov A.-Volgograd,
+Efremov P.—Kondopoga,
+Listsun N.—Izhevsk,
+Mitsenko V.—Omsk.
+
+Vật lý
+
+Bằng cấp đầu tiên
+vào lớp 9 đã nhận được
+Kovalsky A.—Kazan,
+Krokovny P.—Novosibirsk,
+Serbi A.—Rostov-on-Don,
+Stratonnikov A. - Syasstroy prt, vùng Leningrad;
+
+cho 10 lớp -
+Baburin D.—Krasnoyarsk,
+Velenov R.—Nizhny Novgorod,
+Malinin S.—Yaroslavl,
+Chirkin D.—Grozny;
+
+cho lớp 11 -
+Bazarov I.—Vladivostok,
+Gulyaev N.—Nizhny Novgorod,
+Gorgadze V.—Nalchik,
+Zemlyanov A.—Rostov-on-Don,
+Kurbatov M. - Đại lộ Vostrykovo, khu vực Moscow,
+Pankov S.—Tula,
+Pomeransky A.—Novosibirsk,
+Yudin D.—Samara.
+
+bằng cấp II
+vào lớp 9 đã nhận được
+Goryainov A.—Lipetsk,
+Gratsenko S.—Barnaul,
+Lyubshin D.—Perm,
+Sytnik D.—Tver,
+Tabanin D.—Arkhangelsk;
+
+cho 10 lớp -
+Bochkarev O.—Saratov,
+Larkin V. - Đại lộ Pravdinsk, vùng Nizhny Novgorod,
+Tomilov F.—Arkhangelsk,
+Tyapisev A.—Novokuznetsk;
+
+cho lớp 11 -
+Voldyrev S.—Rostov-on-Don,
+Iyutin V.—Tula,
+Mifgakhov V.—Tuymazy,
+Shikhiev K.—Novosibirsk.
+
+bằng tốt nghiệp cấp III
+vào lớp 9 đã nhận được
+Barybin I.—Barnaul,
+Kirakozov M.—Volgoda,
+Konanov M.—Alatyr,
+Osinovsky D. - Kursk;
+
+cho 10 lớp -
+Gvozdev P.—Kotelnich,
+Golovaty A.—Stupino,
+Kokorich M. - Đại lộ Agiinskoye, vùng Chita,
+Pogorelov O. - Bryansk;
+
+cho lớp 11 -
+Abalmasov V.—Prokolyevsk,
+Galanin A.—Sergiev Posad,
+Kozlov V.—Stary Oskol,
+Polyansky M.—Nizhny Novgorod.

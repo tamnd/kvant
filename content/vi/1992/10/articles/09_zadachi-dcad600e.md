@@ -1,0 +1,44 @@
+---
+id: 1992-10-zadachi-dcad600e
+issue: kvant_1992_10
+year: 1992
+number: "10"
+title: Bài toán
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 38
+page_last: 38
+page_labels: "36"
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: cc7642e3251e49cc1f47e74e2a4c43b6f63553141ad019daf7dab19aa41c4016
+prompt_sha256: draft-1
+translated_from: content/ru/1992/10/articles/09_zadachi-dcad600e.md
+source_content_sha256: 0b73e474af8b983c073524a3d0bf45e8ccbd5df2427c90bd603dfe1c21f79447
+translation_model: draft
+translation_run: vi-draft-gaps-2026-11-07
+translation_quality: draft
+---
+
+⟦folio 36⟧
+
+---
+running_head:
+folio:
+---
+
+Nhiệm vụ
+
+1. Số ô vuông tối đa có thể được đánh dấu trên bàn cờ là bao nhiêu để từ bất kỳ ô nào trong số chúng có thể di chuyển từ ô này sang ô khác được đánh dấu trong đúng hai nước đi của một quân mã?
+
+2. Giải một bài toán số học. Các chữ cái giống nhau tương ứng với các số giống nhau, các chữ cái khác nhau tương ứng với các số khác nhau.
+
+3. Cho hai đường thẳng và một điểm M trên mặt phẳng. Tìm điểm X trên một trong các đường thẳng sao cho đoạn MX được chia đôi bởi đường thẳng kia.
+
+4. Có 12 người trong phòng. Một số người luôn nói dối, số còn lại luôn nói sự thật. Một người trong số họ nói: “Ở đây không có một người trong sạch nào cả”, người thứ hai: “Ở đây không có nhiều hơn một người trong sạch”, người thứ ba: “Ở đây không có nhiều hơn hai người trong sạch”, v.v., người thứ mười hai: “Ở đây không có nhiều người trong sạch giống hệt nhau”. Có bao nhiêu người sạch sẽ trong phòng?
+
+5. Tiếp tục dãy số:
+1, 11, 21, 1112, 3112, 211213, 312213, 212223, 114213, ...
+
+Những nhiệm vụ này được đề xuất cho chúng tôi bởi V. Proizvolov, P. Filevich, V. Chuchin, D. Fomin và A. Savin.

@@ -1,0 +1,77 @@
+---
+id: 1992-11-kiryuhin-mezhgosudarstvennaya-olimpiada-po-informatike-6b9cc333
+issue: kvant_1992_11
+year: 1992
+number: "11"
+title: Olympic Tin học liên bang
+authors:
+  - Кирюхин В. М.
+rubric: olimpiady
+rubric_sub: Олимпиады
+page_first: 69
+page_last: 69
+page_labels: "67"
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 934c0e67ff0087ba21939a882d0f160bc760dff613de7c62fdda36ca3120c742
+prompt_sha256: draft-1
+translated_from: content/ru/1992/11/articles/20_kiryuhin-mezhgosudarstvennaya-olimpiada-po-informatike-6b9cc333.md
+source_content_sha256: 40254e754e328d385c3bcaf9ab88a1c23956ca51348444f9765c5b80687a07e0
+translation_model: draft
+translation_run: vi-draft-gaps-2026-11-07
+translation_quality: draft
+---
+
+⟦folio 67⟧
+
+---
+running_head:
+folio:
+---
+
+Xa lộ Liên tiểu bang
+Thế vận hội
+trong khoa học máy tính
+
+Ứng viên khoa học kỹ thuật
+V. KIRYUKHIN
+
+Từ ngày 11 đến ngày 15 tháng 5 năm nay tại Cộng hòa Belarus, tại thành phố Mogilev, Olympic Tin học liên bang lần đầu tiên được tổ chức. Nó được tổ chức theo các quy tắc quốc tế, dựa trên cơ sở là sự đại diện bình đẳng của các quốc gia tham gia. Nhưng trong giai đoạn chuyển tiếp, một số quốc gia, bao gồm cả Liên bang Nga, được phép tăng số lượng người tham gia lên giới hạn đã thiết lập trước đó.
+
+Hầu hết tất cả các quốc gia thành lập từ Liên Xô cũ, ngoại trừ Azerbaijan, Tajikistan và Estonia, đều cử đại diện của họ tham dự Olympic này. Trong số 19 phần thi, các đội đến từ Belarus (11 người) và Nga (9 người) có số lượng đông nhất. Phần còn lại của đội bao gồm không quá bốn học sinh.
+
+Giống như tất cả các kỳ thi Olympic quốc tế, Zhorny bao gồm tất cả những người quản lý địa điểm trong các đội hiện đại. Trưởng khoa của Đại học Bang Belarus do M. Kovalev đứng đầu. Olympic bài toán được chuẩn bị bởi ủy ban khoa học, do Yu đại diện. Korzhenevich. Vì việc chuẩn bị cho Thế vận hội rất khó khăn nên không quốc gia tham gia nào có thể gửi bài toán của mình. Trong tình hình hiện nay, ủy ban khoa học đã phải tự mình hình thành gói bài toán.
+
+Trước mỗi vòng thi Olympic, Zhorni đã chọn một bài toán trong số hai đề xuất để mình xem xét. Nhưng các thành viên thực tế của Zhurni không có lựa chọn nào cả. Thứ nhất, chỉ có hai bài toán, và thứ hai, bài toán rõ ràng không tương ứng với cấp độ của Olympic. Do có sự làm rõ một chút về cách diễn đạt (không được phép thay đổi đáng kể), hai bài toán sau đây đã được chọn.
+
+Bài toán vòng đầu tiên
+(tác giả Yu. Korzhenevich)
+
+Trong ma trận hình chữ nhật (0, 1) có kích thước $N \times M$ (N là số hàng, M là số cột; $N=1, 2, ..., 15$; $M=1, 2, ..., 15$), đếm số vùng 0 bị cô lập, tức là các vùng bao gồm các số 0 đơn có các số 0 được kết nối theo chiều ngang, chiều dọc hoặc đường chéo (các vùng 0 có thể chỉ bao gồm một phần tử 0). Ví dụ: đối với ma trận (0, 1) như trong hình
+
+số vùng 0 bị cô lập là 3.
+
+Bài toán vòng thứ hai
+(tác giả Yu. Korzhenevich)
+
+Trên đảo Dân chủ Mới, mỗi cư dân của nó đều tổ chức một đảng do chính họ đứng đầu. Trước sự ngạc nhiên của mọi người, ngay cả bữa tiệc nhỏ nhất cũng có ít nhất hai người. Thật không may, những khó khăn về tài chính đã không cho phép thành lập một quốc hội bao gồm, như được cho là theo Hiến pháp của hòn đảo, các thành viên của tất cả các đảng phái.
+
+Sau khi cân nhắc, người dân trên đảo quyết định rằng điều đó sẽ đạt được nếu có ít nhất một thành viên của mỗi đảng trong quốc hội.
+
+Giúp người dân trên đảo tổ chức một nghị viện càng nhỏ càng tốt, trong đó các thành viên của tất cả các đảng sẽ có đại diện.
+
+Dữ liệu ban đầu: mỗi bên và đối tượng cư trú của bên đó có cùng số sê-ri từ 1 đến $N$ (4<N<150). Bạn nhận được dữ liệu từ tất cả các đảng $N$ của đảo Dân chủ Mới. Hiển thị quốc hội được đề xuất cho bạn dưới dạng danh sách số lượng thành viên của nó. Ví dụ: đối với bốn lô:
+
+| Tổng thống | đảng viên |
+| :--- | :--- |
+| 1 | 2, 3, 4 |
+| 2 | 3 |
+| 3 | 1, 4, 2 |
+| 4 | 2 |
+
+Danh sách đại biểu quốc hội: 2 (gồm 1 đại biểu).
+
+Ghi công. Theo ý kiến ​​​​của bạn, hãy lấy danh sách một quốc hội, càng nhỏ càng tốt.
+
+Ở mức lời giải bài toán nói chung, những người tham gia Olympic được cho mỗi người bốn giờ. Mỗi học sinh được cung cấp một máy tính cá nhân IBM PC và

@@ -1,0 +1,75 @@
+---
+id: 1992-3-alminderov-konferentsiya-kluba-glyuon-48fb4d5d
+issue: kvant_1992_3
+year: 1992
+number: "3"
+title: Hội nghị Câu lạc bộ Gluon
+authors:
+  - Альминдеров В. В.
+rubric: informatsiya
+rubric_sub: Информация
+page_first: 72
+page_last: 72
+page_labels: "70"
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: e6aa5760135635c5a24ee5000ea9c4248ef6eaf75bd08288bcabcf18a523f642
+prompt_sha256: draft-1
+translated_from: content/ru/1992/03/articles/23_alminderov-konferentsiya-kluba-glyuon-48fb4d5d.md
+source_content_sha256: 1f7ca30b11dc33d8b205bbe1d2c3a2edee3264464f09417eec8c196c7f413e5a
+translation_model: draft
+translation_run: vi-draft-gaps-2026-11-06
+translation_quality: draft
+---
+
+⟦folio 70⟧
+
+---
+running_head:
+folio:
+---
+
+Hội nghị Câu lạc bộ Gluon
+
+Câu lạc bộ Gluon Moscow được thành lập tại Viện Vật lý Kỹ thuật Moscow để làm việc với những người trẻ quan tâm đến toán học, vật lý, khoa học máy tính và thiên văn học.
+
+Các thành viên của câu lạc bộ - học sinh, sinh viên lyceum, nhà thôi miên - tụ tập tại các buổi hội thảo hàng ngày, nơi họ thảo luận về bài toán thú vị, tự lập kế hoạch và thực hiện các thí nghiệm, gặp gỡ sinh viên và nhà khoa học của các trường đại học Moscow và nói về thành tích của họ.
+
+Kết quả hoạt động của câu lạc bộ trong năm học 1990-1991 là một hội nghị diễn ra vào cuối tháng 3 năm 1991 trên bờ biển phía tây Crimea tại làng Nikolaevka.
+
+Ngoài Muscovites, các thành viên của câu lạc bộ, sinh viên các trường vật lý và toán học, lyceums và nhà thôi miên từ các thành phố khác của đất nước đã được mời tham dự hội nghị, vì vậy các học sinh và lãnh đạo của họ từ Kyiv, Krasnoirsk, Moscow, Novgorod, Tbilisi, Kharkov đã đến Nikolaevka.
+
+Chủ đề của 24 báo cáo được đọc trong hai phần (toán học và vật lý) rất đa dạng.
+
+Hội nghị Zhorny, bao gồm các giáo viên đại học, lyceum và nhà thôi miên, đã công nhận báo cáo tốt nhất trong phần vật lý là báo cáo của V. Baryshnikov (Novgorod) “Cộng hưởng tham số trong công nghệ vũ trụ”, I. Tuchin (Moscow) “Nhiệt độ phân bố trong các sản phẩm kim loại”, V. Kirillov “Nghiên cứu giao thoa nhiệt của âm thanh”.
+
+Trong phần toán học, những báo cáo hay nhất đã được công nhận bởi S. Ryazantsev (Moscow) “Xây dựng các phương tiện hữu hạn trên mặt phẳng”, S. Eltsev (Moscow) “Về chứng minh hình học của một số bất đẳng thức”, G. Chelidze (Tbilisi) “Về các điểm hữu tỷ trên đường cong bậc hai”.
+
+Nhiều người tham gia hội nghị đã nhận được bằng cấp và sự công nhận đặc biệt từ Câu lạc bộ Gluon.
+
+Những người tham gia ấn tượng nhất với phần thi tài năng Mỹ. Nhiều người trong số họ đạt điểm cao hơn những người giỏi nhất trong làng đèn Mỹ của họ.
+
+Chương trình văn hóa và 血小板 rất thú vị.
+
+Đặc điểm nổi bật nhất trong số đó là chuyến đi bằng xe buýt đến Sevastopol với chuyến thăm tàn tích của thành phố cổ Chersonesos.
+
+Câu lạc bộ Gluon tin rằng những hội nghị như vậy sẽ trở thành truyền thống và sẽ được tổ chức hàng ngày, bất chấp mọi khó khăn mà tất cả chúng ta hiện đang gặp phải.
+
+Kể từ năm học 1991-1992, Câu lạc bộ Gluon đã thành lập các giải thưởng hàng ngày dành cho học sinh có thành tích tốt nhất trong các môn toán, vật lý, thiên văn học và khoa học máy tính.
+
+Hai giải thưởng trị giá một nghìn rúp mỗi giải sẽ được trao, cũng như các giải thưởng và giải thưởng đặc biệt.
+
+Nhiều thành tựu trí tuệ khác nhau cũng sẽ được tổ chức: kỳ thi Olympic đánh giá bài kiểm tra quốc tế, câu hỏi, cuộc thi và lễ hội kiến ​​thức.
+
+Kỳ thi xếp hạng kiểm tra quốc tế đầu tiên đã được tổ chức vào tháng 10 năm 1991 tại Ashgabat.
+
+Chúng tôi mời tất cả học sinh và lãnh đạo của các em muốn tham gia các sự kiện của câu lạc bộ hoặc đưa ra đề xuất về các hình thức công việc khả thi khác, vui lòng liên hệ với chúng tôi theo số: 115580, Moscow, PO Box 10. Gluon Club.
+
+Chủ tịch Câu lạc bộ Gluon V. Alminderov
+
+Đáp số vào trò chơi ô chữ
+
+Ngang: 5. Galileo. 6. Herchel. 9. Merretz. 10. Thất tinh. 14. Titov. 15. Tia mới. 16. Nadir. 19. Juno. 22. Trái đất. 23. Bảo Bình. 24. "Đông". 25. Kepler. 29. Cá heo. 30. Hyades. 31. Tia chớp. 36. Mizar. 37. Microsopp. 38. Sa-ros. 41. Algol. 42. "Người tiên phong". 43. Protson. 44. Lunokhod.
+
+Dọc: 1. Gagarin. 2. Deneb. 3. Fekda. 4. Bàn thờ. 7. Orina. 8. Zenit. 11. "Tia chớp". 12. Sao Diêm Vương. 13. Galei. 17. Andromeda. 18. Phản xạ. 20. Korolev. 21. Hevelius. 26. Eridanus. 27. Newton. 28. Phi hành đoàn. 32. Hà mã. 33. Cuộn dây. 34. Phobos. 35. Komarov. 39. Rất nhiều. 40. Quy định.

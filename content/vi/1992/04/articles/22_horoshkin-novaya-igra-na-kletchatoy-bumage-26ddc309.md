@@ -1,0 +1,61 @@
+---
+id: 1992-4-horoshkin-novaya-igra-na-kletchatoy-bumage-26ddc309
+issue: kvant_1992_4
+year: 1992
+number: "4"
+title: Trò chơi mới trên giấy ca rô
+authors:
+  - Хорошкин С. М.
+rubric: igry-i-golovolomki
+rubric_sub: Игры и головоломки
+page_first: 65
+page_last: 65
+page_labels: "63"
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: b9a74fde34483ef027f99a58939d5235182bb1d73f74149466e6c5170c0a7fae
+prompt_sha256: draft-1
+translated_from: content/ru/1992/04/articles/22_horoshkin-novaya-igra-na-kletchatoy-bumage-26ddc309.md
+source_content_sha256: f8e9be927a3b06088b3293f3b697b68b94ba42707b4bb230f877b6f6eac61a0e
+translation_model: draft
+translation_run: vi-draft-gaps-2026-11-06
+translation_quality: draft
+---
+
+⟦folio 63⟧
+
+---
+running_head:
+folio:
+---
+
+Trò chơi mới trên giấy ca rô
+
+Giấy ca rô luôn có sẵn trong tay. Vì vậy, những trò chơi sử dụng nó như một sân chơi như tic-tac-toe, Renju hay Go ngày càng trở nên phổ biến.
+
+Puc. 1. Puc. 2.
+
+Có người luôn vui vẻ trong các giờ học ở trường hoặc trong các buổi giảng ở viện. Theo quy định, những trò chơi như vậy có hai đối thủ; ở một số nơi, số lượng người chơi là không giới hạn. Chúng tôi cung cấp cho bạn một trò chơi trên giấy ca rô.
+
+Trường “vô hạn” được cung cấp cấu hình ban đầu gồm bốn điểm (hình 1). Cần bổ sung thêm những điểm mới vào những điểm này, tuân thủ hai quy tắc sau:
+
+1. Mỗi điểm mới phải tạo thành với các điểm trước đó ít nhất một hàng gồm ba điểm đứng liền kề theo chiều dọc, chiều ngang hoặc đường chéo.
+
+2. Cấm đặt một dấu chấm nếu nó tạo thành với những dấu chấm trước đó ít nhất một hàng có nhiều hơn ba dấu chấm liền kề.
+
+Vì vậy, trên hình 2 điểm 1, 2, 3 được đặt theo quy tắc, nhưng 4 và 5 thì không, vì 4 chỉ tạo thành một cặp điểm (3, 4) và 5 tạo thành bốn điểm (5, 1, 2, 3).
+
+Mục tiêu của trò chơi là đặt càng nhiều điểm mới càng tốt.
+
+hình 3 hiển thị một số cấu hình (tức là những cấu hình không thể thêm điểm mới nếu không vi phạm quy tắc).
+
+Thay vì cấu hình ban đầu được hiển thị trong hình 1, bạn có thể sử dụng các cấu hình khác (ví dụ được đưa ra trong hình 4). Sẽ rất thú vị khi xây dựng các cấu hình cuối cùng cho chúng, cũng như tìm ra số điểm mới tối thiểu trong các cấu hình đó. Bạn cũng có thể xây dựng cấu hình với số điểm được xác định trước.
+
+Hãy cố gắng chứng minh rằng số điểm mới luôn hữu hạn đối với mọi vị trí bắt đầu.
+
+S. Khoroshkin
+
+Puc. 3.
+
+Puc. 4.

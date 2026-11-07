@@ -1,0 +1,43 @@
+---
+id: 1992-1-zadachi-8fabb330
+issue: kvant_1992_1
+year: 1992
+number: "1"
+title: Bài toán
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 29
+page_last: 29
+page_labels: "27"
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 425555b98988d83c60d8bb742ab8678aa3826b21dec58d53999202bb126f4c28
+prompt_sha256: draft-1
+translated_from: content/ru/1992/01/articles/09_zadachi-8fabb330.md
+source_content_sha256: cb0ee6e356029986eac295c6788dcc173afeee14b59ee29783ebda372ce759b3
+translation_model: draft
+translation_run: vi-draft-gaps-2026-11-06
+translation_quality: draft
+---
+
+⟦folio 27⟧
+
+---
+running_head:
+folio:
+---
+
+Bài toán
+
+1. Sau khi bán quả đào cuối cùng với giá 2 rúp 30 kopecks, người lái buôn tính toán rằng mình đã bán chúng với giá trung bình là 2 rúp 45 kopecks. Nhưng người mua đã trả lại quả đào này cho anh ta, chỉ vào lỗ sâu đục và đồng ý mua nó với giá chỉ 1 rúp 58 kopecks. Sau khi tính toán lại mức giá trung bình, người bán phát hiện ra rằng nó tương đương với 2 rúp 42 kopecks. Người bán đã bán được bao nhiêu quả đào?
+
+2. Hoàn thành hình vuông với các chữ cái T, A, B, Y, H sao cho mỗi hàng ngang, mỗi hàng dọc và mỗi đường chéo chứa tất cả các chữ cái này một lần.
+
+3. Một tam giác vuông được cắt từ một hình vuông, tổng các cạnh của nó bằng cạnh của hình vuông. Chứng minh rằng tổng các góc nhìn thấy cạnh huyền của nó từ ba đỉnh còn lại bằng 90°.
+
+4. Đi vào giữa mê cung sao cho kết quả là số 100.
+
+5. Người ta kể rằng có một người nọ khi gặp nhà triết học và toán học Hy Lạp Pythagoras đã hỏi ông: “Mấy giờ rồi?” Pythagoras trả lời: “Cho đến cuối ngày, vẫn còn hai hai năm những gì đã trôi qua kể từ đầu.” Người hỏi không cho biết ngay thời điểm xảy ra vụ va chạm sắp tới. Lúc đó là mấy giờ?
+
+Bốn bài toán đầu tiên được cung cấp cho chúng tôi bởi N. Antonovich, L. Nikonov, V. Proizvol và Alexey Larinoy cổ điển không kém trong làng. Pervomaiskoye, vùng Krasnoyarsk. bài toán cuối cùng được chúng tôi lấy từ cuốn sách vừa xuất bản của N. N. Amentsky và I. P. Sakharov “Artithmetic vui nhộn” (M.: Nauka, 1991).

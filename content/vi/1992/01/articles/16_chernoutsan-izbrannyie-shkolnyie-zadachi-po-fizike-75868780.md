@@ -1,0 +1,70 @@
+---
+id: 1992-1-chernoutsan-izbrannyie-shkolnyie-zadachi-po-fizike-75868780
+issue: kvant_1992_1
+year: 1992
+number: "1"
+title: Trường chọn lọc bài toán môn vật lý
+authors:
+  - Черноуцан А. И.
+rubric: shkola-v-kvante
+page_first: 41
+page_last: 41
+page_labels: "39"
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: a22e0cf3ef4bb5f00384f464a2fc3e23dd5ae5a8e4365dbcc48e78602e48ab72
+prompt_sha256: draft-1
+translated_from: content/ru/1992/01/articles/16_chernoutsan-izbrannyie-shkolnyie-zadachi-po-fizike-75868780.md
+source_content_sha256: 2c24d82db1f29898c95cdd39a06f8eaf27773df60b8637ec177fd13bc213e30f
+translation_model: draft
+translation_run: vi-draft-gaps-2026-11-06
+translation_quality: draft
+---
+
+⟦folio 39⟧
+
+---
+running_head:
+folio:
+---
+
+lớp 9
+
+1. Tấm ván đặt trên sàn nhẵn được nối với tải trọng đặt trên nó bằng một sợi dây vắt ngang qua khối (hình 1). Khối lượng của tấm ván là $M$, trọng lượng là $m$, hệ số ma sát giữa chúng là $u$. Tấm ván sẽ chuyển động với gia tốc bằng bao nhiêu nếu tác dụng một lực nằm ngang $F$ vào nó? Các luồng và khối có thể được coi là lý tưởng.
+
+2. Một quả bóng nhỏ phải di chuyển với tốc độ bao nhiêu bên trong một quả cầu nhẵn có bán kính $R=28$ cm để luôn nằm trong mặt phẳng nằm ngang ở độ cao $h=20$ cm tính từ điểm đáy của quả cầu?
+
+3. Phần gót của đoàn tàu được tách ra khỏi đoàn tàu đang chuyển động với vận tốc không đổi $v=64$ km/h. Sau một thời gian vận tốc của ô tô giảm đi 2 lần. Giả sử lực kéo không thay đổi trong thời gian nghỉ, hãy tìm vận tốc đầu tàu tại thời điểm này. Lực cản chuyển động tỷ lệ thuận với lực phản ứng bình thường.
+
+4. Một dòng nước nằm ngang chạm vào một bức tường thẳng đứng. Sau khi trốn thoát, nước chảy xuống tường. Tìm lực mà tia tác dụng lên tường nếu diện tích mặt cắt ngang của vảy là $S=5$ cm² và tốc độ của nó là $v=8$ m/s.
+
+5. Một viên đạn bay theo phương ngang với vận tốc $v$ vỡ thành hai mảnh. Ngay sau khi đứt, vận tốc của một chiếc cói hướng thẳng đứng và bằng $v$, còn vận tốc của chiếc cói kia bằng 5 $v$. Tìm tỉ số khối lượng của các mảnh.
+
+lớp 10
+
+6. Hai điện tích dương giống hệt nhau đặt cách nhau một khoảng. Lực tác dụng lên một trong các điện tích này sẽ tăng lên bao nhiêu lần nếu một điện tích thứ ba cùng dấu, nhưng lớn gấp đôi, được đặt ở giữa đường thẳng nối hai điện tích?
+
+7. Một proton (khối lượng $m$, điện tích $e$) chuyển động từ vô cực, với tốc độ là $v$, về phía một hạt $a$ đứng yên (khối lượng 4 $m$, điện tích 2 $e$). Tìm khoảng cách nhỏ nhất giữa các hạt khi chuyển động.
+
+8. Một tụ điện bản song song được tích điện theo hướng $U$. Cường độ trường trong tụ điện (ngoại trừ một vùng nhỏ gần các cạnh) có thể coi là không đáng kể so với hướng bên trong tụ điện (hình 2). Từ đó có thể kết luận rằng công do điện trường thực hiện để di chuyển điện tích thử nghiệm $q$ từ điểm $A$ đến điểm $B$ dọc theo quỹ đạo đi qua bên ngoài tụ điện là bằng không?
+
+9. Hai tụ điện, có điện áp định mức tối đa là $U=300$ V mỗi tụ điện, nhưng có điện dung khác nhau $C_1=500$ pF và $C_2=300$ pF, được mắc nối tiếp. Điện áp tối đa có thể đặt vào một tụ điện tương ứng là bao nhiêu?
+
+10. Tấm thủy tinh được lấp đầy hoàn toàn bởi mezopus của một tụ điện phẳng, điện dung của nó khi không có bản tụ là $C=2$ µF. Tụ điện được sạc từ một nguồn có EMF $E=1000$ V, sau đó ngắt kết nối khỏi nguồn đó. Tìm công cơ cần thực hiện để chống lại lực điện để tháo tấm ra khỏi tụ điện. Ngăn xếp thực phẩm điện môi $\varepsilon=2$.
+
+lớp 11
+
+11. Bước sóng của hành tím trong nước bằng bước sóng của hành lá trong không khí. Mặt nước được chiếu sáng bằng ánh sáng đỏ. Một người sẽ nhìn thấy màu gì khi mở mắt ra?
+
+12. Để giảm sự phản xạ song song của ánh sáng từ bề mặt thủy tinh, chúng được phủ một lớp màng mỏng chất có chiết suất $n$ nhỏ hơn $v$ của ngăn xếp (còn gọi là phản xạ quang học). Độ dày màng nên là bao nhiêu để đạt được hiệu suất tốt nhất ở bước sóng ánh sáng $\lambda$?
+
+13. Có thể quan sát được bao nhiêu cực đại trong giản đồ nhiễu xạ ở tần số bình thường của ánh sáng đơn sắc có bước sóng $\lambda=600$ nm trên một cách tử có chu kỳ $d=3$ µm?
+
+14. Một ống tia X hoạt động ở điện áp $U=66$ kV với dòng điện $I=15$ mA phát ra $N=10^{16}$ photon mỗi giây. Giả sử bước sóng bức xạ là $\lambda=10^{-10}$ m, hãy xác định hiệu quả của việc lắp đặt.
+
+15. Khi tần số ánh sáng chiếu vào kim loại tăng gấp đôi thì điện áp hãm của các electron quang điện tăng gấp ba lần. Tần số của ánh sáng tới kênh đầu tiên là $v=1,2 \cdot 10^{15}$ Hz. Xác định bước sóng (tính bằng nanomet) của ánh sáng tương ứng với hiệu ứng quang điện của kim loại này.
+
+Hình 1.
+
+Ấn phẩm do A. Chernochan biên soạn

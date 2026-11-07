@@ -1,0 +1,55 @@
+---
+id: 1992-1-predmetyi-meblirovki-3cf3f989
+issue: kvant_1992_1
+year: 1992
+number: "1"
+title: Đồ nội thất
+rubric: kvant-ulybaetsya
+rubric_sub: «Квант» улыбается
+page_first: 73
+page_last: 73
+page_labels: "71"
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: c0f943439cf2ba48d53ce88b98822384fa4652f6c611716b31cf25b748cc6597
+prompt_sha256: draft-1
+translated_from: content/ru/1992/01/articles/28_predmetyi-meblirovki-3cf3f989.md
+source_content_sha256: 1c0823412badcd9e161f0e056a5975449d550e74208a6c096834ce5f45de872b
+translation_model: draft
+translation_run: vi-draft-gaps-2026-11-06
+translation_quality: draft
+---
+
+⟦folio 71⟧
+
+---
+running_head:
+folio:
+---
+
+Đồ nội thất
+
+Ghế dành cho người lái xe.
+Kéo dài sự hài lòng khi đi xe.
+
+Chiếc ghế "Toulouse-Lautrec"
+cho một vũ công cancan.
+
+Ghế Plock. Thuận tiện vì nó chiếm ít không gian.
+
+Ghế cắm trại. Dây đai cho phép bạn treo nó trên vai và cho phép bạn cởi nó ra khi đang di chuyển.
+
+Chiếc giường dành cho người giữ thăng bằng. Cho phép bạn tiếp tục tập luyện trong khi ngủ.
+
+Bảng tête-à-tête.
+Cho phép người đối thoại ngồi gần nhau.
+
+Bàn dành cho người béo.
+
+Bàn bập bênh. Được thiết kế để giải trí trên parocode. Lặp lại bất kỳ ngón tay hỗ trợ nào.
+
+Từ Danh mục các vật thể bất khả thi của Karelman.
+Bản dịch từ tiếng Pháp.
+
+71

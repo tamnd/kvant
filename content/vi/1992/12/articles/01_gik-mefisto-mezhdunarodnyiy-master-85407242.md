@@ -1,0 +1,68 @@
+---
+id: 1992-12-gik-mefisto-mezhdunarodnyiy-master-85407242
+issue: kvant_1992_12
+year: 1992
+number: "12"
+title: '"Mephisto" - bậc thầy quốc tế'
+authors:
+  - Гик Е. Я.
+rubric: shahmatnaya-stranichka
+rubric_sub: Шахматы
+page_first: 83
+page_last: 83
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 321a72156cfac86ad20a92483a2b08065e25475942d4ab4535164aceee416eb1
+prompt_sha256: draft-1
+translated_from: content/ru/1992/12/articles/01_gik-mefisto-mezhdunarodnyiy-master-85407242.md
+source_content_sha256: 2e3fd8f085694c5eedbcaeb49a9c1f778da00daa801939a2c00163ccce47c746
+translation_model: draft
+translation_run: vi-draft-gaps-2026-11-07
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+---
+running_head:
+folio:
+---
+
+MEPHISTO —
+QUỐC TẾ
+BẬC THẦY
+Người dẫn chương trình của chuyên mục Beat vào mùa hè năm nay tại Đức, nơi anh tham gia giải đấu quốc tế truyền thống “Mùa hè Berlin”. Các giải đấu này được tổ chức theo hệ thống Thụy Sĩ và thu hút các võ sư, kiện tướng từ khắp nơi trên thế giới, những năm gần đây có khoảng 500 người. Cuộc thi ở Berlin đã được tổ chức trong mười năm liên tiếp và nhà vô địch thế giới về máy vi tính “Mephisto” luôn chơi trong đó. Lần này “Mephisto” đã vượt qua chính mình. Ghi được 6 điểm sau 9 ván, máy lọt vào top 50 cao thủ và đạt chuẩn Master Quốc tế. Hãy xem một số mẫu cách chơi của nhà vô địch điện tử.
+
+"Mephisto" - Gruzman
+Khai mạc cầm đồ của Nữ hoàng
+1. d4 Kf6 2. c4 d6 3. Kc3 Cf5 4. f3 e5 5. e4 ed 6. Q:d4 Kc6 7. Qd1 Ce6 8. Cd3 Ce7 9. Kge2 0—0 10. 0—0 Kd7 11. Ce3 Kde5 12. Kd5. Đầu ván đấu, Đen chơi theo cách khiến máy không thể sử dụng thư viện mở đầu của nó, nhưng “Mephisto” không hề thua kém và giành được thế chủ động.
+12... Jle8 13. Kef4 Cf8 14. Ce2 a5 15. Qb3 b6 16. Kc3 g6 17. Jlad1 Cg7 18. K:e6 fe 19. f4 Kf7 20. e5 Jle8 21. Cf3 Kb4 22. a3 Ka6 23. Cc6 Jle8 24. Qb5 Kc5 25. b4 ab 26. ab Kb7 27. c5 Qh4 28. cd cd 29. Q:b6 Kc5 30. Qa7 K:e5.
+
+Vị trí hài hước. Cả hai hiệp sĩ đen đều bị tấn công, nhưng không ai trong số họ có thể bị bắt, vào ngày 31. bc theo sau 31...Kg4, và vào ngày 31. fe - 31...C:e5. Tuy nhiên, máy tính thực hiện một chuyển động lặng lẽ và ngay lập tức chấm tất cả các chữ i.
+
+31. Cd4! Jl:b4 31. C:e5 de 33. Q:c5 Jlb:f4 34. Jlf3 Jlc4 35. Qd6 Jl:f3 36. C:f3 Jl:c3 37. Q:e6+ Kpf8 38. Cd5 Qf6 39. Jlf1. Giao dịch đen.
+
+Trong trò chơi, “Mephisto” có vẻ hơi hầm hố, giống như một chiếc tủ lạnh, hơn nữa xung quanh nó luôn có rất nhiều người. Vì vậy, ban tổ chức quyết định bố trí một phòng đặc biệt cho ô tô. Một người đàn ông ngồi ở bàn cờ chung và máy tính ở gần đó, ở bàn kế bên. Khi một người di chuyển, người trợ lý sẽ sắp xếp lại các mảnh trên bảng máy tính. Câu trả lời “Mephisto” (đèn nhấp nháy ở các trường tương ứng) và trợ lý di chuyển các quân cờ trên hai bảng cùng một lúc, đồng thời chuyển đổi đồng hồ. Và thế là trò chơi diễn ra… Đây là hai ví dụ nữa về sự sáng tạo của Mephisto trong mùa hè Berlin.”
+
+"Mephisto" - Fritsch
+Phòng thủ Scylian
+1. e4 c5 2. Kf3 Kf6 3. Kc3 Kc6 4. d4 d5 5. ed K:d5 6. K:d5 Q:d5 7. Ce3 cd 8. K:d4 Qa5+ 9. c3. Sự so sánh đầu tiên đã dẫn đến sự đơn giản hóa và gần đúng sự bình đẳng. Tuy nhiên, Đen quyết định chủ động và ngay lập tức phải lòng bộ ba chiến thuật.
+9...K:d4 10. C:d4 e5? 11. Qh5!
+
+Hậu không chỉ rơi vào con tốt e5 mà đồng thời đặt quân “f” hàng xóm của mình đến giải cứu. Kết quả là Đen sẽ không có Tốt (11...Cd6 12. f4).
+
+11...Ce7 12. Q:e5 Q:e5+ 13. C:e5. Phần còn lại rất đơn giản. Sự phản kháng ngoan cố của con người chỉ làm trì hoãn điều không thể tránh khỏi. Công nghệ thực hiện của máy khá cao.
+13...0—0 14. Cc4 Cd7 15. 0—0 Las8 16. Cd5 Cc6 17. C:c6 J:c6 18. Jfe1 f6 19. Cd4 Kpf7 20. Jle2 a6 21. Jlae1 Cd6 22. g3 Jlfc8 23. f4 b5 24. Kpg2 Cf8 25. Kpf3 Cd6 26. g4 g6 27. Je6 Cc5 28. f5 Jfe6 29. Jfe6 Cc4 30. cd Jlc2 31. J:a6 J:h2 32. Jla7+ Kpe8 33. Kpe4 J:b2 34. J:h7 J:a2 35. fg b4 36. Jh8+. Giao dịch đen.
+
+Trận đấu tiếp theo rất thú vị, trong đó một võ sư quốc tế đến từ Đức thi đấu với máy.
+
+Tinius - "Mephisto"
+sự khởi đầu của tiếng Catalan
+1. d4 Kf6 2. c4 e6 3. Kf3 d5 4. g3 Ce7 5. Cg2 0—0 6. Kc3 dc 7. Ke5 c5 8. dc C:c5 9. 0—0 Fc7. Belle không vội giành lại con tốt và Đen gián tiếp bảo vệ nó.
+10. K:c4 C:f2+ 11. J:f2 Q:c4 12. J:f6! Rõ ràng, Trắng đang tính đến đòn này: sau con tốt, họ hy sinh một phẩm chất, nhưng vua đen hiện đang gặp nguy hiểm.
+12...gf 13. Ch6 Kc6 14. e3 Jld8 15. Qh5 e5 16. Ke4 Qe6 17. Qh4 Kph8 18. K:f6 Ke7 19. Jf1. Sau 19. Cf8! Chiếc xe ở trong tình trạng vô vọng. Nhưng Trắng thực hiện một nước đi rõ ràng và Mephisto đã đẩy lùi được cuộc tấn công.
+19...Kg6 20. Qh5 Jlg8 21. Cg5. Theo Mephisto, tất cả những người mà Đen không thể thu thập đều hiểu rõ những phức tạp về mặt chiến thuật và chiếm thế thượng phong.
+21...Jle7 22. Qh6 Kf8 23. Jld1 Qf5 24. Jld8 Qb1+ 25. Kpf2 Q:b2+ 26. Kpg1 Qb1+ 27. Kpf2 Q:a2+ 28. Kpg1 Qb1+ 29. Kpf2 Qc2+ 30. Kpg1 Ch3! 31. J:f8+ J:f8 32. C:h3 Jld8. Đồ vải lanh đã xong.
+
+E. Gik

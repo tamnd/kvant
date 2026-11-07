@@ -1,0 +1,31 @@
+---
+id: 1992-3-fokus-s-angliyskoy-banknotoy-d36f6732
+issue: kvant_1992_3
+year: 1992
+number: "3"
+title: '[Trò lừa tiền giấy của Anh]'
+rubric: smes
+page_first: 84
+page_last: 84
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: d7747a0a8240b5d2edccfbd693bbfc581068027b9a061926b0794cc7126512d8
+prompt_sha256: draft-1
+translated_from: content/ru/1992/03/articles/01_fokus-s-angliyskoy-banknotoy-d36f6732.md
+source_content_sha256: 6ea5366f07d761fed2cffb4979e5d90991622e1e616422515a5f26acc53d2e71
+translation_model: draft
+translation_run: vi-draft-gaps-2026-11-06
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+---
+running_head:
+folio:
+---
+
+Bạn có muốn Nữ hoàng Anh mỉm cười với bạn không? Vào ngày 2 tháng 3, tháng của ngày lễ Phụ nữ, ngày 8 tháng 3, biên tập viên quyết định gửi tặng đến toàn thể độc giả và độc giả của tạp chí nụ cười của Nữ hoàng Elizabeth.
+Để nhận được quà của chúng tôi, hãy làm theo các bước sau. Cẩn thận vẽ bìa tạp chí dọc theo các đường chấm dọc đó rồi gấp các cạnh của tờ giấy về phía giữa để bạn có được nếp gấp hình chữ M. Sau đó nghiêng tờ giấy ra xa bạn và thế là xong - nữ hoàng với tờ tiền 20 bảng Anh sẽ đích thân mỉm cười với bạn. Cẩn thận! Đừng quay tờ giấy về phía bạn. Trong trường hợp này, nữ hoàng sẽ nhìn bạn rất không thiện cảm. Nhân tiện, thủ thuật này không có tác dụng với bất kỳ tờ tiền nào của Liên Xô. Khi nhân vật của họ không quay mặt về phía chúng ta, họ nhìn vào sự lựa chọn.
+Chúng tôi hy vọng rằng bạn sẽ không khó hiểu được tính chất vật lý của tiêu điểm. Thoạt nhìn, có vẻ như khi nữ hoàng cười, hàm răng của bà sẽ nâng lên. Trên thực tế, khi bạn nghiêng một tờ giấy, các răng vẫn giữ nguyên và phần giữa của răng sẽ hạ xuống, tạo ra hiệu ứng của một nụ cười.

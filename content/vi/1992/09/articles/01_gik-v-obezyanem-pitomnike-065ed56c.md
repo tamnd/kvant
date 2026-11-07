@@ -1,0 +1,68 @@
+---
+id: 1992-9-gik-v-obezyanem-pitomnike-065ed56c
+issue: kvant_1992_9
+year: 1992
+number: "9"
+title: Trong vườn ươm khỉ
+authors:
+  - Гик Е. Я.
+rubric: shahmatnaya-stranichka
+rubric_sub: Шахматы
+page_first: 83
+page_last: 83
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 5d3cd07aca75091cd13aefb5fe9ef29d60d162a6216f2b1deecd65a4798e6ae1
+prompt_sha256: draft-1
+translated_from: content/ru/1992/09/articles/01_gik-v-obezyanem-pitomnike-065ed56c.md
+source_content_sha256: 45476a1d4af4aa607c5c2b60722b32d9e2ba95dcf8e682c380ec1796c4099b4f
+translation_model: draft
+translation_run: vi-draft-gaps-2026-11-07
+translation_quality: draft
+---
+
+⟦folio 8⟧
+
+---
+running_head:
+folio:
+---
+
+TRONG KHỈ
+nhà trẻ
+Như bạn còn nhớ, năm 1992 là năm con khỉ, và chúng tôi chỉ dành một trong những “trang cờ vua” cho “chủ đề con khỉ”, nhân tiện, chủ đề này khá phổ biến trong cờ vua. Chúng ta đang nói về nhiều kiểu đối xứng khác nhau, sao chép trò chơi của đối thủ, điều này chắc chắn được độc giả của “Lượng tử” quan tâm (xem thêm số 12-86 và số 2-89). Hãy bắt đầu với ví dụ tuyệt vời sau đây.
+
+L. Lindgren, 1981
+Chiếu hết trong 2 nước đi
+Ngoài sự hiện diện của chữ “h” cực dọc, vị trí này hoàn toàn đối xứng (đối xứng trục). Do đó, nếu lời giải tồn tại thì do tính đối xứng nên giây cũng phải tồn tại. Và ai có thể ngờ rằng chiều dọc này lại có ý nghĩa tồn tại!
+
+1. Ka3! 2. Nxb5× đe dọa, quân xe đi đến đâu thì Đen cũng không thể trốn thoát: 2. Qc5× hoặc 2. Qb4× sẽ theo sau. Không đạt 1. Ks7? (1. Ks3?) vì đáp số 1... La5! và các hiệp sĩ riêng của Trắng ngăn cản Trắng tuyên bố thảm bại. Nhưng tại sao không thể đạt được 1. Ng3 với mối đe dọa đối xứng là 2. Nxf5×? Hóa ra Đen được cứu bởi 1... Ch3! - đây là lúc dòng “h” trở nên hữu ích: quân xe được bảo vệ và không có quân cờ.
+
+Chúng ta đã nhiều lần nói về trò khỉ trong đó việc lặp lại nước đi dẫn đến việc chiếu tướng nhanh chóng vua đen. Dưới đây là những bộ phim ngắn nổi tiếng của S. Loyd: 1. c4 c5 2. Q4 Q5 3. Qs6 Qs3 4. F: c8× hoặc 1. d4 d5 2.
+
+Qd3 Qd6 3. Qh3 Qh6 4. Q: c8×. Những trò chơi đối xứng trong đó vua trắng kết thúc bằng chiếu tướng cũng rất hài hước:
+1. e4 e5 2. Ke2 Ke7 3. Ke3 Ke6 4. Qf3 Qf6 5. Ke2 Ke7 6. b3 b6 7. Ca3 Ca6 8. Kd4+,
+và Đen bất ngờ buộc phải khai báo mat: 8...ed×.
+
+Ít được biết đến hơn là những trò chơi trong đó Đen lặp lại hành động của đối thủ ở cánh bên kia (sự đối xứng so với tâm bàn cờ):
+1. e4 d5 2. e5 d4 3. c3 f6 4. ef dc 5. fe cd + 6. C:d2 C:e7 7. Kf3 Kc6 8. Kc3 Kf6 9. Ke2 Kd7 10. Kfd4 Kce5 11. Ke6 Kd3×!
+
+Những người hâm mộ trò chơi cờ vua có thể yêu cầu các quân cờ khác để tạo nên một trò chơi với quân cờ. Và đây là cái này cùng chủ đề.
+
+I. Rick, 1969
+THẮNG
+1. de fe 2. ed ef 3. de fe 4. ed ef 5. de fe 6. e8Ф, tôi sẽ trả thù cho sự xấu hổ trước đây.
+Chúng ta hãy xem xét một số ví dụ hài hước hơn về việc buộc phải lặp lại các động tác.
+
+G. Ram, 1989
+Chiếu hết trong 6 nước đi
+Sai 1. Ke7? Ke3! 2. Ch6 C:h4 3. C:e3 C:e7 hay 1. Cd6? Cd4! 2. Ke7 Ke3 3. Cf4 Cf6 4. C:e3 C:e7. 1. Ch6 dẫn tới mục tiêu! (với lời đe dọa 2. Ke7 Ke3 3. C:e3) 1...Ch4! 2. Cf8 Cf2 3. Cd6! Cd4 4. Ke7 Ke3 5. h4! Đây là ý nghĩa của việc mất quân h - Đen đang ở thế tsugivan và ở nước đi tiếp theo, quân đen sẽ đẩy thảm.
+
+I. Birbraer, 1955
+THẮNG
+Đi qua đầm lầy trisina, du khách thường đi theo con đường mòn, nhớ rằng chỉ cần vắng mặt một chút cũng có thể dẫn đến tử vong...
+1. b7 g4+ 2. Kpg3 Ce3! Sẵn sàng cho 3. b8Ф? bất ngờ 3... Kpg1 và 4... h1K× 3. Cf2! Cd4 4. Ce3! Cc5 5. Cd4! Cb6 6. Cc5! Ca7 7. Cb6! Cb8+ 8. Kpf2 Cg3+ 9. Kpf1. Di chuyển dấu vết được đánh dấu trong lời giải.
+Lần tới chúng ta sẽ lại đến khu bảo tồn khỉ.
+
+E. Gik
