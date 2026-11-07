@@ -1,0 +1,30 @@
+---
+id: 1992-10-tetraedr-iz-kubikov-9ee7af16
+issue: kvant_1992_10
+year: 1992
+number: "10"
+title: Tứ diện được làm từ hình khối
+rubric: smes
+page_first: 84
+page_last: 84
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 68aa852dbf8a196acce1ff827ef4e990f48b35c7715a4895925abf33ae47a779
+prompt_sha256: draft-1
+translated_from: content/ru/1992/10/articles/02_tetraedr-iz-kubikov-9ee7af16.md
+source_content_sha256: a1082262c04317660fca5d95ed24f4fdc9c2c4d99dac750f5dd1cd74b1ee764b
+translation_model: draft
+translation_run: vi-draft-gaps-2026-11-07
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+---
+running_head:
+folio:
+---
+
+TỨ HIỆN TỪ KHỐI
+Nhà toán học người Mỹ Stoart Coffey định kỳ khiến thế giới ngạc nhiên với những câu đố độc đáo của mình. Theo mùa bạn thấy trên hình phát minh tiếp theo của anh ấy. 3 phần được dán lại với nhau từ 10 chiếc cốc giống hệt nhau và một kim tự tháp hình tam giác được ghép lại từ chúng. Bất kỳ đứa trẻ nào cũng có thể ghép một kim tự tháp gồm 10 chiếc cốc riêng lẻ; Không khó để tháo rời câu đố Coffey thành 3 phần, nhưng việc kết nối chính xác 3 phần lại với nhau và lắp ráp lại kim tự tháp hóa ra lại là một nhiệm vụ rất khó khăn. Bạn có thể thấy điều này cho chính mình. Lấy 10 chiếc cốc làm sẵn hoặc dán chúng lại với nhau từ giấy dày hoặc bìa cứng. Hình chiếu của các mảnh hiển thị ở trên chứa tất cả thông tin cần thiết để dán ba mảnh của 10 chiếc cốc lại với nhau. Các hình khối được dán lại với nhau bằng 1/2 cạnh. Điều rất quan trọng là tất cả các hình khối đều có cùng kích thước, nếu không bạn sẽ không bao giờ thấy câu đố của mình được giải. Khi bạn đã chinh phục xong Kim tự tháp Coffey, hãy thử sáng tạo ra những thiết kế của riêng mình. Thay đổi cấu hình của các bộ phận cốc. Hãy nghĩ về những mảnh ghép mà từ đó bạn có thể lắp ráp các câu đố theo hình kim tự tháp tứ giác, hình bát giác hoặc hình cầu. Gửi mô hình của bạn cho người biên tập trong phần “Bộ sưu tập các câu đố”, sẽ xuất hiện trên tạp chí của chúng tôi vào năm 1993.

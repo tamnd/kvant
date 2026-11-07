@@ -1,0 +1,62 @@
+---
+id: 1992-1-obyavlenie-kievskogo-politehnicheskogo-litseya-dlya-abiturientov-8383eda5
+issue: kvant_1992_1
+year: 1992
+number: "1"
+title: '[Thông báo của Lyceum Bách khoa Kyiv dành cho người nộp đơn]'
+rubric: smes
+page_first: 11
+page_last: 11
+page_labels: "9"
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 053696cd30ba24bb6dbd13988ee6350297f9a874488f8ccbbd8a506beae58bdb
+prompt_sha256: draft-1
+translated_from: content/ru/1992/01/articles/04_obyavlenie-kievskogo-politehnicheskogo-litseya-dlya-abiturientov-8383eda5.md
+source_content_sha256: afb32795b54bf94468216d9178a1060ba474681af7587a26821ee857eb6cb03b
+translation_model: draft
+translation_run: vi-draft-gaps-2026-11-06
+translation_quality: draft
+---
+
+⟦folio 9⟧
+
+---
+running_head:
+folio:
+---
+
+kov, - tối thiểu. Nếu chúng ta so sánh vị trí của một phần tử cụ thể trong một khối cụ thể với hướng của một trong các spin, thì sự tương tự của việc tối ưu hóa bài toán này với bài toán xác định cấu hình ổn định của các spin trong kính quay sẽ ngay lập tức trở nên rõ ràng.
+
+Chúng ta đã nói rằng kính quay có một loại trí nhớ. Nếu bạn từ hóa nó và sau đó tắt trường, thì hệ thống sẽ đi vào một thung lũng gần đó, tức là đi vào một thung lũng trong đó hướng của các spin giống nhất với hướng của các spin ở trạng thái từ hóa (một quả bóng được nâng lên sườn của một trong những ngọn núi và sau đó được thả ra sẽ hành xử theo cách tương tự). Điều này có nghĩa là kính quay lấp đầy hướng quay trong từ trường.
+
+Một tập hợp các hướng quay cụ thể tương ứng với bất kỳ thung lũng nào có thể được coi là một hình ảnh mà hệ thống lấp đầy. Sau đó, quá trình chuyển đổi từ trạng thái ban đầu sang thung lũng tự nhiên được coi là sự lắng đọng của hình ảnh được đưa vào đầu vào của hệ thống với hình ảnh được lưu trong bộ nhớ. Trong trường hợp này, hình ảnh được gửi đến đầu vào hệ thống sẽ bị trễ
+tương ứng với hình ảnh được lưu trong bộ nhớ hệ thống, khác một chút so với hình ảnh đầu vào. Điều này có nghĩa là nếu các thung lũng chẳng hạn tương ứng với hình ảnh của các loài động vật khác nhau và đầu vào là hình ảnh của một con thỏ rừng không có chân, thì hệ thống sẽ đặt nó với một con thỏ rừng chứ không phải với một con sói, mặc dù thực tế là hình ảnh của một con thỏ rừng có cả bốn chân được lưu trữ trong bộ nhớ.
+
+Hệ thống được cho là có bộ nhớ liên kết (theo liên kết). Bộ nhớ này, không giống như bộ nhớ máy tính, không được lưu trữ trong các ô riêng lẻ mà là tài sản chung của toàn bộ hệ thống. Vì vậy, nó có một ưu điểm quan trọng - không nhạy cảm với các khuyết tật. Việc tắt hoặc làm hỏng một phần hệ thống sẽ chỉ dẫn đến khả năng nhận dạng hình ảnh kém hơn nhưng bộ nhớ vẫn còn.
+
+Người ta tin rằng hệ thống mạng lưới thần kinh của não, nơi cung cấp cho con người trí nhớ chất lượng cao, cũng “hoạt động” theo cách tương tự.
+
+Nghiên cứu chuyên sâu về kính quay đang được tiến hành. Và ai biết được những tác phẩm này thoạt nhìn có bao nhiêu điểm hấp dẫn cần thiết và thú vị.
+
+TRƯỜNG Bách Khoa KNEV
+
+tiếp nhận học sinh lớp 8-11 vào các khoa vật lý và toán học tương ứng để chuẩn bị vào phòng thí nghiệm
+
+Các giáo viên Lyceum, cùng với Viện Vật lý và Công nghệ Moscow, đã phát triển các công cụ hỗ trợ giảng dạy đặc biệt cho việc học từ xa, bao gồm lý thuyết, phương pháp lời giải bài toán, các bài kiểm tra và ví dụ lời giải hơn 1500 bài thi cạnh tranh bài toán.
+
+Quyền sử dụng độc quyền thuộc về Polytechnic Lyceum. Tất cả học sinh đều được đào tạo theo chương trình đầy đủ, bất kể họ vào Lyceum từ lớp nào.
+
+Tổng chi phí đào tạo ở một khoa là 216 rúp.
+Khoản phí này sẽ chỉ được thanh toán ngay cho học sinh lớp 11.
+Tác phẩm kinh điển thứ tám sẽ đóng góp 54 rúp hàng năm, tác phẩm kinh điển thứ chín - 72 rúp, tác phẩm kinh điển thứ mười - 108 rúp.
+Để đăng ký vào một khoa (hoặc cả hai cùng lúc), hãy gửi đơn đăng ký đến Lyceum theo địa chỉ:
+252001, Kiev-1, st. Khreshchatyk-12, Bách khoa Lyceum.
+Cho biết trường đại học bạn muốn đăng ký.
+Đính kèm biên lai thanh toán cho một năm học vào đơn đăng ký.
+Thanh toán có thể được thực hiện từ bất kỳ bưu điện nào bằng lệnh bưu điện được đào tạo đến địa chỉ:
+252001, Kyiv-1, chi nhánh Pechersk của USB, p/c 1609455, Polytechnic Lyceum.
+Lớp học đợt đầu tiên bắt đầu vào ngày 10 tháng 5, đợt thứ hai là ngày 10 tháng 10.
+Các doanh nghiệp có thể thực hiện thanh toán bằng chuyển khoản ngân hàng, chúng tôi sẽ thông báo cho bạn - MFO 322090.
+Chúng tôi sẵn sàng chuyển giao phương pháp giảng dạy cho các học viện dự bị cũng như mở phim Lyceum. Để biết thông tin xin vui lòng gọi (044) 228-81-85.

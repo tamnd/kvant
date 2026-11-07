@@ -1,0 +1,34 @@
+---
+id: 1992-8-zakoldovannaya-petlya-2ac87c8b
+issue: kvant_1992_8
+year: 1992
+number: "8"
+title: Vòng lặp mê hoặc
+rubric: smes
+page_first: 84
+page_last: 84
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 62f87ea8bd1fb8dd4cae5bb9971e94ff6ed656cdc5a63dad98c322294aa3ae92
+prompt_sha256: draft-1
+translated_from: content/ru/1992/08/articles/01_zakoldovannaya-petlya-2ac87c8b.md
+source_content_sha256: 361893018f9ecc5c202144fa28e6740333fb866b23ed42a215ee5835f50b921f
+translation_model: draft
+translation_run: vi-draft-gaps-2026-11-07
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+---
+running_head:
+folio:
+---
+
+TUYỆT VỜI
+VÒNG
+Câu đố cổ điển trong hình của chúng tôi thường được thấy ở các cửa hàng đồ chơi ở Châu Âu, nhưng không khó để bạn tự làm. Câu đố yêu cầu bạn đánh giá một vòng dây từ một vòng dây. Thời gian phân bổ cho lời giải được ghi trên bao bì: 1 giờ - xanh, 5 giờ - xuất sắc, 3 ngày - tốt, 10 ngày - đạt yêu cầu, 15 ngày - xuất sắc cho sự kiên trì.
+Chúng tôi hy vọng rằng những ai đã đọc các bài viết về cấu trúc liên kết trong «Kvant» sẽ có thể giải được LOBOLOGY trong vòng chưa đầy 1 giờ. Cấu trúc liên kết, như đã biết, nghiên cứu các tính chất của không gian được bảo toàn dưới bất kỳ phép biến đổi liên tục nào. Liên quan đến món đồ chơi này, điều này có nghĩa là trong quá trình tìm kiếm lời giải các bộ phận của nó có thể được gọi lại, kéo dài hoặc loại bỏ theo bất kỳ cách nào (đặt, về mặt tinh thần), nhưng không thể bị xé rời. Một ví dụ về các phép biến đổi liên tục được thể hiện bằng hình ảnh trên phiên bản đơn giản của câu đố. Nó sẽ giúp bạn hiểu cấu trúc của các vòng dây phức tạp và cho bạn biết bạn cần theo trình tự nào để nhận biết các vòng dây của sợi dây.
+
+Năm 1993, «Kvant» bắt đầu xuất bản một loạt LOBOLOMK mới. Chúng có sẵn để bạn tự làm nhưng khá khó làm lời giải. Vào cuối năm, bạn sẽ trở thành chủ sở hữu của một bộ sưu tập trò chơi nói chuyện độc đáo.

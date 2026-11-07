@@ -1,0 +1,79 @@
+---
+id: 1992-8-xv-moskovskaya-ekonomiko-matematicheskaya-olimpiada-e74aae47
+issue: kvant_1992_8
+year: 1992
+number: "8"
+title: Olympic Toán và Kinh tế Moscow lần thứ XV
+rubric: olimpiady
+rubric_sub: Олимпиады
+page_first: 70
+page_last: 71
+page_labels: 68-69
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 7471a3401b4a01379aa73ad298ecfd7d5875909b9f98fe203c6a46be8d39f4b0
+prompt_sha256: draft-1
+translated_from: content/ru/1992/08/articles/21_xv-moskovskaya-ekonomiko-matematicheskaya-olimpiada-e74aae47.md
+source_content_sha256: 36988e417deff50e60ab3041c254a1c20b1706af64b17af6ddcb4b909fb87865
+translation_model: draft
+translation_run: vi-draft-gaps-2026-11-07
+translation_quality: draft
+---
+
+⟦folio 68⟧
+
+I. Tabov
+
+Olympic Toán-Kinh tế Moscow lần thứ XV
+
+Chúng tôi cung cấp cho bạn bài toán Kỳ thi Olympic Toán-Kinh tế Moscow lần thứ XV dành cho học sinh lớp 9-11, được tổ chức vào tháng 3 năm 1992 tại Khoa Kinh tế của Đại học Tổng hợp Moscow. Nó được chuẩn bị và thực hiện bởi các nhân viên, nghiên cứu sinh và sinh viên của Khoa Phương pháp Toán học Phân tích Kinh tế.
+
+Ở mỗi loại trong số hai loại Olympic, đều có 4-5 bài toán tham gia, hầu hết không chỉ yêu cầu kiến ​​thức toán học mà còn cần một số hiểu biết về kinh tế. Khi tổng hợp kết quả, cả những nhà lãnh đạo tuyệt đối và “nhà kinh tế giỏi nhất trong số các nhà toán học” và “nhà toán học giỏi nhất trong số các nhà kinh tế” đều được công nhận.
+
+Nếu bạn quan tâm đến khoa học giao thoa giữa kinh tế và toán học, bạn có thể liên hệ với trường kinh tế-toán học buổi tối, tồn tại tại Khoa Kinh tế của Đại học Tổng hợp Moscow từ năm 1968.
+
+⟦folio 69⟧
+
+---
+running_head:
+folio:
+---
+
+Theo truyền thống, vào lúc 10 giờ Chủ nhật thứ ba của tháng 9, một cuộc phỏng vấn sẽ diễn ra tại EMS (tại địa chỉ: Moscow, Leninskie Gory, Lebedeva St., tòa nhà học thuật thứ 2, EMS).
+
+1. Limonia là một quốc gia mẫu hệ. Trong đó, mọi người đều bán chanh hoặc trồng chúng. Mỗi gia đình có bốn người con trai. Hai người con trai của thương gia và một người con trai của nông dân trở thành thương nhân, những người còn lại trở thành nông dân. Vào thời độc lập, dưới thời vua Limon, mọi người đều là nông dân. Tỷ lệ nông dân ở Limonia hiện đại là bao nhiêu?
+
+2. Một con lợn nặng 50 kg bước vào cửa hàng tạp hóa. Cửa hàng đã tích lũy được lượng xúc xích dư thừa, bao gồm 20% thịt lợn và 80% bìa cứng, và họ quyết định sử dụng nó cho một con lợn đang mở bụng. Sau một thời gian, con lợn nặng 250 kg, tỉ lệ là 1:1. Cô được đưa đến một nhà máy chế biến thịt và chế biến thành xúc xích, với hiệu suất thịt là 75%. Nếu chúng ta giả sử rằng một con lợn có cùng trọng lượng ban đầu sẽ lại vào cửa hàng và mở cửa hàng với xúc xích thu được từ con lợn đầu tiên có trọng lượng lên tới 250 kg thì “hệ số bìa cứng” của con lợn này sẽ là bao nhiêu?
+
+3. Ở một quốc gia có hệ thống tiền tệ vô tổ chức (lượng cung tiền trong lưu thông lớn hơn nhiều lần so với mức cần thiết, gây thâm hụt và lạm phát cao), họ quyết định tiến hành cải cách tài chính nhằm giảm cung tiền càng nhiều càng tốt. Các quốc gia kế thừa được chia thành hai giai cấp - gầy và béo, số người béo ít hơn bảy lần so với các quốc gia gầy, nhưng lượng của cải trong tay của cả hai đều ngang nhau. Tài sản của người béo 60% từ chứng khoán và 40% từ tiền mặt, trong đó 20% là tiền mặt và còn lại là tiền tiết kiệm trong tài khoản ngân hàng. Sự giàu có rất ít: cổ phiếu - 20%, tiền mặt - 80%, trong đó tiền mặt là 80%, phần còn lại ở tài khoản ngân hàng. Có nguy cơ xảy ra một cuộc cách mạng xã hội chủ nghĩa hoặc đảo chính quân sự. Chúng sẽ xảy ra nếu
+
+1) do cải cách, sự chênh lệch về mức giàu có trung bình của mỗi tầng lớp sẽ tăng hơn gấp đôi hoặc giảm hơn ba lần;
+
+2) tài sản của mỗi hạng bị mất đi hơn 3/4 giá trị ban đầu;
+
+3) khi thực hiện cải cách phân hóa, số lớp cần có sẽ lớn hơn gấp ba lần;
+
+4) cải cách sẽ không xảy ra
+
+Theo bạn, hãy mô tả cơ chế tối ưu để thực hiện cải cách.
+
+4. Số 1992$^{19931994}$ kết thúc bằng chữ số nào?
+
+5. Trong viện điều dưỡng, mọi người đều chơi ít nhất một trò chơi bài: poker, bridge hoặc sở thích. Tuy nhiên, vẫn có những người riêng biệt trong viện điều dưỡng.
+
+Trong số những người chơi không quá hai trò chơi, cứ mỗi người chơi riêng ở Preferas, có ba Preferas qua tai với bridge, và cứ năm người chơi ở bridge và Preferas, thì có hai người chơi poker và Preferas. Cũng cần lưu ý rằng có chính xác 12 người chơi riêng biệt đang chơi một trò chơi và số người chỉ chơi Preferas vẫn bằng một nửa số người không chơi trò chơi đó.
+
+Bao nhiêu phần trăm số người chơi cả ba trò chơi? Nếu điều này không thể được xác định, hãy giải thích tại sao.
+
+6. Cho trước: 101—102=1. Bằng cách di chuyển một số (0, 1 hoặc 2), hãy biến câu nói này thành một phương trình đúng.
+
+7. Một đứa trẻ vô gia cư phải làm một chiếc parissa từ 3 mẩu thuốc lá. Trong một thùng rác, anh ta tìm thấy 12 mẩu thuốc lá. Anh ấy đã hút được bao nhiêu pariro?
+
+8. Sasha, Petya và Misha chơi một trò chơi như vậy. Sasha nghĩ ra hai số tự nhiên và cho Petya biết kết quả của chúng, đồng thời kể cho Misha biết tổng đó và hỏi: "Petya, bạn có biết tôi đang nghĩ đến những con số nào không?" - "KHÔNG." - "Còn bạn, Misha?" - “Cũng không.” Sau đó Sasha lặp lại câu hỏi của mình, đầu tiên là Petya và sau đó là Misha đã gỡ lỗi những con số này. Những con số nào đã được nghĩ tới?
+
+9. Vua Tufti I của Naduvaniya ra lệnh kiểm tra cuộc điều tra dân số và xác định xem cuộc sống của thần dân Naduvaniya có thay đổi tốt hơn trong những năm ông trị vì hay không. So sánh kết quả của cuộc điều tra dân số đã được kiểm toán với kết quả của cuộc điều tra trước đó, cơ quan thống kê Naduvan lưu ý rằng cả tuổi thọ trung bình của nam giới và tuổi thọ trung bình của phụ nữ đều tăng trong cả nước. Đồng thời, một nhóm chuyên gia độc lập trình bày một báo cáo cho thấy sự suy giảm tuổi thọ trung bình nói chung của các vị vua trung bình.
+
+Nhà vua nên tin vào thông tin gì?
+
+10. Trang trại tập thể Timurovets đã giao một mảnh đất hình vuông cho Viện Hàn lâm Khoa học, trên đó đặt 5 mảnh vườn hình vuông có diện tích bằng nhau cho 5 học giả. Giúp người quản lý kinh doanh của Học viện thực hiện việc này với ít không gian bị mất nhất.

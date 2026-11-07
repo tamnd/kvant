@@ -1,0 +1,64 @@
+---
+id: 1992-2-gik-partii-chempionov-7f2e4d06
+issue: kvant_1992_2
+year: 1992
+number: "2"
+title: Trò chơi vô địch
+authors:
+  - Гик Е. Я.
+rubric: shahmatnaya-stranichka
+rubric_sub: Шахматы
+page_first: 83
+page_last: 83
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: a3667080899240b612ede8424ed0851dd8c0a18c31539b85b146e3f2174e4aef
+prompt_sha256: draft-1
+translated_from: content/ru/1992/02/articles/02_gik-partii-chempionov-7f2e4d06.md
+source_content_sha256: 944a03762fdbfb6d744b6b4a964f7e5f3643979fc77be1e4dbae1bbf73e6f4f6
+translation_model: draft
+translation_run: vi-draft-gaps-2026-11-06
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+---
+running_head:
+folio:
+---
+
+TRÒ CHƠI VÔ ĐỊCH
+
+Lần trước chúng ta đã nói về Giải vô địch máy vi tính cờ vua thế giới lần thứ XI. Anh ấy đã xác định được một số nhà vô địch cùng một lúc (ở các hạng “cân nặng” khác nhau), nhưng nhiều nhà vô địch “Mephisto” vẫn có cơ hội. Bây giờ chúng ta hãy trình bày những trận đấu thú vị nhất của giải đấu ở Vancouver.
+
+"M-Cờ vua" - "Mephisto"
+Gambit của Nữ hoàng tốt bụng
+1. d4 d5 2. c4 dc 3. Kf3 Kf6 4. e3 e6 5. C:c4 c5 6. 0—0 a6 7. a4 Kc6 8. Qe2 cd 9. Jld1 Ce7 10. ed 0—0 11. Kc3 Kd5 12. Ke5 Kcb4 13. Cb3 Cf6 14. Cd2 b6 15. K:d5 K:d5 16. Cc2 Cb7 17. Qe4 g6 18. Ch6 Jle8 19. Jlac1 Jle8 20. Jle1 Qe7 21. Cb3 Jled8 22. Jlc8 Jc8 23. Kg4 a5 24. K:f6+ K:f6? 25. Qe5 Ke8 26. d5! Một bước đột phá kinh điển ở trung tâm quyết định trận đấu. 26...Qb4 27. Qe3! Ca6 (27...ed 28. Q:e8+) 28. de f6 29. e7+ Cc4 30. C:c4+ Qc4 31. Qb6 Qd5 32. h3 Kpf7 33. b4 ab 34. Q:b4 Jlc7 35. Cd2 Qa2 36. Qh4 h5 37. Qd4 Jlc2 (37... Jl:e7 38. Jl:e7+ Kp:e7 39. Cb4+ Kpf7 40. Qd7+) 38. Cc3 Qb3 39. Jle3 Qb1+ 40. Ce1 Qb7 41. a5 Jlc7 42. Qd8 Jl:e7 43. a6 Jl:e3 44. ab Jl:e1+ 45. Kph2 Jlb1 46. b8Ф. Những người da đen đã bỏ cuộc.
+
+"Mephisto" - "Gideon"
+Phòng thủ Caro-Kann
+1. e4 c6 2. d4 d5 3. Kc3 de 4. K:e4 Cf5 5. Kg3 Cg6 6. Cc4 e6 7. K1e2 Kf6 8. Kf4 Cd6 9. Cb3 Qc7 10. Qf3 Kbd7 11. 0—0 a5 12. c3 c5 (cao hơn 12...0—0) 13. C:e6!? fe 14. K:e6 Qb6 15. K:g7+ Kpf7 16. K7f5 cd 17. cd C:g3 18. Kh6+ Kpg7 19. Q:g3 Jhe8 20. Jld1 Kph8 21. b3 Jlac8? Đặt và 21...Qd4 vì 22. Ce3 Qe5 23. Qh4 Qh5 24. Q:h5 C:h5 25. g4 Cg6 26. Cd4. Tuy nhiên, chặn quân d với 26...Kd5!, Đen vẫn giữ được vị trí.
+
+22.d5! Một lần nữa, động tác d4-d5 lại dẫn đến bàn thắng, nhưng lần này “Gideon” đóng vai trò là bên bị thương.
+
+22...Jle2 23. Ce3 Qb5 24. Cd4 Jce8 25. Cc3 Qb6 26. d6 Qd8 27. Qg5 b6 28. f4! Jlf8 29. f5 Ce8 30. Jlel Ch5 (30...Jl:e1+ 31. Jl:e1 với sự đe dọa của Jle7) 31. Q:h5. Những người da đen đã bỏ cuộc.
+
+"Gideon" - "M-Cờ vua"
+Hàng phòng ngự của Groinfeld
+1. d4 Kf6 2. c4 g6 3. Kc3 d5 4. cd K:d5 5. e4 K:c3 6. bc Cg7 7. Cc4 c5 8. Ke2 0—0 9. 0—0 Kc6 10. Ce3 Qc7 11. Jlc1 Jld8 12. Cf4 Qd7 13. d5 Ke5 (tốt hơn 13...Ka5) 14. C:e5 C:e5 15. f4 Cg7 16. Jlb1 Qc7 17. f5 gf 18. ef a6 19. a4 Ce5 20. g3 Cf6? 21. Jlf4 Cg5 22. Jlg4 h6 23. Qc2 Qe5 24. Jlf1 Kpf8 25. Qe4!? Qf6? Màu đen bằng cách nào đó nổi bật so với những quân cờ không che giấu và bằng cách đổi quân hậu, có thể có được một vị trí hoàn toàn có thể chấp nhận được. Bây giờ “Gideon” kết thúc cuộc chiến bằng một đòn tấn công hiệu quả. 26. h4 Cd2.
+
+27. Jlg6! Qh8 28. d6! ed 29. C:f7! Kp:f7 30. Qd5+ Kpf8 31. Q:d2 Kpe8 32. Jle1 Kpf7 33. Qd5+ Kpf8 34. Kf4. Những người da đen đã bỏ cuộc.
+
+Vì vậy, “M-Chess” đã đánh bại “Mephisto”, người đã đánh bại “Gideon”, người lần lượt đánh bại “M-Chess”. Và vị trí của máy tính trên bảng xếp hạng được quyết định bởi cuộc chiến của họ với các đối thủ khác. Để kết luận, chúng tôi giới thiệu một trò chơi thú vị khác của người chiến thắng giải đấu.
+
+"Vua" - "Gideon"
+Byrd ra mắt
+1. b3 c6 2. a4 d5 3. Cb2 Cf5 4. f4 Kf6 5. Kf3 e6 6. e3 Cb4 7. Ce2 0—0 8. Kh4 Ce4 9. 0—0 Cc5 10. Kc3? d4! White chơi phần mở đầu có phần kiêu ngạo và “Gideon” nắm lấy thế chủ động. 11. K:e4 K:e4 12. Kf3 de 13. d4 Cd6 14. Dd3 Kf6 15. Ke5. Cuối cùng 15. Q:e3 Kd5 con tốt f4 bị mất.
+
+15...Kd5 16. c4 Kb4 17. Qc3 (và bây giờ bạn không thể vào e3 vì đáp số Kc2) 17...Qc7 18. Kg4 f5! Đen không rơi vào bẫy: 18...C:f4 19. d5! f5 20. Jl:f4.
+
+19. Kế5. Một lần nữa con tốt không thể sử dụng được: 19. K:e3 C:f4 20. K:f5 ef 21. Q:b4 C:h2+. Có vẻ như bây giờ không còn đường cho con tốt “e” (ví dụ: nó đe dọa Jlf1—f3:e3), nhưng “Gideon” đã được đoán trước! 19...c5! 20. dc C:c5 21. Jlfd1 K4c6 22. b4! Cuối cùng, Trắng đã tiêu diệt được con tốt điện tử đã đột phá, nhưng thu hồi được con tốt vật chất. 31. g3 Ke5 32. Cf3 Jla8 33. Jld2 Kpf7 34. Kpg2 h6 35. Jlb2 Jla6 36. Jlb5 b6 37. Jlb2 Qf6 38. Qd2 g5! 39. Jlb1 gf 40. gf Qh4 41. h3 Jla3! 42. Qf2 (bẫy cuối cùng là 42...Qf4 43. Ch5+) 42...Qf2+ 43. Kp:f2 Kd3+ 44. Kpg3 Kpf6 45. h4 Jlc3 46. Jla1 Jlb3 47. Jlf1 e5 48. fe+ K:e5 49. Kpf4 Jl:f3+ 50. Jl:f3 K:f3. Trắng đã bỏ cuộc.
+
+E. Geek

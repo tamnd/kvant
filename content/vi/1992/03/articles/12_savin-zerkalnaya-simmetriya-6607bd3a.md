@@ -1,0 +1,68 @@
+---
+id: 1992-3-savin-zerkalnaya-simmetriya-6607bd3a
+issue: kvant_1992_3
+year: 1992
+number: "3"
+title: Đối xứng gương
+authors:
+  - Савин А. П.
+rubric: kaleydoskop-kvanta
+rubric_sub: Калейдоскоп
+page_first: 42
+page_last: 42
+page_labels: "40"
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 9ba540056c55c580d61f5e91bc1d6a92cd0b63a49d8d4a2136ccbad27e89a847
+prompt_sha256: draft-1
+translated_from: content/ru/1992/03/articles/12_savin-zerkalnaya-simmetriya-6607bd3a.md
+source_content_sha256: 6ed13844b11c5bc12fb8e2182e44cb1491ee2812414667dce13979f96eafd335
+translation_model: draft
+translation_run: vi-draft-gaps-2026-11-06
+translation_quality: draft
+---
+
+⟦folio 40⟧
+
+---
+running_head:
+folio:
+---
+
+Gương
+Có sự rung chuyển xuyên qua khoảng trống -
+có một con bướm sáng. Cô ấy
+đôi cánh dường như
+hoàn toàn giống nhau. Và, như thể đối với
+để nó được
+nhắc lại, cô ấy ngồi xuống
+trên một bông hoa, nếp gấp
+chúng, áp dụng một
+đến người khác và chúng tôi
+chúng ta tận mắt chứng kiến ​​rằng
+hình cánh đơn
+lặp lại chính xác
+hình thức của người khác.
+
+Vậy cánh bướm có thực sự giống nhau không? Không. Lấy một bản sao chính xác của cánh bên phải và đặt nó vào vị trí của cánh bên trái - bạn sẽ không làm tốt: màu sáng sẽ bị lệch về phía hoặc các cánh sẽ không khớp khi gấp lại.
+
+Theo cùng một cách, có sự khác biệt
+tay trái và tay phải, tai trái và phải của chúng ta đều bị ảnh hưởng.
+Bây giờ lấy hạt
+kalo (tốt nhất là không có khung)
+bạn) và đặt nó theo chiều dọc trên con bướm hình sao cho mép gương nằm chính giữa. Và sau đó hóa ra một nửa bức vẽ, cùng với hình ảnh phản chiếu của nó trong gương, tạo nên hình trước đó. Các vật thể, một nửa trong số đó có thể thu được dưới dạng ảnh phản chiếu của vật kia, được gọi là đối xứng gương, và bản thân ảnh đó được gọi là đối xứng gương.
+Những sáng tạo của thiên nhiên cũng có tính đối xứng: động vật, lá cây, pha lê, côn trùng và những sáng tạo của bàn tay con người: nhà cửa, máy móc tự động.
+lee, máy bay, bàn, ghế, thìa, nĩa...
+Hãy quay trở lại thiết bị thực hiện tính đối xứng - chiếc gương. Bạn có thể có được nhiều hình ảnh thú vị và bất ngờ nếu áp dụng nó cho các đồ vật và hình vẽ khác nhau. Có lẽ điều ngạc nhiên lớn nhất sẽ là một bản sao có ảnh của bạn. Chúng tôi hoàn toàn chắc chắn rằng khuôn mặt của chúng tôi đã đạt được sự đối xứng. Chiếc gương sẽ cho thấy rằng điều này không phải như vậy: một hình ảnh hoàn toàn đối xứng thu được qua gương không giống bạn lắm. Sự đối xứng tuyệt đối hoàn toàn không xảy ra trong tự nhiên. Cho dù những tấm giấy, những viên pha lê và những con bướm giống nhau có vẻ đối xứng đến mức nào, những ghi chú có tội có thể quan sát được (hình dạng của những đường gân, vết nứt, đốm màu) ... có lẽ hoàn cảnh này đã trở thành lý do cho quy tắc xây dựng danh mục đền thờ sau đây: chúng phải đối xứng ở các chi tiết chính, nhưng trong các chi tiết nhỏ cần có sự phân biệt giữa phần bên trái và bên phải.
+
+Cách viết mới nhất của nhà soạn nhạc
+I. Stravinsky
+
+Khái niệm đối xứng là một trong những khái niệm chính trong các ngành khoa học như vật lý và tinh thể học.
+
+Đối xứng gương có thể giúp giải quyết lời giải một số bài toán hình học như thế này. Một du khách có thể đi từ điểm A đến điểm B, nằm trên cùng một bờ kênh thẳng tắp, đồng thời lấy nước từ kênh. Con đường nào là ngắn nhất?
+
+Để giải bài toán, chỉ cần phản chiếu điểm B so với bờ kênh và vẽ một đoạn nối điểm B với bờ kênh là đủ.
+
+thu được điểm B₁ với điểm A. Giao điểm của điểm này

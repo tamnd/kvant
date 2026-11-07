@@ -1,0 +1,69 @@
+---
+id: 1992-1-lalayants-chudesa-miniatyurizatsii-7f672f53
+issue: kvant_1992_1
+year: 1992
+number: "1"
+title: Sự kỳ diệu của sự thu nhỏ
+authors:
+  - Лалаянц И. Э.
+rubric: novosti-nauki
+rubric_sub: Новости науки
+page_first: 34
+page_last: 35
+page_labels: 32-33
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 5b8132798a39232cb7f69a23b5d0b19e60b1e2b2fae078e31e523dbd62f21942
+prompt_sha256: draft-1
+translated_from: content/ru/1992/01/articles/12_lalayants-chudesa-miniatyurizatsii-7f672f53.md
+source_content_sha256: 1c3619dcf94932e4e6160a926db60b5c7045ab5b0535cd2b5ac7d3f71805e63e
+translation_model: draft
+translation_run: vi-draft-gaps-2026-11-06
+translation_quality: draft
+---
+
+⟦folio 32⟧
+
+---
+running_head:
+folio:
+---
+
+Sự tối ưu hóa phép lạ
+
+Người ta kể rằng Cicero từng nói rằng ông đã nhìn thấy tư thế quang học của tác phẩm “Iliad” của Homer được gắn trong vỏ quả óc chó. Nhưng cách đây vài năm người Scotland đã thực sự phát hành một cuốn sách có kích thước 1x1,5 mm! Con số này gấp 10 lần kích thước “kỷ lục” của microbook trong thế kỷ qua.
+
+Rõ ràng là những cuốn sách như vậy có thể được đọc với sự trợ giúp của, nếu không phải là điện tử, thì là một chiếc kính hiển vi đơn giản. Và thậm chí còn tốt hơn - với sự trợ giúp của tia laser, chùm tia này đọc thông tin từ bề mặt của đĩa compact, chủ yếu nhằm mục đích ghi âm.
+
+Và ở đây việc hạn chế đã không bỏ qua chúng tôi. Nếu những đĩa âm thanh đầu tiên có đường kính 12 cm và được thiết kế để phát trong một giờ thì giờ đây họ đã bắt đầu sản xuất đĩa Tâm trí, đường kính của nó chỉ bằng một nửa và thời gian phát dài hơn một phần tư giờ.
+
+Không phải đĩa CD đã được điều chỉnh để ghi cái gọi là thông tin tương tác, tức là không chỉ thông tin âm thanh mà còn cả thông tin văn bản và hình ảnh. Những đĩa như vậy đại diện cho một "kho lưu trữ" thông tin, giống như trên đĩa âm thanh, được áp dụng lên bề mặt của nó trong quá trình ghi dưới dạng rãnh và vùng nhẵn. Khi đọc thông tin bằng chùm tia laze, các rãnh và vùng nhẵn này được hiểu là “số 0” và “số 1” của mã kỹ thuật số.*)
+
+Những đĩa CD như vậy có dung lượng và mật độ ghi thông tin rất lớn. Chỉ cần nói rằng trên một đĩa, toàn bộ Bách khoa toàn thư Liên Xô vĩ đại sẽ bị thu gọn, bao gồm cả các bộ bách khoa toàn thư Brockhaus và Efron. Hơn nữa, trong một bài viết về Beethoven, bạn sẽ nghe thấy những đoạn trong các tác phẩm của ông, và trong phần ấn tượng, bạn sẽ thấy hàng trăm, thậm chí hàng nghìn bức tranh. Toàn bộ bảo tàng Louvre hoặc Bảo tàng Anh có thể được “lưu trữ” trên một đĩa; tất cả kho báu của Hermecca hoặc Bảo tàng Nga đều có thể được “lưu trữ” cùng với các kho của chúng.
+
+Có vẻ như đã đạt đến giới hạn—tức là giới hạn vật lý—về mật độ sắp đặt thông tin. Tuy nhiên, điều này là xa trường hợp. Một phương pháp gần đây đã được đề xuất để chuyển các nguyên tử riêng lẻ lên bề mặt của một chất bằng cách sử dụng đầu kim của kính hiển vi đường hầm quét*).
+
+Để làm được điều này, một điện thế dương nhỏ được đặt vào đầu kim, theo ý tưởng của Coulomb - góp phần tạo nên “sự gắn kết” của lớp vỏ tích điện âm của nguyên tử. (Ở một mức độ nào đó, điều này còn tệ hơn việc “gắn” những mảnh giấy vào một thanh thủy tinh đã cọ xát.)
+
+Khi một nguyên tử hoặc ion của một nguyên tố nào đó được chuyển đến điểm mong muốn trên bề mặt, một xung âm sẽ được truyền vào đầu kim. Nguyên tử (cũng theo định luật Coulomb) được tách ra khỏi đầu và cố định trên đế. Một “ngọn đồi” gồm 1000 nguyên tử như vậy tương ứng với “một” và sự vắng mặt của chúng tương ứng với “không”. Mật độ ghi bằng phương pháp này rất khó tưởng tượng. Hãy nói thêm rằng nội dung của tất cả các cuốn sách của Thư viện Lenin được ghi lại trên một đĩa compact mini (và sẽ cần tổng cộng một phần tư triệu đĩa!).
+
+Chỉ mất khoảng một năm để “đốt” một chiếc đĩa như vậy. Vì vậy lúc này chúng ta cần tìm cách “tăng tốc” việc ghi và đọc kỹ thuật…
+
+I. Lalayachi
+
+*) Chúng tôi khuyên bạn nên đọc các bài viết của Yu. Nosov “Bộ nhớ Otic” («Kvant», 1989, số 11) và “Bộ nhớ ba chiều” («Kvant», 1991, số 10). (Ghi chú của biên tập viên)
+
+*) Đọc về thiết bị này trong bài viết của A. Volodin “Microcops có thể chạm được” («Kvant», 1991, số 4). (Ghi chú của biên tập viên)
+
+⟦folio 33⟧
+
+---
+running_head:
+folio:
+---
+
+Vật lý 9-11
+
+Ghi chú “Hình nón ma sát” dưới đây dành cho học sinh lớp chín, ghi chú “Nguồn điện đầu tiên” - dành cho học sinh lớp mười, “Nhiễu xạ sóng” - dành cho học sinh lớp một.*)
+Chúng tôi cũng xuất bản “Trường chọn lọc bài toán về vật lý”.

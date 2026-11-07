@@ -1,0 +1,45 @@
+---
+id: 1992-11-kalinin-flekso-kvadrat-85aa688a
+issue: kvant_1992_11
+year: 1992
+number: "11"
+title: Hình vuông uốn cong
+authors:
+  - Калинин А. Т.
+rubric: smes
+page_first: 84
+page_last: 84
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 54f771488c508aaa6ae75e2ef8ab5539343359b7728822f4b65b788c0eb430e4
+prompt_sha256: draft-1
+translated_from: content/ru/1992/11/articles/01_kalinin-flekso-kvadrat-85aa688a.md
+source_content_sha256: 995b37e7245e8fccb7080c3ebdb3e5fe18cb72b005d52465ec08ebfe4df3dfe1
+translation_model: draft
+translation_run: vi-draft-gaps-2026-11-07
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+---
+running_head:
+folio:
+---
+
+FLEXO-SQUARE
+
+Nếu “dí dỏm” được áp dụng cho các câu đố, thì “flecko-cavadrat” hiển thị ở hình xứng đáng với điều đó.
+
+Họ biết, sau khi xem câu đố này (nhưng không cần nhặt nó lên), họ nói rằng nó có lẽ rất đơn giản. Đã cố gắng giải quyết nó, sau vài phút họ tuyên bố rằng nó không thể giải quyết được. Và chỉ khi họ hoàn thành chúng, câu đố đó có lời giải, họ mới bắt tay vào công việc và hoàn thành nhiệm vụ khá nhanh chóng.
+
+hình hiển thị mặt trước và mặt sau của hình vuông flecco và ở phía dưới bên phải là hai phiên bản của câu đố lời giải (ở dạng phức tạp, hình vuông flecco ở cả hai mặt phải có màu đỏ hoặc xanh lam).
+
+Vẽ lại hình vuông lên giấy, tô màu cả hai mặt theo đúng hình, cắt các lỗ xuyên qua (cũng không phải hình chúng có màu trắng) và cố gắng giải.
+
+Gửi cho chúng tôi phiên bản của bạn về các câu đố flecko tương tự.
+
+A.K.
+
+B

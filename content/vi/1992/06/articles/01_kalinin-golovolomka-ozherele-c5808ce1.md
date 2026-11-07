@@ -1,0 +1,34 @@
+---
+id: 1992-6-kalinin-golovolomka-ozherele-c5808ce1
+issue: kvant_1992_6
+year: 1992
+number: "6"
+title: Câu đố "Vòng cổ"
+authors:
+  - Калинин А. Т.
+rubric: smes
+page_first: 84
+page_last: 84
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: c216b4477430c38d98316b8404352294d203de1c022cb7a9a0e60bae092ca503
+prompt_sha256: draft-1
+translated_from: content/ru/1992/06/articles/01_kalinin-golovolomka-ozherele-c5808ce1.md
+source_content_sha256: cfaa9fd2fb35fa8bb7a3fcc1e452eb29df5da6a54c0b4ca74e5ab2727ec9b32f
+translation_model: draft
+translation_run: vi-draft-gaps-2026-11-07
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+---
+running_head:
+folio:
+---
+
+VÒI VÒNG CỔ
+Chuỗi 36 bánh xe được hiển thị ở hình có thể vừa là vật trang trí vừa là thợ kim hoàn. Nếu bạn treo sợi dây chuyền này lên cổ, bạn sẽ có được một chiếc vòng cổ xinh xắn. Chiếc vòng cổ này sẽ trở thành thợ kim hoàn nếu bạn nhờ ai đó đặt sợi dây chuyền lên một mặt phẳng có dạng hình vuông có bánh xe 6x6. Tất nhiên, trước tiên hãy học cách tự làm điều đó.
+
+A. Kalinin

@@ -1,0 +1,107 @@
+---
+id: 1992-10-pobediteli-konkursa-matematika-6-8-53a25c80
+issue: kvant_1992_10
+year: 1992
+number: "10"
+title: Những người chiến thắng trong cuộc thi "Toán học 6-8"
+rubric: konkurs-imeni-a-p-savina
+rubric_sub: Конкурс имени А. П. Савина
+page_first: 44
+page_last: 44
+page_labels: "42"
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 8c1a462220619bc4878dbf427b834545ee65dd844cfeaba37c6e6396c37c0f6d
+prompt_sha256: draft-1
+translated_from: content/ru/1992/10/articles/13_pobediteli-konkursa-matematika-6-8-53a25c80.md
+source_content_sha256: 65c8f456bc3e2efe29dcf067d31213ae5d679e7fc68a5740272663901ea5d786
+translation_model: draft
+translation_run: vi-draft-gaps-2026-11-07
+translation_quality: draft
+---
+
+⟦folio 42⟧
+
+---
+running_head:
+folio:
+---
+
+Những người chiến thắng trong cuộc thi "Toán học 6-8"
+
+Chúng tôi công bố kết quả cuộc thi lần thứ hai “Toán học 6-8”, được tổ chức vào năm 1991-1992. (Số 9 - Số 4). Kết quả của cuộc thi được tổng hợp dựa trên những lá thư mà ban biên tập nhận được. Chúng tôi đổ lỗi cho việc giao tạp chí không miễn phí (không phải lỗi của chúng tôi). Có lẽ vì điều này mà nhiều độc giả của chúng tôi đã không thể tham gia cuộc thi.
+
+Mỗi trong số 24 đề xuất bài toán có giá trị 10 điểm. Những con số phía trước tên của những người chiến thắng cuộc thi cho biết số điểm họ ghi được.
+
+Các giải thưởng của tạp chí bao gồm:
+
+239 Sherbitskaya V.—Minsk, s.sh. 53, lớp 8,
+236 Sannikov Yu.—Sevastopol, phía bắc sh. lớp 8, 7,
+227 Gulyaev L.—N. Novgorod, s.sh. 82, lớp 7,
+220 Voiko M.—Kharkov, s.sh. 27, lớp 8,
+219 Melnik A.—Gayvoron, s.sh. lớp 2, 7,
+218 Zaitsev G.—Moscow, s.sh. 444, 8 lớp,
+216 Rusinkovsky V.—Cheboksary, s.sh. 20, lớp 8,
+215 Vodareva L.—Lvov, s.sh. 74, 8 lớp,
+214 Varashkov D.—Zhukovsky, s.sh. lớp 3, lớp 8,
+213 Vòng tròn toán học n.s. 51 Kiev, giám đốc. V. N. Shkolnik,
+208 Ryazanova E. - Kurakhovo, s.sh. lớp 1, lớp 7,
+206 Masaltsev D.—Kharkov, s.sh. 27, lớp 8,
+206 Starobinskaya A.—Moscow, s.sh. 38, 8 lớp,
+198 Vladyshevsky S., Pavlishin M., Khovratsuk O.—Odesca, s.sh. 53, lớp 8,
+196 Kudinov A.—Minsk, s.sh. 64, lớp 6,
+189 Pleshachkov A.—Zhukovsky, s.sh. 10, lớp 7,
+187 Krivosheya A.—Vinnitsa, s.sh. 11, lớp 6,
+180 Kadochnikov P.—Pskov, lyceum, lớp 8,
+178 Vokiy A.—Kyiv, s.sh. 98, lớp 6,
+177 Sedykh Yu.—Angarsk, s.sh. lớp 10, 8,
+176 Dolganov P. - Làng Chernogolovka, vùng Moscow, phía bắc sh. 82, lớp 8,
+
+173 Pak K. - Dushanbe, s.sh. 20, lớp 8,
+166 Zyryanov G.—Tashkent, s.sh. 91, lớp 8,
+165 Letita T. - Stryi, s.sh. 10, 6 lớp
+
+Cuộc thi Žorni cũng tôn vinh thành tích thành công của các học sinh sau trong cuộc thi:
+
+156 Bakaleynik L.—Thanh, s.sh. lớp 2, 8,
+151 Smirnova E.—Dzerzhinsk, vùng Nizhny Novgorod. vĩ độ Bắc 11, 8 lớp,
+150 Feigenson M.—Komsomolsk-on-Amur, s.sh. 51, lớp 6,
+144 Bezdelin V.—Pskov, lyceum, lớp 8,
+139 Evseev A.—Moscow, s.sh. 1016, 3 lớp,
+138 Soshnikov K. - Làng Chernogolovka, vùng Moscow, phía bắc sh. 82, lớp 6,
+134 Petrenov I.—P. Druzhny, vùng Minsk, phía bắc sh. lớp 1, lớp 4,
+130 Turovsky A.—Baku, s.sh. 151, lớp 7,
+126 Khrenkov V.—Moscow, s.sh. 550, 8 lớp,
+123 Nogina O.—Chelyabinsk, s.sh. 127, 8 lớp,
+119 Rykova O.— St. Petersburg, s.sh. 517, lớp 7,
+114 Simunov S.—Zhukovsky, s.sh. 10, lớp 7,
+112 Shanov V.—Odesca, s.sh. 100, 8 lớp,
+111 Shatunov S.—Kyiv, s.sh. 288, 6 ô,
+110 Garayev R. và Gilfanova R.—làng Ileksaaz, Tatarstan, lớp 7,
+110 Kulik A.—Kanev, s.sh. lớp 4, 7,
+109 Karpenkov O.—Moscow, s.sh. 444, lớp 6,
+109 Prokorod D.—Minsk, s.sh. 19, lớp 8,
+107 Evchik T.—Pinnik, s.sh. lớp 4,8,
+106 Kurmanalen X.—Alma-Ata, s.sh. 90, 8 lớp,
+105 Khanmagomedov - Derbent, vĩ độ 19 phía bắc, lớp 8,
+103 Senkevich O.—Ivanovo, s.sh. 22, lớp 8,
+100 Apalkov D.—Kharkov, s.sh. lớp 16,8,
+100 Ilchev A.—Ruetov, s.sh. lớp 3, lớp 8,
+100 Drop E. - Kapustin Yar, vĩ độ Bắc 235, 8 bậc,
+100 Minina N.—Nikolaev, s.sh. 41, lớp 8,
+100 Okuneva E.—Arzamas, s.sh. lớp 2, 7,
+100 Polinsky N.—Miass, s.sh. lớp 10, 6,
+100 Potapov E.—Moscow, s.sh. 633, 6 ô.
+
+Bạn đọc thân mến!
+
+Hãy để chúng tôi nhắc bạn rằng bạn có thể đăng ký tạp chí của chúng tôi từ bất kỳ số báo nào mà không bị hạn chế tại các cơ quan, bưu điện và bưu điện.
+
+Chỉ số tạp chí trong danh mục là 70465.
+
+Nếu bạn sống ở Moscow hoặc khu vực Moscow và không muốn trả tiền giao hàng, hãy đăng ký và nhận tạp chí của chúng tôi trực tiếp từ tòa soạn.
+
+Và dù bạn sống ở đâu, nếu bạn gặp vấn đề với việc đăng ký của mình, vui lòng liên hệ với biên tập viên của chúng tôi.
+
+Chúng tôi mời mọi người đăng ký để phân phối.

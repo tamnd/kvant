@@ -1,0 +1,43 @@
+---
+id: 1992-4-zadachi-c3d68547
+issue: kvant_1992_4
+year: 1992
+number: "4"
+title: Bài toán
+rubric: kvant-dlya-mladshih-shkolnikov
+rubric_sub: «Квант» для младших школьников
+page_first: 36
+page_last: 36
+page_labels: "34"
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 58dc896c4dab31bd4e7b446feb0ccbe475b8409b8501e0d8da5dcd6aede5bc8d
+prompt_sha256: draft-1
+translated_from: content/ru/1992/04/articles/09_zadachi-c3d68547.md
+source_content_sha256: 8d2558e77c292b03f3301bb1d7b175971939037ef1bf807f42d7b1508195f5af
+translation_model: draft
+translation_run: vi-draft-gaps-2026-11-06
+translation_quality: draft
+---
+
+⟦folio 34⟧
+
+---
+running_head:
+folio:
+---
+
+Bài toán
+
+1. Trước khi bắt đầu giờ học, giáo viên chủ nhiệm nhận thấy mọi học sinh trong lớp đều bắt tay sáu cô gái và tám chàng trai. Đồng thời, số lần bắt tay giữa nam và nữ ít hơn năm lần so với số lần bắt tay khác. Có bao nhiêu học sinh trong lớp?
+
+2. Giải một bài toán số học. Các chữ cái giống nhau tương ứng với các số giống nhau, các chữ cái khác nhau tương ứng với các số khác nhau.
+
+3. Các số 18 và 46 rất thú vị vì bình phương của chúng - 324 và 2116 - có cùng tổng các chữ số với chính các số đó. Chứng minh rằng có vô số số nguyên có tính chất này, kể cả trong số những số không có tận cùng bằng 0.
+
+4. Cư dân của tất cả các căn hộ đối diện với cùng một tầng quyết định gắn số căn hộ mới vào cửa của họ. Hợp tác xã nơi họ thành lập với yêu cầu sản xuất 7 chữ số cần thiết đã thông báo rằng họ sẽ tính phí một trăm rúp cho việc sản xuất mỗi chữ số, chữ số này là gì (ví dụ: số 0 được sản xuất miễn phí). Cư dân đã thu được 3 rúp từ mỗi căn hộ và thế là đủ đối với họ. Những số nào đã được đặt hàng?
+
+5. Hai hình vuông màu xanh và màu đỏ được sắp xếp sao cho hai đỉnh liền kề của hình vuông màu đỏ nằm trên các cạnh liền kề của hình vuông màu xanh và một trong các đỉnh của hình vuông màu xanh nằm trên cạnh của hình vuông màu đỏ (xem hình). Chứng minh rằng đoạn MN nối hai điểm chung nữa trên chu vi của các hình vuông này đi qua tâm hình vuông màu đỏ.
+
+Những bài toán này được K. Kokhas, S. Bazhenov, L. Kurlyandchik, I. Akulich, V. Proizvolov đề xuất cho chúng tôi.

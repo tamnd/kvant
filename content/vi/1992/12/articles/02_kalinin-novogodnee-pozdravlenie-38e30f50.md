@@ -1,0 +1,42 @@
+---
+id: 1992-12-kalinin-novogodnee-pozdravlenie-38e30f50
+issue: kvant_1992_12
+year: 1992
+number: "12"
+title: Lời chúc mừng năm mới
+authors:
+  - Калинин А. Т.
+rubric: smes
+page_first: 84
+page_last: 84
+lang: vi
+source: kvant_digital
+extraction: vision
+content_sha256: 09fa2c0207a2fa3a51b573c6eeab3e5bb4c55ab4b6b3f58a5a8b47fd3865d74e
+prompt_sha256: draft-1
+translated_from: content/ru/1992/12/articles/02_kalinin-novogodnee-pozdravlenie-38e30f50.md
+source_content_sha256: 922457fda8afddaea1807e9b89c156089a98a5b6c10c2f565d8f73edb9bb38ed
+translation_model: draft
+translation_run: vi-draft-gaps-2026-11-07
+translation_quality: draft
+---
+
+⟦folio none⟧
+
+---
+running_head:
+folio:
+---
+
+1 chà. 10k.
+Chỉ số 70465
+
+CHÚC MỪNG NĂM MỚI
+
+Phần mở đầu bạn nhìn thấy ở hình không có bốn chữ cái. Nhưng trên tấm thiệp dưới đây, những chữ cái này là quá đủ. Nhiệm vụ của câu đố là kết hợp các đáp án khám phá và tấm thiệp có chữ cái sao cho đọc được trọn vẹn lời chúc Tết.
+Trước khi cắt phần mở đầu, hãy trả lời câu hỏi: có bao nhiêu lựa chọn để tương tác?
+Sự sắp xếp hợp lý giữa phần mở đầu và tấm thẻ, sao cho tất cả các câu trả lời đều có chữ cái hiển thị, ngay cả khi chúng sai?
+Quy tắc của chúng tôi không phải là đưa ra lời khuyên, nhưng vì lợi ích của kỳ nghỉ, chúng tôi sẽ có một ngoại lệ. Nếu bạn nghĩ có 20 phương án như vậy thì bạn sẽ không bao giờ giải được câu đố này.
+Chúng tôi chúc bạn may mắn!
+
+A. Kalinin
